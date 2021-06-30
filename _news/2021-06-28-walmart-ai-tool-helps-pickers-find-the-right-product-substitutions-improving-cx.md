@@ -9,7 +9,7 @@ ampWebUrl: "https://retailtouchpoints.com/topics/data-analytics/ai-machine-learn
 cdnAmpWebUrl: "https://retailtouchpoints-com.cdn.ampproject.org/c/s/retailtouchpoints.com/topics/data-analytics/ai-machine-learning/walmart-ai-tool-helps-pickers-find-the-right-product-substitutions-improving-cx/amp"
 type: article
 quality: 52
-heat: 62
+heat: 52
 published: false
 
 provider:
@@ -24,22 +24,6 @@ images:
     width: 1920
     height: 1080
     isCached: true
-
-related:
-  - title: "Walmart enlists artificial intelligence for online grocery substitutions"
-    excerpt: "Walmart is putting artificial intelligence (AI) to work in making sure customers get what they like in online grocery orders. Srini Venkatesan, executive vice president at Walmart Global Tech, said in a blog post yesterday that the company has developed AI-based technology to help its personal shoppers and customers make smarter substitutions for out-of-stock products."
-    publishedDateTime: 2021-06-25T20:40:00Z
-    webUrl: "https://www.supermarketnews.com/technology/walmart-enlists-artificial-intelligence-online-grocery-substitutions"
-    type: article
-    provider:
-      name: Supermarket News
-      domain: supermarketnews.com
-    quality: 36
-    images:
-      - url: "https://www.supermarketnews.com/sites/supermarketnews.com/files/Walmart_personal_shopper-grocery_aisle_0.png"
-        width: 770
-        height: 400
-        isCached: true
 
 secured: "kFdpIHx2Y6726NZdYuXRLL2YuSg9UwNmLVPT43rx1KiyPQNQlr8mi/3RLJLYa6Vnoy3ThMOwpIr90h0FUoLqmJ4yc361it1X5ZXKzNZJdVRwK+RwXQSkLcsESRLbloINUovCdl60SUI72Eos9/VtOqmAhvclYRVIcISuRbPRrwdEK3Dz8PC9W+XVeuN0WBXNcZ5Uj3X1jjn2aJAZtwH98Lti5w4E2TTDvURRYxm0SlsNeplQ7MppLVM6aZPyoNh3hPwE0Q2KMRflCnPTQyoIFcOtcCeFvhjd1Pgu7vrUw81SqIlWNyjT24EjGO9UoQZFoeLBZ8XblTAw2Cwz/9mY3FxIc8BlZLrzl8RvcFKxFJo=;bPy9CbcNWwHuCQkUmXGkGw=="
 ---

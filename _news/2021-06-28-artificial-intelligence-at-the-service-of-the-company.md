@@ -9,8 +9,8 @@ ampWebUrl: "https://www.lavanguardia.com/economia/20210628/7551935/artificial-in
 cdnAmpWebUrl: "https://www-lavanguardia-com.cdn.ampproject.org/c/s/www.lavanguardia.com/economia/20210628/7551935/artificial-intelligence-at-the-service-of-the-company.amp.html"
 type: article
 quality: 59
-heat: 99
-published: true
+heat: -1
+published: false
 
 provider:
   name: La Vanguardia
@@ -27,58 +27,21 @@ images:
     isCached: true
 
 related:
-  - title: "AI trends that will define the future of data science"
-    excerpt: "Artificial Intelligence is the new electricity,” rightly said British-born American computer scientist Professor Andrew NG. AI is transforming every industry and creating huge economic value simultaneously."
-    publishedDateTime: 2021-06-29T09:54:00Z
-    webUrl: "https://timesofindia.indiatimes.com/blogs/voices/ai-trends-that-will-define-the-future-of-data-science/"
-    ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/ai-trends-that-will-define-the-future-of-data-science/"
-    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/ai-trends-that-will-define-the-future-of-data-science/"
+  - title: "Celential.ai Appoints Vice Presidents of AI And Sales; Expands Its AI-Powered Virtual Recruiter Service To Sales Recruiting"
+    excerpt: "Press Release Celential.ai, a leading AI-driven, human-assisted virtual recruiting service, today announced it has named Dr. Xu Miao its Vice President of Artificial Intelligence and Brian Hollinger its Vice President of Sales."
+    publishedDateTime: 2021-06-30T13:25:00Z
+    webUrl: "https://venturebeat.com/2021/06/30/celential-ai-appoints-vice-presidents-of-ai-and-sales-expands-its-ai-powered-virtual-recruiter-service-to-sales-recruiting/"
+    ampWebUrl: "https://venturebeat.com/2021/06/30/celential-ai-appoints-vice-presidents-of-ai-and-sales-expands-its-ai-powered-virtual-recruiter-service-to-sales-recruiting/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/30/celential-ai-appoints-vice-presidents-of-ai-and-sales-expands-its-ai-powered-virtual-recruiter-service-to-sales-recruiting/amp/"
     type: article
     provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 39
-  - title: "Debunking the AI Arms Race Theory"
-    excerpt: "The so-called AI arms race has become a common feature in news headlines, 4 but the arms race framing fails to match reality. While nations are clearly competing to develop and adopt AI technology for military use,"
-    publishedDateTime: 2021-06-29T17:06:00Z
-    webUrl: "https://www.cnas.org/publications/commentary/debunking-the-ai-arms-race-theory"
-    type: article
-    provider:
-      name: CNAS
-      domain: cnas.org
-    quality: 39
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 78
     images:
-      - url: "https://s3.us-east-1.amazonaws.com/files.cnas.org/hero/GettyImages-1198282249-1.jpg?mtime=20210629125925&focal=none"
-        width: 2121
-        height: 1414
-        isCached: true
-  - title: "Explainable AI, the future of financial services"
-    excerpt: "As technology becomes more advanced, it can become harder to understand. Some may accept not fully understanding the ins and outs of a technology if it makes new or better things possible, but not being able to fully understand how a technology works can bring about its own problems."
-    publishedDateTime: 2021-06-30T05:01:00Z
-    webUrl: "https://paperjam.lu/article/explainable-ai-the-future-of-f"
-    type: article
-    provider:
-      name: paperJam
-      domain: paperjam.lu
-    quality: 39
-    images:
-      - url: "https://assets.paperjam.lu/images/articles/explainable-ai-the-future-of-f/0.5/0.5/600/400/414770.jpg"
-        width: 1199
-        height: 800
-        isCached: true
-  - title: "How AI Enables Companies to Harvest the True Value of Data"
-    excerpt: "Digital businesses are in pursuit of new ways to transform data at the speed of business. They rely on AI-enabled technologies to unbolt the true potential of data and leverage the insightful information to make decisions."
-    publishedDateTime: 2021-06-29T05:30:00Z
-    webUrl: "https://customerthink.com/how-ai-enables-companies-to-harvest-the-true-value-of-data/"
-    type: article
-    provider:
-      name: CustomerThink
-      domain: customerthink.com
-    quality: 37
-    images:
-      - url: "https://customerthink.com/wp-content/uploads/business-5205180_1280-1080x675-tech-pixabay.jpg"
-        width: 1080
-        height: 675
+      - url: "https://i0.wp.com/mms.businesswire.com/media/20210630005482/en/888842/4/PR_-_New_Hires_-_final_image.jpg?strip=all&ssl=1"
+        width: 480
+        height: 251
         isCached: true
 
 secured: "T+QkUWfEY6beydZR7HieyNUQFXLaAMVdGY+5YX6gJQbyWOfz7IWuuH7/vblP1ZOwNbk/2tbb/IdzYK+fGgh4/3mfhwOhIMBVinY6wA623KXhblAJPkRRiCQu6Az4+HuFFIRDWBijtIwaQvoe71PBaH1LfRVS5FH9kADPzxGANRb0GnEmbhkYvc7ims8JExOd/klh0cwYuJ8SGt09NCiuKpi8sB811kcwF7pHzJJvVVXmdOyNlBwKUnDgqWpJLlwWDPaXvl9tcp/R+aIt7akA9PiXBEAijo4AoJXKqa5ROTR4MLJDdbbzIGVaESU8byh6bTsiADmCowYfU/5yr95LqicK2QtEANafOpt/doy99uA2CRBNBd3twDRldNvi2/owJpFtC1Ob29o/HL1XQfJ7zAWbIrzhrKZ8reijJfKymdGBRk9FtdwiSpTguB9UTEq7uhvZwZFRkCAH6WwUJSI3ckwSp1KaYBEm8rbBduSaokkczx8m1m4+LJzwC4MOUNtkfkN6xcCgSgpcJMtYn25o/A==;dJGZnHI04ruL2wMx22Eneg=="

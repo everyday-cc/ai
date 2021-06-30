@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Israel used world's first AI-guided combat drone swarm in Gaza attacks"
+    excerpt: "May, the Israel Defense Forces (IDF) used a swarm of small drones to locate, identify and attack Hamas militants. This is thought to be the first time a drone swarm has been used in combat"
+    publishedDateTime: 2021-06-30T12:06:00Z
+    webUrl: "https://www.newscientist.com/article/2282656-israel-used-worlds-first-ai-guided-combat-drone-swarm-in-gaza-attacks/"
+    ampWebUrl: "https://www.newscientist.com/article/2282656-israel-used-worlds-first-ai-guided-combat-drone-swarm-in-gaza-attacks/amp/"
+    cdnAmpWebUrl: "https://www-newscientist-com.cdn.ampproject.org/c/s/www.newscientist.com/article/2282656-israel-used-worlds-first-ai-guided-combat-drone-swarm-in-gaza-attacks/amp/"
+    type: article
+    provider:
+      name: New Scientist
+      domain: newscientist.com
+    quality: 57
+    images:
+      - url: "https://images.newscientist.com/wp-content/uploads/2021/06/30124549/30-june_israel-drone-swarm2.jpg?width=600"
+        width: 600
+        height: 400
+        isCached: true
   - title: "Israel is Using Robots with Machine Guns to Patrol Gaza Border"
     excerpt: "The Jaguar's role in a border patrol and possibly anti-riot capacity will likely continue to receive scrutiny as public security services across the world explore deploying unmanned systems with offensive capabilities."
     publishedDateTime: 2021-06-27T23:00:00Z

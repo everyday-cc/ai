@@ -28,9 +28,9 @@ related:
   - title: "Will a self-driving update send Tesla’s share price higher?"
     excerpt: "Having had a phenomenal run during 2020, Tesla’s [TSLA] share price has had a sluggish first half of 2021. Will hardware and software developments help push Tesla’s share price higher? Since the start of the year (through 29 June),"
     publishedDateTime: 2021-06-30T09:15:00Z
-    webUrl: "https://www.cmcmarkets.com/en-au/opto/will-a-self-driving-update-send-teslas-share-price-higher"
-    ampWebUrl: "https://www.cmcmarkets.com/en-au/opto/will-a-self-driving-update-send-teslas-share-price-higher_amp"
-    cdnAmpWebUrl: "https://www-cmcmarkets-com.cdn.ampproject.org/c/s/www.cmcmarkets.com/en-au/opto/will-a-self-driving-update-send-teslas-share-price-higher_amp"
+    webUrl: "https://www.cmcmarkets.com/en-gb/opto/will-a-self-driving-update-send-teslas-share-price-higher"
+    ampWebUrl: "https://www.cmcmarkets.com/en-gb/opto/will-a-self-driving-update-send-teslas-share-price-higher_amp"
+    cdnAmpWebUrl: "https://www-cmcmarkets-com.cdn.ampproject.org/c/s/www.cmcmarkets.com/en-gb/opto/will-a-self-driving-update-send-teslas-share-price-higher_amp"
     type: article
     provider:
       name: CMC Markets

@@ -7,8 +7,8 @@ originalUrl: "https://www.forbes.com/sites/alexzhavoronkov/2021/06/28/how-to-sta
 webUrl: "https://www.forbes.com/sites/alexzhavoronkov/2021/06/28/how-to-stay-famous-after-you-die-ai-scientists-have-an-answer/"
 type: article
 quality: 67
-heat: 67
-published: false
+heat: 77
+published: true
 
 provider:
   name: Forbes
@@ -26,6 +26,22 @@ images:
     width: 1200
     height: 562
     isCached: true
+
+related:
+  - title: "This AI platform will give you an answer before you even know you had a question"
+    excerpt: "Tonya Hall talks to the CEO of Signal AI, David Benigson, about how the next generation of AI tools can impact human decision."
+    publishedDateTime: 2021-06-30T13:42:00Z
+    webUrl: "https://www.zdnet.com/video/this-ai-platform-will-give-you-an-answer-before-you-even-know-you-had-a-question/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 62
+    images:
+      - url: "https://www.zdnet.com/a/hub/i/r/2021/06/30/478e953b-2ff6-485b-91b1-23c8b1e61029/thumbnail/770x578/8b06ae970ca5522ea79322b44de8c472/thumb.jpg"
+        width: 770
+        height: 578
+        isCached: true
 
 secured: "I25jA1aOC3m0qloTEeUPSZUudJ43FxjPooYYXOBp82KUj2J2yy1DCdsj7f0G/FJV02IAw9wKLFwi3s1pAgJt9iUrhJwZxVTJ+QWF/xV88rng2MQpdby4j1kmPQd2wZI9XrzbQhhSUoEnZ+fIB1MOjd9ypsK8R4ayJqXtloHR4gtmH0JQhNB71qz5dT5wxgbM4uCN6RAnlp57SNANLV0lhp1BIdRIErGUdSdAkHEopuUyBjy1B7sW2REMkV6gDkI6fyKM9JplBbpn8Q2KlP+UK+sYsHFGm1BSJQRirEM/z6IgjcvpfmTDQor1nO1PPwMboW7uHVAO6O2485Fb6dOxN3vM8xzPkLfI1KdPYAlyTnlbwe4ajblDyqrxmNjrRL9fBIUbqRR6jc23XygZRgGU87w360iU7AVKMl7CKHI/MoFH/7VABCgIy+gNX/XR4OEYLO35FGVceQ8RyhUnvh5vrDzMCAEzTpgvINea+OWCfP3GEmmeeV07cNMkeYSJ9x9kDcZLsnFx8Ylb9sRYXJxTNg==;lVeqI1AJ5IgkShgGMGwVnw=="
 ---

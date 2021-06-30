@@ -1,28 +1,26 @@
 ---
 category: news
 title: "Qatar FinTech Hub, a QDB Incubator, Hosts Demo Day for Wave 2 of its Incubator and Accelerator Programs"
-excerpt: "Qatar FinTech Hub (QFTH), founded by Qatar Development Bank (QDB) to support the growth of the FinTech industry in Qatar, has announced the Demo Day for Wave 2 of its flagship Incubator and Accelerator Programs which will take place on 1st July 2021,"
-publishedDateTime: 2021-06-30T11:57:00Z
-originalUrl: "https://www.lelezard.com/en/news-19881677.html"
-webUrl: "https://www.lelezard.com/en/news-19881677.html"
+excerpt: "Innovative and leading FinTechs from across the globe to showcase their solutions on 1st July DOHA, Qatar, June 30, 2021 /PRNewswire/ -- Qatar"
+publishedDateTime: 2021-06-30T12:00:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/qatar-fintech-hub-a-qdb-incubator-hosts-demo-day-for-wave-2-of-its-incubator-and-accelerator-programs-1030566592"
+webUrl: "https://markets.businessinsider.com/news/stocks/qatar-fintech-hub-a-qdb-incubator-hosts-demo-day-for-wave-2-of-its-incubator-and-accelerator-programs-1030566592"
 type: article
-quality: 8
-heat: -1
+quality: 18
+heat: 18
 published: false
 
 provider:
-  name: Le Lézard
-  domain: lelezard.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Finance
   - AI
-
-images:
-  - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
-    width: 640
-    height: 480
-    isCached: true
 
 related:
   - title: "Qatar FinTech Hub to host Demo Day for Wave 2 of its Incubator and Accelerator Programs"
@@ -40,6 +38,6 @@ related:
         height: 284
         isCached: true
 
-secured: "Qho+ma90k/qlJB9IfDaq7zkiQq7KMqPqrqUzsdDceOtAeUrJvHfVpNhnVAAh7CJr7MUiav/ccKwr0oeUJg0lqP4adN1Hs96gzuBn/1drhgwmcBE6GqCFhEfpCIDZ0/C7C+9qwTGJWWnnxy1qjUqw8aQwPkhNIXrUy8v528XPe+ihgRid1AvjmmgapcVcpOgRNB0/fUAQCoc4R8PEZut0Vyv4afi8zFUaBKe0bs0yl9+KtEwkngrnLnmpiZS1MaLj9awkrHYJ4p60AmGb0gHGO44Wz9X3mtibxzKzS7/TSuLSmGGDs7OGK10x5pGfmPJhQYP+gJD3Obrfo0PLEG9DPXIg0PUe4NbrrtL3uBg5wY0=;pg29aR3VQSy537yW3v8qRg=="
+secured: "oMNkn6WrccknO6SH/d1rXWqt2bCjnNYp+ALqM+A63aKF+pSbdVlpQjmkhZnHC68T1UvG6QcBFOqkKbnQouFpEcZBXA4XUYRnwrouvYL1hmQGB5tn+zhVs/UIt3Ji49bW1WGW7fibzJigPRjeL/TWn1damXVdityJQIyHctlVt2hdtFXhleDg/O1+4xP/lx7eQ0l7SYffWeluQpvfrQ/BL44L2TaCLi8dEEORILLQsa/I3teK3jUp6h33FtmJ9aQmeFAEgWvMrjtjIIkk6fSLt7ZilZDJbVll8U7ETtOXZ35PevMpG8gV3luIV5OsruMClrlkiHgPjxnmy6dpzbuYogqJ/CjvzM3YH+o0FDLv8D0/NsCrQ/ug26+ANicgTatwJjU3YxYcgTXogOgTqp1qPZ5GnrezG6g0qOAoE+bzC5UlYUwDxWABTKzsqD087AglNFPq3onCuLf2UKwuzfq5ei2eNy6BM4PK4O1wjJ+Rn98OS5ggA2ie+A4Ve+D1aOwzAvDFqwW8hZ7x9NZZwmrBEg==;JuK4qSVeAuAVL+eq6JGeAg=="
 ---
 

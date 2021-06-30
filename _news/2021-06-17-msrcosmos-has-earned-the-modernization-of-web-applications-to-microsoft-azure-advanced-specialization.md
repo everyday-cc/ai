@@ -3,8 +3,8 @@ category: news
 title: "MSRcosmos Has Earned the Modernization of Web Applications to Microsoft Azure Advanced Specialization"
 excerpt: "MSRcosmos ( today announced it has earned the Modernization of Web Applications to Microsoft Azure advanced specialization, a validation of a solution partner's deep"
 publishedDateTime: 2021-06-16T18:31:00Z
-originalUrl: "https://www.dailyrecordnews.com/news/state/msrcosmos-has-earned-the-modernization-of-web-applications-to-microsoft-azure-advanced-specialization/article_868b1889-b9ec-52c6-acd1-0923ab5e18c2.html"
-webUrl: "https://www.dailyrecordnews.com/news/state/msrcosmos-has-earned-the-modernization-of-web-applications-to-microsoft-azure-advanced-specialization/article_868b1889-b9ec-52c6-acd1-0923ab5e18c2.html"
+originalUrl: "https://www.dailyrecordnews.com/news/state/msrcosmos-has-earned-the-modernization-of-web-applications-to-microsoft-azure-advanced-specialization/article_682f3e2d-2220-502d-8106-76d944495ae4.html"
+webUrl: "https://www.dailyrecordnews.com/news/state/msrcosmos-has-earned-the-modernization-of-web-applications-to-microsoft-azure-advanced-specialization/article_682f3e2d-2220-502d-8106-76d944495ae4.html"
 type: article
 
 provider:
@@ -21,6 +21,6 @@ images:
     height: 630
     isCached: true
 
-secured: "FOitlkEp5CSd97+bz+jLaLn3K0TelyEMPyyGSSaOd0TyJwblN+urucckY4g24Bvq4FCqXRe/ekqpPxz9BtaDlbT+6JsqwnZKt5p2DHjSyRtMySMRXQmnrUtFoCklU1PVPtaJGNkQE2UEZGBcl7FcIiEMuQrx/XlSYibH5zSV0X2JdeWQx4YidztwOu+/WvH2vWpzp9+G66fdpYpCSrZvye4AmJxeIGOOuYYog77iEHFG8H8pozr/f3rRRCIsjVFw+1ni69JBzbWdAoG7OZ2PuvJVqqZLeZogNUDMeizHl8y7jpD3LhfwGXoBsGuLO1rFpD7GYaAVlqcmFaJaXhxjVSyWQ+7s4XqAFTNilO57z7U=;XiuJ6UMfs3Q97vsq18iGmQ=="
+secured: "34IZ5d7nOdapKlBwBYtLS5ZzojfyqtM417qZ5ltDZ58PRfl11R9utkP62U3kObaHsZY3umCv0o0vxLRpfwiRjm6MIYiAHOp1zt53PX7o5AFFDQv+0SDpEpUF/T89en+ylw3dD92LkGrno7XcFTWDLoseQpud3pcugmgQrJyIorMuVNMRoz/1kjcNNKwdbMiVKLpPEi8axQ5nedsPf+NwuHdLBA6tR934ZiLHBISyJTHR5ryjOyz6fXSmxAX5nmbLc4BJkQKDy9rVDgCdgQaxzQwJ9ooMZkyGGhv/1NOhau5QM6lwfWINvzjHfL2iisESfUx/4vnHVqq8T+2z2N/hCPUCoFxXyw6S9JzRPksHzMA=;iY7nnjnVpqLWDJWe/qVBMw=="
 ---
 

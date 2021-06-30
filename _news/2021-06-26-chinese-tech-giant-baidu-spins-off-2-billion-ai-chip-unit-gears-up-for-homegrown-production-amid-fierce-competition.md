@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "What Investors Should Know About Baidu's AI Chip Spin-Off"
+    excerpt: "Baidu (NASDAQ:BIDU) unveiled Kunlun, its artificial intelligence (AI) chip optimized for cloud-to-edge computing tasks, three years ago. At the time, it claimed the 14nm chip provided 1.5 to three times more processing power than NVIDIA's comparable T4 GPU for AI tasks."
+    publishedDateTime: 2021-06-30T11:57:00Z
+    webUrl: "https://www.fool.com/investing/2021/06/30/what-investors-know-about-baidu-ai-chip-spin-off/"
+    ampWebUrl: "https://www.fool.com/amp/investing/2021/06/30/what-investors-know-about-baidu-ai-chip-spin-off/"
+    cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/06/30/what-investors-know-about-baidu-ai-chip-spin-off/"
+    type: article
+    provider:
+      name: The Motley Fool
+      domain: fool.com
+    quality: 104
+    images:
+      - url: "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F632101%2F1600829035136803.jpg&w=1200&op=resize"
+        width: 1200
+        height: 721
+        isCached: true
   - title: "China's Baidu spins off semiconductor unit Kunlun Chip"
     excerpt: "Chinese search and cloud giant Baidu has spun out its semiconductor design business into an independent company. Kunlun Chip (Beijing) Technology Company has formed as its own company, and in March raised money from CITIC Private Equity Funds Management,"
     publishedDateTime: 2021-06-28T10:11:00Z

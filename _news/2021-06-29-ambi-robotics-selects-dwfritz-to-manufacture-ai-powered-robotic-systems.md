@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Ambi Robotics Selects DWFritz To Manufacture AI-Powered Robotic Systems for Global Shippers"
+    excerpt: "Ambi Robotics, an artificial intelligence (AI) and robotics company that develops advanced supply chain solutions based on simulation-to-reality AI to power highly-dexterous robots, and DWFritz Automation (DWFritz),"
+    publishedDateTime: 2021-06-29T11:02:00Z
+    webUrl: "https://www.register-herald.com/region/ambi-robotics-selects-dwfritz-to-manufacture-ai-powered-robotic-systems-for-global-shippers/article_4e488fce-a698-5b4d-9d97-8a69a541e6e0.html"
+    type: article
+    provider:
+      name: The Register-Herald
+      domain: register-herald.com
+    quality: 59
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/register-herald.com/content/tncms/assets/v3/editorial/8/69/869f6c2b-4cbd-5721-8016-39adfc655ea9/60db01355b749.image.jpg?resize=1119%2C630"
+        width: 1119
+        height: 630
+        isCached: true
   - title: "Pitney Bowes to Deploy Ambi Robotics AI-Powered Robots in US to Support Global Ecommerce Network"
     excerpt: "Pitney Bowes Inc., a global technology company providing commerce solutions that power billions of transactions in the areas of ecommerce, shipping, mailing and financial services, today announced plans to deploy AmbiSort robots,"
     publishedDateTime: 2021-06-28T15:46:00Z
@@ -48,15 +62,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 46
-  - title: "Ambi Robotics Selects DWFritz To Manufacture AI-Powered Robotic Systems for Global Shippers"
-    excerpt: "Ambi Robotics, an artificial intelligence (AI) and robotics company that develops advanced supply chain solutions based on simulation-to-reality AI to power highly-dexterous robots, and DWFritz Automation (DWFritz),"
-    publishedDateTime: 2021-06-29T11:10:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-ambi-robotics-selects-dwfritz-manufacture-ai-powered-robotic-/2021/06/29/9399363.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 39
 
 secured: "5VEI7us27tGERjE0sbX6tqC6+REqt6ULAn6pc+4w5UoJ1p6+6pdOUZIt0PgtoOnYL5l6V0y7F49qG0lOsNBdz0nyx4TUVS71qOpV5voGlRsX95SHI5ZlYwl3PPIDvcfJ7Uf2FYUQlHpuqd7E1Z+41Z19HBKnsRwrKvCcC65UGvdXemXAjMy2JM9w3olisKI2wMY6Vu4uenok65iA3dxRjLRusP5iWC9gk9aq0b6zVKgaTsbnrU6DIOCJ+BN3bb95mFnXsBy1Hn4FlZN5+1qOf3slo9skJdPnPV61vJqxfBTB9YYfo82v+awnjYCJGo/J+tw50tZ1nJvgcgrVRyje2HqvpiOGDx8PygVVQBKqj54=;4423b0v76xY3nEm/KjI5hg=="
 ---

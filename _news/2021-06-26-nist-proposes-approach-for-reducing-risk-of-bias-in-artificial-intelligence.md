@@ -7,7 +7,7 @@ originalUrl: "https://www.hstoday.us/subject-matter-areas/cybersecurity/nist-pro
 webUrl: "https://www.hstoday.us/subject-matter-areas/cybersecurity/nist-proposes-approach-for-reducing-risk-of-bias-in-artificial-intelligence/"
 type: article
 quality: 35
-heat: -1
+heat: 35
 published: false
 
 provider:
@@ -22,22 +22,6 @@ images:
     width: 1920
     height: 1280
     isCached: true
-
-related:
-  - title: "AI Weekly: NIST proposes ways to identify and address AI bias"
-    excerpt: "The U.S. National Institute of Standards and Technology (NIST) is proposing ways to identify and address bias in AI systems."
-    publishedDateTime: 2021-06-25T20:15:00Z
-    webUrl: "https://venturebeat.com/2021/06/25/ai-weekly-nist-proposes-ways-to-identify-and-address-ai-bias/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 69
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2020/12/GettyImages-1195223774-e1624499731437.jpg?w=1200&#038;strip=all"
-        width: 1200
-        height: 586
-        isCached: true
 
 secured: "cv9FdrHBFXZRexpl4rJPYFj1sK6ppXlmcZLizvwPUT5nEnuYQRhNVhQ+rjl2soAV2X3pRjQjz17vjjxGp09tuXs2WwsF1re6s175wq0xy9VLvWfKVa1+/9i27ZcohaRAeZ2udpSSzrBnb4ODu4noVZojH5DUy/7kmhJtapoGFBZ7be0lMTq5wMUTIbI79sxKqyGpG44mTHeLlECCUG4mn6NLeEFEpN+D6/i93Ea/gDCKr3PFuG5I6YKpjRAXm09neCt52Sc3OWiHzTWkwUluZg4Y/5xgghxrq7IbNfUtPsBJ/HhutKtavuSKjfnvNnaSBn5CiL57pT5SfaaM/wjLaxBqjPx1F9DCGar4Lkj6+ikEphL38cd+QzaDi2YKcYQaWkv26q4PnaGCgI4jhBgSH8uLxLdDhcGSotzyT4oYLlnwGTiPZEAMKNKbA9TlyROSNaqalHjiBFsWk8BxvfOXYzJv9mv5nvpEWQrE4DfaIg9HaqhEn5dYWz6WlPPq0FXXBu75PLWxbXcTcKhGsZz1bA==;h8r1at0rLkllkd5FT7qMMQ=="
 ---

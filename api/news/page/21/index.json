@@ -2,6 +2,392 @@
   "page": 21,
   "value": [
     {
+      "path": "_news/2021-06-14-who-and-the-sea-change-in-mental-health-interview-with-michelle-funk.md",
+      "title": "WHO and the Sea Change in Mental Health: Interview with Michelle Funk",
+      "excerpt": "MIA's Ana Florence interviews Michelle Funk about her leadership of the new WHO guidelines on rights-based mental health.",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/case-studies/mayflower/?utm_medium=OSocial&utm_source=Twitter&utm_content=000033YX&utm_term=10009339&social_post=4872084071&linkId=119738152",
+      "originalUrl": "https://www.madinamerica.com/2021/06/who-and-the-sea-change-in-mental-health-interview-with-michelle-funk/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 122,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ibm.com/case-studies/mayflower/static/Mayflower_img1_1200w.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-13T10:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mad in America",
+        "domain": "madinamerica.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-13-aws-announces-the-general-availability-of-amazon-ecs-anywhere.md",
+      "title": "AWS Announces the General Availability of Amazon ECS Anywhere",
+      "excerpt": "Susie Xia discusses the video encoding system used by Netflix, and the tools and techniques used to analyze performance and to improve the system efficiency. Ann Lewis discusses how MoveOn ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoq.com/news/2021/06/amazon-ecs-anywhere-ga/?topicPageSponsorship=f8e43c6b-66c9-48f9-a4c6-0f0e1dc93f13",
+      "originalUrl": "https://www.infoq.com/news/2021/06/amazon-ecs-anywhere-ga/?topicPageSponsorship=f8e43c6b-66c9-48f9-a4c6-0f0e1dc93f13",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://res.infoq.com/news/2021/06/amazon-ecs-anywhere-ga/en/headerimage/header+%285%29-1623417711081.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-13T07:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoQ",
+        "domain": "infoq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-13-ibm-launches-watson-assistant-for-hospitality-to-enhance-guest-engagement.md",
+      "title": "IBM launches Watson Assistant for hospitality to enhance guest engagement",
+      "excerpt": "The assistant allows hotels to either combine the technology with existing digital voice, app or chat platforms or build a new one. IBM launches Watson Assistant for hospitality to enhance guest engagement.",
+      "sourceUrl": null,
+      "webUrl": "https://www.hoteliermiddleeast.com/operations/back-of-house/engineering-it/33274-ibm-launches-watson-assistant-for-hospitality-to-enhance-guest-engagement",
+      "originalUrl": "https://www.hoteliermiddleeast.com/operations/back-of-house/engineering-it/33274-ibm-launches-watson-assistant-for-hospitality-to-enhance-guest-engagement",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-13T04:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hoteliermiddleeast.com",
+        "domain": "hoteliermiddleeast.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-13-facial-recognition-for-fish-researchers-test-technology-on-asian-carp-in-battle-to-stop-invasive-species.md",
+      "title": "Facial recognition for fish? Researchers test technology on Asian carp in battle to stop invasive species",
+      "excerpt": "There may come a day on the Illinois River when a fish swims up a chute, slides through a scanner, and, after being recognized as a feared silver",
+      "sourceUrl": null,
+      "webUrl": "https://www.nny360.com/news/nationandworld/facial-recognition-for-fish-researchers-test-technology-on-asian-carp-in-battle-to-stop-invasive/article_e29ed078-70f9-5ebb-8a0e-9c40963a463f.html",
+      "originalUrl": "https://www.nny360.com/news/nationandworld/facial-recognition-for-fish-researchers-test-technology-on-asian-carp-in-battle-to-stop-invasive/article_e29ed078-70f9-5ebb-8a0e-9c40963a463f.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/nny360.com/content/tncms/assets/v3/editorial/b/35/b355d594-4d2f-563c-b887-96d7085d3dca/60c39695e1b63.image.jpg?resize=492%2C630",
+          "width": 492,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-13T03:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NNY360",
+        "domain": "nny360.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-13-amazon-offers-online-course-in-machine-learning.md",
+      "title": "Amazon Offers Online Course in Machine Learning",
+      "excerpt": "Amazon India has launched the ML Summer School, which is an integrated learning experience for students to learn applied Machine Learning (ML) skills. The three-day course will cover the fundamental concepts in Machine Learning besides offering practical industry applications.",
+      "sourceUrl": null,
+      "webUrl": "https://www.news18.com/news/education-career/amazon-offers-online-course-in-machine-learning-3842204.html",
+      "originalUrl": "https://www.news18.com/news/education-career/amazon-offers-online-course-in-machine-learning-3842204.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.news18.com/ibnlive/uploads/2021/06/1623578039_online-learning.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.news18.com/amp/news/education-career/amazon-offers-online-course-in-machine-learning-3842204.html",
+      "cdnAmpWebUrl": "https://www-news18-com.cdn.ampproject.org/c/s/www.news18.com/amp/news/education-career/amazon-offers-online-course-in-machine-learning-3842204.html",
+      "publishedDateTime": "2021-06-13T03:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN-News18",
+        "domain": "news18.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-13-mojo-visions-smart-contact-lens-could-be-transformative-for-sight-impaired.md",
+      "title": "Mojo Vision’s Smart Contact Lens Could Be Transformative For Sight Impaired",
+      "excerpt": "Mojo Vision, a California-based startup, is developing an electronic contact lens that can digitally enhance what the wearer sees. The company intends for Mojo Lens’ initial application to be as an assistive device to help people with sight impairments see the world in an entirely new way.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/gusalexiou/2021/06/13/mojo-visions-smart-contact-lens-could-be-transformative-for-sight-impaired/",
+      "originalUrl": "https://www.forbes.com/sites/gusalexiou/2021/06/13/mojo-visions-smart-contact-lens-could-be-transformative-for-sight-impaired/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60c52a1420ff18bf417d3713%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/gusalexiou/2021/06/13/mojo-visions-smart-contact-lens-could-be-transformative-for-sight-impaired/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/gusalexiou/2021/06/13/mojo-visions-smart-contact-lens-could-be-transformative-for-sight-impaired/amp/",
+      "publishedDateTime": "2021-06-13T00:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-13-neural-network-keeps-it-light.md",
+      "title": "Neural Network Keeps It Light",
+      "excerpt": "As the jobs we ask of neural networks get more complex, the networks require more artificial neurons. That’s why researchers are pursuing dense integrated neuron chips that could do for neural ...",
+      "sourceUrl": null,
+      "webUrl": "https://hackaday.com/2016/11/24/neural-network-keeps-it-light/",
+      "originalUrl": "https://hackaday.com/2016/11/24/neural-network-keeps-it-light/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://hackaday.com/wp-content/uploads/2016/11/nn.png",
+          "width": 800,
+          "height": 520,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-12T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hackaday",
+        "domain": "hackaday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-13-paraplegic-performs-world-cups-ceremonial-first-kick-in-mind-controlled-robotic-suit.md",
+      "title": "Paraplegic Performs World Cup's Ceremonial First Kick in Mind-Controlled Robotic Suit",
+      "excerpt": "Juliano Pinto, a 29-year old paraplegic, kicked the official game ball a short distance with the help of a robotic exoskeleton that he controlled with just his mind. The mind-controlled robotic ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.medgadget.com/2014/06/paraplegic-performs-world-cups-ceremonial-first-kick-in-mind-controlled-robotic-suit.html",
+      "originalUrl": "https://www.medgadget.com/2014/06/paraplegic-performs-world-cups-ceremonial-first-kick-in-mind-controlled-robotic-suit.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-12T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medgadget",
+        "domain": "medgadget.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-13-what-waabis-launch-means-for-the-self-driving-car-industry.md",
+      "title": "What Waabi’s launch means for the self-driving car industry",
+      "excerpt": "Waabi claims its next-generation self-driving technology can scale autonomous driving technology research and make it commercially viable.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/06/12/what-waabis-launch-means-for-the-self-driving-car-industry/",
+      "originalUrl": "https://venturebeat.com/2021/06/12/what-waabis-launch-means-for-the-self-driving-car-industry/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/04/GettyImages-1291353648.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 601,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/06/12/what-waabis-launch-means-for-the-self-driving-car-industry/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/12/what-waabis-launch-means-for-the-self-driving-car-industry/amp/",
+      "publishedDateTime": "2021-06-12T16:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-13-ai-based-loan-apps-are-booming-in-india-but-some-borrowers-miss-out.md",
       "title": "AI-based loan apps are booming in India, but some borrowers miss out",
       "excerpt": "Mobile lending apps have mushroomed in India, but critics claim these apps misuse customer data and discriminate against marginalized groups.",
@@ -792,448 +1178,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-12-this-ai-system-learned-to-understand-videos-by-watching-youtube.md",
-      "title": "This AI system learned to understand videos by watching YouTube",
-      "excerpt": "Researchers at the Allen Institute and University of Washington created an AI system that can understand the sequence of events in videos.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/06/11/this-ai-system-learned-to-understand-videos-by-watching-youtube/",
-      "originalUrl": "https://venturebeat.com/2021/06/11/this-ai-system-learned-to-understand-videos-by-watching-youtube/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2016/08/youtube.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/06/11/this-ai-system-learned-to-understand-videos-by-watching-youtube/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/11/this-ai-system-learned-to-understand-videos-by-watching-youtube/amp/",
-      "publishedDateTime": "2021-06-11T13:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-12-artificial-intelligence-ai-market-by-product-revenue-price-industry-share-growth-opportunity-and-forecast-to-2025.md",
-      "title": "Artificial Intelligence (AI) Market by Product, Revenue, Price, Industry Share, Growth Opportunity and Forecast to 2025",
-      "excerpt": "Market at:  Global Artificial Intelligence (AI) Market valued approximately USD 16 billion in 2016 is anticipated to grow with a healthy growth rate of more than 36% over the forecast period 2017-2025.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-market-by-product-revenue-price-industry-share-growth-opportunity-and-forecast-to-2025-2021-06-11",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-market-by-product-revenue-price-industry-share-growth-opportunity-and-forecast-to-2025-2021-06-11",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 130,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-11T12:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-06-12-ai-in-computer-vision-market-worth-513-billion-by-2026-exclusive-report-by-marketsandmarkets.md",
-      "title": "AI in Computer Vision Market worth $51.3 billion by 2026 - Exclusive Report by MarketsandMarkets™",
-      "excerpt": "Software tools, combined with a suite of computer vision software allow an individual to interface with a camera and a production line and automatically perform image improvement, location ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.prnewswire.com/news-releases/ai-in-computer-vision-market-worth-51-3-billion-by-2026--exclusive-report-by-marketsandmarkets-301310788.html",
-      "originalUrl": "https://www.prnewswire.com/news-releases/ai-in-computer-vision-market-worth-51-3-billion-by-2026--exclusive-report-by-marketsandmarkets-301310788.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/660509/MarketsandMarkets_Logo.jpg?p=facebook",
-          "width": 666,
-          "height": 350,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-11T12:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-12-transform-2021-puts-the-spotlight-on-women-in-ai.md",
-      "title": "Transform 2021 puts the spotlight on women in AI",
-      "excerpt": "VB Event Elevate your enterprise data technology and strategy at Transform 2021. VentureBeat is proud to bring back the Women in AI Breakfast and Awards online for Transform 2021. In the male-dominated tech industry,",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/06/11/transform-2021-puts-the-spotlight-on-women-in-ai/",
-      "originalUrl": "https://venturebeat.com/2021/06/11/transform-2021-puts-the-spotlight-on-women-in-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/06/VB-Women-in-AI-Awards.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/06/11/transform-2021-puts-the-spotlight-on-women-in-ai/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/11/transform-2021-puts-the-spotlight-on-women-in-ai/amp/",
-      "publishedDateTime": "2021-06-11T11:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-12-billionaire-larry-pages-kitty-hawk-is-making-an-all-in-bet-on-robot-air-taxis-its-program-head-is-out-in-disagreement-over-it.md",
-      "title": "Billionaire Larry Page’s Kitty Hawk Is Making An All-In Bet On Robot Air Taxis. Its Program Head Is Out In Disagreement Over It.",
-      "excerpt": "Kitty Hawk has an ambitious plan to leapfrog rivals by convincing regulators to let it fly passengers in electric air taxis without pilots -- within the next 3 years. The head of its aircraft program,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/jeremybogaisky/2021/06/11/larry-page-kitty-hawk-air-taxi-sebastian-thrun/",
-      "originalUrl": "https://www.forbes.com/sites/jeremybogaisky/2021/06/11/larry-page-kitty-hawk-air-taxi-sebastian-thrun/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60c3a37d601a34eec048fbed%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D630%26cropY1%3D47%26cropY2%3D402",
-          "width": 630,
-          "height": 355,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/jeremybogaisky/2021/06/11/larry-page-kitty-hawk-air-taxi-sebastian-thrun/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jeremybogaisky/2021/06/11/larry-page-kitty-hawk-air-taxi-sebastian-thrun/amp/",
-      "publishedDateTime": "2021-06-11T11:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-12-facebooks-ai-can-copy-the-style-of-text-in-photos-from-a-single-word.md",
-      "title": "Facebook’s AI can copy the style of text in photos from a single word",
-      "excerpt": "Facebook's TextStyleBrush is an AI system that can replicate the style of fonts and handwriting to replace arbitrary text in images.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/06/11/facebooks-ai-can-copy-the-style-of-text-in-photos-from-a-single-word/",
-      "originalUrl": "https://venturebeat.com/2021/06/11/facebooks-ai-can-copy-the-style-of-text-in-photos-from-a-single-word/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 151,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/06/FB.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 700,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/06/11/facebooks-ai-can-copy-the-style-of-text-in-photos-from-a-single-word/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/11/facebooks-ai-can-copy-the-style-of-text-in-photos-from-a-single-word/amp/",
-      "publishedDateTime": "2021-06-11T10:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2021-06-12-how-to-use-voila-app-that-has-gone-viral.md",
-      "title": "How to use Voila app that has gone viral",
-      "excerpt": "Voila is an app that uses artificial intelligence to turn your photo into ... MOUNTAIN VIEW, Calif. (AP) — Waymo, the self-driving car pioneer spun off from Google, isn't allowing a recent ...",
-      "sourceUrl": null,
-      "webUrl": "https://kdvr.com/news/trending/how-to-use-voila-app-that-has-gone-viral/",
-      "originalUrl": "https://kdvr.com/news/trending/how-to-use-voila-app-that-has-gone-viral/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://kdvr.com/wp-content/uploads/sites/11/2021/06/Untitled-design-2.png?w=1280",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://kdvr.com/news/trending/how-to-use-voila-app-that-has-gone-viral/amp/",
-      "cdnAmpWebUrl": "https://kdvr-com.cdn.ampproject.org/c/s/kdvr.com/news/trending/how-to-use-voila-app-that-has-gone-viral/amp/",
-      "publishedDateTime": "2021-06-11T10:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "FOX31 Denver",
-        "domain": "kdvr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-12-us-creates-ai-data-sharing-task-force.md",
-      "title": "US creates AI data-sharing task force",
-      "excerpt": "The Biden administration has created a task force to promote access to data and other resources to boost artificial intelligence (AI) research. The National Artificial Intelligence Research Resource Task Force involves the White House and the National Science Foundation.",
-      "sourceUrl": null,
-      "webUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/359856/us-creates-ai-data-sharing-task-force",
-      "originalUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/359856/us-creates-ai-data-sharing-task-force",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1570813981/itpro/digital_brain_artificial_intelligence.jpg",
-          "width": 1260,
-          "height": 710,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/359856/us-creates-ai-data-sharing-task-force?amp",
-      "cdnAmpWebUrl": "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/technology/artificial-intelligence-ai/359856/us-creates-ai-data-sharing-task-force?amp",
-      "publishedDateTime": "2021-06-11T10:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT Pro",
-        "domain": "itpro.co.uk",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/itpro.co.uk-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-11-accelerating-deep-learning-on-the-jvm-with-apache-spark-and-nvidia-gpus.md",
-      "title": "Accelerating Deep Learning on the JVM with Apache Spark and NVIDIA GPUs",
-      "excerpt": "Accelerating Deep Learning on the JVM with Apache Spark and NVIDIA GPUs In this article, authors discuss how to use the combination of Deep Java Learning (DJL), Apache Spark v3, and NVIDIA GPU ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoq.com/articles/deep-learning-apache-spark-nvidia-gpu/",
-      "originalUrl": "https://www.infoq.com/articles/deep-learning-apache-spark-nvidia-gpu/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://res.infoq.com/articles/deep-learning-apache-spark-nvidia-gpu/en/headerimage/header+%2816%29-1623166971929.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-11T08:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoQ",
-        "domain": "infoq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

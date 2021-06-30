@@ -48,6 +48,17 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 48
+  - title: "AI in Fintech Market Scope Emerging Trends, Analysis and Forecast 2026"
+    excerpt: "The AI in Fintech Market Global Industry Analysis Size Share Growth Trends and Forecast 2020 2026 report intends to offer a resourceful means to assess the AI in Fintech Market and entails the all inclusive analysis and upfront statistics with"
+    publishedDateTime: 2021-06-30T13:01:00Z
+    webUrl: "https://www.openpr.com/news/2317861/ai-in-fintech-market-scope-emerging-trends-analysis"
+    ampWebUrl: "https://www.openpr.com/amp/2317861/ai-in-fintech-market-scope-emerging-trends-analysis"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2317861/ai-in-fintech-market-scope-emerging-trends-analysis"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 41
 
 secured: "mzj/KkbBDzgFslprfhmyW0ui5MRgq90hUskH2dbEIyWg8mZfz7SNkK63sTSii0AVC1aEp7nMoOmI6AzSCrCQ/C9Ijz27l8ZINPznlPyvLyddCP4TVPDevo3Y77IxVymsxZYanHvLJ+1+hF2NPKaycxukrUPekJYRmosbCvSi3VD6ozcBmJdtF06rYMqnpK9kwe36zJd+/ccp7YD/EZMvy7k7JUir6SzFxa2uIRIWLyKFzQ8Gju2XmSZtAJ0VdcGHUqUYGKsxX2cdmNcArM6cljFs/V6RrC1y9vMrfQW59KhmEZzpqk16l8KLFzcqGhRXgh9RuwFXoosjm2197barBdv9wDcTjVXV8UBB1WKDjnI=;r23+T5atVCs1+r2kRBxQKQ=="
 ---

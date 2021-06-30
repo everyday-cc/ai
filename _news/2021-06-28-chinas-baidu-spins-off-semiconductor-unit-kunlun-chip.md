@@ -7,7 +7,7 @@ originalUrl: "https://www.datacenterdynamics.com/en/news/chinas-baidu-spins-off-
 webUrl: "https://www.datacenterdynamics.com/en/news/chinas-baidu-spins-off-semiconductor-unit-kunlun-chip/"
 type: article
 quality: 54
-heat: 64
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "What Investors Should Know About Baidu's AI Chip Spin-Off"
+    excerpt: "Baidu (NASDAQ:BIDU) unveiled Kunlun, its artificial intelligence (AI) chip optimized for cloud-to-edge computing tasks, three years ago. At the time, it claimed the 14nm chip provided 1.5 to three times more processing power than NVIDIA's comparable T4 GPU for AI tasks."
+    publishedDateTime: 2021-06-30T11:57:00Z
+    webUrl: "https://www.fool.com/investing/2021/06/30/what-investors-know-about-baidu-ai-chip-spin-off/"
+    ampWebUrl: "https://www.fool.com/amp/investing/2021/06/30/what-investors-know-about-baidu-ai-chip-spin-off/"
+    cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/06/30/what-investors-know-about-baidu-ai-chip-spin-off/"
+    type: article
+    provider:
+      name: The Motley Fool
+      domain: fool.com
+    quality: 104
+    images:
+      - url: "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F632101%2F1600829035136803.jpg&w=1200&op=resize"
+        width: 1200
+        height: 721
+        isCached: true
   - title: "Chinese tech giant Baidu spins off $2 billion AI chip unit, gears up for homegrown production amid fierce competition"
     excerpt: "Chinese search giant Baidu Inc has confirmed that its artificial intelligence (AI) chip unit Kunlun has been spun off as an independent company with a valuation of 13 billion yuan ($2 billion), underscoring the Chinese internet giant's ambition in developing and commercializing its in-house chipsets amid growing industry competition."
     publishedDateTime: 2021-06-26T07:01:00Z

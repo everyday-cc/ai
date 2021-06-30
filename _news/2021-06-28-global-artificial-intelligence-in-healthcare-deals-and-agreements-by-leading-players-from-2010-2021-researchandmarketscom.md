@@ -1,28 +1,22 @@
 ---
 category: news
 title: "Global Artificial Intelligence in Healthcare: Deals and Agreements by Leading Players From 2010-2021 - ResearchAndMarkets.com"
-excerpt: "Partnering Terms and Agreements 2010 to 2021” report has been added to ResearchAndMarkets.com’s offering. The Global Artificial Intelligence (AI) Partnering Terms and Agreements 2010 to 2021 report provides an understanding and access to the artificial intelligence partnering deals and agreements entered into by the world’s leading healthcare companies."
-publishedDateTime: 2021-06-28T16:53:00Z
-originalUrl: "https://apnews.com/press-release/business-wire/artificial-intelligence-business-technology-c8cf1d7a3c1e49999f2dbe3d728e684e"
-webUrl: "https://apnews.com/press-release/business-wire/artificial-intelligence-business-technology-c8cf1d7a3c1e49999f2dbe3d728e684e"
+excerpt: "Partnering Terms and Agreements 2010 to 2021\" report has been added to ResearchAndMarkets.com's offering. The Global Artificial Intelligence (AI) Partnering Terms and Agreements 2010 to 2021 report provides an understanding and access to the artificial intelligence partnering deals and agreements entered into by the world's leading healthcare companies."
+publishedDateTime: 2021-06-28T11:53:00Z
+originalUrl: "https://www.morningstar.com/news/business-wire/20210628005698/global-artificial-intelligence-in-healthcare-deals-and-agreements-by-leading-players-from-2010-2021-researchandmarketscom"
+webUrl: "https://www.morningstar.com/news/business-wire/20210628005698/global-artificial-intelligence-in-healthcare-deals-and-agreements-by-leading-players-from-2010-2021-researchandmarketscom"
 type: article
-quality: 27
+quality: 7
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Morningstar, Inc.
+  domain: morningstar.com
 
 topics:
   - AI
   - AI in Healthcare
-
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
 
 related:
   - title: "WHO issues first global report on AI in health and six guiding principles for its design and use"
@@ -173,7 +167,21 @@ related:
         width: 370
         height: 229
         isCached: true
+  - title: "WHO Report Targets AI in Health, Cautions Against Health Disparities"
+    excerpt: "The World Health Organization (WHO) released the first global report on artificial intelligence in healthcare and six principles to avoid health disparities in the field. The report, Ethics and governance of artificial intelligence for health,"
+    publishedDateTime: 2021-06-30T13:30:00Z
+    webUrl: "https://healthitanalytics.com/news/who-report-targets-ai-in-health-cautions-against-health-disparities"
+    type: article
+    provider:
+      name: Analytics
+      domain: healthitanalytics.com
+    quality: 39
+    images:
+      - url: "https://healthitanalytics.com/images/site/article_headers/_normal/GettyImages-943065376.jpg"
+        width: 690
+        height: 400
+        isCached: true
 
-secured: "GSV1qOM8i5KMNBMJP4xZswVlMwJ5PKPZNE1BbRT0hxeW99uzImFYUKjPfL5CtV0nUpP8yXKnn7kHHGyz+65QIUMow+FRJMAfqhuBsSwuSpMx+TwirJ+OEdvB8qUxj90g0pHRyPzdq2hLgQdoDrvkTR8TuOsf1pU/tJDlQIexGvXIUxiqcfCWxp/OMBCNzoTkkAYTtuSIK5DygwvsB8XYllxhw26gkISFxqzOkjc4a0JTdFGhh5tv3rXzXEUOB3CgNRHTMa/q6t26cXPsE0Aj59OhNc7+2jpxyJ+O25GqzceFt2VwAAy5Zd3PzzsmZid0qPtdmNqvq0ZJssEy+j8o8bl9NqwUHtB8LMGqTtcYJAE=;G5TqWHScDKoliDLTENnKHw=="
+secured: "y5NychFARGTVBfY/vySJjt5UfH9cCev6H6o6Kj1nN9/6ulLAh1fva22SsHCrUAn5ERjTD7sT5ZQBy9ZEsHJWhWTLa3OLqTsOOmr8CNGAX6mt9Su2y1jwlwTAvM3M73zuO/8QgjVA1n7y2aDOHTwuL62yKysPDbNw401sHbCwiuEJjKFDS/fA3sRG25/Pt0PJtYXhcy8PT0pBF7RSN/yYcr3pCR8Yjmk2Kr3pfhMDqHi6OQ9Q4axKOmxqX+EonoAWlX9c+51mvU74BJ8xitYU8WGjqsJamAEaKBmx7XydbsSGarwHVK6vsFfPsDYHC0RdRFimamjRK3GwbcxW8y7KA72YNmDitJJ3UxRXZOKFJAY=;fjFUigKkAL1dGmW80vNEVg=="
 ---
 

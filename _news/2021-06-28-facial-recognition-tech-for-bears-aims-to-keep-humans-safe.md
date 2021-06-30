@@ -9,7 +9,7 @@ ampWebUrl: "https://www.digitaltrends.com/news/facial-recognition-tech-for-bears
 cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/news/facial-recognition-tech-for-bears-aims-to-keep-humans-safe/?amp"
 type: article
 quality: 106
-heat: 136
+heat: 146
 published: true
 
 provider:
@@ -47,6 +47,20 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2019/07/18/PGUA/eee12e18-b990-4312-89db-b43879696ed2-Airport_terminal_2.JPG?auto=webp&crop=4271,2403,x0,y283&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Feds Told to Better Manage Facial Recognition, Amid Privacy Concerns"
+    excerpt: "A GAO report finds government agencies are using the technology regularly in criminal investigations and to identify travelers, but need stricter management to protect people’s privacy and avoid inacc"
+    publishedDateTime: 2021-06-30T12:39:00Z
+    webUrl: "https://threatpost.com/feds-manage-facial-recognition-privacy-concerns/167419/"
+    type: article
+    provider:
+      name: Threat Post
+      domain: threatpost.com
+    quality: 39
+    images:
+      - url: "https://media.threatpost.com/wp-content/uploads/sites/103/2020/08/05143851/deepfake-fireeye.jpg"
+        width: 800
+        height: 533
         isCached: true
   - title: "Global Facial Recognition Market SWOT Analysis, Key Indicators, Forecast 2027 : NEC Corporation, Safran Group, Cognitec Systems GmbH, Keylemon"
     excerpt: "Facial Recognition The report on the Global Facial Recognition Market Research Report Covers Present Data and Deep Analysis And Forecast 2021 2027 market published by Zion Market Research provides a close watch on current market trends opportunities and revenue growth"

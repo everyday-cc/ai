@@ -1,29 +1,29 @@
 ---
 category: news
 title: "EyeTech Digital Systems Recognized by SIIA as Best Artificial Intelligence Solution in Healthcare"
-excerpt: "EyeTech Digital Systems' EyeOn platform has been named the 2021 Best Artificial Intelligence Solution in Healthcare as part of the annual SIIA CODiE Awards. The CODiE Awards recognize companies producing the most innovative business"
-publishedDateTime: 2021-06-28T12:45:00Z
-originalUrl: "https://www.lelezard.com/en/news-19876964.html"
-webUrl: "https://www.lelezard.com/en/news-19876964.html"
+excerpt: "EyeTech Digital Systems' EyeOn platform has been named the 2021 Best Artificial Intelligence Solution in Healthcare as part of the annual"
+publishedDateTime: 2021-06-28T12:30:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/eyetech-digital-systems-recognized-by-siia-as-best-artificial-intelligence-solution-in-healthcare-301320430.html"
+webUrl: "https://www.prnewswire.com/news-releases/eyetech-digital-systems-recognized-by-siia-as-best-artificial-intelligence-solution-in-healthcare-301320430.html"
 type: article
 quality: 41
 heat: 41
 published: false
 
 provider:
-  name: Le Lézard
-  domain: lelezard.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - AI in Healthcare
   - AI
 
 images:
-  - url: "https://www.lelezard.com/img/pr_sections/health.jpg"
-    width: 640
-    height: 480
+  - url: "https://mma.prnewswire.com/media/1509178/EyeTech_Logo.jpg?p=facebook"
+    width: 2700
+    height: 1414
     isCached: true
 
-secured: "TCSRWWJdeHjJ5r0N7mpuCSyrrsL9sOIKO9oMQ1prWrFwZV6UV31Fj/B8SY4iAYprXw5VUUQswQ3MN/dfLO8u0x2wjGZwqy9XHS09GXVPPrlxEfMqyy73yN7e6paWNtPPq9Q7bxeBNgy058vffU0ctJLf8sozLUrexfhoH2/GhIblXByDcDpVlT5M+e+R8o3ARIBcarZNrlR6sgaJwQJ0sq0hVG1ExD9ocjZ4PpuxM9Kbu04sbd5i/Vshagf1P+xMyxfxlvHDAPNFFKMBkWE0vWdM9GDfDYGA9M+qV4rhdLW9Qn14qt6o+bVuz4LQboo5Q0AUXbeaioRU7MUAYTIqIaF19QdkrzDTQaA/DbB1Wgk=;CLchPIbHzPZAQdBPbIYKhg=="
+secured: "PaWrMDSGxu030+hk7wGbBv5YR4lmSe51s6O3dtuxl0oCgWxonbv/nV+h2QcGlv+C3+Y5bk84K5mh0YM7b+o0zPGXrD0PqVJ6WrVi12y3TtMKDTpToMXJFNd0Uywj6ykkC/pjNna60ER6iWP197IBNV+OedT4BZqc5h+fts3AbGit0noACm9kRoZeQ1Ga1sI2NelZmBmFnaZsEc+SkJq38qcKLzzjKt9ZoR/DyGzWRW1kal2o4JzAgi7g0Y/VggoIP+HJWbtpnuXIEiG6QwgNFF2TM5tcqFgcsnvMRYiSabJCk8L7deE2ZPDV5CI5nrmxOAWaJwbgLNxzoXwHaXq8hmUSAwOQyvXkpD5oAsDG2Gc=;cs6nTV1Wn4qqDvFWeqqd6g=="
 ---
 

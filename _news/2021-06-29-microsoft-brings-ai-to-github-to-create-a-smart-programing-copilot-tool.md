@@ -9,8 +9,8 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-brings-ai-to-gith
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-brings-ai-to-github-to-create-a-smart-programing-copilot-tool/"
 type: article
 quality: 104
-heat: 164
-published: true
+heat: -1
+published: false
 
 provider:
   name: ZDNet
@@ -31,6 +31,20 @@ images:
     isCached: true
 
 related:
+  - title: "GitHub launches Copilot to power pair programming with AI"
+    excerpt: "GitHub Copilot is a new AI-powered pair programmer that collaborates with human programmers and suggests new functions or lines of code."
+    publishedDateTime: 2021-06-29T21:42:00Z
+    webUrl: "https://copilot.github.com/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 167
+    images:
+      - url: "http://copilot.github.com/social.png"
+        width: 2400
+        height: 1260
+        isCached: true
   - title: "Microsoft brings AI to GitHub to create a smart programing Copilot tool"
     excerpt: "... Azure and codeveloping with MIcrosoft new Azure AI supercomputing technologies. Earlier this year, Microsoft announced plans to make coding \"in plain English\" easier by integrating OpenAI's GPT-3 AI model with Microsoft's PowerFx low code language."
     publishedDateTime: 2021-06-29T19:56:00Z
@@ -78,6 +92,20 @@ related:
       - url: "https://techcrunch.com/wp-content/uploads/2021/06/james-harrison-vpOeXr5wmR4-unsplash.jpg?w=1024"
         width: 1024
         height: 576
+        isCached: true
+  - title: "GitHub introduces an AI pal to help you code better"
+    excerpt: "GitHub is already one of the most popular platforms to build and host coding projects. Last year, it launched a built-in Integrated Development Environment to let you code directl"
+    publishedDateTime: 2021-06-30T06:00:00Z
+    webUrl: "https://thenextweb.com/news/github-copilot-ai-openai-code-tool"
+    type: article
+    provider:
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 67
+    images:
+      - url: "https://img-cdn.tnwcdn.com/image/tnw?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F06%2FGitHub-copilot.jpg&signature=04c4e92701007a57aa8fde20946e8e81"
+        width: 1280
+        height: 640
         isCached: true
   - title: "GitHub’s new AI tool is like predictive text for programmers"
     excerpt: "The Microsoft-owned company has teamed up with OpenAI to launching a technical preview of an AI assistant for coders."

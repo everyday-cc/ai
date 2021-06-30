@@ -43,6 +43,20 @@ related:
         width: 1130
         height: 756
         isCached: true
+  - title: "Feds Told to Better Manage Facial Recognition, Amid Privacy Concerns"
+    excerpt: "A GAO report finds government agencies are using the technology regularly in criminal investigations and to identify travelers, but need stricter management to protect people’s privacy and avoid inacc"
+    publishedDateTime: 2021-06-30T12:39:00Z
+    webUrl: "https://threatpost.com/feds-manage-facial-recognition-privacy-concerns/167419/"
+    type: article
+    provider:
+      name: Threat Post
+      domain: threatpost.com
+    quality: 39
+    images:
+      - url: "https://media.threatpost.com/wp-content/uploads/sites/103/2020/08/05143851/deepfake-fireeye.jpg"
+        width: 800
+        height: 533
+        isCached: true
   - title: "Global Facial Recognition Market SWOT Analysis, Key Indicators, Forecast 2027 : NEC Corporation, Safran Group, Cognitec Systems GmbH, Keylemon"
     excerpt: "Facial Recognition The report on the Global Facial Recognition Market Research Report Covers Present Data and Deep Analysis And Forecast 2021 2027 market published by Zion Market Research provides a close watch on current market trends opportunities and revenue growth"
     publishedDateTime: 2021-06-29T12:02:00Z

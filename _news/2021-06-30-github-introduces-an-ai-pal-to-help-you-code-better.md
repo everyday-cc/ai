@@ -7,8 +7,8 @@ originalUrl: "https://thenextweb.com/news/github-copilot-ai-openai-code-tool"
 webUrl: "https://thenextweb.com/news/github-copilot-ai-openai-code-tool"
 type: article
 quality: 67
-heat: 77
-published: true
+heat: -1
+published: false
 
 provider:
   name: The Next Web
@@ -28,19 +28,125 @@ images:
     isCached: true
 
 related:
-  - title: "Now Apple Introduces A No-Code AI Platform"
-    excerpt: "Trinity is composed of data pipelines, an experiment management system, a user interface, and a containerised deep learning kernel."
-    publishedDateTime: 2021-06-26T05:30:00Z
-    webUrl: "https://analyticsindiamag.com/now-apple-introduces-a-no-code-ai-platform/"
+  - title: "GitHub launches Copilot to power pair programming with AI"
+    excerpt: "GitHub Copilot is a new AI-powered pair programmer that collaborates with human programmers and suggests new functions or lines of code."
+    publishedDateTime: 2021-06-29T21:42:00Z
+    webUrl: "https://copilot.github.com/"
     type: article
     provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 167
+    images:
+      - url: "http://copilot.github.com/social.png"
+        width: 2400
+        height: 1260
+        isCached: true
+  - title: "Microsoft brings AI to GitHub to create a smart programing Copilot tool"
+    excerpt: "Microsoft is making available a technical preview of a new Visual Studio Code extension that is designed to help programmers write code smarter and faster using AI technology from OpenAI."
+    publishedDateTime: 2021-06-29T11:19:00Z
+    webUrl: "https://www.zdnet.com/article/microsoft-brings-ai-to-github-to-create-a-smart-programing-copilot-tool/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-brings-ai-to-github-to-create-a-smart-programing-copilot-tool/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-brings-ai-to-github-to-create-a-smart-programing-copilot-tool/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 104
+    images:
+      - url: "https://www.zdnet.com/a/hub/i/2021/06/29/bd54eff3-c9c7-4cf0-b714-606d46cc4cc7/githubcopilot.jpg"
+        width: 1199
+        height: 478
+        isCached: true
+  - title: "Microsoft brings AI to GitHub to create a smart programing Copilot tool"
+    excerpt: "... Azure and codeveloping with MIcrosoft new Azure AI supercomputing technologies. Earlier this year, Microsoft announced plans to make coding \"in plain English\" easier by integrating OpenAI's GPT-3 AI model with Microsoft's PowerFx low code language."
+    publishedDateTime: 2021-06-29T19:56:00Z
+    webUrl: "https://www.zdnet.com/index.php/recent/index.php/article/microsoft-brings-ai-to-github-to-create-a-smart-programing-copilot-tool/"
+    ampWebUrl: "https://www.zdnet.com/index.php/recent/index.php/google-amp/article/microsoft-brings-ai-to-github-to-create-a-smart-programing-copilot-tool/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/recent/index.php/google-amp/article/microsoft-brings-ai-to-github-to-create-a-smart-programing-copilot-tool/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 104
+    images:
+      - url: "https://www.zdnet.com/a/hub/i/2021/06/29/bd54eff3-c9c7-4cf0-b714-606d46cc4cc7/githubcopilot.jpg"
+        width: 1199
+        height: 478
+        isCached: true
+  - title: "GitHub launches Copilot to power pair programming with AI"
+    excerpt: "GitHub Copilot is a new AI-powered pair programmer that collaborates with human programmers and suggests new functions or lines of code."
+    publishedDateTime: 2021-06-29T15:00:00Z
+    webUrl: "https://venturebeat.com/2021/06/29/github-launches-copilot-to-power-pair-programming-with-ai/"
+    ampWebUrl: "https://venturebeat.com/2021/06/29/github-launches-copilot-to-power-pair-programming-with-ai/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/29/github-launches-copilot-to-power-pair-programming-with-ai/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2021/06/Blog-Hero.png?w=1200&strip=all"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "GitHub previews new AI tool that makes coding suggestions"
+    excerpt: "GitHub has unveiled a new product that leverages artificial intelligence to help you write code more efficiently. Named GitHub Copilot, today’s new product can suggest lines of code and even sometimes entire functions."
+    publishedDateTime: 2021-06-29T15:53:00Z
+    webUrl: "https://techcrunch.com/2021/06/29/github-previews-new-ai-tool-that-makes-coding-suggestions/"
+    ampWebUrl: "https://techcrunch.com/2021/06/29/github-previews-new-ai-tool-that-makes-coding-suggestions/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/06/29/github-previews-new-ai-tool-that-makes-coding-suggestions/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 87
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2021/06/james-harrison-vpOeXr5wmR4-unsplash.jpg?w=1024"
+        width: 1024
+        height: 576
+        isCached: true
+  - title: "GitHub’s new AI tool is like predictive text for programmers"
+    excerpt: "The Microsoft-owned company has teamed up with OpenAI to launching a technical preview of an AI assistant for coders."
+    publishedDateTime: 2021-06-30T10:13:00Z
+    webUrl: "https://www.siliconrepublic.com/machines/github-microsoft-openai-coding"
+    type: article
+    provider:
+      name: SiliconRepublic
+      domain: siliconrepublic.com
     quality: 39
     images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/06/AIM-Illustrations-14.jpg"
-        width: 2240
-        height: 1261
+      - url: "https://www.siliconrepublic.com/wp-content/uploads/2021/06/Coding.jpeg"
+        width: 800
+        height: 600
+        isCached: true
+  - title: "GitHub’s new Copilot programming assistant uses AI to generate code"
+    excerpt: "Microsoft Corp.’s GitHub unit today debuted a tool called Copilot that uses an artificial intelligence model based on OpenAI’s powerful GPT-3 algorithm to write software code automatically. Developers write code in specialized editors called integrated development environments that provide many time-saving features."
+    publishedDateTime: 2021-06-29T21:00:00Z
+    webUrl: "https://siliconangle.com/2021/06/29/githubs-new-copilot-programming-assistant-uses-ai-generate-code/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 39
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/06/GitHub-Copilot_blog-header.png"
+        width: 1536
+        height: 806
+        isCached: true
+  - title: "GitHub Copilot, an AI Pair Programmer, Is Coming to VS Code/Visual Studio"
+    excerpt: "A new 'AI pair programmer' represents a breakthrough in the third revolution of software development: the use of AI in coding, says GitHub CEO Nat Friedman."
+    publishedDateTime: 2021-06-29T17:49:00Z
+    webUrl: "https://visualstudiomagazine.com/articles/2021/06/29/github-copilot.aspx"
+    type: article
+    provider:
+      name: Visual Studio Magazine
+      domain: visualstudiomagazine.com
+    quality: 38
+    images:
+      - url: "https://visualstudiomagazine.com/-/media/ECG/redmondmag/Images/IntroImages2016/0916red_Foley.jpg"
+        width: 647
+        height: 450
         isCached: true
 
 secured: "kZVPpWJAoWE8/t4KelnCM5GbLZXCdw13JANQawVt/hvUyxOuIt3zJFGd8ajbP3eM6Qyu+E/8bchnp1bl6C2cmVCiiewAN4lBCJycG7ak4SASX6SpD/t4mjWL5BVN2hbJ2eqwnX0Irrut4oN5FL3BU1G6UXo+9TbbdHqHxOnZE69uzr1wL+htck/rrSy7+QSIZULupfU3eKVYRbh3Vm9b6Jx4jmfuUz+SyyMiJcdYQGuih2rIbyV82XxZNwcnm1tOtTYByqXLYzoy08T+mfo30Texifvs6Hyj5yy8uS2wKyoe4BrNFq2pINeEdFJhJJw5PgB/EEA9/8Ft/kTFfMVUtLojPb7cb8Q2A+l9b3I1/xvsldttO7d4fG2hcBDQLsEfS6rHeqsLW5B5Z6KhmpnAwv9tuSnPFkE+1ygyq3Gc0jTA8LE7JIf2tE8yB/XRjAyCmHCpQdMxGvgLW+gvNdJY7qObtmWWMDKl8n+fZvv24tTNfiT+9dbJDMhMcn/PjgJTYOx4FCO782tiCpdcd8bwQA==;830bJLv8xZmCzMjMtVbH1Q=="

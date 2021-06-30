@@ -1,28 +1,22 @@
 ---
 category: news
 title: "Microsoft, SES and GRC Showcase Azure Cloud for Remote Missions via Secure GovSat Connectivity Service"
-excerpt: "Microsoft, SES and GRC demonstrate the power of combining Microsoft’s Azure and secure MilSatCom to bring Artificial Intelligence and Machine Learning to in-theatre operations Operating in both connected and disconnected modes,"
-publishedDateTime: 2021-06-30T07:39:00Z
-originalUrl: "https://www.businesswireindia.com/microsoft-ses-and-grc-showcase-azure-cloud-for-remote-missions-via-secure-govsat-connectivity-service-73769.html"
-webUrl: "https://www.businesswireindia.com/microsoft-ses-and-grc-showcase-azure-cloud-for-remote-missions-via-secure-govsat-connectivity-service-73769.html"
+excerpt: "Microsoft and SES, in partnership with GovSat and UK-based solutions provider GRC, came together to demonstrate how Microsoft Azure Machine Learning ("
+publishedDateTime: 2021-06-30T06:50:00Z
+originalUrl: "https://www.businesswire.com/news/home/20210629006127/en/Microsoft-SES-and-GRC-Showcase-Azure-Cloud-for-Remote-Missions-via-Secure-GovSat-Connectivity-Service"
+webUrl: "https://www.businesswire.com/news/home/20210629006127/en/Microsoft-SES-and-GRC-Showcase-Azure-Cloud-for-Remote-Missions-via-Secure-GovSat-Connectivity-Service"
 type: article
-quality: 38
+quality: 18
 heat: -1
 published: false
 
 provider:
   name: Business Wire
-  domain: businesswireindia.com
+  domain: businesswire.com
 
 topics:
   - Microsoft AI
   - AI
-
-images:
-  - url: "https://cms.businesswireindia.com/Uploads/news-multimedia/companyLogo/SES_73769.jpg"
-    width: 1188
-    height: 547
-    isCached: true
 
 related:
   - title: "Microsoft launches Azure Arc-enabled SQL in general availability"
@@ -93,6 +87,6 @@ related:
       domain: finanztreff.de
     quality: 42
 
-secured: "Z1TqyXgpsI7+GpJrWMeCOoSZD7Jq0ItP3SLI3qCp/jRQGXnGmj/Wu/jozF7LlRKF3snZyCcF2bAZW+EIub8sRn5pnACGge/4d/CzIEnq1lb889S3Tv2x5VGzw2j5QZl8p7qsYtgJvgYAebgmRLy/p9ZdPCFGmO6aNxAD2NIPBPdiQqQb+GyfqqX3H3dz6uiUDW69X9WyWmsRwdPcwBSN0o7uec9xL8kxSH3lwgk+Zj8KmIZIToUgyyWLzV0IyR/6WxaV/1a7yRgBOx16LeQkuCfqN7hvo+wctz9fLvqhF4N7/bnDVzcTR3GGlY3yXw5NAA4TpSNTJD/4V6qYg4BD3clgNbmBDs898iqKZUdvin5zm52roaMkF8THDdDvFdGvOYM3WJzvzrkAiSJc8cA8aZTF2HX7BlIbrXe4x0UOykODrP+bHEq1ta0lPiHgsVQN21Pgs9wQdwww/TVl8MBvko3TAXu16C4rK57hjMHfpj2ebRvdrkYh+bGlVfTd4u0qlvzTXjgBZBO9Zv45Uup3Fg==;YD8DeQHdWLF98mNrMgRqLA=="
+secured: "Lv+ddt5ouw6Q1njgr73DLjzcYCJAGDR9NRklE8dZOVMzNIf5XkLIoPLv1CFyzMrhyc5a0mNCwH//O2JAXzABg+H4t4SFFBn/DsRazLkekfMIhyJH0fubhTkDAahNUk1PYrEZvMLfNWbm4FTww+770QEITvK+k875rQZmYvNyyjzNT66duCTa+yvYApyjIk2RS3TLJugZ4FRZPuayRQtzw3/CbwEuNYpZm90DinAgxrEYYRRnkN0Pre8BGCbUA8AO3G0fxBwkFtNYoolw5QOJ8Z2ExiNFCyhmmIMCsiVFRIoontfnz8p8wQ9Pa8nm9DMQUrFHlfkkxeK0ATCZgG8z3cis8AQ5hbmhun6/HWHT4IJlDikenuGe/Xo79NJ+FA1Qt/RIswh34JaCkcNSTk2/SKys+A7ZFhzThzRxTmfAu1U13IUf9onG8Y9lpA+YLbYXLdBC53BdBYl4cxLA3esVNFxDVYeo6lq1HjJE0TiWQeW1270P856QOpjxLiFFdWBzXz0QTQDPQ+ce7Lp1RVew+w==;ppx0BoAWi950efsld4B9eA=="
 ---
 

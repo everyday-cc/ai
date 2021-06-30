@@ -78,19 +78,14 @@ related:
         height: 339
         isCached: true
   - title: "Microsoft, SES and GRC Showcase Azure Cloud for Remote Missions via Secure GovSat Connectivity Service"
-    excerpt: "Microsoft, SES and GRC demonstrate the power of combining Microsoft’s Azure and secure MilSatCom to bring Artificial Intelligence and Machine Learning to in-theatre operations Operating in both connected and disconnected modes,"
-    publishedDateTime: 2021-06-30T07:39:00Z
-    webUrl: "https://www.businesswireindia.com/microsoft-ses-and-grc-showcase-azure-cloud-for-remote-missions-via-secure-govsat-connectivity-service-73769.html"
+    excerpt: "Microsoft and SES, in partnership with GovSat and UK-based solutions provider GRC, came together to demonstrate how Microsoft Azure Machine Learning ("
+    publishedDateTime: 2021-06-30T06:50:00Z
+    webUrl: "https://www.businesswire.com/news/home/20210629006127/en/Microsoft-SES-and-GRC-Showcase-Azure-Cloud-for-Remote-Missions-via-Secure-GovSat-Connectivity-Service"
     type: article
     provider:
       name: Business Wire
-      domain: businesswireindia.com
-    quality: 38
-    images:
-      - url: "https://cms.businesswireindia.com/Uploads/news-multimedia/companyLogo/SES_73769.jpg"
-        width: 1188
-        height: 547
-        isCached: true
+      domain: businesswire.com
+    quality: 18
 
 secured: "xgGCLzU7whbcmHEjfOA3+jRpriwX3iSZyWZt5Suh6aT1U/njqibE6Icktezja6phZbp+roUaWILfKR6d4FQYZK+yyKO2iM75h4RJfwFpBl62Pr3afWyf55iRqbpFNdt3T33XCQmjHIYi/a/iqEHu9KucNxfSAMBdKR55osLQmECaYPQr5x+T3OmWT2xfgsvlga58eBLjY6+17MQeliGxA3BzVccf7ec4aoCgFrhcxpI2nKHyOyHlPLi5hiHKXXR2uxiPsRZehiRPR1sD1DzsEK1lQcKAIlHlJEzjF0af+EQOmmEFvHxWdeivuGwT6xFAOtOvT0pTQZ4jZ/RzAUN2fGmwrZb9SpJGraB1DY5eLrM=;IJcrZP1Shg+30dgN+taZsg=="
 ---

@@ -2,6 +2,455 @@
   "page": 62,
   "value": [
     {
+      "path": "_news/2021-05-17-robotics-company-embodied-acquires-conversational-ai-business.md",
+      "title": "Robotics Company Embodied Acquires Conversational AI Business",
+      "excerpt": "Pasadena-based Embodied Inc. released a product last year called Moxie, an artificial-intelligence-enabled robotic companion for young children. The device — which Time selected as one of its top inventions of 2020 — is designed to support kids’ social and emotional development through interactions themed around concepts like kindness,",
+      "sourceUrl": null,
+      "webUrl": "https://labusinessjournal.com/news/2021/may/17/embodied-robotics-acquires-conversational-ai/",
+      "originalUrl": "https://labusinessjournal.com/news/2021/may/17/embodied-robotics-acquires-conversational-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ocbj.media.clients.ellingtoncms.com/img/photos/2021/05/13/PG11_TECH_EMBODIED_0517_Moxie2_t670.jpg?b3f6a5d7692ccc373d56e40cf708e3fa67d9af9d",
+          "width": 670,
+          "height": 376,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-17T00:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Los Angeles Business Journal",
+        "domain": "labusinessjournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-17-3u-vpx-embedded-computing-for-artificial-intelligence-ai-electronic-warfare-ew-offered-by-curtiss-wright.md",
+      "title": "3U VPX embedded computing for artificial intelligence (AI), electronic warfare (EW) offered by Curtiss-Wright",
+      "excerpt": "The VPX3-4935 SOSA aligned module feature an NVIDIA Quadro Turing TU104 (RTX5000E) GPU that delivers 11.2 TFLOPS/TIPS performance. It provides 3072 CUDA cores, 384 tensor cores, and 48 ray-tracing ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.militaryaerospace.com/computers/article/14203132/artificial-intelligence-ai-electronic-warfare-ew-embedded-computing",
+      "originalUrl": "https://www.militaryaerospace.com/computers/article/14203132/artificial-intelligence-ai-electronic-warfare-ew-embedded-computing",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.militaryaerospace.com/files/base/ebm/mae/image/2021/05/Curtiss_19_May_2021.609ade048a9db.png?auto=format&fit=max&w=1200",
+          "width": 1200,
+          "height": 740,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-16T23:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Military",
+        "domain": "militaryaerospace.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-17-how-crocs-used-robots-to-rule-the-comfort-economy.md",
+      "title": "How Crocs used robots to rule the comfort economy",
+      "excerpt": "Crocs emerged as a stay-at-home comfort essential and experienced unprecedented demand. As a result, the company quickly outgrew their distribution center and",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/how-crocs-used-robots-to-lead-the-comfort-economy/",
+      "originalUrl": "https://www.zdnet.com/article/how-crocs-used-robots-to-lead-the-comfort-economy/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/hub/i/2021/05/17/f87144b9-b649-47ca-8d43-9a8a2d6c8c0c/crocs.jpg",
+          "width": 960,
+          "height": 536,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/how-crocs-used-robots-to-lead-the-comfort-economy/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/how-crocs-used-robots-to-lead-the-comfort-economy/",
+      "publishedDateTime": "2021-05-16T21:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-17-understanding-dimensionality-reduction-in-machine-learning-models.md",
+      "title": "Understanding dimensionality reduction in machine learning models",
+      "excerpt": "Data scientists use dimensionality reduction in machine learning models to remove irrelevant features from busy datasets.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/05/16/understanding-dimensionality-reduction-in-machine-learning-models/?via=indexdotco",
+      "originalUrl": "https://venturebeat.com/2021/05/16/understanding-dimensionality-reduction-in-machine-learning-models/?via=indexdotco",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2018/05/shutterstock_751715872.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 850,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/05/16/understanding-dimensionality-reduction-in-machine-learning-models/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/16/understanding-dimensionality-reduction-in-machine-learning-models/amp/",
+      "publishedDateTime": "2021-05-16T19:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-17-cloudflare-wants-to-kill-the-captcha-using-hardware-security-keys.md",
+      "title": "Cloudflare wants to kill the CAPTCHA using hardware security keys",
+      "excerpt": "Cloudflare is one of the top providers of web infrastructure and security, content delivery, DNS, among others. The company has also been offering businesses bot management",
+      "sourceUrl": null,
+      "webUrl": "https://www.techspot.com/news/89692-cloudflare-wants-kill-captcha-using-hardware-security-keys.html",
+      "originalUrl": "https://www.techspot.com/news/89692-cloudflare-wants-kill-captcha-using-hardware-security-keys.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.techspot.com/images2/news/bigimage/2021/05/2021-05-16-image-4.jpg",
+          "width": 2560,
+          "height": 1706,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techspot.com/amp/news/89692-cloudflare-wants-kill-captcha-using-hardware-security-keys.html",
+      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/89692-cloudflare-wants-kill-captcha-using-hardware-security-keys.html",
+      "publishedDateTime": "2021-05-16T18:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechSpot",
+        "domain": "techspot.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2021-05-17-items-filtered-by-date-may-2021.md",
+      "title": "Items filtered by date: May 2021",
+      "excerpt": "IpT opened talks to bring a second operator on board after connecting more than 650 sites since May 2019 and covering 800,000 people (450,000 actual customers) with a 3G and 4G rollout in rural Peru.",
+      "sourceUrl": null,
+      "webUrl": "https://www.thefastmode.com/date/year/month/day?limit=3&limitstart=1584&start=1800",
+      "originalUrl": "https://www.thefastmode.com/date/year/month/day?limit=3&limitstart=1584&start=1800",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-16T17:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Deep",
+        "domain": "thefastmode.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-17-ai-for-covid19-predictive-diagnostics-platform-available-to-global-scientific-community.md",
+      "title": "AI-for-COVID19: Predictive Diagnostics Platform Available to Global Scientific Community",
+      "excerpt": "The platform integrates a range of AWS technologies, including machine learning and artificial intelligence from Amazon SageMaker, a fully managed service for creating, training and deploying ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.prnewswire.co.uk/news-releases/ai-for-covid19-predictive-diagnostics-platform-available-to-global-scientific-community-811327615.html",
+      "originalUrl": "https://www.prnewswire.co.uk/news-releases/ai-for-covid19-predictive-diagnostics-platform-available-to-global-scientific-community-811327615.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1511666/Bracco_Imaging_AI_for_COVID_2.jpg?p=facebook",
+          "width": 1024,
+          "height": 536,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-16T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PR Newswire",
+        "domain": "prnewswire.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-17-alphabets-waymo-says-its-tech-would-avoid-fatal-human-crashes.md",
+      "title": "Alphabet’s Waymo says its tech would avoid fatal human crashes",
+      "excerpt": "The autonomous-car artificial intelligence from Alphabet Inc’s Waymo avoided or mitigated crashes in most of a set of virtually recreated fatal accidents, according to a white paper the company ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.thestar.com.my/tech/tech-news/2021/03/09/alphabets-waymo-says-its-tech-would-avoid-fatal-human-crashes",
+      "originalUrl": "https://www.thestar.com.my/tech/tech-news/2021/03/09/alphabets-waymo-says-its-tech-would-avoid-fatal-human-crashes",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apicms.thestar.com.my/uploads/images/2021/03/09/1070479.jpg",
+          "width": 1240,
+          "height": 811,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-16T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Star",
+        "domain": "thestar.com.my",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-17-the-future-through-artificial-intelligence.md",
+      "title": "The future through Artificial Intelligence",
+      "excerpt": "ARTIFICIAL Intelligence (AI ... On a bigger spectrum, from self-driving cars to voice-initiated mobile phones and computer-controlled robots, the presence of AI is seen and felt almost everywhere.",
+      "sourceUrl": null,
+      "webUrl": "https://www.thestar.com.my/metro/metro-news/2020/03/28/the-future-through-artificial-intelligence",
+      "originalUrl": "https://www.thestar.com.my/metro/metro-news/2020/03/28/the-future-through-artificial-intelligence",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apicms.thestar.com.my/uploads/images/2020/03/28/622672.jpg",
+          "width": 1048,
+          "height": 457,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-16T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Star",
+        "domain": "thestar.com.my",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-17-wimi-realizes-naked-eye-interactive-high-simulation-ai-vision-the-clone-technique-of-science-fiction-movies-becomes-reality.md",
+      "title": "WIMI Realizes Naked-Eye Interactive High-Simulation AI Vision, the ‘Clone Technique’ of Science Fiction Movies Becomes Reality",
+      "excerpt": "Tailor Insight, the fintech market research organization, recently released a research report “WIMI Realizes Naked-Eye Interactive High-Simulation AI Vision, the ‘Clone Technique’ of Science Fiction Movies Becomes Reality”.",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaljournal.com/pr/wimi-realizes-naked-eye-interactive-high-simulation-ai-vision-the-clone-technique-of-science-fiction-movies-becomes-reality",
+      "originalUrl": "https://www.digitaljournal.com/pr/wimi-realizes-naked-eye-interactive-high-simulation-ai-vision-the-clone-technique-of-science-fiction-movies-becomes-reality",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.digitaljournal.com/wp-content/uploads/2021/05/4d6dcf36e0c4cb7994b2ecf152590018403969c1-600x337.jpg",
+          "width": 600,
+          "height": 337,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-16T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Journal",
+        "domain": "digitaljournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-17-now-theres-a-deepfake-audio-platform-where-celebrities-can-license-ai-generated-voice-clips.md",
       "title": "Now There's a Deepfake Audio Platform Where Celebrities Can License AI-Generated Voice Clips",
       "excerpt": "Whenever deepfakes make the news, it’s almost always for the latest terrifying way bad actors have figured out how to spawn hoaxes or cyberbully people using the AI-powered technology. However, the media industry has found some more practical (and less sinister) applications,",
@@ -684,470 +1133,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-15-new-deep-learning-model-brings-image-segmentation-to-edge-devices.md",
-      "title": "New deep learning model brings image segmentation to edge devices",
-      "excerpt": "This made it difficult to run these deep learning models without a connection to cloud servers. In their latest work, the scientists at DarwinAI and the University of Waterloo have managed to ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/05/14/new-deep-learning-model-brings-image-segmentation-to-edge-devices/?via=indexdotco",
-      "originalUrl": "https://venturebeat.com/2021/05/14/new-deep-learning-model-brings-image-segmentation-to-edge-devices/?via=indexdotco",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/04/brain-ai-e1561657878421.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/05/14/new-deep-learning-model-brings-image-segmentation-to-edge-devices/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/14/new-deep-learning-model-brings-image-segmentation-to-edge-devices/amp/",
-      "publishedDateTime": "2021-05-14T17:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-15-wimi-hologram-clouds-ar-and-ai-vision-turns-virtual-into-reality-while-facebook-and-google-increase-investment-in-metaverse.md",
-      "title": "WIMI Hologram Cloud's AR and AI Vision Turns Virtual into Reality, While Facebook and Google Increase Investment in Metaverse",
-      "excerpt": "MobiusTrend, the fintech market research organization, recently released a research report “WIMI Hologram Cloud’s AR and AI Vision Turns Virtual",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/21/05/ab21139096/wimi-hologram-clouds-ar-and-ai-vision-turns-virtual-into-reality-while-facebook-and-google-increa",
-      "originalUrl": "https://www.benzinga.com/pressreleases/21/05/ab21139096/wimi-hologram-clouds-ar-and-ai-vision-turns-virtual-into-reality-while-facebook-and-google-increa",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.benzinga.com/amp/content/21139096",
-      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/21139096",
-      "publishedDateTime": "2021-05-14T17:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-15-elon-musks-best-investments.md",
-      "title": "Elon Musk's Best Investments",
-      "excerpt": "A list of some of Musk's best investments includes PayPal Holdings Inc. (PYPL), SpaceX, DeepMind (GOOGL), Tesla Inc. (TSLA), and The Boring Company.﻿﻿ ﻿﻿ Musk is the CEO and co-founder of ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.investopedia.com/articles/investing/031316/elon-musks-5-best-investments-tsla-pypl.asp",
-      "originalUrl": "https://www.investopedia.com/articles/investing/031316/elon-musks-5-best-investments-tsla-pypl.asp",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.investopedia.com/thmb/116HqdfR7rOQoAhctt4rjgaZYqE=/680x440/filters:fill(auto,1)/ap_507406182676-5bfc3829c9e77c00587a7cc8.jpg",
-          "width": 680,
-          "height": 440,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-14T16:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Investopedia",
-        "domain": "investopedia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-15-heres-what-the-dreams-of-googles-artificial-intelligence-look-like.md",
-      "title": "Here’s What the “Dreams” of Google’s Artificial Intelligence Look Like",
-      "excerpt": "Google’s Artificial Intelligence can dream in reality. Its innovative DeepDream software is turning AI neural networks inside out to comprehend how computers think.",
-      "sourceUrl": null,
-      "webUrl": "https://www.analyticsinsight.net/heres-what-the-dreams-of-googles-artificial-intelligence-look-like/",
-      "originalUrl": "https://www.analyticsinsight.net/heres-what-the-dreams-of-googles-artificial-intelligence-look-like/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.analyticsinsight.net/wp-content/uploads/2021/05/Artificial-Intelligence-10.jpg",
-          "width": 900,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-14T13:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Analytics Insight",
-        "domain": "analyticsinsight.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-15-ai-weekly-how-to-implement-ai-responsibly.md",
-      "title": "AI Weekly: How to implement AI responsibly",
-      "excerpt": "Implementing AI responsibly requires involving all stakeholders in the development, design, deployment, and maintenance phases.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/05/14/ai-weekly-how-to-implement-ai-responsibly/",
-      "originalUrl": "https://venturebeat.com/2021/05/14/ai-weekly-how-to-implement-ai-responsibly/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2016/09/big-data.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/05/14/ai-weekly-how-to-implement-ai-responsibly/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/14/ai-weekly-how-to-implement-ai-responsibly/amp/",
-      "publishedDateTime": "2021-05-14T13:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-15-how-fintech-offerings-can-become-the-backbone-of-indias-banking-sector-in-at-least-5-years.md",
-      "title": "How fintech offerings can become the backbone of India’s banking sector in at least 5 years",
-      "excerpt": "Fintech players have developed advanced analytics systems, powered by AI , that process multiple data points to assess the creditworthiness of the borrower. The traditional method of assessment ...",
-      "sourceUrl": null,
-      "webUrl": "https://yourstory.com/2021/04/fintech-offerings-backbone-india-banking-sector/amp",
-      "originalUrl": "https://yourstory.com/2021/04/fintech-offerings-backbone-india-banking-sector/amp",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.yourstory.com/cs/2/f02aced0d86311e98e0865c1f0fe59a2/fintech-1615473734377-1617021295429-1619116128157.png ",
-          "width": 800,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://yourstory.com/2021/04/fintech-offerings-backbone-india-banking-sector/amp",
-      "cdnAmpWebUrl": "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2021/04/fintech-offerings-backbone-india-banking-sector/amp",
-      "publishedDateTime": "2021-05-14T13:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Your Story",
-        "domain": "yourstory.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-15-as-ma-accelerates-deal-makers-are-leveraging-ai-and-ml-to-keep-pace.md",
-      "title": "As M&A accelerates, deal-makers are leveraging AI and ML to keep pace",
-      "excerpt": "Using AI and ML to cut out the labor-intensive parts of M&A both speeds the process and reduces the time-consuming tasks that lead to burnout in the industry.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/05/14/as-ma-accelerates-deal-makers-are-leveraging-ai-and-ml-to-keep-pace/",
-      "originalUrl": "https://techcrunch.com/2021/05/14/as-ma-accelerates-deal-makers-are-leveraging-ai-and-ml-to-keep-pace/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/05/GettyImages-494329461.jpg?w=608",
-          "width": 608,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-14T12:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-05-15-when-ai-meets-bi-5-red-flags-to-watch-for.md",
-      "title": "When AI meets BI: 5 red flags to watch for",
-      "excerpt": "AI can transform BI into a tool that drives data-driven decision-making, but incorporating AI into existing BI environments is difficult.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/05/14/when-ai-meets-bi-5-red-flags-to-watch-for/",
-      "originalUrl": "https://venturebeat.com/2021/05/14/when-ai-meets-bi-5-red-flags-to-watch-for/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2018/05/ai-machine_learning-shutterstock_671158525.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 850,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/05/14/when-ai-meets-bi-5-red-flags-to-watch-for/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/14/when-ai-meets-bi-5-red-flags-to-watch-for/amp/",
-      "publishedDateTime": "2021-05-14T11:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-15-facebook-teaches-ai-to-disregard-irrelevant-information-to-improve-overall-performance.md",
-      "title": "Facebook Teaches AI To Disregard Irrelevant Information To Improve Overall Performance",
-      "excerpt": "Expire-Span works by predicting what information is most important and therefore worthwhile to keep based on context.",
-      "sourceUrl": null,
-      "webUrl": "https://hothardware.com/news/facebook-teaching-ai-to-forget-things-to-improve-performance",
-      "originalUrl": "https://hothardware.com/news/facebook-teaching-ai-to-forget-things-to-improve-performance",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.hothardware.com/contentimages/newsitem/55100/content/facebook-teaching-ai-to-forget-things-to-improve-performance.jpg",
-          "width": 708,
-          "height": 324,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.hothardware.com/news/facebook-teaching-ai-to-forget-things-to-improve-performance",
-      "cdnAmpWebUrl": "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/facebook-teaching-ai-to-forget-things-to-improve-performance",
-      "publishedDateTime": "2021-05-14T10:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "HotHardware",
-        "domain": "hothardware.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-14-ponyais-self-driving-car-takes-media-for-test-drive.md",
-      "title": "Pony.ai's self-driving car takes media for test drive",
-      "excerpt": "Rough Cuts Pony.ai's self-driving car takes media for test drive. Posted . Autonomous car company Pony.ai, backed by Toyota Motor Corp, showcased its self-driving vehicle utilisin",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/video/watch/idOVECXWMSF",
-      "originalUrl": "https://www.reuters.com/video/watch/idOVECXWMSF",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.reuters.com/resources/r/?d=20210514&i=OVECXWMSF&r=OVECXWMSF&t=2",
-          "width": 960,
-          "height": 540,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-14T09:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

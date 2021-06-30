@@ -102,15 +102,6 @@ related:
       name: The Business Journals
       domain: bizjournals.com
     quality: 16
-  - title: "Amazon to collaborate with self-driving startup Plus"
-    excerpt: "Amazon has entered into an agreement with Plus, a self-driving freight startup, to retrofit 1,000 trucks. According to Bloomberg, under the agreement, Amazon has an option to acquire up to 20% equity stake based on the purchase of up to $150 million of Plus' products."
-    publishedDateTime: 2021-06-25T20:23:00Z
-    webUrl: "https://electronics360.globalspec.com/article/16866/amazon-to-collaborate-with-self-driving-startup-plus"
-    type: article
-    provider:
-      name: Engineering360 News
-      domain: globalspec.com
-    quality: 4
 
 secured: "ccaJBfwY+mg0eLAe1ueEC6Q+KMWvXWmba/plifBOOYAR/wcyr+2jLLyxXt4rxq8Ybn031ob/z+F+ZONDesWga8m3S+vMfzYnoUA+EkxDGD7g2E0aaSG/iqCaJArv6zNjm25MI8o1/a3A7id9EGWXvXMrLILwhmyHUdNQmKQTZpWr2ckBXcy9KNVVw3MLdTZzlcsSazjrUp/J8UA4MeV78LfpD6dzAEs3lyQbqdZEWOUnA6JtwFzf41R24TXO+XeAXam6GYKawmejh4NrkGPdVSwcJBJhaV/coY4OLt0VMIM1Gg39rlCbkNdlayZw8Bw9aNv9I8Ck3pIKdgeKN+uf5xNZan5xmlgIc0AZU9WDilrxFIaSlYWBcbiDNZpC0xyRVGLDuPheKwKEytQFDUqI7F8h5Edwa9iNf7qZo6E495Q+nwX6bKvneT4zja4NyP2O0VnHhFbJWwhCI3VkkmYzYCmbjmhW6FzfRZ5O73ivoDHjdIIEKsREgGtOR354mCGByHhOIYR/n9ITHEBV6+VZLQ==;U3a6Q0VvTJnjfRHGtdhwug=="
 ---

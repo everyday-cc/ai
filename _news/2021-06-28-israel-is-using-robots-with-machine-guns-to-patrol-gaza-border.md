@@ -7,7 +7,7 @@ originalUrl: "https://nationalinterest.org/blog/buzz/israel-using-robots-machine
 webUrl: "https://nationalinterest.org/blog/buzz/israel-using-robots-machine-guns-patrol-gaza-border-188602"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Israel used world's first AI-guided combat drone swarm in Gaza attacks"
+    excerpt: "May, the Israel Defense Forces (IDF) used a swarm of small drones to locate, identify and attack Hamas militants. This is thought to be the first time a drone swarm has been used in combat"
+    publishedDateTime: 2021-06-30T12:06:00Z
+    webUrl: "https://www.newscientist.com/article/2282656-israel-used-worlds-first-ai-guided-combat-drone-swarm-in-gaza-attacks/"
+    ampWebUrl: "https://www.newscientist.com/article/2282656-israel-used-worlds-first-ai-guided-combat-drone-swarm-in-gaza-attacks/amp/"
+    cdnAmpWebUrl: "https://www-newscientist-com.cdn.ampproject.org/c/s/www.newscientist.com/article/2282656-israel-used-worlds-first-ai-guided-combat-drone-swarm-in-gaza-attacks/amp/"
+    type: article
+    provider:
+      name: New Scientist
+      domain: newscientist.com
+    quality: 57
+    images:
+      - url: "https://images.newscientist.com/wp-content/uploads/2021/06/30124549/30-june_israel-drone-swarm2.jpg?width=600"
+        width: 600
+        height: 400
+        isCached: true
   - title: "Israel, Breaking Ground in Artificial Intelligence"
     excerpt: "Popularly known as the startup nation, Israel is a pioneer in technology and artificial intelligence at large. In plain terms, artificial intelligence is said to be the conventional name for intelligence exhibited by machines,"
     publishedDateTime: 2021-06-28T21:19:00Z

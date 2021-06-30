@@ -24,6 +24,22 @@ images:
     height: 221
     isCached: true
 
+related:
+  - title: "Intel’s DG2 Gaming GPU Is Now Sampling to Developers"
+    excerpt: "One tidbit Intel confirmed at the International Supercomputing Conference this week: It’s now shipping DG2 GPUs to developers as part of its slow ramp into the GPU market. Up until now, Intel has confirmed itself to shipping integrated Xe-based graphics and a small,"
+    publishedDateTime: 2021-06-30T13:41:00Z
+    webUrl: "https://www.extremetech.com/gaming/324267-intels-dg2-gaming-gpu-is-now-sampling-to-developers"
+    type: article
+    provider:
+      name: ExtremeTech
+      domain: extremetech.com
+    quality: 39
+    images:
+      - url: "https://www.extremetech.com/wp-content/uploads/2020/01/Intel-Xe-Feature.jpg"
+        width: 1344
+        height: 742
+        isCached: true
+
 secured: "BWszN+q7vzD776mnTDX4Y0oIHf1JfooCsMMENptQ/okYvk4e8SeqoRyWq9w8sWKlcKhtb7eTnNsgYi8rMsHZ8oy/PjmFje9+a7UYtrNI4jAIu07AAuXm7TIrB5aBzk+XQQFN31a7MC9lKhCvQYT4KC1WXSA3MPLKlH3mgTpeS9y3g4g4otwHOgtzl1+6uGzpnw9WMosJVQPd3yfqU8tqRefx4QMuS1WYL9N9VhsQyOrXltxFvnAw2MxnJAtFE8hdHwnfX2aZYoVOZ6hsUPSZbldhhmszu3YDiabe3+QocKjbN6xoOVOqgDI6el30wGP9fUCXR79EK+pOI4eRjbEgbzjeZcmODTBsHBn1W+uQ8Y4=;nJkeH39ZV8N0ahM0K0NjWw=="
 ---
 

@@ -2,21 +2,27 @@
 category: news
 title: "Ambi Robotics Selects DWFritz To Manufacture AI-Powered Robotic Systems for Global Shippers"
 excerpt: "Ambi Robotics, an artificial intelligence (AI) and robotics company that develops advanced supply chain solutions based on simulation-to-reality AI to power highly-dexterous robots, and DWFritz Automation (DWFritz),"
-publishedDateTime: 2021-06-29T11:10:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-ambi-robotics-selects-dwfritz-manufacture-ai-powered-robotic-/2021/06/29/9399363.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-ambi-robotics-selects-dwfritz-manufacture-ai-powered-robotic-/2021/06/29/9399363.htm"
+publishedDateTime: 2021-06-29T11:02:00Z
+originalUrl: "https://www.register-herald.com/region/ambi-robotics-selects-dwfritz-to-manufacture-ai-powered-robotic-systems-for-global-shippers/article_4e488fce-a698-5b4d-9d97-8a69a541e6e0.html"
+webUrl: "https://www.register-herald.com/region/ambi-robotics-selects-dwfritz-to-manufacture-ai-powered-robotic-systems-for-global-shippers/article_4e488fce-a698-5b4d-9d97-8a69a541e6e0.html"
 type: article
-quality: 39
+quality: 59
 heat: -1
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: The Register-Herald
+  domain: register-herald.com
 
 topics:
   - AI in Robotics
   - AI
+
+images:
+  - url: "https://bloximages.chicago2.vip.townnews.com/register-herald.com/content/tncms/assets/v3/editorial/8/69/869f6c2b-4cbd-5721-8016-39adfc655ea9/60db01355b749.image.jpg?resize=1119%2C630"
+    width: 1119
+    height: 630
+    isCached: true
 
 related:
   - title: "Ambi Robotics selects DWFritz to manufacture AI-powered robotic systems"
@@ -57,6 +63,6 @@ related:
       domain: businessinsider.com
     quality: 46
 
-secured: "71TZX3zBRvWOqPjiAAyG3cJLjJEyExhf/exqw9328MkGDSoFCrV2PtHQvnjzyIEX+lqsv/5bY8UkAfLUMooiXJgRm1i38ea1WzNV+R0CtG/kkDv++qBkUGC65gD7I0HLMXJ/STVsvtF9BxyvSNDK8prkjNFL+f5AEUiSg0wT4odFpe62vpbr+N77eEs1nl3ALTcvy45jKBCE9YAqDgBHg1+m3XqtBGoRyKrC51YEOVjDfchrTFr6pGwhQofG3x7IsNErwD5jr6e/pd+zuj8kXXmUSMCkQmStQ4QAygTmiNCYqBKTGD5NLtNYLdNCsD/x2BkJJ5Txr0buMPUD51pRe+f3rxmjY8sDDJs6idVGBA+HtvqqSSo07gh2MnKYR31CTeYHV1mDkEVwynDSlwXEk+w32ytxh8QBczDmYLVMTiCsCyBWOu26G9D4SUIK5ny5mJroAD/zZc1icCHSoBbXagu51bNRpYxNRNcDbs/nojOnCKRPBh4KTOeYejsFfjX9/roUeOFJRIxmpDRRVwmy5Q==;8wXx88JsG0vexcbr9yyBYQ=="
+secured: "pMfeyvoDfZ2zTl4sBnAs2WapAKiMX6xmWLZ9QkSOqx2jcV49fsQjTpOo/EOCb35ett59e60EcDShDstzh3E6os3JJ2RizdfseccB9yrPNxEE8xnpMZsH2BmGMm1oszSRj26IL1dHGUSR/V09soXhazvYqoaa8P6qr92zFDAfDAnD4K04Oe2p+YGSiqnKPzryDDY+EiU2WTY6+C/DxhSotjtFPK/rZFnhYPDo4oX4vBSMhzuzysTePI0XqMDF301CAxyUZp/+SDAwr3etJNEmV6nqBSoi9pJd3ADmlshdHPY4CILixCzaR8/a1qJ839jCrGv0ooStIebOOuWH+BopbBFtl7V1+dTRpeSisyeW2Tc=;SMoqzr7WUVJ1puzBSz0yHg=="
 ---
 

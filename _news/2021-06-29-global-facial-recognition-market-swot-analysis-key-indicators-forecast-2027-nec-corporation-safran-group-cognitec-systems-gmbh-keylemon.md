@@ -53,6 +53,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Feds Told to Better Manage Facial Recognition, Amid Privacy Concerns"
+    excerpt: "A GAO report finds government agencies are using the technology regularly in criminal investigations and to identify travelers, but need stricter management to protect people’s privacy and avoid inacc"
+    publishedDateTime: 2021-06-30T12:39:00Z
+    webUrl: "https://threatpost.com/feds-manage-facial-recognition-privacy-concerns/167419/"
+    type: article
+    provider:
+      name: Threat Post
+      domain: threatpost.com
+    quality: 39
+    images:
+      - url: "https://media.threatpost.com/wp-content/uploads/sites/103/2020/08/05143851/deepfake-fireeye.jpg"
+        width: 800
+        height: 533
+        isCached: true
   - title: "Global Facial Recognition Technology in the Financial Services Market Size, Status and Forecast 2021-2027"
     excerpt: "Pages Report] Check for Discount on Global Facial Recognition Technology in the Financial Services Market Size, Status and Forecast 2021-2027 report by QYResearch Group. The use of AI has grown exponentially in recent years,"
     publishedDateTime: 2021-06-30T07:43:00Z

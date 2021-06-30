@@ -42,19 +42,19 @@ related:
         width: 1500
         height: 1158
         isCached: true
-  - title: "AI/ML to Acquire Interest in Digital Mental Health Provider, Tech2Health"
-    excerpt: "Tech2Health is well positioned to provide support for the current mental health pandemic, utilizing a unique blend of proprietary digital assets, remote live counselling, and a physical wellness center."
-    publishedDateTime: 2021-06-25T20:46:00Z
-    webUrl: "https://apnews.com/press-release/accesswire/europe-mental-health-health-coronavirus-pandemic-technology-2d24016a524a6d1bc5b653a46816a694"
+  - title: "RingCentral Attacks Robocalls with AI-Powered Solution and STIR/SHAKEN Implementation"
+    excerpt: "RingCentral , a leading provider of global enterprise cloud communications, video meetings, collaboration, and contact center solutions, today announced that the company is taking steps to protect customers from the increasing problem of"
+    publishedDateTime: 2021-06-29T11:08:00Z
+    webUrl: "https://www.lelezard.com/en/news-19878808.html"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 55
+      name: Le Lézard
+      domain: lelezard.com
+    quality: 32
     images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
+      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
+        width: 640
+        height: 480
         isCached: true
 
 secured: "J7iUG+ttJuvDzUnT5diW+wigpcoVGkrPM6uL990kPNLRJ9sX+O4zkXpSgjjHGHJ6F8ETBfd8NTO9I0BycovvrmW+GoecZZ8Jsb0BaKJHPCdsZQSFlX4PVUOfrTrDWIJ0CwB9kzLS2RRUtHkcmNAil3KYtigVgAc7CdxSbTE6c1tPCMUgMwvHVnpwNR+sXR+j0lA+75nk54YSCQ/3JDBTvtHJk2uf7Pc6kqlOtSUnKYcmggR+VvQKSdnpmgd1rlQZyiuVT7ln3HGHRiW0x0BiUZiBkKBL2+b1ojxs66p9jbn5arqc4+H3MmDSOwytFOnhJU6LsW/4yBwE3L9OmsxD7obJ+gGnoW9e4OfQ3elRMtE=;VE5mHK2EgSfOZgOU9kne3A=="

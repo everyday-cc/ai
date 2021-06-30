@@ -255,58 +255,6 @@
       ]
     },
     {
-      "path": "_news/2021-06-29-microsoft-brings-ai-to-github-to-create-a-smart-programing-copilot-tool.md",
-      "title": "Microsoft brings AI to GitHub to create a smart programing Copilot tool",
-      "excerpt": "Microsoft is making available a technical preview of a new Visual Studio Code extension that is designed to help programmers write code smarter and faster using AI technology from OpenAI.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/microsoft-brings-ai-to-github-to-create-a-smart-programing-copilot-tool/",
-      "originalUrl": "https://www.zdnet.com/article/microsoft-brings-ai-to-github-to-create-a-smart-programing-copilot-tool/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 164,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/hub/i/2021/06/29/bd54eff3-c9c7-4cf0-b714-606d46cc4cc7/githubcopilot.jpg",
-          "width": 1199,
-          "height": 478,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/microsoft-brings-ai-to-github-to-create-a-smart-programing-copilot-tool/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-brings-ai-to-github-to-create-a-smart-programing-copilot-tool/",
-      "publishedDateTime": "2021-06-29T04:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-06-29-best-python-course-2021-top-online-coding-classes.md",
       "title": "Best Python course 2021: Top online coding classes",
       "excerpt": "Programming language Python is undeniably a hot language to learn in 2021, and here are some of the best online sites where you can learn to code in it.",
@@ -420,7 +368,7 @@
       "originalUrl": "https://www.openpr.com/news/2314491/which-new-trends-are-likely-to-be-seen-in-ai-in-iot-market-in-2019",
       "featuredContent": null,
       "highlight": null,
-      "heat": 79,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -705,6 +653,41 @@
       "topics": [
         "AI",
         "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-23-cognitivescale-and-ascendum-to-accelerate-trusted-ai-deployments-for-healthcare-fintech-and-ecommerce.md",
+      "title": "CognitiveScale and Ascendum To Accelerate Trusted AI Deployments for Healthcare, Fintech and eCommerce",
+      "excerpt": "CognitiveScale will provide its trusted AI software while Ascendum will provide the services and certified developers required to build AI-powered solutions and use cases that meet the unique ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_entertainment/cognitivescale-and-ascendum-to-accelerate-trusted-ai-deployments-for-healthcare-fintech-and-ecommerce/article_bb29e0c7-143c-5c70-9cba-5ed9acd74fa1.html",
+      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_entertainment/cognitivescale-and-ascendum-to-accelerate-trusted-ai-deployments-for-healthcare-fintech-and-ecommerce/article_bb29e0c7-143c-5c70-9cba-5ed9acd74fa1.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-23T06:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WFMZ-TV",
+        "domain": "wfmz.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI in Healthcare"
       ]
     },
     {
@@ -1311,8 +1294,8 @@
       "title": "MSRcosmos Has Earned the Modernization of Web Applications to Microsoft Azure Advanced Specialization",
       "excerpt": "MSRcosmos ( today announced it has earned the Modernization of Web Applications to Microsoft Azure advanced specialization, a validation of a solution partner's deep",
       "sourceUrl": null,
-      "webUrl": "https://www.dailyrecordnews.com/news/state/msrcosmos-has-earned-the-modernization-of-web-applications-to-microsoft-azure-advanced-specialization/article_868b1889-b9ec-52c6-acd1-0923ab5e18c2.html",
-      "originalUrl": "https://www.dailyrecordnews.com/news/state/msrcosmos-has-earned-the-modernization-of-web-applications-to-microsoft-azure-advanced-specialization/article_868b1889-b9ec-52c6-acd1-0923ab5e18c2.html",
+      "webUrl": "https://www.dailyrecordnews.com/news/state/msrcosmos-has-earned-the-modernization-of-web-applications-to-microsoft-azure-advanced-specialization/article_682f3e2d-2220-502d-8106-76d944495ae4.html",
+      "originalUrl": "https://www.dailyrecordnews.com/news/state/msrcosmos-has-earned-the-modernization-of-web-applications-to-microsoft-azure-advanced-specialization/article_682f3e2d-2220-502d-8106-76d944495ae4.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,

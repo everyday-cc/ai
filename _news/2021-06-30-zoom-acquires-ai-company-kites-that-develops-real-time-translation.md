@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Zoom to acquire German startup to bring real-time translation to meetings"
+    excerpt: "As companies expand worldwide and meet online in tools like Zoom, the language barrier can be a real impediment to getting work done. Zoom announced that it intends to acquire German startup Karlsruhe Information Technology Solutions or Kites for short,"
+    publishedDateTime: 2021-06-29T15:18:00Z
+    webUrl: "https://techcrunch.com/2021/06/29/zoom-to-acquire-german-startup-to-bring-real-time-translation-to-meetings/"
+    ampWebUrl: "https://techcrunch.com/2021/06/29/zoom-to-acquire-german-startup-to-bring-real-time-translation-to-meetings/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/06/29/zoom-to-acquire-german-startup-to-bring-real-time-translation-to-meetings/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 171
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2021/06/GettyImages-1256252051.jpg?w=1024"
+        width: 1024
+        height: 640
+        isCached: true
   - title: "Zoom acquires AI translation startup Kites"
     excerpt: "Videoconferencing company Zoom has acquired Kites, an AI-powered language translation startup, for an undisclosed sum."
     publishedDateTime: 2021-06-29T15:25:00Z
@@ -59,22 +75,6 @@ related:
         width: 1400
         height: 933
         isCached: true
-  - title: "How is AI transforming the education industry"
-    excerpt: "The purpose behind application of AI in education is not to replace teachers, but give them a helping hand in understanding the potential and limitations of each student."
-    publishedDateTime: 2021-06-28T05:38:00Z
-    webUrl: "https://www.dqindia.com/ai-transforming-education-industry/"
-    ampWebUrl: "https://www.dqindia.com/ai-transforming-education-industry/amp/"
-    cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/ai-transforming-education-industry/amp/"
-    type: article
-    provider:
-      name: Dataquest
-      domain: dqindia.com
-    quality: 74
-    images:
-      - url: "https://www.dqindia.com/wp-content/uploads/2021/01/edtech-innovations-higher-education_opt.jpg"
-        width: 850
-        height: 519
-        isCached: true
   - title: "Zoom investing in real-time translation following acquisition of AI company"
     excerpt: "Zoom on Tuesday announced the acquisition of Kites (or Karlsruhe Information Technology Solutions), a company focused on artificial intelligence software to transcribe and translate conversations. Following the acquisition,"
     publishedDateTime: 2021-06-30T01:08:00Z
@@ -105,20 +105,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "This AI-based startup wants to connect teachers and investors for education innovation"
-    excerpt: "Center for Education Reform and Global Silicon Valley, is looking to raise $60K via crowdfunding to launch its edtech networking tool."
-    publishedDateTime: 2021-06-28T18:47:00Z
-    webUrl: "https://technical.ly/dc/2021/06/28/this-ai-based-startup-wants-to-connect-teachers-and-investors-for-education-innovation/"
-    type: article
-    provider:
-      name: Technical
-      domain: technical.ly
-    quality: 46
-    images:
-      - url: "https://technical.ly/dc/wp-content/uploads/sites/5/2021/06/Capture.png"
-        width: 1063
-        height: 482
-        isCached: true
   - title: "Zoom acquires Kites for its AI language translation tech"
     excerpt: "Kites will be integrated into Zoom’s engineering team in an effort to improve machine-driven language translation during calls."
     publishedDateTime: 2021-06-29T15:21:00Z
@@ -132,20 +118,6 @@ related:
       - url: "https://www.siliconrepublic.com/wp-content/uploads/2020/11/AdobeStock_335035584_Editorial_Use_Only.jpeg"
         width: 800
         height: 600
-        isCached: true
-  - title: "Automation Group Creates AI Strategy Board"
-    excerpt: "The A3 in Ann Arbor has created a new AI Technology Strategy Board comprised of leading experts to promote education and adoption."
-    publishedDateTime: 2021-06-28T15:48:00Z
-    webUrl: "https://www.dbusiness.com/daily-news/automation-group-creates-ai-strategy-board/"
-    type: article
-    provider:
-      name: DBusiness Magazine
-      domain: dbusiness.com
-    quality: 37
-    images:
-      - url: "https://cdn.dbusiness.com/wp-content/uploads/sites/33/2021/06/Automation-800.jpg"
-        width: 800
-        height: 533
         isCached: true
   - title: "Zoom acquires Kites for real-time language translation capabilities"
     excerpt: "Zoom has acquired German start-up Karlsruhe Information Technology Solutions – known as Kites – in a bid to imbue its offering with real-time language translation capabilities."
@@ -162,6 +134,6 @@ related:
         height: 493
         isCached: true
 
-secured: "sE2ImFToQcYOt+ppFDtPBZYSBuHDq0ZDil8b3VpLB3dP64WLHAcKiXzqp0mm4EKJPEw/JVHiD2PneVzu+gAL8yRKmC3wDRbBrVmwFjtJVUSSxCC0jltCVHdlhFyfS0SxGlMvmFgUMiRjN9PSh76OlBeH7hylTQK48xKnSiZz//hXxenvkM9d6WFYjiI4z2I+UaQR6bwBoMQGKcH11VUJw6cyyCjDtuf4np6QphU7Z4pbfKUvpoLQ6dusbdCw2aKEb+5P8CPlyisgyAWxHfsdfD0fpTyk8eARpgKCWthDLGrFk2PeDs+CHAJYfa9dAI2YcREtyx2Ab1stmjEXMpPohZKFoYIpWptxspbFYue+1Kk=;CKbpfJWy4nszRxvrbLjiaA=="
+secured: "dTdTKiT5Br7VizUL+V6aIApKouukYrg33lRlhHYN2vZCOK0aVX+HLVPNPsB2o2UTIbB+L/RXBvB4VovgVqZmQOoYsgmGaBjtB5uXmPNWm1alWM/VBzfBoQ6hHYvHAxEBgoWHLP4+cZku4LIM9WqUVJocmG8LQyLOugy8/H5h+RYNEwwXzBYZl7i7NYhvUORZGNnGY4fxsnS7MkRq9LO3cuP1sMDS7h62RB08tHbtMRxfBiIvYX1lsvrHs72O1fNF2TwgJXIjtRGNUjLwAFq212mOicMlOcXqqoTkmvr2nllbF5Q6CaduWsVeSG00C/BnuiOo2wmSOu1TL6LHD6OftjrxcALpeABDGfwQIkM207LFmXg57+Q1AlpAu6XwxEENRC9XQRWR0G9JKko2yenjG0ROj7ExiI1iZBrkozSRiw1HGZlc5jxxqTS+gjp0YAgZPDK9Uogepn7P1NpadTvT3IxayxxdSGgp5+366J4GG1aG8Bl3EKT3g8raMFcgkuK6/0ljd9D3ygAn03+wxmaXdA==;ygT4gbaH9ANRZYwMM55nAg=="
 ---
 

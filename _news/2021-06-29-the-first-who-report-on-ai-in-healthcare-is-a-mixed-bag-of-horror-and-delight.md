@@ -163,20 +163,29 @@ related:
         width: 370
         height: 229
         isCached: true
-  - title: "Global Artificial Intelligence in Healthcare: Deals and Agreements by Leading Players From 2010-2021 - ResearchAndMarkets.com"
-    excerpt: "Partnering Terms and Agreements 2010 to 2021” report has been added to ResearchAndMarkets.com’s offering. The Global Artificial Intelligence (AI) Partnering Terms and Agreements 2010 to 2021 report provides an understanding and access to the artificial intelligence partnering deals and agreements entered into by the world’s leading healthcare companies."
-    publishedDateTime: 2021-06-28T16:53:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/artificial-intelligence-business-technology-c8cf1d7a3c1e49999f2dbe3d728e684e"
+  - title: "WHO Report Targets AI in Health, Cautions Against Health Disparities"
+    excerpt: "The World Health Organization (WHO) released the first global report on artificial intelligence in healthcare and six principles to avoid health disparities in the field. The report, Ethics and governance of artificial intelligence for health,"
+    publishedDateTime: 2021-06-30T13:30:00Z
+    webUrl: "https://healthitanalytics.com/news/who-report-targets-ai-in-health-cautions-against-health-disparities"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 27
+      name: Analytics
+      domain: healthitanalytics.com
+    quality: 39
     images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
+      - url: "https://healthitanalytics.com/images/site/article_headers/_normal/GettyImages-943065376.jpg"
+        width: 690
+        height: 400
         isCached: true
+  - title: "Global Artificial Intelligence in Healthcare: Deals and Agreements by Leading Players From 2010-2021 - ResearchAndMarkets.com"
+    excerpt: "Partnering Terms and Agreements 2010 to 2021\" report has been added to ResearchAndMarkets.com's offering. The Global Artificial Intelligence (AI) Partnering Terms and Agreements 2010 to 2021 report provides an understanding and access to the artificial intelligence partnering deals and agreements entered into by the world's leading healthcare companies."
+    publishedDateTime: 2021-06-28T11:53:00Z
+    webUrl: "https://www.morningstar.com/news/business-wire/20210628005698/global-artificial-intelligence-in-healthcare-deals-and-agreements-by-leading-players-from-2010-2021-researchandmarketscom"
+    type: article
+    provider:
+      name: Morningstar, Inc.
+      domain: morningstar.com
+    quality: 7
 
 secured: "XqXtw3CHpCByo9c2/DAYM3FBZgvIO2jikSODtrk28JujxZxuf3wkL0mUv47gbYqDr36/r2KW6SY2bjD6kt9K4LGaSLyD9vVgec+uweTOofUz/YoGv7D0oYk+5KcAYIbO/bSzCyfuyfSlJMJSbkE9CW1vA4UMEgqgWmfUm4B9NTHRh3LI6IOmQCWUyzqh+v+GF5jqGUxNvMf30ECHrYXedqZlectkDporkUggy81ULpOoPEPEoNcSwecicKIBWtd9Brui5lLfO3VvbJVKCQA7l5bP1IspU2dBXBu+ofP8vTLExwB893vImRqPtOURKstJEltW1UEsRDlQS0ZKrcgvsBY/ZHQfkyp3NiiV35AwJmE8krGFHgE/VhJ+sd2yhOafd7tbQ3MAvh79BTM2iayNt1OYmLqXoJd5D6TlISEZQSm1qiF3433dycgne7iu71pSwRj/Nd3k9glR3DbO5rz3WZmhBqZjJVH2N+aHmZ3SVYmTHClu2aLCuk0SvL6DkDbyuZ8EzFL44WXNB/eqthWUFQ==;9VKtcDz6ovyZvKBaefm+aw=="
 ---

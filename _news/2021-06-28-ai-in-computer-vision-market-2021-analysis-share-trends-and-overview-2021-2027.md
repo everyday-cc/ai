@@ -37,6 +37,17 @@ related:
         width: 660
         height: 300
         isCached: true
+  - title: "AI in Fintech Market Scope Emerging Trends, Analysis and Forecast 2026"
+    excerpt: "The AI in Fintech Market Global Industry Analysis Size Share Growth Trends and Forecast 2020 2026 report intends to offer a resourceful means to assess the AI in Fintech Market and entails the all inclusive analysis and upfront statistics with"
+    publishedDateTime: 2021-06-30T13:01:00Z
+    webUrl: "https://www.openpr.com/news/2317861/ai-in-fintech-market-scope-emerging-trends-analysis"
+    ampWebUrl: "https://www.openpr.com/amp/2317861/ai-in-fintech-market-scope-emerging-trends-analysis"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2317861/ai-in-fintech-market-scope-emerging-trends-analysis"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 41
   - title: "AI In Fintech Market: Size & Trends Shows a Rapid Growth by 2027"
     excerpt: "The Global AI In Fintech market was estimated at USD 7 91 billion in 2020 and it is expected to reach USD 26 67 billion by 2027 The market is also expected to witness a CAGR of 23 over the"
     publishedDateTime: 2021-06-28T08:21:00Z

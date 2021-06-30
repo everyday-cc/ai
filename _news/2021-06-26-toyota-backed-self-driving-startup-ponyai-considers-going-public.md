@@ -94,15 +94,6 @@ related:
       name: The Business Journals
       domain: bizjournals.com
     quality: 16
-  - title: "Amazon to collaborate with self-driving startup Plus"
-    excerpt: "Amazon has entered into an agreement with Plus, a self-driving freight startup, to retrofit 1,000 trucks. According to Bloomberg, under the agreement, Amazon has an option to acquire up to 20% equity stake based on the purchase of up to $150 million of Plus' products."
-    publishedDateTime: 2021-06-25T20:23:00Z
-    webUrl: "https://electronics360.globalspec.com/article/16866/amazon-to-collaborate-with-self-driving-startup-plus"
-    type: article
-    provider:
-      name: Engineering360 News
-      domain: globalspec.com
-    quality: 4
   - title: "Toyota chief personally invests ¥5 bil in self-driving smart city"
     excerpt: "NAGOYA: Toyota Motor President Akio Toyoda has invested ¥ 5 billion of his own money into a group unit building a smart city dominated by self-driving vehicles. The investment in Woven Planet Holdings during the last fiscal year ended March was revealed in its annual securities report filed Thursday."
     publishedDateTime: 2021-06-29T09:32:00Z

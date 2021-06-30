@@ -83,19 +83,14 @@ related:
       domain: finanztreff.de
     quality: 42
   - title: "Microsoft, SES and GRC Showcase Azure Cloud for Remote Missions via Secure GovSat Connectivity Service"
-    excerpt: "Microsoft, SES and GRC demonstrate the power of combining Microsoft’s Azure and secure MilSatCom to bring Artificial Intelligence and Machine Learning to in-theatre operations Operating in both connected and disconnected modes,"
-    publishedDateTime: 2021-06-30T07:39:00Z
-    webUrl: "https://www.businesswireindia.com/microsoft-ses-and-grc-showcase-azure-cloud-for-remote-missions-via-secure-govsat-connectivity-service-73769.html"
+    excerpt: "Microsoft and SES, in partnership with GovSat and UK-based solutions provider GRC, came together to demonstrate how Microsoft Azure Machine Learning ("
+    publishedDateTime: 2021-06-30T06:50:00Z
+    webUrl: "https://www.businesswire.com/news/home/20210629006127/en/Microsoft-SES-and-GRC-Showcase-Azure-Cloud-for-Remote-Missions-via-Secure-GovSat-Connectivity-Service"
     type: article
     provider:
       name: Business Wire
-      domain: businesswireindia.com
-    quality: 38
-    images:
-      - url: "https://cms.businesswireindia.com/Uploads/news-multimedia/companyLogo/SES_73769.jpg"
-        width: 1188
-        height: 547
-        isCached: true
+      domain: businesswire.com
+    quality: 18
 
 secured: "TVC08s+pREkKjq5xrrYACsLbR7eOtl87oZmUwUcNQg5sml4RVqPVmU2ZHqEp9zEVdXSt+uLvimR1pWMj+mY9MnchTe9jvN+OUImh1OgGUfP1pmzapV9JnDNJjC2qvjNjX1mr1gc5/s5eDPX7J9Q0a2B/pXJDvXsxhMie5fPEtqkxl45Os9iLZtGI+BFU9I1v1luraIHFaJyqqs7Cd4voMRomPJQV7HLdPumtUoffTgPVSO4xdMh13B+PYLH+E8aaOx6Sx6+v2UxjMO5APPuUUOGCa95z8GjnujExkFRkjTulnWaOmzZOMGl7hkmKSP2NfS9SRxWvntzBIva/r46d/woSNawjfj/aUN/cSH72Mzr8VwUr99wtr+oBuJejgOEcUT8/F6pO/L6d9GOOzGTFEnLL3Dm8SnCvK1kyu8vEuAzHwK7saNJuGZzy9+Rz/liS4FkCXD461Vm8Pkb+tXqAcNNYIF/aTe4Y38L6D5iBhdO70E9syMHBAljWTQaCdZUbPbXk+Wa/ASQwO5NF+SHAuw==;gE2KFqcOdqeoY+Ar4YsnpA=="
 ---

@@ -25,21 +25,37 @@ images:
     isCached: true
 
 related:
-  - title: "Are self-driving cars safe? Highway regulator orders industry to cough up the data"
-    excerpt: "After years of inaction, the federal government will begin collecting crash data on automated vehicles. The National Highway Traffic and Safety Administration on Tuesday ordered dozens of car, truck and technology companies to inform the agency of a serious crash within a day of learning about it,"
-    publishedDateTime: 2021-06-30T00:07:00Z
-    webUrl: "https://www.tampabay.com/news/business/2021/06/29/are-self-driving-cars-safe-highway-regulator-orders-industry-to-cough-up-the-data/"
-    ampWebUrl: "https://www.tampabay.com/news/business/2021/06/29/are-self-driving-cars-safe-highway-regulator-orders-industry-to-cough-up-the-data/?outputType=amp"
-    cdnAmpWebUrl: "https://www-tampabay-com.cdn.ampproject.org/c/s/www.tampabay.com/news/business/2021/06/29/are-self-driving-cars-safe-highway-regulator-orders-industry-to-cough-up-the-data/?outputType=amp"
+  - title: "Shenzhen, China’s Silicon Valley, plans to turbocharge local AI development with first-of-a-kind regulations"
+    excerpt: "Local government departments and state-owned companies will be required to take the lead in using AI products and services to boost implementation of the technology."
+    publishedDateTime: 2021-06-30T12:00:00Z
+    webUrl: "https://www.scmp.com/tech/policy/article/3139319/shenzhen-chinas-silicon-valley-plans-turbocharge-local-ai-development"
+    ampWebUrl: "https://amp.scmp.com/tech/policy/article/3139319/shenzhen-chinas-silicon-valley-plans-turbocharge-local-ai-development"
+    cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/policy/article/3139319/shenzhen-chinas-silicon-valley-plans-turbocharge-local-ai-development"
     type: article
     provider:
-      name: Tampa Bay Times
-      domain: tampabay.com
-    quality: 38
+      name: South China Morning Post
+      domain: scmp.com
+    quality: 70
     images:
-      - url: "https://www.tampabay.com/resizer/XV7Rc7YqPo9e0ybIc-w7jHyr0Dg=/800x450/smart/cloudfront-us-east-1.images.arcpublishing.com/tbt/GSVUHKEH5M7GC3TLGWK5NBVESE.jpg"
-        width: 800
-        height: 450
+      - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2021/06/30/61e18d70-d97a-11eb-8921-c363d46ef7af_image_hires_170758.jpg?itok=IJ3IY-d2&v=1625044090"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Shenzhen Rolls Out China’s First General AI Regulation"
+    excerpt: "Shenzhen promulgated the draft of Regulations on the Promotion of Artificial Intelligence Industry of Shenzhen Special Economic Zone, which seeks to establish an overarching framework for AI, such as the approval framework for market entrance of AI products and services."
+    publishedDateTime: 2021-06-30T13:04:00Z
+    webUrl: "https://syncedreview.com/2021/06/30/shenzhen-rolls-out-chinas-first-general-ai-regulation/"
+    ampWebUrl: "https://syncedreview.com/2021/06/30/shenzhen-rolls-out-chinas-first-general-ai-regulation/amp/"
+    cdnAmpWebUrl: "https://syncedreview-com.cdn.ampproject.org/c/s/syncedreview.com/2021/06/30/shenzhen-rolls-out-chinas-first-general-ai-regulation/amp/"
+    type: article
+    provider:
+      name: syncedreview
+      domain: syncedreview.com
+    quality: 59
+    images:
+      - url: "https://i0.wp.com/syncedreview.com/wp-content/uploads/2021/06/srchttp___n.sinaimg.cn_sinacn19_649_w2048h1001_20180626_3fb9-hencxtu6572199.jpgreferhttp___n.sinaimg.jpeg?fit=950%2C465&ssl=1"
+        width: 949
+        height: 464
         isCached: true
 
 secured: "mVWyLNq7JQXBj6fgFYMp/PIVY+IiEX7WrQLQplmOzVdZq6QHlmVKLS3I6zGNHK+U0WhnynqcpNafx+4DQawmy+ueNZ/HDp3yI61lECzH1FYAPes5Nsvo8ZghN1SEc+Eg7U/3h6CRPwI7EvyZXLUkM6LqZ0K82uBcFW3OiC593D3l0QjgGh0E7yWrFnd6My/clZdWY4IhZRy9LYgnnadIwZNiW+V/0JuxCA8/X2q/gS/Fy0G/tftcwtiR3bD/1sp/CxrnlPaNR+uEulwpnx/EEUmIsC9Q20gTYJBamV5ZLxglaywxMUfPUnHnQKpj61GS6LIBxpfcf+qtxFlzTlfM5k9nvJjKJTy1hAKcpqja+Cg=;8h8Bies80XLrCFBXt2AQ6w=="

@@ -25,15 +25,15 @@ images:
     isCached: true
 
 related:
-  - title: "WekaIO Announces Support of NVIDIA's Turbocharged HGX™ AI Supercomputing Platform"
-    excerpt: "WekaIO™ (Weka), one of the fastest-growing data platforms for artificial intelligence/machine learning (AI/ML), life sciences research, and high-performance computing (HPC), today announced the WekaFS™ Limitless Data Platform's ability to leverage the newly-turbocharged NVIDIA HGX™ AI supercomputing platform to deliver the best performance and throughput required of today's most-demanding enterprise workloads."
-    publishedDateTime: 2021-06-29T14:09:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-wekaio-announces-support-nvidias-turbocharged-hgxtrade-ai-supercomputing-/2021/06/29/9400007.htm"
+  - title: "WekaIO Announces Support of NVIDIAs Turbocharged HGX AI Supercomputing Platform"
+    excerpt: "WekaIO™ (Weka), one of the fastest-growing data platforms for artificial intelligence/machine learning (AI/ML), life sciences research, and high-performance computing (HPC), today announced the WekaFS™ Limitless Data Platform’s ability to leverage the newly-turbocharged NVIDIA HGX™ AI supercomputing platform to deliver the best performance and throughput required of today’s most-demanding enterprise workloads."
+    publishedDateTime: 2021-06-29T14:05:00Z
+    webUrl: "https://www.financialbuzz.com/wekaio-announces-support-of-nvidias-turbocharged-hgx-ai-supercomputing-platform/"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 14
+      name: Financial Buzz
+      domain: financialbuzz.com
+    quality: 15
   - title: "WekaIO Announces Support of NVIDIA’s Turbocharged HGX™ AI Supercomputing Platform"
     excerpt: "WekaIO™ (Weka), one of the fastest-growing data platforms for artificial intelligence/machine learning (AI/ML), life sciences research, and high-perfo"
     publishedDateTime: 2021-06-29T18:05:00Z

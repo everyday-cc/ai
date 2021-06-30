@@ -3,10 +3,10 @@ category: news
 title: "Will a self-driving update send Tesla’s share price higher?"
 excerpt: "Having had a phenomenal run during 2020, Tesla’s [TSLA] share price has had a sluggish first half of 2021. Will hardware and software developments help push Tesla’s share price higher? Since the start of the year (through 29 June),"
 publishedDateTime: 2021-06-30T09:15:00Z
-originalUrl: "https://www.cmcmarkets.com/en-au/opto/will-a-self-driving-update-send-teslas-share-price-higher"
-webUrl: "https://www.cmcmarkets.com/en-au/opto/will-a-self-driving-update-send-teslas-share-price-higher"
-ampWebUrl: "https://www.cmcmarkets.com/en-au/opto/will-a-self-driving-update-send-teslas-share-price-higher_amp"
-cdnAmpWebUrl: "https://www-cmcmarkets-com.cdn.ampproject.org/c/s/www.cmcmarkets.com/en-au/opto/will-a-self-driving-update-send-teslas-share-price-higher_amp"
+originalUrl: "https://www.cmcmarkets.com/en-gb/opto/will-a-self-driving-update-send-teslas-share-price-higher"
+webUrl: "https://www.cmcmarkets.com/en-gb/opto/will-a-self-driving-update-send-teslas-share-price-higher"
+ampWebUrl: "https://www.cmcmarkets.com/en-gb/opto/will-a-self-driving-update-send-teslas-share-price-higher_amp"
+cdnAmpWebUrl: "https://www-cmcmarkets-com.cdn.ampproject.org/c/s/www.cmcmarkets.com/en-gb/opto/will-a-self-driving-update-send-teslas-share-price-higher_amp"
 type: article
 quality: 59
 heat: 79
@@ -51,6 +51,6 @@ related:
       domain: acm.org
     quality: 34
 
-secured: "xcvf0weXscQ/pIO7HHZGuVLh/jEOxdc91YGiPqdqPsW9Q1QcQw3IOO4b+anTalIrQeE/KHqzLa8WlIpW6vVPYf/TEJaobcfMUpD3H6XeHjr0RA25IU7+bts1M1jjvONX7J+Bq0dh0IP1EFB84OWSfu/Eg4mWgSJgYqEnDFbQI9Mlh5uMaGu1sp1PCM9AYE+M6Wg4Wt1MmLSA2cJpq6eLtTOyMNOjjBGHdXu0t1hxWPg4IMHmgiqx7wqzs3kNwN/RIZQfdlwEmtSR3P9Dgn+3Bj4GLCnHpzsfK7nzph6qBARz7Ck8x3teCJEhXtdFj1sJCDx5j1zOQluiDkfjgYqQj9Yfc3rjEN8q1h3vfqxB+NQ=;nI/i5Mep/eMd+RAlY8xnmw=="
+secured: "oLH21aQIM7jMzjPkdSaTaH1hfU90hscX9OUJ3zX63ckemGzqRqc+oGp5pCkTX6CMwV6FMGyj+VRuGdm2nT2TftKeWblmHbtGpH2IuxQ0d7xrfMjmA1rg+L+5sikpCpRVTKTvyq1B8CRWXFL0Z70oZqIcgGx0LvWXKUHQAf/Oh2WKGpa1JN5nTQKtc4Ejrr81Em9QQpGT/6fzbq2ffPTb8tdizFtdtDhWIgGo9MS0r7+5hpF/vE5+qqatzaHVGCng9Qf9Gpp2KwoI8y60V9M6Cfz7znPtwQHTIQudUXGB7TurRPGMndAU8A0bpWfCSZtQiB+xd2/HsW4UA06AjhIjD3EM1tADC+cmPTUxCGTTN3Q=;6GAkrthOmbWOXafY7pfQ7A=="
 ---
 

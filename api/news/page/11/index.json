@@ -2,6 +2,324 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2021-06-21-eu-data-protection-agencies-want-ban-on-ai-facial-recognition.md",
+      "title": "EU data protection agencies want ban on AI facial recognition",
+      "excerpt": "European Union's data protection agencies called for a  ban on use of artificial intelligence (AI) to identify people in public places. The agencies pointed to the \"extremely high risk to privacy. The two bodies called for a \"general ban\"  on the practice that would include \"recognition of faces,",
+      "sourceUrl": null,
+      "webUrl": "https://www.wionews.com/world/eu-data-protection-agencies-want-ban-on-ai-facial-recognition-393006",
+      "originalUrl": "https://www.wionews.com/world/eu-data-protection-agencies-want-ban-on-ai-facial-recognition-393006",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 306,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.wionews.com/sites/default/files/styles/story_page/public/2018/09/12/30564-untitled%25252520design%25252520%25252833%252529-20171013033238.jpg",
+          "width": 918,
+          "height": 506,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wionews.com/world/eu-data-protection-agencies-want-ban-on-ai-facial-recognition-393006/amp",
+      "cdnAmpWebUrl": "https://www-wionews-com.cdn.ampproject.org/c/s/www.wionews.com/world/eu-data-protection-agencies-want-ban-on-ai-facial-recognition-393006/amp",
+      "publishedDateTime": "2021-06-21T08:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WION",
+        "domain": "wionews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2021-06-21-crowdstrike-stock-falls-after-rival-sentinelone-prices-ipo.md",
+      "title": "CrowdStrike stock falls after rival SentinelOne prices IPO",
+      "excerpt": "CrowdStrike (CRWD) shares are down 5% after competitor SentinelOne (S) priced its IPO at $26-29 per share, which would raise up to $928M at a potential $7.36B valuation.",
+      "sourceUrl": null,
+      "webUrl": "https://seekingalpha.com/news/3708185-crowdstrike-stock-falls-after-rival-sentinelone-prices-ipo",
+      "originalUrl": "https://seekingalpha.com/news/3708185-crowdstrike-stock-falls-after-rival-sentinelone-prices-ipo",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 142,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
+          "width": 1200,
+          "height": 1200,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://seekingalpha.com/amp/news/3708185-crowdstrike-stock-falls-after-rival-sentinelone-prices-ipo",
+      "cdnAmpWebUrl": "https://seekingalpha-com.cdn.ampproject.org/c/s/seekingalpha.com/amp/news/3708185-crowdstrike-stock-falls-after-rival-sentinelone-prices-ipo",
+      "publishedDateTime": "2021-06-21T06:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Seeking Alpha",
+        "domain": "seekingalpha.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-21-ping-an-makes-breakthrough-in-artificial-intelligence-driven-drug-research.md",
+      "title": "Ping An Makes Breakthrough in Artificial Intelligence-Driven Drug Research",
+      "excerpt": "Research by Ping An Healthcare Technology Research Institute and Tsinghua University has led to a promising deep learning framework for drug discovery, announced, Ltd. (hereafter \" Ping An \" or the \"Group\",",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/ping-an-makes-breakthrough-in-artificial-intelligence-driven-drug-research-1030538808",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/ping-an-makes-breakthrough-in-artificial-intelligence-driven-drug-research-1030538808",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-21T06:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-21-how-equbot-is-beating-the-market-with-aieq-the-ai-powered-etf.md",
+      "title": "How EquBot is beating the market with AIEQ, the AI-powered ETF",
+      "excerpt": "Asset managers, banks, and other financial institutions employ armies of analysts to sift through spreadsheets and media chatter. But even the biggest players can’t hope to keep up with the volumes of data produced by the modern global economy. “I was managing north of $30 billion as a portfolio manager",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blogs/watson/2021/06/equbot-aieq-ai-powered-etf/",
+      "originalUrl": "https://www.ibm.com/blogs/watson/2021/06/equbot-aieq-ai-powered-etf/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ibm.com/blogs/watson/wp-content/uploads/2021/05/ACDC-119-ETF-Group-Client-Story_Leadspace_FINAL.jpg",
+          "width": 1962,
+          "height": 988,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-21T06:00:50-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-21-robots-have-arrived-to-austin-and-theyre-delivering-pizza.md",
+      "title": "Robots Have Arrived To Austin, And They’re Delivering Pizza",
+      "excerpt": "Semi-autonomous food delivery robots have begun operating in Central Austin, part of an emerging technological wave that aims to transform how products reach consumers.",
+      "sourceUrl": null,
+      "webUrl": "https://www.kut.org/transportation/2021-06-21/the-robots-have-arrived-in-austin-and-theyre-delivering-pizzas",
+      "originalUrl": "https://www.kut.org/transportation/2021-06-21/the-robots-have-arrived-in-austin-and-theyre-delivering-pizzas",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://npr.brightspotcdn.com/dims4/default/e2ea383/2147483647/strip/true/crop/549x338+26+0/resize/880x542!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F02%2F35%2F13bc0a3d4d7cb70a4e4b280345ad%2Frobot-gif-landscape.gif",
+          "width": 600,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.kut.org/transportation/2021-06-21/the-robots-have-arrived-in-austin-and-theyre-delivering-pizzas?_amp=true",
+      "cdnAmpWebUrl": "https://www-kut-org.cdn.ampproject.org/c/s/www.kut.org/transportation/2021-06-21/the-robots-have-arrived-in-austin-and-theyre-delivering-pizzas?_amp=true",
+      "publishedDateTime": "2021-06-21T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KUT",
+        "domain": "kut.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-21-this-ai-startup-raised-43-million-to-save-lives-and-money-by-treating-heart-disease-earlier.md",
+      "title": "This AI Startup Raised $43 Million To Save Lives (And Money) By Treating Heart Disease Earlier",
+      "excerpt": "Cleerly founder James Min wants to make early detection and treatment of America’s number one killer as routine as cancer screenings.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/katiejennings/2021/06/21/this-ai-startup-raised-43-million-to-save-lives-and-money-by-treating-heart-disease-earlier/",
+      "originalUrl": "https://www.forbes.com/sites/katiejennings/2021/06/21/this-ai-startup-raised-43-million-to-save-lives-and-money-by-treating-heart-disease-earlier/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 95,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60cfd10b3377cd9eacef3cde%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D600%26cropY1%3D202%26cropY2%3D540",
+          "width": 600,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/katiejennings/2021/06/21/this-ai-startup-raised-43-million-to-save-lives-and-money-by-treating-heart-disease-earlier/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/katiejennings/2021/06/21/this-ai-startup-raised-43-million-to-save-lives-and-money-by-treating-heart-disease-earlier/amp/",
+      "publishedDateTime": "2021-06-21T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-21-eu-privacy-watchdogs-call-for-ban-on-facial-recognition-in-public-spaces.md",
+      "title": "EU Privacy Watchdogs Call for Ban on Facial Recognition in Public Spaces",
+      "excerpt": "Europe's two privacy watchdogs teamed up on Monday to call for a ban on the use of facial recognition in public spaces, going against draft European Union rules which would allow the technology to be used for public security reasons.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usnews.com/news/technology/articles/2021-06-21/eu-privacy-watchdogs-call-for-ban-on-facial-recognition-in-public-spaces",
+      "originalUrl": "https://www.usnews.com/news/technology/articles/2021-06-21/eu-privacy-watchdogs-call-for-ban-on-facial-recognition-in-public-spaces",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-21T05:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "U.S. News & World Report",
+        "domain": "usnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-21-how-to-use-conversational-voice-ai-in-a-contactless-world.md",
       "title": "How To Use Conversational Voice AI In A Contactless World",
       "excerpt": "Businesses are becoming more interested in conversational voice AI because it can establish meaningful customer conversations and help decode the user intent. Ultimately, automating large-scale conversations can result in cost savings,",
@@ -884,314 +1202,6 @@
         "name": "The Jerusalem Post Blogs",
         "domain": "jpost.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-20-candy-shop-slaughter-is-a-video-game-concept-creatd-by-ai.md",
-      "title": "Candy Shop Slaughter is a video game concept creatd by AI",
-      "excerpt": "Elevate your enterprise data technology and strategy at Transform 2021. It is possible for artificial intelligence to create a video game. Contrary to popular opinion and hopes for humanity, an AI came up with the basic design for a video game called Candy Shop Slaughter.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/06/20/candy-shop-slaughter-is-a-video-game-concept-creatd-by-ai/",
-      "originalUrl": "https://venturebeat.com/2021/06/20/candy-shop-slaughter-is-a-video-game-concept-creatd-by-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/06/candy-shop-cover.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 626,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/06/20/candy-shop-slaughter-is-a-video-game-concept-creatd-by-ai/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/20/candy-shop-slaughter-is-a-video-game-concept-creatd-by-ai/amp/",
-      "publishedDateTime": "2021-06-20T08:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-20-india-gears-up-for-robot-campaigners-in-2022-assembly-polls.md",
-      "title": "India gears up for robot campaigners in 2022 Assembly polls",
-      "excerpt": "As mass public gatherings remain an obvious danger in India amid the lethal Covid-19 waves, you may see humanoid robots performing campaigning on behalf of political leaders in the 2022",
-      "sourceUrl": null,
-      "webUrl": "https://www.thehansindia.com/technology/tech-news/india-gears-up-for-robot-campaigners-in-2022-assembly-polls-691685",
-      "originalUrl": "https://www.thehansindia.com/technology/tech-news/india-gears-up-for-robot-campaigners-in-2022-assembly-polls-691685",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.thehansindia.com/h-upload/2021/06/20/1083163-robot.jpg",
-          "width": 1000,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thehansindia.com/amp/technology/tech-news/india-gears-up-for-robot-campaigners-in-2022-assembly-polls-691685",
-      "cdnAmpWebUrl": "https://www-thehansindia-com.cdn.ampproject.org/c/s/www.thehansindia.com/amp/technology/tech-news/india-gears-up-for-robot-campaigners-in-2022-assembly-polls-691685",
-      "publishedDateTime": "2021-06-20T04:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hans India",
-        "domain": "thehansindia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-20-rog-upgrades-flow-x13-with-the-latest-nvidia-rtx-3050-ti-gpu.md",
-      "title": "ROG upgrades Flow X13 with the latest Nvidia RTX 3050 Ti GPU",
-      "excerpt": "Together, the Flow X13 and XG Mobile redefine what’s possible with a 13-inch device Asus Republic of Gamers (ROG) today announced the upgraded ROG Flow X13, the ultra-portable 2-in-1 convertible ROG gaming laptop with the latest Nvidia 3050 Ti GPU.",
-      "sourceUrl": null,
-      "webUrl": "https://gulfnews.com/uae/rog-upgrades-flow-x13-with-the-latest-nvidia-rtx-3050-ti-gpu-1.1624176723917",
-      "originalUrl": "https://gulfnews.com/uae/rog-upgrades-flow-x13-with-the-latest-nvidia-rtx-3050-ti-gpu-1.1624176723917",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imagevars.gulfnews.com/2021/06/20/Asus-Flow-X13-_17a28722ad6_large.jpg",
-          "width": 750,
-          "height": 563,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://gulfnews.com/amp/uae/rog-upgrades-flow-x13-with-the-latest-nvidia-rtx-3050-ti-gpu-1.1624176723917",
-      "cdnAmpWebUrl": "https://gulfnews-com.cdn.ampproject.org/c/s/gulfnews.com/amp/uae/rog-upgrades-flow-x13-with-the-latest-nvidia-rtx-3050-ti-gpu-1.1624176723917",
-      "publishedDateTime": "2021-06-20T03:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gulf News",
-        "domain": "gulfnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-20-artificial-intelligence-ai-chips-market-2021-with-industry-competition-analysis-top-countries-data-major-manufacturers-and-forecast-2026.md",
-      "title": "Artificial intelligence (AI) Chips Market 2021 with Industry Competition Analysis, Top Countries Data, Major Manufacturers and Forecast 2026",
-      "excerpt": "Global \"Artificial intelligence (AI) Chips Market\" report provides a brief analysis of the growth factors influencing",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chips-market-2021-with-industry-competition-analysis-top-countries-data-major-manufacturers-and-forecast-2026-2021-06-20",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chips-market-2021-with-industry-competition-analysis-top-countries-data-major-manufacturers-and-forecast-2026-2021-06-20",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 204,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-20T01:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-20-facebook-ai-software-is-now-able-to-dig-up-origins-of-deepfake-images.md",
-      "title": "Facebook AI software is now able to dig up origins of deepfake images",
-      "excerpt": "Facebook scientists said they developed artificial intelligence software to not only identify ’deepfake’ images but to figure out where they came from.",
-      "sourceUrl": null,
-      "webUrl": "https://www.iol.co.za/technology/software-and-internet/facebook-ai-software-is-now-able-to-dig-up-origins-of-deepfake-images-06705daa-afb1-41c8-80db-d976bff00d68",
-      "originalUrl": "https://www.iol.co.za/technology/software-and-internet/facebook-ai-software-is-now-able-to-dig-up-origins-of-deepfake-images-06705daa-afb1-41c8-80db-d976bff00d68",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image-prod.iol.co.za/resize/650x366/File-picture-AP-Photo-Richard-Drew?source=https://xlibris.public.prod.oc.inl.infomaker.io:8443/opencontent/objects/7d296af3-2399-5dbf-9636-e3d8e0070d56&operation=CROP&offset=0x275&resize=5244x2950",
-          "width": 650,
-          "height": 366,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.iol.co.za/amp/technology/software-and-internet/facebook-ai-software-is-now-able-to-dig-up-origins-of-deepfake-images-06705daa-afb1-41c8-80db-d976bff00d68",
-      "cdnAmpWebUrl": "https://www-iol-co-za.cdn.ampproject.org/c/s/www.iol.co.za/amp/technology/software-and-internet/facebook-ai-software-is-now-able-to-dig-up-origins-of-deepfake-images-06705daa-afb1-41c8-80db-d976bff00d68",
-      "publishedDateTime": "2021-06-20T00:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IOL News",
-        "domain": "iol.co.za",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-20-business-wire-microsoft-ses-and-grc-showcase-azure-cloud-for-remote-missions-via-secure-govsat-connectivity-service.md",
-      "title": "BUSINESS WIRE: Microsoft, SES and GRC Showcase Azure Cloud for Remote Missions via Secure GovSat Connectivity Service",
-      "excerpt": "MITTEILUNG UEBERMITTELT VON BUSINESS WIRE. FUER DEN INHALT IST ALLEIN DAS BERICHTENDE UNTERNEHMEN VERANTWORTLICH.Microsoft Azure at the Edge: Microsoft",
-      "sourceUrl": null,
-      "webUrl": "https://www.finanztreff.de/news/business-wire-microsoft-ses-and-grc-showcase-azure-cloud-for-remote-missions-via-secure-go/25195160",
-      "originalUrl": "https://www.finanztreff.de/news/business-wire-microsoft-ses-and-grc-showcase-azure-cloud-for-remote-missions-via-secure-go/25195160",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-19T23:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Finanztreff",
-        "domain": "finanztreff.de",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-20-how-ai-is-disrupting-business-ecosystem.md",
-      "title": "How AI is disrupting Business Ecosystem?",
-      "excerpt": "Two dozen years and billions of savings later, AI is as inevitable as ever to businesses that are in pursuit of profits. BFSI (Banking, Financial Services and Insurance) and Retail have reaped the early harvest as they foresaw AI as the new engine of growth sooner than many other sectors.",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/article/374959",
-      "originalUrl": "https://www.entrepreneur.com/article/374959",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.entrepreneur.com/amphtml/374959",
-      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/374959",
-      "publishedDateTime": "2021-06-19T23:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },
