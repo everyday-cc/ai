@@ -34,6 +34,20 @@ related:
         width: 700
         height: 407
         isCached: true
+  - title: "Global 5G, Quantum Computing and Artificial Intelligence (AI) Technology Trends Report 2021 - ResearchAndMarkets.com"
+    excerpt: "The “Technology Themes 2021 - Tracking Development of 3 Key Trends, 5G, Quantum Computing and Artificial Intelligence (AI)” report has been added to ResearchAndMarkets.com’s offering. 5G, Quantum Computing and AI have been discussed at length for a number of years and the hype that surrounds them can lessen the understanding of real world impacts these themes are already having."
+    publishedDateTime: 2021-06-25T16:17:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/artificial-intelligence-technology-f2ab205085644de89315df74e95d62bf"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 33
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
 secured: "aiIyUaKmUrl9wtHcx/3bOvAulIa4SvVhmYknTpJpQYIhtrgZwhbSctQG7VmzibweuNd3fTFH+4C8XKCYccjBP7dh76SRnvB2GW4dATttLLf6EjE2qgslTAMOy2PZenbchHM854JHs8sNZvfb2hpxsselcQf2ELh3C/ic1M9Z94ZkKCWL/6zsjrZtpYXKNeOlQdSW3ZToWWFvuY8DrSp+nGEqflatOBRSd11JZql8Bgeco4bxHFYUC8yjiqYLrC8E/ZkfhHvL+aJF4vaZh7oPTBaOCqskceToAxaVHRoMe9YKOHr+HYMR6MtWTJsxYoe5nJPjsrLq4JeYxTWPmErIl1KY15UMKawgDRy4tfI0tVY=;fZ4yQtjOoc2r0O+glRiNqQ=="
 ---

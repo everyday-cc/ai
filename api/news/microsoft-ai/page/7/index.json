@@ -2,6 +2,58 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2021-05-03-a-definitive-primer-on-robotic-process-automation.md",
+      "title": "A definitive primer on robotic process automation",
+      "excerpt": "Robotic process automation (RPA) is an exploding software category in the enterprise. Here's what it means and why it matters.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/05/02/what-is-robotic-process-automation/",
+      "originalUrl": "https://venturebeat.com/2021/05/02/what-is-robotic-process-automation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2018/10/AI.enterprise.shutterstock_1039492387.jpg?fit=800%2C567&strip=all",
+          "width": 800,
+          "height": 567,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/05/02/what-is-robotic-process-automation/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/02/what-is-robotic-process-automation/amp/",
+      "publishedDateTime": "2021-05-02T13:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-01-ai-in-fintech-market-may-see-a-big-move-major-giants-microsoft-google-ibm.md",
       "title": "AI in Fintech Market May See a Big Move | Major Giants Microsoft, Google, IBM",
       "excerpt": "Stay up-to-date and exploit latest trends of AI in Fintech Market with latest edition released by AMA. AI in Fintech Market Comprehensive Study is an expert and top to bottom investigation on the momentum condition of the worldwide Global AI in Fintech industry with an attention on the Global market.",

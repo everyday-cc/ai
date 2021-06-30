@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-2021-top-manufacturers-covid-19-impact-global-demand-and-future-scope-2021-06-28"
 type: article
 quality: 51
-heat: 71
+heat: 81
 published: true
 
 provider:
@@ -56,6 +56,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Global AI Audio and Video Chip Market 2021 by Manufacturers, Regions, Type and Application, Forecast to 2026"
+    excerpt: "Pages Report] Check for Discount on Global AI Audio and Video Chip Market 2021 by Manufacturers, Regions, Type and Application, Forecast to 2026 report by Global Info Research. The AI Audio and Video Chip market report provides"
+    publishedDateTime: 2021-06-29T08:34:00Z
+    webUrl: "https://www.reportsnreports.com/reports/4622241-global-ai-audio-and-video-chip-market-2021-by-manufacturers-regions-type-and-application-forecast-to-2026.html"
+    type: article
+    provider:
+      name: ReportsnReports
+      domain: reportsnreports.com
+    quality: 15
 
 secured: "nrMx3jOngXyGHgOTKAoEhEjgj38R5qW+FFvFd57OhZq4eyxfcwXf05c5GEDwEuKAVLIxvYqu1s0h1OwtTOeMckPqLuGVZu2tPkXf+UXiOFyKsjjjGZI5EpcKD8yknqeDFlzUhLFVOuOJbpkQEoZdKj1B3JQg5EJ1OOZBipVrOrG8K7g3/oqqjvWNXUUZyUdqw2xGOuYH06FS2wtXJ1vRZN3uHWSSkv+dODmMu0XCpjRL0R89Nqp1Mk4AjHux5aLU4aI8JEBbABFM8LxdQj/Xew//v8n55/KQyOutbM7OHhIZOPsWg1cNCUZNLJ4PEk+Rmx3X+MuGFgOR61IomrLUsnA2Cs3IKW1M1vHA3/RcwxM=;5vTj9w4mMC4CkIhTaHdFSA=="
 ---

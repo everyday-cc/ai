@@ -3,10 +3,10 @@ category: news
 title: "New Artificial Intelligence Strategy Board to Lead AI Initiatives for the Association for Advancing Automation"
 excerpt: "Global trade group will promote adoption of AI in industrial automation, focusing on new certifications, standards, education programs and events."
 publishedDateTime: 2021-06-28T15:44:00Z
-originalUrl: "https://www.automation.com/en-us/articles/june-2021/artificial-intelligence-strategy-board-a3? Control News & Articles"
-webUrl: "https://www.automation.com/en-us/articles/june-2021/artificial-intelligence-strategy-board-a3? Control News & Articles"
+originalUrl: "https://www.automation.com/en-us/articles/june-2021/artificial-intelligence-strategy-board-a3"
+webUrl: "https://www.automation.com/en-us/articles/june-2021/artificial-intelligence-strategy-board-a3"
 type: article
-quality: 32
+quality: 34
 heat: -1
 published: false
 
@@ -15,6 +15,7 @@ provider:
   domain: automation.com
 
 topics:
+  - AI in Robotics
   - AI
 
 images:
@@ -39,22 +40,6 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60d9fee16c4ec4bf8e6c2abd%2F0x0.jpg"
         width: 1200
         height: 665
-        isCached: true
-  - title: "Artificial intelligence mixes into production lines"
-    excerpt: "Jobs with high operating risk and data-driven solutions that increase productivity have enabled the data economy to grow during the pandemic period."
-    publishedDateTime: 2021-06-25T11:41:00Z
-    webUrl: "https://www.dailysabah.com/business/tech/artificial-intelligence-mixes-into-production-lines"
-    ampWebUrl: "https://www.dailysabah.com/business/tech/artificial-intelligence-mixes-into-production-lines/amp"
-    cdnAmpWebUrl: "https://www-dailysabah-com.cdn.ampproject.org/c/s/www.dailysabah.com/business/tech/artificial-intelligence-mixes-into-production-lines/amp"
-    type: article
-    provider:
-      name: Daily Sabah
-      domain: dailysabah.com
-    quality: 59
-    images:
-      - url: "https://idsb.tmgrup.com.tr/ly/uploads/images/2021/06/25/thumbs/800x531/124491.jpg"
-        width: 1920
-        height: 1080
         isCached: true
   - title: "IBM AI-Powered Automation Software to Simplify Broad Adoption of 5G"
     excerpt: "IBM announced new hybrid cloud AI-powered automation software to help deliver on the promise of widespread 5G technology."
@@ -82,6 +67,6 @@ related:
       domain: preventionweb.net
     quality: 17
 
-secured: "PwcoSOgO2Qy9L0+SpPgjCqEtJk1yJr+9sNwBwCVosZdWberQwWMS0rA9PlwODCI31aKhGtM1uZZ5anm7bGmCpB+SoghsIeg74+1/TXRQ/vfK0s8KHcM6r3qDz70USjFI+a2BUROLbXL2LW9Mt3r4QTK2lJFg15Lc2ZpGUEAmatMnkGso6aSHK7zgJ3/T1lWltzLUFRlI54ChBtHBlXXRlS9cf+VeMt371JVvdKz/TTLkIO/wqxZ8N4XwApOMJu82PHdrwQqUsehbvwLeLl9Hy94mGCFmXI3wWiLdvNZImqRYzqcoZkMAVj9N/Lr3buhIm5dQvrOU/4fCkLd8ma4Vr5PXwg/Lcd0nhtaJJtn6x6g=;FsPxWgOt7AfChINPHTsjWA=="
+secured: "F4DYnL2+VF05j9fnSI7j5tVyRiBOkOSjAmBFjN9nIuqUgkSU1PAPRo6FkxytMOzX99vgEAa8gstkMsYuMrrsskut66XrqZ6wYvaLhedLRfhs/KktO5Z0Z99bJZyWA5ODJ2VPIqLAgE1vXW6JcLyMWp4dmODmej0YN+jjykwk7YEmPWmoUxxl4XR6Y7h+ovk6v/Gvxeerrnj0CbW4vq2+Yf8O2XYdAwe5HnFKwJVH9wD4ICy3Cu44MJGEOxP/3sLbeB7n2+7lgVAlosbGCfB/5n6y5fNg3MOb+AAnnQohh3uvPlzaJ9QoTo2QAGuQ7pofb6mNx1XOIqWHLQWDqL7C0myo+LZyMa6DmschRHUylr8=;7MWSjfuZhuGecObK7n4YIA=="
 ---
 

@@ -1,26 +1,27 @@
 ---
 category: news
 title: "Artificial Intelligence (AI) Chips Market in Communications Equipment Industry | Technavio"
-excerpt: "According to Technavio, the COVID-19 pandemic will have a positive impact on the growth of the artificial intelligence (AI) chips market. The report expects the market value to increase in 2021 as compared to 2020."
-publishedDateTime: 2021-06-29T01:49:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-artificial-intelligence-ai-chips-market-communications-equipment-industry-/2021/06/28/9399133.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-artificial-intelligence-ai-chips-market-communications-equipment-industry-/2021/06/28/9399133.htm"
+excerpt: "The artificial intelligence (AI) chips market is expected to grow by USD 73.49 billion at over 51% CAGR during 2021-2025, according to"
+publishedDateTime: 2021-06-29T01:45:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/artificial-intelligence-ai-chips-market-in-communications-equipment-industry--technavio-301321404.html"
+webUrl: "https://www.prnewswire.com/news-releases/artificial-intelligence-ai-chips-market-in-communications-equipment-industry--technavio-301321404.html"
 type: article
-quality: 42
-heat: 42
-published: false
+quality: 59
+heat: 89
+published: true
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
+  - AI Hardware
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/1441766/Technavio_Logo.jpg"
-    width: 400
-    height: 400
+  - url: "https://mma.prnewswire.com/media/1551721/Artificial_Intelligence_Chips.jpg?p=facebook"
+    width: 1280
+    height: 670
     isCached: true
 
 related:
@@ -38,7 +39,27 @@ related:
         width: 1200
         height: 585
         isCached: true
+  - title: "Artificial Intelligence (AI) in Education Market - Detailed Analysis of Current Industry Figures with Forecasts Growth By 2024"
+    excerpt: "Market Study Report LLC adds new research on Artificial Intelligence (AI) in Education market, which is a detailed analysis of this business space inclusive of the trends, competitive landscape, and the market size."
+    publishedDateTime: 2021-06-25T15:41:00Z
+    webUrl: "https://www.reseller.co.nz/mediareleases/142736/artificial-intelligence-ai-in-education-market/"
+    type: article
+    provider:
+      name: Reseller News
+      domain: reseller.co.nz
+    quality: 23
+  - title: "Artificial Intelligence in Telecommunication Market Size, Share 2020, Impressive Industry Growth Report 2027"
+    excerpt: "The global Artificial Intelligence by Telecom market size was valued at USD 679 million in 2019 and is projected to grow at a CAGR of 38 from 2021 to 2027 Telecommunications is one of the fastest growing industries using AI"
+    publishedDateTime: 2021-06-28T12:00:00Z
+    webUrl: "https://www.openpr.com/news/2315358/artificial-intelligence-in-telecommunication-market-size"
+    ampWebUrl: "https://www.openpr.com/amp/2315358/artificial-intelligence-in-telecommunication-market-size"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2315358/artificial-intelligence-in-telecommunication-market-size"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 18
 
-secured: "oGZ1YpV4uFxK2Xs/TnFKOhF0fYL9vKnSI3YZDEwMeMXsZDLhOaprfGtoBJNuTkHxAOoR2wYLFwHvYY/O0O797hndzzugaQ7DbkWXQkUbFJ8guU5xv2qjd/UXrOgtVQiIu5iwQLCvZw0qHtcqO2W4CtgMGb/1mL2Oda+mIARxCTtmmGrLu2pIf+zgnIyFg6iOaSimgFKt36M/RRuM0aN5fqBJD0MWcalXGtBXrrNUWySD3sNFOrtiU56ERCqwSc/uUtkrStcNbTzhDTgTYaqveXzC0+S3+32yHSZ/ISy9uKbeFjHYzgUvG+loHkle7J1Aw6RdMvha7w7FZ7bw0aYVh8IBu8y4DmH0Ch31Bsf1rJc=;9Am/kc7AUN6PBUE34jG18A=="
+secured: "grPFo9LIKjHNmGh63JcUx3vcGoXcMKbbcJLOvpFFDG76W0Rt0j/F6uVEyQV7uRb37lRW+urMXQ1dmD8ySYYkcmjzmzAKc1KNepnMvBZiz7mbOLlLVqvUS36eTcS0HiE7z+iyC9TmqLUS5JMPh4q9Mu2jlKsJ7RMB15JUeNoR4wYI816CloexyIUkgzHgr1LaOrMe4yFqY3/BBNaj4LMH62Z69WixWb8KJQMtqqDR67F0Av+nMTi1mPK95YWYaeumi2ESqsrTHaskybo5uyKYJWujmvBjtgTUlNLgO8aJhFgaRXx3b833beXWwKw/4SxpC1dyoaQ0KFHVtxp4xuIafBW2thcbaahdBd+kXiLWu0A=;0aq6TLfkptz1bqIYT7EoRw=="
 ---
 

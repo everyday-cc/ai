@@ -3,8 +3,8 @@ category: news
 title: "NVIDIA and Global Partners Launch New HGX A100 Systems to Accelerate Industrial AI and HPC"
 excerpt: "NVIDIA today announced it is turbocharging the NVIDIA HGX™ AI supercomputing platform with new technologies that fuse AI with high performance computing, making supercomputing more useful to a growing number of industries."
 publishedDateTime: 2021-06-28T07:05:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-nvidia-global-partners-launch-new-hgx-a100-systems-/2021/06/28/9398376.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-nvidia-global-partners-launch-new-hgx-a100-systems-/2021/06/28/9398376.htm"
+originalUrl: "https://www.tmcnet.com/usubmit/2021/06/28/9398376.htm"
+webUrl: "https://www.tmcnet.com/usubmit/2021/06/28/9398376.htm"
 type: article
 quality: 9
 heat: -1
@@ -15,7 +15,7 @@ provider:
   domain: tmcnet.com
 
 topics:
-  - AI Hardware
+  - Microsoft AI
   - AI
 
 related:
@@ -139,6 +139,6 @@ related:
       domain: businesswire.com
     quality: 20
 
-secured: "/uwic/9c9yk56NWEMpgSR70vnxvUUIr8hOLdvmC00SjCZdrM0tVGFREt4BD8spyXMbG/LsK12OunymoZm6mZrr/WKgKsbxZL+aHKhUOnLaikd4C8g0PS8VNlAX4kgjBmHd7eD2aAP99d/gxpE43yQBMvwYTcoplmBhaGDUKDUdqzYARx+hn1RfFFxtkayzD7gvTtX+gvbmhX8ocpaTyJ9DM0V6yUKT1Sbeq3CI1mUbuqJ63mPqOqo3YYD2reKOJwsn4HbW/m2BsKPWX98s9HLbfFPCaWwX087oRULamlCtxBI5/DWjyproAb01BRGIDX0Fq4fXuruMgxZGEG4GrWOCaHAR3/ESc/zltOG02Qesg=;lfZ7FSepV7BJCGCOUvNxFQ=="
+secured: "WZKBaG5sAdae86qIn75CE0s7bJCVTfGJK3U3K7M/qRSjizIOQgAhwpsm51qLcS1S+pUzHwitz3R47A73SlwbjQDSqp6lsGaMpLtx1R0Ha/U5TAlc4TO1IetTJlbhNWdVlH6Zc7WXiazR0tmfxhQi2jDBikbT8PtWoz92Eplpg0o1HutWNkv79k14Hvco9LfFPOAYvmsmOP3s0/RQSdO6YXo9MRudwf8jPywG1ktEyTLUqyaEEvhgvscN3YXyp9Uo9Nm74ODX+sTLW6vZ5bT3x5BtP+h1ad75RJU+KZGKu7wqc56E1Po7mQp1ITaqCSZuDY2oRkjiSgzlO0FyO33+UBZYIEdd1+fK16MkMtxGd3E=;r4N6c9hXeMwOoMamJNEYoA=="
 ---
 

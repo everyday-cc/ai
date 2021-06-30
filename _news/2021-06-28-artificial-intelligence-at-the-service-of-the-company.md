@@ -9,7 +9,7 @@ ampWebUrl: "https://www.lavanguardia.com/economia/20210628/7551935/artificial-in
 cdnAmpWebUrl: "https://www-lavanguardia-com.cdn.ampproject.org/c/s/www.lavanguardia.com/economia/20210628/7551935/artificial-intelligence-at-the-service-of-the-company.amp.html"
 type: article
 quality: 59
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -51,6 +51,20 @@ related:
       - url: "https://s3.us-east-1.amazonaws.com/files.cnas.org/hero/GettyImages-1198282249-1.jpg?mtime=20210629125925&focal=none"
         width: 2121
         height: 1414
+        isCached: true
+  - title: "Explainable AI, the future of financial services"
+    excerpt: "As technology becomes more advanced, it can become harder to understand. Some may accept not fully understanding the ins and outs of a technology if it makes new or better things possible, but not being able to fully understand how a technology works can bring about its own problems."
+    publishedDateTime: 2021-06-30T05:01:00Z
+    webUrl: "https://paperjam.lu/article/explainable-ai-the-future-of-f"
+    type: article
+    provider:
+      name: paperJam
+      domain: paperjam.lu
+    quality: 39
+    images:
+      - url: "https://assets.paperjam.lu/images/articles/explainable-ai-the-future-of-f/0.5/0.5/600/400/414770.jpg"
+        width: 1199
+        height: 800
         isCached: true
   - title: "How AI Enables Companies to Harvest the True Value of Data"
     excerpt: "Digital businesses are in pursuit of new ways to transform data at the speed of business. They rely on AI-enabled technologies to unbolt the true potential of data and leverage the insightful information to make decisions."

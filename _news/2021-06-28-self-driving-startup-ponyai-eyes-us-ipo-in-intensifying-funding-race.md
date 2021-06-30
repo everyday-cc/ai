@@ -89,22 +89,6 @@ related:
         width: 600
         height: 338
         isCached: true
-  - title: "Self-Driving, Electric Trucking Startups Are Creating 20-Something Billionaires"
-    excerpt: "A slew of self-driving and electric truck companies are going public through SPAC mergers, making their young founders overnight billionaires."
-    publishedDateTime: 2021-06-25T13:00:00Z
-    webUrl: "https://observer.com/2021/06/electric-autonomous-truck-embark-spac-go-public-young-billionaire/"
-    ampWebUrl: "https://observer.com/2021/06/electric-autonomous-truck-embark-spac-go-public-young-billionaire/amp/"
-    cdnAmpWebUrl: "https://observer-com.cdn.ampproject.org/c/s/observer.com/2021/06/electric-autonomous-truck-embark-spac-go-public-young-billionaire/amp/"
-    type: article
-    provider:
-      name: Observer
-      domain: observer.com
-    quality: 55
-    images:
-      - url: "https://observer.com/wp-content/uploads/sites/2/2021/06/Embark.jpeg?quality=80&#038;strip"
-        width: 3072
-        height: 2154
-        isCached: true
   - title: "Exclusive: Toyota-backed self-driving startup Pony.ai considers going public"
     excerpt: "Self-driving tech company Pony.ai, backed by Toyota Motor Corp, is considering going public in the United States to help fund its goal of"
     publishedDateTime: 2021-06-25T22:15:00Z

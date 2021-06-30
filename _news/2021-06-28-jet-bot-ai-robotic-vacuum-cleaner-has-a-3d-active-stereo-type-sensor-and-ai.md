@@ -60,20 +60,6 @@ related:
         width: 773
         height: 370
         isCached: true
-  - title: "Samsung Jet Bot AI+ robot vacuum cleaner launched globally"
-    excerpt: "The new Samsung Jet Bot AI+ robot vacuum cleaner is launching globally and launches in the USA and Europe this month, more countries soon."
-    publishedDateTime: 2021-06-25T11:10:00Z
-    webUrl: "https://www.geeky-gadgets.com/samsung-jet-bot-ai-robot-vacuum-cleaner-launched-globally-25-06-2021/"
-    type: article
-    provider:
-      name: Geeky Gadgets
-      domain: geeky-gadgets.com
-    quality: 54
-    images:
-      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2021/06/Samsung-Jet-Bot-AI-robot-vacuum-cleaner-.jpg"
-        width: 700
-        height: 525
-        isCached: true
 
 secured: "y538JPKvkFYt46LssINuiO1nnDsPfLy3j3dRNplpicXXu2q1wYKDLC0p0rrGaYzw9jkM39h1YE11DE9PmCRg53EaTWaV879T8SCcquHRlrf4xULN9cA6MhByZGt1UnFFSvyzLnAw9yFFKWrVsUOi9id+JOPHUtKvzD0Cq0/d9uUFqkUHacFoHssguFf2/enULsasLPm55bO1DdDpuVjCNQun3C1I/7VzXcm3V1vd75g3wzaaNNw2MVG9W2CW++NmpytlLXgVobLPNEPy2Bskj6g7fHa+FZhvcIzQbj3pjCrIQ4FpRb9G8fLVQIbjPR93l5nnb7vHY2lZW9g5ear8pE/fqL1dvUE7p4p2uk2s65o=;jfbTBPjK3ijPrNYyK0zxtw=="
 ---

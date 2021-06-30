@@ -9,7 +9,7 @@ ampWebUrl: "https://newatlas.com/around-the-home/samsung-jet-bot-ai-plus-robot-v
 cdnAmpWebUrl: "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/around-the-home/samsung-jet-bot-ai-plus-robot-vacuum/?amp=true"
 type: article
 quality: 106
-heat: 136
+heat: 126
 published: true
 
 provider:
@@ -61,20 +61,6 @@ related:
       - url: "https://www.pocnetwork.net/wp-content/zuploads/2021/06/Samsung-Jet-Bot-AI-Robot-Vacuum-with-Object-Recognition.jpg"
         width: 773
         height: 370
-        isCached: true
-  - title: "Samsung Jet Bot AI+ robot vacuum cleaner launched globally"
-    excerpt: "The new Samsung Jet Bot AI+ robot vacuum cleaner is launching globally and launches in the USA and Europe this month, more countries soon."
-    publishedDateTime: 2021-06-25T11:10:00Z
-    webUrl: "https://www.geeky-gadgets.com/samsung-jet-bot-ai-robot-vacuum-cleaner-launched-globally-25-06-2021/"
-    type: article
-    provider:
-      name: Geeky Gadgets
-      domain: geeky-gadgets.com
-    quality: 54
-    images:
-      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2021/06/Samsung-Jet-Bot-AI-robot-vacuum-cleaner-.jpg"
-        width: 700
-        height: 525
         isCached: true
 
 secured: "QevlgU5AZ4KHc9EO2jcsI8WmAGKvOmQlkikjoTZwmEkGuZstjYKV4cNRBtXJFU9j61bALEFwtg4/iTzLksBvTMCcmjKI/0UxWmDRRUJ0Ug6bdtNZ2bEYk5POuW/jZmjcmXnpsZXyR9csEMGquw0LeNyWk2Pxux5ddQBJXAw+Q3jorZMLGG31abvjlgtqi9ydK3PDmbCc5J7UQFn3M14vFOT5hn+RK8XvW8iT6OoM+jVT+1fufmBoRyszToWIXn+/FHZ/acWbkdADzm4HghXAOiArc1j/V8A3Hld+GPoC/Zkc5LIEy8LRGyzBMDjG4uAkbhVe1YA+RdmjnzeMCA28lor70hXKuqmWLmw958SRwAx2pCoCnNNPpMToidUO2TFoV1+uNQjeaF+7P5TcunWTKa5koa5lt5UUGWstcwoXSXtSZIlh1juHDeVrAmmpaJdq+DqWRq76lVIe8zJl9WO0e22tRBWuKYyO6rmCDKPHdETZgxwC0/oYzfBqTnbo3EnIMJ7M0k9OYb5JQtVkkz1P0Q==;jT6WweEgnhrKGDWla5HLcA=="

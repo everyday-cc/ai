@@ -41,20 +41,6 @@ related:
         width: 1024
         height: 640
         isCached: true
-  - title: "Meet The Winners Of IBM Watson AI XPRIZE"
-    excerpt: "IBM and XPRIZE, a non-profit organisation focused on designing and implementing innovative competition models to solve real world problems, launched IBM Watson AI XPRIZE in 2016. The competition aims to accelerate the adoption of AI technologies to solve societal challenges."
-    publishedDateTime: 2021-06-25T12:30:00Z
-    webUrl: "https://analyticsindiamag.com/meet-the-winners-of-ibm-watson-ai-xprize/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 56
-    images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/06/IBM-WATSON.jpg"
-        width: 1600
-        height: 900
-        isCached: true
   - title: "Bringing AI into your IT operations with IBM Watson"
     excerpt: "Of course, there will still be situations that cannot be prevented and in these situations AI can be used to resolve the issue quickly and reduce the downtime. IBM Watson AIOps uses feeds from a ..."
     publishedDateTime: 2021-06-28T06:36:00Z

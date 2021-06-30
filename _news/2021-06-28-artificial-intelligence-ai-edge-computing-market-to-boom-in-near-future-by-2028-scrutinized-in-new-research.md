@@ -9,8 +9,8 @@ ampWebUrl: "https://www.openpr.com/amp/2315297/artificial-intelligence-ai-edge-c
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2315297/artificial-intelligence-ai-edge-computing-market-to-boom"
 type: article
 quality: 55
-heat: 65
-published: false
+heat: 75
+published: true
 
 provider:
   name: openpr.com
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "Global 5G, Quantum Computing and Artificial Intelligence (AI) Technology Trends Report 2021 - ResearchAndMarkets.com"
+    excerpt: "The “Technology Themes 2021 - Tracking Development of 3 Key Trends, 5G, Quantum Computing and Artificial Intelligence (AI)” report has been added to ResearchAndMarkets.com’s offering. 5G, Quantum Computing and AI have been discussed at length for a number of years and the hype that surrounds them can lessen the understanding of real world impacts these themes are already having."
+    publishedDateTime: 2021-06-25T16:17:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/artificial-intelligence-technology-f2ab205085644de89315df74e95d62bf"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 33
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "Global Artificial Intelligence (AI) in Medical Diagnostics Market 2021 by Company, Regions, Type and Application, Forecast to 2026"
     excerpt: "Pages Report] Check for Discount on Global Artificial Intelligence (AI) in Medical Diagnostics Market 2021 by Company, Regions, Type and Application, Forecast to 2026 report by Global Info Research. The Artificial Intelligence (AI) in Medical Diagnostics market report"
     publishedDateTime: 2021-06-29T08:34:00Z

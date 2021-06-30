@@ -26,20 +26,6 @@ images:
 
 related:
   - title: "Adversa AI Red Team Invented Technology for Ethical Hacking of Facial Recognition Systems"
-    excerpt: "Adversa AI, the leading Trusted AI Research startup, has demonstrated a new attack method on AI facial recognition applications. By making imperceptible"
-    publishedDateTime: 2021-06-25T12:38:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/adversa-ai-red-team-invented-technology-for-ethical-hacking-of-facial-recognition-systems/article_accf6c97-9b11-5b02-9230-dca51727b07b.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 62
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/d/ad/dad4680b-753f-50fd-9e08-d27135bf9c60/60d5cfe838e52.image.jpg?resize=800%2C400"
-        width: 800
-        height: 400
-        isCached: true
-  - title: "Adversa AI Red Team Invented Technology for Ethical Hacking of Facial Recognition Systems"
     excerpt: "Adversa AI, the leading Trusted AI Research startup, has demonstrated a new attack method on AI facial recognition applications. By"
     publishedDateTime: 2021-06-25T19:38:00Z
     webUrl: "https://www.prnewswire.com/il/news-releases/adversa-ai-red-team-invented-technology-for-ethical-hacking-of-facial-recognition-systems-301319745.html"

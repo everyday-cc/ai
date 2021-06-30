@@ -35,17 +35,22 @@ related:
         width: 772
         height: 270
         isCached: true
-  - title: "Artificial Intelligence in Telecommunication Market Size, Share 2020, Impressive Industry Growth Report 2027"
-    excerpt: "The global Artificial Intelligence by Telecom market size was valued at USD 679 million in 2019 and is projected to grow at a CAGR of 38 from 2021 to 2027 Telecommunications is one of the fastest growing industries using AI"
-    publishedDateTime: 2021-06-28T12:00:00Z
-    webUrl: "https://www.openpr.com/news/2315358/artificial-intelligence-in-telecommunication-market-size"
-    ampWebUrl: "https://www.openpr.com/amp/2315358/artificial-intelligence-in-telecommunication-market-size"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2315358/artificial-intelligence-in-telecommunication-market-size"
+  - title: "Voice Recognition Market Growth Rate And Industry Analysis 2021-2026"
+    excerpt: "Voice Recognition Market offers good growth opportunities during the next five year period ending 2026 In its detailed market assessment report Stratview Research has analysed the Voice Recognition Market emerging trends forecasts competitive landscapes and factors governing the market dynamics"
+    publishedDateTime: 2021-06-28T10:54:00Z
+    webUrl: "https://www.openpr.com/news/2315215/voice-recognition-market-growth-rate-and-industry-analysis"
+    ampWebUrl: "https://www.openpr.com/amp/2315215/voice-recognition-market-growth-rate-and-industry-analysis"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2315215/voice-recognition-market-growth-rate-and-industry-analysis"
     type: article
     provider:
       name: openpr.com
       domain: openpr.com
-    quality: 18
+    quality: 44
+    images:
+      - url: "https://cdn.openpr.com/U/6/U628741252_g.jpg"
+        width: 400
+        height: 300
+        isCached: true
 
 secured: "FRTSaogKM12Tlmoy37ClN1w3I1uDXBixH/Evzd8dx4DhnTkxjUC5wfVASgn8DlAfZKGGrh3E91qNDyzk3HPRtjQHcjTvNjWDAWM6RmvFakisxPMUDwILPr/RGzrGyLthljjNIYEU3lXxCVjHA84eSvktWnZwUm3FJKI+fetfQEIBL1BUf9q2O88a/6rf/U73DnTju6FjDius8I5YzL4pKk3rRARXK2C4zEb8vl56UaaRIlkUHeNKGxC5s+n12x3ultvbwSDHd/eNENXZFVGIyGaXpc09wRFO1lTWecFGwOohvX25CmrJd3Yj6eFs8Cnh+/MeXTxLBP2YufKGSyrE+Zmoc+ZgaPyA8doi8FjPUDs=;+azbBTu1H46UPC1tJhwYGQ=="
 ---

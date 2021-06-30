@@ -39,6 +39,22 @@ related:
         width: 1000
         height: 500
         isCached: true
+  - title: "DST and Intel India Announce Partnership to Increase Opportunities in Artificial Intelligence and Other Deep Technologies"
+    excerpt: "DST and Intel India aim at increasing research opportunities in the space of artificial intelligence, machine learning, IoT, and other deep technologies"
+    publishedDateTime: 2021-06-30T05:52:00Z
+    webUrl: "https://www.dqindia.com/dst-intel-india-announce-partnership-increase-opportunities-artificial-intelligence-deep-technologies/"
+    ampWebUrl: "https://www.dqindia.com/dst-intel-india-announce-partnership-increase-opportunities-artificial-intelligence-deep-technologies/amp/"
+    cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/dst-intel-india-announce-partnership-increase-opportunities-artificial-intelligence-deep-technologies/amp/"
+    type: article
+    provider:
+      name: Dataquest
+      domain: dqindia.com
+    quality: 32
+    images:
+      - url: "https://www.dqindia.com/wp-content/uploads/2021/04/Are-we-expecting-too-much-from-artificial-intelligence.jpg"
+        width: 800
+        height: 420
+        isCached: true
 
 secured: "4TA8mzSvaI2BzzpyWLPN4LZsBkAOa+JGjRNKLGpoXmt1DuLX7f7W5l0h3Gdf4Grktzkp1rRhznmaFUg+zDkAYH4rcTq2RqcykAbzHNz4i9kWczBZhPrR+ZCXyrC8BinV9c1Bb+6ryFc4rDz6Y0W/mdapZpCfA0e95KT4ojtralTf1vjCWXB9mgJB1Maq8FT3EICUPq2i4AQRaNa2Bp7HVuzBb8U+s2/M41dNUlguvKfNdQR3Bq4ICsYAYWMAzFstNfmNua+doYZTsmFjggt16Wd7oqNqguRrUr56RaD4cFzcdsgwQjpfBWkOXx+n2CsbAvLvipT7rP+qVL7pGegIrunZLMcrJZJ9WJWkStTRvW4fd8cIdOcuNCeXCtrVlVc4czUWN4qgXCt5Rj+ACAGJxHMhbgNvOhQuBUfZlXjLoPSRTZ4plDz9JESBt7GHRHwtypAcsseO6tdFMV991FyQ6fQD2QvI2tj/fH7DJ+WEOGR3m65pTlWumav8Ysnj0Cagvf694QsXk4jEb+4hYkWrRA==;/W1TBCKIgNxYL+oHHCnXdg=="
 ---

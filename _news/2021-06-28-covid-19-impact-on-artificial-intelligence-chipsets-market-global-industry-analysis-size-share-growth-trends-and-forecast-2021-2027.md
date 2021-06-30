@@ -20,19 +20,21 @@ topics:
   - AI
 
 related:
-  - title: "AI Chip Market New Innovations Trends, Research, Global Share and Growth Factor"
-    excerpt: "Research Nester published a report titled \"AI Chip Market: Global Demand Analysis & Opportunity Outlook 2030\" which delivers detailed overview of the global AI chip market in terms of market segmentation by type,"
-    publishedDateTime: 2021-06-25T12:22:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-chip-market-new-innovations-trends-research-global-share-and-growth-factor-2021-06-25"
+  - title: "Which new trends are likely to be seen in AI in IoT market in 2019?"
+    excerpt: "COVID 19 Impact Analysis on AI in IoT Market The global AI in IoT market is expected to grow at a CAGR of 24 59 during the forecast period 2019 2026 Technologies such as Artificial Intelligence AI and Internet of"
+    publishedDateTime: 2021-06-26T03:51:00Z
+    webUrl: "https://www.openpr.com/news/2314491/which-new-trends-are-likely-to-be-seen-in-ai-in-iot-market-in-2019"
+    ampWebUrl: "https://www.openpr.com/amp/2314491/which-new-trends-are-likely-to-be-seen-in-ai-in-iot-market-in-2019"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2314491/which-new-trends-are-likely-to-be-seen-in-ai-in-iot-market-in-2019"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 80
+      name: openpr.com
+      domain: openpr.com
+    quality: 59
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://cdn.openpr.com/U/6/U626874997_g.jpg"
+        width: 660
+        height: 300
         isCached: true
   - title: "AI In Computer Vision Market: 2021 Analysis, Share, Trends, and Overview 2021-2027"
     excerpt: "The Global Artificial Intelligence AI in Computer Market Vision estimated at US 7 3 Billion in the year 2020 is projected to reach a revised size of US 84 4 Billion by 2027 growing at a CAGR of 41 over"
@@ -45,22 +47,6 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 48
-  - title: "Voice Recognition Market Growth Rate And Industry Analysis 2021-2026"
-    excerpt: "Voice Recognition Market offers good growth opportunities during the next five year period ending 2026 In its detailed market assessment report Stratview Research has analysed the Voice Recognition Market emerging trends forecasts competitive landscapes and factors governing the market dynamics"
-    publishedDateTime: 2021-06-28T10:54:00Z
-    webUrl: "https://www.openpr.com/news/2315215/voice-recognition-market-growth-rate-and-industry-analysis"
-    ampWebUrl: "https://www.openpr.com/amp/2315215/voice-recognition-market-growth-rate-and-industry-analysis"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2315215/voice-recognition-market-growth-rate-and-industry-analysis"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 44
-    images:
-      - url: "https://cdn.openpr.com/U/6/U628741252_g.jpg"
-        width: 400
-        height: 300
-        isCached: true
   - title: "AI In Fintech Market: Size & Trends Shows a Rapid Growth by 2027"
     excerpt: "The Global AI In Fintech market was estimated at USD 7 91 billion in 2020 and it is expected to reach USD 26 67 billion by 2027 The market is also expected to witness a CAGR of 23 over the"
     publishedDateTime: 2021-06-28T08:21:00Z
@@ -72,47 +58,17 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 39
-  - title: "Global 5G, Quantum Computing and Artificial Intelligence (AI) Technology Trends Report 2021 - ResearchAndMarkets.com"
-    excerpt: "The “Technology Themes 2021 - Tracking Development of 3 Key Trends, 5G, Quantum Computing and Artificial Intelligence (AI)” report has been added to ResearchAndMarkets.com’s offering. 5G, Quantum Computing and AI have been discussed at length for a number of years and the hype that surrounds them can lessen the understanding of real world impacts these themes are already having."
-    publishedDateTime: 2021-06-25T16:17:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/artificial-intelligence-technology-f2ab205085644de89315df74e95d62bf"
+  - title: "Speech and Voice Recognition Market Share 2021: Global Trends, Key Players, Industry Analysis Report to 2027"
+    excerpt: "The Speech and Voice Recognition Market size is expected to grow at an annual average of 18 during 2021 2027 Speech and speech recognition are a small part of biometric systems Provides contactless control of multiple devices and equipment that"
+    publishedDateTime: 2021-06-25T14:13:00Z
+    webUrl: "https://www.openpr.com/news/2314294/speech-and-voice-recognition-market-share-2021-global-trends"
+    ampWebUrl: "https://www.openpr.com/amp/2314294/speech-and-voice-recognition-market-share-2021-global-trends"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2314294/speech-and-voice-recognition-market-share-2021-global-trends"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 33
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
-  - title: "Global AI, Deep Learning, and Embedded Device Security Growth Opportunities Report 2020 - ResearchAndMarkets.com"
-    excerpt: "The \"Growth Opportunities in AI, Deep Learning, and Embedded Device Security\" report has been added to ResearchAndMarkets.com's offering. This Cyber Security Technology Opportunity Engine (TOE) provides a snapshot on emerging cyber security solutions powered by innovations based on artificial intelligence,"
-    publishedDateTime: 2021-06-29T08:15:00Z
-    webUrl: "https://www.businesswire.com/news/home/20210628005906/en/"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 30
-  - title: "Artificial Intelligence (AI) in Education Market - Detailed Analysis of Current Industry Figures with Forecasts Growth By 2024"
-    excerpt: "Market Study Report LLC adds new research on Artificial Intelligence (AI) in Education market, which is a detailed analysis of this business space inclusive of the trends, competitive landscape, and the market size."
-    publishedDateTime: 2021-06-25T15:41:00Z
-    webUrl: "https://www.reseller.co.nz/mediareleases/142736/artificial-intelligence-ai-in-education-market/"
-    type: article
-    provider:
-      name: Reseller News
-      domain: reseller.co.nz
-    quality: 23
-  - title: "Global AI Audio and Video Chip Market 2021 by Manufacturers, Regions, Type and Application, Forecast to 2026"
-    excerpt: "Pages Report] Check for Discount on Global AI Audio and Video Chip Market 2021 by Manufacturers, Regions, Type and Application, Forecast to 2026 report by Global Info Research. The AI Audio and Video Chip market report provides"
-    publishedDateTime: 2021-06-29T08:34:00Z
-    webUrl: "https://www.reportsnreports.com/reports/4622241-global-ai-audio-and-video-chip-market-2021-by-manufacturers-regions-type-and-application-forecast-to-2026.html"
-    type: article
-    provider:
-      name: ReportsnReports
-      domain: reportsnreports.com
-    quality: 15
+      name: openpr.com
+      domain: openpr.com
+    quality: 5
 
 secured: "RfmO4Kf6V2gP5mAii8fZIrNQstS0hhb0UalQ9/fR9HnpUwl0Pw4oF14gpzAs/0V/+9zwQzCpmyEYHLe/vDq4ctGbdlmzIoS0/TEoXsf/odarNkKw1U2wX/+1pJXZxfZtjxZ/ckgww7xwNLR04oPNQU3KJbyBss+qH/C9GHMXeDJU8ze3+gj6EwCkZOQ8VOM05SNOPRkOZblRhHNfvNDCYZ8AFXwT70HVrgeUa7eZIne20kM9UU80e5blLioxdr0fb56AXggxFyWxCAZAFJc6addDf9hLvTqOIiuLuAOzQ1pLmLh2oAxhJnsItA6ODzXe6UZ90Va76vVzv2DQJgOVuKnlwdL5SdNMek5LlHMCWa4=;u+NwbGZTXyYrskH2ij0F9Q=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://electronics360.globalspec.com/article/16866/amazon-to-buy-
 webUrl: "https://electronics360.globalspec.com/article/16866/amazon-to-buy-1-000-self-driving-trucks"
 type: article
 quality: 4
-heat: -1
+heat: 4
 published: false
 
 provider:
@@ -19,20 +19,15 @@ topics:
   - AI
 
 related:
-  - title: "Waymo Self-Driving Trucks Will Soon Start Moving Freight Across Texas"
-    excerpt: "Last month, self-driving technology company TuSimple shipped a truckload of watermelons across the state of Texas ten hours faster than normal… They did this by using their automated driving system for over 900 miles of the journey."
-    publishedDateTime: 2021-06-25T13:00:00Z
-    webUrl: "https://awaken.com/2021/06/waymo-self-driving-trucks-will-soon-start-moving-freight-across-texas/"
+  - title: "Amazon to develop 1,000 self-driving trucks"
+    excerpt: "Amazon has placed an order for hardware/software packages from Plus, a self-driving freight startup, to develop 1,000 autonomous trucks. Additionally, according to Bloomberg, Amazon has an option to acquire up to 20% equity stake based on the purchase of up to $150 million of Plus' products."
+    publishedDateTime: 2021-06-25T18:52:00Z
+    webUrl: "https://electronics360.globalspec.com/article/16866/amazon-to-develop-1-000-self-driving-trucks"
     type: article
     provider:
-      name: Awaken
-      domain: awaken.com
-    quality: 39
-    images:
-      - url: "https://awaken.com/wp-content/uploads/2021/06/waymo2.jpg"
-        width: 520
-        height: 280
-        isCached: true
+      name: Engineering360 News
+      domain: globalspec.com
+    quality: 4
 
 secured: "AE9Kgwmxp7wQKYLOGMPyE7nKIpOhXmsqAmniFEa9BF+eX4iEXR/5OJTGQs/f/zdnAw0GEtdb8dsgj4X2KAXH4WgElTtW3zRidtNb8JVzLZHI7CIlZwPqWT3hIleKhLM1u42IjkPfjsoD5Ke6G+GRWm0NxBG3eFH3r1hOmIjssbODvUJ5kay4CqsY+t3ANUq2TK3YYhJ26s+aLk8HnwX328MrWZVoi7IVzN4UD4PDuc1PjsPgdHwIVDxigUovm1mxJKPXFABdY3IjqVYN02NI3L79vAkIhbfEnQu8nGZGpAZciSWk4CzFK7hByF0Z5RD9I9nDirZYb4MCQSiCgvUClSUylnsK3rwMmoP2S8K0e2I=;A+O3Pq/lpTiVUWE1KyngtQ=="
 ---

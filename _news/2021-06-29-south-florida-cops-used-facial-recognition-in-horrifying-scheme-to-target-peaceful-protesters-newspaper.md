@@ -41,22 +41,6 @@ related:
         width: 980
         height: 680
         isCached: true
-  - title: "Derek Chauvin sentencing: Ex-cop could face decades in prison for George Floyd's murder"
-    excerpt: "Former Minneapolis police Officer Derek Chauvin learns his sentence Friday for murder in George Floyd's murder, closing a chapter in a case that sparked global outrage and a reckoning on racial disparities in America."
-    publishedDateTime: 2021-06-25T11:52:00Z
-    webUrl: "https://abc13.com/derek-chauvin-could-face-decadeslong-sentence-in-george-floyds-murder/10830155/"
-    ampWebUrl: "https://abc13.com/amp/derek-chauvin-sentencing-george-floyd-murder-trial-sentenced/10830155/"
-    cdnAmpWebUrl: "https://abc13-com.cdn.ampproject.org/c/s/abc13.com/amp/derek-chauvin-sentencing-george-floyd-murder-trial-sentenced/10830155/"
-    type: article
-    provider:
-      name: abc13.com
-      domain: abc13.com
-    quality: 36
-    images:
-      - url: "https://cdn.abcotvs.com/dip/images/10533768_042121-cc-ap-chauvin-court-file-img.jpeg"
-        width: 1280
-        height: 720
-        isCached: true
 
 secured: "PabTnVakivFgchxkfTT6tXzt7tA+XUy9wlwS+IXP4vWMHEEOF3yoGgFkq6iQ6lF759DWq221sDS9QZyzf5a4XUQqvX5BGaxZo7B+SlvAmE6gFfFXDfE09ICzOEl2XKcRXGQG3z2m3rCjCbrdiMkiBz/WmCRvFOAoYQ4nbOOfQWEtVJro7NFJ9o+U6BhrwCQzNq+zVCPKHLSVtpNV43yfAZEYCi4uDn+V6q9z5lto1CHqO9Dnim0tSJ2XiHVaNK2H7022JU4258dhEw32+/Yufkb83KtctaYS5eQn+TGZhaIvyLHTeemBmrA8lrBpyJuZ7sBPSUDP8CjUqrbH/tJTDL6pIG9WcRdTYEoogLR2lJ4=;U9eJoCFjkiyih7mrovV7RA=="
 ---

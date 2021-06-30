@@ -43,31 +43,15 @@ related:
         width: 1200
         height: 665
         isCached: true
-  - title: "Artificial intelligence mixes into production lines"
-    excerpt: "Jobs with high operating risk and data-driven solutions that increase productivity have enabled the data economy to grow during the pandemic period."
-    publishedDateTime: 2021-06-25T11:41:00Z
-    webUrl: "https://www.dailysabah.com/business/tech/artificial-intelligence-mixes-into-production-lines"
-    ampWebUrl: "https://www.dailysabah.com/business/tech/artificial-intelligence-mixes-into-production-lines/amp"
-    cdnAmpWebUrl: "https://www-dailysabah-com.cdn.ampproject.org/c/s/www.dailysabah.com/business/tech/artificial-intelligence-mixes-into-production-lines/amp"
-    type: article
-    provider:
-      name: Daily Sabah
-      domain: dailysabah.com
-    quality: 59
-    images:
-      - url: "https://idsb.tmgrup.com.tr/ly/uploads/images/2021/06/25/thumbs/800x531/124491.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "New Artificial Intelligence Strategy Board to Lead AI Initiatives for the Association for Advancing Automation"
     excerpt: "Global trade group will promote adoption of AI in industrial automation, focusing on new certifications, standards, education programs and events."
     publishedDateTime: 2021-06-28T15:44:00Z
-    webUrl: "https://www.automation.com/en-us/articles/june-2021/artificial-intelligence-strategy-board-a3? Control News & Articles"
+    webUrl: "https://www.automation.com/en-us/articles/june-2021/artificial-intelligence-strategy-board-a3"
     type: article
     provider:
       name: Automation
       domain: automation.com
-    quality: 32
+    quality: 34
     images:
       - url: "https://www.automation.com/getmedia/822abcb4-a88c-498d-b96f-f6ec34d06266/A3-strategy-news-June-28-2021-web.png?width=500&height=313&ext=.png"
         width: 500

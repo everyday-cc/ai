@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/saibala/2021/06/27/a-company-that-uses-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/saibala/2021/06/27/a-company-that-uses-ai-to-fight-malaria-just-won-the-ibm-watson-ai-xprize-competition/amp/"
 type: article
 quality: 97
-heat: 147
+heat: 137
 published: true
 
 provider:
@@ -31,20 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Meet The Winners Of IBM Watson AI XPRIZE"
-    excerpt: "IBM and XPRIZE, a non-profit organisation focused on designing and implementing innovative competition models to solve real world problems, launched IBM Watson AI XPRIZE in 2016. The competition aims to accelerate the adoption of AI technologies to solve societal challenges."
-    publishedDateTime: 2021-06-25T12:30:00Z
-    webUrl: "https://analyticsindiamag.com/meet-the-winners-of-ibm-watson-ai-xprize/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 56
-    images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/06/IBM-WATSON.jpg"
-        width: 1600
-        height: 900
-        isCached: true
   - title: "ZzappMalaria wins $3m IBM Watson AI XPRIZE"
     excerpt: "Israeli startup’s AI platform tailors and monitors location-specific antimalarial strategies; also won the People's Choice Award in the competition."
     publishedDateTime: 2021-06-27T11:47:00Z

@@ -26,24 +26,6 @@ images:
     height: 400
     isCached: true
 
-related:
-  - title: "Kettering students develop award-winning self-driving vehicle technology in Flint"
-    excerpt: "After a four-year competition aimed at studying, designing and testing self-driving car technology, a team of Kettering students walked away"
-    publishedDateTime: 2021-06-26T10:11:00Z
-    webUrl: "https://flintbeat.com/kettering-students-develop-award-winning-self-driving-vehicle-technology-in-flint/"
-    ampWebUrl: "https://flintbeat.com/kettering-students-develop-award-winning-self-driving-vehicle-technology-in-flint/"
-    cdnAmpWebUrl: "https://flintbeat-com.cdn.ampproject.org/c/s/flintbeat.com/kettering-students-develop-award-winning-self-driving-vehicle-technology-in-flint/"
-    type: article
-    provider:
-      name: Flint Beat
-      domain: flintbeat.com
-    quality: 39
-    images:
-      - url: "https://i1.wp.com/flintbeat.com/wp-content/uploads/2021/06/rfaKT-1-1.jpg?fit=2000%2C1333&ssl=1"
-        width: 2000
-        height: 1333
-        isCached: true
-
 secured: "K7e+uqFPjCS78pgG3HgFKdg2e+yEq/v6PvYuXtVcWExQF3DPyncwimiPXN88CY+7olBZAJkx71ksrDfoPzAkdJshgG545WHNRgoXij0aSWR95cXZlYXmOTwUusS6eBb3RCXzS/csmWY09tU90E+GccxxfRI6hZudQgTe2FWUmuI3eHn4y7jdMrTk5P6zi0bP5izADXTgkqYhKhp9+cORFTPQ8mY5zH+60cxH1J9oJwhBIQ9MXxMG+WrfXFW09Ww79CAcqffZ/L4z7HoEbsxA70gaHy8sZGCzhmQtNwudXxqp4drNboIEBl8lXiGpNXgJWk+FaaCHM5Z3PuxACiRPNtpfKYuIf0L9IADjrw7wWwU=;35Os9E+bAnzGJUCR4Ot/yQ=="
 ---
 

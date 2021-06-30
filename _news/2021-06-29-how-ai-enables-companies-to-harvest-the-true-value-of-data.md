@@ -65,6 +65,20 @@ related:
         width: 2121
         height: 1414
         isCached: true
+  - title: "Explainable AI, the future of financial services"
+    excerpt: "As technology becomes more advanced, it can become harder to understand. Some may accept not fully understanding the ins and outs of a technology if it makes new or better things possible, but not being able to fully understand how a technology works can bring about its own problems."
+    publishedDateTime: 2021-06-30T05:01:00Z
+    webUrl: "https://paperjam.lu/article/explainable-ai-the-future-of-f"
+    type: article
+    provider:
+      name: paperJam
+      domain: paperjam.lu
+    quality: 39
+    images:
+      - url: "https://assets.paperjam.lu/images/articles/explainable-ai-the-future-of-f/0.5/0.5/600/400/414770.jpg"
+        width: 1199
+        height: 800
+        isCached: true
 
 secured: "6phmXCMMChqX63rQmV+1XvWIGPHr3XRgF1dogHsLaJl/hP03Y3IuJICbicV1XGihc1wfJPz6PvwgodSlthWFU7DBP+G5xAnmyLdH3I8cxa5ZwFJC6qTWKWH/rutFp4cauRZImS6fyeZIHis3lPw7NT2qymrSRgqhFkWP2AFqPDSQm4Y+gworklPe/rKcjlJ5Yy8EPj9LtBDOQbqhHIXfBHoV+BWr2Tb/OHJFeBmPNO7D2HUJHDjTYB9lRlF5AeuRylrD1eVGoAtyKY+G1a+wcAj6xAh3qRNBWVnhFCpcGI4hvV8EN9IBoFh/PZJ1y6JN9Kwfq4BFYk/PELgXA3hN9uVCun/4sI0Tu7DipLvFrOQ=;bPwE4wwrQQB0+H82ZRlj4w=="
 ---
