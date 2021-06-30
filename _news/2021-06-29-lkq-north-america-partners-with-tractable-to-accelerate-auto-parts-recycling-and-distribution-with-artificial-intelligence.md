@@ -24,21 +24,19 @@ images:
     isCached: true
 
 related:
-  - title: "NIS America is making fan translations official with Trails from Zero and Trails to Azure"
-    excerpt: "Fan translations for two Trails games from a group called Geofront are serving as the basis for official releases."
-    publishedDateTime: 2021-06-25T10:04:00Z
-    webUrl: "https://venturebeat.com/2021/06/25/nis-america-is-making-fan-translations-official-with-trails-from-zero-and-trails-to-azure/"
-    ampWebUrl: "https://venturebeat.com/2021/06/25/nis-america-is-making-fan-translations-official-with-trails-from-zero-and-trails-to-azure/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/25/nis-america-is-making-fan-translations-official-with-trails-from-zero-and-trails-to-azure/amp/"
+  - title: "AI-enabled digital assistant helping modernize Latin America’s mining industry"
+    excerpt: "Chilean startup InDiMin is pioneering AI developments for the mining value chain, from planning to drill and blast, load and haul, mineral recovery and grinding processes."
+    publishedDateTime: 2021-06-27T20:34:00Z
+    webUrl: "https://www.mining.com/ai-enabled-digital-assistant-helping-modernize-latin-americas-mining-industry/"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 95
+      name: Mining
+      domain: mining.com
+    quality: 33
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2021/06/trailsfromzero.jpg?w=1200&strip=all"
-        width: 1200
-        height: 675
+      - url: "https://www.mining.com/wp-content/uploads/2021/06/AI-enabled-digital-assistant-helping-modernize-Latin-Americas-mining-industry.jpg"
+        width: 900
+        height: 500
         isCached: true
 
 secured: "X8RX9KU+CREDkJ73eds+UeNTwPaY0qFZ2A7Q/jiVt+r5bUhId8QFWltl6o3dt8qjKCFsxxWuxsIh/OLUWXxWkhJbh4Eq02CJUhX7w2ssUUcEsWqu5GqE9OsnOfV42L69frsOQgSFLCmSEa8DNZRLxFgbhFt9NLQuVv7i70GjrsJwDEv5Hv3Qx9zKzd/gpqSugjYllXZ8OgvFZGu1s1jssPA+/Fvh12VQX684GcpbraFKN2JuFz3xWJaAIY3eaNNzx+KkPDwQ+t3216vudrIrY57jbidIjv/azo8wH+nXIBL8zUmCxAB17dSBIEJMtP8QbcdI6aC0xcbVp2AzfIOkOZJeom1SxD7sTGAK294TAqA=;o2hpBJUdbOjfBpjp5kU1uw=="

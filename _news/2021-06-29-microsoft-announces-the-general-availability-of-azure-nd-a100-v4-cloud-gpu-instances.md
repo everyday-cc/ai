@@ -56,15 +56,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "HKT launches Managed Security Services powered by Microsoft Azure Sentinel"
-    excerpt: "HKT has partnered with Microsoft Hong Kong to expand its offering of Managed Security Services for enterprises deploying Microsoft cloud services. As Microsoft's Managed Security Services Provider in Hong Kong,"
-    publishedDateTime: 2021-06-25T09:14:00Z
-    webUrl: "https://www.telecompaper.com/news/hkt-launches-managed-security-services-powered-by-microsoft-azure-sentinel--1388049"
-    type: article
-    provider:
-      name: Telecompaper
-      domain: telecompaper.com
-    quality: 49
   - title: "BUSINESS WIRE: OAG’s Flight Info API Now Available in the Microsoft Azure Marketplace"
     excerpt: "The Azure Marketplace is an online market for buying and selling ... Sordin e Cardo Crew collaborano per creare una nuova generazione di protezioni auricolari intelligenti dedicate ai team dei professionisti mobili 14:10 BUSINESS WIRE: Sordin und Cardo ..."
     publishedDateTime: 2021-06-28T12:47:00Z

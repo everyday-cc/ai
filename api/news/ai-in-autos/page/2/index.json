@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-06-18-baidu-to-build-autonomous-taxis-with-baic-group-in-china.md",
+      "title": "Baidu To Build Autonomous Taxis With BAIC Group In China",
+      "excerpt": "Baidu has joined forces with Chinese automaker BAIC Group to build 1,000 driverless taxis over the coming three years that will be deployed across the nation’s streets. The vehicles will be operated through Baidu’s Apollo program and will be manufactured under BAIC’s Arcfox electric vehicle brand.",
+      "sourceUrl": null,
+      "webUrl": "https://www.carscoops.com/2021/06/baidu-to-build-autonomous-taxis-with-baic-group-in-china/",
+      "originalUrl": "https://www.carscoops.com/2021/06/baidu-to-build-autonomous-taxis-with-baic-group-in-china/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.carscoops.com/wp-content/uploads/2021/05/Baidu-Autonomous-a-1024x555.jpg",
+          "width": 1024,
+          "height": 555,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.carscoops.com/2021/06/baidu-to-build-autonomous-taxis-with-baic-group-in-china/amp/",
+      "cdnAmpWebUrl": "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2021/06/baidu-to-build-autonomous-taxis-with-baic-group-in-china/amp/",
+      "publishedDateTime": "2021-06-18T01:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Carscoops",
+        "domain": "carscoops.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-18-regulators-know-teleoperation-is-key-for-self-driving-vehicles-to-succeed.md",
       "title": "Regulators know teleoperation is key for self-driving vehicles to succeed",
       "excerpt": "Teleoperation is necessary for widespread adoption of autonmous vehicles and new legislation and regulations will help pave the way.",
@@ -1364,50 +1407,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-10-farm-tech-startup-iron-ox-appoints-impossible-foods-and-tesla-veteran-rachel-konrad-as-first-independent-board-member.md",
-      "title": "Farm Tech Startup Iron Ox Appoints Impossible Foods and Tesla Veteran Rachel Konrad as First Independent Board Member",
-      "excerpt": "Iron Ox, a farming innovation company with deep expertise in robotics and artificial intelligence, has appointed former Impossible Foods and Tesla executive",
-      "sourceUrl": null,
-      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/farm-tech-startup-iron-ox-appoints-impossible-foods-and-tesla-veteran-rachel-konrad-as-first/article_cf74d33e-d6b1-537c-afe0-e5f2ef35d147.html",
-      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/farm-tech-startup-iron-ox-appoints-impossible-foods-and-tesla-veteran-rachel-konrad-as-first/article_cf74d33e-d6b1-537c-afe0-e5f2ef35d147.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/3/49/349a1983-3b51-5f0d-a2d1-466208ad2984/60c1ffcd43a9d.image.jpg?resize=630%2C630",
-          "width": 630,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-10T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WFMZ-TV",
-        "domain": "wfmz.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Autos"
       ]
     }
   ],

@@ -25,36 +25,29 @@ images:
     isCached: true
 
 related:
-  - title: "State of AI report finds AI is now core to business success"
-    excerpt: "Appen survey of business leaders and data scientists indicates that AI initiatives are delivering business value but challenges still exist."
-    publishedDateTime: 2021-06-25T10:00:00Z
-    webUrl: "https://www.infoworld.com/article/3622978/state-of-ai-report-finds-ai-is-now-core-to-business-success.html"
-    ampWebUrl: "https://www.infoworld.com/article/3622978/state-of-ai-report-finds-ai-is-now-core-to-business-success.amp.html"
-    cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3622978/state-of-ai-report-finds-ai-is-now-core-to-business-success.amp.html"
+  - title: "GDPR 2.0: What do Europe’s new AI rules mean for businesses?"
+    excerpt: "In April, the European Commission (EC) unveiled plans to regulate artificial intelligence (AI). The first-of-its-kind rulebook includes bans on practices that “manipulate persons through subliminal techniques beyond their consciousness”,"
+    publishedDateTime: 2021-06-28T10:36:00Z
+    webUrl: "https://www.techcentral.ie/gdpr-2-0-what-do-europes-new-ai-rules-mean-for-businesses/"
     type: article
     provider:
-      name: InfoWorld
-      domain: infoworld.com
-    quality: 89
+      name: Mozilla
+      domain: techcentral.ie
+    quality: 39
     images:
-      - url: "https://images.idgesg.net/images/article/2019/11/man_concerned_artificial_intelligence_ai_sign_by_dny59_gettyimages_959737582-100817807-large.jpg"
-        width: 1200
-        height: 800
+      - url: "https://www.techcentral.ie/wp-content/uploads/2021/04/Artificial_Intelligence.jpg"
+        width: 620
+        height: 351
         isCached: true
-  - title: "The State of AI and Machine Learning"
-    excerpt: "In the 7th edition of its annual State of AI report, Appen continues to explore the strategies  employed by companies large and small in successfully deploying AI. The reports surveys business  leaders and technical practitioners ( referred to as technologists) alike to understand  their priorities,"
-    publishedDateTime: 2021-06-29T21:15:00Z
-    webUrl: "https://insidebigdata.com/white-paper/the-state-of-ai-and-machine-learning-2/"
+  - title: "Regulating artificial intelligence in the EU: top 10 issues for businesses to consider"
+    excerpt: "The European Commission's 'Proposal for a Regulation laying down harmonized rules on Artificial Intelligence' ('Draft AI Regulation') is far from being final and even further from taking effect: Indeed,"
+    publishedDateTime: 2021-06-30T00:13:00Z
+    webUrl: "https://www.publicnow.com/view/50ECBA1032D9A083BBC7C764CD6D235816E053A2"
     type: article
     provider:
-      name: insidebigdata.com
-      domain: insidebigdata.com
-    quality: 54
-    images:
-      - url: "https://insidebigdata.com/wp-content/uploads/2021/06/Appen_State_AI_whitepaper_cover.png"
-        width: 300
-        height: 390
-        isCached: true
+      name: publicnow.com
+      domain: publicnow.com
+    quality: 9
 
 secured: "0CrdtrG37Xu3cdST7ceFXcOfd1SdijY2CV+ACAYqFLItZRv0rTaWSqtwRszrLGlLIZ9ApBlgHi5o6z/THKXwaZE6YuhhnoplMpsgCVqJ4Z2Xb6SHa6LrVxzTUZVqdsVw0oSxZrrUcu+4Rp81kSypxhJjMdPdMBjPh3VdVU6p6gdu3oMIBr1r9ugbV96FcGJ5mbpLH6zfLZeC/uf1zCMLzsORYzj4XLu623+09uudZQmxn3VWjPciYAFcrV8W7o0o06nNK7qXZrVaYspHhs2XIlmxUYrQcZssi7mIqZmTuChllUb/XRj79S7z7tCz7ewGgNW8vINkAiZekj9sEEHpEFqvDvBjqXRmMDVU/gPb+9wEbFc8AlkwENgBp+SPrC60HHPnXdrTNEwfM6EbJGug3m5Id5nLqqJ5nQcSZOTKycE3iEje5tHFfC0PsBR5cm1T7QPhV/Ep+/aZ5EFehbtvUOt6Iz1RaWd49Nooe5kCzEHM9o6VWANlSFF1CmHvVKLIEXM4yk0EVZU+ChbGwuJKcg==;vV+9HHNoPv+ZQdKyKeCKhg=="
 ---

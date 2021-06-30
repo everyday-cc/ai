@@ -63,15 +63,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "HKT launches Managed Security Services powered by Microsoft Azure Sentinel"
-    excerpt: "HKT has partnered with Microsoft Hong Kong to expand its offering of Managed Security Services for enterprises deploying Microsoft cloud services. As Microsoft's Managed Security Services Provider in Hong Kong,"
-    publishedDateTime: 2021-06-25T09:14:00Z
-    webUrl: "https://www.telecompaper.com/news/hkt-launches-managed-security-services-powered-by-microsoft-azure-sentinel--1388049"
-    type: article
-    provider:
-      name: Telecompaper
-      domain: telecompaper.com
-    quality: 49
 
 secured: "xgGCLzU7whbcmHEjfOA3+jRpriwX3iSZyWZt5Suh6aT1U/njqibE6Icktezja6phZbp+roUaWILfKR6d4FQYZK+yyKO2iM75h4RJfwFpBl62Pr3afWyf55iRqbpFNdt3T33XCQmjHIYi/a/iqEHu9KucNxfSAMBdKR55osLQmECaYPQr5x+T3OmWT2xfgsvlga58eBLjY6+17MQeliGxA3BzVccf7ec4aoCgFrhcxpI2nKHyOyHlPLi5hiHKXXR2uxiPsRZehiRPR1sD1DzsEK1lQcKAIlHlJEzjF0af+EQOmmEFvHxWdeivuGwT6xFAOtOvT0pTQZ4jZ/RzAUN2fGmwrZb9SpJGraB1DY5eLrM=;IJcrZP1Shg+30dgN+taZsg=="
 ---

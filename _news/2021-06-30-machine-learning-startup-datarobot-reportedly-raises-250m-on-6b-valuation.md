@@ -6,7 +6,7 @@ publishedDateTime: 2021-06-30T00:44:00Z
 originalUrl: "https://siliconangle.com/2021/06/29/machine-learning-startup-datarobot-reportedly-raises-250m-6b-valuation/"
 webUrl: "https://siliconangle.com/2021/06/29/machine-learning-startup-datarobot-reportedly-raises-250m-6b-valuation/"
 type: article
-quality: 52
+quality: 69
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI
   - Machine Learning
+  - AI in Robotics
 
 images:
   - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2018/10/37743329_2165804907035213_7133156086915268608_o-1.jpg"
@@ -42,6 +43,6 @@ related:
         height: 281
         isCached: true
 
-secured: "Id8BHJ4NYPcaRTznNLPQW/Hd6zJp2s/B46PbQt1Hj2PO/7FH4ek+0UGy/KrFCHKuq8J/4THLJSE9bqnWN0XVyQg76oFmvAS/tzvTHmfw2S+Z2NcxXlARQ4uPFq8N2kbgXrU6qU/F1oGqu7vfrOCBguRLKPcgQ6kIOd0KQHriEh+y/AqoPf74HtjFxt+g+1zU+iSmXSWu2q6mptK607Mrh0uswTQ08gmqw0puSYy+CUkRe02Kr69DakzL+I/iZrKqRo7Cp0OIUl/+V3NXrZeweiBckqPqwBEy/ut3q3QeybsjV4LM3W3PJQRYjPrRMqpGs7QLResr3sA/4HCZcgoRyzsT+vVg5yc1s5L7IVXCNqc=;5TDamCEUORdg4JjZaz+iSQ=="
+secured: "KUBKHcE5bttCKLJFpEFLKkLK2OPW0F3pchPgTxJlKdSByO7k+I2vXAb4jDXueSd246FHzULAc0uE/PFtEvujuE/RSNwyzYbN/eMJYJieg7P6+SrK9PM4cvqwtr5IZGcAgTVBfLDaKpMuF9d39hJqlF6ydYUIm72Ly8N7fsN2xgurd7lemBQizNCtL4sW/UkEOw0L96x9XzsqLEEHRbJfICqX8UHdLorE7C+gqmxiHhTc+FSZqBH5g2GIpq6SAMIRfrFOeUW3lUMs4ttB5YL4H9OppgAvDrT+6ErxC5ObrL5MlGt7NR1tNKOcUPHPzVnoQfILdcJ4uyBffqCysncPxWSFfU2E1GO5j+LY1dOCVZ3QvTFpdhFnfGmHcsHIAFONQpdMFvp5UQ2NGqYv8ljVP8qjelmOChopAA0QxGhfhwhueQuMUJH01NVTmrmYLRPKiURwGxBKmQ81zGUnxmNd3Z9iGqNjK3wDMsLU6Nt1vLvdIq1egJTYcwrwwO3xyzkAFM5ih1nU/rHuR8OHriEJ5g==;CyzOtO3rauEk1XXiyp+yoA=="
 ---
 

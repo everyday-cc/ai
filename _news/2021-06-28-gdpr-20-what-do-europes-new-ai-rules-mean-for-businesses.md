@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "What are the Ways Artificial Intelligence can Help You Grow Your Business?"
+    excerpt: "Artificial Intelligence is an approach to make Machines, Computers, and Robots more Human-Like in their problem-solving. As Human Beings, we are constantly and continuously doing wonders with our inventions,"
+    publishedDateTime: 2021-06-28T18:16:00Z
+    webUrl: "https://www.wrcbtv.com/story/44198905/what-are-the-ways-artificial-intelligence-can-help-you-grow-your-business"
+    type: article
+    provider:
+      name: WRCB
+      domain: wrcbtv.com
+    quality: 37
+    images:
+      - url: "https://PRSUBMITPRESSLIFESTYLE.images.worldnow.com/images/20955229_G.jpg?lastEditedDate=1624889811000"
+        width: 1600
+        height: 1066
+        isCached: true
   - title: "Regulating artificial intelligence in the EU: top 10 issues for businesses to consider"
     excerpt: "The European Commission's 'Proposal for a Regulation laying down harmonized rules on Artificial Intelligence' ('Draft AI Regulation') is far from being final and even further from taking effect: Indeed,"
     publishedDateTime: 2021-06-30T00:13:00Z

@@ -43,6 +43,22 @@ related:
         width: 457
         height: 274
         isCached: true
+  - title: "Antitrust Ruling On Facebook's Kustomer Buy Expected By August"
+    excerpt: "Facebook's fate in terms of its acquisition of U.S. customer service startup Kustomer will be decided by antitrust officials soon, U.S. News reports. The deal was intended to help scale up the social media company's WhatsApp,"
+    publishedDateTime: 2021-06-30T02:08:00Z
+    webUrl: "https://www.pymnts.com/facebook/2021/antitrust-ruling-on-facebooks-kustomer-buy-expected-by-august/"
+    ampWebUrl: "https://www.pymnts.com/facebook/2021/antitrust-ruling-on-facebooks-kustomer-buy-expected-by-august/amp/"
+    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/facebook/2021/antitrust-ruling-on-facebooks-kustomer-buy-expected-by-august/amp/"
+    type: article
+    provider:
+      name: pymnts.com
+      domain: pymnts.com
+    quality: 44
+    images:
+      - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/06/facebook-4-457x274.jpg"
+        width: 457
+        height: 274
+        isCached: true
   - title: "Big Tech Compliance Tracker: FTC, State Antitrust Suits Against Facebook Dismissed By US Court; Antitrust Regulations Progress In Congress"
     excerpt: "The Federal Trade Commission ’s antitrust suit against Facebook, along with a parallel case by 48 attorneys generals, was dismissed by a U.S. court on Monday (June 28), CNBC reported. The FTC filed suit against Facebook in late 2020,"
     publishedDateTime: 2021-06-28T21:59:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.pymnts.com/news/artificial-intelligence/2021/softbank-pu
 cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/artificial-intelligence/2021/softbank-puts-pepper-robot-on-hold-as-bot-biz-does-soul-searching/amp/"
 type: article
 quality: 58
-heat: 68
+heat: -1
 published: false
 
 provider:
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Japan’s SoftBank says Pepper robot remains ‘alive’ and well"
+    excerpt: "Japanese technology company SoftBank denies it’s pulling the plug on its friendly, talking, bubble-headed Pepper robot. “There is absolutely no change to our Pepper business,”"
+    publishedDateTime: 2021-06-30T03:19:00Z
+    webUrl: "https://www.krqe.com/news/technology/japans-softbank-says-pepper-robot-remains-alive-and-well/"
+    ampWebUrl: "https://www.krqe.com/news/technology/japans-softbank-says-pepper-robot-remains-alive-and-well/amp/"
+    cdnAmpWebUrl: "https://www-krqe-com.cdn.ampproject.org/c/s/www.krqe.com/news/technology/japans-softbank-says-pepper-robot-remains-alive-and-well/amp/"
+    type: article
+    provider:
+      name: KRQE
+      domain: krqe.com
+    quality: 74
+    images:
+      - url: "https://www.krqe.com/wp-content/uploads/sites/12/2021/06/a7ca6fa6c7634e6787200aad859fc95d.jpg?w=1280"
+        width: 1280
+        height: 853
+        isCached: true
   - title: "Japan's SoftBank Suspends Production Of Chatty Robot Pepper"
     excerpt: "Japan's SoftBank has suspended production of its humanoid robot Pepper, a company spokeswoman said Tuesday, seven years after the conglomerate unveiled the signature chatty white android to much fanfare."
     publishedDateTime: 2021-06-29T05:34:00Z

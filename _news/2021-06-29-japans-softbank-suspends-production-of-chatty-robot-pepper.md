@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Japan’s SoftBank says Pepper robot remains ‘alive’ and well"
+    excerpt: "Japanese technology company SoftBank denies it’s pulling the plug on its friendly, talking, bubble-headed Pepper robot. “There is absolutely no change to our Pepper business,”"
+    publishedDateTime: 2021-06-30T03:19:00Z
+    webUrl: "https://www.krqe.com/news/technology/japans-softbank-says-pepper-robot-remains-alive-and-well/"
+    ampWebUrl: "https://www.krqe.com/news/technology/japans-softbank-says-pepper-robot-remains-alive-and-well/amp/"
+    cdnAmpWebUrl: "https://www-krqe-com.cdn.ampproject.org/c/s/www.krqe.com/news/technology/japans-softbank-says-pepper-robot-remains-alive-and-well/amp/"
+    type: article
+    provider:
+      name: KRQE
+      domain: krqe.com
+    quality: 74
+    images:
+      - url: "https://www.krqe.com/wp-content/uploads/sites/12/2021/06/a7ca6fa6c7634e6787200aad859fc95d.jpg?w=1280"
+        width: 1280
+        height: 853
+        isCached: true
   - title: "SoftBank Puts 'Pepper' Robot On Hold As Bot Biz Does Some Soul-Searching"
     excerpt: "In its latest move to redefine the firm’s relationship to robotics, SoftBank announced that it has halted production on its Pepper robot."
     publishedDateTime: 2021-06-29T16:57:00Z

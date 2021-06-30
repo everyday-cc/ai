@@ -3,10 +3,10 @@ category: news
 title: "New Artificial Intelligence Strategy Board to Lead AI Initiatives for the Association for Advancing Automation"
 excerpt: "Global trade group will promote adoption of AI in industrial automation, focusing on new certifications, standards, education programs and events."
 publishedDateTime: 2021-06-28T15:44:00Z
-originalUrl: "https://www.automation.com/en-us/articles/june-2021/artificial-intelligence-strategy-board-a3"
-webUrl: "https://www.automation.com/en-us/articles/june-2021/artificial-intelligence-strategy-board-a3"
+originalUrl: "https://www.automation.com/en-us/articles/june-2021/artificial-intelligence-strategy-board-a3? Control News & Articles"
+webUrl: "https://www.automation.com/en-us/articles/june-2021/artificial-intelligence-strategy-board-a3? Control News & Articles"
 type: article
-quality: 34
+quality: 32
 heat: -1
 published: false
 
@@ -15,7 +15,6 @@ provider:
   domain: automation.com
 
 topics:
-  - AI in Robotics
   - AI
 
 images:
@@ -83,6 +82,6 @@ related:
       domain: preventionweb.net
     quality: 17
 
-secured: "XzedmQZs645D5HK4EbZ1qDbCE7pq9E7YDCrSCUzFBMzi4i6UcnkLu7Wu8Ly19oHPym/J+EVa/3sbPudDsw+dcSHPEgGqHZjnUjWz9bnV+mObSAB+nVulH28VMZJIrjRcXBn90u3sUr+MUFJsxM9+ZeBzil6iziKU+KOvD0EAtpl4j73TulsYCbBSQLn+MDobxcn0uYPUFPcO9JsSJEgoISA2Q+Qr6Ks/DeRbT4XuOIZDyTlmcq02aQEDFKYZtE88QUG582mgwgk00R7zXH7jrjoE5CpikDsY9xwEliIq/3Tn6XOgK521JJRTCdn97kwDD5cDrDuwKLiF9c4DCmDmNM8O3ulXfcBtu2UoP2+gQeqvsVikL07b2nGvtxElZy01ngHpHoOCm/6Azft+IN9G4hmCecl3j1sDa+B4xuLNzoRKngVrJB1pcWRxJ+fHP2BYrJWsI42QWvRPC0Gocxe7D8GcSZhxtzKG0QJIJS2ekEL+sfQ3ivM0n22EKwBX+eTgiE+gOemoz8rW7397mCpWVQ==;KUJdq6F75sVmUYfotjyNwQ=="
+secured: "PwcoSOgO2Qy9L0+SpPgjCqEtJk1yJr+9sNwBwCVosZdWberQwWMS0rA9PlwODCI31aKhGtM1uZZ5anm7bGmCpB+SoghsIeg74+1/TXRQ/vfK0s8KHcM6r3qDz70USjFI+a2BUROLbXL2LW9Mt3r4QTK2lJFg15Lc2ZpGUEAmatMnkGso6aSHK7zgJ3/T1lWltzLUFRlI54ChBtHBlXXRlS9cf+VeMt371JVvdKz/TTLkIO/wqxZ8N4XwApOMJu82PHdrwQqUsehbvwLeLl9Hy94mGCFmXI3wWiLdvNZImqRYzqcoZkMAVj9N/Lr3buhIm5dQvrOU/4fCkLd8ma4Vr5PXwg/Lcd0nhtaJJtn6x6g=;FsPxWgOt7AfChINPHTsjWA=="
 ---
 

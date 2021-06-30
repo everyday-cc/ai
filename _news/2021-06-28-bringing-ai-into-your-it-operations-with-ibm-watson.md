@@ -37,22 +37,6 @@ related:
         width: 1024
         height: 640
         isCached: true
-  - title: "IBM Watson’s new research explores how AI can mitigate bias in advertising"
-    excerpt: "IBM Watson Advertising announced a research initiative that will apply open-source AI technology, developed by IBM, to better understand how prevalent unwanted bias is in advertising, while simultaneously laying the foundation for potential mitigation."
-    publishedDateTime: 2021-06-25T09:54:00Z
-    webUrl: "https://www.dqindia.com/ibm-watsons-new-research-explores-ai-can-mitigate-bias-advertising/"
-    ampWebUrl: "https://www.dqindia.com/ibm-watsons-new-research-explores-ai-can-mitigate-bias-advertising/amp/"
-    cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/ibm-watsons-new-research-explores-ai-can-mitigate-bias-advertising/amp/"
-    type: article
-    provider:
-      name: Dataquest
-      domain: dqindia.com
-    quality: 72
-    images:
-      - url: "https://www.dqindia.com/wp-content/uploads/2021/05/human-simulation-main_opt.jpg"
-        width: 850
-        height: 478
-        isCached: true
   - title: "Meet The Winners Of IBM Watson AI XPRIZE"
     excerpt: "IBM and XPRIZE, a non-profit organisation focused on designing and implementing innovative competition models to solve real world problems, launched IBM Watson AI XPRIZE in 2016. The competition aims to accelerate the adoption of AI technologies to solve societal challenges."
     publishedDateTime: 2021-06-25T12:30:00Z

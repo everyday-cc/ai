@@ -25,35 +25,35 @@ images:
     isCached: true
 
 related:
-  - title: "State of AI report finds AI is now core to business success"
-    excerpt: "Appen survey of business leaders and data scientists indicates that AI initiatives are delivering business value but challenges still exist."
-    publishedDateTime: 2021-06-25T10:00:00Z
-    webUrl: "https://www.infoworld.com/article/3622978/state-of-ai-report-finds-ai-is-now-core-to-business-success.html"
-    ampWebUrl: "https://www.infoworld.com/article/3622978/state-of-ai-report-finds-ai-is-now-core-to-business-success.amp.html"
-    cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3622978/state-of-ai-report-finds-ai-is-now-core-to-business-success.amp.html"
+  - title: "The Uneasy Alliance Between Business Leaders And Artificial Intelligence"
+    excerpt: "AI is seen by many inside and outside the corporate world as a mysterious, dark art that only data scientists and algorithm developers can love."
+    publishedDateTime: 2021-06-30T01:57:00Z
+    webUrl: "https://www.forbes.com/sites/joemckendrick/2021/06/29/the-uneasy-alliance-between-business-leaders-and-artificial-intelligence/"
+    ampWebUrl: "https://www.forbes.com/sites/joemckendrick/2021/06/29/the-uneasy-alliance-between-business-leaders-and-artificial-intelligence/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2021/06/29/the-uneasy-alliance-between-business-leaders-and-artificial-intelligence/amp/"
     type: article
     provider:
-      name: InfoWorld
-      domain: infoworld.com
-    quality: 89
+      name: Forbes
+      domain: forbes.com
+    quality: 86
     images:
-      - url: "https://images.idgesg.net/images/article/2019/11/man_concerned_artificial_intelligence_ai_sign_by_dny59_gettyimages_959737582-100817807-large.jpg"
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60dbcc890629828a88a61bcb%2F0x0.jpg"
         width: 1200
-        height: 800
+        height: 799
         isCached: true
-  - title: "What are the Ways Artificial Intelligence can Help You Grow Your Business?"
-    excerpt: "Artificial Intelligence is an approach to make Machines, Computers, and Robots more Human-Like in their problem-solving. As Human Beings, we are constantly and continuously doing wonders with our inventions,"
-    publishedDateTime: 2021-06-28T18:16:00Z
-    webUrl: "https://www.wrcbtv.com/story/44198905/what-are-the-ways-artificial-intelligence-can-help-you-grow-your-business"
+  - title: "Reinforcement learning could be the link between AI and human-level intelligence"
+    excerpt: "We may be able to achieve a level of compute power that will make it possible to reach general intelligence through pure reward and reinforcement learning."
+    publishedDateTime: 2021-06-28T14:10:00Z
+    webUrl: "https://thenextweb.com/news/reinforcement-learning-link-ai-general-level-intelligence-syndication"
     type: article
     provider:
-      name: WRCB
-      domain: wrcbtv.com
-    quality: 37
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 66
     images:
-      - url: "https://PRSUBMITPRESSLIFESTYLE.images.worldnow.com/images/20955229_G.jpg?lastEditedDate=1624889811000"
-        width: 1600
-        height: 1066
+      - url: "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F06%2FEvolutionHed1.jpg&signature=eb72505783d019cc290d3a2602b93fd4"
+        width: 1280
+        height: 640
         isCached: true
 
 secured: "MJqovJCFEhzU7wcEmMYy+52hdpwXhom9q0NPVQuabms+PxacXNkzmV5g+ScZnaHvHqp/8qnfRsJEvC+liLF3fZeyee+iSkYTpqgTl5uDY/sejW66LZD52L4ynoqgXCSgyeInhbYbZLHgxNu3rBcxgejrYUXqDCIfLJungEv5TD+H7dkTkaZa4XLHs//nz+remCo5drB+hMCTT0ewU8w70Db8XXSeEhd1FwJwiktzhDvIZE8DRlB2wHrc+v7krpI+citwS2rd/m8BkxmoX9v8kVRyGClKtANxNo/zxn68HTQBMqwG4N64zGSijlm5J6emcoCGzTsZicfWtlQ+Fk96E+WM2LEHSGn6QwNmRqbp/TKiGtcQgUfYJe5tLjfqem7qAUO5f1kWdKn+m2ywpxs0uYKDKcFBJf6rrkalqIsglbB400sJE7mLjy1aAbDadHJyRkcOfahHlAbpBRh9GyhuMF/o4SisWtdMdLXVWy3TuDpaAq4+KOsish6knyeAH6/oT8bi6mCGiR+C0Sfs+BzyHw==;oGccSd7MWHy2deK9OtWLUg=="

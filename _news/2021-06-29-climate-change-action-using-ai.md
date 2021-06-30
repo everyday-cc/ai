@@ -69,12 +69,12 @@ related:
   - title: "New Artificial Intelligence Strategy Board to Lead AI Initiatives for the Association for Advancing Automation"
     excerpt: "Global trade group will promote adoption of AI in industrial automation, focusing on new certifications, standards, education programs and events."
     publishedDateTime: 2021-06-28T15:44:00Z
-    webUrl: "https://www.automation.com/en-us/articles/june-2021/artificial-intelligence-strategy-board-a3"
+    webUrl: "https://www.automation.com/en-us/articles/june-2021/artificial-intelligence-strategy-board-a3? Control News & Articles"
     type: article
     provider:
       name: Automation
       domain: automation.com
-    quality: 34
+    quality: 32
     images:
       - url: "https://www.automation.com/getmedia/822abcb4-a88c-498d-b96f-f6ec34d06266/A3-strategy-news-June-28-2021-web.png?width=500&height=313&ext=.png"
         width: 500
