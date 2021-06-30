@@ -9,7 +9,7 @@ ampWebUrl: "https://mothership.sg/2021/06/dsta-brainhack-robot//amp"
 cdnAmpWebUrl: "https://mothership-sg.cdn.ampproject.org/c/s/mothership.sg/2021/06/dsta-brainhack-robot//amp"
 type: article
 quality: 74
-heat: 84
+heat: 85
 published: true
 
 provider:

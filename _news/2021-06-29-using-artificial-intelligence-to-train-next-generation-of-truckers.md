@@ -9,7 +9,7 @@ ampWebUrl: "https://www.trucks.com/2021/06/29/artificial-intelligence-can-train-
 cdnAmpWebUrl: "https://www-trucks-com.cdn.ampproject.org/c/s/www.trucks.com/2021/06/29/artificial-intelligence-can-train-truckers/amp/"
 type: article
 quality: 72
-heat: 92
+heat: 82
 published: true
 
 provider:
@@ -26,20 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Staying On Top Of Trends Is Key To Tapping Into The Growing AI Market"
-    excerpt: "The Covid-19 crisis has accelerated the development of the AI industry. It has also spurred adoption of and investment in artificial intelligence technologies not only from large institutions but also small-business owners."
-    publishedDateTime: 2021-06-29T11:20:00Z
-    webUrl: "https://www.forbes.com/sites/forbesfinancecouncil/2021/06/29/staying-on-top-of-trends-is-key-to-tapping-into-the-growing-ai-market/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 67
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F600b279b38fb40a4043817d3%2F0x0.jpg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Vecow Partners with AI Chipmaker Hailo to Launch Next-generation Edge AI Solution"
     excerpt: "NEW TAIPEI CITY, Taiwan, and TEL AVIV, Israel, June 29, 2021 /PRNewswire/ -- Vecow Co., Ltd., a team of global embedded experts, announced today"
     publishedDateTime: 2021-06-29T20:09:00Z

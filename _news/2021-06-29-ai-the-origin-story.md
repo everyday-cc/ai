@@ -9,7 +9,7 @@ ampWebUrl: "https://wap.business-standard.com/article-amp/beyond-business/ai-the
 cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/beyond-business/ai-the-origin-story-121062801528_1.html"
 type: article
 quality: 59
-heat: -1
+heat: 69
 published: false
 
 provider:
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "A beginner’s guide to AI: Policy"
-    excerpt: "Neural's long-running Begginer's Guide To Artificial Intelligence gets a modern update discussing policy and regulation around the globe."
-    publishedDateTime: 2021-06-25T22:10:00Z
-    webUrl: "https://thenextweb.com/news/beginners-guide-to-artificial-intelligence-policy"
-    type: article
-    provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 67
-    images:
-      - url: "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F06%2Fpolicyrobot.jpg&signature=3570b3c012b72a0b33e2163995744feb"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "The rise of AI: Let the journey begin"
     excerpt: "As you determine your best next steps on the journey to adopting AI solutions, investing in modern infrastructure building blocks is necessary to store, protect and execute against the valuable data t"
     publishedDateTime: 2021-06-28T07:52:00Z

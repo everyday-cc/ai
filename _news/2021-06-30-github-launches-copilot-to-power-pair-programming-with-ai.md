@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/2021/06/29/github-launches-copilot-to-powe
 webUrl: "https://copilot.github.com/"
 type: article
 quality: 167
-heat: 247
+heat: 257
 published: true
 
 provider:
@@ -105,6 +105,22 @@ related:
       - url: "https://img-cdn.tnwcdn.com/image/tnw?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F06%2FGitHub-copilot.jpg&signature=04c4e92701007a57aa8fde20946e8e81"
         width: 1280
         height: 640
+        isCached: true
+  - title: "GitHub Copilot AI Let’s Developers Take A Back Seat As The Machine Writes Its Own Code"
+    excerpt: "If I ever do, Microsoft's new GitHub Copilot might prove to be a boon. What exactly is Copilot? It is an AI pair programmer that helps coders hammer out lines and functions faster and with less work,"
+    publishedDateTime: 2021-06-30T14:42:00Z
+    webUrl: "https://hothardware.com/news/github-copilot-ai-machine-writes-own-code"
+    ampWebUrl: "https://amp.hothardware.com/news/github-copilot-ai-machine-writes-own-code"
+    cdnAmpWebUrl: "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/github-copilot-ai-machine-writes-own-code"
+    type: article
+    provider:
+      name: HotHardware
+      domain: hothardware.com
+    quality: 49
+    images:
+      - url: "https://images.hothardware.com/contentimages/newsitem/55545/content/Programming.jpg"
+        width: 708
+        height: 472
         isCached: true
   - title: "GitHub’s new AI tool is like predictive text for programmers"
     excerpt: "The Microsoft-owned company has teamed up with OpenAI to launching a technical preview of an AI assistant for coders."

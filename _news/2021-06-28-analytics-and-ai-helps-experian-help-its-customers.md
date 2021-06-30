@@ -88,6 +88,20 @@ related:
         width: 830
         height: 571
         isCached: true
+  - title: "How Artificial Intelligence Is Changing The Advisory Industry"
+    excerpt: "The industry around Artificial Intelligence has become more influential than ever before. People have making jokes about robots and machines stealing jobs"
+    publishedDateTime: 2021-06-30T15:45:00Z
+    webUrl: "https://www.techshout.com/how-artificial-intelligence-is-changing-the-advisory-industry/"
+    type: article
+    provider:
+      name: TechShout
+      domain: techshout.com
+    quality: 39
+    images:
+      - url: "https://www.techshout.com/wp-content/uploads/2020/06/artificial-intelligence.jpg"
+        width: 720
+        height: 404
+        isCached: true
   - title: "Presto the Future of Open Data Analytics, Foundation Says"
     excerpt: "The openness of Presto, its adherence to standard SQL, and the ubiquity and performance of modern cloud storage have combined to put Presto in the"
     publishedDateTime: 2021-06-28T20:36:00Z

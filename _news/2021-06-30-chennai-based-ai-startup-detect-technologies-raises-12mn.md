@@ -40,20 +40,6 @@ related:
         width: 600
         height: 338
         isCached: true
-  - title: "Neurala Raises $12 Million to Scale Artificial Intelligence for Industrial Manufacturing"
-    excerpt: "New funding will accelerate the development and commercialization of easy-to-use AI for industrial quality inspections."
-    publishedDateTime: 2021-06-25T21:25:00Z
-    webUrl: "https://www.automation.com/en-us/articles/june-2021/neurala-raises-12-million-artificial-intelligence"
-    type: article
-    provider:
-      name: Automation
-      domain: automation.com
-    quality: 43
-    images:
-      - url: "https://www.automation.com/getmedia/7ae382b3-1e70-4eed-ba57-a78747a30d60/Neurala-news-June-25-2021-web.png?width=500&height=313&ext=.png"
-        width: 500
-        height: 313
-        isCached: true
   - title: "Industrial AI Startup Detect Technologies Raises $12Mn From Accel, Elevation Capital"
     excerpt: "Industrial AI startup, Detect Technologies, announced that it raised $12 Mn in funding led by Accel, along with existing investors including Elevation Capital, Bharat Innovation Fund, BlueHill Capital,"
     publishedDateTime: 2021-06-30T08:48:00Z

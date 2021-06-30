@@ -84,6 +84,20 @@ related:
         width: 830
         height: 571
         isCached: true
+  - title: "How Artificial Intelligence Is Changing The Advisory Industry"
+    excerpt: "The industry around Artificial Intelligence has become more influential than ever before. People have making jokes about robots and machines stealing jobs"
+    publishedDateTime: 2021-06-30T15:45:00Z
+    webUrl: "https://www.techshout.com/how-artificial-intelligence-is-changing-the-advisory-industry/"
+    type: article
+    provider:
+      name: TechShout
+      domain: techshout.com
+    quality: 39
+    images:
+      - url: "https://www.techshout.com/wp-content/uploads/2020/06/artificial-intelligence.jpg"
+        width: 720
+        height: 404
+        isCached: true
   - title: "Analytics and AI helps Experian help its customers"
     excerpt: "The consumer credit reporting company is leveraging its data and data scientists to create new services for its customers."
     publishedDateTime: 2021-06-28T09:00:00Z

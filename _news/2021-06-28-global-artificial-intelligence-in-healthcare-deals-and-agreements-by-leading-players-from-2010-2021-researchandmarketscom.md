@@ -1,22 +1,28 @@
 ---
 category: news
 title: "Global Artificial Intelligence in Healthcare: Deals and Agreements by Leading Players From 2010-2021 - ResearchAndMarkets.com"
-excerpt: "Partnering Terms and Agreements 2010 to 2021\" report has been added to ResearchAndMarkets.com's offering. The Global Artificial Intelligence (AI) Partnering Terms and Agreements 2010 to 2021 report provides an understanding and access to the artificial intelligence partnering deals and agreements entered into by the world's leading healthcare companies."
-publishedDateTime: 2021-06-28T11:53:00Z
-originalUrl: "https://www.morningstar.com/news/business-wire/20210628005698/global-artificial-intelligence-in-healthcare-deals-and-agreements-by-leading-players-from-2010-2021-researchandmarketscom"
-webUrl: "https://www.morningstar.com/news/business-wire/20210628005698/global-artificial-intelligence-in-healthcare-deals-and-agreements-by-leading-players-from-2010-2021-researchandmarketscom"
+excerpt: "Partnering Terms and Agreements 2010 to 2021” report has been added to ResearchAndMarkets.com’s offering. The Global Artificial Intelligence (AI) Partnering Terms and Agreements 2010 to 2021 report provides an understanding and access to the artificial intelligence partnering deals and agreements entered into by the world’s leading healthcare companies."
+publishedDateTime: 2021-06-28T16:53:00Z
+originalUrl: "https://apnews.com/press-release/business-wire/artificial-intelligence-business-technology-c8cf1d7a3c1e49999f2dbe3d728e684e"
+webUrl: "https://apnews.com/press-release/business-wire/artificial-intelligence-business-technology-c8cf1d7a3c1e49999f2dbe3d728e684e"
 type: article
-quality: 7
+quality: 27
 heat: -1
 published: false
 
 provider:
-  name: Morningstar, Inc.
-  domain: morningstar.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
-  - AI
   - AI in Healthcare
+  - AI
+
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
 
 related:
   - title: "WHO issues first global report on AI in health and six guiding principles for its design and use"
@@ -182,6 +188,6 @@ related:
         height: 400
         isCached: true
 
-secured: "y5NychFARGTVBfY/vySJjt5UfH9cCev6H6o6Kj1nN9/6ulLAh1fva22SsHCrUAn5ERjTD7sT5ZQBy9ZEsHJWhWTLa3OLqTsOOmr8CNGAX6mt9Su2y1jwlwTAvM3M73zuO/8QgjVA1n7y2aDOHTwuL62yKysPDbNw401sHbCwiuEJjKFDS/fA3sRG25/Pt0PJtYXhcy8PT0pBF7RSN/yYcr3pCR8Yjmk2Kr3pfhMDqHi6OQ9Q4axKOmxqX+EonoAWlX9c+51mvU74BJ8xitYU8WGjqsJamAEaKBmx7XydbsSGarwHVK6vsFfPsDYHC0RdRFimamjRK3GwbcxW8y7KA72YNmDitJJ3UxRXZOKFJAY=;fjFUigKkAL1dGmW80vNEVg=="
+secured: "ROiGNRFDdqACZl/280tNAN0XDmadRV1xrxGVRfTKM1Mj7peuYGJ+1Ref53E6aqKc0xahs04ATrcf7V0xIPzk9/wGdkW00RbzQAqfy9+OrPwXhD+QFihBVml4GUuVvHagXMnKDWycGNHz5uJC+i8SOYoAxIay00F0NLEts5T9ds96zJQm374yn9+iHAK9xFHVUS4AzkEH/7Z4W8TTcZme35PZghLZP4TuzeHHgECtyj6cbiwUS7N1BuhRqIXt1js5GsaMljOnpF9AgUhK/ur9/xCd+fT9JbGXqDQ3ERdxeRGdAwzLLvZK4cCUCATxleGoT6uEek3VCUWE56XwQViiRrqoXQgFYl/yCYoklsh+FxY=;bWl6J+eShZmSMR4cpNlu3w=="
 ---
 

@@ -175,14 +175,19 @@ related:
         height: 400
         isCached: true
   - title: "Global Artificial Intelligence in Healthcare: Deals and Agreements by Leading Players From 2010-2021 - ResearchAndMarkets.com"
-    excerpt: "Partnering Terms and Agreements 2010 to 2021\" report has been added to ResearchAndMarkets.com's offering. The Global Artificial Intelligence (AI) Partnering Terms and Agreements 2010 to 2021 report provides an understanding and access to the artificial intelligence partnering deals and agreements entered into by the world's leading healthcare companies."
-    publishedDateTime: 2021-06-28T11:53:00Z
-    webUrl: "https://www.morningstar.com/news/business-wire/20210628005698/global-artificial-intelligence-in-healthcare-deals-and-agreements-by-leading-players-from-2010-2021-researchandmarketscom"
+    excerpt: "Partnering Terms and Agreements 2010 to 2021” report has been added to ResearchAndMarkets.com’s offering. The Global Artificial Intelligence (AI) Partnering Terms and Agreements 2010 to 2021 report provides an understanding and access to the artificial intelligence partnering deals and agreements entered into by the world’s leading healthcare companies."
+    publishedDateTime: 2021-06-28T16:53:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/artificial-intelligence-business-technology-c8cf1d7a3c1e49999f2dbe3d728e684e"
     type: article
     provider:
-      name: Morningstar, Inc.
-      domain: morningstar.com
-    quality: 7
+      name: Associated Press
+      domain: apnews.com
+    quality: 27
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
 secured: "rqauiccAU00UxiUhnrOu00iS9cmbDkY26DCWvOEVyoiDGsh1xdX1IJnx4QJyfZiJwzatMK1M1DO8j6weZiIgytqvAZjwHJugYpK4/tGEqr2OVuxngl3Brw1A6H1gsH+1uWZYd/ugP9szo+EgDSR/jAIN0/Tz7mhJMCma0Np5UJg0C8Oy/BlAh1K13R90B4tWuse8wzMZVA3B8aFBfDw2o9sn1FT9H1kJeiWzET/c2XffvI54VELuYEn2Eh3P4JS5IyLMGrGcMhCO3hOn11kn8IWaNsrYNklVR29sLilFBnb8yraywof9xym2OI9xAvVdnCOAaLK4MHrY7FfZWtGqOXJiJMgqrFrJVmjP5qFbf2cBBeseJIwuYQRlRBdH7ad0F6f9uzZWgwFK2WJ7zSzubO8ZO8rDWDQFmuFg3+HFVAqVTU6JwoX05+FAE4D7vW+DpjvYfbsrBsItf9CoDANWAhpTaxKErQbup6IUpb8/Sah4VC956jGdY0GFnaJxtNmHV8+YZym4YlO4YP/vW0JoTA==;TVVIjhJHZQkbX4t96c53JQ=="
 ---

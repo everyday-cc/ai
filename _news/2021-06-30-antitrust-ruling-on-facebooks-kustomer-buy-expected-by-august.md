@@ -43,22 +43,6 @@ related:
         width: 457
         height: 274
         isCached: true
-  - title: "Facebook Hits $1 Trillion Market Cap"
-    excerpt: "Facebook has closed above $1 trillion in the market for the first time ever, making it the fifth company to do so after Apple, Microsoft, Amazon and Alphabet."
-    publishedDateTime: 2021-06-29T02:21:00Z
-    webUrl: "https://www.pymnts.com/facebook/2021/facebook-hits-1-trillion-dollar-market-cap/"
-    ampWebUrl: "https://www.pymnts.com/facebook/2021/facebook-hits-1-trillion-dollar-market-cap/amp/"
-    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/facebook/2021/facebook-hits-1-trillion-dollar-market-cap/amp/"
-    type: article
-    provider:
-      name: pymnts.com
-      domain: pymnts.com
-    quality: 44
-    images:
-      - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/06/facebook-3-457x274.jpg"
-        width: 457
-        height: 274
-        isCached: true
   - title: "Big Tech Compliance Tracker: FTC, State Antitrust Suits Against Facebook Dismissed By US Court; Antitrust Regulations Progress In Congress"
     excerpt: "The Federal Trade Commission ’s antitrust suit against Facebook, along with a parallel case by 48 attorneys generals, was dismissed by a U.S. court on Monday (June 28), CNBC reported. The FTC filed suit against Facebook in late 2020,"
     publishedDateTime: 2021-06-28T21:59:00Z

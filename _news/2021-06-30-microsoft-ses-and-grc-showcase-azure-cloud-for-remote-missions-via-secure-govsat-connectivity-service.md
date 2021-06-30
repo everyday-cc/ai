@@ -86,6 +86,20 @@ related:
       name: Finanztreff
       domain: finanztreff.de
     quality: 42
+  - title: "AT&T to run its mobility network on Microsoft’s Azure for Operators cloud, delivering cost-efficient 5G services at scale"
+    excerpt: "AT&T to run its mobility network on Microsoft’s Azure for Operators cloud, delivering cost-efficient 5G services at scale DALLAS and REDMOND, Wash., June 30, 2021 /PRNewswire/ -- AT&T will move its 5G mobile network to the Microsoft cloud."
+    publishedDateTime: 2021-06-30T15:14:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-86842df143e2d4a16f1a97b01b7f5657"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 29
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
 secured: "Lv+ddt5ouw6Q1njgr73DLjzcYCJAGDR9NRklE8dZOVMzNIf5XkLIoPLv1CFyzMrhyc5a0mNCwH//O2JAXzABg+H4t4SFFBn/DsRazLkekfMIhyJH0fubhTkDAahNUk1PYrEZvMLfNWbm4FTww+770QEITvK+k875rQZmYvNyyjzNT66duCTa+yvYApyjIk2RS3TLJugZ4FRZPuayRQtzw3/CbwEuNYpZm90DinAgxrEYYRRnkN0Pre8BGCbUA8AO3G0fxBwkFtNYoolw5QOJ8Z2ExiNFCyhmmIMCsiVFRIoontfnz8p8wQ9Pa8nm9DMQUrFHlfkkxeK0ATCZgG8z3cis8AQ5hbmhun6/HWHT4IJlDikenuGe/Xo79NJ+FA1Qt/RIswh34JaCkcNSTk2/SKys+A7ZFhzThzRxTmfAu1U13IUf9onG8Y9lpA+YLbYXLdBC53BdBYl4cxLA3esVNFxDVYeo6lq1HjJE0TiWQeW1270P856QOpjxLiFFdWBzXz0QTQDPQ+ce7Lp1RVew+w==;ppx0BoAWi950efsld4B9eA=="
 ---

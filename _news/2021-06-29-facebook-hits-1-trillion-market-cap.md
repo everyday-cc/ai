@@ -27,53 +27,67 @@ images:
     isCached: true
 
 related:
-  - title: "Federal Judge Dismisses FTC Antitrust Complaint Against Facebook"
-    excerpt: "A federal court on Monday (June 28) dismissed a Federal Trade Commission (FTC) antitrust complaint against Facebook."
-    publishedDateTime: 2021-06-28T20:33:00Z
-    webUrl: "https://www.pymnts.com/legal/2021/federal-judge-dismisses-ftc-antitrust-complaint-against-facebook/"
-    ampWebUrl: "https://www.pymnts.com/legal/2021/federal-judge-dismisses-ftc-antitrust-complaint-against-facebook/amp/"
-    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/legal/2021/federal-judge-dismisses-ftc-antitrust-complaint-against-facebook/amp/"
+  - title: "Facebook updates Habitat environment to train ’embodied AI’"
+    excerpt: "Facebook today announced Habitat 2.0, an updated version of its simulation environment, alongside new datasets and benchmarks."
+    publishedDateTime: 2021-06-30T14:30:00Z
+    webUrl: "https://venturebeat.com/2021/06/30/facebook-updates-habitat-environment-to-train-embodied-ai/"
+    ampWebUrl: "https://venturebeat.com/2021/06/30/facebook-updates-habitat-environment-to-train-embodied-ai/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/30/facebook-updates-habitat-environment-to-train-embodied-ai/amp/"
     type: article
     provider:
-      name: pymnts.com
-      domain: pymnts.com
-    quality: 59
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 91
     images:
-      - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/06/court-FTC-Facebook-complaint-457x274.jpg"
-        width: 457
-        height: 274
+      - url: "https://venturebeat.com/wp-content/uploads/2020/08/facebook-dark-background.jpg?w=1200&strip=all"
+        width: 1200
+        height: 600
         isCached: true
-  - title: "Antitrust Ruling On Facebook's Kustomer Buy Expected By August"
-    excerpt: "Facebook's fate in terms of its acquisition of U.S. customer service startup Kustomer will be decided by antitrust officials soon, U.S. News reports. The deal was intended to help scale up the social media company's WhatsApp,"
-    publishedDateTime: 2021-06-30T02:08:00Z
-    webUrl: "https://www.pymnts.com/facebook/2021/antitrust-ruling-on-facebooks-kustomer-buy-expected-by-august/"
-    ampWebUrl: "https://www.pymnts.com/facebook/2021/antitrust-ruling-on-facebooks-kustomer-buy-expected-by-august/amp/"
-    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/facebook/2021/antitrust-ruling-on-facebooks-kustomer-buy-expected-by-august/amp/"
+  - title: "How Facebook's AI is training home robots to tackle the chores you hate"
+    excerpt: "One of those projects involves training robots to navigate home environments to better serve us, their future owners, and perform the chores we find most loathsome. Back in 2019, Facebook released AI Habitat,"
+    publishedDateTime: 2021-06-30T14:52:00Z
+    webUrl: "https://www.cnet.com/news/how-facebooks-ai-is-training-home-robots-to-tackle-the-chores-you-hate/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/how-facebooks-ai-is-training-home-robots-to-tackle-the-chores-you-hate/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/how-facebooks-ai-is-training-home-robots-to-tackle-the-chores-you-hate/"
     type: article
     provider:
-      name: pymnts.com
-      domain: pymnts.com
-    quality: 44
+      name: CNET
+      domain: cnet.com
+    quality: 89
     images:
-      - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/06/facebook-4-457x274.jpg"
-        width: 457
-        height: 274
+      - url: "https://www.cnet.com/a/img/BBft-ne9ESy8i7jcKxOE3_x5Y9M=/1200x630/2021/06/30/1ab793c0-0efb-48e1-a625-b8d434472c90/screenshot-2021-06-30-at-15-17-04.png"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "Big Tech Compliance Tracker: FTC, State Antitrust Suits Against Facebook Dismissed By US Court; Antitrust Regulations Progress In Congress"
-    excerpt: "The Federal Trade Commission ’s antitrust suit against Facebook, along with a parallel case by 48 attorneys generals, was dismissed by a U.S. court on Monday (June 28), CNBC reported. The FTC filed suit against Facebook in late 2020,"
-    publishedDateTime: 2021-06-28T21:59:00Z
-    webUrl: "https://www.pymnts.com/news/regulation/2021/big-tech-compliance-tracker-ftc-state-antitrust-suits-against-facebook-dismissed-by-us-court/"
-    ampWebUrl: "https://www.pymnts.com/news/regulation/2021/big-tech-compliance-tracker-ftc-state-antitrust-suits-against-facebook-dismissed-by-us-court/amp/"
-    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/regulation/2021/big-tech-compliance-tracker-ftc-state-antitrust-suits-against-facebook-dismissed-by-us-court/amp/"
+  - title: "Facebook and Matterport collaborate on realistic virtual training environments for AI"
+    excerpt: "To train a robot to navigate a house, you either need to give it a lot of real time in a lot of real houses, or a lot of virtual time in a lot of virtual houses. The latter is definitely the better option,"
+    publishedDateTime: 2021-06-30T14:31:00Z
+    webUrl: "https://techcrunch.com/2021/06/30/facebook-and-matterport-collaborate-on-realistic-virtual-training-environments-for-ai/"
+    ampWebUrl: "https://techcrunch.com/2021/06/30/facebook-and-matterport-collaborate-on-realistic-virtual-training-environments-for-ai/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/06/30/facebook-and-matterport-collaborate-on-realistic-virtual-training-environments-for-ai/amp/"
     type: article
     provider:
-      name: pymnts.com
-      domain: pymnts.com
-    quality: 25
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 84
     images:
-      - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/06/Big-Tech-Facebook-FTC-Google-457x274.jpg"
-        width: 457
-        height: 274
+      - url: "https://techcrunch.com/wp-content/uploads/2021/06/matterport-hm3d.gif"
+        width: 800
+        height: 460
+        isCached: true
+  - title: "Facebook makes its Habitat virtual world AI training environment more interactive"
+    excerpt: "Facebook Inc.’s artificial intelligence research department today announced a major update to its AI Habitat simulator, a virtual environment that’s used to teach robots how to interact with the physical world."
+    publishedDateTime: 2021-06-30T14:30:00Z
+    webUrl: "https://siliconangle.com/2021/06/30/facebook-makes-habitat-virtual-world-ai-training-environment-interactive/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 34
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/06/habitat-2.0.png"
+        width: 1416
+        height: 793
         isCached: true
 
 secured: "cBMH8rfmO2W+5ytpxdJSRvq37k327T4HBHyjiCCpj6Q6IPx0ltC6cmEMxJ7H6gtMM0ZgQVSR8PGcUacynQ5qobglF+L464ZmmVamObmbP6TQkSM5rGU79M+tq4S+54nNkfvdXMtH8MEtQ7VdPL8M+gQuYBvs0gbyDinY+NR9ljxdH68+i7xF+NJwznAeRewKTXTujLNkkoNOxhkB/e0Yw7nAS4b+Q0/djHYR07l//EBlA4ef6IvyHbu2HNNc6XXFCiLF+RugJ87jEMwxhrSSFDMsoakbxYM7YR//dNIFxfLla9Vv/Oj6eq1Vv/Pcu5KS5ZQQk2RR4tEaz+vJqyoID1iHxoUzkWoGaTFsxKUXXWNGyR1sO+lg/3JPM3/KKZ/YRlMvS4ff7MkeTU00n1ZaQOm3fMSjV/2NvVZiNs8W2IvBE6hrp5uAjA9uXZfP/NVV5jEAB7bvoSeJ/c5EK1w/4qPrlUootvfrQprpfQNSts9xq4Z+nb82L7I3vmgBItO92ye2i5lBDtECEm8IXED0Tw==;ZVFFMAqMhMRJCg+j0P3o1g=="

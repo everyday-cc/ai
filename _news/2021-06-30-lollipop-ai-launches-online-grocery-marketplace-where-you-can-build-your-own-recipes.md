@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2021/06/29/lollipop-ai-launches-online-grocer
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/06/29/lollipop-ai-launches-online-grocery-marketplace-where-you-can-build-your-own-recipes/amp/"
 type: article
 quality: 80
-heat: 80
+heat: 81
 published: true
 
 provider:

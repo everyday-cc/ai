@@ -36,20 +36,6 @@ related:
         width: 600
         height: 338
         isCached: true
-  - title: "Neurala Raises $12 Million to Scale Artificial Intelligence for Industrial Manufacturing"
-    excerpt: "New funding will accelerate the development and commercialization of easy-to-use AI for industrial quality inspections."
-    publishedDateTime: 2021-06-25T21:25:00Z
-    webUrl: "https://www.automation.com/en-us/articles/june-2021/neurala-raises-12-million-artificial-intelligence"
-    type: article
-    provider:
-      name: Automation
-      domain: automation.com
-    quality: 43
-    images:
-      - url: "https://www.automation.com/getmedia/7ae382b3-1e70-4eed-ba57-a78747a30d60/Neurala-news-June-25-2021-web.png?width=500&height=313&ext=.png"
-        width: 500
-        height: 313
-        isCached: true
   - title: "Chennai Based AI Startup Detect Technologies Raises $12Mn"
     excerpt: "The startup is on a mission to re-engineer and automate industrial processes, deliver maximum and sustained industrial productivity, and accelerate the path to Industry 4.0."
     publishedDateTime: 2021-06-30T10:52:00Z

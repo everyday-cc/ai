@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-05-20-how-ai-is-reimagining-the-customer-experience.md",
+      "title": "How AI Is Reimagining the Customer Experience",
+      "excerpt": "Customers know that AI-driven tools exist for personalizing the experience because they encounter the technology everywhere they go online: Amazon, Netflix, Spotify, etc. Fortunately, organizations of all sizes can use AI-driven tools to power their customer experience and compete in the big leagues.",
+      "sourceUrl": null,
+      "webUrl": "https://www.destinationcrm.com/Articles/ReadArticle.aspx?ArticleID=146990",
+      "originalUrl": "https://www.destinationcrm.com/Articles/ReadArticle.aspx?ArticleID=146990",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://dzceab466r34n.cloudfront.net/Images/ArticleImages/119731-viewpoints-digitalhandshake-ORG.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-19T21:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Destination CRM",
+        "domain": "destinationcrm.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-19-ai-in-fashion-market-research-2021-report-growth-forecast-to-2027-ibm-google-facebook-aws-sap.md",
       "title": "Ai In Fashion Market Research 2021 Report | Growth Forecast to 2027 IBM, Google, Facebook, AWS, SAP",
       "excerpt": "Ai In Fashion Market is growing at a 40.80% CAGR during the forecast period 2021-2027. The increasing interest of the individuals in this industry is that the major reason for the expansion of this market”.",

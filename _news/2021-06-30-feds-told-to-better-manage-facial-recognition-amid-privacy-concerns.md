@@ -41,6 +41,22 @@ related:
         width: 1130
         height: 756
         isCached: true
+  - title: "US agencies must track which facial recognition systems they use, report says"
+    excerpt: "Several federal agencies don't know which systems their employees use, according to the Government Accountability Office."
+    publishedDateTime: 2021-06-30T13:52:00Z
+    webUrl: "https://www.cnet.com/news/us-agencies-must-track-which-facial-recognition-systems-they-use-report-says/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/us-agencies-must-track-which-facial-recognition-systems-they-use-report-says/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/us-agencies-must-track-which-facial-recognition-systems-they-use-report-says/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 86
+    images:
+      - url: "https://www.cnet.com/a/img/gwmoAi0S4eDXJo6Rbg_tTnsJSgc=/1200x630/2020/05/01/bff6e427-0240-4ffd-bfbb-40db6bab6b46/security-facial-recognition-contact-tracing.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Feds now using facial recognition at airport immigration"
     excerpt: "When travelers arrive at (the Guam airport) on an international flight, they will pause for a photo at the primary inspection point.\""
     publishedDateTime: 2021-06-28T05:32:00Z
@@ -78,6 +94,6 @@ related:
       domain: reportsnreports.com
     quality: 2
 
-secured: "HPETQrsToXxAP2IeNLMoGeUX3JbTZbnLvVWDjf4cNzAVnpt+3VYvYs3sZTzCFHdbU/Lbt7Ti/D1uik9PWsPTp/4v58piG85gAvg0l2D0nEDARrKEIte+yBsvlhTZ0YqmitgZpBW0RrCsDrD4L0vvGQWds3734cE1kDDp2qflTgOdpIlKN3+pjASJYo/Ok4NHNxILSdjosSjyc5XJRHvbQfTtsToogNJLWc3eY5Kq0amaydlMUxAMOQ12ezjQF1LMcVGUEf/9dTWCLvJHvMl8CRvxdYLI4pGMURaYIqBvTQgaaB8JNtvtAOolk6wKMxkM7CKouVesEdvDY0LqzIbygewZwWBxX1aCbBosvNKaIhM=;dFVDMuoqYxrLOfu1BXbIkw=="
+secured: "CaZPoovHytcq0RzmL7TcTMSqfCsILkLPW1m94bjCTwRPsklF4s4FOjy3GDMxjVITNZXp/YySTd7Nve+E1T4DMfv1cr2JHZrrtRqqB1WFJn25OZ3dhUeh4qYoEDbTQO/Eyvm2FvUy9LCVHUWjCB3fXGwmhIUopuX+mopu2yZY0ZPokwyrU8cIdOalMwFsgLXSC0rv18po5ioWU9tdYZXk87UvsZS5i0+UjZlyJMU5WaNL4MGBDMyzdIopvHM2gno/dCRRi3dWOtLim6wi9tLpC0IeKx68f9tDpDLDmW9ozfB431ADuFt9BwymANXkmOK3Cv+A2nmaJEU/09sREkWE30KpJtwJyAa+L1nWM6YqB9bwyXjblK1MdJlxzT8fJnSoMaa55Roy5KDkaa8RgNuo31LPryN58tOcUrcvWkfI25Ma1nqwjwQPjODyjsYOxcu3rUqzSHbi/4IcjFTZUl56HotUaiZmMLFAWkXLiipu8wOMkjNzMUesJWajw5FVB2qZwNMXlEZGpnFzHAHQQ1+ptQ==;LcueFGaujJma2EEm3xElpQ=="
 ---
 

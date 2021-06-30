@@ -1,27 +1,26 @@
 ---
 category: news
 title: "'Edge of chaos' opens pathway to artificial intelligence discoveries"
-excerpt: "Some neuroscience theories suggest the human brain operates best 'at the edge of chaos'. Now scientists in Australia and Japan have found that keeping a nanowire network at the edge of becoming chaotic is the best state for it to produce useful signals to solve problems."
-publishedDateTime: 2021-06-29T04:00:00Z
-originalUrl: "https://www.eurekalert.org/pub_releases/2021-06/uos-oc062721.php"
-webUrl: "https://www.eurekalert.org/pub_releases/2021-06/uos-oc062721.php"
+excerpt: "Some neuroscience theories suggest the human brain operates best 'at the edge of chaos'. Now scientists have found that keeping a nanowire network at the edge of becoming chaotic is the best state for it to produce useful signals to solve problems."
+publishedDateTime: 2021-06-29T16:14:00Z
+originalUrl: "https://www.sciencedaily.com/releases/2021/06/210629101157.htm"
+webUrl: "https://www.sciencedaily.com/releases/2021/06/210629101157.htm"
 type: article
-quality: 37
+quality: 49
 heat: -1
 published: false
 
 provider:
-  name: EurekAlert!
-  domain: eurekalert.org
+  name: Science Daily
+  domain: sciencedaily.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
+  - Machine Learning
   - AI
-
-images:
-  - url: "https://www.eurekalert.org/multimedia/pub/web/269158_web.jpg"
-    width: 1440
-    height: 1009
-    isCached: true
 
 related:
   - title: "Edge Of Chaos Leverages Nanowire Pathways For Brain-Like Skynet Artificial Intelligence"
@@ -40,7 +39,23 @@ related:
         width: 708
         height: 443
         isCached: true
+  - title: "Artificial Network of Nanowires can be Tuned to Respond Like the Brain"
+    excerpt: "Researchers from the University of Sydney and the National Institute for Material Science (NIMS) in Japan have identified an artificial network of nanowires that can be adjusted to react in a brain-like manner upon electrical stimulation."
+    publishedDateTime: 2021-06-30T15:20:00Z
+    webUrl: "https://www.azonano.com/news.aspx?newsID=38055"
+    ampWebUrl: "https://www.azonano.com/amp/news.aspx?newsID=38055"
+    cdnAmpWebUrl: "https://www-azonano-com.cdn.ampproject.org/c/s/www.azonano.com/amp/news.aspx?newsID=38055"
+    type: article
+    provider:
+      name: AZoNano
+      domain: azonano.com
+    quality: 59
+    images:
+      - url: "https://d1otjdv2bf0507.cloudfront.net/images/news/ImageForNews_38055_16250552143377923.jpg"
+        width: 514
+        height: 225
+        isCached: true
 
-secured: "Aou1zQ1rb4mwlcX8SHokjIYHFCKqArgEsYxOha9yb1Key4CI050FSiLPpquehVDIfxuH34B+o5LOjB4Cce4rryW5QvwJX8n04SAR9QNjtrB7AwmvqX8THdVVxlD8nI1KJjdJvy6qO0JcZSeCFRtRXz1izHLr2Z1wynKzQVaGoE1I7bmhGRnqUVFDbvsu6i+7xlqJ3j0clXBofCN93Phs5TG0m30PuJ3J7dELoKwo2Kas0sjechdqKAQw0ruE0hfdbEljKieS3GAk91xrr0gx5AR6e4dAoVNNtRCz2EmrY6NRwY96OdffpoY+OxGl3Xv2S01Bfuc2yMu8b4NfaMx4+ixZRRsfiBQcleGhZAyRjqA=;3U4TQwx5jnYYSETEui5e2g=="
+secured: "oEUWnvd9+2o9TQIm/UsxxiVmZQL+5JTk+1bLfr4i2uy32B3cm+jltedAIhSTfunc5hLGaXxcAQcnTSj68c7NXad6ljXdL2j88wAfHSIzcFSa1O3lVPVQKvgwKXF6Ufj47CUHX2D5H8x6YPEdvobzn7efGRNi7CBfnS/VtwQuS+f1uUpvPKbQx6LEtIC0ggavBwWRK7rEzOf5dY8L26yD0oFYM9p+cxp9YWRW6SHt+Cav7PymZiPTQRWjJTuORJMltrV/67Z+K5K8EJ64aAbQnNEORamEaSW/pILyKcbLeSrWt8HE8YOBIpNiJfNKMgI7EeIplVPClHjqMuKYUotOzQHq6UgoasOEzsbZll4sVE0=;dHbUjJKNymhtO7T6AqG4dQ=="
 ---
 

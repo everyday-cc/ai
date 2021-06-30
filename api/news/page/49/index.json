@@ -2,6 +2,108 @@
   "page": 49,
   "value": [
     {
+      "path": "_news/2021-05-25-creating-impact-with-ai-doing-well-by-doing-good.md",
+      "title": "Creating Impact With AI: Doing Well By Doing Good",
+      "excerpt": "From pandemic prevention and fighting cancer, to fighting hunger, wildlife conservation and boosting accessibility, this article will explore exactly how AI is doing well by doing good.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/markminevich/2021/05/24/creating-impact-with-ai-doing-well-by-doing-good/",
+      "originalUrl": "https://www.forbes.com/sites/markminevich/2021/05/24/creating-impact-with-ai-doing-well-by-doing-good/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60ac1169057baa980eb5b648%2F0x0.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/markminevich/2021/05/24/creating-impact-with-ai-doing-well-by-doing-good/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/markminevich/2021/05/24/creating-impact-with-ai-doing-well-by-doing-good/amp/",
+      "publishedDateTime": "2021-05-24T14:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-25-ai-e-discovery-company-reveal-taps-gibson-dunn-legal-tech-vet-for-c-suite.md",
+      "title": "AI e-discovery company Reveal taps Gibson Dunn, legal tech vet for C-Suite",
+      "excerpt": "Reveal-Brainspace, which provides an artificial intelligence-enabled electronic discovery platform, has looked to legal technology company DISCO for its latest hire.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/us-legalinnovation-reveal-hire-idUSKCN2D525D",
+      "originalUrl": "https://www.reuters.com/article/us-legalinnovation-reveal-hire-idUSKCN2D525D",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20210524&t=2&i=1563260198&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEH4N14T",
+          "width": 819,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKCN2D525D",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN2D525D",
+      "publishedDateTime": "2021-05-24T13:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-25-flush-with-42m-hot-ai-startup-faculty-plans-to-hoover-up-more-phds-and-steer-clear-of-politics.md",
       "title": "Flush with $42M, hot AI startup Faculty plans to hoover-up more PhDs… and steer clear of politics",
       "excerpt": "In the wake of the news that UK-based AI startup Faculty has raised $42.5 million in a growth funding round, I teased out more from CEO and co-founder Marc Warner on what his plans are for the company.",
@@ -1080,102 +1182,6 @@
       "topics": [
         "Microsoft AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-24-what-are-the-applications-of-cognitive-computing-market.md",
-      "title": "What are the applications of Cognitive Computing Market?",
-      "excerpt": "Cognitive computing is a technology platform, which is based on the scientific disciplines of signal processing and artificial intelligence. These platforms are comprised of natural language ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2289105/what-are-the-applications-of-cognitive-computing-market",
-      "originalUrl": "https://www.openpr.com/news/2289105/what-are-the-applications-of-cognitive-computing-market",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.openpr.com/U/5/U524835834_g.jpg",
-          "width": 800,
-          "height": 761,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2289105/what-are-the-applications-of-cognitive-computing-market",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2289105/what-are-the-applications-of-cognitive-computing-market",
-      "publishedDateTime": "2021-05-24T02:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-24-baker-mckenzie-creates-data-and-machine-learning-team-deepening-ai-partnership.md",
-      "title": "Baker McKenzie creates data and machine learning team, deepening AI partnership",
-      "excerpt": "Building on a pilot partnership with an artificial intelligence company it launched last year, Baker McKenzie is upping its bet that machine ... serves the financial services, insurance ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/business/legal/baker-mckenzie-creates-data-machine-learning-team-deepening-ai-partnership-2021-05-24/",
-      "originalUrl": "https://www.reuters.com/business/legal/baker-mckenzie-creates-data-machine-learning-team-deepening-ai-partnership-2021-05-24/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.reuters.com/resizer/1rAibnhqhVmUcFul2i3Rclr3ogM=/800x419/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/XFDX2GJXD5HDFEGRW65ZP5WGP4.jpg",
-          "width": 800,
-          "height": 419,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-24T02:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

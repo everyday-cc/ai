@@ -37,6 +37,22 @@ related:
         width: 1130
         height: 756
         isCached: true
+  - title: "US agencies must track which facial recognition systems they use, report says"
+    excerpt: "Several federal agencies don't know which systems their employees use, according to the Government Accountability Office."
+    publishedDateTime: 2021-06-30T13:52:00Z
+    webUrl: "https://www.cnet.com/news/us-agencies-must-track-which-facial-recognition-systems-they-use-report-says/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/us-agencies-must-track-which-facial-recognition-systems-they-use-report-says/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/us-agencies-must-track-which-facial-recognition-systems-they-use-report-says/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 86
+    images:
+      - url: "https://www.cnet.com/a/img/gwmoAi0S4eDXJo6Rbg_tTnsJSgc=/1200x630/2020/05/01/bff6e427-0240-4ffd-bfbb-40db6bab6b46/security-facial-recognition-contact-tracing.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Feds now using facial recognition at airport immigration"
     excerpt: "When travelers arrive at (the Guam airport) on an international flight, they will pause for a photo at the primary inspection point.\""
     publishedDateTime: 2021-06-28T05:32:00Z

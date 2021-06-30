@@ -18,6 +18,17 @@ topics:
   - AWS AI
   - AI
 
+related:
+  - title: "Over 40% of IT Decision Makers Believe Their Current Data Architectures Won’t Meet Future Model Inferencing Challenges"
+    excerpt: "New research looks at the challenges keeping decision-makers from their desired transformation when deploying ML to create AI applications."
+    publishedDateTime: 2021-06-29T17:00:00Z
+    webUrl: "https://www.businesswire.com/news/home/20210629005452/en/Over-40-of-IT-Decision-Makers-Believe-Their-Current-Data-Architectures-Won’t-Meet-Future-Model-Inferencing-Challenges"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 0
+
 secured: "HjSnC+0MTliHY/QxuPyZwUfILWlRGxOhRp6rgVRQlEghgNKaq/uvCmVMLXub8lAmzb6MXz9kqaP5S5FtNaWKgakB0NQTunTIG0lYyCli1Y7hD2wPclJD6HdZT5r0EULV6CD2Ljqcrp4JvZTreqLdN65W5HEpt4ky8ozsiBC9V43DR8/oltBxOp7IlllMKMhzWhmIsnwd8guhEKOBIYoNGtg4L+BEnMqKIeZCxSCauXJRI+JeTayVKuqIlHF6/Vflh2C8a4+CyboGJJ8QpzsZXGEz8/YMYOZJB41DxdpvyBqkHbuk5IgoxnK3ERB/B6jvNeL55sKd1x68yPTYTZ7inqDMsZbfBZbcSChcUmrYKIA=;5D7m1DsCkukEIScRF3R4XQ=="
 ---
 

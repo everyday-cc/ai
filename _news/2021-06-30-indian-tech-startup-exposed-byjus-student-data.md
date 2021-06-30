@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2021/06/29/india-startup-byju-student-data/am
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/06/29/india-startup-byju-student-data/amp/"
 type: article
 quality: 72
-heat: 72
+heat: 73
 published: true
 
 provider:

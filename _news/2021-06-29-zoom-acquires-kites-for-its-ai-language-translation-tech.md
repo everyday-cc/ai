@@ -73,6 +73,22 @@ related:
         width: 1400
         height: 933
         isCached: true
+  - title: "Zoom to acquire real-time translation startup Kites"
+    excerpt: "Zoom on Tuesday said it has signed a deal to acquire Kites, and AI startup focused on developing real-time translation tools. \"We are continuously looking for new ways to deliver happiness to our users and improve meeting productivity,"
+    publishedDateTime: 2021-06-30T15:31:00Z
+    webUrl: "https://www.cnet.com/news/zoom-to-acquire-real-time-translation-startup-kites/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/zoom-to-acquire-real-time-translation-startup-kites/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/zoom-to-acquire-real-time-translation-startup-kites/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 74
+    images:
+      - url: "https://www.cnet.com/a/img/Ms_zrkY2ZfQJR7X57i9S6le1_AE=/1200x630/2020/06/29/e721e8fc-6c98-4378-878b-5b350754a3fc/zoom-logo-apple-iphone-11-3436.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Zoom acquires AI company Kites that develops real-time translation"
     excerpt: "Zoom has announced that it is acquiring a company known as Kites (short for Karlsruhe Information Technology Solutions) to \"make collaboration frictionless.\""
     publishedDateTime: 2021-06-30T10:04:00Z
@@ -86,6 +102,22 @@ related:
     quality: 59
     images:
       - url: "https://assets.thehansindia.com/h-upload/2021/06/30/1085331-zoom.jpg"
+        width: 1000
+        height: 600
+        isCached: true
+  - title: "Zoom acquires Kites, an AI company building real-time translation"
+    excerpt: "Kites was founded in 2015 in Germany to help professors and students understand lectures in the German language. Although Zoom already has an option for real-time translation, the feature solely is for people speaking English. Zoom’s capital rose up by ..."
+    publishedDateTime: 2021-06-30T15:33:00Z
+    webUrl: "https://www.vertexreport.com/2021/06/zoom-acquires-kites-an-ai-company-building-real-time-translation/"
+    ampWebUrl: "https://www.vertexreport.com/2021/06/zoom-acquires-kites-an-ai-company-building-real-time-translation/amp/"
+    cdnAmpWebUrl: "https://www-vertexreport-com.cdn.ampproject.org/c/s/www.vertexreport.com/2021/06/zoom-acquires-kites-an-ai-company-building-real-time-translation/amp/"
+    type: article
+    provider:
+      name: vertexreport.com
+      domain: vertexreport.com
+    quality: 59
+    images:
+      - url: "https://mlg9p6pktez3.i.optimole.com/ougAwfI.Bokw~29113/w:1000/h:600/q:90/rt:fill/g:ce/https://www.vertexreport.com/wp-content/uploads/2021/05/Zoom.jpg"
         width: 1000
         height: 600
         isCached: true
@@ -105,6 +137,17 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Zoom (ZM) to Acquire Real-Time Translation Specialist Kites"
+    excerpt: "Zoom Video ZM recently announced that the company has entered into a definitive agreement to acquire Karlsruhe Information Technology Solutions - Kites, GmbH, a start-up specializing in real-time machine translation."
+    publishedDateTime: 2021-06-30T14:15:00Z
+    webUrl: "https://www.nasdaq.com/articles/zoom-zm-to-acquire-real-time-translation-specialist-kites-2021-06-30"
+    ampWebUrl: "https://www.nasdaq.com/articles/zoom-zm-to-acquire-real-time-translation-specialist-kites-2021-06-30?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/zoom-zm-to-acquire-real-time-translation-specialist-kites-2021-06-30?amp"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 54
   - title: "Zoom to Offer Real-Time Translation for Video Calls After Buying Startup"
     excerpt: "Zoom is looking to one day offer real-time translation for video calls spoken in other languages. The company will do so by buying a German startup called Kites, which has been developing AI -powered algorithms to “machine translate” other languages in real-time."
     publishedDateTime: 2021-06-29T17:08:00Z

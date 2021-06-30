@@ -42,6 +42,24 @@ related:
         width: 450
         height: 300
         isCached: true
+  - title: "AI Image Recognition – Market Boosting the Growth Worldwide: Google, Microsoft, IBM"
+    excerpt: "Advance Market Analytics published a new research publication on “AI Image Recognition Market Insights, to 2026″ with 232 pages and enriched with self-explained Tables and charts in presentable format."
+    publishedDateTime: 2021-06-30T15:18:00Z
+    webUrl: "https://manometcurrent.com/ai-image-recognition-market-boosting-the-growth-worldwide-google-microsoft-ibm/"
+    type: article
+    provider:
+      name: manometcurrent.com
+      domain: manometcurrent.com
+    quality: 30
+  - title: "Artificial Intelligence in IoT Market Size and Growth 2021-2028 | Top Leading Players – IBM, Microsoft, Google, PTC, AWS, Oracle, GE, Salesforce"
+    excerpt: "The report titled Artificial Intelligence in IoT Market is a comprehensive document containing valuable insights into market elements such as drivers, restraints, competitive landscape, and technology development."
+    publishedDateTime: 2021-06-30T06:03:00Z
+    webUrl: "https://manometcurrent.com/artificial-intelligence-in-iot-market-size-and-growth-2021-2028-top-leading-players-ibm-microsoft-google-ptc-aws-oracle-ge-salesforce/"
+    type: article
+    provider:
+      name: manometcurrent.com
+      domain: manometcurrent.com
+    quality: 14
 
 secured: "cgO/Z4bQLF3fMEnaVHRTYpRNPrR3DbA/X9BUDTgrTNGMG24pmzYlm1PhtDYBMzeJbYNB1r1j/mMX9yWhDcBL/qDODqMD+2RICm84c/SsPhMZ3a6DNtVSYoxCCLVJY0sPikvTOnqRozh+lwZ9uDPrislFqEX+9ma8PHfqfWFO5A5JBg8k7cbzAkMIXJzidC7S1XeMCVl36z/VS/34eVzO0mj3SgndtdXnnGfIuP8b9bvd1DScVvDIxmttUuOn6yxLDohtN7VQiJmz/U7m72itcCByBXxepRzKSkcGv8RruzyrIOPYFGBwsA4A/TAV27BR8rA/zFz2vmaODjWBq/z0Oh22CTwZmeHSCYnDJErJoxA=;dgE/nrt5SSS0euzoWh6j6g=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/06/30/ai-is-star
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/06/30/ai-is-starting-to-understand-us-but-how-well-do-we-understand-ai/amp/"
 type: article
 quality: 87
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -29,6 +29,22 @@ images:
     height: 800
     isCached: true
 
-secured: "uKESeczhOAZJrLhSRr0iw1YxguamTNpYR2+bm2ebqowLSW3cZJ7daMbH5wYckLj+KgeGg1C5sCXTQ61Hspusr02/IDGYYqKW8ex936S7qIPaIDVXG4JGR8REtT5eUbeFd4zsoAkwKhj/qK15WXx+eN+DA6i2Q0WjMyZP2Ql5uUn14V6IL7JG8xnyvfDq6dThud4gSfBmSdfJ7JZClHNBfe5KNlMzB8HcWP02e+twLri4wPcYST3FVf1CkDFfF9Hamg2cCo0hNDkpO5Mz4mDbZcFPVIjudocDuHjo3r10lm+/9ugmMuOfPjnAydkyGeXaBh1xpvpClIfmb2eKaDc17OQmNg/cWWoenudviEM2X6Q=;p6rFWf4uz/jlMM+S057stQ=="
+related:
+  - title: "Startup Using AI to Improve Animal Breeding"
+    excerpt: "A startup in Hancock County is using artificial intelligence technology to help livestock farmers improve their animal breeding efforts. Verility LLC has developed a device called Fertile-Eyez, which"
+    publishedDateTime: 2021-06-29T17:54:00Z
+    webUrl: "https://www.insideindianabusiness.com/story/44208575/startup-using-ai-to-improve-animal-breeding"
+    type: article
+    provider:
+      name: INside INdiana Business
+      domain: insideindianabusiness.com
+    quality: 37
+    images:
+      - url: "https://INSIDEINDIANA.images.worldnow.com/images/20962823_G.jpg?lastEditedDate=1624973444000"
+        width: 960
+        height: 540
+        isCached: true
+
+secured: "okT5/2/3brinZuCbBnYiZLZ8DFLWtAiFUugG9ti9YxTSl6jayPCMrcKL/LVk2sQho16KCOts9xh2tJ3Vpl+rOW5G/acXe+Ss/Fu3jWuFsCHa/KE5Vrz7bI0qnyBBgy/cCRnGtK3NAXjSq9e7ni6R+9HA5y6Zdh/zvHAUOhymDvDRwdDEhb2GzfJonPEpa2h6wJXOc7kvOD/tJv7isJb2+diYlAsM6wSsw9bLgyVXX+1OKtsMnl6gGVvkz/n/Umxkur1LbkvNdXG1aLgCvSz7lhLIhdpaUHX+McHPjA39q7yRZgTtaAjgjgM5Y/ijGv3PJyovlhvBxABmr4A2v3xUmJpMljPaLK2rj17WeykJjv89uIkpoIUSwsJWJsg/0j2zvbEoW4+Ggqe5kPm+UxltEshyVUILMkmNwtX4Koyq0MiVebb4a7C+yGh7lX8VlMWC9gPOL4M7j+A9pMEgt6cfmJNyS5ODZuLUiyZcgG8VI07nNdZPb/cFA6No0vbokSHtCdv46iaKExdqDT0FA8vIcw==;WYNumWZusNyF0+JTbDFLyw=="
 ---
 

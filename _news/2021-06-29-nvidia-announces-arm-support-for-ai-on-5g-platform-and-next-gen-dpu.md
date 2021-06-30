@@ -70,6 +70,20 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 67
+  - title: "Supermicro Boosts Performance for HPC and AI Applications with Optimized Servers Featuring New NVIDIA A100 80GB PCIe GPUs"
+    excerpt: "Supermicro servers, designed with a Building Block Solutions ® approach, give Supermicro a first to market advantage when incorporating new technologies. State-of-the-art accelerated computing options can be quickly integrated and tested,"
+    publishedDateTime: 2021-06-28T13:05:00Z
+    webUrl: "https://www.marketwatch.com/press-release/supermicro-boosts-performance-for-hpc-and-ai-applications-with-optimized-servers-featuring-new-nvidia-a100-80gb-pcie-gpus-2021-06-28"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 59
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Doom Eternal and Battlefield 2042 get Nvidia RTX GPU upgrades"
     excerpt: "Nvidia has announced that two big hitting games will be taking advantage of its RTX GPU enhancements. Doom Eternal has been updated to include ray tracing | Trusted Reviews"
     publishedDateTime: 2021-06-30T09:14:00Z
@@ -86,20 +100,6 @@ related:
         width: 1024
         height: 576
         isCached: true
-  - title: "Is the Next Ansel Adams Going to Be a NVIDIA GPU?"
-    excerpt: "While this view of the Tetons and Snake River, as made famous by Ansel Adam’s iconic photo, doesn’t have great resolution, there’s a reason for that. One of the biggest changes to photography might start with landscape photos just like this,"
-    publishedDateTime: 2021-06-25T22:00:00Z
-    webUrl: "https://fstoppers.com/landscapes/next-ansel-adams-going-be-nvidia-gpu-568424"
-    type: article
-    provider:
-      name: Fstoppers
-      domain: fstoppers.com
-    quality: 39
-    images:
-      - url: "https://cdn.fstoppers.com/styles/large-16-9/s3/lead/2021/06/snakecover.jpg"
-        width: 1185
-        height: 670
-        isCached: true
   - title: "Nvidia, Google Cloud to open AI-on-5G test lab"
     excerpt: "The lab will help developers build applications faster and consistently. By developing on Google Cloud, a developer benefits from access to most Telco SPs instead of building an application unique to each Telco SP."
     publishedDateTime: 2021-06-28T07:01:00Z
@@ -114,20 +114,17 @@ related:
         width: 2000
         height: 1260
         isCached: true
-  - title: "Supermicro Boosts Performance for HPC and AI Applications with Optimized Servers Featuring New NVIDIA A100 80GB PCIe GPUs"
-    excerpt: "Super Micro Computer, Inc. (Nasdaq: SMCI), a global leader in enterprise computing, storage, networking, and green computing technology, announces a wide range of Supermicro servers will support the latest NVIDIA technologies."
-    publishedDateTime: 2021-06-28T13:32:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/business-technology-2ba9182c48433cb249695ff719eaa0a5"
+  - title: "NVIDIA and Global Partners Launch New HGX A100 Systems to Accelerate Industrial AI and HPC"
+    excerpt: "NVIDIA today announced it is turbocharging the NVIDIA HGX™ AI supercomputing platform with new technologies that fuse AI with high performance computing, making supercomputing more useful to a growing number of industries."
+    publishedDateTime: 2021-06-28T07:01:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/21/06/g21738390/nvidia-and-global-partners-launch-new-hgx-a100-systems-to-accelerate-industrial-ai-and-hpc"
+    ampWebUrl: "https://www.benzinga.com/amp/content/21738390"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/21738390"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
+      name: Benzinga.com
+      domain: benzinga.com
     quality: 29
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
   - title: "NVIDIA and Partners Launch HGX A100 Systems for Industrial AI and HPC"
     excerpt: "NVIDIA today announced a revamp of its NVIDIA HGX AI supercomputing platform with new technologies that fuse AI with high performance computing, designed to make supercomputing more useful to a growing number of industries."
     publishedDateTime: 2021-06-28T21:01:00Z
@@ -146,15 +143,6 @@ related:
       name: Business Wire
       domain: businesswire.com
     quality: 20
-  - title: "NVIDIA and Global Partners Launch New HGX A100 Systems to Accelerate Industrial AI and HPC"
-    excerpt: "NVIDIA today announced it is turbocharging the NVIDIA HGX™ AI supercomputing platform with new technologies that fuse AI with high performance computing, making supercomputing more useful to a growing number of industries."
-    publishedDateTime: 2021-06-28T07:05:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-nvidia-global-partners-launch-new-hgx-a100-systems-/2021/06/28/9398376.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 9
 
 secured: "bEysU7CDkRjeu+fJwXTtQgyrUj0y5btpXL0/WMkkBnusMwQjXLiuXVI1ZWitBDPTBFhKcWBquYLxrCaD/XJxMle/3yWJDk8zdPa2VTrpBWxYoxq8vSKRtBb8w0r3hLHrjuserjuLcdNhj4kAtBB3+2Ry92naUBCBCg7Cmh9+9s1EX3RDgskfCbLfvPZFMU0Oq6fATJc9T7ftgY3rElNFrbNKo9eRY62uzRmTWYYvpryXknaJaCADDJ9WwTTLlSUJtXAayDDcaDOTHuMZYoarzJLLWiTQcN1eNI91UTD+0y7jtAmIrD3WT6ZMsD8MOVw29r6BldHvQF4GhdYtnBp8ZR3ieb3pYIMm/SjpIGMHYKgd9Mp53qZqkALKWZZ6DPQLwTzBfGwfjItSRNf5D+bB4hvsBryunhydm3DZsOFDn3gcoPp1/DIMAY4ch7HR87tati8xYPYxqQVGJYjB9aENKPPz6donCrUbw373x/HGcSoFIdh5KNQk3Mxhv3qcq0TIdIjsQqTPFrizG6XMP3zKJA==;FZ7Vsw0Z5fDfixfeJoimjg=="
 ---

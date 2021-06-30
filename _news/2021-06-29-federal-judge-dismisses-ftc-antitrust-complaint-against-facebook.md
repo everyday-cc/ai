@@ -9,7 +9,7 @@ ampWebUrl: "https://www.pymnts.com/legal/2021/federal-judge-dismisses-ftc-antitr
 cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/legal/2021/federal-judge-dismisses-ftc-antitrust-complaint-against-facebook/amp/"
 type: article
 quality: 59
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Facebook Hits $1 Trillion Market Cap"
-    excerpt: "Facebook has closed above $1 trillion in the market for the first time ever, making it the fifth company to do so after Apple, Microsoft, Amazon and Alphabet."
-    publishedDateTime: 2021-06-29T02:21:00Z
-    webUrl: "https://www.pymnts.com/facebook/2021/facebook-hits-1-trillion-dollar-market-cap/"
-    ampWebUrl: "https://www.pymnts.com/facebook/2021/facebook-hits-1-trillion-dollar-market-cap/amp/"
-    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/facebook/2021/facebook-hits-1-trillion-dollar-market-cap/amp/"
-    type: article
-    provider:
-      name: pymnts.com
-      domain: pymnts.com
-    quality: 44
-    images:
-      - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/06/facebook-3-457x274.jpg"
-        width: 457
-        height: 274
-        isCached: true
   - title: "Antitrust Ruling On Facebook's Kustomer Buy Expected By August"
     excerpt: "Facebook's fate in terms of its acquisition of U.S. customer service startup Kustomer will be decided by antitrust officials soon, U.S. News reports. The deal was intended to help scale up the social media company's WhatsApp,"
     publishedDateTime: 2021-06-30T02:08:00Z

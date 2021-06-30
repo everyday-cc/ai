@@ -174,14 +174,19 @@ related:
         height: 400
         isCached: true
   - title: "Global Artificial Intelligence in Healthcare: Deals and Agreements by Leading Players From 2010-2021 - ResearchAndMarkets.com"
-    excerpt: "Partnering Terms and Agreements 2010 to 2021\" report has been added to ResearchAndMarkets.com's offering. The Global Artificial Intelligence (AI) Partnering Terms and Agreements 2010 to 2021 report provides an understanding and access to the artificial intelligence partnering deals and agreements entered into by the world's leading healthcare companies."
-    publishedDateTime: 2021-06-28T11:53:00Z
-    webUrl: "https://www.morningstar.com/news/business-wire/20210628005698/global-artificial-intelligence-in-healthcare-deals-and-agreements-by-leading-players-from-2010-2021-researchandmarketscom"
+    excerpt: "Partnering Terms and Agreements 2010 to 2021” report has been added to ResearchAndMarkets.com’s offering. The Global Artificial Intelligence (AI) Partnering Terms and Agreements 2010 to 2021 report provides an understanding and access to the artificial intelligence partnering deals and agreements entered into by the world’s leading healthcare companies."
+    publishedDateTime: 2021-06-28T16:53:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/artificial-intelligence-business-technology-c8cf1d7a3c1e49999f2dbe3d728e684e"
     type: article
     provider:
-      name: Morningstar, Inc.
-      domain: morningstar.com
-    quality: 7
+      name: Associated Press
+      domain: apnews.com
+    quality: 27
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
 secured: "YLbUspMTn/EjpRvZO3qnPd7JGHh/yLDFDDuHiXYgaVKnNAqho4TdJOQn1Zx9F9h+6MmFA8EXnMyPWjidullaRlWyyrYmFdnukWzlY/QF7CWDljceMA8wlcFzkljaJqlGxBGQCmBouWFoo6HFH9pYdLT66uQfXS7UnAlQRc2UgqtOSfkmGsKbLs/hCSEQ0/xSbdOytW4J4jrXYoJ9nAmea09/dYaijYao40PwULMTVI0Q+xyT24RT9wlscnoqxDO2wOWASL4FGkzxTqxkH9vOGR86fay3tOx5utSiwPrYPqtEuBrw/5pTl6DJLRRwUaI3UhqdO0M6A01aFp0kTApZ+YAsB/L+Cuqe2RKTYdFn584=;wPjwAAGE/1Hzl/+rZOPGTQ=="
 ---

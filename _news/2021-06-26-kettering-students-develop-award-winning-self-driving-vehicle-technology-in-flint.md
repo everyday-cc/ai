@@ -43,20 +43,6 @@ related:
         width: 4928
         height: 3280
         isCached: true
-  - title: "Remote learning, working causing computer vision syndrome"
-    excerpt: "She said people like remote workers and learners tend to spend over 13 hours a day using their digital devices. This causes visual strain. Computer vision syndrome has symptoms such as headache, pain around the eyes,"
-    publishedDateTime: 2021-06-25T22:15:00Z
-    webUrl: "https://www.kbtx.com/2021/06/25/remote-learning-working-causing-computer-vision-syndrome/"
-    type: article
-    provider:
-      name: KBTX
-      domain: kbtx.com
-    quality: 39
-    images:
-      - url: "https://gray-kbtx-prod.cdn.arcpublishing.com/resizer/_KqbqfH3gZ-e5Y2swfjltBqXZdQ=/980x0/smart/filters:quality(85)/cloudfront-us-east-1.images.arcpublishing.com/gray/MDHMDCXJYFCZVJKDZAI5DZKGNI.jpg"
-        width: 980
-        height: 551
-        isCached: true
 
 secured: "sxI/GgFCaCzxFAK/6bPBG2icjoDQOhuJs0FWziI+tO4+VwUOw3hniQrTGxNtFozD0OhEPlpxTTAdwzm4/KxDGRPibZjvVJiWUkMVhrHIMsL6fo7j5Gs+TZCTl52MECOA4+z9xCCCBXgsjrjJ3Jm+EmTASu0ZFeLN56wVXSKilL/sGDhIpQ178AECBAHWDyOrHwaL33UHMkpMawt6dUgT6PyG6qgVrVzc5LDQObftnKZ8Ik9GWFYEjAIfALD7Gik9ePunVhpKc13XvQIc9qZVz8WIFfwi/YAatjH3wNbbVltmCWf55aQ0qMWEsFlDHMH8CXnL6KcwngADNLBc7PS0FOLU1A/7SIXgU6ZOoCUl4zk=;956b2miue8/FrUPq+eZwfw=="
 ---

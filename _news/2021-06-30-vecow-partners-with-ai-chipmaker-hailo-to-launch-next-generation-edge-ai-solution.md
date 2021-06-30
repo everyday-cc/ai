@@ -44,20 +44,6 @@ related:
         width: 800
         height: 400
         isCached: true
-  - title: "Staying On Top Of Trends Is Key To Tapping Into The Growing AI Market"
-    excerpt: "The Covid-19 crisis has accelerated the development of the AI industry. It has also spurred adoption of and investment in artificial intelligence technologies not only from large institutions but also small-business owners."
-    publishedDateTime: 2021-06-29T11:20:00Z
-    webUrl: "https://www.forbes.com/sites/forbesfinancecouncil/2021/06/29/staying-on-top-of-trends-is-key-to-tapping-into-the-growing-ai-market/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 67
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F600b279b38fb40a4043817d3%2F0x0.jpg"
-        width: 1200
-        height: 800
-        isCached: true
 
 secured: "D5q7faiLdPPmNLSG/TrljoaNL3FwbfXY+K33OLk+8N48A2RQSMVZAfj6VClz3izc2IDsMjKe7v2dWQ352tlvhwIbVO6R/y/zLVwqyDDrOLozDQeEB98B4m5cMPDwIM8QJb77BCqgVsBbIkhFC5IR47o0Igo794s1YAUSCgIpz+UDaPg/17BJgf4pVLjwEZost6AFtoWWGYd7Mzuq5JNofnyVPsNum7maoAtOK99JFC5a4QbRfHAyUI8JsdmtUcByMGY1Z5udotoEPtDCinfCydJapoOxm/2xXc68SHFur5WRgKAQjK9mkZXQ8kw0uea93kdnVY3BO1XPJYPv2yy7On3Ib9oo0wflUs2/IbyRAfMVGlilVlPfKU+0k85bpsVnqMjBWDrN3qbdhCjjzFJWOif1NbOybp7ITGttwcQf/0tDm0TLMaDj56ezMpNBOX4txBzcqiybGs03CDje+ZzMs+bDVThS/sYrIt9HjyKHo2Wukkg76EPb+PbSJEaWOQUFL87ujEK5HiQhvTyiqrk3RQ==;r9KjB1GYmR5qZ9jGDadW3g=="
 ---

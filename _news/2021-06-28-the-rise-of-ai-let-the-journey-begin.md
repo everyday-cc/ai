@@ -20,20 +20,6 @@ topics:
   - AI
 
 related:
-  - title: "A beginner’s guide to AI: Policy"
-    excerpt: "Neural's long-running Begginer's Guide To Artificial Intelligence gets a modern update discussing policy and regulation around the globe."
-    publishedDateTime: 2021-06-25T22:10:00Z
-    webUrl: "https://thenextweb.com/news/beginners-guide-to-artificial-intelligence-policy"
-    type: article
-    provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 67
-    images:
-      - url: "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F06%2Fpolicyrobot.jpg&signature=3570b3c012b72a0b33e2163995744feb"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "AI: The origin story"
     excerpt: "The Mavericks Who Brought AI to Google, Facebook and the World"
     publishedDateTime: 2021-06-28T17:45:00Z

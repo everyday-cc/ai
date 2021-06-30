@@ -29,17 +29,17 @@ images:
 related:
   - title: "Japan’s SoftBank says Pepper robot remains ‘alive’ and well"
     excerpt: "Japanese technology company SoftBank denies it’s pulling the plug on its friendly, talking, bubble-headed Pepper robot. “There is absolutely no change to our Pepper business,”"
-    publishedDateTime: 2021-06-30T03:23:00Z
-    webUrl: "https://www.wric.com/business/us-world-business/japans-softbank-says-pepper-robot-remains-alive-and-well/"
-    ampWebUrl: "https://www.wric.com/business/us-world-business/japans-softbank-says-pepper-robot-remains-alive-and-well/amp/"
-    cdnAmpWebUrl: "https://www-wric-com.cdn.ampproject.org/c/s/www.wric.com/business/us-world-business/japans-softbank-says-pepper-robot-remains-alive-and-well/amp/"
+    publishedDateTime: 2021-06-30T03:19:00Z
+    webUrl: "https://www.krqe.com/news/technology/japans-softbank-says-pepper-robot-remains-alive-and-well/"
+    ampWebUrl: "https://www.krqe.com/news/technology/japans-softbank-says-pepper-robot-remains-alive-and-well/amp/"
+    cdnAmpWebUrl: "https://www-krqe-com.cdn.ampproject.org/c/s/www.krqe.com/news/technology/japans-softbank-says-pepper-robot-remains-alive-and-well/amp/"
     type: article
     provider:
-      name: WRIC
-      domain: wric.com
+      name: KRQE
+      domain: krqe.com
     quality: 74
     images:
-      - url: "https://www.wric.com/wp-content/uploads/sites/74/2021/06/a7ca6fa6c7634e6787200aad859fc95d.jpg?w=1280"
+      - url: "https://www.krqe.com/wp-content/uploads/sites/12/2021/06/a7ca6fa6c7634e6787200aad859fc95d.jpg?w=1280"
         width: 1280
         height: 853
         isCached: true

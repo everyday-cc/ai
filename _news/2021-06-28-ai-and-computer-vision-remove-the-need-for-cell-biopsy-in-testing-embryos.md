@@ -9,7 +9,7 @@ ampWebUrl: "https://medicalxpress.com/news/2021-06-ai-vision-cell-biopsy-embryos
 cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-06-ai-vision-cell-biopsy-embryos.amp"
 type: article
 quality: 73
-heat: 73
+heat: 75
 published: true
 
 provider:
