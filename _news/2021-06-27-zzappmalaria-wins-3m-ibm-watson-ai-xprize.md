@@ -52,20 +52,6 @@ related:
       name: ITWeb
       domain: itweb.co.za
     quality: 54
-  - title: "Israel’s ZzappMalaria Wins IBM Watson AI XPRIZE Competition by Helping Eliminate Malaria"
-    excerpt: "An electron micrograph of red blood cells infected with plasmodium falciparum, the parasite that causes malaria in humans. Photo: Wikimedia"
-    publishedDateTime: 2021-06-25T13:47:00Z
-    webUrl: "https://www.algemeiner.com/2021/06/25/israels-zzappmalaria-wins-ibm-watson-ai-xprize-competition-by-helping-eliminate-malaria/"
-    type: article
-    provider:
-      name: Algemeiner
-      domain: algemeiner.com
-    quality: 45
-    images:
-      - url: "https://www.algemeiner.com/wp-content/uploads/2021/06/Red_blood_cells_infected_with_malaria-1.jpg"
-        width: 720
-        height: 360
-        isCached: true
   - title: "CMU Spinoff Marinus Analytics Awarded AI XPRIZE Third Place"
     excerpt: "Marinus Analytics, a Carnegie Mellon University spinoff company, won third place and $500,000 in the IBM Watson AI XPRIZE competition."
     publishedDateTime: 2021-06-25T18:56:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.pymnts.com/news/artificial-intelligence/2021/walmart-use
 cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/artificial-intelligence/2021/walmart-uses-predictive-ai-for-grocery-substitutions/amp/"
 type: article
 quality: 57
-heat: 97
+heat: 87
 published: true
 
 provider:
@@ -55,20 +55,6 @@ related:
       - url: "https://retailtouchpoints.com/wp-content/uploads/2020/09/walmart-associate.jpg"
         width: 1920
         height: 1080
-        isCached: true
-  - title: "Walmart's new AI predicts grocery substitutes for shoppers"
-    excerpt: "Big-box retailer Walmart is using artificial intelligence to aid customers and personal shoppers and better handle still-surging online demand for groceries amidst the COVID-19 pandemic."
-    publishedDateTime: 2021-06-25T14:49:00Z
-    webUrl: "https://www.foxbusiness.com/technology/walmart-artificial-intelligence-grocery-substitutes-shoppers"
-    type: article
-    provider:
-      name: Fox Business
-      domain: foxbusiness.com
-    quality: 37
-    images:
-      - url: "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2020/12/0/0/walmart-.jpg?ve=1&tl=1"
-        width: 1280
-        height: 720
         isCached: true
   - title: "Walmart enlists artificial intelligence for online grocery substitutions"
     excerpt: "Walmart is putting artificial intelligence (AI) to work in making sure customers get what they like in online grocery orders. Srini Venkatesan, executive vice president at Walmart Global Tech, said in a blog post yesterday that the company has developed AI-based technology to help its personal shoppers and customers make smarter substitutions for out-of-stock products."

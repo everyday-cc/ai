@@ -49,19 +49,19 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Predicting the Outcome of UEFA EURO 2020 with Microsoft Azure Machine Learning"
-    excerpt: "At Codit we are always looking for fun, challenging and interesting internal projects we can use to train our colleagues in new technologies. With the UEFA Euro 2020 football tournament coming up, the idea was born to replace the age-old tradition of using Microsoft Excel to register and track people’s predictions for the games with an application in Azure."
-    publishedDateTime: 2021-06-25T13:46:00Z
-    webUrl: "https://executive-people.nl/676193/predicting-the-outcome-of-uefa-euro-with-microsoft-azure-machine-learning.html"
+  - title: "Microsoft, SES and GRC Showcase Azure Cloud for Remote Missions via Secure GovSat Connectivity Service"
+    excerpt: "Microsoft, SES and GRC demonstrate the power of combining Microsoft’s Azure and secure MilSatCom to bring Artificial Intelligence and Machine Learning to in-theatre operations Operating in both connected and disconnected modes,"
+    publishedDateTime: 2021-06-30T07:39:00Z
+    webUrl: "https://www.businesswireindia.com/microsoft-ses-and-grc-showcase-azure-cloud-for-remote-missions-via-secure-govsat-connectivity-service-73769.html"
     type: article
     provider:
-      name: executive-people
-      domain: executive-people.nl
-    quality: 67
+      name: Business Wire
+      domain: businesswireindia.com
+    quality: 38
     images:
-      - url: "https://executive-people.nl/676193/predicting-the-outcome-of-uefa-euro-with-microsoft-azure-machine-learning.html?field=Binary1&maxwidth=1200&maxheight=627&force=1"
-        width: 1200
-        height: 800
+      - url: "https://cms.businesswireindia.com/Uploads/news-multimedia/companyLogo/SES_73769.jpg"
+        width: 1188
+        height: 547
         isCached: true
 
 secured: "xgGCLzU7whbcmHEjfOA3+jRpriwX3iSZyWZt5Suh6aT1U/njqibE6Icktezja6phZbp+roUaWILfKR6d4FQYZK+yyKO2iM75h4RJfwFpBl62Pr3afWyf55iRqbpFNdt3T33XCQmjHIYi/a/iqEHu9KucNxfSAMBdKR55osLQmECaYPQr5x+T3OmWT2xfgsvlga58eBLjY6+17MQeliGxA3BzVccf7ec4aoCgFrhcxpI2nKHyOyHlPLi5hiHKXXR2uxiPsRZehiRPR1sD1DzsEK1lQcKAIlHlJEzjF0af+EQOmmEFvHxWdeivuGwT6xFAOtOvT0pTQZ4jZ/RzAUN2fGmwrZb9SpJGraB1DY5eLrM=;IJcrZP1Shg+30dgN+taZsg=="

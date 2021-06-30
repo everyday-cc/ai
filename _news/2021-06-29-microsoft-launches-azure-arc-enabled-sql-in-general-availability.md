@@ -45,20 +45,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Predicting the Outcome of UEFA EURO 2020 with Microsoft Azure Machine Learning"
-    excerpt: "At Codit we are always looking for fun, challenging and interesting internal projects we can use to train our colleagues in new technologies. With the UEFA Euro 2020 football tournament coming up, the idea was born to replace the age-old tradition of using Microsoft Excel to register and track people’s predictions for the games with an application in Azure."
-    publishedDateTime: 2021-06-25T13:46:00Z
-    webUrl: "https://executive-people.nl/676193/predicting-the-outcome-of-uefa-euro-with-microsoft-azure-machine-learning.html"
-    type: article
-    provider:
-      name: executive-people
-      domain: executive-people.nl
-    quality: 67
-    images:
-      - url: "https://executive-people.nl/676193/predicting-the-outcome-of-uefa-euro-with-microsoft-azure-machine-learning.html?field=Binary1&maxwidth=1200&maxheight=627&force=1"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "BUSINESS WIRE: OAG’s Flight Info API Now Available in the Microsoft Azure Marketplace"
     excerpt: "The Azure Marketplace is an online market for buying and selling ... Sordin e Cardo Crew collaborano per creare una nuova generazione di protezioni auricolari intelligenti dedicate ai team dei professionisti mobili 14:10 BUSINESS WIRE: Sordin und Cardo ..."
     publishedDateTime: 2021-06-28T12:47:00Z
@@ -68,6 +54,20 @@ related:
       name: Finanztreff
       domain: finanztreff.de
     quality: 42
+  - title: "Microsoft, SES and GRC Showcase Azure Cloud for Remote Missions via Secure GovSat Connectivity Service"
+    excerpt: "Microsoft, SES and GRC demonstrate the power of combining Microsoft’s Azure and secure MilSatCom to bring Artificial Intelligence and Machine Learning to in-theatre operations Operating in both connected and disconnected modes,"
+    publishedDateTime: 2021-06-30T07:39:00Z
+    webUrl: "https://www.businesswireindia.com/microsoft-ses-and-grc-showcase-azure-cloud-for-remote-missions-via-secure-govsat-connectivity-service-73769.html"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswireindia.com
+    quality: 38
+    images:
+      - url: "https://cms.businesswireindia.com/Uploads/news-multimedia/companyLogo/SES_73769.jpg"
+        width: 1188
+        height: 547
+        isCached: true
 
 secured: "TVC08s+pREkKjq5xrrYACsLbR7eOtl87oZmUwUcNQg5sml4RVqPVmU2ZHqEp9zEVdXSt+uLvimR1pWMj+mY9MnchTe9jvN+OUImh1OgGUfP1pmzapV9JnDNJjC2qvjNjX1mr1gc5/s5eDPX7J9Q0a2B/pXJDvXsxhMie5fPEtqkxl45Os9iLZtGI+BFU9I1v1luraIHFaJyqqs7Cd4voMRomPJQV7HLdPumtUoffTgPVSO4xdMh13B+PYLH+E8aaOx6Sx6+v2UxjMO5APPuUUOGCa95z8GjnujExkFRkjTulnWaOmzZOMGl7hkmKSP2NfS9SRxWvntzBIva/r46d/woSNawjfj/aUN/cSH72Mzr8VwUr99wtr+oBuJejgOEcUT8/F6pO/L6d9GOOzGTFEnLL3Dm8SnCvK1kyu8vEuAzHwK7saNJuGZzy9+Rz/liS4FkCXD461Vm8Pkb+tXqAcNNYIF/aTe4Y38L6D5iBhdO70E9syMHBAljWTQaCdZUbPbXk+Wa/ASQwO5NF+SHAuw==;gE2KFqcOdqeoY+Ar4YsnpA=="
 ---

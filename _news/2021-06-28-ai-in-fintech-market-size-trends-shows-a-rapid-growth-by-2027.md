@@ -48,28 +48,6 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 48
-  - title: "Speech and Voice Recognition Market Share 2021: Global Trends, Key Players, Industry Analysis Report to 2027"
-    excerpt: "The Speech and Voice Recognition Market size is expected to grow at an annual average of 18 during 2021 2027 Speech and speech recognition are a small part of biometric systems Provides contactless control of multiple devices and equipment that"
-    publishedDateTime: 2021-06-25T14:13:00Z
-    webUrl: "https://www.openpr.com/news/2314294/speech-and-voice-recognition-market-share-2021-global-trends"
-    ampWebUrl: "https://www.openpr.com/amp/2314294/speech-and-voice-recognition-market-share-2021-global-trends"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2314294/speech-and-voice-recognition-market-share-2021-global-trends"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 5
-  - title: "COVID-19 Impact on Artificial Intelligence Chipsets Market - Global Industry Analysis, Size, Share, Growth, Trends and Forecast 2021-2027"
-    excerpt: "Artificial Intelligence Chipsets Market size exceeded USD 8 billion in 2019 and is estimated to grow at around 35 CAGR between 2021 and 2027 Artificial intelligence chipset market has reported a significant increase in size and value thanks to the"
-    publishedDateTime: 2021-06-28T09:08:00Z
-    webUrl: "https://www.openpr.com/news/2315091/covid-19-impact-on-artificial-intelligence-chipsets-market"
-    ampWebUrl: "https://www.openpr.com/amp/2315091/covid-19-impact-on-artificial-intelligence-chipsets-market"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2315091/covid-19-impact-on-artificial-intelligence-chipsets-market"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 4
 
 secured: "mzj/KkbBDzgFslprfhmyW0ui5MRgq90hUskH2dbEIyWg8mZfz7SNkK63sTSii0AVC1aEp7nMoOmI6AzSCrCQ/C9Ijz27l8ZINPznlPyvLyddCP4TVPDevo3Y77IxVymsxZYanHvLJ+1+hF2NPKaycxukrUPekJYRmosbCvSi3VD6ozcBmJdtF06rYMqnpK9kwe36zJd+/ccp7YD/EZMvy7k7JUir6SzFxa2uIRIWLyKFzQ8Gju2XmSZtAJ0VdcGHUqUYGKsxX2cdmNcArM6cljFs/V6RrC1y9vMrfQW59KhmEZzpqk16l8KLFzcqGhRXgh9RuwFXoosjm2197barBdv9wDcTjVXV8UBB1WKDjnI=;r23+T5atVCs1+r2kRBxQKQ=="
 ---

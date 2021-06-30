@@ -1,21 +1,27 @@
 ---
 category: news
 title: "CognitiveScale and Ascendum To Accelerate Trusted AI Deployments for Healthcare, Fintech and eCommerce"
-excerpt: "CognitiveScale will provide its trusted AI software while Ascendum will provide the services and certified developers required to build AI-powered solutions and use cases that meet the unique ..."
-publishedDateTime: 2021-06-23T13:53:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_entertainment/cognitivescale-and-ascendum-to-accelerate-trusted-ai-deployments-for-healthcare-fintech-and-ecommerce/article_bb29e0c7-143c-5c70-9cba-5ed9acd74fa1.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_entertainment/cognitivescale-and-ascendum-to-accelerate-trusted-ai-deployments-for-healthcare-fintech-and-ecommerce/article_bb29e0c7-143c-5c70-9cba-5ed9acd74fa1.html"
+excerpt: "CognitiveScale, the enterprise AI company that helps organizations win with intelligent, transparent, and trusted AI powered digital"
+publishedDateTime: 2021-06-23T13:30:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/cognitivescale-and-ascendum-to-accelerate-trusted-ai-deployments-for-healthcare-fintech-and-ecommerce-301317969.html"
+webUrl: "https://www.prnewswire.com/news-releases/cognitivescale-and-ascendum-to-accelerate-trusted-ai-deployments-for-healthcare-fintech-and-ecommerce-301317969.html"
 type: article
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
-  - Microsoft AI
+  - AI in Finance
   - AI
   - AI in Healthcare
 
-secured: "Kpk9fN28nTIG4SjTotcBp5yjbUyTHk6wdw13KoBWUDAV4JT1lfjPAMXI51CuAzsZZOQyRkvN/voH3R7/Q1t5oi59INBMFXP/F68ECwysnXEBf+yaqr5P2U9kp47OxlGqzv9SQH/w0rcz/q9hlRpBKZLIVNr0PUyx6ZuSsjwfphqelWqeiPDEJpAoWocY3Df7HP4NDWnQBcJf/S80Mn0t9L8sTChHiKbbQY3Pk2fO+1NRuhz7wMDincw6FgZ8WqQkJ4XebCKtZWjh57vbVOsU8KIaa16pk4AUsXRpWwMe5BbT6u6s4aCCkr/Rox0OeE/KOlv5ST+cHIFRVWg9fDmBo5v8zxHER20VsnPkWqBT5Mw=;AW5dFGiGwy0yleEG8Dldww=="
+images:
+  - url: "https://mma.prnewswire.com/media/1539335/CognitiveScale_Tagline_Logo.jpg?p=facebook"
+    width: 1728
+    height: 905
+    isCached: true
+
+secured: "zYekUWsml2fUqOVTIjJroNi+BehP9p4ovpCDbUDWbmVzJ7IgKVQmIjxxq9t+5U25kucezSx/HoRiy0FUyGsUpaP6A4/d6Ok+RyWI0NazXpoj/m8TdlTOWnInA2g0l5x5aFQReFSPqiEwI9KC4JALpiLAHCQPQLma2uo8/77sT4m9WOGMwrijvqGvEh4W7HdCUslUeORg0y+Q+ydjDJrJCDy5w3vxetOK7WSKNGCTw/8D46t+rbCr/dumORgJayUhOgFSuu1sH4wM2NaOKESyy2kI7cYRTlAByOFxjhWQLqACjodrVo3M/UyUWlhpGG24UbSQvoQcTfB3hNKy2uT0sd1wDXNGDS2rdgFrQE+1+fo=;yUR03L0DkpUfPnadwRfFCg=="
 ---
 

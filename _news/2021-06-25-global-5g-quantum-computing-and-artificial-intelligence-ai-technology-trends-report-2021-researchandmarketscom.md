@@ -42,15 +42,15 @@ related:
         width: 700
         height: 407
         isCached: true
-  - title: "Global Artificial Intelligence (AI) in Medical Diagnostics Market 2021 by Company, Regions, Type and Application, Forecast to 2026"
-    excerpt: "Pages Report] Check for Discount on Global Artificial Intelligence (AI) in Medical Diagnostics Market 2021 by Company, Regions, Type and Application, Forecast to 2026 report by Global Info Research. The Artificial Intelligence (AI) in Medical Diagnostics market report"
-    publishedDateTime: 2021-06-29T08:34:00Z
-    webUrl: "https://www.reportsnreports.com/reports/4621998-global-artificial-intelligence-ai-in-medical-diagnostics-market-2021-by-company-regions-type-and-application-forecast-to-2026.html"
+  - title: "Artificial Intelligence (AI) in Education Market - Detailed Analysis of Current Industry Figures with Forecasts Growth By 2024"
+    excerpt: "Market Study Report LLC adds new research on Artificial Intelligence (AI) in Education market, which is a detailed analysis of this business space inclusive of the trends, competitive landscape, and the market size."
+    publishedDateTime: 2021-06-25T15:41:00Z
+    webUrl: "https://www.reseller.co.nz/mediareleases/142736/artificial-intelligence-ai-in-education-market/"
     type: article
     provider:
-      name: ReportsnReports
-      domain: reportsnreports.com
-    quality: 2
+      name: Reseller News
+      domain: reseller.co.nz
+    quality: 23
 
 secured: "QEB2y4/ocTcJjgh2JeFGbSzOAq3jxGMFLl0UidcsGzk7dglslO8gd8YThI7BfOXzpLFOyFvBCLHXdzt2WLVnAeSFQ4s3EZnPcu5bCf+aI0w30yfLCFF+Rl7sKGzeJGg7zGQgzvhqb8q85clkyxf5AAL4aSedrN1wPsFv/SLcAV5fE/uvA5E5vlq8mzgKkz7yu64PNb6/gcUyIEMh7c7P9nRLHS5AW8r0zFEp2SKwMP50V3aA7GkDBXUshDVLXKPlgykL89u8+WbmXGuRm7KXjROChP3WJBcsunszsH1InFWhwwIGCjuC0F5EVWQilbxWlfAR0WOFLZs90ZYQkUcfRqFGW5lv8rzO0bw+i30dZIg=;NEG0gaQ25+vJWxI6NnMveA=="
 ---

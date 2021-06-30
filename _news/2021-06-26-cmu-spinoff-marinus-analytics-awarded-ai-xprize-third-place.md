@@ -66,20 +66,6 @@ related:
       name: ITWeb
       domain: itweb.co.za
     quality: 54
-  - title: "Israel’s ZzappMalaria Wins IBM Watson AI XPRIZE Competition by Helping Eliminate Malaria"
-    excerpt: "An electron micrograph of red blood cells infected with plasmodium falciparum, the parasite that causes malaria in humans. Photo: Wikimedia"
-    publishedDateTime: 2021-06-25T13:47:00Z
-    webUrl: "https://www.algemeiner.com/2021/06/25/israels-zzappmalaria-wins-ibm-watson-ai-xprize-competition-by-helping-eliminate-malaria/"
-    type: article
-    provider:
-      name: Algemeiner
-      domain: algemeiner.com
-    quality: 45
-    images:
-      - url: "https://www.algemeiner.com/wp-content/uploads/2021/06/Red_blood_cells_infected_with_malaria-1.jpg"
-        width: 720
-        height: 360
-        isCached: true
 
 secured: "1TPjZdMDBFh0aTc9nUDSBT+fEqvYYWWr3ZOKRAiL7dHtjTiaufhY4rFTCmSNPzp6KV+3uUdHxFMFS51yKCmdha8BdowvUmHZIWEQ8QhxZDFTkk1Rkzu4HhTr+9kD9g/EAgTyU+5Zo98gMPvbbZcBAeNIxIP/r8no2I+U9DNTe93zbyPHwA0khty0jEv6SauGIdXk/vXi64dnWxWHZZkwNgad3BhPv+qFuTU3S0WiaiT4HwOSBXArQEG4n8i40HA/KyqF1edkwkIjyJRRZf4eR9w29jS01mmwdGrY7G2niyli+fnYWpDSXRdu9kZA66gzWAzw5GYQHNqa/QnSOm/81DgHIVg1ZSUORni9759WH0kkh7X4Q/+v5+oDRMx+QMdhLy97DqcS+z/azQ+GIzmOTVrpTU37exB6+ht0MHSQPjRf5EZTxJgjqs55rUiIigAgI3EWU1RnuwOnWAlirPYExoOFi5Sb3+TO7EOoH6tQjmMtbwzjZW4yi8/Mwh95J6XXeZ4B2fZNLSS/h9Jt8RPOTg==;pqMYVgCzlJELS0PQzmY5bQ=="
 ---

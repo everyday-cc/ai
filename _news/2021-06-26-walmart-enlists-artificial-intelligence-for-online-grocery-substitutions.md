@@ -70,20 +70,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Walmart's new AI predicts grocery substitutes for shoppers"
-    excerpt: "Big-box retailer Walmart is using artificial intelligence to aid customers and personal shoppers and better handle still-surging online demand for groceries amidst the COVID-19 pandemic."
-    publishedDateTime: 2021-06-25T14:49:00Z
-    webUrl: "https://www.foxbusiness.com/technology/walmart-artificial-intelligence-grocery-substitutes-shoppers"
-    type: article
-    provider:
-      name: Fox Business
-      domain: foxbusiness.com
-    quality: 37
-    images:
-      - url: "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2020/12/0/0/walmart-.jpg?ve=1&tl=1"
-        width: 1280
-        height: 720
-        isCached: true
 
 secured: "n/8HPOQeHIzZTven9mcVIJCR3FeGh6HAz7r2G63LHoSb0lHvGQinGRHXLCvYME1193WnDYRHhU9dWkAEmCgq8KLsjaqVZsAD6oFZvT/x0t97LP9iH1m1Dm66DVhGk0hR3su8Lyf3NWSxF9KUww73o2lHxeYQPXKMi2xT9J98SFWJyF6fyjLC1+IEh9T0ci4jOtQyvu+cQKPo29w+wYydIDOXREI2tarX1Vakv7u2GHfzB8GmP6MPBrRJvN8Ra3u95D83jwAMgpXN41+hr9MFclQTrB0FhNIYQkhabWzB6ApdejESHcZJFEr1lrJXgAOqVkh23mEz3ZkAS2EPgt63rCD9zqz3c5fJtQ11nPLS3dc=;t6ye6azf6X2HdKbZdX5EdQ=="
 ---

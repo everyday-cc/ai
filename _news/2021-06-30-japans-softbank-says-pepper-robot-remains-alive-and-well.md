@@ -2,26 +2,26 @@
 category: news
 title: "Japan’s SoftBank says Pepper robot remains ‘alive’ and well"
 excerpt: "Japanese technology company SoftBank denies it’s pulling the plug on its friendly, talking, bubble-headed Pepper robot. “There is absolutely no change to our Pepper business,”"
-publishedDateTime: 2021-06-30T03:19:00Z
-originalUrl: "https://www.krqe.com/news/technology/japans-softbank-says-pepper-robot-remains-alive-and-well/"
-webUrl: "https://www.krqe.com/news/technology/japans-softbank-says-pepper-robot-remains-alive-and-well/"
-ampWebUrl: "https://www.krqe.com/news/technology/japans-softbank-says-pepper-robot-remains-alive-and-well/amp/"
-cdnAmpWebUrl: "https://www-krqe-com.cdn.ampproject.org/c/s/www.krqe.com/news/technology/japans-softbank-says-pepper-robot-remains-alive-and-well/amp/"
+publishedDateTime: 2021-06-30T03:23:00Z
+originalUrl: "https://www.wric.com/business/us-world-business/japans-softbank-says-pepper-robot-remains-alive-and-well/"
+webUrl: "https://www.wric.com/business/us-world-business/japans-softbank-says-pepper-robot-remains-alive-and-well/"
+ampWebUrl: "https://www.wric.com/business/us-world-business/japans-softbank-says-pepper-robot-remains-alive-and-well/amp/"
+cdnAmpWebUrl: "https://www-wric-com.cdn.ampproject.org/c/s/www.wric.com/business/us-world-business/japans-softbank-says-pepper-robot-remains-alive-and-well/amp/"
 type: article
 quality: 74
 heat: 94
 published: true
 
 provider:
-  name: KRQE
-  domain: krqe.com
+  name: WRIC
+  domain: wric.com
 
 topics:
   - AI in Robotics
   - AI
 
 images:
-  - url: "https://www.krqe.com/wp-content/uploads/sites/12/2021/06/a7ca6fa6c7634e6787200aad859fc95d.jpg?w=1280"
+  - url: "https://www.wric.com/wp-content/uploads/sites/74/2021/06/a7ca6fa6c7634e6787200aad859fc95d.jpg?w=1280"
     width: 1280
     height: 853
     isCached: true
@@ -58,6 +58,6 @@ related:
         height: 730
         isCached: true
 
-secured: "/f1zlD3zApvI/Rlmmr/kxLcmrcIsihZjbz5//PEJg+o2y7fvh8a+BDKtcRbPEuwE9Fr/B3m1JiChQ/rmuIVLmSSPp32gSlJHi9Dgd9hF07gLu6662pW3sHAnmJYaPCoF6RMIc8q3NxTQ1pHKNZzaF9d2UYwfmtzEXLMx6+qQ2fdoX/s/3hTx2WH1m7EiBaC3LUc/y4afUNXGD3v0xTM2+9hZovdo8fH4BaeUJ29F3H9bGZijWdG1gyvjD3YzKrSgSAc8umC0oX4SX5hKi+SXFAZICZyPjQ9MTIee+0/1gS5PqcDDXKgrwu/cgRcpweUaN8zKprYFYp6NJ4ysCfXuR5J99b0z9HdPC2gZjMpfoMQ4cCF0wmhIJLysZq8tevo2ntpf8+WBf68HWGUGuBw+eu2kzA4BzH9jXwUU2BsKbSMsAB2wdchgnzDbmOt0GJJBgjSX4htou5kR82X6zUBt88kuXU4qosCnsWjezdvzg/1NXcJ8yQmgcLmP7E686h5FkRPI8/OfwKDcxlotoL9rsw==;tggLgNgzknMDcEPllRTjQQ=="
+secured: "HevnyuPLflsNSVC20QaL1uf0NMRZw83R98Wt7/yI5Ls28Y0h9BoJp1nFrB32N3zh/5X3aGMwD5XcIz9+Ben38rpWKmH6vBCB9lsePAEnlmEr3Cw3i1OpG3IryV6wyE4xHg0IhZOECZCNWeouSjdV7fw9UYrSLyqwHDxm+7tnN7YZqj93brxXKe0JnzlnprFPP3YUR090aUF+MXOq28ckOxpRdOgkd0wbY96chDCXuhDuXxLlQiB89CGcstzPJ2UBOpu5cvOVgJDBP7MpGizytqc7uFPbZGdUzn6kF8DALXBmycnZjysAsq10zhupZ84HhQuybqN7IupEP9i/wbeGbEwa1dPE0HnyyWUsPfHQaEk=;BSCx5jTTfn3fsVO56lUguA=="
 ---
 

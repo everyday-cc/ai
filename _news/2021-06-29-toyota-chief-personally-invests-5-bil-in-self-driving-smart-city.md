@@ -52,22 +52,6 @@ related:
         height: 274
         isCached: true
   - title: "Toyota-backed self-driving startup Pony.ai considers going public"
-    excerpt: "The startup, active in the United States and China, plans to install its technology in hundreds of vehicles next year, rising to tens of thousands in .."
-    publishedDateTime: 2021-06-25T13:26:00Z
-    webUrl: "https://auto.economictimes.indiatimes.com/news/auto-technology/toyota-backed-self-driving-startup-pony-ai-considers-going-public/83842238"
-    ampWebUrl: "https://auto.economictimes.indiatimes.com/amp/news/auto-technology/toyota-backed-self-driving-startup-pony-ai-considers-going-public/83842238"
-    cdnAmpWebUrl: "https://auto-economictimes-indiatimes-com.cdn.ampproject.org/c/s/auto.economictimes.indiatimes.com/amp/news/auto-technology/toyota-backed-self-driving-startup-pony-ai-considers-going-public/83842238"
-    type: article
-    provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 59
-    images:
-      - url: "https://etimg.etb2bimg.com/thumb/msid-83842238,imgsize-700330,width-800,height-434,overlay-etauto/toyota-backed-self-driving-startup-pony-ai-considers-going-public.jpg"
-        width: 800
-        height: 434
-        isCached: true
-  - title: "Toyota-backed self-driving startup Pony.ai considers going public"
     excerpt: "Pony.ai, backed by Toyota Motor Corp, is considering going public in the United States..Self-driving startups such as Alphabet Inc's Waymo and General Motors Co's Cruise have been racing to raise capital as the industry prepares to scale up operations."
     publishedDateTime: 2021-06-26T01:30:00Z
     webUrl: "https://auto.hindustantimes.com/auto/news/toyotabacked-self-driving-startup-pony-ai-considers-going-public-41624622848494.html"
@@ -110,20 +94,6 @@ related:
       - url: "https://cna-sg-res.cloudinary.com/image/upload/q_auto,f_auto/image/15091302/16x9/991/557/ba62d8a31ab1d2cf87e7acadd4a4cfc7/gZ/a-screen-showing-traffic-and-other-objects-is-seen-inside-a-vehicle-equipped-with-pony-ai-s-self-driving-technology-during-a-demonstration-in-fremont-4.jpg"
         width: 991
         height: 557
-        isCached: true
-  - title: "Toyota-backed self-driving startup Pony.ai considers going public in the US"
-    excerpt: "The startup has also tapped Lawrence Steyn, vice chairman of investment banking at JPMorgan Chase & Co, as chief financial officer."
-    publishedDateTime: 2021-06-25T14:09:00Z
-    webUrl: "https://www.dealstreetasia.com/stories/pony-ai-considers-going-public-247706/"
-    type: article
-    provider:
-      name: dealstreetasia
-      domain: dealstreetasia.com
-    quality: 35
-    images:
-      - url: "https://dealstreetwebsite.s3.amazonaws.com/uploads/2018/01/Pony.ai-Car-1-1-e1624630116785.jpg"
-        width: 1080
-        height: 540
         isCached: true
   - title: "Toyota-backed self-driving tech unicorn Pony.ai hires CFO, mulls going public"
     excerpt: "Pony.ai hires former JPMorgan banker Lawrence Steyn as CFO, saying he will help drive the company's next phase of growth."

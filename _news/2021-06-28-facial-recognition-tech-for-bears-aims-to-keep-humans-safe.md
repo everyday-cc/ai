@@ -9,7 +9,7 @@ ampWebUrl: "https://www.digitaltrends.com/news/facial-recognition-tech-for-bears
 cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/news/facial-recognition-tech-for-bears-aims-to-keep-humans-safe/?amp"
 type: article
 quality: 106
-heat: 126
+heat: 136
 published: true
 
 provider:
@@ -59,6 +59,15 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 3
+  - title: "Global Facial Recognition Technology in the Financial Services Market Size, Status and Forecast 2021-2027"
+    excerpt: "Pages Report] Check for Discount on Global Facial Recognition Technology in the Financial Services Market Size, Status and Forecast 2021-2027 report by QYResearch Group. The use of AI has grown exponentially in recent years,"
+    publishedDateTime: 2021-06-30T07:43:00Z
+    webUrl: "https://www.reportsnreports.com/reports/4624723-global-facial-recognition-technology-in-the-financial-services-market-size-status-and-forecast-2021-2027.html"
+    type: article
+    provider:
+      name: ReportsnReports
+      domain: reportsnreports.com
+    quality: 2
 
 secured: "e+wYVJBChJzzB+nzpqNGqYdFazU2C7q4tO8nndAbcMJA1P8CUEiH90H7xiE/I+BZ82W5E7LxwzR64t3fGkqvgKqm1N9aIZhldDcSIYJadnJ/l7sk8GP+IRphqRj5KE/xMl7JTom7J46Jgf7yup+jK9Hr4G0LpODA+DJJG/q6mg0LXREMpHSDXFfgzOedJ9i++pes2hZZU+s4l9LXk62kZ3UEW8kHE7JMAw60G6dhonFILSizAagYQtAyxjmPkEx/ZbR+KKohPKcwRPJK1AMXI2TJ7Ay7C2M4x7zebhwl13+LnGbScWpTh3ffoWnJ67wIU1qmE2oMoJrMGzJ/C1wnQG2kFAxTVEUSXq1U1L2VbGNbzKOQhtF7N4CdiojyM3dj3/0j86HofJmsK2R3t7eWUFF/ERHRqamZPyl80L3xTkMXu6SReHFA4NSNT1EychPh5U9w4GTTdObMgoBe6sWhHVoc5mIaCRrNHu2kQys1fh7F6i/qcXJ6047bHLmbObbTrLRrOYm5hmYhPryHEaOdFw==;HOcxV5RtW1gDPjsQwRnmsQ=="
 ---

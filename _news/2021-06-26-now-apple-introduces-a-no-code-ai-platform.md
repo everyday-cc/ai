@@ -25,21 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "One way to deploy AI-based no-code and low-code apps"
-    excerpt: "Palantir and IBM have come up with a solution for simplifying the development of AI-based applications in the enterprise."
-    publishedDateTime: 2021-06-25T13:40:00Z
-    webUrl: "https://www.techrepublic.com/article/one-way-to-deploy-ai-based-no-code-and-low-code-apps/"
-    ampWebUrl: "https://www.techrepublic.com/google-amp/article/one-way-to-deploy-ai-based-no-code-and-low-code-apps/"
-    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/one-way-to-deploy-ai-based-no-code-and-low-code-apps/"
+  - title: "GitHub introduces an AI pal to help you code better"
+    excerpt: "GitHub is already one of the most popular platforms to build and host coding projects. Last year, it launched a built-in Integrated Development Environment to let you code directl"
+    publishedDateTime: 2021-06-30T06:00:00Z
+    webUrl: "https://thenextweb.com/news/github-copilot-ai-openai-code-tool"
     type: article
     provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 89
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 67
     images:
-      - url: "https://www.techrepublic.com/a/hub/i/r/2020/12/31/cfe02e57-8256-4c99-8177-af9212d6cba4/resize/1200x/03b76fedaaaa195d3219d225e34f617f/istock-1000962622.jpg"
-        width: 1200
-        height: 800
+      - url: "https://img-cdn.tnwcdn.com/image/tnw?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F06%2FGitHub-copilot.jpg&signature=04c4e92701007a57aa8fde20946e8e81"
+        width: 1280
+        height: 640
         isCached: true
 
 secured: "jvBubkJqRBCiHBPnUV+Qj8T/7EADWkPps+oERG5qemKk0MKOkup1KYfKRzEIWheviSdp5p84Hm9DA5t5gqi4vVAp/bD63p61dn7omTgjj03blUNgIALKM+McfdjCllJxHlbJacVeucjT7YcdrfX81TmVx1EhGE6oSVPMEGrBZugH5rz9RuGuVqg7iX2sRT55/WOuRRZv1R5IsEUkbXh1DtOc8MBOKw4RLIshiWNe9lLUpfdgR4PZb0kkQykX4sok4rQgLlTLN8Re1/TB+qsUVu8wVubR8/fvq+2DDjEuvfLTmaeUHqpVNgjzNP+zwiXaA9ekmPVMuad4jBWQl1nH44dZquNaVFcdhniJm8Q6VHhN+EmYBAOcZV8FYkIgvgFg/g0Xu42E5B7jaQXq9WkCggX8VBsdPo8OT1guTdYZTD7MOMIAAxSDYJMBt/BlnQcdhUt7GPs8OsJXJgLNo3HfCR5mr2S+0NgdRwz8TxYozKk25NBT4M5tck4gI+ojgKwfYDO7aDgrZqzWXfYt0ue3Xg==;6fi8DOXgSG3Z/1fPEgrWmg=="

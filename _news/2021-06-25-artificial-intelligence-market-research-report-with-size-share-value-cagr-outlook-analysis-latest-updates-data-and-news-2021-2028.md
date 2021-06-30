@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-research-report-with-size-share-value-cagr-outlook-analysis-latest-updates-data-and-news-2021-2028-2021-06-25"
 type: article
 quality: 34
-heat: -1
+heat: 34
 published: false
 
 provider:
@@ -26,22 +26,6 @@ images:
     width: 1200
     height: 630
     isCached: true
-
-related:
-  - title: "AI in Social Media Market Research Report with Size, Share, Value, CAGR, Outlook, Analysis, Latest Updates, Data, and News 2021-2028"
-    excerpt: "The report forecast global AI in Social Media market to grow to reach xx Million USD in 2021 with a CAGR of during the"
-    publishedDateTime: 2021-06-29T06:53:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-in-social-media-market-research-report-with-size-share-value-cagr-outlook-analysis-latest-updates-data-and-news-2021-2028-2021-06-29"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 36
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "klsuvX2G6ubxGB0WV89PIWUsTXb6aZFeMDxa6PF45WvEaI1mVzLNDHwC0aHWk1MnAmJlG/ToG+YfU+KLzvhRa+bb1Kae8tdsP1jtfob2vHRMQ7ECCUFiOUceGKYulOcamkaigUWc4iYmWJQCKkqiaEPHsrcN38FiKnYGFR5Fic/Sb0oHj4ZKxCnlj75ynQ1wOrLku916CuqExGHd+lYfh9X18NeZ13d5wBB78SRRF0ogch6I9g7PpoG/+c1gWuDjyihAW1mD8doifxQUZ19RgMB1RMUiiP63HaXRAiSpMmAWupngcy6c0yxnsOvHneAfNcoFnvv2bqgJ/8wPPZROoE8b3oYnkkEze4pjwps4eSk=;zDB32NCSwTND5jNExXE07g=="
 ---

@@ -48,28 +48,6 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 39
-  - title: "Speech and Voice Recognition Market Share 2021: Global Trends, Key Players, Industry Analysis Report to 2027"
-    excerpt: "The Speech and Voice Recognition Market size is expected to grow at an annual average of 18 during 2021 2027 Speech and speech recognition are a small part of biometric systems Provides contactless control of multiple devices and equipment that"
-    publishedDateTime: 2021-06-25T14:13:00Z
-    webUrl: "https://www.openpr.com/news/2314294/speech-and-voice-recognition-market-share-2021-global-trends"
-    ampWebUrl: "https://www.openpr.com/amp/2314294/speech-and-voice-recognition-market-share-2021-global-trends"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2314294/speech-and-voice-recognition-market-share-2021-global-trends"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 5
-  - title: "COVID-19 Impact on Artificial Intelligence Chipsets Market - Global Industry Analysis, Size, Share, Growth, Trends and Forecast 2021-2027"
-    excerpt: "Artificial Intelligence Chipsets Market size exceeded USD 8 billion in 2019 and is estimated to grow at around 35 CAGR between 2021 and 2027 Artificial intelligence chipset market has reported a significant increase in size and value thanks to the"
-    publishedDateTime: 2021-06-28T09:08:00Z
-    webUrl: "https://www.openpr.com/news/2315091/covid-19-impact-on-artificial-intelligence-chipsets-market"
-    ampWebUrl: "https://www.openpr.com/amp/2315091/covid-19-impact-on-artificial-intelligence-chipsets-market"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2315091/covid-19-impact-on-artificial-intelligence-chipsets-market"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 4
 
 secured: "BShBl69k6IsKpgBW6Svya6GeU46bPGes1GvySOkJh+vyvpj/cd72cU4zrOv7nkeNPdoWFEccceAdI/cM4S1kviQQLTihpCTmSYFs+AGueKcMdeTEsMzmm93UipUCkCqjP3JMXStMqyOn1u7m7Dky9mdXd4CwSW6vVah2f2dsj43q9GlHMcjz6/Z3oWe1oEF2/FH7T+cJBbXWZ36ihnIzig8QOpeWeMi/d9CGsCGgG83+JoVA/uuRkjzaRk1RNYTW2FjQmIe9gvG9sn40t6OcuLdalypMCS2iP1X7+Emoo9aFSexo6+XmbU/LMaleMZuYVHdKV3O/NdijfSVZOsxBtGyxWRYaMSnos8Js9bGHwas=;2LWM3YJDbEf/nZAZPSu0rA=="
 ---

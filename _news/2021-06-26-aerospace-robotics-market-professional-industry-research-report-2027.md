@@ -7,8 +7,8 @@ originalUrl: "https://manometcurrent.com/aerospace-robotics-market-professional-
 webUrl: "https://manometcurrent.com/aerospace-robotics-market-professional-industry-research-report-2027/"
 type: article
 quality: 54
-heat: 74
-published: true
+heat: 64
+published: false
 
 provider:
   name: manometcurrent.com
@@ -25,33 +25,20 @@ images:
     isCached: true
 
 related:
-  - title: "Voice Recognition Market Growth Rate And Industry Analysis 2021-2026"
-    excerpt: "Voice Recognition Market offers good growth opportunities during the next five year period ending 2026 In its detailed market assessment report Stratview Research has analysed the Voice Recognition Market emerging trends forecasts competitive landscapes and factors governing the market dynamics"
-    publishedDateTime: 2021-06-28T10:54:00Z
-    webUrl: "https://www.openpr.com/news/2315215/voice-recognition-market-growth-rate-and-industry-analysis"
-    ampWebUrl: "https://www.openpr.com/amp/2315215/voice-recognition-market-growth-rate-and-industry-analysis"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2315215/voice-recognition-market-growth-rate-and-industry-analysis"
+  - title: "Aerospace Robotics Market Statistical Data with Revenue Growth $5,687 million by 2022 | Allied Market Research"
+    excerpt: "Aerospace Robotics Market Report, published by Allied Market Research, projects that the global aerospace robotics market is expected to reach $5,687 million by 2022, growing at a CAGR of 17.2% from 2016 to 2022."
+    publishedDateTime: 2021-06-26T03:16:00Z
+    webUrl: "https://apnews.com/press-release/MarketersMEDIA/business-robotics-technology-4bd14c11289258292f569c184f3c5db6"
     type: article
     provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 44
+      name: Associated Press
+      domain: apnews.com
+    quality: 34
     images:
-      - url: "https://cdn.openpr.com/U/6/U628741252_g.jpg"
-        width: 400
-        height: 300
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
-  - title: "New Report: AI In Telecommunications Market 2021 Size, Growth Analysis Report, Forecast to 2027"
-    excerpt: "The global artificial intelligence in telecommunication market size was valued at USD 679 0 million in 2019 and is expected to grow at a compound annual growth rate CAGR of 38 from 2021 to 2027 Artificial intelligence allows the telecom"
-    publishedDateTime: 2021-06-26T07:23:00Z
-    webUrl: "https://www.openpr.com/news/2314521/new-report-ai-in-telecommunications-market-2021-size-growth"
-    ampWebUrl: "https://www.openpr.com/amp/2314521/new-report-ai-in-telecommunications-market-2021-size-growth"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2314521/new-report-ai-in-telecommunications-market-2021-size-growth"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 27
 
 secured: "/I+9ONMXlOmkpAB5KDt3cSy0m3uHrCSoYij4qZHOPWkExnjHurIb/l69riubSBk9LMBGgWTIIolLw+pFJWuVuWLBrOIAoz4DO1qWcuR5289D9uScT9wnEpiS94EEJxaRY5qbyj15tv95NxExy/ZPaPJ1KJHx9PEHC/QeIsuozp8KSP1APgWrI0/FO6/KtOlpCZXromGq7NLqjzTSYY8SXHWnqWgjsK33rSVUdsnnk9uk84ak6/WLgEnKpKMEEWohg6O4H6s3C2Tz03fn4hPgIjcsaV+rfyr/hkaInPvFZtPxo5pa+cTmgXkFeSCWNMxMBtjkOEa3cybzRxMF+/DORbNnUou9Jsz0qFuJMtYrygs=;UQM/O0ea4sViZPDvjUZxCA=="
 ---
