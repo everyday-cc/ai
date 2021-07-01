@@ -61,6 +61,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Artificial Intelligence Market in Education Sector | Post COVID-19 Analysis | Technavio"
+    excerpt: "Artificial Intelligence Market in the Education Sector: Significant scope of AI applications The rapid increase in classroom sizes has reduced the interaction between students and teachers."
+    publishedDateTime: 2021-07-01T20:13:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/artificial-intelligence-market-in-education-sector-post-covid-19-analysis-technavio-1030573399"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 76
+    images:
+      - url: "https://mma.prnewswire.com/media/1555044/IRTNTR70660.jpg"
+        width: 400
+        height: 225
+        isCached: true
   - title: "Google deploys new AI tool to COVID-19 vaccine searches"
     excerpt: "Google's answer to combatting COVID vaccine misinformation has been to display resources from health authorities like the CDC in information boxes on search result pages. But the coronavirus — and COVID-related scams and fake news— have blown through international borders and language barriers."
     publishedDateTime: 2021-06-30T22:22:00Z

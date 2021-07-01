@@ -1,63 +1,45 @@
 ---
 category: news
 title: "'Edge of chaos' opens pathway to artificial intelligence discoveries"
-excerpt: "Some neuroscience theories suggest the human brain operates best 'at the edge of chaos'. Now scientists in Australia and Japan have found that keeping a nanowire network at the edge of becoming chaotic is the best state for it to produce useful signals to solve problems."
-publishedDateTime: 2021-06-29T04:00:00Z
-originalUrl: "https://www.eurekalert.org/pub_releases/2021-06/uos-oc062721.php"
-webUrl: "https://www.eurekalert.org/pub_releases/2021-06/uos-oc062721.php"
+excerpt: "Scientists at the University of Sydney and Japan's National Institute for Material Science (NIMS) have discovered that an artificial network of nanowires can be tuned to respond in a brain-like way when electrically stimulated."
+publishedDateTime: 2021-06-29T09:37:00Z
+originalUrl: "https://phys.org/news/2021-06-edge-chaos-pathway-artificial-intelligence.html"
+webUrl: "https://phys.org/news/2021-06-edge-chaos-pathway-artificial-intelligence.html"
 type: article
 quality: 39
 heat: -1
 published: false
 
 provider:
-  name: EurekAlert!
-  domain: eurekalert.org
+  name: Phys.org
+  domain: phys.org
 
 topics:
   - Machine Learning
   - AI
 
 images:
-  - url: "https://www.eurekalert.org/multimedia/pub/web/269158_web.jpg"
-    width: 1440
-    height: 1009
+  - url: "https://scx2.b-cdn.net/gfx/news/2021/edge-of-chaos-opens-pa.jpg"
+    width: 514
+    height: 225
     isCached: true
 
 related:
-  - title: "Edge Of Chaos Leverages Nanowire Pathways For Brain-Like Skynet Artificial Intelligence"
-    excerpt: "One of the more interesting developments in AI has to do with nanowire networks being trained to solve simple problems in a chaotic state."
-    publishedDateTime: 2021-06-29T15:39:00Z
-    webUrl: "https://hothardware.com/news/edge-of-chaos-nanowire-brain-like-artificial-intelligence"
-    ampWebUrl: "https://amp.hothardware.com/news/edge-of-chaos-nanowire-brain-like-artificial-intelligence"
-    cdnAmpWebUrl: "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/edge-of-chaos-nanowire-brain-like-artificial-intelligence"
+  - title: "'Edge of chaos' opens pathway to artificial intelligence discoveries"
+    excerpt: "This, they say, suggests the underlying nature of neural intelligence is physical, and their discovery opens an exciting avenue for the development of artificial intelligence. An artist's impression of a neural network (left) next to an optical micrograph of a physical nanowire network."
+    publishedDateTime: 2021-06-30T16:40:00Z
+    webUrl: "https://www.nanowerk.com/nanotechnology-news2/newsid=58366.php"
     type: article
     provider:
-      name: HotHardware
-      domain: hothardware.com
-    quality: 64
+      name: Nanowerk
+      domain: nanowerk.com
+    quality: 41
     images:
-      - url: "https://images.hothardware.com/contentimages/newsitem/55537/content/Artificial_Intelligence.jpg"
-        width: 708
-        height: 443
-        isCached: true
-  - title: "Artificial Network of Nanowires can be Tuned to Respond Like the Brain"
-    excerpt: "Researchers from the University of Sydney and the National Institute for Material Science (NIMS) in Japan have identified an artificial network of nanowires that can be adjusted to react in a brain-like manner upon electrical stimulation."
-    publishedDateTime: 2021-06-30T15:20:00Z
-    webUrl: "https://www.azonano.com/news.aspx?newsID=38055"
-    ampWebUrl: "https://www.azonano.com/amp/news.aspx?newsID=38055"
-    cdnAmpWebUrl: "https://www-azonano-com.cdn.ampproject.org/c/s/www.azonano.com/amp/news.aspx?newsID=38055"
-    type: article
-    provider:
-      name: AZoNano
-      domain: azonano.com
-    quality: 59
-    images:
-      - url: "https://d1otjdv2bf0507.cloudfront.net/images/news/ImageForNews_38055_16250552143377923.jpg"
+      - url: "https://www.nanowerk.com/nanotechnology-news2/id58366_1.png"
         width: 514
         height: 225
         isCached: true
 
-secured: "Q8lw/lnn1QK1H/xn3sVztDgNw3s51oY/UC3UTBQ2yaxRGRQqMy5qjTF073+Gz3s/eTq+Owq5giDb3/cBPqk3Hj6B1aH74vBTTOg5qXClmgZhuCHEnNVST5i/JlvOMq9bKJenmRIJf02m/uSjV+BJtJorJwyBXxrcQbHdp7eMBd8DTzvzMoam9GnpHd5S3L6twwBpEPqlvMebqKgveB9vk1YlXATfpnjlPgl1i9JCK9xCq59O13a+bbtMRhncVE5smjqmoXMewo4iGz8+rD30WSAYyshVQYRa1hDG1ET7DFHgGgeEdXNaG+pjGDlUL4x034EMcfRqkDtsYv2hPgW121uMRqatC148/dq86WvbXckPCxV0emMFZcJzMzonywZGrsSlFULtptn/h6k4oDw1kUGIosfZ1/gA3+xBIeMZoogF0Gmf42ya5tWaG3hVzQrBp6AUdFmZOatzWbTx6n/X7Uap8A05XpWoqtM/rugnZ7zZ6cVRzf8wzKic9NVm7iPdpY3eO+ax6T5BZl5ikjPI4w==;ehIhTYyCOoe6BCBJervAnA=="
+secured: "k7Qp/LsIM8pUoFHhXq0ThbbE6AarsibjGxBjyUs2cwk6hqzrJG0Eo5byYNQ5Lsn2N9i6DbI4up+VD3E1bRb0WPzm9BurqWxl/nKs6v4CRC92M56sVrnpTGnaYV8TT2TH6tvl1K9WtWS9/BMqEGDk4Q5rWt8jELgjiHmato1i5FRbvBFbFjoAh1jL+UpR0C8XIkWvetSgU68eSP+hXqfnMNUmlOb9WdF9PDV3dt5X+wQ5zI49s7smucJ4Pxu27NBCYrfQKzDHNf7eiG5VGFhVhMkymFWbgdrjAln0y/vKzMpvsHpanjVk/v+0xW7peO0hQv5cN44r5k/1bGXWPNIWRcAG10x8pnzt/Wu86wiLLfg=;Aq8uF3M+6qvQyvEB5u5lgA=="
 ---
 

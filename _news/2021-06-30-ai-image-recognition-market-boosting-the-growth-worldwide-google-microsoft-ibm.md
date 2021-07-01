@@ -36,6 +36,15 @@ related:
         width: 450
         height: 300
         isCached: true
+  - title: "Natural Language Processing (NLP) in Healthcare is anticipated to show growth by 2026 | 3M ,Cerner ,Averbis ,IBM Corporation ,Microsoft Corporation"
+    excerpt: "The up-to-date coverage of the latest report Natural Language Processing (NLP) in Healthcare Market provides a detailed synopsis as well as a consistent evaluation of accurate revenue over the forecasted timespan."
+    publishedDateTime: 2021-07-01T16:25:00Z
+    webUrl: "https://manometcurrent.com/natural-language-processing-nlp-in-healthcare-is-anticipated-to-show-growth-by-2026-3m-cerner-averbis-ibm-corporation-microsoft-corporation/"
+    type: article
+    provider:
+      name: manometcurrent.com
+      domain: manometcurrent.com
+    quality: 30
   - title: "Artificial Intelligence Platform Market 2021 Comprehensive Insights – Google, Baidu, IBM, Microsoft, SAP, Intel, Salesforce, Brighterion"
     excerpt: "The global Artificial Intelligence Platform market size is projected to reach US$ 185710 million by 2027, from US$ 16960 million in 2020, at a CAGR of 39.5% during 2021-2027. Top Leading Companies of Global Artificial Intelligence Platform Market are Google,"
     publishedDateTime: 2021-07-01T05:04:00Z

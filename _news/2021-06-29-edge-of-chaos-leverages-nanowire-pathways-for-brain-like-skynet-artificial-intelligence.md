@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.hothardware.com/news/edge-of-chaos-nanowire-brain-like-a
 cdnAmpWebUrl: "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/edge-of-chaos-nanowire-brain-like-artificial-intelligence"
 type: article
 quality: 64
-heat: 84
+heat: 74
 published: true
 
 provider:
@@ -41,20 +41,6 @@ related:
       - url: "https://d1otjdv2bf0507.cloudfront.net/images/news/ImageForNews_38055_16250552143377923.jpg"
         width: 514
         height: 225
-        isCached: true
-  - title: "'Edge of chaos' opens pathway to artificial intelligence discoveries"
-    excerpt: "Some neuroscience theories suggest the human brain operates best 'at the edge of chaos'. Now scientists in Australia and Japan have found that keeping a nanowire network at the edge of becoming chaotic is the best state for it to produce useful signals to solve problems."
-    publishedDateTime: 2021-06-29T04:00:00Z
-    webUrl: "https://www.eurekalert.org/pub_releases/2021-06/uos-oc062721.php"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 39
-    images:
-      - url: "https://www.eurekalert.org/multimedia/pub/web/269158_web.jpg"
-        width: 1440
-        height: 1009
         isCached: true
 
 secured: "Wp0OplhoCovvynCK9NDlwM91Vhx+Htri1pXbYic6EiVlVvmNv9d/1R09nzxmeOkvgYEDMRPzc7Z8Eu5d4EgYWwgL5d4LoQ7omQpTFkiWOTdMBSK/82RIWrhVPMZp2A1b/RUZaLTcn3RLIK2wyh/sXSUInTH0Ntvwown8a7+j1ccDkmoMlB5MxDotpF87gM4FDiKGCmOeiBRFMKhGyUWIVb87QzyeujfLBoCpAjfOUYjPB34DFTt5TakzFbY7VOZZaGjWotPpdGdIyhp3aUw6HtZH4RXgTJsSVimnvXpjGMcc+6kkcjPyrq3FV/IEJFfx5QM/L8QeeeAnE5Oc0W7/W5vjbZyriddNHwnFVMBL0lc=;zD+0+qxHsaHn6AIWoTSIiA=="

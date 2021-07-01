@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/maine-just-enacted-the-countrys
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/maine-just-enacted-the-countrys-toughest-restrictions-on-facial-recognition/"
 type: article
 quality: 101
-heat: 211
+heat: 231
 published: true
 
 provider:
@@ -123,6 +123,33 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Maine law restricts facial recognition technology statewide"
+    excerpt: "A bill touted as the country’s strictest statewide regulation on the use of facial recognition technology has become law in Maine."
+    publishedDateTime: 2021-07-01T19:02:00Z
+    webUrl: "https://www.sunherald.com/news/business/technology/article252486663.html"
+    ampWebUrl: "https://amp.sunherald.com/news/business/technology/article252486663.html"
+    cdnAmpWebUrl: "https://amp-sunherald-com.cdn.ampproject.org/c/s/amp.sunherald.com/news/business/technology/article252486663.html"
+    type: article
+    provider:
+      name: Biloxi Sun Herald
+      domain: sunherald.com
+    quality: 54
+  - title: "Civil rights group sues for records on use of facial recognition at New York prisons"
+    excerpt: "A civil rights group has filed suit against the New York Corrections Department for not turning over records on how it uses facial recognition technology on visitors at state lockups."
+    publishedDateTime: 2021-07-01T20:38:00Z
+    webUrl: "https://nypost.com/2021/07/01/civil-rights-group-sues-for-records-on-facial-recognition-use-at-ny-prisons/"
+    ampWebUrl: "https://nypost.com/2021/07/01/civil-rights-group-sues-for-records-on-facial-recognition-use-at-ny-prisons/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/07/01/civil-rights-group-sues-for-records-on-facial-recognition-use-at-ny-prisons/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 52
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/07/prison-facial-recognition-01.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Maine Enacts Strongest Statewide Facial Recognition Regulations in the Country"
     excerpt: "Maine has enacted the country’s strongest statewide facial recognition law. Maine’s law prohibits the use of facial recognition technology in most areas of government, including in public schools, and for surveillance purposes."
     publishedDateTime: 2021-06-30T15:14:00Z
@@ -200,6 +227,6 @@ related:
         height: 803
         isCached: true
 
-secured: "+lOGFdl1UekDPBzspTJHvCyZ6vaYuRVbv0XUqdwKdPev7JNoNad5RQuYoGVrUpsZQ48NVGqzBMPYTa47Cd4Aj++QwnTNMquvcc9dT9CSsbSLqtiV6KAEKo3KFtHQ7c2zzQe5jPpUxZvwHZaIOkXTPFAq9buuAFRwUxWRXhxpypmesQcHCGrHujG0ZE7P4W0AiA9KbAcoG6l4NmhQe/NS238DbZUregCLiuX40RrzEaF3DfMrYJ5/JtDgYs/97b+2GQEoG9YqlF/0klFE9W6vyOA0/b86Lnvri38gx+V4yKqu4ws5/GuPrz5q4gGimAlAKKKYQMu1fx13Zzjajdgia5JJofMExss6q2CUSxHBPYw=;p8Ys483b2hpBAsC8TPXsTg=="
+secured: "US4kvltPEXkTRKnS0xqCipjUrjkaECMkgRH/m1bgyV3Zm+uH1z7XjYeeCEYsBLGRLOKckavHE/9bXLZiOYS2/rk+bKzmSDXkFCOufQnPY+iyaWkctV/k+OSqpjkva2MnVV9FvRFPsWNVYZmVbWFyYPjN/g4luZWn0rAgxSpbylyoalzbGPqf2dFyarHucU3ePCZJyqo7MXZ8vo1ZKU3x8Thmmm78taNplVG9KO5dB/72hLk6EaRFmdViG1FuTL0t0uip3sTQQFXG+afZqUqqrkC2ah9Qezr6zp5yNRVHtZFquk7t8TguoVnELrfi7bXg0Y+pS9AMgmJaebqAknmhmGGmAFkcADFofoYK+U8uTlySrUfIguppcx9HfIEcw3XD76xRErP1Cr4dxQR6/mqvoMgY4dgcbJKXyeWqCqUTpmD5ZJqe1gC9vRrEUDqkC27mV2Twpz2RlASrPx9iipJb1CpMjgI6+hJPL3UWfqm+unin8Hot1My1VC6QA3i1jZ3K6d/JKF0MikpX+L5WMJLiEQ==;O1pNwy+8ZwOEyObWlWYX1g=="
 ---
 

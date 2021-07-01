@@ -123,6 +123,33 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Maine law restricts facial recognition technology statewide"
+    excerpt: "A bill touted as the country’s strictest statewide regulation on the use of facial recognition technology has become law in Maine."
+    publishedDateTime: 2021-07-01T19:02:00Z
+    webUrl: "https://www.sunherald.com/news/business/technology/article252486663.html"
+    ampWebUrl: "https://amp.sunherald.com/news/business/technology/article252486663.html"
+    cdnAmpWebUrl: "https://amp-sunherald-com.cdn.ampproject.org/c/s/amp.sunherald.com/news/business/technology/article252486663.html"
+    type: article
+    provider:
+      name: Biloxi Sun Herald
+      domain: sunherald.com
+    quality: 54
+  - title: "Civil rights group sues for records on use of facial recognition at New York prisons"
+    excerpt: "A civil rights group has filed suit against the New York Corrections Department for not turning over records on how it uses facial recognition technology on visitors at state lockups."
+    publishedDateTime: 2021-07-01T20:38:00Z
+    webUrl: "https://nypost.com/2021/07/01/civil-rights-group-sues-for-records-on-facial-recognition-use-at-ny-prisons/"
+    ampWebUrl: "https://nypost.com/2021/07/01/civil-rights-group-sues-for-records-on-facial-recognition-use-at-ny-prisons/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/07/01/civil-rights-group-sues-for-records-on-facial-recognition-use-at-ny-prisons/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 52
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/07/prison-facial-recognition-01.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Maine Enacts Strongest Statewide Facial Recognition Regulations in the Country"
     excerpt: "Maine has enacted the country’s strongest statewide facial recognition law. Maine’s law prohibits the use of facial recognition technology in most areas of government, including in public schools, and for surveillance purposes."
     publishedDateTime: 2021-06-30T15:14:00Z
@@ -200,6 +227,6 @@ related:
         height: 803
         isCached: true
 
-secured: "OzUeFfFyo9znuAI8nmxjMOoh/8eLsQ/8Q9R2TXwv/25Obd5m2iWzNidjpbeSrvvXuDdz2bRbvo4A3o9e0hld7gA0nFYNAZTfwpdL+BDweITwLNVhwctMQi8cq1mr9I/YGthIE3d6anBgpMrOe6tzeKmqJXXGp/UniObQ10zUFPf9yP14J3xBlEaqbK4ilVF59NbIxwkKaabjkPA8vcrCHnTYlWfOG4KNUCo6ttZ76cuiF4XFxLHFFvcGMbL+9GD6tzuJNGZ1KgjG5Ehao/W1uIXqCWrYHM2VayygkhOE62WHaYl8fB54Jccg0nSRki+90ANqUwiW1Y5FDL/PsmkOzHkXpd6We+Xh0P92VeWatXs=;ou0Pu9OxZE9/0X7PaymOEw=="
+secured: "m2WtpkEaEwnNW6bIIAXnmTuiVtSyBGovr5kQLu8o1TgvLEPyMXt8ysRpSqyoGfCQgTpzbsL+0PtECOoHuil0KHfQt/P6zE4WtXUBr1UeKVDVj9p2aw8AT19lf8AsRHeOtC37fsPrkBd//FS+zWDWsyHk3+3MIk7Vc5mfUyNBfJ1m5WB2uKYqKOFG6HepoQidRNCYZtF+ZvDDORnaDr266IDL1BCjUseDwot/3J36KVYaAah9AsKTC0O6GWsH8CxRQuP/36FdqQ+K3pT/fxcFgmDOp+2ddQ0wr8dyeEYBA7jShnBD3tToMn0I8rFEWo0ZpX+c4HA5/5Izv3dFRxGs/KBsPwS3gl4rnqWc57ds0Y31LkT1JMoywuGvPzAbwjMufZl2hcO3QOBiZczIFerwlFuU+CAV6ZtQyAoZs0c3Hu6kr12n0LDG8VBzsujhXgoFJtyckDKcnMhFJpHUTfG58/XwUb7BXtNLeS5N6uHjZd83gJ3QXYy7422QZloFk5AoOGn46T8IWAVXXHXeYhtNRw==;HzRGp2em6ywfGu6vH7O6zw=="
 ---
 

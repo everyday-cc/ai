@@ -133,6 +133,33 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Maine law restricts facial recognition technology statewide"
+    excerpt: "A bill touted as the country’s strictest statewide regulation on the use of facial recognition technology has become law in Maine."
+    publishedDateTime: 2021-07-01T19:02:00Z
+    webUrl: "https://www.sunherald.com/news/business/technology/article252486663.html"
+    ampWebUrl: "https://amp.sunherald.com/news/business/technology/article252486663.html"
+    cdnAmpWebUrl: "https://amp-sunherald-com.cdn.ampproject.org/c/s/amp.sunherald.com/news/business/technology/article252486663.html"
+    type: article
+    provider:
+      name: Biloxi Sun Herald
+      domain: sunherald.com
+    quality: 54
+  - title: "Civil rights group sues for records on use of facial recognition at New York prisons"
+    excerpt: "A civil rights group has filed suit against the New York Corrections Department for not turning over records on how it uses facial recognition technology on visitors at state lockups."
+    publishedDateTime: 2021-07-01T20:38:00Z
+    webUrl: "https://nypost.com/2021/07/01/civil-rights-group-sues-for-records-on-facial-recognition-use-at-ny-prisons/"
+    ampWebUrl: "https://nypost.com/2021/07/01/civil-rights-group-sues-for-records-on-facial-recognition-use-at-ny-prisons/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/07/01/civil-rights-group-sues-for-records-on-facial-recognition-use-at-ny-prisons/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 52
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/07/prison-facial-recognition-01.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Federal agencies used facial recognition tech on George Floyd protesters, according to a new report"
     excerpt: "Over the past few years, activists have raised the alarm about the growing use of facial recognition technology in the United States. Many say that in the hands of law enforcement agencies, the technology poses great surveillance concerns,"
     publishedDateTime: 2021-06-30T22:09:00Z

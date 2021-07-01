@@ -44,6 +44,15 @@ related:
       name: manometcurrent.com
       domain: manometcurrent.com
     quality: 30
+  - title: "Natural Language Processing (NLP) in Healthcare is anticipated to show growth by 2026 | 3M ,Cerner ,Averbis ,IBM Corporation ,Microsoft Corporation"
+    excerpt: "The up-to-date coverage of the latest report Natural Language Processing (NLP) in Healthcare Market provides a detailed synopsis as well as a consistent evaluation of accurate revenue over the forecasted timespan."
+    publishedDateTime: 2021-07-01T16:25:00Z
+    webUrl: "https://manometcurrent.com/natural-language-processing-nlp-in-healthcare-is-anticipated-to-show-growth-by-2026-3m-cerner-averbis-ibm-corporation-microsoft-corporation/"
+    type: article
+    provider:
+      name: manometcurrent.com
+      domain: manometcurrent.com
+    quality: 30
   - title: "Artificial Intelligence in IoT Market Size and Growth 2021-2028 | Top Leading Players – IBM, Microsoft, Google, PTC, AWS, Oracle, GE, Salesforce"
     excerpt: "The report titled Artificial Intelligence in IoT Market is a comprehensive document containing valuable insights into market elements such as drivers, restraints, competitive landscape, and technology development."
     publishedDateTime: 2021-06-30T06:03:00Z

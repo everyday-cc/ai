@@ -56,6 +56,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Artificial Intelligence Market in Education Sector | Post COVID-19 Analysis | Technavio"
+    excerpt: "Artificial Intelligence Market in the Education Sector: Significant scope of AI applications The rapid increase in classroom sizes has reduced the interaction between students and teachers."
+    publishedDateTime: 2021-07-01T20:13:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/artificial-intelligence-market-in-education-sector-post-covid-19-analysis-technavio-1030573399"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 76
+    images:
+      - url: "https://mma.prnewswire.com/media/1555044/IRTNTR70660.jpg"
+        width: 400
+        height: 225
+        isCached: true
   - title: "Artificial Intelligence MARKET Market Size, Share, Industry Analysis, Growth COVID-19 Analysis and Forecast 2021-2030"
     excerpt: "In a recent published report, Kenneth Research has updated the Artificial Intelligence MARKET report for for 2021"
     publishedDateTime: 2021-06-30T04:49:00Z

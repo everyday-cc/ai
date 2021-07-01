@@ -9,7 +9,7 @@ ampWebUrl: "https://www.openpr.com/amp/2316846/natural-language-processing-marke
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2316846/natural-language-processing-market-may-set-a-new-epic-growth"
 type: article
 quality: 66
-heat: 106
+heat: 116
 published: true
 
 provider:
@@ -32,6 +32,15 @@ related:
     excerpt: "Advance Market Analytics published a new research publication on “AI Image Recognition Market Insights, to 2026″ with 232 pages and enriched with self-explained Tables and charts in presentable format."
     publishedDateTime: 2021-06-30T15:18:00Z
     webUrl: "https://manometcurrent.com/ai-image-recognition-market-boosting-the-growth-worldwide-google-microsoft-ibm/"
+    type: article
+    provider:
+      name: manometcurrent.com
+      domain: manometcurrent.com
+    quality: 30
+  - title: "Natural Language Processing (NLP) in Healthcare is anticipated to show growth by 2026 | 3M ,Cerner ,Averbis ,IBM Corporation ,Microsoft Corporation"
+    excerpt: "The up-to-date coverage of the latest report Natural Language Processing (NLP) in Healthcare Market provides a detailed synopsis as well as a consistent evaluation of accurate revenue over the forecasted timespan."
+    publishedDateTime: 2021-07-01T16:25:00Z
+    webUrl: "https://manometcurrent.com/natural-language-processing-nlp-in-healthcare-is-anticipated-to-show-growth-by-2026-3m-cerner-averbis-ibm-corporation-microsoft-corporation/"
     type: article
     provider:
       name: manometcurrent.com
