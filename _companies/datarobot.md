@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "DataRobot"
   url: "https://twitter.com/DataRobot"
-  followers: 18126
+  followers: 18128
 
 size: 501-1,000 employees
 yearFounded: 2012
@@ -32,7 +32,7 @@ topics:
   - Machine Learning
 
 images:
-  - url: "https://pbs.twimg.com/profile_images/1400470049140314115/6HFmLN9W_400x400.jpg"
+  - url: "https://pbs.twimg.com/profile_images/1410591733272829955/p2WI_yDV_400x400.png"
     width: 400
     height: 400
     isCached: true
