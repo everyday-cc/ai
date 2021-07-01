@@ -33,7 +33,7 @@ topics:
   - Natural Language Processing
 
 images:
-  - url: "https://pbs.twimg.com/profile_images/1400109907794354179/4v0_VCaY_400x400.jpg"
+  - url: "https://pbs.twimg.com/profile_images/1410626979230064652/JylQhy_m_400x400.jpg"
     width: 400
     height: 400
     isCached: true
