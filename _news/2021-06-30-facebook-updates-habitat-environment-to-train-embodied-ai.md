@@ -8,8 +8,8 @@ webUrl: "https://venturebeat.com/2021/06/30/facebook-updates-habitat-environment
 ampWebUrl: "https://venturebeat.com/2021/06/30/facebook-updates-habitat-environment-to-train-embodied-ai/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/30/facebook-updates-habitat-environment-to-train-embodied-ai/amp/"
 type: article
-quality: 91
-heat: 141
+quality: 93
+heat: 143
 published: true
 
 provider:
@@ -24,6 +24,7 @@ topics:
   - Natural Language Processing
   - AI
   - Facebook AI
+  - AI Hardware
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2020/08/facebook-dark-background.jpg?w=1200&strip=all"

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/saibala/2021/06/27/a-company-that-uses-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/saibala/2021/06/27/a-company-that-uses-ai-to-fight-malaria-just-won-the-ibm-watson-ai-xprize-competition/amp/"
 type: article
 quality: 97
-heat: 127
+heat: 137
 published: true
 
 provider:
@@ -65,6 +65,20 @@ related:
       name: ITWeb
       domain: itweb.co.za
     quality: 54
+  - title: "IBM Watson Advertising announces new research to explore the role of artificial intelligence in detecting and mitigating advertising bias"
+    excerpt: "A six-month research project will use IBM's open source artificial intelligence technology and Ad Council campaign data"
+    publishedDateTime: 2021-07-01T11:09:00Z
+    webUrl: "https://debatepost.com/celebrity/2021/07/01/ibm-watson-advertising-announces-new-research-to-explore-the-role-of-artificial-intelligence-in-detecting-and-mitigating-advertising-bias/"
+    type: article
+    provider:
+      name: debatepost.com
+      domain: debatepost.com
+    quality: 21
+    images:
+      - url: "https://debatepost.com/wp-content/uploads/2021/07/IBM-Watson-Advertising-announces-new-research-to-explore-the-role.jpg"
+        width: 600
+        height: 300
+        isCached: true
 
 secured: "Jr4Sh11OwMYZUZXGWYAR6uQhOIcRAXCVg6HuY2jFs78yCbiQiixIS1wkd1DQ55BVF2iAhOu8Of+iOPAyuxOF8JakZBEmyZtHPavcb+Yt89PggLsZjn45aLF8h7x2w3rmkD1JJA4XO9yy1G1iLdRkCR5cDITAwqfDiVD315S4GRlFp7cGsEWLtM62HBo5arnp+cp3iSoP2d/1TpdZnkxvguwgPh2TtQaMH6uuRdOBUswOn2EqCUQDu5SN6Z40IhQEkLtYFfLTvJaNL5ZwqJxjeXAhw+eZN6o7yjCFGk1IxmCdhiSJazFBvSjJ2TyQl36Pl1zzy04b/uvUlturyCZp1YxHsZN9pHO1PUl9avXi10ZQZrdJ7NXjtY3uzRaYpDoApMuT36nWFvwGVB9HMdz2kzakgh39ZfhWnvd0xGwvVgnqPNKJR0xjk/wjJD1wZ1bpXWDsqahDUPnApXItVrnzNylIDcoHCLOooAwRk9zHLpBAHB7WgSxS8kLmeD1tZkqYllyIQHIOcFo1TAV5RQfDjQ==;G9rCDch5gvEt94v5QbUbsw=="
 ---

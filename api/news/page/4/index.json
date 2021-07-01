@@ -980,7 +980,7 @@
       "originalUrl": "https://www.miragenews.com/who-issues-first-global-report-on-ai-in-health-586075/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 244,
+      "heat": 254,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -1161,21 +1161,21 @@
       ]
     },
     {
-      "path": "_news/2021-06-28-uk-watchdog-raises-alarm-over-live-face-recognition-tech.md",
-      "title": "UK watchdog raises alarm over live face recognition tech",
-      "excerpt": "Unlike CCTV, LFR and its algorithms can automatically identify who you are and infer sensitive details about you. The chief data protection regulator in the UK has expressed grave concerns over the inappropriate use of live facial recognition (LFR) technology in public places.",
+      "path": "_news/2021-06-28-artificial-intelligence-at-the-service-of-the-company.md",
+      "title": "Artificial intelligence at the service of the company",
+      "excerpt": "Two of the companies created in The Collider, the innovation programme of the Mobile World Capital of Barcelona, stand out for applying artificial intelligence in",
       "sourceUrl": null,
-      "webUrl": "https://www.tribuneindia.com/news/science-technology/uk-watchdog-raises-alarm-over-live-face-recognition-tech-271870",
-      "originalUrl": "https://www.tribuneindia.com/news/science-technology/uk-watchdog-raises-alarm-over-live-face-recognition-tech-271870",
+      "webUrl": "https://www.lavanguardia.com/economia/20210628/7551935/artificial-intelligence-at-the-service-of-the-company.html",
+      "originalUrl": "https://www.lavanguardia.com/economia/20210628/7551935/artificial-intelligence-at-the-service-of-the-company.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 109,
       "tags": null,
       "images": [
         {
-          "url": "https://englishtribuneimages.blob.core.windows.net/gallary-content/2021/6/2021_6$largeimg_1321701872.jpg",
-          "width": 660,
-          "height": 440,
+          "url": "https://www.lavanguardia.com/files/image_948_465/uploads/2021/06/22/60d19a84d34b0.jpeg",
+          "width": 948,
+          "height": 465,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1183,13 +1183,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.tribuneindia.com/news/science-technology/uk-watchdog-raises-alarm-over-live-face-recognition-tech-271870",
-      "cdnAmpWebUrl": "https://www-tribuneindia-com.cdn.ampproject.org/c/s/www.tribuneindia.com/news/science-technology/uk-watchdog-raises-alarm-over-live-face-recognition-tech-271870",
-      "publishedDateTime": "2021-06-27T18:44:00-07:00",
+      "ampWebUrl": "https://www.lavanguardia.com/economia/20210628/7551935/artificial-intelligence-at-the-service-of-the-company.amp.html",
+      "cdnAmpWebUrl": "https://www-lavanguardia-com.cdn.ampproject.org/c/s/www.lavanguardia.com/economia/20210628/7551935/artificial-intelligence-at-the-service-of-the-company.amp.html",
+      "publishedDateTime": "2021-06-27T19:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "The Tribune",
-        "domain": "tribuneindia.com",
+        "name": "La Vanguardia",
+        "domain": "lavanguardia.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1199,7 +1199,7 @@
         "news"
       ],
       "topics": [
-        "Computer Vision",
+        "Machine Learning",
         "AI"
       ]
     }

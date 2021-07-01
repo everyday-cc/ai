@@ -41,6 +41,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Microsoft bolsters Azure with AT&T 5G deal and security collaboration"
+    excerpt: "Microsoft has struck agreements with US networking giant AT&T and the cyber security organisation MITRE to bring additional 5G support as well as threat monitoring capabilities to Azure. As part of its deal with MITRE,"
+    publishedDateTime: 2021-07-01T09:55:00Z
+    webUrl: "https://www.itpro.co.uk/cloud/microsoft-azure/360068/microsoft-azure-5g-att-security-mitre"
+    type: article
+    provider:
+      name: IT Pro
+      domain: itpro.co.uk
+    quality: 101
+    images:
+      - url: "https://media.itpro.co.uk//image/upload/f_auto,t_primary-image-mobile@1/v1584968476/itpro/2020/03/Microsoft%20Azure_Shutterstock.jpg"
+        width: 375
+        height: 210
+        isCached: true
   - title: "Microsoft Announces the General Availability of Azure ND A100 V4 Cloud GPU Instances"
     excerpt: "Microsoft announced the general availability of the Azure ND A100 v4 Cloud GPU instances—powered by NVIDIA A100 Tensor Core GPUs. These Virtual Machines (VMs) are targeted at customers with high performance and demanding workloads like Artificial Intelligence (AI) and Machine Learning (ML) workloads."
     publishedDateTime: 2021-06-29T11:08:00Z
@@ -125,6 +139,20 @@ related:
         width: 716
         height: 439
         isCached: true
+  - title: "Cloud wars heat up: AT&T moves 5G cloud to Azure, sells Network Cloud tech to Microsoft"
+    excerpt: "AT&T is making big changes in its cloud computing efforts, deciding to move its next-generation 5G wireless core to Microsoft's Azure cloud and also selling its Network Cloud Platform tech to"
+    publishedDateTime: 2021-07-01T11:47:00Z
+    webUrl: "https://www.wraltechwire.com/2021/07/01/cloud-wars-heat-up-att-moves-5g-cloud-to-azure-sells-network-cloud-tech-to-microsoft/"
+    type: article
+    provider:
+      name: WRAL TechWire
+      domain: wraltechwire.com
+    quality: 46
+    images:
+      - url: "https://www.wraltechwire.com/wp-content/uploads/2020/11/cloud-computing-internet-of-things-e1605713015179-1024x576.png"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "BUSINESS WIRE: OAG’s Flight Info API Now Available in the Microsoft Azure Marketplace"
     excerpt: "The Azure Marketplace is an online market for buying and selling ... Sordin e Cardo Crew collaborano per creare una nuova generazione di protezioni auricolari intelligenti dedicate ai team dei professionisti mobili 14:10 BUSINESS WIRE: Sordin und Cardo ..."
     publishedDateTime: 2021-06-28T12:47:00Z
@@ -146,7 +174,7 @@ related:
   - title: "AT&T to run its mobility network on Microsoft's Azure for Operators cloud, delivering cost-efficient 5G services at scale"
     excerpt: "AT&T will move its 5G mobile network to the Microsoft cloud. This strategic alliance provides a path for all of AT&T's mobile network traffic to be managed using Microsoft Azure technologies. The companies will start with AT&T's 5G core,"
     publishedDateTime: 2021-06-30T14:36:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2021/06/30/9401145.htm"
+    webUrl: "https://www.tmcnet.com/usubmit/-att-run-its-mobility-network-microsofts-azure-operators-/2021/06/30/9401145.htm"
     type: article
     provider:
       name: TMCnet
@@ -167,6 +195,6 @@ related:
       domain: ksusentinel.com
     quality: 13
 
-secured: "oHh1QUZ0EKd1/kFLQjk2Zw73iae5Rnni5ezBCGla3GMbFmCl4SX7/M0j4hyc0t63yBDsxv7Z9BYoFxaTCBAX22geyaMosJu/fvhUrvScl0JAnqlFGZTnOAan5Fjn0jarI86fUqbZOCmcZ0HeOGJVnXOPaNnqYHFP1QnUH8N21let24aMixsXoYZ/49emRtJ2E0olyyWs0MeWRzRi1k3m8IlhdybfaY9cAdelaMWwukTMQJKigVTVQzYROc4AAfjOZsPXqb9FTe0euBG3+GR2lhcjeSY2dTkHUqjbuiTBLcS8ZSxka4S5xdFUen/XM6KU/dyAqN2xCglWbKvZ48gbDmYIugBCut3RvDOwfGF0mdY=;kry7mys5VTURonHfjhbUGw=="
+secured: "ecGNxcRrWZbxDH/zmYcfo0MbrbXzFQwPwg2ncEdjnbguIy75tDKkU6P7pXu+PfBEqP/lUPtx0He5FG7NC0POVGRSqe2gtm7CuK6uTp+CbhOEkI4KhiEfECs8/5hR6uSVfcdFDj3+N6w2YPK6vANG+2qAxwooxGoiBJZw+BzuKeZKomyjGDTbpKfrkYBFoogXbu0ztPVmfk4xcbLGd44wGyJE+m44gzYUx3bhrs0xOfU3WlWptNmVdPcF3M/vGREc2/xtaliD6q8nxxEZSCB5aLgbyDoXgXAZ2S9U0KaUre7KfUFYsLZ/RLzHGHSW5lLKgULQSA+8Y/7M81URQFdkNl2sj7G5EBJoxD1CtZEG6cw=;yuUrDiZQzU0xCNVKymwK/w=="
 ---
 

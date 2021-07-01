@@ -64,6 +64,20 @@ related:
       name: ITWeb
       domain: itweb.co.za
     quality: 54
+  - title: "IBM Watson Advertising announces new research to explore the role of artificial intelligence in detecting and mitigating advertising bias"
+    excerpt: "A six-month research project will use IBM's open source artificial intelligence technology and Ad Council campaign data"
+    publishedDateTime: 2021-07-01T11:09:00Z
+    webUrl: "https://debatepost.com/celebrity/2021/07/01/ibm-watson-advertising-announces-new-research-to-explore-the-role-of-artificial-intelligence-in-detecting-and-mitigating-advertising-bias/"
+    type: article
+    provider:
+      name: debatepost.com
+      domain: debatepost.com
+    quality: 21
+    images:
+      - url: "https://debatepost.com/wp-content/uploads/2021/07/IBM-Watson-Advertising-announces-new-research-to-explore-the-role.jpg"
+        width: 600
+        height: 300
+        isCached: true
 
 secured: "xemiKY9Pwb9s+2IKP7CAH9MrSZ2dqVVI2qeTpt7b/ts3wZ5mW/qnM/cWHrMJfQq8QWBepBHs4MrScR7PfRJI6d+GaxbnNCBxjqiCPn4vqUcdEXcu6cVrDA0A2AdPypyo9iDHKkPwZI2kayHCKM8rN02wi/dHWlY8mE+4eMIHYJ3XHmeNSNK40Z7W5onvjehqLRrfDhOHdF7mK5+Cccf+UxRmJlnakmmnbx6XWm23LiRqu9zG4vwjvrbVU6glIoc28cShaqDabOhWVAzG4sGKHMt2It1dhkm8LyzHYHDanI3LaD3uOsJ0IR3o1n4Vo/t84haBOjF2OcgUJMQ04ZrMr0xcigHc2HWf3bCnwStOROs=;0svkT26QXVUTJkn6Z3h4IQ=="
 ---

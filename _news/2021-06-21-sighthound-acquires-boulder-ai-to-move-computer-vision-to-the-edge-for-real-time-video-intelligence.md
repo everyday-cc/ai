@@ -1,29 +1,26 @@
 ---
 category: news
 title: "Sighthound Acquires Boulder AI to Move Computer Vision to the Edge for Real-time Video Intelligence"
-excerpt: "Sighthound to provide the first Programmable Video Management System (VMS) powered by AI to push the industry towards flexible, cost-effective solutions that give customers actionable video analytics data."
+excerpt: "Sighthound to provide the first Programmable Video Management System (VMS) powered by AI to push the industry towards flexible, cost-effective solutions that give customers actionable"
 publishedDateTime: 2021-06-21T14:43:00Z
-originalUrl: "https://www.pr.com/press-release/838951"
-webUrl: "https://www.pr.com/press-release/838951"
+originalUrl: "https://www.wicz.com/story/44143432/sighthound-acquires-boulder-ai-to-move-computer-vision-to-the-edge-for-real-time-video-intelligence"
+webUrl: "https://www.wicz.com/story/44143432/sighthound-acquires-boulder-ai-to-move-computer-vision-to-the-edge-for-real-time-video-intelligence"
 type: article
-quality: 40
-heat: 40
-published: false
 
 provider:
-  name: PR
-  domain: pr.com
+  name: FOX 40 WICZ TV
+  domain: wicz.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://img.pr.com/release/2106/490428/pressrelease_original_490428_1624279202.png"
+  - url: "https://PRDOTCOM.images.worldnow.com/images/20911274_G.png?lastEditedDate=1624272202000"
     width: 879
     height: 825
     isCached: true
 
-secured: "Nsuk03SkrySf8iF62zRCrRT0TDjWqftB69+PE5eJT+mu1z63jNXa7amUGtK5i6Vq7RZoeIzlF/3TXrvRVR/6oMxg0fL8koSbL8J1NFc2rTPWhx2wyBaMGpcJb1d4WESGd6IKet7p2g1s2lQOscx8RlqBKoeZ/FZ/zj/P7tVUzR/dovIawwbBr3q3mMt4QsrtL6NGLkH5nClXtkrXHIyXVCyQZUzqbXhkiBOY7dD62JZ3mUaqqA5sqDNX54klDnyftxDfkFSqSNy/jOrYx/QjjdL1WGzKqeHYID/odhhHQee0MgmizZWKgD9XmgSON/hrTsOSx4Pq84o+DUvVUZ47H6HnrhqTPQj4pLn4uE8qnfex0M03Icj4Hk1R5GbajhEuph2/1dOJrBQnzMoBvge14IpkD5fIOiO/xafXyoiyahXHeJJctU7C++XIYjetfQCywugrwJG7S/6vTM2aY56dR0GcrvFe32gk/dwhW0UdUQ0zuVWGd1tWRaw0YqU6xw9b3fIB+Cf8VP/kIFCtTAjNog==;9ZuXtoc779xuY5WxukTHug=="
+secured: "kwxNVXNyy4jDiAjgT5aLiHFFpkNqsqSzCBfKevXzaffED7nA20L+KPOypwNnBLYqd43pGytruypa/x2AY92npmT4oQpQtnEqRqwNFUQekAHnWrTCTov2I7FZtlteYzH6ffODjkwu5AUwxbi3IwdmcTzqLnEvcyt+r1hngjuvnV7XVJjQ43OhFYFE/+jy/o01xQPUELSN5V357azfAOL9F1tTWURyDWakin4MlHBTx3LI1osPKOL7NpP680w7haCpPnumTO2gEoyqJYAw5+8TquhtI0AByo1zLdHUuKud7aCULC9xEHsWydMuYCGnshXrd9EGq4U6N04JhQRsifKNU0vpVWgnbUOywBtvNS5FD2M=;EX/qIlACj8m3xp4sx+Y5LA=="
 ---
 

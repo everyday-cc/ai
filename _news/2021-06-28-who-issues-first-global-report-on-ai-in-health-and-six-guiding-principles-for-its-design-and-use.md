@@ -7,7 +7,7 @@ originalUrl: "https://www.miragenews.com/who-issues-first-global-report-on-ai-in
 webUrl: "https://www.who.int/news/item/28-06-2021-who-issues-first-global-report-on-ai-in-health-and-six-guiding-principles-for-its-design-and-use"
 type: article
 quality: 104
-heat: 244
+heat: 254
 published: true
 
 provider:
@@ -119,6 +119,20 @@ related:
         width: 800
         height: 434
         isCached: true
+  - title: "WHO Lays Down 6 Principles To Use AI In Healthcare"
+    excerpt: "The World Health Organization (WHO) recently issued its first global report on artificial intelligence in healthcare and six guiding principles for its design and use. The report titled ‘Ethics and governance of artificial intelligence for health’ has been published after two years of consultations held by a panel of international experts appointed by WHO."
+    publishedDateTime: 2021-07-01T10:30:00Z
+    webUrl: "https://analyticsindiamag.com/who-lays-down-6-principles-to-use-ai-in-healthcare/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 56
+    images:
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/06/AIM-17.jpg"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "WHO guidance on Artificial Intelligence to improve healthcare, mitigate risks worldwide"
     excerpt: "Artificial Intelligence (AI) holds \"enormous potential\" for improving the health of millions around the world if ethics and human rights are at the"
     publishedDateTime: 2021-06-28T14:50:00Z
@@ -206,7 +220,7 @@ related:
   - title: "Global Artificial Intelligence in Healthcare: Deals and Agreements by Leading Players From 2010-2021 - ResearchAndMarkets.com"
     excerpt: "Partnering Terms and Agreements 2010 to 2021” report has been added to ResearchAndMarkets.com’s offering. The Global Artificial Intelligence (AI) Partnering Terms and Agreements 2010 to 2021 report provides an understanding and access to the artificial intelligence partnering deals and agreements entered into by the world’s leading healthcare companies."
     publishedDateTime: 2021-06-28T16:53:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/artificial-intelligence-business-technology-c8cf1d7a3c1e49999f2dbe3d728e684e"
+    webUrl: "https://apnews.com/press-release/BusinessWire/artificial-intelligence-business-technology-c8cf1d7a3c1e49999f2dbe3d728e684e"
     type: article
     provider:
       name: Associated Press

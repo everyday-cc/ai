@@ -7,8 +7,8 @@ originalUrl: "https://news.mit.edu/2021/righthand-robotics-0701"
 webUrl: "https://news.mit.edu/2021/righthand-robotics-0701"
 type: article
 quality: 69
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: Massachusetts Institute of Technology
@@ -27,6 +27,22 @@ images:
     width: 1500
     height: 1000
     isCached: true
+
+related:
+  - title: "The robots are coming"
+    excerpt: "Experts know that change is coming but remain uncertain about how, when, and where those changes will occur. It follows that cities that ready themselves sooner rather than later will develop more immunity to the latest strain of economic upheaval."
+    publishedDateTime: 2021-07-01T11:46:00Z
+    webUrl: "https://www.marinatimes.com/the-robots-are-coming"
+    type: article
+    provider:
+      name: Marina Times
+      domain: marinatimes.com
+    quality: 39
+    images:
+      - url: "https://www.marinatimes.com/wp-content/uploads/2019/06/MT-Jun2019-NORTHSIDE-Marination-640x426.jpg"
+        width: 640
+        height: 426
+        isCached: true
 
 secured: "hn19POdNa/Q0JFWuHHAyOGeEWUkBhLHqXTlknAz6qpadDdl9+grt7eoQFkt40eULPrfbPgyI3ukLuyAiNVi6l0g91PGyx7qrKKrMEoEUBvF+ebnLiWWkbNPvppwl+E4MC63HFxoYOG5d5988JzTzpLkZrM3MVZobQ8IZ9Z3HeifTm74dZ5qVmOJvxrQ+23KnywMIVIg14d7G/PHFmvuFUuLRSf167crEVJScnqBv1S/W7AM08eS7Zdy91hqE8LcQ498/Q9gqFeLjoGeQP1fhYKvIOR19L3QVCuG/cmfBqm0zYBH2Uubmhm8eY+SL5ufJmIIUR7iJ6JNH57NmUmr6Xd43YYfdYsXwmYt3YuH3mK0FhxwNXctUUCaLSogViF1P5QvclLtASq6rEBHf9Zqu0ZKkVEKlQiUrhXFFnXLpI4BgI4qcFK49uLELegQ3n7oTqp0gEcvIBHCsDCnQufMQHv6UTmChFfbi1HmetBvIHUCrhuwYlEe1PW82p8acERsIWA7gt62Kl8nf1kv1FarBNw==;4EmUdUjWjdF7TIDq4NQ00g=="
 ---

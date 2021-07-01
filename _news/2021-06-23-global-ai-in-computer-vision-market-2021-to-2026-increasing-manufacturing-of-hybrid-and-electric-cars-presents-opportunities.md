@@ -1,30 +1,22 @@
 ---
 category: news
 title: "Global AI in Computer Vision Market (2021 to 2026) - Increasing Manufacturing of Hybrid and Electric Cars Presents Opportunities"
-excerpt: "The AI in computer vision market is estimated to be valued at USD 15.9 billion in 2021 and reach USD 51.3 billion by 2026, at a CAGR of 26.3% between 2021 and 2026. The growing need for quality inspection and automation,"
-publishedDateTime: 2021-06-23T10:13:00Z
-originalUrl: "https://www.marketwatch.com/press-release/global-ai-in-computer-vision-market-2021-to-2026---increasing-manufacturing-of-hybrid-and-electric-cars-presents-opportunities-2021-06-23"
-webUrl: "https://www.marketwatch.com/press-release/global-ai-in-computer-vision-market-2021-to-2026---increasing-manufacturing-of-hybrid-and-electric-cars-presents-opportunities-2021-06-23"
+excerpt: "CONTACT: ResearchAndMarkets.com Laura Wood, Senior Press Manager press@researchandmarkets.com For E.S.T Office Hours Call 1-917-300-0470 For U.S./CAN Toll Free Call 1-800-526-8630 For GMT Office ..."
+publishedDateTime: 2021-06-23T10:42:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/21/06/g21680313/global-ai-in-computer-vision-market-2021-to-2026-increasing-manufacturing-of-hybrid-and-electric-c"
+webUrl: "https://www.benzinga.com/pressreleases/21/06/g21680313/global-ai-in-computer-vision-market-2021-to-2026-increasing-manufacturing-of-hybrid-and-electric-c"
+ampWebUrl: "https://www.benzinga.com/amp/content/21680313"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/21680313"
 type: article
 
 provider:
-  name: MarketWatch
-  domain: marketwatch.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - Computer Vision
   - AI
 
-images:
-  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-    width: 1200
-    height: 630
-    isCached: true
-
-secured: "IxD0Wzt/pBsCSVp6wOVD/xSkL90jJ1Ua9tXf9w1UJFZNNW0jbn9n8uz/u+WNRMIt+oVahuBHt6y/y/uy/uX6yFaoCn8hnfhqaQQHzYr7ZD2RZhRqHXL9Q8TrEvL2wXj4IQyggNrn4/8iBgmSJzhlvyQkOgdZdOv7dNhiQuNMOyeE89cnUBvvmtcDAoUNj2bN5QbCUYl300CNmDslalUEue5VKBcQBBDab6DuTx/SmfZCDSOxUnbRBmOau5WMJZ98VnYiwarnKuK6jmbLB294krpt0euw5INfUXyZOlNyHJG8XkIMBF6M+u09TmLWd2OMrWqUc13dVuKt4OO2Mqw0m0HSjSIJcSFgsETv1m3Ob5E=;tvtRPVdtl/5WFyyOnp1hdg=="
+secured: "etAV5mZY4MPzyp1P2/C7OorDEoGkl5cs57PY+0mlLzdzwnpBG+e5nAQW+KnMv8B6bGbqOLKwDiGI/7zUcYVe9v+9GpdfOPQFAjEPWuWTOOxfYI+cjE5KYXf4KyvuMBzN3W/ToPfKhh0DFG46+08KRfkuSHv8zrV7lcch9doFKfpg8Q/lpTVZrKWj9DW3o9XAQ2RFxW4oBfMP4hTun62wAQc0F7buaSxk5OIDr7Bfxwwp7baXWYQHKjXOEUFIvJ9Xypaq2Gk6oUPjSFf/8OnJuLok6nqpKKAEBukDYfWatnrekBz8lBpb/OpgrzM2d4nJu/c7dfy7c54G4zzqqEeovPB6F6aRd8BgBzICI/c1z5o=;oIcn35MOYY5BUY0qb9VkaQ=="
 ---
 

@@ -60,6 +60,20 @@ related:
         width: 1598
         height: 900
         isCached: true
+  - title: "IBM Watson Advertising announces new research to explore the role of artificial intelligence in detecting and mitigating advertising bias"
+    excerpt: "A six-month research project will use IBM's open source artificial intelligence technology and Ad Council campaign data"
+    publishedDateTime: 2021-07-01T11:09:00Z
+    webUrl: "https://debatepost.com/celebrity/2021/07/01/ibm-watson-advertising-announces-new-research-to-explore-the-role-of-artificial-intelligence-in-detecting-and-mitigating-advertising-bias/"
+    type: article
+    provider:
+      name: debatepost.com
+      domain: debatepost.com
+    quality: 21
+    images:
+      - url: "https://debatepost.com/wp-content/uploads/2021/07/IBM-Watson-Advertising-announces-new-research-to-explore-the-role.jpg"
+        width: 600
+        height: 300
+        isCached: true
 
 secured: "fVIl2ekEFF6/fVnwvPVaO2bNfhqmoNJTtkvt2YO3+QoD/06GA5lyevt/rz51RPp89UqlQxU5dDelP6MAJHEitHP6UOyrRiH8r0FBmBSlnN9SiBaT27rAsc8q076C4eHyJshueCggZzFYMpssOOyrsN21tV37cWqkje9PlGsh2kXIkJcIpYaCQdprI55AzJTUL/mkOUMds6V3woqPJWocJMQNsk5jnonFWQP1yrMZWkxVS5fcvglglXb0MtQ9Aa8M3rW4YXlKVT+6xcFacWfYYmr51lWpmn44nmbaBXOF9nX/MgoVS+Nam4zjk3VT3ymCB9V8PuJpvwc7t/tukCBoq3v5pUctX04YuauQzL6JEiw=;1cpOyh10kE4nHKY9KqaHrw=="
 ---
