@@ -1,31 +1,29 @@
 ---
 category: news
-title: "Are self-driving cars safe? Highway regulator orders industry to cough up the data"
-excerpt: "After years of inaction, the federal government will begin collecting crash data on automated vehicles. The National Highway Traffic and Safety Administration on Tuesday ordered dozens of car, truck and technology companies to inform the agency of a serious crash within a day of learning about it,"
-publishedDateTime: 2021-06-30T00:07:00Z
-originalUrl: "https://www.tampabay.com/news/business/2021/06/29/are-self-driving-cars-safe-highway-regulator-orders-industry-to-cough-up-the-data/"
-webUrl: "https://www.tampabay.com/news/business/2021/06/29/are-self-driving-cars-safe-highway-regulator-orders-industry-to-cough-up-the-data/"
-ampWebUrl: "https://www.tampabay.com/news/business/2021/06/29/are-self-driving-cars-safe-highway-regulator-orders-industry-to-cough-up-the-data/?outputType=amp"
-cdnAmpWebUrl: "https://www-tampabay-com.cdn.ampproject.org/c/s/www.tampabay.com/news/business/2021/06/29/are-self-driving-cars-safe-highway-regulator-orders-industry-to-cough-up-the-data/?outputType=amp"
+title: "Are self-driving cars safe? Highway regulator orders industry to cough up the data."
+excerpt: "Manufacturers tout the safety and convenience of automated vehicles, but little useful data have been collected to demonstrate how safe they are."
+publishedDateTime: 2021-06-30T13:57:00Z
+originalUrl: "https://bangordailynews.com/2021/06/30/national-business/are-self-driving-cars-safe-highway-regulator-orders-industry-to-cough-up-the-data/"
+webUrl: "https://bangordailynews.com/2021/06/30/national-business/are-self-driving-cars-safe-highway-regulator-orders-industry-to-cough-up-the-data/"
 type: article
-quality: 38
-heat: 38
+quality: 18
+heat: 18
 published: false
 
 provider:
-  name: Tampa Bay Times
-  domain: tampabay.com
+  name: Bangor Daily News
+  domain: bangordailynews.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://www.tampabay.com/resizer/XV7Rc7YqPo9e0ybIc-w7jHyr0Dg=/800x450/smart/cloudfront-us-east-1.images.arcpublishing.com/tbt/GSVUHKEH5M7GC3TLGWK5NBVESE.jpg"
-    width: 800
-    height: 450
+  - url: "https://bdn-data.s3.amazonaws.com/uploads/2021/06/pexels-hassan-ouajbir-804128-min-scaled.jpg"
+    width: 2560
+    height: 1707
     isCached: true
 
-secured: "phCOlKxVNzux3Fc7YhcxabBeHP1metDNe0xnaSOtv1XiJBHfe3dR8XPN0xUQ+LBAW0tYN6tYVutIBEw2CDCOkVxnxUUbydtHhyBoXxQt/5tigP7f+UgIBD9UFWDJ581jDV5PTTfz2uTCp/Dc3swMVCS+ckNQrTIcEPXV6TWg8jFt/NAkdVH4SEHZ8dfh0lMNaiYMBPDrELunj7ZSJwjrN1nuz72bIk8CDGZnEGIs07lNgktg36vXezxHPKGqOUvPPFjNm+C2aTNmmfsisChddFBmIE5S6ZkkF2Bf3JDJK3qi07OApE8VPCVE/Y8bUwl/fg5t1O7fjfQ2o2qt8VIs7e2hq8OkCCAWrhgKquZV9u8WYW3uNxqWmVo6KOYClL2/oHCJJ14A5enT55wgrxIqggntzp5vykvh+1ILg9BMAIWxA4nFWIWrwSgUjSdMHRvXvr1jYoFExR3t458rPGdXsIHDu5OGk+hkmVXlDlyix0Xn08y1CZokNAr+lxex30u10K1dA9zrGxHucXEWLRTIxg==;3xiWDkyOxWFfPwKbuxEYdw=="
+secured: "kgXxGmAJUUPSeUA6xyW1qkZ0uGYBQhmdnnl78jIAmho7LYfVBY7+vs8nEZ9/8CSAdaPWfbDC5Y70d2ppOoMai/yZoUyMR+ACWq5B7CEzqC+Wve3x6F/k7pOPOegL2ySDPs4Yvn8vOIiBRAEROqx/8AvthbhW19oJQDaF2Kl0SlqRiupdrf9mQQUDBnWlMntkay7AAt4/A0wd9/RFCkZAxVcpiH8c9ssDX51qu5hsg9QGRxNgg7kmUBhXlcpw5aluc9t6lcLgZuodsDmvtM+HrA05gIsQ7+0SHpXkgfUMebOuouR1QrMrNL/v7zG5Wh/QFT8Ah5NXgSrucHlvpWnJ2kxCELJQQwaysrbjizOvnx8=;4ugyiirhgsOFVdumYPwMdw=="
 ---
 

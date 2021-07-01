@@ -15,6 +15,7 @@ topics:
   - AWS AI
   - AI
   - Machine Learning
+  - Google AI
 
 images:
   - url: "https://res.infoq.com/articles/deep-learning-apache-spark-nvidia-gpu/en/headerimage/header+%2816%29-1623166971929.jpg"

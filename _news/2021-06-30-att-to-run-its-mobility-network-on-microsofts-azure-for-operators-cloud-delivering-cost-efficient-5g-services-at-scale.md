@@ -134,6 +134,15 @@ related:
       name: Finanztreff
       domain: finanztreff.de
     quality: 42
+  - title: "AT&T to move 5G network to Microsoft Azure cloud"
+    excerpt: "AT&T announced an agreement to move its 5G mobile network to the Microsoft cloud. The migration starts with the 5G core network and includes a path for all of AT&T's mobile network traffic to be managed using Microsoft Azure."
+    publishedDateTime: 2021-07-01T06:50:00Z
+    webUrl: "https://www.telecompaper.com/news/atandt-to-move-5g-network-to-microsoft-azure-cloud--1388724"
+    type: article
+    provider:
+      name: Telecompaper
+      domain: telecompaper.com
+    quality: 34
   - title: "Microsoft, SES and GRC Showcase Azure Cloud for Remote Missions via Secure GovSat Connectivity Service"
     excerpt: "Microsoft and SES, in partnership with GovSat and UK-based solutions provider GRC, came together to demonstrate how Microsoft Azure Machine Learning ("
     publishedDateTime: 2021-06-30T06:50:00Z

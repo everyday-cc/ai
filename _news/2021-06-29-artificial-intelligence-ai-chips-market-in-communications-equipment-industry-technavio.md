@@ -1,26 +1,27 @@
 ---
 category: news
 title: "Artificial Intelligence (AI) Chips Market in Communications Equipment Industry | Technavio"
-excerpt: "According to Technavio, the COVID-19 pandemic will have a positive impact on the growth of the artificial intelligence (AI) chips market. The report expects the market value to increase in 2021 as compared to 2020."
-publishedDateTime: 2021-06-29T01:49:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-artificial-intelligence-ai-chips-market-communications-equipment-industry-/2021/06/28/9399133.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-artificial-intelligence-ai-chips-market-communications-equipment-industry-/2021/06/28/9399133.htm"
+excerpt: "The artificial intelligence (AI) chips market is expected to grow by USD 73.49 billion at over 51% CAGR during 2021-2025, according to"
+publishedDateTime: 2021-06-29T01:45:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/artificial-intelligence-ai-chips-market-in-communications-equipment-industry--technavio-301321404.html"
+webUrl: "https://www.prnewswire.com/news-releases/artificial-intelligence-ai-chips-market-in-communications-equipment-industry--technavio-301321404.html"
 type: article
-quality: 42
-heat: -1
-published: false
+quality: 59
+heat: 89
+published: true
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
+  - AI Hardware
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/1441766/Technavio_Logo.jpg"
-    width: 400
-    height: 400
+  - url: "https://mma.prnewswire.com/media/1551721/Artificial_Intelligence_Chips.jpg?p=facebook"
+    width: 1280
+    height: 670
     isCached: true
 
 related:
@@ -38,7 +39,32 @@ related:
         width: 672
         height: 448
         isCached: true
+  - title: "Artificial Intelligence-as-a-Service (AIaaS) Market in Application Software Industry | Technavio"
+    excerpt: "Technavio forecasts the global artificial intelligence-as-a-service (AIaaS) market to grow by USD 14.70 billion during 2021-2025. The report offers a comprehensive analysis of the artificial intelligence-as-a-service (AIaaS) market including the impact of the COVID-19 pandemic on market vendors."
+    publishedDateTime: 2021-06-29T01:00:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/artificial-intelligence-as-a-service-aiaas-market-in-application-software-industry-technavio/article_ac961e6c-bec0-5df1-b30e-af258e1b5da3.html"
+    type: article
+    provider:
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 39
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/7/50/75055078-05ef-5bbe-bb00-9dc6fbfaaded/60da713b84455.image.jpg?resize=1200%2C585"
+        width: 1200
+        height: 585
+        isCached: true
+  - title: "Artificial Intelligence in Telecommunication Market Size, Share 2020, Impressive Industry Growth Report 2027"
+    excerpt: "The global Artificial Intelligence by Telecom market size was valued at USD 679 million in 2019 and is projected to grow at a CAGR of 38 from 2021 to 2027 Telecommunications is one of the fastest growing industries using AI"
+    publishedDateTime: 2021-06-28T12:00:00Z
+    webUrl: "https://www.openpr.com/news/2315358/artificial-intelligence-in-telecommunication-market-size"
+    ampWebUrl: "https://www.openpr.com/amp/2315358/artificial-intelligence-in-telecommunication-market-size"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2315358/artificial-intelligence-in-telecommunication-market-size"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 18
 
-secured: "JaIoH4CSdcsNGgG93W8etnaXWPxqqKgf3WWyVTIBv1yQqSStlVPKhQCcg8JQKtyRaYXEpRoLueqGLzPvE0EDxa4T0u5aS5hCzqFp25y84WVGBgeOCTAkjUe9oEciqm/GTv7RLoI47LEyONxESLSeGOwrO9i1NTyvXVjncyDHnYV6mW0zCo5o1A1Vwsz02JJyHSZ/wayUa7cmMGXYNgEoD4M7IqtlwqSqvcIIYg1dm1H0jzmf+GeQt2nA3uTQrgYt5+VsRyzFBmtz9TVFCRldLp9BmPxWOWiwPht81i0hDfV0KB0SieCLNtaaJEmM0GOiSGdacb3dyH/pd8h9OPDnk4SHJ6iJfoeXMOOoJOfyMh0=;7D8qjEJXsUmO044TBYXZWQ=="
+secured: "oFZnwNB1C7Ox9k99YO1IVNTgKDHPcsgCf5fuuY1tfCcxbJzmbNlKFPUdKkSBwhbr9JojCP2rDr7n22on3A0dw3E5/w8dO3jC9yRonWoif1d5nKc8jXANODYmuwTJTaZpaRtgLQmoD3wCKdhlt30UaVPWuBCH8e3TM0XQgU0PE8YEVJDd1hE6NTcSiD6eJXMCTEfi1cE0WZDTCypLNjWjZw2C2bvOgOibT5ibI7dQ2WifyhSoOdQn3awFzwTKq0txAIvvco70qEu6bd41Wb+o14IuzSF7ElCkvwMeYOs26Ae2D15kipFVHs2iNY7jCbHpY/D13KDmxdrdO95l9IZM8NK2W+RdsfsPjbQLvRZLbCw=;CfcS6OFgk35dWehbs/a9Ew=="
 ---
 

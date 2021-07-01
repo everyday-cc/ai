@@ -7,8 +7,8 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/deepmind-agi-paper
 webUrl: "https://markets.businessinsider.com/news/stocks/deepmind-agi-paper-adds-urgency-to-ethical-ai-10278063"
 type: article
 quality: 81
-heat: -1
-published: false
+heat: 101
+published: true
 
 provider:
   name: Business Insider
@@ -24,22 +24,6 @@ topics:
   - AI Ethics
 
 related:
-  - title: "DeepMind AGI paper adds urgency to ethical AI"
-    excerpt: "DeepMind expects reinforcement learning will lead to replicating human cognitive abilities, achieving artificial general intelligence (AGI)."
-    publishedDateTime: 2021-06-26T13:50:00Z
-    webUrl: "https://venturebeat.com/2021/06/26/deepmind-agi-paper-adds-urgency-to-ethical-ai/"
-    ampWebUrl: "https://venturebeat.com/2021/06/26/deepmind-agi-paper-adds-urgency-to-ethical-ai/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/26/deepmind-agi-paper-adds-urgency-to-ethical-ai/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 125
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2019/12/dims-e1575998404106.jpg?w=1200&strip=all"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "DeepMind to use AI to tackle deadly parasitic diseases"
     excerpt: "DeepMind to work with Drugs for Neglected Diseases Initiative (DNDI) to treat deadly parasitic diseases The London based lab, DeepMind, is set to work with the Drugs for Neglected Diseases Initiative (DNDI) to tackle the deadliest parasitic diseases,"
     publishedDateTime: 2021-06-27T13:22:00Z

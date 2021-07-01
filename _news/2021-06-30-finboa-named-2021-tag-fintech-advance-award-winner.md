@@ -117,6 +117,20 @@ related:
         width: 2048
         height: 1136
         isCached: true
+  - title: "8 Types Of Fintech To Take Advantage Of"
+    excerpt: "Whether it’s checking our bank balance with an app or Venmoing a friend the cost of a bagel, fintech impacts our daily lives. By streamlining and automating"
+    publishedDateTime: 2021-07-01T07:31:00Z
+    webUrl: "https://www.techshout.com/types-of-fintech-to-take-advantage-of/"
+    type: article
+    provider:
+      name: TechShout
+      domain: techshout.com
+    quality: 24
+    images:
+      - url: "https://www.techshout.com/wp-content/uploads/2021/04/fintech-1.jpg"
+        width: 690
+        height: 240
+        isCached: true
   - title: "Inclusive Fintech 50 launches 2021 competition to recognize early-stage fintechs driving innovation in an era of uncertainty"
     excerpt: "An independent panel of leading fintech experts will select 50 innovative inclusive fintech startups helping communities rebuild from the pandemicWASHINGTON--(BUSINESS WIRE)--#InclusiveFintech50--The Center for Financial Inclusion (CFI) has launched the third year of Inclusive Fintech 50 (IF50),"
     publishedDateTime: 2021-06-28T13:00:00Z

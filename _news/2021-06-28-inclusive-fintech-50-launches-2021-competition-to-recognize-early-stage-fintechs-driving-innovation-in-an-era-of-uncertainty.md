@@ -131,6 +131,20 @@ related:
         width: 640
         height: 480
         isCached: true
+  - title: "8 Types Of Fintech To Take Advantage Of"
+    excerpt: "Whether it’s checking our bank balance with an app or Venmoing a friend the cost of a bagel, fintech impacts our daily lives. By streamlining and automating"
+    publishedDateTime: 2021-07-01T07:31:00Z
+    webUrl: "https://www.techshout.com/types-of-fintech-to-take-advantage-of/"
+    type: article
+    provider:
+      name: TechShout
+      domain: techshout.com
+    quality: 24
+    images:
+      - url: "https://www.techshout.com/wp-content/uploads/2021/04/fintech-1.jpg"
+        width: 690
+        height: 240
+        isCached: true
   - title: "FinTech Company Centime Launches Cloud-based Platform to Control Cash Flow"
     excerpt: "Centime, a FinTech company, today announced the launch of its Cloud-based Cash Flow Control solution. With its state-of-art solution, the company will empower businesses by enabling them to optimize all aspects of their cash flow life cycle in an easy-to-use,"
     publishedDateTime: 2021-06-30T10:17:00Z

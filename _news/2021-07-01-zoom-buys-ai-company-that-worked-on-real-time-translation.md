@@ -1,27 +1,29 @@
 ---
 category: news
 title: "Zoom buys AI company that worked on real-time translation"
-excerpt: "Proprietary video teleconferencing platform recently announced that it acquiring a company known as Kites short for Karlsruhe Information Technology Solution"
-publishedDateTime: 2021-06-30T19:13:00Z
-originalUrl: "https://www.bignewsnetwork.com/news/270118590/zoom-buys-ai-company-that-worked-on-real-time-translation"
-webUrl: "https://www.bignewsnetwork.com/news/270118590/zoom-buys-ai-company-that-worked-on-real-time-translation"
+excerpt: "According to Mashable, Zoom said that the acquisition is a move to help it make communicating with people who speak different languages easier and tha.."
+publishedDateTime: 2021-07-01T07:25:00Z
+originalUrl: "https://telecom.economictimes.indiatimes.com/news/zoom-buys-ai-company-that-worked-on-real-time-translation/84013146"
+webUrl: "https://telecom.economictimes.indiatimes.com/news/zoom-buys-ai-company-that-worked-on-real-time-translation/84013146"
+ampWebUrl: "https://telecom.economictimes.indiatimes.com/amp/news/zoom-buys-ai-company-that-worked-on-real-time-translation/84013146"
+cdnAmpWebUrl: "https://telecom-economictimes-indiatimes-com.cdn.ampproject.org/c/s/telecom.economictimes.indiatimes.com/amp/news/zoom-buys-ai-company-that-worked-on-real-time-translation/84013146"
 type: article
-quality: 39
+quality: 59
 heat: -1
 published: false
 
 provider:
-  name: Big News Network.com
-  domain: bignewsnetwork.com
+  name: India Times
+  domain: indiatimes.com
 
 topics:
   - Natural Language Processing
   - AI
 
 images:
-  - url: "https://cdn.bignewsnetwork.com/ani1625077312.jpg"
-    width: 630
-    height: 420
+  - url: "https://etimg.etb2bimg.com/thumb/msid-84013146,imgsize-23430,width-800,height-434,overlay-ettelecom/zoom-buys-ai-company-that-worked-on-real-time-translation.jpg"
+    width: 800
+    height: 434
     isCached: true
 
 related:
@@ -176,6 +178,20 @@ related:
         width: 800
         height: 600
         isCached: true
+  - title: "Zoom acquires real-time translation AI company, Kites"
+    excerpt: "Zoom has acquired a real-time Machine Translation solutions company, Kites which is short for Karlsruhe Information Technology Solutions."
+    publishedDateTime: 2021-07-01T06:58:00Z
+    webUrl: "https://techstory.in/zoom-acquires-real-time-translation-ai-company-kites/"
+    type: article
+    provider:
+      name: tech
+      domain: techstory.in
+    quality: 39
+    images:
+      - url: "https://techstory.in/wp-content/uploads/2021/07/iStock-1225232811.jpg"
+        width: 1254
+        height: 836
+        isCached: true
   - title: "Zoom acquires Kites for real-time language translation capabilities"
     excerpt: "Zoom has acquired German start-up Karlsruhe Information Technology Solutions – known as Kites – in a bid to imbue its offering with real-time language translation capabilities."
     publishedDateTime: 2021-06-29T22:25:00Z
@@ -191,6 +207,6 @@ related:
         height: 493
         isCached: true
 
-secured: "sfDuLXk+x56lK6GWcqcFLIkm5kr3Tn+84cCpc5g8FdgDESe645CUhXWtXAptaTl+QIdFr67SYqKUx5y4C2d5FXwO+IyaJfbwn8D75XJzMmxWp/M7azXQiJktjeYM0acTtvh3X5QAnV/vyZUN1Kf3OJ40YCi8iU8uXIJjJW1Aah74Q8FP6bUFtG1QR9ZdZ4Z2LMBJA4WtASMFgC8QcGBymYe746gDZAdqzGbJM+Jxf8WplO0KVqjrGExhhy4JTBopk7r9zcsobpirvr3nT2opZB5vfgEHyRRwJWYdI/LuabOYt9SwRGqeNILCiU9JEjBj83xSX2D7qIvSifSWBAtoZwm3vf0MnPiVWe8Bf9yMBFGSBwQL71kkrWrr4wUnbd/9Dl9JRFpYiGAsWamXNxCFuuwN1xwhctZKZe/5q73ky8TQEf85/S7JvUm+1KuG7z9D5WkyFuyVIMHwf+CMtLIud4EI/yPJZMa2V2p1CeeqYLPuWfp57yWwNQDT7BDIkq+ggvqa7RaoMJUnzBu/J75vww==;z19gIZB8WVGJKSn+nFYBpQ=="
+secured: "cPyXekh0mI2r6Zm+YenQWLTC+3gkU6uScRpaWGS2iYu+jX1iWT3Vlrdj+NvMZL+xICDYLgGKhcVa/cPpZnv4vgAdZlDCwQdHO4l13H/NYRR11m2pBOVnk9rvwJpFDlC1PyCuEBNHJ5DVmcPzsnQmajP7wr4ILkJGEtNUkhXJCiiHgDbQ2gs9EFVXZJLUh/0i84KztA9FQJmKEuG1alX90CATJKmloVi/xBtfL9mHxgk8RRtqrZy9lOJ+wd4gyP5s5l3hmBmB7yLiyPQBcF7LUBd5Fz68zB3xMEs2FOJ5hVn9xK5l/svvW7mTthYw6jXWzcHZyKt4ZeV9JVZs+6n8UOCGZYvvRi2YL4dd/76HpqQ=;bdeGay0KzuG00dqvZhPp6w=="
 ---
 

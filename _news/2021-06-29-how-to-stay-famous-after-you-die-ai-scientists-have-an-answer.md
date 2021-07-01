@@ -7,7 +7,7 @@ originalUrl: "https://www.forbes.com/sites/alexzhavoronkov/2021/06/28/how-to-sta
 webUrl: "https://www.forbes.com/sites/alexzhavoronkov/2021/06/28/how-to-stay-famous-after-you-die-ai-scientists-have-an-answer/"
 type: article
 quality: 67
-heat: 77
+heat: 78
 published: true
 
 provider:

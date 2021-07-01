@@ -119,6 +119,15 @@ related:
         width: 716
         height: 439
         isCached: true
+  - title: "AT&T to move 5G network to Microsoft Azure cloud"
+    excerpt: "AT&T announced an agreement to move its 5G mobile network to the Microsoft cloud. The migration starts with the 5G core network and includes a path for all of AT&T's mobile network traffic to be managed using Microsoft Azure."
+    publishedDateTime: 2021-07-01T06:50:00Z
+    webUrl: "https://www.telecompaper.com/news/atandt-to-move-5g-network-to-microsoft-azure-cloud--1388724"
+    type: article
+    provider:
+      name: Telecompaper
+      domain: telecompaper.com
+    quality: 34
   - title: "AT&T to run its mobility network on Microsoft's Azure for Operators cloud, delivering cost-efficient 5G services at scale"
     excerpt: "AT&T will move its 5G mobile network to the Microsoft cloud. This strategic alliance provides a path for all of AT&T's mobile network traffic to be managed using Microsoft Azure technologies. The companies will start with AT&T's 5G core,"
     publishedDateTime: 2021-06-30T14:36:00Z

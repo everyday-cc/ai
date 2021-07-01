@@ -20,29 +20,48 @@ topics:
   - AI
 
 related:
-  - title: "Global AI In Medical Imaging Market 2021 Industry Growth – General Electric, IBM Watson Health, Philips Healthcare, SAMSUNG"
-    excerpt: "MarketQuest.biz has rolled out a report titled Global AI In Medical Imaging Market 2021 by Company, Regions, Type and Application, Forecast to 2026 that is filled with imperative insights on the market,"
-    publishedDateTime: 2021-06-30T13:15:00Z
-    webUrl: "https://ksusentinel.com/2021/06/30/global-ai-in-medical-imaging-market-2021-industry-growth-general-electric-ibm-watson-health-philips-healthcare-samsung/"
+  - title: "Artificial Intelligence (AI) Chips Market in Communications Equipment Industry | Technavio"
+    excerpt: "The artificial intelligence (AI) chips market is expected to grow by USD 73.49 billion at over 51% CAGR during 2021-2025, according to"
+    publishedDateTime: 2021-06-29T01:45:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/artificial-intelligence-ai-chips-market-in-communications-equipment-industry--technavio-301321404.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 59
+    images:
+      - url: "https://mma.prnewswire.com/media/1551721/Artificial_Intelligence_Chips.jpg?p=facebook"
+        width: 1280
+        height: 670
+        isCached: true
+  - title: "Artificial Intelligence (AI) in Education Market To See Stunning Growth | IBM, Osmo, Nuance Communications"
+    excerpt: "As Artificial Intelligence (AI) in Education research and application [Higher Education, K-12 Education & Corporate Learning] continues to expand in scope, the market will see deeper integration and application of more technologies in the future."
+    publishedDateTime: 2021-06-26T15:34:00Z
+    webUrl: "https://ksusentinel.com/2021/06/26/artificial-intelligence-ai-in-education-market-to-see-stunning-growth-ibm-osmo-nuance-communications/"
     type: article
     provider:
       name: The Sentinel
       domain: ksusentinel.com
-    quality: 45
+    quality: 53
     images:
-      - url: "https://healthitanalytics.com/images/site/features/_normal/2020-11-20_AI_for_Medical_Imaging.jpg"
-        width: 690
-        height: 400
+      - url: "https://ksusentinel.com/wp-content/uploads/2021/06/Artificial-Intelligence-AI-in-Education-Market.jpeg"
+        width: 672
+        height: 448
         isCached: true
-  - title: "Global Artificial Intelligence in the Medical Imaging Market Size, Status and Forecast 2021-2027"
-    excerpt: "Pages Report] Check for Discount on Global Artificial Intelligence in the Medical Imaging Market Size, Status and Forecast 2021-2027 report by QYResearch Group. Doctors have been using medical imaging techniques to diagnose"
-    publishedDateTime: 2021-06-30T07:47:00Z
-    webUrl: "https://www.reportsnreports.com/reports/4624721-global-artificial-intelligence-in-the-medical-imaging-market-size-status-and-forecast-2021-2027.html"
+  - title: "Artificial Intelligence-as-a-Service (AIaaS) Market in Application Software Industry | Technavio"
+    excerpt: "Technavio forecasts the global artificial intelligence-as-a-service (AIaaS) market to grow by USD 14.70 billion during 2021-2025. The report offers a comprehensive analysis of the artificial intelligence-as-a-service (AIaaS) market including the impact of the COVID-19 pandemic on market vendors."
+    publishedDateTime: 2021-06-29T01:00:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/artificial-intelligence-as-a-service-aiaas-market-in-application-software-industry-technavio/article_ac961e6c-bec0-5df1-b30e-af258e1b5da3.html"
     type: article
     provider:
-      name: ReportsnReports
-      domain: reportsnreports.com
-    quality: 4
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 39
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/7/50/75055078-05ef-5bbe-bb00-9dc6fbfaaded/60da713b84455.image.jpg?resize=1200%2C585"
+        width: 1200
+        height: 585
+        isCached: true
 
 secured: "hdDI7TYZqvlTzdvlzOW1Dx5iXJCWKnY2PeQju6jjGD+n24EgtkLTV15dLZv+c4ydkreFzoeNyBEaRCJ1XGvdcXP5+PUQCeIEdso5Lu5DSrlLlyipVs9UvaDinNqKWge7aYlW0vnorENC63Yt+WMg/hZH10oLzAhCcAh8DEYyD2NA/N48gLxwgR2iVi+ljNAfcmwTaXr/BLH+1fuyaivfJSTvPZGIEpplnmWa4kEUKIYneGILmMnL0oMa4CKpW2vgxRhIHdxbtGxNaLQo2twsgW8QYpDojqh/R0i7ulZ3zkoKRPN/Z+npvB+muaPWs0t5B/v2DRJ88XTo9hgpqlhfNi2KRS+q+k7vW6Z06UN9MW8=;om/5fdbs1u51JvEJhBHBXg=="
 ---
