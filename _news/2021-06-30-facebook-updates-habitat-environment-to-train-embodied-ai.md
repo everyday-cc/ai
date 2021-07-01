@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/06/30/facebook-updates-habitat-environm
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/30/facebook-updates-habitat-environment-to-train-embodied-ai/amp/"
 type: article
 quality: 91
-heat: 131
+heat: 141
 published: true
 
 provider:
@@ -63,6 +63,22 @@ related:
       - url: "https://techcrunch.com/wp-content/uploads/2021/06/matterport-hm3d.gif"
         width: 800
         height: 460
+        isCached: true
+  - title: "Facebook says the use of AI should be regulated, not the tech"
+    excerpt: "Artificial intelligence itself should not be targeted by regulators, but how it is used, Facebook's top executive developing the technology told AFP."
+    publishedDateTime: 2021-07-01T09:08:00Z
+    webUrl: "https://www.iol.co.za/technology/software-and-internet/facebook-says-the-use-of-ai-should-be-regulated-not-the-tech-fb77b4e2-296b-4af1-b2c8-8923e949f0fc"
+    ampWebUrl: "https://www.iol.co.za/amp/technology/software-and-internet/facebook-says-the-use-of-ai-should-be-regulated-not-the-tech-fb77b4e2-296b-4af1-b2c8-8923e949f0fc"
+    cdnAmpWebUrl: "https://www-iol-co-za.cdn.ampproject.org/c/s/www.iol.co.za/amp/technology/software-and-internet/facebook-says-the-use-of-ai-should-be-regulated-not-the-tech-fb77b4e2-296b-4af1-b2c8-8923e949f0fc"
+    type: article
+    provider:
+      name: IOL News
+      domain: iol.co.za
+    quality: 59
+    images:
+      - url: "https://image-prod.iol.co.za/resize/650x366/File-picture-Reuters-Dado-Ruvic?source=https://xlibris.public.prod.oc.inl.infomaker.io:8443/opencontent/objects/4ccba0e6-3ee7-5853-ac8e-7152ac75b451&operation=CROP&offset=0x242&resize=3949x2221"
+        width: 650
+        height: 365
         isCached: true
   - title: "Facebook Hits $1 Trillion Market Cap"
     excerpt: "Facebook has closed above $1 trillion in the market for the first time ever, making it the fifth company to do so after Apple, Microsoft, Amazon and Alphabet."

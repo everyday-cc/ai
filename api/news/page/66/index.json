@@ -2,49 +2,6 @@
   "page": 66,
   "value": [
     {
-      "path": "_news/2021-05-14-infosys-collaborates-with-rxr-realty-to-develop-smart-office-platform-running-on-microsoft-azure-for-safe-return-to-work.md",
-      "title": "Infosys collaborates with RXR Realty to develop smart office platform running on Microsoft Azure for safe return to work",
-      "excerpt": "It major, Infosys said that company has collaborated with RXR Realty to build and deploy a comprehensive, award-winning smart building health and wellness solution running on Microsoft Azure.",
-      "sourceUrl": null,
-      "webUrl": "https://www.uniindia.com/~/infosys-collaborates-with-rxr-realty-to-develop-smart-office-platform-running-on-microsoft-azure-for-safe-return-to-work/Business Economy/news/2395131.html",
-      "originalUrl": "https://www.uniindia.com/~/infosys-collaborates-with-rxr-realty-to-develop-smart-office-platform-running-on-microsoft-azure-for-safe-return-to-work/Business Economy/news/2395131.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "http://www.uniindia.com/cms/gall_content/2021/5/2021_5$largeimg14_May_2021_120833073.jpg",
-          "width": 595,
-          "height": 350,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-13T23:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "United News of India",
-        "domain": "uniindia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-05-14-how-artificial-intelligence-ai-is-helping-musicians-unlock-their-creativity.md",
       "title": "How Artificial Intelligence (AI) Is Helping Musicians Unlock Their Creativity",
       "excerpt": "Artificial intelligence is now helping musicians and producers get in the groove to create their own tunes and find new artists. Find out how AI is transforming the music industry, from discovering new artists to creating your own TikTok tracks.",
@@ -1147,6 +1104,59 @@
       "topics": [
         "Natural Language Processing",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-13-soniox-taps-unsupervised-learning-to-build-speech-recognition-systems.md",
+      "title": "Soniox taps unsupervised learning to build speech recognition systems",
+      "excerpt": "Soniox, a startup developing speech recognition systems that improve via unsupervised learning, has launched in general availability.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/05/13/soniox-taps-unsupervised-learning-to-build-speech-recognition-systems/",
+      "originalUrl": "https://venturebeat.com/2021/05/13/soniox-taps-unsupervised-learning-to-build-speech-recognition-systems/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 111,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2017/03/speech-e1523990563404.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 809,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/05/13/soniox-taps-unsupervised-learning-to-build-speech-recognition-systems/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/13/soniox-taps-unsupervised-learning-to-build-speech-recognition-systems/amp/",
+      "publishedDateTime": "2021-05-13T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Machine Learning"
       ]
     }
   ],

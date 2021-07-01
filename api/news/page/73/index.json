@@ -2,58 +2,6 @@
   "page": 73,
   "value": [
     {
-      "path": "_news/2021-05-10-jobs-lost-to-industrial-robots-amidst-covid-19-may-never-come-back-to-human-beings.md",
-      "title": "Jobs Lost To Industrial Robots Amidst COVID-19 May Never Come Back To Human Beings",
-      "excerpt": "With intelligent machines on the horizon and with an industrial focus on enhancing productivity and lowering costs in the post-pandemic era, artificial intelligence (AI) and autonomous robots are destined to win this bid of the future job market.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/raufarif/2021/05/09/jobs-lost-to-industrial-robots-amidst-covid-19-may-never-come-back-to-human-beings/",
-      "originalUrl": "https://www.forbes.com/sites/raufarif/2021/05/09/jobs-lost-to-industrial-robots-amidst-covid-19-may-never-come-back-to-human-beings/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 93,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6097f52c903ba592d51003db%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/raufarif/2021/05/09/jobs-lost-to-industrial-robots-amidst-covid-19-may-never-come-back-to-human-beings/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/raufarif/2021/05/09/jobs-lost-to-industrial-robots-amidst-covid-19-may-never-come-back-to-human-beings/amp/",
-      "publishedDateTime": "2021-05-09T10:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-05-09-google-io-2018-the-10-biggest-announcements.md",
       "title": "Google I/O 2018: The 10 biggest announcements",
       "excerpt": "Artificial intelligence was obviously among the stars ... to overlay live results on items in your camera’s view. Waymo is the only company that currently has a fleet of fully self-driving ...",
@@ -1192,6 +1140,58 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-07-tesla-is-more-cautious-about-full-self-driving-timeline-with-regulators-than-the-public-based-on-new-memo.md",
+      "title": "Tesla is more cautious about Full Self-Driving timeline with regulators than the public, based on new memo",
+      "excerpt": "Tesla is being a little more cautious about its Full Self-Driving timeline with regulators than with the public, according to a newly released memo from a meeting between Tesla and the California DMV.",
+      "sourceUrl": null,
+      "webUrl": "https://electrek.co/2021/05/07/tesla-cautious-full-self-driving-timeline-regulators-public-new-memo/",
+      "originalUrl": "https://electrek.co/2021/05/07/tesla-cautious-full-self-driving-timeline-regulators-public-new-memo/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i1.wp.com/electrek.co/wp-content/uploads/sites/3/2021/03/Tesla-full-self-driving.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://electrek.co/2021/05/07/tesla-cautious-full-self-driving-timeline-regulators-public-new-memo/amp/",
+      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/05/07/tesla-cautious-full-self-driving-timeline-regulators-public-new-memo/amp/",
+      "publishedDateTime": "2021-05-07T07:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Electrek",
+        "domain": "electrek.co",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
         "AI"
       ]
     }

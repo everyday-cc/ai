@@ -78,7 +78,7 @@ related:
     provider:
       name: ZDNet
       domain: zdnet.com
-    quality: 88
+    quality: 86
     images:
       - url: "https://www.zdnet.com/a/hub/i/2021/06/30/af021708-3cd7-4136-a6fb-48d2c0bb412c/graphcore-nvidia-comparison-crop-layout-for-twitter.jpg"
         width: 1600
@@ -95,20 +95,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 67
-  - title: "Supermicro Boosts Performance for HPC and AI Applications with Optimized Servers Featuring New NVIDIA A100 80GB PCIe GPUs"
-    excerpt: "Supermicro servers, designed with a Building Block Solutions ® approach, give Supermicro a first to market advantage when incorporating new technologies. State-of-the-art accelerated computing options can be quickly integrated and tested,"
-    publishedDateTime: 2021-06-28T13:05:00Z
-    webUrl: "https://www.marketwatch.com/press-release/supermicro-boosts-performance-for-hpc-and-ai-applications-with-optimized-servers-featuring-new-nvidia-a100-80gb-pcie-gpus-2021-06-28"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 59
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Nvidia announces Arm support for AI-on-5G platform and next-gen DPU"
     excerpt: "The next Nvidia DPU iteration will incorporate 16 Arm Cortex-A78 processors and can be deployed in a “fully self-hosted configuration.”"
     publishedDateTime: 2021-06-28T19:59:00Z
@@ -154,6 +140,20 @@ related:
       - url: "https://qtxasset.com/fierceelectronics/1624848049/Image%20-%20NVIDIA%20AI-on-5G%20Roadmap.jpg?0NgCCQOP_5M.TJh60bFGIq1SXoElCKYx"
         width: 2000
         height: 1260
+        isCached: true
+  - title: "Supermicro Boosts Performance for HPC and AI Applications with Optimized Servers Featuring New NVIDIA A100 80GB PCIe GPUs"
+    excerpt: "Super Micro Computer, Inc. (Nasdaq: SMCI), a global leader in enterprise computing, storage, networking, and green computing technology, announces a wide range of Supermicro servers will support the latest NVIDIA technologies."
+    publishedDateTime: 2021-06-28T13:32:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/business-technology-2ba9182c48433cb249695ff719eaa0a5"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 29
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
   - title: "Inspur Releases Liquid Cooled AI Server With NVIDIA A100 GPUs at ISC High Performance Digital 2021"
     excerpt: "Today at ISC High Performance 2021 Digital, the event for high performance computing, machine learning, and data analytics, Inspur Information, a leading IT infrastructure solution provider, announces its new liquid cooling AI server,"

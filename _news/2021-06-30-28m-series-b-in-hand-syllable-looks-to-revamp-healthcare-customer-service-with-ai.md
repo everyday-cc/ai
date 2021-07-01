@@ -28,7 +28,7 @@ related:
   - title: "AISERA Transforms Customer Experience & Customer Service with AI & Automation"
     excerpt: "Aisera, the world's first AI Customer service that automates tasks, actions, and workflows for all organizations, announced today that it has significantly enhanced its Customer Service & Customer Experience (CX) solutions."
     publishedDateTime: 2021-06-29T14:20:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-aisera-transforms-customer-experience-customer-service-with-ai-/2021/06/29/9400029.htm"
+    webUrl: "https://www.tmcnet.com/usubmit/2021/06/29/9400029.htm"
     type: article
     provider:
       name: TMCnet

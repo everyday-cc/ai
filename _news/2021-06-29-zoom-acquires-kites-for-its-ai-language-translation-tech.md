@@ -123,17 +123,17 @@ related:
         isCached: true
   - title: "Zoom buys AI company that worked on real-time translation"
     excerpt: "According to Mashable, Zoom said that the acquisition is a move to help it make communicating with people who speak different languages easier and tha.."
-    publishedDateTime: 2021-07-01T07:25:00Z
-    webUrl: "https://telecom.economictimes.indiatimes.com/news/zoom-buys-ai-company-that-worked-on-real-time-translation/84013146"
-    ampWebUrl: "https://telecom.economictimes.indiatimes.com/amp/news/zoom-buys-ai-company-that-worked-on-real-time-translation/84013146"
-    cdnAmpWebUrl: "https://telecom-economictimes-indiatimes-com.cdn.ampproject.org/c/s/telecom.economictimes.indiatimes.com/amp/news/zoom-buys-ai-company-that-worked-on-real-time-translation/84013146"
+    publishedDateTime: 2021-07-01T08:08:00Z
+    webUrl: "https://cio.economictimes.indiatimes.com/news/next-gen-technologies/zoom-buys-ai-company-that-worked-on-real-time-translation/84014047"
+    ampWebUrl: "https://cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/zoom-buys-ai-company-that-worked-on-real-time-translation/84014047"
+    cdnAmpWebUrl: "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/zoom-buys-ai-company-that-worked-on-real-time-translation/84014047"
     type: article
     provider:
       name: India Times
       domain: indiatimes.com
     quality: 59
     images:
-      - url: "https://etimg.etb2bimg.com/thumb/msid-84013146,imgsize-23430,width-800,height-434,overlay-ettelecom/zoom-buys-ai-company-that-worked-on-real-time-translation.jpg"
+      - url: "https://etimg.etb2bimg.com/thumb/msid-84014047,imgsize-23430,width-800,height-434,overlay-etcio/zoom-buys-ai-company-that-worked-on-real-time-translation.jpg"
         width: 800
         height: 434
         isCached: true

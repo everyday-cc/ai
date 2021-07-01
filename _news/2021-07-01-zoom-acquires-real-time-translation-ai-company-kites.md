@@ -123,17 +123,17 @@ related:
         isCached: true
   - title: "Zoom buys AI company that worked on real-time translation"
     excerpt: "According to Mashable, Zoom said that the acquisition is a move to help it make communicating with people who speak different languages easier and tha.."
-    publishedDateTime: 2021-07-01T07:25:00Z
-    webUrl: "https://telecom.economictimes.indiatimes.com/news/zoom-buys-ai-company-that-worked-on-real-time-translation/84013146"
-    ampWebUrl: "https://telecom.economictimes.indiatimes.com/amp/news/zoom-buys-ai-company-that-worked-on-real-time-translation/84013146"
-    cdnAmpWebUrl: "https://telecom-economictimes-indiatimes-com.cdn.ampproject.org/c/s/telecom.economictimes.indiatimes.com/amp/news/zoom-buys-ai-company-that-worked-on-real-time-translation/84013146"
+    publishedDateTime: 2021-07-01T08:08:00Z
+    webUrl: "https://cio.economictimes.indiatimes.com/news/next-gen-technologies/zoom-buys-ai-company-that-worked-on-real-time-translation/84014047"
+    ampWebUrl: "https://cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/zoom-buys-ai-company-that-worked-on-real-time-translation/84014047"
+    cdnAmpWebUrl: "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/zoom-buys-ai-company-that-worked-on-real-time-translation/84014047"
     type: article
     provider:
       name: India Times
       domain: indiatimes.com
     quality: 59
     images:
-      - url: "https://etimg.etb2bimg.com/thumb/msid-84013146,imgsize-23430,width-800,height-434,overlay-ettelecom/zoom-buys-ai-company-that-worked-on-real-time-translation.jpg"
+      - url: "https://etimg.etb2bimg.com/thumb/msid-84014047,imgsize-23430,width-800,height-434,overlay-etcio/zoom-buys-ai-company-that-worked-on-real-time-translation.jpg"
         width: 800
         height: 434
         isCached: true
@@ -207,6 +207,6 @@ related:
         height: 493
         isCached: true
 
-secured: "Ut+jukeo2zO/sUWZ3FplDf/EylDvis78QFfC6GDHA/otTMbR9i9Fm9XnVHPAUxSCoFVheVxEyH/ryyELJ/5f+VL4cFil3hjIBiAgXZhSeMFk+w8vGehqNrZSQ9ROlBRvcelmrqeEPKmd5RpM/HEqs37VNXg8A09lkEW/I3uWGK+n2FsxtcBMje5ojMfk92Ah11iiwAzaZORF+PWCqIP9do9h3Im7gK4uDWaKW7V1vEJFu1bW4zLtWwtp9mrAg5XMtjx+84N4J+LyKyFVFKT7n2KejTIF3WKFodVTHe+O0aO43H2Y0MJD/sKU5eCoJYLbmx9ES5v2wd3ze2NsQQjtfJ3W22JlXQ3ErDxNJTfQ7eo=;DkcoqVEX4KnO0CM9DFxn3Q=="
+secured: "7cBFSNcxARxOVEWLdFxtFuuY2bmkV8yWPzHMzLs2ku/6w0Z11Q5LjhD19fRY04pHuRwi8B+eH6t03shz+4wRSABWOb7frjiuw1scE1TOtj9xcwpiYm5xsQ9n7n+P4LjtOdb0Mw2L/vXFctOTexr1CXph7cdt3GMxjupi2Q9nW3Dw4b2URSlu3D+6Gz4ceLzLPMroj9TukaJ8XAjxjRQptytBqvOGkoKTTrXVXCaNHDut5NGLYh6n9sXqmK4MQLtLATV/zp1B1rvVDSEhYP0tP7PW0U6hF0UdOivbIIJy1Air7Pc8F3AoyhUc2x98y/uixv3N5DN8bmd2+jrfeLgjOZmF9DAXFMUcEK+eMFg+c7oY6UfA0b7d1iAnD73BMwvXoKsiUjoA9PCdcSc51p6K16xMSX1h1A6GDLdXbdYNkzalODqUhh/tSWZa/KqpWo0dSVsfxQT8LbsY/zyYtobA4CBJvG3rbQmo+Nmo79n+/snXzhJhfjYBeb82Sdg63XsQAzPvsaM5N0j31m48w2d2vQ==;3+KJxW/YmSRQbFiNw9CmOQ=="
 ---
 

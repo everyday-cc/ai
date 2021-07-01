@@ -21,6 +21,7 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+  - IBM AI
 
 images:
   - url: "https://mma.prnewswire.com/media/1549787/Wimbledon_Sign_2021.jpg"

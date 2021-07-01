@@ -24,6 +24,17 @@ images:
     height: 400
     isCached: true
 
+related:
+  - title: "Mathpresso, developer of AI-based learning app QANDA, secures $50 million in Series C funding"
+    excerpt: "Seoul -based edtech startup Mathpresso announced today that it has raised $50 million in a Series C funding round last week, which puts the company's total funding at $105 million, according to CFO Soo Nahm."
+    publishedDateTime: 2021-07-01T08:48:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-mathpresso-developer-ai-based-learning-app-qanda-secures-/2021/07/01/9401603.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 6
+
 secured: "XYFPcKUQTvZxwqRDjiY8hMrBA0Cjnd+qBy0PXLUKbb9Zx7a9MybRbUoBJyhq3KcvfBNnNMHkmTWJcwPxXHBXaPUeZkBmsuPnyv/M0wiOl84F2e4dSWjBv/zbHc6zzPCzsd/7VYEaLTDzVjIc7Wr/Dss5KHitB6tSsr6Cz+kdU6bIlrzWozJ7WHgct7cC+ft5O4I38N+FC5n+sFdgWop4TCbOh6YAIY4h2fRvuXl4j3k4E3XoQyk+dWFL0GFYATEqjfDyVXJWFBTkv0g9EjDZH8RP/MX1544odFkI9j7uKBxHFalXk1v47wItjGC0EmJwI43IcLgzeEjMNSLkXviX0/x/dMT/AH8m3FGog5H7zhQ=;SeiJpF390Z3TZblESRWWcQ=="
 ---
 

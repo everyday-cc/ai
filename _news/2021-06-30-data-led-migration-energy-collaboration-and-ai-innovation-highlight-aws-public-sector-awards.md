@@ -39,6 +39,20 @@ related:
         width: 1063
         height: 482
         isCached: true
+  - title: "Diversity, ethics and innovation in tech"
+    excerpt: "Jake Wall, techUK Programme Assistant for Policy, writes on the benefits of diversity in the tech sector, why inclusion in tech is more important than ever, and how a more diverse sector can lead to more innovative and ethical technological outcomes."
+    publishedDateTime: 2021-07-01T09:52:00Z
+    webUrl: "https://www.techuk.org/resource/diversity-ethics-and-innovation-in-tech.html"
+    type: article
+    provider:
+      name: techUK
+      domain: techuk.org
+    quality: 39
+    images:
+      - url: "https://pixl8-cloud-techuk.s3.eu-west-2.amazonaws.com/prod/public/d96ba140-7d15-4bd6-91bff2622a179372/Working-office-diversity-98265000-web-1500px.jpg"
+        width: 1500
+        height: 1000
+        isCached: true
 
 secured: "lNa9K87ZkUKc7zkyXlSTl3PWg3Lk4aRx040ir4B8nXYa4kRHcY/zyFJGtAjqKJGs/Itw40uZSzcx6rRInNEZicS+anFc5z9YQ2gqvq5glcLX8lmGz1lgQxijpShGRKKW0oX4MDdksMV1mxhdB8FrVEZo8FY/NCEluOXD+hj/vDacDpGowrEMHUTeRzduPd9yXJy5dSobKIBxUYvzS4pZDCxuXglyqrFzkuQ3zNjorxG1KMlFIKYLFIc/Ln1pumSCycL8MMV7Xw5DA5KPzwKoPaTEHVxSzPGiAIWt5Xf8OEpLOZRKNX5AVfaJuYc674mjTtGOqWP4tZWJzMCsuLXdBDtdZKsFw1oJioJ9Gj1y9ZBt+1zOUVuwZ3Ej73jaQSRhnucGbgA9uAyuFDQMhoGzTJgUyWdEdDo8ajEWJlUY5V9tyGZvvn/aJuPMkKXBqnvft3jex+4XVuA2N33ed1p5uWvtMAPcHEawrYN9QlsWKWNr6f5YYcuni7PnAcXueq+63IdinfU9djvHLx2NdjhUsA==;LPg9Ji5MPthw4IDTxM5kUg=="
 ---

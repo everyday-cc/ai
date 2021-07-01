@@ -1,31 +1,27 @@
 ---
 category: news
 title: "Supermicro Boosts Performance for HPC and AI Applications with Optimized Servers Featuring New NVIDIA A100 80GB PCIe GPUs"
-excerpt: "Supermicro servers, designed with a Building Block Solutions ® approach, give Supermicro a first to market advantage when incorporating new technologies. State-of-the-art accelerated computing options can be quickly integrated and tested,"
-publishedDateTime: 2021-06-28T13:05:00Z
-originalUrl: "https://www.marketwatch.com/press-release/supermicro-boosts-performance-for-hpc-and-ai-applications-with-optimized-servers-featuring-new-nvidia-a100-80gb-pcie-gpus-2021-06-28"
-webUrl: "https://www.marketwatch.com/press-release/supermicro-boosts-performance-for-hpc-and-ai-applications-with-optimized-servers-featuring-new-nvidia-a100-80gb-pcie-gpus-2021-06-28"
+excerpt: "Super Micro Computer, Inc. (Nasdaq: SMCI), a global leader in enterprise computing, storage, networking, and green computing technology, announces a wide range of Supermicro servers will support the latest NVIDIA technologies."
+publishedDateTime: 2021-06-28T13:32:00Z
+originalUrl: "https://apnews.com/press-release/pr-newswire/business-technology-2ba9182c48433cb249695ff719eaa0a5"
+webUrl: "https://apnews.com/press-release/pr-newswire/business-technology-2ba9182c48433cb249695ff719eaa0a5"
 type: article
-quality: 59
+quality: 29
 heat: -1
 published: false
 
 provider:
-  name: MarketWatch
-  domain: marketwatch.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI Hardware
   - AI
 
 images:
-  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-    width: 1200
-    height: 630
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
 related:
@@ -87,7 +83,7 @@ related:
     provider:
       name: ZDNet
       domain: zdnet.com
-    quality: 88
+    quality: 86
     images:
       - url: "https://www.zdnet.com/a/hub/i/2021/06/30/af021708-3cd7-4136-a6fb-48d2c0bb412c/graphcore-nvidia-comparison-crop-layout-for-twitter.jpg"
         width: 1600
@@ -178,6 +174,6 @@ related:
       domain: tmcnet.com
     quality: 9
 
-secured: "Gj0iUT4XdiWlReiDdRwMBsTYOZ14k9kyETkeWRbt0VjFXZvMVTAl7b1VFTX59mOZcjKJzmdal7WQ4IaPxdOP/Cpy4neL5mJbgPxzD473qonPkA/5j4E8D0WMWGnJ9TWOxJHJW6PLg9ipFrJEfUD6ialmu0Z4FzU+QvjXnHSv1we1GuyzviYB1dVverNdu0zG8258Szwrayi8DwL0DZd5fGc6kYci7EEN9PdSp9YM0t5MMyRaUdRLTcIM3nqEaoLmrRXN46qga1Crp0tuhmAaGoCykYntiE/hj3vLkkJCq9b84UWbmJ2DU/f5mCEn4XurJTOAfXV/EOmgIfq00SS3LXtTXgXHIe9EfWvPaZFP7UQ=;Ky9V7mx7oxqkG12g1zBHjw=="
+secured: "bY4V/h+Pc5+83DVLt+caQ5x1pUHiqbZznxMl9sTAugcm+T83t29sQSy42seBvWGdiZlHU+uxgxYFlZlTqedclMMOXnNT/bLmOA9mby6zabKuBkxbiqiqQrRcnZ5EykQBpWdMsoSiOaCN4MRTmE48xhIUOlcHWlxsc4lyxSQ6dALKLhN41HTiL8Stgto97yuSs7T3Ax3DINJSu+cfLHmjKSbfpjlakKqexQu40xCu9KZDJIu/3EBnqMQfkxpgJ/DJhaxNbiMD5dUTK5es2g2oQ/kB88M0iuLIrIKjJR3qn+PpIHL0AzgFuWNNaRLCdG31EkC5/PiISn/RmZuMCwtX+p+1CRFNdaZ+CMpnI6IDXyw=;Loy9x1WtoRqIcxHEgA1VOQ=="
 ---
 

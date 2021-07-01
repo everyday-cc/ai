@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2021/06/28/pittsburghs-mayor-on-the-citys-sta
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/06/28/pittsburghs-mayor-on-the-citys-startup-community-and-the-difficulty-of-attracting-venture-capital/amp/"
 type: article
 quality: 60
-heat: 70
+heat: 80
 published: true
 
 provider:
@@ -31,6 +31,20 @@ images:
     isCached: true
 
 related:
+  - title: "How Pittsburgh is transforming into the robotics capital of the world"
+    excerpt: "Pittsburgh Robotics Network received a $125,000 grant from the Richard King Mellon Foundation to support its continued growth."
+    publishedDateTime: 2021-06-29T19:08:00Z
+    webUrl: "https://nextpittsburgh.com/city-design/how-pittsburgh-is-transforming-into-the-robotics-capital-of-the-world/"
+    type: article
+    provider:
+      name: NEXTpittsburgh
+      domain: nextpittsburgh.com
+    quality: 54
+    images:
+      - url: "https://nextpittsburgh-images.s3.amazonaws.com/2021/06/29133221/Robotics-and-AI-Leaders-Join-Together-to-Support-the-Pittsburgh-Robotics-Network-on-June-29-2021-e1624987971711.jpg"
+        width: 750
+        height: 500
+        isCached: true
   - title: "VCs discuss the opportunities – and challenges – in Pittsburgh’s startup ecosystem"
     excerpt: "\"What we need is more capital - angel funds, venture funds so that entrepreneurs have a variety of funding sources to go to locally.\""
     publishedDateTime: 2021-06-28T16:32:00Z
