@@ -3,12 +3,12 @@ category: news
 title: "Graphcore brings new competition to Nvidia in latest MLPerf AI benchmarks"
 excerpt: "Graphcore’s score in BERT natural language training was the best score of any of the two-socket AMD systems submitted."
 publishedDateTime: 2021-06-30T10:00:00Z
-originalUrl: "https://www.zdnet.com/article/graphcore-brings-new-competition-to-nvidia-in-latest-mlperf-ai-benchmarks/"
-webUrl: "https://www.zdnet.com/article/graphcore-brings-new-competition-to-nvidia-in-latest-mlperf-ai-benchmarks/"
-ampWebUrl: "https://www.zdnet.com/google-amp/article/graphcore-brings-new-competition-to-nvidia-in-latest-mlperf-ai-benchmarks/"
-cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/graphcore-brings-new-competition-to-nvidia-in-latest-mlperf-ai-benchmarks/"
+originalUrl: "https://www.zdnet.com/index.php/article/graphcore-brings-new-competition-to-nvidia-in-latest-mlperf-ai-benchmarks/"
+webUrl: "https://www.zdnet.com/index.php/article/graphcore-brings-new-competition-to-nvidia-in-latest-mlperf-ai-benchmarks/"
+ampWebUrl: "https://www.zdnet.com/index.php/google-amp/article/graphcore-brings-new-competition-to-nvidia-in-latest-mlperf-ai-benchmarks/"
+cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/google-amp/article/graphcore-brings-new-competition-to-nvidia-in-latest-mlperf-ai-benchmarks/"
 type: article
-quality: 90
+quality: 88
 heat: -1
 published: false
 
@@ -21,9 +21,8 @@ provider:
       height: 50
 
 topics:
-  - AI
-  - AI Hardware
   - Natural Language Processing
+  - AI
 
 images:
   - url: "https://www.zdnet.com/a/hub/i/2021/06/30/af021708-3cd7-4136-a6fb-48d2c0bb412c/graphcore-nvidia-comparison-crop-layout-for-twitter.jpg"
@@ -179,6 +178,6 @@ related:
       domain: tmcnet.com
     quality: 9
 
-secured: "JwW88igeitxfrRwoBgw9EpiY89g8msWN/fMN8ukvHVTk7gYIUSvDqlbEuVeeoxTVv9UAcMYY4OQd4hnLMK2RjlqdcngZwFvZU9zVCSuT+4otwar4O/wafdGJ5DK6utH2MD6Dd0HUIRy94/RlY54T9OAq+Ge8BRWq36SHlfW/vlBBdIAB0+iZGGgxfflKrB51Jb9DvwgFos1YEgqpkr0OHJI/eUYN5j3/aW32t8erqvCZMGv/nMjv+D9Zn++SUMKVFgPUnKtzMOcVfRR4co1eRVm6atRtVkAVBcjdNDglJlR4pfmY6xJNzjJMe144DE746qMxjDkppzUBF9P3fvnG7EpIT7WFhqEUVoQ1WO+kTWArJyNdkKpVC8lu4yqZ5Nvzja7XpYlWJ58JydRPaW/q5tCj8ha1iHU1tVMKYxR7mUqDHLgHqTqI2QZ3jXLIbTFw2UGudUUYuMZsRLpdyDCrZTovFHe/cgJf3JgLqx/EHM9LOcR8Wun3h581EH6cgYs1Cfz6AYhx53ZGaVpiQYBR5g==;bkqDOyxxadIm5mf1k/EVAA=="
+secured: "3EwKjXtl1eF4znePa6OnY5XMAmR/xGkw9/UEXGWvv18YGg0DN3eDlBInfxvgO/DQiWtHdGGk0/TIjENk6bz5HWogEQRNctFIccl2JABeriisXEyqiuJGD89yuaSywUlb8F1AFjbMb3DbjBKbvQQBjYGDe0uDrHirfSXQYDDEMmRCeip2WFIZTM6GvYySoxQbhGpi6oGM3OEIFhyIS2sCLWklMWnQCUgQNYuHUQPOYjSSqFo1kIHNhbLiAcXvkNfepwR+G73nR2MvxbW+xPXpdRQGhCs5nkBoZqrhQU48YoBAkyW+1OdOS9HtMLP9/3z2WCKcFaN4ehiPbPGxg1h0++8b6QI0QbaLRqOO1uw4ZXE=;mbYZ1ny9RAammIbZuZfMRw=="
 ---
 

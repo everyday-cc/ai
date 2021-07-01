@@ -20,101 +20,47 @@ topics:
   - AI
 
 related:
-  - title: "Voice Recognition Market Growth Rate And Industry Analysis 2021-2026"
-    excerpt: "Voice Recognition Market offers good growth opportunities during the next five year period ending 2026 In its detailed market assessment report Stratview Research has analysed the Voice Recognition Market emerging trends forecasts competitive landscapes and factors governing the market dynamics"
-    publishedDateTime: 2021-06-28T10:54:00Z
-    webUrl: "https://www.openpr.com/news/2315215/voice-recognition-market-growth-rate-and-industry-analysis"
-    ampWebUrl: "https://www.openpr.com/amp/2315215/voice-recognition-market-growth-rate-and-industry-analysis"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2315215/voice-recognition-market-growth-rate-and-industry-analysis"
+  - title: "Artificial Intelligence (AI) Chips Market in Communications Equipment Industry | Technavio"
+    excerpt: "The artificial intelligence (AI) chips market is expected to grow by USD 73.49 billion at over 51% CAGR during 2021-2025, according to"
+    publishedDateTime: 2021-06-29T01:45:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/artificial-intelligence-ai-chips-market-in-communications-equipment-industry--technavio-301321404.html"
     type: article
     provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 44
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 59
     images:
-      - url: "https://cdn.openpr.com/U/6/U628741252_g.jpg"
-        width: 400
-        height: 300
+      - url: "https://mma.prnewswire.com/media/1551721/Artificial_Intelligence_Chips.jpg?p=facebook"
+        width: 1280
+        height: 670
         isCached: true
-  - title: "AI in Social Media Market Research Report with Size, Share, Value, CAGR, Outlook, Analysis, Latest Updates, Data, and News 2021-2028"
-    excerpt: "The report forecast global AI in Social Media market to grow to reach xx Million USD in 2021 with a CAGR of during the"
-    publishedDateTime: 2021-06-29T06:53:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-in-social-media-market-research-report-with-size-share-value-cagr-outlook-analysis-latest-updates-data-and-news-2021-2028-2021-06-29"
+  - title: "Artificial Intelligence (AI) in Education Market To See Stunning Growth | IBM, Osmo, Nuance Communications"
+    excerpt: "As Artificial Intelligence (AI) in Education research and application [Higher Education, K-12 Education & Corporate Learning] continues to expand in scope, the market will see deeper integration and application of more technologies in the future."
+    publishedDateTime: 2021-06-26T15:34:00Z
+    webUrl: "https://ksusentinel.com/2021/06/26/artificial-intelligence-ai-in-education-market-to-see-stunning-growth-ibm-osmo-nuance-communications/"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 36
+      name: The Sentinel
+      domain: ksusentinel.com
+    quality: 53
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+      - url: "https://ksusentinel.com/wp-content/uploads/2021/06/Artificial-Intelligence-AI-in-Education-Market.jpeg"
+        width: 672
+        height: 448
+        isCached: true
+  - title: "Artificial Intelligence-as-a-Service (AIaaS) Market in Application Software Industry | Technavio"
+    excerpt: "Technavio forecasts the global artificial intelligence-as-a-service (AIaaS) market to grow by USD 14.70 billion during 2021-2025. The report offers a comprehensive analysis of the artificial intelligence-as-a-service (AIaaS) market including the impact of the COVID-19 pandemic on market vendors."
+    publishedDateTime: 2021-06-29T01:00:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/artificial-intelligence-as-a-service-aiaas-market-in-application-software-industry-technavio/article_ac961e6c-bec0-5df1-b30e-af258e1b5da3.html"
+    type: article
+    provider:
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 39
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/7/50/75055078-05ef-5bbe-bb00-9dc6fbfaaded/60da713b84455.image.jpg?resize=1200%2C585"
         width: 1200
-        height: 630
-        isCached: true
-  - title: "AI Recruitment Market Size , Growth, Opportunities during 2021- 2027 | SAP SE, Zoho Corporation, Googl, IBM Corporation"
-    excerpt: "AI Recruitment Market is growing at a 6 CAGR during the forecast period 2020 2026 The increasing interest of the individuals in this industry is that the major reason for the expansion of this market The growing demand for predictive"
-    publishedDateTime: 2021-06-27T15:05:00Z
-    webUrl: "https://www.openpr.com/news/2314807/ai-recruitment-market-size-growth-opportunities-during-2021"
-    ampWebUrl: "https://www.openpr.com/amp/2314807/ai-recruitment-market-size-growth-opportunities-during-2021"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2314807/ai-recruitment-market-size-growth-opportunities-during-2021"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 33
-    images:
-      - url: "https://cdn.openpr.com/U/6/U627356303_g.jpg"
-        width: 665
-        height: 435
-        isCached: true
-  - title: "GPU as a Service Market Analysis of Key Players, End User, Demand and Consumption By 2026"
-    excerpt: "The GPU as a Service Market Global Industry Analysis Size Share Growth Trends and Forecast 2020 2026 report intends to offer a resourceful means to assess the GPU as a Service Market and entails the all inclusive analysis and upfront"
-    publishedDateTime: 2021-06-30T13:01:00Z
-    webUrl: "https://www.openpr.com/news/2317863/gpu-as-a-service-market-analysis-of-key-players-end-user-demand"
-    ampWebUrl: "https://www.openpr.com/amp/2317863/gpu-as-a-service-market-analysis-of-key-players-end-user-demand"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2317863/gpu-as-a-service-market-analysis-of-key-players-end-user-demand"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 30
-  - title: "Recognition and Touchless Sensing Market Study Reveals Growth Factors, Competitive Outlook for Future and Regional Forecast 2030"
-    excerpt: "In a recent published report, Kenneth Research has updated the market report for Recognition and Touchless Sensing"
-    publishedDateTime: 2021-06-30T06:55:00Z
-    webUrl: "https://www.marketwatch.com/press-release/recognition-and-touchless-sensing-market-study-reveals-growth-factors-competitive-outlook-for-future-and-regional-forecast-2030-2021-06-30"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 25
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Facial Recognition Market - Top Key Players are deploying both organic and inorganic growth strategies"
-    excerpt: "The global facial recognition market is displaying a fierce competition in its competitive landscape Prominent players in the market are focusing to strengthen their distribution network states a newly launched market report by This is mainly to"
-    publishedDateTime: 2021-06-29T14:48:00Z
-    webUrl: "https://www.openpr.com/news/2316739/facial-recognition-market-top-key-players-are-deploying-both"
-    ampWebUrl: "https://www.openpr.com/amp/2316739/facial-recognition-market-top-key-players-are-deploying-both"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2316739/facial-recognition-market-top-key-players-are-deploying-both"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 23
-  - title: "Global Artificial Intelligence/Machine Learning Platforms Market Report 2021: Growth Opportunities in Customer Experience and Contact Centers, HR, Sal"
-    excerpt: "The \"Global Artificial Intelligence/Machine Learning Platforms Growth Opportunities\" report has been added to ResearchAndMarkets.com's offering. This study highlights the market trends, drivers, challenges,"
-    publishedDateTime: 2021-06-29T13:25:00Z
-    webUrl: "https://us.acrofan.com/detail.php?number=492540"
-    type: article
-    provider:
-      name: 아크로팬
-      domain: acrofan.com
-    quality: 16
-    images:
-      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
-        width: 580
-        height: 339
+        height: 585
         isCached: true
 
 secured: "hdDI7TYZqvlTzdvlzOW1Dx5iXJCWKnY2PeQju6jjGD+n24EgtkLTV15dLZv+c4ydkreFzoeNyBEaRCJ1XGvdcXP5+PUQCeIEdso5Lu5DSrlLlyipVs9UvaDinNqKWge7aYlW0vnorENC63Yt+WMg/hZH10oLzAhCcAh8DEYyD2NA/N48gLxwgR2iVi+ljNAfcmwTaXr/BLH+1fuyaivfJSTvPZGIEpplnmWa4kEUKIYneGILmMnL0oMa4CKpW2vgxRhIHdxbtGxNaLQo2twsgW8QYpDojqh/R0i7ulZ3zkoKRPN/Z+npvB+muaPWs0t5B/v2DRJ88XTo9hgpqlhfNi2KRS+q+k7vW6Z06UN9MW8=;om/5fdbs1u51JvEJhBHBXg=="

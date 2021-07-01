@@ -36,20 +36,6 @@ related:
         width: 450
         height: 300
         isCached: true
-  - title: "Machine Learning in IoT Market to see Huge Growth by 2026 | Microsoft, IBM, Google, BigML"
-    excerpt: "The latest study released on the Global Machine Learning in IoT Market by AMA Research evaluates market size, trend, and forecast to 2026. The Machine Learning in IoT market study covers significant research data and proofs to be a handy resource document for managers,"
-    publishedDateTime: 2021-06-28T23:59:00Z
-    webUrl: "https://www.bignewsnetwork.com/news/270092660/machine-learning-in-iot-market-to-see-huge-growth-by-2026--microsoft-ibm-google-bigml"
-    type: article
-    provider:
-      name: Big News Network.com
-      domain: bignewsnetwork.com
-    quality: 62
-    images:
-      - url: "https://cdn.bignewsnetwork.com/cus1624716402900.jpg"
-        width: 630
-        height: 420
-        isCached: true
   - title: "Artificial Intelligence in IoT Market Size and Growth 2021-2028 | Top Leading Players – IBM, Microsoft, Google, PTC, AWS, Oracle, GE, Salesforce"
     excerpt: "The report titled Artificial Intelligence in IoT Market is a comprehensive document containing valuable insights into market elements such as drivers, restraints, competitive landscape, and technology development."
     publishedDateTime: 2021-06-30T06:03:00Z

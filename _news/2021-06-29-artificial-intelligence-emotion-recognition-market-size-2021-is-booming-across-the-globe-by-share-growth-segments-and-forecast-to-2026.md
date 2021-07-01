@@ -127,6 +127,20 @@ related:
       name: ReportsnReports
       domain: reportsnreports.com
     quality: 23
+  - title: "United States Artificial Intelligence Market Industry Overview, Size, Scope, Demand, Share and Forecast 2021-2026"
+    excerpt: "According to the latest report by IMARC Group, titled “United States Artificial Intelligence Market Share ... is expected to bolster the demand for AI in drones, robots, and self-driving cars, over the forecasted period. If you need specific information ..."
+    publishedDateTime: 2021-06-28T07:07:00Z
+    webUrl: "https://ksusentinel.com/2021/06/28/united-states-artificial-intelligence-market-industry-overview-size-scope-demand-share-and-forecast-2021-2026/"
+    type: article
+    provider:
+      name: The Sentinel
+      domain: ksusentinel.com
+    quality: 18
+    images:
+      - url: "https://ksusentinel.com/wp-content/uploads/2021/06/United-States-Artificial-Intelligence-Market-2-780x470.jpeg"
+        width: 780
+        height: 470
+        isCached: true
   - title: "COVID-19 Impact on Artificial Intelligence Chipsets Market - Global Industry Analysis, Size, Share, Growth, Trends and Forecast 2021-2027"
     excerpt: "Artificial Intelligence Chipsets Market size exceeded USD 8 billion in 2019 and is estimated to grow at around 35 CAGR between 2021 and 2027 Artificial intelligence chipset market has reported a significant increase in size and value thanks to the"
     publishedDateTime: 2021-06-28T09:08:00Z

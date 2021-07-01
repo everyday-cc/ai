@@ -123,6 +123,20 @@ related:
       name: ReportsnReports
       domain: reportsnreports.com
     quality: 23
+  - title: "United States Artificial Intelligence Market Industry Overview, Size, Scope, Demand, Share and Forecast 2021-2026"
+    excerpt: "According to the latest report by IMARC Group, titled “United States Artificial Intelligence Market Share ... is expected to bolster the demand for AI in drones, robots, and self-driving cars, over the forecasted period. If you need specific information ..."
+    publishedDateTime: 2021-06-28T07:07:00Z
+    webUrl: "https://ksusentinel.com/2021/06/28/united-states-artificial-intelligence-market-industry-overview-size-scope-demand-share-and-forecast-2021-2026/"
+    type: article
+    provider:
+      name: The Sentinel
+      domain: ksusentinel.com
+    quality: 18
+    images:
+      - url: "https://ksusentinel.com/wp-content/uploads/2021/06/United-States-Artificial-Intelligence-Market-2-780x470.jpeg"
+        width: 780
+        height: 470
+        isCached: true
   - title: "Artificial Intelligence-Emotion Recognition Market Size 2021 Is Booming Across the Globe by Share, Growth, Segments and Forecast to 2026"
     excerpt: "Global \" Artificial Intelligence-Emotion Recognition Market \"Growth (2021-2026): Emotion recognition is the process of identifying human emotion, most typically from facial expressions as well as from verbal expressions."
     publishedDateTime: 2021-06-29T11:09:00Z

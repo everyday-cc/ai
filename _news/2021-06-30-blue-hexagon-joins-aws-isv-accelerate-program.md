@@ -18,6 +18,17 @@ topics:
   - AWS AI
   - AI
 
+related:
+  - title: "Blue Hexagon Joins AWS ISV Accelerate Program"
+    excerpt: "Blue Hexagon joins AWS ISV Accelerate Program; first Agentless Cloud-Native AI Security Platform for AWS Powered by Real Time Deep Learning."
+    publishedDateTime: 2021-06-30T19:06:00Z
+    webUrl: "https://www.businesswire.com/news/home/20210630005728/en/Blue-Hexagon-Joins-AWS-ISV-Accelerate-Program"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 19
+
 secured: "Eyn07Z9EA7srjttjZ6Gf4BVDR6q49ZaAChYG6U9gQRyK/opaoNCuBIQq8UEhGUDfmmslQsayY33OW7QoEhx3wRhCSVKi9D6ILUl0BepOyEcbgclUNwsAtEzSV1bsUa15ZUf97mBYJzILS1LoROide5TtCgfV0s5/1jwuXXsRiFgtu+JlClNp13VlJ4U/xTcxe2c2dZ6Jb9WWu3ej0db88xG6baU9te2ZNmc4li+RLQ4QHcE2RrUQP+RH1HayQDuwmooHQzPCPyhrYJWtUjPLVj7+Vlxs0/a6mlxi22VpGdtEEecASodY3pIf3BOND7ppZoCz9P3GZVsPqDhqnOs4bXWDPReQICeEl2s6PreGf0I=;ppYLdo6Hd+dWkXPu6wEp2w=="
 ---
 

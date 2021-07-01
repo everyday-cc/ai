@@ -37,6 +37,15 @@ related:
         width: 1024
         height: 640
         isCached: true
+  - title: "Getting Started with AI using IBM Watson"
+    excerpt: "In this course you will learn how to quickly and easily get started with Artificial Intelligence using IBM Watson. You will understand how Watson works, become familiar with its use cases and real ..."
+    publishedDateTime: 2021-06-29T11:44:00Z
+    webUrl: "https://www.usnews.com/education/skillbuilder/getting-started-with-ai-using-ibm-watson-0_GdR9t4MnEem1fhKdUV_ohA"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 64
   - title: "ZzappMalaria wins $3m IBM Watson AI XPRIZE"
     excerpt: "Israeli startup’s AI platform tailors and monitors location-specific antimalarial strategies; also won the People's Choice Award in the competition."
     publishedDateTime: 2021-06-27T11:47:00Z

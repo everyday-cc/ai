@@ -48,22 +48,6 @@ related:
         width: 1440
         height: 810
         isCached: true
-  - title: "Graphcore brings new competition to Nvidia in latest MLPerf AI benchmarks"
-    excerpt: "Graphcore’s score in BERT natural language training was the best score of any of the two-socket AMD systems submitted."
-    publishedDateTime: 2021-06-30T10:00:00Z
-    webUrl: "https://www.zdnet.com/article/graphcore-brings-new-competition-to-nvidia-in-latest-mlperf-ai-benchmarks/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/graphcore-brings-new-competition-to-nvidia-in-latest-mlperf-ai-benchmarks/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/graphcore-brings-new-competition-to-nvidia-in-latest-mlperf-ai-benchmarks/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 90
-    images:
-      - url: "https://www.zdnet.com/a/hub/i/2021/06/30/af021708-3cd7-4136-a6fb-48d2c0bb412c/graphcore-nvidia-comparison-crop-layout-for-twitter.jpg"
-        width: 1600
-        height: 1069
-        isCached: true
   - title: "News Flash: NVIDIA Remains The Fastest Available AI Accelerator"
     excerpt: "Ok, while that is hardly surprising news, given the comfortable lead NVIDIA enjoys, Google’s upcoming TPUv4 out-performed NVIDIA on three of eight benchmarks on a chip-to-chip basis, while Graphcore’s performance and price/performance is in the ball park."
     publishedDateTime: 2021-06-30T17:00:00Z
@@ -79,6 +63,22 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60db80214c087bb5c6c220d5%2F0x0.jpg"
         width: 1200
         height: 628
+        isCached: true
+  - title: "Graphcore brings new competition to Nvidia in latest MLPerf AI benchmarks"
+    excerpt: "Graphcore’s score in BERT natural language training was the best score of any of the two-socket AMD systems submitted."
+    publishedDateTime: 2021-06-30T10:00:00Z
+    webUrl: "https://www.zdnet.com/index.php/article/graphcore-brings-new-competition-to-nvidia-in-latest-mlperf-ai-benchmarks/"
+    ampWebUrl: "https://www.zdnet.com/index.php/google-amp/article/graphcore-brings-new-competition-to-nvidia-in-latest-mlperf-ai-benchmarks/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/google-amp/article/graphcore-brings-new-competition-to-nvidia-in-latest-mlperf-ai-benchmarks/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 88
+    images:
+      - url: "https://www.zdnet.com/a/hub/i/2021/06/30/af021708-3cd7-4136-a6fb-48d2c0bb412c/graphcore-nvidia-comparison-crop-layout-for-twitter.jpg"
+        width: 1600
+        height: 1069
         isCached: true
   - title: "NVIDIA (NVDA) Makes Key Advancements with AI-on-5G Platform"
     excerpt: "On the first day of the Mobile World Congress event being held in Barcelona, NVIDIA NVDA made key announcements for the benefit of the 5G ecosystem and expansion of its AI-on-5G platform. NVIDIA announced that it is collaborating with Alphabet’s GOOGL Google Cloud to build an AI-on-5G Innovation Lab as part of their joint vision to accelerate the development of smart cities and smart factories."

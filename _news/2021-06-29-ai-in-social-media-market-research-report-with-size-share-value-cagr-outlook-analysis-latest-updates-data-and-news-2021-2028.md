@@ -28,98 +28,33 @@ images:
     isCached: true
 
 related:
-  - title: "Voice Recognition Market Growth Rate And Industry Analysis 2021-2026"
-    excerpt: "Voice Recognition Market offers good growth opportunities during the next five year period ending 2026 In its detailed market assessment report Stratview Research has analysed the Voice Recognition Market emerging trends forecasts competitive landscapes and factors governing the market dynamics"
-    publishedDateTime: 2021-06-28T10:54:00Z
-    webUrl: "https://www.openpr.com/news/2315215/voice-recognition-market-growth-rate-and-industry-analysis"
-    ampWebUrl: "https://www.openpr.com/amp/2315215/voice-recognition-market-growth-rate-and-industry-analysis"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2315215/voice-recognition-market-growth-rate-and-industry-analysis"
+  - title: "Global Natural Language Processing (NLP) in Healthcare and Life Sciences Market Size will be Expanded and Reach Millions $ by 2024"
+    excerpt: "Global Natural Language Processing (NLP) in Healthcare and Life Sciences Market Report Summarizes The Tremendous Market Growth During The Forecast Period. The report on the global"
+    publishedDateTime: 2021-06-28T08:16:00Z
+    webUrl: "https://ksusentinel.com/2021/06/28/global-natural-language-processing-nlp-in-healthcare-and-life-sciences-market-size-will-be-expanded-and-reach-millions-by-2024/"
     type: article
     provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 44
+      name: The Sentinel
+      domain: ksusentinel.com
+    quality: 41
     images:
-      - url: "https://cdn.openpr.com/U/6/U628741252_g.jpg"
-        width: 400
-        height: 300
-        isCached: true
-  - title: "AI Recruitment Market Size , Growth, Opportunities during 2021- 2027 | SAP SE, Zoho Corporation, Googl, IBM Corporation"
-    excerpt: "AI Recruitment Market is growing at a 6 CAGR during the forecast period 2020 2026 The increasing interest of the individuals in this industry is that the major reason for the expansion of this market The growing demand for predictive"
-    publishedDateTime: 2021-06-27T15:05:00Z
-    webUrl: "https://www.openpr.com/news/2314807/ai-recruitment-market-size-growth-opportunities-during-2021"
-    ampWebUrl: "https://www.openpr.com/amp/2314807/ai-recruitment-market-size-growth-opportunities-during-2021"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2314807/ai-recruitment-market-size-growth-opportunities-during-2021"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 33
-    images:
-      - url: "https://cdn.openpr.com/U/6/U627356303_g.jpg"
-        width: 665
-        height: 435
-        isCached: true
-  - title: "GPU as a Service Market Analysis of Key Players, End User, Demand and Consumption By 2026"
-    excerpt: "The GPU as a Service Market Global Industry Analysis Size Share Growth Trends and Forecast 2020 2026 report intends to offer a resourceful means to assess the GPU as a Service Market and entails the all inclusive analysis and upfront"
-    publishedDateTime: 2021-06-30T13:01:00Z
-    webUrl: "https://www.openpr.com/news/2317863/gpu-as-a-service-market-analysis-of-key-players-end-user-demand"
-    ampWebUrl: "https://www.openpr.com/amp/2317863/gpu-as-a-service-market-analysis-of-key-players-end-user-demand"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2317863/gpu-as-a-service-market-analysis-of-key-players-end-user-demand"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 30
-  - title: "Recognition and Touchless Sensing Market Study Reveals Growth Factors, Competitive Outlook for Future and Regional Forecast 2030"
-    excerpt: "In a recent published report, Kenneth Research has updated the market report for Recognition and Touchless Sensing"
-    publishedDateTime: 2021-06-30T06:55:00Z
-    webUrl: "https://www.marketwatch.com/press-release/recognition-and-touchless-sensing-market-study-reveals-growth-factors-competitive-outlook-for-future-and-regional-forecast-2030-2021-06-30"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 25
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Facial Recognition Market - Top Key Players are deploying both organic and inorganic growth strategies"
-    excerpt: "The global facial recognition market is displaying a fierce competition in its competitive landscape Prominent players in the market are focusing to strengthen their distribution network states a newly launched market report by This is mainly to"
-    publishedDateTime: 2021-06-29T14:48:00Z
-    webUrl: "https://www.openpr.com/news/2316739/facial-recognition-market-top-key-players-are-deploying-both"
-    ampWebUrl: "https://www.openpr.com/amp/2316739/facial-recognition-market-top-key-players-are-deploying-both"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2316739/facial-recognition-market-top-key-players-are-deploying-both"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 23
-  - title: "Artificial Intelligence in Telecommunication Market Size, Share 2020, Impressive Industry Growth Report 2027"
-    excerpt: "The global Artificial Intelligence by Telecom market size was valued at USD 679 million in 2019 and is projected to grow at a CAGR of 38 from 2021 to 2027 Telecommunications is one of the fastest growing industries using AI"
-    publishedDateTime: 2021-06-28T12:00:00Z
-    webUrl: "https://www.openpr.com/news/2315358/artificial-intelligence-in-telecommunication-market-size"
-    ampWebUrl: "https://www.openpr.com/amp/2315358/artificial-intelligence-in-telecommunication-market-size"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2315358/artificial-intelligence-in-telecommunication-market-size"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 18
-  - title: "Global Artificial Intelligence/Machine Learning Platforms Market Report 2021: Growth Opportunities in Customer Experience and Contact Centers, HR, Sal"
-    excerpt: "The \"Global Artificial Intelligence/Machine Learning Platforms Growth Opportunities\" report has been added to ResearchAndMarkets.com's offering. This study highlights the market trends, drivers, challenges,"
-    publishedDateTime: 2021-06-29T13:25:00Z
-    webUrl: "https://us.acrofan.com/detail.php?number=492540"
-    type: article
-    provider:
-      name: 아크로팬
-      domain: acrofan.com
-    quality: 16
-    images:
-      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
-        width: 580
+      - url: "https://themarketeagle.com/wp-content/uploads/2021/03/Management4.jpg"
+        width: 480
         height: 339
+        isCached: true
+  - title: "Global Artificial Intelligence Chipsets Market Size will be Expanded and Reach Millions $ by 2024"
+    excerpt: "Global Artificial Intelligence Chipsets Market Research Report: Industry Analysis, Share, Revenue, And Future Trends. The report published by Market Research Store on the global A"
+    publishedDateTime: 2021-06-28T08:16:00Z
+    webUrl: "https://ksusentinel.com/2021/06/28/global-artificial-intelligence-chipsets-market-size-will-be-expanded-and-reach-millions-by-2024/"
+    type: article
+    provider:
+      name: The Sentinel
+      domain: ksusentinel.com
+    quality: 26
+    images:
+      - url: "https://themarketeagle.com/wp-content/uploads/2021/03/Management2.jpg"
+        width: 1024
+        height: 624
         isCached: true
 
 secured: "pIyvVS1XC4YuQBC0YI4gskQr13TVgPw+1txQuAc3mHgYnr/vcx66o3e9ct1oe+t6wvFd3rL65WsZ0Ok+Jl13AeIYFeNtuEQgMBx3cBl7M+7nPeBzG2eJNJypykpUfhhsSMhuaaRcLIytY9e99o+0O0a2wnU3aWJI6pybm8gr3mVhQ4quUYNpWxHCEt10SD8GKyL0H2zQpZlzF6ieNQIwbZ5/ypiM3YyagLS3xnm0FtRtFqm0e3ExH7zx1RoyB/eMBOwC+OgXYDfLLUDHWpe9hM6AoNuR1x24W4thqc7ebE//xkK+2U/pvAvqOzF4mTgdSwhDv/gTu3isjOQj8kkxxW76Ope3lpiN0UkGoHI8qJI=;GQCKHOMMLzs1DBAQHjwxAw=="

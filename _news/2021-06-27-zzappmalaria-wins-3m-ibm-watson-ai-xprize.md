@@ -41,6 +41,15 @@ related:
         width: 1024
         height: 640
         isCached: true
+  - title: "Getting Started with AI using IBM Watson"
+    excerpt: "In this course you will learn how to quickly and easily get started with Artificial Intelligence using IBM Watson. You will understand how Watson works, become familiar with its use cases and real ..."
+    publishedDateTime: 2021-06-29T11:44:00Z
+    webUrl: "https://www.usnews.com/education/skillbuilder/getting-started-with-ai-using-ibm-watson-0_GdR9t4MnEem1fhKdUV_ohA"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 64
   - title: "Bringing AI into your IT operations with IBM Watson"
     excerpt: "Of course, there will still be situations that cannot be prevented and in these situations AI can be used to resolve the issue quickly and reduce the downtime. IBM Watson AIOps uses feeds from a ..."
     publishedDateTime: 2021-06-28T06:36:00Z

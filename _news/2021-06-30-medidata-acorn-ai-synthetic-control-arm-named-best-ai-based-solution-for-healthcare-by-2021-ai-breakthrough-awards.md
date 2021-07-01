@@ -1,28 +1,22 @@
 ---
 category: news
-title: "Medidata Acorn AI Synthetic Control Arm® Named “Best AI-based Solution for Healthcare” by 2021 AI Breakthrough Awards"
-excerpt: "Medidata, a Dassault Systemes company, today announced that the Medidata Acorn AI Synthetic Control Arm ® (SCA) has been awarded “Best AI-based Solution for Healthcare'' in this ... platform founded to recognize artificial intelligence related ..."
-publishedDateTime: 2021-06-30T16:02:00Z
-originalUrl: "https://www.register-herald.com/region/medidata-acorn-ai-synthetic-control-arm-named-best-ai-based-solution-for-healthcare-by-2021/article_a495d921-24fb-5ab8-92a6-73240b430619.html"
-webUrl: "https://www.register-herald.com/region/medidata-acorn-ai-synthetic-control-arm-named-best-ai-based-solution-for-healthcare-by-2021/article_a495d921-24fb-5ab8-92a6-73240b430619.html"
+title: "Medidata Acorn AI Synthetic Control Arm® Named \"Best AI-based Solution for Healthcare\" by 2021 AI Breakthrough Awards"
+excerpt: "Medidata, a Dassault Systemes ( News - Alert) company, today announced that the Medidata Acorn AI Synthetic Control Arm ® (SCA) has been awarded \"Best AI-based Solution for Healthcare'' in this year's AI Breakthrough Awards ."
+publishedDateTime: 2021-06-30T16:05:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/2021/06/30/9401233.htm"
+webUrl: "https://www.tmcnet.com/usubmit/2021/06/30/9401233.htm"
 type: article
-quality: 31
+quality: 11
 heat: -1
 published: false
 
 provider:
-  name: The Register-Herald
-  domain: register-herald.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI in Healthcare
   - AI
-
-images:
-  - url: "https://bloximages.chicago2.vip.townnews.com/register-herald.com/content/tncms/assets/v3/editorial/3/1b/31ba3241-1f65-5860-9593-b4fa908b9fa5/60dc991277cd6.image.jpg?resize=645%2C630"
-    width: 645
-    height: 630
-    isCached: true
 
 related:
   - title: "EyeTech Digital Systems Recognized by SIIA as Best Artificial Intelligence Solution in Healthcare"
@@ -40,6 +34,6 @@ related:
         height: 1414
         isCached: true
 
-secured: "xvB0nKQj9acXwZyvv6cs10vt4KwdPkiox0WQgl2Z+OFPZR3akJ04qNu5paFMhLDecoM55EMG20HBcCB4SNo9W+GOCna/W7nET55Rvb8Xw0YQoHMfDblQezvqyc5rcVnzqiH7CBRNl0qTPctXcYWV3Y9YiwdXKNTMH+WL2fcML+Z1RJB1OK4FxoYgMKIAnq2Ujxr7OMpm3md51V9XGq6wEeJNxjviWPAkv3tMFBwX23vEEK47HbXyDDXWJd0zbfHiKuWeNNg6i67rP28CVPH2wWYui0vBDHczmLA0MdLfkisl22sTFa5ImfNJCBu0cTRnldyDqD0x+z7yPytFP6brf0WXbGX5kU1jCABqoBrFWJ4=;91pryoq66OPnUo5HYzNo4A=="
+secured: "Rfb96sY/H5KyRn5OSgmh1ySYBdtOGEVfcK/WK0u1T7vTRzivpIYMJJxyehw3eyS5vskLb+5ttWI7aTq/IfzW6ELkLeDruRopyeWMhp4L+l5OEc9TwMmCL7pJZwZIFb8cJXuO4OaMofBjerw5iadp6upJ9Pk0jAVTwLp8O2Apk5BbQgoLhExcIjZlThrYJZyt/BIYgQ0tu5AiFtAxwZlXqkMJb+dXNudQncKLbe9OKzcjqROW4PYBF/y1whapJKuAX0+696BibzJHxSRfw3mEmVcWg7UiIf1z3vPVihjAsAV6F4mu/lSVDRYErm3WLpypFuZZlQ0V7cyfz+Rpl3GQ3nxIO4kR1pzXxxY9J+XYTpXNh87shL0HIvcaNZoE2jpD+BhwFkXfnXMo+bIssTjtVJS4zq1hfi50HvF3bJKwEtPWYuDaZhz77XSAJ2huKyTUl9Pe47tcaVoMROto0u4ChujTkUYDNBGdT4NS0nT2WzKW1E6KP0Z57S4efgsUPAAEo6b4vb8byJh1lBdS2WmR2A==;cHls1WgHsI3pcd9wWAj5iw=="
 ---
 

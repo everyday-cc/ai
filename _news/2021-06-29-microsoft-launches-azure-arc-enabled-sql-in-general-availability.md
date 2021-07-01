@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/06/29/microsoft-launches-azure-arc-enab
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/29/microsoft-launches-azure-arc-enabled-sql-in-general-availability/amp/"
 type: article
 quality: 119
-heat: 209
+heat: 219
 published: true
 
 provider:
@@ -147,6 +147,15 @@ related:
       name: Business Wire
       domain: businesswire.com
     quality: 18
+  - title: "Artificial Intelligence In Genomics Market Continues To Impress | IBM, Microsoft, Deep Genomics, Fabric Genomics"
+    excerpt: "Latest released the research study on Global Artificial Intelligence In Genomics Market, offers a detailed overview of the factors influencing the global business scope. Artificial Intelligence In Genomics Market research report shows the latest market insights,"
+    publishedDateTime: 2021-06-30T10:25:00Z
+    webUrl: "https://ksusentinel.com/2021/06/30/artificial-intelligence-in-genomics-market-continues-to-impress-ibm-microsoft-deep-genomics-fabric-genomics/"
+    type: article
+    provider:
+      name: The Sentinel
+      domain: ksusentinel.com
+    quality: 13
 
 secured: "TVC08s+pREkKjq5xrrYACsLbR7eOtl87oZmUwUcNQg5sml4RVqPVmU2ZHqEp9zEVdXSt+uLvimR1pWMj+mY9MnchTe9jvN+OUImh1OgGUfP1pmzapV9JnDNJjC2qvjNjX1mr1gc5/s5eDPX7J9Q0a2B/pXJDvXsxhMie5fPEtqkxl45Os9iLZtGI+BFU9I1v1luraIHFaJyqqs7Cd4voMRomPJQV7HLdPumtUoffTgPVSO4xdMh13B+PYLH+E8aaOx6Sx6+v2UxjMO5APPuUUOGCa95z8GjnujExkFRkjTulnWaOmzZOMGl7hkmKSP2NfS9SRxWvntzBIva/r46d/woSNawjfj/aUN/cSH72Mzr8VwUr99wtr+oBuJejgOEcUT8/F6pO/L6d9GOOzGTFEnLL3Dm8SnCvK1kyu8vEuAzHwK7saNJuGZzy9+Rz/liS4FkCXD461Vm8Pkb+tXqAcNNYIF/aTe4Y38L6D5iBhdO70E9syMHBAljWTQaCdZUbPbXk+Wa/ASQwO5NF+SHAuw==;gE2KFqcOdqeoY+Ar4YsnpA=="
 ---
