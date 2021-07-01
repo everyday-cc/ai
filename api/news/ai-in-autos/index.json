@@ -2,6 +2,59 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-07-01-gcc-artificial-intelligence-market-2021-26-industry-trends-size-share-analysis-and-forecast-report.md",
+      "title": "GCC Artificial Intelligence Market 2021-26: Industry Trends, Size, Share, Analysis and Forecast Report",
+      "excerpt": "According to IMARC Group's latest report, titled \"GCC Artificial Intelligence Market: Industry Trends, Share, Size, Growth, Opportunity and Forecast 2021-2026,\" the GCC artificial intelligence market grew at a CAGR of around 24% during 2015-2020.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/gcc-artificial-intelligence-market-2021-26-industry-trends-size-share-analysis-and-forecast-report-2021-07-01",
+      "originalUrl": "https://www.marketwatch.com/press-release/gcc-artificial-intelligence-market-2021-26-industry-trends-size-share-analysis-and-forecast-report-2021-07-01",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 95,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-01T05:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2021-07-01-cheers-to-the-heineken-bot-self-driving-beer-delivery-robot.md",
       "title": "Cheers to the Heineken B.O.T. Self-Driving Beer Delivery Robot",
       "excerpt": "You could train your dog to grab one for you, which would take effort, time, and commitment. Or you could turn to Heineken's new B.O.T., which is, yep, a beer-carrying robot that brings the beers to you.",
@@ -1379,58 +1432,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/scmp.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-18-massive-record-breaking-heat-wave-reveals-how-ai-self-driving-cars-could-provide-some-cooling-relief.md",
-      "title": "Massive Record-Breaking Heat Wave Reveals How AI Self-Driving Cars Could Provide Some Cooling Relief",
-      "excerpt": "This mega-heat wave is getting worse, which if we had AI-based true self-driving cars might be somewhat mitigated, here's how.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/lanceeliot/2021/06/18/massive-record-breaking-heat-wave-reveals-how-ai-self-driving-cars-could-provide-some-cooling-relief/",
-      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2021/06/18/massive-record-breaking-heat-wave-reveals-how-ai-self-driving-cars-could-provide-some-cooling-relief/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60cbdadbe745fe5d4c133343%2F0x0.jpg%3FcropX1%3D93%26cropX2%3D1627%26cropY1%3D0%26cropY2%3D1150",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2021/06/18/massive-record-breaking-heat-wave-reveals-how-ai-self-driving-cars-could-provide-some-cooling-relief/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/06/18/massive-record-breaking-heat-wave-reveals-how-ai-self-driving-cars-could-provide-some-cooling-relief/amp/",
-      "publishedDateTime": "2021-06-18T08:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

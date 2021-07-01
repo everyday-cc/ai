@@ -61,20 +61,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Global Artificial Intelligence in the Manufacturing Sector Market Drugs Market Size, Share, Growth,Trends, COVID-19 Analysis and Forecast 2021-2030"
-    excerpt: "In a recent published report, Kenneth Research has updated the market report for Global Artificial Intelligence in"
-    publishedDateTime: 2021-07-01T05:04:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-in-the-manufacturing-sector-market-drugs-market-size-share-growthtrends-covid-19-analysis-and-forecast-2021-2030-2021-07-01"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 31
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "+KA7hxIi4FkROmBbnlZWN8gvYgAGqEYmeOHICGj3jSOtT+IBQe/iO8UJcxYuYcrakDTMFHgMMddBCTTrruwd26ruLHb1vDAIwyMy0xvlHYvwSGj6S2mbCZz0Qq3oYToRchZYbqF8VrYyl+w2tYJaF7D5mcAM3xCgzT11sdqzCwvxmAjvYO03d/KY8Vu/PWM8I/NWIer9Radadb3HKUq4fVMa3NHwVg1XDa9VggC5H/RI1zeO7T8LhT5Qbghp8B1zQ2okv1VE0M7QCQIFFcJLLVAbO0K3/94/hNSGcOaOPuuuwk7Tg3vHqZHu6BE9jy+tctqM4hTrGQ2i6HL6vkcKFOOhnZtKS4m4vnQQMBo+NdA=;eqYW64QYXFX7rLtpmMmJ6Q=="
 ---

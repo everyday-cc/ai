@@ -1,28 +1,22 @@
 ---
 category: news
 title: "Microsoft, SES and GRC Showcase Azure Cloud for Remote Missions via Secure GovSat Connectivity Service"
-excerpt: "Microsoft and SES, in partnership with GovSat and UK-based solutions provider GRC, came together to demonstrate how Microsoft Azure Machine Learning (ML) and Artificial Intelligence (AI) capabilities can be brought directly to end-users deployed globally in a highly secure,"
-publishedDateTime: 2021-06-30T06:52:00Z
-originalUrl: "https://www.wfmz.com/news/ap/ap-business/microsoft-ses-and-grc-showcase-azure-cloud-for-remote-missions-via-secure-govsat-connectivity-service/article_db998d49-9d16-54d2-9633-de848f32efb8.html"
-webUrl: "https://www.wfmz.com/news/ap/ap-business/microsoft-ses-and-grc-showcase-azure-cloud-for-remote-missions-via-secure-govsat-connectivity-service/article_db998d49-9d16-54d2-9633-de848f32efb8.html"
+excerpt: "Microsoft and SES, in partnership with GovSat and UK-based solutions provider GRC, came together to demonstrate how Microsoft Azure Machine Learning ("
+publishedDateTime: 2021-06-30T06:50:00Z
+originalUrl: "https://www.businesswire.com/news/home/20210629006127/en/Microsoft-SES-and-GRC-Showcase-Azure-Cloud-for-Remote-Missions-via-Secure-GovSat-Connectivity-Service"
+webUrl: "https://www.businesswire.com/news/home/20210629006127/en/Microsoft-SES-and-GRC-Showcase-Azure-Cloud-for-Remote-Missions-via-Secure-GovSat-Connectivity-Service"
 type: article
-quality: 38
+quality: 18
 heat: -1
 published: false
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
   - Microsoft AI
   - AI
-
-images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/4/ed/4ed1008e-2061-5d2f-bb22-a3c4d1af6c76/60dc170701474.image.jpg?resize=945%2C630"
-    width: 945
-    height: 630
-    isCached: true
 
 related:
   - title: "Microsoft launches Azure Arc-enabled SQL in general availability"
@@ -215,6 +209,6 @@ related:
       domain: ksusentinel.com
     quality: 13
 
-secured: "vkv7v3LQhXuPqJvtq9pFvHqD8fx0R/hn4dPUqd2TlV9iu9YpDncjYAftaXjjELlIk1dBraQkNyDBkQglnsxajGgPmwy7NU9sgbDd+BZNzxtB92rCLzQXPK6MKyfIBizVL5ofFvBhZmnIxaITFPUXAGFs0uDOlvChqhhZH4xrW8mOTOJyqT+h/Umol4eW61BrXgCqQRxdSX54l+BYunFtjsaAS3IuKcE/IKMfA8HMTDUEqWTg94tRsEADXFHo3/+2qgOoPONGzRXBUs+myqYQJxFcdPhuLAKjpwcQyBFHxhJtOBhLSXsILL3mKkcJuoEEdpzXzudsJG4p9lhMCMOvX/W5vNvntTC379VNt4zw3Fg=;mMSB/8vEWiVYxL2gNIwx0w=="
+secured: "HJbv/6Z1inENz66fNnRWhLjgeho9yPGeQQNsGEKl8guvWi5vrX8ozz43H4nZ3kkk9xGqwA33o8Ainl7/93lDKUmkcpCKpJva00U9IxrIwfPjWYUTfjm/9BPHPGCfHCG+YAL6/vkRtD3sLyY1DcLFIoXraEcH5fXXA1ZDhIH29uHxVOZfq6LcGyLI55AF6LYEw8mqwGd1BolcyvUmV6VkAIOecTLW1azOGvHanFYI3o2S4gK+aublSqNsyxG+ZF412nACsLI/8Abar/7Ac+vr64Vb2+H5wESxLPbsl66zv7K9aLcIxw9RzfIN8LKpcuqka+8zsmO52zHTwL8avFXNEQea1hoAzEyBCocWmeoc6HAWvqtz7SayX+Gg6JLxWp/3vl6qPrySzPDBYsRyY7qftXEXoe5CHH/mBWDPqUQEd8vouCzy/T0/R+KsyQjBCRYnJtasG/UIHhYCoVLo+4J4LXoIIPGSFhMRYAqR39lyJbqURtGQxaD2LfCa9p0ufdSaMAUhTCfMJkvAXitwd61DJQ==;35wu/bBB2Ssy6oSXhrcz2Q=="
 ---
 

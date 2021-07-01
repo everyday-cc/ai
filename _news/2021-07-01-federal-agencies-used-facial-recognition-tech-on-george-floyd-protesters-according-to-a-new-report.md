@@ -59,52 +59,6 @@ related:
         width: 800
         height: 450
         isCached: true
-  - title: "Government report finds 20 different agencies use facial recognition"
-    excerpt: "A new report from the Government Accountability Office (GAO) found that 20 federal agencies either own or use facial recognition technology."
-    publishedDateTime: 2021-06-29T17:46:00Z
-    webUrl: "https://www.dailydot.com/debug/gao-facial-recognition-federal-agencies/"
-    ampWebUrl: "https://www.dailydot.com/debug/gao-facial-recognition-federal-agencies/?amp"
-    cdnAmpWebUrl: "https://www-dailydot-com.cdn.ampproject.org/c/s/www.dailydot.com/debug/gao-facial-recognition-federal-agencies/?amp"
-    type: article
-    provider:
-      name: The Daily Dot
-      domain: dailydot.com
-    quality: 59
-    images:
-      - url: "https://uploads.dailydot.com/2021/06/GAO-Report-Federal-Government-Facial-Recognition.jpg?auto=compress%2Cformat&ixlib=php-3.3.0"
-        width: 2000
-        height: 1000
-        isCached: true
-  - title: "Watchdog: 10 Government Agencies Deployed Clearview AI Facial Recognition Tech"
-    excerpt: "A Government Accountability Office report details how agencies used different versions of the biometric technology during the pandemic and protests."
-    publishedDateTime: 2021-06-29T21:06:00Z
-    webUrl: "https://www.nextgov.com/emerging-tech/2021/06/watchdog-10-government-agencies-deployed-clearview-ai-facial-recognition-tech/176411/"
-    type: article
-    provider:
-      name: Nextgov
-      domain: nextgov.com
-    quality: 50
-    images:
-      - url: "https://cdn.nextgov.com/media/img/cd/2021/06/29/NGfacialtech20210629/open-graph.jpg"
-        width: 400
-        height: 400
-        isCached: true
-  - title: "Federal agencies need stricter limits on facial recognition to protect privacy, says government watchdog"
-    excerpt: "The use of facial recognition technology is widespread throughout the federal government, and many agencies don’t even know which systems they’re using. That needs to change, said the federal government’s main watchdog in a new report."
-    publishedDateTime: 2021-06-29T18:47:00Z
-    webUrl: "https://www.washingtonpost.com/technology/2021/06/29/gao-facial-recognition-blm/"
-    ampWebUrl: "https://www.washingtonpost.com/technology/2021/06/29/gao-facial-recognition-blm/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/technology/2021/06/29/gao-facial-recognition-blm/?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 42
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ZSYOA6S7JEI6XILXO5S7FGUVEQ.jpg&w=1440"
-        width: 1440
-        height: 803
-        isCached: true
   - title: "Macy's Wants Out Of Clearview AI Facial-Data Privacy MDL"
     excerpt: "Department store chain Macy's argued Monday to be excused from Illinois multidistrict litigation over alleged biometric privacy violations by Clearview AI, saying consumers haven't shown an injury related to their claims that the company used Clearview's database to identify unknown individuals."
     publishedDateTime: 2021-06-29T22:32:00Z

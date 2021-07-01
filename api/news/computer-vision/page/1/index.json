@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-07-02-maine-enacts-strict-limits-on-government-use-of-facial-recognition-tech.md",
+      "title": "Maine Enacts Strict Limits on Government Use of Facial-Recognition Tech",
+      "excerpt": "The bill bans public officials and public employees at the state, county, and municipal levels from using facial-recognition technology, with limited exceptions.",
+      "sourceUrl": null,
+      "webUrl": "https://www.pcmag.com/news/maine-enacts-strict-limits-on-government-use-of-facial-recognition-tech",
+      "originalUrl": "https://www.pcmag.com/news/maine-enacts-strict-limits-on-government-use-of-facial-recognition-tech",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 209,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.pcmag.com/imagery/articles/032rDToHg3jndE55LWKtIBB-1.1625160511.fit_lim.size_1200x630.jpg",
+          "width": 1120,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.pcmag.com/news/maine-enacts-strict-limits-on-government-use-of-facial-recognition-tech?amp=true",
+      "cdnAmpWebUrl": "https://www-pcmag-com.cdn.ampproject.org/c/s/www.pcmag.com/news/maine-enacts-strict-limits-on-government-use-of-facial-recognition-tech?amp=true",
+      "publishedDateTime": "2021-07-01T10:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC Magazine",
+        "domain": "pcmag.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-01-calls-for-biden-to-ban-facial-recognition-grow-after-gao-reports-findings.md",
       "title": "Calls for Biden to ban facial recognition grow after GAO report’s findings",
       "excerpt": "The findings of a recent facial recognition report by the GAO are renewing previous calls for President Joe Biden to ban the technology.",
@@ -27,49 +79,6 @@
       "ampWebUrl": "https://www.dailydot.com/debug/facial-recognition-gao-biden/?amp",
       "cdnAmpWebUrl": "https://www-dailydot-com.cdn.ampproject.org/c/s/www.dailydot.com/debug/facial-recognition-gao-biden/?amp",
       "publishedDateTime": "2021-07-01T06:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Daily Dot",
-        "domain": "dailydot.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-30-maine-passes-strongest-facial-recognition-restrictions-in-the-country.md",
-      "title": "Maine passes ‘strongest’ facial recognition restrictions in the country",
-      "excerpt": "Maine passed regulations surrounding government use of facial recognition that is being hailed as the \"strongest\" statewide rules in the US.",
-      "sourceUrl": null,
-      "webUrl": "https://www.dailydot.com/debug/facial-recognition-maine-regulations/",
-      "originalUrl": "https://www.dailydot.com/debug/facial-recognition-maine-regulations/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 134,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://uploads.dailydot.com/2021/06/Maine-Facial-Recognition.jpg?auto=compress%2Cformat&ixlib=php-3.3.0",
-          "width": 2000,
-          "height": 1000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.dailydot.com/debug/facial-recognition-maine-regulations/?amp",
-      "cdnAmpWebUrl": "https://www-dailydot-com.cdn.ampproject.org/c/s/www.dailydot.com/debug/facial-recognition-maine-regulations/?amp",
-      "publishedDateTime": "2021-06-30T08:42:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "The Daily Dot",
@@ -331,49 +340,6 @@
         "Computer Vision",
         "AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2021-06-28-uk-watchdog-raises-alarm-over-live-face-recognition-tech.md",
-      "title": "UK watchdog raises alarm over live face recognition tech",
-      "excerpt": "Unlike CCTV, LFR and its algorithms can automatically identify who you are and infer sensitive details about you. The chief data protection regulator in the UK has expressed grave concerns over the inappropriate use of live facial recognition (LFR) technology in public places.",
-      "sourceUrl": null,
-      "webUrl": "https://www.tribuneindia.com/news/science-technology/uk-watchdog-raises-alarm-over-live-face-recognition-tech-271870",
-      "originalUrl": "https://www.tribuneindia.com/news/science-technology/uk-watchdog-raises-alarm-over-live-face-recognition-tech-271870",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://englishtribuneimages.blob.core.windows.net/gallary-content/2021/6/2021_6$largeimg_1321701872.jpg",
-          "width": 660,
-          "height": 440,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.tribuneindia.com/news/science-technology/uk-watchdog-raises-alarm-over-live-face-recognition-tech-271870",
-      "cdnAmpWebUrl": "https://www-tribuneindia-com.cdn.ampproject.org/c/s/www.tribuneindia.com/news/science-technology/uk-watchdog-raises-alarm-over-live-face-recognition-tech-271870",
-      "publishedDateTime": "2021-06-27T18:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Tribune",
-        "domain": "tribuneindia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     },
     {
@@ -792,43 +758,25 @@
     {
       "path": "_news/2021-06-23-global-ai-in-computer-vision-market-2021-to-2026-increasing-manufacturing-of-hybrid-and-electric-cars-presents-opportunities.md",
       "title": "Global AI in Computer Vision Market (2021 to 2026) - Increasing Manufacturing of Hybrid and Electric Cars Presents Opportunities",
-      "excerpt": "The AI in computer vision market is estimated to be valued at USD 15.9 billion in 2021 and reach USD 51.3 billion by 2026, at a CAGR of 26.3% between 2021 and 2026. The growing need for quality inspection and automation,",
+      "excerpt": "CONTACT: ResearchAndMarkets.com Laura Wood, Senior Press Manager press@researchandmarkets.com For E.S.T Office Hours Call 1-917-300-0470 For U.S./CAN Toll Free Call 1-800-526-8630 For GMT Office ...",
       "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/global-ai-in-computer-vision-market-2021-to-2026---increasing-manufacturing-of-hybrid-and-electric-cars-presents-opportunities-2021-06-23",
-      "originalUrl": "https://www.marketwatch.com/press-release/global-ai-in-computer-vision-market-2021-to-2026---increasing-manufacturing-of-hybrid-and-electric-cars-presents-opportunities-2021-06-23",
+      "webUrl": "https://www.benzinga.com/pressreleases/21/06/g21680313/global-ai-in-computer-vision-market-2021-to-2026-increasing-manufacturing-of-hybrid-and-electric-c",
+      "originalUrl": "https://www.benzinga.com/pressreleases/21/06/g21680313/global-ai-in-computer-vision-market-2021-to-2026-increasing-manufacturing-of-hybrid-and-electric-c",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-23T03:13:00-07:00",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/21680313",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/21680313",
+      "publishedDateTime": "2021-06-23T03:42:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1429,6 +1377,59 @@
       "topics": [
         "Computer Vision",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-18-impact-of-covid-19-on-computer-vision-in-healthcare-market-2021-remarking-enormous-growth-with-recent-trends.md",
+      "title": "Impact Of Covid-19 On Computer Vision in Healthcare Market 2021: Remarking Enormous Growth With Recent Trends",
+      "excerpt": "Revenue for Computer Vision in Healthcare Market has grown substantially over the five years to 2021 as a result",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/impact-of-covid-19-on-computer-vision-in-healthcare-market-2021-remarking-enormous-growth-with-recent-trends-2021-06-17",
+      "originalUrl": "https://www.marketwatch.com/press-release/impact-of-covid-19-on-computer-vision-in-healthcare-market-2021-remarking-enormous-growth-with-recent-trends-2021-06-17",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-17T13:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Healthcare"
       ]
     }
   ],

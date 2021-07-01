@@ -68,20 +68,6 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 48
-  - title: "Artificial Intelligence MARKET Market Size, Share, Industry Analysis, Growth COVID-19 Analysis and Forecast 2021-2030"
-    excerpt: "In a recent published report, Kenneth Research has updated the Artificial Intelligence MARKET report for for 2021"
-    publishedDateTime: 2021-06-30T04:49:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-market-size-share-industry-analysis-growth-covid-19-analysis-and-forecast-2021-2030-2021-06-30"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 46
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Market Survey Details Developments in the Artificial Intelligence in Diabetes Management Market Forecast To 2027 with Top Key Players"
     excerpt: "Inclusion of artificial intelligence in Type 2 Diabetes type is anticipated to aid the global artificial intelligence in diabetes management market at a CAGR of 37 7 over the next eight years Erudite analysis study of report titled Artificial Intelligence"
     publishedDateTime: 2021-06-30T11:36:00Z

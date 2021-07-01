@@ -2,6 +2,306 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-06-29-the-journey-to-fairness-in-ai-qa-with-new-york-times-best-selling-author-abigail-hing-wen.md",
+      "title": "The Journey To Fairness In AI -- Q&A With New York Times Best Selling Author Abigail Hing Wen",
+      "excerpt": "Abigail Hing Wen has a knack for trying and succeeding at new things. A lawyer by trade, Abigail worked in Washington D.C. for the Senate and as a law clerk for a federal judge before moving to Silicon Valley and charting a new course in venture capital and artificial intelligence.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/aparnadhinakaran/2021/06/28/the-journey-to-fairness-in-aiqa-with-new-york-times-best-selling-author-abigail-hing-wen/",
+      "originalUrl": "https://www.forbes.com/sites/aparnadhinakaran/2021/06/28/the-journey-to-fairness-in-aiqa-with-new-york-times-best-selling-author-abigail-hing-wen/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/400x0/smart/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fb603b47a36ecf5f70e1141%2F960x0.jpg%3FcropX1%3D318%26cropX2%3D2612%26cropY1%3D675%26cropY2%3D2969",
+          "width": 400,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/aparnadhinakaran/2021/06/28/the-journey-to-fairness-in-aiqa-with-new-york-times-best-selling-author-abigail-hing-wen/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/aparnadhinakaran/2021/06/28/the-journey-to-fairness-in-aiqa-with-new-york-times-best-selling-author-abigail-hing-wen/amp/",
+      "publishedDateTime": "2021-06-28T11:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-29-fleet-software-startup-loconav-raises-37-million-to-expand-in-developing-markets.md",
+      "title": "Fleet software startup LocoNav raises $37 million to expand in developing markets",
+      "excerpt": "LocoNav, an startup that is helping drivers and fleet owners in over two dozen nations run their vehicles more efficiently and save money, said on Monday it has raised $37 million in a new financing round.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/06/28/fleet-software-startup-loconav-raises-37-million-to-expand-in-developing-markets/",
+      "originalUrl": "https://techcrunch.com/2021/06/28/fleet-software-startup-loconav-raises-37-million-to-expand-in-developing-markets/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/06/GettyImages-1224039863.jpg?w=1024",
+          "width": 1024,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/06/28/fleet-software-startup-loconav-raises-37-million-to-expand-in-developing-markets/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/06/28/fleet-software-startup-loconav-raises-37-million-to-expand-in-developing-markets/amp/",
+      "publishedDateTime": "2021-06-28T10:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-28-what-are-the-benefits-of-artificial-intelligence-in-government.md",
+      "title": "What are the benefits of Artificial Intelligence in Government?",
+      "excerpt": "From listening better to citizens, to making operations more efficient, AI brings multiple benefits to governments to make better decisions.",
+      "sourceUrl": null,
+      "webUrl": "https://www.entrepreneur.com/article/375919",
+      "originalUrl": "https://www.entrepreneur.com/article/375919",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/images/misc/1624897374_inteligencia_artificial1.jpg?width=1000?width=1000",
+          "width": 2000,
+          "height": 1335,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.entrepreneur.com/amphtml/375919",
+      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/375919",
+      "publishedDateTime": "2021-06-28T09:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-28-dell-releases-open-source-suite-omnia-to-manage-ai-analytics-workloads.md",
+      "title": "Dell releases open source suite Omnia to manage AI, analytics workloads",
+      "excerpt": "Dell open-sourced Omnia, a software package that aims to simplify the management of compute workloads across different hardware.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/06/28/dell-releases-open-source-suite-omnia-to-manage-ai-analytics-workloads/",
+      "originalUrl": "https://venturebeat.com/2021/06/28/dell-releases-open-source-suite-omnia-to-manage-ai-analytics-workloads/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 157,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2018/03/dell.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 850,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/06/28/dell-releases-open-source-suite-omnia-to-manage-ai-analytics-workloads/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/28/dell-releases-open-source-suite-omnia-to-manage-ai-analytics-workloads/amp/",
+      "publishedDateTime": "2021-06-28T09:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-28-pittsburghs-mayor-on-the-citys-startup-community-and-the-difficulty-of-attracting-venture-capital.md",
+      "title": "Pittsburgh’s mayor on the city’s startup community and the difficulty of attracting venture capital",
+      "excerpt": "TechCrunch is turning its spotlight on Pittsburgh, Pennsylvania with interviews, profiles, and an event featuring the outgoing mayor, CMU’s President, and local startups. The Rust Belt city has spent much of the past decade working to shed the image that arrived in the wake of the",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/06/28/pittsburghs-mayor-on-the-citys-startup-community-and-the-difficulty-of-attracting-venture-capital/",
+      "originalUrl": "https://techcrunch.com/2021/06/28/pittsburghs-mayor-on-the-citys-startup-community-and-the-difficulty-of-attracting-venture-capital/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/06/GettyImages-1071999330-yellow.jpg?w=1024",
+          "width": 1024,
+          "height": 684,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/06/28/pittsburghs-mayor-on-the-citys-startup-community-and-the-difficulty-of-attracting-venture-capital/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/06/28/pittsburghs-mayor-on-the-citys-startup-community-and-the-difficulty-of-attracting-venture-capital/amp/",
+      "publishedDateTime": "2021-06-28T08:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-28-greensprings-school-to-integrate-robotics-artificial-intelligence-into-curriculum.md",
+      "title": "Greensprings School to Integrate Robotics, Artificial Intelligence into Curriculum",
+      "excerpt": "The management of Greensprings School has announced that the school will start offering robotics and artificial intelligence (AI) to its secondary school students. This announcement",
+      "sourceUrl": null,
+      "webUrl": "https://www.vanguardngr.com/2021/06/greensprings-school-to-integrate-robotics-artificial-intelligence-into-curriculum/",
+      "originalUrl": "https://www.vanguardngr.com/2021/06/greensprings-school-to-integrate-robotics-artificial-intelligence-into-curriculum/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.vanguardngr.com/wp-content/uploads/2018/11/Greensprings-pix.gif",
+          "width": 412,
+          "height": 296,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.vanguardngr.com/2021/06/greensprings-school-to-integrate-robotics-artificial-intelligence-into-curriculum/?amp=1",
+      "cdnAmpWebUrl": "https://www-vanguardngr-com.cdn.ampproject.org/c/s/www.vanguardngr.com/2021/06/greensprings-school-to-integrate-robotics-artificial-intelligence-into-curriculum/?amp=1",
+      "publishedDateTime": "2021-06-28T07:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Vanguard",
+        "domain": "vanguardngr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-28-how-pepsico-uses-ai-to-create-products-consumers-dont-know-they-want.md",
       "title": "How PepsiCo uses AI to create products consumers don’t know they want",
       "excerpt": "Leaders at PepsiCo detail how they use data, AI, and machine learning for every part of the product journey, from innovation to marketing.",
@@ -258,7 +558,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-market-2021-top-manufacturers-covid-19-impact-global-demand-and-future-scope-2021-06-28",
       "featuredContent": null,
       "highlight": null,
-      "heat": 91,
+      "heat": 81,
       "tags": null,
       "images": [
         {
@@ -619,49 +919,6 @@
       ]
     },
     {
-      "path": "_news/2021-06-28-uk-watchdog-raises-alarm-over-live-face-recognition-tech.md",
-      "title": "UK watchdog raises alarm over live face recognition tech",
-      "excerpt": "Unlike CCTV, LFR and its algorithms can automatically identify who you are and infer sensitive details about you. The chief data protection regulator in the UK has expressed grave concerns over the inappropriate use of live facial recognition (LFR) technology in public places.",
-      "sourceUrl": null,
-      "webUrl": "https://www.tribuneindia.com/news/science-technology/uk-watchdog-raises-alarm-over-live-face-recognition-tech-271870",
-      "originalUrl": "https://www.tribuneindia.com/news/science-technology/uk-watchdog-raises-alarm-over-live-face-recognition-tech-271870",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://englishtribuneimages.blob.core.windows.net/gallary-content/2021/6/2021_6$largeimg_1321701872.jpg",
-          "width": 660,
-          "height": 440,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.tribuneindia.com/news/science-technology/uk-watchdog-raises-alarm-over-live-face-recognition-tech-271870",
-      "cdnAmpWebUrl": "https://www-tribuneindia-com.cdn.ampproject.org/c/s/www.tribuneindia.com/news/science-technology/uk-watchdog-raises-alarm-over-live-face-recognition-tech-271870",
-      "publishedDateTime": "2021-06-27T18:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Tribune",
-        "domain": "tribuneindia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-06-28-a-company-that-uses-ai-to-fight-malaria-just-won-the-ibm-watson-ai-xprize-competition.md",
       "title": "A Company That Uses AI To Fight Malaria Just Won The IBM Watson AI XPrize Competition",
       "excerpt": "Zzapp Malaria, a company that uses artificial intelligence (AI) to fight malaria just won the grand prize in one of the toughest technology competitions to date. The competition is a joint venture between XPrize,",
@@ -936,253 +1193,6 @@
         "Google AI",
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2021-06-27-pytorch-gains-momentum-with-push-from-facebook-and-microsoft.md",
-      "title": "PyTorch Gains Momentum With Push From Facebook And Microsoft",
-      "excerpt": "Thanks to Facebook and Microsoft, PyTorch is on its way to becoming the preferred framework for building sophisticated AI models for the cloud, desktop and mobile.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/janakirammsv/2021/06/27/pytorch-gains-momentum-with-push-from-facebook-and-microsoft/",
-      "originalUrl": "https://www.forbes.com/sites/janakirammsv/2021/06/27/pytorch-gains-momentum-with-push-from-facebook-and-microsoft/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 151,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60d815da0c030140b46c2abd%2F0x0.jpg",
-          "width": 1000,
-          "height": 525,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/janakirammsv/2021/06/27/pytorch-gains-momentum-with-push-from-facebook-and-microsoft/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janakirammsv/2021/06/27/pytorch-gains-momentum-with-push-from-facebook-and-microsoft/amp/",
-      "publishedDateTime": "2021-06-26T23:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-27-alat-by-wema-charting-roadmap-for-digital-banks-fintech.md",
-      "title": "ALAT by Wema: Charting roadmap for digital banks, fintech",
-      "excerpt": "However, what young people have today that we didn’t have before is the abundance of choice fueled by the rapid penetration of the Internet and digital technology. These two factors have introduced new dimensions to how we do business and make money.",
-      "sourceUrl": null,
-      "webUrl": "https://punchng.com/alat-by-wema-charting-roadmap-for-digital-banks-fintech/",
-      "originalUrl": "https://punchng.com/alat-by-wema-charting-roadmap-for-digital-banks-fintech/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.punchng.com/wp-content/uploads/2018/09/14183622/20180707-DSC_0079new.jpg",
-          "width": 800,
-          "height": 482,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://punchng.com/alat-by-wema-charting-roadmap-for-digital-banks-fintech/?amp",
-      "cdnAmpWebUrl": "https://punchng-com.cdn.ampproject.org/c/s/punchng.com/alat-by-wema-charting-roadmap-for-digital-banks-fintech/?amp",
-      "publishedDateTime": "2021-06-26T17:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Punch Newspapers",
-        "domain": "punchng.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-27-machine-learning-identifies-new-brain-network-signature-of-major-depression.md",
-      "title": "Machine learning identifies new brain network signature of major depression",
-      "excerpt": "Machine learning is a method of data analysis that automates analytical model building. It is a branch of artificial intelligence based on the idea that",
-      "sourceUrl": null,
-      "webUrl": "https://www.thedailystar.net/health/news/machine-learning-identifies-new-brain-network-signature-major-depression-2118733",
-      "originalUrl": "https://www.thedailystar.net/health/news/machine-learning-identifies-new-brain-network-signature-major-depression-2118733",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assetsds.cdnedge.bluemix.net/sites/default/files/styles/social_share/public/feature/images/2021/06/26/brain-network-signature.jpg?itok=FT-QWUJF",
-          "width": 560,
-          "height": 292,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thedailystar.net/health/news/machine-learning-identifies-new-brain-network-signature-major-depression-2118733?amp",
-      "cdnAmpWebUrl": "https://www-thedailystar-net.cdn.ampproject.org/c/s/www.thedailystar.net/health/news/machine-learning-identifies-new-brain-network-signature-major-depression-2118733?amp",
-      "publishedDateTime": "2021-06-26T12:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Daily Star",
-        "domain": "thedailystar.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-26-deepmind-agi-paper-adds-urgency-to-ethical-ai.md",
-      "title": "DeepMind AGI paper adds urgency to ethical AI",
-      "excerpt": "DeepMind expects reinforcement learning will lead to replicating human cognitive abilities, achieving artificial general intelligence (AGI).",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/06/26/deepmind-agi-paper-adds-urgency-to-ethical-ai/",
-      "originalUrl": "https://venturebeat.com/2021/06/26/deepmind-agi-paper-adds-urgency-to-ethical-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 155,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/12/dims-e1575998404106.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/06/26/deepmind-agi-paper-adds-urgency-to-ethical-ai/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/26/deepmind-agi-paper-adds-urgency-to-ethical-ai/amp/",
-      "publishedDateTime": "2021-06-26T06:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI Ethics",
-        "Google AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2021-06-26-heres-what-a-trend-analyzing-ai-thinks-will-be-the-next-big-thing-in-tech.md",
-      "title": "Here’s what a trend-analyzing A.I. thinks will be the next big thing in tech",
-      "excerpt": "The \"technology intelligence engine\" uses A.I. to sift through hundreds of millions of documents online, then uses all that information to spot trends.",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaltrends.com/features/trend-analyzing-ai-predicts-next-big-thing-tech/",
-      "originalUrl": "https://www.digitaltrends.com/features/trend-analyzing-ai-predicts-next-big-thing-tech/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://icdn.digitaltrends.com/image/digitaltrends/imagecomposite_aibrain_200723.jpg",
-          "width": 2000,
-          "height": 1333,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.digitaltrends.com/features/trend-analyzing-ai-predicts-next-big-thing-tech/?amp",
-      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/features/trend-analyzing-ai-predicts-next-big-thing-tech/?amp",
-      "publishedDateTime": "2021-06-26T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Trends",
-        "domain": "digitaltrends.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI in Autos"
       ]
     }
   ],

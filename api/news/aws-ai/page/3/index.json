@@ -2,6 +2,59 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-06-03-build-regression-models-with-amazon-redshift-ml.md",
+      "title": "Build regression models with Amazon Redshift ML",
+      "excerpt": "With the rapid growth of data, many organizations are finding it difficult to analyze their large datasets to gain insights. As businesses rely more and more on automation algorithms, machine learning (ML) has become a necessity to stay ahead of the competition. Amazon Redshift, a fast, fully managed,",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/build-regression-models-with-amazon-redshift-ml/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/build-regression-models-with-amazon-redshift-ml/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png",
+          "width": 768,
+          "height": 385,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-03T15:01:06-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-06-04-amazons-ring-will-finally-make-police-requests-public.md",
       "title": "Amazon's Ring Will Finally Make Police Requests Public",
       "excerpt": "Amazon’s Ring—a company that is famously pretty chummy with law enforcement—will now require law enforcement officials to make their requests for security footage public, the company said in a blog post published Thursday.",
@@ -1318,59 +1371,6 @@
       "topics": [
         "AWS AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-26-gain-valuable-ml-skills-with-the-aws-machine-learning-engineer-nanodegree-scholarship-from-udacity.md",
-      "title": "Gain valuable ML skills with the AWS Machine Learning Engineer Nanodegree Scholarship from Udacity",
-      "excerpt": "Amazon Web Services is partnering with Udacity to help educate developers of all skill levels on machine learning (ML) concepts with the AWS Machine Learning Scholarship Program by Udacity by offering 425 scholarships, with a focus on women and underrepresented groups. Machine learning is an exciting",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/gain-valuable-ml-skills-with-the-aws-machine-learning-engineer-nanodegree-scholarship-from-udacity/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/gain-valuable-ml-skills-with-the-aws-machine-learning-engineer-nanodegree-scholarship-from-udacity/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 152,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png",
-          "width": 768,
-          "height": 385,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-26T08:50:47-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Machine Learning"
       ]
     }
   ],

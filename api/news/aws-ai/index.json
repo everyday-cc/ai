@@ -2,6 +2,50 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-07-02-aws-vs-azure-which-one-to-choose-for-banking-software-development.md",
+      "title": "AWS vs Azure: Which One to Choose For Banking Software Development",
+      "excerpt": "The financial service industry is among the most data-intensive and highly regulated sectors around the global market. With the",
+      "sourceUrl": null,
+      "webUrl": "https://www.business2community.com/finance/aws-vs-azure-which-one-to-choose-for-banking-software-development-02416270",
+      "originalUrl": "https://www.business2community.com/finance/aws-vs-azure-which-one-to-choose-for-banking-software-development-02416270",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.business2community.com/wp-content/uploads/2021/06/AWS-Vs-Microsoft-Azure.png",
+          "width": 700,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.business2community.com/finance/aws-vs-azure-which-one-to-choose-for-banking-software-development-02416270/amp",
+      "cdnAmpWebUrl": "https://www-business2community-com.cdn.ampproject.org/c/s/www.business2community.com/finance/aws-vs-azure-which-one-to-choose-for-banking-software-development-02416270/amp",
+      "publishedDateTime": "2021-07-01T10:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business 2 Community",
+        "domain": "business2community.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-30-artificial-intelligence-ai-in-bfsi-market-2021-is-booming-worldwide-with-eminent-key-players-amazon-web-services-aws-inc-avaamo.md",
       "title": "Artificial Intelligence Ai In Bfsi Market 2021 is Booming Worldwide With Eminent Key Players | Amazon Web Services (AWS), Inc., Avaamo",
       "excerpt": "The most recent research report on Artificial Intelligence Ai In Bfsi Market 2021 published by Stratagem Market Insights begins with the market description official report segmentation and classification The report offers a comprehensive analysis of the market so that perusers",
@@ -1360,59 +1404,6 @@
         "news"
       ],
       "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-14-rules-around-facial-recognition-and-policing-remain-blurry.md",
-      "title": "Rules around facial recognition and policing remain blurry",
-      "excerpt": "Privacy advocates say they remain concerned about a lack of federal facial recognition laws and persistent police surveillance.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2021/06/12/a-year-later-tech-companies-calls-to-regulate-facial-recognition-met-with-little-progress.html",
-      "originalUrl": "https://www.cnbc.com/2021/06/12/a-year-later-tech-companies-calls-to-regulate-facial-recognition-met-with-little-progress.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 286,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/106604133-15940414202020-06-30t233559z_1802976591_rc2zjh99gjtu_rtrmadp_0_minneapolis-police-new-york.jpeg?v=1594041462",
-          "width": 3065,
-          "height": 2043,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2021/06/12/a-year-later-tech-companies-calls-to-regulate-facial-recognition-met-with-little-progress.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/06/12/a-year-later-tech-companies-calls-to-regulate-facial-recognition-met-with-little-progress.html",
-      "publishedDateTime": "2021-06-14T05:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI",
         "AWS AI"
       ]

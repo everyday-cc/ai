@@ -160,20 +160,6 @@ related:
       name: Finanztreff
       domain: finanztreff.de
     quality: 42
-  - title: "Microsoft, SES and GRC Showcase Azure Cloud for Remote Missions via Secure GovSat Connectivity Service"
-    excerpt: "Microsoft and SES, in partnership with GovSat and UK-based solutions provider GRC, came together to demonstrate how Microsoft Azure Machine Learning (ML) and Artificial Intelligence (AI) capabilities can be brought directly to end-users deployed globally in a highly secure,"
-    publishedDateTime: 2021-06-30T06:52:00Z
-    webUrl: "https://www.wfmz.com/news/ap/ap-business/microsoft-ses-and-grc-showcase-azure-cloud-for-remote-missions-via-secure-govsat-connectivity-service/article_db998d49-9d16-54d2-9633-de848f32efb8.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 38
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/4/ed/4ed1008e-2061-5d2f-bb22-a3c4d1af6c76/60dc170701474.image.jpg?resize=945%2C630"
-        width: 945
-        height: 630
-        isCached: true
   - title: "AT&T to move 5G network to Microsoft Azure cloud"
     excerpt: "AT&T announced an agreement to move its 5G mobile network to the Microsoft cloud. The migration starts with the 5G core network and includes a path for all of AT&T's mobile network traffic to be managed using Microsoft Azure."
     publishedDateTime: 2021-07-01T06:50:00Z
@@ -206,6 +192,15 @@ related:
         width: 400
         height: 267
         isCached: true
+  - title: "Microsoft, SES and GRC Showcase Azure Cloud for Remote Missions via Secure GovSat Connectivity Service"
+    excerpt: "Microsoft and SES, in partnership with GovSat and UK-based solutions provider GRC, came together to demonstrate how Microsoft Azure Machine Learning ("
+    publishedDateTime: 2021-06-30T06:50:00Z
+    webUrl: "https://www.businesswire.com/news/home/20210629006127/en/Microsoft-SES-and-GRC-Showcase-Azure-Cloud-for-Remote-Missions-via-Secure-GovSat-Connectivity-Service"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 18
   - title: "Artificial Intelligence In Genomics Market Continues To Impress | IBM, Microsoft, Deep Genomics, Fabric Genomics"
     excerpt: "Latest released the research study on Global Artificial Intelligence In Genomics Market, offers a detailed overview of the factors influencing the global business scope. Artificial Intelligence In Genomics Market research report shows the latest market insights,"
     publishedDateTime: 2021-06-30T10:25:00Z
@@ -216,6 +211,6 @@ related:
       domain: ksusentinel.com
     quality: 13
 
-secured: "YiKQb9wI+IgGCG8erkJeltohvapBgQXHnqW+fmkZOt4lgqCtCt5rnCPO8+19cvRb7MsXc6swW97R2TBT/xGeDAlO6tEWxjptRIjQlqRCEP2vVWLhiWVe84P9SkYmjOQLigiLaETDBOWtG2E6f25RuN6Kjew1pv9KieviiVUroa6MmYGp5ZpaGLDYWBcTndacWO/rDJhj506MFZC+LZKJwytK95aHbIs6ZzAP8WWKI13v3GGVzQotFRWWKUoghwDvp7ObJZtl8h39uLDzXHl0uiBwROvENnq/1BDr3j39OvVNEjMwTn0iYDMrGOWAxK/RvFIUVK5/XO4DL19Bm3ap29PS5SKUfgaTbfnId6Y8Ckw=;wx6BjqCd4eJf246H4LbCqw=="
+secured: "mHaLNFq1TSGqyVCnZQxxjnjc76Z9LxmvLfbTNF69qrXAA0D5JsnIOxnQNxydVmsEqmk5Klv7UwAn8ozrg2hCvB1sNO1D1ohPRuJSkp3JKp4ikKfnue9FrPA44iTAHEZ5TQuMJfWsdlDwsxvz5Qoin85SyBtToW/V53gxqqriR3FEe+F0pocylWeTBq6fv37k9eoTLgO+BkH3A91TlHnVzgJf7PWolxPpUoeA5l1xkIFCkcSh91lnZUAfeosV2LN2m8VqD4mT5az9Xo3my1mBrspymYlHndSlvvYpul19RjO7BLKGO2AUedGBNT6GpD/AmAydXaeGc1I73i8VuCzk2DPNjUIUftY1EZwkFvcfWDpEY01A7pNLV7c+4v7iSsBk+Uk3tVpROIi9HDbDEvLzw2GsVSkvjbe3TU0VJnld4WJbHS9ulmh1WYqgXc/U12ADtvvN647bD/jiLpADOh9CAA1xx3eNv7gy98Q7+6OOBH+x15OI45ze5GTG29inZo1Bs70Z08WhzhPZHZxbNGlTAA==;/ftPdXC/sAUGrizFzEJnMw=="
 ---
 

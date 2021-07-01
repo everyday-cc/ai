@@ -2,6 +2,306 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-07-01-facebook-updates-habitat-environment-to-train-embodied-ai.md",
+      "title": "Facebook updates Habitat environment to train ’embodied AI’",
+      "excerpt": "Facebook today announced Habitat 2.0, an updated version of its simulation environment, alongside new datasets and benchmarks.",
+      "sourceUrl": null,
+      "webUrl": "https://ai.facebook.com/blog/habitat-20-training-home-assistant-robots-with-faster-simulation-and-new-benchmarks/",
+      "originalUrl": "https://venturebeat.com/2021/06/30/facebook-updates-habitat-environment-to-train-embodied-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 227,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scontent-sea1-1.xx.fbcdn.net/v/t39.2365-6/61379250_2289364931329348_7271871964229140480_n.jpg?_nc_cat=105&ccb=1-3&_nc_sid=ad8a9d&_nc_ohc=xPUwAqG-JogAX-qKKU7&_nc_ht=scontent-sea1-1.xx&oh=28797380cbde35757e3bdcc16805b3cf&oe=60E1CB5C",
+          "width": 1848,
+          "height": 1112,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-30T14:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-01-a-cio-weighs-in-on-how-ai-can-benefit-non-technical-roles-particularly-hr.md",
+      "title": "A CIO weighs in on how AI can benefit non-technical roles, particularly HR",
+      "excerpt": "Jeff Gregory, the Thirdera CIO, discussed how AI can impact non-technical roles in an organization, especially in the realm of human resources.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/06/30/a-cio-weighs-in-on-how-ai-can-benefit-non-technical-roles/",
+      "originalUrl": "https://venturebeat.com/2021/06/30/a-cio-weighs-in-on-how-ai-can-benefit-non-technical-roles/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2018/02/shutterstock_777026485-e1625048155126.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/06/30/a-cio-weighs-in-on-how-ai-can-benefit-non-technical-roles/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/30/a-cio-weighs-in-on-how-ai-can-benefit-non-technical-roles/amp/",
+      "publishedDateTime": "2021-06-30T14:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-01-cheers-to-the-heineken-bot-self-driving-beer-delivery-robot.md",
+      "title": "Cheers to the Heineken B.O.T. Self-Driving Beer Delivery Robot",
+      "excerpt": "You could train your dog to grab one for you, which would take effort, time, and commitment. Or you could turn to Heineken's new B.O.T., which is, yep, a beer-carrying robot that brings the beers to you.",
+      "sourceUrl": null,
+      "webUrl": "https://www.motortrend.com/news/heineken-bot-beer-robot-cooler/",
+      "originalUrl": "https://www.motortrend.com/news/heineken-bot-beer-robot-cooler/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://st.motortrend.com/uploads/sites/5/2021/06/Heineken-B.O.T.-1.jpg",
+          "width": 1360,
+          "height": 765,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.motortrend.com/news/heineken-bot-beer-robot-cooler/amp/",
+      "cdnAmpWebUrl": "https://www-motortrend-com.cdn.ampproject.org/c/s/www.motortrend.com/news/heineken-bot-beer-robot-cooler/amp/",
+      "publishedDateTime": "2021-06-30T14:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Motor Trend",
+        "domain": "motortrend.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2021-07-01-no-job-is-future-proof-how-to-adopt-ai-while-protecting-your-employees.md",
+      "title": "No Job Is Future-Proof. How To Adopt AI While Protecting Your Employees",
+      "excerpt": "No job is safe from what technology may have in store. Here are four ways leaders can embrace AI without compromising their commitment to employees.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/ganeskesari/2021/06/30/no-job-is-future-proof-how-to-adopt-ai-while-protecting-your-employees/",
+      "originalUrl": "https://www.forbes.com/sites/ganeskesari/2021/06/30/no-job-is-future-proof-how-to-adopt-ai-while-protecting-your-employees/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60dcb0a523046eafa0268ae3%2F0x0.jpg%3FcropX1%3D494%26cropX2%3D5537%26cropY1%3D0%26cropY2%3D3783",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/ganeskesari/2021/06/30/no-job-is-future-proof-how-to-adopt-ai-while-protecting-your-employees/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ganeskesari/2021/06/30/no-job-is-future-proof-how-to-adopt-ai-while-protecting-your-employees/amp/",
+      "publishedDateTime": "2021-06-30T13:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-01-artificial-intelligence-ai-market-share-company-overview-growth-development-and-forecast-by-2025.md",
+      "title": "Artificial Intelligence (AI) Market Share, Company Overview, Growth, Development and Forecast by 2025",
+      "excerpt": "Market at:  Global Artificial Intelligence (AI) Market valued approximately USD 16 billion in 2016 is anticipated to grow with a healthy growth rate of more than 36% over the forecast period 2017-2025.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-market-share-company-overview-growth-development-and-forecast-by-2025-2021-06-30",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-market-share-company-overview-growth-development-and-forecast-by-2025-2021-06-30",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 169,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-30T12:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-01-sentinelone-ipo-how-the-company-is-riding-the-ai-wave.md",
+      "title": "SentinelOne IPO: How The Company Is Riding The AI Wave",
+      "excerpt": "SentinelOne . SentinelOne, which develops AI-powered software for cybersecurity, launched its IPO today. There was certainly substantial demand from inves",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/tomtaulli/2021/06/30/sentinelone-ipo-how-the-company-is-riding-the-ai-wave/",
+      "originalUrl": "https://www.forbes.com/sites/tomtaulli/2021/06/30/sentinelone-ipo-how-the-company-is-riding-the-ai-wave/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60dcbbcdf545ce5fff691ffb%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/tomtaulli/2021/06/30/sentinelone-ipo-how-the-company-is-riding-the-ai-wave/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tomtaulli/2021/06/30/sentinelone-ipo-how-the-company-is-riding-the-ai-wave/amp/",
+      "publishedDateTime": "2021-06-30T12:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-01-dells-199-ultrasharp-4k-webcam-has-ai-on-boardbut-no-microphone.md",
       "title": "Dell’s $199 UltraSharp 4K webcam has AI on board—but no microphone",
       "excerpt": "Dell's new UltraSharp camera takes aim at Logitech's high-end Brio with the same $199 price along with 4K resolution and Windows Hello-compatible infrared sensor. But despite sharing a price tag and many of the same specifications,",
@@ -197,49 +497,6 @@
       "topics": [
         "AI",
         "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-30-maine-passes-strongest-facial-recognition-restrictions-in-the-country.md",
-      "title": "Maine passes ‘strongest’ facial recognition restrictions in the country",
-      "excerpt": "Maine passed regulations surrounding government use of facial recognition that is being hailed as the \"strongest\" statewide rules in the US.",
-      "sourceUrl": null,
-      "webUrl": "https://www.dailydot.com/debug/facial-recognition-maine-regulations/",
-      "originalUrl": "https://www.dailydot.com/debug/facial-recognition-maine-regulations/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 134,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://uploads.dailydot.com/2021/06/Maine-Facial-Recognition.jpg?auto=compress%2Cformat&ixlib=php-3.3.0",
-          "width": 2000,
-          "height": 1000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.dailydot.com/debug/facial-recognition-maine-regulations/?amp",
-      "cdnAmpWebUrl": "https://www-dailydot-com.cdn.ampproject.org/c/s/www.dailydot.com/debug/facial-recognition-maine-regulations/?amp",
-      "publishedDateTime": "2021-06-30T08:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Daily Dot",
-        "domain": "dailydot.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     },
     {
@@ -990,255 +1247,6 @@
       ],
       "topics": [
         "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-30-indian-tech-startup-exposed-byjus-student-data.md",
-      "title": "Indian tech startup exposed Byju’s student data",
-      "excerpt": "India-based technology startup Salesken.ai has secured an exposed server that was spilling private and sensitive data on one of its customers, Byju’s, an education technology giant and India’s most valuable startup.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/06/29/india-startup-byju-student-data/",
-      "originalUrl": "https://techcrunch.com/2021/06/29/india-startup-byju-student-data/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/06/GettyImages-1133907439.jpg?w=1024",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/06/29/india-startup-byju-student-data/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/06/29/india-startup-byju-student-data/amp/",
-      "publishedDateTime": "2021-06-29T21:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-30-japans-softbank-says-pepper-robot-remains-alive-and-well.md",
-      "title": "Japan’s SoftBank says Pepper robot remains ‘alive’ and well",
-      "excerpt": "Japanese technology company SoftBank denies it’s pulling the plug on its friendly, talking, bubble-headed Pepper robot. “There is absolutely no change to our Pepper business,”",
-      "sourceUrl": null,
-      "webUrl": "https://www.wric.com/business/us-world-business/japans-softbank-says-pepper-robot-remains-alive-and-well/",
-      "originalUrl": "https://www.wric.com/business/us-world-business/japans-softbank-says-pepper-robot-remains-alive-and-well/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.wric.com/wp-content/uploads/sites/74/2021/06/a7ca6fa6c7634e6787200aad859fc95d.jpg?w=1280",
-          "width": 1280,
-          "height": 853,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wric.com/business/us-world-business/japans-softbank-says-pepper-robot-remains-alive-and-well/amp/",
-      "cdnAmpWebUrl": "https://www-wric-com.cdn.ampproject.org/c/s/www.wric.com/business/us-world-business/japans-softbank-says-pepper-robot-remains-alive-and-well/amp/",
-      "publishedDateTime": "2021-06-29T20:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WRIC",
-        "domain": "wric.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-30-the-uneasy-alliance-between-business-leaders-and-artificial-intelligence.md",
-      "title": "The Uneasy Alliance Between Business Leaders And Artificial Intelligence",
-      "excerpt": "AI is seen by many inside and outside the corporate world as a mysterious, dark art that only data scientists and algorithm developers can love.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/joemckendrick/2021/06/29/the-uneasy-alliance-between-business-leaders-and-artificial-intelligence/",
-      "originalUrl": "https://www.forbes.com/sites/joemckendrick/2021/06/29/the-uneasy-alliance-between-business-leaders-and-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 118,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60dbcc890629828a88a61bcb%2F0x0.jpg",
-          "width": 1200,
-          "height": 799,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/joemckendrick/2021/06/29/the-uneasy-alliance-between-business-leaders-and-artificial-intelligence/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2021/06/29/the-uneasy-alliance-between-business-leaders-and-artificial-intelligence/amp/",
-      "publishedDateTime": "2021-06-29T18:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2021-06-30-trellis-data-using-machine-learning-to-analyse-shipping-containers-entering-australia.md",
-      "title": "Trellis Data using machine learning to analyse shipping containers entering Australia",
-      "excerpt": "Working with the Department of Agriculture, Trellis Data is analysing shipping containers using its machine learning technology to determine any biosecurity risks to Australia.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/trellis-data-using-machine-learning-to-analyse-shipping-containers-entering-australia/",
-      "originalUrl": "https://www.zdnet.com/article/trellis-data-using-machine-learning-to-analyse-shipping-containers-entering-australia/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/hub/i/2021/06/30/59723d6d-16eb-4005-9f60-7cf438a4b645/gettyimages-586450294.jpg",
-          "width": 4928,
-          "height": 3280,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/trellis-data-using-machine-learning-to-analyse-shipping-containers-entering-australia/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/trellis-data-using-machine-learning-to-analyse-shipping-containers-entering-australia/",
-      "publishedDateTime": "2021-06-29T18:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-30-lollipop-ai-launches-online-grocery-marketplace-where-you-can-build-your-own-recipes.md",
-      "title": "Lollipop AI launches online grocery marketplace where you can build your own recipes",
-      "excerpt": "As I’ve taken to online grocery shopping over the pandemic, I’ve always wondered by supermarkets didn’t offer simple ‘recipe’ features would have automatically collected up items for a homemade meal,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/06/29/lollipop-ai-launches-online-grocery-marketplace-where-you-can-build-your-own-recipes/",
-      "originalUrl": "https://techcrunch.com/2021/06/29/lollipop-ai-launches-online-grocery-marketplace-where-you-can-build-your-own-recipes/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/06/Founding_Team.jpeg?w=775",
-          "width": 775,
-          "height": 518,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/06/29/lollipop-ai-launches-online-grocery-marketplace-where-you-can-build-your-own-recipes/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/06/29/lollipop-ai-launches-online-grocery-marketplace-where-you-can-build-your-own-recipes/amp/",
-      "publishedDateTime": "2021-06-29T16:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

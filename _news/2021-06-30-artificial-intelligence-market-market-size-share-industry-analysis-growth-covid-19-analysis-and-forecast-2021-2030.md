@@ -29,143 +29,91 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence (AI) Market Share, Company Overview, Growth, Development and Forecast by 2025"
-    excerpt: "Market at:  Global Artificial Intelligence (AI) Market valued approximately USD 16 billion in 2016 is anticipated to grow with a healthy growth rate of more than 36% over the forecast period 2017-2025."
-    publishedDateTime: 2021-06-30T19:42:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-market-share-company-overview-growth-development-and-forecast-by-2025-2021-06-30"
+  - title: "Google Sold $2.5 Million In AI To The Pentagon For Its Covid-19 Recovery"
+    excerpt: "A previously-undisclosed deal with the Pentagon reveals Google sold AI tech for the DOD’s Covid-19 recovery. But, with no contractual “red line,” there were concerns it could have been repurposed for non-Covid military projects."
+    publishedDateTime: 2021-07-01T16:52:00Z
+    webUrl: "https://www.forbes.com/sites/thomasbrewster/2021/07/01/google-sold-millions-in-ai-to-support-the-pentagon-covid-19-recovery/"
+    ampWebUrl: "https://www.forbes.com/sites/thomasbrewster/2021/07/01/google-sold-millions-in-ai-to-support-the-pentagon-covid-19-recovery/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/thomasbrewster/2021/07/01/google-sold-millions-in-ai-to-support-the-pentagon-covid-19-recovery/amp/"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 69
+      name: Forbes
+      domain: forbes.com
+    quality: 88
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60dc766f9b49abb41e383c3e%2F0x0.jpg"
         width: 1200
-        height: 630
+        height: 800
         isCached: true
-  - title: "Facial Recognition Market by Size, Growth, Opportunity and Forecast to 2028"
-    excerpt: "Selbyville, Delaware According to the research report titled 'GLOBAL Facial Recognition Market 2019-2028', available with Market Study Report LLC, global facial recognition market is projected to expand at 14."
-    publishedDateTime: 2021-06-28T05:21:00Z
-    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-market-by-size-growth-opportunity-and-forecast-to-2028-2021-06-28"
+  - title: "Google taps AI to identify COVID-19 vaccine name variations"
+    excerpt: "Google says it's using a multimodal AI model to identify variations in COVID-19 vaccine names around the world."
+    publishedDateTime: 2021-06-29T17:08:00Z
+    webUrl: "https://venturebeat.com/2021/06/29/google-taps-ai-to-identify-covid-19-vaccine-name-variations/"
+    ampWebUrl: "https://venturebeat.com/2021/06/29/google-taps-ai-to-identify-covid-19-vaccine-name-variations/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/29/google-taps-ai-to-identify-covid-19-vaccine-name-variations/amp/"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2020/12/GettyImages-1281329514.jpg?w=1200&strip=all"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Google deploys new AI tool to COVID-19 vaccine searches"
+    excerpt: "Google's answer to combatting COVID vaccine misinformation has been to display resources from health authorities like the CDC in information boxes on search result pages. But the coronavirus — and COVID-related scams and fake news— have blown through international borders and language barriers."
+    publishedDateTime: 2021-06-30T22:22:00Z
+    webUrl: "https://mashable.com/article/google-mum-covid-vaccine-searches"
+    type: article
+    provider:
+      name: Mashable
+      domain: mashable.com
     quality: 67
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+      - url: "https://helios-i.mashable.com/imagery/articles/00IMViIJXiaOEwUiTxrRqN5/hero-image.fill.size_1200x675.png"
         width: 1200
-        height: 630
+        height: 675
         isCached: true
-  - title: "Automotive Artificial Intelligence (AI) Market Analysis on Trends, Growth, Opportunities and Forecast 2025"
-    excerpt: "Selbyville, Delaware Market Study Report Has Added A New Report On Automotive Artificial Intelligence (AI) Market analysis mainly introduces the changing market dynamics in terms of covering all details inside analysis and opinion,"
-    publishedDateTime: 2021-06-30T19:43:00Z
-    webUrl: "https://www.marketwatch.com/press-release/automotive-artificial-intelligence-ai-market-analysis-on-trends-growth-opportunities-and-forecast-2025-2021-06-30"
+  - title: "New VA tool uses artificial intelligence to predict COVID-19 patient mortality"
+    excerpt: "A new VA tool that processes data using artificial intelligence can predict mortality rates within 120 days of when a patient is diagnosed with COVID-19."
+    publishedDateTime: 2021-07-01T13:00:00Z
+    webUrl: "https://blogs.va.gov/VAntage/90780/new-va-tool-uses-artificial-intelligence-predict-covid-19-patient-mortality/"
+    type: article
+    provider:
+      name: United States Department of Veterans Affairs
+      domain: va.gov
+    quality: 35
+    images:
+      - url: "https://blogs.va.gov/VAntage/wp-content/uploads/2021/06/BANNER-PHOTO-.jpg"
+        width: 4256
+        height: 2832
+        isCached: true
+  - title: "AI Governance Market to 2027, Future Outlook, COVID-19 Impact Analysis, Forecast - 2027"
+    excerpt: "The Global AI Governance Market to grow from USD 50 million in 2020 to USD 1 016 million by 2027 at a Compound Annual Growth Rate CAGR of 65 during the forecast period AI governance is based on the idea"
+    publishedDateTime: 2021-06-28T11:06:00Z
+    webUrl: "https://www.openpr.com/news/2315255/ai-governance-market-to-2027-future-outlook-covid-19-impact"
+    ampWebUrl: "https://www.openpr.com/amp/2315255/ai-governance-market-to-2027-future-outlook-covid-19-impact"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2315255/ai-governance-market-to-2027-future-outlook-covid-19-impact"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 31
+  - title: "Global Artificial Intelligence in the Manufacturing Sector Market Drugs Market Size, Share, Growth,Trends, COVID-19 Analysis and Forecast 2021-2030"
+    excerpt: "In a recent published report, Kenneth Research has updated the market report for Global Artificial Intelligence in"
+    publishedDateTime: 2021-07-01T05:04:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-in-the-manufacturing-sector-market-drugs-market-size-share-growthtrends-covid-19-analysis-and-forecast-2021-2030-2021-07-01"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 64
+    quality: 31
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "AI In Computer Vision Market: 2021 Analysis, Share, Trends, and Overview 2021-2027"
-    excerpt: "The Global Artificial Intelligence AI in Computer Market Vision estimated at US 7 3 Billion in the year 2020 is projected to reach a revised size of US 84 4 Billion by 2027 growing at a CAGR of 41 over"
-    publishedDateTime: 2021-06-28T11:20:00Z
-    webUrl: "https://www.openpr.com/news/2315283/ai-in-computer-vision-market-2021-analysis-share-trends"
-    ampWebUrl: "https://www.openpr.com/amp/2315283/ai-in-computer-vision-market-2021-analysis-share-trends"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2315283/ai-in-computer-vision-market-2021-analysis-share-trends"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 48
-  - title: "Market Survey Details Developments in the Artificial Intelligence in Diabetes Management Market Forecast To 2027 with Top Key Players"
-    excerpt: "Inclusion of artificial intelligence in Type 2 Diabetes type is anticipated to aid the global artificial intelligence in diabetes management market at a CAGR of 37 7 over the next eight years Erudite analysis study of report titled Artificial Intelligence"
-    publishedDateTime: 2021-06-30T11:36:00Z
-    webUrl: "https://www.openpr.com/news/2317721/market-survey-details-developments-in-the-artificial"
-    ampWebUrl: "https://www.openpr.com/amp/2317721/market-survey-details-developments-in-the-artificial"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2317721/market-survey-details-developments-in-the-artificial"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 41
-    images:
-      - url: "https://cdn.openpr.com/U/6/U630680940_g.jpg"
-        width: 720
-        height: 480
-        isCached: true
-  - title: "Artificial Neural Network Market: Size & Trends Shows a Rapid Growth by 2027"
-    excerpt: "The Global Artificial Neural Network Market size to grow from USD 117 million in 2019 to USD 296 million by 2027 at a Compound Annual Growth Rate CAGR of 20 during the forecast period 2021 2027 An artificial neuron network"
-    publishedDateTime: 2021-06-30T08:45:00Z
-    webUrl: "https://www.openpr.com/news/2317399/artificial-neural-network-market-size-trends-shows-a-rapid"
-    ampWebUrl: "https://www.openpr.com/amp/2317399/artificial-neural-network-market-size-trends-shows-a-rapid"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2317399/artificial-neural-network-market-size-trends-shows-a-rapid"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 38
-  - title: "Global Artificial Intelligence (AI) in Agriculture Market Size, Status and Forecast 2021-2027"
-    excerpt: "Pages Report] Check for Discount on Global Artificial Intelligence (AI) in Agriculture Market Size, Status and Forecast 2021-2027 report by QYResearch Group. Artificial Intelligence (AI) in Agriculture Market size is being"
-    publishedDateTime: 2021-06-29T07:32:00Z
-    webUrl: "https://www.reportsnreports.com/reports/4620930-global-artificial-intelligence-ai-in-agriculture-market-size-status-and-forecast-2021-2027.html"
-    type: article
-    provider:
-      name: ReportsnReports
-      domain: reportsnreports.com
-    quality: 23
-  - title: "United States Artificial Intelligence Market Industry Overview, Size, Scope, Demand, Share and Forecast 2021-2026"
-    excerpt: "According to the latest report by IMARC Group, titled “United States Artificial Intelligence Market Share ... is expected to bolster the demand for AI in drones, robots, and self-driving cars, over the forecasted period. If you need specific information ..."
-    publishedDateTime: 2021-06-28T07:07:00Z
-    webUrl: "https://ksusentinel.com/2021/06/28/united-states-artificial-intelligence-market-industry-overview-size-scope-demand-share-and-forecast-2021-2026/"
-    type: article
-    provider:
-      name: The Sentinel
-      domain: ksusentinel.com
-    quality: 18
-    images:
-      - url: "https://ksusentinel.com/wp-content/uploads/2021/06/United-States-Artificial-Intelligence-Market-2-780x470.jpeg"
-        width: 780
-        height: 470
-        isCached: true
-  - title: "COVID-19 Impact on Artificial Intelligence Chipsets Market - Global Industry Analysis, Size, Share, Growth, Trends and Forecast 2021-2027"
-    excerpt: "Artificial Intelligence Chipsets Market size exceeded USD 8 billion in 2019 and is estimated to grow at around 35 CAGR between 2021 and 2027 Artificial intelligence chipset market has reported a significant increase in size and value thanks to the"
-    publishedDateTime: 2021-06-28T09:08:00Z
-    webUrl: "https://www.openpr.com/news/2315091/covid-19-impact-on-artificial-intelligence-chipsets-market"
-    ampWebUrl: "https://www.openpr.com/amp/2315091/covid-19-impact-on-artificial-intelligence-chipsets-market"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2315091/covid-19-impact-on-artificial-intelligence-chipsets-market"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 4
-  - title: "Artificial Intelligence-Emotion Recognition Market Size 2021 Is Booming Across the Globe by Share, Growth, Segments and Forecast to 2026"
-    excerpt: "Global \" Artificial Intelligence-Emotion Recognition Market \"Growth (2021-2026): Emotion recognition is the process of identifying human emotion, most typically from facial expressions as well as from verbal expressions."
-    publishedDateTime: 2021-06-29T11:09:00Z
-    webUrl: "https://www.wicz.com/story/44203811/artificial-intelligence-emotion-recognition-market-size-2021-is-booming-across-the-globe-by-share-growth-segments-and-forecast-to-2026"
-    type: article
-    provider:
-      name: FOX 40 WICZ TV
-      domain: wicz.com
-    quality: 4
-    images:
-      - url: "https://WICZ.images.worldnow.com/images/20397967_G.png"
-        width: 1200
-        height: 628
-        isCached: true
-  - title: "Global Artificial Intelligence (AI) in Medical Diagnostics Market 2021 by Company, Regions, Type and Application, Forecast to 2026"
-    excerpt: "Pages Report] Check for Discount on Global Artificial Intelligence (AI) in Medical Diagnostics Market 2021 by Company, Regions, Type and Application, Forecast to 2026 report by Global Info Research. The Artificial Intelligence (AI) in Medical Diagnostics market report"
-    publishedDateTime: 2021-06-29T08:34:00Z
-    webUrl: "https://www.reportsnreports.com/reports/4621998-global-artificial-intelligence-ai-in-medical-diagnostics-market-2021-by-company-regions-type-and-application-forecast-to-2026.html"
-    type: article
-    provider:
-      name: ReportsnReports
-      domain: reportsnreports.com
-    quality: 2
 
 secured: "LtH+X+gev3QO1werR2WhasM/kDkAb7CO0HblykLPmqp8Di1VBvB2sVVWj1J4t8eNrobI02L+5Ksd6sfXGx0fJySzSTU6pzctOlCN/S/E5Bc8UxeMi9FvAHemGylPvEuG/ig5mk1DIuPYIWVWJ8GKHLUOdP1aVzjRV8rrlyb0ysErQrGXo2+EB7UZ4n+x+3VmnISsXI2y9vqYEL6yDzEOQmbzs0D5o3RdivUfV1wuxsgT+/K9CPDwExP9oDX4sE+l1P/lLCpDaZlqh1gpE1BBymf9+CpMxPG6yk5mt2ThjgoevoKs+cKusQ3Sf5SLprTMmCx+wtt7WmxOxOqhuuCKE/d85keWK2EZTYCvI8lMc6I=;oloe2eid/jri9s+qmqUK6w=="
 ---

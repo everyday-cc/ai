@@ -79,20 +79,6 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 48
-  - title: "Artificial Intelligence MARKET Market Size, Share, Industry Analysis, Growth COVID-19 Analysis and Forecast 2021-2030"
-    excerpt: "In a recent published report, Kenneth Research has updated the Artificial Intelligence MARKET report for for 2021"
-    publishedDateTime: 2021-06-30T04:49:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-market-size-share-industry-analysis-growth-covid-19-analysis-and-forecast-2021-2030-2021-06-30"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 46
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Artificial Neural Network Market: Size & Trends Shows a Rapid Growth by 2027"
     excerpt: "The Global Artificial Neural Network Market size to grow from USD 117 million in 2019 to USD 296 million by 2027 at a Compound Annual Growth Rate CAGR of 20 during the forecast period 2021 2027 An artificial neuron network"
     publishedDateTime: 2021-06-30T08:45:00Z

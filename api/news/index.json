@@ -2,6 +2,241 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-07-02-aws-vs-azure-which-one-to-choose-for-banking-software-development.md",
+      "title": "AWS vs Azure: Which One to Choose For Banking Software Development",
+      "excerpt": "The financial service industry is among the most data-intensive and highly regulated sectors around the global market. With the",
+      "sourceUrl": null,
+      "webUrl": "https://www.business2community.com/finance/aws-vs-azure-which-one-to-choose-for-banking-software-development-02416270",
+      "originalUrl": "https://www.business2community.com/finance/aws-vs-azure-which-one-to-choose-for-banking-software-development-02416270",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.business2community.com/wp-content/uploads/2021/06/AWS-Vs-Microsoft-Azure.png",
+          "width": 700,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.business2community.com/finance/aws-vs-azure-which-one-to-choose-for-banking-software-development-02416270/amp",
+      "cdnAmpWebUrl": "https://www-business2community-com.cdn.ampproject.org/c/s/www.business2community.com/finance/aws-vs-azure-which-one-to-choose-for-banking-software-development-02416270/amp",
+      "publishedDateTime": "2021-07-01T10:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business 2 Community",
+        "domain": "business2community.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-02-maine-enacts-strict-limits-on-government-use-of-facial-recognition-tech.md",
+      "title": "Maine Enacts Strict Limits on Government Use of Facial-Recognition Tech",
+      "excerpt": "The bill bans public officials and public employees at the state, county, and municipal levels from using facial-recognition technology, with limited exceptions.",
+      "sourceUrl": null,
+      "webUrl": "https://www.pcmag.com/news/maine-enacts-strict-limits-on-government-use-of-facial-recognition-tech",
+      "originalUrl": "https://www.pcmag.com/news/maine-enacts-strict-limits-on-government-use-of-facial-recognition-tech",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 209,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.pcmag.com/imagery/articles/032rDToHg3jndE55LWKtIBB-1.1625160511.fit_lim.size_1200x630.jpg",
+          "width": 1120,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.pcmag.com/news/maine-enacts-strict-limits-on-government-use-of-facial-recognition-tech?amp=true",
+      "cdnAmpWebUrl": "https://www-pcmag-com.cdn.ampproject.org/c/s/www.pcmag.com/news/maine-enacts-strict-limits-on-government-use-of-facial-recognition-tech?amp=true",
+      "publishedDateTime": "2021-07-01T10:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC Magazine",
+        "domain": "pcmag.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-01-google-sold-25-million-in-ai-to-the-pentagon-for-its-covid-19-recovery.md",
+      "title": "Google Sold $2.5 Million In AI To The Pentagon For Its Covid-19 Recovery",
+      "excerpt": "A previously-undisclosed deal with the Pentagon reveals Google sold AI tech for the DOD’s Covid-19 recovery. But, with no contractual “red line,” there were concerns it could have been repurposed for non-Covid military projects.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/thomasbrewster/2021/07/01/google-sold-millions-in-ai-to-support-the-pentagon-covid-19-recovery/",
+      "originalUrl": "https://www.forbes.com/sites/thomasbrewster/2021/07/01/google-sold-millions-in-ai-to-support-the-pentagon-covid-19-recovery/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 148,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60dc766f9b49abb41e383c3e%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/thomasbrewster/2021/07/01/google-sold-millions-in-ai-to-support-the-pentagon-covid-19-recovery/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/thomasbrewster/2021/07/01/google-sold-millions-in-ai-to-support-the-pentagon-covid-19-recovery/amp/",
+      "publishedDateTime": "2021-07-01T09:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-01-how-can-healthcare-leverage-natural-language-processing-for-medical-records.md",
+      "title": "How Can Healthcare Leverage Natural Language Processing for Medical Records?",
+      "excerpt": "As automated solutions continue to gain traction in the industry, here’s how a specialized branch of artificial intelligence is showing promise in improving EHR usability.",
+      "sourceUrl": null,
+      "webUrl": "https://healthtechmagazine.net/article/2021/07/how-can-healthcare-leverage-natural-language-processing-medical-records-perfcon",
+      "originalUrl": "https://healthtechmagazine.net/article/2021/07/how-can-healthcare-leverage-natural-language-processing-medical-records-perfcon",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://healthtechmagazine.net/sites/healthtechmagazine.net/files/styles/cdw_hero/public/articles/%5Bcdw_tech_site%3Afield_site_shortname%5D/202107/nlp.jpg?itok=irjfHdQw",
+          "width": 1440,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://healthtechmagazine.net/article/2021/07/how-can-healthcare-leverage-natural-language-processing-medical-records-perfcon?amp",
+      "cdnAmpWebUrl": "https://healthtechmagazine-net.cdn.ampproject.org/c/s/healthtechmagazine.net/article/2021/07/how-can-healthcare-leverage-natural-language-processing-medical-records-perfcon?amp",
+      "publishedDateTime": "2021-07-01T08:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "HealthTech",
+        "domain": "healthtechmagazine.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2021-07-01-are-you-thirsty-this-ai-enabled-robot-can-bring-beer-to-holiday-parties.md",
+      "title": "‘Are you thirsty?’ This AI-enabled robot can bring beer to holiday parties",
+      "excerpt": "Heineken says its autonomous robot can hold up to 12 cans of beer, will follow you down the sidewalk and has a friendly AI personality.",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/technology/2021/07/01/beer-cooler-robot/",
+      "originalUrl": "https://www.washingtonpost.com/technology/2021/07/01/beer-cooler-robot/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/LJQJRE4CONFJFF2GYV7TCPMRBE.jpg&w=1440",
+          "width": 1440,
+          "height": 960,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/technology/2021/07/01/beer-cooler-robot/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/technology/2021/07/01/beer-cooler-robot/?outputType=amp",
+      "publishedDateTime": "2021-07-01T08:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2021-07-01-amazon-plans-to-build-delivery-robot-tech-in-finland.md",
       "title": "Amazon plans to build delivery robot tech in Finland",
       "excerpt": "Amazon announced Thursday that it plans to develop new technology for its autonomous delivery vehicles in Helsinki, Finland.",
@@ -260,7 +495,7 @@
       "originalUrl": "https://venturebeat.com/2021/07/01/how-ai-is-helping-enterprises-turn-the-tables-on-malicious-attacks/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 127,
+      "heat": 137,
       "tags": null,
       "images": [
         {
@@ -343,6 +578,59 @@
       "topics": [
         "Computer Vision",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-01-gcc-artificial-intelligence-market-2021-26-industry-trends-size-share-analysis-and-forecast-report.md",
+      "title": "GCC Artificial Intelligence Market 2021-26: Industry Trends, Size, Share, Analysis and Forecast Report",
+      "excerpt": "According to IMARC Group's latest report, titled \"GCC Artificial Intelligence Market: Industry Trends, Share, Size, Growth, Opportunity and Forecast 2021-2026,\" the GCC artificial intelligence market grew at a CAGR of around 24% during 2015-2020.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/gcc-artificial-intelligence-market-2021-26-industry-trends-size-share-analysis-and-forecast-report-2021-07-01",
+      "originalUrl": "https://www.marketwatch.com/press-release/gcc-artificial-intelligence-market-2021-26-industry-trends-size-share-analysis-and-forecast-report-2021-07-01",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 95,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-01T05:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Healthcare"
       ]
     },
     {
@@ -908,7 +1196,7 @@
       "originalUrl": "https://www.buzzfeednews.com/article/carolinehaskins1/gao-facial-recognition-report-clearview-federal-agencies",
       "featuredContent": null,
       "highlight": null,
-      "heat": 135,
+      "heat": 105,
       "tags": null,
       "images": [
         {
@@ -932,306 +1220,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/buzzfeednews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-01-facebook-updates-habitat-environment-to-train-embodied-ai.md",
-      "title": "Facebook updates Habitat environment to train ’embodied AI’",
-      "excerpt": "Facebook today announced Habitat 2.0, an updated version of its simulation environment, alongside new datasets and benchmarks.",
-      "sourceUrl": null,
-      "webUrl": "https://ai.facebook.com/blog/habitat-20-training-home-assistant-robots-with-faster-simulation-and-new-benchmarks/",
-      "originalUrl": "https://venturebeat.com/2021/06/30/facebook-updates-habitat-environment-to-train-embodied-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 227,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scontent-sea1-1.xx.fbcdn.net/v/t39.2365-6/61379250_2289364931329348_7271871964229140480_n.jpg?_nc_cat=105&ccb=1-3&_nc_sid=ad8a9d&_nc_ohc=xPUwAqG-JogAX-qKKU7&_nc_ht=scontent-sea1-1.xx&oh=28797380cbde35757e3bdcc16805b3cf&oe=60E1CB5C",
-          "width": 1848,
-          "height": 1112,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-30T14:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-01-a-cio-weighs-in-on-how-ai-can-benefit-non-technical-roles-particularly-hr.md",
-      "title": "A CIO weighs in on how AI can benefit non-technical roles, particularly HR",
-      "excerpt": "Jeff Gregory, the Thirdera CIO, discussed how AI can impact non-technical roles in an organization, especially in the realm of human resources.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/06/30/a-cio-weighs-in-on-how-ai-can-benefit-non-technical-roles/",
-      "originalUrl": "https://venturebeat.com/2021/06/30/a-cio-weighs-in-on-how-ai-can-benefit-non-technical-roles/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2018/02/shutterstock_777026485-e1625048155126.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/06/30/a-cio-weighs-in-on-how-ai-can-benefit-non-technical-roles/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/30/a-cio-weighs-in-on-how-ai-can-benefit-non-technical-roles/amp/",
-      "publishedDateTime": "2021-06-30T14:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-01-cheers-to-the-heineken-bot-self-driving-beer-delivery-robot.md",
-      "title": "Cheers to the Heineken B.O.T. Self-Driving Beer Delivery Robot",
-      "excerpt": "You could train your dog to grab one for you, which would take effort, time, and commitment. Or you could turn to Heineken's new B.O.T., which is, yep, a beer-carrying robot that brings the beers to you.",
-      "sourceUrl": null,
-      "webUrl": "https://www.motortrend.com/news/heineken-bot-beer-robot-cooler/",
-      "originalUrl": "https://www.motortrend.com/news/heineken-bot-beer-robot-cooler/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://st.motortrend.com/uploads/sites/5/2021/06/Heineken-B.O.T.-1.jpg",
-          "width": 1360,
-          "height": 765,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.motortrend.com/news/heineken-bot-beer-robot-cooler/amp/",
-      "cdnAmpWebUrl": "https://www-motortrend-com.cdn.ampproject.org/c/s/www.motortrend.com/news/heineken-bot-beer-robot-cooler/amp/",
-      "publishedDateTime": "2021-06-30T14:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Motor Trend",
-        "domain": "motortrend.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-07-01-no-job-is-future-proof-how-to-adopt-ai-while-protecting-your-employees.md",
-      "title": "No Job Is Future-Proof. How To Adopt AI While Protecting Your Employees",
-      "excerpt": "No job is safe from what technology may have in store. Here are four ways leaders can embrace AI without compromising their commitment to employees.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/ganeskesari/2021/06/30/no-job-is-future-proof-how-to-adopt-ai-while-protecting-your-employees/",
-      "originalUrl": "https://www.forbes.com/sites/ganeskesari/2021/06/30/no-job-is-future-proof-how-to-adopt-ai-while-protecting-your-employees/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60dcb0a523046eafa0268ae3%2F0x0.jpg%3FcropX1%3D494%26cropX2%3D5537%26cropY1%3D0%26cropY2%3D3783",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/ganeskesari/2021/06/30/no-job-is-future-proof-how-to-adopt-ai-while-protecting-your-employees/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ganeskesari/2021/06/30/no-job-is-future-proof-how-to-adopt-ai-while-protecting-your-employees/amp/",
-      "publishedDateTime": "2021-06-30T13:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-01-artificial-intelligence-ai-market-share-company-overview-growth-development-and-forecast-by-2025.md",
-      "title": "Artificial Intelligence (AI) Market Share, Company Overview, Growth, Development and Forecast by 2025",
-      "excerpt": "Market at:  Global Artificial Intelligence (AI) Market valued approximately USD 16 billion in 2016 is anticipated to grow with a healthy growth rate of more than 36% over the forecast period 2017-2025.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-market-share-company-overview-growth-development-and-forecast-by-2025-2021-06-30",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-market-share-company-overview-growth-development-and-forecast-by-2025-2021-06-30",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 179,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-30T12:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-01-sentinelone-ipo-how-the-company-is-riding-the-ai-wave.md",
-      "title": "SentinelOne IPO: How The Company Is Riding The AI Wave",
-      "excerpt": "SentinelOne . SentinelOne, which develops AI-powered software for cybersecurity, launched its IPO today. There was certainly substantial demand from inves",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/tomtaulli/2021/06/30/sentinelone-ipo-how-the-company-is-riding-the-ai-wave/",
-      "originalUrl": "https://www.forbes.com/sites/tomtaulli/2021/06/30/sentinelone-ipo-how-the-company-is-riding-the-ai-wave/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60dcbbcdf545ce5fff691ffb%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/tomtaulli/2021/06/30/sentinelone-ipo-how-the-company-is-riding-the-ai-wave/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tomtaulli/2021/06/30/sentinelone-ipo-how-the-company-is-riding-the-ai-wave/amp/",
-      "publishedDateTime": "2021-06-30T12:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

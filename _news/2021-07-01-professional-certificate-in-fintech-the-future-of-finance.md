@@ -25,31 +25,22 @@ images:
     isCached: true
 
 related:
-  - title: "ALAT by Wema: Charting roadmap for digital banks, fintech"
-    excerpt: "However, what young people have today that we didn’t have before is the abundance of choice fueled by the rapid penetration of the Internet and digital technology. These two factors have introduced new dimensions to how we do business and make money."
-    publishedDateTime: 2021-06-27T00:25:00Z
-    webUrl: "https://punchng.com/alat-by-wema-charting-roadmap-for-digital-banks-fintech/"
-    ampWebUrl: "https://punchng.com/alat-by-wema-charting-roadmap-for-digital-banks-fintech/?amp"
-    cdnAmpWebUrl: "https://punchng-com.cdn.ampproject.org/c/s/punchng.com/alat-by-wema-charting-roadmap-for-digital-banks-fintech/?amp"
+  - title: "Wells Fargo Acquires Stake in Compliance and Security Solutions Fintech Theta Lake"
+    excerpt: "Wells Fargo has reportedly acquired a stake in Theta Lake, an established provider of compliance and security solutions for chat, video, and voice collaboration tools. Theta Lake"
+    publishedDateTime: 2021-06-30T19:33:00Z
+    webUrl: "https://www.crowdfundinsider.com/2021/06/177283-wells-fargo-acquires-stake-in-compliance-and-security-solutions-fintech-theta-lake/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2021/06/177283-wells-fargo-acquires-stake-in-compliance-and-security-solutions-fintech-theta-lake/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/06/177283-wells-fargo-acquires-stake-in-compliance-and-security-solutions-fintech-theta-lake/amp/"
     type: article
     provider:
-      name: The Punch Newspapers
-      domain: punchng.com
-    quality: 59
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 55
     images:
-      - url: "https://cdn.punchng.com/wp-content/uploads/2018/09/14183622/20180707-DSC_0079new.jpg"
-        width: 800
-        height: 482
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2018/03/Wells-Fargo-Bank-Branch-600x489.jpg"
+        width: 600
+        height: 489
         isCached: true
-  - title: "3 fintech trends that are transforming the future of business"
-    excerpt: "Here are three emerging trends in fintech that businesses should be aware of in order to best protect themselves against the inherent risks of digitization of operations, products and services."
-    publishedDateTime: 2021-07-01T05:00:00Z
-    webUrl: "https://www.bizjournals.com/dallas/news/2021/07/01/3-fintech-trends-that-are-transforming-the-future.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 4
 
 secured: "C4olMbY7ahkA9ZtcticQfgsJzOm9ALXk0YVXOJeESEiEG2i2AhKZYsjzYq5B4HTExNxQ7vLXnQTpu18ydqeC96xx1QJ36YVBGM9vSD0MsKxSr/Z/dZjMsgqhbAGBC/Nw09FFZjYc7HLhRdsE45WkSUtK73kET26iYzbLzTmTN/7DdI+otC9d9IKPsuzWDoTr0thf/hhNjx+WeBN7yoMBDbW6sSDG6Pwg9NptLanfc3UuPi04B/zr8Vo5VqRjAvnBFkcWtnks54vzxlJTe0TNFtiRPiBxUKhgKjv6jz1pYDiwfR8LtShvO0XTlxUVRlLDmHyX2r03vwz86jIG71sVL58LO80cgFHDTpxxXWC0juU=;JH+ffPZlfqxKEjZA478ZOQ=="
 ---

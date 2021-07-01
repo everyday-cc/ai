@@ -57,6 +57,22 @@ related:
         width: 600
         height: 337
         isCached: true
+  - title: "Four ways artificial intelligence is helping us learn about the universe"
+    excerpt: "To take on these challenges, astronomers are turning to machine learning and artificial intelligence (AI) to build new tools to rapidly search for the next big breakthroughs. Here are four ways AI is helping astronomers."
+    publishedDateTime: 2021-07-01T16:07:00Z
+    webUrl: "https://theconversation.com/four-ways-artificial-intelligence-is-helping-us-learn-about-the-universe-163740"
+    ampWebUrl: "https://theconversation.com/amp/four-ways-artificial-intelligence-is-helping-us-learn-about-the-universe-163740"
+    cdnAmpWebUrl: "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/four-ways-artificial-intelligence-is-helping-us-learn-about-the-universe-163740"
+    type: article
+    provider:
+      name: The Conversation
+      domain: theconversation.com
+    quality: 56
+    images:
+      - url: "https://images.theconversation.com/files/409277/original/file-20210701-5537-pbg5fd.jpeg?ixlib=rb-1.1.0&q=45&auto=format&w=320&h=320&fit=crop"
+        width: 320
+        height: 320
+        isCached: true
   - title: "How AI Enables Companies to Harvest the True Value of Data"
     excerpt: "Digital businesses are in pursuit of new ways to transform data at the speed of business. They rely on AI-enabled technologies to unbolt the true potential of data and leverage the insightful information to make decisions."
     publishedDateTime: 2021-06-29T05:30:00Z

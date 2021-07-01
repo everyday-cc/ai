@@ -24,6 +24,22 @@ images:
     isCached: true
 
 related:
+  - title: "Google Sold $2.5 Million In AI To The Pentagon For Its Covid-19 Recovery"
+    excerpt: "A previously-undisclosed deal with the Pentagon reveals Google sold AI tech for the DOD’s Covid-19 recovery. But, with no contractual “red line,” there were concerns it could have been repurposed for non-Covid military projects."
+    publishedDateTime: 2021-07-01T16:52:00Z
+    webUrl: "https://www.forbes.com/sites/thomasbrewster/2021/07/01/google-sold-millions-in-ai-to-support-the-pentagon-covid-19-recovery/"
+    ampWebUrl: "https://www.forbes.com/sites/thomasbrewster/2021/07/01/google-sold-millions-in-ai-to-support-the-pentagon-covid-19-recovery/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/thomasbrewster/2021/07/01/google-sold-millions-in-ai-to-support-the-pentagon-covid-19-recovery/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 88
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60dc766f9b49abb41e383c3e%2F0x0.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Google taps AI to identify COVID-19 vaccine name variations"
     excerpt: "Google says it's using a multimodal AI model to identify variations in COVID-19 vaccine names around the world."
     publishedDateTime: 2021-06-29T17:08:00Z
@@ -39,6 +55,20 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2020/12/GettyImages-1281329514.jpg?w=1200&strip=all"
         width: 1200
         height: 600
+        isCached: true
+  - title: "Artificial Intelligence MARKET Market Size, Share, Industry Analysis, Growth COVID-19 Analysis and Forecast 2021-2030"
+    excerpt: "In a recent published report, Kenneth Research has updated the Artificial Intelligence MARKET report for for 2021"
+    publishedDateTime: 2021-06-30T04:49:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-market-size-share-industry-analysis-growth-covid-19-analysis-and-forecast-2021-2030-2021-06-30"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 46
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
   - title: "New VA tool uses artificial intelligence to predict COVID-19 patient mortality"
     excerpt: "A new VA tool that processes data using artificial intelligence can predict mortality rates within 120 days of when a patient is diagnosed with COVID-19."
@@ -65,6 +95,20 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 31
+  - title: "Global Artificial Intelligence in the Manufacturing Sector Market Drugs Market Size, Share, Growth,Trends, COVID-19 Analysis and Forecast 2021-2030"
+    excerpt: "In a recent published report, Kenneth Research has updated the market report for Global Artificial Intelligence in"
+    publishedDateTime: 2021-07-01T05:04:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-in-the-manufacturing-sector-market-drugs-market-size-share-growthtrends-covid-19-analysis-and-forecast-2021-2030-2021-07-01"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 31
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "TKF7bkjrIU/wZp2R0BupvIfhhk5AKUIHhOLoRwH4HZ+cxmIEM6gn00sIhWS2fwhzqvymRJDhvMMnfBWx4BS0Tt4J4EA67tPl/4y4lcXG7pZx4VecyV8cfnS/pAnPWSkfKM1ULHCe+vfpG524qoyp8x+pNAcmrjxg+RrtAIsl+P4AZSVb2CGCEh8xPzANiQB9BzqgVGVCoKHoKgs7jWtOKe1jG+FErACix+rKaVfTt3Xzfw3Dq85ljxhL3mrGqYofk8CN/MCBFnAjvBUk4q++bBZri3nj/1kXpOwR2OmNoIzdZIhXZD1qVZTEsLT59sH2KPbxL1zjLG2xFMh9pNWB+vA9huCs83QtGVkYEXGht0UyDmMrtJsBiCJ/Shgpr+50y3f/xVQ6SpRi6+1UHkneyQCgukkARMB1sVCAyfvfVzb9boAbJyhfS5HNXWyx8vzC/FKqHRbJCzFVcg42+o/7TI0jqGEHEnZ4sBDR+yqtlaUU5mYC/w0e4K6umeHQYqdKUtMJYRwoRGLO4+MskC/8ZA==;qHxvNCu4rsLMR1ePLitnXA=="
 ---

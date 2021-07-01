@@ -9,8 +9,8 @@ ampWebUrl: "https://venturebeat.com/2021/06/29/google-taps-ai-to-identify-covid-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/29/google-taps-ai-to-identify-covid-19-vaccine-name-variations/amp/"
 type: article
 quality: 87
-heat: 117
-published: true
+heat: -1
+published: false
 
 provider:
   name: VentureBeat
@@ -30,6 +30,22 @@ images:
     isCached: true
 
 related:
+  - title: "Google Sold $2.5 Million In AI To The Pentagon For Its Covid-19 Recovery"
+    excerpt: "A previously-undisclosed deal with the Pentagon reveals Google sold AI tech for the DOD’s Covid-19 recovery. But, with no contractual “red line,” there were concerns it could have been repurposed for non-Covid military projects."
+    publishedDateTime: 2021-07-01T16:52:00Z
+    webUrl: "https://www.forbes.com/sites/thomasbrewster/2021/07/01/google-sold-millions-in-ai-to-support-the-pentagon-covid-19-recovery/"
+    ampWebUrl: "https://www.forbes.com/sites/thomasbrewster/2021/07/01/google-sold-millions-in-ai-to-support-the-pentagon-covid-19-recovery/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/thomasbrewster/2021/07/01/google-sold-millions-in-ai-to-support-the-pentagon-covid-19-recovery/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 88
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60dc766f9b49abb41e383c3e%2F0x0.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Google deploys new AI tool to COVID-19 vaccine searches"
     excerpt: "Google's answer to combatting COVID vaccine misinformation has been to display resources from health authorities like the CDC in information boxes on search result pages. But the coronavirus — and COVID-related scams and fake news— have blown through international borders and language barriers."
     publishedDateTime: 2021-06-30T22:22:00Z
@@ -43,6 +59,20 @@ related:
       - url: "https://helios-i.mashable.com/imagery/articles/00IMViIJXiaOEwUiTxrRqN5/hero-image.fill.size_1200x675.png"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Artificial Intelligence MARKET Market Size, Share, Industry Analysis, Growth COVID-19 Analysis and Forecast 2021-2030"
+    excerpt: "In a recent published report, Kenneth Research has updated the Artificial Intelligence MARKET report for for 2021"
+    publishedDateTime: 2021-06-30T04:49:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-market-size-share-industry-analysis-growth-covid-19-analysis-and-forecast-2021-2030-2021-06-30"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 46
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
   - title: "New VA tool uses artificial intelligence to predict COVID-19 patient mortality"
     excerpt: "A new VA tool that processes data using artificial intelligence can predict mortality rates within 120 days of when a patient is diagnosed with COVID-19."
@@ -69,6 +99,20 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 31
+  - title: "Global Artificial Intelligence in the Manufacturing Sector Market Drugs Market Size, Share, Growth,Trends, COVID-19 Analysis and Forecast 2021-2030"
+    excerpt: "In a recent published report, Kenneth Research has updated the market report for Global Artificial Intelligence in"
+    publishedDateTime: 2021-07-01T05:04:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-in-the-manufacturing-sector-market-drugs-market-size-share-growthtrends-covid-19-analysis-and-forecast-2021-2030-2021-07-01"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 31
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "3q81YmJ6CPFIVdQkc+hadJ75yq/11SC/UJEYjMjii7zb3ppT+2DDmarWn6RMflMVCX9k2RcOKCxyOzxTrSXqzjvyO/+OqZNBsDde8+fX/OrtXaAPw3t6ypY7/DeBDfif/d+jEu7b8FUmDrX9Onh67uDAGHatbZjaerBIYXHbFfAhGdIhTpE0TAUieznMAZ+k/rYqyvfU/qY86AcAI+lm8cW4uE75y/zYbvJIDA9o5aiWzKUuZeB0zXnPJm7UVoUtZASyxRKruQWmR9RZZnN5/OeKqQvor5FcV9vXnPtF1PmTRwSlXxHFlAa+eSKHULNraAbTzC64NGHHdqrJNsNX4fjVVwoWBKmSMgVEOcypcNREikV6A1F6OVSgCQksN3UdANQoXdHK1jKE+sqJoest/qG/Z4K6q21qN2quh7/yKEYk9yr8g3+d1NGBedozcGXs16jTZT3lITOaJAYAIS5+DyRGVjBXx/eJPPH8aXwtrlQ3xb9u0Fl7oAkGMU3SwJDcF15S9YZTU0EYAtxFqCn6CQ==;ijawZN1iYPqYNv2YL4lwOA=="
 ---

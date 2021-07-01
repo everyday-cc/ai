@@ -2,6 +2,40 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2021-05-18-wimi-hologram-cloud-stands-out-with-its-own-lidar-products-when-the-autonomous-vehicle-industry-breaks-out.md",
+      "title": "WIMI Hologram Cloud Stands Out with Its Own Lidar Products When the Autonomous Vehicle Industry Breaks Out",
+      "excerpt": "It uses computers, modern sensing, information fusion, communications, artificial intelligence ... representative of the latter is Google Waymo. \"Whoever relies on lidar will be over.\"",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/21/05/g21175504/wimi-hologram-cloud-stands-out-with-its-own-lidar-products-when-the-autonomous-vehicle-industry-br",
+      "originalUrl": "https://www.benzinga.com/pressreleases/21/05/g21175504/wimi-hologram-cloud-stands-out-with-its-own-lidar-products-when-the-autonomous-vehicle-industry-br",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.benzinga.com/amp/content/21175504",
+      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/21175504",
+      "publishedDateTime": "2021-05-18T06:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-18-baidu-extends-post-covid-recovery-with-quarterly-sales-beat.md",
       "title": "Baidu Extends Post-Covid Recovery With Quarterly Sales Beat",
       "excerpt": "prompting analysts to hike their value estimates for Baidu’s self-driving unit Apollo. The venture, Jidu Auto, aims to spend 50 billion yuan over the next five years to develop smart-car ...",
@@ -1301,49 +1335,6 @@
       "provider": {
         "name": "Design News",
         "domain": "designnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-12-softbanks-son-expects-mass-production-of-driverless-cars-in-two-years.md",
-      "title": "SoftBank’s Son expects mass production of driverless cars in two years",
-      "excerpt": "Son, who made his name for investing early in startups such as China's Alibaba Group had said he will continue to take stakes in public companies he thinks are frontrunners in the artificial ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.thestar.com.my/tech/tech-news/2021/02/01/softbank039s-son-expects-mass-production-of-driverless-cars-in-two-years",
-      "originalUrl": "https://www.thestar.com.my/tech/tech-news/2021/02/01/softbank039s-son-expects-mass-production-of-driverless-cars-in-two-years",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apicms.thestar.com.my/uploads/images/2021/01/31/1027826.jpg",
-          "width": 1240,
-          "height": 826,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-11T17:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Star",
-        "domain": "thestar.com.my",
         "images": null,
         "publishers": null,
         "authors": null
