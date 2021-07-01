@@ -9,7 +9,7 @@ ampWebUrl: "https://punchng.com/alat-by-wema-charting-roadmap-for-digital-banks-
 cdnAmpWebUrl: "https://punchng-com.cdn.ampproject.org/c/s/punchng.com/alat-by-wema-charting-roadmap-for-digital-banks-fintech/?amp"
 type: article
 quality: 59
-heat: 59
+heat: 69
 published: false
 
 provider:
@@ -25,6 +25,17 @@ images:
     width: 800
     height: 482
     isCached: true
+
+related:
+  - title: "3 fintech trends that are transforming the future of business"
+    excerpt: "Here are three emerging trends in fintech that businesses should be aware of in order to best protect themselves against the inherent risks of digitization of operations, products and services."
+    publishedDateTime: 2021-07-01T05:00:00Z
+    webUrl: "https://www.bizjournals.com/dallas/news/2021/07/01/3-fintech-trends-that-are-transforming-the-future.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 4
 
 secured: "hTPKpmG8gsAGwjAK6oNTi2Sxx3hV1rNt7rl4KxOOFHqYw49mp70gird+doKVcl9OGnrbIvZrLnvFBvTJO0hCMvYFsOG2nPPk67eL1M7fLTisD3KmsBZkxGzMP8dzHHfnB8D0nqnzu/VHMG2oklpeAOabwy5ZktZQM6c+4Vyw009cY6jmgtWV6+KvuFBMOrBckOhhAGtOx+NWwEzp0nu/OUBaxBHQSf0KnYcvHNG9BNiRvpUeBgCNwkJDrnt/PjCLV3HanzeOjN0mw1kmGu6lueV7n2ZuCQxQhzXXFz+SKW11olfVDBi1h/E6WleaKNJ/YbUcsgSv/N6NhmUVrgM5p7I/Y61l7MbS7yL98q7ajQc=;igWzBlNylxRA2sf+PiD/+g=="
 ---

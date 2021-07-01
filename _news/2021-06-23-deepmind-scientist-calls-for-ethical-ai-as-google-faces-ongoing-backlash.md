@@ -1,25 +1,33 @@
 ---
 category: news
 title: "DeepMind scientist calls for ethical AI as Google faces ongoing backlash"
-excerpt: "Disclaimer | Accessibility Statement | Commerce Policy | Made In NYC | Stock quotes by finanzen.net At the Lesbians Who Tech Pride Summit, DeepMind's Raia Hadsell discussed the duty of researchers ..."
-publishedDateTime: 2021-06-23T07:30:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/deepmind-scientist-calls-for-ethical-ai-as-google-faces-ongoing-backlash-10265599"
-webUrl: "https://markets.businessinsider.com/news/stocks/deepmind-scientist-calls-for-ethical-ai-as-google-faces-ongoing-backlash-10265599"
+excerpt: "At the Lesbians Who Tech Pride Summit, DeepMind's Raia Hadsell discussed the duty of researchers to develop AI responsibly."
+publishedDateTime: 2021-06-23T06:40:00Z
+originalUrl: "https://venturebeat.com/2021/06/22/deepmind-scientist-calls-for-ethical-ai-as-google-faces-ongoing-backlash/"
+webUrl: "https://venturebeat.com/2021/06/22/deepmind-scientist-calls-for-ethical-ai-as-google-faces-ongoing-backlash/"
+ampWebUrl: "https://venturebeat.com/2021/06/22/deepmind-scientist-calls-for-ethical-ai-as-google-faces-ongoing-backlash/amp/"
+cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/22/deepmind-scientist-calls-for-ethical-ai-as-google-faces-ongoing-backlash/amp/"
 type: article
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
+  name: VentureBeat
+  domain: venturebeat.com
   images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
-  - Google AI
-  - AI
   - AI Ethics
+  - AI
+  - Google AI
 
-secured: "eT4yYfOgXerk6iaVnFk5W49Umc3P9AgGOW6CNDDryrfvbtnQQxZONv2RxSnSO6xPKXv+/dJ6IEtYEtyPTjwDbyBmqoDie/KlHPAxgI+5B9sse2PM1mRc5V27umnOCZfQmGlL0DwJGkW6MzCczPy1M5VZjOyMmFyE8IwnjHqKIoUDYQvPZmVAXpC6KEk5AK6xVWhPhKsfvDF6vfjr8+VqqMgC/j9YLL0wyXnVpgS6jV1yup5BwltvCiIxwQHxbhz9GojwxmBeU9kMoKJNNdbx8b1dXX1xD1H5ytSepyrkuDlcKnfwjXBz3opEjlMvAS34N6rNSIgKIH+oVT7z3NqafWZGsCi4+ABsNUGjbvfNZ9o=;MrdTZybwBpYLLZZ+CC+IEw=="
+images:
+  - url: "https://venturebeat.com/wp-content/uploads/2019/10/AI.GettyImages-817338718.jpg?w=1200&strip=all"
+    width: 1200
+    height: 600
+    isCached: true
+
+secured: "ro7q633b6uwGcjCrOu+fOp8N3w49UaGayToVuf+sNcJrY6dldIaQnZVvRIycteThZngfCv0erzwlnvXmDYANVoM6HkIrM5epfuigsPMW9W4H3BkomHGjwOcH3FuZNv+3C+EjpeWdLLCGHnp/sYFPF1hM0Zz+o9gqHSbFXp/R0SeDH/Vt/oFqs+wc0+E6bpPf5XxupNgW6JKztIW7xY37rONswQn74UjwjpWlnPB+ZFx7D0rOEAmwANdVW5C5eauwdOLKl5HH8OeYny6KFPg0fYDkbZHBOwxPFfkDSPW53BuOw9AdH2Ho36NpdqKdxGEbhsHrTj4smvmWO05ZLVuM7cIBjToG4h2xqxEVoGTHSO0=;mBUK841ALyq9VdhsOhi+LQ=="
 ---
 

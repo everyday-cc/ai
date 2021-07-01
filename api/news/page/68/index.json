@@ -2,6 +2,58 @@
   "page": 68,
   "value": [
     {
+      "path": "_news/2021-05-12-yelp-built-an-ai-system-to-identify-spam-and-inappropriate-photos.md",
+      "title": "Yelp built an AI system to identify spam and inappropriate photos",
+      "excerpt": "Yelp's engineers built a multi-part AI system to help identify spam and inappropriate photos across the company's platform.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/05/12/yelp-built-an-ai-system-to-identify-spam-and-inappropriate-photos/",
+      "originalUrl": "https://venturebeat.com/2021/05/12/yelp-built-an-ai-system-to-identify-spam-and-inappropriate-photos/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/03/Yelp-e1594622799259.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/05/12/yelp-built-an-ai-system-to-identify-spam-and-inappropriate-photos/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/12/yelp-built-an-ai-system-to-identify-spam-and-inappropriate-photos/amp/",
+      "publishedDateTime": "2021-05-12T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2021-05-12-sparkcognition-government-systems-and-intrinsic-awarded-united-states-air-force-contract-to-improve-training-program-using-ai.md",
       "title": "SparkCognition Government Systems and Intrinsic Awarded United States Air Force Contract to Improve Training Program Using AI",
       "excerpt": "SparkCognition Government Systems (SGS), the first full-spectrum artificial intelligence (AI) company devoted entirely to government and national defense, is pleased to announce that along with Intrinsic Enterprises Inc,",
@@ -1102,49 +1154,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-12-new-system-allows-self-driving-cars-to-make-more-human-decisions.md",
-      "title": "New System Allows Self-Driving Cars to Make More Human Decisions",
-      "excerpt": "(Image source: Chelsea Turner) A team of scientists at MIT have created a system using simple maps and visual data to enable driverless cars to navigate ... director of the Computer Science and Artificial Intelligence Laboratory (CSAIL) and a professor ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.designnews.com/automation-motion-control/new-system-allows-self-driving-cars-make-more-human-decisions",
-      "originalUrl": "https://www.designnews.com/automation-motion-control/new-system-allows-self-driving-cars-make-more-human-decisions",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.designnews.com/sites/designnews.com/files/humanreasondriving.jpg",
-          "width": 639,
-          "height": 426,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-11T17:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Design News",
-        "domain": "designnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

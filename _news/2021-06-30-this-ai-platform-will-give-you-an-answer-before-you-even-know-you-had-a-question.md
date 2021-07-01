@@ -2,9 +2,9 @@
 category: news
 title: "This AI platform will give you an answer before you even know you had a question"
 excerpt: "Tonya Hall talks to the CEO of Signal AI, David Benigson, about how the next generation of AI tools can impact human decision."
-publishedDateTime: 2021-06-30T13:42:00Z
-originalUrl: "https://www.zdnet.com/video/this-ai-platform-will-give-you-an-answer-before-you-even-know-you-had-a-question/"
-webUrl: "https://www.zdnet.com/video/this-ai-platform-will-give-you-an-answer-before-you-even-know-you-had-a-question/"
+publishedDateTime: 2021-06-30T09:53:00Z
+originalUrl: "https://www.zdnet.com/index.php/video/this-ai-platform-will-give-you-an-answer-before-you-even-know-you-had-a-question/"
+webUrl: "https://www.zdnet.com/index.php/video/this-ai-platform-will-give-you-an-answer-before-you-even-know-you-had-a-question/"
 type: article
 quality: 62
 heat: -1
@@ -43,6 +43,6 @@ related:
         height: 562
         isCached: true
 
-secured: "v/4aEfIiRpxGVIXcYHVyel1GBmxoUy67JIdGxOyLJU2Dy8i6q1CVZyMCnJBhmCCPmTFb5ac3ZxHeoB0NtFtc8Z7L/O/TY68pQ1kaxOaWOPPBSYIGniN2IPQkuGHhrPDzZUuguEqjQRLz01u3DyWBTGGXU5j9cmwN2Hbo7MgoLcsLwVTZv/ep5N6DvRqK6wcVGkK3trCiZL1CAtn+karIH+HcqdrBJoxnpSP8TBXubqOWLwlI4HI7TMULhSCNVpmXIQ5YnNRCi1/2yXlqgFJduS3qxL5ief2zPXjIInCf4oBpTM4xcg/gCR05+4E0Va+rw8Mqm0SaMAgZSc3rt8R9NtWqG+GrwbhAOvmNmxIV1StY4cRs5pMw5cQ841QdSNF/p0kYYhz9LWl1rAcu7fBGrFKAVHdp7ShWbcEh4T1un50e54BVx6TYtKZTntZywRZLQ3Oqi8+4toZCjfme0cuBCphtOPA77BSkWcK0VOc5DiR15GvMPSfQXBZGkdw3Yns3Wg6oFWq3DihXfpAKmFeerw==;GHVlf+tSluGuM4uCiCHOCQ=="
+secured: "bT16IFhghhTIZ1z5cT9ZqPo5wlGwTwdsztD4Se5BtFO/RQt7ciiVOGsHvnaFtNxy11Ph9uSjqUNWtQ+si00RF52NAZNS/vi/3zERWPmuCeF1uaNfhpH8PHVIXWOw0O8Hq2u0I0AjV/94m9Kz+NSEZm0phHZzyYs0LC9y5jna6t1wUW16HyDRI6p/z7Apt31Szb7ISz0PdaMrLeVVvvfP0Meb1QOfy+kC18M1xgj0eFGFSjCNQofpn7IDXSXYyE/q6Fqr9fBHg7Ksd7bXAbQPtU2bhJ4hZffwTDJ+QM5dQswdBJhThi38z9iIITf7GSyJiie2juwhqY+wDwt3IPUHUvctYuH4C1KF5BGkHiBFGhA=;oISbuYZT71vYkQMerIg8ew=="
 ---
 

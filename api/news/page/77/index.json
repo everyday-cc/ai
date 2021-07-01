@@ -2,6 +2,49 @@
   "page": 77,
   "value": [
     {
+      "path": "_news/2021-05-05-cloud-networking-services-comparison-arista-vs-dell-cloud.md",
+      "title": "Cloud Networking Services Comparison: Arista vs. Dell Cloud",
+      "excerpt": "In this guide, we will delve into what you should know about two of the best cloud networking services on the market: Arista Networks and Dell Technologies Cloud. Arista Networks’ cognitive cloud networking solution, Universal Cloud Network (UCN ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.enterprisenetworkingplanet.com/guides/cloud-networking-services-comparison-arista-vs-dell-cloud/",
+      "originalUrl": "https://www.enterprisenetworkingplanet.com/guides/cloud-networking-services-comparison-arista-vs-dell-cloud/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.enterprisenetworkingplanet.com/wp-content/uploads/2021/05/Cloud-Services-Comparison.jpeg",
+          "width": 1500,
+          "height": 833,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-05T09:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Enterprise Networking Planet",
+        "domain": "enterprisenetworkingplanet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-05-white-house-announces-website-to-advance-artificial-intelligence.md",
       "title": "White House Announces Website to Advance Artificial Intelligence",
       "excerpt": "The new website will serve as a connection point to ongoing activities that will advance US leadership in artificial intelligence research and development.",
@@ -1121,40 +1164,6 @@
         "Google AI",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-05-05-cotiviti-to-present-on-artificial-intelligence-at-ai4-2021-healthcare-summit.md",
-      "title": "Cotiviti to Present on Artificial Intelligence at Ai4 2021 Healthcare Summit",
-      "excerpt": "Cotiviti EVP Nicole Neumarker will speak on how to reduce healthcare fraud and waste using artificial intelligence at the Ai4 2021 Healthcare Summit.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businesswire.com/news/home/20210505005175/en/Cotiviti-to-Present-on-Artificial-Intelligence-at-Ai4-2021-Healthcare-Summit",
-      "originalUrl": "https://www.businesswire.com/news/home/20210505005175/en/Cotiviti-to-Present-on-Artificial-Intelligence-at-Ai4-2021-Healthcare-Summit",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-05T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
       ]
     }
   ],

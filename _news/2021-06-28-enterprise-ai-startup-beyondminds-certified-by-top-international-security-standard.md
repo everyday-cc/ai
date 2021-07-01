@@ -2,22 +2,28 @@
 category: news
 title: "Enterprise AI Startup BeyondMinds Certified by Top International Security Standard"
 excerpt: "BeyondMinds, an enterprise AI software provider delivering fully managed, production-grade AI solutions on top of its turnkey AI platform, today announced it has earned ISO 27001:2013. The certification,"
-publishedDateTime: 2021-06-28T15:00:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-enterprise-ai-startup-beyondminds-certified-top-international-security-/2021/06/28/9398829.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-enterprise-ai-startup-beyondminds-certified-top-international-security-/2021/06/28/9398829.htm"
+publishedDateTime: 2021-06-28T13:52:00Z
+originalUrl: "https://apnews.com/press-release/globe-newswire/business-technology-061006a8611cbe8746dba86f82b79b9c"
+webUrl: "https://apnews.com/press-release/globe-newswire/business-technology-061006a8611cbe8746dba86f82b79b9c"
 type: article
-quality: 28
-heat: 28
+quality: 48
+heat: 48
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI
   - AI in Security
 
-secured: "cOn3N28MtbvVhRZsSoojfhrt+rcCHUmRyu+OkqoUUVQL7HMBA6/sJrHBTq/PNJaqoSNFictNXMg5aH+9QmvBCAGgXtvYWkP9hOfN0+5Lp+X9VD13UKY/WWwQwsWm9k3FZNvpRwPWALCU5mdSq+9BngwMcRN+mJeJUM8pM2mZuwYb6MbQFoqcnc6y8c5xhcTi00XAxHFLDmBFQOVnh51bNGoEx+fyl/yH6BSanZCdLWyexJNXaxPGyAnVCy/8JipcIwzk4VlgcuMS3V5QdEDobHt9od+S7M6sdYLwZbFyouKqwNd5XtVYwjqw3DOxdLBcrK3amgYmGpBjyIVraEAsOzwolZaHqzlaPfB6qI0SHRY=;Q6odkSwIc8S0JYLTPKun0w=="
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
+
+secured: "a7eUe3zZoAbegBtHh/aLvVk2KnqPTPLcjQRx6M325OC91TGSluB2shxENKC2OgG1grx73ec0kpwihtIcd6TkOurutqv539JN7A4VQqRKaFQcdVpMvKHa7OrPF10OVdaNuUldnAd+hULFNGfWF3CG6Ucodese9R7MfnYfyEwlmRo17zjE9XKEGMlk4ejznlbLbmUEE4w1IsAKK5IleOiHGnn8Fx6gQiPRryN9SBR9vfTQrtThS7EH/ATynExxwmL7iSIVL6LmZQmS2Jz/HqQnMa00LDxlCzjgPrOKFJetRvrRawvN4wLLK+VjJjnqG9iPxSfz+d3btib5gQhWTwZhTde3Y5HUOf/zSJFgJZxYUxc=;/4lUBLuhsaO67FYkOCpjDQ=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.avepoint.com/blog/m365-in-education/ai-automation-learni
 cdnAmpWebUrl: "https://www-avepoint-com.cdn.ampproject.org/c/s/www.avepoint.com/blog/m365-in-education/ai-automation-learning/?amp"
 type: article
 quality: 59
-heat: 59
+heat: 69
 published: false
 
 provider:
@@ -25,6 +25,22 @@ images:
     width: 1024
     height: 576
     isCached: true
+
+related:
+  - title: "The future of online shopping gets real with AI and machine learning"
+    excerpt: "Learn how AI and machine learning have starring roles in the future of online shopping and what retailers need to do to adapt."
+    publishedDateTime: 2021-07-01T05:05:00Z
+    webUrl: "https://www.the-future-of-commerce.com/2021/07/01/future-of-online-shopping-ai-and-machine-learning/"
+    type: article
+    provider:
+      name: Future
+      domain: the-future-of-commerce.com
+    quality: 54
+    images:
+      - url: "https://www.the-future-of-commerce.com/wp-content/uploads/2021/06/Future-of-Online-shopping_1200x375-1200x630.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "z6LO2bDo29n1jrdbndjC7Ue1YgWbkiaULEm0A31gzAafJaqnVyR4X0hM8V4nfhYCHvb06KoLyCWmAjumxGu+JmC4VoniGlzDDCih1thNG+hqrgWIGVk2Em6bIVFDyxBuGKn2SXBrjtY/Ri22MSa77Jl4LQaW9BwI7dFqetv5O5IAX+R0qnGitSdItuUeYbRLHtZumFz3UT5l/2F5xfYPXPPMnTMvB2NTve6YNRu046srKToxOG8lPV//T4qogZeD2l3yNYc+IN0wAu2vh/r+6DBM5W2NHsti5sliQDBQ8Pqs2/6Td9PYygEb5mvsGrJnBjKxzFxfyh+0d4XbIhT3tt/4Ezq7i5tGSnPFTNeIFjt2unPzhUAWnE3E3tSC+rUF132gpse4+gFPQ8p6Ve12LH7fvn6qwcmqFC3KbifaBy3azltkirVTSOIwNWLw7wkwPhQwLNdt7SkhRJmBoB4ydLpv8AFc4jWoIubAlbE8yYRd/msqtXBZ4TzXV2e7u0KF2D7kq+DXUVTaN0g16bE/IA==;sX8uucLYzZGkBovS6SrFiw=="
 ---

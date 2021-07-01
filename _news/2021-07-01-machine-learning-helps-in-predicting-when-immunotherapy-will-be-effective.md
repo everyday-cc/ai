@@ -9,7 +9,7 @@ ampWebUrl: "https://medicalxpress.com/news/2021-06-machine-immunotherapy-effecti
 cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-06-machine-immunotherapy-effective.amp"
 type: article
 quality: 58
-heat: 78
+heat: 88
 published: true
 
 provider:
@@ -43,6 +43,17 @@ related:
         width: 620
         height: 480
         isCached: true
+  - title: "Machine Learning Predicts Patient's Response to Immunotherapy"
+    excerpt: "Immunotherapy and machine learning join forces to help the body's immune system crack one of its greatest mysteries -- how to find hidden tumorous cells in the human body."
+    publishedDateTime: 2021-07-01T05:39:00Z
+    webUrl: "https://www.medindia.net/news/machine-learning-predicts-timing-of-effective-immunotherapy-202023-1.htm"
+    ampWebUrl: "https://www.medindia.net/amp/news/machine-learning-predicts-timing-of-effective-immunotherapy-202023-1.htm"
+    cdnAmpWebUrl: "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/machine-learning-predicts-timing-of-effective-immunotherapy-202023-1.htm"
+    type: article
+    provider:
+      name: Medindia
+      domain: medindia.net
+    quality: 39
   - title: "Machine learning helps in predicting when immunotherapy will be effective"
     excerpt: "Our immune system is tasked with a key role - find and eliminate foreign invaders such as bacteria or viruses, but it also works to take out"
     publishedDateTime: 2021-06-30T13:50:00Z
@@ -58,6 +69,6 @@ related:
         height: 360
         isCached: true
 
-secured: "tyVzaepNq3r0ei55aU33EvXgPNHKxrmaANQ/yt8l6ao9zbgq4z90+fXgJ0xqGjHymBDUdMNAFQ7qNPIEC45tFzZT3U4AzzRyE/TaGXBO2Evkux4NV2F8Anhj3bK5kclml+f867y923dpG2fqUyp6JxzNWcExP0lQlE8x+bDdT4tUzq+0HwjjqMopxXFMjz3GROTCE6O7ibOILhz5nrJ65ZWHRK3xlh04sVoQY0kVdTUJXnrvnAgNXG3q4HTXRSE3Juh+mHZDegGItaoRQ954GFziA48aVlqLdX5RcCcP8UXB9QkhYYWmyqT/je7zuAN2NC5FQ9EPB8x57jouz4M613p0bhQquRJ8wBEIqzBlAW4=;7xazEQMrS+oy7kNw6WTiRQ=="
+secured: "6hWDLXXjVTY6RW7DMd2HrKbJHpP4a9g19tGT1JyAC5Mj6HdzqOkpAuJB9iAympuxlv2g/y0Scnm2bc2YgkBXfwgGTQv01bhdndoo13wZaEbxWHS4LvMzMNCtyEB8H5msy4dfd4USQ/AiuMFQ8PcI8l17S1teteO8ciD3EvY+P/8LkUx2EI+zL5RsBIKGY4EE1cUJQTKtK1hxma865XnJaDHExlyQO0whqMFnfes2VhYmwE8UyPVMmwd2kFxVoJ1hn6JL5R35Uaa/Ur5bcLcxJyyUSenF0TAyNE9UQdq4gV4jlqASMdPj1fuwhjXS3QlF8Uq3VN8eCVMfO6oBJOiatrKPk094a/P0PLQ57OYf3m411aPsHQO4lh8pmp9CQ+IkK3/MhkZaO9Nji6seYDvCacaZgKOj4MVoQHY9LqryZgzIT3behEcN94aGpgphB2SiuE3ryDjPGj9tTLKH+P2Ro1HYXdrewIqG643eboSSWv2PgbAKFt1/FSkotFVWDKUETub2yetLHlM9w3nfDK1J0g==;hEaYSKBgHxy0t2PKScMibQ=="
 ---
 

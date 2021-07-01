@@ -53,6 +53,20 @@ related:
         width: 300
         height: 350
         isCached: true
+  - title: "Here’s what you need to do before deploying artificial intelligence"
+    excerpt: "Brokers wanting to take advantage of artificial intelligence and machine learning need large amounts of data and to hire the correct experts. If a company wants to effectively build and deploy artificial intelligent and machine learning systems,"
+    publishedDateTime: 2021-06-30T20:42:00Z
+    webUrl: "https://www.canadianunderwriter.ca/insurance/heres-what-you-need-to-do-before-deploying-artificial-intelligence-1004209571/"
+    type: article
+    provider:
+      name: Canadian Underwriter
+      domain: canadianunderwriter.ca
+    quality: 37
+    images:
+      - url: "https://media.canadianunderwriter.ca/uploads/2020/08/iStock-1177351973-ai-car.jpg"
+        width: 800
+        height: 600
+        isCached: true
 
 secured: "WZeKIsCffNCBtYpWiYaR/EErbo4iyIDkAiZaD9CoECjgIH9w4xdkQxQbMT9C1TONJDvcoO3JzZ1j2VqJczsHGlgV1HOm/yIPqBBGxTC3ud1xFNvtZJnI87NjqVSuScZ9OTSwRdzgusNhimAb1ISEzAfYypm9U7EiFqyZ8PskWmCvsYXoE9P40i1PLxsflfiGgp42hAITGODGXzyOfvfFEVP8ExmaqGgLb7xGa60oaR/HAbAMZC04ZT+QMlFuY65ixG8HM1HdNldriDOjD+JXUf+0b1br05apjkh3dlpQLpu8bqU4dyBSj3MVRrHf0h/nL3iX2KVOZ0dafn9eqLsn2YsqDpjvOuMy3iJWJ4K5vEc=;Xu6YH6IN+vmCSpE+wUZPkw=="
 ---

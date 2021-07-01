@@ -1,30 +1,24 @@
 ---
 category: news
 title: "BrainChip Takes a Look at what ML and AI Can Achieve With Arm Fellow Jem Davies"
-excerpt: "Latest ‘This is our Mission' podcast episode continues outside-looking-in theme with insight into the future of differentiated solutions and their impact on respective"
-publishedDateTime: 2021-06-30T23:40:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/21/06/b21800803/brainchip-takes-a-look-at-what-ml-and-ai-can-achieve-with-arm-fellow-jem-davies"
-webUrl: "https://www.benzinga.com/pressreleases/21/06/b21800803/brainchip-takes-a-look-at-what-ml-and-ai-can-achieve-with-arm-fellow-jem-davies"
+excerpt: "BrainChip Holdings Ltd (ASX: BRN) (OTCQX: BRCHF), a leading provider of ultra-low power high performance artificial intelligence technology, today announced that Jem Davies, VP, Fellow and GM of the Machine Learning Group at Arm,"
+publishedDateTime: 2021-07-01T03:40:00Z
+originalUrl: "https://www.businesswire.com/news/home/20210630006025/en/BrainChip-Takes-a-Look-at-what-ML-and-AI-Can-Achieve-With-Arm-Fellow-Jem-Davies"
+webUrl: "https://www.businesswire.com/news/home/20210630006025/en/BrainChip-Takes-a-Look-at-what-ML-and-AI-Can-Achieve-With-Arm-Fellow-Jem-Davies"
 type: article
-quality: 67
-heat: 67
+quality: 47
+heat: 47
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
   - AI Hardware
   - AI
   - Machine Learning
 
-images:
-  - url: "https://cdn.benzinga.com/files/imagecache/og_image_social_share_1200x630/sites/all/themes/bz2/images/bz-icon.png"
-    width: 1200
-    height: 630
-    isCached: true
-
-secured: "E2uz8tMUQCh1EHw9l34BMgctCOzvkdpv14eqGf9LC9n4h6QZJ/a16Me/nsQlBUCxfB3MWtVwQttnCWLljFRYkGOCmSDp2GlXoSMCRDmj58cvJWZi7wDEHdMK02VRJZ6lLIUW1/4S7GA8C9uF+hx+2tkzwiK8lQXZm194Qct3sr2x+Troazjos29kv3w2sjOpArEVeK4cMav3KiTTN8M2u00lMrcm4v2nUIXlcr+7rbZdR290vO4ePk/DWV+rcslUg7StYu/Dh4RHACXqgcWOX0mSwJ7WU1q5ExjLBnc2K+MSCJd8GlcwyhbAnLgsxyywRKDbyc2E/xjsdWeaNw+x8GkMCYpTrlA3nsgR0gqhV+8=;jeIkigyH1DkesG1Ly607LQ=="
+secured: "Xj2mOtKWP9lqWVsYB9Ay5/zR3QERi05EMOrWUtZXvE+hVvu9cuCIvomMqOsGbLZNBE4M9l93auBpbM8pvOpLRfHBjKH40TX7FhVJFIqSvyh4VSZYiCaAZ2/tj6H/ZVWyccfo1fFl2D/Bx60zJ20azOzL1mu927+POhZKzvg8VdR6aNkcxL9/Icddi5VND5JRSmiOZioVEJrxddsWGQowiA+b7nQK9GcLBl/nhpQPeRj8iLCAimTMKVVQ6pBMznc7M3UWpTpWMT9zpl9SbyV92o4BxGfXE1OnOevDXON2MVEOhqG5kcjm/XP3qbwEsk0SktazTNwagn4FOCL7pSaVmBLomU8SXRVmPzJrzwHMgmY=;ukJL90S81dPneW3jrjsZjw=="
 ---
 

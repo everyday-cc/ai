@@ -43,6 +43,17 @@ related:
         width: 1920
         height: 1920
         isCached: true
+  - title: "Machine Learning Predicts Patient's Response to Immunotherapy"
+    excerpt: "Immunotherapy and machine learning join forces to help the body's immune system crack one of its greatest mysteries -- how to find hidden tumorous cells in the human body."
+    publishedDateTime: 2021-07-01T05:39:00Z
+    webUrl: "https://www.medindia.net/news/machine-learning-predicts-timing-of-effective-immunotherapy-202023-1.htm"
+    ampWebUrl: "https://www.medindia.net/amp/news/machine-learning-predicts-timing-of-effective-immunotherapy-202023-1.htm"
+    cdnAmpWebUrl: "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/machine-learning-predicts-timing-of-effective-immunotherapy-202023-1.htm"
+    type: article
+    provider:
+      name: Medindia
+      domain: medindia.net
+    quality: 39
   - title: "Machine learning helps in predicting when immunotherapy will be effective"
     excerpt: "Our immune system is tasked with a key role - find and eliminate foreign invaders such as bacteria or viruses, but it also works to take out"
     publishedDateTime: 2021-06-30T13:50:00Z

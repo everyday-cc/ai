@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/ganeskesari/2021/06/30/no-job-is-future
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ganeskesari/2021/06/30/no-job-is-future-proof-how-to-adopt-ai-while-protecting-your-employees/amp/"
 type: article
 quality: 87
-heat: 88
+heat: 89
 published: true
 
 provider:

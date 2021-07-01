@@ -2,6 +2,40 @@
   "page": 56,
   "value": [
     {
+      "path": "_news/2021-05-20-detection-of-covid-19-in-x-ray-images-by-classification-of-bag-of-visual-words-using-neural-networks.md",
+      "title": "Detection of COVID-19 in X-Ray Images by Classification of Bag of Visual Words Using Neural Networks.",
+      "excerpt": "Given that this novel virus most notably affects the human respiratory system, early detection may help prevent severe lung damage, save lives, and help prevent further disease spread. Given the constraints on the healthcare facilities and staff,",
+      "sourceUrl": null,
+      "webUrl": "https://europepmc.org/article/MED/34007303",
+      "originalUrl": "https://europepmc.org/article/MED/34007303",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-20T07:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Europe PMC",
+        "domain": "europepmc.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-20-heru-series-a-funding-accelerates-cloud-and-artificial-intelligence-enabled-wearable-vision-diagnosis-and-therapy.md",
       "title": "Heru Series A Funding Accelerates Cloud and Artificial Intelligence-Enabled Wearable Vision Diagnosis and Therapy",
       "excerpt": "$30 million Series A will help advance quality of life for millions of patients with visual disorders Breakthrough technology uses cloud and artificial intelligence (AI) powered wearable devices ...",
@@ -1082,49 +1116,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-20-jetson-emulator-gives-students-a-free-ai-lesson.md",
-      "title": "Jetson Emulator Gives Students A Free AI Lesson",
-      "excerpt": "Obviously it can’t actually run GPU-accelerated code without a GPU ... that shows a dozen people the basics of NVIDIA’s AI workflow, jetson-emulator will allow everyone in attendance to ...",
-      "sourceUrl": null,
-      "webUrl": "https://hackaday.com/2020/10/26/jetson-emulator-gives-students-a-free-ai-lesson/",
-      "originalUrl": "https://hackaday.com/2020/10/26/jetson-emulator-gives-students-a-free-ai-lesson/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://hackaday.com/wp-content/uploads/2020/10/jetsonemu_feat.png",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-19T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hackaday",
-        "domain": "hackaday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

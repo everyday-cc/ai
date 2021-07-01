@@ -30,8 +30,8 @@ images:
 related:
   - title: "This AI platform will give you an answer before you even know you had a question"
     excerpt: "Tonya Hall talks to the CEO of Signal AI, David Benigson, about how the next generation of AI tools can impact human decision."
-    publishedDateTime: 2021-06-30T13:42:00Z
-    webUrl: "https://www.zdnet.com/video/this-ai-platform-will-give-you-an-answer-before-you-even-know-you-had-a-question/"
+    publishedDateTime: 2021-06-30T09:53:00Z
+    webUrl: "https://www.zdnet.com/index.php/video/this-ai-platform-will-give-you-an-answer-before-you-even-know-you-had-a-question/"
     type: article
     provider:
       name: ZDNet

@@ -36,6 +36,15 @@ related:
         width: 450
         height: 300
         isCached: true
+  - title: "Artificial Intelligence Platform Market 2021 Comprehensive Insights – Google, Baidu, IBM, Microsoft, SAP, Intel, Salesforce, Brighterion"
+    excerpt: "The global Artificial Intelligence Platform market size is projected to reach US$ 185710 million by 2027, from US$ 16960 million in 2020, at a CAGR of 39.5% during 2021-2027. Top Leading Companies of Global Artificial Intelligence Platform Market are Google,"
+    publishedDateTime: 2021-07-01T05:04:00Z
+    webUrl: "https://ksusentinel.com/2021/07/01/artificial-intelligence-platform-market-2021-comprehensive-insights-google-baidu-ibm-microsoft-sap-intel-salesforce-brighterion/"
+    type: article
+    provider:
+      name: The Sentinel
+      domain: ksusentinel.com
+    quality: 16
   - title: "Artificial Intelligence in IoT Market Size and Growth 2021-2028 | Top Leading Players – IBM, Microsoft, Google, PTC, AWS, Oracle, GE, Salesforce"
     excerpt: "The report titled Artificial Intelligence in IoT Market is a comprehensive document containing valuable insights into market elements such as drivers, restraints, competitive landscape, and technology development."
     publishedDateTime: 2021-06-30T06:03:00Z
