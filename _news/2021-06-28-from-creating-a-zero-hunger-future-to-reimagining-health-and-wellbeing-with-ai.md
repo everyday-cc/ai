@@ -1,22 +1,30 @@
 ---
 category: news
 title: "From Creating a Zero Hunger Future, To Reimagining Health and Wellbeing with AI"
-excerpt: "Students’ Unlimited Creativity Unveiled in ‘Master Code’ Award and Kick-off CeremoniesHONG KONG SAR - Media OutReach - 28 June 2021 -"
-publishedDateTime: 2021-06-27T21:10:00Z
-originalUrl: "https://www.macaubusiness.com/from-creating-a-zero-hunger-future-to-reimagining-health-and-wellbeing-with-ai/"
-webUrl: "https://www.macaubusiness.com/from-creating-a-zero-hunger-future-to-reimagining-health-and-wellbeing-with-ai/"
+excerpt: "Students’ Unlimited Creativity Unveiled in ‘Master Code’ Award and Kick-off Ceremonies HONG KONG SAR - Media OutReach - 28 June 2021 - Since 2016, Hong Kong Education City (EdCity) and Microsoft have co-organised the annual Master"
+publishedDateTime: 2021-06-28T05:10:00Z
+originalUrl: "https://www.asiaone.com/business/creating-zero-hunger-future-reimagining-health-and-wellbeing-ai"
+webUrl: "https://www.asiaone.com/business/creating-zero-hunger-future-reimagining-health-and-wellbeing-ai"
+ampWebUrl: "https://www.asiaone.com/business/creating-zero-hunger-future-reimagining-health-and-wellbeing-ai?amp"
+cdnAmpWebUrl: "https://www-asiaone-com.cdn.ampproject.org/c/s/www.asiaone.com/business/creating-zero-hunger-future-reimagining-health-and-wellbeing-ai?amp"
 type: article
-quality: 15
+quality: 55
 heat: -1
 published: false
 
 provider:
-  name: Macau Business
-  domain: macaubusiness.com
+  name: Asia One
+  domain: asiaone.com
 
 topics:
   - Microsoft AI
   - AI
+
+images:
+  - url: "https://www.asiaone.com/sites/default/files/styles/a1_og_image/public/original_images/Jun2021/EDCITY.jpg?itok=Uop_9JUE"
+    width: 763
+    height: 509
+    isCached: true
 
 related:
   - title: "Lip-Reading By AI Self-Driving Cars Is Either Alarming Or Ingenious"
@@ -237,6 +245,6 @@ related:
       domain: tmcnet.com
     quality: 0
 
-secured: "JFAjFFtFZiGRzR+c5bzGxF6HFMSEEqiMOJHcTL7KsfBK1RXe4pDbwkp0FPTd3DfFhBrUAftVsF00wPR9kWoEH37cGzElgVedAgX82Knqt8XA1s7pLVLSlASQyX6oS9TCbG7Ozcgy1JoKGu6yktyGZ+IBQPfQ1n3gKODMg9wGvBQepxv6M8D7CjhgE11kVej7hDkpOYL+huSx4zUQowmLl19e8ADhPc9VpUKgO0A/d9ARGbP8fiXXZxNYNKLRdPQsewEKSUtfC4WOvv8srAqZHx2HQgUgnRLCPVJ2LG+Cg5fDeS2joGgzgx9/YkCncgsSIZqmkvL6b/0C/EIqWP3BimTd9nfskQc35CbnsfOiSkFIXWTnO1Y88dkIIvMekWbbA/1vVfjQGU9FviKUNm4UOGSeJYI+Nb0LI93sW7MK54MZOAYnoYC+AiThmCf05D1eEuKgqb4zrZsmvi9qwMoqwDeR4JF1N7PCmFIn/HechvBG9+dtlPxiZpELtx+/muOl0gXnaJ+WXo9M7/KCD5bOnA==;4FTUgF7gr8pYPDa0lUcc9A=="
+secured: "Bi1Ub37XC8sqHlXvuHnZWtkainauN4lQxGlDLuE7NW1f3N2FLAq9FOgnIODdD48RKkT6YkqPaKtKWgkEU36ESAQccpsAiNYkbVPUa0hBrpT5mjrhVOD39HTPhhwyKUMKVUSkDqkuPaha4B81CevhXjT7zGpXWT2AYDhA94eADRCpFLf6Gk2Ao+7sWL1eHCZ22XzGeBJvYcnUcpegOiXgu5jwr5uBARs+0RNslm7rxvbbDzFtIfnNuan7tm0H6rfplyOLMA1GH9NhQhesyMxO/PLUcgO/M0z3kxcr8dG+cjV19hnKDITHTmT+6HYhNK+i62uYE9APzxL4dSPaOI4cifOopBp0zUJb0YKLyO6mQQQ=;hkF7ZJCCiJk+AX704hOPFA=="
 ---
 

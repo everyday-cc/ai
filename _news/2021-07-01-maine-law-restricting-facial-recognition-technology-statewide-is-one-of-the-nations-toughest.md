@@ -25,6 +25,38 @@ images:
     isCached: true
 
 related:
+  - title: "Maine just enacted the country's toughest restrictions on facial recognition"
+    excerpt: "A new state law limits police use of facial recognition technology, and prohibits the tech in most areas of government, including in public schools."
+    publishedDateTime: 2021-07-01T17:40:00Z
+    webUrl: "https://www.cnet.com/news/maine-just-enacted-the-countrys-toughest-restrictions-on-facial-recognition/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/maine-just-enacted-the-countrys-toughest-restrictions-on-facial-recognition/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/maine-just-enacted-the-countrys-toughest-restrictions-on-facial-recognition/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 101
+    images:
+      - url: "https://www.cnet.com/a/img/JSJk8OijM-5ytGsO6PCCqrCtyt8=/1200x630/2020/06/30/f91e01e4-1013-4fbf-af9c-f59f543d90cd/facial-recognition-face-id-passw.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Maine's new facial recognition law bans the tech in schools, limits police use"
+    excerpt: "A statewide bill regulating the use of facial recognition technology in Maine was enacted Thursday after passing unanimously in both chambers of the state's legislature. Maine's new facial recognition law strictly regulates how law enforcement agencies can employ the technology for their investigations in the state,"
+    publishedDateTime: 2021-07-01T17:40:00Z
+    webUrl: "https://www.cnet.com/news/maine-facial-recognition-law-bans-the-tech-in-schools-limits-police-use/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/maine-facial-recognition-law-bans-the-tech-in-schools-limits-police-use/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/maine-facial-recognition-law-bans-the-tech-in-schools-limits-police-use/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 100
+    images:
+      - url: "https://www.cnet.com/a/img/JSJk8OijM-5ytGsO6PCCqrCtyt8=/1200x630/2020/06/30/f91e01e4-1013-4fbf-af9c-f59f543d90cd/facial-recognition-face-id-passw.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Maine Enacts Strict Limits on Government Use of Facial-Recognition Tech"
     excerpt: "The bill bans public officials and public employees at the state, county, and municipal levels from using facial-recognition technology, with limited exceptions."
     publishedDateTime: 2021-07-01T17:30:00Z
@@ -40,22 +72,6 @@ related:
       - url: "https://i.pcmag.com/imagery/articles/032rDToHg3jndE55LWKtIBB-1.1625160511.fit_lim.size_1200x630.jpg"
         width: 1120
         height: 630
-        isCached: true
-  - title: "UK watchdog raises alarm over live face recognition tech"
-    excerpt: "Unlike CCTV, LFR and its algorithms can automatically identify who you are and infer sensitive details about you. The chief data protection regulator in the UK has expressed grave concerns over the inappropriate use of live facial recognition (LFR) technology in public places."
-    publishedDateTime: 2021-06-28T01:44:00Z
-    webUrl: "https://www.tribuneindia.com/news/science-technology/uk-watchdog-raises-alarm-over-live-face-recognition-tech-271870"
-    ampWebUrl: "https://www.tribuneindia.com/news/science-technology/uk-watchdog-raises-alarm-over-live-face-recognition-tech-271870"
-    cdnAmpWebUrl: "https://www-tribuneindia-com.cdn.ampproject.org/c/s/www.tribuneindia.com/news/science-technology/uk-watchdog-raises-alarm-over-live-face-recognition-tech-271870"
-    type: article
-    provider:
-      name: The Tribune
-      domain: tribuneindia.com
-    quality: 74
-    images:
-      - url: "https://englishtribuneimages.blob.core.windows.net/gallary-content/2021/6/2021_6$largeimg_1321701872.jpg"
-        width: 660
-        height: 440
         isCached: true
   - title: "Maine passes ‘strongest’ facial recognition restrictions in the country"
     excerpt: "Maine passed regulations surrounding government use of facial recognition that is being hailed as the \"strongest\" statewide rules in the US."
@@ -88,22 +104,6 @@ related:
       - url: "https://npr.brightspotcdn.com/dims4/default/87b08c5/2147483647/strip/true/crop/2016x1242+0+135/resize/880x542!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F01%2Fd3%2F37222ed14077afac1b02d83a6bf5%2Fap20163038160927.jpg"
         width: 880
         height: 542
-        isCached: true
-  - title: "Government report finds 20 different agencies use facial recognition"
-    excerpt: "A new report from the Government Accountability Office (GAO) found that 20 federal agencies either own or use facial recognition technology."
-    publishedDateTime: 2021-06-29T17:46:00Z
-    webUrl: "https://www.dailydot.com/debug/gao-facial-recognition-federal-agencies/"
-    ampWebUrl: "https://www.dailydot.com/debug/gao-facial-recognition-federal-agencies/?amp"
-    cdnAmpWebUrl: "https://www-dailydot-com.cdn.ampproject.org/c/s/www.dailydot.com/debug/gao-facial-recognition-federal-agencies/?amp"
-    type: article
-    provider:
-      name: The Daily Dot
-      domain: dailydot.com
-    quality: 59
-    images:
-      - url: "https://uploads.dailydot.com/2021/06/GAO-Report-Federal-Government-Facial-Recognition.jpg?auto=compress%2Cformat&ixlib=php-3.3.0"
-        width: 2000
-        height: 1000
         isCached: true
   - title: "Maine law restricts facial recognition technology statewide"
     excerpt: "A bill touted as the country's strictest statewide regulation on the use of facial recognition technology has become law in Maine. While several states regulate facial recognition as a surveillance tool,"
@@ -147,35 +147,21 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Watchdog: 10 Government Agencies Deployed Clearview AI Facial Recognition Tech"
-    excerpt: "A Government Accountability Office report details how agencies used different versions of the biometric technology during the pandemic and protests."
-    publishedDateTime: 2021-06-29T21:06:00Z
-    webUrl: "https://www.nextgov.com/emerging-tech/2021/06/watchdog-10-government-agencies-deployed-clearview-ai-facial-recognition-tech/176411/"
+  - title: "Federal agencies used facial recognition tech on George Floyd protesters, according to a new report"
+    excerpt: "Over the past few years, activists have raised the alarm about the growing use of facial recognition technology in the United States. Many say that in the hands of law enforcement agencies, the technology poses great surveillance concerns,"
+    publishedDateTime: 2021-06-30T22:09:00Z
+    webUrl: "https://www.mic.com/p/federal-agencies-used-facial-recognition-tech-on-george-floyd-protesters-according-to-a-new-report-82357352"
+    ampWebUrl: "https://www.mic.com/p/federal-agencies-used-facial-recognition-tech-on-george-floyd-protesters-according-to-a-new-report-82357352/amp"
+    cdnAmpWebUrl: "https://www-mic-com.cdn.ampproject.org/c/s/www.mic.com/p/federal-agencies-used-facial-recognition-tech-on-george-floyd-protesters-according-to-a-new-report-82357352/amp"
     type: article
     provider:
-      name: Nextgov
-      domain: nextgov.com
-    quality: 50
-    images:
-      - url: "https://cdn.nextgov.com/media/img/cd/2021/06/29/NGfacialtech20210629/open-graph.jpg"
-        width: 400
-        height: 400
-        isCached: true
-  - title: "Calls to stop NSW police trial of national facial recognition system over lack of legal safeguards"
-    excerpt: "Passport photos used in state’s criminal investigations despite parliament rejecting legislation on controversial technology"
-    publishedDateTime: 2021-06-30T16:32:00Z
-    webUrl: "https://www.theguardian.com/australia-news/2021/jul/01/calls-to-stop-nsw-police-trial-of-national-facial-recognition-system-over-lack-of-legal-safeguards"
-    ampWebUrl: "https://amp.theguardian.com/australia-news/2021/jul/01/calls-to-stop-nsw-police-trial-of-national-facial-recognition-system-over-lack-of-legal-safeguards"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/australia-news/2021/jul/01/calls-to-stop-nsw-police-trial-of-national-facial-recognition-system-over-lack-of-legal-safeguards"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
+      name: Mic
+      domain: mic.com
     quality: 45
     images:
-      - url: "https://i.guim.co.uk/img/media/a39cd16da4368de83f7321209e84d4e066e343b3/0_132_5249_3151/master/5249.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=1b5d8ec74e0bbc9e1cd2b862f8fb606a"
-        width: 600
-        height: 360
+      - url: "https://imgix.bustle.com/uploads/shutterstock/2020/11/12/395be3f3-79cd-40ca-8d28-7a2a3b7b360e-shutterstock-1783490738.jpg?w=1200&h=630&fit=crop&crop=faces&fm=jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Warning on non-police deployment of live facial recognition technology from Information Commissioner"
     excerpt: "The ICO emphasises the need to follow data protection legislation and best practice when it comes to live facial recognition systems."

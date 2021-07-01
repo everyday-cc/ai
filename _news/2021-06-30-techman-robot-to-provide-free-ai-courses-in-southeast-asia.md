@@ -7,7 +7,7 @@ originalUrl: "https://www.ryt9.com/en/anpi/250689"
 webUrl: "https://www.ryt9.com/en/anpi/250689"
 type: article
 quality: 54
-heat: 64
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Techman Robot to Provide Free AI Courses in Southeast Asia"
+    excerpt: "Artificial intelligence, AI is undoubtedly the key technology here. That is why the SEA (Southeast Asia) Taiwan AI College is turning the AI manufacturing experiences from leading ICT companies, Techman Robot,"
+    publishedDateTime: 2021-06-29T00:00:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-techman-robot-provide-free-ai-courses-southeast-asia-/2021/06/29/9400394.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 54
+    images:
+      - url: "https://mma.prnewswire.com/media/1552574/Techman_Robot_to_provide_free_AI_course_in_Southeast_Asia.jpg"
+        width: 400
+        height: 257
+        isCached: true
   - title: "SEA Taiwan AI College to Share Iconic Manufacturers’ Upgrade Experiences and Cultivate Southeast Asian AI Talent"
     excerpt: "To tackle the challenges brought by the COVID-19 pandemic, including a shrinking labor force and much greater changes in market demand, the manufacturing industry really has to step up and transform by adopting more standardized,"
     publishedDateTime: 2021-06-29T13:31:00Z

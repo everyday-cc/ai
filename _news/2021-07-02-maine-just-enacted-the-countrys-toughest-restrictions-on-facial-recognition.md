@@ -1,0 +1,205 @@
+---
+category: news
+title: "Maine just enacted the country's toughest restrictions on facial recognition"
+excerpt: "A new state law limits police use of facial recognition technology, and prohibits the tech in most areas of government, including in public schools."
+publishedDateTime: 2021-07-01T17:40:00Z
+originalUrl: "https://www.cnet.com/news/maine-just-enacted-the-countrys-toughest-restrictions-on-facial-recognition/"
+webUrl: "https://www.cnet.com/news/maine-just-enacted-the-countrys-toughest-restrictions-on-facial-recognition/"
+ampWebUrl: "https://www.cnet.com/google-amp/news/maine-just-enacted-the-countrys-toughest-restrictions-on-facial-recognition/"
+cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/maine-just-enacted-the-countrys-toughest-restrictions-on-facial-recognition/"
+type: article
+quality: 101
+heat: 211
+published: true
+
+provider:
+  name: CNET
+  domain: cnet.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - Computer Vision
+  - AI
+
+images:
+  - url: "https://www.cnet.com/a/img/JSJk8OijM-5ytGsO6PCCqrCtyt8=/1200x630/2020/06/30/f91e01e4-1013-4fbf-af9c-f59f543d90cd/facial-recognition-face-id-passw.jpg"
+    width: 1200
+    height: 630
+    isCached: true
+
+related:
+  - title: "Maine's new facial recognition law bans the tech in schools, limits police use"
+    excerpt: "A statewide bill regulating the use of facial recognition technology in Maine was enacted Thursday after passing unanimously in both chambers of the state's legislature. Maine's new facial recognition law strictly regulates how law enforcement agencies can employ the technology for their investigations in the state,"
+    publishedDateTime: 2021-07-01T17:40:00Z
+    webUrl: "https://www.cnet.com/news/maine-facial-recognition-law-bans-the-tech-in-schools-limits-police-use/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/maine-facial-recognition-law-bans-the-tech-in-schools-limits-police-use/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/maine-facial-recognition-law-bans-the-tech-in-schools-limits-police-use/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 100
+    images:
+      - url: "https://www.cnet.com/a/img/JSJk8OijM-5ytGsO6PCCqrCtyt8=/1200x630/2020/06/30/f91e01e4-1013-4fbf-af9c-f59f543d90cd/facial-recognition-face-id-passw.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Maine Enacts Strict Limits on Government Use of Facial-Recognition Tech"
+    excerpt: "The bill bans public officials and public employees at the state, county, and municipal levels from using facial-recognition technology, with limited exceptions."
+    publishedDateTime: 2021-07-01T17:30:00Z
+    webUrl: "https://www.pcmag.com/news/maine-enacts-strict-limits-on-government-use-of-facial-recognition-tech"
+    ampWebUrl: "https://www.pcmag.com/news/maine-enacts-strict-limits-on-government-use-of-facial-recognition-tech?amp=true"
+    cdnAmpWebUrl: "https://www-pcmag-com.cdn.ampproject.org/c/s/www.pcmag.com/news/maine-enacts-strict-limits-on-government-use-of-facial-recognition-tech?amp=true"
+    type: article
+    provider:
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 89
+    images:
+      - url: "https://i.pcmag.com/imagery/articles/032rDToHg3jndE55LWKtIBB-1.1625160511.fit_lim.size_1200x630.jpg"
+        width: 1120
+        height: 630
+        isCached: true
+  - title: "Maine passes ‘strongest’ facial recognition restrictions in the country"
+    excerpt: "Maine passed regulations surrounding government use of facial recognition that is being hailed as the \"strongest\" statewide rules in the US."
+    publishedDateTime: 2021-06-30T15:42:00Z
+    webUrl: "https://www.dailydot.com/debug/facial-recognition-maine-regulations/"
+    ampWebUrl: "https://www.dailydot.com/debug/facial-recognition-maine-regulations/?amp"
+    cdnAmpWebUrl: "https://www-dailydot-com.cdn.ampproject.org/c/s/www.dailydot.com/debug/facial-recognition-maine-regulations/?amp"
+    type: article
+    provider:
+      name: The Daily Dot
+      domain: dailydot.com
+    quality: 74
+    images:
+      - url: "https://uploads.dailydot.com/2021/06/Maine-Facial-Recognition.jpg?auto=compress%2Cformat&ixlib=php-3.3.0"
+        width: 2000
+        height: 1000
+        isCached: true
+  - title: "Maine Passes Strongest Facial Recognition Restrictions In Country"
+    excerpt: "Maine has enacted the strongest facial recognition law in the country, according to the American Civil Liberties Union of Maine."
+    publishedDateTime: 2021-06-30T19:14:00Z
+    webUrl: "https://www.mainepublic.org/news/2021-06-30/maine-passes-strongest-facial-recognition-restrictions-in-country"
+    ampWebUrl: "https://www.mainepublic.org/news/2021-06-30/maine-passes-strongest-facial-recognition-restrictions-in-country?_amp=true"
+    cdnAmpWebUrl: "https://www-mainepublic-org.cdn.ampproject.org/c/s/www.mainepublic.org/news/2021-06-30/maine-passes-strongest-facial-recognition-restrictions-in-country?_amp=true"
+    type: article
+    provider:
+      name: Maine Public
+      domain: mainepublic.org
+    quality: 74
+    images:
+      - url: "https://npr.brightspotcdn.com/dims4/default/87b08c5/2147483647/strip/true/crop/2016x1242+0+135/resize/880x542!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F01%2Fd3%2F37222ed14077afac1b02d83a6bf5%2Fap20163038160927.jpg"
+        width: 880
+        height: 542
+        isCached: true
+  - title: "Maine law restricts facial recognition technology statewide"
+    excerpt: "A bill touted as the country's strictest statewide regulation on the use of facial recognition technology has become law in Maine. While several states regulate facial recognition as a surveillance tool,"
+    publishedDateTime: 2021-06-30T21:42:00Z
+    webUrl: "https://apnews.com/cbf6207f15d13b8e647615e251157774"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 54
+    images:
+      - url: "https://apnews.com/images/ShareLogo2.png"
+        width: 700
+        height: 450
+        isCached: true
+  - title: "Maine Sets Example With 'Country's Strongest' Facial Recognition Ban"
+    excerpt: "Civil liberties advocates on Wednesday cheered as Maine enacted what that state's ACLU chapter called \"the country's strongest statewide facial recognition law.\" \"I hope that Maine can provide an example to other states that want to rein in the government's ability to use facial recognition and other invasive biometric technologies."
+    publishedDateTime: 2021-06-30T22:06:00Z
+    webUrl: "https://www.commondreams.org/news/2021/06/30/maine-sets-example-countrys-strongest-facial-recognition-ban"
+    type: article
+    provider:
+      name: Common Dreams
+      domain: commondreams.org
+    quality: 54
+    images:
+      - url: "https://www.commondreams.org/sites/default/files/styles/social_share_image/public/2021-06/Facial-Recognition-2600x1361.jpg?h=733dcb6a&itok=EINM7TUh"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Maine Enacts Strongest Statewide Facial Recognition Regulations in the Country"
+    excerpt: "Maine has enacted the country’s strongest statewide facial recognition law. Maine’s law prohibits the use of facial recognition technology in most areas of government, including in public schools, and for surveillance purposes."
+    publishedDateTime: 2021-06-30T15:14:00Z
+    webUrl: "https://www.aclu.org/press-releases/maine-enacts-strongest-statewide-facial-recognition-regulations-country"
+    type: article
+    provider:
+      name: Aclu.org
+      domain: aclu.org
+    quality: 50
+    images:
+      - url: "https://www.aclu.org/files/images/Generic-SocialShare-1200x628.png"
+        width: 1200
+        height: 628
+        isCached: true
+  - title: "Federal agencies used facial recognition tech on George Floyd protesters, according to a new report"
+    excerpt: "Over the past few years, activists have raised the alarm about the growing use of facial recognition technology in the United States. Many say that in the hands of law enforcement agencies, the technology poses great surveillance concerns,"
+    publishedDateTime: 2021-06-30T22:09:00Z
+    webUrl: "https://www.mic.com/p/federal-agencies-used-facial-recognition-tech-on-george-floyd-protesters-according-to-a-new-report-82357352"
+    ampWebUrl: "https://www.mic.com/p/federal-agencies-used-facial-recognition-tech-on-george-floyd-protesters-according-to-a-new-report-82357352/amp"
+    cdnAmpWebUrl: "https://www-mic-com.cdn.ampproject.org/c/s/www.mic.com/p/federal-agencies-used-facial-recognition-tech-on-george-floyd-protesters-according-to-a-new-report-82357352/amp"
+    type: article
+    provider:
+      name: Mic
+      domain: mic.com
+    quality: 45
+    images:
+      - url: "https://imgix.bustle.com/uploads/shutterstock/2020/11/12/395be3f3-79cd-40ca-8d28-7a2a3b7b360e-shutterstock-1783490738.jpg?w=1200&h=630&fit=crop&crop=faces&fm=jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Warning on non-police deployment of live facial recognition technology from Information Commissioner"
+    excerpt: "The ICO emphasises the need to follow data protection legislation and best practice when it comes to live facial recognition systems."
+    publishedDateTime: 2021-06-28T08:47:00Z
+    webUrl: "https://www.ifsecglobal.com/video-surveillance/warning-non-police-deployment-live-facial-recognition-information-commissioner/"
+    ampWebUrl: "https://www.ifsecglobal.com/video-surveillance/warning-non-police-deployment-live-facial-recognition-information-commissioner/amp/"
+    cdnAmpWebUrl: "https://www-ifsecglobal-com.cdn.ampproject.org/c/s/www.ifsecglobal.com/video-surveillance/warning-non-police-deployment-live-facial-recognition-information-commissioner/amp/"
+    type: article
+    provider:
+      name: ifsecglobal.com
+      domain: ifsecglobal.com
+    quality: 44
+    images:
+      - url: "https://s33644.pcdn.co/wp-content/uploads/2019/01/facial-recongition-office-building-e1547817740963.jpeg"
+        width: 389
+        height: 300
+        isCached: true
+  - title: "Maine law restricting facial recognition technology statewide is one of the nation’s toughest"
+    excerpt: "A bill touted as the country's strictest statewide regulation on the use of facial recognition technology has become law in Maine."
+    publishedDateTime: 2021-06-30T22:47:00Z
+    webUrl: "https://bangordailynews.com/2021/06/30/politics/maine-law-restricting-facial-recognition-technology-statewide-is-one-of-the-nations-toughest/"
+    type: article
+    provider:
+      name: Bangor Daily News
+      domain: bangordailynews.com
+    quality: 43
+    images:
+      - url: "https://bdn-data.s3.amazonaws.com/uploads/2021/06/Optimized-Amazon-Police-Facial-Recognition.jpg"
+        width: 1200
+        height: 900
+        isCached: true
+  - title: "Federal agencies need stricter limits on facial recognition to protect privacy, says government watchdog"
+    excerpt: "The use of facial recognition technology is widespread throughout the federal government, and many agencies don’t even know which systems they’re using. That needs to change, said the federal government’s main watchdog in a new report."
+    publishedDateTime: 2021-06-29T18:47:00Z
+    webUrl: "https://www.washingtonpost.com/technology/2021/06/29/gao-facial-recognition-blm/"
+    ampWebUrl: "https://www.washingtonpost.com/technology/2021/06/29/gao-facial-recognition-blm/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/technology/2021/06/29/gao-facial-recognition-blm/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 42
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ZSYOA6S7JEI6XILXO5S7FGUVEQ.jpg&w=1440"
+        width: 1440
+        height: 803
+        isCached: true
+
+secured: "+lOGFdl1UekDPBzspTJHvCyZ6vaYuRVbv0XUqdwKdPev7JNoNad5RQuYoGVrUpsZQ48NVGqzBMPYTa47Cd4Aj++QwnTNMquvcc9dT9CSsbSLqtiV6KAEKo3KFtHQ7c2zzQe5jPpUxZvwHZaIOkXTPFAq9buuAFRwUxWRXhxpypmesQcHCGrHujG0ZE7P4W0AiA9KbAcoG6l4NmhQe/NS238DbZUregCLiuX40RrzEaF3DfMrYJ5/JtDgYs/97b+2GQEoG9YqlF/0klFE9W6vyOA0/b86Lnvri38gx+V4yKqu4ws5/GuPrz5q4gGimAlAKKKYQMu1fx13Zzjajdgia5JJofMExss6q2CUSxHBPYw=;p8Ys483b2hpBAsC8TPXsTg=="
+---
+

@@ -19,6 +19,20 @@ topics:
   - AI
 
 related:
+  - title: "Carta Healthcare Announces Status as Certified Software Vendor CathPCI Registry"
+    excerpt: "Carta Healthcare, a provider of artificial intelligence (AI)-powered clinical data abstraction technology and services, has announced it is a certified software vendor for ACC's CathPCI Registry. Atlas,"
+    publishedDateTime: 2021-07-01T17:57:00Z
+    webUrl: "https://www.acc.org/latest-in-cardiology/articles/2021/07/01/15/20/carta-healthcare-announces-status-as-certified-software-vendor-cathpci-registry"
+    type: article
+    provider:
+      name: American College of Cardiology
+      domain: acc.org
+    quality: 35
+    images:
+      - url: "http://www.acc.org/-/media/B97F2403D51746E1AEB17B5DA9C1B2C7.jpg"
+        width: 600
+        height: 314
+        isCached: true
   - title: "Apervita Adds Carta Healthcare's AI-Automated Clinical Data Abstraction to Its ApervitaTM Vital Platform"
     excerpt: "Apervita, the trusted platform for healthcare collaboration, today announced that it has added Carta Healthcare's artificial intelligence (AI)-powered data abstraction technology to the Apervita Vital TM Platform's robust interoperability layer ..."
     publishedDateTime: 2021-06-29T13:15:00Z

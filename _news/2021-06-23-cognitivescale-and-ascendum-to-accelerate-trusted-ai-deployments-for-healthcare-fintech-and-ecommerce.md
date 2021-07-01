@@ -1,27 +1,21 @@
 ---
 category: news
 title: "CognitiveScale and Ascendum To Accelerate Trusted AI Deployments for Healthcare, Fintech and eCommerce"
-excerpt: "CognitiveScale, the enterprise AI company that helps organizations win with intelligent, transparent, and trusted AI powered digital"
-publishedDateTime: 2021-06-23T13:30:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/cognitivescale-and-ascendum-to-accelerate-trusted-ai-deployments-for-healthcare-fintech-and-ecommerce-301317969.html"
-webUrl: "https://www.prnewswire.com/news-releases/cognitivescale-and-ascendum-to-accelerate-trusted-ai-deployments-for-healthcare-fintech-and-ecommerce-301317969.html"
+excerpt: "CognitiveScale, the enterprise AI company that helps organizations win with intelligent, transparent, and trusted AI powered digital systems, today announced it has partnered with Ascendum to deliver Trusted AI solutions for the healthcare,"
+publishedDateTime: 2021-06-23T13:34:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-cognitivescale-ascendum-accelerate-trusted-ai-deployments-healthcare-fintech-/2021/06/23/9396326.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-cognitivescale-ascendum-accelerate-trusted-ai-deployments-healthcare-fintech-/2021/06/23/9396326.htm"
 type: article
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI in Finance
   - AI
   - AI in Healthcare
 
-images:
-  - url: "https://mma.prnewswire.com/media/1539335/CognitiveScale_Tagline_Logo.jpg?p=facebook"
-    width: 1728
-    height: 905
-    isCached: true
-
-secured: "/+GMfXhqfMXLD0urHUPqc3T8nPT2B0ScuPsByMdXCco1u9K1v3so62m/c2ak58VCb9cHf+4GcaSZCIm4StUlHhdcVq7bdiBIowRJwcerJQ1BNN9Y2jitB+1hfTqb2NS3ZidCq4ydI8rqrbRPmcQcDYyEvhOzwNetC5D8LrhqsXLiIzIU8IEU2F2Wd8M8ou7MnMTCPTKuUG80oVNAtsWKzutiuzm50EZ0z4Xjll6gfyvrTasETrEVN2xj5NUnwP8pfZ7eUXs6Nf2c5g+0btFQ1O5myD09y80JdIghJ4zQBBTLThW/CcLwxB8ezGJ544SbHrXxm9VPjAb1WQBJHAOPwHB0ColwsCeZJakMQpUHaB0=;WefNxLgm1QK5uy/d4efpJg=="
+secured: "kkHCjEINwbfX6HOmAKsxrnQU4c4GxgH8t918Z0tXRX4humHfE6JTsq2/r8MK70pR7LtECgBf0ywF9FmasLj7Xk9fgHpCO3DJUjHxUKddnZTkA3g/ouJ4pI/ZOYV7hqcB4SXTww8LEBzku7VkjtAfMp7vR+7brYKhcFyb53M7QcIJmBXGajHv5ypBi7yr9JbgTgV7q/0keCxpIgDRCnx2kSQT3zYKogkFXdhzjXvh8k077RFr3PvKJwVgUPBhDSUcWYX426TfEvRmqy6EoZpnpUpDJFuXpa2vFs9RYQND5tAbjO6IatNKv4FfEy3e6ganFVGXRkxZvynitw5Ac6dRVcgA3OyDbo4i6b5oEq8mzvI=;MjOKeC5EyAlnghm3f1LeNQ=="
 ---
 

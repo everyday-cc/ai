@@ -7,7 +7,7 @@ originalUrl: "https://www.tmcnet.com/usubmit/-apervita-adds-carta-healthcares-ai
 webUrl: "https://www.tmcnet.com/usubmit/-apervita-adds-carta-healthcares-ai-automated-clinical-data-/2021/06/29/9399668.htm"
 type: article
 quality: 17
-heat: 17
+heat: -1
 published: false
 
 provider:
@@ -19,6 +19,20 @@ topics:
   - AI
 
 related:
+  - title: "Carta Healthcare Announces Status as Certified Software Vendor CathPCI Registry"
+    excerpt: "Carta Healthcare, a provider of artificial intelligence (AI)-powered clinical data abstraction technology and services, has announced it is a certified software vendor for ACC's CathPCI Registry. Atlas,"
+    publishedDateTime: 2021-07-01T17:57:00Z
+    webUrl: "https://www.acc.org/latest-in-cardiology/articles/2021/07/01/15/20/carta-healthcare-announces-status-as-certified-software-vendor-cathpci-registry"
+    type: article
+    provider:
+      name: American College of Cardiology
+      domain: acc.org
+    quality: 35
+    images:
+      - url: "http://www.acc.org/-/media/B97F2403D51746E1AEB17B5DA9C1B2C7.jpg"
+        width: 600
+        height: 314
+        isCached: true
   - title: "Carta Healthcare Announces Status as a Certified NCDR Software Vendor for the American College of Cardiology's (ACC) CathPCI Registry"
     excerpt: "Carta Healthcare, a provider of artificial intelligence (AI)-powered clinical data abstraction technology and services, today announced that it is now a certified NCDR® software vendor for the CathPCI Registry®."
     publishedDateTime: 2021-07-01T13:07:00Z

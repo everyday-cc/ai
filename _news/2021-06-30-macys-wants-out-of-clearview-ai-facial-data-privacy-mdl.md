@@ -53,21 +53,35 @@ related:
         width: 800
         height: 450
         isCached: true
-  - title: "Federal agencies used facial recognition tech on George Floyd protesters, according to a new report"
-    excerpt: "Over the past few years, activists have raised the alarm about the growing use of facial recognition technology in the United States. Many say that in the hands of law enforcement agencies, the technology poses great surveillance concerns,"
-    publishedDateTime: 2021-06-30T22:09:00Z
-    webUrl: "https://www.mic.com/p/federal-agencies-used-facial-recognition-tech-on-george-floyd-protesters-according-to-a-new-report-82357352"
-    ampWebUrl: "https://www.mic.com/p/federal-agencies-used-facial-recognition-tech-on-george-floyd-protesters-according-to-a-new-report-82357352/amp"
-    cdnAmpWebUrl: "https://www-mic-com.cdn.ampproject.org/c/s/www.mic.com/p/federal-agencies-used-facial-recognition-tech-on-george-floyd-protesters-according-to-a-new-report-82357352/amp"
+  - title: "Government report finds 20 different agencies use facial recognition"
+    excerpt: "A new report from the Government Accountability Office (GAO) found that 20 federal agencies either own or use facial recognition technology."
+    publishedDateTime: 2021-06-29T17:46:00Z
+    webUrl: "https://www.dailydot.com/debug/gao-facial-recognition-federal-agencies/"
+    ampWebUrl: "https://www.dailydot.com/debug/gao-facial-recognition-federal-agencies/?amp"
+    cdnAmpWebUrl: "https://www-dailydot-com.cdn.ampproject.org/c/s/www.dailydot.com/debug/gao-facial-recognition-federal-agencies/?amp"
     type: article
     provider:
-      name: Mic
-      domain: mic.com
-    quality: 45
+      name: The Daily Dot
+      domain: dailydot.com
+    quality: 59
     images:
-      - url: "https://imgix.bustle.com/uploads/shutterstock/2020/11/12/395be3f3-79cd-40ca-8d28-7a2a3b7b360e-shutterstock-1783490738.jpg?w=1200&h=630&fit=crop&crop=faces&fm=jpg"
-        width: 1200
-        height: 630
+      - url: "https://uploads.dailydot.com/2021/06/GAO-Report-Federal-Government-Facial-Recognition.jpg?auto=compress%2Cformat&ixlib=php-3.3.0"
+        width: 2000
+        height: 1000
+        isCached: true
+  - title: "Watchdog: 10 Government Agencies Deployed Clearview AI Facial Recognition Tech"
+    excerpt: "A Government Accountability Office report details how agencies used different versions of the biometric technology during the pandemic and protests."
+    publishedDateTime: 2021-06-29T21:06:00Z
+    webUrl: "https://www.nextgov.com/emerging-tech/2021/06/watchdog-10-government-agencies-deployed-clearview-ai-facial-recognition-tech/176411/"
+    type: article
+    provider:
+      name: Nextgov
+      domain: nextgov.com
+    quality: 50
+    images:
+      - url: "https://cdn.nextgov.com/media/img/cd/2021/06/29/NGfacialtech20210629/open-graph.jpg"
+        width: 400
+        height: 400
         isCached: true
 
 secured: "XkCxASmLTld99FQA/j4McWfdNwBqVdw4tr5Ie+DIbfgc+HvTYPnrg44y2XtousO9ZJP0qHvyym0+eHyG88getQxj6x6WO9ktMawelZKV2lVeERorABzKrMSOq1XuDUWRu501B4ZA2JcRe2FLAc6WIuAgDZrmumtW8AvVJ6sP3o/TzOCpvrUj8fvvUg5MXhm5SmjWhvIjKCwnz1QkMG1K9de0MW8SV3As0veDNV9UjdWPi7dboMupYGFyCM3+2XDVzS/M9QeluA3IiLpwHt61hZFcFFrkAgj9w7UawXfYI8JJebAgQ4kVWkLszqjPlJoPv30ejMEMLGpU/2N16y8Lq2Eu3OrgDIjU03GcoU6Ptb8=;pA5Hq1N78E3Yhx9Lzpo5Zg=="
