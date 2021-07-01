@@ -3,8 +3,8 @@ category: news
 title: "CrowdStrike Wins 2021 Amazon Web Services Global Public Sector Partner and Canada AWS Partner Awards"
 excerpt: "CrowdStrike, a leader in cloud-delivered endpoint and workload protection, today announced it has been named the winner of two key Amazon Web Services ( News - Alert) (AWS) partner-focused awards - the 2021 AWS Global Public Sector Partner Award for best cybersecurity solution and 2021 Canada AWS Partner Award as the ISV Partner of the Year."
 publishedDateTime: 2021-06-30T12:12:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-crowdstrike-wins-2021-amazon-web-services-global-public-/2021/06/30/9400745.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-crowdstrike-wins-2021-amazon-web-services-global-public-/2021/06/30/9400745.htm"
+originalUrl: "https://www.tmcnet.com/usubmit/2021/06/30/9400745.htm"
+webUrl: "https://www.tmcnet.com/usubmit/2021/06/30/9400745.htm"
 type: article
 quality: 19
 heat: 19
@@ -18,6 +18,6 @@ topics:
   - AWS AI
   - AI
 
-secured: "v9kiWYZ04lXhWHp/SdxQjr/77759KaPCU4WVyLIj8X5N4Gk/nUXaQ6sYeO+KkU8ZC5q4lDgRoqnEnmNkxGJhdXfPkATV8YfT21lKuBM8Z1VKNCZWvzNjMUcsr7KAY57QskAPOstv1g5GRcZGKQXUXeNpViQ0usI26FXAf1/vzhQOD8s9fNtqYHhkDmRDnyaO04TVXoRqkulWSPRReSAGJf58gR5vpPn03/L+cQOKNsCpd/trTQjmeQUmF2erND3/rroma3tyvujM3zfr8/VDgVWrcJepF+VlzD/jsOCnWndUv7koDzNQ9fhpl3gWaeZxd+qeEQxUtHm5SOQNPJRk1njUM/JD3f/8aqPDlyDdtv0=;Gbo+xXsGnarkhpi/z2uP7A=="
+secured: "MxNpy5rv6pCJbyP8cczmgsJsj1uKhslhT94i/oUtrHq+faiLxbCe76ioVLLVdxl1g6utuKhh2g0WXgFKC1chEaKOixw4FE9p4Z0dGxYtxowZUhAjaSmzrY4I4auHtrcftzU5QxNSpmMg4U77d7H3AA+mZGcgadhcypv0ALZ7WA0pmwIPs7lS5MuZi4forTj4g3DAVfnAvZ3NSZ2M0fcIxHjL8AQFq6bBPkYRQf3arh0VhNXnH5GYR0z5Ejw/GcCn0Ow6k9qSB6RD/TuJfV1xHV+wLLOJlNEttmhXpS145Anwkdyb4+wwHQEF+C/j6mLTwYZU/RYSFZZ33ujHTkRPUa3WyShaoCNR7lYpoxF26q8=;np5uWMcz//0C+E20Pxjk3g=="
 ---
 

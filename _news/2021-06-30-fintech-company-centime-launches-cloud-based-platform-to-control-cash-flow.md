@@ -46,6 +46,15 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 41
+  - title: "Carro’s fintech arm launches financing plan for EVs, hybrid cars"
+    excerpt: "The GoGreen initiative allows private-hire vehicle drivers to enjoy lower interest rates as a reward for going green."
+    publishedDateTime: 2021-07-01T01:46:00Z
+    webUrl: "https://www.techinasia.com/carros-fintech-arm-launches-financing-plan-evs-hybrids"
+    type: article
+    provider:
+      name: Techinasia
+      domain: techinasia.com
+    quality: 34
   - title: "Fintech benefits consumers and intermediaries"
     excerpt: "The different technologies associated with fintech assist consumers with their decision-making process regarding financial products and enable intermediaries to provide their clients with needs-driven solutions and"
     publishedDateTime: 2021-06-28T10:59:00Z

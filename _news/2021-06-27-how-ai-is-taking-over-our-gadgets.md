@@ -9,8 +9,8 @@ ampWebUrl: "https://www.livemint.com/technology/gadgets/how-ai-is-taking-over-ou
 cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/gadgets/how-ai-is-taking-over-our-gadgets/amp-11624806291279.html"
 type: article
 quality: 61
-heat: -1
-published: false
+heat: 91
+published: true
 
 provider:
   name: Mint
@@ -28,22 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "How AI Is Taking Over Our Gadgets"
-    excerpt: "AI is moving from data centers to devices, making everything from phones to tractors faster and more private. These newfound smarts also come with pitfalls."
-    publishedDateTime: 2021-06-26T08:00:00Z
-    webUrl: "https://www.wsj.com/articles/how-ai-is-taking-over-our-gadgets-11624680004"
-    ampWebUrl: "https://www.wsj.com/amp/articles/how-ai-is-taking-over-our-gadgets-11624680004"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/how-ai-is-taking-over-our-gadgets-11624680004"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 87
-    images:
-      - url: "https://images.wsj.net/im-359618/social"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "How Artificial Intelligence Is Taking Over Our Gadgets"
     excerpt: "We're now witnessing a turning point for artificial intelligence, as more of it comes down from the clouds and into our smartphones and automobiles. While it's fair to say that AI that lives on the \"edge\" -- where you and I are -- is still far less powerful than its datacenter-based counterpart,"
     publishedDateTime: 2021-06-28T00:04:00Z

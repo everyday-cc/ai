@@ -9,7 +9,7 @@ ampWebUrl: "https://www.openpr.com/amp/2317721/market-survey-details-development
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2317721/market-survey-details-developments-in-the-artificial"
 type: article
 quality: 41
-heat: 41
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,129 @@ images:
     width: 720
     height: 480
     isCached: true
+
+related:
+  - title: "Artificial Intelligence (AI) Market Share, Company Overview, Growth, Development and Forecast by 2025"
+    excerpt: "Market at:  Global Artificial Intelligence (AI) Market valued approximately USD 16 billion in 2016 is anticipated to grow with a healthy growth rate of more than 36% over the forecast period 2017-2025."
+    publishedDateTime: 2021-06-30T19:42:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-market-share-company-overview-growth-development-and-forecast-by-2025-2021-06-30"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 69
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Facial Recognition Market by Size, Growth, Opportunity and Forecast to 2028"
+    excerpt: "Selbyville, Delaware According to the research report titled 'GLOBAL Facial Recognition Market 2019-2028', available with Market Study Report LLC, global facial recognition market is projected to expand at 14."
+    publishedDateTime: 2021-06-28T05:21:00Z
+    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-market-by-size-growth-opportunity-and-forecast-to-2028-2021-06-28"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 67
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Automotive Artificial Intelligence (AI) Market Analysis on Trends, Growth, Opportunities and Forecast 2025"
+    excerpt: "Selbyville, Delaware Market Study Report Has Added A New Report On Automotive Artificial Intelligence (AI) Market analysis mainly introduces the changing market dynamics in terms of covering all details inside analysis and opinion,"
+    publishedDateTime: 2021-06-30T19:43:00Z
+    webUrl: "https://www.marketwatch.com/press-release/automotive-artificial-intelligence-ai-market-analysis-on-trends-growth-opportunities-and-forecast-2025-2021-06-30"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 64
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "AI In Computer Vision Market: 2021 Analysis, Share, Trends, and Overview 2021-2027"
+    excerpt: "The Global Artificial Intelligence AI in Computer Market Vision estimated at US 7 3 Billion in the year 2020 is projected to reach a revised size of US 84 4 Billion by 2027 growing at a CAGR of 41 over"
+    publishedDateTime: 2021-06-28T11:20:00Z
+    webUrl: "https://www.openpr.com/news/2315283/ai-in-computer-vision-market-2021-analysis-share-trends"
+    ampWebUrl: "https://www.openpr.com/amp/2315283/ai-in-computer-vision-market-2021-analysis-share-trends"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2315283/ai-in-computer-vision-market-2021-analysis-share-trends"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 48
+  - title: "Artificial Intelligence MARKET Market Size, Share, Industry Analysis, Growth COVID-19 Analysis and Forecast 2021-2030"
+    excerpt: "In a recent published report, Kenneth Research has updated the Artificial Intelligence MARKET report for for 2021"
+    publishedDateTime: 2021-06-30T04:49:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-market-size-share-industry-analysis-growth-covid-19-analysis-and-forecast-2021-2030-2021-06-30"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 46
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Neural Network Market: Size & Trends Shows a Rapid Growth by 2027"
+    excerpt: "The Global Artificial Neural Network Market size to grow from USD 117 million in 2019 to USD 296 million by 2027 at a Compound Annual Growth Rate CAGR of 20 during the forecast period 2021 2027 An artificial neuron network"
+    publishedDateTime: 2021-06-30T08:45:00Z
+    webUrl: "https://www.openpr.com/news/2317399/artificial-neural-network-market-size-trends-shows-a-rapid"
+    ampWebUrl: "https://www.openpr.com/amp/2317399/artificial-neural-network-market-size-trends-shows-a-rapid"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2317399/artificial-neural-network-market-size-trends-shows-a-rapid"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 38
+  - title: "Global Artificial Intelligence (AI) in Agriculture Market Size, Status and Forecast 2021-2027"
+    excerpt: "Pages Report] Check for Discount on Global Artificial Intelligence (AI) in Agriculture Market Size, Status and Forecast 2021-2027 report by QYResearch Group. Artificial Intelligence (AI) in Agriculture Market size is being"
+    publishedDateTime: 2021-06-29T07:32:00Z
+    webUrl: "https://www.reportsnreports.com/reports/4620930-global-artificial-intelligence-ai-in-agriculture-market-size-status-and-forecast-2021-2027.html"
+    type: article
+    provider:
+      name: ReportsnReports
+      domain: reportsnreports.com
+    quality: 23
+  - title: "COVID-19 Impact on Artificial Intelligence Chipsets Market - Global Industry Analysis, Size, Share, Growth, Trends and Forecast 2021-2027"
+    excerpt: "Artificial Intelligence Chipsets Market size exceeded USD 8 billion in 2019 and is estimated to grow at around 35 CAGR between 2021 and 2027 Artificial intelligence chipset market has reported a significant increase in size and value thanks to the"
+    publishedDateTime: 2021-06-28T09:08:00Z
+    webUrl: "https://www.openpr.com/news/2315091/covid-19-impact-on-artificial-intelligence-chipsets-market"
+    ampWebUrl: "https://www.openpr.com/amp/2315091/covid-19-impact-on-artificial-intelligence-chipsets-market"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2315091/covid-19-impact-on-artificial-intelligence-chipsets-market"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 4
+  - title: "Artificial Intelligence-Emotion Recognition Market Size 2021 Is Booming Across the Globe by Share, Growth, Segments and Forecast to 2026"
+    excerpt: "Global \" Artificial Intelligence-Emotion Recognition Market \"Growth (2021-2026): Emotion recognition is the process of identifying human emotion, most typically from facial expressions as well as from verbal expressions."
+    publishedDateTime: 2021-06-29T11:09:00Z
+    webUrl: "https://www.wicz.com/story/44203811/artificial-intelligence-emotion-recognition-market-size-2021-is-booming-across-the-globe-by-share-growth-segments-and-forecast-to-2026"
+    type: article
+    provider:
+      name: FOX 40 WICZ TV
+      domain: wicz.com
+    quality: 4
+    images:
+      - url: "https://WICZ.images.worldnow.com/images/20397967_G.png"
+        width: 1200
+        height: 628
+        isCached: true
+  - title: "Global Artificial Intelligence (AI) in Medical Diagnostics Market 2021 by Company, Regions, Type and Application, Forecast to 2026"
+    excerpt: "Pages Report] Check for Discount on Global Artificial Intelligence (AI) in Medical Diagnostics Market 2021 by Company, Regions, Type and Application, Forecast to 2026 report by Global Info Research. The Artificial Intelligence (AI) in Medical Diagnostics market report"
+    publishedDateTime: 2021-06-29T08:34:00Z
+    webUrl: "https://www.reportsnreports.com/reports/4621998-global-artificial-intelligence-ai-in-medical-diagnostics-market-2021-by-company-regions-type-and-application-forecast-to-2026.html"
+    type: article
+    provider:
+      name: ReportsnReports
+      domain: reportsnreports.com
+    quality: 2
 
 secured: "2IZEC6PSSkgWc65pKq5hEmHiYyCdXmZ5I1UiZfcI0WBi2XY6wK7BKhzVWp7ECLdQfCW7YiIxdvHgk47UA7TmPOKjn6ozJFTnSLjF4YJimPYoFV8VPPdhGlvSiUiHXhoIAeUStKI/95jgrdMuupU3erw0mPq05SJvCcit7O3GzzsB0apg5QFQGKgkJv2rcSPD6CyKXHjkOSLKRGkCx9g9BRqInJj4/VK3XTtWlbBv6kxWrBK4bONBcEjDgfAy4Llfo8QL3oir3Cx06fm0VzvwK3Vy5vUsLzjrbYLziV2jU69+ujUE4erlDLk7XCzUTgiuy2kcGv9GRRDEMq3ytzvyzkfL3McEFWvwomEQaQuqwzxkUFmlwjJ0Li8xD7L3OrHQo2q5eloPIULqZbe2+iJdZTAGqN+XdEMcqxL8RIpEFXxrbu7Ehgdoo6+p+VUxdijy4FqqKcVAF97pbSism3lfWqSJttqahrcq8e9LuHrLOsv3e1rF5TCsgYOcid+N43dqAriPzN3QD7eZJ2rxgEMYHw==;WbRhbW27qjUyKeuQoilUoA=="
 ---

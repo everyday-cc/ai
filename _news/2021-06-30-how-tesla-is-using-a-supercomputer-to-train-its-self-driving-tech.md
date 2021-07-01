@@ -35,20 +35,6 @@ related:
         width: 768
         height: 576
         isCached: true
-  - title: "How Tesla is using a supercomputer to train its self-driving tech"
-    excerpt: "The automaker's system includes a total of 5,760 GPUs. Tesla needs all that power to fuel its self-driving aspirations."
-    publishedDateTime: 2021-06-26T09:00:00Z
-    webUrl: "https://www.popsci.com/technology/tesla-self-driving-supercomputer/"
-    type: article
-    provider:
-      name: Popular Science
-      domain: popsci.com
-    quality: 54
-    images:
-      - url: "https://www.popsci.com/app/uploads/2021/06/25/ModelSPlaid-2.jpeg"
-        width: 1800
-        height: 1200
-        isCached: true
 
 secured: "L7v+gXWJjUq3J8g75AFK1P6+d6gHhl7ZxEkCmjdLxAVjZFpOv0xiB2tpfMslvDu2VY8NIkkMQ5jPvRf8kK7c5Q3YA1zWvRIkILg2OrN35hTTDzCtfScJhXrIZDp38D8a8zPFUy/XeqCaiTK1ShAWsJl+6aYY7rFVkBdMWr1RRBbDJSxjexf43DuweJm9itMGKAfsy6AbZdUwMCS01s+06uLEVJpXInc0Tq0BP7Zd95VZNVxrZVFHcPa3KwqWtYnikx3lRRyf8r2WV7AGow8zlA2zZHJLjOI/4ko2BOHtirDuY47aWmsw2sflnMtqO4ilJg//+Zjk35RzaVtrBaitPPX8pHWkKEMiEoFXPkUR19L7TzkYFcuNGuXizeRtNVSqY1kKAgsVl60DARthKSEa2nQDuUd5LC+tJUviitHR+p9CiBbloKbissnMFFaqdyN5NfVUlkEKmteAXu9pKX5BeLpA3gW+J8qfhA97hFFMdDPhIYwzGX77BEsITmZkkwIrXnPiwPffFlrSNmdZRLV/NQ==;IWFV2BEybEZQGf9N47Cwaw=="
 ---

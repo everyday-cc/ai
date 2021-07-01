@@ -9,8 +9,8 @@ ampWebUrl: "https://www.cmcmarkets.com/en-gb/opto/will-a-self-driving-update-sen
 cdnAmpWebUrl: "https://www-cmcmarkets-com.cdn.ampproject.org/c/s/www.cmcmarkets.com/en-gb/opto/will-a-self-driving-update-send-teslas-share-price-higher_amp"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: CMC Markets
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "How Tesla is using a supercomputer to train its self-driving tech"
-    excerpt: "The automaker's system includes a total of 5,760 GPUs. Tesla needs all that power to fuel its self-driving aspirations."
-    publishedDateTime: 2021-06-26T09:00:00Z
-    webUrl: "https://www.popsci.com/technology/tesla-self-driving-supercomputer/"
-    type: article
-    provider:
-      name: Popular Science
-      domain: popsci.com
-    quality: 54
-    images:
-      - url: "https://www.popsci.com/app/uploads/2021/06/25/ModelSPlaid-2.jpeg"
-        width: 1800
-        height: 1200
-        isCached: true
   - title: "How Tesla is Using a Supercomputer to Train its Self-driving Tech"
     excerpt: "You can't buy a fully self-driving car today, but automakers around the globe are racing to become the first company to place such a vehicle on dealer lots. No two companies are taking the same technological path to achieve this plan,"
     publishedDateTime: 2021-06-29T17:30:00Z

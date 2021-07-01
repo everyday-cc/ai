@@ -1,24 +1,30 @@
 ---
 category: news
 title: "BrainChip Takes a Look at what ML and AI Can Achieve With Arm Fellow Jem Davies"
-excerpt: "BrainChip Holdings Ltd (ASX: BRN) (OTCQX: BRCHF), a leading provider of ultra-low power high performance artificial intelligence technology, today announced that Jem Davies, VP, Fellow and GM of the Machine Learning Group at Arm,"
-publishedDateTime: 2021-06-30T23:45:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-brainchip-takes-look-what-ml-ai-achieve-with-/2021/06/30/9401492.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-brainchip-takes-look-what-ml-ai-achieve-with-/2021/06/30/9401492.htm"
+excerpt: "Latest ‘This is our Mission' podcast episode continues outside-looking-in theme with insight into the future of differentiated solutions and their impact on respective"
+publishedDateTime: 2021-06-30T23:40:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/21/06/b21800803/brainchip-takes-a-look-at-what-ml-and-ai-can-achieve-with-arm-fellow-jem-davies"
+webUrl: "https://www.benzinga.com/pressreleases/21/06/b21800803/brainchip-takes-a-look-at-what-ml-and-ai-can-achieve-with-arm-fellow-jem-davies"
 type: article
-quality: 47
-heat: 47
+quality: 67
+heat: 67
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AI Hardware
   - AI
   - Machine Learning
 
-secured: "F0LGEfhnmYQHUNIZ0Kgo+x0IYC7Kan7HJgvVF9o67XWM4WgYNXjLJv7msUX+ZTOPgpNnr9szscw/g4SLfu6oA4y2CWI1Nwch1AxObCjXTiAbpGwaTnHHEYeVR1z/CLt3mRATr7ObeGoG8ScCpuGYHXGvif5B//9zl+v4eUYvN0kk75nan5jOPyIR7hOSEP8bSnnKl5zSPcp5pE+RMG+WvNPJipf79J3cwbe0CaaD/bc1S/8d81vP+mD4yfYDdW+oHiackts3GCTPmxUGp1EH/SeDshqoYEy/sbSvGHIFd0Dgg3R7xhaG7/ERGy+GSAVEfpX7Nkxk2pnbesndXX6gUzPlRTsy8CWIK8caOWw5Vyg=;cJ974KxbDLSgWdh1whD1qg=="
+images:
+  - url: "https://cdn.benzinga.com/files/imagecache/og_image_social_share_1200x630/sites/all/themes/bz2/images/bz-icon.png"
+    width: 1200
+    height: 630
+    isCached: true
+
+secured: "E2uz8tMUQCh1EHw9l34BMgctCOzvkdpv14eqGf9LC9n4h6QZJ/a16Me/nsQlBUCxfB3MWtVwQttnCWLljFRYkGOCmSDp2GlXoSMCRDmj58cvJWZi7wDEHdMK02VRJZ6lLIUW1/4S7GA8C9uF+hx+2tkzwiK8lQXZm194Qct3sr2x+Troazjos29kv3w2sjOpArEVeK4cMav3KiTTN8M2u00lMrcm4v2nUIXlcr+7rbZdR290vO4ePk/DWV+rcslUg7StYu/Dh4RHACXqgcWOX0mSwJ7WU1q5ExjLBnc2K+MSCJd8GlcwyhbAnLgsxyywRKDbyc2E/xjsdWeaNw+x8GkMCYpTrlA3nsgR0gqhV+8=;jeIkigyH1DkesG1Ly607LQ=="
 ---
 

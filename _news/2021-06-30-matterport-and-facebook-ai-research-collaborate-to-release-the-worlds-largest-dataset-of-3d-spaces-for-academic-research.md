@@ -25,21 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "Facebook AI guru says its use should be regulated, rather than the technology"
-    excerpt: "Facebook's chief AI scientist and a company's vice president, Yann LeCun, is one of the computer scientists behind modern artificial intelligence."
-    publishedDateTime: 2021-06-30T18:06:00Z
-    webUrl: "https://ewn.co.za/2021/06/30/facebook-ai-guru-says-its-use-should-be-regulated-rather-than-the-technology"
-    ampWebUrl: "https://ewn.co.za/2021/06/30/facebook-ai-guru-says-its-use-should-be-regulated-rather-than-the-technology/amp"
-    cdnAmpWebUrl: "https://ewn-co-za.cdn.ampproject.org/c/s/ewn.co.za/2021/06/30/facebook-ai-guru-says-its-use-should-be-regulated-rather-than-the-technology/amp"
+  - title: "Gores Holdings VI Up 12% as Matterport to Collaborate With Facebook AI Research"
+    excerpt: "By Josh Beckerman Shares of blank-check company Gores Holdings VI Inc., which is merging with spatial data company Matterport, rose 12% to $16"
+    publishedDateTime: 2021-06-30T17:57:00Z
+    webUrl: "https://www.marketwatch.com/story/gores-holdings-vi-up-12-as-matterport-to-collaborate-with-facebook-ai-research-271625075865"
+    ampWebUrl: "https://www.marketwatch.com/amp/story/gores-holdings-vi-up-12-as-matterport-to-collaborate-with-facebook-ai-research-271625075865"
+    cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/gores-holdings-vi-up-12-as-matterport-to-collaborate-with-facebook-ai-research-271625075865"
     type: article
     provider:
-      name: EWN Sport
-      domain: ewn.co.za
-    quality: 56
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 85
     images:
-      - url: "http://cdn.primedia.co.za/primedia-broadcasting/image/upload/c_fill,h_437,w_700/wrnrplkdz0jwq9otarkl"
-        width: 700
-        height: 437
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "VrDvzG29aRbb8leFTpEUATToqJIRmFYjZu2a9vp0tcefPLsF01vHauDYyfwNTfm1yI1W7VqyxrA7AzgdbSkdATx2uwD/iXsD7ToB6hPt++8aIWwgKQcQDQltkDoN69I2+TOTJKbWkzOQsRepOMDJ+vkVZAUWAuq2TQDw43i9Rkt5M66V5Cd4Zyxvs499v8rSGjxVVKL28dr/Yqi8nvbe+E4VsPKKjf+Gpdf0G5BuuVtlo2K3lXJFPdSBBQ6NcyxnaLhgpVZ+kz+hSNhE9XIFvLqPPI843sjZoVMosLTy1Mp2+vRa04eF7VmkkMBe7rvE1k0pYM3uEts7niqNSnubgJWK8TkJQ+0PtfNUciYbtct68F9dpvixk4+kBBlzXB2UR4yvuE+bU6P26oWLW6v3scq5YwCIeEVNo5sTuaDLP0SmhuqOeUkwuD3IYJNlxRu+ajvmBYYtC9CLRIX5q2AlU9jknRjqKU8bYTJxYUtEsXVk76CgNcuUAKJxMd6LnrC/YXzoIKExWh/qu+IVkRz9fg==;w0g+/EW3+O4BRDXKoX9L/g=="

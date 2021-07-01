@@ -52,6 +52,15 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 41
+  - title: "Carro’s fintech arm launches financing plan for EVs, hybrid cars"
+    excerpt: "The GoGreen initiative allows private-hire vehicle drivers to enjoy lower interest rates as a reward for going green."
+    publishedDateTime: 2021-07-01T01:46:00Z
+    webUrl: "https://www.techinasia.com/carros-fintech-arm-launches-financing-plan-evs-hybrids"
+    type: article
+    provider:
+      name: Techinasia
+      domain: techinasia.com
+    quality: 34
   - title: "F|T: The FinTech Times – FinTech SPAC attack"
     excerpt: "Welcome to the FinTech Times, a weekly newsletter covering the biggest FinTech news from around the globe. If you want to read F|T before anyone else, make sure to subscribe using the form at the bottom of this page."
     publishedDateTime: 2021-06-28T09:30:00Z
