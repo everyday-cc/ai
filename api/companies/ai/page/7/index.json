@@ -4,6 +4,198 @@
   "page": 7,
   "value": [
     {
+      "path": "_companies/bash.ai.md",
+      "title": "Bash.ai",
+      "excerpt": "Currently, majority of the software or technologies used in the HR function facilitate only non- employee facing activities (backend functions).",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/bash.ai/index.json",
+      "webUrl": "https://everyday.cc/ai/company/bash.ai/",
+      "type": "profile",
+      "name": "Bash.ai",
+      "overview": "Currently, majority of the software or technologies used in the HR function facilitate only non- employee facing activities (backend functions).",
+      "website": "http://bash.ai/",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/bash.ai/",
+        "followers": 171
+      },
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/bash-ai"
+      },
+      "twitter": {
+        "username": "letsbashit",
+        "url": "https://twitter.com/letsbashit",
+        "followers": 58
+      },
+      "size": "11-50 employees",
+      "yearFounded": 2017,
+      "locations": [
+        "Gurugram, Haryana"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=AtqYoCjw3gA"
+        }
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/872382295134666752/dyQF2x9K_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Bash.ai",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_companies/beaconcure.md",
+      "title": "BeaconCure",
+      "excerpt": "AI-Driven Robots for Food Service, Retail, & Health Care",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/beaconcure/index.json",
+      "webUrl": "https://everyday.cc/ai/company/beaconcure/",
+      "type": "profile",
+      "name": "BeaconCure",
+      "overview": "AI-Driven Robots for Food Service, Retail, & Health Care",
+      "website": "https://www.beaconcure.com/",
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/beaconcure"
+      },
+      "twitter": {
+        "username": "beaconcure",
+        "url": "https://www.twitter.com/beaconcure",
+        "followers": 33
+      },
+      "yearFounded": 0,
+      "locations": [
+        "Tel Aviv-Yafo, Israel"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=kag2mOw2Tj0"
+        }
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1302975699662376960/ne6HT3Ec_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "BeaconCure",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_companies/bigpanda.io.md",
+      "title": "BigPanda",
+      "excerpt": "BigPanda Autonomous Operations platform helps IT Ops, NOC and DevOps teams detect, investigate, and resolve IT incidents faster and more easily than ever before. Powered by Open Box Machine Learning, BigPanda correlates IT noise into insights, automates incident management, and unifies fragmented IT operations. Customers such as Intel, TiVO, Turner Broadcasting and Workday rely on BigPanda to reduce their operating costs, improve service availability and performance, and de-risk and accelerate their digital transformation initiatives. Founded in 2012, BigPanda is backed by top-tier investors including Sequoia Capital, Mayfield, and Battery Ventures. Visit www.bigpanda.io for more information.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/bigpanda.io/index.json",
+      "webUrl": "https://everyday.cc/ai/company/bigpanda.io/",
+      "type": "profile",
+      "name": "BigPanda",
+      "overview": "BigPanda Autonomous Operations platform helps IT Ops, NOC and DevOps teams detect, investigate, and resolve IT incidents faster and more easily than ever before. Powered by Open Box Machine Learning, BigPanda correlates IT noise into insights, automates incident management, and unifies fragmented IT operations. Customers such as Intel, TiVO, Turner Broadcasting and Workday rely on BigPanda to reduce their operating costs, improve service availability and performance, and de-risk and accelerate their digital transformation initiatives. Founded in 2012, BigPanda is backed by top-tier investors including Sequoia Capital, Mayfield, and Battery Ventures. Visit www.bigpanda.io for more information.",
+      "website": "https://www.bigpanda.io/",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/bigpanda",
+        "followers": 5498
+      },
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/bigpanda"
+      },
+      "twitter": {
+        "username": "bigpanda",
+        "url": "https://twitter.com/bigpanda",
+        "followers": 3037
+      },
+      "size": "51-200 employees",
+      "yearFounded": 2012,
+      "locations": [
+        "Mountain View, CA",
+        "Mountain View, California"
+      ],
+      "funding": {
+        "status": "Late Stage Venture"
+      },
+      "topics": [
+        "AI"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1399579052982226946/uQ6DCZ2l_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "BigPanda",
+          "isCached": true
+        },
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C4D0BAQE4aaa5HQ_ZOQ/company-logo_200_200/0?e=1594857600&v=beta&t=1nApzJhZx4yTSZSTWAPOlJO0dQc8JhSpc-yfK-ufTtk",
+          "width": 400,
+          "height": 400,
+          "title": "logo",
+          "isCached": false
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_companies/bloomsbury.ai.md",
+      "title": "Bloomsbury AI",
+      "excerpt": "Bloomsbury AI is a software company helping people to execute repetitive tasks and scaling expertise.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/bloomsbury.ai/index.json",
+      "webUrl": "https://everyday.cc/ai/company/bloomsbury.ai/",
+      "type": "profile",
+      "name": "Bloomsbury AI",
+      "overview": "Bloomsbury AI is a software company helping people to execute repetitive tasks and scaling expertise.",
+      "website": "http://bloomsbury.ai/",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/bloomsbury-ai",
+        "followers": 273
+      },
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/bloomsbury-ai"
+      },
+      "twitter": {
+        "username": "bloomsburyai",
+        "url": "https://twitter.com/bloomsburyai",
+        "followers": 519
+      },
+      "size": "2-10 employees",
+      "yearFounded": 2015,
+      "locations": [
+        "London, England"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=N0mRn1bQyzU"
+        }
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/904720291846389761/ah7CdA1L_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Bloomsbury AI",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
       "path": "_companies/bluecanoelearning.md",
       "title": "Blue Canoe Learning",
       "excerpt": "Blue Canoe is an artificial intelligence (AI) B2B company that increases business productivity by improving the pronunciation and business communication of non-native English speaking employees. Blue Canoe uses a proven brain-science methodology, and scales it with speech recognition and machine learning, to create engaging mobile games that effectively help employees communicate clearly with colleagues and customers. Employees track their progress over time with an objective pronunciation score for continuous improvement.",
@@ -174,49 +366,6 @@
       "content": "\r\n"
     },
     {
-      "path": "_companies/botanic.io.md",
-      "title": "Botanic.io",
-      "excerpt": "Your friendly A.I. clinical assistant. I provide doctors with a smarter, simpler way to search clinical content.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/botanic.io/index.json",
-      "webUrl": "https://everyday.cc/ai/company/botanic.io/",
-      "type": "profile",
-      "name": "Botanic.io",
-      "overview": "Your friendly A.I. clinical assistant. I provide doctors with a smarter, simpler way to search clinical content.",
-      "website": "https://botanic.io",
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/botanic"
-      },
-      "twitter": {
-        "username": "botanic_io",
-        "url": "https://www.twitter.com/botanic_io",
-        "followers": 568
-      },
-      "yearFounded": 0,
-      "locations": [
-        "CA, USA"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
-      ],
-      "videos": [
-        {
-          "url": "https://www.youtube.com/watch?v=-RfVBN3nfRs"
-        }
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/879878141384073217/mLv_w8vA_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Botanic.io",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
       "path": "_companies/botmd.io.md",
       "title": "Bot M.D.",
       "excerpt": "Bot M.D. is an A.I assistant for Doctors.  Our A.I. instantly answers doctor questions on drugs, diseases, medical calculators as well as provides automatic voice to text transcriptions. Any doctor with a smartphone can download Bot M.D., making it a highly scalable platform to improve access to care in large markets.  We are always looking to hire awesome Android, React & iOS software developers as well as kickass, Data/ML and Backend engineers. ",
@@ -272,53 +421,6 @@
           "height": 400,
           "title": "logo",
           "isCached": false
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_companies/boulderai.md",
-      "title": "Boulder AI",
-      "excerpt": "Powering autonomous robots. Empowering their builders.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/boulderai/index.json",
-      "webUrl": "https://everyday.cc/ai/company/boulderai/",
-      "type": "profile",
-      "name": "Boulder AI",
-      "overview": "Powering autonomous robots. Empowering their builders.",
-      "website": "https://www.boulderai.com",
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/boulder-ai"
-      },
-      "twitter": {
-        "username": "boulderai",
-        "url": "https://www.twitter.com/boulderai",
-        "followers": 142
-      },
-      "yearFounded": 0,
-      "locations": [
-        "San Diego, CA"
-      ],
-      "funding": {
-        "status": "Seed"
-      },
-      "topics": [
-        "AI",
-        "AI Hardware",
-        "AI in Autos"
-      ],
-      "videos": [
-        {
-          "url": "https://www.youtube.com/watch?v=UoXpoP7ibGk"
-        }
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1078428191633489921/BpoV4n-T_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Boulder AI",
-          "isCached": true
         }
       ],
       "content": "\r\n"
@@ -574,64 +676,6 @@
       "content": "\r\n"
     },
     {
-      "path": "_companies/clarifyhealth.md",
-      "title": "Clarify Health Solutions",
-      "excerpt": "Clarify Health provides the breakthrough technology and analytics platform to personalize and optimize patient care journeys. Our purpose-built solutions - developed by a world-class team of data scientists and engineers from the financial services industry, top clinical operations experts, and logistics specialists - are transforming healthcare processes and workflows. Clarify delivers actionable insights that enable physicians, health systems, payers, and life sciences organizations to deliver better care today and evolve for a value-based world.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/clarifyhealth/index.json",
-      "webUrl": "https://everyday.cc/ai/company/clarifyhealth/",
-      "type": "profile",
-      "name": "Clarify Health Solutions",
-      "overview": "Clarify Health provides the breakthrough technology and analytics platform to personalize and optimize patient care journeys. Our purpose-built solutions - developed by a world-class team of data scientists and engineers from the financial services industry, top clinical operations experts, and logistics specialists - are transforming healthcare processes and workflows. Clarify delivers actionable insights that enable physicians, health systems, payers, and life sciences organizations to deliver better care today and evolve for a value-based world.",
-      "website": "https://www.clarifyhealth.com/",
-      "linkedin": {
-        "url": "https://www.linkedin.com/company/clarify-health-solutions",
-        "followers": 7518
-      },
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/clarify-health-solutions"
-      },
-      "twitter": {
-        "username": "clarifyhealth",
-        "url": "https://twitter.com/clarifyhealth",
-        "followers": 475
-      },
-      "size": "51-200 employees",
-      "yearFounded": 2015,
-      "locations": [
-        "San Francisco, CA"
-      ],
-      "funding": {
-        "status": "Early Stage Venture"
-      },
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ],
-      "videos": [
-        {
-          "url": "https://www.youtube.com/watch?v=j4LXE1HWZBk"
-        }
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/875390228067778561/DJQqpFAE_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Clarify Health Solutions",
-          "isCached": true
-        },
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C560BAQEMhUl0AvDjnQ/company-logo_200_200/0?e=1594857600&v=beta&t=YHFxjnbIB6TVu5qDajyOhNpNIAyVVdjDaJBcZN2K2hM",
-          "width": 400,
-          "height": 400,
-          "title": "logo",
-          "isCached": false
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
       "path": "_companies/climacell.co.md",
       "title": "ClimaCell",
       "excerpt": "Have you ever checked the weather only to be caught in an unexpected rainstorm without an umbrella? ClimaCell is revolutionizing weather forecasting. We are bringing a new approach to weather forecasting, and providing the forecast accuracy and reliability necessary for the 21st century.",
@@ -737,47 +781,63 @@
       "content": "\r\n"
     },
     {
-      "path": "_companies/cnvrg.io.md",
-      "title": "cnvrg.io",
-      "excerpt": "cnvrg.io is a full-stack data science platform that helps enterprises manage and scale AI. Its collaborative end-to-end solution enables companies to accelerate innovation and build high impact machine learning models. From Fortune 500 companies to startups, cnvrg.io helps data scientists solve complex problems, by building intelligent machines. The platform is used across industries by leading companies in finance, gaming, BI, automotive, manufacturing, e-commerce and more.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/cnvrg.io/index.json",
-      "webUrl": "https://everyday.cc/ai/company/cnvrg.io/",
+      "path": "_companies/cobaltrobotics.md",
+      "title": "Cobalt Robotics",
+      "excerpt": "At Cobalt Robotics, we build service robots that are maximally helpful for the better of everyone and creates safer, more secure and productive work environments starting with physical security and facilities management. Our unique Robots-as-a-Service (RaaS) model and human-in-the-loop approach create more effective operations at a fraction of the cost of traditional solutions. Organizations in every industry can benefit from Cobalt’s end-to-end service, which manages everything from hardware and software to people and onboarding.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/cobaltrobotics/index.json",
+      "webUrl": "https://everyday.cc/ai/company/cobaltrobotics/",
       "type": "profile",
-      "name": "cnvrg.io",
-      "overview": "cnvrg.io is a full-stack data science platform that helps enterprises manage and scale AI. Its collaborative end-to-end solution enables companies to accelerate innovation and build high impact machine learning models. From Fortune 500 companies to startups, cnvrg.io helps data scientists solve complex problems, by building intelligent machines. The platform is used across industries by leading companies in finance, gaming, BI, automotive, manufacturing, e-commerce and more.",
-      "website": "https://cnvrg.io/",
+      "name": "Cobalt Robotics",
+      "otherNames": [
+        "Cobalt"
+      ],
+      "overview": "At Cobalt Robotics, we build service robots that are maximally helpful for the better of everyone and creates safer, more secure and productive work environments starting with physical security and facilities management. Our unique Robots-as-a-Service (RaaS) model and human-in-the-loop approach create more effective operations at a fraction of the cost of traditional solutions. Organizations in every industry can benefit from Cobalt’s end-to-end service, which manages everything from hardware and software to people and onboarding.",
+      "website": "https://www.cobaltrobotics.com/",
       "linkedin": {
-        "url": "https://www.linkedin.com/company/cnvrg-io/",
-        "followers": 676
+        "url": "https://www.linkedin.com/company/cobaltrobotics/",
+        "followers": 1564
       },
       "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/cnvrg-io"
+        "url": "https://www.crunchbase.com/organization/cobalt-robotics-inc"
       },
       "twitter": {
-        "username": "cnvrg_io",
-        "url": "https://twitter.com/cnvrg_io",
-        "followers": 923
+        "username": "CobaltRobotics",
+        "url": "https://twitter.com/CobaltRobotics",
+        "followers": 1299
       },
-      "size": "11-50 employees",
+      "size": "51-200 employees",
       "yearFounded": 2016,
       "locations": [
-        "Jerusalem, Israel"
+        "San Mateo, CA",
+        "San Mateo, California"
       ],
       "funding": {
         "status": "Early Stage Venture"
       },
       "topics": [
         "AI",
-        "Machine Learning"
+        "AI in Robotics"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=68rBm8bm9AA"
+        }
       ],
       "heat": 50,
       "images": [
         {
-          "url": "https://pbs.twimg.com/profile_images/1402193200316624899/YF44rI-W_400x400.jpg",
+          "url": "https://pbs.twimg.com/profile_images/1151221901752061952/Mi4dWv8T_400x400.png",
           "width": 400,
           "height": 400,
-          "title": "cnvrg.io",
+          "title": "Cobalt Robotics",
           "isCached": true
+        },
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C4E0BAQHaQsKaLhb0iw/company-logo_200_200/0?e=1594857600&v=beta&t=hXO1B3_N8qbQMkHYnWJ4en2VkqmAwWn9kejnNX2rDno",
+          "width": 400,
+          "height": 400,
+          "title": "logo",
+          "isCached": false
         }
       ],
       "content": "\r\n"
@@ -933,59 +993,6 @@
       "content": "\r\n"
     },
     {
-      "path": "_companies/currenthealth.md",
-      "title": "Current Health",
-      "excerpt": "The Current Health universal patient management platform combines our FDA-cleared continuous, wireless wearable, an ecosystem of device integrations and advanced analytics to help physicians and patients make earlier decisions that avoid admission and improve health.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/currenthealth/index.json",
-      "webUrl": "https://everyday.cc/ai/company/currenthealth/",
-      "type": "profile",
-      "name": "Current Health",
-      "otherNames": [
-        "Snap40 Limited",
-        "snap40"
-      ],
-      "overview": "The Current Health universal patient management platform combines our FDA-cleared continuous, wireless wearable, an ecosystem of device integrations and advanced analytics to help physicians and patients make earlier decisions that avoid admission and improve health.",
-      "website": "https://www.currenthealth.com/",
-      "linkedin": {
-        "url": "https://www.linkedin.com/company/currenthealth/",
-        "followers": 2873
-      },
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/current-health"
-      },
-      "twitter": {
-        "username": "HeyCurrent",
-        "url": "https://twitter.com/HeyCurrent",
-        "followers": 1590
-      },
-      "size": "11-50 employees",
-      "yearFounded": 2015,
-      "locations": [
-        "New York, NY",
-        "New York, New York"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ],
-      "videos": [
-        {
-          "url": "https://www.youtube.com/watch?v=gPZa-lS56Ak"
-        }
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1084528882236178432/ygW2U0cI_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Current Health",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
       "path": "_companies/cybermdx.md",
       "title": "CyberMDX",
       "excerpt": "Using advanced network mapping and management technology, CyberMDX adds layers of protection and operations-improving cyber insights to healthcare organizations. ",
@@ -1030,6 +1037,62 @@
           "height": 400,
           "title": "CyberMDX",
           "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_companies/cyclicarx.md",
+      "title": "Cyclica",
+      "excerpt": "Cyclica is a Toronto-based, globally recognized biotechnology company that leverages artificial intelligence and computational biophysics to reshape the drug discovery process. Cyclica provides the pharmaceutical industry with an integrated, holistic, and end-to-end enabling platform focused on polypharmacology that enhances how scientists design, screen, and personalize medicines for patients while minimizing off-target side effects. By doing more with artificial intelligence, Cyclica aims to revolutionize a system troubled with attrition and costly failures, accelerate the drug discovery process, and develop medicines with greater precision.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/cyclicarx/index.json",
+      "webUrl": "https://everyday.cc/ai/company/cyclicarx/",
+      "type": "profile",
+      "name": "Cyclica",
+      "overview": "Cyclica is a Toronto-based, globally recognized biotechnology company that leverages artificial intelligence and computational biophysics to reshape the drug discovery process. Cyclica provides the pharmaceutical industry with an integrated, holistic, and end-to-end enabling platform focused on polypharmacology that enhances how scientists design, screen, and personalize medicines for patients while minimizing off-target side effects. By doing more with artificial intelligence, Cyclica aims to revolutionize a system troubled with attrition and costly failures, accelerate the drug discovery process, and develop medicines with greater precision.",
+      "website": "https://cyclicarx.com/",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/2620666",
+        "followers": 2261
+      },
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/cyclica"
+      },
+      "twitter": {
+        "username": "cyclica",
+        "url": "https://twitter.com/cyclica",
+        "followers": 1232
+      },
+      "size": "11-50 employees",
+      "yearFounded": 2013,
+      "locations": [
+        "Toronto, ON, Canada",
+        "Toronto, Ontario"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=UHArUciCDH4"
+        }
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1401960178283548674/7TG3Y-8D_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Cyclica",
+          "isCached": true
+        },
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C560BAQEeqnDcOiRZjw/company-logo_200_200/0?e=1594857600&v=beta&t=_UW_wK1qFOVieLjIDNCcSSlAfpopXdm5rltlfFxaexc",
+          "width": 400,
+          "height": 400,
+          "title": "logo",
+          "isCached": false
         }
       ],
       "content": "\r\n"
@@ -1387,6 +1450,55 @@
       "content": "\r\n"
     },
     {
+      "path": "_companies/ekar.ae.md",
+      "title": "Ekar",
+      "excerpt": "ekar is a market defining start up company in the UAE. Through the use of a smartphone app and installed technology in rental cars, users are able to seamlessly search, book and unlock our cars safely and securely for personal driving use.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/ekar.ae/index.json",
+      "webUrl": "https://everyday.cc/ai/company/ekar.ae/",
+      "type": "profile",
+      "name": "Ekar",
+      "overview": "ekar is a market defining start up company in the UAE. Through the use of a smartphone app and installed technology in rental cars, users are able to seamlessly search, book and unlock our cars safely and securely for personal driving use.",
+      "website": "https://ekar.ae/",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/ekar/",
+        "followers": 6324
+      },
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/ekar"
+      },
+      "twitter": {
+        "username": "MyEKar",
+        "url": "https://twitter.com/MyEKar",
+        "followers": 801
+      },
+      "size": "11-50 employees",
+      "yearFounded": 2015,
+      "locations": [
+        "Dubai, Dubai"
+      ],
+      "funding": {
+        "status": "Early Stage Venture"
+      },
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ],
+      "heat": 50,
+      "tags": [
+        "Autonomous Vehicles"
+      ],
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1147039057060515840/rYnzOJXT_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Ekar",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
       "path": "_companies/embodied.me.md",
       "title": "Embodied",
       "excerpt": "Paolo Pirjanian the former CTO of iRobot and founder &amp; CEO of Evolution Robotics (acquired by iRobot) founded Embodied with a mission to create the next big thing in robotics.  Embodied draws on more than 15 years of robotics commercialization experience, combined with our team's expertise in computational neuroscience, psychology, and storytelling and leverages the confluence of technologies including machine vision, speech, and machine learning to create robots that will revolutionize care and wellness for humans.  We are hiring!  See our web site and join us in creating robots that improve human wellness and quality of life.",
@@ -1427,105 +1539,6 @@
       "images": [
         {
           "url": "https://media-exp1.licdn.com/dms/image/C560BAQF2x1uqjVFKGA/company-logo_200_200/0?e=1594857600&v=beta&t=7avpbYKmEG7uCjYS0_jdqWd7-HmfSyM1SoyqaYQW9o0",
-          "width": 400,
-          "height": 400,
-          "title": "logo",
-          "isCached": false
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_companies/eyediagnosis.net.md",
-      "title": "IDx",
-      "excerpt": "IDx is a leading AI diagnostics company on a mission to transform the quality, accessibility, and affordability of healthcare. Founded in 2010 by a team of world-renowned clinician scientists, the company is focused on developing clinically-aligned autonomous algorithms that detect disease in medical images. By enabling diagnostic assessment in primary care settings, IDx aims to increase patient access to high-quality, affordable disease detection.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/eyediagnosis.net/index.json",
-      "webUrl": "https://everyday.cc/ai/company/eyediagnosis.net/",
-      "type": "profile",
-      "name": "IDx",
-      "overview": "IDx is a leading AI diagnostics company on a mission to transform the quality, accessibility, and affordability of healthcare. Founded in 2010 by a team of world-renowned clinician scientists, the company is focused on developing clinically-aligned autonomous algorithms that detect disease in medical images. By enabling diagnostic assessment in primary care settings, IDx aims to increase patient access to high-quality, affordable disease detection.",
-      "website": "https://www.eyediagnosis.net/",
-      "linkedin": {
-        "url": "https://www.linkedin.com/company/idxtechnologiesinc",
-        "followers": 1172
-      },
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/idx-2"
-      },
-      "size": "51-200 employees",
-      "yearFounded": 2010,
-      "locations": [
-        "Coralville, Iowa"
-      ],
-      "funding": {
-        "status": "Early Stage Venture"
-      },
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ],
-      "videos": [
-        {
-          "url": "https://www.youtube.com/watch?v=jmGvEYv3I2E"
-        }
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C560BAQE8hiaDfXNeSg/company-logo_200_200/0?e=1594857600&v=beta&t=bM7iA8YTbzNxDDcP4_h3jtQNJbMwGVJNPz_ehNa7PBo",
-          "width": 400,
-          "height": 400,
-          "title": "logo",
-          "isCached": false
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_companies/freedomrobotics.ai.md",
-      "title": "Freedom Robotics",
-      "excerpt": "Freedom Robotics is the leading provider of software infrastructure for modern robotics companies. Based in San Francisco, CA, Freedom Robotics creates mission critical software infrastructure to enable the next generation of robotics companies to build, operate, support and scale robots and robotic fleets. Freedom Robotics is platform agnostic and works with any robot and installs in seconds with just one line of code in order to help robotics companies bring their product to market 10x faster with half the resources.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/freedomrobotics.ai/index.json",
-      "webUrl": "https://everyday.cc/ai/company/freedomrobotics.ai/",
-      "type": "profile",
-      "name": "Freedom Robotics",
-      "overview": "Freedom Robotics is the leading provider of software infrastructure for modern robotics companies. Based in San Francisco, CA, Freedom Robotics creates mission critical software infrastructure to enable the next generation of robotics companies to build, operate, support and scale robots and robotic fleets. Freedom Robotics is platform agnostic and works with any robot and installs in seconds with just one line of code in order to help robotics companies bring their product to market 10x faster with half the resources.",
-      "website": "https://www.freedomrobotics.ai/",
-      "linkedin": {
-        "url": "https://www.linkedin.com/company/freedomrobotics/",
-        "followers": 277
-      },
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/freedom-robotics"
-      },
-      "twitter": {
-        "username": "FRDMROBOTICS",
-        "url": "https://twitter.com/FRDMROBOTICS",
-        "followers": 526
-      },
-      "size": "11-50 employees",
-      "yearFounded": 2018,
-      "locations": [
-        "San Francisco, CA"
-      ],
-      "funding": {
-        "status": "Seed"
-      },
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1153450184526852097/B_tcgtrN_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Freedom Robotics",
-          "isCached": true
-        },
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C560BAQEicfD2VUSuFQ/company-logo_200_200/0?e=1594857600&v=beta&t=OUFYSMVpyrQOq1KKei-sPYD-i7j1l-CfIeVlQb2Tics",
           "width": 400,
           "height": 400,
           "title": "logo",

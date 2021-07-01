@@ -4,38 +4,110 @@
   "page": 1,
   "value": [
     {
-      "path": "_companies/chorus.ai.md",
-      "title": "Chorus.ai",
-      "excerpt": "Chorus.ai is an AI conversation intelligence cloud platform for sales team that can transform conversations into data and insights.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/chorus.ai/index.json",
-      "webUrl": "https://everyday.cc/ai/company/chorus.ai/",
+      "path": "_companies/people.ai.md",
+      "title": "people.ai",
+      "excerpt": "People.ai accelerates enterprise growth through the power of AI. With the industry’s only Revenue Intelligence System, People.ai frees all customer-facing teams, including sales, marketing, and customer success, from manual data entry by automatically capturing all contacts and customer activity data, dynamically updating the CRM and providing actionable intelligence across all management tools, allowing them to realize their full selling capacity.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/people.ai/index.json",
+      "webUrl": "https://everyday.cc/ai/company/people.ai/",
       "type": "profile",
-      "name": "Chorus.ai",
-      "overview": "Chorus.ai is an AI conversation intelligence cloud platform for sales team that can transform conversations into data and insights.",
-      "website": "https://www.chorus.ai/",
+      "name": "people.ai",
+      "overview": "People.ai accelerates enterprise growth through the power of AI. With the industry’s only Revenue Intelligence System, People.ai frees all customer-facing teams, including sales, marketing, and customer success, from manual data entry by automatically capturing all contacts and customer activity data, dynamically updating the CRM and providing actionable intelligence across all management tools, allowing them to realize their full selling capacity.",
+      "website": "https://people.ai/",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/people.ai",
+        "followers": 5568
+      },
       "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/chorus-ai"
+        "url": "https://www.crunchbase.com/organization/people-ai"
       },
       "twitter": {
-        "username": "chorus_ai",
-        "url": "https://twitter.com/chorus_ai",
-        "followers": 6818
+        "username": "ppl_ai",
+        "url": "https://twitter.com/ppl_ai",
+        "followers": 1543
       },
-      "yearFounded": 0,
+      "size": "51-200 employees",
+      "yearFounded": 2016,
       "locations": [
-        "San Francisco and Tel Aviv"
+        "San Francisco, CA",
+        "San Francisco, California"
       ],
+      "funding": {
+        "status": "Late Stage Venture"
+      },
       "topics": [
         "AI",
         "AI in Sales"
       ],
-      "heat": 89,
+      "heat": 78,
       "images": [
         {
-          "url": "https://pbs.twimg.com/profile_images/1399802979327176705/4LrP7bT8_400x400.jpg",
+          "url": "https://pbs.twimg.com/profile_images/1194292082208202757/3pc4br8B_400x400.jpg",
           "width": 400,
           "height": 400,
-          "title": "Chorus.ai",
+          "title": "people.ai",
+          "isCached": true
+        },
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C4E0BAQHaKaCdbYu60w/company-logo_200_200/0?e=1594857600&v=beta&t=xUGGT3HKPtEDdlL-EkldUHNT897W-AcUvmaGaG67E84",
+          "width": 400,
+          "height": 400,
+          "title": "logo",
+          "isCached": false
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_companies/conversica.md",
+      "title": "Conversica",
+      "excerpt": "A self-driving car service designed for the cities we love. We're hiring! https://t.co/I4hVjCZWCQ",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/conversica/index.json",
+      "webUrl": "https://everyday.cc/ai/company/conversica/",
+      "type": "profile",
+      "name": "Conversica",
+      "overview": "A self-driving car service designed for the cities we love. We're hiring! https://t.co/I4hVjCZWCQ",
+      "website": "https://www.conversica.com",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/conversica",
+        "followers": 15771
+      },
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/conversica"
+      },
+      "twitter": {
+        "username": "myconversica",
+        "url": "https://twitter.com/myconversica",
+        "followers": 12647
+      },
+      "size": "201-500 employees",
+      "yearFounded": 2007,
+      "locations": [
+        "San Francisco, CA",
+        "Foster City, CA"
+      ],
+      "funding": {
+        "status": "Late Stage Venture"
+      },
+      "topics": [
+        "AI",
+        "AI in Sales",
+        "Natural Language Processing"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=i_Y1JD_VJvs"
+        }
+      ],
+      "heat": 72,
+      "tags": [
+        "Natural Language Generation"
+      ],
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/887468833916600320/8nOhBX6V_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Conversica",
           "isCached": true
         }
       ],
@@ -82,7 +154,7 @@
           "url": "https://www.youtube.com/watch?v=PGaBhUPCcxU"
         }
       ],
-      "heat": 83,
+      "heat": 72,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/1399753899955785737/zKcNajZP_400x400.jpg",
@@ -95,73 +167,27 @@
       "content": "\r\n"
     },
     {
-      "path": "_companies/people.ai.md",
-      "title": "people.ai",
-      "excerpt": "People.ai accelerates enterprise growth through the power of AI. With the industry’s only Revenue Intelligence System, People.ai frees all customer-facing teams, including sales, marketing, and customer success, from manual data entry by automatically capturing all contacts and customer activity data, dynamically updating the CRM and providing actionable intelligence across all management tools, allowing them to realize their full selling capacity.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/people.ai/index.json",
-      "webUrl": "https://everyday.cc/ai/company/people.ai/",
+      "path": "_companies/chorus.ai.md",
+      "title": "Chorus.ai",
+      "excerpt": "Chorus.ai is an AI conversation intelligence cloud platform for sales team that can transform conversations into data and insights.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/chorus.ai/index.json",
+      "webUrl": "https://everyday.cc/ai/company/chorus.ai/",
       "type": "profile",
-      "name": "people.ai",
-      "overview": "People.ai accelerates enterprise growth through the power of AI. With the industry’s only Revenue Intelligence System, People.ai frees all customer-facing teams, including sales, marketing, and customer success, from manual data entry by automatically capturing all contacts and customer activity data, dynamically updating the CRM and providing actionable intelligence across all management tools, allowing them to realize their full selling capacity.",
-      "website": "https://people.ai/",
-      "linkedin": {
-        "url": "https://www.linkedin.com/company/people.ai",
-        "followers": 5568
-      },
+      "name": "Chorus.ai",
+      "overview": "Chorus.ai is an AI conversation intelligence cloud platform for sales team that can transform conversations into data and insights.",
+      "website": "https://www.chorus.ai/",
       "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/people-ai"
+        "url": "https://www.crunchbase.com/organization/chorus-ai"
       },
       "twitter": {
-        "username": "ppl_ai",
-        "url": "https://twitter.com/ppl_ai",
-        "followers": 1543
-      },
-      "size": "51-200 employees",
-      "yearFounded": 2016,
-      "locations": [
-        "San Francisco, CA",
-        "San Francisco, California"
-      ],
-      "funding": {
-        "status": "Late Stage Venture"
-      },
-      "topics": [
-        "AI",
-        "AI in Sales"
-      ],
-      "heat": 72,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1194292082208202757/3pc4br8B_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "people.ai",
-          "isCached": true
-        },
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C4E0BAQHaKaCdbYu60w/company-logo_200_200/0?e=1594857600&v=beta&t=xUGGT3HKPtEDdlL-EkldUHNT897W-AcUvmaGaG67E84",
-          "width": 400,
-          "height": 400,
-          "title": "logo",
-          "isCached": false
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_companies/einstein.ai.md",
-      "title": "Salesforce Einstein",
-      "excerpt": "Einstein is a deep learning research and engineering organization for Salesforce.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/einstein.ai/index.json",
-      "webUrl": "https://everyday.cc/ai/company/einstein.ai/",
-      "type": "profile",
-      "name": "Salesforce Einstein",
-      "overview": "Einstein is a deep learning research and engineering organization for Salesforce.",
-      "website": "https://einstein.ai/",
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/einstein"
+        "username": "chorus_ai",
+        "url": "https://twitter.com/chorus_ai",
+        "followers": 6818
       },
       "yearFounded": 0,
+      "locations": [
+        "San Francisco and Tel Aviv"
+      ],
       "topics": [
         "AI",
         "AI in Sales"
@@ -169,10 +195,10 @@
       "heat": 65,
       "images": [
         {
-          "url": "https://pbs.twimg.com/profile_images/1291630668980449280/5mGdX9eY_400x400.jpg",
+          "url": "https://pbs.twimg.com/profile_images/1399802979327176705/4LrP7bT8_400x400.jpg",
           "width": 400,
           "height": 400,
-          "title": "Salesforce Einstein",
+          "title": "Chorus.ai",
           "isCached": true
         }
       ],
@@ -204,13 +230,43 @@
         "AI",
         "AI in Sales"
       ],
-      "heat": 58,
+      "heat": 65,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/885174521090646017/boQMtD4j_400x400.jpg",
           "width": 400,
           "height": 400,
           "title": "Clearbit",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_companies/einstein.ai.md",
+      "title": "Salesforce Einstein",
+      "excerpt": "Einstein is a deep learning research and engineering organization for Salesforce.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/einstein.ai/index.json",
+      "webUrl": "https://everyday.cc/ai/company/einstein.ai/",
+      "type": "profile",
+      "name": "Salesforce Einstein",
+      "overview": "Einstein is a deep learning research and engineering organization for Salesforce.",
+      "website": "https://einstein.ai/",
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/einstein"
+      },
+      "yearFounded": 0,
+      "topics": [
+        "AI",
+        "AI in Sales"
+      ],
+      "heat": 65,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1291630668980449280/5mGdX9eY_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Salesforce Einstein",
           "isCached": true
         }
       ],
@@ -334,69 +390,13 @@
           "url": "https://www.youtube.com/watch?v=HntmBF0px3A"
         }
       ],
-      "heat": 50,
+      "heat": 41,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/1410509538978013184/L2-aJGlS_400x400.png",
           "width": 400,
           "height": 400,
           "title": "Tact.ai",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_companies/conversica.md",
-      "title": "Conversica",
-      "excerpt": "A self-driving car service designed for the cities we love. We're hiring! https://t.co/I4hVjCZWCQ",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/conversica/index.json",
-      "webUrl": "https://everyday.cc/ai/company/conversica/",
-      "type": "profile",
-      "name": "Conversica",
-      "overview": "A self-driving car service designed for the cities we love. We're hiring! https://t.co/I4hVjCZWCQ",
-      "website": "https://www.conversica.com",
-      "linkedin": {
-        "url": "https://www.linkedin.com/company/conversica",
-        "followers": 15771
-      },
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/conversica"
-      },
-      "twitter": {
-        "username": "myconversica",
-        "url": "https://twitter.com/myconversica",
-        "followers": 12645
-      },
-      "size": "201-500 employees",
-      "yearFounded": 2007,
-      "locations": [
-        "San Francisco, CA",
-        "Foster City, CA"
-      ],
-      "funding": {
-        "status": "Late Stage Venture"
-      },
-      "topics": [
-        "AI",
-        "AI in Sales",
-        "Natural Language Processing"
-      ],
-      "videos": [
-        {
-          "url": "https://www.youtube.com/watch?v=i_Y1JD_VJvs"
-        }
-      ],
-      "heat": 0,
-      "tags": [
-        "Natural Language Generation"
-      ],
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/887468833916600320/8nOhBX6V_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Conversica",
           "isCached": true
         }
       ],

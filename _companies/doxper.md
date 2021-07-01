@@ -2,7 +2,7 @@
 name: "Doxper"
 overview: "📱App-based car rentals 📍#Dubai & #AbuDhabi 📍@ekar_ksa 🚙 Pay by the min/hr/day/month 📞800-MYEKAR ➕Tag #myekar"
 type: "profile"
-heat: 31
+heat: 140
 
 website: https://doxper.com
 
@@ -12,7 +12,7 @@ crunchbase:
 twitter:
   username: "solvemit"
   url: "https://www.twitter.com/solvemit"
-  followers: 15506
+  followers: 15505
 
 locations:
   - Dubai, United Arab Emirates
@@ -34,6 +34,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=OQlpH3-X7yg"
 
-secured: "Q4tkcNDImeFxmPa7691UGc3qSHIZaDx6150CmtlqCS5mfacvJAru9cnowsnBp4g4H3uA9sQYNFZvxQiegoQkuw3uPk1iV/iIqPcz6ieq6HSZhMNue2hKIgV7dJg3Yi+1NPVwmk5YGKMCU0hiTmifU6VXJi2PMzsd12iXGRfY27Aooum8tKITe9px4UPUNZ/PgCoiwWhecqTDGLphf1PxEN9Jc3wAfZGfssKEsYIGBlNvp+1JwXxB1VmJtsOi1D5Yzer5gZwmPgG9jpwGzwPEUMGQu47bOpAPDswCYhL19FjhBfuXxSdVG1WjLKvkbY8CBFBm248R8vPHDQ2bJfr4OzoRFu41hD3ATRzUB1MpKckecwn0jT/z9psB3XxA69a0o7JSbQMlW5b9Y3Ri2hej+Jyh+Z5Qnl3i2W9pVYOk1gQ=;KqWEWMFif7dtM4Y6GKlZKA=="
+secured: "/YK7h8Jh9gxbkkOM+LDr9QHKBqJeNyDaWUHFxzjdSfTd2Ul4Ziph3MU5327wP3CVoLXDOMX06TDM9XP13rVUFrPm79A1Z3OIiaVf2M24J0k/H1DAoGCuxW/xtgb5Clr3M97HU0BWgD3iNrPT6UwNoLraIfGvySUZss88eDvoSfAkuQDv91NlKrX6oxW+KOWtmtJbVTkiiyfMUlmrvdngJz7ACxe9Uk3lbQEUK9zXhnSS0+t4HUqvoyCTOdbAWa3yTGLIlHstvMGMrvoWBafiZkN7uZm5eiu9bBMgRhnXziMA8c2ZeXfB2cZS5otTjAn69Mh0XwISiAyHAke7h2P8U/5B+LZtmFoOe4aG6LbDiPezGkQzeKKziNW74HjovIsK854RsBL81dPYqXaNTcO6axO2dPSCBNr+YmHr0FJLky0=;2f50ZJYEpwvapPjb9k1DtQ=="
 ---
 

@@ -4,6 +4,168 @@
   "page": 6,
   "value": [
     {
+      "path": "_companies/observe.ai.md",
+      "title": "Observe.AI",
+      "excerpt": "Augmenting medical research with AI. Read our latest #research with @CLCCLeonBerard in @NatureMedicine https://t.co/VT0JF0jmVo",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/observe.ai/index.json",
+      "webUrl": "https://everyday.cc/ai/company/observe.ai/",
+      "type": "profile",
+      "name": "Observe.AI",
+      "overview": "Augmenting medical research with AI. Read our latest #research with @CLCCLeonBerard in @NatureMedicine https://t.co/VT0JF0jmVo",
+      "website": "https://observe.ai/",
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/observe-ai"
+      },
+      "twitter": {
+        "username": "observeai",
+        "url": "https://twitter.com/observeai",
+        "followers": 668
+      },
+      "yearFounded": 0,
+      "locations": [
+        "New York, NY"
+      ],
+      "funding": {
+        "status": "Seed"
+      },
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=sQwbipcFPYg"
+        }
+      ],
+      "heat": 58,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1405428369982824450/OKvua2_b_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Observe.AI",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_companies/owkin.md",
+      "title": "OWKIN",
+      "excerpt": "Owkin was co-founded in 2016 by Thomas Clozel, MD, a clinical research doctor and former assistant professor in clinical hematology and Gilles Wainrib, PhD, a pioneer in the field of Artificial Intelligence in biology.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/owkin/index.json",
+      "webUrl": "https://everyday.cc/ai/company/owkin/",
+      "type": "profile",
+      "name": "OWKIN",
+      "overview": "Owkin was co-founded in 2016 by Thomas Clozel, MD, a clinical research doctor and former assistant professor in clinical hematology and Gilles Wainrib, PhD, a pioneer in the field of Artificial Intelligence in biology.",
+      "website": "https://owkin.com/",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/owkin",
+        "followers": 3729
+      },
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/owkin-2"
+      },
+      "twitter": {
+        "username": "owkinscience",
+        "url": "https://www.twitter.com/owkinscience",
+        "followers": 2383
+      },
+      "size": "51-200 employees",
+      "yearFounded": 2016,
+      "locations": [
+        "New York, NY"
+      ],
+      "funding": {
+        "status": "Early Stage Venture"
+      },
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=JSdUHfUR5gg"
+        }
+      ],
+      "heat": 58,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/998741520852205568/d8fjQqUY_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "OWKIN",
+          "isCached": true
+        },
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C4D0BAQH2IrRbnYGE9Q/company-logo_200_200/0?e=1594857600&v=beta&t=_AOUBHvB83m3DnQ4sjUKF3s26fFbWJF3ORo8TLhL78A",
+          "width": 400,
+          "height": 400,
+          "title": "logo",
+          "isCached": false
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_companies/prophesee.ai.md",
+      "title": "Prophesee",
+      "excerpt": "Prophesee (formerly Chronocam) is the inventor of the world’s most advanced neuromorphic vision systems",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/prophesee.ai/index.json",
+      "webUrl": "https://everyday.cc/ai/company/prophesee.ai/",
+      "type": "profile",
+      "name": "Prophesee",
+      "overview": "Prophesee (formerly Chronocam) is the inventor of the world’s most advanced neuromorphic vision systems",
+      "website": "http://www.prophesee.ai/",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/chronocam",
+        "followers": 2595
+      },
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/chronocam"
+      },
+      "twitter": {
+        "username": "Prophesee_ai",
+        "url": "https://twitter.com/Prophesee_ai",
+        "followers": 1207
+      },
+      "size": "51-200 employees",
+      "yearFounded": 2014,
+      "locations": [
+        "Paris"
+      ],
+      "funding": {
+        "status": "Late Stage Venture"
+      },
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=L7DsXXUyRis"
+        }
+      ],
+      "heat": 58,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1407741049733328902/mT66uXhK_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Prophesee",
+          "isCached": true
+        },
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C510BAQHW5I8H_LBHiQ/company-logo_200_200/0?e=1594857600&v=beta&t=fHFU1sj7uJ17yMEZd--Eo267OJTbR8GBtcvN7jxKNIk",
+          "width": 400,
+          "height": 400,
+          "title": "logo",
+          "isCached": false
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
       "path": "_companies/skinvision.md",
       "title": "SkinVision",
       "excerpt": "The leading app for early detection of the most common types of #SkinCancer. Self-check now: https://t.co/gcMPVNzjxO",
@@ -52,6 +214,56 @@
           "width": 400,
           "height": 400,
           "title": "SkinVision",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_companies/soundhound.md",
+      "title": "SoundHound",
+      "excerpt": "We believe every product should have a voice. Creators of @SoundHound, @Houndify, and @HoundApp. #VoiceAI",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/soundhound/index.json",
+      "webUrl": "https://everyday.cc/ai/company/soundhound/",
+      "type": "profile",
+      "name": "SoundHound",
+      "overview": "We believe every product should have a voice. Creators of @SoundHound, @Houndify, and @HoundApp. #VoiceAI",
+      "website": "https://soundhound.com/",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/soundhound",
+        "followers": 0
+      },
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/soundhound"
+      },
+      "twitter": {
+        "username": "SoundHoundInc",
+        "url": "https://twitter.com/SoundHoundInc",
+        "followers": 557
+      },
+      "yearFounded": 0,
+      "locations": [
+        "Santa Clara, CA"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=VBfhwS3Dr3M"
+        }
+      ],
+      "heat": 58,
+      "tags": [
+        "Speech Recognition"
+      ],
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1403041790425374722/DU-bBlw-_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "SoundHound",
           "isCached": true
         }
       ],
@@ -107,141 +319,110 @@
       "content": "\r\n"
     },
     {
-      "path": "_companies/squirrelai.md",
-      "title": "Squirrel AI Learning",
-      "excerpt": "Squirrel AI Learning is the first pure-play AI-powered adaptive education provider in China.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/squirrelai/index.json",
-      "webUrl": "https://everyday.cc/ai/company/squirrelai/",
+      "path": "_companies/standard.ai.md",
+      "title": "Standard Cognition",
+      "excerpt": "Improving the retail checkout experience, by removing it entirely.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/standard.ai/index.json",
+      "webUrl": "https://everyday.cc/ai/company/standard.ai/",
       "type": "profile",
-      "name": "Squirrel AI Learning",
-      "overview": "Squirrel AI Learning is the first pure-play AI-powered adaptive education provider in China.",
-      "website": "https://www.squirrelai.com/",
+      "name": "Standard Cognition",
+      "overview": "Improving the retail checkout experience, by removing it entirely.",
+      "website": "https://standard.ai/",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/standardcognition.com/",
+        "followers": 1839
+      },
       "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/yixue-squirrel-ai"
+        "url": "https://www.crunchbase.com/organization/standard-cognition"
       },
       "twitter": {
-        "username": "SquirrelAI_Edu",
-        "url": "https://twitter.com/SquirrelAI_Edu",
-        "followers": 489
+        "username": "standardAI",
+        "url": "https://twitter.com/standardAI",
+        "followers": 2275
       },
-      "yearFounded": 0,
+      "size": "51-200 employees",
+      "yearFounded": 2017,
       "locations": [
-        "Shanghai"
+        "San Francisco, CA",
+        "San Francisco, California"
       ],
+      "funding": {
+        "status": "Early Stage Venture"
+      },
       "topics": [
-        "AI",
-        "AI in Education"
+        "AI"
       ],
       "heat": 58,
       "images": [
         {
-          "url": "https://pbs.twimg.com/profile_images/1259155145327288320/aN-PCWqc_400x400.jpg",
+          "url": "https://pbs.twimg.com/profile_images/1361741262500499457/du-nxobl_400x400.jpg",
           "width": 400,
           "height": 400,
-          "title": "Squirrel AI Learning",
+          "title": "Standard Cognition",
           "isCached": true
+        },
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C560BAQGD1HiVkL1Q9Q/company-logo_200_200/0?e=1594857600&v=beta&t=fQvHGsSn2fKXmK6P-OI6KBsL5VJXKRisCtTgAPpfVQU",
+          "width": 400,
+          "height": 400,
+          "title": "logo",
+          "isCached": false
         }
       ],
       "content": "\r\n"
     },
     {
-      "path": "_companies/taiger.md",
-      "title": "Taiger",
-      "excerpt": "TaskUs provides next generation customer experience that powers the world's most disruptive companies through amazing people and innovative technology.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/taiger/index.json",
-      "webUrl": "https://everyday.cc/ai/company/taiger/",
+      "path": "_companies/suki.ai.md",
+      "title": "Suki",
+      "excerpt": "Suki is an AI-powered, voice-enabled digital assistant for doctors that lifts the burden of documentation, enabling them to focus on what they love: treating patients.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/suki.ai/index.json",
+      "webUrl": "https://everyday.cc/ai/company/suki.ai/",
       "type": "profile",
-      "name": "Taiger",
-      "overview": "TaskUs provides next generation customer experience that powers the world's most disruptive companies through amazing people and innovative technology.",
-      "website": "http://www.taiger.com",
+      "name": "Suki",
+      "overview": "Suki is an AI-powered, voice-enabled digital assistant for doctors that lifts the burden of documentation, enabling them to focus on what they love: treating patients.",
+      "website": "https://www.suki.ai/",
       "linkedin": {
-        "url": "https://www.linkedin.com/company/taiger/",
-        "followers": 9793
+        "url": "https://www.linkedin.com/company/SukiHQ",
+        "followers": 14481
       },
       "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/taiger"
+        "url": "https://www.crunchbase.com/organization/sukihq"
       },
       "twitter": {
-        "username": "Taiger_CO",
-        "url": "https://twitter.com/Taiger_CO",
-        "followers": 552
+        "username": "SukiHQ",
+        "url": "https://www.twitter.com/SukiHQ",
+        "followers": 1613
       },
-      "size": "51-200 employees",
-      "yearFounded": 2009,
+      "size": "11-50 employees",
+      "yearFounded": 2017,
       "locations": [
-        "SG, MAD, NYC, DXB, NM, HK",
-        "Singapore, Singapore",
-        "Singapore , Singapore"
+        "Redwood City, CA",
+        "Redwood City, California"
       ],
       "funding": {
         "status": "Early Stage Venture"
       },
       "topics": [
         "AI",
-        "Natural Language Processing"
-      ],
-      "videos": [
-        {
-          "url": "https://www.youtube.com/watch?v=X9wiSLxokXA"
-        }
+        "AI in Healthcare",
+        "Natural Language Processing",
+        "Machine Learning"
       ],
       "heat": 58,
       "images": [
         {
-          "url": "https://pbs.twimg.com/profile_images/1405765524143833096/Cuzpr871_400x400.jpg",
+          "url": "https://pbs.twimg.com/profile_images/1156698809189064704/HbbjesAp_400x400.png",
           "width": 400,
           "height": 400,
-          "title": "Taiger",
+          "title": "Suki",
           "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_companies/taskus.md",
-      "title": "TaskUs",
-      "excerpt": "TaskUs provides next generation customer experience that powers the world's most disruptive companies through amazing people and innovative technology.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/taskus/index.json",
-      "webUrl": "https://everyday.cc/ai/company/taskus/",
-      "type": "profile",
-      "name": "TaskUs",
-      "overview": "TaskUs provides next generation customer experience that powers the world's most disruptive companies through amazing people and innovative technology.",
-      "website": "https://www.taskus.com/",
-      "linkedin": {
-        "url": "https://www.linkedin.com/company/taskus",
-        "followers": 42675
-      },
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/taskus"
-      },
-      "twitter": {
-        "username": "taskus",
-        "url": "https://twitter.com/taskus",
-        "followers": 4316
-      },
-      "size": "10,001+ employees",
-      "yearFounded": 2008,
-      "locations": [
-        "Los Angeles, CA",
-        "Santa Monica, CA"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
-      ],
-      "videos": [
+        },
         {
-          "url": "https://www.youtube.com/watch?v=W1V6Id1VrqU"
-        }
-      ],
-      "heat": 58,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1339767351122612224/frWCbdlU_400x400.jpg",
+          "url": "https://media-exp1.licdn.com/dms/image/C560BAQEYEMprol7fTg/company-logo_200_200/0?e=1594857600&v=beta&t=St3LAmADtAtLsdNouB8i67hlQjMwgQpRr-W1yUnDa4I",
           "width": 400,
           "height": 400,
-          "title": "TaskUs",
-          "isCached": true
+          "title": "logo",
+          "isCached": false
         }
       ],
       "content": "\r\n"
@@ -302,62 +483,276 @@
       "content": "\r\n"
     },
     {
-      "path": "_companies/viz.ai.md",
-      "title": "Viz",
-      "excerpt": "Viz.ai, Inc is emerging as the leader in applied artificial intelligence in healthcare. Our mission is to fundamentally improve how healthcare is delivered in the world, through intelligent software that promises to reduce time to treatment and improve access to care.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/viz.ai/index.json",
-      "webUrl": "https://everyday.cc/ai/company/viz.ai/",
+      "path": "_companies/trueface.ai.md",
+      "title": "Trueface.ai",
+      "excerpt": "Trueface is a face recognition company that applies advanced computer vision\u2028technology to camera footage and images to enable businesses to make immediate decisions based on identified patterns.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/trueface.ai/index.json",
+      "webUrl": "https://everyday.cc/ai/company/trueface.ai/",
       "type": "profile",
-      "name": "Viz",
-      "otherNames": [
-        "Viz.ai Inc."
-      ],
-      "overview": "Viz.ai, Inc is emerging as the leader in applied artificial intelligence in healthcare. Our mission is to fundamentally improve how healthcare is delivered in the world, through intelligent software that promises to reduce time to treatment and improve access to care.",
-      "website": "https://www.viz.ai/",
+      "name": "Trueface.ai",
+      "overview": "Trueface is a face recognition company that applies advanced computer vision\u2028technology to camera footage and images to enable businesses to make immediate decisions based on identified patterns.",
+      "website": "https://trueface.ai/",
       "linkedin": {
-        "url": "https://www.linkedin.com/company/viz.ai",
-        "followers": 4660
+        "url": "https://www.linkedin.com/company/trueface.ai",
+        "followers": 760
       },
       "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/viz"
+        "url": "https://www.crunchbase.com/organization/trueface-ai"
       },
       "twitter": {
-        "username": "viz_ai",
-        "url": "https://twitter.com/viz_ai",
-        "followers": 1647
+        "username": "trueface_ai",
+        "url": "https://twitter.com/trueface_ai",
+        "followers": 1592
       },
-      "size": "51-200 employees",
-      "yearFounded": 2016,
+      "size": "11-50 employees",
+      "yearFounded": 2013,
       "locations": [
-        "San Francisco, CA"
+        "Los Angeles, CA",
+        "Los Angeles, California"
       ],
       "funding": {
         "status": "Early Stage Venture"
       },
       "topics": [
         "AI",
-        "AI in Healthcare"
+        "Computer Vision"
       ],
       "videos": [
         {
-          "url": "https://www.youtube.com/watch?v=y3P9aVwDOig"
+          "url": "https://www.youtube.com/watch?v=j3cvmYhrgKU"
         }
+      ],
+      "heat": 58,
+      "tags": [
+        "Facial Recognition",
+        "Image Recognition"
+      ],
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1186378465508900865/N_mdyxUc_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Trueface.ai",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_companies/tubularlabs.md",
+      "title": "Tubular Labs",
+      "excerpt": "Tubular Labs is the global leader in video intelligence for the cross-platform world.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/tubularlabs/index.json",
+      "webUrl": "https://everyday.cc/ai/company/tubularlabs/",
+      "type": "profile",
+      "name": "Tubular Labs",
+      "overview": "Tubular Labs is the global leader in video intelligence for the cross-platform world.",
+      "website": "https://www.reflektion.com/",
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/tubular-labs"
+      },
+      "twitter": {
+        "username": "TubularLabs",
+        "url": "https://twitter.com/TubularLabs",
+        "followers": 3865
+      },
+      "yearFounded": 0,
+      "locations": [
+        "Mountain View, CA"
+      ],
+      "topics": [
+        "AI",
+        "AI in Marketing"
       ],
       "heat": 58,
       "images": [
         {
-          "url": "https://pbs.twimg.com/profile_images/1410438562370121730/_QkFCxqZ_400x400.jpg",
+          "url": "https://pbs.twimg.com/profile_images/1400569250431913991/D9w4zGP1_400x400.jpg",
           "width": 400,
           "height": 400,
-          "title": "Viz",
+          "title": "Tubular Labs",
           "isCached": true
-        },
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_companies/uptake.md",
+      "title": "Uptake Technologies",
+      "excerpt": "Put your data to work. |  @WEF Technology Pioneer & 3x @CNBC #Disruptor50",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/uptake/index.json",
+      "webUrl": "https://everyday.cc/ai/company/uptake/",
+      "type": "profile",
+      "name": "Uptake Technologies",
+      "overview": "Put your data to work. |  @WEF Technology Pioneer & 3x @CNBC #Disruptor50",
+      "website": "https://www.uptake.com/",
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/uptake-3"
+      },
+      "twitter": {
+        "username": "uptake",
+        "url": "https://twitter.com/uptake",
+        "followers": 5260
+      },
+      "yearFounded": 0,
+      "locations": [
+        "Chicago, IL"
+      ],
+      "funding": {
+        "status": "Late Stage Venture"
+      },
+      "topics": [
+        "AI"
+      ],
+      "heat": 58,
+      "images": [
         {
-          "url": "https://media-exp1.licdn.com/dms/image/C4D0BAQECPWOsd6AcBg/company-logo_200_200/0?e=1594857600&v=beta&t=F79EbLklely70ypxhAuvR6eGKKtViXJYcwuCZhvlbx4",
+          "url": "https://pbs.twimg.com/profile_images/1399756900103856133/9aUQHC12_400x400.jpg",
           "width": 400,
           "height": 400,
-          "title": "logo",
-          "isCached": false
+          "title": "Uptake Technologies",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_companies/verbit.ai.md",
+      "title": "Verbit",
+      "excerpt": "We're using smart AI technology to disrupt transcription and captioning with automation and speed.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/verbit.ai/index.json",
+      "webUrl": "https://everyday.cc/ai/company/verbit.ai/",
+      "type": "profile",
+      "name": "Verbit",
+      "overview": "We're using smart AI technology to disrupt transcription and captioning with automation and speed.",
+      "website": "https://verbit.ai/",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/verbit/",
+        "followers": 6214
+      },
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/verbit-ai"
+      },
+      "twitter": {
+        "username": "verbit_",
+        "url": "https://twitter.com/verbit_",
+        "followers": 1024
+      },
+      "size": "51-200 employees",
+      "yearFounded": 0,
+      "locations": [
+        "United States",
+        "New York, NY",
+        "New York, New York"
+      ],
+      "funding": {
+        "status": "Early Stage Venture"
+      },
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=C8AG8eTC8D0"
+        }
+      ],
+      "heat": 58,
+      "tags": [
+        "Speech Recognition"
+      ],
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1088376194125496325/KHgCHYZ5_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Verbit",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_companies/verkada.md",
+      "title": "Verkada",
+      "excerpt": "Verkada builds security cameras and software that detects action, identifies danger, and helps organizations keep people safe and secure.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/verkada/index.json",
+      "webUrl": "https://everyday.cc/ai/company/verkada/",
+      "type": "profile",
+      "name": "Verkada",
+      "overview": "Verkada builds security cameras and software that detects action, identifies danger, and helps organizations keep people safe and secure.",
+      "website": "https://www.verkada.com/",
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/verkada"
+      },
+      "twitter": {
+        "username": "VerkadaHQ",
+        "url": "https://twitter.com/VerkadaHQ",
+        "followers": 992
+      },
+      "yearFounded": 0,
+      "locations": [
+        "San Mateo, CA"
+      ],
+      "funding": {
+        "status": "Early Stage Venture"
+      },
+      "topics": [
+        "AI"
+      ],
+      "heat": 58,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/910630995350609920/QfH__s7U_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Verkada",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_companies/vian.ai.md",
+      "title": "Vianai",
+      "excerpt": "Our vision is to empower millions to build machine learning applications. CEOs, Senior Executives and Developers can use Vianai to turn AI into ROI.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/vian.ai/index.json",
+      "webUrl": "https://everyday.cc/ai/company/vian.ai/",
+      "type": "profile",
+      "name": "Vianai",
+      "overview": "Our vision is to empower millions to build machine learning applications. CEOs, Senior Executives and Developers can use Vianai to turn AI into ROI.",
+      "website": "https://www.vian.ai",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/vianai/",
+        "followers": 2550
+      },
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/vianai"
+      },
+      "twitter": {
+        "username": "VianaiSystems",
+        "url": "https://twitter.com/VianaiSystems",
+        "followers": 622
+      },
+      "size": "11-50 employees",
+      "yearFounded": 2019,
+      "locations": [
+        "Palo Alto, CA"
+      ],
+      "funding": {
+        "status": "Seed"
+      },
+      "topics": [
+        "AI"
+      ],
+      "heat": 58,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1171969525803184128/cFAPYNRR_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Vianai",
+          "isCached": true
         }
       ],
       "content": "\r\n"
@@ -419,38 +814,52 @@
       "content": "\r\n"
     },
     {
-      "path": "_companies/actioniq.md",
-      "title": "ActionIQ",
-      "excerpt": "ActionIQ is a purpose-built enterprise Customer Data Platform solving complex data problems: flow and scale, analytics, and orchestration.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/actioniq/index.json",
-      "webUrl": "https://everyday.cc/ai/company/actioniq/",
+      "path": "_companies/aeye.ai.md",
+      "title": "AEYE",
+      "excerpt": "AEye develops advanced vision hardware, software and algorithms that act as the eyes and visual cortex of autonomous vehicles. Since its demonstration of its solid state LiDAR scanner in 2013, AEye has pioneered breakthroughs in intelligent sensing. The company is based in Silicon Valley, and backed by world-renowned investors.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/aeye.ai/index.json",
+      "webUrl": "https://everyday.cc/ai/company/aeye.ai/",
       "type": "profile",
-      "name": "ActionIQ",
-      "overview": "ActionIQ is a purpose-built enterprise Customer Data Platform solving complex data problems: flow and scale, analytics, and orchestration.",
-      "website": "https://www.actioniq.com/",
+      "name": "AEYE",
+      "overview": "AEye develops advanced vision hardware, software and algorithms that act as the eyes and visual cortex of autonomous vehicles. Since its demonstration of its solid state LiDAR scanner in 2013, AEye has pioneered breakthroughs in intelligent sensing. The company is based in Silicon Valley, and backed by world-renowned investors.",
+      "website": "https://aeye.ai/",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/aeye-inc.",
+        "followers": 2947
+      },
       "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/actioniq"
+        "url": "https://www.crunchbase.com/organization/aeye-inc"
       },
       "twitter": {
-        "username": "ActionIQinc",
-        "url": "https://twitter.com/ActionIQinc",
-        "followers": 1156
+        "username": "AEyeInc",
+        "url": "https://twitter.com/AEyeInc",
+        "followers": 1166
       },
-      "yearFounded": 0,
+      "size": "11-50 employees",
+      "yearFounded": 2013,
       "locations": [
-        "Mountain View, CA"
+        "Pleasanton, CA",
+        "Pleasanton, California"
       ],
       "topics": [
         "AI",
-        "AI in Marketing"
+        "AI in Autos"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=L7OeqXiQdkI"
+        }
       ],
       "heat": 50,
+      "tags": [
+        "Autonomous Vehicles"
+      ],
       "images": [
         {
-          "url": "https://pbs.twimg.com/profile_images/1308162295256809475/DaNzK3jh_400x400.jpg",
+          "url": "https://pbs.twimg.com/profile_images/1016791203247882240/M7FlXnlJ_400x400.jpg",
           "width": 400,
           "height": 400,
-          "title": "ActionIQ",
+          "title": "AEYE",
           "isCached": true
         }
       ],
@@ -769,56 +1178,50 @@
       "content": "\r\n"
     },
     {
-      "path": "_companies/amprobotics.md",
-      "title": "AMP Robotics",
-      "excerpt": "AMP Robotics™ is an industrial artificial intelligence and robotics company that is changing the economics of material recovery and recycling.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/amprobotics/index.json",
-      "webUrl": "https://everyday.cc/ai/company/amprobotics/",
+      "path": "_companies/alphasense.md",
+      "title": "AlphaSense",
+      "excerpt": "AlphaSense transforms the way companies get information and make critical decisions with its AI-powered market intelligence platform. The company mission is to organize and semantically index global investment and market research data, allowing clients to be more efficient and outdo the competition. Used by the largest and fastest-growing corporations and financial firms worldwide, AlphaSense is headquartered in NYC with offices in London, Helsinki, San Francisco, and Boston.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/alphasense/index.json",
+      "webUrl": "https://everyday.cc/ai/company/alphasense/",
       "type": "profile",
-      "name": "AMP Robotics",
-      "overview": "AMP Robotics™ is an industrial artificial intelligence and robotics company that is changing the economics of material recovery and recycling.",
-      "website": "http://amprobotics.com/",
+      "name": "AlphaSense",
+      "overview": "AlphaSense transforms the way companies get information and make critical decisions with its AI-powered market intelligence platform. The company mission is to organize and semantically index global investment and market research data, allowing clients to be more efficient and outdo the competition. Used by the largest and fastest-growing corporations and financial firms worldwide, AlphaSense is headquartered in NYC with offices in London, Helsinki, San Francisco, and Boston.",
+      "website": "https://www.alpha-sense.com",
       "linkedin": {
-        "url": "https://www.linkedin.com/company/amp-robotics/",
-        "followers": 1365
+        "url": "https://www.linkedin.com/company/alphasense-inc-/",
+        "followers": 15579
       },
       "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/amp-robotics"
+        "url": "https://www.crunchbase.com/organization/alphasense"
       },
       "twitter": {
-        "username": "amprobotics",
-        "url": "https://twitter.com/amprobotics",
-        "followers": 1352
+        "username": "AlphaSenseInc",
+        "url": "https://twitter.com/AlphaSenseInc",
+        "followers": 3984
       },
-      "size": "11-50 employees",
-      "yearFounded": 2015,
+      "size": "51-200 employees",
+      "yearFounded": 2011,
       "locations": [
-        "Louisville, CO",
-        "Louisville, Colorado"
+        "New York, NY",
+        "New York, New York"
       ],
       "funding": {
         "status": "Early Stage Venture"
       },
       "topics": [
-        "AI",
-        "AI in Robotics"
-      ],
-      "videos": [
-        {
-          "url": "https://www.youtube.com/watch?v=C1PEsXWl-ZM"
-        }
+        "AI"
       ],
       "heat": 50,
       "images": [
         {
-          "url": "https://pbs.twimg.com/profile_images/647436657956818944/Qx6rgmxe_400x400.png",
+          "url": "https://pbs.twimg.com/profile_images/1037464564248530945/KK8j8zzU_400x400.jpg",
           "width": 400,
           "height": 400,
-          "title": "AMP Robotics",
+          "title": "AlphaSense",
           "isCached": true
         },
         {
-          "url": "https://media-exp1.licdn.com/dms/image/C560BAQGye8dvPM0w9Q/company-logo_200_200/0?e=1594857600&v=beta&t=oZAUxvov98uZrmPofdLj-5JIc6xvI2slfqfJODVBpCg",
+          "url": "https://media-exp1.licdn.com/dms/image/C4D0BAQE8EjIR1fxkQg/company-logo_200_200/0?e=1594857600&v=beta&t=fsqr-UrRH9igP5totsFjW59kkSqLqqi9oYUcWcTzJGs",
           "width": 400,
           "height": 400,
           "title": "logo",
@@ -869,121 +1272,6 @@
       "images": [
         {
           "url": "https://media-exp1.licdn.com/dms/image/C560BAQED_2JvG2BlSA/company-logo_200_200/0?e=1594857600&v=beta&t=Nw5IClrR4dOqahJDlGdRH-S06USx3An8AQzBtnp0KFg",
-          "width": 400,
-          "height": 400,
-          "title": "logo",
-          "isCached": false
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_companies/armorblox.md",
-      "title": "Deep 6 AI",
-      "excerpt": "Armorblox brings natural language understanding (NLU) to security to protect against identity-related attacks and data loss.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/armorblox/index.json",
-      "webUrl": "https://everyday.cc/ai/company/armorblox/",
-      "type": "profile",
-      "name": "Deep 6 AI",
-      "overview": "Armorblox brings natural language understanding (NLU) to security to protect against identity-related attacks and data loss.",
-      "website": "https://www.armorblox.com/",
-      "linkedin": {
-        "url": "https://www.linkedin.com/company/deep-6-ai/",
-        "followers": 2942
-      },
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/armorblox"
-      },
-      "twitter": {
-        "username": "armorblox",
-        "url": "https://twitter.com/armorblox",
-        "followers": 333
-      },
-      "size": "11-50 employees",
-      "yearFounded": 2017,
-      "locations": [
-        "Cupertino, CA",
-        "Pasadena, CA",
-        "Pasadena, California"
-      ],
-      "funding": {
-        "status": "Early Stage Venture"
-      },
-      "topics": [
-        "AI",
-        "Natural Language Processing",
-        "Machine Learning"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1400924277872996359/HO_TiUEl_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Deep 6 AI",
-          "isCached": true
-        },
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C4E0BAQF3RN1hr-mZRQ/company-logo_200_200/0?e=1594857600&v=beta&t=9Xzk4Ratq_4LcblVr-H41PPaQbm-C88v3QDMJjxxbiU",
-          "width": 400,
-          "height": 400,
-          "title": "logo",
-          "isCached": false
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_companies/arterys.md",
-      "title": "Arterys",
-      "excerpt": "Arterys was founded to facilitate the global advancement of medicine through data, artificial intelligence and technology. Because a significant proportion of the world's medical data resides in medical images, Arterys set out to tackle several issues around the space, including the enormous workloads radiologists face, the lack of accuracy with many of today's tools, and the need for increased consistency across practices. The company was the first to receive FDA clearance for a cloud-based product with Artificial Intelligence, and currently has 5 FDA clearances, and is active in 28 countries. Arterys continues to focus solving some of radiology's most pressing needs.  By making imaging diagnostics quantitative, intelligent and available, Arterys seeks to improve the lives of millions of patients. Arterys has offices in San Francisco, Calgary and Paris. For more information, please visit www.arterys.com. Follow Arterys on Twitter at @ArterysInc at https://twitter.com/ArterysInc.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/arterys/index.json",
-      "webUrl": "https://everyday.cc/ai/company/arterys/",
-      "type": "profile",
-      "name": "Arterys",
-      "overview": "Arterys was founded to facilitate the global advancement of medicine through data, artificial intelligence and technology. Because a significant proportion of the world's medical data resides in medical images, Arterys set out to tackle several issues around the space, including the enormous workloads radiologists face, the lack of accuracy with many of today's tools, and the need for increased consistency across practices. The company was the first to receive FDA clearance for a cloud-based product with Artificial Intelligence, and currently has 5 FDA clearances, and is active in 28 countries. Arterys continues to focus solving some of radiology's most pressing needs.  By making imaging diagnostics quantitative, intelligent and available, Arterys seeks to improve the lives of millions of patients. Arterys has offices in San Francisco, Calgary and Paris. For more information, please visit www.arterys.com. Follow Arterys on Twitter at @ArterysInc at https://twitter.com/ArterysInc.",
-      "website": "https://arterys.com/",
-      "linkedin": {
-        "url": "https://www.linkedin.com/company/2649064",
-        "followers": 6047
-      },
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/arterys"
-      },
-      "twitter": {
-        "username": "arterysinc",
-        "url": "https://twitter.com/arterysinc",
-        "followers": 1846
-      },
-      "size": "51-200 employees",
-      "yearFounded": 2016,
-      "locations": [
-        "San Francisco, CA",
-        "San Francisco, California"
-      ],
-      "funding": {
-        "status": "Early Stage Venture"
-      },
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ],
-      "videos": [
-        {
-          "url": "https://www.youtube.com/watch?v=R_GU1ne-oW0"
-        }
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/573556405367517186/t84NuUrh_400x400.png",
-          "width": 400,
-          "height": 400,
-          "title": "Arterys",
-          "isCached": true
-        },
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C4D0BAQFhL4_2ejOtlw/company-logo_200_200/0?e=1594857600&v=beta&t=l9eM-s7ww1obvrLKjSPoC1TPLxI276WNl2R6ANcJQY4",
           "width": 400,
           "height": 400,
           "title": "logo",
@@ -1123,65 +1411,6 @@
       "content": "\r\n"
     },
     {
-      "path": "_companies/avawomen.md",
-      "title": "Ava",
-      "excerpt": "The world’s first smart bracelet to precisely track your fertility, pregnancy and health – all while you sleep.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/avawomen/index.json",
-      "webUrl": "https://everyday.cc/ai/company/avawomen/",
-      "type": "profile",
-      "name": "Ava",
-      "overview": "The world’s first smart bracelet to precisely track your fertility, pregnancy and health – all while you sleep.",
-      "website": "https://www.avawomen.com/",
-      "linkedin": {
-        "url": "https://www.linkedin.com/company/ava-ag",
-        "followers": 9202
-      },
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/ava-3"
-      },
-      "twitter": {
-        "username": "avawomen",
-        "url": "https://twitter.com/avawomen",
-        "followers": 1618
-      },
-      "size": "51-200 employees",
-      "yearFounded": 2014,
-      "locations": [
-        "Zurich, Switzerland",
-        "Zurich"
-      ],
-      "funding": {
-        "status": "Early Stage Venture"
-      },
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ],
-      "videos": [
-        {
-          "url": "https://www.youtube.com/watch?v=Ok_A0kTEGpw"
-        }
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/669679794766807040/dG5DHc9Q_400x400.png",
-          "width": 400,
-          "height": 400,
-          "title": "Ava",
-          "isCached": true
-        },
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C4D0BAQHZc7mCj8ugQA/company-logo_200_200/0?e=1594857600&v=beta&t=z0cqMksSh4sqXm3jyISrbJ57kQ2N5qxRYa-BwX--V7c",
-          "width": 400,
-          "height": 400,
-          "title": "logo",
-          "isCached": false
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
       "path": "_companies/aviso.md",
       "title": "Aviso",
       "excerpt": "Aviso is the AI Compass that guides Sales and Go-to-Market teams to close more deals, accelerate growth, and find their revenue True North",
@@ -1269,264 +1498,6 @@
           "height": 400,
           "title": "logo",
           "isCached": false
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_companies/bash.ai.md",
-      "title": "Bash.ai",
-      "excerpt": "Currently, majority of the software or technologies used in the HR function facilitate only non- employee facing activities (backend functions).",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/bash.ai/index.json",
-      "webUrl": "https://everyday.cc/ai/company/bash.ai/",
-      "type": "profile",
-      "name": "Bash.ai",
-      "overview": "Currently, majority of the software or technologies used in the HR function facilitate only non- employee facing activities (backend functions).",
-      "website": "http://bash.ai/",
-      "linkedin": {
-        "url": "https://www.linkedin.com/company/bash.ai/",
-        "followers": 171
-      },
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/bash-ai"
-      },
-      "twitter": {
-        "username": "letsbashit",
-        "url": "https://twitter.com/letsbashit",
-        "followers": 58
-      },
-      "size": "11-50 employees",
-      "yearFounded": 2017,
-      "locations": [
-        "Gurugram, Haryana"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
-      ],
-      "videos": [
-        {
-          "url": "https://www.youtube.com/watch?v=AtqYoCjw3gA"
-        }
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/872382295134666752/dyQF2x9K_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Bash.ai",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_companies/beaconcure.md",
-      "title": "BeaconCure",
-      "excerpt": "AI-Driven Robots for Food Service, Retail, & Health Care",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/beaconcure/index.json",
-      "webUrl": "https://everyday.cc/ai/company/beaconcure/",
-      "type": "profile",
-      "name": "BeaconCure",
-      "overview": "AI-Driven Robots for Food Service, Retail, & Health Care",
-      "website": "https://www.beaconcure.com/",
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/beaconcure"
-      },
-      "twitter": {
-        "username": "beaconcure",
-        "url": "https://www.twitter.com/beaconcure",
-        "followers": 33
-      },
-      "yearFounded": 0,
-      "locations": [
-        "Tel Aviv-Yafo, Israel"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ],
-      "videos": [
-        {
-          "url": "https://www.youtube.com/watch?v=kag2mOw2Tj0"
-        }
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1302975699662376960/ne6HT3Ec_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "BeaconCure",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_companies/bearrobotics.ai.md",
-      "title": "Bear Robotics",
-      "excerpt": "Bear Robotics was started in 2017 to address the increased pressure faced by the food service industry around wages, labor supply, and cost efficiencies. Our company has developed a robot named Penny enabled by artificial intelligence and able to autonomously shuttle food from a kitchen out to tables and bring dishes back for cleaning.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/bearrobotics.ai/index.json",
-      "webUrl": "https://everyday.cc/ai/company/bearrobotics.ai/",
-      "type": "profile",
-      "name": "Bear Robotics",
-      "overview": "Bear Robotics was started in 2017 to address the increased pressure faced by the food service industry around wages, labor supply, and cost efficiencies. Our company has developed a robot named Penny enabled by artificial intelligence and able to autonomously shuttle food from a kitchen out to tables and bring dishes back for cleaning.",
-      "website": "https://bearrobotics.ai/",
-      "linkedin": {
-        "url": "https://www.linkedin.com/company/bear-robotics-inc/",
-        "followers": 657
-      },
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/bear-robotics-inc"
-      },
-      "twitter": {
-        "username": "bearrobotics",
-        "url": "https://twitter.com/bearrobotics",
-        "followers": 351
-      },
-      "size": "11-50 employees",
-      "yearFounded": 2017,
-      "locations": [
-        "Redwood City, CA",
-        "Redwood City, California"
-      ],
-      "funding": {
-        "status": "Seed"
-      },
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ],
-      "videos": [
-        {
-          "url": "https://www.youtube.com/watch?v=Dojvmqx49fw"
-        }
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1309924620028448768/MDOvZaWZ_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Bear Robotics",
-          "isCached": true
-        },
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C560BAQEqIRy7gZEHVA/company-logo_200_200/0?e=1594857600&v=beta&t=gc5j8qDA8DGV94-t17sqbaVbgVp7t6UPBxwRxmvMCko",
-          "width": 400,
-          "height": 400,
-          "title": "logo",
-          "isCached": false
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_companies/biofourmis.md",
-      "title": "Biofourmis",
-      "excerpt": "Biofourmis is a fast-growing global health IT start-up founded in Singapore that augments personalized patient care and therapies with Digital Therapeutics for better management of patients with complex chronic conditions. The company discovers, develops and delivers clinically validated software-based therapeutics to enable better outcomes for patients. These solutions include advanced tools for clinicians to deliver personalized care and cost-effective solutions for payers. Biofourmis has built Biovitals™, a highly sophisticated personalized artificial intelligence (AI)-powered health analytics platform that predicts clinical exacerbation days in advance before a critical event. Biovitals™ is the backbone of the company’s Digital Therapeutics product pipeline, which spans a number of therapeutic areas and disease states, including heart failure, acute coronary syndrome, COPD and chronic pain.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/biofourmis/index.json",
-      "webUrl": "https://everyday.cc/ai/company/biofourmis/",
-      "type": "profile",
-      "name": "Biofourmis",
-      "overview": "Biofourmis is a fast-growing global health IT start-up founded in Singapore that augments personalized patient care and therapies with Digital Therapeutics for better management of patients with complex chronic conditions. The company discovers, develops and delivers clinically validated software-based therapeutics to enable better outcomes for patients. These solutions include advanced tools for clinicians to deliver personalized care and cost-effective solutions for payers. Biofourmis has built Biovitals™, a highly sophisticated personalized artificial intelligence (AI)-powered health analytics platform that predicts clinical exacerbation days in advance before a critical event. Biovitals™ is the backbone of the company’s Digital Therapeutics product pipeline, which spans a number of therapeutic areas and disease states, including heart failure, acute coronary syndrome, COPD and chronic pain.",
-      "website": "http://www.biofourmis.com/",
-      "linkedin": {
-        "url": "https://www.linkedin.com/company/biofourmis/",
-        "followers": 4137
-      },
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/biofourmis-pte-ltd"
-      },
-      "twitter": {
-        "username": "biofourmis",
-        "url": "https://twitter.com/biofourmis",
-        "followers": 741
-      },
-      "size": "51-200 employees",
-      "yearFounded": 2015,
-      "locations": [
-        "Singapore, Singapore",
-        "Boston, MA",
-        "Boston, Massachusetts"
-      ],
-      "funding": {
-        "status": "Early Stage Venture"
-      },
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ],
-      "videos": [
-        {
-          "url": "https://www.youtube.com/watch?v=ui5HSwZJcvw"
-        }
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1262823251643977730/41pmXE41_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Biofourmis",
-          "isCached": true
-        },
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C510BAQEpYGJwOi05CA/company-logo_200_200/0?e=1594857600&v=beta&t=knev6GUHkP2EPBLuHT2modcQRTosoG1rFvWV_S0cbvE",
-          "width": 400,
-          "height": 400,
-          "title": "logo",
-          "isCached": false
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_companies/bloomsbury.ai.md",
-      "title": "Bloomsbury AI",
-      "excerpt": "Bloomsbury AI is a software company helping people to execute repetitive tasks and scaling expertise.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/bloomsbury.ai/index.json",
-      "webUrl": "https://everyday.cc/ai/company/bloomsbury.ai/",
-      "type": "profile",
-      "name": "Bloomsbury AI",
-      "overview": "Bloomsbury AI is a software company helping people to execute repetitive tasks and scaling expertise.",
-      "website": "http://bloomsbury.ai/",
-      "linkedin": {
-        "url": "https://www.linkedin.com/company/bloomsbury-ai",
-        "followers": 273
-      },
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/bloomsbury-ai"
-      },
-      "twitter": {
-        "username": "bloomsburyai",
-        "url": "https://twitter.com/bloomsburyai",
-        "followers": 519
-      },
-      "size": "2-10 employees",
-      "yearFounded": 2015,
-      "locations": [
-        "London, England"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
-      ],
-      "videos": [
-        {
-          "url": "https://www.youtube.com/watch?v=N0mRn1bQyzU"
-        }
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/904720291846389761/ah7CdA1L_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Bloomsbury AI",
-          "isCached": true
         }
       ],
       "content": "\r\n"

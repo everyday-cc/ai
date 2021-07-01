@@ -2,7 +2,7 @@
 name: "Proscia"
 overview: "Proscia is fighting cancer with intelligent software that changes the way the world practices pathology. Join us."
 type: "profile"
-heat: 65
+heat: 50
 
 website: https://proscia.com/
 
@@ -48,6 +48,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=8QjxuGXGIAw"
 
-secured: "WR/tmZk3Ws1MI5jx3Ix9k3urmOye+tumPtXd01GM3ZjQTY4vXp46p2PACOhpFkMnNbWNdvPFLJE/7Dt00TwZkVMntyskRmXLfpHkJRZ7P1vYkn+S8ihZpqQL0/Ret0DO62esCP5mE7izyi7E5VyuiVv0OKGfEv/ztFJlUZma/lqxskuNf6O/Tj1F3hsnmH0upQZ2adq+125k7UhCtysxACeXs1N2cUt6zQ62uqSooDjZlZ537PhSICSb6ltcLfyOAiMEhm08hkYWEEAF+ptL4WiWZPPV1JBI1lbtxqzJu6g8ST2xVBPPu/CkfXLQSJw/J9DZ2vHME7mBksygYn7lq1r/4G7letDnQOT8fdRsd1M4MGCu5wvK7ImYygBeB1dQ5L7cYxwj6GEPWc2GuHOC6fwlylzlS1bh1nys5W7NJlw=;QEka95V4IhXBGQMaiLg6SQ=="
+secured: "RyrjjxdSCGp07/B+aSsPUA3VvyXPe0t7kDBk+aNGf3ZWHehbDveXSOwwIYYNXOI+6SeMEQYl+jXNRJ5/H3wYkG7MJjjKdkFNZu0RCNeqf+PpG7LgPtzPeMwAxEqLCvWA94ewsvE1o4k5XWUAFh1gR6QStc7XMO8rtWAXrVhZ7c6A0qL2wijppV8sQF+8bZL7ci4eSGNpblImzBxnUACDPdeIKTJaBFb4RgnvfKktQT8E/gj4XCZoH9AiID+NTaZYZdu5luNuJ3w2etXjOg0qBejLzec9bkR8NVebAqbYGgkvNJC1C/RxzECST92ChXxyyMBmHu+ETbhGNY3wxc7mf6nkxtnDK4Ho//1IvBtKNpupeZtF/z4bPeSupN9jWXEogEVFnfYW3bhBXhlRfJYBO4NU5aJ3Mo2IcMACTI7Xj4g=;tFVhLT18/n4EavaFX3m/ZQ=="
 ---
 
