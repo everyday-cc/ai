@@ -25,35 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "Pittsburgh’s mayor on the city’s startup community and the difficulty of attracting venture capital"
-    excerpt: "TechCrunch is turning its spotlight on Pittsburgh, Pennsylvania with interviews, profiles, and an event featuring the outgoing mayor, CMU’s President, and local startups. The Rust Belt city has spent much of the past decade working to shed the image that arrived in the wake of the"
-    publishedDateTime: 2021-06-28T15:00:00Z
-    webUrl: "https://techcrunch.com/2021/06/28/pittsburghs-mayor-on-the-citys-startup-community-and-the-difficulty-of-attracting-venture-capital/"
-    ampWebUrl: "https://techcrunch.com/2021/06/28/pittsburghs-mayor-on-the-citys-startup-community-and-the-difficulty-of-attracting-venture-capital/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/06/28/pittsburghs-mayor-on-the-citys-startup-community-and-the-difficulty-of-attracting-venture-capital/amp/"
+  - title: "Robotics/AI Industry Leaders Announce Commitment to Make Pittsburgh the 'Robotics Capital of the World'"
+    excerpt: "PITTSBURGH, June 29, 2021 /PRNewswire-PRWeb/ -- The Pittsburgh Robotics Network (PRN), a group dedicated to the growth of the region's robotics and artificial intelligence companies, today announced it has attracted over 100 members – making Pittsburgh home to one of the world's most dynamic robotics ecosystems."
+    publishedDateTime: 2021-06-29T20:00:00Z
+    webUrl: "https://www.marketwatch.com/press-release/roboticsai-industry-leaders-announce-commitment-to-make-pittsburgh-the-robotics-capital-of-the-world-2021-06-29"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 60
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 83
     images:
-      - url: "https://techcrunch.com/wp-content/uploads/2021/06/GettyImages-1071999330-yellow.jpg?w=1024"
-        width: 1024
-        height: 684
-        isCached: true
-  - title: "VCs discuss the opportunities – and challenges – in Pittsburgh’s startup ecosystem"
-    excerpt: "\"What we need is more capital - angel funds, venture funds so that entrepreneurs have a variety of funding sources to go to locally.\""
-    publishedDateTime: 2021-06-28T16:32:00Z
-    webUrl: "https://techcrunch.com/2021/06/28/vcs-discuss-the-opportunities-and-challenges-of-the-pittsburgh-startup-ecosystem/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 46
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2021/06/lance-anderson-OrpU0RA_HQ8-unsplash-yellow.jpg?w=711"
-        width: 711
-        height: 400
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "WsmvbokRj+/t050zdIXsrbhsEgDcO4YtMWfbxV+Sh/jLvON2c4udPtK6/8WQKm1rL5eBChe/c2B0yRhSo9wXGkCdccB2JOQrIOw28UgdXbEwsuJNmXoozeJkCOq4w+EC1y020KB/Fo4W4fQZyXeTu9nYIw/XzXkD4gIpOHd15MRZ2tDL/YcUp9WKxEYmCTZmqdFv/pmMeJMDRwL7f/JTJD4NFdXybc/UT5EXfC7tz7f7i5h0CmRoFknRwZQ1GfqBuQHx1gy5Mt+dtPuXGSTn3RWTyrrmUlbzRmh6wNDc8WT8ZOqmDKDt4xpscb7D7iDt2ES08sj1TU28AXCT0KIby9uwVjEFVDYV+t/LtM7usmmj05gqIbMCsZ5p8FowcwHDDT0BSW6T394rQ6sph2y5Kvo1oF/Wa/5EqC1cJfAZnVNoV+ZaK9eQxQOKHE5rN/AeehsYV3EwOgDjp4KNqDbLLzGwuEtag3Zoj0d4mWwimnGgz+mZbg32cvXdsP5bLav7QeAcY8xNxf1Yn6PRG1sf8g==;sKHMEVGw4d7lJ4X64Wk8Iw=="

@@ -1,30 +1,22 @@
 ---
 category: news
 title: "From Creating a Zero Hunger Future, To Reimagining Health and Wellbeing with AI"
-excerpt: "Students’ Unlimited Creativity Unveiled in ‘Master Code’ Award and Kick-off Ceremonies HONG KONG SAR - Media OutReach - 28 June 2021 - Since 2016, Hong Kong Education City (EdCity) and Microsoft have co-organised the annual Master"
-publishedDateTime: 2021-06-28T05:10:00Z
-originalUrl: "https://www.asiaone.com/business/creating-zero-hunger-future-reimagining-health-and-wellbeing-ai"
-webUrl: "https://www.asiaone.com/business/creating-zero-hunger-future-reimagining-health-and-wellbeing-ai"
-ampWebUrl: "https://www.asiaone.com/business/creating-zero-hunger-future-reimagining-health-and-wellbeing-ai?amp"
-cdnAmpWebUrl: "https://www-asiaone-com.cdn.ampproject.org/c/s/www.asiaone.com/business/creating-zero-hunger-future-reimagining-health-and-wellbeing-ai?amp"
+excerpt: "Students’ Unlimited Creativity Unveiled in ‘Master Code’ Award and Kick-off CeremoniesHONG KONG SAR - Media OutReach - 28 June 2021 -"
+publishedDateTime: 2021-06-27T21:10:00Z
+originalUrl: "https://www.macaubusiness.com/from-creating-a-zero-hunger-future-to-reimagining-health-and-wellbeing-with-ai/"
+webUrl: "https://www.macaubusiness.com/from-creating-a-zero-hunger-future-to-reimagining-health-and-wellbeing-with-ai/"
 type: article
-quality: 55
+quality: 15
 heat: -1
 published: false
 
 provider:
-  name: Asia One
-  domain: asiaone.com
+  name: Macau Business
+  domain: macaubusiness.com
 
 topics:
   - Microsoft AI
   - AI
-
-images:
-  - url: "https://www.asiaone.com/sites/default/files/styles/a1_og_image/public/original_images/Jun2021/EDCITY.jpg?itok=Uop_9JUE"
-    width: 763
-    height: 509
-    isCached: true
 
 related:
   - title: "Lip-Reading By AI Self-Driving Cars Is Either Alarming Or Ingenious"
@@ -100,6 +92,20 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F600b279b38fb40a4043817d3%2F0x0.jpg"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Self-Driving Startup Taps Investors Amid Shifting Autonomous Market"
+    excerpt: "Venture firms including Founders Fund and Sutter Hill Partners are backing autonomous-driving startup Ghost Locomotion Inc."
+    publishedDateTime: 2021-07-01T14:16:00Z
+    webUrl: "https://www.wsj.com/articles/self-driving-startup-taps-investors-amid-shifting-autonomous-market-11625148000"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 54
+    images:
+      - url: "https://images.wsj.net/im-362878/social"
+        width: 1280
+        height: 640
         isCached: true
   - title: "That Hacked Electronic Roadside Display In Brooklyn Said Cars Are Bad, Which Startlingly Brings Up Questions About The Advent Of AI Self-Driving Cars"
     excerpt: "A hacked electronic roadside display panel had a lot of messages about the badness of today's cars, which indirectly raises interesting questions about the future and the advent of AI-based driverless self-driving cars."
@@ -231,6 +237,6 @@ related:
       domain: tmcnet.com
     quality: 0
 
-secured: "CSZDWyClHhjZqHOw+Kqas2+6UWfN802YDBAwUtqv36byoyrahSqP0phtqb7lMhpeiVftkOh/rbGcWxEtOju1OID2x4Or6sr2dyvH1A6MR2pSBMjpcDNMtyxQRSdvcLYSzI/K4DrRYZXASGhok0RFxFOhK6YaSqfXQJjLpDnxdpDe+d+skfVNJ7IFHiLn6VH3Y5Mqs0Fb7iCwSoWxoCVoHavGgZRqAL/GXCVVsqN8cXcqe5XJpZAk7TiNHbRzarABvF2ljpldIsa0RosOTZdtUYnl0S1dVG/FO/VKVdkqsu+FbIIC1Zjvx1mL9PvcrCfs90HChfQwU3wKNkhdc2Ou+I98/5AaXXIC2Fg5NSaSApA=;+9os3awHf1Ll5K9/R+UjxA=="
+secured: "JFAjFFtFZiGRzR+c5bzGxF6HFMSEEqiMOJHcTL7KsfBK1RXe4pDbwkp0FPTd3DfFhBrUAftVsF00wPR9kWoEH37cGzElgVedAgX82Knqt8XA1s7pLVLSlASQyX6oS9TCbG7Ozcgy1JoKGu6yktyGZ+IBQPfQ1n3gKODMg9wGvBQepxv6M8D7CjhgE11kVej7hDkpOYL+huSx4zUQowmLl19e8ADhPc9VpUKgO0A/d9ARGbP8fiXXZxNYNKLRdPQsewEKSUtfC4WOvv8srAqZHx2HQgUgnRLCPVJ2LG+Cg5fDeS2joGgzgx9/YkCncgsSIZqmkvL6b/0C/EIqWP3BimTd9nfskQc35CbnsfOiSkFIXWTnO1Y88dkIIvMekWbbA/1vVfjQGU9FviKUNm4UOGSeJYI+Nb0LI93sW7MK54MZOAYnoYC+AiThmCf05D1eEuKgqb4zrZsmvi9qwMoqwDeR4JF1N7PCmFIn/HechvBG9+dtlPxiZpELtx+/muOl0gXnaJ+WXo9M7/KCD5bOnA==;4FTUgF7gr8pYPDa0lUcc9A=="
 ---
 

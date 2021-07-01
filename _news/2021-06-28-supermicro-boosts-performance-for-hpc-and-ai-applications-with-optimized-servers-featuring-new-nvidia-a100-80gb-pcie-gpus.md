@@ -1,27 +1,31 @@
 ---
 category: news
 title: "Supermicro Boosts Performance for HPC and AI Applications with Optimized Servers Featuring New NVIDIA A100 80GB PCIe GPUs"
-excerpt: "Super Micro Computer, Inc. (Nasdaq: SMCI), a global leader in enterprise computing, storage, networking, and green computing technology, announces a wide range of Supermicro servers will support the latest NVIDIA technologies."
-publishedDateTime: 2021-06-28T13:32:00Z
-originalUrl: "https://apnews.com/press-release/pr-newswire/business-technology-2ba9182c48433cb249695ff719eaa0a5"
-webUrl: "https://apnews.com/press-release/pr-newswire/business-technology-2ba9182c48433cb249695ff719eaa0a5"
+excerpt: "Supermicro servers, designed with a Building Block Solutions ® approach, give Supermicro a first to market advantage when incorporating new technologies. State-of-the-art accelerated computing options can be quickly integrated and tested,"
+publishedDateTime: 2021-06-28T13:05:00Z
+originalUrl: "https://www.marketwatch.com/press-release/supermicro-boosts-performance-for-hpc-and-ai-applications-with-optimized-servers-featuring-new-nvidia-a100-80gb-pcie-gpus-2021-06-28"
+webUrl: "https://www.marketwatch.com/press-release/supermicro-boosts-performance-for-hpc-and-ai-applications-with-optimized-servers-featuring-new-nvidia-a100-80gb-pcie-gpus-2021-06-28"
 type: article
-quality: 29
+quality: 59
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: MarketWatch
+  domain: marketwatch.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI Hardware
   - AI
 
 images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
+  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+    width: 1200
+    height: 630
     isCached: true
 
 related:
@@ -73,17 +77,33 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Nvidia benchmark tests show impressive gains in training AI models"
+    excerpt: "Nvidia publishes MLPerf benchmarks that show impressive gains in reducing the total cost of training AI models using its GPUs."
+    publishedDateTime: 2021-07-01T15:10:00Z
+    webUrl: "https://venturebeat.com/2021/07/01/nvidia-benchmark-tests-show-impressive-gains-training-ai-models/"
+    ampWebUrl: "https://venturebeat.com/2021/07/01/nvidia-benchmark-tests-show-impressive-gains-training-ai-models/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/01/nvidia-benchmark-tests-show-impressive-gains-training-ai-models/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 89
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2021/06/MLPerf-Training-Press-Graphic.jpg?w=1200&strip=all"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Graphcore brings new competition to Nvidia in latest MLPerf AI benchmarks"
     excerpt: "Graphcore’s score in BERT natural language training was the best score of any of the two-socket AMD systems submitted."
     publishedDateTime: 2021-06-30T10:00:00Z
-    webUrl: "https://www.zdnet.com/index.php/article/graphcore-brings-new-competition-to-nvidia-in-latest-mlperf-ai-benchmarks/"
-    ampWebUrl: "https://www.zdnet.com/index.php/google-amp/article/graphcore-brings-new-competition-to-nvidia-in-latest-mlperf-ai-benchmarks/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/google-amp/article/graphcore-brings-new-competition-to-nvidia-in-latest-mlperf-ai-benchmarks/"
+    webUrl: "https://www.zdnet.com/article/graphcore-brings-new-competition-to-nvidia-in-latest-mlperf-ai-benchmarks/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/graphcore-brings-new-competition-to-nvidia-in-latest-mlperf-ai-benchmarks/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/graphcore-brings-new-competition-to-nvidia-in-latest-mlperf-ai-benchmarks/"
     type: article
     provider:
       name: ZDNet
       domain: zdnet.com
-    quality: 86
+    quality: 88
     images:
       - url: "https://www.zdnet.com/a/hub/i/2021/06/30/af021708-3cd7-4136-a6fb-48d2c0bb412c/graphcore-nvidia-comparison-crop-layout-for-twitter.jpg"
         width: 1600
@@ -174,6 +194,6 @@ related:
       domain: tmcnet.com
     quality: 9
 
-secured: "bY4V/h+Pc5+83DVLt+caQ5x1pUHiqbZznxMl9sTAugcm+T83t29sQSy42seBvWGdiZlHU+uxgxYFlZlTqedclMMOXnNT/bLmOA9mby6zabKuBkxbiqiqQrRcnZ5EykQBpWdMsoSiOaCN4MRTmE48xhIUOlcHWlxsc4lyxSQ6dALKLhN41HTiL8Stgto97yuSs7T3Ax3DINJSu+cfLHmjKSbfpjlakKqexQu40xCu9KZDJIu/3EBnqMQfkxpgJ/DJhaxNbiMD5dUTK5es2g2oQ/kB88M0iuLIrIKjJR3qn+PpIHL0AzgFuWNNaRLCdG31EkC5/PiISn/RmZuMCwtX+p+1CRFNdaZ+CMpnI6IDXyw=;Loy9x1WtoRqIcxHEgA1VOQ=="
+secured: "4cOiBVAGeEnGvrzq5ISRYnmFpb/djfL3w6X3mzR87sJjr787UbOKv+JSzOpxhefwi4AidUZ4xIEA1UO1cjB9jONKHKgmqjKY909HEgrqDIcck7Drev7zmI7GZ3Zth8gA4Ddjm4ORTRADEjOn+8QGRKArVnRjQh4V51DRtqbMjLamUFf8zxdUb+g3+pwLwN+WOqlrEJ/oJEwBnnNbYAhCfVhnnGVn8NbKpNviTb/Nb4GAWB28r51leM7e46nv+DMO+tPq4uTwYtxW5Z8PXys9O9AgHrmEUZ7AD9jtg05bpZyDW/pz5ILnsZ9NHVVUL2FCm+txsl3hp1NXRzaDonvXEznzOC1I8dIGwJe5hnTj0gQ=;y60K9drrJT+7vigZ2Y9xkA=="
 ---
 

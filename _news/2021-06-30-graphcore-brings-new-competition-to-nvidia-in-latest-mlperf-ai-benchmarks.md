@@ -3,12 +3,12 @@ category: news
 title: "Graphcore brings new competition to Nvidia in latest MLPerf AI benchmarks"
 excerpt: "Graphcore’s score in BERT natural language training was the best score of any of the two-socket AMD systems submitted."
 publishedDateTime: 2021-06-30T10:00:00Z
-originalUrl: "https://www.zdnet.com/index.php/article/graphcore-brings-new-competition-to-nvidia-in-latest-mlperf-ai-benchmarks/"
-webUrl: "https://www.zdnet.com/index.php/article/graphcore-brings-new-competition-to-nvidia-in-latest-mlperf-ai-benchmarks/"
-ampWebUrl: "https://www.zdnet.com/index.php/google-amp/article/graphcore-brings-new-competition-to-nvidia-in-latest-mlperf-ai-benchmarks/"
-cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/google-amp/article/graphcore-brings-new-competition-to-nvidia-in-latest-mlperf-ai-benchmarks/"
+originalUrl: "https://www.zdnet.com/article/graphcore-brings-new-competition-to-nvidia-in-latest-mlperf-ai-benchmarks/"
+webUrl: "https://www.zdnet.com/article/graphcore-brings-new-competition-to-nvidia-in-latest-mlperf-ai-benchmarks/"
+ampWebUrl: "https://www.zdnet.com/google-amp/article/graphcore-brings-new-competition-to-nvidia-in-latest-mlperf-ai-benchmarks/"
+cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/graphcore-brings-new-competition-to-nvidia-in-latest-mlperf-ai-benchmarks/"
 type: article
-quality: 86
+quality: 88
 heat: -1
 published: false
 
@@ -21,6 +21,7 @@ provider:
       height: 50
 
 topics:
+  - AI Hardware
   - AI
 
 images:
@@ -78,6 +79,22 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Nvidia benchmark tests show impressive gains in training AI models"
+    excerpt: "Nvidia publishes MLPerf benchmarks that show impressive gains in reducing the total cost of training AI models using its GPUs."
+    publishedDateTime: 2021-07-01T15:10:00Z
+    webUrl: "https://venturebeat.com/2021/07/01/nvidia-benchmark-tests-show-impressive-gains-training-ai-models/"
+    ampWebUrl: "https://venturebeat.com/2021/07/01/nvidia-benchmark-tests-show-impressive-gains-training-ai-models/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/01/nvidia-benchmark-tests-show-impressive-gains-training-ai-models/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 89
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2021/06/MLPerf-Training-Press-Graphic.jpg?w=1200&strip=all"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "NVIDIA (NVDA) Makes Key Advancements with AI-on-5G Platform"
     excerpt: "On the first day of the Mobile World Congress event being held in Barcelona, NVIDIA NVDA made key announcements for the benefit of the 5G ecosystem and expansion of its AI-on-5G platform. NVIDIA announced that it is collaborating with Alphabet’s GOOGL Google Cloud to build an AI-on-5G Innovation Lab as part of their joint vision to accelerate the development of smart cities and smart factories."
     publishedDateTime: 2021-06-29T22:04:00Z
@@ -89,6 +106,20 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 67
+  - title: "Supermicro Boosts Performance for HPC and AI Applications with Optimized Servers Featuring New NVIDIA A100 80GB PCIe GPUs"
+    excerpt: "Supermicro servers, designed with a Building Block Solutions ® approach, give Supermicro a first to market advantage when incorporating new technologies. State-of-the-art accelerated computing options can be quickly integrated and tested,"
+    publishedDateTime: 2021-06-28T13:05:00Z
+    webUrl: "https://www.marketwatch.com/press-release/supermicro-boosts-performance-for-hpc-and-ai-applications-with-optimized-servers-featuring-new-nvidia-a100-80gb-pcie-gpus-2021-06-28"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 59
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Nvidia announces Arm support for AI-on-5G platform and next-gen DPU"
     excerpt: "The next Nvidia DPU iteration will incorporate 16 Arm Cortex-A78 processors and can be deployed in a “fully self-hosted configuration.”"
     publishedDateTime: 2021-06-28T19:59:00Z
@@ -135,20 +166,6 @@ related:
         width: 2000
         height: 1260
         isCached: true
-  - title: "Supermicro Boosts Performance for HPC and AI Applications with Optimized Servers Featuring New NVIDIA A100 80GB PCIe GPUs"
-    excerpt: "Super Micro Computer, Inc. (Nasdaq: SMCI), a global leader in enterprise computing, storage, networking, and green computing technology, announces a wide range of Supermicro servers will support the latest NVIDIA technologies."
-    publishedDateTime: 2021-06-28T13:32:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/business-technology-2ba9182c48433cb249695ff719eaa0a5"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 29
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
   - title: "NVIDIA and Partners Launch HGX A100 Systems for Industrial AI and HPC"
     excerpt: "NVIDIA today announced a revamp of its NVIDIA HGX AI supercomputing platform with new technologies that fuse AI with high performance computing, designed to make supercomputing more useful to a growing number of industries."
     publishedDateTime: 2021-06-28T21:01:00Z
@@ -177,6 +194,6 @@ related:
       domain: tmcnet.com
     quality: 9
 
-secured: "SmTzQabFZcqpZUjv0T2ysFAfxpZdP/vEFTBSBJO9s9I701A0QubyvlztLFWrLg8hVS7f2/P+a23eL3keE/3I9MjsB6HD5JsWvcm7b58stgEX1nLtF7YQYXQ18gPgL02joHBWzxGc9+kHzibyufNxkdFmqN1OwQHB1YdJcnfIHwohhGLGlyz88Uv5yQrJcPG8oegWS4Y37oM8a6gbFDi2WxHrIoXjDRSuO+zEHdIwcck7nUK6AFcPhrTpq2nxY6WprWp/luu40Wu/IQarcqBoP3msHyesH4jxcxeoYWG5eGpGCKP9E6tUd1gZYoBuwYih6aC3JjcKUop6VlPHjcJEe1HutBYyghK6krYUE3omjqE=;wkfxC59CMtorQxX2y0oR4w=="
+secured: "fteJkAPGI5rkjkFDHv60SoRrWDhNmaFW1Ruz/yFRY16sp0Q8KaX8pBrgehZSg63CtmL/Cqdv32S51fj7feDUkVV6gWXpfUMfDr7Tey8rn/VMSvCmwEFs+xIFp2gSp6Dv0GUBpYSAsbb8eVaFVp4p0tk7eb8/O4ulZ/X70nKZbW2vyc2eBQ7sEUqCInlcojiYbsKW/H7yLXnqRORhqRXlk2lfzVV4f8F5m4V+ioBPKIMvgGDHefByyJG5rvLDTEcjOT34AuNRXNYE3jYYZ+zOyLFng4GsKJyDvk3w7JIicH6Jxtft5mJtNLjBORY+XtZbc3iTxoLabMBmh7lzeAKqM/aN1fWpVTUL5Y965lJiQjU=;q8sM3Koz3L6S70+XepLLOQ=="
 ---
 

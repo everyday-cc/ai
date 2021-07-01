@@ -1,21 +1,21 @@
 ---
 category: news
 title: "CognitiveScale and Ascendum To Accelerate Trusted AI Deployments for Healthcare, Fintech and eCommerce"
-excerpt: "CognitiveScale, the enterprise AI company that helps organizations win with intelligent, transparent, and trusted AI powered digital systems, today announced it has partnered with Ascendum to deliver Trusted AI solutions for the healthcare,"
-publishedDateTime: 2021-06-23T13:34:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-cognitivescale-ascendum-accelerate-trusted-ai-deployments-healthcare-fintech-/2021/06/23/9396326.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-cognitivescale-ascendum-accelerate-trusted-ai-deployments-healthcare-fintech-/2021/06/23/9396326.htm"
+excerpt: "CognitiveScale will provide its trusted AI software while Ascendum will provide the services and certified developers required to build AI-powered solutions and use cases that meet the unique ..."
+publishedDateTime: 2021-06-23T13:53:00Z
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_entertainment/cognitivescale-and-ascendum-to-accelerate-trusted-ai-deployments-for-healthcare-fintech-and-ecommerce/article_bb29e0c7-143c-5c70-9cba-5ed9acd74fa1.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_entertainment/cognitivescale-and-ascendum-to-accelerate-trusted-ai-deployments-for-healthcare-fintech-and-ecommerce/article_bb29e0c7-143c-5c70-9cba-5ed9acd74fa1.html"
 type: article
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
-  - AI in Finance
+  - Microsoft AI
   - AI
   - AI in Healthcare
 
-secured: "iC/iUDgECzvkUSaa5Fz37ZMMH1fm8xx2t28oN4R/O/5EJrMxKLAYi7yI0gqf4eatPiMBhNGY3Y21IvLzKPyVuzxkY5FkKpfZJIvEfRuO/wa4oCeabX5jTe6xxXSQWuXSeBmy1IK4edcGqU+HXRXRVJahR4whm3w73rs9GjETzwI1aNfCA5vvAkuGjYRTdrTLKaGrAzXidFEAMttmCUqySDh/JkWyqxxCvtGze0D+xFWi/jwT1lXl5z2P4+TXnJvjlOELgoZ38j13Pv91cSNxWBYNEPVXg+3HB3UPpVGaIv7KP2YSUBJEf7BtcHP+BIwCc5tMYfMv52SCGV2wl0Qr4m39TApjBggVKtupMGOj0oQ=;z0K6lKXGjISyGasp/fzEtw=="
+secured: "TC74nXunM4z88p+3Aylpa/ft3KP8HW8+UT1KHT6zDx8bvFebRVqSZ2+bXwMk7Csn9zsve86ETBhyAknXe+utnFYRPX3eR8eRsYmL2sFk8XjO4FOh1wlinLm/xtnrIEX1d+hxAmYHYDH1nmRjijExdOIwvpmkdCijj8oL6qt6tSfBbHQ9hnlPGxELBpfgLqiWKvkhlq5tFNBy+fI1iyOjdXZqnMce8nvrBKu3lWT1rsCMCa+KTFNigiocvPSM4/ZYDs1OHAvcoft9kPjVXTQaxRxKB4Ipcgdx9OluEw62V1fQcF8SgAHLu7lABVwTeEDXOt501feHP674n/Gwo/b9jlcngzgg4DoIwulLOfL1d+M=;TKKpl3BcZ1eLj6x7pEYmNg=="
 ---
 

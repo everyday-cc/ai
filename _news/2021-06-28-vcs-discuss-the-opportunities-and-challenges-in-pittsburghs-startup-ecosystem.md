@@ -44,20 +44,6 @@ related:
         width: 1024
         height: 684
         isCached: true
-  - title: "How Pittsburgh is transforming into the robotics capital of the world"
-    excerpt: "Pittsburgh Robotics Network received a $125,000 grant from the Richard King Mellon Foundation to support its continued growth."
-    publishedDateTime: 2021-06-29T19:08:00Z
-    webUrl: "https://nextpittsburgh.com/city-design/how-pittsburgh-is-transforming-into-the-robotics-capital-of-the-world/"
-    type: article
-    provider:
-      name: NEXTpittsburgh
-      domain: nextpittsburgh.com
-    quality: 54
-    images:
-      - url: "https://nextpittsburgh-images.s3.amazonaws.com/2021/06/29133221/Robotics-and-AI-Leaders-Join-Together-to-Support-the-Pittsburgh-Robotics-Network-on-June-29-2021-e1624987971711.jpg"
-        width: 750
-        height: 500
-        isCached: true
 
 secured: "490CIZmBIsYwl3ZdQ0zgIc57vuzGteZAUOQyOUWZAOt3kVFbLvx01kg5/WjLSus1NCsvMCmDA0PyHl8C11uqgeaocT2Tl5YJUxbhEHViqK2EF+aOH9mQg65xX5iKtIOADbFKlHoRafiVJvrTvCbmzg1gJfc+7CtrLSclDQxbXEvqNmceXlgfenhOdHxE7eVS/Qp4pId8OpieDfoM4GbX4AqBp0U2BswKGxHRie8hKD5OXQROS1ogmL2i3A3FqWnHZgrRPuceNYYJw3FXcz9RMmDTFdAKnMCcIdPdrbCC0Vusgm8qDt/5j+c5aAUDDZtBXMewfpA7EeQoqcU+Z32m6hBiEmzJRWc7KWHCdgpgDYc=;9cK124+ZAsTJDlY7CYkwoA=="
 ---

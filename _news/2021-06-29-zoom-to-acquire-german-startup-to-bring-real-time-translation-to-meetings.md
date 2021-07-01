@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2021/06/29/zoom-to-acquire-german-startup-to-
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/06/29/zoom-to-acquire-german-startup-to-bring-real-time-translation-to-meetings/amp/"
 type: article
 quality: 171
-heat: 291
+heat: 301
 published: true
 
 provider:
@@ -109,6 +109,22 @@ related:
       - url: "https://mlg9p6pktez3.i.optimole.com/ougAwfI.Bokw~29113/w:1000/h:600/q:90/rt:fill/g:ce/https://www.vertexreport.com/wp-content/uploads/2021/05/Zoom.jpg"
         width: 1000
         height: 600
+        isCached: true
+  - title: "Zoom announces plans to acquire machine translation start-up Kites"
+    excerpt: "Popular video calling platform Zoom has announced plans to acquire Karlsruhe Information Technology Solutions GmbH, also known as Kites. The German startup specializes in real-time audio translation powered by Machine Learning (ML)."
+    publishedDateTime: 2021-07-01T15:26:00Z
+    webUrl: "https://www.newsbytesapp.com/news/science/zoom-reveals-plans-to-acquire-machine-translation-startup/story"
+    ampWebUrl: "https://www.newsbytesapp.com/news/science/zoom-reveals-plans-to-acquire-machine-translation-startup/story/amp"
+    cdnAmpWebUrl: "https://www-newsbytesapp-com.cdn.ampproject.org/c/s/www.newsbytesapp.com/news/science/zoom-reveals-plans-to-acquire-machine-translation-startup/story/amp"
+    type: article
+    provider:
+      name: newsbytesapp.com
+      domain: newsbytesapp.com
+    quality: 59
+    images:
+      - url: "https://i.cdn.newsbytesapp.com/images/l99920210630113017.jpeg"
+        width: 1440
+        height: 810
         isCached: true
   - title: "Zoom buys AI company that worked on real-time translation"
     excerpt: "According to Mashable, Zoom said that the acquisition is a move to help it make communicating with people who speak different languages easier and tha.."

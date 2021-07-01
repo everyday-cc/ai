@@ -2,21 +2,17 @@
 category: news
 title: "Microsoft bolsters Azure with AT&T 5G deal and security collaboration"
 excerpt: "Microsoft has struck agreements with US networking giant AT&T and the cyber security organisation MITRE to bring additional 5G support as well as threat monitoring capabilities to Azure. As part of its deal with MITRE,"
-publishedDateTime: 2021-07-01T09:55:00Z
-originalUrl: "https://www.itpro.co.uk/cloud/microsoft-azure/360068/microsoft-azure-5g-att-security-mitre"
-webUrl: "https://www.itpro.co.uk/cloud/microsoft-azure/360068/microsoft-azure-5g-att-security-mitre"
+publishedDateTime: 2021-07-01T15:35:00Z
+originalUrl: "https://www.cloudpro.co.uk/cloud-essentials/public-cloud/9148/microsoft-bolsters-azure-with-att-5g-deal-and-security"
+webUrl: "https://www.cloudpro.co.uk/cloud-essentials/public-cloud/9148/microsoft-bolsters-azure-with-att-5g-deal-and-security"
 type: article
-quality: 101
+quality: 71
 heat: -1
 published: false
 
 provider:
-  name: IT Pro
-  domain: itpro.co.uk
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/itpro.co.uk-50x50.jpg"
-      width: 50
-      height: 50
+  name: Cloud Pro
+  domain: cloudpro.co.uk
 
 topics:
   - Microsoft AI
@@ -24,9 +20,9 @@ topics:
   - AI in Security
 
 images:
-  - url: "https://media.itpro.co.uk//image/upload/f_auto,t_primary-image-mobile@1/v1584968476/itpro/2020/03/Microsoft%20Azure_Shutterstock.jpg"
-    width: 375
-    height: 210
+  - url: "https://cdn2.cloudpro.co.uk/sites/cloudprod7/files/2020/03/shutterstock_1621610047.jpg"
+    width: 1920
+    height: 1080
     isCached: true
 
 related:
@@ -46,6 +42,17 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "AT&T (T) to Move 5G Mobile Network to Microsoft Azure"
+    excerpt: "AT&T Inc. T has announced collaboration with Microsoft MSFT under which the telecom giant will move its 5G mobile network to the latter’s cloud. This will allow AT&T’s mobile network traffic to be managed by Microsoft Azure technology."
+    publishedDateTime: 2021-07-01T13:24:00Z
+    webUrl: "https://www.nasdaq.com/articles/att-t-to-move-5g-mobile-network-to-microsoft-azure-2021-07-01"
+    ampWebUrl: "https://www.nasdaq.com/articles/att-t-to-move-5g-mobile-network-to-microsoft-azure-2021-07-01?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/att-t-to-move-5g-mobile-network-to-microsoft-azure-2021-07-01?amp"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 84
   - title: "Microsoft Announces the General Availability of Azure ND A100 V4 Cloud GPU Instances"
     excerpt: "Microsoft announced the general availability of the Azure ND A100 v4 Cloud GPU instances—powered by NVIDIA A100 Tensor Core GPUs. These Virtual Machines (VMs) are targeted at customers with high performance and demanding workloads like Artificial Intelligence (AI) and Machine Learning (ML) workloads."
     publishedDateTime: 2021-06-29T11:08:00Z
@@ -209,6 +216,6 @@ related:
       domain: ksusentinel.com
     quality: 13
 
-secured: "PVRgnMbNZLiEsOXjMngchWsUuguH0wwsxrv/T5Ktr+P7IL22nUqQvA4SAsZ2lOCG7lRyeRP5vtNPD8BD1nJ9wdkfXTJbF7j39s0x3JaSILJejklvlVaxo0w7cr4VgNp1WkY2lIMwRJs6/WwrcQNwIu1QMqvokqwCyTd/wsEaJ3hNLLLC5AWQFAFp+13G/DaMOQM9V38HG+0mfdLvC7QtEbv/VrXY0fcGePjo8O7ZgCueR81A+AQ2Mzo1VCFtMLTbNl0LqQM/TrEyrJjtJ+gFBvSfAjotSRatiLJyj8DBctRsXsmYmxgSzMnj0YOx1maHZ3dYqaQUhUOahX4HlvN402x5GDtwzN8KIqh6UdQEqxY=;8uBqTcDEgsdxJiPlfldLaw=="
+secured: "YiKQb9wI+IgGCG8erkJeltohvapBgQXHnqW+fmkZOt4lgqCtCt5rnCPO8+19cvRb7MsXc6swW97R2TBT/xGeDAlO6tEWxjptRIjQlqRCEP2vVWLhiWVe84P9SkYmjOQLigiLaETDBOWtG2E6f25RuN6Kjew1pv9KieviiVUroa6MmYGp5ZpaGLDYWBcTndacWO/rDJhj506MFZC+LZKJwytK95aHbIs6ZzAP8WWKI13v3GGVzQotFRWWKUoghwDvp7ObJZtl8h39uLDzXHl0uiBwROvENnq/1BDr3j39OvVNEjMwTn0iYDMrGOWAxK/RvFIUVK5/XO4DL19Bm3ap29PS5SKUfgaTbfnId6Y8Ckw=;wx6BjqCd4eJf246H4LbCqw=="
 ---
 

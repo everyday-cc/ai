@@ -88,21 +88,19 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "From Creating a Zero Hunger Future, To Reimagining Health and Wellbeing with AI"
-    excerpt: "Students’ Unlimited Creativity Unveiled in ‘Master Code’ Award and Kick-off Ceremonies HONG KONG SAR - Media OutReach - 28 June 2021 - Since 2016, Hong Kong Education City (EdCity) and Microsoft have co-organised the annual Master"
-    publishedDateTime: 2021-06-28T05:10:00Z
-    webUrl: "https://www.asiaone.com/business/creating-zero-hunger-future-reimagining-health-and-wellbeing-ai"
-    ampWebUrl: "https://www.asiaone.com/business/creating-zero-hunger-future-reimagining-health-and-wellbeing-ai?amp"
-    cdnAmpWebUrl: "https://www-asiaone-com.cdn.ampproject.org/c/s/www.asiaone.com/business/creating-zero-hunger-future-reimagining-health-and-wellbeing-ai?amp"
+  - title: "Self-Driving Startup Taps Investors Amid Shifting Autonomous Market"
+    excerpt: "Venture firms including Founders Fund and Sutter Hill Partners are backing autonomous-driving startup Ghost Locomotion Inc."
+    publishedDateTime: 2021-07-01T14:16:00Z
+    webUrl: "https://www.wsj.com/articles/self-driving-startup-taps-investors-amid-shifting-autonomous-market-11625148000"
     type: article
     provider:
-      name: Asia One
-      domain: asiaone.com
-    quality: 55
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 54
     images:
-      - url: "https://www.asiaone.com/sites/default/files/styles/a1_og_image/public/original_images/Jun2021/EDCITY.jpg?itok=Uop_9JUE"
-        width: 763
-        height: 509
+      - url: "https://images.wsj.net/im-362878/social"
+        width: 1280
+        height: 640
         isCached: true
   - title: "That Hacked Electronic Roadside Display In Brooklyn Said Cars Are Bad, Which Startlingly Brings Up Questions About The Advent Of AI Self-Driving Cars"
     excerpt: "A hacked electronic roadside display panel had a lot of messages about the badness of today's cars, which indirectly raises interesting questions about the future and the advent of AI-based driverless self-driving cars."
@@ -224,6 +222,15 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "From Creating a Zero Hunger Future, To Reimagining Health and Wellbeing with AI"
+    excerpt: "Students’ Unlimited Creativity Unveiled in ‘Master Code’ Award and Kick-off CeremoniesHONG KONG SAR - Media OutReach - 28 June 2021 -"
+    publishedDateTime: 2021-06-27T21:10:00Z
+    webUrl: "https://www.macaubusiness.com/from-creating-a-zero-hunger-future-to-reimagining-health-and-wellbeing-with-ai/"
+    type: article
+    provider:
+      name: Macau Business
+      domain: macaubusiness.com
+    quality: 15
   - title: "DeepRoute.ai, Level 4 Self-Driving Technology Provider, Supports Shenzhen During COVID-19 Outbreak by Transporting Test Samples"
     excerpt: "Following a COVID-19 outbreak in China's most populous province, Guangdong, DeepRoute.ai is currently transporting approximately 14,000 COVID-19 test samples per day to local hospitals in Shenzhen for testing through its advanced self-driving technology."
     publishedDateTime: 2021-06-29T16:49:00Z
