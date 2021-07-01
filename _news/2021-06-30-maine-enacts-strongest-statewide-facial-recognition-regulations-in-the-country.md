@@ -71,6 +71,20 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "Maine Sets Example With 'Country's Strongest' Facial Recognition Ban"
+    excerpt: "Civil liberties advocates on Wednesday cheered as Maine enacted what that state's ACLU chapter called \"the country's strongest statewide facial recognition law.\" \"I hope that Maine can provide an example to other states that want to rein in the government's ability to use facial recognition and other invasive biometric technologies."
+    publishedDateTime: 2021-06-30T22:06:00Z
+    webUrl: "https://www.commondreams.org/news/2021/06/30/maine-sets-example-countrys-strongest-facial-recognition-ban"
+    type: article
+    provider:
+      name: Common Dreams
+      domain: commondreams.org
+    quality: 54
+    images:
+      - url: "https://www.commondreams.org/sites/default/files/styles/social_share_image/public/2021-06/Facial-Recognition-2600x1361.jpg?h=733dcb6a&itok=EINM7TUh"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Calls to stop NSW police trial of national facial recognition system over lack of legal safeguards"
     excerpt: "Passport photos used in state’s criminal investigations despite parliament rejecting legislation on controversial technology"
     publishedDateTime: 2021-06-30T16:32:00Z
@@ -86,6 +100,20 @@ related:
       - url: "https://i.guim.co.uk/img/media/a39cd16da4368de83f7321209e84d4e066e343b3/0_132_5249_3151/master/5249.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=1b5d8ec74e0bbc9e1cd2b862f8fb606a"
         width: 600
         height: 360
+        isCached: true
+  - title: "Maine law restricting facial recognition technology statewide is one of the nation’s toughest"
+    excerpt: "A bill touted as the country's strictest statewide regulation on the use of facial recognition technology has become law in Maine."
+    publishedDateTime: 2021-06-30T22:47:00Z
+    webUrl: "https://bangordailynews.com/2021/06/30/politics/maine-law-restricting-facial-recognition-technology-statewide-is-one-of-the-nations-toughest/"
+    type: article
+    provider:
+      name: Bangor Daily News
+      domain: bangordailynews.com
+    quality: 43
+    images:
+      - url: "https://bdn-data.s3.amazonaws.com/uploads/2021/06/Optimized-Amazon-Police-Facial-Recognition.jpg"
+        width: 1200
+        height: 900
         isCached: true
 
 secured: "XGN+fPtcDy0Ij1+7v5PFb64bBtEC1QaI8ubd+Br+9TBmKsBJoFn7HT3qNy9qdP5hEG862p34/ywityftRw0nRGXC+p5K17wCzluh+mnhQ/Qa9yIcNP255wHJg6PtBFhDa58xP5Y5jKoG5e+qgTx9eb4yYPy7jgsZJSu+KxaxgS8j/f/uMJO2aq3F5BIs51LVD1rhfpC+KN4GzFSKFWVbiO4Hq+j1WsOznAoEuBA6i1+eq4R2WI0f/+brwQ048ekBHHrWeDlhShCd35a1L4tT2aFpi7o+dqgtnLhwERfV9VIRJxDZpyqXKdQiqC3wPp8BOevkzRlxDh6EVDCp32ED8MJnpuLoP1NuBBByJxcclVk=;h+6tpcpY/25AAfXp1Va63Q=="

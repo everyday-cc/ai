@@ -37,6 +37,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Google deploys new AI tool to COVID-19 vaccine searches"
+    excerpt: "Google's answer to combatting COVID vaccine misinformation has been to display resources from health authorities like the CDC in information boxes on search result pages. But the coronavirus — and COVID-related scams and fake news— have blown through international borders and language barriers."
+    publishedDateTime: 2021-06-30T22:22:00Z
+    webUrl: "https://mashable.com/article/google-mum-covid-vaccine-searches"
+    type: article
+    provider:
+      name: Mashable
+      domain: mashable.com
+    quality: 67
+    images:
+      - url: "https://helios-i.mashable.com/imagery/articles/00IMViIJXiaOEwUiTxrRqN5/hero-image.fill.size_1200x675.png"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "e1qSLqfxJ+0o7XW7QMxmvBUTc6ouIXcIQVbpLy5hyLG+BwPoGhHlELuOEdyGws0n98LwtcDp6Ya6woU23pSqPLZbI1GOC8aGB2YsiF+RD/OscfZY5AcN4Hwf70nayhNKflCZb9U6quoQNVyXapRx+AdIM7PTul3VFVhz4R/KtWv+a/QpzO3jHgWE8vrvgSAEOryJvGYS5t49xi0DO43OYikNeBh5DKr2Xby6xW3ywRReHkA3GwBUnV90n5nM0ML8vZrQrjI8M3ZZ8GYNlfbh3Z6dH9550k9SdvSlhItxHfMvMsqGdZZzEVNcctJGg3NI8o/S2arUmqolqOy6gBURmzkoLnnbKjlzrziN+eJexc4=;oZ6bAIXd7ogkG9NJmzW92A=="
 ---

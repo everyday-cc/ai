@@ -9,7 +9,7 @@ ampWebUrl: "https://telecom.economictimes.indiatimes.com/amp/news/grse-deploys-a
 cdnAmpWebUrl: "https://telecom-economictimes-indiatimes-com.cdn.ampproject.org/c/s/telecom.economictimes.indiatimes.com/amp/news/grse-deploys-ai-enabled-cctv-systems/83945288"
 type: article
 quality: 57
-heat: 78
+heat: 77
 published: true
 
 provider:

@@ -1,33 +1,25 @@
 ---
 category: news
 title: "DeepMind scientist calls for ethical AI as Google faces ongoing backlash"
-excerpt: "At the Lesbians Who Tech Pride Summit, DeepMind's Raia Hadsell discussed the duty of researchers to develop AI responsibly."
-publishedDateTime: 2021-06-23T06:40:00Z
-originalUrl: "https://venturebeat.com/2021/06/22/deepmind-scientist-calls-for-ethical-ai-as-google-faces-ongoing-backlash/"
-webUrl: "https://venturebeat.com/2021/06/22/deepmind-scientist-calls-for-ethical-ai-as-google-faces-ongoing-backlash/"
-ampWebUrl: "https://venturebeat.com/2021/06/22/deepmind-scientist-calls-for-ethical-ai-as-google-faces-ongoing-backlash/amp/"
-cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/22/deepmind-scientist-calls-for-ethical-ai-as-google-faces-ongoing-backlash/amp/"
+excerpt: "Disclaimer | Accessibility Statement | Commerce Policy | Made In NYC | Stock quotes by finanzen.net At the Lesbians Who Tech Pride Summit, DeepMind's Raia Hadsell discussed the duty of researchers ..."
+publishedDateTime: 2021-06-23T07:30:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/deepmind-scientist-calls-for-ethical-ai-as-google-faces-ongoing-backlash-10265599"
+webUrl: "https://markets.businessinsider.com/news/stocks/deepmind-scientist-calls-for-ethical-ai-as-google-faces-ongoing-backlash-10265599"
 type: article
 
 provider:
-  name: VentureBeat
-  domain: venturebeat.com
+  name: Business Insider
+  domain: businessinsider.com
   images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg"
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
-  - AI Ethics
-  - AI
   - Google AI
+  - AI
+  - AI Ethics
 
-images:
-  - url: "https://venturebeat.com/wp-content/uploads/2019/10/AI.GettyImages-817338718.jpg?w=1200&strip=all"
-    width: 1200
-    height: 600
-    isCached: true
-
-secured: "S/NCxfoF3AxtbUQipi0sqwCgbgazju5zMoW8nx2ZMAoUjX3W/3tgtg2yxu9z4uopYQA8EgtR8O9jiuXRiE1qvNkcU9xJnkrOOhHC8AgFr/21tdkz2/HnnROL8KcwgjBBU/clNgID4FkAdRzy39bFKymZIHlP0ppTtOermOIgIUmN/TiDmlFmfVytA1PdavMUAv4BQCm/TAsHWB0W85velZk8MCb1NB6ESsLN77h9uV9JD7zN0BJ24H0ziScRJSO16faxm+ffcz1tKq+GGDArT9iQcmKIYOA8Emk5pUsi65lDVEm2A8RTAgk13OEtYG3U0sm0zgdygRdd7kopube78H8P4rG4YN86VuEOZqqtn6U=;hr5cGFGcOQL2IDbb356uuQ=="
+secured: "JPG8nxTU3Mj2SVU5dl8mtX+ZdUEUc7wpHmtwFsM8rGb9I/PyuoWSk8Ed+e3jqTkemXGYjgYJebLZxxb2yTwdMJzYtHleben6vlMrB5QZulPw3ZoJC3bvzmMqq7G9JVIoUoQHEsp5wOI05m23+hesAeFT/ZMJx8JyyMXEtU7hn5AeNBGbBdr9f7yLGn9fOZ7QwOGK0fLKkCMMMb/E9wsN8x2d82l8fJXl9mRn3V+76JCxjgGrl7zYH31QSJlPq1Fdi9yw91pnj5VL1LwcpUjM9E5brf6ybYP5tIJ68YI6IHmlvskJNcB0zPE1tmL7uKz9UzVACWJEXvTzN+U9C1LluGWsfoAdxjBKQ433VYK+2KA=;DH5ZLXBoe/HZIoaPBT0bQA=="
 ---
 

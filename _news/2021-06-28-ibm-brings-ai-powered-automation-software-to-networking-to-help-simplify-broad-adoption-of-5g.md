@@ -1,13 +1,13 @@
 ---
 category: news
 title: "IBM Brings AI-Powered Automation Software to Networking to Help Simplify Broad Adoption of 5G"
-excerpt: "IBM Cloud Pak for Network Automation is designed to help communications service providers improve networking and deliver new services in days,"
+excerpt: "At Mobile World Congress 2021, IBM (NYSE: IBM) announced new hybrid cloud AI-powered automation software for communications service providers (CSPs) to help deliver on the promise of 5G, including zero-touch operations,"
 publishedDateTime: 2021-06-28T06:01:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/ibm-brings-ai-powered-automation-software-to-networking-to-help-simplify-broad-adoption-of-5g-1030557175"
-webUrl: "https://markets.businessinsider.com/news/stocks/ibm-brings-ai-powered-automation-software-to-networking-to-help-simplify-broad-adoption-of-5g-1030557175"
+originalUrl: "https://markets.businessinsider.com/news/stocks/ibm-brings-ai-powered-automation-software-to-networking-to-help-simplify-broad-adoption-of-5g-1030557176"
+webUrl: "https://markets.businessinsider.com/news/stocks/ibm-brings-ai-powered-automation-software-to-networking-to-help-simplify-broad-adoption-of-5g-1030557176"
 type: article
 quality: 58
-heat: 88
+heat: 108
 published: true
 
 provider:
@@ -54,6 +54,34 @@ related:
         width: 900
         height: 520
         isCached: true
+  - title: "AVER LAUNCHES ADVANCED 4K AI ALL-IN-ONE DISTANCE LEARNING COLLABORATION SOLUTION"
+    excerpt: "AVer Information Inc., the award-winning provider of video collaboration solutions and education technology solutions, announced today the launch of the"
+    publishedDateTime: 2021-06-28T17:36:00Z
+    webUrl: "https://www.eschoolnews.com/2021/06/28/aver-launches-advanced-4k-ai-all-in-one-distance-learning-collaboration-solution/"
+    type: article
+    provider:
+      name: eSchool News
+      domain: eschoolnews.com
+    quality: 32
+    images:
+      - url: "https://www.eschoolnews.com/files/2021/06/AVER-VB130-Camera.jpg"
+        width: 768
+        height: 507
+        isCached: true
+  - title: "RingCentral Attacks Robocalls with AI-Powered Solution and STIR/SHAKEN Implementation"
+    excerpt: "RingCentral , a leading provider of global enterprise cloud communications, video meetings, collaboration, and contact center solutions, today announced that the company is taking steps to protect customers from the increasing problem of"
+    publishedDateTime: 2021-06-29T11:08:00Z
+    webUrl: "https://www.lelezard.com/en/news-19878808.html"
+    type: article
+    provider:
+      name: Le Lézard
+      domain: lelezard.com
+    quality: 32
+    images:
+      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
+        width: 640
+        height: 480
+        isCached: true
   - title: "IBM’s newest Cloud Pak offering brings automation to 5G network deployments"
     excerpt: "G networks faster and more easily. The offering was announced at the Mobile World Congress 2021 event in Barcelona, where IBM also revealed it will partner with some of the world’s leading telecommunications firms in areas relating to 5G,"
     publishedDateTime: 2021-06-28T04:01:00Z
@@ -69,6 +97,6 @@ related:
         height: 788
         isCached: true
 
-secured: "B65EGkEJgT/gaG4C4WVVfo09Br8qaBMADqw0tQpO+wwXwp22abxslwDeRUVWd8f002qmYG2VyGboInuuulkMBVwlzTrBAtAj4YtqKMpCRCwxuQaEpJL6Jsq4GePGz/nDLGJ8Kr1++0yLb7JlIAZUI6Nb/bfi7u5iL9v2pptpDk5+E8QMx/IUANKAhlsoWiltJpwh/QQLOOYsDr9m7xmPuSAuMnleTgD70dp2PWw8wETCADIyA+GWHwfzMQkXypS6mStvUiJy7rNM+jRaKN9LSAquhGtbuFmRaIq2gZLVTwCR0oIKj26M1fk3CFeoF+YzQXpJCFHzRitKE9pYE/V4B9JXMZcyCt00dFOX9GsAAaY=;UeOBikFGAiYDAuGDwVcitQ=="
+secured: "1NmmxHXa05B1i55NM88fpLcU6vMunr0yeVV1yOJEsqWyu1cbpq2FcwZf6cHsmJ6PecpJOrniD16jxO9t3wfuO26YeIQOlXUPkpqSj3vEsEmQ8IhShYut8oMFQ+lSnW+/SX9hKles6x/M1ij9c2SU2duiNdTecsP9Ceo7KF5zcFMgZ7wDz51HnWffbw30VYDYoom4E16OrIBUBE+uOHbmi46AOHHJY93siEykTJ/cqvozbtBSDMJTNQFeu4J6tU9k3g/5FdCbIYCCOxaUHyeqTWBWJ90D0ohsR9tC8t43EQtT20R+ewSRNggCEnXcMHrPA2PnPV4BxH5MZhlMy2eV3E3fKyTEwLLQTQVkKGd66hM=;Tu5kBvmUXtyVPBo/iANhXw=="
 ---
 

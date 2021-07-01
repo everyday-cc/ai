@@ -2,6 +2,58 @@
   "page": 60,
   "value": [
     {
+      "path": "_news/2021-05-19-splunk-to-buy-security-intelligence-sharing-startup-trustar.md",
+      "title": "Splunk to buy security intelligence-sharing startup TruStar",
+      "excerpt": "Splunk today announced plans to acquire security software company TruStar as Splunk continues growing its cybersecurity portfolio.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/05/18/splunk-to-buy-security-intelligence-sharing-startup-trustar/",
+      "originalUrl": "https://venturebeat.com/2021/05/18/splunk-to-buy-security-intelligence-sharing-startup-trustar/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2016/07/security-e1581407312856.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/05/18/splunk-to-buy-security-intelligence-sharing-startup-trustar/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/18/splunk-to-buy-security-intelligence-sharing-startup-trustar/amp/",
+      "publishedDateTime": "2021-05-18T10:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
       "path": "_news/2021-05-18-father-and-son-duo-take-on-global-logistics-with-optimal-dynamics-sequential-decision-ai-platform.md",
       "title": "Father and son duo take on global logistics with Optimal Dynamics’ sequential decision AI platform",
       "excerpt": "Like “innovation,” machine learning and artificial intelligence are commonplace terms that provide very little context for what they actually signify. AI/ML spans dozens of different fields of research,",
@@ -1141,42 +1193,6 @@
         "AWS AI",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-05-18-softserve-achieves-aws-machine-learning-competency.md",
-      "title": "SoftServe Achieves AWS Machine Learning Competency",
-      "excerpt": "SoftServe, a leading digital authority and consulting company and an Amazon Web Services (AWS) Premier Consulting Partner, has achieved the AWS Machine Learning Competency. AWS Machine Learning Competency Partners have demonstrated expertise in delivering machine learning (ML) solutions on the AWS Cloud.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businesswire.com/news/home/20210518005007/en/SoftServe-Achieves-AWS-Machine-Learning-Competency",
-      "originalUrl": "https://www.businesswire.com/news/home/20210518005007/en/SoftServe-Achieves-AWS-Machine-Learning-Competency",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-18T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning",
-        "AWS AI"
       ]
     }
   ],

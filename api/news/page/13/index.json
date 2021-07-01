@@ -2,6 +2,57 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2021-06-20-ai-centers-of-excellence-accelerate-ai-industry-adoption.md",
+      "title": "AI Centers Of Excellence Accelerate AI Industry Adoption",
+      "excerpt": "The AI and Digital age has accelerated the rate of innovation so quickly that some organizations simply can’t keep up. In fact, Senior Leaders and Chief Executives around the world are “extremely concerned”,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/markminevich/2021/06/19/ai-centers-of-excellence-accelerate-ai-industry-adoption/",
+      "originalUrl": "https://www.forbes.com/sites/markminevich/2021/06/19/ai-centers-of-excellence-accelerate-ai-industry-adoption/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60ce716d1b2aa835a2ef3cdc%2F0x0.jpg",
+          "width": 1200,
+          "height": 802,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/markminevich/2021/06/19/ai-centers-of-excellence-accelerate-ai-industry-adoption/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/markminevich/2021/06/19/ai-centers-of-excellence-accelerate-ai-industry-adoption/amp/",
+      "publishedDateTime": "2021-06-19T15:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-20-google-develops-an-ai-software-that-can-design-a-chipset-in-just-six-hours.md",
       "title": "Google Develops an AI Software That Can Design a Chipset in Just Six Hours",
       "excerpt": "As per a recent research paper, Google has developed an AI software that can design the \"floorplan\" of chipset in just six hours.",
@@ -1148,57 +1199,6 @@
       ],
       "topics": [
         "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-18-making-the-generic-ai-trend-work-for-your-business.md",
-      "title": "Making The Generic AI Trend Work For Your Business",
-      "excerpt": "Generic AI might look great in the lab and in the demos we see online, but in the real world, problem-specific models are what we need to achieve high accuracy and precision — and, therefore, effectiveness — with AI.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/06/18/making-the-generic-ai-trend-work-for-your-business/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/06/18/making-the-generic-ai-trend-work-for-your-business/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fabe26daa1946a71defd95f%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/06/18/making-the-generic-ai-trend-work-for-your-business/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/06/18/making-the-generic-ai-trend-work-for-your-business/amp/",
-      "publishedDateTime": "2021-06-18T04:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

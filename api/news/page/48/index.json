@@ -2,6 +2,58 @@
   "page": 48,
   "value": [
     {
+      "path": "_news/2021-05-25-neteera-ceo-on-using-artificial-intelligence-to-change-healthcare.md",
+      "title": "Neteera CEO on using artificial intelligence to change healthcare",
+      "excerpt": "Neteera is a health care technology firm that has developed a heart and lung monitor that is contact free and can measure vital signs through clothing. The company is ranked 26th on CNBC's Disruptor 50 list.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/video/2021/05/25/neteera-ceo-on-using-artificial-intelligence-to-change-healthcare.html",
+      "originalUrl": "https://www.cnbc.com/video/2021/05/25/neteera-ceo-on-using-artificial-intelligence-to-change-healthcare.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/106888119-1621966946-16331919716-hd-L-00-00-08-03-Still002-png?v=1621968882",
+          "width": 534,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-25T09:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-25-3-reasons-applied-materials-is-more-than-just-a-chip-shortage-stock.md",
       "title": "3 Reasons Applied Materials Is More Than Just a Chip Shortage Stock",
       "excerpt": "A global shortage of semiconductors -- basic building blocks for everything from high-tech services to autos to household appliances -- is reverberating through the economy. For semiconductor manufacturing equipment providers like Applied Materials (NASDAQ:AMAT),",
@@ -1106,58 +1158,6 @@
       ],
       "topics": [
         "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-25-south-america-ai-in-computer-vision-market-forecast-to-2027-covid-19-impact-and-regional-analysis-by-component-and-end-user.md",
-      "title": "South America AI in Computer Vision Market Forecast to 2027 - COVID-19 Impact and Regional Analysis By Component and End-User",
-      "excerpt": "Is there a problem with this press release? Contact the source provider Comtex at editorial@comtex.com. You can also contact MarketWatch Customer Service via our ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/south-america-ai-in-computer-vision-market-forecast-to-2027---covid-19-impact-and-regional-analysis-by-component-and-end-user-2021-05-25?dist=bigcharts&tesla=y",
-      "originalUrl": "https://www.marketwatch.com/press-release/south-america-ai-in-computer-vision-market-forecast-to-2027---covid-19-impact-and-regional-analysis-by-component-and-end-user-2021-05-25?dist=bigcharts&tesla=y",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-25T04:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

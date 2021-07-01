@@ -77,6 +77,20 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "Maine Sets Example With 'Country's Strongest' Facial Recognition Ban"
+    excerpt: "Civil liberties advocates on Wednesday cheered as Maine enacted what that state's ACLU chapter called \"the country's strongest statewide facial recognition law.\" \"I hope that Maine can provide an example to other states that want to rein in the government's ability to use facial recognition and other invasive biometric technologies."
+    publishedDateTime: 2021-06-30T22:06:00Z
+    webUrl: "https://www.commondreams.org/news/2021/06/30/maine-sets-example-countrys-strongest-facial-recognition-ban"
+    type: article
+    provider:
+      name: Common Dreams
+      domain: commondreams.org
+    quality: 54
+    images:
+      - url: "https://www.commondreams.org/sites/default/files/styles/social_share_image/public/2021-06/Facial-Recognition-2600x1361.jpg?h=733dcb6a&itok=EINM7TUh"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Maine Enacts Strongest Statewide Facial Recognition Regulations in the Country"
     excerpt: "Maine has enacted the country’s strongest statewide facial recognition law. Maine’s law prohibits the use of facial recognition technology in most areas of government, including in public schools, and for surveillance purposes."
     publishedDateTime: 2021-06-30T15:14:00Z
@@ -90,6 +104,20 @@ related:
       - url: "https://www.aclu.org/files/images/Generic-SocialShare-1200x628.png"
         width: 1200
         height: 628
+        isCached: true
+  - title: "Maine law restricting facial recognition technology statewide is one of the nation’s toughest"
+    excerpt: "A bill touted as the country's strictest statewide regulation on the use of facial recognition technology has become law in Maine."
+    publishedDateTime: 2021-06-30T22:47:00Z
+    webUrl: "https://bangordailynews.com/2021/06/30/politics/maine-law-restricting-facial-recognition-technology-statewide-is-one-of-the-nations-toughest/"
+    type: article
+    provider:
+      name: Bangor Daily News
+      domain: bangordailynews.com
+    quality: 43
+    images:
+      - url: "https://bdn-data.s3.amazonaws.com/uploads/2021/06/Optimized-Amazon-Police-Facial-Recognition.jpg"
+        width: 1200
+        height: 900
         isCached: true
 
 secured: "IK6dNkzn02lz3FhBVnddfmVueH+ml2ygeGTU3LYsnhHqcU+gTHGrDiG/aReZsjzAeNOF1/wrGfrI4+eN03rSesdefvJGTa4mZnC4oGEiPMdtPj1Uc64N9wVQGVdHkyVLxYhrRWFAl4xwLqwt+k6VxqE3r/3/HBbzZqh7l/QEm3VV0OCEhlmhPrDIeWMdHPKDaOFcbgvk2y/XBuh5iyZmN7naQcDNS5p/Q7PpyHrVOYuVyX0LadAPFxr5p55IMFSURH4PDF8Q4KjagHKIJasEbCn+0wdSbJ9OXfG/Yek5/dNcEBnACW6m85moILay6Te8Rg3Egv/Nl+IMHjCywikkYks4YzIPxVTIJmbm6G0o8DRbBPG/Ejp4VAvIbqTqV531XCGCHVVE0XLnPUkF1SgBJCRq4yfCOYeiDSawQaKJDcTqZAZnedKAP/gYBMXe2Dq3NTnZYIIH45zu3hBOFJyO3WcPgfiAaEJZxcL10zDORox1ev9/zJ2xAOKnSdB/DbsX3SvQpr1Km93NorX8dufUjQ==;jEzmQtCU31e2wugkkCCMYQ=="

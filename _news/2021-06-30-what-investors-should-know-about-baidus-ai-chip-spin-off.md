@@ -9,7 +9,7 @@ ampWebUrl: "https://www.fool.com/amp/investing/2021/06/30/what-investors-know-ab
 cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/06/30/what-investors-know-about-baidu-ai-chip-spin-off/"
 type: article
 quality: 104
-heat: 124
+heat: 114
 published: true
 
 provider:
@@ -44,20 +44,6 @@ related:
       - url: "https://media.datacenterdynamics.com/media/images/Baidu_headquarters.2e16d0ba.fill-1200x630.jpg"
         width: 400
         height: 211
-        isCached: true
-  - title: "Chinese tech giant Baidu spins off $2 billion AI chip unit, gears up for homegrown production amid fierce competition"
-    excerpt: "Chinese search giant Baidu Inc has confirmed that its artificial intelligence (AI) chip unit Kunlun has been spun off as an independent company with a valuation of 13 billion yuan ($2 billion), underscoring the Chinese internet giant's ambition in developing and commercializing its in-house chipsets amid growing industry competition."
-    publishedDateTime: 2021-06-26T07:01:00Z
-    webUrl: "https://www.globaltimes.cn/page/202106/1227121.shtml"
-    type: article
-    provider:
-      name: Global Times
-      domain: globaltimes.cn
-    quality: 31
-    images:
-      - url: "https://www.globaltimes.cn/Portals/0//attachment/2021/2021-06-26/ef0c774b-fd4f-41d2-940b-86f5868b1c31.jpeg"
-        width: 800
-        height: 480
         isCached: true
 
 secured: "9MVSweUuR7lc4NGtNgI1BCJOZ2IvaQyqumaKgGuU/cArPkTDdYm2j2rQakV1AYbaIPqdczEvFptfbfrXpnfmhwr1SgbKpVuQ+9iJBgWPYWBfIJIJHlt9nQoxshM52AbT+TFJFevaDZQQAU83a9OoH4gK+FGe0N1Rh4XL+OcWpg7J8V/8krdpuSSkjYb43OQsK7+o1f5ho7+nK+g3z4F7w+RwVkpWTodRlxUFeZjO1am89lUOlTLLR0fL7KMVw9e7CIYCPvwEf8gJYM9f+goQJXfY2zpvwJLTRKwVW6U2aWFzdv2Z+lM1XsNmvgBFdEL2RmbSb6xO17nFQxsoEaklHVAIylIH+JqoxGkZTZN9o1edM6xkdoS5xvRLimBXt1p+3lArd8EOlCLh3jrHy5E/Tfb/oRasI22R8T1F0APNk6ogvSawRyKdS0agVZR99KVK09hFVxPKZcfxhQ37o9My0gg33tGWvJ+TeIXhCdfaXGuTFV5SEOqyb3fwxW7MzshZyGLc5udAifgZobZfzcI1pw==;L/8g5Ewy16AaDBPOrw6Rmw=="

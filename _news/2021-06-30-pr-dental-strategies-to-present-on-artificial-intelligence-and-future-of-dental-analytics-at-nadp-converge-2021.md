@@ -1,23 +1,28 @@
 ---
 category: news
 title: "P&R Dental Strategies to Present on Artificial Intelligence and Future of Dental Analytics at NADP CONVERGE 2021"
-excerpt: "P&R Dental Strategies, LLC (P&R), the premier dental insights company delivering customized, actionable business"
-publishedDateTime: 2021-06-29T22:35:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/21/06/n21778246/p-r-dental-strategies-to-present-on-artificial-intelligence-and-future-of-dental-analytics-at-nadp"
-webUrl: "https://www.benzinga.com/pressreleases/21/06/n21778246/p-r-dental-strategies-to-present-on-artificial-intelligence-and-future-of-dental-analytics-at-nadp"
-ampWebUrl: "https://www.benzinga.com/amp/content/21778246"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/21778246"
+excerpt: "P&R Dental Strategies, LLC (P&R), the premier dental insights company delivering customized, actionable business intelligence to support a variety of dental payer objectives, today announced their plan to present at the National Association of"
+publishedDateTime: 2021-06-29T22:42:00Z
+originalUrl: "https://www.lelezard.com/en/news-19880966.html"
+webUrl: "https://www.lelezard.com/en/news-19880966.html"
 type: article
-quality: 16
+quality: 18
 heat: -1
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: Le Lézard
+  domain: lelezard.com
 
 topics:
+  - AI in Healthcare
   - AI
+
+images:
+  - url: "https://www.lelezard.com/img/pr_sections/health.jpg"
+    width: 640
+    height: 480
+    isCached: true
 
 related:
   - title: "Dell releases open source suite Omnia to manage AI, analytics workloads"
@@ -125,6 +130,6 @@ related:
         height: 541
         isCached: true
 
-secured: "gs4FJ3m/Nnn/QkkbOgkKfqKKtI0DqqNcgkXefLy2vqQdkrB98LJRIbq1u5o8tHaI86+XKYmx25usttFGlxFGqqWZGVa/GVv+D9mqKiZwwjyHG6SrwrK/nlGk7tKoFcQrPq4bgzjeiiXabTUzjpC4AUS+R/Ob3HzddDIvcmD1AdpoUJNEARZXqKTmkWnn12vYBzgRs7Zt5wVW1gZyQBbsO/zEt7L9PKcSQXRiFY2yX60QpqTxxLIe3MwgU7oxVOA7X7DjHo+qYgRNCRd6Rl4Jo0Fj+yVCHY1qAQ1lnIvjbWfjdwftUS7chniWDYytWK+L6QaLthX7RxN8hANnx76owmQ5C5ICqK2QEG12Qb8Cp70=;5LekgdaZvn0tbztklHe7gA=="
+secured: "ZT5B5hOUEtFKamFUBVfVrDiaizHBBgHopNS1VkimnkqPsus2o13VfnRKOo/LBn1+om3zD+AoKXqo33QdliZrpqe+oUKvwDBRwh/9Oan16+X+nWp50cW8MUPeX+6l4EILyX0I3rEVJN3YFSWoHRWtBaJCMK/1YZ7GIlWpkGZtKC7EyKhZFRuXa2Va61dgguCiBhKBQkZG/vCM1qsUP0Mi/UE/EFE/wKwAEIlKNeJEEweBlyxWufSKEaWoyrQvak/B/q2aLUIEZGC4P/WYqnvUfVqgeRQs1EPUV4dTLfsQgnkn4YgVgX6FnotLBUYTFMaziY5If6gZeLnYhc9l/9LY03DCixa/xjkRNn+aBuvQAXg=;xFq4CUdGK7j+UghrdPkrXQ=="
 ---
 

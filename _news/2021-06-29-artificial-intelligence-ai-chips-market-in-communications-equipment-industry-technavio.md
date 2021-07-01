@@ -1,26 +1,27 @@
 ---
 category: news
 title: "Artificial Intelligence (AI) Chips Market in Communications Equipment Industry | Technavio"
-excerpt: "According to Technavio, the COVID-19 pandemic will have a positive impact on the growth of the artificial intelligence (AI) chips market. The report expects the market value to increase in 2021 as compared to 2020."
-publishedDateTime: 2021-06-29T01:49:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-artificial-intelligence-ai-chips-market-communications-equipment-industry-/2021/06/28/9399133.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-artificial-intelligence-ai-chips-market-communications-equipment-industry-/2021/06/28/9399133.htm"
+excerpt: "The artificial intelligence (AI) chips market is expected to grow by USD 73.49 billion at over 51% CAGR during 2021-2025, according to"
+publishedDateTime: 2021-06-29T01:45:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/artificial-intelligence-ai-chips-market-in-communications-equipment-industry--technavio-301321404.html"
+webUrl: "https://www.prnewswire.com/news-releases/artificial-intelligence-ai-chips-market-in-communications-equipment-industry--technavio-301321404.html"
 type: article
-quality: 42
-heat: 42
+quality: 59
+heat: 69
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
+  - AI Hardware
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/1441766/Technavio_Logo.jpg"
-    width: 400
-    height: 400
+  - url: "https://mma.prnewswire.com/media/1551721/Artificial_Intelligence_Chips.jpg?p=facebook"
+    width: 1280
+    height: 670
     isCached: true
 
 related:
@@ -39,6 +40,6 @@ related:
         height: 585
         isCached: true
 
-secured: "N1ojpdRgfrIuigIo+ODyiZZ1qE3eGgihM6qDP9hIoKa49y9QI1ezgJlWb5b2deLm3RMl+CIeGtcYlFQ/Z1vnDtowF0z7Ij/s8ncYp9p/H/CUGb88ElJKbefFzsIECwvJs2TBFI7YPg4Vsh8b+GLdznZ2OAthNW+KM40zTulYGILWESom6nGE2GAv82BgAyD6X728cB7h5tMk7+59lNK8gNKbLfBrV427SYBzvKzzRzadq4hVk9kJXo/40YAC4es/iV/abpc9LM4VRpqHaEWtTeDKU8/0ygwRHx3r4GV72GyKaZn49wNsKNjxSTwchSHgT5chL5mu/RdydTblhoF0O/p6Z3y7tEuS6letP2a3EBE=;2nRpEeqDTpFfwN+yX9rjAg=="
+secured: "zKwobPmdWu+oExRdgu/2MVJzi/QbECSl1+kL2eErJQb+o10Qtx9PPO1meH2ZCs/kY9EGbiDBSi9kSIgNQJN3aNo8ZagLqaOYzLwQIbBgs/inUrbvoNVea8fICuzj55DVbMrv4RBOShtMRVx4Z3JhVM+8J7LTtbuouStMyTDv4shH1nSREzE0BeWv68CSFKWhx7Irhpzze34A7s2Yu3BDHIsNG15e65/gZm6tCcwjslWLXj6/BEWTeJ7IJ7gxizYgL5oNvG5UIhKz1dDEngxtZ64ZPdtAORlbgwvUvQ2Tga35///JVMGuyT25WJNKPhAiaY4GqHMVNK4GkLfvsjsHByoiZ8cdnEGKMiOD+bbcL1s=;BT00rKiD4CBUEeVuUwHLEw=="
 ---
 

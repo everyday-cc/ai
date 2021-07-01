@@ -2,6 +2,40 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-05-26-temenos-transforms-banking-with-the-temenos-banking-cloud-to-accelerate-saas-and-ai-adoption-with-instant-access-to-sandbox-banking-services.md",
+      "title": "Temenos transforms banking with The Temenos Banking Cloud to accelerate SaaS and AI adoption with instant access to Sandbox, Banking Services, and MarketPlace",
+      "excerpt": "Temenos (SIX: TEMN), the banking software company, is accelerating its leadership in the cloud by introducing the next-generation in SaaS, The Temenos",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesswire.com/news/home/20210525005869/en/Temenos-transforms-banking-with-The-Temenos-Banking-Cloud-to-accelerate-SaaS-and-AI-adoption-with-instant-access-to-Sandbox-Banking-Services-and-MarketPlace",
+      "originalUrl": "https://www.businesswire.com/news/home/20210525005869/en/Temenos-transforms-banking-with-The-Temenos-Banking-Cloud-to-accelerate-SaaS-and-AI-adoption-with-instant-access-to-Sandbox-Banking-Services-and-MarketPlace",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-26T02:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-25-ai-removes-friction-from-challenger-bank-onboarding.md",
       "title": "AI Removes Friction From Challenger Bank Onboarding",
       "excerpt": "The Tracker explores how biometrics, behavioral analytics and IP address verification can help confirm user identities, smooth onboarding and prevent fraud.",
@@ -1285,53 +1319,6 @@
       "topics": [
         "AI in Finance",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-10-artificial-intelligence-and-machine-learning-market-to-see-huge-growth-microsoft-corporation-sap-se-baiduinc-ibm-corporation-bigmlinc.md",
-      "title": "Artificial Intelligence And Machine Learning Market to See Huge Growth | Microsoft Corporation, SAP SE, BaiduInc., IBM Corporation, BigMLInc.",
-      "excerpt": "Artificial Intelligence And Machine Learning Market is growing at a 42.26% CAGR during the forecast period 2021-2027. The increasing interest of the individuals in this industry is that the major reason for the expansion of this market”.",
-      "sourceUrl": null,
-      "webUrl": "https://ksusentinel.com/2021/05/09/artificial-intelligence-and-machine-learning-market-to-see-huge-growth-microsoft-corporation-sap-se-baiduinc-ibm-corporation-bigmlinc/",
-      "originalUrl": "https://ksusentinel.com/2021/05/09/artificial-intelligence-and-machine-learning-market-to-see-huge-growth-microsoft-corporation-sap-se-baiduinc-ibm-corporation-bigmlinc/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 112,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ksusentinel.com/wp-content/uploads/2021/05/A2Z-MARKET-RESEARCH-8-1-126-780x470.png",
-          "width": 780,
-          "height": 470,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-09T12:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Sentinel",
-        "domain": "ksusentinel.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "Machine Learning",
-        "Microsoft AI",
-        "AI in Autos",
-        "AI in Finance"
       ]
     }
   ],
