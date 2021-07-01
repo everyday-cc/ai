@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "Prophesee_ai"
   url: "https://twitter.com/Prophesee_ai"
-  followers: 1210
+  followers: 1211
 
 size: 51-200 employees
 yearFounded: 2014
