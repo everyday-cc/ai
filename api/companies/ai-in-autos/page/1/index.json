@@ -26,7 +26,7 @@
       "twitter": {
         "username": "tesla",
         "url": "https://twitter.com/tesla",
-        "followers": 10426535
+        "followers": 10427755
       },
       "size": "10,001+ employees",
       "yearFounded": 2003,
@@ -75,7 +75,7 @@
       "twitter": {
         "username": "Uber",
         "url": "https://twitter.com/Uber",
-        "followers": 1054771
+        "followers": 1054783
       },
       "yearFounded": 0,
       "locations": [
@@ -123,7 +123,7 @@
       "twitter": {
         "username": "DidiGlobal",
         "url": "https://twitter.com/DidiGlobal",
-        "followers": 3308
+        "followers": 3313
       },
       "size": "5,001-10,000 employees",
       "yearFounded": 2012,
@@ -167,7 +167,7 @@
       "twitter": {
         "username": "NvidiaAI",
         "url": "https://twitter.com/NvidiaAI",
-        "followers": 73369
+        "followers": 73376
       },
       "size": "10,001+ employees",
       "yearFounded": 1993,
@@ -231,7 +231,7 @@
       "twitter": {
         "username": "Waymo",
         "url": "https://twitter.com/Waymo",
-        "followers": 66813
+        "followers": 66812
       },
       "size": "1,001-5,000 employees",
       "yearFounded": 2009,
@@ -302,7 +302,7 @@
       ],
       "images": [
         {
-          "url": "https://pbs.twimg.com/profile_images/1399695897261453314/EKSte7XG_400x400.jpg",
+          "url": "https://pbs.twimg.com/profile_images/1410556974769520646/8RFjdSFN_400x400.jpg",
           "width": 400,
           "height": 400,
           "title": "Argo AI",
@@ -386,7 +386,7 @@
       "twitter": {
         "username": "zoox",
         "url": "https://twitter.com/zoox",
-        "followers": 17890
+        "followers": 17891
       },
       "size": "1,001-5,000 employees",
       "yearFounded": 2014,
@@ -733,7 +733,7 @@
       "twitter": {
         "username": "NAVYA_Group",
         "url": "https://twitter.com/NAVYA_Group",
-        "followers": 9105
+        "followers": 9106
       },
       "size": "201-500 employees",
       "yearFounded": 2014,
@@ -1267,7 +1267,7 @@
           "heat": 135,
           "images": [
             {
-              "url": "https://pbs.twimg.com/profile_images/1399695897261453314/EKSte7XG_400x400.jpg",
+              "url": "https://pbs.twimg.com/profile_images/1410556974769520646/8RFjdSFN_400x400.jpg",
               "width": 400,
               "height": 400,
               "title": "Argo AI",

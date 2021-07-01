@@ -32,7 +32,7 @@ tags:
   - Autonomous Vehicles
 
 images:
-  - url: "https://pbs.twimg.com/profile_images/1399695897261453314/EKSte7XG_400x400.jpg"
+  - url: "https://pbs.twimg.com/profile_images/1410556974769520646/8RFjdSFN_400x400.jpg"
     width: 400
     height: 400
     isCached: true
