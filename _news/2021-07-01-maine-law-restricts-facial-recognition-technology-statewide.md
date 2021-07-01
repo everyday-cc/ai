@@ -1,27 +1,27 @@
 ---
 category: news
 title: "Maine law restricts facial recognition technology statewide"
-excerpt: "A bill touted as the country's strictest statewide regulation on the use of facial recognition technology has become law in Maine. While several states regulate facial recognition as a surveillance tool,"
-publishedDateTime: 2021-06-30T21:42:00Z
-originalUrl: "https://apnews.com/cbf6207f15d13b8e647615e251157774"
-webUrl: "https://apnews.com/cbf6207f15d13b8e647615e251157774"
+excerpt: "A bill touted as the country’s strictest statewide regulation on the use of facial recognition technology has become law in Maine."
+publishedDateTime: 2021-07-01T13:17:00Z
+originalUrl: "https://www.wcax.com/2021/07/01/maine-law-restricts-facial-recognition-technology-statewide/"
+webUrl: "https://www.wcax.com/2021/07/01/maine-law-restricts-facial-recognition-technology-statewide/"
 type: article
 quality: 54
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: WCAX3
+  domain: wcax.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://apnews.com/images/ShareLogo2.png"
-    width: 700
-    height: 450
+  - url: "https://gray-wcax-prod.cdn.arcpublishing.com/resizer/AWeLMGPHr6yaSWSXbK82THzF4jk=/980x0/smart/filters:quality(85)/cloudfront-us-east-1.images.arcpublishing.com/gray/UM3WYS76ARJUZFZLRWELC7PKPM.jpg"
+    width: 980
+    height: 551
     isCached: true
 
 related:
@@ -116,6 +116,6 @@ related:
         height: 900
         isCached: true
 
-secured: "eojJkV/H+ynpwCv5kYJL5imtWKh1oZlZkKxAItJeZR4ciOmNqH/WkdLd2+pMzWroCeLAPFyqZUuMTkk+mzjW1QMYP585Dg26D4S4/emzQywUJi8me2G8x3oB1k/3A/rr28YV6/gO3LLY7ZIqbXZOPIfNf1z9/yMrwpoi6ZY7WqaMNmFKmFTMq7NZZuLzse9om0g0bxtPMicq7C1e6x1Z8+YK4AvFtO7+43t8wdvr54bdjKZMRGBrk4XNPMDTBm3SP2/VBjml2phMB0uHoZoPpUj0gVC9/z5T1Wag5ny1p2CkEldKa6Ce8GCKrywgTmKSIuT4BwgC0ZQ6aUSD5wcDyf2LqKyHSjAXh6WvoaDgr2Y=;Kkee5bA9QxPoJ8dIkJ3OCA=="
+secured: "FJINY/Ikq4saoy5M5S1vL6oD90Uet5FFG2iIV9WiSFa7DOT+nMZvpLf6wTz7VvEMJ8C+nA7B5dqf2N7mC5cNcPTkEhrIae0ZJQkM6WLv9VvVFtB20h27CJul8n6tzl4+FL3Wr8N48cMNtJa5VIXPlR0KMUd+RbMQYgfmvBTeuzKFd1tBrWfdD4PlUg1E4p/0fkiPt5ly5s+zDh4Yc9X8huuXhv4D8hIwmnYIsjhQxC3twj74BaQKRrwn3CG67aypVLfuIPLxDfr9rtygTDXRioYBFHLAW48m9h/WBNJo9+t7fntE0KzZq02REk7xuvFLYL6osDgRMqxDE5kVAwTBcqCSvFmUDAbi2UL6SxosKiA=;AFXU1p61PNv+zhrRxc1F8A=="
 ---
 

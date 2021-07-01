@@ -31,7 +31,7 @@ related:
     provider:
       name: Medindia
       domain: medindia.net
-    quality: 58
+    quality: 60
     images:
       - url: "https://images.medindia.net/amp-images/health-images/cosmetic-surgery.jpg"
         width: 1200

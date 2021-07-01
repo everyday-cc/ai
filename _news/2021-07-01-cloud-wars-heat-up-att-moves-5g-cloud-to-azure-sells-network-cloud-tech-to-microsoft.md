@@ -171,6 +171,15 @@ related:
       name: Telecompaper
       domain: telecompaper.com
     quality: 34
+  - title: "Microsoft, SES demo Azure Cloud for remote missions via secure GovSat service"
+    excerpt: "Microsoft and SES have demonstrated the use of Azure Cloud for remote missions using the secure MilSatCom connectivity. The demonstration also involved GovSat, public-private JV between the Luxembourg government and SES,"
+    publishedDateTime: 2021-07-01T13:15:00Z
+    webUrl: "https://www.telecompaper.com/news/microsoft-ses-demo-azure-cloud-for-remote-missions-via-secure-govsat-service--1388819"
+    type: article
+    provider:
+      name: Telecompaper
+      domain: telecompaper.com
+    quality: 31
   - title: "AT&T to run its mobility network on Microsoft's Azure for Operators cloud, delivering cost-efficient 5G services at scale"
     excerpt: "AT&T will move its 5G mobile network to the Microsoft cloud. This strategic alliance provides a path for all of AT&T's mobile network traffic to be managed using Microsoft Azure technologies. The companies will start with AT&T's 5G core,"
     publishedDateTime: 2021-06-30T14:36:00Z
@@ -195,6 +204,6 @@ related:
       domain: ksusentinel.com
     quality: 13
 
-secured: "HN4Hzodw6FskvYrr5fVwxtTiFYUIG+kr2YZGC0oGaB10LYWmBhV1y8MiQyg6g0AjuoxmRxH6wYJ8q+dwuVO7aexBfmRRQVoG0UU6Ai6WGYnv8niSsrZVeLsFvd0w012BUofSwb2nuYr9Y9+BeeI436SvQcIILoj+iZn/F0OtY0gOrP7O6kwFyv/IeLksEo05npfX2owSyEJnQiBcDFveDjOIXjmtLstVkxY7Mr0EgpxuRN7+b7ryOA8d68YnqFzA9FkhDm957OMV3+kOYFXjod050iErumCfUpnOJtdJH29G7r4hgvVSyBNc/LMfY9mjz5eOl8YhW+bSEt3TV6mpksaMU04gHUUwG/tu4+UYSFc=;i8FvM/SIUA41u/ZUS8RsJQ=="
+secured: "2gni5T+fguacrTNtdH6p2r3CS6GO/JVg2PEao0tMcaWTgqriOQMJV1pBoL3lMP3jfN+VlZQZVFyJau4hhHoKCdUCfdpUOG9Fq74MmN51QVbp65fD0lXvCcifWDOWq71gqbe8Hwr0b7aPFEKzoOM4gKBpxf4bxdZcDh19+nVcg+wB4JTdZdkIluoLbE/HGIm31EtqNMv2V8EOff+Y9Rv1Y4loB0QB5j5F5c+u+pkBRtCFV5zKnNV1OrOlNnvMfnvCAkYHwXDc4RjmYsoxTxqH/qNvMMwvTHdYbNDP+gataCb2HVBFW+56NPvcf8Q8IBfPTY/sBzLq9NzMwuZvhfyyHeULIyT0kIxRPOt4kbvFeWdywN7O/oH9tnluNT2dx8Yqxqs9wdYnjg5HeF/CEPcOzM53gfRSms+aTn3QBp/0LWk3YsY7IrEQXCPVhQudYu698xJyxMEkQ7k+DmSrcO8Gi+oAfNDa7r9ueA28F3qG+HTMH1eTfdjQS22I3r2daJyassDYtSMhwhLSscCU5TuiEg==;AAhBvXyHZXS3qeSYIKxOAg=="
 ---
 

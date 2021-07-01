@@ -18,6 +18,22 @@ topics:
   - AI
 
 related:
+  - title: "How AI is helping enterprises turn the tables on malicious attacks"
+    excerpt: "Malicious attackers have turned to AI to invade enterprise networks -- to combat attacks, organizations need to embrace AI in turn."
+    publishedDateTime: 2021-07-01T13:20:00Z
+    webUrl: "https://venturebeat.com/2021/07/01/how-ai-is-helping-enterprises-turn-the-tables-on-malicious-attacks/"
+    ampWebUrl: "https://venturebeat.com/2021/07/01/how-ai-is-helping-enterprises-turn-the-tables-on-malicious-attacks/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/01/how-ai-is-helping-enterprises-turn-the-tables-on-malicious-attacks/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2021/06/cyber-security.GettyImages-1268601565.jpg?w=1200&strip=all"
+        width: 1200
+        height: 588
+        isCached: true
   - title: "How AI Is taking over our gadgets"
     excerpt: "AI is moving from data centers to devices, making everything from phones to tractors faster and more private. These newfound smarts also come with pitfalls."
     publishedDateTime: 2021-06-27T15:15:00Z
@@ -48,19 +64,19 @@ related:
         width: 700
         height: 481
         isCached: true
-  - title: "How Artificial Intelligence Is Changing The Advisory Industry"
-    excerpt: "The industry around Artificial Intelligence has become more influential than ever before. People have making jokes about robots and machines stealing jobs"
-    publishedDateTime: 2021-06-30T15:45:00Z
-    webUrl: "https://www.techshout.com/how-artificial-intelligence-is-changing-the-advisory-industry/"
+  - title: "How AI Enables Companies to Harvest the True Value of Data"
+    excerpt: "Digital businesses are in pursuit of new ways to transform data at the speed of business. They rely on AI-enabled technologies to unbolt the true potential of data and leverage the insightful information to make decisions."
+    publishedDateTime: 2021-06-29T05:30:00Z
+    webUrl: "https://customerthink.com/how-ai-enables-companies-to-harvest-the-true-value-of-data/"
     type: article
     provider:
-      name: TechShout
-      domain: techshout.com
-    quality: 39
+      name: CustomerThink
+      domain: customerthink.com
+    quality: 37
     images:
-      - url: "https://www.techshout.com/wp-content/uploads/2020/06/artificial-intelligence.jpg"
-        width: 720
-        height: 404
+      - url: "https://customerthink.com/wp-content/uploads/business-5205180_1280-1080x675-tech-pixabay.jpg"
+        width: 1080
+        height: 675
         isCached: true
 
 secured: "QIpY8lyd3TAKYY6Vudv5GseC/zOsTIcCnqqqwtH+kFaDhSLvdEZEQXz7K/IBdkwyhmQlNoYUZuEXNHeUAUHOEFxGvks0MT+wbvNv2hIhms3JwZY7kimzbx8jKxXuAsS/DpkI5YpGJ7XIhXw8WUi1aX1FjS3zdoocZF6Hrqql9XeDuzPBr64ZYrD6Urgkrmiv+1gOKT6DgfZDmjlXgtYcjGLF/Dqji1Tuj8upJr8wCceO/bVoITjKy7TaC8M5BQdnCQzm8RVipcMra+cZFQZM/8tki5GmsyEe72HG3hDN2dJv3Q5663VYbzGA6FbT3BzaNp4vL9ftdjQaZanmML9SbdKZS5V+JyIaTDBFFIDT6lBlYFZ9xjvGAv9wCZ4h0NJ5tAhTDv/Q/MjDAOqKmHcnkGj0TbTfkcEmYmJ2HiYEtsscp4Hd20PQJ6UWHvdkukfTm2lhh389ZwaAWozLZL/Ku/NQnqQDAHi/O6Hd375HY3FM4Q3pSwCDXt77eizn5dWwi+/WSsnOnR2inFIETzpIMg==;baIP3HJiJMdsMZt8jheiOQ=="

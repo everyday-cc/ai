@@ -51,6 +51,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "New VA tool uses artificial intelligence to predict COVID-19 patient mortality"
+    excerpt: "A new VA tool that processes data using artificial intelligence can predict mortality rates within 120 days of when a patient is diagnosed with COVID-19."
+    publishedDateTime: 2021-07-01T13:00:00Z
+    webUrl: "https://blogs.va.gov/VAntage/90780/new-va-tool-uses-artificial-intelligence-predict-covid-19-patient-mortality/"
+    type: article
+    provider:
+      name: United States Department of Veterans Affairs
+      domain: va.gov
+    quality: 35
+    images:
+      - url: "https://blogs.va.gov/VAntage/wp-content/uploads/2021/06/BANNER-PHOTO-.jpg"
+        width: 4256
+        height: 2832
+        isCached: true
 
 secured: "e1qSLqfxJ+0o7XW7QMxmvBUTc6ouIXcIQVbpLy5hyLG+BwPoGhHlELuOEdyGws0n98LwtcDp6Ya6woU23pSqPLZbI1GOC8aGB2YsiF+RD/OscfZY5AcN4Hwf70nayhNKflCZb9U6quoQNVyXapRx+AdIM7PTul3VFVhz4R/KtWv+a/QpzO3jHgWE8vrvgSAEOryJvGYS5t49xi0DO43OYikNeBh5DKr2Xby6xW3ywRReHkA3GwBUnV90n5nM0ML8vZrQrjI8M3ZZ8GYNlfbh3Z6dH9550k9SdvSlhItxHfMvMsqGdZZzEVNcctJGg3NI8o/S2arUmqolqOy6gBURmzkoLnnbKjlzrziN+eJexc4=;oZ6bAIXd7ogkG9NJmzW92A=="
 ---

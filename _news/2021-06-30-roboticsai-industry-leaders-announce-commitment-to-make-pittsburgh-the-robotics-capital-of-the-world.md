@@ -3,8 +3,8 @@ category: news
 title: "Robotics/AI Industry Leaders Announce Commitment to Make Pittsburgh the 'Robotics Capital of the World'"
 excerpt: "PRNewswire-PRWeb/ -- (PRN), a group dedicated to the growth of the region's robotics and artificial intelligence companies, today announced it has attracted"
 publishedDateTime: 2021-06-29T20:00:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_pennsylvania/robotics-ai-industry-leaders-announce-commitment-to-make-pittsburgh-the-robotics-capital-of-the-world/article_f9288136-da14-5c79-b4ef-5909fa9fc9a5.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_pennsylvania/robotics-ai-industry-leaders-announce-commitment-to-make-pittsburgh-the-robotics-capital-of-the-world/article_f9288136-da14-5c79-b4ef-5909fa9fc9a5.html"
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/robotics-ai-industry-leaders-announce-commitment-to-make-pittsburgh-the-robotics-capital-of-the-world/article_f9288136-da14-5c79-b4ef-5909fa9fc9a5.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/robotics-ai-industry-leaders-announce-commitment-to-make-pittsburgh-the-robotics-capital-of-the-world/article_f9288136-da14-5c79-b4ef-5909fa9fc9a5.html"
 type: article
 quality: 53
 heat: 53
@@ -24,6 +24,6 @@ images:
     height: 720
     isCached: true
 
-secured: "uVhVB5oVIZebJesFfSZcXqi/uAL4+eHFx0dApxfvUnIQ4IlCdznToo/cH9P5vJn5ptDI1xLuZCcQ1L6HBvmaJFzqZhbSkAbWz/D2zex8Aal2eUsQDnyg8S1yefr7EFrPjlKebjdwJ+PVetT+sJsAgJkxFlJubxkgt/u6tHJfgaicypGpaDKksU+AMxfzIsgeoW7qvr4CQEC2ynhaGAt2+UghycqR+V22EUgmX2JWEeQS3xoca6IeSxXBdFMeVgraC4mB6fZ/pBwqMICDVihmyQm0Lil8SZCgux1GgLAXMDndcbXu6wlUZa3D5nSngXbGiqzN8KCjnv4vlfkiQ64aYTQawUE9bgmr82l+KbysS7U=;z3jFzYSrEtF8DY3zoaMnVg=="
+secured: "vQ+sgPau8bP2ehD/w1VgaVtqJHfz1hsrYy/Ko5A2dzEjVRH/2mByx0p3u5AnkaIl8LVsQhyV2YpBoHW1GoQnHH3dnMTh+zbLHNvHipG7IpQRAdVgDWyJqjSu3flLbIs0A2sB+3Y29ywFxm5w5qWhUHGXf9znJjG6/v4iyYBIHxqCEfXUe6quvIK6MvZbtSSwvh22C1dftxUU9iJHNO4NQ7c9ri/aNj+Ji/UkTyXcMr2ZOLr18KngWTkirc4V5pnJ30bQiYLm4Yd2cH4afnyMqluJGihMbl6ZYn1TL9IWIjMkl3rMrviVadBwBBb303gBYKXJJHEAMiavZ64RfUBjNKYZJZZ5/VUv4m1+f7uh9SE=;e8aoyelH9NMD1n0dsHX6tw=="
 ---
 

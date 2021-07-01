@@ -56,7 +56,7 @@ related:
     provider:
       name: The Verge
       domain: theverge.com
-    quality: 89
+    quality: 91
     images:
       - url: "https://cdn.vox-cdn.com/thumbor/6fNTuqlQ4-TRmQ9LVzVOFOw8exs=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/69521667/acastro_200331_1777_zoom_0003.0.0.jpg"
         width: 1400

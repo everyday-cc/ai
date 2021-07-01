@@ -25,36 +25,33 @@ images:
     isCached: true
 
 related:
-  - title: "Watchdog: Six federal agencies used facial recognition software to ID George Floyd protesters"
-    excerpt: "Six federal agencies used facial recognition software to identify protesters who demonstrated in the wake George Floyd's death at the hands of Minneapolis Police last year, according to a government watchdog."
-    publishedDateTime: 2021-06-29T21:20:00Z
-    webUrl: "https://thehill.com/policy/technology/560805-watchdog-6-federal-agencies-used-facial-recognition-software-to-id-george"
-    ampWebUrl: "https://thehill.com/policy/technology/560805-watchdog-6-federal-agencies-used-facial-recognition-software-to-id-george?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/technology/560805-watchdog-6-federal-agencies-used-facial-recognition-software-to-id-george?amp"
+  - title: "Calls for Biden to ban facial recognition grow after GAO report’s findings"
+    excerpt: "The findings of a recent facial recognition report by the GAO are renewing previous calls for President Joe Biden to ban the technology."
+    publishedDateTime: 2021-07-01T13:10:00Z
+    webUrl: "https://www.dailydot.com/debug/facial-recognition-gao-biden/"
+    ampWebUrl: "https://www.dailydot.com/debug/facial-recognition-gao-biden/?amp"
+    cdnAmpWebUrl: "https://www-dailydot-com.cdn.ampproject.org/c/s/www.dailydot.com/debug/facial-recognition-gao-biden/?amp"
     type: article
     provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 48
+      name: The Daily Dot
+      domain: dailydot.com
+    quality: 57
     images:
-      - url: "https://thehill.com/sites/default/files/facial_recognition_getty.jpg"
-        width: 980
-        height: 680
+      - url: "https://uploads.dailydot.com/2021/06/biden-facial-recognition.jpg?auto=compress%2Cformat&ixlib=php-3.3.0"
+        width: 2000
+        height: 1000
         isCached: true
-  - title: "South Florida Cops Used Facial Recognition in ‘Horrifying’ Scheme to Target Peaceful Protesters: Newspaper"
-    excerpt: "During the George Floyd protests in South Florida, facial-recognition technology was deployed to identify protesters — who had committed no crimes – by the Broward County sheriff, and the Fort Lauderdale and Boca Raton police departments."
-    publishedDateTime: 2021-06-29T12:55:00Z
-    webUrl: "https://www.predictiveanalyticsworld.com/machinelearningtimes/south-florida-cops-used-facial-recognition-in-horrifying-scheme-to-target-peaceful-protesters-newspaper/12193/"
+  - title: "Federal Law Enforcement Is Running Roughshod Over Facial Recognition Privacy, Says GAO"
+    excerpt: "Out of the 86 federal agencies that employ full-time law enforcement officers, the Government Accountability Office (GAO) surveyed 42 of them about whether they either owned and/or used facial recognition technologies from outside suppliers."
+    publishedDateTime: 2021-06-30T19:55:00Z
+    webUrl: "https://reason.com/2021/06/30/federal-law-enforcement-is-running-roughshod-over-facial-recognition-privacy-says-gao/"
+    ampWebUrl: "https://reason.com/2021/06/30/federal-law-enforcement-is-running-roughshod-over-facial-recognition-privacy-says-gao/?amp"
+    cdnAmpWebUrl: "https://reason-com.cdn.ampproject.org/c/s/reason.com/2021/06/30/federal-law-enforcement-is-running-roughshod-over-facial-recognition-privacy-says-gao/?amp"
     type: article
     provider:
-      name: Predictive Analytics World
-      domain: predictiveanalyticsworld.com
-    quality: 21
-    images:
-      - url: "https://www.predictiveanalyticsworld.com/machinelearningtimes/wp-content/uploads/2021/05/MSDS_270x270_LM.gif"
-        width: 270
-        height: 270
-        isCached: true
+      name: Reason
+      domain: reason.com
+    quality: 31
 
 secured: "G3upIysqWuhjf1bnqqJ2jXOvatE5B1rGYWqU4mMKjPW41i2sFitC1ERg6lU9yjYtMpTBR5rPIBK0vNpk2VuLsid41d31+P2JoVfHQQtPPsL2aoxYLQD2muGGZU5OOPM+jfSLcOToJ+LOr/9C4ITHmcWK/NErPdDIYPSOYrDFsN+NdkeL4MeEQInKsj6H/S8VT2eBArktuYvLCkvUNOblpSBhAKJqKBA/9l0bwLQBV0Dojbro9650lnUV9QW6Ch/qGpkNRWMstHpGZsehOcod0gFsMBKjVbr0oopyYWPzwjwOvI7toD/nOF3uSgz4WWhoqK7OcXJsHGsAOVlQIhdomaZEu4FVUMO7nBvG9z2A8+uu/JRen62KHNWkVOMOFwazw4i8GUoHCFV547046ZumvhQ95eo94sAf+/Z/L1Ei2s09DB80ko7C2mJLZnE/uuBm1f3SZTnEu4Sn42C1kJXqHnwx1PyamJtFPToK0HSz00nhKrRmFBuPzV2AQkVTX/e5x/J6R7Rfrp4naZQcv7Twug==;K3MkMAQqyBRYPoZ9Mr1JVg=="
 ---

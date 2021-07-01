@@ -179,6 +179,15 @@ related:
       name: Telecompaper
       domain: telecompaper.com
     quality: 34
+  - title: "Microsoft, SES demo Azure Cloud for remote missions via secure GovSat service"
+    excerpt: "Microsoft and SES have demonstrated the use of Azure Cloud for remote missions using the secure MilSatCom connectivity. The demonstration also involved GovSat, public-private JV between the Luxembourg government and SES,"
+    publishedDateTime: 2021-07-01T13:15:00Z
+    webUrl: "https://www.telecompaper.com/news/microsoft-ses-demo-azure-cloud-for-remote-missions-via-secure-govsat-service--1388819"
+    type: article
+    provider:
+      name: Telecompaper
+      domain: telecompaper.com
+    quality: 31
   - title: "AT&T to run its mobility network on Microsoft's Azure for Operators cloud, delivering cost-efficient 5G services at scale"
     excerpt: "AT&T will move its 5G mobile network to the Microsoft cloud. This strategic alliance provides a path for all of AT&T's mobile network traffic to be managed using Microsoft Azure technologies. The companies will start with AT&T's 5G core,"
     publishedDateTime: 2021-06-30T14:36:00Z

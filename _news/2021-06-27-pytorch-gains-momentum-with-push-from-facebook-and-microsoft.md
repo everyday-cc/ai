@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/janakirammsv/2021/06/27/pytorch-gains-m
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janakirammsv/2021/06/27/pytorch-gains-momentum-with-push-from-facebook-and-microsoft/amp/"
 type: article
 quality: 121
-heat: 141
+heat: 151
 published: true
 
 provider:
@@ -47,6 +47,20 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60da43cf6b35cc5b8c6c2abd%2F0x0.jpg"
         width: 1200
         height: 801
+        isCached: true
+  - title: "AT&T hands 5G core to Microsoft Azure"
+    excerpt: "Microsoft is acquiring AT&T’s Network Cloud business as part of a new deal that will see Azure handle all of AT&T’s 5G traffic"
+    publishedDateTime: 2021-07-01T12:38:00Z
+    webUrl: "https://www.totaltele.com/510166/ATT-hands-5G-core-to-Microsoft-Azure"
+    type: article
+    provider:
+      name: Total Telecom
+      domain: totaltele.com
+    quality: 54
+    images:
+      - url: "https://www.totaltele.com/res/image/tech%20stuff/at&t.jpg"
+        width: 467
+        height: 467
         isCached: true
   - title: "AI Governance Market Growing Popularity & Emerging Trends | IBM Corporation, Google, Microsoft, Facebook, SAP SE"
     excerpt: "Global AI governance market is growing at a healthy CAGR of 33.7% during the forecast period of 2019 to 2026. The upcoming market report contains data for historic years 2017, the base year of calculation is 2018 and the forecast period is 2019 to 2026."

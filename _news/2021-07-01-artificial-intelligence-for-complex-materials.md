@@ -6,8 +6,8 @@ publishedDateTime: 2021-07-01T11:14:00Z
 originalUrl: "https://www.nanowerk.com/nanotechnology-news2/newsid=58372.php"
 webUrl: "https://www.nanowerk.com/nanotechnology-news2/newsid=58372.php"
 type: article
-quality: 37
-heat: 37
+quality: 39
+heat: 39
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - Machine Learning
 
 images:
   - url: "https://www.nanowerk.com/nanotechnology-news2/id58372_1.png"
@@ -23,6 +24,6 @@ images:
     height: 234
     isCached: true
 
-secured: "X+8wDO4jTio3GSTTZsMoWyC83PUbaWyYwRjYmwpJxVIW+oNyoRlX8cNqf6SDdlV4WY4kgQrLG1hQJQFbcXXzts+9AhSJRyTlbBCbmXxdlxIYgJoObON4IlcnmtSzDJfy/L9Qylriw06SW4VwcVL/z8T4y5JrVQ0Qpjt0alAi0q6/WKLV0B4IjZx2xS1YwY7XKmNsLqG+sEPtIEPz6X7E8iZ2Gs7QGw79R1aIoClDM64y5FBmd0INKFnuqGFKzFxLFn0K+G6Zq66RR7btn/Vplgf3e82XQ1pAnpfvSOMcTjW+EteXbjKmG/DCoZB5iwKgze+iTkd9hxiBZvJcye1T86YPo+aNPEc/vuXvFAP9zXM=;8go1floVO+MkDuMlg+NiXg=="
+secured: "m8CAttW9s+Cng0dT5nJyb1xrdGBnO504JtIH4xM7my09uOR7Wby4mHsEGe8uheRf+UeKoUlSLOvYEOz9BshXOShUTHWvOsWa9CMdVGz++1SMTCDngGEYev9QWH5bswoubLbnFaXHRWXWHCp9bnZ4qKmHuHOPp576iJUEtZLk4uiYxhsGrYnmZC7Z9MLc/yewUFS/SxrIsvvZt/YwnJPKbtBIwOe8qFRGZkjfUaman1VSEi1N1gG1NYEJmwjqYew2AccB3clz8KvacyRQXB8vzvRgri2xQMDueaGuJXFJ6lNX4RFd1B82Q9uK3dalaMM5NcK+5BcbAdLoGBmZjdtpsY8XiHKvL2Nbi5O7G56Og3CZQIEVcFP67Od0uuIWdhOHfGijvpAeHIx9xmIYGyDwsj1nj/VhgD/YO3xqVMOtYHrEJo1/pw/r5QHuuDocI1SqCLVaQ4x4AWp5NuUnYPJ/fSA3xUoOo79plOySZQgrYL/rhg+ihQRviHDsO7rnSC4XOPfb+VvdBkYpC55kbf650g==;z71UoUt7ziVLN0iq8N4YUg=="
 ---
 

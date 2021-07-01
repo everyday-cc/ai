@@ -33,6 +33,20 @@ images:
 related:
   - title: "Facebook updates Habitat environment to train ’embodied AI’"
     excerpt: "Facebook today announced Habitat 2.0, an updated version of its simulation environment, alongside new datasets and benchmarks."
+    publishedDateTime: 2021-06-30T21:30:00Z
+    webUrl: "https://ai.facebook.com/blog/habitat-20-training-home-assistant-robots-with-faster-simulation-and-new-benchmarks/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 167
+    images:
+      - url: "https://scontent-sea1-1.xx.fbcdn.net/v/t39.2365-6/61379250_2289364931329348_7271871964229140480_n.jpg?_nc_cat=105&ccb=1-3&_nc_sid=ad8a9d&_nc_ohc=xPUwAqG-JogAX-qKKU7&_nc_ht=scontent-sea1-1.xx&oh=28797380cbde35757e3bdcc16805b3cf&oe=60E1CB5C"
+        width: 1848
+        height: 1112
+        isCached: true
+  - title: "Facebook updates Habitat environment to train ’embodied AI’"
+    excerpt: "Facebook today announced Habitat 2.0, an updated version of its simulation environment, alongside new datasets and benchmarks."
     publishedDateTime: 2021-06-30T14:30:00Z
     webUrl: "https://venturebeat.com/2021/06/30/facebook-updates-habitat-environment-to-train-embodied-ai/"
     ampWebUrl: "https://venturebeat.com/2021/06/30/facebook-updates-habitat-environment-to-train-embodied-ai/amp/"

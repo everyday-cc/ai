@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/joemckendrick/2021/06/29/the-uneasy-all
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2021/06/29/the-uneasy-alliance-between-business-leaders-and-artificial-intelligence/amp/"
 type: article
 quality: 88
-heat: 108
+heat: 118
 published: true
 
 provider:
@@ -49,6 +49,20 @@ related:
     excerpt: "In the 7th edition of its annual State of AI report, Appen continues to explore the strategies  employed by companies large and small in successfully deploying AI. The reports surveys business  leaders and technical practitioners ( referred to as technologists) alike to understand  their priorities,"
     publishedDateTime: 2021-06-29T21:15:00Z
     webUrl: "https://insidebigdata.com/white-paper/the-state-of-ai-and-machine-learning-2/"
+    type: article
+    provider:
+      name: insidebigdata.com
+      domain: insidebigdata.com
+    quality: 54
+    images:
+      - url: "https://insidebigdata.com/wp-content/uploads/2021/06/Appen_State_AI_whitepaper_cover.png"
+        width: 300
+        height: 390
+        isCached: true
+  - title: "The State of AI and Machine Learning"
+    excerpt: "In the 7th edition of its annual State of AI and Machine Learning report, Appen continues to explore the strategies employed by companies large and small in successfully deploying AI. The reports surveys business leaders and technical practitioners ( referred to as technologists) alike to understand their priorities,"
+    publishedDateTime: 2021-07-01T13:00:00Z
+    webUrl: "https://insidebigdata.com/2021/07/01/the-state-of-ai-and-machine-learning/"
     type: article
     provider:
       name: insidebigdata.com

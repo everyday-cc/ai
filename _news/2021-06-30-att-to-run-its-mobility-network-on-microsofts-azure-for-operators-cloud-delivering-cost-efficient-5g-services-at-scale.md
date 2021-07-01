@@ -185,6 +185,15 @@ related:
       name: Telecompaper
       domain: telecompaper.com
     quality: 34
+  - title: "Microsoft, SES demo Azure Cloud for remote missions via secure GovSat service"
+    excerpt: "Microsoft and SES have demonstrated the use of Azure Cloud for remote missions using the secure MilSatCom connectivity. The demonstration also involved GovSat, public-private JV between the Luxembourg government and SES,"
+    publishedDateTime: 2021-07-01T13:15:00Z
+    webUrl: "https://www.telecompaper.com/news/microsoft-ses-demo-azure-cloud-for-remote-missions-via-secure-govsat-service--1388819"
+    type: article
+    provider:
+      name: Telecompaper
+      domain: telecompaper.com
+    quality: 31
   - title: "Artificial Intelligence In Genomics Market Continues To Impress | IBM, Microsoft, Deep Genomics, Fabric Genomics"
     excerpt: "Latest released the research study on Global Artificial Intelligence In Genomics Market, offers a detailed overview of the factors influencing the global business scope. Artificial Intelligence In Genomics Market research report shows the latest market insights,"
     publishedDateTime: 2021-06-30T10:25:00Z
@@ -195,6 +204,6 @@ related:
       domain: ksusentinel.com
     quality: 13
 
-secured: "Zo0TtgEOi30fop0Ib50zK7djZCixEn0jPcL04I0HJNVulfuFWooxQyhaPiyE+oeMlJuOBl/ZnGAMMMN95a8iGlDGkphGULj7ksBSC+odWDliP6jyOCUFWe+GxAYJ9k2LN0N1AmfSFS41AUegrYbIU+JlGIU0UCT54xHoO/lgjRXaKBJegKc6LfX4fB6twFzPidE/Yl92h7YgOiAKbaIxJe9LSUyS/LhjJqt4zfYt86yG32LKFtkcjsPJCbLp0/i8Puz24S2s8A/rHCx2e5Hl77/28H6e/sRE1cCMMCxQsG4VBkqYGU2enWWFPtynYr4NRFTWglkJvaS/XQP9RT3vKwXqtG0pnRkSexC8IEUtL68=;qEyGsAe7KcJb2vXW88m//w=="
+secured: "om5hnSPbUP79b20Xb/KIOkSNj8uKRbi0ByfGdzdOGpjnViakaeMDJVoLUAofkI/4IOolDxCxnP/xeZHydkW7zAklM7aGSJvnGLxIP+NYlNkv0/Pk3H4t3mwlcqbBm+BLo9kvKol1k2IQBUJhx0zk0nKtZoiXIKQ5263lBYEo2zCT0UEadxs9HCPC6ENelRhu2SMwrlYxwxAMGuv/ph9s+MUvxeQ2NwmpjM5sMmz1KtOvwic2yPsOAly4oViBxO+FcoPNky3rmZiZcarS5NuAaYFdNNgL+8RfOkvI2NmGTqzk/HOWA64De4X7VWkvdDVNTAmt1y4/bV7kt6ZI7tNga/pH/1cRnaBB5wNIBfFAzkI8RhD6cUoZBGgqO/ko1IbKu5oqA/2ZQZSYWIr5KytS1dKW5C6Fv0OjSPYTedHI2LQil+MxhEifod2goYLwuHRm697HWZfInV7pV6HGWFPL/M0zmfPVi1BiuHhqKZ/l2ihVXAYYOeXHQ4eItKVtNV8BtjNyLdEwdqSKTUwNw2DKWg==;wOVjTuBX6KLaZLBZiP+sLQ=="
 ---
 

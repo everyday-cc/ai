@@ -68,6 +68,20 @@ related:
       name: Medindia
       domain: medindia.net
     quality: 39
+  - title: "Using Machine Learning Methods to Predict Response to Immunotherapy"
+    excerpt: "Researchers developed machine learning models that can predict if someone will respond positively to immunotherapy."
+    publishedDateTime: 2021-07-01T12:00:00Z
+    webUrl: "https://www.genengnews.com/news/using-machine-learning-methods-to-predict-response-to-immunotherapy/"
+    type: article
+    provider:
+      name: GEN
+      domain: genengnews.com
+    quality: 39
+    images:
+      - url: "https://www.genengnews.com/wp-content/uploads/2021/03/Getty_1185598172-T-celFfightingCancerCell.jpg"
+        width: 1400
+        height: 932
+        isCached: true
 
 secured: "uxWTXKUZKKnmc96wV/l5bKZcM+5RkVHDBN2/7kNPvSP9IpRmH8yB7TP5dOcpdKDfIYT4RxzUwz2Wc6XobD04RS5Xka3CM/1npeUqdmtZSRrL5CS/kTZ7EK2xAgAnHfvhAoTKcntHk3f3MF4YSITeaAfGduXg89liETLGk/qfPJochQrybq2pQAcxIXb2KlyWCL5TruXbU/BGuymOKwAQRutRkGzqwig4kAKWJy8cP9ZiZiTHZeTLPvUQigoj2hUkM7vgDubcrDg+JaDZ9x8oWARUOPxwwa+OxPaT5yI0q5nA8az1iRmzYzpsD5wwVFYuYjZfB+9gQJXRFTyi5lg/KnZD0qZ+Thl3x2+QOGMI6DE=;0vLiS/X9iQu/LnPCKAu9uw=="
 ---

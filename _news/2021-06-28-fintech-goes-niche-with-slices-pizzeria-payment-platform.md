@@ -27,19 +27,56 @@ images:
     isCached: true
 
 related:
-  - title: "Symphony Partners With AI-Powered Fintech Saphyre To Offer Integrated ..."
-    excerpt: "NEW YORK, NY and LONDON, UK / ACCESSWIRE / June 29, 2021 / Symphony, the leading financial markets' infrastructure and technology platform, has established a strategic partnership with fintech firm Saphyre,"
-    publishedDateTime: 2021-06-29T12:00:00Z
-    webUrl: "https://www.pr-inside.com/symphony-partners-with-ai-powered-fintech-saphyre-to-offer-integrated-r4836839.htm"
+  - title: "Carro’s fintech arm launches financing plan for EVs, hybrid cars"
+    excerpt: "The GoGreen initiative allows private-hire vehicle drivers to enjoy lower interest rates as a reward for going green."
+    publishedDateTime: 2021-07-01T01:46:00Z
+    webUrl: "https://www.techinasia.com/carros-fintech-arm-launches-financing-plan-evs-hybrids"
     type: article
     provider:
-      name: PR-Inside
-      domain: pr-inside.com
-    quality: 38
+      name: Techinasia
+      domain: techinasia.com
+    quality: 34
+  - title: "F|T: The FinTech Times – FinTech SPAC attack"
+    excerpt: "Welcome to the FinTech Times, a weekly newsletter covering the biggest FinTech news from around the globe. If you want to read F|T before anyone else, make sure to subscribe using the form at the bottom of this page."
+    publishedDateTime: 2021-06-28T09:30:00Z
+    webUrl: "https://betakit.com/ft-the-fintech-times-fintech-spac-attack/"
+    type: article
+    provider:
+      name: BetaKit
+      domain: betakit.com
+    quality: 24
     images:
-      - url: "http://www.pr-inside.com/images/logos/pr-inside/logo_pr-inside_fb.png"
-        width: 1200
-        height: 628
+      - url: "https://cdn.betakit.com/wp-content/uploads/2019/12/Portag3.jpg"
+        width: 1050
+        height: 700
+        isCached: true
+  - title: "Qatar FinTech Hub preps demo day"
+    excerpt: "Qatar FinTech Hub (QFTH), founded by Qatar Development Bank (QDB) to support the growth of the FinTech industry in Qatar, has announced the Demo Day for Wave 2 of its flagship Incubator and Accelerator Programs which will take place on 1st July 2021,"
+    publishedDateTime: 2021-06-28T14:04:00Z
+    webUrl: "https://www.finextra.com/pressarticle/88314/qatar-fintech-hub-preps-demo-day"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 24
+    images:
+      - url: "https://www.finextra.com/about/finextra-logo.png"
+        width: 512
+        height: 512
+        isCached: true
+  - title: "FINBOA Named 2021 TAG FinTech ADVANCE Award Winner"
+    excerpt: "FINBOA, Inc., a leading innovator in digital automation and regulatory compliance for financial institutions, was recently selected as a 2021 TAG FinTech ADVANCE Award winner by the Technology Association of Georgia (TAG),"
+    publishedDateTime: 2021-06-30T11:53:00Z
+    webUrl: "https://www.lelezard.com/en/news-19881675.html"
+    type: article
+    provider:
+      name: Le Lézard
+      domain: lelezard.com
+    quality: 24
+    images:
+      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
+        width: 640
+        height: 480
         isCached: true
   - title: "UK SME fintech platform Tide forays into India, commits $100 million investment"
     excerpt: "Tide on Tuesday announced its entry into India, committing a Rs 1,000-crore investment over the next five years."
@@ -55,6 +92,15 @@ related:
         width: 1019
         height: 573
         isCached: true
+  - title: "FinTech Company Centime Launches Cloud-based Platform to Control Cash Flow"
+    excerpt: "Centime, a FinTech company, today announced the launch of its Cloud-based Cash Flow Control solution. With its state-of-art solution, the company will empower businesses by enabling them to optimize all aspects of their cash flow life cycle in an easy-to-use,"
+    publishedDateTime: 2021-06-30T10:17:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-fintech-company-centime-launches-cloud-based-platform-control-/2021/06/30/9400542.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 2
 
 secured: "YbHNe1WDItIhroPEgJkieYsw6+ZgQ5MAG6RAG48M2L4pmq960LHNYCkKURaohhWKLAZPYH8mGAn+lmYcM1fXUs9gpqtIsDJ7/UeOJjdXkjTxcWMQlpZ0AUOvMq2sBtyA/JJHwRXR73ZtP0lNjmwo7NT41yyjwyI5AmoJRwhnjlxmWKW3ldwDYhmnx+EZwYuPWyTOpM3P7GDEDbysWEF2l5OUvjVO7Xsws/t8ysQP03wQ4733alJgE/PA5lOrPkda/xV0/d4Nefg6A10v9EEwve1sN5itGFZT2SxYfYMTqK6CrdF8E7MoobRGtS5kvyXZLl4RLg2KQ0KyKpH0r/D9CDHsZngCSZIrzjlbJfklBPWSbhsZz8OWmYrcydnoTem4tst/QcMOclzL9n4o5pZ+vYmjEpdoI2QpNmyX0el5prNN0aX3r5a86vL1aKRlGXf1kdI2O8COjuW4OyQd6mk6jJchnq0vvjgDs+QmP25SjPjNBoeA9oyvzp/nXyL7mkKOUrNVyijgi5/AHlEvwRthiA==;QQgRnLeeUNg++crigSsjCw=="
 ---

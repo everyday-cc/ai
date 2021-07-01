@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Global AI in Fintech Market Size, Share to Expand At 17.1% CAGR Through 2025"
+    excerpt: "Selbyville, Delaware, The AI in Fintech market study now available with Market Study Report, LLC, is a collation"
+    publishedDateTime: 2021-07-01T11:34:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-ai-in-fintech-market-size-share-to-expand-at-171-cagr-through-2025-2021-07-01"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 66
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "In The Push Against Cash, Cannabis FinTech Meets The Industry Where It Is"
     excerpt: "Dama Financial discusses the importance of offering cannabis businesses a choice between preserving cash processes and graduating to electronic payments."
     publishedDateTime: 2021-06-28T12:00:00Z
@@ -52,42 +66,72 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 41
-  - title: "Carro’s fintech arm launches financing plan for EVs, hybrid cars"
-    excerpt: "The GoGreen initiative allows private-hire vehicle drivers to enjoy lower interest rates as a reward for going green."
-    publishedDateTime: 2021-07-01T01:46:00Z
-    webUrl: "https://www.techinasia.com/carros-fintech-arm-launches-financing-plan-evs-hybrids"
+  - title: "AI In Fintech Market: Size & Trends Shows a Rapid Growth by 2027"
+    excerpt: "The Global AI In Fintech market was estimated at USD 7 91 billion in 2020 and it is expected to reach USD 26 67 billion by 2027 The market is also expected to witness a CAGR of 23 over the"
+    publishedDateTime: 2021-06-28T08:21:00Z
+    webUrl: "https://www.openpr.com/news/2315029/ai-in-fintech-market-size-trends-shows-a-rapid-growth-by-2027"
+    ampWebUrl: "https://www.openpr.com/amp/2315029/ai-in-fintech-market-size-trends-shows-a-rapid-growth-by-2027"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2315029/ai-in-fintech-market-size-trends-shows-a-rapid-growth-by-2027"
     type: article
     provider:
-      name: Techinasia
-      domain: techinasia.com
-    quality: 34
-  - title: "F|T: The FinTech Times – FinTech SPAC attack"
-    excerpt: "Welcome to the FinTech Times, a weekly newsletter covering the biggest FinTech news from around the globe. If you want to read F|T before anyone else, make sure to subscribe using the form at the bottom of this page."
-    publishedDateTime: 2021-06-28T09:30:00Z
-    webUrl: "https://betakit.com/ft-the-fintech-times-fintech-spac-attack/"
+      name: openpr.com
+      domain: openpr.com
+    quality: 39
+  - title: "Symphony Partners With AI-Powered Fintech Saphyre To Offer Integrated ..."
+    excerpt: "NEW YORK, NY and LONDON, UK / ACCESSWIRE / June 29, 2021 / Symphony, the leading financial markets' infrastructure and technology platform, has established a strategic partnership with fintech firm Saphyre,"
+    publishedDateTime: 2021-06-29T12:00:00Z
+    webUrl: "https://www.pr-inside.com/symphony-partners-with-ai-powered-fintech-saphyre-to-offer-integrated-r4836839.htm"
     type: article
     provider:
-      name: BetaKit
-      domain: betakit.com
-    quality: 24
+      name: PR-Inside
+      domain: pr-inside.com
+    quality: 38
     images:
-      - url: "https://cdn.betakit.com/wp-content/uploads/2019/12/Portag3.jpg"
-        width: 1050
-        height: 700
+      - url: "http://www.pr-inside.com/images/logos/pr-inside/logo_pr-inside_fb.png"
+        width: 1200
+        height: 628
         isCached: true
-  - title: "Qatar FinTech Hub preps demo day"
-    excerpt: "Qatar FinTech Hub (QFTH), founded by Qatar Development Bank (QDB) to support the growth of the FinTech industry in Qatar, has announced the Demo Day for Wave 2 of its flagship Incubator and Accelerator Programs which will take place on 1st July 2021,"
-    publishedDateTime: 2021-06-28T14:04:00Z
-    webUrl: "https://www.finextra.com/pressarticle/88314/qatar-fintech-hub-preps-demo-day"
+  - title: "AI in Social Media Market Research Report with Size, Share, Value, CAGR, Outlook, Analysis, Latest Updates, Data, and News 2021-2028"
+    excerpt: "The report forecast global AI in Social Media market to grow to reach xx Million USD in 2021 with a CAGR of during the"
+    publishedDateTime: 2021-06-29T06:53:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-in-social-media-market-research-report-with-size-share-value-cagr-outlook-analysis-latest-updates-data-and-news-2021-2028-2021-06-29"
     type: article
     provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 24
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 36
     images:
-      - url: "https://www.finextra.com/about/finextra-logo.png"
-        width: 512
-        height: 512
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Global Artificial Intelligence Chipsets Market Size will be Expanded and Reach Millions $ by 2024"
+    excerpt: "Global Artificial Intelligence Chipsets Market Research Report: Industry Analysis, Share, Revenue, And Future Trends. The report published by Market Research Store on the global A"
+    publishedDateTime: 2021-06-28T08:16:00Z
+    webUrl: "https://ksusentinel.com/2021/06/28/global-artificial-intelligence-chipsets-market-size-will-be-expanded-and-reach-millions-by-2024/"
+    type: article
+    provider:
+      name: The Sentinel
+      domain: ksusentinel.com
+    quality: 26
+    images:
+      - url: "https://themarketeagle.com/wp-content/uploads/2021/03/Management2.jpg"
+        width: 1024
+        height: 624
+        isCached: true
+  - title: "Symphony Partners With AI-Powered Fintech Saphyre To Offer Integrated Pre- and Post-Trade Solution"
+    excerpt: "NEW YORK, NY and LONDON, UK / ACCESSWIRE / June 29, 2021 / Symphony, the leading financial markets’ infrastructure and technology platform, has established a strategic partnership with fintech firm Saphyre,"
+    publishedDateTime: 2021-06-29T12:31:00Z
+    webUrl: "https://www.digitaljournal.com/pr/symphony-partners-with-ai-powered-fintech-saphyre-to-offer-integrated-pre-and-post-trade-solution"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 25
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2021/06/Europe-Tourists-AFP-1K-04-600x337.jpg"
+        width: 600
+        height: 337
         isCached: true
   - title: "Top 5 Fintech Cities in the USA"
     excerpt: "We’ve compiled a list of the top five fintech hubs’ in the US, outlining their most distinctive characteristics and features, as well as some of the top fintech companies they’ve created."
@@ -102,20 +146,6 @@ related:
       - url: "https://fintechnews.ch/wp-content/uploads/2021/06/Top-5-Fintech-Cities-in-the-USA.jpg"
         width: 2048
         height: 1136
-        isCached: true
-  - title: "FINBOA Named 2021 TAG FinTech ADVANCE Award Winner"
-    excerpt: "FINBOA, Inc., a leading innovator in digital automation and regulatory compliance for financial institutions, was recently selected as a 2021 TAG FinTech ADVANCE Award winner by the Technology Association of Georgia (TAG),"
-    publishedDateTime: 2021-06-30T11:53:00Z
-    webUrl: "https://www.lelezard.com/en/news-19881675.html"
-    type: article
-    provider:
-      name: Le Lézard
-      domain: lelezard.com
-    quality: 24
-    images:
-      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
-        width: 640
-        height: 480
         isCached: true
   - title: "8 Types Of Fintech To Take Advantage Of"
     excerpt: "Whether it’s checking our bank balance with an app or Venmoing a friend the cost of a bagel, fintech impacts our daily lives. By streamlining and automating"
@@ -145,15 +175,15 @@ related:
         width: 580
         height: 339
         isCached: true
-  - title: "FinTech Company Centime Launches Cloud-based Platform to Control Cash Flow"
-    excerpt: "Centime, a FinTech company, today announced the launch of its Cloud-based Cash Flow Control solution. With its state-of-art solution, the company will empower businesses by enabling them to optimize all aspects of their cash flow life cycle in an easy-to-use,"
-    publishedDateTime: 2021-06-30T10:17:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-fintech-company-centime-launches-cloud-based-platform-control-/2021/06/30/9400542.htm"
+  - title: "Global Artificial Intelligence in the Medical Imaging Market Size, Status and Forecast 2021-2027"
+    excerpt: "Pages Report] Check for Discount on Global Artificial Intelligence in the Medical Imaging Market Size, Status and Forecast 2021-2027 report by QYResearch Group. Doctors have been using medical imaging techniques to diagnose"
+    publishedDateTime: 2021-06-30T07:47:00Z
+    webUrl: "https://www.reportsnreports.com/reports/4624721-global-artificial-intelligence-in-the-medical-imaging-market-size-status-and-forecast-2021-2027.html"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 2
+      name: ReportsnReports
+      domain: reportsnreports.com
+    quality: 4
 
 secured: "9pxlfvbubNMOGqSXpifJsR7xKp935japWDQziNfUbwGyMRsZbhUbNqYzXUCa8X9k0wsA0WjISySGoEuAeXRn1O56OV2nyCz/retPNJRPsPBEl4KtNAvOlGj8WsXjnGOo/9LEaGVZCuNJkW4hbr0rjzv+BS8TjnuLR0lIquSBsEwIsL3VArhIu2h2n3RAviPWfG1CIIqh5v6o+GmisQtH+OsDgV/Wr5GaUf4XcVnKsUYOirgDvCrYwAzl20qFkrONz/8h5PAOZf8ijfemxyY5ELz87gJ601EDnDw4StLJDl2Qg27Ob6FpN9u/O1BZxHMzX1HEbBe3b1CXk5VGfe/+02MikDSGGHqRY4jG5dRWBrwMUrFp3v+WaflDAM285inxDHcv9BKlJBGeBrt8+qJkbi8yAC03fsK+QV5nVhuvDD/ITrAsqdbfzPjRYTljUBUgncdmTi/oFbDBn7ELIvvyha//vVFbRnRBNw8r2Qyn8r8DrNemZd5YWbgh+52WvUldsnkbjcrE6bNhR0NTiClPcg==;7VbxFu+6Sr4vSRL/HJED4g=="
 ---

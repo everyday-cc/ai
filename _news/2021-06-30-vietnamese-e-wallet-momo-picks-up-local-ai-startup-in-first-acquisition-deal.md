@@ -22,6 +22,22 @@ topics:
   - AI
   - AI in Finance
 
+related:
+  - title: "MoMo acquires AI startup Pique"
+    excerpt: "Vietnam-based payment startup <a href=' target='_blank'>MoMo has acquired the AI startup <a href=' target='_blank'>Pique in a bid to better capitalise on the data of its registered"
+    publishedDateTime: 2021-07-01T12:42:00Z
+    webUrl: "https://thepaypers.com/payments-general/momo-acquires-ai-startup-pique--1250132"
+    type: article
+    provider:
+      name: The Paypers
+      domain: thepaypers.com
+    quality: 37
+    images:
+      - url: "https://thepaypers.com/images/linked-share.png"
+        width: 663
+        height: 347
+        isCached: true
+
 secured: "WKadY41gMODmv5qnD517mXIuFe88P2SZUIHTv4DymtaFMdX5sqsTNWp9Pl1pVHcc1+zkmrH1dqbNIzLGkASNf8Va7Lm8V38zuxxqT/3ytWAf1TMk7JfB14Rcpu/NL6iXo0X8jidDUJMuJXiHbrjOUY82dFwkqaqA0qLQHDymF5Whg3WRcWY2t+QV204YKbn9skZneSttYwpy8mFscPcWyj/2malcsSTZRWwNmBbReVR81qzZesFVyWAR/PKPvRpyMvn7eX1thMvD5wZN3zkGir4fwXaBgz4DWSApa3vtX3Gm9U9Vqh3cx1Qv2HX+CoZOHtSJbEWkHKh1WgqVwz1N17TjhYd/1PYY2PJK209eAtQ5+cSxWso2EYUpbkfUs7QNio9xf2g8DdGECGm2AjUcvXQQVOJL9dluXLP3gmZ+vcqvjNeOssOSLlAmRKtA2aEUeUoMLP9qNQSPq0OLxdVyhO40tFMhPwWolHqiMrZKjbM4nfJBcKf+Q+EkOHkux+GFk7vLyXCKrxYE53TXIlFf8A==;3Hf7uBu706t2Ttpbc8j+Nw=="
 ---
 

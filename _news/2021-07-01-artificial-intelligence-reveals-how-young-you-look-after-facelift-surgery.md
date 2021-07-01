@@ -8,9 +8,9 @@ webUrl: "https://www.medindia.net/news/artificial-intelligence-reveals-how-young
 ampWebUrl: "https://www.medindia.net/amp/news/artificial-intelligence-reveals-how-young-you-look-after-facelift-surgery-202032-1.htm"
 cdnAmpWebUrl: "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/artificial-intelligence-reveals-how-young-you-look-after-facelift-surgery-202032-1.htm"
 type: article
-quality: 58
-heat: 68
-published: false
+quality: 60
+heat: 70
+published: true
 
 provider:
   name: Medindia
@@ -19,6 +19,7 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+  - Machine Learning
 
 images:
   - url: "https://images.medindia.net/amp-images/health-images/cosmetic-surgery.jpg"
@@ -39,6 +40,6 @@ related:
       domain: medicalxpress.com
     quality: 25
 
-secured: "sRPuL08Svkxg+VQhqf1wU+BkzR9GRt+2rfW9sljFcpND3bxbwCMbdr05FqARIv/08+mxLEZ3a4+dSL4ZDUfd5uuOveC6lPYlv8UDK8ElEkkNTNNa9rEAsOjP1fEac3W15J6K5XnM4/5Ve2qsaoIs7XCT525d98dbdqmDfvJlUK0DZrKFN1ycKYcxNSLQSYiLFoLK9VLOfkg2dmv9SV6mSXa4RitFs0vepK1XpjP4Qsh9VGAdUndHA3QQ87BXklTwaTC6xYrgj1E0Vbcj+kJjX0zLva6H/VhfGlEZC33wDzByy7Ndl21HgsvqJ05ESqeCrKaffp0m+AbBoi5FXWsPRXVC3k2ZqP0t7+hmjypm+QU=;D4yx6BjGa0kuyTut2NOtYQ=="
+secured: "hQHCjaF2Dd21JelH6sPJUmh+e0VCMpoH0n78jf4XaNrbf90lnHA0Cblf2NvlOGh6dkjIf0PEU31ELbgTssOO4Eu9gdDwylxw+Y1XwyJ1xuqKvpTZ1ja1LhCdZ2wJh7pZfId0JAbt9coNKEeR1saVc9itxia5PlT//UtvdO3zuAYwAY2VRv0I2EW3jpfUgI+3/NG4iXgke/Oda37a1v/SIh2UuTI2PkFybOjvY3XwxH7GPc0TRA5AvzTj33N6cT2MPLYMTGZwvJ/jA7duH3jnW/jRg1yEdyothTktWIgj9PPDWA1XOKOwcB6rLDW5panU3qBBvGgUoSjPe3ooL56ZOGtxz6F+5sydbG38WwRYrXgqaij2ZetFp2Xre9BO7sPVdLivx8+dzP3a4AUZIaxtFH8dqiduIxHvla2dxwUtHFCE+PY9pVedWnAArbYf+HXPrDWdABrvRJyU//t/flGfSD6/FYhZ7GgcKI4TlIivjNHJUZ0oj7gpaepQLGbS5aHvjvgaX0R9u+fW7ypx71qR/Q==;ATemqDYaixWHtdQ4Ygsv6g=="
 ---
 

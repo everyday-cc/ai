@@ -41,20 +41,6 @@ related:
         width: 980
         height: 680
         isCached: true
-  - title: "GAO Urges Federal Agencies to Weigh Facial Recognition Risks"
-    excerpt: "Federal law enforcement agencies should track their use of facial recognition technology from the private sector and local governments and assess potential threats to privacy and risks of bias, the U."
-    publishedDateTime: 2021-06-29T22:10:00Z
-    webUrl: "https://news.bloomberglaw.com/privacy-and-data-security/gao-urges-federal-agencies-to-weigh-facial-recognition-risks"
-    type: article
-    provider:
-      name: Bloomberg Law
-      domain: bloomberglaw.com
-    quality: 39
-    images:
-      - url: "https://db0ip7zd23b50.cloudfront.net/dims4/default/4d21995/2147483647/crop/3999x1536%2B0%2B1130/resize/959x369%3E/quality/90/?url=http%3A%2F%2Fbloomberg-bna-brightspot.s3.amazonaws.com%2F18%2F0d%2F64c54c824d6fad38cebee40e0236%2Fgettyimages-1147205618.jpg"
-        width: 959
-        height: 368
-        isCached: true
 
 secured: "PabTnVakivFgchxkfTT6tXzt7tA+XUy9wlwS+IXP4vWMHEEOF3yoGgFkq6iQ6lF759DWq221sDS9QZyzf5a4XUQqvX5BGaxZo7B+SlvAmE6gFfFXDfE09ICzOEl2XKcRXGQG3z2m3rCjCbrdiMkiBz/WmCRvFOAoYQ4nbOOfQWEtVJro7NFJ9o+U6BhrwCQzNq+zVCPKHLSVtpNV43yfAZEYCi4uDn+V6q9z5lto1CHqO9Dnim0tSJ2XiHVaNK2H7022JU4258dhEw32+/Yufkb83KtctaYS5eQn+TGZhaIvyLHTeemBmrA8lrBpyJuZ7sBPSUDP8CjUqrbH/tJTDL6pIG9WcRdTYEoogLR2lJ4=;U9eJoCFjkiyih7mrovV7RA=="
 ---

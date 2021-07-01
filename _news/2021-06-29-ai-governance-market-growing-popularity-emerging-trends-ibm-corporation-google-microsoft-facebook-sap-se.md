@@ -52,6 +52,20 @@ related:
         width: 1200
         height: 801
         isCached: true
+  - title: "AT&T hands 5G core to Microsoft Azure"
+    excerpt: "Microsoft is acquiring AT&T’s Network Cloud business as part of a new deal that will see Azure handle all of AT&T’s 5G traffic"
+    publishedDateTime: 2021-07-01T12:38:00Z
+    webUrl: "https://www.totaltele.com/510166/ATT-hands-5G-core-to-Microsoft-Azure"
+    type: article
+    provider:
+      name: Total Telecom
+      domain: totaltele.com
+    quality: 54
+    images:
+      - url: "https://www.totaltele.com/res/image/tech%20stuff/at&t.jpg"
+        width: 467
+        height: 467
+        isCached: true
 
 secured: "uVmxecirXiWQdY/xW9GX5xR7jxtAKi0jFReYbJc8OexTHv3Epn9dkGPTipq2y31nDvRc55UWKjbG+m3cpwMgVtx6AspbtQpJ/j36CElCOD2dQK7TDcC8S/HimQeh8A5onD0yZBmGILrWCGRPxLETaVcFdteXiVhA+p7bu3KL9BN+j5R0Myco04fjlfA2whB8TFFM7pUCfbZVrmAtiIweL87+0hPcGlejKWo15AopD0btF24YTXiljbjWV/6afT8A20CNaIAY+E/GRRaRw7RA1dMHEDd8JK1XsVFqAvbzRoP4bR9TONgvqi+5gp3d7apfV9eudW2wAYwS8TiiXhvTcbb+ZwawFlzxlZto8Q5URY0=;HwR8ML6YkCK7KPYVDENbBA=="
 ---

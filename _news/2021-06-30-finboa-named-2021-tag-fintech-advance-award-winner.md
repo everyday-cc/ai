@@ -25,33 +25,22 @@ images:
     isCached: true
 
 related:
-  - title: "In The Push Against Cash, Cannabis FinTech Meets The Industry Where It Is"
-    excerpt: "Dama Financial discusses the importance of offering cannabis businesses a choice between preserving cash processes and graduating to electronic payments."
-    publishedDateTime: 2021-06-28T12:00:00Z
-    webUrl: "https://www.pymnts.com/news/b2b-payments/2021/dama-financial-cannabis-cash-fintech-electronic-payments/"
-    ampWebUrl: "https://www.pymnts.com/news/b2b-payments/2021/dama-financial-cannabis-cash-fintech-electronic-payments/amp/"
-    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/b2b-payments/2021/dama-financial-cannabis-cash-fintech-electronic-payments/amp/"
+  - title: "FinTech Goes Niche With Slice’s Pizzeria Payment Platform"
+    excerpt: "As restaurants grow more digital, with more solutions providers emerging each month to meet their evolving needs, restaurant technology is growing more granular."
+    publishedDateTime: 2021-06-28T16:44:00Z
+    webUrl: "https://www.pymnts.com/restaurant-innovation/2021/fintech-goes-niche-with-slice-pizzeria-payment-platform/"
+    ampWebUrl: "https://www.pymnts.com/restaurant-innovation/2021/fintech-goes-niche-with-slice-pizzeria-payment-platform/amp/"
+    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/restaurant-innovation/2021/fintech-goes-niche-with-slice-pizzeria-payment-platform/amp/"
     type: article
     provider:
       name: pymnts.com
       domain: pymnts.com
-    quality: 58
+    quality: 44
     images:
-      - url: "https://securecdn.pymnts.com/wp-content/uploads/2019/12/cannabis-business-457x305.jpg"
+      - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/06/slice-pizza-payment-platform-457x274.png"
         width: 457
-        height: 305
+        height: 274
         isCached: true
-  - title: "AI in Fintech Market Scope Emerging Trends, Analysis and Forecast 2026"
-    excerpt: "The AI in Fintech Market Global Industry Analysis Size Share Growth Trends and Forecast 2020 2026 report intends to offer a resourceful means to assess the AI in Fintech Market and entails the all inclusive analysis and upfront statistics with"
-    publishedDateTime: 2021-06-30T13:01:00Z
-    webUrl: "https://www.openpr.com/news/2317861/ai-in-fintech-market-scope-emerging-trends-analysis"
-    ampWebUrl: "https://www.openpr.com/amp/2317861/ai-in-fintech-market-scope-emerging-trends-analysis"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2317861/ai-in-fintech-market-scope-emerging-trends-analysis"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 41
   - title: "Carro’s fintech arm launches financing plan for EVs, hybrid cars"
     excerpt: "The GoGreen initiative allows private-hire vehicle drivers to enjoy lower interest rates as a reward for going green."
     publishedDateTime: 2021-07-01T01:46:00Z
@@ -61,20 +50,6 @@ related:
       name: Techinasia
       domain: techinasia.com
     quality: 34
-  - title: "Fintech benefits consumers and intermediaries"
-    excerpt: "The different technologies associated with fintech assist consumers with their decision-making process regarding financial products and enable intermediaries to provide their clients with needs-driven solutions and"
-    publishedDateTime: 2021-06-28T10:59:00Z
-    webUrl: "https://www.bizcommunity.com/Article/196/751/217327.html"
-    type: article
-    provider:
-      name: Bizcommunity
-      domain: bizcommunity.com
-    quality: 24
-    images:
-      - url: "https://biz-file.com/c/2106/616382.jpg?2"
-        width: 639
-        height: 503
-        isCached: true
   - title: "F|T: The FinTech Times – FinTech SPAC attack"
     excerpt: "Welcome to the FinTech Times, a weekly newsletter covering the biggest FinTech news from around the globe. If you want to read F|T before anyone else, make sure to subscribe using the form at the bottom of this page."
     publishedDateTime: 2021-06-28T09:30:00Z
@@ -103,47 +78,19 @@ related:
         width: 512
         height: 512
         isCached: true
-  - title: "Top 5 Fintech Cities in the USA"
-    excerpt: "We’ve compiled a list of the top five fintech hubs’ in the US, outlining their most distinctive characteristics and features, as well as some of the top fintech companies they’ve created."
-    publishedDateTime: 2021-06-29T07:00:00Z
-    webUrl: "https://fintechnews.ch/fintechusa/top-5-fintech-cities-in-the-usa/46318/"
+  - title: "UK SME fintech platform Tide forays into India, commits $100 million investment"
+    excerpt: "Tide on Tuesday announced its entry into India, committing a Rs 1,000-crore investment over the next five years."
+    publishedDateTime: 2021-06-29T12:38:00Z
+    webUrl: "https://www.cnbctv18.com/startup/uk-sme-fintech-platform-tide-forays-into-india-commits-100-million-investment-9818381.htm"
     type: article
     provider:
-      name: fintechnews.ch
-      domain: fintechnews.ch
-    quality: 24
+      name: cnbctv18
+      domain: cnbctv18.com
+    quality: 20
     images:
-      - url: "https://fintechnews.ch/wp-content/uploads/2021/06/Top-5-Fintech-Cities-in-the-USA.jpg"
-        width: 2048
-        height: 1136
-        isCached: true
-  - title: "8 Types Of Fintech To Take Advantage Of"
-    excerpt: "Whether it’s checking our bank balance with an app or Venmoing a friend the cost of a bagel, fintech impacts our daily lives. By streamlining and automating"
-    publishedDateTime: 2021-07-01T07:31:00Z
-    webUrl: "https://www.techshout.com/types-of-fintech-to-take-advantage-of/"
-    type: article
-    provider:
-      name: TechShout
-      domain: techshout.com
-    quality: 24
-    images:
-      - url: "https://www.techshout.com/wp-content/uploads/2021/04/fintech-1.jpg"
-        width: 690
-        height: 240
-        isCached: true
-  - title: "Inclusive Fintech 50 launches 2021 competition to recognize early-stage fintechs driving innovation in an era of uncertainty"
-    excerpt: "An independent panel of leading fintech experts will select 50 innovative inclusive fintech startups helping communities rebuild from the pandemicWASHINGTON--(BUSINESS WIRE)--#InclusiveFintech50--The Center for Financial Inclusion (CFI) has launched the third year of Inclusive Fintech 50 (IF50),"
-    publishedDateTime: 2021-06-28T13:00:00Z
-    webUrl: "https://us.acrofan.com/detail.php?number=491730"
-    type: article
-    provider:
-      name: 아크로팬
-      domain: acrofan.com
-    quality: 12
-    images:
-      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
-        width: 580
-        height: 339
+      - url: "https://images.cnbctv18.com/wp-content/uploads/2018/10/2018-10-10T041821Z_1_LYNXNPEE9909D_RTROPTP_4_INDIA-ECONOMY-RATES-1019x573.jpg"
+        width: 1019
+        height: 573
         isCached: true
   - title: "FinTech Company Centime Launches Cloud-based Platform to Control Cash Flow"
     excerpt: "Centime, a FinTech company, today announced the launch of its Cloud-based Cash Flow Control solution. With its state-of-art solution, the company will empower businesses by enabling them to optimize all aspects of their cash flow life cycle in an easy-to-use,"

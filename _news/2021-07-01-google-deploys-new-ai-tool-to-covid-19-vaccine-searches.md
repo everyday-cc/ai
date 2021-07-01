@@ -40,6 +40,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "New VA tool uses artificial intelligence to predict COVID-19 patient mortality"
+    excerpt: "A new VA tool that processes data using artificial intelligence can predict mortality rates within 120 days of when a patient is diagnosed with COVID-19."
+    publishedDateTime: 2021-07-01T13:00:00Z
+    webUrl: "https://blogs.va.gov/VAntage/90780/new-va-tool-uses-artificial-intelligence-predict-covid-19-patient-mortality/"
+    type: article
+    provider:
+      name: United States Department of Veterans Affairs
+      domain: va.gov
+    quality: 35
+    images:
+      - url: "https://blogs.va.gov/VAntage/wp-content/uploads/2021/06/BANNER-PHOTO-.jpg"
+        width: 4256
+        height: 2832
+        isCached: true
   - title: "AI Governance Market to 2027, Future Outlook, COVID-19 Impact Analysis, Forecast - 2027"
     excerpt: "The Global AI Governance Market to grow from USD 50 million in 2020 to USD 1 016 million by 2027 at a Compound Annual Growth Rate CAGR of 65 during the forecast period AI governance is based on the idea"
     publishedDateTime: 2021-06-28T11:06:00Z

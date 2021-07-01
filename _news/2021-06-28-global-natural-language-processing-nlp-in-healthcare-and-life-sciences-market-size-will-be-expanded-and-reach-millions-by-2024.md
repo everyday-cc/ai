@@ -25,36 +25,6 @@ images:
     height: 339
     isCached: true
 
-related:
-  - title: "AI in Social Media Market Research Report with Size, Share, Value, CAGR, Outlook, Analysis, Latest Updates, Data, and News 2021-2028"
-    excerpt: "The report forecast global AI in Social Media market to grow to reach xx Million USD in 2021 with a CAGR of during the"
-    publishedDateTime: 2021-06-29T06:53:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-in-social-media-market-research-report-with-size-share-value-cagr-outlook-analysis-latest-updates-data-and-news-2021-2028-2021-06-29"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 36
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Global Artificial Intelligence Chipsets Market Size will be Expanded and Reach Millions $ by 2024"
-    excerpt: "Global Artificial Intelligence Chipsets Market Research Report: Industry Analysis, Share, Revenue, And Future Trends. The report published by Market Research Store on the global A"
-    publishedDateTime: 2021-06-28T08:16:00Z
-    webUrl: "https://ksusentinel.com/2021/06/28/global-artificial-intelligence-chipsets-market-size-will-be-expanded-and-reach-millions-by-2024/"
-    type: article
-    provider:
-      name: The Sentinel
-      domain: ksusentinel.com
-    quality: 26
-    images:
-      - url: "https://themarketeagle.com/wp-content/uploads/2021/03/Management2.jpg"
-        width: 1024
-        height: 624
-        isCached: true
-
 secured: "VSdsW+IDt9DJcog1y5siQFPm4dNEiNTcEqMOwMUmzT7WUzpj38oaK/5K6ELr9ymgXvJ49zP1Dd0wKnkXedw1HB7jYKCdhPObxUwfZbhT5voVcNX+BXtWiWEJ3ZYQuFvNN3rljOYgCwXBjQUQLtp+1O13W65kci6K4BIGwUr6l0Xi9aq9nfCyF2tEkz+mWLGJCTNuZlSBmRertUmoIeuL0UNGv+1gyjdHCZVy/4HbLhqs/T0QUJUrc7lHCLqsRIm7vppsordCXaphHpVuLLY8HpUbBkLNRqr6bB3Eqte2cFb8lsFdOAIIFqg1NOJxGQ/Qe7BuMPkzpyxAx8R+TlftLN4mOJRJXZVaD4YRLPjW23MGjb197jt3SdXepFSkNG0Nja0eYQ3ouBLI79BVcWOuEJZP7eFI4LXUL7aD7oD6DS0+4itbfd80SnW+sPvpfCruhKVl6JHeT5y/tXdhrDWpGcseoYf0MfdgwKsnMsB0r5ApgOMLPw9qae87fV65J3kpuc7KdPIU0Jc1RExSPzOSmg==;z5RSLX9gfavUs+oE4FpxAA=="
 ---
 

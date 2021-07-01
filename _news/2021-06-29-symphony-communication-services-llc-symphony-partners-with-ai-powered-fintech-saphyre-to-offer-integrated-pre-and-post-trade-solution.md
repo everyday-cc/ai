@@ -33,20 +33,6 @@ related:
         width: 512
         height: 512
         isCached: true
-  - title: "Symphony Partners With AI-Powered Fintech Saphyre To Offer Integrated Pre- and Post-Trade Solution"
-    excerpt: "NEW YORK, NY and LONDON, UK / ACCESSWIRE / June 29, 2021 / Symphony, the leading financial markets’ infrastructure and technology platform, has established a strategic partnership with fintech firm Saphyre,"
-    publishedDateTime: 2021-06-29T12:31:00Z
-    webUrl: "https://www.digitaljournal.com/pr/symphony-partners-with-ai-powered-fintech-saphyre-to-offer-integrated-pre-and-post-trade-solution"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 25
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2021/06/Europe-Tourists-AFP-1K-04-600x337.jpg"
-        width: 600
-        height: 337
-        isCached: true
 
 secured: "PIomr2A3CiQ4EW0dF0IxouovTHCUL6oXAbHu+DJUqahZZfazJh8helEcfsRRskmOiNQS5orqx8xoI4ETVj/F/tmQto1Zlp/IUeWvD1VdMOhy7FFce+Wc/g6aZadAro4MVJxm2mhgtLP0Itf9ItAcLKpahP6OVVbyxiMe1MLiIajWaDOQvE8KSysHWu7V+zfHr9FZ1y8jS0H9yJFn1qXY5Ol7LRIhUx0PHOH6tbfOolPNUzKfGzfxpocpY4vs1odUrZT65CuOq6YRlZuedidUWJwOwmmV6tTIDRmtTkHALBjVRddoJHxY7dgkagqFfsonLNzgG30rzzmyNC2Vjes0Fn21cL2k/Y0wgGL+iGepP8A=;2t0/LcFJA6jiUmUUc/Y5Sw=="
 ---

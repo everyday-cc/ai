@@ -9,7 +9,7 @@ ampWebUrl: "https://medicalxpress.com/news/2021-06-machine-immunotherapy-effecti
 cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-06-machine-immunotherapy-effective.amp"
 type: article
 quality: 58
-heat: 88
+heat: 98
 published: true
 
 provider:
@@ -54,6 +54,20 @@ related:
       name: Medindia
       domain: medindia.net
     quality: 39
+  - title: "Using Machine Learning Methods to Predict Response to Immunotherapy"
+    excerpt: "Researchers developed machine learning models that can predict if someone will respond positively to immunotherapy."
+    publishedDateTime: 2021-07-01T12:00:00Z
+    webUrl: "https://www.genengnews.com/news/using-machine-learning-methods-to-predict-response-to-immunotherapy/"
+    type: article
+    provider:
+      name: GEN
+      domain: genengnews.com
+    quality: 39
+    images:
+      - url: "https://www.genengnews.com/wp-content/uploads/2021/03/Getty_1185598172-T-celFfightingCancerCell.jpg"
+        width: 1400
+        height: 932
+        isCached: true
   - title: "Machine learning helps in predicting when immunotherapy will be effective"
     excerpt: "Our immune system is tasked with a key role - find and eliminate foreign invaders such as bacteria or viruses, but it also works to take out"
     publishedDateTime: 2021-06-30T13:50:00Z
