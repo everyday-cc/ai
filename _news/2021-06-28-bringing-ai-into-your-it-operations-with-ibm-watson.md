@@ -46,20 +46,6 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 64
-  - title: "ZzappMalaria wins $3m IBM Watson AI XPRIZE"
-    excerpt: "Israeli startup’s AI platform tailors and monitors location-specific antimalarial strategies; also won the People's Choice Award in the competition."
-    publishedDateTime: 2021-06-27T11:47:00Z
-    webUrl: "https://www.israel21c.org/zzappmalaria-wins-3m-ibm-watson-ai-xprize/"
-    type: article
-    provider:
-      name: Israel21c
-      domain: israel21c.org
-    quality: 54
-    images:
-      - url: "https://www.israel21c.org/wp-content/uploads/2021/06/zzapp.jpg"
-        width: 1598
-        height: 900
-        isCached: true
   - title: "IBM Watson Advertising announces new research to explore the role of artificial intelligence in detecting and mitigating advertising bias"
     excerpt: "A six-month research project will use IBM's open source artificial intelligence technology and Ad Council campaign data"
     publishedDateTime: 2021-07-01T11:09:00Z

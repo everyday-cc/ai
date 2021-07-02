@@ -41,6 +41,20 @@ related:
         width: 600
         height: 338
         isCached: true
+  - title: "College of Engineering Offers Applied Machine Learning Intensive for Summer"
+    excerpt: "Faculty within the College of Engineering have partnered with the National Action Council for Minorities in Engineering and Google to host the Applied Machine Learning Intensive Summer Bootcamp."
+    publishedDateTime: 2021-07-02T05:06:00Z
+    webUrl: "https://news.uark.edu/articles/57146/college-of-engineering-offers-applied-machine-learning-intensive-for-summer"
+    type: article
+    provider:
+      name: University of Arkansas
+      domain: uark.edu
+    quality: 37
+    images:
+      - url: "https://campusdata.uark.edu/resources/images/articles/2021-07-01_09-29-00-AMatconcertinparkcropped.jpg"
+        width: 655
+        height: 364
+        isCached: true
   - title: "Mathpresso, developer of AI-based learning app QANDA, secures $50 million in Series C funding"
     excerpt: "Seoul-based edtech startup Mathpresso announced today that it has raised $50 million in a Series C funding round last week, which"
     publishedDateTime: 2021-07-01T08:53:00Z

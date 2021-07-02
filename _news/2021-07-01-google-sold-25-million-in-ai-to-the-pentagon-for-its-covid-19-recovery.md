@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/thomasbrewster/2021/07/01/google-sold-m
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/thomasbrewster/2021/07/01/google-sold-millions-in-ai-to-support-the-pentagon-covid-19-recovery/amp/"
 type: article
 quality: 88
-heat: 158
+heat: 160
 published: true
 
 provider:

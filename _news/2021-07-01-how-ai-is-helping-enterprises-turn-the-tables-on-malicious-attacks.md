@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/07/01/how-ai-is-helping-enterprises-tur
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/01/how-ai-is-helping-enterprises-turn-the-tables-on-malicious-attacks/amp/"
 type: article
 quality: 87
-heat: 137
+heat: 138
 published: true
 
 provider:

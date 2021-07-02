@@ -38,6 +38,20 @@ related:
         width: 600
         height: 338
         isCached: true
+  - title: "College of Engineering Offers Applied Machine Learning Intensive for Summer"
+    excerpt: "Faculty within the College of Engineering have partnered with the National Action Council for Minorities in Engineering and Google to host the Applied Machine Learning Intensive Summer Bootcamp."
+    publishedDateTime: 2021-07-02T05:06:00Z
+    webUrl: "https://news.uark.edu/articles/57146/college-of-engineering-offers-applied-machine-learning-intensive-for-summer"
+    type: article
+    provider:
+      name: University of Arkansas
+      domain: uark.edu
+    quality: 37
+    images:
+      - url: "https://campusdata.uark.edu/resources/images/articles/2021-07-01_09-29-00-AMatconcertinparkcropped.jpg"
+        width: 655
+        height: 364
+        isCached: true
   - title: "A Machine Learning Powered Guest Experience Platform is Helping This Emerging Brand Grow"
     excerpt: "While restaurants have turned to technology to streamline these initiatives, finding all the resources they need in one platform has traditionally been difficult, especially for small to mid-sized brands."
     publishedDateTime: 2021-06-28T21:09:00Z

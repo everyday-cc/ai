@@ -6,8 +6,8 @@ publishedDateTime: 2021-07-01T19:27:00Z
 originalUrl: "https://www.bizjournals.com/columbus/news/2021/07/01/olive-ai-plans-global-expansion-follwing-vc-round.html"
 webUrl: "https://www.bizjournals.com/columbus/news/2021/07/01/olive-ai-plans-global-expansion-follwing-vc-round.html"
 type: article
-quality: 14
-heat: 14
+quality: 16
+heat: 16
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 related:
   - title: "Olive AI valued at $4B after raising another $400B in VC, shattering state records"

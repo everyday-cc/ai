@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/saibala/2021/06/27/a-company-that-uses-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/saibala/2021/06/27/a-company-that-uses-ai-to-fight-malaria-just-won-the-ibm-watson-ai-xprize-competition/amp/"
 type: article
 quality: 97
-heat: 137
+heat: 127
 published: true
 
 provider:
@@ -40,20 +40,6 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 64
-  - title: "ZzappMalaria wins $3m IBM Watson AI XPRIZE"
-    excerpt: "Israeli startup’s AI platform tailors and monitors location-specific antimalarial strategies; also won the People's Choice Award in the competition."
-    publishedDateTime: 2021-06-27T11:47:00Z
-    webUrl: "https://www.israel21c.org/zzappmalaria-wins-3m-ibm-watson-ai-xprize/"
-    type: article
-    provider:
-      name: Israel21c
-      domain: israel21c.org
-    quality: 54
-    images:
-      - url: "https://www.israel21c.org/wp-content/uploads/2021/06/zzapp.jpg"
-        width: 1598
-        height: 900
-        isCached: true
   - title: "Bringing AI into your IT operations with IBM Watson"
     excerpt: "Of course, there will still be situations that cannot be prevented and in these situations AI can be used to resolve the issue quickly and reduce the downtime. IBM Watson AIOps uses feeds from a ..."
     publishedDateTime: 2021-06-28T06:36:00Z

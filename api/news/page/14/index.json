@@ -2,57 +2,6 @@
   "page": 14,
   "value": [
     {
-      "path": "_news/2021-06-21-5-ai-startups-leading-mlops.md",
-      "title": "5 AI startups leading MLops",
-      "excerpt": "From data preparation and training to model deployment and beyond, these companies offer state-of-the-art platforms for managing the entire machine learning lifecycle.",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/article/3622237/5-ai-startups-leading-mlops.html",
-      "originalUrl": "https://www.infoworld.com/article/3622237/5-ai-startups-leading-mlops.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2019/11/ai_artificial_intelligence_ml_machine_learning_vector_by_kohb_gettyimages_1146634284-100817775-large.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.infoworld.com/article/3622237/5-ai-startups-leading-mlops.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3622237/5-ai-startups-leading-mlops.amp.html",
-      "publishedDateTime": "2021-06-21T03:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-06-21-iit-mandi-to-host-workshop-on-deep-learning-for-executives-working-professionals.md",
       "title": "IIT Mandi to host workshop on Deep Learning for executives, working professionals",
       "excerpt": "Professionals who are willing to work in the area of Artificial Intelligence/ Machine Learning (AI/ML) can join this 6 days weekend workshop organised by IIT Mandi iHub and HCI Foundation.",
@@ -1173,6 +1122,57 @@
       ],
       "topics": [
         "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-20-ai-centers-of-excellence-accelerate-ai-industry-adoption.md",
+      "title": "AI Centers Of Excellence Accelerate AI Industry Adoption",
+      "excerpt": "The AI and Digital age has accelerated the rate of innovation so quickly that some organizations simply can’t keep up. In fact, Senior Leaders and Chief Executives around the world are “extremely concerned”,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/markminevich/2021/06/19/ai-centers-of-excellence-accelerate-ai-industry-adoption/",
+      "originalUrl": "https://www.forbes.com/sites/markminevich/2021/06/19/ai-centers-of-excellence-accelerate-ai-industry-adoption/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60ce716d1b2aa835a2ef3cdc%2F0x0.jpg",
+          "width": 1200,
+          "height": 802,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/markminevich/2021/06/19/ai-centers-of-excellence-accelerate-ai-industry-adoption/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/markminevich/2021/06/19/ai-centers-of-excellence-accelerate-ai-industry-adoption/amp/",
+      "publishedDateTime": "2021-06-19T15:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
         "AI"
       ]
     }

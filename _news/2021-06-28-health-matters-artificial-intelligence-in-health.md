@@ -7,7 +7,7 @@ originalUrl: "https://www.eventbrite.com.au/e/health-matters-artificial-intellig
 webUrl: "https://www.eventbrite.com.au/e/health-matters-artificial-intelligence-in-health-tickets-156999452589"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,35 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "Why A Culture-oriented Strategy Matters for India to Pioneer in AI Ethics Leadership"
-    excerpt: "The profound implications of Artificial Intelligence on humanity, cultures, societies, and the environment is one of the central issues of this era. The complexity of AI and its ethical issues are not hidden."
-    publishedDateTime: 2021-06-27T12:39:00Z
-    webUrl: "https://analyticsindiamag.com/why-a-culture-oriented-strategy-matters-for-india-to-pioneer-in-ai-ethics-leadership/"
+  - title: "AI in Call Centers: Top innovations for 2021"
+    excerpt: "Call centers are busier than ever. According to a 2021 survey, 65% of U.S. consumers have required assistance during the COVID-19 pandemic. These growing call volumes – coupled with the continuous need for cost optimizations – have driven the demand and adoption of artificial intelligence (AI) in call centers."
+    publishedDateTime: 2021-06-29T05:18:00Z
+    webUrl: "https://customerthink.com/ai-in-call-centers-top-innovations-for-2021/"
     type: article
     provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 47
+      name: CustomerThink
+      domain: customerthink.com
+    quality: 39
     images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/06/aim-illustration-12.jpg"
-        width: 2240
-        height: 1260
-        isCached: true
-  - title: "DST and Intel India Announce Partnership to Increase Opportunities in Artificial Intelligence and Other Deep Technologies"
-    excerpt: "DST and Intel India aim at increasing research opportunities in the space of artificial intelligence, machine learning, IoT, and other deep technologies"
-    publishedDateTime: 2021-06-30T05:52:00Z
-    webUrl: "https://www.dqindia.com/dst-intel-india-announce-partnership-increase-opportunities-artificial-intelligence-deep-technologies/"
-    ampWebUrl: "https://www.dqindia.com/dst-intel-india-announce-partnership-increase-opportunities-artificial-intelligence-deep-technologies/amp/"
-    cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/dst-intel-india-announce-partnership-increase-opportunities-artificial-intelligence-deep-technologies/amp/"
-    type: article
-    provider:
-      name: Dataquest
-      domain: dqindia.com
-    quality: 32
-    images:
-      - url: "https://www.dqindia.com/wp-content/uploads/2021/04/Are-we-expecting-too-much-from-artificial-intelligence.jpg"
-        width: 800
-        height: 420
+      - url: "https://customerthink.com/wp-content/uploads/ThinkstockPhotos-166139079-ctmedia.jpg"
+        width: 1788
+        height: 1677
         isCached: true
 
 secured: "IQsCe3r2y+TirCmnGhOoWKKVRIQTnbXyzavdJt2xG130gQmvH+gUpvxNYvzcMelE+kyS/YZBjtELz9fTBBgkRJiO2z0RMlWJ5YFGQuzhpwy638XXo1IEzxsFsypnRrqeIT3nAyQCRE7X0TNDBurzEbn9tFA2lDY+lBalQejKcjm4LFzsVn5koAV8T6d+USdEeDSLJYYY0PGVtu0z78TqjXHwzUXCNCdL6BPGUwkn073+AtCOXLVefAxTkIt3UHa/0lxQquSUBtQFg3W9EuREHuamGnikKJ15QBqPyvaPoPmVP5k6xK7Tm3t1Mwag4MLF/PcNP93gx6zkI++CI3I2Sn6b5dF192fSerP3t3FrtIb63Qw10MBSgHibmskw8v6PvATiVEf+PgzAgCRRV5tTj+vt2AoERaXwmr8Z20Hjr/bQg2hEC9OCSbv4qpPNhZkRxK/borI6wZ6Xe7iuu1TjlitGrc1gUDD6ndF5NeQDn27CHL+J/bVdfwu+F2Cghyo7arIgfmnMYv6gmdBG31jfUA==;drb7UJWB8/6IN/TzYbiS2w=="

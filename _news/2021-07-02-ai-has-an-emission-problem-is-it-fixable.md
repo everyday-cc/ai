@@ -7,7 +7,7 @@ originalUrl: "https://analyticsindiamag.com/ai-emission-problem-solution-fix/"
 webUrl: "https://analyticsindiamag.com/ai-emission-problem-solution-fix/"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -24,24 +24,6 @@ images:
     height: 1260
     isCached: true
 
-related:
-  - title: "Medical AI Confronts Pesky Problem: People"
-    excerpt: "A statistical measure called “area under the curve” told Mayo Clinic researchers their new artificial intelligence (AI) tool was terrific. Then their doctors threw them a curve ball."
-    publishedDateTime: 2021-06-27T12:00:00Z
-    webUrl: "https://www.forbes.com/sites/michaelmillenson/2021/06/27/medical-ai-confronts-pesky-problem-people/"
-    ampWebUrl: "https://www.forbes.com/sites/michaelmillenson/2021/06/27/medical-ai-confronts-pesky-problem-people/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/michaelmillenson/2021/06/27/medical-ai-confronts-pesky-problem-people/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60d7a592de975428d6de383c%2F0x0.jpg"
-        width: 1200
-        height: 861
-        isCached: true
-
-secured: "GGuv9SDs7Hdx4M84qD0P6xwACqrmJK3YVLvjpXcwWrnokBN6rvNv5Sg94QA/bIASIDJHQ1pbfwNDE8UWB3s5wx4CcK44GxHPtj845181y1044Cl8fUYTQ2vBGjp+O4vfkULE17J4bkw0hEkDN+nbkp8bQzwBDGyaBW0EU7EnoVoJt3I+EuCjs/VQOYYuOmSeD8HsaMw7NET6BP+aV/mxm8MRDgosoShjQk4fDHnOIwhLGqt/5Dhlgiv8W+uxRlt/xWo7sIAMlZiSfxg9C3v+fS4N7tVzexaG0mdgpytTK4mPIpWJiANtYyOfGsS61Zyz3t8LHfiTcHrOW2PWBjQJubJCMEYLY+QiFmpBrRyRtAM=;y2dbkIs8mjWffO/iR+V57w=="
+secured: "898FYb4mt8dHnkOaiVse6hMnDh5H/FLEeXlFxj8+1srLYAKLv0CzkCxdeM9/8BjPLPwG+IRQjPgoDTZWjHsV9TH3sAx4QXSPENghW8RBRbWrk0M8UF+9yNzpupDqZ3T2DFhmdHnoPnoYvgyv5AuY7Y2N9A1Q6cLAo6BskHQHa97H6Nb7qdduiihg5Oe82SrYfLlgmeBfPz0sNoSRZ1JqviUWjlP5Wr4Q4w3MAteZ/HFCR/DW4Plq7gsbDbQ3ms8dbQ6RflL9Zg9bMHKiO7pmagXn7jyAcMgf0NVVSfKtAjtbBLPtFRGbazQf0J2G+v6u4Td6DVCyL3HQG/2KgwOIAahovfWvtFoXr+stxO+Wmrvl08lfLZqyU/TOGVzTTaDjRYBUSsnyZe2AnbqSUfYWg7bTEw3DrZU2umLGz599FgfDlc/xtEckHTuikUfoaJjfMdvND2dOHk4uudlMjDdGzGioX1A4UX3h09S/EBDbnHeSpzWcTOWL7vRMKlkQZ6RaU76hCK3DsQraEyvXHEbOAQ==;T/1iLhcMESrSDSWaCgUnbA=="
 ---
 
