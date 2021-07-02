@@ -9,8 +9,8 @@ ampWebUrl: "https://www.androidheadlines.com/2021/06/qualcomm-snapdragon-888-plu
 cdnAmpWebUrl: "https://www-androidheadlines-com.cdn.ampproject.org/c/s/www.androidheadlines.com/2021/06/qualcomm-snapdragon-888-plus-official-specs-features.html/amp"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: Android
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Snapdragon 888+ is Official With 3GHz CPU and Improved AI"
+    excerpt: "The Mobile World Congress (MWC) 2021 kicked off this week and Qualcomm was the first to make a major announcement."
+    publishedDateTime: 2021-06-29T09:45:00Z
+    webUrl: "https://propakistani.pk/2021/06/29/snapdragon-888-is-official-with-3ghz-cpu-and-improved-ai/"
+    ampWebUrl: "https://propakistani.pk/2021/06/29/snapdragon-888-is-official-with-3ghz-cpu-and-improved-ai/amp/"
+    cdnAmpWebUrl: "https://propakistani-pk.cdn.ampproject.org/c/s/propakistani.pk/2021/06/29/snapdragon-888-is-official-with-3ghz-cpu-and-improved-ai/amp/"
+    type: article
+    provider:
+      name: ProPakistani
+      domain: propakistani.pk
+    quality: 59
+    images:
+      - url: "https://propakistani.pk/wp-content/uploads/2021/06/Snapdragon-e1624949683332.jpg"
+        width: 1000
+        height: 565
+        isCached: true
   - title: "Leveraging artificial intelligence to enhance brand management"
     excerpt: "Once the subject of imaginations and main plot of science fiction movies for decades, today, robots are no longer a piece of fiction, they are now a commonplace in people’s daily lives."
     publishedDateTime: 2021-06-29T04:26:00Z

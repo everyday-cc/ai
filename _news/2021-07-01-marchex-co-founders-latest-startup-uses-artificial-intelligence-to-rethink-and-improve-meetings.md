@@ -9,7 +9,7 @@ ampWebUrl: "https://www.geekwire.com/2021/marchex-co-founders-latest-startup-use
 cdnAmpWebUrl: "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2021/marchex-co-founders-latest-startup-uses-artificial-intelligence-rethink-improve-meetings/amp/"
 type: article
 quality: 74
-heat: 75
+heat: 74
 published: true
 
 provider:

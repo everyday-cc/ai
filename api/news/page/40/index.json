@@ -2,6 +2,185 @@
   "page": 40,
   "value": [
     {
+      "path": "_news/2021-06-02-apptek-partners-with-intel-to-foster-the-development-of-next-generation-ai-enabled-speech-and-language-technologies.md",
+      "title": "AppTek Partners with Intel to Foster the Development of Next Generation AI-Enabled Speech and Language Technologies",
+      "excerpt": "AppTek is a global leader in artificial intelligence (AI) and machine learning (ML) technologies for automatic speech recognition (ASR), neural machine translation (NMT), natural language ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/21/06/n21387911/apptek-partners-with-intel-to-foster-the-development-of-next-generation-ai-enabled-speech-and-lang",
+      "originalUrl": "https://www.benzinga.com/pressreleases/21/06/n21387911/apptek-partners-with-intel-to-foster-the-development-of-next-generation-ai-enabled-speech-and-lang",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/21387911",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/21387911",
+      "publishedDateTime": "2021-06-02T05:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-02-10-ways-ai-and-automation-can-help-agencies-succeed.md",
+      "title": "10 Ways AI And Automation Can Help Agencies Succeed",
+      "excerpt": "Artificial intelligence and automation have transformed the way people do business and show no sign of slowing down. Smart agencies are seeking new ways to leverage both.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesagencycouncil/2021/06/02/10-ways-ai-and-automation-can-help-agencies-succeed/",
+      "originalUrl": "https://www.forbes.com/sites/forbesagencycouncil/2021/06/02/10-ways-ai-and-automation-can-help-agencies-succeed/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60b69b04d65af80e8d7dd319%2F0x0.jpg",
+          "width": 1200,
+          "height": 580,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesagencycouncil/2021/06/02/10-ways-ai-and-automation-can-help-agencies-succeed/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesagencycouncil/2021/06/02/10-ways-ai-and-automation-can-help-agencies-succeed/amp/",
+      "publishedDateTime": "2021-06-02T05:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-02-cyclist-use-of-key-london-bridge-higher-now-than-bike-boom-of-1949-finds-ai-camera-count.md",
+      "title": "Cyclist Use Of Key London Bridge Higher Now Than Bike Boom Of 1949, Finds AI Camera Count",
+      "excerpt": "AI-powered traffic counting has found that cyclists accounted for 41% of all road users on Blackfriars Bridge, London.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/carltonreid/2021/06/02/cyclist-use-of-key-london-bridge-higher-now-than-bike-boom-of-1949-finds-ai-camera-count/",
+      "originalUrl": "https://www.forbes.com/sites/carltonreid/2021/06/02/cyclist-use-of-key-london-bridge-higher-now-than-bike-boom-of-1949-finds-ai-camera-count/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60b77445def8ce96737dd31b%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/carltonreid/2021/06/02/cyclist-use-of-key-london-bridge-higher-now-than-bike-boom-of-1949-finds-ai-camera-count/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/carltonreid/2021/06/02/cyclist-use-of-key-london-bridge-higher-now-than-bike-boom-of-1949-finds-ai-camera-count/amp/",
+      "publishedDateTime": "2021-06-02T05:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-02-canadas-top-women-in-fintech-and-blockchain-honouree-roundup.md",
+      "title": "Canada’s Top Women in Fintech and Blockchain honouree roundup",
+      "excerpt": "Not unlike ITWC's Top Women in Cyber Security Celebration, the interest in this year's inaugural Top Women in Fintech and Blockchain Celebration",
+      "sourceUrl": null,
+      "webUrl": "https://www.itbusiness.ca/news/canadas-top-women-in-fintech-and-blockchain-honouree-roundup/118320",
+      "originalUrl": "https://www.itbusiness.ca/news/canadas-top-women-in-fintech-and-blockchain-honouree-roundup/118320",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.itbusiness.ca/wp-content/uploads/2018/10/GettyImages-912547822-e1539707985381-620x249.jpg",
+          "width": 620,
+          "height": 249,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.itbusiness.ca/news/canadas-top-women-in-fintech-and-blockchain-honouree-roundup/118320?amp=1",
+      "cdnAmpWebUrl": "https://www-itbusiness-ca.cdn.ampproject.org/c/s/www.itbusiness.ca/news/canadas-top-women-in-fintech-and-blockchain-honouree-roundup/118320?amp=1",
+      "publishedDateTime": "2021-06-02T05:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT Business",
+        "domain": "itbusiness.ca",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-02-machine-learning-is-not-a-better-horse.md",
       "title": "Machine Learning Is Not A 'Better Horse'",
       "excerpt": "Too often, it can sound like the trucking industry views machine learning as a “better horse.” It is common to hear the idea that better, bigger data will allow the industry to better forecast prices far into the future.",
@@ -1000,179 +1179,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-02-conversational-ai-startup-cognigy-nabs-44m.md",
-      "title": "Conversational AI startup Cognigy nabs $44M",
-      "excerpt": "Cognigy, a platform for designing conversational, AI-powered experiences, raised $44 million in fresh capital.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/06/01/conversational-ai-startup-cognigy-nabs-44m/",
-      "originalUrl": "https://venturebeat.com/2021/06/01/conversational-ai-startup-cognigy-nabs-44m/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2018/06/feldman-automotive-chatbot-pr-magic.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 801,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/06/01/conversational-ai-startup-cognigy-nabs-44m/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/01/conversational-ai-startup-cognigy-nabs-44m/amp/",
-      "publishedDateTime": "2021-06-01T17:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-02-five-industries-reaping-the-benefits-of-artificial-intelligence.md",
-      "title": "Five Industries Reaping The Benefits Of Artificial Intelligence",
-      "excerpt": "AI (artificial intelligence) offers numerous opportunities ... It's not science fiction anymore; the driverless experience is a reality now. According to recent reports, it’s expected that ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/06/02/five-industries-reaping-the-benefits-of-artificial-intelligence/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/06/02/five-industries-reaping-the-benefits-of-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f7376dc40469ab26495a8e5%2F0x0.jpg",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/06/02/five-industries-reaping-the-benefits-of-artificial-intelligence/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/06/02/five-industries-reaping-the-benefits-of-artificial-intelligence/amp/",
-      "publishedDateTime": "2021-06-01T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-02-potential-impact-of-machine-learning-in-financial-world.md",
-      "title": "Potential impact of Machine Learning in financial world",
-      "excerpt": "Machine learning cab be used to design and understand ... and thirdly helping to be in threshold limits to comply the financial laid guidelines. Rome was not made in a day, but it will be made ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.finextra.com/blogposting/20409/potential-impact-of-machine-learning-in-financial-world",
-      "originalUrl": "https://www.finextra.com/blogposting/20409/potential-impact-of-machine-learning-in-financial-world",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-01T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Finextra",
-        "domain": "finextra.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-06-02-aws-announces-general-availability-of-amazon-location-service.md",
-      "title": "AWS Announces General Availability of Amazon Location Service",
-      "excerpt": "AWS announced the GA of Amazon Location Service, a service that makes it easier for customers to add location functionality to their applications.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businesswire.com/news/home/20210601006014/en/AWS-Announces-General-Availability-of-Amazon-Location-Service",
-      "originalUrl": "https://www.businesswire.com/news/home/20210601006014/en/AWS-Announces-General-Availability-of-Amazon-Location-Service",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-01T16:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     }

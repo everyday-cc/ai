@@ -81,6 +81,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence In Healthcare Market Opportunities, Size, Share, Emerging Trends, Technological Innovation, And Forecast 2027"
+    excerpt: "The report titled \"Global Artificial Intelligence in Healthcare Market: Demand Analysis & Opportunity Outlook 2027\" delivers detailed overview of the global artificial intelligence in healthcare market in terms of market segmentation by offering,"
+    publishedDateTime: 2021-07-02T13:25:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-opportunities-size-share-emerging-trends-technological-innovation-and-forecast-2027-2021-07-02"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 53
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence Market 2021 Top Manufacturers, COVID-19 Impact, Global Demand and Future Scope"
     excerpt: "The global “Artificial Intelligence Market” is expected to rise with an impressive CAGR and generate the highest revenue"
     publishedDateTime: 2021-06-28T11:26:00Z
@@ -180,6 +194,6 @@ related:
       domain: openpr.com
     quality: 4
 
-secured: "1CjSEZZA92D+1Vc8R6NU5FDlwg/sILHecAVbxoSGTgu3p5MQp/Dykpy0eXj+Uw8GJVqTbUXaZKcmyhfzAF0/66SKSPEifOaz06BwdGo/mPEjrR3+mwstTUKA6aGs784lmKWQiSFLxgHoutn8fYcJhyFZCrLvnm3oUp6iL3wb1r17wsPc5rEyoWnFj5UCo36crTmabHKLm7RBnHG30oQm5mj4RnSm8Kzarbzm2BMd3lwVxedXxxxY4GsUqw9VaskWwRfSVUzP+BhoWtZSJYAkiK6Liy9KU2P0ir9muugPwBQdoUWR4ejFljgoDD0ZpW98yzOFbYo3D8yeFPRmBWQaHAvotftjuQZCZgOGmJ2ivtI=;eP0pPd6r4ynrNrMVariCCQ=="
+secured: "vMXCVZBkQ0ib/XKmGPojMkdNjIZpis7fd2Srxksy7LdBcUeW4JpBzC7U6uqbNgd9KJo2k/TOgRDrONRrnT2EaqJLi7IaxUKypKUeca2QGm5VzUgbbVASxVmg3iH6dLhh0b9TaWXbVy5zqGrrzDMa/AdXotB8s1Rq21JQHziv4klp6Qix9hPIwn7vxyIRaTRVFQpU+nRHyv6rGNUAWbM3a7P6h+1/qsbtFjbeMz0gC7MGj7L4VqbM/XQ9e9hYKYv5nxbz12V95CwDzU566Nwv0rqSprDsssageOzaCgOdgONTDfh9fSOcgylak7s7WPw0So0uf28UYmbIPBqb62F7P8xQLtXxEyctRxaUu2VO71/NHjpkc36XOiP9WLhIa1g5vzbjKXLhPTFoowJ+ght64EPQ2SRco40h9Pt7QTWzJ8fBlh5LuSJ9e24T21lBvwi795WnO50N+c4RLZ5TvFN5r+UVBXOrksinBRJRJ7AeIqNBcNjAOyBrhdnErAi6RPr4Lh8EqwDr28s3fmC0YCWJew==;OHaYAqjhUFtxTbTZQjSebg=="
 ---
 

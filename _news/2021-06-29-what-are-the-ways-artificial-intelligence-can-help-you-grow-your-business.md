@@ -35,7 +35,7 @@ related:
     provider:
       name: BizTech
       domain: biztechmagazine.com
-    quality: 70
+    quality: 72
     images:
       - url: "https://biztechmagazine.com/sites/biztechmagazine.com/files/styles/cdw_hero/public/articles/202107/nlp%20perfcon%20hero.jpg?itok=RszSk-uo"
         width: 1440

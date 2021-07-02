@@ -7,7 +7,7 @@ originalUrl: "https://www.arnnet.com.au/article/689361/ai-now-core-business-succ
 webUrl: "https://www.arnnet.com.au/article/689361/ai-now-core-business-success/"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Biased AI is not just bad for people, it’s harmful for businesses, too"
+    excerpt: "Bias in AI is detrimental to society and can also lead to poor decision-making with harmful impact on business processes and profitability."
+    publishedDateTime: 2021-07-02T17:52:00Z
+    webUrl: "https://venturebeat.com/2021/07/02/biased-ai-is-not-just-bad-for-people-its-harmful-for-businesses-too/"
+    ampWebUrl: "https://venturebeat.com/2021/07/02/biased-ai-is-not-just-bad-for-people-its-harmful-for-businesses-too/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/02/biased-ai-is-not-just-bad-for-people-its-harmful-for-businesses-too/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2021/06/GettyImages-1158763612-e1625248168247.jpg?w=1200&strip=all"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Regulating artificial intelligence in the EU: top 10 issues for businesses to consider"
     excerpt: "The European Commission's 'Proposal for a Regulation laying down harmonized rules on Artificial Intelligence' ('Draft AI Regulation') is far from being final and even further from taking effect: Indeed,"
     publishedDateTime: 2021-06-30T00:13:00Z

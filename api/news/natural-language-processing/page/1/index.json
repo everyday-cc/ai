@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-07-02-its-good-to-talk-how-to-donate-your-voice-to-help-the-future-of-speech-recognition.md",
+      "title": "It's Good to Talk: How to Donate Your Voice to Help the Future of Speech Recognition",
+      "excerpt": "Voice-based technology is everywhere, but what if your digital assistant doesn't speak your language? The Mozilla Common Voice project wants to change that with a publicly available database of voices from around the globe.",
+      "sourceUrl": null,
+      "webUrl": "https://www.pcmag.com/news/its-good-to-talk-how-to-donate-your-voice-to-help-the-future-of-speech",
+      "originalUrl": "https://www.pcmag.com/news/its-good-to-talk-how-to-donate-your-voice-to-help-the-future-of-speech",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.pcmag.com/imagery/articles/02QbiN18Qb5zDpb7IKveG8Q-1.1625231871.fit_lim.size_1200x630.jpg",
+          "width": 978,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.pcmag.com/news/its-good-to-talk-how-to-donate-your-voice-to-help-the-future-of-speech?amp=true",
+      "cdnAmpWebUrl": "https://www-pcmag-com.cdn.ampproject.org/c/s/www.pcmag.com/news/its-good-to-talk-how-to-donate-your-voice-to-help-the-future-of-speech?amp=true",
+      "publishedDateTime": "2021-07-02T08:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC Magazine",
+        "domain": "pcmag.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-02-ai-strategies-what-is-natural-language-processing-and-how-can-it-help-businesses.md",
       "title": "AI Strategies: What Is Natural Language Processing and How Can It Help Businesses?",
       "excerpt": "Combining language with technology has driven innovation in artificial intelligence for decades. With the right strategy, it can help businesses today.",
@@ -10,7 +62,7 @@
       "originalUrl": "https://biztechmagazine.com/article/2021/07/ai-strategies-what-natural-language-processing-and-how-can-it-help-businesses-perfcon",
       "featuredContent": null,
       "highlight": null,
-      "heat": 90,
+      "heat": 92,
       "tags": null,
       "images": [
         {
@@ -42,7 +94,8 @@
       "topics": [
         "Microsoft AI",
         "AI",
-        "Natural Language Processing"
+        "Natural Language Processing",
+        "IBM AI"
       ]
     },
     {
@@ -98,7 +151,7 @@
       "originalUrl": "https://www.forbes.com/sites/lanceeliot/2021/06/30/lip-reading-by-ai-self-driving-cars-is-either-alarming-or-ingenious/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 252,
+      "heat": 253,
       "tags": null,
       "images": [
         {
@@ -1445,59 +1498,6 @@
       "topics": [
         "Natural Language Processing",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-16-harnessing-healthcares-data-explosion-with-ai-based-natural-language-processing.md",
-      "title": "Harnessing Healthcare’s Data Explosion With AI-Based Natural Language Processing",
-      "excerpt": "By creating efficiencies that minimize tedious searches and deliver users the specific information they need when they need it, clinicians can spend less time on the computer and more time interacting with patients.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/06/16/harnessing-healthcares-data-explosion-with-ai-based-natural-language-processing/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/06/16/harnessing-healthcares-data-explosion-with-ai-based-natural-language-processing/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 136,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f32974509df6c340752fce0%2F0x0.jpg",
-          "width": 1200,
-          "height": 633,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/06/16/harnessing-healthcares-data-explosion-with-ai-based-natural-language-processing/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/06/16/harnessing-healthcares-data-explosion-with-ai-based-natural-language-processing/amp/",
-      "publishedDateTime": "2021-06-16T04:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing",
-        "AI in Healthcare"
       ]
     }
   ],

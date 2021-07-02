@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-07-02-3-reasons-qualcomms-new-snapdragon-chip-didnt-impress-investors.md",
+      "title": "3 Reasons Qualcomm's New Snapdragon Chip Didn't Impress Investors",
+      "excerpt": "Qualcomm (NASDAQ:QCOM) recently upgraded its most powerful mobile chipset, the Snapdragon 888, with a \"Plus\" version that increases its clock speed by 5% to nearly 3.0 GHz and boosts its AI processing power by about 20%.",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2021/07/02/3-reasons-qualcomms-new-snapdragon-chip-didnt-impr/",
+      "originalUrl": "https://www.fool.com/investing/2021/07/02/3-reasons-qualcomms-new-snapdragon-chip-didnt-impr/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 159,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F632495%2Fqrd_image_sd888_ai_small.jpg&w=1200&op=resize",
+          "width": 1200,
+          "height": 801,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.fool.com/amp/investing/2021/07/02/3-reasons-qualcomms-new-snapdragon-chip-didnt-impr/",
+      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/07/02/3-reasons-qualcomms-new-snapdragon-chip-didnt-impr/",
+      "publishedDateTime": "2021-07-02T09:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-02-artificial-intelligence-ai-chipsets-market-latest-industry-trends-industry-size-key-drivers-and-future-demand-forecast.md",
       "title": "Artificial Intelligence (AI) Chipsets Market Latest Industry Trends, Industry Size, Key Drivers and Future Demand Forecast",
       "excerpt": "The global artificial intelligence (AI) chipsets market size is expected to reach USD 108.85 billion by 2027, exhibiting",
@@ -10,7 +62,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chipsets-market-latest-industry-trends-industry-size-key-drivers-and-future-demand-forecast-2021-07-02",
       "featuredContent": null,
       "highlight": null,
-      "heat": 199,
+      "heat": 209,
       "tags": null,
       "images": [
         {
@@ -266,21 +318,21 @@
       ]
     },
     {
-      "path": "_news/2021-06-29-qualcomm-snapdragon-888-mobile-chipset-announced-gets-overclocked-cpu-and-gpu.md",
-      "title": "Qualcomm Snapdragon 888+ Mobile Chipset Announced; Gets Overclocked CPU And GPU",
-      "excerpt": "Qualcomm has officially launched its newest flagship mobile processor -- the Snapdragon 888+ SoC, which comes with an overclocked primary CPU core with up to 3GHz clock speed and several other performance improvements,",
+      "path": "_news/2021-06-28-snapdragon-888-plus-brings-improvements-to-ai-performance.md",
+      "title": "Snapdragon 888 Plus Brings Improvements To AI & Performance",
+      "excerpt": "Qualcomm has just officially announced its new flagship processor, the Snapdragon 888 Plus. It has become a custom for Qualcomm to announce a ‘Plus’",
       "sourceUrl": null,
-      "webUrl": "https://www.gizbot.com/mobile/news/qualcomm-snapdragon-888-plus-mobile-chipset-announced-gets-overclocked-cpu-and-gpu-075158.html",
-      "originalUrl": "https://www.gizbot.com/mobile/news/qualcomm-snapdragon-888-plus-mobile-chipset-announced-gets-overclocked-cpu-and-gpu-075158.html",
+      "webUrl": "https://www.androidheadlines.com/2021/06/qualcomm-snapdragon-888-plus-official-specs-features.html",
+      "originalUrl": "https://www.androidheadlines.com/2021/06/qualcomm-snapdragon-888-plus-official-specs-features.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 140,
+      "heat": 79,
       "tags": null,
       "images": [
         {
-          "url": "https://www.gizbot.com/img/2021/06/qualcomm-snapdragon-888-plus-1624950750.jpg",
-          "width": 600,
-          "height": 337,
+          "url": "https://www.androidheadlines.com/wp-content/uploads/2019/02/Qualcomm-Snapdragon-AH-NS-02.jpg",
+          "width": 1440,
+          "height": 810,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -288,13 +340,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.gizbot.com/amphtml/mobile/news/qualcomm-snapdragon-888-plus-mobile-chipset-announced-gets-overclocked-cpu-and-gpu-075158.html",
-      "cdnAmpWebUrl": "https://www-gizbot-com.cdn.ampproject.org/c/s/www.gizbot.com/amphtml/mobile/news/qualcomm-snapdragon-888-plus-mobile-chipset-announced-gets-overclocked-cpu-and-gpu-075158.html",
-      "publishedDateTime": "2021-06-29T00:18:00-07:00",
+      "ampWebUrl": "https://www.androidheadlines.com/2021/06/qualcomm-snapdragon-888-plus-official-specs-features.html/amp",
+      "cdnAmpWebUrl": "https://www-androidheadlines-com.cdn.ampproject.org/c/s/www.androidheadlines.com/2021/06/qualcomm-snapdragon-888-plus-official-specs-features.html/amp",
+      "publishedDateTime": "2021-06-28T03:51:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "GIZBOT",
-        "domain": "gizbot.com",
+        "name": "Android",
+        "domain": "androidheadlines.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1368,49 +1420,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-17-engineers-unveil-solar-powered-ai-system-on-chip.md",
-      "title": "Engineers unveil solar-powered AI system-on-chip",
-      "excerpt": "AI systems typically use lots of energy and rely on the cloud, which presents IT security issues. Scientists in Switzerland have addressed these problems by squeezing an AI system onto a single computer chip.",
-      "sourceUrl": null,
-      "webUrl": "https://www.upi.com/Science_News/2021/06/17/switzerland-ai-system-on-a-chip/4271623934810/",
-      "originalUrl": "https://www.upi.com/Science_News/2021/06/17/switzerland-ai-system-on-a-chip/4271623934810/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdnph.upi.com/sv/ph/og/i/4271623934810/2021/1/16239377247962/v1.5/Engineers-unveil-solar-powered-AI-system-on-chip.jpg",
-          "width": 800,
-          "height": 532,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.upi.com/amp/Science_News/2021/06/17/switzerland-ai-system-on-a-chip/4271623934810/",
-      "cdnAmpWebUrl": "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Science_News/2021/06/17/switzerland-ai-system-on-a-chip/4271623934810/",
-      "publishedDateTime": "2021-06-17T07:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "UPI.com",
-        "domain": "upi.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

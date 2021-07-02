@@ -1,27 +1,29 @@
 ---
 category: news
 title: "NASA's self-driving Mars Rover begins search for signs of ancient life"
-excerpt: "NASA's self-driving six-wheeled robot on Mars -- the Perseverance rover -- is set to start an epic journey across a crater floor to seek signs of ancient life, the US space agency said on Friday. The rover,"
-publishedDateTime: 2021-07-02T12:44:00Z
-originalUrl: "https://www.dailypioneer.com/2021/technology/nasa-s-self-driving-mars-rover-begins-search-for-signs-of-ancient-life.html"
-webUrl: "https://www.dailypioneer.com/2021/technology/nasa-s-self-driving-mars-rover-begins-search-for-signs-of-ancient-life.html"
+excerpt: "NASA's self-driving six-wheeled robot on Mars -- the Perseverance rover -- is set to start an epic journey across a crater floor to seek signs of ancient life, the US space agency said on Friday."
+publishedDateTime: 2021-07-02T16:31:00Z
+originalUrl: "https://www.indiatvnews.com/science/nasa-mars-rover-begins-search-for-signs-of-ancient-life-716439"
+webUrl: "https://www.indiatvnews.com/science/nasa-mars-rover-begins-search-for-signs-of-ancient-life-716439"
+ampWebUrl: "https://www.indiatvnews.com/amp/science/nasa-mars-rover-begins-search-for-signs-of-ancient-life-716439"
+cdnAmpWebUrl: "https://www-indiatvnews-com.cdn.ampproject.org/c/s/www.indiatvnews.com/amp/science/nasa-mars-rover-begins-search-for-signs-of-ancient-life-716439"
 type: article
-quality: 24
-heat: -1
+quality: 44
+heat: 44
 published: false
 
 provider:
-  name: The Pioneer
-  domain: dailypioneer.com
+  name: India TV
+  domain: indiatvnews.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://www.dailypioneer.com/uploads/2021/story/images/big/nasa-s-self-driving-mars-rover-begins-search-for-signs-of-ancient-life-2021-07-02.jpg"
-    width: 1000
-    height: 800
+  - url: "https://resize.indiatvnews.com/en/resize/newbucket/1200_-/2021/07/nasa-mars-1625237093.jpg"
+    width: 715
+    height: 402
     isCached: true
 
 related:
@@ -41,7 +43,23 @@ related:
         width: 2880
         height: 1928
         isCached: true
+  - title: "Martian AutoNav: NASA’s Self-Driving Perseverance Mars Rover “Takes the Wheel”"
+    excerpt: "Perseverance relies on left and right navigation cameras. The view seen here combines the perspective of two cameras rover during the rover’s first drive using AutoNav, it’s auto-navigation function."
+    publishedDateTime: 2021-07-02T17:25:00Z
+    webUrl: "https://scitechdaily.com/martian-autonav-nasas-self-driving-perseverance-mars-rover-takes-the-wheel/"
+    ampWebUrl: "https://scitechdaily.com/martian-autonav-nasas-self-driving-perseverance-mars-rover-takes-the-wheel/amp/"
+    cdnAmpWebUrl: "https://scitechdaily-com.cdn.ampproject.org/c/s/scitechdaily.com/martian-autonav-nasas-self-driving-perseverance-mars-rover-takes-the-wheel/amp/"
+    type: article
+    provider:
+      name: SciTech Daily
+      domain: scitechdaily.com
+    quality: 40
+    images:
+      - url: "https://scitechdaily.com/images/3D-Glasses-Used-for-Rover-Driving-777x520.jpg"
+        width: 777
+        height: 520
+        isCached: true
 
-secured: "p8Hmm84lBiCy3Zz5a3Cwls2u+QKOmW6jsVtb7MMOqMdHfZk2Yn5P/l6P/DQMLEzT1N9gA4PKEcMxEPDRfXUehqbDNNRDWBk4vsZ2LThO/Th4qz+B8tZzxL7/pFE3AP+pCqyYdZg98snjUIv76TroBgwKNu9ETPgzXNjQUj6tMrvEQ36JVKQpgRxikc+HyFKWEuPbLUEvq8QK5wrvbWeQthOYEIFUMODYpqhYmj3+j5YHXb0LMbgj5Yh2kIt3kLOqzgMgwEAxFwO68D3ZZBatWj/a6aJ/VNI+XXi1ugEbZdq7afYvvc2zEvA70MkoeSj4YvmiWf2GLts7YGLDhk9i/OquOSnJwhtbJhncTHQ3GsM=;CYe0OG+2+/Xetju3j/+N9g=="
+secured: "vSuAIZQ+QRtozZpguOzWjF17r49ACFLOTLXfTXAR8voSo+nIMpYngbWMiVnQNIYN6kjJlRFwdZhPtX0x/aF9fTIikeC+hKFG/YU8SppOv7NYy75Wd/oEQ0ap/5pvX7BqmvCMWbzkiWEPBE8oOQvo8dHEWAHdSO+OIoYXNoCeXbo+oA/9VuBJ+sYgiBV45blLMLgN1Lqv82RWmAdc/z20C4wc1hSjDJF8Ms+Ivz7zga8S55AoT0MiVtBnxukwTiL3vvL8uoccd/fK/otdq5i+ZpxHjUiLi9d28sWQNl9DoQRBuJhofpBqsECGJY4Xv2qFckb6Kr1qeY//Gk7CTY5tcLEYpXsRIJXpAxM9nLaTadE=;iafQGsUwjzu9XLGD6cIYtA=="
 ---
 

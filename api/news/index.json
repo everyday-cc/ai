@@ -2,6 +2,264 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-07-03-biased-ai-is-not-just-bad-for-people-its-harmful-for-businesses-too.md",
+      "title": "Biased AI is not just bad for people, it’s harmful for businesses, too",
+      "excerpt": "Bias in AI is detrimental to society and can also lead to poor decision-making with harmful impact on business processes and profitability.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/07/02/biased-ai-is-not-just-bad-for-people-its-harmful-for-businesses-too/",
+      "originalUrl": "https://venturebeat.com/2021/07/02/biased-ai-is-not-just-bad-for-people-its-harmful-for-businesses-too/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/06/GettyImages-1158763612-e1625248168247.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/07/02/biased-ai-is-not-just-bad-for-people-its-harmful-for-businesses-too/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/02/biased-ai-is-not-just-bad-for-people-its-harmful-for-businesses-too/amp/",
+      "publishedDateTime": "2021-07-02T10:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-02-detect-manufacturing-defects-in-real-time-using-amazon-lookout-for-vision.md",
+      "title": "Detect manufacturing defects in real time using Amazon Lookout for Vision",
+      "excerpt": "In this post, we look at how we can automate the detection of anomalies in a manufactured product using Amazon Lookout for Vision. Using Amazon Lookout for Vision, you can notify operators in real time when defects are detected, provide dashboards for monitoring the workload, and get visual insights",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/detect-manufacturing-defects-in-real-time-using-amazon-lookout-for-vision/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/detect-manufacturing-defects-in-real-time-using-amazon-lookout-for-vision/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/06/29/1-2693-Architecture.jpg",
+          "width": 800,
+          "height": 556,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-02T10:28:26-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-02-3-reasons-qualcomms-new-snapdragon-chip-didnt-impress-investors.md",
+      "title": "3 Reasons Qualcomm's New Snapdragon Chip Didn't Impress Investors",
+      "excerpt": "Qualcomm (NASDAQ:QCOM) recently upgraded its most powerful mobile chipset, the Snapdragon 888, with a \"Plus\" version that increases its clock speed by 5% to nearly 3.0 GHz and boosts its AI processing power by about 20%.",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2021/07/02/3-reasons-qualcomms-new-snapdragon-chip-didnt-impr/",
+      "originalUrl": "https://www.fool.com/investing/2021/07/02/3-reasons-qualcomms-new-snapdragon-chip-didnt-impr/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 159,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F632495%2Fqrd_image_sd888_ai_small.jpg&w=1200&op=resize",
+          "width": 1200,
+          "height": 801,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.fool.com/amp/investing/2021/07/02/3-reasons-qualcomms-new-snapdragon-chip-didnt-impr/",
+      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/07/02/3-reasons-qualcomms-new-snapdragon-chip-didnt-impr/",
+      "publishedDateTime": "2021-07-02T09:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-02-its-good-to-talk-how-to-donate-your-voice-to-help-the-future-of-speech-recognition.md",
+      "title": "It's Good to Talk: How to Donate Your Voice to Help the Future of Speech Recognition",
+      "excerpt": "Voice-based technology is everywhere, but what if your digital assistant doesn't speak your language? The Mozilla Common Voice project wants to change that with a publicly available database of voices from around the globe.",
+      "sourceUrl": null,
+      "webUrl": "https://www.pcmag.com/news/its-good-to-talk-how-to-donate-your-voice-to-help-the-future-of-speech",
+      "originalUrl": "https://www.pcmag.com/news/its-good-to-talk-how-to-donate-your-voice-to-help-the-future-of-speech",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.pcmag.com/imagery/articles/02QbiN18Qb5zDpb7IKveG8Q-1.1625231871.fit_lim.size_1200x630.jpg",
+          "width": 978,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.pcmag.com/news/its-good-to-talk-how-to-donate-your-voice-to-help-the-future-of-speech?amp=true",
+      "cdnAmpWebUrl": "https://www-pcmag-com.cdn.ampproject.org/c/s/www.pcmag.com/news/its-good-to-talk-how-to-donate-your-voice-to-help-the-future-of-speech?amp=true",
+      "publishedDateTime": "2021-07-02T08:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC Magazine",
+        "domain": "pcmag.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-02-a-new-frontier-of-ai-enabled-gadgets.md",
+      "title": "A New Frontier of AI-Enabled Gadgets",
+      "excerpt": "Researchers are working on a wave of sophisticated devices for the home, from toilets that screen for viruses to robots that find missing keys.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/a-new-frontier-of-ai-enabled-gadgets-11625241706",
+      "originalUrl": "https://www.wsj.com/articles/a-new-frontier-of-ai-enabled-gadgets-11625241706",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-363264/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/a-new-frontier-of-ai-enabled-gadgets-11625241706",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/a-new-frontier-of-ai-enabled-gadgets-11625241706",
+      "publishedDateTime": "2021-07-02T08:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-02-ai-strategies-what-is-natural-language-processing-and-how-can-it-help-businesses.md",
       "title": "AI Strategies: What Is Natural Language Processing and How Can It Help Businesses?",
       "excerpt": "Combining language with technology has driven innovation in artificial intelligence for decades. With the right strategy, it can help businesses today.",
@@ -10,7 +268,7 @@
       "originalUrl": "https://biztechmagazine.com/article/2021/07/ai-strategies-what-natural-language-processing-and-how-can-it-help-businesses-perfcon",
       "featuredContent": null,
       "highlight": null,
-      "heat": 90,
+      "heat": 92,
       "tags": null,
       "images": [
         {
@@ -42,7 +300,8 @@
       "topics": [
         "Microsoft AI",
         "AI",
-        "Natural Language Processing"
+        "Natural Language Processing",
+        "IBM AI"
       ]
     },
     {
@@ -156,7 +415,7 @@
       "originalUrl": "https://www.marketwatch.com/story/lunglife-ai-raises-gbp17-mln-in-london-ipo-271625208673",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 97,
       "tags": null,
       "images": [
         {
@@ -207,7 +466,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chipsets-market-latest-industry-trends-industry-size-key-drivers-and-future-demand-forecast-2021-07-02",
       "featuredContent": null,
       "highlight": null,
-      "heat": 199,
+      "heat": 209,
       "tags": null,
       "images": [
         {
@@ -883,7 +1142,7 @@
       "originalUrl": "https://venturebeat.com/2021/07/01/study-finds-that-few-major-ai-research-papers-consider-negative-impacts/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 91,
       "tags": null,
       "images": [
         {
@@ -966,237 +1225,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-01-ghost-raises-100m-series-d-for-autonomous-driving-and-crash-prevention-tech.md",
-      "title": "Ghost raises $100M Series D for autonomous driving and crash prevention tech",
-      "excerpt": "Autonomous driving system developer Ghost Locomotion has raised a $100 million Series D funding round, led by Sutter Hill Ventures. Returning investor Founders Fund also participated in the round, along with Coatue.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/07/01/ghost-raises-100m-series-d-for-autonomous-driving-and-crash-prevention-tech/",
-      "originalUrl": "https://techcrunch.com/2021/07/01/ghost-raises-100m-series-d-for-autonomous-driving-and-crash-prevention-tech/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 194,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/06/image001-1-1.png?w=1024",
-          "width": 1024,
-          "height": 578,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/07/01/ghost-raises-100m-series-d-for-autonomous-driving-and-crash-prevention-tech/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/07/01/ghost-raises-100m-series-d-for-autonomous-driving-and-crash-prevention-tech/amp/",
-      "publishedDateTime": "2021-07-01T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-01-how-ai-is-helping-enterprises-turn-the-tables-on-malicious-attacks.md",
-      "title": "How AI is helping enterprises turn the tables on malicious attacks",
-      "excerpt": "Malicious attackers have turned to AI to invade enterprise networks -- to combat attacks, organizations need to embrace AI in turn.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/07/01/how-ai-is-helping-enterprises-turn-the-tables-on-malicious-attacks/",
-      "originalUrl": "https://venturebeat.com/2021/07/01/how-ai-is-helping-enterprises-turn-the-tables-on-malicious-attacks/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 138,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/06/cyber-security.GettyImages-1268601565.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 588,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/07/01/how-ai-is-helping-enterprises-turn-the-tables-on-malicious-attacks/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/01/how-ai-is-helping-enterprises-turn-the-tables-on-malicious-attacks/amp/",
-      "publishedDateTime": "2021-07-01T06:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-01-calls-for-biden-to-ban-facial-recognition-grow-after-gao-reports-findings.md",
-      "title": "Calls for Biden to ban facial recognition grow after GAO report’s findings",
-      "excerpt": "The findings of a recent facial recognition report by the GAO are renewing previous calls for President Joe Biden to ban the technology.",
-      "sourceUrl": null,
-      "webUrl": "https://www.dailydot.com/debug/facial-recognition-gao-biden/",
-      "originalUrl": "https://www.dailydot.com/debug/facial-recognition-gao-biden/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://uploads.dailydot.com/2021/06/biden-facial-recognition.jpg?auto=compress%2Cformat&ixlib=php-3.3.0",
-          "width": 2000,
-          "height": 1000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.dailydot.com/debug/facial-recognition-gao-biden/?amp",
-      "cdnAmpWebUrl": "https://www-dailydot-com.cdn.ampproject.org/c/s/www.dailydot.com/debug/facial-recognition-gao-biden/?amp",
-      "publishedDateTime": "2021-07-01T06:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Daily Dot",
-        "domain": "dailydot.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-01-zebra-technologies-to-acquire-fetch-robotics.md",
-      "title": "Zebra Technologies to Acquire Fetch Robotics",
-      "excerpt": "Zebra Technologies (NASDAQ: ZBRA), an innovator at the front line of business with solutions and partners that deliver a performance edge, today announced it intends to acquire Fetch Robotics, a pioneer in on-demand automation.",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/m-a/21/07/21806822/zebra-tech-to-acquire-fetch-robotics-for-290m",
-      "originalUrl": "https://www.tmcnet.com/usubmit/-zebra-technologies-acquire-fetch-robotics-/2021/07/01/9401780.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 194,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/files/images/story/2012/abtech_871.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/21806822",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/21806822",
-      "publishedDateTime": "2021-07-01T05:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-07-01-food-supply-chain-tyson-foods-invests-in-ai-robotics.md",
-      "title": "Food Supply Chain: Tyson Foods Invests in AI Robotics",
-      "excerpt": "Tyson Foods - among others - invests in Soft Robotics Series B extension, expanding the use of AI, robotics and automation in the food supply chain",
-      "sourceUrl": null,
-      "webUrl": "https://manufacturingglobal.com/ai-and-automation/food-supply-chain-tyson-foods-invests-ai-robotics",
-      "originalUrl": "https://manufacturingglobal.com/ai-and-automation/food-supply-chain-tyson-foods-invests-ai-robotics",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://manufacturingglobal.com/sites/default/files/styles/ma/public/image/maxresdefault%20%282%29_0.jpg?itok=1Dv22rGS",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-01T05:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "manufacturingglobal.com",
-        "domain": "manufacturingglobal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

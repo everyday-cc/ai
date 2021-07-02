@@ -2,6 +2,59 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-06-16-harnessing-healthcares-data-explosion-with-ai-based-natural-language-processing.md",
+      "title": "Harnessing Healthcare’s Data Explosion With AI-Based Natural Language Processing",
+      "excerpt": "By creating efficiencies that minimize tedious searches and deliver users the specific information they need when they need it, clinicians can spend less time on the computer and more time interacting with patients.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/06/16/harnessing-healthcares-data-explosion-with-ai-based-natural-language-processing/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/06/16/harnessing-healthcares-data-explosion-with-ai-based-natural-language-processing/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 136,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f32974509df6c340752fce0%2F0x0.jpg",
+          "width": 1200,
+          "height": 633,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/06/16/harnessing-healthcares-data-explosion-with-ai-based-natural-language-processing/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/06/16/harnessing-healthcares-data-explosion-with-ai-based-natural-language-processing/amp/",
+      "publishedDateTime": "2021-06-16T04:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2021-06-15-exterro-inc-exterro-releases-new-document-review-platform-with-enhanced-analytics-and-ai-capabilities.md",
       "title": "Exterro, Inc.: Exterro Releases New Document Review Platform with Enhanced Analytics and AI Capabilities",
       "excerpt": "These include: Neural machine translation, a new feature that enables users to search for, identify and translate foreign language documents ... including AI, is the most effective way to reduce ...",
@@ -1368,40 +1421,6 @@
       "topics": [
         "AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2021-06-07-apptek-selected-as-a-high-quality-automatic-speech-recognition-solution-provider-for-callminers-open-voice-transcription-standard.md",
-      "title": "AppTek Selected as a High-Quality Automatic Speech Recognition Solution Provider for CallMiner's Open Voice Transcription Standard",
-      "excerpt": "With AppTek's ASR technology as part of the CallMiner's OVTS ecosystem, businesses can now unlock the \"Voice of the Customer and Agent\" in over 30 languages and dialects while relying on the accuracy of AppTek's award-winning AI-enabled speech-to-text technology for the purpose of extracting actionable insights and business intelligence from 100% of voice interactions.",
-      "sourceUrl": null,
-      "webUrl": "https://www.morningstar.com/news/pr-newswire/20210607ph01040/apptek-selected-as-a-high-quality-automatic-speech-recognition-solution-provider-for-callminers-open-voice-transcription-standard",
-      "originalUrl": "https://www.morningstar.com/news/pr-newswire/20210607ph01040/apptek-selected-as-a-high-quality-automatic-speech-recognition-solution-provider-for-callminers-open-voice-transcription-standard",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-07T00:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Morningstar, Inc.",
-        "domain": "morningstar.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
       ]
     }
   ],

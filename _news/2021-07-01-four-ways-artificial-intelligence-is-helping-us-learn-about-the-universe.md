@@ -58,20 +58,6 @@ related:
         width: 600
         height: 229
         isCached: true
-  - title: "How Artificial Intelligence Is Taking Over Our Gadgets"
-    excerpt: "We're now witnessing a turning point for artificial intelligence, as more of it comes down from the clouds and into our smartphones and automobiles. While it's fair to say that AI that lives on the \"edge\" -- where you and I are -- is still far less powerful than its datacenter-based counterpart,"
-    publishedDateTime: 2021-06-28T00:04:00Z
-    webUrl: "https://www.bangkokpost.com/business/2139475/how-artificial-intelligence-is-taking-over-our-gadgets"
-    type: article
-    provider:
-      name: Bangkok Post
-      domain: bangkokpost.com
-    quality: 39
-    images:
-      - url: "https://static.bangkokpost.com/media/content/dcx/2021/06/28/4014459_700.jpg"
-        width: 700
-        height: 481
-        isCached: true
   - title: "How AI Enables Companies to Harvest the True Value of Data"
     excerpt: "Digital businesses are in pursuit of new ways to transform data at the speed of business. They rely on AI-enabled technologies to unbolt the true potential of data and leverage the insightful information to make decisions."
     publishedDateTime: 2021-06-29T05:30:00Z

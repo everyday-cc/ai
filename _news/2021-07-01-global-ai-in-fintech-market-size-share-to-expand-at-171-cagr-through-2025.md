@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/global-ai-in-fintech-mar
 webUrl: "https://www.marketwatch.com/press-release/global-ai-in-fintech-market-size-share-to-expand-at-171-cagr-through-2025-2021-07-01"
 type: article
 quality: 66
-heat: 146
+heat: 156
 published: true
 
 provider:
@@ -114,6 +114,20 @@ related:
       - url: "https://www.techshout.com/wp-content/uploads/2021/04/fintech-1.jpg"
         width: 690
         height: 240
+        isCached: true
+  - title: "5 reasons your team should attend Fintech & Insurtech Live"
+    excerpt: "Join us from 12th - 14th October 2021 for the ultimate Fintech & Insurtech event, streamed live from London’s Tobacco Dock"
+    publishedDateTime: 2021-07-02T16:04:00Z
+    webUrl: "https://fintechmagazine.com/financial-services-finserv/5-reasons-your-team-should-attend-fintech-and-insurtech-live"
+    type: article
+    provider:
+      name: fintechmagazine
+      domain: fintechmagazine.com
+    quality: 24
+    images:
+      - url: "https://fintechmagazine.com/sites/default/files/styles/ma/public/image/https___cdn.evbuc_.com_images_137634879_544762740363_1_original%20%281%29_0.jpg?itok=Uc0GE5Fx"
+        width: 800
+        height: 400
         isCached: true
   - title: "Advantage Club forays in Fintech Services"
     excerpt: "Advantage Club one of the leading Employee Engagement platforms in South East Asia has made its foray into financial services with the launch of an early sala"

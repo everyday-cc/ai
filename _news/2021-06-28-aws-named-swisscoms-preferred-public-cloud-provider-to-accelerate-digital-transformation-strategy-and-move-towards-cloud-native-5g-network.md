@@ -7,7 +7,7 @@ originalUrl: "https://apnews.com/press-release/business-wire/amazoncom-inc-europ
 webUrl: "https://apnews.com/press-release/business-wire/amazoncom-inc-europe-technology-business-971d6f5dc4984b03b6e15a7dc45883f4"
 type: article
 quality: 5
-heat: -1
+heat: 5
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 700
     height: 450
     isCached: true
-
-related:
-  - title: "Mercado Libre Selects AWS as Its Primary Cloud Provider to Accelerate Growth and Transformation into a Data-Driven Company"
-    excerpt: "The fraud detection team for Mercado Pago (the platform responsible for payments inside Mercado Libre) leverages Amazon Rekognition (AWS’s video and image analysis service) as part of its ..."
-    publishedDateTime: 2021-06-28T00:00:00Z
-    webUrl: "https://br.advfn.com/noticias/BW/2020/artigo/83750981"
-    type: article
-    provider:
-      name: ADVFN
-      domain: advfn.com
-    quality: 13
-    images:
-      - url: "https://br.advfn.com/p.php?pid=staticchart&s=NASDAQ:MELI&p=5&t=52"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "u93LHVlWEl3JsYPZAdox5TjfpzAnbT5EiKkb8n+zvDTTPt4uOxhABGYH8zR2LZ0rtH9hwVeSDOeHfFE6qJ6cDurGOICxx98Y5SXsyTucWuBHJP+X+KrPXy4HQ69/i2Ba+3ouNXiLWLC94j4zwQ+tYz3AMY+kxqoZiImkYohBnW4OFSxxMFlf8myGqqfnGdHmirjz19jCNL3rhDdYKZO6N2Q0Dhbn/bdQP7Vkz2yyqsJ/Pu1sn2djtDEAz1HtOQi6Eb5TiLDvHskkJeIdABM6xSJrCwND5lVLs4+LZ/mz8FshE8VOZcsg+k2wt2UQs1siVKqeHahy1LtrWh4trv14w6IYpm6v/38S10zzG4iG23Y=;rKEHhpIJiM0AIj+qC2L0Dg=="
 ---

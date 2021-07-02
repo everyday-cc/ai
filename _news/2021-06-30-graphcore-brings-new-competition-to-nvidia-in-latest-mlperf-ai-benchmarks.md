@@ -21,8 +21,8 @@ provider:
       height: 50
 
 topics:
-  - AI Hardware
   - AI
+  - AI Hardware
 
 images:
   - url: "https://www.zdnet.com/a/hub/i/2021/06/30/af021708-3cd7-4136-a6fb-48d2c0bb412c/graphcore-nvidia-comparison-crop-layout-for-twitter.jpg"
@@ -194,6 +194,6 @@ related:
       domain: tmcnet.com
     quality: 9
 
-secured: "0/0oBhgt3cS2U+pTP2uym1FGkt+joKb/g/PEIboBe76MeBmzcExr6hktgdzfUycF1WywT0ZBACn7lpBSlJLVKwW0GcEAcA+B+1Z5iKldrnFdSFvqFYFPAKV7m/MAxXTmFuDY8Gy5eTjho8e5rXz3eJZbpPkBqsbR0T3NBSB9jt7/ly5KX0FynJ0mZzBYPEDwOLo0O6TURPBFnco0Cvx4Q4Z2/53Zf1SYreLsSa4gm3WEmhblP6xn4P1I6BOWVqb4WVdXm/1meNBlB5k/PliC3DZkjpkRyAV8Zdh8qNAmAjRu9SA9HE/VjRbqllCi2cH5xPhlIPws/EGar2taXZi0qt9flBWWIuPpfEEw3v6ht/4=;+wClGGUVfxjwv4qc23DYmg=="
+secured: "EWGzsEWEhCXxZqA2VUthjKSvklUPOBRtcjemsq6rD7P20SQwpYeCY2WQjWEJ0XhWj9QViLJboQ8XRk7jK6G0ykf8TDaY84WfnslHzu/SygWKN8RjVs03NCdmx6cXki/uJ153/YrUmgs9O3GOF5SFf9cnEy2oz47z0GegsGaPrQuOQzIBDen1dNo/nDgsrRv3B1CehABqzn+J4LFWQ5odIQuA8Pf1CXwVSyKukkHVGp8m4+Xb/UveQYr3pMHQMiYv8w78mbXks6peKPzF0vD0ad6Gq5A5Zq9lMunRkHtHv1xci7sdGDPr9t9ngPBxt7sL4N/2ZhIjo0mQtMaHG1/9c1E/tSFUK0cPxvSIBlXxIU4=;FK+NBHDQcSoLAN6nB0sxWw=="
 ---
 

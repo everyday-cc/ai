@@ -18,6 +18,22 @@ topics:
   - AI
 
 related:
+  - title: "Biased AI is not just bad for people, it’s harmful for businesses, too"
+    excerpt: "Bias in AI is detrimental to society and can also lead to poor decision-making with harmful impact on business processes and profitability."
+    publishedDateTime: 2021-07-02T17:52:00Z
+    webUrl: "https://venturebeat.com/2021/07/02/biased-ai-is-not-just-bad-for-people-its-harmful-for-businesses-too/"
+    ampWebUrl: "https://venturebeat.com/2021/07/02/biased-ai-is-not-just-bad-for-people-its-harmful-for-businesses-too/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/02/biased-ai-is-not-just-bad-for-people-its-harmful-for-businesses-too/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2021/06/GettyImages-1158763612-e1625248168247.jpg?w=1200&strip=all"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "AI is now core to business success"
     excerpt: "New survey of business leaders and data scientists indicates that AI initiatives are delivering business value but challenges still exist."
     publishedDateTime: 2021-06-30T11:55:00Z

@@ -125,6 +125,20 @@ related:
         width: 690
         height: 240
         isCached: true
+  - title: "5 reasons your team should attend Fintech & Insurtech Live"
+    excerpt: "Join us from 12th - 14th October 2021 for the ultimate Fintech & Insurtech event, streamed live from London’s Tobacco Dock"
+    publishedDateTime: 2021-07-02T16:04:00Z
+    webUrl: "https://fintechmagazine.com/financial-services-finserv/5-reasons-your-team-should-attend-fintech-and-insurtech-live"
+    type: article
+    provider:
+      name: fintechmagazine
+      domain: fintechmagazine.com
+    quality: 24
+    images:
+      - url: "https://fintechmagazine.com/sites/default/files/styles/ma/public/image/https___cdn.evbuc_.com_images_137634879_544762740363_1_original%20%281%29_0.jpg?itok=Uc0GE5Fx"
+        width: 800
+        height: 400
+        isCached: true
   - title: "Inclusive Fintech 50 launches 2021 competition to recognize early-stage fintechs driving innovation in an era of uncertainty"
     excerpt: "An independent panel of leading fintech experts will select 50 innovative inclusive fintech startups helping communities rebuild from the pandemicWASHINGTON--(BUSINESS WIRE)--#InclusiveFintech50--The Center for Financial Inclusion (CFI) has launched the third year of Inclusive Fintech 50 (IF50),"
     publishedDateTime: 2021-06-28T13:00:00Z

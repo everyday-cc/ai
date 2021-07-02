@@ -2,6 +2,51 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-07-02-ai-strategies-what-is-natural-language-processing-and-how-can-it-help-businesses.md",
+      "title": "AI Strategies: What Is Natural Language Processing and How Can It Help Businesses?",
+      "excerpt": "Combining language with technology has driven innovation in artificial intelligence for decades. With the right strategy, it can help businesses today.",
+      "sourceUrl": null,
+      "webUrl": "https://biztechmagazine.com/article/2021/07/ai-strategies-what-natural-language-processing-and-how-can-it-help-businesses-perfcon",
+      "originalUrl": "https://biztechmagazine.com/article/2021/07/ai-strategies-what-natural-language-processing-and-how-can-it-help-businesses-perfcon",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 92,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://biztechmagazine.com/sites/biztechmagazine.com/files/styles/cdw_hero/public/articles/202107/nlp%20perfcon%20hero.jpg?itok=RszSk-uo",
+          "width": 1440,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://biztechmagazine.com/article/2021/07/ai-strategies-what-natural-language-processing-and-how-can-it-help-businesses-perfcon?amp",
+      "cdnAmpWebUrl": "https://biztechmagazine-com.cdn.ampproject.org/c/s/biztechmagazine.com/article/2021/07/ai-strategies-what-natural-language-processing-and-how-can-it-help-businesses-perfcon?amp",
+      "publishedDateTime": "2021-07-02T07:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BizTech",
+        "domain": "biztechmagazine.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "Natural Language Processing",
+        "IBM AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-28-meet-the-new-standard-in-risk-management.md",
       "title": "Meet the new standard in risk management",
       "excerpt": "Legacy assessment based third-party risk management (TPRM) practices have struggled for years to keep pace with business needs. During the COVID-19 crisis, these shortcomings became even more acute. Companies faced additional unanticipated challenges involving the rapid onboarding of new service providers,",
@@ -262,35 +307,26 @@
       ]
     },
     {
-      "path": "_news/2021-06-24-ibm-watson-advertising-announces-new-research-to-explore-the-role-of-ai-in-detecting-and-mitigating-bias-in-advertising.md",
-      "title": "IBM Watson Advertising Announces New Research to Explore the Role of AI in Detecting and Mitigating Bias in Advertising",
-      "excerpt": "2021 /PRNewswire/ -- IBM Watson Advertising (NYSE: IBM) today announced a research initiative that will apply open-source AI technology, developed by IBM, to better understand how prevalent ...",
+      "path": "_news/2021-06-24-grand-prize-winner-announced-in-5m-ibm-watson-ai-xprize-competition.md",
+      "title": "Grand Prize Winner Announced in $5M IBM Watson AI XPRIZE Competition",
+      "excerpt": "and IBM Watson, IBM’s AI technology for business, today announced the Grand Prize Winner in the $5M IBM Watson AI XPRIZE Challenge. First launched in 2016, the five-year global competition ...",
       "sourceUrl": null,
-      "webUrl": "https://www.prnewswire.com/news-releases/ibm-watson-advertising-announces-new-research-to-explore-the-role-of-ai-in-detecting-and-mitigating-bias-in-advertising-301319170.html",
-      "originalUrl": "https://www.prnewswire.com/news-releases/ibm-watson-advertising-announces-new-research-to-explore-the-role-of-ai-in-detecting-and-mitigating-bias-in-advertising-301319170.html",
+      "webUrl": "https://www.businesswireindia.com/grand-prize-winner-announced-in-usd5m-ibm-watson-ai-xprize-competition-73669.html",
+      "originalUrl": "https://www.businesswireindia.com/grand-prize-winner-announced-in-usd5m-ibm-watson-ai-xprize-competition-73669.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/95470/ibm_logo.jpg?p=facebook",
-          "width": 2698,
-          "height": 1414,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-24T05:20:00-07:00",
+      "publishedDateTime": "2021-06-24T07:40:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
+        "name": "Business Wire",
+        "domain": "businesswireindia.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -305,12 +341,12 @@
       ]
     },
     {
-      "path": "_news/2021-06-24-grand-prize-winner-announced-in-5m-ibm-watson-ai-xprize-competition.md",
-      "title": "Grand Prize Winner Announced in $5M IBM Watson AI XPRIZE Competition",
-      "excerpt": "XPRIZE, the world’s leader in designing and operating incentive competitions to solve humanity’s grand challenges, and IBM Watson, IBM’s AI technology",
+      "path": "_news/2021-06-24-ibm-watson-advertising-announces-new-research-to-explore-the-role-of-ai-in-detecting-and-mitigating-bias-in-advertising.md",
+      "title": "IBM Watson Advertising Announces New Research to Explore the Role of AI in Detecting and Mitigating Bias in Advertising",
+      "excerpt": "IBM Watson Advertising today announced a research initiative that will apply open-source AI technology, developed by IBM, to better understand how prevalent unwanted bias is in advertising, while simultaneously laying the foundation for potential mitigation.",
       "sourceUrl": null,
-      "webUrl": "https://www.businesswire.com/news/home/20210623005848/en/Grand-Prize-Winner-Announced-in-5M-IBM-Watson-AI-XPRIZE-Competition",
-      "originalUrl": "https://www.businesswire.com/news/home/20210623005848/en/Grand-Prize-Winner-Announced-in-5M-IBM-Watson-AI-XPRIZE-Competition",
+      "webUrl": "https://www.nasdaq.com/press-release/ibm-watson-advertising-announces-new-research-to-explore-the-role-of-ai-in-detecting",
+      "originalUrl": "https://www.nasdaq.com/press-release/ibm-watson-advertising-announces-new-research-to-explore-the-role-of-ai-in-detecting",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -320,11 +356,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-23T14:30:00-07:00",
+      "publishedDateTime": "2021-06-24T04:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1359,58 +1395,6 @@
       "topics": [
         "IBM AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-02-conversational-ai-startup-cognigy-nabs-44m.md",
-      "title": "Conversational AI startup Cognigy nabs $44M",
-      "excerpt": "Cognigy, a platform for designing conversational, AI-powered experiences, raised $44 million in fresh capital.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/06/01/conversational-ai-startup-cognigy-nabs-44m/",
-      "originalUrl": "https://venturebeat.com/2021/06/01/conversational-ai-startup-cognigy-nabs-44m/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2018/06/feldman-automotive-chatbot-pr-magic.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 801,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/06/01/conversational-ai-startup-cognigy-nabs-44m/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/01/conversational-ai-startup-cognigy-nabs-44m/amp/",
-      "publishedDateTime": "2021-06-01T17:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "IBM AI"
       ]
     }
   ],

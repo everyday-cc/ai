@@ -1,26 +1,20 @@
 ---
 category: news
 title: "IBM Watson Advertising Announces New Research to Explore the Role of AI in Detecting and Mitigating Bias in Advertising"
-excerpt: "2021 /PRNewswire/ -- IBM Watson Advertising (NYSE: IBM) today announced a research initiative that will apply open-source AI technology, developed by IBM, to better understand how prevalent ..."
-publishedDateTime: 2021-06-24T12:20:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/ibm-watson-advertising-announces-new-research-to-explore-the-role-of-ai-in-detecting-and-mitigating-bias-in-advertising-301319170.html"
-webUrl: "https://www.prnewswire.com/news-releases/ibm-watson-advertising-announces-new-research-to-explore-the-role-of-ai-in-detecting-and-mitigating-bias-in-advertising-301319170.html"
+excerpt: "IBM Watson Advertising today announced a research initiative that will apply open-source AI technology, developed by IBM, to better understand how prevalent unwanted bias is in advertising, while simultaneously laying the foundation for potential mitigation."
+publishedDateTime: 2021-06-24T11:00:00Z
+originalUrl: "https://www.nasdaq.com/press-release/ibm-watson-advertising-announces-new-research-to-explore-the-role-of-ai-in-detecting"
+webUrl: "https://www.nasdaq.com/press-release/ibm-watson-advertising-announces-new-research-to-explore-the-role-of-ai-in-detecting"
 type: article
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Nasdaq
+  domain: nasdaq.com
 
 topics:
   - IBM AI
   - AI
 
-images:
-  - url: "https://mma.prnewswire.com/media/95470/ibm_logo.jpg?p=facebook"
-    width: 2698
-    height: 1414
-    isCached: true
-
-secured: "YiKUCoBpCBNpmbRto81mLf81xAeUn5vIRvD44XPC3HZ23epBda+aSU3C+2bzQoP3ImATSIwWlrQK6f1ApE5uz8K46pYHsRfLpq0AlFWF7k8QcgUxC81tXL3CXS9e59MbTO0GWbVss4Cp2FL7sNdm5eDCoNkQOyj/J2DJ+XTVuOOTSMmIEYJ+k6wAEBgMOBVbcN4N8bB4pk9rfDVik/P/U31xBWPxQS1kfytdTq0gNKw+nVJfaN1nS0wRj7hnj9mL4kflGueA9V5aAcKqT7FbGYXk50g7Qp/NXbKvMS9J8UlgJ6ZbRoTdx5P8vYIQIzWs3390vmqVO1zd6deLvTj78N1QZ4yYL4DJBFpZ+sU0Ejw=;4NWRsgNx5z18Hv/SOk+ATQ=="
+secured: "6OrnCJQ9zhzJioyaymlJSZs//7UUdun9kercIEkP1ZcPwpxa6/pKfNCbUt39zBXwlgs8WkfBJOkSHRce3ZYJ1r//2fExpQEPsSEestR/GafOldpTJ3MbpvojaSRpY/e16bhjHusa78r12m9ssL52Q9nWiFo/fJQbIOdGrbibbHpGkrSxWBBqaVQURX4QuV8RSwQJarwKbgNzaFwUs0Ec/q43EeV7Vg8CRk0P84BFk92VfIkE3wcBi/S1/08uQe7dLr7gM9v4Jj9DIDTUjo6CUPXNNqis1Diy15vts6lAwmDINdwXvkJVVihlFRFke8LlQHLjY2JkUx3PvS40m7rC5/3uH/uYqDv1qrpwaOkuRsM=;TaE6yYWiS4EOHdKzUN1btQ=="
 ---
 

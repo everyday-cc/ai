@@ -2,6 +2,188 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2021-06-23-coffeemugai-raises-625000-from-paradigm-shift-capital-and-angellist-india-in-pre-seed-round.md",
+      "title": "CoffeeMug.ai Raises $625,000 From Paradigm Shift Capital And AngelList India In Pre-Seed Round",
+      "excerpt": "The company plans to use this fund to accelerate its efforts to refine its AI-based matchmaking algorithm, double its existing user base of 50,000 globally, and connect them with genuine business oppo",
+      "sourceUrl": null,
+      "webUrl": "https://www.entrepreneur.com/article/375424",
+      "originalUrl": "https://www.entrepreneur.com/article/375424",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/1624434392-hivan-arvizu-soyhivan-MAnhvw0nDDY-unsplash.jpg?width=600&crop=16:9",
+          "width": 600,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.entrepreneur.com/amphtml/375424",
+      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/375424",
+      "publishedDateTime": "2021-06-23T00:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-23-deepmind-scientist-calls-for-ethical-ai-as-google-faces-ongoing-backlash.md",
+      "title": "DeepMind scientist calls for ethical AI as Google faces ongoing backlash",
+      "excerpt": "Disclaimer | Accessibility Statement | Commerce Policy | Made In NYC | Stock quotes by finanzen.net At the Lesbians Who Tech Pride Summit, DeepMind's Raia Hadsell discussed the duty of researchers ...",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/deepmind-scientist-calls-for-ethical-ai-as-google-faces-ongoing-backlash-10265599",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/deepmind-scientist-calls-for-ethical-ai-as-google-faces-ongoing-backlash-10265599",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-23T00:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2021-06-23-deepmind-wants-to-use-its-ai-to-cure-neglected-diseases.md",
+      "title": "DeepMind wants to use its AI to cure neglected diseases",
+      "excerpt": "In November 2020, Alphabet-owned AI firm DeepMind announced that it had cracked one of biology’s trickiest problems. For years the company had been working on an AI called AlphaFold that could ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.co.uk/article/deepmind-alphafold-protein-diseases",
+      "originalUrl": "https://www.wired.co.uk/article/deepmind-alphafold-protein-diseases",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.co.uk/photos/60d22392cbf316665cadeb09/master/pass/GettyImages-1199508481.jpg",
+          "width": 5335,
+          "height": 3557,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.co.uk/article/deepmind-alphafold-protein-diseases/amp",
+      "cdnAmpWebUrl": "https://www-wired-co-uk.cdn.ampproject.org/c/s/www.wired.co.uk/article/deepmind-alphafold-protein-diseases/amp",
+      "publishedDateTime": "2021-06-23T00:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired UK",
+        "domain": "wired.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-23-ai-in-healthcare-market-2021-may-see-potentially-high-growth-factors-deepmind-technologies-limited-ibm-corporation-intel-corporation.md",
+      "title": "AI in Healthcare Market 2021 May See Potentially High Growth Factors | DeepMind Technologies Limited, IBM Corporation, Intel Corporation",
+      "excerpt": "The AI in Healthcare Market report provides a detailed analysis of the major factors influencing the market growth, including the drivers, restraints, lucrative opportunities, technology advancements,",
+      "sourceUrl": null,
+      "webUrl": "https://ksusentinel.com/2021/06/23/ai-in-healthcare-market-2021-may-see-potentially-high-growth-factors-deepmind-technologies-limited-ibm-corporation-intel-corporation/",
+      "originalUrl": "https://ksusentinel.com/2021/06/23/ai-in-healthcare-market-2021-may-see-potentially-high-growth-factors-deepmind-technologies-limited-ibm-corporation-intel-corporation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://heraldkeeper.com/wp-content/uploads/2021/06/oie_APm0lt2Fko4P.jpg",
+          "width": 838,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-23T00:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Sentinel",
+        "domain": "ksusentinel.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2021-06-23-yotta-launches-virtual-pro-workstations-for-3d-architectural-designs-ai-ml.md",
       "title": "Yotta Launches Virtual Pro Workstations for 3D architectural designs, AI, ML",
       "excerpt": "Path-breaking combination of virtual GPU and advanced VDI technology, to deliver extreme performance for video editing, graphics design, 3D architectural designs, AI, ML and more.",
@@ -999,196 +1181,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-22-techsees-ai-can-recognize-devices-and-guide-users-through-setup.md",
-      "title": "TechSee’s AI can recognize devices and guide users through setup",
-      "excerpt": "TechSee's new Eve Cortex platform leverages AI, machine learning, and augmented reality to help users set up new devices.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/06/22/techsees-ai-platform-learns-to-recognize-and-guide-users-through-devices-setups/",
-      "originalUrl": "https://venturebeat.com/2021/06/22/techsees-ai-platform-learns-to-recognize-and-guide-users-through-devices-setups/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/10/7e1ce4cc-8904-40cd-80e7-f3717fd0d695-e1603126551920.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 621,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/06/22/techsees-ai-platform-learns-to-recognize-and-guide-users-through-devices-setups/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/22/techsees-ai-platform-learns-to-recognize-and-guide-users-through-devices-setups/amp/",
-      "publishedDateTime": "2021-06-22T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-22-why-passengers-might-actually-feel-safe-in-zoox-self-driving-cars.md",
-      "title": "Why passengers might actually feel safe in Zoox self-driving cars",
-      "excerpt": "Instead of turning a traditional car into an autonomous one, the Amazon-owned self-driving car service Zoox has created its own type of autonomous vehicle without a steering wheel or front seat. Redesigning a car from the ground up also means redesigning car safety features.",
-      "sourceUrl": null,
-      "webUrl": "https://mashable.com/article/zoox-autonomous-vehicle-safety-features/",
-      "originalUrl": "https://mashable.com/article/zoox-autonomous-vehicle-safety-features/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mondrian.mashable.com/2021%252F06%252F22%252Fb6%252F97f23c8d2b0b494ca93c0fba0bfdd904.d0444.png%252F1200x630.png?signature=M8Ny3AboNS1Jj-wHe25Nffvr8E8=",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mashable.com/article/zoox-autonomous-vehicle-safety-features.amp",
-      "cdnAmpWebUrl": "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/zoox-autonomous-vehicle-safety-features.amp",
-      "publishedDateTime": "2021-06-22T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mashable",
-        "domain": "mashable.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-22-hpe-acquires-determined-ai-to-ramp-up-machine-learning-development.md",
-      "title": "HPE acquires Determined AI to ramp up machine learning development",
-      "excerpt": "The deal will see HPE merge Determined AI’s machine learning platform with its high-performance computing services.",
-      "sourceUrl": null,
-      "webUrl": "https://www.siliconrepublic.com/machines/hpe-determined-ai-machine-learning",
-      "originalUrl": "https://www.siliconrepublic.com/machines/hpe-determined-ai-machine-learning",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.siliconrepublic.com/wp-content/uploads/2020/07/HPE-Interxion.jpeg",
-          "width": 800,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-22T06:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SiliconRepublic",
-        "domain": "siliconrepublic.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-06-22-five-questions-to-ask-before-raising-a-series-a-for-your-robotics-startup.md",
-      "title": "Five Questions To Ask Before Raising A Series A For Your Robotics Startup",
-      "excerpt": "As a founder of a robotics startup, how do you successfully access venture capital, and more specifically, how can you raise a series A at a fair valuation with favorable terms?",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/06/22/five-questions-to-ask-before-raising-a-series-a-for-your-robotics-startup/",
-      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/06/22/five-questions-to-ask-before-raising-a-series-a-for-your-robotics-startup/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 118,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60d0fbf12f7551babaf08109%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D966%26cropY1%3D56%26cropY2%3D599",
-          "width": 966,
-          "height": 543,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/06/22/five-questions-to-ask-before-raising-a-series-a-for-your-robotics-startup/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2021/06/22/five-questions-to-ask-before-raising-a-series-a-for-your-robotics-startup/amp/",
-      "publishedDateTime": "2021-06-22T06:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

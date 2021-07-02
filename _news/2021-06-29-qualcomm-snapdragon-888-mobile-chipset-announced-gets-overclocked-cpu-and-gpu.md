@@ -9,8 +9,8 @@ ampWebUrl: "https://www.gizbot.com/amphtml/mobile/news/qualcomm-snapdragon-888-p
 cdnAmpWebUrl: "https://www-gizbot-com.cdn.ampproject.org/c/s/www.gizbot.com/amphtml/mobile/news/qualcomm-snapdragon-888-plus-mobile-chipset-announced-gets-overclocked-cpu-and-gpu-075158.html"
 type: article
 quality: 70
-heat: 140
-published: true
+heat: -1
+published: false
 
 provider:
   name: GIZBOT
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "3 Reasons Qualcomm's New Snapdragon Chip Didn't Impress Investors"
+    excerpt: "Qualcomm (NASDAQ:QCOM) recently upgraded its most powerful mobile chipset, the Snapdragon 888, with a \"Plus\" version that increases its clock speed by 5% to nearly 3.0 GHz and boosts its AI processing power by about 20%."
+    publishedDateTime: 2021-07-02T16:30:00Z
+    webUrl: "https://www.fool.com/investing/2021/07/02/3-reasons-qualcomms-new-snapdragon-chip-didnt-impr/"
+    ampWebUrl: "https://www.fool.com/amp/investing/2021/07/02/3-reasons-qualcomms-new-snapdragon-chip-didnt-impr/"
+    cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/07/02/3-reasons-qualcomms-new-snapdragon-chip-didnt-impr/"
+    type: article
+    provider:
+      name: The Motley Fool
+      domain: fool.com
+    quality: 89
+    images:
+      - url: "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F632495%2Fqrd_image_sd888_ai_small.jpg&w=1200&op=resize"
+        width: 1200
+        height: 801
+        isCached: true
   - title: "Qualcomm's New Snapdragon 888+ Chip Cranks 3GHz And Big AI Gains For Flagship 5G Phones"
     excerpt: "This time around, the prime Kryo CPU core is clocked at up to 3GHz (2.995GHz to be exact), compared to 2.84GHz."
     publishedDateTime: 2021-06-28T13:18:00Z
@@ -74,22 +90,6 @@ related:
       - url: "https://beebom.com/wp-content/uploads/2021/06/Qualcomm-Snapdragon-888-Plus-Announced-with-CPU-and-AI-Upgrades-2.jpg"
         width: 750
         height: 500
-        isCached: true
-  - title: "Snapdragon 888+ is Official With 3GHz CPU and Improved AI"
-    excerpt: "The Mobile World Congress (MWC) 2021 kicked off this week and Qualcomm was the first to make a major announcement."
-    publishedDateTime: 2021-06-29T09:45:00Z
-    webUrl: "https://propakistani.pk/2021/06/29/snapdragon-888-is-official-with-3ghz-cpu-and-improved-ai/"
-    ampWebUrl: "https://propakistani.pk/2021/06/29/snapdragon-888-is-official-with-3ghz-cpu-and-improved-ai/amp/"
-    cdnAmpWebUrl: "https://propakistani-pk.cdn.ampproject.org/c/s/propakistani.pk/2021/06/29/snapdragon-888-is-official-with-3ghz-cpu-and-improved-ai/amp/"
-    type: article
-    provider:
-      name: ProPakistani
-      domain: propakistani.pk
-    quality: 59
-    images:
-      - url: "https://propakistani.pk/wp-content/uploads/2021/06/Snapdragon-e1624949683332.jpg"
-        width: 1000
-        height: 565
         isCached: true
   - title: "Qualcomm has unveiled its next flagship chip: the Snapdragon 888 Plus"
     excerpt: "Qualcomm has officially announced the follow up to its flagship Snapdragon 888 platform: the Snapdragon 888 Plus"

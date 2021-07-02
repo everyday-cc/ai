@@ -2,6 +2,205 @@
   "page": 42,
   "value": [
     {
+      "path": "_news/2021-06-01-lead-semantics-collaborates-with-fluree-to-bring-a-secure-natural-language-processing-pipeline-to-market.md",
+      "title": "Lead Semantics collaborates with Fluree to bring a secure natural language processing pipeline to market",
+      "excerpt": "TextDistil extends the scope of data platform strategy to include text assets for enterprise data teams building domain-specific knowledge graphs or governance strategies for unstructured data",
+      "sourceUrl": null,
+      "webUrl": "https://www.kmworld.com/Articles/ReadArticle.aspx?ArticleID=147139",
+      "originalUrl": "https://www.kmworld.com/Articles/ReadArticle.aspx?ArticleID=147139",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://dzceab466r34n.cloudfront.net/KMWorld/TemplateImages/KMW21_Sub-Cover-Image.gif",
+          "width": 772,
+          "height": 594,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-01T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KMWorld Magazine",
+        "domain": "kmworld.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-01-text-altering-ai-is-changing-our-culture-try-this-tool-to-find-out-how.md",
+      "title": "Text-altering AI is changing our culture — try this tool to find out how",
+      "excerpt": "Recent research shows that AI is influncing how we use language through these text-altering machines. These tools are a great example of how this is done.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/news/text-altering-ai-changing-culture-try-this-tool-find-out-how-syndication",
+      "originalUrl": "https://thenextweb.com/news/text-altering-ai-changing-culture-try-this-tool-find-out-how-syndication",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F06%2FAI-robot-writing-hed-shutterstock_591536696.jpg&signature=eb3fc916c8e4408192846cbf04fdca3f",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-01T05:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-01-edtech-startup-avishkaar-raises-inr-5-cr-in-pre-series-a-round-co-led-by-mumbai-angels-and-auxano.md",
+      "title": "Edtech Startup Avishkaar Raises INR 5 Cr In Pre-Series A Round Co-led By Mumbai Angels And Auxano",
+      "excerpt": "Avishkaar plans to utilize the funding towards product development and further expansion of its portfolio in addition to hiring talent",
+      "sourceUrl": null,
+      "webUrl": "https://www.entrepreneur.com/article/373331",
+      "originalUrl": "https://www.entrepreneur.com/article/373331",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/1622549303-compare-fibre-JiOFFI3W7IA-unsplash1.jpg?width=600&crop=16:9",
+          "width": 600,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.entrepreneur.com/amphtml/373331",
+      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/373331",
+      "publishedDateTime": "2021-06-01T05:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-01-innovate-toward-health-experience-not-just-healthcare.md",
+      "title": "Innovate Toward Health Experience, Not Just Healthcare",
+      "excerpt": "Pamela Spence, EY Global Health Sciences and Wellness Industry Leader. Technological innovation has pushed the consumer experience forward in banking, retail, entertainment and hospitality (among other industries) but has not yet broken through with health interactions.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/06/01/innovate-toward-health-experience-not-just-healthcare/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/06/01/innovate-toward-health-experience-not-just-healthcare/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60b0f516da9fc3e34e99c61f%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/06/01/innovate-toward-health-experience-not-just-healthcare/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/06/01/innovate-toward-health-experience-not-just-healthcare/amp/",
+      "publishedDateTime": "2021-06-01T04:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-01-these-are-the-10-most-in-demand-ai-jobs-according-to-indeedand-they-all-pay-at-least-95000.md",
       "title": "These are the 10 most in-demand AI jobs according to Indeed—and they all pay at least $95,000",
       "excerpt": "But, one industry that has remained in high demand despite the pandemic is artificial intelligence, with hiring growth for these jobs increasing by 32% since 2019, according to LinkedIn. “AI covers a vast range of use cases,",
@@ -944,186 +1143,6 @@
       ],
       "topics": [
         "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-31-visa-v-expands-reach-of-fintech-partner-connect-program.md",
-      "title": "Visa (V) Expands Reach of Fintech Partner Connect Program",
-      "excerpt": "Visa Inc. V extended its program, Visa Fintech Partner Connect, which was first unveiled across Europe in November 2020. This time around, the program can be availed by Visa clients in the Asia Pacific,",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/visa-v-expands-reach-of-fintech-partner-connect-program-2021-05-31",
-      "originalUrl": "https://www.nasdaq.com/articles/visa-v-expands-reach-of-fintech-partner-connect-program-2021-05-31",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 134,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/visa-v-expands-reach-of-fintech-partner-connect-program-2021-05-31?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/visa-v-expands-reach-of-fintech-partner-connect-program-2021-05-31?amp",
-      "publishedDateTime": "2021-05-31T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-31-asapp-releases-dataset-to-help-develop-better-customer-service-ai.md",
-      "title": "Asapp releases dataset to help develop better customer service AI",
-      "excerpt": "Asapp, a research-driven customer experience company, released a dataset designed to help train automated call center systems.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/05/31/asapp-releases-dataset-to-help-develop-better-customer-service-ai/",
-      "originalUrl": "https://venturebeat.com/2021/05/31/asapp-releases-dataset-to-help-develop-better-customer-service-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2016/09/call-center-e1580239807390.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/05/31/asapp-releases-dataset-to-help-develop-better-customer-service-ai/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/31/asapp-releases-dataset-to-help-develop-better-customer-service-ai/amp/",
-      "publishedDateTime": "2021-05-31T06:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-31-engineers-use-ai-to-create-a-robot-that-can-smile-back.md",
-      "title": "Engineers use AI to create a robot that can smile back",
-      "excerpt": "At some point in the future, engineers foresee a time when robots are a normal part of everyday life, providing care for children and the elderly and providing labor. For humans, facial",
-      "sourceUrl": null,
-      "webUrl": "https://www.slashgear.com/engineers-use-ai-to-create-a-robot-that-can-smile-back-31675237/",
-      "originalUrl": "https://www.slashgear.com/engineers-use-ai-to-create-a-robot-that-can-smile-back-31675237/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.slashgear.com/wp-content/uploads/2021/05/eva-robot.jpg",
-          "width": 1280,
-          "height": 608,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.slashgear.com/engineers-use-ai-to-create-a-robot-that-can-smile-back-31675237/amp/",
-      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/engineers-use-ai-to-create-a-robot-that-can-smile-back-31675237/amp/",
-      "publishedDateTime": "2021-05-31T06:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SlashGear",
-        "domain": "slashgear.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/slashgear.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-05-31-waymo-may-be-disrupted-by-its-inability-to-scale.md",
-      "title": "Waymo May Be Disrupted By Its Inability To Scale",
-      "excerpt": "Much of the attention among the public goes to the performance and reliability of companies’ autonomous driving technology. However, an equally important issue is global scalability.",
-      "sourceUrl": null,
-      "webUrl": "https://seekingalpha.com/article/4432226-waymo-may-be-disrupted-by-its-inability-to-scale",
-      "originalUrl": "https://seekingalpha.com/article/4432226-waymo-may-be-disrupted-by-its-inability-to-scale",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1213118320/medium_image_1213118320.jpg",
-          "width": 768,
-          "height": 432,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://seekingalpha.com/amp/article/4432226-waymo-may-be-disrupted-by-its-inability-to-scale",
-      "cdnAmpWebUrl": "https://seekingalpha-com.cdn.ampproject.org/c/s/seekingalpha.com/amp/article/4432226-waymo-may-be-disrupted-by-its-inability-to-scale",
-      "publishedDateTime": "2021-05-31T05:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Seeking Alpha",
-        "domain": "seekingalpha.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }
