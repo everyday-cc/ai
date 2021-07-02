@@ -181,12 +181,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://everyday.cc/ai/people/clement-farabet/</loc>
-    <lastmod>2021-06-28T00:00:00-07:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://everyday.cc/ai/people/daniele-bonacorsi/</loc>
     <lastmod>2021-06-28T00:00:00-07:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -446,6 +440,12 @@
   </url>
   <url>
     <loc>https://everyday.cc/ai/people/noramay-cadena/</loc>
+    <lastmod>2021-06-28T00:00:00-07:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://everyday.cc/ai/people/clement-farabet/</loc>
     <lastmod>2021-06-28T00:00:00-07:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1</priority>
