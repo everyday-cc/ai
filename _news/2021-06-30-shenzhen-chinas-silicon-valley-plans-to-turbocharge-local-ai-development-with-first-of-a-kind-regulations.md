@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.scmp.com/tech/policy/article/3139319/shenzhen-chinas-sil
 cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/policy/article/3139319/shenzhen-chinas-silicon-valley-plans-turbocharge-local-ai-development"
 type: article
 quality: 70
-heat: 90
+heat: 91
 published: true
 
 provider:

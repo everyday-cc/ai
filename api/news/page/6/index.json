@@ -2,6 +2,49 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2021-06-27-lendbuzz-raises-60m-using-ai-to-finance-car-loans.md",
+      "title": "Lendbuzz raises $60M using AI to finance car loans",
+      "excerpt": "Lendbuzz, which was founded by Israeli entrepreneurs in Boston and recently opened an R&D center in Israel, scores $60M in equity and another $300M in debt",
+      "sourceUrl": null,
+      "webUrl": "https://www.geektime.com/lendbuzz-raises-60m-in-equity-and-300-in-debt-financing/",
+      "originalUrl": "https://www.geektime.com/lendbuzz-raises-60m-in-equity-and-300-in-debt-financing/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.geektime.com/content/images/2021/06/Lendbuzz-company-picture-1624437960-2048x1365.jpeg",
+          "width": 2000,
+          "height": 1333,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.geektime.com/lendbuzz-raises-60m-in-equity-and-300-in-debt-financing/amp/",
+      "cdnAmpWebUrl": "https://www-geektime-com.cdn.ampproject.org/c/s/www.geektime.com/lendbuzz-raises-60m-in-equity-and-300-in-debt-financing/amp/",
+      "publishedDateTime": "2021-06-27T07:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Geektime",
+        "domain": "geektime.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-27-medical-ai-confronts-pesky-problem-people.md",
       "title": "Medical AI Confronts Pesky Problem: People",
       "excerpt": "A statistical measure called “area under the curve” told Mayo Clinic researchers their new artificial intelligence (AI) tool was terrific. Then their doctors threw them a curve ball.",
@@ -1164,58 +1207,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-25-tesla-full-self-driving-v9-beta-update-slips-to-next-week-monthly-subscription-model-follows.md",
-      "title": "Tesla Full Self-Driving v9 beta update slips to next week, monthly subscription model follows",
-      "excerpt": "Elon Musk is again updating the timeline for Tesla’s new Full Self-Driving v9 beta update, which is apparently now slipping to next week. Tesla’s new FSD subscription model should follow at the same time.",
-      "sourceUrl": null,
-      "webUrl": "https://electrek.co/2021/06/25/tesla-full-self-driving-v9-beta-update-slips-to-next-week-monthly-subscription-model-follows/",
-      "originalUrl": "https://electrek.co/2021/06/25/tesla-full-self-driving-v9-beta-update-slips-to-next-week-monthly-subscription-model-follows/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 108,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2020/10/Tesla-FSD-update.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://electrek.co/2021/06/25/tesla-full-self-driving-v9-beta-update-slips-to-next-week-monthly-subscription-model-follows/amp/",
-      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/06/25/tesla-full-self-driving-v9-beta-update-slips-to-next-week-monthly-subscription-model-follows/amp/",
-      "publishedDateTime": "2021-06-25T08:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Electrek",
-        "domain": "electrek.co",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

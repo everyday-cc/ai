@@ -108,18 +108,18 @@ related:
         height: 542
         isCached: true
   - title: "Maine law restricts facial recognition technology statewide"
-    excerpt: "A bill touted as the country's strictest statewide regulation on the use of facial recognition technology has become law in Maine. While several states regulate facial recognition as a surveillance tool,"
-    publishedDateTime: 2021-06-30T21:42:00Z
-    webUrl: "https://apnews.com/cbf6207f15d13b8e647615e251157774"
+    excerpt: "A bill touted as the country’s strictest statewide regulation on the use of facial recognition technology has become law in Maine."
+    publishedDateTime: 2021-07-01T13:17:00Z
+    webUrl: "https://www.wcax.com/2021/07/01/maine-law-restricts-facial-recognition-technology-statewide/"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
+      name: WCAX3
+      domain: wcax.com
     quality: 54
     images:
-      - url: "https://apnews.com/images/ShareLogo2.png"
-        width: 700
-        height: 450
+      - url: "https://gray-wcax-prod.cdn.arcpublishing.com/resizer/AWeLMGPHr6yaSWSXbK82THzF4jk=/980x0/smart/filters:quality(85)/cloudfront-us-east-1.images.arcpublishing.com/gray/UM3WYS76ARJUZFZLRWELC7PKPM.jpg"
+        width: 980
+        height: 551
         isCached: true
   - title: "Maine Sets Example With 'Country's Strongest' Facial Recognition Ban"
     excerpt: "Civil liberties advocates on Wednesday cheered as Maine enacted what that state's ACLU chapter called \"the country's strongest statewide facial recognition law.\" \"I hope that Maine can provide an example to other states that want to rein in the government's ability to use facial recognition and other invasive biometric technologies."
@@ -223,6 +223,6 @@ related:
         height: 803
         isCached: true
 
-secured: "695ByoUwoD8cz3WIx9LB0PzGIWRELSi+yZwOVdz/ckJlP+npw/Fg2qhbENLw3Y/WB3OK7OtkSS+CtpY6DuAiPIwttWsFP41CTwp8fGjofVvRWayqVYI6guLut/Fb+735ZGqV0XwLE7KYS2vv9ZkRUP9HlaIwqinuVDN873pUM/NyzRN7twjeHOLvUsvooQtUDRCOMMcXceIYtXerZBev5Sh7ZtzIESbuOYJRIOSDDsNK8c/O0H4ufP6QwFjppkboAfdwq+rK1VfXzG6OChAdmnTwlO7W9pMcU5LjMPFGbuzO35r96f8M8cbj2zNCbxAP6BR3xy0u9UfnKKHiVzyM8dXGg1B8LNwuXDSTZacEidw=;K95gZxmfKFFpJ8TQ3o1a4Q=="
+secured: "oDQbXbXDaY1hblGqg49qpM65QrElEQK29gcU0CyGVXIk7JDtRvpx/SLyeq42K6psTzOMxnVtCPuBaqIGBNXGaECym5LXlxuVelVCu4sauRwT5vxGxgp9RdnooatJULKn3l8mzzUVmtUmk6uonvuRDc6ZhH193sgwJ2B33dE/uXIFLd9rP8HZCApnPEQNmkfv/TpTZnNSIGQ9Hsnw6ik+Zk2bJ+2E/BU6InTchyWw+lulkkFFR1BO2KU+oR7tSCt8ZxAPmfE4uI1OGlGa+SD4pTUx5mxAFfESfGz0A6koX6QcxJGjAsk0M31zvOWXbDLR21Yv9Q94852TPRkyGic3JX0urU9yrCGzOBXmSdVN+tvt/x9/dO2NDURFbQ9HOAAStsAXlSO4d7Ag604XEFWU55KYx7OS2qbdta+2Vi9diT3zSx28Yd6+wFbJXadEOdcA2MzYxjFV9U41Ibr4dqK8qnFD3zlNieTuevSdwMU7zWzQv/1Uw/AZ2Bnb1T10Un8w6wXA6fVmMLouYMs4J4eJTA==;1SukbkpVQzYH6JN9e6mN4g=="
 ---
 

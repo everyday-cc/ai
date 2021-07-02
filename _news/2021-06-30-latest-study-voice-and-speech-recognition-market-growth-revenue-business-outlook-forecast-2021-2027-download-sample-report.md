@@ -64,6 +64,20 @@ related:
       name: ReportsnReports
       domain: reportsnreports.com
     quality: 12
+  - title: "Global Natural Language Processing in BFSI Market 2021 In-Depth Analysis, Data Synthesis, Growth Objectives and Forecast to 2026"
+    excerpt: "MRInsightsbiz has published a new report titled Global Natural Language Processing in BFSI Market Growth Status and Outlook 2021-2026"
+    publishedDateTime: 2021-06-29T04:03:00Z
+    webUrl: "https://www.bignewsnetwork.com/news/270095346/global-natural-language-processing-in-bfsi-market-2021-in-depth-analysis-data-synthesis-growth-objectives-and-forecast-to-2026"
+    type: article
+    provider:
+      name: Big News Network.com
+      domain: bignewsnetwork.com
+    quality: 10
+    images:
+      - url: "https://cdn.bignewsnetwork.com/cus1624945336116.jpg"
+        width: 630
+        height: 420
+        isCached: true
   - title: "Global Artificial Intelligence For IT Operations Platform Market Size, Status and Forecast 2021-2027"
     excerpt: "Pages Report] Check for Discount on Global Artificial Intelligence For IT Operations Platform Market Size, Status and Forecast 2021-2027 report by QYResearch Group. Market Analysis and Insights: Global Artificial Intelligence For IT"
     publishedDateTime: 2021-06-30T07:49:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.motortrend.com/news/heineken-bot-beer-robot-cooler/amp/"
 cdnAmpWebUrl: "https://www-motortrend-com.cdn.ampproject.org/c/s/www.motortrend.com/news/heineken-bot-beer-robot-cooler/amp/"
 type: article
 quality: 61
-heat: 71
+heat: 72
 published: true
 
 provider:

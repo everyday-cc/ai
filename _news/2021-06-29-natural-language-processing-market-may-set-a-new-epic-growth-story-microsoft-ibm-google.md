@@ -9,7 +9,7 @@ ampWebUrl: "https://www.openpr.com/amp/2316846/natural-language-processing-marke
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2316846/natural-language-processing-market-may-set-a-new-epic-growth"
 type: article
 quality: 66
-heat: 116
+heat: 126
 published: true
 
 provider:
@@ -55,6 +55,15 @@ related:
       name: The Sentinel
       domain: ksusentinel.com
     quality: 16
+  - title: "AI Governance Market Growing Popularity & Emerging Trends | IBM Corporation, Google, Microsoft, Facebook, SAP SE"
+    excerpt: "Global AI governance market is growing at a healthy CAGR of 33.7% during the forecast period of 2019 to 2026. The upcoming market report contains data for historic years 2017, the base year of calculation is 2018 and the forecast period is 2019 to 2026."
+    publishedDateTime: 2021-06-29T11:44:00Z
+    webUrl: "https://manometcurrent.com/ai-governance-market-growing-popularity-emerging-trends-ibm-corporation-google-microsoft-facebook-sap-se/"
+    type: article
+    provider:
+      name: manometcurrent.com
+      domain: manometcurrent.com
+    quality: 15
   - title: "Artificial Intelligence in IoT Market Size and Growth 2021-2028 | Top Leading Players – IBM, Microsoft, Google, PTC, AWS, Oracle, GE, Salesforce"
     excerpt: "The report titled Artificial Intelligence in IoT Market is a comprehensive document containing valuable insights into market elements such as drivers, restraints, competitive landscape, and technology development."
     publishedDateTime: 2021-06-30T06:03:00Z

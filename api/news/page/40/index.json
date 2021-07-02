@@ -2,6 +2,49 @@
   "page": 40,
   "value": [
     {
+      "path": "_news/2021-06-02-ai-prompts-a-scramble-for-healthcare-data.md",
+      "title": "AI prompts a scramble for healthcare data",
+      "excerpt": "Covid-19 has opened the eyes of the healthcare world to the promise of artificial intelligence. Two years ago, AI applications were largely seen as demonstration projects and start-up dreams. There were “nice to have” experiments in triaging mammograms,",
+      "sourceUrl": null,
+      "webUrl": "https://www.ft.com/content/376a5494-7237-4ed6-a528-5e45712c148d",
+      "originalUrl": "https://www.ft.com/content/376a5494-7237-4ed6-a528-5e45712c148d",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fce9e9331-316e-4c4c-a6a1-a1d8f77ec840.jpg?source=google-amp&fit=scale-down&width=500",
+          "width": 500,
+          "height": 281,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.ft.com/content/376a5494-7237-4ed6-a528-5e45712c148d",
+      "cdnAmpWebUrl": "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/376a5494-7237-4ed6-a528-5e45712c148d",
+      "publishedDateTime": "2021-06-01T21:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Financial Times",
+        "domain": "ft.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2021-06-02-texas-proving-grounds-to-test-ai-in-the-real-world.md",
       "title": "Texas proving grounds to test AI in the real world",
       "excerpt": "AI is making its way into the physical world. How do you make sure nothing goes horribly wrong? How do you test out how AI will interact with physical systems in a real-world environment? If you're SparkCognition,",
@@ -1112,60 +1155,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-01-what-artificial-intelligence-still-cant-do.md",
-      "title": "What Artificial Intelligence Still Can’t Do",
-      "excerpt": "Modern artificial intelligence is capable of wonders. It can produce breathtaking original content: poetry, prose, images, music, human faces. It can diagnose some medical conditions more accurately than a human physician.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/robtoews/2021/06/01/what-artificial-intelligence-still-cant-do/",
-      "originalUrl": "https://www.forbes.com/sites/robtoews/2021/06/01/what-artificial-intelligence-still-cant-do/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 113,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60b52de2a5dc9f37974c9ae8%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D600%26cropY1%3D0%26cropY2%3D337",
-          "width": 600,
-          "height": 337,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/robtoews/2021/06/01/what-artificial-intelligence-still-cant-do/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/robtoews/2021/06/01/what-artificial-intelligence-still-cant-do/amp/",
-      "publishedDateTime": "2021-06-01T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "AI in Robotics",
-        "Natural Language Processing"
       ]
     }
   ],

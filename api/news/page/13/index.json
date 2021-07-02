@@ -2,6 +2,50 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2021-06-22-customer-success-story-cloud-data-architecture-establishes-readiness-for-advanced-analytics-and-aiml-applications-at-terracon.md",
+      "title": "Customer success story: Cloud data architecture establishes readiness for advanced analytics and AI/ML applications at Terracon",
+      "excerpt": "Computerworld covers a range of technology topics, with a focus on these core areas of IT: Windows, Mobile, Apple/enterprise, Office and productivity suites, collaboration, web browsers and blockchain,",
+      "sourceUrl": null,
+      "webUrl": "https://www.computerworld.com/resources/220420/customer-success-story-cloud-data-architecture-establishes-readiness-for-advanced-analytics-and-ai-m",
+      "originalUrl": "https://www.computerworld.com/resources/220420/customer-success-story-cloud-data-architecture-establishes-readiness-for-advanced-analytics-and-ai-m",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://idge.staticworld.net/ctw/computerworld-logo300x300.png",
+          "width": 300,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-21T14:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Computerworld",
+        "domain": "computerworld.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-06-22-elon-musk-tesla-will-hold-ai-day-to-show-progress-and-recruit-talent.md",
       "title": "Elon Musk: Tesla will hold ‘AI Day’ to show progress and recruit talent",
       "excerpt": "Elon Musk announced that Tesla will hold an ‘AI Day’ in about a month to show its progress in software and hardware related to artificial intelligence. However, the main goal is to recruit talent. Over the last few years,",
@@ -1091,57 +1135,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-21-home-fitness-and-wellness-startup-portl-raises-seed-funding-from-kalaari-capital.md",
-      "title": "Home Fitness And Wellness Startup Portl Raises Seed Funding From Kalaari Capital",
-      "excerpt": "The funds raised will be utilized to grow the team across hardware, engineering and AI domains and expand the sales and marketing efforts for the Portl range of products in India",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/article/375124",
-      "originalUrl": "https://www.entrepreneur.com/article/375124",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/1624267060-L-RIndraneelGuptaandVishalChandapeta.jpg?width=600&crop=16:9",
-          "width": 600,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.entrepreneur.com/amphtml/375124",
-      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/375124",
-      "publishedDateTime": "2021-06-21T02:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

@@ -1,22 +1,28 @@
 ---
 category: news
 title: "Microsoft, SES and GRC Showcase Azure Cloud for Remote Missions via Secure GovSat Connectivity Service"
-excerpt: "Microsoft and SES, in partnership with GovSat and UK-based solutions provider GRC, came together to demonstrate how Microsoft Azure Machine Learning ("
-publishedDateTime: 2021-06-30T06:50:00Z
-originalUrl: "https://www.businesswire.com/news/home/20210629006127/en/Microsoft-SES-and-GRC-Showcase-Azure-Cloud-for-Remote-Missions-via-Secure-GovSat-Connectivity-Service"
-webUrl: "https://www.businesswire.com/news/home/20210629006127/en/Microsoft-SES-and-GRC-Showcase-Azure-Cloud-for-Remote-Missions-via-Secure-GovSat-Connectivity-Service"
+excerpt: "Microsoft and SES, in partnership with GovSat and UK-based solutions provider GRC, came together to demonstrate how Microsoft Azure Machine Learning (ML) and Artificial Intelligence (AI) capabilities can be brought directly to end-users deployed globally in a highly secure,"
+publishedDateTime: 2021-06-30T06:52:00Z
+originalUrl: "https://www.wfmz.com/news/ap/ap-business/microsoft-ses-and-grc-showcase-azure-cloud-for-remote-missions-via-secure-govsat-connectivity-service/article_db998d49-9d16-54d2-9633-de848f32efb8.html"
+webUrl: "https://www.wfmz.com/news/ap/ap-business/microsoft-ses-and-grc-showcase-azure-cloud-for-remote-missions-via-secure-govsat-connectivity-service/article_db998d49-9d16-54d2-9633-de848f32efb8.html"
 type: article
-quality: 18
+quality: 38
 heat: -1
 published: false
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - Microsoft AI
   - AI
+
+images:
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/4/ed/4ed1008e-2061-5d2f-bb22-a3c4d1af6c76/60dc170701474.image.jpg?resize=945%2C630"
+    width: 945
+    height: 630
+    isCached: true
 
 related:
   - title: "Microsoft launches Azure Arc-enabled SQL in general availability"
@@ -34,6 +40,22 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2020/12/microsoft-azure.png?w=1200&strip=all"
         width: 1200
         height: 600
+        isCached: true
+  - title: "Learning From Microsoft’s Imagine Cup Youth 2021"
+    excerpt: "The winners are amazingly creative students aged 13 to 18 (Gen Z—born 1997 to 2012) driving digital reshaping."
+    publishedDateTime: 2021-06-28T21:58:00Z
+    webUrl: "https://www.forbes.com/sites/stephenibaraki/2021/06/28/learning-from-microsofts-imagine-cup-youth-2021/"
+    ampWebUrl: "https://www.forbes.com/sites/stephenibaraki/2021/06/28/learning-from-microsofts-imagine-cup-youth-2021/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stephenibaraki/2021/06/28/learning-from-microsofts-imagine-cup-youth-2021/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 91
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60da43cf6b35cc5b8c6c2abd%2F0x0.jpg"
+        width: 1200
+        height: 801
         isCached: true
   - title: "AT&T (T) to Move 5G Mobile Network to Microsoft Azure"
     excerpt: "AT&T Inc. T has announced collaboration with Microsoft MSFT under which the telecom giant will move its 5G mobile network to the latter’s cloud. This will allow AT&T’s mobile network traffic to be managed by Microsoft Azure technology."
@@ -101,6 +123,20 @@ related:
       - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
         width: 580
         height: 339
+        isCached: true
+  - title: "AT&T hands 5G core to Microsoft Azure"
+    excerpt: "Microsoft is acquiring AT&T’s Network Cloud business as part of a new deal that will see Azure handle all of AT&T’s 5G traffic"
+    publishedDateTime: 2021-07-01T12:38:00Z
+    webUrl: "https://www.totaltele.com/510166/ATT-hands-5G-core-to-Microsoft-Azure"
+    type: article
+    provider:
+      name: Total Telecom
+      domain: totaltele.com
+    quality: 54
+    images:
+      - url: "https://www.totaltele.com/res/image/tech%20stuff/at&t.jpg"
+        width: 467
+        height: 467
         isCached: true
   - title: "AT&T to Run Mobility Network on Microsoft’s Azure for Operators"
     excerpt: "AT&T will move its 5G mobile network to the Microsoft cloud. The strategic alliance provides a path for all of AT&T’s mobile network traffic to be managed using Microsoft Azure technologies. The companies will start with AT&T’s 5G core,"
@@ -209,6 +245,6 @@ related:
       domain: ksusentinel.com
     quality: 13
 
-secured: "HJbv/6Z1inENz66fNnRWhLjgeho9yPGeQQNsGEKl8guvWi5vrX8ozz43H4nZ3kkk9xGqwA33o8Ainl7/93lDKUmkcpCKpJva00U9IxrIwfPjWYUTfjm/9BPHPGCfHCG+YAL6/vkRtD3sLyY1DcLFIoXraEcH5fXXA1ZDhIH29uHxVOZfq6LcGyLI55AF6LYEw8mqwGd1BolcyvUmV6VkAIOecTLW1azOGvHanFYI3o2S4gK+aublSqNsyxG+ZF412nACsLI/8Abar/7Ac+vr64Vb2+H5wESxLPbsl66zv7K9aLcIxw9RzfIN8LKpcuqka+8zsmO52zHTwL8avFXNEQea1hoAzEyBCocWmeoc6HAWvqtz7SayX+Gg6JLxWp/3vl6qPrySzPDBYsRyY7qftXEXoe5CHH/mBWDPqUQEd8vouCzy/T0/R+KsyQjBCRYnJtasG/UIHhYCoVLo+4J4LXoIIPGSFhMRYAqR39lyJbqURtGQxaD2LfCa9p0ufdSaMAUhTCfMJkvAXitwd61DJQ==;35wu/bBB2Ssy6oSXhrcz2Q=="
+secured: "cKjwN6iczFJA/iRZST17P3s+Pc9UY6sRFv6WGTrFHXPLjeqsgs4R//MNRG+RP5TX+7qN/LzRyvXR28pU8k+PJkdahd8qVOXu4Q/SLopcrlWg/SKHcDGc66+igIqhVIZzpgDyZdSf4b8rNSwGV4l5HBjlUUsetYhZnBiVZDbHbh3SESeyFJOYq8Xhyii5bD3kkyvTUfLv/A6Uz8c2PPdWJaJJcl95oyvckNhfgo85tV/+Zftj8cibuicZNiBZuIWohW36ILK2lU8i2nEktJiPul5lxonavfbVlZxkEctSu59l6yPvDZlWNtA5jzf3PwKPp+TL68F7XkyPZP8qux+0yeY0cOe9I+z2cOuxCn9gd8w=;zIB0TXX844bib+emBPrxxQ=="
 ---
 

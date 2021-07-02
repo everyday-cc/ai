@@ -46,6 +46,49 @@
       ]
     },
     {
+      "path": "_news/2021-07-01-att-takes-a-giant-5g-leap-to-the-public-cloud-with-azure.md",
+      "title": "AT&T takes a giant 5G leap to the public cloud with Azure",
+      "excerpt": "Giant US operator is handing its 5G core to Microsoft AzureThe public cloud player adopts AT&T’s Network Cloud and tech staffAzure will then further develop",
+      "sourceUrl": null,
+      "webUrl": "https://www.telecomtv.com/content/cloud-native/at-t-takes-a-giant-5g-leap-to-the-public-cloud-with-azure-41867/",
+      "originalUrl": "https://www.telecomtv.com/content/cloud-native/at-t-takes-a-giant-5g-leap-to-the-public-cloud-with-azure-41867/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.telecomtv.com/assets/telecomtv/at-t-microsoft-azure-12193.jpeg?w=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.telecomtv.com/content/cloud-native/at-t-takes-a-giant-5g-leap-to-the-public-cloud-with-azure-41867/amp/",
+      "cdnAmpWebUrl": "https://www-telecomtv-com.cdn.ampproject.org/c/s/www.telecomtv.com/content/cloud-native/at-t-takes-a-giant-5g-leap-to-the-public-cloud-with-azure-41867/amp/",
+      "publishedDateTime": "2021-07-01T07:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TelecomTV",
+        "domain": "telecomtv.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-01-microsoft-power-platform-and-low-codeno-code-development-getting-the-most-out-of-fusion-teams.md",
       "title": "Microsoft Power Platform and low code/no code development: Getting the most out of Fusion Teams",
       "excerpt": "Microsoft is starting to define a development philosophy for its Power Platform, and delivering the tools needed to back it up.",
@@ -157,7 +200,7 @@
       "originalUrl": "https://www.openpr.com/news/2316846/natural-language-processing-market-may-set-a-new-epic-growth",
       "featuredContent": null,
       "highlight": null,
-      "heat": 116,
+      "heat": 126,
       "tags": null,
       "images": [
         {
@@ -201,7 +244,7 @@
       "originalUrl": "https://venturebeat.com/2021/06/29/microsoft-launches-azure-arc-enabled-sql-in-general-availability/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 269,
+      "heat": 289,
       "tags": null,
       "images": [
         {
@@ -1364,41 +1407,6 @@
       "topics": [
         "Microsoft AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-18-ibm-focuses-on-ai-cloud-completes-turbonomic-acquisition.md",
-      "title": "IBM Focuses on AI & Cloud, Completes Turbonomic Acquisition",
-      "excerpt": "International Business Machines Corporation IBM recently announced the completion of its acquisition of Turbonomic to boost management of applications’ performance across hybrid cloud environment and enhance its Artificial Intelligence (AI) -based automation capabilities.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/ibm-focuses-on-ai-cloud-completes-turbonomic-acquisition-2021-06-18",
-      "originalUrl": "https://www.nasdaq.com/articles/ibm-focuses-on-ai-cloud-completes-turbonomic-acquisition-2021-06-18",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/ibm-focuses-on-ai-cloud-completes-turbonomic-acquisition-2021-06-18?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/ibm-focuses-on-ai-cloud-completes-turbonomic-acquisition-2021-06-18?amp",
-      "publishedDateTime": "2021-06-18T08:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

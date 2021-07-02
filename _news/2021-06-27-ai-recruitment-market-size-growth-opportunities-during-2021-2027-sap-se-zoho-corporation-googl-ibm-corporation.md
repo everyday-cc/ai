@@ -49,6 +49,20 @@ related:
       name: ReportsnReports
       domain: reportsnreports.com
     quality: 12
+  - title: "Global Natural Language Processing in BFSI Market 2021 In-Depth Analysis, Data Synthesis, Growth Objectives and Forecast to 2026"
+    excerpt: "MRInsightsbiz has published a new report titled Global Natural Language Processing in BFSI Market Growth Status and Outlook 2021-2026"
+    publishedDateTime: 2021-06-29T04:03:00Z
+    webUrl: "https://www.bignewsnetwork.com/news/270095346/global-natural-language-processing-in-bfsi-market-2021-in-depth-analysis-data-synthesis-growth-objectives-and-forecast-to-2026"
+    type: article
+    provider:
+      name: Big News Network.com
+      domain: bignewsnetwork.com
+    quality: 10
+    images:
+      - url: "https://cdn.bignewsnetwork.com/cus1624945336116.jpg"
+        width: 630
+        height: 420
+        isCached: true
   - title: "Latest Study: Voice And Speech Recognition Market: Growth, Revenue, Business Outlook & Forecast 2021-2027 | Download Sample Report"
     excerpt: "Voice And Speech Recognition Industry is going to play an increasingly important role in the coming years, Market Predicts High CAGR between 2020 and 2027. Breaking down the global trend Voice And Speech Recognition Market currently leading in Europe,"
     publishedDateTime: 2021-06-30T12:13:00Z

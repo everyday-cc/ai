@@ -41,6 +41,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "AT&T-Azure 5G Deal: ‘End of the Service Provider World as We Know It?’"
+    excerpt: "Observers of Microsoft Azure's acquisition of the AT&T Network Cloud platform and team wonder if hyperscalers will soon own the service provider market."
+    publishedDateTime: 2021-07-01T23:51:00Z
+    webUrl: "https://www.channelfutures.com/mobility-wireless/att-azure-5g-deal-end-of-the-service-provider-world-as-we-know-it"
+    type: article
+    provider:
+      name: channelfutures
+      domain: channelfutures.com
+    quality: 39
+    images:
+      - url: "https://www.channelfutures.com/files/2021/06/3-Cloud-Crystal-Ball-1.jpg"
+        width: 1000
+        height: 667
+        isCached: true
 
 secured: "tDMsw62u+JuivTYQYw4mXdk9JAismbHh8RiH80NGpcOGQGbk0Z9Y28PgAseWqcIbfhAjbntXcUrqjjGZi8E5ivjEy8NUuu+YR4XmyFtgHEsT786yEQQCKZTecnkf8kQCKCN6yiekyevUDTcqYzDKAJZ8p8duW+fBtwDUM0+sc8ify8zC6M1TGbEio9tcJ2YJi7KV4thXiaoeEIuA8cVhuwfu4ux0GV3kvbGl4CuzTu0zEd9IQiEigjpcgRwpTi9lNx43DX9+JBd01XzJlXgJ/W0a7C12T0WdP0SLLN9TwuWYekWIvy7XSDK8v9pI8wCytjZvHdJZYr1WSFQSi7vxbj3NkrNC0ebOIWenj7yGDL1U4QB8YBB2OZOS6DzRfuluNt8kKlIWx1NFnHZT4sk3soQNyBL49F80BtYyZyChm0CD16RS6Qzm3TP/ds6GGs2WvC6Lq4uln+dxfWjp+LFt2nLnkFp2bTtxIHF7u6MYJ91ia1pgLkpscTXf5U6kYl07lGv8AVSMEHuSFV9KzXQUhQ==;oJPjF/pxxFg4URCksGG6iw=="
 ---

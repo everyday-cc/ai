@@ -2,6 +2,49 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-06-29-federal-judge-dismisses-ftc-antitrust-complaint-against-facebook.md",
+      "title": "Federal Judge Dismisses FTC Antitrust Complaint Against Facebook",
+      "excerpt": "A federal court on Monday (June 28) dismissed a Federal Trade Commission (FTC) antitrust complaint against Facebook.",
+      "sourceUrl": null,
+      "webUrl": "https://www.pymnts.com/legal/2021/federal-judge-dismisses-ftc-antitrust-complaint-against-facebook/",
+      "originalUrl": "https://www.pymnts.com/legal/2021/federal-judge-dismisses-ftc-antitrust-complaint-against-facebook/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://securecdn.pymnts.com/wp-content/uploads/2021/06/court-FTC-Facebook-complaint-457x274.jpg",
+          "width": 457,
+          "height": 274,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.pymnts.com/legal/2021/federal-judge-dismisses-ftc-antitrust-complaint-against-facebook/amp/",
+      "cdnAmpWebUrl": "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/legal/2021/federal-judge-dismisses-ftc-antitrust-complaint-against-facebook/amp/",
+      "publishedDateTime": "2021-06-28T13:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "pymnts.com",
+        "domain": "pymnts.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-29-machine-learning-market-to-see-major-growth-by-2026-bigml-h2oai-sap.md",
       "title": "Machine Learning Market To See Major Growth By 2026 | BigML, H2O.ai, SAP",
       "excerpt": "Global Machine Learning Market Research Report with Opportunities and Strategies to Boost Growth- COVID-19 Impact and Recovery is latest research study released by HTF MI evaluating the market risk side analysis,",
@@ -705,7 +748,7 @@
       "originalUrl": "https://medicalxpress.com/news/2021-06-ai-vision-cell-biopsy-embryos.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 76,
+      "heat": 73,
       "tags": null,
       "images": [
         {
@@ -1023,7 +1066,7 @@
       "originalUrl": "https://www.tribuneindia.com/news/science-technology/uk-watchdog-raises-alarm-over-live-face-recognition-tech-271870",
       "featuredContent": null,
       "highlight": null,
-      "heat": 74,
+      "heat": 84,
       "tags": null,
       "images": [
         {
@@ -1149,49 +1192,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-27-lendbuzz-raises-60m-using-ai-to-finance-car-loans.md",
-      "title": "Lendbuzz raises $60M using AI to finance car loans",
-      "excerpt": "Lendbuzz, which was founded by Israeli entrepreneurs in Boston and recently opened an R&D center in Israel, scores $60M in equity and another $300M in debt",
-      "sourceUrl": null,
-      "webUrl": "https://www.geektime.com/lendbuzz-raises-60m-in-equity-and-300-in-debt-financing/",
-      "originalUrl": "https://www.geektime.com/lendbuzz-raises-60m-in-equity-and-300-in-debt-financing/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.geektime.com/content/images/2021/06/Lendbuzz-company-picture-1624437960-2048x1365.jpeg",
-          "width": 2000,
-          "height": 1333,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.geektime.com/lendbuzz-raises-60m-in-equity-and-300-in-debt-financing/amp/",
-      "cdnAmpWebUrl": "https://www-geektime-com.cdn.ampproject.org/c/s/www.geektime.com/lendbuzz-raises-60m-in-equity-and-300-in-debt-financing/amp/",
-      "publishedDateTime": "2021-06-27T07:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Geektime",
-        "domain": "geektime.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
         "AI"
       ]
     }

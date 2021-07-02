@@ -2,6 +2,49 @@
   "page": 16,
   "value": [
     {
+      "path": "_news/2021-06-18-baidus-apollo-moon-a-new-robotaxi-model-costs-a-fraction-of-competitors-price.md",
+      "title": "Baidu’s Apollo Moon, a new robotaxi model, costs a fraction of competitors’ price",
+      "excerpt": "Baidu on Thursday unveiled a new robotaxi model, called Apollo Moon, with a manufacturing cost significantly lower than competitors.",
+      "sourceUrl": null,
+      "webUrl": "https://technode.com/2021/06/18/baidus-apollo-moon-a-new-robotaxi-model-costs-a-fraction-of-competitors-price/",
+      "originalUrl": "https://technode.com/2021/06/18/baidus-apollo-moon-a-new-robotaxi-model-costs-a-fraction-of-competitors-price/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://technode.com/wp-content/uploads/2021/06/image001-scaled.jpg",
+          "width": 2560,
+          "height": 1707,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://technode.com/2021/06/18/baidus-apollo-moon-a-new-robotaxi-model-costs-a-fraction-of-competitors-price/",
+      "cdnAmpWebUrl": "https://technode-com.cdn.ampproject.org/c/s/technode.com/2021/06/18/baidus-apollo-moon-a-new-robotaxi-model-costs-a-fraction-of-competitors-price/",
+      "publishedDateTime": "2021-06-18T04:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechNode",
+        "domain": "technode.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-18-the-huge-market-failure-of-ai-and-the-sequence-of-events-that-led-us-to-it-part-2.md",
       "title": "The Huge Market Failure Of AI And The Sequence Of Events That Led Us To It (Part 2)",
       "excerpt": "Here's why the demand for proof of concepts (POCs) took us off the rails, what the core barriers of AI in production are and what we can do to overcome them.",
@@ -854,33 +897,24 @@
     {
       "path": "_news/2021-06-18-ferrari-selects-aws-as-its-official-cloud-provider-to-power-innovation-on-the-road-and-track.md",
       "title": "Ferrari Selects AWS as its Official Cloud Provider to Power Innovation on the Road and Track",
-      "excerpt": "(NASDAQ: AMZN), announced that it has entered into an agreement with Ferrari S.p.A. to become their Official Cloud, Machine Learning, and Artificial Intelligence Provider. Together, the companies will accelerate the pace of innovation across the entire Ferrari organization,",
+      "excerpt": "Ferrari selects AWS as its official cloud provider to power innovation on the road and track, leveraging AWS machine learning, analytics and compute.",
       "sourceUrl": null,
-      "webUrl": "https://www.register-herald.com/region/ferrari-selects-aws-as-its-official-cloud-provider-to-power-innovation-on-the-road-and/article_1abb31cb-4103-5eda-8228-66e20c0ffdc6.html",
-      "originalUrl": "https://www.register-herald.com/region/ferrari-selects-aws-as-its-official-cloud-provider-to-power-innovation-on-the-road-and/article_1abb31cb-4103-5eda-8228-66e20c0ffdc6.html",
+      "webUrl": "https://www.businesswire.com/news/home/20210617005933/en/Ferrari-Selects-AWS-as-its-Official-Cloud-Provider-to-Power-Innovation-on-the-Road-and-Track",
+      "originalUrl": "https://www.businesswire.com/news/home/20210617005933/en/Ferrari-Selects-AWS-as-its-Official-Cloud-Provider-to-Power-Innovation-on-the-Road-and-Track",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.chicago2.vip.townnews.com/register-herald.com/content/tncms/assets/v3/editorial/1/b8/1b8ef32d-d6ee-5053-b6f4-650cd7c41615/60cc41cc125ca.image.jpg?resize=945%2C630",
-          "width": 945,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-17T23:31:00-07:00",
+      "publishedDateTime": "2021-06-17T23:30:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "The Register-Herald",
-        "domain": "register-herald.com",
+        "name": "Business Wire",
+        "domain": "businesswire.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1115,58 +1149,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-18-basic-ethical-questions-of-transparency-and-bias-in-ai-remain-unsolved-experts-say.md",
-      "title": "Basic ethical questions of transparency and bias in AI remain unsolved, experts say",
-      "excerpt": "Big Tech companies are expected to perform a delicate balancing act in advancing AI development, while ensuring the technology’s ethical application.",
-      "sourceUrl": null,
-      "webUrl": "https://www.scmp.com/tech/big-tech/article/3137723/basic-ethical-questions-transparency-and-bias-ai-remain-unsolved",
-      "originalUrl": "https://www.scmp.com/tech/big-tech/article/3137723/basic-ethical-questions-transparency-and-bias-ai-remain-unsolved",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 98,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2021/06/17/c2c9fe55-4125-4bc1-a5b8-117eb2a6fda4_8650bdb4.jpg?itok=7p6UsNJ0&v=1623932989",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.scmp.com/tech/big-tech/article/3137723/basic-ethical-questions-transparency-and-bias-ai-remain-unsolved",
-      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/big-tech/article/3137723/basic-ethical-questions-transparency-and-bias-ai-remain-unsolved",
-      "publishedDateTime": "2021-06-17T16:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "South China Morning Post",
-        "domain": "scmp.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/scmp.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
         "AI"
       ]
     }

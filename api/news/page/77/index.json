@@ -2,6 +2,50 @@
   "page": 77,
   "value": [
     {
+      "path": "_news/2021-05-06-tackling-the-new-frontier-of-fraud-with-machine-learning.md",
+      "title": "Tackling the new frontier of fraud with machine learning",
+      "excerpt": "Register for our latest webinar with Sift on Thursday 24 June 2021 at 15:00 BST as industry experts discuss tackling the new frontier of fraud with machine learning.",
+      "sourceUrl": null,
+      "webUrl": "https://www.finextra.com/eventarticle/2564/tackling-the-new-frontier-of-fraud-with-machine-learning",
+      "originalUrl": "https://www.finextra.com/eventarticle/2564/tackling-the-new-frontier-of-fraud-with-machine-learning",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.finextra.com/finextra-images/top_pics/xl/sift-event.jpg",
+          "width": 480,
+          "height": 270,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-06T01:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Finextra",
+        "domain": "finextra.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-05-06-tesla-apple-supplier-delta-to-pour-7m-in-ai-semiconductor-startup-amid-chip-shortage.md",
       "title": "Tesla, Apple Supplier Delta To Pour $7M In AI Semiconductor Startup Amid Chip Shortage",
       "excerpt": "Tesla Inc (NASDAQ: TSLA) and Apple Inc (NASDAQ: AAPL) power components supplier Delta Electronics is backing Kneron, an artificial intelligence startup that",
@@ -1112,58 +1156,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-05-woolaroo-a-new-tool-for-exploring-indigenous-languages.md",
-      "title": "Woolaroo: a new tool for exploring indigenous languages",
-      "excerpt": "“Our dictionary doesn’t have a word for shoe” my Uncle Allan Lena said, so when kids ask him what to call it in Yugambeh, he’ll say “jinung gulli” - a foot thing.Uncle Allan Lena is a frontline worker in the battle to reteach the Yugambeh Aboriginal language to the children of southeast Queensland, Australia,",
-      "sourceUrl": null,
-      "webUrl": "https://blog.google/outreach-initiatives/arts-culture/woolaroo-new-tool-exploring-indigenous-languages/",
-      "originalUrl": "https://blog.google/outreach-initiatives/arts-culture/woolaroo-new-tool-exploring-indigenous-languages/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 205,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/woolaroo_yugambeh.max-1300x1300.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://blog.google/outreach-initiatives/arts-culture/woolaroo-new-tool-exploring-indigenous-languages/amp/",
-      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/outreach-initiatives/arts-culture/woolaroo-new-tool-exploring-indigenous-languages/amp/",
-      "publishedDateTime": "2021-05-05T13:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Google",
-        "domain": "blog.google",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
       ]
     }
   ],

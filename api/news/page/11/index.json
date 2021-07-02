@@ -2,6 +2,58 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2021-06-23-neural-network-software-market-size-volume-share-demand-growth-business-opportunity-by-2028.md",
+      "title": "Neural Network Software Market Size Volume, Share, Demand growth, Business Opportunity by 2028",
+      "excerpt": "The report covers detailed competitive outlook including the market share and company profiles of the key participants operating in the global market. Key players profiled in the report include the key innovators concentrating mainly on neural network software include Alyuda Research LLC (California,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/neural-network-software-market-size-volume-share-demand-growth-business-opportunity-by-2028-2021-06-22",
+      "originalUrl": "https://www.marketwatch.com/press-release/neural-network-software-market-size-volume-share-demand-growth-business-opportunity-by-2028-2021-06-22",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-22T10:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-23-scaleai-launches-mapping-project-more-on-ponyai-waymo.md",
       "title": "Scale.AI launches Mapping Project; More On Pony.AI & Waymo",
       "excerpt": "Scale has launched a new mapping tool/service offering for not just self-driving cars, but also for delivery companies. Also, Pony AI demonstrates taxi with no human safety driver in China, and Waymo shows Pride.",
@@ -1111,48 +1163,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-22-grand-theft-auto-v-is-now-playable-inside-of-an-ai.md",
-      "title": "Grand Theft Auto V is now playable inside of an AI",
-      "excerpt": "A portion of GTA V has been recreated inside of an AI in a fascinating project involving a neural mind. AI is a term that is often used when talking about video games, but what it usually refers to is a behavioral set of rules that are reacting to the player.",
-      "sourceUrl": null,
-      "webUrl": "https://www.gamesradar.com/grand-theft-auto-v-is-now-playable-inside-of-an-ai/",
-      "originalUrl": "https://www.gamesradar.com/grand-theft-auto-v-is-now-playable-inside-of-an-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/Usdru3W58p6g8NGpxzUfyi-480-80.jpg",
-          "width": 480,
-          "height": 270,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.gamesradar.com/amp/grand-theft-auto-v-is-now-playable-inside-of-an-ai/",
-      "cdnAmpWebUrl": "https://www-gamesradar-com.cdn.ampproject.org/c/s/www.gamesradar.com/amp/grand-theft-auto-v-is-now-playable-inside-of-an-ai/",
-      "publishedDateTime": "2021-06-22T03:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GamesRadar",
-        "domain": "gamesradar.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

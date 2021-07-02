@@ -9,7 +9,7 @@ ampWebUrl: "https://www.buzzfeednews.com/amphtml/carolinehaskins1/gao-facial-rec
 cdnAmpWebUrl: "https://www-buzzfeednews-com.cdn.ampproject.org/c/s/www.buzzfeednews.com/amphtml/carolinehaskins1/gao-facial-recognition-report-clearview-federal-agencies"
 type: article
 quality: 75
-heat: 115
+heat: 116
 published: true
 
 provider:

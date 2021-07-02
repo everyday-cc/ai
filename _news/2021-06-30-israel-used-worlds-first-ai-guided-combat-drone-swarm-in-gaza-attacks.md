@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newscientist.com/article/2282656-israel-used-worlds-firs
 cdnAmpWebUrl: "https://www-newscientist-com.cdn.ampproject.org/c/s/www.newscientist.com/article/2282656-israel-used-worlds-first-ai-guided-combat-drone-swarm-in-gaza-attacks/amp/"
 type: article
 quality: 57
-heat: 87
+heat: 88
 published: true
 
 provider:

@@ -2,9 +2,9 @@
 category: news
 title: "AI at 20: Spielberg’s misunderstood epic remains his darkest movie yet"
 excerpt: "The odd combination of Stanley Kubrick and Steven Spielberg brings a unique quality to this heartbreaking story of a robot in search of love"
-publishedDateTime: 2021-06-29T05:07:00Z
-originalUrl: "https://www.theguardian.com/film/2021/jun/29/ai-20th-anniversary-steven-spielberg"
-webUrl: "https://www.theguardian.com/film/2021/jun/29/ai-20th-anniversary-steven-spielberg"
+publishedDateTime: 2021-06-29T05:31:00Z
+originalUrl: "https://www.theguardian.com/film/2021/jun/29/ai-20th-anniversary-steven-spielberg?utm_medium%EF%BF%BDcebook=&fbclid=IwAR2BS8V8oErB8KmIH0cDXBKYxzUuTiTXJ3H24hh6b8y56S-M-O4i6m58nJI"
+webUrl: "https://www.theguardian.com/film/2021/jun/29/ai-20th-anniversary-steven-spielberg?utm_medium%EF%BF%BDcebook=&fbclid=IwAR2BS8V8oErB8KmIH0cDXBKYxzUuTiTXJ3H24hh6b8y56S-M-O4i6m58nJI"
 ampWebUrl: "https://amp.theguardian.com/film/2021/jun/29/ai-20th-anniversary-steven-spielberg"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/film/2021/jun/29/ai-20th-anniversary-steven-spielberg"
 type: article
@@ -29,6 +29,6 @@ images:
     height: 360
     isCached: true
 
-secured: "nFGwcP08WqIrgF1dJHaOiw8wdIItHNZ8CntpDWmpqqL8b0jGYogW/PmXYHw6fUWVMnrpjEfR1Eynz3OASRXzvl5XkFJa89kci1OiK/DPjXuB6hG/0c5aC8qOKEz+uu5RugeVXnYPNQeJoFtglSrn0+fTOY1Vvi6g5zDsSBTRFwKQWzW4aJfYngM0rYig9ThUjq5LtDJ2lEg3przDrSHDkcl4w6G2TZkIVhzMvkluCmjdRMZdiXDS7+Rlnm8RCkSgA1cEWdb8DPE7wH2VITM9/an7ErVJrW2CQQvKiGSPfr5+Cy9CrLo1iGnhYYTfANkeYz9/sI5tPMT9Y3MAU9Qah11prMp5FkSrIiXIQKeVzGRvSVJ//Bgpb+rRSIftPIC7jwCHL8ZIFfYjsvywXTbxc8NuJxHAzOd311c3jmMvLvNxjbbjfWMD96UxhAeA+PrwnvunKVyf7h0WBE8YLvqC1KBlWh3lP3keuivnscJOvHyd6jv0AGisZIVWSj29601zNoXmOFFfCMIySVllYIp0lQ==;5yosadlFoXQ9yUHTDqZrcA=="
+secured: "WEI0RGwBlUpLQS5g3ghirdP7YIwoe56JOHadm1ciiXuNOpTxoZX1mLrk30M4KpBLbWPVSrfy7bgFTsKr02hA3V/q17Z+/lzEPe8ng047D9h/lmHPMtp4gVeD0ujcUtLL3eWqU5XYNOeGXjHQWIfXx6TNBhQjqh8Om1T/ErWV5ClZFu2SP15pNHe6mMYSaRTUE9NIA0XIkZzVxqHKRgmgATSQjeRAgBD0O+N8+Aer126PD2fgtcKXvm003Gx04gVjZJ29QiW430tASNEKlwRaU+NJBm0VPIMOHdpQ+756mlavdSCjYXiZ35QEkdE65xuXdd5MpDZXtnOoEWeef9s2WUz+LABh3T+ctqHbWmA8YaI=;D0kOv38XP4UkBKo9vBzS8A=="
 ---
 

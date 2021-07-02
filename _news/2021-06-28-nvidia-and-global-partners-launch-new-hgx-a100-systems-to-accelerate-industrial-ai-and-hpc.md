@@ -93,7 +93,7 @@ related:
     provider:
       name: ZDNet
       domain: zdnet.com
-    quality: 88
+    quality: 86
     images:
       - url: "https://www.zdnet.com/a/hub/i/2021/06/30/af021708-3cd7-4136-a6fb-48d2c0bb412c/graphcore-nvidia-comparison-crop-layout-for-twitter.jpg"
         width: 1600

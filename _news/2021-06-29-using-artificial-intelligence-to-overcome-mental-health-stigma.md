@@ -9,7 +9,7 @@ ampWebUrl: "https://medicalxpress.com/news/2021-06-artificial-intelligence-menta
 cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-06-artificial-intelligence-mental-health-stigma.amp"
 type: article
 quality: 57
-heat: 69
+heat: 67
 published: false
 
 provider:

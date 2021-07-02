@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-07-01-inrule-64-worry-about-job-security-while-working-with-ai.md",
+      "title": "InRule: 64% worry about job security while working with AI",
+      "excerpt": "Enterprise decision-makers who work with AI and machine learning are worried about their job security, according to new InRule research.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/06/30/inrule-64-worry-about-job-security-while-working-with-ai/",
+      "originalUrl": "https://venturebeat.com/2021/06/30/inrule-64-worry-about-job-security-while-working-with-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2018/04/human-tech-e1625058641294.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/06/30/inrule-64-worry-about-job-security-while-working-with-ai/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/30/inrule-64-worry-about-job-security-while-working-with-ai/amp/",
+      "publishedDateTime": "2021-06-30T16:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
       "path": "_news/2021-07-01-a-government-watchdog-may-have-missed-clearview-ai-use-by-five-federal-agencies-in-a-new-report.md",
       "title": "A Government Watchdog May Have Missed Clearview AI Use By Five Federal Agencies In A New Report",
       "excerpt": "In a government accountability report about facial recognition, five federal agencies said they didn't use Clearview AI. Data reviewed by BuzzFeed News suggests they should have.",
@@ -10,7 +62,7 @@
       "originalUrl": "https://www.buzzfeednews.com/article/carolinehaskins1/gao-facial-recognition-report-clearview-federal-agencies",
       "featuredContent": null,
       "highlight": null,
-      "heat": 115,
+      "heat": 116,
       "tags": null,
       "images": [
         {
@@ -163,7 +215,7 @@
       "originalUrl": "https://www.motortrend.com/news/heineken-bot-beer-robot-cooler/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 71,
+      "heat": 72,
       "tags": null,
       "images": [
         {
@@ -559,7 +611,7 @@
       "originalUrl": "https://www.forbes.com/sites/lanceeliot/2021/06/30/lip-reading-by-ai-self-driving-cars-is-either-alarming-or-ingenious/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 241,
+      "heat": 242,
       "tags": null,
       "images": [
         {
@@ -767,7 +819,7 @@
       "originalUrl": "https://www.forbes.com/sites/gilpress/2021/06/30/this-ai-just-evolved-from-companion-robot-to-home-based-physician-helper/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 104,
+      "heat": 103,
       "tags": null,
       "images": [
         {
@@ -872,7 +924,7 @@
       "originalUrl": "https://www.newscientist.com/article/2282656-israel-used-worlds-first-ai-guided-combat-drone-swarm-in-gaza-attacks/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 88,
       "tags": null,
       "images": [
         {
@@ -914,7 +966,7 @@
       "originalUrl": "https://www.scmp.com/tech/policy/article/3139319/shenzhen-chinas-silicon-valley-plans-turbocharge-local-ai-development",
       "featuredContent": null,
       "highlight": null,
-      "heat": 90,
+      "heat": 91,
       "tags": null,
       "images": [
         {
@@ -1204,58 +1256,6 @@
       ],
       "topics": [
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-30-voiceitt-app-for-atypical-speech-a-triumph-in-disability-co-design.md",
-      "title": "Voiceitt App For Atypical Speech — A Triumph In Disability Co-Design",
-      "excerpt": "Voiceitt, a new app that can interpret the atypical speech of individuals with communication difficulties, represents a true victory for user-centered co-design. Working alongside disability organizations across the world,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/gusalexiou/2021/06/30/voiceitt-app-for-atypical-speech---a-triumph-in-disability-co-design/",
-      "originalUrl": "https://www.forbes.com/sites/gusalexiou/2021/06/30/voiceitt-app-for-atypical-speech---a-triumph-in-disability-co-design/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60dbdaee2b0833da1c7afcff%2F0x0.jpg",
-          "width": 1086,
-          "height": 1086,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/gusalexiou/2021/06/30/voiceitt-app-for-atypical-speech---a-triumph-in-disability-co-design/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/gusalexiou/2021/06/30/voiceitt-app-for-atypical-speech---a-triumph-in-disability-co-design/amp/",
-      "publishedDateTime": "2021-06-30T00:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
       ]
     }
   ],
