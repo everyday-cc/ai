@@ -41,20 +41,6 @@ related:
         width: 600
         height: 400
         isCached: true
-  - title: "Israel is Using Robots with Machine Guns to Patrol Gaza Border"
-    excerpt: "The Jaguar's role in a border patrol and possibly anti-riot capacity will likely continue to receive scrutiny as public security services across the world explore deploying unmanned systems with offensive capabilities."
-    publishedDateTime: 2021-06-27T23:00:00Z
-    webUrl: "https://nationalinterest.org/blog/buzz/israel-using-robots-machine-guns-patrol-gaza-border-188602"
-    type: article
-    provider:
-      name: The National Interest
-      domain: nationalinterest.org
-    quality: 39
-    images:
-      - url: "https://nationalinterest.org/sites/default/files/main_images/Flickr_-_Israel_Defense_Forces_-_Becoming_A_Soldier_of_the_Caracal_Battalion_%2859%29%20%281%29_0.jpg"
-        width: 1222
-        height: 813
-        isCached: true
 
 secured: "dVNVDZ0C8Rk501n4nzz3wW09nAI2qGGN85KIGKWy9qFOXZZ44oE7lM3GR+FSEToiiYOEBaMXefgnTraq6aOlKdGU/7L6mCFQXFrIx3orPUy6zDYIOtDfI5qTr1v6Uy9ZJf4iMfjSMyuPgO4J4OOBNDxdjn1lkdoK8Hutt1lWeZtum69j0CXiVnUDXAfAdh49ETbMG+yE4kzqujKh6aKZq+uLic0Tx9zvu3VBj+BHCikvUjAMimd7GU+PXWuD+MPAPj5x0UKeydNuqMO9xdYotrKAZgGXnt9hQdqh6xZuxPRw8WM17fU6QA7kq6ocH3BY6tshTR3T/QZ2nsD6dK3OR5p4W6yRnvhaZvEDurhiCBqJjsuEF2PC1ubVAjOJq2t709eJsPQpDdZCAUbflIfXWPTPNqHDq8IMSNK7pOz/6GowtIyErFJiLFK2O8/8jZJXheLhYtQnejJn4J6TSpVU3i53S3++TCGvs/nA6xSTaXP61RAPwb/AOzkUtFyVRKQ289PMZhFtDXGCdQ0WxgUUOA==;tbBZAhyCiDp4pczka9GBPw=="
 ---

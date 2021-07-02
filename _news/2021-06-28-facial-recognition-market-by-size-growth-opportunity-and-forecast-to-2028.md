@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/facial-recognition-marke
 webUrl: "https://www.marketwatch.com/press-release/facial-recognition-market-by-size-growth-opportunity-and-forecast-to-2028-2021-06-28"
 type: article
 quality: 67
-heat: 297
+heat: 307
 published: true
 
 provider:
@@ -93,6 +93,20 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+        isCached: true
+  - title: "States Voice Recognition for Smartphones Market to Witness Huge Growth by 2028 | Apple, Google, Microsoft"
+    excerpt: "The research covers the current & Future market size of the Global States Voice Recognition for Smartphones market & its growth rates based on 8 year history data. It also covers various types of segmentation such as by geography [China, Japan, Korea ..."
+    publishedDateTime: 2021-07-02T14:43:00Z
+    webUrl: "https://ksusentinel.com/2021/07/02/states-voice-recognition-for-smartphones-market-to-witness-huge-growth-by-2028-apple-google-microsoft/"
+    type: article
+    provider:
+      name: The Sentinel
+      domain: ksusentinel.com
+    quality: 24
+    images:
+      - url: "https://ksusentinel.com/wp-content/uploads/2021/07/Global-States-Voice-Recognition-for-Smartphones-Market-780x470.jpg"
+        width: 780
+        height: 470
         isCached: true
   - title: "Facial Recognition Market - Top Key Players are deploying both organic and inorganic growth strategies"
     excerpt: "The global facial recognition market is displaying a fierce competition in its competitive landscape Prominent players in the market are focusing to strengthen their distribution network states a newly launched market report by This is mainly to"

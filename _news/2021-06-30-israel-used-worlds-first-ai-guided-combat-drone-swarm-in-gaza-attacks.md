@@ -9,8 +9,8 @@ ampWebUrl: "https://www.newscientist.com/article/2282656-israel-used-worlds-firs
 cdnAmpWebUrl: "https://www-newscientist-com.cdn.ampproject.org/c/s/www.newscientist.com/article/2282656-israel-used-worlds-first-ai-guided-combat-drone-swarm-in-gaza-attacks/amp/"
 type: article
 quality: 57
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: New Scientist
@@ -26,20 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Israel is Using Robots with Machine Guns to Patrol Gaza Border"
-    excerpt: "The Jaguar's role in a border patrol and possibly anti-riot capacity will likely continue to receive scrutiny as public security services across the world explore deploying unmanned systems with offensive capabilities."
-    publishedDateTime: 2021-06-27T23:00:00Z
-    webUrl: "https://nationalinterest.org/blog/buzz/israel-using-robots-machine-guns-patrol-gaza-border-188602"
-    type: article
-    provider:
-      name: The National Interest
-      domain: nationalinterest.org
-    quality: 39
-    images:
-      - url: "https://nationalinterest.org/sites/default/files/main_images/Flickr_-_Israel_Defense_Forces_-_Becoming_A_Soldier_of_the_Caracal_Battalion_%2859%29%20%281%29_0.jpg"
-        width: 1222
-        height: 813
-        isCached: true
   - title: "Israel, Breaking Ground in Artificial Intelligence"
     excerpt: "Popularly known as the startup nation, Israel is a pioneer in technology and artificial intelligence at large. In plain terms, artificial intelligence is said to be the conventional name for intelligence exhibited by machines,"
     publishedDateTime: 2021-06-28T21:19:00Z

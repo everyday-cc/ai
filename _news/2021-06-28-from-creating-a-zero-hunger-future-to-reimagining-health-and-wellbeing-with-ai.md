@@ -1,22 +1,30 @@
 ---
 category: news
 title: "From Creating a Zero Hunger Future, To Reimagining Health and Wellbeing with AI"
-excerpt: "Students’ Unlimited Creativity Unveiled in ‘Master Code’ Award and Kick-off CeremoniesHONG KONG SAR - Media OutReach - 28 June 2021 -"
-publishedDateTime: 2021-06-27T21:10:00Z
-originalUrl: "https://www.macaubusiness.com/from-creating-a-zero-hunger-future-to-reimagining-health-and-wellbeing-with-ai/"
-webUrl: "https://www.macaubusiness.com/from-creating-a-zero-hunger-future-to-reimagining-health-and-wellbeing-with-ai/"
+excerpt: "Students’ Unlimited Creativity Unveiled in ‘Master Code’ Award and Kick-off Ceremonies HONG KONG SAR - Media OutReach - 28 June 2021 - Since 2016, Hong Kong Education City (EdCity) and Microsoft have co-organised the annual Master"
+publishedDateTime: 2021-06-28T05:10:00Z
+originalUrl: "https://www.asiaone.com/business/creating-zero-hunger-future-reimagining-health-and-wellbeing-ai"
+webUrl: "https://www.asiaone.com/business/creating-zero-hunger-future-reimagining-health-and-wellbeing-ai"
+ampWebUrl: "https://www.asiaone.com/business/creating-zero-hunger-future-reimagining-health-and-wellbeing-ai?amp"
+cdnAmpWebUrl: "https://www-asiaone-com.cdn.ampproject.org/c/s/www.asiaone.com/business/creating-zero-hunger-future-reimagining-health-and-wellbeing-ai?amp"
 type: article
-quality: 15
+quality: 55
 heat: -1
 published: false
 
 provider:
-  name: Macau Business
-  domain: macaubusiness.com
+  name: Asia One
+  domain: asiaone.com
 
 topics:
   - Microsoft AI
   - AI
+
+images:
+  - url: "https://www.asiaone.com/sites/default/files/styles/a1_og_image/public/original_images/Jun2021/EDCITY.jpg?itok=Uop_9JUE"
+    width: 763
+    height: 509
+    isCached: true
 
 related:
   - title: "Lip-Reading By AI Self-Driving Cars Is Either Alarming Or Ingenious"
@@ -92,6 +100,22 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F600b279b38fb40a4043817d3%2F0x0.jpg"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Rating The Fast And Furious Movies Hottest Vehicles And Gazing Into The Future Toward An Era Of AI Self-Driving Cars"
+    excerpt: "Moviegoers are eagerly going to see the latest in the Fast and Furious film franchise, which brings up which of the series cars are the hottest, along with what will happen in the future when we have AI driverless self-driving cars."
+    publishedDateTime: 2021-07-02T15:30:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2021/07/02/rating-the-fast-and-furious-movies-hottest-vehicles-and-gazing-into-the-future-toward-an-era-of-ai-self-driving-cars/"
+    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/07/02/rating-the-fast-and-furious-movies-hottest-vehicles-and-gazing-into-the-future-toward-an-era-of-ai-self-driving-cars/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/07/02/rating-the-fast-and-furious-movies-hottest-vehicles-and-gazing-into-the-future-toward-an-era-of-ai-self-driving-cars/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 66
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60db889ae6c06c3e3dc220d5%2F0x0.jpg%3FcropX1%3D17%26cropX2%3D3260%26cropY1%3D57%26cropY2%3D1881"
+        width: 1200
+        height: 675
         isCached: true
   - title: "That Hacked Electronic Roadside Display In Brooklyn Said Cars Are Bad, Which Startlingly Brings Up Questions About The Advent Of AI Self-Driving Cars"
     excerpt: "A hacked electronic roadside display panel had a lot of messages about the badness of today's cars, which indirectly raises interesting questions about the future and the advent of AI-based driverless self-driving cars."
@@ -239,6 +263,6 @@ related:
       domain: tmcnet.com
     quality: 0
 
-secured: "+LgrMhZLCn6sINS9whRq5ZcEmWYEwtfHVlj3ZqB1zHJZqa2NVkuoHAhtyLWwwO7gpojQC7hees8+XuYaqRtF1lqTBF90NBtty9GOm/SSHHPPQ8EJcfKW9OHziV92C1NA/yN6uL6K+gLXyCP9Dpn+uiTRwmhlSsuL1a4WAFMzFYSAabKxl2A9wBvIRfSMpgSG/YPpQtmVRDpOJwHe+td32EOfcQ4xEU8mey8mb7TiO9htBLVaL07/Jg6Llc9KBLRLKfL/Yg6zCz3zd92NoFLBisAIvc7kB4PeSHl9vh0M3azjIhXP/rCPz9lwXt8Oxonvq1jCdEN4Tt4nahJJNmQ6qqYV//ZwPsgUd5dw19kURswLcYACV1SqiwNTsnbSNvKgN4fJW5SSwyL2pIiwA6UPv8EZRmPDIZ5W2ueIUOz4kaeVgsUCK+6lfjsztd79hc+o8m36JdyedKCvD7hVSdkfm/fYTSCKPxN9sCHXgSinbLntPAC/zUWxg44r73fekcLLx9WlZLv/hQHqlAhzjK5G4A==;CSuLpYPRoZLXIc12Y+Z99w=="
+secured: "hlLUUclmwo1AybJ48RQR07m9srv62VrF4SxVrZ5f2MjItTknUPulJrFIpH8QNWx9mRABJSuwltD99zXTjN/AnC2hgX57wMuL5acD6/7MgfU49aj3aLBu1YbgHhAcT30RC1iAX7WwF5C7mLpfSVIrCOgWs4RqUlbh7bk2k6wSAWnjBGXhGJ2J34MP8FM9PcsI5fH/UHD4ejGviv0Szwzu4cRhQMLqv3hwNObQYRd+mDw+tm0p3fZiSF35Y/+2bfccLrI+LDrDKpfl50rGn73UN/zUVInXesFz4bCkEAPxPhpNRWVx61rxyPDH1Rid03qi6a3D1WxcAWRBdZjHbk2RzsvtqMzPz1Lw3bxRXEGDRzY=;tAi5Rdh0WpX5s2JzhpL2qQ=="
 ---
 

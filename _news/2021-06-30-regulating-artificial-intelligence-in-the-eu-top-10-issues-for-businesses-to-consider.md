@@ -18,33 +18,19 @@ topics:
   - AI
 
 related:
-  - title: "GDPR 2.0: What do Europe’s new AI rules mean for businesses?"
-    excerpt: "In April, the European Commission (EC) unveiled plans to regulate artificial intelligence (AI). The first-of-its-kind rulebook includes bans on practices that “manipulate persons through subliminal techniques beyond their consciousness”,"
-    publishedDateTime: 2021-06-28T10:36:00Z
-    webUrl: "https://www.techcentral.ie/gdpr-2-0-what-do-europes-new-ai-rules-mean-for-businesses/"
+  - title: "AI is now core to business success"
+    excerpt: "New survey of business leaders and data scientists indicates that AI initiatives are delivering business value but challenges still exist."
+    publishedDateTime: 2021-06-30T11:55:00Z
+    webUrl: "https://www.arnnet.com.au/article/689361/ai-now-core-business-success/"
     type: article
     provider:
-      name: Mozilla
-      domain: techcentral.ie
+      name: ARN
+      domain: arnnet.com.au
     quality: 39
     images:
-      - url: "https://www.techcentral.ie/wp-content/uploads/2021/04/Artificial_Intelligence.jpg"
-        width: 620
-        height: 351
-        isCached: true
-  - title: "What are the Ways Artificial Intelligence can Help You Grow Your Business?"
-    excerpt: "Artificial Intelligence is an approach to make Machines, Computers, and Robots more Human-Like in their problem-solving. As Human Beings, we are constantly and continuously doing wonders with our inventions,"
-    publishedDateTime: 2021-06-28T18:16:00Z
-    webUrl: "https://www.wrcbtv.com/story/44198905/what-are-the-ways-artificial-intelligence-can-help-you-grow-your-business"
-    type: article
-    provider:
-      name: WRCB
-      domain: wrcbtv.com
-    quality: 37
-    images:
-      - url: "https://PRSUBMITPRESSLIFESTYLE.images.worldnow.com/images/20955229_G.jpg?lastEditedDate=1624889811000"
-        width: 1600
-        height: 1066
+      - url: "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/800x800/dimg/dreamstime_s_195660649.jpg"
+        width: 800
+        height: 533
         isCached: true
 
 secured: "5uRO8jsP6Gp2J9CYGj3LJLIVjsEEOb/MRXLSDblzajOp3QdQCvtLYHPKfMfS1USIYhPUov3nBf3UMEMU6+uYIN/vShF94u1pZZBjAaINYB2sFBPxzGcg7dasQePXkaZ2MqY7cCylci53cClOBLpjZkw13xrpcSzts6p92POwud6OamYSFKzpS82gmeARgaUzwHpyah1yWlE+5zhpg8rIxcxNJut2IJSFAiOXstwn+LcK6I7LxGFyqZead+yyLsWKoKpWxwF4yLyED6a9NcYGSo4B9wceXXB4qrCUbrzm1dgu3RtBFtHHkuitahLJp3uo9BU+AeHkiVjKj+hq3tLJXoSO/CFAB/ZmmP4MSVpsB5U=;HzWbkuQu/Kx3czf/RMMEow=="

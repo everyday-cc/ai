@@ -100,6 +100,17 @@ related:
         width: 1019
         height: 573
         isCached: true
+  - title: "LendIt Fintech USA Reunites the Fintech Community with its Return to a Physical Event in 2022"
+    excerpt: "LendIt Fintech, the leading event series dedicated to financial services innovation, today announced that its flagship event,"
+    publishedDateTime: 2021-07-02T15:00:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/21/07/n21828492/lendit-fintech-usa-reunites-the-fintech-community-with-its-return-to-a-physical-event-in-2022"
+    ampWebUrl: "https://www.benzinga.com/amp/content/21828492"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/21828492"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 13
   - title: "FinTech Company Centime Launches Cloud-based Platform to Control Cash Flow"
     excerpt: "Centime, a FinTech company, today announced the launch of its Cloud-based Cash Flow Control solution. With its state-of-art solution, the company will empower businesses by enabling them to optimize all aspects of their cash flow life cycle in an easy-to-use,"
     publishedDateTime: 2021-06-30T10:17:00Z

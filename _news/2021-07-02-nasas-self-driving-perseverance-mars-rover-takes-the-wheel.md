@@ -9,7 +9,7 @@ ampWebUrl: "https://phys.org/news/2021-07-nasa-self-driving-perseverance-mars-ro
 cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-07-nasa-self-driving-perseverance-mars-rover.amp"
 type: article
 quality: 44
-heat: -1
+heat: 44
 published: false
 
 provider:
@@ -28,22 +28,20 @@ images:
 
 related:
   - title: "NASA's self-driving Mars Rover begins search for signs of ancient life"
-    excerpt: "Will trek across the Martian landscape using a newly enhanced auto-navigation system NASA's self-driving six-wheeled robot on Mars -- the Perseverance rover -- is set to start an epic journey across a crater floor to seek signs of ancient life,"
-    publishedDateTime: 2021-07-02T11:59:00Z
-    webUrl: "https://www.tribuneindia.com/news/schools/nasas-self-driving-mars-rover-begins-search-for-signs-of-ancient-life-277232"
-    ampWebUrl: "https://www.tribuneindia.com/news/schools/nasas-self-driving-mars-rover-begins-search-for-signs-of-ancient-life-277232"
-    cdnAmpWebUrl: "https://www-tribuneindia-com.cdn.ampproject.org/c/s/www.tribuneindia.com/news/schools/nasas-self-driving-mars-rover-begins-search-for-signs-of-ancient-life-277232"
+    excerpt: "NASA's self-driving six-wheeled robot on Mars -- the Perseverance rover -- is set to start an epic journey across a crater floor to seek signs of ancient life, the US space agency said on Friday. The rover,"
+    publishedDateTime: 2021-07-02T12:44:00Z
+    webUrl: "https://www.dailypioneer.com/2021/technology/nasa-s-self-driving-mars-rover-begins-search-for-signs-of-ancient-life.html"
     type: article
     provider:
-      name: The Tribune
-      domain: tribuneindia.com
-    quality: 44
+      name: The Pioneer
+      domain: dailypioneer.com
+    quality: 24
     images:
-      - url: "https://englishtribuneimages.blob.core.windows.net/gallary-content/2021/7/2021_7$largeimg_1156994624.jpg"
-        width: 900
-        height: 506
+      - url: "https://www.dailypioneer.com/uploads/2021/story/images/big/nasa-s-self-driving-mars-rover-begins-search-for-signs-of-ancient-life-2021-07-02.jpg"
+        width: 1000
+        height: 800
         isCached: true
 
-secured: "2HOng+SHM2VzAQJ9esrRwRlR3I6UFYtNbQBR+UuByrarRsSVtFlVlcWsf6rOge2iRmSX2tFdi5ywsMM4Vhj2TnY7o4unxuIUtEyp4UimNO6wBV2zKjsuOwTPD4ZIh3DRgvjEaVJ/g0Jd0XKcyfO6B7xh8dkJX1xBO/AFFd8S3GG5U/rgSsTkQ3zkw3GdH+SlHFZVmHyF65FyWUhStzTY9YVHFSy+kCzqG0GR9RhI59pw6sbdQ3jwWr44chD24DZfcdRnCVR91UWYeWZ0hiI9Lze1X5MkTXlagASZN26luZ6+NtV0DcJJ++OOvJ0aG/1DeVYMDCoHl+57Pfva2OKpt83Pl45Js9U8SZ/EsnJPsWA=;EtlzCPvDMmgUgeTIELH7Lg=="
+secured: "onAb/hI4he5O4qx975qsKpYmgByzbSqlEYKesRFLmOB4N6kXFknhbnglu8K+RFWdXOhFb0/btlKz7LqwPQWVjLgZeGQmGRoQlttK5CaLWc8I5HNnrW95fpWhMJC46nGl0v8glnOc3ylgPj7g4MPEtw7e1R6M/ZOD2hCNOaSNvfa8RfqDoIZxVnCfLlOFLq7Cq2JFMomvUenvMK9fdeyHLGMo+vA+DvRPpQqq8n7DEP/t/xLXvr1NhMFBYQGqz/1Yuy1HcpAjJCA9o+sKCQs5N/4JIE33KplkZRVasZLmMMElyhxi1jQIt5O12bu0g5AQ9DKHrK1cOvoY8uZ0nfaPzFLWsMJUr7ha7Eqf4JfQapiE9pu7MZuj089BCsPZfXxFV2zT8uFRk25JR4cc/DPXWrmABw/idOGYKGhRMAgHAmRsB378MJQd99RC4IiPOd65c4Ewxqo9I5AROF+MkSoLQ/M7KR1yw2jdpxUGLJRzsP8ELYCdqyzez7LaIf4HGPPgRnjWZ7GWHXQxuDvYRfArgw==;LKUnG8KoLl2rC9YLEr3/6w=="
 ---
 

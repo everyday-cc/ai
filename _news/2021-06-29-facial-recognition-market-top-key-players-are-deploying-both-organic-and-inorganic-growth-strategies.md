@@ -100,6 +100,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "States Voice Recognition for Smartphones Market to Witness Huge Growth by 2028 | Apple, Google, Microsoft"
+    excerpt: "The research covers the current & Future market size of the Global States Voice Recognition for Smartphones market & its growth rates based on 8 year history data. It also covers various types of segmentation such as by geography [China, Japan, Korea ..."
+    publishedDateTime: 2021-07-02T14:43:00Z
+    webUrl: "https://ksusentinel.com/2021/07/02/states-voice-recognition-for-smartphones-market-to-witness-huge-growth-by-2028-apple-google-microsoft/"
+    type: article
+    provider:
+      name: The Sentinel
+      domain: ksusentinel.com
+    quality: 24
+    images:
+      - url: "https://ksusentinel.com/wp-content/uploads/2021/07/Global-States-Voice-Recognition-for-Smartphones-Market-780x470.jpg"
+        width: 780
+        height: 470
+        isCached: true
   - title: "Global Mobile Speech Recognition Software Market Shares Reflect Significant Growth of Mn US$ During 2020-2025"
     excerpt: "Global Mobile Speech Recognition Software Market Research Report: Industry Analysis, Share, Revenue, And Future Trends. The report published by Market Research Store on the global"
     publishedDateTime: 2021-06-28T08:20:00Z

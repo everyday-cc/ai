@@ -93,6 +93,38 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Rating The Fast And Furious Movies Hottest Vehicles And Gazing Into The Future Toward An Era Of AI Self-Driving Cars"
+    excerpt: "Moviegoers are eagerly going to see the latest in the Fast and Furious film franchise, which brings up which of the series cars are the hottest, along with what will happen in the future when we have AI driverless self-driving cars."
+    publishedDateTime: 2021-07-02T15:30:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2021/07/02/rating-the-fast-and-furious-movies-hottest-vehicles-and-gazing-into-the-future-toward-an-era-of-ai-self-driving-cars/"
+    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/07/02/rating-the-fast-and-furious-movies-hottest-vehicles-and-gazing-into-the-future-toward-an-era-of-ai-self-driving-cars/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/07/02/rating-the-fast-and-furious-movies-hottest-vehicles-and-gazing-into-the-future-toward-an-era-of-ai-self-driving-cars/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 66
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60db889ae6c06c3e3dc220d5%2F0x0.jpg%3FcropX1%3D17%26cropX2%3D3260%26cropY1%3D57%26cropY2%3D1881"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "From Creating a Zero Hunger Future, To Reimagining Health and Wellbeing with AI"
+    excerpt: "Students’ Unlimited Creativity Unveiled in ‘Master Code’ Award and Kick-off Ceremonies HONG KONG SAR - Media OutReach - 28 June 2021 - Since 2016, Hong Kong Education City (EdCity) and Microsoft have co-organised the annual Master"
+    publishedDateTime: 2021-06-28T05:10:00Z
+    webUrl: "https://www.asiaone.com/business/creating-zero-hunger-future-reimagining-health-and-wellbeing-ai"
+    ampWebUrl: "https://www.asiaone.com/business/creating-zero-hunger-future-reimagining-health-and-wellbeing-ai?amp"
+    cdnAmpWebUrl: "https://www-asiaone-com.cdn.ampproject.org/c/s/www.asiaone.com/business/creating-zero-hunger-future-reimagining-health-and-wellbeing-ai?amp"
+    type: article
+    provider:
+      name: Asia One
+      domain: asiaone.com
+    quality: 55
+    images:
+      - url: "https://www.asiaone.com/sites/default/files/styles/a1_og_image/public/original_images/Jun2021/EDCITY.jpg?itok=Uop_9JUE"
+        width: 763
+        height: 509
+        isCached: true
   - title: "That Hacked Electronic Roadside Display In Brooklyn Said Cars Are Bad, Which Startlingly Brings Up Questions About The Advent Of AI Self-Driving Cars"
     excerpt: "A hacked electronic roadside display panel had a lot of messages about the badness of today's cars, which indirectly raises interesting questions about the future and the advent of AI-based driverless self-driving cars."
     publishedDateTime: 2021-06-28T15:30:00Z
@@ -229,15 +261,6 @@ related:
         width: 600
         height: 360
         isCached: true
-  - title: "From Creating a Zero Hunger Future, To Reimagining Health and Wellbeing with AI"
-    excerpt: "Students’ Unlimited Creativity Unveiled in ‘Master Code’ Award and Kick-off CeremoniesHONG KONG SAR - Media OutReach - 28 June 2021 -"
-    publishedDateTime: 2021-06-27T21:10:00Z
-    webUrl: "https://www.macaubusiness.com/from-creating-a-zero-hunger-future-to-reimagining-health-and-wellbeing-with-ai/"
-    type: article
-    provider:
-      name: Macau Business
-      domain: macaubusiness.com
-    quality: 15
 
 secured: "Q8flIuoRDZjteczxUbbutEAMMnhgDtVKT9s8rP/MlRSjDJiOEkgxFNEBSaYJr2FEYOa/8hE+fEtP1O9GvtBPPRjKhu7uUWg0GgstVcqvBT+HErPXqc5eFSweb3IL+THFLJCVFK/xKrGmo3j/zEEEgXrdh+4RZpuCHOm+T2BxvYCUckNR7IgBZsDLp3r9DPfnUHyKA26nYh0CaJlNCC23S3qo8D68wwoUvju+PcQcvdgpRjUmFgejB9eWgYrUV0unuChDZHmjGP7iBFddZPVP3ZG6VxwVe666npZp0/kPiAjmDu2q/IwJIiWRnAM8fs3q/xDQaPeHvPnfMpwK1UxpYDVSCgRf16EXyLQKeFo2G8g=;BggDEEH1gAcL0NTlyjwA5w=="
 ---

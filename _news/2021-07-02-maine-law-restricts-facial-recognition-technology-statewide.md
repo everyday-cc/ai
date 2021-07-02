@@ -145,6 +145,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Maine Holds Strong Against Facial Recognition"
+    excerpt: "The new law represents the strongest move by any state in the country to regulate the widespread use of the technology by law enforcement and offer a pathway to legal action if used in violation of the law."
+    publishedDateTime: 2021-07-02T14:38:00Z
+    webUrl: "https://thecrimereport.org/2021/07/02/maine-holds-strong-against-facial-recognition/"
+    type: article
+    provider:
+      name: thecrimereport.org
+      domain: thecrimereport.org
+    quality: 54
+    images:
+      - url: "https://thecrimereport.org/wp-content/uploads/2020/02/book3-1.jpg"
+        width: 343
+        height: 510
+        isCached: true
   - title: "Civil rights group sues for records on use of facial recognition at New York prisons"
     excerpt: "A civil rights group has filed suit against the New York Corrections Department for not turning over records on how it uses facial recognition technology on visitors at state lockups."
     publishedDateTime: 2021-07-01T20:38:00Z

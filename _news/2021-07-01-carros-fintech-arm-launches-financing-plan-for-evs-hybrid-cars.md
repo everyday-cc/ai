@@ -95,6 +95,17 @@ related:
         width: 1019
         height: 573
         isCached: true
+  - title: "LendIt Fintech USA Reunites the Fintech Community with its Return to a Physical Event in 2022"
+    excerpt: "LendIt Fintech, the leading event series dedicated to financial services innovation, today announced that its flagship event,"
+    publishedDateTime: 2021-07-02T15:00:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/21/07/n21828492/lendit-fintech-usa-reunites-the-fintech-community-with-its-return-to-a-physical-event-in-2022"
+    ampWebUrl: "https://www.benzinga.com/amp/content/21828492"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/21828492"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 13
   - title: "3 fintech trends that are transforming the future of business"
     excerpt: "Here are three emerging trends in fintech that businesses should be aware of in order to best protect themselves against the inherent risks of digitization of operations, products and services."
     publishedDateTime: 2021-07-01T05:00:00Z

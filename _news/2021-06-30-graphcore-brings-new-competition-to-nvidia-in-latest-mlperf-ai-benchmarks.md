@@ -8,7 +8,7 @@ webUrl: "https://www.zdnet.com/article/graphcore-brings-new-competition-to-nvidi
 ampWebUrl: "https://www.zdnet.com/google-amp/article/graphcore-brings-new-competition-to-nvidia-in-latest-mlperf-ai-benchmarks/"
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/graphcore-brings-new-competition-to-nvidia-in-latest-mlperf-ai-benchmarks/"
 type: article
-quality: 86
+quality: 88
 heat: -1
 published: false
 
@@ -21,6 +21,7 @@ provider:
       height: 50
 
 topics:
+  - AI Hardware
   - AI
 
 images:
@@ -193,6 +194,6 @@ related:
       domain: tmcnet.com
     quality: 9
 
-secured: "g+k95QUJF5QT5kPuBVwX2OCEEhMMDBrpXRYDDMNnBIdmUHBfYSYqG+P0xVSgGRg2wkQlBQ0TTbmCeMTGfr7UpDgYpJ7DfRgLKtG3/H7kodQEGFbuEGACxzBDmXVEG0aBl/8Rj+dWOafr3XhlEZLduMTmKcE5vvy0femxIlPai5vp3YLgkbriwrzpbtPlgVUsjSfX8DkjoVheNyrvnUU7MiBCcOuPUARnBmJJwhVjXXRXEwcU2g2XcoTZ30///G7hwBwI96pDrl2tbNQieNOyrtyq8klF2qMlg4KgGSGFzs/Caw+5RnsOsEC8obzCFCtba3hniqxuxXJZLW7EpRffyK2nn6cg63LJGic+Gx/Nwfo=;RoX86ubnUQuZaGyM327h+Q=="
+secured: "0/0oBhgt3cS2U+pTP2uym1FGkt+joKb/g/PEIboBe76MeBmzcExr6hktgdzfUycF1WywT0ZBACn7lpBSlJLVKwW0GcEAcA+B+1Z5iKldrnFdSFvqFYFPAKV7m/MAxXTmFuDY8Gy5eTjho8e5rXz3eJZbpPkBqsbR0T3NBSB9jt7/ly5KX0FynJ0mZzBYPEDwOLo0O6TURPBFnco0Cvx4Q4Z2/53Zf1SYreLsSa4gm3WEmhblP6xn4P1I6BOWVqb4WVdXm/1meNBlB5k/PliC3DZkjpkRyAV8Zdh8qNAmAjRu9SA9HE/VjRbqllCi2cH5xPhlIPws/EGar2taXZi0qt9flBWWIuPpfEEw3v6ht/4=;+wClGGUVfxjwv4qc23DYmg=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.dailydot.com/debug/facial-recognition-gao-biden/?amp"
 cdnAmpWebUrl: "https://www-dailydot-com.cdn.ampproject.org/c/s/www.dailydot.com/debug/facial-recognition-gao-biden/?amp"
 type: article
 quality: 57
-heat: 77
+heat: 79
 published: true
 
 provider:

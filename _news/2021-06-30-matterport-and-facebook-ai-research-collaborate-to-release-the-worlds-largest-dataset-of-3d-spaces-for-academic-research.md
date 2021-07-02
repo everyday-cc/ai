@@ -35,6 +35,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Facebook publishes first monthly compliance report, says took down content proactively using AI"
+    excerpt: "On July 15, the platform will publish another report which will contain details of user complaints received by Facebook, Instagram, and WhatsApp and the action taken by these three platforms on such complaints."
+    publishedDateTime: 2021-07-02T14:53:00Z
+    webUrl: "https://indianexpress.com/article/technology/technology-others/facebook-instagram-compliance-report-7386447/"
+    ampWebUrl: "https://indianexpress.com/article/technology/technology-others/facebook-instagram-compliance-report-7386447/lite/"
+    cdnAmpWebUrl: "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/technology/technology-others/facebook-instagram-compliance-report-7386447/lite/"
+    type: article
+    provider:
+      name: The Indian Express
+      domain: indianexpress.com
+    quality: 47
+    images:
+      - url: "https://images.indianexpress.com/2021/06/facebook-1200.jpg"
+        width: 1200
+        height: 667
+        isCached: true
 
 secured: "BGcP5DJ6PETDzj4A/LxOULwFyJ+PN1Sv7i1WWRweHJwNL++QuCT/7f1uKMfU7Z43MLjbGM3ybKQP+ozK3t/xqP/x63D4nUcblJ6e9A6jBlm6kPY9Mlk69GI+t8ANa6Fq7b0BSt/zwDKmAoQVDXPKkvdFoldeTFB113iBWk/HlHdUmcMO7ihlCS2Sbjnfr8anYSKnQ9nNE9YClS5GvqR7TrkbbEHTH+TMI9YOT7Z/sX+igu/13TQWVUOuk1J98icASHIiCgAGo5O7hooW2212aahSCPINxHzu2oxXt492TOwnnX5Rsh5Rxu6M9gQ4yNxZQp43yuA2zYWTG0G65EEkzaOoIYFZoxCw8B96+d3isUA=;dfR3l3zIGXWXgJH2qvivsw=="
 ---

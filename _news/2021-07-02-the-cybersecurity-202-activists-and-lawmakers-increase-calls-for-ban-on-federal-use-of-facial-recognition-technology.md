@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/politics/2021/07/02/cybersecurity-202
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/07/02/cybersecurity-202-some-activists-lawmakers-want-ban-federal-government-using-facial-recognition-technology/?outputType=amp"
 type: article
 quality: 36
-heat: 36
+heat: -1
 published: false
 
 provider:
@@ -27,16 +27,23 @@ images:
     isCached: true
 
 related:
-  - title: "Report Finds Widespread Use of Facial Recognition Technology by Federal Agencies Could Pose Privacy Risk"
-    excerpt: "The report recommends that agencies track and assess the systems they use to mitigate the privacy and accuracy risks."
-    publishedDateTime: 2021-07-01T15:26:00Z
-    webUrl: "https://www.lawfareblog.com/report-finds-widespread-use-facial-recognition-technology-federal-agencies-could-pose-privacy-risk"
+  - title: "Soon, it is going to be AI Vs AI battle in cybersecurity, fake news and defence"
+    excerpt: "Applications of Artificial Intelligence technologies are showing their impact on society and are growing very fast. It is revolutionizing all industry verticals and social dimensions. With most AI tools available as open sources and"
+    publishedDateTime: 2021-07-02T13:48:00Z
+    webUrl: "https://timesofindia.indiatimes.com/blogs/breaking-shackles/soon-it-is-going-to-be-ai-vs-ai-battle-in-cybersecurity-fake-news-and-defence/"
+    ampWebUrl: "https://timesofindia.indiatimes.com/blogs/breaking-shackles/soon-it-is-going-to-be-ai-vs-ai-battle-in-cybersecurity-fake-news-and-defence/"
+    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/breaking-shackles/soon-it-is-going-to-be-ai-vs-ai-battle-in-cybersecurity-fake-news-and-defence/"
     type: article
     provider:
-      name: Lawfare
-      domain: lawfareblog.com
-    quality: 2
+      name: India Times
+      domain: indiatimes.com
+    quality: 55
+    images:
+      - url: "https://static.toiimg.com/imagenext/toiblogs/photo/blogs/wp-content/uploads/2021/07/MEA-1.jpg"
+        width: 1200
+        height: 900
+        isCached: true
 
-secured: "V2Tb3gWbDzYt5K2ST1ujiHvkub8ZyYD9NROx7jVjSEDPHR2UVEgScrnpJOejP5xpKnKpWadp5H9i98Rjvyq1iB4BonZEh/Tw8wkptLFWA+KX0w0oCmQxRs9zTUU+FXw63OxcfxlpQj1YLDmkd72GXhrf7YK1EcEYracvMgrsZzfr2g89oQDkHKrOBjZ1lF07+9uabqyR1cOfz/h7/0Q5W1t/3kM1EX0zaLJW7pCBv5WdceG43+kA7D0eP2AcG5GfQWaxC75y7P0PvfhfpMyJHVU2qQstbgweIb78h+xw0R83g9sKf5VyGbE7Z0ng7iuI2Jo2Jfrq0tZGIy0+dkGApEcleSuUPKwaVpeSVaQoK6c=;MrQuL7+vbbBeb117GhZOGg=="
+secured: "Y32eL+uWb1BGUgs0sggNtWhyN+aif3VxzM5rzO7C+cxkmyWKyDsmJE8G0NgMujDBx43G7ixDUNX/JAwOjaXoiwgRhgYbuZzFQvnW7NdtZY6WNozzUVGc6xW2H/luwyuHwysEVNYi7wmKM16dsGBhG2BYmmdheUG4hD/9/5JvwZ/PfhABoIeN7m5/oIaMeS6E6aNCNltYQ6IWmNxv3HV/rUA5dPcvseqrqjyTk2FmD11V3uMGiazpshwWjgY7cQxm+mc5yJQn52DFOqiprDzJVJaA8mu/6WEHRAIHUEV4kvK6O/PE72pGKuiJdrHa63iVuPjMBzQYH4ZQiFrweTsNJpqMtBV75BlQJuYnm7VbNs+viraQVyeL/AXYiueefeZhA0cwQvScBhNi/ppPOP+t6sh4y+Jnr9nctY9Wns9nSUlE0lhvKyoEIqcSpEXqxF3OFxT/E3hFaxqTQj9/TQAU1jMth9sEznbDhWZmgxyoLBdH+m3Wo/a2GYMH4LYHCdzDp8Vw0vKGHCD7EVYcQ2cCoA==;ABSNwJoy5vzDylOaQ6txpg=="
 ---
 

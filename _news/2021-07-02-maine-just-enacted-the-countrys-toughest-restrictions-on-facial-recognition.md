@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/maine-just-enacted-the-countrys
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/maine-just-enacted-the-countrys-toughest-restrictions-on-facial-recognition/"
 type: article
 quality: 101
-heat: 242
+heat: 251
 published: true
 
 provider:
@@ -138,6 +138,20 @@ related:
       - url: "https://www.commondreams.org/sites/default/files/styles/social_share_image/public/2021-06/Facial-Recognition-2600x1361.jpg?h=733dcb6a&itok=EINM7TUh"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Maine Holds Strong Against Facial Recognition"
+    excerpt: "The new law represents the strongest move by any state in the country to regulate the widespread use of the technology by law enforcement and offer a pathway to legal action if used in violation of the law."
+    publishedDateTime: 2021-07-02T14:38:00Z
+    webUrl: "https://thecrimereport.org/2021/07/02/maine-holds-strong-against-facial-recognition/"
+    type: article
+    provider:
+      name: thecrimereport.org
+      domain: thecrimereport.org
+    quality: 54
+    images:
+      - url: "https://thecrimereport.org/wp-content/uploads/2020/02/book3-1.jpg"
+        width: 343
+        height: 510
         isCached: true
   - title: "Maine law restricts facial recognition technology statewide"
     excerpt: "A bill touted as the country’s strictest statewide regulation on the use of facial recognition technology has become law in Maine."

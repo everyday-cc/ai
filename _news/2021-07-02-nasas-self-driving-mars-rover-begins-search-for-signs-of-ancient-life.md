@@ -1,29 +1,27 @@
 ---
 category: news
 title: "NASA's self-driving Mars Rover begins search for signs of ancient life"
-excerpt: "Will trek across the Martian landscape using a newly enhanced auto-navigation system NASA's self-driving six-wheeled robot on Mars -- the Perseverance rover -- is set to start an epic journey across a crater floor to seek signs of ancient life,"
-publishedDateTime: 2021-07-02T11:59:00Z
-originalUrl: "https://www.tribuneindia.com/news/schools/nasas-self-driving-mars-rover-begins-search-for-signs-of-ancient-life-277232"
-webUrl: "https://www.tribuneindia.com/news/schools/nasas-self-driving-mars-rover-begins-search-for-signs-of-ancient-life-277232"
-ampWebUrl: "https://www.tribuneindia.com/news/schools/nasas-self-driving-mars-rover-begins-search-for-signs-of-ancient-life-277232"
-cdnAmpWebUrl: "https://www-tribuneindia-com.cdn.ampproject.org/c/s/www.tribuneindia.com/news/schools/nasas-self-driving-mars-rover-begins-search-for-signs-of-ancient-life-277232"
+excerpt: "NASA's self-driving six-wheeled robot on Mars -- the Perseverance rover -- is set to start an epic journey across a crater floor to seek signs of ancient life, the US space agency said on Friday. The rover,"
+publishedDateTime: 2021-07-02T12:44:00Z
+originalUrl: "https://www.dailypioneer.com/2021/technology/nasa-s-self-driving-mars-rover-begins-search-for-signs-of-ancient-life.html"
+webUrl: "https://www.dailypioneer.com/2021/technology/nasa-s-self-driving-mars-rover-begins-search-for-signs-of-ancient-life.html"
 type: article
-quality: 44
-heat: 44
+quality: 24
+heat: -1
 published: false
 
 provider:
-  name: The Tribune
-  domain: tribuneindia.com
+  name: The Pioneer
+  domain: dailypioneer.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://englishtribuneimages.blob.core.windows.net/gallary-content/2021/7/2021_7$largeimg_1156994624.jpg"
-    width: 900
-    height: 506
+  - url: "https://www.dailypioneer.com/uploads/2021/story/images/big/nasa-s-self-driving-mars-rover-begins-search-for-signs-of-ancient-life-2021-07-02.jpg"
+    width: 1000
+    height: 800
     isCached: true
 
 related:
@@ -44,6 +42,6 @@ related:
         height: 1928
         isCached: true
 
-secured: "Z6o27y40n5BqVIu+LPF3uTqF/5t8fL+0v0QB2lu7jvPk8zglgTXB7CCk8W2nFgxFe1qxwpgfN4/QK8nPzxctmf6gnbw8ugsz2cdxq3QuhHul58Ofg443V9SeLe5crpUwKXspnd5s4T7HBOdkCNclRDC2fLtbb4wnz5j64EwZg4KuP0dCNKt4gv0zQlqOi7VmKIDRU79wa0BJZuW0UojnDhFDSbphIldSfJAIBH0mgV7/k+1Vd36uX++yBgzBSwEXr7nQUdeoREqXc0y3PLkuye+9l61kpnxWm71N0nPZnUuI8nvdjXlx9kDXeLhad/ssMIFWZDmftHfPUKHHrG++L1umP2O7nq5kBad/fAZzces=;DyaX0PmsHy356Rzb4o9WGg=="
+secured: "p8Hmm84lBiCy3Zz5a3Cwls2u+QKOmW6jsVtb7MMOqMdHfZk2Yn5P/l6P/DQMLEzT1N9gA4PKEcMxEPDRfXUehqbDNNRDWBk4vsZ2LThO/Th4qz+B8tZzxL7/pFE3AP+pCqyYdZg98snjUIv76TroBgwKNu9ETPgzXNjQUj6tMrvEQ36JVKQpgRxikc+HyFKWEuPbLUEvq8QK5wrvbWeQthOYEIFUMODYpqhYmj3+j5YHXb0LMbgj5Yh2kIt3kLOqzgMgwEAxFwO68D3ZZBatWj/a6aJ/VNI+XXi1ugEbZdq7afYvvc2zEvA70MkoeSj4YvmiWf2GLts7YGLDhk9i/OquOSnJwhtbJhncTHQ3GsM=;CYe0OG+2+/Xetju3j/+N9g=="
 ---
 
