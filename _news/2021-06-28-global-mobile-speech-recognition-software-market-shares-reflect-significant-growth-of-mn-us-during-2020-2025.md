@@ -50,20 +50,6 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 23
-  - title: "Big Data and Machine Learning in Telecom Market 2020 | Latest Trends, Demand, Growth, Opportunities and Outlook Till 2027"
-    excerpt: "A new research report from RMoz aims at presenting 360-degree view of the global Big Data & Machine Learning in Telecom market for the forecast period of 2020 to 2026. Thus, the report highlights various important factors shaping the market growth."
-    publishedDateTime: 2021-06-29T15:36:00Z
-    webUrl: "https://ksusentinel.com/2021/06/29/big-data-machine-learning-in-telecom-market-2020-latest-trends-demand-growth-opportunities-outlook-till-2027-top-key-players/"
-    type: article
-    provider:
-      name: The Sentinel
-      domain: ksusentinel.com
-    quality: 14
-    images:
-      - url: "https://i.ibb.co/qrM8Ck1/Researchmoz-us-365.jpg"
-        width: 625
-        height: 416
-        isCached: true
 
 secured: "P5Aqgv8hiMTNS3u/83jJD37hTj2rn+6ST9s+oLtecqkl6pQbiy1kpkrrZUHOBC8TiIR7QVp/oWj2Aqle175JmoOgzvczHCMtRNJHdHxxNT9zOh20awD71jeYouCwD/FzFLDms9wImUmR6iexFWuhZjMX4y8sF+l2gyLOW45arr6hii3kGrZ4ftsMEuNTW6pcK/A+S5qLnFfvV1/HeEYoTIdxg9Idhn+NyeswKfdZoiL91UFvzNs6UDOA+lrjT4UHbdDOLJspooghkoRdh2kywbOtZh1so02fQRdpx0+eEoahqmnMEHwXiRNmykCFtkAQFbKcbEU/VbmIWrqFztpS6aqfU9D7571xZuzAt0KrWeCGieWO/LvCbiGHnEy1OJcX16mLaYsntlvqszQ8fXznSp26+Yl78qT9BUMp1940nNcH6qOJ4xVoKIZDtOw/ZJRjWx8YpG40ro5TpDTqG2Y7PJzDfpn4zD7igtjp8t6drrFXnc3BdGxvKKJyN79B4HLpxrirpxab6RXxGPGb3F3IDg==;u58moG2G7ZxO/XJSnW4c+w=="
 ---

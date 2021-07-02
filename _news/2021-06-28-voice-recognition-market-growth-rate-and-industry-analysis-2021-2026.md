@@ -55,15 +55,6 @@ related:
         width: 630
         height: 420
         isCached: true
-  - title: "Global AI, Deep Learning, and Embedded Device Security Growth Opportunities Report 2020 - ResearchAndMarkets.com"
-    excerpt: "The \"Growth Opportunities in AI, Deep Learning, and Embedded Device Security\" report has been added to ResearchAndMarkets.com's offering. This Cyber Security Technology Opportunity Engine (TOE) provides a snapshot on emerging cyber security solutions powered by innovations based on artificial intelligence,"
-    publishedDateTime: 2021-06-29T01:55:00Z
-    webUrl: "https://www.morningstar.com/news/business-wire/20210628005906/global-ai-deep-learning-and-embedded-device-security-growth-opportunities-report-2020-researchandmarketscom"
-    type: article
-    provider:
-      name: Morningstar, Inc.
-      domain: morningstar.com
-    quality: 30
 
 secured: "XD6xcLsQrlspJwlSOJ5ZdDhGFF0W4g1fAwIXflM1lMJhicvNhiYkEkYha+67MTl5H0vvOYw8ISxu62WgTRTP6U/Af1GBrDXL2gAK4WbHHHp1Nx3WzS1t5A1h+XyQJQBYNg6nJJ+mzPOgj2Me3r0FeGFqkwQcHYvVco0156zKmNmKs7l3auEiORrJu+yImZCitrv62MFy8V76UjTp4zyOyhZGvp96RO5QUaD41EwK14jPji1obpDXpaAEsLqWmwCQD0pTloXmGCDPlUbxmBZ4pa6/oRGqvPggoERn+zGl1rro367stJlYQuCATJpv6I1nRtBAxj9xwbEl8lX36wgOSWKuDpwbk7n51xBknhQt1LdjYmazv7RzxXWV7KmmJwfO2ujZI+DIza7VUM//9gglYGf8ebCFnGFESSnC0vZfIjylhuSmTLs1SOs4z2pVXCt8o70PMt+m7I4c1GLkN0Uic6qKfscgiKjAbszoL+GqJZ2Dw5jm7h9F7y9RFsKYyhlWS6suvVsuAhM/WvtjignpAw==;VdKMk/2opAhRdQVGd7T0cQ=="
 ---

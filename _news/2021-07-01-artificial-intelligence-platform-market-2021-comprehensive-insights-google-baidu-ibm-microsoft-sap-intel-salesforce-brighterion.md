@@ -35,15 +35,6 @@ related:
         width: 450
         height: 300
         isCached: true
-  - title: "AI Image Recognition – Market Boosting the Growth Worldwide: Google, Microsoft, IBM"
-    excerpt: "Advance Market Analytics published a new research publication on “AI Image Recognition Market Insights, to 2026″ with 232 pages and enriched with self-explained Tables and charts in presentable format."
-    publishedDateTime: 2021-06-30T15:18:00Z
-    webUrl: "https://manometcurrent.com/ai-image-recognition-market-boosting-the-growth-worldwide-google-microsoft-ibm/"
-    type: article
-    provider:
-      name: manometcurrent.com
-      domain: manometcurrent.com
-    quality: 30
   - title: "Natural Language Processing (NLP) in Healthcare is anticipated to show growth by 2026 | 3M ,Cerner ,Averbis ,IBM Corporation ,Microsoft Corporation"
     excerpt: "The up-to-date coverage of the latest report Natural Language Processing (NLP) in Healthcare Market provides a detailed synopsis as well as a consistent evaluation of accurate revenue over the forecasted timespan."
     publishedDateTime: 2021-07-01T16:25:00Z
@@ -53,15 +44,6 @@ related:
       name: manometcurrent.com
       domain: manometcurrent.com
     quality: 30
-  - title: "AI Governance Market Growing Popularity & Emerging Trends | IBM Corporation, Google, Microsoft, Facebook, SAP SE"
-    excerpt: "Global AI governance market is growing at a healthy CAGR of 33.7% during the forecast period of 2019 to 2026. The upcoming market report contains data for historic years 2017, the base year of calculation is 2018 and the forecast period is 2019 to 2026."
-    publishedDateTime: 2021-06-29T11:44:00Z
-    webUrl: "https://manometcurrent.com/ai-governance-market-growing-popularity-emerging-trends-ibm-corporation-google-microsoft-facebook-sap-se/"
-    type: article
-    provider:
-      name: manometcurrent.com
-      domain: manometcurrent.com
-    quality: 15
   - title: "Artificial Intelligence in IoT Market Size and Growth 2021-2028 | Top Leading Players – IBM, Microsoft, Google, PTC, AWS, Oracle, GE, Salesforce"
     excerpt: "The report titled Artificial Intelligence in IoT Market is a comprehensive document containing valuable insights into market elements such as drivers, restraints, competitive landscape, and technology development."
     publishedDateTime: 2021-06-30T06:03:00Z
@@ -71,15 +53,6 @@ related:
       name: manometcurrent.com
       domain: manometcurrent.com
     quality: 14
-  - title: "Voice Recognition Software Market May Set New Growth Story | E-speaking, Nuance, Talktyper, Microsoft, Google"
-    excerpt: "The latest research on “Global Voice Recognition Software Report 2021” offered by HTF MI provides a comprehensive investigation into the geographical landscape, industry size along with the revenue estimation of the business."
-    publishedDateTime: 2021-07-01T17:34:00Z
-    webUrl: "https://ksusentinel.com/2021/07/01/voice-recognition-software-market-may-set-new-growth-story-e-speaking-nuance-talktyper-microsoft-google/"
-    type: article
-    provider:
-      name: The Sentinel
-      domain: ksusentinel.com
-    quality: 2
 
 secured: "V2R1rerOYa7giTUeqr/TcJaXJGWmkQX1ph2k1nEtyTaiyrm2AO1uge8+hHfqqKJNXtNbXddDrmAsM94sBFa6AoBNrNNlMSAdHwGTujs1xMt0C5xQZS4AkRu198zBfk+VoRuGpU+EOBCTxS631RdXpTmnhgQpRpFmQ8FeWj+zJ6W2b6c9+KwLL323tCKs5VVOpVbvctVIBSIEQg7wf0QIZw61oRy9LHnT/Nh+pCwvtRmdgumNz3/DMK9lP8T+2V/y7vFuXx5oE9nxRqbha0cwcK63VzJG5QsoqMibWTGiicW0JX2wOAbE08Zbr+K4bHi1sSek5RUtg51G2EQh9YmVyhBOfBK1dEf+f2/MjxsM1hE=;17/ZWqYRlSI0I+u7B/si+g=="
 ---

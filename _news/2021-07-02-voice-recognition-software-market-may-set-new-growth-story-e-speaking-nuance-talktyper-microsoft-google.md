@@ -20,22 +20,33 @@ topics:
   - Microsoft AI
 
 related:
-  - title: "Natural Language Processing Market May Set a New Epic Growth Story | Microsoft, IBM, Google"
-    excerpt: "Advance Market Analytics published a new research publication on Natural Language Processing Market Insights to 2026 with 232 pages and enriched with self explained Tables and charts in presentable format In the Study you will find new evolving Trends Drivers"
-    publishedDateTime: 2021-06-29T14:53:00Z
-    webUrl: "https://www.openpr.com/news/2316846/natural-language-processing-market-may-set-a-new-epic-growth"
-    ampWebUrl: "https://www.openpr.com/amp/2316846/natural-language-processing-market-may-set-a-new-epic-growth"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2316846/natural-language-processing-market-may-set-a-new-epic-growth"
+  - title: "Finance Ministry, Microsoft join hands to build AI, emerging tech centre"
+    excerpt: "The collaboration between AJNIFM and Microsoft is meant to explore the role of cloud, AI and emerging technologies in transforming and shaping the future of public finance management in India"
+    publishedDateTime: 2021-07-02T00:57:00Z
+    webUrl: "https://www.livemint.com/news/india/finance-ministry-microsoft-join-hands-to-build-ai-emerging-tech-centre-11625144900167.html"
+    ampWebUrl: "https://www.livemint.com/news/india/finance-ministry-microsoft-join-hands-to-build-ai-emerging-tech-centre/amp-11625144900167.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/news/india/finance-ministry-microsoft-join-hands-to-build-ai-emerging-tech-centre/amp-11625144900167.html"
     type: article
     provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 66
+      name: Mint
+      domain: livemint.com
+    quality: 90
     images:
-      - url: "https://cdn.openpr.com/U/6/U629676321_g.jpg"
-        width: 450
-        height: 300
+      - url: "https://images.livemint.com/img/2021/07/01/600x338/mou_1625145073756_1625145095525.jpg"
+        width: 600
+        height: 338
         isCached: true
+  - title: "Hexaware, Microland, and Mindtree get Top Honors at Microsoft India Incubathon 2021"
+    excerpt: "Microsoft India announced winners of the Incubathon 2021, a unique industry innovation garage program for its partner organizations."
+    publishedDateTime: 2021-07-01T07:25:00Z
+    webUrl: "https://www.pcquest.com/hexaware-microland-mindtree-get-top-honors-microsoft-india-incubathon-2021/"
+    ampWebUrl: "https://www.pcquest.com/hexaware-microland-mindtree-get-top-honors-microsoft-india-incubathon-2021/amp/"
+    cdnAmpWebUrl: "https://www-pcquest-com.cdn.ampproject.org/c/s/www.pcquest.com/hexaware-microland-mindtree-get-top-honors-microsoft-india-incubathon-2021/amp/"
+    type: article
+    provider:
+      name: PCQuest
+      domain: pcquest.com
+    quality: 33
   - title: "AI Image Recognition – Market Boosting the Growth Worldwide: Google, Microsoft, IBM"
     excerpt: "Advance Market Analytics published a new research publication on “AI Image Recognition Market Insights, to 2026″ with 232 pages and enriched with self-explained Tables and charts in presentable format."
     publishedDateTime: 2021-06-30T15:18:00Z
@@ -45,24 +56,6 @@ related:
       name: manometcurrent.com
       domain: manometcurrent.com
     quality: 30
-  - title: "Natural Language Processing (NLP) in Healthcare is anticipated to show growth by 2026 | 3M ,Cerner ,Averbis ,IBM Corporation ,Microsoft Corporation"
-    excerpt: "The up-to-date coverage of the latest report Natural Language Processing (NLP) in Healthcare Market provides a detailed synopsis as well as a consistent evaluation of accurate revenue over the forecasted timespan."
-    publishedDateTime: 2021-07-01T16:25:00Z
-    webUrl: "https://manometcurrent.com/natural-language-processing-nlp-in-healthcare-is-anticipated-to-show-growth-by-2026-3m-cerner-averbis-ibm-corporation-microsoft-corporation/"
-    type: article
-    provider:
-      name: manometcurrent.com
-      domain: manometcurrent.com
-    quality: 30
-  - title: "Artificial Intelligence Platform Market 2021 Comprehensive Insights – Google, Baidu, IBM, Microsoft, SAP, Intel, Salesforce, Brighterion"
-    excerpt: "The global Artificial Intelligence Platform market size is projected to reach US$ 185710 million by 2027, from US$ 16960 million in 2020, at a CAGR of 39.5% during 2021-2027. Top Leading Companies of Global Artificial Intelligence Platform Market are Google,"
-    publishedDateTime: 2021-07-01T05:04:00Z
-    webUrl: "https://ksusentinel.com/2021/07/01/artificial-intelligence-platform-market-2021-comprehensive-insights-google-baidu-ibm-microsoft-sap-intel-salesforce-brighterion/"
-    type: article
-    provider:
-      name: The Sentinel
-      domain: ksusentinel.com
-    quality: 16
   - title: "AI Governance Market Growing Popularity & Emerging Trends | IBM Corporation, Google, Microsoft, Facebook, SAP SE"
     excerpt: "Global AI governance market is growing at a healthy CAGR of 33.7% during the forecast period of 2019 to 2026. The upcoming market report contains data for historic years 2017, the base year of calculation is 2018 and the forecast period is 2019 to 2026."
     publishedDateTime: 2021-06-29T11:44:00Z
@@ -72,15 +65,6 @@ related:
       name: manometcurrent.com
       domain: manometcurrent.com
     quality: 15
-  - title: "Artificial Intelligence in IoT Market Size and Growth 2021-2028 | Top Leading Players – IBM, Microsoft, Google, PTC, AWS, Oracle, GE, Salesforce"
-    excerpt: "The report titled Artificial Intelligence in IoT Market is a comprehensive document containing valuable insights into market elements such as drivers, restraints, competitive landscape, and technology development."
-    publishedDateTime: 2021-06-30T06:03:00Z
-    webUrl: "https://manometcurrent.com/artificial-intelligence-in-iot-market-size-and-growth-2021-2028-top-leading-players-ibm-microsoft-google-ptc-aws-oracle-ge-salesforce/"
-    type: article
-    provider:
-      name: manometcurrent.com
-      domain: manometcurrent.com
-    quality: 14
 
 secured: "92ESlPPd/ZsUyG65kqfP5lnCkH7n7nij7fWEmopqcoYryrjyKcBad6efVfb26QipcW9M451xp+fnGu2YGalk5ivfNNRfQFI5pVSxV/2D99r+0j1SlVUBmQ0DXYj4TJXWQc0MTnZwtJH4wKyFinKtizHx3rqVXQ4bQh1k/77cEszrshH+d0Q39NVEBZbEeoGZW/mFmNILD3bK6zXVcs2z9NyWSVqvvpB2aGaqX9DWhvzhAqa+TkxKxOMzGWTxoIjjzMQvOuMnAPRo/mQwL8/4+KlMQKz/MuYIa1RZ6VRTnxz55nwsvaIfAPIKTIQcIYC6RlznxyQlSrzkfG1n4MNFjwfNXv1ezNDCfWsZBu1qT3E=;qh3Ol0Bi0KNkDthKOPO+zw=="
 ---

@@ -20,34 +20,82 @@ topics:
   - AI
 
 related:
-  - title: "Artificial Intelligence (AI) Chips Market in Communications Equipment Industry | Technavio"
-    excerpt: "The artificial intelligence (AI) chips market is expected to grow by USD 73.49 billion at over 51% CAGR during 2021-2025, according to"
-    publishedDateTime: 2021-06-29T01:45:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/artificial-intelligence-ai-chips-market-in-communications-equipment-industry--technavio-301321404.html"
+  - title: "GCC Artificial Intelligence Market 2021-26: Industry Trends, Size, Share, Analysis and Forecast Report"
+    excerpt: "According to IMARC Group's latest report, titled \"GCC Artificial Intelligence Market: Industry Trends, Share, Size, Growth, Opportunity and Forecast 2021-2026,\" the GCC artificial intelligence market grew at a CAGR of around 24% during 2015-2020."
+    publishedDateTime: 2021-07-01T12:39:00Z
+    webUrl: "https://www.marketwatch.com/press-release/gcc-artificial-intelligence-market-2021-26-industry-trends-size-share-analysis-and-forecast-report-2021-07-01"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 59
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 55
     images:
-      - url: "https://mma.prnewswire.com/media/1551721/Artificial_Intelligence_Chips.jpg?p=facebook"
-        width: 1280
-        height: 670
-        isCached: true
-  - title: "Artificial Intelligence-as-a-Service (AIaaS) Market in Application Software Industry | Technavio"
-    excerpt: "Technavio forecasts the global artificial intelligence-as-a-service (AIaaS) market to grow by USD 14.70 billion during 2021-2025. The report offers a comprehensive analysis of the artificial intelligence-as-a-service (AIaaS) market including the impact of the COVID-19 pandemic on market vendors."
-    publishedDateTime: 2021-06-29T01:00:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/artificial-intelligence-as-a-service-aiaas-market-in-application-software-industry-technavio/article_ac961e6c-bec0-5df1-b30e-af258e1b5da3.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 39
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/7/50/75055078-05ef-5bbe-bb00-9dc6fbfaaded/60da713b84455.image.jpg?resize=1200%2C585"
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
-        height: 585
+        height: 630
         isCached: true
+  - title: "AI Recruitment Market Size , Growth, Opportunities during 2021- 2027 | SAP SE, Zoho Corporation, Googl, IBM Corporation"
+    excerpt: "AI Recruitment Market is growing at a 6 CAGR during the forecast period 2020 2026 The increasing interest of the individuals in this industry is that the major reason for the expansion of this market The growing demand for predictive"
+    publishedDateTime: 2021-06-27T15:05:00Z
+    webUrl: "https://www.openpr.com/news/2314807/ai-recruitment-market-size-growth-opportunities-during-2021"
+    ampWebUrl: "https://www.openpr.com/amp/2314807/ai-recruitment-market-size-growth-opportunities-during-2021"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2314807/ai-recruitment-market-size-growth-opportunities-during-2021"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 33
+    images:
+      - url: "https://cdn.openpr.com/U/6/U627356303_g.jpg"
+        width: 665
+        height: 435
+        isCached: true
+  - title: "Global Natural Language Processing in BFSI Market Size, Status and Forecast 2021-2027"
+    excerpt: "Pages Report] Check for Discount on Global Natural Language Processing in BFSI Market Size, Status and Forecast 2021-2027 report by QYResearch Group. Market Analysis and Insights: Global Natural Language Processing in"
+    publishedDateTime: 2021-06-30T07:41:00Z
+    webUrl: "https://www.reportsnreports.com/reports/4624367-global-natural-language-processing-in-bfsi-market-size-status-and-forecast-2021-2027.html"
+    type: article
+    provider:
+      name: ReportsnReports
+      domain: reportsnreports.com
+    quality: 12
+  - title: "Global Natural Language Processing in BFSI Market 2021 In-Depth Analysis, Data Synthesis, Growth Objectives and Forecast to 2026"
+    excerpt: "MRInsightsbiz has published a new report titled Global Natural Language Processing in BFSI Market Growth Status and Outlook 2021-2026"
+    publishedDateTime: 2021-06-29T04:03:00Z
+    webUrl: "https://www.bignewsnetwork.com/news/270095346/global-natural-language-processing-in-bfsi-market-2021-in-depth-analysis-data-synthesis-growth-objectives-and-forecast-to-2026"
+    type: article
+    provider:
+      name: Big News Network.com
+      domain: bignewsnetwork.com
+    quality: 10
+    images:
+      - url: "https://cdn.bignewsnetwork.com/cus1624945336116.jpg"
+        width: 630
+        height: 420
+        isCached: true
+  - title: "Latest Study: Voice And Speech Recognition Market: Growth, Revenue, Business Outlook & Forecast 2021-2027 | Download Sample Report"
+    excerpt: "Voice And Speech Recognition Industry is going to play an increasingly important role in the coming years, Market Predicts High CAGR between 2020 and 2027. Breaking down the global trend Voice And Speech Recognition Market currently leading in Europe,"
+    publishedDateTime: 2021-06-30T12:13:00Z
+    webUrl: "https://ksusentinel.com/2021/06/30/latest-study-voice-and-speech-recognition-market-growth-revenue-business-outlook-forecast-2021-2027-download-sample-report/"
+    type: article
+    provider:
+      name: The Sentinel
+      domain: ksusentinel.com
+    quality: 9
+    images:
+      - url: "https://www.newstypical.com/wp-content/uploads/2021/06/Request-Full-text-report-sample-copy.png"
+        width: 772
+        height: 270
+        isCached: true
+  - title: "Global Artificial Intelligence For IT Operations Platform Market Size, Status and Forecast 2021-2027"
+    excerpt: "Pages Report] Check for Discount on Global Artificial Intelligence For IT Operations Platform Market Size, Status and Forecast 2021-2027 report by QYResearch Group. Market Analysis and Insights: Global Artificial Intelligence For IT"
+    publishedDateTime: 2021-06-30T07:49:00Z
+    webUrl: "https://www.reportsnreports.com/reports/4624374-global-artificial-intelligence-for-it-operations-platform-market-size-status-and-forecast-2021-2027.html"
+    type: article
+    provider:
+      name: ReportsnReports
+      domain: reportsnreports.com
+    quality: 2
 
 secured: "hdDI7TYZqvlTzdvlzOW1Dx5iXJCWKnY2PeQju6jjGD+n24EgtkLTV15dLZv+c4ydkreFzoeNyBEaRCJ1XGvdcXP5+PUQCeIEdso5Lu5DSrlLlyipVs9UvaDinNqKWge7aYlW0vnorENC63Yt+WMg/hZH10oLzAhCcAh8DEYyD2NA/N48gLxwgR2iVi+ljNAfcmwTaXr/BLH+1fuyaivfJSTvPZGIEpplnmWa4kEUKIYneGILmMnL0oMa4CKpW2vgxRhIHdxbtGxNaLQo2twsgW8QYpDojqh/R0i7ulZ3zkoKRPN/Z+npvB+muaPWs0t5B/v2DRJ88XTo9hgpqlhfNi2KRS+q+k7vW6Z06UN9MW8=;om/5fdbs1u51JvEJhBHBXg=="
 ---

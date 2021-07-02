@@ -3,12 +3,12 @@ category: news
 title: "Graphcore brings new competition to Nvidia in latest MLPerf AI benchmarks"
 excerpt: "Graphcore’s score in BERT natural language training was the best score of any of the two-socket AMD systems submitted."
 publishedDateTime: 2021-06-30T10:00:00Z
-originalUrl: "https://www.zdnet.com/article/graphcore-brings-new-competition-to-nvidia-in-latest-mlperf-ai-benchmarks/"
-webUrl: "https://www.zdnet.com/article/graphcore-brings-new-competition-to-nvidia-in-latest-mlperf-ai-benchmarks/"
-ampWebUrl: "https://www.zdnet.com/google-amp/article/graphcore-brings-new-competition-to-nvidia-in-latest-mlperf-ai-benchmarks/"
-cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/graphcore-brings-new-competition-to-nvidia-in-latest-mlperf-ai-benchmarks/"
+originalUrl: "https://www.zdnet.com/index.php/article/graphcore-brings-new-competition-to-nvidia-in-latest-mlperf-ai-benchmarks/"
+webUrl: "https://www.zdnet.com/index.php/article/graphcore-brings-new-competition-to-nvidia-in-latest-mlperf-ai-benchmarks/"
+ampWebUrl: "https://www.zdnet.com/index.php/google-amp/article/graphcore-brings-new-competition-to-nvidia-in-latest-mlperf-ai-benchmarks/"
+cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/google-amp/article/graphcore-brings-new-competition-to-nvidia-in-latest-mlperf-ai-benchmarks/"
 type: article
-quality: 86
+quality: 88
 heat: -1
 published: false
 
@@ -21,6 +21,7 @@ provider:
       height: 50
 
 topics:
+  - Natural Language Processing
   - AI
 
 images:
@@ -193,6 +194,6 @@ related:
       domain: tmcnet.com
     quality: 9
 
-secured: "N6Hj2Vy9fzuOvbp2zMDHVHKA3TDNCCvF9LqPbkB6ahMwIz54OFwgSE6G1QhCd6/3XsMqm+ku0BWafpeNc8Iq6FyZOFAlFPU+JA/4maQkm0J+9qACJPGtXIF1y5BaezMLpC49KM2pnHKMbe56b/BBqixoZtw64Qm5J5fY6U+wpGx6ipyzdrxPQaDRqo0mLa/VE+8I/jmuVDRJGjmphy2mu+pjoArvdc8nhzkJtRIoHDS+IklCZUAkHKQ2NArn6dMo43LV2JukfdmtBcakPnSqZgzcNhtPadA3djS+MI7e+P0z9PKBQzQzk0trZvo7Z0fF59hgfi8lcao1Hc4J6caL+hVaSdg22v7x6mOWJkolqDI=;UvoUOtXmovl7vpQYb+ozag=="
+secured: "l/Xr12Bk/udU8dmt70zSZII9Ee4Vq2GdMARAfWFPQP3tFYGsLc7aBJSgUGSWG1XcN+ntE6aHaeKLpSp8uVBPAyDZOY1TBuWmN8RbseO/hiLRbA9RKLIMeXtx6qCTZNx38D1KTpDt4U+4Oal83HmaWEDyE9PfUv3+jDKDMouqPynwP/BtHNShXVGxHuIxhrL+ZsSsI7DFQHUWBkva/wKN5RTomSPiSYhAyi4slZ3YgH6r9FKNl4RmUPyFpNpsrPyvvKu+uJRq/++Myt0yAJ6GqZaRfrPSQqD5CbexW+mxn88bYAuKCZ5yRX/pcc0j7bD/E/v9A6YG4b8u5GYUkWWNevrNFoVGeHXh0/445+EyW8g=;HY+VxLjJ6OXBtZGHpNPK4w=="
 ---
 

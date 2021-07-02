@@ -7,7 +7,7 @@ originalUrl: "https://www.businessinsider.com/hypersonix-35-million-oracle-sap-b
 webUrl: "https://www.businessinsider.com/hypersonix-35-million-oracle-sap-b-capital-2021-6"
 type: article
 quality: 51
-heat: 51
+heat: -1
 published: false
 
 provider:
@@ -26,6 +26,24 @@ images:
     width: 1200
     height: 602
     isCached: true
+
+related:
+  - title: "AI startup Hypersonix valuation quadruples after $35 million funding"
+    excerpt: "Hypersonix plans to use the funding for building its Commerce AI infrastructure further, while also focusing on expanding sales and marketing footprint globally, co-founder Rama Rao says."
+    publishedDateTime: 2021-07-02T01:31:00Z
+    webUrl: "https://economictimes.indiatimes.com/tech/funding/ai-startup-hypersonix-valuation-quadruples-after-35-million-funding/articleshow/84047082.cms"
+    ampWebUrl: "https://m.economictimes.com/tech/funding/ai-startup-hypersonix-valuation-quadruples-after-35-million-funding/amp_articleshow/84047082.cms"
+    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/funding/ai-startup-hypersonix-valuation-quadruples-after-35-million-funding/amp_articleshow/84047082.cms"
+    type: article
+    provider:
+      name: India Times
+      domain: indiatimes.com
+    quality: 57
+    images:
+      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-636285,msid-84047033/hypersonix.jpg"
+        width: 600
+        height: 450
+        isCached: true
 
 secured: "0Nv3+u4TOs52VZbC9rbLjb2mTu/YIqT51xtztKileYnFkmUNOzyFgn9XQ5iECY/RcmRQXod2jEV/ByOGC8daEAOjfWoQixMQW/HKxK33a7BSi3bXxoyRypAcmBehOwphUOtpH2xAQuPWSbyA+p6F4xx2WgSe/ZTudFg8kWIM4KYxcCV4uNMK0nO7I/6laG+debtTsyWQX2q+RM7li6SMl7uhxLI7OPrmdBm5pqkqi1GBZQnF8hfGQ2ZJNRbV5iCga+SdLRMLbCytZYyr2slc0vtE3zLUXnIH2YER8mmpC6wCG666zseXhnUhrtVQcWrnzoP25vNZUW3TlJ48qAbZOwc/gK5f6TTVODEHHjf5XnXZ29RyaAFTR8tWr7SPxgn+C/BmlWKbWQcUdhUWQDhPF5x7aKVOKF3Tz7MbUvEl9OhyZtXkgfEwn/qqeTIhRT/GjgAcVDF7NeJxvanj3wvb91z2QI0NemuxqwcRiHy0RvnfuWJynK1TPuc5bFTcHjEe7lzhhw7iYNdDsFhMXRl0OA==;3E2lvB+gKW+K4LMKNSc22g=="
 ---

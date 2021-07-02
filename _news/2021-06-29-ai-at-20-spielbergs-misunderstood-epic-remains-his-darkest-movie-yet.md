@@ -3,8 +3,8 @@ category: news
 title: "AI at 20: Spielberg’s misunderstood epic remains his darkest movie yet"
 excerpt: "The odd combination of Stanley Kubrick and Steven Spielberg brings a unique quality to this heartbreaking story of a robot in search of love"
 publishedDateTime: 2021-06-29T05:31:00Z
-originalUrl: "https://www.theguardian.com/film/2021/jun/29/ai-20th-anniversary-steven-spielberg?utm_medium%EF%BF%BDcebook=&fbclid=IwAR2BS8V8oErB8KmIH0cDXBKYxzUuTiTXJ3H24hh6b8y56S-M-O4i6m58nJI"
-webUrl: "https://www.theguardian.com/film/2021/jun/29/ai-20th-anniversary-steven-spielberg?utm_medium%EF%BF%BDcebook=&fbclid=IwAR2BS8V8oErB8KmIH0cDXBKYxzUuTiTXJ3H24hh6b8y56S-M-O4i6m58nJI"
+originalUrl: "https://www.theguardian.com/film/2021/jun/29/ai-20th-anniversary-steven-spielberg"
+webUrl: "https://www.theguardian.com/film/2021/jun/29/ai-20th-anniversary-steven-spielberg"
 ampWebUrl: "https://amp.theguardian.com/film/2021/jun/29/ai-20th-anniversary-steven-spielberg"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/film/2021/jun/29/ai-20th-anniversary-steven-spielberg"
 type: article
@@ -29,6 +29,6 @@ images:
     height: 360
     isCached: true
 
-secured: "WEI0RGwBlUpLQS5g3ghirdP7YIwoe56JOHadm1ciiXuNOpTxoZX1mLrk30M4KpBLbWPVSrfy7bgFTsKr02hA3V/q17Z+/lzEPe8ng047D9h/lmHPMtp4gVeD0ujcUtLL3eWqU5XYNOeGXjHQWIfXx6TNBhQjqh8Om1T/ErWV5ClZFu2SP15pNHe6mMYSaRTUE9NIA0XIkZzVxqHKRgmgATSQjeRAgBD0O+N8+Aer126PD2fgtcKXvm003Gx04gVjZJ29QiW430tASNEKlwRaU+NJBm0VPIMOHdpQ+756mlavdSCjYXiZ35QEkdE65xuXdd5MpDZXtnOoEWeef9s2WUz+LABh3T+ctqHbWmA8YaI=;D0kOv38XP4UkBKo9vBzS8A=="
+secured: "LtizAZwiNTEOD7RMr2jlLfyOpHvLJte0S+G5nLRiFx5KbplDJPegRF+wcFJbDLR/b4fX7MsZ0XEyFEr0iNSs4ZVg0aVxcJ2hJdUfGburUpwr+NuahkOKU4JeWmQXba3LxN16DmvJ+ueIkz7W2suYS3/iXyY8aBAPoTwxRcgJwSaUHliMrkm4FWUP7XJRyufMaFczX6BW4LMHHAtqWSYu6hlKVSr836cC5jAl1Y4XdX4TIPMVbFvSoso1Wc2cIMwR3lahqTkgduHxINSK30/9qMnvf8AvsJcE/nfXRpldxX2UFc7L3ZO5zHEJp2O6DRrdwF/w6UNahdKsq9GU94XwVrw2+UcX8HT26CpehUAdpK0=;CWNh3LFvP5VtJ1rMbolBMw=="
 ---
 

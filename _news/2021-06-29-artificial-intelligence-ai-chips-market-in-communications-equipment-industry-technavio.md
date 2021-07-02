@@ -1,27 +1,26 @@
 ---
 category: news
 title: "Artificial Intelligence (AI) Chips Market in Communications Equipment Industry | Technavio"
-excerpt: "The artificial intelligence (AI) chips market is expected to grow by USD 73.49 billion at over 51% CAGR during 2021-2025, according to"
-publishedDateTime: 2021-06-29T01:45:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/artificial-intelligence-ai-chips-market-in-communications-equipment-industry--technavio-301321404.html"
-webUrl: "https://www.prnewswire.com/news-releases/artificial-intelligence-ai-chips-market-in-communications-equipment-industry--technavio-301321404.html"
+excerpt: "According to Technavio, the COVID-19 pandemic will have a positive impact on the growth of the artificial intelligence (AI) chips market. The report expects the market value to increase in 2021 as compared to 2020."
+publishedDateTime: 2021-06-29T01:49:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-artificial-intelligence-ai-chips-market-communications-equipment-industry-/2021/06/28/9399133.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-artificial-intelligence-ai-chips-market-communications-equipment-industry-/2021/06/28/9399133.htm"
 type: article
-quality: 59
-heat: 79
-published: true
+quality: 42
+heat: 42
+published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
-  - AI Hardware
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/1551721/Artificial_Intelligence_Chips.jpg?p=facebook"
-    width: 1280
-    height: 670
+  - url: "https://mma.prnewswire.com/media/1441766/Technavio_Logo.jpg"
+    width: 400
+    height: 400
     isCached: true
 
 related:
@@ -39,18 +38,7 @@ related:
         width: 1200
         height: 585
         isCached: true
-  - title: "Artificial Intelligence in Telecommunication Market Size, Share 2020, Impressive Industry Growth Report 2027"
-    excerpt: "The global Artificial Intelligence by Telecom market size was valued at USD 679 million in 2019 and is projected to grow at a CAGR of 38 from 2021 to 2027 Telecommunications is one of the fastest growing industries using AI"
-    publishedDateTime: 2021-06-28T12:00:00Z
-    webUrl: "https://www.openpr.com/news/2315358/artificial-intelligence-in-telecommunication-market-size"
-    ampWebUrl: "https://www.openpr.com/amp/2315358/artificial-intelligence-in-telecommunication-market-size"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2315358/artificial-intelligence-in-telecommunication-market-size"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 18
 
-secured: "LF7E1Ye+vBtHiC/tAsqFQwji437If6xzOQVEESG4wdkMrRmxECo5hwFRPQ+G3LKOH7YFay7FAnXxFcicRCmQc9DmwV8cO76M55Zj4/NUAD7b1Lvh49LEgkdU/hk9TE3snnuSajL0I7dtDMP/HdXZk0D6B9CdLqdNn1jX5+aUyujYEbOH0eY7qqOiAbIFY4DyUyvwwTa//KXSSqXbV8/l6HMFbwoLfAl8KVVuOWtFBG04gbKnV+UWuaqlsV9tIXbzeBFi9fq/X9a52N9h/TlZsbX1FiIl40DJlBNzSuzOjlWr0XgbEKqzGsvFjyGXT+aNoQL65p3exvo0f0TWI6XO5RB8Vta+Rra4XbbnoTRMzyUzZaXpBUf/KqNLZPf8T5vr2DM/AXKDgxM0D2WtrPLsbCJh8QXkN6BElawO7nKhNTTO4wJtD48dXK6TGLEsqzmmu/lObFnj4u0Qmp+tnYX97wUladwQ0Wd2J8iPeCDs1g+unQWaKaILbJTOktfDJLar15w0FxshG0wPMHuRCAKtIw==;pMIVsXZsJOP1hnbVlquzTQ=="
+secured: "Mvk/Q7z+k2Vt+VdecwJ30wPu5Ppsgg4fPNUz8IMuGeYD+Ul+upqRlKC/LCTS825IfzTHBHJ3fZKV3bsgvOQNYzddGQalvuMGH3mMFgNBCZ5KAIHeurW8k9KhRCuZl5EVkl9RDgVI9wS0ZFJ1JBN9JsALq6UWiuDcKXac+zoVqGKYfLHGtpGtwhQcLRsR+Ngw340/tSU6i8dG4YTccNvJ4e02nYF/t5hunabA947z6dqr11bNCONioWfbfGT48MWZPlmZaePHjcTKvZWS8ev/EiMcotGp/GUEjBXfU31jDYw8i8bxM/IPkmmIW7J+8oErukMGdkjJu3nMHp+GPjp6+4xO/pz2nhawxNHGkWe/ZRw=;1jNcieYPreSIJYvakk0nvA=="
 ---
 
