@@ -2,6 +2,41 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-06-08-using-watson-to-diagnose-skin-cancer-interview-with-ibm-computer-vision-scientist-noel-codella.md",
+      "title": "Using Watson to Diagnose Skin Cancer: Interview with IBM Computer Vision Scientist, Noel Codella",
+      "excerpt": "Thankfully, researchers at IBM have been studying how to take ... our own experimentation on using machine learning and artificial intelligence to see how well we can get this system to recognize ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.medgadget.com/2017/06/using-watson-diagnose-skin-cancer-interview-ibm-computer-vision-scientist-noel-codella.html",
+      "originalUrl": "https://www.medgadget.com/2017/06/using-watson-diagnose-skin-cancer-interview-ibm-computer-vision-scientist-noel-codella.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-07T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medgadget",
+        "domain": "medgadget.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
       "path": "_news/2021-06-08-computer-vision-firm-grabango-raises-39m-in-new-funding.md",
       "title": "Computer Vision Firm Grabango Raises $39M in New Funding",
       "excerpt": "The technology that allows retail stores to offer checkout-free shopping is coming to 4 additional Giant Eagle outlets this year.",
@@ -1289,40 +1324,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-28-the-edge-ai-and-vision-alliance-announces-the-2021-vision-tank-start-up-competition-winners-at-the-embedded-vision-summit.md",
-      "title": "The Edge AI and Vision Alliance Announces the 2021 Vision Tank Start-Up Competition Winners at the Embedded Vision Summit",
-      "excerpt": "The Edge AI and Vision Alliance today announced the two winners of this year's Vision Tank Start-Up Competition. The",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/21/05/n21342638/the-edge-ai-and-vision-alliance-announces-the-2021-vision-tank-start-up-competition-winners-at-the",
-      "originalUrl": "https://www.benzinga.com/pressreleases/21/05/n21342638/the-edge-ai-and-vision-alliance-announces-the-2021-vision-tank-start-up-competition-winners-at-the",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.benzinga.com/amp/content/21342638",
-      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/21342638",
-      "publishedDateTime": "2021-05-28T09:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

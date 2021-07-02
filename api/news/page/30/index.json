@@ -2,6 +2,49 @@
   "page": 30,
   "value": [
     {
+      "path": "_news/2021-06-09-analysis-as-ai-based-loan-apps-boom-in-india-some-borrowers-miss-out.md",
+      "title": "ANALYSIS-As AI-based loan apps boom in India, some borrowers miss out",
+      "excerpt": "As the founder of a consumer rights non-profit in India, Karnav Shah is used to seeing sharp practices and disgruntled customers. But even he has been surprised by the sheer volume of complaints against digital lenders in recent years.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/india-tech-financing-idUSL5N2NK4XL",
+      "originalUrl": "https://www.reuters.com/article/india-tech-financing-idUSL5N2NK4XL",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSL5N2NK4XL",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL5N2NK4XL",
+      "publishedDateTime": "2021-06-08T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-09-element-adds-aws-integration-for-industrial-sensor-data.md",
       "title": "Element adds AWS integration for industrial sensor data",
       "excerpt": "Element is launching an API integration between its Element Unify software and AWS IoT SiteWise to contextualize industrial sensor data.",
@@ -1100,40 +1143,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-08-voiceitt-launches-state-of-the-art-speech-recognition-app-to-empower-communication-for-individuals-with-speech-impairments.md",
-      "title": "Voiceitt Launches State-of-the-Art Speech Recognition App to Empower Communication for Individuals with Speech Impairments",
-      "excerpt": "Voiceitt, a leading speech recognition company for non-standard speech, today announced the launch of its app, which is available here on the Apple Store. The Voiceitt app can be downloaded for free by individuals or in volume by institutions,",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/-voiceitt-launches-state-of-the-art-speech-recognition-/2021/06/08/9386042.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/-voiceitt-launches-state-of-the-art-speech-recognition-/2021/06/08/9386042.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-08T06:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

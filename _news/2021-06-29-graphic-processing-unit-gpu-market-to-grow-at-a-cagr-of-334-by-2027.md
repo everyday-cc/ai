@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/graphic-processing-unit-
 webUrl: "https://www.marketwatch.com/press-release/graphic-processing-unit-gpu-market-to-grow-at-a-cagr-of-334-by-2027-2021-06-29"
 type: article
 quality: 69
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -29,6 +29,20 @@ images:
     isCached: true
 
 related:
+  - title: "Graphic Processing Unit (GPU) Market Worth Over US$ 198.77 Bn by 2027: Precedence Research"
+    excerpt: "The market for Graphic Processing Unit (GPU) is expected to grow at a CAGR of around 33.4% from 2020 to 2027 and is expected to reach a market size of around US$ 198.77 Bn by 2027. This research report evaluates the Graphic Processing Unit (GPU) market on a global and regional level."
+    publishedDateTime: 2021-07-01T11:54:00Z
+    webUrl: "https://www.marketwatch.com/press-release/graphic-processing-unit-gpu-market-worth-over-us-19877-bn-by-2027-precedence-research-2021-07-01"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 59
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Global Artificial Intelligence Market Size 2021 Rise at 35.6% CAGR, Will Grow to USD 299.64 Billion by 2026: Facts & Factors"
     excerpt: "\"According to the recent research report, the demand of global Artificial Intelligence Market size & share expected to reach to USD 299.64 Billion by 2026 from USD 29.86 Billion in 2020, at a compound annual growth rate (CAGR) of 35."
     publishedDateTime: 2021-06-28T13:11:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2021/06/29/zoom-to-acquire-german-startup-to-
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/06/29/zoom-to-acquire-german-startup-to-bring-real-time-translation-to-meetings/amp/"
 type: article
 quality: 171
-heat: 301
+heat: 311
 published: true
 
 provider:
@@ -141,6 +141,22 @@ related:
       - url: "https://etimg.etb2bimg.com/thumb/msid-84014047,imgsize-23430,width-800,height-434,overlay-etcio/zoom-buys-ai-company-that-worked-on-real-time-translation.jpg"
         width: 800
         height: 434
+        isCached: true
+  - title: "Zoom buys German AI translation company"
+    excerpt: "The deal will expand the app’s speech-to-text feature, one of the biggest challenges in artificial intelligence research."
+    publishedDateTime: 2021-07-02T06:36:00Z
+    webUrl: "https://www.thehindu.com/sci-tech/technology/zoom-buys-german-ai-translation-company/article35091961.ece"
+    ampWebUrl: "https://www.thehindu.com/sci-tech/technology/zoom-buys-german-ai-translation-company/article35091961.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/zoom-buys-german-ai-translation-company/article35091961.ece/amp/"
+    type: article
+    provider:
+      name: The Hindu
+      domain: thehindu.com
+    quality: 59
+    images:
+      - url: "https://www.thehindu.com/sci-tech/technology/lv4im/article35091997.ece/ALTERNATES/LANDSCAPE_615/Zoom-spl-arrangementjpg"
+        width: 615
+        height: 384
         isCached: true
   - title: "Zoom investing in real-time translation following acquisition of AI company"
     excerpt: "Zoom on Tuesday announced the acquisition of Kites (or Karlsruhe Information Technology Solutions), a company focused on artificial intelligence software to transcribe and translate conversations. Following the acquisition,"

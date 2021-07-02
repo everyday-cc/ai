@@ -25,35 +25,89 @@ images:
     isCached: true
 
 related:
-  - title: "Global AI in Fintech Market Size, Share to Expand At 17.1% CAGR Through 2025"
-    excerpt: "Selbyville, Delaware, The AI in Fintech market study now available with Market Study Report, LLC, is a collation"
-    publishedDateTime: 2021-07-01T11:34:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-ai-in-fintech-market-size-share-to-expand-at-171-cagr-through-2025-2021-07-01"
+  - title: "Artificial Intelligence (AI) Chipsets Market Latest Industry Trends, Industry Size, Key Drivers and Future Demand Forecast"
+    excerpt: "The global artificial intelligence (AI) chipsets market size is expected to reach USD 108.85 billion by 2027, exhibiting"
+    publishedDateTime: 2021-07-02T04:57:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chipsets-market-latest-industry-trends-industry-size-key-drivers-and-future-demand-forecast-2021-07-02"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 66
+    quality: 75
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "In The Push Against Cash, Cannabis FinTech Meets The Industry Where It Is"
-    excerpt: "Dama Financial discusses the importance of offering cannabis businesses a choice between preserving cash processes and graduating to electronic payments."
-    publishedDateTime: 2021-06-28T12:00:00Z
-    webUrl: "https://www.pymnts.com/news/b2b-payments/2021/dama-financial-cannabis-cash-fintech-electronic-payments/"
-    ampWebUrl: "https://www.pymnts.com/news/b2b-payments/2021/dama-financial-cannabis-cash-fintech-electronic-payments/amp/"
-    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/b2b-payments/2021/dama-financial-cannabis-cash-fintech-electronic-payments/amp/"
+  - title: "Artificial Intelligence (AI) Market Share, Company Overview, Growth, Development and Forecast by 2025"
+    excerpt: "Market at:  Global Artificial Intelligence (AI) Market valued approximately USD 16 billion in 2016 is anticipated to grow with a healthy growth rate of more than 36% over the forecast period 2017-2025."
+    publishedDateTime: 2021-06-30T19:42:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-market-share-company-overview-growth-development-and-forecast-by-2025-2021-06-30"
     type: article
     provider:
-      name: pymnts.com
-      domain: pymnts.com
-    quality: 58
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 69
     images:
-      - url: "https://securecdn.pymnts.com/wp-content/uploads/2019/12/cannabis-business-457x305.jpg"
-        width: 457
-        height: 305
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Automotive Artificial Intelligence (AI) Market Analysis on Trends, Growth, Opportunities and Forecast 2025"
+    excerpt: "Selbyville, Delaware Market Study Report Has Added A New Report On Automotive Artificial Intelligence (AI) Market analysis mainly introduces the changing market dynamics in terms of covering all details inside analysis and opinion,"
+    publishedDateTime: 2021-06-30T19:43:00Z
+    webUrl: "https://www.marketwatch.com/press-release/automotive-artificial-intelligence-ai-market-analysis-on-trends-growth-opportunities-and-forecast-2025-2021-06-30"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 64
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence (AI) Chips Market in Communications Equipment Industry | Technavio"
+    excerpt: "The artificial intelligence (AI) chips market is expected to grow by USD 73.49 billion at over 51% CAGR during 2021-2025, according to"
+    publishedDateTime: 2021-06-29T01:45:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/artificial-intelligence-ai-chips-market-in-communications-equipment-industry--technavio-301321404.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 59
+    images:
+      - url: "https://mma.prnewswire.com/media/1551721/Artificial_Intelligence_Chips.jpg?p=facebook"
+        width: 1280
+        height: 670
+        isCached: true
+  - title: "GCC Artificial Intelligence Market 2021-26: Industry Trends, Size, Share, Analysis and Forecast Report"
+    excerpt: "According to IMARC Group's latest report, titled \"GCC Artificial Intelligence Market: Industry Trends, Share, Size, Growth, Opportunity and Forecast 2021-2026,\" the GCC artificial intelligence market grew at a CAGR of around 24% during 2015-2020."
+    publishedDateTime: 2021-07-01T12:39:00Z
+    webUrl: "https://www.marketwatch.com/press-release/gcc-artificial-intelligence-market-2021-26-industry-trends-size-share-analysis-and-forecast-report-2021-07-01"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 55
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence Market 2021 Top Manufacturers, COVID-19 Impact, Global Demand and Future Scope"
+    excerpt: "The global “Artificial Intelligence Market” is expected to rise with an impressive CAGR and generate the highest revenue"
+    publishedDateTime: 2021-06-28T11:26:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-2021-top-manufacturers-covid-19-impact-global-demand-and-future-scope-2021-06-28"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 51
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
   - title: "AI in Fintech Market Scope Emerging Trends, Analysis and Forecast 2026"
     excerpt: "The AI in Fintech Market Global Industry Analysis Size Share Growth Trends and Forecast 2020 2026 report intends to offer a resourceful means to assess the AI in Fintech Market and entails the all inclusive analysis and upfront statistics with"
@@ -77,112 +131,53 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 39
-  - title: "Symphony Partners With AI-Powered Fintech Saphyre To Offer Integrated ..."
-    excerpt: "NEW YORK, NY and LONDON, UK / ACCESSWIRE / June 29, 2021 / Symphony, the leading financial markets' infrastructure and technology platform, has established a strategic partnership with fintech firm Saphyre,"
-    publishedDateTime: 2021-06-29T12:00:00Z
-    webUrl: "https://www.pr-inside.com/symphony-partners-with-ai-powered-fintech-saphyre-to-offer-integrated-r4836839.htm"
+  - title: "Global Edge Artificial Intelligence (AI) Chip Market 2021 Major Manufacturers, Growth Statistics, Upcoming Trends, and Growth Opportunities to 2026"
+    excerpt: "The report titled Global Edge Artificial Intelligence AI Chip Market Growth 2021-2026 offered by MRInsightsbiz contains i"
+    publishedDateTime: 2021-06-29T21:38:00Z
+    webUrl: "https://www.bignewsnetwork.com/news/270107360/global-edge-artificial-intelligence-ai-chip-market-2021-major-manufacturers-growth-statistics-upcoming-trends-and-growth-opportunities-to-2026"
     type: article
     provider:
-      name: PR-Inside
-      domain: pr-inside.com
-    quality: 38
+      name: Big News Network.com
+      domain: bignewsnetwork.com
+    quality: 31
     images:
-      - url: "http://www.pr-inside.com/images/logos/pr-inside/logo_pr-inside_fb.png"
-        width: 1200
-        height: 628
+      - url: "https://cdn.bignewsnetwork.com/cus1625120002894.jpg"
+        width: 630
+        height: 420
         isCached: true
-  - title: "AI in Social Media Market Research Report with Size, Share, Value, CAGR, Outlook, Analysis, Latest Updates, Data, and News 2021-2028"
-    excerpt: "The report forecast global AI in Social Media market to grow to reach xx Million USD in 2021 with a CAGR of during the"
-    publishedDateTime: 2021-06-29T06:53:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-in-social-media-market-research-report-with-size-share-value-cagr-outlook-analysis-latest-updates-data-and-news-2021-2028-2021-06-29"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 36
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Symphony Partners With AI-Powered Fintech Saphyre To Offer Integrated Pre- and Post-Trade Solution"
-    excerpt: "NEW YORK, NY and LONDON, UK / ACCESSWIRE / June 29, 2021 / Symphony, the leading financial markets’ infrastructure and technology platform, has established a strategic partnership with fintech firm Saphyre,"
-    publishedDateTime: 2021-06-29T12:31:00Z
-    webUrl: "https://www.digitaljournal.com/pr/symphony-partners-with-ai-powered-fintech-saphyre-to-offer-integrated-pre-and-post-trade-solution"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 25
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2021/06/Europe-Tourists-AFP-1K-04-600x337.jpg"
-        width: 600
-        height: 337
-        isCached: true
-  - title: "Fintech benefits consumers and intermediaries"
-    excerpt: "The different technologies associated with fintech assist consumers with their decision-making process regarding financial products and enable intermediaries to provide their clients with needs-driven solutions and"
-    publishedDateTime: 2021-06-28T10:59:00Z
-    webUrl: "https://www.bizcommunity.com/Article/196/751/217327.html"
-    type: article
-    provider:
-      name: Bizcommunity
-      domain: bizcommunity.com
-    quality: 24
-    images:
-      - url: "https://biz-file.com/c/2106/616382.jpg?2"
-        width: 639
-        height: 503
-        isCached: true
-  - title: "Top 5 Fintech Cities in the USA"
-    excerpt: "We’ve compiled a list of the top five fintech hubs’ in the US, outlining their most distinctive characteristics and features, as well as some of the top fintech companies they’ve created."
-    publishedDateTime: 2021-06-29T07:00:00Z
-    webUrl: "https://fintechnews.ch/fintechusa/top-5-fintech-cities-in-the-usa/46318/"
-    type: article
-    provider:
-      name: fintechnews.ch
-      domain: fintechnews.ch
-    quality: 24
-    images:
-      - url: "https://fintechnews.ch/wp-content/uploads/2021/06/Top-5-Fintech-Cities-in-the-USA.jpg"
-        width: 2048
-        height: 1136
-        isCached: true
-  - title: "8 Types Of Fintech To Take Advantage Of"
-    excerpt: "Whether it’s checking our bank balance with an app or Venmoing a friend the cost of a bagel, fintech impacts our daily lives. By streamlining and automating"
-    publishedDateTime: 2021-07-01T07:31:00Z
-    webUrl: "https://www.techshout.com/types-of-fintech-to-take-advantage-of/"
-    type: article
-    provider:
-      name: TechShout
-      domain: techshout.com
-    quality: 24
-    images:
-      - url: "https://www.techshout.com/wp-content/uploads/2021/04/fintech-1.jpg"
-        width: 690
-        height: 240
-        isCached: true
-  - title: "Inclusive Fintech 50 launches 2021 competition to recognize early-stage fintechs driving innovation in an era of uncertainty"
-    excerpt: "An independent panel of leading fintech experts will select 50 innovative inclusive fintech startups helping communities rebuild from the pandemicWASHINGTON--(BUSINESS WIRE)--#InclusiveFintech50--The Center for Financial Inclusion (CFI) has launched the third year of Inclusive Fintech 50 (IF50),"
-    publishedDateTime: 2021-06-28T13:00:00Z
-    webUrl: "https://us.acrofan.com/detail.php?number=491730"
-    type: article
-    provider:
-      name: 아크로팬
-      domain: acrofan.com
-    quality: 12
-    images:
-      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
-        width: 580
-        height: 339
-        isCached: true
-  - title: "Global Artificial Intelligence in the Medical Imaging Market Size, Status and Forecast 2021-2027"
-    excerpt: "Pages Report] Check for Discount on Global Artificial Intelligence in the Medical Imaging Market Size, Status and Forecast 2021-2027 report by QYResearch Group. Doctors have been using medical imaging techniques to diagnose"
-    publishedDateTime: 2021-06-30T07:47:00Z
-    webUrl: "https://www.reportsnreports.com/reports/4624721-global-artificial-intelligence-in-the-medical-imaging-market-size-status-and-forecast-2021-2027.html"
+  - title: "Global Artificial Intelligence (AI) in Agriculture Market Size, Status and Forecast 2021-2027"
+    excerpt: "Pages Report] Check for Discount on Global Artificial Intelligence (AI) in Agriculture Market Size, Status and Forecast 2021-2027 report by QYResearch Group. Artificial Intelligence (AI) in Agriculture Market size is being"
+    publishedDateTime: 2021-06-29T07:32:00Z
+    webUrl: "https://www.reportsnreports.com/reports/4620930-global-artificial-intelligence-ai-in-agriculture-market-size-status-and-forecast-2021-2027.html"
     type: article
     provider:
       name: ReportsnReports
       domain: reportsnreports.com
+    quality: 23
+  - title: "United States Artificial Intelligence Market Industry Overview, Size, Scope, Demand, Share and Forecast 2021-2026"
+    excerpt: "According to the latest report by IMARC Group, titled “United States Artificial Intelligence Market Share ... is expected to bolster the demand for AI in drones, robots, and self-driving cars, over the forecasted period. If you need specific information ..."
+    publishedDateTime: 2021-06-28T07:07:00Z
+    webUrl: "https://ksusentinel.com/2021/06/28/united-states-artificial-intelligence-market-industry-overview-size-scope-demand-share-and-forecast-2021-2026/"
+    type: article
+    provider:
+      name: The Sentinel
+      domain: ksusentinel.com
+    quality: 18
+    images:
+      - url: "https://ksusentinel.com/wp-content/uploads/2021/06/United-States-Artificial-Intelligence-Market-2-780x470.jpeg"
+        width: 780
+        height: 470
+        isCached: true
+  - title: "COVID-19 Impact on Artificial Intelligence Chipsets Market - Global Industry Analysis, Size, Share, Growth, Trends and Forecast 2021-2027"
+    excerpt: "Artificial Intelligence Chipsets Market size exceeded USD 8 billion in 2019 and is estimated to grow at around 35 CAGR between 2021 and 2027 Artificial intelligence chipset market has reported a significant increase in size and value thanks to the"
+    publishedDateTime: 2021-06-28T09:08:00Z
+    webUrl: "https://www.openpr.com/news/2315091/covid-19-impact-on-artificial-intelligence-chipsets-market"
+    ampWebUrl: "https://www.openpr.com/amp/2315091/covid-19-impact-on-artificial-intelligence-chipsets-market"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2315091/covid-19-impact-on-artificial-intelligence-chipsets-market"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
     quality: 4
 
 secured: "X6vEyScxpqhcGdlQu9ZmZfODozca8haqIJMyRPWOuHLDZ7BGsnjn5itfNtUDqqn1lYnsahD0HZfbtKFOjOeKprwgbFworn7jsk8xRdEcKNAPuVhLOjxD/73tKwQFnmSynjYxZmA9Spqfg70611zrOZqDpm99x5+OK9Au9wQE1zYkroWChTGzSRfwV+93Vk5mEiRm7HXZpqbqwLel/hILQxWREQW6fI4wsI6Cydf6b3MpD/obrTysthxc6WSHtchWJ3pZ7yfgS6gEtIxRi5K+9sTK6pkwOc8vemu04/ir1HTVdgh+7zBCkE+oHvNjFiPxVsJOcj/2eC2aFC+jSaSbY1NhHfGrYrh8ja0qpQqJVM0+qgq2Hg21ZPBVwhgwIyXkMt3imX6eR+1Lq+OvS/no4Fvm523/BOK9NUp9v3+rxQEOVHO1v81augy/xSaFbrePwG/vmmt4lNwB7UHSg8++0vBibsuNiMy5oqwBGVkNF7jlMkoi4/b+VwRUGuUGQyvIYirMJHfMdXjp9JFc4Qh8Tw==;a5Nu2NXpyN7dA4EvZD3R2g=="

@@ -43,6 +43,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Graphic Processing Unit (GPU) Market Worth Over US$ 198.77 Bn by 2027: Precedence Research"
+    excerpt: "The market for Graphic Processing Unit (GPU) is expected to grow at a CAGR of around 33.4% from 2020 to 2027 and is expected to reach a market size of around US$ 198.77 Bn by 2027. This research report evaluates the Graphic Processing Unit (GPU) market on a global and regional level."
+    publishedDateTime: 2021-07-01T11:54:00Z
+    webUrl: "https://www.marketwatch.com/press-release/graphic-processing-unit-gpu-market-worth-over-us-19877-bn-by-2027-precedence-research-2021-07-01"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 59
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "lMtKzvOU6uXeDCKwBYrapHxULztelj+JX4AQqfa6wltEhihY3kIVhHSDLi+ylDV0CTFmuQvbfVzebdJJY+E0FTt0JXOWS8sV8FeUvOehl4gsfx0bE4QYvTtqIe3Ci/zAcgVvjbjXANsEMo/dodPHwgcZvmN4sRQw8PZP6m6cf5BQUBhw1Q+v2Gk6uZNqqW9j/S3Xf7RcrQojGRujaOc8tMUL2vAKDurziNVESw6dDkE3V5Tw65y0uURMG+BIhWfASRkJbkbz6aY/W2/5/A4X8h4vqhJxM/MLgDKRuihOudQbFjicFurr4d7PuYJito266J50xZM8kXpJSaORPuCWPVXOIXifOJxr/CPTTpoG158=;JI/8TYsz+9gB1qEldvKZLQ=="
 ---

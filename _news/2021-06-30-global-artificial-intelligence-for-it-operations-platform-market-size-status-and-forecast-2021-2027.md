@@ -18,15 +18,15 @@ topics:
   - AI
 
 related:
-  - title: "GCC Artificial Intelligence Market 2021-26: Industry Trends, Size, Share, Analysis and Forecast Report"
-    excerpt: "According to IMARC Group's latest report, titled \"GCC Artificial Intelligence Market: Industry Trends, Share, Size, Growth, Opportunity and Forecast 2021-2026,\" the GCC artificial intelligence market grew at a CAGR of around 24% during 2015-2020."
-    publishedDateTime: 2021-07-01T12:39:00Z
-    webUrl: "https://www.marketwatch.com/press-release/gcc-artificial-intelligence-market-2021-26-industry-trends-size-share-analysis-and-forecast-report-2021-07-01"
+  - title: "Facial Recognition Market by Size, Growth, Opportunity and Forecast to 2028"
+    excerpt: "Selbyville, Delaware According to the research report titled 'GLOBAL Facial Recognition Market 2019-2028', available with Market Study Report LLC, global facial recognition market is projected to expand at 14."
+    publishedDateTime: 2021-06-28T05:21:00Z
+    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-market-by-size-growth-opportunity-and-forecast-to-2028-2021-06-28"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 55
+    quality: 67
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -41,6 +41,34 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 46
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Speech and Voice Recognition Market 2021 Top Manufacturers, COVID-19 Impact, Global Demand and Future Scope"
+    excerpt: "The global “Speech and Voice Recognition Market” is expected to rise with an impressive CAGR and generate the highest revenue by 2026. Fortune Business Insights™ in its latest report published this information."
+    publishedDateTime: 2021-06-29T14:28:00Z
+    webUrl: "https://www.marketwatch.com/press-release/speech-and-voice-recognition-market-2021-top-manufacturers-covid-19-impact-global-demand-and-future-scope-2021-06-29"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 38
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "AI in Social Media Market Research Report with Size, Share, Value, CAGR, Outlook, Analysis, Latest Updates, Data, and News 2021-2028"
+    excerpt: "The report forecast global AI in Social Media market to grow to reach xx Million USD in 2021 with a CAGR of during the"
+    publishedDateTime: 2021-06-29T06:53:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-in-social-media-market-research-report-with-size-share-value-cagr-outlook-analysis-latest-updates-data-and-news-2021-2028-2021-06-29"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 36
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -62,6 +90,54 @@ related:
         width: 665
         height: 435
         isCached: true
+  - title: "Global AI, Deep Learning, and Embedded Device Security Growth Opportunities Report 2020 - ResearchAndMarkets.com"
+    excerpt: "The \"Growth Opportunities in AI, Deep Learning, and Embedded Device Security\" report has been added to ResearchAndMarkets.com's offering. This Cyber Security Technology Opportunity Engine (TOE) provides a snapshot on emerging cyber security solutions powered by innovations based on artificial intelligence,"
+    publishedDateTime: 2021-06-29T10:55:00Z
+    webUrl: "https://www.businesswire.com/news/home/20210628005906/en/"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 30
+  - title: "Recognition and Touchless Sensing Market Study Reveals Growth Factors, Competitive Outlook for Future and Regional Forecast 2030"
+    excerpt: "In a recent published report, Kenneth Research has updated the market report for Recognition and Touchless Sensing"
+    publishedDateTime: 2021-06-30T06:55:00Z
+    webUrl: "https://www.marketwatch.com/press-release/recognition-and-touchless-sensing-market-study-reveals-growth-factors-competitive-outlook-for-future-and-regional-forecast-2030-2021-06-30"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 25
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Facial Recognition Market - Top Key Players are deploying both organic and inorganic growth strategies"
+    excerpt: "The global facial recognition market is displaying a fierce competition in its competitive landscape Prominent players in the market are focusing to strengthen their distribution network states a newly launched market report by This is mainly to"
+    publishedDateTime: 2021-06-29T14:48:00Z
+    webUrl: "https://www.openpr.com/news/2316739/facial-recognition-market-top-key-players-are-deploying-both"
+    ampWebUrl: "https://www.openpr.com/amp/2316739/facial-recognition-market-top-key-players-are-deploying-both"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2316739/facial-recognition-market-top-key-players-are-deploying-both"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 23
+  - title: "Global Mobile Speech Recognition Software Market Shares Reflect Significant Growth of Mn US$ During 2020-2025"
+    excerpt: "Global Mobile Speech Recognition Software Market Research Report: Industry Analysis, Share, Revenue, And Future Trends. The report published by Market Research Store on the global"
+    publishedDateTime: 2021-06-28T08:20:00Z
+    webUrl: "https://ksusentinel.com/2021/06/28/global-mobile-speech-recognition-software-market-shares-reflect-significant-growth-of-mn-us-during-2020-2025/"
+    type: article
+    provider:
+      name: The Sentinel
+      domain: ksusentinel.com
+    quality: 20
+    images:
+      - url: "https://themarketeagle.com/wp-content/uploads/2021/03/Management2.jpg"
+        width: 1024
+        height: 624
+        isCached: true
   - title: "Artificial Intelligence in Telecommunication Market Size, Share 2020, Impressive Industry Growth Report 2027"
     excerpt: "The global Artificial Intelligence by Telecom market size was valued at USD 679 million in 2019 and is projected to grow at a CAGR of 38 from 2021 to 2027 Telecommunications is one of the fastest growing industries using AI"
     publishedDateTime: 2021-06-28T12:00:00Z
@@ -73,6 +149,43 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 18
+  - title: "Global Artificial Intelligence/Machine Learning Platforms Market Report 2021: Growth Opportunities in Customer Experience and Contact Centers, HR, Sal"
+    excerpt: "The \"Global Artificial Intelligence/Machine Learning Platforms Growth Opportunities\" report has been added to ResearchAndMarkets.com's offering. This study highlights the market trends, drivers, challenges,"
+    publishedDateTime: 2021-06-29T13:25:00Z
+    webUrl: "https://us.acrofan.com/detail.php?number=492540"
+    type: article
+    provider:
+      name: 아크로팬
+      domain: acrofan.com
+    quality: 16
+    images:
+      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
+        width: 580
+        height: 339
+        isCached: true
+  - title: "Global AI Audio and Video Chip Market 2021 by Manufacturers, Regions, Type and Application, Forecast to 2026"
+    excerpt: "Pages Report] Check for Discount on Global AI Audio and Video Chip Market 2021 by Manufacturers, Regions, Type and Application, Forecast to 2026 report by Global Info Research. The AI Audio and Video Chip market report provides"
+    publishedDateTime: 2021-06-29T08:34:00Z
+    webUrl: "https://www.reportsnreports.com/reports/4622241-global-ai-audio-and-video-chip-market-2021-by-manufacturers-regions-type-and-application-forecast-to-2026.html"
+    type: article
+    provider:
+      name: ReportsnReports
+      domain: reportsnreports.com
+    quality: 15
+  - title: "Big Data and Machine Learning in Telecom Market 2020 | Latest Trends, Demand, Growth, Opportunities and Outlook Till 2027"
+    excerpt: "A new research report from RMoz aims at presenting 360-degree view of the global Big Data & Machine Learning in Telecom market for the forecast period of 2020 to 2026. Thus, the report highlights various important factors shaping the market growth."
+    publishedDateTime: 2021-06-29T15:36:00Z
+    webUrl: "https://ksusentinel.com/2021/06/29/big-data-machine-learning-in-telecom-market-2020-latest-trends-demand-growth-opportunities-outlook-till-2027-top-key-players/"
+    type: article
+    provider:
+      name: The Sentinel
+      domain: ksusentinel.com
+    quality: 14
+    images:
+      - url: "https://i.ibb.co/qrM8Ck1/Researchmoz-us-365.jpg"
+        width: 625
+        height: 416
+        isCached: true
   - title: "Global Natural Language Processing in BFSI Market Size, Status and Forecast 2021-2027"
     excerpt: "Pages Report] Check for Discount on Global Natural Language Processing in BFSI Market Size, Status and Forecast 2021-2027 report by QYResearch Group. Market Analysis and Insights: Global Natural Language Processing in"
     publishedDateTime: 2021-06-30T07:41:00Z
@@ -110,6 +223,74 @@ related:
         width: 772
         height: 270
         isCached: true
+  - title: "Global Artificial Intelligence for Blockchains Market 2021 by Company, Regions, Type and Application, Forecast to 2026"
+    excerpt: "Pages Report] Check for Discount on Global Artificial Intelligence for Blockchains Market 2021 by Company, Regions, Type and Application, Forecast to 2026 report by Global Info Research. The Artificial Intelligence for Blockchains market report provides a"
+    publishedDateTime: 2021-06-29T08:34:00Z
+    webUrl: "https://www.reportsnreports.com/reports/4621999-global-artificial-intelligence-for-blockchains-market-2021-by-company-regions-type-and-application-forecast-to-2026.html"
+    type: article
+    provider:
+      name: ReportsnReports
+      domain: reportsnreports.com
+    quality: 8
+  - title: "Artificial Intelligence-Emotion Recognition Market Size 2021 Is Booming Across the Globe by Share, Growth, Segments and Forecast to 2026"
+    excerpt: "Global \" Artificial Intelligence-Emotion Recognition Market \"Growth (2021-2026): Emotion recognition is the process of identifying human emotion, most typically from facial expressions as well as from verbal expressions."
+    publishedDateTime: 2021-06-29T11:09:00Z
+    webUrl: "https://www.wicz.com/story/44203811/artificial-intelligence-emotion-recognition-market-size-2021-is-booming-across-the-globe-by-share-growth-segments-and-forecast-to-2026"
+    type: article
+    provider:
+      name: FOX 40 WICZ TV
+      domain: wicz.com
+    quality: 4
+    images:
+      - url: "https://WICZ.images.worldnow.com/images/20397967_G.png"
+        width: 1200
+        height: 628
+        isCached: true
+  - title: "Global Artificial Intelligence in the Medical Imaging Market Size, Status and Forecast 2021-2027"
+    excerpt: "Pages Report] Check for Discount on Global Artificial Intelligence in the Medical Imaging Market Size, Status and Forecast 2021-2027 report by QYResearch Group. Doctors have been using medical imaging techniques to diagnose"
+    publishedDateTime: 2021-06-30T07:47:00Z
+    webUrl: "https://www.reportsnreports.com/reports/4624721-global-artificial-intelligence-in-the-medical-imaging-market-size-status-and-forecast-2021-2027.html"
+    type: article
+    provider:
+      name: ReportsnReports
+      domain: reportsnreports.com
+    quality: 4
+  - title: "Global Artificial Intelligence (AI) in Medical Diagnostics Market 2021 by Company, Regions, Type and Application, Forecast to 2026"
+    excerpt: "Pages Report] Check for Discount on Global Artificial Intelligence (AI) in Medical Diagnostics Market 2021 by Company, Regions, Type and Application, Forecast to 2026 report by Global Info Research. The Artificial Intelligence (AI) in Medical Diagnostics market report"
+    publishedDateTime: 2021-06-29T08:34:00Z
+    webUrl: "https://www.reportsnreports.com/reports/4621998-global-artificial-intelligence-ai-in-medical-diagnostics-market-2021-by-company-regions-type-and-application-forecast-to-2026.html"
+    type: article
+    provider:
+      name: ReportsnReports
+      domain: reportsnreports.com
+    quality: 2
+  - title: "AI-based Clinical Trials Solution Provider Market Size To Reach $5.2 Billion By 2028: Grand View Research, Inc."
+    excerpt: "The global AI-based clinical trials solution provider market size is expected to reach USD 5.2 billion by 2028 and is expected to expand"
+    publishedDateTime: 2021-06-29T08:05:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/ai-based-clinical-trials-solution-provider-market-size-to-reach-5-2-billion-by-2028/article_4ba20737-af23-5dcf-9ce7-60a749b3d27e.html"
+    type: article
+    provider:
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 0
+  - title: "2021 Deep Learning in Machine Vision Market, Business Growth, Current Trends, Rules, Challenge, and Interaction, Goals, Key Components, Forecast 2027"
+    excerpt: "Global Deep Learning in Machine Vision Market 2021 is an all-inclusive, proficient report provides an in-detail analysis of extensive drivers, challenges, restraints, opportunities, present market trends and approach influencing the Deep Learning in Machine Vision industry together with projections and forecast to 2027."
+    publishedDateTime: 2021-07-01T11:23:00Z
+    webUrl: "https://ksusentinel.com/2021/07/01/2021-deep-learning-in-machine-vision-market-business-growth-current-trends-rules-challenge-and-interaction-goals-key-components-forecast-2027/"
+    type: article
+    provider:
+      name: The Sentinel
+      domain: ksusentinel.com
+    quality: 0
+  - title: "Global Artificial Intelligence In Genomics Market 2021 by Company, Regions, Type and Application, Forecast to 2026"
+    excerpt: "Pages Report] Check for Discount on Global Artificial Intelligence In Genomics Market 2021 by Company, Regions, Type and Application, Forecast to 2026 report by Global Info Research. The Artificial Intelligence In Genomics market report provides a"
+    publishedDateTime: 2021-07-01T11:31:00Z
+    webUrl: "https://www.reportsnreports.com/reports/4630684-global-artificial-intelligence-in-genomics-market-2021-by-company-regions-type-and-application-forecast-to-2026.html"
+    type: article
+    provider:
+      name: ReportsnReports
+      domain: reportsnreports.com
+    quality: 0
 
 secured: "N+QDYbCuX6M94NHLBamnCvyaat7ch+7PiRJlSmQPc939dNpq+WQe5ruNWjr72ojQBue+txCuW4Ikyqd3jPA0lyHcBEKw+A7AQwDylWaGYOKVZN1vRbcO30/KkPaoYkOCcMQMnvxuVCoySSbSGHljLsshKGTz3lBKHXy73bDyAZ8vUg1yCzQtoq5a0ejOfM9cvheXmLyqpOgJyPBrw7JIrdwkz9JMxrNbpG1bKapmlmAUbVn7AF5mcs/HR1WStopXG+oAnFOTzXkErgdjJvolgbFOOIOUf2GnU1hDujIZUI+DIIkmzbu3ZGuxHiVbukkF/XMNyKxsrrYohxgVKp9yJg18qqdNpICg9u/UMnHr5IE=;tmSQGNm67xxmmjxKCal+HA=="
 ---

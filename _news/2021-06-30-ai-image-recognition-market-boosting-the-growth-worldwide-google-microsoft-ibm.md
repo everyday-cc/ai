@@ -36,6 +36,36 @@ related:
         width: 600
         height: 338
         isCached: true
+  - title: "AJNIFM and Microsoft are collaborating to build an AI CoE"
+    excerpt: "Partnership will focus on capacity building of government officials, skilling them in emerging technologies, like AI and machine learning"
+    publishedDateTime: 2021-07-02T07:00:00Z
+    webUrl: "https://www.dqindia.com/arun-jaitley-national-institute-financial-management-partners-microsoft-build-ai-emerging-tech-coe/"
+    ampWebUrl: "https://www.dqindia.com/arun-jaitley-national-institute-financial-management-partners-microsoft-build-ai-emerging-tech-coe/amp/"
+    cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/arun-jaitley-national-institute-financial-management-partners-microsoft-build-ai-emerging-tech-coe/amp/"
+    type: article
+    provider:
+      name: Dataquest
+      domain: dqindia.com
+    quality: 76
+    images:
+      - url: "https://www.dqindia.com/wp-content/uploads/2019/10/ai-monitoring-3262759_960_720.jpg"
+        width: 736
+        height: 400
+        isCached: true
+  - title: "Faridabad's AJNIFM and Microsoft Tie-up for An AI and Emerging Technologies Centre of Excellence"
+    excerpt: "Partnership will focus on capacity building of government officials, skilling them in emerging technologies, like AI and machine learning"
+    publishedDateTime: 2021-07-02T06:37:00Z
+    webUrl: "https://www.indianweb2.com/2021/07/faridabads-ajnifm-and-microsoft-tie-up.html"
+    type: article
+    provider:
+      name: indianweb2.com
+      domain: indianweb2.com
+    quality: 43
+    images:
+      - url: "https://1.bp.blogspot.com/-YRhUJuZMcOI/YN6yevCS-eI/AAAAAAAAFoA/5xYJ-t3EpXQPinUoIiib9T5btMFMW1q3ACLcBGAsYHQ/s16000/sparkler-4629347_1280.jpg"
+        width: 900
+        height: 578
+        isCached: true
   - title: "Hexaware, Microland, and Mindtree get Top Honors at Microsoft India Incubathon 2021"
     excerpt: "Microsoft India announced winners of the Incubathon 2021, a unique industry innovation garage program for its partner organizations."
     publishedDateTime: 2021-07-01T07:25:00Z

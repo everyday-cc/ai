@@ -55,28 +55,6 @@ related:
         width: 457
         height: 305
         isCached: true
-  - title: "AI in Fintech Market Scope Emerging Trends, Analysis and Forecast 2026"
-    excerpt: "The AI in Fintech Market Global Industry Analysis Size Share Growth Trends and Forecast 2020 2026 report intends to offer a resourceful means to assess the AI in Fintech Market and entails the all inclusive analysis and upfront statistics with"
-    publishedDateTime: 2021-06-30T13:01:00Z
-    webUrl: "https://www.openpr.com/news/2317861/ai-in-fintech-market-scope-emerging-trends-analysis"
-    ampWebUrl: "https://www.openpr.com/amp/2317861/ai-in-fintech-market-scope-emerging-trends-analysis"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2317861/ai-in-fintech-market-scope-emerging-trends-analysis"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 41
-  - title: "AI In Fintech Market: Size & Trends Shows a Rapid Growth by 2027"
-    excerpt: "The Global AI In Fintech market was estimated at USD 7 91 billion in 2020 and it is expected to reach USD 26 67 billion by 2027 The market is also expected to witness a CAGR of 23 over the"
-    publishedDateTime: 2021-06-28T08:21:00Z
-    webUrl: "https://www.openpr.com/news/2315029/ai-in-fintech-market-size-trends-shows-a-rapid-growth-by-2027"
-    ampWebUrl: "https://www.openpr.com/amp/2315029/ai-in-fintech-market-size-trends-shows-a-rapid-growth-by-2027"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2315029/ai-in-fintech-market-size-trends-shows-a-rapid-growth-by-2027"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 39
   - title: "Symphony Partners With AI-Powered Fintech Saphyre To Offer Integrated ..."
     excerpt: "NEW YORK, NY and LONDON, UK / ACCESSWIRE / June 29, 2021 / Symphony, the leading financial markets' infrastructure and technology platform, has established a strategic partnership with fintech firm Saphyre,"
     publishedDateTime: 2021-06-29T12:00:00Z
@@ -90,34 +68,6 @@ related:
       - url: "http://www.pr-inside.com/images/logos/pr-inside/logo_pr-inside_fb.png"
         width: 1200
         height: 628
-        isCached: true
-  - title: "AI in Social Media Market Research Report with Size, Share, Value, CAGR, Outlook, Analysis, Latest Updates, Data, and News 2021-2028"
-    excerpt: "The report forecast global AI in Social Media market to grow to reach xx Million USD in 2021 with a CAGR of during the"
-    publishedDateTime: 2021-06-29T06:53:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-in-social-media-market-research-report-with-size-share-value-cagr-outlook-analysis-latest-updates-data-and-news-2021-2028-2021-06-29"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 36
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Global Artificial Intelligence Chipsets Market Size will be Expanded and Reach Millions $ by 2024"
-    excerpt: "Global Artificial Intelligence Chipsets Market Research Report: Industry Analysis, Share, Revenue, And Future Trends. The report published by Market Research Store on the global A"
-    publishedDateTime: 2021-06-28T08:16:00Z
-    webUrl: "https://ksusentinel.com/2021/06/28/global-artificial-intelligence-chipsets-market-size-will-be-expanded-and-reach-millions-by-2024/"
-    type: article
-    provider:
-      name: The Sentinel
-      domain: ksusentinel.com
-    quality: 26
-    images:
-      - url: "https://themarketeagle.com/wp-content/uploads/2021/03/Management2.jpg"
-        width: 1024
-        height: 624
         isCached: true
   - title: "Symphony Partners With AI-Powered Fintech Saphyre To Offer Integrated Pre- and Post-Trade Solution"
     excerpt: "NEW YORK, NY and LONDON, UK / ACCESSWIRE / June 29, 2021 / Symphony, the leading financial markets’ infrastructure and technology platform, has established a strategic partnership with fintech firm Saphyre,"
@@ -175,15 +125,6 @@ related:
         width: 690
         height: 240
         isCached: true
-  - title: "Global Artificial Intelligence in the Medical Imaging Market Size, Status and Forecast 2021-2027"
-    excerpt: "Pages Report] Check for Discount on Global Artificial Intelligence in the Medical Imaging Market Size, Status and Forecast 2021-2027 report by QYResearch Group. Doctors have been using medical imaging techniques to diagnose"
-    publishedDateTime: 2021-06-30T07:47:00Z
-    webUrl: "https://www.reportsnreports.com/reports/4624721-global-artificial-intelligence-in-the-medical-imaging-market-size-status-and-forecast-2021-2027.html"
-    type: article
-    provider:
-      name: ReportsnReports
-      domain: reportsnreports.com
-    quality: 4
 
 secured: "EN/du4Meih0Ah6MWJGnF87qublqho1tkB1qc49ZHupZim+95uz/HwrvFsY5QX9FqTLfa9qIHnQENM1PsWNqIGx2AQ0ucilUYiRXbIzv77CVxmXaKxoRfw7w8vWDRAEOsfkcb1AIk8vX4BdHAXZZI0YdrQl5bMTPTk6CCd12ivjy0FGbMHoGyRQxn1rcgb6c3UhaP2TacnsmvLplykzaODOP5eY8N9FBdV3PeQnXwYuEWmJ48R58Sje6lgM1CXHZRrXTOnRQl/N+I7SJOqAlCugzP/Aw+BEflBNH44tLt4quSQ26F6TguPEeTWHm0piHsI3YGgAw/aDdveoUimeA/ZuFQUbBC+cofQaJLjBt8ZOA=;e08m/r4RFKySFCCM1Yn95g=="
 ---

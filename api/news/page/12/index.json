@@ -2,6 +2,57 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2021-06-22-how-ai-can-help-with-your-digital-workflow-transformation-initiatives.md",
+      "title": "How AI Can Help With Your Digital Workflow Transformation Initiatives",
+      "excerpt": "If organizations want to get further down the road (faster) in their digital transformation journey, they’re going to need fuel. And not just any type will cut it: They need artificial intelligence. Over the last few years,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/06/22/how-ai-can-help-with-your-digital-workflow-transformation-initiatives/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/06/22/how-ai-can-help-with-your-digital-workflow-transformation-initiatives/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60d0a4b2ce6895e22530f024%2F0x0.jpg",
+          "width": 1200,
+          "height": 838,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/06/22/how-ai-can-help-with-your-digital-workflow-transformation-initiatives/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/06/22/how-ai-can-help-with-your-digital-workflow-transformation-initiatives/amp/",
+      "publishedDateTime": "2021-06-22T04:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-22-the-new-normal-reimagine-the-transformation-of-industries-with-ai.md",
       "title": "The New Normal: Reimagine The Transformation Of Industries With AI",
       "excerpt": "With its far-reaching impact across industry segments, AI has unleashed the Fourth Industrial Revolution and is changing business processes as well as how industries reimagine their customer's preferences.",
@@ -1129,49 +1180,6 @@
         "AWS AI",
         "AI",
         "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2021-06-22-artificial-intelligence-in-energy-market-incremental-growth-is-expected-to-be-worth-679-billion-by-2025.md",
-      "title": "Artificial Intelligence in Energy Market: Incremental Growth is Expected to be Worth $ 6.79 Billion by 2025",
-      "excerpt": "Artificial intelligence in energy market is expected to grow by USD 6.79 billion during 2021-2025, according to Technavio. Enterprises will go through the Response, Recovery, and Renew phases. Download: Technavio's Analysis on Market Size and Forecast:  Adjust their strategic planning to move ahead once business stability kicks in.",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/-artificial-intelligence-energy-market-incremental-growth-expected-be-/2021/06/21/9394447.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/-artificial-intelligence-energy-market-incremental-growth-expected-be-/2021/06/21/9394447.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1536445/Technavio_market_research_report_1.jpg",
-          "width": 400,
-          "height": 226,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-21T15:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

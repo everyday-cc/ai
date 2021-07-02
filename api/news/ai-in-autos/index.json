@@ -2,59 +2,6 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2021-07-01-gcc-artificial-intelligence-market-2021-26-industry-trends-size-share-analysis-and-forecast-report.md",
-      "title": "GCC Artificial Intelligence Market 2021-26: Industry Trends, Size, Share, Analysis and Forecast Report",
-      "excerpt": "According to IMARC Group's latest report, titled \"GCC Artificial Intelligence Market: Industry Trends, Share, Size, Growth, Opportunity and Forecast 2021-2026,\" the GCC artificial intelligence market grew at a CAGR of around 24% during 2015-2020.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/gcc-artificial-intelligence-market-2021-26-industry-trends-size-share-analysis-and-forecast-report-2021-07-01",
-      "originalUrl": "https://www.marketwatch.com/press-release/gcc-artificial-intelligence-market-2021-26-industry-trends-size-share-analysis-and-forecast-report-2021-07-01",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 125,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-01T05:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
       "path": "_news/2021-07-01-cheers-to-the-heineken-bot-self-driving-beer-delivery-robot.md",
       "title": "Cheers to the Heineken B.O.T. Self-Driving Beer Delivery Robot",
       "excerpt": "You could train your dog to grab one for you, which would take effort, time, and commitment. Or you could turn to Heineken's new B.O.T., which is, yep, a beer-carrying robot that brings the beers to you.",
@@ -350,6 +297,49 @@
         "Natural Language Processing",
         "AI",
         "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2021-06-26-apples-car-obsession-is-all-about-taking-eyes-off-the-road.md",
+      "title": "Apple’s car obsession is all about taking eyes off the road",
+      "excerpt": "Giants such as Huawei Technologies Co. and Baidu Inc. have pledged to plow almost $19 billion into electric and self-driving vehicle ventures this year alone. Smartphone giant Xiaomi Corp. and ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.latimes.com/business/technology/story/2021-06-25/apples-car-obsession-is-all-about-taking-eyes-off-the-road",
+      "originalUrl": "https://www.latimes.com/business/technology/story/2021-06-25/apples-car-obsession-is-all-about-taking-eyes-off-the-road",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ca-times.brightspotcdn.com/dims4/default/c678a02/2147483647/strip/true/crop/1839x1201+105+0/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fd7%2F0f%2Fa0dd117502ce6dc1270687a5f039%2Fla-fi-self-driving-car-accidents-20150511-001",
+          "width": 320,
+          "height": 209,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.latimes.com/business/technology/story/2021-06-25/apples-car-obsession-is-all-about-taking-eyes-off-the-road?_amp=true",
+      "cdnAmpWebUrl": "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/business/technology/story/2021-06-25/apples-car-obsession-is-all-about-taking-eyes-off-the-road?_amp=true",
+      "publishedDateTime": "2021-06-25T16:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Los Angeles Times",
+        "domain": "latimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
       ]
     },
     {
@@ -932,41 +922,6 @@
       ]
     },
     {
-      "path": "_news/2021-06-22-turkish-bank-isbank-selects-driverless-ai-platform-from-h2oai-for-income-prediction-cash-forecasting-check-default-prediction-applications.md",
-      "title": "Turkish Bank, İşbank, Selects Driverless AI Platform from H2O.ai for Income Prediction, Cash Forecasting & Check Default Prediction Applications",
-      "excerpt": "H2O.ai, a leading AI technology software company, has announced that İşbank, officially Türkiye İş Bankası, the largest private bank in Turkey, has se",
-      "sourceUrl": null,
-      "webUrl": "https://www.businesswire.com/news/home/20210622005334/en/Turkish-Bank-İşbank-Selects-Driverless-AI-Platform-from-H2O.ai-for-Income-Prediction-Cash-Forecasting-Check-Default-Prediction-Applications",
-      "originalUrl": "https://www.businesswire.com/news/home/20210622005334/en/Turkish-Bank-İşbank-Selects-Driverless-AI-Platform-from-H2O.ai-for-Income-Prediction-Cash-Forecasting-Check-Default-Prediction-Applications",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-22T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Finance"
-      ]
-    },
-    {
       "path": "_news/2021-06-22-why-passengers-might-actually-feel-safe-in-zoox-self-driving-cars.md",
       "title": "Why passengers might actually feel safe in Zoox self-driving cars",
       "excerpt": "Instead of turning a traditional car into an autonomous one, the Amazon-owned self-driving car service Zoox has created its own type of autonomous vehicle without a steering wheel or front seat. Redesigning a car from the ground up also means redesigning car safety features.",
@@ -1059,6 +1014,41 @@
       "topics": [
         "AI in Autos",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-22-turkish-bank-isbank-selects-driverless-ai-platform-from-h2oai-for-income-prediction-cash-forecasting-check-default-prediction-applications.md",
+      "title": "Turkish Bank, Isbank, Selects Driverless AI Platform from H2O.ai for Income Prediction, Cash Forecasting & Check Default Prediction Applications",
+      "excerpt": "Ümit Bilik, Chief Data Officer, Head of Data Management Artificial Intelligence at Isbank ... \"The decision by Isbank to use Driverless AI is another shining example of how a progressive-thinking ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.finanznachrichten.de/nachrichten-2021-06/53214974-turkish-bank-isbank-selects-driverless-ai-platform-from-h2o-ai-for-income-prediction-cash-forecasting-check-default-prediction-applications-004.htm",
+      "originalUrl": "https://www.finanznachrichten.de/nachrichten-2021-06/53214974-turkish-bank-isbank-selects-driverless-ai-platform-from-h2o-ai-for-income-prediction-cash-forecasting-check-default-prediction-applications-004.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-22T05:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Finanznachrichten",
+        "domain": "finanznachrichten.de",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Finance"
       ]
     },
     {

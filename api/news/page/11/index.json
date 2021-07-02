@@ -2,6 +2,58 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2021-06-23-deep-learning-market-share-trends-industry-overview-2021-to-2026.md",
+      "title": "Deep Learning Market Share, Trends | Industry Overview 2021 to 2026",
+      "excerpt": "Deep Learning is a subfield of machine learning concerned with algorithms inspired by the structure and function of the",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/deep-learning-market-share-trends-industry-overview-2021-to-2026-2021-06-22",
+      "originalUrl": "https://www.marketwatch.com/press-release/deep-learning-market-share-trends-industry-overview-2021-to-2026-2021-06-22",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-22T10:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-23-hyundai-officially-takes-controlling-stake-in-robot-maker-boston-dynamics.md",
       "title": "Hyundai officially takes controlling stake in robot maker Boston Dynamics",
       "excerpt": "Korean car manufacturer Hyundai announced that it had closed a deal to purchase controlling stock in US robot maker Boston Dynamics. The company, well-known for its",
@@ -155,41 +207,6 @@
       "topics": [
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2021-06-22-turkish-bank-isbank-selects-driverless-ai-platform-from-h2oai-for-income-prediction-cash-forecasting-check-default-prediction-applications.md",
-      "title": "Turkish Bank, İşbank, Selects Driverless AI Platform from H2O.ai for Income Prediction, Cash Forecasting & Check Default Prediction Applications",
-      "excerpt": "H2O.ai, a leading AI technology software company, has announced that İşbank, officially Türkiye İş Bankası, the largest private bank in Turkey, has se",
-      "sourceUrl": null,
-      "webUrl": "https://www.businesswire.com/news/home/20210622005334/en/Turkish-Bank-İşbank-Selects-Driverless-AI-Platform-from-H2O.ai-for-Income-Prediction-Cash-Forecasting-Check-Default-Prediction-Applications",
-      "originalUrl": "https://www.businesswire.com/news/home/20210622005334/en/Turkish-Bank-İşbank-Selects-Driverless-AI-Platform-from-H2O.ai-for-Income-Prediction-Cash-Forecasting-Check-Default-Prediction-Applications",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-22T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Finance"
       ]
     },
     {
@@ -942,6 +959,41 @@
       ]
     },
     {
+      "path": "_news/2021-06-22-turkish-bank-isbank-selects-driverless-ai-platform-from-h2oai-for-income-prediction-cash-forecasting-check-default-prediction-applications.md",
+      "title": "Turkish Bank, Isbank, Selects Driverless AI Platform from H2O.ai for Income Prediction, Cash Forecasting & Check Default Prediction Applications",
+      "excerpt": "Ümit Bilik, Chief Data Officer, Head of Data Management Artificial Intelligence at Isbank ... \"The decision by Isbank to use Driverless AI is another shining example of how a progressive-thinking ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.finanznachrichten.de/nachrichten-2021-06/53214974-turkish-bank-isbank-selects-driverless-ai-platform-from-h2o-ai-for-income-prediction-cash-forecasting-check-default-prediction-applications-004.htm",
+      "originalUrl": "https://www.finanznachrichten.de/nachrichten-2021-06/53214974-turkish-bank-isbank-selects-driverless-ai-platform-from-h2o-ai-for-income-prediction-cash-forecasting-check-default-prediction-applications-004.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-22T05:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Finanznachrichten",
+        "domain": "finanznachrichten.de",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
       "path": "_news/2021-06-22-thinkwhy-applies-ai-to-better-determine-compensation.md",
       "title": "ThinkWhy applies AI to better determine compensation",
       "excerpt": "ThinkWhy adds a new feature that enables HR teams to leverage AI to fine-tune compensation packages by region.",
@@ -1122,57 +1174,6 @@
         "AI",
         "AI in Education",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-22-how-ai-can-help-with-your-digital-workflow-transformation-initiatives.md",
-      "title": "How AI Can Help With Your Digital Workflow Transformation Initiatives",
-      "excerpt": "If organizations want to get further down the road (faster) in their digital transformation journey, they’re going to need fuel. And not just any type will cut it: They need artificial intelligence. Over the last few years,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/06/22/how-ai-can-help-with-your-digital-workflow-transformation-initiatives/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/06/22/how-ai-can-help-with-your-digital-workflow-transformation-initiatives/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60d0a4b2ce6895e22530f024%2F0x0.jpg",
-          "width": 1200,
-          "height": 838,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/06/22/how-ai-can-help-with-your-digital-workflow-transformation-initiatives/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/06/22/how-ai-can-help-with-your-digital-workflow-transformation-initiatives/amp/",
-      "publishedDateTime": "2021-06-22T04:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

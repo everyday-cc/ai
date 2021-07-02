@@ -2,6 +2,57 @@
   "page": 26,
   "value": [
     {
+      "path": "_news/2021-06-11-jumpcut-ai-based-production-studio-launches-to-unearth-train-underserved-storytellers.md",
+      "title": "Jumpcut AI-Based Production Studio Launches To Unearth, Train Underserved Storytellers",
+      "excerpt": "Jumpcut uses artificial intelligence to find undiscovered talent from around the globe, develop it, and get it sold. Founded by a Wharton AI professor, the company came out of stealth mode today.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/dbloom/2021/06/11/jumpcut-ai-based-studio-launches-to-unearth-train-underserved-storytellers/",
+      "originalUrl": "https://www.forbes.com/sites/dbloom/2021/06/11/jumpcut-ai-based-studio-launches-to-unearth-train-underserved-storytellers/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60c2dded616fbd5e8a08c4c0%2F0x0.jpg",
+          "width": 915,
+          "height": 623,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/dbloom/2021/06/11/jumpcut-ai-based-studio-launches-to-unearth-train-underserved-storytellers/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/dbloom/2021/06/11/jumpcut-ai-based-studio-launches-to-unearth-train-underserved-storytellers/amp/",
+      "publishedDateTime": "2021-06-10T23:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-11-alibaba-to-develop-self-driving-trucks-with-logistics-unit-cainiao.md",
       "title": "Alibaba to develop self-driving trucks with logistics unit Cainiao",
       "excerpt": "The announcement comes as dozens of startups, automakers and large technology firms, such as internet search leader Baidu Inc , accelerate work on self-driving vehicle systems, which are widely expected to bring a sea change to the transportation industry.",
@@ -1130,59 +1181,6 @@
       "topics": [
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-10-protecting-the-human-ethics-in-ai.md",
-      "title": "Protecting The Human: Ethics In AI",
-      "excerpt": "Advancements in AI and technology are meant to make our lives easier, yet they pose a threat to society when they are not perfect.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/deanstoecker/2021/06/10/protecting-the-human-ethics-in-ai/",
-      "originalUrl": "https://www.forbes.com/sites/deanstoecker/2021/06/10/protecting-the-human-ethics-in-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 126,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60c232b13b1cc34a5d1d53b8%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/deanstoecker/2021/06/10/protecting-the-human-ethics-in-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/deanstoecker/2021/06/10/protecting-the-human-ethics-in-ai/amp/",
-      "publishedDateTime": "2021-06-10T08:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],
