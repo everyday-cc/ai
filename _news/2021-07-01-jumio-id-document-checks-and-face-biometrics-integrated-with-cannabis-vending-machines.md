@@ -41,6 +41,22 @@ related:
         width: 1500
         height: 860
         isCached: true
+  - title: "EU’s top privacy watchdogs urge blanket ban on use of recognition tech in public spaces"
+    excerpt: "Two European privacy watchdogs have joined forces to call for a blanket ban on the use of biometric recognition in public spaces, outlawing such tech as AI-based facial, DNA, fingerprint and other recognition systems."
+    publishedDateTime: 2021-07-01T22:56:00Z
+    webUrl: "https://www.rt.com/news/527183-eu-privacy-surveillance-ban/"
+    ampWebUrl: "https://www.rt.com/news/527183-eu-privacy-surveillance-ban/amp/"
+    cdnAmpWebUrl: "https://www-rt-com.cdn.ampproject.org/c/s/www.rt.com/news/527183-eu-privacy-surveillance-ban/amp/"
+    type: article
+    provider:
+      name: RT
+      domain: rt.com
+    quality: 36
+    images:
+      - url: "https://cdni.rt.com/files/2021.06/xxl/60d0abac2030277d043543a9.JPG"
+        width: 1240
+        height: 697
+        isCached: true
 
 secured: "x+jyq62VqpKWmOwWe/HLMjholZR8I+TRIgnH6fAhPNcdXxFM2QtlUt/wVI5dUJreQl5p7kkZfNvsbBE/HzHOHM5T8RNyeFog7hjB8/yC2hjyuYof3UpmEywgi2fuC53RVGKhpMLWVK0IqVzUtm748PuA7QsPr12lx8wXSiln+ahfr5+RS3iCTZOAzxaHuPIgb3Nx8okyXHdnr2wiifUT/3X50HsGYt3lkOity/ooqKHXLWjZ/XLToBkAiy6jJXm3wtOGfapVDohNj0YZmXQLaqhT7C9ez9A5vuvoAI9HpcIQm22IZu6nu8TwAX7SLOisesthmsDuBBos9TjLciQgakbdENo6sTVXKVQWEsfEqUY=;7vimIkmwNQHSrzfOGzVruA=="
 ---

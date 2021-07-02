@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2021/07/01/after-8-4m-raise-strawberry-pickin
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/07/01/after-8-4m-raise-strawberry-picking-robotics-startup-traptic-begins-commercial-deployment/amp/"
 type: article
 quality: 107
-heat: 118
+heat: 117
 published: true
 
 provider:

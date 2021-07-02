@@ -1,28 +1,28 @@
 ---
 category: news
-title: "China's Didi Touts Tech Spending Ahead of Wall St Debut"
-excerpt: "Early investors included Apple Inc., Japan’s Softbank, Alibaba and Chinese internet giants, Tencent Holding Ltd. and Baidu Inc. Didi ... into development of self-driving, electric vehicles ..."
-publishedDateTime: 2021-06-30T07:11:00Z
-originalUrl: "https://www.usnews.com/news/business/articles/2021-06-30/chinas-didi-touts-tech-spending-ahead-of-wall-st-debut"
-webUrl: "https://www.usnews.com/news/business/articles/2021-06-30/chinas-didi-touts-tech-spending-ahead-of-wall-st-debut"
-ampWebUrl: "https://www.usnews.com/news/business/articles/2021-06-30/chinas-didi-touts-tech-spending-ahead-of-wall-st-debut?context=amp"
-cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/business/articles/2021-06-30/chinas-didi-touts-tech-spending-ahead-of-wall-st-debut?context=amp"
+title: "China's Didi touts tech spending ahead of Wall St debut"
+excerpt: "Chinese ride-hailing service Didi says it lost $5.5 billion over the past three years ahead of its U.S. stock market debut Wednesday but it's highlighting its global reach and investments in ..."
+publishedDateTime: 2021-06-30T07:07:00Z
+originalUrl: "https://www.independent.co.uk/news/chinas-didi-touts-tech-spending-ahead-of-wall-st-debut-didi-china-beijing-wall-st-goldman-sachs-b1875272.html"
+webUrl: "https://www.independent.co.uk/news/chinas-didi-touts-tech-spending-ahead-of-wall-st-debut-didi-china-beijing-wall-st-goldman-sachs-b1875272.html"
 type: article
-quality: 54
+quality: 24
 heat: -1
 published: false
 
 provider:
-  name: U.S. News & World Report
-  domain: usnews.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: The Independent
+  domain: independent.co.uk
 
 topics:
   - AI in Autos
   - AI
+
+images:
+  - url: "https://static.independent.co.uk/2021/06/30/08/China_Didi_IPO_76014.jpg?width=1200&auto=webp&quality=75"
+    width: 1200
+    height: 782
+    isCached: true
 
 related:
   - title: "Didi shares gain 1% after early jump in Wall Street debut"
@@ -42,6 +42,6 @@ related:
         height: 667
         isCached: true
 
-secured: "YU7Q+oOpQzRfJCnXddy5dTW2lqF7rZC8ep8nmkPldasezuHpVn5ZM1bCUtvKJV9sXm7fUUj6MhCZHZLwk7EkKiEvN5CYobEc00/7gQQQgMkiUyFm/vdSqaBthiYz+0fuwnvSwTyeo/jXpZp25TnihhD2UkQHwWZ6CHXpZ+ZRJ5U00aOrNn+z5wIRVvpW11lbhJoWnk/lHTu9Do/soeJWFYGJXyfO2cNCJgIaAKliGkR4Wu1SMq0mvaO9MH0SQ8iAXFr5PbD6MNnT1P4x7LvpTvZQv7y0zqrzQoGHtnDcX10qJ3vay+MkmmrcFAer496vAKjEYvFIwp4y63mbzXRFd2xDkb+qFzQ4wswqX5NUrP8=;e7MQMWYN6rnyHg/DVduEmQ=="
+secured: "yLCytPSN+EACFi3nFII/GLDwCJeOg7+iyHhbzkP/EUe//EMJQzWUI0Z1kSgAwBO0V8vQRlfcgPWfuixXPa9f+v2Qx9x3MZE/eHo+30W3sH7r3QrkDrEFjNjGyQ8Tb+wReRwJlF7nUcZYT7MA+MZr1+TWBXDeM45Jt8g0WvMojSDbfdcwDJJ58VwUZb4Ov8zP1xNXqndGDN7wlDzDc08DIoByuRRZ0DFQJWrL9vXbJMo59hHC9FUxsGK+Y3UK+Qc60l6HkKOnfQCMxLe76c9VZxIYcVkjDgbLQG55xeKZCzyRE+x1MGLK6Iv4eYo21SJ31FWpd7x8P60zfhLikyJxrRWHKOL2leK2i9U7rOgSaYc=;cnIFxeWY6PtMl6uL1wSg4g=="
 ---
 

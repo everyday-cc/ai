@@ -8,8 +8,8 @@ webUrl: "https://venturebeat.com/2021/07/02/oracles-autonomous-data-warehouse-ex
 ampWebUrl: "https://venturebeat.com/2021/07/02/oracles-autonomous-data-warehouse-expansion-offers-potential-upside-for-tech-professionals/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/02/oracles-autonomous-data-warehouse-expansion-offers-potential-upside-for-tech-professionals/amp/"
 type: article
-quality: 64
-heat: 64
+quality: 68
+heat: 68
 published: false
 
 provider:
@@ -23,6 +23,8 @@ provider:
 topics:
   - AWS AI
   - AI
+  - Machine Learning
+  - Google AI
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2019/07/blockchain_database-e1573158651295.jpg?w=1200&strip=all"
@@ -30,6 +32,6 @@ images:
     height: 600
     isCached: true
 
-secured: "mRV8xm7mJNAeX4akyevhaQkdn6FIhMh2O+hs3mVSRFtjCotvyeLxfHqCtjdglheF325s+klaberfnF42vGwdNix968Z9xXpS1Ei3Yn3S2lp5YjRSRgTXogOnHozudxeQyyC2hTZAIp1TiA7kZLJl3zipb05Ssxku6f+PAE2VV8WxahXx6C68PDfi3BIbwdsWGqUEIuklKMLSmUWnub+Mm+2z+MUosh8/njuPqhZLU352e5LG3VJPFtgocNrCy811pl3XDOhbt+Ts+GwrJk75wGFXSMh0LwHDM22ZtcIKnnvROLzE7gCDRR/4OS9+zK7+UNlw2/7LdnT+FQp5/Qb/qheKn2ytJjdf9euSUeHugfs=;FtfKbpomFuW3NMRSFt8MHA=="
+secured: "fe/dCOyB/hf59JCUyr5lyNhVeOZPfn1dE/MdMgSSwWa1wftv+MixyDniRe82/sB2zw0z2rD5KDM+ADz7bxml6rGp5yWD65w1+K+aPm3J79DwHgbwRmA0r5YEKkt9SLeG4aOOlPjNviwU1eSzldklq9Vbs5eHttAJrqfulDRGqJN2joaDBNusq9HyG4v3NU5jCZ2zD0spUHz81QB4/xUGAU8GJvNL0YF9v+EqJqJAfkOyKL/LUXCDITJR4ICkT9mm6mksVVyd+wty+W6hw8J4WTFA30j5fGomoARjbHFT0fFh4O70xi0A2+Hj+hyyI9cFOud+VelknqiyIUkjDPl8eAbcEpGeoOH22OFX6+0OktjreA+78k/zuEv6tdFrcJrZ0QBK6SoN5hC94VZhTNRVT7OEiaWqXBN/sblNoE4VlHlpwb14m+6lyuOP7n+PiZkuDzEXJx0juNoUMa0IZD1o8L8IQvcg74IF+qbElxN8QkadVVKbw+tq3IsZg1B2fe1//aYub8q84pDPVKs9fzsScQ==;wi5o1Juj14rKOA8x36DpJQ=="
 ---
 

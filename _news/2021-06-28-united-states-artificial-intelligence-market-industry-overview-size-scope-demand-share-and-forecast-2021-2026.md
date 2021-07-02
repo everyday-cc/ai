@@ -182,6 +182,15 @@ related:
       name: ReportsnReports
       domain: reportsnreports.com
     quality: 23
+  - title: "Artificial Intelligence (AI) in Drug Discovery Market Share, Trends, Future Scope, Forecast 2027"
+    excerpt: "Artificial intelligence (AI) in drug discovery market is expected to gain market growth in the forecast period of 2020 to 2027. Data Bridge Market Research analyses the market to account to USD 3,932."
+    publishedDateTime: 2021-07-02T18:20:00Z
+    webUrl: "https://ksusentinel.com/2021/07/02/artificial-intelligence-ai-in-drug-discovery-market-share-trends-future-scope-forecast-2027/"
+    type: article
+    provider:
+      name: The Sentinel
+      domain: ksusentinel.com
+    quality: 19
   - title: "COVID-19 Impact on Artificial Intelligence Chipsets Market - Global Industry Analysis, Size, Share, Growth, Trends and Forecast 2021-2027"
     excerpt: "Artificial Intelligence Chipsets Market size exceeded USD 8 billion in 2019 and is estimated to grow at around 35 CAGR between 2021 and 2027 Artificial intelligence chipset market has reported a significant increase in size and value thanks to the"
     publishedDateTime: 2021-06-28T09:08:00Z

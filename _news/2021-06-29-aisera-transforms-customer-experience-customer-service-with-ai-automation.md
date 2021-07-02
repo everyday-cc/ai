@@ -65,6 +65,20 @@ related:
         width: 2121
         height: 1414
         isCached: true
+  - title: "GAO issues AI accountability framework for agencies"
+    excerpt: "The Government Accountability Office has released its much-anticipated artificial intelligence accountability framework in an effort to oversee how agencies are implementing the emerging technology. GAO‘s framework describes key practices across four parts of the development life cycle — governance,"
+    publishedDateTime: 2021-07-02T19:06:00Z
+    webUrl: "https://www.fedscoop.com/gao-ai-accountability-framework-release/"
+    type: article
+    provider:
+      name: FedScoop
+      domain: fedscoop.com
+    quality: 39
+    images:
+      - url: "https://www.fedscoop.com/wp-content/uploads/2019/10/gao-h-street.jpg"
+        width: 1920
+        height: 1024
+        isCached: true
 
 secured: "sQmlYbPJcw8txm27NX8wRPEnHujART/VAYE+R9pyMauGgqaQ51JO+e+M+vdnb2KcmNN7/7tVJqmyyVa9BtjOTB/CrSon3j4YI55tPr2GZoU5+2ZvXvgn0r91H4h8fI2jEYTP/kTUZPkNrcqsVWLtzmaDAhQpmXBLeELqLyGTV4JZRRaSvNe2N+IdDjyN68wGwjJtzVeCmjFD32oPuJwE/fDA6tI6CPQ0to3lrHnvHDBNG+g029loyiGFG/eogC7ZGTJoqjkb7SAoHZW4kTFutMeY31/P/dEoC8cbIDFhYtpjcKl/ga5EvsJINP+Q17Po+tdV/Wv8z1hwmdqT4zIlsvYEfSDSsj/5l1kcBRx1h68=;16Gy1fpurB3dsmlPutP13A=="
 ---

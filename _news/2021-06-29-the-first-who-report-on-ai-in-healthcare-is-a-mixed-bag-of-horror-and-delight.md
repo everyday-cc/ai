@@ -155,6 +155,20 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "WHO FOR AI FOR HEALTHCARE"
+    excerpt: "The report lays down six principles for design and use of AI in healthcare globally, with caution The past year or so has been a binge-watch of web series for many of us. I have been going through sev"
+    publishedDateTime: 2021-07-02T18:47:00Z
+    webUrl: "https://www.dailypioneer.com/2021/columnists/who-for-ai-for-healthcare.html"
+    type: article
+    provider:
+      name: The Pioneer
+      domain: dailypioneer.com
+    quality: 56
+    images:
+      - url: "https://www.dailypioneer.com/uploads/2021/story/images/big/who-for-ai-for-healthcare-2021-07-03.jpg"
+        width: 1000
+        height: 800
+        isCached: true
   - title: "WHO guidance on Artificial Intelligence to improve healthcare, mitigate risks worldwide"
     excerpt: "Artificial Intelligence (AI) holds \"enormous potential\" for improving the health of millions around the world if ethics and human rights are at the"
     publishedDateTime: 2021-06-28T14:50:00Z

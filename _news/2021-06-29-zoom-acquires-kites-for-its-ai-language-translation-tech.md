@@ -153,6 +153,22 @@ related:
         width: 1440
         height: 810
         isCached: true
+  - title: "Zoom buys AI company that worked on real-time translation"
+    excerpt: "According to Mashable, Zoom said that the acquisition is a move to help it make communicating with people who speak different languages easier and tha.."
+    publishedDateTime: 2021-07-01T08:08:00Z
+    webUrl: "https://cio.economictimes.indiatimes.com/news/next-gen-technologies/zoom-buys-ai-company-that-worked-on-real-time-translation/84014047"
+    ampWebUrl: "https://cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/zoom-buys-ai-company-that-worked-on-real-time-translation/84014047"
+    cdnAmpWebUrl: "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/zoom-buys-ai-company-that-worked-on-real-time-translation/84014047"
+    type: article
+    provider:
+      name: India Times
+      domain: indiatimes.com
+    quality: 59
+    images:
+      - url: "https://etimg.etb2bimg.com/thumb/msid-84014047,imgsize-23430,width-800,height-434,overlay-etcio/zoom-buys-ai-company-that-worked-on-real-time-translation.jpg"
+        width: 800
+        height: 434
+        isCached: true
   - title: "Zoom buys German AI translation company"
     excerpt: "The deal will expand the app’s speech-to-text feature, one of the biggest challenges in artificial intelligence research."
     publishedDateTime: 2021-07-02T06:36:00Z
@@ -223,20 +239,6 @@ related:
       - url: "https://techstory.in/wp-content/uploads/2021/07/iStock-1225232811.jpg"
         width: 1254
         height: 836
-        isCached: true
-  - title: "Zoom buys AI company that worked on real-time translation"
-    excerpt: "Proprietary video teleconferencing platform recently announced that it acquiring a company known as Kites short for Karlsruhe Information Technology Solution"
-    publishedDateTime: 2021-06-30T19:13:00Z
-    webUrl: "https://www.bignewsnetwork.com/news/270118590/zoom-buys-ai-company-that-worked-on-real-time-translation"
-    type: article
-    provider:
-      name: Big News Network.com
-      domain: bignewsnetwork.com
-    quality: 39
-    images:
-      - url: "https://cdn.bignewsnetwork.com/ani1625077312.jpg"
-        width: 630
-        height: 420
         isCached: true
   - title: "Zoom – Zoom buys German AI translation company"
     excerpt: "Latest financial technology news, fintech news, fin tech news, open banking news​, banking news, blogs opinion, analysis on Fintech Zoom."

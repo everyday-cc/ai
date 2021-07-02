@@ -9,8 +9,8 @@ ampWebUrl: "https://retailtouchpoints.com/topics/retail-store-design/in-store-in
 cdnAmpWebUrl: "https://retailtouchpoints-com.cdn.ampproject.org/c/s/retailtouchpoints.com/topics/retail-store-design/in-store-innovation/the-future-of-retail-and-ai/amp"
 type: article
 quality: 59
-heat: -1
-published: false
+heat: 89
+published: true
 
 provider:
   name: Retail TouchPoints
@@ -27,21 +27,21 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial intelligence at the service of the company"
-    excerpt: "Two of the companies created in The Collider, the innovation programme of the Mobile World Capital of Barcelona, stand out for applying artificial intelligence in"
-    publishedDateTime: 2021-06-28T02:00:00Z
-    webUrl: "https://www.lavanguardia.com/economia/20210628/7551935/artificial-intelligence-at-the-service-of-the-company.html"
-    ampWebUrl: "https://www.lavanguardia.com/economia/20210628/7551935/artificial-intelligence-at-the-service-of-the-company.amp.html"
-    cdnAmpWebUrl: "https://www-lavanguardia-com.cdn.ampproject.org/c/s/www.lavanguardia.com/economia/20210628/7551935/artificial-intelligence-at-the-service-of-the-company.amp.html"
+  - title: "How AI is serving up aces at Wimbledon – and what the technology means for the future of sport"
+    excerpt: "“Each day, hundreds of hours of footage are produced [at Wimbledon], which would ordinarily take a team of editors a huge amount of time to compile into highlights packages,” IBM says in its film, How does AI identify match highlights? Instead, Watson ..."
+    publishedDateTime: 2021-07-02T17:30:00Z
+    webUrl: "https://europeansting.com/2021/07/02/how-ai-is-serving-up-aces-at-wimbledon-and-what-the-technology-means-for-the-future-of-sport/"
+    ampWebUrl: "https://europeansting.com/2021/07/02/how-ai-is-serving-up-aces-at-wimbledon-and-what-the-technology-means-for-the-future-of-sport/amp/"
+    cdnAmpWebUrl: "https://europeansting-com.cdn.ampproject.org/c/s/europeansting.com/2021/07/02/how-ai-is-serving-up-aces-at-wimbledon-and-what-the-technology-means-for-the-future-of-sport/amp/"
     type: article
     provider:
-      name: La Vanguardia
-      domain: lavanguardia.com
-    quality: 59
+      name: europeansting.com
+      domain: europeansting.com
+    quality: 47
     images:
-      - url: "https://www.lavanguardia.com/files/image_948_465/uploads/2021/06/22/60d19a84d34b0.jpeg"
-        width: 948
-        height: 465
+      - url: "https://europeansting.files.wordpress.com/2021/07/tennis.jpeg"
+        width: 670
+        height: 1001
         isCached: true
   - title: "AI trends that will define the future of data science"
     excerpt: "Artificial Intelligence is the new electricity,” rightly said British-born American computer scientist Professor Andrew NG. AI is transforming every industry and creating huge economic value simultaneously."
@@ -54,20 +54,6 @@ related:
       name: India Times
       domain: indiatimes.com
     quality: 39
-  - title: "Debunking the AI Arms Race Theory"
-    excerpt: "The so-called AI arms race has become a common feature in news headlines, 4 but the arms race framing fails to match reality. While nations are clearly competing to develop and adopt AI technology for military use,"
-    publishedDateTime: 2021-06-29T17:06:00Z
-    webUrl: "https://www.cnas.org/publications/commentary/debunking-the-ai-arms-race-theory"
-    type: article
-    provider:
-      name: CNAS
-      domain: cnas.org
-    quality: 39
-    images:
-      - url: "https://s3.us-east-1.amazonaws.com/files.cnas.org/hero/GettyImages-1198282249-1.jpg?mtime=20210629125925&focal=none"
-        width: 2121
-        height: 1414
-        isCached: true
   - title: "Explainable AI, the future of financial services"
     excerpt: "As technology becomes more advanced, it can become harder to understand. Some may accept not fully understanding the ins and outs of a technology if it makes new or better things possible, but not being able to fully understand how a technology works can bring about its own problems."
     publishedDateTime: 2021-06-30T05:01:00Z

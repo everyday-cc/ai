@@ -61,6 +61,20 @@ related:
         width: 2121
         height: 1414
         isCached: true
+  - title: "GAO issues AI accountability framework for agencies"
+    excerpt: "The Government Accountability Office has released its much-anticipated artificial intelligence accountability framework in an effort to oversee how agencies are implementing the emerging technology. GAO‘s framework describes key practices across four parts of the development life cycle — governance,"
+    publishedDateTime: 2021-07-02T19:06:00Z
+    webUrl: "https://www.fedscoop.com/gao-ai-accountability-framework-release/"
+    type: article
+    provider:
+      name: FedScoop
+      domain: fedscoop.com
+    quality: 39
+    images:
+      - url: "https://www.fedscoop.com/wp-content/uploads/2019/10/gao-h-street.jpg"
+        width: 1920
+        height: 1024
+        isCached: true
   - title: "AISERA Transforms Customer Experience & Customer Service with AI & Automation"
     excerpt: "Aisera, the world's first AI Customer service that automates tasks, actions, and workflows for all organizations, announced today that it has significantly enhanced its Customer Service & Customer Experience (CX) solutions."
     publishedDateTime: 2021-06-29T14:20:00Z

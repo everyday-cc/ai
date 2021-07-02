@@ -48,7 +48,7 @@ related:
     provider:
       name: CNET
       domain: cnet.com
-    quality: 86
+    quality: 88
     images:
       - url: "https://www.cnet.com/a/img/gwmoAi0S4eDXJo6Rbg_tTnsJSgc=/1200x630/2020/05/01/bff6e427-0240-4ffd-bfbb-40db6bab6b46/security-facial-recognition-contact-tracing.jpg"
         width: 1200

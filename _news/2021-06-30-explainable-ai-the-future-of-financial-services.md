@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial intelligence at the service of the company"
-    excerpt: "Two of the companies created in The Collider, the innovation programme of the Mobile World Capital of Barcelona, stand out for applying artificial intelligence in"
-    publishedDateTime: 2021-06-28T02:00:00Z
-    webUrl: "https://www.lavanguardia.com/economia/20210628/7551935/artificial-intelligence-at-the-service-of-the-company.html"
-    ampWebUrl: "https://www.lavanguardia.com/economia/20210628/7551935/artificial-intelligence-at-the-service-of-the-company.amp.html"
-    cdnAmpWebUrl: "https://www-lavanguardia-com.cdn.ampproject.org/c/s/www.lavanguardia.com/economia/20210628/7551935/artificial-intelligence-at-the-service-of-the-company.amp.html"
-    type: article
-    provider:
-      name: La Vanguardia
-      domain: lavanguardia.com
-    quality: 59
-    images:
-      - url: "https://www.lavanguardia.com/files/image_948_465/uploads/2021/06/22/60d19a84d34b0.jpeg"
-        width: 948
-        height: 465
-        isCached: true
   - title: "The Future of Retail and AI"
     excerpt: "When Amazon Go launched in 2018, critics claimed that it would take more than a decade for autonomous retail to catch on. Fast-forward a couple of years and one global pandemic later, it’s clear that autonomous retail isn’t going anywhere."
     publishedDateTime: 2021-06-29T15:35:00Z
@@ -57,6 +41,22 @@ related:
         width: 830
         height: 571
         isCached: true
+  - title: "How AI is serving up aces at Wimbledon – and what the technology means for the future of sport"
+    excerpt: "“Each day, hundreds of hours of footage are produced [at Wimbledon], which would ordinarily take a team of editors a huge amount of time to compile into highlights packages,” IBM says in its film, How does AI identify match highlights? Instead, Watson ..."
+    publishedDateTime: 2021-07-02T17:30:00Z
+    webUrl: "https://europeansting.com/2021/07/02/how-ai-is-serving-up-aces-at-wimbledon-and-what-the-technology-means-for-the-future-of-sport/"
+    ampWebUrl: "https://europeansting.com/2021/07/02/how-ai-is-serving-up-aces-at-wimbledon-and-what-the-technology-means-for-the-future-of-sport/amp/"
+    cdnAmpWebUrl: "https://europeansting-com.cdn.ampproject.org/c/s/europeansting.com/2021/07/02/how-ai-is-serving-up-aces-at-wimbledon-and-what-the-technology-means-for-the-future-of-sport/amp/"
+    type: article
+    provider:
+      name: europeansting.com
+      domain: europeansting.com
+    quality: 47
+    images:
+      - url: "https://europeansting.files.wordpress.com/2021/07/tennis.jpeg"
+        width: 670
+        height: 1001
+        isCached: true
   - title: "AI trends that will define the future of data science"
     excerpt: "Artificial Intelligence is the new electricity,” rightly said British-born American computer scientist Professor Andrew NG. AI is transforming every industry and creating huge economic value simultaneously."
     publishedDateTime: 2021-06-29T09:54:00Z
@@ -68,20 +68,6 @@ related:
       name: India Times
       domain: indiatimes.com
     quality: 39
-  - title: "Debunking the AI Arms Race Theory"
-    excerpt: "The so-called AI arms race has become a common feature in news headlines, 4 but the arms race framing fails to match reality. While nations are clearly competing to develop and adopt AI technology for military use,"
-    publishedDateTime: 2021-06-29T17:06:00Z
-    webUrl: "https://www.cnas.org/publications/commentary/debunking-the-ai-arms-race-theory"
-    type: article
-    provider:
-      name: CNAS
-      domain: cnas.org
-    quality: 39
-    images:
-      - url: "https://s3.us-east-1.amazonaws.com/files.cnas.org/hero/GettyImages-1198282249-1.jpg?mtime=20210629125925&focal=none"
-        width: 2121
-        height: 1414
-        isCached: true
 
 secured: "GW5bBAA3EgexYKLBbAkcvHodWnqzn7zhnv19cd1kREE+q7H2cpl36i+o8YAUdGu7GGRI5EyaqWDtO9hnUJwT5JX/iQsT/Q5fheB7/V5+y83DEmhT5O5vMRaCuaTa2K4Gybb2pl4nQtNTOgL0hjcgSsoyDfJgrkfHvVDPvNArMeHbGaK2zcEayQxUz3ZOHY6/ZCYtF3uMts42wxu+OqWJPe8SE0sas2s5Bmi5leRvdJYYmo96ta0/nM+RYreEmCXiueAbX3U3XxA29i7kNQ8rT/oT71EHvi0UyTqrFkFfG52KrI+1zaBtqDpDZ78ghWTbPZt9M4THe9PsayheS0G/pZgeZScBlfERqov/RtYm01femaMkc+wqdIqJgwFUvrgSCzR5o/SahPo9uCrobutJ6my+054bQTgKgXH+2l+Cgsds1680ut03lqjAb50myFeyRlBk7t0nWTFEV/+mP5y9qsUYyZk2E1K8qJZicmJLYTyz6bRWgM2M+Slu6tgEnPTUo9T4ofRH088iGEvDUOLQSQ==;LYWNqaZHX5oShJSWFngVDg=="
 ---

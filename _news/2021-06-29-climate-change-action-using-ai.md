@@ -96,6 +96,17 @@ related:
         width: 2880
         height: 2035
         isCached: true
+  - title: "Bringing AI into your IT operations with IBM Watson"
+    excerpt: "Of course, there will still be situations that cannot be prevented and in these situations AI can be used to resolve the issue quickly and reduce the downtime. IBM Watson AIOps uses feeds from a ..."
+    publishedDateTime: 2021-06-28T06:36:00Z
+    webUrl: "https://www.itweb.co.za/content/kLgB1Me8AGY759N4"
+    ampWebUrl: "https://www.itweb.co.za/amp/content/kLgB1Me8AGY759N4"
+    cdnAmpWebUrl: "https://www-itweb-co-za.cdn.ampproject.org/c/s/www.itweb.co.za/amp/content/kLgB1Me8AGY759N4"
+    type: article
+    provider:
+      name: ITWeb
+      domain: itweb.co.za
+    quality: 54
   - title: "Business implications of AI within tax & accounting"
     excerpt: "With AI promising the greatest transformation in many industries, including tax & accounting, we need to begin asking what the implications of this will be."
     publishedDateTime: 2021-06-30T16:44:00Z

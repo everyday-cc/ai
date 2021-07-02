@@ -47,6 +47,49 @@
       ]
     },
     {
+      "path": "_news/2021-06-29-getting-started-with-ai-using-ibm-watson.md",
+      "title": "Getting Started with AI using IBM Watson",
+      "excerpt": "In this course you will learn how to quickly and easily get started with Artificial Intelligence using IBM Watson. You will understand how Watson works, become familiar with its use cases and real ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.usnews.com/education/skillbuilder/getting-started-with-ai-using-ibm-watson-0_GdR9t4MnEem1fhKdUV_ohA",
+      "originalUrl": "https://www.usnews.com/education/skillbuilder/getting-started-with-ai-using-ibm-watson-0_GdR9t4MnEem1fhKdUV_ohA",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-29T04:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "U.S. News & World Report",
+        "domain": "usnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-28-meet-the-new-standard-in-risk-management.md",
       "title": "Meet the new standard in risk management",
       "excerpt": "Legacy assessment based third-party risk management (TPRM) practices have struggled for years to keep pace with business needs. During the COVID-19 crisis, these shortcomings became even more acute. Companies faced additional unanticipated challenges involving the rapid onboarding of new service providers,",
@@ -1341,49 +1384,6 @@
       "provider": {
         "name": "No Jitter",
         "domain": "nojitter.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-02-private-clouds-hybrid-clouds-the-next-evolution-of-cloud.md",
-      "title": "Private clouds, hybrid clouds the next evolution of cloud",
-      "excerpt": "while MultiChoice South Africa answers customers’ inquiries faster than ever with an AI-powered virtual agent – an IBM Watson assistant – to support its call centre agents and help to ensure ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.itweb.co.za/content/mQwkoq6P66z73r9A",
-      "originalUrl": "https://www.itweb.co.za/content/mQwkoq6P66z73r9A",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://lh3.googleusercontent.com/F1jHlpMWiZyeC9pL8iCHT__UcV1svOvTv_H3Zk-rjONPXrMte8n5ef_MMIWrMJ2M6morHJ_j9Gw-LaZBzySEA5XhCo-246bqfTxXmA=w816-h428",
-          "width": 764,
-          "height": 428,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.itweb.co.za/amp/content/mQwkoq6P66z73r9A",
-      "cdnAmpWebUrl": "https://www-itweb-co-za.cdn.ampproject.org/c/s/www.itweb.co.za/amp/content/mQwkoq6P66z73r9A",
-      "publishedDateTime": "2021-06-02T04:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ITWeb",
-        "domain": "itweb.co.za",
         "images": null,
         "publishers": null,
         "authors": null

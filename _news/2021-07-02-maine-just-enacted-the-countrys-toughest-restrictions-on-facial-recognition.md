@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/maine-just-enacted-the-countrys
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/maine-just-enacted-the-countrys-toughest-restrictions-on-facial-recognition/"
 type: article
 quality: 101
-heat: 251
+heat: 261
 published: true
 
 provider:
@@ -256,6 +256,17 @@ related:
         width: 1440
         height: 803
         isCached: true
+  - title: "Federal agencies need stricter limits on facial recognition to protect privacy, government watchdog says"
+    excerpt: "Some federal agencies had their own facial recognition databases, but most used private companies like Clearview AI and Amazon, which offers a tool called Rekognition. Many couldn't say for sure which systems they had used."
+    publishedDateTime: 2021-06-30T00:54:00Z
+    webUrl: "https://www.seattletimes.com/business/technology/federal-agencies-need-stricter-limits-on-facial-recognition-to-protect-privacy-government-watchdog-says/"
+    ampWebUrl: "https://www.seattletimes.com/business/technology/federal-agencies-need-stricter-limits-on-facial-recognition-to-protect-privacy-government-watchdog-says/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/technology/federal-agencies-need-stricter-limits-on-facial-recognition-to-protect-privacy-government-watchdog-says/?amp=1"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 22
 
 secured: "US4kvltPEXkTRKnS0xqCipjUrjkaECMkgRH/m1bgyV3Zm+uH1z7XjYeeCEYsBLGRLOKckavHE/9bXLZiOYS2/rk+bKzmSDXkFCOufQnPY+iyaWkctV/k+OSqpjkva2MnVV9FvRFPsWNVYZmVbWFyYPjN/g4luZWn0rAgxSpbylyoalzbGPqf2dFyarHucU3ePCZJyqo7MXZ8vo1ZKU3x8Thmmm78taNplVG9KO5dB/72hLk6EaRFmdViG1FuTL0t0uip3sTQQFXG+afZqUqqrkC2ah9Qezr6zp5yNRVHtZFquk7t8TguoVnELrfi7bXg0Y+pS9AMgmJaebqAknmhmGGmAFkcADFofoYK+U8uTlySrUfIguppcx9HfIEcw3XD76xRErP1Cr4dxQR6/mqvoMgY4dgcbJKXyeWqCqUTpmD5ZJqe1gC9vRrEUDqkC27mV2Twpz2RlASrPx9iipJb1CpMjgI6+hJPL3UWfqm+unin8Hot1My1VC6QA3i1jZ3K6d/JKF0MikpX+L5WMJLiEQ==;O1pNwy+8ZwOEyObWlWYX1g=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cpomagazine.com/data-privacy/eu-privacy-watchdogs-seek-a
 cdnAmpWebUrl: "https://www-cpomagazine-com.cdn.ampproject.org/c/s/www.cpomagazine.com/data-privacy/eu-privacy-watchdogs-seek-ai-biometrics-and-facial-recognition-ban-in-public-spaces/amp/"
 type: article
 quality: 70
-heat: 80
+heat: 90
 published: true
 
 provider:
@@ -28,6 +28,22 @@ images:
     isCached: true
 
 related:
+  - title: "EU’s top privacy watchdogs urge blanket ban on use of recognition tech in public spaces"
+    excerpt: "Two European privacy watchdogs have joined forces to call for a blanket ban on the use of biometric recognition in public spaces, outlawing such tech as AI-based facial, DNA, fingerprint and other recognition systems."
+    publishedDateTime: 2021-07-01T22:56:00Z
+    webUrl: "https://www.rt.com/news/527183-eu-privacy-surveillance-ban/"
+    ampWebUrl: "https://www.rt.com/news/527183-eu-privacy-surveillance-ban/amp/"
+    cdnAmpWebUrl: "https://www-rt-com.cdn.ampproject.org/c/s/www.rt.com/news/527183-eu-privacy-surveillance-ban/amp/"
+    type: article
+    provider:
+      name: RT
+      domain: rt.com
+    quality: 36
+    images:
+      - url: "https://cdni.rt.com/files/2021.06/xxl/60d0abac2030277d043543a9.JPG"
+        width: 1240
+        height: 697
+        isCached: true
   - title: "Jumio ID document checks and face biometrics integrated with cannabis vending machines"
     excerpt: "American Green has selected Jumio to provide facial recognition for its AGM Age Verifying Vending Machine, for a new customer onboarding process."
     publishedDateTime: 2021-06-30T21:33:00Z

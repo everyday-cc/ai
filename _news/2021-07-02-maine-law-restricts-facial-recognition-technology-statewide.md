@@ -251,6 +251,17 @@ related:
         width: 1440
         height: 803
         isCached: true
+  - title: "Federal agencies need stricter limits on facial recognition to protect privacy, government watchdog says"
+    excerpt: "Some federal agencies had their own facial recognition databases, but most used private companies like Clearview AI and Amazon, which offers a tool called Rekognition. Many couldn't say for sure which systems they had used."
+    publishedDateTime: 2021-06-30T00:54:00Z
+    webUrl: "https://www.seattletimes.com/business/technology/federal-agencies-need-stricter-limits-on-facial-recognition-to-protect-privacy-government-watchdog-says/"
+    ampWebUrl: "https://www.seattletimes.com/business/technology/federal-agencies-need-stricter-limits-on-facial-recognition-to-protect-privacy-government-watchdog-says/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/technology/federal-agencies-need-stricter-limits-on-facial-recognition-to-protect-privacy-government-watchdog-says/?amp=1"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 22
 
 secured: "ABtgVtGXHqrrnoKLCKevWpyXNIfH/npQ5Chf63nsawzyVTRlN92aRTXh5iDLxGitlFeo9FKdA6AJCi/Onnw2UREfNnnj1RIeOTmZQ7Fh/K255r3pi9lwBfcw2qSpnEItRueV9fyM6+6f5NWpAdCln8JKfH4gw3IoiUhucKThRMTC1yFjYJ6XoK291BZhU+1H4BQNRu0yJGfgUeY6TdG1CJXrCHVddHFLsRZhqZqCVOYP7yZUBXMqqMkGHOgGxnHOzUG+oxssx/2mnyc+lovfS2k2995h+tfaj6ljz8iYAaRmSmYIZVJveDu0sp6XNbTeCerAT5p7vq6/1B5esldhF+NJKHUqMyx1chaAijHwIjE=;JtzpvC6bMktUdG3NavdFKg=="
 ---

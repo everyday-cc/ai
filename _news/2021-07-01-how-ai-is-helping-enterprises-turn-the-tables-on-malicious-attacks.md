@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/07/01/how-ai-is-helping-enterprises-tur
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/01/how-ai-is-helping-enterprises-turn-the-tables-on-malicious-attacks/amp/"
 type: article
 quality: 87
-heat: 127
+heat: 117
 published: true
 
 provider:
@@ -76,15 +76,6 @@ related:
         width: 1080
         height: 675
         isCached: true
-  - title: "How AI Is Taking Over Our Gadgets"
-    excerpt: "AI is moving from data ters to devices, making everything from phones to tractors faster and more private. These newfound smarts also come with pitfalls."
-    publishedDateTime: 2021-06-28T14:47:00Z
-    webUrl: "https://cacm.acm.org/news/253614-how-ai-is-taking-over-our-gadgets/fulltext"
-    type: article
-    provider:
-      name: acm.org
-      domain: acm.org
-    quality: 17
 
 secured: "U1T9x+E4Rjl0qTv/F7eCSYv9fiNEz4u8XA4xf5xypw34jqlKpMud8DUa7xoeBgEueI8VjciBLRibVl/8lACM1A/mMas0trPET6mJWZLq0qHZnIo2QzkHfbBeNU2gaLKcehBJITejCX7HZApjgcuvIqIz5x6AcBCKIyEw/1BSl6m6n4/bRs6tWSUUJ8v5dBMVIfArxnVSIt0VyOBx44J6PrjF9jp2EfcVoolS+4TBxKVCU6iA7YcLw6pSYn4IgO3bdx+s8gDSwPoZ2m/ukdj8WQdfZG1pCSE1J2yVCbZ0xzvKTfLUDT8x1trzUme4SLv0efdc0wR3E5CtYEXhhpudU4onjG6iae8KbfzXPmR+QrmpsFgWzSSP5zuGGNBeQOq7G2fTTI5+E3MuBexm94MbrNSke7kaNioqEFINMfgGd6ylVSdzMBZTx084E1A5TFBcsaBqg7lysm/cP3y0PXouZJH/ulqec3lCS4I+SKCXJzIjAMDtMS5clwxzZxyzjVryXCUIjwD49SWsHxmISaGW6A==;zGSW2xjeIZBx9IXBeFb1ZA=="
 ---
