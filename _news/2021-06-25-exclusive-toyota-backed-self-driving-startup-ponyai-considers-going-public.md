@@ -1,10 +1,10 @@
 ---
 category: news
-title: "Exclusive: Toyota-backed self-driving startup Pony.ai considers going public"
-excerpt: "A screen showing traffic and other objects is seen inside a vehicle equipped with Pony.ai's self-driving technology during a demonstration in Fremont, California, U.S. June 17, 2021. REUTE"
-publishedDateTime: 2021-06-25T13:51:00Z
-originalUrl: "https://www.reuters.com/news/picture/exclusive-toyota-backed-self-driving-sta-idUSKCN2E10Y4"
-webUrl: "https://www.reuters.com/news/picture/exclusive-toyota-backed-self-driving-sta-idUSKCN2E10Y4"
+title: "EXCLUSIVE Toyota-backed self-driving startup Pony.ai considers going public"
+excerpt: "FREMONT, California, June 25 (Reuters) - Self-driving tech company Pony.ai ... Pony.ai, founded by former Google and Baidu Inc (9888.HK) engineers Peng and Lou Tiancheng in 2016, has so far ..."
+publishedDateTime: 2021-06-25T10:12:00Z
+originalUrl: "https://www.reuters.com/business/autos-transportation/exclusive-toyota-backed-self-driving-startup-ponyai-considers-going-public-2021-06-25/"
+webUrl: "https://www.reuters.com/business/autos-transportation/exclusive-toyota-backed-self-driving-startup-ponyai-considers-going-public-2021-06-25/"
 type: article
 
 provider:
@@ -20,11 +20,11 @@ topics:
   - AI
 
 images:
-  - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210625&t=2&i=1566947948&w=&fh=545&fw=810&ll=&pl=&sq=&r=LYNXNPEH5O0G8"
-    width: 810
-    height: 540
+  - url: "https://www.reuters.com/resizer/2qSLKwou_uMeOYl9o0cLDFy9k_A=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/YKRNUSEBRNJLROOHXAMKCUAUOE.jpg"
+    width: 1200
+    height: 628
     isCached: true
 
-secured: "izSwWQcXB3GLCWj2XtDtZRKt922I1ChPGWPMyHuW1OslyZZIg8O2fYWA+fQCChyFjDFufmYlNb4AninlC+Sr9KXYFXxdm4TkZ7QBc1jvkI6bA+ctmbP/L9q0a7XbGnidufcnboVbZKOCENNsF1uefV65I5rnAjwbekwqzmon6VDbep8o7lZEDbw8dBVl0RCnc0qkvxzPlNBGHrWVwkT95pZrEsDVFtHGej2VJpXZXbommXXNNSpIRgve6uPvmCYS5wKbjyjGWbETKZIjlYip2BH8wFMDq6TY8+pBgolhKdPwH9L26aGy5D7Z+eJ3S230Mm6ZDez739EV6WNBAmpblFD8bdpj8rxZR7ICbCh04Y/2wVCH3UD5ASGz/0YGE+iDSSDRdOmZegpOFk4P4r1qnoHJs5hAepx+GuX7ypQ9/M2Q5uSlw+S5+rAvDHnD9k8E+6z8cnBbiuot+XzkoMjumzyZb2GBMlMUBouy1tz5H8RVNXUEfO1lbFn9D6MBQZo6LNMHsKg31fi/syJzfQjQhw==;4XeqmW05bm5SLZhwPpd8VQ=="
+secured: "2wWgjpx5DCLZ5JiOP5sHGiRTztj/jnWsN/+QKnad9iv35g3ZMgeRzhghaM4OS0qWhWoTkzxPx4nsVss8+8s7wdcx5pqoXnDhCerLshp54oSu+82+gu13YiPhY9i+QLZDR6hHpEBUTG0JkhhGdAFMzcsDaRiCiBj8KByQFOEUvilfVzcgQb3GQrB7hVjvfcQIJ7sC6x8/gpbd+dISvFQr+5RYNyATZbQNi8hg1teCffu7YufV/+1TBSunQlcix50gLWl4TmvTt2dS+QOs6Dp96HX6A0MpVMLj4q4EMZYfLmTuOT5x+UA08ET40UY6gi9EUn+24f4+QsSNZwzHaW2PHf+QzyKzR76ADPTRoLobp9I=;nvLU0VBjxvzOch2L8tcl2Q=="
 ---
 

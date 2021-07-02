@@ -40,7 +40,7 @@ related:
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 88
+    quality: 188
     images:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60dc766f9b49abb41e383c3e%2F0x0.jpg"
         width: 1200

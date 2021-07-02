@@ -124,6 +124,22 @@ related:
         width: 580
         height: 339
         isCached: true
+  - title: "With Windows 11 'accessibility was considered from the start,' says Microsoft"
+    excerpt: "Microsoft explains how \"Windows 11 is the most inclusively designed version of Windows\" in a recent blog post. The operating system includes several features to improves accessibility."
+    publishedDateTime: 2021-07-02T13:54:00Z
+    webUrl: "https://www.windowscentral.com/windows-11-accessibility-was-considered-start-says-microsoft"
+    ampWebUrl: "https://www.windowscentral.com/windows-11-accessibility-was-considered-start-says-microsoft?amp"
+    cdnAmpWebUrl: "https://www-windowscentral-com.cdn.ampproject.org/c/s/www.windowscentral.com/windows-11-accessibility-was-considered-start-says-microsoft?amp"
+    type: article
+    provider:
+      name: Windows Central
+      domain: windowscentral.com
+    quality: 56
+    images:
+      - url: "https://www.windowscentral.com/sites/wpcentral.com/files/styles/large/public/field/image/2021/06/windows-11-icon-taskbar-razebook.jpg"
+        width: 800
+        height: 600
+        isCached: true
   - title: "AT&T to Run Mobility Network on Microsoft’s Azure for Operators"
     excerpt: "AT&T will move its 5G mobile network to the Microsoft cloud. The strategic alliance provides a path for all of AT&T’s mobile network traffic to be managed using Microsoft Azure technologies. The companies will start with AT&T’s 5G core,"
     publishedDateTime: 2021-06-30T17:03:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/07/01/how-ai-is-helping-enterprises-tur
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/01/how-ai-is-helping-enterprises-turn-the-tables-on-malicious-attacks/amp/"
 type: article
 quality: 87
-heat: 128
+heat: 138
 published: true
 
 provider:
@@ -45,6 +45,22 @@ related:
       - url: "https://images.theconversation.com/files/409277/original/file-20210701-5537-pbg5fd.jpeg?ixlib=rb-1.1.0&q=45&auto=format&w=320&h=320&fit=crop"
         width: 320
         height: 320
+        isCached: true
+  - title: "Four ways artificial intelligence is helping us learn about the universe"
+    excerpt: "Astronomy is all about data. The universe is getting bigger and so too is the amount of information we have about it. But some of the biggest challenges of the next generation of astronomy lie in just how we're going to study all the data we're collecting."
+    publishedDateTime: 2021-07-02T13:30:00Z
+    webUrl: "https://techxplore.com/news/2021-07-ways-artificial-intelligence-universe.html"
+    ampWebUrl: "https://techxplore.com/news/2021-07-ways-artificial-intelligence-universe.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-07-ways-artificial-intelligence-universe.amp"
+    type: article
+    provider:
+      name: techxplore.com
+      domain: techxplore.com
+    quality: 56
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/2021/four-ways-artificial-i.jpg"
+        width: 600
+        height: 229
         isCached: true
   - title: "How Artificial Intelligence Is Taking Over Our Gadgets"
     excerpt: "We're now witnessing a turning point for artificial intelligence, as more of it comes down from the clouds and into our smartphones and automobiles. While it's fair to say that AI that lives on the \"edge\" -- where you and I are -- is still far less powerful than its datacenter-based counterpart,"

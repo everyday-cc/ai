@@ -24,17 +24,6 @@ images:
     height: 1414
     isCached: true
 
-related:
-  - title: "Medidata Acorn AI Synthetic Control Arm® Named \"Best AI-based Solution for Healthcare\" by 2021 AI Breakthrough Awards"
-    excerpt: "Medidata, a Dassault Systemes ( News - Alert) company, today announced that the Medidata Acorn AI Synthetic Control Arm ® (SCA) has been awarded \"Best AI-based Solution for Healthcare'' in this year's AI Breakthrough Awards ."
-    publishedDateTime: 2021-06-30T16:05:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2021/06/30/9401233.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 11
-
 secured: "YSBZN8gZJ1krH98IZYmH8RzjLR/8+EabXMYIcOQuxGHx1uvbWfBhLINisL3SeRr9mFHQ3H8mEc65gCKKps43nbxMWAyKFO/KnvP9lp02C4/yaS9Xbeng4rGd61pm18Ak0+QOUOIuZg2Z1pinaqGPgFtCZ3CgUsKw4Dvdt6d6JDZ8kS90MZ+lfPHSRaPDg9fmpfDDNBqjZDIhSkeTxlxzCrr3tXcF4gL7+Zwwlo2wRGUEsDuv0h6a9AYpujEn0Ub7rESnvNAEEQKov8vKa9067a3YKqbsZZbz1d2OTx+eslkGc/zk/9f7HyNGJAgO2CcDBKsr/nzqP+XdxT1/e7QaLv/+CTd4+xivfd221isYk+DzPklqDlJAgK8ZLSVXN62JJOES0IcmnIYNUix9T9IYa0eKTtJWI/1CvKAhvY9jPDpPzOOLMYPhaAwtgofuQcgKfichrNAM+s6zLTRbhCGrANh/aRD9ZqD/VOeFkZUEfkVZPtUpSpxcoQPcrxejhslGuiTFZSzEyf+3RhHsY54w/g==;1oLTviANFKucy84koDE7dA=="
 ---
 

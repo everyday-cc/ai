@@ -2,6 +2,367 @@
   "page": 59,
   "value": [
     {
+      "path": "_news/2021-05-20-states-move-to-limit-government-use-of-facial-recognition-software.md",
+      "title": "States move to limit government use of facial recognition software",
+      "excerpt": "Kristina Partsinevelos joins 'The News with Shepard Smith' to discuss how different states are considering a full ban of facial recognition.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/video/2021/05/19/states-move-to-limit-government-use-of-facial-recognition-software.html",
+      "originalUrl": "https://www.cnbc.com/video/2021/05/19/states-move-to-limit-government-use-of-facial-recognition-software.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/106885665-16214663711621466368-16206523822-1080pnbcnews.jpg?v=1621466370",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-19T14:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-20-best-stocks-to-invest-in-right-now-3-artificial-intelligence-stocks-to-watch.md",
+      "title": "Best Stocks To Invest In Right Now? 3 Artificial Intelligence Stocks To Watch",
+      "excerpt": "Is Now The Time To Add These Top Artificial Intelligence Stocks To Your Portfolio ... employs AI tech through its Amazon Web Services (AWS) cloud computing service. AMZN stock currently trades ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/best-stocks-to-invest-in-right-now-3-artificial-intelligence-stocks-to-watch-2021-05-19",
+      "originalUrl": "https://www.nasdaq.com/articles/best-stocks-to-invest-in-right-now-3-artificial-intelligence-stocks-to-watch-2021-05-19",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/best-stocks-to-invest-in-right-now-3-artificial-intelligence-stocks-to-watch-2021-05-19?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/best-stocks-to-invest-in-right-now-3-artificial-intelligence-stocks-to-watch-2021-05-19?amp",
+      "publishedDateTime": "2021-05-19T14:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-20-walgreens-used-ai-to-optimize-vaccine-outreach-emails.md",
+      "title": "Walgreens used AI to optimize vaccine outreach emails",
+      "excerpt": "Walgreens worked with Phrasee, which develops marketing automation products, to optimize the language of its vaccine outreach emails.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/05/19/walgreens-used-ai-to-optimize-vaccine-outreach-emails/",
+      "originalUrl": "https://venturebeat.com/2021/05/19/walgreens-used-ai-to-optimize-vaccine-outreach-emails/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2015/09/Walgreens_store-e1621433287338.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/05/19/walgreens-used-ai-to-optimize-vaccine-outreach-emails/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/19/walgreens-used-ai-to-optimize-vaccine-outreach-emails/amp/",
+      "publishedDateTime": "2021-05-19T13:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-20-the-church-of-ai-is-dead-so-whats-next-for-robots-and-religion.md",
+      "title": "The Church of AI is dead… so what’s next for robots and religion?",
+      "excerpt": "The Way of the Future, a church founded by a former Google and Uber engineer, is now a thing of the past. It’s been a few months since the world’s first AI-focused church shuttered its digital doors,",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/news/church-of-ai-dead-robots-and-religion-artificial-intelligence",
+      "originalUrl": "https://thenextweb.com/news/church-of-ai-dead-robots-and-religion-artificial-intelligence",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-cdn.tnwcdn.com/image?fit=300%2C205&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F05%2FUntitled-design-23.jpg&signature=13bdf3c189e2e230044f8b63ee740134",
+          "width": 300,
+          "height": 205,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-19T13:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-20-new-120m-round-doubles-ai-startup-asapps-valuation-to-16b.md",
+      "title": "New $120M round doubles AI startup ASAPP’s valuation to $1.6B",
+      "excerpt": "The startup secured the capital through a Series C round announced today that was led by Fidelity Management. ASAPP’s new $1.6 billion valuation is twice as high as a year ago. ASAPP offers an AI platform for improving the productivity of customer care teams and salespeople.",
+      "sourceUrl": null,
+      "webUrl": "https://siliconangle.com/2021/05/19/new-120m-round-doubles-ai-startup-asapps-valuation-1-6b/",
+      "originalUrl": "https://siliconangle.com/2021/05/19/new-120m-round-doubles-ai-startup-asapps-valuation-1-6b/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 137,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/05/asapp.png",
+          "width": 997,
+          "height": 544,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-19T12:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SiliconANGLE",
+        "domain": "siliconangle.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-20-deep-learning-algorithm-estimates-cancer-risk-of-pulmonary-nodules.md",
+      "title": "Deep-learning algorithm estimates cancer risk of pulmonary nodules",
+      "excerpt": "A deep-learning algorithm can yield comparable performance to experienced thoracic radiologists in estimating the malignancy risk of pulmonary nodules on chest CT exams, according to research published online May 18 in Radiology.",
+      "sourceUrl": null,
+      "webUrl": "https://www.auntminnie.com/index.aspx?sec=log&itemid=132441",
+      "originalUrl": "https://www.auntminnie.com/index.aspx?sec=log&itemid=132441",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.auntminnie.com/user/images/content_images/pho_redir/2021_05_19_18_58_7336_2021_05_18_AI_CT_social.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-19T12:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AuntMinnie",
+        "domain": "auntminnie.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-20-ibm-think-2021-ai-automation-hybrid-cloud-and-practical-innovation.md",
+      "title": "IBM Think 2021: AI, Automation, Hybrid Cloud and Practical Innovation",
+      "excerpt": "Takeaways from IBM Think 2021? The company is focused on helping enterprise customers and partners survive the challenges of the Covid-19 pandemic and prepare them to thrive as business and daily life resumes.",
+      "sourceUrl": null,
+      "webUrl": "https://www.eweek.com/big-data-and-analytics/ibm-think-2021-ai-automation-hybrid-cloud-and-practical-innovation/",
+      "originalUrl": "https://www.eweek.com/big-data-and-analytics/ibm-think-2021-ai-automation-hybrid-cloud-and-practical-innovation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.eweek.com/wp-content/uploads/2021/05/utADJtuJCnpEyeker-696x392.jpg",
+          "width": 696,
+          "height": 392,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-19T12:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "eWeek",
+        "domain": "eweek.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/eweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2021-05-20-saas-application-delivering-ai-enhanced-customer-experience.md",
+      "title": "SaaS Application Delivering AI-Enhanced Customer Experience",
+      "excerpt": "Many people don''t realize the true extent to which artificial intelligence (AI) and machine learning have on their lives and the choices they make every day. Whenever YouTube recommends a new video,",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/topics/articles/2021/05/19/448930-saas-application-delivering-ai-enhanced-customer-experience.htm",
+      "originalUrl": "https://www.tmcnet.com/topics/articles/2021/05/19/448930-saas-application-delivering-ai-enhanced-customer-experience.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-19T11:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-20-this-ai-makes-robert-de-niro-perform-lines-in-flawless-german.md",
       "title": "This AI Makes Robert De Niro Perform Lines in Flawless German",
       "excerpt": "When films are dubbed in another language, an actor’s facial movements may clash with his lines. Technology related to deepfakes can help smooth things over.",
@@ -847,375 +1208,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-19-south-korean-startup-cryptocurrency-platform-to-start-blockchain-bank.md",
-      "title": "South Korean startup, cryptocurrency platform to start blockchain bank",
-      "excerpt": "South Korean startup Bloom Technology announced it will join cryptocurrency trading platform IDCM Asia to set up a blockchain-based bank in Dubai.",
-      "sourceUrl": null,
-      "webUrl": "https://www.upi.com/Top_News/World-News/2021/05/19/skorea-Blockchain-bank-Bloom-Technology-IDCM-Asia-cyptocurrency/4431621433182/",
-      "originalUrl": "https://www.upi.com/Top_News/World-News/2021/05/19/skorea-Blockchain-bank-Bloom-Technology-IDCM-Asia-cyptocurrency/4431621433182/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdnph.upi.com/sv/ph/og/i/4431621433182/2021/1/16214336372176/v1.5/South-Korean-startup-cryptocurrency-platform-to-start-blockchain-bank.jpg",
-          "width": 679,
-          "height": 452,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.upi.com/amp/Top_News/World-News/2021/05/19/skorea-Blockchain-bank-Bloom-Technology-IDCM-Asia-cyptocurrency/4431621433182/",
-      "cdnAmpWebUrl": "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/World-News/2021/05/19/skorea-Blockchain-bank-Bloom-Technology-IDCM-Asia-cyptocurrency/4431621433182/",
-      "publishedDateTime": "2021-05-19T07:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "UPI.com",
-        "domain": "upi.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2021-05-19-amazon-extends-ban-of-police-using-its-facial-recognition-indefinitely.md",
-      "title": "Amazon extends ban of police using its facial recognition indefinitely",
-      "excerpt": "Amazon Inc (NASDAQ:AMZN) barred police from using its facial-recognition software almost a year ago, saying it would prohibit them from using it for a year. Now the online retailer says it will extend the ban \"until further notice.",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/article/372432",
-      "originalUrl": "https://www.entrepreneur.com/article/372432",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 191,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/providers/valuewalk/hero-image-valuewalk-372432.jpeg?width=600&crop=16:9",
-          "width": 600,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.entrepreneur.com/amphtml/372432",
-      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/372432",
-      "publishedDateTime": "2021-05-19T07:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2021-05-19-laliga-teams-up-with-microsoft-to-digitally-transform-football-globally-and-reimagine-a-new-era-in-sports.md",
-      "title": "LaLiga teams up with Microsoft to digitally transform football globally and reimagine a new era in sports",
-      "excerpt": "LaLiga, Spain's premier football association, and Microsoft Corp. on Wednesday announced an expansion of their partnership focused on digitally transforming the sports experience globally. LaLiga will offer new experiences such as augmented reality,",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/press-release/laliga-teams-up-with-microsoft-to-digitally-transform-football-globally-and-reimagine",
-      "originalUrl": "https://www.nasdaq.com/press-release/laliga-teams-up-with-microsoft-to-digitally-transform-football-globally-and-reimagine",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-19T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-19-researchers-use-hole-y-math-and-machine-learning-to-study-cellular-self-assembly.md",
-      "title": "Researchers use 'hole-y' math and machine learning to study cellular self-assembly",
-      "excerpt": "In recent years, researchers have drawn on mathematical topology to help explain a range of phenomena like phase transitions in matter, aspects of Earth's climate and even how zebrafish form their iconic stripes.",
-      "sourceUrl": null,
-      "webUrl": "https://phys.org/news/2021-05-hole-y-math-machine-cellular-self-assembly.html",
-      "originalUrl": "https://phys.org/news/2021-05-hole-y-math-machine-cellular-self-assembly.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2021/researchers-use-hole-y.jpg",
-          "width": 1220,
-          "height": 686,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://phys.org/news/2021-05-hole-y-math-machine-cellular-self-assembly.amp",
-      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-05-hole-y-math-machine-cellular-self-assembly.amp",
-      "publishedDateTime": "2021-05-19T06:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Phys.org",
-        "domain": "phys.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "Math for AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-19-alteryx-announces-new-automl-product-and-intelligence-suite.md",
-      "title": "Alteryx announces new AutoML product and Intelligence Suite",
-      "excerpt": "Intelligence Suite also adds some light automated machine learning (AutoML) capabilities. But if AutoML is what you're after, you'll want to take a look at the new Alteryx Machine Learning product ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/alteryx-announces-new-automl-product-and-intelligence-suite/",
-      "originalUrl": "https://www.zdnet.com/article/alteryx-announces-new-automl-product-and-intelligence-suite/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/hub/i/2021/05/19/561d7db1-2f48-441a-bfd1-1cb1394ec6a5/alteryx-machine-learning-chord-diagram.png",
-          "width": 3836,
-          "height": 2060,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/alteryx-announces-new-automl-product-and-intelligence-suite/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/alteryx-announces-new-automl-product-and-intelligence-suite/",
-      "publishedDateTime": "2021-05-19T06:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-19-facteus-certified-as-aws-cloud-migration-competency-partner-for-financial-services-industry.md",
-      "title": "Facteus Certified as AWS Cloud Migration Competency Partner for Financial Services Industry",
-      "excerpt": "Facteus, a leading provider of actionable insights from alternative financial data, today announced it has been certified as an Amazon Web Services (News - Alert) (AWS) Migration Competency Partner. This certification designates that Facteus has proven it can help financial services organizations migrate sensitive transaction data into the AWS cloud environment without compromising data privacy.",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/2021/05/19/9373216.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/2021/05/19/9373216.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-19T06:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-19-the-covid-19-pandemic-has-supercharged-ai-for-telcos.md",
-      "title": "The COVID-19 pandemic has supercharged AI for telcos",
-      "excerpt": "While IBM was initially concerned the COVID-19 pandemic would bring operations to a screeching halt, we’ve observed quite the opposite for telcos. Last year was a turning point for AI in the telco industry, which was faced with increasing bandwidth demands due to the influx of people staying home. Calls",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blogs/watson/2021/05/covid-19-pandemic-supercharged-ai-telcos/",
-      "originalUrl": "https://www.ibm.com/blogs/watson/2021/05/covid-19-pandemic-supercharged-ai-telcos/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 139,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ibm.com/blogs/watson/wp-content/uploads/2021/05/ACDC_121_Telco_Trends_2000x1006-scaled.jpg",
-          "width": 2560,
-          "height": 1288,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-19T06:00:30-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-19-114-milestones-in-the-history-of-artificial-intelligence-ai.md",
-      "title": "114 Milestones In The History Of Artificial Intelligence (AI)",
-      "excerpt": "The evolution of AI from theoretical concepts to machine logic to expert systems to machine learning to artificial neural networks and big data-based deep learning",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/gilpress/2021/05/19/114-milestones-in-the-history-of-artificial-intelligence-ai/",
-      "originalUrl": "https://www.forbes.com/sites/gilpress/2021/05/19/114-milestones-in-the-history-of-artificial-intelligence-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 112,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60a46f458055cee11c70a746%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1429%26cropY1%3D174%26cropY2%3D1245",
-          "width": 1200,
-          "height": 899,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/gilpress/2021/05/19/114-milestones-in-the-history-of-artificial-intelligence-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/gilpress/2021/05/19/114-milestones-in-the-history-of-artificial-intelligence-ai/amp/",
-      "publishedDateTime": "2021-05-19T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Autos",
-        "IBM AI",
-        "Machine Learning",
-        "Natural Language Processing"
       ]
     }
   ],

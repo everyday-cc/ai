@@ -2,6 +2,108 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-07-02-attackers-use-offensive-ai-to-create-deepfakes-for-phishing-campaigns.md",
+      "title": "Attackers use ‘offensive AI’ to create deepfakes for phishing campaigns",
+      "excerpt": "In a survey of organizations including Airbus and Huawei, respondents identify the top threats in AI-powered cyberattacks.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/07/02/attackers-use-offensive-ai-to-create-deepfakes-for-phishing-campaigns/",
+      "originalUrl": "https://venturebeat.com/2021/07/02/attackers-use-offensive-ai-to-create-deepfakes-for-phishing-campaigns/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/04/GettyImages-1171615768-1-e1619463823181.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/07/02/attackers-use-offensive-ai-to-create-deepfakes-for-phishing-campaigns/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/02/attackers-use-offensive-ai-to-create-deepfakes-for-phishing-campaigns/amp/",
+      "publishedDateTime": "2021-07-02T06:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-02-how-cfos-can-think-differently-about-ai-software-acquisition.md",
+      "title": "How CFOs Can Think Differently About AI Software Acquisition",
+      "excerpt": "Next, we’ll explore some unique perspectives to consider when investing in AI technology and why these should be an integral part of a CFO’s AI-decision framework.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/07/02/how-cfos-can-think-differently-about-ai-software-acquisition/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/07/02/how-cfos-can-think-differently-about-ai-software-acquisition/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60dde2bb00a9a822d74f753b%2F0x0.jpg",
+          "width": 1200,
+          "height": 801,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/07/02/how-cfos-can-think-differently-about-ai-software-acquisition/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/07/02/how-cfos-can-think-differently-about-ai-software-acquisition/amp/",
+      "publishedDateTime": "2021-07-02T05:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-02-lunglife-ai-raises-gbp17-mln-in-london-ipo.md",
       "title": "LungLife AI Raises GBP17 Mln in London IPO",
       "excerpt": "By Ian Walker LungLife AI said Friday that it has raised 17 million pounds ($23.4 million) as part of its initial public offering on London's junior AIM.",
@@ -61,7 +163,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chipsets-market-latest-industry-trends-industry-size-key-drivers-and-future-demand-forecast-2021-07-02",
       "featuredContent": null,
       "highlight": null,
-      "heat": 199,
+      "heat": 189,
       "tags": null,
       "images": [
         {
@@ -253,7 +355,7 @@
       "originalUrl": "https://www.wsj.com/articles/roswell-the-final-verdict-review-aliens-vs-artificial-intelligence-11625172034",
       "featuredContent": null,
       "highlight": null,
-      "heat": 88,
+      "heat": 87,
       "tags": null,
       "images": [
         {
@@ -400,7 +502,7 @@
       "originalUrl": "https://www.forbes.com/sites/thomasbrewster/2021/07/01/google-sold-millions-in-ai-to-support-the-pentagon-covid-19-recovery/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 160,
+      "heat": 260,
       "tags": null,
       "images": [
         {
@@ -591,7 +693,7 @@
       "originalUrl": "https://techcrunch.com/2021/07/01/after-8-4m-raise-strawberry-picking-robotics-startup-traptic-begins-commercial-deployment/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 107,
+      "heat": 118,
       "tags": null,
       "images": [
         {
@@ -824,6 +926,57 @@
       ]
     },
     {
+      "path": "_news/2021-07-01-ghost-raises-100m-series-d-for-autonomous-driving-and-crash-prevention-tech.md",
+      "title": "Ghost raises $100M Series D for autonomous driving and crash prevention tech",
+      "excerpt": "Autonomous driving system developer Ghost Locomotion has raised a $100 million Series D funding round, led by Sutter Hill Ventures. Returning investor Founders Fund also participated in the round, along with Coatue.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/07/01/ghost-raises-100m-series-d-for-autonomous-driving-and-crash-prevention-tech/",
+      "originalUrl": "https://techcrunch.com/2021/07/01/ghost-raises-100m-series-d-for-autonomous-driving-and-crash-prevention-tech/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 194,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/06/image001-1-1.png?w=1024",
+          "width": 1024,
+          "height": 578,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/07/01/ghost-raises-100m-series-d-for-autonomous-driving-and-crash-prevention-tech/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/07/01/ghost-raises-100m-series-d-for-autonomous-driving-and-crash-prevention-tech/amp/",
+      "publishedDateTime": "2021-07-01T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-01-how-ai-is-helping-enterprises-turn-the-tables-on-malicious-attacks.md",
       "title": "How AI is helping enterprises turn the tables on malicious attacks",
       "excerpt": "Malicious attackers have turned to AI to invade enterprise networks -- to combat attacks, organizations need to embrace AI in turn.",
@@ -832,7 +985,7 @@
       "originalUrl": "https://venturebeat.com/2021/07/01/how-ai-is-helping-enterprises-turn-the-tables-on-malicious-attacks/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 128,
+      "heat": 138,
       "tags": null,
       "images": [
         {
@@ -915,6 +1068,49 @@
       "topics": [
         "Computer Vision",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-01-zebra-technologies-to-acquire-fetch-robotics.md",
+      "title": "Zebra Technologies to Acquire Fetch Robotics",
+      "excerpt": "Zebra Technologies (NASDAQ: ZBRA), an innovator at the front line of business with solutions and partners that deliver a performance edge, today announced it intends to acquire Fetch Robotics, a pioneer in on-demand automation.",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/m-a/21/07/21806822/zebra-tech-to-acquire-fetch-robotics-for-290m",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-zebra-technologies-acquire-fetch-robotics-/2021/07/01/9401780.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 194,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/files/images/story/2012/abtech_871.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/21806822",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/21806822",
+      "publishedDateTime": "2021-07-01T05:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
       ]
     },
     {
@@ -1009,206 +1205,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-01-global-ai-in-fintech-market-size-share-to-expand-at-171-cagr-through-2025.md",
-      "title": "Global AI in Fintech Market Size, Share to Expand At 17.1% CAGR Through 2025",
-      "excerpt": "Selbyville, Delaware, The AI in Fintech market study now available with Market Study Report, LLC, is a collation",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/global-ai-in-fintech-market-size-share-to-expand-at-171-cagr-through-2025-2021-07-01",
-      "originalUrl": "https://www.marketwatch.com/press-release/global-ai-in-fintech-market-size-share-to-expand-at-171-cagr-through-2025-2021-07-01",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 146,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-01T04:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-01-artificial-intelligence-reveals-how-young-you-look-after-facelift-surgery.md",
-      "title": "Artificial Intelligence Reveals How Young You Look After Facelift Surgery",
-      "excerpt": "New, objective approach to assessing the reduction in apparent age after facelift surgery is now possible with artificial intelligence (AI) networks trained to estimate age based on facial photos.",
-      "sourceUrl": null,
-      "webUrl": "https://www.medindia.net/news/artificial-intelligence-reveals-how-young-you-look-after-facelift-surgery-202032-1.htm",
-      "originalUrl": "https://www.medindia.net/news/artificial-intelligence-reveals-how-young-you-look-after-facelift-surgery-202032-1.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.medindia.net/amp-images/health-images/cosmetic-surgery.jpg",
-          "width": 1200,
-          "height": 1000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.medindia.net/amp/news/artificial-intelligence-reveals-how-young-you-look-after-facelift-surgery-202032-1.htm",
-      "cdnAmpWebUrl": "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/artificial-intelligence-reveals-how-young-you-look-after-facelift-surgery-202032-1.htm",
-      "publishedDateTime": "2021-07-01T04:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medindia",
-        "domain": "medindia.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-07-01-this-startup-is-offering-personalized-learning.md",
-      "title": "This Startup Is Offering Personalized Learning",
-      "excerpt": "Toppr, a 2014 founded Mumbai-based startup was one among them. In an interaction with Entrepreneur India, Zishaan Hayath, chief executive officer and founder of Toppr shares the reason behind launching Toppr and the future of the edtech sector.",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/article/376262",
-      "originalUrl": "https://www.entrepreneur.com/article/376262",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 102,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/1625136028-ZishanToppr.jpeg?width=600&crop=16:9",
-          "width": 600,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.entrepreneur.com/amphtml/376262",
-      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/376262",
-      "publishedDateTime": "2021-07-01T03:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-01-nice-publishes-ethical-framework-for-applying-ai-to-customer-service.md",
-      "title": "Nice publishes ethical framework for applying AI to customer service",
-      "excerpt": "Robotic process automation firm Nice published an ethical framework for applying AI and RPA to customer support functions.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/07/01/nice-publishes-ethical-framework-for-applying-ai-to-customer-service/",
-      "originalUrl": "https://venturebeat.com/2021/07/01/nice-publishes-ethical-framework-for-applying-ai-to-customer-service/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 136,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/04/human.bot_.GettyImages-1256204331.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 570,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/07/01/nice-publishes-ethical-framework-for-applying-ai-to-customer-service/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/01/nice-publishes-ethical-framework-for-applying-ai-to-customer-service/amp/",
-      "publishedDateTime": "2021-07-01T03:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI Ethics"
       ]
     }
   ],

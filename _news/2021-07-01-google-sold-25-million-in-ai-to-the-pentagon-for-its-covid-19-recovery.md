@@ -8,8 +8,8 @@ webUrl: "https://www.forbes.com/sites/thomasbrewster/2021/07/01/google-sold-mill
 ampWebUrl: "https://www.forbes.com/sites/thomasbrewster/2021/07/01/google-sold-millions-in-ai-to-support-the-pentagon-covid-19-recovery/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/thomasbrewster/2021/07/01/google-sold-millions-in-ai-to-support-the-pentagon-covid-19-recovery/amp/"
 type: article
-quality: 88
-heat: 160
+quality: 188
+heat: 260
 published: true
 
 provider:
@@ -129,6 +129,6 @@ related:
         height: 630
         isCached: true
 
-secured: "iivxLUylbygybZ4fDZB3CVKYx1VTODl80rhZF2lUNP0wmf6vEyFE6kGm54SCqHstL5NFU9I3ypVbjSk5Lx70kgdzCCrLkd4XzCcTEAEVG+KHFu8lripqZu2VmRRA/h0jGLD8rAb3ldhoqgmxb55r/Quis54Tf/gVQIVKg7oV6fu4lplCyfK3TmTJqYuJ4PnMdGhcmxyJPppV9J2JXGjgwMttyz8DbATlweZkvmlLzw3HoNR0YGOlDe6/Vnhucx/RSZsoWkILW50dNM6k1wFxXjDy+x1TN9qCObqKVOH9mGikJqq5DjIP+5uf4+fidf2BcUPGXOWroJGD2BWWC37TDjj/y3oKrC95K4XltgWcM2m3MhhjAG7Yb1Uc/cehcANoYvRGzxpTQTlpRz68A11rMmp1x+8dp92geJAVUviWyvG8KhoEwrwERWJKQsIdX9EDJi1dauV4j2hRuvHAtXv9qpKQLRQm3218BkscSksykuUs1zqJE1PvsTYvNUqjh8CHT6CMMUQB/OiSDwqB9MlJ3w==;yj/TZG4VeTkCC7ROnj7dxQ=="
+secured: "8SRXvit4iOao1GEcSPNfh44lQx00jL2ZoeemiBz8LN0aB3g1XUZ/YtRZ2OnXmYMYNpzPZcNyR6r1sHHQgIUhaZRMLIlhGzekVIABTG5zkfj0iGVB4k/KH5corN7CDEGQ8/f5YmQsEwMnHjuKMfAfdBWKY25PFrctI1vKMTeA1NlllycCQ5PkxA1JA9d9bFqdvZTNid+A15jo6yHUjGuDG8QWopSrK5Lv5JdUFZGTQ5ErQIjy4O3RyJZWZru/0SFfsiY8/tarYXtMA6o3o4VZQavbvpNTfRzSTl2tRpx01gU7KkPpewif08e/jeMGTIMu7oOrjZW+xLivJ1ivkwDa2P2m0LsSekKXreWmbUtL4Yron3Yemnutjci4Q4gR+Doko6Bt82G3IiSdcQ9GGZ89rAheHeLWGjZ3Y3aTJ6Wh69WiuvcKcNOr1tMfXECQBffY9nxKQnT8d6i6Ql/GKNUHyV5FdXxRs25TBYJtDTC8U27qwx9dN9wrOHzH/Dq/UPwHAnO3wUiAlHOH0LcUl5o1Ew9DNGpZ32T1m14iuqab4uQ=;a+bGFyAEH/8ZrkLMLtVwfA=="
 ---
 

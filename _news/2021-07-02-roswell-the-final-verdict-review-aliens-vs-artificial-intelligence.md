@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wsj.com/amp/articles/roswell-the-final-verdict-review-al
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/roswell-the-final-verdict-review-aliens-vs-artificial-intelligence-11625172034"
 type: article
 quality: 87
-heat: 88
+heat: 87
 published: true
 
 provider:

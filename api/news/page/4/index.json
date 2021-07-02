@@ -2,6 +2,298 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-06-30-ai-safety-tools-can-help-mitigate-bias-in-algorithms.md",
+      "title": "AI safety tools can help mitigate bias in algorithms",
+      "excerpt": "A range of tools are available from companies including Microsoft that are designed to address concerns arising from risky AI deployments.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/06/29/ai-safety-tools-can-help-mitigate-bias-in-algorithms/",
+      "originalUrl": "https://venturebeat.com/2021/06/29/ai-safety-tools-can-help-mitigate-bias-in-algorithms/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2016/06/bigdata.jpg?w=1200&strip=all",
+          "width": 1000,
+          "height": 667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/06/29/ai-safety-tools-can-help-mitigate-bias-in-algorithms/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/29/ai-safety-tools-can-help-mitigate-bias-in-algorithms/amp/",
+      "publishedDateTime": "2021-06-29T12:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-29-visionary-trio-creates-next-gen-video-and-image-annotation-platform-for-machine-learning.md",
+      "title": "Visionary Trio Creates Next Gen Video and Image Annotation Platform for Machine Learning",
+      "excerpt": "Innotescus ® is announcing the launch of its image and video annotation platform. The Innotescus platform provides an intuitive annotation workspace, comprehensive analytics, and a collaborative environment for teams to produce superior quality training datasets.",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/visionary-trio-creates-next-gen-video-and-image-annotation-platform-for-machine-learning-1030563448",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/visionary-trio-creates-next-gen-video-and-image-annotation-platform-for-machine-learning-1030563448",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1551990/Shashank_Chris_Rob.jpg",
+          "width": 400,
+          "height": 267,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-29T09:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-29-ambi-robotics-selects-dwfritz-to-manufacture-ai-powered-robotic-systems.md",
+      "title": "Ambi Robotics selects DWFritz to manufacture AI-powered robotic systems",
+      "excerpt": "Ambi Robotics, an artificial intelligence (AI) and robotics company that develops advanced supply chain solutions, and DWFritz Automation, a global provider of high-precision automation and metrology solutions,",
+      "sourceUrl": null,
+      "webUrl": "https://www.logisticsmgmt.com/article/ambi_robotics_selects_dwfritz_to_manufacture_ai_powered_robotic_systems",
+      "originalUrl": "https://www.logisticsmgmt.com/article/ambi_robotics_selects_dwfritz_to_manufacture_ai_powered_robotic_systems",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.mmh.com/images/2021_article/Ambi_Robotics.jpg",
+          "width": 1500,
+          "height": 844,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-29T08:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Logistics Management",
+        "domain": "logisticsmgmt.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-29-edge-of-chaos-leverages-nanowire-pathways-for-brain-like-skynet-artificial-intelligence.md",
+      "title": "Edge Of Chaos Leverages Nanowire Pathways For Brain-Like Skynet Artificial Intelligence",
+      "excerpt": "One of the more interesting developments in AI has to do with nanowire networks being trained to solve simple problems in a chaotic state.",
+      "sourceUrl": null,
+      "webUrl": "https://hothardware.com/news/edge-of-chaos-nanowire-brain-like-artificial-intelligence",
+      "originalUrl": "https://hothardware.com/news/edge-of-chaos-nanowire-brain-like-artificial-intelligence",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.hothardware.com/contentimages/newsitem/55537/content/Artificial_Intelligence.jpg",
+          "width": 708,
+          "height": 443,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.hothardware.com/news/edge-of-chaos-nanowire-brain-like-artificial-intelligence",
+      "cdnAmpWebUrl": "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/edge-of-chaos-nanowire-brain-like-artificial-intelligence",
+      "publishedDateTime": "2021-06-29T08:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "HotHardware",
+        "domain": "hothardware.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-29-nhtsa-mandates-crash-reports-for-self-driving-cars-driver-assist-systems.md",
+      "title": "NHTSA mandates crash reports for self-driving cars, driver-assist systems",
+      "excerpt": "If a vehicle equipped with a system like Tesla's Autopilot or GM's Super Cruise is involved in a crash, the agency must get a report within 24 hours.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/roadshow/news/tesla-autopilot-nhtsa-crash-report-self-driving-car-driver-assist-system/",
+      "originalUrl": "https://www.cnet.com/roadshow/news/tesla-autopilot-nhtsa-crash-report-self-driving-car-driver-assist-system/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cnet.com/a/img/AVtNDbflfjRE8PTezweZ2ehMrBE=/2019/12/20/5d1f0f70-a427-4959-bc2c-7714bcc0c954/ogi-autopilot.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/tesla-autopilot-nhtsa-crash-report-self-driving-car-driver-assist-system/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/tesla-autopilot-nhtsa-crash-report-self-driving-car-driver-assist-system/",
+      "publishedDateTime": "2021-06-29T08:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-29-ai-finds-tennis-is-most-euphoric-sport-to-watch-but-soccer-is-most-engaging.md",
+      "title": "AI Finds Tennis Is ‘Most Euphoric’ Sport To Watch But Soccer Is Most Engaging",
+      "excerpt": "Emotional AI can detect which sports evoke certain emotions in viewers. The data could be used to improve engagement and commercial activities in the industry.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/stevemccaskill/2021/06/29/ai-finds-tennis-is-most-euphoric-sport-to-watch-but-soccer-is-most-engaging/",
+      "originalUrl": "https://www.forbes.com/sites/stevemccaskill/2021/06/29/ai-finds-tennis-is-most-euphoric-sport-to-watch-but-soccer-is-most-engaging/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60db3b169c8e3bccff0c0623%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/stevemccaskill/2021/06/29/ai-finds-tennis-is-most-euphoric-sport-to-watch-but-soccer-is-most-engaging/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stevemccaskill/2021/06/29/ai-finds-tennis-is-most-euphoric-sport-to-watch-but-soccer-is-most-engaging/amp/",
+      "publishedDateTime": "2021-06-29T08:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-29-zoom-to-acquire-german-startup-to-bring-real-time-translation-to-meetings.md",
       "title": "Zoom to acquire German startup to bring real-time translation to meetings",
       "excerpt": "As companies expand worldwide and meet online in tools like Zoom, the language barrier can be a real impediment to getting work done. Zoom announced that it intends to acquire German startup Karlsruhe Information Technology Solutions or Kites for short,",
@@ -199,7 +491,7 @@
       "originalUrl": "https://venturebeat.com/2021/06/29/microsoft-launches-azure-arc-enabled-sql-in-general-availability/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 289,
+      "heat": 299,
       "tags": null,
       "images": [
         {
@@ -947,290 +1239,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-29-ironsource-will-start-trading-tuesday-as-latest-game-related-spac.md",
-      "title": "IronSource will start trading Tuesday as latest game-related SPAC",
-      "excerpt": "Mobile monetization firm IronSource said it will go public through a special purpose acquisition company (SPAC) on Tuesday morning.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/06/28/ironsource-will-start-trading-tuesday-as-latest-game-related-spac/",
-      "originalUrl": "https://venturebeat.com/2021/06/28/ironsource-will-start-trading-tuesday-as-latest-game-related-spac/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/03/ironsource-Aura-Press-OOBE-1.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/06/28/ironsource-will-start-trading-tuesday-as-latest-game-related-spac/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/28/ironsource-will-start-trading-tuesday-as-latest-game-related-spac/amp/",
-      "publishedDateTime": "2021-06-29T00:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-29-qualcomm-snapdragon-888-mobile-chipset-announced-gets-overclocked-cpu-and-gpu.md",
-      "title": "Qualcomm Snapdragon 888+ Mobile Chipset Announced; Gets Overclocked CPU And GPU",
-      "excerpt": "Qualcomm has officially launched its newest flagship mobile processor -- the Snapdragon 888+ SoC, which comes with an overclocked primary CPU core with up to 3GHz clock speed and several other performance improvements,",
-      "sourceUrl": null,
-      "webUrl": "https://www.gizbot.com/mobile/news/qualcomm-snapdragon-888-plus-mobile-chipset-announced-gets-overclocked-cpu-and-gpu-075158.html",
-      "originalUrl": "https://www.gizbot.com/mobile/news/qualcomm-snapdragon-888-plus-mobile-chipset-announced-gets-overclocked-cpu-and-gpu-075158.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 140,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gizbot.com/img/2021/06/qualcomm-snapdragon-888-plus-1624950750.jpg",
-          "width": 600,
-          "height": 337,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.gizbot.com/amphtml/mobile/news/qualcomm-snapdragon-888-plus-mobile-chipset-announced-gets-overclocked-cpu-and-gpu-075158.html",
-      "cdnAmpWebUrl": "https://www-gizbot-com.cdn.ampproject.org/c/s/www.gizbot.com/amphtml/mobile/news/qualcomm-snapdragon-888-plus-mobile-chipset-announced-gets-overclocked-cpu-and-gpu-075158.html",
-      "publishedDateTime": "2021-06-29T00:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GIZBOT",
-        "domain": "gizbot.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-29-grse-deploys-ai-enabled-cctv-systems.md",
-      "title": "GRSE deploys AI-enabled CCTV systems",
-      "excerpt": "The warship building company further said the technology will enable surveillance of 152.81-acre area of the shipyard and will prove to be a crucial t..",
-      "sourceUrl": null,
-      "webUrl": "https://telecom.economictimes.indiatimes.com/news/grse-deploys-ai-enabled-cctv-systems/83945288",
-      "originalUrl": "https://telecom.economictimes.indiatimes.com/news/grse-deploys-ai-enabled-cctv-systems/83945288",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://etimg.etb2bimg.com/thumb/msid-83945288,imgsize-138562,width-800,height-434,overlay-ettelecom/grse-deploys-ai-enabled-cctv-systems.jpg",
-          "width": 800,
-          "height": 434,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://telecom.economictimes.indiatimes.com/amp/news/grse-deploys-ai-enabled-cctv-systems/83945288",
-      "cdnAmpWebUrl": "https://telecom-economictimes-indiatimes-com.cdn.ampproject.org/c/s/telecom.economictimes.indiatimes.com/amp/news/grse-deploys-ai-enabled-cctv-systems/83945288",
-      "publishedDateTime": "2021-06-28T22:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India Times",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-29-how-were-supporting-30-new-ai-for-social-good-projects.md",
-      "title": "How we’re supporting 30 new AI for Social Good projects",
-      "excerpt": "Over recent years, we have seen remarkable progress in AI’s ability to confront new problems and help solve old ones. Advancing these efforts was one reason we set up the Google Research India lab in 2019, with a particular emphasis on AI research that could make a positive social impact. It’s also why",
-      "sourceUrl": null,
-      "webUrl": "https://blog.google/technology/ai/30-new-ai-for-social-good-projects/",
-      "originalUrl": "https://blog.google/technology/ai/30-new-ai-for-social-good-projects/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/unnamed_12_CKcml0Q.max-600x600.jpg",
-          "width": 512,
-          "height": 341,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://blog.google/technology/ai/30-new-ai-for-social-good-projects/amp/",
-      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/technology/ai/30-new-ai-for-social-good-projects/amp/",
-      "publishedDateTime": "2021-06-28T20:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Google",
-        "domain": "blog.google",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-29-thailands-pomelo-is-revolutionizing-seas-fashion-industry-with-machine-learning-and-ai.md",
-      "title": "Thailand’s Pomelo is revolutionizing SEA’s fashion industry with machine learning and AI",
-      "excerpt": "Machine learning and AI have a multitude of applications in various industries, but fashion might sound like a curious one - Tech Wire Asia",
-      "sourceUrl": null,
-      "webUrl": "https://techwireasia.com/2021/06/pomelo-machine-learning-ai-fashion/",
-      "originalUrl": "https://techwireasia.com/2021/06/pomelo-machine-learning-ai-fashion/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.techwireasia.com/wp-content/uploads/2021/06/Pomelo-Fashion-4-450x300.jpg",
-          "width": 450,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techwireasia.com/amp/2021/06/pomelo-machine-learning-ai-fashion/",
-      "cdnAmpWebUrl": "https://techwireasia-com.cdn.ampproject.org/c/s/techwireasia.com/amp/2021/06/pomelo-machine-learning-ai-fashion/",
-      "publishedDateTime": "2021-06-28T19:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techwireasia.com",
-        "domain": "techwireasia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Finance",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2021-06-29-government-ufo-task-force-will-use-ai-to-study-bizarre-alien-aircraft.md",
-      "title": "Government UFO task force will use AI to study bizarre ‘alien’ aircraft",
-      "excerpt": "Last week, the Office of the Director of National Intelligence (DNI) released a nine-page preliminary unclassified report on unidentified aerial phenomenon (UAP), the government’s term for",
-      "sourceUrl": null,
-      "webUrl": "https://www.slashgear.com/government-ufo-task-force-will-use-ai-to-study-bizarre-alien-aircraft-28680265/",
-      "originalUrl": "https://www.slashgear.com/government-ufo-task-force-will-use-ai-to-study-bizarre-alien-aircraft-28680265/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.slashgear.com/wp-content/uploads/2021/06/navy_UFO_video_main.jpg",
-          "width": 1440,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.slashgear.com/government-ufo-task-force-will-use-ai-to-study-bizarre-alien-aircraft-28680265/amp/",
-      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/government-ufo-task-force-will-use-ai-to-study-bizarre-alien-aircraft-28680265/amp/",
-      "publishedDateTime": "2021-06-28T18:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SlashGear",
-        "domain": "slashgear.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/slashgear.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

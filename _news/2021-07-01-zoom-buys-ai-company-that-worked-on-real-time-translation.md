@@ -1,29 +1,27 @@
 ---
 category: news
 title: "Zoom buys AI company that worked on real-time translation"
-excerpt: "According to Mashable, Zoom said that the acquisition is a move to help it make communicating with people who speak different languages easier and tha.."
-publishedDateTime: 2021-07-01T08:08:00Z
-originalUrl: "https://cio.economictimes.indiatimes.com/news/next-gen-technologies/zoom-buys-ai-company-that-worked-on-real-time-translation/84014047"
-webUrl: "https://cio.economictimes.indiatimes.com/news/next-gen-technologies/zoom-buys-ai-company-that-worked-on-real-time-translation/84014047"
-ampWebUrl: "https://cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/zoom-buys-ai-company-that-worked-on-real-time-translation/84014047"
-cdnAmpWebUrl: "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/zoom-buys-ai-company-that-worked-on-real-time-translation/84014047"
+excerpt: "Proprietary video teleconferencing platform recently announced that it acquiring a company known as Kites short for Karlsruhe Information Technology Solution"
+publishedDateTime: 2021-06-30T19:13:00Z
+originalUrl: "https://www.bignewsnetwork.com/news/270118590/zoom-buys-ai-company-that-worked-on-real-time-translation"
+webUrl: "https://www.bignewsnetwork.com/news/270118590/zoom-buys-ai-company-that-worked-on-real-time-translation"
 type: article
-quality: 59
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: India Times
-  domain: indiatimes.com
+  name: Big News Network.com
+  domain: bignewsnetwork.com
 
 topics:
   - Natural Language Processing
   - AI
 
 images:
-  - url: "https://etimg.etb2bimg.com/thumb/msid-84014047,imgsize-23430,width-800,height-434,overlay-etcio/zoom-buys-ai-company-that-worked-on-real-time-translation.jpg"
-    width: 800
-    height: 434
+  - url: "https://cdn.bignewsnetwork.com/ani1625077312.jpg"
+    width: 630
+    height: 420
     isCached: true
 
 related:
@@ -269,6 +267,6 @@ related:
         height: 493
         isCached: true
 
-secured: "JMBKbat6/t0MJ5bCBLfirhHoNrwutHP5IyIm+jS6v1qWgwBgUPv4BEvj7nEAAci5aR43kfo6eF9PgfXGfu8BIJwa5lMsMXLPnpLlqWhiKvRFzlF0Dym3JbYhCh0je1m0DhvMWK2cvLE3yKuqVQ1ri5tIKDqzSFUROIZ2XNX1iQLyS8OyrKP6D9z1HQtZ/wMYBsvpWYAko34/YgUAjspKFjv4TtKkaOqERm44fUGsrFqfPm0VM8BN0+VsWopaDRjhdABPRM2Qczd/HVwkf7AmQ7HQkejwT9lbKH6mR+mTHSMnCIZvcQ7htGoY1W2/CsDLn49MaPqrTc+Q27FYutlPj110J4osT6VwuEKCj8iEYKrvC03/W5OtHnhnaTLLrGrK2TjcjUqo6xsy1bjeENyaM7FWcyxSEiw42nC3RGHWnjMyvE8Xlnh+dwiXh6ZrA1o5p/BMym9HpKXRW3M0CdjFXjXd7tGvw7HCChduca7UwkwRIknYqCotVuwULtIhxQzKrQ8JqT45EUxaHAZfspeOpw==;wcoTMNRWsHnpm46lGMsd6g=="
+secured: "HvkRt9LoLw6gqYo7Psc3H6Fvr1IfdaxUym0j7AkyNwhkfSW1+cG5f4LnGpNagkp9Nwybuyn3DpbE9IfIsZcP3b4L3Yu03QcjRaXlKD6/+YQHF1qL45cDxjG9sbEQ0raa4ur/5J1DNjvzzGo6YAcTEN1iUq6lNjU2SNKtLhQ0vyBQDZRtMvTOsJajbfLLTV0/mgAxTu7NGoRjO/SuEWEPp3T3a6R9XkFzdYmolfufCgToEFMybmfscwp8BBz5a6qR87xVMam6vHTqrF6Q5ATl/397ARkfxZWPgzO2D/L1hj3bjfzoNpR4DBTpl9b6sf+7d266pthOoBuLERMpX1wseMXtlTVuBkT8mGM4jrxn/Nw=;qG7QBz4+j7R4HrZ7bKKqQw=="
 ---
 

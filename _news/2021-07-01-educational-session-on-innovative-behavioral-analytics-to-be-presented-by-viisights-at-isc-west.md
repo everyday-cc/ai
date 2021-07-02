@@ -22,7 +22,7 @@ related:
   - title: "viisights to present educational session on innovative behavioural analytics at ISC West"
     excerpt: "Inc., developer of behavioural recognition systems for real-time video intelligence, will be attending ISC West in Las Vegas, July 19-21, 2021, representing its innovative"
     publishedDateTime: 2021-07-02T11:24:00Z
-    webUrl: "https://www.sourcesecurity.com/tags/video-analytics/news/viisights-present-educational-session-innovative-behavioural-co-1565673901-ga.1625217154.html"
+    webUrl: "https://www.sourcesecurity.com/news/viisights-present-educational-session-innovative-behavioural-co-1565673901-ga.1625217154.html"
     ampWebUrl: "https://www.sourcesecurity.com/amp/news/viisights-present-educational-session-innovative-behavioural-co-1565673901-ga.1625217154.html"
     cdnAmpWebUrl: "https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/news/viisights-present-educational-session-innovative-behavioural-co-1565673901-ga.1625217154.html"
     type: article

@@ -2,6 +2,297 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-06-30-israel-used-worlds-first-ai-guided-combat-drone-swarm-in-gaza-attacks.md",
+      "title": "Israel used world's first AI-guided combat drone swarm in Gaza attacks",
+      "excerpt": "May, the Israel Defense Forces (IDF) used a swarm of small drones to locate, identify and attack Hamas militants. This is thought to be the first time a drone swarm has been used in combat",
+      "sourceUrl": null,
+      "webUrl": "https://www.newscientist.com/article/2282656-israel-used-worlds-first-ai-guided-combat-drone-swarm-in-gaza-attacks/",
+      "originalUrl": "https://www.newscientist.com/article/2282656-israel-used-worlds-first-ai-guided-combat-drone-swarm-in-gaza-attacks/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.newscientist.com/wp-content/uploads/2021/06/30124549/30-june_israel-drone-swarm2.jpg?width=600",
+          "width": 600,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newscientist.com/article/2282656-israel-used-worlds-first-ai-guided-combat-drone-swarm-in-gaza-attacks/amp/",
+      "cdnAmpWebUrl": "https://www-newscientist-com.cdn.ampproject.org/c/s/www.newscientist.com/article/2282656-israel-used-worlds-first-ai-guided-combat-drone-swarm-in-gaza-attacks/amp/",
+      "publishedDateTime": "2021-06-30T05:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New Scientist",
+        "domain": "newscientist.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-30-shenzhen-chinas-silicon-valley-plans-to-turbocharge-local-ai-development-with-first-of-a-kind-regulations.md",
+      "title": "Shenzhen, China’s Silicon Valley, plans to turbocharge local AI development with first-of-a-kind regulations",
+      "excerpt": "Local government departments and state-owned companies will be required to take the lead in using AI products and services to boost implementation of the technology.",
+      "sourceUrl": null,
+      "webUrl": "https://www.scmp.com/tech/policy/article/3139319/shenzhen-chinas-silicon-valley-plans-turbocharge-local-ai-development",
+      "originalUrl": "https://www.scmp.com/tech/policy/article/3139319/shenzhen-chinas-silicon-valley-plans-turbocharge-local-ai-development",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 90,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2021/06/30/61e18d70-d97a-11eb-8921-c363d46ef7af_image_hires_170758.jpg?itok=IJ3IY-d2&v=1625044090",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.scmp.com/tech/policy/article/3139319/shenzhen-chinas-silicon-valley-plans-turbocharge-local-ai-development",
+      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/policy/article/3139319/shenzhen-chinas-silicon-valley-plans-turbocharge-local-ai-development",
+      "publishedDateTime": "2021-06-30T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "South China Morning Post",
+        "domain": "scmp.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/scmp.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-30-workplace-chatbot-firm-moveworks-reaches-21-billion-valuation.md",
+      "title": "Workplace Chatbot Firm Moveworks Reaches $2.1 Billion Valuation",
+      "excerpt": "Moveworks Inc., a startup that helps with employee technology support, is now valued at $2.1 billion, according to founder and Chief Executive Officer Bhavin Shah.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/news/articles/2021-06-30/workplace-chatbot-firm-moveworks-reaches-2-1-billion-valuation",
+      "originalUrl": "https://www.msn.com/en-us/finance/news/workplace-chatbot-firm-moveworks-reaches-2421-billion-valuation/ar-AALD4BT",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 132,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iXnwveUL3zmM/v0/1200x682.jpg",
+          "width": 1200,
+          "height": 682,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-30T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "bloomberg.com/news/articles/2021-06-30/workplace-chatbot-firm-moveworks-reaches-2-1-billion-valuation",
+        "domain": "bloomberg.com/news/articles/2021-06-30/workplace-chatbot-firm-moveworks-reaches-2-1-billion-valuation",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-30-what-investors-should-know-about-baidus-ai-chip-spin-off.md",
+      "title": "What Investors Should Know About Baidu's AI Chip Spin-Off",
+      "excerpt": "Baidu (NASDAQ:BIDU) unveiled Kunlun, its artificial intelligence (AI) chip optimized for cloud-to-edge computing tasks, three years ago. At the time, it claimed the 14nm chip provided 1.5 to three times more processing power than NVIDIA's comparable T4 GPU for AI tasks.",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2021/06/30/what-investors-know-about-baidu-ai-chip-spin-off/",
+      "originalUrl": "https://www.fool.com/investing/2021/06/30/what-investors-know-about-baidu-ai-chip-spin-off/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F632101%2F1600829035136803.jpg&w=1200&op=resize",
+          "width": 1200,
+          "height": 721,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.fool.com/amp/investing/2021/06/30/what-investors-know-about-baidu-ai-chip-spin-off/",
+      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/06/30/what-investors-know-about-baidu-ai-chip-spin-off/",
+      "publishedDateTime": "2021-06-30T04:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-30-seoul-using-ai-to-detect-and-prevent-suicide-attempts-on-bridges.md",
+      "title": "Seoul using AI to detect and prevent suicide attempts on bridges",
+      "excerpt": "Is the young woman in the summer dress just admiring the view off the bridge? That is the question South Korean researchers and the emergency services are working to answer using artificial intelligence to detect and prevent suicide attempts.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/world/asia-pacific/seoul-using-ai-detect-prevent-suicide-attempts-bridges-2021-06-30/",
+      "originalUrl": "https://www.reuters.com/world/asia-pacific/seoul-using-ai-detect-prevent-suicide-attempts-bridges-2021-06-30/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 167,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.reuters.com/resizer/Y86IsGFgh1MuJkns2M8qXJsXbOE=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/ZK4DLWI33BLB5FNVIPEWZS5RG4.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-30T04:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-30-industrial-ai-is-here-but-is-your-organization-ready-for-it.md",
+      "title": "Industrial AI Is Here, But Is Your Organization Ready For It?",
+      "excerpt": "This readiness checklist should be taken as more of a guidepost, rather than a one-size-fits-all prescription for making your organization AI-ready on day one.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/06/30/industrial-ai-is-here-but-is-your-organization-ready-for-it/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/06/30/industrial-ai-is-here-but-is-your-organization-ready-for-it/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f33fae78e26add3d640245e%2F0x0.jpg",
+          "width": 1200,
+          "height": 836,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/06/30/industrial-ai-is-here-but-is-your-organization-ready-for-it/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/06/30/industrial-ai-is-here-but-is-your-organization-ready-for-it/amp/",
+      "publishedDateTime": "2021-06-30T04:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-30-industrial-ai-enterprise-detect-technologies-raises-12-mn-funding.md",
       "title": "Industrial AI Enterprise Detect Technologies Raises $12 Mn Funding",
       "excerpt": "The company plans to further expand its global footprint to fulfil the accelerating demand for industrial automation",
@@ -500,7 +791,7 @@
       "originalUrl": "https://siliconangle.com/2021/06/29/machine-learning-startup-datarobot-reportedly-raises-250m-6b-valuation/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 79,
       "tags": null,
       "images": [
         {
@@ -930,298 +1221,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-30-ai-safety-tools-can-help-mitigate-bias-in-algorithms.md",
-      "title": "AI safety tools can help mitigate bias in algorithms",
-      "excerpt": "A range of tools are available from companies including Microsoft that are designed to address concerns arising from risky AI deployments.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/06/29/ai-safety-tools-can-help-mitigate-bias-in-algorithms/",
-      "originalUrl": "https://venturebeat.com/2021/06/29/ai-safety-tools-can-help-mitigate-bias-in-algorithms/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2016/06/bigdata.jpg?w=1200&strip=all",
-          "width": 1000,
-          "height": 667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/06/29/ai-safety-tools-can-help-mitigate-bias-in-algorithms/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/29/ai-safety-tools-can-help-mitigate-bias-in-algorithms/amp/",
-      "publishedDateTime": "2021-06-29T12:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-29-visionary-trio-creates-next-gen-video-and-image-annotation-platform-for-machine-learning.md",
-      "title": "Visionary Trio Creates Next Gen Video and Image Annotation Platform for Machine Learning",
-      "excerpt": "Innotescus ® is announcing the launch of its image and video annotation platform. The Innotescus platform provides an intuitive annotation workspace, comprehensive analytics, and a collaborative environment for teams to produce superior quality training datasets.",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/visionary-trio-creates-next-gen-video-and-image-annotation-platform-for-machine-learning-1030563448",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/visionary-trio-creates-next-gen-video-and-image-annotation-platform-for-machine-learning-1030563448",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1551990/Shashank_Chris_Rob.jpg",
-          "width": 400,
-          "height": 267,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-29T09:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-29-ambi-robotics-selects-dwfritz-to-manufacture-ai-powered-robotic-systems.md",
-      "title": "Ambi Robotics selects DWFritz to manufacture AI-powered robotic systems",
-      "excerpt": "Ambi Robotics, an artificial intelligence (AI) and robotics company that develops advanced supply chain solutions, and DWFritz Automation, a global provider of high-precision automation and metrology solutions,",
-      "sourceUrl": null,
-      "webUrl": "https://www.logisticsmgmt.com/article/ambi_robotics_selects_dwfritz_to_manufacture_ai_powered_robotic_systems",
-      "originalUrl": "https://www.logisticsmgmt.com/article/ambi_robotics_selects_dwfritz_to_manufacture_ai_powered_robotic_systems",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.mmh.com/images/2021_article/Ambi_Robotics.jpg",
-          "width": 1500,
-          "height": 844,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-29T08:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Logistics Management",
-        "domain": "logisticsmgmt.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-29-edge-of-chaos-leverages-nanowire-pathways-for-brain-like-skynet-artificial-intelligence.md",
-      "title": "Edge Of Chaos Leverages Nanowire Pathways For Brain-Like Skynet Artificial Intelligence",
-      "excerpt": "One of the more interesting developments in AI has to do with nanowire networks being trained to solve simple problems in a chaotic state.",
-      "sourceUrl": null,
-      "webUrl": "https://hothardware.com/news/edge-of-chaos-nanowire-brain-like-artificial-intelligence",
-      "originalUrl": "https://hothardware.com/news/edge-of-chaos-nanowire-brain-like-artificial-intelligence",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.hothardware.com/contentimages/newsitem/55537/content/Artificial_Intelligence.jpg",
-          "width": 708,
-          "height": 443,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.hothardware.com/news/edge-of-chaos-nanowire-brain-like-artificial-intelligence",
-      "cdnAmpWebUrl": "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/edge-of-chaos-nanowire-brain-like-artificial-intelligence",
-      "publishedDateTime": "2021-06-29T08:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "HotHardware",
-        "domain": "hothardware.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-29-nhtsa-mandates-crash-reports-for-self-driving-cars-driver-assist-systems.md",
-      "title": "NHTSA mandates crash reports for self-driving cars, driver-assist systems",
-      "excerpt": "If a vehicle equipped with a system like Tesla's Autopilot or GM's Super Cruise is involved in a crash, the agency must get a report within 24 hours.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/roadshow/news/tesla-autopilot-nhtsa-crash-report-self-driving-car-driver-assist-system/",
-      "originalUrl": "https://www.cnet.com/roadshow/news/tesla-autopilot-nhtsa-crash-report-self-driving-car-driver-assist-system/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cnet.com/a/img/AVtNDbflfjRE8PTezweZ2ehMrBE=/2019/12/20/5d1f0f70-a427-4959-bc2c-7714bcc0c954/ogi-autopilot.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/tesla-autopilot-nhtsa-crash-report-self-driving-car-driver-assist-system/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/tesla-autopilot-nhtsa-crash-report-self-driving-car-driver-assist-system/",
-      "publishedDateTime": "2021-06-29T08:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-29-ai-finds-tennis-is-most-euphoric-sport-to-watch-but-soccer-is-most-engaging.md",
-      "title": "AI Finds Tennis Is ‘Most Euphoric’ Sport To Watch But Soccer Is Most Engaging",
-      "excerpt": "Emotional AI can detect which sports evoke certain emotions in viewers. The data could be used to improve engagement and commercial activities in the industry.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/stevemccaskill/2021/06/29/ai-finds-tennis-is-most-euphoric-sport-to-watch-but-soccer-is-most-engaging/",
-      "originalUrl": "https://www.forbes.com/sites/stevemccaskill/2021/06/29/ai-finds-tennis-is-most-euphoric-sport-to-watch-but-soccer-is-most-engaging/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60db3b169c8e3bccff0c0623%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/stevemccaskill/2021/06/29/ai-finds-tennis-is-most-euphoric-sport-to-watch-but-soccer-is-most-engaging/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stevemccaskill/2021/06/29/ai-finds-tennis-is-most-euphoric-sport-to-watch-but-soccer-is-most-engaging/amp/",
-      "publishedDateTime": "2021-06-29T08:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

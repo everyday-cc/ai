@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newscientist.com/article/2282656-israel-used-worlds-firs
 cdnAmpWebUrl: "https://www-newscientist-com.cdn.ampproject.org/c/s/www.newscientist.com/article/2282656-israel-used-worlds-first-ai-guided-combat-drone-swarm-in-gaza-attacks/amp/"
 type: article
 quality: 57
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -53,20 +53,6 @@ related:
       - url: "https://static.timesofisrael.com/blogs/uploads/2021/06/pexels-tara-winstead-8386422-1.jpg"
         width: 2048
         height: 1366
-        isCached: true
-  - title: "The first AI conflict? Israel's Gaza operation gives glimpse of future"
-    excerpt: "Israeli military action last month in Palestinian-controlled Gaza has been described as the first artificial intelligence war, imparting a glimpse of future conflicts in the 21st century. \"This is the first time [AI] was used broadly across an operation."
-    publishedDateTime: 2021-06-27T20:05:00Z
-    webUrl: "https://asia.nikkei.com/Politics/International-relations/The-first-AI-conflict-Israel-s-Gaza-operation-gives-glimpse-of-future"
-    type: article
-    provider:
-      name: NIKKEI
-      domain: nikkei.com
-    quality: 37
-    images:
-      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%253A%252F%252Fs3-ap-northeast-1.amazonaws.com%252Fpsh-ex-ftnikkei-3937bb4%252Fimages%252F8%252F3%252F3%252F2%252F35002338-5-eng-GB%252FCropped-1624823553photo.JPG?width=1024&height=512&fit=cover&gravity=faces&source=nar-cms"
-        width: 1024
-        height: 512
         isCached: true
 
 secured: "HnKLVjegVs0Jd27Q9tGWZtC5Tu4EJ9JS74bd+NDj1QViDBds4oTOR9s0nwHZQO/NyHPvFPR4qUBUeaQzEhPAymGhikvzb8Zgr5dPAGKNvD+tZK9EACwxB8uI8rbygUZwLo2T7eAdfbf5KT517KcF/uncKTjGXWo6Cxn9DFnNFwnCihgU5ZgR2f1+ZAM26Bf37y6lwuAg/cCNTJn1yPJtcMvCn3TT/5W4YTCPYA8LkfvtAD8SZ3rJGKWn8VoZyzJga7r/hFit9/ykN/Np7N2LCQ2U/4iAbUC5pIMXYR+V75UqgD+Q79UuqBQAH77msCnFlgwFVK5lkTw/bZtZBZqE1gcwvVtldz/3MVTkrSYrBHJbV7kxQT2k7dXaXw20AyxX3LN7eFf9gJnYZ6xZKibDCv+Hjtp36rQQ46oHcWZKBczbZLlRSd3qEIWf0mQMODOwX1AicT7Dw0E34ivHRRHXU89a4F5aOyE3MoWlxyheUwPpBciTFg1kGw+kzgUY5Ues44kzAJt04k5nUs3jCaUvZw==;jq0g2qtYt3DjEz5O/m0buw=="

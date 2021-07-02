@@ -55,20 +55,6 @@ related:
         width: 1222
         height: 813
         isCached: true
-  - title: "The first AI conflict? Israel's Gaza operation gives glimpse of future"
-    excerpt: "Israeli military action last month in Palestinian-controlled Gaza has been described as the first artificial intelligence war, imparting a glimpse of future conflicts in the 21st century. \"This is the first time [AI] was used broadly across an operation."
-    publishedDateTime: 2021-06-27T20:05:00Z
-    webUrl: "https://asia.nikkei.com/Politics/International-relations/The-first-AI-conflict-Israel-s-Gaza-operation-gives-glimpse-of-future"
-    type: article
-    provider:
-      name: NIKKEI
-      domain: nikkei.com
-    quality: 37
-    images:
-      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%253A%252F%252Fs3-ap-northeast-1.amazonaws.com%252Fpsh-ex-ftnikkei-3937bb4%252Fimages%252F8%252F3%252F3%252F2%252F35002338-5-eng-GB%252FCropped-1624823553photo.JPG?width=1024&height=512&fit=cover&gravity=faces&source=nar-cms"
-        width: 1024
-        height: 512
-        isCached: true
 
 secured: "dVNVDZ0C8Rk501n4nzz3wW09nAI2qGGN85KIGKWy9qFOXZZ44oE7lM3GR+FSEToiiYOEBaMXefgnTraq6aOlKdGU/7L6mCFQXFrIx3orPUy6zDYIOtDfI5qTr1v6Uy9ZJf4iMfjSMyuPgO4J4OOBNDxdjn1lkdoK8Hutt1lWeZtum69j0CXiVnUDXAfAdh49ETbMG+yE4kzqujKh6aKZq+uLic0Tx9zvu3VBj+BHCikvUjAMimd7GU+PXWuD+MPAPj5x0UKeydNuqMO9xdYotrKAZgGXnt9hQdqh6xZuxPRw8WM17fU6QA7kq6ocH3BY6tshTR3T/QZ2nsD6dK3OR5p4W6yRnvhaZvEDurhiCBqJjsuEF2PC1ubVAjOJq2t709eJsPQpDdZCAUbflIfXWPTPNqHDq8IMSNK7pOz/6GowtIyErFJiLFK2O8/8jZJXheLhYtQnejJn4J6TSpVU3i53S3++TCGvs/nA6xSTaXP61RAPwb/AOzkUtFyVRKQ289PMZhFtDXGCdQ0WxgUUOA==;tbBZAhyCiDp4pczka9GBPw=="
 ---

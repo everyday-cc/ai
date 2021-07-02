@@ -24,6 +24,17 @@ images:
     height: 314
     isCached: true
 
+related:
+  - title: "AWS, Salesforce partnership to unify developer experiences"
+    excerpt: "Salesforce will also embed AWS services for voice, video, artificial intelligence (AI) and machine learning (ML) directly in new applications for sales, service, and industry vertical use cases."
+    publishedDateTime: 2021-07-02T11:44:00Z
+    webUrl: "https://menafn.com/1102338359/AWS-Salesforce-partnership-to-unify-developer-experiences"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 19
+
 secured: "s+BGeQzaMh7FF4tCz5mINBHJAM81P7MWd464CoS+RE+m3VIQZ0K2qw7roqZ3ni1DREfKLTTiWRCK/QjYBZ5jDzUpSH/dLdfKVjoUXVBCv+fBVthFRYKfo5LCw2M0Vt0DQs+VBl98S84RPAEIqT//cZO6egILCFyMduSFGEDy5VdKt0IIrzJqtnjcFKnHokOgNHE8ooiOHYOO4ONlTFPqauqcx2n+FdbBxuIp1pVlIR1HHiZ4v5koMn16y0MgC+FLQgsnBJ2xb2gMmdBjPNESNEIL1u2Lolh01R9w/disVNNYFDfoToSax2whBNSwT6AuHcc4bmmoM6S2laQBTO35vLmLVyE7jm1aitJfKPxUCHxwj5moDf4sBo4FaDvLUZ2emCfdFkYEU2tKrOpTjSUnXIpJ1Zk4r9r8Dw5b17SWcjLD33l8gGw6iYfnUQH3eE7wtw+m50DSywGGwKV/6MePbedaQoE/C1zCqistPF1gOCKgOcZcB7mYObOfk0eqK+/sQY11XxYz3GISqlDrklwOTQ==;NDRR6DLFPVkQnslKFHlYrQ=="
 ---
 

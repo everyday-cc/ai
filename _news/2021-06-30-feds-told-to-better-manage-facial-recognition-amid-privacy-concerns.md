@@ -89,6 +89,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Adversa AI Red Team Introduces Technology for Ethical Hacking of Facial Recognition Systems"
+    excerpt: "The Adversa AI Red Team has performed a proof-of-concept attack on PimEyes, the most popular and advanced public picture face search engine. FREMONT, CA: Adversa AI, a trusted AI research leader, has presented a novel attack method for AI facial recognition applications."
+    publishedDateTime: 2021-07-02T13:57:00Z
+    webUrl: "https://www.cioapplications.com/news/adversa-ai-red-team-introduces-technology-for-ethical-hacking-of-facial-recognition-systems--nid-8028.html"
+    type: article
+    provider:
+      name: CIO Applications
+      domain: cioapplications.com
+    quality: 61
+    images:
+      - url: "https://www.cioapplications.com/newstransfer/upload/m2u1g450308.jpg"
+        width: 450
+        height: 308
+        isCached: true
   - title: "Myrtle Beach Police Use Controversial Facial Recognition Tool"
     excerpt: "The South Carolina police department has been using the facial recognition software, Clearview AI, for more than a year. Law enforcement officials said that the department has ultimately decided not to use the service."
     publishedDateTime: 2021-06-30T21:26:00Z

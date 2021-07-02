@@ -1,29 +1,49 @@
 ---
 category: news
-title: "NASA's Self-Driving Perseverance Mars Rover 'Takes the Wheel'"
-excerpt: "The agency’s newest rover is trekking across the Martian landscape using a newly enhanced auto-navigation system."
-publishedDateTime: 2021-07-01T19:23:00Z
-originalUrl: "https://mars.nasa.gov/news/8980/nasas-self-driving-perseverance-mars-rover-takes-the-wheel"
-webUrl: "https://mars.nasa.gov/news/8980/nasas-self-driving-perseverance-mars-rover-takes-the-wheel"
+title: "NASA's self-driving Perseverance Mars rover 'takes the wheel'"
+excerpt: "NASA's newest six-wheeled robot on Mars, the Perseverance rover, is beginning an epic journey across a crater floor seeking signs of ancient life. That means the rover team is deeply engaged with planning navigation routes,"
+publishedDateTime: 2021-07-02T12:51:00Z
+originalUrl: "https://phys.org/news/2021-07-nasa-self-driving-perseverance-mars-rover.html"
+webUrl: "https://phys.org/news/2021-07-nasa-self-driving-perseverance-mars-rover.html"
+ampWebUrl: "https://phys.org/news/2021-07-nasa-self-driving-perseverance-mars-rover.amp"
+cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-07-nasa-self-driving-perseverance-mars-rover.amp"
 type: article
-quality: 24
-heat: 24
+quality: 44
+heat: -1
 published: false
 
 provider:
-  name: NASA
-  domain: nasa.gov
+  name: Phys.org
+  domain: phys.org
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://mars.nasa.gov/system/news_items/list_view_images/8980_1-PIA24722-Perseverances-First-Autonav-Drive-thumb.jpg"
-    width: 320
-    height: 240
+  - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/nasas-self-driving-per.jpg"
+    width: 2880
+    height: 1928
     isCached: true
 
-secured: "zy+Wf2jt7AgN5yastMMLg6u9Z1TICSFV5gILxuclOswLUMgpDTmbdhGsI+QlXahpDpwfeiTscjv249YJDgaEf7IiwExVwctRyi2OA5XyRAvJFUjCKyn3B0J7AM56txye4Zmkgts2eF4zLfLXhBYkQkdV+qD1EoiX/hbUFKVw/Fd+MMB7nmfWN3fu8qDO4yjsyeYCeIeYgx0/wZ2aqLrsn8Z6/q4rpMJy1iQShbg+YwcfOm3BwAzkVoxhIj32bRYEUZD6ceMEb4yDlA4qKmn0vy80w+q4Rc69KWkP5VtFrVflKQyYzkeYbb5/eEEcqPHESRp+yga4wlaV4nhHYrHkBkiSV1ZBCQ8/HQr1fbCIXgQ=;N1WA+uDJlw5wR2HD0enBDw=="
+related:
+  - title: "NASA's self-driving Mars Rover begins search for signs of ancient life"
+    excerpt: "Will trek across the Martian landscape using a newly enhanced auto-navigation system NASA's self-driving six-wheeled robot on Mars -- the Perseverance rover -- is set to start an epic journey across a crater floor to seek signs of ancient life,"
+    publishedDateTime: 2021-07-02T11:59:00Z
+    webUrl: "https://www.tribuneindia.com/news/schools/nasas-self-driving-mars-rover-begins-search-for-signs-of-ancient-life-277232"
+    ampWebUrl: "https://www.tribuneindia.com/news/schools/nasas-self-driving-mars-rover-begins-search-for-signs-of-ancient-life-277232"
+    cdnAmpWebUrl: "https://www-tribuneindia-com.cdn.ampproject.org/c/s/www.tribuneindia.com/news/schools/nasas-self-driving-mars-rover-begins-search-for-signs-of-ancient-life-277232"
+    type: article
+    provider:
+      name: The Tribune
+      domain: tribuneindia.com
+    quality: 44
+    images:
+      - url: "https://englishtribuneimages.blob.core.windows.net/gallary-content/2021/7/2021_7$largeimg_1156994624.jpg"
+        width: 900
+        height: 506
+        isCached: true
+
+secured: "2HOng+SHM2VzAQJ9esrRwRlR3I6UFYtNbQBR+UuByrarRsSVtFlVlcWsf6rOge2iRmSX2tFdi5ywsMM4Vhj2TnY7o4unxuIUtEyp4UimNO6wBV2zKjsuOwTPD4ZIh3DRgvjEaVJ/g0Jd0XKcyfO6B7xh8dkJX1xBO/AFFd8S3GG5U/rgSsTkQ3zkw3GdH+SlHFZVmHyF65FyWUhStzTY9YVHFSy+kCzqG0GR9RhI59pw6sbdQ3jwWr44chD24DZfcdRnCVR91UWYeWZ0hiI9Lze1X5MkTXlagASZN26luZ6+NtV0DcJJ++OOvJ0aG/1DeVYMDCoHl+57Pfva2OKpt83Pl45Js9U8SZ/EsnJPsWA=;EtlzCPvDMmgUgeTIELH7Lg=="
 ---
 

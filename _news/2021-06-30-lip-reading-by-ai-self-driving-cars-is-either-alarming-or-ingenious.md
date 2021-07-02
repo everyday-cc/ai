@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/06/30/lip-reading-by-ai
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/06/30/lip-reading-by-ai-self-driving-cars-is-either-alarming-or-ingenious/amp/"
 type: article
 quality: 91
-heat: 251
+heat: 241
 published: true
 
 provider:
@@ -89,20 +89,6 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F600b279b38fb40a4043817d3%2F0x0.jpg"
         width: 1200
         height: 800
-        isCached: true
-  - title: "Self-Driving Startup Taps Investors Amid Shifting Autonomous Market"
-    excerpt: "Venture firms including Founders Fund and Sutter Hill Partners are backing autonomous-driving startup Ghost Locomotion Inc."
-    publishedDateTime: 2021-07-01T14:16:00Z
-    webUrl: "https://www.wsj.com/articles/self-driving-startup-taps-investors-amid-shifting-autonomous-market-11625148000"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 54
-    images:
-      - url: "https://images.wsj.net/im-362878/social"
-        width: 1280
-        height: 640
         isCached: true
   - title: "That Hacked Electronic Roadside Display In Brooklyn Said Cars Are Bad, Which Startlingly Brings Up Questions About The Advent Of AI Self-Driving Cars"
     excerpt: "A hacked electronic roadside display panel had a lot of messages about the badness of today's cars, which indirectly raises interesting questions about the future and the advent of AI-based driverless self-driving cars."

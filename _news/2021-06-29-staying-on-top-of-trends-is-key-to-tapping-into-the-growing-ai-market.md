@@ -88,20 +88,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Self-Driving Startup Taps Investors Amid Shifting Autonomous Market"
-    excerpt: "Venture firms including Founders Fund and Sutter Hill Partners are backing autonomous-driving startup Ghost Locomotion Inc."
-    publishedDateTime: 2021-07-01T14:16:00Z
-    webUrl: "https://www.wsj.com/articles/self-driving-startup-taps-investors-amid-shifting-autonomous-market-11625148000"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 54
-    images:
-      - url: "https://images.wsj.net/im-362878/social"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "That Hacked Electronic Roadside Display In Brooklyn Said Cars Are Bad, Which Startlingly Brings Up Questions About The Advent Of AI Self-Driving Cars"
     excerpt: "A hacked electronic roadside display panel had a lot of messages about the badness of today's cars, which indirectly raises interesting questions about the future and the advent of AI-based driverless self-driving cars."
     publishedDateTime: 2021-06-28T15:30:00Z

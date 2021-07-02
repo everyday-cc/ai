@@ -105,20 +105,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Self-Driving Startup Taps Investors Amid Shifting Autonomous Market"
-    excerpt: "Venture firms including Founders Fund and Sutter Hill Partners are backing autonomous-driving startup Ghost Locomotion Inc."
-    publishedDateTime: 2021-07-01T14:16:00Z
-    webUrl: "https://www.wsj.com/articles/self-driving-startup-taps-investors-amid-shifting-autonomous-market-11625148000"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 54
-    images:
-      - url: "https://images.wsj.net/im-362878/social"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "Automakers must report crashes involving self-driving and driver-assist systems"
     excerpt: "The National Highway Traffic Safety Administration (NHTSA) has implemented a new policy that will require car companies to report incidents involving semi- and fully autonomous driving systems within one day of learning of an accident."
     publishedDateTime: 2021-06-29T17:49:00Z

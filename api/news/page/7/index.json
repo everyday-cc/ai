@@ -2,6 +2,299 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2021-06-26-how-ai-is-changing-the-nature-of-analytics.md",
+      "title": "How AI is changing the nature of analytics",
+      "excerpt": "At its core, artificial intelligence is an analytics tool. AI is useful because it can parse large amounts of data and add context.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/06/25/how-ai-is-changing-the-nature-of-analytics/",
+      "originalUrl": "https://venturebeat.com/2021/06/25/how-ai-is-changing-the-nature-of-analytics/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 177,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2016/06/analytics-e1624650601959.jpg?fit=800%2C600&strip=all",
+          "width": 800,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/06/25/how-ai-is-changing-the-nature-of-analytics/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/25/how-ai-is-changing-the-nature-of-analytics/amp/",
+      "publishedDateTime": "2021-06-25T16:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-26-a-beginners-guide-to-ai-policy.md",
+      "title": "A beginner’s guide to AI: Policy",
+      "excerpt": "Neural's long-running Begginer's Guide To Artificial Intelligence gets a modern update discussing policy and regulation around the globe.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/news/beginners-guide-to-artificial-intelligence-policy",
+      "originalUrl": "https://thenextweb.com/news/beginners-guide-to-artificial-intelligence-policy",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F06%2Fpolicyrobot.jpg&signature=3570b3c012b72a0b33e2163995744feb",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-25T15:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-26-ai-weekly-nist-proposes-ways-to-identify-and-address-ai-bias.md",
+      "title": "AI Weekly: NIST proposes ways to identify and address AI bias",
+      "excerpt": "The U.S. National Institute of Standards and Technology (NIST) is proposing ways to identify and address bias in AI systems.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/06/25/ai-weekly-nist-proposes-ways-to-identify-and-address-ai-bias/",
+      "originalUrl": "https://venturebeat.com/2021/06/25/ai-weekly-nist-proposes-ways-to-identify-and-address-ai-bias/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/12/GettyImages-1195223774-e1624499731437.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 586,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-25T13:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2021-06-26-adversa-ai-red-team-invented-technology-for-ethical-hacking-of-facial-recognition-systems.md",
+      "title": "Adversa AI Red Team Invented Technology for Ethical Hacking of Facial Recognition Systems",
+      "excerpt": "Adversa AI, the leading Trusted AI Research startup, has demonstrated a new attack method on AI facial recognition applications. By",
+      "sourceUrl": null,
+      "webUrl": "https://www.prnewswire.com/il/news-releases/adversa-ai-red-team-invented-technology-for-ethical-hacking-of-facial-recognition-systems-301319745.html",
+      "originalUrl": "https://www.prnewswire.com/il/news-releases/adversa-ai-red-team-invented-technology-for-ethical-hacking-of-facial-recognition-systems-301319745.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1551025/octopus.jpg?p=facebook",
+          "width": 798,
+          "height": 419,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-25T12:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PR Newswire",
+        "domain": "prnewswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2021-06-26-kellogg-exec-on-ai-uses-cases-implementation-and-culture-change.md",
+      "title": "Kellogg exec on AI uses cases, implementation, and ‘culture change’",
+      "excerpt": "Kellogg is among the many companies embracing AI and automation as the pandemic presents new challenges -- and opportunities.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/06/25/kellogg-exec-on-ai-uses-cases-implementation-and-culture-change/",
+      "originalUrl": "https://venturebeat.com/2021/06/25/kellogg-exec-on-ai-uses-cases-implementation-and-culture-change/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/09/supply_chain-e1624645852641.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/06/25/kellogg-exec-on-ai-uses-cases-implementation-and-culture-change/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/25/kellogg-exec-on-ai-uses-cases-implementation-and-culture-change/amp/",
+      "publishedDateTime": "2021-06-25T11:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2021-06-26-lambdatest-creates-app-for-better-communication-among-employees-for-microsoft-teams.md",
+      "title": "LambdaTest creates app for better communication among employees for Microsoft Teams",
+      "excerpt": "As remote working continues around the world, browser-testing platform LambdaTest is launching a Microsoft Teams app that will allow anyone using Teams to, in-conversation, run live tests to see what their company website looks like across 2,000+ desktop ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.kmworld.com/Articles/ReadArticle.aspx?ArticleID=147697",
+      "originalUrl": "https://www.kmworld.com/Articles/ReadArticle.aspx?ArticleID=147697",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://dzceab466r34n.cloudfront.net/KMWorld/TemplateImages/KMW21_Sub-Cover-Image.gif",
+          "width": 772,
+          "height": 594,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-25T11:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KMWorld Magazine",
+        "domain": "kmworld.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-25-reduce-computer-vision-inference-latency-using-grpc-with-tensorflow-serving-on-amazon-sagemaker.md",
       "title": "Reduce computer vision inference latency using gRPC with TensorFlow serving on Amazon SageMaker",
       "excerpt": "AWS customers are increasingly using computer vision (CV) models for improved efficiency and an enhanced user experience. For example, a live broadcast of sports can be processed in real time to detect specific events automatically and provide additional insights to viewers at low latency. Inventory",
@@ -352,58 +645,6 @@
       ]
     },
     {
-      "path": "_news/2021-06-25-exclusive-toyota-backed-self-driving-startup-ponyai-considers-going-public.md",
-      "title": "Exclusive: Toyota-backed self-driving startup Pony.ai considers going public",
-      "excerpt": "A screen showing traffic and other objects is seen inside a vehicle equipped with Pony.ai's self-driving technology during a demonstration in Fremont, California, U.S. June 17, 2021. REUTE",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/news/picture/exclusive-toyota-backed-self-driving-sta-idUSKCN2E10Y4",
-      "originalUrl": "https://www.reuters.com/news/picture/exclusive-toyota-backed-self-driving-sta-idUSKCN2E10Y4",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20210625&t=2&i=1566947948&w=&fh=545&fw=810&ll=&pl=&sq=&r=LYNXNPEH5O0G8",
-          "width": 810,
-          "height": 540,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-25T06:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-06-25-global-service-robotics-market-to-reach-1104-billion-by-2026.md",
       "title": "Global Service Robotics Market to Reach $110.4 Billion by 2026",
       "excerpt": "A new market study published b Inc., (GIA) the premier market research company, today released its report titled \"Service Robotics",
@@ -698,6 +939,58 @@
       ]
     },
     {
+      "path": "_news/2021-06-25-exclusive-toyota-backed-self-driving-startup-ponyai-considers-going-public.md",
+      "title": "EXCLUSIVE Toyota-backed self-driving startup Pony.ai considers going public",
+      "excerpt": "FREMONT, California, June 25 (Reuters) - Self-driving tech company Pony.ai ... Pony.ai, founded by former Google and Baidu Inc (9888.HK) engineers Peng and Lou Tiancheng in 2016, has so far ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/business/autos-transportation/exclusive-toyota-backed-self-driving-startup-ponyai-considers-going-public-2021-06-25/",
+      "originalUrl": "https://www.reuters.com/business/autos-transportation/exclusive-toyota-backed-self-driving-startup-ponyai-considers-going-public-2021-06-25/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.reuters.com/resizer/2qSLKwou_uMeOYl9o0cLDFy9k_A=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/YKRNUSEBRNJLROOHXAMKCUAUOE.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-25T03:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-25-nis-america-is-making-fan-translations-official-with-trails-from-zero-and-trails-to-azure.md",
       "title": "NIS America is making fan translations official with Trails from Zero and Trails to Azure",
       "excerpt": "Fan translations for two Trails games from a group called Geofront are serving as the basis for official releases.",
@@ -929,300 +1222,6 @@
       "topics": [
         "AI in Finance",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-25-aizen-winner-of-mas-fintech-awards-offers-banking-services-through-ai-based-data-integration.md",
-      "title": "\"AIZEN,\" Winner of MAS FinTech Awards, Offers Banking Services through AI-Based Data Integration",
-      "excerpt": "AIZEN, which ranked second in the Global Category of MAS FinTech Awards 2020 (Singapore FinTech Festival, MAS FinTech Awards) alongside Swiss Re (insurance) and BNY Mellon (banking), announced that it would provide banking-as-a-service to the Southeast Asian market.",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/aizen-winner-of-mas-fintech-awards-offers-banking-services-through-ai-based-data-integration-1030553356",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/aizen-winner-of-mas-fintech-awards-offers-banking-services-through-ai-based-data-integration-1030553356",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 141,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1538623/AIZEN.jpg",
-          "width": 400,
-          "height": 225,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-24T18:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2021-06-25-facial-recognition-use-by-liberals-raises-issues-says-bcs-privacy-commissioner.md",
-      "title": "Facial recognition use by Liberals raises issues, says B.C.'s privacy commissioner",
-      "excerpt": "British Columbia's information and privacy commissioner says he's considering launching an investigation into the use of facial recognition technology by the Liberal Party of Canada.",
-      "sourceUrl": null,
-      "webUrl": "https://bc.ctvnews.ca/facial-recognition-use-by-liberals-raises-issues-says-b-c-s-privacy-commissioner-1.5484881",
-      "originalUrl": "https://bc.ctvnews.ca/facial-recognition-use-by-liberals-raises-issues-says-b-c-s-privacy-commissioner-1.5484881",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 108,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://beta.ctvnews.ca/local/british-columbia/2021/6/24/1_5484881/_jcr_content/root/responsivegrid/image.coreimg.jpg",
-          "width": 1020,
-          "height": 575,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://beta.ctvnews.ca/local/british-columbia/2021/6/24/1_5484881.html",
-      "cdnAmpWebUrl": "https://beta-ctvnews-ca.cdn.ampproject.org/c/s/beta.ctvnews.ca/local/british-columbia/2021/6/24/1_5484881.html",
-      "publishedDateTime": "2021-06-24T17:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CTV News",
-        "domain": "ctvnews.ca",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-25-why-ethical-ai-wont-catch-on-anytime-soon.md",
-      "title": "Why Ethical AI Won't Catch On Anytime Soon",
-      "excerpt": "While there has been a good deal of discussion about the use of AI in enterprises and the possibility of building ethical AI strategies, new research indicates that even 10 years from today, it is unlikely that ethical AI design will be widely adopted.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cmswire.com/information-management/why-ethical-ai-wont-catch-on-anytime-soon/",
-      "originalUrl": "https://www.cmswire.com/information-management/why-ethical-ai-wont-catch-on-anytime-soon/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cmswire.com/-/media/0ec4df5f96ba4d2ead37feaffe2c3180.ashx?mw=1024",
-          "width": 640,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cmswire.com/information-management/why-ethical-ai-wont-catch-on-anytime-soon/amp/",
-      "cdnAmpWebUrl": "https://www-cmswire-com.cdn.ampproject.org/c/s/www.cmswire.com/information-management/why-ethical-ai-wont-catch-on-anytime-soon/amp/",
-      "publishedDateTime": "2021-06-24T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CMS Wire",
-        "domain": "cmswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-25-zero-trust-startup-illumio-raises-225m-to-protect-multicloud-and-edge.md",
-      "title": "Zero trust startup Illumio raises $225M to protect multicloud and edge",
-      "excerpt": "Zero trust security expert Illumio raised $225 million in a funding round led by Thoma Bravo, others. Channel expansion is among goals.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/06/24/zero-trust-startup-illumio-raises-225m-to-protect-multicloud-and-edge/",
-      "originalUrl": "https://venturebeat.com/2021/06/24/zero-trust-startup-illumio-raises-225m-to-protect-multicloud-and-edge/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/03/GettyImages-1182955043-e1619720482359.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/06/24/zero-trust-startup-illumio-raises-225m-to-protect-multicloud-and-edge/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/24/zero-trust-startup-illumio-raises-225m-to-protect-multicloud-and-edge/amp/",
-      "publishedDateTime": "2021-06-24T16:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-25-the-future-of-mobility-5-transportation-technologies-to-watch-out-for.md",
-      "title": "The future of mobility: 5 transportation technologies to watch out for",
-      "excerpt": "From autonomous vehicles to flying taxis, the future of mobility and transportation is set to change dramatically in the next few decades. Here's a preview",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaltrends.com/cars/future-of-mobility-transportation-trends/",
-      "originalUrl": "https://www.digitaltrends.com/cars/future-of-mobility-transportation-trends/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://icdn.digitaltrends.com/image/digitaltrends/volocopter2.jpg",
-          "width": 1500,
-          "height": 1000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.digitaltrends.com/cars/future-of-mobility-transportation-trends/?amp",
-      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/cars/future-of-mobility-transportation-trends/?amp",
-      "publishedDateTime": "2021-06-24T16:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Trends",
-        "domain": "digitaltrends.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-24-how-daniel-wellingtons-customer-service-department-saved-99-on-translation-costs-with-amazon-translate.md",
-      "title": "How Daniel Wellington’s customer service department saved 99% on translation costs with Amazon Translate",
-      "excerpt": "This post is co-authored by Lezgin Bakircioglu, Innovation and Security Manager at Daniel Wellington. In their own words, “Daniel Wellington (DW) is a Swedish fashion brand founded in 2011. Since its inception, it has sold over 11 million watches and established itself as one of the fastest-growing and",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/how-daniel-wellingtons-customer-service-department-saved-99-on-translation-costs-with-amazon-translate/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/how-daniel-wellingtons-customer-service-department-saved-99-on-translation-costs-with-amazon-translate/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/06/09/3451-Architecture.jpg",
-          "width": 800,
-          "height": 354,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-24T15:58:36-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Natural Language Processing"
       ]
     }
   ],

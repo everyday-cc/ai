@@ -6,9 +6,9 @@ publishedDateTime: 2021-06-30T11:50:00Z
 originalUrl: "https://www.reuters.com/world/asia-pacific/seoul-using-ai-detect-prevent-suicide-attempts-bridges-2021-06-30/"
 webUrl: "https://www.reuters.com/world/asia-pacific/seoul-using-ai-detect-prevent-suicide-attempts-bridges-2021-06-30/"
 type: article
-quality: 67
-heat: 67
-published: false
+quality: 167
+heat: 167
+published: true
 
 provider:
   name: Reuters
@@ -27,6 +27,6 @@ images:
     height: 628
     isCached: true
 
-secured: "XYJbp8n3Aq8+l+x+Hyb68I5kIuOb0lb0/RCL5njheoej/HPooQSE7x8mJ0F771+kTLohSYsyRlLEH0zSG8T7c9gArmrhbiqtLV0/IVdPV8m7tQZ4keWD3LZhfBvQEQW3sQVblkZ0fV/L8zx+JB81PMO/C4Vx6T4YwtCk9J1TUE48GgMZ4L704ZKNEw+fTaQH4ZJXDLayz+OhCrisveLv4JA9yW6XpS0+Mmm4FioKmS4h5w2z7LpWyuMaBZvNqWal9QN5iKK/dsvkuBUuFnewWYn511WkQTBAdc38X2gFphBh0nBpQcyYXKgIgy+WPyQFut4WM9c/IWe89XwZZBN63MNUbP2ZUeyXYEtN+HdG2kXQafH2luuF+gNW9GrZ6JIUkBL6J0gfbY/zu0RGnSJ1kaF1byufFf4N5TNQW3CLpgNzqsDB6jI4RJ5IdpfNCkZG6S0GR8+jl5NN7P9HHM+fFFeTMlKUq938SytlXva/hipey1yv9xwiBff8KEZPGYuOrqQ6+OpBZ30YKPy+1w3W3Q==;qTydmXPbE3qQlpYeNpltOA=="
+secured: "RSRUR0SUkzkDVtXbaSgC+3TkW3tn97ix8a5opUrbd7yAxj9g9Pvo+TQWKeLY44ObsIUEGi8hO/j5Ty90uJVKLexAFL32UVaFoOZ01Rw0J1vydng5DHTTBrgBBdn3yII4E2Ln7S01rM1mqybdUkGsBreUKtTenonzAS9FQFKKTmmk2stIVuI0sZM+R20OgCxUphdK8kx+IF32trZEd4EV7G1mSfj/IZkAxHBnjJ2d+bunOVZ282OObfwSfupsveb114w41lc4NBOOCTdhsc/hk+YEymFco9SWM5E2CgZvLRezeucr1T1Hl6NLoRMBYPODRF9PrQIRerXfpSJP/1yaefxruDem0d0c6LpoMfIitmL4MyTiYWsKY6TCuB1PbxoBIvJd6c4St06XvgUptKTlBim56pI9w6gGrCCsi020dJUQfy3oDoXxvrAOpxhnuz1cSDi/5S/Uhn+hvJiuZOyR2uS8oo3DcT+8jAZm8wFia1FU6XH2rdf6kKazeZBFjNrk5OFNNYPmowd0EC7gDRFQtDlHVbXzigrU1G4UTsT/r2w=;DknLK4VZ5RfyeTVV8dSjpA=="
 ---
 

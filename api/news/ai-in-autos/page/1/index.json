@@ -54,7 +54,7 @@
       "originalUrl": "https://www.forbes.com/sites/lanceeliot/2021/06/30/lip-reading-by-ai-self-driving-cars-is-either-alarming-or-ingenious/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 251,
+      "heat": 241,
       "tags": null,
       "images": [
         {
@@ -448,20 +448,20 @@
     },
     {
       "path": "_news/2021-06-25-exclusive-toyota-backed-self-driving-startup-ponyai-considers-going-public.md",
-      "title": "Exclusive: Toyota-backed self-driving startup Pony.ai considers going public",
-      "excerpt": "A screen showing traffic and other objects is seen inside a vehicle equipped with Pony.ai's self-driving technology during a demonstration in Fremont, California, U.S. June 17, 2021. REUTE",
+      "title": "EXCLUSIVE Toyota-backed self-driving startup Pony.ai considers going public",
+      "excerpt": "FREMONT, California, June 25 (Reuters) - Self-driving tech company Pony.ai ... Pony.ai, founded by former Google and Baidu Inc (9888.HK) engineers Peng and Lou Tiancheng in 2016, has so far ...",
       "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/news/picture/exclusive-toyota-backed-self-driving-sta-idUSKCN2E10Y4",
-      "originalUrl": "https://www.reuters.com/news/picture/exclusive-toyota-backed-self-driving-sta-idUSKCN2E10Y4",
+      "webUrl": "https://www.reuters.com/business/autos-transportation/exclusive-toyota-backed-self-driving-startup-ponyai-considers-going-public-2021-06-25/",
+      "originalUrl": "https://www.reuters.com/business/autos-transportation/exclusive-toyota-backed-self-driving-startup-ponyai-considers-going-public-2021-06-25/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20210625&t=2&i=1566947948&w=&fh=545&fw=810&ll=&pl=&sq=&r=LYNXNPEH5O0G8",
-          "width": 810,
-          "height": 540,
+          "url": "https://www.reuters.com/resizer/2qSLKwou_uMeOYl9o0cLDFy9k_A=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/YKRNUSEBRNJLROOHXAMKCUAUOE.jpg",
+          "width": 1200,
+          "height": 628,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -471,7 +471,7 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-25T06:51:00-07:00",
+      "publishedDateTime": "2021-06-25T03:12:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Reuters",

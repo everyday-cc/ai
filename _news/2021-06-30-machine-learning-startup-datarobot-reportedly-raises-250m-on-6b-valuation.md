@@ -7,7 +7,7 @@ originalUrl: "https://siliconangle.com/2021/06/29/machine-learning-startup-datar
 webUrl: "https://siliconangle.com/2021/06/29/machine-learning-startup-datarobot-reportedly-raises-250m-6b-valuation/"
 type: article
 quality: 69
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -39,20 +39,6 @@ related:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/07/olive.png"
         width: 800
         height: 450
-        isCached: true
-  - title: "AI-powered automatic IT support startup Moveworks raises $200M at $2.1B valuation"
-    excerpt: "Moveworks Inc., a startup using artificial intelligence to help enterprises automate information technology support tasks, is worth $2.1 billion following a new $200 million funding round it announced this morning."
-    publishedDateTime: 2021-06-30T17:06:00Z
-    webUrl: "https://siliconangle.com/2021/06/30/ai-powered-automatic-support-startup-moveworks-raises-200m-2-1b-valuation/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 32
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/06/moveworks.jpg"
-        width: 900
-        height: 506
         isCached: true
 
 secured: "KUBKHcE5bttCKLJFpEFLKkLK2OPW0F3pchPgTxJlKdSByO7k+I2vXAb4jDXueSd246FHzULAc0uE/PFtEvujuE/RSNwyzYbN/eMJYJieg7P6+SrK9PM4cvqwtr5IZGcAgTVBfLDaKpMuF9d39hJqlF6ydYUIm72Ly8N7fsN2xgurd7lemBQizNCtL4sW/UkEOw0L96x9XzsqLEEHRbJfICqX8UHdLorE7C+gqmxiHhTc+FSZqBH5g2GIpq6SAMIRfrFOeUW3lUMs4ttB5YL4H9OppgAvDrT+6ErxC5ObrL5MlGt7NR1tNKOcUPHPzVnoQfILdcJ4uyBffqCysncPxWSFfU2E1GO5j+LY1dOCVZ3QvTFpdhFnfGmHcsHIAFONQpdMFvp5UQ2NGqYv8ljVP8qjelmOChopAA0QxGhfhwhueQuMUJH01NVTmrmYLRPKiURwGxBKmQ81zGUnxmNd3Z9iGqNjK3wDMsLU6Nt1vLvdIq1egJTYcwrwwO3xyzkAFM5ih1nU/rHuR8OHriEJ5g==;CyzOtO3rauEk1XXiyp+yoA=="

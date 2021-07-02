@@ -1,39 +1,47 @@
 ---
 category: news
-title: "Medidata Acorn AI Synthetic Control Arm® Named \"Best AI-based Solution for Healthcare\" by 2021 AI Breakthrough Awards"
-excerpt: "Medidata, a Dassault Systemes ( News - Alert) company, today announced that the Medidata Acorn AI Synthetic Control Arm ® (SCA) has been awarded \"Best AI-based Solution for Healthcare'' in this year's AI Breakthrough Awards ."
-publishedDateTime: 2021-06-30T16:05:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/2021/06/30/9401233.htm"
-webUrl: "https://www.tmcnet.com/usubmit/2021/06/30/9401233.htm"
+title: "Medidata Acorn AI Synthetic Control Arm® Named “Best AI-based Solution for Healthcare” by 2021 AI Breakthrough Awards"
+excerpt: "However, an SCA can improve patient recruitment and retention by allowing for a study design where all or at least more patients can be treated with the experimental therapy ... to honoring excellence in Artificial Intelligence technologies, services ..."
+publishedDateTime: 2021-06-30T16:02:00Z
+originalUrl: "https://www.register-herald.com/region/medidata-acorn-ai-synthetic-control-arm-named-best-ai-based-solution-for-healthcare-by-2021/article_a495d921-24fb-5ab8-92a6-73240b430619.html"
+webUrl: "https://www.register-herald.com/region/medidata-acorn-ai-synthetic-control-arm-named-best-ai-based-solution-for-healthcare-by-2021/article_a495d921-24fb-5ab8-92a6-73240b430619.html"
 type: article
-quality: 11
+quality: 31
 heat: -1
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: The Register-Herald
+  domain: register-herald.com
 
 topics:
   - AI in Healthcare
   - AI
 
+images:
+  - url: "https://bloximages.chicago2.vip.townnews.com/register-herald.com/content/tncms/assets/v3/editorial/3/1b/31ba3241-1f65-5860-9593-b4fa908b9fa5/60dc991277cd6.image.jpg?resize=645%2C630"
+    width: 645
+    height: 630
+    isCached: true
+
 related:
-  - title: "EyeTech Digital Systems Recognized by SIIA as Best Artificial Intelligence Solution in Healthcare"
-    excerpt: "EyeTech Digital Systems' EyeOn platform has been named the 2021 Best Artificial Intelligence Solution in Healthcare as part of the annual"
-    publishedDateTime: 2021-06-28T12:30:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/eyetech-digital-systems-recognized-by-siia-as-best-artificial-intelligence-solution-in-healthcare-301320430.html"
+  - title: "This AI Just Evolved From Companion Robot To Home-Based Physician Helper"
+    excerpt: "The Israeli startup has developed the AI-based, award-winning proactive social robot ElliQ which has spent over 30,000 days in older adults’ homes over the past two years. Now ElliQ will help increase patient engagement while offering primary care providers continuous actionable data and insights for early detection and intervention."
+    publishedDateTime: 2021-06-30T13:00:00Z
+    webUrl: "https://www.forbes.com/sites/gilpress/2021/06/30/this-ai-just-evolved-from-companion-robot-to-home-based-physician-helper/"
+    ampWebUrl: "https://www.forbes.com/sites/gilpress/2021/06/30/this-ai-just-evolved-from-companion-robot-to-home-based-physician-helper/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/gilpress/2021/06/30/this-ai-just-evolved-from-companion-robot-to-home-based-physician-helper/amp/"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 41
+      name: Forbes
+      domain: forbes.com
+    quality: 103
     images:
-      - url: "https://mma.prnewswire.com/media/1509178/EyeTech_Logo.jpg?p=facebook"
-        width: 2700
-        height: 1414
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60dbe5bce16dc1909fa61bcd%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D3292%26cropY1%3D171%26cropY2%3D2022"
+        width: 1200
+        height: 675
         isCached: true
 
-secured: "uc8wgVukTQ+NMnEgKgVtzpzE/7/wrlLHNppRGa87s4KzAPwgbml4Zy5T83faWfSqgmr1dd8emtTpYM3ItOfFrpsboPK5VRFh61zptxkEgWeze+zTI/xUbadLL8fNib95i9TK3sjG56n3O+1G6/22UKw2zDCPCXTHcS7H0vB8RXQieK8C6EOCpt2AXHh3Fl/BNMAbUATJQ/bOz/W9aUxsS+TmO3JdnLRH08ZGagTHTuQJ0jQWm2uTIhpqBrFNaUJ8e/6/UDBzvikYMz58hdBgfOZZzMGgQcw8aMbU5Orx6PnvR0eOVD4fW9qq6BOakJM9qzp4OfduyX1nH7cuKRDwziVhdpQAyeJwI5GYyrP9ph1dcTU8iQNIcK+eciwWp3syczBIsnmReh/GY9IXkFBIDrPGtW//hpdeU1mMDnDCnYuM9cY7cgF2LVPF5V6Uy7puDNY0t+P+ZWugnFq3SBXLTfQOv/cAemCjCRqiZ4Mk1JWksfdLQ8zJHK9rnJP2t2uHOYoqrdXvZYWiz2u9DVgjvA==;tOCWnMsUr6if8XMlMeELwQ=="
+secured: "FL1PHmHFxOAeXuNA8r1JeLAJyvIGG2mdBy+fcCSQc6gdlWGc251Skz3wRjUpvasvXYoR81Jx71YTkr5es/pys2HY66J2kJdLoZ4Z01Xe4tRVH3gDiYlzAkBcZUN1I9u9jvEawrZ8am9VfER5kbRzWgTI6OnbvsNGbiymGR8yuuIfXnHxO7DuRsxo/zr4gUJ8pa5RorbVUmkZtF5JoUo4a1MpeX4o+rGiRNbJs6KExFqc1nWhZwN1Aw7rnK93u0xUc0GzYBALNARjSgaZiMnye+m+RQzGAgbZlfU5UZCZZ5ddweB9dEzD1MaD9V6tkqNcaI+iSspuqmD+UZXP3kPi4iNM9+5j9egsZ658OCU2dgA=;2EhxPD0g6k9/V+NvKzlb+w=="
 ---
 

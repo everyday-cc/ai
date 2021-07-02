@@ -86,6 +86,20 @@ related:
         width: 1920
         height: 1152
         isCached: true
+  - title: "Machine Learning Algorithm Brings Predictive Analytics to Cell Study"
+    excerpt: "Scientists have created a new system that uses machine learning and predictive analytics to determine which transcription factors are active in an individual cell."
+    publishedDateTime: 2021-07-02T13:30:00Z
+    webUrl: "https://healthitanalytics.com/news/machine-learning-algorithm-brings-predictive-analytics-to-cell-study"
+    type: article
+    provider:
+      name: Analytics
+      domain: healthitanalytics.com
+    quality: 39
+    images:
+      - url: "https://healthitanalytics.com/images/site/article_headers/_normal/GettyImages-1164501571.jpg"
+        width: 690
+        height: 400
+        isCached: true
   - title: "Presto the Future of Open Data Analytics, Foundation Says"
     excerpt: "The openness of Presto, its adherence to standard SQL, and the ubiquity and performance of modern cloud storage have combined to put Presto in the"
     publishedDateTime: 2021-06-28T20:36:00Z

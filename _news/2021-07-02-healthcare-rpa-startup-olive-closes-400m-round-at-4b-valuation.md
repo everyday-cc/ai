@@ -39,20 +39,6 @@ related:
         width: 1980
         height: 1320
         isCached: true
-  - title: "AI-powered automatic IT support startup Moveworks raises $200M at $2.1B valuation"
-    excerpt: "Moveworks Inc., a startup using artificial intelligence to help enterprises automate information technology support tasks, is worth $2.1 billion following a new $200 million funding round it announced this morning."
-    publishedDateTime: 2021-06-30T17:06:00Z
-    webUrl: "https://siliconangle.com/2021/06/30/ai-powered-automatic-support-startup-moveworks-raises-200m-2-1b-valuation/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 32
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/06/moveworks.jpg"
-        width: 900
-        height: 506
-        isCached: true
 
 secured: "AXzOM6DfL3DbgFBUS0vmumu4npFUNExUHqL6XzRrdOGnC39EC31S+NQUv13duGDKn8nVW6LMl0dHRvrGF7HL4qsww0lYlFMgbPxq1bS/pVCqOBCUUMFkYeOs4quJ4PBO6ehRHGDNYL+OMHKVIlrHE48qq1D14B9Fv+1bz3RLBPMjyIL3eVW32CGgvXL0J6/uWcSluw3zziANWkMjXluxGBLbUI9xNyepj1yxJhkk7gwp/EoIfo89Qx1bsnkoVgItB6yKRZr49szZI/i8YrJ3xCaVXqsCc6NzhRGGMO8hzKaoya7uacVQ2xWveqipqQNpMfxCI9rrplcOTes0dNLKT4ngW/dsqUzN7AtuCGmDsSPAcUrCk0w9ig2BW7Bxrsrk6tN6vmxyuMzyDczG7EJ6ePFcg7JCJj1Ulf0CvhTngTWKPeIcTh9CkVPOEXC+AnZXmXc6j7LduOxC//bVZNPRw74jtx4mlR/37opEp0YQOxZEi4O1RcFp75Bkx2uGZQLaFSJhaR/yuJ5gHx1U2sEqIw==;GKjKpZroj3B4qRkqS9bX6A=="
 ---
