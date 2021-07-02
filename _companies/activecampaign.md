@@ -12,7 +12,7 @@ crunchbase:
 twitter:
   username: "ActiveCampaign"
   url: "https://twitter.com/ActiveCampaign"
-  followers: 11392
+  followers: 11387
 
 locations:
   - Chicago, IL
@@ -22,7 +22,7 @@ topics:
   - AI in Marketing
 
 images:
-  - url: "https://pbs.twimg.com/profile_images/1400030070090178562/EMkkgtZk_400x400.jpg"
+  - url: "https://pbs.twimg.com/profile_images/1410983900206280705/aM110J6E_400x400.jpg"
     width: 400
     height: 400
     isCached: true
