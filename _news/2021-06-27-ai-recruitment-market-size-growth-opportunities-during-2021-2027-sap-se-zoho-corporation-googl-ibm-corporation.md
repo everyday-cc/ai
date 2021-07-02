@@ -40,17 +40,20 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence in Telecommunication Market Size, Share 2020, Impressive Industry Growth Report 2027"
-    excerpt: "The global Artificial Intelligence by Telecom market size was valued at USD 679 million in 2019 and is projected to grow at a CAGR of 38 from 2021 to 2027 Telecommunications is one of the fastest growing industries using AI"
-    publishedDateTime: 2021-06-28T12:00:00Z
-    webUrl: "https://www.openpr.com/news/2315358/artificial-intelligence-in-telecommunication-market-size"
-    ampWebUrl: "https://www.openpr.com/amp/2315358/artificial-intelligence-in-telecommunication-market-size"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2315358/artificial-intelligence-in-telecommunication-market-size"
+  - title: "Driverless Car Software Market 2021 Is Booming Across the Globe by Share, Size, Growth, Segments and Forecast to 2027"
+    excerpt: "Jun 30, 2021 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry\" “Driverless Car Software Market”"
+    publishedDateTime: 2021-06-30T08:17:00Z
+    webUrl: "https://www.marketwatch.com/press-release/driverless-car-software-market-2021-is-booming-across-the-globe-by-share-size-growth-segments-and-forecast-to-2027-2021-06-30"
     type: article
     provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 18
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 46
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Global Natural Language Processing in BFSI Market Size, Status and Forecast 2021-2027"
     excerpt: "Pages Report] Check for Discount on Global Natural Language Processing in BFSI Market Size, Status and Forecast 2021-2027 report by QYResearch Group. Market Analysis and Insights: Global Natural Language Processing in"
     publishedDateTime: 2021-06-30T07:41:00Z

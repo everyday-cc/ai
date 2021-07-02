@@ -1,27 +1,31 @@
 ---
 category: news
 title: "Techman Robot to Provide Free AI Courses in Southeast Asia"
-excerpt: "To tackle the challenges brought by the COVID 19 pandemic, the manufacturing industry really has to step up and transform by adopting more standardized, automated and intelligent solutions. Artificial intelligence,"
-publishedDateTime: 2021-06-30T03:00:00Z
-originalUrl: "https://www.ryt9.com/en/anpi/250689"
-webUrl: "https://www.ryt9.com/en/anpi/250689"
+excerpt: "Artificial intelligence, AI is undoubtedly the key technology here. That is why the SEA (Southeast Asia) Taiwan AI College is turning the AI manufacturing experiences from leading ICT companies, Techman Robot,"
+publishedDateTime: 2021-06-30T03:11:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/techman-robot-to-provide-free-ai-courses-in-southeast-asia-1030565050"
+webUrl: "https://markets.businessinsider.com/news/stocks/techman-robot-to-provide-free-ai-courses-in-southeast-asia-1030565050"
 type: article
-quality: 54
-heat: -1
-published: false
+quality: 84
+heat: 114
+published: true
 
 provider:
-  name: RYT9
-  domain: ryt9.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Robotics
   - AI
 
 images:
-  - url: "https://www.ryt9.com/img/files/20210630/iqcfa26056eb1f606a0149c06f81655937.jpg"
-    width: 850
-    height: 546
+  - url: "https://mma.prnewswire.com/media/1552574/Techman_Robot_to_provide_free_AI_course_in_Southeast_Asia.jpg"
+    width: 400
+    height: 257
     isCached: true
 
 related:
@@ -39,6 +43,20 @@ related:
         width: 400
         height: 257
         isCached: true
+  - title: "Opportunities for AI in Financial Services in Asia"
+    excerpt: "FinovateAsia 2021 is over. But we’re keeping the doors open and the lights on for a few more days to let those of you who attended our digital fintech conference last month to check out any of the keynote addresses and panel discussions that you might have missed."
+    publishedDateTime: 2021-07-01T16:31:00Z
+    webUrl: "https://finovate.com/opportunities-for-ai-in-financial-services-in-asia/"
+    type: article
+    provider:
+      name: finovate.com
+      domain: finovate.com
+    quality: 39
+    images:
+      - url: "https://finovate-wpengine.netdna-ssl.com/wp-content/uploads/2021/07/pexels-amy-chandra-1020769.jpg"
+        width: 1280
+        height: 766
+        isCached: true
   - title: "SEA Taiwan AI College to Share Iconic Manufacturers’ Upgrade Experiences and Cultivate Southeast Asian AI Talent"
     excerpt: "To tackle the challenges brought by the COVID-19 pandemic, including a shrinking labor force and much greater changes in market demand, the manufacturing industry really has to step up and transform by adopting more standardized,"
     publishedDateTime: 2021-06-29T13:31:00Z
@@ -54,6 +72,6 @@ related:
         height: 546
         isCached: true
 
-secured: "5tC8WCQ3Wy+6K6Ng+qYvMHTRKWV/kfc8w/lSU4eg4+LDxDPKMUXEwcqPcxNEOtakJuLTfJhUYzGMf6x8VttlfBFh8f3jja7qSF/aoQ5J7i1M1f7mXfA/yeGgTWUzaKgbVPiT5FO5CHt5Eoke3h3Ubo2i2kFabTnovMEviKhmXXyQHbvWxc8H73c96HyLXUOuDBCPY0ZewnBFPrw3R5a6NYi16JBAYTJNnBAAAcZgKBdGCdcHxGIL+tTGWo/InnwSj+yVBEPzwXwLI/PR3trPxEaS/buTKCTTutCGrXI33xU+n/mKFTTIoV8UZbKFIY0fpPRZnhLAaqQTMnCP75G4IDVLcsBuTNgkazY+O/CI5q3dWSachEL0NSEY2Amj4zre6Zx3FwKvme7f7dW65XAmZQM7Oo/pnSfb50wuRdeXySnD6IZSE7pY6N3lWjE52EUo25IM17IHszqkYS5DMctAKtm2co5fFg/+SF04gzq4wVT8QZcTP1ViPyXEPUs1Iv+BpEUSnVewhr3VrtJDdwRZ3w==;FqSu6dvLpWPJRM4VvD/0eA=="
+secured: "4ghPNeFSkaRint5MIOypZHyT5S2wywauxkuDex4zyy1IA0DFaROrRBkyS+EhifEFm1XJnIFJ32e2SgU0yek8Mz0+xJrmMZ4bNn5c4eIdiOAAljMmdlZERLKKehg5KE+igxAVKWG4WCVOJtQVvPed2f4FJavzPeNkA+NCdfEVTMnmUchxCcs6j/JNk/JwYxbGmCvQFWizyIBRlE42WOfiM8GZPI4+vPiNIaTKv2Z4Z4fzNgflNZVgUlh/T4UkisOt5g71UxPlKqAUoe/mlUy5z+wj7pBzW5L/DtLgJodp7+UGa/N5u02v6mmljPBbpLjmhmZR6O7K9rQm1/WjzBGFIOYWyTCK5LJbj4AUFBgiRhM=;7NolHW98vtePbXczoK0T6A=="
 ---
 

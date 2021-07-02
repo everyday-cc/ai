@@ -2,6 +2,93 @@
   "page": 50,
   "value": [
     {
+      "path": "_news/2021-05-26-the-oral-extended-release-tablets-market-to-grow-on-a-quintessential-note.md",
+      "title": "The Oral Extended Release Tablets Market To Grow On A Quintessential Note",
+      "excerpt": "The Oral Extended Release Tablets Market report by Persistence Market Research emphasizes on the inflow of artificial intelligence therein and also the medications (pharmaceuticals) to be rendered. Precise diagnostics leads to precise rendition of drugs.",
+      "sourceUrl": null,
+      "webUrl": "https://ksusentinel.com/2021/05/25/the-oral-extended-release-tablets-market-to-grow-on-a-quintessential-note/",
+      "originalUrl": "https://ksusentinel.com/2021/05/25/the-oral-extended-release-tablets-market-to-grow-on-a-quintessential-note/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-25T13:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Sentinel",
+        "domain": "ksusentinel.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-26-microsoft-has-built-an-ai-powered-autocomplete-for-code-using-gpt-3.md",
+      "title": "Microsoft has built an AI-powered autocomplete for code using GPT-3",
+      "excerpt": "And the output of AI language models is often haphazard ... The company has fine-tuned GPT-3 to “translate” into code by training it on examples of Power Fx formula, but the core of the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.theverge.com/2021/5/25/22451144/microsoft-gpt-3-openai-coding-autocomplete-powerapps-power-fx",
+      "originalUrl": "https://www.theverge.com/2021/5/25/22451144/microsoft-gpt-3-openai-coding-autocomplete-powerapps-power-fx",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.vox-cdn.com/thumbor/ne3n4e4xjvi-Ih44nfl3ixNVPbU=/0x0:503x357/1400x933/filters:focal(212x139:292x219):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/69339297/microsoft_gpt3_powerapps_code.0.gif",
+          "width": 503,
+          "height": 357,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.theverge.com/platform/amp/2021/5/25/22451144/microsoft-gpt-3-openai-coding-autocomplete-powerapps-power-fx",
+      "cdnAmpWebUrl": "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2021/5/25/22451144/microsoft-gpt-3-openai-coding-autocomplete-powerapps-power-fx",
+      "publishedDateTime": "2021-05-25T12:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Verge",
+        "domain": "theverge.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theverge.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-25-your-guide-to-the-aws-machine-learning-summit.md",
       "title": "Your Guide to the AWS Machine Learning Summit",
       "excerpt": "We’re about a week away from the AWS Machine Learning Summit and if you haven’t registered yet, you better get on it! On June 2, 2021 (Americas) and June 3, 2021 (Asia-Pacific, Japan, Europe, Middle East, and Africa), don’t miss the opportunity to hear from some of the brightest minds in machine learning",
@@ -1082,101 +1169,6 @@
         "AI Hardware",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-05-25-microsofts-zero-infinity-library-trains-32-trillion-parameter-ai-model.md",
-      "title": "Microsoft's ZeRO-Infinity Library Trains 32 Trillion Parameter AI Model",
-      "excerpt": "Microsoft recently open-sourced ZeRO Infinity, an addition to their open-source DeepSpeed AI training library that optimizes memory use for training very large deep-learning models. Using ZeRO-Infinity,",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoq.com/news/2021/05/microsoft-zero-infinity/",
-      "originalUrl": "https://www.infoq.com/news/2021/05/microsoft-zero-infinity/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://res.infoq.com/news/2021/05/microsoft-zero-infinity/en/headerimage/microsoft-zero-infinity-header-1621783123438.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-25T06:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoQ",
-        "domain": "infoq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-25-how-watson-discovery-helps-contractpodai-provide-legal-excellence.md",
-      "title": "How Watson Discovery helps ContractPodAi provide legal excellence",
-      "excerpt": "IBM Watson Discovery speeds contract renewal time by 50% IBM Watson Assistant helps counsel find specific information among thousands of data points IBM business partner ContractPodAi offers an end-to-end contract management solution designed by lawyers for lawyers. The solution aims to dissolve traditional",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blogs/watson/2021/05/watson-discovery-contractpodai-legal-excellence/",
-      "originalUrl": "https://www.ibm.com/blogs/watson/2021/05/watson-discovery-contractpodai-legal-excellence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ibm.com/blogs/watson/wp-content/uploads/2021/05/ContractPodAI_V2_2000x1006.jpg",
-          "width": 2000,
-          "height": 1007,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-25T06:00:40-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
       ]
     }
   ],

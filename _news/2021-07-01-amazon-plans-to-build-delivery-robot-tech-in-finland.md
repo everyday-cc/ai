@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnbc.com/amp/2021/07/01/amazon-plans-to-build-scout-deli
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/07/01/amazon-plans-to-build-scout-delivery-robot-tech-in-finland.html"
 type: article
 quality: 89
-heat: 89
+heat: 90
 published: true
 
 provider:

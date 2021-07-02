@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/michaelmillenson/2021/06/27/medical-ai-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/michaelmillenson/2021/06/27/medical-ai-confronts-pesky-problem-people/amp/"
 type: article
 quality: 87
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -28,6 +28,22 @@ images:
     width: 1200
     height: 861
     isCached: true
+
+related:
+  - title: "AI Has An Emission Problem: Is It Fixable?"
+    excerpt: "The SECure framework, as Gupta calls it, provides actionable insights to practitioners and consumers of AI systems to trigger behaviour change"
+    publishedDateTime: 2021-07-02T03:30:00Z
+    webUrl: "https://analyticsindiamag.com/ai-emission-problem-solution-fix/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 39
+    images:
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/07/data-center-carbon-footprint.jpeg"
+        width: 2240
+        height: 1260
+        isCached: true
 
 secured: "p4VpaFNgzOnz01ziH7HfvzctTVOcEOhwYOBSM7PnGtUmXXr1J/K4HneSiBR4kKnXg150c89lOwnqcFMrvVcp+Qjy7g14lrkphIrf/2zNVxDNScxk7hHHtoMlNXHSVPPlwHXknJoV9XLT1DL8VHeGbMTJu36PGxwzNdOF+Q+GwvS7WerqXBovm3GvHBEa263VC9xX9M+n08kV4wiVt6lLEvSbQXlLn64NuCt9gEXlseSo9syAAd0s1mLQMi1erHRs8rnSriZG0MPllHOEbKhV3zrEC0LBSej8BlMjPePc5mb2MOgqmE8Q36Bo5sV6+DkvkpLyfDw7eB0K2fWNmUyecJzRm+gJgovI3eG430B+P65heUvRzfzZ84nzLRekDRtVS6u5yHEu7i/5ImYqWZZVYA+ZchEbQwyVrCzpwCoyxf5iy1vjkCjM8OgYKh27xFGEIpg5AVsBnTmfH0Q7jjvoPLSb83ntQblqln+kGA+XtyhfTUMVsN/VQcwfiFrm7UB2MRnUnGyOTxnKGqHHsc6Fgg==;+Qmj3haQHJliyjHr3rwRRA=="
 ---

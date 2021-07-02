@@ -219,7 +219,7 @@
       "originalUrl": "https://www.scmp.com/tech/policy/article/3139319/shenzhen-chinas-silicon-valley-plans-turbocharge-local-ai-development",
       "featuredContent": null,
       "highlight": null,
-      "heat": 91,
+      "heat": 90,
       "tags": null,
       "images": [
         {
@@ -367,15 +367,15 @@
       ]
     },
     {
-      "path": "_news/2021-06-29-who-warns-against-applying-ai-models-using-data-from-rich-counties-to-everyone-else.md",
-      "title": "WHO warns against applying AI models using data from rich counties to everyone else",
+      "path": "_news/2021-06-29-who-warns-against-applying-ai-models-using-data-from-rich-countries-to-everyone-else.md",
+      "title": "WHO warns against applying AI models using data from rich countries to everyone else",
       "excerpt": "The World Health Organization wants to ensure that ethical considerations and human rights are the centre of any AI-based healthcare solutions.",
       "sourceUrl": null,
       "webUrl": "https://www.zdnet.com/article/who-warns-against-applying-ai-models-using-data-from-rich-counties-to-everyone-else/",
       "originalUrl": "https://www.zdnet.com/article/who-warns-against-applying-ai-models-using-data-from-rich-counties-to-everyone-else/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 73,
+      "heat": 82,
       "tags": null,
       "images": null,
       "content": "\r\n",

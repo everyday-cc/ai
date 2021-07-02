@@ -1,27 +1,31 @@
 ---
 category: news
-title: "Latest Study: Voice And Speech Recognition Market: Growth, Revenue, Business Outlook & Forecast 2021-2027 | Download Sample Report"
-excerpt: "Voice And Speech Recognition Industry is going to play an increasingly important role in the coming years, Market Predicts High CAGR between 2020 and 2027. Breaking down the global trend Voice And Speech Recognition Market currently leading in Europe,"
-publishedDateTime: 2021-06-30T12:13:00Z
-originalUrl: "https://ksusentinel.com/2021/06/30/latest-study-voice-and-speech-recognition-market-growth-revenue-business-outlook-forecast-2021-2027-download-sample-report/"
-webUrl: "https://ksusentinel.com/2021/06/30/latest-study-voice-and-speech-recognition-market-growth-revenue-business-outlook-forecast-2021-2027-download-sample-report/"
+title: "Driverless Car Software Market 2021 Is Booming Across the Globe by Share, Size, Growth, Segments and Forecast to 2027"
+excerpt: "Jun 30, 2021 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry\" “Driverless Car Software Market”"
+publishedDateTime: 2021-06-30T08:17:00Z
+originalUrl: "https://www.marketwatch.com/press-release/driverless-car-software-market-2021-is-booming-across-the-globe-by-share-size-growth-segments-and-forecast-to-2027-2021-06-30"
+webUrl: "https://www.marketwatch.com/press-release/driverless-car-software-market-2021-is-booming-across-the-globe-by-share-size-growth-segments-and-forecast-to-2027-2021-06-30"
 type: article
-quality: 9
+quality: 46
 heat: -1
 published: false
 
 provider:
-  name: The Sentinel
-  domain: ksusentinel.com
+  name: MarketWatch
+  domain: marketwatch.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - Natural Language Processing
+  - AI in Autos
   - AI
 
 images:
-  - url: "https://www.newstypical.com/wp-content/uploads/2021/06/Request-Full-text-report-sample-copy.png"
-    width: 772
-    height: 270
+  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+    width: 1200
+    height: 630
     isCached: true
 
 related:
@@ -34,20 +38,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 55
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Driverless Car Software Market 2021 Is Booming Across the Globe by Share, Size, Growth, Segments and Forecast to 2027"
-    excerpt: "Jun 30, 2021 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry\" “Driverless Car Software Market”"
-    publishedDateTime: 2021-06-30T08:17:00Z
-    webUrl: "https://www.marketwatch.com/press-release/driverless-car-software-market-2021-is-booming-across-the-globe-by-share-size-growth-segments-and-forecast-to-2027-2021-06-30"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 46
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -92,6 +82,20 @@ related:
         width: 630
         height: 420
         isCached: true
+  - title: "Latest Study: Voice And Speech Recognition Market: Growth, Revenue, Business Outlook & Forecast 2021-2027 | Download Sample Report"
+    excerpt: "Voice And Speech Recognition Industry is going to play an increasingly important role in the coming years, Market Predicts High CAGR between 2020 and 2027. Breaking down the global trend Voice And Speech Recognition Market currently leading in Europe,"
+    publishedDateTime: 2021-06-30T12:13:00Z
+    webUrl: "https://ksusentinel.com/2021/06/30/latest-study-voice-and-speech-recognition-market-growth-revenue-business-outlook-forecast-2021-2027-download-sample-report/"
+    type: article
+    provider:
+      name: The Sentinel
+      domain: ksusentinel.com
+    quality: 9
+    images:
+      - url: "https://www.newstypical.com/wp-content/uploads/2021/06/Request-Full-text-report-sample-copy.png"
+        width: 772
+        height: 270
+        isCached: true
   - title: "Global Artificial Intelligence For IT Operations Platform Market Size, Status and Forecast 2021-2027"
     excerpt: "Pages Report] Check for Discount on Global Artificial Intelligence For IT Operations Platform Market Size, Status and Forecast 2021-2027 report by QYResearch Group. Market Analysis and Insights: Global Artificial Intelligence For IT"
     publishedDateTime: 2021-06-30T07:49:00Z
@@ -102,6 +106,6 @@ related:
       domain: reportsnreports.com
     quality: 2
 
-secured: "QZs34GyGZaA3ApVPFR4mdltjh7DVv3uZkftq3gufmao6duFSfDjxD6acr9PA5XuWK4o7ZgOxyFURXS5d1WSMgUt9CGjvtBn8R4jwT/JoLXMv5tWLpRf7p8KZFPftc0C51RWAfL99+gY+USC/sn/85/mmjzfQAKeIQCI837th3tUBwLjj+mNBGxkBXbYwYY3s1H77evQQKZxXz10/gb7KlIcxabJnu8ETjgLDQnGjnjp5fgcQBUJsFjCe0LUbqWsHbapPedQUTwAUERXgSNjaiIXijrSUt/Ga2lqotoPQQ/YmnYadhVulsC8TG46IOCnZ3BcrBC3qNLYBgK/umW8MZczMjXBoejjJC7ggkHR48rI=;srVyeoDiWYh/y9rh6yWHQQ=="
+secured: "F5nLr2SyV+Xfrjcd2IALwciNfPysPT8uypKJLWHxW5GLrtkBmclqYxF6q3Vyrnr6WYD3cIvV7HaEXpBm0sXawECpinEYmKQ812Oc9a++XxlJnOIR4pFYGwdrHyWjB8LYioVkvZwUBKFLfE7s416rYamdjze9ZTPIy18BoNcwVkFlJdjGqt6+S/xa2JpTZ/3xSM3bVSRA1byw1bdFHe9gucCeEiLjFMbPeqtJFZ4VKH3eUpqP4xtLJaZ46nP+wWRcmDjlo2oWFKTEKf8N4V+9cf1W1u96g4ih8ChSrBEVZaB2SMR0qS6v8zCbOKuwUGJ7RZm9EFs3SBPD3BH+r9gYscV4Q1M48Z7+R2Q3A/zBxcc=;IK/Fj6fse8MUhq15CTy+MA=="
 ---
 
