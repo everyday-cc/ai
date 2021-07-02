@@ -38,7 +38,7 @@ related:
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 75
+    quality: 79
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -71,20 +71,6 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Artificial Intelligence (AI) Chips Market in Communications Equipment Industry | Technavio"
-    excerpt: "The artificial intelligence (AI) chips market is expected to grow by USD 73.49 billion at over 51% CAGR during 2021-2025, according to"
-    publishedDateTime: 2021-06-29T01:45:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/artificial-intelligence-ai-chips-market-in-communications-equipment-industry--technavio-301321404.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 59
-    images:
-      - url: "https://mma.prnewswire.com/media/1551721/Artificial_Intelligence_Chips.jpg?p=facebook"
-        width: 1280
-        height: 670
         isCached: true
   - title: "Artificial Intelligence Market 2021 Top Manufacturers, COVID-19 Impact, Global Demand and Future Scope"
     excerpt: "The global “Artificial Intelligence Market” is expected to rise with an impressive CAGR and generate the highest revenue"

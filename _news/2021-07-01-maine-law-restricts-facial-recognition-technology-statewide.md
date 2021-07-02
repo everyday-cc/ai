@@ -105,6 +105,22 @@ related:
         width: 880
         height: 542
         isCached: true
+  - title: "Maine Now Has the Toughest Facial Recognition Restrictions in the U.S."
+    excerpt: "The new law prohibits use of the technology across all levels of state, county, and municipal government, with limited exceptions for law enforcement."
+    publishedDateTime: 2021-07-02T09:50:00Z
+    webUrl: "https://slate.com/technology/2021/07/maine-facial-recognition-government-use-law.html"
+    ampWebUrl: "https://slate.com/technology/2021/07/maine-facial-recognition-government-use-law.amp"
+    cdnAmpWebUrl: "https://slate-com.cdn.ampproject.org/c/s/slate.com/technology/2021/07/maine-facial-recognition-government-use-law.amp"
+    type: article
+    provider:
+      name: Slate
+      domain: slate.com
+    quality: 74
+    images:
+      - url: "https://compote.slate.com/images/cfdef433-ca60-4077-8748-01acfcc00e80.jpeg?width=780&height=520&rect=3500x2333&offset=0x0"
+        width: 780
+        height: 520
+        isCached: true
   - title: "Maine Sets Example With 'Country's Strongest' Facial Recognition Ban"
     excerpt: "Civil liberties advocates on Wednesday cheered as Maine enacted what that state's ACLU chapter called \"the country's strongest statewide facial recognition law.\" \"I hope that Maine can provide an example to other states that want to rein in the government's ability to use facial recognition and other invasive biometric technologies."
     publishedDateTime: 2021-06-30T22:06:00Z

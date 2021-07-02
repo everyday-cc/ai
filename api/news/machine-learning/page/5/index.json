@@ -2,6 +2,128 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-05-27-deeplite-announces-community-version-of-neutrino-for-optimizing-deep-learning-applications-at-the-network-edge.md",
+      "title": "Deeplite Announces Community Version of Neutrino for Optimizing Deep Learning Applications at the Network Edge",
+      "excerpt": "Free Version of Leading AI Optimization Engine Helps Accelerate Deployment of AI Models and Neural Networks by Engineers, Researchers and Academics MONTREAL, May 27, 2021 /CNW/ -- Deeplite, a provider of AI software designed to make other AI models faster ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/-deeplite-announces-community-version-neutrino-optimizing-deep-learning-/2021/05/27/9379233.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-deeplite-announces-community-version-neutrino-optimizing-deep-learning-/2021/05/27/9379233.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-27T05:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-27-udacity-aws-to-offer-free-courses-in-machine-learning.md",
+      "title": "Udacity, AWS to Offer Free Courses in Machine Learning",
+      "excerpt": "Launched two years ago, the course has been updated with several new modules including an introduction to Reinforcement Learning (RL) with AWS DeepRacer, generative AI with AWS DeepComposer, and computer vision with AWS DeepLens. In addition, the course ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.news18.com/news/education-career/udacity-aws-to-offer-free-courses-in-machine-learning-3782669.html",
+      "originalUrl": "https://www.news18.com/news/education-career/udacity-aws-to-offer-free-courses-in-machine-learning-3782669.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.news18.com/ibnlive/uploads/2021/05/1622109948_scholarships-online-free-courses.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.news18.com/amp/news/education-career/udacity-aws-to-offer-free-courses-in-machine-learning-3782669.html",
+      "cdnAmpWebUrl": "https://www-news18-com.cdn.ampproject.org/c/s/www.news18.com/amp/news/education-career/udacity-aws-to-offer-free-courses-in-machine-learning-3782669.html",
+      "publishedDateTime": "2021-05-27T04:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN-News18",
+        "domain": "news18.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-05-27-lattice-looks-to-simplify-deployment-of-aiml-models-on-edge-devices.md",
+      "title": "Lattice looks to simplify deployment of AI/ML models on Edge devices",
+      "excerpt": "Enhancements include support for the Lattice Propel design environment for embedded processor-based development and the TensorFlow Lite deep-learning framework for on-device inferencing. The new version includes the Lattice sensAI Studio design environment ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.newelectronics.co.uk/electronics-news/lattice-looks-to-simplify-deployment-of-ai-ml-models-on-edge-devices/237549/",
+      "originalUrl": "https://www.newelectronics.co.uk/electronics-news/lattice-looks-to-simplify-deployment-of-ai-ml-models-on-edge-devices/237549/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.newelectronics.co.uk/article-images/237549/lattice.jpg?width=375&height=250&scale=canvas",
+          "width": 375,
+          "height": 250,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-26T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New Electronics",
+        "domain": "newelectronics.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-05-26-gain-valuable-ml-skills-with-the-aws-machine-learning-engineer-nanodegree-scholarship-from-udacity.md",
       "title": "Gain valuable ML skills with the AWS Machine Learning Engineer Nanodegree Scholarship from Udacity",
       "excerpt": "Amazon Web Services is partnering with Udacity to help educate developers of all skill levels on machine learning (ML) concepts with the AWS Machine Learning Scholarship Program by Udacity by offering 425 scholarships, with a focus on women and underrepresented groups. Machine learning is an exciting",
@@ -1201,145 +1323,6 @@
         "name": "Europe PMC",
         "domain": "europepmc.org",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-20-prosthesis-powered-by-googles-machine-learning-lets-amputee-drummer-play-naturally-again.md",
-      "title": "Prosthesis powered by Google’s machine learning lets amputee drummer play naturally again",
-      "excerpt": "Google’s machine learning technology has given an amputee drummer the ability to play again, highlighting developments in robotic prostheses.",
-      "sourceUrl": null,
-      "webUrl": "https://www.musictech.net/news/music/prosthetic-powered-google-machine-learning-amputee-drummer-play-naturally/",
-      "originalUrl": "https://www.musictech.net/news/music/prosthetic-powered-google-machine-learning-amputee-drummer-play-naturally/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.musictech.net/wp-content/uploads/2021/05/Jason-Barnes-Google@1400x1050.jpg",
-          "width": 1400,
-          "height": 1050,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.musictech.net/news/music/prosthetic-powered-google-machine-learning-amputee-drummer-play-naturally/?amp=1",
-      "cdnAmpWebUrl": "https://www-musictech-net.cdn.ampproject.org/c/s/www.musictech.net/news/music/prosthetic-powered-google-machine-learning-amputee-drummer-play-naturally/?amp=1",
-      "publishedDateTime": "2021-05-19T17:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MusicTech",
-        "domain": "musictech.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-05-20-deep-learning-algorithm-estimates-cancer-risk-of-pulmonary-nodules.md",
-      "title": "Deep-learning algorithm estimates cancer risk of pulmonary nodules",
-      "excerpt": "A deep-learning algorithm can yield comparable performance to experienced thoracic radiologists in estimating the malignancy risk of pulmonary nodules on chest CT exams, according to research published online May 18 in Radiology.",
-      "sourceUrl": null,
-      "webUrl": "https://www.auntminnie.com/index.aspx?sec=log&itemid=132441",
-      "originalUrl": "https://www.auntminnie.com/index.aspx?sec=log&itemid=132441",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.auntminnie.com/user/images/content_images/pho_redir/2021_05_19_18_58_7336_2021_05_18_AI_CT_social.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-19T12:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AuntMinnie",
-        "domain": "auntminnie.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-19-cinematic-moments-uses-machine-learning-to-animate-images-in-google-photos.md",
-      "title": "'Cinematic Moments' uses machine learning to animate images in Google Photos",
-      "excerpt": "During Google's I/O event Tuesday, Vice President of Google Photos Shimrit Ben-Yair showed how the company is using machine learning to make Google Photos better. One",
-      "sourceUrl": null,
-      "webUrl": "https://www.techspot.com/news/89743-cinematic-moments-uses-machine-learning-animate-google-photos.html",
-      "originalUrl": "https://www.techspot.com/news/89743-cinematic-moments-uses-machine-learning-animate-google-photos.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.techspot.com/images2/news/bigimage/2021/05/2021-05-19-image-20.jpg",
-          "width": 2560,
-          "height": 1707,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techspot.com/amp/news/89743-cinematic-moments-uses-machine-learning-animate-google-photos.html",
-      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/89743-cinematic-moments-uses-machine-learning-animate-google-photos.html",
-      "publishedDateTime": "2021-05-19T09:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechSpot",
-        "domain": "techspot.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

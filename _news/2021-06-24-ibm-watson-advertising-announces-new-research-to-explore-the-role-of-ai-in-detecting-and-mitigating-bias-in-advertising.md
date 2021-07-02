@@ -2,19 +2,25 @@
 category: news
 title: "IBM Watson Advertising Announces New Research to Explore the Role of AI in Detecting and Mitigating Bias in Advertising"
 excerpt: "2021 /PRNewswire/ -- IBM Watson Advertising (NYSE: IBM) today announced a research initiative that will apply open-source AI technology, developed by IBM, to better understand how prevalent ..."
-publishedDateTime: 2021-06-24T06:59:00Z
-originalUrl: "https://www.nasdaq.com/press-release/ibm-watson-advertising-announces-new-research-to-explore-the-role-of-ai-in-detecting"
-webUrl: "https://www.nasdaq.com/press-release/ibm-watson-advertising-announces-new-research-to-explore-the-role-of-ai-in-detecting"
+publishedDateTime: 2021-06-24T12:20:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/ibm-watson-advertising-announces-new-research-to-explore-the-role-of-ai-in-detecting-and-mitigating-bias-in-advertising-301319170.html"
+webUrl: "https://www.prnewswire.com/news-releases/ibm-watson-advertising-announces-new-research-to-explore-the-role-of-ai-in-detecting-and-mitigating-bias-in-advertising-301319170.html"
 type: article
 
 provider:
-  name: Nasdaq
-  domain: nasdaq.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - IBM AI
   - AI
 
-secured: "SiP9jvYxXcBe8BCz4dzrl7klsmn1qI7kXHCz4fHcL+gRF/CIGmpGEt3nmgzPt3cGk6nfo4kPEu19GZfjGgo9dL9qIJGpqvicxTZTR0kLwr2GZ2LRyUx3ZckT3q0HciuZjaD+I0R5yi5uG1z0RKIWK9p+kvQ5qRrblXQFFlOKcBfy6bdN2hfoIvpTvnnqUYyQYNPVKCq7nbHvZzE82+mvFtmPpXV8PhheTABmf/x/bb2k6tBJpYfMTsL94G1PClL/l9j3ZSIqZM0Ig0VVGCSsNkx7+6vfI4Yw0LUcc+ofaIoESz5uAyZ9LUhgmCJDh36v3n1IU24sJAlrlaZSjnH33p+F7hwCVlOlZ92VesouEEA=;6WQA1KY8U/3ljmIpHwf+Ww=="
+images:
+  - url: "https://mma.prnewswire.com/media/95470/ibm_logo.jpg?p=facebook"
+    width: 2698
+    height: 1414
+    isCached: true
+
+secured: "1epu/U1QpYtbozbfRTeLqJPIYA/Ho0isonbxgixIWKZ3Tm2g5W/AfWFCxMmn+C8BTpn6T5FIBmUljjL8UihSezx2bN/YK1x/3IPfm3V1N6VEUxYJ6o1Sf7DaI2UVgW6sbP82uz4Z5YmvWCTnNojeP3GeazygG1VKn0mKJbG+p7LVzUbhLpDXT9oL232gG4SMykU598a6c5GrV5TRaVPCg74h8iQggwhGd1XYaEBOACRRRuhYwsj8Ag+4/YIh8boI4E7Dx86dBoZcvjVeYZyhEV+oEM8399wlv+7Fl33B5zg+KmCoCDLQhfADu0ekbRakHu7v6nY63gz++8Tkk8xnuZVK6hEZqGmtS03n7F/bj1g=;d1l95TZ/kXcvN3+cBWo7Aw=="
 ---
 

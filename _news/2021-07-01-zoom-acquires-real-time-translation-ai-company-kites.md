@@ -73,6 +73,22 @@ related:
         width: 1400
         height: 933
         isCached: true
+  - title: "Zoom acquires AI translation startup Kites"
+    excerpt: "The technology will be used to improve the video conferencing experience by providing real-time, multi-language translation capabilities for Zoom users, enabling the company to increase the ..."
+    publishedDateTime: 2021-06-30T09:35:00Z
+    webUrl: "https://www.itpro.co.uk/business-strategy/acquisition/360046/zoom-acquires-german-ai-startup-kites"
+    ampWebUrl: "https://www.itpro.co.uk/business-strategy/acquisition/360046/zoom-acquires-german-ai-startup-kites?amp"
+    cdnAmpWebUrl: "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/business-strategy/acquisition/360046/zoom-acquires-german-ai-startup-kites?amp"
+    type: article
+    provider:
+      name: IT Pro
+      domain: itpro.co.uk
+    quality: 89
+    images:
+      - url: "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1610533973/itpro/ZoomLogo_shutterstock.jpg"
+        width: 1260
+        height: 710
+        isCached: true
   - title: "Zoom to acquire real-time translation startup Kites"
     excerpt: "Zoom on Tuesday said it has signed a deal to acquire Kites, and AI startup focused on developing real-time translation tools. \"We are continuously looking for new ways to deliver happiness to our users and improve meeting productivity,"
     publishedDateTime: 2021-06-30T15:31:00Z
@@ -223,6 +239,20 @@ related:
       - url: "https://www.siliconrepublic.com/wp-content/uploads/2020/11/AdobeStock_335035584_Editorial_Use_Only.jpeg"
         width: 800
         height: 600
+        isCached: true
+  - title: "Zoom – Zoom buys German AI translation company"
+    excerpt: "Latest financial technology news, fintech news, fin tech news, open banking news​, banking news, blogs opinion, analysis on Fintech Zoom."
+    publishedDateTime: 2021-07-02T07:25:00Z
+    webUrl: "https://fintechzoom.com/fintech_news_zoom/zoom-zoom-buys-german-ai-translation-company/"
+    type: article
+    provider:
+      name: fintechzoom
+      domain: fintechzoom.com
+    quality: 39
+    images:
+      - url: "https://fintechzoom.com/wp-content/uploads/2021/07/Zoom-spl-arrangementjpg.jpeg"
+        width: 615
+        height: 384
         isCached: true
   - title: "Zoom acquires Kites for real-time language translation capabilities"
     excerpt: "Zoom has acquired German start-up Karlsruhe Information Technology Solutions – known as Kites – in a bid to imbue its offering with real-time language translation capabilities."

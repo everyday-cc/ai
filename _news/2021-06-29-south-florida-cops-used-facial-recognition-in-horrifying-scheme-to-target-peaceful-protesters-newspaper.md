@@ -41,6 +41,20 @@ related:
         width: 980
         height: 680
         isCached: true
+  - title: "GAO: Some Federal Agencies’ Use of Facial Recognition Technology Opens Door for Potential Risks"
+    excerpt: "Fourteen federal agencies reported using facial recognition technology systems owned by non-federal entities to support criminal investigations, and 13 out of the 14 agencies did not have an up-to-date information on what non-federal systems were being used by employees,"
+    publishedDateTime: 2021-07-02T09:20:00Z
+    webUrl: "https://www.hstoday.us/subject-matter-areas/biometrics-id-management/gao-some-federal-agencies-use-of-facial-recognition-technology-opens-door-for-potential-risks/"
+    type: article
+    provider:
+      name: Homeland Security Today
+      domain: hstoday.us
+    quality: 27
+    images:
+      - url: "https://www.hstoday.us/wp-content/uploads/2021/06/eye-5814965_1920.jpg"
+        width: 1920
+        height: 1280
+        isCached: true
 
 secured: "PabTnVakivFgchxkfTT6tXzt7tA+XUy9wlwS+IXP4vWMHEEOF3yoGgFkq6iQ6lF759DWq221sDS9QZyzf5a4XUQqvX5BGaxZo7B+SlvAmE6gFfFXDfE09ICzOEl2XKcRXGQG3z2m3rCjCbrdiMkiBz/WmCRvFOAoYQ4nbOOfQWEtVJro7NFJ9o+U6BhrwCQzNq+zVCPKHLSVtpNV43yfAZEYCi4uDn+V6q9z5lto1CHqO9Dnim0tSJ2XiHVaNK2H7022JU4258dhEw32+/Yufkb83KtctaYS5eQn+TGZhaIvyLHTeemBmrA8lrBpyJuZ7sBPSUDP8CjUqrbH/tJTDL6pIG9WcRdTYEoogLR2lJ4=;U9eJoCFjkiyih7mrovV7RA=="
 ---

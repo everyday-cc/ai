@@ -111,6 +111,20 @@ related:
         width: 2048
         height: 1136
         isCached: true
+  - title: "Advantage Club forays in Fintech Services"
+    excerpt: "Advantage Club one of the leading Employee Engagement platforms in South East Asia has made its foray into financial services with the launch of an early sala"
+    publishedDateTime: 2021-07-02T09:57:00Z
+    webUrl: "https://www.bignewsnetwork.com/news/270136897/advantage-club-forays-in-fintech-services"
+    type: article
+    provider:
+      name: Big News Network.com
+      domain: bignewsnetwork.com
+    quality: 24
+    images:
+      - url: "https://cdn.bignewsnetwork.com/ani1625219010.jpg"
+        width: 630
+        height: 420
+        isCached: true
   - title: "Inclusive Fintech 50 launches 2021 competition to recognize early-stage fintechs driving innovation in an era of uncertainty"
     excerpt: "An independent panel of leading fintech experts will select 50 innovative inclusive fintech startups helping communities rebuild from the pandemicWASHINGTON--(BUSINESS WIRE)--#InclusiveFintech50--The Center for Financial Inclusion (CFI) has launched the third year of Inclusive Fintech 50 (IF50),"
     publishedDateTime: 2021-06-28T13:00:00Z

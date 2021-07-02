@@ -1,20 +1,20 @@
 ---
 category: news
 title: "Grand Prize Winner Announced in $5M IBM Watson AI XPRIZE Competition"
-excerpt: "XPRIZE, the world’s leader in designing and operating incentive competitions to solve humanity’s grand challenges, and IBM Watson, IBM’s AI technology"
-publishedDateTime: 2021-06-23T21:30:00Z
-originalUrl: "https://www.businesswire.com/news/home/20210623005848/en/Grand-Prize-Winner-Announced-in-5M-IBM-Watson-AI-XPRIZE-Competition"
-webUrl: "https://www.businesswire.com/news/home/20210623005848/en/Grand-Prize-Winner-Announced-in-5M-IBM-Watson-AI-XPRIZE-Competition"
+excerpt: "and IBM Watson, IBM’s AI technology for business, today announced the Grand Prize Winner in the $5M IBM Watson AI XPRIZE Challenge. First launched in 2016, the five-year global competition ..."
+publishedDateTime: 2021-06-24T14:40:00Z
+originalUrl: "https://www.businesswireindia.com/grand-prize-winner-announced-in-usd5m-ibm-watson-ai-xprize-competition-73669.html"
+webUrl: "https://www.businesswireindia.com/grand-prize-winner-announced-in-usd5m-ibm-watson-ai-xprize-competition-73669.html"
 type: article
 
 provider:
   name: Business Wire
-  domain: businesswire.com
+  domain: businesswireindia.com
 
 topics:
   - IBM AI
   - AI
 
-secured: "TFMz8d/1+4G4gk2FOJZ/COa/3J3+VNgI8Yt0GpNqpi1mhSPulCpj0CJYOnLrpj8ZvbyIVxsy5zYGjBDrElGr8TogX+nEnLdbWz6nVs4iMNuIyUKYs7aM9odX5Cxl2ycScI/KFGO2qrL+Ns3OKx9x3xOIdnTZMz1hBB01nPdKvCeLwRyzizu88O8FGgUh4wi8n3W97XIgbjSuvqa1b2QuEFm3+DuBTp4QCMG3t1U5a8XJoQlE0lxVUrjXuMo42/UXDisnKmq0EVsNekvGy/lUzWqG67JwyQHqboRg8acYpVKYxW8F2vS3Ucjr8tgyEevp25Cnqejw1Spf3YYQzSi0cwMSzmCuBNYbRoe33M21G8s=;H+0SLncb+Rg1P+xk6P4/DQ=="
+secured: "KTjO2uZeRnRxD7UylOgpEG0sFU96oFDFu4qzPCw52B55V3gqcuF3idWk7MCE0t6ixOp+ASYmTdRmakAowpPevGC+UQfHnX5+fBTryVAtH6R63Q66AKSD2Ca5McYU7R255F+0pfY9OSxk9wm9EMkDNUeHExtZavVsaFPs71/G6M3A4acIpHn6SA4vRTASlvfUZy+JGM6raKFyelpOlnumxsnj5iqDtVCMnJbmXj7nbC7PiI3KFzzGOh9/+1eQUXsUjXKEz0wQmOrCFweYOoHG3fFrNiKDIm4HOsg48yD3/i2p3baehNtXar3QNe3zYlldjHZIs2Gu9bdFDlYY5fRbdudkQVJ2pG+KJhSj54qucFc=;9ygTvuevG/dcCfYUPqrf+g=="
 ---
 

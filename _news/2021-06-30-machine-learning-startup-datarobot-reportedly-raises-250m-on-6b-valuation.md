@@ -7,8 +7,8 @@ originalUrl: "https://siliconangle.com/2021/06/29/machine-learning-startup-datar
 webUrl: "https://siliconangle.com/2021/06/29/machine-learning-startup-datarobot-reportedly-raises-250m-6b-valuation/"
 type: article
 quality: 69
-heat: -1
-published: false
+heat: 89
+published: true
 
 provider:
   name: SiliconANGLE
@@ -26,21 +26,33 @@ images:
     isCached: true
 
 related:
-  - title: "UK surgical robotics start-up CMR raises $600m at $3bn valuation"
-    excerpt: "UK robotics start-up CMR Surgical has raised $600m in what it says was a record private financing round for a medical technology company, pushing its total funds raised above $1bn and giving it a $3bn valuation."
-    publishedDateTime: 2021-06-27T16:09:00Z
-    webUrl: "https://www.ft.com/content/6a73e55b-5e5a-4017-b797-469aa4f8dde5"
-    ampWebUrl: "https://amp.ft.com/content/6a73e55b-5e5a-4017-b797-469aa4f8dde5"
-    cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/6a73e55b-5e5a-4017-b797-469aa4f8dde5"
+  - title: "Healthcare RPA startup Olive closes $400M round at $4B valuation"
+    excerpt: "Startup Olive AI Inc. has secured $400 million in funding at a $4 billion valuation to broaden the adoption of its robotic process automation platform, which helps healthcare providers automate repetitive manual tasks to free up resources for other activities."
+    publishedDateTime: 2021-07-01T19:11:00Z
+    webUrl: "https://siliconangle.com/2021/07/01/healthcare-rpa-startup-olive-closes-400m-round-4b-valuation/"
     type: article
     provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 89
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 39
     images:
-      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F2e047ce0-6272-480b-a275-e2a14c514e09.jpg?source=google-amp&fit=scale-down&width=500"
-        width: 500
-        height: 281
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/07/olive.png"
+        width: 800
+        height: 450
+        isCached: true
+  - title: "AI-powered automatic IT support startup Moveworks raises $200M at $2.1B valuation"
+    excerpt: "Moveworks Inc., a startup using artificial intelligence to help enterprises automate information technology support tasks, is worth $2.1 billion following a new $200 million funding round it announced this morning."
+    publishedDateTime: 2021-06-30T17:06:00Z
+    webUrl: "https://siliconangle.com/2021/06/30/ai-powered-automatic-support-startup-moveworks-raises-200m-2-1b-valuation/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 32
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/06/moveworks.jpg"
+        width: 900
+        height: 506
         isCached: true
 
 secured: "KUBKHcE5bttCKLJFpEFLKkLK2OPW0F3pchPgTxJlKdSByO7k+I2vXAb4jDXueSd246FHzULAc0uE/PFtEvujuE/RSNwyzYbN/eMJYJieg7P6+SrK9PM4cvqwtr5IZGcAgTVBfLDaKpMuF9d39hJqlF6ydYUIm72Ly8N7fsN2xgurd7lemBQizNCtL4sW/UkEOw0L96x9XzsqLEEHRbJfICqX8UHdLorE7C+gqmxiHhTc+FSZqBH5g2GIpq6SAMIRfrFOeUW3lUMs4ttB5YL4H9OppgAvDrT+6ErxC5ObrL5MlGt7NR1tNKOcUPHPzVnoQfILdcJ4uyBffqCysncPxWSFfU2E1GO5j+LY1dOCVZ3QvTFpdhFnfGmHcsHIAFONQpdMFvp5UQ2NGqYv8ljVP8qjelmOChopAA0QxGhfhwhueQuMUJH01NVTmrmYLRPKiURwGxBKmQ81zGUnxmNd3Z9iGqNjK3wDMsLU6Nt1vLvdIq1egJTYcwrwwO3xyzkAFM5ih1nU/rHuR8OHriEJ5g==;CyzOtO3rauEk1XXiyp+yoA=="

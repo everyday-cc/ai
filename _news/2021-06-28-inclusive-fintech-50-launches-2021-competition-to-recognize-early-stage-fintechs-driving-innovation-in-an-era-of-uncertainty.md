@@ -125,6 +125,20 @@ related:
         width: 690
         height: 240
         isCached: true
+  - title: "Advantage Club forays in Fintech Services"
+    excerpt: "Advantage Club one of the leading Employee Engagement platforms in South East Asia has made its foray into financial services with the launch of an early sala"
+    publishedDateTime: 2021-07-02T09:57:00Z
+    webUrl: "https://www.bignewsnetwork.com/news/270136897/advantage-club-forays-in-fintech-services"
+    type: article
+    provider:
+      name: Big News Network.com
+      domain: bignewsnetwork.com
+    quality: 24
+    images:
+      - url: "https://cdn.bignewsnetwork.com/ani1625219010.jpg"
+        width: 630
+        height: 420
+        isCached: true
 
 secured: "EN/du4Meih0Ah6MWJGnF87qublqho1tkB1qc49ZHupZim+95uz/HwrvFsY5QX9FqTLfa9qIHnQENM1PsWNqIGx2AQ0ucilUYiRXbIzv77CVxmXaKxoRfw7w8vWDRAEOsfkcb1AIk8vX4BdHAXZZI0YdrQl5bMTPTk6CCd12ivjy0FGbMHoGyRQxn1rcgb6c3UhaP2TacnsmvLplykzaODOP5eY8N9FBdV3PeQnXwYuEWmJ48R58Sje6lgM1CXHZRrXTOnRQl/N+I7SJOqAlCugzP/Aw+BEflBNH44tLt4quSQ26F6TguPEeTWHm0piHsI3YGgAw/aDdveoUimeA/ZuFQUbBC+cofQaJLjBt8ZOA=;e08m/r4RFKySFCCM1Yn95g=="
 ---

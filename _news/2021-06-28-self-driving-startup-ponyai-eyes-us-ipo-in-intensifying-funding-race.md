@@ -191,6 +191,22 @@ related:
         width: 1000
         height: 668
         isCached: true
+  - title: "Why aren’t we all riding in self-driving cars by now?"
+    excerpt: "Some analysts predicted there would be ten million self-driving cars on the road by 2020, while others suggested we would all become permanent back-seat drivers. Addison Lee claimed it would get self- driving taxis into London by 2021 but it hasn’t happened – travelling from point A to point B still requires someone at the wheel."
+    publishedDateTime: 2021-07-02T09:46:00Z
+    webUrl: "https://metro.co.uk/2021/07/02/why-arent-we-all-riding-in-self-driving-cars-by-now-14858078/"
+    ampWebUrl: "https://metro.co.uk/2021/07/02/why-arent-we-all-riding-in-self-driving-cars-by-now-14858078/amp/"
+    cdnAmpWebUrl: "https://metro-co-uk.cdn.ampproject.org/c/s/metro.co.uk/2021/07/02/why-arent-we-all-riding-in-self-driving-cars-by-now-14858078/amp/"
+    type: article
+    provider:
+      name: Metro
+      domain: metro.co.uk
+    quality: 44
+    images:
+      - url: "https://metro.co.uk/wp-content/uploads/2021/07/SEI_85220509.jpg?quality=90&strip=all&zoom=1&resize=600%2C400"
+        width: 600
+        height: 400
+        isCached: true
   - title: "How Artificial Intelligence is Driving Business Development"
     excerpt: "Artificial intelligence (AI) is a broad phrase that spans many different fields of research. Natural language processing and machine learning are two examples. With the growth of data in recent years,"
     publishedDateTime: 2021-06-30T15:24:00Z

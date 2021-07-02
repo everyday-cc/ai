@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/06/28/dell-releases-open-source-suite-o
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/28/dell-releases-open-source-suite-omnia-to-manage-ai-analytics-workloads/amp/"
 type: article
 quality: 87
-heat: 157
+heat: 167
 published: true
 
 provider:
@@ -132,6 +132,15 @@ related:
         width: 640
         height: 480
         isCached: true
+  - title: "Global Predictive Analytics And Machine Learning Market Size, Status and Forecast 2021-2027"
+    excerpt: "Pages Report] Check for Discount on Global Predictive Analytics And Machine Learning Market Size, Status and Forecast 2021-2027 report by QYResearch Group. Market Analysis and Insights: Global Predictive Analytics And Machine"
+    publishedDateTime: 2021-07-02T08:04:00Z
+    webUrl: "https://www.reportsnreports.com/reports/4631246-global-predictive-analytics-and-machine-learning-market-size-status-and-forecast-2021-2027.html"
+    type: article
+    provider:
+      name: ReportsnReports
+      domain: reportsnreports.com
+    quality: 9
 
 secured: "vbheP83Tz73uxfJW+DCrajsYL2mmUEBGoDuJ2q46VSgQjktdtmKJ3a4lUzFIoflg1lwMI1UvGfVSnoABJKhYBajk6HAOQ/hPRgY4opKZcTbGQS9aCrL5ez2vvWqPW3U57gcd4S2CQaypoWJ8N2TzsjuHrAY7tcmTJzZiEarWh5OCkRggI6L1awM4cQ7FJYiDtsKphEbDLSwuSSirtodSJ0crF8QOrpzm++Od4cbFVeVyRLqH8VgzpC2tu9R/hxrsJ7pq2CeKdurnPLXS2h/5eb9XgIV1+nU3wwu+A268x/+f4hv85e0/XUTTPDG2zaVCCLwCUy+Xf5BxlJRM6z6InUC1RHvcpXiG7oJCD0mw/skoRdQPSEVb/M3138XyeLLNsAjg44dNGgnvSc9VjLh9W5AQbXDf/OZS9MMau2qQMIR8HcUesJRbukX6xwGIBZ8Y2IEmrpYUuLtdR8EYXRgZ3exmbUPc46t88FHLUCC0rHBIYxA3MWSTaX+7cj56cuGuCGICWEN49Ipt1xmN2Vv0Qw==;T326WSo9jx5ipjRAznKSoA=="
 ---

@@ -2,6 +2,49 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-05-28-retailers-ariat-decathlon-latest-to-adopt-exotec-robotics.md",
+      "title": "Retailers Ariat, Decathlon latest to adopt Exotec robotics",
+      "excerpt": "Warehouse robotics firm Exotec announced footwear retailer Ariat and the world’s largest sporting goods retailer Decathlon will deploy its Skypod warehouse robotics system.",
+      "sourceUrl": null,
+      "webUrl": "https://www.freightwaves.com/news/retailers-ariat-decathlon-latest-to-adopt-exotec-robotics",
+      "originalUrl": "https://www.freightwaves.com/news/retailers-ariat-decathlon-latest-to-adopt-exotec-robotics",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s29755.pcdn.co/wp-content/uploads/2021/05/Exotec_1.jpg",
+          "width": 2080,
+          "height": 1170,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.freightwaves.com/news/retailers-ariat-decathlon-latest-to-adopt-exotec-robotics/amp",
+      "cdnAmpWebUrl": "https://www-freightwaves-com.cdn.ampproject.org/c/s/www.freightwaves.com/news/retailers-ariat-decathlon-latest-to-adopt-exotec-robotics/amp",
+      "publishedDateTime": "2021-05-28T08:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "freightwaves.com",
+        "domain": "freightwaves.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-28-robots-drones-and-ai-the-new-technology-making-waves-in-wash.md",
       "title": "Robots, drones, and AI: The new technology making waves in WASH",
       "excerpt": "From sanitizing open-air markets to identifying leaky pipes, robots and AI are increasingly found in the WASH space. Devex looks at the potential positives and pitfalls of engaging a \"robo-WASH\" workforce.",
@@ -1325,50 +1368,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-21-getting-started-with-geometric-algebra-for-robotics-computer-vision-and-more.md",
-      "title": "Getting Started With Geometric Algebra For Robotics, Computer Vision And More",
-      "excerpt": "[Hugo Hadfield] wrote to let us know about an intriguing series of talks that took place in February of this year at GAME2020, on the many applications of geometric algebra. The video playlist of ...",
-      "sourceUrl": null,
-      "webUrl": "https://hackaday.com/2020/10/06/getting-started-with-geometric-algebra-for-robotics-computer-vision-and-more/",
-      "originalUrl": "https://hackaday.com/2020/10/06/getting-started-with-geometric-algebra-for-robotics-computer-vision-and-more/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://hackaday.com/wp-content/uploads/2020/09/geometric_algebra_ik_robotics.jpg",
-          "width": 1893,
-          "height": 1304,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-20T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hackaday",
-        "domain": "hackaday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

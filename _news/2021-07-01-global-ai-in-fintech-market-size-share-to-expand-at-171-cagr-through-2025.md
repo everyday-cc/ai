@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/global-ai-in-fintech-mar
 webUrl: "https://www.marketwatch.com/press-release/global-ai-in-fintech-market-size-share-to-expand-at-171-cagr-through-2025-2021-07-01"
 type: article
 quality: 66
-heat: 136
+heat: 146
 published: true
 
 provider:
@@ -114,6 +114,20 @@ related:
       - url: "https://www.techshout.com/wp-content/uploads/2021/04/fintech-1.jpg"
         width: 690
         height: 240
+        isCached: true
+  - title: "Advantage Club forays in Fintech Services"
+    excerpt: "Advantage Club one of the leading Employee Engagement platforms in South East Asia has made its foray into financial services with the launch of an early sala"
+    publishedDateTime: 2021-07-02T09:57:00Z
+    webUrl: "https://www.bignewsnetwork.com/news/270136897/advantage-club-forays-in-fintech-services"
+    type: article
+    provider:
+      name: Big News Network.com
+      domain: bignewsnetwork.com
+    quality: 24
+    images:
+      - url: "https://cdn.bignewsnetwork.com/ani1625219010.jpg"
+        width: 630
+        height: 420
         isCached: true
   - title: "Inclusive Fintech 50 launches 2021 competition to recognize early-stage fintechs driving innovation in an era of uncertainty"
     excerpt: "An independent panel of leading fintech experts will select 50 innovative inclusive fintech startups helping communities rebuild from the pandemicWASHINGTON--(BUSINESS WIRE)--#InclusiveFintech50--The Center for Financial Inclusion (CFI) has launched the third year of Inclusive Fintech 50 (IF50),"
