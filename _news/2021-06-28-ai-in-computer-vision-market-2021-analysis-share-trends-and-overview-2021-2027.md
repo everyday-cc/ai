@@ -43,6 +43,20 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 30
+  - title: "Agriculture Robot Market Analysis, Top Companies, Market Shares, Product Cost and Forecasts to 2026"
+    excerpt: "Farms can be turned into new generation of agriculture robot, instead of depending on human employees. As per the Research Dive analyst review, the agriculture robot reduces the time and decreases manual workforce as they work intelligently and autonomously."
+    publishedDateTime: 2021-07-02T10:07:00Z
+    webUrl: "https://ksusentinel.com/2021/07/02/agriculture-robot-market-analysis-top-companies-market-shares-product-cost-and-forecasts-to-2026/"
+    type: article
+    provider:
+      name: The Sentinel
+      domain: ksusentinel.com
+    quality: 25
+    images:
+      - url: "https://ksusentinel.com/wp-content/uploads/2021/07/33-1.png"
+        width: 628
+        height: 385
+        isCached: true
 
 secured: "BShBl69k6IsKpgBW6Svya6GeU46bPGes1GvySOkJh+vyvpj/cd72cU4zrOv7nkeNPdoWFEccceAdI/cM4S1kviQQLTihpCTmSYFs+AGueKcMdeTEsMzmm93UipUCkCqjP3JMXStMqyOn1u7m7Dky9mdXd4CwSW6vVah2f2dsj43q9GlHMcjz6/Z3oWe1oEF2/FH7T+cJBbXWZ36ihnIzig8QOpeWeMi/d9CGsCGgG83+JoVA/uuRkjzaRk1RNYTW2FjQmIe9gvG9sn40t6OcuLdalypMCS2iP1X7+Emoo9aFSexo6+XmbU/LMaleMZuYVHdKV3O/NdijfSVZOsxBtGyxWRYaMSnos8Js9bGHwas=;2LWM3YJDbEf/nZAZPSu0rA=="
 ---

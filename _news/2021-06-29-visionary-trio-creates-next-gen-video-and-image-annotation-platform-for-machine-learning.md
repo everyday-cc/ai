@@ -1,14 +1,14 @@
 ---
 category: news
 title: "Visionary Trio Creates Next Gen Video and Image Annotation Platform for Machine Learning"
-excerpt: "The Innotescus platform delivers high-performance annotation tools for image and video, bolstered by robust collaboration and analytics"
-publishedDateTime: 2021-06-29T14:19:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/visionary-trio-creates-next-gen-video-and-image-annotation-platform-for-machine-learning-1030563454"
-webUrl: "https://markets.businessinsider.com/news/stocks/visionary-trio-creates-next-gen-video-and-image-annotation-platform-for-machine-learning-1030563454"
+excerpt: "Innotescus ® is announcing the launch of its image and video annotation platform. The Innotescus platform provides an intuitive annotation workspace, comprehensive analytics, and a collaborative environment for teams to produce superior quality training datasets."
+publishedDateTime: 2021-06-29T16:07:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/visionary-trio-creates-next-gen-video-and-image-annotation-platform-for-machine-learning-1030563448"
+webUrl: "https://markets.businessinsider.com/news/stocks/visionary-trio-creates-next-gen-video-and-image-annotation-platform-for-machine-learning-1030563448"
 type: article
 quality: 60
-heat: 60
-published: false
+heat: 70
+published: true
 
 provider:
   name: Business Insider
@@ -28,6 +28,17 @@ images:
     height: 267
     isCached: true
 
-secured: "z6enF1mLgNE2erw34yyUE2lVcoKY4klw0QGWfdhkBu0Ls+DaMXEcQOwICdfUejEn6CvoT/RrO8P5EeApLwOFfeU8aFpNR0i973U31U4JCFX4ULIGI/0xY2c7vpXX8pE/BYAuOvkun/XckgFMCXykVC8lg0/Q+gNhFIO17xksP0nZdzgnHPWO5T+znkZYDTt1ezO6q4idhlzrxG6rEJ6yCVoO+gkSXyBrXFsDBTlB+hE/GaG3y5av0sYfcExR+ML0vMrQuHzcBSnAeDaLf0RoNZg+EM/h+uDVfE9MoIse3CYpPv+y3f3893Wf7tY1wdXhZaSoY0CJXgySjTKRD07L0J0PphEQUI+Slq4VUJRYDUzOrJm2rtM3LRtOHHF1Zzuuuk463c/7yIJ99hdXCtgqgpDh5Qt3F1K0IHUpGY4UhejbcC6ImDKPyKeBvTnNXC8Jt3RRfzgzENcuSbmA2SpNSS+C17lAS4vpMVJWPPd1Vj4GIxTnUncgVkTHEHHw8swl/J/Tgj6KpaDWSEIzQUb4+g==;Fx1e+JHlGrcqkmUO5v2w4w=="
+related:
+  - title: "Pivotree Updates Machine Learning Platform With Image Recognition Features and Enhanced Data Management Functionality"
+    excerpt: "CNW/ - Pivotree Inc. (TSXV: PVT) (\"Pivotree'' or the \"Company\"), a leading provider of Frictionless Commerce solutions, today announced the next generation of its DIVE Machine Learning platform, a SaaS-based solution that combines machine learning,"
+    publishedDateTime: 2021-06-29T11:08:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-pivotree-updates-machine-learning-platform-with-image-recognition-/2021/06/29/9399321.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
+
+secured: "cJFiRgzsbvzvfc5QR1CIho0+0W0DTtbZItmkR+JrhhTmooO2OnVCQUTg9zfWlOo11XJ1WyQtJ06HWXu/Falc/0Hold0f4K51JJsSSYVKDkTZ9Kubp4t9t17akcylR5w92pfYTzG0XA4wZrbsoAC7DZGlZ7uN/VbxG7rSC3cxFi6td8LuFCn6ZME7MDdzUsJ12BK0YSTDeSSRDUyhRif1Li2Tk2bpWk5xthn4fO/K8WXWyZqyZxe4mUg+ehxfoCJp1WAEnM1Mi6SGXib33JqDpy1jfoY4dj03Kz//ObLiucWmebk/8bsS1AAMpY7lGWaEGSp55vA3/f43FU/rX+wKLxS8HYFMDWm4mOkD3yPOCMw=;P2lczBdlh9axLZ49Sd/v2w=="
 ---
 

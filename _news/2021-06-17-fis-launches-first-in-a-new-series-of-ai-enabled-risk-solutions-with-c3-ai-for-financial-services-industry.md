@@ -1,20 +1,20 @@
 ---
 category: news
 title: "FIS Launches First in a New Series of AI-Enabled Risk Solutions with C3 AI for Financial Services Industry"
-excerpt: "Financial technology leader FIS ® (NYSE: FIS) today announced the first in a new series of solutions developed in partnership with C3 AI (NYSE: AI) to help capital markets firms tap into the power of their organizational data to increase efficiency and better manage regulatory compliance and risk."
-publishedDateTime: 2021-06-17T12:00:00Z
-originalUrl: "https://www.financialbuzz.com/fis-launches-first-in-a-new-series-of-ai-enabled-risk-solutions-with-c3-ai-for-financial-services-industry/"
-webUrl: "https://www.financialbuzz.com/fis-launches-first-in-a-new-series-of-ai-enabled-risk-solutions-with-c3-ai-for-financial-services-industry/"
+excerpt: "The AML Compliance Hub leverages C3 AI’s advanced machine learning technology ... fast-moving challenges for the financial services sector, and the data necessary to identify financial crimes ..."
+publishedDateTime: 2021-06-17T12:06:00Z
+originalUrl: "https://www.businesswire.com/news/home/20210617005027/en/FIS-Launches-First-in-a-New-Series-of-AI-Enabled-Risk-Solutions-with-C3-AI-for-Financial-Services-Industry"
+webUrl: "https://www.businesswire.com/news/home/20210617005027/en/FIS-Launches-First-in-a-New-Series-of-AI-Enabled-Risk-Solutions-with-C3-AI-for-Financial-Services-Industry"
 type: article
 
 provider:
-  name: Financial Buzz
-  domain: financialbuzz.com
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
   - AI in Finance
   - AI
 
-secured: "Mpq/26Fw+KRdeofjdb7rHfBfQVAermRw0sZLpHlu7VZf1m3pKg40Ymf04vJL5hEFTjjtENzvCUccTHXWRpQv92sC3ijXdqDGI4nMGZjbmkTGbXxE9O3GEBY/qdw9P78eojLMxv17ZN597yTfNDXL/6NiJg/cIsieGuloTTB5mtiQaz0LUl+tPv85Ylcwcs9OyehnRyGTBeGqQ60JADLEiH6QhkuyCW3YxrueqzkiXAoZY3GgQGYVeznV+YQJZNKIl7ZT3KYTWy+mVKrOyVGx3e9cf86+b+uhBOvPhGXJ+yOveploVvbZlquHXM2mgfiYzn8zPkK19dZpYO/oRwRrc7TcGAI+aGNdtxJ5WsqQ1wU=;VQyc8wfVLYSlJBRwchXeXg=="
+secured: "8fQGwzWhUbij2ZVGT5e2oywYbsXAA8T1AS2IOdT+FUm8Cl+M0U+wFvEPq9rDBQMM7yMi/nlDNPs/sVAt6pz5corhUNhgNGbSuqiDpr0Kl/kgWleA4C82u8wPnP1CHTb49We7zngiDMZ6za0IPMEHjRboVtU01+/ojltHD9DMFFj2iqVptxovBMWxKKRpbMx1RS+HojPaaaOaz8Mu2pjrAifXlrVQIYNXBc3EdPAvOQ9tN5uTZo2TVmyU36a1e3tN1e6yEHfRZtBRuE69zTx7g6ZbdV+taPc5ndlAxamV3fz8jhGwngsWzw/PwL11Pf4pSU6yGOh3D2KfQoTXwFktbfCvzjwuOy2Ay9RWUrL9t/0=;iV7RGHEAIawGca3XSzd7Jw=="
 ---
 

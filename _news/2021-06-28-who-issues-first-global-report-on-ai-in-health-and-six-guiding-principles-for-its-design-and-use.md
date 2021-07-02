@@ -7,7 +7,7 @@ originalUrl: "https://www.miragenews.com/who-issues-first-global-report-on-ai-in
 webUrl: "https://www.who.int/news/item/28-06-2021-who-issues-first-global-report-on-ai-in-health-and-six-guiding-principles-for-its-design-and-use"
 type: article
 quality: 104
-heat: 254
+heat: 264
 published: true
 
 provider:
@@ -72,6 +72,22 @@ related:
       - url: "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F06%2Fwho-1.jpg&signature=198a5378c62b0948b8ee4ee506cd5719"
         width: 1280
         height: 640
+        isCached: true
+  - title: "WHO lays down guidelines for AI use in healthcare"
+    excerpt: "WHO calls for collaboration between the public, governments and health experts to make the best and safest use of AI."
+    publishedDateTime: 2021-07-02T10:02:00Z
+    webUrl: "https://www.thehindu.com/sci-tech/technology/who-lays-down-guidelines-for-ai-use-in-healthcare/article35095417.ece"
+    ampWebUrl: "https://www.thehindu.com/sci-tech/technology/who-lays-down-guidelines-for-ai-use-in-healthcare/article35095417.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/who-lays-down-guidelines-for-ai-use-in-healthcare/article35095417.ece/amp/"
+    type: article
+    provider:
+      name: The Hindu
+      domain: thehindu.com
+    quality: 76
+    images:
+      - url: "https://www.thehindu.com/sci-tech/technology/zer1i9/article35095504.ece/ALTERNATES/LANDSCAPE_615/smart-hospjpg"
+        width: 615
+        height: 384
         isCached: true
   - title: "WHO: 6 principles to using AI in healthcare ethically"
     excerpt: "The World Health Organization released a guide for how to use artificial intelligence in healthcare settings with guidance from ethics, human rights and tech experts, according to a June report. Here are six principles for ethical use of AI: The use of AI shouldn't undermine provider decision-making."

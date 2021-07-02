@@ -48,7 +48,16 @@ related:
       name: Telecompaper
       domain: telecompaper.com
     quality: 4
+  - title: "Technicolor voice technology STB integration"
+    excerpt: "Entertainment technologist Technicolor Connected Home is integrating Google’s far-field voice technology into its latest generation of set-top boxes (STBs) wh"
+    publishedDateTime: 2021-07-02T10:47:00Z
+    webUrl: "https://advanced-television.com/2021/07/02/technicolor-voice-technology-stb-integration/"
+    type: article
+    provider:
+      name: Advanced Television
+      domain: advanced-television.com
+    quality: 4
 
-secured: "uNcLXXFlyfrpt61EwDlV7i6ZxR0kHx+B+gu+cNQH9pMwolEc794FEYnPGP7FZppGAlPBiZM0B/Pc8MiPQcImq9bpjVGnZKH0HbBKMHRMhs5YOjGeyF0VOJT+tTP+ZqO0zn9bRnJOzJiwoPUYVy0dzL/Y5DGpwtzFmMgGkQa82BKnw/nZ0QZWkiKu9uXfcxFlSyPrPIvUx8Etq16l2qWq0wVjWKK8yZku116PkX4lRWgCsLT0jf6pgKp/emDgWoAvV/CliUkitDlQ55CQVmZ6NVrFdTl0RZuDinERx+U9rLiX5BUUj85ydba4DbEsX1E5cq+Vm6W/yCzFe45z0bCMEOB+ghQ7ek9geP075vsprFo=;1j2O7oIo/IAvpevG2z6PUA=="
+secured: "wcS4NZGtOGjtUFSgOLUAiWfCvAvbhnYQv1ulB/2tABwFOCIz4OEsoeSUWhmFFCny9bGPkMIm994OHKATbaUF8RI5gd3ryfCEEfUSiuu2pA7j0a1fhGkUTwNR8Gc9zxXfe00wFt4pwCbTN0Fb307RsEBnsPN2RsinbqKWe5UYLQiipzwdFWb8r1itJ0pQwQ+Mrm71ul7BMcjWYcgDFy89axBGI32SIfl/s6pzuucWhWE5FTo4FByq6NQcidlBLhXUnEx6/CnfEyIqiY8GfjWaA0gEfpVl7pizyrFL8pgkcF5DJ3LGZOdh+tHNUkXO67QMC15HAxnLDIgmYocRdgXyyM6lYqaCU4YtckFHoG4z8NfsYcevgCyc3n9nmcQYwQWNmDMQngcmEa6C4SVByw5sqomR5xfw31blZ2gYhWMTYlMmXXUd7ZC+DaJvmieVGLgSPhVCRDSVHpONzw96snMBwZfa8u3d014Bh0vW4qXS0k060Tu1kXPzqqz2tMfQ856qpdnaW4q/FNfIupcjD/BWTA==;hKSm+tYf+o9Cf8uk94R0cQ=="
 ---
 

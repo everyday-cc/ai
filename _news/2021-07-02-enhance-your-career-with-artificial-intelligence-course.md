@@ -8,7 +8,7 @@ webUrl: "https://www.pcquest.com/enhance-career-artificial-intelligence-course/"
 ampWebUrl: "https://www.pcquest.com/enhance-career-artificial-intelligence-course/amp/"
 cdnAmpWebUrl: "https://www-pcquest-com.cdn.ampproject.org/c/s/www.pcquest.com/enhance-career-artificial-intelligence-course/amp/"
 type: article
-quality: 37
+quality: 39
 heat: -1
 published: false
 
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - Machine Learning
 
 related:
   - title: "To Win With AI, Focus On Our Humanity"

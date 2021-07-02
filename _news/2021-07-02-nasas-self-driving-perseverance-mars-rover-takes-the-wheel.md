@@ -1,13 +1,13 @@
 ---
 category: news
-title: "NASA’s Self-Driving Perseverance Mars Rover ‘Takes the Wheel’"
+title: "NASA's Self-Driving Perseverance Mars Rover 'Takes the Wheel'"
 excerpt: "The agency’s newest rover is trekking across the Martian landscape using a newly enhanced auto-navigation system."
-publishedDateTime: 2021-07-01T18:10:00Z
-originalUrl: "https://www.jpl.nasa.gov/news/nasas-self-driving-perseverance-mars-rover-takes-the-wheel"
-webUrl: "https://www.jpl.nasa.gov/news/nasas-self-driving-perseverance-mars-rover-takes-the-wheel"
+publishedDateTime: 2021-07-01T19:23:00Z
+originalUrl: "https://mars.nasa.gov/news/8980/nasas-self-driving-perseverance-mars-rover-takes-the-wheel"
+webUrl: "https://mars.nasa.gov/news/8980/nasas-self-driving-perseverance-mars-rover-takes-the-wheel"
 type: article
-quality: 4
-heat: 4
+quality: 24
+heat: 24
 published: false
 
 provider:
@@ -18,6 +18,12 @@ topics:
   - AI in Autos
   - AI
 
-secured: "F5yEEsO5d+mU/abj2srT+141/bbSvZ0wQPqlzx43Z+3fLGKES29lGEHVSsknH1Ob4+uvFLQpZWwTFWa31ijz8j+DNuKYLmyoxn5VmhJwFnBLMpBzgGCcR1GFRvxOvIjnk8Lf4OrC3fevTkmyVncbIg7m1t/nmE3C4VKGwL50MXAWxCjZKIG2/vDNwOreH8CYp4hOxUXbpz/eqrfmfP2SrTHQapgG6VZxDoTdrKmtd4u2+88KtmniPstQmB0T89V3OdEkVnBiOs1V6NhTN3Iimc7fSmW2QXflscdrjKDeH41Ap3qpLYH6WZfXgWx5aKim9AfImVN0ZiQvMkLxfBDEo0YY++ibGn5vEwKgJJnSig8SFEBLAzNWS2UXOLtiLbJuz9vbFYSPMw6WcKR47jZhxMxldaMy8KjjoQbPrUCT9hRCZXiHQBJ5LXsYtkx2lEVx94sz+BTJ/mYBE55XuEWl9aF1UMI7dnZsLavsAimGZEbyC3CGUIRqpfMefPManNQuAUt1aDXSHd2qwjLAAILdTg==;kWoKN07ba0DVLlQxgDtE6A=="
+images:
+  - url: "https://mars.nasa.gov/system/news_items/list_view_images/8980_1-PIA24722-Perseverances-First-Autonav-Drive-thumb.jpg"
+    width: 320
+    height: 240
+    isCached: true
+
+secured: "zy+Wf2jt7AgN5yastMMLg6u9Z1TICSFV5gILxuclOswLUMgpDTmbdhGsI+QlXahpDpwfeiTscjv249YJDgaEf7IiwExVwctRyi2OA5XyRAvJFUjCKyn3B0J7AM56txye4Zmkgts2eF4zLfLXhBYkQkdV+qD1EoiX/hbUFKVw/Fd+MMB7nmfWN3fu8qDO4yjsyeYCeIeYgx0/wZ2aqLrsn8Z6/q4rpMJy1iQShbg+YwcfOm3BwAzkVoxhIj32bRYEUZD6ceMEb4yDlA4qKmn0vy80w+q4Rc69KWkP5VtFrVflKQyYzkeYbb5/eEEcqPHESRp+yga4wlaV4nhHYrHkBkiSV1ZBCQ8/HQr1fbCIXgQ=;N1WA+uDJlw5wR2HD0enBDw=="
 ---
 
