@@ -21,68 +21,72 @@ topics:
   - AI
 
 related:
-  - title: "A Government Watchdog May Have Missed Clearview AI Use By Five Federal Agencies In A New Report"
-    excerpt: "In a government accountability report about facial recognition, five federal agencies said they didn't use Clearview AI. Data reviewed by BuzzFeed News suggests they should have."
-    publishedDateTime: 2021-06-30T23:00:00Z
-    webUrl: "https://www.buzzfeednews.com/article/carolinehaskins1/gao-facial-recognition-report-clearview-federal-agencies"
-    ampWebUrl: "https://www.buzzfeednews.com/amphtml/carolinehaskins1/gao-facial-recognition-report-clearview-federal-agencies"
-    cdnAmpWebUrl: "https://www-buzzfeednews-com.cdn.ampproject.org/c/s/www.buzzfeednews.com/amphtml/carolinehaskins1/gao-facial-recognition-report-clearview-federal-agencies"
+  - title: "AI’s Role In The Future Of Data Privacy"
+    excerpt: "People’s personal data has been lost, stolen, exposed, and hacked. Unfortunately, this trend isn’t new and can cost companies an average of $3.86 million per breach, not to mention the harm to the users themselves."
+    publishedDateTime: 2021-07-02T21:10:00Z
+    webUrl: "https://www.forbes.com/sites/anniebrown/2021/07/02/ais-role-in-the-future-of-data-privacy/"
+    ampWebUrl: "https://www.forbes.com/sites/anniebrown/2021/07/02/ais-role-in-the-future-of-data-privacy/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/anniebrown/2021/07/02/ais-role-in-the-future-of-data-privacy/amp/"
     type: article
     provider:
-      name: BuzzFeed News
-      domain: buzzfeednews.com
-    quality: 75
+      name: Forbes
+      domain: forbes.com
+    quality: 87
     images:
-      - url: "https://img.buzzfeed.com/buzzfeed-static/static/2020-10/30/21/tmp/d6a72259c415/tmp-name-2-250-1604095037-13_dblbig.jpg"
-        width: 625
-        height: 415
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60df804c62086a5727aa4e5b%2F0x0.jpg"
+        width: 1200
+        height: 800
         isCached: true
-  - title: "Government Watchdog Finds Most U.S. Agencies Don't Even Know Which Face Recognition Systems They Use"
-    excerpt: "Thirteen federal agencies do not have awareness of what non-federal systems with facial recognition technology are used by employees,” the report claims."
-    publishedDateTime: 2021-06-30T17:20:00Z
-    webUrl: "https://gizmodo.com/government-watchdog-finds-most-u-s-agencies-dont-even-1847202064"
-    ampWebUrl: "https://gizmodo.com/government-watchdog-finds-most-u-s-agencies-dont-even-1847202064/amp"
-    cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/government-watchdog-finds-most-u-s-agencies-dont-even-1847202064/amp"
+  - title: "The Future of Retail and AI"
+    excerpt: "When Amazon Go launched in 2018, critics claimed that it would take more than a decade for autonomous retail to catch on. Fast-forward a couple of years and one global pandemic later, it’s clear that autonomous retail isn’t going anywhere."
+    publishedDateTime: 2021-06-29T15:35:00Z
+    webUrl: "https://retailtouchpoints.com/topics/retail-store-design/in-store-innovation/the-future-of-retail-and-ai"
+    ampWebUrl: "https://retailtouchpoints.com/topics/retail-store-design/in-store-innovation/the-future-of-retail-and-ai/amp"
+    cdnAmpWebUrl: "https://retailtouchpoints-com.cdn.ampproject.org/c/s/retailtouchpoints.com/topics/retail-store-design/in-store-innovation/the-future-of-retail-and-ai/amp"
     type: article
     provider:
-      name: Gizmodo
-      domain: gizmodo.com
-    quality: 74
-    images:
-      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/876faa149a1d948194ad5ee553093efc.jpg"
-        width: 800
-        height: 450
-        isCached: true
-  - title: "Government report finds 20 different agencies use facial recognition"
-    excerpt: "A new report from the Government Accountability Office (GAO) found that 20 federal agencies either own or use facial recognition technology."
-    publishedDateTime: 2021-06-29T17:46:00Z
-    webUrl: "https://www.dailydot.com/debug/gao-facial-recognition-federal-agencies/"
-    ampWebUrl: "https://www.dailydot.com/debug/gao-facial-recognition-federal-agencies/?amp"
-    cdnAmpWebUrl: "https://www-dailydot-com.cdn.ampproject.org/c/s/www.dailydot.com/debug/gao-facial-recognition-federal-agencies/?amp"
-    type: article
-    provider:
-      name: The Daily Dot
-      domain: dailydot.com
+      name: Retail TouchPoints
+      domain: retailtouchpoints.com
     quality: 59
     images:
-      - url: "https://uploads.dailydot.com/2021/06/GAO-Report-Federal-Government-Facial-Recognition.jpg?auto=compress%2Cformat&ixlib=php-3.3.0"
-        width: 2000
-        height: 1000
+      - url: "https://retailtouchpoints.com/wp-content/uploads/2020/10/aifi.jpg"
+        width: 830
+        height: 571
         isCached: true
-  - title: "Watchdog: 10 Government Agencies Deployed Clearview AI Facial Recognition Tech"
-    excerpt: "A Government Accountability Office report details how agencies used different versions of the biometric technology during the pandemic and protests."
-    publishedDateTime: 2021-06-29T21:06:00Z
-    webUrl: "https://www.nextgov.com/emerging-tech/2021/06/watchdog-10-government-agencies-deployed-clearview-ai-facial-recognition-tech/176411/"
+  - title: "AI trends that will define the future of data science"
+    excerpt: "Artificial Intelligence is the new electricity,” rightly said British-born American computer scientist Professor Andrew NG. AI is transforming every industry and creating huge economic value simultaneously."
+    publishedDateTime: 2021-06-29T09:54:00Z
+    webUrl: "https://timesofindia.indiatimes.com/blogs/voices/ai-trends-that-will-define-the-future-of-data-science/"
+    ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/ai-trends-that-will-define-the-future-of-data-science/"
+    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/ai-trends-that-will-define-the-future-of-data-science/"
     type: article
     provider:
-      name: Nextgov
-      domain: nextgov.com
-    quality: 50
+      name: India Times
+      domain: indiatimes.com
+    quality: 39
+  - title: "Explainable AI, the future of financial services"
+    excerpt: "As technology becomes more advanced, it can become harder to understand. Some may accept not fully understanding the ins and outs of a technology if it makes new or better things possible, but not being able to fully understand how a technology works can bring about its own problems."
+    publishedDateTime: 2021-06-30T05:01:00Z
+    webUrl: "https://paperjam.lu/article/explainable-ai-the-future-of-f"
+    type: article
+    provider:
+      name: paperJam
+      domain: paperjam.lu
+    quality: 39
     images:
-      - url: "https://cdn.nextgov.com/media/img/cd/2021/06/29/NGfacialtech20210629/open-graph.jpg"
-        width: 400
-        height: 400
+      - url: "https://assets.paperjam.lu/images/articles/explainable-ai-the-future-of-f/0.5/0.5/600/400/414770.jpg"
+        width: 1199
+        height: 800
         isCached: true
+  - title: "Artificial intelligence hold promise in the ICU"
+    excerpt: "In a 2018 article entitled “Human Cognitive Limitations”, the University of Utah's Alan Morris estimated the number of variables an intensivist has to take into account for a patient on mechanical ventilation."
+    publishedDateTime: 2021-06-28T22:55:00Z
+    webUrl: "https://www.thelancet.com/journals/lanres/article/PIIS2213-2600(21)00317-9/fulltext"
+    type: article
+    provider:
+      name: The Lancet
+      domain: thelancet.com
+    quality: 17
 
 secured: "XkCxASmLTld99FQA/j4McWfdNwBqVdw4tr5Ie+DIbfgc+HvTYPnrg44y2XtousO9ZJP0qHvyym0+eHyG88getQxj6x6WO9ktMawelZKV2lVeERorABzKrMSOq1XuDUWRu501B4ZA2JcRe2FLAc6WIuAgDZrmumtW8AvVJ6sP3o/TzOCpvrUj8fvvUg5MXhm5SmjWhvIjKCwnz1QkMG1K9de0MW8SV3As0veDNV9UjdWPi7dboMupYGFyCM3+2XDVzS/M9QeluA3IiLpwHt61hZFcFFrkAgj9w7UawXfYI8JJebAgQ4kVWkLszqjPlJoPv30ejMEMLGpU/2N16y8Lq2Eu3OrgDIjU03GcoU6Ptb8=;pA5Hq1N78E3Yhx9Lzpo5Zg=="
 ---

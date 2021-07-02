@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2021/06/29/changi
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2021/06/29/changing-ai-perceptions-to-drive-widespread-adoption-in-traditional-industries/amp/"
 type: article
 quality: 83
-heat: 163
+heat: 173
 published: true
 
 provider:
@@ -30,6 +30,22 @@ images:
     isCached: true
 
 related:
+  - title: "How is AI transforming the education industry"
+    excerpt: "The purpose behind application of AI in education is not to replace teachers, but give them a helping hand in understanding the potential and limitations of each student."
+    publishedDateTime: 2021-06-28T05:38:00Z
+    webUrl: "https://www.dqindia.com/ai-transforming-education-industry/"
+    ampWebUrl: "https://www.dqindia.com/ai-transforming-education-industry/amp/"
+    cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/ai-transforming-education-industry/amp/"
+    type: article
+    provider:
+      name: Dataquest
+      domain: dqindia.com
+    quality: 74
+    images:
+      - url: "https://www.dqindia.com/wp-content/uploads/2021/01/edtech-innovations-higher-education_opt.jpg"
+        width: 850
+        height: 519
+        isCached: true
   - title: "Business implications of AI within tax & accounting"
     excerpt: "With AI promising the greatest transformation in many industries, including tax & accounting, we need to begin asking what the implications of this will be."
     publishedDateTime: 2021-06-30T18:48:00Z

@@ -27,21 +27,37 @@ images:
     isCached: true
 
 related:
-  - title: "A Government Watchdog May Have Missed Clearview AI Use By Five Federal Agencies In A New Report"
-    excerpt: "In a government accountability report about facial recognition, five federal agencies said they didn't use Clearview AI. Data reviewed by BuzzFeed News suggests they should have."
-    publishedDateTime: 2021-06-30T23:00:00Z
-    webUrl: "https://www.buzzfeednews.com/article/carolinehaskins1/gao-facial-recognition-report-clearview-federal-agencies"
-    ampWebUrl: "https://www.buzzfeednews.com/amphtml/carolinehaskins1/gao-facial-recognition-report-clearview-federal-agencies"
-    cdnAmpWebUrl: "https://www-buzzfeednews-com.cdn.ampproject.org/c/s/www.buzzfeednews.com/amphtml/carolinehaskins1/gao-facial-recognition-report-clearview-federal-agencies"
+  - title: "US agencies must track which facial recognition systems they use, report says"
+    excerpt: "Several federal agencies don't know which systems their employees use, according to the Government Accountability Office."
+    publishedDateTime: 2021-06-30T13:52:00Z
+    webUrl: "https://www.cnet.com/news/us-agencies-must-track-which-facial-recognition-systems-they-use-report-says/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/us-agencies-must-track-which-facial-recognition-systems-they-use-report-says/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/us-agencies-must-track-which-facial-recognition-systems-they-use-report-says/"
     type: article
     provider:
-      name: BuzzFeed News
-      domain: buzzfeednews.com
+      name: CNET
+      domain: cnet.com
+    quality: 88
+    images:
+      - url: "https://www.cnet.com/a/img/gwmoAi0S4eDXJo6Rbg_tTnsJSgc=/1200x630/2020/05/01/bff6e427-0240-4ffd-bfbb-40db6bab6b46/security-facial-recognition-contact-tracing.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Facial recognition tech has been widely used across the US government for years, a new report shows"
+    excerpt: "As George Floyd's death sparked protests in cities across the country, six federal agencies turned to facial-recognition software in an effort to identify people in images of the civil unrest, according to a new report from a government agency."
+    publishedDateTime: 2021-06-30T17:15:00Z
+    webUrl: "https://edition.cnn.com/2021/06/30/tech/government-facial-recognition-use-gao-report/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/30/tech/government-facial-recognition-use-gao-report/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/30/tech/government-facial-recognition-use-gao-report/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
     quality: 75
     images:
-      - url: "https://img.buzzfeed.com/buzzfeed-static/static/2020-10/30/21/tmp/d6a72259c415/tmp-name-2-250-1604095037-13_dblbig.jpg"
-        width: 625
-        height: 415
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210629171548-03-capitol-riot-file-0106-super-tease.jpg"
+        width: 1100
+        height: 619
         isCached: true
   - title: "Government Watchdog Finds Most U.S. Agencies Don't Even Know Which Face Recognition Systems They Use"
     excerpt: "Thirteen federal agencies do not have awareness of what non-federal systems with facial recognition technology are used by employees,” the report claims."
@@ -73,17 +89,70 @@ related:
         width: 400
         height: 400
         isCached: true
-  - title: "Macy's Wants Out Of Clearview AI Facial-Data Privacy MDL"
-    excerpt: "Department store chain Macy's argued Monday to be excused from Illinois multidistrict litigation over alleged biometric privacy violations by Clearview AI, saying consumers haven't shown an injury related to their claims that the company used Clearview's database to identify unknown individuals."
-    publishedDateTime: 2021-06-29T22:32:00Z
-    webUrl: "https://www.law360.com/articles/1398758/macy-s-wants-out-of-clearview-ai-facial-data-privacy-mdl"
-    ampWebUrl: "https://www.law360.com/amp/articles/1398758"
-    cdnAmpWebUrl: "https://www-law360-com.cdn.ampproject.org/c/s/www.law360.com/amp/articles/1398758"
+  - title: "Calls to stop NSW police trial of national facial recognition system over lack of legal safeguards"
+    excerpt: "Passport photos used in state’s criminal investigations despite parliament rejecting legislation on controversial technology"
+    publishedDateTime: 2021-06-30T16:32:00Z
+    webUrl: "https://www.theguardian.com/australia-news/2021/jul/01/calls-to-stop-nsw-police-trial-of-national-facial-recognition-system-over-lack-of-legal-safeguards"
+    ampWebUrl: "https://amp.theguardian.com/australia-news/2021/jul/01/calls-to-stop-nsw-police-trial-of-national-facial-recognition-system-over-lack-of-legal-safeguards"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/australia-news/2021/jul/01/calls-to-stop-nsw-police-trial-of-national-facial-recognition-system-over-lack-of-legal-safeguards"
     type: article
     provider:
-      name: Law360
-      domain: law360.com
+      name: The Guardian
+      domain: theguardian.com
+    quality: 45
+    images:
+      - url: "https://i.guim.co.uk/img/media/a39cd16da4368de83f7321209e84d4e066e343b3/0_132_5249_3151/master/5249.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=1b5d8ec74e0bbc9e1cd2b862f8fb606a"
+        width: 600
+        height: 360
+        isCached: true
+  - title: "GAO Urges Federal Agencies to Weigh Facial Recognition Risks"
+    excerpt: "Federal law enforcement agencies should track their use of facial recognition technology from the private sector and local governments and assess potential threats to privacy and risks of bias, the U."
+    publishedDateTime: 2021-06-29T22:10:00Z
+    webUrl: "https://news.bloomberglaw.com/privacy-and-data-security/gao-urges-federal-agencies-to-weigh-facial-recognition-risks"
+    type: article
+    provider:
+      name: Bloomberg Law
+      domain: bloomberglaw.com
     quality: 39
+    images:
+      - url: "https://db0ip7zd23b50.cloudfront.net/dims4/default/4d21995/2147483647/crop/3999x1536%2B0%2B1130/resize/959x369%3E/quality/90/?url=http%3A%2F%2Fbloomberg-bna-brightspot.s3.amazonaws.com%2F18%2F0d%2F64c54c824d6fad38cebee40e0236%2Fgettyimages-1147205618.jpg"
+        width: 959
+        height: 368
+        isCached: true
+  - title: "Federal Law Enforcement Is Running Roughshod Over Facial Recognition Privacy, Says GAO"
+    excerpt: "Out of the 86 federal agencies that employ full-time law enforcement officers, the Government Accountability Office (GAO) surveyed 42 of them about whether they either owned and/or used facial recognition technologies from outside suppliers."
+    publishedDateTime: 2021-06-30T19:55:00Z
+    webUrl: "https://reason.com/2021/06/30/federal-law-enforcement-is-running-roughshod-over-facial-recognition-privacy-says-gao/"
+    ampWebUrl: "https://reason.com/2021/06/30/federal-law-enforcement-is-running-roughshod-over-facial-recognition-privacy-says-gao/?amp"
+    cdnAmpWebUrl: "https://reason-com.cdn.ampproject.org/c/s/reason.com/2021/06/30/federal-law-enforcement-is-running-roughshod-over-facial-recognition-privacy-says-gao/?amp"
+    type: article
+    provider:
+      name: Reason
+      domain: reason.com
+    quality: 31
+  - title: "GAO: Some Federal Agencies’ Use of Facial Recognition Technology Opens Door for Potential Risks"
+    excerpt: "Fourteen federal agencies reported using facial recognition technology systems owned by non-federal entities to support criminal investigations, and 13 out of the 14 agencies did not have an up-to-date information on what non-federal systems were being used by employees,"
+    publishedDateTime: 2021-07-02T09:20:00Z
+    webUrl: "https://www.hstoday.us/subject-matter-areas/biometrics-id-management/gao-some-federal-agencies-use-of-facial-recognition-technology-opens-door-for-potential-risks/"
+    type: article
+    provider:
+      name: Homeland Security Today
+      domain: hstoday.us
+    quality: 27
+    images:
+      - url: "https://www.hstoday.us/wp-content/uploads/2021/06/eye-5814965_1920.jpg"
+        width: 1920
+        height: 1280
+        isCached: true
+  - title: "Report Finds Widespread Use of Facial Recognition Technology by Federal Agencies Could Pose Privacy Risk"
+    excerpt: "The report recommends that agencies track and assess the systems they use to mitigate the privacy and accuracy risks."
+    publishedDateTime: 2021-07-01T15:26:00Z
+    webUrl: "https://www.lawfareblog.com/report-finds-widespread-use-facial-recognition-technology-federal-agencies-could-pose-privacy-risk"
+    type: article
+    provider:
+      name: Lawfare
+      domain: lawfareblog.com
+    quality: 2
 
 secured: "7YPoc6+11BI5Lhwi0KpCar0xG3Fonyj/jaUFum/BNEisTjIcG7PuIa4xRgzmg3DPceFasm8Aw1hoc5b5+nkWOD0KG7QoCmvboCzWh0I2VX+UTGHSMOjuI+COMbe6VpaCAtkT3L2RBKvX8Oxub2jgX5sfObjFdfBnL/+7Rvnie4KjK0T1V2/07Hz2k44FD3WdLiOV4MOt1mbthqiYl/gNAxsiBLNemRK6ot3RXVrwr/AP5PxaEVmuadmfpxMpe1Xx/ic2Ttfzx7GH6vf+dgP/9h1XuHPP2H+rI4/NmjTX2UvxwRoTC+YTtAEQ7dATwfz224YxGVYy3v8IQvM78wuh0esJpYrSQPCPqHIzUx3R1e2K4nOqmx0318/aJaNxsVO7jF1xKOrWG2qW75x7ReFR+sS1slXorkllceKBMuIUrVwgKHp09uQisEjfWQO8omBhWf+5Vz/B7kBm1rUO0X/HCMAc44OVZfdVkHzrQCxrQXcH1BvGzJQui7hxEX0XuRD44EhEcN4XDCX8fktlv6G2FA==;8EfgPk60/CayuQpl2HqaWQ=="
 ---

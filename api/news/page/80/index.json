@@ -2,6 +2,49 @@
   "page": 80,
   "value": [
     {
+      "path": "_news/2021-05-05-impact-of-autonomous-vehicles-on-businesses.md",
+      "title": "Impact of Autonomous Vehicles on Businesses",
+      "excerpt": "And let’s face it, like any other tech, with autonomous vehicles too, an innumerable businesses are expected to take a hit worldwide",
+      "sourceUrl": null,
+      "webUrl": "https://www.finsmes.com/2021/05/impact-of-autonomous-vehicles-on-businesses.html",
+      "originalUrl": "https://www.finsmes.com/2021/05/impact-of-autonomous-vehicles-on-businesses.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.finsmes.com/wp-content/uploads/2016/07/Depositphotos_29760661_m-2015.jpg",
+          "width": 1000,
+          "height": 1000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-05T06:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "finsmes.com",
+        "domain": "finsmes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-05-trifo-lucy-robot-vacuum-review-eyes-that-prioritize-security-over-cleaning.md",
       "title": "Trifo Lucy Robot Vacuum review: Eyes that prioritize security over cleaning",
       "excerpt": "The Trifo Lucy is a highly anticipated robot vacuum that not only vacuums but can also double as a useful security camera for the home when you're not there.",
@@ -1105,40 +1148,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-05-understanding-the-technology-behind-traffic-sign-recognition-tsr-systems.md",
-      "title": "Understanding the Technology behind Traffic Sign Recognition (TSR) Systems",
-      "excerpt": "It can be used in manufacturing as a part of quality control, object recognition, a way to navigate a mobile robot, or as a way to detect edges in images. To identify the matching area, we have to compare the template image against the source image by ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.design-reuse.com/articles/41154/traffic-sign-recognition-tsr-system.html",
-      "originalUrl": "https://www.design-reuse.com/articles/41154/traffic-sign-recognition-tsr-system.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-04T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Design-Reuse",
-        "domain": "design-reuse.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

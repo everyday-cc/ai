@@ -153,6 +153,59 @@
       ]
     },
     {
+      "path": "_news/2021-06-30-us-agencies-must-track-which-facial-recognition-systems-they-use-report-says.md",
+      "title": "US agencies must track which facial recognition systems they use, report says",
+      "excerpt": "Several federal agencies don't know which systems their employees use, according to the Government Accountability Office.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/news/us-agencies-must-track-which-facial-recognition-systems-they-use-report-says/",
+      "originalUrl": "https://www.cnet.com/news/us-agencies-must-track-which-facial-recognition-systems-they-use-report-says/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 178,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cnet.com/a/img/gwmoAi0S4eDXJo6Rbg_tTnsJSgc=/1200x630/2020/05/01/bff6e427-0240-4ffd-bfbb-40db6bab6b46/security-facial-recognition-contact-tracing.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/us-agencies-must-track-which-facial-recognition-systems-they-use-report-says/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/us-agencies-must-track-which-facial-recognition-systems-they-use-report-says/",
+      "publishedDateTime": "2021-06-30T06:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-30-artificial-intelligence-ai-in-bfsi-market-2021-is-booming-worldwide-with-eminent-key-players-amazon-web-services-aws-inc-avaamo.md",
       "title": "Artificial Intelligence Ai In Bfsi Market 2021 is Booming Worldwide With Eminent Key Players | Amazon Web Services (AWS), Inc., Avaamo",
       "excerpt": "The most recent research report on Artificial Intelligence Ai In Bfsi Market 2021 published by Stratagem Market Insights begins with the market description official report segmentation and classification The report offers a comprehensive analysis of the market so that perusers",
@@ -1356,49 +1409,6 @@
       "topics": [
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-16-vodafone-and-aws-wavelength-launch-edge-computing-in-europe-wide-first.md",
-      "title": "Vodafone and AWS Wavelength launch edge computing in Europe-wide first",
-      "excerpt": "Wavelength on the Vodafone 4G and 5G networks delivers ultra-low latency capabilities to UK business customers and software developers.",
-      "sourceUrl": null,
-      "webUrl": "https://www.telecomtv.com/content/edge/vodafone-and-aws-wavelength-launch-edge-computing-in-europe-wide-first-41699/",
-      "originalUrl": "https://www.telecomtv.com/content/edge/vodafone-and-aws-wavelength-launch-edge-computing-in-europe-wide-first-41699/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.telecomtv.com/assets/telecomtv/brand/ttv-splash.jpg?w=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.telecomtv.com/content/edge/vodafone-and-aws-wavelength-launch-edge-computing-in-europe-wide-first-41699/amp/",
-      "cdnAmpWebUrl": "https://www-telecomtv-com.cdn.ampproject.org/c/s/www.telecomtv.com/content/edge/vodafone-and-aws-wavelength-launch-edge-computing-in-europe-wide-first-41699/amp/",
-      "publishedDateTime": "2021-06-16T08:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TelecomTV",
-        "domain": "telecomtv.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
       ]
     }
   ],

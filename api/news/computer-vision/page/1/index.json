@@ -10,7 +10,7 @@
       "originalUrl": "https://www.cnet.com/news/maine-just-enacted-the-countrys-toughest-restrictions-on-facial-recognition/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 261,
+      "heat": 291,
       "tags": null,
       "images": [
         {
@@ -54,21 +54,21 @@
       ]
     },
     {
-      "path": "_news/2021-07-01-calls-for-biden-to-ban-facial-recognition-grow-after-gao-reports-findings.md",
-      "title": "Calls for Biden to ban facial recognition grow after GAO report’s findings",
-      "excerpt": "The findings of a recent facial recognition report by the GAO are renewing previous calls for President Joe Biden to ban the technology.",
+      "path": "_news/2021-06-30-us-agencies-must-track-which-facial-recognition-systems-they-use-report-says.md",
+      "title": "US agencies must track which facial recognition systems they use, report says",
+      "excerpt": "Several federal agencies don't know which systems their employees use, according to the Government Accountability Office.",
       "sourceUrl": null,
-      "webUrl": "https://www.dailydot.com/debug/facial-recognition-gao-biden/",
-      "originalUrl": "https://www.dailydot.com/debug/facial-recognition-gao-biden/",
+      "webUrl": "https://www.cnet.com/news/us-agencies-must-track-which-facial-recognition-systems-they-use-report-says/",
+      "originalUrl": "https://www.cnet.com/news/us-agencies-must-track-which-facial-recognition-systems-they-use-report-says/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 79,
+      "heat": 178,
       "tags": null,
       "images": [
         {
-          "url": "https://uploads.dailydot.com/2021/06/biden-facial-recognition.jpg?auto=compress%2Cformat&ixlib=php-3.3.0",
-          "width": 2000,
-          "height": 1000,
+          "url": "https://www.cnet.com/a/img/gwmoAi0S4eDXJo6Rbg_tTnsJSgc=/1200x630/2020/05/01/bff6e427-0240-4ffd-bfbb-40db6bab6b46/security-facial-recognition-contact-tracing.jpg",
+          "width": 1200,
+          "height": 630,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -76,14 +76,23 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.dailydot.com/debug/facial-recognition-gao-biden/?amp",
-      "cdnAmpWebUrl": "https://www-dailydot-com.cdn.ampproject.org/c/s/www.dailydot.com/debug/facial-recognition-gao-biden/?amp",
-      "publishedDateTime": "2021-07-01T06:10:00-07:00",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/us-agencies-must-track-which-facial-recognition-systems-they-use-report-says/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/us-agencies-must-track-which-facial-recognition-systems-they-use-report-says/",
+      "publishedDateTime": "2021-06-30T06:52:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "The Daily Dot",
-        "domain": "dailydot.com",
-        "images": null,
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -93,7 +102,8 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
+        "AI",
+        "AWS AI"
       ]
     },
     {
@@ -298,7 +308,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/facial-recognition-market-by-size-growth-opportunity-and-forecast-to-2028-2021-06-28",
       "featuredContent": null,
       "highlight": null,
-      "heat": 307,
+      "heat": 327,
       "tags": null,
       "images": [
         {

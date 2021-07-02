@@ -2,6 +2,49 @@
   "page": 53,
   "value": [
     {
+      "path": "_news/2021-05-25-the-missing-vaccine-in-the-pandemic-how-the-shortage-of-emotional-intelligence-is-driving-everyone-crazy.md",
+      "title": "The Missing Vaccine in the Pandemic: How the Shortage of Emotional Intelligence is Driving Everyone Crazy",
+      "excerpt": "The result is the modern epidemic of low emotional intelligence: in many cases, we do not know how to read others, we do not know when to listen, or we do not know how to communicate with people who are different from us.",
+      "sourceUrl": null,
+      "webUrl": "https://www.chron.com/business/article/The-Missing-Vaccine-in-the-Pandemic-How-the-16198963.php",
+      "originalUrl": "https://www.chron.com/business/article/The-Missing-Vaccine-in-the-Pandemic-How-the-16198963.php",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.hdnux.com/photos/01/20/16/70/21032496/3/rawImage.jpg",
+          "width": 2000,
+          "height": 1333,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-24T13:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Houston Chronicle",
+        "domain": "chron.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-25-baidu-beatdown-is-overdone-so-nows-the-time-to-jump-in.md",
       "title": "Baidu Beatdown Is Overdone, So Now’s the Time to Jump In",
       "excerpt": "It’s a sign that Baidu’s serious about self-driving tech – and the bears should reconsider their positions on BIDU stock. Apparently, investors just aren’t ready to give Baidu a break ...",
@@ -1124,50 +1167,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-24-request-for-information-and-comment-on-financial-institutions-use-of-artificial-intelligence-including-machine-learning.md",
-      "title": "Request for Information and Comment on Financial Institutions' Use of Artificial Intelligence, Including Machine Learning",
-      "excerpt": "Agency: \"Board of Governors of the Federal Reserve System (Board), Bureau of Consumer Financial Protection (Bureau), Federal Deposit Insurance Corporation (FDIC), National Credit Union ...",
-      "sourceUrl": null,
-      "webUrl": "https://insurancenewsnet.com/oarticle/request-for-information-and-comment-on-financial-institutions-use-of-artificial-intelligence-including-machine-learning",
-      "originalUrl": "https://insurancenewsnet.com/oarticle/request-for-information-and-comment-on-financial-institutions-use-of-artificial-intelligence-including-machine-learning",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://insurancenewsnet.com/wp-content/uploads/2021/06/INN-Social-Share.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-24T01:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Insurancenewsnet.com",
-        "domain": "insurancenewsnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

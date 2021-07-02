@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/esmtberlin/2021/06/29/to-win-with-ai-fo
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/esmtberlin/2021/06/29/to-win-with-ai-focus-on-our-humanity/amp/"
 type: article
 quality: 87
-heat: 117
+heat: 127
 published: true
 
 provider:
@@ -45,6 +45,20 @@ related:
       - url: "https://www.zdnet.com/a/hub/i/2021/06/30/0d5a3bde-72e0-46e3-b1b1-0b157d2c0036/michael-wu.jpg"
         width: 449
         height: 449
+        isCached: true
+  - title: "Screening for dementia with artificial intelligence"
+    excerpt: "Researchers are developing AI tools to detect more subtle shifts in speech and behavior earlier and more reliably than human observers, allowing for earlier diagnoses and treatment for Alzheimer's patients."
+    publishedDateTime: 2021-07-01T04:00:00Z
+    webUrl: "https://www.eurekalert.org/pub_releases/2021-07/msu-sfd070121.php"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 39
+    images:
+      - url: "https://www.eurekalert.org/socialshare/EurekAlert-bluebg_Twitter_1200x675.jpg"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Enhance Your Career with Artificial Intelligence Course"
     excerpt: "Artificial intelligence is considered to be one of the most disruptive technologies that exist today. Know about Artificial Intelligence course here."

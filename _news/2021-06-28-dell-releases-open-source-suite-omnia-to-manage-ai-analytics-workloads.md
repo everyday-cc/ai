@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/06/28/dell-releases-open-source-suite-o
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/28/dell-releases-open-source-suite-omnia-to-manage-ai-analytics-workloads/amp/"
 type: article
 quality: 87
-heat: 177
+heat: 167
 published: true
 
 provider:
@@ -117,20 +117,6 @@ related:
       - url: "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2021/06/magic_hat_shutterstock_vchal.jpg"
         width: 1000
         height: 667
-        isCached: true
-  - title: "Dell debuts open-source Omnia software to automate deployment of converged AI, data and HPC workloads"
-    excerpt: "Dell debuts open-source Omnia software to automate deployment of converged AI, data and HPC workloads - SiliconANGLE"
-    publishedDateTime: 2021-06-28T04:01:00Z
-    webUrl: "https://siliconangle.com/2021/06/28/dell-debuts-open-source-omnia-software-automate-deployment-converged-ai-data-hpc-workloads/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 22
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/06/Omnia.png"
-        width: 1048
-        height: 541
         isCached: true
   - title: "P&R Dental Strategies to Present on Artificial Intelligence and Future of Dental Analytics at NADP CONVERGE 2021"
     excerpt: "P&R Dental Strategies, LLC (P&R), the premier dental insights company delivering customized, actionable business intelligence to support a variety of dental payer objectives, today announced their plan to present at the National Association of"

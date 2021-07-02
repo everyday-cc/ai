@@ -2,6 +2,58 @@
   "page": 31,
   "value": [
     {
+      "path": "_news/2021-06-09-element-adds-aws-integration-for-industrial-sensor-data.md",
+      "title": "Element adds AWS integration for industrial sensor data",
+      "excerpt": "Element is launching an API integration between its Element Unify software and AWS IoT SiteWise to contextualize industrial sensor data.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/06/08/element-integrates-aws-to-contextualize-industrial-sensor-data/",
+      "originalUrl": "https://venturebeat.com/2021/06/08/element-integrates-aws-to-contextualize-industrial-sensor-data/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/02/GettyImages-1212287865.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/06/08/element-integrates-aws-to-contextualize-industrial-sensor-data/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/08/element-integrates-aws-to-contextualize-industrial-sensor-data/amp/",
+      "publishedDateTime": "2021-06-08T15:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-09-ai-powered-transcription-startup-verbit-raises-157m.md",
       "title": "AI-powered transcription startup Verbit raises $157M",
       "excerpt": "Verbit, a startup offering AI-powered transcription services, has raised $157 million in venture capital at an over $1 billion valuation.",
@@ -1073,58 +1125,6 @@
         "name": "TMCnet",
         "domain": "tmcnet.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-08-using-ai-to-block-unconscious-bias-widen-the-talent-pool-and-increase-diversity.md",
-      "title": "Using AI To Block Unconscious Bias, Widen The Talent Pool And Increase Diversity",
-      "excerpt": "DEI is the top talent management priority for CEOs. As more organizations prioritize diversity, the challenge is figuring out how to achieve it. For starters, how can we block unconscious bias in the hiring process?",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/06/08/using-ai-to-block-unconscious-bias-widen-the-talent-pool-and-increase-diversity/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/06/08/using-ai-to-block-unconscious-bias-widen-the-talent-pool-and-increase-diversity/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60be5936c3c83c5a7cf355c9%2F0x0.jpg",
-          "width": 1200,
-          "height": 796,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/06/08/using-ai-to-block-unconscious-bias-widen-the-talent-pool-and-increase-diversity/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/06/08/using-ai-to-block-unconscious-bias-widen-the-talent-pool-and-increase-diversity/amp/",
-      "publishedDateTime": "2021-06-08T06:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/ibm-brings-ai-powe
 webUrl: "https://markets.businessinsider.com/news/stocks/ibm-brings-ai-powered-automation-software-to-networking-to-help-simplify-broad-adoption-of-5g-1030557176"
 type: article
 quality: 58
-heat: 108
+heat: 98
 published: true
 
 provider:
@@ -81,20 +81,6 @@ related:
       - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
         width: 640
         height: 480
-        isCached: true
-  - title: "IBM’s newest Cloud Pak offering brings automation to 5G network deployments"
-    excerpt: "G networks faster and more easily. The offering was announced at the Mobile World Congress 2021 event in Barcelona, where IBM also revealed it will partner with some of the world’s leading telecommunications firms in areas relating to 5G,"
-    publishedDateTime: 2021-06-28T04:01:00Z
-    webUrl: "https://siliconangle.com/2021/06/28/ibms-newest-cloud-pak-offering-brings-automation-5g-network-deployments/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 22
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/06/5g-vran-service.jpg"
-        width: 1400
-        height: 788
         isCached: true
 
 secured: "9CRM6GUI8CNJz0m3CDH8dZtSJ4F+e14vGIdhbxMzHY0+QmwDR3NwtuFim+FvxS/DahNeOfJ9mYF3DBlyWLvFPqwjMR3rghurNVtKwoEFQ2OBWTodSrZ017YuVfU+0a7tCiComSXodaQolmBX8xTeKTX+CBX9zuuEE7nJkCXW/YDIxG2Q0FCTnHHOcrUOho4dOA4LCMOPZslVpdaFsY9QipkZe9wo9NuTxaAv17CDZkZjlHtrg87thir2y52TSWBUi5Cq2M5JIxfRBWuB5JCyGmd2X1BcXfWTHdeHp8AHkNV3i02CMH6BVZHDOUneF5CYfNKh86lTcQQf+fAfrTVMY1EQIJtLLBwU+idv2hkbppOGm/8Rj9whhDSLFbmwFd2UqQPABkxiyt5wjEY73IsikAJnUi9vtDdgKbhFlc5wJu015nuYB2QwcoPtWrseIdAMQWAP7yhmVjbMKSBOjmH2Q4yt9tzR4lKxgsmkaIsrWVfApx/+5I7zX15nzcDuMWonBGuADzHrDIvs2rC0nZcgrw==;xBee95x8RO/xQqomrlGJYA=="

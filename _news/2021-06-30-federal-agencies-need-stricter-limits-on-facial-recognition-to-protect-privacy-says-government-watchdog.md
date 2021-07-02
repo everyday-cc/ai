@@ -75,6 +75,22 @@ related:
         width: 1120
         height: 630
         isCached: true
+  - title: "Feds now using facial recognition at airport immigration"
+    excerpt: "When travelers arrive at (the Guam airport) on an international flight, they will pause for a photo at the primary inspection point.\""
+    publishedDateTime: 2021-06-28T05:32:00Z
+    webUrl: "https://www.guampdn.com/story/news/2021/06/28/feds-now-using-facial-recognition-airport-immigration/5369053001/"
+    ampWebUrl: "https://amp.guampdn.com/amp/5369053001"
+    cdnAmpWebUrl: "https://amp-guampdn-com.cdn.ampproject.org/c/s/amp.guampdn.com/amp/5369053001"
+    type: article
+    provider:
+      name: Pacific Daily News
+      domain: guampdn.com
+    quality: 74
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2019/07/18/PGUA/eee12e18-b990-4312-89db-b43879696ed2-Airport_terminal_2.JPG?auto=webp&crop=4271,2403,x0,y283&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Maine passes ‘strongest’ facial recognition restrictions in the country"
     excerpt: "Maine passed regulations surrounding government use of facial recognition that is being hailed as the \"strongest\" statewide rules in the US."
     publishedDateTime: 2021-06-30T15:42:00Z
@@ -251,6 +267,31 @@ related:
       - url: "https://bdn-data.s3.amazonaws.com/uploads/2021/06/Optimized-Amazon-Police-Facial-Recognition.jpg"
         width: 1200
         height: 900
+        isCached: true
+  - title: "Myrtle Beach Police Use Controversial Facial Recognition Tool"
+    excerpt: "The South Carolina police department has been using the facial recognition software, Clearview AI, for more than a year. Law enforcement officials said that the department has ultimately decided not to use the service."
+    publishedDateTime: 2021-06-30T21:26:00Z
+    webUrl: "https://www.governing.com/security/myrtle-beach-police-use-controversial-facial-recognition-tool"
+    ampWebUrl: "https://www.governing.com/security/myrtle-beach-police-use-controversial-facial-recognition-tool?_amp=true"
+    cdnAmpWebUrl: "https://www-governing-com.cdn.ampproject.org/c/s/www.governing.com/security/myrtle-beach-police-use-controversial-facial-recognition-tool?_amp=true"
+    type: article
+    provider:
+      name: Governing
+      domain: governing.com
+    quality: 41
+  - title: "Feds Told to Better Manage Facial Recognition, Amid Privacy Concerns"
+    excerpt: "A GAO report finds government agencies are using the technology regularly in criminal investigations and to identify travelers, but need stricter management to protect people’s privacy and avoid inacc"
+    publishedDateTime: 2021-06-30T12:39:00Z
+    webUrl: "https://threatpost.com/feds-manage-facial-recognition-privacy-concerns/167419/"
+    type: article
+    provider:
+      name: Threat Post
+      domain: threatpost.com
+    quality: 39
+    images:
+      - url: "https://media.threatpost.com/wp-content/uploads/sites/103/2020/08/05143851/deepfake-fireeye.jpg"
+        width: 800
+        height: 533
         isCached: true
   - title: "Federal agencies need stricter limits on facial recognition to protect privacy, government watchdog says"
     excerpt: "Some federal agencies had their own facial recognition databases, but most used private companies like Clearview AI and Amazon, which offers a tool called Rekognition. Many couldn't say for sure which systems they had used."

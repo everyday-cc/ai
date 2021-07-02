@@ -2,6 +2,49 @@
   "page": 37,
   "value": [
     {
+      "path": "_news/2021-06-04-international-business-machines-corporation-ibm-ceo-arvind-krishna-presents-at-annual-bernstein-strategic-decisions-conference-transcript.md",
+      "title": "International Business Machines Corporation (IBM) CEO Arvind Krishna Presents at Annual Bernstein Strategic Decisions Conference (Transcript)",
+      "excerpt": "Annual Bernstein Strategic Decisions Conference June 03, 2021 01:30 PM ET Company Participants Arvind Krishna - Chairman &",
+      "sourceUrl": null,
+      "webUrl": "https://seekingalpha.com/article/4432990-international-business-machines-corporation-ibm-ceo-arvind-krishna-presents-annual-bernstein",
+      "originalUrl": "https://seekingalpha.com/article/4432990-international-business-machines-corporation-ibm-ceo-arvind-krishna-presents-annual-bernstein",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
+          "width": 1200,
+          "height": 1200,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://seekingalpha.com/amp/article/4432990-international-business-machines-corporation-ibm-ceo-arvind-krishna-presents-annual-bernstein",
+      "cdnAmpWebUrl": "https://seekingalpha-com.cdn.ampproject.org/c/s/seekingalpha.com/amp/article/4432990-international-business-machines-corporation-ibm-ceo-arvind-krishna-presents-annual-bernstein",
+      "publishedDateTime": "2021-06-03T15:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Seeking Alpha",
+        "domain": "seekingalpha.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-04-tesla-turns-on-facial-recognition-kia-adds-in-car-fingerprint-biometrics.md",
       "title": "Tesla turns on facial recognition, Kia adds in-car fingerprint biometrics",
       "excerpt": "Tesla using facial recognition to ensure driver is seated and alert, Kia K9 features fingerprint authentication, more automakers add biometric capabilities.",
@@ -1132,51 +1175,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-03-deepracer-womens-league-aws-announces-winners-of-ml-for-women-initiative.md",
-      "title": "DeepRacer Women’s League: AWS announces winners of ML for women initiative",
-      "excerpt": "The initiative introduces machine learning to women students, allowing them to explore and apply ML skills in a virtual racing league.",
-      "sourceUrl": null,
-      "webUrl": "https://www.dqindia.com/deepracer-womens-league-aws-announces-winners-ml-women-initiative/",
-      "originalUrl": "https://www.dqindia.com/deepracer-womens-league-aws-announces-winners-ml-women-initiative/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 126,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.dqindia.com/wp-content/uploads/2019/11/artificial-2970158_1280_opt.jpg",
-          "width": 625,
-          "height": 294,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.dqindia.com/deepracer-womens-league-aws-announces-winners-ml-women-initiative/amp/",
-      "cdnAmpWebUrl": "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/deepracer-womens-league-aws-announces-winners-ml-women-initiative/amp/",
-      "publishedDateTime": "2021-06-03T08:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Dataquest",
-        "domain": "dqindia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Machine Learning",
-        "AI in Autos"
       ]
     }
   ],

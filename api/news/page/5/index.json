@@ -2,6 +2,49 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-06-29-pixelmator-pro-gains-a-crop-tool-powered-by-machine-learning-and-more.md",
+      "title": "Pixelmator Pro gains a crop tool powered by machine learning, and more",
+      "excerpt": "Pixelmator Pro has been updated with support for a new machine learning-powered crop tool and more. The new update is free for existing Pixelmator users. Pixelmator Pro has a new update in the App Store and it's one that you won't want to miss out on.",
+      "sourceUrl": null,
+      "webUrl": "https://www.imore.com/pixelmator-pro-gains-crop-tool-powered-machine-learning-and-more",
+      "originalUrl": "https://www.imore.com/pixelmator-pro-gains-crop-tool-powered-machine-learning-and-more",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2021/05/pixelmator-pro-on-macbook-pro.jpg",
+          "width": 800,
+          "height": 468,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.imore.com/pixelmator-pro-gains-crop-tool-powered-machine-learning-and-more?amp",
+      "cdnAmpWebUrl": "https://www-imore-com.cdn.ampproject.org/c/s/www.imore.com/pixelmator-pro-gains-crop-tool-powered-machine-learning-and-more?amp",
+      "publishedDateTime": "2021-06-29T05:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "iMore",
+        "domain": "imore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-29-graphic-processing-unit-gpu-market-to-grow-at-a-cagr-of-334-by-2027.md",
       "title": "Graphic Processing Unit (GPU) Market to Grow at a CAGR of 33.4% by 2027",
       "excerpt": "Market size is poised to reach USD 198.77 Billion by 2027 and is expected to expand at a compound annual growth rate (CAGR) of 33.4% from 2020 to 2027. The report provides the overall revenue of the global Graphic Processing Unit (GPU) Market from 2016 to 2027,",
@@ -115,7 +158,7 @@
       "originalUrl": "https://www.forbes.com/sites/esmtberlin/2021/06/29/to-win-with-ai-focus-on-our-humanity/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 117,
+      "heat": 127,
       "tags": null,
       "images": [
         {
@@ -1148,7 +1191,7 @@
       "originalUrl": "https://venturebeat.com/2021/06/28/dell-releases-open-source-suite-omnia-to-manage-ai-analytics-workloads/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 177,
+      "heat": 167,
       "tags": null,
       "images": [
         {
@@ -1187,58 +1230,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-28-pittsburghs-mayor-on-the-citys-startup-community-and-the-difficulty-of-attracting-venture-capital.md",
-      "title": "Pittsburgh’s mayor on the city’s startup community and the difficulty of attracting venture capital",
-      "excerpt": "TechCrunch is turning its spotlight on Pittsburgh, Pennsylvania with interviews, profiles, and an event featuring the outgoing mayor, CMU’s President, and local startups. The Rust Belt city has spent much of the past decade working to shed the image that arrived in the wake of the",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/06/28/pittsburghs-mayor-on-the-citys-startup-community-and-the-difficulty-of-attracting-venture-capital/",
-      "originalUrl": "https://techcrunch.com/2021/06/28/pittsburghs-mayor-on-the-citys-startup-community-and-the-difficulty-of-attracting-venture-capital/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/06/GettyImages-1071999330-yellow.jpg?w=1024",
-          "width": 1024,
-          "height": 684,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/06/28/pittsburghs-mayor-on-the-citys-startup-community-and-the-difficulty-of-attracting-venture-capital/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/06/28/pittsburghs-mayor-on-the-citys-startup-community-and-the-difficulty-of-attracting-venture-capital/amp/",
-      "publishedDateTime": "2021-06-28T08:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

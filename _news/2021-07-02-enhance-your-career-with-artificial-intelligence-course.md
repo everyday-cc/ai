@@ -53,6 +53,20 @@ related:
         width: 449
         height: 449
         isCached: true
+  - title: "Screening for dementia with artificial intelligence"
+    excerpt: "Researchers are developing AI tools to detect more subtle shifts in speech and behavior earlier and more reliably than human observers, allowing for earlier diagnoses and treatment for Alzheimer's patients."
+    publishedDateTime: 2021-07-01T04:00:00Z
+    webUrl: "https://www.eurekalert.org/pub_releases/2021-07/msu-sfd070121.php"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 39
+    images:
+      - url: "https://www.eurekalert.org/socialshare/EurekAlert-bluebg_Twitter_1200x675.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Have you played with Artificial Intelligence"
     excerpt: "You perhaps already know that the reason Artificial Intelligence’s neural networks are better than traditional computer networks and why it can ‘learn’ and ‘grow’ is because it tries to mimic the human brain."
     publishedDateTime: 2021-06-28T11:02:00Z

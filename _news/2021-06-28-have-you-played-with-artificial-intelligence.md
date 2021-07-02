@@ -56,6 +56,20 @@ related:
         width: 449
         height: 449
         isCached: true
+  - title: "Screening for dementia with artificial intelligence"
+    excerpt: "Researchers are developing AI tools to detect more subtle shifts in speech and behavior earlier and more reliably than human observers, allowing for earlier diagnoses and treatment for Alzheimer's patients."
+    publishedDateTime: 2021-07-01T04:00:00Z
+    webUrl: "https://www.eurekalert.org/pub_releases/2021-07/msu-sfd070121.php"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 39
+    images:
+      - url: "https://www.eurekalert.org/socialshare/EurekAlert-bluebg_Twitter_1200x675.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Enhance Your Career with Artificial Intelligence Course"
     excerpt: "Artificial intelligence is considered to be one of the most disruptive technologies that exist today. Know about Artificial Intelligence course here."
     publishedDateTime: 2021-07-02T08:31:00Z

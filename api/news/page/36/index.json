@@ -2,6 +2,59 @@
   "page": 36,
   "value": [
     {
+      "path": "_news/2021-06-04-transcript-ezra-klein-interviews-brian-christian.md",
+      "title": "Transcript: Ezra Klein Interviews Brian Christian",
+      "excerpt": "People hear about Google’s DeepMind. They hear about OpenAI. There’s obviously a lot of work at Tesla. And then, of course, also at Uber on how to do driverless cars. It’s not going to be ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2021/06/04/podcasts/transcript-ezra-klein-interviews-brian-christian.html",
+      "originalUrl": "https://www.nytimes.com/2021/06/04/podcasts/transcript-ezra-klein-interviews-brian-christian.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2021/06/04/podcasts/transcript-ezra-klein-interviews-brian-christian.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/06/04/podcasts/transcript-ezra-klein-interviews-brian-christian.amp.html",
+      "publishedDateTime": "2021-06-04T08:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
       "path": "_news/2021-06-04-how-do-you-travel-abroad-safely-during-the-covid-19-pandemic.md",
       "title": "How do you travel abroad safely during the covid-19 pandemic?",
       "excerpt": "As countries start to open their borders to holiday-makers, confusion remains over which countries are safe, and what entrance requirements are necessary. If you plan to travel soon, here's what you s",
@@ -1110,49 +1163,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-04-international-business-machines-corporation-ibm-ceo-arvind-krishna-presents-at-annual-bernstein-strategic-decisions-conference-transcript.md",
-      "title": "International Business Machines Corporation (IBM) CEO Arvind Krishna Presents at Annual Bernstein Strategic Decisions Conference (Transcript)",
-      "excerpt": "Annual Bernstein Strategic Decisions Conference June 03, 2021 01:30 PM ET Company Participants Arvind Krishna - Chairman &",
-      "sourceUrl": null,
-      "webUrl": "https://seekingalpha.com/article/4432990-international-business-machines-corporation-ibm-ceo-arvind-krishna-presents-annual-bernstein",
-      "originalUrl": "https://seekingalpha.com/article/4432990-international-business-machines-corporation-ibm-ceo-arvind-krishna-presents-annual-bernstein",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
-          "width": 1200,
-          "height": 1200,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://seekingalpha.com/amp/article/4432990-international-business-machines-corporation-ibm-ceo-arvind-krishna-presents-annual-bernstein",
-      "cdnAmpWebUrl": "https://seekingalpha-com.cdn.ampproject.org/c/s/seekingalpha.com/amp/article/4432990-international-business-machines-corporation-ibm-ceo-arvind-krishna-presents-annual-bernstein",
-      "publishedDateTime": "2021-06-03T15:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Seeking Alpha",
-        "domain": "seekingalpha.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
         "AI"
       ]
     }

@@ -265,49 +265,6 @@
       ]
     },
     {
-      "path": "_news/2021-06-29-the-future-of-retail-and-ai.md",
-      "title": "The Future of Retail and AI",
-      "excerpt": "When Amazon Go launched in 2018, critics claimed that it would take more than a decade for autonomous retail to catch on. Fast-forward a couple of years and one global pandemic later, it’s clear that autonomous retail isn’t going anywhere.",
-      "sourceUrl": null,
-      "webUrl": "https://retailtouchpoints.com/topics/retail-store-design/in-store-innovation/the-future-of-retail-and-ai",
-      "originalUrl": "https://retailtouchpoints.com/topics/retail-store-design/in-store-innovation/the-future-of-retail-and-ai",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://retailtouchpoints.com/wp-content/uploads/2020/10/aifi.jpg",
-          "width": 830,
-          "height": 571,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://retailtouchpoints.com/topics/retail-store-design/in-store-innovation/the-future-of-retail-and-ai/amp",
-      "cdnAmpWebUrl": "https://retailtouchpoints-com.cdn.ampproject.org/c/s/retailtouchpoints.com/topics/retail-store-design/in-store-innovation/the-future-of-retail-and-ai/amp",
-      "publishedDateTime": "2021-06-29T08:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Retail TouchPoints",
-        "domain": "retailtouchpoints.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-06-29-graphic-processing-unit-gpu-market-to-grow-at-a-cagr-of-334-by-2027.md",
       "title": "Graphic Processing Unit (GPU) Market to Grow at a CAGR of 33.4% by 2027",
       "excerpt": "Market size is poised to reach USD 198.77 Billion by 2027 and is expected to expand at a compound annual growth rate (CAGR) of 33.4% from 2020 to 2027. The report provides the overall revenue of the global Graphic Processing Unit (GPU) Market from 2016 to 2027,",
@@ -1429,6 +1386,40 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-18-brytlyt-lauded-by-frost-sullivan-for-building-brytlytdb-a-gpu-powered-analytics-platform-that-is-transforming-the-way-companies-leverage.md",
+      "title": "Brytlyt Lauded by Frost & Sullivan for Building BrytlytDB - A GPU-powered Analytics Platform that is Transforming the Way Companies Leverage Data",
+      "excerpt": "Based on its recent analysis of the European graphics processing unit (GPU)-powered database and analytics platform market, Frost & Sullivan recognizes Brytlyt Limited with the 2021 European Technology Innovation Leadership Award for BrytlytDB.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newswiretoday.com/news/175613/",
+      "originalUrl": "https://www.newswiretoday.com/news/175613/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-17T10:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newswire Today",
+        "domain": "newswiretoday.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },

@@ -2,6 +2,108 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-07-03-ais-role-in-the-future-of-data-privacy.md",
+      "title": "AI’s Role In The Future Of Data Privacy",
+      "excerpt": "People’s personal data has been lost, stolen, exposed, and hacked. Unfortunately, this trend isn’t new and can cost companies an average of $3.86 million per breach, not to mention the harm to the users themselves.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/anniebrown/2021/07/02/ais-role-in-the-future-of-data-privacy/",
+      "originalUrl": "https://www.forbes.com/sites/anniebrown/2021/07/02/ais-role-in-the-future-of-data-privacy/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 137,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60df804c62086a5727aa4e5b%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/anniebrown/2021/07/02/ais-role-in-the-future-of-data-privacy/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/anniebrown/2021/07/02/ais-role-in-the-future-of-data-privacy/amp/",
+      "publishedDateTime": "2021-07-02T14:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-03-ai-weekly-who-outlines-steps-for-creating-inclusive-ai-health-care-systems.md",
+      "title": "AI Weekly: WHO outlines steps for creating inclusive AI health care systems",
+      "excerpt": "The World Health Organization (WHO) outlined steps that must be taken for the development of trustworthy AI in health care.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/07/02/ai-weekly-who-outlines-steps-for-creating-inclusive-ai-health-care-systems/",
+      "originalUrl": "https://venturebeat.com/2021/07/02/ai-weekly-who-outlines-steps-for-creating-inclusive-ai-health-care-systems/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/02/How-healthcare-will-become-a-democratized-on-demand-service-01-e1618816638837.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/07/02/ai-weekly-who-outlines-steps-for-creating-inclusive-ai-health-care-systems/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/02/ai-weekly-who-outlines-steps-for-creating-inclusive-ai-health-care-systems/amp/",
+      "publishedDateTime": "2021-07-02T13:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-03-oak-brook-teen-receives-diana-award-for-nonprofit-focusing-on-ai-education.md",
       "title": "Oak Brook teen receives Diana Award for nonprofit focusing on AI education",
       "excerpt": "Jui Khankari’s nonprofit, AInspire, runs entirely on donations and services over 7,500 students in 58 countries with virtual workshops, videos and educational curriculum the 17-year-old girl created.",
@@ -753,7 +855,7 @@
       "originalUrl": "https://www.cnet.com/news/maine-just-enacted-the-countrys-toughest-restrictions-on-facial-recognition/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 261,
+      "heat": 291,
       "tags": null,
       "images": [
         {
@@ -1131,101 +1233,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-01-accel-robotics-claims-successful-deployment-in-san-diego.md",
-      "title": "Accel Robotics Claims Successful Deployment In San Diego",
-      "excerpt": "San Diego-based Accel Robotics, which develops automated checkout systems designed for retail stores, claims it is seeing growth and success at its first rollout of \"Valet Market\", an automated store its has deployed ata a luxury,",
-      "sourceUrl": null,
-      "webUrl": "https://www.socaltech.com/accel_robotics_claims_successful_deployment_in_san_diego/s-0081447.html",
-      "originalUrl": "https://www.socaltech.com/accel_robotics_claims_successful_deployment_in_san_diego/s-0081447.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.socaltech.com/images/story/valetmarket21b.jpg",
-          "width": 330,
-          "height": 220,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-01T07:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SocalTech",
-        "domain": "socaltech.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-01-study-finds-that-few-major-ai-research-papers-consider-negative-impacts.md",
-      "title": "Study finds that few major AI research papers consider negative impacts",
-      "excerpt": "A new research paper finds that values in the AI research field are centered around performance rather than inclusiveness.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/07/01/study-finds-that-few-major-ai-research-papers-consider-negative-impacts/",
-      "originalUrl": "https://venturebeat.com/2021/07/01/study-finds-that-few-major-ai-research-papers-consider-negative-impacts/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/07/ml-perf-e1595989974532.jpg?w=1200&strip=all",
-          "width": 1198,
-          "height": 601,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/07/01/study-finds-that-few-major-ai-research-papers-consider-negative-impacts/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/01/study-finds-that-few-major-ai-research-papers-consider-negative-impacts/amp/",
-      "publishedDateTime": "2021-07-01T07:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
         "AI"
       ]
     }

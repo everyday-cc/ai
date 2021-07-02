@@ -2,6 +2,101 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-07-01-accel-robotics-claims-successful-deployment-in-san-diego.md",
+      "title": "Accel Robotics Claims Successful Deployment In San Diego",
+      "excerpt": "San Diego-based Accel Robotics, which develops automated checkout systems designed for retail stores, claims it is seeing growth and success at its first rollout of \"Valet Market\", an automated store its has deployed ata a luxury,",
+      "sourceUrl": null,
+      "webUrl": "https://www.socaltech.com/accel_robotics_claims_successful_deployment_in_san_diego/s-0081447.html",
+      "originalUrl": "https://www.socaltech.com/accel_robotics_claims_successful_deployment_in_san_diego/s-0081447.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.socaltech.com/images/story/valetmarket21b.jpg",
+          "width": 330,
+          "height": 220,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-01T07:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SocalTech",
+        "domain": "socaltech.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-01-study-finds-that-few-major-ai-research-papers-consider-negative-impacts.md",
+      "title": "Study finds that few major AI research papers consider negative impacts",
+      "excerpt": "A new research paper finds that values in the AI research field are centered around performance rather than inclusiveness.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/07/01/study-finds-that-few-major-ai-research-papers-consider-negative-impacts/",
+      "originalUrl": "https://venturebeat.com/2021/07/01/study-finds-that-few-major-ai-research-papers-consider-negative-impacts/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/07/ml-perf-e1595989974532.jpg?w=1200&strip=all",
+          "width": 1198,
+          "height": 601,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/07/01/study-finds-that-few-major-ai-research-papers-consider-negative-impacts/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/01/study-finds-that-few-major-ai-research-papers-consider-negative-impacts/amp/",
+      "publishedDateTime": "2021-07-01T07:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-01-att-takes-a-giant-5g-leap-to-the-public-cloud-with-azure.md",
       "title": "AT&T takes a giant 5G leap to the public cloud with Azure",
       "excerpt": "Giant US operator is handing its 5G core to Microsoft AzureThe public cloud player adopts AT&T’s Network Cloud and tech staffAzure will then further develop",
@@ -143,49 +238,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-01-calls-for-biden-to-ban-facial-recognition-grow-after-gao-reports-findings.md",
-      "title": "Calls for Biden to ban facial recognition grow after GAO report’s findings",
-      "excerpt": "The findings of a recent facial recognition report by the GAO are renewing previous calls for President Joe Biden to ban the technology.",
-      "sourceUrl": null,
-      "webUrl": "https://www.dailydot.com/debug/facial-recognition-gao-biden/",
-      "originalUrl": "https://www.dailydot.com/debug/facial-recognition-gao-biden/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://uploads.dailydot.com/2021/06/biden-facial-recognition.jpg?auto=compress%2Cformat&ixlib=php-3.3.0",
-          "width": 2000,
-          "height": 1000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.dailydot.com/debug/facial-recognition-gao-biden/?amp",
-      "cdnAmpWebUrl": "https://www-dailydot-com.cdn.ampproject.org/c/s/www.dailydot.com/debug/facial-recognition-gao-biden/?amp",
-      "publishedDateTime": "2021-07-01T06:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Daily Dot",
-        "domain": "dailydot.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     },
@@ -795,7 +847,7 @@
       "originalUrl": "https://www.buzzfeednews.com/article/carolinehaskins1/gao-facial-recognition-report-clearview-federal-agencies",
       "featuredContent": null,
       "highlight": null,
-      "heat": 115,
+      "heat": 75,
       "tags": null,
       "images": [
         {
@@ -1185,49 +1237,6 @@
       ],
       "topics": [
         "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-01-machine-learning-helps-in-predicting-when-immunotherapy-will-be-effective.md",
-      "title": "Machine learning helps in predicting when immunotherapy will be effective",
-      "excerpt": "When it comes to defense, the body relies on attack thanks to the lymphatic and immune systems. The immune system is like the body's own personal police force as it hunts down and eliminates pathogenic villains.",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2021-06-machine-immunotherapy-effective.html",
-      "originalUrl": "https://medicalxpress.com/news/2021-06-machine-immunotherapy-effective.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 98,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2019/1-tumor.jpg",
-          "width": 1920,
-          "height": 1920,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2021-06-machine-immunotherapy-effective.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-06-machine-immunotherapy-effective.amp",
-      "publishedDateTime": "2021-06-30T10:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

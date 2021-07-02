@@ -2,6 +2,49 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-05-19-blue-prism-announces-comprehensive-new-enterprise-contact-center-offering-with-amazon-connect.md",
+      "title": "Blue Prism Announces Comprehensive New Enterprise Contact Center Offering with Amazon Connect",
+      "excerpt": "Blue Prism has a complete library of native integrations with Amazon Textract, Amazon Rekognition, and Amazon Comprehend for out-of-the box integrations. Organizations can quickly scale cognitive ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.prnewswire.co.uk/news-releases/blue-prism-announces-comprehensive-new-enterprise-contact-center-offering-with-amazon-connect-861670475.html",
+      "originalUrl": "https://www.prnewswire.co.uk/news-releases/blue-prism-announces-comprehensive-new-enterprise-contact-center-offering-with-amazon-connect-861670475.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1512616/Blue_Prism_Service_Assist.jpg?p=facebook",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-18T16:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PR Newswire",
+        "domain": "prnewswire.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-18-amazon-lookout-for-vision-accelerator-proof-of-concept-poc-kit.md",
       "title": "Amazon Lookout for Vision Accelerator Proof of Concept (PoC) Kit",
       "excerpt": "Amazon Lookout for Vision&nbsp;is a machine learning service that spots defects and anomalies in visual representations using computer vision. With Amazon Lookout for Vision, manufacturing companies can increase quality and reduce operational costs by quickly identifying differences in images of objects",
@@ -1368,49 +1411,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-05-artificial-intelligence-and-customer-experience.md",
-      "title": "Artificial Intelligence and Customer Experience.",
-      "excerpt": "How to improve the customer experience on each digital touchpoint thanks to intelligent and empathic technologies? Neosperience – together with AWS – participated in the Artificial Intelligence and Customer Experience event: improving the customer experience on each digital touchpoint thanks to intelligent and empathic technologies.",
-      "sourceUrl": null,
-      "webUrl": "https://www.neosperience.com/webinars/artificial-intelligence-and-customer-experience-empathy-is-the-key/",
-      "originalUrl": "https://www.neosperience.com/webinars/artificial-intelligence-and-customer-experience-empathy-is-the-key/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s3.eu-south-1.amazonaws.com/neosperience.com-media/wp-content/uploads/2020/11/02183410/tim-mossholder-bo3SHP58C3g-unsplash.jpg",
-          "width": 1920,
-          "height": 1280,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-05T08:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Customer",
-        "domain": "neosperience.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

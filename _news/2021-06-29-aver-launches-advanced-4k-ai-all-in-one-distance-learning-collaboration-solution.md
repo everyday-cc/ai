@@ -77,20 +77,6 @@ related:
         width: 640
         height: 480
         isCached: true
-  - title: "IBM’s newest Cloud Pak offering brings automation to 5G network deployments"
-    excerpt: "G networks faster and more easily. The offering was announced at the Mobile World Congress 2021 event in Barcelona, where IBM also revealed it will partner with some of the world’s leading telecommunications firms in areas relating to 5G,"
-    publishedDateTime: 2021-06-28T04:01:00Z
-    webUrl: "https://siliconangle.com/2021/06/28/ibms-newest-cloud-pak-offering-brings-automation-5g-network-deployments/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 22
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/06/5g-vran-service.jpg"
-        width: 1400
-        height: 788
-        isCached: true
 
 secured: "p4YG0yF61KVXDPImF4pny4Bm4xJumGAzcbln/VRcBz+N2/o6hLFyzvjAtyhoefi+shvf8QHpNXT6JiXTbBn2TNAhIjZlpbkyUNt7P1zQj+tre0Vg0u7CWbIgtVRfSqvzsJMNovn4QTz2JNAQF6m51JUYu36a0CmG+xHkj+8L0dV/WjiCRViW6WMjI9l2rvphVkC3nuvM/MSkkdv/hsN+e2wvZm733aq9m571VSoJkObsilxi/TKT4N3hEe+d1CcvZa6nxOhbzvQTuf6jSfT14cbb342eDeCwYL+fGBB5KXWVl26Rb1UogXJm3963SMo+udljt50t8VcLul2/4E6wLtX06xnQdguwVpBd8SMaNaQ=;5d9iZ9aJgSwKEoQdjTp1bw=="
 ---

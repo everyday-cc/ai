@@ -59,6 +59,20 @@ related:
         width: 777
         height: 520
         isCached: true
+  - title: "NASA’s self-driving Mars Rover begins search for signs of ancient life"
+    excerpt: "NASA’s self-driving six-wheeled robot on Mars — the Perseverance rover — is set to start an epic journey across a crater floor to seek signs of ancient life, the US space agency said on Friday. The rover,"
+    publishedDateTime: 2021-07-02T19:06:00Z
+    webUrl: "https://theshillongtimes.com/2021/07/03/nasas-self-driving-mars-rover-begins-search-for-signs-of-ancient-life/"
+    type: article
+    provider:
+      name: Shillong Times
+      domain: theshillongtimes.com
+    quality: 24
+    images:
+      - url: "https://theshillongtimes.com/wp-content/uploads/2017/06/NASA.jpg"
+        width: 960
+        height: 640
+        isCached: true
 
 secured: "vSuAIZQ+QRtozZpguOzWjF17r49ACFLOTLXfTXAR8voSo+nIMpYngbWMiVnQNIYN6kjJlRFwdZhPtX0x/aF9fTIikeC+hKFG/YU8SppOv7NYy75Wd/oEQ0ap/5pvX7BqmvCMWbzkiWEPBE8oOQvo8dHEWAHdSO+OIoYXNoCeXbo+oA/9VuBJ+sYgiBV45blLMLgN1Lqv82RWmAdc/z20C4wc1hSjDJF8Ms+Ivz7zga8S55AoT0MiVtBnxukwTiL3vvL8uoccd/fK/otdq5i+ZpxHjUiLi9d28sWQNl9DoQRBuJhofpBqsECGJY4Xv2qFckb6Kr1qeY//Gk7CTY5tcLEYpXsRIJXpAxM9nLaTadE=;iafQGsUwjzu9XLGD6cIYtA=="
 ---

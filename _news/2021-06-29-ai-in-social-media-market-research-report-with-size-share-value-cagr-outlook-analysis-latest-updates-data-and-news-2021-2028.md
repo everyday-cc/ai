@@ -258,6 +258,17 @@ related:
       name: ReportsnReports
       domain: reportsnreports.com
     quality: 4
+  - title: "Global Facial Recognition Market SWOT Analysis, Key Indicators, Forecast 2027 : NEC Corporation, Safran Group, Cognitec Systems GmbH, Keylemon"
+    excerpt: "Facial Recognition The report on the Global Facial Recognition Market Research Report Covers Present Data and Deep Analysis And Forecast 2021 2027 market published by Zion Market Research provides a close watch on current market trends opportunities and revenue growth"
+    publishedDateTime: 2021-06-29T12:02:00Z
+    webUrl: "https://www.openpr.com/news/2316574/global-facial-recognition-market-swot-analysis-key"
+    ampWebUrl: "https://www.openpr.com/amp/2316574/global-facial-recognition-market-swot-analysis-key"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2316574/global-facial-recognition-market-swot-analysis-key"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 3
   - title: "Global Artificial Intelligence (AI) in Medical Diagnostics Market 2021 by Company, Regions, Type and Application, Forecast to 2026"
     excerpt: "Pages Report] Check for Discount on Global Artificial Intelligence (AI) in Medical Diagnostics Market 2021 by Company, Regions, Type and Application, Forecast to 2026 report by Global Info Research. The Artificial Intelligence (AI) in Medical Diagnostics market report"
     publishedDateTime: 2021-06-29T08:34:00Z
@@ -271,6 +282,15 @@ related:
     excerpt: "Pages Report] Check for Discount on Global Artificial Intelligence For IT Operations Platform Market Size, Status and Forecast 2021-2027 report by QYResearch Group. Market Analysis and Insights: Global Artificial Intelligence For IT"
     publishedDateTime: 2021-06-30T07:49:00Z
     webUrl: "https://www.reportsnreports.com/reports/4624374-global-artificial-intelligence-for-it-operations-platform-market-size-status-and-forecast-2021-2027.html"
+    type: article
+    provider:
+      name: ReportsnReports
+      domain: reportsnreports.com
+    quality: 2
+  - title: "Global Facial Recognition Technology in the Financial Services Market Size, Status and Forecast 2021-2027"
+    excerpt: "Pages Report] Check for Discount on Global Facial Recognition Technology in the Financial Services Market Size, Status and Forecast 2021-2027 report by QYResearch Group. The use of AI has grown exponentially in recent years,"
+    publishedDateTime: 2021-06-30T07:43:00Z
+    webUrl: "https://www.reportsnreports.com/reports/4624723-global-facial-recognition-technology-in-the-financial-services-market-size-status-and-forecast-2021-2027.html"
     type: article
     provider:
       name: ReportsnReports

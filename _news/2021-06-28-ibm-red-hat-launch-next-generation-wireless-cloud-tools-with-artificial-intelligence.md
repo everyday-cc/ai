@@ -66,7 +66,7 @@ related:
     provider:
       name: Datamation
       domain: datamation.com
-    quality: 37
+    quality: 39
     images:
       - url: "https://www.datamation.com/wp-content/uploads/2021/04/artificial-intelligence-5-scaled.jpeg"
         width: 2560

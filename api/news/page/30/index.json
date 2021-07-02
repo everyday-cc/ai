@@ -2,6 +2,57 @@
   "page": 30,
   "value": [
     {
+      "path": "_news/2021-06-09-anti-money-laundering-startup-intellewings-raises-100000-in-seed-round.md",
+      "title": "Anti-money Laundering Startup IntelleWings Raises $100,000 In Seed Round",
+      "excerpt": "The Panchkula-based startup will be utilizing the funds to advance its product, EYE, a product based on machine learning to help regulatory firms with anti-money laundering compliance needs",
+      "sourceUrl": null,
+      "webUrl": "https://www.entrepreneur.com/article/374119",
+      "originalUrl": "https://www.entrepreneur.com/article/374119",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/1623251717-dollar-2891817-1920.jpg?width=600&crop=16:9",
+          "width": 600,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.entrepreneur.com/amphtml/374119",
+      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/374119",
+      "publishedDateTime": "2021-06-09T08:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-09-google-used-reinforcement-learning-to-design-next-gen-ai-accelerator-chips.md",
       "title": "Google used reinforcement learning to design next-gen AI accelerator chips",
       "excerpt": "In a paper published in the journal Nature, Google detailed its method for creating an AI system capable of designing computer chips.",
@@ -1087,58 +1138,6 @@
       ],
       "topics": [
         "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-09-element-adds-aws-integration-for-industrial-sensor-data.md",
-      "title": "Element adds AWS integration for industrial sensor data",
-      "excerpt": "Element is launching an API integration between its Element Unify software and AWS IoT SiteWise to contextualize industrial sensor data.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/06/08/element-integrates-aws-to-contextualize-industrial-sensor-data/",
-      "originalUrl": "https://venturebeat.com/2021/06/08/element-integrates-aws-to-contextualize-industrial-sensor-data/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/02/GettyImages-1212287865.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/06/08/element-integrates-aws-to-contextualize-industrial-sensor-data/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/08/element-integrates-aws-to-contextualize-industrial-sensor-data/amp/",
-      "publishedDateTime": "2021-06-08T15:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     }

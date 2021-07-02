@@ -2,6 +2,58 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2021-06-28-pittsburghs-mayor-on-the-citys-startup-community-and-the-difficulty-of-attracting-venture-capital.md",
+      "title": "Pittsburgh’s mayor on the city’s startup community and the difficulty of attracting venture capital",
+      "excerpt": "TechCrunch is turning its spotlight on Pittsburgh, Pennsylvania with interviews, profiles, and an event featuring the outgoing mayor, CMU’s President, and local startups. The Rust Belt city has spent much of the past decade working to shed the image that arrived in the wake of the",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/06/28/pittsburghs-mayor-on-the-citys-startup-community-and-the-difficulty-of-attracting-venture-capital/",
+      "originalUrl": "https://techcrunch.com/2021/06/28/pittsburghs-mayor-on-the-citys-startup-community-and-the-difficulty-of-attracting-venture-capital/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/06/GettyImages-1071999330-yellow.jpg?w=1024",
+          "width": 1024,
+          "height": 684,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/06/28/pittsburghs-mayor-on-the-citys-startup-community-and-the-difficulty-of-attracting-venture-capital/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/06/28/pittsburghs-mayor-on-the-citys-startup-community-and-the-difficulty-of-attracting-venture-capital/amp/",
+      "publishedDateTime": "2021-06-28T08:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-28-greensprings-school-to-integrate-robotics-artificial-intelligence-into-curriculum.md",
       "title": "Greensprings School to Integrate Robotics, Artificial Intelligence into Curriculum",
       "excerpt": "The management of Greensprings School has announced that the school will start offering robotics and artificial intelligence (AI) to its secondary school students. This announcement",
@@ -463,7 +515,7 @@
       "originalUrl": "https://markets.businessinsider.com/news/stocks/ibm-brings-ai-powered-automation-software-to-networking-to-help-simplify-broad-adoption-of-5g-1030557176",
       "featuredContent": null,
       "highlight": null,
-      "heat": 108,
+      "heat": 98,
       "tags": null,
       "images": [
         {
@@ -515,7 +567,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/facial-recognition-market-by-size-growth-opportunity-and-forecast-to-2028-2021-06-28",
       "featuredContent": null,
       "highlight": null,
-      "heat": 307,
+      "heat": 327,
       "tags": null,
       "images": [
         {
@@ -1110,49 +1162,6 @@
         "Facebook AI",
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-27-alat-by-wema-charting-roadmap-for-digital-banks-fintech.md",
-      "title": "ALAT by Wema: Charting roadmap for digital banks, fintech",
-      "excerpt": "However, what young people have today that we didn’t have before is the abundance of choice fueled by the rapid penetration of the Internet and digital technology. These two factors have introduced new dimensions to how we do business and make money.",
-      "sourceUrl": null,
-      "webUrl": "https://punchng.com/alat-by-wema-charting-roadmap-for-digital-banks-fintech/",
-      "originalUrl": "https://punchng.com/alat-by-wema-charting-roadmap-for-digital-banks-fintech/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.punchng.com/wp-content/uploads/2018/09/14183622/20180707-DSC_0079new.jpg",
-          "width": 800,
-          "height": 482,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://punchng.com/alat-by-wema-charting-roadmap-for-digital-banks-fintech/?amp",
-      "cdnAmpWebUrl": "https://punchng-com.cdn.ampproject.org/c/s/punchng.com/alat-by-wema-charting-roadmap-for-digital-banks-fintech/?amp",
-      "publishedDateTime": "2021-06-26T17:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Punch Newspapers",
-        "domain": "punchng.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
       ]
     }
   ],
