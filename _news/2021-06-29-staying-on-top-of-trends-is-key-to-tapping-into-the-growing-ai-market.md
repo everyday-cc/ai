@@ -58,6 +58,22 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "Blending Computing with AI & Machine Learning for Low Risk High Returns"
+    excerpt: "Liquidity in real estate may not be immediate, interest in fixed deposits is low in comparison to equities’ returns in the long term."
+    publishedDateTime: 2021-07-03T16:53:00Z
+    webUrl: "https://www.outlookindia.com/outlookmoney/finance/blending-computing-with-ai-machine-learning-for-low-risk-high-returns-7932"
+    ampWebUrl: "https://www.outlookindia.com/outlookmoney/amp/finance/blending-computing-with-ai-machine-learning-for-low-risk-high-returns-7932"
+    cdnAmpWebUrl: "https://www-outlookindia-com.cdn.ampproject.org/c/s/www.outlookindia.com/outlookmoney/amp/finance/blending-computing-with-ai-machine-learning-for-low-risk-high-returns-7932"
+    type: article
+    provider:
+      name: Outlookindia
+      domain: outlookindia.com
+    quality: 74
+    images:
+      - url: "https://www.outlookindia.com/outlookmoney/public/uploads/article/gallery/6d5a7c95791a791b2691fc65cddd0c1f.jpg"
+        width: 1000
+        height: 708
+        isCached: true
   - title: "Rating The Fast And Furious Movies Hottest Vehicles And Gazing Into The Future Toward An Era Of AI Self-Driving Cars"
     excerpt: "Moviegoers are eagerly going to see the latest in the Fast and Furious film franchise, which brings up which of the series cars are the hottest, along with what will happen in the future when we have AI driverless self-driving cars."
     publishedDateTime: 2021-07-02T15:30:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/global-ai-in-fintech-mar
 webUrl: "https://www.marketwatch.com/press-release/global-ai-in-fintech-market-size-share-to-expand-at-171-cagr-through-2025-2021-07-01"
 type: article
 quality: 66
-heat: 166
+heat: 176
 published: true
 
 provider:
@@ -147,6 +147,15 @@ related:
       name: ReportsnReports
       domain: reportsnreports.com
     quality: 9
+  - title: "Global Artificial Intelligence in Drug Discovery Market Size, Status and Forecast 2021-2027"
+    excerpt: "Pages Report] Check for Discount on Global Artificial Intelligence in Drug Discovery Market Size, Status and Forecast 2021-2027 report by QYResearch Group. Market Analysis and Insights: Global Artificial Intelligence in Drug"
+    publishedDateTime: 2021-07-03T08:57:00Z
+    webUrl: "https://www.reportsnreports.com/reports/4635116-global-artificial-intelligence-in-drug-discovery-market-size-status-and-forecast-2021-2027.html"
+    type: article
+    provider:
+      name: ReportsnReports
+      domain: reportsnreports.com
+    quality: 7
   - title: "Global Artificial Intelligence in the Medical Imaging Market Size, Status and Forecast 2021-2027"
     excerpt: "Pages Report] Check for Discount on Global Artificial Intelligence in the Medical Imaging Market Size, Status and Forecast 2021-2027 report by QYResearch Group. Doctors have been using medical imaging techniques to diagnose"
     publishedDateTime: 2021-06-30T07:47:00Z

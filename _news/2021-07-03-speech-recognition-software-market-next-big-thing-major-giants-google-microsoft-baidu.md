@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/speech-recognition-softw
 webUrl: "https://www.marketwatch.com/press-release/speech-recognition-software-market-next-big-thing-major-giants-google-microsoft-baidu-2021-07-03"
 type: article
 quality: 92
-heat: 192
+heat: 182
 published: true
 
 provider:
@@ -61,20 +61,6 @@ related:
       - url: "https://cdn.openpr.com/U/6/U629676321_g.jpg"
         width: 450
         height: 300
-        isCached: true
-  - title: "Machine Learning in IoT Market to see Huge Growth by 2026 | Microsoft, IBM, Google, BigML"
-    excerpt: "The latest study released on the Global Machine Learning in IoT Market by AMA Research evaluates market size, trend, and forecast to 2026. The Machine Learning in IoT market study covers significant research data and proofs to be a handy resource document for managers,"
-    publishedDateTime: 2021-06-28T23:59:00Z
-    webUrl: "https://www.bignewsnetwork.com/news/270092660/machine-learning-in-iot-market-to-see-huge-growth-by-2026--microsoft-ibm-google-bigml"
-    type: article
-    provider:
-      name: Big News Network.com
-      domain: bignewsnetwork.com
-    quality: 62
-    images:
-      - url: "https://cdn.bignewsnetwork.com/cus1624716402900.jpg"
-        width: 630
-        height: 420
         isCached: true
   - title: "Artificial Intelligence (AI) in Real Estate Market Next Big Thing : Major Giants IBM, Cape Analytics, Baidu"
     excerpt: "The latest research on “Global Artificial Intelligence (AI) in Real Estate Report 2021” offered by HTF MI provides a comprehensive investigation into the geographical landscape, industry size along with the revenue estimation of the business."

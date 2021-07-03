@@ -19,6 +19,22 @@ topics:
   - AI
 
 related:
+  - title: "Tesla AI chief explains why self-driving cars don’t need lidar"
+    excerpt: "Tesla also owns and builds the AI chips installed inside its cars. “These chips are specifically designed for the neural networks we want to run for [full self-driving] applications,” Karpathy ..."
+    publishedDateTime: 2021-07-03T17:20:00Z
+    webUrl: "https://venturebeat.com/2021/07/03/tesla-ai-chief-explains-why-self-driving-cars-dont-need-lidar/"
+    ampWebUrl: "https://venturebeat.com/2021/07/03/tesla-ai-chief-explains-why-self-driving-cars-dont-need-lidar/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/03/tesla-ai-chief-explains-why-self-driving-cars-dont-need-lidar/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 106
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2019/02/tesla-model-3-silver-prototype-promo-shot-headlands-e1625177292725.jpg?w=1200&strip=all"
+        width: 1200
+        height: 602
+        isCached: true
   - title: "Can Tesla Really Do Without Radar For Full Self-Driving?"
     excerpt: "Tesla has removed the radar from its Model 3 and Y. Can it really deliver on the promise of self-driving cars with just cameras?"
     publishedDateTime: 2021-07-03T10:00:00Z
@@ -34,36 +50,6 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60df74701b3d17f18787c1b5%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D3450%26cropY1%3D173%26cropY2%3D2114"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Will a self-driving update send Tesla’s share price higher?"
-    excerpt: "Elon Musk (pictured above), CEO of Tesla, has previously said: “[I]t turns out that the only way to solve self-driving is to solve a big part of real-world AI. That is what Tesla is doing, both in hardware and software.” The event is expected to ..."
-    publishedDateTime: 2021-06-30T09:15:00Z
-    webUrl: "https://www.cmcmarkets.com/en/opto/will-a-self-driving-update-send-teslas-share-price-higher"
-    ampWebUrl: "https://www.cmcmarkets.com/en/opto/will-a-self-driving-update-send-teslas-share-price-higher_amp"
-    cdnAmpWebUrl: "https://www-cmcmarkets-com.cdn.ampproject.org/c/s/www.cmcmarkets.com/en/opto/will-a-self-driving-update-send-teslas-share-price-higher_amp"
-    type: article
-    provider:
-      name: CMC Markets
-      domain: cmcmarkets.com
-    quality: 59
-    images:
-      - url: "https://assets.cmcmarkets.com/images/MUSK_2906_medium.jpg"
-        width: 768
-        height: 576
-        isCached: true
-  - title: "Tesla, Waymo, and more must now report all self-driving accidents to the government"
-    excerpt: "It’s no secret that companies working on self-driving tech have had some issues with wrecks. Tesla is obviously the main culprit here, if for nothing more than Elon Musk and having the most recognizable name."
-    publishedDateTime: 2021-06-30T13:35:00Z
-    webUrl: "https://knowtechie.com/tesla-waymo-and-more-must-now-report-all-self-driving-accidents-to-the-government/"
-    type: article
-    provider:
-      name: KnowTechie
-      domain: knowtechie.com
-    quality: 48
-    images:
-      - url: "https://mk0knowtechiec1j578p.kinstacdn.com/wp-content/uploads/2019/11/tesla-model-3-steering-wheel-1000x600.jpg"
-        width: 1000
-        height: 600
         isCached: true
   - title: "Tesla AI Chief Says Self-Driving Cars Don't Need Lidar"
     excerpt: "Tesla's Chief AI Scientist Andrej Karpathy explained why at this year's Computer Vision and Pattern Recognition (CVPR) conference. \"It's unscalable to collect, build, and maintain these high-definition lidar maps,"

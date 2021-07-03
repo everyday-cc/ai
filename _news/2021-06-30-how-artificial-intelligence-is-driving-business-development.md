@@ -55,6 +55,22 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "Blending Computing with AI & Machine Learning for Low Risk High Returns"
+    excerpt: "Liquidity in real estate may not be immediate, interest in fixed deposits is low in comparison to equities’ returns in the long term."
+    publishedDateTime: 2021-07-03T16:53:00Z
+    webUrl: "https://www.outlookindia.com/outlookmoney/finance/blending-computing-with-ai-machine-learning-for-low-risk-high-returns-7932"
+    ampWebUrl: "https://www.outlookindia.com/outlookmoney/amp/finance/blending-computing-with-ai-machine-learning-for-low-risk-high-returns-7932"
+    cdnAmpWebUrl: "https://www-outlookindia-com.cdn.ampproject.org/c/s/www.outlookindia.com/outlookmoney/amp/finance/blending-computing-with-ai-machine-learning-for-low-risk-high-returns-7932"
+    type: article
+    provider:
+      name: Outlookindia
+      domain: outlookindia.com
+    quality: 74
+    images:
+      - url: "https://www.outlookindia.com/outlookmoney/public/uploads/article/gallery/6d5a7c95791a791b2691fc65cddd0c1f.jpg"
+        width: 1000
+        height: 708
+        isCached: true
   - title: "Staying On Top Of Trends Is Key To Tapping Into The Growing AI Market"
     excerpt: "The Covid-19 crisis has accelerated the development of the AI industry. It has also spurred adoption of and investment in artificial intelligence technologies not only from large institutions but also small-business owners."
     publishedDateTime: 2021-06-29T11:20:00Z

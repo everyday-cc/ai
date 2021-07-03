@@ -1,31 +1,29 @@
 ---
 category: news
-title: "Huawei aims on improving travel experience in self driving cars: Patent"
-excerpt: "Huawei has just recently published a new patent, which was related to the control system of autonomous vehicles. While smart cars with self driving technology are already available, the company seeks to improve the overall driving and travel experience."
-publishedDateTime: 2021-06-29T12:51:00Z
-originalUrl: "https://www.gizmochina.com/2021/06/29/huawei-improve-self-driving-car-experience/"
-webUrl: "https://www.gizmochina.com/2021/06/29/huawei-improve-self-driving-car-experience/"
+title: "Blending Computing with AI & Machine Learning for Low Risk High Returns"
+excerpt: "Liquidity in real estate may not be immediate, interest in fixed deposits is low in comparison to equities’ returns in the long term."
+publishedDateTime: 2021-07-03T16:53:00Z
+originalUrl: "https://www.outlookindia.com/outlookmoney/finance/blending-computing-with-ai-machine-learning-for-low-risk-high-returns-7932"
+webUrl: "https://www.outlookindia.com/outlookmoney/finance/blending-computing-with-ai-machine-learning-for-low-risk-high-returns-7932"
+ampWebUrl: "https://www.outlookindia.com/outlookmoney/amp/finance/blending-computing-with-ai-machine-learning-for-low-risk-high-returns-7932"
+cdnAmpWebUrl: "https://www-outlookindia-com.cdn.ampproject.org/c/s/www.outlookindia.com/outlookmoney/amp/finance/blending-computing-with-ai-machine-learning-for-low-risk-high-returns-7932"
 type: article
-quality: 84
+quality: 74
 heat: -1
 published: false
 
 provider:
-  name: Gizmochina
-  domain: gizmochina.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/gizmochina.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Outlookindia
+  domain: outlookindia.com
 
 topics:
-  - AI in Autos
+  - Machine Learning
   - AI
 
 images:
-  - url: "https://www.gizmochina.com/wp-content/uploads/2019/05/self-driving-cars.jpeg"
-    width: 1024
-    height: 683
+  - url: "https://www.outlookindia.com/outlookmoney/public/uploads/article/gallery/6d5a7c95791a791b2691fc65cddd0c1f.jpg"
+    width: 1000
+    height: 708
     isCached: true
 
 related:
@@ -45,21 +43,19 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Blending Computing with AI & Machine Learning for Low Risk High Returns"
-    excerpt: "Liquidity in real estate may not be immediate, interest in fixed deposits is low in comparison to equities’ returns in the long term."
-    publishedDateTime: 2021-07-03T16:53:00Z
-    webUrl: "https://www.outlookindia.com/outlookmoney/finance/blending-computing-with-ai-machine-learning-for-low-risk-high-returns-7932"
-    ampWebUrl: "https://www.outlookindia.com/outlookmoney/amp/finance/blending-computing-with-ai-machine-learning-for-low-risk-high-returns-7932"
-    cdnAmpWebUrl: "https://www-outlookindia-com.cdn.ampproject.org/c/s/www.outlookindia.com/outlookmoney/amp/finance/blending-computing-with-ai-machine-learning-for-low-risk-high-returns-7932"
+  - title: "Huawei aims on improving travel experience in self driving cars: Patent"
+    excerpt: "Huawei has just recently published a new patent, which was related to the control system of autonomous vehicles. While smart cars with self driving technology are already available, the company seeks to improve the overall driving and travel experience."
+    publishedDateTime: 2021-06-29T12:51:00Z
+    webUrl: "https://www.gizmochina.com/2021/06/29/huawei-improve-self-driving-car-experience/"
     type: article
     provider:
-      name: Outlookindia
-      domain: outlookindia.com
-    quality: 74
+      name: Gizmochina
+      domain: gizmochina.com
+    quality: 84
     images:
-      - url: "https://www.outlookindia.com/outlookmoney/public/uploads/article/gallery/6d5a7c95791a791b2691fc65cddd0c1f.jpg"
-        width: 1000
-        height: 708
+      - url: "https://www.gizmochina.com/wp-content/uploads/2019/05/self-driving-cars.jpeg"
+        width: 1024
+        height: 683
         isCached: true
   - title: "Staying On Top Of Trends Is Key To Tapping Into The Growing AI Market"
     excerpt: "The Covid-19 crisis has accelerated the development of the AI industry. It has also spurred adoption of and investment in artificial intelligence technologies not only from large institutions but also small-business owners."
@@ -193,6 +189,6 @@ related:
       domain: tmcnet.com
     quality: 0
 
-secured: "sUiGtwwDaee9y0F2s+KqAU9mUqYWqnExe46whU/lG3jsrnZr+5MAhiAd8m2GQZ3cFL5T1SBY9RZUAsqOnsUillPHKDvhyo/bgOe6bJKThv0HkWMoScqXjfkx4XdOf8nty8XTJVMPCw6lgbegqYq6dhVgJAcJBXVlyNQeHri11Pux8KaRboYSmVDUnh9xtnJVSVplELt3rfCe2jcLirtdtZPpWYHd1BrYD3bpJV/hP17ZfDrtMMIiBmHYF4VJ/Us6MRL4itifIOsdHc64Z7Kt+SNQoLG5KT2+63xMQgvBRNttgen9RfsSaEkAFHY7HjH2vfCNwtKJWdvT7QHgs4+OHcoGgv5+2xrPv224mtiv21xNhWD+5QFs+1X9a6CAyPWjLhgu4x54vv/mQ7tIU7yvZz6JnhU04wN0oyKJzC90NxqeDJcLe57VJsiFBDnmeoPGkgHfLaDWmcHvkiTmoyYp3IvYYeY8viSteyUvnGgZSxVf6OJdJsG6lbNj6mtx87tw6DAgPT9kQgrNvpgpXCC7SA==;O5mGOV7Gwdx/OQvz/ZdCIg=="
+secured: "2Gfil+ouje9g9u2FLN6qJKn90dVhOQdKmXOriLDjii1fEfL3p/Ta9AZlKnW/nJJXzX1tiz4sDf6n6Sw0d8YKII8dCjj9ByJNUG/4C7oSta8badDBxRxONGEvEB+GCBKbZf8A6Qb7i6/V68Bkb6eGuwrKQ+NgOBGAFjZUHal2fPHSQmShrFslqqPuGhXSYTSL1UBCL3AzJHZ8F3SW6OatXuvs5UXWt2UH5NghTNkenfvZqO4pEUjR+cVnDmWtd5a85y9aBT3QTnG0c/M9Q0Hlmlu9v7RXrRJkUL0bDDLlIa7rdvOvIAKa35sQ1PgEWYts2DWsbEBIqQv/VqKt6nycpSB89W5h2aMY46M/9KIgfnA=;Uejf3zJDbrnpKs5sEK95cQ=="
 ---
 

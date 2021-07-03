@@ -150,6 +150,15 @@ related:
       name: ReportsnReports
       domain: reportsnreports.com
     quality: 9
+  - title: "Global Artificial Intelligence in Drug Discovery Market Size, Status and Forecast 2021-2027"
+    excerpt: "Pages Report] Check for Discount on Global Artificial Intelligence in Drug Discovery Market Size, Status and Forecast 2021-2027 report by QYResearch Group. Market Analysis and Insights: Global Artificial Intelligence in Drug"
+    publishedDateTime: 2021-07-03T08:57:00Z
+    webUrl: "https://www.reportsnreports.com/reports/4635116-global-artificial-intelligence-in-drug-discovery-market-size-status-and-forecast-2021-2027.html"
+    type: article
+    provider:
+      name: ReportsnReports
+      domain: reportsnreports.com
+    quality: 7
 
 secured: "TJHdr4Pwae5yx/pge6gfmPqsh/GxgO1bRHgeBPHp7t1J5APcx/KFMmJ0EQtJ9ZrBf/p3HW0t4nZ/bwU7caV3Z5GjjQU7Bbq+tXGHyyibBbGnCaeT7b9PHhQIIiNOOkcqgxtDJQEbrQ+1Sk27HIw9w8vVzcA1aJ9AS914RObLfdSHz0M3NjpIIUGz4v08w+D6n99DHZkOZNzRj1PUBCPi9F1x8dPM9CsoCaNWMbmHmooF9LjmTGmvPEEGSVHhp1KAVTz0wH7E3TSLd/1xpOcHIrX68ahgcjkdj/kx7CVd3YXDJh+TQODFJ9KFYFVfnzAm5UlJVxNqfu/PQDAF6LpwZpUJ2nh4IVWfcA1FQp/nWUg=;F1Ej3+tuBThegAq622CyAA=="
 ---

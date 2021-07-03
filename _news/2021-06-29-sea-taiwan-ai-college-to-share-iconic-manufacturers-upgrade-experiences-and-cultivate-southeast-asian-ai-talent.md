@@ -39,20 +39,6 @@ related:
         width: 400
         height: 257
         isCached: true
-  - title: "Techman Robot to Provide Free AI Courses in Southeast Asia"
-    excerpt: "Artificial intelligence, AI is undoubtedly the key technology here. That is why the SEA (Southeast Asia) Taiwan AI College is turning the AI manufacturing experiences from leading ICT companies, Techman Robot,"
-    publishedDateTime: 2021-06-29T00:00:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-techman-robot-provide-free-ai-courses-southeast-asia-/2021/06/29/9400394.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 54
-    images:
-      - url: "https://mma.prnewswire.com/media/1552574/Techman_Robot_to_provide_free_AI_course_in_Southeast_Asia.jpg"
-        width: 400
-        height: 257
-        isCached: true
   - title: "Opportunities for AI in Financial Services in Asia"
     excerpt: "FinovateAsia 2021 is over. But we’re keeping the doors open and the lights on for a few more days to let those of you who attended our digital fintech conference last month to check out any of the keynote addresses and panel discussions that you might have missed."
     publishedDateTime: 2021-07-01T16:31:00Z
