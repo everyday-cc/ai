@@ -2,7 +2,7 @@
 name: "Diligent Robotics"
 overview: "We are a human-centered robotics company. Our mission is to make technical advances towards robots and humans working together side by side, with an emphasis on human-centric design. Diligent Robotics is developing a suite of artificial intelligence that enables robots to collaborate with and adapt to humans in everyday environments."
 type: "profile"
-heat: 50
+heat: 96
 
 website: http://diligentrobots.com/
 
@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "DiligentRobots"
   url: "https://twitter.com/DiligentRobots"
-  followers: 824
+  followers: 826
 
 size: 2-10 employees
 locations:
@@ -44,6 +44,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=vniKNpy5SFs"
 
-secured: "aVxq3ZJ0YDHOF9LGYMMWlM7Bbqs2VbMPMqUxDtzxTmSkUsOTQWOoDtSydN5+8fCage5r37ctqLl2tNKZFlaDGeMKJ+FpU8iuC0ra1oeKqZgcmBTS3ucTwq651IsdhDzbg2c/3sy9ovYGtz36sb+gr+xWTdk1LXc6PdEWzp0TjitQWnflhQyWIBZvuE1PCJb2N8K3tdGAjVlNFEgyDzTZxe90t8jl286agKBldN/mWj2XA8/kYn7Dg+GQOgPrjQ04jyp/+/dB5ycS+dI83o2ugSmWr3bRb8w8qEv0weCjnmMiI4ROIzaV1uX0qe66g5jW6wtBEMyiFGcWL1UbJN698XHPveH8yqqi272B03S5kdqqeL6DL0wiy3ADes7gjU3RnliYGYq4NLkTR7oBlH8o9w==;KJpRLYmYIHFxyLkDzhyaeg=="
+secured: "LdB+kmuNyoK2Bfl/4PH9J7cNBCD7476vuZkVS2/l2goOvbH7qwo8sbTgqgCJTjgZ5b1H9Xo73Iin8kpXwFQXAybW1zoqOAXD9ShDGm2g7YXIwEd3gvA3f9FeFdpbixOge0hZOO+aAeXCoW4UWgNxvkYFldgPTH+VKNBFoipU5WnaZL5seOluQd2tboT0PF6bT1WLHe45+1oKvFMMdZTZ6sECHJAhsCa0NN8BXzZ7KkPM2kppnHma7qSXJQb0XxVXfiPWySxVsuusfQXNB0WoZ3kQ6mzFNTp+rYc+UK+5aYSq8Vufd5KAzyvcuvC4UI0fL1lmFV2+yNx5+lKCda1mmVijss0Z6JroBcQNiQN6nQIt0ZrrMMVEtQbZq+8XC4rKqabp1/IKPadml2Sig8aokQ==;iQcn4ntojQY765DCwwW+Aw=="
 ---
 

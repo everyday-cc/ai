@@ -2,7 +2,7 @@
 name: "Matterport"
 overview: "Matterport is the world leader in immersive 3D technology, offering a platform for prosumers and professionals to easily capture, edit and share 3D models of physical spaces. These navigable virtual tours are presented in Matterport's proprietary photo-realistic digital media format."
 type: "profile"
-heat: 163
+heat: 115
 
 website: https://matterport.com/
 
@@ -38,6 +38,6 @@ images:
     height: 400
     title: "logo"
 
-secured: "Q5Ix5ThT8Z2RcjasOwIsemnlMDJgpi+uK3dcrHB0vMzqsl2+nQG2Ocsi9E1SrGT9CegyEk5VUABEtvjhFpAuLJMF+6kiE3pwBILQY7knFVC/pxqk3ovWqc83ID6BMFw/dL7a/836ctBEmP7IrwvN7fW4d1iI+LQhViPGFJCFWKbPE4vG/28DySzZypF2ikcRlTzh2LLWgk1eAR41dUDC6h4cYOmJdUw2dLt9nZcLn4R4f4BcVzfkCRSrJoRcWQxSsVT2oXOPO82/ua3YXni/ATK1sF4CUV90O823HXNioBOpFicp8qbR8V3KWDOTwdR0Ap9hX60YW8ppFFSngC3t3CVId6Ae2pJh6lt6D1xzbd6ipuBi21a4JXVgjxUgfXwAuMx8jpLISnmQWplUgGUcCl0EbZ+geawVmzamArVd7vI=;XH6G4dyQK0TDjQRRPgzGtQ=="
+secured: "/gxqF4oZvUw0tIM1eul3o/K0NHRh04miU8LlOfBcgbazP/Xnu21lWKYf1AguHLXjkE5FyQu1Tgas25pBzGrQYUvUBbgkO6hfa5wg/1VRkV4UzSIq2c1+W1La2ZP4FwOdXN+qNW/qA2RGV81tEk2R9skOW4A4hbHdPkUiNvkoeebk7BNJIXBrkb2Ht9SV0oBUtJW4seA8+UljpdFi2weGtA3vmTqOrS6Xx4BBbVQSscBE2pFKfet2y44sXTk0pBi2XKS5p6+OYc5kjoHUNdHFfhJWYFMrXeXwFaF0e5JH4sQdX6NX4Y42PPanyuVOV53psxZjc2yrePTUFd1CkqQu72FHm8vcE4ahb7e3+wrR6kZa3ZpVXBUhuLKgEdEbHiKHqn0VNICAMoa88ZXvNoe3Ka0wWr6yz4OozOm8RXJVXHU=;bVF3iuZaq+ExIw/YE3lkdg=="
 ---
 

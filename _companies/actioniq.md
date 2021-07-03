@@ -2,7 +2,7 @@
 name: "ActionIQ"
 overview: "ActionIQ is a purpose-built enterprise Customer Data Platform solving complex data problems: flow and scale, analytics, and orchestration."
 type: "profile"
-heat: 58
+heat: 64
 
 website: https://www.actioniq.com/
 
@@ -28,6 +28,6 @@ images:
     isCached: true
     title: "ActionIQ"
 
-secured: "d6qshTSyq9uM28F7lzdqLhg9tXNBM1usJxzEQMo1sOJcRpISZ7D/5Ps1TFr4z0xn6DostWbCPVVhEtDbX8+jwB4UnNhijT+Mt2mYY82Meypxkr2ap0Ihnc3dUTVOGdvVg+7OFTf1JYNhrXqcNtsLVrq5pK7KgpZ07Amq1KM39x9/eUh7oJF0+tpNzM8jzlJvZzs3VUprB/tjxg5BF9kdLkysgPLsGyfXV+2Tk8Q2U2hF1bnvlfuZOauuuIdjgOx6Uwefun7OuV77mPkoPwkh6oa86W2S92788tffUhqTqbPNeDn1/lsjkeLEVTQUs1gPTGS32EY9cQevGr4tYG9F3k5ATAJ0HKb9HVhD/hQ0kFWaaK2pSPPUBB9xjXnkl5c9Jn2Zg2V0QHlokLg9iSvU1F0SzCiZ+EbQnCPlGtBJ5Vs=;aeYsIUrCNYdlC1dS5xwODw=="
+secured: "rGBeuRofS27CE80m65SuE4Vsup2d/ias+HF52YK8KksWQZqJMXS/3YjmiJiIPR+elJ2o0jGlOxA02wxBG39Lz5iZZ3cF81CWwMF7rHFq15J+rHmp+vwHMWTf9yJRGnwwzgGB5XC3xNnQc6ZSK0XoYNAhL/K32SE1lti1g49E+WQ/lS/VJWJgz/qVgH14TqypRsqPYNPA7Kn0r41vreT9PgUkU9IAfDDZ5kjseMSTz3ZhPthIwLuEm1ZvtmCmgNFgPJSm0wlcTwUZp+jcN1oSii++hGkR3Jcsp7b2Wj+TS4uJzShJvyzOfIcdgK8pEpJLyZCPBdjK5X0z/kXLuipT7Yk3sGKa79/kk9e1IOU5FNO9Zd3CDfOhEzEHY5i5Dla0C44gWSbh91YaFsa6aMryttpCWqbegF5F47hPSZQLcio=;Q0PCvS/WM8mgULPILh/UNw=="
 ---
 
