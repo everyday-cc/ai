@@ -1,24 +1,28 @@
 ---
 category: news
-title: "Federal Law Enforcement Is Running Roughshod Over Facial Recognition Privacy, Says GAO"
-excerpt: "Out of the 86 federal agencies that employ full-time law enforcement officers, the Government Accountability Office (GAO) surveyed 42 of them about whether they either owned and/or used facial recognition technologies from outside suppliers."
-publishedDateTime: 2021-06-30T19:55:00Z
-originalUrl: "https://reason.com/2021/06/30/federal-law-enforcement-is-running-roughshod-over-facial-recognition-privacy-says-gao/"
-webUrl: "https://reason.com/2021/06/30/federal-law-enforcement-is-running-roughshod-over-facial-recognition-privacy-says-gao/"
-ampWebUrl: "https://reason.com/2021/06/30/federal-law-enforcement-is-running-roughshod-over-facial-recognition-privacy-says-gao/?amp"
-cdnAmpWebUrl: "https://reason-com.cdn.ampproject.org/c/s/reason.com/2021/06/30/federal-law-enforcement-is-running-roughshod-over-facial-recognition-privacy-says-gao/?amp"
+title: "13 federal law enforcement agencies haven’t been monitoring facial recognition technology use"
+excerpt: "The report from the U.S. Government Accountability Office (GAO) said 13 of the federal law enforcement agencies surveyed that use facial recognition technology did not have a system in place to track when or how employees were using the system or to assess the privacy risks associated with the use."
+publishedDateTime: 2021-07-02T21:40:00Z
+originalUrl: "https://www.wpxi.com/news/top-stories/13-federal-law-enforcement-agencies-havent-been-monitoring-facial-recognition-technology-use/XLJYVPKNLRB37G2W252WIKKJXA/"
+webUrl: "https://www.wpxi.com/news/top-stories/13-federal-law-enforcement-agencies-havent-been-monitoring-facial-recognition-technology-use/XLJYVPKNLRB37G2W252WIKKJXA/"
 type: article
-quality: 31
+quality: 28
 heat: -1
 published: false
 
 provider:
-  name: Reason
-  domain: reason.com
+  name: WPXI
+  domain: wpxi.com
 
 topics:
   - Computer Vision
   - AI
+
+images:
+  - url: "https://d1hfln2sfez66z.cloudfront.net/07-02-2021/t_0b890523399842af94bf32e2b9fcc9b0_name_file_960x540_1200_v3_1_.jpg"
+    width: 960
+    height: 540
+    isCached: true
 
 related:
   - title: "US agencies must track which facial recognition systems they use, report says"
@@ -129,20 +133,17 @@ related:
         width: 959
         height: 368
         isCached: true
-  - title: "13 federal law enforcement agencies haven’t been monitoring facial recognition technology use"
-    excerpt: "The report from the U.S. Government Accountability Office (GAO) said 13 of the federal law enforcement agencies surveyed that use facial recognition technology did not have a system in place to track when or how employees were using the system or to assess the privacy risks associated with the use."
-    publishedDateTime: 2021-07-02T21:40:00Z
-    webUrl: "https://www.wpxi.com/news/top-stories/13-federal-law-enforcement-agencies-havent-been-monitoring-facial-recognition-technology-use/XLJYVPKNLRB37G2W252WIKKJXA/"
+  - title: "Federal Law Enforcement Is Running Roughshod Over Facial Recognition Privacy, Says GAO"
+    excerpt: "Out of the 86 federal agencies that employ full-time law enforcement officers, the Government Accountability Office (GAO) surveyed 42 of them about whether they either owned and/or used facial recognition technologies from outside suppliers."
+    publishedDateTime: 2021-06-30T19:55:00Z
+    webUrl: "https://reason.com/2021/06/30/federal-law-enforcement-is-running-roughshod-over-facial-recognition-privacy-says-gao/"
+    ampWebUrl: "https://reason.com/2021/06/30/federal-law-enforcement-is-running-roughshod-over-facial-recognition-privacy-says-gao/?amp"
+    cdnAmpWebUrl: "https://reason-com.cdn.ampproject.org/c/s/reason.com/2021/06/30/federal-law-enforcement-is-running-roughshod-over-facial-recognition-privacy-says-gao/?amp"
     type: article
     provider:
-      name: WPXI
-      domain: wpxi.com
-    quality: 28
-    images:
-      - url: "https://d1hfln2sfez66z.cloudfront.net/07-02-2021/t_0b890523399842af94bf32e2b9fcc9b0_name_file_960x540_1200_v3_1_.jpg"
-        width: 960
-        height: 540
-        isCached: true
+      name: Reason
+      domain: reason.com
+    quality: 31
   - title: "GAO: Some Federal Agencies’ Use of Facial Recognition Technology Opens Door for Potential Risks"
     excerpt: "Fourteen federal agencies reported using facial recognition technology systems owned by non-federal entities to support criminal investigations, and 13 out of the 14 agencies did not have an up-to-date information on what non-federal systems were being used by employees,"
     publishedDateTime: 2021-07-02T09:20:00Z
@@ -167,6 +168,6 @@ related:
       domain: lawfareblog.com
     quality: 2
 
-secured: "oC2IS7c/W6LEqbq7GOZ/4/iISf27IgCMGKgU1WgxHJ6+1nSGBtABATB2fQK5/p0eR1nOeH8db9Ayk0xFYu6eBOWwWPQt9d7A1QereqJnPKX+jTMbCSd/mGeD1Dw85TCCZZ6st5+6LJhzL2nyqbtsFjStPcXr4QNPYNQKTUgWPm2Qnu/5nT4JcPweo7FtSIe3BVbmS8drrgrW8vIGlI7ScK/JrONwbntKIrqvtylSOleV0o8mGyOoQz0rTVdYhy7rKROJ9icyKHMnaNHAFRH2n/XGZDomYZcUjmhxJ1ccDKo5jc0TaHfTISZBbgAjYxwRiYzF+0/peP0NM8zAkD4F52QqcgQ1MsO616Pzh0yIM2DVb86Ulp/RC2ds5PqLSpJ+/fjt8trHfHtraCTqrtOnGCqAVIQOOmMhWe71AqQsdpKYYMdf0vniOpKucYk63we15IsDfWC1pHR1SUPgdv8Iktip7YNjbZO8XlznwmK3nNca6/Ho2s2/m9g9NrYTx/ZJiNOjKhwOqsDLixJJUbQe7Q==;6TI2MFstyoaxZV6QFpT0eA=="
+secured: "hpOxFemW7+i6IZn+i9fP+Za9hVna8pdWqmJLSiK7ZUJu7175UEKbatdvuOVWVscre9+y2TaFcmDgK+qaRqZHKd/LEVpfVCmjfnRpb92rrewPqEdNUwdsSIvPvvuRuQ18ITLskSYCKWnvcdfCjw3HLcyDnhiNmwEHRvQT4C1ovOSzPybkeHhKb95IxJyRSseVxGk1LtgcD4z6YWQ2o7+wtC05YbZc1aqvRQMxsPKqBu8/LBRydfYpbbuAzblDSumvFKIDLLVgUpWtIsy1QRjkAA8KWdt5n7JjVmVGpHZSA9rgWMNf/73LWWmv7jpI+KqPwwl0c4If9plVRoopf6Gk3GTvRe5FLeec7u/FmvxCtFY=;wCE31VEsvyD0TJKl0hX32w=="
 ---
 

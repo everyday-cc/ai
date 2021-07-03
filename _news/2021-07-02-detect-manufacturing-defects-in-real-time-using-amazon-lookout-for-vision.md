@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/detect-manufacturing
 webUrl: "https://aws.amazon.com/blogs/machine-learning/detect-manufacturing-defects-in-real-time-using-amazon-lookout-for-vision/"
 type: article
 quality: 73
-heat: 73
+heat: 74
 published: true
 
 provider:

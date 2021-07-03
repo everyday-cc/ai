@@ -121,22 +121,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "From Creating a Zero Hunger Future, To Reimagining Health and Wellbeing with AI"
-    excerpt: "Students’ Unlimited Creativity Unveiled in ‘Master Code’ Award and Kick-off Ceremonies HONG KONG SAR - Media OutReach - 28 June 2021 - Since 2016, Hong Kong Education City (EdCity) and Microsoft have co-organised the annual Master"
-    publishedDateTime: 2021-06-28T05:10:00Z
-    webUrl: "https://www.asiaone.com/business/creating-zero-hunger-future-reimagining-health-and-wellbeing-ai"
-    ampWebUrl: "https://www.asiaone.com/business/creating-zero-hunger-future-reimagining-health-and-wellbeing-ai?amp"
-    cdnAmpWebUrl: "https://www-asiaone-com.cdn.ampproject.org/c/s/www.asiaone.com/business/creating-zero-hunger-future-reimagining-health-and-wellbeing-ai?amp"
-    type: article
-    provider:
-      name: Asia One
-      domain: asiaone.com
-    quality: 55
-    images:
-      - url: "https://www.asiaone.com/sites/default/files/styles/a1_og_image/public/original_images/Jun2021/EDCITY.jpg?itok=Uop_9JUE"
-        width: 763
-        height: 509
-        isCached: true
   - title: "Automakers must report crashes involving self-driving and driver-assist systems"
     excerpt: "The National Highway Traffic Safety Administration (NHTSA) has implemented a new policy that will require car companies to report incidents involving semi- and fully autonomous driving systems within one day of learning of an accident."
     publishedDateTime: 2021-06-29T17:49:00Z

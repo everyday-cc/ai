@@ -69,6 +69,20 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "AI in Social Media Market Research Report with Size, Share, Value, CAGR, Outlook, Analysis, Latest Updates, Data, and News 2021-2028"
+    excerpt: "The report forecast global AI in Social Media market to grow to reach xx Million USD in 2021 with a CAGR of during the"
+    publishedDateTime: 2021-06-29T06:53:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-in-social-media-market-research-report-with-size-share-value-cagr-outlook-analysis-latest-updates-data-and-news-2021-2028-2021-06-29"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 36
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Fintech benefits consumers and intermediaries"
     excerpt: "The different technologies associated with fintech assist consumers with their decision-making process regarding financial products and enable intermediaries to provide their clients with needs-driven solutions and"
     publishedDateTime: 2021-06-28T10:59:00Z
@@ -153,6 +167,24 @@ related:
         width: 580
         height: 339
         isCached: true
+  - title: "Global Artificial Intelligence In Diagnostic Market Size, Status and Forecast 2021-2027"
+    excerpt: "Pages Report] Check for Discount on Global Artificial Intelligence In Diagnostic Market Size, Status and Forecast 2021-2027 report by QYResearch Group. Market Analysis and Insights: Global Artificial Intelligence In Diagnostic"
+    publishedDateTime: 2021-07-02T08:17:00Z
+    webUrl: "https://www.reportsnreports.com/reports/4631324-global-artificial-intelligence-in-diagnostic-market-size-status-and-forecast-2021-2027.html"
+    type: article
+    provider:
+      name: ReportsnReports
+      domain: reportsnreports.com
+    quality: 9
+  - title: "Global Artificial Intelligence in the Medical Imaging Market Size, Status and Forecast 2021-2027"
+    excerpt: "Pages Report] Check for Discount on Global Artificial Intelligence in the Medical Imaging Market Size, Status and Forecast 2021-2027 report by QYResearch Group. Doctors have been using medical imaging techniques to diagnose"
+    publishedDateTime: 2021-06-30T07:47:00Z
+    webUrl: "https://www.reportsnreports.com/reports/4624721-global-artificial-intelligence-in-the-medical-imaging-market-size-status-and-forecast-2021-2027.html"
+    type: article
+    provider:
+      name: ReportsnReports
+      domain: reportsnreports.com
+    quality: 4
 
 secured: "jHSEaBZZSogWQdarnGH8NfsVqgs0HULH+g/9nwuXcHnhZ2aIHQDp2FzaVXq/dB3GFcee87ne6MffTl382nhDwrextCdCW3fidiE6XROWQPXiwYqxxcLBP+YpxuQAp+Y32C+CF04ukZa8e0uf/8NhDaPpIiaQNQTW9pCHrOwHzQgDgszussLTVElbXNp7C1h3rOZ3SUzUkaXm/6ZcGc9ZvaAWu6sFYsbgKZH+Lgsijdc4GvyuzRHd8garE1QHbqRs9ix/uXGRR0F1NP+v12ZeNaI/mHjx1IezvqPIuO+GGEk8WG/KKpiU1pwcCMk9kQ43on5O9YzYhcIJmwxa8CqY+55VWrqaAW13AhSkQuVDFeqIMFC8RetDmvDiw8MkrVmDUXRicB5ZJ7CsDF/7MT9scCc1QqCMN6KQOMVJeyYCySOmbrpquzsoomXuiapT9fAAMMQufqWY7Bbx9DZGkk0vJ9slxDB2hxKf2GZXi3zBcK08ZzBLmXBpOa3u0jqnfU6RL/TF5qAYGrSbMW3pUfYvbQ==;zAzjAvDpDHSvC0nGK/rmWA=="
 ---

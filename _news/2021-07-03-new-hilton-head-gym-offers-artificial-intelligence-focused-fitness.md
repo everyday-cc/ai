@@ -8,8 +8,8 @@ webUrl: "https://www.wsav.com/now/new-hilton-head-gym-offers-artificial-intellig
 ampWebUrl: "https://www.wsav.com/now/new-hilton-head-gym-offers-artificial-intelligence-focused-fitness/amp/"
 cdnAmpWebUrl: "https://www-wsav-com.cdn.ampproject.org/c/s/www.wsav.com/now/new-hilton-head-gym-offers-artificial-intelligence-focused-fitness/amp/"
 type: article
-quality: 57
-heat: 57
+quality: 59
+heat: 59
 published: false
 
 provider:
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://www.wsav.com/wp-content/uploads/sites/75/2021/07/PKG.00_00_30_13.Still001.jpg?w=1280"
@@ -25,6 +26,6 @@ images:
     height: 720
     isCached: true
 
-secured: "qXtDKbjVctcrRYsGU3d0sj0VqneQR1aj+Ic4SkDmEj5L1GZHYsosl7SHeXa5Nbz3fa114A+HzP3tZnkOqyXCnAZAIAeRk5iEwn1fT1eXuhwJYi3ft2BU9LEGNziMyNHiuaXRVvbXEPXnmwSuua+9QQ/CRGyy9jYTxc728rYCCugd76eXUjWp/jaGW06RbmCCYzOA0oxzdYJBXO/r64N/QXUcaYSACI6ay3s2nDfNygHjGljCvaNvLGLxTUUtwkO/HecLjVHyYRg6cpD1IyA6RhH3VvDM5pZP9pHCHN2eXMB1Ha0yNQ1ME0iuJztGFPO9qpbFsqgePHxlZbQNjX+DgFEIuLefJ9YLMqXc99h9mtE=;o9Cf2TpLfp8bR0XwlXvQcw=="
+secured: "1+sUJxWmiklA/UcCvR+fOoRSm5jSQ5kUYkniPuWVFfAh6E7QEsljrk3Zhtq6R1s2/7/+xiQHWH6ryQCMDKbxiXarTHSRdS/qwf/4zK+c6iOkzO6dKIwDpIZJkFrsTNl44grbFHQJuoMyssRIUXhl5jpRsGsL9P5eOdcO5RhnWdx+om7mrnAPovj5XR4BYyV2mAQQJUZA/4otyrXzlBQm3QodV0DegIVkT4KgdYoJSh1ynuVY7tfrFd72/LtLNjQGbG+yWaRi6ra5j7Uocb3HKcrHn7JjQecvFhnNoOmr1bQwyupdx9rMPk/J7aVR81rR4eFPqZX8KmQBupTUhIzPK6TyBsh3WTpCiQf+xXcs2JGwkPWf2Pi9daJkGBzGSr3K2pMehbgzaQIUrTuR5rFaftkwuz/DWIgbD8dbEtubA7FCF1w/DhHxCFPKsQQmoeYHG4e1b1fBWUH2YasWckppprWfbfXfE0FL3Rpk01az7mHYJP8gnDHhDCbWDYwH816rmBoSQZxJ8FNxdV0VDg6faQ==;EU6Vhlr9zGXIYCL/pQMsvg=="
 ---
 

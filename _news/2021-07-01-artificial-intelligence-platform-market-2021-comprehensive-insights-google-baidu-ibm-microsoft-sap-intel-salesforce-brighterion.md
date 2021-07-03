@@ -44,6 +44,20 @@ related:
       name: manometcurrent.com
       domain: manometcurrent.com
     quality: 30
+  - title: "States Voice Recognition for Smartphones Market to Witness Huge Growth by 2028 | Apple, Google, Microsoft"
+    excerpt: "The research covers the current & Future market size of the Global States Voice Recognition for Smartphones market & its growth rates based on 8 year history data. It also covers various types of segmentation such as by geography [China, Japan, Korea ..."
+    publishedDateTime: 2021-07-02T14:43:00Z
+    webUrl: "https://ksusentinel.com/2021/07/02/states-voice-recognition-for-smartphones-market-to-witness-huge-growth-by-2028-apple-google-microsoft/"
+    type: article
+    provider:
+      name: The Sentinel
+      domain: ksusentinel.com
+    quality: 24
+    images:
+      - url: "https://ksusentinel.com/wp-content/uploads/2021/07/Global-States-Voice-Recognition-for-Smartphones-Market-780x470.jpg"
+        width: 780
+        height: 470
+        isCached: true
   - title: "Artificial Intelligence in IoT Market Size and Growth 2021-2028 | Top Leading Players – IBM, Microsoft, Google, PTC, AWS, Oracle, GE, Salesforce"
     excerpt: "The report titled Artificial Intelligence in IoT Market is a comprehensive document containing valuable insights into market elements such as drivers, restraints, competitive landscape, and technology development."
     publishedDateTime: 2021-06-30T06:03:00Z

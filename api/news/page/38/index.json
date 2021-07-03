@@ -2,6 +2,91 @@
   "page": 38,
   "value": [
     {
+      "path": "_news/2021-06-03-alice-receptionist-offers-global-customers-greater-access-to-the-ai-driven-customer-experience-through-expanded-relationship-with-hourone.md",
+      "title": "ALICE Receptionist Offers Global Customers Greater Access to the AI-driven Customer Experience through Expanded Relationship with HourOne",
+      "excerpt": "HourOne, an end-to-end video creation platform powered by AI and photoreal presenters, announced today that ALICE® Receptionist, the visitor managemen",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesswire.com/news/home/20210603005190/en/ALICE-Receptionist-Offers-Global-Customers-Greater-Access-to-the-AI-driven-Customer-Experience-through-Expanded-Relationship-with-HourOne",
+      "originalUrl": "https://www.businesswire.com/news/home/20210603005190/en/ALICE-Receptionist-Offers-Global-Customers-Greater-Access-to-the-AI-driven-Customer-Experience-through-Expanded-Relationship-with-HourOne",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-03T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-03-deepgram-beefs-up-conversational-ai-engagement-with-new-apis.md",
+      "title": "Deepgram beefs up conversational AI engagement with new APIs",
+      "excerpt": "Deepgram adds real-time capabilties to conversational AI platform to extend the number of potential use cases.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/06/03/deepgram-beefs-up-conversational-ai-engagement-with-new-apis/",
+      "originalUrl": "https://venturebeat.com/2021/06/03/deepgram-beefs-up-conversational-ai-engagement-with-new-apis/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/06/Deepgram2.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/06/03/deepgram-beefs-up-conversational-ai-engagement-with-new-apis/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/03/deepgram-beefs-up-conversational-ai-engagement-with-new-apis/amp/",
+      "publishedDateTime": "2021-06-03T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-03-deepracer-womens-league-aws-announces-winners-of-ml-for-women-initiative.md",
       "title": "DeepRacer Women’s League: AWS announces winners of ML for women initiative",
       "excerpt": "The initiative introduces machine learning to women students, allowing them to explore and apply ML skills in a virtual racing league.",
@@ -1079,91 +1164,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-03-indian-scientists-construct-a-powerful-artificial-synaptic-network-to-imitate-the-human-brain.md",
-      "title": "Indian Scientists Construct a Powerful Artificial Synaptic Network to Imitate the Human Brain",
-      "excerpt": "Scientists at the Jawaharlal Nehru Centre for Advanced Scientific Research in Bengaluru, an autonomous institute of the Indian government's Department of Science and Technology, developed a new approach for fabricating an artificial synaptic network (ASN) that resemble the biological neural network using a simple self-forming technique (the device structure is formed by itself while heating).",
-      "sourceUrl": null,
-      "webUrl": "https://www.analyticsinsight.net/indian-scientists-construct-a-powerful-artificial-synaptic-network-to-imitate-the-human-brain/",
-      "originalUrl": "https://www.analyticsinsight.net/indian-scientists-construct-a-powerful-artificial-synaptic-network-to-imitate-the-human-brain/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-03T03:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Analytics Insight",
-        "domain": "analyticsinsight.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-03-grimes-says-ai-will-give-us-communism-in-confusing-new-tiktok-video.md",
-      "title": "Grimes Says AI Will Give Us Communism in Confusing New TikTok Video",
-      "excerpt": "Grimes, the musician and romantic partner of billionaire Elon Musk, is a big believer in artificial intelligence, according to a new TikTok video she posted late Wednesday. What can AI do for humanity?",
-      "sourceUrl": null,
-      "webUrl": "https://gizmodo.com/grimes-says-ai-will-give-us-communism-in-confusing-new-1847022911",
-      "originalUrl": "https://gizmodo.com/grimes-says-ai-will-give-us-communism-in-confusing-new-1847022911",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/696acb23ff63a207eebfa85717e959fd.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://gizmodo.com/grimes-says-ai-will-give-us-communism-in-confusing-new-1847022911/amp",
-      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/grimes-says-ai-will-give-us-communism-in-confusing-new-1847022911/amp",
-      "publishedDateTime": "2021-06-03T03:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmodo",
-        "domain": "gizmodo.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

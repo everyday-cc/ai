@@ -37,6 +37,20 @@ related:
         width: 450
         height: 300
         isCached: true
+  - title: "States Voice Recognition for Smartphones Market to Witness Huge Growth by 2028 | Apple, Google, Microsoft"
+    excerpt: "The research covers the current & Future market size of the Global States Voice Recognition for Smartphones market & its growth rates based on 8 year history data. It also covers various types of segmentation such as by geography [China, Japan, Korea ..."
+    publishedDateTime: 2021-07-02T14:43:00Z
+    webUrl: "https://ksusentinel.com/2021/07/02/states-voice-recognition-for-smartphones-market-to-witness-huge-growth-by-2028-apple-google-microsoft/"
+    type: article
+    provider:
+      name: The Sentinel
+      domain: ksusentinel.com
+    quality: 24
+    images:
+      - url: "https://ksusentinel.com/wp-content/uploads/2021/07/Global-States-Voice-Recognition-for-Smartphones-Market-780x470.jpg"
+        width: 780
+        height: 470
+        isCached: true
   - title: "Artificial Intelligence Platform Market 2021 Comprehensive Insights – Google, Baidu, IBM, Microsoft, SAP, Intel, Salesforce, Brighterion"
     excerpt: "The global Artificial Intelligence Platform market size is projected to reach US$ 185710 million by 2027, from US$ 16960 million in 2020, at a CAGR of 39.5% during 2021-2027. Top Leading Companies of Global Artificial Intelligence Platform Market are Google,"
     publishedDateTime: 2021-07-01T05:04:00Z

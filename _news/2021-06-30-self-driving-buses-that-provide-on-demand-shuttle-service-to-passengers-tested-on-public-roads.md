@@ -3,10 +3,10 @@ category: news
 title: "Self-Driving Buses That Provide On-Demand Shuttle Service To Passengers Tested On Public Roads"
 excerpt: "Three driverless minibuses that are being tested on public roads in Germany could revolutionize public transportation. Katie Johnston reports."
 publishedDateTime: 2021-06-30T15:19:00Z
-originalUrl: "https://lasvegas.cbslocal.com/video/5736914-self-driving-buses-that-provide-on-demand-shuttle-service-to-passengers-tested-on-public-roads/"
-webUrl: "https://lasvegas.cbslocal.com/video/5736914-self-driving-buses-that-provide-on-demand-shuttle-service-to-passengers-tested-on-public-roads/"
-ampWebUrl: "https://lasvegas.cbslocal.com/video/5736914-self-driving-buses-that-provide-on-demand-shuttle-service-to-passengers-tested-on-public-roads/?amp"
-cdnAmpWebUrl: "https://lasvegas-cbslocal-com.cdn.ampproject.org/c/s/lasvegas.cbslocal.com/video/5736914-self-driving-buses-that-provide-on-demand-shuttle-service-to-passengers-tested-on-public-roads/?amp"
+originalUrl: "https://losangeles.cbslocal.com/video/5736914-self-driving-buses-that-provide-on-demand-shuttle-service-to-passengers-tested-on-public-roads/"
+webUrl: "https://losangeles.cbslocal.com/video/5736914-self-driving-buses-that-provide-on-demand-shuttle-service-to-passengers-tested-on-public-roads/"
+ampWebUrl: "https://losangeles.cbslocal.com/video/5736914-self-driving-buses-that-provide-on-demand-shuttle-service-to-passengers-tested-on-public-roads/?amp"
+cdnAmpWebUrl: "https://losangeles-cbslocal-com.cdn.ampproject.org/c/s/losangeles.cbslocal.com/video/5736914-self-driving-buses-that-provide-on-demand-shuttle-service-to-passengers-tested-on-public-roads/?amp"
 type: article
 quality: 32
 heat: 32
@@ -26,6 +26,6 @@ images:
     height: 720
     isCached: true
 
-secured: "HaNbMk8Zg9MjucnD3pgkrtqyczt5vwHw6GUMRLE8i9ba7mcHybZm2ZIaAo0C93A2HJ+yun2BCEA3lCKBWi1kOTeSuWpooSYNEZBQAR9qJKDOAlTh5edflSuGw8wfZgHuH+p2ZlzXpumji1jDJ4jB/dHhblzizxknIK0jVa/3XDuCQPqmmzjFa5ybAu9Ri3KVNmzT4Z//2MHdSwwbsxYE2HZWskj9b6VYEmcR9Xn/GYsXmab6RofPeH3n8x6yOvg4w7zHDsddcQ3PTK1da5gksLhzHTjGATYMrOrt1cha3BEzzpArr/9yrOuN2wdsKcmVhaLjVDTFutl5deATZWKdRcPVaYhwVRKmgczK2yex0mo=;Csyd9fbwPe4aJXijPUtIiw=="
+secured: "u6fO2hVFwbE3PiWew/k7puDKIZzHa7/8+ovwgX6BaYyFmsRYFOM47g4NIu9NVnxyoEGl1A1pXmdmqcf8ycg87QVKeaYkdediAcae9Aj1rlipjCk04NLPs6/ztl2BIWsmhbsPIqMswbuKV/2jmD+5NHUJ20qIED3SZ0uiAzPSzpxCfKP9S1iTvJ8r5M9K7C+fVsSHxaYNMKpVS8niJ9T7Ql+cb3eFEBniGVOWx9dF4KsgISZY3T/uPEtQPqueClu0S+UxVYu3x8E+oGaQY6rsqxG0+uLrKGR2U2WL/HoFpRzp2Ia+fKC/kIn/BIf11hbYqN0AlYLGJGiE/o8WsvyoCoed0GTGOSrs4Kpesikjoxc=;eWJnY9cs5ysejfiCWmxajQ=="
 ---
 

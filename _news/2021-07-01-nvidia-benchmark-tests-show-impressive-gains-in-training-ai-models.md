@@ -47,22 +47,6 @@ related:
         width: 1200
         height: 756
         isCached: true
-  - title: "Nvidia eyes ARM roadmap for AI, 5G integration from server to card to chip"
-    excerpt: "First use cases of AI on 5G will be enterprise computer vision apps that need 5G bandwidth, such as to a shop floor."
-    publishedDateTime: 2021-06-28T06:24:00Z
-    webUrl: "https://www.zdnet.com/article/nvidia-extends-5g-server-support-to-arm/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/nvidia-extends-5g-server-support-to-arm/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/nvidia-extends-5g-server-support-to-arm/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 102
-    images:
-      - url: "https://www.zdnet.com/a/hub/i/2021/06/28/1c102c45-d50e-40bd-b886-ba81441d0b3c/nvidia-ai-on-5g-roadmap-june-2021.jpg"
-        width: 1440
-        height: 810
-        isCached: true
   - title: "News Flash: NVIDIA Remains The Fastest Available AI Accelerator"
     excerpt: "Ok, while that is hardly surprising news, given the comfortable lead NVIDIA enjoys, Google’s upcoming TPUv4 out-performed NVIDIA on three of eight benchmarks on a chip-to-chip basis, while Graphcore’s performance and price/performance is in the ball park."
     publishedDateTime: 2021-06-30T17:00:00Z
@@ -82,14 +66,14 @@ related:
   - title: "Graphcore brings new competition to Nvidia in latest MLPerf AI benchmarks"
     excerpt: "Graphcore’s score in BERT natural language training was the best score of any of the two-socket AMD systems submitted."
     publishedDateTime: 2021-06-30T10:00:00Z
-    webUrl: "https://www.zdnet.com/index.php/category/2026/index.php/article/graphcore-brings-new-competition-to-nvidia-in-latest-mlperf-ai-benchmarks/"
-    ampWebUrl: "https://www.zdnet.com/index.php/category/2026/index.php/google-amp/article/graphcore-brings-new-competition-to-nvidia-in-latest-mlperf-ai-benchmarks/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2026/index.php/google-amp/article/graphcore-brings-new-competition-to-nvidia-in-latest-mlperf-ai-benchmarks/"
+    webUrl: "https://www.zdnet.com/article/graphcore-brings-new-competition-to-nvidia-in-latest-mlperf-ai-benchmarks/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/graphcore-brings-new-competition-to-nvidia-in-latest-mlperf-ai-benchmarks/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/graphcore-brings-new-competition-to-nvidia-in-latest-mlperf-ai-benchmarks/"
     type: article
     provider:
       name: ZDNet
       domain: zdnet.com
-    quality: 86
+    quality: 88
     images:
       - url: "https://www.zdnet.com/a/hub/i/2021/06/30/af021708-3cd7-4136-a6fb-48d2c0bb412c/graphcore-nvidia-comparison-crop-layout-for-twitter.jpg"
         width: 1600
@@ -151,20 +135,6 @@ related:
       - url: "https://www.trustedreviews.com/wp-content/uploads/sites/54/2020/01/2507465e209add3ca495.82472530-Mars-Core-1024x576.png"
         width: 1024
         height: 576
-        isCached: true
-  - title: "Nvidia, Google Cloud to open AI-on-5G test lab"
-    excerpt: "The lab will help developers build applications faster and consistently. By developing on Google Cloud, a developer benefits from access to most Telco SPs instead of building an application unique to each Telco SP."
-    publishedDateTime: 2021-06-28T07:01:00Z
-    webUrl: "https://www.fierceelectronics.com/iot-wireless/nvidia-google-to-open-ai-5g-test-lab"
-    type: article
-    provider:
-      name: fierceelectronics
-      domain: fierceelectronics.com
-    quality: 39
-    images:
-      - url: "https://qtxasset.com/fierceelectronics/1624848049/Image%20-%20NVIDIA%20AI-on-5G%20Roadmap.jpg?0NgCCQOP_5M.TJh60bFGIq1SXoElCKYx"
-        width: 2000
-        height: 1260
         isCached: true
   - title: "NVIDIA and Partners Launch HGX A100 Systems for Industrial AI and HPC"
     excerpt: "NVIDIA today announced a revamp of its NVIDIA HGX AI supercomputing platform with new technologies that fuse AI with high performance computing, designed to make supercomputing more useful to a growing number of industries."

@@ -63,22 +63,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Feds now using facial recognition at airport immigration"
-    excerpt: "When travelers arrive at (the Guam airport) on an international flight, they will pause for a photo at the primary inspection point.\""
-    publishedDateTime: 2021-06-28T05:32:00Z
-    webUrl: "https://www.guampdn.com/story/news/2021/06/28/feds-now-using-facial-recognition-airport-immigration/5369053001/"
-    ampWebUrl: "https://amp.guampdn.com/amp/5369053001"
-    cdnAmpWebUrl: "https://amp-guampdn-com.cdn.ampproject.org/c/s/amp.guampdn.com/amp/5369053001"
-    type: article
-    provider:
-      name: Pacific Daily News
-      domain: guampdn.com
-    quality: 74
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2019/07/18/PGUA/eee12e18-b990-4312-89db-b43879696ed2-Airport_terminal_2.JPG?auto=webp&crop=4271,2403,x0,y283&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Maine passes ‘strongest’ facial recognition restrictions in the country"
     excerpt: "Maine passed regulations surrounding government use of facial recognition that is being hailed as the \"strongest\" statewide rules in the US."
     publishedDateTime: 2021-06-30T15:42:00Z

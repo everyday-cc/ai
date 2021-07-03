@@ -502,7 +502,7 @@
       "originalUrl": "https://markets.businessinsider.com/news/stocks/visionary-trio-creates-next-gen-video-and-image-annotation-platform-for-machine-learning-1030563448",
       "featuredContent": null,
       "highlight": null,
-      "heat": 70,
+      "heat": 80,
       "tags": null,
       "images": [
         {
@@ -835,7 +835,7 @@
       "originalUrl": "https://www.openpr.com/news/2316846/natural-language-processing-market-may-set-a-new-epic-growth",
       "featuredContent": null,
       "highlight": null,
-      "heat": 96,
+      "heat": 106,
       "tags": null,
       "images": [
         {
@@ -868,6 +868,100 @@
         "Natural Language Processing",
         "AI",
         "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-29-using-artificial-intelligence-to-overcome-mental-health-stigma.md",
+      "title": "Using artificial intelligence to overcome mental health stigma",
+      "excerpt": "Depression is a worldwide problem, with serious consequences for individual health and the economy, and rapid and effective screening tools are thus urgently needed to counteract its increasing prevalence.",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/news/2021-06-artificial-intelligence-mental-health-stigma.html",
+      "originalUrl": "https://medicalxpress.com/news/2021-06-artificial-intelligence-mental-health-stigma.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2017/mentaldistre.jpg",
+          "width": 1500,
+          "height": 1158,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://medicalxpress.com/news/2021-06-artificial-intelligence-mental-health-stigma.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-06-artificial-intelligence-mental-health-stigma.amp",
+      "publishedDateTime": "2021-06-29T07:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-29-natural-language-processing-market-2021-top-manufacturers-covid-19-impact-global-demand-and-future-scope.md",
+      "title": "Natural Language Processing Market 2021 Top Manufacturers, COVID-19 Impact, Global Demand and Future Scope",
+      "excerpt": "The global “ Natural Language Processing Market ” is expected to rise with an impressive CAGR and generate the highest revenue by 2026. Fortune Business Insights™ in its latest report published this information.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/natural-language-processing-market-2021-top-manufacturers-covid-19-impact-global-demand-and-future-scope-2021-06-29",
+      "originalUrl": "https://www.marketwatch.com/press-release/natural-language-processing-market-2021-top-manufacturers-covid-19-impact-global-demand-and-future-scope-2021-06-29",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-29T07:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
       ]
     },
     {
@@ -1127,108 +1221,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-29-changing-ai-perceptions-to-drive-widespread-adoption-in-traditional-industries.md",
-      "title": "Changing AI Perceptions To Drive Widespread Adoption In Traditional Industries",
-      "excerpt": "As data literacy increases with more widespread adoption of AI, businesses will start to identify new practical uses for the information they’re collecting.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/06/29/changing-ai-perceptions-to-drive-widespread-adoption-in-traditional-industries/",
-      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/06/29/changing-ai-perceptions-to-drive-widespread-adoption-in-traditional-industries/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 173,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60d9fee16c4ec4bf8e6c2abd%2F0x0.jpg",
-          "width": 1200,
-          "height": 665,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/06/29/changing-ai-perceptions-to-drive-widespread-adoption-in-traditional-industries/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2021/06/29/changing-ai-perceptions-to-drive-widespread-adoption-in-traditional-industries/amp/",
-      "publishedDateTime": "2021-06-29T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-29-kpmg-decides-on-red-hat-openshift-to-construct-ai-platform.md",
-      "title": "KPMG decides on Red Hat OpenShift to construct AI platform",
-      "excerpt": "KPMG is now building its Ignite platform on top of Red Hat OpenShift to accelerate the development of AI applications.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/06/29/kpmg-decides-on-red-hat-openshift-to-construct-ai-platform/",
-      "originalUrl": "https://venturebeat.com/2021/06/29/kpmg-decides-on-red-hat-openshift-to-construct-ai-platform/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/11/globe.world_.GettyImages-1183741336-e1624913174788.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/06/29/kpmg-decides-on-red-hat-openshift-to-construct-ai-platform/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/29/kpmg-decides-on-red-hat-openshift-to-construct-ai-platform/amp/",
-      "publishedDateTime": "2021-06-29T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/visionary-trio-cre
 webUrl: "https://markets.businessinsider.com/news/stocks/visionary-trio-creates-next-gen-video-and-image-annotation-platform-for-machine-learning-1030563448"
 type: article
 quality: 60
-heat: 70
+heat: 80
 published: true
 
 provider:
@@ -37,6 +37,15 @@ related:
     provider:
       name: TMCnet
       domain: tmcnet.com
+    quality: 0
+  - title: "2021 Deep Learning in Machine Vision Market, Business Growth, Current Trends, Rules, Challenge, and Interaction, Goals, Key Components, Forecast 2027"
+    excerpt: "Global Deep Learning in Machine Vision Market 2021 is an all-inclusive, proficient report provides an in-detail analysis of extensive drivers, challenges, restraints, opportunities, present market trends and approach influencing the Deep Learning in Machine Vision industry together with projections and forecast to 2027."
+    publishedDateTime: 2021-07-01T11:23:00Z
+    webUrl: "https://ksusentinel.com/2021/07/01/2021-deep-learning-in-machine-vision-market-business-growth-current-trends-rules-challenge-and-interaction-goals-key-components-forecast-2027/"
+    type: article
+    provider:
+      name: The Sentinel
+      domain: ksusentinel.com
     quality: 0
 
 secured: "AkSvMrLjYFFf2BsrPbAlwG9K64hxeeLMjOdWjWR4PrtqgkHhUGLGTOj9OghjZTZ3hgJLAGJ7SWyzFreIl35kofUvJkEnS6s5iHDr877zwlbTGJwxgXGghnJOQFDlgmM2DNra6DJm2yirXKBSQLB0KoFqIQ8zYU/YbKUU87D+eMijdJLX0biP4Wbhtt4cvR1g6vUvgihX8R4i7PohxS2CiqRFWBG8yOr8fJVaV50hlQvFICTSF1GO31bt+1n3pj0nITExku+f2jmlWy249SzNVAl60UfjjBDSc+rWUhXqUBsdJgOTpnJxrjrMZNCw3pd+MXQp1EAxL98CFyGWyQAvsr23G5cJYykqGAToYNmfDAGAsMtHhfaDXqd1YaPzgV+cSWiUqUjJawbgNQg58FPr4Z259N9cxkifodER2u/YUzeR3c/hNFMZfBJlhTkxZxGqpnPug6eyE5PABXPPDd7pz/mSW5oj/HuLK9Gy+SwPYlMFJWqv5QaWInvCSD/hnOEvrd8gYWHtFjd3R7dR4u8ddQ==;0xJ4mZgR+Y9EAY7BYGEkSA=="

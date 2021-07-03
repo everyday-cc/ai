@@ -33,6 +33,20 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 48
+  - title: "Driverless Car Software Market 2021 Is Booming Across the Globe by Share, Size, Growth, Segments and Forecast to 2027"
+    excerpt: "Jun 30, 2021 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry\" “Driverless Car Software Market”"
+    publishedDateTime: 2021-06-30T08:17:00Z
+    webUrl: "https://www.marketwatch.com/press-release/driverless-car-software-market-2021-is-booming-across-the-globe-by-share-size-growth-segments-and-forecast-to-2027-2021-06-30"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 46
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "GPU as a Service Market Analysis of Key Players, End User, Demand and Consumption By 2026"
     excerpt: "The GPU as a Service Market Global Industry Analysis Size Share Growth Trends and Forecast 2020 2026 report intends to offer a resourceful means to assess the GPU as a Service Market and entails the all inclusive analysis and upfront"
     publishedDateTime: 2021-06-30T13:01:00Z
@@ -58,6 +72,109 @@ related:
         width: 628
         height: 385
         isCached: true
+  - title: "Global Mobile Speech Recognition Software Market Shares Reflect Significant Growth of Mn US$ During 2020-2025"
+    excerpt: "Global Mobile Speech Recognition Software Market Research Report: Industry Analysis, Share, Revenue, And Future Trends. The report published by Market Research Store on the global"
+    publishedDateTime: 2021-06-28T08:20:00Z
+    webUrl: "https://ksusentinel.com/2021/06/28/global-mobile-speech-recognition-software-market-shares-reflect-significant-growth-of-mn-us-during-2020-2025/"
+    type: article
+    provider:
+      name: The Sentinel
+      domain: ksusentinel.com
+    quality: 20
+    images:
+      - url: "https://themarketeagle.com/wp-content/uploads/2021/03/Management2.jpg"
+        width: 1024
+        height: 624
+        isCached: true
+  - title: "Artificial Intelligence in Telecommunication Market Size, Share 2020, Impressive Industry Growth Report 2027"
+    excerpt: "The global Artificial Intelligence by Telecom market size was valued at USD 679 million in 2019 and is projected to grow at a CAGR of 38 from 2021 to 2027 Telecommunications is one of the fastest growing industries using AI"
+    publishedDateTime: 2021-06-28T12:00:00Z
+    webUrl: "https://www.openpr.com/news/2315358/artificial-intelligence-in-telecommunication-market-size"
+    ampWebUrl: "https://www.openpr.com/amp/2315358/artificial-intelligence-in-telecommunication-market-size"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2315358/artificial-intelligence-in-telecommunication-market-size"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 18
+  - title: "Global Natural Language Processing in BFSI Market Size, Status and Forecast 2021-2027"
+    excerpt: "Pages Report] Check for Discount on Global Natural Language Processing in BFSI Market Size, Status and Forecast 2021-2027 report by QYResearch Group. Market Analysis and Insights: Global Natural Language Processing in"
+    publishedDateTime: 2021-06-30T07:41:00Z
+    webUrl: "https://www.reportsnreports.com/reports/4624367-global-natural-language-processing-in-bfsi-market-size-status-and-forecast-2021-2027.html"
+    type: article
+    provider:
+      name: ReportsnReports
+      domain: reportsnreports.com
+    quality: 12
+  - title: "Global Natural Language Processing in BFSI Market 2021 In-Depth Analysis, Data Synthesis, Growth Objectives and Forecast to 2026"
+    excerpt: "MRInsightsbiz has published a new report titled Global Natural Language Processing in BFSI Market Growth Status and Outlook 2021-2026"
+    publishedDateTime: 2021-06-29T04:03:00Z
+    webUrl: "https://www.bignewsnetwork.com/news/270095346/global-natural-language-processing-in-bfsi-market-2021-in-depth-analysis-data-synthesis-growth-objectives-and-forecast-to-2026"
+    type: article
+    provider:
+      name: Big News Network.com
+      domain: bignewsnetwork.com
+    quality: 10
+    images:
+      - url: "https://cdn.bignewsnetwork.com/cus1624945336116.jpg"
+        width: 630
+        height: 420
+        isCached: true
+  - title: "Latest Study: Voice And Speech Recognition Market: Growth, Revenue, Business Outlook & Forecast 2021-2027 | Download Sample Report"
+    excerpt: "Voice And Speech Recognition Industry is going to play an increasingly important role in the coming years, Market Predicts High CAGR between 2020 and 2027. Breaking down the global trend Voice And Speech Recognition Market currently leading in Europe,"
+    publishedDateTime: 2021-06-30T12:13:00Z
+    webUrl: "https://ksusentinel.com/2021/06/30/latest-study-voice-and-speech-recognition-market-growth-revenue-business-outlook-forecast-2021-2027-download-sample-report/"
+    type: article
+    provider:
+      name: The Sentinel
+      domain: ksusentinel.com
+    quality: 9
+    images:
+      - url: "https://www.newstypical.com/wp-content/uploads/2021/06/Request-Full-text-report-sample-copy.png"
+        width: 772
+        height: 270
+        isCached: true
+  - title: "Artificial Intelligence-Emotion Recognition Market Size 2021 Is Booming Across the Globe by Share, Growth, Segments and Forecast to 2026"
+    excerpt: "Global \" Artificial Intelligence-Emotion Recognition Market \"Growth (2021-2026): Emotion recognition is the process of identifying human emotion, most typically from facial expressions as well as from verbal expressions."
+    publishedDateTime: 2021-06-29T11:09:00Z
+    webUrl: "https://www.wicz.com/story/44203811/artificial-intelligence-emotion-recognition-market-size-2021-is-booming-across-the-globe-by-share-growth-segments-and-forecast-to-2026"
+    type: article
+    provider:
+      name: FOX 40 WICZ TV
+      domain: wicz.com
+    quality: 4
+    images:
+      - url: "https://WICZ.images.worldnow.com/images/20397967_G.png"
+        width: 1200
+        height: 628
+        isCached: true
+  - title: "Global Artificial Intelligence For IT Operations Platform Market Size, Status and Forecast 2021-2027"
+    excerpt: "Pages Report] Check for Discount on Global Artificial Intelligence For IT Operations Platform Market Size, Status and Forecast 2021-2027 report by QYResearch Group. Market Analysis and Insights: Global Artificial Intelligence For IT"
+    publishedDateTime: 2021-06-30T07:49:00Z
+    webUrl: "https://www.reportsnreports.com/reports/4624374-global-artificial-intelligence-for-it-operations-platform-market-size-status-and-forecast-2021-2027.html"
+    type: article
+    provider:
+      name: ReportsnReports
+      domain: reportsnreports.com
+    quality: 2
+  - title: "AI-based Clinical Trials Solution Provider Market Size To Reach $5.2 Billion By 2028: Grand View Research, Inc."
+    excerpt: "The global AI-based clinical trials solution provider market size is expected to reach USD 5.2 billion by 2028 and is expected to expand"
+    publishedDateTime: 2021-06-29T08:05:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/ai-based-clinical-trials-solution-provider-market-size-to-reach-5-2-billion-by-2028/article_4ba20737-af23-5dcf-9ce7-60a749b3d27e.html"
+    type: article
+    provider:
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 0
+  - title: "Global Artificial Intelligence In Genomics Market 2021 by Company, Regions, Type and Application, Forecast to 2026"
+    excerpt: "Pages Report] Check for Discount on Global Artificial Intelligence In Genomics Market 2021 by Company, Regions, Type and Application, Forecast to 2026 report by Global Info Research. The Artificial Intelligence In Genomics market report provides a"
+    publishedDateTime: 2021-07-01T11:31:00Z
+    webUrl: "https://www.reportsnreports.com/reports/4630684-global-artificial-intelligence-in-genomics-market-2021-by-company-regions-type-and-application-forecast-to-2026.html"
+    type: article
+    provider:
+      name: ReportsnReports
+      domain: reportsnreports.com
+    quality: 0
 
 secured: "KQJFbupQwb+Zh0XzFe+0RZIN303i8/9S0W41HeoDq5DNU0FCEZIC/bL5NjaeFgRWBWE6SYFdASadcmctReNslpfpY+nBwymeoztNYAGwVl8zFR9VcqFReFR47IuVWJYfw77W8ZQXvY7mEX3WNUqDOPBzhFV2fnyH1B5wa2XdzCgNamfEGmK5ynr0PDi9JYjezXcQOaAKozP7iusOPUujk+2jo13r6NoM+3lyE/THX6RnCaGAX1/sqi4FTRl7YGYTzmYJksuH0AfmQ5J724xl1NpBA4oxWhRMYvXKP70kiMbC/OmDNZJkUciOtonjym69aIphg9Evvy3Vl/m+bI7a4VM5R529KB5b7ls2XY0G0Cc=;lL8dUcBUixVON/8s6iz6HA=="
 ---

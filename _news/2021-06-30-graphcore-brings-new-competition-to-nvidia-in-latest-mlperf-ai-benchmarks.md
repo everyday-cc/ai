@@ -3,12 +3,12 @@ category: news
 title: "Graphcore brings new competition to Nvidia in latest MLPerf AI benchmarks"
 excerpt: "Graphcore’s score in BERT natural language training was the best score of any of the two-socket AMD systems submitted."
 publishedDateTime: 2021-06-30T10:00:00Z
-originalUrl: "https://www.zdnet.com/index.php/category/2026/index.php/article/graphcore-brings-new-competition-to-nvidia-in-latest-mlperf-ai-benchmarks/"
-webUrl: "https://www.zdnet.com/index.php/category/2026/index.php/article/graphcore-brings-new-competition-to-nvidia-in-latest-mlperf-ai-benchmarks/"
-ampWebUrl: "https://www.zdnet.com/index.php/category/2026/index.php/google-amp/article/graphcore-brings-new-competition-to-nvidia-in-latest-mlperf-ai-benchmarks/"
-cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2026/index.php/google-amp/article/graphcore-brings-new-competition-to-nvidia-in-latest-mlperf-ai-benchmarks/"
+originalUrl: "https://www.zdnet.com/article/graphcore-brings-new-competition-to-nvidia-in-latest-mlperf-ai-benchmarks/"
+webUrl: "https://www.zdnet.com/article/graphcore-brings-new-competition-to-nvidia-in-latest-mlperf-ai-benchmarks/"
+ampWebUrl: "https://www.zdnet.com/google-amp/article/graphcore-brings-new-competition-to-nvidia-in-latest-mlperf-ai-benchmarks/"
+cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/graphcore-brings-new-competition-to-nvidia-in-latest-mlperf-ai-benchmarks/"
 type: article
-quality: 86
+quality: 88
 heat: -1
 published: false
 
@@ -21,6 +21,7 @@ provider:
       height: 50
 
 topics:
+  - AI Hardware
   - AI
 
 images:
@@ -45,22 +46,6 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60da8a5815d212c0b6570f08%2F0x0.jpg"
         width: 1200
         height: 756
-        isCached: true
-  - title: "Nvidia eyes ARM roadmap for AI, 5G integration from server to card to chip"
-    excerpt: "First use cases of AI on 5G will be enterprise computer vision apps that need 5G bandwidth, such as to a shop floor."
-    publishedDateTime: 2021-06-28T06:24:00Z
-    webUrl: "https://www.zdnet.com/article/nvidia-extends-5g-server-support-to-arm/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/nvidia-extends-5g-server-support-to-arm/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/nvidia-extends-5g-server-support-to-arm/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 102
-    images:
-      - url: "https://www.zdnet.com/a/hub/i/2021/06/28/1c102c45-d50e-40bd-b886-ba81441d0b3c/nvidia-ai-on-5g-roadmap-june-2021.jpg"
-        width: 1440
-        height: 810
         isCached: true
   - title: "News Flash: NVIDIA Remains The Fastest Available AI Accelerator"
     excerpt: "Ok, while that is hardly surprising news, given the comfortable lead NVIDIA enjoys, Google’s upcoming TPUv4 out-performed NVIDIA on three of eight benchmarks on a chip-to-chip basis, while Graphcore’s performance and price/performance is in the ball park."
@@ -151,20 +136,6 @@ related:
         width: 1024
         height: 576
         isCached: true
-  - title: "Nvidia, Google Cloud to open AI-on-5G test lab"
-    excerpt: "The lab will help developers build applications faster and consistently. By developing on Google Cloud, a developer benefits from access to most Telco SPs instead of building an application unique to each Telco SP."
-    publishedDateTime: 2021-06-28T07:01:00Z
-    webUrl: "https://www.fierceelectronics.com/iot-wireless/nvidia-google-to-open-ai-5g-test-lab"
-    type: article
-    provider:
-      name: fierceelectronics
-      domain: fierceelectronics.com
-    quality: 39
-    images:
-      - url: "https://qtxasset.com/fierceelectronics/1624848049/Image%20-%20NVIDIA%20AI-on-5G%20Roadmap.jpg?0NgCCQOP_5M.TJh60bFGIq1SXoElCKYx"
-        width: 2000
-        height: 1260
-        isCached: true
   - title: "NVIDIA and Partners Launch HGX A100 Systems for Industrial AI and HPC"
     excerpt: "NVIDIA today announced a revamp of its NVIDIA HGX AI supercomputing platform with new technologies that fuse AI with high performance computing, designed to make supercomputing more useful to a growing number of industries."
     publishedDateTime: 2021-06-28T21:01:00Z
@@ -193,6 +164,6 @@ related:
       domain: tmcnet.com
     quality: 9
 
-secured: "/A9Ou2Pye1mgmEay8bDyHz0mDhmKRAb92M3qwzqpW4Yd12YlRdEbqwhShON1c7VfDc67oGxKDreoEQ4ABhBBaKxQhw4UYuUhRAQzD6NtNFc3LTeU10Sn0xZHWLgYDZT4CmbKJSgJ/RB91aXqoLIx1w5NyHqDDaIXcYEr+yOYd801CI5kyU5LIOV/bBrbHZk9zvrxCehW7rALznTdnSmVSGLCS0AHGxHtn0MfgoFDTSRVuwGNwnTFvajUKF2VWMuk2FUt7j/uAi9SGodEuq7AsuGQSQqHjEUiV5H+Ev4hyEs/1dXxQ0zg3/hGaVlX6sq8qlNRzPqq+Y1Hb+5L9pwmi8zXlGEOPzrLfG9M3vEVp7s=;2IDeQ7LgmSUPurendP2sxQ=="
+secured: "rvNrrCZyhpWfOGqR/APy4KWW8nTZ08QRrecpLYh2nio2HBZHfpGsjCe8ulRJLn/Iuhgap2eo7o6s/JGqthOn+3xu5HDVQofyr4Xg/r9tul4HmC7+sRyUwc1IzLTp96izcjJ6ALIsVLBNe9gyAhXXp9c6PbudRWkoH9Vb6YqG9jL3G43zbWxcMSy/sQvqRedOC3kFlH5viuYi9OhHT0kLe2apxkNcZ4Kh5Pk33ojzWfKDBUEQJnC9PiWmAemGfxHxGDvfk/vH43ALb6fSRWFsLyYmwIPxHKxMu9Zo/7WKbd0x+9RrPjqSk5Je7EElP1O0GRVQ4BhWyJRoaUVxuy8T026TkcZxwBesE1qfAsaFYlc=;9jZk9YZ3Z6WVLKyprKwmpA=="
 ---
 
