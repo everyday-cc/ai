@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "textio"
   url: "https://twitter.com/textio"
-  followers: 8218
+  followers: 8217
 
 size: 51-200 employees
 yearFounded: 2014
@@ -33,7 +33,7 @@ topics:
   - Natural Language Processing
 
 images:
-  - url: "https://pbs.twimg.com/profile_images/1400925923289952258/lyYOHaWG_400x400.jpg"
+  - url: "https://pbs.twimg.com/profile_images/1411371007969955843/Octh013m_400x400.jpg"
     width: 400
     height: 400
     isCached: true

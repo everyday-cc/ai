@@ -23,7 +23,7 @@
       "twitter": {
         "username": "huggingface",
         "url": "https://twitter.com/huggingface",
-        "followers": 52509
+        "followers": 52523
       },
       "size": "11-50 employees",
       "yearFounded": 2016,
@@ -74,7 +74,7 @@
       "twitter": {
         "username": "grammarly",
         "url": "https://twitter.com/grammarly",
-        "followers": 199764
+        "followers": 199762
       },
       "size": "201-500 employees",
       "yearFounded": 2009,
@@ -123,7 +123,7 @@
       "twitter": {
         "username": "algolia",
         "url": "https://twitter.com/algolia",
-        "followers": 18757
+        "followers": 18759
       },
       "size": "201-500 employees",
       "yearFounded": 2012,
@@ -230,7 +230,7 @@
       "twitter": {
         "username": "deeplcom",
         "url": "https://twitter.com/deeplcom",
-        "followers": 10398
+        "followers": 10399
       },
       "yearFounded": 0,
       "locations": [
@@ -283,7 +283,7 @@
       "twitter": {
         "username": "taskus",
         "url": "https://twitter.com/taskus",
-        "followers": 4328
+        "followers": 4329
       },
       "size": "10,001+ employees",
       "yearFounded": 2008,
@@ -385,7 +385,7 @@
       "twitter": {
         "username": "NarrativaAI",
         "url": "https://twitter.com/NarrativaAI",
-        "followers": 972
+        "followers": 971
       },
       "size": "2-10 employees",
       "yearFounded": 2015,
@@ -440,7 +440,7 @@
       "twitter": {
         "username": "textio",
         "url": "https://twitter.com/textio",
-        "followers": 8218
+        "followers": 8217
       },
       "size": "51-200 employees",
       "yearFounded": 2014,
@@ -464,7 +464,7 @@
       "heat": 87,
       "images": [
         {
-          "url": "https://pbs.twimg.com/profile_images/1400925923289952258/lyYOHaWG_400x400.jpg",
+          "url": "https://pbs.twimg.com/profile_images/1411371007969955843/Octh013m_400x400.jpg",
           "width": 400,
           "height": 400,
           "title": "Textio",
@@ -493,7 +493,7 @@
       "twitter": {
         "username": "narrativesci",
         "url": "https://twitter.com/narrativesci",
-        "followers": 7261
+        "followers": 7260
       },
       "size": "51-200 employees",
       "yearFounded": 2010,
