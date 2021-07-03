@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/06/28/dell-releases-open-source-suite-o
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/28/dell-releases-open-source-suite-omnia-to-manage-ai-analytics-workloads/amp/"
 type: article
 quality: 87
-heat: 157
+heat: 167
 published: true
 
 provider:
@@ -89,6 +89,20 @@ related:
       - url: "https://healthitanalytics.com/images/site/article_headers/_normal/GettyImages-1164501571.jpg"
         width: 690
         height: 400
+        isCached: true
+  - title: "Artificial Intelligence (AI) in Real Estate Market Next Big Thing : Major Giants IBM, Cape Analytics, Baidu"
+    excerpt: "The latest research on “Global Artificial Intelligence (AI) in Real Estate Report 2021” offered by HTF MI provides a comprehensive investigation into the geographical landscape, industry size along with the revenue estimation of the business."
+    publishedDateTime: 2021-07-03T00:36:00Z
+    webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-ai-in-real-estate-market-next-big-thing-major-giants-ibm-cape-analytics-baidu"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 34
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2021/07/Canada-indigenous-schools-AFP-1K-02-600x337.jpg"
+        width: 600
+        height: 337
         isCached: true
   - title: "Presto the Future of Open Data Analytics, Foundation Says"
     excerpt: "The openness of Presto, its adherence to standard SQL, and the ubiquity and performance of modern cloud storage have combined to put Presto in the"

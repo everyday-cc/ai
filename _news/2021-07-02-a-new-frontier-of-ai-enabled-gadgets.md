@@ -8,8 +8,8 @@ webUrl: "https://www.wsj.com/articles/a-new-frontier-of-ai-enabled-gadgets-11625
 ampWebUrl: "https://www.wsj.com/amp/articles/a-new-frontier-of-ai-enabled-gadgets-11625241706"
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/a-new-frontier-of-ai-enabled-gadgets-11625241706"
 type: article
-quality: 89
-heat: 99
+quality: 91
+heat: 101
 published: true
 
 provider:
@@ -23,6 +23,7 @@ provider:
 topics:
   - AI
   - AI Hardware
+  - AI in Robotics
 
 images:
   - url: "https://images.wsj.net/im-363264/social"

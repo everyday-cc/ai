@@ -37,20 +37,6 @@ related:
         width: 2016
         height: 1474
         isCached: true
-  - title: "Deep machine learning completes information about the bioactivity of one million molecules"
-    excerpt: "A tool developed by the Structural Bioinformatics and Network Biology lab at IRB Barcelona predicts the biological activity of chemical compounds,"
-    publishedDateTime: 2021-06-28T09:09:00Z
-    webUrl: "https://www.alphagalileo.org/en-gb/Item-Display/ItemId/209942"
-    type: article
-    provider:
-      name: AlphaGalileo
-      domain: alphagalileo.org
-    quality: 29
-    images:
-      - url: "https://galileoalphamessages.s3.eu-west-2.amazonaws.com/Uploads/images/db897644-a15c-42ce-ad84-4369b9ac29e2--r2ksm.jpg"
-        width: 400
-        height: 217
-        isCached: true
 
 secured: "Rcp0eo0M686M+WRXmt+Ri6Eo/focFSHWVup2N91K2zXQMEXujTDkg6i7AjzbXpfOGXtE/hnZEshCpT9jZS/NcyZsB8glXvkPEezOlj+x30iqTQvUd45ShgNFWe0cz1C0PfmmYLUlrHi0asiEgrWwCTqKl2dnJCnPQEn+IJQD1R3erBxB2xXuFmoLBfRVOn9p01EW5BDieNsTTIMJvoIw+InKkCZ2oc+k1MxIjqNPGL0ciFMdukcMtVLeaS4aeiFXjnu903K6ULOLlm6/riC0iMHUiDbWY4U1Lijy6mn9jZXR+s+IGzbvC7S2CrQ3Rs4Nei8uVq2AQRcqmhM3jtDTW3N3HObEp1Ne00X/gASy6VQ=;Z35sgu7Q3LGraDJrdKh9BQ=="
 ---

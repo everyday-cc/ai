@@ -101,6 +101,20 @@ related:
         width: 690
         height: 400
         isCached: true
+  - title: "Artificial Intelligence (AI) in Real Estate Market Next Big Thing : Major Giants IBM, Cape Analytics, Baidu"
+    excerpt: "The latest research on “Global Artificial Intelligence (AI) in Real Estate Report 2021” offered by HTF MI provides a comprehensive investigation into the geographical landscape, industry size along with the revenue estimation of the business."
+    publishedDateTime: 2021-07-03T00:36:00Z
+    webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-ai-in-real-estate-market-next-big-thing-major-giants-ibm-cape-analytics-baidu"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 34
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2021/07/Canada-indigenous-schools-AFP-1K-02-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
   - title: "P&R Dental Strategies to Present on Artificial Intelligence and Future of Dental Analytics at NADP CONVERGE 2021"
     excerpt: "P&R Dental Strategies, LLC (P&R), the premier dental insights company delivering customized, actionable business intelligence to support a variety of dental payer objectives, today announced their plan to present at the National Association of"
     publishedDateTime: 2021-06-29T22:42:00Z

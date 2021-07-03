@@ -41,22 +41,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "EXCLUSIVE-Toyota-backed self-driving startup Pony.ai considers going public"
-    excerpt: "Self-driving startups such as Alphabet Inc’s Waymo and General ... Pony.ai, founded by former Google and Baidu Inc engineers Peng and Lou Tiancheng in 2016, has so far raised more than $1 billion, including $462 million from Toyota, valuing the startup ..."
-    publishedDateTime: 2021-06-28T09:06:00Z
-    webUrl: "https://cn.reuters.com/article/autonomous-ponyai-ipo-idCNL3N2O70X9"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idCNL3N2O70X9"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idCNL3N2O70X9"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 87
-    images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210625&t=2&i=1566947948&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEH5O0G8"
-        width: 817
-        height: 545
-        isCached: true
   - title: "Huawei aims on improving travel experience in self driving cars: Patent"
     excerpt: "Huawei has just recently published a new patent, which was related to the control system of autonomous vehicles. While smart cars with self driving technology are already available, the company seeks to improve the overall driving and travel experience."
     publishedDateTime: 2021-06-29T12:51:00Z
@@ -70,20 +54,6 @@ related:
       - url: "https://www.gizmochina.com/wp-content/uploads/2019/05/self-driving-cars.jpeg"
         width: 1024
         height: 683
-        isCached: true
-  - title: "Hyperdrive Daily: A Car Prang Made Me Reflect on Self-Driving"
-    excerpt: "Welcome to the Hyperdrive daily briefing, decoding the revolution reshaping the auto world, from EVs to self-driving cars and beyond."
-    publishedDateTime: 2021-06-28T10:30:00Z
-    webUrl: "https://www.bloomberg.com/news/newsletters/2021-06-28/hyperdrive-daily-a-car-prang-made-me-reflect-on-self-driving"
-    type: article
-    provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 69
-    images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iUgg5h1LFxE0/v1/1200x800.jpg"
-        width: 1200
-        height: 800
         isCached: true
   - title: "Staying On Top Of Trends Is Key To Tapping Into The Growing AI Market"
     excerpt: "The Covid-19 crisis has accelerated the development of the AI industry. It has also spurred adoption of and investment in artificial intelligence technologies not only from large institutions but also small-business owners."
@@ -208,20 +178,6 @@ related:
       - url: "https://metro.co.uk/wp-content/uploads/2021/07/SEI_85220509.jpg?quality=90&strip=all&zoom=1&resize=600%2C400"
         width: 600
         height: 400
-        isCached: true
-  - title: "Self-Driving Startup Pony.ai Eyes U.S. IPO in Intensifying Funding Race"
-    excerpt: "Pony.ai is mulling a U.S. IPO as it seeks more funds to support R&D and the commercialization of its autonomous vehicle services. That was CEO James Peng’s message in a recent interview with Reuters,"
-    publishedDateTime: 2021-06-28T10:19:00Z
-    webUrl: "https://www.caixinglobal.com/2021-06-28/self-driving-startup-ponyai-eyes-us-ipo-in-intensifying-funding-race-101732851.html"
-    type: article
-    provider:
-      name: Caixin Global
-      domain: caixinglobal.com
-    quality: 39
-    images:
-      - url: "https://img.caixin.com/2021-06-28/1624875462282569_560_373.jpg"
-        width: 560
-        height: 373
         isCached: true
   - title: "DeepRoute.ai, Level 4 Self-Driving Technology Provider, Supports Shenzhen During COVID-19 Outbreak by Transporting Test Samples"
     excerpt: "Following a COVID-19 outbreak in China's most populous province, Guangdong, DeepRoute.ai is currently transporting approximately 14,000 COVID-19 test samples per day to local hospitals in Shenzhen for testing through its advanced self-driving technology."

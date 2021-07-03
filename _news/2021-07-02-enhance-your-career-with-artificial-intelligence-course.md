@@ -67,20 +67,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Have you played with Artificial Intelligence"
-    excerpt: "You perhaps already know that the reason Artificial Intelligence’s neural networks are better than traditional computer networks and why it can ‘learn’ and ‘grow’ is because it tries to mimic the human brain."
-    publishedDateTime: 2021-06-28T11:02:00Z
-    webUrl: "https://www.sify.com/news/have-you-played-with-artificial-intelligence-news-columns-vg2lcnfbiibad.html"
-    type: article
-    provider:
-      name: Sify.com
-      domain: sify.com
-    quality: 37
-    images:
-      - url: "https://www.sify.com/uploads/artificialintelligenceap2-tdpn7vdcieeaf.jpg"
-        width: 700
-        height: 467
-        isCached: true
 
 secured: "LpufrGPIze0pR8Ddem8MuaCzW40M+2yb7GwQQjg3XH2ETRrVvWbBez8Q7iTToPOIrit0cZDS4SvQ1RLhnUsROsgF/m4LUvp0Yj8IRfsRWsbb5CTmRqwr0YXVu3gQWj/LA/5rwzSYZek23wKmjwrHq8EaqE5/1u7Tp5Z4SLabokHiZpx8oaolMv6A3oVsu7aShjImUhLEoPNq8w1cdB74h43qX49bm49Eu4fszuJu/4FWv+RSUXPH4i5L/G8tVAHKtA8yCmXigvTV3b+q49GPUuys4Wp3dv0LjATn1ZBdcXKFgOR3FFntPrc8zCk4J41q9kiwpajA3P4zt/o8jEqfOXjcWuJ8uPSM5hexMrObKbDuoj6PI0Mle6NxaOjE/pbmdr1GGfHkjFJA+rGL4loNeTvSfqy8mS2BGEpQWaL60ihczlquw5mf7a/30ITGxVpzj4gE6REmBwNUiB9Ugtw0CQBnoii3pDZLoG0jy9QwV5lDh3hFi7ED3eNjDT2+n0abYjJxXKFIZ/03k0uw27E6ZQ==;P6CLZxapE4MZViNaITNcsA=="
 ---

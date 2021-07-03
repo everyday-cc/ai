@@ -50,20 +50,6 @@ related:
       name: Techinasia
       domain: techinasia.com
     quality: 34
-  - title: "F|T: The FinTech Times – FinTech SPAC attack"
-    excerpt: "Welcome to the FinTech Times, a weekly newsletter covering the biggest FinTech news from around the globe. If you want to read F|T before anyone else, make sure to subscribe using the form at the bottom of this page."
-    publishedDateTime: 2021-06-28T09:30:00Z
-    webUrl: "https://betakit.com/ft-the-fintech-times-fintech-spac-attack/"
-    type: article
-    provider:
-      name: BetaKit
-      domain: betakit.com
-    quality: 24
-    images:
-      - url: "https://cdn.betakit.com/wp-content/uploads/2019/12/Portag3.jpg"
-        width: 1050
-        height: 700
-        isCached: true
   - title: "FINBOA Named 2021 TAG FinTech ADVANCE Award Winner"
     excerpt: "FINBOA, Inc., a leading innovator in digital automation and regulatory compliance for financial institutions, was recently selected as a 2021 TAG FinTech ADVANCE Award winner by the Technology Association of Georgia (TAG),"
     publishedDateTime: 2021-06-30T11:53:00Z

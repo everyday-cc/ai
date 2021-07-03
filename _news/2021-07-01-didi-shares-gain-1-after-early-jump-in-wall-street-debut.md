@@ -27,20 +27,17 @@ images:
     isCached: true
 
 related:
-  - title: "China's Didi touts tech spending ahead of Wall St debut"
-    excerpt: "Chinese ride-hailing service Didi says it lost $5.5 billion over the past three years ahead of its U.S. stock market debut Wednesday but it's highlighting its global reach and investments in ..."
-    publishedDateTime: 2021-06-30T07:07:00Z
-    webUrl: "https://www.independent.co.uk/news/chinas-didi-touts-tech-spending-ahead-of-wall-st-debut-didi-china-beijing-wall-st-goldman-sachs-b1875272.html"
+  - title: "China's Didi Touts Tech Spending Ahead of Wall St Debut"
+    excerpt: "Early investors included Apple Inc., Japan’s Softbank, Alibaba and Chinese internet giants, Tencent Holding Ltd. and Baidu Inc. Didi ... into development of self-driving, electric vehicles ..."
+    publishedDateTime: 2021-06-30T07:11:00Z
+    webUrl: "https://www.usnews.com/news/business/articles/2021-06-30/chinas-didi-touts-tech-spending-ahead-of-wall-st-debut"
+    ampWebUrl: "https://www.usnews.com/news/business/articles/2021-06-30/chinas-didi-touts-tech-spending-ahead-of-wall-st-debut?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/business/articles/2021-06-30/chinas-didi-touts-tech-spending-ahead-of-wall-st-debut?context=amp"
     type: article
     provider:
-      name: The Independent
-      domain: independent.co.uk
-    quality: 24
-    images:
-      - url: "https://static.independent.co.uk/2021/06/30/08/China_Didi_IPO_76014.jpg?width=1200&auto=webp&quality=75"
-        width: 1200
-        height: 782
-        isCached: true
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 54
 
 secured: "WTMYirCQLS7Py4quV0P22B84olM+hgD+fH+TzitK5Iosh/tSNS2QK9i/I0GLTDDzY5hyAboOvjZGGhiMeaRpnc1OVNWVPB2DBULvMwSumzA9k3CVzqNyssdcSW91sBtnzbAmdvTc7ZjUkQKuphIOyiSMQa8dooRIQXPnDmNN29Li0jfl3SbPDWkEVQA/EN9RPSNZJyzxiXD4rl4oW7eKPHmw097iplZv4B2/PP8rAjdwrAAOywzRH7foPLfaytf7MVm3W6j6B9ugqwW7Xqf+ou8HXBj2zKaWqo0QSkT5k+g1/meocHym7J/h/UGEBHCjM2oObCsOP34HexSI1yFcXheZBQUprVV4c7pV61AzLVY=;BmHpCAoM5etSAbT4T3IUKA=="
 ---

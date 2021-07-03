@@ -9,7 +9,7 @@ ampWebUrl: "https://www.fool.com/amp/investing/2021/06/30/what-investors-know-ab
 cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/06/30/what-investors-know-about-baidu-ai-chip-spin-off/"
 type: article
 quality: 104
-heat: 114
+heat: 104
 published: true
 
 provider:
@@ -29,22 +29,6 @@ images:
     width: 1200
     height: 721
     isCached: true
-
-related:
-  - title: "China's Baidu spins off semiconductor unit Kunlun Chip"
-    excerpt: "Chinese search and cloud giant Baidu has spun out its semiconductor design business into an independent company. Kunlun Chip (Beijing) Technology Company has formed as its own company, and in March raised money from CITIC Private Equity Funds Management,"
-    publishedDateTime: 2021-06-28T10:11:00Z
-    webUrl: "https://www.datacenterdynamics.com/en/news/chinas-baidu-spins-off-semiconductor-unit-kunlun-chip/"
-    type: article
-    provider:
-      name: Datacenter Dynamics
-      domain: datacenterdynamics.com
-    quality: 54
-    images:
-      - url: "https://media.datacenterdynamics.com/media/images/Baidu_headquarters.2e16d0ba.fill-1200x630.jpg"
-        width: 400
-        height: 211
-        isCached: true
 
 secured: "9MVSweUuR7lc4NGtNgI1BCJOZ2IvaQyqumaKgGuU/cArPkTDdYm2j2rQakV1AYbaIPqdczEvFptfbfrXpnfmhwr1SgbKpVuQ+9iJBgWPYWBfIJIJHlt9nQoxshM52AbT+TFJFevaDZQQAU83a9OoH4gK+FGe0N1Rh4XL+OcWpg7J8V/8krdpuSSkjYb43OQsK7+o1f5ho7+nK+g3z4F7w+RwVkpWTodRlxUFeZjO1am89lUOlTLLR0fL7KMVw9e7CIYCPvwEf8gJYM9f+goQJXfY2zpvwJLTRKwVW6U2aWFzdv2Z+lM1XsNmvgBFdEL2RmbSb6xO17nFQxsoEaklHVAIylIH+JqoxGkZTZN9o1edM6xkdoS5xvRLimBXt1p+3lArd8EOlCLh3jrHy5E/Tfb/oRasI22R8T1F0APNk6ogvSawRyKdS0agVZR99KVK09hFVxPKZcfxhQ37o9My0gg33tGWvJ+TeIXhCdfaXGuTFV5SEOqyb3fwxW7MzshZyGLc5udAifgZobZfzcI1pw==;L/8g5Ewy16AaDBPOrw6Rmw=="
 ---

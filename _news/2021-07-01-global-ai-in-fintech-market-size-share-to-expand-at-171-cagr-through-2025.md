@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/global-ai-in-fintech-mar
 webUrl: "https://www.marketwatch.com/press-release/global-ai-in-fintech-market-size-share-to-expand-at-171-cagr-through-2025-2021-07-01"
 type: article
 quality: 66
-heat: 186
+heat: 176
 published: true
 
 provider:
@@ -86,20 +86,6 @@ related:
       - url: "https://www.digitaljournal.com/wp-content/uploads/2021/06/Europe-Tourists-AFP-1K-04-600x337.jpg"
         width: 600
         height: 337
-        isCached: true
-  - title: "Fintech benefits consumers and intermediaries"
-    excerpt: "The different technologies associated with fintech assist consumers with their decision-making process regarding financial products and enable intermediaries to provide their clients with needs-driven solutions and"
-    publishedDateTime: 2021-06-28T10:59:00Z
-    webUrl: "https://www.bizcommunity.com/Article/196/751/217327.html"
-    type: article
-    provider:
-      name: Bizcommunity
-      domain: bizcommunity.com
-    quality: 24
-    images:
-      - url: "https://biz-file.com/c/2106/616382.jpg?2"
-        width: 639
-        height: 503
         isCached: true
   - title: "Top 5 Fintech Cities in the USA"
     excerpt: "We’ve compiled a list of the top five fintech hubs’ in the US, outlining their most distinctive characteristics and features, as well as some of the top fintech companies they’ve created."

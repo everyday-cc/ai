@@ -97,20 +97,6 @@ related:
         width: 600
         height: 337
         isCached: true
-  - title: "Fintech benefits consumers and intermediaries"
-    excerpt: "The different technologies associated with fintech assist consumers with their decision-making process regarding financial products and enable intermediaries to provide their clients with needs-driven solutions and"
-    publishedDateTime: 2021-06-28T10:59:00Z
-    webUrl: "https://www.bizcommunity.com/Article/196/751/217327.html"
-    type: article
-    provider:
-      name: Bizcommunity
-      domain: bizcommunity.com
-    quality: 24
-    images:
-      - url: "https://biz-file.com/c/2106/616382.jpg?2"
-        width: 639
-        height: 503
-        isCached: true
   - title: "8 Types Of Fintech To Take Advantage Of"
     excerpt: "Whether it’s checking our bank balance with an app or Venmoing a friend the cost of a bagel, fintech impacts our daily lives. By streamlining and automating"
     publishedDateTime: 2021-07-01T07:31:00Z

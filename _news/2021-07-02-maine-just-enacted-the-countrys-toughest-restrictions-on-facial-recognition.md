@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/maine-just-enacted-the-countrys
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/maine-just-enacted-the-countrys-toughest-restrictions-on-facial-recognition/"
 type: article
 quality: 101
-heat: 271
+heat: 272
 published: true
 
 provider:

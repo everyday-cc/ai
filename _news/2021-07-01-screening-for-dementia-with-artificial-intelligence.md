@@ -68,20 +68,6 @@ related:
       name: PCQuest
       domain: pcquest.com
     quality: 39
-  - title: "Have you played with Artificial Intelligence"
-    excerpt: "You perhaps already know that the reason Artificial Intelligence’s neural networks are better than traditional computer networks and why it can ‘learn’ and ‘grow’ is because it tries to mimic the human brain."
-    publishedDateTime: 2021-06-28T11:02:00Z
-    webUrl: "https://www.sify.com/news/have-you-played-with-artificial-intelligence-news-columns-vg2lcnfbiibad.html"
-    type: article
-    provider:
-      name: Sify.com
-      domain: sify.com
-    quality: 37
-    images:
-      - url: "https://www.sify.com/uploads/artificialintelligenceap2-tdpn7vdcieeaf.jpg"
-        width: 700
-        height: 467
-        isCached: true
 
 secured: "7s0eTvVLGWGo3cIzvRtHAxYD6MruNwJTL78e1weiDJDfIvMjViGrkUh+VDLy8GPcvlgkst30LcPb/RT3hs+3n6Whig4QlcIFQXuGds6yaayk1XvXFczpV1anGREv2X6qk4REl+rfAzinzS3ANzXELxuq8mdygcLa+GGk/Cgup4HAIED2jw8gzgWwg9rEXB8YTaQGMZZnWox3WmQSuwq+a98nb8UJGJ2KzpyhjMNUUnd9ip5pV/lBp28OiAthCRNnM88YtMOqWIVS+fQd1SXMJ/+rpfeyG1A1Rb7PXnetK795k9Su8LU27U17bLbJkeo7iqBCBzEtj1h7LXoba/GuIxppTFvsuGP0ag19QVzt/Bc=;IQmMjEsBWkzAb3YhQQUg+g=="
 ---

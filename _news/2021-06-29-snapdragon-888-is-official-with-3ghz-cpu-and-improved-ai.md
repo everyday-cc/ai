@@ -9,7 +9,7 @@ ampWebUrl: "https://propakistani.pk/2021/06/29/snapdragon-888-is-official-with-3
 cdnAmpWebUrl: "https://propakistani-pk.cdn.ampproject.org/c/s/propakistani.pk/2021/06/29/snapdragon-888-is-official-with-3ghz-cpu-and-improved-ai/amp/"
 type: article
 quality: 59
-heat: -1
+heat: 59
 published: false
 
 provider:
@@ -25,24 +25,6 @@ images:
     width: 1000
     height: 565
     isCached: true
-
-related:
-  - title: "Snapdragon 888 Plus Brings Improvements To AI & Performance"
-    excerpt: "Qualcomm has just officially announced its new flagship processor, the Snapdragon 888 Plus. It has become a custom for Qualcomm to announce a ‘Plus’"
-    publishedDateTime: 2021-06-28T10:51:00Z
-    webUrl: "https://www.androidheadlines.com/2021/06/qualcomm-snapdragon-888-plus-official-specs-features.html"
-    ampWebUrl: "https://www.androidheadlines.com/2021/06/qualcomm-snapdragon-888-plus-official-specs-features.html/amp"
-    cdnAmpWebUrl: "https://www-androidheadlines-com.cdn.ampproject.org/c/s/www.androidheadlines.com/2021/06/qualcomm-snapdragon-888-plus-official-specs-features.html/amp"
-    type: article
-    provider:
-      name: Android
-      domain: androidheadlines.com
-    quality: 59
-    images:
-      - url: "https://www.androidheadlines.com/wp-content/uploads/2019/02/Qualcomm-Snapdragon-AH-NS-02.jpg"
-        width: 1440
-        height: 810
-        isCached: true
 
 secured: "2nSTO1/M4xagDY/oJwqXcu9oI2l9kcm8pCZan+w2a3J40Mzt42XAC3UCQaVUP0qdr4KLlCR7nd03hjG3ouFzCa1/dFpRqpA6dVW9Jg5XiETYRnsfsM08dOjOozsdmUbYZALUwYfG36pg5B+HCsPPhOqGtQFaUhdz2FcLPfuXJE91ytChT+YvZ8r/ktTD3Mtwg4JDF2jMV7ffg8dvwcO57hgngbB9kl6ffLWztuzImHAJP3S4pdBSq6qSwaeM2ilgiYgDB7L6c4CODh10PoVTymYWxYijhisuNvNzk8W2Jm2pZjJISUSOJTOBJx3J8IQirlMXMnTFSWHq4QY3CN9/9N3wdPvzXDFR4oB2YgGFxAg=;fE7o2MB33xCyR7j41iONpQ=="
 ---

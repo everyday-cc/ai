@@ -39,20 +39,6 @@ related:
         width: 457
         height: 274
         isCached: true
-  - title: "F|T: The FinTech Times – FinTech SPAC attack"
-    excerpt: "Welcome to the FinTech Times, a weekly newsletter covering the biggest FinTech news from around the globe. If you want to read F|T before anyone else, make sure to subscribe using the form at the bottom of this page."
-    publishedDateTime: 2021-06-28T09:30:00Z
-    webUrl: "https://betakit.com/ft-the-fintech-times-fintech-spac-attack/"
-    type: article
-    provider:
-      name: BetaKit
-      domain: betakit.com
-    quality: 24
-    images:
-      - url: "https://cdn.betakit.com/wp-content/uploads/2019/12/Portag3.jpg"
-        width: 1050
-        height: 700
-        isCached: true
   - title: "Qatar FinTech Hub preps demo day"
     excerpt: "Qatar FinTech Hub (QFTH), founded by Qatar Development Bank (QDB) to support the growth of the FinTech industry in Qatar, has announced the Demo Day for Wave 2 of its flagship Incubator and Accelerator Programs which will take place on 1st July 2021,"
     publishedDateTime: 2021-06-28T14:04:00Z

@@ -86,20 +86,6 @@ related:
         width: 600
         height: 337
         isCached: true
-  - title: "Fintech benefits consumers and intermediaries"
-    excerpt: "The different technologies associated with fintech assist consumers with their decision-making process regarding financial products and enable intermediaries to provide their clients with needs-driven solutions and"
-    publishedDateTime: 2021-06-28T10:59:00Z
-    webUrl: "https://www.bizcommunity.com/Article/196/751/217327.html"
-    type: article
-    provider:
-      name: Bizcommunity
-      domain: bizcommunity.com
-    quality: 24
-    images:
-      - url: "https://biz-file.com/c/2106/616382.jpg?2"
-        width: 639
-        height: 503
-        isCached: true
   - title: "Top 5 Fintech Cities in the USA"
     excerpt: "We’ve compiled a list of the top five fintech hubs’ in the US, outlining their most distinctive characteristics and features, as well as some of the top fintech companies they’ve created."
     publishedDateTime: 2021-06-29T07:00:00Z

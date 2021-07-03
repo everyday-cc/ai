@@ -95,6 +95,20 @@ related:
         width: 690
         height: 400
         isCached: true
+  - title: "Artificial Intelligence (AI) in Real Estate Market Next Big Thing : Major Giants IBM, Cape Analytics, Baidu"
+    excerpt: "The latest research on “Global Artificial Intelligence (AI) in Real Estate Report 2021” offered by HTF MI provides a comprehensive investigation into the geographical landscape, industry size along with the revenue estimation of the business."
+    publishedDateTime: 2021-07-03T00:36:00Z
+    webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-ai-in-real-estate-market-next-big-thing-major-giants-ibm-cape-analytics-baidu"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 34
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2021/07/Canada-indigenous-schools-AFP-1K-02-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
   - title: "Presto the Future of Open Data Analytics, Foundation Says"
     excerpt: "The openness of Presto, its adherence to standard SQL, and the ubiquity and performance of modern cloud storage have combined to put Presto in the"
     publishedDateTime: 2021-06-28T20:36:00Z

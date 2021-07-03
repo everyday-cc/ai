@@ -123,6 +123,20 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 41
+  - title: "Deep Learning System Market Size, Business Scenario, Share, Growth, Insights, Industry Analysis, Trends and Forecasts Report 2028"
+    excerpt: "The global deep learning system market size is expected to reach USD 93.34 Billion at a steady CAGR of 39.1% in"
+    publishedDateTime: 2021-07-02T10:12:00Z
+    webUrl: "https://www.marketwatch.com/press-release/deep-learning-system-market-size-business-scenario-share-growth-insights-industry-analysis-trends-and-forecasts-report-2028-2021-07-02"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 40
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Global Edge Artificial Intelligence (AI) Chip Market 2021 Major Manufacturers, Growth Statistics, Upcoming Trends, and Growth Opportunities to 2026"
     excerpt: "The report titled Global Edge Artificial Intelligence AI Chip Market Growth 2021-2026 offered by MRInsightsbiz contains i"
     publishedDateTime: 2021-06-29T21:38:00Z
@@ -155,17 +169,6 @@ related:
       name: The Sentinel
       domain: ksusentinel.com
     quality: 19
-  - title: "COVID-19 Impact on Artificial Intelligence Chipsets Market - Global Industry Analysis, Size, Share, Growth, Trends and Forecast 2021-2027"
-    excerpt: "Artificial Intelligence Chipsets Market size exceeded USD 8 billion in 2019 and is estimated to grow at around 35 CAGR between 2021 and 2027 Artificial intelligence chipset market has reported a significant increase in size and value thanks to the"
-    publishedDateTime: 2021-06-28T09:08:00Z
-    webUrl: "https://www.openpr.com/news/2315091/covid-19-impact-on-artificial-intelligence-chipsets-market"
-    ampWebUrl: "https://www.openpr.com/amp/2315091/covid-19-impact-on-artificial-intelligence-chipsets-market"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2315091/covid-19-impact-on-artificial-intelligence-chipsets-market"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 4
 
 secured: "j37A8OEOgiU8I9zhPMizi7A7G9t7pEQIerJ0eQK0zYHSZ0wtXt7TSze+lApSFdxtOZ8kH+EoQudVB3SzidowXClJ2fF4CM7xCpeighmz8nwdMKuuRwudWrQFVgJ/i/OmisH1m6r/J7N0oKK90T2cIJFsjHkPTobJq8lzztAejEiCUeOjpwrFMff2bk05xkSJ9ZakOCp7y6zLjp2AHudgnKJYtAXQRLiu5JrYr9E2ChLz6zg5nN5o4XT4Ez4Bl9osAdweYGORCC+500HG44QYjEii04KfUQeNbM3es0A0v/TD6WbcC3zloVKFV2dcrDtWiAmEY41ghNNVCkA84PDdVxQNtqx+HUSlaPCUbfqtgRg=;6mmPK5EIpWnfOFQLIWXjgw=="
 ---

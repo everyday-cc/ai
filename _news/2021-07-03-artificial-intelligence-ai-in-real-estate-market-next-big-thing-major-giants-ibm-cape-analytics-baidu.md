@@ -1,27 +1,26 @@
 ---
 category: news
-title: "Machine Learning Algorithm Brings Predictive Analytics to Cell Study"
-excerpt: "Scientists have created a new system that uses machine learning and predictive analytics to determine which transcription factors are active in an individual cell."
-publishedDateTime: 2021-07-02T13:30:00Z
-originalUrl: "https://healthitanalytics.com/news/machine-learning-algorithm-brings-predictive-analytics-to-cell-study"
-webUrl: "https://healthitanalytics.com/news/machine-learning-algorithm-brings-predictive-analytics-to-cell-study"
+title: "Artificial Intelligence (AI) in Real Estate Market Next Big Thing : Major Giants IBM, Cape Analytics, Baidu"
+excerpt: "The latest research on “Global Artificial Intelligence (AI) in Real Estate Report 2021” offered by HTF MI provides a comprehensive investigation into the geographical landscape, industry size along with the revenue estimation of the business."
+publishedDateTime: 2021-07-03T00:36:00Z
+originalUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-ai-in-real-estate-market-next-big-thing-major-giants-ibm-cape-analytics-baidu"
+webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-ai-in-real-estate-market-next-big-thing-major-giants-ibm-cape-analytics-baidu"
 type: article
-quality: 39
+quality: 34
 heat: -1
 published: false
 
 provider:
-  name: Analytics
-  domain: healthitanalytics.com
+  name: Digital Journal
+  domain: digitaljournal.com
 
 topics:
-  - Machine Learning
   - AI
 
 images:
-  - url: "https://healthitanalytics.com/images/site/article_headers/_normal/GettyImages-1164501571.jpg"
-    width: 690
-    height: 400
+  - url: "https://www.digitaljournal.com/wp-content/uploads/2021/07/Canada-indigenous-schools-AFP-1K-02-600x337.jpg"
+    width: 600
+    height: 337
     isCached: true
 
 related:
@@ -87,19 +86,19 @@ related:
         width: 1920
         height: 1152
         isCached: true
-  - title: "Artificial Intelligence (AI) in Real Estate Market Next Big Thing : Major Giants IBM, Cape Analytics, Baidu"
-    excerpt: "The latest research on “Global Artificial Intelligence (AI) in Real Estate Report 2021” offered by HTF MI provides a comprehensive investigation into the geographical landscape, industry size along with the revenue estimation of the business."
-    publishedDateTime: 2021-07-03T00:36:00Z
-    webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-ai-in-real-estate-market-next-big-thing-major-giants-ibm-cape-analytics-baidu"
+  - title: "Machine Learning Algorithm Brings Predictive Analytics to Cell Study"
+    excerpt: "Scientists have created a new system that uses machine learning and predictive analytics to determine which transcription factors are active in an individual cell."
+    publishedDateTime: 2021-07-02T13:30:00Z
+    webUrl: "https://healthitanalytics.com/news/machine-learning-algorithm-brings-predictive-analytics-to-cell-study"
     type: article
     provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 34
+      name: Analytics
+      domain: healthitanalytics.com
+    quality: 39
     images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2021/07/Canada-indigenous-schools-AFP-1K-02-600x337.jpg"
-        width: 600
-        height: 337
+      - url: "https://healthitanalytics.com/images/site/article_headers/_normal/GettyImages-1164501571.jpg"
+        width: 690
+        height: 400
         isCached: true
   - title: "Presto the Future of Open Data Analytics, Foundation Says"
     excerpt: "The openness of Presto, its adherence to standard SQL, and the ubiquity and performance of modern cloud storage have combined to put Presto in the"
@@ -139,6 +138,6 @@ related:
       domain: reportsnreports.com
     quality: 9
 
-secured: "YABD3fIY4THFkUl06pnumWJSSMgxuyln5r5TblGYHABfKE+mtM8xnCQlIyWTEk25M3VGLpXwcZpmtgGRSvLZTI9eGudF+ygRdFtu6IUtcmmZria/NByc5X/3Jh9kvt+J0pDHGE1IS5xh6A2BUVF78+7H6+1zDVPP4SXtH+4j5uYEiXRwLC0hGQW4kWpQ1lPlsl0Ow2OcCyp1wgrM7exxcaImqqdIqYk+/D6DRq5iL8Bn3vNurLDqi6a4Xvzh/VqRpviKdl4NscdM+6WU5SunGJBj9D5hR35ggrpjj1hqhxnnhCXJznY4/L/ViO5+vfDyRfkeATqZbVGZR4Ci/iUFXeIhuIwO0UMXvbDdo7i5fHCM/1T8TJiPNobtMC96zhzsld3RClv7Yr7WXUyKf0pINZJ2yLpEC08KLEpRvrRZwwSlmxX8Ybbf8SmdkXqWL/THPkr4bToXkEq0qWVnn8AMWKoK4d6BRSHi1B+KLsCAXtks+OuD058BCcUs95dZiadAbVcTSLCxRYkKPMxgIP1+6A==;HTJCrLtxNgyq2kXdRZ7rqg=="
+secured: "DKAQ80GFlC6/ysXHY9v7elOREqmj3cvlm14eQO1Ch5jiKGcEuaEL/N+1TI3CVSrnv5SBm8dfQ1K86DQGJ1oNXBQhUIxNlOOuNkoFeBV9i8fpBkawFG5n6meh/IJ5hNrVFF3BqAdIQKp1aBPgyvRgQ4W5WMh0MdjlcFWXcSNTnWIN892AZwBbs0iC5rQIrJVpOizw5EwQbI6yyAUlxOEjDx6shWyKeBrfkEe4OiAJXGZ48CNu771spaw4HSbAO9Oudgx0CrXFF/QAy+PMNtwoz9N2rR/bfIbzM1N8fFvmbpTxKWkaWQ7joNTHnyWvILaiDhKeYvz+RwGEmZVNRJ0f7sef9Sj7Yhl93FPDPItoF2E=;fB4HwRTRHVtvWG2q+UdquA=="
 ---
 

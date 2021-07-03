@@ -1,13 +1,13 @@
 ---
 category: news
 title: "Visionary Trio Creates Next Gen Video and Image Annotation Platform for Machine Learning"
-excerpt: "The Innotescus platform delivers high-performance annotation tools for image and video, bolstered by robust collaboration and analytics"
-publishedDateTime: 2021-06-29T14:19:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/visionary-trio-creates-next-gen-video-and-image-annotation-platform-for-machine-learning-1030563454"
-webUrl: "https://markets.businessinsider.com/news/stocks/visionary-trio-creates-next-gen-video-and-image-annotation-platform-for-machine-learning-1030563454"
+excerpt: "Innotescus ® is announcing the launch of its image and video annotation platform. The Innotescus platform provides an intuitive annotation workspace, comprehensive analytics, and a collaborative environment for teams to produce superior quality training datasets."
+publishedDateTime: 2021-06-29T16:07:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/visionary-trio-creates-next-gen-video-and-image-annotation-platform-for-machine-learning-1030563448"
+webUrl: "https://markets.businessinsider.com/news/stocks/visionary-trio-creates-next-gen-video-and-image-annotation-platform-for-machine-learning-1030563448"
 type: article
 quality: 60
-heat: 70
+heat: 80
 published: true
 
 provider:
@@ -29,6 +29,15 @@ images:
     isCached: true
 
 related:
+  - title: "Pivotree Updates Machine Learning Platform With Image Recognition Features and Enhanced Data Management Functionality"
+    excerpt: "CNW/ - Pivotree Inc. (TSXV: PVT) (\"Pivotree'' or the \"Company\"), a leading provider of Frictionless Commerce solutions, today announced the next generation of its DIVE Machine Learning platform, a SaaS-based solution that combines machine learning,"
+    publishedDateTime: 2021-06-29T11:08:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-pivotree-updates-machine-learning-platform-with-image-recognition-/2021/06/29/9399321.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
   - title: "2021 Deep Learning in Machine Vision Market, Business Growth, Current Trends, Rules, Challenge, and Interaction, Goals, Key Components, Forecast 2027"
     excerpt: "Global Deep Learning in Machine Vision Market 2021 is an all-inclusive, proficient report provides an in-detail analysis of extensive drivers, challenges, restraints, opportunities, present market trends and approach influencing the Deep Learning in Machine Vision industry together with projections and forecast to 2027."
     publishedDateTime: 2021-07-01T11:23:00Z
@@ -39,6 +48,6 @@ related:
       domain: ksusentinel.com
     quality: 0
 
-secured: "QuSqce90nKuhDe1soitFpxRhMFh9BVi5L8Gn4JuKdMEGHVfZEbPjluiG0N1SlxoWptm0Dh0GpV3wDoefttgib0ZILrn8n2B2IGJzBeJaSZCpJpgyoyv3KEcb7rKSgSmtk0IQIgraP9fO0TYsotz7NIqQX9j//q4qx7jofvenxS9bz9Lm01IiXXjMPcqYge0rheqyXEcgtlxf8Z+zjoYYFUBoKYP95kmpleiIsc+DY2nOD29t3wSqBbE5l+rd09ecDBMMcOLpJ5SJXb74nQkaWgxBEnfO6Tv1xwGy6aM8vy09qxHvC4zAlz4d3ZuFafSk27vs74fcf02a6qaZEZTgbJCYHI9LvQaJIpxiiMDHXr0=;j9HVYhLElvq61rRtgeGk8Q=="
+secured: "mVvTviF9MSLRfQcXJdURvB0ELnep4hZQLBf1WcfctzXDAhO05109knBeWUhnd5E72X0XswPmRh0zhOs/yJlm097NtUSGBAHuLjrYUtf9rlVPcIGGqjKVp9A+mNxj7aR9T1gzb9MrNpMn4JQBDmoIyGGxxWCFPzpZ65MdJizMghUZQpR3YJFesJRCfTi54xsjCnAkOr8lKcDZbNd1mueXpv+89Bn/JY+rq8lmFMv+wQl372xefY97EIRnelq08aWg/8LCBTUjfKJ3zJGW+6he1Vdp3H6r/mC6mUQkAbxwrlCmeMtGBX5hEXD30bBUR52HJiNPwckF1UYRAMF/hqeikypj2BoyIL7mgZK3o0lSZTg=;cOG2BsFTBtSEUnsctC6eiQ=="
 ---
 

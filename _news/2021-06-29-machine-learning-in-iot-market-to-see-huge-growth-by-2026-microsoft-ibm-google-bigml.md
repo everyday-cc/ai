@@ -40,22 +40,6 @@ related:
         width: 672
         height: 448
         isCached: true
-  - title: "Voice Recognition Market Growth Rate And Industry Analysis 2021-2026"
-    excerpt: "Voice Recognition Market offers good growth opportunities during the next five year period ending 2026 In its detailed market assessment report Stratview Research has analysed the Voice Recognition Market emerging trends forecasts competitive landscapes and factors governing the market dynamics"
-    publishedDateTime: 2021-06-28T10:54:00Z
-    webUrl: "https://www.openpr.com/news/2315215/voice-recognition-market-growth-rate-and-industry-analysis"
-    ampWebUrl: "https://www.openpr.com/amp/2315215/voice-recognition-market-growth-rate-and-industry-analysis"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2315215/voice-recognition-market-growth-rate-and-industry-analysis"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 44
-    images:
-      - url: "https://cdn.openpr.com/U/6/U628741252_g.jpg"
-        width: 400
-        height: 300
-        isCached: true
 
 secured: "cgO/Z4bQLF3fMEnaVHRTYpRNPrR3DbA/X9BUDTgrTNGMG24pmzYlm1PhtDYBMzeJbYNB1r1j/mMX9yWhDcBL/qDODqMD+2RICm84c/SsPhMZ3a6DNtVSYoxCCLVJY0sPikvTOnqRozh+lwZ9uDPrislFqEX+9ma8PHfqfWFO5A5JBg8k7cbzAkMIXJzidC7S1XeMCVl36z/VS/34eVzO0mj3SgndtdXnnGfIuP8b9bvd1DScVvDIxmttUuOn6yxLDohtN7VQiJmz/U7m72itcCByBXxepRzKSkcGv8RruzyrIOPYFGBwsA4A/TAV27BR8rA/zFz2vmaODjWBq/z0Oh22CTwZmeHSCYnDJErJoxA=;dgE/nrt5SSS0euzoWh6j6g=="
 ---
