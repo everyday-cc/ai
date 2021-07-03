@@ -2,57 +2,6 @@
   "page": 78,
   "value": [
     {
-      "path": "_news/2021-05-06-figure-raises-75m-to-help-startup-employees-better-understand-their-compensation.md",
-      "title": "Figure raises $7.5M to help startup employees better understand their compensation",
-      "excerpt": "The topic of compensation has historically been a delicate one that has left many people — especially startup employees — wondering just what drives what can feel like random decisions around pay and equity.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/05/06/figure-raises-7-5m-for-compensation-management-platform/",
-      "originalUrl": "https://techcrunch.com/2021/05/06/figure-raises-7-5m-for-compensation-management-platform/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/05/Figure-Co-Founders-and-Co-CEOs-Miles-Hobby-and-Geoffrey-Tisserand-1.jpeg?w=680",
-          "width": 680,
-          "height": 453,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/05/06/figure-raises-7-5m-for-compensation-management-platform/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/05/06/figure-raises-7-5m-for-compensation-management-platform/amp/",
-      "publishedDateTime": "2021-05-06T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-05-06-how-ai-is-helping-nvidia-improve-us-postal-service-delivery.md",
       "title": "How AI is helping Nvidia improve U.S. Postal Service delivery",
       "excerpt": "Nvidia says it's helping the U.S. Postal Service to expedite and improve the reliability of mail delivery using AI.",
@@ -1156,6 +1105,50 @@
       "topics": [
         "Microsoft AI",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-06-machine-learning-crash-course-from-google.md",
+      "title": "Machine Learning Crash Course From Google",
+      "excerpt": "If you’ve yet to climb the learning curve, you might be interested in a new free class from Google using TensorFlow. Of course, we’ve covered tutorials for TensorFlow before, but this is ...",
+      "sourceUrl": null,
+      "webUrl": "https://hackaday.com/2018/05/22/machine-learning-crash-course-from-google/",
+      "originalUrl": "https://hackaday.com/2018/05/22/machine-learning-crash-course-from-google/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://hackaday.com/wp-content/uploads/2018/05/google-machine-learning-featured.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-05T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hackaday",
+        "domain": "hackaday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "Machine Learning"
       ]
     }
   ],

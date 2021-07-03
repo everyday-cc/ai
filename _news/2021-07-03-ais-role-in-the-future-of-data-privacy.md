@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/anniebrown/2021/07/02/ais-role-in-the-f
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/anniebrown/2021/07/02/ais-role-in-the-future-of-data-privacy/amp/"
 type: article
 quality: 87
-heat: 127
+heat: 117
 published: true
 
 provider:
@@ -66,15 +66,6 @@ related:
       name: Law360
       domain: law360.com
     quality: 39
-  - title: "Artificial intelligence hold promise in the ICU"
-    excerpt: "In a 2018 article entitled “Human Cognitive Limitations”, the University of Utah's Alan Morris estimated the number of variables an intensivist has to take into account for a patient on mechanical ventilation."
-    publishedDateTime: 2021-06-28T22:55:00Z
-    webUrl: "https://www.thelancet.com/journals/lanres/article/PIIS2213-2600(21)00317-9/fulltext"
-    type: article
-    provider:
-      name: The Lancet
-      domain: thelancet.com
-    quality: 17
 
 secured: "Eb9jwYAU48cEgwuzmZ2vMG0obn193IoBePQH3LD1Mdv3e9BHYCaYPnzudYt77ehTkbD8PT7vZhytG4t+vg2kEsn6+s3KG2ieOYw/6NBSp1wt5VEhUfJOk1t8de+eoRIfD1fvtq62cCYRYzK5pbQr240dzYlTKEHoHsFU+T15sUyZvllovzcS1gv7wou1DLB6LHplsu2watK7rCrGszPwafEGkWRuy2v6lVHEbm3/NUJowwRNMgOKGsody+FbveJs2KZKxbT7KzDYCO7bSEKyqz5PJIBR3RpOT1g6gUTzyvRLGPBPnbDUOq/GR3pSR2t08GyTlojkx8JWb9Mo0Ny60ANGLWRsnid+qC3qAfFr6+0C/qHCt3ncaOw0Ws7QNYk6aB/ytuRoHyKXYFuWwKwoFbi5c1oEyPBezB7WzW0dZo3HHRln8NXP5VU3odgPohMPfym+iydGamMxHXGVHaUr6JLdnUwkDG98ZC7tdXnWf5nZGoKKuLhTTdrad8Qc1EEhNV9RSw1KJ+XAtmUhmHmVNw==;zSMbVj9EqJKLSdm6Ecg09A=="
 ---

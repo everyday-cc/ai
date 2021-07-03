@@ -777,7 +777,7 @@
       "originalUrl": "https://www.entrepreneur.com/article/376262",
       "featuredContent": null,
       "highlight": null,
-      "heat": 102,
+      "heat": 92,
       "tags": null,
       "images": [
         {
@@ -1184,21 +1184,21 @@
       ]
     },
     {
-      "path": "_news/2021-07-01-didi-shares-gain-1-after-early-jump-in-wall-street-debut.md",
-      "title": "Didi shares gain 1% after early jump in Wall Street debut",
-      "excerpt": "Early investors included Apple Inc., Japan’s Softbank, Alibaba and Chinese internet giants, Tencent Holding Ltd. and Baidu Inc. Didi ... into development of self-driving, electric vehicles ...",
+      "path": "_news/2021-07-01-facebook-updates-habitat-environment-to-train-embodied-ai.md",
+      "title": "Facebook updates Habitat environment to train ’embodied AI’",
+      "excerpt": "Facebook today announced Habitat 2.0, an updated version of its simulation environment, alongside new datasets and benchmarks.",
       "sourceUrl": null,
-      "webUrl": "https://omaha.com/news/world/didi-shares-gain-1-after-early-jump-in-wall-street-debut/article_31205e99-2fc1-5b51-bdeb-7029f9403c96.html",
-      "originalUrl": "https://omaha.com/news/world/didi-shares-gain-1-after-early-jump-in-wall-street-debut/article_31205e99-2fc1-5b51-bdeb-7029f9403c96.html",
+      "webUrl": "https://ai.facebook.com/blog/habitat-20-training-home-assistant-robots-with-faster-simulation-and-new-benchmarks/",
+      "originalUrl": "https://venturebeat.com/2021/06/30/facebook-updates-habitat-environment-to-train-embodied-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 79,
+      "heat": 227,
       "tags": null,
       "images": [
         {
-          "url": "https://bloximages.newyork1.vip.townnews.com/omaha.com/content/tncms/assets/v3/editorial/3/4a/34a4d860-5d0f-5e8b-8d47-ef148b937e61/60dc1e03ab6e1.image.jpg?resize=1024%2C667",
-          "width": 1024,
-          "height": 667,
+          "url": "https://scontent-sea1-1.xx.fbcdn.net/v/t39.2365-6/61379250_2289364931329348_7271871964229140480_n.jpg?_nc_cat=105&ccb=1-3&_nc_sid=ad8a9d&_nc_ohc=xPUwAqG-JogAX-qKKU7&_nc_ht=scontent-sea1-1.xx&oh=28797380cbde35757e3bdcc16805b3cf&oe=60E1CB5C",
+          "width": 1848,
+          "height": 1112,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1206,14 +1206,23 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://omaha.com/news/world/didi-shares-gain-1-after-early-jump-in-wall-street-debut/article_31205e99-2fc1-5b51-bdeb-7029f9403c96.amp.html",
-      "cdnAmpWebUrl": "https://omaha-com.cdn.ampproject.org/c/s/omaha.com/news/world/didi-shares-gain-1-after-early-jump-in-wall-street-debut/article_31205e99-2fc1-5b51-bdeb-7029f9403c96.amp.html",
-      "publishedDateTime": "2021-06-30T15:11:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-30T14:30:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Omaha.com",
-        "domain": "omaha.com",
-        "images": null,
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -1222,7 +1231,6 @@
         "news"
       ],
       "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

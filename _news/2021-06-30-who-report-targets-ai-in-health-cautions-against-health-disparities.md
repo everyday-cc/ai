@@ -138,20 +138,6 @@ related:
         width: 512
         height: 512
         isCached: true
-  - title: "Department of Defense AI ethics principles still lack implementation guidance"
-    excerpt: "Despite progress on making committees and working groups on AI ethics, the department still lacks its promised implementation guidance."
-    publishedDateTime: 2021-06-28T21:19:00Z
-    webUrl: "https://www.fedscoop.com/ai-ethics-principles-dod-military-implementation-guidance/"
-    type: article
-    provider:
-      name: FedScoop
-      domain: fedscoop.com
-    quality: 51
-    images:
-      - url: "https://www.fedscoop.com/wp-content/uploads/2021/06/greon-ss.jpg"
-        width: 2170
-        height: 1428
-        isCached: true
 
 secured: "3gZfqGp73AFZc2jBQ+U13q+U4kcU3xy/Vst8dbKW0vOvMu6IejhVGYAbFhj7HVGc4oDcG+f7bKncz3MtJx8+2NuDvdUCqfuOUQXx5HeEOBhuqS2tYKEPxeu2Ps15+iB1buH3scpcQdQ8pLVTCZRz107SVp0pxq12a9BgftYcEoHNrFYYnjAz3Dd/O92J2nGp1QRb0yleprgy6RKq7pkzY1p4Rwm2Hsbi7ms4fkktbluK02rDJJ58kRw9BbG/zejqRvaTx4FTBONJaFzgTNCujRUUaVk2MoV3wOpFi0D1HELXs9YWVRA8nziKCPXCeM2BEUAXINOc/mjWXt2G6f9s74SbaKCIZ0MOHUU4UjKwOM5FkRy2UlqaHIIaoPv3Uu5iOQF/gMGJtaXdQmo/t2oPEnOVPhQ/S53x6D9rVXUigCrkBiQnixRVU4P2U7k5HSEi1wW8pKir4C3iV8fz9OnFsu2fvqi6pHyYa9Vjx85QAPHB6Or6yDH7PXWh/0wikYGlrvH1R7cOFhfpc9XrdqXITg==;5THxh4XHERSif3LGTLOfcw=="
 ---

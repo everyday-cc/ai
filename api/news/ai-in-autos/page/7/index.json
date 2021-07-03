@@ -2,49 +2,6 @@
   "page": 7,
   "value": [
     {
-      "path": "_news/2021-05-12-waymo-and-cruise-said-to-be-seeking-approval-to-commercialize-self-driving-rides-in-san-francisco.md",
-      "title": "Waymo And Cruise Said To Be Seeking Approval To Commercialize Self-Driving Rides In San Francisco",
-      "excerpt": "Alphabet Inc’s (NASDAQ: GOOGL) (NASDAQ: GOOG) self-driving subsidiary Waymo and General Motors Co (NYSE: GM)-backed Cruise have applied for commercial permits in",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/news/21/05/21075158/waymo-and-cruise-said-to-be-seeking-approval-to-commercialize-self-driving-rides-in-san-francisco",
-      "originalUrl": "https://www.benzinga.com/news/21/05/21075158/waymo-and-cruise-said-to-be-seeking-approval-to-commercialize-self-driving-rides-in-san-francisco",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/files/images/story/2012/w1_riders_2_0.jpeg",
-          "width": 6517,
-          "height": 4345,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.benzinga.com/amp/content/21075158",
-      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/21075158",
-      "publishedDateTime": "2021-05-11T23:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-05-12-new-system-allows-self-driving-cars-to-make-more-human-decisions.md",
       "title": "New System Allows Self-Driving Cars to Make More Human Decisions",
       "excerpt": "(Image source: Chelsea Turner) A team of scientists at MIT have created a system using simple maps and visual data to enable driverless cars to navigate ... director of the Computer Science and Artificial Intelligence Laboratory (CSAIL) and a professor ...",
@@ -1411,6 +1368,49 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-06-minds-without-brains-the-promise-and-peril-of-artificial-intelligence.md",
+      "title": "Minds Without Brains? The promise and peril of artificial intelligence",
+      "excerpt": "In the view of many scientists, Artificial Intelligence (AI) isn’t living up to the hype of its proponents. We don’t yet have safe driverless cars—and we’re not likely to in the near future. Nor are robots about to take on all our domestic drudgery so that we can devote more time",
+      "sourceUrl": null,
+      "webUrl": "https://3quarksdaily.com/3quarksdaily/2021/05/minds-without-brains-the-promise-and-peril-of-artificial-intelligence.html",
+      "originalUrl": "https://3quarksdaily.com/3quarksdaily/2021/05/minds-without-brains-the-promise-and-peril-of-artificial-intelligence.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://3quarksdaily.com/wp-content/uploads/2021/05/Farrell-360x202.jpeg",
+          "width": 360,
+          "height": 202,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-06T04:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "3 Quarks Daily",
+        "domain": "3quarksdaily.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },

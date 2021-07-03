@@ -1,28 +1,22 @@
 ---
 category: news
 title: "Microsoft, SES and GRC Showcase Azure Cloud for Remote Missions via Secure GovSat Connectivity Service"
-excerpt: "Microsoft and SES, in partnership with GovSat and UK-based solutions provider GRC, came together to demonstrate how Microsoft Azure Machine Learning (ML) and Artificial Intelligence (AI) capabilities can be brought directly to end-users deployed globally in a highly secure,"
-publishedDateTime: 2021-06-30T06:52:00Z
-originalUrl: "https://www.wfmz.com/news/ap/ap-business/microsoft-ses-and-grc-showcase-azure-cloud-for-remote-missions-via-secure-govsat-connectivity-service/article_db998d49-9d16-54d2-9633-de848f32efb8.html"
-webUrl: "https://www.wfmz.com/news/ap/ap-business/microsoft-ses-and-grc-showcase-azure-cloud-for-remote-missions-via-secure-govsat-connectivity-service/article_db998d49-9d16-54d2-9633-de848f32efb8.html"
+excerpt: "Microsoft and SES, in partnership with GovSat and UK-based solutions provider GRC, came together to demonstrate how Microsoft Azure Machine Learning ("
+publishedDateTime: 2021-06-30T06:50:00Z
+originalUrl: "https://www.businesswire.com/news/home/20210629006127/en/Microsoft-SES-and-GRC-Showcase-Azure-Cloud-for-Remote-Missions-via-Secure-GovSat-Connectivity-Service"
+webUrl: "https://www.businesswire.com/news/home/20210629006127/en/Microsoft-SES-and-GRC-Showcase-Azure-Cloud-for-Remote-Missions-via-Secure-GovSat-Connectivity-Service"
 type: article
-quality: 38
+quality: 18
 heat: -1
 published: false
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
   - Microsoft AI
   - AI
-
-images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/4/ed/4ed1008e-2061-5d2f-bb22-a3c4d1af6c76/60dc170701474.image.jpg?resize=945%2C630"
-    width: 945
-    height: 630
-    isCached: true
 
 related:
   - title: "Microsoft launches Azure Arc-enabled SQL in general availability"
@@ -40,22 +34,6 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2020/12/microsoft-azure.png?w=1200&strip=all"
         width: 1200
         height: 600
-        isCached: true
-  - title: "Learning From Microsoft’s Imagine Cup Youth 2021"
-    excerpt: "The winners are amazingly creative students aged 13 to 18 (Gen Z—born 1997 to 2012) driving digital reshaping."
-    publishedDateTime: 2021-06-28T21:58:00Z
-    webUrl: "https://www.forbes.com/sites/stephenibaraki/2021/06/28/learning-from-microsofts-imagine-cup-youth-2021/"
-    ampWebUrl: "https://www.forbes.com/sites/stephenibaraki/2021/06/28/learning-from-microsofts-imagine-cup-youth-2021/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stephenibaraki/2021/06/28/learning-from-microsofts-imagine-cup-youth-2021/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 91
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60da43cf6b35cc5b8c6c2abd%2F0x0.jpg"
-        width: 1200
-        height: 801
         isCached: true
   - title: "AT&T (T) to Move 5G Mobile Network to Microsoft Azure"
     excerpt: "AT&T Inc. T has announced collaboration with Microsoft MSFT under which the telecom giant will move its 5G mobile network to the latter’s cloud. This will allow AT&T’s mobile network traffic to be managed by Microsoft Azure technology."
@@ -224,6 +202,6 @@ related:
       domain: ksusentinel.com
     quality: 13
 
-secured: "1xpu/2g/iYOZdtI6Q5c2jajAzbJ+I/jf127DK5rUrgxgQVsYTtEMIm6QBRjuy7ayrDLBQd3zlKbL5D8MUx6jgjLUn4/qGwjNYkJOv4wmWeMQxtWxW1yaP/biqWptpcu5QiifroK+u3rQxKQylblHBLvEc+mN5SMZiPpEaQpXCWp+eMo3HyIZboGKKbw5AdgclJuyqw9rhkAcRagQR0IslO3yYN4NUPnh9IPmXqcOY3wICsiBYdJAyvqyirROB6OkK2q5Q2uKqhpUyaoLHYC455VJxNFKl2utA3cwSK/jUuydm93muMlDb8e0Gy/2KDXAbjjMubdmN01GqlBLE1wyYCPkcpvIUzox/FlhotcHpVc=;uVnUWoyXcednAuN1G7Gb6A=="
+secured: "/UriSbpxFw9khIL8R2nonHSNuQp4cwjI/XI6iiov4bNta3brIYmmn+tIZ7GFoiTYu7LjY4Aes77b6PjjHp9XCopct04PoQ8A7xqWlwvOr6EqutFuTdbPh1ogDxHm5g2d6t8eN79YgWMbYEoPzktsUQUV+wARETxtJblsq0ovDX9WjhM8Jc+q9fnixLDLQEA9OUc/OLpRXsHe0IINqe/GIiBgIzSmnriNtx/4IWIv8WY1DBR2gAT6YQjzdYz9RLEaUeWqBlbSFyoZJsXi6RWibOBboa5jCORjMcyrLBckGqVlbLHVdXiOGy3wyj4gWc5Gaq0V3BtpK6DVUa8jJxolgiw7LMxqvwWQi0YXolmY82szZEpVpyhCoz7icAp9hKcevUvDreP4Kwix7+3OoqJOV77GtghBbf44YaWM+jjLLtxnoP6oTzXTF8WT0DvPWbRN6UZY9IKNZgd5zcxmUxddpF+sBykgoufKyghdgrvaTKMBmAowIT3YPRwvZj1X4XKkAXzrOvg1u+E3jSvxjmFOtg==;/U9vg5QO/04hyWoTw+oGxg=="
 ---
 

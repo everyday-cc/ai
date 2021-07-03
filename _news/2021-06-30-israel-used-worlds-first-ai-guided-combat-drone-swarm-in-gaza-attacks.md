@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newscientist.com/article/2282656-israel-used-worlds-firs
 cdnAmpWebUrl: "https://www-newscientist-com.cdn.ampproject.org/c/s/www.newscientist.com/article/2282656-israel-used-worlds-first-ai-guided-combat-drone-swarm-in-gaza-attacks/amp/"
 type: article
 quality: 57
-heat: 67
+heat: 57
 published: false
 
 provider:
@@ -24,22 +24,6 @@ images:
     width: 600
     height: 400
     isCached: true
-
-related:
-  - title: "Israel, Breaking Ground in Artificial Intelligence"
-    excerpt: "Popularly known as the startup nation, Israel is a pioneer in technology and artificial intelligence at large. In plain terms, artificial intelligence is said to be the conventional name for intelligence exhibited by machines,"
-    publishedDateTime: 2021-06-28T21:19:00Z
-    webUrl: "https://blogs.timesofisrael.com/israel-breaking-ground-in-artificial-intelligence/"
-    type: article
-    provider:
-      name: The Times of Israel
-      domain: timesofisrael.com
-    quality: 39
-    images:
-      - url: "https://static.timesofisrael.com/blogs/uploads/2021/06/pexels-tara-winstead-8386422-1.jpg"
-        width: 2048
-        height: 1366
-        isCached: true
 
 secured: "HnKLVjegVs0Jd27Q9tGWZtC5Tu4EJ9JS74bd+NDj1QViDBds4oTOR9s0nwHZQO/NyHPvFPR4qUBUeaQzEhPAymGhikvzb8Zgr5dPAGKNvD+tZK9EACwxB8uI8rbygUZwLo2T7eAdfbf5KT517KcF/uncKTjGXWo6Cxn9DFnNFwnCihgU5ZgR2f1+ZAM26Bf37y6lwuAg/cCNTJn1yPJtcMvCn3TT/5W4YTCPYA8LkfvtAD8SZ3rJGKWn8VoZyzJga7r/hFit9/ykN/Np7N2LCQ2U/4iAbUC5pIMXYR+V75UqgD+Q79UuqBQAH77msCnFlgwFVK5lkTw/bZtZBZqE1gcwvVtldz/3MVTkrSYrBHJbV7kxQT2k7dXaXw20AyxX3LN7eFf9gJnYZ6xZKibDCv+Hjtp36rQQ46oHcWZKBczbZLlRSd3qEIWf0mQMODOwX1AicT7Dw0E34ivHRRHXU89a4F5aOyE3MoWlxyheUwPpBciTFg1kGw+kzgUY5Ues44kzAJt04k5nUs3jCaUvZw==;jq0g2qtYt3DjEz5O/m0buw=="
 ---

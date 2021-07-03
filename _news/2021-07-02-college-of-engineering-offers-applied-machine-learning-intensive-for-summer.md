@@ -50,20 +50,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 36
-  - title: "A Machine Learning Powered Guest Experience Platform is Helping This Emerging Brand Grow"
-    excerpt: "While restaurants have turned to technology to streamline these initiatives, finding all the resources they need in one platform has traditionally been difficult, especially for small to mid-sized brands."
-    publishedDateTime: 2021-06-28T21:09:00Z
-    webUrl: "https://www.qsrmagazine.com/sponsored/machine-learning-powered-guest-experience-platform-helping-emerging-brand-grow"
-    type: article
-    provider:
-      name: QSR magazine
-      domain: qsrmagazine.com
-    quality: 30
-    images:
-      - url: "https://www.qsrmagazine.com/sites/default/files/styles/story_page/public/2021-06/QSR%20Header%20-%20Incentivio.jpg?itok=NZmhEjhA"
-        width: 765
-        height: 510
-        isCached: true
 
 secured: "K1Z+DPVZ94a5V0IDSNueVdfpYDyiOYlD0uFbKDzhOSB4CLVn0ucE5NzBT7+jK87tKRUSD6rVOVrTpyyGuB7SWISul1f9XV8/0SOYAmmguDE2lAjE1PbwHI83wvsTzku8QUDePAukswHay5vD2oGTDPt98uZoT7pGWcWeZkJCvOkJ0Jct2PD6CB2iFxAQkN6EXngTYrX0qFTLXp65+JNAg4IlxgIkx3bjVVhBUq+IySrdAyyNZo2LkeR7pDxeheADPl6DX8+OhGvUgcgNM9d/KYbCqVo8ezvJX/nRCyfGiseQ2nOP8qjpt3J+d8KQ/4AkIvpZVOkm7Gfu4XD4b+GDkiO5WQddvv3nzP0JcHu8mc4=;UE0Q7jsDaSYlTRdiTYsaUw=="
 ---

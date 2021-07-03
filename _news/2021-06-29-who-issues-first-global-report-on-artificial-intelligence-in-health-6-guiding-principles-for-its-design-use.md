@@ -124,20 +124,6 @@ related:
         width: 512
         height: 512
         isCached: true
-  - title: "Department of Defense AI ethics principles still lack implementation guidance"
-    excerpt: "Despite progress on making committees and working groups on AI ethics, the department still lacks its promised implementation guidance."
-    publishedDateTime: 2021-06-28T21:19:00Z
-    webUrl: "https://www.fedscoop.com/ai-ethics-principles-dod-military-implementation-guidance/"
-    type: article
-    provider:
-      name: FedScoop
-      domain: fedscoop.com
-    quality: 51
-    images:
-      - url: "https://www.fedscoop.com/wp-content/uploads/2021/06/greon-ss.jpg"
-        width: 2170
-        height: 1428
-        isCached: true
   - title: "WHO Report Targets AI in Health, Cautions Against Health Disparities"
     excerpt: "The World Health Organization (WHO) released the first global report on artificial intelligence in healthcare and six principles to avoid health disparities in the field. The report, Ethics and governance of artificial intelligence for health,"
     publishedDateTime: 2021-06-30T13:30:00Z

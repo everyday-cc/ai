@@ -62,15 +62,6 @@ related:
         width: 1199
         height: 800
         isCached: true
-  - title: "Artificial intelligence hold promise in the ICU"
-    excerpt: "In a 2018 article entitled “Human Cognitive Limitations”, the University of Utah's Alan Morris estimated the number of variables an intensivist has to take into account for a patient on mechanical ventilation."
-    publishedDateTime: 2021-06-28T22:55:00Z
-    webUrl: "https://www.thelancet.com/journals/lanres/article/PIIS2213-2600(21)00317-9/fulltext"
-    type: article
-    provider:
-      name: The Lancet
-      domain: thelancet.com
-    quality: 17
 
 secured: "XkCxASmLTld99FQA/j4McWfdNwBqVdw4tr5Ie+DIbfgc+HvTYPnrg44y2XtousO9ZJP0qHvyym0+eHyG88getQxj6x6WO9ktMawelZKV2lVeERorABzKrMSOq1XuDUWRu501B4ZA2JcRe2FLAc6WIuAgDZrmumtW8AvVJ6sP3o/TzOCpvrUj8fvvUg5MXhm5SmjWhvIjKCwnz1QkMG1K9de0MW8SV3As0veDNV9UjdWPi7dboMupYGFyCM3+2XDVzS/M9QeluA3IiLpwHt61hZFcFFrkAgj9w7UawXfYI8JJebAgQ4kVWkLszqjPlJoPv30ejMEMLGpU/2N16y8Lq2Eu3OrgDIjU03GcoU6Ptb8=;pA5Hq1N78E3Yhx9Lzpo5Zg=="
 ---

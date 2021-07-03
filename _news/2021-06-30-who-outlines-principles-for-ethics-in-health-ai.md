@@ -9,7 +9,7 @@ ampWebUrl: "https://www.theverge.com/platform/amp/2021/6/30/22557119/who-ethics-
 cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2021/6/30/22557119/who-ethics-ai-healthcare"
 type: article
 quality: 104
-heat: 194
+heat: 184
 published: true
 
 provider:
@@ -127,20 +127,6 @@ related:
       - url: "https://www.finextra.com/about/finextra-logo.png"
         width: 512
         height: 512
-        isCached: true
-  - title: "Department of Defense AI ethics principles still lack implementation guidance"
-    excerpt: "Despite progress on making committees and working groups on AI ethics, the department still lacks its promised implementation guidance."
-    publishedDateTime: 2021-06-28T21:19:00Z
-    webUrl: "https://www.fedscoop.com/ai-ethics-principles-dod-military-implementation-guidance/"
-    type: article
-    provider:
-      name: FedScoop
-      domain: fedscoop.com
-    quality: 51
-    images:
-      - url: "https://www.fedscoop.com/wp-content/uploads/2021/06/greon-ss.jpg"
-        width: 2170
-        height: 1428
         isCached: true
   - title: "WHO Report Targets AI in Health, Cautions Against Health Disparities"
     excerpt: "The World Health Organization (WHO) released the first global report on artificial intelligence in healthcare and six principles to avoid health disparities in the field. The report, Ethics and governance of artificial intelligence for health,"

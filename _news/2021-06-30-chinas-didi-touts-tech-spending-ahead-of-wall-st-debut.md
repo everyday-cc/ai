@@ -9,7 +9,7 @@ ampWebUrl: "https://www.dailyherald.com/amp-article/20210630/business/306309977/
 cdnAmpWebUrl: "https://www-dailyherald-com.cdn.ampproject.org/c/s/www.dailyherald.com/amp-article/20210630/business/306309977/"
 type: article
 quality: 44
-heat: -1
+heat: 44
 published: false
 
 provider:
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Didi shares gain 1% after early jump in Wall Street debut"
-    excerpt: "Early investors included Apple Inc., Japan’s Softbank, Alibaba and Chinese internet giants, Tencent Holding Ltd. and Baidu Inc. Didi ... into development of self-driving, electric vehicles ..."
-    publishedDateTime: 2021-06-30T22:11:00Z
-    webUrl: "https://omaha.com/news/world/didi-shares-gain-1-after-early-jump-in-wall-street-debut/article_31205e99-2fc1-5b51-bdeb-7029f9403c96.html"
-    ampWebUrl: "https://omaha.com/news/world/didi-shares-gain-1-after-early-jump-in-wall-street-debut/article_31205e99-2fc1-5b51-bdeb-7029f9403c96.amp.html"
-    cdnAmpWebUrl: "https://omaha-com.cdn.ampproject.org/c/s/omaha.com/news/world/didi-shares-gain-1-after-early-jump-in-wall-street-debut/article_31205e99-2fc1-5b51-bdeb-7029f9403c96.amp.html"
-    type: article
-    provider:
-      name: Omaha.com
-      domain: omaha.com
-    quality: 59
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/omaha.com/content/tncms/assets/v3/editorial/3/4a/34a4d860-5d0f-5e8b-8d47-ef148b937e61/60dc1e03ab6e1.image.jpg?resize=1024%2C667"
-        width: 1024
-        height: 667
-        isCached: true
   - title: "China's Didi touts tech spending ahead of Wall Street debut"
     excerpt: "Early investors included Apple Inc., Japan's Softbank, Alibaba and Chinese internet giants, Tencent Holding Ltd. and Baidu Inc. Didi ... into development of self-driving, electric vehicles and ..."
     publishedDateTime: 2021-07-01T07:39:00Z
@@ -58,6 +42,20 @@ related:
       - url: "https://beta.ctvnews.ca/national/business/2021/6/30/1_5491450/_jcr_content/root/responsivegrid/image.coreimg.jpg"
         width: 1020
         height: 574
+        isCached: true
+  - title: "Didi shares gain 1% after early jump in Wall Street debut"
+    excerpt: "Early investors included Apple Inc., Japan’s Softbank, Alibaba and Chinese internet giants, Tencent Holding Ltd. and Baidu Inc. Didi ... into development of self-driving, electric vehicles ..."
+    publishedDateTime: 2021-06-30T22:42:00Z
+    webUrl: "https://www.stltoday.com/news/world/didi-shares-gain-1-after-early-jump-in-wall-street-debut/article_beef59b0-ac9f-5f33-99d5-5678c4c45a8e.html"
+    type: article
+    provider:
+      name: St. Louis Post-Dispatch
+      domain: stltoday.com
+    quality: 39
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/7/e7/7e7a4238-fb89-5894-909e-f08961ac0603/60dc1ed10c9b4.image.jpg?crop=1783%2C1003%2C0%2C79&resize=1120%2C630&order=crop%2Cresize"
+        width: 1120
+        height: 630
         isCached: true
 
 secured: "2ys7/QMUby7Nm2z5Fe1sguwYGX33V+e0/RnJE4vP4ALXJ5QcqGRPTo/1iHTv6pD6chhqDWbF83xXSfj3OGj4v03V+Q2iyAA+W58+XrQpPxE7LWwo7HkJIjCB3/SgjUJbMxQu0wIAyXIR3yi2zF2JqAPvOddlelQnANWjCTVbk97sNJKtvpTSWPdKbINhJ6m99qCrPAe6VePMYuxYJk9w/WvoBhJhFeX7WBNPCJwWFRpcjofoUmVPp9INJ94WAWPVKAT4atAX6Yg3JiEhn62ScBwt6UcnI72STLPbP97pNEUalsBDof0xL1K6qIaMFOPrXM6Zm5nmBJeWj5SgELnESX2BGYl85Uaca60X5HqZPcE=;BuFmnFR6auoDW15Gyrkqbg=="

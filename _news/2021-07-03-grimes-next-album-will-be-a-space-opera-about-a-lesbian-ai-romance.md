@@ -9,7 +9,7 @@ ampWebUrl: "https://www.dazeddigital.com/music/article/53417/1/grimes-next-album
 cdnAmpWebUrl: "https://www-dazeddigital-com.cdn.ampproject.org/c/s/www.dazeddigital.com/music/article/53417/1/grimes-next-album-will-be-a-space-opera-about-a-lesbian-ai-romance?amp=1"
 type: article
 quality: 57
-heat: 57
+heat: 67
 published: false
 
 provider:
@@ -24,6 +24,22 @@ images:
     width: 1080
     height: 720
     isCached: true
+
+related:
+  - title: "Grimes Reveals Details of Forthcoming Album; a \"Space Opera\" About a \"Lesbian AI\""
+    excerpt: "Read Grimes' planned storyline for the upcoming album, which she revealed in comments on Instagram after being asked by fans if she could tell them the vibe of the album."
+    publishedDateTime: 2021-07-03T13:40:00Z
+    webUrl: "https://www.broadwayworld.com/bwwmusic/article/Grimes-Reveals-Details-of-Forthcoming-Album-a-Space-Opera-About-a-Lesbian-AI-20210703"
+    type: article
+    provider:
+      name: BroadwayWorld
+      domain: broadwayworld.com
+    quality: 32
+    images:
+      - url: "https://cloudimages.broadwayworld.com/columnpiccloud/1250-94328a6bee85498beb40a79478d1e417.jpg"
+        width: 1250
+        height: 625
+        isCached: true
 
 secured: "ZFNXvarhXcyTNCMBbKhBKcIKeOjVw7Z4YjEIutR4W+es52M8k4g89pr5dyWO9vPP5o2SzgJ16QCJISY9UGS+hIWkb+IvUqG/SNhn+xz63a7MTN6joXYdduODRYWAQpZHTr6F6pQWhEw3L1KD+NKR6R1FnPwi22QEV2NCc9+eoecKrXVq7Io4bLfu6MCJ4dvwYwyfmGnF8PlCWoL35mtz2ssCyWOLDfdSsEGhuPArszFqf4jejCaKtaUGXpCO/vLt2nYFTCrOXzSaDv3cRK8qWrejmNuNKzk3HkEWProiYxzQPhwbJ722mRB+zW6UMKgc6Dy0tgnYPDTsq1z1yQy2TpLt/dUXEkQxOQyUGFRXXaA=;CAu1RuH6L5EBpOU5znjl7w=="
 ---
