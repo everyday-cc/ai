@@ -81,20 +81,6 @@ related:
         width: 628
         height: 385
         isCached: true
-  - title: "Global Mobile Speech Recognition Software Market Shares Reflect Significant Growth of Mn US$ During 2020-2025"
-    excerpt: "Global Mobile Speech Recognition Software Market Research Report: Industry Analysis, Share, Revenue, And Future Trends. The report published by Market Research Store on the global"
-    publishedDateTime: 2021-06-28T08:20:00Z
-    webUrl: "https://ksusentinel.com/2021/06/28/global-mobile-speech-recognition-software-market-shares-reflect-significant-growth-of-mn-us-during-2020-2025/"
-    type: article
-    provider:
-      name: The Sentinel
-      domain: ksusentinel.com
-    quality: 20
-    images:
-      - url: "https://themarketeagle.com/wp-content/uploads/2021/03/Management2.jpg"
-        width: 1024
-        height: 624
-        isCached: true
   - title: "Global Natural Language Processing in BFSI Market Size, Status and Forecast 2021-2027"
     excerpt: "Pages Report] Check for Discount on Global Natural Language Processing in BFSI Market Size, Status and Forecast 2021-2027 report by QYResearch Group. Market Analysis and Insights: Global Natural Language Processing in"
     publishedDateTime: 2021-06-30T07:41:00Z

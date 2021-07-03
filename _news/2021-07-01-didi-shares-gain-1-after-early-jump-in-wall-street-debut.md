@@ -2,26 +2,28 @@
 category: news
 title: "Didi shares gain 1% after early jump in Wall Street debut"
 excerpt: "Early investors included Apple Inc., Japan’s Softbank, Alibaba and Chinese internet giants, Tencent Holding Ltd. and Baidu Inc. Didi ... into development of self-driving, electric vehicles ..."
-publishedDateTime: 2021-06-30T22:42:00Z
-originalUrl: "https://www.stltoday.com/news/world/didi-shares-gain-1-after-early-jump-in-wall-street-debut/article_beef59b0-ac9f-5f33-99d5-5678c4c45a8e.html"
-webUrl: "https://www.stltoday.com/news/world/didi-shares-gain-1-after-early-jump-in-wall-street-debut/article_beef59b0-ac9f-5f33-99d5-5678c4c45a8e.html"
+publishedDateTime: 2021-06-30T22:11:00Z
+originalUrl: "https://omaha.com/news/world/didi-shares-gain-1-after-early-jump-in-wall-street-debut/article_31205e99-2fc1-5b51-bdeb-7029f9403c96.html"
+webUrl: "https://omaha.com/news/world/didi-shares-gain-1-after-early-jump-in-wall-street-debut/article_31205e99-2fc1-5b51-bdeb-7029f9403c96.html"
+ampWebUrl: "https://omaha.com/news/world/didi-shares-gain-1-after-early-jump-in-wall-street-debut/article_31205e99-2fc1-5b51-bdeb-7029f9403c96.amp.html"
+cdnAmpWebUrl: "https://omaha-com.cdn.ampproject.org/c/s/omaha.com/news/world/didi-shares-gain-1-after-early-jump-in-wall-street-debut/article_31205e99-2fc1-5b51-bdeb-7029f9403c96.amp.html"
 type: article
-quality: 39
-heat: 39
+quality: 59
+heat: 69
 published: false
 
 provider:
-  name: St. Louis Post-Dispatch
-  domain: stltoday.com
+  name: Omaha.com
+  domain: omaha.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/7/e7/7e7a4238-fb89-5894-909e-f08961ac0603/60dc1ed10c9b4.image.jpg?crop=1783%2C1003%2C0%2C79&resize=1120%2C630&order=crop%2Cresize"
-    width: 1120
-    height: 630
+  - url: "https://bloximages.newyork1.vip.townnews.com/omaha.com/content/tncms/assets/v3/editorial/3/4a/34a4d860-5d0f-5e8b-8d47-ef148b937e61/60dc1e03ab6e1.image.jpg?resize=1024%2C667"
+    width: 1024
+    height: 667
     isCached: true
 
 related:
@@ -40,6 +42,6 @@ related:
         height: 782
         isCached: true
 
-secured: "wfXV7ZxihyQbOng+m7TQhz2qyfop5vrMLqhSysHrhBr0COvJlq9GOIfXvmMlTD+WPSmiGo9NJNgOXN4vcNPSkxaAbYxW7u08wTFA/o0lR8SWJW8+ERv/mAKD8sRat2nNt6bLLf07j0EbcHjTTewcOHzNZSkQHrG852OcO6nLUWLOw1VKdIXAbY+fggfcg+c0iOJZVbFxnApE/D1eK3O51AZ4hSzQkAUtV79Kt1Dr1n6DFNZD9gj46ObDX6nfjj1uDnzO7xwX9YJT7AsCei8uQMni8Pg/3aMp2BV0Km+wc/xqqk7a1Zj2ma6DoSqcH+StsQyRaKF9J8usXQ1fJT49Pm9A793UPTukpVK9NBlD1lo=;LNfpYQ5TyQa4SeAmW4KpyQ=="
+secured: "WTMYirCQLS7Py4quV0P22B84olM+hgD+fH+TzitK5Iosh/tSNS2QK9i/I0GLTDDzY5hyAboOvjZGGhiMeaRpnc1OVNWVPB2DBULvMwSumzA9k3CVzqNyssdcSW91sBtnzbAmdvTc7ZjUkQKuphIOyiSMQa8dooRIQXPnDmNN29Li0jfl3SbPDWkEVQA/EN9RPSNZJyzxiXD4rl4oW7eKPHmw097iplZv4B2/PP8rAjdwrAAOywzRH7foPLfaytf7MVm3W6j6B9ugqwW7Xqf+ou8HXBj2zKaWqo0QSkT5k+g1/meocHym7J/h/UGEBHCjM2oObCsOP34HexSI1yFcXheZBQUprVV4c7pV61AzLVY=;BmHpCAoM5etSAbT4T3IUKA=="
 ---
 

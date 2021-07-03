@@ -78,9 +78,9 @@ related:
   - title: "Graphcore brings new competition to Nvidia in latest MLPerf AI benchmarks"
     excerpt: "Graphcore’s score in BERT natural language training was the best score of any of the two-socket AMD systems submitted."
     publishedDateTime: 2021-06-30T10:00:00Z
-    webUrl: "https://www.zdnet.com/article/graphcore-brings-new-competition-to-nvidia-in-latest-mlperf-ai-benchmarks/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/graphcore-brings-new-competition-to-nvidia-in-latest-mlperf-ai-benchmarks/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/graphcore-brings-new-competition-to-nvidia-in-latest-mlperf-ai-benchmarks/"
+    webUrl: "https://www.zdnet.com/index.php/article/graphcore-brings-new-competition-to-nvidia-in-latest-mlperf-ai-benchmarks/"
+    ampWebUrl: "https://www.zdnet.com/index.php/google-amp/article/graphcore-brings-new-competition-to-nvidia-in-latest-mlperf-ai-benchmarks/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/google-amp/article/graphcore-brings-new-competition-to-nvidia-in-latest-mlperf-ai-benchmarks/"
     type: article
     provider:
       name: ZDNet
@@ -150,15 +150,6 @@ related:
       name: Business Wire
       domain: businesswire.com
     quality: 20
-  - title: "NVIDIA and Global Partners Launch New HGX A100 Systems to Accelerate Industrial AI and HPC"
-    excerpt: "NVIDIA today announced it is turbocharging the NVIDIA HGX™ AI supercomputing platform with new technologies that fuse AI with high performance computing, making supercomputing more useful to a growing number of industries."
-    publishedDateTime: 2021-06-28T07:05:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-nvidia-global-partners-launch-new-hgx-a100-systems-/2021/06/28/9398376.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 9
 
 secured: "bEysU7CDkRjeu+fJwXTtQgyrUj0y5btpXL0/WMkkBnusMwQjXLiuXVI1ZWitBDPTBFhKcWBquYLxrCaD/XJxMle/3yWJDk8zdPa2VTrpBWxYoxq8vSKRtBb8w0r3hLHrjuserjuLcdNhj4kAtBB3+2Ry92naUBCBCg7Cmh9+9s1EX3RDgskfCbLfvPZFMU0Oq6fATJc9T7ftgY3rElNFrbNKo9eRY62uzRmTWYYvpryXknaJaCADDJ9WwTTLlSUJtXAayDDcaDOTHuMZYoarzJLLWiTQcN1eNI91UTD+0y7jtAmIrD3WT6ZMsD8MOVw29r6BldHvQF4GhdYtnBp8ZR3ieb3pYIMm/SjpIGMHYKgd9Mp53qZqkALKWZZ6DPQLwTzBfGwfjItSRNf5D+bB4hvsBryunhydm3DZsOFDn3gcoPp1/DIMAY4ch7HR87tati8xYPYxqQVGJYjB9aENKPPz6donCrUbw373x/HGcSoFIdh5KNQk3Mxhv3qcq0TIdIjsQqTPFrizG6XMP3zKJA==;FZ7Vsw0Z5fDfixfeJoimjg=="
 ---

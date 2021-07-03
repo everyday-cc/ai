@@ -28,15 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "WHO issues first global report on AI in health and six guiding principles for its design and use"
-    excerpt: "Artificial Intelligence (AI) holds great promise for improving the delivery of healthcare and medicine worldwide, but only if ethics and human rights"
-    publishedDateTime: 2021-06-28T07:12:00Z
-    webUrl: "https://www.who.int/news/item/28-06-2021-who-issues-first-global-report-on-ai-in-health-and-six-guiding-principles-for-its-design-and-use"
-    type: article
-    provider:
-      name: Armed robbery in Revesby
-      domain: miragenews.com
-    quality: 104
   - title: "WHO outlines principles for ethics in health AI"
     excerpt: "The World Health Organization released a guidance document outlining six key principles for the ethical use of artificial intelligence in health. Twenty experts spent two years developing the guidance,"
     publishedDateTime: 2021-06-30T16:50:00Z
@@ -53,22 +44,6 @@ related:
         width: 1400
         height: 933
         isCached: true
-  - title: "WHO guidance details the benefits and risks of adding AI to healthcare"
-    excerpt: "The World Health Organization has published new guidance on the use of artificial intelligence in health, something that took experts across multiple fields 18 months to debate. WHO acknowledges"
-    publishedDateTime: 2021-06-30T21:28:00Z
-    webUrl: "https://www.slashgear.com/who-guidance-details-the-benefits-and-risks-of-adding-ai-to-healthcare-30680625/"
-    ampWebUrl: "https://www.slashgear.com/who-guidance-details-the-benefits-and-risks-of-adding-ai-to-healthcare-30680625/amp/"
-    cdnAmpWebUrl: "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/who-guidance-details-the-benefits-and-risks-of-adding-ai-to-healthcare-30680625/amp/"
-    type: article
-    provider:
-      name: SlashGear
-      domain: slashgear.com
-    quality: 104
-    images:
-      - url: "https://cdn.slashgear.com/wp-content/uploads/2021/06/hospital_main_uns.jpg"
-        width: 1440
-        height: 800
-        isCached: true
   - title: "WHO Issues First Global Report on Artificial Intelligence in Health, 6 Guiding Principles for Its Design, Use"
     excerpt: "Artificial Intelligence holds great promise for improving the delivery of healthcare and medicine worldwide, but only if ethics and human rights are put at the heart of its design, deployment, and use,"
     publishedDateTime: 2021-06-29T14:29:00Z
@@ -78,65 +53,21 @@ related:
       name: Insurancenewsnet.com
       domain: insurancenewsnet.com
     quality: 102
-  - title: "The first WHO report on AI in healthcare is a mixed bag of horror and delight"
-    excerpt: "The World Health Organization today released its first-ever report on artificial intelligence in healthcare. There's good news and bad."
-    publishedDateTime: 2021-06-28T20:10:00Z
-    webUrl: "https://thenextweb.com/news/who-report-on-ai-in-healthcare-mixed-bag-horror-delight"
+  - title: "AI Weekly: WHO outlines steps for creating inclusive AI health care systems"
+    excerpt: "The World Health Organization (WHO) outlined steps that must be taken for the development of trustworthy AI in health care."
+    publishedDateTime: 2021-07-02T20:30:00Z
+    webUrl: "https://venturebeat.com/2021/07/02/ai-weekly-who-outlines-steps-for-creating-inclusive-ai-health-care-systems/"
+    ampWebUrl: "https://venturebeat.com/2021/07/02/ai-weekly-who-outlines-steps-for-creating-inclusive-ai-health-care-systems/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/02/ai-weekly-who-outlines-steps-for-creating-inclusive-ai-health-care-systems/amp/"
     type: article
     provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 81
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 85
     images:
-      - url: "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F06%2Fwho-1.jpg&signature=198a5378c62b0948b8ee4ee506cd5719"
-        width: 1280
-        height: 640
-        isCached: true
-  - title: "WHO: 6 principles to using AI in healthcare ethically"
-    excerpt: "The World Health Organization released a guide for how to use artificial intelligence in healthcare settings with guidance from ethics, human rights and tech experts, according to a June report. Here are six principles for ethical use of AI: The use of AI shouldn't undermine provider decision-making."
-    publishedDateTime: 2021-06-29T21:02:00Z
-    webUrl: "https://www.beckershospitalreview.com/artificial-intelligence/who-6-principles-to-using-ai-in-healthcare-ethically.html"
-    type: article
-    provider:
-      name: Becker's Hospital Review
-      domain: beckershospitalreview.com
-    quality: 71
-    images:
-      - url: "https://www.beckershospitalreview.com/images/channels/artificial-intelligence/3.jpg"
-        width: 400
-        height: 300
-        isCached: true
-  - title: "Artificial Intelligence Hold Potential for Improving Delivery of Healthcare Worldwide: WHO"
-    excerpt: "Artificial Intelligence (AI) holds great promise for improving the delivery of healthcare and medicine worldwide."
-    publishedDateTime: 2021-06-29T07:44:00Z
-    webUrl: "https://www.medcom.id/english/tech/GNG7LWAN-artificial-intelligence-hold-potential-for-improving-delivery-of-healthcare-worldwide-who"
-    ampWebUrl: "https://m.medcom.id/amp/GNG7LWAN-artificial-intelligence-hold-potential-for-improving-delivery-of-healthcare-worldwide-who"
-    cdnAmpWebUrl: "https://m-medcom-id.cdn.ampproject.org/c/s/m.medcom.id/amp/GNG7LWAN-artificial-intelligence-hold-potential-for-improving-delivery-of-healthcare-worldwide-who"
-    type: article
-    provider:
-      name: medcom
-      domain: medcom.id
-    quality: 66
-    images:
-      - url: "https://cdn.medcom.id/dynamic/content/2021/06/29/1293880/u0zwSUQsoA.jpg?w=640"
-        width: 577
-        height: 433
-        isCached: true
-  - title: "Maximise benefits of AI for health, minimise risks: WHO"
-    excerpt: "Artificial Intelligence (AI) holds great promise for improving the delivery of healthcare and medicine worldwide, but only if ethics and human rights .."
-    publishedDateTime: 2021-06-29T11:05:00Z
-    webUrl: "https://cio.economictimes.indiatimes.com/news/next-gen-technologies/maximise-benefits-of-ai-for-health-minimise-risks-who/83952033"
-    ampWebUrl: "https://cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/maximise-benefits-of-ai-for-health-minimise-risks-who/83952033"
-    cdnAmpWebUrl: "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/maximise-benefits-of-ai-for-health-minimise-risks-who/83952033"
-    type: article
-    provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 59
-    images:
-      - url: "https://etimg.etb2bimg.com/thumb/msid-83952033,imgsize-222468,width-800,height-434,overlay-etcio/maximise-benefits-of-ai-for-health-minimise-risks-who.jpg"
-        width: 800
-        height: 434
+      - url: "https://venturebeat.com/wp-content/uploads/2021/02/How-healthcare-will-become-a-democratized-on-demand-service-01-e1618816638837.jpg?w=1200&strip=all"
+        width: 1200
+        height: 600
         isCached: true
   - title: "WHO Lays Down 6 Principles To Use AI In Healthcare"
     excerpt: "The World Health Organization (WHO) recently issued its first global report on artificial intelligence in healthcare and six guiding principles for its design and use. The report titled ‘Ethics and governance of artificial intelligence for health’ has been published after two years of consultations held by a panel of international experts appointed by WHO."
@@ -166,75 +97,47 @@ related:
         width: 1000
         height: 800
         isCached: true
-  - title: "WHO guidance on Artificial Intelligence to improve healthcare, mitigate risks worldwide"
-    excerpt: "Artificial Intelligence (AI) holds \"enormous potential\" for improving the health of millions around the world if ethics and human rights are at the"
-    publishedDateTime: 2021-06-28T14:50:00Z
-    webUrl: "https://www.miragenews.com/who-guidance-on-artificial-intelligence-to-586291/"
+  - title: "The WHO on ethical AI, Doximity’s ascent, & algorithms for IVF"
+    excerpt: "The World Health Organization has issued its first guidance on the use of artificial intelligence in health care."
+    publishedDateTime: 2021-06-29T21:25:00Z
+    webUrl: "https://www.statnews.com/2021/06/29/who-artificial-intelligence-health/"
     type: article
     provider:
-      name: Armed robbery in Revesby
-      domain: miragenews.com
-    quality: 48
+      name: STAT
+      domain: statnews.com
+    quality: 54
     images:
-      - url: "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Libraries/Production+Library/28-06-2021-Unsplash-robotics.jpg/image770x420cropped.jpg"
-        width: 771
-        height: 420
+      - url: "https://www.statnews.com/wp-content/uploads/2021/04/AdobeStock_224585219-1024x576.jpeg"
+        width: 1024
+        height: 576
         isCached: true
-  - title: "WHO guidance on Artificial Intelligence to improve healthcare, mitigate risks worldwide"
-    excerpt: "Artificial Intelligence (AI) holds “enormous potential” for improving the health of millions around the world if ethics and human rights are at the heart of its design, deployment, and use, the head of the UN health agency said on Monday."
-    publishedDateTime: 2021-06-29T10:45:00Z
-    webUrl: "https://www.indiablooms.com/health-details/H/9857/who-guidance-on-artificial-intelligence-to-improve-healthcare-mitigate-risks-worldwide.html"
+  - title: "Unesco agrees draft text for ethical AI"
+    excerpt: "After months of constructive dialogue and negotiation, representatives from UNESCO’s member states have agreed on the draft text of an ambitious and wide-ranging new template for the ethical development and deployment of Artificial Intelligence."
+    publishedDateTime: 2021-07-01T10:16:00Z
+    webUrl: "https://www.finextra.com/pressarticle/88382/unesco-agrees-draft-text-for-ethical-ai"
     type: article
     provider:
-      name: India Blooms
-      domain: indiablooms.com
-    quality: 48
+      name: Finextra
+      domain: finextra.com
+    quality: 54
     images:
-      - url: "https://www.indiablooms.com/health_pic/2021/b2ee5bce5a7997227b583979edf5b1bb.jpg"
-        width: 800
-        height: 362
+      - url: "https://www.finextra.com/about/finextra-logo.png"
+        width: 512
+        height: 512
         isCached: true
-  - title: "Maximise benefits of AI for health, minimise risks: WHO"
-    excerpt: "Artificial Intelligence (AI) holds great promise for improving the delivery of healthcare and medicine worldwide, but only if ethics"
-    publishedDateTime: 2021-06-28T12:37:00Z
-    webUrl: "https://www.glamsham.com/world/technology/maximise-benefits-of-ai-for-health-minimise-risks-who"
+  - title: "Department of Defense AI ethics principles still lack implementation guidance"
+    excerpt: "Despite progress on making committees and working groups on AI ethics, the department still lacks its promised implementation guidance."
+    publishedDateTime: 2021-06-28T21:19:00Z
+    webUrl: "https://www.fedscoop.com/ai-ethics-principles-dod-military-implementation-guidance/"
     type: article
     provider:
-      name: glamsham.com
-      domain: glamsham.com
-    quality: 39
+      name: FedScoop
+      domain: fedscoop.com
+    quality: 51
     images:
-      - url: "https://www.glamsham.com/wp-content/uploads/2021/06/63a85dd6735270f10a5cb0b17b285dfd-3.jpg"
-        width: 400
-        height: 231
-        isCached: true
-  - title: "WHO cautions against overestimating AI’s impact on health"
-    excerpt: "Report from WHO says that artificial intelligence (AI) has enormous potential for improving health, but only if ethics and human rights are at the heart of its design and use"
-    publishedDateTime: 2021-06-29T09:22:00Z
-    webUrl: "https://pharmaphorum.com/news/who-cautions-against-overestimating-ais-impact-on-health/?_scpsug=crawled,2139,en_21f55ef6f0e7a2ca233dbbaae88bd3b86bf9e04cbc50c8851fb52a10b69b6a75"
-    type: article
-    provider:
-      name: pharmaphorum.com
-      domain: pharmaphorum.com
-    quality: 39
-    images:
-      - url: "https://pharmaphorum.com/wp-content/uploads/2018/03/AI-brain-cloud.jpg"
-        width: 1254
-        height: 836
-        isCached: true
-  - title: "WHO report warns against overestimating benefits of AI in health"
-    excerpt: "AI can help to bridge the health service access gap in poor countries, but bias, unethical use of data, and poorly trained models are all risks to be overcome"
-    publishedDateTime: 2021-06-29T08:35:00Z
-    webUrl: "https://www.computing.co.uk/news/4033625/report-warns-overestimating-benefits-ai-health"
-    type: article
-    provider:
-      name: Computing
-      domain: computing.co.uk
-    quality: 39
-    images:
-      - url: "https://www.computing.co.uk/api/v1/wps/14da744/a6f00026-47f9-4b95-a24d-0c5e5e5ff372/5/AI-370x229.jpg"
-        width: 370
-        height: 229
+      - url: "https://www.fedscoop.com/wp-content/uploads/2021/06/greon-ss.jpg"
+        width: 2170
+        height: 1428
         isCached: true
   - title: "WHO Report Targets AI in Health, Cautions Against Health Disparities"
     excerpt: "The World Health Organization (WHO) released the first global report on artificial intelligence in healthcare and six principles to avoid health disparities in the field. The report, Ethics and governance of artificial intelligence for health,"
@@ -249,20 +152,6 @@ related:
       - url: "https://healthitanalytics.com/images/site/article_headers/_normal/GettyImages-943065376.jpg"
         width: 690
         height: 400
-        isCached: true
-  - title: "Global Artificial Intelligence in Healthcare: Deals and Agreements by Leading Players From 2010-2021 - ResearchAndMarkets.com"
-    excerpt: "Partnering Terms and Agreements 2010 to 2021” report has been added to ResearchAndMarkets.com’s offering. The Global Artificial Intelligence (AI) Partnering Terms and Agreements 2010 to 2021 report provides an understanding and access to the artificial intelligence partnering deals and agreements entered into by the world’s leading healthcare companies."
-    publishedDateTime: 2021-06-28T16:53:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/artificial-intelligence-business-technology-c8cf1d7a3c1e49999f2dbe3d728e684e"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 27
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
         isCached: true
 
 secured: "SFJ8xpH8hhydGS6I9Se2vq0fWuif3sO4VcGjizdRTEaeg9ZZOS9Wm8Sbpje6zfiiBfnOTmPwicP1niKNa02JEGlKfVEPpKhO6Eye9FXcSEfHbADmOqEnQuslJMIrum0dVvDDa2LMz3BKIMV1LDZ53kLiLgbTPYHZw32RkSF5O/kwE1qCCFo9mGjXnwcruvJxNI3mziVp28rsZQIIsTiw6YDy27rPWt26Auue4Xmyr4jgq4SIx+NeE4PH41k9UDxsJtweg7mlZxCCjGOYl6REu24pnlqZRR4nNTyICUijYdxJFaFQIUpF9j63yMePS4KZ8aYDs+ut0hfVGP78IB7rdHZ+QOo6Ynxct5fsvOFUl+DtDEekR6CW3sN7xE3wHRIdNH9UnpwUhzvg3LMgkoIVV5qf9lCfeTI+yxu+wAd0hhhCRL4E2VwnJqJt5NB6HosEeBp4ttOAJEQPie5/R+7yg8FLd7sIGs7aKm31FfI2/5g+KAckt0Lp0snsxB+KPUd6u5/n72rFUxhejgvlOTd/Hw==;l39FK9hoFuXumNAha+WdXA=="

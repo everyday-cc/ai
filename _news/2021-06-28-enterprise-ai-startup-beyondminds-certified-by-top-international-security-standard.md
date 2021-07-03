@@ -2,22 +2,28 @@
 category: news
 title: "Enterprise AI Startup BeyondMinds Certified by Top International Security Standard"
 excerpt: "BeyondMinds, an enterprise AI software provider delivering fully managed, production-grade AI solutions on top of its turnkey AI platform, today announced it has earned ISO 27001:2013. The certification,"
-publishedDateTime: 2021-06-28T15:00:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-enterprise-ai-startup-beyondminds-certified-top-international-security-/2021/06/28/9398829.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-enterprise-ai-startup-beyondminds-certified-top-international-security-/2021/06/28/9398829.htm"
+publishedDateTime: 2021-06-28T13:52:00Z
+originalUrl: "https://apnews.com/press-release/globe-newswire/business-technology-061006a8611cbe8746dba86f82b79b9c"
+webUrl: "https://apnews.com/press-release/globe-newswire/business-technology-061006a8611cbe8746dba86f82b79b9c"
 type: article
-quality: 28
-heat: 28
+quality: 48
+heat: 48
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI
   - AI in Security
 
-secured: "OsgipsDilWkxIAc1Mm2FSDmm76dLP09eud23pmEa7GdWJyZt9qXNcbXB2U2F3xPnsbmmmL2UV31+lRX6exhNspCffGlYai1kX3cMcEssDzQ1PNR5AAyJl8deZIsi4pIcsLuis3ue51ESTtfIaArqXuPNS41z6cbOmksNbA4jM7MTsdXzdOhIR5co2lw9HOm7qvRdzrXg+gLsJ4OUnqeS8P23m28jmus8nWwxY9BNgvNkcBdZDUYkb0WG8OLjdUdF6WukawYAfy1eN0Q/HJItp9tZmF/Vrxm/XRziNVsVCJDRb2gcEL0x9xeLxCW+3skw6AgTyXmzpKqzIirljTom96vAp+o/j2SXcqNEZYJ2pMo=;fxy4EaGlQ3tIHO5c3h2Haw=="
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
+
+secured: "wIzJ6zVBbQGTFu1/4SwKg2siwsY1TZSfOjnCU15Uxgfc4sx8meQMCMO7HHWFygYH8dE975WdBIHK6eItNyEKZ62xeeXEK26J19BZSHmY1+q4Wz6yN6QvO3ggxXt/W4z/T/jwm7Xvw591sFBXAE8vcATi1OOKeLfDay170JsKocA3QGvmh9Hm8aNH/B7QufCX/WIke9rzGX4nlKPoN+Q3czZU2K9oKbbXcflELzIjlhHY/LbY/Qu2Jqh6dYJSQowIttruxwJ8iaqn+V0UCoB6Y/sRqhB4xYmUxZVLDg8MAtJHVQvOzzw6IiQhCk4NtrLUBKSw9dhkUe1n3QiTxiRXF6Ec4ZWwldq5ou9LC3GHE8Y=;mV0C1LZwIk/mbN2AUVz6UQ=="
 ---
 

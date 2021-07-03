@@ -223,20 +223,6 @@ related:
         width: 560
         height: 373
         isCached: true
-  - title: "Poltergeist Attack Targets Self-Driving Cars, Blinding Them Via Audio Signals"
-    excerpt: "Poltergeist attack can blur the images perceived by self-driving cars to hide, alter, or create objects, thus affecting the decision-making."
-    publishedDateTime: 2021-06-28T08:42:00Z
-    webUrl: "https://latesthackingnews.com/2021/06/28/poltergeist-attack-targets-self-driving-cars-blinding-them-via-audio-signals/"
-    type: article
-    provider:
-      name: Latest Hacking News
-      domain: latesthackingnews.com
-    quality: 21
-    images:
-      - url: "https://latesthackingnews.com/wp-content/uploads/2020/10/self-driving-car.jpg"
-        width: 600
-        height: 360
-        isCached: true
   - title: "DeepRoute.ai, Level 4 Self-Driving Technology Provider, Supports Shenzhen During COVID-19 Outbreak by Transporting Test Samples"
     excerpt: "Following a COVID-19 outbreak in China's most populous province, Guangdong, DeepRoute.ai is currently transporting approximately 14,000 COVID-19 test samples per day to local hospitals in Shenzhen for testing through its advanced self-driving technology."
     publishedDateTime: 2021-06-29T16:49:00Z

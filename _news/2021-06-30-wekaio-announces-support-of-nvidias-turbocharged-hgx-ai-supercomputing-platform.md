@@ -19,20 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Nvidia soups up its HGX AI supercomputer platform with faster chips, more bandwidth and direct memory access"
-    excerpt: "Nvidia soups up its HGX AI supercomputer platform with faster chips, more bandwidth and direct memory access - SiliconANGLE"
-    publishedDateTime: 2021-06-28T07:29:00Z
-    webUrl: "https://siliconangle.com/2021/06/28/nvidia-soups-hgx-ai-supercomputer-platform-faster-chips-bandwidth-direct-memory-access/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 35
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/06/Image-NVIDIA-HGX-Platform.jpg"
-        width: 2000
-        height: 1260
-        isCached: true
   - title: "WekaIO Announces Support of NVIDIA's Turbocharged HGX™ AI Supercomputing Platform"
     excerpt: "WekaIO™ (Weka), one of the fastest-growing data platforms for artificial intelligence/machine learning (AI/ML), life sciences research, and high-performance computing (HPC), today announced the WekaFS™ Limitless Data Platform's ability to leverage the newly-turbocharged NVIDIA HGX™ AI supercomputing platform to deliver the best performance and throughput required of today's most-demanding enterprise workloads."
     publishedDateTime: 2021-06-29T14:09:00Z

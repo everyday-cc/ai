@@ -43,20 +43,6 @@ related:
         width: 1440
         height: 810
         isCached: true
-  - title: "Leveraging artificial intelligence to enhance brand management"
-    excerpt: "Once the subject of imaginations and main plot of science fiction movies for decades, today, robots are no longer a piece of fiction, they are now a commonplace in people’s daily lives."
-    publishedDateTime: 2021-06-29T04:26:00Z
-    webUrl: "https://guardian.ng/features/media/leveraging-artificial-intelligence-to-enhance-brand-management/"
-    type: article
-    provider:
-      name: The Guardian Nigeria
-      domain: guardian.ng
-    quality: 39
-    images:
-      - url: "https://guardian.ng/wp-content/uploads/2021/06/AI.jpg"
-        width: 1280
-        height: 720
-        isCached: true
 
 secured: "2nSTO1/M4xagDY/oJwqXcu9oI2l9kcm8pCZan+w2a3J40Mzt42XAC3UCQaVUP0qdr4KLlCR7nd03hjG3ouFzCa1/dFpRqpA6dVW9Jg5XiETYRnsfsM08dOjOozsdmUbYZALUwYfG36pg5B+HCsPPhOqGtQFaUhdz2FcLPfuXJE91ytChT+YvZ8r/ktTD3Mtwg4JDF2jMV7ffg8dvwcO57hgngbB9kl6ffLWztuzImHAJP3S4pdBSq6qSwaeM2ilgiYgDB7L6c4CODh10PoVTymYWxYijhisuNvNzk8W2Jm2pZjJISUSOJTOBJx3J8IQirlMXMnTFSWHq4QY3CN9/9N3wdPvzXDFR4oB2YgGFxAg=;fE7o2MB33xCyR7j41iONpQ=="
 ---

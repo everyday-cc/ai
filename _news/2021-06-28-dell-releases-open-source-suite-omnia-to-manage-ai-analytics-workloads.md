@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/06/28/dell-releases-open-source-suite-o
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/28/dell-releases-open-source-suite-omnia-to-manage-ai-analytics-workloads/amp/"
 type: article
 quality: 87
-heat: 167
+heat: 157
 published: true
 
 provider:
@@ -89,20 +89,6 @@ related:
       - url: "https://healthitanalytics.com/images/site/article_headers/_normal/GettyImages-1164501571.jpg"
         width: 690
         height: 400
-        isCached: true
-  - title: "Analytics and AI helps Experian help its customers"
-    excerpt: "The consumer credit reporting company is leveraging its data and data scientists to create new services for its customers."
-    publishedDateTime: 2021-06-28T09:00:00Z
-    webUrl: "https://www.cio.com/article/3622709/analytics-and-ai-helps-experian-help-its-customers.html"
-    type: article
-    provider:
-      name: CIO
-      domain: cio.com
-    quality: 37
-    images:
-      - url: "https://images.idgesg.net/images/article/2020/08/artificial-intelligence-concept-picture-id1160995648-100855293-large.jpg"
-        width: 1200
-        height: 800
         isCached: true
   - title: "Presto the Future of Open Data Analytics, Foundation Says"
     excerpt: "The openness of Presto, its adherence to standard SQL, and the ubiquity and performance of modern cloud storage have combined to put Presto in the"

@@ -217,22 +217,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Warning on non-police deployment of live facial recognition technology from Information Commissioner"
-    excerpt: "The ICO emphasises the need to follow data protection legislation and best practice when it comes to live facial recognition systems."
-    publishedDateTime: 2021-06-28T08:47:00Z
-    webUrl: "https://www.ifsecglobal.com/video-surveillance/warning-non-police-deployment-live-facial-recognition-information-commissioner/"
-    ampWebUrl: "https://www.ifsecglobal.com/video-surveillance/warning-non-police-deployment-live-facial-recognition-information-commissioner/amp/"
-    cdnAmpWebUrl: "https://www-ifsecglobal-com.cdn.ampproject.org/c/s/www.ifsecglobal.com/video-surveillance/warning-non-police-deployment-live-facial-recognition-information-commissioner/amp/"
-    type: article
-    provider:
-      name: ifsecglobal.com
-      domain: ifsecglobal.com
-    quality: 44
-    images:
-      - url: "https://s33644.pcdn.co/wp-content/uploads/2019/01/facial-recongition-office-building-e1547817740963.jpeg"
-        width: 389
-        height: 300
-        isCached: true
   - title: "Maine law restricting facial recognition technology statewide is one of the nation’s toughest"
     excerpt: "A bill touted as the country's strictest statewide regulation on the use of facial recognition technology has become law in Maine."
     publishedDateTime: 2021-06-30T22:47:00Z

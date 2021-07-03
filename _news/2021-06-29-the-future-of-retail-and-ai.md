@@ -27,67 +27,122 @@ images:
     isCached: true
 
 related:
-  - title: "AI’s Role In The Future Of Data Privacy"
-    excerpt: "People’s personal data has been lost, stolen, exposed, and hacked. Unfortunately, this trend isn’t new and can cost companies an average of $3.86 million per breach, not to mention the harm to the users themselves."
-    publishedDateTime: 2021-07-02T21:10:00Z
-    webUrl: "https://www.forbes.com/sites/anniebrown/2021/07/02/ais-role-in-the-future-of-data-privacy/"
-    ampWebUrl: "https://www.forbes.com/sites/anniebrown/2021/07/02/ais-role-in-the-future-of-data-privacy/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/anniebrown/2021/07/02/ais-role-in-the-future-of-data-privacy/amp/"
+  - title: "WHO guidance details the benefits and risks of adding AI to healthcare"
+    excerpt: "The World Health Organization has published new guidance on the use of artificial intelligence in health, something that took experts across multiple fields 18 months to debate. WHO acknowledges"
+    publishedDateTime: 2021-06-30T21:28:00Z
+    webUrl: "https://www.slashgear.com/who-guidance-details-the-benefits-and-risks-of-adding-ai-to-healthcare-30680625/"
+    ampWebUrl: "https://www.slashgear.com/who-guidance-details-the-benefits-and-risks-of-adding-ai-to-healthcare-30680625/amp/"
+    cdnAmpWebUrl: "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/who-guidance-details-the-benefits-and-risks-of-adding-ai-to-healthcare-30680625/amp/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
+      name: SlashGear
+      domain: slashgear.com
+    quality: 104
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60df804c62086a5727aa4e5b%2F0x0.jpg"
-        width: 1200
+      - url: "https://cdn.slashgear.com/wp-content/uploads/2021/06/hospital_main_uns.jpg"
+        width: 1440
         height: 800
         isCached: true
-  - title: "AI trends that will define the future of data science"
-    excerpt: "Artificial Intelligence is the new electricity,” rightly said British-born American computer scientist Professor Andrew NG. AI is transforming every industry and creating huge economic value simultaneously."
-    publishedDateTime: 2021-06-29T09:54:00Z
-    webUrl: "https://timesofindia.indiatimes.com/blogs/voices/ai-trends-that-will-define-the-future-of-data-science/"
-    ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/ai-trends-that-will-define-the-future-of-data-science/"
-    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/ai-trends-that-will-define-the-future-of-data-science/"
+  - title: "The first WHO report on AI in healthcare is a mixed bag of horror and delight"
+    excerpt: "The World Health Organization today released its first-ever report on artificial intelligence in healthcare. There's good news and bad."
+    publishedDateTime: 2021-06-28T20:10:00Z
+    webUrl: "https://thenextweb.com/news/who-report-on-ai-in-healthcare-mixed-bag-horror-delight"
+    type: article
+    provider:
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 81
+    images:
+      - url: "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F06%2Fwho-1.jpg&signature=198a5378c62b0948b8ee4ee506cd5719"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "Maximise benefits of AI for health, minimise risks: WHO"
+    excerpt: "Artificial Intelligence (AI) holds great promise for improving the delivery of healthcare and medicine worldwide, but only if ethics and human rights .."
+    publishedDateTime: 2021-06-29T11:05:00Z
+    webUrl: "https://cio.economictimes.indiatimes.com/news/next-gen-technologies/maximise-benefits-of-ai-for-health-minimise-risks-who/83952033"
+    ampWebUrl: "https://cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/maximise-benefits-of-ai-for-health-minimise-risks-who/83952033"
+    cdnAmpWebUrl: "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/maximise-benefits-of-ai-for-health-minimise-risks-who/83952033"
     type: article
     provider:
       name: India Times
       domain: indiatimes.com
-    quality: 39
-  - title: "Explainable AI, the future of financial services"
-    excerpt: "As technology becomes more advanced, it can become harder to understand. Some may accept not fully understanding the ins and outs of a technology if it makes new or better things possible, but not being able to fully understand how a technology works can bring about its own problems."
-    publishedDateTime: 2021-06-30T05:01:00Z
-    webUrl: "https://paperjam.lu/article/explainable-ai-the-future-of-f"
+    quality: 59
+    images:
+      - url: "https://etimg.etb2bimg.com/thumb/msid-83952033,imgsize-222468,width-800,height-434,overlay-etcio/maximise-benefits-of-ai-for-health-minimise-risks-who.jpg"
+        width: 800
+        height: 434
+        isCached: true
+  - title: "WHO guidance on Artificial Intelligence to improve healthcare, mitigate risks worldwide"
+    excerpt: "Artificial Intelligence (AI) holds \"enormous potential\" for improving the health of millions around the world if ethics and human rights are at the"
+    publishedDateTime: 2021-06-28T14:50:00Z
+    webUrl: "https://www.miragenews.com/who-guidance-on-artificial-intelligence-to-586291/"
     type: article
     provider:
-      name: paperJam
-      domain: paperjam.lu
+      name: Armed robbery in Revesby
+      domain: miragenews.com
+    quality: 48
+    images:
+      - url: "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Libraries/Production+Library/28-06-2021-Unsplash-robotics.jpg/image770x420cropped.jpg"
+        width: 771
+        height: 420
+        isCached: true
+  - title: "WHO guidance on Artificial Intelligence to improve healthcare, mitigate risks worldwide"
+    excerpt: "Artificial Intelligence (AI) holds “enormous potential” for improving the health of millions around the world if ethics and human rights are at the heart of its design, deployment, and use, the head of the UN health agency said on Monday."
+    publishedDateTime: 2021-06-29T10:45:00Z
+    webUrl: "https://www.indiablooms.com/health-details/H/9857/who-guidance-on-artificial-intelligence-to-improve-healthcare-mitigate-risks-worldwide.html"
+    type: article
+    provider:
+      name: India Blooms
+      domain: indiablooms.com
+    quality: 48
+    images:
+      - url: "https://www.indiablooms.com/health_pic/2021/b2ee5bce5a7997227b583979edf5b1bb.jpg"
+        width: 800
+        height: 362
+        isCached: true
+  - title: "Maximise benefits of AI for health, minimise risks: WHO"
+    excerpt: "Artificial Intelligence (AI) holds great promise for improving the delivery of healthcare and medicine worldwide, but only if ethics"
+    publishedDateTime: 2021-06-28T12:37:00Z
+    webUrl: "https://www.glamsham.com/world/technology/maximise-benefits-of-ai-for-health-minimise-risks-who"
+    type: article
+    provider:
+      name: glamsham.com
+      domain: glamsham.com
     quality: 39
     images:
-      - url: "https://assets.paperjam.lu/images/articles/explainable-ai-the-future-of-f/0.5/0.5/600/400/414770.jpg"
-        width: 1199
-        height: 800
+      - url: "https://www.glamsham.com/wp-content/uploads/2021/06/63a85dd6735270f10a5cb0b17b285dfd-3.jpg"
+        width: 400
+        height: 231
         isCached: true
-  - title: "Macy's Wants Out Of Clearview AI Facial-Data Privacy MDL"
-    excerpt: "Department store chain Macy's argued Monday to be excused from Illinois multidistrict litigation over alleged biometric privacy violations by Clearview AI, saying consumers haven't shown an injury related to their claims that the company used Clearview's database to identify unknown individuals."
-    publishedDateTime: 2021-06-29T22:32:00Z
-    webUrl: "https://www.law360.com/articles/1398758/macy-s-wants-out-of-clearview-ai-facial-data-privacy-mdl"
-    ampWebUrl: "https://www.law360.com/amp/articles/1398758"
-    cdnAmpWebUrl: "https://www-law360-com.cdn.ampproject.org/c/s/www.law360.com/amp/articles/1398758"
+  - title: "Leveraging artificial intelligence to enhance brand management"
+    excerpt: "Once the subject of imaginations and main plot of science fiction movies for decades, today, robots are no longer a piece of fiction, they are now a commonplace in people’s daily lives."
+    publishedDateTime: 2021-06-29T04:26:00Z
+    webUrl: "https://guardian.ng/features/media/leveraging-artificial-intelligence-to-enhance-brand-management/"
     type: article
     provider:
-      name: Law360
-      domain: law360.com
+      name: The Guardian Nigeria
+      domain: guardian.ng
     quality: 39
-  - title: "Artificial intelligence hold promise in the ICU"
-    excerpt: "In a 2018 article entitled “Human Cognitive Limitations”, the University of Utah's Alan Morris estimated the number of variables an intensivist has to take into account for a patient on mechanical ventilation."
-    publishedDateTime: 2021-06-28T22:55:00Z
-    webUrl: "https://www.thelancet.com/journals/lanres/article/PIIS2213-2600(21)00317-9/fulltext"
+    images:
+      - url: "https://guardian.ng/wp-content/uploads/2021/06/AI.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "WHO report warns against overestimating benefits of AI in health"
+    excerpt: "AI can help to bridge the health service access gap in poor countries, but bias, unethical use of data, and poorly trained models are all risks to be overcome"
+    publishedDateTime: 2021-06-29T08:35:00Z
+    webUrl: "https://www.computing.co.uk/news/4033625/report-warns-overestimating-benefits-ai-health"
     type: article
     provider:
-      name: The Lancet
-      domain: thelancet.com
-    quality: 17
+      name: Computing
+      domain: computing.co.uk
+    quality: 39
+    images:
+      - url: "https://www.computing.co.uk/api/v1/wps/14da744/a6f00026-47f9-4b95-a24d-0c5e5e5ff372/5/AI-370x229.jpg"
+        width: 370
+        height: 229
+        isCached: true
 
 secured: "HnFj+r5Tqn56Ai7ffwIr/zA59hE6HwoS4h001uXEaMU4CFj2nhFp+EQ26jqK4nlKCN+c3t428GbrYFvZ4E6V+6w0NxsoIK6ITSmMMze7isNyBEBsKR8KUeWzZDODALdQK+kE5O/4FLnWe4UsceLFJ9mzPsDur+RtM7QXMocDfXxA+1xmuu1HefY5iBdR+7S1UuwhGcs5yYpfG+rdVHU09E8Z8jbIIDTrQnL/5gQ3f0CN88eZ30D5X3MtNO8hITEdkp1Iy8JjFs3W2ujiCGmy4HJsK53LG0yUxuKmXKANJQfna5jXP60RgwKOTyfRM5oyAInLMGWi/ihR8Ocxl0hjxi/G2LIW5OAKDfXIaQO1hQrp1Ej9QhO/29C3NMH9Dzpmu0N8K/9fA6DdkEvo7gqqUMVWylerebBYwNhfYwe/KHeTT3bOKuPfVms4xS0jwvlEYDtPeCvdG5jn+d6VJknt/EY6zo0QaEKxkDhB2CAdUQsDup3LfyFRDMap+InPsbNOc4mcNAcQqrsg+SsjDvWFAA==;SZE7D3QVLneRvzJ9uRS82A=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/who-warns-against-applying-
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/who-warns-against-applying-ai-models-using-data-from-rich-counties-to-everyone-else/"
 type: article
 quality: 62
-heat: 82
+heat: 92
 published: true
 
 provider:
@@ -49,6 +49,20 @@ related:
       - url: "https://img.manufacturing.net/files/base/indm/multi/image/2021/06/16x9/AI__Machine_learning__Hands_of_robot_and_human_touching_on_big_data_network_connection_background__Science_and_artificial_intelligence_technology__innovation_and_futuristic._1206796363_5000x2661.60dc82e2e6254.png?auto=format%2Ccompress&fit=max&q=70&w=1200"
         width: 1200
         height: 673
+        isCached: true
+  - title: "WHO cautions against overestimating AI’s impact on health"
+    excerpt: "Report from WHO says that artificial intelligence (AI) has enormous potential for improving health, but only if ethics and human rights are at the heart of its design and use"
+    publishedDateTime: 2021-06-29T09:22:00Z
+    webUrl: "https://pharmaphorum.com/news/who-cautions-against-overestimating-ais-impact-on-health/?_scpsug=crawled,2139,en_21f55ef6f0e7a2ca233dbbaae88bd3b86bf9e04cbc50c8851fb52a10b69b6a75"
+    type: article
+    provider:
+      name: pharmaphorum.com
+      domain: pharmaphorum.com
+    quality: 39
+    images:
+      - url: "https://pharmaphorum.com/wp-content/uploads/2018/03/AI-brain-cloud.jpg"
+        width: 1254
+        height: 836
         isCached: true
 
 secured: "uvrUrfTuBk87BPWyLmL8jbshzOZmBBdoKO1j3bmhm3vWR1aibGkLfK3TnJsOMmTY9fO9fnvKPNEhTDqaQTeGjXxYDEgYpTcz4YTswgqgkYokcSfD2W7Q2Ucd6y9a9VwkbpEjYsmShmb5tJRZJAzkmd+9k3AzE5ig5JXGpnTU79lpVFfE0YuBeGvcOreC04KrjmmFfNPJ7kEP2vAAJV4TNHysN3eHVnOIuwJYZg+vRumkvLSVZH2G2gqTzjh3bIpMxevl9eHT1YMgCZMo+LWBTyvKZuVNgH02u1h77VfAddeGGjzLD+OPuTZE7BqOh6Ga8maF6/v3d3WZzCkSjz40HmMbQCpBDT+DnW9S0YnpUn3C9sG1r+O3W8ksGyUo7TeKETLu5fHaZXb13vT6S8V3G06xP5YNrV2jGjko2cpZGr9DG7q6SfZA6w22yUtt5klghUjjSTesM8qckUxyXF8FkNh3GEr7II3xb6sUL8AZrlRNmhRddTq59pTEQ2hwv87NHt9ERmd/FMlV2rwE403n3A==;iulMmCVRUuk6w7LIqPe7PQ=="

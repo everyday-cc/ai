@@ -231,20 +231,6 @@ related:
         width: 450
         height: 308
         isCached: true
-  - title: "Poltergeist Attack Targets Self-Driving Cars, Blinding Them Via Audio Signals"
-    excerpt: "Poltergeist attack can blur the images perceived by self-driving cars to hide, alter, or create objects, thus affecting the decision-making."
-    publishedDateTime: 2021-06-28T08:42:00Z
-    webUrl: "https://latesthackingnews.com/2021/06/28/poltergeist-attack-targets-self-driving-cars-blinding-them-via-audio-signals/"
-    type: article
-    provider:
-      name: Latest Hacking News
-      domain: latesthackingnews.com
-    quality: 21
-    images:
-      - url: "https://latesthackingnews.com/wp-content/uploads/2020/10/self-driving-car.jpg"
-        width: 600
-        height: 360
-        isCached: true
 
 secured: "Q8flIuoRDZjteczxUbbutEAMMnhgDtVKT9s8rP/MlRSjDJiOEkgxFNEBSaYJr2FEYOa/8hE+fEtP1O9GvtBPPRjKhu7uUWg0GgstVcqvBT+HErPXqc5eFSweb3IL+THFLJCVFK/xKrGmo3j/zEEEgXrdh+4RZpuCHOm+T2BxvYCUckNR7IgBZsDLp3r9DPfnUHyKA26nYh0CaJlNCC23S3qo8D68wwoUvju+PcQcvdgpRjUmFgejB9eWgYrUV0unuChDZHmjGP7iBFddZPVP3ZG6VxwVe666npZp0/kPiAjmDu2q/IwJIiWRnAM8fs3q/xDQaPeHvPnfMpwK1UxpYDVSCgRf16EXyLQKeFo2G8g=;BggDEEH1gAcL0NTlyjwA5w=="
 ---

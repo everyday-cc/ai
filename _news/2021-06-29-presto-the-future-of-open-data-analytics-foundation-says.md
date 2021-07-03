@@ -101,20 +101,6 @@ related:
         width: 690
         height: 400
         isCached: true
-  - title: "Analytics and AI helps Experian help its customers"
-    excerpt: "The consumer credit reporting company is leveraging its data and data scientists to create new services for its customers."
-    publishedDateTime: 2021-06-28T09:00:00Z
-    webUrl: "https://www.cio.com/article/3622709/analytics-and-ai-helps-experian-help-its-customers.html"
-    type: article
-    provider:
-      name: CIO
-      domain: cio.com
-    quality: 37
-    images:
-      - url: "https://images.idgesg.net/images/article/2020/08/artificial-intelligence-concept-picture-id1160995648-100855293-large.jpg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "P&R Dental Strategies to Present on Artificial Intelligence and Future of Dental Analytics at NADP CONVERGE 2021"
     excerpt: "P&R Dental Strategies, LLC (P&R), the premier dental insights company delivering customized, actionable business intelligence to support a variety of dental payer objectives, today announced their plan to present at the National Association of"
     publishedDateTime: 2021-06-29T22:42:00Z

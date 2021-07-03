@@ -85,20 +85,6 @@ related:
         width: 628
         height: 385
         isCached: true
-  - title: "Global Mobile Speech Recognition Software Market Shares Reflect Significant Growth of Mn US$ During 2020-2025"
-    excerpt: "Global Mobile Speech Recognition Software Market Research Report: Industry Analysis, Share, Revenue, And Future Trends. The report published by Market Research Store on the global"
-    publishedDateTime: 2021-06-28T08:20:00Z
-    webUrl: "https://ksusentinel.com/2021/06/28/global-mobile-speech-recognition-software-market-shares-reflect-significant-growth-of-mn-us-during-2020-2025/"
-    type: article
-    provider:
-      name: The Sentinel
-      domain: ksusentinel.com
-    quality: 20
-    images:
-      - url: "https://themarketeagle.com/wp-content/uploads/2021/03/Management2.jpg"
-        width: 1024
-        height: 624
-        isCached: true
   - title: "Artificial Intelligence in Telecommunication Market Size, Share 2020, Impressive Industry Growth Report 2027"
     excerpt: "The global Artificial Intelligence by Telecom market size was valued at USD 679 million in 2019 and is projected to grow at a CAGR of 38 from 2021 to 2027 Telecommunications is one of the fastest growing industries using AI"
     publishedDateTime: 2021-06-28T12:00:00Z

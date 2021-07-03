@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/bobodonnell/2021/06/29/nvidias-aerial-b
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bobodonnell/2021/06/29/nvidias-aerial-brings-gpus-to-ai-on-5g/amp/"
 type: article
 quality: 106
-heat: 206
+heat: 196
 published: true
 
 provider:
@@ -67,9 +67,9 @@ related:
   - title: "Graphcore brings new competition to Nvidia in latest MLPerf AI benchmarks"
     excerpt: "Graphcore’s score in BERT natural language training was the best score of any of the two-socket AMD systems submitted."
     publishedDateTime: 2021-06-30T10:00:00Z
-    webUrl: "https://www.zdnet.com/article/graphcore-brings-new-competition-to-nvidia-in-latest-mlperf-ai-benchmarks/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/graphcore-brings-new-competition-to-nvidia-in-latest-mlperf-ai-benchmarks/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/graphcore-brings-new-competition-to-nvidia-in-latest-mlperf-ai-benchmarks/"
+    webUrl: "https://www.zdnet.com/index.php/article/graphcore-brings-new-competition-to-nvidia-in-latest-mlperf-ai-benchmarks/"
+    ampWebUrl: "https://www.zdnet.com/index.php/google-amp/article/graphcore-brings-new-competition-to-nvidia-in-latest-mlperf-ai-benchmarks/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/google-amp/article/graphcore-brings-new-competition-to-nvidia-in-latest-mlperf-ai-benchmarks/"
     type: article
     provider:
       name: ZDNet
@@ -155,15 +155,6 @@ related:
       name: Business Wire
       domain: businesswire.com
     quality: 20
-  - title: "NVIDIA and Global Partners Launch New HGX A100 Systems to Accelerate Industrial AI and HPC"
-    excerpt: "NVIDIA today announced it is turbocharging the NVIDIA HGX™ AI supercomputing platform with new technologies that fuse AI with high performance computing, making supercomputing more useful to a growing number of industries."
-    publishedDateTime: 2021-06-28T07:05:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-nvidia-global-partners-launch-new-hgx-a100-systems-/2021/06/28/9398376.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 9
 
 secured: "YpL3UgwO+m7381+5xRxuuwTeI3wyXX0jPfU8i2j0yxQqKP+MQfj74ZHIMBInFaJOr2Psfu0PABhxhoV1FnSSypxFOtnwbpzoSLrr/ZGYcCLngp7WT2dZREb0oeZXKroHDhm5ZYTqNYbt01XUcaVXWq2hnp9ooHynH0jzP4Za+4d/WEHKwhHNc47/ChHj0lWufsh2t/Wqcug6s4r7nIVanFqeqQxu1QLevEKXN/gIU1FGyoEDslUxhhru4RSdyzZQZWPuwncEhsmcJPuqFNAySRfA3X+u+AbqwM6w2rwOiVrHVPmS2uGBW2l/6O9ix4nLVplDV9cvoLTPGhsjx8a8EiLoo+p4oNVWyLgMU+TUPJJ0imetAXWFb45UxU6fiDbK4Px9Ja72JynrKoEH/Q9ws5uvVrpschxhGHKhS0y+PCQOl0zHTXHmFxQyZwhzg+eHuuh+KvQrpb6W9Dk8NDQvjBobt54V2E70NjtLF2/oiZio+fOl8gSnV+2Hi96bNTJxx1hTnMSwGRpsv40ND8RY6w==;bQirOc4Q45n0VAVXZTKv6A=="
 ---
