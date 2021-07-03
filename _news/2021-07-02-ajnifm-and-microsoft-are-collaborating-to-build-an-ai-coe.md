@@ -9,8 +9,8 @@ ampWebUrl: "https://www.dqindia.com/arun-jaitley-national-institute-financial-ma
 cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/arun-jaitley-national-institute-financial-management-partners-microsoft-build-ai-emerging-tech-coe/amp/"
 type: article
 quality: 76
-heat: -1
-published: false
+heat: 96
+published: true
 
 provider:
   name: Dataquest
@@ -28,22 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Finance Ministry, Microsoft join hands to build AI, emerging tech centre"
-    excerpt: "The collaboration between AJNIFM and Microsoft is meant to explore the role of cloud, AI and emerging technologies in transforming and shaping the future of public finance management in India"
-    publishedDateTime: 2021-07-02T00:57:00Z
-    webUrl: "https://www.livemint.com/news/india/finance-ministry-microsoft-join-hands-to-build-ai-emerging-tech-centre-11625144900167.html"
-    ampWebUrl: "https://www.livemint.com/news/india/finance-ministry-microsoft-join-hands-to-build-ai-emerging-tech-centre/amp-11625144900167.html"
-    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/news/india/finance-ministry-microsoft-join-hands-to-build-ai-emerging-tech-centre/amp-11625144900167.html"
-    type: article
-    provider:
-      name: Mint
-      domain: livemint.com
-    quality: 90
-    images:
-      - url: "https://images.livemint.com/img/2021/07/01/600x338/mou_1625145073756_1625145095525.jpg"
-        width: 600
-        height: 338
-        isCached: true
   - title: "Faridabad's AJNIFM and Microsoft Tie-up for An AI and Emerging Technologies Centre of Excellence"
     excerpt: "Partnership will focus on capacity building of government officials, skilling them in emerging technologies, like AI and machine learning"
     publishedDateTime: 2021-07-02T06:37:00Z
@@ -69,33 +53,6 @@ related:
       name: PCQuest
       domain: pcquest.com
     quality: 33
-  - title: "AI Image Recognition – Market Boosting the Growth Worldwide: Google, Microsoft, IBM"
-    excerpt: "Advance Market Analytics published a new research publication on “AI Image Recognition Market Insights, to 2026″ with 232 pages and enriched with self-explained Tables and charts in presentable format."
-    publishedDateTime: 2021-06-30T15:18:00Z
-    webUrl: "https://manometcurrent.com/ai-image-recognition-market-boosting-the-growth-worldwide-google-microsoft-ibm/"
-    type: article
-    provider:
-      name: manometcurrent.com
-      domain: manometcurrent.com
-    quality: 30
-  - title: "AI Governance Market Growing Popularity & Emerging Trends | IBM Corporation, Google, Microsoft, Facebook, SAP SE"
-    excerpt: "Global AI governance market is growing at a healthy CAGR of 33.7% during the forecast period of 2019 to 2026. The upcoming market report contains data for historic years 2017, the base year of calculation is 2018 and the forecast period is 2019 to 2026."
-    publishedDateTime: 2021-06-29T11:44:00Z
-    webUrl: "https://manometcurrent.com/ai-governance-market-growing-popularity-emerging-trends-ibm-corporation-google-microsoft-facebook-sap-se/"
-    type: article
-    provider:
-      name: manometcurrent.com
-      domain: manometcurrent.com
-    quality: 15
-  - title: "Voice Recognition Software Market May Set New Growth Story | E-speaking, Nuance, Talktyper, Microsoft, Google"
-    excerpt: "The latest research on “Global Voice Recognition Software Report 2021” offered by HTF MI provides a comprehensive investigation into the geographical landscape, industry size along with the revenue estimation of the business."
-    publishedDateTime: 2021-07-01T17:34:00Z
-    webUrl: "https://ksusentinel.com/2021/07/01/voice-recognition-software-market-may-set-new-growth-story-e-speaking-nuance-talktyper-microsoft-google/"
-    type: article
-    provider:
-      name: The Sentinel
-      domain: ksusentinel.com
-    quality: 2
 
 secured: "tqA8I/WKdB4K8JDcl+x8ZQ1h/vI6n58V5TWTmT+ls3rV/e9qFsfrUf2QaQw3oI/AFbEZNAqKP7FPjJ5KPJQRJ1vDZ4ORIqbJ5pThJvzmwR4X3AHxX0zZAXoiluxAPh/XYPwL8AJpB0RVH0B1U+x2IkkTYntYi9A6KT6fFsyOoIwwLQZTir8axvZb27bc0vXT0TTjw7oNiLw8eAdY0TDDNNF3DJGKoD7WxWZ38Nxn6eNcnJeXx6Vp46I1YNreY2NxrtGp8RejOlN51ZqJp/GcEz5JFVMuaQdnA1d2UAGfqX0UAA38kZ/tseBqGl4WdPSKfkYLccCHzhQgApIwhaZQj5w4AqiONHyeHFQjL1AWfn7eykSQlsGYZ+wnCanUF6TS94rEKHyj+30x0C4JOJURdam4BhV1oQsQxN4dOzS4nA9RzBEdB4QFKuR5sIEeYQOfqGal9fkOnETbQIkzsTJM9UOVfyNrwXFrD3AZxWGdvlkgvKKYEujSWyeqZeePmQXdprZaXrwfvdL8vXd23jN8HQ==;Z8c6Uu9xi3tZ5zdvbqVyeQ=="
 ---

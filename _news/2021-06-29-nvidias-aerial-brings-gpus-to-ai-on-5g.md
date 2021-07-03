@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/bobodonnell/2021/06/29/nvidias-aerial-b
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bobodonnell/2021/06/29/nvidias-aerial-brings-gpus-to-ai-on-5g/amp/"
 type: article
 quality: 106
-heat: 176
+heat: 156
 published: true
 
 provider:
@@ -91,22 +91,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 67
-  - title: "Nvidia announces Arm support for AI-on-5G platform and next-gen DPU"
-    excerpt: "The next Nvidia DPU iteration will incorporate 16 Arm Cortex-A78 processors and can be deployed in a “fully self-hosted configuration.”"
-    publishedDateTime: 2021-06-28T19:59:00Z
-    webUrl: "https://www.rcrwireless.com/20210628/5g/nvidia-announces-arm-support-for-ai-on-5g-platform-and-next-gen-dpu"
-    ampWebUrl: "https://www.rcrwireless.com/20210628/5g/nvidia-announces-arm-support-for-ai-on-5g-platform-and-next-gen-dpu/amp"
-    cdnAmpWebUrl: "https://www-rcrwireless-com.cdn.ampproject.org/c/s/www.rcrwireless.com/20210628/5g/nvidia-announces-arm-support-for-ai-on-5g-platform-and-next-gen-dpu/amp"
-    type: article
-    provider:
-      name: RCR Wireless News
-      domain: rcrwireless.com
-    quality: 59
-    images:
-      - url: "https://www.rcrwireless.com/wp-content/uploads/2021/06/Screen-Shot-2021-06-28-at-1.46.10-PM-1024x1024.png"
-        width: 1024
-        height: 1024
-        isCached: true
   - title: "Doom Eternal and Battlefield 2042 get Nvidia RTX GPU upgrades"
     excerpt: "Nvidia has announced that two big hitting games will be taking advantage of its RTX GPU enhancements. Doom Eternal has been updated to include ray tracing | Trusted Reviews"
     publishedDateTime: 2021-06-30T09:14:00Z
@@ -123,15 +107,6 @@ related:
         width: 1024
         height: 576
         isCached: true
-  - title: "NVIDIA and Partners Launch HGX A100 Systems for Industrial AI and HPC"
-    excerpt: "NVIDIA today announced a revamp of its NVIDIA HGX AI supercomputing platform with new technologies that fuse AI with high performance computing, designed to make supercomputing more useful to a growing number of industries."
-    publishedDateTime: 2021-06-28T21:01:00Z
-    webUrl: "https://insidehpc.com/2021/06/nvidia-and-partners-launch-hgx-a100-systems-for-industrial-ai-and-hpc/"
-    type: article
-    provider:
-      name: insideHPC
-      domain: insidehpc.com
-    quality: 21
 
 secured: "YpL3UgwO+m7381+5xRxuuwTeI3wyXX0jPfU8i2j0yxQqKP+MQfj74ZHIMBInFaJOr2Psfu0PABhxhoV1FnSSypxFOtnwbpzoSLrr/ZGYcCLngp7WT2dZREb0oeZXKroHDhm5ZYTqNYbt01XUcaVXWq2hnp9ooHynH0jzP4Za+4d/WEHKwhHNc47/ChHj0lWufsh2t/Wqcug6s4r7nIVanFqeqQxu1QLevEKXN/gIU1FGyoEDslUxhhru4RSdyzZQZWPuwncEhsmcJPuqFNAySRfA3X+u+AbqwM6w2rwOiVrHVPmS2uGBW2l/6O9ix4nLVplDV9cvoLTPGhsjx8a8EiLoo+p4oNVWyLgMU+TUPJJ0imetAXWFb45UxU6fiDbK4Px9Ja72JynrKoEH/Q9ws5uvVrpschxhGHKhS0y+PCQOl0zHTXHmFxQyZwhzg+eHuuh+KvQrpb6W9Dk8NDQvjBobt54V2E70NjtLF2/oiZio+fOl8gSnV+2Hi96bNTJxx1hTnMSwGRpsv40ND8RY6w==;bQirOc4Q45n0VAVXZTKv6A=="
 ---

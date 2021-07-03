@@ -43,20 +43,6 @@ related:
         width: 1440
         height: 800
         isCached: true
-  - title: "The first WHO report on AI in healthcare is a mixed bag of horror and delight"
-    excerpt: "The World Health Organization today released its first-ever report on artificial intelligence in healthcare. There's good news and bad."
-    publishedDateTime: 2021-06-28T20:10:00Z
-    webUrl: "https://thenextweb.com/news/who-report-on-ai-in-healthcare-mixed-bag-horror-delight"
-    type: article
-    provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 81
-    images:
-      - url: "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F06%2Fwho-1.jpg&signature=198a5378c62b0948b8ee4ee506cd5719"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "Maximise benefits of AI for health, minimise risks: WHO"
     excerpt: "Artificial Intelligence (AI) holds great promise for improving the delivery of healthcare and medicine worldwide, but only if ethics and human rights .."
     publishedDateTime: 2021-06-29T11:05:00Z

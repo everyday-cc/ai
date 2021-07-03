@@ -2,21 +2,21 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2021-07-02-finance-ministry-microsoft-join-hands-to-build-ai-emerging-tech-centre.md",
-      "title": "Finance Ministry, Microsoft join hands to build AI, emerging tech centre",
-      "excerpt": "The collaboration between AJNIFM and Microsoft is meant to explore the role of cloud, AI and emerging technologies in transforming and shaping the future of public finance management in India",
+      "path": "_news/2021-07-02-ajnifm-and-microsoft-are-collaborating-to-build-an-ai-coe.md",
+      "title": "AJNIFM and Microsoft are collaborating to build an AI CoE",
+      "excerpt": "Partnership will focus on capacity building of government officials, skilling them in emerging technologies, like AI and machine learning",
       "sourceUrl": null,
-      "webUrl": "https://www.livemint.com/news/india/finance-ministry-microsoft-join-hands-to-build-ai-emerging-tech-centre-11625144900167.html",
-      "originalUrl": "https://www.livemint.com/news/india/finance-ministry-microsoft-join-hands-to-build-ai-emerging-tech-centre-11625144900167.html",
+      "webUrl": "https://www.dqindia.com/arun-jaitley-national-institute-financial-management-partners-microsoft-build-ai-emerging-tech-coe/",
+      "originalUrl": "https://www.dqindia.com/arun-jaitley-national-institute-financial-management-partners-microsoft-build-ai-emerging-tech-coe/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 150,
+      "heat": 96,
       "tags": null,
       "images": [
         {
-          "url": "https://images.livemint.com/img/2021/07/01/600x338/mou_1625145073756_1625145095525.jpg",
-          "width": 600,
-          "height": 338,
+          "url": "https://www.dqindia.com/wp-content/uploads/2019/10/ai-monitoring-3262759_960_720.jpg",
+          "width": 736,
+          "height": 400,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,13 +24,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.livemint.com/news/india/finance-ministry-microsoft-join-hands-to-build-ai-emerging-tech-centre/amp-11625144900167.html",
-      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/news/india/finance-ministry-microsoft-join-hands-to-build-ai-emerging-tech-centre/amp-11625144900167.html",
-      "publishedDateTime": "2021-07-01T17:57:00-07:00",
+      "ampWebUrl": "https://www.dqindia.com/arun-jaitley-national-institute-financial-management-partners-microsoft-build-ai-emerging-tech-coe/amp/",
+      "cdnAmpWebUrl": "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/arun-jaitley-national-institute-financial-management-partners-microsoft-build-ai-emerging-tech-coe/amp/",
+      "publishedDateTime": "2021-07-02T00:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Mint",
-        "domain": "livemint.com",
+        "name": "Dataquest",
+        "domain": "dqindia.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -54,7 +54,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/global-ai-in-fintech-market-size-share-to-expand-at-171-cagr-through-2025-2021-07-01",
       "featuredContent": null,
       "highlight": null,
-      "heat": 156,
+      "heat": 166,
       "tags": null,
       "images": [
         {

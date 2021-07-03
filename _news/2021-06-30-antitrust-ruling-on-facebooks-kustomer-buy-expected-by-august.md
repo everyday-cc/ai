@@ -9,7 +9,7 @@ ampWebUrl: "https://www.pymnts.com/facebook/2021/antitrust-ruling-on-facebooks-k
 cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/facebook/2021/antitrust-ruling-on-facebooks-kustomer-buy-expected-by-august/amp/"
 type: article
 quality: 44
-heat: -1
+heat: 44
 published: false
 
 provider:
@@ -27,37 +27,19 @@ images:
     isCached: true
 
 related:
-  - title: "Federal Judge Dismisses FTC Antitrust Complaint Against Facebook"
-    excerpt: "A federal court on Monday (June 28) dismissed a Federal Trade Commission (FTC) antitrust complaint against Facebook."
-    publishedDateTime: 2021-06-28T20:33:00Z
-    webUrl: "https://www.pymnts.com/legal/2021/federal-judge-dismisses-ftc-antitrust-complaint-against-facebook/"
-    ampWebUrl: "https://www.pymnts.com/legal/2021/federal-judge-dismisses-ftc-antitrust-complaint-against-facebook/amp/"
-    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/legal/2021/federal-judge-dismisses-ftc-antitrust-complaint-against-facebook/amp/"
+  - title: "This investor deck helped a former Facebook product manager raise $8 million to help brands boost customers' long-term value"
+    excerpt: "Its clients include Nestle, Madison Reed, Dollar Shave Club, and Brickell Men's Products."
+    publishedDateTime: 2021-06-29T10:00:00Z
+    webUrl: "https://www.businessinsider.com/pitch-deck-customer-insights-startup-retina-raises-8-million-2021-6"
     type: article
     provider:
-      name: pymnts.com
-      domain: pymnts.com
-    quality: 59
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 42
     images:
-      - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/06/court-FTC-Facebook-complaint-457x274.jpg"
-        width: 457
-        height: 274
-        isCached: true
-  - title: "Big Tech Compliance Tracker: FTC, State Antitrust Suits Against Facebook Dismissed By US Court; Antitrust Regulations Progress In Congress"
-    excerpt: "The Federal Trade Commission ’s antitrust suit against Facebook, along with a parallel case by 48 attorneys generals, was dismissed by a U.S. court on Monday (June 28), CNBC reported. The FTC filed suit against Facebook in late 2020,"
-    publishedDateTime: 2021-06-28T21:59:00Z
-    webUrl: "https://www.pymnts.com/news/regulation/2021/big-tech-compliance-tracker-ftc-state-antitrust-suits-against-facebook-dismissed-by-us-court/"
-    ampWebUrl: "https://www.pymnts.com/news/regulation/2021/big-tech-compliance-tracker-ftc-state-antitrust-suits-against-facebook-dismissed-by-us-court/amp/"
-    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/regulation/2021/big-tech-compliance-tracker-ftc-state-antitrust-suits-against-facebook-dismissed-by-us-court/amp/"
-    type: article
-    provider:
-      name: pymnts.com
-      domain: pymnts.com
-    quality: 25
-    images:
-      - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/06/Big-Tech-Facebook-FTC-Google-457x274.jpg"
-        width: 457
-        height: 274
+      - url: "https://i.insider.com/60da35dd1477f300188c8302?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
 
 secured: "ZNt9Jy8jVN7gbuC2ERcYtPKkj8UHAY5JHl2SrihXHoypP8jaW41wLnR1Kza3rKjoQ2yyG5T3KzfDUzuopevncyh1AN/NBc7ysDz7Wyw++o5nHC+YOE9Q+VJ43notF25Fz5CLUAX/1F8rdLmSNLDmrIEVWi3EB46xtTer7yRd2I/PqTmRqApVO0tpFHT2tj+kxbdeiIUnKnjqC9Jn/ISB32Men1t1OGvVkee0lhNgis8EWX2pegzg2bhzjSSqQJfa8lljwjAIRDkKS4KrMlNRwsJn9OvGSaq3sl7Q5JBGr1cQfqIznuMojFIhJCEmp6P6yZHITRTISpkCIk2XB20BPlQ5wt9OjecEfuuP2BwLaKZj/rEKV/tQi+iCn2jAD4EoinTF0CRRuxx2YW5reo855SmNsG90fsJlC//5SP2+20viyigSfYIEIquSlhzi7t2XryvVegkCfjl5vjg3S6PKfVBJVXzh3DapP8CvkHpAXysvp+roWZZ/0qV9xmsIE4h36gCxKeZi0gLn57ulM7+t6w==;r5vX0FRliRfp0zqOC061Ug=="

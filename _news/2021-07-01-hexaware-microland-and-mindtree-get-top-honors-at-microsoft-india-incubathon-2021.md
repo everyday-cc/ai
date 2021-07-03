@@ -21,22 +21,6 @@ topics:
   - AI
 
 related:
-  - title: "Finance Ministry, Microsoft join hands to build AI, emerging tech centre"
-    excerpt: "The collaboration between AJNIFM and Microsoft is meant to explore the role of cloud, AI and emerging technologies in transforming and shaping the future of public finance management in India"
-    publishedDateTime: 2021-07-02T00:57:00Z
-    webUrl: "https://www.livemint.com/news/india/finance-ministry-microsoft-join-hands-to-build-ai-emerging-tech-centre-11625144900167.html"
-    ampWebUrl: "https://www.livemint.com/news/india/finance-ministry-microsoft-join-hands-to-build-ai-emerging-tech-centre/amp-11625144900167.html"
-    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/news/india/finance-ministry-microsoft-join-hands-to-build-ai-emerging-tech-centre/amp-11625144900167.html"
-    type: article
-    provider:
-      name: Mint
-      domain: livemint.com
-    quality: 90
-    images:
-      - url: "https://images.livemint.com/img/2021/07/01/600x338/mou_1625145073756_1625145095525.jpg"
-        width: 600
-        height: 338
-        isCached: true
   - title: "AJNIFM and Microsoft are collaborating to build an AI CoE"
     excerpt: "Partnership will focus on capacity building of government officials, skilling them in emerging technologies, like AI and machine learning"
     publishedDateTime: 2021-07-02T07:00:00Z
@@ -67,33 +51,6 @@ related:
         width: 900
         height: 578
         isCached: true
-  - title: "AI Image Recognition – Market Boosting the Growth Worldwide: Google, Microsoft, IBM"
-    excerpt: "Advance Market Analytics published a new research publication on “AI Image Recognition Market Insights, to 2026″ with 232 pages and enriched with self-explained Tables and charts in presentable format."
-    publishedDateTime: 2021-06-30T15:18:00Z
-    webUrl: "https://manometcurrent.com/ai-image-recognition-market-boosting-the-growth-worldwide-google-microsoft-ibm/"
-    type: article
-    provider:
-      name: manometcurrent.com
-      domain: manometcurrent.com
-    quality: 30
-  - title: "AI Governance Market Growing Popularity & Emerging Trends | IBM Corporation, Google, Microsoft, Facebook, SAP SE"
-    excerpt: "Global AI governance market is growing at a healthy CAGR of 33.7% during the forecast period of 2019 to 2026. The upcoming market report contains data for historic years 2017, the base year of calculation is 2018 and the forecast period is 2019 to 2026."
-    publishedDateTime: 2021-06-29T11:44:00Z
-    webUrl: "https://manometcurrent.com/ai-governance-market-growing-popularity-emerging-trends-ibm-corporation-google-microsoft-facebook-sap-se/"
-    type: article
-    provider:
-      name: manometcurrent.com
-      domain: manometcurrent.com
-    quality: 15
-  - title: "Voice Recognition Software Market May Set New Growth Story | E-speaking, Nuance, Talktyper, Microsoft, Google"
-    excerpt: "The latest research on “Global Voice Recognition Software Report 2021” offered by HTF MI provides a comprehensive investigation into the geographical landscape, industry size along with the revenue estimation of the business."
-    publishedDateTime: 2021-07-01T17:34:00Z
-    webUrl: "https://ksusentinel.com/2021/07/01/voice-recognition-software-market-may-set-new-growth-story-e-speaking-nuance-talktyper-microsoft-google/"
-    type: article
-    provider:
-      name: The Sentinel
-      domain: ksusentinel.com
-    quality: 2
 
 secured: "KopfQd3x5VbXym17ThSjECKPT2hfjL6EqPyOIm7o/lRwz+K23ESZNxuXyX2azxh2zLP8+kbMhBxg8LLWgK/imCM0FGsRX5LOHQD8/pc+ikPrnP5NxSR2yrTyGe/49aYAo3nEw4S3a5urIO4wsu+g2sj/Js0cYpB96TaruDp8QPm9zBLBbuj3NL8LjdAY25FgjJAB2XUzahH1nDqXmWHkkSXAWi8UNgbIh/wVFoN1kI6lJKjj7wZoEwfdyI3M/JHMKYL3m5ZXtOrfUikZeFFG44WP2bBjhFJvb/GpkzyDVKzQA9cz8LOX4LL5z/4VH+JFT+TXE2aHHe+rBXhCXHF5h38dg9S4qxbyVdbAPaiKCaA=;dMNXHZVOiLDVCLIPEF7wlg=="
 ---

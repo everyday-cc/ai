@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2021/06/29/devops-platform-jfrog-acquires-ai-
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/06/29/devops-platform-jfrog-acquires-ai-based-iot-and-connected-device-security-specialist-vdoo-for-300m/amp/"
 type: article
 quality: 90
-heat: 90
+heat: 100
 published: true
 
 provider:
@@ -29,6 +29,22 @@ images:
     width: 1024
     height: 683
     isCached: true
+
+related:
+  - title: "JFrog's $300 million purchase of security startup Vdoo is likely just the beginning of a big wave of DevOps M&A"
+    excerpt: "As competition heats up in 'developer operations' or DevOps, analysts expect consolidation because customers prefer to buy into holistic platforms."
+    publishedDateTime: 2021-07-03T13:54:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/jfrog-acquires-vdoo-analysts-devops-acquisitions-mergers-ma-wave-2021-7"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 49
+    images:
+      - url: "https://images2.markets.businessinsider.com/5ea8be43a2fd9155304296f3?format=jpeg"
+        width: 701
+        height: 526
+        isCached: true
 
 secured: "/qzCEO4nXvFCQ/kz34RQmjRqWPrx/kDO64sh3PHazwb52QPgCs9mtkqV5lY+QRrB21T8090zhDBqsSJEVUoDEs47U9ueAhRsSiFdE3pPA1SVtT2Z2WcCkYyWBnYVhe2X11KRfWj+S0QYTM/43sjwOVqJGd+g2E7fKQ9JYc1kRHLYbddi5P03giWtihsFYtssX+4C0r40r8p0ECTg0LiZaCax37BkJDiG6tmJdI4udeNLHbCk2AYkunmWlLvCFZ0tj4e5hsZjzErjCxoW9CkzeKr0mY8aMm/3jsLLzYQCg1ZbNmzURFB0hEP4URVointgP1+1/N9UQQ3+TWXGFlzT+LAJGbZpJjVs7WZl8GUABhIC1lcFBhS7+ElJCU8xw9Bj3zVG6ELIYh5pdiz4hC7ABG0x1TGE9mnw0KQdq7mLEMiod7zH2o+gKpGChLujv9Fg7CVT5b+tKz1UTYzd84sLhL69mVq23leghb8cK/dxbB/OjQcNyZ/pS4jqF+diuWUrCXMDflOi92yZP0Grv66o3g==;YhFlBU3OqFmS9UnHM0v4tA=="
 ---

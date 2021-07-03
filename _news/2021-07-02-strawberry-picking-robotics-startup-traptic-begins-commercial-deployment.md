@@ -35,7 +35,7 @@ related:
     provider:
       name: TechCrunch
       domain: techcrunch.com
-    quality: 107
+    quality: 207
     images:
       - url: "https://i.ytimg.com/vi/ZPmsvnouJ9w/hqdefault.jpg"
         width: 480

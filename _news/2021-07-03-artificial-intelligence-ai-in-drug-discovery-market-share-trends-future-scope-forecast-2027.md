@@ -74,6 +74,20 @@ related:
         width: 1280
         height: 670
         isCached: true
+  - title: "Deep Learning Chip Market Recent Trends, Future Growth, Industry Analysis, Outlook, Insights, Share and Forecasts Report 2028"
+    excerpt: "The global deep learning chip market is expected to reach a market size of USD 27.75 Billion by 2028 and register a"
+    publishedDateTime: 2021-07-03T11:33:00Z
+    webUrl: "https://www.marketwatch.com/press-release/deep-learning-chip-market-recent-trends-future-growth-industry-analysis-outlook-insights-share-and-forecasts-report-2028-2021-07-03"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 59
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "GCC Artificial Intelligence Market 2021-26: Industry Trends, Size, Share, Analysis and Forecast Report"
     excerpt: "According to IMARC Group's latest report, titled \"GCC Artificial Intelligence Market: Industry Trends, Share, Size, Growth, Opportunity and Forecast 2021-2026,\" the GCC artificial intelligence market grew at a CAGR of around 24% during 2015-2020."
     publishedDateTime: 2021-07-01T12:39:00Z

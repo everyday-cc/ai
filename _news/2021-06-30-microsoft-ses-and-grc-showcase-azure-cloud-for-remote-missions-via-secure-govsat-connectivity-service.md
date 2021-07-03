@@ -1,22 +1,28 @@
 ---
 category: news
 title: "Microsoft, SES and GRC Showcase Azure Cloud for Remote Missions via Secure GovSat Connectivity Service"
-excerpt: "Microsoft and SES, in partnership with GovSat and UK-based solutions provider GRC, came together to demonstrate how Microsoft Azure Machine Learning ("
-publishedDateTime: 2021-06-30T06:50:00Z
-originalUrl: "https://www.businesswire.com/news/home/20210629006127/en/Microsoft-SES-and-GRC-Showcase-Azure-Cloud-for-Remote-Missions-via-Secure-GovSat-Connectivity-Service"
-webUrl: "https://www.businesswire.com/news/home/20210629006127/en/Microsoft-SES-and-GRC-Showcase-Azure-Cloud-for-Remote-Missions-via-Secure-GovSat-Connectivity-Service"
+excerpt: "Microsoft and SES, in partnership with GovSat and UK-based solutions provider GRC, came together to demonstrate how Microsoft Azure Machine Learning (ML) and Artificial Intelligence (AI) capabilities can be brought directly to end-users deployed globally in a highly secure,"
+publishedDateTime: 2021-06-30T06:52:00Z
+originalUrl: "https://www.wfmz.com/news/ap/ap-business/microsoft-ses-and-grc-showcase-azure-cloud-for-remote-missions-via-secure-govsat-connectivity-service/article_db998d49-9d16-54d2-9633-de848f32efb8.html"
+webUrl: "https://www.wfmz.com/news/ap/ap-business/microsoft-ses-and-grc-showcase-azure-cloud-for-remote-missions-via-secure-govsat-connectivity-service/article_db998d49-9d16-54d2-9633-de848f32efb8.html"
 type: article
-quality: 18
+quality: 38
 heat: -1
 published: false
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - Microsoft AI
   - AI
+
+images:
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/4/ed/4ed1008e-2061-5d2f-bb22-a3c4d1af6c76/60dc170701474.image.jpg?resize=945%2C630"
+    width: 945
+    height: 630
+    isCached: true
 
 related:
   - title: "Microsoft launches Azure Arc-enabled SQL in general availability"
@@ -195,18 +201,18 @@ related:
       domain: telecompaper.com
     quality: 31
   - title: "AT&T to run its mobility network on Microsoft's Azure for Operators cloud, delivering cost-efficient 5G services at scale"
-    excerpt: "AT&T will move its 5G mobile network to the Microsoft cloud. This strategic alliance provides a path for all of AT&T's mobile network traffic to be managed using Microsoft Azure technologies. The companies will start with AT&T's 5G core,"
-    publishedDateTime: 2021-06-30T14:36:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-att-run-its-mobility-network-microsofts-azure-operators-/2021/06/30/9401145.htm"
+    excerpt: "AT&T will move its 5G mobile network to the Microsoft cloud. This strategic alliance provides a path for all of AT&T's"
+    publishedDateTime: 2021-06-30T14:35:00Z
+    webUrl: "https://tylerpaper.com/news/texas/at-t-to-run-its-mobility-network-on-microsofts-azure-for-operators-cloud-delivering-cost/article_0a6d929a-acfb-54f8-a2bd-cc00a1585be7.html"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
+      name: Tyler Morning Telegraph
+      domain: tylerpaper.com
     quality: 29
     images:
-      - url: "https://mma.prnewswire.com/media/1554604/ATT_mobility_network_Microsoft_Azure.jpg"
-        width: 400
-        height: 267
+      - url: "https://bloximages.newyork1.vip.townnews.com/tylerpaper.com/content/tncms/assets/v3/editorial/d/72/d7298160-05b7-57c6-97bf-1f42d554bd54/60dc8b29a8cc7.image.jpg?resize=944%2C630"
+        width: 944
+        height: 630
         isCached: true
   - title: "Artificial Intelligence In Genomics Market Continues To Impress | IBM, Microsoft, Deep Genomics, Fabric Genomics"
     excerpt: "Latest released the research study on Global Artificial Intelligence In Genomics Market, offers a detailed overview of the factors influencing the global business scope. Artificial Intelligence In Genomics Market research report shows the latest market insights,"
@@ -218,6 +224,6 @@ related:
       domain: ksusentinel.com
     quality: 13
 
-secured: "K6kGPCGq6y4FQLm/Kc6lnvozMig5/Z9IzwocbTecG+XMRg3qMAxEyVnJMUgG+5jW742qgDRInv4JJJsj//dmfwsU+z6DlDfmHlX4/3tHUpJNPfQbBJgBgmAlXUZkayObdmnnSCC9Rhl1mTbXG1b94Uu50Om4/aT9R/BY43xET8mMsu+eDcBs9Fbyq+nIwI9rH9WJJRqHNHGttF5rEAeq8D8L5XGPdHVpIz9whly2aqFsUUY/A7aggSdhxyLt/aqRD9jLxbeKHSpuCdhh6DS15mB//AnjZhbTL3+nX9L9UOXGWpslxROt73iIQeJg/7Qsj9Xiq1YI4is4upnuMWs3q2reQWcCdE34pAcGoefzJMuQ2g1jHiuSX8tyW5NuowXEXNhZ+srS3MLFvLjvgH2zOtXjhEcJQ7+7Z1dXhn6BI7kHB3rM8Bq7eOLCkVANebWua+G+4RveV7PEmiMAbpj+U2QNe4NegP8Ur64JIl7UUKDmE/8ztKQzPhqA/dYVDHbvx/8ksXZ04uH0Idc8kgRY3g==;Ket2yW3JoIAU5ydhqSuxFA=="
+secured: "1xpu/2g/iYOZdtI6Q5c2jajAzbJ+I/jf127DK5rUrgxgQVsYTtEMIm6QBRjuy7ayrDLBQd3zlKbL5D8MUx6jgjLUn4/qGwjNYkJOv4wmWeMQxtWxW1yaP/biqWptpcu5QiifroK+u3rQxKQylblHBLvEc+mN5SMZiPpEaQpXCWp+eMo3HyIZboGKKbw5AdgclJuyqw9rhkAcRagQR0IslO3yYN4NUPnh9IPmXqcOY3wICsiBYdJAyvqyirROB6OkK2q5Q2uKqhpUyaoLHYC455VJxNFKl2utA3cwSK/jUuydm93muMlDb8e0Gy/2KDXAbjjMubdmN01GqlBLE1wyYCPkcpvIUzox/FlhotcHpVc=;uVnUWoyXcednAuN1G7Gb6A=="
 ---
 

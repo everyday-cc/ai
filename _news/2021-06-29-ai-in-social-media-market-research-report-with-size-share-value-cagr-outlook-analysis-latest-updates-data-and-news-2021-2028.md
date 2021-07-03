@@ -126,6 +126,17 @@ related:
         width: 630
         height: 420
         isCached: true
+  - title: "Financial Markets Tech Platform Symphony Partners with Fintech Saphyre to Add AI Solutions to Workflows"
+    excerpt: "Symphony, the financial markets’ infrastructure and tech platform, has teamed up with Fintech company Saphyre, Inc. in order to integrate patented AI solutions into pre and post-trade workflows for front,"
+    publishedDateTime: 2021-07-03T13:08:00Z
+    webUrl: "https://www.crowdfundinsider.com/2021/07/177270-financial-markets-tech-platform-symphony-partners-with-fintech-saphyre-to-add-ai-solutions-to-workflows/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2021/07/177270-financial-markets-tech-platform-symphony-partners-with-fintech-saphyre-to-add-ai-solutions-to-workflows/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/07/177270-financial-markets-tech-platform-symphony-partners-with-fintech-saphyre-to-add-ai-solutions-to-workflows/amp/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 23
   - title: "Global Artificial Intelligence In Diagnostic Market Size, Status and Forecast 2021-2027"
     excerpt: "Pages Report] Check for Discount on Global Artificial Intelligence In Diagnostic Market Size, Status and Forecast 2021-2027 report by QYResearch Group. Market Analysis and Insights: Global Artificial Intelligence In Diagnostic"
     publishedDateTime: 2021-07-02T08:17:00Z

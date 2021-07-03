@@ -24,17 +24,6 @@ images:
     height: 400
     isCached: true
 
-related:
-  - title: "Argonne Researchers Use AI to Optimize Material Coating for Making Microprocessors"
-    excerpt: "To make computer chips, technologists around the world rely on atomic layer deposition (ALD), which can create films as fine as one atom thick. Businesses commonly use ALD to make semiconductor devices,"
-    publishedDateTime: 2021-06-28T20:21:00Z
-    webUrl: "https://insidehpc.com/2021/06/argonne-researchers-use-ai-to-optimize-material-coating-for-making-microprocessors/"
-    type: article
-    provider:
-      name: insideHPC
-      domain: insidehpc.com
-    quality: 13
-
 secured: "4LNIM7CPbY8QjTWThJSf1kTZd0CSC+b6W2PQJF75m6nzoA8w0VT04iNnYf3MEF/OFN5gOYzodkVVFqt5w3Pp1NU49zKJ4YFg09jkiy4nrqDETDCmqFPjLK8H7ulgnpPm0no0aUA5VbXTW3e/HRYGVbUPSf4tjVpeYyUngszhG7dddeDyuFrRrIsZJetXdly/0pZDoaV9IxndaIz5NlE2ulOTQ1wF6TDgDPlD1ZG6KnHpIRIjHimDjVFOYeugDvLP7N+iRy3WrZgm4ApV8olUkVrvEYBI5RCwlbyG3zDoDEVna9CYZheUxOsaSwVAKFlFB+91LISKInB53kg5Ij+3yKdbOU4mgs1xMsz4GOhaDDE1hoxGwtruArp+qoZNDdGtw7BiLWxdZYie3LkpOsMrHSNm12Y6Y7sg4++QgvRPzMNtKqGeiGbncgAmoe1RJCBidrHVlsUECtREEkGeuJiF9YUBhBT9k8ojcMSEq2Gr1MOGnek4RaZhrfeKBrnHMjiS67mcselXI27ABl4V7TZMHg==;/OjliyokFQUOsJMsUl4cVA=="
 ---
 

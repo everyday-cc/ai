@@ -79,20 +79,6 @@ related:
         width: 644
         height: 314
         isCached: true
-  - title: "Presto the Future of Open Data Analytics, Foundation Says"
-    excerpt: "The openness of Presto, its adherence to standard SQL, and the ubiquity and performance of modern cloud storage have combined to put Presto in the"
-    publishedDateTime: 2021-06-28T20:36:00Z
-    webUrl: "https://www.datanami.com/2021/06/28/presto-the-future-of-open-data-analytics-foundation-says/"
-    type: article
-    provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 24
-    images:
-      - url: "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2021/06/magic_hat_shutterstock_vchal.jpg"
-        width: 1000
-        height: 667
-        isCached: true
   - title: "P&R Dental Strategies to Present on Artificial Intelligence and Future of Dental Analytics at NADP CONVERGE 2021"
     excerpt: "P&R Dental Strategies, LLC (P&R), the premier dental insights company delivering customized, actionable business intelligence to support a variety of dental payer objectives, today announced their plan to present at the National Association of"
     publishedDateTime: 2021-06-29T22:42:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techrepublic.com/google-amp/article/salesforces-tableau-
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/salesforces-tableau-launches-new-data-analytics-suite-with-ai-enhancements/"
 type: article
 quality: 87
-heat: 147
+heat: 137
 published: true
 
 provider:
@@ -74,20 +74,6 @@ related:
       - url: "https://i1.wp.com/gadget.co.za/wp-content/uploads/2019/04/axcient-build-your-cloud-cc.jpg?resize=644%2C314&#038;ssl=1"
         width: 644
         height: 314
-        isCached: true
-  - title: "Presto the Future of Open Data Analytics, Foundation Says"
-    excerpt: "The openness of Presto, its adherence to standard SQL, and the ubiquity and performance of modern cloud storage have combined to put Presto in the"
-    publishedDateTime: 2021-06-28T20:36:00Z
-    webUrl: "https://www.datanami.com/2021/06/28/presto-the-future-of-open-data-analytics-foundation-says/"
-    type: article
-    provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 24
-    images:
-      - url: "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2021/06/magic_hat_shutterstock_vchal.jpg"
-        width: 1000
-        height: 667
         isCached: true
   - title: "AWS, Salesforce partnership to unify developer experiences"
     excerpt: "Salesforce will also embed AWS services for voice, video, artificial intelligence (AI) and machine learning (ML) directly in new applications for sales, service, and industry vertical use cases."

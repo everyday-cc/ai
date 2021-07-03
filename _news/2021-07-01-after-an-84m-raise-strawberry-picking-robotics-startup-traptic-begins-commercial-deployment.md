@@ -8,8 +8,8 @@ webUrl: "https://techcrunch.com/2021/07/01/after-8-4m-raise-strawberry-picking-r
 ampWebUrl: "https://techcrunch.com/2021/07/01/after-8-4m-raise-strawberry-picking-robotics-startup-traptic-begins-commercial-deployment/amp/"
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/07/01/after-8-4m-raise-strawberry-picking-robotics-startup-traptic-begins-commercial-deployment/amp/"
 type: article
-quality: 107
-heat: 117
+quality: 207
+heat: 217
 published: true
 
 provider:
@@ -46,6 +46,6 @@ related:
         height: 630
         isCached: true
 
-secured: "cRIz5jxBQ3/Za1nk5sz82Yo+jvgj1IhsYDWC/H5V1PG2nPupuInepdipK2BZCdazoQxgJf/xnlZUDMzQIC0Rmhndytha3qngeNZJcBXwUIYMNbAaol72b2zE11Tf0i2ogShugEgC2FQa4GJ6P+91U8ZSdAag/jNmiQ/Zcan+IjsgrNvgiyVUbgDDQuuEwBwk3aMVCEcljZixLY5EUt89plv43Y3/HchzA3CrQyJTiG+YnsnqCevTagH5ZtTU63PasyvVTdGMBVLlBxOeLG8daUvkgcCdlfljiRhDbYUZls/diX8n+tst1/i33F2yC3wvjiKxr3duCM9tuEGjuJ42/cztc+B4t7L9dms9xqfGSaXiHK48z/00n/1AHWKMenry7UXcfuWOwXoPMVzXbglzKQaYKX79r87/f569fiNZ+yLN06eZRcy11hvD/ditK0+20cY1aQU59aWo6+8R4HSc53ZxPfpsvUdXki+k5/1lg9IhUkn/STAuad36WFDGdSE6KVkGeUjS+mzZslyqmNqAzw==;W9YdNYXk94Tq99r2BnEZ1Q=="
+secured: "lum3ByOzLwRX5q2lWRW2le8r3W2uH9sdl+ogfCkqxeupbKKUxfnNwFI3UTClshsFLCO7JVhc4poa12Ax+RINt+7rV/2mwLymjJ1R4XcaT15+kmV91thJt8jWZgKYjspI5RI/UXHROaCVFD8ebX0iiWDus5daSjIioLGadasv0/4YTUR5jdaRkS/xwmAcoLjFhmHXynHi6hSDE4Ln43ndUIoWBb+LlCAFuNfe4Q+xjMg+7wJAczuiR5/RwGG6qIKRL9bbpAZRLaDjpXvIfzFGUyrEFZidoQRrp9RNy4/JM3H4Fiz31b4cORG82FlYsuSkCufB+RAu4mZQccF53ZHfHuxFWpD48i0tdMq4JdEthVHc2ktNRvdN5N3m49aEAx6PpIN6pLyhDq0XrmueTCvl6s5TbfXih5uQS7wn4Ctoezxf5J9r9zyCDBMu6i2KqeQDkhKm6P1nf8FR5G422COptZMXv6UZgu2ruwp7u6Dzzf4t+lSswGSfNgcyyUOGFlrRRVFkLjb2hg+x/UUZopy7pxZ8n8zvPognijXmwRb5rWY=;bbesltXtJkAI6M0xqSGLyw=="
 ---
 

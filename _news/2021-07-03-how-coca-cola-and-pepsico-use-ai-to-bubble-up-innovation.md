@@ -6,8 +6,8 @@ publishedDateTime: 2021-07-03T10:30:00Z
 originalUrl: "https://analyticsindiamag.com/how-coca-cola-and-pepsico-use-ai-to-bubble-up-innovation/"
 webUrl: "https://analyticsindiamag.com/how-coca-cola-and-pepsico-use-ai-to-bubble-up-innovation/"
 type: article
-quality: 39
-heat: 39
+quality: 41
+heat: 41
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - Google AI
   - AI
+  - AI Ethics
 
 images:
   - url: "https://analyticsindiamag.com/wp-content/uploads/2021/07/pepsi-coca-cola-scaled.jpg"
@@ -24,6 +25,6 @@ images:
     height: 1707
     isCached: true
 
-secured: "kSt13dxYrWEwo5KeOcJCpDvz60C6sqZyi/BvUGGJNLrDnxDZBuyLcGdthoCjIoqS6gqES9V3jM1QpTY61C4NY7S5Anp5e3AvDqFUfWgHh5FODdwRSB2JhXWEwFTwDO+kSFbMHVoE+OQEOMv58bqQ0s4roeI3FFrDW/D2aEQr6NNGZ2x/63YLy6vCgV5X1QzupCz+TTOYwKBRQlDYASroDTe35haL9+T8pQ8eOvixAzGHJeEEa3cDGABwyA+hMwpErfnVYhZO0BhPsqDm3hvOo1uRenKC11AH8fz0uSt+eYJP80szJkajNYFK5b/W9BF9eaPd+tLIkGAUiF7etyxRqS3vpZdiSpwB0ROULDngykg=;qIjjnG4zHSRY9eZG1/9OWQ=="
+secured: "hxRdnRRWk0hGm5PZ90AvFC5REPF//9Rpfl/lgpvr/SkqU2ubPRNG5xo+ddhTytzAqgoS5pWzN1JO4IWk/WqZQ5nb9bOPmiGo+efRas1SlWtTFrupIlTvFUlfSXtPe/PHreWqMBgEk99gfsjsrr2aDRW5A/IHIDwg+YFSH85BtnSzuPAQqpxGXBadZb5VBuE5comRbjkK25v2XEEBAuKjUcZZK7c5ztJTqsemHwRG3IZ2ccp8rI6ZJlsioB/mGoMQTSjbJDHyqt7k4Hk42fIeq33UV2wUJbCBn3fT6d2muJNEJRD1RTw2coAjQVYJOed4xVYAcS3DbM9U/zikcICQMwFdC+TidiuC867WxVp65P22Gg5b268d+J7Jdqfw57UmWnHgJhjHckMpSWI9vPOkWcFUeMgbT/Iea1fcMWrVbJm0KzN14UkQ8SWTP9sH73pdmZCNrp0xUyIR0HBlyszVEogXSBY7XogT5LXauJAZQoxjyMb02BoWOeKbra++KJ1dfN5bZr3+oT8fwu5HJhuj2A==;zQ69nXOe7K7QSUdAY4SNfQ=="
 ---
 

@@ -90,22 +90,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 67
-  - title: "Nvidia announces Arm support for AI-on-5G platform and next-gen DPU"
-    excerpt: "The next Nvidia DPU iteration will incorporate 16 Arm Cortex-A78 processors and can be deployed in a “fully self-hosted configuration.”"
-    publishedDateTime: 2021-06-28T19:59:00Z
-    webUrl: "https://www.rcrwireless.com/20210628/5g/nvidia-announces-arm-support-for-ai-on-5g-platform-and-next-gen-dpu"
-    ampWebUrl: "https://www.rcrwireless.com/20210628/5g/nvidia-announces-arm-support-for-ai-on-5g-platform-and-next-gen-dpu/amp"
-    cdnAmpWebUrl: "https://www-rcrwireless-com.cdn.ampproject.org/c/s/www.rcrwireless.com/20210628/5g/nvidia-announces-arm-support-for-ai-on-5g-platform-and-next-gen-dpu/amp"
-    type: article
-    provider:
-      name: RCR Wireless News
-      domain: rcrwireless.com
-    quality: 59
-    images:
-      - url: "https://www.rcrwireless.com/wp-content/uploads/2021/06/Screen-Shot-2021-06-28-at-1.46.10-PM-1024x1024.png"
-        width: 1024
-        height: 1024
-        isCached: true
   - title: "Doom Eternal and Battlefield 2042 get Nvidia RTX GPU upgrades"
     excerpt: "Nvidia has announced that two big hitting games will be taking advantage of its RTX GPU enhancements. Doom Eternal has been updated to include ray tracing | Trusted Reviews"
     publishedDateTime: 2021-06-30T09:14:00Z
@@ -122,15 +106,6 @@ related:
         width: 1024
         height: 576
         isCached: true
-  - title: "NVIDIA and Partners Launch HGX A100 Systems for Industrial AI and HPC"
-    excerpt: "NVIDIA today announced a revamp of its NVIDIA HGX AI supercomputing platform with new technologies that fuse AI with high performance computing, designed to make supercomputing more useful to a growing number of industries."
-    publishedDateTime: 2021-06-28T21:01:00Z
-    webUrl: "https://insidehpc.com/2021/06/nvidia-and-partners-launch-hgx-a100-systems-for-industrial-ai-and-hpc/"
-    type: article
-    provider:
-      name: insideHPC
-      domain: insidehpc.com
-    quality: 21
 
 secured: "4XnEWTO6VO7XE+1INaWtOVUIrrCZxrKvA+QIX/H/kGDB0PUhDNYOL9DqbdeOsV662qxkZiY32cnUNhHrMVRVI5TNZUFoNQ1SAjcz0vxT6d4CP8n5wP7vFFwkEUAPVwFmulnph2M9L1P8Dkn7omkVvBp+WeomL4xXl18czc6oOF4+1GI0Klu51awatLbq4hMN5a9Pig4QacvMBXgZBnu3DrnjRiJSbDef7OvuAvubroq1KzDk36G8VLx9BxZWOBKzHQ4kG4DY4V1HJjNxs//Gj278Q3Egs02cZ1fmYcDCaqA421qNOPOX99M+RFB5nExXftWXUliL54tr13okkww8XJZnu1iGC9dbXU95MtI6iBUEQQsk+UPFe06Q2Wp8XPAzapCkMqlPnSsU4+REEIlxIc9zbDPeJ2bY+tIrVeUP17prIyTvjxVlKb/ZPsGfp3Zpyxldff7IiG9hGI/pAsruPf4Ah6+S/dCXSNeC7glrnFvG0y6Woy//n2uufopPlXHAi0LVy94MDVOUU33PeMDvKQ==;qU//HeKq3hmufQVBgEyOVg=="
 ---
