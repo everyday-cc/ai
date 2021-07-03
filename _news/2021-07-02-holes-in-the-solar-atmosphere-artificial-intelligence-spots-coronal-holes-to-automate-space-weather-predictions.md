@@ -9,7 +9,7 @@ ampWebUrl: "https://scitechdaily.com/holes-in-the-solar-atmosphere-artificial-in
 cdnAmpWebUrl: "https://scitechdaily-com.cdn.ampproject.org/c/s/scitechdaily.com/holes-in-the-solar-atmosphere-artificial-intelligence-spots-coronal-holes-to-automate-space-weather-predictions/amp/"
 type: article
 quality: 38
-heat: -1
+heat: 38
 published: false
 
 provider:
@@ -25,22 +25,6 @@ images:
     width: 777
     height: 777
     isCached: true
-
-related:
-  - title: "Artificial intelligence can spot holes in the Sun’s corona"
-    excerpt: "Artificial intelligence can be used to detect coronal holes in the Sun’s upper atmosphere, an international research team has shown. Robert Jarolim at the University of Graz in Austria, Tatiana Podladchikova at Skoltech in Russia and colleagues have demonstrated a strong agreement between the holes identified by their convolutional neural network,"
-    publishedDateTime: 2021-06-28T13:31:00Z
-    webUrl: "https://physicsworld.com/a/artificial-intelligence-can-spot-holes-in-the-suns-corona/"
-    type: article
-    provider:
-      name: Physics World
-      domain: physicsworld.com
-    quality: 39
-    images:
-      - url: "https://physicsworld.com/wp-content/uploads/2021/06/CHRONNOS-square-635x635.jpg"
-        width: 635
-        height: 635
-        isCached: true
 
 secured: "igk/9V16csJ1/3pU/a1e10qJdMxU0beJIGajwinwLrx+lfxOoRa1Q5BI1cdha4elT8/5uraRQv0jhKbG4Lgr5TJtAGqyjqkgf74gHEQ8p2+aQZ5spwuy+fTIoDUL0lnm9z4Q1Wc8YFGL3Uh7iW04s+mwFmLozvkjZwnYDoqx8oYl7CgZYbi3jFNjNlgW3Y/5fBYufr3PCIGem9EGPXTP/bgYjExbtuNoX6Ufzm4GVOzBc8EWgCGmn5COdZ7kYV0536FQkiMGJc36CMXDJ0CwTNYiRi9c+MI2Yz92oiHHqsBJxV6I3gaat8s/1qf+3XysUi0KvCwm7gdwS5349JXVO57f36I4ROeIuQUNHqASLvpTJDUV4vI/v5D+uxM4hT0lKr51Dkcx+l1y2csZ4+PlIxrKna004CGcSYLp3AnLmb2tG0QVf+baT4k/o0Xrj8mpZWq0I0j0F/w5VK1+JmVtfrhxN1DkZSdkMQ7Z5gc0MhTG7xCl95qjJqKfQekPaxaS9CWtI42YXnl1NEGz+7P9SA==;tvchraa8PTO/0bng81a07g=="
 ---

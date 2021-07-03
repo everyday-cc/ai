@@ -1,28 +1,24 @@
 ---
 category: news
-title: "Maine law restricting facial recognition technology statewide is one of the nation’s toughest"
-excerpt: "A bill touted as the country's strictest statewide regulation on the use of facial recognition technology has become law in Maine."
-publishedDateTime: 2021-06-30T22:47:00Z
-originalUrl: "https://bangordailynews.com/2021/06/30/politics/maine-law-restricting-facial-recognition-technology-statewide-is-one-of-the-nations-toughest/"
-webUrl: "https://bangordailynews.com/2021/06/30/politics/maine-law-restricting-facial-recognition-technology-statewide-is-one-of-the-nations-toughest/"
+title: "Maine law restricts facial recognition technology statewide"
+excerpt: "A bill touted as the country’s strictest statewide regulation on the use of facial recognition technology has become law in Maine."
+publishedDateTime: 2021-07-03T03:40:00Z
+originalUrl: "https://www.bradenton.com/news/business/technology/article252486663.html"
+webUrl: "https://www.bradenton.com/news/business/technology/article252486663.html"
+ampWebUrl: "https://amp.bradenton.com/news/business/technology/article252486663.html"
+cdnAmpWebUrl: "https://amp-bradenton-com.cdn.ampproject.org/c/s/amp.bradenton.com/news/business/technology/article252486663.html"
 type: article
-quality: 43
+quality: 54
 heat: -1
 published: false
 
 provider:
-  name: Bangor Daily News
-  domain: bangordailynews.com
+  name: Bradenton Herald
+  domain: bradenton.com
 
 topics:
   - Computer Vision
   - AI
-
-images:
-  - url: "https://bdn-data.s3.amazonaws.com/uploads/2021/06/Optimized-Amazon-Police-Facial-Recognition.jpg"
-    width: 1200
-    height: 900
-    isCached: true
 
 related:
   - title: "Maine just enacted the country's toughest restrictions on facial recognition"
@@ -174,17 +170,6 @@ related:
       name: Biloxi Sun Herald
       domain: sunherald.com
     quality: 54
-  - title: "Maine law restricts facial recognition technology statewide"
-    excerpt: "A bill touted as the country’s strictest statewide regulation on the use of facial recognition technology has become law in Maine."
-    publishedDateTime: 2021-07-03T03:40:00Z
-    webUrl: "https://www.bradenton.com/news/business/technology/article252486663.html"
-    ampWebUrl: "https://amp.bradenton.com/news/business/technology/article252486663.html"
-    cdnAmpWebUrl: "https://amp-bradenton-com.cdn.ampproject.org/c/s/amp.bradenton.com/news/business/technology/article252486663.html"
-    type: article
-    provider:
-      name: Bradenton Herald
-      domain: bradenton.com
-    quality: 54
   - title: "Civil rights group sues for records on use of facial recognition at New York prisons"
     excerpt: "A civil rights group has filed suit against the New York Corrections Department for not turning over records on how it uses facial recognition technology on visitors at state lockups."
     publishedDateTime: 2021-07-01T20:38:00Z
@@ -230,6 +215,20 @@ related:
       - url: "https://imgix.bustle.com/uploads/shutterstock/2020/11/12/395be3f3-79cd-40ca-8d28-7a2a3b7b360e-shutterstock-1783490738.jpg?w=1200&h=630&fit=crop&crop=faces&fm=jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Maine law restricting facial recognition technology statewide is one of the nation’s toughest"
+    excerpt: "A bill touted as the country's strictest statewide regulation on the use of facial recognition technology has become law in Maine."
+    publishedDateTime: 2021-06-30T22:47:00Z
+    webUrl: "https://bangordailynews.com/2021/06/30/politics/maine-law-restricting-facial-recognition-technology-statewide-is-one-of-the-nations-toughest/"
+    type: article
+    provider:
+      name: Bangor Daily News
+      domain: bangordailynews.com
+    quality: 43
+    images:
+      - url: "https://bdn-data.s3.amazonaws.com/uploads/2021/06/Optimized-Amazon-Police-Facial-Recognition.jpg"
+        width: 1200
+        height: 900
         isCached: true
   - title: "Federal agencies need stricter limits on facial recognition to protect privacy, says government watchdog"
     excerpt: "The use of facial recognition technology is widespread throughout the federal government, and many agencies don’t even know which systems they’re using. That needs to change, said the federal government’s main watchdog in a new report."
@@ -284,6 +283,6 @@ related:
       domain: seattletimes.com
     quality: 22
 
-secured: "GAWLtLdwkYhFhdCodCifYkgZYEAKdTfMI1J/mVrnZzvfhPmickinR+oRxw/t2E0NpeIEHHL48N/8/4ojAGfoUjtBGD9uFuy263t20tpo2L62u7lLUy+tFZ/fVfPs2nZsK25s2j7vUT9HoXKxtng7v5R8fY5qaWrrL2i6tozp5DqnxnZwJSt6HBmYOB5ffQOEhb0LfcZHBaqARGK6wL1RW+LzBPKp+yU7mWE7A+HHkIlwoye5cdgt01RkzEJTo2Pg/cJnTzVWE+AHYbPq5IR+qSklVhnGDIzKGcrtrKPU7jMHGSY/Q0hUsOyI25xMj9XQ1sQwITaQAIbzDwXAf4erVtiTQzseGqhlBZffr25gGeXOURXiXJ5jYe4W3W0O9dtdIO3962mjkeyDSl10xS5omzZbFdwWdH3RB1lXS6FXeFUNaobxMWgh7aCmW9VMsNcJe7DF5wnrHb5Qwwtx58VKydFY+5cfJlpY1pHKXwZHRaKCdrbGBHxZGdNcci45DdRkUgXTwuwVWkofiThTY+LYkg==;rveUey4kkuuYA6tAwseN0Q=="
+secured: "INoW4xK7d17CqnjABOWAjyBkucpa7HKkdOkxsBaCIsvU4kGV/WJX6O5NuFVW1Qxsd1YqDEVeDUjLGjXmwlQrvDR4HooKrEG8jckdOPZHIVfO21QLgVgUY4uVJPMV5x5y6SyZ6tAwd/saehCCE7Sq1X8nNZH14AaLage5XyepBTdYhuUpnJPxOMbXOjX4mwuqM9B6C2eLq+O3IFUmxd+4XsXg+kBwM4K6OZW7TzrH/7+QxBSsUOEtXhX/+vRBQpydKwoyyiLt4HTqnswTW8uIx8NBM620CF6HytachvZlulIVXAC3LSo7xWIE+0qCn6jVkqQT562j1x9SvCQvSidaIyfFjFvDvfICz4nOrbRAibQ=;AJH0EH0xfp7Nz44/3W1fAg=="
 ---
 

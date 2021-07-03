@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/joemckendrick/2021/06/29/the-uneasy-all
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2021/06/29/the-uneasy-alliance-between-business-leaders-and-artificial-intelligence/amp/"
 type: article
 quality: 88
-heat: 118
+heat: 108
 published: true
 
 provider:
@@ -31,20 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Reinforcement learning could be the link between AI and human-level intelligence"
-    excerpt: "We may be able to achieve a level of compute power that will make it possible to reach general intelligence through pure reward and reinforcement learning."
-    publishedDateTime: 2021-06-28T14:10:00Z
-    webUrl: "https://thenextweb.com/news/reinforcement-learning-link-ai-general-level-intelligence-syndication"
-    type: article
-    provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 66
-    images:
-      - url: "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F06%2FEvolutionHed1.jpg&signature=eb72505783d019cc290d3a2602b93fd4"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "The State of AI and Machine Learning"
     excerpt: "In the 7th edition of its annual State of AI report, Appen continues to explore the strategies  employed by companies large and small in successfully deploying AI. The reports surveys business  leaders and technical practitioners ( referred to as technologists) alike to understand  their priorities,"
     publishedDateTime: 2021-06-29T21:15:00Z

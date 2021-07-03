@@ -44,20 +44,6 @@ related:
       name: Techinasia
       domain: techinasia.com
     quality: 34
-  - title: "Qatar FinTech Hub preps demo day"
-    excerpt: "Qatar FinTech Hub (QFTH), founded by Qatar Development Bank (QDB) to support the growth of the FinTech industry in Qatar, has announced the Demo Day for Wave 2 of its flagship Incubator and Accelerator Programs which will take place on 1st July 2021,"
-    publishedDateTime: 2021-06-28T14:04:00Z
-    webUrl: "https://www.finextra.com/pressarticle/88314/qatar-fintech-hub-preps-demo-day"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 24
-    images:
-      - url: "https://www.finextra.com/about/finextra-logo.png"
-        width: 512
-        height: 512
-        isCached: true
   - title: "FINBOA Named 2021 TAG FinTech ADVANCE Award Winner"
     excerpt: "FINBOA, Inc., a leading innovator in digital automation and regulatory compliance for financial institutions, was recently selected as a 2021 TAG FinTech ADVANCE Award winner by the Technology Association of Georgia (TAG),"
     publishedDateTime: 2021-06-30T11:53:00Z

@@ -25,15 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Students from SP Jain's Inaugural Bachelor of Data Science Cohort Secure Jobs in Australia, India and Vietnam"
-    excerpt: "The inaugural cohort of SP Jain School of Global Management’s Bachelor of Data Science (BDS) program has had excellent placement outcomes validating the skills shortage in this fast-growing field. The School reported that over 80% of the students who stayed back in Australia upon completing their course requirements have found Australian jobs."
-    publishedDateTime: 2021-06-28T13:03:00Z
-    webUrl: "https://www.businesswireindia.com/students-from-sp-jains-inaugural-bachelor-of-data-science-cohort-secure-jobs-in-australia-india-and-vietnam-73728.html"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswireindia.com
-    quality: 0
   - title: "Students from SP Jain's inaugural Bachelor of Data Science cohort secure jobs in Australia, India and Vietnam"
     excerpt: "The inaugural cohort of SP Jain School of Global Management's Bachelor of Data Science (BDS) program has had excellent placement outcomes validating the skills shortage in this fast-growing field. The School reported that over 80 per cent of the students who stayed back in Australia upon completing their course requirements have found Australian jobs."
     publishedDateTime: 2021-06-29T16:45:00Z

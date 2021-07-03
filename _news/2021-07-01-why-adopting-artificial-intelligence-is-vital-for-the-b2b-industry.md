@@ -56,22 +56,6 @@ related:
         width: 800
         height: 419
         isCached: true
-  - title: "IBM AI-Powered Automation Software to Simplify Broad Adoption of 5G"
-    excerpt: "IBM announced new hybrid cloud AI-powered automation software to help deliver on the promise of widespread 5G technology."
-    publishedDateTime: 2021-06-28T14:22:00Z
-    webUrl: "https://innotechtoday.com/ibm-ai-powered-automation-software-to-simplify-broad-adoption-of-5g/"
-    ampWebUrl: "https://innotechtoday.com/ibm-ai-powered-automation-software-to-simplify-broad-adoption-of-5g/amp/"
-    cdnAmpWebUrl: "https://innotechtoday-com.cdn.ampproject.org/c/s/innotechtoday.com/ibm-ai-powered-automation-software-to-simplify-broad-adoption-of-5g/amp/"
-    type: article
-    provider:
-      name: Innovation & Tech Today
-      domain: innotechtoday.com
-    quality: 59
-    images:
-      - url: "https://innotechtoday.com/wp-content/uploads/2021/06/accessibility-browsing-5g-business-businessman-choosing-1444337-pxhere.com-1.jpg"
-        width: 800
-        height: 498
-        isCached: true
   - title: "Observation, simulation, and AI join forces to reveal a clear universe"
     excerpt: "Japanese astronomers have developed a new artificial intelligence (AI) technique to remove noise in astronomical data due to random variations in galaxy shapes. After extensive training and testing on large mock data created by supercomputer simulations,"
     publishedDateTime: 2021-07-02T14:51:00Z

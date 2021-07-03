@@ -1,26 +1,26 @@
 ---
 category: news
-title: "Artificial Intelligence (AI) in Real Estate Market Next Big Thing : Major Giants IBM, Cape Analytics, Baidu"
-excerpt: "The latest research on “Global Artificial Intelligence (AI) in Real Estate Report 2021” offered by HTF MI provides a comprehensive investigation into the geographical landscape, industry size along with the revenue estimation of the business."
-publishedDateTime: 2021-07-03T00:36:00Z
-originalUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-ai-in-real-estate-market-next-big-thing-major-giants-ibm-cape-analytics-baidu"
-webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-ai-in-real-estate-market-next-big-thing-major-giants-ibm-cape-analytics-baidu"
+title: "Dell Releases Omnia To Manage AI & HPC Workloads"
+excerpt: "Dell’s HPC on-demand is now supporting VMware environments. Dell has released Omnia, an open-source software package to simplify AI and compute-intensive workload deployment and management. Omnia automates the management of high-performance computing,"
+publishedDateTime: 2021-07-03T07:30:00Z
+originalUrl: "https://analyticsindiamag.com/dell-releases-omnia-to-manage-ai-hpc-workloads/"
+webUrl: "https://analyticsindiamag.com/dell-releases-omnia-to-manage-ai-hpc-workloads/"
 type: article
-quality: 34
+quality: 37
 heat: -1
 published: false
 
 provider:
-  name: Digital Journal
-  domain: digitaljournal.com
+  name: Analytics India Magazine
+  domain: analyticsindiamag.com
 
 topics:
   - AI
 
 images:
-  - url: "https://www.digitaljournal.com/wp-content/uploads/2021/07/Canada-indigenous-schools-AFP-1K-02-600x337.jpg"
-    width: 600
-    height: 337
+  - url: "https://analyticsindiamag.com/wp-content/uploads/2021/07/Dell_AIM.jpg"
+    width: 640
+    height: 427
     isCached: true
 
 related:
@@ -100,19 +100,19 @@ related:
         width: 690
         height: 400
         isCached: true
-  - title: "Dell Releases Omnia To Manage AI & HPC Workloads"
-    excerpt: "Dell’s HPC on-demand is now supporting VMware environments. Dell has released Omnia, an open-source software package to simplify AI and compute-intensive workload deployment and management. Omnia automates the management of high-performance computing,"
-    publishedDateTime: 2021-07-03T07:30:00Z
-    webUrl: "https://analyticsindiamag.com/dell-releases-omnia-to-manage-ai-hpc-workloads/"
+  - title: "Artificial Intelligence (AI) in Real Estate Market Next Big Thing : Major Giants IBM, Cape Analytics, Baidu"
+    excerpt: "The latest research on “Global Artificial Intelligence (AI) in Real Estate Report 2021” offered by HTF MI provides a comprehensive investigation into the geographical landscape, industry size along with the revenue estimation of the business."
+    publishedDateTime: 2021-07-03T00:36:00Z
+    webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-ai-in-real-estate-market-next-big-thing-major-giants-ibm-cape-analytics-baidu"
     type: article
     provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 37
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 34
     images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/07/Dell_AIM.jpg"
-        width: 640
-        height: 427
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2021/07/Canada-indigenous-schools-AFP-1K-02-600x337.jpg"
+        width: 600
+        height: 337
         isCached: true
   - title: "Presto the Future of Open Data Analytics, Foundation Says"
     excerpt: "The openness of Presto, its adherence to standard SQL, and the ubiquity and performance of modern cloud storage have combined to put Presto in the"
@@ -152,6 +152,6 @@ related:
       domain: reportsnreports.com
     quality: 9
 
-secured: "DKAQ80GFlC6/ysXHY9v7elOREqmj3cvlm14eQO1Ch5jiKGcEuaEL/N+1TI3CVSrnv5SBm8dfQ1K86DQGJ1oNXBQhUIxNlOOuNkoFeBV9i8fpBkawFG5n6meh/IJ5hNrVFF3BqAdIQKp1aBPgyvRgQ4W5WMh0MdjlcFWXcSNTnWIN892AZwBbs0iC5rQIrJVpOizw5EwQbI6yyAUlxOEjDx6shWyKeBrfkEe4OiAJXGZ48CNu771spaw4HSbAO9Oudgx0CrXFF/QAy+PMNtwoz9N2rR/bfIbzM1N8fFvmbpTxKWkaWQ7joNTHnyWvILaiDhKeYvz+RwGEmZVNRJ0f7sef9Sj7Yhl93FPDPItoF2E=;fB4HwRTRHVtvWG2q+UdquA=="
+secured: "JCb1/1jWfjEzWD17qp2Z28jbddOPsM6dlojwnJl4myUvkCPO7c9dtgmoiOYsOs04bde+N6d1FJV/ZHr8GZDuKkyIoyFQyA1CMR7eY0YvZlyMYf9yZxiJqGeMXLNatCPmTh89PIboPy4+Ftm1cvRO6Frt2TiM2ko1V6MoFwwQLTwysEiUVebRY4m9Ax2WrigEEAhhDaCWnLauoMmgymX31xa31IguRRr7ykcQb9bR8i1Yh6vAmP0zkEvzd/S3TYnvMzfAOJu/Etu6o600xv9p/fYB07ukYZhfvQB/c/4u/Q+DcoIsJUQR+aVuwm24ctZEvrVCax4UVoYTxi6rcyesSLrhppt5nirY6quXZGjDbl0=;cHmvhtYe1uFAKE5Ay7a54g=="
 ---
 

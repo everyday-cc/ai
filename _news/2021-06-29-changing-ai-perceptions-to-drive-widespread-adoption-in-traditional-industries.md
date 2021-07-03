@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2021/06/29/changi
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2021/06/29/changing-ai-perceptions-to-drive-widespread-adoption-in-traditional-industries/amp/"
 type: article
 quality: 83
-heat: 153
+heat: 143
 published: true
 
 provider:
@@ -43,22 +43,6 @@ related:
       - url: "https://www.reuters.com/resizer/d_9infXWdH0ZCGL5iNfPeS_tdG0=/800x419/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/SYAAICV2MNP5XCQCEAKLU7LCQA.jpg"
         width: 800
         height: 419
-        isCached: true
-  - title: "IBM AI-Powered Automation Software to Simplify Broad Adoption of 5G"
-    excerpt: "IBM announced new hybrid cloud AI-powered automation software to help deliver on the promise of widespread 5G technology."
-    publishedDateTime: 2021-06-28T14:22:00Z
-    webUrl: "https://innotechtoday.com/ibm-ai-powered-automation-software-to-simplify-broad-adoption-of-5g/"
-    ampWebUrl: "https://innotechtoday.com/ibm-ai-powered-automation-software-to-simplify-broad-adoption-of-5g/amp/"
-    cdnAmpWebUrl: "https://innotechtoday-com.cdn.ampproject.org/c/s/innotechtoday.com/ibm-ai-powered-automation-software-to-simplify-broad-adoption-of-5g/amp/"
-    type: article
-    provider:
-      name: Innovation & Tech Today
-      domain: innotechtoday.com
-    quality: 59
-    images:
-      - url: "https://innotechtoday.com/wp-content/uploads/2021/06/accessibility-browsing-5g-business-businessman-choosing-1444337-pxhere.com-1.jpg"
-        width: 800
-        height: 498
         isCached: true
   - title: "Why Adopting Artificial Intelligence is Vital for the B2B Industry"
     excerpt: "AI is rapidly turning into a need for B2B organizations, as it can help convey information driven and significant bits of knowledge to associations. At the point when Artificial Intelligence is used with online business,"

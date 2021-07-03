@@ -18,19 +18,33 @@ topics:
   - AI
 
 related:
-  - title: "CMU Software Engineering Institute Announces Establishment of New AI Division, Names Director"
-    excerpt: "Carnegie Mellon University's Software Engineering Institute today announced the establishment of a new research division dedicated to artificial intelligence (AI) engineering and named Matthew Gaston as the new division's director."
-    publishedDateTime: 2021-06-28T14:22:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/cmu-software-engineering-institute-announces-establishment-of-new-ai-division-names-director-1030559424"
+  - title: "Visual Inspection AI better enables manufacturing quality control"
+    excerpt: "Google Cloud launches Visual Inspection AI, new platform to help reduce defects, recalls and returns in the manufacturing and inspection process."
+    publishedDateTime: 2021-06-29T03:45:00Z
+    webUrl: "https://www.ferret.com.au/news/visual-inspection-ai-better-enables-manufacturing-quality-control/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 56
+      name: Ferret Australia's Manufacturing Industrial and Mining Directory
+      domain: ferret.com.au
+    quality: 39
     images:
-      - url: "https://mma.prnewswire.com/media/1552829/Matt_Gaston.jpg"
-        width: 400
-        height: 229
+      - url: "https://www.ferret.com.au/wp-content/uploads/2021/06/D61471FA-DDD5-4857-BB74-B1B08E93769B_1_105_c.jpeg"
+        width: 1121
+        height: 701
+        isCached: true
+  - title: "Google Cloud Launches Visual Inspection AI"
+    excerpt: "Google Cloud Launches Visual Inspection AI By CioReview - Visual Inspection AI operates across various industries and uses cases, potentially saving manufacturers millions of dollars"
+    publishedDateTime: 2021-06-29T08:55:00Z
+    webUrl: "https://www.cioreview.com/news/google-cloud-launches-visual-inspection-ai-nid-33955-cid-82.html"
+    type: article
+    provider:
+      name: CIOReview
+      domain: cioreview.com
+    quality: 37
+    images:
+      - url: "https://www.cioreview.com/news_new/sliderimage/pqf.300.jpg"
+        width: 300
+        height: 350
         isCached: true
 
 secured: "fZ2HmOokf4q7eeT0obLhw5H3KU4WNh96wHR+3uofkJjRSRDFXNAMi0apD90csQ40mbtFWCMiV9Ut6xazuVd6TI7QlKlSur2CNEPNr/5qnI8Eyc2VWt6xEA3sqipx+2VOi2pSJ+i6nxliMIAPfZzQ8KEnHMqQCAjGPy/6BtNfy7eY6VXAQGYXI1Ej5dVXvLlHzxxMWUGsNlWA3BUGnMU7lgAIJtkEgAk0paq+Az6PjOOkNOD46Gkt/BOW+4P1xI4LgzCrVagyA0IOoN2P9gHnUJHjrCuwrxM+Yl9P9n+mgs5DV3h11ER42Ab58MZN6LnpxCK4nIsQam3jljfmJjBWRk4lsFeyJZllPmzO+KS93V0=;R5t2n0TaRHFYK0+xRy2B9w=="

@@ -88,20 +88,6 @@ related:
         width: 830
         height: 571
         isCached: true
-  - title: "WHO guidance on Artificial Intelligence to improve healthcare, mitigate risks worldwide"
-    excerpt: "Artificial Intelligence (AI) holds \"enormous potential\" for improving the health of millions around the world if ethics and human rights are at the"
-    publishedDateTime: 2021-06-28T14:50:00Z
-    webUrl: "https://www.miragenews.com/who-guidance-on-artificial-intelligence-to-586291/"
-    type: article
-    provider:
-      name: Armed robbery in Revesby
-      domain: miragenews.com
-    quality: 48
-    images:
-      - url: "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Libraries/Production+Library/28-06-2021-Unsplash-robotics.jpg/image770x420cropped.jpg"
-        width: 771
-        height: 420
-        isCached: true
   - title: "Leveraging artificial intelligence to enhance brand management"
     excerpt: "Once the subject of imaginations and main plot of science fiction movies for decades, today, robots are no longer a piece of fiction, they are now a commonplace in people’s daily lives."
     publishedDateTime: 2021-06-29T04:26:00Z

@@ -3,12 +3,12 @@ category: news
 title: "Graphcore brings new competition to Nvidia in latest MLPerf AI benchmarks"
 excerpt: "Graphcore’s score in BERT natural language training was the best score of any of the two-socket AMD systems submitted."
 publishedDateTime: 2021-06-30T10:00:00Z
-originalUrl: "https://www.zdnet.com/article/graphcore-brings-new-competition-to-nvidia-in-latest-mlperf-ai-benchmarks/"
-webUrl: "https://www.zdnet.com/article/graphcore-brings-new-competition-to-nvidia-in-latest-mlperf-ai-benchmarks/"
-ampWebUrl: "https://www.zdnet.com/google-amp/article/graphcore-brings-new-competition-to-nvidia-in-latest-mlperf-ai-benchmarks/"
-cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/graphcore-brings-new-competition-to-nvidia-in-latest-mlperf-ai-benchmarks/"
+originalUrl: "https://www.zdnet.com/index.php/article/graphcore-brings-new-competition-to-nvidia-in-latest-mlperf-ai-benchmarks/"
+webUrl: "https://www.zdnet.com/index.php/article/graphcore-brings-new-competition-to-nvidia-in-latest-mlperf-ai-benchmarks/"
+ampWebUrl: "https://www.zdnet.com/index.php/google-amp/article/graphcore-brings-new-competition-to-nvidia-in-latest-mlperf-ai-benchmarks/"
+cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/google-amp/article/graphcore-brings-new-competition-to-nvidia-in-latest-mlperf-ai-benchmarks/"
 type: article
-quality: 86
+quality: 88
 heat: -1
 published: false
 
@@ -21,6 +21,7 @@ provider:
       height: 50
 
 topics:
+  - Natural Language Processing
   - AI
 
 images:
@@ -89,20 +90,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 67
-  - title: "Supermicro Boosts Performance for HPC and AI Applications with Optimized Servers Featuring New NVIDIA A100 80GB PCIe GPUs"
-    excerpt: "Supermicro servers, designed with a Building Block Solutions ® approach, give Supermicro a first to market advantage when incorporating new technologies. State-of-the-art accelerated computing options can be quickly integrated and tested,"
-    publishedDateTime: 2021-06-28T13:05:00Z
-    webUrl: "https://www.marketwatch.com/press-release/supermicro-boosts-performance-for-hpc-and-ai-applications-with-optimized-servers-featuring-new-nvidia-a100-80gb-pcie-gpus-2021-06-28"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 59
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Nvidia announces Arm support for AI-on-5G platform and next-gen DPU"
     excerpt: "The next Nvidia DPU iteration will incorporate 16 Arm Cortex-A78 processors and can be deployed in a “fully self-hosted configuration.”"
     publishedDateTime: 2021-06-28T19:59:00Z
@@ -145,6 +132,6 @@ related:
       domain: insidehpc.com
     quality: 21
 
-secured: "28ckzn+vLOmQp0Mb/4XzrHIDbpkg5kYfD3oGrn+NnrMMq0Hiu3JcZfOODluKl+erJOMMZvCy7UTJbES4Wi4sG2N5Uac9ewK8Qyz67sL6EhPUpzRJy2jdVYcbViGDg/u+MGtyGHvGKGR+RL94Yt3oiFQd8MiNy3KYnR1E2ZUGOrgLL/+1iobRMM4sGyWfqkOCPsrIspFghuXHM8de4lyXXTUiXTuHRhm8L7owMzsY0uFFr8A2bHel4/HaHMI2TWRLymTLBSnXiAx7Jjsu/ziTvn5d6OMjW5M6kA/uhdJHNfpN6erhtcqsCvClHMtlhTXVLPKF5HB99aRJKO9L83828H80fFxEZ6B6AXJ/lkwkRRg=;dvxvaAjkqIV5ldWb3gyLzQ=="
+secured: "0i6rq+mWMhfTMWX7pICdEc0kdxDzBMcXyur7mevGRy/6W3all1IooHDk43EwddGCvBY1DtZM7m6VDLnKMrl7qdJ2aOQLtRWTlrU06rvT1fv58tHB9mCgyZOzdi3HzkOo033tEVsTh4FXn5Xpp0IS879xLx2IM63pmNi/Z5FFOeKRODXFgOixSq31jcFuO9n0aNy07b8BnCzFTy9Aqu06nR/OmzaMrJx7Zbd7UJajtMQbBziIUnBbk+3emScF6Um0iO7BuKVM74f2//z5QqyZve4Tcied3HO2wwRYD2dS334wZ9T9kOjux3AAkzG0gGNvsnHh68A6uYE+qKxjVL8DHPTXGCyYULYKQirlM8NI77g=;uZRcJSwNmi1ta2Bd0y1x5g=="
 ---
 

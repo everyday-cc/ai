@@ -39,6 +39,15 @@ related:
         width: 300
         height: 350
         isCached: true
+  - title: "Building AI Better: Software Engineering Institute Introduces Three Pillars of AI Engineering"
+    excerpt: "To mature AI practices and help national defense and security agencies adopt AI, the SEI has begun formalizing the field of AI engineering, much as it did for software engineering in the 1980s. AI engineering is an emerging field of research and practice that combines the principles of systems engineering,"
+    publishedDateTime: 2021-06-30T16:32:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-building-ai-better-software-engineering-institute-introduces-three-/2021/06/30/9401246.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 6
 
 secured: "4n2mY2pvB2rQsrWYvkpxzvieY/2vXRYZofv1qHJJsj61aFS/yimblz8GqFS1p/gaCKhqMEXmLHC4E1PeC1LfLTs7kMv3k0Unt+ppNZDo9aVsBXNoQTAGCrQQJikTvDhfbAIw3H2lICdS9+552VvgZk0ldPW1M97ecniGoH2bQV+aZfKGds3mmk/ClaA/5pnS2RZxiRlYWgTDLZNIyaggnxIsn9OWydDKPshZkzIf/HHbHQZAuQcmxMiN1hJQD3LaNKtMIdNvtZo04UssXswfI5zVHk8fw/eQM523KJT42+stPFY+WnqSCdKxuBWriIDJokwtBZmuSwsAOWkXPjkoi7UGV9PnlbYKN2/QyjW5i5LbKbLW9HzYW8lq9d0yvcpTWH4jaXgE4v2y9pa9MQzL62W0amKRDlo2ZpixnzzaG0DqYLwht66qKVfA7NamF5GI3uVp5I86plNYyWGGgVg7nj0rKF+yLtsL8OdEvLQIPTFPAfwEHVt+O7F6qduAb9teDVAs4yCiem/9eBVnQgTQjA==;fuKOvLTJjhy1DBQiSCt6iQ=="
 ---

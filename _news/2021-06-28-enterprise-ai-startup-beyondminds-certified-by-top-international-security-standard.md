@@ -2,28 +2,19 @@
 category: news
 title: "Enterprise AI Startup BeyondMinds Certified by Top International Security Standard"
 excerpt: "BeyondMinds, an enterprise AI software provider delivering fully managed, production-grade AI solutions on top of its turnkey AI platform, today announced it has earned ISO 27001:2013. The certification,"
-publishedDateTime: 2021-06-28T13:52:00Z
-originalUrl: "https://apnews.com/press-release/globe-newswire/business-technology-061006a8611cbe8746dba86f82b79b9c"
-webUrl: "https://apnews.com/press-release/globe-newswire/business-technology-061006a8611cbe8746dba86f82b79b9c"
+publishedDateTime: 2021-06-28T15:00:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-enterprise-ai-startup-beyondminds-certified-top-international-security-/2021/06/28/9398829.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-enterprise-ai-startup-beyondminds-certified-top-international-security-/2021/06/28/9398829.htm"
 type: article
-quality: 48
-heat: 48
-published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI
   - AI in Security
 
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
-
-secured: "wIzJ6zVBbQGTFu1/4SwKg2siwsY1TZSfOjnCU15Uxgfc4sx8meQMCMO7HHWFygYH8dE975WdBIHK6eItNyEKZ62xeeXEK26J19BZSHmY1+q4Wz6yN6QvO3ggxXt/W4z/T/jwm7Xvw591sFBXAE8vcATi1OOKeLfDay170JsKocA3QGvmh9Hm8aNH/B7QufCX/WIke9rzGX4nlKPoN+Q3czZU2K9oKbbXcflELzIjlhHY/LbY/Qu2Jqh6dYJSQowIttruxwJ8iaqn+V0UCoB6Y/sRqhB4xYmUxZVLDg8MAtJHVQvOzzw6IiQhCk4NtrLUBKSw9dhkUe1n3QiTxiRXF6Ec4ZWwldq5ou9LC3GHE8Y=;mV0C1LZwIk/mbN2AUVz6UQ=="
+secured: "AYQB3iJ7SM+ymjSPIHTUVuAE7LyzsrzBAJ5/3xE8xSc+ODSorJCwUTlYAj0aVyZZGeNhDEXQDCezh7Bu7FbaS30w345NORFa+lujtVBBnSVu7DHTLd1jhOpnk2HbqXpZet5DxmpjhrBQnaFqjiBeafhFFMg2ZUSFEn2IhPTeJdkGwGrgCAdbo286pPZKZ7LJwdbQnsUOjIkSZCocCQURnHx5rBOfT1xJZRI3rlKasme8qC5c7uUp0g4yXUqZPjxf+BtN+K0dwRtQA6PUpp6GOq5ll7vzhJ+45SYDEQ+2/CwVnSsTGNOVXRj/2/3F+JTBl0Ct2D6XsKXhzXCyRt9fJ/XgjBkadDuo9QvMgoQ/FMY=;jbiqooucq+ggJSxgLgk9JA=="
 ---
 

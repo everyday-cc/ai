@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/06/28/dell-releases-open-source-suite-o
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/28/dell-releases-open-source-suite-omnia-to-manage-ai-analytics-workloads/amp/"
 type: article
 quality: 87
-heat: 167
+heat: 177
 published: true
 
 provider:
@@ -89,6 +89,20 @@ related:
       - url: "https://healthitanalytics.com/images/site/article_headers/_normal/GettyImages-1164501571.jpg"
         width: 690
         height: 400
+        isCached: true
+  - title: "Dell Releases Omnia To Manage AI & HPC Workloads"
+    excerpt: "Dell’s HPC on-demand is now supporting VMware environments. Dell has released Omnia, an open-source software package to simplify AI and compute-intensive workload deployment and management. Omnia automates the management of high-performance computing,"
+    publishedDateTime: 2021-07-03T07:30:00Z
+    webUrl: "https://analyticsindiamag.com/dell-releases-omnia-to-manage-ai-hpc-workloads/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 37
+    images:
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/07/Dell_AIM.jpg"
+        width: 640
+        height: 427
         isCached: true
   - title: "Artificial Intelligence (AI) in Real Estate Market Next Big Thing : Major Giants IBM, Cape Analytics, Baidu"
     excerpt: "The latest research on “Global Artificial Intelligence (AI) in Real Estate Report 2021” offered by HTF MI provides a comprehensive investigation into the geographical landscape, industry size along with the revenue estimation of the business."

@@ -43,22 +43,6 @@ related:
         width: 1200
         height: 801
         isCached: true
-  - title: "Qualcomm's New Snapdragon 888+ Chip Cranks 3GHz And Big AI Gains For Flagship 5G Phones"
-    excerpt: "This time around, the prime Kryo CPU core is clocked at up to 3GHz (2.995GHz to be exact), compared to 2.84GHz."
-    publishedDateTime: 2021-06-28T13:18:00Z
-    webUrl: "https://hothardware.com/news/qualcomm-launches-snapdragon-888-plus-5g-chip-clocked-at-3ghz-for-flagship-phones"
-    ampWebUrl: "https://amp.hothardware.com/news/qualcomm-launches-snapdragon-888-plus-5g-chip-clocked-at-3ghz-for-flagship-phones"
-    cdnAmpWebUrl: "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/qualcomm-launches-snapdragon-888-plus-5g-chip-clocked-at-3ghz-for-flagship-phones"
-    type: article
-    provider:
-      name: HotHardware
-      domain: hothardware.com
-    quality: 66
-    images:
-      - url: "https://images.hothardware.com/contentimages/newsitem/55523/content/snapdragon_888_plus.jpg"
-        width: 708
-        height: 473
-        isCached: true
   - title: "Qualcomm Snapdragon 888 Plus announced with higher clock speed, improved AI engine"
     excerpt: "The Mobile World Congress (MWC) is starting up strong with the introduction of a new flagship chipset from Qualcomm. Here we have an amped-up version of its current top-tier processor, the Qualcomm Snapdragon 888 Plus."
     publishedDateTime: 2021-06-28T16:41:00Z

@@ -50,20 +50,6 @@ related:
       name: Techinasia
       domain: techinasia.com
     quality: 34
-  - title: "Qatar FinTech Hub preps demo day"
-    excerpt: "Qatar FinTech Hub (QFTH), founded by Qatar Development Bank (QDB) to support the growth of the FinTech industry in Qatar, has announced the Demo Day for Wave 2 of its flagship Incubator and Accelerator Programs which will take place on 1st July 2021,"
-    publishedDateTime: 2021-06-28T14:04:00Z
-    webUrl: "https://www.finextra.com/pressarticle/88314/qatar-fintech-hub-preps-demo-day"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 24
-    images:
-      - url: "https://www.finextra.com/about/finextra-logo.png"
-        width: 512
-        height: 512
-        isCached: true
   - title: "UK SME fintech platform Tide forays into India, commits $100 million investment"
     excerpt: "Tide on Tuesday announced its entry into India, committing a Rs 1,000-crore investment over the next five years."
     publishedDateTime: 2021-06-29T12:38:00Z
