@@ -187,6 +187,17 @@ related:
       name: Bradenton Herald
       domain: bradenton.com
     quality: 54
+  - title: "Maine law restricts facial recognition technology statewide"
+    excerpt: "A bill touted as the country’s strictest statewide regulation on the use of facial recognition technology has become law in Maine."
+    publishedDateTime: 2021-07-03T17:06:00Z
+    webUrl: "https://www.newsobserver.com/news/technology/article252486663.html"
+    ampWebUrl: "https://amp.newsobserver.com/news/technology/article252486663.html"
+    cdnAmpWebUrl: "https://amp-newsobserver-com.cdn.ampproject.org/c/s/amp.newsobserver.com/news/technology/article252486663.html"
+    type: article
+    provider:
+      name: Raleigh News & Observer
+      domain: newsobserver.com
+    quality: 54
   - title: "Maine Enacts Strongest Statewide Facial Recognition Regulations in the Country"
     excerpt: "Maine has enacted the country’s strongest statewide facial recognition law. Maine’s law prohibits the use of facial recognition technology in most areas of government, including in public schools, and for surveillance purposes."
     publishedDateTime: 2021-06-30T15:14:00Z

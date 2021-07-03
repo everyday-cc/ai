@@ -2,6 +2,102 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-05-12-ai-analog-chip-startup-mythic-raises-70-million.md",
+      "title": "AI analog chip startup Mythic raises $70 Million",
+      "excerpt": "Mythic, a startup making artificial intelligence chips for use in gadgets such as smart home devices or security cameras, on Tuesday said it raised $7..",
+      "sourceUrl": null,
+      "webUrl": "https://cio.economictimes.indiatimes.com/news/next-gen-technologies/ai-analog-chip-startup-mythic-raises-70-million/82565981",
+      "originalUrl": "https://cio.economictimes.indiatimes.com/news/next-gen-technologies/ai-analog-chip-startup-mythic-raises-70-million/82565981",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://etimg.etb2bimg.com/thumb/msid-82565981,imgsize-35602,width-800,height-434,overlay-etcio/ai-analog-chip-startup-mythic-raises-70-million.jpg",
+          "width": 800,
+          "height": 434,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/ai-analog-chip-startup-mythic-raises-70-million/82565981",
+      "cdnAmpWebUrl": "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/ai-analog-chip-startup-mythic-raises-70-million/82565981",
+      "publishedDateTime": "2021-05-11T20:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India Times",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-12-ai-has-eaten-ibm-think.md",
+      "title": "AI Has Eaten IBM Think",
+      "excerpt": "AI pervades every session at the annual IBM event. The virtual event of “All Things IBM” has become “All Things AI”, from chips to software, Watson to SAP, and companies including SalesForce, Siemens,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/karlfreund/2021/05/11/ai-has-eaten-ibm-think/",
+      "originalUrl": "https://www.forbes.com/sites/karlfreund/2021/05/11/ai-has-eaten-ibm-think/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 181,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F609aca7635660de3e22ea502%2F0x0.jpg",
+          "width": 1200,
+          "height": 711,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/karlfreund/2021/05/11/ai-has-eaten-ibm-think/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2021/05/11/ai-has-eaten-ibm-think/amp/",
+      "publishedDateTime": "2021-05-11T12:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2021-05-11-edge-ai-chipset-developer-simaai-raises-80m.md",
       "title": "Edge AI chipset developer Sima.ai raises $80M",
       "excerpt": "Sima.ai, a startup developing an edge AI accelerator chipset, has secured $80 million in venture capital backing.",
@@ -1386,103 +1482,7 @@
         "AI",
         "AI Hardware"
       ]
-    },
-    {
-      "path": "_news/2021-05-01-how-the-global-chip-shortage-could-impact-your-business.md",
-      "title": "How the global chip shortage could impact your business",
-      "excerpt": "It will likely take at least 18-24 months to stabilize the supply chain. Until then, many companies will be affected (some more, some less).",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/04/30/how-the-global-chip-shortage-could-impact-your-business/",
-      "originalUrl": "https://venturebeat.com/2021/04/30/how-the-global-chip-shortage-could-impact-your-business/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/04/GettyImages-10161933.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 798,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/04/30/how-the-global-chip-shortage-could-impact-your-business/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/30/how-the-global-chip-shortage-could-impact-your-business/amp/",
-      "publishedDateTime": "2021-04-30T12:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-30-nvidia-warns-gamers-to-update-gpu-drivers-due-to-security-issues.md",
-      "title": "NVIDIA warns gamers to update GPU drivers due to security issues",
-      "excerpt": "NVIDIA has reportedly found a few security vulnerabilities that may affect the popular GPU models in the market - and has released an update to fix it.",
-      "sourceUrl": null,
-      "webUrl": "https://news.thewindowsclub.com/nvidia-warns-gamers-to-update-gpu-drivers-due-to-security-issues-105609/",
-      "originalUrl": "https://news.thewindowsclub.com/nvidia-warns-gamers-to-update-gpu-drivers-due-to-security-issues-105609/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://news.thewindowsclub.com/wp-content/uploads/2020/03/Nvidia-GeForce-Hotfix.jpg",
-          "width": 600,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://news.thewindowsclub.com/nvidia-warns-gamers-to-update-gpu-drivers-due-to-security-issues-105609/?amp",
-      "cdnAmpWebUrl": "https://news-thewindowsclub-com.cdn.ampproject.org/c/s/news.thewindowsclub.com/nvidia-warns-gamers-to-update-gpu-drivers-due-to-security-issues-105609/?amp",
-      "publishedDateTime": "2021-04-30T06:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TWCN Tech News",
-        "domain": "thewindowsclub.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "AI in Security"
-      ]
     }
   ],
-  "nextPage": null
+  "nextPage": 6
 }

@@ -25,21 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "Thailand’s Pomelo is revolutionizing SEA’s fashion industry with machine learning and AI"
-    excerpt: "Machine learning and AI have a multitude of applications in various industries, but fashion might sound like a curious one - Tech Wire Asia"
-    publishedDateTime: 2021-06-29T02:50:00Z
-    webUrl: "https://techwireasia.com/2021/06/pomelo-machine-learning-ai-fashion/"
-    ampWebUrl: "https://techwireasia.com/amp/2021/06/pomelo-machine-learning-ai-fashion/"
-    cdnAmpWebUrl: "https://techwireasia-com.cdn.ampproject.org/c/s/techwireasia.com/amp/2021/06/pomelo-machine-learning-ai-fashion/"
+  - title: "The future of online shopping gets real with AI and machine learning"
+    excerpt: "Learn how AI and machine learning have starring roles in the future of online shopping and what retailers need to do to adapt."
+    publishedDateTime: 2021-07-01T05:05:00Z
+    webUrl: "https://www.the-future-of-commerce.com/2021/07/01/future-of-online-shopping-ai-and-machine-learning/"
     type: article
     provider:
-      name: techwireasia.com
-      domain: techwireasia.com
-    quality: 69
+      name: Future
+      domain: the-future-of-commerce.com
+    quality: 54
     images:
-      - url: "https://cdn.techwireasia.com/wp-content/uploads/2021/06/Pomelo-Fashion-4-450x300.jpg"
-        width: 450
-        height: 300
+      - url: "https://www.the-future-of-commerce.com/wp-content/uploads/2021/06/Future-of-Online-shopping_1200x375-1200x630.jpg"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "8e8ZPUjbQJtUCWlXS44MVcBlOjJSXc/4hBclFNRanHcjH2ec2sa1MBVfqylj7dn1RsGtLInGvTuQG8QjpUKF7OjI5u3WaWnEzGSCVuQRO6VEcryjuM2eDJzSVxf7/JTyIkTZ5xsWY21xMXsC0v8lEuVkS3oW3fcynzj0qc9aKlQRAIRINT/jrm5DjjInC+o3zU8pNXVFAVkvnu0NHq14N8FwzHs/2xpSgMWJQi/K9xL6EP1op3sc+W3+c0w8gP0xphMriNFS5agz2o4xtvIOh98/be8OJYP9qCbdWqU5L3Wb0oCmpu6TgmeoY8z+B1KmaV6RJAA3QJUGToJKzu1VMk9EGGh28QwCHMTAyTl/hIs=;llRvxPX4oD7NejMsFuizyQ=="

@@ -2,6 +2,50 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-06-03-tesla-ai-process-driving-images-10x-faster-than-humans.md",
+      "title": "Tesla AI Process Driving Images 10X Faster Than Humans",
+      "excerpt": "Andrej Karpathy, Director of artificial intelligence and Autopilot Vision at Tesla, says that the cameras and AI used by Tesla can process visual driving data",
+      "sourceUrl": null,
+      "webUrl": "https://www.nextbigfuture.com/2021/06/tesla-ai-process-driving-images-10x-faster-than-humans.html",
+      "originalUrl": "https://www.nextbigfuture.com/2021/06/tesla-ai-process-driving-images-10x-faster-than-humans.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nextbigfuture.s3.amazonaws.com/uploads/2017/12/7180bfad19f2195c59f8a445e080234a.jpeg",
+          "width": 1600,
+          "height": 987,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nextbigfuture.com/2021/06/tesla-ai-process-driving-images-10x-faster-than-humans.html",
+      "cdnAmpWebUrl": "https://www-nextbigfuture-com.cdn.ampproject.org/c/s/www.nextbigfuture.com/2021/06/tesla-ai-process-driving-images-10x-faster-than-humans.html",
+      "publishedDateTime": "2021-06-02T11:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NextBigFuture",
+        "domain": "nextbigfuture.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2021-06-02-futurework-podcast-a-driverless-transport-future.md",
       "title": "FutureWork podcast: A driverless transport future?",
       "excerpt": "said the tens of thousands of people employed in driving jobs in Scotland shouldn't worry about being replaced by robots and artificial intelligence any time soon. \"There's still some way to go ...",
@@ -1307,58 +1351,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-25-op-ed-alphabets-waymo-warns-that-describing-vehicles-as-self-driving-before-theyre-ready-can-lead-to-unsafe-driver-behavior.md",
-      "title": "Op-ed: Alphabet's Waymo warns that describing vehicles as 'self-driving' before they're ready can lead to unsafe driver behavior",
-      "excerpt": "Some vehicles marketed as fully self-driving actually have advanced driver-assistance systems (ADAS), which can confuse drivers, warns Waymo's safety chief.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2021/05/25/op-ed-waymo-warns-misusing-term-self-driving-can-be-unsafe.html",
-      "originalUrl": "https://www.cnbc.com/2021/05/25/op-ed-waymo-warns-misusing-term-self-driving-can-be-unsafe.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 90,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/105098635-IMG_0057.jpg?v=1522347530",
-          "width": 1000,
-          "height": 667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2021/05/25/op-ed-waymo-warns-misusing-term-self-driving-can-be-unsafe.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/05/25/op-ed-waymo-warns-misusing-term-self-driving-can-be-unsafe.html",
-      "publishedDateTime": "2021-05-25T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

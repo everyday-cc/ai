@@ -2,6 +2,125 @@
   "page": 32,
   "value": [
     {
+      "path": "_news/2021-06-08-can-ai-and-cloud-automation-slash-a-cloud-bill-in-half.md",
+      "title": "Can AI and cloud automation slash a cloud bill in half?",
+      "excerpt": "Many companies don’t realize how dramatically their cloud spend can increase given that those expenses aren’t charged up-front.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/06/08/can-ai-and-cloud-automation-slash-a-cloud-bill-in-half/",
+      "originalUrl": "https://venturebeat.com/2021/06/08/can-ai-and-cloud-automation-slash-a-cloud-bill-in-half/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/05/cloud.money_.GettyImages-627546267-e1622706374516.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/06/08/can-ai-and-cloud-automation-slash-a-cloud-bill-in-half/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/08/can-ai-and-cloud-automation-slash-a-cloud-bill-in-half/amp/",
+      "publishedDateTime": "2021-06-08T08:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-08-snowflake-announces-new-features-to-bring-together-the-worlds-data-in-the-data-cloud-seite-2.md",
+      "title": "Snowflake Announces New Features to Bring Together the World’s Data in the Data Cloud - Seite 2",
+      "excerpt": "In addition, Amazon Web Services (AWS) has launched Snowflake integration with Amazon SageMaker Data Wrangler. Starting today, you can now use Snowflake as a data source in Amazon SageMaker Data ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wallstreet-online.de/nachricht/14015672-snowflake-announces-new-features-to-bring-together-the-world-s-data-the-data-cloud/2",
+      "originalUrl": "https://www.wallstreet-online.de/nachricht/14015672-snowflake-announces-new-features-to-bring-together-the-world-s-data-the-data-cloud/2",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wallstreet-online.de/_amp/nachricht/14015672-snowflake-announces-new-features-to-bring-together-the-world-s-data-the-data-cloud",
+      "cdnAmpWebUrl": "https://www-wallstreet--online-de.cdn.ampproject.org/c/s/www.wallstreet-online.de/_amp/nachricht/14015672-snowflake-announces-new-features-to-bring-together-the-world-s-data-the-data-cloud",
+      "publishedDateTime": "2021-06-08T08:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "wallstreet online",
+        "domain": "wallstreet-online.de",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-08-kanverseai-launches-the-emerald-release-of-its-intelligent-document-processing-product-idp-focused-on-empowering-teams-through-collaboration.md",
+      "title": "Kanverse.ai Launches the Emerald release of its Intelligent Document Processing Product (IDP) Focused on Empowering Teams Through Collaboration",
+      "excerpt": "CPO Quote \"Collaboration is a game changer in digitizing Enterprise document processing workflows. With Emerald release AI powered Kanverse IDP introduces powerful features that e",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/2021/06/08/9386295.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/2021/06/08/9386295.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-08T07:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-08-croatias-gideon-brothers-raises-31m-for-its-3d-vision-enabled-autonomous-warehouse-robots.md",
       "title": "Croatia’s Gideon Brothers raises $31M for its 3D vision-enabled autonomous warehouse robots",
       "excerpt": "Proving that Central and Eastern Europe remains a powerhouse of hardware engineering matched with software, Gideon Brothers (GB), a Zagreb, Croatia-based robotics and AI startup, has raised a $31 million Series A round led by Koch Disruptive Technologies (KDT),",
@@ -1006,163 +1125,6 @@
         "Computer Vision",
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2021-06-08-the-future-of-wall-street-fintech-50-2021.md",
-      "title": "The Future Of Wall Street: Fintech 50 2021",
-      "excerpt": "The firm is one of the honorees on the Forbes’ 2021 Fintech 50 List, our ranking of the most promising private financial technology companies. Across finance, listmakers are revolutionizing the way people spend,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/antoinegara/2021/06/08/the-future-of-wall-street-fintech-50-2021/",
-      "originalUrl": "https://www.forbes.com/sites/antoinegara/2021/06/08/the-future-of-wall-street-fintech-50-2021/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60b91b7330062e83c8f4391e%2F0x0.jpg",
-          "width": 1200,
-          "height": 801,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/antoinegara/2021/06/08/the-future-of-wall-street-fintech-50-2021/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/antoinegara/2021/06/08/the-future-of-wall-street-fintech-50-2021/amp/",
-      "publishedDateTime": "2021-06-08T03:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-08-uber-veteran-launches-her-ai-mindset-self-driving-startup-with-835-million-round.md",
-      "title": "Uber Veteran Launches Her ‘AI Mindset’ Self-Driving Startup With $83.5 Million Round",
-      "excerpt": "Computer scientist Raquel Urtasan is launching tech startup Waabi in a period when self-driving technology companies are consolidating.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/alanohnsman/2021/06/08/uber-veteran-launches-her-ai-mindset-self-driving-startup-with-835-million-round/",
-      "originalUrl": "https://www.forbes.com/sites/alanohnsman/2021/06/08/uber-veteran-launches-her-ai-mindset-self-driving-startup-with-835-million-round/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 172,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60beb59f7d4b6746dc9645a6%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D3000%26cropY1%3D4%26cropY2%3D1692",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/alanohnsman/2021/06/08/uber-veteran-launches-her-ai-mindset-self-driving-startup-with-835-million-round/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/alanohnsman/2021/06/08/uber-veteran-launches-her-ai-mindset-self-driving-startup-with-835-million-round/amp/",
-      "publishedDateTime": "2021-06-08T03:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-08-man-group-oxford-quants-say-their-ai-can-predict-stock-moves.md",
-      "title": "Man Group-Oxford Quants Say Their AI Can Predict Stock Moves",
-      "excerpt": "Man Group Plc-backed researchers at the University of Oxford say they’ve created a machine-learning program that can project how share prices move -- notching an 80% success rate for the equivalent of about 30 seconds of live trading.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/news/articles/2021-06-08/man-group-oxford-quants-say-their-ai-can-predict-stock-moves",
-      "originalUrl": "https://www.bloomberg.com/news/articles/2021-06-08/man-group-oxford-quants-say-their-ai-can-predict-stock-moves",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iiH2XKvnMNIA/v0/1200x935.jpg",
-          "width": 1200,
-          "height": 935,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-08T02:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Natural Language Processing"
       ]
     }
   ],

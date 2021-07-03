@@ -8,8 +8,8 @@ webUrl: "https://www.washingtonpost.com/technology/2021/07/01/beer-cooler-robot/
 ampWebUrl: "https://www.washingtonpost.com/technology/2021/07/01/beer-cooler-robot/?outputType=amp"
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/technology/2021/07/01/beer-cooler-robot/?outputType=amp"
 type: article
-quality: 72
-heat: 72
+quality: 172
+heat: 172
 published: true
 
 provider:
@@ -26,6 +26,6 @@ images:
     height: 960
     isCached: true
 
-secured: "OwDs8YhORiNaEJrUUSUB/DfiMqCZ3Z7iNuAE0sPSyt5NN4pijMRcfnH2HqZC+HvzmjdgGD3zvs4OONVjnyfCZ58Yj0BJuH85s/JmmT7l1BvhzMOHiFkeDzag3rP7r+EO48l00u45sgKDiiXxYsyrSRCwYDRu/WJRTGeXO/OSRxsCshMatqWheGHOgAZ919eacCOOrQTm3XRTLCHkXK4R86eDQuLhwRZ9dhzICZocY05K63MfNZ5cQ/OWDxROqJHjTMgYirWzmSFd+l40jmrqyI/yez7lqbTvoryrGuPAVCgl9oerK7aZLr8roh9936NVw4wlCYFPn8m+Xaa8BbfUSTMAXjw0HK7K0FvRKEhKo76YncLCgmMNLU4/DpRpsFY5vDEkU5mJeclSjwidl4IaP2to2J5cTmzGYEpyQNbuhMyb/rD8SvhICsMgP521HbIjuEtw0nPXXmzLFaSAZyhuAh0pMH3+bAZ6VFgyKL7ayO0mN8jW8wzOjp250wgjAo9egJCU3hub7ZLNG4RtHBJHXw==;Qa4lixG5K1rN3qxGnjgR1g=="
+secured: "X0is0ChCTJmYqfKnvMnXlXR5l3bHoO4QZfltxGJhpfEzQg/H74+0FMwIx5gYeciAOrD5AmyN9q9UkEafxrkjZfYRfIgi85tW0NZi1UF+bUZGy2nA6gcHaQvnBtdFznkrPu1/pLiLE+85z1fS1lPklOGu36bXrFH0JE5+B5OP1Zj5xpCFdCf/WSyBEpL+pUax23nW+WWRaxd4f+DnoUQx9D2hjXCLSMjCWhmM9yWGqA1aiKDcNcCIQDduCdZqNzR5I2Yp4etoj1PsHdkJ7PJY2dCrZzowEbvSSw4ROruzrSSgbs63p31yBBN1vBuXfHMpwbUcbuPhNwrcuVJj25JokqU5znYb8KoiMDc3v2byvXjLBJAJxbxNhwB//KmdFPDLBA1MtO9hR1TBaX1AB8JB5IEVN1uu7FJePKyp8ujwqXMW7UPGH+se4VZQrvwm5JHJVLSasPwW8iBSCYT4K8IEy5E/ycEcjDjFvcecqyUKvdA2J+u+SCWFS21I8I0WMeenI/AxYeexIs4IngF5s85uiG8goqEGIbFeWchIP72BG40=;AAaLbP6cJCVDI93O3oa0MA=="
 ---
 

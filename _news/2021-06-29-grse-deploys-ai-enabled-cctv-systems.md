@@ -9,8 +9,8 @@ ampWebUrl: "https://telecom.economictimes.indiatimes.com/amp/news/grse-deploys-a
 cdnAmpWebUrl: "https://telecom-economictimes-indiatimes-com.cdn.ampproject.org/c/s/telecom.economictimes.indiatimes.com/amp/news/grse-deploys-ai-enabled-cctv-systems/83945288"
 type: article
 quality: 57
-heat: 77
-published: true
+heat: 67
+published: false
 
 provider:
   name: India Times
@@ -26,22 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "In-Car AI Audio Systems"
-    excerpt: "Bentley’s new all-electric Grand Tourers will have an adaptive music system that uses artificial intelligence to compose audio in real-time."
-    publishedDateTime: 2021-06-29T03:08:00Z
-    webUrl: "https://www.trendhunter.com/trends/adaptive-music"
-    ampWebUrl: "https://www.trendhunter.com/amp/trends/adaptive-music"
-    cdnAmpWebUrl: "https://www-trendhunter-com.cdn.ampproject.org/c/s/www.trendhunter.com/amp/trends/adaptive-music"
-    type: article
-    provider:
-      name: TrendHunter
-      domain: trendhunter.com
-    quality: 57
-    images:
-      - url: "https://cdn.trendhunterstatic.com/thumbs/adaptive-music.jpeg"
-        width: 800
-        height: 533
-        isCached: true
   - title: "Artificial intelligence-enabled surveillance system at warship manufacturer GRSE"
     excerpt: "\"Adopting the latest technology with respect to the security of infrastructure and other assets, defence PSU GRSE has commenced an artificial intelligence-enabled high-end CCTV network across its five units in Kolkata at a cost of Rs 12."
     publishedDateTime: 2021-06-29T09:30:00Z

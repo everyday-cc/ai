@@ -42,22 +42,6 @@ related:
         width: 800
         height: 434
         isCached: true
-  - title: "In-Car AI Audio Systems"
-    excerpt: "Bentley’s new all-electric Grand Tourers will have an adaptive music system that uses artificial intelligence to compose audio in real-time."
-    publishedDateTime: 2021-06-29T03:08:00Z
-    webUrl: "https://www.trendhunter.com/trends/adaptive-music"
-    ampWebUrl: "https://www.trendhunter.com/amp/trends/adaptive-music"
-    cdnAmpWebUrl: "https://www-trendhunter-com.cdn.ampproject.org/c/s/www.trendhunter.com/amp/trends/adaptive-music"
-    type: article
-    provider:
-      name: TrendHunter
-      domain: trendhunter.com
-    quality: 57
-    images:
-      - url: "https://cdn.trendhunterstatic.com/thumbs/adaptive-music.jpeg"
-        width: 800
-        height: 533
-        isCached: true
 
 secured: "lExS8mSBLxSf6TC6NeTlpz7eoEuWzj7hnqFwvkrG7hzkQSavXiH60RcS5OWCCfb2fPUTe2fIl/AROz0bxgGGsKYImvBjH905xQXIVExaNVNSZ/izM1peZoK2KtWkAMpyGZ8NCJaGG+xeXxyHqpmCi0TZzLUZSczdtMelU3XmaxMpyUVTPkZmJeGuWoE5IlWAUVbAeKj09+HV52EEDTglTNWwPgHBYRVy/oHBx/CvKZ6bH1VJis7uuTO/SWVJBHwZmieof+skr57ON+Upwmba8uNMNiTwkpKK3+z9VTnAfahBjxpuDFQiYDAsgCUL4HSXVgiLX7O+B9HdJpjhoXaBf3hEo0BUI9v199UCNg0hgJSBwki5GOTMfSmDlYEu0hvwnerKGh7wcspNnXoX338Au46wN+uN6mNtQ/ql1OL3yd7HwxumO9PP53gwGOpA9VYvMhLkCjNwmTSNWfCcahghPvtH6l8I833ObhMSocOfpk///lixi9ljA02sZHWEk87X9ohtfJs3lUIrDqYEAdmzSA==;QKO5yf9EPQpRC7QTATM1AQ=="
 ---

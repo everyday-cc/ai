@@ -2,6 +2,135 @@
   "page": 64,
   "value": [
     {
+      "path": "_news/2021-05-18-teslas-full-self-driving-under-review-in-us.md",
+      "title": "Tesla’s ‘Full Self-Driving’ under review in U.S.",
+      "excerpt": "Tesla advertises a $10,000 “Full Self-Driving” option on the website for its electric vehicles, but the same website says the vehicles cannot drive themselves. CEO Elon Musk has said he ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.thehindu.com/sci-tech/technology/teslas-full-self-driving-under-review-in-us/article34585513.ece",
+      "originalUrl": "https://www.thehindu.com/sci-tech/technology/teslas-full-self-driving-under-review-in-us/article34585513.ece",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.thehindu.com/sci-tech/technology/if00lc/article33299857.ece/ALTERNATES/LANDSCAPE_615/Teslaleadership",
+          "width": 615,
+          "height": 384,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thehindu.com/sci-tech/technology/teslas-full-self-driving-under-review-in-us/article34585513.ece/amp/",
+      "cdnAmpWebUrl": "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/teslas-full-self-driving-under-review-in-us/article34585513.ece/amp/",
+      "publishedDateTime": "2021-05-18T07:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hindu",
+        "domain": "thehindu.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-18-baidu-baozun-netease-tencent-music-entertainment-and-iqiyi-report-q1-financial-results.md",
+      "title": "Baidu, Baozun, NetEase, Tencent Music Entertainment, And IQIYI Report Q1 Financial Results",
+      "excerpt": "Search giant Baidu (BIDU US and 9888 HK) reported solid Q1 financial results before the US open this morning driven by its core search business. For several years, Baidu has been utilizing the cash thrown off from the core search business to invest in cloud computing,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/brendanahern/2021/05/18/baidu-baozun-netease-tencent-music-entertainment-and-iqiyi-report-q1-financial-results/",
+      "originalUrl": "https://www.forbes.com/sites/brendanahern/2021/05/18/baidu-baozun-netease-tencent-music-entertainment-and-iqiyi-report-q1-financial-results/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60a3cbdb92d5688d7e15615b%2F0x0.jpg",
+          "width": 1200,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/brendanahern/2021/05/18/baidu-baozun-netease-tencent-music-entertainment-and-iqiyi-report-q1-financial-results/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/brendanahern/2021/05/18/baidu-baozun-netease-tencent-music-entertainment-and-iqiyi-report-q1-financial-results/amp/",
+      "publishedDateTime": "2021-05-18T07:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-18-beyond-limits-cognitive-ai-now-available-in-the-microsoft-azure-marketplace.md",
+      "title": "Beyond Limits Cognitive AI now available in the Microsoft Azure Marketplace",
+      "excerpt": "Beyond Limits, an industrial and enterprise-grade AI technology company built for the most demanding sectors, today announced the availability of its Cognitive AI technology in the Microsoft Azure Marketplace.",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/2021/05/18/9371797.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/2021/05/18/9371797.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-18T07:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-18-data-and-ai-operations-startup-coiled-nabs-21m.md",
       "title": "Data and AI operations startup Coiled nabs $21M",
       "excerpt": "Coiled, which offers an AIOps and DevOps platform for enterprises, raised $21 million in venture equity funding.",
@@ -1031,152 +1160,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-18-sogou-launched-worlds-first-ai-sign-language-news-anchor.md",
-      "title": "Sogou Launched World's First AI Sign Language News Anchor",
-      "excerpt": "Sogou Inc. (NYSE:SOGO) (\"Sogou\" or \"the Company\"), an innovator in search and a leader in China's internet industry, announced its launch of world's first AI sign language news anchor in Chinese at 2021 Sohu Tech 5G & AI Conference held in Beijing on May 17th.",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/-sogou-launched-worlds-first-ai-sign-language-news-/2021/05/18/9371204.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/-sogou-launched-worlds-first-ai-sign-language-news-/2021/05/18/9371204.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1512449/Xiao_Cong__the_world_s_first_AI_sign_language_news_anchor.jpg",
-          "width": 400,
-          "height": 223,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-17T22:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-18-google-vertex-ai-unifies-cloud-machine-learning-toolkit.md",
-      "title": "Google Vertex AI unifies cloud machine learning toolkit",
-      "excerpt": "Vertex AI brings together all of the Google Cloud services for building machine learning under one unified UI and API.",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/article/3619215/google-vertex-ai-unifies-cloud-machine-learning-toolkit.html",
-      "originalUrl": "https://www.infoworld.com/article/3619215/google-vertex-ai-unifies-cloud-machine-learning-toolkit.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 164,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2018/06/knowledge_wisdom_learning_ideas_data_thoughts_thinking_mind_brain_intelligence_expertise_education_brainstorm_creativity_innovation_brain_drain_1_by_erhui1979_getty_images_1200x800-100761229-large.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.infoworld.com/article/3619215/google-vertex-ai-unifies-cloud-machine-learning-toolkit.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3619215/google-vertex-ai-unifies-cloud-machine-learning-toolkit.amp.html",
-      "publishedDateTime": "2021-05-17T21:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-18-ready-for-a-world-of-ai-powered-superhuman-precision-its-coming.md",
-      "title": "Ready For A World Of (AI-Powered) Superhuman Precision? It’s Coming",
-      "excerpt": "Can we outstretch our collective hands to AI-controlled robots or will we get our arms ripped off by imprecise electronics? Already, the next generation of scientists are discovering new applications of AI.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/michaelashley/2021/05/18/ready-for-a-world-of-ai-powered-superhuman-precision-its-coming/",
-      "originalUrl": "https://www.forbes.com/sites/michaelashley/2021/05/18/ready-for-a-world-of-ai-powered-superhuman-precision-its-coming/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60a340b069bb6447459aee55%2F0x0.jpg",
-          "width": 1200,
-          "height": 776,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/michaelashley/2021/05/18/ready-for-a-world-of-ai-powered-superhuman-precision-its-coming/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/michaelashley/2021/05/18/ready-for-a-world-of-ai-powered-superhuman-precision-its-coming/amp/",
-      "publishedDateTime": "2021-05-17T21:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

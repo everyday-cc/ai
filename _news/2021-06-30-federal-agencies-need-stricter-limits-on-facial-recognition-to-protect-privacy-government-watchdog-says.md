@@ -181,6 +181,17 @@ related:
       name: Bradenton Herald
       domain: bradenton.com
     quality: 54
+  - title: "Maine law restricts facial recognition technology statewide"
+    excerpt: "A bill touted as the country’s strictest statewide regulation on the use of facial recognition technology has become law in Maine."
+    publishedDateTime: 2021-07-03T17:06:00Z
+    webUrl: "https://www.newsobserver.com/news/technology/article252486663.html"
+    ampWebUrl: "https://amp.newsobserver.com/news/technology/article252486663.html"
+    cdnAmpWebUrl: "https://amp-newsobserver-com.cdn.ampproject.org/c/s/amp.newsobserver.com/news/technology/article252486663.html"
+    type: article
+    provider:
+      name: Raleigh News & Observer
+      domain: newsobserver.com
+    quality: 54
   - title: "Civil rights group sues for records on use of facial recognition at New York prisons"
     excerpt: "A civil rights group has filed suit against the New York Corrections Department for not turning over records on how it uses facial recognition technology on visitors at state lockups."
     publishedDateTime: 2021-07-01T20:38:00Z

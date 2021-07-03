@@ -104,22 +104,6 @@ related:
         width: 650
         height: 365
         isCached: true
-  - title: "Facebook Hits $1 Trillion Market Cap"
-    excerpt: "Facebook has closed above $1 trillion in the market for the first time ever, making it the fifth company to do so after Apple, Microsoft, Amazon and Alphabet."
-    publishedDateTime: 2021-06-29T02:21:00Z
-    webUrl: "https://www.pymnts.com/facebook/2021/facebook-hits-1-trillion-dollar-market-cap/"
-    ampWebUrl: "https://www.pymnts.com/facebook/2021/facebook-hits-1-trillion-dollar-market-cap/amp/"
-    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/facebook/2021/facebook-hits-1-trillion-dollar-market-cap/amp/"
-    type: article
-    provider:
-      name: pymnts.com
-      domain: pymnts.com
-    quality: 44
-    images:
-      - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/06/facebook-3-457x274.jpg"
-        width: 457
-        height: 274
-        isCached: true
 
 secured: "ZWwjRaD1qgeoYSbew9ZWrhnw9UYjIvgTcz1keu5eSSYDQVkjUTKx295l674J/5TAtgOgvIqbbUEwgK13V5lI/MaU+GmDtcD0b9WIbyqluxHjegob2SgElShtsZLd30OPl2tQTZFEdFLAnoEaQvXLALmR/3fUXXE1Q2t0p7xU17gz50Vv4EsOpXVpTNshvqVIzJAoGeXaMV7/Euqm4m131wl+A44EOd0GMyzbmrm7eJ4ll2kas2ciENYfZhmtrxRHSalOb29X/GjwIvghS5QmJyZzeFN8xsJB/z9e1lRFVCIPNLzwVPAuhdNnP/kb939623kwReYUzC6Yal4nfeFMxM30CTCDDMxRUlQxr7w3MrzIznVZkMHPs6kPrKPM2/pLC5/MvppAq9I91oiotJFmfslgtgQkKq5uqtMvtf/LEQ23DlxW6Z66s3PwnRHjdUpDR8J7RAOrWPb55JAn42pWYy9677et2SNiNuxjd/u0vdxtP9FctBWCvPT7XP9WSTW7hSUiafGfU7aff7kssXAg5Q==;94nRU+Cbe4vHkvslM42CKg=="
 ---

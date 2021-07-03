@@ -89,22 +89,6 @@ related:
         width: 800
         height: 460
         isCached: true
-  - title: "Facebook Hits $1 Trillion Market Cap"
-    excerpt: "Facebook has closed above $1 trillion in the market for the first time ever, making it the fifth company to do so after Apple, Microsoft, Amazon and Alphabet."
-    publishedDateTime: 2021-06-29T02:21:00Z
-    webUrl: "https://www.pymnts.com/facebook/2021/facebook-hits-1-trillion-dollar-market-cap/"
-    ampWebUrl: "https://www.pymnts.com/facebook/2021/facebook-hits-1-trillion-dollar-market-cap/amp/"
-    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/facebook/2021/facebook-hits-1-trillion-dollar-market-cap/amp/"
-    type: article
-    provider:
-      name: pymnts.com
-      domain: pymnts.com
-    quality: 44
-    images:
-      - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/06/facebook-3-457x274.jpg"
-        width: 457
-        height: 274
-        isCached: true
   - title: "Facebook makes its Habitat virtual world AI training environment more interactive"
     excerpt: "Facebook Inc.’s artificial intelligence research department today announced a major update to its AI Habitat simulator, a virtual environment that’s used to teach robots how to interact with the physical world."
     publishedDateTime: 2021-06-30T14:30:00Z

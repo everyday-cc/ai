@@ -2,6 +2,58 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2021-06-25-is-machine-learning-the-key-to-unlocking-gen-z-engagement-a-discussion-with-jonathan-jadali-of-ascend.md",
+      "title": "Is Machine Learning The Key To Unlocking Gen Z Engagement? A Discussion With Jonathan Jadali Of Ascend",
+      "excerpt": "The jury is still out on what makes Gen Z’ers tick, but while the research is still ongoing there is much evidence to suggest that a marketing strategy utilizing machine learning is exponentially more effective with the next generation.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/anniebrown/2021/06/24/is-machine-learning-the-key-to-unlocking-gen-z-engagement-a-discussion-with-jonathan-jadali-of-ascend/",
+      "originalUrl": "https://www.forbes.com/sites/anniebrown/2021/06/24/is-machine-learning-the-key-to-unlocking-gen-z-engagement-a-discussion-with-jonathan-jadali-of-ascend/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60d5098c2702bcb12baf4077%2F0x0.jpg",
+          "width": 1200,
+          "height": 801,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/anniebrown/2021/06/24/is-machine-learning-the-key-to-unlocking-gen-z-engagement-a-discussion-with-jonathan-jadali-of-ascend/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/anniebrown/2021/06/24/is-machine-learning-the-key-to-unlocking-gen-z-engagement-a-discussion-with-jonathan-jadali-of-ascend/amp/",
+      "publishedDateTime": "2021-06-24T15:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-25-nwtc-trains-next-generation-at-artificial-intelligence-bootcamp.md",
       "title": "NWTC trains next generation at Artificial Intelligence Bootcamp",
       "excerpt": "Have you ever wondered how Siri recognizes your voice? Green Bay high school students are getting a hands-on lesson in Artificial Intelligence. Northeast Wisconsin",
@@ -990,24 +1042,33 @@
     {
       "path": "_news/2021-06-24-pitney-bowes-to-deploy-ambi-robotics-ai-powered-robots-in-us-to-support-global-ecommerce-network.md",
       "title": "Pitney Bowes to Deploy Ambi Robotics AI-Powered Robots in US to Support Global Ecommerce Network",
-      "excerpt": "Pitney Bowes Inc., a global technology company providing commerce solutions that power billions of transactions in the areas of ecommerce, shipping, m",
+      "excerpt": "Pitney Bowes Inc., a global technology company providing commerce solutions that power billions of transactions in the areas of ecommerce, shipping, mailing, and financial services, today announced plans to deploy AmbiSort robots,",
       "sourceUrl": null,
-      "webUrl": "https://www.businesswire.com/news/home/20210624005375/en/Pitney-Bowes-to-Deploy-Ambi-Robotics-AI-Powered-Robots-in-US-to-Support-Global-Ecommerce-Network",
-      "originalUrl": "https://www.businesswire.com/news/home/20210624005375/en/Pitney-Bowes-to-Deploy-Ambi-Robotics-AI-Powered-Robots-in-US-to-Support-Global-Ecommerce-Network",
+      "webUrl": "https://www.wfmz.com/news/ap/ap-business/pitney-bowes-to-deploy-ambi-robotics-ai-powered-robots-in-us-to-support-global-ecommerce/article_c4486991-c52a-5cba-bff2-cd9d8993a47e.html",
+      "originalUrl": "https://www.wfmz.com/news/ap/ap-business/pitney-bowes-to-deploy-ambi-robotics-ai-powered-robots-in-us-to-support-global-ecommerce/article_c4486991-c52a-5cba-bff2-cd9d8993a47e.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/1/09/109d77c8-a482-585a-9b1e-617b0cd75580/60d482491c452.image.jpg?resize=1055%2C630",
+          "width": 1055,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-24T05:55:00-07:00",
+      "publishedDateTime": "2021-06-24T05:56:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
+        "name": "WFMZ-TV",
+        "domain": "wfmz.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1095,57 +1156,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-24-wimbledon-hopes-to-turn-casual-viewers-into-tennis-fanatics-with-ai-powered-digital-services.md",
-      "title": "Wimbledon Hopes To Turn Casual Viewers Into Tennis Fanatics With AI-Powered Digital Services",
-      "excerpt": "Wimbledon has long viewed digital as essential to maintaining its status as the most prestigious grand slam. This year, it plans to convert casual fans into experts through its digital applications.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/stevemccaskill/2021/06/24/wimbledon-hopes-to-turn-casual-viewers-into-tennis-fanatics-with-ai-powered-digital-services/",
-      "originalUrl": "https://www.forbes.com/sites/stevemccaskill/2021/06/24/wimbledon-hopes-to-turn-casual-viewers-into-tennis-fanatics-with-ai-powered-digital-services/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60d47948682dbab47bf2f788%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/stevemccaskill/2021/06/24/wimbledon-hopes-to-turn-casual-viewers-into-tennis-fanatics-with-ai-powered-digital-services/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stevemccaskill/2021/06/24/wimbledon-hopes-to-turn-casual-viewers-into-tennis-fanatics-with-ai-powered-digital-services/amp/",
-      "publishedDateTime": "2021-06-24T05:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }
