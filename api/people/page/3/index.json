@@ -4,6 +4,88 @@
   "page": 3,
   "value": [
     {
+      "path": "_people/josh-cogan.md",
+      "title": "Josh Cogan",
+      "excerpt": "PhD Physics, Stanford University",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/josh-cogan/index.json",
+      "webUrl": "https://everyday.cc/ai/people/josh-cogan/",
+      "type": "profile",
+      "name": "Josh Cogan",
+      "bio": "PhD Physics, Stanford University",
+      "googleScholar": {
+        "url": "https://scholar.google.com/citations?user=_EPCKe0AAAAJ",
+        "citations": 194632
+      },
+      "affiliation": {
+        "path": "",
+        "name": "Stanford",
+        "domain": "stanford.edu",
+        "images": [
+          {
+            "url": "/assets/images/organizations/stanford.edu-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          },
+          {
+            "url": "/assets/images/organizations/stanford.edu-400x400.jpg",
+            "width": 400,
+            "height": 400,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://scholar.google.com/citations?view_op=view_photo&user=_EPCKe0AAAAJ&citpid=2",
+          "width": 128,
+          "height": 84,
+          "title": "Josh Cogan",
+          "isCached": false
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_people/kalyanmoy-deb.md",
+      "title": "Kalyanmoy Deb",
+      "excerpt": "Koenig Endowed Chair Professor, Electrical and Computer Engineering, Michigan State …",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/kalyanmoy-deb/index.json",
+      "webUrl": "https://everyday.cc/ai/people/kalyanmoy-deb/",
+      "type": "profile",
+      "name": "Kalyanmoy Deb",
+      "bio": "Koenig Endowed Chair Professor, Electrical and Computer Engineering, Michigan State …",
+      "googleScholar": {
+        "url": "https://scholar.google.com/citations?user=paTAXiIAAAAJ",
+        "citations": 161681
+      },
+      "affiliation": {
+        "path": "",
+        "name": "msu.edu",
+        "domain": "msu.edu"
+      },
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://scholar.google.com/citations?view_op=view_photo&user=paTAXiIAAAAJ&citpid=3",
+          "width": 116,
+          "height": 127,
+          "title": "Kalyanmoy Deb",
+          "isCached": false
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
       "path": "_people/karl-iagnemma.md",
       "title": "Karl Iagnemma",
       "excerpt": "Karl Iagnemma is an American writer and research scientist. He is also the CEO of self-driving technology company NuTonomy.",
@@ -503,6 +585,44 @@
       "content": "\r\n"
     },
     {
+      "path": "_people/sougwen-chung.md",
+      "title": "Sougwen Chung",
+      "excerpt": "Chung's work explores the mark-made-by-hand and the mark-made-by-machine as an approach to understanding the dynamics of humans and systems. Chung is a former research fellow at MIT’s Media Lab and a pioneer in the field of human-machine collaboration. In 2019, she was selected as the Woman of the Year in Monaco for achievement in the Arts & Sciences.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/sougwen-chung/index.json",
+      "webUrl": "https://everyday.cc/ai/people/sougwen-chung/",
+      "type": "profile",
+      "name": "Sougwen Chung",
+      "bio": "Chung's work explores the mark-made-by-hand and the mark-made-by-machine as an approach to understanding the dynamics of humans and systems. Chung is a former research fellow at MIT’s Media Lab and a pioneer in the field of human-machine collaboration. In 2019, she was selected as the Woman of the Year in Monaco for achievement in the Arts & Sciences.",
+      "location": "New York, New York",
+      "website": "https://sougwen.com/",
+      "twitter": {
+        "username": "sougwen",
+        "url": "https://twitter.com/sougwen",
+        "followers": 8980
+      },
+      "linkedin": {
+        "url": "https://www.linkedin.com/in/sougwenchung/"
+      },
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ],
+      "heat": 50,
+      "tags": [
+        "Artist"
+      ],
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/654747413152821248/AAyCfd5Q_400x400.png",
+          "width": 400,
+          "height": 400,
+          "title": "Sougwen Chung",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
       "path": "_people/stuart-j-russell.md",
       "title": "Stuart J. Russell",
       "excerpt": "Stuart Jonathan Russell is a computer scientist known for his contributions to artificial intelligence. He is a Professor of Computer Science at the University of California, Berkeley and Adjunct Professor of Neurological Surgery at the University of California, San Francisco. ",
@@ -569,98 +689,160 @@
       "content": "\r\n"
     },
     {
-      "path": "_people/alice-agogino.md",
-      "title": "Alice M. Agogino",
-      "excerpt": "Engineering professor in human-centered design, sustainable design, computational thinking, new media. Founder of the Engineering Pathway",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/alice-agogino/index.json",
-      "webUrl": "https://everyday.cc/ai/people/alice-agogino/",
-      "type": "profile",
-      "name": "Alice M. Agogino",
-      "bio": "Engineering professor in human-centered design, sustainable design, computational thinking, new media. Founder of the Engineering Pathway",
-      "location": "UC Berkeley",
-      "website": "https://me.berkeley.edu/people/alice-m-agogino/",
-      "twitter": {
-        "username": "agogino",
-        "url": "https://twitter.com/agogino",
-        "followers": 1463
-      },
+      "path": "_people/collections/top-ai-artists.md",
+      "title": "Top AI Artists",
+      "excerpt": "Top artists exploring the impact of AI on art, culture and society.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/collections/top-ai-artists/index.json",
+      "webUrl": "https://everyday.cc/ai/people/collections/top-ai-artists/",
+      "type": "collection",
+      "name": "Top AI Artists",
+      "bio": "Top artists exploring the impact of AI on art, culture and society.",
       "topics": [
-        "AI",
-        "AI in Robotics"
+        "AI"
       ],
-      "heat": 32,
+      "topItems": [
+        {
+          "path": "",
+          "title": "Joy Buolamwini",
+          "excerpt": "Joy Adowaa Buolamwini is a Ghanaian-American computer scientist and digital activist based at the MIT Media Lab. She founded the Algorithmic Justice League, an organisation that looks to challenge bias in decision making software.",
+          "type": "profile",
+          "name": "Joy Buolamwini",
+          "bio": "Joy Adowaa Buolamwini is a Ghanaian-American computer scientist and digital activist based at the MIT Media Lab. She founded the Algorithmic Justice League, an organisation that looks to challenge bias in decision making software.",
+          "topics": [
+            "AI"
+          ],
+          "heat": 239,
+          "images": [
+            {
+              "url": "https://pbs.twimg.com/profile_images/1218584329540063233/DkdIuybw_400x400.jpg",
+              "width": 400,
+              "height": 400,
+              "title": "Joy Buolamwini",
+              "isCached": true
+            }
+          ]
+        },
+        {
+          "path": "",
+          "title": "Sougwen Chung",
+          "excerpt": "Chung's work explores the mark-made-by-hand and the mark-made-by-machine as an approach to understanding the dynamics of humans and systems. Chung is a former research fellow at MIT’s Media Lab and a pioneer in the field of human-machine collaboration. In 2019, she was selected as the Woman of the Year in Monaco for achievement in the Arts & Sciences.",
+          "type": "profile",
+          "name": "Sougwen Chung",
+          "bio": "Chung's work explores the mark-made-by-hand and the mark-made-by-machine as an approach to understanding the dynamics of humans and systems. Chung is a former research fellow at MIT’s Media Lab and a pioneer in the field of human-machine collaboration. In 2019, she was selected as the Woman of the Year in Monaco for achievement in the Arts & Sciences.",
+          "topics": [
+            "AI",
+            "AI in Robotics"
+          ],
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://pbs.twimg.com/profile_images/654747413152821248/AAyCfd5Q_400x400.png",
+              "width": 400,
+              "height": 400,
+              "title": "Sougwen Chung",
+              "isCached": true
+            }
+          ]
+        },
+        {
+          "path": "",
+          "title": "Taryn Southern",
+          "excerpt": "AI artist | futurist | storyteller | recovering youtuber. Follow my documentary @iamhuman for screenings/release dates. AI album: http://bit.ly/iamAI",
+          "type": "profile",
+          "name": "Taryn Southern",
+          "bio": "AI artist | futurist | storyteller | recovering youtuber. Follow my documentary @iamhuman for screenings/release dates. AI album: http://bit.ly/iamAI",
+          "topics": [
+            "AI"
+          ],
+          "heat": 21,
+          "images": [
+            {
+              "url": "https://pbs.twimg.com/profile_images/899673407423356928/Y0ZP2-I7_400x400.jpg",
+              "width": 400,
+              "height": 400,
+              "title": "Taryn Southern",
+              "isCached": true
+            }
+          ]
+        }
+      ],
+      "size": 3,
+      "heat": 50,
       "images": [
         {
-          "url": "https://pbs.twimg.com/profile_images/429713639285596161/D0ReK5-6_400x400.jpeg",
+          "url": "https://pbs.twimg.com/profile_images/1218584329540063233/DkdIuybw_400x400.jpg",
           "width": 400,
           "height": 400,
-          "title": "Alice M. Agogino",
+          "title": "Joy Buolamwini",
           "isCached": true
         }
       ],
       "content": "\r\n"
     },
     {
-      "path": "_people/carol-e-reiley.md",
-      "title": "Carol E. Reiley",
-      "excerpt": "Entrepreneur/Scientist/Roboticist. Saving the world, one robot at a time. Cofounder & CEO of healthcare startup. Board member & Advisor of http://drive.ai.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/carol-e-reiley/index.json",
-      "webUrl": "https://everyday.cc/ai/people/carol-e-reiley/",
+      "path": "_people/rana-el-kaliouby.md",
+      "title": "Rana el Kaliouby",
+      "excerpt": "Entrepreneur. Scientist. Co-founder and CEO @Affectiva. On a mission to humanize technology with #EmotionAI - YGL @WEF. #HumanFirst",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/rana-el-kaliouby/index.json",
+      "webUrl": "https://everyday.cc/ai/people/rana-el-kaliouby/",
       "type": "profile",
-      "name": "Carol E. Reiley",
-      "bio": "Entrepreneur/Scientist/Roboticist. Saving the world, one robot at a time. Cofounder & CEO of healthcare startup. Board member & Advisor of http://drive.ai.",
-      "location": "Los Altos, CA",
-      "website": "https://t.co/wvvOUl1h5W",
+      "name": "Rana el Kaliouby",
+      "bio": "Entrepreneur. Scientist. Co-founder and CEO @Affectiva. On a mission to humanize technology with #EmotionAI - YGL @WEF. #HumanFirst",
+      "location": "Boston",
+      "website": "https://t.co/CptEKpnJzd",
       "twitter": {
-        "username": "robot_MD",
-        "url": "https://twitter.com/robot_MD",
-        "followers": 11648
+        "username": "kaliouby",
+        "url": "https://twitter.com/kaliouby",
+        "followers": 24119
       },
       "linkedin": {
-        "url": "https://www.linkedin.com/in/carol-reiley-7a91072/"
+        "url": "https://www.linkedin.com/in/kaliouby/"
       },
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ],
-      "heat": 32,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/999169921744486400/Vo0GZHaC_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Carol E. Reiley",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_people/noramay-cadena.md",
-      "title": "Noramay Cadena",
-      "excerpt": "Cofounder & Managing Partner @MiLACapital | MIT grad*3 | Former @Boeing | Cofounder @LatinasinSTEM | @KauffmanFellows Class 23",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/noramay-cadena/index.json",
-      "webUrl": "https://everyday.cc/ai/people/noramay-cadena/",
-      "type": "profile",
-      "name": "Noramay Cadena",
-      "bio": "Cofounder & Managing Partner @MiLACapital | MIT grad*3 | Former @Boeing | Cofounder @LatinasinSTEM | @KauffmanFellows Class 23",
-      "location": "Los Angeles, CA",
-      "website": "https://t.co/t9CFIWFMbw",
-      "twitter": {
-        "username": "noramayc",
-        "url": "https://twitter.com/noramayc",
-        "followers": 17441
+      "wikipedia": {
+        "url": "https://en.wikipedia.org/wiki/Rana_el_Kaliouby"
       },
       "topics": [
         "AI"
       ],
+      "heat": 33,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/667860223512612864/sK_qnOSx_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Rana el Kaliouby",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_people/madeline-gannon.md",
+      "title": "Madeline Gannon",
+      "excerpt": "Inventing better ways to communicate with machines.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/madeline-gannon/index.json",
+      "webUrl": "https://everyday.cc/ai/people/madeline-gannon/",
+      "type": "profile",
+      "name": "Madeline Gannon",
+      "bio": "Inventing better ways to communicate with machines.",
+      "location": "Pittsburgh, PA",
+      "website": "https://t.co/It4puKUIPF",
+      "twitter": {
+        "username": "madelinegannon",
+        "url": "https://twitter.com/madelinegannon",
+        "followers": 3110
+      },
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ],
       "heat": 32,
       "images": [
         {
-          "url": "https://pbs.twimg.com/profile_images/836441713497391104/Aj6W5UHO_400x400.jpg",
+          "url": "https://pbs.twimg.com/profile_images/852213397386969088/8zewUndt_400x400.jpg",
           "width": 400,
           "height": 400,
-          "title": "Noramay Cadena",
+          "title": "Madeline Gannon",
           "isCached": true
         }
       ],
@@ -711,193 +893,6 @@
       "content": "\r\n"
     },
     {
-      "path": "_people/sebastian-thrun.md",
-      "title": "Sebastian Thrun",
-      "excerpt": "Sebastian Thrun is an innovator, entrepreneur educator, and computer scientist from Germany. He is CEO of the Kitty Hawk Corporation, chairman and co-founder of Udacity. Before that, he was a Google VP and Fellow, a Professor of Computer Science at Stanford University, and before that at Carnegie Mellon University.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/sebastian-thrun/index.json",
-      "webUrl": "https://everyday.cc/ai/people/sebastian-thrun/",
-      "type": "profile",
-      "name": "Sebastian Thrun",
-      "bio": "Sebastian Thrun is an innovator, entrepreneur educator, and computer scientist from Germany. He is CEO of the Kitty Hawk Corporation, chairman and co-founder of Udacity. Before that, he was a Google VP and Fellow, a Professor of Computer Science at Stanford University, and before that at Carnegie Mellon University.",
-      "location": "Mountain View, CA",
-      "website": "https://t.co/rlrjbh9s51",
-      "twitter": {
-        "username": "SebastianThrun",
-        "url": "https://twitter.com/SebastianThrun",
-        "followers": 77175
-      },
-      "googleScholar": {
-        "url": "https://scholar.google.com/citations?user=7K34d7cAAAAJ",
-        "citations": 126600
-      },
-      "wikipedia": {
-        "url": "https://en.wikipedia.org/wiki/Sebastian_Thrun"
-      },
-      "affiliation": {
-        "path": "",
-        "name": "Stanford",
-        "domain": "stanford.edu",
-        "images": [
-          {
-            "url": "/assets/images/organizations/stanford.edu-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          },
-          {
-            "url": "/assets/images/organizations/stanford.edu-400x400.jpg",
-            "width": 400,
-            "height": 400,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ],
-      "heat": 20,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/459372432806014977/ftbXtMDO_400x400.png",
-          "width": 400,
-          "height": 400,
-          "title": "Sebastian Thrun",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_people/kai-fu-lee.md",
-      "title": "Kai-Fu Lee",
-      "excerpt": "Kai-Fu Lee is a Taiwanese-born American computer scientist, businessman, and writer. He is currently based in Beijing, China. Lee developed the world's first speaker-independent, continuous speech recognition system as his Ph.D. thesis at Carnegie Mellon. ",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/kai-fu-lee/index.json",
-      "webUrl": "https://everyday.cc/ai/people/kai-fu-lee/",
-      "type": "profile",
-      "name": "Kai-Fu Lee",
-      "bio": "Kai-Fu Lee is a Taiwanese-born American computer scientist, businessman, and writer. He is currently based in Beijing, China. Lee developed the world's first speaker-independent, continuous speech recognition system as his Ph.D. thesis at Carnegie Mellon. ",
-      "location": "Beijing, China",
-      "website": "https://t.co/1QmLHUi5s4",
-      "twitter": {
-        "username": "kaifulee",
-        "url": "https://twitter.com/kaifulee",
-        "followers": 1523591
-      },
-      "googleScholar": {
-        "url": "https://scholar.google.com/citations?user=lm2nBYkAAAAJ",
-        "citations": 17571
-      },
-      "weibo": {
-        "url": "https://www.weibo.com/kaifulee",
-        "followers": 51934864
-      },
-      "wikipedia": {
-        "url": "https://en.wikipedia.org/wiki/Kai-Fu_Lee"
-      },
-      "affiliation": {
-        "path": "",
-        "name": "Sinovation Ventures",
-        "domain": "sinovationventures.com"
-      },
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ],
-      "heat": 0,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1016438132844032001/d6QB0d6c_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Kai-Fu Lee",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_people/rosalind-picard.md",
-      "title": "Rosalind Picard",
-      "excerpt": "Rosalind Wright Picard is an American scholar who is Professor of Media Arts and Sciences at MIT, founder and director of the Affective Computing Research Group at the MIT Media Lab, and co-founder of the startups Affectiva and Empatica.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/rosalind-picard/index.json",
-      "webUrl": "https://everyday.cc/ai/people/rosalind-picard/",
-      "type": "profile",
-      "name": "Rosalind Picard",
-      "bio": "Rosalind Wright Picard is an American scholar who is Professor of Media Arts and Sciences at MIT, founder and director of the Affective Computing Research Group at the MIT Media Lab, and co-founder of the startups Affectiva and Empatica.",
-      "location": "Cambridge, MA",
-      "website": "http://t.co/M6c0l3S5lb",
-      "twitter": {
-        "username": "rosalindpicard",
-        "url": "https://twitter.com/rosalindpicard",
-        "followers": 11499
-      },
-      "linkedin": {
-        "url": "https://www.linkedin.com/in/rosalind-picard-0111bb/"
-      },
-      "googleScholar": {
-        "url": "https://scholar.google.com/citations?user=1-hcASEAAAAJ",
-        "citations": 66116
-      },
-      "affiliation": {
-        "path": "",
-        "name": "MIT",
-        "domain": "mit.edu"
-      },
-      "topics": [
-        "AI"
-      ],
-      "heat": 0,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/423189890545643520/w6Fjk14f_400x400.png",
-          "width": 400,
-          "height": 400,
-          "title": "Rosalind Picard",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_people/sougwen-chung.md",
-      "title": "Sougwen Chung",
-      "excerpt": "Chung's work explores the mark-made-by-hand and the mark-made-by-machine as an approach to understanding the dynamics of humans and systems. Chung is a former research fellow at MIT’s Media Lab and a pioneer in the field of human-machine collaboration. In 2019, she was selected as the Woman of the Year in Monaco for achievement in the Arts & Sciences.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/sougwen-chung/index.json",
-      "webUrl": "https://everyday.cc/ai/people/sougwen-chung/",
-      "type": "profile",
-      "name": "Sougwen Chung",
-      "bio": "Chung's work explores the mark-made-by-hand and the mark-made-by-machine as an approach to understanding the dynamics of humans and systems. Chung is a former research fellow at MIT’s Media Lab and a pioneer in the field of human-machine collaboration. In 2019, she was selected as the Woman of the Year in Monaco for achievement in the Arts & Sciences.",
-      "location": "New York, New York",
-      "website": "https://sougwen.com/",
-      "twitter": {
-        "username": "sougwen",
-        "url": "https://twitter.com/sougwen",
-        "followers": 8980
-      },
-      "linkedin": {
-        "url": "https://www.linkedin.com/in/sougwenchung/"
-      },
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ],
-      "heat": 0,
-      "tags": [
-        "Artist"
-      ],
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/654747413152821248/AAyCfd5Q_400x400.png",
-          "width": 400,
-          "height": 400,
-          "title": "Sougwen Chung",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
       "path": "_people/taryn-southern.md",
       "title": "Taryn Southern",
       "excerpt": "AI artist | futurist | storyteller | recovering youtuber. Follow my documentary @iamhuman for screenings/release dates. AI album: http://bit.ly/iamAI",
@@ -911,7 +906,7 @@
       "twitter": {
         "username": "TarynSouthern",
         "url": "https://twitter.com/TarynSouthern",
-        "followers": 65674
+        "followers": 65673
       },
       "linkedin": {
         "url": "https://www.linkedin.com/in/tarynsouthern/"
@@ -919,7 +914,7 @@
       "topics": [
         "AI"
       ],
-      "heat": 0,
+      "heat": 21,
       "tags": [
         "Artist"
       ],
@@ -929,6 +924,67 @@
           "width": 400,
           "height": 400,
           "title": "Taryn Southern",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_people/mariya-yao.md",
+      "title": "Mariya Yao",
+      "excerpt": "Editor-In-Chief @TOPBOTS. Former CTO @MetamavenAI. #AI #ML @Forbes writer, speaker, author @AppliedAIBook, maker of lovable #UX & crappy #bots",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/mariya-yao/index.json",
+      "webUrl": "https://everyday.cc/ai/people/mariya-yao/",
+      "type": "profile",
+      "name": "Mariya Yao",
+      "bio": "Editor-In-Chief @TOPBOTS. Former CTO @MetamavenAI. #AI #ML @Forbes writer, speaker, author @AppliedAIBook, maker of lovable #UX & crappy #bots",
+      "website": "https://mariyayao.com/",
+      "twitter": {
+        "username": "thinkmariya",
+        "url": "https://twitter.com/thinkmariya",
+        "followers": 27972
+      },
+      "topics": [
+        "AI"
+      ],
+      "heat": 7,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1299418419830300672/tjPuomYA_400x400.png",
+          "width": 400,
+          "height": 400,
+          "title": "Mariya Yao",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_people/noramay-cadena.md",
+      "title": "Noramay Cadena",
+      "excerpt": "Cofounder & Managing Partner @MiLACapital | MIT grad*3 | Former @Boeing | Cofounder @LatinasinSTEM | @KauffmanFellows Class 23",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/noramay-cadena/index.json",
+      "webUrl": "https://everyday.cc/ai/people/noramay-cadena/",
+      "type": "profile",
+      "name": "Noramay Cadena",
+      "bio": "Cofounder & Managing Partner @MiLACapital | MIT grad*3 | Former @Boeing | Cofounder @LatinasinSTEM | @KauffmanFellows Class 23",
+      "location": "Los Angeles, CA",
+      "website": "https://t.co/t9CFIWFMbw",
+      "twitter": {
+        "username": "noramayc",
+        "url": "https://twitter.com/noramayc",
+        "followers": 17442
+      },
+      "topics": [
+        "AI"
+      ],
+      "heat": 0,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/836441713497391104/Aj6W5UHO_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Noramay Cadena",
           "isCached": true
         }
       ],
@@ -947,7 +1003,7 @@
       "twitter": {
         "username": "vsikka",
         "url": "https://twitter.com/vsikka",
-        "followers": 244254
+        "followers": 244253
       },
       "wikipedia": {
         "url": "https://en.wikipedia.org/wiki/Vishal_Sikka"
@@ -967,97 +1023,6 @@
           "width": 400,
           "height": 400,
           "title": "Vishal Sikka",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_people/collections/top-ai-artists.md",
-      "title": "Top AI Artists",
-      "excerpt": "Top artists exploring the impact of AI on art, culture and society.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/collections/top-ai-artists/index.json",
-      "webUrl": "https://everyday.cc/ai/people/collections/top-ai-artists/",
-      "type": "collection",
-      "name": "Top AI Artists",
-      "bio": "Top artists exploring the impact of AI on art, culture and society.",
-      "topics": [
-        "AI"
-      ],
-      "topItems": [
-        {
-          "path": "",
-          "title": "Joy Buolamwini",
-          "excerpt": "Joy Adowaa Buolamwini is a Ghanaian-American computer scientist and digital activist based at the MIT Media Lab. She founded the Algorithmic Justice League, an organisation that looks to challenge bias in decision making software.",
-          "type": "profile",
-          "name": "Joy Buolamwini",
-          "bio": "Joy Adowaa Buolamwini is a Ghanaian-American computer scientist and digital activist based at the MIT Media Lab. She founded the Algorithmic Justice League, an organisation that looks to challenge bias in decision making software.",
-          "topics": [
-            "AI"
-          ],
-          "heat": 260,
-          "images": [
-            {
-              "url": "https://pbs.twimg.com/profile_images/1218584329540063233/DkdIuybw_400x400.jpg",
-              "width": 400,
-              "height": 400,
-              "title": "Joy Buolamwini",
-              "isCached": true
-            }
-          ]
-        },
-        {
-          "path": "",
-          "title": "Sougwen Chung",
-          "excerpt": "Chung's work explores the mark-made-by-hand and the mark-made-by-machine as an approach to understanding the dynamics of humans and systems. Chung is a former research fellow at MIT’s Media Lab and a pioneer in the field of human-machine collaboration. In 2019, she was selected as the Woman of the Year in Monaco for achievement in the Arts & Sciences.",
-          "type": "profile",
-          "name": "Sougwen Chung",
-          "bio": "Chung's work explores the mark-made-by-hand and the mark-made-by-machine as an approach to understanding the dynamics of humans and systems. Chung is a former research fellow at MIT’s Media Lab and a pioneer in the field of human-machine collaboration. In 2019, she was selected as the Woman of the Year in Monaco for achievement in the Arts & Sciences.",
-          "topics": [
-            "AI",
-            "AI in Robotics"
-          ],
-          "heat": 0,
-          "images": [
-            {
-              "url": "https://pbs.twimg.com/profile_images/654747413152821248/AAyCfd5Q_400x400.png",
-              "width": 400,
-              "height": 400,
-              "title": "Sougwen Chung",
-              "isCached": true
-            }
-          ]
-        },
-        {
-          "path": "",
-          "title": "Taryn Southern",
-          "excerpt": "AI artist | futurist | storyteller | recovering youtuber. Follow my documentary @iamhuman for screenings/release dates. AI album: http://bit.ly/iamAI",
-          "type": "profile",
-          "name": "Taryn Southern",
-          "bio": "AI artist | futurist | storyteller | recovering youtuber. Follow my documentary @iamhuman for screenings/release dates. AI album: http://bit.ly/iamAI",
-          "topics": [
-            "AI"
-          ],
-          "heat": 0,
-          "images": [
-            {
-              "url": "https://pbs.twimg.com/profile_images/899673407423356928/Y0ZP2-I7_400x400.jpg",
-              "width": 400,
-              "height": 400,
-              "title": "Taryn Southern",
-              "isCached": true
-            }
-          ]
-        }
-      ],
-      "size": 3,
-      "heat": 0,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1218584329540063233/DkdIuybw_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Joy Buolamwini",
           "isCached": true
         }
       ],
