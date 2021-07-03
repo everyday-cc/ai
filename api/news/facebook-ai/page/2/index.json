@@ -2,6 +2,59 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-05-24-facebooks-dynabench-now-scores-nlp-models-for-metrics-like-fairness.md",
+      "title": "Facebook’s Dynabench now scores NLP models for metrics like ‘fairness’",
+      "excerpt": "Facebook updated its Dynabench language model evaluation tool with Dynaboard, an 'evaluation-as-a-service' platform.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/05/24/facebooks-dynabench-now-scores-nlp-models-for-metrics-like-fairness/",
+      "originalUrl": "https://venturebeat.com/2021/05/24/facebooks-dynabench-now-scores-nlp-models-for-metrics-like-fairness/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 116,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/08/facebook-dark-background.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/05/24/facebooks-dynabench-now-scores-nlp-models-for-metrics-like-fairness/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/24/facebooks-dynabench-now-scores-nlp-models-for-metrics-like-fairness/amp/",
+      "publishedDateTime": "2021-05-24T08:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-22-ai-weekly-nists-proposal-to-evaluate-trust-in-ai-models-faces-significant-challenges.md",
       "title": "AI Weekly: NIST’s proposal to evaluate trust in AI models faces significant challenges",
       "excerpt": "NIST proposed a model for evaluating user trust in AI systems. Many challenges stand in the way of its success.",

@@ -73,20 +73,6 @@ related:
         width: 800
         height: 362
         isCached: true
-  - title: "Leveraging artificial intelligence to enhance brand management"
-    excerpt: "Once the subject of imaginations and main plot of science fiction movies for decades, today, robots are no longer a piece of fiction, they are now a commonplace in people’s daily lives."
-    publishedDateTime: 2021-06-29T04:26:00Z
-    webUrl: "https://guardian.ng/features/media/leveraging-artificial-intelligence-to-enhance-brand-management/"
-    type: article
-    provider:
-      name: The Guardian Nigeria
-      domain: guardian.ng
-    quality: 39
-    images:
-      - url: "https://guardian.ng/wp-content/uploads/2021/06/AI.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "WHO report warns against overestimating benefits of AI in health"
     excerpt: "AI can help to bridge the health service access gap in poor countries, but bias, unethical use of data, and poorly trained models are all risks to be overcome"
     publishedDateTime: 2021-06-29T08:35:00Z

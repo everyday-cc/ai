@@ -8,8 +8,8 @@ webUrl: "https://www.wired.com/story/global-smart-city-competition-highlights-ch
 ampWebUrl: "https://www.wired.com/story/global-smart-city-competition-highlights-china-rise-ai/amp"
 cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/global-smart-city-competition-highlights-china-rise-ai/amp"
 type: article
-quality: 89
-heat: 89
+quality: 91
+heat: 91
 published: true
 
 provider:
@@ -23,6 +23,7 @@ provider:
 topics:
   - AI
   - AI Hardware
+  - Facebook AI
 
 images:
   - url: "https://media.wired.com/photos/60df60a8fd0513edb15af4a3/master/pass/Business-Smart-City-Competition-1032667470.jpg"
@@ -30,6 +31,6 @@ images:
     height: 1600
     isCached: true
 
-secured: "u3fwdCML9Yc+uNfyuTCjoEA0y4f37AtzmM9Dzbw8QrYzPWrG/o9vjQNKNNiZkw3mTDYNIekZtbt0zvb6AYLU4IqLM4gijxkEQfsgfEG9JXidPv2JkNW+SVFmWeRKsLrLb66b+UrS4b1udCanmOwrZPtc8jq3fNoC+/zjLBorTqEyHn7uQ1wY7ZaZa+miu2uE3w2qPA5P+XUzr6mnjLh4PTrz4kwUSK+9zWZR0ClrNxTGH38TfmqVWSmkA3oZWLzcrAGbeiSo8WM22UOSoYaH/l9J69vamb7FHbAmKIEaqqyubTi/Leie22XBFd7vDWQQb40RgcxWJth3stBknPtObCf+zKjuPufuveW+XVsweLw=;HlkTLJ1cI/E7Rj+P9qcdvg=="
+secured: "yuVW+X2PG/bRxsW3xUnBDYtqboyRwLar54ep5TFEVQqs3qPo9xjBgdUQwKT9OBoB6Fb0jahHeA2N6b9esPf/TboaYmdrm5jSOydFz6hhVnprGjisWng+yX0u3NACObqYP0RizQXekQwqyQAwkEwzp23sqcdOQTvGptK4tplzOjZMH48v1rpJGv5UnXXxnchPHA5eaYwNpx+dEQHdYSCcHkhKQz59nTo+tLNH99LsSxwJ+1nycovrrAmia3bX08lFMjTttHvB99y/z3HYR8tsXFQeFXsXbMn4Zl0KXQChjiRyPqttGrYxOv71RTfrEnOdmdXf1FwhQ9Q390IBvzBCEx1BubchUs39bbtC/vuHGTV1ksk/ZwagXO+wHnFVGc5GQc0RUrBLj6d58ck5ibKFaGJEiLPEZ/a74DTjEpiXfMLCRRL2JogKsk6bc6/nbyFIc0szl96A6fZl77LNUNWQKLTdmAeTNFadAkdysFO+uOz9rsqtUd4Lmxnfuu7VpB0hnUoEBOL8PBcSEV+224pZEA==;G9vGJDHezTREdwgeh0mcQg=="
 ---
 
