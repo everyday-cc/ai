@@ -19,22 +19,15 @@ topics:
   - AI
 
 related:
-  - title: "Centime launches cashflow solution for small, mid-sized businesses"
-    excerpt: "It leverages technologies, including artificial intelligence and machine learning, in a simple user experience and is available to select customers through its early access program"
-    publishedDateTime: 2021-06-28T17:59:00Z
-    webUrl: "https://www.livemint.com/industry/banking/centime-launches-cashflow-solution-for-small-mid-sized-businesses-11624861445404.html"
-    ampWebUrl: "https://www.livemint.com/industry/banking/centime-launches-cashflow-solution-for-small-mid-sized-businesses/amp-11624861445404.html"
-    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/industry/banking/centime-launches-cashflow-solution-for-small-mid-sized-businesses/amp-11624861445404.html"
+  - title: "Carro’s fintech arm launches financing plan for EVs, hybrid cars"
+    excerpt: "The GoGreen initiative allows private-hire vehicle drivers to enjoy lower interest rates as a reward for going green."
+    publishedDateTime: 2021-07-01T01:46:00Z
+    webUrl: "https://www.techinasia.com/carros-fintech-arm-launches-financing-plan-evs-hybrids"
     type: article
     provider:
-      name: Mint
-      domain: livemint.com
-    quality: 44
-    images:
-      - url: "https://images.livemint.com/img/2021/06/28/600x338/nasha_1615969263967_1624861675953.jpg"
-        width: 600
-        height: 338
-        isCached: true
+      name: Techinasia
+      domain: techinasia.com
+    quality: 34
 
 secured: "5/bDw7uKLTRCyeY8BXktdjhPUW9emGowOUi3VDeQt/SlY9Gvr8lNZ7DVuh8qd3I5T/M198oMQMTU6Hlv2+ChIHKysAVtMS+GhLiHffym3npjDNVmX+VSx5t1cWKL+avkenZLqJCwYmClJsCGclEv7VZy+T1/VxlyH9jZ3d2kP/G9rNuX9AtZcyf9t6xEJuazll17fr13TsFA2BKBww4YcDQC7N3uPWkFex83AWoXp4SVcl/C4PCNq0dMBYdE0T/qeOk0/9L1R/lVhud88pV1YagnFUxFU/OPBkEmkyEMsFnhZA8ynxxavHh8D7u/j3oEgv9mitk8n5cmDJGLdjXGh9BHZb3iUqtd8UuqIC6AKRI=;CjiGzj5ErGDI1qqWHMZvoQ=="
 ---

@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Autos
 
 images:
   - url: "https://dealstreetwebsite.s3.amazonaws.com/uploads/2018/01/Pony.ai-Car-1-1-e1624630116785.jpg"

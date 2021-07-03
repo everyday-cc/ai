@@ -1,40 +1,36 @@
 ---
 category: news
-title: "How Tesla is Using a Supercomputer to Train its Self-driving Tech"
-excerpt: "You can't buy a fully self-driving car today, but automakers around the globe are racing to become the first company to place such a vehicle on dealer lots. No two companies are taking the same technological path to achieve this plan,"
-publishedDateTime: 2021-06-29T17:30:00Z
-originalUrl: "https://cacm.acm.org/news/253665-how-tesla-is-using-a-supercomputer-to-train-its-self-driving-tech/fulltext"
-webUrl: "https://cacm.acm.org/news/253665-how-tesla-is-using-a-supercomputer-to-train-its-self-driving-tech/fulltext"
+title: "Can Tesla Really Do Without Radar For Full Self-Driving?"
+excerpt: "Tesla has removed the radar from its Model 3 and Y. Can it really deliver on the promise of self-driving cars with just cameras?"
+publishedDateTime: 2021-07-03T10:00:00Z
+originalUrl: "https://www.forbes.com/sites/jamesmorris/2021/07/03/can-tesla-really-do-without-radar-for-full-self-driving/"
+webUrl: "https://www.forbes.com/sites/jamesmorris/2021/07/03/can-tesla-really-do-without-radar-for-full-self-driving/"
+ampWebUrl: "https://www.forbes.com/sites/jamesmorris/2021/07/03/can-tesla-really-do-without-radar-for-full-self-driving/amp/"
+cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jamesmorris/2021/07/03/can-tesla-really-do-without-radar-for-full-self-driving/amp/"
 type: article
-quality: 34
-heat: -1
-published: false
+quality: 89
+heat: 129
+published: true
 
 provider:
-  name: acm.org
-  domain: acm.org
+  name: Forbes
+  domain: forbes.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Autos
   - AI
 
+images:
+  - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60df74701b3d17f18787c1b5%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D3450%26cropY1%3D173%26cropY2%3D2114"
+    width: 1200
+    height: 675
+    isCached: true
+
 related:
-  - title: "Can Tesla Really Do Without Radar For Full Self-Driving?"
-    excerpt: "Tesla has removed the radar from its Model 3 and Y. Can it really deliver on the promise of self-driving cars with just cameras?"
-    publishedDateTime: 2021-07-03T10:00:00Z
-    webUrl: "https://www.forbes.com/sites/jamesmorris/2021/07/03/can-tesla-really-do-without-radar-for-full-self-driving/"
-    ampWebUrl: "https://www.forbes.com/sites/jamesmorris/2021/07/03/can-tesla-really-do-without-radar-for-full-self-driving/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jamesmorris/2021/07/03/can-tesla-really-do-without-radar-for-full-self-driving/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60df74701b3d17f18787c1b5%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D3450%26cropY1%3D173%26cropY2%3D2114"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Will a self-driving update send Tesla’s share price higher?"
     excerpt: "Elon Musk (pictured above), CEO of Tesla, has previously said: “[I]t turns out that the only way to solve self-driving is to solve a big part of real-world AI. That is what Tesla is doing, both in hardware and software.” The event is expected to ..."
     publishedDateTime: 2021-06-30T09:15:00Z
@@ -65,6 +61,15 @@ related:
         width: 1000
         height: 600
         isCached: true
+  - title: "How Tesla is Using a Supercomputer to Train its Self-driving Tech"
+    excerpt: "You can't buy a fully self-driving car today, but automakers around the globe are racing to become the first company to place such a vehicle on dealer lots. No two companies are taking the same technological path to achieve this plan,"
+    publishedDateTime: 2021-06-29T17:30:00Z
+    webUrl: "https://cacm.acm.org/news/253665-how-tesla-is-using-a-supercomputer-to-train-its-self-driving-tech/fulltext"
+    type: article
+    provider:
+      name: acm.org
+      domain: acm.org
+    quality: 34
   - title: "Tesla AI Chief Says Self-Driving Cars Don't Need Lidar"
     excerpt: "Tesla's Chief AI Scientist Andrej Karpathy explained why at this year's Computer Vision and Pattern Recognition (CVPR) conference. \"It's unscalable to collect, build, and maintain these high-definition lidar maps,"
     publishedDateTime: 2021-07-01T18:17:00Z
@@ -75,6 +80,6 @@ related:
       domain: acm.org
     quality: 34
 
-secured: "L7v+gXWJjUq3J8g75AFK1P6+d6gHhl7ZxEkCmjdLxAVjZFpOv0xiB2tpfMslvDu2VY8NIkkMQ5jPvRf8kK7c5Q3YA1zWvRIkILg2OrN35hTTDzCtfScJhXrIZDp38D8a8zPFUy/XeqCaiTK1ShAWsJl+6aYY7rFVkBdMWr1RRBbDJSxjexf43DuweJm9itMGKAfsy6AbZdUwMCS01s+06uLEVJpXInc0Tq0BP7Zd95VZNVxrZVFHcPa3KwqWtYnikx3lRRyf8r2WV7AGow8zlA2zZHJLjOI/4ko2BOHtirDuY47aWmsw2sflnMtqO4ilJg//+Zjk35RzaVtrBaitPPX8pHWkKEMiEoFXPkUR19L7TzkYFcuNGuXizeRtNVSqY1kKAgsVl60DARthKSEa2nQDuUd5LC+tJUviitHR+p9CiBbloKbissnMFFaqdyN5NfVUlkEKmteAXu9pKX5BeLpA3gW+J8qfhA97hFFMdDPhIYwzGX77BEsITmZkkwIrXnPiwPffFlrSNmdZRLV/NQ==;IWFV2BEybEZQGf9N47Cwaw=="
+secured: "xwRsi7Q2qe9vGQ9/2anSqEufIZNYzeRPqJPFrSS5cLqLnJbFYyT77nF6SWxG0oGw4VLADI4s8UJqzxdfUTbW/6CdCwQP2snFXk3Neg07t46/amFTvoev8JiIHjN61sjxf1hZSVciLGkmqHo0eb4WGc2Hj8/BunLrUQK1d80q96cVjW5/vKdAVOzBcOuKOQGwZ2ocEDHzKIT59ehFAF3+lQWKt+eF7pLBTgEIjuEU2XbYlBRx/8iI6CksgNTL+8aVuadi4UDtdwUIFTbYdf+WFHsm/Dg+Mf6vRXjDEnsIwKfmfnUsI+AJAqgvWnZOmxlBM9SVyAUEaEW/QNdRQmH0d7+8UQijf3GlsVpqVEumo/o=;3qyUNMsK4cTL2fp0nUHlNA=="
 ---
 

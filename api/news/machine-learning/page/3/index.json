@@ -2,6 +2,49 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-06-12-deep-learning-with-spect-accurately-predicts-major-adverse-cardiac-events.md",
+      "title": "Deep learning with SPECT accurately predicts major adverse cardiac events",
+      "excerpt": "An advanced artificial intelligence technique known as deep learning can predict major adverse cardiac events more accurately than current standard imaging protocols, according to research presented at the Society of Nuclear Medicine and Molecular Imaging 2021 Annual Meeting.",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/news/2021-06-deep-spect-accurately-major-adverse.html",
+      "originalUrl": "https://medicalxpress.com/news/2021-06-deep-spect-accurately-major-adverse.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2021/deep-learning-with-spe.jpg",
+          "width": 720,
+          "height": 442,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://medicalxpress.com/news/2021-06-deep-spect-accurately-major-adverse.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-06-deep-spect-accurately-major-adverse.amp",
+      "publishedDateTime": "2021-06-12T02:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-11-accelerating-deep-learning-on-the-jvm-with-apache-spark-and-nvidia-gpus.md",
       "title": "Accelerating Deep Learning on the JVM with Apache Spark and NVIDIA GPUs",
       "excerpt": "Accelerating Deep Learning on the JVM with Apache Spark and NVIDIA GPUs In this article, authors discuss how to use the combination of Deep Java Learning (DJL), Apache Spark v3, and NVIDIA GPU ...",
@@ -1375,51 +1418,6 @@
         "AI in Finance",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-06-03-deepracer-womens-league-aws-announces-winners-of-ml-for-women-initiative.md",
-      "title": "DeepRacer Women’s League: AWS announces winners of ML for women initiative",
-      "excerpt": "The initiative introduces machine learning to women students, allowing them to explore and apply ML skills in a virtual racing league.",
-      "sourceUrl": null,
-      "webUrl": "https://www.dqindia.com/deepracer-womens-league-aws-announces-winners-ml-women-initiative/",
-      "originalUrl": "https://www.dqindia.com/deepracer-womens-league-aws-announces-winners-ml-women-initiative/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 126,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.dqindia.com/wp-content/uploads/2019/11/artificial-2970158_1280_opt.jpg",
-          "width": 625,
-          "height": 294,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.dqindia.com/deepracer-womens-league-aws-announces-winners-ml-women-initiative/amp/",
-      "cdnAmpWebUrl": "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/deepracer-womens-league-aws-announces-winners-ml-women-initiative/amp/",
-      "publishedDateTime": "2021-06-03T08:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Dataquest",
-        "domain": "dqindia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Machine Learning",
-        "AI in Autos"
       ]
     }
   ],

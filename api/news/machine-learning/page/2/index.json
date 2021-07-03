@@ -2,6 +2,50 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-06-23-yotta-launches-virtual-pro-workstations-for-3d-architectural-designs-ai-ml.md",
+      "title": "Yotta Launches Virtual Pro Workstations for 3D architectural designs, AI, ML",
+      "excerpt": "Path-breaking combination of virtual GPU and advanced VDI technology, to deliver extreme performance for video editing, graphics design, 3D architectural designs, AI, ML and more.",
+      "sourceUrl": null,
+      "webUrl": "https://www.dqindia.com/yotta-launches-virtual-pro-workstations-3d-architectural-designs-ai-ml/",
+      "originalUrl": "https://www.dqindia.com/yotta-launches-virtual-pro-workstations-3d-architectural-designs-ai-ml/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.dqindia.com/wp-content/uploads/2016/10/cloud-computing-2.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.dqindia.com/yotta-launches-virtual-pro-workstations-3d-architectural-designs-ai-ml/amp/",
+      "cdnAmpWebUrl": "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/yotta-launches-virtual-pro-workstations-3d-architectural-designs-ai-ml/amp/",
+      "publishedDateTime": "2021-06-23T00:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Dataquest",
+        "domain": "dqindia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-06-23-deep-learning-market-share-trends-industry-overview-2021-to-2026.md",
       "title": "Deep Learning Market Share, Trends | Industry Overview 2021 to 2026",
       "excerpt": "Deep Learning is a subfield of machine learning concerned with algorithms inspired by the structure and function of the",
@@ -1304,49 +1348,6 @@
       "provider": {
         "name": "Hackaday",
         "domain": "hackaday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-12-deep-learning-with-spect-accurately-predicts-major-adverse-cardiac-events.md",
-      "title": "Deep learning with SPECT accurately predicts major adverse cardiac events",
-      "excerpt": "An advanced artificial intelligence technique known as deep learning can predict major adverse cardiac events more accurately than current standard imaging protocols, according to research presented at the Society of Nuclear Medicine and Molecular Imaging 2021 Annual Meeting.",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2021-06-deep-spect-accurately-major-adverse.html",
-      "originalUrl": "https://medicalxpress.com/news/2021-06-deep-spect-accurately-major-adverse.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2021/deep-learning-with-spe.jpg",
-          "width": 720,
-          "height": 442,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2021-06-deep-spect-accurately-major-adverse.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-06-deep-spect-accurately-major-adverse.amp",
-      "publishedDateTime": "2021-06-12T02:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
         "images": null,
         "publishers": null,
         "authors": null

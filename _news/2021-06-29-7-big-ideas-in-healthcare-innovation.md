@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Diversity, ethics and innovation in tech"
+    excerpt: "Jake Wall, techUK Programme Assistant for Policy, writes on the benefits of diversity in the tech sector, why inclusion in tech is more important than ever, and how a more diverse sector can lead to more innovative and ethical technological outcomes."
+    publishedDateTime: 2021-07-01T09:52:00Z
+    webUrl: "https://www.techuk.org/resource/diversity-ethics-and-innovation-in-tech.html"
+    type: article
+    provider:
+      name: techUK
+      domain: techuk.org
+    quality: 39
+    images:
+      - url: "https://pixl8-cloud-techuk.s3.eu-west-2.amazonaws.com/prod/public/d96ba140-7d15-4bd6-91bff2622a179372/Working-office-diversity-98265000-web-1500px.jpg"
+        width: 1500
+        height: 1000
+        isCached: true
   - title: "Google's Rise in Healthcare"
     excerpt: "Google continues to dominate the search engine market in the U.S. Back in 2006, the company quietly began to explore potential business opportunities in the healthcare sector. The initial intention of Google Health was to create a repository of health records and data that would provide direct connections between doctors,"
     publishedDateTime: 2021-07-01T00:12:00Z

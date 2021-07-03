@@ -7,7 +7,7 @@ originalUrl: "https://www.cnas.org/publications/commentary/debunking-the-ai-arms
 webUrl: "https://www.cnas.org/publications/commentary/debunking-the-ai-arms-race-theory"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -25,19 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "How Artificial Intelligence Is Changing The Advisory Industry"
-    excerpt: "The industry around Artificial Intelligence has become more influential than ever before. People have making jokes about robots and machines stealing jobs"
-    publishedDateTime: 2021-06-30T15:45:00Z
-    webUrl: "https://www.techshout.com/how-artificial-intelligence-is-changing-the-advisory-industry/"
+  - title: "4 ways AI is unlocking the mysteries of the universe"
+    excerpt: "Astronomers are turning to artificial intelligence and machine learning to build new tools to rapidly search for the next big breakthrough."
+    publishedDateTime: 2021-07-03T10:03:00Z
+    webUrl: "https://thenextweb.com/news/4-ways-ai-unlocking-astronomy-mysteries-universe-syndication"
     type: article
     provider:
-      name: TechShout
-      domain: techshout.com
-    quality: 39
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 67
     images:
-      - url: "https://www.techshout.com/wp-content/uploads/2020/06/artificial-intelligence.jpg"
-        width: 720
-        height: 404
+      - url: "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F07%2FTriangulum-Galaxy-hed-guillermo-ferla-kEEl9csCutg-unsplash-copy.jpg&signature=1e81bded5339458e45332f6121f52366"
+        width: 1280
+        height: 640
         isCached: true
 
 secured: "AejwYLB7/olOYqmZMaG97WNa1uRffUOdv4nfl+dI0Oah7CVWDxqFdeJmZYU53eP3XG1XXXonDG09eny37kTO59GqSrxHOt8xRGslBqM+Il59SIup/baURvVZG6Xiof1ShzTgT4z21/8J5R66Jocu4coV4SAmb4DmiuNH9gwf+F6DHrDfmVnQPa93N47+ZaUEYblo6JTqm3x4ULZrmv8TkzuaSJCCrDcP+QCbEzesNEoaTcH+APwaaQ8qmzSXdqrWRmxXVLoxzGfVj8L+K6gZ/vJE/IX0RN2J1S5LEvpvIK4jWjYU+/LvbyYCc5CB1C5hSiEE1+5AGRtiwdovAP9X9C5farEaiusuu4VY8xCgmf8=;Ltzk4bbEFS5O0gyoJZQn2g=="

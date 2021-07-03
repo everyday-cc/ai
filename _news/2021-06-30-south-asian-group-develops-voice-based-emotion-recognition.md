@@ -7,7 +7,7 @@ originalUrl: "https://www.biometricupdate.com/202106/south-asian-group-develops-
 webUrl: "https://www.biometricupdate.com/202106/south-asian-group-develops-voice-based-emotion-recognition"
 type: article
 quality: 26
-heat: -1
+heat: 26
 published: false
 
 provider:
@@ -24,22 +24,6 @@ images:
     width: 768
     height: 513
     isCached: true
-
-related:
-  - title: "The Linux Foundation is working to improve voice recognition ethics"
-    excerpt: "Last week, the Linux Foundation created a new open source industry association called the Open Voice Network (OVN). The new group is an independently governed directed fund of the Linux Foundation, with the goals of improving trust,"
-    publishedDateTime: 2021-06-28T18:31:00Z
-    webUrl: "https://arstechnica.com/gadgets/2021/06/the-linux-foundation-is-working-to-improve-voice-recognition-ethics/"
-    type: article
-    provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 71
-    images:
-      - url: "https://cdn.arstechnica.net/wp-content/uploads/2021/06/GettyImages-970156432-760x380.jpg"
-        width: 760
-        height: 380
-        isCached: true
 
 secured: "VU60YlWm4rtNX05n3IG/SLqkZp5EShZOUTDleLUYHhkgCbSMNTFzDESBKJnreBq50DZfv1UfxYaiz2yeN/985bCUH2Iy8YMkajGGAIJdEyynJuJ9UaB6Lemx/fWkxfxzvUBxYGh+KMZu2CYGj6ynDbJ26ZyjEpEtXLBkBJC1qN/zRK0DfaYN/o7OZg2cLprZP6SAEA4F5cl0kCQfpCM0jhzKAtwDCrcB8PLd9V+4NetqL8QClmfbYEZP/rtLPzLmu1pwIX6stOHIbdYySmy4dHscNcBmXtg5/3K8BVscpmgGUKu4r0t4iJTEJwGI4RFIK6zPLN0od8yNo21ynfYEl2MgHWxCjMuxGEd5rFVs+JDf+6g86rHQ/dyRgb5Pvq9qG3t0PazgtoYQm9gDzQlLqBVDFyRN5ugeJZWAA0uKxcH5Trz9H6o2eft2dNjUX45HThTHXChfFYlG5EwgX0p0kSAQZe9mm/+Atx3rwu6vMj0NMmYuJtCGDUGIxtWLYrYdi+ZYjnZDjzdUi+Mgt4wcLg==;DqwaTUu6m0irkRLf7sSc0g=="
 ---

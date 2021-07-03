@@ -2,6 +2,152 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-07-01-cheers-to-the-heineken-bot-self-driving-beer-delivery-robot.md",
+      "title": "Cheers to the Heineken B.O.T. Self-Driving Beer Delivery Robot",
+      "excerpt": "You could train your dog to grab one for you, which would take effort, time, and commitment. Or you could turn to Heineken's new B.O.T., which is, yep, a beer-carrying robot that brings the beers to you.",
+      "sourceUrl": null,
+      "webUrl": "https://www.motortrend.com/news/heineken-bot-beer-robot-cooler/",
+      "originalUrl": "https://www.motortrend.com/news/heineken-bot-beer-robot-cooler/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://st.motortrend.com/uploads/sites/5/2021/06/Heineken-B.O.T.-1.jpg",
+          "width": 1360,
+          "height": 765,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.motortrend.com/news/heineken-bot-beer-robot-cooler/amp/",
+      "cdnAmpWebUrl": "https://www-motortrend-com.cdn.ampproject.org/c/s/www.motortrend.com/news/heineken-bot-beer-robot-cooler/amp/",
+      "publishedDateTime": "2021-06-30T14:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Motor Trend",
+        "domain": "motortrend.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2021-07-01-no-job-is-future-proof-how-to-adopt-ai-while-protecting-your-employees.md",
+      "title": "No Job Is Future-Proof. How To Adopt AI While Protecting Your Employees",
+      "excerpt": "No job is safe from what technology may have in store. Here are four ways leaders can embrace AI without compromising their commitment to employees.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/ganeskesari/2021/06/30/no-job-is-future-proof-how-to-adopt-ai-while-protecting-your-employees/",
+      "originalUrl": "https://www.forbes.com/sites/ganeskesari/2021/06/30/no-job-is-future-proof-how-to-adopt-ai-while-protecting-your-employees/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60dcb0a523046eafa0268ae3%2F0x0.jpg%3FcropX1%3D494%26cropX2%3D5537%26cropY1%3D0%26cropY2%3D3783",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/ganeskesari/2021/06/30/no-job-is-future-proof-how-to-adopt-ai-while-protecting-your-employees/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ganeskesari/2021/06/30/no-job-is-future-proof-how-to-adopt-ai-while-protecting-your-employees/amp/",
+      "publishedDateTime": "2021-06-30T13:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-01-sentinelone-ipo-how-the-company-is-riding-the-ai-wave.md",
+      "title": "SentinelOne IPO: How The Company Is Riding The AI Wave",
+      "excerpt": "SentinelOne . SentinelOne, which develops AI-powered software for cybersecurity, launched its IPO today. There was certainly substantial demand from inves",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/tomtaulli/2021/06/30/sentinelone-ipo-how-the-company-is-riding-the-ai-wave/",
+      "originalUrl": "https://www.forbes.com/sites/tomtaulli/2021/06/30/sentinelone-ipo-how-the-company-is-riding-the-ai-wave/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60dcbbcdf545ce5fff691ffb%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/tomtaulli/2021/06/30/sentinelone-ipo-how-the-company-is-riding-the-ai-wave/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tomtaulli/2021/06/30/sentinelone-ipo-how-the-company-is-riding-the-ai-wave/amp/",
+      "publishedDateTime": "2021-06-30T12:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-01-dells-199-ultrasharp-4k-webcam-has-ai-on-boardbut-no-microphone.md",
       "title": "Dell’s $199 UltraSharp 4K webcam has AI on board—but no microphone",
       "excerpt": "Dell's new UltraSharp camera takes aim at Logitech's high-end Brio with the same $199 price along with 4K resolution and Windows Hello-compatible infrared sensor. But despite sharing a price tag and many of the same specifications,",
@@ -573,7 +719,7 @@
       "originalUrl": "https://www.forbes.com/sites/gilpress/2021/06/30/this-ai-just-evolved-from-companion-robot-to-home-based-physician-helper/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 103,
+      "heat": 113,
       "tags": null,
       "images": [
         {
@@ -919,49 +1065,6 @@
       ]
     },
     {
-      "path": "_news/2021-06-30-will-a-self-driving-update-send-teslas-share-price-higher.md",
-      "title": "Will a self-driving update send Tesla’s share price higher?",
-      "excerpt": "Elon Musk (pictured above), CEO of Tesla, has previously said: “[I]t turns out that the only way to solve self-driving is to solve a big part of real-world AI. That is what Tesla is doing, both in hardware and software.” The event is expected to ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cmcmarkets.com/en/opto/will-a-self-driving-update-send-teslas-share-price-higher",
-      "originalUrl": "https://www.cmcmarkets.com/en/opto/will-a-self-driving-update-send-teslas-share-price-higher",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.cmcmarkets.com/images/MUSK_2906_medium.jpg",
-          "width": 768,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cmcmarkets.com/en/opto/will-a-self-driving-update-send-teslas-share-price-higher_amp",
-      "cdnAmpWebUrl": "https://www-cmcmarkets-com.cdn.ampproject.org/c/s/www.cmcmarkets.com/en/opto/will-a-self-driving-update-send-teslas-share-price-higher_amp",
-      "publishedDateTime": "2021-06-30T02:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CMC Markets",
-        "domain": "cmcmarkets.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-06-30-advancing-safe-deployment-with-aiopsintroducing-gandalf.md",
       "title": "Advancing safe deployment with AIOps—introducing Gandalf",
       "excerpt": "The continuous monitoring of health metrics is a fundamental part of this process, and this is where AIOps plays a critical role. In the post that follows, we introduce how AI and machine learning are used to empower DevOps engineers, monitor the Azure deployment process at scale, detect issues early,",
@@ -1155,101 +1258,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-30-japans-softbank-says-pepper-robot-remains-alive-and-well.md",
-      "title": "Japan’s SoftBank says Pepper robot remains ‘alive’ and well",
-      "excerpt": "Japanese technology company SoftBank denies it’s pulling the plug on its friendly, talking, bubble-headed Pepper robot. “There is absolutely no change to our Pepper business,”",
-      "sourceUrl": null,
-      "webUrl": "https://www.wric.com/business/us-world-business/japans-softbank-says-pepper-robot-remains-alive-and-well/",
-      "originalUrl": "https://www.wric.com/business/us-world-business/japans-softbank-says-pepper-robot-remains-alive-and-well/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.wric.com/wp-content/uploads/sites/74/2021/06/a7ca6fa6c7634e6787200aad859fc95d.jpg?w=1280",
-          "width": 1280,
-          "height": 853,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wric.com/business/us-world-business/japans-softbank-says-pepper-robot-remains-alive-and-well/amp/",
-      "cdnAmpWebUrl": "https://www-wric-com.cdn.ampproject.org/c/s/www.wric.com/business/us-world-business/japans-softbank-says-pepper-robot-remains-alive-and-well/amp/",
-      "publishedDateTime": "2021-06-29T20:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WRIC",
-        "domain": "wric.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-30-techman-robot-to-provide-free-ai-courses-in-southeast-asia.md",
-      "title": "Techman Robot to Provide Free AI Courses in Southeast Asia",
-      "excerpt": "Artificial intelligence, AI is undoubtedly the key technology here. That is why the SEA (Southeast Asia) Taiwan AI College is turning the AI manufacturing experiences from leading ICT companies, Techman Robot,",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/techman-robot-to-provide-free-ai-courses-in-southeast-asia-1030565050",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/techman-robot-to-provide-free-ai-courses-in-southeast-asia-1030565050",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1552574/Techman_Robot_to_provide_free_AI_course_in_Southeast_Asia.jpg",
-          "width": 400,
-          "height": 257,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-29T20:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

@@ -2,6 +2,100 @@
   "page": 29,
   "value": [
     {
+      "path": "_news/2021-06-10-vivaldis-launching-an-email-client-rss-reader-and-translation-tool.md",
+      "title": "Vivaldi’s launching an email client, RSS reader, and translation tool",
+      "excerpt": "Vivaldi is launching new tools, including an email client, a calander app, a feed reader, and a translation tool with its browser update.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/news/vivladi-4-email-client-translation-tool-feed",
+      "originalUrl": "https://thenextweb.com/news/vivladi-4-email-client-translation-tool-feed",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-cdn.tnwcdn.com/image/plugged?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F06%2FVivaldi-4.0.jpg&signature=bd279527fe8dfcc5dbcafe44f09b2916",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-10T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-10-bbc-host-thrashes-calls-for-independent-scotland-to-rejoin-eu-deficit-is-8-times-higher.md",
+      "title": "BBC host thrashes calls for independent Scotland to rejoin EU 'Deficit is 8 times higher!'",
+      "excerpt": "BBC presenter Stephen Jardine dismantled Nicola Sturgeon's plan to rejoin the EU with an independent Scotland.",
+      "sourceUrl": null,
+      "webUrl": "https://www.ft.com/content/bb80e462-fbb9-49d1-8a87-b3ad511c1d4e",
+      "originalUrl": "https://www.express.co.uk/news/politics/1447993/scottish-independence-bbc-debate-night-Stephen-Jardine-snp-latest-vn",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 132,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F679fdf47-2ea8-43d9-91fc-bb7b6753c426.jpg?source=google-amp&fit=scale-down&width=500",
+          "width": 500,
+          "height": 281,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.ft.com/content/bb80e462-fbb9-49d1-8a87-b3ad511c1d4e",
+      "cdnAmpWebUrl": "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/bb80e462-fbb9-49d1-8a87-b3ad511c1d4e",
+      "publishedDateTime": "2021-06-10T02:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Daily Express",
+        "domain": "express.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-10-national-stock-exchange-offers-certification-course-in-ai-for-financial-markets.md",
       "title": "National Stock Exchange Offers Certification Course in AI for Financial Markets",
       "excerpt": "NSE Academy, the education arm of the National Stock Exchange of India along with TalentSprint have launched an Advanced Certification Program in AI for Financial Markets. The six-month programme is a unique opportunity for professionals working in hedge funds,",
@@ -1045,109 +1139,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-09-google-cloud-covid-19-accelerates-ai-use-by-manufacturers.md",
-      "title": "Google Cloud: COVID-19 accelerates AI use by manufacturers",
-      "excerpt": "According to new research from Google Cloud, manufacturers around the globe have accelerated their use of digital technologies due to the COVID-19 pandemic. Of the 1,154 senior manufacturing executives polled for the report,",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/google-cloud-covid-19-accelerates-ai-use-by-manufacturers/",
-      "originalUrl": "https://www.techrepublic.com/article/google-cloud-covid-19-accelerates-ai-use-by-manufacturers/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techrepublic.com/a/hub/i/r/2021/06/09/2f2eef0d-bb1e-4a07-979d-c608766920f6/resize/1200x/a93862840fbc4e067f58b28c7af79464/google-cloud.jpg",
-          "width": 1200,
-          "height": 706,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/google-cloud-covid-19-accelerates-ai-use-by-manufacturers/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/google-cloud-covid-19-accelerates-ai-use-by-manufacturers/",
-      "publishedDateTime": "2021-06-09T09:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-09-supercharging-self-driving-super-vision.md",
-      "title": "Supercharging Self-Driving Super Vision",
-      "excerpt": "Few startups were as prescient as Scale AI when it came to anticipating the need for massive sets of tagged data for use in AI. Co-founder and CEO Alex Wang also made a great bet on addressing the needs of lidar sensing companies early on,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/video/supercharging-self-driving-super-vision/",
-      "originalUrl": "https://techcrunch.com/video/supercharging-self-driving-super-vision/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.vidible.tv/prod/2021-06/09/60c0627031cb5a6fc9ad060c/60c0658866a5ff0c1d575a0e_o_U_v1.jpg?w=640&h=360",
-          "width": 640,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-09T09:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

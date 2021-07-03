@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-07-03-can-tesla-really-do-without-radar-for-full-self-driving.md",
+      "title": "Can Tesla Really Do Without Radar For Full Self-Driving?",
+      "excerpt": "Tesla has removed the radar from its Model 3 and Y. Can it really deliver on the promise of self-driving cars with just cameras?",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/jamesmorris/2021/07/03/can-tesla-really-do-without-radar-for-full-self-driving/",
+      "originalUrl": "https://www.forbes.com/sites/jamesmorris/2021/07/03/can-tesla-really-do-without-radar-for-full-self-driving/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60df74701b3d17f18787c1b5%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D3450%26cropY1%3D173%26cropY2%3D2114",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/jamesmorris/2021/07/03/can-tesla-really-do-without-radar-for-full-self-driving/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jamesmorris/2021/07/03/can-tesla-really-do-without-radar-for-full-self-driving/amp/",
+      "publishedDateTime": "2021-07-03T03:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-01-didi-shares-gain-1-after-early-jump-in-wall-street-debut.md",
       "title": "Didi shares gain 1% after early jump in Wall Street debut",
       "excerpt": "Early investors included Apple Inc., Japan’s Softbank, Alibaba and Chinese internet giants, Tencent Holding Ltd. and Baidu Inc. Didi ... into development of self-driving, electric vehicles ...",
@@ -139,49 +191,6 @@
         "AI in Autos",
         "AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2021-06-30-will-a-self-driving-update-send-teslas-share-price-higher.md",
-      "title": "Will a self-driving update send Tesla’s share price higher?",
-      "excerpt": "Elon Musk (pictured above), CEO of Tesla, has previously said: “[I]t turns out that the only way to solve self-driving is to solve a big part of real-world AI. That is what Tesla is doing, both in hardware and software.” The event is expected to ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cmcmarkets.com/en/opto/will-a-self-driving-update-send-teslas-share-price-higher",
-      "originalUrl": "https://www.cmcmarkets.com/en/opto/will-a-self-driving-update-send-teslas-share-price-higher",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.cmcmarkets.com/images/MUSK_2906_medium.jpg",
-          "width": 768,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cmcmarkets.com/en/opto/will-a-self-driving-update-send-teslas-share-price-higher_amp",
-      "cdnAmpWebUrl": "https://www-cmcmarkets-com.cdn.ampproject.org/c/s/www.cmcmarkets.com/en/opto/will-a-self-driving-update-send-teslas-share-price-higher_amp",
-      "publishedDateTime": "2021-06-30T02:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CMC Markets",
-        "domain": "cmcmarkets.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     },
     {
@@ -491,20 +500,20 @@
     },
     {
       "path": "_news/2021-06-25-exclusive-toyota-backed-self-driving-startup-ponyai-considers-going-public.md",
-      "title": "EXCLUSIVE Toyota-backed self-driving startup Pony.ai considers going public",
-      "excerpt": "FREMONT, California, June 25 (Reuters) - Self-driving tech company Pony.ai ... Pony.ai, founded by former Google and Baidu Inc (9888.HK) engineers Peng and Lou Tiancheng in 2016, has so far ...",
+      "title": "Exclusive: Toyota-backed self-driving startup Pony.ai considers going public",
+      "excerpt": "\"at-above-post addthis_tool\" data-url=\" California (Reuters) – Self-driving tech company Pony.ai, backed by Toyota Motor Corp, is considering going public in the United States to help fund its goal of commercializing driverless ride-hailing services,",
       "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/business/autos-transportation/exclusive-toyota-backed-self-driving-startup-ponyai-considers-going-public-2021-06-25/",
-      "originalUrl": "https://www.reuters.com/business/autos-transportation/exclusive-toyota-backed-self-driving-startup-ponyai-considers-going-public-2021-06-25/",
+      "webUrl": "https://www.metro.us/exclusive-toyota-backed-self-driving-startup/",
+      "originalUrl": "https://www.metro.us/exclusive-toyota-backed-self-driving-startup/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://www.reuters.com/resizer/2qSLKwou_uMeOYl9o0cLDFy9k_A=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/YKRNUSEBRNJLROOHXAMKCUAUOE.jpg",
-          "width": 1200,
-          "height": 628,
+          "url": "https://www.metro.us/wp-content/uploads/Reuters_Direct_Media/USOnlineReportBusinessNews/tagreuters.com2021binary_LYNXNPEH5O0G8-BASEIMAGE.jpg",
+          "width": 800,
+          "height": 533,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -512,23 +521,14 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-25T03:12:00-07:00",
+      "ampWebUrl": "https://www.metro.us/exclusive-toyota-backed-self-driving-startup/amp/",
+      "cdnAmpWebUrl": "https://www-metro-us.cdn.ampproject.org/c/s/www.metro.us/exclusive-toyota-backed-self-driving-startup/amp/",
+      "publishedDateTime": "2021-06-25T03:11:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "Metro US",
+        "domain": "metro.us",
+        "images": null,
         "publishers": null,
         "authors": null
       },

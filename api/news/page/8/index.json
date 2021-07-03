@@ -2,6 +2,100 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2021-06-25-the-absurdity-and-misleading-baloney-about-ai-self-driving-cars-that-will-be-uncrashable.md",
+      "title": "The Absurdity And Misleading Baloney About AI Self-Driving Cars That Will Be Uncrashable",
+      "excerpt": "There are those claiming that self-driving cars will be uncrashable, which sounds nifty, but it is nonsensical and worse still it sets false expectations of what self-driving cars will be able to do.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/lanceeliot/2021/06/25/the-absurdity-and-misleading-baloney-about-ai-self-driving-cars-that-will-be-uncrashable/",
+      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2021/06/25/the-absurdity-and-misleading-baloney-about-ai-self-driving-cars-that-will-be-uncrashable/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60d2c5bda7a6618a4767c3cf%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D2403%26cropY1%3D110%26cropY2%3D1462",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2021/06/25/the-absurdity-and-misleading-baloney-about-ai-self-driving-cars-that-will-be-uncrashable/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/06/25/the-absurdity-and-misleading-baloney-about-ai-self-driving-cars-that-will-be-uncrashable/amp/",
+      "publishedDateTime": "2021-06-25T08:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-25-walmart-uses-predictive-ai-to-avoid-e-grocery-substitution-shame.md",
+      "title": "Walmart Uses Predictive AI To Avoid E-Grocery Substitution Shame",
+      "excerpt": "The retail giant will offer the ability for shoppers to use artificial intelligence to more accurately fulfill orders when requested items are out of stock.",
+      "sourceUrl": null,
+      "webUrl": "https://www.pymnts.com/news/artificial-intelligence/2021/walmart-uses-predictive-ai-for-grocery-substitutions/",
+      "originalUrl": "https://www.pymnts.com/news/artificial-intelligence/2021/walmart-uses-predictive-ai-for-grocery-substitutions/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://securecdn.pymnts.com/wp-content/uploads/2021/06/walmart-457x274.jpg",
+          "width": 457,
+          "height": 274,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.pymnts.com/news/artificial-intelligence/2021/walmart-uses-predictive-ai-for-grocery-substitutions/amp/",
+      "cdnAmpWebUrl": "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/artificial-intelligence/2021/walmart-uses-predictive-ai-for-grocery-substitutions/amp/",
+      "publishedDateTime": "2021-06-25T08:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "pymnts.com",
+        "domain": "pymnts.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-25-tesla-full-self-driving-v9-beta-update-slips-to-next-week-monthly-subscription-model-follows.md",
       "title": "Tesla Full Self-Driving v9 beta update slips to next week, monthly subscription model follows",
       "excerpt": "Elon Musk is again updating the timeline for Tesla’s new Full Self-Driving v9 beta update, which is apparently now slipping to next week. Tesla’s new FSD subscription model should follow at the same time.",
@@ -392,20 +486,20 @@
     },
     {
       "path": "_news/2021-06-25-exclusive-toyota-backed-self-driving-startup-ponyai-considers-going-public.md",
-      "title": "EXCLUSIVE Toyota-backed self-driving startup Pony.ai considers going public",
-      "excerpt": "FREMONT, California, June 25 (Reuters) - Self-driving tech company Pony.ai ... Pony.ai, founded by former Google and Baidu Inc (9888.HK) engineers Peng and Lou Tiancheng in 2016, has so far ...",
+      "title": "Exclusive: Toyota-backed self-driving startup Pony.ai considers going public",
+      "excerpt": "\"at-above-post addthis_tool\" data-url=\" California (Reuters) – Self-driving tech company Pony.ai, backed by Toyota Motor Corp, is considering going public in the United States to help fund its goal of commercializing driverless ride-hailing services,",
       "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/business/autos-transportation/exclusive-toyota-backed-self-driving-startup-ponyai-considers-going-public-2021-06-25/",
-      "originalUrl": "https://www.reuters.com/business/autos-transportation/exclusive-toyota-backed-self-driving-startup-ponyai-considers-going-public-2021-06-25/",
+      "webUrl": "https://www.metro.us/exclusive-toyota-backed-self-driving-startup/",
+      "originalUrl": "https://www.metro.us/exclusive-toyota-backed-self-driving-startup/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://www.reuters.com/resizer/2qSLKwou_uMeOYl9o0cLDFy9k_A=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/YKRNUSEBRNJLROOHXAMKCUAUOE.jpg",
-          "width": 1200,
-          "height": 628,
+          "url": "https://www.metro.us/wp-content/uploads/Reuters_Direct_Media/USOnlineReportBusinessNews/tagreuters.com2021binary_LYNXNPEH5O0G8-BASEIMAGE.jpg",
+          "width": 800,
+          "height": 533,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -413,23 +507,14 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-25T03:12:00-07:00",
+      "ampWebUrl": "https://www.metro.us/exclusive-toyota-backed-self-driving-startup/amp/",
+      "cdnAmpWebUrl": "https://www-metro-us.cdn.ampproject.org/c/s/www.metro.us/exclusive-toyota-backed-self-driving-startup/amp/",
+      "publishedDateTime": "2021-06-25T03:11:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "Metro US",
+        "domain": "metro.us",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1115,110 +1200,6 @@
         "AI",
         "AWS AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-06-25-the-future-of-us-ai-policy-may-hinge-on-a-pretend-war-against-a-fictional-china.md",
-      "title": "The future of US AI policy may hinge on a pretend war against a fictional China",
-      "excerpt": "War is coming. Later this year the US military will fight its most advanced war campaign ever as it faces off against a fictionalized version of China. The battles will be fake, but the results ...",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/news/future-ai-policy-wargame-war-china-autonomous",
-      "originalUrl": "https://thenextweb.com/news/future-ai-policy-wargame-war-china-autonomous",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F06%2Fplayagame.jpg&signature=bab8499891cbf24af0d70358bd722647",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-24T14:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-25-why-machine-learning-projects-fail-and-how-to-make-sure-they-dont.md",
-      "title": "Why Machine Learning Projects Fail – and How to Make Sure They Don’t",
-      "excerpt": "The first step to a successful ML project is to understand that these projects require different processes, terminology, workflows, and tools than those needed by traditional development.",
-      "sourceUrl": null,
-      "webUrl": "https://www.eweek.com/big-data-and-analytics/why-machine-learning-projects-fail-and-how-to-make-sure-they-dont/",
-      "originalUrl": "https://www.eweek.com/big-data-and-analytics/why-machine-learning-projects-fail-and-how-to-make-sure-they-dont/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.eweek.com/wp-content/uploads/2021/04/cloud-security.png",
-          "width": 1043,
-          "height": 652,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-24T13:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "eWeek",
-        "domain": "eweek.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/eweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Finance"
       ]
     }
   ],

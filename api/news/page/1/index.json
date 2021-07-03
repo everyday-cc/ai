@@ -2,6 +2,161 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-07-03-how-on-device-machine-learning-has-changed-the-way-we-use-our-phones.md",
+      "title": "How on-device machine learning has changed the way we use our phones",
+      "excerpt": "Whether you realize it or not, you probably benefit from machine learning on your phone every day. Where could the technology go next?",
+      "sourceUrl": null,
+      "webUrl": "https://www.androidauthority.com/machine-learning-phones-1238287/",
+      "originalUrl": "https://www.androidauthority.com/machine-learning-phones-1238287/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn57.androidauthority.net/wp-content/uploads/2020/07/Google-Pixel-4a-taking-a-photo-of-a-person.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.androidauthority.com/amp/machine-learning-phones-1238287/",
+      "cdnAmpWebUrl": "https://www-androidauthority-com.cdn.ampproject.org/c/s/www.androidauthority.com/amp/machine-learning-phones-1238287/",
+      "publishedDateTime": "2021-07-03T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Android Authority",
+        "domain": "androidauthority.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/androidauthority.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-03-4-ways-ai-is-unlocking-the-mysteries-of-the-universe.md",
+      "title": "4 ways AI is unlocking the mysteries of the universe",
+      "excerpt": "Astronomers are turning to artificial intelligence and machine learning to build new tools to rapidly search for the next big breakthrough.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/news/4-ways-ai-unlocking-astronomy-mysteries-universe-syndication",
+      "originalUrl": "https://thenextweb.com/news/4-ways-ai-unlocking-astronomy-mysteries-universe-syndication",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F07%2FTriangulum-Galaxy-hed-guillermo-ferla-kEEl9csCutg-unsplash-copy.jpg&signature=1e81bded5339458e45332f6121f52366",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-03T03:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-03-can-tesla-really-do-without-radar-for-full-self-driving.md",
+      "title": "Can Tesla Really Do Without Radar For Full Self-Driving?",
+      "excerpt": "Tesla has removed the radar from its Model 3 and Y. Can it really deliver on the promise of self-driving cars with just cameras?",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/jamesmorris/2021/07/03/can-tesla-really-do-without-radar-for-full-self-driving/",
+      "originalUrl": "https://www.forbes.com/sites/jamesmorris/2021/07/03/can-tesla-really-do-without-radar-for-full-self-driving/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60df74701b3d17f18787c1b5%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D3450%26cropY1%3D173%26cropY2%3D2114",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/jamesmorris/2021/07/03/can-tesla-really-do-without-radar-for-full-self-driving/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jamesmorris/2021/07/03/can-tesla-really-do-without-radar-for-full-self-driving/amp/",
+      "publishedDateTime": "2021-07-03T03:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-03-madden-22s-next-gen-stats-and-star-driven-ai-may-have-an-important-disconnect.md",
       "title": "Madden 22’s Next-Gen Stats And Star-Driven AI May Have An Important Disconnect",
       "excerpt": "The concept of Next-Gen Stats and star-driven AI are great, but both enhancements might still miss the mark in fixing a legacy issue in the Madden series.",
@@ -206,7 +361,7 @@
       "originalUrl": "https://aws.amazon.com/blogs/machine-learning/detect-manufacturing-defects-in-real-time-using-amazon-lookout-for-vision/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 83,
       "tags": null,
       "images": [
         {
@@ -415,7 +570,7 @@
       "originalUrl": "https://biztechmagazine.com/article/2021/07/ai-strategies-what-natural-language-processing-and-how-can-it-help-businesses-perfcon",
       "featuredContent": null,
       "highlight": null,
-      "heat": 82,
+      "heat": 72,
       "tags": null,
       "images": [
         {
@@ -1080,161 +1235,6 @@
       "topics": [
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-07-01-amazon-plans-to-build-delivery-robot-tech-in-finland.md",
-      "title": "Amazon plans to build delivery robot tech in Finland",
-      "excerpt": "Amazon announced Thursday that it plans to develop new technology for its autonomous delivery vehicles in Helsinki, Finland.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2021/07/01/amazon-plans-to-build-scout-delivery-robot-tech-in-finland.html",
-      "originalUrl": "https://www.cnbc.com/2021/07/01/amazon-plans-to-build-scout-delivery-robot-tech-in-finland.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/105695322-1548263648288amazon-scout.jpg?v=1548263696",
-          "width": 3600,
-          "height": 2400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2021/07/01/amazon-plans-to-build-scout-delivery-robot-tech-in-finland.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/07/01/amazon-plans-to-build-scout-delivery-robot-tech-in-finland.html",
-      "publishedDateTime": "2021-07-01T08:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-01-after-an-84m-raise-strawberry-picking-robotics-startup-traptic-begins-commercial-deployment.md",
-      "title": "After an $8.4M raise, strawberry-picking robotics startup Traptic begins commercial deployment",
-      "excerpt": "We first covered Traptic back in 2019, when it appeared as a Battlefield finalist on stage at Disrupt SF. Today, the South Bay robotics startup is announcing some major progress. For starters, it began commercial deployment of its strawberry-picking mobile robot early this month.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/07/01/after-8-4m-raise-strawberry-picking-robotics-startup-traptic-begins-commercial-deployment/",
-      "originalUrl": "https://techcrunch.com/2021/07/01/after-8-4m-raise-strawberry-picking-robotics-startup-traptic-begins-commercial-deployment/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/ZPmsvnouJ9w/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/07/01/after-8-4m-raise-strawberry-picking-robotics-startup-traptic-begins-commercial-deployment/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/07/01/after-8-4m-raise-strawberry-picking-robotics-startup-traptic-begins-commercial-deployment/amp/",
-      "publishedDateTime": "2021-07-01T08:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-07-01-bolle-uses-lens-lab-and-ai-for-enhancing-color-contrast-including-tennis-specific-sunglasses.md",
-      "title": "Bollé Uses Lens Lab And AI For Enhancing Color Contrast, Including Tennis-Specific Sunglasses",
-      "excerpt": "The Bolle EPIC lab in Lyon, France, used artificial intelligence to sort through millions of lens formula combinations to create a fresh perspective on sunglasses and color contrast.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/timnewcomb/2021/07/01/boll-uses-lens-lab-and-ai-for-enhancing-color-contrast-including-tennis-specific-sunglasses/",
-      "originalUrl": "https://www.forbes.com/sites/timnewcomb/2021/07/01/boll-uses-lens-lab-and-ai-for-enhancing-color-contrast-including-tennis-specific-sunglasses/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60db9570bcb38d9ca5c220d5%2F0x0.jpg",
-          "width": 1061,
-          "height": 710,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/timnewcomb/2021/07/01/boll-uses-lens-lab-and-ai-for-enhancing-color-contrast-including-tennis-specific-sunglasses/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/timnewcomb/2021/07/01/boll-uses-lens-lab-and-ai-for-enhancing-color-contrast-including-tennis-specific-sunglasses/amp/",
-      "publishedDateTime": "2021-07-01T08:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],
