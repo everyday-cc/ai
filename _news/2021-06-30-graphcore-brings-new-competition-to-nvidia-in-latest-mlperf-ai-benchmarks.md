@@ -8,7 +8,7 @@ webUrl: "https://www.zdnet.com/article/graphcore-brings-new-competition-to-nvidi
 ampWebUrl: "https://www.zdnet.com/google-amp/article/graphcore-brings-new-competition-to-nvidia-in-latest-mlperf-ai-benchmarks/"
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/graphcore-brings-new-competition-to-nvidia-in-latest-mlperf-ai-benchmarks/"
 type: article
-quality: 88
+quality: 86
 heat: -1
 published: false
 
@@ -21,7 +21,6 @@ provider:
       height: 50
 
 topics:
-  - AI Hardware
   - AI
 
 images:
@@ -145,16 +144,7 @@ related:
       name: insideHPC
       domain: insidehpc.com
     quality: 21
-  - title: "Inspur Releases Liquid Cooled AI Server With NVIDIA A100 GPUs at ISC High Performance Digital 2021"
-    excerpt: "Today at ISC High Performance 2021 Digital, the event for high performance computing, machine learning, and data analytics, Inspur Information, a leading IT infrastructure solution provider, announces its new liquid cooling AI server,"
-    publishedDateTime: 2021-06-28T11:57:00Z
-    webUrl: "https://www.businesswire.com/news/home/20210628005273/en/Inspur-Releases-Liquid-Cooled-AI-Server-With-NVIDIA-A100-GPUs-at-ISC-High-Performance-Digital-2021"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 20
 
-secured: "8hU8oyn/ywkZ0QnK+oqkgD+Wt9rdQuTse+jq5yJiv5FxBz9oaTvSNSSA/1V7rjV7RixNiugaeyY7hJENmaVb4oIc8Qkg5wUT5WjrOnznRktVusF2iavYKseiPhxRb2gTenik+FTMDqZ0goshyC6DkV8SjoNjfXYUvU32Xq/6/QYgSvPymmv4AGqFQvXOth/bRK4TtG5hXZK08BPU/9PnAiFk9juB+Zq53F8ITNJO7nok8VC/ifVJbZmyj9+Rlx+KdD5gYoQG4vJGeDCp/LFEaLUHsNjhBRVd7lieigHK3SJkFrUgc2iyWzBGJrQL2D2/z+dr+tRDwqLr3GmaHPsYKMBoUV0a81pLJL61Z3TndBs=;/noypgsiuCrCe7SwY2JcWw=="
+secured: "28ckzn+vLOmQp0Mb/4XzrHIDbpkg5kYfD3oGrn+NnrMMq0Hiu3JcZfOODluKl+erJOMMZvCy7UTJbES4Wi4sG2N5Uac9ewK8Qyz67sL6EhPUpzRJy2jdVYcbViGDg/u+MGtyGHvGKGR+RL94Yt3oiFQd8MiNy3KYnR1E2ZUGOrgLL/+1iobRMM4sGyWfqkOCPsrIspFghuXHM8de4lyXXTUiXTuHRhm8L7owMzsY0uFFr8A2bHel4/HaHMI2TWRLymTLBSnXiAx7Jjsu/ziTvn5d6OMjW5M6kA/uhdJHNfpN6erhtcqsCvClHMtlhTXVLPKF5HB99aRJKO9L83828H80fFxEZ6B6AXJ/lkwkRRg=;dvxvaAjkqIV5ldWb3gyLzQ=="
 ---
 

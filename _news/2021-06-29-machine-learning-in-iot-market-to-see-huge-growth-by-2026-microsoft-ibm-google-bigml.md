@@ -40,6 +40,20 @@ related:
         width: 672
         height: 448
         isCached: true
+  - title: "Artificial Intelligence Solutions Market May Set New Growth Story"
+    excerpt: "The Global Artificial Intelligence Solutions Market study describes how the technology industry is evolving and how major and emerging players in the industry are responding to long term opportunities and short-term challenges they face."
+    publishedDateTime: 2021-07-03T05:27:00Z
+    webUrl: "https://ksusentinel.com/2021/07/03/artificial-intelligence-solutions-market-may-set-new-growth-story/"
+    type: article
+    provider:
+      name: The Sentinel
+      domain: ksusentinel.com
+    quality: 37
+    images:
+      - url: "https://ksusentinel.com/wp-content/uploads/2021/07/3D-Modeling-Software-for-Architecture-Market-390x220.jpeg"
+        width: 390
+        height: 220
+        isCached: true
 
 secured: "cgO/Z4bQLF3fMEnaVHRTYpRNPrR3DbA/X9BUDTgrTNGMG24pmzYlm1PhtDYBMzeJbYNB1r1j/mMX9yWhDcBL/qDODqMD+2RICm84c/SsPhMZ3a6DNtVSYoxCCLVJY0sPikvTOnqRozh+lwZ9uDPrislFqEX+9ma8PHfqfWFO5A5JBg8k7cbzAkMIXJzidC7S1XeMCVl36z/VS/34eVzO0mj3SgndtdXnnGfIuP8b9bvd1DScVvDIxmttUuOn6yxLDohtN7VQiJmz/U7m72itcCByBXxepRzKSkcGv8RruzyrIOPYFGBwsA4A/TAV27BR8rA/zFz2vmaODjWBq/z0Oh22CTwZmeHSCYnDJErJoxA=;dgE/nrt5SSS0euzoWh6j6g=="
 ---

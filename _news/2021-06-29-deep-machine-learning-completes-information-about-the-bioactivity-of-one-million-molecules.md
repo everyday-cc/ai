@@ -22,22 +22,6 @@ topics:
   - Machine Learning
   - AI
 
-related:
-  - title: "Deep machine learning completes information about one million bioactive molecules"
-    excerpt: "The Structural Bioinformatics and Network Biology laboratory, led by ICREA Researcher Dr. Patrick Aloy, has completed the bioactivity information for a million molecules using deep machine-learning computational models."
-    publishedDateTime: 2021-06-28T12:19:00Z
-    webUrl: "https://phys.org/news/2021-06-deep-machine-million-bioactive-molecules.html"
-    type: article
-    provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 34
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/deep-machine-learning.jpg"
-        width: 2016
-        height: 1474
-        isCached: true
-
 secured: "Rcp0eo0M686M+WRXmt+Ri6Eo/focFSHWVup2N91K2zXQMEXujTDkg6i7AjzbXpfOGXtE/hnZEshCpT9jZS/NcyZsB8glXvkPEezOlj+x30iqTQvUd45ShgNFWe0cz1C0PfmmYLUlrHi0asiEgrWwCTqKl2dnJCnPQEn+IJQD1R3erBxB2xXuFmoLBfRVOn9p01EW5BDieNsTTIMJvoIw+InKkCZ2oc+k1MxIjqNPGL0ciFMdukcMtVLeaS4aeiFXjnu903K6ULOLlm6/riC0iMHUiDbWY4U1Lijy6mn9jZXR+s+IGzbvC7S2CrQ3Rs4Nei8uVq2AQRcqmhM3jtDTW3N3HObEp1Ne00X/gASy6VQ=;Z35sgu7Q3LGraDJrdKh9BQ=="
 ---
 

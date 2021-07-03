@@ -115,20 +115,6 @@ related:
         width: 800
         height: 362
         isCached: true
-  - title: "Maximise benefits of AI for health, minimise risks: WHO"
-    excerpt: "Artificial Intelligence (AI) holds great promise for improving the delivery of healthcare and medicine worldwide, but only if ethics"
-    publishedDateTime: 2021-06-28T12:37:00Z
-    webUrl: "https://www.glamsham.com/world/technology/maximise-benefits-of-ai-for-health-minimise-risks-who"
-    type: article
-    provider:
-      name: glamsham.com
-      domain: glamsham.com
-    quality: 39
-    images:
-      - url: "https://www.glamsham.com/wp-content/uploads/2021/06/63a85dd6735270f10a5cb0b17b285dfd-3.jpg"
-        width: 400
-        height: 231
-        isCached: true
   - title: "WHO report warns against overestimating benefits of AI in health"
     excerpt: "AI can help to bridge the health service access gap in poor countries, but bias, unethical use of data, and poorly trained models are all risks to be overcome"
     publishedDateTime: 2021-06-29T08:35:00Z

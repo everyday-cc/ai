@@ -41,20 +41,6 @@ related:
         width: 1500
         height: 1158
         isCached: true
-  - title: "AI/ML to Acquire Interest in Digital Mental Health Provider, Tech2Health"
-    excerpt: "Tech2Health is well positioned to provide support for the current mental health pandemic, utilizing a unique blend of proprietary digital assets, remote live counselling, and a physical wellness center."
-    publishedDateTime: 2021-06-28T11:31:00Z
-    webUrl: "https://apnews.com/press-release/accesswire/europe-coronavirus-pandemic-technology-business-health-a6b505c3ae0e14946d487d21b6c9ab99"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 55
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
 
 secured: "MXaK6rTGMJj/CKLiwu+Y2ET+Lkjda2oCCla1qPlwoHlzsI3sfkhq2jae/xVij83QISRNSpsoTccd0bVZt8tAVRwJMrKizu1ijS50eya6mhH8ZNrxwtyV4L/qlp8Z8WvSead0XHRlQDtHCVCmhO6nKy9qsg9I7DRLiafwZna/S2NHLIsf4y/lksJjwmcQtQzJbSWqDowA8PxLozJ7D0cUFaql31+K7FlNkZQVF3ZXUZu/R0WbxH/5CY9e4jxEaplgpOShKHKKa2Gz5RRULW4VpGQpvjWbq420WmRc0qo86GwMC7vyhuetVUf02QbcRUWdRTxJzYa9F/ryTv9VPM+teMZuVJMizYr0gXd1z2jIAn4=;AeY9iUN5i+kOVfxliPoTPg=="
 ---

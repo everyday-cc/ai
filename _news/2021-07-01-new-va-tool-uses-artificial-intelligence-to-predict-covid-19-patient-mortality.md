@@ -99,17 +99,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "AI Governance Market to 2027, Future Outlook, COVID-19 Impact Analysis, Forecast - 2027"
-    excerpt: "The Global AI Governance Market to grow from USD 50 million in 2020 to USD 1 016 million by 2027 at a Compound Annual Growth Rate CAGR of 65 during the forecast period AI governance is based on the idea"
-    publishedDateTime: 2021-06-28T11:06:00Z
-    webUrl: "https://www.openpr.com/news/2315255/ai-governance-market-to-2027-future-outlook-covid-19-impact"
-    ampWebUrl: "https://www.openpr.com/amp/2315255/ai-governance-market-to-2027-future-outlook-covid-19-impact"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2315255/ai-governance-market-to-2027-future-outlook-covid-19-impact"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 31
   - title: "Global Artificial Intelligence in the Manufacturing Sector Market Drugs Market Size, Share, Growth,Trends, COVID-19 Analysis and Forecast 2021-2030"
     excerpt: "In a recent published report, Kenneth Research has updated the market report for Global Artificial Intelligence in"
     publishedDateTime: 2021-07-01T05:04:00Z

@@ -59,20 +59,6 @@ related:
       name: TV Technology
       domain: tvtechnology.com
     quality: 39
-  - title: "IBM, Red Hat launch next-generation wireless cloud tools with artificial intelligence"
-    excerpt: "IBM, bolstered by technology from Red Hat, is rolling out a next-generation 5G wireless service in the cloud that incorporates artificial intelligence. And big telecom providers Verizon and Telefonica"
-    publishedDateTime: 2021-06-28T11:56:00Z
-    webUrl: "https://www.wraltechwire.com/2021/06/28/ibm-red-hat-launch-next-generation-wireless-cloud-tools-with-artificial-intelligence/"
-    type: article
-    provider:
-      name: WRAL TechWire
-      domain: wraltechwire.com
-    quality: 30
-    images:
-      - url: "https://www.wraltechwire.com/wp-content/uploads/2020/11/cloud-computing-internet-of-things-e1605713015179-1024x576.png"
-        width: 1024
-        height: 576
-        isCached: true
   - title: "IBM Watson Advertising announces new research to explore the role of artificial intelligence in detecting and mitigating advertising bias"
     excerpt: "A six-month research project will use IBM's open source artificial intelligence technology and Ad Council campaign data"
     publishedDateTime: 2021-07-01T11:09:00Z

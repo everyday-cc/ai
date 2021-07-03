@@ -59,22 +59,6 @@ related:
         width: 600
         height: 337
         isCached: true
-  - title: "Qualcomm Snapdragon 888 Plus Announced with CPU and AI Upgrades"
-    excerpt: "Qualcomm has refreshed its flagship chipset for smartphones with the new Snapdragon 888 Plus at MWC 2021. Check out the details here."
-    publishedDateTime: 2021-06-28T11:13:00Z
-    webUrl: "https://beebom.com/qualcomm-snapdragon-888-plus-announced/"
-    ampWebUrl: "https://beebom.com/qualcomm-snapdragon-888-plus-announced/amp/"
-    cdnAmpWebUrl: "https://beebom-com.cdn.ampproject.org/c/s/beebom.com/qualcomm-snapdragon-888-plus-announced/amp/"
-    type: article
-    provider:
-      name: Beebom
-      domain: beebom.com
-    quality: 59
-    images:
-      - url: "https://beebom.com/wp-content/uploads/2021/06/Qualcomm-Snapdragon-888-Plus-Announced-with-CPU-and-AI-Upgrades-2.jpg"
-        width: 750
-        height: 500
-        isCached: true
   - title: "Qualcomm Snapdragon 888 Plus announced with higher clock speed, improved AI engine"
     excerpt: "The Mobile World Congress (MWC) is starting up strong with the introduction of a new flagship chipset from Qualcomm. Here we have an amped-up version of its current top-tier processor, the Qualcomm Snapdragon 888 Plus."
     publishedDateTime: 2021-06-28T16:41:00Z

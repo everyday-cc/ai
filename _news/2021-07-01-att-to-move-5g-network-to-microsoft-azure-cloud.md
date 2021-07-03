@@ -90,34 +90,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "DataDx Version 2.0 Now Available in the Microsoft Azure Marketplace"
-    excerpt: "Microsoft Azure customers worldwide now gain access to DataDx 2.0 to take advantage of the scalability, reliability, and agility of Azure to drive application development and shape business strategies."
-    publishedDateTime: 2021-06-28T13:00:00Z
-    webUrl: "https://us.acrofan.com/detail.php?number=491726"
-    type: article
-    provider:
-      name: 아크로팬
-      domain: acrofan.com
-    quality: 69
-    images:
-      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
-        width: 580
-        height: 339
-        isCached: true
-  - title: "OAG’s Flight Info API now available in the Microsoft Azure Marketplace"
-    excerpt: "Microsoft Azure customers worldwide now gain access to the Flight Info API to take advantage of the scalability, reliability, and agility of Azure to drive application development and shape business strategiesLONDON--(BUSINESS WIRE)--OAG,"
-    publishedDateTime: 2021-06-28T12:00:00Z
-    webUrl: "https://us.acrofan.com/detail.php?number=491635"
-    type: article
-    provider:
-      name: 아크로팬
-      domain: acrofan.com
-    quality: 69
-    images:
-      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
-        width: 580
-        height: 339
-        isCached: true
   - title: "With Windows 11 'accessibility was considered from the start,' says Microsoft"
     excerpt: "Microsoft explains how \"Windows 11 is the most inclusively designed version of Windows\" in a recent blog post. The operating system includes several features to improves accessibility."
     publishedDateTime: 2021-07-02T13:54:00Z
@@ -204,15 +176,6 @@ related:
         width: 1024
         height: 576
         isCached: true
-  - title: "BUSINESS WIRE: OAG’s Flight Info API Now Available in the Microsoft Azure Marketplace"
-    excerpt: "The Azure Marketplace is an online market for buying and selling ... Sordin e Cardo Crew collaborano per creare una nuova generazione di protezioni auricolari intelligenti dedicate ai team dei professionisti mobili 14:10 BUSINESS WIRE: Sordin und Cardo ..."
-    publishedDateTime: 2021-06-28T12:47:00Z
-    webUrl: "https://www.finanztreff.de/news/business-wire-oags-flight-info-api-now-available-in-the-microsoft-azure-marketplace/25165648"
-    type: article
-    provider:
-      name: Finanztreff
-      domain: finanztreff.de
-    quality: 42
   - title: "Microsoft, SES demo Azure Cloud for remote missions via secure GovSat service"
     excerpt: "Microsoft and SES have demonstrated the use of Azure Cloud for remote missions using the secure MilSatCom connectivity. The demonstration also involved GovSat, public-private JV between the Luxembourg government and SES,"
     publishedDateTime: 2021-07-01T13:15:00Z

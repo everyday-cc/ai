@@ -28,15 +28,6 @@ images:
 
 related:
   - title: "New Intel XPU Innovations Target HPC and AI"
-    excerpt: "The next generation of Intel Xeon Scalable processors (code-named “Sapphire Rapids”) will integrate High Bandwidth Memory (HBM). Intel’s X e -HPC-based Ponte Vecchio GPU has powered-on, is in system validation,"
-    publishedDateTime: 2021-06-28T11:15:00Z
-    webUrl: "https://www.morningstar.com/news/business-wire/20210628005138/new-intel-xpu-innovations-target-hpc-and-ai"
-    type: article
-    provider:
-      name: Morningstar, Inc.
-      domain: morningstar.com
-    quality: 19
-  - title: "New Intel XPU Innovations Target HPC and AI"
     excerpt: "At ISC, Intel showcases how it is extending its lead in high performance computing with technology disclosures, partnerships and customer adoptions."
     publishedDateTime: 2021-06-28T20:15:00Z
     webUrl: "https://www.businesswire.com/news/home/20210628005138/en/New-Intel-XPU-Innovations-Target-HPC-and-AI"

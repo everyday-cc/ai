@@ -25,6 +25,17 @@ images:
     height: 480
     isCached: true
 
+related:
+  - title: "AI in asset management, part 2"
+    excerpt: "A good example of unused or discarded information is the asset management data discussed last month ( in part 1 of this story) that's stranded in devices. Image transmittal is another bandwidth-intensive operation for which artificial intelligence (AI) can provide useful information by edge processing and transmitting only relevant changes in state."
+    publishedDateTime: 2021-06-29T14:21:00Z
+    webUrl: "https://www.controlglobal.com/articles/2021/ai-in-asset-management-part-2/"
+    type: article
+    provider:
+      name: Control Global
+      domain: controlglobal.com
+    quality: 19
+
 secured: "2IZEC6PSSkgWc65pKq5hEmHiYyCdXmZ5I1UiZfcI0WBi2XY6wK7BKhzVWp7ECLdQfCW7YiIxdvHgk47UA7TmPOKjn6ozJFTnSLjF4YJimPYoFV8VPPdhGlvSiUiHXhoIAeUStKI/95jgrdMuupU3erw0mPq05SJvCcit7O3GzzsB0apg5QFQGKgkJv2rcSPD6CyKXHjkOSLKRGkCx9g9BRqInJj4/VK3XTtWlbBv6kxWrBK4bONBcEjDgfAy4Llfo8QL3oir3Cx06fm0VzvwK3Vy5vUsLzjrbYLziV2jU69+ujUE4erlDLk7XCzUTgiuy2kcGv9GRRDEMq3ytzvyzkfL3McEFWvwomEQaQuqwzxkUFmlwjJ0Li8xD7L3OrHQo2q5eloPIULqZbe2+iJdZTAGqN+XdEMcqxL8RIpEFXxrbu7Ehgdoo6+p+VUxdijy4FqqKcVAF97pbSism3lfWqSJttqahrcq8e9LuHrLOsv3e1rF5TCsgYOcid+N43dqAriPzN3QD7eZJ2rxgEMYHw==;WbRhbW27qjUyKeuQoilUoA=="
 ---
 

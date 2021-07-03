@@ -73,20 +73,6 @@ related:
         width: 2560
         height: 1707
         isCached: true
-  - title: "IBM, Red Hat launch next-generation wireless cloud tools with artificial intelligence"
-    excerpt: "IBM, bolstered by technology from Red Hat, is rolling out a next-generation 5G wireless service in the cloud that incorporates artificial intelligence. And big telecom providers Verizon and Telefonica"
-    publishedDateTime: 2021-06-28T11:56:00Z
-    webUrl: "https://www.wraltechwire.com/2021/06/28/ibm-red-hat-launch-next-generation-wireless-cloud-tools-with-artificial-intelligence/"
-    type: article
-    provider:
-      name: WRAL TechWire
-      domain: wraltechwire.com
-    quality: 30
-    images:
-      - url: "https://www.wraltechwire.com/wp-content/uploads/2020/11/cloud-computing-internet-of-things-e1605713015179-1024x576.png"
-        width: 1024
-        height: 576
-        isCached: true
 
 secured: "IVFifqfcpaba4aJA4C48+BG+nU3tFT07csm0a1sjkJ4K67F4bS7ROZiaLlyc0jbkQapRP76Ak1h83fvT3lMYCzsUYfqOzjzQMNyUNIM0cc+h3TvSfLayvHmF1cdHTLLwlE/NxkfO+Ojtb7wBP/sG/eBRo7IvRZBArffpjU1Z47IM0nmnohULdwT8FvUaLyy55otJItANLcEMEt0ezunxF4Qe1CeH+suLMfjv+tXf58EG5uYCxrFJ2R6scWCc5dHoyaAr+qhSINVCYVKFIOqWVvY9wfypwV/jYUhS4+tsBPWXQGSdeySE5fA8YN3+y6Nu3XXQqvXEtX1Ok2i/kgO4kwZZK1oqQ/fjM104RePn3R6Gdjn3N+tntRUhOU3NeHv/cTPx1AL5gHgXC0oadxOegnTQOsblvFsi6CiDmfYYihUtKuLOvupAawxJtQabHtXjZ6yBZVUW6yxQ6KlfuXSp6CiilHSDRufBukdHbzhCh7BjTrBGbGTvuMcPfvWYuTN23VMm0/9xXsYTnn3alGe3aA==;9ETSbfyzh/m9YwVhLDDdmA=="
 ---

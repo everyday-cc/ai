@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/bobodonnell/2021/06/29/nvidias-aerial-b
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bobodonnell/2021/06/29/nvidias-aerial-brings-gpus-to-ai-on-5g/amp/"
 type: article
 quality: 106
-heat: 196
+heat: 186
 published: true
 
 provider:
@@ -74,7 +74,7 @@ related:
     provider:
       name: ZDNet
       domain: zdnet.com
-    quality: 88
+    quality: 86
     images:
       - url: "https://www.zdnet.com/a/hub/i/2021/06/30/af021708-3cd7-4136-a6fb-48d2c0bb412c/graphcore-nvidia-comparison-crop-layout-for-twitter.jpg"
         width: 1600
@@ -146,15 +146,6 @@ related:
       name: insideHPC
       domain: insidehpc.com
     quality: 21
-  - title: "Inspur Releases Liquid Cooled AI Server With NVIDIA A100 GPUs at ISC High Performance Digital 2021"
-    excerpt: "Today at ISC High Performance 2021 Digital, the event for high performance computing, machine learning, and data analytics, Inspur Information, a leading IT infrastructure solution provider, announces its new liquid cooling AI server,"
-    publishedDateTime: 2021-06-28T11:57:00Z
-    webUrl: "https://www.businesswire.com/news/home/20210628005273/en/Inspur-Releases-Liquid-Cooled-AI-Server-With-NVIDIA-A100-GPUs-at-ISC-High-Performance-Digital-2021"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 20
 
 secured: "YpL3UgwO+m7381+5xRxuuwTeI3wyXX0jPfU8i2j0yxQqKP+MQfj74ZHIMBInFaJOr2Psfu0PABhxhoV1FnSSypxFOtnwbpzoSLrr/ZGYcCLngp7WT2dZREb0oeZXKroHDhm5ZYTqNYbt01XUcaVXWq2hnp9ooHynH0jzP4Za+4d/WEHKwhHNc47/ChHj0lWufsh2t/Wqcug6s4r7nIVanFqeqQxu1QLevEKXN/gIU1FGyoEDslUxhhru4RSdyzZQZWPuwncEhsmcJPuqFNAySRfA3X+u+AbqwM6w2rwOiVrHVPmS2uGBW2l/6O9ix4nLVplDV9cvoLTPGhsjx8a8EiLoo+p4oNVWyLgMU+TUPJJ0imetAXWFb45UxU6fiDbK4Px9Ja72JynrKoEH/Q9ws5uvVrpschxhGHKhS0y+PCQOl0zHTXHmFxQyZwhzg+eHuuh+KvQrpb6W9Dk8NDQvjBobt54V2E70NjtLF2/oiZio+fOl8gSnV+2Hi96bNTJxx1hTnMSwGRpsv40ND8RY6w==;bQirOc4Q45n0VAVXZTKv6A=="
 ---

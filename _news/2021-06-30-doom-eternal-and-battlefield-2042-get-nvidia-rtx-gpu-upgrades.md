@@ -85,7 +85,7 @@ related:
     provider:
       name: ZDNet
       domain: zdnet.com
-    quality: 88
+    quality: 86
     images:
       - url: "https://www.zdnet.com/a/hub/i/2021/06/30/af021708-3cd7-4136-a6fb-48d2c0bb412c/graphcore-nvidia-comparison-crop-layout-for-twitter.jpg"
         width: 1600
@@ -141,15 +141,6 @@ related:
       name: insideHPC
       domain: insidehpc.com
     quality: 21
-  - title: "Inspur Releases Liquid Cooled AI Server With NVIDIA A100 GPUs at ISC High Performance Digital 2021"
-    excerpt: "Today at ISC High Performance 2021 Digital, the event for high performance computing, machine learning, and data analytics, Inspur Information, a leading IT infrastructure solution provider, announces its new liquid cooling AI server,"
-    publishedDateTime: 2021-06-28T11:57:00Z
-    webUrl: "https://www.businesswire.com/news/home/20210628005273/en/Inspur-Releases-Liquid-Cooled-AI-Server-With-NVIDIA-A100-GPUs-at-ISC-High-Performance-Digital-2021"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 20
 
 secured: "pnH0RL5hTegjFfukQmfskfhmENEfU1ihZ864ThHOC4GwM6sRJhIfsYZZNVmUUu47C4qmtipq7C5yu5MGVkPYRuJQ65WfZ35Xv6CoIwb+GdQNW2NpQupsId968sVV1PDrHxx6AGPz7CVgnTz90KuNq5YAhG0nDLeeurx96tW1iSk73bhhAsPCtJIx9EsZL35gR6T9iR/NCEAeJ+WRuozZDvNyI8y1Z63ROjY6gGnoUCfZurItQD7TV06qvuCVJS0vlz/V255Ie/X2KOofBKKIO7AUi9TSdInEGSXlq0+/tSPGCCYF/L5Uo6b/UT7Bxp02fCP6geoV06dT7W8G55Zf144pS/S6abZZb9vhXWO0rUk=;tFwsX8qNPkeIvZYi5awcbw=="
 ---

@@ -9,8 +9,8 @@ ampWebUrl: "https://medicalxpress.com/news/2021-06-artificial-intelligence-menta
 cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-06-artificial-intelligence-mental-health-stigma.amp"
 type: article
 quality: 57
-heat: 77
-published: true
+heat: 67
+published: false
 
 provider:
   name: Medical Xpress
@@ -26,20 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI/ML to Acquire Interest in Digital Mental Health Provider, Tech2Health"
-    excerpt: "Tech2Health is well positioned to provide support for the current mental health pandemic, utilizing a unique blend of proprietary digital assets, remote live counselling, and a physical wellness center."
-    publishedDateTime: 2021-06-28T11:31:00Z
-    webUrl: "https://apnews.com/press-release/accesswire/europe-coronavirus-pandemic-technology-business-health-a6b505c3ae0e14946d487d21b6c9ab99"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 55
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
   - title: "RingCentral Attacks Robocalls with AI-Powered Solution and STIR/SHAKEN Implementation"
     excerpt: "RingCentral , a leading provider of global enterprise cloud communications, video meetings, collaboration, and contact center solutions, today announced that the company is taking steps to protect customers from the increasing problem of"
     publishedDateTime: 2021-06-29T11:08:00Z

@@ -32,15 +32,15 @@ related:
         width: 768
         height: 507
         isCached: true
-  - title: "The Launch of NVIDIA Jetson AGX Xavier Industrial Module Signifies the Expansion of Edge AI Use Cases"
-    excerpt: "NVIDIA announced the launch of Jetson AGX Xavier Industrial Module. The ruggedized Artificial Intelligence (AI) compute system is designed for both stationary and mobile edge devices to function under extreme operational environments,"
-    publishedDateTime: 2021-06-28T12:53:00Z
-    webUrl: "https://www.abiresearch.com/market-research/product/7779515-the-launch-of-nvidia-jetson-agx-xavier-ind/"
+  - title: "Pivotree Updates Machine Learning Platform With Image Recognition Features and Enhanced Data Management Functionality"
+    excerpt: "CNW/ - Pivotree Inc. (TSXV: PVT) (\"Pivotree'' or the \"Company\"), a leading provider of Frictionless Commerce solutions, today announced the next generation of its DIVE Machine Learning platform, a SaaS-based solution that combines machine learning,"
+    publishedDateTime: 2021-06-29T11:08:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-pivotree-updates-machine-learning-platform-with-image-recognition-/2021/06/29/9399321.htm"
     type: article
     provider:
-      name: ABI Research
-      domain: abiresearch.com
-    quality: 4
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
 secured: "S+rtjXkbVVrE3sTcQe/er8xFmPEtIQxkaDgYFgwPeIrdprDV8Lebi3ZBZq9l6dmdkovPYsCmOIRWezcut4fJiv72NCEo5Y4zPv/Dcepf9uy6mmUm4ZLE8+11JStE10VeOkEn0P/22nrwvIAqiMTtmLdelllFbr9GN+67sbjx4554rf15L8Rpm3E/GbrRs+aLCClcGeWsquZtZpU++qSj7muo8o9AGnygwmHA41Z6jpHXGM1YXGwG0bbAmTjfiS+HEiaR7AuIWTrH7M9TYG2pfezu1GW+b1l0kb5XH1Eo0uTlhEulFiT80FOoWVWmCUG1VgrmDuK74BT69vl5w+D0rW1Od9tFs1UzRN90HmLo5nY=;AMQjUt8DEMaVV1+nfnW83Q=="
 ---

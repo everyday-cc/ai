@@ -39,22 +39,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "In The Push Against Cash, Cannabis FinTech Meets The Industry Where It Is"
-    excerpt: "Dama Financial discusses the importance of offering cannabis businesses a choice between preserving cash processes and graduating to electronic payments."
-    publishedDateTime: 2021-06-28T12:00:00Z
-    webUrl: "https://www.pymnts.com/news/b2b-payments/2021/dama-financial-cannabis-cash-fintech-electronic-payments/"
-    ampWebUrl: "https://www.pymnts.com/news/b2b-payments/2021/dama-financial-cannabis-cash-fintech-electronic-payments/amp/"
-    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/b2b-payments/2021/dama-financial-cannabis-cash-fintech-electronic-payments/amp/"
-    type: article
-    provider:
-      name: pymnts.com
-      domain: pymnts.com
-    quality: 58
-    images:
-      - url: "https://securecdn.pymnts.com/wp-content/uploads/2019/12/cannabis-business-457x305.jpg"
-        width: 457
-        height: 305
-        isCached: true
   - title: "Symphony Partners With AI-Powered Fintech Saphyre To Offer Integrated ..."
     excerpt: "NEW YORK, NY and LONDON, UK / ACCESSWIRE / June 29, 2021 / Symphony, the leading financial markets' infrastructure and technology platform, has established a strategic partnership with fintech firm Saphyre,"
     publishedDateTime: 2021-06-29T12:00:00Z
@@ -138,20 +122,6 @@ related:
       - url: "https://cdn.bignewsnetwork.com/ani1625219010.jpg"
         width: 630
         height: 420
-        isCached: true
-  - title: "Inclusive Fintech 50 launches 2021 competition to recognize early-stage fintechs driving innovation in an era of uncertainty"
-    excerpt: "An independent panel of leading fintech experts will select 50 innovative inclusive fintech startups helping communities rebuild from the pandemicWASHINGTON--(BUSINESS WIRE)--#InclusiveFintech50--The Center for Financial Inclusion (CFI) has launched the third year of Inclusive Fintech 50 (IF50),"
-    publishedDateTime: 2021-06-28T13:00:00Z
-    webUrl: "https://us.acrofan.com/detail.php?number=491730"
-    type: article
-    provider:
-      name: 아크로팬
-      domain: acrofan.com
-    quality: 12
-    images:
-      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
-        width: 580
-        height: 339
         isCached: true
   - title: "Global Artificial Intelligence In Diagnostic Market Size, Status and Forecast 2021-2027"
     excerpt: "Pages Report] Check for Discount on Global Artificial Intelligence In Diagnostic Market Size, Status and Forecast 2021-2027 report by QYResearch Group. Market Analysis and Insights: Global Artificial Intelligence In Diagnostic"

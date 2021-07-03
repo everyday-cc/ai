@@ -7,7 +7,7 @@ originalUrl: "https://www.usnews.com/education/skillbuilder/getting-started-with
 webUrl: "https://www.usnews.com/education/skillbuilder/getting-started-with-ai-using-ibm-watson-0_GdR9t4MnEem1fhKdUV_ohA"
 type: article
 quality: 64
-heat: 114
+heat: 104
 published: true
 
 provider:
@@ -61,20 +61,6 @@ related:
       - url: "https://www.datamation.com/wp-content/uploads/2021/04/artificial-intelligence-5-scaled.jpeg"
         width: 2560
         height: 1707
-        isCached: true
-  - title: "IBM, Red Hat launch next-generation wireless cloud tools with artificial intelligence"
-    excerpt: "IBM, bolstered by technology from Red Hat, is rolling out a next-generation 5G wireless service in the cloud that incorporates artificial intelligence. And big telecom providers Verizon and Telefonica"
-    publishedDateTime: 2021-06-28T11:56:00Z
-    webUrl: "https://www.wraltechwire.com/2021/06/28/ibm-red-hat-launch-next-generation-wireless-cloud-tools-with-artificial-intelligence/"
-    type: article
-    provider:
-      name: WRAL TechWire
-      domain: wraltechwire.com
-    quality: 30
-    images:
-      - url: "https://www.wraltechwire.com/wp-content/uploads/2020/11/cloud-computing-internet-of-things-e1605713015179-1024x576.png"
-        width: 1024
-        height: 576
         isCached: true
   - title: "IBM Watson Advertising announces new research to explore the role of artificial intelligence in detecting and mitigating advertising bias"
     excerpt: "A six-month research project will use IBM's open source artificial intelligence technology and Ad Council campaign data"
