@@ -51,20 +51,6 @@ related:
         width: 1119
         height: 630
         isCached: true
-  - title: "Pitney Bowes to Deploy Ambi Robotics AI-Powered Robots in US to Support Global Ecommerce Network"
-    excerpt: "Pitney Bowes Inc., a global technology company providing commerce solutions that power billions of transactions in the areas of ecommerce, shipping, mailing and financial services, today announced plans to deploy AmbiSort robots,"
-    publishedDateTime: 2021-06-28T15:46:00Z
-    webUrl: "https://www.automation.com/en-us/articles/june-2021/pitney-bowes-ambi-robotics-ai-powered-robots"
-    type: article
-    provider:
-      name: Automation
-      domain: automation.com
-    quality: 56
-    images:
-      - url: "https://www.automation.com/getmedia/242c6696-7467-4ff3-9760-99c892a42b19/Ambi-news-June-28-2021-web.png?width=500&height=313&ext=.png"
-        width: 500
-        height: 313
-        isCached: true
 
 secured: "CqoDiGZtth9UIuIFu3uXjAVpdsp1BX+32UD6TcddGMczdarBPvcPPvfsSyBXa5bhQ+LFuhcKHGEKXD2zcw6FixXDa6AI3EQRB2GCn15O0+1Bht3kSlw1GoW9sKHIJjSLxdSW8bDlfR7PgCbBdBdRa3KIshBjq91kmx/Xt/psz3ppMADPOqxy53CHJ3nf5BcgHj1EvPMs4R7F51XbtFkQr24FgUmYHjS0o5GxX9nj7PTcwn1zhWDc+1hN3FlW9a9aHoNALzxKL/DXzrZDCcLZd+Gd4YdzIYRfm39CncSgs0GNgt7VpkOkSg5gOzahCHOYlHqEiLI//5ew8C6MCGCCzhWGPq5hub6K45SNbbtS4JaaGwUAGnL456PzXtTmdGOo7k1hn9Vdo7tbX+qTF6eCJJ4GbWc9GUN1ybczk9IJhXGLfKyf+XFHB/wWeUPVEiwgXq2YbT+FUTosiKzYom1V9Yto3bsL+HmEn56IxQyBqEcnTY5zM93cahfLv+msznNvMtDAHRn7aT1BSu81wicsNA==;VUXhUofGGOPJxup6H81Mog=="
 ---

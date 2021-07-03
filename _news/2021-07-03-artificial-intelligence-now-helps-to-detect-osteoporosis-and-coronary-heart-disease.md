@@ -8,8 +8,8 @@ webUrl: "https://www.mos.ru/en/news/item/92732073/"
 ampWebUrl: "https://www.mos.ru/amp/en/news/item/92732073/"
 cdnAmpWebUrl: "https://www-mos-ru.cdn.ampproject.org/c/s/www.mos.ru/amp/en/news/item/92732073/"
 type: article
-quality: 51
-heat: 51
+quality: 53
+heat: 53
 published: false
 
 provider:
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://www.mos.ru/upload/newsfeed/newsfeed/pyls_2-novih-issledovaniya-mish(18)(1).jpg"
@@ -25,6 +26,6 @@ images:
     height: 796
     isCached: true
 
-secured: "+C3iRnZTg7gFaqsnQp4Krc4KUC5nH4Z64pCQnG1G70Z7z5Maq92PIQt/4jFb+QbwqGY1NegIouHgjsYZpTJLXgzDn2OJ62dXc9jYo9mxnmU1hoymYktsDbChn6sy3qVmYc/4gFIvTU5GPXLedpB/VJf3KG6KMnVG8TpwzThNaRfOi/dTJkkS0Ui2DSE6ZQJ1a1O0C+h8vtXyLhMruX8SVux7X1hCorgB5nmTdddjwl1eToN4FY8YxEbbCPjtGYp+mqhzFcp70RE74g/HmAOXvM9UroRPHbgm8ED0ouvgqIviMg+9txu8/mY1FGhXTKHwKSPqm9Ezz8gK3NSIvys+oA/17YpMXV5SM+PD80bKz3o=;X4ST9N4QPhbDy2XShS9oAw=="
+secured: "ObSgHJ/FzorXfXEzoCI2cPjEWpXm8BVJr1u0suhl6dQFUYQ71fupSubfEXodMlL5eB4IBL15KcuOYJjBY2Z92JGa7wD5wwG0qLGSjnc3HIJ4eQahjj5nsjXrtEMC+1bK0Cp5sOPjNWIIw0vOQmlxPSrmp2I9+zsoVAx5moqlG4VCG7OUKvhVC1vZetXhv7LcetdjIEf2sHIvU0k1+ebj6nesRrucABk72uo1GcyKL7fo2xfyX6j6yacbXm7SD9JsM5w6/PEvPlKienuoesOt880cPOXLbfmkSuFLDk5RLFCOgmbTxwv2owERZbSxMTY/50eFuurYK+TRM67BjkrAsQx8nobtngILMDqVF8sxM/8xHgqURdg5VnLVmsyZYZ+8/6z2ustjGReQGHyjAzaNAE0hy+91wKLEy040rrI0cBfQbFKDmEqg8JpUzApbxJU0nIFXckwWHYcVoajgoWHNsR/WhLPrcbBVssXbi7UUiKg5QdNhr0eJcPh4gbmteagSge9cy60+G8dba/vQYBNMMQ==;Om1ikSxeIWkqKHdPRv6gtw=="
 ---
 

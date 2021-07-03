@@ -26,6 +26,17 @@ images:
     height: 338
     isCached: true
 
+related:
+  - title: "FinTech Company Centime Launches Cloud-based Platform to Control Cash Flow"
+    excerpt: "Centime, a FinTech company, today announced the launch of its Cloud-based Cash Flow Control solution. With its state-of-art solution, the company will empower businesses by enabling them to optimize all aspects of their cash flow life cycle in an easy-to-use,"
+    publishedDateTime: 2021-06-30T10:17:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-fintech-company-centime-launches-cloud-based-platform-control-/2021/06/30/9400542.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 2
+
 secured: "IEOhcYFqJyJpmGRDrQVol6HZiHAnX5g70V/TLpxoy5BFo5AHXJkLZEs+8J/0InJj3xwYoD9o+udbvg61lvK2diDcWa826Ac49CtO7OLixZ5wcSDFGfH4eDJ6W4016bLsBV33T4KwMInHlQiC0hMoF9kASS+67SGrjpo5UVfma71yPbnWQBFOs93XEv+pdT40JsrdfZh4vC760ZrzM6OA/VbI3YqpvEXutBxQgH204CJQEhA6MZxjWngZg+daWPSatzMdkn4dWvp5mHjrLsXfaYY3Q/ni/peKGxdHiZKFT+VhyV16FtPQmQnDb/mffNG7nQ/8e4rdys5khR2jNIHRLRgdPPAVd5LwI9DkF3ubxiQ=;M4MxvPnaKz0Ai/ASqkuwLw=="
 ---
 

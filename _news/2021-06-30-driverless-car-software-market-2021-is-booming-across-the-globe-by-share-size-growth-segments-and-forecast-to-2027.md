@@ -29,6 +29,15 @@ images:
     isCached: true
 
 related:
+  - title: "Global AI Recognition Market Size, Status and Forecast 2021-2027"
+    excerpt: "Pages Report] Check for Discount on Global AI Recognition Market Size, Status and Forecast 2021-2027 report by QYResearch Group. Market Analysis and Insights: Global AI Recognition Market The"
+    publishedDateTime: 2021-07-03T09:03:00Z
+    webUrl: "https://www.reportsnreports.com/reports/4636041-global-ai-recognition-market-size-status-and-forecast-2021-2027.html"
+    type: article
+    provider:
+      name: ReportsnReports
+      domain: reportsnreports.com
+    quality: 17
   - title: "Global Natural Language Processing in BFSI Market Size, Status and Forecast 2021-2027"
     excerpt: "Pages Report] Check for Discount on Global Natural Language Processing in BFSI Market Size, Status and Forecast 2021-2027 report by QYResearch Group. Market Analysis and Insights: Global Natural Language Processing in"
     publishedDateTime: 2021-06-30T07:41:00Z
@@ -52,6 +61,15 @@ related:
         width: 630
         height: 420
         isCached: true
+  - title: "Global Predictive Analytics And Machine Learning Market Size, Status and Forecast 2021-2027"
+    excerpt: "Pages Report] Check for Discount on Global Predictive Analytics And Machine Learning Market Size, Status and Forecast 2021-2027 report by QYResearch Group. Market Analysis and Insights: Global Predictive Analytics And Machine"
+    publishedDateTime: 2021-07-02T08:04:00Z
+    webUrl: "https://www.reportsnreports.com/reports/4631246-global-predictive-analytics-and-machine-learning-market-size-status-and-forecast-2021-2027.html"
+    type: article
+    provider:
+      name: ReportsnReports
+      domain: reportsnreports.com
+    quality: 9
   - title: "Artificial Intelligence-Emotion Recognition Market Size 2021 Is Booming Across the Globe by Share, Growth, Segments and Forecast to 2026"
     excerpt: "Global \" Artificial Intelligence-Emotion Recognition Market \"Growth (2021-2026): Emotion recognition is the process of identifying human emotion, most typically from facial expressions as well as from verbal expressions."
     publishedDateTime: 2021-06-29T11:09:00Z
@@ -75,6 +93,15 @@ related:
       name: ReportsnReports
       domain: reportsnreports.com
     quality: 2
+  - title: "Global Artificial Intelligence For Drug Development and Discovery Market Size, Status and Forecast 2021-2027"
+    excerpt: "Pages Report] Check for Discount on Global Artificial Intelligence For Drug Development and Discovery Market Size, Status and Forecast 2021-2027 report by QYResearch Group. Market Analysis and Insights: Global Artificial Intelligence For Drug"
+    publishedDateTime: 2021-07-03T09:02:00Z
+    webUrl: "https://www.reportsnreports.com/reports/4635994-global-artificial-intelligence-for-drug-development-and-discovery-market-size-status-and-forecast-2021-2027.html"
+    type: article
+    provider:
+      name: ReportsnReports
+      domain: reportsnreports.com
+    quality: 0
 
 secured: "F5nLr2SyV+Xfrjcd2IALwciNfPysPT8uypKJLWHxW5GLrtkBmclqYxF6q3Vyrnr6WYD3cIvV7HaEXpBm0sXawECpinEYmKQ812Oc9a++XxlJnOIR4pFYGwdrHyWjB8LYioVkvZwUBKFLfE7s416rYamdjze9ZTPIy18BoNcwVkFlJdjGqt6+S/xa2JpTZ/3xSM3bVSRA1byw1bdFHe9gucCeEiLjFMbPeqtJFZ4VKH3eUpqP4xtLJaZ46nP+wWRcmDjlo2oWFKTEKf8N4V+9cf1W1u96g4ih8ChSrBEVZaB2SMR0qS6v8zCbOKuwUGJ7RZm9EFs3SBPD3BH+r9gYscV4Q1M48Z7+R2Q3A/zBxcc=;IK/Fj6fse8MUhq15CTy+MA=="
 ---

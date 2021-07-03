@@ -9,8 +9,8 @@ ampWebUrl: "https://www.techrepublic.com/google-amp/article/salesforces-tableau-
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/salesforces-tableau-launches-new-data-analytics-suite-with-ai-enhancements/"
 type: article
 quality: 87
-heat: -1
-published: false
+heat: 147
+published: true
 
 provider:
   name: TechRepublic
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Dell releases open source suite Omnia to manage AI, analytics workloads"
-    excerpt: "Dell open-sourced Omnia, a software package that aims to simplify the management of compute workloads across different hardware."
-    publishedDateTime: 2021-06-28T16:20:00Z
-    webUrl: "https://venturebeat.com/2021/06/28/dell-releases-open-source-suite-omnia-to-manage-ai-analytics-workloads/"
-    ampWebUrl: "https://venturebeat.com/2021/06/28/dell-releases-open-source-suite-omnia-to-manage-ai-analytics-workloads/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/28/dell-releases-open-source-suite-omnia-to-manage-ai-analytics-workloads/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 87
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2018/03/dell.jpg?w=1200&strip=all"
-        width: 1200
-        height: 850
-        isCached: true
   - title: "Tableau's latest update aims for AI enhanced augmented analytics, broader access to data"
     excerpt: "Salesforce's Tableau has more integrations with Salesforce as well as Google Cloud BigQuery and Amazon SageMaker and support for Linux-based containers."
     publishedDateTime: 2021-06-29T06:01:00Z
@@ -77,47 +61,19 @@ related:
         width: 1920
         height: 1152
         isCached: true
-  - title: "Machine Learning Algorithm Brings Predictive Analytics to Cell Study"
-    excerpt: "Scientists have created a new system that uses machine learning and predictive analytics to determine which transcription factors are active in an individual cell."
-    publishedDateTime: 2021-07-02T13:30:00Z
-    webUrl: "https://healthitanalytics.com/news/machine-learning-algorithm-brings-predictive-analytics-to-cell-study"
+  - title: "AWS, Salesforce, team up for intelligent applications"
+    excerpt: "Amazon Web Services and Salesforce have announced an expansion of a global strategic partnership to allow customers to build and deploy powerful new business applications more swiftly. Developers will be able to build and launch custom applications that extend the power of both platforms by connecting Salesforce data and workflows natively into their solutions running"
+    publishedDateTime: 2021-07-01T08:18:00Z
+    webUrl: "https://gadget.co.za/aws-salesforce-team-up-for-intelligent-applications/"
     type: article
     provider:
-      name: Analytics
-      domain: healthitanalytics.com
+      name: gadget.co.za
+      domain: gadget.co.za
     quality: 39
     images:
-      - url: "https://healthitanalytics.com/images/site/article_headers/_normal/GettyImages-1164501571.jpg"
-        width: 690
-        height: 400
-        isCached: true
-  - title: "Dell Releases Omnia To Manage AI & HPC Workloads"
-    excerpt: "Dell’s HPC on-demand is now supporting VMware environments. Dell has released Omnia, an open-source software package to simplify AI and compute-intensive workload deployment and management. Omnia automates the management of high-performance computing,"
-    publishedDateTime: 2021-07-03T07:30:00Z
-    webUrl: "https://analyticsindiamag.com/dell-releases-omnia-to-manage-ai-hpc-workloads/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 37
-    images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/07/Dell_AIM.jpg"
-        width: 640
-        height: 427
-        isCached: true
-  - title: "Artificial Intelligence (AI) in Real Estate Market Next Big Thing : Major Giants IBM, Cape Analytics, Baidu"
-    excerpt: "The latest research on “Global Artificial Intelligence (AI) in Real Estate Report 2021” offered by HTF MI provides a comprehensive investigation into the geographical landscape, industry size along with the revenue estimation of the business."
-    publishedDateTime: 2021-07-03T00:36:00Z
-    webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-ai-in-real-estate-market-next-big-thing-major-giants-ibm-cape-analytics-baidu"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 34
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2021/07/Canada-indigenous-schools-AFP-1K-02-600x337.jpg"
-        width: 600
-        height: 337
+      - url: "https://i1.wp.com/gadget.co.za/wp-content/uploads/2019/04/axcient-build-your-cloud-cc.jpg?resize=644%2C314&#038;ssl=1"
+        width: 644
+        height: 314
         isCached: true
   - title: "Presto the Future of Open Data Analytics, Foundation Says"
     excerpt: "The openness of Presto, its adherence to standard SQL, and the ubiquity and performance of modern cloud storage have combined to put Presto in the"
@@ -133,6 +89,15 @@ related:
         width: 1000
         height: 667
         isCached: true
+  - title: "AWS, Salesforce partnership to unify developer experiences"
+    excerpt: "Salesforce will also embed AWS services for voice, video, artificial intelligence (AI) and machine learning (ML) directly in new applications for sales, service, and industry vertical use cases."
+    publishedDateTime: 2021-07-02T11:44:00Z
+    webUrl: "https://menafn.com/1102338359/AWS-Salesforce-partnership-to-unify-developer-experiences"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 19
   - title: "P&R Dental Strategies to Present on Artificial Intelligence and Future of Dental Analytics at NADP CONVERGE 2021"
     excerpt: "P&R Dental Strategies, LLC (P&R), the premier dental insights company delivering customized, actionable business intelligence to support a variety of dental payer objectives, today announced their plan to present at the National Association of"
     publishedDateTime: 2021-06-29T22:42:00Z
@@ -147,15 +112,6 @@ related:
         width: 640
         height: 480
         isCached: true
-  - title: "Global Predictive Analytics And Machine Learning Market Size, Status and Forecast 2021-2027"
-    excerpt: "Pages Report] Check for Discount on Global Predictive Analytics And Machine Learning Market Size, Status and Forecast 2021-2027 report by QYResearch Group. Market Analysis and Insights: Global Predictive Analytics And Machine"
-    publishedDateTime: 2021-07-02T08:04:00Z
-    webUrl: "https://www.reportsnreports.com/reports/4631246-global-predictive-analytics-and-machine-learning-market-size-status-and-forecast-2021-2027.html"
-    type: article
-    provider:
-      name: ReportsnReports
-      domain: reportsnreports.com
-    quality: 9
 
 secured: "9uJ4gddrS1LXi1RomTyX14EZ2ExlMazS9+/umzDcZ154u+BtYwo7BWOMR/8kIrW42c+BYiFUyq+0cTddZkMkwaOG35hn7f3sA26KIHeVmp15L4lyLHKMkcTlrCU+4MovmwT+HBhI9+fNUMP7P2YFU2RzTxhKSBIYHqSwfWlMRqrZ1W7lTUCTID5nMU6+5/IjsffRnpToM+3nWdMqbGKua/63SuTTkeydUVTiP92PgQbPNASgR45FOhPgBK8iGoUfhKKFgJ3/xYj81Ilk3PS1GU0615bPqJ2TatOSYQtpzeqkA5K7RoQHkKLZvB6uY+p5DyCqgGT7MjQi5cdptZ31Ar2G2Q8c5rhxhnNcr4STyvo=;+WI3dcwjz5SzOiWdwmv41g=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://phys.org/news/2021-06-machine-algorithm-genes-individual-cel
 cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-06-machine-algorithm-genes-individual-cells.amp"
 type: article
 quality: 55
-heat: 55
+heat: 65
 published: false
 
 provider:
@@ -26,6 +26,22 @@ images:
     height: 704
     isCached: true
 
-secured: "+G1MRHDTs/qa+zmYqgDedUxdIWzhOAnZuGKTMXOaNRc92KfvwPNHE6hqHuXY4Y0XC47pYHnREth96klj1N652DL3ffXaHtTmC1JUvsALZYWtSzh5ycenPL8LwFSu9ikm7PDDQ6clB9KjrDrKPbBMT04QRVA5xruh8sQssxBptyPagd/HNRw57b2H3DDqMJK/fIB0JkKywEQFGd7mNvjS0JJsWoDjYslrM4An+yBstFsqqSCXE6i3pb1CwHOS/75kyDXmkyCj7Fou1HPOVODhVQDX6nr/BROrFUdXl1/wC6psa8XXx7XSWRESjD5brrmqML5TGC2/z10DIyixVLyx6oAhQWLCUCjL4iY//EuMFFE=;Ra2uyBkqu+FXGCoWaJJiWw=="
+related:
+  - title: "Machine Learning Algorithm Brings Predictive Analytics to Cell Study"
+    excerpt: "Scientists have created a new system that uses machine learning and predictive analytics to determine which transcription factors are active in an individual cell."
+    publishedDateTime: 2021-07-02T13:30:00Z
+    webUrl: "https://healthitanalytics.com/news/machine-learning-algorithm-brings-predictive-analytics-to-cell-study"
+    type: article
+    provider:
+      name: Analytics
+      domain: healthitanalytics.com
+    quality: 39
+    images:
+      - url: "https://healthitanalytics.com/images/site/article_headers/_normal/GettyImages-1164501571.jpg"
+        width: 690
+        height: 400
+        isCached: true
+
+secured: "oZDccyFh/MoVZB8xXjauVD6F/NOqMV9ylR3Aj855+Lfq4RBnLVdIyFOL8xroHmGgxbKiSz1ZUmXFoi6G8U5CgA0R1SM2G/SFLfqM9D5i7DPd4FRCcVNkmrKW46RfbpPqNmQvN4CnD1YR0JM+aAJdkmzVWD67yW9Yl1I19eSlTzMzlUoOn+ECbKCU3HnBFb7muZHVpd3x5G7mYk09eRvmlzif7PAiJgP2EUXJHK1iV3vMZVB8YkNJqPAJNHLVnPCXoxBnSto2ZWUTvwjwMQ+puLE60rww6QE+W8UeTYVNtUZQQxsWvScCplWPkpC5Oiq/2OgvH9BAm/FCOBw/IZob/UQsQlUHrzBD03AcobA42Tg4+otvcBCqb5vcHyhjoZjxSeyWS04inrqZm2hq3wCxE+FDSjgqc4aTTeRO+GJcvf5sMH5VFaLKHy8GpznmLjK4Hhw0lgIriPx37er6Bl+LUNQ0CpEkUSH5wd2XNWq36VH8Nxiel9b3LhJiEWmwzpgKxt8+7Cvgjgpnx8KgTeJQjw==;hNefKAXkp8ppL8W7TdW9Kw=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/esmtberlin/2021/06/29/to-win-with-ai-fo
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/esmtberlin/2021/06/29/to-win-with-ai-focus-on-our-humanity/amp/"
 type: article
 quality: 87
-heat: 117
+heat: 127
 published: true
 
 provider:
@@ -71,6 +71,20 @@ related:
       name: PCQuest
       domain: pcquest.com
     quality: 39
+  - title: "AI works best with humans, not for humans"
+    excerpt: "Fleets are finding that artificial intelligence and other predictive analytics are helping humans make more informed and faster decisions, making them more productive and profitable."
+    publishedDateTime: 2021-07-01T14:55:00Z
+    webUrl: "https://www.fleetowner.com/technology/autonomous-vehicles/article/21168672/ai-works-best-with-humans-not-for-humans"
+    type: article
+    provider:
+      name: Fleet Owner
+      domain: fleetowner.com
+    quality: 37
+    images:
+      - url: "https://base.imgix.net/files/base/ebm/fleetowner/image/2021/07/16x9/dreamstime_l_172987598.60ddc8098dea9.png?auto=format&fit=fill&fill=blur&w=1200&h=630"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "By2cH+KZfi6kSYvHp99tOcY4sYC1BQtgiJVc/vW7iULDkegvSsqVnAzjhOJ7z7raNn9n3JYM2G+20CpaM5Ymcq8CaYU6hiVXfvdXTouRNzqQsOTQflwuWqvalgCJMSD7CtWnMYffdMeajrFsTGzOA5UGTWZiy9DIBTv9Zs6+O/052mbC/Ol2WWhtSrS8uI3XiDIdKX0El6yqJpb7GqflR9vwZ539gxSYobe4G1xCAqwJgi8V+qWE1aKMFgvy7t727Yi1lmUlNc0qBAIynUu5MkyDb0aiKM+JTYthOg5iZ2I5FATjwEArbpaZUUgmgoGWAcwOJ8GXbVqSVI5cMU4yLPySQYvd2EunQaEN1MoUNN9q0F5tnpEqFGmsqJLLXvfgeigqgznDiF6pIbeaP5vin9JEBbyn6Aaz0OGK5w8HNJJzr1O+H0KUZjijfN8w/3jH9XuHKMqL4vrP/kFZ19GcLYoTdXzCDcbO4192z4sPLvbZgnsRx2JKxzUYux433Pk/dD4fbH+6qJdmi7CHVBpTZQ==;r2Kn5p30Q+/3/qv6ceevVA=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chipsets-market-latest-industry-trends-industry-size-key-drivers-and-future-demand-forecast-2021-07-02"
 type: article
 quality: 79
-heat: 179
+heat: 189
 published: true
 
 provider:
@@ -145,6 +145,15 @@ related:
     excerpt: "Pages Report] Check for Discount on Global Artificial Intelligence (AI) in Agriculture Market Size, Status and Forecast 2021-2027 report by QYResearch Group. Artificial Intelligence (AI) in Agriculture Market size is being"
     publishedDateTime: 2021-06-29T07:32:00Z
     webUrl: "https://www.reportsnreports.com/reports/4620930-global-artificial-intelligence-ai-in-agriculture-market-size-status-and-forecast-2021-2027.html"
+    type: article
+    provider:
+      name: ReportsnReports
+      domain: reportsnreports.com
+    quality: 23
+  - title: "Global Enterprise Artificial Intelligence (AI) Market Size, Status and Forecast 2021-2027"
+    excerpt: "Pages Report] Check for Discount on Global Enterprise Artificial Intelligence (AI) Market Size, Status and Forecast 2021-2027 report by QYResearch Group. Market Analysis and Insights: Global Enterprise Artificial Intelligence (AI)"
+    publishedDateTime: 2021-07-03T08:55:00Z
+    webUrl: "https://www.reportsnreports.com/reports/4635123-global-enterprise-artificial-intelligence-ai-market-size-status-and-forecast-2021-2027.html"
     type: article
     provider:
       name: ReportsnReports

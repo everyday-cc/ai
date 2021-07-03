@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Dell releases open source suite Omnia to manage AI, analytics workloads"
-    excerpt: "Dell open-sourced Omnia, a software package that aims to simplify the management of compute workloads across different hardware."
-    publishedDateTime: 2021-06-28T16:20:00Z
-    webUrl: "https://venturebeat.com/2021/06/28/dell-releases-open-source-suite-omnia-to-manage-ai-analytics-workloads/"
-    ampWebUrl: "https://venturebeat.com/2021/06/28/dell-releases-open-source-suite-omnia-to-manage-ai-analytics-workloads/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/28/dell-releases-open-source-suite-omnia-to-manage-ai-analytics-workloads/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 87
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2018/03/dell.jpg?w=1200&strip=all"
-        width: 1200
-        height: 850
-        isCached: true
   - title: "Salesforce's Tableau launches new data analytics suite with AI enhancements"
     excerpt: "The new Tableau 2021.2 version promises to help users make better business decisions based on AI-powered analytics."
     publishedDateTime: 2021-06-30T16:51:00Z
@@ -87,47 +71,19 @@ related:
         width: 1920
         height: 1152
         isCached: true
-  - title: "Machine Learning Algorithm Brings Predictive Analytics to Cell Study"
-    excerpt: "Scientists have created a new system that uses machine learning and predictive analytics to determine which transcription factors are active in an individual cell."
-    publishedDateTime: 2021-07-02T13:30:00Z
-    webUrl: "https://healthitanalytics.com/news/machine-learning-algorithm-brings-predictive-analytics-to-cell-study"
+  - title: "AWS, Salesforce, team up for intelligent applications"
+    excerpt: "Amazon Web Services and Salesforce have announced an expansion of a global strategic partnership to allow customers to build and deploy powerful new business applications more swiftly. Developers will be able to build and launch custom applications that extend the power of both platforms by connecting Salesforce data and workflows natively into their solutions running"
+    publishedDateTime: 2021-07-01T08:18:00Z
+    webUrl: "https://gadget.co.za/aws-salesforce-team-up-for-intelligent-applications/"
     type: article
     provider:
-      name: Analytics
-      domain: healthitanalytics.com
+      name: gadget.co.za
+      domain: gadget.co.za
     quality: 39
     images:
-      - url: "https://healthitanalytics.com/images/site/article_headers/_normal/GettyImages-1164501571.jpg"
-        width: 690
-        height: 400
-        isCached: true
-  - title: "Dell Releases Omnia To Manage AI & HPC Workloads"
-    excerpt: "Dell’s HPC on-demand is now supporting VMware environments. Dell has released Omnia, an open-source software package to simplify AI and compute-intensive workload deployment and management. Omnia automates the management of high-performance computing,"
-    publishedDateTime: 2021-07-03T07:30:00Z
-    webUrl: "https://analyticsindiamag.com/dell-releases-omnia-to-manage-ai-hpc-workloads/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 37
-    images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/07/Dell_AIM.jpg"
-        width: 640
-        height: 427
-        isCached: true
-  - title: "Artificial Intelligence (AI) in Real Estate Market Next Big Thing : Major Giants IBM, Cape Analytics, Baidu"
-    excerpt: "The latest research on “Global Artificial Intelligence (AI) in Real Estate Report 2021” offered by HTF MI provides a comprehensive investigation into the geographical landscape, industry size along with the revenue estimation of the business."
-    publishedDateTime: 2021-07-03T00:36:00Z
-    webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-ai-in-real-estate-market-next-big-thing-major-giants-ibm-cape-analytics-baidu"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 34
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2021/07/Canada-indigenous-schools-AFP-1K-02-600x337.jpg"
-        width: 600
-        height: 337
+      - url: "https://i1.wp.com/gadget.co.za/wp-content/uploads/2019/04/axcient-build-your-cloud-cc.jpg?resize=644%2C314&#038;ssl=1"
+        width: 644
+        height: 314
         isCached: true
   - title: "Presto the Future of Open Data Analytics, Foundation Says"
     excerpt: "The openness of Presto, its adherence to standard SQL, and the ubiquity and performance of modern cloud storage have combined to put Presto in the"
@@ -143,15 +99,15 @@ related:
         width: 1000
         height: 667
         isCached: true
-  - title: "Global Predictive Analytics And Machine Learning Market Size, Status and Forecast 2021-2027"
-    excerpt: "Pages Report] Check for Discount on Global Predictive Analytics And Machine Learning Market Size, Status and Forecast 2021-2027 report by QYResearch Group. Market Analysis and Insights: Global Predictive Analytics And Machine"
-    publishedDateTime: 2021-07-02T08:04:00Z
-    webUrl: "https://www.reportsnreports.com/reports/4631246-global-predictive-analytics-and-machine-learning-market-size-status-and-forecast-2021-2027.html"
+  - title: "AWS, Salesforce partnership to unify developer experiences"
+    excerpt: "Salesforce will also embed AWS services for voice, video, artificial intelligence (AI) and machine learning (ML) directly in new applications for sales, service, and industry vertical use cases."
+    publishedDateTime: 2021-07-02T11:44:00Z
+    webUrl: "https://menafn.com/1102338359/AWS-Salesforce-partnership-to-unify-developer-experiences"
     type: article
     provider:
-      name: ReportsnReports
-      domain: reportsnreports.com
-    quality: 9
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 19
 
 secured: "ZT5B5hOUEtFKamFUBVfVrDiaizHBBgHopNS1VkimnkqPsus2o13VfnRKOo/LBn1+om3zD+AoKXqo33QdliZrpqe+oUKvwDBRwh/9Oan16+X+nWp50cW8MUPeX+6l4EILyX0I3rEVJN3YFSWoHRWtBaJCMK/1YZ7GIlWpkGZtKC7EyKhZFRuXa2Va61dgguCiBhKBQkZG/vCM1qsUP0Mi/UE/EFE/wKwAEIlKNeJEEweBlyxWufSKEaWoyrQvak/B/q2aLUIEZGC4P/WYqnvUfVqgeRQs1EPUV4dTLfsQgnkn4YgVgX6FnotLBUYTFMaziY5If6gZeLnYhc9l/9LY03DCixa/xjkRNn+aBuvQAXg=;xFq4CUdGK7j+UghrdPkrXQ=="
 ---

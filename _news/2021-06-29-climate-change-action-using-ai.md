@@ -80,6 +80,22 @@ related:
         width: 2880
         height: 2035
         isCached: true
+  - title: "Artificial Intelligence creates both challenges and options, speakers say at international conference"
+    excerpt: "With the theme ‘#CommunicationRefined’, a 10-day long mega international conference entitled 'Information Communication & Artificial Network(ICAN) Conference 2021' was inaugurated in India’s capital New Delhi on Thursday (July 1)."
+    publishedDateTime: 2021-07-03T08:48:00Z
+    webUrl: "https://www.thedailystar.net/pr/news/artificial-intelligence-creates-both-challenges-and-options-speakers-say-international-conference-2123213"
+    ampWebUrl: "https://www.thedailystar.net/pr/news/artificial-intelligence-creates-both-challenges-and-options-speakers-say-international-conference-2123213?amp"
+    cdnAmpWebUrl: "https://www-thedailystar-net.cdn.ampproject.org/c/s/www.thedailystar.net/pr/news/artificial-intelligence-creates-both-challenges-and-options-speakers-say-international-conference-2123213?amp"
+    type: article
+    provider:
+      name: The Daily Star
+      domain: thedailystar.net
+    quality: 42
+    images:
+      - url: "https://assetsds.cdnedge.bluemix.net/sites/default/files/styles/social_share/public/feature/images/2021/07/03/dr_sheikh_shafiul_islam.jpg?itok=Rjt8_o_c"
+        width: 750
+        height: 393
+        isCached: true
   - title: "Business implications of AI within tax & accounting"
     excerpt: "With AI promising the greatest transformation in many industries, including tax & accounting, we need to begin asking what the implications of this will be."
     publishedDateTime: 2021-06-30T16:44:00Z
@@ -93,20 +109,6 @@ related:
       - url: "https://www.thomsonreuters.com/en-us/posts/wp-content/uploads/sites/20/2019/07/blockchain-innovator-940x528-800x450-1.jpg"
         width: 800
         height: 450
-        isCached: true
-  - title: "New Artificial Intelligence Strategy Board to Lead AI Initiatives for the Association for Advancing Automation"
-    excerpt: "Global trade group will promote adoption of AI in industrial automation, focusing on new certifications, standards, education programs and events."
-    publishedDateTime: 2021-06-28T15:44:00Z
-    webUrl: "https://www.automation.com/en-us/articles/june-2021/artificial-intelligence-strategy-board-a3"
-    type: article
-    provider:
-      name: Automation
-      domain: automation.com
-    quality: 34
-    images:
-      - url: "https://www.automation.com/getmedia/822abcb4-a88c-498d-b96f-f6ec34d06266/A3-strategy-news-June-28-2021-web.png?width=500&height=313&ext=.png"
-        width: 500
-        height: 313
         isCached: true
 
 secured: "JN6Zr7ex470D7GmDEd4YzVaLNZf52Va7kTZ2DYwU37z7uCXBsVIDe/EYNmQe8HsUywLX7Z+NjmK6KZ03I5nYVYA84rFy7kSGC1DqXJBX3teBlwHXAqIHE4BZ4kRq4fzN3pyxDUiRVLypYPVwQZW1RfPvsMB3FwwzJVcodHpvSaXsYf483QUuthkkkShFdbb6/e5adUQBmyf2zjWDLEBISFXRb+158WZMsmFUARWOL28BjQYq/3VI04YvXOlUOpC2LSjVUtsbF45wbIou/6U+pKQcxXkY+88fHF4TCkZm+9DX9iTrN+jxThocRiG2RQe6Dk5pc9ExchXtENh9Dyd6wfpp64NrAryfTcdGhLGf5WM=;OUfqptxSRi8oI8sCxqedJA=="

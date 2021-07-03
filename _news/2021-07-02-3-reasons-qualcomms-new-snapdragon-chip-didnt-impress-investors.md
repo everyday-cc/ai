@@ -9,7 +9,7 @@ ampWebUrl: "https://www.fool.com/amp/investing/2021/07/02/3-reasons-qualcomms-ne
 cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/07/02/3-reasons-qualcomms-new-snapdragon-chip-didnt-impr/"
 type: article
 quality: 89
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -46,20 +46,6 @@ related:
       - url: "https://www.gizbot.com/img/2021/06/qualcomm-snapdragon-888-plus-1624950750.jpg"
         width: 600
         height: 337
-        isCached: true
-  - title: "Qualcomm Snapdragon 888 Plus announced with higher clock speed, improved AI engine"
-    excerpt: "The Mobile World Congress (MWC) is starting up strong with the introduction of a new flagship chipset from Qualcomm. Here we have an amped-up version of its current top-tier processor, the Qualcomm Snapdragon 888 Plus."
-    publishedDateTime: 2021-06-28T16:41:00Z
-    webUrl: "https://www.noypigeeks.com/smartphones/qualcomm-snapdragon-888-plus/"
-    type: article
-    provider:
-      name: NoypiGeeks
-      domain: noypigeeks.com
-    quality: 33
-    images:
-      - url: "https://www.noypigeeks.com/wp-content/uploads/2021/06/Qualcomm-Snapdragon-888-Plus-NoypiGeeks.jpg"
-        width: 900
-        height: 503
         isCached: true
 
 secured: "pStSzI8YdIXiU2Z452I11CXtssKibIxMO3IJWj47EBoHxItvEN2qapSfyceh+4+dsHM7aO2K2WLHafh68YBf3IAXaSxuiW46MAdVt7+XCbF9JzrTIdn24XxD62UfBYfocCK0nTMYmwojhvcGLY+QQmd0rm7sPT5xm5XvuXq+ySWh+XhLovGplX2jgHgUIi2ySzYtsIL4RtWdMv0pZ6SSK/6qElO5eKV2eh+McZWycGy43WvRghtgdq+wDlku5BxB4MbrYDFqvlMjB47iz5JS+HmkEwyTbCL121BSGO/AGPP1OtFOAdPa2Z8qpFokS4GLFOukudv7GS0PcvF5rgDqeOrxgMzUyyIXjTyCR2r6JvXvdtrO5YjpxU72EwHTGBWmRz/E8s8apUWwgjDK1u3jCd6KWura/aB4gpjxPuVXYtM6qq7501Bv66XdV4MwGkRbwb4HhlVMVRpQr0Hlm0sJpT7w3a/DYrgWHD8LE6mI7SBl3wE8hFoYEjXNxP+151Ja0kh6QZwaGAuDVW6Kei4UQA==;67+8DFh5RPGsMOWVkJ+kqQ=="

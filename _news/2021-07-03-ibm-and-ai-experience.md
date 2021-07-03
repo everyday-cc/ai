@@ -48,17 +48,6 @@ related:
         width: 690
         height: 400
         isCached: true
-  - title: "IBM to Use AI to Detect Bias in Advertising"
-    excerpt: "IBM Watson Advertising has announced a six month research initiative that will use open source AI technology and campaign data from the Ad Council to better understand unwanted bias in advertising, with the goal of laying the foundation for avoiding those biases."
-    publishedDateTime: 2021-06-28T16:53:00Z
-    webUrl: "https://www.tvtechnology.com/news/ibm-to-use-ai-to-detect-bias-in-advertising"
-    ampWebUrl: "https://www.tvtechnology.com/amp/news/ibm-to-use-ai-to-detect-bias-in-advertising"
-    cdnAmpWebUrl: "https://www-tvtechnology-com.cdn.ampproject.org/c/s/www.tvtechnology.com/amp/news/ibm-to-use-ai-to-detect-bias-in-advertising"
-    type: article
-    provider:
-      name: TV Technology
-      domain: tvtechnology.com
-    quality: 39
   - title: "IBM Watson Advertising announces new research to explore the role of artificial intelligence in detecting and mitigating advertising bias"
     excerpt: "A six-month research project will use IBM's open source artificial intelligence technology and Ad Council campaign data"
     publishedDateTime: 2021-07-01T11:09:00Z

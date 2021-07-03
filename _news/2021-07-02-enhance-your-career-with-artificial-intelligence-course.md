@@ -67,6 +67,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "AI works best with humans, not for humans"
+    excerpt: "Fleets are finding that artificial intelligence and other predictive analytics are helping humans make more informed and faster decisions, making them more productive and profitable."
+    publishedDateTime: 2021-07-01T14:55:00Z
+    webUrl: "https://www.fleetowner.com/technology/autonomous-vehicles/article/21168672/ai-works-best-with-humans-not-for-humans"
+    type: article
+    provider:
+      name: Fleet Owner
+      domain: fleetowner.com
+    quality: 37
+    images:
+      - url: "https://base.imgix.net/files/base/ebm/fleetowner/image/2021/07/16x9/dreamstime_l_172987598.60ddc8098dea9.png?auto=format&fit=fill&fill=blur&w=1200&h=630"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "LpufrGPIze0pR8Ddem8MuaCzW40M+2yb7GwQQjg3XH2ETRrVvWbBez8Q7iTToPOIrit0cZDS4SvQ1RLhnUsROsgF/m4LUvp0Yj8IRfsRWsbb5CTmRqwr0YXVu3gQWj/LA/5rwzSYZek23wKmjwrHq8EaqE5/1u7Tp5Z4SLabokHiZpx8oaolMv6A3oVsu7aShjImUhLEoPNq8w1cdB74h43qX49bm49Eu4fszuJu/4FWv+RSUXPH4i5L/G8tVAHKtA8yCmXigvTV3b+q49GPUuys4Wp3dv0LjATn1ZBdcXKFgOR3FFntPrc8zCk4J41q9kiwpajA3P4zt/o8jEqfOXjcWuJ8uPSM5hexMrObKbDuoj6PI0Mle6NxaOjE/pbmdr1GGfHkjFJA+rGL4loNeTvSfqy8mS2BGEpQWaL60ihczlquw5mf7a/30ITGxVpzj4gE6REmBwNUiB9Ugtw0CQBnoii3pDZLoG0jy9QwV5lDh3hFi7ED3eNjDT2+n0abYjJxXKFIZ/03k0uw27E6ZQ==;P6CLZxapE4MZViNaITNcsA=="
 ---

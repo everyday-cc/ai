@@ -25,133 +25,22 @@ images:
     isCached: true
 
 related:
-  - title: "Dell releases open source suite Omnia to manage AI, analytics workloads"
-    excerpt: "Dell open-sourced Omnia, a software package that aims to simplify the management of compute workloads across different hardware."
-    publishedDateTime: 2021-06-28T16:20:00Z
-    webUrl: "https://venturebeat.com/2021/06/28/dell-releases-open-source-suite-omnia-to-manage-ai-analytics-workloads/"
-    ampWebUrl: "https://venturebeat.com/2021/06/28/dell-releases-open-source-suite-omnia-to-manage-ai-analytics-workloads/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/28/dell-releases-open-source-suite-omnia-to-manage-ai-analytics-workloads/amp/"
+  - title: "Machine learning algorithm predicts how genes are regulated in individual cells"
+    excerpt: "A team of scientists at the University of Illinois Chicago has developed a software tool that can help researchers more efficiently identify the regulators of genes. The system leverages a machine learning algorithm to predict which transcription factors are most likely to be active in individual cells."
+    publishedDateTime: 2021-06-30T19:54:00Z
+    webUrl: "https://phys.org/news/2021-06-machine-algorithm-genes-individual-cells.html"
+    ampWebUrl: "https://phys.org/news/2021-06-machine-algorithm-genes-individual-cells.amp"
+    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-06-machine-algorithm-genes-individual-cells.amp"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 87
+      name: Phys.org
+      domain: phys.org
+    quality: 55
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2018/03/dell.jpg?w=1200&strip=all"
-        width: 1200
-        height: 850
+      - url: "https://scx2.b-cdn.net/gfx/news/2021/machine-learning-algor-2.jpg"
+        width: 979
+        height: 704
         isCached: true
-  - title: "Salesforce's Tableau launches new data analytics suite with AI enhancements"
-    excerpt: "The new Tableau 2021.2 version promises to help users make better business decisions based on AI-powered analytics."
-    publishedDateTime: 2021-06-30T16:51:00Z
-    webUrl: "https://www.techrepublic.com/article/salesforces-tableau-launches-new-data-analytics-suite-with-ai-enhancements/"
-    ampWebUrl: "https://www.techrepublic.com/google-amp/article/salesforces-tableau-launches-new-data-analytics-suite-with-ai-enhancements/"
-    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/salesforces-tableau-launches-new-data-analytics-suite-with-ai-enhancements/"
-    type: article
-    provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 87
-    images:
-      - url: "https://www.techrepublic.com/a/hub/i/r/2020/01/22/70bad262-9a0a-4f59-97b5-674a2f953176/resize/1200x/fd98d1898574cac91f03b02ac442e428/tableau-logo.png"
-        width: 1200
-        height: 613
-        isCached: true
-  - title: "Tableau's latest update aims for AI enhanced augmented analytics, broader access to data"
-    excerpt: "Salesforce's Tableau has more integrations with Salesforce as well as Google Cloud BigQuery and Amazon SageMaker and support for Linux-based containers."
-    publishedDateTime: 2021-06-29T06:01:00Z
-    webUrl: "https://www.zdnet.com/article/tableaus-latest-update-aims-for-ai-enhanced-augmented-analytics-broader-access-to-data/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/tableaus-latest-update-aims-for-ai-enhanced-augmented-analytics-broader-access-to-data/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/tableaus-latest-update-aims-for-ai-enhanced-augmented-analytics-broader-access-to-data/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 78
-    images:
-      - url: "https://www.zdnet.com/a/hub/i/2021/06/24/6d6d7271-f006-43ab-b8df-5881412a186f/ask-data-for-salesforce-2.png"
-        width: 4098
-        height: 2700
-        isCached: true
-  - title: "How to Deploy and Scale AI Analytics Across Your Enterprise"
-    excerpt: "AI analytics unlocks effective bottom-up decision-making ... For example, migrating physical data centers to Microsoft’s Azure Platform helps pave the way for centralized Analytics Centers of Excellence to remain in-step with operational realities ..."
-    publishedDateTime: 2021-06-30T17:58:00Z
-    webUrl: "https://www.eweek.com/big-data-and-analytics/how-to-deploy-and-scale-ai-analytics-across-your-enterprise/"
-    type: article
-    provider:
-      name: eWeek
-      domain: eweek.com
-    quality: 69
-    images:
-      - url: "https://www.eweek.com/wp-content/uploads/2021/04/coding-data-tunnel.jpeg"
-        width: 1920
-        height: 1152
-        isCached: true
-  - title: "Dell Releases Omnia To Manage AI & HPC Workloads"
-    excerpt: "Dell’s HPC on-demand is now supporting VMware environments. Dell has released Omnia, an open-source software package to simplify AI and compute-intensive workload deployment and management. Omnia automates the management of high-performance computing,"
-    publishedDateTime: 2021-07-03T07:30:00Z
-    webUrl: "https://analyticsindiamag.com/dell-releases-omnia-to-manage-ai-hpc-workloads/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 37
-    images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/07/Dell_AIM.jpg"
-        width: 640
-        height: 427
-        isCached: true
-  - title: "Artificial Intelligence (AI) in Real Estate Market Next Big Thing : Major Giants IBM, Cape Analytics, Baidu"
-    excerpt: "The latest research on “Global Artificial Intelligence (AI) in Real Estate Report 2021” offered by HTF MI provides a comprehensive investigation into the geographical landscape, industry size along with the revenue estimation of the business."
-    publishedDateTime: 2021-07-03T00:36:00Z
-    webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-ai-in-real-estate-market-next-big-thing-major-giants-ibm-cape-analytics-baidu"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 34
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2021/07/Canada-indigenous-schools-AFP-1K-02-600x337.jpg"
-        width: 600
-        height: 337
-        isCached: true
-  - title: "Presto the Future of Open Data Analytics, Foundation Says"
-    excerpt: "The openness of Presto, its adherence to standard SQL, and the ubiquity and performance of modern cloud storage have combined to put Presto in the"
-    publishedDateTime: 2021-06-28T20:36:00Z
-    webUrl: "https://www.datanami.com/2021/06/28/presto-the-future-of-open-data-analytics-foundation-says/"
-    type: article
-    provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 24
-    images:
-      - url: "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2021/06/magic_hat_shutterstock_vchal.jpg"
-        width: 1000
-        height: 667
-        isCached: true
-  - title: "P&R Dental Strategies to Present on Artificial Intelligence and Future of Dental Analytics at NADP CONVERGE 2021"
-    excerpt: "P&R Dental Strategies, LLC (P&R), the premier dental insights company delivering customized, actionable business intelligence to support a variety of dental payer objectives, today announced their plan to present at the National Association of"
-    publishedDateTime: 2021-06-29T22:42:00Z
-    webUrl: "https://www.lelezard.com/en/news-19880966.html"
-    type: article
-    provider:
-      name: Le Lézard
-      domain: lelezard.com
-    quality: 18
-    images:
-      - url: "https://www.lelezard.com/img/pr_sections/health.jpg"
-        width: 640
-        height: 480
-        isCached: true
-  - title: "Global Predictive Analytics And Machine Learning Market Size, Status and Forecast 2021-2027"
-    excerpt: "Pages Report] Check for Discount on Global Predictive Analytics And Machine Learning Market Size, Status and Forecast 2021-2027 report by QYResearch Group. Market Analysis and Insights: Global Predictive Analytics And Machine"
-    publishedDateTime: 2021-07-02T08:04:00Z
-    webUrl: "https://www.reportsnreports.com/reports/4631246-global-predictive-analytics-and-machine-learning-market-size-status-and-forecast-2021-2027.html"
-    type: article
-    provider:
-      name: ReportsnReports
-      domain: reportsnreports.com
-    quality: 9
 
 secured: "YABD3fIY4THFkUl06pnumWJSSMgxuyln5r5TblGYHABfKE+mtM8xnCQlIyWTEk25M3VGLpXwcZpmtgGRSvLZTI9eGudF+ygRdFtu6IUtcmmZria/NByc5X/3Jh9kvt+J0pDHGE1IS5xh6A2BUVF78+7H6+1zDVPP4SXtH+4j5uYEiXRwLC0hGQW4kWpQ1lPlsl0Ow2OcCyp1wgrM7exxcaImqqdIqYk+/D6DRq5iL8Bn3vNurLDqi6a4Xvzh/VqRpviKdl4NscdM+6WU5SunGJBj9D5hR35ggrpjj1hqhxnnhCXJznY4/L/ViO5+vfDyRfkeATqZbVGZR4Ci/iUFXeIhuIwO0UMXvbDdo7i5fHCM/1T8TJiPNobtMC96zhzsld3RClv7Yr7WXUyKf0pINZJ2yLpEC08KLEpRvrRZwwSlmxX8Ybbf8SmdkXqWL/THPkr4bToXkEq0qWVnn8AMWKoK4d6BRSHi1B+KLsCAXtks+OuD058BCcUs95dZiadAbVcTSLCxRYkKPMxgIP1+6A==;HTJCrLtxNgyq2kXdRZ7rqg=="
 ---

@@ -3,10 +3,10 @@ category: news
 title: "Graphcore brings new competition to Nvidia in latest MLPerf AI benchmarks"
 excerpt: "Graphcore’s score in BERT natural language training was the best score of any of the two-socket AMD systems submitted."
 publishedDateTime: 2021-06-30T10:00:00Z
-originalUrl: "https://www.zdnet.com/index.php/article/graphcore-brings-new-competition-to-nvidia-in-latest-mlperf-ai-benchmarks/"
-webUrl: "https://www.zdnet.com/index.php/article/graphcore-brings-new-competition-to-nvidia-in-latest-mlperf-ai-benchmarks/"
-ampWebUrl: "https://www.zdnet.com/index.php/google-amp/article/graphcore-brings-new-competition-to-nvidia-in-latest-mlperf-ai-benchmarks/"
-cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/google-amp/article/graphcore-brings-new-competition-to-nvidia-in-latest-mlperf-ai-benchmarks/"
+originalUrl: "https://www.zdnet.com/article/graphcore-brings-new-competition-to-nvidia-in-latest-mlperf-ai-benchmarks/"
+webUrl: "https://www.zdnet.com/article/graphcore-brings-new-competition-to-nvidia-in-latest-mlperf-ai-benchmarks/"
+ampWebUrl: "https://www.zdnet.com/google-amp/article/graphcore-brings-new-competition-to-nvidia-in-latest-mlperf-ai-benchmarks/"
+cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/graphcore-brings-new-competition-to-nvidia-in-latest-mlperf-ai-benchmarks/"
 type: article
 quality: 88
 heat: -1
@@ -21,7 +21,7 @@ provider:
       height: 50
 
 topics:
-  - Natural Language Processing
+  - AI Hardware
   - AI
 
 images:
@@ -132,6 +132,6 @@ related:
       domain: insidehpc.com
     quality: 21
 
-secured: "0i6rq+mWMhfTMWX7pICdEc0kdxDzBMcXyur7mevGRy/6W3all1IooHDk43EwddGCvBY1DtZM7m6VDLnKMrl7qdJ2aOQLtRWTlrU06rvT1fv58tHB9mCgyZOzdi3HzkOo033tEVsTh4FXn5Xpp0IS879xLx2IM63pmNi/Z5FFOeKRODXFgOixSq31jcFuO9n0aNy07b8BnCzFTy9Aqu06nR/OmzaMrJx7Zbd7UJajtMQbBziIUnBbk+3emScF6Um0iO7BuKVM74f2//z5QqyZve4Tcied3HO2wwRYD2dS334wZ9T9kOjux3AAkzG0gGNvsnHh68A6uYE+qKxjVL8DHPTXGCyYULYKQirlM8NI77g=;uZRcJSwNmi1ta2Bd0y1x5g=="
+secured: "c6iyzm4RcbG3T8XTlXo0kLaFNq/FqZxXUM2vStvOL9AmivUBOF4CAa4KUPuhomCNvmKTYQrsWbX7JtEDBcXXVUw318+TandCEl/6HLGUdFMAjDlD7nct/rSaqeI74YCDX4ZMlERaUp/7wDQz9CNALJ5dkeWBcCcxJnZRJPgSrGa5EDKhxExieGUj2AveiOrS5UhObxDE4mI//XPz80CrUxB8VdcFDdl48G+T9mSJER78vRb67GDtpj+a5TlgfylwOn+NM24FDm/3LdrTPYNXPVLIMzU1zJXnmVCB8UuQA7WElQCDUYpIW16OBpDtujpMOxQezZlNzLbwM8EC0uS4GzkrP7Y5d4hxkB3F53DJ7Mc=;7szAkrzUykIm0mRwtEoBVg=="
 ---
 

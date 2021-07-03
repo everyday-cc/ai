@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/tomtaulli/2021/06/30/sentinelone-ipo-ho
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tomtaulli/2021/06/30/sentinelone-ipo-how-the-company-is-riding-the-ai-wave/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -30,22 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Autonomous Cybersecurity Startup SentinelOne Ups IPO Price"
-    excerpt: "Autonomous cybersecurity platform SentinelOne has amended the offering for its initial public offering (IPO) to reflect a price increase."
-    publishedDateTime: 2021-06-28T15:50:00Z
-    webUrl: "https://www.pymnts.com/news/ipo/2021/autonomous-cybersecurity-startup-sentinelone-ups-ipo-price/"
-    ampWebUrl: "https://www.pymnts.com/news/ipo/2021/autonomous-cybersecurity-startup-sentinelone-ups-ipo-price/amp/"
-    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/ipo/2021/autonomous-cybersecurity-startup-sentinelone-ups-ipo-price/amp/"
-    type: article
-    provider:
-      name: pymnts.com
-      domain: pymnts.com
-    quality: 42
-    images:
-      - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/06/cybersecurity-SentinelOne-IPO-price-457x274.jpg"
-        width: 457
-        height: 274
-        isCached: true
   - title: "Here's why hedge fund titan Dan Loeb, famous cybersecurity expert Chris Krebs, and Ashton Kutcher are betting big on AI startup SentinelOne's IPO"
     excerpt: "SentinelOne's IPO may be an opportunity for the firm to pull together cybersecurity, data-management, and AI for government and business, experts say."
     publishedDateTime: 2021-06-30T10:00:00Z

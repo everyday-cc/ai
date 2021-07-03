@@ -43,20 +43,6 @@ related:
         width: 1200
         height: 801
         isCached: true
-  - title: "Qualcomm Snapdragon 888 Plus announced with higher clock speed, improved AI engine"
-    excerpt: "The Mobile World Congress (MWC) is starting up strong with the introduction of a new flagship chipset from Qualcomm. Here we have an amped-up version of its current top-tier processor, the Qualcomm Snapdragon 888 Plus."
-    publishedDateTime: 2021-06-28T16:41:00Z
-    webUrl: "https://www.noypigeeks.com/smartphones/qualcomm-snapdragon-888-plus/"
-    type: article
-    provider:
-      name: NoypiGeeks
-      domain: noypigeeks.com
-    quality: 33
-    images:
-      - url: "https://www.noypigeeks.com/wp-content/uploads/2021/06/Qualcomm-Snapdragon-888-Plus-NoypiGeeks.jpg"
-        width: 900
-        height: 503
-        isCached: true
 
 secured: "UGLWmkg3laKYX4bxvZctwSCxXlxV+kGM2rljm1DiAfuqQ+qp5oYoKhPqGSrMBmT6iDoMtFL4jNaUqpd1YT3NBbRVzLT8GhI038suR5Gfd/qilQjwHb8nEUy73CqpBjRwjJe16LSqN/6z8bdH6WORIqFt5+hGhKt67/hSxRFpf7p1/3oIYSY469MurKF2ervJGZpa82hsFWQo7n6HBqIi5K8B2xHDSQ0U0xI92ZCXqZveyT6Gli8qxoRIAiCKD76lnTiFSx7GLcbFcXrTb9vE92U1w3cfkr7gNsHboemqPcihU0nnlLtat/ApK1/1J0u6MyQC0dbAix2mrdDlzWiuQatEDUfwcZpeOgyiXLYmdNY=;IU2ROZ0tj13UstEzo0lsZg=="
 ---

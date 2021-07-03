@@ -19,79 +19,33 @@ topics:
   - AI
 
 related:
-  - title: "FinTech Goes Niche With Slice’s Pizzeria Payment Platform"
-    excerpt: "As restaurants grow more digital, with more solutions providers emerging each month to meet their evolving needs, restaurant technology is growing more granular."
-    publishedDateTime: 2021-06-28T16:44:00Z
-    webUrl: "https://www.pymnts.com/restaurant-innovation/2021/fintech-goes-niche-with-slice-pizzeria-payment-platform/"
-    ampWebUrl: "https://www.pymnts.com/restaurant-innovation/2021/fintech-goes-niche-with-slice-pizzeria-payment-platform/amp/"
-    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/restaurant-innovation/2021/fintech-goes-niche-with-slice-pizzeria-payment-platform/amp/"
+  - title: "JPMorgan’s FinTech Spree Shows Investing Belongs To The Young"
+    excerpt: "Online investing and retirement planning are gaining traction to help put inherited money to work, evidenced by J.P. Morgan’s bid to buy OpenInvest."
+    publishedDateTime: 2021-06-29T20:49:00Z
+    webUrl: "https://www.pymnts.com/news/investment-tracker/2021/jpmorgan-fintech-spree-investing-belongs-to-young/"
+    ampWebUrl: "https://www.pymnts.com/news/investment-tracker/2021/jpmorgan-fintech-spree-investing-belongs-to-young/amp/"
+    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/investment-tracker/2021/jpmorgan-fintech-spree-investing-belongs-to-young/amp/"
     type: article
     provider:
       name: pymnts.com
       domain: pymnts.com
     quality: 44
     images:
-      - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/06/slice-pizza-payment-platform-457x274.png"
+      - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/06/jpmorgan-1-457x274.jpg"
         width: 457
         height: 274
         isCached: true
-  - title: "Carro’s fintech arm launches financing plan for EVs, hybrid cars"
-    excerpt: "The GoGreen initiative allows private-hire vehicle drivers to enjoy lower interest rates as a reward for going green."
-    publishedDateTime: 2021-07-01T01:46:00Z
-    webUrl: "https://www.techinasia.com/carros-fintech-arm-launches-financing-plan-evs-hybrids"
+  - title: "How real-time data innovation is driving up customer experience in fintech"
+    excerpt: "By Geoff Clark, General Manager EMEA, Aerospike The attention span of individuals and organisations is reducing. Time is compressing. There are only brief windows that can be devoted to any given transaction."
+    publishedDateTime: 2021-07-01T23:44:00Z
+    webUrl: "https://www.globalbankingandfinance.com/how-real-time-data-innovation-is-driving-up-customer-experience-in-fintech/"
+    ampWebUrl: "https://www.globalbankingandfinance.com/how-real-time-data-innovation-is-driving-up-customer-experience-in-fintech/"
+    cdnAmpWebUrl: "https://www-globalbankingandfinance-com.cdn.ampproject.org/c/s/www.globalbankingandfinance.com/how-real-time-data-innovation-is-driving-up-customer-experience-in-fintech/"
     type: article
     provider:
-      name: Techinasia
-      domain: techinasia.com
-    quality: 34
-  - title: "FINBOA Named 2021 TAG FinTech ADVANCE Award Winner"
-    excerpt: "FINBOA, Inc., a leading innovator in digital automation and regulatory compliance for financial institutions, was recently selected as a 2021 TAG FinTech ADVANCE Award winner by the Technology Association of Georgia (TAG),"
-    publishedDateTime: 2021-06-30T11:53:00Z
-    webUrl: "https://www.lelezard.com/en/news-19881675.html"
-    type: article
-    provider:
-      name: Le Lézard
-      domain: lelezard.com
-    quality: 24
-    images:
-      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
-        width: 640
-        height: 480
-        isCached: true
-  - title: "UK SME fintech platform Tide forays into India, commits $100 million investment"
-    excerpt: "Tide on Tuesday announced its entry into India, committing a Rs 1,000-crore investment over the next five years."
-    publishedDateTime: 2021-06-29T12:38:00Z
-    webUrl: "https://www.cnbctv18.com/startup/uk-sme-fintech-platform-tide-forays-into-india-commits-100-million-investment-9818381.htm"
-    type: article
-    provider:
-      name: cnbctv18
-      domain: cnbctv18.com
-    quality: 20
-    images:
-      - url: "https://images.cnbctv18.com/wp-content/uploads/2018/10/2018-10-10T041821Z_1_LYNXNPEE9909D_RTROPTP_4_INDIA-ECONOMY-RATES-1019x573.jpg"
-        width: 1019
-        height: 573
-        isCached: true
-  - title: "LendIt Fintech USA Reunites the Fintech Community with its Return to a Physical Event in 2022"
-    excerpt: "LendIt Fintech, the leading event series dedicated to financial services innovation, today announced that its flagship event,"
-    publishedDateTime: 2021-07-02T15:00:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/21/07/n21828492/lendit-fintech-usa-reunites-the-fintech-community-with-its-return-to-a-physical-event-in-2022"
-    ampWebUrl: "https://www.benzinga.com/amp/content/21828492"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/21828492"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 13
-  - title: "FinTech Company Centime Launches Cloud-based Platform to Control Cash Flow"
-    excerpt: "Centime, a FinTech company, today announced the launch of its Cloud-based Cash Flow Control solution. With its state-of-art solution, the company will empower businesses by enabling them to optimize all aspects of their cash flow life cycle in an easy-to-use,"
-    publishedDateTime: 2021-06-30T10:17:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-fintech-company-centime-launches-cloud-based-platform-control-/2021/06/30/9400542.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 2
+      name: List of Banks in Belarus
+      domain: globalbankingandfinance.com
+    quality: 22
 
 secured: "b7iS6vGKulELgSgA2d1i0N4qKOxAIWF6h0BQiWUPegKEx9NJCCz5eDitlcknhqgtYCSrtP6O7icAUliZ545w5YUukI6xJ2O4/ONzCX0Cii34aA5NI6OyM9w365hICmu3p3EVmJc88lfTG99ebCTWnPJrEvboZDq+Qjr3CKj/f5i1bMocBdBQNM3iGGNzOMLBqg9RWKVihpYgvifEJOkqkUVoYKHdNlAESZuG4CKFhipLluXfZDXL8s8MPwfPySKtHT/NFaCauZ4CXz2vac2K5RlxhVLZdIJ+MGCDIEjM0YDtaZ+kIEfzOTaaZKzeQTNCMzFmoYE2ZsOjtgYA1SiQy3/BCKxkWcpQr2tgYvLHC+m0Qu9mQzmFj7C9TLn3yMGLDCM1WgbW4JynX+wl9MCcIEkwJl66AQy57PEvJyfGWTcHrNxK7qYHdbD0iwn+e/kVc96+EPRqilxNkyqn8VuVCFN/tUJj7Mzjgw3r+mLrfqFwJhXphSwsvc175IjdwONAiDP+9qj2JsxBI6KiDwQdDA==;/aclxd8PUqA9PGjySqjqrA=="
 ---

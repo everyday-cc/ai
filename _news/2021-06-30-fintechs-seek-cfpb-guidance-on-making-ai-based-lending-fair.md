@@ -24,6 +24,22 @@ images:
     height: 630
     isCached: true
 
+related:
+  - title: "FINBOA Named 2021 TAG FinTech ADVANCE Award Winner"
+    excerpt: "FINBOA, Inc., a leading innovator in digital automation and regulatory compliance for financial institutions, was recently selected as a 2021 TAG FinTech ADVANCE Award winner by the Technology Association of Georgia (TAG),"
+    publishedDateTime: 2021-06-30T11:53:00Z
+    webUrl: "https://www.lelezard.com/en/news-19881675.html"
+    type: article
+    provider:
+      name: Le Lézard
+      domain: lelezard.com
+    quality: 24
+    images:
+      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
+        width: 640
+        height: 480
+        isCached: true
+
 secured: "ZtUzVomfEWLyi2Reshs1knUBTxS41/rep03A+TUrdxdoZOMxjRMGyBz5eRAOtNrsyYTlYPRLH2XdJNKluhCCbWHWju+mD8gJuSV1JB/CawZ+JyElX8WXWH7Ov2yGM78fRcb2yJg+RxyRddscsLJus8Cgtw3NCkKrtosXEk/twiK1ruC/oqlsm7/dOmm7CLTy2n4FzAxtfimAVhrjV611vIKOQm7+dueVNDdKMENjrnHEiLuDu1Ib4dqJ0bOiwUayQ3CWcGYjygizNrynID+esZj3r0GftImFW9PqoaMPgzwXRcr3Mo0zJ0RX4bkPSWsAtoUO9lxiIHRTrkkvkZeyz3mL1RE/t5n99fW0mm7lJO/vqIaE4wAYpICeerbV8wTWNIMjsPHBaR3e9X6bvs7FiqYpV4pel4CmCBdvc9SW1Rd198fx18WKJ2zpFsXmEAix3ljfV3T43NX8S5zijlY0qZ0hjIKHpHfIvt07MmTqYOWc0uEGjTitGo7zrJtTB6dBDr+JdXZSSrSdsjtnA7sepA==;+BRVMWj/osZY7xKBlzLfrA=="
 ---
 

@@ -35,17 +35,6 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 64
-  - title: "IBM to Use AI to Detect Bias in Advertising"
-    excerpt: "IBM Watson Advertising has announced a six month research initiative that will use open source AI technology and campaign data from the Ad Council to better understand unwanted bias in advertising, with the goal of laying the foundation for avoiding those biases."
-    publishedDateTime: 2021-06-28T16:53:00Z
-    webUrl: "https://www.tvtechnology.com/news/ibm-to-use-ai-to-detect-bias-in-advertising"
-    ampWebUrl: "https://www.tvtechnology.com/amp/news/ibm-to-use-ai-to-detect-bias-in-advertising"
-    cdnAmpWebUrl: "https://www-tvtechnology-com.cdn.ampproject.org/c/s/www.tvtechnology.com/amp/news/ibm-to-use-ai-to-detect-bias-in-advertising"
-    type: article
-    provider:
-      name: TV Technology
-      domain: tvtechnology.com
-    quality: 39
   - title: "IBM and AI Experience"
     excerpt: "I was on a call with IBM research this week talking about how IBM is deploying artificial intelligence (AI). See more about IBM's AI here:"
     publishedDateTime: 2021-07-02T19:17:00Z

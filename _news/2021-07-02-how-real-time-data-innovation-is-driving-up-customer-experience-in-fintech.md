@@ -37,6 +37,15 @@ related:
         width: 457
         height: 274
         isCached: true
+  - title: "3 fintech trends that are transforming the future of business"
+    excerpt: "Here are three emerging trends in fintech that businesses should be aware of in order to best protect themselves against the inherent risks of digitization of operations, products and services."
+    publishedDateTime: 2021-07-01T05:00:00Z
+    webUrl: "https://www.bizjournals.com/dallas/news/2021/07/01/3-fintech-trends-that-are-transforming-the-future.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 4
 
 secured: "vjovhVhO1R0h2eX2Vw32O2SC+K++QPALBockAtI6bZ4u92gasptC4AdwSvHw2Nw5w65IPM9HjDLNnVhic3KvWUh+CrYVRsFihOc6Blkl6v7AWMUCXgnQS607e9Yqgfd/qg0GHAYkdw78WuNNR7RKBq3y0FqY5YLMLFC6cecSvUZtlohMJFzoArI6/rlGsDYprpYrdf3Ju7UZwgzLqsdiIlP8S+l/GQ4SMMHBa8NDrRFDJsJPr2Ok0bmbMZIZv+9BjlOg/A4TvWlDf+CuM/N1gkZomimXUa+g8/UjIwPlQ9mDZ5F1vmmJZ7DZ24xyVQaPzwlQK8WZt+7nsib+fJ4rpKeem3FVaCbcDax5hq/kiGc=;cdMuznCnglljHkfc0uIQNQ=="
 ---
