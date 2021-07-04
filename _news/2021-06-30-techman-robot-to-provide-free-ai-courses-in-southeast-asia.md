@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/techman-robot-to-p
 webUrl: "https://markets.businessinsider.com/news/stocks/techman-robot-to-provide-free-ai-courses-in-southeast-asia-1030565050"
 type: article
 quality: 84
-heat: 104
+heat: 94
 published: true
 
 provider:
@@ -42,20 +42,6 @@ related:
       - url: "https://finovate-wpengine.netdna-ssl.com/wp-content/uploads/2021/07/pexels-amy-chandra-1020769.jpg"
         width: 1280
         height: 766
-        isCached: true
-  - title: "SEA Taiwan AI College to Share Iconic Manufacturers’ Upgrade Experiences and Cultivate Southeast Asian AI Talent"
-    excerpt: "To tackle the challenges brought by the COVID-19 pandemic, including a shrinking labor force and much greater changes in market demand, the manufacturing industry really has to step up and transform by adopting more standardized,"
-    publishedDateTime: 2021-06-29T13:31:00Z
-    webUrl: "https://www.pr.com/press-release/839298"
-    type: article
-    provider:
-      name: PR
-      domain: pr.com
-    quality: 18
-    images:
-      - url: "https://img.pr.com/release/2106/490551/pressrelease_original_490551_1624601200.jpg"
-        width: 850
-        height: 546
         isCached: true
 
 secured: "QBEzRXEpDDRRYcIZhHGJEOvm3yl4em+8RjELHzDLx7FeQzOg7bmgFOeBBxf1R1EGH+qqkhsspcNvyvWVsXds11r73/1iad/yCa1zxTdZZR7J5qvfDERpdI+yctRdc3XEkJ1sup3/DG5ASXvqEe1D4yyc7BPLXZ5x5WSncdqNlAwaqADBYSseoshtPNd7Lobn0GfC6sJDcivi3KEWn8XmVvsrQk5TpYZ3gbVBY/1iwcGJj485llQCxzOpxk3oHmLpEX/KUTgwCYCjM6W/0gKJFEaVjVX8Jl+onHtiaNCeo1imBlO/0uZUAeyhhSaZHexL3l2xV6mmOdOM5wFytLn60kx4ZIIgKoSSNn4FMr6GmLuD644/hTqTOgd1cioK1Lcyc32+5PpRApGdpR2rMjiLSgCnyir5gVapcC1E7iz0yjwbGvtIM6LuzbyOG4cfeRsD/4LeOv61JyFmOpmIg2/Pnq6agUl+wixMmSS5hoRURnLku03AegN2hGfux3R+tsoqUHxP/ECbrNDPIERm/IlunQ==;zdGuilUrm0LetcFDbvbzSQ=="

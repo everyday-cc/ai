@@ -41,22 +41,6 @@ related:
         width: 1200
         height: 570
         isCached: true
-  - title: "Celential.ai Appoints Vice Presidents of AI And Sales; Expands Its AI-Powered Virtual Recruiter Service To Sales Recruiting"
-    excerpt: "Press Release Celential.ai, a leading AI-driven, human-assisted virtual recruiting service, today announced it has named Dr. Xu Miao its Vice President of Artificial Intelligence and Brian Hollinger its Vice President of Sales."
-    publishedDateTime: 2021-06-30T13:25:00Z
-    webUrl: "https://venturebeat.com/2021/06/30/celential-ai-appoints-vice-presidents-of-ai-and-sales-expands-its-ai-powered-virtual-recruiter-service-to-sales-recruiting/"
-    ampWebUrl: "https://venturebeat.com/2021/06/30/celential-ai-appoints-vice-presidents-of-ai-and-sales-expands-its-ai-powered-virtual-recruiter-service-to-sales-recruiting/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/30/celential-ai-appoints-vice-presidents-of-ai-and-sales-expands-its-ai-powered-virtual-recruiter-service-to-sales-recruiting/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 78
-    images:
-      - url: "https://i0.wp.com/mms.businesswire.com/media/20210630005482/en/888842/4/PR_-_New_Hires_-_final_image.jpg?strip=all&ssl=1"
-        width: 480
-        height: 251
-        isCached: true
   - title: "GAO issues AI accountability framework for agencies"
     excerpt: "The Government Accountability Office has released its much-anticipated artificial intelligence accountability framework in an effort to oversee how agencies are implementing the emerging technology. GAO‘s framework describes key practices across four parts of the development life cycle — governance,"
     publishedDateTime: 2021-07-02T19:06:00Z
@@ -71,15 +55,15 @@ related:
         width: 1920
         height: 1024
         isCached: true
-  - title: "AISERA Transforms Customer Experience & Customer Service with AI & Automation"
-    excerpt: "Aisera, the world's first AI Customer service that automates tasks, actions, and workflows for all organizations, announced today that it has significantly enhanced its Customer Service & Customer Experience (CX) solutions."
-    publishedDateTime: 2021-06-29T14:20:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2021/06/29/9400029.htm"
+  - title: "Celential.ai Appoints Vice Presidents of AI And Sales; Expands Its AI-Powered Virtual Recruiter Service To Sales Recruiting"
+    excerpt: "Celential.ai names Xu Miao VP of AI and Brian Hollinger VP of Sales. It also expands its AI-powered Virtual Recruiter service to sales recruiting."
+    publishedDateTime: 2021-06-30T13:15:00Z
+    webUrl: "https://www.businesswire.com/news/home/20210630005482/en/Celential.ai-Appoints-Vice-Presidents-of-AI-And-Sales-Expands-Its-AI-Powered-Virtual-Recruiter-Service-To-Sales-Recruiting"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 16
+      name: Business Wire
+      domain: businesswire.com
+    quality: 8
 
 secured: "6NF6IK7Q127jhqCP3f6EevcBd3BBg+SHuiPo23qcYKA91TQPN5iSHcf0MT0O+igCP6YaqRRPJvrElIp9LvzN0XnTrV8zIJTZYWmOxjkixuVjASdqbE6fN/kAjVauaz2SgMo35hP6yrUs1cNpNVPO1+7+W0cSoOkiV+1v+XpCm42+MrcqT/FcCTq6DgFD2o9AD1hbHW7o3iYWq1yvH0s1x/BKjWuFGlwcYlSh4Stq8cFdwFDqjda/8nww7g+dsQuAtOkDnWTYKF3T8dvzqvkIDRMDQ7/yTcNWaefdAvmimTK/in+AarZInE3DK5IEKWu92mvoI8L7+EX8IYQ6CkDdQis1owsqeGbZNk+d+JI6HiHrxrN5nb9UNTjnPeJJAqXxBU8zWHzXA/dJkFukrV2LK7qn6C0EeAttr09+Z2JDuV9puzyVtSC61FhfS5qWg66HXZQ3i7SwcnJnADw/bQBD/BzQsR6j9sjzWg44lxPvrYwyIMt3RMCVHJKtBJNOhX034SukoPathmO8yqIOw5dBuA==;6SbYa/Hjuh8Jhbwt2W+lUw=="
 ---

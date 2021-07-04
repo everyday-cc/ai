@@ -25,15 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Apervita Adds Carta Healthcare's AI-Automated Clinical Data Abstraction to Its ApervitaTM Vital Platform"
-    excerpt: "Apervita, the trusted platform for healthcare collaboration, today announced that it has added Carta Healthcare's artificial intelligence (AI)-powered data abstraction technology to the Apervita Vital TM Platform's robust interoperability layer ..."
-    publishedDateTime: 2021-06-29T13:15:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-apervita-adds-carta-healthcares-ai-automated-clinical-data-/2021/06/29/9399668.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 17
   - title: "Carta Healthcare Announces Status as a Certified NCDR Software Vendor for the American College of Cardiology's (ACC) CathPCI Registry"
     excerpt: "Carta Healthcare, a provider of artificial intelligence (AI)-powered clinical data abstraction technology and services, today announced that it is now a certified NCDR® software vendor for the CathPCI Registry®."
     publishedDateTime: 2021-07-01T13:07:00Z

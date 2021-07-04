@@ -26,22 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Microsoft launches Azure Arc-enabled SQL in general availability"
-    excerpt: "Microsoft today announced Azure Arc-enabled SQL, which extends Azure services to edge datacenter or multicloud instances."
-    publishedDateTime: 2021-06-29T14:00:00Z
-    webUrl: "https://venturebeat.com/2021/06/29/microsoft-launches-azure-arc-enabled-sql-in-general-availability/"
-    ampWebUrl: "https://venturebeat.com/2021/06/29/microsoft-launches-azure-arc-enabled-sql-in-general-availability/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/29/microsoft-launches-azure-arc-enabled-sql-in-general-availability/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 119
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2020/12/microsoft-azure.png?w=1200&strip=all"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "AT&T (T) to Move 5G Mobile Network to Microsoft Azure"
     excerpt: "AT&T Inc. T has announced collaboration with Microsoft MSFT under which the telecom giant will move its 5G mobile network to the latter’s cloud. This will allow AT&T’s mobile network traffic to be managed by Microsoft Azure technology."
     publishedDateTime: 2021-07-01T13:24:00Z
@@ -53,49 +37,37 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 84
-  - title: "With Windows 11 'accessibility was considered from the start,' says Microsoft"
-    excerpt: "Microsoft explains how \"Windows 11 is the most inclusively designed version of Windows\" in a recent blog post. The operating system includes several features to improves accessibility."
-    publishedDateTime: 2021-07-02T13:54:00Z
-    webUrl: "https://www.windowscentral.com/windows-11-accessibility-was-considered-start-says-microsoft"
-    ampWebUrl: "https://www.windowscentral.com/windows-11-accessibility-was-considered-start-says-microsoft?amp"
-    cdnAmpWebUrl: "https://www-windowscentral-com.cdn.ampproject.org/c/s/www.windowscentral.com/windows-11-accessibility-was-considered-start-says-microsoft?amp"
+  - title: "AJNIFM and Microsoft are collaborating to build an AI CoE"
+    excerpt: "Partnership will focus on capacity building of government officials, skilling them in emerging technologies, like AI and machine learning"
+    publishedDateTime: 2021-07-02T07:00:00Z
+    webUrl: "https://www.dqindia.com/arun-jaitley-national-institute-financial-management-partners-microsoft-build-ai-emerging-tech-coe/"
+    ampWebUrl: "https://www.dqindia.com/arun-jaitley-national-institute-financial-management-partners-microsoft-build-ai-emerging-tech-coe/amp/"
+    cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/arun-jaitley-national-institute-financial-management-partners-microsoft-build-ai-emerging-tech-coe/amp/"
     type: article
     provider:
-      name: Windows Central
-      domain: windowscentral.com
-    quality: 56
+      name: Dataquest
+      domain: dqindia.com
+    quality: 76
     images:
-      - url: "https://www.windowscentral.com/sites/wpcentral.com/files/styles/large/public/field/image/2021/06/windows-11-icon-taskbar-razebook.jpg"
-        width: 800
-        height: 600
+      - url: "https://www.dqindia.com/wp-content/uploads/2019/10/ai-monitoring-3262759_960_720.jpg"
+        width: 736
+        height: 400
         isCached: true
-  - title: "AT&T hands 5G core to Microsoft Azure"
-    excerpt: "Microsoft is acquiring AT&T’s Network Cloud business as part of a new deal that will see Azure handle all of AT&T’s 5G traffic"
-    publishedDateTime: 2021-07-01T12:38:00Z
-    webUrl: "https://www.totaltele.com/510166/ATT-hands-5G-core-to-Microsoft-Azure"
+  - title: "AT&T takes a giant 5G leap to the public cloud with Azure"
+    excerpt: "Giant US operator is handing its 5G core to Microsoft AzureThe public cloud player adopts AT&T’s Network Cloud and tech staffAzure will then further develop"
+    publishedDateTime: 2021-07-01T14:06:00Z
+    webUrl: "https://www.telecomtv.com/content/cloud-native/at-t-takes-a-giant-5g-leap-to-the-public-cloud-with-azure-41867/"
+    ampWebUrl: "https://www.telecomtv.com/content/cloud-native/at-t-takes-a-giant-5g-leap-to-the-public-cloud-with-azure-41867/amp/"
+    cdnAmpWebUrl: "https://www-telecomtv-com.cdn.ampproject.org/c/s/www.telecomtv.com/content/cloud-native/at-t-takes-a-giant-5g-leap-to-the-public-cloud-with-azure-41867/amp/"
     type: article
     provider:
-      name: Total Telecom
-      domain: totaltele.com
-    quality: 54
+      name: TelecomTV
+      domain: telecomtv.com
+    quality: 59
     images:
-      - url: "https://www.totaltele.com/res/image/tech%20stuff/at&t.jpg"
-        width: 467
-        height: 467
-        isCached: true
-  - title: "AT&T to Run Mobility Network on Microsoft’s Azure for Operators"
-    excerpt: "AT&T will move its 5G mobile network to the Microsoft cloud. The strategic alliance provides a path for all of AT&T’s mobile network traffic to be managed using Microsoft Azure technologies. The companies will start with AT&T’s 5G core,"
-    publishedDateTime: 2021-06-30T17:03:00Z
-    webUrl: "https://channelvisionmag.com/att-to-run-mobility-network-on-microsofts-azure-for-operators/"
-    type: article
-    provider:
-      name: ChannelVision Magazine
-      domain: channelvisionmag.com
-    quality: 54
-    images:
-      - url: "https://channelvisionmag.com/wp-content/uploads/2021/06/ATT.jpg"
-        width: 624
-        height: 416
+      - url: "https://assets.telecomtv.com/assets/telecomtv/at-t-microsoft-azure-12193.jpeg?w=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Microsoft, AT&T 5G Deal Gives Azure Telecom Cloud A Boost"
     excerpt: "Microsoft's Azure for Operators cloud is set to expand with a new deal to acquire AT&T Network Cloud and engineering and lifecycle management software."
@@ -111,19 +83,19 @@ related:
         width: 606
         height: 456
         isCached: true
-  - title: "Microsoft makes big 5G play as AT&T moves core to Azure cloud"
-    excerpt: "Microsoft VP of 5G Strategy Shawn Hakl told Fierce that the combination of gaining a Tier one anchor tenant, along with IP and expertise to incorporate directly into Azure for Operators, is key and unique to the deal."
-    publishedDateTime: 2021-06-30T17:11:00Z
-    webUrl: "https://www.fiercewireless.com/5g/microsoft-makes-bigger-5g-play-as-at-t-moves-core-to-azure-cloud"
+  - title: "Microsoft to acquire AT&T’s Network Cloud; Azure to host AT&T 5G network"
+    excerpt: "The partnership builds on an existing $2bn deal where AT&T moved its back-end office to Microsoft Azure. The tech company became AT&T's preferred cloud provider for \"non-network a"
+    publishedDateTime: 2021-07-01T12:07:00Z
+    webUrl: "https://www.datacenterdynamics.com/en/news/microsoft-to-acquire-atts-network-cloud-azure-to-host-att-5g-network/"
     type: article
     provider:
-      name: Fierce Wireless
-      domain: fiercewireless.com
-    quality: 54
+      name: Datacenter Dynamics
+      domain: datacenterdynamics.com
+    quality: 53
     images:
-      - url: "https://qtxasset.com/fiercewireless/1625073696/Screen%20Shot%202020-10-27%20at%209.33.32%20AM.png/Screen%20Shot%202020-10-27%20at%209.33.32%20AM.png?SX9t9ysna94JXCELLQtb2nBx_bdHushz"
-        width: 716
-        height: 439
+      - url: "https://media.datacenterdynamics.com/media/images/ATTcloud.2e16d0ba.fill-1200x630.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Cloud wars heat up: AT&T moves 5G cloud to Azure, sells Network Cloud tech to Microsoft"
     excerpt: "AT&T is making big changes in its cloud computing efforts, deciding to move its next-generation 5G wireless core to Microsoft's Azure cloud and also selling its Network Cloud Platform tech to"
@@ -139,24 +111,6 @@ related:
         width: 1024
         height: 576
         isCached: true
-  - title: "AT&T to move 5G network to Microsoft Azure cloud"
-    excerpt: "AT&T announced an agreement to move its 5G mobile network to the Microsoft cloud. The migration starts with the 5G core network and includes a path for all of AT&T's mobile network traffic to be managed using Microsoft Azure."
-    publishedDateTime: 2021-07-01T06:50:00Z
-    webUrl: "https://www.telecompaper.com/news/atandt-to-move-5g-network-to-microsoft-azure-cloud--1388724"
-    type: article
-    provider:
-      name: Telecompaper
-      domain: telecompaper.com
-    quality: 34
-  - title: "Microsoft, SES demo Azure Cloud for remote missions via secure GovSat service"
-    excerpt: "Microsoft and SES have demonstrated the use of Azure Cloud for remote missions using the secure MilSatCom connectivity. The demonstration also involved GovSat, public-private JV between the Luxembourg government and SES,"
-    publishedDateTime: 2021-07-01T13:15:00Z
-    webUrl: "https://www.telecompaper.com/news/microsoft-ses-demo-azure-cloud-for-remote-missions-via-secure-govsat-service--1388819"
-    type: article
-    provider:
-      name: Telecompaper
-      domain: telecompaper.com
-    quality: 31
   - title: "AT&T to run its mobility network on Microsoft's Azure for Operators cloud, delivering cost-efficient 5G services at scale"
     excerpt: "AT&T will move its 5G mobile network to the Microsoft cloud. This strategic alliance provides a path for all of AT&T's"
     publishedDateTime: 2021-06-30T14:35:00Z
@@ -171,24 +125,6 @@ related:
         width: 944
         height: 630
         isCached: true
-  - title: "Microsoft, SES and GRC Showcase Azure Cloud for Remote Missions via Secure GovSat Connectivity Service"
-    excerpt: "Microsoft and SES, in partnership with GovSat and UK-based solutions provider GRC, came together to demonstrate how Microsoft Azure Machine Learning ("
-    publishedDateTime: 2021-06-30T06:50:00Z
-    webUrl: "https://www.businesswire.com/news/home/20210629006127/en/Microsoft-SES-and-GRC-Showcase-Azure-Cloud-for-Remote-Missions-via-Secure-GovSat-Connectivity-Service"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 18
-  - title: "Artificial Intelligence In Genomics Market Continues To Impress | IBM, Microsoft, Deep Genomics, Fabric Genomics"
-    excerpt: "Latest released the research study on Global Artificial Intelligence In Genomics Market, offers a detailed overview of the factors influencing the global business scope. Artificial Intelligence In Genomics Market research report shows the latest market insights,"
-    publishedDateTime: 2021-06-30T10:25:00Z
-    webUrl: "https://ksusentinel.com/2021/06/30/artificial-intelligence-in-genomics-market-continues-to-impress-ibm-microsoft-deep-genomics-fabric-genomics/"
-    type: article
-    provider:
-      name: The Sentinel
-      domain: ksusentinel.com
-    quality: 13
 
 secured: "mHaLNFq1TSGqyVCnZQxxjnjc76Z9LxmvLfbTNF69qrXAA0D5JsnIOxnQNxydVmsEqmk5Klv7UwAn8ozrg2hCvB1sNO1D1ohPRuJSkp3JKp4ikKfnue9FrPA44iTAHEZ5TQuMJfWsdlDwsxvz5Qoin85SyBtToW/V53gxqqriR3FEe+F0pocylWeTBq6fv37k9eoTLgO+BkH3A91TlHnVzgJf7PWolxPpUoeA5l1xkIFCkcSh91lnZUAfeosV2LN2m8VqD4mT5az9Xo3my1mBrspymYlHndSlvvYpul19RjO7BLKGO2AUedGBNT6GpD/AmAydXaeGc1I73i8VuCzk2DPNjUIUftY1EZwkFvcfWDpEY01A7pNLV7c+4v7iSsBk+Uk3tVpROIi9HDbDEvLzw2GsVSkvjbe3TU0VJnld4WJbHS9ulmh1WYqgXc/U12ADtvvN647bD/jiLpADOh9CAA1xx3eNv7gy98Q7+6OOBH+x15OI45ze5GTG29inZo1Bs70Z08WhzhPZHZxbNGlTAA==;/ftPdXC/sAUGrizFzEJnMw=="
 ---

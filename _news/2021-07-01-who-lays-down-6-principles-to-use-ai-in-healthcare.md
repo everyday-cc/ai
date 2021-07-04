@@ -42,15 +42,6 @@ related:
         width: 1400
         height: 933
         isCached: true
-  - title: "WHO Issues First Global Report on Artificial Intelligence in Health, 6 Guiding Principles for Its Design, Use"
-    excerpt: "Artificial Intelligence holds great promise for improving the delivery of healthcare and medicine worldwide, but only if ethics and human rights are put at the heart of its design, deployment, and use,"
-    publishedDateTime: 2021-06-29T14:29:00Z
-    webUrl: "https://www.who.int/news/item/28-06-2021-who-issues-first-global-report-on-ai-in-health-and-six-guiding-principles-for-its-design-and-use"
-    type: article
-    provider:
-      name: Insurancenewsnet.com
-      domain: insurancenewsnet.com
-    quality: 102
   - title: "AI Weekly: WHO outlines steps for creating inclusive AI health care systems"
     excerpt: "The World Health Organization (WHO) outlined steps that must be taken for the development of trustworthy AI in health care."
     publishedDateTime: 2021-07-02T20:30:00Z

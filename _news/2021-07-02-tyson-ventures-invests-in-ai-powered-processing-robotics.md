@@ -41,22 +41,6 @@ related:
         width: 1200
         height: 825
         isCached: true
-  - title: "Madden 22 Gets Next-Gen AI, Unique Features For Every Stadium"
-    excerpt: "Madden NFL 22 is going to be here in less than two months, and EA has released a new video detailing some of its new Dynamic Gameday features via producer and former NFL player Clint Oldenburg. In the video deep dive,"
-    publishedDateTime: 2021-06-29T14:44:00Z
-    webUrl: "https://www.gamespot.com/articles/madden-22-gets-next-gen-ai-unique-features-for-every-stadium/1100-6493366/"
-    ampWebUrl: "https://www.gamespot.com/amp-articles/madden-22-gets-next-gen-ai-unique-features-for-every-stadium/1100-6493366/"
-    cdnAmpWebUrl: "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/madden-22-gets-next-gen-ai-unique-features-for-every-stadium/1100-6493366/"
-    type: article
-    provider:
-      name: GameSpot
-      domain: gamespot.com
-    quality: 57
-    images:
-      - url: "https://www.gamespot.com/a/uploads/original/1597/15971423/3849882-8338139713-ss_3a.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
 
 secured: "2WYUFqtLPC2I4t+uoW0V+QhPrOdyzw5vlm2C0n5+NyYaqD07oUd+PAq62VOEvVUGxmg+RhbRzmn//cMyz/l/lUKnp1e8dSGllrFHr7VVJrqJj+QpVAs79tGLuT4EwSG9uILSep1PuxC6A4KKmoKMSuf6jNv0kJzmQ3bbN21z3fv2hjQqGkszvgnQFuOL0VTnEkf5czz7sDq99P1c4SXssKsHVprsk1Zs1q+ZcmD7r8HGSGjaaVo63iblNc3qbZ4Rco1Aoqpk/tfl9C0DSsgByMNKmLkQjFPyry2gClBP4unatw6KK9ajquMJkM/fgjgvbkC84EoT3zO5Q+8WA7d3VurTnJC3rdqztxujiGfuqDsST99PlzFZ6bOb/47pq8ul1yqqOrUryDCXGVrWb0BpyqBaVwW4YPblo7Uou8HDMfJD/gbnSQWwxAsgQrQTo5mvgUMHuFhzh09HGgIDeWR5Zlfzc2i5zTzIvlMGZ5se82qNAww12EviD3S5E7wbKwz/MYv2hyXSZx4LHvsV8MFJkw==;tEECSxPJ2y+nb0aGaBxklg=="
 ---

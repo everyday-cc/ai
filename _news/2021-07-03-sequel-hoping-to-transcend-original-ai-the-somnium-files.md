@@ -9,8 +9,8 @@ ampWebUrl: "https://adventuregamers.com/news/amp/sequel-hoping-to-transcend-orig
 cdnAmpWebUrl: "https://adventuregamers-com.cdn.ampproject.org/c/s/adventuregamers.com/news/amp/sequel-hoping-to-transcend-original-ai-the-somnium-files"
 type: article
 quality: 57
-heat: 67
-published: false
+heat: 77
+published: true
 
 provider:
   name: Adventure Gamers
@@ -26,6 +26,22 @@ images:
     isCached: true
 
 related:
+  - title: "AI: The Somnium Files - nirvanA Initiative Announced For Nintendo Switch, PC, PlayStation, And Xbox"
+    excerpt: "The Somnium Files is getting a sequel called AI: The Somnium Files - nirvanA Initiative. The game will release in Spring 2022 for Nintendo Switch, PC, PlayStation 4, and Xbox One. The story follows newly-appointed Special Agent Mizuki and her AI partner Aiba."
+    publishedDateTime: 2021-07-01T02:14:00Z
+    webUrl: "https://www.gamespot.com/articles/ai-the-somnium-files-nirvana-initiative-announced-for-nintendo-switch-pc-playstation-and-xbox/1100-6493466/"
+    ampWebUrl: "https://www.gamespot.com/amp-articles/ai-the-somnium-files-nirvana-initiative-announced-for-nintendo-switch-pc-playstation-and-xbox/1100-6493466/"
+    cdnAmpWebUrl: "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/ai-the-somnium-files-nirvana-initiative-announced-for-nintendo-switch-pc-playstation-and-xbox/1100-6493466/"
+    type: article
+    provider:
+      name: GameSpot
+      domain: gamespot.com
+    quality: 43
+    images:
+      - url: "https://www.gamespot.com/a/uploads/original/1646/16465123/3850632-unnamed.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Ai: The Somnium Files - Nirvana Initiative: Here's What Comes in Each Edition"
     excerpt: "Ai: The Somnium Files - Nirvana Initiative is coming to all platforms in spring 2022. You can already preorder the game in either a standard or collector's edition."
     publishedDateTime: 2021-07-01T14:56:00Z

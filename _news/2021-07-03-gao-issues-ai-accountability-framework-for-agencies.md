@@ -41,22 +41,6 @@ related:
         width: 1200
         height: 570
         isCached: true
-  - title: "Celential.ai Appoints Vice Presidents of AI And Sales; Expands Its AI-Powered Virtual Recruiter Service To Sales Recruiting"
-    excerpt: "Press Release Celential.ai, a leading AI-driven, human-assisted virtual recruiting service, today announced it has named Dr. Xu Miao its Vice President of Artificial Intelligence and Brian Hollinger its Vice President of Sales."
-    publishedDateTime: 2021-06-30T13:25:00Z
-    webUrl: "https://venturebeat.com/2021/06/30/celential-ai-appoints-vice-presidents-of-ai-and-sales-expands-its-ai-powered-virtual-recruiter-service-to-sales-recruiting/"
-    ampWebUrl: "https://venturebeat.com/2021/06/30/celential-ai-appoints-vice-presidents-of-ai-and-sales-expands-its-ai-powered-virtual-recruiter-service-to-sales-recruiting/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/30/celential-ai-appoints-vice-presidents-of-ai-and-sales-expands-its-ai-powered-virtual-recruiter-service-to-sales-recruiting/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 78
-    images:
-      - url: "https://i0.wp.com/mms.businesswire.com/media/20210630005482/en/888842/4/PR_-_New_Hires_-_final_image.jpg?strip=all&ssl=1"
-        width: 480
-        height: 251
-        isCached: true
   - title: "$28M series B in hand, Syllable looks to revamp healthcare customer service with AI"
     excerpt: "The startup offers healthcare organizations automated voice and text tools to answer patients' common questions online or over the phone. It plans to use the new funds to grow its team, scale its provider business and tackle new payer customers."
     publishedDateTime: 2021-06-30T14:51:00Z
@@ -71,15 +55,15 @@ related:
         width: 2121
         height: 1414
         isCached: true
-  - title: "AISERA Transforms Customer Experience & Customer Service with AI & Automation"
-    excerpt: "Aisera, the world's first AI Customer service that automates tasks, actions, and workflows for all organizations, announced today that it has significantly enhanced its Customer Service & Customer Experience (CX) solutions."
-    publishedDateTime: 2021-06-29T14:20:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2021/06/29/9400029.htm"
+  - title: "Celential.ai Appoints Vice Presidents of AI And Sales; Expands Its AI-Powered Virtual Recruiter Service To Sales Recruiting"
+    excerpt: "Celential.ai names Xu Miao VP of AI and Brian Hollinger VP of Sales. It also expands its AI-powered Virtual Recruiter service to sales recruiting."
+    publishedDateTime: 2021-06-30T13:15:00Z
+    webUrl: "https://www.businesswire.com/news/home/20210630005482/en/Celential.ai-Appoints-Vice-Presidents-of-AI-And-Sales-Expands-Its-AI-Powered-Virtual-Recruiter-Service-To-Sales-Recruiting"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 16
+      name: Business Wire
+      domain: businesswire.com
+    quality: 8
 
 secured: "Dl+HFVnhWP/dP/VX7D2ZdzqZaG1ACUUB4uKIHE1vOFhyLcjD6eGf2eBdC3n9M9watQlkBx51Q0zJ03AjxCx1t5r2Gc0n5kEOQNjCN56XOG4PrP3Dpy4+sW+r4wJpSrK18dMDVq1lf0PHIHj/S49EiPGJXGLvI/wdT40bqH2cuUPaxUib9A+Sc7P6iQn32nCXBOJWICRBlSw36/NxcP/xb15R+jf/p2MAP2YcxSyi/s7kLhiKFHbckFP/qpv/wCrKbADYOplQfNJlkXS4hgrshNfEyrUVgq/9DL//snEDQStzsTZZfAL24Cyp6t6mOCwsrY6fXVtfb6IV8HTyZojz8Xgyy9egnDNOVKzFHRqnFBLzAlaDypIjtQ0R8F6z8gPw++ie7hY5yVMxy0RxSfCVwgiUw5jbG9vMK/yHD/KKskr0A5JAdwg7IoLQvF2Ijpf5KitioPKyZv7Dr5w8cX0QqY12dRe0P8/Ls3oBvwlsa9HaYsS+hipi2zn7YRWZZqcgDFvlN9N5JMP5nMvuqjmlBA==;MZg867jndMjfs16Q1VfHLg=="
 ---

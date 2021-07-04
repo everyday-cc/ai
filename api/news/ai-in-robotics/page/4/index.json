@@ -2,49 +2,6 @@
   "page": 4,
   "value": [
     {
-      "path": "_news/2021-06-06-elon-musk-hails-israeli-startup-as-the-robot-future.md",
-      "title": "Elon Musk hails Israeli startup as the ‘robot future’",
-      "excerpt": "Fast-growing BionicHIVE transforms warehouses into automated hubs, with robots scaling shelves to retrieve and distribute packages",
-      "sourceUrl": null,
-      "webUrl": "https://www.timesofisrael.com/spotlight/elon-musk-hails-israeli-startup-as-the-robot-future/",
-      "originalUrl": "https://www.timesofisrael.com/spotlight/elon-musk-hails-israeli-startup-as-the-robot-future/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.timesofisrael.com/www/uploads/2021/06/BionicHIVE-1-640x400.jpg",
-          "width": 640,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.timesofisrael.com/spotlight/elon-musk-hails-israeli-startup-as-the-robot-future/amp/",
-      "cdnAmpWebUrl": "https://www-timesofisrael-com.cdn.ampproject.org/c/s/www.timesofisrael.com/spotlight/elon-musk-hails-israeli-startup-as-the-robot-future/amp/",
-      "publishedDateTime": "2021-06-06T05:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Times of Israel",
-        "domain": "timesofisrael.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-06-06-artificial-intelligence-ai-in-precision-farming-market-pdf-to-witness-significant-growth-by-2021-2027.md",
       "title": "Artificial Intelligence (AI) in Precision Farming Market [ PDF ] To Witness Significant Growth By 2021-2027",
       "excerpt": "The Top Key Market Players for Artificial Intelligence (AI) in Precision Farming Market Listed are :-, Microsoft, IBM, Intel, SAP, Agribotix, The Climate Corporation, Taranis, aWhere, Precision Hawk, DTN, Resson, Vision Robotics, CropX, John Deere ...",
@@ -1429,6 +1386,49 @@
       "provider": {
         "name": "India Education Diary",
         "domain": "indiaeducationdiary.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-29-mind-controlled-robot-arm-allows-paralyzed-man-to-drink-beer-like-a-boss.md",
+      "title": "Mind-controlled robot arm allows paralyzed man to drink beer like a boss",
+      "excerpt": "Featured Video Hide Just ask Erik G. Sorto, who hasn’t had the use of his limbs for 12 years: Thanks to a new prosthetic robot arm that he actually controls with his mind, dude can now kick ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.dailydot.com/unclick/paralyzed-robot-arm-beer/",
+      "originalUrl": "https://www.dailydot.com/unclick/paralyzed-robot-arm-beer/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://uploads.dailydot.com/ba7/52/03a0002a73a5f4306b662edaebadcb49.jpg?auto=compress%2Cformat&ixlib=php-3.3.0",
+          "width": 2049,
+          "height": 1024,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.dailydot.com/unclick/paralyzed-robot-arm-beer/?amp",
+      "cdnAmpWebUrl": "https://www-dailydot-com.cdn.ampproject.org/c/s/www.dailydot.com/unclick/paralyzed-robot-arm-beer/?amp",
+      "publishedDateTime": "2021-05-28T16:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Daily Dot",
+        "domain": "dailydot.com",
         "images": null,
         "publishers": null,
         "authors": null

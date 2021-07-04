@@ -24,35 +24,37 @@ images:
     isCached: true
 
 related:
-  - title: "Using Artificial Intelligence to Train Next Generation of Truckers"
-    excerpt: "Artificial intelligence employing a combination of intelligent monitoring, G-force sensors and dual-facing video can help train new truck drivers to avoid risky behaviors."
-    publishedDateTime: 2021-06-29T15:00:00Z
-    webUrl: "https://www.trucks.com/2021/06/29/artificial-intelligence-can-train-truckers/"
-    ampWebUrl: "https://www.trucks.com/2021/06/29/artificial-intelligence-can-train-truckers/amp/"
-    cdnAmpWebUrl: "https://www-trucks-com.cdn.ampproject.org/c/s/www.trucks.com/2021/06/29/artificial-intelligence-can-train-truckers/amp/"
+  - title: "Toei Animation Taps AI, Overseas Market"
+    excerpt: "For nearly seven decades, animation studio Toei Animation Co. has relied on recognizable franchises, including pirate adventure “One Piece” and fantasy “Dragon Ball,” in making itself a leader."
+    publishedDateTime: 2021-07-01T10:59:00Z
+    webUrl: "https://variety.com/2021/film/asia/toei-animation-1235009726/"
+    ampWebUrl: "https://variety.com/2021/film/asia/toei-animation-1235009726/amp/"
+    cdnAmpWebUrl: "https://variety-com.cdn.ampproject.org/c/s/variety.com/2021/film/asia/toei-animation-1235009726/amp/"
     type: article
     provider:
-      name: trucks.com
-      domain: trucks.com
-    quality: 72
+      name: Variety
+      domain: variety.com
+    quality: 57
     images:
-      - url: "https://www.trucks.com/wp-content/uploads/2019/06/VNR.jpg"
-        width: 800
-        height: 400
+      - url: "https://variety.com/wp-content/uploads/2021/07/Pretty-Guardian-Sailor-Moon.jpg?w=1000"
+        width: 1000
+        height: 563
         isCached: true
-  - title: "Vecow Partners with AI Chipmaker Hailo to Launch Next-generation Edge AI Solution"
-    excerpt: "NEW TAIPEI CITY, Taiwan, and TEL AVIV, Israel, June 29, 2021 /PRNewswire/ -- Vecow Co., Ltd., a team of global embedded experts, announced today"
-    publishedDateTime: 2021-06-29T20:09:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/vecow-partners-with-ai-chipmaker-hailo-to-launch-next-generation-edge-ai-solution-1030564523"
+  - title: "Toei Animation Taps AI, Overseas Market"
+    excerpt: "For nearly seven decades, animation studio Toei Animation Co. has relied on recognizable franchises, including pirate adventure “One Piece” and fantasy “Dragon Ball,” in making itself a leader."
+    publishedDateTime: 2021-07-01T17:59:00Z
+    webUrl: "https://variety.com/2021/film/asia/toei-animation-1235009726/#!"
+    ampWebUrl: "https://variety.com/2021/film/asia/toei-animation-1235009726/amp/"
+    cdnAmpWebUrl: "https://variety-com.cdn.ampproject.org/c/s/variety.com/2021/film/asia/toei-animation-1235009726/amp/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 62
+      name: Variety
+      domain: variety.com
+    quality: 57
     images:
-      - url: "https://mma.prnewswire.com/media/1554303/Vecow_Hailo_8.jpg"
-        width: 400
-        height: 276
+      - url: "https://variety.com/wp-content/uploads/2021/07/Pretty-Guardian-Sailor-Moon.jpg?w=1000"
+        width: 1000
+        height: 563
         isCached: true
 
 secured: "+7qceVRFKs66qYVfMf7lCBmGoXQ1BtWhsWnklJlTKk2YeATKysJha72+o1Um3abDDZkth7e0DWT1mIHirzKFksPG/6tdCdlydhbnGAchCMaY/nZERK8pvnzOG1AK1EncuZjrHvUUUzfOuPCyVoIj7c1muDsbxW6BVqDnukFwwOhN9hh/ak4rLb5G2N4pzNBkZDT6dTmhNRlDmdopXt3LW9ERck+T8gHXasfpI6FbiV34OSGv1c/u2WJRkfQDdAWEMofraihYIkYo9c4v1ZWt/LSyosnRE1w54nVMx+gXs2z51LYYJo0wPA9a50bwyjQ7V767B4egsLZF4ynBqMZ9hXLOduxYjksLJ8YSuJZmvBkO+qbPjBLJ+22bxEh0PLpU251b8lTFqisror1iA3uvMAe6qzH8MvawqzoWB7GbHSEGAPgtG9SWgVuTXAxFB+AkDvYZUZrUSluTYJAISetubFElYsACaRoMmF8EXynfWOo/uZUrERpiIlVfNqk7HGKbJri5Bn/kqxkAdN6s1U5kZg==;QZJZ1AsHjCEoUXk42cN6Ig=="

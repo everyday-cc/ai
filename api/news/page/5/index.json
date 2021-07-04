@@ -2,6 +2,58 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-06-29-visionary-trio-creates-next-gen-video-and-image-annotation-platform-for-machine-learning.md",
+      "title": "Visionary Trio Creates Next Gen Video and Image Annotation Platform for Machine Learning",
+      "excerpt": "Innotescus ® is announcing the launch of its image and video annotation platform. The Innotescus platform provides an intuitive annotation workspace, comprehensive analytics, and a collaborative environment for teams to produce superior quality training datasets.",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/visionary-trio-creates-next-gen-video-and-image-annotation-platform-for-machine-learning-1030563448",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/visionary-trio-creates-next-gen-video-and-image-annotation-platform-for-machine-learning-1030563448",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1551990/Shashank_Chris_Rob.jpg",
+          "width": 400,
+          "height": 267,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-29T09:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-29-edge-of-chaos-leverages-nanowire-pathways-for-brain-like-skynet-artificial-intelligence.md",
       "title": "Edge Of Chaos Leverages Nanowire Pathways For Brain-Like Skynet Artificial Intelligence",
       "excerpt": "One of the more interesting developments in AI has to do with nanowire networks being trained to solve simple problems in a chaotic state.",
@@ -645,6 +697,40 @@
       ]
     },
     {
+      "path": "_news/2021-06-29-diwo-awarded-six-new-patents-to-deliver-advanced-decision-intelligence-to-enterprises.md",
+      "title": "diwo Awarded Six New Patents to Deliver Advanced Decision Intelligence to Enterprises",
+      "excerpt": "ANN ARBOR, Mich.,  /PRNewswire/ -- diwo today announced that it was awarded six new patents in cognitive process and opportunity. These innovations are already part of the foundation of the company's artificial intelligence (AI)-based advisor for enterprise decisions,",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/2021/06/29/9399547.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/2021/06/29/9399547.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-29T05:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-29-graphic-processing-unit-gpu-market-to-grow-at-a-cagr-of-334-by-2027.md",
       "title": "Graphic Processing Unit (GPU) Market to Grow at a CAGR of 33.4% by 2027",
       "excerpt": "Market size is poised to reach USD 198.77 Billion by 2027 and is expected to expand at a compound annual growth rate (CAGR) of 33.4% from 2020 to 2027. The report provides the overall revenue of the global Graphic Processing Unit (GPU) Market from 2016 to 2027,",
@@ -1000,49 +1086,6 @@
       ]
     },
     {
-      "path": "_news/2021-06-29-edge-of-chaos-opens-pathway-to-artificial-intelligence-discoveries.md",
-      "title": "'Edge of chaos' opens pathway to artificial intelligence discoveries",
-      "excerpt": "Scientists at the University of Sydney and Japan's National Institute for Material Science (NIMS) have discovered that an artificial network of nanowires can be tuned to respond in a brain-like way when electrically stimulated.",
-      "sourceUrl": null,
-      "webUrl": "https://phys.org/news/2021-06-edge-chaos-pathway-artificial-intelligence.html",
-      "originalUrl": "https://phys.org/news/2021-06-edge-chaos-pathway-artificial-intelligence.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2021/edge-of-chaos-opens-pa.jpg",
-          "width": 514,
-          "height": 225,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-29T02:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Phys.org",
-        "domain": "phys.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-06-29-who-warns-against-applying-ai-models-using-data-from-rich-countries-to-everyone-else.md",
       "title": "WHO warns against applying AI models using data from rich countries to everyone else",
       "excerpt": "The World Health Organization wants to ensure that ethical considerations and human rights are the centre of any AI-based healthcare solutions.",
@@ -1186,50 +1229,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-29-artificial-intelligence-hold-potential-for-improving-delivery-of-healthcare-worldwide-who.md",
-      "title": "Artificial Intelligence Hold Potential for Improving Delivery of Healthcare Worldwide: WHO",
-      "excerpt": "Artificial Intelligence (AI) holds great promise for improving the delivery of healthcare and medicine worldwide.",
-      "sourceUrl": null,
-      "webUrl": "https://www.medcom.id/english/tech/GNG7LWAN-artificial-intelligence-hold-potential-for-improving-delivery-of-healthcare-worldwide-who",
-      "originalUrl": "https://www.medcom.id/english/tech/GNG7LWAN-artificial-intelligence-hold-potential-for-improving-delivery-of-healthcare-worldwide-who",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.medcom.id/dynamic/content/2021/06/29/1293880/u0zwSUQsoA.jpg?w=640",
-          "width": 577,
-          "height": 433,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://m.medcom.id/amp/GNG7LWAN-artificial-intelligence-hold-potential-for-improving-delivery-of-healthcare-worldwide-who",
-      "cdnAmpWebUrl": "https://m-medcom-id.cdn.ampproject.org/c/s/m.medcom.id/amp/GNG7LWAN-artificial-intelligence-hold-potential-for-improving-delivery-of-healthcare-worldwide-who",
-      "publishedDateTime": "2021-06-29T00:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "medcom",
-        "domain": "medcom.id",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "AI Ethics"
       ]
     }
   ],

@@ -7,7 +7,7 @@ originalUrl: "https://www.indianweb2.com/2021/07/faridabads-ajnifm-and-microsoft
 webUrl: "https://www.indianweb2.com/2021/07/faridabads-ajnifm-and-microsoft-tie-up.html"
 type: article
 quality: 43
-heat: -1
+heat: 43
 published: false
 
 provider:
@@ -24,35 +24,6 @@ images:
     width: 900
     height: 578
     isCached: true
-
-related:
-  - title: "AJNIFM and Microsoft are collaborating to build an AI CoE"
-    excerpt: "Partnership will focus on capacity building of government officials, skilling them in emerging technologies, like AI and machine learning"
-    publishedDateTime: 2021-07-02T07:00:00Z
-    webUrl: "https://www.dqindia.com/arun-jaitley-national-institute-financial-management-partners-microsoft-build-ai-emerging-tech-coe/"
-    ampWebUrl: "https://www.dqindia.com/arun-jaitley-national-institute-financial-management-partners-microsoft-build-ai-emerging-tech-coe/amp/"
-    cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/arun-jaitley-national-institute-financial-management-partners-microsoft-build-ai-emerging-tech-coe/amp/"
-    type: article
-    provider:
-      name: Dataquest
-      domain: dqindia.com
-    quality: 76
-    images:
-      - url: "https://www.dqindia.com/wp-content/uploads/2019/10/ai-monitoring-3262759_960_720.jpg"
-        width: 736
-        height: 400
-        isCached: true
-  - title: "Hexaware, Microland, and Mindtree get Top Honors at Microsoft India Incubathon 2021"
-    excerpt: "Microsoft India announced winners of the Incubathon 2021, a unique industry innovation garage program for its partner organizations."
-    publishedDateTime: 2021-07-01T07:25:00Z
-    webUrl: "https://www.pcquest.com/hexaware-microland-mindtree-get-top-honors-microsoft-india-incubathon-2021/"
-    ampWebUrl: "https://www.pcquest.com/hexaware-microland-mindtree-get-top-honors-microsoft-india-incubathon-2021/amp/"
-    cdnAmpWebUrl: "https://www-pcquest-com.cdn.ampproject.org/c/s/www.pcquest.com/hexaware-microland-mindtree-get-top-honors-microsoft-india-incubathon-2021/amp/"
-    type: article
-    provider:
-      name: PCQuest
-      domain: pcquest.com
-    quality: 33
 
 secured: "7uO1t7nrnrSk1OAAarg8xkq3H/QgNs9YoJTD6+8VlDqHYapz9/ghyL6P98JxGSMegQ9en4eOVW02BLit4nN42xTXWChp5sjlRl5Es3Rr1Bri58Ru4iGd1MRdfS8kY8eKIgTQhAJxBF1/AGd7BDr1YpcOGC+7HZ+ekrZ1h+HbOkuo8QaeF9LLbwJnnaSQKnBmHmRj/Tru2D6/dnDf20ramixKWhH+AiBeNcuJmVTxsjFTs13E3lG5catSI9vF3I18IOuK1P8UMYO67xQZ1HzHo0D/07duqhmueMS9sJbv++00/WzlSB/ywJ7sYOgGV/Q6G01VFidkkPG3e28O+h4ravhiuw8+azKLbyvnfmLMwHw=;0fMOszBxh/aJWUUocuOTHg=="
 ---

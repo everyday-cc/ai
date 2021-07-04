@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/07/01/nice-publishes-ethical-framework-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/01/nice-publishes-ethical-framework-for-applying-ai-to-customer-service/amp/"
 type: article
 quality: 106
-heat: 146
+heat: 136
 published: true
 
 provider:
@@ -32,22 +32,6 @@ images:
     isCached: true
 
 related:
-  - title: "Celential.ai Appoints Vice Presidents of AI And Sales; Expands Its AI-Powered Virtual Recruiter Service To Sales Recruiting"
-    excerpt: "Press Release Celential.ai, a leading AI-driven, human-assisted virtual recruiting service, today announced it has named Dr. Xu Miao its Vice President of Artificial Intelligence and Brian Hollinger its Vice President of Sales."
-    publishedDateTime: 2021-06-30T13:25:00Z
-    webUrl: "https://venturebeat.com/2021/06/30/celential-ai-appoints-vice-presidents-of-ai-and-sales-expands-its-ai-powered-virtual-recruiter-service-to-sales-recruiting/"
-    ampWebUrl: "https://venturebeat.com/2021/06/30/celential-ai-appoints-vice-presidents-of-ai-and-sales-expands-its-ai-powered-virtual-recruiter-service-to-sales-recruiting/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/30/celential-ai-appoints-vice-presidents-of-ai-and-sales-expands-its-ai-powered-virtual-recruiter-service-to-sales-recruiting/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 78
-    images:
-      - url: "https://i0.wp.com/mms.businesswire.com/media/20210630005482/en/888842/4/PR_-_New_Hires_-_final_image.jpg?strip=all&ssl=1"
-        width: 480
-        height: 251
-        isCached: true
   - title: "$28M series B in hand, Syllable looks to revamp healthcare customer service with AI"
     excerpt: "The startup offers healthcare organizations automated voice and text tools to answer patients' common questions online or over the phone. It plans to use the new funds to grow its team, scale its provider business and tackle new payer customers."
     publishedDateTime: 2021-06-30T14:51:00Z
@@ -76,15 +60,15 @@ related:
         width: 1920
         height: 1024
         isCached: true
-  - title: "AISERA Transforms Customer Experience & Customer Service with AI & Automation"
-    excerpt: "Aisera, the world's first AI Customer service that automates tasks, actions, and workflows for all organizations, announced today that it has significantly enhanced its Customer Service & Customer Experience (CX) solutions."
-    publishedDateTime: 2021-06-29T14:20:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2021/06/29/9400029.htm"
+  - title: "Celential.ai Appoints Vice Presidents of AI And Sales; Expands Its AI-Powered Virtual Recruiter Service To Sales Recruiting"
+    excerpt: "Celential.ai names Xu Miao VP of AI and Brian Hollinger VP of Sales. It also expands its AI-powered Virtual Recruiter service to sales recruiting."
+    publishedDateTime: 2021-06-30T13:15:00Z
+    webUrl: "https://www.businesswire.com/news/home/20210630005482/en/Celential.ai-Appoints-Vice-Presidents-of-AI-And-Sales-Expands-Its-AI-Powered-Virtual-Recruiter-Service-To-Sales-Recruiting"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 16
+      name: Business Wire
+      domain: businesswire.com
+    quality: 8
 
 secured: "sRu2zJW0gwd5T08O1VPQ4AGGN/RoULrdVUrELZ9F3d3zY7ZDk3RSvLMbOdP/Gm2vhj2GLDcPDamDjrYL59/7kI9JP5Dl+w7ljgSLAZmYM9Zb+Aetu8bAB+g3yGbhx/R8vBDsDWL9luuCO8p8n7qSfQSzOCgGLNDl2ddfKwn4ykA6p+1UARjoIL63JQv5DiIP5/o8fYljqed9b9aPElYkZjlFZ357pG8+R4dYqBxXjeGYhTbFMh55ihzDhLNFPzXGlv7VCvBfCjfr5hEM34AsoarbRT6rwKVjLRWSOddFkG0U3vG7ef0DudXXuyjqKVEXGFJ66+/5wj3+kS1WGYNVE/WuP/3u6qvb0s2sZ97oAxOWcR+UFRl+lLBcCoIVzFcKD3RzcVoMZZ9DHrsovjT3PzTiHG54wRaFbkLABii80yXTJveqZ+taE/SX2DuJP10HaDfJ3D6PrvUtK3PtHjQ4SsgD0gcINhiZors63PqvbwHuGSnusIlQhxafzikm+wvRSDQrfHAvFcrc0TXhtFa1Iw==;uOaKWLwZiVqZLNlKeS2cng=="
 ---

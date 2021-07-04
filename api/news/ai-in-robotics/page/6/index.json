@@ -2,49 +2,6 @@
   "page": 6,
   "value": [
     {
-      "path": "_news/2021-05-21-vertical-farmer-appharvest-buys-robotics-start-up-root-ai.md",
-      "title": "Vertical farmer AppHarvest buys robotics start-up Root AI",
-      "excerpt": "US vertical-farming business AppHarvest has acquired Root AI, an artificial intelligence start-up that uses robotics to collect harvest data, predict...Read",
-      "sourceUrl": null,
-      "webUrl": "https://www.just-food.com/news/vertical-farmer-appharvest-buys-robotics-start-up-root-ai",
-      "originalUrl": "https://www.just-food.com/news/vertical-farmer-appharvest-buys-robotics-start-up-root-ai",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.just-food.com/wp-content/uploads/sites/35/2021/05/2021-04-12-15-48-34241_cropped_90.jpg",
-          "width": 424,
-          "height": 283,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-21T08:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Just-Food",
-        "domain": "just-food.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-05-21-rai-industry-showcase-shaping-up-to-be-the-biggest-event-in-uk-robotics-ai.md",
       "title": "RAI INDUSTRY SHOWCASE SHAPING UP TO BE THE BIGGEST EVENT IN UK ROBOTICS & AI",
       "excerpt": "Robotics & AI Showcase, 25 - 27 May, has more than 70 exhibitors booked in and over 800 visitors registered to attend and counting, making it the biggest robotics and AI events of the year.",
@@ -1357,6 +1314,58 @@
       "ampWebUrl": "https://techcrunch.com/2021/05/13/chef-robotics-raises-7-7m-to-help-automate-kitchens/amp/",
       "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/05/13/chef-robotics-raises-7-7m-to-help-automate-kitchens/amp/",
       "publishedDateTime": "2021-05-13T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-13-the-fulfilling-world-of-warehouse-robotics.md",
+      "title": "The fulfilling world of warehouse robotics",
+      "excerpt": "With the pandemic finish line in sight — at least for some — now is a good time to start assessing which segments have been most impacted by the events of the past year and a half. In terms of robotics,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/05/13/robotics-roundup-11/",
+      "originalUrl": "https://techcrunch.com/2021/05/13/robotics-roundup-11/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/03/GettyImages-1124819781.jpg?w=1024",
+          "width": 1024,
+          "height": 677,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/05/13/robotics-roundup-11/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/05/13/robotics-roundup-11/amp/",
+      "publishedDateTime": "2021-05-13T08:15:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "TechCrunch",

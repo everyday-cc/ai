@@ -9,7 +9,7 @@ ampWebUrl: "https://www.pcquest.com/hexaware-microland-mindtree-get-top-honors-m
 cdnAmpWebUrl: "https://www-pcquest-com.cdn.ampproject.org/c/s/www.pcquest.com/hexaware-microland-mindtree-get-top-honors-microsoft-india-incubathon-2021/amp/"
 type: article
 quality: 33
-heat: -1
+heat: 33
 published: false
 
 provider:
@@ -19,38 +19,6 @@ provider:
 topics:
   - Microsoft AI
   - AI
-
-related:
-  - title: "AJNIFM and Microsoft are collaborating to build an AI CoE"
-    excerpt: "Partnership will focus on capacity building of government officials, skilling them in emerging technologies, like AI and machine learning"
-    publishedDateTime: 2021-07-02T07:00:00Z
-    webUrl: "https://www.dqindia.com/arun-jaitley-national-institute-financial-management-partners-microsoft-build-ai-emerging-tech-coe/"
-    ampWebUrl: "https://www.dqindia.com/arun-jaitley-national-institute-financial-management-partners-microsoft-build-ai-emerging-tech-coe/amp/"
-    cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/arun-jaitley-national-institute-financial-management-partners-microsoft-build-ai-emerging-tech-coe/amp/"
-    type: article
-    provider:
-      name: Dataquest
-      domain: dqindia.com
-    quality: 76
-    images:
-      - url: "https://www.dqindia.com/wp-content/uploads/2019/10/ai-monitoring-3262759_960_720.jpg"
-        width: 736
-        height: 400
-        isCached: true
-  - title: "Faridabad's AJNIFM and Microsoft Tie-up for An AI and Emerging Technologies Centre of Excellence"
-    excerpt: "Partnership will focus on capacity building of government officials, skilling them in emerging technologies, like AI and machine learning"
-    publishedDateTime: 2021-07-02T06:37:00Z
-    webUrl: "https://www.indianweb2.com/2021/07/faridabads-ajnifm-and-microsoft-tie-up.html"
-    type: article
-    provider:
-      name: indianweb2.com
-      domain: indianweb2.com
-    quality: 43
-    images:
-      - url: "https://1.bp.blogspot.com/-YRhUJuZMcOI/YN6yevCS-eI/AAAAAAAAFoA/5xYJ-t3EpXQPinUoIiib9T5btMFMW1q3ACLcBGAsYHQ/s16000/sparkler-4629347_1280.jpg"
-        width: 900
-        height: 578
-        isCached: true
 
 secured: "KopfQd3x5VbXym17ThSjECKPT2hfjL6EqPyOIm7o/lRwz+K23ESZNxuXyX2azxh2zLP8+kbMhBxg8LLWgK/imCM0FGsRX5LOHQD8/pc+ikPrnP5NxSR2yrTyGe/49aYAo3nEw4S3a5urIO4wsu+g2sj/Js0cYpB96TaruDp8QPm9zBLBbuj3NL8LjdAY25FgjJAB2XUzahH1nDqXmWHkkSXAWi8UNgbIh/wVFoN1kI6lJKjj7wZoEwfdyI3M/JHMKYL3m5ZXtOrfUikZeFFG44WP2bBjhFJvb/GpkzyDVKzQA9cz8LOX4LL5z/4VH+JFT+TXE2aHHe+rBXhCXHF5h38dg9S4qxbyVdbAPaiKCaA=;dMNXHZVOiLDVCLIPEF7wlg=="
 ---

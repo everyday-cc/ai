@@ -3,12 +3,9 @@ category: news
 title: "diwo Awarded Six New Patents to Deliver Advanced Decision Intelligence to Enterprises"
 excerpt: "ANN ARBOR, Mich.,  /PRNewswire/ -- diwo today announced that it was awarded six new patents in cognitive process and opportunity. These innovations are already part of the foundation of the company's artificial intelligence (AI)-based advisor for enterprise decisions,"
 publishedDateTime: 2021-06-29T12:24:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-diwo-awarded-six-new-patents-deliver-advanced-decision-/2021/06/29/9399547.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-diwo-awarded-six-new-patents-deliver-advanced-decision-/2021/06/29/9399547.htm"
+originalUrl: "https://www.tmcnet.com/usubmit/2021/06/29/9399547.htm"
+webUrl: "https://www.tmcnet.com/usubmit/2021/06/29/9399547.htm"
 type: article
-quality: 0
-heat: 0
-published: false
 
 provider:
   name: TMCnet
@@ -18,6 +15,6 @@ topics:
   - Natural Language Processing
   - AI
 
-secured: "rrFzXVpYixg1dQP6YOlePfOqNpSFAvkCSO1g92jGjMUz0NpwWRz1HkLX6j4dCk0OU304jhbYK70vAG4KazqeNGdI+opEev4FnUpUf5I0Jrz6BcKMOAvAG8mil65GVceAJ+FSmR6A00wKyuh53lp4eHizWPJ8yW264RhCHodEPXE9LgFRqYOzhEaGGSB7OgTLW1OlFh1MkX6ptZl6VbbTKGsCpEhg+A+sLZ+KdwG4WTfIUcZTsBLVbi0fl+Xfpma7dy+BWiGlAyjY4SDiJSpVok2UJsV4per6zdmJ7W3LxJd2EKm5YJqaDxA8Vytrs6P5EpZFncBLf9DunNb41hviYsfNpmf5WOqELuLC98yC1R/84jupjk0oK0gyau+D7H3CyT390GGvc0r4rerheBQ7Zx9nYiNe63fmhYoOYeuXIm/rfFjOEgzzwiTK0p29dhW7zJVue0OqZNY32yXE8F0PliJ1MSaUTxzYNGoJJIl+XnGkdQJIMMXai60tsxwg8lIf/phTDHOqqlCXaLaMsvDtyQ==;fJoZK3egkd0hEmUetm1ewg=="
+secured: "IzvmOKVnddgXKn4DdSaIgOW4yVVYCR5h9NifC9Fl6t71L6sLfamkH2ASGA3x35549vQgbKyXXGx8/TmfhY4J2TqvL2xnxavXclcTkD7DQlGP1/swzwf9x0V6PH2CgG/45DZdd1VIbWxSz1NT8kdQcp3pEAlav3LKIIthXYcacrjfr1b8buJMjNvN5VohnP9R5QGwr6s3No1ZX2DoP7dxq09RWy4eJLFpYsGC+CCVYuz8zyroprRDJA6yltFYyv/XmhSX+oyO1PWNcBpC9I2kHoRnix71PhtyZQeFvh0nY3+gZ6E9QdOijNqAf91YJJrIzWvag2yrYaWT88tH0aBoETAQlfjNTNphGGKzExpCkAMD4PLho91dLnoRuFrsPQwenHrNeg5GqA9quiNQnru2MjgLrT0IDx82fkwdduKbXjumMyrJocwFyB+RhhasB9XJerPZAYvEI3s/pO7gniDGUTyoMy4Htq9f/J7Xv8IqfSst7QPxZhW6RcVJSHNe+kL59q9ZxTwSQiU5KLwce7KpIg==;a5ZoIKGqv1+MVSD+LlBaBg=="
 ---
 

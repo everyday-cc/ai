@@ -42,22 +42,15 @@ related:
         width: 514
         height: 225
         isCached: true
-  - title: "Nanowire Network at the “Edge of Chaos” Opens Pathway to Artificial Intelligence Discoveries"
-    excerpt: "Nanowire network trained to solve simple problem mimicking neural pathways. Scientists at the University of Sydney and Japan's National Institute for Material Science (NIMS) have discovered that an ar"
-    publishedDateTime: 2021-06-29T13:41:00Z
-    webUrl: "https://scitechdaily.com/nanowire-network-at-the-edge-of-chaos-opens-pathway-to-artificial-intelligence-discoveries/"
-    ampWebUrl: "https://scitechdaily.com/nanowire-network-at-the-edge-of-chaos-opens-pathway-to-artificial-intelligence-discoveries/amp/"
-    cdnAmpWebUrl: "https://scitechdaily-com.cdn.ampproject.org/c/s/scitechdaily.com/nanowire-network-at-the-edge-of-chaos-opens-pathway-to-artificial-intelligence-discoveries/amp/"
+  - title: "'Edge of chaos' opens pathway to artificial intelligence discoveries"
+    excerpt: "Some neuroscience theories suggest the human brain operates best 'at the edge of chaos'. Now scientists have found that keeping a nanowire network at the edge of becoming chaotic is the best state for it to produce useful signals to solve problems."
+    publishedDateTime: 2021-06-29T16:14:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2021/06/210629101157.htm"
     type: article
     provider:
-      name: SciTech Daily
-      domain: scitechdaily.com
-    quality: 48
-    images:
-      - url: "https://scitechdaily.com/images/Neural-Network-and-Nanowire-Network-777x340.jpg"
-        width: 777
-        height: 340
-        isCached: true
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 49
 
 secured: "Wp0OplhoCovvynCK9NDlwM91Vhx+Htri1pXbYic6EiVlVvmNv9d/1R09nzxmeOkvgYEDMRPzc7Z8Eu5d4EgYWwgL5d4LoQ7omQpTFkiWOTdMBSK/82RIWrhVPMZp2A1b/RUZaLTcn3RLIK2wyh/sXSUInTH0Ntvwown8a7+j1ccDkmoMlB5MxDotpF87gM4FDiKGCmOeiBRFMKhGyUWIVb87QzyeujfLBoCpAjfOUYjPB34DFTt5TakzFbY7VOZZaGjWotPpdGdIyhp3aUw6HtZH4RXgTJsSVimnvXpjGMcc+6kkcjPyrq3FV/IEJFfx5QM/L8QeeeAnE5Oc0W7/W5vjbZyriddNHwnFVMBL0lc=;zD+0+qxHsaHn6AIWoTSIiA=="
 ---

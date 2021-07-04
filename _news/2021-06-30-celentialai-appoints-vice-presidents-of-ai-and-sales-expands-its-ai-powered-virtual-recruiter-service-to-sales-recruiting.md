@@ -1,34 +1,22 @@
 ---
 category: news
 title: "Celential.ai Appoints Vice Presidents of AI And Sales; Expands Its AI-Powered Virtual Recruiter Service To Sales Recruiting"
-excerpt: "Press Release Celential.ai, a leading AI-driven, human-assisted virtual recruiting service, today announced it has named Dr. Xu Miao its Vice President of Artificial Intelligence and Brian Hollinger its Vice President of Sales."
-publishedDateTime: 2021-06-30T13:25:00Z
-originalUrl: "https://venturebeat.com/2021/06/30/celential-ai-appoints-vice-presidents-of-ai-and-sales-expands-its-ai-powered-virtual-recruiter-service-to-sales-recruiting/"
-webUrl: "https://venturebeat.com/2021/06/30/celential-ai-appoints-vice-presidents-of-ai-and-sales-expands-its-ai-powered-virtual-recruiter-service-to-sales-recruiting/"
-ampWebUrl: "https://venturebeat.com/2021/06/30/celential-ai-appoints-vice-presidents-of-ai-and-sales-expands-its-ai-powered-virtual-recruiter-service-to-sales-recruiting/amp/"
-cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/30/celential-ai-appoints-vice-presidents-of-ai-and-sales-expands-its-ai-powered-virtual-recruiter-service-to-sales-recruiting/amp/"
+excerpt: "Celential.ai names Xu Miao VP of AI and Brian Hollinger VP of Sales. It also expands its AI-powered Virtual Recruiter service to sales recruiting."
+publishedDateTime: 2021-06-30T13:15:00Z
+originalUrl: "https://www.businesswire.com/news/home/20210630005482/en/Celential.ai-Appoints-Vice-Presidents-of-AI-And-Sales-Expands-Its-AI-Powered-Virtual-Recruiter-Service-To-Sales-Recruiting"
+webUrl: "https://www.businesswire.com/news/home/20210630005482/en/Celential.ai-Appoints-Vice-Presidents-of-AI-And-Sales-Expands-Its-AI-Powered-Virtual-Recruiter-Service-To-Sales-Recruiting"
 type: article
-quality: 78
+quality: 8
 heat: -1
 published: false
 
 provider:
-  name: VentureBeat
-  domain: venturebeat.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
   - AI
   - AI in Sales
-
-images:
-  - url: "https://i0.wp.com/mms.businesswire.com/media/20210630005482/en/888842/4/PR_-_New_Hires_-_final_image.jpg?strip=all&ssl=1"
-    width: 480
-    height: 251
-    isCached: true
 
 related:
   - title: "Nice publishes ethical framework for applying AI to customer service"
@@ -75,16 +63,7 @@ related:
         width: 1920
         height: 1024
         isCached: true
-  - title: "AISERA Transforms Customer Experience & Customer Service with AI & Automation"
-    excerpt: "Aisera, the world's first AI Customer service that automates tasks, actions, and workflows for all organizations, announced today that it has significantly enhanced its Customer Service & Customer Experience (CX) solutions."
-    publishedDateTime: 2021-06-29T14:20:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2021/06/29/9400029.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 16
 
-secured: "qD93DBypWTQE8VN0/o2omuPA1rCPb5UHB/GJj/iAiboxHROHViL0FQVtEJBto7elOwSG+NaI/Nqe4Z1jP7eMCzwqqkvMML0gAt1Rw7RRp7ZvXX/zTH/cMSceNpZYR4lY+5uIKSM8eRuxpOp8JDeidwqiyRy4DQNsxtFR4KP/aoJaPI3MBobODCnomvKzPuBk4wA8BbfLF1baSIaX+0QVQNf2cBxZMFaWkPJ0N8wW0Ut39sBhcQHDbbTjwLn+RiAxFZqAE+9PsaHahVENobBCP/EhyGQwHdyMxNUIGGXVzjBFzfR3L2aH2NcDT3qnYihTtBrl+j3VHroVWrEAFkmJjsRggxBnYifzO6XK3z5f/uNlywrwEv23IFPA+znq8WYvzUUp8akRnVssxLjKUD/LToJ7rHM8BH5VY5YcxllVQvX4cRJ+IWvIAaevW0mPCnQ3YF6ldxuNqIcd15JvpjSJN56X1P8lnQtTRYXUgQJ+4+i7r5mSXN3ZwWtjXUlV1KrAA+G1qMFJfpFIiwrXtoDz/g==;gaEdOTE2QsRCjRIpWdTcLQ=="
+secured: "igbxZ/4eAYsWnjAuXnY+AFqy0QupfsTCZjgbK+WVzLm/Fi3fBAWSobFtUpGwfLWEy29CMTKGc3Padt9DBya8SLRoXmazQ5SvfBiJEFEonZUJFHkkJ6exB2mBFC47iYW/AswGjPD0Jx2KzTcAF1wBHVMcy3Jgjc2g/hakZ0MYMqD9ktZHdG6ICNmMPATQQKzLdy7CpXP7AoOmpt/oUKKOxM5fxDAQy0H4bU8BIVHvCz+t66E0Ydi57zJWklXGXT5GR40lTOI3v4opTp8XYroQYLdw3pfzw/P9G/GVU2GlKzAGdq4xypW1wtZ4LEaGOH41y6CuaNCh5t0lqlWSD0YXDxkeUQbAMrMOkhtrp5V7+wIfYOHPri1nqx3EpfmuDQ6VWZub/S4x3gulvnvKx0GaXD8biX9FFnFx4IJGqPpKNObgQrA9wBlRqUjNIq/ODAU2RxA3hhT0L57krwd4vC4zktjDAavGb5BZxyNQlttC8Wx0Jgx2ngwWw8ZyNufqU17HVrvRi8e9JJb08bk6h3Rm7A==;rxBx8N/QWhmgoGF49nsFFg=="
 ---
 

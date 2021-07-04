@@ -29,17 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Facial Recognition Market - Top Key Players are deploying both organic and inorganic growth strategies"
-    excerpt: "The global facial recognition market is displaying a fierce competition in its competitive landscape Prominent players in the market are focusing to strengthen their distribution network states a newly launched market report by This is mainly to"
-    publishedDateTime: 2021-06-29T14:48:00Z
-    webUrl: "https://www.openpr.com/news/2316739/facial-recognition-market-top-key-players-are-deploying-both"
-    ampWebUrl: "https://www.openpr.com/amp/2316739/facial-recognition-market-top-key-players-are-deploying-both"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2316739/facial-recognition-market-top-key-players-are-deploying-both"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 23
   - title: "Big Data and Machine Learning in Telecom Market 2020 | Latest Trends, Demand, Growth, Opportunities and Outlook Till 2027"
     excerpt: "A new research report from RMoz aims at presenting 360-degree view of the global Big Data & Machine Learning in Telecom market for the forecast period of 2020 to 2026. Thus, the report highlights various important factors shaping the market growth."
     publishedDateTime: 2021-06-29T15:36:00Z

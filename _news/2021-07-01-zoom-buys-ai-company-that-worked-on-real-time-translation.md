@@ -1,29 +1,27 @@
 ---
 category: news
 title: "Zoom buys AI company that worked on real-time translation"
-excerpt: "According to Mashable, Zoom said that the acquisition is a move to help it make communicating with people who speak different languages easier and tha.."
-publishedDateTime: 2021-07-01T07:25:00Z
-originalUrl: "https://telecom.economictimes.indiatimes.com/news/zoom-buys-ai-company-that-worked-on-real-time-translation/84013146"
-webUrl: "https://telecom.economictimes.indiatimes.com/news/zoom-buys-ai-company-that-worked-on-real-time-translation/84013146"
-ampWebUrl: "https://telecom.economictimes.indiatimes.com/amp/news/zoom-buys-ai-company-that-worked-on-real-time-translation/84013146"
-cdnAmpWebUrl: "https://telecom-economictimes-indiatimes-com.cdn.ampproject.org/c/s/telecom.economictimes.indiatimes.com/amp/news/zoom-buys-ai-company-that-worked-on-real-time-translation/84013146"
+excerpt: "Proprietary video teleconferencing platform recently announced that it acquiring a company known as Kites short for Karlsruhe Information Technology Solution"
+publishedDateTime: 2021-06-30T19:13:00Z
+originalUrl: "https://www.bignewsnetwork.com/news/270118590/zoom-buys-ai-company-that-worked-on-real-time-translation"
+webUrl: "https://www.bignewsnetwork.com/news/270118590/zoom-buys-ai-company-that-worked-on-real-time-translation"
 type: article
-quality: 59
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: India Times
-  domain: indiatimes.com
+  name: Big News Network.com
+  domain: bignewsnetwork.com
 
 topics:
   - Natural Language Processing
   - AI
 
 images:
-  - url: "https://etimg.etb2bimg.com/thumb/msid-84013146,imgsize-23430,width-800,height-434,overlay-ettelecom/zoom-buys-ai-company-that-worked-on-real-time-translation.jpg"
-    width: 800
-    height: 434
+  - url: "https://cdn.bignewsnetwork.com/ani1625077312.jpg"
+    width: 630
+    height: 420
     isCached: true
 
 related:
@@ -269,6 +267,6 @@ related:
         height: 493
         isCached: true
 
-secured: "ywU+l38lpOqo7ndZC+KerXNSogM7JXWuYZz1LrHiv40agH+0IBi77aMFR8O9D0f3+uPc+wnMrNBCMY0drIDaCkTPGsa7NzDSkF5ehRxKhr8UuEnY9KrsSdSs+dk3mQUFdwbAqbnfoUP2J3D5scdIjgcbilLHjUTywF9xUyzF2rTngDO5RXK8Y4IMISrcaA0TECefBpKvjD/gbQ83d20SciY2VH7Yo3h3/e8gcjV7x7neW1KSC9HcnmbQoEKkR+K7QwEbSlcdf5HFvdr1/E3CV3PQlYspb/Jv8GodBiqnhRL+lVsByL+JW8LJzphEjd2Hwf0KW9qAm2XhztaN2RcvVKrY0IQB44iKorA4Kcab3V13XF5JdFgys8Jm9L9SW772OsXJEnyoBz0zMgE6UrmP3bde/jY+QYp3UXS5jtNy6dUZwaXk2VZqZKuWnBnuSpnAfj0VenQrunqlwDHFZofdG8iQ0fiBcf8RmYrHpfbTucJ6TjZ8OhEf+HsLR5ULyz1VOp2BdRQWteCIvvdQkfprGg==;uQTqlxzuGvOBylNRfsrKQg=="
+secured: "zx1cPNdabXObkMRgPO6Ac613qUKld/cbQuhlXxJDXV0Kc3ivwd6/NLUicWYhzWQ37qqCeKF+09sooxrQDsgJcs6kS3szZuGnqaRZc+RLVcGbrfyozvnIkbNUeziR5xi58KmAjxtRrF7jJ00M8m2cxY2fD7fD7MKBBjJ9JDljYPHDM2hxczosekVD3UO7fwhTulJGbN937gqob/rBIcjVkBQXb0d07y0Ke9VrO4ZeZF7g5PJmzmRiCOWNiUWdfKpX8xTOfWvSvUiSAIYeBltgmgpT2TdMTTC7agUP8HEQjYlUEGMiEk/asv3AyTBh2s4XlBuRd1O1wmHd7vz3IZP0DhRlYCumKisdLjPqVKsZOmk=;i2hsHq0/3R5Zm2xs6P8LNA=="
 ---
 

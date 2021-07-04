@@ -3,10 +3,10 @@ category: news
 title: "How do we get to a possible future with AI? Meet the AI Adoption Maturity Curve"
 excerpt: "PROS Chief AI Strategist Dr. Michael Wu outlines a valuable maturity model for AI - something sorely needed as AI increasingly becomes a necessity and a commodity."
 publishedDateTime: 2021-06-30T06:42:00Z
-originalUrl: "https://www.zdnet.com/article/how-do-we-get-to-a-possible-future-with-ai-the-ai-adoption-maturity-curve/"
-webUrl: "https://www.zdnet.com/article/how-do-we-get-to-a-possible-future-with-ai-the-ai-adoption-maturity-curve/"
-ampWebUrl: "https://www.zdnet.com/google-amp/article/how-do-we-get-to-a-possible-future-with-ai-the-ai-adoption-maturity-curve/"
-cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/how-do-we-get-to-a-possible-future-with-ai-the-ai-adoption-maturity-curve/"
+originalUrl: "https://www.zdnet.com/index.php/article/how-do-we-get-to-a-possible-future-with-ai-the-ai-adoption-maturity-curve/"
+webUrl: "https://www.zdnet.com/index.php/article/how-do-we-get-to-a-possible-future-with-ai-the-ai-adoption-maturity-curve/"
+ampWebUrl: "https://www.zdnet.com/index.php/google-amp/article/how-do-we-get-to-a-possible-future-with-ai-the-ai-adoption-maturity-curve/"
+cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/google-amp/article/how-do-we-get-to-a-possible-future-with-ai-the-ai-adoption-maturity-curve/"
 type: article
 quality: 83
 heat: -1
@@ -61,6 +61,6 @@ related:
         height: 540
         isCached: true
 
-secured: "BBBF0m3QX3gxsFrEv3jrxT1UqtK8tsX5w1DCYFrT0kWJWPow5dn4qHFlZDSnk9pr3HuncFpp97gpy0tWLtLX6zRfUcBmT7rpT8PqNYdv98MnvTHX/UouZHcWiHv7kdsTXBK/PNcbImhs5BSbE3URwzPaKjaqAHcJOGlL6eZ32duKB2cVjS1WKSTTG0/eSNpy6gm377dl6/FzCbl0bJgT/f+kGbUA7ldoNwCsOTZdPTBQjIobKSFUwr7BWwjvJL5ug3mzzHjKE6N6ItGHwV3Vz4291OuxuNn4qG5BPS+IJ9SyW6zKTy8TtM8mx71eSHV7Yucr0QIvU39dKQvpPQxK5ymVx2Y3ipHHzjQi2pzLoO+ncyjSIdYphf5BoTySwWNrFxaazfHH5/aTsyZjKvL2LlQzgTgZTlmX5UkvOBYen0bb7AN+/4P/eNV7ke8odC+ndzqEhV+mN7w7HYdRtRnE7QbJHh8aTObbtWMsCiz93PiD2N7T6hhWrHBlnNeexBlfb1k/XYPjKgRWph9Tbg6P1g==;WiHF+6FSYf4wrLj5fcrdDQ=="
+secured: "o0XEWImYBLMrrc49BJIxGv3yLWMalS9hYWclC1qYK7R+iZWRn4J3b4uPc36AhvdNBAxxSg2Lrt68kg7lF8qWZg58mUqfeBmHBLdPl9OZShXyWbB0gX6wrkggjjTafKOqN4Ty9pz29fWdjlMcOArK79QD7m0aXFb3WJ70yAaYS1k44oek0qYtXCzn5F7WyM1NOYCe3zw6ywqQVmLoIAnP+yAh1mPF3nXbcecZFWGWpjQJ0ooSg34DxQWd4D/2zfxpUnblDboqxVngyl8MTsxffBJ6oTHDCyDL8my7P8hpokooUfatpV1sMQeryhNBw4yx6kt7SWYSqE+Uu0v9FwEIyXFqvD93+1zQWdpB+FTNNCs=;IKsI8eJs01uv/yViRnq45g=="
 ---
 

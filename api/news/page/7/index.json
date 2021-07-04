@@ -2,6 +2,82 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2021-06-28-iit-madras-offers-free-online-course-on-introduction-to-machine-learning-for-students.md",
+      "title": "IIT Madras Offers Free Online Course on Introduction to Machine Learning for Students",
+      "excerpt": "IIT Madras is offering a free online course on Introduction to Machine Learning for students pursuing their under graduation and post graduation",
+      "sourceUrl": null,
+      "webUrl": "https://www.dqindia.com/iit-madras-offers-free-online-course-introduction-machine-learning-students/",
+      "originalUrl": "https://www.dqindia.com/iit-madras-offers-free-online-course-introduction-machine-learning-students/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.dqindia.com/wp-content/uploads/2021/02/Books-on-machine-learning.jpg",
+          "width": 850,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.dqindia.com/iit-madras-offers-free-online-course-introduction-machine-learning-students/amp/",
+      "cdnAmpWebUrl": "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/iit-madras-offers-free-online-course-introduction-machine-learning-students/amp/",
+      "publishedDateTime": "2021-06-28T01:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Dataquest",
+        "domain": "dqindia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-28-who-issues-first-global-report-on-ai-in-health-and-six-guiding-principles-for-its-design-and-use.md",
+      "title": "WHO issues first global report on AI in health and six guiding principles for its design and use",
+      "excerpt": "Artificial Intelligence (AI) holds great promise for improving the delivery of healthcare and medicine worldwide, but only if ethics and human rights",
+      "sourceUrl": null,
+      "webUrl": "https://www.who.int/news/item/28-06-2021-who-issues-first-global-report-on-ai-in-health-and-six-guiding-principles-for-its-design-and-use",
+      "originalUrl": "https://www.miragenews.com/who-issues-first-global-report-on-ai-in-health-586075/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 274,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-28T00:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Armed robbery in Revesby",
+        "domain": "miragenews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-28-ibm-brings-ai-powered-automation-software-to-networking-to-help-simplify-broad-adoption-of-5g.md",
       "title": "IBM Brings AI-Powered Automation Software to Networking to Help Simplify Broad Adoption of 5G",
       "excerpt": "At Mobile World Congress 2021, IBM (NYSE: IBM) announced new hybrid cloud AI-powered automation software for communications service providers (CSPs) to help deliver on the promise of 5G, including zero-touch operations,",
@@ -1082,92 +1158,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-26-i-learnt-how-cool-it-is-to-train-a-robot-with-ai.md",
-      "title": "I learnt how cool it is to train a robot with AI",
-      "excerpt": "It’s one thing to hear about the advances in AI on the news, such as China’s creation of an artificial intelligence (AI) news anchor, robots making food deliveries, and serving you coffee. It’s another matter however,",
-      "sourceUrl": null,
-      "webUrl": "https://mothership.sg/2021/06/dsta-brainhack-robot/",
-      "originalUrl": "https://mothership.sg/2021/06/dsta-brainhack-robot/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.mothership.sg/1/2021/06/dog.jpeg",
-          "width": 478,
-          "height": 250,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mothership.sg/2021/06/dsta-brainhack-robot//amp",
-      "cdnAmpWebUrl": "https://mothership-sg.cdn.ampproject.org/c/s/mothership.sg/2021/06/dsta-brainhack-robot//amp",
-      "publishedDateTime": "2021-06-25T20:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mothership.sg",
-        "domain": "mothership.sg",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-26-apples-car-obsession-is-all-about-taking-eyes-off-the-road.md",
-      "title": "Apple’s car obsession is all about taking eyes off the road",
-      "excerpt": "Giants such as Huawei Technologies Co. and Baidu Inc. have pledged to plow almost $19 billion into electric and self-driving vehicle ventures this year alone. Smartphone giant Xiaomi Corp. and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.latimes.com/business/technology/story/2021-06-25/apples-car-obsession-is-all-about-taking-eyes-off-the-road",
-      "originalUrl": "https://www.latimes.com/business/technology/story/2021-06-25/apples-car-obsession-is-all-about-taking-eyes-off-the-road",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ca-times.brightspotcdn.com/dims4/default/c678a02/2147483647/strip/true/crop/1839x1201+105+0/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fd7%2F0f%2Fa0dd117502ce6dc1270687a5f039%2Fla-fi-self-driving-car-accidents-20150511-001",
-          "width": 320,
-          "height": 209,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.latimes.com/business/technology/story/2021-06-25/apples-car-obsession-is-all-about-taking-eyes-off-the-road?_amp=true",
-      "cdnAmpWebUrl": "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/business/technology/story/2021-06-25/apples-car-obsession-is-all-about-taking-eyes-off-the-road?_amp=true",
-      "publishedDateTime": "2021-06-25T16:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Los Angeles Times",
-        "domain": "latimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

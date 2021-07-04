@@ -7,7 +7,7 @@ originalUrl: "https://www.stamfordadvocate.com/news/ctpost/article/Connecticut-c
 webUrl: "https://www.stamfordadvocate.com/news/ctpost/article/Connecticut-couple-wedding-Alzheimer-s-diagnosis-16279146.php"
 type: article
 quality: 29
-heat: -1
+heat: 29
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 1600
     height: 1034
     isCached: true
-
-related:
-  - title: "Connecticut couple gets national recognition for wedding again after Alzheimer's diagnosis"
-    excerpt: "Lisa and Peter Marshall on their wedding day on April 26, 2021. After watching TV one night, 56-year-old Peter Marshall had an idea. “He pointed at the TV and said ‘let’s do it.’ I said ‘do what, what are you talking about?"
-    publishedDateTime: 2021-06-29T14:00:00Z
-    webUrl: "https://www.stamfordadvocate.com/news/ctpost/article/It-s-going-to-be-a-lot-of-work-Connecticut-16279146.php?src=sthpdesecp"
-    type: article
-    provider:
-      name: StamfordAdvocate
-      domain: stamfordadvocate.com
-    quality: 29
-    images:
-      - url: "https://s.hdnux.com/photos/01/20/61/64/21175584/3/rawImage.jpg"
-        width: 1600
-        height: 1034
-        isCached: true
 
 secured: "nJGktv9t5DgbGgPxPoDDjtiC8Yx4uMBNDqNGy4Ir3aqEXz9fctaarNIVX1yvqiR0r/swrf5ijG/CZg26Yun444qvQGV+Da4p/kXLmaGJOxJ5tjPR2sdhpOipE2NcyhlBrXvI++ouKvJyU8ToIAyzU6KY1yTTbeoydHaJCxu1TbK5yB3zwZUMWcnNuNvUSL+4yz/4+e5nlNx/FD7f9ShS+99lcuDPo/AYljQlkDKUfxhQU+9D98vR79iqrUKUiPpFVVEyeEGuavlflsrFxQ0iWbv9ypg67dU/1jeCEemjkV6XXWC3WNa+3L5nyt6lNlBVP1kN+rYMg5U1tUZ/9NMJFz/K+CMUQxLsLISYR1nMPk8=;e9lFO0dtFqcI6zZhEO3ORw=="
 ---

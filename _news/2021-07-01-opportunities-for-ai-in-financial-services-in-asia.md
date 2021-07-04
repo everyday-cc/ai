@@ -39,20 +39,6 @@ related:
         width: 400
         height: 257
         isCached: true
-  - title: "SEA Taiwan AI College to Share Iconic Manufacturers’ Upgrade Experiences and Cultivate Southeast Asian AI Talent"
-    excerpt: "To tackle the challenges brought by the COVID-19 pandemic, including a shrinking labor force and much greater changes in market demand, the manufacturing industry really has to step up and transform by adopting more standardized,"
-    publishedDateTime: 2021-06-29T13:31:00Z
-    webUrl: "https://www.pr.com/press-release/839298"
-    type: article
-    provider:
-      name: PR
-      domain: pr.com
-    quality: 18
-    images:
-      - url: "https://img.pr.com/release/2106/490551/pressrelease_original_490551_1624601200.jpg"
-        width: 850
-        height: 546
-        isCached: true
 
 secured: "tPBzZsKN7BorWK3vNFS/HwIdVYq2sxj+PeQMnsSrGgQEP+5NZklV+E94bH//C5ZtTiXXc9UyEHlPJSr82L2vkzBky6anjdhNQP6GfhV8iljzH5zjy56RYrcFDQWZYACEExwopKKUV3jdErKWbRoiMPiF8czeZopCIe1HOhs9T8jxHk5ZlwaqcfFHbjE1CQSc02JHNHWyv9e0kwombOv52uPVzHF0NnPMyOMx5bk2+RP0mSo0vRr/N9JLAZUwjXw8BpDGZ7BrDa+uWeq8gHKH2nCJfFbphR9csFXFhteWM5JRamEyGvB3yBgMlWgOmtxmxoaqv4pBRB9bTrOpoBwBSSoJu/ZMyJsTGEGM8z1sp1qU5wWBqqgsIK44dvdXMqnO2f0DX89yOV5Z7XjxMopcP9/xkO0w2dc+WAUgWT9bsZvTOpsqJaABx4wby5tFz7PJRLCIYFGNgrBbw6f1Y53HdQoeKpExyWatRQMyf9/8wJW4ROspUDnT1iAH3VUgo/Ma79+8U7Qy3b/dA6ZrwM6aEQ==;/8vBF14S0hg9gqvM22eHmA=="
 ---

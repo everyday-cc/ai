@@ -2,6 +2,93 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2021-06-23-deepmind-wants-to-use-its-ai-to-cure-neglected-diseases.md",
+      "title": "DeepMind wants to use its AI to cure neglected diseases",
+      "excerpt": "In November 2020, Alphabet-owned AI firm DeepMind announced that it had cracked one of biology’s trickiest problems. For years the company had been working on an AI called AlphaFold that could ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.co.uk/article/deepmind-alphafold-protein-diseases",
+      "originalUrl": "https://www.wired.co.uk/article/deepmind-alphafold-protein-diseases",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.co.uk/photos/60d22392cbf316665cadeb09/master/pass/GettyImages-1199508481.jpg",
+          "width": 5335,
+          "height": 3557,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.co.uk/article/deepmind-alphafold-protein-diseases/amp",
+      "cdnAmpWebUrl": "https://www-wired-co-uk.cdn.ampproject.org/c/s/www.wired.co.uk/article/deepmind-alphafold-protein-diseases/amp",
+      "publishedDateTime": "2021-06-23T00:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired UK",
+        "domain": "wired.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-23-ai-in-healthcare-market-2021-may-see-potentially-high-growth-factors-deepmind-technologies-limited-ibm-corporation-intel-corporation.md",
+      "title": "AI in Healthcare Market 2021 May See Potentially High Growth Factors | DeepMind Technologies Limited, IBM Corporation, Intel Corporation",
+      "excerpt": "The AI in Healthcare Market report provides a detailed analysis of the major factors influencing the market growth, including the drivers, restraints, lucrative opportunities, technology advancements,",
+      "sourceUrl": null,
+      "webUrl": "https://ksusentinel.com/2021/06/23/ai-in-healthcare-market-2021-may-see-potentially-high-growth-factors-deepmind-technologies-limited-ibm-corporation-intel-corporation/",
+      "originalUrl": "https://ksusentinel.com/2021/06/23/ai-in-healthcare-market-2021-may-see-potentially-high-growth-factors-deepmind-technologies-limited-ibm-corporation-intel-corporation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://heraldkeeper.com/wp-content/uploads/2021/06/oie_APm0lt2Fko4P.jpg",
+          "width": 838,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-23T00:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Sentinel",
+        "domain": "ksusentinel.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2021-06-23-yotta-launches-virtual-pro-workstations-for-3d-architectural-designs-ai-ml.md",
       "title": "Yotta Launches Virtual Pro Workstations for 3D architectural designs, AI, ML",
       "excerpt": "Path-breaking combination of virtual GPU and advanced VDI technology, to deliver extreme performance for video editing, graphics design, 3D architectural designs, AI, ML and more.",
@@ -1094,93 +1181,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-22-why-passengers-might-actually-feel-safe-in-zoox-self-driving-cars.md",
-      "title": "Why passengers might actually feel safe in Zoox self-driving cars",
-      "excerpt": "Instead of turning a traditional car into an autonomous one, the Amazon-owned self-driving car service Zoox has created its own type of autonomous vehicle without a steering wheel or front seat. Redesigning a car from the ground up also means redesigning car safety features.",
-      "sourceUrl": null,
-      "webUrl": "https://mashable.com/article/zoox-autonomous-vehicle-safety-features/",
-      "originalUrl": "https://mashable.com/article/zoox-autonomous-vehicle-safety-features/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mondrian.mashable.com/2021%252F06%252F22%252Fb6%252F97f23c8d2b0b494ca93c0fba0bfdd904.d0444.png%252F1200x630.png?signature=M8Ny3AboNS1Jj-wHe25Nffvr8E8=",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mashable.com/article/zoox-autonomous-vehicle-safety-features.amp",
-      "cdnAmpWebUrl": "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/zoox-autonomous-vehicle-safety-features.amp",
-      "publishedDateTime": "2021-06-22T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mashable",
-        "domain": "mashable.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-22-hpe-acquires-determined-ai-to-ramp-up-machine-learning-development.md",
-      "title": "HPE acquires Determined AI to ramp up machine learning development",
-      "excerpt": "The deal will see HPE merge Determined AI’s machine learning platform with its high-performance computing services.",
-      "sourceUrl": null,
-      "webUrl": "https://www.siliconrepublic.com/machines/hpe-determined-ai-machine-learning",
-      "originalUrl": "https://www.siliconrepublic.com/machines/hpe-determined-ai-machine-learning",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.siliconrepublic.com/wp-content/uploads/2020/07/HPE-Interxion.jpeg",
-          "width": 800,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-22T06:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SiliconRepublic",
-        "domain": "siliconrepublic.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

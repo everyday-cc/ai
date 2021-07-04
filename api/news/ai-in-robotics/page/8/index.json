@@ -2,40 +2,6 @@
   "page": 8,
   "value": [
     {
-      "path": "_news/2021-05-04-path-robotics-raises-56m-for-aggressive-expansion-of-ai-powered-welding.md",
-      "title": "Path Robotics raises $56M for 'aggressive' expansion of AI-powered welding",
-      "excerpt": "Path Robotics Inc. has raised $56 million to perfect the engineering of its AI-driven autonomous welding robot and aggressively expand sales to manufacturers across the country. New York City VC firm Addition led the Series B round,",
-      "sourceUrl": null,
-      "webUrl": "https://www.bizjournals.com/cleveland/news/2021/05/03/path-robotics-raises-56m-to-add-65-jobs.html",
-      "originalUrl": "https://www.bizjournals.com/cleveland/news/2021/05/03/path-robotics-raises-56m-to-add-65-jobs.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-03T10:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Business Journals",
-        "domain": "bizjournals.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-05-03-start-and-scale-your-intelligent-automation-journey-with-ai-powered-e-workers.md",
       "title": "Start and Scale your Intelligent Automation Journey with AI Powered E-Workers",
       "excerpt": "Organizations have realized the need for augmenting their human employees with AI to manage manual tasks, given the complexities of a post-Covid world.",

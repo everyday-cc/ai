@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/speech-recognition-softw
 webUrl: "https://www.marketwatch.com/press-release/speech-recognition-software-market-next-big-thing-major-giants-google-microsoft-baidu-2021-07-03"
 type: article
 quality: 92
-heat: 182
+heat: 222
 published: true
 
 provider:
@@ -46,21 +46,47 @@ related:
         width: 600
         height: 338
         isCached: true
-  - title: "Natural Language Processing Market May Set a New Epic Growth Story | Microsoft, IBM, Google"
-    excerpt: "Advance Market Analytics published a new research publication on Natural Language Processing Market Insights to 2026 with 232 pages and enriched with self explained Tables and charts in presentable format In the Study you will find new evolving Trends Drivers"
-    publishedDateTime: 2021-06-29T14:53:00Z
-    webUrl: "https://www.openpr.com/news/2316846/natural-language-processing-market-may-set-a-new-epic-growth"
-    ampWebUrl: "https://www.openpr.com/amp/2316846/natural-language-processing-market-may-set-a-new-epic-growth"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2316846/natural-language-processing-market-may-set-a-new-epic-growth"
+  - title: "AT&T hands 5G core to Microsoft Azure"
+    excerpt: "Microsoft is acquiring AT&T’s Network Cloud business as part of a new deal that will see Azure handle all of AT&T’s 5G traffic"
+    publishedDateTime: 2021-07-01T12:38:00Z
+    webUrl: "https://www.totaltele.com/510166/ATT-hands-5G-core-to-Microsoft-Azure"
     type: article
     provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 66
+      name: Total Telecom
+      domain: totaltele.com
+    quality: 54
     images:
-      - url: "https://cdn.openpr.com/U/6/U629676321_g.jpg"
-        width: 450
-        height: 300
+      - url: "https://www.totaltele.com/res/image/tech%20stuff/at&t.jpg"
+        width: 467
+        height: 467
+        isCached: true
+  - title: "AT&T to Run Mobility Network on Microsoft’s Azure for Operators"
+    excerpt: "AT&T will move its 5G mobile network to the Microsoft cloud. The strategic alliance provides a path for all of AT&T’s mobile network traffic to be managed using Microsoft Azure technologies. The companies will start with AT&T’s 5G core,"
+    publishedDateTime: 2021-06-30T17:03:00Z
+    webUrl: "https://channelvisionmag.com/att-to-run-mobility-network-on-microsofts-azure-for-operators/"
+    type: article
+    provider:
+      name: ChannelVision Magazine
+      domain: channelvisionmag.com
+    quality: 54
+    images:
+      - url: "https://channelvisionmag.com/wp-content/uploads/2021/06/ATT.jpg"
+        width: 624
+        height: 416
+        isCached: true
+  - title: "Microsoft makes big 5G play as AT&T moves core to Azure cloud"
+    excerpt: "Microsoft VP of 5G Strategy Shawn Hakl told Fierce that the combination of gaining a Tier one anchor tenant, along with IP and expertise to incorporate directly into Azure for Operators, is key and unique to the deal."
+    publishedDateTime: 2021-06-30T17:11:00Z
+    webUrl: "https://www.fiercewireless.com/5g/microsoft-makes-bigger-5g-play-as-at-t-moves-core-to-azure-cloud"
+    type: article
+    provider:
+      name: Fierce Wireless
+      domain: fiercewireless.com
+    quality: 54
+    images:
+      - url: "https://qtxasset.com/fiercewireless/1625073696/Screen%20Shot%202020-10-27%20at%209.33.32%20AM.png/Screen%20Shot%202020-10-27%20at%209.33.32%20AM.png?SX9t9ysna94JXCELLQtb2nBx_bdHushz"
+        width: 716
+        height: 439
         isCached: true
   - title: "Microsoft experiments with high-end machine learning on Xbox Series X"
     excerpt: "Microsoft is hiring new software engineers to help create new next-gen machine learning algorithms for Xbox Series X/S consoles."
@@ -71,6 +97,15 @@ related:
       name: TweakTown
       domain: tweaktown.com
     quality: 36
+  - title: "AT&T to move 5G network to Microsoft Azure cloud"
+    excerpt: "AT&T announced an agreement to move its 5G mobile network to the Microsoft cloud. The migration starts with the 5G core network and includes a path for all of AT&T's mobile network traffic to be managed using Microsoft Azure."
+    publishedDateTime: 2021-07-01T06:50:00Z
+    webUrl: "https://www.telecompaper.com/news/atandt-to-move-5g-network-to-microsoft-azure-cloud--1388724"
+    type: article
+    provider:
+      name: Telecompaper
+      domain: telecompaper.com
+    quality: 34
   - title: "Artificial Intelligence (AI) in Real Estate Market Next Big Thing : Major Giants IBM, Cape Analytics, Baidu"
     excerpt: "The latest research on “Global Artificial Intelligence (AI) in Real Estate Report 2021” offered by HTF MI provides a comprehensive investigation into the geographical landscape, industry size along with the revenue estimation of the business."
     publishedDateTime: 2021-07-03T00:36:00Z
@@ -117,6 +152,15 @@ related:
       name: The Sentinel
       domain: ksusentinel.com
     quality: 16
+  - title: "Artificial Intelligence In Genomics Market Continues To Impress | IBM, Microsoft, Deep Genomics, Fabric Genomics"
+    excerpt: "Latest released the research study on Global Artificial Intelligence In Genomics Market, offers a detailed overview of the factors influencing the global business scope. Artificial Intelligence In Genomics Market research report shows the latest market insights,"
+    publishedDateTime: 2021-06-30T10:25:00Z
+    webUrl: "https://ksusentinel.com/2021/06/30/artificial-intelligence-in-genomics-market-continues-to-impress-ibm-microsoft-deep-genomics-fabric-genomics/"
+    type: article
+    provider:
+      name: The Sentinel
+      domain: ksusentinel.com
+    quality: 13
   - title: "Mobile Speech Recognition Software Market To Demonstrate Spectacular Growth By 2026 | Alphabet, VoiceVault, VoiceBox Technologies"
     excerpt: "The latest independent research document on Global Mobile Speech Recognition Software examine investment in Market. It describes how companies deploying these technologies across various industry verticals aim to explore its potential to become a major ..."
     publishedDateTime: 2021-07-01T19:31:00Z

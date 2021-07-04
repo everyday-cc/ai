@@ -39,17 +39,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Facial Recognition Market - Top Key Players are deploying both organic and inorganic growth strategies"
-    excerpt: "The global facial recognition market is displaying a fierce competition in its competitive landscape Prominent players in the market are focusing to strengthen their distribution network states a newly launched market report by This is mainly to"
-    publishedDateTime: 2021-06-29T14:48:00Z
-    webUrl: "https://www.openpr.com/news/2316739/facial-recognition-market-top-key-players-are-deploying-both"
-    ampWebUrl: "https://www.openpr.com/amp/2316739/facial-recognition-market-top-key-players-are-deploying-both"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2316739/facial-recognition-market-top-key-players-are-deploying-both"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 23
 
 secured: "CtKxrZWC+qqq0cIFov5iVnT39fosd1qPmqNE7jXlKTeiNaGxuHIsVMPV9xuqqvYoFpYzzNteq8lmmNtOaFvM2WkaABFxek8MeMxzj+Zr0RfSXO6uYYzV4o+dSMqNE3rmNB74M7GuKXUtU66L3YFe4d80Lg3PUo0KcIG6vYzYSTzHaaitoDnSL4Ki+3zrgBWoHJcwyYhw/LLwVdyCB/Qr2WwlH2PH9d7L0TZtJWszNq8/hcdEXDY6le/GiekKwnMET5vv7Vgb9xHGtEHhXrv4/2gUOH1E0WSN4YdgPg79mg+wz+XvOd9nTt9Vfi3cYAeZzOwZmmBQy6mIeuBQLucDx48EK8Wu/Ms69m+7QU78CCkSdKL7c+fnpkerXlxR6npDhVyP/fUl00XcNSYO9NDQ2KNLdYlxu4VpqnXT6AcDT/tejp8B7YQQg2tb1JAMA8whXzqYUlRj3eSnKmP0ItNssCGpSlAKgFf9DL9G/+xa9JNNMhPaFUy+1ueO69OthFyPng76uOouxmiZrkwzRs06bQ==;otgx/wP43vzOBKx2UyFCkQ=="
 ---

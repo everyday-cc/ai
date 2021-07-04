@@ -10,7 +10,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/speech-recognition-software-market-next-big-thing-major-giants-google-microsoft-baidu-2021-07-03",
       "featuredContent": null,
       "highlight": null,
-      "heat": 182,
+      "heat": 222,
       "tags": null,
       "images": [
         {
@@ -50,6 +50,58 @@
       ],
       "topics": [
         "Natural Language Processing",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-03-artificial-intelligence-ai-in-construction-market-2021-global-insights-and-business-scenario-autodesk-ibm-microsoft-oracle-sap.md",
+      "title": "Artificial Intelligence (AI) in Construction Market 2021 Global Insights and Business Scenario - Autodesk, IBM, Microsoft, Oracle, SAP",
+      "excerpt": "Artificial Intelligence (AI) in Construction market size (most likely outcome) will be a year-over-year revenue growth rate of XX% in 2021, from US$ 760.3 million in 2020. Over the next five years the Artificial Intelligence (AI) in Construction market will register a 32.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-construction-market-2021-global-insights-and-business-scenario---autodesk-ibm-microsoft-oracle-sap-2021-07-03",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-construction-market-2021-global-insights-and-business-scenario---autodesk-ibm-microsoft-oracle-sap-2021-07-03",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-03T00:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
         "AI",
         "Microsoft AI"
       ]
@@ -100,50 +152,6 @@
       ]
     },
     {
-      "path": "_news/2021-07-02-ajnifm-and-microsoft-are-collaborating-to-build-an-ai-coe.md",
-      "title": "AJNIFM and Microsoft are collaborating to build an AI CoE",
-      "excerpt": "Partnership will focus on capacity building of government officials, skilling them in emerging technologies, like AI and machine learning",
-      "sourceUrl": null,
-      "webUrl": "https://www.dqindia.com/arun-jaitley-national-institute-financial-management-partners-microsoft-build-ai-emerging-tech-coe/",
-      "originalUrl": "https://www.dqindia.com/arun-jaitley-national-institute-financial-management-partners-microsoft-build-ai-emerging-tech-coe/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.dqindia.com/wp-content/uploads/2019/10/ai-monitoring-3262759_960_720.jpg",
-          "width": 736,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.dqindia.com/arun-jaitley-national-institute-financial-management-partners-microsoft-build-ai-emerging-tech-coe/amp/",
-      "cdnAmpWebUrl": "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/arun-jaitley-national-institute-financial-management-partners-microsoft-build-ai-emerging-tech-coe/amp/",
-      "publishedDateTime": "2021-07-02T00:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Dataquest",
-        "domain": "dqindia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
       "path": "_news/2021-07-02-aws-vs-azure-which-one-to-choose-for-banking-software-development.md",
       "title": "AWS vs Azure: Which One to Choose For Banking Software Development",
       "excerpt": "The financial service industry is among the most data-intensive and highly regulated sectors around the global market. With the",
@@ -188,35 +196,26 @@
       ]
     },
     {
-      "path": "_news/2021-07-01-att-takes-a-giant-5g-leap-to-the-public-cloud-with-azure.md",
-      "title": "AT&T takes a giant 5G leap to the public cloud with Azure",
-      "excerpt": "Giant US operator is handing its 5G core to Microsoft AzureThe public cloud player adopts AT&T’s Network Cloud and tech staffAzure will then further develop",
+      "path": "_news/2021-07-01-att-t-to-move-5g-mobile-network-to-microsoft-azure.md",
+      "title": "AT&T (T) to Move 5G Mobile Network to Microsoft Azure",
+      "excerpt": "AT&T Inc. T has announced collaboration with Microsoft MSFT under which the telecom giant will move its 5G mobile network to the latter’s cloud. This will allow AT&T’s mobile network traffic to be managed by Microsoft Azure technology.",
       "sourceUrl": null,
-      "webUrl": "https://www.telecomtv.com/content/cloud-native/at-t-takes-a-giant-5g-leap-to-the-public-cloud-with-azure-41867/",
-      "originalUrl": "https://www.telecomtv.com/content/cloud-native/at-t-takes-a-giant-5g-leap-to-the-public-cloud-with-azure-41867/",
+      "webUrl": "https://www.nasdaq.com/articles/att-t-to-move-5g-mobile-network-to-microsoft-azure-2021-07-01",
+      "originalUrl": "https://www.nasdaq.com/articles/att-t-to-move-5g-mobile-network-to-microsoft-azure-2021-07-01",
       "featuredContent": null,
       "highlight": null,
-      "heat": 79,
+      "heat": 154,
       "tags": null,
-      "images": [
-        {
-          "url": "https://assets.telecomtv.com/assets/telecomtv/at-t-microsoft-azure-12193.jpeg?w=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.telecomtv.com/content/cloud-native/at-t-takes-a-giant-5g-leap-to-the-public-cloud-with-azure-41867/amp/",
-      "cdnAmpWebUrl": "https://www-telecomtv-com.cdn.ampproject.org/c/s/www.telecomtv.com/content/cloud-native/at-t-takes-a-giant-5g-leap-to-the-public-cloud-with-azure-41867/amp/",
-      "publishedDateTime": "2021-07-01T07:06:00-07:00",
+      "ampWebUrl": "https://www.nasdaq.com/articles/att-t-to-move-5g-mobile-network-to-microsoft-azure-2021-07-01?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/att-t-to-move-5g-mobile-network-to-microsoft-azure-2021-07-01?amp",
+      "publishedDateTime": "2021-07-01T06:24:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "TelecomTV",
-        "domain": "telecomtv.com",
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
         "images": null,
         "publishers": null,
         "authors": null

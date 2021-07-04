@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/vecow-partners-wit
 webUrl: "https://markets.businessinsider.com/news/stocks/vecow-partners-with-ai-chipmaker-hailo-to-launch-next-generation-edge-ai-solution-1030564523"
 type: article
 quality: 62
-heat: -1
+heat: 62
 published: false
 
 provider:
@@ -26,38 +26,6 @@ images:
     width: 400
     height: 276
     isCached: true
-
-related:
-  - title: "Using Artificial Intelligence to Train Next Generation of Truckers"
-    excerpt: "Artificial intelligence employing a combination of intelligent monitoring, G-force sensors and dual-facing video can help train new truck drivers to avoid risky behaviors."
-    publishedDateTime: 2021-06-29T15:00:00Z
-    webUrl: "https://www.trucks.com/2021/06/29/artificial-intelligence-can-train-truckers/"
-    ampWebUrl: "https://www.trucks.com/2021/06/29/artificial-intelligence-can-train-truckers/amp/"
-    cdnAmpWebUrl: "https://www-trucks-com.cdn.ampproject.org/c/s/www.trucks.com/2021/06/29/artificial-intelligence-can-train-truckers/amp/"
-    type: article
-    provider:
-      name: trucks.com
-      domain: trucks.com
-    quality: 72
-    images:
-      - url: "https://www.trucks.com/wp-content/uploads/2019/06/VNR.jpg"
-        width: 800
-        height: 400
-        isCached: true
-  - title: "Commerce.AI Releases AI-Generated Market Reports"
-    excerpt: "Commerce.AI has released a new AI-generated market reports feature, which delivers market intelligence insights across thousands of market categories. Market reports are accessible to all and were previously only available to those with access to Commerce."
-    publishedDateTime: 2021-07-02T14:51:00Z
-    webUrl: "https://www.cioapplications.com/news/commerceai-releases-aigenerated-market-reports--nid-8047.html"
-    type: article
-    provider:
-      name: CIO Applications
-      domain: cioapplications.com
-    quality: 37
-    images:
-      - url: "https://www.cioapplications.com/newstransfer/upload/81fu445030-8.jpg"
-        width: 450
-        height: 308
-        isCached: true
 
 secured: "D5q7faiLdPPmNLSG/TrljoaNL3FwbfXY+K33OLk+8N48A2RQSMVZAfj6VClz3izc2IDsMjKe7v2dWQ352tlvhwIbVO6R/y/zLVwqyDDrOLozDQeEB98B4m5cMPDwIM8QJb77BCqgVsBbIkhFC5IR47o0Igo794s1YAUSCgIpz+UDaPg/17BJgf4pVLjwEZost6AFtoWWGYd7Mzuq5JNofnyVPsNum7maoAtOK99JFC5a4QbRfHAyUI8JsdmtUcByMGY1Z5udotoEPtDCinfCydJapoOxm/2xXc68SHFur5WRgKAQjK9mkZXQ8kw0uea93kdnVY3BO1XPJYPv2yy7On3Ib9oo0wflUs2/IbyRAfMVGlilVlPfKU+0k85bpsVnqMjBWDrN3qbdhCjjzFJWOif1NbOybp7ITGttwcQf/0tDm0TLMaDj56ezMpNBOX4txBzcqiybGs03CDje+ZzMs+bDVThS/sYrIt9HjyKHo2Wukkg76EPb+PbSJEaWOQUFL87ujEK5HiQhvTyiqrk3RQ==;r9KjB1GYmR5qZ9jGDadW3g=="
 ---

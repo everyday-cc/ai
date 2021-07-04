@@ -9,8 +9,8 @@ ampWebUrl: "https://www.dqindia.com/arun-jaitley-national-institute-financial-ma
 cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/arun-jaitley-national-institute-financial-management-partners-microsoft-build-ai-emerging-tech-coe/amp/"
 type: article
 quality: 76
-heat: 96
-published: true
+heat: -1
+published: false
 
 provider:
   name: Dataquest
@@ -28,31 +28,103 @@ images:
     isCached: true
 
 related:
-  - title: "Faridabad's AJNIFM and Microsoft Tie-up for An AI and Emerging Technologies Centre of Excellence"
-    excerpt: "Partnership will focus on capacity building of government officials, skilling them in emerging technologies, like AI and machine learning"
-    publishedDateTime: 2021-07-02T06:37:00Z
-    webUrl: "https://www.indianweb2.com/2021/07/faridabads-ajnifm-and-microsoft-tie-up.html"
+  - title: "AT&T (T) to Move 5G Mobile Network to Microsoft Azure"
+    excerpt: "AT&T Inc. T has announced collaboration with Microsoft MSFT under which the telecom giant will move its 5G mobile network to the latter’s cloud. This will allow AT&T’s mobile network traffic to be managed by Microsoft Azure technology."
+    publishedDateTime: 2021-07-01T13:24:00Z
+    webUrl: "https://www.nasdaq.com/articles/att-t-to-move-5g-mobile-network-to-microsoft-azure-2021-07-01"
+    ampWebUrl: "https://www.nasdaq.com/articles/att-t-to-move-5g-mobile-network-to-microsoft-azure-2021-07-01?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/att-t-to-move-5g-mobile-network-to-microsoft-azure-2021-07-01?amp"
     type: article
     provider:
-      name: indianweb2.com
-      domain: indianweb2.com
-    quality: 43
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 84
+  - title: "Microsoft bolsters Azure with AT&T 5G deal and security collaboration"
+    excerpt: "Microsoft has struck agreements with US networking giant AT&T and the cyber security organisation MITRE to bring additional 5G support as well as threat monitoring capabilities to Azure. As part of its deal with MITRE,"
+    publishedDateTime: 2021-07-01T15:35:00Z
+    webUrl: "https://www.cloudpro.co.uk/cloud-essentials/public-cloud/9148/microsoft-bolsters-azure-with-att-5g-deal-and-security"
+    type: article
+    provider:
+      name: Cloud Pro
+      domain: cloudpro.co.uk
+    quality: 71
     images:
-      - url: "https://1.bp.blogspot.com/-YRhUJuZMcOI/YN6yevCS-eI/AAAAAAAAFoA/5xYJ-t3EpXQPinUoIiib9T5btMFMW1q3ACLcBGAsYHQ/s16000/sparkler-4629347_1280.jpg"
-        width: 900
-        height: 578
+      - url: "https://cdn2.cloudpro.co.uk/sites/cloudprod7/files/2020/03/shutterstock_1621610047.jpg"
+        width: 1920
+        height: 1080
         isCached: true
-  - title: "Hexaware, Microland, and Mindtree get Top Honors at Microsoft India Incubathon 2021"
-    excerpt: "Microsoft India announced winners of the Incubathon 2021, a unique industry innovation garage program for its partner organizations."
-    publishedDateTime: 2021-07-01T07:25:00Z
-    webUrl: "https://www.pcquest.com/hexaware-microland-mindtree-get-top-honors-microsoft-india-incubathon-2021/"
-    ampWebUrl: "https://www.pcquest.com/hexaware-microland-mindtree-get-top-honors-microsoft-india-incubathon-2021/amp/"
-    cdnAmpWebUrl: "https://www-pcquest-com.cdn.ampproject.org/c/s/www.pcquest.com/hexaware-microland-mindtree-get-top-honors-microsoft-india-incubathon-2021/amp/"
+  - title: "AT&T takes a giant 5G leap to the public cloud with Azure"
+    excerpt: "Giant US operator is handing its 5G core to Microsoft AzureThe public cloud player adopts AT&T’s Network Cloud and tech staffAzure will then further develop"
+    publishedDateTime: 2021-07-01T14:06:00Z
+    webUrl: "https://www.telecomtv.com/content/cloud-native/at-t-takes-a-giant-5g-leap-to-the-public-cloud-with-azure-41867/"
+    ampWebUrl: "https://www.telecomtv.com/content/cloud-native/at-t-takes-a-giant-5g-leap-to-the-public-cloud-with-azure-41867/amp/"
+    cdnAmpWebUrl: "https://www-telecomtv-com.cdn.ampproject.org/c/s/www.telecomtv.com/content/cloud-native/at-t-takes-a-giant-5g-leap-to-the-public-cloud-with-azure-41867/amp/"
     type: article
     provider:
-      name: PCQuest
-      domain: pcquest.com
-    quality: 33
+      name: TelecomTV
+      domain: telecomtv.com
+    quality: 59
+    images:
+      - url: "https://assets.telecomtv.com/assets/telecomtv/at-t-microsoft-azure-12193.jpeg?w=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Microsoft, AT&T 5G Deal Gives Azure Telecom Cloud A Boost"
+    excerpt: "Microsoft's Azure for Operators cloud is set to expand with a new deal to acquire AT&T Network Cloud and engineering and lifecycle management software."
+    publishedDateTime: 2021-06-30T17:44:00Z
+    webUrl: "https://www.crn.com/news/cloud/microsoft-at-t-5g-deal-gives-azure-telecom-cloud-a-boost"
+    type: article
+    provider:
+      name: CRN
+      domain: crn.com
+    quality: 54
+    images:
+      - url: "https://www.crn.com/resources/026a-12a5232468e4-36b6ef30bd55-1000/microsoft-azure-1.jpg"
+        width: 606
+        height: 456
+        isCached: true
+  - title: "Microsoft to acquire AT&T’s Network Cloud; Azure to host AT&T 5G network"
+    excerpt: "The partnership builds on an existing $2bn deal where AT&T moved its back-end office to Microsoft Azure. The tech company became AT&T's preferred cloud provider for \"non-network a"
+    publishedDateTime: 2021-07-01T12:07:00Z
+    webUrl: "https://www.datacenterdynamics.com/en/news/microsoft-to-acquire-atts-network-cloud-azure-to-host-att-5g-network/"
+    type: article
+    provider:
+      name: Datacenter Dynamics
+      domain: datacenterdynamics.com
+    quality: 53
+    images:
+      - url: "https://media.datacenterdynamics.com/media/images/ATTcloud.2e16d0ba.fill-1200x630.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Cloud wars heat up: AT&T moves 5G cloud to Azure, sells Network Cloud tech to Microsoft"
+    excerpt: "AT&T is making big changes in its cloud computing efforts, deciding to move its next-generation 5G wireless core to Microsoft's Azure cloud and also selling its Network Cloud Platform tech to"
+    publishedDateTime: 2021-07-01T11:47:00Z
+    webUrl: "https://www.wraltechwire.com/2021/07/01/cloud-wars-heat-up-att-moves-5g-cloud-to-azure-sells-network-cloud-tech-to-microsoft/"
+    type: article
+    provider:
+      name: WRAL TechWire
+      domain: wraltechwire.com
+    quality: 46
+    images:
+      - url: "https://www.wraltechwire.com/wp-content/uploads/2020/11/cloud-computing-internet-of-things-e1605713015179-1024x576.png"
+        width: 1024
+        height: 576
+        isCached: true
+  - title: "AT&T to run its mobility network on Microsoft's Azure for Operators cloud, delivering cost-efficient 5G services at scale"
+    excerpt: "AT&T will move its 5G mobile network to the Microsoft cloud. This strategic alliance provides a path for all of AT&T's"
+    publishedDateTime: 2021-06-30T14:35:00Z
+    webUrl: "https://tylerpaper.com/news/texas/at-t-to-run-its-mobility-network-on-microsofts-azure-for-operators-cloud-delivering-cost/article_0a6d929a-acfb-54f8-a2bd-cc00a1585be7.html"
+    type: article
+    provider:
+      name: Tyler Morning Telegraph
+      domain: tylerpaper.com
+    quality: 29
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/tylerpaper.com/content/tncms/assets/v3/editorial/d/72/d7298160-05b7-57c6-97bf-1f42d554bd54/60dc8b29a8cc7.image.jpg?resize=944%2C630"
+        width: 944
+        height: 630
+        isCached: true
 
 secured: "tqA8I/WKdB4K8JDcl+x8ZQ1h/vI6n58V5TWTmT+ls3rV/e9qFsfrUf2QaQw3oI/AFbEZNAqKP7FPjJ5KPJQRJ1vDZ4ORIqbJ5pThJvzmwR4X3AHxX0zZAXoiluxAPh/XYPwL8AJpB0RVH0B1U+x2IkkTYntYi9A6KT6fFsyOoIwwLQZTir8axvZb27bc0vXT0TTjw7oNiLw8eAdY0TDDNNF3DJGKoD7WxWZ38Nxn6eNcnJeXx6Vp46I1YNreY2NxrtGp8RejOlN51ZqJp/GcEz5JFVMuaQdnA1d2UAGfqX0UAA38kZ/tseBqGl4WdPSKfkYLccCHzhQgApIwhaZQj5w4AqiONHyeHFQjL1AWfn7eykSQlsGYZ+wnCanUF6TS94rEKHyj+30x0C4JOJURdam4BhV1oQsQxN4dOzS4nA9RzBEdB4QFKuR5sIEeYQOfqGal9fkOnETbQIkzsTJM9UOVfyNrwXFrD3AZxWGdvlkgvKKYEujSWyeqZeePmQXdprZaXrwfvdL8vXd23jN8HQ==;Z8c6Uu9xi3tZ5zdvbqVyeQ=="
 ---
