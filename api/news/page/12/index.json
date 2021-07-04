@@ -2,109 +2,6 @@
   "page": 12,
   "value": [
     {
-      "path": "_news/2021-06-23-oecdai-paving-the-way-towards-sustainable-trustworthy-and-responsible-ai-world.md",
-      "title": "OECD.AI: Paving The Way Towards Sustainable, Trustworthy And Responsible AI World",
-      "excerpt": "How do we ensure that AI is trustworthy and its benefits are shared by all? From the measurement of AI trends and developments to the direction and impact of national and regional AI policies and initiatives,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/markminevich/2021/06/22/oecdai-paving-the-way-towards-sustainable-trustworthy-and-responsible-ai-world/",
-      "originalUrl": "https://www.forbes.com/sites/markminevich/2021/06/22/oecdai-paving-the-way-towards-sustainable-trustworthy-and-responsible-ai-world/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 102,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60d0b8605e94f1d70330f026%2F0x0.jpg",
-          "width": 1200,
-          "height": 742,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/markminevich/2021/06/22/oecdai-paving-the-way-towards-sustainable-trustworthy-and-responsible-ai-world/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/markminevich/2021/06/22/oecdai-paving-the-way-towards-sustainable-trustworthy-and-responsible-ai-world/amp/",
-      "publishedDateTime": "2021-06-22T12:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-23-real-estate-agents-look-to-ai-for-sales-boost.md",
-      "title": "Real-Estate Agents Look to AI for Sales Boost",
-      "excerpt": "Technology leaders at Realogy, Compass and Zillow hope to augment human savvy with algorithms.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/real-estate-agents-look-to-ai-for-sales-boost-11624394271",
-      "originalUrl": "https://www.wsj.com/articles/real-estate-agents-look-to-ai-for-sales-boost-11624394271",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-358164/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/real-estate-agents-look-to-ai-for-sales-boost-11624394271",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/real-estate-agents-look-to-ai-for-sales-boost-11624394271",
-      "publishedDateTime": "2021-06-22T12:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Sales"
-      ]
-    },
-    {
       "path": "_news/2021-06-23-3d-facial-recognition-market-demand-technology-advancement-and-future-scope-till-2026.md",
       "title": "3D Facial Recognition Market Demand, Technology Advancement and Future Scope Till 2026",
       "excerpt": "The 3D facial recognition system is used to authenticate an individual by using 3D geometry of his/her face. 3D facial recognition utilizes facial contours to recognize and scrutinize various features in a human face,",
@@ -1196,6 +1093,93 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-22-state-street-leverages-machine-learning-to-streamline-private-markets-processing-and-document-management-through-partnership-with-canoe-intelligence.md",
+      "title": "State Street Leverages Machine Learning to Streamline Private Markets Processing and Document Management Through Partnership with Canoe Intelligence",
+      "excerpt": "State Street Corporation today announced it will implement a cloud-based, machine learning technology to transform private markets processing and document management. Through State Street’s partnership with Canoe Intelligence (“Canoe”),",
+      "sourceUrl": null,
+      "webUrl": "https://www.financialbuzz.com/state-street-leverages-machine-learning-to-streamline-private-markets-processing-and-document-management-through-partnership-with-canoe-intelligence/",
+      "originalUrl": "https://www.financialbuzz.com/state-street-leverages-machine-learning-to-streamline-private-markets-processing-and-document-management-through-partnership-with-canoe-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-22T05:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Financial Buzz",
+        "domain": "financialbuzz.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-06-22-report-amazon-orders-self-driving-tech-for-1000-trucks.md",
+      "title": "Report: Amazon Orders Self-Driving Tech for 1,000 Trucks",
+      "excerpt": "As Bloomberg reports, Amazon has ordered 1,000 autonomous driving systems from the company Plus, which upgrades trucks to drive themselves. Amazon is clearly confident Plus' technology works as it has also acquired the right to purchase preferred shares in the company which amounts to a 20% stake.",
+      "sourceUrl": null,
+      "webUrl": "https://www.pcmag.com/news/report-amazon-orders-self-driving-tech-for-1000-trucks",
+      "originalUrl": "https://www.pcmag.com/news/report-amazon-orders-self-driving-tech-for-1000-trucks",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.pcmag.com/imagery/articles/02UIOQFAdvtwaBZrBPDJ3IQ-1.1624364549.fit_lim.size_1200x630.jpg",
+          "width": 1120,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.pcmag.com/news/report-amazon-orders-self-driving-tech-for-1000-trucks?amp=true",
+      "cdnAmpWebUrl": "https://www-pcmag-com.cdn.ampproject.org/c/s/www.pcmag.com/news/report-amazon-orders-self-driving-tech-for-1000-trucks?amp=true",
+      "publishedDateTime": "2021-06-22T05:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC Magazine",
+        "domain": "pcmag.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
         "AI"
       ]
     }

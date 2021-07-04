@@ -9,7 +9,7 @@ ampWebUrl: "https://www.slashgear.com/who-guidance-details-the-benefits-and-risk
 cdnAmpWebUrl: "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/who-guidance-details-the-benefits-and-risks-of-adding-ai-to-healthcare-30680625/amp/"
 type: article
 quality: 104
-heat: 144
+heat: 134
 published: true
 
 provider:
@@ -76,20 +76,6 @@ related:
       - url: "https://www.indiablooms.com/health_pic/2021/b2ee5bce5a7997227b583979edf5b1bb.jpg"
         width: 800
         height: 362
-        isCached: true
-  - title: "WHO report warns against overestimating benefits of AI in health"
-    excerpt: "AI can help to bridge the health service access gap in poor countries, but bias, unethical use of data, and poorly trained models are all risks to be overcome"
-    publishedDateTime: 2021-06-29T08:35:00Z
-    webUrl: "https://www.computing.co.uk/news/4033625/report-warns-overestimating-benefits-ai-health"
-    type: article
-    provider:
-      name: Computing
-      domain: computing.co.uk
-    quality: 39
-    images:
-      - url: "https://www.computing.co.uk/api/v1/wps/14da744/a6f00026-47f9-4b95-a24d-0c5e5e5ff372/5/AI-370x229.jpg"
-        width: 370
-        height: 229
         isCached: true
 
 secured: "mUpIk5dXb9GYOH+kIhEVquQqeB6d9PJPdMIAek+XnMN7qXCTsxUXhtRNLGFGpzv/gxsgk7PGkkIgnoXcvyXleYrKKNGh/a/XbOXLIl+YqhhYYHbrWRDKvfe03zTezSadyXc3LVjMUZhr33hkySlZ+otMILMZzrSy8rxYO/+gHedLOm4WSxmupvEZ7IqXn5+Q96gIK6MderQRLfmWwLwqmxd7kWyoAmMBVQLdPc4k49iu5/p/oSdjoh/vrS6z7MHngmN8WcQQAb+qcA9R4GC4alh0qVVBLBpICBXNZ9DaSnn8EZSQh7c0WHbnWHmRSNfxNlft4Z6Ju5kL7FmumQYzt7g/nn2nr2kNkQO0nrJTAns26KTPxhE5kTY3jFKQcqz+S2WwrV7GEbZzNeGFNc8xQ/svfuN3fm/Qz9r2jc+vqkkfHwmaRgxLczuWstUvOmffnWhquS7xHJRsSJCkqmuohinDg+2ESTZdANnTpBJkybgL3P7jgPR1tV4hokTWsJGN18C4NBnnWLzbHyQxx2DNuQ==;ECqSg3W7Mo61Wq+NNIWh4w=="

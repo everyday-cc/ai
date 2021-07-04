@@ -2,11 +2,11 @@
 category: news
 title: "Zoom buys AI company that worked on real-time translation"
 excerpt: "According to Mashable, Zoom said that the acquisition is a move to help it make communicating with people who speak different languages easier and tha.."
-publishedDateTime: 2021-07-01T08:08:00Z
-originalUrl: "https://cio.economictimes.indiatimes.com/news/next-gen-technologies/zoom-buys-ai-company-that-worked-on-real-time-translation/84014047"
-webUrl: "https://cio.economictimes.indiatimes.com/news/next-gen-technologies/zoom-buys-ai-company-that-worked-on-real-time-translation/84014047"
-ampWebUrl: "https://cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/zoom-buys-ai-company-that-worked-on-real-time-translation/84014047"
-cdnAmpWebUrl: "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/zoom-buys-ai-company-that-worked-on-real-time-translation/84014047"
+publishedDateTime: 2021-07-01T07:25:00Z
+originalUrl: "https://telecom.economictimes.indiatimes.com/news/zoom-buys-ai-company-that-worked-on-real-time-translation/84013146"
+webUrl: "https://telecom.economictimes.indiatimes.com/news/zoom-buys-ai-company-that-worked-on-real-time-translation/84013146"
+ampWebUrl: "https://telecom.economictimes.indiatimes.com/amp/news/zoom-buys-ai-company-that-worked-on-real-time-translation/84013146"
+cdnAmpWebUrl: "https://telecom-economictimes-indiatimes-com.cdn.ampproject.org/c/s/telecom.economictimes.indiatimes.com/amp/news/zoom-buys-ai-company-that-worked-on-real-time-translation/84013146"
 type: article
 quality: 59
 heat: -1
@@ -21,7 +21,7 @@ topics:
   - AI
 
 images:
-  - url: "https://etimg.etb2bimg.com/thumb/msid-84014047,imgsize-23430,width-800,height-434,overlay-etcio/zoom-buys-ai-company-that-worked-on-real-time-translation.jpg"
+  - url: "https://etimg.etb2bimg.com/thumb/msid-84013146,imgsize-23430,width-800,height-434,overlay-ettelecom/zoom-buys-ai-company-that-worked-on-real-time-translation.jpg"
     width: 800
     height: 434
     isCached: true
@@ -269,6 +269,6 @@ related:
         height: 493
         isCached: true
 
-secured: "9nciCahZrTe/ZZ1U27BFSYL96sv7BZleDWfjyCy6rXm+oArT8R+GUVna86I/6oDS2Ou1u5otJO4IpB2pnPAgH3tEom4u9mAI3E1z3mTY4A41MEQ/qwiNSnQ/2pNfPzo30iYkFAKD+FhAbMtoBy9bZ2t0ssINOncfDq5mx7lfIkJ2lCCnMwfDYBxJSqK6IoaUZNmF6nkWuObmf0vr85OHjf85pakWjNPHO9gKEVQRxMtsyXae2jq3yxqfTjRrF4CoNZVg1brprCopX/Fzh4wikP6Dls9YBwSe8UoNSkkykQWa1KpvBTAMD38tx+WS5iaRMt9MQd1J4KmHGT+22j+CuEFjB6bb3A967wqdyQl8l4g6ff5RV3dOc8Pki412DIz8bzGryY1vuVfXIrGjbXCsqMzH17tLXTHqYJAjRVPDc7Yst0MCJIlXTCXY/AxFTTCnJ5xDv1b6H+Lir4yXAodJK6aiCVS8WFNR78FSxkcWUq9JcwmVj5RgVEY3taH8lWiLTb3rpCWXK8d3XZgIpSWnGA==;3J1GCUtbJTVeplPBs32vcQ=="
+secured: "1k5St/1jx/EHBjQaWPyCaNsY2HFstvvc/dMHD/OiypwvUjRvBcEEeb1ZPAY3nk/NYRCYUdWw8qe4crQ2EXSTOWJP2+fnpgW4xxHhfNLSGubh117yTMAFVVTvBYUf0D2PwjeWUSNm8lM7JjHFldTtRejGO4+E16IVgTqk8drhJEDiBymfPQU+Haiy2GREvmnOK+J9SVt4IG+CX1VTrEQivZe09CM3zlqBz2TCxaVScVBbcQ5CjJ/4yxI7G4ltbxggSkZieRBaigP6TUfVCVveGUhxQGB3SggiLf/QHPH8PW7UOCDXut0hzH2A+J25iWy40WnmlHIWSF/CrIoon6bSi3nZFsiJHdWzgQZPhP5ksBk=;xHsj5uZMcTp8Yk3u7eWVyw=="
 ---
 

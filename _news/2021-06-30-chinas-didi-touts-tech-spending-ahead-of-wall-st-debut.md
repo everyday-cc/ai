@@ -1,27 +1,29 @@
 ---
 category: news
 title: "China's Didi touts tech spending ahead of Wall St debut"
-excerpt: "Chinese ride-hailing service Didi says it lost $5.5 billion over the past three years ahead of its U.S. stock market debut Wednesday but it's highlighting its global reach and investments in ..."
-publishedDateTime: 2021-06-30T07:07:00Z
-originalUrl: "https://www.independent.co.uk/news/chinas-didi-touts-tech-spending-ahead-of-wall-st-debut-didi-china-beijing-wall-st-goldman-sachs-b1875272.html"
-webUrl: "https://www.independent.co.uk/news/chinas-didi-touts-tech-spending-ahead-of-wall-st-debut-didi-china-beijing-wall-st-goldman-sachs-b1875272.html"
+excerpt: "Early investors included Apple Inc., Japan's Softbank, Alibaba and Chinese internet giants, Tencent Holding Ltd. and Baidu Inc. Didi ... into development of self-driving, electric vehicles and ..."
+publishedDateTime: 2021-06-30T08:45:00Z
+originalUrl: "https://www.dailyherald.com/article/20210630/business/306309977"
+webUrl: "https://www.dailyherald.com/article/20210630/business/306309977"
+ampWebUrl: "https://www.dailyherald.com/amp-article/20210630/business/306309977/"
+cdnAmpWebUrl: "https://www-dailyherald-com.cdn.ampproject.org/c/s/www.dailyherald.com/amp-article/20210630/business/306309977/"
 type: article
-quality: 24
-heat: -1
+quality: 44
+heat: 44
 published: false
 
 provider:
-  name: The Independent
-  domain: independent.co.uk
+  name: Daily Herald
+  domain: dailyherald.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://static.independent.co.uk/2021/06/30/08/China_Didi_IPO_76014.jpg?width=1200&auto=webp&quality=75"
-    width: 1200
-    height: 782
+  - url: "https://www.dailyherald.com/storyimage/DA/20210630/business/306309977/AR/0/AR-306309977.jpg&updated=202106301649&MaxW=800&MaxH=800&noborder"
+    width: 512
+    height: 334
     isCached: true
 
 related:
@@ -56,6 +58,6 @@ related:
         height: 630
         isCached: true
 
-secured: "RYaK5gSnVh6d2pZVXmB5ZSJH4Ujb3vympvcffB91vyvjMbs/UNNTKbk1SrSmr8Blqf83dZj5xBM4hcmP5aUvrCJ85tJJDmI9mNdDZqBILA2/fT9UXHLd/SM9fs44Wx003PvdOo8Zs3GSVdIL/pJ+d4dogw23wy1nvE0tfiSnyhf//DN+CoatPmF1hAWlmoz6GVSF26q7wehNwZQhACpz/VNp5ooNGypDOb2JkhvQ6gLg2p8qrktZ5iFrLchiNh2oGlnQn/ibh4dXEChgy4aPO47iBPddHiVQ5XbZ7+lXpdHLoi4VCOWVV/9M1Dhc/G/7a4ckhmX/QaKUb8gJuk9lKBvLFHLaQlWWfUq+s6zrQfY=;hS9IUOBDKzJ95fA6vWu1hQ=="
+secured: "Etendz5gkH4aTz7Ig0i6IRVM4WEmA7YkMUkiP7XPyea7i768A8OePaAknOru+ObQkvnj981NXLRPZB0dquclXEGCn3377xuHnoZRx0YdunkXIGzb3VxSbQb6iT6lsWURFTux/SbnWjxqYipyEicQpgX+meErZ3hPFZq7SnVNsSs2Jm7XSFGjVvgbtQknwYWRX+/ufzapH9AxTpSN1NvR+ckXylVNByTvyC5mmU3NFpZLeXi8nUoaqS2bKzBsE3lXcy0e6bZyXTbPYRUVbz40sSb09z+I9noaxkjqsQ2U+aNsgyJVQILwokQil73AzEHnD3rz9ZqddhRqiPHL9IWJXLvhgq9nZ2Z73xJS2yjC0lY=;BIFRBnVt7d++kV87WnWxgg=="
 ---
 

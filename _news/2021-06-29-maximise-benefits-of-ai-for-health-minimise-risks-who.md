@@ -73,20 +73,6 @@ related:
         width: 800
         height: 362
         isCached: true
-  - title: "WHO report warns against overestimating benefits of AI in health"
-    excerpt: "AI can help to bridge the health service access gap in poor countries, but bias, unethical use of data, and poorly trained models are all risks to be overcome"
-    publishedDateTime: 2021-06-29T08:35:00Z
-    webUrl: "https://www.computing.co.uk/news/4033625/report-warns-overestimating-benefits-ai-health"
-    type: article
-    provider:
-      name: Computing
-      domain: computing.co.uk
-    quality: 39
-    images:
-      - url: "https://www.computing.co.uk/api/v1/wps/14da744/a6f00026-47f9-4b95-a24d-0c5e5e5ff372/5/AI-370x229.jpg"
-        width: 370
-        height: 229
-        isCached: true
 
 secured: "vqBfz4a2zOAG2ITgeY8yyGx/iaPtYQZmNQCec4pfO/Roj6948TMTFdYdKErMIDYAHzn2ooia8j9JGZUW7n61a1i/y+vK5CfGSS6LJjS1zq/biUSTW4mmcSNQrxCnYme3DSD89VZ7JptzJ3OlQ3QK5VAuvMROYDkbB/R5JuK4sHrJDD9qZTaARZMhEjIZ4CmGMW9aFBVliq+G4Lrxq76r845D7rBver+XBKVtBQ0AgdSZB5lrjKpru7ALhMpLlBxRdb5ylDqp7NWKPMoEMkGx/L6JeCB3yZes3Pshm1RXLsKuFZeqJbT8oIkYjYDEp1h1HZ4AqrL+oamJ/bWxhQPOQylhfc6zEe+jBSIJ1ZHtPmpxTuwqyNDnIO53sl8BcO0Iv9ro7RRCVy7LzmJ6QGbTyIa+rr2awLXGC9jfndsFgdBcvcE3FqvIDHHXaqtPNTJOQ4keR/AZhGgxwnm4GzbnzLyk9o28M1OgGtql6FGZE4nmE2jgTJRa2MSsKZIx+AxZsSc30t0Z4PCSMNAfP0JxXg==;vVlubJinlTTKoPCOXTrdLQ=="
 ---

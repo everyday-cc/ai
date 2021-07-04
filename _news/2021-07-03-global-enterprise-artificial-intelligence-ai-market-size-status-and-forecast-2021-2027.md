@@ -141,15 +141,6 @@ related:
         width: 630
         height: 420
         isCached: true
-  - title: "Global Artificial Intelligence (AI) in Agriculture Market Size, Status and Forecast 2021-2027"
-    excerpt: "Pages Report] Check for Discount on Global Artificial Intelligence (AI) in Agriculture Market Size, Status and Forecast 2021-2027 report by QYResearch Group. Artificial Intelligence (AI) in Agriculture Market size is being"
-    publishedDateTime: 2021-06-29T07:32:00Z
-    webUrl: "https://www.reportsnreports.com/reports/4620930-global-artificial-intelligence-ai-in-agriculture-market-size-status-and-forecast-2021-2027.html"
-    type: article
-    provider:
-      name: ReportsnReports
-      domain: reportsnreports.com
-    quality: 23
   - title: "Artificial Intelligence (AI) in Drug Discovery Market Share, Trends, Future Scope, Forecast 2027"
     excerpt: "Artificial intelligence (AI) in drug discovery market is expected to gain market growth in the forecast period of 2020 to 2027. Data Bridge Market Research analyses the market to account to USD 3,932."
     publishedDateTime: 2021-07-02T18:20:00Z

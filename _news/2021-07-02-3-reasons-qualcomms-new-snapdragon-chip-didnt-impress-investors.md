@@ -9,7 +9,7 @@ ampWebUrl: "https://www.fool.com/amp/investing/2021/07/02/3-reasons-qualcomms-ne
 cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/07/02/3-reasons-qualcomms-new-snapdragon-chip-didnt-impr/"
 type: article
 quality: 89
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -29,24 +29,6 @@ images:
     width: 1200
     height: 801
     isCached: true
-
-related:
-  - title: "Qualcomm Snapdragon 888+ Mobile Chipset Announced; Gets Overclocked CPU And GPU"
-    excerpt: "Qualcomm has officially launched its newest flagship mobile processor -- the Snapdragon 888+ SoC, which comes with an overclocked primary CPU core with up to 3GHz clock speed and several other performance improvements,"
-    publishedDateTime: 2021-06-29T07:18:00Z
-    webUrl: "https://www.gizbot.com/mobile/news/qualcomm-snapdragon-888-plus-mobile-chipset-announced-gets-overclocked-cpu-and-gpu-075158.html"
-    ampWebUrl: "https://www.gizbot.com/amphtml/mobile/news/qualcomm-snapdragon-888-plus-mobile-chipset-announced-gets-overclocked-cpu-and-gpu-075158.html"
-    cdnAmpWebUrl: "https://www-gizbot-com.cdn.ampproject.org/c/s/www.gizbot.com/amphtml/mobile/news/qualcomm-snapdragon-888-plus-mobile-chipset-announced-gets-overclocked-cpu-and-gpu-075158.html"
-    type: article
-    provider:
-      name: GIZBOT
-      domain: gizbot.com
-    quality: 70
-    images:
-      - url: "https://www.gizbot.com/img/2021/06/qualcomm-snapdragon-888-plus-1624950750.jpg"
-        width: 600
-        height: 337
-        isCached: true
 
 secured: "pStSzI8YdIXiU2Z452I11CXtssKibIxMO3IJWj47EBoHxItvEN2qapSfyceh+4+dsHM7aO2K2WLHafh68YBf3IAXaSxuiW46MAdVt7+XCbF9JzrTIdn24XxD62UfBYfocCK0nTMYmwojhvcGLY+QQmd0rm7sPT5xm5XvuXq+ySWh+XhLovGplX2jgHgUIi2ySzYtsIL4RtWdMv0pZ6SSK/6qElO5eKV2eh+McZWycGy43WvRghtgdq+wDlku5BxB4MbrYDFqvlMjB47iz5JS+HmkEwyTbCL121BSGO/AGPP1OtFOAdPa2Z8qpFokS4GLFOukudv7GS0PcvF5rgDqeOrxgMzUyyIXjTyCR2r6JvXvdtrO5YjpxU72EwHTGBWmRz/E8s8apUWwgjDK1u3jCd6KWura/aB4gpjxPuVXYtM6qq7501Bv66XdV4MwGkRbwb4HhlVMVRpQr0Hlm0sJpT7w3a/DYrgWHD8LE6mI7SBl3wE8hFoYEjXNxP+151Ja0kh6QZwaGAuDVW6Kei4UQA==;67+8DFh5RPGsMOWVkJ+kqQ=="
 ---

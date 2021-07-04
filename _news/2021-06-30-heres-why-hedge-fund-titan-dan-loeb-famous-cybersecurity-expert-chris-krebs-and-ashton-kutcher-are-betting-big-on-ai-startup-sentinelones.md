@@ -6,7 +6,7 @@ publishedDateTime: 2021-06-30T10:00:00Z
 originalUrl: "https://www.businessinsider.com/sentinelone-ipo-ceo-chris-krebs-dan-loeb-cybersecurity-2021-6"
 webUrl: "https://www.businessinsider.com/sentinelone-ipo-ceo-chris-krebs-dan-loeb-cybersecurity-2021-6"
 type: article
-quality: 30
+quality: 32
 heat: -1
 published: false
 
@@ -20,6 +20,7 @@ provider:
 
 topics:
   - AI
+  - Facebook AI
 
 images:
   - url: "https://i.insider.com/60db90eb36cf170019de89e9?width=1200&format=jpeg"

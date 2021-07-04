@@ -43,6 +43,15 @@ related:
         width: 708
         height: 443
         isCached: true
+  - title: "'Edge of chaos' opens pathway to artificial intelligence discoveries"
+    excerpt: "Some neuroscience theories suggest the human brain operates best 'at the edge of chaos'. Now scientists have found that keeping a nanowire network at the edge of becoming chaotic is the best state for it to produce useful signals to solve problems."
+    publishedDateTime: 2021-06-29T16:14:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2021/06/210629101157.htm"
+    type: article
+    provider:
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 49
   - title: "Nanowire Network at the “Edge of Chaos” Opens Pathway to Artificial Intelligence Discoveries"
     excerpt: "Nanowire network trained to solve simple problem mimicking neural pathways. Scientists at the University of Sydney and Japan's National Institute for Material Science (NIMS) have discovered that an ar"
     publishedDateTime: 2021-06-29T13:41:00Z

@@ -2,50 +2,6 @@
   "page": 35,
   "value": [
     {
-      "path": "_news/2021-06-07-tensorflow-tutorial-uses-python.md",
-      "title": "Tensorflow Tutorial Uses Python",
-      "excerpt": "There’s been a lot of renewed interest in the topic recently because of the success of TensorFlow. If you are adept at Python and remember your high school algebra, you might enjoy [Oliver ...",
-      "sourceUrl": null,
-      "webUrl": "https://hackaday.com/2017/11/25/tensorflow-tutorial-uses-python/",
-      "originalUrl": "https://hackaday.com/2017/11/25/tensorflow-tutorial-uses-python/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://hackaday.com/wp-content/uploads/2021/05/x86-sbc-thumbnail.jpg?w=600&#038;h=600",
-          "width": 600,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-06T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hackaday",
-        "domain": "hackaday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "TensorFlow"
-      ]
-    },
-    {
       "path": "_news/2021-06-07-2-leading-tech-stocks-to-buy-in-2021.md",
       "title": "2 Leading Tech Stocks to Buy in 2021",
       "excerpt": "Trevor primarily covers tech and financials, with a particular interest in artificial intelligence, blockchain, and other innovative technologies. He grew up in Ohio and later moved to the Pacific coast.",
@@ -1189,6 +1145,59 @@
       "topics": [
         "AI in Autos",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-05-microsoft-wins-approval-from-us-antitrust-regulators-to-buy-ai-firm-nuance-as-it-looks-to-bolster-healthcare-business.md",
+      "title": "Microsoft wins approval from US antitrust regulators to buy AI firm Nuance as it looks to bolster healthcare business",
+      "excerpt": "Nuance said in an SEC filing Friday that the US government's deadline to object to the deal expired on June 1, clearing a major regulatory hurdle.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/microsoft-wins-antitrust-approval-buy-acquire-nuance-19-billion-2021-6",
+      "originalUrl": "https://www.businessinsider.com/microsoft-wins-antitrust-approval-buy-acquire-nuance-19-billion-2021-6",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/60baa79393c6fa00195e55a7?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-04T15:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare",
+        "Microsoft AI"
       ]
     }
   ],

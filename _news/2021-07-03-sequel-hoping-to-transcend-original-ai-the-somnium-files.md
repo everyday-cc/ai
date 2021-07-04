@@ -9,7 +9,7 @@ ampWebUrl: "https://adventuregamers.com/news/amp/sequel-hoping-to-transcend-orig
 cdnAmpWebUrl: "https://adventuregamers-com.cdn.ampproject.org/c/s/adventuregamers.com/news/amp/sequel-hoping-to-transcend-original-ai-the-somnium-files"
 type: article
 quality: 57
-heat: 57
+heat: 67
 published: false
 
 provider:
@@ -25,6 +25,22 @@ images:
     height: 215
     isCached: true
 
-secured: "+I2WG2Eloe5K/eP0hTsDX1Ebk6zaoghxUF12YeHZDeBUyMCRRUmUiQsxzhrEp4kJef5IVDVziJnGPmCEN3DuYI1Q3ihPWQJXxpPrw9bZQagFrkgZSxzIjmIKBTAurug1dtxRHNyy8rHqMDZgA3/30ipZ0Y083HC4gvy5v63pbZ4z/uTczVUjkOAzCCO1Cqvb408cdPaMn73zAxSynsXsd8xkZe6qsManPKQSeWXCKZJupx6qNL+t1FyfzZFOVriEzPa0HsHt85SAii2pMn254qWIjoWxCORklx3+Y+p18Bl5FwhrAd1deEFlRO+tgM0k1KKRlcvPMz9YIR2Ts4IE1wgjizCG1NsoBRy/rQ3zDPw=;f6QrbHIYGQ5dDZiu9lxqZA=="
+related:
+  - title: "Ai: The Somnium Files - Nirvana Initiative: Here's What Comes in Each Edition"
+    excerpt: "Ai: The Somnium Files - Nirvana Initiative is coming to all platforms in spring 2022. You can already preorder the game in either a standard or collector's edition."
+    publishedDateTime: 2021-07-01T14:56:00Z
+    webUrl: "https://www.ign.com/articles/ai-the-somnium-files-nirvana-initiative-release-date-collectors-edition"
+    type: article
+    provider:
+      name: IGN
+      domain: ign.com
+    quality: 34
+    images:
+      - url: "https://assets-prd.ignimgs.com/2021/07/01/ai-somnium-files-nirvana-initiative-1625150401281.jpeg?width=1280"
+        width: 1280
+        height: 720
+        isCached: true
+
+secured: "CtYUszz9RmEAT72gKivakEdZEmGOLbrXfwn0lBSibEkL+Iu4MQHOjG+vM/UmY8ZsOZbwoew3/EfdKtsVp0m0NBeNeveH76xqjO3nwna876SseYR6sBmSpcJbUjoi9hCvlwaZ7Ek6dTjoMjxYJ/qVYTGlWq3UPC3eidjdrGo/oV42uL55JOBurCB5l01XFzrxvrV15ECl0VTk6ZOiCRBgrpsYjUn98DNthGr8OHHVVpiwMwwnzzmDQ04whgQwlHtKbhRPLzOebdI+7y186bYfs93/VcmhcgyDRs3w4hrk/A359qB8zs+Hmhwt9ZnriCI+PkbFmHozUZrLDnMrZ4mDyVyV+5oxKnpSeswn1BrJP2IKvXuXrX0GY8OPVW/fWAksdoOO97NNjRUywZuieDbFlnZVhg64W6YSQeJMV0lN6vynj0A63Rv9nb65F+4gDqosiVFEBnrc7jSdPrL4hl6xC9ppopiDFMV6JsHtKdahMxs/MwDi/YmPZ1T731v+kKLrdGh8yvdpxmJ3V7dqLN+bVw==;KNRYj/tYSfDGLTF7HpK70w=="
 ---
 
