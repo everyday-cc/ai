@@ -70,6 +70,15 @@ related:
         width: 450
         height: 300
         isCached: true
+  - title: "Microsoft experiments with high-end machine learning on Xbox Series X"
+    excerpt: "Microsoft is hiring new software engineers to help create new next-gen machine learning algorithms for Xbox Series X/S consoles."
+    publishedDateTime: 2021-07-03T22:14:00Z
+    webUrl: "https://www.tweaktown.com/news/80371/microsoft-experiments-with-high-end-machine-learning-on-xbox-series/index.html"
+    type: article
+    provider:
+      name: TweakTown
+      domain: tweaktown.com
+    quality: 36
   - title: "AI Image Recognition – Market Boosting the Growth Worldwide: Google, Microsoft, IBM"
     excerpt: "Advance Market Analytics published a new research publication on “AI Image Recognition Market Insights, to 2026″ with 232 pages and enriched with self-explained Tables and charts in presentable format."
     publishedDateTime: 2021-06-30T15:18:00Z

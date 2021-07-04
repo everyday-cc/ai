@@ -9,8 +9,8 @@ ampWebUrl: "https://www.labmanager.com/news/new-research-opens-pathway-to-artifi
 cdnAmpWebUrl: "https://www-labmanager-com.cdn.ampproject.org/c/s/www.labmanager.com/news/new-research-opens-pathway-to-artificial-intelligence-discoveries-26187/amp"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: Lab Manager
@@ -38,6 +38,20 @@ related:
     quality: 41
     images:
       - url: "https://www.nanowerk.com/nanotechnology-news2/id58366_1.png"
+        width: 514
+        height: 225
+        isCached: true
+  - title: "'Edge of chaos' opens pathway to artificial intelligence discoveries"
+    excerpt: "Scientists at the University of Sydney and Japan's National Institute for Material Science (NIMS) have discovered that an artificial network of nanowires can be tuned to respond in a brain-like way when electrically stimulated."
+    publishedDateTime: 2021-06-29T09:37:00Z
+    webUrl: "https://phys.org/news/2021-06-edge-chaos-pathway-artificial-intelligence.html"
+    type: article
+    provider:
+      name: Phys.org
+      domain: phys.org
+    quality: 39
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/2021/edge-of-chaos-opens-pa.jpg"
         width: 514
         height: 225
         isCached: true

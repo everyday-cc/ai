@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/speech-recognition-softw
 webUrl: "https://www.marketwatch.com/press-release/speech-recognition-software-market-next-big-thing-major-giants-google-microsoft-baidu-2021-07-03"
 type: article
 quality: 92
-heat: 182
+heat: 192
 published: true
 
 provider:
@@ -62,6 +62,15 @@ related:
         width: 450
         height: 300
         isCached: true
+  - title: "Microsoft experiments with high-end machine learning on Xbox Series X"
+    excerpt: "Microsoft is hiring new software engineers to help create new next-gen machine learning algorithms for Xbox Series X/S consoles."
+    publishedDateTime: 2021-07-03T22:14:00Z
+    webUrl: "https://www.tweaktown.com/news/80371/microsoft-experiments-with-high-end-machine-learning-on-xbox-series/index.html"
+    type: article
+    provider:
+      name: TweakTown
+      domain: tweaktown.com
+    quality: 36
   - title: "Artificial Intelligence (AI) in Real Estate Market Next Big Thing : Major Giants IBM, Cape Analytics, Baidu"
     excerpt: "The latest research on “Global Artificial Intelligence (AI) in Real Estate Report 2021” offered by HTF MI provides a comprehensive investigation into the geographical landscape, industry size along with the revenue estimation of the business."
     publishedDateTime: 2021-07-03T00:36:00Z

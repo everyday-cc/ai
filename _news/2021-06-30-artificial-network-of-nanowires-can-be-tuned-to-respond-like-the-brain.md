@@ -43,15 +43,22 @@ related:
         width: 708
         height: 443
         isCached: true
-  - title: "'Edge of chaos' opens pathway to artificial intelligence discoveries"
-    excerpt: "Some neuroscience theories suggest the human brain operates best 'at the edge of chaos'. Now scientists have found that keeping a nanowire network at the edge of becoming chaotic is the best state for it to produce useful signals to solve problems."
-    publishedDateTime: 2021-06-29T16:14:00Z
-    webUrl: "https://www.sciencedaily.com/releases/2021/06/210629101157.htm"
+  - title: "Nanowire Network at the “Edge of Chaos” Opens Pathway to Artificial Intelligence Discoveries"
+    excerpt: "Nanowire network trained to solve simple problem mimicking neural pathways. Scientists at the University of Sydney and Japan's National Institute for Material Science (NIMS) have discovered that an ar"
+    publishedDateTime: 2021-06-29T13:41:00Z
+    webUrl: "https://scitechdaily.com/nanowire-network-at-the-edge-of-chaos-opens-pathway-to-artificial-intelligence-discoveries/"
+    ampWebUrl: "https://scitechdaily.com/nanowire-network-at-the-edge-of-chaos-opens-pathway-to-artificial-intelligence-discoveries/amp/"
+    cdnAmpWebUrl: "https://scitechdaily-com.cdn.ampproject.org/c/s/scitechdaily.com/nanowire-network-at-the-edge-of-chaos-opens-pathway-to-artificial-intelligence-discoveries/amp/"
     type: article
     provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 49
+      name: SciTech Daily
+      domain: scitechdaily.com
+    quality: 48
+    images:
+      - url: "https://scitechdaily.com/images/Neural-Network-and-Nanowire-Network-777x340.jpg"
+        width: 777
+        height: 340
+        isCached: true
 
 secured: "+v/Oi744el2okJOa8PVS9z5YH76BoouZEtyBzqN7j7JzkLrOBux0lleu8O5/CiQ5cXh8Ua8sagTuxUkTRALBAuIx3Awm0P1YpgRroGHkwbLaW54C+a/Rt3oLEbC8Hy0DouPpKfkItAPFzJ2LdfzgExK25/4xo072HwAECu/esCkAprG0+6/HkAhE70vBc8A2L/u2zHboBHT2N2BY+ka6mWeR0JAwJww4NuwBxY9DgI1vgjwsdsxCQ5i+neCCsemzFtpwfJMcAlIxwi2RCfMAWyhUQdWNBoZg5HRaOj35OUjsaBi6kR+b3lejNNDmqY1xvKcol+aPvCfVXEf1urLbthT9olyLvoPMst+/wGYbpaPhPbXJu+TRmizaVXiGCrKWkVDfjcfP1C4VQT6wRXAcjb0qrYrnNMqHwzASIv2rB3f5M/su5YTjLy3b3pug+ci0gLLW34tCAQtErGEmhJAYQEJ8QR5+4PzWnqsv6F1yISX3bz0DM1ah17LhJyIaw4G841fFwO2OCfDJv9+zaDdVHw==;3VgWMLcriwbM1yokSa8BAw=="
 ---

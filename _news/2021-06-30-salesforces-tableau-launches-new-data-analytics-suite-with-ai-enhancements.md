@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techrepublic.com/google-amp/article/salesforces-tableau-
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/salesforces-tableau-launches-new-data-analytics-suite-with-ai-enhancements/"
 type: article
 quality: 87
-heat: 137
+heat: 127
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Tableau's latest update aims for AI enhanced augmented analytics, broader access to data"
-    excerpt: "Salesforce's Tableau has more integrations with Salesforce as well as Google Cloud BigQuery and Amazon SageMaker and support for Linux-based containers."
-    publishedDateTime: 2021-06-29T06:01:00Z
-    webUrl: "https://www.zdnet.com/article/tableaus-latest-update-aims-for-ai-enhanced-augmented-analytics-broader-access-to-data/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/tableaus-latest-update-aims-for-ai-enhanced-augmented-analytics-broader-access-to-data/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/tableaus-latest-update-aims-for-ai-enhanced-augmented-analytics-broader-access-to-data/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 78
-    images:
-      - url: "https://www.zdnet.com/a/hub/i/2021/06/24/6d6d7271-f006-43ab-b8df-5881412a186f/ask-data-for-salesforce-2.png"
-        width: 4098
-        height: 2700
-        isCached: true
   - title: "How to Deploy and Scale AI Analytics Across Your Enterprise"
     excerpt: "AI analytics unlocks effective bottom-up decision-making ... For example, migrating physical data centers to Microsoft’s Azure Platform helps pave the way for centralized Analytics Centers of Excellence to remain in-step with operational realities ..."
     publishedDateTime: 2021-06-30T17:58:00Z

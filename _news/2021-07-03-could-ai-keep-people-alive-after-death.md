@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wsj.com/amp/articles/could-ai-keep-people-alive-after-de
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/could-ai-keep-people-alive-after-death-11625317200"
 type: article
 quality: 87
-heat: 87
+heat: 88
 published: true
 
 provider:

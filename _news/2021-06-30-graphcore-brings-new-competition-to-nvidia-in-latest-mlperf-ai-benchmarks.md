@@ -3,10 +3,10 @@ category: news
 title: "Graphcore brings new competition to Nvidia in latest MLPerf AI benchmarks"
 excerpt: "Graphcore’s score in BERT natural language training was the best score of any of the two-socket AMD systems submitted."
 publishedDateTime: 2021-06-30T10:00:00Z
-originalUrl: "https://www.zdnet.com/article/graphcore-brings-new-competition-to-nvidia-in-latest-mlperf-ai-benchmarks/"
-webUrl: "https://www.zdnet.com/article/graphcore-brings-new-competition-to-nvidia-in-latest-mlperf-ai-benchmarks/"
-ampWebUrl: "https://www.zdnet.com/google-amp/article/graphcore-brings-new-competition-to-nvidia-in-latest-mlperf-ai-benchmarks/"
-cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/graphcore-brings-new-competition-to-nvidia-in-latest-mlperf-ai-benchmarks/"
+originalUrl: "https://www.zdnet.com/index.php/article/graphcore-brings-new-competition-to-nvidia-in-latest-mlperf-ai-benchmarks/"
+webUrl: "https://www.zdnet.com/index.php/article/graphcore-brings-new-competition-to-nvidia-in-latest-mlperf-ai-benchmarks/"
+ampWebUrl: "https://www.zdnet.com/index.php/google-amp/article/graphcore-brings-new-competition-to-nvidia-in-latest-mlperf-ai-benchmarks/"
+cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/google-amp/article/graphcore-brings-new-competition-to-nvidia-in-latest-mlperf-ai-benchmarks/"
 type: article
 quality: 88
 heat: -1
@@ -21,7 +21,7 @@ provider:
       height: 50
 
 topics:
-  - AI Hardware
+  - Natural Language Processing
   - AI
 
 images:
@@ -107,6 +107,6 @@ related:
         height: 576
         isCached: true
 
-secured: "G2/GuXA6C8y5gVJPFfJofJWABwlMWF6bW4mVY9uSilolX/AhuWvGjHKKggeIDDQgmF3RwIksrYS5+UI0KG5jnSSIZX8b1EPboc5dG1z/u3N0p1/A1AHZvrN/r1nOYf5B6EvF2hjJYjlSmamHf/QhIpGUftQtDzAYufXZME/ha9B5HcWoWOD8jYqD/Dg2y6AMm6zEQIiPfWL95X8z99ytOezBGn2xIgeHAUEZivZsPUUYIWBrsS5+YCbugVmqOv1KJ6tKUHFyN5On8Hh/AZdp8H34/I0PAUWySrTZI5SB0nHDKEdVg7rx38/tmn2MQcvpeD9agTGzQeYcwaIswJAr3C+lLoPXCryvQUGL1+OuPRo=;7bZwTgEwd7dyHoy1v9O9zg=="
+secured: "rATjKWHn09Faif1WWqDAJPo4XUCHRQzV/darBFTfIshe5FFhP7OOppNlL2Yj3/TV8RvVWwTwiMY3TxHIHjWO0zxXO3YTbiNO0NAY7037QeOLHaDlbM79EA0os8aZoaZDAntWzWYQaEMpQrG5LxFAivPOFXj/J7LZqhximKgSCxyomVCarP+cdXW/KT0uI+vvGte/A1RjAY4l6OyuPkeUZ3Zot5lLKG5SKnFUTahumrS70yjmiCDUTARYnAUD2LI0p6QOdzuvJN8MOnvoVMlrsYFtcmktYPQLaWqBUCYH1fm68YFy0MG1cKJpyj5cu9hrbaoKbmimobDRf0l7zpCYj3k2e4B49js0zO56NcJ9IKc=;Q4IfDzTX8xj7aT4orzYMjw=="
 ---
 

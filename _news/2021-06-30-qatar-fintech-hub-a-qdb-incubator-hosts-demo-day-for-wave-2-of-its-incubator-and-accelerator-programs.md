@@ -22,22 +22,6 @@ topics:
   - AI in Finance
   - AI
 
-related:
-  - title: "Qatar FinTech Hub to host Demo Day for Wave 2 of its Incubator and Accelerator Programs"
-    excerpt: "Qatar FinTech Hub (QFTH), founded by Qatar Development Bank (QDB) to support the growth of the FinTech industry in Qatar, will hold the Demo Day for Wave 2 of its flagship Incubator and Accelerator Programs on Thursday at 12 noon virtually."
-    publishedDateTime: 2021-06-29T06:45:00Z
-    webUrl: "https://thepeninsulaqatar.com/article/29/06/2021/Qatar-FinTech-Hub-to-host-Demo-Day-for-Wave-2-of-its-Incubator-and-Accelerator-Programs"
-    type: article
-    provider:
-      name: The Peninsula
-      domain: thepeninsulaqatar.com
-    quality: 16
-    images:
-      - url: "https://thepeninsulaqatar.com/images/front/whatsapp.png"
-        width: 400
-        height: 284
-        isCached: true
-
 secured: "oMNkn6WrccknO6SH/d1rXWqt2bCjnNYp+ALqM+A63aKF+pSbdVlpQjmkhZnHC68T1UvG6QcBFOqkKbnQouFpEcZBXA4XUYRnwrouvYL1hmQGB5tn+zhVs/UIt3Ji49bW1WGW7fibzJigPRjeL/TWn1damXVdityJQIyHctlVt2hdtFXhleDg/O1+4xP/lx7eQ0l7SYffWeluQpvfrQ/BL44L2TaCLi8dEEORILLQsa/I3teK3jUp6h33FtmJ9aQmeFAEgWvMrjtjIIkk6fSLt7ZilZDJbVll8U7ETtOXZ35PevMpG8gV3luIV5OsruMClrlkiHgPjxnmy6dpzbuYogqJ/CjvzM3YH+o0FDLv8D0/NsCrQ/ug26+ANicgTatwJjU3YxYcgTXogOgTqp1qPZ5GnrezG6g0qOAoE+bzC5UlYUwDxWABTKzsqD087AglNFPq3onCuLf2UKwuzfq5ei2eNy6BM4PK4O1wjJ+Rn98OS5ggA2ie+A4Ve+D1aOwzAvDFqwW8hZ7x9NZZwmrBEg==;JuK4qSVeAuAVL+eq6JGeAg=="
 ---
 

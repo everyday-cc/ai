@@ -1,36 +1,48 @@
 ---
 category: news
-title: "Google Sold $2.5 Million In AI To The Pentagon For Its Covid-19 Recovery"
-excerpt: "A previously-undisclosed deal with the Pentagon reveals Google sold AI tech for the DOD’s Covid-19 recovery. But, with no contractual “red line,” there were concerns it could have been repurposed for non-Covid military projects."
-publishedDateTime: 2021-07-01T16:52:00Z
-originalUrl: "https://www.forbes.com/sites/thomasbrewster/2021/07/01/google-sold-millions-in-ai-to-support-the-pentagon-covid-19-recovery/"
-webUrl: "https://www.forbes.com/sites/thomasbrewster/2021/07/01/google-sold-millions-in-ai-to-support-the-pentagon-covid-19-recovery/"
-ampWebUrl: "https://www.forbes.com/sites/thomasbrewster/2021/07/01/google-sold-millions-in-ai-to-support-the-pentagon-covid-19-recovery/amp/"
-cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/thomasbrewster/2021/07/01/google-sold-millions-in-ai-to-support-the-pentagon-covid-19-recovery/amp/"
+title: "AI-powered therapy bots at workplace for employees during Covid pandemic"
+excerpt: "AI is better than humans at providing support, according to a study undertaken by Workplace Intelligence.  The future of work will be influenced by the past. Last year’s virus invasion changed everything for the workforce."
+publishedDateTime: 2021-07-03T23:30:00Z
+originalUrl: "https://www.newindianexpress.com/magazine/2021/jul/04/ai-powered-therapy-bots-at-workplace-for-employees-during-covid-pandemic-2324136.html"
+webUrl: "https://www.newindianexpress.com/magazine/2021/jul/04/ai-powered-therapy-bots-at-workplace-for-employees-during-covid-pandemic-2324136.html"
+ampWebUrl: "https://www.newindianexpress.com/magazine/2021/jul/04/ai-powered-therapy-bots-at-workplace-for-employees-during-covid-pandemic-2324136.amp"
+cdnAmpWebUrl: "https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/magazine/2021/jul/04/ai-powered-therapy-bots-at-workplace-for-employees-during-covid-pandemic-2324136.amp"
 type: article
-quality: 188
-heat: 258
-published: true
+quality: 73
+heat: -1
+published: false
 
 provider:
-  name: Forbes
-  domain: forbes.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: The New Indian Express
+  domain: newindianexpress.com
 
 topics:
-  - AI Ethics
   - AI
+  - AI in Healthcare
 
 images:
-  - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60dc766f9b49abb41e383c3e%2F0x0.jpg"
-    width: 1200
-    height: 800
+  - url: "https://images.newindianexpress.com/uploads/user/imagelibrary/2021/7/3/w600X390/robot.jpg"
+    width: 600
+    height: 390
     isCached: true
 
 related:
+  - title: "Google Sold $2.5 Million In AI To The Pentagon For Its Covid-19 Recovery"
+    excerpt: "A previously-undisclosed deal with the Pentagon reveals Google sold AI tech for the DOD’s Covid-19 recovery. But, with no contractual “red line,” there were concerns it could have been repurposed for non-Covid military projects."
+    publishedDateTime: 2021-07-01T16:52:00Z
+    webUrl: "https://www.forbes.com/sites/thomasbrewster/2021/07/01/google-sold-millions-in-ai-to-support-the-pentagon-covid-19-recovery/"
+    ampWebUrl: "https://www.forbes.com/sites/thomasbrewster/2021/07/01/google-sold-millions-in-ai-to-support-the-pentagon-covid-19-recovery/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/thomasbrewster/2021/07/01/google-sold-millions-in-ai-to-support-the-pentagon-covid-19-recovery/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 188
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60dc766f9b49abb41e383c3e%2F0x0.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Google taps AI to identify COVID-19 vaccine name variations"
     excerpt: "Google says it's using a multimodal AI model to identify variations in COVID-19 vaccine names around the world."
     publishedDateTime: 2021-06-29T17:08:00Z
@@ -60,22 +72,6 @@ related:
       - url: "https://mma.prnewswire.com/media/1555044/IRTNTR70660.jpg"
         width: 400
         height: 225
-        isCached: true
-  - title: "AI-powered therapy bots at workplace for employees during Covid pandemic"
-    excerpt: "AI is better than humans at providing support, according to a study undertaken by Workplace Intelligence.  The future of work will be influenced by the past. Last year’s virus invasion changed everything for the workforce."
-    publishedDateTime: 2021-07-03T23:30:00Z
-    webUrl: "https://www.newindianexpress.com/magazine/2021/jul/04/ai-powered-therapy-bots-at-workplace-for-employees-during-covid-pandemic-2324136.html"
-    ampWebUrl: "https://www.newindianexpress.com/magazine/2021/jul/04/ai-powered-therapy-bots-at-workplace-for-employees-during-covid-pandemic-2324136.amp"
-    cdnAmpWebUrl: "https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/magazine/2021/jul/04/ai-powered-therapy-bots-at-workplace-for-employees-during-covid-pandemic-2324136.amp"
-    type: article
-    provider:
-      name: The New Indian Express
-      domain: newindianexpress.com
-    quality: 73
-    images:
-      - url: "https://images.newindianexpress.com/uploads/user/imagelibrary/2021/7/3/w600X390/robot.jpg"
-        width: 600
-        height: 390
         isCached: true
   - title: "Google deploys new AI tool to COVID-19 vaccine searches"
     excerpt: "Google's answer to combatting COVID vaccine misinformation has been to display resources from health authorities like the CDC in information boxes on search result pages. But the coronavirus — and COVID-related scams and fake news— have blown through international borders and language barriers."
@@ -134,6 +130,6 @@ related:
         height: 630
         isCached: true
 
-secured: "8SRXvit4iOao1GEcSPNfh44lQx00jL2ZoeemiBz8LN0aB3g1XUZ/YtRZ2OnXmYMYNpzPZcNyR6r1sHHQgIUhaZRMLIlhGzekVIABTG5zkfj0iGVB4k/KH5corN7CDEGQ8/f5YmQsEwMnHjuKMfAfdBWKY25PFrctI1vKMTeA1NlllycCQ5PkxA1JA9d9bFqdvZTNid+A15jo6yHUjGuDG8QWopSrK5Lv5JdUFZGTQ5ErQIjy4O3RyJZWZru/0SFfsiY8/tarYXtMA6o3o4VZQavbvpNTfRzSTl2tRpx01gU7KkPpewif08e/jeMGTIMu7oOrjZW+xLivJ1ivkwDa2P2m0LsSekKXreWmbUtL4Yron3Yemnutjci4Q4gR+Doko6Bt82G3IiSdcQ9GGZ89rAheHeLWGjZ3Y3aTJ6Wh69WiuvcKcNOr1tMfXECQBffY9nxKQnT8d6i6Ql/GKNUHyV5FdXxRs25TBYJtDTC8U27qwx9dN9wrOHzH/Dq/UPwHAnO3wUiAlHOH0LcUl5o1Ew9DNGpZ32T1m14iuqab4uQ=;a+bGFyAEH/8ZrkLMLtVwfA=="
+secured: "UbtQGd30JdWoRakfdUXuU0dc8w/N9Sdy3LgnEIj93MIMOv63dTQFZX+0+0HPkKTDK8ORFCVv620z4CyjzvGDncDT57ZPj6Z2NDMu4H/1WPjRIPrTf4QumlWGInKegNu6f3VPyUCsbGnT947QN4DlTg8XEWf9oMhnuittwWucfZfwMsCAqngH+803fl8edRuL9uIasxxTtD1QtBh4lMfBeUkCHOJRm5Dz3BFls5Gc8D0X8YabXQy6o873OwbrYVFXgYjjvDnUL61EoXLii/2atHlrwSGM9LjipRrRR3KUIVIt+wTEtj0UmqUHcNOgG4KgWfiVdnCafKBLWrfV+BDXvmxH3u5qBBorNimCq0nU9zw=;oaeeKQVcr36ryzNr7MmSPA=="
 ---
 

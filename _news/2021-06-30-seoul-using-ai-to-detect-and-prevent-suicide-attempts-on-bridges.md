@@ -1,28 +1,32 @@
 ---
 category: news
-title: "Seoul Using AI to Detect and Prevent Suicide Attempts on Bridges"
+title: "Seoul using AI to detect and prevent suicide attempts on bridges"
 excerpt: "Is the young woman in the summer dress just admiring the view off the bridge? That is the question South Korean researchers and the emergency services are working to answer using artificial intelligence to detect and prevent suicide attempts."
-publishedDateTime: 2021-06-30T12:52:00Z
-originalUrl: "https://www.usnews.com/news/world/articles/2021-06-30/seoul-using-ai-to-detect-and-prevent-suicide-attempts-on-bridges"
-webUrl: "https://www.usnews.com/news/world/articles/2021-06-30/seoul-using-ai-to-detect-and-prevent-suicide-attempts-on-bridges"
-ampWebUrl: "https://www.usnews.com/news/world/articles/2021-06-30/seoul-using-ai-to-detect-and-prevent-suicide-attempts-on-bridges?context=amp"
-cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/world/articles/2021-06-30/seoul-using-ai-to-detect-and-prevent-suicide-attempts-on-bridges?context=amp"
+publishedDateTime: 2021-06-30T11:50:00Z
+originalUrl: "https://www.reuters.com/world/asia-pacific/seoul-using-ai-detect-prevent-suicide-attempts-bridges-2021-06-30/"
+webUrl: "https://www.reuters.com/world/asia-pacific/seoul-using-ai-detect-prevent-suicide-attempts-bridges-2021-06-30/"
 type: article
 quality: 67
 heat: 67
 published: false
 
 provider:
-  name: U.S. News & World Report
-  domain: usnews.com
+  name: Reuters
+  domain: reuters.com
   images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg"
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - AI
 
-secured: "GTnCjykA164+bvLS42Vvc8fH8vmXG8sBfFpYoUDCjEEFVw5UTg5BRUi6sFYvuQemtKBh62AQQ4mcCVMbKBwD5KP0sEC+6bTwCFsti/fx3okIlPNsF8gJTDtvZiCJhx4fGCJC43Vair+GvbBWzeMYPp0Fb/zFkfnpkIvWcEVCYdvcCKn6brXjobxjzuNoQnxye2rQKmlrlvzf4Dedb4UZQ+YaQQ24b5056WmZPQZFqpP3QE8bo+IVJYOOIEtP/YixacAsfmJz0NIfIM+galgeQ3kn2l4mUcntullN0NnzmaPh5fVw4lM6MTntpNybmF0EN2uUBA1N7g7gjd1oGUJTPLN3EDhmXw5wstMoC6g/VlfsQ/T4nvb2JuDB0XCFlgTxuGhomY5aa9jfZuybAUmhw8BX+wuHqptK+zSR/Z9OrY0cC8XWy0offy3+Fc7QoMc1mag2YZOZaT8gj5/WNscII7tADb44e222YWN+CZYlnxB4mRdIoCTVZucizdUoqFi4yugLaDUOucodwqqCbeQ4hg==;VzQNwJontxYU31Cul3hvAA=="
+images:
+  - url: "https://www.reuters.com/resizer/Y86IsGFgh1MuJkns2M8qXJsXbOE=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/ZK4DLWI33BLB5FNVIPEWZS5RG4.jpg"
+    width: 1200
+    height: 628
+    isCached: true
+
+secured: "DOKq2MajFnN5nWRPlIMcqTW84bu4lxTJZm7Hki0ewXjuaPC83hxKG8qRKzD91lGnKqTJZXR75ZzBtxUIQFhR0OTE9PSFjpkOP15ONL6Op7DUDyq+0aGmxasCKE7Oq42A9jF5Obhf0gIvsHTg960uqx6rSmA0J9aTWnW+x9qqfy6hWkmZe8VnfhSZHqEMHqUKJYJLODc103vjvSYTKOz7r/A15EoQISbVHsfHlYmKW7soDsNvbLaxJuNspBCjMEhBhK0evNdwMhrgedqMrrLk/JeCSUuAJjj5RbAIY5S8nhmBq2n02hNwGE/e7SJ+5NI3rD/RK9eamTZGGZEPAOamMtf43CP175tUWJRzDQRHC4Y=;TWLZWlp4KIfjq1GmbAlXNw=="
 ---
 

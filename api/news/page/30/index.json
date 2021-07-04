@@ -2,6 +2,40 @@
   "page": 30,
   "value": [
     {
+      "path": "_news/2021-06-10-global-encoder-market-2021-to-2026-increasing-demand-for-artificial-intelligence-based-systems-presents-opportunities.md",
+      "title": "Global Encoder Market (2021 to 2026) - Increasing Demand for Artificial Intelligence-Based Systems Presents Opportunities",
+      "excerpt": "The global encoder market is expected to grow from USD 2.3 billion in 2021 to USD 3.7 billion by 2026, at a CAGR of 10%. The growth of this market is mainly driven by the need for",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/21/06/n21498555/global-encoder-market-2021-to-2026-increasing-demand-for-artificial-intelligence-based-systems-pre",
+      "originalUrl": "https://www.benzinga.com/pressreleases/21/06/n21498555/global-encoder-market-2021-to-2026-increasing-demand-for-artificial-intelligence-based-systems-pre",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/21498555",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/21498555",
+      "publishedDateTime": "2021-06-09T11:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-10-ai-expert-ditches-uber-to-start-toronto-self-driving-company-waabi.md",
       "title": "AI expert ditches Uber to start Toronto self-driving company, Waabi",
       "excerpt": "Raquel Urtasun's Toronto-based start-up to take artificial intelligence-first approach to self-driving vehicles.",
@@ -1154,48 +1188,6 @@
       "topics": [
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2021-06-09-programmers-lawmakers-want-ai-to-eliminate-bias-not-promote-it.md",
-      "title": "Programmers, Lawmakers Want AI to Eliminate Bias, Not Promote It",
-      "excerpt": "But as it has proliferated, studies have shown that AI can be biased against people of color. In housing, AI has helped perpetuate segregation, redlining and other forms of racial discrimination against Black families,",
-      "sourceUrl": null,
-      "webUrl": "https://www.pewtrusts.org/en/research-and-analysis/blogs/stateline/2021/06/09/programmers-lawmakers-want-ai-to-eliminate-bias-not-promote-it",
-      "originalUrl": "https://www.pewtrusts.org/en/research-and-analysis/blogs/stateline/2021/06/09/programmers-lawmakers-want-ai-to-eliminate-bias-not-promote-it",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.pewtrusts.org/-/media/post-launch-images/2021/06/ap_20079007012691/16x9_m.jpg",
-          "width": 1820,
-          "height": 1024,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.pewtrusts.org/en/research-and-analysis/blogs/stateline/2021/06/09/programmers-lawmakers-want-ai-to-eliminate-bias-not-promote-it?amp=1",
-      "cdnAmpWebUrl": "https://www-pewtrusts-org.cdn.ampproject.org/c/s/www.pewtrusts.org/en/research-and-analysis/blogs/stateline/2021/06/09/programmers-lawmakers-want-ai-to-eliminate-bias-not-promote-it?amp=1",
-      "publishedDateTime": "2021-06-09T04:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Pew Charitable Trusts",
-        "domain": "pewtrusts.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

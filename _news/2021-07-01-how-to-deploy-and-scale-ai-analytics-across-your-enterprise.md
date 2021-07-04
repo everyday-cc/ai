@@ -45,22 +45,6 @@ related:
         width: 1200
         height: 613
         isCached: true
-  - title: "Tableau's latest update aims for AI enhanced augmented analytics, broader access to data"
-    excerpt: "Salesforce's Tableau has more integrations with Salesforce as well as Google Cloud BigQuery and Amazon SageMaker and support for Linux-based containers."
-    publishedDateTime: 2021-06-29T06:01:00Z
-    webUrl: "https://www.zdnet.com/article/tableaus-latest-update-aims-for-ai-enhanced-augmented-analytics-broader-access-to-data/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/tableaus-latest-update-aims-for-ai-enhanced-augmented-analytics-broader-access-to-data/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/tableaus-latest-update-aims-for-ai-enhanced-augmented-analytics-broader-access-to-data/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 78
-    images:
-      - url: "https://www.zdnet.com/a/hub/i/2021/06/24/6d6d7271-f006-43ab-b8df-5881412a186f/ask-data-for-salesforce-2.png"
-        width: 4098
-        height: 2700
-        isCached: true
   - title: "AWS, Salesforce, team up for intelligent applications"
     excerpt: "Amazon Web Services and Salesforce have announced an expansion of a global strategic partnership to allow customers to build and deploy powerful new business applications more swiftly. Developers will be able to build and launch custom applications that extend the power of both platforms by connecting Salesforce data and workflows natively into their solutions running"
     publishedDateTime: 2021-07-01T08:18:00Z

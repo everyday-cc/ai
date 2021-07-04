@@ -71,6 +71,22 @@ related:
         width: 400
         height: 225
         isCached: true
+  - title: "AI-powered therapy bots at workplace for employees during Covid pandemic"
+    excerpt: "AI is better than humans at providing support, according to a study undertaken by Workplace Intelligence.  The future of work will be influenced by the past. Last year’s virus invasion changed everything for the workforce."
+    publishedDateTime: 2021-07-03T23:30:00Z
+    webUrl: "https://www.newindianexpress.com/magazine/2021/jul/04/ai-powered-therapy-bots-at-workplace-for-employees-during-covid-pandemic-2324136.html"
+    ampWebUrl: "https://www.newindianexpress.com/magazine/2021/jul/04/ai-powered-therapy-bots-at-workplace-for-employees-during-covid-pandemic-2324136.amp"
+    cdnAmpWebUrl: "https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/magazine/2021/jul/04/ai-powered-therapy-bots-at-workplace-for-employees-during-covid-pandemic-2324136.amp"
+    type: article
+    provider:
+      name: The New Indian Express
+      domain: newindianexpress.com
+    quality: 73
+    images:
+      - url: "https://images.newindianexpress.com/uploads/user/imagelibrary/2021/7/3/w600X390/robot.jpg"
+        width: 600
+        height: 390
+        isCached: true
   - title: "Google deploys new AI tool to COVID-19 vaccine searches"
     excerpt: "Google's answer to combatting COVID vaccine misinformation has been to display resources from health authorities like the CDC in information boxes on search result pages. But the coronavirus — and COVID-related scams and fake news— have blown through international borders and language barriers."
     publishedDateTime: 2021-06-30T22:22:00Z

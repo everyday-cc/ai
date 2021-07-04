@@ -46,20 +46,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "AI in Social Media Market Research Report with Size, Share, Value, CAGR, Outlook, Analysis, Latest Updates, Data, and News 2021-2028"
-    excerpt: "The report forecast global AI in Social Media market to grow to reach xx Million USD in 2021 with a CAGR of during the"
-    publishedDateTime: 2021-06-29T06:53:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-in-social-media-market-research-report-with-size-share-value-cagr-outlook-analysis-latest-updates-data-and-news-2021-2028-2021-06-29"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 36
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Symphony Partners With AI-Powered Fintech Saphyre To Offer Integrated Pre- and Post-Trade Solution"
     excerpt: "NEW YORK, NY and LONDON, UK / ACCESSWIRE / June 29, 2021 / Symphony, the leading financial markets’ infrastructure and technology platform, has established a strategic partnership with fintech firm Saphyre,"
     publishedDateTime: 2021-06-29T12:31:00Z
@@ -73,20 +59,6 @@ related:
       - url: "https://www.digitaljournal.com/wp-content/uploads/2021/06/Europe-Tourists-AFP-1K-04-600x337.jpg"
         width: 600
         height: 337
-        isCached: true
-  - title: "Top 5 Fintech Cities in the USA"
-    excerpt: "We’ve compiled a list of the top five fintech hubs’ in the US, outlining their most distinctive characteristics and features, as well as some of the top fintech companies they’ve created."
-    publishedDateTime: 2021-06-29T07:00:00Z
-    webUrl: "https://fintechnews.ch/fintechusa/top-5-fintech-cities-in-the-usa/46318/"
-    type: article
-    provider:
-      name: fintechnews.ch
-      domain: fintechnews.ch
-    quality: 24
-    images:
-      - url: "https://fintechnews.ch/wp-content/uploads/2021/06/Top-5-Fintech-Cities-in-the-USA.jpg"
-        width: 2048
-        height: 1136
         isCached: true
   - title: "8 Types Of Fintech To Take Advantage Of"
     excerpt: "Whether it’s checking our bank balance with an app or Venmoing a friend the cost of a bagel, fintech impacts our daily lives. By streamlining and automating"

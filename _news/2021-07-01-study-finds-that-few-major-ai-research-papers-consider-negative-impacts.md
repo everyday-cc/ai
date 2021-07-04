@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/07/01/study-finds-that-few-major-ai-res
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/01/study-finds-that-few-major-ai-research-papers-consider-negative-impacts/amp/"
 type: article
 quality: 89
-heat: 91
+heat: 89
 published: true
 
 provider:

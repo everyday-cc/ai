@@ -2,6 +2,59 @@
   "page": 36,
   "value": [
     {
+      "path": "_news/2021-06-05-microsoft-wins-approval-from-us-antitrust-regulators-to-buy-ai-firm-nuance-as-it-looks-to-bolster-healthcare-business.md",
+      "title": "Microsoft wins approval from US antitrust regulators to buy AI firm Nuance as it looks to bolster healthcare business",
+      "excerpt": "Nuance said in an SEC filing Friday that the US government's deadline to object to the deal expired on June 1, clearing a major regulatory hurdle.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/microsoft-wins-antitrust-approval-buy-acquire-nuance-19-billion-2021-6",
+      "originalUrl": "https://www.businessinsider.com/microsoft-wins-antitrust-approval-buy-acquire-nuance-19-billion-2021-6",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/60baa79393c6fa00195e55a7?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-04T15:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-05-artificial-intelligence-powered-electronic-nose-can-accurately-sniff-out-cancers.md",
       "title": "Artificial Intelligence-Powered Electronic ‘Nose’ Can Accurately Sniff Out Cancers",
       "excerpt": "The sensor was able to detect ovarian and pancreatic cancers with greater than 90% accuracy in preliminary tests.",
@@ -1139,49 +1192,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-04-robotics-startup-addverb-technologies-in-advance-talks-to-raise-80-120-million.md",
-      "title": "Robotics startup Addverb Technologies in advance talks to raise $80-120 million",
-      "excerpt": "The Noida-based robotics startup plans to use the money to set up another manufacturing plant and also expand globally.",
-      "sourceUrl": null,
-      "webUrl": "https://www.moneycontrol.com/news/business/startup/robotics-startup-addverb-technologies-in-advance-talks-to-raise-80-120-million-6987951.html",
-      "originalUrl": "https://www.moneycontrol.com/news/business/startup/robotics-startup-addverb-technologies-in-advance-talks-to-raise-80-120-million-6987951.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.moneycontrol.com/static-mcnews/2019/07/Funding.jpg?impolicy=website&width=770&height=431",
-          "width": 770,
-          "height": 431,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.moneycontrol.com/news/business/startup/robotics-startup-addverb-technologies-in-advance-talks-to-raise-80-120-million-6987951.html/amp",
-      "cdnAmpWebUrl": "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/business/startup/robotics-startup-addverb-technologies-in-advance-talks-to-raise-80-120-million-6987951.html/amp",
-      "publishedDateTime": "2021-06-04T02:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "moneycontrol.com",
-        "domain": "moneycontrol.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }
