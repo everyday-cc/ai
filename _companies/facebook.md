@@ -2,7 +2,7 @@
 name: "Facebook"
 overview: "Our mission is to give people the power to build community and bring the world closer together."
 type: "profile"
-heat: 286
+heat: 275
 
 website: https://www.facebook.com
 
@@ -41,6 +41,6 @@ images:
     height: 400
     title: "logo"
 
-secured: "zvhtI1rFpHcAn2my7igCg9JFBOghj/1gwn2OVlWaS24HjuNW7COEVuhOV2gb96EHUQAJ9J0Vox4CPA+nI7nlLshNe70Brtm71tIZDwcYycVfUepixjNjl3h64s6U9y9Q9jDCxT0hnxKC20r64kj2aH65at71tcJBi+v/N/40RUTwpvDRFsKhJapHjHLfWCM2psoE2jQid9RkBjbFZh75dmuO/jSjNJ8oUIXq5Apkj1FO5zhoMvy8J+x27xIeGWIA2eFpEOZ2AmXllYz6VxM+gxyJWTtgWsM4I6x1UN/1hkqQBn3SKh9Q+deYDNInrTfqFYXLUqUPlJ1Fgatr7kA2rRLhpGfetvz14eHb/G7D3iF+ZXnOafqieqv+cY44XSgQq9AAkWI8kr48RfVewTqpVK9X9xpvWvw4ClPECsnE9ZI=;X7dFFBzimAj0yGKXYZTfSA=="
+secured: "zlpnClXq8KcDPJBWMmz93XiY0lLVA0hF0BnWn9ungGZJ+c5VDBpDw9hsCSMD4jlvb2b0ZDhuHBmkhzlO9VZhNv3h09a3vB3m211yMiYV4GCd2LtsTOYr9xdsZ31BeTOcsyr8m+SZRAhCnKNFvntRv05jhvMVcFABTFlcU8U5gBgqkrsXWJIbr7fAtf7wpBoxa2dyUfvm734UlWlc0zj/Js1kUYourL08kfubJGd8TMb0YlOZ5Cf7iTvDCNQvfpHIhGz//NKmJ9FkJinP3Sf2lYR+jiNdjWgC1VdLlpGkuGDtqxZVpAOoeySj41FvdvukfHDUMOCCjYMOOAA29lwf1fZtaxfEL51F0oE0w0VXFr12GM+Yb0IO8+VS5jIp0VrDGJKHQuE/6XNjh3hzY25Rf6WdO4G6BXIfgchtoFYkpnM=;0OiC678QIkPKBE/fZSRllA=="
 ---
 
