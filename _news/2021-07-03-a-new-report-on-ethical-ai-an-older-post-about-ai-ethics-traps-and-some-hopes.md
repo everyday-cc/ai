@@ -41,20 +41,6 @@ related:
         width: 1200
         height: 692
         isCached: true
-  - title: "WHO: 6 principles to using AI in healthcare ethically"
-    excerpt: "The World Health Organization released a guide for how to use artificial intelligence in healthcare settings with guidance from ethics, human rights and tech experts, according to a June report. Here are six principles for ethical use of AI: The use of AI shouldn't undermine provider decision-making."
-    publishedDateTime: 2021-06-29T21:02:00Z
-    webUrl: "https://www.beckershospitalreview.com/artificial-intelligence/who-6-principles-to-using-ai-in-healthcare-ethically.html"
-    type: article
-    provider:
-      name: Becker's Hospital Review
-      domain: beckershospitalreview.com
-    quality: 71
-    images:
-      - url: "https://www.beckershospitalreview.com/images/channels/artificial-intelligence/3.jpg"
-        width: 400
-        height: 300
-        isCached: true
 
 secured: "Dc8s9nCfWBbs42ceRy3CiGAke1C8B7keoHUPI1iVacrsA9YZJWPWK033pIvQ8X75NT9ayQK13sOMT92PvoGL6uMbwB1M9fIeYiOVE5xlOsQIurzrQJZIXiRZSInqrE3aT6fI4AyBqltQ7CY/5OR9KTvdm+xiBBOp40Uu+/bdwfjqDoT4658BQBkf+Y/oIRAZwPPTuGoAyMcm6D1GyR3+7KRhOotNqvDW+5jiH0FUvumEd6T812gvdBz7mozbfGNk8bNJT6uX6zQ4+MirPsv6QvRKgd0zvzj/lTUiLbWvadg7234U2pxRU2pLUQgiWxgqnRiMbU9lyRMk4jYha1Bmu4mLIcc1XENsXGQ5/iTMfExAx6viSyU3TIWx1R144+y8wyFlaYp7PNu27zJ5XyX1c7nRcRt13GQ6FynKq3E2pSJboOZi1g/iCyEY2uuu3fLqjpalIB5XHEFK6fVFafUPy0wpJ+nVtywGWkKiXxGIHBpVAZ/nj7dkzZUli4HCOmS+WSw3kw9KjCeF1jXw8NqgRw==;yxRMmCJtAtDfry4mG53Myw=="
 ---

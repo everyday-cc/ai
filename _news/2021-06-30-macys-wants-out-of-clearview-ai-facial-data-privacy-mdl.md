@@ -21,35 +21,21 @@ topics:
   - AI
 
 related:
-  - title: "AI’s Role In The Future Of Data Privacy"
-    excerpt: "People’s personal data has been lost, stolen, exposed, and hacked. Unfortunately, this trend isn’t new and can cost companies an average of $3.86 million per breach, not to mention the harm to the users themselves."
-    publishedDateTime: 2021-07-02T21:10:00Z
-    webUrl: "https://www.forbes.com/sites/anniebrown/2021/07/02/ais-role-in-the-future-of-data-privacy/"
-    ampWebUrl: "https://www.forbes.com/sites/anniebrown/2021/07/02/ais-role-in-the-future-of-data-privacy/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/anniebrown/2021/07/02/ais-role-in-the-future-of-data-privacy/amp/"
+  - title: "A Government Watchdog May Have Missed Clearview AI Use By Five Federal Agencies In A New Report"
+    excerpt: "In a government accountability report about facial recognition, five federal agencies said they didn't use Clearview AI. Data reviewed by BuzzFeed News suggests they should have."
+    publishedDateTime: 2021-06-30T23:00:00Z
+    webUrl: "https://www.buzzfeednews.com/article/carolinehaskins1/gao-facial-recognition-report-clearview-federal-agencies"
+    ampWebUrl: "https://www.buzzfeednews.com/amphtml/carolinehaskins1/gao-facial-recognition-report-clearview-federal-agencies"
+    cdnAmpWebUrl: "https://www-buzzfeednews-com.cdn.ampproject.org/c/s/www.buzzfeednews.com/amphtml/carolinehaskins1/gao-facial-recognition-report-clearview-federal-agencies"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
+      name: BuzzFeed News
+      domain: buzzfeednews.com
+    quality: 75
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60df804c62086a5727aa4e5b%2F0x0.jpg"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Explainable AI, the future of financial services"
-    excerpt: "As technology becomes more advanced, it can become harder to understand. Some may accept not fully understanding the ins and outs of a technology if it makes new or better things possible, but not being able to fully understand how a technology works can bring about its own problems."
-    publishedDateTime: 2021-06-30T05:01:00Z
-    webUrl: "https://paperjam.lu/article/explainable-ai-the-future-of-f"
-    type: article
-    provider:
-      name: paperJam
-      domain: paperjam.lu
-    quality: 39
-    images:
-      - url: "https://assets.paperjam.lu/images/articles/explainable-ai-the-future-of-f/0.5/0.5/600/400/414770.jpg"
-        width: 1199
-        height: 800
+      - url: "https://img.buzzfeed.com/buzzfeed-static/static/2020-10/30/21/tmp/d6a72259c415/tmp-name-2-250-1604095037-13_dblbig.jpg"
+        width: 625
+        height: 415
         isCached: true
 
 secured: "XkCxASmLTld99FQA/j4McWfdNwBqVdw4tr5Ie+DIbfgc+HvTYPnrg44y2XtousO9ZJP0qHvyym0+eHyG88getQxj6x6WO9ktMawelZKV2lVeERorABzKrMSOq1XuDUWRu501B4ZA2JcRe2FLAc6WIuAgDZrmumtW8AvVJ6sP3o/TzOCpvrUj8fvvUg5MXhm5SmjWhvIjKCwnz1QkMG1K9de0MW8SV3As0veDNV9UjdWPi7dboMupYGFyCM3+2XDVzS/M9QeluA3IiLpwHt61hZFcFFrkAgj9w7UawXfYI8JJebAgQ4kVWkLszqjPlJoPv30ejMEMLGpU/2N16y8Lq2Eu3OrgDIjU03GcoU6Ptb8=;pA5Hq1N78E3Yhx9Lzpo5Zg=="

@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/2021/06/29/github-launches-copilot-to-powe
 webUrl: "https://copilot.github.com/"
 type: article
 quality: 167
-heat: 227
+heat: 207
 published: true
 
 provider:
@@ -28,22 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Microsoft brings AI to GitHub to create a smart programing Copilot tool"
-    excerpt: "... Azure and codeveloping with MIcrosoft new Azure AI supercomputing technologies. Earlier this year, Microsoft announced plans to make coding \"in plain English\" easier by integrating OpenAI's GPT-3 AI model with Microsoft's PowerFx low code language."
-    publishedDateTime: 2021-06-29T19:56:00Z
-    webUrl: "https://www.zdnet.com/index.php/recent/index.php/article/microsoft-brings-ai-to-github-to-create-a-smart-programing-copilot-tool/"
-    ampWebUrl: "https://www.zdnet.com/index.php/recent/index.php/google-amp/article/microsoft-brings-ai-to-github-to-create-a-smart-programing-copilot-tool/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/recent/index.php/google-amp/article/microsoft-brings-ai-to-github-to-create-a-smart-programing-copilot-tool/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 104
-    images:
-      - url: "https://www.zdnet.com/a/hub/i/2021/06/29/bd54eff3-c9c7-4cf0-b714-606d46cc4cc7/githubcopilot.jpg"
-        width: 1199
-        height: 478
-        isCached: true
   - title: "GitHub introduces an AI pal to help you code better"
     excerpt: "GitHub is already one of the most popular platforms to build and host coding projects. Last year, it launched a built-in Integrated Development Environment to let you code directl"
     publishedDateTime: 2021-06-30T06:00:00Z
@@ -87,20 +71,6 @@ related:
       - url: "https://www.siliconrepublic.com/wp-content/uploads/2021/06/Coding.jpeg"
         width: 800
         height: 600
-        isCached: true
-  - title: "GitHub’s new Copilot programming assistant uses AI to generate code"
-    excerpt: "Microsoft Corp.’s GitHub unit today debuted a tool called Copilot that uses an artificial intelligence model based on OpenAI’s powerful GPT-3 algorithm to write software code automatically. Developers write code in specialized editors called integrated development environments that provide many time-saving features."
-    publishedDateTime: 2021-06-29T21:00:00Z
-    webUrl: "https://siliconangle.com/2021/06/29/githubs-new-copilot-programming-assistant-uses-ai-generate-code/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 39
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/06/GitHub-Copilot_blog-header.png"
-        width: 1536
-        height: 806
         isCached: true
   - title: "Will AI Replace Developers? GitHub Copilot Revives Existential Threat Angst"
     excerpt: "Let's see the question we're all wondering ... can this replace our jobs?' said a Reddit reader commenting on the site's thread for GitHub Copilot, an 'AI pair programmer' unveiled as a technical preview this week."

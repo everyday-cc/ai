@@ -28,6 +28,29 @@ related:
       name: Techinasia
       domain: techinasia.com
     quality: 34
+  - title: "FINBOA Named 2021 TAG FinTech ADVANCE Award Winner"
+    excerpt: "FINBOA, Inc., a leading innovator in digital automation and regulatory compliance for financial institutions, was recently selected as a 2021 TAG FinTech ADVANCE Award winner by the Technology Association of Georgia (TAG),"
+    publishedDateTime: 2021-06-30T11:53:00Z
+    webUrl: "https://www.lelezard.com/en/news-19881675.html"
+    type: article
+    provider:
+      name: Le Lézard
+      domain: lelezard.com
+    quality: 24
+    images:
+      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
+        width: 640
+        height: 480
+        isCached: true
+  - title: "3 fintech trends that are transforming the future of business"
+    excerpt: "Here are three emerging trends in fintech that businesses should be aware of in order to best protect themselves against the inherent risks of digitization of operations, products and services."
+    publishedDateTime: 2021-07-01T05:00:00Z
+    webUrl: "https://www.bizjournals.com/dallas/news/2021/07/01/3-fintech-trends-that-are-transforming-the-future.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 4
 
 secured: "5/bDw7uKLTRCyeY8BXktdjhPUW9emGowOUi3VDeQt/SlY9Gvr8lNZ7DVuh8qd3I5T/M198oMQMTU6Hlv2+ChIHKysAVtMS+GhLiHffym3npjDNVmX+VSx5t1cWKL+avkenZLqJCwYmClJsCGclEv7VZy+T1/VxlyH9jZ3d2kP/G9rNuX9AtZcyf9t6xEJuazll17fr13TsFA2BKBww4YcDQC7N3uPWkFex83AWoXp4SVcl/C4PCNq0dMBYdE0T/qeOk0/9L1R/lVhud88pV1YagnFUxFU/OPBkEmkyEMsFnhZA8ynxxavHh8D7u/j3oEgv9mitk8n5cmDJGLdjXGh9BHZb3iUqtd8UuqIC6AKRI=;CjiGzj5ErGDI1qqWHMZvoQ=="
 ---

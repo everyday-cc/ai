@@ -2,21 +2,21 @@
 category: news
 title: "AI-powered Recruiting Startup TopFunnel Announces Acquisition of Referral-Based Company Teamable to Offer End-to-End Sourcing Platform"
 excerpt: "TopFunnel, the AI-powered recruiting startup that high-growth companies use to scale, today announced the acquisition of Teamable to supercharge referral-based recruiting. Teamable is the employee referral platform that transforms social networks into high-performance talent pools."
-publishedDateTime: 2021-07-01T12:44:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-ai-powered-recruiting-startup-topfunnel-announces-acquisition-referral-/2021/07/01/9401861.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-ai-powered-recruiting-startup-topfunnel-announces-acquisition-referral-/2021/07/01/9401861.htm"
+publishedDateTime: 2021-07-01T07:31:00Z
+originalUrl: "https://www.morningstar.com/news/pr-newswire/20210701ph28669/ai-powered-recruiting-startup-topfunnel-announces-acquisition-of-referral-based-company-teamable-to-offer-end-to-end-sourcing-platform"
+webUrl: "https://www.morningstar.com/news/pr-newswire/20210701ph28669/ai-powered-recruiting-startup-topfunnel-announces-acquisition-of-referral-based-company-teamable-to-offer-end-to-end-sourcing-platform"
 type: article
 quality: 0
 heat: 0
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Morningstar, Inc.
+  domain: morningstar.com
 
 topics:
   - AI
 
-secured: "Xf7XyJGSx54cF5q/pR20lV+g2nM6GvKVg5s/4+gcLFxLOg0Ic0LMqCJ7diibZvKurClPzue3Yn25H/+ZBawSV5pp1wvLCQdk3nwpQs1UcTYE8sLQBsVv+2rvdht0H5DhYexl3QZDoZZ0l91/7/1yFKOH/Qg0caA99Dpf9sSQ37z5lYbVvCfWkO4Avrkuoy8nVNv9HjH1IO1UlhdOmYM/hfbeHFM7NaLXAkPE61pQkkbGpZU7GLsH9K5Vjf3cxngvgf9Y/ZO3ttTa2eY7Sl95iXflI7RWzl62zpYRveAU+VsrUqfDaWEbLLZTxrHExGhDk/E88LlkLMTemPlB1JdAD+WQ2pJogTg80FClgvGoCqo=;79gumd+KzMD2jy+eMhLX7w=="
+secured: "y6yCOcZgz1bBJJGe7cJmOP0r42SB+aGvaHw3BQwUsOu3tH6FZgXA+tgDfsBvP1awISYVu24MTt9cpO+iYKuZXEX/F4Ls5B9d49xygofEgWm+OJipUMgrXcs+FVClihH7f+hWWng7dMmiQfAMRbqGmjuJb5sG7+jkSdK4Qb5ysLaeVN3414jSlyeu1EGlrqK3dZnfjnxnQOeDnskrdhKI4eWe4IgqICkPjIw6+mg9hSAHAIi4EyBnxZT7+cLcV+CU9Dl7QLBDE8QHeo9OiAE4fpJx/KaNAM9zFC84fbRFX6bkAMw/WQzw++/55RvaD1l79RusLHcQ9YEhWjsIozv5O58VDEiqMh48Rv2HDrwesHE=;ogNCaatOwCIaLqF8Ucy11A=="
 ---
 

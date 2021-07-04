@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/06/30/ai-is-star
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/06/30/ai-is-starting-to-understand-us-but-how-well-do-we-understand-ai/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 87
 published: true
 
 provider:
@@ -28,24 +28,6 @@ images:
     width: 1200
     height: 800
     isCached: true
-
-related:
-  - title: "How do we get to a possible future with AI? Meet the AI Adoption Maturity Curve"
-    excerpt: "PROS Chief AI Strategist Dr. Michael Wu outlines a valuable maturity model for AI - something sorely needed as AI increasingly becomes a necessity and a commodity."
-    publishedDateTime: 2021-06-30T06:42:00Z
-    webUrl: "https://www.zdnet.com/index.php/article/how-do-we-get-to-a-possible-future-with-ai-the-ai-adoption-maturity-curve/"
-    ampWebUrl: "https://www.zdnet.com/index.php/google-amp/article/how-do-we-get-to-a-possible-future-with-ai-the-ai-adoption-maturity-curve/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/google-amp/article/how-do-we-get-to-a-possible-future-with-ai-the-ai-adoption-maturity-curve/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 83
-    images:
-      - url: "https://www.zdnet.com/a/hub/i/2021/06/30/0d5a3bde-72e0-46e3-b1b1-0b157d2c0036/michael-wu.jpg"
-        width: 449
-        height: 449
-        isCached: true
 
 secured: "okT5/2/3brinZuCbBnYiZLZ8DFLWtAiFUugG9ti9YxTSl6jayPCMrcKL/LVk2sQho16KCOts9xh2tJ3Vpl+rOW5G/acXe+Ss/Fu3jWuFsCHa/KE5Vrz7bI0qnyBBgy/cCRnGtK3NAXjSq9e7ni6R+9HA5y6Zdh/zvHAUOhymDvDRwdDEhb2GzfJonPEpa2h6wJXOc7kvOD/tJv7isJb2+diYlAsM6wSsw9bLgyVXX+1OKtsMnl6gGVvkz/n/Umxkur1LbkvNdXG1aLgCvSz7lhLIhdpaUHX+McHPjA39q7yRZgTtaAjgjgM5Y/ijGv3PJyovlhvBxABmr4A2v3xUmJpMljPaLK2rj17WeykJjv89uIkpoIUSwsJWJsg/0j2zvbEoW4+Ggqe5kPm+UxltEshyVUILMkmNwtX4Koyq0MiVebb4a7C+yGh7lX8VlMWC9gPOL4M7j+A9pMEgt6cfmJNyS5ODZuLUiyZcgG8VI07nNdZPb/cFA6No0vbokSHtCdv46iaKExdqDT0FA8vIcw==;WYNumWZusNyF0+JTbDFLyw=="
 ---

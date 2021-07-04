@@ -2,6 +2,49 @@
   "page": 72,
   "value": [
     {
+      "path": "_news/2021-05-12-superopsai-electorq-upswing-cognitive-hospitality-solutions-raise-funding.md",
+      "title": "SuperOps.ai, ElecTorq, Upswing Cognitive Hospitality Solutions raise funding",
+      "excerpt": "SuperOps.ai, a professional services automation and remote monitoring and management ... and Freshworks. Upswing Cognitive Hospitality Solutions, a predictive data solutions startup for the hospitality and travel industry, has raised an undisclosed ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.vccircle.com/superops-ai-electorq-upswing-cognitive-hospitality-solutions-raise-funding",
+      "originalUrl": "https://www.vccircle.com/superops-ai-electorq-upswing-cognitive-hospitality-solutions-raise-funding",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.vccircle.com/uploads/2019/08/FundingRF.jpg",
+          "width": 810,
+          "height": 506,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-12T02:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VCCircle",
+        "domain": "vccircle.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-12-empiricai-secures-a-new-distribution-agreement-with-qed-to-provide-computer-vision-ai-solution-to-the-uk-and-european-markets.md",
       "title": "EmpiricAI secures a new distribution agreement with QED to provide computer vision AI solution to the UK and European markets",
       "excerpt": "EmpiricAI has secured a major new distribution agreement with electronic security distributor QED, its’ first UK partner, that will see its innovative computer vision AI (Artificial Intelligence) solution offered across the UK and Europe. The ...",
@@ -1100,40 +1143,6 @@
         "Natural Language Processing",
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-05-12-aico-flashbrands-ai-based-coach-supports-employees-mental-health-and-career-path.md",
-      "title": "AICO, Flashbrand’s AI-based Coach, Supports Employees’ Mental Health and Career Path",
-      "excerpt": "Flashbrand, a leading-edge, real-time employee talent management solution, unveils “AICO,” a unique AI-based professional coach for all employees.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businesswire.com/news/home/20210511005521/en/AICO-Flashbrand’s-AI-based-Coach-Supports-Employees’-Mental-Health-and-Career-Path",
-      "originalUrl": "https://www.businesswire.com/news/home/20210511005521/en/AICO-Flashbrand’s-AI-based-Coach-Supports-Employees’-Mental-Health-and-Career-Path",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-11T13:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

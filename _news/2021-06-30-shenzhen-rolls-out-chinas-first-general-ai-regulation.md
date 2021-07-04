@@ -43,20 +43,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Shenzhen May Soon Allow Mostly Self-Driving Cars"
-    excerpt: "The southern Chinese city of Shenzhen is close to enacting the country’s first legislation allowing intelligent connected vehicles including autonomous cars. The city’s legislative body conducted a second review Monday of draft rules on the administration of intelligent connected vehicles and will hold a third review in August before the measure becomes law,"
-    publishedDateTime: 2021-06-29T20:37:00Z
-    webUrl: "https://www.caixinglobal.com/2021-06-30/shenzhen-may-soon-allow-mostly-self-driving-cars-101733951.html"
-    type: article
-    provider:
-      name: Caixin Global
-      domain: caixinglobal.com
-    quality: 24
-    images:
-      - url: "https://img.caixin.com/2021-06-30/1624998895659846_560_373.jpg"
-        width: 560
-        height: 373
-        isCached: true
 
 secured: "utHvNnVBGamt0FgKzBYZ73i9jhqLh6fIhfv8EW9Wa4g/A+AeBa4XyYllDTmAc4H5IRtqYOixst7H7QoIyEjslzX5eDymvTVDJ/gZ/fDuLwfM6y3wWilBFKRYSQMvFtZJuhVMUitlyNeKdoyHrsV0ANBUc7FpXLBFkDAWtFh76uUchPrY7Yi2z2TOhpmVD/d7z+B87j2sHqPtvIyoRgGtv7ufbt0IPnyf4mwy0ZRLBJAD1tjaQI69qD6rLrc6UfLtRFnYt2csbmutfWwxTX9pTWVJeWeuY1Whey4CMbUbfeB7y+vHthzYwsCzgPkT9PBP5b/UngutUkFj9AHL/aYWFNzSjuQ6No7KJIbJqFNB2xk=;rLZxwZQ51kSzpqF/kQRjUw=="
 ---

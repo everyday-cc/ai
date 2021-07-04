@@ -79,22 +79,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Big Tech car race means self-drive or be driven out"
-    excerpt: "The world’s top 10 carmakers had an operating margin of only 5.2% in 2020, a fraction of the 34% enjoyed by the tech industry’s leaders, data compiled by Bloomberg show. But for Apple and other big groups diving into self-driving tech or with grand plans for their own cars,"
-    publishedDateTime: 2021-07-01T03:05:00Z
-    webUrl: "https://www.businesslive.co.za/bd/life/motoring/2021-07-01-big-tech-car-race-means-self-drive-or-be-driven-out/"
-    ampWebUrl: "https://www.businesslive.co.za/amp/bd/life/motoring/2021-07-01-big-tech-car-race-means-self-drive-or-be-driven-out/"
-    cdnAmpWebUrl: "https://www-businesslive-co-za.cdn.ampproject.org/c/s/www.businesslive.co.za/amp/bd/life/motoring/2021-07-01-big-tech-car-race-means-self-drive-or-be-driven-out/"
-    type: article
-    provider:
-      name: businesslive.co.za
-      domain: businesslive.co.za
-    quality: 44
-    images:
-      - url: "https://lh3.googleusercontent.com/AR_OnXCkSL1O7IW12HaadfRhStbIVyvORsvOGR-22OJ4PEZcjN_GIwNqKqk2wiNoiNPG1tyh5aa-zakmCICqzL_JbRrWMe1JlvYU-mS1AS4Nyg=s1000"
-        width: 1000
-        height: 668
-        isCached: true
   - title: "Why aren’t we all riding in self-driving cars by now?"
     excerpt: "Some analysts predicted there would be ten million self-driving cars on the road by 2020, while others suggested we would all become permanent back-seat drivers. Addison Lee claimed it would get self- driving taxis into London by 2021 but it hasn’t happened – travelling from point A to point B still requires someone at the wheel."
     publishedDateTime: 2021-07-02T09:46:00Z

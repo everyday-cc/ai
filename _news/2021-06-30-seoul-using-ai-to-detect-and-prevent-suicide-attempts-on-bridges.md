@@ -1,32 +1,28 @@
 ---
 category: news
-title: "Seoul using AI to detect and prevent suicide attempts on bridges"
+title: "Seoul Using AI to Detect and Prevent Suicide Attempts on Bridges"
 excerpt: "Is the young woman in the summer dress just admiring the view off the bridge? That is the question South Korean researchers and the emergency services are working to answer using artificial intelligence to detect and prevent suicide attempts."
-publishedDateTime: 2021-06-30T11:50:00Z
-originalUrl: "https://www.reuters.com/world/asia-pacific/seoul-using-ai-detect-prevent-suicide-attempts-bridges-2021-06-30/"
-webUrl: "https://www.reuters.com/world/asia-pacific/seoul-using-ai-detect-prevent-suicide-attempts-bridges-2021-06-30/"
+publishedDateTime: 2021-06-30T12:52:00Z
+originalUrl: "https://www.usnews.com/news/world/articles/2021-06-30/seoul-using-ai-to-detect-and-prevent-suicide-attempts-on-bridges"
+webUrl: "https://www.usnews.com/news/world/articles/2021-06-30/seoul-using-ai-to-detect-and-prevent-suicide-attempts-on-bridges"
+ampWebUrl: "https://www.usnews.com/news/world/articles/2021-06-30/seoul-using-ai-to-detect-and-prevent-suicide-attempts-on-bridges?context=amp"
+cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/world/articles/2021-06-30/seoul-using-ai-to-detect-and-prevent-suicide-attempts-on-bridges?context=amp"
 type: article
 quality: 67
 heat: 67
 published: false
 
 provider:
-  name: Reuters
-  domain: reuters.com
+  name: U.S. News & World Report
+  domain: usnews.com
   images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg"
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - AI
 
-images:
-  - url: "https://www.reuters.com/resizer/Y86IsGFgh1MuJkns2M8qXJsXbOE=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/ZK4DLWI33BLB5FNVIPEWZS5RG4.jpg"
-    width: 1200
-    height: 628
-    isCached: true
-
-secured: "OjvbogFFSoLagXIwRlS+l3/7SO2LJsJUxHTJGdvBObKeMUcvter4yMs6F4HSf88bgQcUBnFtsiGef6rPZO9h2wZ7L3If2y1t3myj3I/OHdOzsvuRgQSE/4dLPKRWPuGBqK3cxMod4RMAKSM5KOgAoNLiaNnNH6i/WkxjFPobq/pwiZHNyP4UxPWn7srsOOZTOZsdCLihJVBPm1h3GYioXJITS1qDgTwBTUMQkuPjjE5v8VkVWwyGnQLX9ikL18cQmsMDcSRklUt4IL1lBM30wydSTya41FAMCo7vuxgCinE9gQ6b/TiV5NBGRbmw8d/CC1f18ZyZi9StE+3xwVH8TJBvv/0LcK+w0JGFMqqJPmc=;l5ziuLM//Wpfp7C3TOakCA=="
+secured: "ZnJon9IZ4yd/w6odGj5IAYsLzKI9QBXHatz6R7kP3u+YPsHv/0D0YBe3pquOPJ1f30d6J/TcNmw2tZJgn4pzqeWpufIagrNABEMeL8d0/ZuhpTfqyEMqzfeJU0xA7bIHSHa33E6hCCV0JWQ5/QQEgr0ui5KHeaTJuTXe1y2Jon7/q04ODfI2CXmDhHffxvFXML4vKT3Jn7TwN7SIkctM3rxFqTGQxrSoGZXpDbKItF7NQnF4zOblF/R25PZ1UMO9yWq8Cauds1JWEhl2lBxey6WEpQDKghltXsXzvvsJLrEhSo4xLkFUok9OeDS5B8tUh5xIgjWGlxtF0Nm3pjY//bIiazUq/I0sPtIV8X9gM5ouXW4mvdX7MiDMJuhd4Dj4O8Inku1lTk4hcGzYYjKTSkdqW40R7b3eYS0x3aCH0XV1tAd5QOB+bJE2BaGZeWcdcw9EQ+K+YYlbyP38svPsqtQBH+rM05OsGS6xcDs/tuE79kjw9n/K5yIK/pHmZuXEiObfi6IzMoUGP9N/JnLK8g==;n35cQNbpVXJUXJqbSKwr0Q=="
 ---
 

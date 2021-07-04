@@ -39,6 +39,20 @@ related:
         width: 1146
         height: 644
         isCached: true
+  - title: "Tyson Ventures invests in AI-powered processing robotics"
+    excerpt: "Tyson Ventures, the venture capital arm of Tyson Foods, participated in a $10 million funding round to help bring an artificial intelligence robotics solution designed to automate poultry processing to market."
+    publishedDateTime: 2021-07-01T18:24:00Z
+    webUrl: "https://www.wattagnet.com/articles/43150-tyson-ventures-invests-in-ai-powered-processing-robotics"
+    type: article
+    provider:
+      name: WATTAgNet
+      domain: wattagnet.com
+    quality: 69
+    images:
+      - url: "https://www.wattagnet.com/ext/resources/2021/07/01/soft-robotics.jpg?height=635&t=1625163975&width=1200"
+        width: 700
+        height: 331
+        isCached: true
   - title: "Tyson Ventures, ABB invest in Soft Robotics $10 million funding round"
     excerpt: "Tyson Foods joined ABB Technology Ventures, Tekfen Ventures and three other venture capital firms to invest a combined $10 million into Soft Robotics, to further the tech companies work"
     publishedDateTime: 2021-06-29T22:28:00Z

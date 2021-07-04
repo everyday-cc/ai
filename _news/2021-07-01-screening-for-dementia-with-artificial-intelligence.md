@@ -7,7 +7,7 @@ originalUrl: "https://www.eurekalert.org/pub_releases/2021-07/msu-sfd070121.php"
 webUrl: "https://www.eurekalert.org/pub_releases/2021-07/msu-sfd070121.php"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,17 +25,17 @@ images:
     isCached: true
 
 related:
-  - title: "The future of online shopping gets real with AI and machine learning"
-    excerpt: "Learn how AI and machine learning have starring roles in the future of online shopping and what retailers need to do to adapt."
-    publishedDateTime: 2021-07-01T05:05:00Z
-    webUrl: "https://www.the-future-of-commerce.com/2021/07/01/future-of-online-shopping-ai-and-machine-learning/"
+  - title: "AI works best with humans, not for humans"
+    excerpt: "Fleets are finding that artificial intelligence and other predictive analytics are helping humans make more informed and faster decisions, making them more productive and profitable."
+    publishedDateTime: 2021-07-01T14:55:00Z
+    webUrl: "https://www.fleetowner.com/technology/autonomous-vehicles/article/21168672/ai-works-best-with-humans-not-for-humans"
     type: article
     provider:
-      name: Future
-      domain: the-future-of-commerce.com
-    quality: 54
+      name: Fleet Owner
+      domain: fleetowner.com
+    quality: 37
     images:
-      - url: "https://www.the-future-of-commerce.com/wp-content/uploads/2021/06/Future-of-Online-shopping_1200x375-1200x630.jpg"
+      - url: "https://base.imgix.net/files/base/ebm/fleetowner/image/2021/07/16x9/dreamstime_l_172987598.60ddc8098dea9.png?auto=format&fit=fill&fill=blur&w=1200&h=630"
         width: 1200
         height: 630
         isCached: true

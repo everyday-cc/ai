@@ -24,6 +24,22 @@ images:
     height: 480
     isCached: true
 
+related:
+  - title: "Big Tech's car obsession all about taking eyes off the road"
+    excerpt: "And Big Tech has the means — from artificial intelligence and massive data, to chipmaking and engineering — to disrupt this century-old industry. What’s at stake, essentially, is something even more valuable than profitability: the last unclaimed corner of consumers’ attention during their waking hours."
+    publishedDateTime: 2021-07-04T12:00:00Z
+    webUrl: "https://www.news-journal.com/news/business/big-techs-car-obsession-all-about-taking-eyes-off-the-road/article_c949b264-dad1-11eb-a935-9b686ccd1522.html"
+    type: article
+    provider:
+      name: Longview News-Journal
+      domain: news-journal.com
+    quality: 24
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/news-journal.com/content/tncms/assets/v3/editorial/1/59/159fa98e-dad2-11eb-87ce-93101c9dd1d3/60de6754aa65c.image.jpg?resize=944%2C630"
+        width: 944
+        height: 630
+        isCached: true
+
 secured: "Xbez+yR4z55YUS3xKQ8vboYJcWlmSn0cYmnV3il6IZ+rVO6BLwgIks0sApponcScYG809U7Gfn7lPHaAPnCvMQqHNBsWYMQMZtBLExFZvmbfJyNCfvrEj+sFO6xvHzFWPXsWeSmpMbF63/W85WV/hG8/vm6KLhJ5+GwkHKd6Pg5aiMMgPthhJfwOOg+YGjTEc1OfTJpWosbfdeZcsnSEnhnI9WHMsGLnxC/gFRhBJkOWZL8OblIxviOsFP2FF+0mae3rSjP0XpZ7YIO5dIgx3QV5LcXn7kJN03lZDXPtHuW3Bf7wPbk9Zgl7ow/Vkq8UzBKgBF1tSiWgp0qdWIvMGE1qNHXXc+W+CFABpLM5Doo=;NF7C+daP8oUg6V5cZuCJeA=="
 ---
 

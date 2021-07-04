@@ -39,6 +39,15 @@ related:
         width: 2560
         height: 1707
         isCached: true
+  - title: "Data, AI and the incredible impact of meaningful customer experiences"
+    excerpt: "A great customer experience is defined not by what you offer, but by how well you enable your customers to achieve the outcomes most important to them."
+    publishedDateTime: 2021-07-02T17:44:00Z
+    webUrl: "https://www.bizjournals.com/triangle/news/2021/07/02/data-ai-and-the-incredible-impact-of-meaningful.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 17
 
 secured: "IVFifqfcpaba4aJA4C48+BG+nU3tFT07csm0a1sjkJ4K67F4bS7ROZiaLlyc0jbkQapRP76Ak1h83fvT3lMYCzsUYfqOzjzQMNyUNIM0cc+h3TvSfLayvHmF1cdHTLLwlE/NxkfO+Ojtb7wBP/sG/eBRo7IvRZBArffpjU1Z47IM0nmnohULdwT8FvUaLyy55otJItANLcEMEt0ezunxF4Qe1CeH+suLMfjv+tXf58EG5uYCxrFJ2R6scWCc5dHoyaAr+qhSINVCYVKFIOqWVvY9wfypwV/jYUhS4+tsBPWXQGSdeySE5fA8YN3+y6Nu3XXQqvXEtX1Ok2i/kgO4kwZZK1oqQ/fjM104RePn3R6Gdjn3N+tntRUhOU3NeHv/cTPx1AL5gHgXC0oadxOegnTQOsblvFsi6CiDmfYYihUtKuLOvupAawxJtQabHtXjZ6yBZVUW6yxQ6KlfuXSp6CiilHSDRufBukdHbzhCh7BjTrBGbGTvuMcPfvWYuTN23VMm0/9xXsYTnn3alGe3aA==;9ETSbfyzh/m9YwVhLDDdmA=="
 ---
