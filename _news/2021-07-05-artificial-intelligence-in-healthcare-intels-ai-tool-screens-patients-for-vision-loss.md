@@ -8,8 +8,8 @@ webUrl: "https://www.financialexpress.com/industry/technology/artificial-intelli
 ampWebUrl: "https://www.financialexpress.com/industry/technology/artificial-intelligence-in-healthcare-intels-ai-tool-screens-patients-for-vision-loss/2283014/lite/"
 cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/industry/technology/artificial-intelligence-in-healthcare-intels-ai-tool-screens-patients-for-vision-loss/2283014/lite/"
 type: article
-quality: 81
-heat: 111
+quality: 85
+heat: 115
 published: true
 
 provider:
@@ -19,6 +19,8 @@ provider:
 topics:
   - AI
   - AI in Healthcare
+  - Google AI
+  - AI in Robotics
 
 images:
   - url: "https://images.financialexpress.com/2021/07/1-70.jpg"

@@ -2,6 +2,49 @@
   "page": 79,
   "value": [
     {
+      "path": "_news/2021-05-06-dyno-raises-100-million-to-bring-artificial-intelligence-to-gene-therapy.md",
+      "title": "Dyno raises $100 million to bring artificial intelligence to gene therapy",
+      "excerpt": "Dyno Therapeutics, which uses artificial intelligence techniques to develop gene therapies, has raised $100 million from investors.",
+      "sourceUrl": null,
+      "webUrl": "https://www.statnews.com/2021/05/06/dyno-raises-100-million-to-bring-artificial-intelligence-to-gene-therapy/",
+      "originalUrl": "https://www.statnews.com/2021/05/06/dyno-raises-100-million-to-bring-artificial-intelligence-to-gene-therapy/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.statnews.com/wp-content/uploads/2020/08/AdobeStock_287945965-1024x576.jpeg",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-06T08:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "STAT",
+        "domain": "statnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-06-lightmatters-photonic-ai-ambitions-light-up-an-80m-b-round.md",
       "title": "Lightmatter’s photonic AI ambitions light up an $80M B round",
       "excerpt": "AI is fundamental to many products and services today, but its hunger for data and computing cycles is bottomless. Lightmatter plans to leapfrog Moore’s law with its ultra-fast photonic chips specialized for AI work,",
@@ -1112,49 +1155,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-06-understanding-self-supervised-learning-in-machine-learning.md",
-      "title": "Understanding Self-Supervised Learning in Machine Learning",
-      "excerpt": "Teaching machines how to learn is the basis of self-supervised learning. Source: iStock/Design Circle Self-supervised learning (SSL) is gaining a larger foothold in the world of machine learning (ML).",
-      "sourceUrl": null,
-      "webUrl": "https://www.techopedia.com/understanding-self-supervised-learning-in-machine-learning/2/34480",
-      "originalUrl": "https://www.techopedia.com/understanding-self-supervised-learning-in-machine-learning/2/34480",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "http://images.techopedia.com/images/uploads/self-supervised-learning.jpg",
-          "width": 800,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-05T17:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Techopedia",
-        "domain": "techopedia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

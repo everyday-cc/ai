@@ -2,6 +2,58 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2021-06-24-be-human-first-the-robot-proof-human-trifecta.md",
+      "title": "Be Human First: The Robot-Proof Human Trifecta",
+      "excerpt": "The \"human trifecta\" refers to having a liberal arts foundation and building on it with design thinking and entrepreneurial mindsets.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/06/24/be-human-first-the-robot-proof-human-trifecta/",
+      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/06/24/be-human-first-the-robot-proof-human-trifecta/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60d358a5882e2674341bfd4c%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/06/24/be-human-first-the-robot-proof-human-trifecta/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2021/06/24/be-human-first-the-robot-proof-human-trifecta/amp/",
+      "publishedDateTime": "2021-06-24T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-24-deep-learning-system-market-valuation-by-size-share-growth-trend-drivers-and-restraint-2020-2028.md",
       "title": "Deep Learning System Market Valuation by Size, Share, Growth, Trend, Drivers and Restraint 2020-2028",
       "excerpt": "The global deep learning system market size is expected to reach USD 93.34 Billion at a steady CAGR of 39.1% in 2028, according to latest analysis by Emergen Research. The deep learning system market is witnessing increased growth due to improvement in computing power and reducing hardware cost.",
@@ -1093,41 +1145,6 @@
       "topics": [
         "Computer Vision",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-23-cognitivescale-and-ascendum-to-accelerate-trusted-ai-deployments-for-healthcare-fintech-and-ecommerce.md",
-      "title": "CognitiveScale and Ascendum To Accelerate Trusted AI Deployments for Healthcare, Fintech and eCommerce",
-      "excerpt": "CognitiveScale, the enterprise AI company that helps organizations win with intelligent, transparent, and trusted AI powered digital systems, today announced it has partnered with Ascendum to deliver Trusted AI solutions for the healthcare,",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/-cognitivescale-ascendum-accelerate-trusted-ai-deployments-healthcare-fintech-/2021/06/23/9396326.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/-cognitivescale-ascendum-accelerate-trusted-ai-deployments-healthcare-fintech-/2021/06/23/9396326.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-23T06:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

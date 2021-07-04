@@ -1,29 +1,26 @@
 ---
 category: news
 title: "EyeTech Digital Systems Recognized by SIIA as Best Artificial Intelligence Solution in Healthcare"
-excerpt: "EyeTech Digital Systems' EyeOn platform has been named the 2021 Best Artificial Intelligence Solution in Healthcare as part of the annual"
-publishedDateTime: 2021-06-28T12:30:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/eyetech-digital-systems-recognized-by-siia-as-best-artificial-intelligence-solution-in-healthcare-301320430.html"
-webUrl: "https://www.prnewswire.com/news-releases/eyetech-digital-systems-recognized-by-siia-as-best-artificial-intelligence-solution-in-healthcare-301320430.html"
+excerpt: "EyeTech Digital Systems ′ EyeOn platform has been named the 2021 Best Artificial Intelligence Solution in Healthcare as part of the annual SIIA CODiE Awards. The CODiE Awards recognize companies producing the most innovative business technology products across the country and around the world."
+publishedDateTime: 2021-06-28T12:46:00Z
+originalUrl: "https://apnews.com/press-release/pr-newswire/artificial-intelligence-technology-90889e6221b2aed7f789007e4c6a8ae6"
+webUrl: "https://apnews.com/press-release/pr-newswire/artificial-intelligence-technology-90889e6221b2aed7f789007e4c6a8ae6"
 type: article
-quality: 41
-heat: 41
-published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI in Healthcare
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/1509178/EyeTech_Logo.jpg?p=facebook"
-    width: 2700
-    height: 1414
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
-secured: "YSBZN8gZJ1krH98IZYmH8RzjLR/8+EabXMYIcOQuxGHx1uvbWfBhLINisL3SeRr9mFHQ3H8mEc65gCKKps43nbxMWAyKFO/KnvP9lp02C4/yaS9Xbeng4rGd61pm18Ak0+QOUOIuZg2Z1pinaqGPgFtCZ3CgUsKw4Dvdt6d6JDZ8kS90MZ+lfPHSRaPDg9fmpfDDNBqjZDIhSkeTxlxzCrr3tXcF4gL7+Zwwlo2wRGUEsDuv0h6a9AYpujEn0Ub7rESnvNAEEQKov8vKa9067a3YKqbsZZbz1d2OTx+eslkGc/zk/9f7HyNGJAgO2CcDBKsr/nzqP+XdxT1/e7QaLv/+CTd4+xivfd221isYk+DzPklqDlJAgK8ZLSVXN62JJOES0IcmnIYNUix9T9IYa0eKTtJWI/1CvKAhvY9jPDpPzOOLMYPhaAwtgofuQcgKfichrNAM+s6zLTRbhCGrANh/aRD9ZqD/VOeFkZUEfkVZPtUpSpxcoQPcrxejhslGuiTFZSzEyf+3RhHsY54w/g==;1oLTviANFKucy84koDE7dA=="
+secured: "Xtth0UcEcz5Y3Hi4klnss5v+94P5hTKKWmI4IzRhWPVYhAh/80f6nGLh/QRqH2HRvpXDj4hg0f//lFLjFsqF8+Srw2J9sWqa4aaJeO8TxNoS7Hiujxb/wI7x7wjIuVfqBokuJbABOZKfUt8xskUwwr0ZyKHyhnzITdthVW71KNbii2rOeeenG3QychmSjtnIjENubYLo0vjN1OydwbfiGLqQk5SYplFkbCK3UqboI55S/xaup3X4TjnK4NIGyaA2zU11vIke5TUW6p3GPeMc1bMj+30P9LJQUuS7ElKbOjEyvu/2BffbtwKLYVUhxuVNQED1bMg1EDNJjxzjUjcpLHeismUv+p7cKgFclZBt9Hc=;tp0YglrY77DegIKkDvBoJw=="
 ---
 

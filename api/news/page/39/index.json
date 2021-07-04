@@ -2,6 +2,57 @@
   "page": 39,
   "value": [
     {
+      "path": "_news/2021-06-04-ai-health-app-babylon-plans-42-billion-spacand-push-into-us.md",
+      "title": "AI-Health App Babylon Plans $4.2 Billion SPAC—And Push Into U.S.",
+      "excerpt": "The growing market for virtual healthcare is heating up with telehealth app Babylon announcing Thursday that it is going public by merging with a special purpose acquisition company, or SPAC, that values the company at $4.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/graisondangor/2021/06/03/ai-health-app-babylon-plans-42-billion-spac-and-push-into-us/",
+      "originalUrl": "https://www.forbes.com/sites/graisondangor/2021/06/03/ai-health-app-babylon-plans-42-billion-spac-and-push-into-us/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60b915bf2d94bf703b936962%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1646%26cropY1%3D46%26cropY2%3D971",
+          "width": 1199,
+          "height": 674,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/graisondangor/2021/06/03/ai-health-app-babylon-plans-42-billion-spac-and-push-into-us/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/graisondangor/2021/06/03/ai-health-app-babylon-plans-42-billion-spac-and-push-into-us/amp/",
+      "publishedDateTime": "2021-06-03T10:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-04-neural-network-software-market-research-with-size-growth-key-players-segments-and-forecasts-analysis-2021-2027.md",
       "title": "Neural Network Software Market Research With Size, Growth, Key Players, Segments And Forecasts Analysis 2021-2027",
       "excerpt": "A neural network is a framework of hardware and software patterned after the operation of neurons in the human brain.",
@@ -1138,58 +1189,6 @@
       ],
       "topics": [
         "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-03-from-low-code-to-no-code-azure-gpt-3-and-microsofts-power-platform.md",
-      "title": "From low code to no code: Azure GPT-3 and Microsoft's Power Platform",
-      "excerpt": "Microsoft is turning low code into 'don't write code' by taking a description of what you want to do and writing code snippets for you.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/from-low-code-to-no-code-azure-gpt-3-and-microsofts-power-platform/",
-      "originalUrl": "https://www.techrepublic.com/article/from-low-code-to-no-code-azure-gpt-3-and-microsofts-power-platform/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techrepublic.com/a/hub/i/r/2021/06/03/5d7d019c-5b4d-4245-9a63-f4cdbf62dbd9/resize/1200x/9d2746c963e4d8f0c0f1939984e26709/tr-dax-smart-narrative.jpg",
-          "width": 1200,
-          "height": 662,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/from-low-code-to-no-code-azure-gpt-3-and-microsofts-power-platform/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/from-low-code-to-no-code-azure-gpt-3-and-microsofts-power-platform/",
-      "publishedDateTime": "2021-06-03T04:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

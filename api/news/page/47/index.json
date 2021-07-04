@@ -2,6 +2,49 @@
   "page": 47,
   "value": [
     {
+      "path": "_news/2021-05-28-telcos-back-artificial-intelligence-internet-of-things-for-5g-in-india.md",
+      "title": "Telcos back Artificial Intelligence, Internet of Things for 5G in India",
+      "excerpt": "Delhi-based COAI represents incumbent telcos as well as multinational next-generation technology vendors such as Nokia, Ericsson, Huawei, ZTE, Cisco, ..",
+      "sourceUrl": null,
+      "webUrl": "https://telecom.economictimes.indiatimes.com/news/telcos-back-artificial-intelligence-internet-of-things-for-5g-in-india/83032108",
+      "originalUrl": "https://telecom.economictimes.indiatimes.com/news/telcos-back-artificial-intelligence-internet-of-things-for-5g-in-india/83032108",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://etimg.etb2bimg.com/thumb/msid-83032108,imgsize-30418,width-800,height-434,overlay-ettelecom/telcos-back-artificial-intelligence-internet-of-things-for-5g-in-india.jpg",
+          "width": 800,
+          "height": 434,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://telecom.economictimes.indiatimes.com/amp/news/telcos-back-artificial-intelligence-internet-of-things-for-5g-in-india/83032108",
+      "cdnAmpWebUrl": "https://telecom-economictimes-indiatimes-com.cdn.ampproject.org/c/s/telecom.economictimes.indiatimes.com/amp/news/telcos-back-artificial-intelligence-internet-of-things-for-5g-in-india/83032108",
+      "publishedDateTime": "2021-05-28T01:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India Times",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-28-artificial-intelligence-can-help-doctors-manage-covid-19.md",
       "title": "Artificial Intelligence Can Help Doctors Manage COVID-19",
       "excerpt": "Artificial intelligence (AI) technology developed by researchers at the University of Waterloo is capable of assessing the severity of COVID-19 cases with a promising degree of accuracy. A study, which is part of the COVID-Net open-source initiative launched more than a year ago,",
@@ -1145,57 +1188,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-27-utah-dot-pilots-blyncsys-ai-powered-road-maintenance-technology.md",
-      "title": "Utah DOT pilots Blyncsy’s AI-powered road maintenance technology",
-      "excerpt": "If you drive past potholes and faded lane dividers on your morning commute to work, chances are you’ll continue to see such road blemishes until someone alerts the local department of transportation to the problem by filing a complaint.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/05/27/utah-dot-pilots-blyncsys-ai-powered-road-maintenance-technology/",
-      "originalUrl": "https://techcrunch.com/2021/05/27/utah-dot-pilots-blyncsys-ai-powered-road-maintenance-technology/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/05/1.png?w=1024",
-          "width": 1024,
-          "height": 575,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/05/27/utah-dot-pilots-blyncsys-ai-powered-road-maintenance-technology/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/05/27/utah-dot-pilots-blyncsys-ai-powered-road-maintenance-technology/amp/",
-      "publishedDateTime": "2021-05-27T09:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

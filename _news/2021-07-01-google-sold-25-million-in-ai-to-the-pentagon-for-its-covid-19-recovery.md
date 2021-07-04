@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/thomasbrewster/2021/07/01/google-sold-m
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/thomasbrewster/2021/07/01/google-sold-millions-in-ai-to-support-the-pentagon-covid-19-recovery/amp/"
 type: article
 quality: 188
-heat: 248
+heat: 238
 published: true
 
 provider:
@@ -74,20 +74,6 @@ related:
       - url: "https://helios-i.mashable.com/imagery/articles/00IMViIJXiaOEwUiTxrRqN5/hero-image.fill.size_1200x675.png"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Artificial Intelligence MARKET Market Size, Share, Industry Analysis, Growth COVID-19 Analysis and Forecast 2021-2030"
-    excerpt: "In a recent published report, Kenneth Research has updated the Artificial Intelligence MARKET report for for 2021"
-    publishedDateTime: 2021-06-30T04:49:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-market-size-share-industry-analysis-growth-covid-19-analysis-and-forecast-2021-2030-2021-06-30"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 46
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
         isCached: true
   - title: "New VA tool uses artificial intelligence to predict COVID-19 patient mortality"
     excerpt: "A new VA tool that processes data using artificial intelligence can predict mortality rates within 120 days of when a patient is diagnosed with COVID-19."

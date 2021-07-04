@@ -2,6 +2,48 @@
   "page": 32,
   "value": [
     {
+      "path": "_news/2021-06-09-programmers-lawmakers-want-ai-to-eliminate-bias-not-promote-it.md",
+      "title": "Programmers, Lawmakers Want AI to Eliminate Bias, Not Promote It",
+      "excerpt": "But as it has proliferated, studies have shown that AI can be biased against people of color. In housing, AI has helped perpetuate segregation, redlining and other forms of racial discrimination against Black families,",
+      "sourceUrl": null,
+      "webUrl": "https://www.pewtrusts.org/en/research-and-analysis/blogs/stateline/2021/06/09/programmers-lawmakers-want-ai-to-eliminate-bias-not-promote-it",
+      "originalUrl": "https://www.pewtrusts.org/en/research-and-analysis/blogs/stateline/2021/06/09/programmers-lawmakers-want-ai-to-eliminate-bias-not-promote-it",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.pewtrusts.org/-/media/post-launch-images/2021/06/ap_20079007012691/16x9_m.jpg",
+          "width": 1820,
+          "height": 1024,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.pewtrusts.org/en/research-and-analysis/blogs/stateline/2021/06/09/programmers-lawmakers-want-ai-to-eliminate-bias-not-promote-it?amp=1",
+      "cdnAmpWebUrl": "https://www-pewtrusts-org.cdn.ampproject.org/c/s/www.pewtrusts.org/en/research-and-analysis/blogs/stateline/2021/06/09/programmers-lawmakers-want-ai-to-eliminate-bias-not-promote-it?amp=1",
+      "publishedDateTime": "2021-06-09T04:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Pew Charitable Trusts",
+        "domain": "pewtrusts.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-09-breakthrough-concrete-artificial-intelligence-tool-to-debut-at-enr-futuretech-virtual-conference.md",
       "title": "Breakthrough Concrete Artificial Intelligence Tool to Debut at ENR FutureTech Virtual Conference",
       "excerpt": "Giatec®, the leader in concrete testing technology, is proud to debut the world's first concrete artificial intelligence",
@@ -1094,58 +1136,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-08-foundations-of-trustworthy-ai-how-mature-is-your-ai-governance.md",
-      "title": "Foundations of trustworthy AI: How mature is your AI governance?",
-      "excerpt": "As organizations scale their use of AI, they increasingly need to do so in a responsible and governed manner. This is driven by many complementary forces: brand reputation, anticipated regulations [1,2,3], AI complexity, and social justice. Each of these alone would merit the need for AI governance,",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blogs/watson/2021/06/ai-governance-maturity/",
-      "originalUrl": "https://www.ibm.com/blogs/watson/2021/06/ai-governance-maturity/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 139,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ibm.com/blogs/watson/wp-content/uploads/2021/06/blog_implement-governance_2000x1000.jpg",
-          "width": 2000,
-          "height": 1000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-08T08:30:49-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
         "AI"
       ]
     }

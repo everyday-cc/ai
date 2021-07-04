@@ -2,6 +2,59 @@
   "page": 76,
   "value": [
     {
+      "path": "_news/2021-05-10-microsoft-and-darktrace-partner-on-ai-enhanced-cloud-security.md",
+      "title": "Microsoft and Darktrace partner on AI-enhanced cloud security",
+      "excerpt": "Microsoft has announced a new partnership with Cambridge-based AI startup Darktrace that aims to provide AI -enhanced cyber security to organisations transitioning to the cloud. The collaboration will focus on addressing security challenges in the “critical areas” of email security,",
+      "sourceUrl": null,
+      "webUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/359473/microsoft-partners-with-darktrace-on-ai-enhanced",
+      "originalUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/359473/microsoft-partners-with-darktrace-on-ai-enhanced",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 201,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.itpro.co.uk/image/upload/v1570816729/itpro/2018/10/securitybreach_shutterstock_432988318.jpg",
+          "width": 1000,
+          "height": 679,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/359473/microsoft-partners-with-darktrace-on-ai-enhanced?amp",
+      "cdnAmpWebUrl": "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/technology/artificial-intelligence-ai/359473/microsoft-partners-with-darktrace-on-ai-enhanced?amp",
+      "publishedDateTime": "2021-05-10T04:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT Pro",
+        "domain": "itpro.co.uk",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/itpro.co.uk-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
       "path": "_news/2021-05-10-ponyai-unveils-its-next-gen-robotaxi-with-lidar-from-luminar.md",
       "title": "Pony.ai unveils its next-gen robotaxi with LIDAR from Luminar",
       "excerpt": "Pony.ai’s next-generation robotaxi is distinctive because it appears to be missing the cone-shaped LIDAR sensor perched on the roof that’s typical of most autonomous vehicles. That’s because the startup,",
@@ -1128,58 +1181,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-08-ai-weekly-qualcomms-ai-research-and-development-efforts.md",
-      "title": "AI Weekly: Qualcomm’s AI research and development efforts",
-      "excerpt": "Qualcomm AI research head Jilei Hou spoke with VentureBeat about the company's investment focus and broader mission.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/05/07/ai-weekly-qualcomms-ai-research-and-development-efforts/",
-      "originalUrl": "https://venturebeat.com/2021/05/07/ai-weekly-qualcomms-ai-research-and-development-efforts/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/01/2019-01-04T130429Z_2_LYNXNPEF030OH_RTROPTP_4_QUALCOMM-M-A-BROADCOM-e1546625473928.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/05/07/ai-weekly-qualcomms-ai-research-and-development-efforts/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/07/ai-weekly-qualcomms-ai-research-and-development-efforts/amp/",
-      "publishedDateTime": "2021-05-07T13:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
       ]
     }
   ],

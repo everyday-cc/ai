@@ -103,20 +103,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Explainable AI, the future of financial services"
-    excerpt: "As technology becomes more advanced, it can become harder to understand. Some may accept not fully understanding the ins and outs of a technology if it makes new or better things possible, but not being able to fully understand how a technology works can bring about its own problems."
-    publishedDateTime: 2021-06-30T05:01:00Z
-    webUrl: "https://paperjam.lu/article/explainable-ai-the-future-of-f"
-    type: article
-    provider:
-      name: paperJam
-      domain: paperjam.lu
-    quality: 39
-    images:
-      - url: "https://assets.paperjam.lu/images/articles/explainable-ai-the-future-of-f/0.5/0.5/600/400/414770.jpg"
-        width: 1199
-        height: 800
-        isCached: true
   - title: "Commerce.AI Releases AI-Generated Market Reports"
     excerpt: "Commerce.AI has released a new AI-generated market reports feature, which delivers market intelligence insights across thousands of market categories. Market reports are accessible to all and were previously only available to those with access to Commerce."
     publishedDateTime: 2021-07-02T14:51:00Z

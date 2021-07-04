@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/global-ai-in-fintech-mar
 webUrl: "https://www.marketwatch.com/press-release/global-ai-in-fintech-market-size-share-to-expand-at-171-cagr-through-2025-2021-07-01"
 type: article
 quality: 66
-heat: 136
+heat: 146
 published: true
 
 provider:
@@ -29,6 +29,17 @@ images:
     isCached: true
 
 related:
+  - title: "4 Top Fintech Stocks To Watch In July 2021"
+    excerpt: "Do You Have These The Fintech Stocks On Your July Watchlist? Fintech stocks have been some of the most popular stocks in the stock market today. Fintech is growing and the growth"
+    publishedDateTime: 2021-07-02T11:57:00Z
+    webUrl: "https://www.nasdaq.com/articles/4-top-fintech-stocks-to-watch-in-july-2021-2021-07-02"
+    ampWebUrl: "https://www.nasdaq.com/articles/4-top-fintech-stocks-to-watch-in-july-2021-2021-07-02?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/4-top-fintech-stocks-to-watch-in-july-2021-2021-07-02?amp"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 54
   - title: "8 Types Of Fintech To Take Advantage Of"
     excerpt: "Whether it’s checking our bank balance with an app or Venmoing a friend the cost of a bagel, fintech impacts our daily lives. By streamlining and automating"
     publishedDateTime: 2021-07-01T07:31:00Z

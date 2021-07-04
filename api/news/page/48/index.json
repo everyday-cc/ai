@@ -2,6 +2,57 @@
   "page": 48,
   "value": [
     {
+      "path": "_news/2021-05-27-utah-dot-pilots-blyncsys-ai-powered-road-maintenance-technology.md",
+      "title": "Utah DOT pilots Blyncsy’s AI-powered road maintenance technology",
+      "excerpt": "If you drive past potholes and faded lane dividers on your morning commute to work, chances are you’ll continue to see such road blemishes until someone alerts the local department of transportation to the problem by filing a complaint.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/05/27/utah-dot-pilots-blyncsys-ai-powered-road-maintenance-technology/",
+      "originalUrl": "https://techcrunch.com/2021/05/27/utah-dot-pilots-blyncsys-ai-powered-road-maintenance-technology/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/05/1.png?w=1024",
+          "width": 1024,
+          "height": 575,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/05/27/utah-dot-pilots-blyncsys-ai-powered-road-maintenance-technology/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/05/27/utah-dot-pilots-blyncsys-ai-powered-road-maintenance-technology/amp/",
+      "publishedDateTime": "2021-05-27T09:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-27-privacy-watchdogs-take-legal-action-against-clearview-ai-in-five-countries.md",
       "title": "Privacy watchdogs take legal action against Clearview AI in five countries",
       "excerpt": "Clearview AI is under the gun once again as privacy watchdogs in Europe file legal complaints against its data collection practices. On Thursday, Privacy International (PI),",
@@ -1099,40 +1150,6 @@
       ],
       "topics": [
         "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-27-lead-semantics-selects-fluree-for-textdistil-a-secure-natural-language-processing-pipeline-for-enterprise-data-management-teams.md",
-      "title": "Lead Semantics Selects Fluree for TextDistil, a Secure Natural Language Processing Pipeline for Enterprise Data Management Teams",
-      "excerpt": "Fluree and Lead Semantics, two North Carolina technology companies, announce TextDistil for enterprise data teams building data fabrics and knowledge graphs TextDistil’s rules-powered neural language pipeline,",
-      "sourceUrl": null,
-      "webUrl": "https://www.morningstar.com/news/business-wire/20210527005115/lead-semantics-selects-fluree-for-textdistil-a-secure-natural-language-processing-pipeline-for-enterprise-data-management-teams",
-      "originalUrl": "https://www.morningstar.com/news/business-wire/20210527005115/lead-semantics-selects-fluree-for-textdistil-a-secure-natural-language-processing-pipeline-for-enterprise-data-management-teams",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-27T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Morningstar, Inc.",
-        "domain": "morningstar.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

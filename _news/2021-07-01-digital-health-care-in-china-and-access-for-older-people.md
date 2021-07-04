@@ -29,7 +29,7 @@ related:
     provider:
       name: The Financial Express
       domain: financialexpress.com
-    quality: 81
+    quality: 85
     images:
       - url: "https://images.financialexpress.com/2021/07/1-70.jpg"
         width: 1200
