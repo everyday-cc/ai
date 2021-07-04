@@ -29,9 +29,9 @@ related:
   - title: "Toei Animation Taps AI, Overseas Market"
     excerpt: "For nearly seven decades, animation studio Toei Animation Co. has relied on recognizable franchises, including pirate adventure “One Piece” and fantasy “Dragon Ball,” in making itself a leader."
     publishedDateTime: 2021-07-01T17:59:00Z
-    webUrl: "https://variety.com/2021/film/asia/toei-animation-1235009726/#!"
-    ampWebUrl: "https://variety.com/2021/film/asia/toei-animation-1235009726/amp/"
-    cdnAmpWebUrl: "https://variety-com.cdn.ampproject.org/c/s/variety.com/2021/film/asia/toei-animation-1235009726/amp/"
+    webUrl: "https://variety.com/2021/film/spotlight/toei-animation-1235009726/"
+    ampWebUrl: "https://variety.com/2021/film/spotlight/toei-animation-1235009726/amp/"
+    cdnAmpWebUrl: "https://variety-com.cdn.ampproject.org/c/s/variety.com/2021/film/spotlight/toei-animation-1235009726/amp/"
     type: article
     provider:
       name: Variety

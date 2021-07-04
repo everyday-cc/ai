@@ -89,22 +89,6 @@ related:
         width: 640
         height: 480
         isCached: true
-  - title: "Feds: Companies must report crashes involving self-driving technology"
-    excerpt: "The announcement comes amid 30 ongoing investigations into Tesla crashes and as partially self-driving cars are becoming more commonplace."
-    publishedDateTime: 2021-06-29T15:41:00Z
-    webUrl: "https://www.detroitnews.com/story/business/autos/mobility/2021/06/29/feds-companies-must-report-crashes-involving-self-driving-technology/7794936002/"
-    ampWebUrl: "https://amp.detroitnews.com/amp/7794936002"
-    cdnAmpWebUrl: "https://amp-detroitnews-com.cdn.ampproject.org/c/s/amp.detroitnews.com/amp/7794936002"
-    type: article
-    provider:
-      name: Detroit News
-      domain: detroitnews.com
-    quality: 44
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2019/09/04/PDTN/6478c068-2adb-4f99-b18e-f74991a7f100-AP19246739850388.jpg?auto=webp&crop=2530,1423,x234,y0&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Big Tech car race means self-drive or be driven out"
     excerpt: "The world’s top 10 carmakers had an operating margin of only 5.2% in 2020, a fraction of the 34% enjoyed by the tech industry’s leaders, data compiled by Bloomberg show. But for Apple and other big groups diving into self-driving tech or with grand plans for their own cars,"
     publishedDateTime: 2021-07-01T03:05:00Z
@@ -151,15 +135,6 @@ related:
         width: 450
         height: 308
         isCached: true
-  - title: "DeepRoute.ai, Level 4 Self-Driving Technology Provider, Supports Shenzhen During COVID-19 Outbreak by Transporting Test Samples"
-    excerpt: "Following a COVID-19 outbreak in China's most populous province, Guangdong, DeepRoute.ai is currently transporting approximately 14,000 COVID-19 test samples per day to local hospitals in Shenzhen for testing through its advanced self-driving technology."
-    publishedDateTime: 2021-06-29T16:49:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-deeprouteai-level-4-self-driving-technology-provider-supports-/2021/06/29/9400205.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
 
 secured: "hVMiPOaKKj5IpbY1I1cMlK2XB2bhaP8sG1h2btvXo2rrx+uN3AayD6WcYgws53UYAUg6TNepdkK1QPam6Zwomq1wWQqTqsN2EPI3fe/9Z1dXGeQ2HWSkWEg+7BZ5/jZ7e0TOrOaFm1qNVnqtZbc2xZU4q1h23c0qcd716gUs4UNDnGyzVOwnz7ATnxD9B6r3rbx+WpRxdbnWF+WovtZ5l9Ogc4V7Fr1b+4aKsdF0doqSsE++N/+zMRQCSAQkDlq67gkOhr0FEHN2ucAXcsBEyb/lL9pn4hPMOyJyyhNHqHQTYFrWUNxEUnApnXgyx2RWXwMzJLAjKYHObyYSyrOvkWuWUmNkRmNvyaKbIFsGxNe5orRN+gniCubHhM+vd4AlVuqoVZVJF34+l0eOb0veI4wnJA1mOcBSSOcltbHsybbaKxNXwr9U4bmkd4QPUdTeVxlRnqS5NQzvmdP2/9wdaZXiOikUMwiIlDCUe8c2L92U16u+NmcBsmg23/CviOwKGPs3D0+t4nbDJBHv2LlPQQ==;w67822hePKM4bi87APecvA=="
 ---

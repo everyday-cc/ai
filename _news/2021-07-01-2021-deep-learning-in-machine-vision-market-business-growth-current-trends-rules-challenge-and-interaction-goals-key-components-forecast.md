@@ -19,19 +19,19 @@ topics:
   - AI
 
 related:
-  - title: "Visionary Trio Creates Next Gen Video and Image Annotation Platform for Machine Learning"
-    excerpt: "Innotescus ® is announcing the launch of its image and video annotation platform. The Innotescus platform provides an intuitive annotation workspace, comprehensive analytics, and a collaborative environment for teams to produce superior quality training datasets."
-    publishedDateTime: 2021-06-29T16:07:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/visionary-trio-creates-next-gen-video-and-image-annotation-platform-for-machine-learning-1030563448"
+  - title: "Consumer Robots Market Poised for Excellent Growth During (2021-2026) | Comprehensive Study By AMA"
+    excerpt: "The up-to-date coverage of the latest report Consumer Robots Market provides a detailed synopsis as well as a consistent evaluation of accurate revenue over the forecasted timespan. Current trends, industry analysis,"
+    publishedDateTime: 2021-07-01T20:46:00Z
+    webUrl: "https://www.marketwatch.com/press-release/consumer-robots-market-poised-for-excellent-growth-during-2021-2026-comprehensive-study-by-ama-2021-07-01"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 60
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 55
     images:
-      - url: "https://mma.prnewswire.com/media/1551990/Shashank_Chris_Rob.jpg"
-        width: 400
-        height: 267
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "gKekF/65g2/m3mExXrbyfx0apQDewL5FKCEH9JcPl7PlhHZpjKR3iSVHWfZmkXiv26fGGsJQEdVv1avQWo/mFtIi8JMk1JUhpRfKJSmNz7Ou757cX41ay9VW864gI6i0S/hpIZ5BYRyW7ePpLggtzkPlcd3pFjV/9XJ8NOQ8ZKrndDW66ZuafzG6okfeyOkJ5/ZDDiN6vEnAGtIYGxQHSubJxeK3uzTnyNb5q99N/wJZB6o909+n+U5pA/TqGMCwTwl1WrJn+UKIG3jlvf1Us/yav0pRT2o8qr1QQ0Z4C9c4mpQylzHYAcn7PffGjSQpN7uonU3C3S0GGF0LM33m69+pGJeBjM06JDw0A1NBKLU=;ZzAs4gRI4/r0JRZfa7vMaw=="

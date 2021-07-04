@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wric.com/business/us-world-business/japans-softbank-says
 cdnAmpWebUrl: "https://www-wric-com.cdn.ampproject.org/c/s/www.wric.com/business/us-world-business/japans-softbank-says-pepper-robot-remains-alive-and-well/amp/"
 type: article
 quality: 74
-heat: 84
+heat: 74
 published: true
 
 provider:
@@ -25,24 +25,6 @@ images:
     width: 1280
     height: 853
     isCached: true
-
-related:
-  - title: "SoftBank Puts 'Pepper' Robot On Hold As Bot Biz Does Some Soul-Searching"
-    excerpt: "In its latest move to redefine the firm’s relationship to robotics, SoftBank announced that it has halted production on its Pepper robot."
-    publishedDateTime: 2021-06-29T16:57:00Z
-    webUrl: "https://www.pymnts.com/news/artificial-intelligence/2021/softbank-puts-pepper-robot-on-hold-as-bot-biz-does-soul-searching/"
-    ampWebUrl: "https://www.pymnts.com/news/artificial-intelligence/2021/softbank-puts-pepper-robot-on-hold-as-bot-biz-does-soul-searching/amp/"
-    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/artificial-intelligence/2021/softbank-puts-pepper-robot-on-hold-as-bot-biz-does-soul-searching/amp/"
-    type: article
-    provider:
-      name: pymnts.com
-      domain: pymnts.com
-    quality: 58
-    images:
-      - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/06/pepper-robots-457x274.jpg"
-        width: 457
-        height: 274
-        isCached: true
 
 secured: "BL0D5jnqBgInxwnK3ziMdqvhUa22oZEawEoeYz4hhDF6tTiyzHnQMTGuUzmSvs+h8QdQVcTWlmKqK1vanzKZWCqxyFY+moAGOE47mPRuJ1sQyLxn9iSA4EtGCB0pY4txOro4H0bjY1Doz808V8bapY4X20aJBLYqhaZyqPVEo05rLtQFJIQTAlz9m1FY51c3lueSf6Q0xYypHVkcwOr16/1WJ1XLl7NF2T3n8T8wFy+tmg6YL3XbuTFiOOhDO3sqRAzbeb7tweP6yfv2kAH0lo62XipZTYs3dOdXY+5Wz/2rIgyQ3mushhAxMrwIYO+3vrbR8dWKX3kAMQyW9ppU3fXpHXMpR0XtNo2gYwhIp2vv0lEl+ErwfWDP/jiT6VrBJvEZCGUuG0DWYUoXVg4VoDcmYiCoxVxz+VPcBT9cr4gDZvY4+rzUFyLrEVZx4HiL3t5G+8CrT4DdIvmBERpfDzgLVMWMpZi+QKRI2lpsgNqrcYytnsLm0CQ6OJh7J/S3iuBnOo9QCB7aOB6Rfx4gDw==;RG0R3WQyQlDVnXf4cqXwGw=="
 ---

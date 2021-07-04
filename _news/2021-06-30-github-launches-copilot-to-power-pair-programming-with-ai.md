@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/2021/06/29/github-launches-copilot-to-powe
 webUrl: "https://copilot.github.com/"
 type: article
 quality: 167
-heat: 247
+heat: 237
 published: true
 
 provider:
@@ -43,22 +43,6 @@ related:
       - url: "https://www.zdnet.com/a/hub/i/2021/06/29/bd54eff3-c9c7-4cf0-b714-606d46cc4cc7/githubcopilot.jpg"
         width: 1199
         height: 478
-        isCached: true
-  - title: "GitHub previews new AI tool that makes coding suggestions"
-    excerpt: "GitHub has unveiled a new product that leverages artificial intelligence to help you write code more efficiently. Named GitHub Copilot, today’s new product can suggest lines of code and even sometimes entire functions."
-    publishedDateTime: 2021-06-29T15:53:00Z
-    webUrl: "https://techcrunch.com/2021/06/29/github-previews-new-ai-tool-that-makes-coding-suggestions/"
-    ampWebUrl: "https://techcrunch.com/2021/06/29/github-previews-new-ai-tool-that-makes-coding-suggestions/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/06/29/github-previews-new-ai-tool-that-makes-coding-suggestions/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 87
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2021/06/james-harrison-vpOeXr5wmR4-unsplash.jpg?w=1024"
-        width: 1024
-        height: 576
         isCached: true
   - title: "GitHub introduces an AI pal to help you code better"
     excerpt: "GitHub is already one of the most popular platforms to build and host coding projects. Last year, it launched a built-in Integrated Development Environment to let you code directl"

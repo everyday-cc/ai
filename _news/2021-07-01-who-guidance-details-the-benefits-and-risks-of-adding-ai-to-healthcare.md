@@ -9,7 +9,7 @@ ampWebUrl: "https://www.slashgear.com/who-guidance-details-the-benefits-and-risk
 cdnAmpWebUrl: "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/who-guidance-details-the-benefits-and-risks-of-adding-ai-to-healthcare-30680625/amp/"
 type: article
 quality: 104
-heat: 114
+heat: 104
 published: true
 
 provider:
@@ -29,24 +29,6 @@ images:
     width: 1440
     height: 800
     isCached: true
-
-related:
-  - title: "The Future of Retail and AI"
-    excerpt: "When Amazon Go launched in 2018, critics claimed that it would take more than a decade for autonomous retail to catch on. Fast-forward a couple of years and one global pandemic later, it’s clear that autonomous retail isn’t going anywhere."
-    publishedDateTime: 2021-06-29T15:35:00Z
-    webUrl: "https://retailtouchpoints.com/topics/retail-store-design/in-store-innovation/the-future-of-retail-and-ai"
-    ampWebUrl: "https://retailtouchpoints.com/topics/retail-store-design/in-store-innovation/the-future-of-retail-and-ai/amp"
-    cdnAmpWebUrl: "https://retailtouchpoints-com.cdn.ampproject.org/c/s/retailtouchpoints.com/topics/retail-store-design/in-store-innovation/the-future-of-retail-and-ai/amp"
-    type: article
-    provider:
-      name: Retail TouchPoints
-      domain: retailtouchpoints.com
-    quality: 59
-    images:
-      - url: "https://retailtouchpoints.com/wp-content/uploads/2020/10/aifi.jpg"
-        width: 830
-        height: 571
-        isCached: true
 
 secured: "mUpIk5dXb9GYOH+kIhEVquQqeB6d9PJPdMIAek+XnMN7qXCTsxUXhtRNLGFGpzv/gxsgk7PGkkIgnoXcvyXleYrKKNGh/a/XbOXLIl+YqhhYYHbrWRDKvfe03zTezSadyXc3LVjMUZhr33hkySlZ+otMILMZzrSy8rxYO/+gHedLOm4WSxmupvEZ7IqXn5+Q96gIK6MderQRLfmWwLwqmxd7kWyoAmMBVQLdPc4k49iu5/p/oSdjoh/vrS6z7MHngmN8WcQQAb+qcA9R4GC4alh0qVVBLBpICBXNZ9DaSnn8EZSQh7c0WHbnWHmRSNfxNlft4Z6Ju5kL7FmumQYzt7g/nn2nr2kNkQO0nrJTAns26KTPxhE5kTY3jFKQcqz+S2WwrV7GEbZzNeGFNc8xQ/svfuN3fm/Qz9r2jc+vqkkfHwmaRgxLczuWstUvOmffnWhquS7xHJRsSJCkqmuohinDg+2ESTZdANnTpBJkybgL3P7jgPR1tV4hokTWsJGN18C4NBnnWLzbHyQxx2DNuQ==;ECqSg3W7Mo61Wq+NNIWh4w=="
 ---

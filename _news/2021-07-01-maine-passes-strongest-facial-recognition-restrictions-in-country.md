@@ -294,6 +294,20 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 22
+  - title: "Investors issue statement on human rights implications of facial recognition technologies & commitments to due diligence"
+    excerpt: "We are 50 global institutional investors and their representatives with $4.5 trillion in assets under management as of December, 2020. As responsible investors, we incorporate Environmental, Social and Governance (ESG) factors,"
+    publishedDateTime: 2021-07-04T08:19:00Z
+    webUrl: "https://www.business-humanrights.org/en/latest-news/investors-issue-statement-on-human-rights-implications-of-facial-recognition-technologies-commitments-to-due-diligence/"
+    type: article
+    provider:
+      name: 洗護用品和肥皂
+      domain: business-humanrights.org
+    quality: 14
+    images:
+      - url: "https://media.business-humanrights.org/media/images/united-nations-419885_1280.2e16d0ba.fill-788x488.jpg"
+        width: 788
+        height: 488
+        isCached: true
 
 secured: "C733ZSBiplTEGebnNYUfbr3D310oADWnKb19RuBpcDgmasMnd+yUp8hsPYT84m7L4d+6aFNpiz7ISdfaylexIIVgeWr6INNGXL7r9c0yjWzrQF5Wes+0/tDZtCNm6YmMjnl2A80GFL3lbsIpnSVXfFwJ+zoCPDyDtZmLRZdVKuhFsZXTo1i8TRqP7XhUIzzhdTEh0dA3HcMCmpN2ZflAUn8MoC1ulG6cDLd3PfF3ONjmGh7uzdcZ2K2ux8O+tp42UuLym0lSQtEJeqiVyp3e8P7ZSrdPWZb42KEztG2jn+DXUjDynJV5pKl+JQNynn6JzWbNBHa5LhaipHcrPiDFo4o/G7Zfrc19/d5ZIB1JIFKYxp3K3DIkse+ezwotdHrlwDMTIJ1cWWHPZ0QaMQdygBVojNrlZVIRqkkq6St8rooOrb6BTZVovy043WYZacFETiy/RDT346eRh5KWM77H2oh20rAkHso2ckrI+pMRfFOzHnhkvcTWm/oLPP/HO0BrRpuAcwFUEHFpZTJd5l1Cfg==;v1UxpsFTO6onD2apx/iLfQ=="
 ---

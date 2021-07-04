@@ -31,38 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Zoom to acquire German startup to bring real-time translation to meetings"
-    excerpt: "As companies expand worldwide and meet online in tools like Zoom, the language barrier can be a real impediment to getting work done. Zoom announced that it intends to acquire German startup Karlsruhe Information Technology Solutions or Kites for short,"
-    publishedDateTime: 2021-06-29T15:18:00Z
-    webUrl: "https://techcrunch.com/2021/06/29/zoom-to-acquire-german-startup-to-bring-real-time-translation-to-meetings/"
-    ampWebUrl: "https://techcrunch.com/2021/06/29/zoom-to-acquire-german-startup-to-bring-real-time-translation-to-meetings/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/06/29/zoom-to-acquire-german-startup-to-bring-real-time-translation-to-meetings/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 171
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2021/06/GettyImages-1256252051.jpg?w=1024"
-        width: 1024
-        height: 640
-        isCached: true
-  - title: "Zoom acquires AI translation startup Kites"
-    excerpt: "Videoconferencing company Zoom has acquired Kites, an AI-powered language translation startup, for an undisclosed sum."
-    publishedDateTime: 2021-06-29T15:25:00Z
-    webUrl: "https://venturebeat.com/2021/06/29/zoom-acquires-ai-translation-startup-kites/"
-    ampWebUrl: "https://venturebeat.com/2021/06/29/zoom-acquires-ai-translation-startup-kites/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/29/zoom-acquires-ai-translation-startup-kites/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 91
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2020/09/Zoom-e1618836351406.jpg?w=1200&strip=all"
-        width: 1200
-        height: 601
-        isCached: true
   - title: "Zoom acquires an AI company building real-time translation"
     excerpt: "Zoom has announced that it’s acquiring a company known as Kites (short for Karlsruhe Information Technology Solutions), which has worked on creating real-time translation and transcription software. Zoom says the acquisition is a move to help it make communicating with people who speak different languages easier,"
     publishedDateTime: 2021-06-30T00:40:00Z
@@ -159,6 +127,22 @@ related:
         width: 615
         height: 384
         isCached: true
+  - title: "Zoom will have automatic translation in real time to videoconferences after buying the company Kites"
+    excerpt: "Video calling platform Zoom bought a German startup specializing in language translation using Artificial Intelligence."
+    publishedDateTime: 2021-07-02T20:02:00Z
+    webUrl: "https://www.entrepreneur.com/article/376378"
+    ampWebUrl: "https://www.entrepreneur.com/amphtml/376378"
+    cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/376378"
+    type: article
+    provider:
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 59
+    images:
+      - url: "https://assets.entrepreneur.com/content/3x2/2000/1625256159-Jul2ZoomtraduccinentiemporealvideoconferenciastrascomprarempresaKites.jpg?width=600&crop=16:9"
+        width: 600
+        height: 338
+        isCached: true
   - title: "Zoom investing in real-time translation following acquisition of AI company"
     excerpt: "Zoom on Tuesday announced the acquisition of Kites (or Karlsruhe Information Technology Solutions), a company focused on artificial intelligence software to transcribe and translate conversations. Following the acquisition,"
     publishedDateTime: 2021-06-30T01:08:00Z
@@ -174,6 +158,22 @@ related:
       - url: "https://i2.wp.com/9to5mac.com/wp-content/uploads/sites/6/2021/06/Zoom-app-logo.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
         width: 1200
         height: 628
+        isCached: true
+  - title: "Observation, simulation, and AI join forces to reveal a clear universe"
+    excerpt: "Japanese astronomers have developed a new artificial intelligence (AI) technique to remove noise in astronomical data due to random variations in galaxy shapes. After extensive training and testing on large mock data created by supercomputer simulations,"
+    publishedDateTime: 2021-07-02T14:51:00Z
+    webUrl: "https://phys.org/news/2021-07-simulation-ai-reveal-universe.html"
+    ampWebUrl: "https://phys.org/news/2021-07-simulation-ai-reveal-universe.amp"
+    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-07-simulation-ai-reveal-universe.amp"
+    type: article
+    provider:
+      name: Phys.org
+      domain: phys.org
+    quality: 57
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/observation-simulation.jpg"
+        width: 2880
+        height: 2035
         isCached: true
   - title: "Zoom (ZM) to Acquire Real-Time Translation Specialist Kites"
     excerpt: "Zoom Video ZM recently announced that the company has entered into a definitive agreement to acquire Karlsruhe Information Technology Solutions - Kites, GmbH, a start-up specializing in real-time machine translation."
@@ -200,19 +200,21 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Zoom acquires Kites for its AI language translation tech"
-    excerpt: "Kites will be integrated into Zoom’s engineering team in an effort to improve machine-driven language translation during calls."
-    publishedDateTime: 2021-06-29T15:21:00Z
-    webUrl: "https://www.siliconrepublic.com/companies/zoom-kites-ai-language-translation"
+  - title: "Zoom buys real-time translation AI firm Kites, to expand service beyond English language"
+    excerpt: "Zoom already has real-time transcriptions, but it's limited to people who are talking in English. On a support page, Zoom also makes it clear that its current live transcription feature may not meet certain accuracy requirements."
+    publishedDateTime: 2021-07-01T03:08:00Z
+    webUrl: "https://tech.hindustantimes.com/tech/news/zoom-buys-real-time-translation-ai-firm-kites-to-expand-service-beyond-english-language-71625108322768.html"
+    ampWebUrl: "https://tech.hindustantimes.com/amp/tech/news/zoom-buys-real-time-translation-ai-firm-kites-to-expand-service-beyond-english-language-71625108322768.html"
+    cdnAmpWebUrl: "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/tech/news/zoom-buys-real-time-translation-ai-firm-kites-to-expand-service-beyond-english-language-71625108322768.html"
     type: article
     provider:
-      name: SiliconRepublic
-      domain: siliconrepublic.com
-    quality: 39
+      name: Hindustan Times
+      domain: hindustantimes.com
+    quality: 50
     images:
-      - url: "https://www.siliconrepublic.com/wp-content/uploads/2020/11/AdobeStock_335035584_Editorial_Use_Only.jpeg"
-        width: 800
-        height: 600
+      - url: "https://images.hindustantimes.com/tech/img/2021/07/01/1600x900/372116270_0-3_1622598739798_1625108547211.jpg"
+        width: 1600
+        height: 900
         isCached: true
   - title: "Zoom acquires real-time translation AI company, Kites"
     excerpt: "Zoom has acquired a real-time Machine Translation solutions company, Kites which is short for Karlsruhe Information Technology Solutions."
@@ -269,6 +271,20 @@ related:
       - url: "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/800x800/promoted_content/promo/zoom_video_conferencing_online_meeting_remote_workers_one_user_connected_via_laptop_with_a_grid_of_four_participants_on_screen_2400x1600-100837449-orig_1.jpg"
         width: 740
         height: 493
+        isCached: true
+  - title: "Zoom Bolts on Speech Translation in What Is Only Its Second-Ever Acquisition"
+    excerpt: "Zoom acquires Kites, simultaneous speech translation provider. Zoom users may soon enjoy multilingual speech translation."
+    publishedDateTime: 2021-06-30T11:00:00Z
+    webUrl: "https://slator.com/ma-and-funding/zoom-bolts-on-speech-translation-in-what-is-only-its-second-ever-acquisition/"
+    type: article
+    provider:
+      name: Slator
+      domain: slator.com
+    quality: 21
+    images:
+      - url: "https://slator.com/assets/2021/06/Zoom-Buys-Real-Time-Video-Translation-Startup-Kites.png"
+        width: 600
+        height: 400
         isCached: true
 
 secured: "tDwgR1BdcnlInwCm0Fwl1adDj9rjNo2VI7iWUM7GF1k0y5W8MrJsGzZIKEmWyEAZlSAcyVtAI5rV06sl6En960656ZF28lAgp0t5jLW/qSqf53M6L82B5WM7n2ERC39ztgErTrFIT4AXkg9AFMlQ4/eVR9Fh0DFeEWJBrspddgaNwyXnrFBPnnAXzXTwBo7ENkQxuVyWlxGKzhi9uFUSZ/VTSXsMVkvqZ0Vg2UD6uXT4ti8GWpOrYFGm6RPnyrZZHLbwPV8oNqLI1i7oXpQjRYU24sCU8Eu6Z3KVlxsgug5j5YJM8nwGCyYd1z4x25Kceil+jHJD89rp+pb8OSApWwfiv6PrWYHhshj2HmppHlo=;Ylyaf5AD+bIchZT3exMnEA=="

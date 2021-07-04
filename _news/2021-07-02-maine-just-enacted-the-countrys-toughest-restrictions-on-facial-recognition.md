@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/maine-just-enacted-the-countrys
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/maine-just-enacted-the-countrys-toughest-restrictions-on-facial-recognition/"
 type: article
 quality: 101
-heat: 291
+heat: 301
 published: true
 
 provider:
@@ -298,6 +298,20 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 22
+  - title: "Investors issue statement on human rights implications of facial recognition technologies & commitments to due diligence"
+    excerpt: "We are 50 global institutional investors and their representatives with $4.5 trillion in assets under management as of December, 2020. As responsible investors, we incorporate Environmental, Social and Governance (ESG) factors,"
+    publishedDateTime: 2021-07-04T08:19:00Z
+    webUrl: "https://www.business-humanrights.org/en/latest-news/investors-issue-statement-on-human-rights-implications-of-facial-recognition-technologies-commitments-to-due-diligence/"
+    type: article
+    provider:
+      name: 洗護用品和肥皂
+      domain: business-humanrights.org
+    quality: 14
+    images:
+      - url: "https://media.business-humanrights.org/media/images/united-nations-419885_1280.2e16d0ba.fill-788x488.jpg"
+        width: 788
+        height: 488
+        isCached: true
 
 secured: "US4kvltPEXkTRKnS0xqCipjUrjkaECMkgRH/m1bgyV3Zm+uH1z7XjYeeCEYsBLGRLOKckavHE/9bXLZiOYS2/rk+bKzmSDXkFCOufQnPY+iyaWkctV/k+OSqpjkva2MnVV9FvRFPsWNVYZmVbWFyYPjN/g4luZWn0rAgxSpbylyoalzbGPqf2dFyarHucU3ePCZJyqo7MXZ8vo1ZKU3x8Thmmm78taNplVG9KO5dB/72hLk6EaRFmdViG1FuTL0t0uip3sTQQFXG+afZqUqqrkC2ah9Qezr6zp5yNRVHtZFquk7t8TguoVnELrfi7bXg0Y+pS9AMgmJaebqAknmhmGGmAFkcADFofoYK+U8uTlySrUfIguppcx9HfIEcw3XD76xRErP1Cr4dxQR6/mqvoMgY4dgcbJKXyeWqCqUTpmD5ZJqe1gC9vRrEUDqkC27mV2Twpz2RlASrPx9iipJb1CpMjgI6+hJPL3UWfqm+unin8Hot1My1VC6QA3i1jZ3K6d/JKF0MikpX+L5WMJLiEQ==;O1pNwy+8ZwOEyObWlWYX1g=="
 ---

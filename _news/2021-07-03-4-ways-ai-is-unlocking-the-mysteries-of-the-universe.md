@@ -7,7 +7,7 @@ originalUrl: "https://thenextweb.com/news/4-ways-ai-unlocking-astronomy-mysterie
 webUrl: "https://thenextweb.com/news/4-ways-ai-unlocking-astronomy-mysteries-universe-syndication"
 type: article
 quality: 67
-heat: 77
+heat: 87
 published: true
 
 provider:
@@ -28,6 +28,22 @@ images:
     isCached: true
 
 related:
+  - title: "Here's how artificial intelligence helping astronomers learn about the universe"
+    excerpt: "To take on the challenges, astronomers are turning to machine learning and artificial intelligence (AI) to build new tools to rapidly search for the next big breakthroughs. A research by Ashley Spindler from the department of Astrophysics, University of ..."
+    publishedDateTime: 2021-07-04T07:44:00Z
+    webUrl: "https://www.hindustantimes.com/science/heres-how-artificial-intelligence-helping-astronomers-learn-about-the-universe-101625382199966.html"
+    ampWebUrl: "https://www.hindustantimes.com/science/heres-how-artificial-intelligence-helping-astronomers-learn-about-the-universe-101625382199966-amp.html"
+    cdnAmpWebUrl: "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/science/heres-how-artificial-intelligence-helping-astronomers-learn-about-the-universe-101625382199966-amp.html"
+    type: article
+    provider:
+      name: Hindustan Times
+      domain: hindustantimes.com
+    quality: 53
+    images:
+      - url: "https://images.hindustantimes.com/img/2021/07/04/1600x900/spherex_1612789356206_1612789361421_1625383959338.jpg"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "Debunking the AI Arms Race Theory"
     excerpt: "The so-called AI arms race has become a common feature in news headlines, 4 but the arms race framing fails to match reality. While nations are clearly competing to develop and adopt AI technology for military use,"
     publishedDateTime: 2021-06-29T17:06:00Z

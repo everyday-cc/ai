@@ -77,22 +77,6 @@ related:
         width: 640
         height: 480
         isCached: true
-  - title: "Feds: Companies must report crashes involving self-driving technology"
-    excerpt: "The announcement comes amid 30 ongoing investigations into Tesla crashes and as partially self-driving cars are becoming more commonplace."
-    publishedDateTime: 2021-06-29T15:41:00Z
-    webUrl: "https://www.detroitnews.com/story/business/autos/mobility/2021/06/29/feds-companies-must-report-crashes-involving-self-driving-technology/7794936002/"
-    ampWebUrl: "https://amp.detroitnews.com/amp/7794936002"
-    cdnAmpWebUrl: "https://amp-detroitnews-com.cdn.ampproject.org/c/s/amp.detroitnews.com/amp/7794936002"
-    type: article
-    provider:
-      name: Detroit News
-      domain: detroitnews.com
-    quality: 44
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2019/09/04/PDTN/6478c068-2adb-4f99-b18e-f74991a7f100-AP19246739850388.jpg?auto=webp&crop=2530,1423,x234,y0&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Gov't Tracking Crashes Involving Self-Driving Vehicles"
     excerpt: "The National Highway Traffic Safety Administration wants to monitor safety issues and likely set new regulations for the technology (3:14). WCCO Mid-Morning - June 30, 2021"
     publishedDateTime: 2021-06-30T15:15:00Z
@@ -155,15 +139,6 @@ related:
         width: 450
         height: 308
         isCached: true
-  - title: "DeepRoute.ai, Level 4 Self-Driving Technology Provider, Supports Shenzhen During COVID-19 Outbreak by Transporting Test Samples"
-    excerpt: "Following a COVID-19 outbreak in China's most populous province, Guangdong, DeepRoute.ai is currently transporting approximately 14,000 COVID-19 test samples per day to local hospitals in Shenzhen for testing through its advanced self-driving technology."
-    publishedDateTime: 2021-06-29T16:49:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-deeprouteai-level-4-self-driving-technology-provider-supports-/2021/06/29/9400205.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
 
 secured: "X7iGqxmf3JGgM+UPw3d/dAoO+WsO0dgfoo8lDSAb2n4GWSWzAMTM/RDT1Jygy9y7C4jD/vwej9bK7/yIVfQ2QHz8b2mZJmabi8NNOuzmFKUgd1FgqKnEnx0QFu82NDFgOVLBhFmYrxfg8Xebj+m3U6gv4s2/JRb+juc+pbBOdROxAbC6E7k1eQflE4utBgX9a8SHISesRAqzKIHNLkuNlbEFCINoVm6syjdTF7qxbQOnejbAMThm/4UTl92P8gZGmUIE0cTDPrFKdn30dJi5nKLrSEtxo5HFTdEeSM/sBpQW6Sri1JUTA46zvWZ4ztIODwPMjK3vh4UsarG1Snd4mJWmpakNTiGT0IqLqAKixjRrsO0Cj2ehHE8jDL0kFOncCQdYTAeT83tUFviR/9zONoSIZQ0F+EZlIfYYlQQ+k5EG6QwzYMcDR+zRTwNIbjKUemikwrX+3/fkleyU8s8/6WQw+3Qm+AJS8NxdNptWiff8Rrsa8dOGNHvAQ8tNwz+w6oL+ugscGERmq36PyMHkPg==;vBdbuEC11TBTrK4F36V+Aw=="
 ---

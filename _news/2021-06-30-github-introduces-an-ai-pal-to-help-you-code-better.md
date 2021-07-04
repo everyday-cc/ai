@@ -58,22 +58,6 @@ related:
         width: 1199
         height: 478
         isCached: true
-  - title: "GitHub previews new AI tool that makes coding suggestions"
-    excerpt: "GitHub has unveiled a new product that leverages artificial intelligence to help you write code more efficiently. Named GitHub Copilot, today’s new product can suggest lines of code and even sometimes entire functions."
-    publishedDateTime: 2021-06-29T15:53:00Z
-    webUrl: "https://techcrunch.com/2021/06/29/github-previews-new-ai-tool-that-makes-coding-suggestions/"
-    ampWebUrl: "https://techcrunch.com/2021/06/29/github-previews-new-ai-tool-that-makes-coding-suggestions/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/06/29/github-previews-new-ai-tool-that-makes-coding-suggestions/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 87
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2021/06/james-harrison-vpOeXr5wmR4-unsplash.jpg?w=1024"
-        width: 1024
-        height: 576
-        isCached: true
   - title: "GitHub Copilot AI Let’s Developers Take A Back Seat As The Machine Writes Its Own Code"
     excerpt: "If I ever do, Microsoft's new GitHub Copilot might prove to be a boon. What exactly is Copilot? It is an AI pair programmer that helps coders hammer out lines and functions faster and with less work,"
     publishedDateTime: 2021-06-30T14:42:00Z

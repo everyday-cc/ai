@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/06/30/lip-reading-by-ai
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/06/30/lip-reading-by-ai-self-driving-cars-is-either-alarming-or-ingenious/amp/"
 type: article
 quality: 91
-heat: 181
+heat: 161
 published: true
 
 provider:
@@ -78,22 +78,6 @@ related:
         width: 640
         height: 480
         isCached: true
-  - title: "Feds: Companies must report crashes involving self-driving technology"
-    excerpt: "The announcement comes amid 30 ongoing investigations into Tesla crashes and as partially self-driving cars are becoming more commonplace."
-    publishedDateTime: 2021-06-29T15:41:00Z
-    webUrl: "https://www.detroitnews.com/story/business/autos/mobility/2021/06/29/feds-companies-must-report-crashes-involving-self-driving-technology/7794936002/"
-    ampWebUrl: "https://amp.detroitnews.com/amp/7794936002"
-    cdnAmpWebUrl: "https://amp-detroitnews-com.cdn.ampproject.org/c/s/amp.detroitnews.com/amp/7794936002"
-    type: article
-    provider:
-      name: Detroit News
-      domain: detroitnews.com
-    quality: 44
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2019/09/04/PDTN/6478c068-2adb-4f99-b18e-f74991a7f100-AP19246739850388.jpg?auto=webp&crop=2530,1423,x234,y0&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Gov't Tracking Crashes Involving Self-Driving Vehicles"
     excerpt: "The National Highway Traffic Safety Administration wants to monitor safety issues and likely set new regulations for the technology (3:14). WCCO Mid-Morning - June 30, 2021"
     publishedDateTime: 2021-06-30T15:15:00Z
@@ -156,15 +140,6 @@ related:
         width: 450
         height: 308
         isCached: true
-  - title: "DeepRoute.ai, Level 4 Self-Driving Technology Provider, Supports Shenzhen During COVID-19 Outbreak by Transporting Test Samples"
-    excerpt: "Following a COVID-19 outbreak in China's most populous province, Guangdong, DeepRoute.ai is currently transporting approximately 14,000 COVID-19 test samples per day to local hospitals in Shenzhen for testing through its advanced self-driving technology."
-    publishedDateTime: 2021-06-29T16:49:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-deeprouteai-level-4-self-driving-technology-provider-supports-/2021/06/29/9400205.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
 
 secured: "RKNs4ZK0+xIHLQh5rJ8GVbfDkP6r+bSlcUELKrzAu/7VvrzQwQJFu+9bJ5/NcWv2sTHaC6buWS19Uo4UxjHGA5qj/XUl/TGUFFJhHPNdgPaWCL3Hf7W12LKPOvwUvOoOClUt/JPkLit1wym73m4QoB0u9GsR7yZ+Kz/mzZiAlrstzyU8NVRrAnuYdkfgFSuMP/T1UYD5tUuYe7OZXzRceSWuHo6C08zevMn8Wg4YAqBqxIGnxl0/fn7vvh2r1z7/vIuCIrtef4rNpKoCKU30GA2tda8aOD+cPm8dyhimeaR95/E9iGZLrdoVHuTAX/2hgDI5bg7bsjRRVrBKWdZI22mRM8R6U/pHSgqluv0B0l9zN0Tz8+Qv36s8sz0/ElMEMJzxCoKVAi/a350JG7kcgQzsHlezK73uJS8L9wBqfAdyRb+TdEeVteppDSpafc9FUKANFW+a5JvXTCXzTA8ZXCJ/zfiKy1bFbjcrMMD771BWEzsJFOKq2tOqBg5FdZEduUhlB3bAW/bxiZf2mfsh/Q==;DkXCukrrXHW3JfX0t8W+Gg=="
 ---

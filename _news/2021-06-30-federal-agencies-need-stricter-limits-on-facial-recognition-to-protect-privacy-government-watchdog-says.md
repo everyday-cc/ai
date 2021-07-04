@@ -293,6 +293,20 @@ related:
         width: 800
         height: 533
         isCached: true
+  - title: "Investors issue statement on human rights implications of facial recognition technologies & commitments to due diligence"
+    excerpt: "We are 50 global institutional investors and their representatives with $4.5 trillion in assets under management as of December, 2020. As responsible investors, we incorporate Environmental, Social and Governance (ESG) factors,"
+    publishedDateTime: 2021-07-04T08:19:00Z
+    webUrl: "https://www.business-humanrights.org/en/latest-news/investors-issue-statement-on-human-rights-implications-of-facial-recognition-technologies-commitments-to-due-diligence/"
+    type: article
+    provider:
+      name: 洗護用品和肥皂
+      domain: business-humanrights.org
+    quality: 14
+    images:
+      - url: "https://media.business-humanrights.org/media/images/united-nations-419885_1280.2e16d0ba.fill-788x488.jpg"
+        width: 788
+        height: 488
+        isCached: true
 
 secured: "xc6+IqY7RT/n+7ZS1VADTG72wDnm3LhY6qKgbWgDfM5667ZOzStCNtZGVdSbQ09CB4Zcc2Csd1U4RRP6TXA7AIlGbGFsE9NPXnuBRAkMTntL8hoqMzLhYho9Tvzwg38W0yveSZpYntMaxszbmqfq5kwNd/Pg9E8zCClg2Lrt1akpVp7J9b0YEwGLG2KaXV82UWLKJoM52evWiWs2rl0i47n8j+2hz3U+cBEmkxkTtOHXLop5DWYQ/Ah64S6UwTlEj9bgjN8lVjr3Gz3IioJJ20FXO6ayXjay1yC9Q/p8coyanK5AIXvCfVNZxqTwjIWjA8VhzyrDh09NqISVmtSqg80cuRLbHxMekLIq+AlAy2m9YFRoyWOFPH/1lEkz8NyCAtkZumOgHpk/ZupSy6vnyCr9OvTADdcs8HkU41TYpCMtPEqowolU6QFl34PT9/E8fJnjfQunnk+wlEDG3Yvl3+iZ2V2K4Sx6OkTz74GgSt/Yy+5ljd1wOA06Hya2jQVEFBhu4ktjfbhT2WaKoe029g==;kGTP+DVM/QUzqvfnjFEZEg=="
 ---
