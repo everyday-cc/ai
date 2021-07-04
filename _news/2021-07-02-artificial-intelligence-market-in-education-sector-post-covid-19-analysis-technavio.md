@@ -45,22 +45,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Google taps AI to identify COVID-19 vaccine name variations"
-    excerpt: "Google says it's using a multimodal AI model to identify variations in COVID-19 vaccine names around the world."
-    publishedDateTime: 2021-06-29T17:08:00Z
-    webUrl: "https://venturebeat.com/2021/06/29/google-taps-ai-to-identify-covid-19-vaccine-name-variations/"
-    ampWebUrl: "https://venturebeat.com/2021/06/29/google-taps-ai-to-identify-covid-19-vaccine-name-variations/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/29/google-taps-ai-to-identify-covid-19-vaccine-name-variations/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 87
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2020/12/GettyImages-1281329514.jpg?w=1200&strip=all"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "AI-powered therapy bots at workplace for employees during Covid pandemic"
     excerpt: "AI is better than humans at providing support, according to a study undertaken by Workplace Intelligence.  The future of work will be influenced by the past. Last year’s virus invasion changed everything for the workforce."
     publishedDateTime: 2021-07-03T23:30:00Z

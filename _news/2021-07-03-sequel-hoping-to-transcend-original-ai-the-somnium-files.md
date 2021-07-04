@@ -9,7 +9,7 @@ ampWebUrl: "https://adventuregamers.com/news/amp/sequel-hoping-to-transcend-orig
 cdnAmpWebUrl: "https://adventuregamers-com.cdn.ampproject.org/c/s/adventuregamers.com/news/amp/sequel-hoping-to-transcend-original-ai-the-somnium-files"
 type: article
 quality: 57
-heat: 77
+heat: 78
 published: true
 
 provider:

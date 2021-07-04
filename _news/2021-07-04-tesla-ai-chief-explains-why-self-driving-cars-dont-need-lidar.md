@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/07/03/tesla-ai-chief-explains-why-self-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/03/tesla-ai-chief-explains-why-self-driving-cars-dont-need-lidar/amp/"
 type: article
 quality: 106
-heat: 136
+heat: 126
 published: true
 
 provider:
@@ -48,15 +48,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "How Tesla is Using a Supercomputer to Train its Self-driving Tech"
-    excerpt: "You can't buy a fully self-driving car today, but automakers around the globe are racing to become the first company to place such a vehicle on dealer lots. No two companies are taking the same technological path to achieve this plan,"
-    publishedDateTime: 2021-06-29T17:30:00Z
-    webUrl: "https://cacm.acm.org/news/253665-how-tesla-is-using-a-supercomputer-to-train-its-self-driving-tech/fulltext"
-    type: article
-    provider:
-      name: acm.org
-      domain: acm.org
-    quality: 34
   - title: "Tesla AI Chief Says Self-Driving Cars Don't Need Lidar"
     excerpt: "Tesla's Chief AI Scientist Andrej Karpathy explained why at this year's Computer Vision and Pattern Recognition (CVPR) conference. \"It's unscalable to collect, build, and maintain these high-definition lidar maps,"
     publishedDateTime: 2021-07-01T18:17:00Z

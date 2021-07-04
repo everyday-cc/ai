@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/07/02/biased-ai-is-not-just-bad-for-peo
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/02/biased-ai-is-not-just-bad-for-people-its-harmful-for-businesses-too/amp/"
 type: article
 quality: 87
-heat: 108
+heat: 107
 published: true
 
 provider:

@@ -95,6 +95,20 @@ related:
         width: 650
         height: 365
         isCached: true
+  - title: "Facebook AI Guru Says Regulate Its Use, Not The Tech"
+    excerpt: "Facebook's chief AI scientist and one of the company's vice presidents, LeCun is one of the computer scientists behind modern artificial intelligence. He is sceptical of recently proposed EU regulations,"
+    publishedDateTime: 2021-06-30T15:57:00Z
+    webUrl: "https://www.ibtimes.com/facebook-ai-guru-says-regulate-its-use-not-tech-3239674"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 37
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/06/30/the-eus-data-protection-agencies-have-called-for.jpg"
+        width: 1024
+        height: 682
+        isCached: true
   - title: "Facebook makes its Habitat virtual world AI training environment more interactive"
     excerpt: "Facebook Inc.’s artificial intelligence research department today announced a major update to its AI Habitat simulator, a virtual environment that’s used to teach robots how to interact with the physical world."
     publishedDateTime: 2021-06-30T14:30:00Z

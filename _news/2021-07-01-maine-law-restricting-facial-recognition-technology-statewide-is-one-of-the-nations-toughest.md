@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Maine bans facial recognition technology from schools and most police work"
+    excerpt: "Maine has passed the strongest statewide law regulating government use of facial recognition to date. The state’s House and Senate voted unanimously in favor of rules that prohibit law enforcement from using the technology unless they have probable cause that an unidentified person in an image committed a serious crime."
+    publishedDateTime: 2021-06-30T19:18:00Z
+    webUrl: "https://www.engadget.com/maine-facial-recognition-law-191252742.html"
+    ampWebUrl: "https://www.engadget.com/amp/maine-facial-recognition-law-191252742.html"
+    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/maine-facial-recognition-law-191252742.html"
+    type: article
+    provider:
+      name: Engadget
+      domain: engadget.com
+    quality: 102
+    images:
+      - url: "https://s.yimg.com/os/creatr-uploaded-images/2021-06/d57c59d0-d9d5-11eb-bf3d-ab677d87ebbc"
+        width: 4379
+        height: 2919
+        isCached: true
   - title: "Maine just enacted the country's toughest restrictions on facial recognition"
     excerpt: "A new state law limits police use of facial recognition technology, and prohibits the tech in most areas of government, including in public schools."
     publishedDateTime: 2021-07-01T17:40:00Z
@@ -242,22 +258,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Federal agencies need stricter limits on facial recognition to protect privacy, says government watchdog"
-    excerpt: "The use of facial recognition technology is widespread throughout the federal government, and many agencies don’t even know which systems they’re using. That needs to change, said the federal government’s main watchdog in a new report."
-    publishedDateTime: 2021-06-29T18:47:00Z
-    webUrl: "https://www.washingtonpost.com/technology/2021/06/29/gao-facial-recognition-blm/"
-    ampWebUrl: "https://www.washingtonpost.com/technology/2021/06/29/gao-facial-recognition-blm/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/technology/2021/06/29/gao-facial-recognition-blm/?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 42
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ZSYOA6S7JEI6XILXO5S7FGUVEQ.jpg&w=1440"
-        width: 1440
-        height: 803
-        isCached: true
   - title: "Myrtle Beach Police Use Controversial Facial Recognition Tool"
     excerpt: "The South Carolina police department has been using the facial recognition software, Clearview AI, for more than a year. Law enforcement officials said that the department has ultimately decided not to use the service."
     publishedDateTime: 2021-06-30T21:26:00Z
@@ -283,31 +283,43 @@ related:
         width: 800
         height: 533
         isCached: true
-  - title: "Federal agencies need stricter limits on facial recognition to protect privacy, government watchdog says"
-    excerpt: "Some federal agencies had their own facial recognition databases, but most used private companies like Clearview AI and Amazon, which offers a tool called Rekognition. Many couldn't say for sure which systems they had used."
-    publishedDateTime: 2021-06-30T00:54:00Z
-    webUrl: "https://www.seattletimes.com/business/technology/federal-agencies-need-stricter-limits-on-facial-recognition-to-protect-privacy-government-watchdog-says/"
-    ampWebUrl: "https://www.seattletimes.com/business/technology/federal-agencies-need-stricter-limits-on-facial-recognition-to-protect-privacy-government-watchdog-says/?amp=1"
-    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/technology/federal-agencies-need-stricter-limits-on-facial-recognition-to-protect-privacy-government-watchdog-says/?amp=1"
+  - title: "13 federal law enforcement agencies haven’t been monitoring facial recognition technology use"
+    excerpt: "The report from the U.S. Government Accountability Office (GAO) said 13 of the federal law enforcement agencies surveyed that use facial recognition technology did not have a system in place to track when or how employees were using the system or to assess the privacy risks associated with the use."
+    publishedDateTime: 2021-07-02T21:40:00Z
+    webUrl: "https://www.wpxi.com/news/top-stories/13-federal-law-enforcement-agencies-havent-been-monitoring-facial-recognition-technology-use/XLJYVPKNLRB37G2W252WIKKJXA/"
     type: article
     provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 22
-  - title: "Investors issue statement on human rights implications of facial recognition technologies & commitments to due diligence"
-    excerpt: "We are 50 global institutional investors and their representatives with $4.5 trillion in assets under management as of December, 2020. As responsible investors, we incorporate Environmental, Social and Governance (ESG) factors,"
-    publishedDateTime: 2021-07-04T08:19:00Z
-    webUrl: "https://www.business-humanrights.org/en/latest-news/investors-issue-statement-on-human-rights-implications-of-facial-recognition-technologies-commitments-to-due-diligence/"
-    type: article
-    provider:
-      name: 洗護用品和肥皂
-      domain: business-humanrights.org
-    quality: 14
+      name: WPXI
+      domain: wpxi.com
+    quality: 28
     images:
-      - url: "https://media.business-humanrights.org/media/images/united-nations-419885_1280.2e16d0ba.fill-788x488.jpg"
-        width: 788
-        height: 488
+      - url: "https://d1hfln2sfez66z.cloudfront.net/07-02-2021/t_0b890523399842af94bf32e2b9fcc9b0_name_file_960x540_1200_v3_1_.jpg"
+        width: 960
+        height: 540
         isCached: true
+  - title: "GAO: Some Federal Agencies’ Use of Facial Recognition Technology Opens Door for Potential Risks"
+    excerpt: "Fourteen federal agencies reported using facial recognition technology systems owned by non-federal entities to support criminal investigations, and 13 out of the 14 agencies did not have an up-to-date information on what non-federal systems were being used by employees,"
+    publishedDateTime: 2021-07-02T09:20:00Z
+    webUrl: "https://www.hstoday.us/subject-matter-areas/biometrics-id-management/gao-some-federal-agencies-use-of-facial-recognition-technology-opens-door-for-potential-risks/"
+    type: article
+    provider:
+      name: Homeland Security Today
+      domain: hstoday.us
+    quality: 27
+    images:
+      - url: "https://www.hstoday.us/wp-content/uploads/2021/06/eye-5814965_1920.jpg"
+        width: 1920
+        height: 1280
+        isCached: true
+  - title: "Global Facial Recognition Technology in the Financial Services Market Size, Status and Forecast 2021-2027"
+    excerpt: "Pages Report] Check for Discount on Global Facial Recognition Technology in the Financial Services Market Size, Status and Forecast 2021-2027 report by QYResearch Group. The use of AI has grown exponentially in recent years,"
+    publishedDateTime: 2021-06-30T07:43:00Z
+    webUrl: "https://www.reportsnreports.com/reports/4624723-global-facial-recognition-technology-in-the-financial-services-market-size-status-and-forecast-2021-2027.html"
+    type: article
+    provider:
+      name: ReportsnReports
+      domain: reportsnreports.com
+    quality: 2
 
 secured: "GAWLtLdwkYhFhdCodCifYkgZYEAKdTfMI1J/mVrnZzvfhPmickinR+oRxw/t2E0NpeIEHHL48N/8/4ojAGfoUjtBGD9uFuy263t20tpo2L62u7lLUy+tFZ/fVfPs2nZsK25s2j7vUT9HoXKxtng7v5R8fY5qaWrrL2i6tozp5DqnxnZwJSt6HBmYOB5ffQOEhb0LfcZHBaqARGK6wL1RW+LzBPKp+yU7mWE7A+HHkIlwoye5cdgt01RkzEJTo2Pg/cJnTzVWE+AHYbPq5IR+qSklVhnGDIzKGcrtrKPU7jMHGSY/Q0hUsOyI25xMj9XQ1sQwITaQAIbzDwXAf4erVtiTQzseGqhlBZffr25gGeXOURXiXJ5jYe4W3W0O9dtdIO3962mjkeyDSl10xS5omzZbFdwWdH3RB1lXS6FXeFUNaobxMWgh7aCmW9VMsNcJe7DF5wnrHb5Qwwtx58VKydFY+5cfJlpY1pHKXwZHRaKCdrbGBHxZGdNcci45DdRkUgXTwuwVWkofiThTY+LYkg==;rveUey4kkuuYA6tAwseN0Q=="
 ---

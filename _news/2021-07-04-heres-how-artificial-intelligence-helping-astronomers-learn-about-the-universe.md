@@ -40,20 +40,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "Debunking the AI Arms Race Theory"
-    excerpt: "The so-called AI arms race has become a common feature in news headlines, 4 but the arms race framing fails to match reality. While nations are clearly competing to develop and adopt AI technology for military use,"
-    publishedDateTime: 2021-06-29T17:06:00Z
-    webUrl: "https://www.cnas.org/publications/commentary/debunking-the-ai-arms-race-theory"
-    type: article
-    provider:
-      name: CNAS
-      domain: cnas.org
-    quality: 39
-    images:
-      - url: "https://s3.us-east-1.amazonaws.com/files.cnas.org/hero/GettyImages-1198282249-1.jpg?mtime=20210629125925&focal=none"
-        width: 2121
-        height: 1414
-        isCached: true
 
 secured: "z8NgFCWvb3S6LXThZMHBGrLm9LlxBcbRYIhCis7l1oglb5KdJ/Pu+lYQ/logVVAhN4V2HmE67Y1OLCO+IZZBu026JXHlw42+YVozIaBqDowblu97hPs7c0E72AvNJN5aUNS3dyfUxQXsy6bc9ITCq2Ngev21UGL4mWHsa1AbSFEPKKeymyvsKOpnGz0ou68eF4d6kg5oFaBDC+jqX0DIcry95W94dXmvUYXBZj0ie8Amv3Lz7NgBI18oULZPkt6RCTLiWfi+HvJU39LY4rMDdOdOxB+K1b1/kutQY4EQaRWtJCtyajdHiN02imzPc5SG5WQFEJyc30teGrWhNyr/SDdtC0F0A6ki7sJFG7u0HAE=;LMZ+YPZahboIWmOrUovkbA=="
 ---

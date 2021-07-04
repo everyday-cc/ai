@@ -73,22 +73,6 @@ related:
         width: 800
         height: 450
         isCached: true
-  - title: "Government report finds 20 different agencies use facial recognition"
-    excerpt: "A new report from the Government Accountability Office (GAO) found that 20 federal agencies either own or use facial recognition technology."
-    publishedDateTime: 2021-06-29T17:46:00Z
-    webUrl: "https://www.dailydot.com/debug/gao-facial-recognition-federal-agencies/"
-    ampWebUrl: "https://www.dailydot.com/debug/gao-facial-recognition-federal-agencies/?amp"
-    cdnAmpWebUrl: "https://www-dailydot-com.cdn.ampproject.org/c/s/www.dailydot.com/debug/gao-facial-recognition-federal-agencies/?amp"
-    type: article
-    provider:
-      name: The Daily Dot
-      domain: dailydot.com
-    quality: 59
-    images:
-      - url: "https://uploads.dailydot.com/2021/06/GAO-Report-Federal-Government-Facial-Recognition.jpg?auto=compress%2Cformat&ixlib=php-3.3.0"
-        width: 2000
-        height: 1000
-        isCached: true
   - title: "Watchdog: 10 Government Agencies Deployed Clearview AI Facial Recognition Tech"
     excerpt: "A Government Accountability Office report details how agencies used different versions of the biometric technology during the pandemic and protests."
     publishedDateTime: 2021-06-29T21:06:00Z
@@ -130,34 +114,17 @@ related:
       name: Reason
       domain: reason.com
     quality: 31
-  - title: "13 federal law enforcement agencies haven’t been monitoring facial recognition technology use"
-    excerpt: "The report from the U.S. Government Accountability Office (GAO) said 13 of the federal law enforcement agencies surveyed that use facial recognition technology did not have a system in place to track when or how employees were using the system or to assess the privacy risks associated with the use."
-    publishedDateTime: 2021-07-02T21:40:00Z
-    webUrl: "https://www.wpxi.com/news/top-stories/13-federal-law-enforcement-agencies-havent-been-monitoring-facial-recognition-technology-use/XLJYVPKNLRB37G2W252WIKKJXA/"
+  - title: "Federal agencies need stricter limits on facial recognition to protect privacy, government watchdog says"
+    excerpt: "Some federal agencies had their own facial recognition databases, but most used private companies like Clearview AI and Amazon, which offers a tool called Rekognition. Many couldn't say for sure which systems they had used."
+    publishedDateTime: 2021-06-30T00:54:00Z
+    webUrl: "https://www.seattletimes.com/business/technology/federal-agencies-need-stricter-limits-on-facial-recognition-to-protect-privacy-government-watchdog-says/"
+    ampWebUrl: "https://www.seattletimes.com/business/technology/federal-agencies-need-stricter-limits-on-facial-recognition-to-protect-privacy-government-watchdog-says/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/technology/federal-agencies-need-stricter-limits-on-facial-recognition-to-protect-privacy-government-watchdog-says/?amp=1"
     type: article
     provider:
-      name: WPXI
-      domain: wpxi.com
-    quality: 28
-    images:
-      - url: "https://d1hfln2sfez66z.cloudfront.net/07-02-2021/t_0b890523399842af94bf32e2b9fcc9b0_name_file_960x540_1200_v3_1_.jpg"
-        width: 960
-        height: 540
-        isCached: true
-  - title: "GAO: Some Federal Agencies’ Use of Facial Recognition Technology Opens Door for Potential Risks"
-    excerpt: "Fourteen federal agencies reported using facial recognition technology systems owned by non-federal entities to support criminal investigations, and 13 out of the 14 agencies did not have an up-to-date information on what non-federal systems were being used by employees,"
-    publishedDateTime: 2021-07-02T09:20:00Z
-    webUrl: "https://www.hstoday.us/subject-matter-areas/biometrics-id-management/gao-some-federal-agencies-use-of-facial-recognition-technology-opens-door-for-potential-risks/"
-    type: article
-    provider:
-      name: Homeland Security Today
-      domain: hstoday.us
-    quality: 27
-    images:
-      - url: "https://www.hstoday.us/wp-content/uploads/2021/06/eye-5814965_1920.jpg"
-        width: 1920
-        height: 1280
-        isCached: true
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 22
   - title: "Report Finds Widespread Use of Facial Recognition Technology by Federal Agencies Could Pose Privacy Risk"
     excerpt: "The report recommends that agencies track and assess the systems they use to mitigate the privacy and accuracy risks."
     publishedDateTime: 2021-07-01T15:26:00Z

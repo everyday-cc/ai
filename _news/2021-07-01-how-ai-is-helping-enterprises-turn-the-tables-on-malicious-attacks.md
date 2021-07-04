@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/07/01/how-ai-is-helping-enterprises-tur
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/01/how-ai-is-helping-enterprises-turn-the-tables-on-malicious-attacks/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 119
 published: true
 
 provider:
@@ -30,6 +30,22 @@ images:
     isCached: true
 
 related:
+  - title: "The future of the AI-based enterprise"
+    excerpt: "Imagine an enterprise like a living organism that will naturally adapt based on the environment. Its products and services, will grow, shrink, defend, and heal themselves as needed. This is the future of the AI -based enterprise."
+    publishedDateTime: 2021-07-04T10:51:00Z
+    webUrl: "https://www.techradar.com/news/the-future-of-the-ai-based-enterprise"
+    ampWebUrl: "https://www.techradar.com/amp/news/the-future-of-the-ai-based-enterprise"
+    cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/the-future-of-the-ai-based-enterprise"
+    type: article
+    provider:
+      name: TechRadar
+      domain: techradar.com
+    quality: 87
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/Wcc69A4Ts8bhSbGgJeGkoZ-480-80.jpg"
+        width: 480
+        height: 320
+        isCached: true
   - title: "Four ways artificial intelligence is helping us learn about the universe"
     excerpt: "To take on these challenges, astronomers are turning to machine learning and artificial intelligence (AI) to build new tools to rapidly search for the next big breakthroughs. Here are four ways AI is helping astronomers."
     publishedDateTime: 2021-07-01T16:07:00Z

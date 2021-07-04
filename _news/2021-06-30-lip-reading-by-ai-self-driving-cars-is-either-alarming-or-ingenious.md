@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/06/30/lip-reading-by-ai
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/06/30/lip-reading-by-ai-self-driving-cars-is-either-alarming-or-ingenious/amp/"
 type: article
 quality: 91
-heat: 161
+heat: 151
 published: true
 
 provider:
@@ -63,20 +63,6 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60db889ae6c06c3e3dc220d5%2F0x0.jpg%3FcropX1%3D17%26cropX2%3D3260%26cropY1%3D57%26cropY2%3D1881"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Automakers must report crashes involving self-driving and driver-assist systems"
-    excerpt: "The National Highway Traffic Safety Administration (NHTSA) has implemented a new policy that will require car companies to report incidents involving semi- and fully autonomous driving systems within one day of learning of an accident."
-    publishedDateTime: 2021-06-29T17:49:00Z
-    webUrl: "https://www.engadget.com/nhtsa-automated-driving-system-crash-report-174552853.html"
-    type: article
-    provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 50
-    images:
-      - url: "https://s.yimg.com/os/creatr-images/2020-01/1e88d580-3edd-11ea-8a57-ce70dbfb73e6"
-        width: 640
-        height: 480
         isCached: true
   - title: "Gov't Tracking Crashes Involving Self-Driving Vehicles"
     excerpt: "The National Highway Traffic Safety Administration wants to monitor safety issues and likely set new regulations for the technology (3:14). WCCO Mid-Morning - June 30, 2021"

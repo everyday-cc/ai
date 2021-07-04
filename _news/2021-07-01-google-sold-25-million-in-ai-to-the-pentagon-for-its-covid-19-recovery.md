@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/thomasbrewster/2021/07/01/google-sold-m
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/thomasbrewster/2021/07/01/google-sold-millions-in-ai-to-support-the-pentagon-covid-19-recovery/amp/"
 type: article
 quality: 188
-heat: 258
+heat: 248
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Google taps AI to identify COVID-19 vaccine name variations"
-    excerpt: "Google says it's using a multimodal AI model to identify variations in COVID-19 vaccine names around the world."
-    publishedDateTime: 2021-06-29T17:08:00Z
-    webUrl: "https://venturebeat.com/2021/06/29/google-taps-ai-to-identify-covid-19-vaccine-name-variations/"
-    ampWebUrl: "https://venturebeat.com/2021/06/29/google-taps-ai-to-identify-covid-19-vaccine-name-variations/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/29/google-taps-ai-to-identify-covid-19-vaccine-name-variations/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 87
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2020/12/GettyImages-1281329514.jpg?w=1200&strip=all"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Artificial Intelligence Market in Education Sector | Post COVID-19 Analysis | Technavio"
     excerpt: "Artificial Intelligence Market in the Education Sector: Significant scope of AI applications The rapid increase in classroom sizes has reduced the interaction between students and teachers."
     publishedDateTime: 2021-07-01T20:13:00Z

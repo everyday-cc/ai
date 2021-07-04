@@ -75,20 +75,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Automakers must report crashes involving self-driving and driver-assist systems"
-    excerpt: "The National Highway Traffic Safety Administration (NHTSA) has implemented a new policy that will require car companies to report incidents involving semi- and fully autonomous driving systems within one day of learning of an accident."
-    publishedDateTime: 2021-06-29T17:49:00Z
-    webUrl: "https://www.engadget.com/nhtsa-automated-driving-system-crash-report-174552853.html"
-    type: article
-    provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 50
-    images:
-      - url: "https://s.yimg.com/os/creatr-images/2020-01/1e88d580-3edd-11ea-8a57-ce70dbfb73e6"
-        width: 640
-        height: 480
-        isCached: true
   - title: "Big Tech car race means self-drive or be driven out"
     excerpt: "The world’s top 10 carmakers had an operating margin of only 5.2% in 2020, a fraction of the 34% enjoyed by the tech industry’s leaders, data compiled by Bloomberg show. But for Apple and other big groups diving into self-driving tech or with grand plans for their own cars,"
     publishedDateTime: 2021-07-01T03:05:00Z

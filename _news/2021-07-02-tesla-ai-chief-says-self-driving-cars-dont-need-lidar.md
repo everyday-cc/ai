@@ -51,15 +51,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "How Tesla is Using a Supercomputer to Train its Self-driving Tech"
-    excerpt: "You can't buy a fully self-driving car today, but automakers around the globe are racing to become the first company to place such a vehicle on dealer lots. No two companies are taking the same technological path to achieve this plan,"
-    publishedDateTime: 2021-06-29T17:30:00Z
-    webUrl: "https://cacm.acm.org/news/253665-how-tesla-is-using-a-supercomputer-to-train-its-self-driving-tech/fulltext"
-    type: article
-    provider:
-      name: acm.org
-      domain: acm.org
-    quality: 34
 
 secured: "7pziHwrWSWlF2GCNhBF0rYaM3DQNsre8sgIA2N3cT/2GnCc8h2WA6jwJN7Jwyx7TMcbwCq7P0xihadUyVFvsYJSZBXwWirHVRtGLXqvtb57k/sLcui5B33A1h9CbVwL4zdWMxbnQZ+bm9QQs9Jo0LNROcPz19DnN5Ic4pLs8DN9d6RnOjmntYLAdpnuTU2biOD9wmdk3o4rUZTtQaOe35fuZ5pZAj711SdHQbqI2YXYUnSzpGl+5xL7OgHIALgDnx2uYMGaUS0DXi+q8A02D8O6lPt4elE2QYvZRTfuMwp+zbmhojNJeIiv72kPn4tlqCipD/a7h45LNxR7F0GuTS5NQtEXwf+ZIl0aZqKl0XaWcUcI6r/e5ITCf27j2sUNhJL5xyfRyn5uxAlhBZMdCb05qc5JHPEIj07YBy2nXbUc/NdQU0dRe8iRmP4sqc8wLOmnFOGOWOSxSFwOwTiSFvykctpYBMs8wTDyrT7YefbMpTFYRoa8IVTtNvywxJJ8dRuOsIWXaRQZM4pX3S28RSw==;+VPSeWhz2P6kbFe6wov4hQ=="
 ---

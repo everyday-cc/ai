@@ -7,7 +7,7 @@ originalUrl: "https://arstechnica.com/gadgets/2021/06/dells-199-ultrasharp-4k-we
 webUrl: "https://arstechnica.com/gadgets/2021/06/dells-199-ultrasharp-4k-webcam-has-ai-onboard-but-no-microphone/"
 type: article
 quality: 67
-heat: 77
+heat: 78
 published: true
 
 provider:

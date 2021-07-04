@@ -9,7 +9,7 @@ ampWebUrl: "https://tech.hindustantimes.com/amp/tech/news/banking-tech-is-all-ab
 cdnAmpWebUrl: "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/tech/news/banking-tech-is-all-about-digital-disruptions-and-financial-services-71625308703817.html"
 type: article
 quality: 59
-heat: 69
+heat: 59
 published: false
 
 provider:
@@ -25,17 +25,6 @@ images:
     width: 1600
     height: 900
     isCached: true
-
-related:
-  - title: "Global Facial Recognition Technology in the Financial Services Market Size, Status and Forecast 2021-2027"
-    excerpt: "Pages Report] Check for Discount on Global Facial Recognition Technology in the Financial Services Market Size, Status and Forecast 2021-2027 report by QYResearch Group. The use of AI has grown exponentially in recent years,"
-    publishedDateTime: 2021-06-30T07:43:00Z
-    webUrl: "https://www.reportsnreports.com/reports/4624723-global-facial-recognition-technology-in-the-financial-services-market-size-status-and-forecast-2021-2027.html"
-    type: article
-    provider:
-      name: ReportsnReports
-      domain: reportsnreports.com
-    quality: 2
 
 secured: "HDeq9PmRBdKEc8jpyZk55rUfG3acyK1Xt7KtGdu6DmgitIJaeh3D08E22Nu9wyGnSIY0ggpc2ER0pSn9Vktr1o4VHIMhu9Xew04SLjAs9aQq7rvDdlviM1a3Xe2ErrQHrXVQ+MTcvVbXZQ7KdqfpMhaWa/OJ1W/z0fG5ZRT04+Lr4VT9zSDB5eIJ6ZbR4taJC9ujN5T1fdszg/5X8DIzz+c1WEa0tDjGvFJMhHPp5Y9TPtPGuic/km8T/1rKgkxVFKWCsDCF55tnZDwFjVoTpSOo+0Y1M8UTZlKmcMBOBBLgY+EhddOYB5ELs7ZvXQQEo1mtPDk5MlW4z52E6YF9fAAoOYyRNLDZLcpxouiwZ3pnvcIq9h34aMOsdEjSqTfM/diF0BiBvTquZCO+hh9GgtS7hGWPPqK2qS0mwaFIDwv6W8g9b9pnyIvaDGn55qFh8k+Rcy2DHYmdNLhCTfBLOIebJVOSC8qy6DiazPMdGHrhLF6lsX5l+FRjrtcfHS2EydzQZGGxgzu6IMKRhRAlcw==;6RSftkWA7z4Sdh1+tcDW5Q=="
 ---
