@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/06/30/lip-reading-by-ai
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/06/30/lip-reading-by-ai-self-driving-cars-is-either-alarming-or-ingenious/amp/"
 type: article
 quality: 91
-heat: 201
+heat: 181
 published: true
 
 provider:
@@ -32,20 +32,6 @@ images:
     isCached: true
 
 related:
-  - title: "Huawei aims on improving travel experience in self driving cars: Patent"
-    excerpt: "Huawei has just recently published a new patent, which was related to the control system of autonomous vehicles. While smart cars with self driving technology are already available, the company seeks to improve the overall driving and travel experience."
-    publishedDateTime: 2021-06-29T12:51:00Z
-    webUrl: "https://www.gizmochina.com/2021/06/29/huawei-improve-self-driving-car-experience/"
-    type: article
-    provider:
-      name: Gizmochina
-      domain: gizmochina.com
-    quality: 84
-    images:
-      - url: "https://www.gizmochina.com/wp-content/uploads/2019/05/self-driving-cars.jpeg"
-        width: 1024
-        height: 683
-        isCached: true
   - title: "Blending Computing with AI & Machine Learning for Low Risk High Returns"
     excerpt: "Liquidity in real estate may not be immediate, interest in fixed deposits is low in comparison to equities’ returns in the long term."
     publishedDateTime: 2021-07-03T16:53:00Z
@@ -61,20 +47,6 @@ related:
       - url: "https://www.outlookindia.com/outlookmoney/public/uploads/article/gallery/6d5a7c95791a791b2691fc65cddd0c1f.jpg"
         width: 1000
         height: 708
-        isCached: true
-  - title: "Staying On Top Of Trends Is Key To Tapping Into The Growing AI Market"
-    excerpt: "The Covid-19 crisis has accelerated the development of the AI industry. It has also spurred adoption of and investment in artificial intelligence technologies not only from large institutions but also small-business owners."
-    publishedDateTime: 2021-06-29T11:20:00Z
-    webUrl: "https://www.forbes.com/sites/forbesfinancecouncil/2021/06/29/staying-on-top-of-trends-is-key-to-tapping-into-the-growing-ai-market/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 67
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F600b279b38fb40a4043817d3%2F0x0.jpg"
-        width: 1200
-        height: 800
         isCached: true
   - title: "Rating The Fast And Furious Movies Hottest Vehicles And Gazing Into The Future Toward An Era Of AI Self-Driving Cars"
     excerpt: "Moviegoers are eagerly going to see the latest in the Fast and Furious film franchise, which brings up which of the series cars are the hottest, along with what will happen in the future when we have AI driverless self-driving cars."

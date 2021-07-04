@@ -39,17 +39,6 @@ related:
         width: 1834
         height: 960
         isCached: true
-  - title: "Global Facial Recognition Market SWOT Analysis, Key Indicators, Forecast 2027 : NEC Corporation, Safran Group, Cognitec Systems GmbH, Keylemon"
-    excerpt: "Facial Recognition The report on the Global Facial Recognition Market Research Report Covers Present Data and Deep Analysis And Forecast 2021 2027 market published by Zion Market Research provides a close watch on current market trends opportunities and revenue growth"
-    publishedDateTime: 2021-06-29T12:02:00Z
-    webUrl: "https://www.openpr.com/news/2316574/global-facial-recognition-market-swot-analysis-key"
-    ampWebUrl: "https://www.openpr.com/amp/2316574/global-facial-recognition-market-swot-analysis-key"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2316574/global-facial-recognition-market-swot-analysis-key"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 3
 
 secured: "ymoBYr/9NJt7VgIqQ0kNztoOYXcZfCDhsOAqFgPco1o7xY/7xoPP3bAKA8SD7MvtTWlf1qGQHYobsaavelWZ2ks7uKgqH6nt1HaGCaomFKAyYTln7+bHUMTNnjJDIjJRXrVC4C1XE7c4Tf7qH48c2vo+8lvlNcRUnNJrUUrwrzoWJrM9yRiA/5Lhv/txxA8XgREIJUm1Od1MTOOilp2Bvegr9HJzbbIjYM7ow2dMOokaNjKwc+9JG9YLSEXSPARtzXlxBb22vaI284AEvA81g+uSiG5RFZqhktLHoce/7BaYO7kBbYp4R36+tYNdChgxyuit1sdWY4JLltzJgab6612SFVQzIJieqFQvKzWSN7OLdfnmDarw4yUtO7kseABf8AFMT4OYgC1v9CeHPVpA0mzanRC3UMGsuhIsZF5irsUlTVxPBrXfCQjwpyN8LilDtujmjDDkt/ASzqtasPoS3j4uadTh49sydwGZ11Gl0wmgMw2q0QAGhzVLOkNuwVuA8IrP/cTSi4zTIPXRrlVkpQ==;QvXT9pn9Yx/9NWWwXDi4+g=="
 ---

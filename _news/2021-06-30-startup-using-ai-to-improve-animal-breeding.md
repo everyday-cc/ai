@@ -40,6 +40,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "How do we get to a possible future with AI? Meet the AI Adoption Maturity Curve"
+    excerpt: "PROS Chief AI Strategist Dr. Michael Wu outlines a valuable maturity model for AI - something sorely needed as AI increasingly becomes a necessity and a commodity."
+    publishedDateTime: 2021-06-30T06:42:00Z
+    webUrl: "https://www.zdnet.com/article/how-do-we-get-to-a-possible-future-with-ai-the-ai-adoption-maturity-curve/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/how-do-we-get-to-a-possible-future-with-ai-the-ai-adoption-maturity-curve/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/how-do-we-get-to-a-possible-future-with-ai-the-ai-adoption-maturity-curve/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 83
+    images:
+      - url: "https://www.zdnet.com/a/hub/i/2021/06/30/0d5a3bde-72e0-46e3-b1b1-0b157d2c0036/michael-wu.jpg"
+        width: 449
+        height: 449
+        isCached: true
 
 secured: "T37oyGLEzPf5ggNJihVxTcd/Tf4zNGctYISKlcukr6vEPB+DCb0wTKzQxRkCV8H1uSYDEk73mw55R7NRMvcPfK5CYTmnhX6Jq/7q7PBBW+i/ya5tlRmIdugmvOSlBfjB4h6hQGrklIrm41pp7tLnuUg7jN9TNK5Y95mhYoVUbTZMLCkqmml2pBqNYyXcWle4jjN3LWknxZG8Qm0ydB2/sHi1NFANKbJoQl230Y2tNkR5Ys4R2hsYZhzYuVMO3VUvroGo9xzQRfco7I60hn5xomKBZzGvKUkGb42y+RTcomglxqKg5Oaxgn599GMPCvkDvvILuPX0vZsX0DN648yn/AevWzNRSjmPsD4tCUabQkP4D+XjnGxayibggCYOK+RmF5l+uiWBtGFdFrOhLRPft9wu5/M3+myOvl9HpputP9/AixpmZl/UKJqx7Ax+YYiWwnA/vEksRZIm6rf7ircChEHjyjFux9DEmlI/SGGRnlC+XT/HZI5sIUkl6iWfxFUtC+hA28QzzrqU1q8Uhynt4A==;wTGWiRWxHA67xPHDMCJHbw=="
 ---

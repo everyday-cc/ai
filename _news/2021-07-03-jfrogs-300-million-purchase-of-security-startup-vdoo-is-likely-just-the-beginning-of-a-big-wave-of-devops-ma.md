@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/jfrog-acquires-vdo
 webUrl: "https://markets.businessinsider.com/news/stocks/jfrog-acquires-vdoo-analysts-devops-acquisitions-mergers-ma-wave-2021-7"
 type: article
 quality: 49
-heat: -1
+heat: 49
 published: false
 
 provider:
@@ -27,24 +27,6 @@ images:
     width: 701
     height: 526
     isCached: true
-
-related:
-  - title: "DevOps platform JFrog acquires AI-based IoT and connected device security specialist Vdoo for $300M"
-    excerpt: "JFrog, the company best known for a platform that helps developers continuously manage software delivery and updates, is making a deal to help it expand its presence and expertise in an area that has become increasingly connected to DevOps: security."
-    publishedDateTime: 2021-06-29T11:30:00Z
-    webUrl: "https://techcrunch.com/2021/06/29/devops-platform-jfrog-acquires-ai-based-iot-and-connected-device-security-specialist-vdoo-for-300m/"
-    ampWebUrl: "https://techcrunch.com/2021/06/29/devops-platform-jfrog-acquires-ai-based-iot-and-connected-device-security-specialist-vdoo-for-300m/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/06/29/devops-platform-jfrog-acquires-ai-based-iot-and-connected-device-security-specialist-vdoo-for-300m/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 90
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2021/06/GettyImages-1168836247-1.jpg?w=1024"
-        width: 1024
-        height: 683
-        isCached: true
 
 secured: "H0SISoH3F4qRmQy0g28IR4aHOLfDSOxddxuA+yhOpZ1MxyFFwitbvJ2xj5EaA8emHKlLLo/g9mJZC61mHaEpVWi7Pltw9IenLtLwwpEOKRu8fyng6h0zoxICrp/eZZyZ3NsPVoasMHGvD32RfMI/Xqh1GE8KigR9wZff+68dUm6mDPMeN/lILzN80lL2KVzKuzq0YTI6wE9zq3GEKJSr38dKjKVQCLn+bIC9RjeRbgfBHK8j2yzQtqYIwcFFSia9Og7RJ1i+FBTY/Lprncir0C1A+o49BKiPGbH095dXZcMVEci5Viu+g4lLHfMrnVxXAQcxmeGGoTFC+7IpOoA0aEXeODkYZZwwPp/g+tvLE26Yp7IvANSIgcTwddqFzK3Bxb4HiT09lA0Ex6RDRBrsKmupvKOLuU1cdwudIhWC8V2T5dwxkG+iqDiNUor0popg78hnJY3FQQ0rR6MRAewuPAEZIXHhGaMIJq38Gt9cHw/YqUpzAO+E8WRbXpVsBj1GA3dnE7tUx3sOUT45iH9u2A==;5KhtJCs6w9m6Zb0JMeJ/JQ=="
 ---

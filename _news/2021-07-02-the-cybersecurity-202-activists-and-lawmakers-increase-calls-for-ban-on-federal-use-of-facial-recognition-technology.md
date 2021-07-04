@@ -43,6 +43,15 @@ related:
         width: 1200
         height: 900
         isCached: true
+  - title: "Cybersecurity for consumer robots"
+    excerpt: "Consumer adoption of robotic devices to perform repetitive tasks like lawn cutting, vacuum cleaning, and clothes ironing is becoming an established market. As better-performing and more economically attractive products reach the market,"
+    publishedDateTime: 2021-07-04T04:03:00Z
+    webUrl: "https://electronics360.globalspec.com/article/16895/cybersecurity-for-consumer-robots"
+    type: article
+    provider:
+      name: Engineering360 News
+      domain: globalspec.com
+    quality: 19
 
 secured: "Y32eL+uWb1BGUgs0sggNtWhyN+aif3VxzM5rzO7C+cxkmyWKyDsmJE8G0NgMujDBx43G7ixDUNX/JAwOjaXoiwgRhgYbuZzFQvnW7NdtZY6WNozzUVGc6xW2H/luwyuHwysEVNYi7wmKM16dsGBhG2BYmmdheUG4hD/9/5JvwZ/PfhABoIeN7m5/oIaMeS6E6aNCNltYQ6IWmNxv3HV/rUA5dPcvseqrqjyTk2FmD11V3uMGiazpshwWjgY7cQxm+mc5yJQn52DFOqiprDzJVJaA8mu/6WEHRAIHUEV4kvK6O/PE72pGKuiJdrHa63iVuPjMBzQYH4ZQiFrweTsNJpqMtBV75BlQJuYnm7VbNs+viraQVyeL/AXYiueefeZhA0cwQvScBhNi/ppPOP+t6sh4y+Jnr9nctY9Wns9nSUlE0lhvKyoEIqcSpEXqxF3OFxT/E3hFaxqTQj9/TQAU1jMth9sEznbDhWZmgxyoLBdH+m3Wo/a2GYMH4LYHCdzDp8Vw0vKGHCD7EVYcQ2cCoA==;ABSNwJoy5vzDylOaQ6txpg=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/06/29/microsoft-launches-azure-arc-enab
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/29/microsoft-launches-azure-arc-enabled-sql-in-general-availability/amp/"
 type: article
 quality: 119
-heat: 259
+heat: 249
 published: true
 
 provider:
@@ -42,20 +42,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 84
-  - title: "Microsoft Announces the General Availability of Azure ND A100 V4 Cloud GPU Instances"
-    excerpt: "Microsoft announced the general availability of the Azure ND A100 v4 Cloud GPU instances—powered by NVIDIA A100 Tensor Core GPUs. These Virtual Machines (VMs) are targeted at customers with high performance and demanding workloads like Artificial Intelligence (AI) and Machine Learning (ML) workloads."
-    publishedDateTime: 2021-06-29T11:08:00Z
-    webUrl: "https://www.infoq.com/news/2021/06/azure-a100-gpu-nvidia-ga/"
-    type: article
-    provider:
-      name: InfoQ
-      domain: infoq.com
-    quality: 79
-    images:
-      - url: "https://res.infoq.com/news/2021/06/azure-a100-gpu-nvidia-ga/en/headerimage/header+%281%29-1624710420680.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Microsoft bolsters Azure with AT&T 5G deal and security collaboration"
     excerpt: "Microsoft has struck agreements with US networking giant AT&T and the cyber security organisation MITRE to bring additional 5G support as well as threat monitoring capabilities to Azure. As part of its deal with MITRE,"
     publishedDateTime: 2021-07-01T15:35:00Z

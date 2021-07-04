@@ -25,29 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Getting Started with AI using IBM Watson"
-    excerpt: "In this course you will learn how to quickly and easily get started with Artificial Intelligence using IBM Watson. You will understand how Watson works, become familiar with its use cases and real ..."
-    publishedDateTime: 2021-06-29T11:44:00Z
-    webUrl: "https://www.usnews.com/education/skillbuilder/getting-started-with-ai-using-ibm-watson-0_GdR9t4MnEem1fhKdUV_ohA"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 64
-  - title: "Global AI In Medical Imaging Market 2021 Industry Growth – General Electric, IBM Watson Health, Philips Healthcare, SAMSUNG"
-    excerpt: "MarketQuest.biz has rolled out a report titled Global AI In Medical Imaging Market 2021 by Company, Regions, Type and Application, Forecast to 2026 that is filled with imperative insights on the market,"
-    publishedDateTime: 2021-06-30T13:15:00Z
-    webUrl: "https://ksusentinel.com/2021/06/30/global-ai-in-medical-imaging-market-2021-industry-growth-general-electric-ibm-watson-health-philips-healthcare-samsung/"
-    type: article
-    provider:
-      name: The Sentinel
-      domain: ksusentinel.com
-    quality: 45
-    images:
-      - url: "https://healthitanalytics.com/images/site/features/_normal/2020-11-20_AI_for_Medical_Imaging.jpg"
-        width: 690
-        height: 400
-        isCached: true
   - title: "IBM and AI Experience"
     excerpt: "I was on a call with IBM research this week talking about how IBM is deploying artificial intelligence (AI). See more about IBM's AI here:"
     publishedDateTime: 2021-07-02T19:17:00Z

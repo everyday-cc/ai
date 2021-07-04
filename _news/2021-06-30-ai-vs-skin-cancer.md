@@ -9,8 +9,8 @@ ampWebUrl: "https://www.technologyreview.com/2021/06/29/1025692/ai-vs-skin-cance
 cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2021/06/29/1025692/ai-vs-skin-cancer/amp/"
 type: article
 quality: 57
-heat: 67
-published: false
+heat: 77
+published: true
 
 provider:
   name: MIT Technology Review
@@ -42,6 +42,17 @@ related:
         width: 500
         height: 500
         isCached: true
+  - title: "Enhance Your Career with Artificial Intelligence Course"
+    excerpt: "Artificial intelligence is considered to be one of the most disruptive technologies that exist today. Know about Artificial Intelligence course here."
+    publishedDateTime: 2021-07-02T08:31:00Z
+    webUrl: "https://www.pcquest.com/enhance-career-artificial-intelligence-course/"
+    ampWebUrl: "https://www.pcquest.com/enhance-career-artificial-intelligence-course/amp/"
+    cdnAmpWebUrl: "https://www-pcquest-com.cdn.ampproject.org/c/s/www.pcquest.com/enhance-career-artificial-intelligence-course/amp/"
+    type: article
+    provider:
+      name: PCQuest
+      domain: pcquest.com
+    quality: 39
 
 secured: "if1BRYv/wSa2fZbcuaBl77b4ewg9xYZ+rzXhxVJwDuagAYr1kp7qDJuCPSTKUQ0L0Tq1pN18OFa/94wnuoHbPDtsTbqeIrakiZrt84oPgJHSUK4617ohK9QId1JoLI1YHnwfWf9WDTTuG3lS2npEzH6jKrGB9ZVPehWb/wT6KS+Cs80y5OHcUNEuBOeWVaO0Ldl90ibPe+XGV7g8wewPawjsEEFc1Kn2PXALSIeRLYTNYDxgH1q56+Gb9tkI5UQZm8dVCp14vRI8FpXKePexMKnlQEkmpJ+d2izCeCEgHFZuh2EVsqoIpvpXrIV7VoGsOyDsDNC02U3Jo0AGVufvW97eAK+sHR+WmKczt3YFkS4=;YPg8d5gPT094+VkuGv8A2A=="
 ---

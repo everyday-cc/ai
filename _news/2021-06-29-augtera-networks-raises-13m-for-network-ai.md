@@ -24,21 +24,19 @@ images:
     isCached: true
 
 related:
-  - title: "Augtera Networks raises $13M to apply AI to networking"
-    excerpt: "Augtera, a startup developing an \"AI-augmented\" networking analytics platform, has raised $13 million in venture funding."
-    publishedDateTime: 2021-06-29T13:00:00Z
-    webUrl: "https://venturebeat.com/2021/06/29/augtera-networks-raises-13m-to-apply-ai-to-networking/"
-    ampWebUrl: "https://venturebeat.com/2021/06/29/augtera-networks-raises-13m-to-apply-ai-to-networking/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/29/augtera-networks-raises-13m-to-apply-ai-to-networking/amp/"
+  - title: "Neural Networks: Chaos Pays Off"
+    excerpt: "Chaos improves your intellectual capacity. At least, it may be useful when it comes to networked neurons, as a scientific paper of Forschungszentrum Jülich has now shown. The newly discovered mechanism could also help speed up artificial neural networks used in artificial intelligence and machine learning applications."
+    publishedDateTime: 2021-06-30T13:14:00Z
+    webUrl: "https://www.miragenews.com/neural-networks-chaos-pays-off-588002/"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 89
+      name: Armed robbery in Revesby
+      domain: miragenews.com
+    quality: 39
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2015/12/broadband_speed_lights-e1624418067436.jpg?w=1200&strip=all"
-        width: 1200
-        height: 600
+      - url: "https://www.ed.ac.uk/files/styles/landscape_breakpoints_theme_uoe_mobile_1x/public/thumbnails/image/eatingdisorders.jpg?itok=O9JR12Tr"
+        width: 720
+        height: 480
         isCached: true
 
 secured: "wvGbEA5KhyZ8EgX26cAxbF+SpJzNNjV1lnJ6E8a0FuhPP12+WnTsa9lNtg58Lf6hDlaB66xSlrWxliK1RfYGYdNpDIJttuSvL5PmJ5vpw/Y+VKwQ6ce5TwqbDaSvHSLinlOIEqm1f2YL+MPSNkjuXkQtU6ux7Z+lv/o5JdJLN/T40rG7NPbq8RGQ0BT3WQQWCnapmLSAa77ars3gG3y39VQ9840I3iba2xgdpZTuCYoxglpcjxn9tGc79mDg5RdStcDSQ+dkhAXzCpSE7Atg6ARP0oWq0O11Y850nhW8rE9Th1+JANNZsL9NEeWeEgV4fZTxSko6MK5eMROq3DDP7kAxKEK4UNxePN9kR39eYKs=;mIxdW2h+Rzkpkp//wyHo6A=="

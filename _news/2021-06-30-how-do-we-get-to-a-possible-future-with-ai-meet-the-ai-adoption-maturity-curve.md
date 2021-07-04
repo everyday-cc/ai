@@ -30,60 +30,35 @@ images:
     isCached: true
 
 related:
-  - title: "To Win With AI, Focus On Our Humanity"
-    excerpt: "Technology disruptions are not novel and have enabled humanity to evolve and progress. This one is different, though. For the first time in the history of our species, technology seems to take over the very domains where we thought humans excelled: innovation,"
-    publishedDateTime: 2021-06-29T12:00:00Z
-    webUrl: "https://www.forbes.com/sites/esmtberlin/2021/06/29/to-win-with-ai-focus-on-our-humanity/"
-    ampWebUrl: "https://www.forbes.com/sites/esmtberlin/2021/06/29/to-win-with-ai-focus-on-our-humanity/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/esmtberlin/2021/06/29/to-win-with-ai-focus-on-our-humanity/amp/"
+  - title: "AI Is Starting To Understand Us, But How Well Do We Understand AI?"
+    excerpt: "Artificial intelligence (AI) still often overpromises and underdelivers, but we are seeing AI begin to understand us and adoption has accelerated rapidly. Are we prepared for what is coming? Will AI Weed Out My Job?"
+    publishedDateTime: 2021-06-30T13:00:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/06/30/ai-is-starting-to-understand-us-but-how-well-do-we-understand-ai/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/06/30/ai-is-starting-to-understand-us-but-how-well-do-we-understand-ai/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/06/30/ai-is-starting-to-understand-us-but-how-well-do-we-understand-ai/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
     quality: 87
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60dacbfc46592b70301378cb%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1659%26cropY1%3D13%26cropY2%3D946"
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5eda41e0b6ac5c00060e2821%2F0x0.jpg"
         width: 1200
-        height: 675
+        height: 800
         isCached: true
-  - title: "Screening for dementia with artificial intelligence"
-    excerpt: "Researchers are developing AI tools to detect more subtle shifts in speech and behavior earlier and more reliably than human observers, allowing for earlier diagnoses and treatment for Alzheimer's patients."
-    publishedDateTime: 2021-07-01T04:00:00Z
-    webUrl: "https://www.eurekalert.org/pub_releases/2021-07/msu-sfd070121.php"
+  - title: "Startup Using AI to Improve Animal Breeding"
+    excerpt: "A startup in Hancock County is using artificial intelligence technology to help livestock farmers improve their animal breeding efforts. Verility LLC has developed a device called Fertile-Eyez, which"
+    publishedDateTime: 2021-06-29T17:54:00Z
+    webUrl: "https://www.insideindianabusiness.com/story/44208575/startup-using-ai-to-improve-animal-breeding"
     type: article
     provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 39
-    images:
-      - url: "https://www.eurekalert.org/socialshare/EurekAlert-bluebg_Twitter_1200x675.jpg"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Enhance Your Career with Artificial Intelligence Course"
-    excerpt: "Artificial intelligence is considered to be one of the most disruptive technologies that exist today. Know about Artificial Intelligence course here."
-    publishedDateTime: 2021-07-02T08:31:00Z
-    webUrl: "https://www.pcquest.com/enhance-career-artificial-intelligence-course/"
-    ampWebUrl: "https://www.pcquest.com/enhance-career-artificial-intelligence-course/amp/"
-    cdnAmpWebUrl: "https://www-pcquest-com.cdn.ampproject.org/c/s/www.pcquest.com/enhance-career-artificial-intelligence-course/amp/"
-    type: article
-    provider:
-      name: PCQuest
-      domain: pcquest.com
-    quality: 39
-  - title: "AI works best with humans, not for humans"
-    excerpt: "Fleets are finding that artificial intelligence and other predictive analytics are helping humans make more informed and faster decisions, making them more productive and profitable."
-    publishedDateTime: 2021-07-01T14:55:00Z
-    webUrl: "https://www.fleetowner.com/technology/autonomous-vehicles/article/21168672/ai-works-best-with-humans-not-for-humans"
-    type: article
-    provider:
-      name: Fleet Owner
-      domain: fleetowner.com
+      name: INside INdiana Business
+      domain: insideindianabusiness.com
     quality: 37
     images:
-      - url: "https://base.imgix.net/files/base/ebm/fleetowner/image/2021/07/16x9/dreamstime_l_172987598.60ddc8098dea9.png?auto=format&fit=fill&fill=blur&w=1200&h=630"
-        width: 1200
-        height: 630
+      - url: "https://INSIDEINDIANA.images.worldnow.com/images/20962823_G.jpg?lastEditedDate=1624973444000"
+        width: 960
+        height: 540
         isCached: true
 
 secured: "BBBF0m3QX3gxsFrEv3jrxT1UqtK8tsX5w1DCYFrT0kWJWPow5dn4qHFlZDSnk9pr3HuncFpp97gpy0tWLtLX6zRfUcBmT7rpT8PqNYdv98MnvTHX/UouZHcWiHv7kdsTXBK/PNcbImhs5BSbE3URwzPaKjaqAHcJOGlL6eZ32duKB2cVjS1WKSTTG0/eSNpy6gm377dl6/FzCbl0bJgT/f+kGbUA7ldoNwCsOTZdPTBQjIobKSFUwr7BWwjvJL5ug3mzzHjKE6N6ItGHwV3Vz4291OuxuNn4qG5BPS+IJ9SyW6zKTy8TtM8mx71eSHV7Yucr0QIvU39dKQvpPQxK5ymVx2Y3ipHHzjQi2pzLoO+ncyjSIdYphf5BoTySwWNrFxaazfHH5/aTsyZjKvL2LlQzgTgZTlmX5UkvOBYen0bb7AN+/4P/eNV7ke8odC+ndzqEhV+mN7w7HYdRtRnE7QbJHh8aTObbtWMsCiz93PiD2N7T6hhWrHBlnNeexBlfb1k/XYPjKgRWph9Tbg6P1g==;WiHF+6FSYf4wrLj5fcrdDQ=="

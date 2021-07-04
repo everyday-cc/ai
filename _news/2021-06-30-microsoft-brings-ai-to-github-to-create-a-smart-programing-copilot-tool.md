@@ -45,22 +45,6 @@ related:
         width: 2400
         height: 1260
         isCached: true
-  - title: "Microsoft brings AI to GitHub to create a smart programing Copilot tool"
-    excerpt: "Microsoft is making available a technical preview of a new Visual Studio Code extension that is designed to help programmers write code smarter and faster using AI technology from OpenAI."
-    publishedDateTime: 2021-06-29T11:19:00Z
-    webUrl: "https://www.zdnet.com/article/microsoft-brings-ai-to-github-to-create-a-smart-programing-copilot-tool/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-brings-ai-to-github-to-create-a-smart-programing-copilot-tool/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-brings-ai-to-github-to-create-a-smart-programing-copilot-tool/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 104
-    images:
-      - url: "https://www.zdnet.com/a/hub/i/2021/06/29/bd54eff3-c9c7-4cf0-b714-606d46cc4cc7/githubcopilot.jpg"
-        width: 1199
-        height: 478
-        isCached: true
   - title: "GitHub launches Copilot to power pair programming with AI"
     excerpt: "GitHub Copilot is a new AI-powered pair programmer that collaborates with human programmers and suggests new functions or lines of code."
     publishedDateTime: 2021-06-29T15:00:00Z

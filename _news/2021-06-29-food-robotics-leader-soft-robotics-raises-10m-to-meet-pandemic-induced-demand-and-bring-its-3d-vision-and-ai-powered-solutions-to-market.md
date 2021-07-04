@@ -37,20 +37,6 @@ related:
         width: 1500
         height: 844
         isCached: true
-  - title: "Ambi Robotics Selects DWFritz To Manufacture AI-Powered Robotic Systems for Global Shippers"
-    excerpt: "Ambi Robotics, an artificial intelligence (AI) and robotics company that develops advanced supply chain solutions based on simulation-to-reality AI to power highly-dexterous robots, and DWFritz Automation (DWFritz),"
-    publishedDateTime: 2021-06-29T11:02:00Z
-    webUrl: "https://www.register-herald.com/region/ambi-robotics-selects-dwfritz-to-manufacture-ai-powered-robotic-systems-for-global-shippers/article_4e488fce-a698-5b4d-9d97-8a69a541e6e0.html"
-    type: article
-    provider:
-      name: The Register-Herald
-      domain: register-herald.com
-    quality: 59
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/register-herald.com/content/tncms/assets/v3/editorial/8/69/869f6c2b-4cbd-5721-8016-39adfc655ea9/60db01355b749.image.jpg?resize=1119%2C630"
-        width: 1119
-        height: 630
-        isCached: true
 
 secured: "CqoDiGZtth9UIuIFu3uXjAVpdsp1BX+32UD6TcddGMczdarBPvcPPvfsSyBXa5bhQ+LFuhcKHGEKXD2zcw6FixXDa6AI3EQRB2GCn15O0+1Bht3kSlw1GoW9sKHIJjSLxdSW8bDlfR7PgCbBdBdRa3KIshBjq91kmx/Xt/psz3ppMADPOqxy53CHJ3nf5BcgHj1EvPMs4R7F51XbtFkQr24FgUmYHjS0o5GxX9nj7PTcwn1zhWDc+1hN3FlW9a9aHoNALzxKL/DXzrZDCcLZd+Gd4YdzIYRfm39CncSgs0GNgt7VpkOkSg5gOzahCHOYlHqEiLI//5ew8C6MCGCCzhWGPq5hub6K45SNbbtS4JaaGwUAGnL456PzXtTmdGOo7k1hn9Vdo7tbX+qTF6eCJJ4GbWc9GUN1ybczk9IJhXGLfKyf+XFHB/wWeUPVEiwgXq2YbT+FUTosiKzYom1V9Yto3bsL+HmEn56IxQyBqEcnTY5zM93cahfLv+msznNvMtDAHRn7aT1BSu81wicsNA==;VUXhUofGGOPJxup6H81Mog=="
 ---

@@ -9,8 +9,8 @@ ampWebUrl: "https://phys.org/news/2021-07-simulation-ai-reveal-universe.amp"
 cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-07-simulation-ai-reveal-universe.amp"
 type: article
 quality: 57
-heat: -1
-published: false
+heat: 97
+published: true
 
 provider:
   name: Phys.org
@@ -26,82 +26,54 @@ images:
     isCached: true
 
 related:
-  - title: "Changing AI Perceptions To Drive Widespread Adoption In Traditional Industries"
-    excerpt: "As data literacy increases with more widespread adoption of AI, businesses will start to identify new practical uses for the information they’re collecting."
-    publishedDateTime: 2021-06-29T13:00:00Z
-    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2021/06/29/changing-ai-perceptions-to-drive-widespread-adoption-in-traditional-industries/"
-    ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2021/06/29/changing-ai-perceptions-to-drive-widespread-adoption-in-traditional-industries/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2021/06/29/changing-ai-perceptions-to-drive-widespread-adoption-in-traditional-industries/amp/"
+  - title: "AI Ethics: Another step closer to the adoption of UNESCO’s Recommendation"
+    excerpt: "After months of constructive dialogue and negotiation, representatives from UNESCO’s member states have agreed on the draft text of an ambitious and wide-ranging new template for the ethical developme"
+    publishedDateTime: 2021-07-03T21:55:00Z
+    webUrl: "https://indiaeducationdiary.in/ai-ethics-another-step-closer-to-the-adoption-of-unescos-recommendation/"
+    ampWebUrl: "https://indiaeducationdiary.in/ai-ethics-another-step-closer-to-the-adoption-of-unescos-recommendation/"
+    cdnAmpWebUrl: "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/ai-ethics-another-step-closer-to-the-adoption-of-unescos-recommendation/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 83
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60d9fee16c4ec4bf8e6c2abd%2F0x0.jpg"
-        width: 1200
-        height: 665
-        isCached: true
-  - title: "Business implications of AI within tax & accounting"
-    excerpt: "With AI promising the greatest transformation in many industries, including tax & accounting, we need to begin asking what the implications of this will be."
-    publishedDateTime: 2021-06-30T18:48:00Z
-    webUrl: "https://www.reuters.com/legal/transactional/business-implications-ai-within-tax-accounting-2021-06-30/"
+      name: India Education Diary
+      domain: indiaeducationdiary.in
+    quality: 53
+  - title: "Data-led migration, energy collaboration and AI innovation highlight AWS Public Sector Awards"
+    excerpt: "Partners play a key role in the Public Sector business for Amazon Web Services Inc. by helping drive innovation and results for the cloud provider’s customers. AWS recently recognized those partner contributions through its 2021 AWS Global Public Sector Partners Awards."
+    publishedDateTime: 2021-06-30T16:59:00Z
+    webUrl: "https://siliconangle.com/2021/06/30/data-led-migration-energy-collaboration-and-ai-innovation-highlight-aws-public-sector-awards-awspublicsectorawards/"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 67
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 43
     images:
-      - url: "https://www.reuters.com/resizer/d_9infXWdH0ZCGL5iNfPeS_tdG0=/800x419/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/SYAAICV2MNP5XCQCEAKLU7LCQA.jpg"
-        width: 800
-        height: 419
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/06/Sandy-Carter-Global-Public-Sector-Partner-Awards-2021.jpg"
+        width: 1920
+        height: 1080
         isCached: true
-  - title: "Why Adopting Artificial Intelligence is Vital for the B2B Industry"
-    excerpt: "AI is rapidly turning into a need for B2B organizations, as it can help convey information driven and significant bits of knowledge to associations. At the point when Artificial Intelligence is used with online business,"
-    publishedDateTime: 2021-06-30T18:30:00Z
-    webUrl: "https://www.business2community.com/b2b-marketing/why-adopting-artificial-intelligence-is-vital-for-the-b2b-industry-02415886"
-    ampWebUrl: "https://www.business2community.com/b2b-marketing/why-adopting-artificial-intelligence-is-vital-for-the-b2b-industry-02415886/amp"
-    cdnAmpWebUrl: "https://www-business2community-com.cdn.ampproject.org/c/s/www.business2community.com/b2b-marketing/why-adopting-artificial-intelligence-is-vital-for-the-b2b-industry-02415886/amp"
+  - title: "AI for the detection and mitigation of advertising bias"
+    excerpt: "IBM Watson Advertising today announced a research initiative that will apply IBM's open source AI technology to better understand the prevalence of unwanted"
+    publishedDateTime: 2021-07-04T03:12:00Z
+    webUrl: "https://debatepost.com/celebrity/2021/07/04/ai-for-the-detection-and-mitigation-of-advertising-bias/"
     type: article
     provider:
-      name: Business 2 Community
-      domain: business2community.com
-    quality: 57
+      name: debatepost.com
+      domain: debatepost.com
+    quality: 39
     images:
-      - url: "https://cdn.business2community.com/wp-content/uploads/2021/06/AI.jpg"
-        width: 512
-        height: 342
+      - url: "https://debatepost.com/wp-content/uploads/2021/07/AI-for-the-detection-and-mitigation-of-advertising-bias.jpg"
+        width: 600
+        height: 300
         isCached: true
-  - title: "Artificial Intelligence creates both challenges and options, speakers say at international conference"
-    excerpt: "With the theme ‘#CommunicationRefined’, a 10-day long mega international conference entitled 'Information Communication & Artificial Network(ICAN) Conference 2021' was inaugurated in India’s capital New Delhi on Thursday (July 1)."
-    publishedDateTime: 2021-07-03T08:48:00Z
-    webUrl: "https://www.thedailystar.net/pr/news/artificial-intelligence-creates-both-challenges-and-options-speakers-say-international-conference-2123213"
-    ampWebUrl: "https://www.thedailystar.net/pr/news/artificial-intelligence-creates-both-challenges-and-options-speakers-say-international-conference-2123213?amp"
-    cdnAmpWebUrl: "https://www-thedailystar-net.cdn.ampproject.org/c/s/www.thedailystar.net/pr/news/artificial-intelligence-creates-both-challenges-and-options-speakers-say-international-conference-2123213?amp"
+  - title: "Global Artificial Intelligence In Genomics Market 2021 by Company, Regions, Type and Application, Forecast to 2026"
+    excerpt: "Pages Report] Check for Discount on Global Artificial Intelligence In Genomics Market 2021 by Company, Regions, Type and Application, Forecast to 2026 report by Global Info Research. The Artificial Intelligence In Genomics market report provides a"
+    publishedDateTime: 2021-07-01T11:31:00Z
+    webUrl: "https://www.reportsnreports.com/reports/4630684-global-artificial-intelligence-in-genomics-market-2021-by-company-regions-type-and-application-forecast-to-2026.html"
     type: article
     provider:
-      name: The Daily Star
-      domain: thedailystar.net
-    quality: 42
-    images:
-      - url: "https://assetsds.cdnedge.bluemix.net/sites/default/files/styles/social_share/public/feature/images/2021/07/03/dr_sheikh_shafiul_islam.jpg?itok=Rjt8_o_c"
-        width: 750
-        height: 393
-        isCached: true
-  - title: "Business implications of AI within tax & accounting"
-    excerpt: "With AI promising the greatest transformation in many industries, including tax & accounting, we need to begin asking what the implications of this will be."
-    publishedDateTime: 2021-06-30T16:44:00Z
-    webUrl: "https://www.thomsonreuters.com/en-us/posts/tax-and-accounting/ai-implications-tax-accounting/"
-    type: article
-    provider:
-      name: Thomson Reuters
-      domain: thomsonreuters.com
-    quality: 37
-    images:
-      - url: "https://www.thomsonreuters.com/en-us/posts/wp-content/uploads/sites/20/2019/07/blockchain-innovator-940x528-800x450-1.jpg"
-        width: 800
-        height: 450
-        isCached: true
+      name: ReportsnReports
+      domain: reportsnreports.com
+    quality: 0
 
 secured: "ECgC/OTg5Q0BUlcsYsum8ysqhGrLnJAqntghnuoRaoM5nMPKlCCvFT9HiosnmQ7d6qYUqUuENLw0/bNVHi6CorfvuNoqjpIj8qlHCmfe575oR+N0ExnfIIVsxGOVulRCodkoVzNvrlemYgtX8d7/335JSfWwa5Pk2OApXqWXEUOZfR8hhDcrd/729ZbL5EuZujNGqR62EcafxNHjPNOh1bMkoe4HALMSO9nn9yulSTIi1XFih9UoL7E4N0Hxm4gtJjyPS7wBRz4sSws2B7XE8QivEv05Y752E7A32pk5DOdLF8/8TJkWtXXxLC75kWUvFbpk9PjuUkVw85Sgh2p5pDrTwkWTrxV6SFUUz4jl3bstD46yK5ASHVMehe8Adc1Oqa5m5q+6SkkCQq2zlFXD29RLSpXdjpOVds+6JQGLGcbeEhM/8vJgnXxNlE2UTRJioMutbhyusEkzyCYZ5gs9fkGByhwDM7FeVxsrTo2XwWhSecVI6ov0coc8Fwfc5/wc6m90i9EjF3TYGd2j+KQadA==;9pt2G72zQak33Lm60Ao7uQ=="
 ---

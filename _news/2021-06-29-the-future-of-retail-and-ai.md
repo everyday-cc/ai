@@ -43,22 +43,6 @@ related:
         width: 1440
         height: 800
         isCached: true
-  - title: "Maximise benefits of AI for health, minimise risks: WHO"
-    excerpt: "Artificial Intelligence (AI) holds great promise for improving the delivery of healthcare and medicine worldwide, but only if ethics and human rights .."
-    publishedDateTime: 2021-06-29T11:05:00Z
-    webUrl: "https://cio.economictimes.indiatimes.com/news/next-gen-technologies/maximise-benefits-of-ai-for-health-minimise-risks-who/83952033"
-    ampWebUrl: "https://cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/maximise-benefits-of-ai-for-health-minimise-risks-who/83952033"
-    cdnAmpWebUrl: "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/maximise-benefits-of-ai-for-health-minimise-risks-who/83952033"
-    type: article
-    provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 59
-    images:
-      - url: "https://etimg.etb2bimg.com/thumb/msid-83952033,imgsize-222468,width-800,height-434,overlay-etcio/maximise-benefits-of-ai-for-health-minimise-risks-who.jpg"
-        width: 800
-        height: 434
-        isCached: true
 
 secured: "HnFj+r5Tqn56Ai7ffwIr/zA59hE6HwoS4h001uXEaMU4CFj2nhFp+EQ26jqK4nlKCN+c3t428GbrYFvZ4E6V+6w0NxsoIK6ITSmMMze7isNyBEBsKR8KUeWzZDODALdQK+kE5O/4FLnWe4UsceLFJ9mzPsDur+RtM7QXMocDfXxA+1xmuu1HefY5iBdR+7S1UuwhGcs5yYpfG+rdVHU09E8Z8jbIIDTrQnL/5gQ3f0CN88eZ30D5X3MtNO8hITEdkp1Iy8JjFs3W2ujiCGmy4HJsK53LG0yUxuKmXKANJQfna5jXP60RgwKOTyfRM5oyAInLMGWi/ihR8Ocxl0hjxi/G2LIW5OAKDfXIaQO1hQrp1Ej9QhO/29C3NMH9Dzpmu0N8K/9fA6DdkEvo7gqqUMVWylerebBYwNhfYwe/KHeTT3bOKuPfVms4xS0jwvlEYDtPeCvdG5jn+d6VJknt/EY6zo0QaEKxkDhB2CAdUQsDup3LfyFRDMap+InPsbNOc4mcNAcQqrsg+SsjDvWFAA==;SZE7D3QVLneRvzJ9uRS82A=="
 ---

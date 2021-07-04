@@ -59,15 +59,6 @@ related:
         width: 514
         height: 225
         isCached: true
-  - title: "'Edge of chaos' opens pathway to artificial intelligence discoveries"
-    excerpt: "Some neuroscience theories suggest the human brain operates best 'at the edge of chaos'. Now scientists have found that keeping a nanowire network at the edge of becoming chaotic is the best state for it to produce useful signals to solve problems."
-    publishedDateTime: 2021-06-29T16:14:00Z
-    webUrl: "https://www.sciencedaily.com/releases/2021/06/210629101157.htm"
-    type: article
-    provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 49
 
 secured: "Tn2LRebBTeRqQ6peZXUBetYXeefgoeVKZ+c6AmWuLNxAVp+tIDuRokMAVXVdY1OdVyl/BiAD37g+d9GTTcNiaCIWeve1x9V4I78BWgKG+ttqd5xW2mOLt1chWiMTji1RUUIJNdwl6ZR8prjE646rgoJiI9Cc9xy7s+7EwR/dhD0mo1zmwmQr16nVfkM5m1OKqETfAFm3xWA9Uz601eONPYlStf+Yn7joaYv4huFYChxq9gtCssWIoZKWGDE1HRt5mnibYMgi9YTME1y3rmnxvjYSnhPJYS0wIBOUnksUYV/4D0so2+Kv4AOpq5GRvWqoBNvspUVH+v+5dzzT4nCho7tIDca54jdy1ZkuaUrLM2K+YdqZbSQ7itYL2Fkm4f2IL5zwwiOo7jJKHcVcMjdZeZQMsEQhi/P4geFz9oTwI1/M50fNnrvOARi5ctZCGqzTfTkmwb6Sm1SI9nlQc8uS5adedWClSERZVb75DdirZX72HxW65NSnQ/ysZgj2tqOiSzA1DOc3ebjPY+MGvNk7Ng==;ybrqCtyxOPI3DAyoJTWFUw=="
 ---

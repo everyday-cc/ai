@@ -9,8 +9,8 @@ ampWebUrl: "https://timesofindia.indiatimes.com/blogs/breaking-shackles/soon-it-
 cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/breaking-shackles/soon-it-is-going-to-be-ai-vs-ai-battle-in-cybersecurity-fake-news-and-defence/"
 type: article
 quality: 55
-heat: 65
-published: false
+heat: 75
+published: true
 
 provider:
   name: India Times
@@ -43,6 +43,15 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Cybersecurity for consumer robots"
+    excerpt: "Consumer adoption of robotic devices to perform repetitive tasks like lawn cutting, vacuum cleaning, and clothes ironing is becoming an established market. As better-performing and more economically attractive products reach the market,"
+    publishedDateTime: 2021-07-04T04:03:00Z
+    webUrl: "https://electronics360.globalspec.com/article/16895/cybersecurity-for-consumer-robots"
+    type: article
+    provider:
+      name: Engineering360 News
+      domain: globalspec.com
+    quality: 19
 
 secured: "0Qfid9KGWI4PBpu/Y3ewt0SV18JZFVmeT+SrmmjHskCND2TQ7QI5oXna0yCF1IKc4C96rXz06MJvAgJRAL5bCmNrWcWQmokSEG6rm9UynsplyXPakeYTBacAmfv3vkGb3j5ojGKzKuKzfMtlTy+miEdkRZvWaW1Z0bRVDiPV8nRHO9FRNZJGqMkQxp/T3qi5e/Uzc2E8BY5u9s/qFDfvhHDiBXAE76c8zm9t+a8csC1dKAdknV/QkSlTcZXGAhYx44lbzWO5lRAA4SXPfaXW9JIrdKJKa6dY3qhbbeVeil2ybeqpSKxepMDSMc0P46sKYZnFXI+SwHXFGoPZOXVdP15uimOLZwFb8ejEi0hup4o=;v4TgmXhYAWESHGVaW8p+Aw=="
 ---
