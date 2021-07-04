@@ -7,7 +7,7 @@ originalUrl: "https://www.cosmeticsdesign.com/Article/2021/07/01/Smashbox-debuts
 webUrl: "https://www.cosmeticsdesign.com/Article/2021/07/01/Smashbox-debuts-AI-powered-makeup-try-on-technology"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Perfect’s YouCam Teams With Smashbox For AI Face Analyzer"
-    excerpt: "AI and AR technology are applied to the beauty world as Perfect and Smashbox Cosmetics team to create Smashbox Eye Genie in the YouCam Makeup App."
-    publishedDateTime: 2021-06-30T00:06:00Z
-    webUrl: "https://www.pymnts.com/news/artificial-intelligence/2021/perfects-youcam-teams-with-smashbox-for-ai-face-analyzer/"
-    ampWebUrl: "https://www.pymnts.com/news/artificial-intelligence/2021/perfects-youcam-teams-with-smashbox-for-ai-face-analyzer/amp/"
-    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/artificial-intelligence/2021/perfects-youcam-teams-with-smashbox-for-ai-face-analyzer/amp/"
-    type: article
-    provider:
-      name: pymnts.com
-      domain: pymnts.com
-    quality: 57
-    images:
-      - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/06/shutterstock_1875785341-457x274.jpg"
-        width: 457
-        height: 274
-        isCached: true
   - title: "Smashbox debuts ever first AI-powered makeup try-on technology"
     excerpt: "Estée Lauder Companies-owned Smashbox has extended its partnership with global beauty tech provider Perfect Corp to become the first ever beauty brand to be paired up with the YouCam Artificial Intelligence (AI)-powered face analyzer technology."
     publishedDateTime: 2021-07-01T13:31:00Z

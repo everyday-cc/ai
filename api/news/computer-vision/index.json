@@ -62,7 +62,7 @@
       "originalUrl": "https://www.cnet.com/news/us-agencies-must-track-which-facial-recognition-systems-they-use-report-says/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 148,
+      "heat": 138,
       "tags": null,
       "images": [
         {
@@ -947,6 +947,58 @@
       ]
     },
     {
+      "path": "_news/2021-06-23-3d-facial-recognitionmarket-research-report-with-size-share-value-cagr-outlook-analysis-latest-updates-data-and-news-forecast-2020-2025.md",
+      "title": "3D Facial RecognitionMarket Research Report with Size, Share, Value, CAGR, Outlook, Analysis, Latest Updates, Data, and News forecast 2020-2025",
+      "excerpt": "Three-dimensional face recognition (3D face recognition) is a modality of facial recognition methods in which the three-dimensional geometry of the human face is used. This report elaborates the market size,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/3d-facial-recognitionmarket-research-report-with-size-share-value-cagr-outlook-analysis-latest-updates-data-and-news-forecast-2020-2025-2021-06-23",
+      "originalUrl": "https://www.marketwatch.com/press-release/3d-facial-recognitionmarket-research-report-with-size-share-value-cagr-outlook-analysis-latest-updates-data-and-news-forecast-2020-2025-2021-06-23",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-23T00:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-23-3d-facial-recognition-market-demand-technology-advancement-and-future-scope-till-2026.md",
       "title": "3D Facial Recognition Market Demand, Technology Advancement and Future Scope Till 2026",
       "excerpt": "The 3D facial recognition system is used to authenticate an individual by using 3D geometry of his/her face. 3D facial recognition utilizes facial contours to recognize and scrutinize various features in a human face,",
@@ -1361,58 +1413,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-18-baltimore-may-soon-ban-facial-recognition-for-everyone-but-cops.md",
-      "title": "Baltimore May Soon Ban Facial Recognition for Everyone but Cops",
-      "excerpt": "The measure would make private use of the technology illegal but would not apply to police. It awaits the mayor's signature.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/baltimore-ban-facial-recognition-everyone-but-cops/",
-      "originalUrl": "https://www.wired.com/story/baltimore-ban-facial-recognition-everyone-but-cops/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 149,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/60cba9779c0558467e693c20/master/pass/business_balitmore_1313282604.jpg",
-          "width": 2400,
-          "height": 1600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/baltimore-ban-facial-recognition-everyone-but-cops/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/baltimore-ban-facial-recognition-everyone-but-cops/amp",
-      "publishedDateTime": "2021-06-18T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

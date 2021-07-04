@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/07/02/biased-ai-is-not-just-bad-for-peo
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/02/biased-ai-is-not-just-bad-for-people-its-harmful-for-businesses-too/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -44,15 +44,6 @@ related:
         width: 800
         height: 533
         isCached: true
-  - title: "Regulating artificial intelligence in the EU: top 10 issues for businesses to consider"
-    excerpt: "The European Commission's 'Proposal for a Regulation laying down harmonized rules on Artificial Intelligence' ('Draft AI Regulation') is far from being final and even further from taking effect: Indeed,"
-    publishedDateTime: 2021-06-30T00:13:00Z
-    webUrl: "https://www.publicnow.com/view/50ECBA1032D9A083BBC7C764CD6D235816E053A2"
-    type: article
-    provider:
-      name: publicnow.com
-      domain: publicnow.com
-    quality: 9
 
 secured: "RzcCjPW9EvoG5+qY4MFzm8jPZ2MaGaHQBoaxt2ONHFjE+DNp6OKPona0x4RiVGFwWaj9s1ErE/YQv4pNSykYzIeTKPqqmYdgQ2y9Rbfg6SopBkdhsX8zC9VWfUbN0gH7HYKHRH2y/3X5S6GveyVAkrEpQ+DmQX2EL2T4H+ZX0tYc9sC+biCuAhYPbr1cDtZpN6sG8RcnliJqEn2U8unMtS7Frw97QCt0mTDCFSzyrss/28y2s4/Iq0V1h4iI31/emBxx3G2CcCxed3txNugb3CP29L7O+85N2+XBHoocj3rzKGvPY8jVZYMHP3lUfuiSS0+79tJUy8AEmh2ysWggGoKUj3BQsdSKU+A05Qd+4WtXKVpKs9b4aXXYimoPZvSVVwaIDPoluhMZelotj+xpk38Hnfv8vg4oItMSK9JwEhaFTpAexoCM8WWNNedmbbUcKP0klerwbYtSHGzCuzjY4dAH/gVitqox2L1WdcorvDa5R4agHSLUyLt9DY2Ky5FAXWzYtZHt+5ZO4CjJ1Lag5g==;wJBAheN1ooCGGhp2vwam1Q=="
 ---

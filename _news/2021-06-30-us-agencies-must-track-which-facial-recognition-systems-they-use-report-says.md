@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/us-agencies-must-track-which-fa
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/us-agencies-must-track-which-facial-recognition-systems-they-use-report-says/"
 type: article
 quality: 88
-heat: 148
+heat: 138
 published: true
 
 provider:
@@ -91,17 +91,6 @@ related:
       name: Reason
       domain: reason.com
     quality: 31
-  - title: "Federal agencies need stricter limits on facial recognition to protect privacy, government watchdog says"
-    excerpt: "Some federal agencies had their own facial recognition databases, but most used private companies like Clearview AI and Amazon, which offers a tool called Rekognition. Many couldn't say for sure which systems they had used."
-    publishedDateTime: 2021-06-30T00:54:00Z
-    webUrl: "https://www.seattletimes.com/business/technology/federal-agencies-need-stricter-limits-on-facial-recognition-to-protect-privacy-government-watchdog-says/"
-    ampWebUrl: "https://www.seattletimes.com/business/technology/federal-agencies-need-stricter-limits-on-facial-recognition-to-protect-privacy-government-watchdog-says/?amp=1"
-    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/technology/federal-agencies-need-stricter-limits-on-facial-recognition-to-protect-privacy-government-watchdog-says/?amp=1"
-    type: article
-    provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 22
   - title: "Report Finds Widespread Use of Facial Recognition Technology by Federal Agencies Could Pose Privacy Risk"
     excerpt: "The report recommends that agencies track and assess the systems they use to mitigate the privacy and accuracy risks."
     publishedDateTime: 2021-07-01T15:26:00Z

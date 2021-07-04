@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-06-18-baltimore-may-soon-ban-facial-recognition-for-everyone-but-cops.md",
+      "title": "Baltimore May Soon Ban Facial Recognition for Everyone but Cops",
+      "excerpt": "The measure would make private use of the technology illegal but would not apply to police. It awaits the mayor's signature.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/baltimore-ban-facial-recognition-everyone-but-cops/",
+      "originalUrl": "https://www.wired.com/story/baltimore-ban-facial-recognition-everyone-but-cops/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 149,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/60cba9779c0558467e693c20/master/pass/business_balitmore_1313282604.jpg",
+          "width": 2400,
+          "height": 1600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/baltimore-ban-facial-recognition-everyone-but-cops/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/baltimore-ban-facial-recognition-everyone-but-cops/amp",
+      "publishedDateTime": "2021-06-18T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-18-ico-use-of-facial-recognition-tech-in-public-spaces-deeply-concerning.md",
       "title": "ICO: Use of facial recognition tech in public spaces deeply concerning",
       "excerpt": "ICO investigations found most companies using the technology tended to be \"immature\" in their approach to data protection",
@@ -1370,49 +1422,6 @@
         "Computer Vision",
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2021-06-08-europes-ai-rules-open-door-to-mass-use-of-facial-recognition-critics-warn.md",
-      "title": "Europe’s AI rules open door to mass use of facial recognition, critics warn",
-      "excerpt": "Activists fear loopholes in the bloc’s artificial intelligence bill could allow for widespread facial recognition beyond Europe’s borders.",
-      "sourceUrl": null,
-      "webUrl": "https://www.politico.eu/article/eu-ai-artificial-intelligence-rules-facial-recognition/",
-      "originalUrl": "https://www.politico.eu/article/eu-ai-artificial-intelligence-rules-facial-recognition/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.politico.eu/wp-content/uploads/2021/06/07/GettyImages-1231623017-1320x880.jpg",
-          "width": 1320,
-          "height": 880,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.politico.eu/article/eu-ai-artificial-intelligence-rules-facial-recognition/amp/",
-      "cdnAmpWebUrl": "https://www-politico-eu.cdn.ampproject.org/c/s/www.politico.eu/article/eu-ai-artificial-intelligence-rules-facial-recognition/amp/",
-      "publishedDateTime": "2021-06-07T19:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "POLITICO",
-        "domain": "politico.eu",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],

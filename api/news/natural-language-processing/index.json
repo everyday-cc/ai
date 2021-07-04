@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-07-05-voice-tech-makes-inroads-in-the-enterprise.md",
+      "title": "Voice tech makes inroads in the enterprise",
+      "excerpt": "Some good news, bad news for voice technology partisans in the workplace: The bad news is that the dream of a voice assistant in every conference room and on every desk hasn’t come to pass. The good news is that voice technology is still having an impact in business,",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/07/04/voice-tech-makes-inroads-in-the-enterprise/",
+      "originalUrl": "https://venturebeat.com/2021/07/04/voice-tech-makes-inroads-in-the-enterprise/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2016/09/voice.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 829,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/07/04/voice-tech-makes-inroads-in-the-enterprise/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/04/voice-tech-makes-inroads-in-the-enterprise/amp/",
+      "publishedDateTime": "2021-07-04T10:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-03-speech-recognition-software-market-next-big-thing-major-giants-google-microsoft-baidu.md",
       "title": "Speech Recognition Software Market Next Big Thing | Major Giants Google, Microsoft, Baidu",
       "excerpt": "The latest independent research document on Global Speech Recognition Software examine investment in Market. It describes",
@@ -351,6 +403,110 @@
         "Natural Language Processing",
         "AI",
         "AI in Marketing"
+      ]
+    },
+    {
+      "path": "_news/2021-06-30-graphcore-brings-new-competition-to-nvidia-in-latest-mlperf-ai-benchmarks.md",
+      "title": "Graphcore brings new competition to Nvidia in latest MLPerf AI benchmarks",
+      "excerpt": "Graphcore’s score in BERT natural language training was the best score of any of the two-socket AMD systems submitted.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/index.php/article/graphcore-brings-new-competition-to-nvidia-in-latest-mlperf-ai-benchmarks/",
+      "originalUrl": "https://www.zdnet.com/index.php/article/graphcore-brings-new-competition-to-nvidia-in-latest-mlperf-ai-benchmarks/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/hub/i/2021/06/30/af021708-3cd7-4136-a6fb-48d2c0bb412c/graphcore-nvidia-comparison-crop-layout-for-twitter.jpg",
+          "width": 1600,
+          "height": 1069,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/index.php/google-amp/article/graphcore-brings-new-competition-to-nvidia-in-latest-mlperf-ai-benchmarks/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/google-amp/article/graphcore-brings-new-competition-to-nvidia-in-latest-mlperf-ai-benchmarks/",
+      "publishedDateTime": "2021-06-30T03:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-30-zoom-acquires-ai-translation-startup-kites.md",
+      "title": "Zoom acquires AI translation startup Kites",
+      "excerpt": "The technology will be used to improve the video conferencing experience by providing real-time, multi-language translation capabilities for Zoom users, enabling the company to increase the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.itpro.co.uk/business-strategy/acquisition/360046/zoom-acquires-german-ai-startup-kites",
+      "originalUrl": "https://www.itpro.co.uk/business-strategy/acquisition/360046/zoom-acquires-german-ai-startup-kites",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 239,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1610533973/itpro/ZoomLogo_shutterstock.jpg",
+          "width": 1260,
+          "height": 710,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.itpro.co.uk/business-strategy/acquisition/360046/zoom-acquires-german-ai-startup-kites?amp",
+      "cdnAmpWebUrl": "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/business-strategy/acquisition/360046/zoom-acquires-german-ai-startup-kites?amp",
+      "publishedDateTime": "2021-06-30T02:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT Pro",
+        "domain": "itpro.co.uk",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/itpro.co.uk-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
       ]
     },
     {
@@ -1351,154 +1507,6 @@
       "topics": [
         "AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2021-06-18-ai-weekly-the-promise-and-limitations-of-machine-programming-tools.md",
-      "title": "AI Weekly: The promise and limitations of machine programming tools",
-      "excerpt": "Where does your enterprise stand on the AI adoption curve ... stylistic variations in programming language. As for TransCoder, it learned to translate between C++, Java, and Python by analyzing ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/06/18/ai-weekly-the-promise-and-limitations-of-machine-programming-tools/",
-      "originalUrl": "https://venturebeat.com/2021/06/18/ai-weekly-the-promise-and-limitations-of-machine-programming-tools/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/06/GettyImages-1125274914-e1623953309481.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 587,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-18T06:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-18-is-this-ai-startup-the-next-pixar.md",
-      "title": "Is This AI Startup The Next Pixar?",
-      "excerpt": "Israeli startup D-ID has developed AI with the potential to change how digital media is created, enhanced and used by the entertainment and media industries",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/gilpress/2021/06/18/is-this-ai-startup-the-next-pixar/",
-      "originalUrl": "https://www.forbes.com/sites/gilpress/2021/06/18/is-this-ai-startup-the-next-pixar/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60cba958f4ba964038764df8%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D600%26cropY1%3D146%26cropY2%3D484",
-          "width": 600,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/gilpress/2021/06/18/is-this-ai-startup-the-next-pixar/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/gilpress/2021/06/18/is-this-ai-startup-the-next-pixar/amp/",
-      "publishedDateTime": "2021-06-18T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2021-06-18-healthcare-natural-language-processing-nlp-market-impressive-gains-including-key-players-nlp-technologies-nec-apple.md",
-      "title": "Healthcare Natural Language Processing (NLP) Market Impressive Gains including key players NLP Technologies, NEC, Apple",
-      "excerpt": "Los Angeles, United State, – including Q4 analysis The report named, Global Healthcare Natural Language Processing (NLP) Market has been added to the archive of market research studies by JCMR. The industry experts and researchers have offered reliable and precise analysis of the Healthcare Natural Language Processing (NLP) in view of numerous aspects such as growth factors,",
-      "sourceUrl": null,
-      "webUrl": "https://ksusentinel.com/2021/06/18/healthcare-natural-language-processing-nlp-market-impressive-gains-including-key-players-nlp-technologies-nec-apple/",
-      "originalUrl": "https://ksusentinel.com/2021/06/18/healthcare-natural-language-processing-nlp-market-impressive-gains-including-key-players-nlp-technologies-nec-apple/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ksusentinel.com/wp-content/uploads/2021/06/Healthcare-Natural-780x470.png",
-          "width": 780,
-          "height": 470,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-18T03:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Sentinel",
-        "domain": "ksusentinel.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

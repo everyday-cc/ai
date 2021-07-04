@@ -48,14 +48,19 @@ related:
         height: 667
         isCached: true
   - title: "Matterport and Facebook AI Research Collaborate to Release the World's Largest Dataset of 3D Spaces for Academic Research"
-    excerpt: "Matterport, the spatial data company leading the digital transformation of the built world, which has entered into a definitive agreement to enter into a business combination with Gores Holdings VI, today announced a collaboration with Facebook AI Research through which it will make the largest-ever dataset of 3 D indoor spaces available exclusively"
+    excerpt: "Matterport, the spatial data company leading the digital transformation of the built world, which has entered into a definitive agreement"
     publishedDateTime: 2021-06-30T14:30:00Z
-    webUrl: "https://www.nasdaq.com/press-release/matterport-and-facebook-ai-research-collaborate-to-release-the-worlds-largest-dataset"
+    webUrl: "https://www.prnewswire.com/news-releases/matterport-and-facebook-ai-research-collaborate-to-release-the-worlds-largest-dataset-of-3d-spaces-for-academic-research-301323185.html"
     type: article
     provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 24
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 14
+    images:
+      - url: "https://i1.ytimg.com/vi/tl2DzJAA2Oc/hqdefault.jpg"
+        width: 480
+        height: 360
+        isCached: true
 
 secured: "aHCZ8gyQdAUxqNDpO0hr9+HprVi/6tw5DjUOfb2p7zc95t4D+bc8SfRbQ0QnyPhNcTFv0KkpiQOlcpB4XJGFYvKEaV8aKl8Qpssy0MLdAObNXKwBV6ywBwg/gNhl1yGbvkd9hS/UQC+vnhq5HpVxVU0jjgIq6UsKHUIcXnctBT1qJVf3licsD4gkGAUoARzmv9aIavYSeEYptNEIi77hjM5dHvnK2VvtYKHx+qVeyczZAb/Or+XvkbIBUYz7Zt4FwwkwtM6zfZoACenxhZwifjfw6PaH3GanxS6U3Qrs1/TzJzeL+oc7eSJGWVkZA930fBrujCIkyXrXLrYFbojpt0aWa6UYaxdUWCjYay9/n2Q=;eSnw5JadcoyeMcaynCZLKw=="
 ---

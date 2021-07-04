@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Zoom acquires an AI company building real-time translation"
-    excerpt: "Zoom has announced that it’s acquiring a company known as Kites (short for Karlsruhe Information Technology Solutions), which has worked on creating real-time translation and transcription software. Zoom says the acquisition is a move to help it make communicating with people who speak different languages easier,"
-    publishedDateTime: 2021-06-30T00:40:00Z
-    webUrl: "https://www.theverge.com/2021/6/29/22556500/zoom-kites-acquisition-machine-translation-real-time-captions"
-    ampWebUrl: "https://www.theverge.com/platform/amp/2021/6/29/22556500/zoom-kites-acquisition-machine-translation-real-time-captions"
-    cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2021/6/29/22556500/zoom-kites-acquisition-machine-translation-real-time-captions"
-    type: article
-    provider:
-      name: The Verge
-      domain: theverge.com
-    quality: 91
-    images:
-      - url: "https://cdn.vox-cdn.com/thumbor/6fNTuqlQ4-TRmQ9LVzVOFOw8exs=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/69521667/acastro_200331_1777_zoom_0003.0.0.jpg"
-        width: 1400
-        height: 933
-        isCached: true
   - title: "Zoom acquires AI translation startup Kites"
     excerpt: "The technology will be used to improve the video conferencing experience by providing real-time, multi-language translation capabilities for Zoom users, enabling the company to increase the ..."
     publishedDateTime: 2021-06-30T09:35:00Z
@@ -155,22 +139,6 @@ related:
         width: 600
         height: 338
         isCached: true
-  - title: "Observation, simulation, and AI join forces to reveal a clear universe"
-    excerpt: "Japanese astronomers have developed a new artificial intelligence (AI) technique to remove noise in astronomical data due to random variations in galaxy shapes. After extensive training and testing on large mock data created by supercomputer simulations,"
-    publishedDateTime: 2021-07-02T14:51:00Z
-    webUrl: "https://phys.org/news/2021-07-simulation-ai-reveal-universe.html"
-    ampWebUrl: "https://phys.org/news/2021-07-simulation-ai-reveal-universe.amp"
-    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-07-simulation-ai-reveal-universe.amp"
-    type: article
-    provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 57
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/observation-simulation.jpg"
-        width: 2880
-        height: 2035
-        isCached: true
   - title: "Zoom (ZM) to Acquire Real-Time Translation Specialist Kites"
     excerpt: "Zoom Video ZM recently announced that the company has entered into a definitive agreement to acquire Karlsruhe Information Technology Solutions - Kites, GmbH, a start-up specializing in real-time machine translation."
     publishedDateTime: 2021-06-30T14:15:00Z
@@ -197,6 +165,22 @@ related:
       - url: "https://images.hindustantimes.com/tech/img/2021/07/01/1600x900/372116270_0-3_1622598739798_1625108547211.jpg"
         width: 1600
         height: 900
+        isCached: true
+  - title: "Enterprise AI startup Hypersonix’s valuation goes up 4 times after $35 million Series B funding"
+    excerpt: "The company’s valuation has now quadrupled to $200 million just a year after raising $11.5 million in Series A funding led by Intel Capital in March 2020. So far, Hypersonix has secured investments worth $50 million."
+    publishedDateTime: 2021-07-02T07:40:00Z
+    webUrl: "https://www.cnbctv18.com/startup/enterprise-ai-startup-hypersonixs-valuation-goes-up-4-times-after-35-million-series-b-funding-9858571.htm"
+    ampWebUrl: "https://www.cnbctv18.com/startup/enterprise-ai-startup-hypersonixs-valuation-goes-up-4-times-after-35-million-series-b-funding-9858571.htm/amp"
+    cdnAmpWebUrl: "https://www-cnbctv18-com.cdn.ampproject.org/c/s/www.cnbctv18.com/startup/enterprise-ai-startup-hypersonixs-valuation-goes-up-4-times-after-35-million-series-b-funding-9858571.htm/amp"
+    type: article
+    provider:
+      name: cnbctv18
+      domain: cnbctv18.com
+    quality: 45
+    images:
+      - url: "https://images.cnbctv18.com/wp-content/uploads/2018/03/shutterstock_657839185-2-1-1019x573.jpg"
+        width: 1019
+        height: 573
         isCached: true
   - title: "Zoom acquires real-time translation AI company, Kites"
     excerpt: "Zoom has acquired a real-time Machine Translation solutions company, Kites which is short for Karlsruhe Information Technology Solutions."
@@ -239,6 +223,20 @@ related:
       - url: "https://fintechzoom.com/wp-content/uploads/2021/07/Zoom-spl-arrangementjpg.jpeg"
         width: 615
         height: 384
+        isCached: true
+  - title: "MoMo acquires AI startup Pique"
+    excerpt: "Vietnam-based payment startup <a href=' target='_blank'>MoMo has acquired the AI startup <a href=' target='_blank'>Pique in a bid to better capitalise on the data of its registered"
+    publishedDateTime: 2021-07-01T12:42:00Z
+    webUrl: "https://thepaypers.com/payments-general/momo-acquires-ai-startup-pique--1250132"
+    type: article
+    provider:
+      name: The Paypers
+      domain: thepaypers.com
+    quality: 37
+    images:
+      - url: "https://thepaypers.com/images/linked-share.png"
+        width: 663
+        height: 347
         isCached: true
   - title: "Zoom Bolts on Speech Translation in What Is Only Its Second-Ever Acquisition"
     excerpt: "Zoom acquires Kites, simultaneous speech translation provider. Zoom users may soon enjoy multilingual speech translation."
