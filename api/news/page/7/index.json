@@ -2,27 +2,45 @@
   "page": 7,
   "value": [
     {
-      "path": "_news/2021-06-28-from-creating-a-zero-hunger-future-to-reimagining-health-and-wellbeing-with-ai.md",
-      "title": "From Creating a Zero Hunger Future, To Reimagining Health and Wellbeing with AI",
-      "excerpt": "Students’ Unlimited Creativity Unveiled in ‘Master Code’ Award and Kick-off CeremoniesHONG KONG SAR - Media OutReach - 28 June 2021 -",
+      "path": "_news/2021-06-28-a-company-that-uses-ai-to-fight-malaria-just-won-the-ibm-watson-ai-xprize-competition.md",
+      "title": "A Company That Uses AI To Fight Malaria Just Won The IBM Watson AI XPrize Competition",
+      "excerpt": "Zzapp Malaria, a company that uses artificial intelligence (AI) to fight malaria just won the grand prize in one of the toughest technology competitions to date. The competition is a joint venture between XPrize,",
       "sourceUrl": null,
-      "webUrl": "https://www.macaubusiness.com/from-creating-a-zero-hunger-future-to-reimagining-health-and-wellbeing-with-ai/",
-      "originalUrl": "https://www.macaubusiness.com/from-creating-a-zero-hunger-future-to-reimagining-health-and-wellbeing-with-ai/",
+      "webUrl": "https://www.forbes.com/sites/saibala/2021/06/27/a-company-that-uses-ai-to-fight-malaria-just-won-the-ibm-watson-ai-xprize-competition/",
+      "originalUrl": "https://www.forbes.com/sites/saibala/2021/06/27/a-company-that-uses-ai-to-fight-malaria-just-won-the-ibm-watson-ai-xprize-competition/",
       "featuredContent": null,
       "highlight": null,
-      "heat": null,
+      "heat": 127,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60d921bbc64aa2e4426c2abd%2F0x0.jpg",
+          "width": 1024,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-27T14:10:00-07:00",
+      "ampWebUrl": "https://www.forbes.com/sites/saibala/2021/06/27/a-company-that-uses-ai-to-fight-malaria-just-won-the-ibm-watson-ai-xprize-competition/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/saibala/2021/06/27/a-company-that-uses-ai-to-fight-malaria-just-won-the-ibm-watson-ai-xprize-competition/amp/",
+      "publishedDateTime": "2021-06-27T18:22:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Macau Business",
-        "domain": "macaubusiness.com",
-        "images": null,
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -31,8 +49,8 @@
         "news"
       ],
       "topics": [
-        "Microsoft AI",
-        "AI"
+        "AI",
+        "IBM AI"
       ]
     },
     {

@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "AI for the detection and mitigation of advertising bias"
+    excerpt: "IBM Watson Advertising today announced a research initiative that will apply IBM's open source AI technology to better understand the prevalence of unwanted"
+    publishedDateTime: 2021-07-04T03:12:00Z
+    webUrl: "https://debatepost.com/celebrity/2021/07/04/ai-for-the-detection-and-mitigation-of-advertising-bias/"
+    type: article
+    provider:
+      name: debatepost.com
+      domain: debatepost.com
+    quality: 39
+    images:
+      - url: "https://debatepost.com/wp-content/uploads/2021/07/AI-for-the-detection-and-mitigation-of-advertising-bias.jpg"
+        width: 600
+        height: 300
+        isCached: true
   - title: "CrowdStrike Wins 2021 Amazon Web Services Global Public Sector Partner and Canada AWS Partner Awards"
     excerpt: "CrowdStrike, a leader in cloud-delivered endpoint and workload protection, today announced it has been named the winner of two key Amazon Web Services ( News - Alert) (AWS) partner-focused awards - the 2021 AWS Global Public Sector Partner Award for best cybersecurity solution and 2021 Canada AWS Partner Award as the ISV Partner of the Year."
     publishedDateTime: 2021-06-30T12:12:00Z

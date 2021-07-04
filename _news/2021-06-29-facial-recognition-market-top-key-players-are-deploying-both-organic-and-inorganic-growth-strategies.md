@@ -35,6 +35,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Big Data and Machine Learning in Telecom Market 2020 | Latest Trends, Demand, Growth, Opportunities and Outlook Till 2027"
+    excerpt: "A new research report from RMoz aims at presenting 360-degree view of the global Big Data & Machine Learning in Telecom market for the forecast period of 2020 to 2026. Thus, the report highlights various important factors shaping the market growth."
+    publishedDateTime: 2021-06-29T15:36:00Z
+    webUrl: "https://ksusentinel.com/2021/06/29/big-data-machine-learning-in-telecom-market-2020-latest-trends-demand-growth-opportunities-outlook-till-2027-top-key-players/"
+    type: article
+    provider:
+      name: The Sentinel
+      domain: ksusentinel.com
+    quality: 14
+    images:
+      - url: "https://i.ibb.co/qrM8Ck1/Researchmoz-us-365.jpg"
+        width: 625
+        height: 416
+        isCached: true
   - title: "Global Artificial Intelligence In Genomics Market 2021 by Company, Regions, Type and Application, Forecast to 2026"
     excerpt: "Pages Report] Check for Discount on Global Artificial Intelligence In Genomics Market 2021 by Company, Regions, Type and Application, Forecast to 2026 report by Global Info Research. The Artificial Intelligence In Genomics market report provides a"
     publishedDateTime: 2021-07-01T11:31:00Z

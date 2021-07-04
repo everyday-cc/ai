@@ -25,19 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "The future of online shopping gets real with AI and machine learning"
-    excerpt: "Learn how AI and machine learning have starring roles in the future of online shopping and what retailers need to do to adapt."
-    publishedDateTime: 2021-07-01T05:05:00Z
-    webUrl: "https://www.the-future-of-commerce.com/2021/07/01/future-of-online-shopping-ai-and-machine-learning/"
+  - title: "Data Quality Key to Leveraging AI, Machine Learning"
+    excerpt: "A recent study revealed that AI and ML has boosted productivity and reduced costs in manufacturing to a greater degree than in any other industry."
+    publishedDateTime: 2021-06-30T14:43:00Z
+    webUrl: "https://www.manufacturing.net/technology/blog/21533379/data-quality-key-to-leveraging-ai-machine-learning"
     type: article
     provider:
-      name: Future
-      domain: the-future-of-commerce.com
+      name: Manufacturing
+      domain: manufacturing.net
     quality: 54
     images:
-      - url: "https://www.the-future-of-commerce.com/wp-content/uploads/2021/06/Future-of-Online-shopping_1200x375-1200x630.jpg"
+      - url: "https://img.manufacturing.net/files/base/indm/multi/image/2021/06/16x9/AI__Machine_learning__Hands_of_robot_and_human_touching_on_big_data_network_connection_background__Science_and_artificial_intelligence_technology__innovation_and_futuristic._1206796363_5000x2661.60dc82e2e6254.png?auto=format%2Ccompress&fit=max&q=70&w=1200"
         width: 1200
-        height: 630
+        height: 673
         isCached: true
 
 secured: "8e8ZPUjbQJtUCWlXS44MVcBlOjJSXc/4hBclFNRanHcjH2ec2sa1MBVfqylj7dn1RsGtLInGvTuQG8QjpUKF7OjI5u3WaWnEzGSCVuQRO6VEcryjuM2eDJzSVxf7/JTyIkTZ5xsWY21xMXsC0v8lEuVkS3oW3fcynzj0qc9aKlQRAIRINT/jrm5DjjInC+o3zU8pNXVFAVkvnu0NHq14N8FwzHs/2xpSgMWJQi/K9xL6EP1op3sc+W3+c0w8gP0xphMriNFS5agz2o4xtvIOh98/be8OJYP9qCbdWqU5L3Wb0oCmpu6TgmeoY8z+B1KmaV6RJAA3QJUGToJKzu1VMk9EGGh28QwCHMTAyTl/hIs=;llRvxPX4oD7NejMsFuizyQ=="

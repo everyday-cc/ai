@@ -43,38 +43,6 @@ related:
         width: 800
         height: 468
         isCached: true
-  - title: "Pixelmator Pro 2.1 launches with new Machine Learning crop tool"
-    excerpt: "Mac image editor Pixelmator Pro 2.1 has been released, featuring automatic cropping with Machine Learning, plus Quick Fill options, and a new brushstroke painting feature."
-    publishedDateTime: 2021-06-29T09:15:00Z
-    webUrl: "https://appleinsider.com/articles/21/06/29/pixelmator-pro-21-launches-with-new-machine-learning-crop-tool"
-    ampWebUrl: "https://appleinsider.com/articles/21/06/29/pixelmator-pro-21-launches-with-new-machine-learning-crop-tool/amp/"
-    cdnAmpWebUrl: "https://appleinsider-com.cdn.ampproject.org/c/s/appleinsider.com/articles/21/06/29/pixelmator-pro-21-launches-with-new-machine-learning-crop-tool/amp/"
-    type: article
-    provider:
-      name: AppleInsider
-      domain: appleinsider.com
-    quality: 59
-    images:
-      - url: "https://photos5.appleinsider.com/gallery/42864-83320-000-lead-Pixelmator-Pro-21-xl.jpg"
-        width: 1280
-        height: 714
-        isCached: true
-  - title: "Pixelmator Pro adds machine-learning powered cropping tool, redesigned Paint and Type tools"
-    excerpt: "The Pixelmator team today released the latest free update to its image editor for Mac, Pixelmator Pro. The new update includes an ML Crop feature which automatically suggests a refined framing based on the subject in the canvas."
-    publishedDateTime: 2021-06-29T09:58:00Z
-    webUrl: "https://9to5mac.com/2021/06/29/pixelmator-pro-ml-crop-new-features/"
-    ampWebUrl: "https://9to5mac.com/2021/06/29/pixelmator-pro-ml-crop-new-features/amp/"
-    cdnAmpWebUrl: "https://9to5mac-com.cdn.ampproject.org/c/s/9to5mac.com/2021/06/29/pixelmator-pro-ml-crop-new-features/amp/"
-    type: article
-    provider:
-      name: 9to5Mac
-      domain: 9to5mac.com
-    quality: 49
-    images:
-      - url: "https://i2.wp.com/9to5mac.com/wp-content/uploads/sites/6/2021/06/pixelmator-pro-crop.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
-        width: 1200
-        height: 628
-        isCached: true
 
 secured: "0cCbUkr95yFWgnSyMvISt08fo6aaahf4KEvgjGhHz9eiHjij2Czxo28MNTTP/0dvGJHQ5u0QXq7epvG7HXJ0wVawO1s9JnfOKJtzzBu21IIWDFv2/GFeDIY/kj4EwnDEhZPSzeIAjPj7ofloKrJekD3XSRux2/la4NfP8eXxZwPMxVoyM8H6W/fG4jXXtig9WV7Tc+yfWK5VfkrkZvsdjmKUhFNnl4uWPZbWHqosTVxOks3G5HqRDR1L8bn6RNxUBMyphqLBY/5dlgfqY3rTTOER55vMmaX+p6Poou6KneMrahakl2TPj9wjkRARLaGQogID0pyS3UxSl4OejbXI269CumHTgRJFH0LsC40gCYdpzS44gGckJR/StdQKHuS3DaYBBY2hfScIn4nyhmYnHtL9DsAkeWL/1OEiv3zzSnRZZDiatSHcBjkwyh29Y1jPwS9fS5tHiOb5lqkNqIN7mYCiZ96LVIqQMkdAk/j+kYWaVp751yH9WKonk2NqpmUXZZVskhUjec4t5fb8+XQaKw==;0fDUU14FCkXpVo1UnfmpSg=="
 ---

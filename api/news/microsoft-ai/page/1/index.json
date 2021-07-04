@@ -649,24 +649,33 @@
     {
       "path": "_news/2021-06-28-from-creating-a-zero-hunger-future-to-reimagining-health-and-wellbeing-with-ai.md",
       "title": "From Creating a Zero Hunger Future, To Reimagining Health and Wellbeing with AI",
-      "excerpt": "Students’ Unlimited Creativity Unveiled in ‘Master Code’ Award and Kick-off CeremoniesHONG KONG SAR - Media OutReach - 28 June 2021 -",
+      "excerpt": "Students’ Unlimited Creativity Unveiled in ‘Master Code’ Award and Kick-off Ceremonies HONG KONG SAR - Media OutReach - 28 June 2021 - Since 2016, Hong Kong Education City (EdCity) and Microsoft have co-organised the annual Master",
       "sourceUrl": null,
-      "webUrl": "https://www.macaubusiness.com/from-creating-a-zero-hunger-future-to-reimagining-health-and-wellbeing-with-ai/",
-      "originalUrl": "https://www.macaubusiness.com/from-creating-a-zero-hunger-future-to-reimagining-health-and-wellbeing-with-ai/",
+      "webUrl": "https://www.asiaone.com/business/creating-zero-hunger-future-reimagining-health-and-wellbeing-ai",
+      "originalUrl": "https://www.asiaone.com/business/creating-zero-hunger-future-reimagining-health-and-wellbeing-ai",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://www.asiaone.com/sites/default/files/styles/a1_og_image/public/original_images/Jun2021/EDCITY.jpg?itok=Uop_9JUE",
+          "width": 763,
+          "height": 509,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-27T14:10:00-07:00",
+      "ampWebUrl": "https://www.asiaone.com/business/creating-zero-hunger-future-reimagining-health-and-wellbeing-ai?amp",
+      "cdnAmpWebUrl": "https://www-asiaone-com.cdn.ampproject.org/c/s/www.asiaone.com/business/creating-zero-hunger-future-reimagining-health-and-wellbeing-ai?amp",
+      "publishedDateTime": "2021-06-27T22:10:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Macau Business",
-        "domain": "macaubusiness.com",
+        "name": "Asia One",
+        "domain": "asiaone.com",
         "images": null,
         "publishers": null,
         "authors": null

@@ -37,17 +37,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "AI trends that will define the future of data science"
-    excerpt: "Artificial Intelligence is the new electricity,” rightly said British-born American computer scientist Professor Andrew NG. AI is transforming every industry and creating huge economic value simultaneously."
-    publishedDateTime: 2021-06-29T09:54:00Z
-    webUrl: "https://timesofindia.indiatimes.com/blogs/voices/ai-trends-that-will-define-the-future-of-data-science/"
-    ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/ai-trends-that-will-define-the-future-of-data-science/"
-    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/ai-trends-that-will-define-the-future-of-data-science/"
-    type: article
-    provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 39
   - title: "Explainable AI, the future of financial services"
     excerpt: "As technology becomes more advanced, it can become harder to understand. Some may accept not fully understanding the ins and outs of a technology if it makes new or better things possible, but not being able to fully understand how a technology works can bring about its own problems."
     publishedDateTime: 2021-06-30T05:01:00Z

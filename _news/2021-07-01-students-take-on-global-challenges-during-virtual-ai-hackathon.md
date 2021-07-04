@@ -24,22 +24,6 @@ images:
     height: 400
     isCached: true
 
-related:
-  - title: "Growing use of AI for health presents global opportunities, challenges: WHO"
-    excerpt: "WHO chief says Artificial Intelligence holds enormous potential for improving health of millions, but warns of ‘misuse’"
-    publishedDateTime: 2021-06-29T09:18:00Z
-    webUrl: "https://www.yenisafak.com/en/life/growing-use-of-ai-for-health-presents-global-opportunities-challenges-who-3575428"
-    type: article
-    provider:
-      name: Yeni Şafak
-      domain: yenisafak.com
-    quality: 37
-    images:
-      - url: "https://img.piri.net/mnresize/600/-/piri/upload/3/2021/6/29/1872b9a3-rbbzpawuq0r1dhmtfudrgz.jpeg"
-        width: 600
-        height: 336
-        isCached: true
-
 secured: "MKZTZFNogevQKd4e6PS0I2oETNh+63Yb+2E724ahuua4qaG4tYa+rXrLpNdUPvd5pB4VptPlRQ5pLZwIRNiGYrMSKiSYeNME0LzoXhzXTRt3nAUODXC7UGaQWEuSDNd4PsbkKqTODJenFMTPuOsXGtq0WpH54tSU7f9PBaJ9OKRVXPMjdYYyiSTXPu0OaGihbCvuH10YzZK24qqu/d5w6qUYoOZffmjmYYJndzBcC9D5zAi3FBbh0dWNFqZ4qjG4bKbBd0L6ZcaRlQdy4Xj1Qa2jWZxyd15vvnxVzhEYw6BV8f32Nheouh4be7U7j8bk8PG31V3H5ch3YqqSGLQfUyX6bcdbgXbpeTAt0gGITT0=;1nLLvepczN+l1TTgoC32OQ=="
 ---
 

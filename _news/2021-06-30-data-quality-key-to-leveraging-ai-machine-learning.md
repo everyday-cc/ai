@@ -7,7 +7,7 @@ originalUrl: "https://www.manufacturing.net/technology/blog/21533379/data-qualit
 webUrl: "https://www.manufacturing.net/technology/blog/21533379/data-quality-key-to-leveraging-ai-machine-learning"
 type: article
 quality: 54
-heat: -1
+heat: 64
 published: false
 
 provider:
@@ -25,41 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "WHO warns against applying AI models using data from rich countries to everyone else"
-    excerpt: "The World Health Organization wants to ensure that ethical considerations and human rights are the centre of any AI-based healthcare solutions."
-    publishedDateTime: 2021-06-29T09:06:00Z
-    webUrl: "https://www.zdnet.com/article/who-warns-against-applying-ai-models-using-data-from-rich-counties-to-everyone-else/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/who-warns-against-applying-ai-models-using-data-from-rich-counties-to-everyone-else/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/who-warns-against-applying-ai-models-using-data-from-rich-counties-to-everyone-else/"
+  - title: "How Will AI Transform Teaching and Learning?"
+    excerpt: "ET AI is only beginning to make its mark in higher ed. As it continues to revolutionize operations at colleges and universities, how will it transform the teaching and learning experience? Join us as a panel of experts examines the changes ahead and"
+    publishedDateTime: 2021-06-29T18:31:00Z
+    webUrl: "https://www.chronicle.com/page/how-will-ai-transform-teaching-and-learning"
     type: article
     provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 62
-  - title: "WHO warns against applying AI models using data from rich counties to everyone else"
-    excerpt: "The World Health Organization wants to ensure that ethical considerations and human rights are the centre of any AI-based healthcare solutions."
-    publishedDateTime: 2021-06-29T09:06:00Z
-    webUrl: "https://www.zdnet.com/index.php/article/who-warns-against-applying-ai-models-using-data-from-rich-counties-to-everyone-else/"
-    ampWebUrl: "https://www.zdnet.com/index.php/google-amp/article/who-warns-against-applying-ai-models-using-data-from-rich-counties-to-everyone-else/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/google-amp/article/who-warns-against-applying-ai-models-using-data-from-rich-counties-to-everyone-else/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 61
-  - title: "WHO cautions against overestimating AI’s impact on health"
-    excerpt: "Report from WHO says that artificial intelligence (AI) has enormous potential for improving health, but only if ethics and human rights are at the heart of its design and use"
-    publishedDateTime: 2021-06-29T09:22:00Z
-    webUrl: "https://pharmaphorum.com/news/who-cautions-against-overestimating-ais-impact-on-health/?_scpsug=crawled,2139,en_21f55ef6f0e7a2ca233dbbaae88bd3b86bf9e04cbc50c8851fb52a10b69b6a75"
-    type: article
-    provider:
-      name: pharmaphorum.com
-      domain: pharmaphorum.com
+      name: The Chronicle of Higher Education
+      domain: chronicle.com
     quality: 39
     images:
-      - url: "https://pharmaphorum.com/wp-content/uploads/2018/03/AI-brain-cloud.jpg"
-        width: 1254
-        height: 836
+      - url: "https://chronicle.brightspotcdn.com/dims4/default/8947c46/2147483647/strip/true/crop/1300x683+0+0/resize/1200x630!/quality/90/?url=http%3A%2F%2Fchronicle-brightspot.s3.amazonaws.com%2F9d%2F68%2F72ce39ad4aabb5c39ea355d3d760%2Fplain-071421-aitransformteachinglearning-hp.png"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "5bWDZ/mk6ljMsmwHU9GRm3tNZ/+KB4+Cb1NzCVe2JciSENtTR/XwNi9ZfLD7mm9yCp1AMDk924wYPJk5cm8Dp6ViMhwo5juPYjt3qhA8qK5k7Bq3LcLglE9VQbqQlKeZ/ARZh0+MHaS0uXH6SL6IWykT0ajfXAseQKih5vlULGAGP1n4GNL5Ol+hnTabgdSSc17JV5KTroN3dbQJ49Xsyg4HkGCsMeek0cG8PftJZSB8J0s/1FGakUKAFiR9zJ9vpGn/v3nBk8G9g4hh209qX5zLF9k0lpSpan793SMZ56IvVd5M/KUhXRwP0MC8pWXSzBdFaPqNgp2RgniZeAbWX/PdhXiE5KFhzHW59+ahQeFh/r4WNZJoyX2m8+bjvITR+wVbI3mdz8NdlabCA7eAroZ9NrfhEmChdtzcqZhOLXTSOdZZZWoAnvf18rlN5881TuP+yP6suHnxknEcwV7KUa4Hw7WN4UR69khm0sedEyScZ2+n/SBenyEKJqa3JtlwQwW3dvd4gO9zlsnPmqb7bw==;2LorMY1oHbGd/qYjKXJ2yQ=="

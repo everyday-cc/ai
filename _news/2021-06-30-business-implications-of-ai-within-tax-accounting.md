@@ -102,15 +102,6 @@ related:
         width: 750
         height: 393
         isCached: true
-  - title: "Climate change action using AI"
-    excerpt: "According to the Forbes article, several emerging AI start-ups help companies decarbonise or reach their net-zero carbon goals. These AI businesses offers services that range from providing climate insurance coverage, carbon offsets and accounting ..."
-    publishedDateTime: 2021-06-29T10:33:00Z
-    webUrl: "https://www.preventionweb.net/news/view/78693"
-    type: article
-    provider:
-      name: Prevention Web
-      domain: preventionweb.net
-    quality: 17
 
 secured: "NIGgbJGNFM9cqxU7FSFvLTW/ueaofeK/FcFxXEgUhVvD1u4Pwk2mmXJclzq/VD9nrM2LwpJdKmC2XSX9LOe1GdLXBSxms5RACoFYJfOMmV06JNreZuQhxBmJ3WEmJfbIOUhMLobTRq1M599zsSkRReRfqndOmJeaUJm9j/zNom7965i00XGZWWk8SdrHr44UzXypQX8WyjfwrsMmxkUWjfElI+J3E3pj+VJEQEawIbQwMliFRA0y9sOicRlhO4hlQZWgcZ4nhsIEJUA/uyMQj9mojIM/RR9iOAV8J2Ru6ZxTAfH2D0cN5U2jPL6jSRRKtQl+UqPvtl3Ih8bvIejZZBuDd/y14+AJHVZg9/eOyq+f5CudPt7gkIO6eVYqlqQFZjJpjdziwnTXdjXPlyTsyvyI7sWHLXAZ51NM/J1Be5wvstGFVnL2GWhFkvG8PJVD40Eq4UOhzQmU8FFUcXxRzMB9FpSVtjgkL8lA4+kKUVCJyaLPDpMDs/ebpXk+1HztSThtzhQcTVzfmlOZV2cLLA==;bH6anEiyducu7nkU1sSmjQ=="
 ---

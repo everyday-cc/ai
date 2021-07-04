@@ -59,20 +59,6 @@ related:
         width: 830
         height: 571
         isCached: true
-  - title: "WHO guidance on Artificial Intelligence to improve healthcare, mitigate risks worldwide"
-    excerpt: "Artificial Intelligence (AI) holds “enormous potential” for improving the health of millions around the world if ethics and human rights are at the heart of its design, deployment, and use, the head of the UN health agency said on Monday."
-    publishedDateTime: 2021-06-29T10:45:00Z
-    webUrl: "https://www.indiablooms.com/health-details/H/9857/who-guidance-on-artificial-intelligence-to-improve-healthcare-mitigate-risks-worldwide.html"
-    type: article
-    provider:
-      name: India Blooms
-      domain: indiablooms.com
-    quality: 48
-    images:
-      - url: "https://www.indiablooms.com/health_pic/2021/b2ee5bce5a7997227b583979edf5b1bb.jpg"
-        width: 800
-        height: 362
-        isCached: true
 
 secured: "vqBfz4a2zOAG2ITgeY8yyGx/iaPtYQZmNQCec4pfO/Roj6948TMTFdYdKErMIDYAHzn2ooia8j9JGZUW7n61a1i/y+vK5CfGSS6LJjS1zq/biUSTW4mmcSNQrxCnYme3DSD89VZ7JptzJ3OlQ3QK5VAuvMROYDkbB/R5JuK4sHrJDD9qZTaARZMhEjIZ4CmGMW9aFBVliq+G4Lrxq76r845D7rBver+XBKVtBQ0AgdSZB5lrjKpru7ALhMpLlBxRdb5ylDqp7NWKPMoEMkGx/L6JeCB3yZes3Pshm1RXLsKuFZeqJbT8oIkYjYDEp1h1HZ4AqrL+oamJ/bWxhQPOQylhfc6zEe+jBSIJ1ZHtPmpxTuwqyNDnIO53sl8BcO0Iv9ro7RRCVy7LzmJ6QGbTyIa+rr2awLXGC9jfndsFgdBcvcE3FqvIDHHXaqtPNTJOQ4keR/AZhGgxwnm4GzbnzLyk9o28M1OgGtql6FGZE4nmE2jgTJRa2MSsKZIx+AxZsSc30t0Z4PCSMNAfP0JxXg==;vVlubJinlTTKoPCOXTrdLQ=="
 ---

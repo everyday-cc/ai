@@ -26,22 +26,6 @@ images:
     height: 274
     isCached: true
 
-related:
-  - title: "This investor deck helped a former Facebook product manager raise $8 million to help brands boost customers' long-term value"
-    excerpt: "Its clients include Nestle, Madison Reed, Dollar Shave Club, and Brickell Men's Products."
-    publishedDateTime: 2021-06-29T10:00:00Z
-    webUrl: "https://www.businessinsider.com/pitch-deck-customer-insights-startup-retina-raises-8-million-2021-6"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 42
-    images:
-      - url: "https://i.insider.com/60da35dd1477f300188c8302?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-
 secured: "ZNt9Jy8jVN7gbuC2ERcYtPKkj8UHAY5JHl2SrihXHoypP8jaW41wLnR1Kza3rKjoQ2yyG5T3KzfDUzuopevncyh1AN/NBc7ysDz7Wyw++o5nHC+YOE9Q+VJ43notF25Fz5CLUAX/1F8rdLmSNLDmrIEVWi3EB46xtTer7yRd2I/PqTmRqApVO0tpFHT2tj+kxbdeiIUnKnjqC9Jn/ISB32Men1t1OGvVkee0lhNgis8EWX2pegzg2bhzjSSqQJfa8lljwjAIRDkKS4KrMlNRwsJn9OvGSaq3sl7Q5JBGr1cQfqIznuMojFIhJCEmp6P6yZHITRTISpkCIk2XB20BPlQ5wt9OjecEfuuP2BwLaKZj/rEKV/tQi+iCn2jAD4EoinTF0CRRuxx2YW5reo855SmNsG90fsJlC//5SP2+20viyigSfYIEIquSlhzi7t2XryvVegkCfjl5vjg3S6PKfVBJVXzh3DapP8CvkHpAXysvp+roWZZ/0qV9xmsIE4h36gCxKeZi0gLn57ulM7+t6w==;r5vX0FRliRfp0zqOC061Ug=="
 ---
 

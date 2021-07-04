@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2021/06/29/changi
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2021/06/29/changing-ai-perceptions-to-drive-widespread-adoption-in-traditional-industries/amp/"
 type: article
 quality: 83
-heat: 143
+heat: 133
 published: true
 
 provider:
@@ -106,15 +106,6 @@ related:
         width: 800
         height: 450
         isCached: true
-  - title: "Climate change action using AI"
-    excerpt: "According to the Forbes article, several emerging AI start-ups help companies decarbonise or reach their net-zero carbon goals. These AI businesses offers services that range from providing climate insurance coverage, carbon offsets and accounting ..."
-    publishedDateTime: 2021-06-29T10:33:00Z
-    webUrl: "https://www.preventionweb.net/news/view/78693"
-    type: article
-    provider:
-      name: Prevention Web
-      domain: preventionweb.net
-    quality: 17
 
 secured: "RDnY6uoPQvjqPJ6vfvSQHphxNeLZOW7gm6xtCaxpkvQBG+jFNdpVynq4HL9jMKw02BASD4GDgBa3j/wQLrVuvh9Tb3lKMdXocS0K7tuFhSrIA7WancN5juqUgk7DaOoQGvXld7e0QbFLTx7knG464EdKUNfYKjCVQJ9tyvJMqYDhZtN2nkQR56ImCIt4OjZd/osi9pR/Wr2I02X+73+75wmHBwNnxFQC49+YTsy557tf80xJ/O7ZDCj9TSiVsDFXqrZPGJ4YwTLhpZuSC2iVZ51Ubndwk04GbiMuDq6kXjDrmQzANyedm4DmJzdlicvPCARVLVk6OFmHjrUiaXdvZQC7iHunFrCN24RuPnqnTSvqeu/391hMvuMqmZfGrwH/uLHbWj3dAZWIASLkiphS8I/T6KOJ6zsmVLjYSlpHNFEjIKbuLTqnF3r0FbcPR2YbKC1ZGO5h5bg09B/A2NXfzCI1yubdE1MAE/scZix33Qje0qekZ5+XXifCVBJZTp9mDGxw6w728zTPzo8V7co50w==;QOrAJI9CV/vRg0n7LQRTUw=="
 ---

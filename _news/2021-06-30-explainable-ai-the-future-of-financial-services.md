@@ -41,17 +41,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "AI trends that will define the future of data science"
-    excerpt: "Artificial Intelligence is the new electricity,” rightly said British-born American computer scientist Professor Andrew NG. AI is transforming every industry and creating huge economic value simultaneously."
-    publishedDateTime: 2021-06-29T09:54:00Z
-    webUrl: "https://timesofindia.indiatimes.com/blogs/voices/ai-trends-that-will-define-the-future-of-data-science/"
-    ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/ai-trends-that-will-define-the-future-of-data-science/"
-    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/ai-trends-that-will-define-the-future-of-data-science/"
-    type: article
-    provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 39
   - title: "Macy's Wants Out Of Clearview AI Facial-Data Privacy MDL"
     excerpt: "Department store chain Macy's argued Monday to be excused from Illinois multidistrict litigation over alleged biometric privacy violations by Clearview AI, saying consumers haven't shown an injury related to their claims that the company used Clearview's database to identify unknown individuals."
     publishedDateTime: 2021-06-29T22:32:00Z
