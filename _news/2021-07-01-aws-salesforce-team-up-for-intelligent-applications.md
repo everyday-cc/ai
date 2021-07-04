@@ -64,20 +64,6 @@ related:
       name: Middle East North Africa Financial Network
       domain: menafn.com
     quality: 19
-  - title: "P&R Dental Strategies to Present on Artificial Intelligence and Future of Dental Analytics at NADP CONVERGE 2021"
-    excerpt: "P&R Dental Strategies, LLC (P&R), the premier dental insights company delivering customized, actionable business intelligence to support a variety of dental payer objectives, today announced their plan to present at the National Association of"
-    publishedDateTime: 2021-06-29T22:42:00Z
-    webUrl: "https://www.lelezard.com/en/news-19880966.html"
-    type: article
-    provider:
-      name: Le Lézard
-      domain: lelezard.com
-    quality: 18
-    images:
-      - url: "https://www.lelezard.com/img/pr_sections/health.jpg"
-        width: 640
-        height: 480
-        isCached: true
 
 secured: "s+BGeQzaMh7FF4tCz5mINBHJAM81P7MWd464CoS+RE+m3VIQZ0K2qw7roqZ3ni1DREfKLTTiWRCK/QjYBZ5jDzUpSH/dLdfKVjoUXVBCv+fBVthFRYKfo5LCw2M0Vt0DQs+VBl98S84RPAEIqT//cZO6egILCFyMduSFGEDy5VdKt0IIrzJqtnjcFKnHokOgNHE8ooiOHYOO4ONlTFPqauqcx2n+FdbBxuIp1pVlIR1HHiZ4v5koMn16y0MgC+FLQgsnBJ2xb2gMmdBjPNESNEIL1u2Lolh01R9w/disVNNYFDfoToSax2whBNSwT6AuHcc4bmmoM6S2laQBTO35vLmLVyE7jm1aitJfKPxUCHxwj5moDf4sBo4FaDvLUZ2emCfdFkYEU2tKrOpTjSUnXIpJ1Zk4r9r8Dw5b17SWcjLD33l8gGw6iYfnUQH3eE7wtw+m50DSywGGwKV/6MePbedaQoE/C1zCqistPF1gOCKgOcZcB7mYObOfk0eqK+/sQY11XxYz3GISqlDrklwOTQ==;NDRR6DLFPVkQnslKFHlYrQ=="
 ---

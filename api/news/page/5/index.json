@@ -2,6 +2,58 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-06-30-ai-safety-tools-can-help-mitigate-bias-in-algorithms.md",
+      "title": "AI safety tools can help mitigate bias in algorithms",
+      "excerpt": "A range of tools are available from companies including Microsoft that are designed to address concerns arising from risky AI deployments.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/06/29/ai-safety-tools-can-help-mitigate-bias-in-algorithms/",
+      "originalUrl": "https://venturebeat.com/2021/06/29/ai-safety-tools-can-help-mitigate-bias-in-algorithms/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2016/06/bigdata.jpg?w=1200&strip=all",
+          "width": 1000,
+          "height": 667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/06/29/ai-safety-tools-can-help-mitigate-bias-in-algorithms/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/29/ai-safety-tools-can-help-mitigate-bias-in-algorithms/amp/",
+      "publishedDateTime": "2021-06-29T12:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-29-visionary-trio-creates-next-gen-video-and-image-annotation-platform-for-machine-learning.md",
       "title": "Visionary Trio Creates Next Gen Video and Image Annotation Platform for Machine Learning",
       "excerpt": "Innotescus ® is announcing the launch of its image and video annotation platform. The Innotescus platform provides an intuitive annotation workspace, comprehensive analytics, and a collaborative environment for teams to produce superior quality training datasets.",
@@ -452,8 +504,8 @@
       "title": "NetApp acquires Data Mechanics to accelerate spot roadmap and optimize data analytics and machine learning workloads in the cloud",
       "excerpt": "NetApp® (NASDAQ: NTAP), a global, cloud-led, data-centric software company, today announced that it has acquired Data Mechanics, a managed platform provider for big data processing and cloud analytics with offices in Paris,",
       "sourceUrl": null,
-      "webUrl": "https://www.zawya.com/saudi-arabia/en/press-releases/story/NetApp__acquires_Data_Mechanics8239to_accelerate_spot_roadmap_and_optimize_data_analytics_and_machine_learning_workloads_in_the_cloudnbsp-ZAWYA20210629131953/",
-      "originalUrl": "https://www.zawya.com/saudi-arabia/en/press-releases/story/NetApp__acquires_Data_Mechanics8239to_accelerate_spot_roadmap_and_optimize_data_analytics_and_machine_learning_workloads_in_the_cloudnbsp-ZAWYA20210629131953/",
+      "webUrl": "https://www.zawya.com/mena/en/press-releases/story/NetApp__acquires_Data_Mechanics8239to_accelerate_spot_roadmap_and_optimize_data_analytics_and_machine_learning_workloads_in_the_cloudnbsp-ZAWYA20210629131953/",
+      "originalUrl": "https://www.zawya.com/mena/en/press-releases/story/NetApp__acquires_Data_Mechanics8239to_accelerate_spot_roadmap_and_optimize_data_analytics_and_machine_learning_workloads_in_the_cloudnbsp-ZAWYA20210629131953/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -470,8 +522,8 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.zawya.com/saudi-arabia/en/story/amp/ZAWYA20210629131953/",
-      "cdnAmpWebUrl": "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/saudi-arabia/en/story/amp/ZAWYA20210629131953/",
+      "ampWebUrl": "https://www.zawya.com/mena/en/story/amp/ZAWYA20210629131953/",
+      "cdnAmpWebUrl": "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/ZAWYA20210629131953/",
       "publishedDateTime": "2021-06-29T06:19:00-07:00",
       "updatedDateTime": null,
       "provider": {
@@ -1170,49 +1222,6 @@
       "topics": [
         "AI",
         "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-29-who-warns-against-applying-ai-models-using-data-from-rich-countries-to-everyone-else.md",
-      "title": "WHO warns against applying AI models using data from rich countries to everyone else",
-      "excerpt": "The World Health Organization wants to ensure that ethical considerations and human rights are the centre of any AI-based healthcare solutions.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/who-warns-against-applying-ai-models-using-data-from-rich-counties-to-everyone-else/",
-      "originalUrl": "https://www.zdnet.com/article/who-warns-against-applying-ai-models-using-data-from-rich-counties-to-everyone-else/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 92,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/who-warns-against-applying-ai-models-using-data-from-rich-counties-to-everyone-else/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/who-warns-against-applying-ai-models-using-data-from-rich-counties-to-everyone-else/",
-      "publishedDateTime": "2021-06-29T02:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
       ]
     }
   ],

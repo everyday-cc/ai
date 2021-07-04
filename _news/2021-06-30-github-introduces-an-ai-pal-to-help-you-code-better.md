@@ -7,8 +7,8 @@ originalUrl: "https://thenextweb.com/news/github-copilot-ai-openai-code-tool"
 webUrl: "https://thenextweb.com/news/github-copilot-ai-openai-code-tool"
 type: article
 quality: 67
-heat: -1
-published: false
+heat: 97
+published: true
 
 provider:
   name: The Next Web
@@ -28,20 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "GitHub launches Copilot to power pair programming with AI"
-    excerpt: "GitHub Copilot is a new AI-powered pair programmer that collaborates with human programmers and suggests new functions or lines of code."
-    publishedDateTime: 2021-06-29T21:42:00Z
-    webUrl: "https://copilot.github.com/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 167
-    images:
-      - url: "http://copilot.github.com/social.png"
-        width: 2400
-        height: 1260
-        isCached: true
   - title: "GitHub Copilot AI Let’s Developers Take A Back Seat As The Machine Writes Its Own Code"
     excerpt: "If I ever do, Microsoft's new GitHub Copilot might prove to be a boon. What exactly is Copilot? It is an AI pair programmer that helps coders hammer out lines and functions faster and with less work,"
     publishedDateTime: 2021-06-30T14:42:00Z

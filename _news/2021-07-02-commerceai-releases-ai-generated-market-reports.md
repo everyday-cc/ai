@@ -88,20 +88,6 @@ related:
         width: 449
         height: 449
         isCached: true
-  - title: "The State of AI and Machine Learning"
-    excerpt: "In the 7th edition of its annual State of AI report, Appen continues to explore the strategies  employed by companies large and small in successfully deploying AI. The reports surveys business  leaders and technical practitioners ( referred to as technologists) alike to understand  their priorities,"
-    publishedDateTime: 2021-06-29T21:15:00Z
-    webUrl: "https://insidebigdata.com/white-paper/the-state-of-ai-and-machine-learning-2/"
-    type: article
-    provider:
-      name: insidebigdata.com
-      domain: insidebigdata.com
-    quality: 54
-    images:
-      - url: "https://insidebigdata.com/wp-content/uploads/2021/06/Appen_State_AI_whitepaper_cover.png"
-        width: 300
-        height: 390
-        isCached: true
   - title: "The future of online shopping gets real with AI and machine learning"
     excerpt: "Learn how AI and machine learning have starring roles in the future of online shopping and what retailers need to do to adapt."
     publishedDateTime: 2021-07-01T05:05:00Z

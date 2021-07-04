@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chipsets-market-latest-industry-trends-industry-size-key-drivers-and-future-demand-forecast-2021-07-02"
 type: article
 quality: 79
-heat: 179
+heat: 169
 published: true
 
 provider:
@@ -126,20 +126,6 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Global Edge Artificial Intelligence (AI) Chip Market 2021 Major Manufacturers, Growth Statistics, Upcoming Trends, and Growth Opportunities to 2026"
-    excerpt: "The report titled Global Edge Artificial Intelligence AI Chip Market Growth 2021-2026 offered by MRInsightsbiz contains i"
-    publishedDateTime: 2021-06-29T21:38:00Z
-    webUrl: "https://www.bignewsnetwork.com/news/270107360/global-edge-artificial-intelligence-ai-chip-market-2021-major-manufacturers-growth-statistics-upcoming-trends-and-growth-opportunities-to-2026"
-    type: article
-    provider:
-      name: Big News Network.com
-      domain: bignewsnetwork.com
-    quality: 31
-    images:
-      - url: "https://cdn.bignewsnetwork.com/cus1625120002894.jpg"
-        width: 630
-        height: 420
         isCached: true
   - title: "Global Enterprise Artificial Intelligence (AI) Market Size, Status and Forecast 2021-2027"
     excerpt: "Pages Report] Check for Discount on Global Enterprise Artificial Intelligence (AI) Market Size, Status and Forecast 2021-2027 report by QYResearch Group. Market Analysis and Insights: Global Enterprise Artificial Intelligence (AI)"

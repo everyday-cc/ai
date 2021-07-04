@@ -9,7 +9,7 @@ ampWebUrl: "https://www.buzzfeednews.com/amphtml/carolinehaskins1/gao-facial-rec
 cdnAmpWebUrl: "https://www-buzzfeednews-com.cdn.ampproject.org/c/s/www.buzzfeednews.com/amphtml/carolinehaskins1/gao-facial-recognition-report-clearview-federal-agencies"
 type: article
 quality: 75
-heat: 85
+heat: 75
 published: true
 
 provider:
@@ -28,19 +28,6 @@ images:
     width: 625
     height: 415
     isCached: true
-
-related:
-  - title: "Macy's Wants Out Of Clearview AI Facial-Data Privacy MDL"
-    excerpt: "Department store chain Macy's argued Monday to be excused from Illinois multidistrict litigation over alleged biometric privacy violations by Clearview AI, saying consumers haven't shown an injury related to their claims that the company used Clearview's database to identify unknown individuals."
-    publishedDateTime: 2021-06-29T22:32:00Z
-    webUrl: "https://www.law360.com/articles/1398758/macy-s-wants-out-of-clearview-ai-facial-data-privacy-mdl"
-    ampWebUrl: "https://www.law360.com/amp/articles/1398758"
-    cdnAmpWebUrl: "https://www-law360-com.cdn.ampproject.org/c/s/www.law360.com/amp/articles/1398758"
-    type: article
-    provider:
-      name: Law360
-      domain: law360.com
-    quality: 39
 
 secured: "LnrhUmiRAruhsO9jAlLWPax3joA6G2J7QgrbEZ9J4vgp7Aspm+Q7a1QPt2g2AItiohReHOe7pYtlbbq3Pn3fisk1lcbdItrnbWPUE9LcFuiGa2lQYFuWSmWEdi5GM7ThNkuec8AhrI5b8iV3ReUOzo6PKn4YV6JTeCQXuRxLnciWaDu1dOoBoqmUHmty3uQ2jKZWsqes9kStQBR23SAJEp0LA7quXpiAiMc+Y9VBnGtRq70Po7lru5y08MNaerk4KcSKQtTUaZwCtmgkO/7wD0eaTSRojwUTcuYVhbLt35Fmt7P4AqjPqpfsbTM/QrQ0P3OtmO6eVUVfR6DcM7rQnkSEK9/WEOjZxCfuWLfa14SoenNyrHJcjs/ENb/4P6t+N+FYmc0pQKISgNa1DJ7LKxmV6EzkqY2UscJkbdxMmT4JmsJS7FS6sYq6JKDyeOsIGudS2Z5BAYIX9sbopdHf1reXTGPJlDwaK8aZRl9ilsV26ynUGLatcCuSEyMYb/VK/k4zUlyb5UkTVCPfm5b2VQ==;iKmoVeb/AoONdRmu9JiWUA=="
 ---

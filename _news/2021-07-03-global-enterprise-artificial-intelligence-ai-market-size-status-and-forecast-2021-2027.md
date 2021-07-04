@@ -127,20 +127,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Global Edge Artificial Intelligence (AI) Chip Market 2021 Major Manufacturers, Growth Statistics, Upcoming Trends, and Growth Opportunities to 2026"
-    excerpt: "The report titled Global Edge Artificial Intelligence AI Chip Market Growth 2021-2026 offered by MRInsightsbiz contains i"
-    publishedDateTime: 2021-06-29T21:38:00Z
-    webUrl: "https://www.bignewsnetwork.com/news/270107360/global-edge-artificial-intelligence-ai-chip-market-2021-major-manufacturers-growth-statistics-upcoming-trends-and-growth-opportunities-to-2026"
-    type: article
-    provider:
-      name: Big News Network.com
-      domain: bignewsnetwork.com
-    quality: 31
-    images:
-      - url: "https://cdn.bignewsnetwork.com/cus1625120002894.jpg"
-        width: 630
-        height: 420
-        isCached: true
   - title: "Artificial Intelligence (AI) in Drug Discovery Market Share, Trends, Future Scope, Forecast 2027"
     excerpt: "Artificial intelligence (AI) in drug discovery market is expected to gain market growth in the forecast period of 2020 to 2027. Data Bridge Market Research analyses the market to account to USD 3,932."
     publishedDateTime: 2021-07-02T18:20:00Z

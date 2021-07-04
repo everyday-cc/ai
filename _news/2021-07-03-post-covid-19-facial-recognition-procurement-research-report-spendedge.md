@@ -24,22 +24,6 @@ images:
     height: 960
     isCached: true
 
-related:
-  - title: "Cruise lines using BriefCam’s facial recognition for COVID-19 contact tracing"
-    excerpt: "Cruise ships have integrated BriefCam video analytics with facial recognition into their existing security systems for easy contract tracing of passengers."
-    publishedDateTime: 2021-06-29T21:53:00Z
-    webUrl: "https://www.biometricupdate.com/202106/cruise-lines-using-briefcams-facial-recognition-for-covid-19-contact-tracing"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 36
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/04/01130554/biometric-facial-recognition.jpg"
-        width: 730
-        height: 499
-        isCached: true
-
 secured: "U/25r68zTi9r2Fmps6mm/nOVQJGmGVit4DH6eOowtP4PYWFfKd5GqrmqTkdD4b8BP6oVfFlzrR9hl5f+gg0erZ3OWR+wGZ4dx/6ZsUroj8VlWh5jWr40S3LHseCWjBkwtfK0hUH+BF9HHhEPLJvRMDkqy+jE3QxxtFy2l6Ch2ZEMIPd7A11Ed6MdKF1zJiDmY/usWu6bmuaCOgFbr3SnrVuDKQcldZNviqewcs0qFQ2Q1iMSEa/FRrOJ2e17x2hYJVrHFEC6tLrkt2C0RBLrDbV+gi/SnKwPOL2o1B2qwXAGqgneVxVo3RhPsK8AbZT8Fnrf9kvEh5oSREZk6rFwVcGsppo1z1fg20Td/oYTzDY=;1UaW61GseV9nxpPuFP13Zg=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techrepublic.com/google-amp/article/salesforces-tableau-
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/salesforces-tableau-launches-new-data-analytics-suite-with-ai-enhancements/"
 type: article
 quality: 87
-heat: 127
+heat: 117
 published: true
 
 provider:
@@ -68,20 +68,6 @@ related:
       name: Middle East North Africa Financial Network
       domain: menafn.com
     quality: 19
-  - title: "P&R Dental Strategies to Present on Artificial Intelligence and Future of Dental Analytics at NADP CONVERGE 2021"
-    excerpt: "P&R Dental Strategies, LLC (P&R), the premier dental insights company delivering customized, actionable business intelligence to support a variety of dental payer objectives, today announced their plan to present at the National Association of"
-    publishedDateTime: 2021-06-29T22:42:00Z
-    webUrl: "https://www.lelezard.com/en/news-19880966.html"
-    type: article
-    provider:
-      name: Le Lézard
-      domain: lelezard.com
-    quality: 18
-    images:
-      - url: "https://www.lelezard.com/img/pr_sections/health.jpg"
-        width: 640
-        height: 480
-        isCached: true
 
 secured: "9uJ4gddrS1LXi1RomTyX14EZ2ExlMazS9+/umzDcZ154u+BtYwo7BWOMR/8kIrW42c+BYiFUyq+0cTddZkMkwaOG35hn7f3sA26KIHeVmp15L4lyLHKMkcTlrCU+4MovmwT+HBhI9+fNUMP7P2YFU2RzTxhKSBIYHqSwfWlMRqrZ1W7lTUCTID5nMU6+5/IjsffRnpToM+3nWdMqbGKua/63SuTTkeydUVTiP92PgQbPNASgR45FOhPgBK8iGoUfhKKFgJ3/xYj81Ilk3PS1GU0615bPqJ2TatOSYQtpzeqkA5K7RoQHkKLZvB6uY+p5DyCqgGT7MjQi5cdptZ31Ar2G2Q8c5rhxhnNcr4STyvo=;+WI3dcwjz5SzOiWdwmv41g=="
 ---

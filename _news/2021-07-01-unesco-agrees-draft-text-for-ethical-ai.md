@@ -101,20 +101,6 @@ related:
         width: 1000
         height: 800
         isCached: true
-  - title: "The WHO on ethical AI, Doximity’s ascent, & algorithms for IVF"
-    excerpt: "The World Health Organization has issued its first guidance on the use of artificial intelligence in health care."
-    publishedDateTime: 2021-06-29T21:25:00Z
-    webUrl: "https://www.statnews.com/2021/06/29/who-artificial-intelligence-health/"
-    type: article
-    provider:
-      name: STAT
-      domain: statnews.com
-    quality: 54
-    images:
-      - url: "https://www.statnews.com/wp-content/uploads/2021/04/AdobeStock_224585219-1024x576.jpeg"
-        width: 1024
-        height: 576
-        isCached: true
   - title: "WHO Report Targets AI in Health, Cautions Against Health Disparities"
     excerpt: "The World Health Organization (WHO) released the first global report on artificial intelligence in healthcare and six principles to avoid health disparities in the field. The report, Ethics and governance of artificial intelligence for health,"
     publishedDateTime: 2021-06-30T13:30:00Z

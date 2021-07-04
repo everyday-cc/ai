@@ -7,7 +7,7 @@ originalUrl: "https://www.manufacturing.net/home/news/21533410/tyson-coleads-10m
 webUrl: "https://www.manufacturing.net/home/news/21533410/tyson-coleads-10m-investment-round-for-aipowered-robotics-startup"
 type: article
 quality: 69
-heat: 119
+heat: 109
 published: true
 
 provider:
@@ -52,20 +52,6 @@ related:
       - url: "https://www.wattagnet.com/ext/resources/2021/07/01/soft-robotics.jpg?height=635&t=1625163975&width=1200"
         width: 700
         height: 331
-        isCached: true
-  - title: "Tyson Ventures, ABB invest in Soft Robotics $10 million funding round"
-    excerpt: "Tyson Foods joined ABB Technology Ventures, Tekfen Ventures and three other venture capital firms to invest a combined $10 million into Soft Robotics, to further the tech companies work"
-    publishedDateTime: 2021-06-29T22:28:00Z
-    webUrl: "https://talkbusiness.net/2021/06/tyson-ventures-abb-invest-in-soft-robotics-10-million-funding-round/"
-    type: article
-    provider:
-      name: Talk Business & Politics
-      domain: talkbusiness.net
-    quality: 54
-    images:
-      - url: "https://talkbusiness.net/wp-content/uploads/2021/06/softrobotics-tyson-abb.jpg"
-        width: 1200
-        height: 639
         isCached: true
   - title: "Tyson unit betting on new robot tech"
     excerpt: "Tyson Foods Inc. capital venture arm, Tyson Ventures, has invested in Soft Robotics Inc., a developer of advanced technologies that give industrial robots a dexterity similar to hand-eyed coordination in humans."

@@ -2,6 +2,49 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2021-06-24-artificial-intelligence-in-healthcare-market-report-2021-size-share-growth-analysis-trends-and-forecast-to-2026.md",
+      "title": "Artificial Intelligence in Healthcare Market Report 2021, Size, Share, Growth, Analysis, Trends and Forecast to 2026",
+      "excerpt": "According to IMARC Group’s latest report, the global artificial intelligence in healthcare market exhibited strong growth during 2015-2020. Looking forward, the market is expected to grow at a CAGR of 42.",
+      "sourceUrl": null,
+      "webUrl": "https://ksusentinel.com/2021/06/24/artificial-intelligence-in-healthcare-market-report-2021-size-share-growth-analysis-trends-and-forecast-to-2026/",
+      "originalUrl": "https://ksusentinel.com/2021/06/24/artificial-intelligence-in-healthcare-market-report-2021-size-share-growth-analysis-trends-and-forecast-to-2026/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ksusentinel.com/wp-content/uploads/2021/06/Artificial-Intelligence-in-Healthcare-Market-Blog-Image-780x470.png",
+          "width": 780,
+          "height": 470,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-23T22:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Sentinel",
+        "domain": "ksusentinel.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-24-deep-learning-software-market-is-predicted-to-reach-usd-26808-billion-by-2030-with-a-cagr-of-413-.md",
       "title": "Deep Learning Software Market is predicted to reach USD 268.08 billion by 2030 with a CAGR of 41.3 %",
       "excerpt": "The Global Deep Learning Software Market size is estimated to be USD 5.98 billion in 2019 and is predicted to reach USD 268.08 billion by 2030 with a CAGR of 41.3 % from 2020-2030. The Deep Learning Software Market report covers a detailed study on key areas such as market size,",
@@ -1047,58 +1090,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-23-global-ai-in-computer-vision-market-2021-to-2026-increasing-manufacturing-of-hybrid-and-electric-cars-presents-opportunities.md",
-      "title": "Global AI in Computer Vision Market (2021 to 2026) - Increasing Manufacturing of Hybrid and Electric Cars Presents Opportunities",
-      "excerpt": "The AI in computer vision market is estimated to be valued at USD 15.9 billion in 2021 and reach USD 51.3 billion by 2026, at a CAGR of 26.3% between 2021 and 2026. The growing need for quality inspection and automation,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/global-ai-in-computer-vision-market-2021-to-2026---increasing-manufacturing-of-hybrid-and-electric-cars-presents-opportunities-2021-06-23",
-      "originalUrl": "https://www.marketwatch.com/press-release/global-ai-in-computer-vision-market-2021-to-2026---increasing-manufacturing-of-hybrid-and-electric-cars-presents-opportunities-2021-06-23",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-23T03:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

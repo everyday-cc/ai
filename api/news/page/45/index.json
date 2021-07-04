@@ -2,6 +2,52 @@
   "page": 45,
   "value": [
     {
+      "path": "_news/2021-05-31-why-ml-capabilities-of-gcp-is-way-ahead-of-aws-azure.md",
+      "title": "Why ML Capabilities Of GCP Is Way Ahead Of AWS & Azure",
+      "excerpt": "Google Cloud Platform (GCP) and Microsoft Azure are the leading cloud providers by a long shot. Though late to the party, GCP has seen robust growth over the years. Google Cloud’s revenue jumped nearly 46 percent year-on-year to $4.",
+      "sourceUrl": null,
+      "webUrl": "https://analyticsindiamag.com/why-ml-capabilities-of-gcp-is-way-ahead-of-aws-azure/",
+      "originalUrl": "https://analyticsindiamag.com/why-ml-capabilities-of-gcp-is-way-ahead-of-aws-azure/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://analyticsindiamag.com/wp-content/uploads/2021/05/AIM-Illustration-2.jpg",
+          "width": 2240,
+          "height": 1260,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-30T21:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Analytics India Magazine",
+        "domain": "analyticsindiamag.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "Machine Learning",
+        "AWS AI",
+        "Google AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-31-the-age-of-autonomous-killer-robots-may-already-be-here.md",
       "title": "The Age of Autonomous Killer Robots May Already Be Here",
       "excerpt": "A “lethal” weaponized drone “hunted down” and “remotely engaged” human targets without its handlers’ say-so during a conflict in Libya last year, according to a United Nations report first covered by New Scientist this week.",
@@ -1091,40 +1137,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-28-the-edge-ai-and-vision-alliance-announces-the-2021-vision-tank-start-up-competition-winners-at-the-embedded-vision-summit.md",
-      "title": "The Edge AI and Vision Alliance Announces the 2021 Vision Tank Start-Up Competition Winners at the Embedded Vision Summit",
-      "excerpt": "The Edge AI and Vision Alliance today announced the two winners of this year's Vision Tank Start-Up Competition. The",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/21/05/n21342638/the-edge-ai-and-vision-alliance-announces-the-2021-vision-tank-start-up-competition-winners-at-the",
-      "originalUrl": "https://www.benzinga.com/pressreleases/21/05/n21342638/the-edge-ai-and-vision-alliance-announces-the-2021-vision-tank-start-up-competition-winners-at-the",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.benzinga.com/amp/content/21342638",
-      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/21342638",
-      "publishedDateTime": "2021-05-28T09:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

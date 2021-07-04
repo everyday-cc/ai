@@ -9,7 +9,7 @@ ampWebUrl: "https://beta.ctvnews.ca/national/business/2021/6/30/1_5491450.html"
 cdnAmpWebUrl: "https://beta-ctvnews-ca.cdn.ampproject.org/c/s/beta.ctvnews.ca/national/business/2021/6/30/1_5491450.html"
 type: article
 quality: 44
-heat: 44
+heat: -1
 published: false
 
 provider:
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "China's Didi touts tech spending ahead of Wall St debut"
+    excerpt: "Early investors included Apple Inc., Japan's Softbank, Alibaba and Chinese internet giants, Tencent Holding Ltd. and Baidu Inc. Didi ... into development of self-driving, electric vehicles and ..."
+    publishedDateTime: 2021-06-30T08:45:00Z
+    webUrl: "https://www.dailyherald.com/article/20210630/business/306309977"
+    ampWebUrl: "https://www.dailyherald.com/amp-article/20210630/business/306309977/"
+    cdnAmpWebUrl: "https://www-dailyherald-com.cdn.ampproject.org/c/s/www.dailyherald.com/amp-article/20210630/business/306309977/"
+    type: article
+    provider:
+      name: Daily Herald
+      domain: dailyherald.com
+    quality: 44
+    images:
+      - url: "https://www.dailyherald.com/storyimage/DA/20210630/business/306309977/AR/0/AR-306309977.jpg&updated=202106301649&MaxW=800&MaxH=800&noborder"
+        width: 512
+        height: 334
+        isCached: true
   - title: "Didi shares gain 1% after early jump in Wall Street debut"
     excerpt: "Early investors included Apple Inc., Japan’s Softbank, Alibaba and Chinese internet giants, Tencent Holding Ltd. and Baidu Inc. Didi ... into development of self-driving, electric vehicles ..."
     publishedDateTime: 2021-06-30T22:42:00Z
@@ -41,17 +57,6 @@ related:
         width: 1120
         height: 630
         isCached: true
-  - title: "China’s Didi touts tech spending ahead of Wall St debut"
-    excerpt: "Early investors included Apple Inc., Japan’s Softbank, Alibaba and Chinese internet giants, Tencent Holding Ltd. and Baidu Inc. Advertising ... into development of self-driving, electric ..."
-    publishedDateTime: 2021-06-30T14:58:00Z
-    webUrl: "https://www.seattletimes.com/business/chinas-didi-touts-tech-spending-ahead-of-wall-st-debut/"
-    ampWebUrl: "https://www.seattletimes.com/business/chinas-didi-touts-tech-spending-ahead-of-wall-st-debut/?amp=1"
-    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/chinas-didi-touts-tech-spending-ahead-of-wall-st-debut/?amp=1"
-    type: article
-    provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 24
 
 secured: "Nu94dq0NHGUjuVlUx+T0dhX3JNfVMYPyHW9tk3Z/iPRQxfko072QMUQQHf+rVNf7ORiJiJURJ8LdyAiGG0VvuBtPAnq6BoqBVjs7d14kedf6el6sUElhWIqPRmqG7XDQWDj6ElMOxTErBCSCDGSnUor2sHpiZ0Gg0kECiR2OvZJsfI+lWIHWLsU0CyN+A3IX1Meqb/M2LLwUZD10d2PmLDgLVT2gRLMUu1AWlvF9zfBAyd7mjFOuAdnZwjWNPaTEols4nJLLbKGycIefsYuNpA1/dOPHwb0mXxTaqQOKv6+VNZG66nADh9EmUPyxg/TIoGCUnVhPZ8slT9EHsl1Q/OF9B9CCoLBlmF96vccyz8Y=;Fqtphr3ded5fSFShsocstw=="
 ---

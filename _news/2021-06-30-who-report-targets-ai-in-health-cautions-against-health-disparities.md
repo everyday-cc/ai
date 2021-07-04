@@ -101,20 +101,6 @@ related:
         width: 1000
         height: 800
         isCached: true
-  - title: "The WHO on ethical AI, Doximity’s ascent, & algorithms for IVF"
-    excerpt: "The World Health Organization has issued its first guidance on the use of artificial intelligence in health care."
-    publishedDateTime: 2021-06-29T21:25:00Z
-    webUrl: "https://www.statnews.com/2021/06/29/who-artificial-intelligence-health/"
-    type: article
-    provider:
-      name: STAT
-      domain: statnews.com
-    quality: 54
-    images:
-      - url: "https://www.statnews.com/wp-content/uploads/2021/04/AdobeStock_224585219-1024x576.jpeg"
-        width: 1024
-        height: 576
-        isCached: true
   - title: "Unesco agrees draft text for ethical AI"
     excerpt: "After months of constructive dialogue and negotiation, representatives from UNESCO’s member states have agreed on the draft text of an ambitious and wide-ranging new template for the ethical development and deployment of Artificial Intelligence."
     publishedDateTime: 2021-07-01T10:16:00Z

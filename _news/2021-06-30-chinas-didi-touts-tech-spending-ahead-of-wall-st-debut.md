@@ -1,24 +1,30 @@
 ---
 category: news
-title: "China’s Didi touts tech spending ahead of Wall St debut"
-excerpt: "Early investors included Apple Inc., Japan’s Softbank, Alibaba and Chinese internet giants, Tencent Holding Ltd. and Baidu Inc. Advertising ... into development of self-driving, electric ..."
-publishedDateTime: 2021-06-30T14:58:00Z
-originalUrl: "https://www.seattletimes.com/business/chinas-didi-touts-tech-spending-ahead-of-wall-st-debut/"
-webUrl: "https://www.seattletimes.com/business/chinas-didi-touts-tech-spending-ahead-of-wall-st-debut/"
-ampWebUrl: "https://www.seattletimes.com/business/chinas-didi-touts-tech-spending-ahead-of-wall-st-debut/?amp=1"
-cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/chinas-didi-touts-tech-spending-ahead-of-wall-st-debut/?amp=1"
+title: "China's Didi touts tech spending ahead of Wall St debut"
+excerpt: "Early investors included Apple Inc., Japan's Softbank, Alibaba and Chinese internet giants, Tencent Holding Ltd. and Baidu Inc. Didi ... into development of self-driving, electric vehicles and ..."
+publishedDateTime: 2021-06-30T08:45:00Z
+originalUrl: "https://www.dailyherald.com/article/20210630/business/306309977"
+webUrl: "https://www.dailyherald.com/article/20210630/business/306309977"
+ampWebUrl: "https://www.dailyherald.com/amp-article/20210630/business/306309977/"
+cdnAmpWebUrl: "https://www-dailyherald-com.cdn.ampproject.org/c/s/www.dailyherald.com/amp-article/20210630/business/306309977/"
 type: article
-quality: 24
-heat: -1
+quality: 44
+heat: 44
 published: false
 
 provider:
-  name: Seattle Times
-  domain: seattletimes.com
+  name: Daily Herald
+  domain: dailyherald.com
 
 topics:
   - AI in Autos
   - AI
+
+images:
+  - url: "https://www.dailyherald.com/storyimage/DA/20210630/business/306309977/AR/0/AR-306309977.jpg&updated=202106301649&MaxW=800&MaxH=800&noborder"
+    width: 512
+    height: 334
+    isCached: true
 
 related:
   - title: "China's Didi touts tech spending ahead of Wall Street debut"
@@ -52,6 +58,6 @@ related:
         height: 630
         isCached: true
 
-secured: "5+9LvE3it/8FaBIXkvhjEZy0LK/9RixPqHuU6ugq70C8/CNez5nAL0XRlU5lUhC4qn0HIaXRRTpkmL2bsfU2EVBRl78wL+V75ULJGBv8HnTOQcWPM9iks3OGT/nIqyfy8ila3B+OKlF8sY7jzj3ONp1HGEQiS3DGoRl2SnFZxs1gvoPTXNW9pjZVkj2Kzpzoo1bRdHTi96ZvF0Vgy9pbzV1cFwkDNaSkLdVbxJEX5XMMvG9W2Rqgy9PyY6dsUyFdIt8+VYrLW6PeABsGUIcZh7pOG0ccwaWCJ4zMJQpsXdNas15FId7L9RUrVpI+shO75e/CrK61xU9GiVBEyoaJttBtSTuw/iOHGhTDt81UY24=;uiMia+5kiF0g4xLvENfYMw=="
+secured: "6TjDos0Xjh1pN607dLMyM7LI/akVpRRPr7hrpYm8cB2FMpcIia9+lN273zx8py+ZG7s6Utijk9NsHxLFqweI9fZIqMemRSaLjE1jURjPOxXeyEhdavxXtIVrEnGpOJ654W5uXQEU+L0hGLrxqz6EzJlZH3G5qFOMcKSkT7XwbmjjH5Zf7hNtS9WRjyHDdrVGckeH+jggAz50pIhWhhZYfGiujJUHjkUeAA5jMz8jM50ooOJB15rwbx/QemcgBiU5UpQ5F7i1fp99b5pdYYeo8/S3Ufv0AeZDULsgXoD+xLpg41I8ik4JY7FMFTXjFcgkmH4xTkFFB8c5PdM3zrig0snLtyey+z/ElxINI7nfDY0=;OtLU3ft25JEov6mXf/qnXg=="
 ---
 

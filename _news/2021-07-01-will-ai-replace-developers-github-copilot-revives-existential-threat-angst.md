@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "GitHub launches Copilot to power pair programming with AI"
-    excerpt: "GitHub Copilot is a new AI-powered pair programmer that collaborates with human programmers and suggests new functions or lines of code."
-    publishedDateTime: 2021-06-29T21:42:00Z
-    webUrl: "https://copilot.github.com/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 167
-    images:
-      - url: "http://copilot.github.com/social.png"
-        width: 2400
-        height: 1260
-        isCached: true
   - title: "GitHub introduces an AI pal to help you code better"
     excerpt: "GitHub is already one of the most popular platforms to build and host coding projects. Last year, it launched a built-in Integrated Development Environment to let you code directl"
     publishedDateTime: 2021-06-30T06:00:00Z

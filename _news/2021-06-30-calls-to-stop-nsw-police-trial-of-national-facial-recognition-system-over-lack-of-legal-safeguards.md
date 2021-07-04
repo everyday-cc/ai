@@ -79,34 +79,6 @@ related:
         width: 800
         height: 450
         isCached: true
-  - title: "Watchdog: 10 Government Agencies Deployed Clearview AI Facial Recognition Tech"
-    excerpt: "A Government Accountability Office report details how agencies used different versions of the biometric technology during the pandemic and protests."
-    publishedDateTime: 2021-06-29T21:06:00Z
-    webUrl: "https://www.nextgov.com/emerging-tech/2021/06/watchdog-10-government-agencies-deployed-clearview-ai-facial-recognition-tech/176411/"
-    type: article
-    provider:
-      name: Nextgov
-      domain: nextgov.com
-    quality: 50
-    images:
-      - url: "https://cdn.nextgov.com/media/img/cd/2021/06/29/NGfacialtech20210629/open-graph.jpg"
-        width: 400
-        height: 400
-        isCached: true
-  - title: "GAO Urges Federal Agencies to Weigh Facial Recognition Risks"
-    excerpt: "Federal law enforcement agencies should track their use of facial recognition technology from the private sector and local governments and assess potential threats to privacy and risks of bias, the U."
-    publishedDateTime: 2021-06-29T22:10:00Z
-    webUrl: "https://news.bloomberglaw.com/privacy-and-data-security/gao-urges-federal-agencies-to-weigh-facial-recognition-risks"
-    type: article
-    provider:
-      name: Bloomberg Law
-      domain: bloomberglaw.com
-    quality: 39
-    images:
-      - url: "https://db0ip7zd23b50.cloudfront.net/dims4/default/4d21995/2147483647/crop/3999x1536%2B0%2B1130/resize/959x369%3E/quality/90/?url=http%3A%2F%2Fbloomberg-bna-brightspot.s3.amazonaws.com%2F18%2F0d%2F64c54c824d6fad38cebee40e0236%2Fgettyimages-1147205618.jpg"
-        width: 959
-        height: 368
-        isCached: true
   - title: "Federal Law Enforcement Is Running Roughshod Over Facial Recognition Privacy, Says GAO"
     excerpt: "Out of the 86 federal agencies that employ full-time law enforcement officers, the Government Accountability Office (GAO) surveyed 42 of them about whether they either owned and/or used facial recognition technologies from outside suppliers."
     publishedDateTime: 2021-06-30T19:55:00Z

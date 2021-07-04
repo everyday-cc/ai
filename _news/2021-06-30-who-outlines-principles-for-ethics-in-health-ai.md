@@ -9,7 +9,7 @@ ampWebUrl: "https://www.theverge.com/platform/amp/2021/6/30/22557119/who-ethics-
 cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2021/6/30/22557119/who-ethics-ai-healthcare"
 type: article
 quality: 104
-heat: 174
+heat: 164
 published: true
 
 provider:
@@ -90,20 +90,6 @@ related:
       - url: "https://www.dailypioneer.com/uploads/2021/story/images/big/who-for-ai-for-healthcare-2021-07-03.jpg"
         width: 1000
         height: 800
-        isCached: true
-  - title: "The WHO on ethical AI, Doximity’s ascent, & algorithms for IVF"
-    excerpt: "The World Health Organization has issued its first guidance on the use of artificial intelligence in health care."
-    publishedDateTime: 2021-06-29T21:25:00Z
-    webUrl: "https://www.statnews.com/2021/06/29/who-artificial-intelligence-health/"
-    type: article
-    provider:
-      name: STAT
-      domain: statnews.com
-    quality: 54
-    images:
-      - url: "https://www.statnews.com/wp-content/uploads/2021/04/AdobeStock_224585219-1024x576.jpeg"
-        width: 1024
-        height: 576
         isCached: true
   - title: "Unesco agrees draft text for ethical AI"
     excerpt: "After months of constructive dialogue and negotiation, representatives from UNESCO’s member states have agreed on the draft text of an ambitious and wide-ranging new template for the ethical development and deployment of Artificial Intelligence."

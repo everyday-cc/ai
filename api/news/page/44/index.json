@@ -2,6 +2,41 @@
   "page": 44,
   "value": [
     {
+      "path": "_news/2021-06-01-deep-learning-suppliers-strategic-positioning-and-benchmark-report-2021-google-ibm-intel-micron-technology-microsoft-sensory-inc-nvidia.md",
+      "title": "Deep Learning Suppliers Strategic Positioning and Benchmark Report 2021: Google, IBM, Intel, Micron Technology, Microsoft, Sensory Inc., Nvidia, and Samsung ...",
+      "excerpt": "DUBLIN--(BUSINESS WIRE)--The \"Deep Learning Suppliers Strategic Positioning and Leadership Quadrant\" report has been added to ResearchAndMarkets.com's offering. This report offers a full competitive analysis from target markets to product mapping ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesswire.com/news/home/20210601005409/en/",
+      "originalUrl": "https://www.businesswire.com/news/home/20210601005409/en/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-31T21:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-01-natural-language-works-with-more-than-ivrs.md",
       "title": "Natural Language Works with More Than IVRs",
       "excerpt": "The first attempts at computer-based natural language understanding (NLU) predate the debut of the personal computer, and just like the PC, NLU technology has advanced tremendously in the decades since.",
@@ -1063,52 +1098,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-31-why-ml-capabilities-of-gcp-is-way-ahead-of-aws-azure.md",
-      "title": "Why ML Capabilities Of GCP Is Way Ahead Of AWS & Azure",
-      "excerpt": "Google Cloud Platform (GCP) and Microsoft Azure are the leading cloud providers by a long shot. Though late to the party, GCP has seen robust growth over the years. Google Cloud’s revenue jumped nearly 46 percent year-on-year to $4.",
-      "sourceUrl": null,
-      "webUrl": "https://analyticsindiamag.com/why-ml-capabilities-of-gcp-is-way-ahead-of-aws-azure/",
-      "originalUrl": "https://analyticsindiamag.com/why-ml-capabilities-of-gcp-is-way-ahead-of-aws-azure/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://analyticsindiamag.com/wp-content/uploads/2021/05/AIM-Illustration-2.jpg",
-          "width": 2240,
-          "height": 1260,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-30T21:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Analytics India Magazine",
-        "domain": "analyticsindiamag.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Machine Learning",
-        "AWS AI",
-        "Google AI"
       ]
     }
   ],

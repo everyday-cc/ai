@@ -2,6 +2,57 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2021-06-28-meet-the-new-standard-in-risk-management.md",
+      "title": "Meet the new standard in risk management",
+      "excerpt": "Legacy assessment based third-party risk management (TPRM) practices have struggled for years to keep pace with business needs. During the COVID-19 crisis, these shortcomings became even more acute. Companies faced additional unanticipated challenges involving the rapid onboarding of new service providers,",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blogs/watson/2021/06/new-standard-in-risk-management/",
+      "originalUrl": "https://www.ibm.com/blogs/watson/2021/06/new-standard-in-risk-management/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 122,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ibm.com/blogs/watson/wp-content/uploads/2021/06/OpenPages-and-Supply-Wisdom.png",
+          "width": 2000,
+          "height": 1006,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-28T06:00:13-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-28-how-to-get-your-employees-to-quickly-embrace-a-digital-platform.md",
       "title": "How To Get Your Employees To Quickly Embrace A Digital Platform",
       "excerpt": "Clearly, now more than ever, digital transformation must take hold in many industries. It is especially important when companies must find ways to do more work with far fewer resources. Starting Your Digital Transformation Journey Digital transformation truly \"takes a village.",
@@ -1116,57 +1167,6 @@
         "Natural Language Processing",
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2021-06-26-how-ai-is-taking-over-our-gadgets.md",
-      "title": "How AI Is Taking Over Our Gadgets",
-      "excerpt": "AI is moving from data centers to devices, making everything from phones to tractors faster and more private. These newfound smarts also come with pitfalls.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/how-ai-is-taking-over-our-gadgets-11624680004",
-      "originalUrl": "https://www.wsj.com/articles/how-ai-is-taking-over-our-gadgets-11624680004",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 127,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-359618/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/how-ai-is-taking-over-our-gadgets-11624680004",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/how-ai-is-taking-over-our-gadgets-11624680004",
-      "publishedDateTime": "2021-06-26T01:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

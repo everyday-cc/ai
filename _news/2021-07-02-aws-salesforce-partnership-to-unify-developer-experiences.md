@@ -63,20 +63,6 @@ related:
         width: 644
         height: 314
         isCached: true
-  - title: "P&R Dental Strategies to Present on Artificial Intelligence and Future of Dental Analytics at NADP CONVERGE 2021"
-    excerpt: "P&R Dental Strategies, LLC (P&R), the premier dental insights company delivering customized, actionable business intelligence to support a variety of dental payer objectives, today announced their plan to present at the National Association of"
-    publishedDateTime: 2021-06-29T22:42:00Z
-    webUrl: "https://www.lelezard.com/en/news-19880966.html"
-    type: article
-    provider:
-      name: Le Lézard
-      domain: lelezard.com
-    quality: 18
-    images:
-      - url: "https://www.lelezard.com/img/pr_sections/health.jpg"
-        width: 640
-        height: 480
-        isCached: true
 
 secured: "VSUM81Ww9gOqrtgEN4z7TE1z64fpT6PXa7Shv3NkTuedp9n0o+OkstgwvWLhDEHHrPFQi49S5OzyX5JGPsKnEAlv6LBeJAyUNkTAG18CCA6jRb8vqRS8PLSNTMV8ldskbHumquk+sIg8j68qwRtiAHCSkc02B/pfYIJ5T7LzcKWRJDgJJ1VMP+hID3eFrUdEsAhEtAxZDpDnKnVTIXsShGLim9XjtYEn0gB9MoSZW0shpIl48QeZcdlGpgkFNFQxWo2SYDDgQqdZFTpiIzRtdbLodQsV9btCcCqMTWr107uXb2VqmmszLS15V1aTCBbIVEvSQrb/738uTDXcL6LYbOQsR62t2/QE18fZ5/botej9aV9ilynYXRO9bAqC8ptflZZ7GntCAVmmBUYpiLTOqu0Q77pTF+ov9nasxR6ZcgwgY8zPBE9qYwW+PRFI096K2xksj68DAnsgAWh92UKilr8G2q22GOqdnJpjPc5WXurbfXOLzlYDufvFbyF0mxjIWEuU5EBRZgSiVwezZSlnNg==;2EE0oTlc10EZQpPFgUsIjQ=="
 ---

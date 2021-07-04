@@ -161,8 +161,8 @@
       "title": "Graphcore brings new competition to Nvidia in latest MLPerf AI benchmarks",
       "excerpt": "Graphcore’s score in BERT natural language training was the best score of any of the two-socket AMD systems submitted.",
       "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/index.php/article/graphcore-brings-new-competition-to-nvidia-in-latest-mlperf-ai-benchmarks/",
-      "originalUrl": "https://www.zdnet.com/index.php/article/graphcore-brings-new-competition-to-nvidia-in-latest-mlperf-ai-benchmarks/",
+      "webUrl": "https://www.zdnet.com/article/graphcore-brings-new-competition-to-nvidia-in-latest-mlperf-ai-benchmarks/",
+      "originalUrl": "https://www.zdnet.com/article/graphcore-brings-new-competition-to-nvidia-in-latest-mlperf-ai-benchmarks/",
       "featuredContent": null,
       "highlight": null,
       "heat": 88,
@@ -179,8 +179,8 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/index.php/google-amp/article/graphcore-brings-new-competition-to-nvidia-in-latest-mlperf-ai-benchmarks/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/google-amp/article/graphcore-brings-new-competition-to-nvidia-in-latest-mlperf-ai-benchmarks/",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/graphcore-brings-new-competition-to-nvidia-in-latest-mlperf-ai-benchmarks/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/graphcore-brings-new-competition-to-nvidia-in-latest-mlperf-ai-benchmarks/",
       "publishedDateTime": "2021-06-30T03:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
@@ -204,7 +204,7 @@
         "news"
       ],
       "topics": [
-        "Natural Language Processing",
+        "AI Hardware",
         "AI"
       ]
     },
@@ -351,6 +351,57 @@
       ],
       "topics": [
         "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-30-github-introduces-an-ai-pal-to-help-you-code-better.md",
+      "title": "GitHub introduces an AI pal to help you code better",
+      "excerpt": "GitHub is already one of the most popular platforms to build and host coding projects. Last year, it launched a built-in Integrated Development Environment to let you code directl",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/news/github-copilot-ai-openai-code-tool",
+      "originalUrl": "https://thenextweb.com/news/github-copilot-ai-openai-code-tool",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-cdn.tnwcdn.com/image/tnw?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F06%2FGitHub-copilot.jpg&signature=04c4e92701007a57aa8fde20946e8e81",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-29T23:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
         "AI"
       ]
     },
@@ -699,7 +750,7 @@
       "originalUrl": "https://www.theverge.com/2021/6/29/22556500/zoom-kites-acquisition-machine-translation-real-time-captions",
       "featuredContent": null,
       "highlight": null,
-      "heat": 251,
+      "heat": 241,
       "tags": null,
       "images": [
         {
@@ -794,7 +845,7 @@
       "originalUrl": "https://www.manufacturing.net/home/news/21533410/tyson-coleads-10m-investment-round-for-aipowered-robotics-startup",
       "featuredContent": null,
       "highlight": null,
-      "heat": 119,
+      "heat": 109,
       "tags": null,
       "images": [
         {
@@ -1171,58 +1222,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-30-ai-safety-tools-can-help-mitigate-bias-in-algorithms.md",
-      "title": "AI safety tools can help mitigate bias in algorithms",
-      "excerpt": "A range of tools are available from companies including Microsoft that are designed to address concerns arising from risky AI deployments.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/06/29/ai-safety-tools-can-help-mitigate-bias-in-algorithms/",
-      "originalUrl": "https://venturebeat.com/2021/06/29/ai-safety-tools-can-help-mitigate-bias-in-algorithms/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2016/06/bigdata.jpg?w=1200&strip=all",
-          "width": 1000,
-          "height": 667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/06/29/ai-safety-tools-can-help-mitigate-bias-in-algorithms/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/29/ai-safety-tools-can-help-mitigate-bias-in-algorithms/amp/",
-      "publishedDateTime": "2021-06-29T12:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
         "AI"
       ]
     }
