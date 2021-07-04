@@ -9,7 +9,7 @@ ampWebUrl: "https://www.itpro.co.uk/business-strategy/acquisition/360046/zoom-ac
 cdnAmpWebUrl: "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/business-strategy/acquisition/360046/zoom-acquires-german-ai-startup-kites?amp"
 type: article
 quality: 89
-heat: 239
+heat: 229
 published: true
 
 provider:
@@ -126,22 +126,6 @@ related:
       - url: "https://assets.entrepreneur.com/content/3x2/2000/1625256159-Jul2ZoomtraduccinentiemporealvideoconferenciastrascomprarempresaKites.jpg?width=600&crop=16:9"
         width: 600
         height: 338
-        isCached: true
-  - title: "Zoom investing in real-time translation following acquisition of AI company"
-    excerpt: "Zoom on Tuesday announced the acquisition of Kites (or Karlsruhe Information Technology Solutions), a company focused on artificial intelligence software to transcribe and translate conversations. Following the acquisition,"
-    publishedDateTime: 2021-06-30T01:08:00Z
-    webUrl: "https://9to5mac.com/2021/06/29/zoom-investing-in-real-time-translation-following-acquisition-of-ai-company/"
-    ampWebUrl: "https://9to5mac.com/2021/06/29/zoom-investing-in-real-time-translation-following-acquisition-of-ai-company/amp/"
-    cdnAmpWebUrl: "https://9to5mac-com.cdn.ampproject.org/c/s/9to5mac.com/2021/06/29/zoom-investing-in-real-time-translation-following-acquisition-of-ai-company/amp/"
-    type: article
-    provider:
-      name: 9to5Mac
-      domain: 9to5mac.com
-    quality: 57
-    images:
-      - url: "https://i2.wp.com/9to5mac.com/wp-content/uploads/sites/6/2021/06/Zoom-app-logo.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
-        width: 1200
-        height: 628
         isCached: true
   - title: "Zoom (ZM) to Acquire Real-Time Translation Specialist Kites"
     excerpt: "Zoom Video ZM recently announced that the company has entered into a definitive agreement to acquire Karlsruhe Information Technology Solutions - Kites, GmbH, a start-up specializing in real-time machine translation."

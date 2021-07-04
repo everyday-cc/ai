@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/consumer-robots-market-p
 webUrl: "https://www.marketwatch.com/press-release/consumer-robots-market-poised-for-excellent-growth-during-2021-2026-comprehensive-study-by-ama-2021-07-01"
 type: article
 quality: 55
-heat: 65
+heat: 55
 published: false
 
 provider:
@@ -27,17 +27,6 @@ images:
     width: 1200
     height: 630
     isCached: true
-
-related:
-  - title: "2021 Deep Learning in Machine Vision Market, Business Growth, Current Trends, Rules, Challenge, and Interaction, Goals, Key Components, Forecast 2027"
-    excerpt: "Global Deep Learning in Machine Vision Market 2021 is an all-inclusive, proficient report provides an in-detail analysis of extensive drivers, challenges, restraints, opportunities, present market trends and approach influencing the Deep Learning in Machine Vision industry together with projections and forecast to 2027."
-    publishedDateTime: 2021-07-01T11:23:00Z
-    webUrl: "https://ksusentinel.com/2021/07/01/2021-deep-learning-in-machine-vision-market-business-growth-current-trends-rules-challenge-and-interaction-goals-key-components-forecast-2027/"
-    type: article
-    provider:
-      name: The Sentinel
-      domain: ksusentinel.com
-    quality: 0
 
 secured: "FPq/IuIJGqciWQzAVHtixYvLpUjsIHUfMmzjVP3t1Rjc+ZlALc3xIxueHNWw/LkDQ73vNALaaroDgZgOY9Sr17tiV4d+2tL/qEfdW+SiH2E20Rup+VN7fBnv0Kk9PY9ObyFbo0VWs8EuYnNvkMlHQgmyfg+agb/6fBwXI1phKRFhD09VQflfhyB9adfb4Z9g7HuzUO+KGPOeXTRtgQ9kBcC64DeKK5C89M41z9B7lovUe6baZ2OnTKbsaKl9uAN9FR5f5sAhuOwRjEWI/NwRKg4DvHYH6Qpo+8wlXdpOF1uierbVsK6dWce6WsSVUK/Dh3tu6sv6yo896PFAZ5C4hUNQNoPqDPZnqnhaKWSbJHc=;r8qzDMXlfllrqKhyV8KpBQ=="
 ---

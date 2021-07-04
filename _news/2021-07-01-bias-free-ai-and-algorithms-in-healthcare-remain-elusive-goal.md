@@ -7,7 +7,7 @@ originalUrl: "https://www.healthleadersmedia.com/technology/bias-free-ai-and-alg
 webUrl: "https://www.healthleadersmedia.com/technology/bias-free-ai-and-algorithms-healthcare-remain-elusive-goal"
 type: article
 quality: 54
-heat: 64
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Artificial Intelligence in Healthcare: Intel’s AI tool screens patients for vision loss"
+    excerpt: "Sankara Eye Foundation and Leben Care are deploying a cloud-based AI solution Netra.AI, powered by Intel technology, to identify retinal conditions in a short span of time with the accuracy level of h"
+    publishedDateTime: 2021-07-04T17:32:00Z
+    webUrl: "https://www.financialexpress.com/industry/technology/artificial-intelligence-in-healthcare-intels-ai-tool-screens-patients-for-vision-loss/2283014/"
+    ampWebUrl: "https://www.financialexpress.com/industry/technology/artificial-intelligence-in-healthcare-intels-ai-tool-screens-patients-for-vision-loss/2283014/lite/"
+    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/industry/technology/artificial-intelligence-in-healthcare-intels-ai-tool-screens-patients-for-vision-loss/2283014/lite/"
+    type: article
+    provider:
+      name: The Financial Express
+      domain: financialexpress.com
+    quality: 81
+    images:
+      - url: "https://images.financialexpress.com/2021/07/1-70.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Google's Rise in Healthcare"
     excerpt: "Google continues to dominate the search engine market in the U.S. Back in 2006, the company quietly began to explore potential business opportunities in the healthcare sector. The initial intention of Google Health was to create a repository of health records and data that would provide direct connections between doctors,"
     publishedDateTime: 2021-07-01T00:12:00Z
@@ -39,6 +55,15 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "Digital health care in China and access for older people"
+    excerpt: "Digital medicine technology has been widely applied to support health care today.1 In China, the so-called Internet Plus health care is an emerging health service model with a cross-industry integration and application of information technologies,"
+    publishedDateTime: 2021-07-01T12:45:00Z
+    webUrl: "https://www.thelancet.com/journals/lanpub/article/PIIS2468-2667(21)00051-7/fulltext"
+    type: article
+    provider:
+      name: The Lancet
+      domain: thelancet.com
+    quality: 4
 
 secured: "KbvOFSmuY1aGbYSrGhUbu9orXDKmErJ9YVSrdvteq24mYTFT/uuvDLIvbcLUD1iE00vvxhKqSJ1jtQqf84bSYFKWZ/zsuvb01ToB2TNiNXHnQbCkO6n1S5MFw8GlY2hjbtcWlqZ0hgKzplyTSVnvNTryJt9d0wg0fYjkF+lOCA6EZHoBJyMjlEU6k2UmcWci+o0/OevTjGeNfCWgmLBcX4QrJfb5mTPt9qaiZkrZZgb4OHJlCLu37SRaiMtRCCf0zWpJPErpeaSgQHNy7UllRIbNJvVxqmTQw4F2rbisM+4xyditn+Tevn2+QSg9OIxhbMNB9iY6OTkqvmhP2qg9YtUy1x3YHeCg1TBIY5vA4YA=;16qpDme+6N0ASlJlj/bayg=="
 ---

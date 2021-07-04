@@ -19,19 +19,33 @@ topics:
   - AI
 
 related:
-  - title: "Consumer Robots Market Poised for Excellent Growth During (2021-2026) | Comprehensive Study By AMA"
-    excerpt: "The up-to-date coverage of the latest report Consumer Robots Market provides a detailed synopsis as well as a consistent evaluation of accurate revenue over the forecasted timespan. Current trends, industry analysis,"
-    publishedDateTime: 2021-07-01T20:46:00Z
-    webUrl: "https://www.marketwatch.com/press-release/consumer-robots-market-poised-for-excellent-growth-during-2021-2026-comprehensive-study-by-ama-2021-07-01"
+  - title: "Artificial Intelligence In Insurtech Market Grows Owning To Innovations by 2027"
+    excerpt: "Request a sample Report of Artificial Intelligence In Insurtech Market at:  The business intelligence report of Artificial Intelligence In Insurtech market provides conclusive data on the business dynamics over the forecast timeframe with respect to key growth drivers,"
+    publishedDateTime: 2021-06-30T12:52:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-insurtech-market-grows-owning-to-innovations-by-2027-2021-06-30"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 55
+    quality: 63
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Diversity, ethics and innovation in tech"
+    excerpt: "Jake Wall, techUK Programme Assistant for Policy, writes on the benefits of diversity in the tech sector, why inclusion in tech is more important than ever, and how a more diverse sector can lead to more innovative and ethical technological outcomes."
+    publishedDateTime: 2021-07-01T09:52:00Z
+    webUrl: "https://www.techuk.org/resource/diversity-ethics-and-innovation-in-tech.html"
+    type: article
+    provider:
+      name: techUK
+      domain: techuk.org
+    quality: 39
+    images:
+      - url: "https://pixl8-cloud-techuk.s3.eu-west-2.amazonaws.com/prod/public/d96ba140-7d15-4bd6-91bff2622a179372/Working-office-diversity-98265000-web-1500px.jpg"
+        width: 1500
+        height: 1000
         isCached: true
 
 secured: "gKekF/65g2/m3mExXrbyfx0apQDewL5FKCEH9JcPl7PlhHZpjKR3iSVHWfZmkXiv26fGGsJQEdVv1avQWo/mFtIi8JMk1JUhpRfKJSmNz7Ou757cX41ay9VW864gI6i0S/hpIZ5BYRyW7ePpLggtzkPlcd3pFjV/9XJ8NOQ8ZKrndDW66ZuafzG6okfeyOkJ5/ZDDiN6vEnAGtIYGxQHSubJxeK3uzTnyNb5q99N/wJZB6o909+n+U5pA/TqGMCwTwl1WrJn+UKIG3jlvf1Us/yav0pRT2o8qr1QQ0Z4C9c4mpQylzHYAcn7PffGjSQpN7uonU3C3S0GGF0LM33m69+pGJeBjM06JDw0A1NBKLU=;ZzAs4gRI4/r0JRZfa7vMaw=="
