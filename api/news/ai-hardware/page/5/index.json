@@ -2,92 +2,6 @@
   "page": 5,
   "value": [
     {
-      "path": "_news/2021-05-18-aetina-releases-rugged-vpx-board-v3t5000-wrc-v3t3000-qrc-powered-by-quadro-rtx-gpu.md",
-      "title": "Aetina Releases Rugged VPX Board V3T5000-WRC & V3T3000-QRC, Powered by Quadro RTX GPU",
-      "excerpt": "Aetina Corporation, an industrial embedded GPGPU solutions provider, announces the new series of rugged VPX boards powered by Quadro RTX GPU. The news coming product includes V3T5000-WRC & V3T3000-QRC,",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/2021/05/18/9371248.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/2021/05/18/9371248.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1511387/PR_photo_VPX.jpg",
-          "width": 400,
-          "height": 267,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-17T23:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-17-3u-vpx-embedded-computing-for-artificial-intelligence-ai-electronic-warfare-ew-offered-by-curtiss-wright.md",
-      "title": "3U VPX embedded computing for artificial intelligence (AI), electronic warfare (EW) offered by Curtiss-Wright",
-      "excerpt": "The VPX3-4935 SOSA aligned module feature an NVIDIA Quadro Turing TU104 (RTX5000E) GPU that delivers 11.2 TFLOPS/TIPS performance. It provides 3072 CUDA cores, 384 tensor cores, and 48 ray-tracing ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.militaryaerospace.com/computers/article/14203132/artificial-intelligence-ai-electronic-warfare-ew-embedded-computing",
-      "originalUrl": "https://www.militaryaerospace.com/computers/article/14203132/artificial-intelligence-ai-electronic-warfare-ew-embedded-computing",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.militaryaerospace.com/files/base/ebm/mae/image/2021/05/Curtiss_19_May_2021.609ade048a9db.png?auto=format&fit=max&w=1200",
-          "width": 1200,
-          "height": 740,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-16T23:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Military",
-        "domain": "militaryaerospace.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-05-13-samsung-raises-spending-in-logic-chip-businesses-to-151-billion.md",
       "title": "Samsung raises spending in logic chip businesses to $151 billion",
       "excerpt": "Samsung is adding another 38 trillion won, around $33.5 billion, to its prior commitment to inject 133 trillion won into its logic business in a bid to become the world leader in that space.",
@@ -1469,6 +1383,102 @@
       "topics": [
         "AI Hardware",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-03-extreme-ceo-talks-ai-automation-chip-shortages.md",
+      "title": "Extreme CEO talks AI, automation, chip shortages",
+      "excerpt": "Extreme CEO Ed Meyercord says its tools that incorporate automation, AI, and ML can help IT catch more problems earlier and head them off before they hit the network.",
+      "sourceUrl": null,
+      "webUrl": "https://www.networkworld.com/article/3617001/extreme-ceo-talks-ai-automation-chip-shortages.html",
+      "originalUrl": "https://www.networkworld.com/article/3617001/extreme-ceo-talks-ai-automation-chip-shortages.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2020/07/network_security_automation_artificial_intelligence_endpoints_integrated_connections_by_blue_planet_studio_gettyimages-1250576928_cso_2400x1600-100851256-large.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.networkworld.com/article/3617001/extreme-ceo-talks-ai-automation-chip-shortages.amp.html",
+      "cdnAmpWebUrl": "https://www-networkworld-com.cdn.ampproject.org/c/s/www.networkworld.com/article/3617001/extreme-ceo-talks-ai-automation-chip-shortages.amp.html",
+      "publishedDateTime": "2021-05-03T08:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Network World",
+        "domain": "networkworld.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-03-why-most-ai-writing-cant-get-its-facts-straight.md",
+      "title": "Why Most AI Writing Can’t Get Its Facts Straight",
+      "excerpt": "The brute force approach to artificial intelligence writing still works better on fiction than on factual, data-based reporting.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/opinion/articles/2021-05-03/why-most-ai-writing-can-t-get-its-facts-straight",
+      "originalUrl": "https://www.bloomberg.com/opinion/articles/2021-05-03/why-most-ai-writing-can-t-get-its-facts-straight",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iLQ9BIC_W478/v1/1200x935.jpg",
+          "width": 1200,
+          "height": 935,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-03T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI Hardware"
       ]
     }
   ],

@@ -25,22 +25,83 @@ images:
     isCached: true
 
 related:
-  - title: "Wells Fargo Acquires Stake in Compliance and Security Solutions Fintech Theta Lake"
-    excerpt: "Wells Fargo has reportedly acquired a stake in Theta Lake, an established provider of compliance and security solutions for chat, video, and voice collaboration tools. Theta Lake"
-    publishedDateTime: 2021-06-30T19:33:00Z
-    webUrl: "https://www.crowdfundinsider.com/2021/06/177283-wells-fargo-acquires-stake-in-compliance-and-security-solutions-fintech-theta-lake/"
-    ampWebUrl: "https://www.crowdfundinsider.com/2021/06/177283-wells-fargo-acquires-stake-in-compliance-and-security-solutions-fintech-theta-lake/amp/"
-    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/06/177283-wells-fargo-acquires-stake-in-compliance-and-security-solutions-fintech-theta-lake/amp/"
+  - title: "Student finance fintech raises £1.1m in funding"
+    excerpt: "StepEx has raised £1.1 million in pre-initial funding, with the venture studio BBVA Anthemis Venture Partnership being the lead investor."
+    publishedDateTime: 2021-07-05T12:54:00Z
+    webUrl: "https://www.finextra.com/pressarticle/88425/student-finance-fintech-raises-11m-in-funding"
     type: article
     provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 55
+      name: Finextra
+      domain: finextra.com
+    quality: 54
     images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2018/03/Wells-Fargo-Bank-Branch-600x489.jpg"
-        width: 600
-        height: 489
+      - url: "https://www.finextra.com/about/finextra-logo.png"
+        width: 512
+        height: 512
         isCached: true
+  - title: "Carro’s fintech arm launches financing plan for EVs, hybrid cars"
+    excerpt: "The GoGreen initiative allows private-hire vehicle drivers to enjoy lower interest rates as a reward for going green."
+    publishedDateTime: 2021-07-01T01:46:00Z
+    webUrl: "https://www.techinasia.com/carros-fintech-arm-launches-financing-plan-evs-hybrids"
+    type: article
+    provider:
+      name: Techinasia
+      domain: techinasia.com
+    quality: 34
+  - title: "How are Fintech Companies Changing Credit Scores?"
+    excerpt: "Financial advisers and gurus have always emphasized the importance of credit scores ⁠— and most people today have taken this advice to heart, trying to be more proactive in checking their credit scores."
+    publishedDateTime: 2021-07-02T14:08:00Z
+    webUrl: "https://fintechzoom.com/fintech_news_buzz/how-are-fintech-companies-changing-credit-scores/"
+    type: article
+    provider:
+      name: fintechzoom
+      domain: fintechzoom.com
+    quality: 24
+    images:
+      - url: "https://fintechzoom.com/wp-content/uploads/2021/07/credit-scores-not-equal-ultrafico-e1570739182454.jpg"
+        width: 1254
+        height: 617
+        isCached: true
+  - title: "How real-time data innovation is driving up customer experience in fintech"
+    excerpt: "By Geoff Clark, General Manager EMEA, Aerospike The attention span of individuals and organisations is reducing. Time is compressing. There are only brief windows that can be devoted to any given transaction."
+    publishedDateTime: 2021-07-01T23:44:00Z
+    webUrl: "https://www.globalbankingandfinance.com/how-real-time-data-innovation-is-driving-up-customer-experience-in-fintech/"
+    ampWebUrl: "https://www.globalbankingandfinance.com/how-real-time-data-innovation-is-driving-up-customer-experience-in-fintech/"
+    cdnAmpWebUrl: "https://www-globalbankingandfinance-com.cdn.ampproject.org/c/s/www.globalbankingandfinance.com/how-real-time-data-innovation-is-driving-up-customer-experience-in-fintech/"
+    type: article
+    provider:
+      name: List of Banks in Belarus
+      domain: globalbankingandfinance.com
+    quality: 22
+  - title: "LendIt Fintech USA Reunites the Fintech Community with its Return to a Physical Event in 2022"
+    excerpt: "LendIt Fintech, the leading event series dedicated to financial services innovation, today announced that its flagship event,"
+    publishedDateTime: 2021-07-02T15:00:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/21/07/n21828492/lendit-fintech-usa-reunites-the-fintech-community-with-its-return-to-a-physical-event-in-2022"
+    ampWebUrl: "https://www.benzinga.com/amp/content/21828492"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/21828492"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 13
+  - title: "3 fintech trends that are transforming the future of business"
+    excerpt: "Here are three emerging trends in fintech that businesses should be aware of in order to best protect themselves against the inherent risks of digitization of operations, products and services."
+    publishedDateTime: 2021-07-01T05:00:00Z
+    webUrl: "https://www.bizjournals.com/dallas/news/2021/07/01/3-fintech-trends-that-are-transforming-the-future.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 4
+  - title: "Advantage Club forays in Fintech Services, announces an early salary access feature"
+    excerpt: "Advantage Club, one of the leading Employee Engagement platforms in South East Asia, has made its foray into financial services with the launch of an early salary access feature that will let professionals and employees take a portion of their salaries before their payday to help them if they are caught short."
+    publishedDateTime: 2021-07-02T09:14:00Z
+    webUrl: "https://news.webindia123.com/news/articles/Business/20210702/3780641.html"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 0
 
 secured: "C4olMbY7ahkA9ZtcticQfgsJzOm9ALXk0YVXOJeESEiEG2i2AhKZYsjzYq5B4HTExNxQ7vLXnQTpu18ydqeC96xx1QJ36YVBGM9vSD0MsKxSr/Z/dZjMsgqhbAGBC/Nw09FFZjYc7HLhRdsE45WkSUtK73kET26iYzbLzTmTN/7DdI+otC9d9IKPsuzWDoTr0thf/hhNjx+WeBN7yoMBDbW6sSDG6Pwg9NptLanfc3UuPi04B/zr8Vo5VqRjAvnBFkcWtnks54vzxlJTe0TNFtiRPiBxUKhgKjv6jz1pYDiwfR8LtShvO0XTlxUVRlLDmHyX2r03vwz86jIG71sVL58LO80cgFHDTpxxXWC0juU=;JH+ffPZlfqxKEjZA478ZOQ=="
 ---

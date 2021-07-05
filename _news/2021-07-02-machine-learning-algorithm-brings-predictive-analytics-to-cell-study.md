@@ -7,7 +7,7 @@ originalUrl: "https://healthitanalytics.com/news/machine-learning-algorithm-brin
 webUrl: "https://healthitanalytics.com/news/machine-learning-algorithm-brings-predictive-analytics-to-cell-study"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,22 +25,54 @@ images:
     isCached: true
 
 related:
-  - title: "Machine learning algorithm predicts how genes are regulated in individual cells"
-    excerpt: "A team of scientists at the University of Illinois Chicago has developed a software tool that can help researchers more efficiently identify the regulators of genes. The system leverages a machine learning algorithm to predict which transcription factors are most likely to be active in individual cells."
-    publishedDateTime: 2021-06-30T19:54:00Z
-    webUrl: "https://phys.org/news/2021-06-machine-algorithm-genes-individual-cells.html"
-    ampWebUrl: "https://phys.org/news/2021-06-machine-algorithm-genes-individual-cells.amp"
-    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-06-machine-algorithm-genes-individual-cells.amp"
+  - title: "viisights to present educational session on innovative behavioural analytics at ISC West"
+    excerpt: "Inc., developer of behavioural recognition systems for real-time video intelligence, will be attending ISC West in Las Vegas, July 19-21, 2021, representing its innovative"
+    publishedDateTime: 2021-07-02T11:24:00Z
+    webUrl: "https://www.sourcesecurity.com/news/viisights-present-educational-session-innovative-behavioural-co-1565673901-ga.1625217154.html"
+    ampWebUrl: "https://www.sourcesecurity.com/amp/news/viisights-present-educational-session-innovative-behavioural-co-1565673901-ga.1625217154.html"
+    cdnAmpWebUrl: "https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/news/viisights-present-educational-session-innovative-behavioural-co-1565673901-ga.1625217154.html"
     type: article
     provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 55
+      name: SourceSecurity
+      domain: sourcesecurity.com
+    quality: 35
     images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2021/machine-learning-algor-2.jpg"
-        width: 979
-        height: 704
+      - url: "https://www.sourcesecurity.com/img/news/612/visights-person-monitoring-fire-detection-920x533.jpg"
+        width: 612
+        height: 355
         isCached: true
+  - title: "AI powered Video Analytics market to enjoy explosive growth to 2026 | Cisco, Verint, IBM"
+    excerpt: "The AI powered Video Analytics Market has witnessed continuous growth in the past few years and is projected to grow even further during the forecast period (2020-2026). The assessment provides a 360 view and insights,"
+    publishedDateTime: 2021-07-04T17:07:00Z
+    webUrl: "https://manometcurrent.com/ai-powered-video-analytics-market-to-enjoy-explosive-growth-to-2026-cisco-verint-ibm/"
+    type: article
+    provider:
+      name: manometcurrent.com
+      domain: manometcurrent.com
+    quality: 28
+    images:
+      - url: "https://manometcurrent.com/wp-content/uploads/2021/07/AI-powered-Video-Analytics-market.png"
+        width: 660
+        height: 400
+        isCached: true
+  - title: "Global Predictive Analytics And Machine Learning Market Size, Status and Forecast 2021-2027"
+    excerpt: "Pages Report] Check for Discount on Global Predictive Analytics And Machine Learning Market Size, Status and Forecast 2021-2027 report by QYResearch Group. Market Analysis and Insights: Global Predictive Analytics And Machine"
+    publishedDateTime: 2021-07-02T08:04:00Z
+    webUrl: "https://www.reportsnreports.com/reports/4631246-global-predictive-analytics-and-machine-learning-market-size-status-and-forecast-2021-2027.html"
+    type: article
+    provider:
+      name: ReportsnReports
+      domain: reportsnreports.com
+    quality: 9
+  - title: "Educational session on innovative behavioral analytics to be presented by viisights at ISC West"
+    excerpt: "The education session “Behavioral Recognition for Realtime Video Intelligence” will cover viisights advanced video analytics technology that is capable of understanding and recognizing an object’s behavior and interactions in a live video stream,"
+    publishedDateTime: 2021-07-01T15:06:00Z
+    webUrl: "https://www.securityinfowatch.com/isc-west/press-release/21228964/viisights-educational-session-on-innovative-behavioral-analytics-to-be-presented-by-viisights-at-isc-west"
+    type: article
+    provider:
+      name: Security
+      domain: securityinfowatch.com
+    quality: 0
 
 secured: "YABD3fIY4THFkUl06pnumWJSSMgxuyln5r5TblGYHABfKE+mtM8xnCQlIyWTEk25M3VGLpXwcZpmtgGRSvLZTI9eGudF+ygRdFtu6IUtcmmZria/NByc5X/3Jh9kvt+J0pDHGE1IS5xh6A2BUVF78+7H6+1zDVPP4SXtH+4j5uYEiXRwLC0hGQW4kWpQ1lPlsl0Ow2OcCyp1wgrM7exxcaImqqdIqYk+/D6DRq5iL8Bn3vNurLDqi6a4Xvzh/VqRpviKdl4NscdM+6WU5SunGJBj9D5hR35ggrpjj1hqhxnnhCXJznY4/L/ViO5+vfDyRfkeATqZbVGZR4Ci/iUFXeIhuIwO0UMXvbDdo7i5fHCM/1T8TJiPNobtMC96zhzsld3RClv7Yr7WXUyKf0pINZJ2yLpEC08KLEpRvrRZwwSlmxX8Ybbf8SmdkXqWL/THPkr4bToXkEq0qWVnn8AMWKoK4d6BRSHi1B+KLsCAXtks+OuD058BCcUs95dZiadAbVcTSLCxRYkKPMxgIP1+6A==;HTJCrLtxNgyq2kXdRZ7rqg=="
 ---

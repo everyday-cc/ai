@@ -32,29 +32,15 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence (AI) Market Share, Company Overview, Growth, Development and Forecast by 2025"
-    excerpt: "Market at:  Global Artificial Intelligence (AI) Market valued approximately USD 16 billion in 2016 is anticipated to grow with a healthy growth rate of more than 36% over the forecast period 2017-2025."
-    publishedDateTime: 2021-06-30T19:42:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-market-share-company-overview-growth-development-and-forecast-by-2025-2021-06-30"
+  - title: "Deep Learning Chipset Market Key Players Overview, Supply Chain and Analysis to 2026"
+    excerpt: "Selbyville, Delaware, Market Study Report, LLC, has recently added a report on ‘ Deep Learning Chipset market’"
+    publishedDateTime: 2021-07-01T19:54:00Z
+    webUrl: "https://www.marketwatch.com/press-release/deep-learning-chipset-market-key-players-overview-supply-chain-and-analysis-to-2026-2021-07-01"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 69
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Automotive Artificial Intelligence (AI) Market Analysis on Trends, Growth, Opportunities and Forecast 2025"
-    excerpt: "Selbyville, Delaware Market Study Report Has Added A New Report On Automotive Artificial Intelligence (AI) Market analysis mainly introduces the changing market dynamics in terms of covering all details inside analysis and opinion,"
-    publishedDateTime: 2021-06-30T19:43:00Z
-    webUrl: "https://www.marketwatch.com/press-release/automotive-artificial-intelligence-ai-market-analysis-on-trends-growth-opportunities-and-forecast-2025-2021-06-30"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 64
+    quality: 77
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

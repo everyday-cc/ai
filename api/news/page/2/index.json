@@ -2,6 +2,110 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-07-02-detect-manufacturing-defects-in-real-time-using-amazon-lookout-for-vision.md",
+      "title": "Detect manufacturing defects in real time using Amazon Lookout for Vision",
+      "excerpt": "In this post, we look at how we can automate the detection of anomalies in a manufactured product using Amazon Lookout for Vision. Using Amazon Lookout for Vision, you can notify operators in real time when defects are detected, provide dashboards for monitoring the workload, and get visual insights",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/detect-manufacturing-defects-in-real-time-using-amazon-lookout-for-vision/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/detect-manufacturing-defects-in-real-time-using-amazon-lookout-for-vision/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/06/29/1-2693-Architecture.jpg",
+          "width": 800,
+          "height": 556,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-02T10:28:26-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-02-3-reasons-qualcomms-new-snapdragon-chip-didnt-impress-investors.md",
+      "title": "3 Reasons Qualcomm's New Snapdragon Chip Didn't Impress Investors",
+      "excerpt": "Qualcomm (NASDAQ:QCOM) recently upgraded its most powerful mobile chipset, the Snapdragon 888, with a \"Plus\" version that increases its clock speed by 5% to nearly 3.0 GHz and boosts its AI processing power by about 20%.",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2021/07/02/3-reasons-qualcomms-new-snapdragon-chip-didnt-impr/",
+      "originalUrl": "https://www.fool.com/investing/2021/07/02/3-reasons-qualcomms-new-snapdragon-chip-didnt-impr/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F632495%2Fqrd_image_sd888_ai_small.jpg&w=1200&op=resize",
+          "width": 1200,
+          "height": 801,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.fool.com/amp/investing/2021/07/02/3-reasons-qualcomms-new-snapdragon-chip-didnt-impr/",
+      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/07/02/3-reasons-qualcomms-new-snapdragon-chip-didnt-impr/",
+      "publishedDateTime": "2021-07-02T09:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-02-its-good-to-talk-how-to-donate-your-voice-to-help-the-future-of-speech-recognition.md",
       "title": "It's Good to Talk: How to Donate Your Voice to Help the Future of Speech Recognition",
       "excerpt": "Voice-based technology is everywhere, but what if your digital assistant doesn't speak your language? The Mozilla Common Voice project wants to change that with a publicly available database of voices from around the globe.",
@@ -154,48 +258,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-02-observation-simulation-and-ai-join-forces-to-reveal-a-clear-universe.md",
-      "title": "Observation, simulation, and AI join forces to reveal a clear universe",
-      "excerpt": "Japanese astronomers have developed a new artificial intelligence (AI) technique to remove noise in astronomical data due to random variations in galaxy shapes. After extensive training and testing on large mock data created by supercomputer simulations,",
-      "sourceUrl": null,
-      "webUrl": "https://phys.org/news/2021-07-simulation-ai-reveal-universe.html",
-      "originalUrl": "https://phys.org/news/2021-07-simulation-ai-reveal-universe.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2021/observation-simulation.jpg",
-          "width": 2880,
-          "height": 2035,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://phys.org/news/2021-07-simulation-ai-reveal-universe.amp",
-      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-07-simulation-ai-reveal-universe.amp",
-      "publishedDateTime": "2021-07-02T07:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Phys.org",
-        "domain": "phys.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     },
@@ -449,7 +511,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chipsets-market-latest-industry-trends-industry-size-key-drivers-and-future-demand-forecast-2021-07-02",
       "featuredContent": null,
       "highlight": null,
-      "heat": 169,
+      "heat": 159,
       "tags": null,
       "images": [
         {
@@ -647,6 +709,58 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-02-maine-just-enacted-the-countrys-toughest-restrictions-on-facial-recognition.md",
+      "title": "Maine just enacted the country's toughest restrictions on facial recognition",
+      "excerpt": "A new state law limits police use of facial recognition technology, and prohibits the tech in most areas of government, including in public schools.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/news/maine-just-enacted-the-countrys-toughest-restrictions-on-facial-recognition/",
+      "originalUrl": "https://www.cnet.com/news/maine-just-enacted-the-countrys-toughest-restrictions-on-facial-recognition/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 241,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cnet.com/a/img/JSJk8OijM-5ytGsO6PCCqrCtyt8=/1200x630/2020/06/30/f91e01e4-1013-4fbf-af9c-f59f543d90cd/facial-recognition-face-id-passw.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/maine-just-enacted-the-countrys-toughest-restrictions-on-facial-recognition/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/maine-just-enacted-the-countrys-toughest-restrictions-on-facial-recognition/",
+      "publishedDateTime": "2021-07-01T10:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
         "AI"
       ]
     },
@@ -893,7 +1007,7 @@
       "originalUrl": "https://www.newsbytesapp.com/news/science/zoom-reveals-plans-to-acquire-machine-translation-startup/story",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -1131,83 +1245,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-01-ambarellas-amba-cvflow-vision-processor-to-power-arrivals-evs.md",
-      "title": "Ambarella's (AMBA) CVflow Vision Processor to Power Arrival's EVs",
-      "excerpt": "AMBA recently announced that its CV2FS CVflow AI vision processor has been adopted by global electric vehicle (EV) manufacturer — Arrival ARVL — to build the environmental perception module for its vehicles.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/ambarellas-amba-cvflow-vision-processor-to-power-arrivals-evs-2021-07-01",
-      "originalUrl": "https://www.nasdaq.com/articles/ambarellas-amba-cvflow-vision-processor-to-power-arrivals-evs-2021-07-01",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/ambarellas-amba-cvflow-vision-processor-to-power-arrivals-evs-2021-07-01?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/ambarellas-amba-cvflow-vision-processor-to-power-arrivals-evs-2021-07-01?amp",
-      "publishedDateTime": "2021-07-01T07:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-01-accel-robotics-claims-successful-deployment-in-san-diego.md",
-      "title": "Accel Robotics Claims Successful Deployment In San Diego",
-      "excerpt": "San Diego-based Accel Robotics, which develops automated checkout systems designed for retail stores, claims it is seeing growth and success at its first rollout of \"Valet Market\", an automated store its has deployed ata a luxury,",
-      "sourceUrl": null,
-      "webUrl": "https://www.socaltech.com/accel_robotics_claims_successful_deployment_in_san_diego/s-0081447.html",
-      "originalUrl": "https://www.socaltech.com/accel_robotics_claims_successful_deployment_in_san_diego/s-0081447.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.socaltech.com/images/story/valetmarket21b.jpg",
-          "width": 330,
-          "height": 220,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-01T07:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SocalTech",
-        "domain": "socaltech.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

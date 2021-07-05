@@ -3,12 +3,9 @@ category: news
 title: "AI Startup Cerebras Systems Makes Boyden First General Counsel"
 excerpt: "Artificial intelligence company Cerebras Systems has named former Broadcom Inc. lawyer Rebecca Boyden as its first vice president and general counsel."
 publishedDateTime: 2021-06-28T20:24:00Z
-originalUrl: "https://news.bloomberglaw.com/business-and-practice/ai-startup-cerebras-systems-makes-boyden-first-general-counsel"
-webUrl: "https://news.bloomberglaw.com/business-and-practice/ai-startup-cerebras-systems-makes-boyden-first-general-counsel"
+originalUrl: "https://news.bloomberglaw.com/us-law-week/ai-startup-cerebras-systems-makes-boyden-first-general-counsel"
+webUrl: "https://news.bloomberglaw.com/us-law-week/ai-startup-cerebras-systems-makes-boyden-first-general-counsel"
 type: article
-quality: 37
-heat: 37
-published: false
 
 provider:
   name: Bloomberg Law
@@ -23,22 +20,6 @@ images:
     height: 369
     isCached: true
 
-related:
-  - title: "As AI Legal Departments Staff Up, Former Broadcom Deputy GC Lands at Startup Cerebras"
-    excerpt: "Rebecca Boyden, former VP and deputy GC at Broadcom, has join Cerebras Systems. The AI and microchip pioneer is the latest to hire an in-house deputy as GC. Startups on the cutting edge of artificial intelligence are scooping up deputy-level in-house lawyers these days,"
-    publishedDateTime: 2021-06-28T21:48:00Z
-    webUrl: "https://www.law.com/corpcounsel/2021/06/28/as-ai-legal-departments-staff-up-former-broadcom-deputy-gc-lands-at-startup-cerebras/"
-    type: article
-    provider:
-      name: Law
-      domain: law.com
-    quality: 30
-    images:
-      - url: "https://images.law.com/contrib/content/uploads/sites/390/2021/06/Rebecca-Boyden-1.jpg"
-        width: 3196
-        height: 2638
-        isCached: true
-
-secured: "i/ip3e/EF+LfNN6Ce2VFZo7w1jB3/8v97Dcl1/lGb8v0MaSFNemMRN6ws9yw+OARDhwYB+6sKqXb+9SIvkayklesC8JK1prz9K1pDGmzMHe3u6i4lDSEtof0srNGTiIOlCSjmEQc54T/y05kzox8gwYeeGc7ztZWjQUf9ChXOZoxVfwehtpwM9ge/JrZprWVeYKNQsyf5lLETH/w2kslvtStE8WFVXsNkJEUbR+X2QX4QjLaNLX5B1+3Lw8I0+/mGTNZLWUezPv5QvUczSuTfG29O/2mnnwAhAYbWBD7tcDTa+rMATP3r3t5H5dojU4RXrOLoUTXVuTCivIlk8JWslmLDQ8K67VXbINMtsfun2SKBIC9FGQpWg4mWvHuREiBme9MH5EYRWatFo/WqTu/XZlNmUdpyas5gyxzf8WfWrjCZQhieFXFLbshTuF8uSrkrbM8HhwD8F4UsCGZY6nRyO5bGBlA91wUTA21cIXdrfWnr947ClXubZMyNSKbxWHfALixFf8b7kc4WmVdlg/nFQ==;KyK121MfUAyDMZRfu69i7g=="
+secured: "AQFgGqBby82Gn29tilerUlcdgFSh6ZkD3TGyo7pIcqvbPdhabOI+jTcNYAn1J1qbasmv3Wj9Vxkac6cBnQhbY5r1dEzL5edGcxOLwtD8QFE41VRIF/4uYshovnnETZgqa2u1lvl7T0NDhH0ECJgEGxFnl8njiYAIAkd8u89/x8kPwbChl7tIw05y5Hg0YGFoXIQFSqpLm1Ts9ZU0zfYAnoESUAs1AjH4PkvgIA/2DNWgIKiIkxAEw2BhH1HV41xg7mX5CEFQeX5Egj0LPTITroBGT9Gj907gISdChooLR4zSfIpLao2nZYrKd6PekRrSz0Hz17zKIQsUDWyNoJ2gDJuEIQGpgp1icn3U+pldQ+Q=;mIty61rDu00pKjKbIeVslw=="
 ---
 

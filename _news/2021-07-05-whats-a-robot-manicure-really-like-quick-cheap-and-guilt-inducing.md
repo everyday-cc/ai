@@ -1,12 +1,12 @@
 ---
 category: news
-title: "What's A Robot Manicure Really Like? Quick, Cheap, And Guilt-Inducing."
+title: "What's a robot manicure really like? Quick, cheap, and guilt-inducing."
 excerpt: "A robot gave me a manicure last week. Let me stop you before you envision a bipedal humanoid carefully dipping a brush into a bottle and lacquering my nails. Instead, the experience felt more like inserting my hand into a 3D printer."
-publishedDateTime: 2021-07-05T07:35:00Z
-originalUrl: "https://in.mashable.com/culture/23285/whats-a-robot-manicure-really-like-quick-cheap-and-guilt-inducing"
-webUrl: "https://in.mashable.com/culture/23285/whats-a-robot-manicure-really-like-quick-cheap-and-guilt-inducing"
-ampWebUrl: "https://in.mashable.com/culture/23285/whats-a-robot-manicure-really-like-quick-cheap-and-guilt-inducing?amp=1"
-cdnAmpWebUrl: "https://in-mashable-com.cdn.ampproject.org/c/s/in.mashable.com/culture/23285/whats-a-robot-manicure-really-like-quick-cheap-and-guilt-inducing?amp=1"
+publishedDateTime: 2021-07-05T11:52:00Z
+originalUrl: "https://sea.mashable.com/tech/16518/whats-a-robot-manicure-really-like-quick-cheap-and-guilt-inducing"
+webUrl: "https://sea.mashable.com/tech/16518/whats-a-robot-manicure-really-like-quick-cheap-and-guilt-inducing"
+ampWebUrl: "https://sea.mashable.com/tech/16518/whats-a-robot-manicure-really-like-quick-cheap-and-guilt-inducing?amp=1"
+cdnAmpWebUrl: "https://sea-mashable-com.cdn.ampproject.org/c/s/sea.mashable.com/tech/16518/whats-a-robot-manicure-really-like-quick-cheap-and-guilt-inducing?amp=1"
 type: article
 quality: 89
 heat: 99
@@ -21,7 +21,7 @@ topics:
   - AI
 
 images:
-  - url: "https://sm.mashable.com/t/mashable_in/article/w/whats-a-ro/whats-a-robot-manicure-really-like-quick-cheap-and-guilt-ind_fe3s.620.jpg"
+  - url: "https://sm.mashable.com/t/mashable_sea/article/w/whats-a-ro/whats-a-robot-manicure-really-like-quick-cheap-and-guilt-ind_hewc.620.jpg"
     width: 620
     height: 485
     isCached: true
@@ -42,6 +42,6 @@ related:
         height: 282
         isCached: true
 
-secured: "WxdF8psTEd2Ez0QoGCO/0dLNDRQmW92xq38RgIUduccbheNMDNXf0heWrR4q1gHA3POeLo2cC0C41lEVD5d5q9sIic8ls5HQEopYHv+gZu+HphvAHTJFbjYgUS6YR+y2cBJwfP3h+BIUyN0Q5YoqsSUBL+WhmjCmC7DRufpH+pC7jakAph5PJwb17+Z5ocHfERrhZ+ZHdzYiGH3jKEzRBZ5hfMWPjseih/3MUsHFdr5vUSfVYoONWSQ+slgDNPj6tzeBiFhuw9gUBFmOL9ri4tgUOxd//y+Xbas5iAlFeHmh7xc/Bh3FUkPGAFbUstjNHZdE2remGKCOxkOsfVPSkpJySYm+iSxhAqSHfOR0URQ=;3ogpPSeObjpyxpSk0WyS6w=="
+secured: "yqLkv7QPlhmsTq92hPiUxmE68qxVJwG33YqGLj80btEZcin49noJHslLdxCVCsIQO+BzFfxFaTWousZcy5z6VhRLpu8qazPzvjL+aGl8JkQ6oNkgmqWBwCzNpqnIBbOt9iKUR0b8UM2kdt61fBBSZO/+UQ4pC9g5wLNvXmOT2gJ8JTpx20vRjSJQM9/yPcGeEoz02MGetCgA7BQ1pFUfjkJ4qr8xFHLzhL3mTk0ypOX51Q4P/qHIQSRgkQrw9zIBqKDFIUNdLlOKIgb4hiePngTCvugOxHpsDo1tb/aHPLbrEgrgkbftVZxwRD9es3ZfeXmqwxUARPIMlRbJ9Q8+qgMg02MibXdTQPh19/oGW4U=;OQYkrL6v5WtjuxCqVBCgiw=="
 ---
 

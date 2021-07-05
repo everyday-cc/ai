@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-07-05-student-finance-fintech-raises-11m-in-funding.md",
+      "title": "Student finance fintech raises £1.1m in funding",
+      "excerpt": "StepEx has raised £1.1 million in pre-initial funding, with the venture studio BBVA Anthemis Venture Partnership being the lead investor.",
+      "sourceUrl": null,
+      "webUrl": "https://www.finextra.com/pressarticle/88425/student-finance-fintech-raises-11m-in-funding",
+      "originalUrl": "https://www.finextra.com/pressarticle/88425/student-finance-fintech-raises-11m-in-funding",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.finextra.com/about/finextra-logo.png",
+          "width": 512,
+          "height": 512,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-05T05:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Finextra",
+        "domain": "finextra.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-01-global-ai-in-fintech-market-size-share-to-expand-at-171-cagr-through-2025.md",
       "title": "Global AI in Fintech Market Size, Share to Expand At 17.1% CAGR Through 2025",
       "excerpt": "Selbyville, Delaware, The AI in Fintech market study now available with Market Study Report, LLC, is a collation",
@@ -1258,59 +1301,6 @@
       "topics": [
         "AI in Finance",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-16-datas-double-edges-how-to-use-machine-learning-to-solve-the-problem-of-unused-data-in-risk-management.md",
-      "title": "Data’s Double Edges: How To Use Machine Learning To Solve The Problem Of Unused Data In Risk Management",
-      "excerpt": "The world is awash in data, and data is there to be used — or not used — like at no other time. As a result, risk measurement systems today perform far better than the systems of even just three years ago.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/06/16/datas-double-edgeshow-to-use-machine-learning-to-solve-the-problem-of-unused-data-in-risk-management/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/06/16/datas-double-edgeshow-to-use-machine-learning-to-solve-the-problem-of-unused-data-in-risk-management/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ff75e7bb3a15a212c6d4736%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/06/16/datas-double-edgeshow-to-use-machine-learning-to-solve-the-problem-of-unused-data-in-risk-management/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/06/16/datas-double-edgeshow-to-use-machine-learning-to-solve-the-problem-of-unused-data-in-risk-management/amp/",
-      "publishedDateTime": "2021-06-16T04:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

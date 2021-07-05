@@ -2,6 +2,134 @@
   "page": 20,
   "value": [
     {
+      "path": "_news/2021-06-18-ferrari-amazons-aws-enter-agreement-on-data.md",
+      "title": "Ferrari, Amazon's AWS enter agreement on data",
+      "excerpt": "Ferrari RACE.MI and Amazon Web Services (AWS) have entered an agreement to make Amazon's AMZN.O cloud computing unit the luxury carmaker's cloud storage, machine learning, and artificial intelligence provider,",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/ferrari-amazons-aws-enter-agreement-on-data-2021-06-18",
+      "originalUrl": "https://www.nasdaq.com/articles/ferrari-amazons-aws-enter-agreement-on-data-2021-06-18",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/ferrari-amazons-aws-enter-agreement-on-data-2021-06-18?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/ferrari-amazons-aws-enter-agreement-on-data-2021-06-18?amp",
+      "publishedDateTime": "2021-06-18T03:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-18-chinese-ai-learns-to-beat-top-fighter-pilot-in-simulated-combat.md",
+      "title": "Chinese AI Learns To Beat Top Fighter Pilot In Simulated Combat",
+      "excerpt": "A Chinese AI system has defeated a top human pilot in simulated dogfight, according to Chinese media. This echoes DARPA's AphaDogfight result last year in which a machine also won, and signals how rapidly Chinese AI is maturing.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/davidhambling/2021/06/18/chinese-ai-learns-to-beat-top-fighter-pilot-in-simulated-combat/",
+      "originalUrl": "https://www.forbes.com/sites/davidhambling/2021/06/18/chinese-ai-learns-to-beat-top-fighter-pilot-in-simulated-combat/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60cc6e5548b6eb44420ee50c%2F0x0.jpg",
+          "width": 959,
+          "height": 499,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/davidhambling/2021/06/18/chinese-ai-learns-to-beat-top-fighter-pilot-in-simulated-combat/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidhambling/2021/06/18/chinese-ai-learns-to-beat-top-fighter-pilot-in-simulated-combat/amp/",
+      "publishedDateTime": "2021-06-18T03:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-18-indian-fintech-firm-razorpay-co-leads-1m-round-of-msme-edtech-startup.md",
+      "title": "Indian fintech firm Razorpay co-leads $1m round of MSME edtech startup",
+      "excerpt": "MSMEx, an India-based edtech startup for micro, small and medium-sized enterprises, has raised US$1 million in its pre-series A financing round led by fintech firm Razorpay and investment firm TNF Investments.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techinasia.com/indian-fintech-firm-razorpay-coleads-1m-msme-edtech-startup?_escaped_fragment_=",
+      "originalUrl": "https://www.techinasia.com/indian-fintech-firm-razorpay-coleads-1m-msme-edtech-startup?_escaped_fragment_=",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-18T03:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Techinasia",
+        "domain": "techinasia.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techinasia.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-18-baidu-to-build-autonomous-taxis-with-baic-group-in-china.md",
       "title": "Baidu To Build Autonomous Taxis With BAIC Group In China",
       "excerpt": "Baidu has joined forces with Chinese automaker BAIC Group to build 1,000 driverless taxis over the coming three years that will be deployed across the nation’s streets. The vehicles will be operated through Baidu’s Apollo program and will be manufactured under BAIC’s Arcfox electric vehicle brand.",
@@ -996,153 +1124,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-17-veritone-bags-14th-us-patent-for-dynamic-ai-model-orchestration.md",
-      "title": "Veritone Bags 14th US Patent For Dynamic AI Model Orchestration",
-      "excerpt": "Artificial intelligence (A.I.) operating system, aiWARE creator Veritone Inc (NASDAQ:VERI) won a new U.S. patent for its Conductor technology that performs dynamic A.I. model orch",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/veritone-bags-14th-us-patent-for-dynamic-ai-model-orchestration-1030533252",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/veritone-bags-14th-us-patent-for-dynamic-ai-model-orchestration-1030533252",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.benzinga.com/files/imagecache/1024x768xUP/images/story/2012/abtech_707.png",
-          "width": 1024,
-          "height": 768,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-17T09:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-17-build-xgboost-models-with-amazon-redshift-ml.md",
-      "title": "Build XGBoost models with Amazon Redshift ML",
-      "excerpt": "Amazon Redshift ML allows data analysts, developers, and data scientists to train machine learning (ML) models using SQL. In previous posts, we demonstrated how customers can use the automatic model training capability of Amazon Redshift to train their classification and regression models. Redshift ML",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/build-xgboost-models-with-amazon-redshift-ml/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/build-xgboost-models-with-amazon-redshift-ml/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png",
-          "width": 768,
-          "height": 385,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-17T09:34:24-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-06-17-baidus-low-cost-robotaxi-apollo-moon-launches-what-you-need-to-know.md",
-      "title": "Baidu's Low-Cost Robotaxi Apollo Moon Launches: What You Need To Know",
-      "excerpt": "Chinese search engine Baidu, Inc.'s (NASDAQ: BIDU) Apollo self-driving unit has launched a new low-cost robotaxi. What Happened: Baidu, in partnership with BAIC Group's electric vehicle brand ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/news/21/06/21601949/baidus-low-cost-robotaxi-apollo-moon-launches-what-you-need-to-know",
-      "originalUrl": "https://www.benzinga.com/news/21/06/21601949/baidus-low-cost-robotaxi-apollo-moon-launches-what-you-need-to-know",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/files/images/story/2012/e-hs3_b31ecce.jpg",
-          "width": 3021,
-          "height": 1320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/21601949",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/21601949",
-      "publishedDateTime": "2021-06-17T09:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

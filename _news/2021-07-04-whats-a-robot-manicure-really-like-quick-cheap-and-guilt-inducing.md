@@ -25,19 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "What's A Robot Manicure Really Like? Quick, Cheap, And Guilt-Inducing."
+  - title: "What's a robot manicure really like? Quick, cheap, and guilt-inducing."
     excerpt: "A robot gave me a manicure last week. Let me stop you before you envision a bipedal humanoid carefully dipping a brush into a bottle and lacquering my nails. Instead, the experience felt more like inserting my hand into a 3D printer."
-    publishedDateTime: 2021-07-05T07:35:00Z
-    webUrl: "https://in.mashable.com/culture/23285/whats-a-robot-manicure-really-like-quick-cheap-and-guilt-inducing"
-    ampWebUrl: "https://in.mashable.com/culture/23285/whats-a-robot-manicure-really-like-quick-cheap-and-guilt-inducing?amp=1"
-    cdnAmpWebUrl: "https://in-mashable-com.cdn.ampproject.org/c/s/in.mashable.com/culture/23285/whats-a-robot-manicure-really-like-quick-cheap-and-guilt-inducing?amp=1"
+    publishedDateTime: 2021-07-05T11:52:00Z
+    webUrl: "https://sea.mashable.com/tech/16518/whats-a-robot-manicure-really-like-quick-cheap-and-guilt-inducing"
+    ampWebUrl: "https://sea.mashable.com/tech/16518/whats-a-robot-manicure-really-like-quick-cheap-and-guilt-inducing?amp=1"
+    cdnAmpWebUrl: "https://sea-mashable-com.cdn.ampproject.org/c/s/sea.mashable.com/tech/16518/whats-a-robot-manicure-really-like-quick-cheap-and-guilt-inducing?amp=1"
     type: article
     provider:
       name: Mashable
       domain: mashable.com
     quality: 89
     images:
-      - url: "https://sm.mashable.com/t/mashable_in/article/w/whats-a-ro/whats-a-robot-manicure-really-like-quick-cheap-and-guilt-ind_fe3s.620.jpg"
+      - url: "https://sm.mashable.com/t/mashable_sea/article/w/whats-a-ro/whats-a-robot-manicure-really-like-quick-cheap-and-guilt-ind_hewc.620.jpg"
         width: 620
         height: 485
         isCached: true

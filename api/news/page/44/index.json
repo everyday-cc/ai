@@ -2,6 +2,136 @@
   "page": 44,
   "value": [
     {
+      "path": "_news/2021-06-02-alphabet-inc-goog-presents-at-deutsche-bank-global-financial-services-conference-transcript.md",
+      "title": "Alphabet Inc. (GOOG) Presents at Deutsche Bank Global Financial Services Conference (Transcript)",
+      "excerpt": "And we have also been testing Google's AI and machine learning capabilities ... this reflects my core belief that the future of financial services will not be based on let's say integrated ...",
+      "sourceUrl": null,
+      "webUrl": "https://seekingalpha.com/article/4432460-alphabet-inc-goog-presents-deutsche-bank-global-financial-services-conference-transcript",
+      "originalUrl": "https://seekingalpha.com/article/4432460-alphabet-inc-goog-presents-deutsche-bank-global-financial-services-conference-transcript",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
+          "width": 1200,
+          "height": 1200,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://seekingalpha.com/amp/article/4432460-alphabet-inc-goog-presents-deutsche-bank-global-financial-services-conference-transcript",
+      "cdnAmpWebUrl": "https://seekingalpha-com.cdn.ampproject.org/c/s/seekingalpha.com/amp/article/4432460-alphabet-inc-goog-presents-deutsche-bank-global-financial-services-conference-transcript",
+      "publishedDateTime": "2021-06-01T12:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Seeking Alpha",
+        "domain": "seekingalpha.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-02-can-artificial-intelligence-machine-learning-enable-robot-empathy.md",
+      "title": "Can Artificial Intelligence Machine Learning Enable Robot Empathy?",
+      "excerpt": "Artificial intelligence (AI) machine learning is fueling the current commercial boom in automation, and robots are becoming increasingly more sophisticated. In a step forward in endowing robots with human-like behavior,",
+      "sourceUrl": null,
+      "webUrl": "https://www.bbntimes.com/technology/can-artificial-intelligence-machine-learning-enable-robot-empathy",
+      "originalUrl": "https://www.bbntimes.com/technology/can-artificial-intelligence-machine-learning-enable-robot-empathy",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.bbntimes.com/images/articles/society/Robot_Empathy.jpg",
+          "width": 1356,
+          "height": 668,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-01T12:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "bbntimes",
+        "domain": "bbntimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-06-02-researchers-discover-gene-linked-to-bone-cancer-in-children-id-potential-novel-therapy.md",
+      "title": "Researchers discover gene linked to bone cancer in children, ID potential novel therapy",
+      "excerpt": "Researchers have discovered a gene, OTUD7A, that impacts the development of Ewing sarcoma, a bone cancer that occurs",
+      "sourceUrl": null,
+      "webUrl": "https://www.miragenews.com/researchers-discover-gene-linked-to-bone-cancer-569768/",
+      "originalUrl": "https://www.miragenews.com/researchers-discover-gene-linked-to-bone-cancer-569768/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.baylor.edu/content/imglib/3/7/7/0/377022_640.png",
+          "width": 640,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-01T11:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Armed robbery in Revesby",
+        "domain": "miragenews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-02-can-finance-companies-trust-ai-interview-with-sravan-kasarla-cdo-thrivent.md",
       "title": "Can Finance Companies Trust AI? Interview With Sravan Kasarla, CDO, Thrivent",
       "excerpt": "Understanding business success is not simply about transactions or policies, but about establishing and strengthening long term relationships with the customers. Can finance companies trust AI to help manage customer relationships and enhance trust?",
@@ -1032,143 +1162,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-01-instacart-bets-on-robots-to-shrink-ranks-of-500000-gig-shoppers.md",
-      "title": "Instacart Bets on Robots to Shrink Ranks of 500,000 Gig Shoppers",
-      "excerpt": "Automating much of its operations could help the company lower prices and appeal to a mass market. But Instacart needs industry buy-in.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/news/articles/2021-06-01/instacart-looks-to-use-robots-over-people-to-do-grocery-shopping",
-      "originalUrl": "https://www.msn.com/en-us/finance/companies/instacart-bets-on-robots-to-shrink-ranks-of-500000-gig-shoppers/ar-AAKADHK",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 122,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ioYyq3DJqM_k/v1/1200x800.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-01T02:00:23-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "bloomberg.com/news/articles/2021-06-01/instacart-looks-to-use-robots-over-people-to-do-grocery-shopping",
-        "domain": "bloomberg.com/news/articles/2021-06-01/instacart-looks-to-use-robots-over-people-to-do-grocery-shopping",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-01-want-your-nails-done-let-a-robot-do-it.md",
-      "title": "Want Your Nails Done? Let a Robot Do It.",
-      "excerpt": "Start-ups are using technology to take a robotic approach to manicures, offering a simple way to provide foolproof nail polish.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2021/06/01/technology/robot-manicure-nails.html",
-      "originalUrl": "https://www.nytimes.com/2021/06/01/technology/robot-manicure-nails.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2021/06/01/multimedia/01sp-currents-nails/01sp-currents-nails-facebookJumbo.gif",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2021/06/01/technology/robot-manicure-nails.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/06/01/technology/robot-manicure-nails.amp.html",
-      "publishedDateTime": "2021-06-01T02:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-01-eu-privacy-debate-rages-regarding-facial-recognition-firm-clearview-ai.md",
-      "title": "EU privacy debate rages regarding facial recognition firm Clearview AI",
-      "excerpt": "European regulators are concerned over the practices of Clearview AI, whose facial recognition database uses images \"scraped\" from the web.",
-      "sourceUrl": null,
-      "webUrl": "https://techhq.com/2021/06/eu-privacy-debate-rages-regarding-facial-recognition-firm-clearview-ai/",
-      "originalUrl": "https://techhq.com/2021/06/eu-privacy-debate-rages-regarding-facial-recognition-firm-clearview-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn2.techhq.com/wp-content/uploads/2021/06/063_1198303844-1.jpg",
-          "width": 1024,
-          "height": 710,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-01T00:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechHQ",
-        "domain": "techhq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

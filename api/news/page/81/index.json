@@ -2,6 +2,144 @@
   "page": 81,
   "value": [
     {
+      "path": "_news/2021-05-06-understanding-self-supervised-learning-in-machine-learning.md",
+      "title": "Understanding Self-Supervised Learning in Machine Learning",
+      "excerpt": "Teaching machines how to learn is the basis of self-supervised learning. Source: iStock/Design Circle Self-supervised learning (SSL) is gaining a larger foothold in the world of machine learning (ML).",
+      "sourceUrl": null,
+      "webUrl": "https://www.techopedia.com/understanding-self-supervised-learning-in-machine-learning/2/34480",
+      "originalUrl": "https://www.techopedia.com/understanding-self-supervised-learning-in-machine-learning/2/34480",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "http://images.techopedia.com/images/uploads/self-supervised-learning.jpg",
+          "width": 800,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-05T17:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Techopedia",
+        "domain": "techopedia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-06-apple-in-talks-to-buy-self-driving-sensors-key-step-in-car-plan.md",
+      "title": "Apple in talks to buy self-driving sensors, key step in car plan",
+      "excerpt": "The company has been working on a driverless vehicle project for several years and has developed on its own most of the necessary software, underlying processors and artificial intelligence ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.thestar.com.my/tech/tech-news/2021/02/20/apple-in-talks-to-buy-self-driving-sensors-key-step-in-car-plan",
+      "originalUrl": "https://www.thestar.com.my/tech/tech-news/2021/02/20/apple-in-talks-to-buy-self-driving-sensors-key-step-in-car-plan",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apicms.thestar.com.my/uploads/images/2021/02/20/1050918.jpg",
+          "width": 1240,
+          "height": 827,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-05T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Star",
+        "domain": "thestar.com.my",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-06-game-theory-as-an-engine-for-large-scale-data-analysis.md",
+      "title": "Game theory as an engine for large-scale data analysis",
+      "excerpt": "Our research explored a new approach to an old problem: we reformulated principal component analysis (PCA), a type of eigenvalue problem, as a competitive multi-agent game we call EigenGame.",
+      "sourceUrl": null,
+      "webUrl": "https://deepmind.com/blog/article/EigenGame",
+      "originalUrl": "https://deepmind.com/blog/article/EigenGame",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://lh3.googleusercontent.com/x0n-XgP9SXm7u8sX8nGUdYiTOed0uC72J5kxxVkKzmfAtiA6xyI54lZqXlGPAS-jAmW92ayKxJ57NGCyzUOJrm0ErYN0KRolrwe_AlbKSIXkrTXVtg",
+          "width": 512,
+          "height": 288,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-05T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "DeepMind",
+        "domain": "deepmind.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/deepmind.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-06-law-and-the-cognitive-sciences.md",
       "title": "Law and the Cognitive Sciences",
       "excerpt": "This series publishes book monographs exploring connections between law and the cognitive sciences. The books will be of interest to academics, students, and practitioners, and in particular to the scholars in the fields of legal theory, philosophy of law ...",
@@ -1043,153 +1181,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-05-machine-learning-and-mandalas-inside-suchi-reddys-latest-artwork.md",
-      "title": "Machine Learning and Mandalas: Inside Suchi Reddy’s Latest Artwork",
-      "excerpt": "For the Smithsonian’s 175th anniversary exhibition, the architect and artist is assembling a 20-foot-high interactive sculpture—take an exclusive first look.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/machine-learning-and-mandalas-inside-suchi-reddys-latest-artwork-11620234018",
-      "originalUrl": "https://www.wsj.com/articles/machine-learning-and-mandalas-inside-suchi-reddys-latest-artwork-11620234018",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-332261/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/machine-learning-and-mandalas-inside-suchi-reddys-latest-artwork-11620234018",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/machine-learning-and-mandalas-inside-suchi-reddys-latest-artwork-11620234018",
-      "publishedDateTime": "2021-05-05T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-05-3-top-artificial-intelligence-stocks-to-buy-in-may.md",
-      "title": "3 Top Artificial Intelligence Stocks to Buy in May",
-      "excerpt": "Artificial intelligence (AI) is in everything from voice-enabled smart speakers to smartwatches to computers, and even our cars. But while AI has gone mainstream, not all artificial intelligence companies are benefiting equally.",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2021/05/05/3-top-artificial-intelligence-stocks-to-buy-in-may/",
-      "originalUrl": "https://www.fool.com/investing/2021/05/05/3-top-artificial-intelligence-stocks-to-buy-in-may/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F624507%2Fgettyimages-1137942695.jpg&w=1200&op=resize",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.fool.com/amp/investing/2021/05/05/3-top-artificial-intelligence-stocks-to-buy-in-may/",
-      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/05/05/3-top-artificial-intelligence-stocks-to-buy-in-may/",
-      "publishedDateTime": "2021-05-05T08:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-05-artificial-intelligence-and-customer-experience.md",
-      "title": "Artificial Intelligence and Customer Experience.",
-      "excerpt": "How to improve the customer experience on each digital touchpoint thanks to intelligent and empathic technologies? Neosperience – together with AWS – participated in the Artificial Intelligence and Customer Experience event: improving the customer experience on each digital touchpoint thanks to intelligent and empathic technologies.",
-      "sourceUrl": null,
-      "webUrl": "https://www.neosperience.com/webinars/artificial-intelligence-and-customer-experience-empathy-is-the-key/",
-      "originalUrl": "https://www.neosperience.com/webinars/artificial-intelligence-and-customer-experience-empathy-is-the-key/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s3.eu-south-1.amazonaws.com/neosperience.com-media/wp-content/uploads/2020/11/02183410/tim-mossholder-bo3SHP58C3g-unsplash.jpg",
-          "width": 1920,
-          "height": 1280,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-05T08:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Customer",
-        "domain": "neosperience.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     }

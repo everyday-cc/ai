@@ -2,6 +2,136 @@
   "page": 36,
   "value": [
     {
+      "path": "_news/2021-06-08-databricks-unites-data-and-machine-learning-teams-with-launch-of-databricks-machine-learning.md",
+      "title": "Databricks Unites Data and Machine Learning Teams with Launch of Databricks Machine Learning",
+      "excerpt": "Databricks Machine Learning also includes two new capabilities: Databricks AutoML to augment the machine learning process by automating all of the tedious steps that data scientists today have to ...",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/databricks-unites-data-and-machine-learning-teams-with-launch-of-databricks-machine-learning-1030472355",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/databricks-unites-data-and-machine-learning-teams-with-launch-of-databricks-machine-learning-1030472355",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-07T10:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-08-campfire-interactive-to-unlock-profit-potential-on-amazon-web-services.md",
+      "title": "Campfire Interactive to Unlock Profit Potential on Amazon Web Services",
+      "excerpt": "Campfire and AWS announce strategic relationship, providing auto suppliers end-to-end solution to manage their forecast, quoting and profitability.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesswire.com/news/home/20210607005149/en/Campfire-Interactive-to-Unlock-Profit-Potential-on-Amazon-Web-Services",
+      "originalUrl": "https://www.businesswire.com/news/home/20210607005149/en/Campfire-Interactive-to-Unlock-Profit-Potential-on-Amazon-Web-Services",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-07T10:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-07-amd-vs-nvidia-whats-the-best-add-in-gpu-for-you.md",
+      "title": "AMD vs Nvidia - what's the best add-in GPU for you?",
+      "excerpt": "There is also the Nvidia Titan RTX, which is the most powerful GPU in this series. However, this is better suited for deep learning and AI applications for researchers, developers, and creators rather than your average consumer. See also: Snapdragon SoC ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.androidauthority.com/amd-vs-nvidia-gpu-guide-963426/",
+      "originalUrl": "https://www.androidauthority.com/amd-vs-nvidia-gpu-guide-963426/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn57.androidauthority.net/wp-content/uploads/2019/03/Ray-tracing-eyeball.jpg",
+          "width": 1000,
+          "height": 562,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.androidauthority.com/amd-vs-nvidia-gpu-guide-963426/",
+      "cdnAmpWebUrl": "https://www-androidauthority-com.cdn.ampproject.org/c/s/www.androidauthority.com/amd-vs-nvidia-gpu-guide-963426/",
+      "publishedDateTime": "2021-06-07T08:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Android Authority",
+        "domain": "androidauthority.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/androidauthority.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-07-visionet-launches-docvuai-intelligent-document-processing-platform-for-mortgages-and-beyond.md",
       "title": "Visionet launches DocVu.AI - Intelligent Document Processing Platform for Mortgages and Beyond",
       "excerpt": "Visionet Systems, Inc., a leading provider of digital solutions to the Banking and Financial Services industry, announced today the launch of DocVu.AI – an AI-driven Intelligent Document Processing (IDP) platform.",
@@ -1008,154 +1138,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-07-tensorflow-tutorial-uses-python.md",
-      "title": "Tensorflow Tutorial Uses Python",
-      "excerpt": "There’s been a lot of renewed interest in the topic recently because of the success of TensorFlow. If you are adept at Python and remember your high school algebra, you might enjoy [Oliver ...",
-      "sourceUrl": null,
-      "webUrl": "https://hackaday.com/2017/11/25/tensorflow-tutorial-uses-python/",
-      "originalUrl": "https://hackaday.com/2017/11/25/tensorflow-tutorial-uses-python/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://hackaday.com/wp-content/uploads/2021/05/x86-sbc-thumbnail.jpg?w=600&#038;h=600",
-          "width": 600,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-06T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hackaday",
-        "domain": "hackaday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "TensorFlow"
-      ]
-    },
-    {
-      "path": "_news/2021-06-07-2-leading-tech-stocks-to-buy-in-2021.md",
-      "title": "2 Leading Tech Stocks to Buy in 2021",
-      "excerpt": "Trevor primarily covers tech and financials, with a particular interest in artificial intelligence, blockchain, and other innovative technologies. He grew up in Ohio and later moved to the Pacific coast.",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2021/06/06/2-leading-tech-stocks-to-buy-in-2021/",
-      "originalUrl": "https://www.fool.com/investing/2021/06/06/2-leading-tech-stocks-to-buy-in-2021/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F629373%2Fgrowth-3.jpg&w=1200&op=resize",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.fool.com/amp/investing/2021/06/06/2-leading-tech-stocks-to-buy-in-2021/",
-      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/06/06/2-leading-tech-stocks-to-buy-in-2021/",
-      "publishedDateTime": "2021-06-06T10:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-06-artificial-intelligence-for-edge-devices-market-pdf-to-witness-significant-growth-by-2021-2027.md",
-      "title": "Artificial Intelligence for Edge Devices Market [ PDF ] To Witness Significant Growth By 2021-2027",
-      "excerpt": "New Analysis Of Artificial Intelligence for Edge Devices Market overview, spend analysis, imports, segmentation,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-for-edge-devices-market-pdf-to-witness-significant-growth-by-2021-2027-2021-06-06",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-for-edge-devices-market-pdf-to-witness-significant-growth-by-2021-2027-2021-06-06",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-06T06:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

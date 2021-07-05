@@ -57,20 +57,6 @@ related:
         width: 600
         height: 338
         isCached: true
-  - title: "Zoom buys AI company that worked on real-time translation"
-    excerpt: "Proprietary video teleconferencing platform recently announced that it acquiring a company known as Kites short for Karlsruhe Information Technology Solution"
-    publishedDateTime: 2021-06-30T19:13:00Z
-    webUrl: "https://www.bignewsnetwork.com/news/270118590/zoom-buys-ai-company-that-worked-on-real-time-translation"
-    type: article
-    provider:
-      name: Big News Network.com
-      domain: bignewsnetwork.com
-    quality: 39
-    images:
-      - url: "https://cdn.bignewsnetwork.com/ani1625077312.jpg"
-        width: 630
-        height: 420
-        isCached: true
   - title: "AI-powered Recruiting Startup TopFunnel Announces Acquisition of Referral-Based Company Teamable to Offer End-to-End Sourcing Platform"
     excerpt: "TopFunnel, the AI-powered recruiting startup that high-growth companies use to scale, today announced the acquisition of Teamable to supercharge referral-based recruiting. Teamable is the employee referral platform that transforms social networks into high-performance talent pools."
     publishedDateTime: 2021-07-01T07:31:00Z
