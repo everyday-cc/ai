@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/global-ai-in-fintech-mar
 webUrl: "https://www.marketwatch.com/press-release/global-ai-in-fintech-market-size-share-to-expand-at-171-cagr-through-2025-2021-07-01"
 type: article
 quality: 66
-heat: 146
+heat: 136
 published: true
 
 provider:
@@ -111,15 +111,6 @@ related:
       name: ReportsnReports
       domain: reportsnreports.com
     quality: 7
-  - title: "Global Artificial Intelligence in the Medical Imaging Market Size, Status and Forecast 2021-2027"
-    excerpt: "Pages Report] Check for Discount on Global Artificial Intelligence in the Medical Imaging Market Size, Status and Forecast 2021-2027 report by QYResearch Group. Doctors have been using medical imaging techniques to diagnose"
-    publishedDateTime: 2021-06-30T07:47:00Z
-    webUrl: "https://www.reportsnreports.com/reports/4624721-global-artificial-intelligence-in-the-medical-imaging-market-size-status-and-forecast-2021-2027.html"
-    type: article
-    provider:
-      name: ReportsnReports
-      domain: reportsnreports.com
-    quality: 4
 
 secured: "Ac+DC4eMdW6jlS84AqIDO1+NfDLEnWy0VFzfjwTvZEaQzLiFXbxJ8ukfNmzCjOJrgEOFNWVXVxboqy7M6HAbwJNp4aF+xUdzRriOODNJ1Ppv0f1i6HM/PSeh/JRMlcFS+Kmmh2twDFXFFKk1qrhmoOAT0CqFOO6HQvajCTmQXbrLTUk1DQxjZ8RiJfXw83mRFSjZtEnIZuXvPIUH6Nda4wAaCjdCMp6yNg81v6OHhAZCWy3AlhmEm658HWjEvwMXOvyyRx/QBRf9SyZ6E6zcu7y438uxwALjokcRL+h0C39RGOTZJ849wZtT5tyjsPVBkWggDdox4ZuB/g5m3NYx0EDh+wZy5/kEd4K+E7ieGYg=;JjvhmtRhgjSs9YE5RyNWYg=="
 ---

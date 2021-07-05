@@ -311,15 +311,6 @@ related:
         width: 1920
         height: 1280
         isCached: true
-  - title: "Global Facial Recognition Technology in the Financial Services Market Size, Status and Forecast 2021-2027"
-    excerpt: "Pages Report] Check for Discount on Global Facial Recognition Technology in the Financial Services Market Size, Status and Forecast 2021-2027 report by QYResearch Group. The use of AI has grown exponentially in recent years,"
-    publishedDateTime: 2021-06-30T07:43:00Z
-    webUrl: "https://www.reportsnreports.com/reports/4624723-global-facial-recognition-technology-in-the-financial-services-market-size-status-and-forecast-2021-2027.html"
-    type: article
-    provider:
-      name: ReportsnReports
-      domain: reportsnreports.com
-    quality: 2
 
 secured: "C733ZSBiplTEGebnNYUfbr3D310oADWnKb19RuBpcDgmasMnd+yUp8hsPYT84m7L4d+6aFNpiz7ISdfaylexIIVgeWr6INNGXL7r9c0yjWzrQF5Wes+0/tDZtCNm6YmMjnl2A80GFL3lbsIpnSVXfFwJ+zoCPDyDtZmLRZdVKuhFsZXTo1i8TRqP7XhUIzzhdTEh0dA3HcMCmpN2ZflAUn8MoC1ulG6cDLd3PfF3ONjmGh7uzdcZ2K2ux8O+tp42UuLym0lSQtEJeqiVyp3e8P7ZSrdPWZb42KEztG2jn+DXUjDynJV5pKl+JQNynn6JzWbNBHa5LhaipHcrPiDFo4o/G7Zfrc19/d5ZIB1JIFKYxp3K3DIkse+ezwotdHrlwDMTIJ1cWWHPZ0QaMQdygBVojNrlZVIRqkkq6St8rooOrb6BTZVovy043WYZacFETiy/RDT346eRh5KWM77H2oh20rAkHso2ckrI+pMRfFOzHnhkvcTWm/oLPP/HO0BrRpuAcwFUEHFpZTJd5l1Cfg==;v1UxpsFTO6onD2apx/iLfQ=="
 ---

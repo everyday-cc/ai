@@ -10,7 +10,7 @@
       "originalUrl": "https://www.scmp.com/week-asia/opinion/article/3139480/will-ai-dynamic-pricing-lead-hong-kongs-shoppers-virtual-insanity",
       "featuredContent": null,
       "highlight": null,
-      "heat": 95,
+      "heat": 96,
       "tags": null,
       "images": [
         {
@@ -1014,15 +1014,15 @@
       ]
     },
     {
-      "path": "_news/2021-07-02-a-new-frontier-of-ai-enabled-gadgets.md",
-      "title": "A New Frontier of AI-Enabled Gadgets",
-      "excerpt": "Researchers are working on a wave of sophisticated devices for the home, from toilets that screen for viruses to robots that find missing keys.",
+      "path": "_news/2021-07-02-a-robot-that-finds-your-lost-stuff-and-more-ai-enabled-gadgets-to-come.md",
+      "title": "A Robot That Finds Your Lost Stuff and More AI-Enabled Gadgets to Come",
+      "excerpt": "Researchers are working on a wave of sophisticated devices for the home, from toilets that screen for viruses to a ‘Roomba on steroids’ that might detect your TV remote in the couch.",
       "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/a-new-frontier-of-ai-enabled-gadgets-11625241706",
-      "originalUrl": "https://www.wsj.com/articles/a-new-frontier-of-ai-enabled-gadgets-11625241706",
+      "webUrl": "https://www.wsj.com/articles/a-new-frontier-of-ai-enabled-gadgets-11625241706?mod=latest_headlines",
+      "originalUrl": "https://www.wsj.com/articles/a-new-frontier-of-ai-enabled-gadgets-11625241706?mod=latest_headlines",
       "featuredContent": null,
       "highlight": null,
-      "heat": 91,
+      "heat": 114,
       "tags": null,
       "images": [
         {
@@ -1062,7 +1062,6 @@
       ],
       "topics": [
         "AI",
-        "AI Hardware",
         "AI in Robotics"
       ]
     },

@@ -18,56 +18,15 @@ topics:
   - AI
 
 related:
-  - title: "Driverless Car Software Market 2021 Is Booming Across the Globe by Share, Size, Growth, Segments and Forecast to 2027"
-    excerpt: "Jun 30, 2021 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry\" “Driverless Car Software Market”"
-    publishedDateTime: 2021-06-30T08:17:00Z
-    webUrl: "https://www.marketwatch.com/press-release/driverless-car-software-market-2021-is-booming-across-the-globe-by-share-size-growth-segments-and-forecast-to-2027-2021-06-30"
+  - title: "Global Artificial Intelligence (AI) Partnering Terms and Agreements 2010 to 2021: Over 440 Deal Records"
+    excerpt: "Partnering Terms and Agreements 2010 to 2021\" report has been added to ResearchAndMarkets.com's offering. The Global Artificial Intelligence (AI) Partnering Terms and Agreements 2010 to 2021 report provides an understanding and access to the artificial intelligence partnering deals and agreements entered into by the worlds leading healthcare companies."
+    publishedDateTime: 2021-06-30T11:45:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/global-artificial-intelligence-ai-partnering-terms-and-agreements-2010-to-2021-over-440-deal-records-301323026.html"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 46
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Global Natural Language Processing in BFSI Market Size, Status and Forecast 2021-2027"
-    excerpt: "Pages Report] Check for Discount on Global Natural Language Processing in BFSI Market Size, Status and Forecast 2021-2027 report by QYResearch Group. Market Analysis and Insights: Global Natural Language Processing in"
-    publishedDateTime: 2021-06-30T07:41:00Z
-    webUrl: "https://www.reportsnreports.com/reports/4624367-global-natural-language-processing-in-bfsi-market-size-status-and-forecast-2021-2027.html"
-    type: article
-    provider:
-      name: ReportsnReports
-      domain: reportsnreports.com
-    quality: 12
-  - title: "Global Predictive Analytics And Machine Learning Market Size, Status and Forecast 2021-2027"
-    excerpt: "Pages Report] Check for Discount on Global Predictive Analytics And Machine Learning Market Size, Status and Forecast 2021-2027 report by QYResearch Group. Market Analysis and Insights: Global Predictive Analytics And Machine"
-    publishedDateTime: 2021-07-02T08:04:00Z
-    webUrl: "https://www.reportsnreports.com/reports/4631246-global-predictive-analytics-and-machine-learning-market-size-status-and-forecast-2021-2027.html"
-    type: article
-    provider:
-      name: ReportsnReports
-      domain: reportsnreports.com
-    quality: 9
-  - title: "Global Artificial Intelligence For IT Operations Platform Market Size, Status and Forecast 2021-2027"
-    excerpt: "Pages Report] Check for Discount on Global Artificial Intelligence For IT Operations Platform Market Size, Status and Forecast 2021-2027 report by QYResearch Group. Market Analysis and Insights: Global Artificial Intelligence For IT"
-    publishedDateTime: 2021-06-30T07:49:00Z
-    webUrl: "https://www.reportsnreports.com/reports/4624374-global-artificial-intelligence-for-it-operations-platform-market-size-status-and-forecast-2021-2027.html"
-    type: article
-    provider:
-      name: ReportsnReports
-      domain: reportsnreports.com
-    quality: 2
-  - title: "Global Artificial Intelligence For Drug Development and Discovery Market Size, Status and Forecast 2021-2027"
-    excerpt: "Pages Report] Check for Discount on Global Artificial Intelligence For Drug Development and Discovery Market Size, Status and Forecast 2021-2027 report by QYResearch Group. Market Analysis and Insights: Global Artificial Intelligence For Drug"
-    publishedDateTime: 2021-07-03T09:02:00Z
-    webUrl: "https://www.reportsnreports.com/reports/4635994-global-artificial-intelligence-for-drug-development-and-discovery-market-size-status-and-forecast-2021-2027.html"
-    type: article
-    provider:
-      name: ReportsnReports
-      domain: reportsnreports.com
-    quality: 0
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 18
 
 secured: "5M/o9RvHRQPLMg5epgu2i1a9ji1xE0h6IDt8KDzZ0mdCzkQjMqJ12dZaz1mgVIfguhCRrto5i8j7dEqJASWZNKcpdXUrCUbKL0vCMR8JraqMQLlD0D8wTSGBszUsORdXWvxSo6IpheFzh65tbZ4Qox9yg5EmpJAu2u43N/hlCenAPqhLcG4Aw+kviZ/XJwQO2D8pdgC06521TMS2mClgU8brIWAN9o1d+rx7M0p4hSmdVbl3be1zOytIxe+fhgOPbXElBHt2iXvRvdwnt7aO/trJp+bycdBe/rm/2K+6AO/tuUuHgvO6CqDAKavd2vpenoSEZI9XPE/XUUPf9VJqCQRria5lRejPd58zZdBJdI8=;ybIdy8kO8eIkEnAr4Gx5eQ=="
 ---

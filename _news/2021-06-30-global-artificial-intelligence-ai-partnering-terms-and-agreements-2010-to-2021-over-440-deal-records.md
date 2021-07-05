@@ -18,6 +18,17 @@ topics:
   - AI in Healthcare
   - AI
 
+related:
+  - title: "Global AI Recognition Market Size, Status and Forecast 2021-2027"
+    excerpt: "Pages Report] Check for Discount on Global AI Recognition Market Size, Status and Forecast 2021-2027 report by QYResearch Group. Market Analysis and Insights: Global AI Recognition Market The"
+    publishedDateTime: 2021-07-03T09:03:00Z
+    webUrl: "https://www.reportsnreports.com/reports/4636041-global-ai-recognition-market-size-status-and-forecast-2021-2027.html"
+    type: article
+    provider:
+      name: ReportsnReports
+      domain: reportsnreports.com
+    quality: 17
+
 secured: "PFQaYczfzFT7Dv2eBhEnPxUQ5+X+0JpE2QMLNkTJ1+z6qabHKulVTBT1LJUc9KDZvWU6kCZG7XHaExVBOWnnigC93BGGnKS4vQPQhTtOsFWHKDk5IBtfhShkJC8bTBHLgOPSSqWAIhchSpP0nyKYCzfSpEXSmJaTglYWRqzu2PuJCg2D6Aq39g8ENkHBqpQKNnnPAWEDr8gdyjzGsCrIwYnd0oIEolr73TcWrJKEydjnvUnen3fuQIRrgej+7aUq0lPH4RhyS+IxPjsvuyqjFCnHaNrkyamBP+a+q0ptque0sO1CdzWE+PWETcp8n/hcdSBDcbADVnRcxC6P0NKQ9zYxHdH2tTGy6yO3M7R1i14=;fKWfXVNVtDMVoykmXBjbvg=="
 ---
 

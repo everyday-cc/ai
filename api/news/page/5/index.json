@@ -2,6 +2,57 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-06-30-lollipop-ai-launches-online-grocery-marketplace-where-you-can-build-your-own-recipes.md",
+      "title": "Lollipop AI launches online grocery marketplace where you can build your own recipes",
+      "excerpt": "As I’ve taken to online grocery shopping over the pandemic, I’ve always wondered by supermarkets didn’t offer simple ‘recipe’ features would have automatically collected up items for a homemade meal,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/06/29/lollipop-ai-launches-online-grocery-marketplace-where-you-can-build-your-own-recipes/",
+      "originalUrl": "https://techcrunch.com/2021/06/29/lollipop-ai-launches-online-grocery-marketplace-where-you-can-build-your-own-recipes/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/06/Founding_Team.jpeg?w=775",
+          "width": 775,
+          "height": 518,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/06/29/lollipop-ai-launches-online-grocery-marketplace-where-you-can-build-your-own-recipes/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/06/29/lollipop-ai-launches-online-grocery-marketplace-where-you-can-build-your-own-recipes/amp/",
+      "publishedDateTime": "2021-06-29T16:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-30-machine-learning-aids-insights-into-cows-sleep.md",
       "title": "Machine Learning Aids Insights Into Cows’ Sleep",
       "excerpt": "Research into the sleep of cows is seen by researchers as one way of assessing their welfare, which is important to farmers and to respond to the growing expectations of global dairy consumers. Although little is known about the sleep needs of cows,",
@@ -639,6 +690,40 @@
       ]
     },
     {
+      "path": "_news/2021-06-29-wekaio-announces-support-of-nvidias-turbocharged-hgx-ai-supercomputing-platform.md",
+      "title": "WekaIO Announces Support of NVIDIA's Turbocharged HGX™ AI Supercomputing Platform",
+      "excerpt": "WekaIO™ (Weka), one of the fastest-growing data platforms for artificial intelligence/machine learning (AI/ML), life sciences research, and high-performance computing (HPC), today announced the WekaFS™ Limitless Data Platform's ability to leverage the newly-turbocharged NVIDIA HGX™ AI supercomputing platform to deliver the best performance and throughput required of today's most-demanding enterprise workloads.",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/-wekaio-announces-support-nvidias-turbocharged-hgxtrade-ai-supercomputing-/2021/06/29/9400007.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-wekaio-announces-support-nvidias-turbocharged-hgxtrade-ai-supercomputing-/2021/06/29/9400007.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-29T07:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-29-amazon-introduces-reading-sidekick-a-kids-reading-companion-for-alexa-and-voice-profiles-for-kids.md",
       "title": "Amazon introduces Reading Sidekick, a kids reading companion for Alexa, and Voice Profiles for Kids",
       "excerpt": "Amazon today announced a new feature that will turn Alexa into a reading companion for children as well as new support for Alexa Voice Profiles for Kids, which personalize the child’s Alexa experience across all Echo devices in the household.",
@@ -1119,111 +1204,6 @@
       "topics": [
         "Natural Language Processing",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-29-graphic-processing-unit-gpu-market-to-grow-at-a-cagr-of-334-by-2027.md",
-      "title": "Graphic Processing Unit (GPU) Market to Grow at a CAGR of 33.4% by 2027",
-      "excerpt": "Market size is poised to reach USD 198.77 Billion by 2027 and is expected to expand at a compound annual growth rate (CAGR) of 33.4% from 2020 to 2027. The report provides the overall revenue of the global Graphic Processing Unit (GPU) Market from 2016 to 2027,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/graphic-processing-unit-gpu-market-to-grow-at-a-cagr-of-334-by-2027-2021-06-29",
-      "originalUrl": "https://www.marketwatch.com/press-release/graphic-processing-unit-gpu-market-to-grow-at-a-cagr-of-334-by-2027-2021-06-29",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-29T05:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-29-nvidias-aerial-brings-gpus-to-ai-on-5g.md",
-      "title": "Nvidia’s Aerial Brings GPUs To AI On 5G",
-      "excerpt": "Nvidia's telco strategy continues to evolve as the combination of new chips and software will allow it to power software-defined O-RAN compatible 5G network infrastructure equipment that can also power AI-based edge computing applications in a wide variety of environments.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/bobodonnell/2021/06/29/nvidias-aerial-brings-gpus-to-ai-on-5g/",
-      "originalUrl": "https://www.forbes.com/sites/bobodonnell/2021/06/29/nvidias-aerial-brings-gpus-to-ai-on-5g/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 156,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60da8a5815d212c0b6570f08%2F0x0.jpg",
-          "width": 1200,
-          "height": 756,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/bobodonnell/2021/06/29/nvidias-aerial-brings-gpus-to-ai-on-5g/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bobodonnell/2021/06/29/nvidias-aerial-brings-gpus-to-ai-on-5g/amp/",
-      "publishedDateTime": "2021-06-29T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

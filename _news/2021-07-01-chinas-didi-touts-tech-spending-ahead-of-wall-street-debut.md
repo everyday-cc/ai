@@ -9,7 +9,7 @@ ampWebUrl: "https://beta.ctvnews.ca/national/business/2021/6/30/1_5491450.html"
 cdnAmpWebUrl: "https://beta-ctvnews-ca.cdn.ampproject.org/c/s/beta.ctvnews.ca/national/business/2021/6/30/1_5491450.html"
 type: article
 quality: 44
-heat: -1
+heat: 44
 published: false
 
 provider:
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "China's Didi touts tech spending ahead of Wall St debut"
-    excerpt: "Early investors included Apple Inc., Japan's Softbank, Alibaba and Chinese internet giants, Tencent Holding Ltd. and Baidu Inc. Didi ... into development of self-driving, electric vehicles and ..."
-    publishedDateTime: 2021-06-30T08:45:00Z
-    webUrl: "https://www.dailyherald.com/article/20210630/business/306309977"
-    ampWebUrl: "https://www.dailyherald.com/amp-article/20210630/business/306309977/"
-    cdnAmpWebUrl: "https://www-dailyherald-com.cdn.ampproject.org/c/s/www.dailyherald.com/amp-article/20210630/business/306309977/"
-    type: article
-    provider:
-      name: Daily Herald
-      domain: dailyherald.com
-    quality: 44
-    images:
-      - url: "https://www.dailyherald.com/storyimage/DA/20210630/business/306309977/AR/0/AR-306309977.jpg&updated=202106301649&MaxW=800&MaxH=800&noborder"
-        width: 512
-        height: 334
-        isCached: true
   - title: "Didi shares gain 1% after early jump in Wall Street debut"
     excerpt: "Early investors included Apple Inc., Japan’s Softbank, Alibaba and Chinese internet giants, Tencent Holding Ltd. and Baidu Inc. Didi ... into development of self-driving, electric vehicles ..."
     publishedDateTime: 2021-06-30T22:42:00Z

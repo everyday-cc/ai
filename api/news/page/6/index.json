@@ -2,6 +2,111 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2021-06-29-graphic-processing-unit-gpu-market-to-grow-at-a-cagr-of-334-by-2027.md",
+      "title": "Graphic Processing Unit (GPU) Market to Grow at a CAGR of 33.4% by 2027",
+      "excerpt": "Market size is poised to reach USD 198.77 Billion by 2027 and is expected to expand at a compound annual growth rate (CAGR) of 33.4% from 2020 to 2027. The report provides the overall revenue of the global Graphic Processing Unit (GPU) Market from 2016 to 2027,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/graphic-processing-unit-gpu-market-to-grow-at-a-cagr-of-334-by-2027-2021-06-29",
+      "originalUrl": "https://www.marketwatch.com/press-release/graphic-processing-unit-gpu-market-to-grow-at-a-cagr-of-334-by-2027-2021-06-29",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-29T05:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-29-nvidias-aerial-brings-gpus-to-ai-on-5g.md",
+      "title": "Nvidia’s Aerial Brings GPUs To AI On 5G",
+      "excerpt": "Nvidia's telco strategy continues to evolve as the combination of new chips and software will allow it to power software-defined O-RAN compatible 5G network infrastructure equipment that can also power AI-based edge computing applications in a wide variety of environments.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/bobodonnell/2021/06/29/nvidias-aerial-brings-gpus-to-ai-on-5g/",
+      "originalUrl": "https://www.forbes.com/sites/bobodonnell/2021/06/29/nvidias-aerial-brings-gpus-to-ai-on-5g/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 156,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60da8a5815d212c0b6570f08%2F0x0.jpg",
+          "width": 1200,
+          "height": 756,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/bobodonnell/2021/06/29/nvidias-aerial-brings-gpus-to-ai-on-5g/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bobodonnell/2021/06/29/nvidias-aerial-brings-gpus-to-ai-on-5g/amp/",
+      "publishedDateTime": "2021-06-29T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-29-to-win-with-ai-focus-on-our-humanity.md",
       "title": "To Win With AI, Focus On Our Humanity",
       "excerpt": "Technology disruptions are not novel and have enabled humanity to evolve and progress. This one is different, though. For the first time in the history of our species, technology seems to take over the very domains where we thought humans excelled: innovation,",
@@ -200,49 +305,6 @@
       ]
     },
     {
-      "path": "_news/2021-06-29-edge-of-chaos-opens-pathway-to-artificial-intelligence-discoveries.md",
-      "title": "'Edge of chaos' opens pathway to artificial intelligence discoveries",
-      "excerpt": "have discovered that an artificial network of nanowires can be tuned to respond in a brain-like way when electrically stimulated. This, they say, suggests the underlying nature of neural ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.eurekalert.org/pub_releases/2021-06/uos-oc062721.php",
-      "originalUrl": "https://www.eurekalert.org/pub_releases/2021-06/uos-oc062721.php",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.eurekalert.org/multimedia/pub/web/269158_web.jpg",
-          "width": 1440,
-          "height": 1009,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-29T03:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "EurekAlert!",
-        "domain": "eurekalert.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-06-29-douglas-coupland-fuses-ai-and-art-to-inspire-students.md",
       "title": "Douglas Coupland fuses AI and art to inspire students",
       "excerpt": "Have you ever noticed that the word art is embedded in the phrase artificial intelligence? Neither did we, but when the opportunity presented itself to explore how artificial intelligence (AI) inspires artistic expression — with the help of internationally renowned Canadian artist Douglas Coupland —",
@@ -292,6 +354,49 @@
       "topics": [
         "AI",
         "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-29-edge-of-chaos-opens-pathway-to-artificial-intelligence-discoveries.md",
+      "title": "'Edge of chaos' opens pathway to artificial intelligence discoveries",
+      "excerpt": "Scientists at the University of Sydney and Japan's National Institute for Material Science (NIMS) have discovered that an artificial network of nanowires can be tuned to respond in a brain-like way when electrically stimulated.",
+      "sourceUrl": null,
+      "webUrl": "https://phys.org/news/2021-06-edge-chaos-pathway-artificial-intelligence.html",
+      "originalUrl": "https://phys.org/news/2021-06-edge-chaos-pathway-artificial-intelligence.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2021/edge-of-chaos-opens-pa.jpg",
+          "width": 514,
+          "height": 225,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-29T02:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Phys.org",
+        "domain": "phys.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
       ]
     },
     {
@@ -1054,35 +1159,26 @@
       ]
     },
     {
-      "path": "_news/2021-06-28-global-artificial-intelligence-in-healthcare-deals-and-agreements-by-leading-players-from-2010-2021-researchandmarketscom.md",
-      "title": "Global Artificial Intelligence in Healthcare: Deals and Agreements by Leading Players From 2010-2021 - ResearchAndMarkets.com",
-      "excerpt": "Partnering Terms and Agreements 2010 to 2021” report has been added to ResearchAndMarkets.com’s offering. The Global Artificial Intelligence (AI) Partnering Terms and Agreements 2010 to 2021 report provides an understanding and access to the artificial intelligence partnering deals and agreements entered into by the world’s leading healthcare companies.",
+      "path": "_news/2021-06-28-path-robotics-adding-jobs-second-columbus-plant-for-ai-powered-welding-system.md",
+      "title": "Path Robotics adding jobs, second Columbus plant for AI-powered welding system",
+      "excerpt": "Path Robotics Inc., a venture-backed startup aiming to bring a manufacturing renaissance to Ohio and the U.S., plans to grow to 200 employees – 10 times its size at the start of 2020. Demand is growing for the AI-powered autonomous welding system the ...",
       "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/business-wire/artificial-intelligence-business-technology-c8cf1d7a3c1e49999f2dbe3d728e684e",
-      "originalUrl": "https://apnews.com/press-release/business-wire/artificial-intelligence-business-technology-c8cf1d7a3c1e49999f2dbe3d728e684e",
+      "webUrl": "https://www.bizjournals.com/columbus/news/2021/06/28/path-robotics-adding-jobs-second-columbus-plant.html",
+      "originalUrl": "https://www.bizjournals.com/columbus/news/2021/06/28/path-robotics-adding-jobs-second-columbus-plant.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-28T09:53:00-07:00",
+      "publishedDateTime": "2021-06-28T09:57:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
+        "name": "The Business Journals",
+        "domain": "bizjournals.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1092,109 +1188,7 @@
         "news"
       ],
       "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-28-what-are-the-benefits-of-artificial-intelligence-in-government.md",
-      "title": "What are the benefits of Artificial Intelligence in Government?",
-      "excerpt": "From listening better to citizens, to making operations more efficient, AI brings multiple benefits to governments to make better decisions.",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/article/375919",
-      "originalUrl": "https://www.entrepreneur.com/article/375919",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/images/misc/1624897374_inteligencia_artificial1.jpg?width=1000?width=1000",
-          "width": 2000,
-          "height": 1335,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.entrepreneur.com/amphtml/375919",
-      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/375919",
-      "publishedDateTime": "2021-06-28T09:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-28-dell-releases-open-source-suite-omnia-to-manage-ai-analytics-workloads.md",
-      "title": "Dell releases open source suite Omnia to manage AI, analytics workloads",
-      "excerpt": "Dell open-sourced Omnia, a software package that aims to simplify the management of compute workloads across different hardware.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/06/28/dell-releases-open-source-suite-omnia-to-manage-ai-analytics-workloads/",
-      "originalUrl": "https://venturebeat.com/2021/06/28/dell-releases-open-source-suite-omnia-to-manage-ai-analytics-workloads/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 177,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2018/03/dell.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 850,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/06/28/dell-releases-open-source-suite-omnia-to-manage-ai-analytics-workloads/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/28/dell-releases-open-source-suite-omnia-to-manage-ai-analytics-workloads/amp/",
-      "publishedDateTime": "2021-06-28T09:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
+        "AI in Robotics",
         "AI"
       ]
     }

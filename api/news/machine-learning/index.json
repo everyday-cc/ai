@@ -476,19 +476,19 @@
     {
       "path": "_news/2021-06-29-edge-of-chaos-opens-pathway-to-artificial-intelligence-discoveries.md",
       "title": "'Edge of chaos' opens pathway to artificial intelligence discoveries",
-      "excerpt": "have discovered that an artificial network of nanowires can be tuned to respond in a brain-like way when electrically stimulated. This, they say, suggests the underlying nature of neural ...",
+      "excerpt": "Scientists at the University of Sydney and Japan's National Institute for Material Science (NIMS) have discovered that an artificial network of nanowires can be tuned to respond in a brain-like way when electrically stimulated.",
       "sourceUrl": null,
-      "webUrl": "https://www.eurekalert.org/pub_releases/2021-06/uos-oc062721.php",
-      "originalUrl": "https://www.eurekalert.org/pub_releases/2021-06/uos-oc062721.php",
+      "webUrl": "https://phys.org/news/2021-06-edge-chaos-pathway-artificial-intelligence.html",
+      "originalUrl": "https://phys.org/news/2021-06-edge-chaos-pathway-artificial-intelligence.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://www.eurekalert.org/multimedia/pub/web/269158_web.jpg",
-          "width": 1440,
-          "height": 1009,
+          "url": "https://scx2.b-cdn.net/gfx/news/2021/edge-of-chaos-opens-pa.jpg",
+          "width": 514,
+          "height": 225,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -498,11 +498,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-29T03:13:00-07:00",
+      "publishedDateTime": "2021-06-29T02:37:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "EurekAlert!",
-        "domain": "eurekalert.org",
+        "name": "Phys.org",
+        "domain": "phys.org",
         "images": null,
         "publishers": null,
         "authors": null

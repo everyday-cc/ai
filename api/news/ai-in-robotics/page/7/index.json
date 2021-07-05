@@ -2,6 +2,50 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2021-05-14-mit-researchers-commercializing-rfid-and-computer-vision-robotics.md",
+      "title": "MIT Researchers Commercializing RFID and Computer Vision Robotics",
+      "excerpt": "Researchers at the MIT Media Lab are employing radio frequency identification technology along with computer vision to enable robots to explore their environment in order to locate and move a targeted item that may not be visible.",
+      "sourceUrl": null,
+      "webUrl": "https://www.rfidjournal.com/mit-researchers-commercializing-rfid-and-computer-vision-robotics",
+      "originalUrl": "https://www.rfidjournal.com/mit-researchers-commercializing-rfid-and-computer-vision-robotics",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.rfidjournal.com/wp-content/uploads/2021/04/MITMediaLab-1.jpg",
+          "width": 1000,
+          "height": 561,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-14T04:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "RFID Journal",
+        "domain": "rfidjournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
       "path": "_news/2021-05-14-global-artificial-intelligence-in-healthcare-markets-report-2021.md",
       "title": "Global Artificial Intelligence in Healthcare Markets Report 2021:",
       "excerpt": "Global Artificial Intelligence in Healthcare Markets Report 2021: Growing Investment in AI Healthcare Start-ups & Increasing Cross-Industry Partnerships and Collaborations",
@@ -1326,49 +1370,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-04-the-maker-of-flippy-is-now-selling-the-software-behind-the-robot.md",
-      "title": "The maker of Flippy is now selling the software behind the robot",
-      "excerpt": "Restaurants can now buy the technology that powers Flippy the automated fry cook—without the robot. Miso Robotics, the maker of Flippy, on Tuesday unveiled a software product called CookRight, which uses artificial intelligence and machine learning to guide kitchen workers at the grill.",
-      "sourceUrl": null,
-      "webUrl": "https://www.restaurantbusinessonline.com/technology/maker-flippy-now-selling-software-behind-robot",
-      "originalUrl": "https://www.restaurantbusinessonline.com/technology/maker-flippy-now-selling-software-behind-robot",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.winsightmedia.com/platform/files/public/2021-05/background/400x600/shutterstock_image_1620064252.jpg?CMLT3umtvWXJpXYM9BrsVKmy0Z15aRcs",
-          "width": 400,
-          "height": 210,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.restaurantbusinessonline.com/amp/technology/maker-flippy-now-selling-software-behind-robot",
-      "cdnAmpWebUrl": "https://www-restaurantbusinessonline-com.cdn.ampproject.org/c/s/www.restaurantbusinessonline.com/amp/technology/maker-flippy-now-selling-software-behind-robot",
-      "publishedDateTime": "2021-05-04T02:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Restaurant Business",
-        "domain": "restaurantbusinessonline.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

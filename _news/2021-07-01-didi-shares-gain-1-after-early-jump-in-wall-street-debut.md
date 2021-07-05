@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "China's Didi touts tech spending ahead of Wall St debut"
-    excerpt: "Early investors included Apple Inc., Japan's Softbank, Alibaba and Chinese internet giants, Tencent Holding Ltd. and Baidu Inc. Didi ... into development of self-driving, electric vehicles and ..."
-    publishedDateTime: 2021-06-30T08:45:00Z
-    webUrl: "https://www.dailyherald.com/article/20210630/business/306309977"
-    ampWebUrl: "https://www.dailyherald.com/amp-article/20210630/business/306309977/"
-    cdnAmpWebUrl: "https://www-dailyherald-com.cdn.ampproject.org/c/s/www.dailyherald.com/amp-article/20210630/business/306309977/"
-    type: article
-    provider:
-      name: Daily Herald
-      domain: dailyherald.com
-    quality: 44
-    images:
-      - url: "https://www.dailyherald.com/storyimage/DA/20210630/business/306309977/AR/0/AR-306309977.jpg&updated=202106301649&MaxW=800&MaxH=800&noborder"
-        width: 512
-        height: 334
-        isCached: true
   - title: "China's Didi touts tech spending ahead of Wall Street debut"
     excerpt: "Early investors included Apple Inc., Japan's Softbank, Alibaba and Chinese internet giants, Tencent Holding Ltd. and Baidu Inc. Didi ... into development of self-driving, electric vehicles and ..."
     publishedDateTime: 2021-07-01T07:39:00Z

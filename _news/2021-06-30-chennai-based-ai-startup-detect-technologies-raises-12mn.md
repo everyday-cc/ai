@@ -40,17 +40,6 @@ related:
         width: 600
         height: 338
         isCached: true
-  - title: "Industrial AI Startup Detect Technologies Raises $12Mn From Accel, Elevation Capital"
-    excerpt: "Industrial AI startup, Detect Technologies, announced that it raised $12 Mn in funding led by Accel, along with existing investors including Elevation Capital, Bharat Innovation Fund, BlueHill Capital,"
-    publishedDateTime: 2021-06-30T08:48:00Z
-    webUrl: "https://inc42.com/buzz/ai-startup-detect-technologies-raises-12mn-from-accel-elevation/"
-    ampWebUrl: "https://inc42.com/buzz/ai-startup-detect-technologies-raises-12mn-from-accel-elevation/amp/"
-    cdnAmpWebUrl: "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/buzz/ai-startup-detect-technologies-raises-12mn-from-accel-elevation/amp/"
-    type: article
-    provider:
-      name: inc42.com
-      domain: inc42.com
-    quality: 30
 
 secured: "7mSDesN9FFCZ+2IsL1s7cufsN8fldgMKtdEDGHVgQJQwmDfOf+WwWFwpQOCnLVgZqQ7NQIZLjn5Aby61CjhBbtHAFHTeebbqqR1QPqnERSlWZxgBjTYBn2qrNITVbMtf7ETn0AqueGxwjneZFx8KzlZpW8gWqZmDR1hT/dfR4Usp5I+BJiRFhXfJ2T/oM86bJ9TypbIT7cC9uGZ9No/Eyp/XzgT6E5g9DD/KW396Lw1ylslyszgar3UBu4qNDRWOLZU3gbRhoai8CXSLmeyCBnUuSUFPR4LLohZ3DR7rPC+LDgkmrMP5CsqVDxlj8CuRFxO7+WUEeG976lD0Kb69wQrz3m+TTZLws+lYg3zOVIGmLEeC8pdYAWb/pyVGnxEc5ZRs/VwmvLrxsL5YhAadIbvN2AbkutjoEjqXkYUWW9v1me/HPeeGA3A4TO4kjzntVNV0NUrcNmPWVsjPP8sauJ7K+/X8TiNSYOyEN2I7ePBYCi0HpBoDIMI+uFZ3Y9FeqAYgsY0jI9Knqo15CkqZWQ==;kwUHiCHE1Y7QDSK5Lpo2Xg=="
 ---

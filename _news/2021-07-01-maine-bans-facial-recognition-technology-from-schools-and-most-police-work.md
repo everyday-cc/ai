@@ -9,7 +9,7 @@ ampWebUrl: "https://www.engadget.com/amp/maine-facial-recognition-law-191252742.
 cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/maine-facial-recognition-law-191252742.html"
 type: article
 quality: 102
-heat: 312
+heat: 302
 published: true
 
 provider:
@@ -315,15 +315,6 @@ related:
         width: 1920
         height: 1280
         isCached: true
-  - title: "Global Facial Recognition Technology in the Financial Services Market Size, Status and Forecast 2021-2027"
-    excerpt: "Pages Report] Check for Discount on Global Facial Recognition Technology in the Financial Services Market Size, Status and Forecast 2021-2027 report by QYResearch Group. The use of AI has grown exponentially in recent years,"
-    publishedDateTime: 2021-06-30T07:43:00Z
-    webUrl: "https://www.reportsnreports.com/reports/4624723-global-facial-recognition-technology-in-the-financial-services-market-size-status-and-forecast-2021-2027.html"
-    type: article
-    provider:
-      name: ReportsnReports
-      domain: reportsnreports.com
-    quality: 2
 
 secured: "yD6+5oW0L62cOdOucMROnk+8DTBA3eOnk3C2jjH9/yOAFUfaKXUXK+WyyxsuanqiDnS27et9Dwmo9jxJ3AwbtAxs3NcpnUvIgA6B+7dIHQC2U2RMbqLtEVVIVsZCW3U5UJbF5sh00PS+d8pckZlRdSBiMdiYKM1JyZ3xanZ/mPkg/QMTbtH0515r3xxmN9VZ93ULIbkQWVN8Gru0b61hPfh0/hjQ9eLfK0RK/bxOBiRvT1QwGNLJ4idHvlM9hcg90NfMvgMDecf210KGNy1WOFVo4nUr/WKK17p9DAkgXm3MInDFTB78VLqT9LPztsB0J4cjUYNTvZQG6SLcaSdcTz3nOsOawT2MyBLIFNfigdk=;Q9Dtn+ZEdPaH30mSCSFQVw=="
 ---

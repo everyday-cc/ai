@@ -2,6 +2,188 @@
   "page": 31,
   "value": [
     {
+      "path": "_news/2021-06-10-fpga-ip-accelerates-neural-network-computing-for-edge-and-embedded-ai-applications.md",
+      "title": "FPGA IP accelerates neural network computing for edge and embedded AI applications",
+      "excerpt": "Global Technology partners Xilinx, Avnet, Libertron and E-Elements to speed development of AI solutions across a range of industries and use cases",
+      "sourceUrl": null,
+      "webUrl": "https://www.ept.ca/2021/06/fpga-ip-accelerates-neural-network-computing-for-edge-and-embedded-ai-applications/",
+      "originalUrl": "https://www.ept.ca/2021/06/fpga-ip-accelerates-neural-network-computing-for-edge-and-embedded-ai-applications/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ept.ca/wp-content/uploads/2020/06/EPT_JUNEJULY2021_COV_SVA-ml-300x400.jpg",
+          "width": 300,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-09T13:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "EPT",
+        "domain": "www.ept.ca",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-06-10-machine-learning-speeds-up-simulations-in-material-science.md",
+      "title": "Machine learning speeds up simulations in material science",
+      "excerpt": "Research, development, and production of novel materials depend heavily on the availability of fast and at the same time accurate simulation methods. Machine learning, in which artificial intelligence autonomously acquires and applies new knowledge,",
+      "sourceUrl": null,
+      "webUrl": "https://www.sciencedaily.com/releases/2021/06/210609105851.htm",
+      "originalUrl": "https://www.sciencedaily.com/releases/2021/06/210609105851.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-09T13:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Science Daily",
+        "domain": "sciencedaily.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-10-mit-ibm-watson-ai-lab.md",
+      "title": "MIT-IBM Watson AI Lab",
+      "excerpt": "In two years, the MIT Quest for Intelligence has allowed hundreds of students to explore AI in its many applications. Brain and cognitive sciences professor will lead the Institute’s interdisciplinary initiative to advance research in natural and ...",
+      "sourceUrl": null,
+      "webUrl": "https://news.mit.edu/topic/mit-ibm-watson-ai-lab",
+      "originalUrl": "https://news.mit.edu/topic/mit-ibm-watson-ai-lab",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-09T12:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "news",
+        "domain": "mit.edu",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/mit.edu-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-10-decades-old-ascii-adventure-nethack-may-hint-at-the-future-of-ai.md",
+      "title": "Decades-old ASCII adventure Nethack may hint at the future of AI",
+      "excerpt": "Machine learning models have already mastered Chess, Go, Atari games, and more, but in order for it to ascend to the next level, researchers at Facebook intend for AI to take on a different kind of game: the notoriously difficult and infinitely complex Nethack.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/06/09/decades-old-ascii-adventure-nethack-may-hint-at-the-future-of-ai/",
+      "originalUrl": "https://techcrunch.com/2021/06/09/decades-old-ascii-adventure-nethack-may-hint-at-the-future-of-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/06/nethack-gif.gif?w=770",
+          "width": 770,
+          "height": 434,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/06/09/decades-old-ascii-adventure-nethack-may-hint-at-the-future-of-ai/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/06/09/decades-old-ascii-adventure-nethack-may-hint-at-the-future-of-ai/amp/",
+      "publishedDateTime": "2021-06-09T12:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-10-global-encoder-market-2021-to-2026-increasing-demand-for-artificial-intelligence-based-systems-presents-opportunities.md",
       "title": "Global Encoder Market (2021 to 2026) - Increasing Demand for Artificial Intelligence-Based Systems Presents Opportunities",
       "excerpt": "The global encoder market is expected to grow from USD 2.3 billion in 2021 to USD 3.7 billion by 2026, at a CAGR of 10%. The growth of this market is mainly driven by the need for",
@@ -1005,189 +1187,6 @@
       "topics": [
         "Natural Language Processing",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-09-dispel-releases-industrys-first-accessible-remote-access-platform-designed-for-people-with-disabilities.md",
-      "title": "Dispel Releases Industry's First Accessible Remote Access Platform Designed for People With Disabilities",
-      "excerpt": "Dispel today announced new accessibility features across its entire suite of products designed to allow people with mobility, vision, hearing, and cognitive disabilities to work remotely on industrial control systems.",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/2021/06/09/9386921.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/2021/06/09/9386921.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-09T05:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-09-salesforces-ai-surfaces-relationships-to-drive-sales.md",
-      "title": "Salesforce’s AI surfaces relationships to drive sales",
-      "excerpt": "Salesforce's new tool, Einstein Relationship Insights, finds relationships between customers, prospects, and companies",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/06/09/salesforces-ai-surfaces-relationships-to-drive-sales/",
-      "originalUrl": "https://venturebeat.com/2021/06/09/salesforces-ai-surfaces-relationships-to-drive-sales/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/11/Salesforce-e1606938078476.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/06/09/salesforces-ai-surfaces-relationships-to-drive-sales/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/09/salesforces-ai-surfaces-relationships-to-drive-sales/amp/",
-      "publishedDateTime": "2021-06-09T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2021-06-09-this-robot-run-fund-thinks-gamestop-stock-will-soar-in-june-and-predicts-a-fall-for-tesla-and-amazon.md",
-      "title": "This robot-run fund thinks GameStop stock will soar in June, and predicts a fall for Tesla and Amazon",
-      "excerpt": "An exchange-traded fund driven by artificial intelligence booted Tesla and Amazon from its portfolio in June, instead choosing to load up on shares",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/story/this-robot-run-fund-thinks-gamestop-stock-will-soar-in-june-and-predicts-a-fall-for-tesla-and-amazon-11623237670?mod=home-page",
-      "originalUrl": "https://www.marketwatch.com/story/this-robot-run-fund-thinks-gamestop-stock-will-soar-in-june-and-predicts-a-fall-for-tesla-and-amazon-11623237670?mod=home-page",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.mktw.net/im-351065/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.marketwatch.com/amp/story/this-robot-run-fund-thinks-gamestop-stock-will-soar-in-june-and-predicts-a-fall-for-tesla-and-amazon-11623237670",
-      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/this-robot-run-fund-thinks-gamestop-stock-will-soar-in-june-and-predicts-a-fall-for-tesla-and-amazon-11623237670",
-      "publishedDateTime": "2021-06-09T04:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2021-06-09-artificial-intelligence-ai-in-oil-and-gas-market-thematic-research.md",
-      "title": "Artificial Intelligence (AI) in Oil and Gas Market - Thematic Research",
-      "excerpt": "The oil and gas O G industry faces many severe challenges The shortage of easily accessible hydrocarbon reserves forces companies to use remote reserves that are hard to discover costly and risky Moreover sustainability concerns are shifting demand away from",
-      "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2301457/artificial-intelligence-ai-in-oil-and-gas-market-thematic",
-      "originalUrl": "https://www.openpr.com/news/2301457/artificial-intelligence-ai-in-oil-and-gas-market-thematic",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.openpr.com/U/6/U609148836_g.jpg",
-          "width": 800,
-          "height": 334,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2301457/artificial-intelligence-ai-in-oil-and-gas-market-thematic",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2301457/artificial-intelligence-ai-in-oil-and-gas-market-thematic",
-      "publishedDateTime": "2021-06-09T04:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
       ]
     }
   ],

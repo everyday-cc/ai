@@ -967,6 +967,57 @@
       ]
     },
     {
+      "path": "_news/2021-07-01-ai-software-may-help-spot-early-signs-of-oesophageal-cancer.md",
+      "title": "AI software may help spot early signs of oesophageal cancer",
+      "excerpt": "Software in use at an NHS trust could prove a breakthrough in diagnosing one of the deadliest forms of cancer",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/society/2021/jul/01/ai-software-may-help-spot-early-signs-of-oesophageal-cancer",
+      "originalUrl": "https://www.theguardian.com/society/2021/jul/01/ai-software-may-help-spot-early-signs-of-oesophageal-cancer",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/c52877e72025b734460ff894742eda5c0ad93078/349_348_4512_2708/master/4512.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=26412eaf84bc72027ce904a5e4e356fd",
+          "width": 600,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/society/2021/jul/01/ai-software-may-help-spot-early-signs-of-oesophageal-cancer",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/society/2021/jul/01/ai-software-may-help-spot-early-signs-of-oesophageal-cancer",
+      "publishedDateTime": "2021-07-01T04:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-01-global-ai-in-fintech-market-size-share-to-expand-at-171-cagr-through-2025.md",
       "title": "Global AI in Fintech Market Size, Share to Expand At 17.1% CAGR Through 2025",
       "excerpt": "Selbyville, Delaware, The AI in Fintech market study now available with Market Study Report, LLC, is a collation",
@@ -975,7 +1026,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/global-ai-in-fintech-market-size-share-to-expand-at-171-cagr-through-2025-2021-07-01",
       "featuredContent": null,
       "highlight": null,
-      "heat": 146,
+      "heat": 136,
       "tags": null,
       "images": [
         {
@@ -1164,58 +1215,6 @@
         "AI in Robotics",
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2021-07-01-microsoft-power-platform-and-low-codeno-code-development-getting-the-most-out-of-fusion-teams.md",
-      "title": "Microsoft Power Platform and low code/no code development: Getting the most out of Fusion Teams",
-      "excerpt": "Microsoft is starting to define a development philosophy for its Power Platform, and delivering the tools needed to back it up.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/microsoft-power-platform-and-low-codeno-code-development-getting-the-most-out-of-fusion-teams/",
-      "originalUrl": "https://www.techrepublic.com/article/microsoft-power-platform-and-low-codeno-code-development-getting-the-most-out-of-fusion-teams/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techrepublic.com/a/hub/i/r/2021/07/01/d61a2a58-69c0-4af9-9a85-3845fb7e8a0b/resize/1200x/816ad734b37107581dbb100ffae49100/power-platform.jpg",
-          "width": 1200,
-          "height": 623,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/microsoft-power-platform-and-low-codeno-code-development-getting-the-most-out-of-fusion-teams/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/microsoft-power-platform-and-low-codeno-code-development-getting-the-most-out-of-fusion-teams/",
-      "publishedDateTime": "2021-07-01T02:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],

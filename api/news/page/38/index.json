@@ -2,6 +2,204 @@
   "page": 38,
   "value": [
     {
+      "path": "_news/2021-06-04-how-ai-is-addressing-the-enterprise-email-overload-problem.md",
+      "title": "How AI Is Addressing The Enterprise Email Overload Problem",
+      "excerpt": "AI-powered technology is helping businesses deal with their cluttered inboxes and better manage customer expectations.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/06/04/how-ai-is-addressing-the-enterprise-email-overload-problem/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/06/04/how-ai-is-addressing-the-enterprise-email-overload-problem/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f8a0c158094e05a83b59beb%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/06/04/how-ai-is-addressing-the-enterprise-email-overload-problem/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/06/04/how-ai-is-addressing-the-enterprise-email-overload-problem/amp/",
+      "publishedDateTime": "2021-06-04T04:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-04-beevision-a-dimensioner-provider-adds-exceptional-accuracy-and-reliability-with-microsofts-time-of-flight-technology-and-azure.md",
+      "title": "BeeVision, a dimensioner provider, adds exceptional accuracy and reliability with Microsoft's Time of Flight technology and Azure",
+      "excerpt": "D depth cameras have recently become the sought after technology for dimensioning systems and solutions that recognize parcels and pallets, yet accuracy remains a key challenge for these solutions. BeeVision,",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/beevision-a-dimensioner-provider-adds-exceptional-accuracy-and-reliability-with-microsoft-s-time-of-flight-technology-and-azure-1030494383",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/beevision-a-dimensioner-provider-adds-exceptional-accuracy-and-reliability-with-microsoft-s-time-of-flight-technology-and-azure-1030494383",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-04T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-04-indonesian-healthcare-startup-prixa-raises-3m-led-by-mdi-and-tptf.md",
+      "title": "Indonesian healthcare startup Prixa raises $3M led by MDI and TPTF",
+      "excerpt": "Indonesian healthcare startup Prixa has raised $3 million led by MDI Ventures and the Trans-Pacific Technology Fund (TPTF), with participation from returning investors including Siloam Hospitals Group.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/06/04/indonesian-healthcare-startup-prixa-raises-3m-led-by-mdi-and-tptf/",
+      "originalUrl": "https://techcrunch.com/2021/06/04/indonesian-healthcare-startup-prixa-raises-3m-led-by-mdi-and-tptf/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/06/GettyImages-1163656222.jpg?w=1024",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/06/04/indonesian-healthcare-startup-prixa-raises-3m-led-by-mdi-and-tptf/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/06/04/indonesian-healthcare-startup-prixa-raises-3m-led-by-mdi-and-tptf/amp/",
+      "publishedDateTime": "2021-06-04T03:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2021-06-04-local-governments-are-going-to-war-with-facial-recognition-technology.md",
+      "title": "Local governments are going to war with facial recognition technology",
+      "excerpt": "Local governments, including King county in Washington state, are passing laws to curb the use of facial recognition technology by law enforcement.",
+      "sourceUrl": null,
+      "webUrl": "https://qz.com/2016814/should-the-police-have-facial-recognition-tech/",
+      "originalUrl": "https://qz.com/2016814/should-the-police-have-facial-recognition-tech/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 189,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cms.qz.com/wp-content/uploads/2021/06/2021-01-20T153652Z_1_LYNXMPEH0J13Z_RTROPTP_4_CHINA-SECURITY-e1622773726474.jpg?quality=75&strip=all&w=1200&h=630&crop=1",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://qz.com/2016814/should-the-police-have-facial-recognition-tech/amp/",
+      "cdnAmpWebUrl": "https://qz-com.cdn.ampproject.org/c/s/qz.com/2016814/should-the-police-have-facial-recognition-tech/amp/",
+      "publishedDateTime": "2021-06-04T03:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Quartz",
+        "domain": "qz.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/qz.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-04-robotics-startup-addverb-technologies-in-advance-talks-to-raise-80-120-million.md",
       "title": "Robotics startup Addverb Technologies in advance talks to raise $80-120 million",
       "excerpt": "The Noida-based robotics startup plans to use the money to set up another manufacturing plant and also expand globally.",
@@ -978,187 +1176,6 @@
       ],
       "topics": [
         "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-04-biological-robots-may-soon-build-you-a-better-heart.md",
-      "title": "Biological Robots May Soon Build You a Better Heart",
-      "excerpt": "Computer scientists and biologists have teamed up to create a creature heretofore unseen on Earth: a living robot. Made from the cells of frogs and designed by artificial intelligence, they’re called xenobots,",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/news/videos/2021-06-03/biological-robots-may-soon-build-you-a-better-heart-video",
-      "originalUrl": "https://www.bloomberg.com/news/videos/2021-06-03/biological-robots-may-soon-build-you-a-better-heart-video",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i7OvZdWy0Khw/v5/-1x-1.jpg",
-          "width": 1594,
-          "height": 896,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-03T13:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-04-rights-groups-call-for-ban-of-invasive-face-recognition-tech.md",
-      "title": "Rights groups call for ban of ‘invasive’ face recognition tech",
-      "excerpt": "Facial recognition technology is used to screen people before they visit the Statue of Liberty in New York on May 25, 2002. The NYPD is facing calls to end its use of the technology, which rights ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.aljazeera.com/news/2021/6/3/rights-groups-call-for-ban-of-invasive-face-recognition-tech",
-      "originalUrl": "https://www.aljazeera.com/news/2021/6/3/rights-groups-call-for-ban-of-invasive-face-recognition-tech",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.aljazeera.com/wp-content/uploads/2021/06/2002-05-25T000000Z_466800404_RP3DRHZLFSAA_RTRMADP_3_ATTACK-NEW-YORK.jpg?resize=1200%2C630",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.aljazeera.com/amp/news/2021/6/3/rights-groups-call-for-ban-of-invasive-face-recognition-tech",
-      "cdnAmpWebUrl": "https://www-aljazeera-com.cdn.ampproject.org/c/s/www.aljazeera.com/amp/news/2021/6/3/rights-groups-call-for-ban-of-invasive-face-recognition-tech",
-      "publishedDateTime": "2021-06-03T12:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Al Jazeera English",
-        "domain": "aljazeera.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-04-acc-and-ge-healthcare-join-forces-to-advance-ai-in-cv-care.md",
-      "title": "ACC and GE Healthcare Join Forces to Advance AI in CV Care",
-      "excerpt": "The ACC and GE Healthcare are collaborating through support of and participation in ACC's Applied Health Innovation Consortium for the purpose of building a roadmap for Artificial Intelligence (AI) and digital technology in cardiology and developing new strategies for improved health outcomes.",
-      "sourceUrl": null,
-      "webUrl": "https://www.acc.org/latest-in-cardiology/articles/2021/06/03/13/26/acc-and-ge-healthcare-join-forces-to-advance-ai-in-cv-care",
-      "originalUrl": "https://www.acc.org/latest-in-cardiology/articles/2021/06/03/13/26/acc-and-ge-healthcare-join-forces-to-advance-ai-in-cv-care",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "http://www.acc.org/-/media/B97F2403D51746E1AEB17B5DA9C1B2C7.jpg",
-          "width": 600,
-          "height": 314,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-03T11:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "American College of Cardiology",
-        "domain": "acc.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-04-discover-the-power-of-your-sexuality-with-artificial-intelligence.md",
-      "title": "Discover The Power Of Your Sexuality With Artificial Intelligence",
-      "excerpt": "Chances are that you have an app tailored to improve pretty much every aspect of your life, from diet and exercise to state of mind. So why not do the same for your sexual well-being? [...]",
-      "sourceUrl": null,
-      "webUrl": "https://thewestsidegazette.com/discover-the-power-of-your-sexuality-with-artificial-intelligence/",
-      "originalUrl": "https://thewestsidegazette.com/discover-the-power-of-your-sexuality-with-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/prod-zenger-storage/image/16-9_9e9b8fb8-437d-4806-8695-be81d4eeb447.jpg?20210528102637",
-          "width": 1023,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-03T10:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Westside Gazette",
-        "domain": "thewestsidegazette.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }
