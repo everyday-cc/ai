@@ -110,20 +110,6 @@ related:
         width: 1024
         height: 576
         isCached: true
-  - title: "AT&T to run its mobility network on Microsoft's Azure for Operators cloud, delivering cost-efficient 5G services at scale"
-    excerpt: "AT&T will move its 5G mobile network to the Microsoft cloud. This strategic alliance provides a path for all of AT&T's"
-    publishedDateTime: 2021-06-30T14:35:00Z
-    webUrl: "https://tylerpaper.com/news/texas/at-t-to-run-its-mobility-network-on-microsofts-azure-for-operators-cloud-delivering-cost/article_0a6d929a-acfb-54f8-a2bd-cc00a1585be7.html"
-    type: article
-    provider:
-      name: Tyler Morning Telegraph
-      domain: tylerpaper.com
-    quality: 29
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/tylerpaper.com/content/tncms/assets/v3/editorial/d/72/d7298160-05b7-57c6-97bf-1f42d554bd54/60dc8b29a8cc7.image.jpg?resize=944%2C630"
-        width: 944
-        height: 630
-        isCached: true
 
 secured: "tDMsw62u+JuivTYQYw4mXdk9JAismbHh8RiH80NGpcOGQGbk0Z9Y28PgAseWqcIbfhAjbntXcUrqjjGZi8E5ivjEy8NUuu+YR4XmyFtgHEsT786yEQQCKZTecnkf8kQCKCN6yiekyevUDTcqYzDKAJZ8p8duW+fBtwDUM0+sc8ify8zC6M1TGbEio9tcJ2YJi7KV4thXiaoeEIuA8cVhuwfu4ux0GV3kvbGl4CuzTu0zEd9IQiEigjpcgRwpTi9lNx43DX9+JBd01XzJlXgJ/W0a7C12T0WdP0SLLN9TwuWYekWIvy7XSDK8v9pI8wCytjZvHdJZYr1WSFQSi7vxbj3NkrNC0ebOIWenj7yGDL1U4QB8YBB2OZOS6DzRfuluNt8kKlIWx1NFnHZT4sk3soQNyBL49F80BtYyZyChm0CD16RS6Qzm3TP/ds6GGs2WvC6Lq4uln+dxfWjp+LFt2nLnkFp2bTtxIHF7u6MYJ91ia1pgLkpscTXf5U6kYl07lGv8AVSMEHuSFV9KzXQUhQ==;oJPjF/pxxFg4URCksGG6iw=="
 ---

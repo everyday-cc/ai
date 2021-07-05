@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nasdaq.com/articles/att-t-to-move-5g-mobile-network-to-m
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/att-t-to-move-5g-mobile-network-to-microsoft-azure-2021-07-01?amp"
 type: article
 quality: 84
-heat: 154
+heat: 144
 published: true
 
 provider:
@@ -108,20 +108,6 @@ related:
       - url: "https://www.wraltechwire.com/wp-content/uploads/2020/11/cloud-computing-internet-of-things-e1605713015179-1024x576.png"
         width: 1024
         height: 576
-        isCached: true
-  - title: "AT&T to run its mobility network on Microsoft's Azure for Operators cloud, delivering cost-efficient 5G services at scale"
-    excerpt: "AT&T will move its 5G mobile network to the Microsoft cloud. This strategic alliance provides a path for all of AT&T's"
-    publishedDateTime: 2021-06-30T14:35:00Z
-    webUrl: "https://tylerpaper.com/news/texas/at-t-to-run-its-mobility-network-on-microsofts-azure-for-operators-cloud-delivering-cost/article_0a6d929a-acfb-54f8-a2bd-cc00a1585be7.html"
-    type: article
-    provider:
-      name: Tyler Morning Telegraph
-      domain: tylerpaper.com
-    quality: 29
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/tylerpaper.com/content/tncms/assets/v3/editorial/d/72/d7298160-05b7-57c6-97bf-1f42d554bd54/60dc8b29a8cc7.image.jpg?resize=944%2C630"
-        width: 944
-        height: 630
         isCached: true
 
 secured: "F3IqTzvqZASiIMy5UYLlwcZ73BbruBnIRnl73WM46XSCSPl7qBIhZ+1Uk4iWwT3toEPHH7PnCn6IAXZDnPqR5yjwPaA9N/uAiu6FWJ1TkuOp7QRSHSxH00NK9tnWKVBaOw/CrGjiaobvgo99d0Njbq0CVXxLMhy/bZmv5zfXnJ4qkLO2wF4qmQeRSPrP5QPGwiSondLF52ISy33agLGGQEIV+SimItuPirgwa4oers2L+6BRTePZAumi8vjsnI/rydSU9+L/aOc6Uxd2gFDA0HFTHeOPBdwOsCjC+j7h5LFQyedEMlnBFD5j3+A+ZzfCP9UOLsqwdiK9qweQYLVd/BUxWuJ7BuiKsTLiNgCN5kg=;fjVkmBqcLKSRf5ycDID1LQ=="

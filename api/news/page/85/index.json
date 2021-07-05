@@ -2,6 +2,281 @@
   "page": 85,
   "value": [
     {
+      "path": "_news/2021-05-04-drones-automatic-counting-tools-and-artificial-neural-networks-in-wildlife-population-censusing.md",
+      "title": "Drones, automatic counting tools and artificial neural networks in wildlife population censusing",
+      "excerpt": "In 96% of 343 cases, drone counting was successful. 18.8% of non-breeding birds and 3.6% of breeding birds exhibited adverse reactions: in the former, the birds were flushed, whereas the latter attempted to attack the drone.",
+      "sourceUrl": null,
+      "webUrl": "https://europepmc.org/article/PPR/PPR320228",
+      "originalUrl": "https://europepmc.org/article/PPR/PPR320228",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-03T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Europe PMC",
+        "domain": "europepmc.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-04-how-politicians-manipulate-the-masses-with-simple-ai.md",
+      "title": "How politicians manipulate the masses with simple AI",
+      "excerpt": "We’re three and a half years away from electing another president here in the US, but it’s never to early too prepare ourselves for the impending crapshow that is US politics. The good news is, going forward,",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/news/how-politicians-manipulate-the-masses-with-simple-ai",
+      "originalUrl": "https://thenextweb.com/news/how-politicians-manipulate-the-masses-with-simple-ai",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F05%2Fagenttrust.jpg&signature=be85b197ef827f35f98008aa6af9f9db",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-03T15:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-04-missouri-woman-discovers-wwii-military-device-in-her-backyard.md",
+      "title": "Missouri woman discovers WWII military device in her backyard",
+      "excerpt": "(CNN)A Missouri woman found more than weeds poking out of the soil in her yard this weekend. Pamela Coffey told CNN that she was just about to take lunch break from doing yard work on Saturday when she spotted a small metal object jutting out from the soil under her feet.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnn.com/2021/05/03/us/wwii-style-mortar-found-in-missouri-yard-trd/index.html",
+      "originalUrl": "https://www.cnn.com/2021/05/03/us/wwii-style-mortar-found-in-missouri-yard-trd/index.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210503200638-01-mortar-found-in-yard-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/05/03/us/wwii-style-mortar-found-in-missouri-yard-trd/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/03/us/wwii-style-mortar-found-in-missouri-yard-trd/index.html",
+      "publishedDateTime": "2021-05-03T15:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-04-artificial-intelligence-ai-in-bfsi-market.md",
+      "title": "Artificial Intelligence (AI) in BFSI Market",
+      "excerpt": "Allied Market Research published a new report titled Artificial Intelligence in BFSI Market By Offerings Hardware Software and Services Solution Chatbots Fraud Detection Prevention Anti Money Laundering Customer Relationship Management Data Analytics Prediction and Others Technology Deep Learning Querying Method",
+      "sourceUrl": null,
+      "webUrl": "https://www.openpr.com/news/2279151/artificial-intelligence-ai-in-bfsi-market-emerging-trends",
+      "originalUrl": "https://www.openpr.com/news/2279151/artificial-intelligence-ai-in-bfsi-market-emerging-trends",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.openpr.com/U/5/U503568929_g.jpg",
+          "width": 790,
+          "height": 466,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.openpr.com/amp/2279151/artificial-intelligence-ai-in-bfsi-market-emerging-trends",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2279151/artificial-intelligence-ai-in-bfsi-market-emerging-trends",
+      "publishedDateTime": "2021-05-03T12:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-04-undergraduates-explore-practical-applications-of-artificial-intelligence.md",
+      "title": "Undergraduates explore practical applications of artificial intelligence",
+      "excerpt": "SuperUROP scholars funded by the MIT Quest for Intelligence worked with faculty this past year exploring AI applications ranging from optimized scheduling to modeling ocean dynamics to improve climate model projections.",
+      "sourceUrl": null,
+      "webUrl": "https://news.mit.edu/2021/undergraduates-explore-practical-applications-artificial-intelligence-0503",
+      "originalUrl": "https://news.mit.edu/2021/undergraduates-explore-practical-applications-artificial-intelligence-0503",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://news.mit.edu/sites/default/files/images/202104/mit-superurops.png",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-03T12:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Massachusetts Institute of Technology",
+        "domain": "mit.edu",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/mit.edu-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning",
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-04-first-fleet-of-driverless-taxis-is-launching-in-beijing-with-rides-costing-460.md",
+      "title": "First fleet of driverless taxis is launching in Beijing with rides costing $4.60",
+      "excerpt": "Baidu's fleet of Apollo Go robotaxis started picking up passengers in Shougang Park on Sunday. These are the first paid autonomous cabs in China without a human behind the wheel.",
+      "sourceUrl": null,
+      "webUrl": "https://www.dailymail.co.uk/sciencetech/article-9537961/First-fleet-driverless-taxis-launching-Beijing-rides-costing-4-60.html?fbclid=IwAR2vXyMMGbSwijVt99hn79qVXzKONxgKxDhiuiUnObzTkGXQBOTFe-vVQo0",
+      "originalUrl": "https://www.dailymail.co.uk/sciencetech/article-9537961/First-fleet-driverless-taxis-launching-Beijing-rides-costing-4-60.html?fbclid=IwAR2vXyMMGbSwijVt99hn79qVXzKONxgKxDhiuiUnObzTkGXQBOTFe-vVQo0",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.dailymail.co.uk/1s/2021/05/03/16/42518182-0-image-a-9_1620055274466.jpg",
+          "width": 636,
+          "height": 382,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.dailymail.co.uk/sciencetech/article-9537961/amp/First-fleet-driverless-taxis-launching-Beijing-rides-costing-4-60.html",
+      "cdnAmpWebUrl": "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-9537961/amp/First-fleet-driverless-taxis-launching-Beijing-rides-costing-4-60.html",
+      "publishedDateTime": "2021-05-03T12:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Daily Mail",
+        "domain": "dailymail.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-04-how-the-ai-chips-market-will-be-valued-at-129-billion-by-2025.md",
       "title": "How the AI Chips Market will be Valued at $129 billion by 2025",
       "excerpt": "The AI chips market that is leveraging the data centres run by cloud providers is going to be estimated to grow to $129 billion in 2025. Here’s how industries will benefit from it.",
@@ -869,302 +1144,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-03-ai-rpa-and-machine-learning-how-are-they-similar-different.md",
-      "title": "AI, RPA, and Machine Learning – How are they Similar & Different?",
-      "excerpt": "AI, RPA, and machine learning confuse businesses in adopting the right disruptive technologies. Here’s a way to pick the right technology for business innovation.",
-      "sourceUrl": null,
-      "webUrl": "https://www.analyticsinsight.net/ai-rpa-and-machine-learning-how-are-they-similar-different/",
-      "originalUrl": "https://www.analyticsinsight.net/ai-rpa-and-machine-learning-how-are-they-similar-different/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/05/RPA.jpg",
-          "width": 900,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.analyticsinsight.net/ai-rpa-and-machine-learning-how-are-they-similar-different/?amp",
-      "cdnAmpWebUrl": "https://www-analyticsinsight-net.cdn.ampproject.org/c/s/www.analyticsinsight.net/ai-rpa-and-machine-learning-how-are-they-similar-different/?amp",
-      "publishedDateTime": "2021-05-03T05:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Analytics Insight",
-        "domain": "analyticsinsight.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2021-05-03-computer-vision-remains-an-untapped-opportunity-in-american-industry.md",
-      "title": "Computer Vision Remains An Untapped Opportunity In American Industry",
-      "excerpt": "When it comes to the usage of computer vision in heavy industry, most companies are still lagging in comparison to the consumer market.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/05/03/computer-vision-remains-an-untapped-opportunity-in-american-industry/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/05/03/computer-vision-remains-an-untapped-opportunity-in-american-industry/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60147aab5fc342ff1fe64b63%2F0x0.jpg",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/05/03/computer-vision-remains-an-untapped-opportunity-in-american-industry/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/05/03/computer-vision-remains-an-untapped-opportunity-in-american-industry/amp/",
-      "publishedDateTime": "2021-05-03T05:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-03-path-robotics-raises-56m-series-b-for-automated-welding.md",
-      "title": "Path Robotics raises $56M Series B for automated welding",
-      "excerpt": "The system uses scanning, computer vision and AI to adjust itself to different parts, understanding that sizing parts is a kind of imperfect science. Add to that the additional difficulty of ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/05/03/path-robotics-raises-56m-series-b-for-automated-welding/",
-      "originalUrl": "https://techcrunch.com/2021/05/03/path-robotics-raises-56m-series-b-for-automated-welding/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/rDmmWjKUt6g/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/05/03/path-robotics-raises-56m-series-b-for-automated-welding/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/05/03/path-robotics-raises-56m-series-b-for-automated-welding/amp/",
-      "publishedDateTime": "2021-05-03T05:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-05-03-re-humanizing-the-contact-center-with-ai.md",
-      "title": "Re-Humanizing The Contact Center With AI",
-      "excerpt": "In the end, it’s important to remember that the decisions you make now on your technology will impact you years down the line.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/05/03/re-humanizing-the-contact-center-with-ai/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/05/03/re-humanizing-the-contact-center-with-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60428b8f3fbc741bf8ae1c13%2F0x0.jpg",
-          "width": 737,
-          "height": 489,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/05/03/re-humanizing-the-contact-center-with-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/05/03/re-humanizing-the-contact-center-with-ai/amp/",
-      "publishedDateTime": "2021-05-03T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-03-the-us-navy-needs-missile-launchersa-cheap-robot-could-be-just-the-thing.md",
-      "title": "The U.S. Navy Needs Missile Launchers—A Cheap Robot Could Be Just The Thing",
-      "excerpt": "The U.S. Navy is about to lose a big chunk of the vertical missile cells that give it a firepower advantage over any potential foe.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/davidaxe/2021/05/03/the-us-navy-needs-missile-launchers-a-cheap-robot-could-be-just-the-thing/",
-      "originalUrl": "https://www.forbes.com/sites/davidaxe/2021/05/03/the-us-navy-needs-missile-launchers-a-cheap-robot-could-be-just-the-thing/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F608e3576c30e7b2753d53fa1%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D2244%26cropY1%3D114%26cropY2%3D1165",
-          "width": 1200,
-          "height": 562,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/davidaxe/2021/05/03/the-us-navy-needs-missile-launchers-a-cheap-robot-could-be-just-the-thing/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidaxe/2021/05/03/the-us-navy-needs-missile-launchers-a-cheap-robot-could-be-just-the-thing/amp/",
-      "publishedDateTime": "2021-05-03T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-03-industrialize-machine-learning-to-minimize-technical-debt.md",
-      "title": "Industrialize Machine Learning to Minimize Technical Debt",
-      "excerpt": "MLOps is not something you need in the future as you scale – you need it today. Build for speed and agility now, while minimizing the technical debt that will otherwise slow your organization down to a crawl later.",
-      "sourceUrl": null,
-      "webUrl": "https://thenewstack.io/industrialize-machine-learning-to-minimize-technical-debt/",
-      "originalUrl": "https://thenewstack.io/industrialize-machine-learning-to-minimize-technical-debt/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.thenewstack.io/media/2021/05/788b9ab5-alice-pasqual-olki5qphxts-unsplash-scaled.jpg",
-          "width": 2560,
-          "height": 1708,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-03T03:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "thenewstack.io",
-        "domain": "thenewstack.io",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

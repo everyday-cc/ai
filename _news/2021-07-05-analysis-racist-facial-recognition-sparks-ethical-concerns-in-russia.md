@@ -1,18 +1,24 @@
 ---
 category: news
-title: "ANALYSIS-'Racist' facial recognition sparks ethical concerns in Russia"
-excerpt: "Russian companies found offering race-detection tools * Rights activists say software 'purpose made for discrimination' * Facial recognition firms under pressure over ethical concerns TBILISI, July 5 (Thomson Reuters Foundation) - (Editor's note: contains offensive language and terms of racial abuse) From scanning residents' faces to let them into their building to spotting police suspects in a crowd,"
-publishedDateTime: 2021-07-05T01:00:00Z
-originalUrl: "https://news.trust.org/item/20210705014850-6gwm1"
-webUrl: "https://news.trust.org/item/20210705014850-6gwm1"
+title: "Analysis-'Racist' facial recognition sparks ethical concerns in Russia"
+excerpt: "From scanning residents’ faces to let them into their building to spotting police suspects in a crowd, the rise of facial recognition is accompanied by a growing chorus of concern about unethical uses of the technology."
+publishedDateTime: 2021-07-05T04:45:00Z
+originalUrl: "https://www.reuters.com/article/uk-russia-tech-race/analysis-racist-facial-recognition-sparks-ethical-concerns-in-russia-idUSKCN2EB0BC"
+webUrl: "https://www.reuters.com/article/uk-russia-tech-race/analysis-racist-facial-recognition-sparks-ethical-concerns-in-russia-idUSKCN2EB0BC"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN2EB0BC"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN2EB0BC"
 type: article
-quality: 36
-heat: -1
-published: false
+quality: 86
+heat: 106
+published: true
 
 provider:
-  name: Thomson Reuters Foundation
-  domain: trust.org
+  name: Reuters
+  domain: reuters.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Computer Vision
@@ -36,7 +42,21 @@ related:
         width: 612
         height: 408
         isCached: true
+  - title: "Reuters: ‘Racist’ facial recognition sparks ethical concerns in Russia"
+    excerpt: "From scanning residents’ faces to let them into their building to spotting police suspects in a crowd, the rise of facial recognition is accompanied by a growing chorus of concern about unethical uses of the technology."
+    publishedDateTime: 2021-07-05T06:30:00Z
+    webUrl: "https://www.kyivpost.com/eastern-europe/reuters-racist-facial-recognition-sparks-ethical-concerns-in-russia.html"
+    type: article
+    provider:
+      name: Kyiv Post
+      domain: kyivpost.com
+    quality: 56
+    images:
+      - url: "https://www.kyivpost.com/wp-content/uploads/2021/06/000_9CG8F7.jpg"
+        width: 1024
+        height: 697
+        isCached: true
 
-secured: "2L73bANuzAK7sN8SPuVDPLKBe4+U/41fSuUzncCQMJly5waBcIehiGjd7MU6vXCKKfnus6g+tMHd6M+f68zGfpSxgCFWykj6WSxH6ITUwyyhVF1VtEE9a8ivdgXcATtTWuwyMJ0sH48GLi81PVaQpsMebyWJDxhkpVohl59OUYBD8s9TKg0gffZ8j2AUx7REQ8JFcjOqX6F70M4aT7wBL/630UWS4sK2ccUwr9Ev1BN8hqNel1FhHnRSNAFLEH1LVhurZWpj1P8d5B2RH2G5m5FDwrGaMTu1OeI/n1ob0eOKtL8RlnIkQv5e/FuJiyR12e4y/w42UiQRTF0a1TCCWd1BErD6syf3Jl2K8qwYUNo=;4WRtLncZ4vhouJyZQZ/rmQ=="
+secured: "6+UTGOmfJmhWzYN3WLfxJtgBk0Cak/ApUswxVmmWMr183f404dqMKjcavIDZOt7YLOP36luZhSdo91c7MxW2y1vItSyo9cxnSHY902m/obq26+EEQMZNLfqDJ4KbRq/8iaEd3ZK651FGbfVEhMXhgfFbKXtmnmqA0+Fku6tu/r/Z9jmaRa254n10TIJAvG9mLicph9qSyS0OSndEPyPLLF8LvDYyg93wnR56eCLepgzXLU2SnimtiE7tMLkSgWpnPGiJ8pLta9NJ97gWtc/WAzn2OdI5eTwRdAmaGUQ6xwcuocgvbohEX/l+hiFUVY7qpW62d5k8koyL02lmkV1ehRTo7spjUPCUXq2szEdKm3E=;FMXgLfM4iHHui9SVwB5sFw=="
 ---
 

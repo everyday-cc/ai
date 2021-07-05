@@ -68,20 +68,6 @@ related:
       name: Medindia
       domain: medindia.net
     quality: 39
-  - title: "Machine learning helps in predicting when immunotherapy will be effective"
-    excerpt: "Our immune system is tasked with a key role - find and eliminate foreign invaders such as bacteria or viruses, but it also works to take out"
-    publishedDateTime: 2021-06-30T13:50:00Z
-    webUrl: "https://www.miragenews.com/machine-learning-helps-in-predicting-when-588026/"
-    type: article
-    provider:
-      name: Armed robbery in Revesby
-      domain: miragenews.com
-    quality: 38
-    images:
-      - url: "https://assets.tue.nl/fileadmin/_processed_/0/4/csm_RNAsequencing%20Eduati%20paper%20Patterns_43e0990261.jpeg"
-        width: 600
-        height: 360
-        isCached: true
 
 secured: "xUhDC1QZ5V7q8oIlo2C2rMmISBsVEjAtPH73QquatcWFR64IlBq3cyX1j/lcc0nQMDq6nWZGWgTtUYzzRhaIGXELsUdhQZamDWeAX2nLyp+V1OY3XdEvj91yvri5NqI5+87dwxxnXeSX+Emk8XgYsIOL9FsM0UylDqf8xIOfyqUGp3jTs+wiTKSARu18dIRI1sPQa8F3+XeWtiyfuZI7fvgh3gSVDULaxt/AbS8MH00bmO4aXyOX2SFVMAGqU/i2xohMLHZQW9YRbLDg3YYjGFJzi0ypIWQ0+X4nOT8mbeTCCrPoB1G3zg4gQ5F4OpZnvEsH2eSkc85PwMpr1GT2JiQEJ1POseb4vpLVJnH54zpVrcOIqTQg2PFz/magEBURodA06jCDv19uS+uR1dMad3HXGrVHPIP+u5I+2sZfxM7d/2oDlPqdGzpu8JsOZ68AekWhPOq6Vwi/w1QN6CyUOpFFihtSk2jbrix9GbUXGWeWjSmC/Za1CEnkQyXHvGDYmxprHgxXNhKTTh+dNsXW5Q==;IhQZkTIcSoDqCY0fD2X75Q=="
 ---

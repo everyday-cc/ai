@@ -9,7 +9,7 @@ ampWebUrl: "https://medicalxpress.com/news/2021-06-machine-immunotherapy-effecti
 cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-06-machine-immunotherapy-effective.amp"
 type: article
 quality: 58
-heat: 98
+heat: 88
 published: true
 
 provider:
@@ -67,20 +67,6 @@ related:
       - url: "https://www.genengnews.com/wp-content/uploads/2021/03/Getty_1185598172-T-celFfightingCancerCell.jpg"
         width: 1400
         height: 932
-        isCached: true
-  - title: "Machine learning helps in predicting when immunotherapy will be effective"
-    excerpt: "Our immune system is tasked with a key role - find and eliminate foreign invaders such as bacteria or viruses, but it also works to take out"
-    publishedDateTime: 2021-06-30T13:50:00Z
-    webUrl: "https://www.miragenews.com/machine-learning-helps-in-predicting-when-588026/"
-    type: article
-    provider:
-      name: Armed robbery in Revesby
-      domain: miragenews.com
-    quality: 38
-    images:
-      - url: "https://assets.tue.nl/fileadmin/_processed_/0/4/csm_RNAsequencing%20Eduati%20paper%20Patterns_43e0990261.jpeg"
-        width: 600
-        height: 360
         isCached: true
 
 secured: "6hWDLXXjVTY6RW7DMd2HrKbJHpP4a9g19tGT1JyAC5Mj6HdzqOkpAuJB9iAympuxlv2g/y0Scnm2bc2YgkBXfwgGTQv01bhdndoo13wZaEbxWHS4LvMzMNCtyEB8H5msy4dfd4USQ/AiuMFQ8PcI8l17S1teteO8ciD3EvY+P/8LkUx2EI+zL5RsBIKGY4EE1cUJQTKtK1hxma865XnJaDHExlyQO0whqMFnfes2VhYmwE8UyPVMmwd2kFxVoJ1hn6JL5R35Uaa/Ur5bcLcxJyyUSenF0TAyNE9UQdq4gV4jlqASMdPj1fuwhjXS3QlF8Uq3VN8eCVMfO6oBJOiatrKPk094a/P0PLQ57OYf3m411aPsHQO4lh8pmp9CQ+IkK3/MhkZaO9Nji6seYDvCacaZgKOj4MVoQHY9LqryZgzIT3behEcN94aGpgphB2SiuE3ryDjPGj9tTLKH+P2Ro1HYXdrewIqG643eboSSWv2PgbAKFt1/FSkotFVWDKUETub2yetLHlM9w3nfDK1J0g==;hEaYSKBgHxy0t2PKScMibQ=="

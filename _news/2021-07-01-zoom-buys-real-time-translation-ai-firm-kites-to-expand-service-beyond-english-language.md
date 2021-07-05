@@ -91,17 +91,6 @@ related:
         width: 600
         height: 338
         isCached: true
-  - title: "Zoom (ZM) to Acquire Real-Time Translation Specialist Kites"
-    excerpt: "Zoom Video ZM recently announced that the company has entered into a definitive agreement to acquire Karlsruhe Information Technology Solutions - Kites, GmbH, a start-up specializing in real-time machine translation."
-    publishedDateTime: 2021-06-30T14:15:00Z
-    webUrl: "https://www.nasdaq.com/articles/zoom-zm-to-acquire-real-time-translation-specialist-kites-2021-06-30"
-    ampWebUrl: "https://www.nasdaq.com/articles/zoom-zm-to-acquire-real-time-translation-specialist-kites-2021-06-30?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/zoom-zm-to-acquire-real-time-translation-specialist-kites-2021-06-30?amp"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 54
   - title: "Zoom acquires real-time translation AI company, Kites"
     excerpt: "Zoom has acquired a real-time Machine Translation solutions company, Kites which is short for Karlsruhe Information Technology Solutions."
     publishedDateTime: 2021-07-01T06:58:00Z

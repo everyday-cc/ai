@@ -2,9 +2,9 @@
 category: news
 title: "EXCLUSIVE Toyota-backed self-driving startup Pony.ai considers going public"
 excerpt: "FREMONT, California, June 25 (Reuters) - Self-driving tech company Pony.ai ... Pony.ai, founded by former Google and Baidu Inc (9888.HK) engineers Peng and Lou Tiancheng in 2016, has so far ..."
-publishedDateTime: 2021-06-25T10:14:00Z
-originalUrl: "https://www.reuters.com/business/autos-transportation/exclusive-toyota-backed-self-driving-startup-ponyai-considers-going-public-2021-06-25/"
-webUrl: "https://www.reuters.com/business/autos-transportation/exclusive-toyota-backed-self-driving-startup-ponyai-considers-going-public-2021-06-25/"
+publishedDateTime: 2021-06-25T11:06:00Z
+originalUrl: "https://www.reuters.com/article/autonomous-ponyai-ipo/exclusive-toyota-backed-self-driving-startup-ponyai-considers-going-public-idUSL3N2O70X9"
+webUrl: "https://www.reuters.com/article/autonomous-ponyai-ipo/exclusive-toyota-backed-self-driving-startup-ponyai-considers-going-public-idUSL3N2O70X9"
 type: article
 
 provider:
@@ -25,6 +25,6 @@ images:
     height: 628
     isCached: true
 
-secured: "W1cumtC3308Sh1WYYeos+suX2QG4OJ/5rAN/ayMCMr1049FpvcNOAbvBbo25TKhyM7HKmtNv+Hux4gaepD5Lq5JT/c9Q4+1OTAm2TSIC9sFd8WiSva3GVP84siY+Z63ce6KYE4TbUkUcedsl0XSGoIEwCNvOx8iQ0RKREJcFmEIZAZJCxt1tNjsODeSS5cw84uCWEurVxhtiBrp8wlz3HJZHUiVJkMkeiHCjIrAcc+X6gwBBZ9DVlUJ2KlqARUogv6zSCCosaqdcywqqnG9awhdyNaAHIs3zuxdexjffemKW12B/Spea8bOANhUIpnGTkYyVmBdyRz1SQsNGZE/dJan07vIm7rb1ZQ/7EHzJ+Rk=;/ZvqK+rA09aWlA2Fuv5K5g=="
+secured: "TZq52NmzO7LuHYuKYCaetx8bhhbv5I0oY9OYP3H3AgZfBBX96uxrVeLffSv/b24T5gmfGNDx2liebTaTvfw01VMKUmYpsEqe9b3rLEd577jQtopd/yaoj05rGIYDNNS71n6ZW4+zR3wBvxpqY6En8BXJAjOStbPXjWc8N43/gBfiuquHmwRK3Y4SCcx8euYqy1mKFgtc3dUjwslFHVmoXsOMBFe3sGscUbzd1/EuMmiEts2cqrpd7qP/jh8QDA797wJODNna010sqrAbIG6e5fIGy/yb/zeReNT8YSiwZrT1OYNhQNfJ/phgWKfdavnAIV8i7SCsNcqU1i1kOE46ST66XYbYj2KRyUIF/C5rZzo=;xD2PxYTle/OwaherXZH87A=="
 ---
 

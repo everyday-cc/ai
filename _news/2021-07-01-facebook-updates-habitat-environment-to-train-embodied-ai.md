@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/2021/06/30/facebook-updates-habitat-enviro
 webUrl: "https://ai.facebook.com/blog/habitat-20-training-home-assistant-robots-with-faster-simulation-and-new-benchmarks/"
 type: article
 quality: 167
-heat: 227
+heat: 187
 published: true
 
 provider:
@@ -28,54 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Facebook updates Habitat environment to train ’embodied AI’"
-    excerpt: "Facebook today announced Habitat 2.0, an updated version of its simulation environment, alongside new datasets and benchmarks."
-    publishedDateTime: 2021-06-30T14:30:00Z
-    webUrl: "https://venturebeat.com/2021/06/30/facebook-updates-habitat-environment-to-train-embodied-ai/"
-    ampWebUrl: "https://venturebeat.com/2021/06/30/facebook-updates-habitat-environment-to-train-embodied-ai/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/30/facebook-updates-habitat-environment-to-train-embodied-ai/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 93
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2020/08/facebook-dark-background.jpg?w=1200&strip=all"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "How Facebook's AI is training home robots to tackle the chores you hate"
-    excerpt: "One of those projects involves training robots to navigate home environments to better serve us, their future owners, and perform the chores we find most loathsome. Back in 2019, Facebook released AI Habitat,"
-    publishedDateTime: 2021-06-30T14:52:00Z
-    webUrl: "https://www.cnet.com/news/how-facebooks-ai-is-training-home-robots-to-tackle-the-chores-you-hate/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/how-facebooks-ai-is-training-home-robots-to-tackle-the-chores-you-hate/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/how-facebooks-ai-is-training-home-robots-to-tackle-the-chores-you-hate/"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 89
-    images:
-      - url: "https://www.cnet.com/a/img/BBft-ne9ESy8i7jcKxOE3_x5Y9M=/1200x630/2021/06/30/1ab793c0-0efb-48e1-a625-b8d434472c90/screenshot-2021-06-30-at-15-17-04.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Facebook and Matterport collaborate on realistic virtual training environments for AI"
-    excerpt: "To train a robot to navigate a house, you either need to give it a lot of real time in a lot of real houses, or a lot of virtual time in a lot of virtual houses. The latter is definitely the better option,"
-    publishedDateTime: 2021-06-30T14:31:00Z
-    webUrl: "https://techcrunch.com/2021/06/30/facebook-and-matterport-collaborate-on-realistic-virtual-training-environments-for-ai/"
-    ampWebUrl: "https://techcrunch.com/2021/06/30/facebook-and-matterport-collaborate-on-realistic-virtual-training-environments-for-ai/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/06/30/facebook-and-matterport-collaborate-on-realistic-virtual-training-environments-for-ai/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 84
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2021/06/matterport-hm3d.gif"
-        width: 800
-        height: 460
-        isCached: true
   - title: "Facebook says the use of AI should be regulated, not the tech"
     excerpt: "Artificial intelligence itself should not be targeted by regulators, but how it is used, Facebook's top executive developing the technology told AFP."
     publishedDateTime: 2021-07-01T09:08:00Z
@@ -105,20 +57,6 @@ related:
       - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/06/30/the-eus-data-protection-agencies-have-called-for.jpg"
         width: 1024
         height: 682
-        isCached: true
-  - title: "Facebook makes its Habitat virtual world AI training environment more interactive"
-    excerpt: "Facebook Inc.’s artificial intelligence research department today announced a major update to its AI Habitat simulator, a virtual environment that’s used to teach robots how to interact with the physical world."
-    publishedDateTime: 2021-06-30T14:30:00Z
-    webUrl: "https://siliconangle.com/2021/06/30/facebook-makes-habitat-virtual-world-ai-training-environment-interactive/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 36
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/06/habitat-2.0.png"
-        width: 1416
-        height: 793
         isCached: true
 
 secured: "zvJJ84dbBrbhqEueTW3nvbM1gw8M4CL5+AVaYqxxQkLoTr0pbQTt6EnAuC2STJUjr5+cJQVYH5NaVLcDjRJUO+BEuq4kxdaZIGimEyO5SwlYr7Xpf4FVquOM2KzazL/n1gcMYCdSkBDHbXng4WPVWXuEklXOuVsSdM6p5OjQaGao5eUW8FU+715TX3tlpX3LSlCXc5n6XOz7F4yDZKw0JLrIVJAS5iUVdtoyHxKzQqj2XLt9YTzkqU2r/kZ8n4/vPXJ87NDlaIa9V4iM5QX9fSaygV9BiuFPvF+laR2R78rr6tN9bshjV/hwwKy9WddhOgivZBbWWFHF8vUEBAXVCKDOanmD7gyJ9OC0f7xSF7MyKixx3MFapDt6MpblpNQz9XcM7S9x1zicabX3FrpjXgK7pT5LfVmDp0e57DXcx8guR49B+1Jp/3FL5Ne5lu56Py/zCDoKD9x1100hR3RC4AXTB0hQi44T5/JGNHSaXDFwBgEw+VUHFUsyAxRLa7RA6C2aAFaJh6eUpWAn9v6v66HuqgEEVGjl9ejs7OCNG2E=;bcSg3K5RLfizS6/3Nf6oqg=="

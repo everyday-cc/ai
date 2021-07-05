@@ -67,20 +67,6 @@ related:
         width: 1400
         height: 932
         isCached: true
-  - title: "Machine learning helps in predicting when immunotherapy will be effective"
-    excerpt: "Our immune system is tasked with a key role - find and eliminate foreign invaders such as bacteria or viruses, but it also works to take out"
-    publishedDateTime: 2021-06-30T13:50:00Z
-    webUrl: "https://www.miragenews.com/machine-learning-helps-in-predicting-when-588026/"
-    type: article
-    provider:
-      name: Armed robbery in Revesby
-      domain: miragenews.com
-    quality: 38
-    images:
-      - url: "https://assets.tue.nl/fileadmin/_processed_/0/4/csm_RNAsequencing%20Eduati%20paper%20Patterns_43e0990261.jpeg"
-        width: 600
-        height: 360
-        isCached: true
 
 secured: "AqYxWA8ByfoehQGz+5+GIFq4yh1gg0lCOflaPN85e42WXoceYobjpLTcpqAUEH5qUPDmXQq6WX06Yud/TQ5W+XkVNU3Takw5PN5q2tx1Q688wTHQTq9dh/ScIK8dMN+9ETqxd2IwAZh69OKlbh/9VJQ9jfx0ZBkLqnvuldlZQDVzdmFNZ+QtDsOlcpfaLZl9wstYXTXbNDgKoVPSNPMO6VmAZxexEZ1a9X9L15f0na0xrC8+VpAASMLZSL8DGvnvoOPVL04brTPLkUaFNQERwxAW5a7OXIneV7/WidS3Iy8yT6k6oz8TJXqbCg2ndcEwsJZMK+lVJCCDNG3ergUvns//wmJn8TmtVcmiYhu0JGZuRkcO/Z7D9OONDuIQShElllDqnA2xGC31kEKQHwaPp/wZnGXxm3Ca2CWeJtP+QQuNza+biVhYmQcm7tgHO5tN7cPPpACW55gAiV5K1wK+sM85D8cTScbcq4POVxJ49AD08tgqys3EziKNe3weKykhQiIz3VN37iiljYCFiaZRzA==;nDkovLkgoHRe4Et4MQHdVg=="
 ---

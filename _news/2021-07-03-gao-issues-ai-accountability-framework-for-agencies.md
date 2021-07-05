@@ -41,29 +41,6 @@ related:
         width: 1200
         height: 570
         isCached: true
-  - title: "$28M series B in hand, Syllable looks to revamp healthcare customer service with AI"
-    excerpt: "The startup offers healthcare organizations automated voice and text tools to answer patients' common questions online or over the phone. It plans to use the new funds to grow its team, scale its provider business and tackle new payer customers."
-    publishedDateTime: 2021-06-30T14:51:00Z
-    webUrl: "https://www.fiercehealthcare.com/tech/28m-series-b-hand-syllable-looks-to-revamp-healthcare-customer-service-ai"
-    type: article
-    provider:
-      name: Fierce Healthcare
-      domain: fiercehealthcare.com
-    quality: 48
-    images:
-      - url: "https://qtxasset.com/fiercehealthcare/1625018401/PatientonPhone.jpg?Z0SdoS72pXM389u8LS7x6RMoApSRF8uM"
-        width: 2121
-        height: 1414
-        isCached: true
-  - title: "Celential.ai Appoints Vice Presidents of AI And Sales; Expands Its AI-Powered Virtual Recruiter Service To Sales Recruiting"
-    excerpt: "Celential.ai names Xu Miao VP of AI and Brian Hollinger VP of Sales. It also expands its AI-powered Virtual Recruiter service to sales recruiting."
-    publishedDateTime: 2021-06-30T13:15:00Z
-    webUrl: "https://www.businesswire.com/news/home/20210630005482/en/Celential.ai-Appoints-Vice-Presidents-of-AI-And-Sales-Expands-Its-AI-Powered-Virtual-Recruiter-Service-To-Sales-Recruiting"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 8
 
 secured: "Dl+HFVnhWP/dP/VX7D2ZdzqZaG1ACUUB4uKIHE1vOFhyLcjD6eGf2eBdC3n9M9watQlkBx51Q0zJ03AjxCx1t5r2Gc0n5kEOQNjCN56XOG4PrP3Dpy4+sW+r4wJpSrK18dMDVq1lf0PHIHj/S49EiPGJXGLvI/wdT40bqH2cuUPaxUib9A+Sc7P6iQn32nCXBOJWICRBlSw36/NxcP/xb15R+jf/p2MAP2YcxSyi/s7kLhiKFHbckFP/qpv/wCrKbADYOplQfNJlkXS4hgrshNfEyrUVgq/9DL//snEDQStzsTZZfAL24Cyp6t6mOCwsrY6fXVtfb6IV8HTyZojz8Xgyy9egnDNOVKzFHRqnFBLzAlaDypIjtQ0R8F6z8gPw++ie7hY5yVMxy0RxSfCVwgiUw5jbG9vMK/yHD/KKskr0A5JAdwg7IoLQvF2Ijpf5KitioPKyZv7Dr5w8cX0QqY12dRe0P8/Ls3oBvwlsa9HaYsS+hipi2zn7YRWZZqcgDFvlN9N5JMP5nMvuqjmlBA==;MZg867jndMjfs16Q1VfHLg=="
 ---

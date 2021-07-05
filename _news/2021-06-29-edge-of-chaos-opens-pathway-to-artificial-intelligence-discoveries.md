@@ -1,25 +1,24 @@
 ---
 category: news
 title: "'Edge of chaos' opens pathway to artificial intelligence discoveries"
-excerpt: "Scientists at the University of Sydney and Japan's National Institute for Material Science (NIMS) have discovered that an artificial network of nanowires can be tuned to respond in a brain-like way when electrically stimulated."
-publishedDateTime: 2021-06-29T09:37:00Z
-originalUrl: "https://phys.org/news/2021-06-edge-chaos-pathway-artificial-intelligence.html"
-webUrl: "https://phys.org/news/2021-06-edge-chaos-pathway-artificial-intelligence.html"
+excerpt: "Some neuroscience theories suggest the human brain operates best 'at the edge of chaos'. Now scientists have found that keeping a nanowire network at the edge of becoming chaotic is the best state for it to produce useful signals to solve problems."
+publishedDateTime: 2021-06-29T16:14:00Z
+originalUrl: "https://www.sciencedaily.com/releases/2021/06/210629101157.htm"
+webUrl: "https://www.sciencedaily.com/releases/2021/06/210629101157.htm"
 type: article
 
 provider:
-  name: Phys.org
-  domain: phys.org
+  name: Science Daily
+  domain: sciencedaily.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
+  - Machine Learning
   - AI
 
-images:
-  - url: "https://scx2.b-cdn.net/gfx/news/2021/edge-of-chaos-opens-pa.jpg"
-    width: 514
-    height: 225
-    isCached: true
-
-secured: "r0p+jDkaxnyXf8TrZkVz0ozwv/T0FS6TR6Hvv/uKcv8MSDn2q24M56Ofc+VnqqD+n2X/jC+B0HPLhfjKe0bgkn8mVha8hyUoUah3fftk9dtBeTp3shSI8hNh0mdW1lHrnNKZYVNBtL6lyCrM42s1RZybxsBZiXMtzxcHrVIikuBRR1b3k/KZxrMx2ikJZrkNMkTELzCF1DSPJg44aGQy4oBxpfwEApiofo2BiC5PyQgjX9Njk/azd8mLh3f1yy2ukfIYDukR0iPn2itVPSplfDu3uUOFcrimmv4BwU4btKdDIB64WyLFdKqzgPbci0BRLD6m2/WA+ECNjCCLmAo/Mk+qtQf+FjM5L1b0PFYN4jw=;keH41VvYtYC2o4XV+Mh26A=="
+secured: "geTumK2l968DnKRMp5j3EWyNgUTwyEBrT5CJzmdiHnXV42eT4Emn/cWm6A10+gYAE4pnjeyUEXiDPVyGPxEVtLOb71DElFOVYkfesKPS64kr9XarBtihsA/6UylCo2yA/nkVLma5M7ZQVZZ9Lzkqnp7uY1cufTLqaOM4c8Zp/QnIGf5Ig7FyEHgef1Mn7rfRtZ6Bk/SzW47HkQSpY+Bqn/5kCgqusHgzrItL7WGML9g6ByI9ctwc/mf++dnX1ItGytR9FnWDArbBN1XbIEGg8+o7j3rwGVF+xtdsd8R9zNvdl4qd/IhXQA0ZjtmMGmMIauS7xukijslxKmBEWrXROaMZ+4tvdpuXzJ4eocjwbaU=;A7b1qLRlwLw5Y82Wyq74LA=="
 ---
 

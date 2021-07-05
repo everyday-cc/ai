@@ -104,20 +104,6 @@ related:
         width: 512
         height: 512
         isCached: true
-  - title: "WHO Report Targets AI in Health, Cautions Against Health Disparities"
-    excerpt: "The World Health Organization (WHO) released the first global report on artificial intelligence in healthcare and six principles to avoid health disparities in the field. The report, Ethics and governance of artificial intelligence for health,"
-    publishedDateTime: 2021-06-30T13:30:00Z
-    webUrl: "https://healthitanalytics.com/news/who-report-targets-ai-in-health-cautions-against-health-disparities"
-    type: article
-    provider:
-      name: Analytics
-      domain: healthitanalytics.com
-    quality: 39
-    images:
-      - url: "https://healthitanalytics.com/images/site/article_headers/_normal/GettyImages-943065376.jpg"
-        width: 690
-        height: 400
-        isCached: true
 
 secured: "NROi1P4MmsBrzIHWAIrsBets6po63WqWBjQgsTqa9LCH+PXTKYc6gjlG2bmhEUUf1calYW5EcOQdyeyJSsw0pghBbxmfSbDUuvPodgSNe0DL8Jo4uYCm+G+D9SQd1X2ggRlDeyiZ2H2NBYDTadyRAMAg2ViPBqPA4K2AUhvoABe1IYIK8oBSl5pXs0S0Gei0jtEtsdV8YdPYqVWSDvdVO4vhmItaEF7iMFwHm8/R0ZEZmIsDWycuqGw6whw2XGWRJv+qpN6IhXWZEuSFQdaCQbkfccLcwyR5RGyuk6SiS/eF+PK9mfBsX4IKl91X6amlHYhAhU+J9CEtm09CPNCVsaVR7qGv6f4lQQYyvLMNKLrwdbK1Lqc4en4xSCXXCiQIY+gz2iLPexeWWlGpu8dcDchnIzzDsH1XlHoq/fTubpCnZEQMcNqQVbdMhiQk8V0HYSHdzuGCspO/+OY/QEM5K6VnJrngXCgJ7sp8NUCxUEks4g2qyW4p4mwngiwO0uMAwSy3J85qV+HrurMJvlsslA==;p/uoX+WD35ArNRupoGF2hw=="
 ---

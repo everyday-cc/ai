@@ -1,20 +1,26 @@
 ---
 category: news
 title: "FIS Launches First in a New Series of AI-Enabled Risk Solutions with C3 AI for Financial Services Industry"
-excerpt: "The AML Compliance Hub leverages C3 AI’s advanced machine learning technology ... fast-moving challenges for the financial services sector, and the data necessary to identify financial crimes ..."
-publishedDateTime: 2021-06-17T12:06:00Z
-originalUrl: "https://www.businesswire.com/news/home/20210617005027/en/FIS-Launches-First-in-a-New-Series-of-AI-Enabled-Risk-Solutions-with-C3-AI-for-Financial-Services-Industry"
-webUrl: "https://www.businesswire.com/news/home/20210617005027/en/FIS-Launches-First-in-a-New-Series-of-AI-Enabled-Risk-Solutions-with-C3-AI-for-Financial-Services-Industry"
+excerpt: "FIS AML Compliance Hub is the first in a new line of AI-based solutions from FIS for capital markets firms. New solution uses artificial technology to aggregate and analyze client data across financial crime detection systems such as know your customer (KYC) and anti-money laundering (AML) to improve outcomes."
+publishedDateTime: 2021-06-17T09:41:00Z
+originalUrl: "https://financialit.net/news/artificial-intelligence/fis-launches-first-new-series-ai-enabled-risk-solutions-c3-ai-financial"
+webUrl: "https://financialit.net/news/artificial-intelligence/fis-launches-first-new-series-ai-enabled-risk-solutions-c3-ai-financial"
 type: article
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: Financial IT
+  domain: financialit.net
 
 topics:
   - AI in Finance
   - AI
 
-secured: "D/Gc/cp9I/7dqmmVbK2ORokglFvXzK8lptI1z7danLNdVFHI2kfzFWpmiClC7KPByozY0hMRckbIXe9q3lK6kxSe2NvGxrfXvPHleulG8Wn4PEvLVk8rQIDa8rYbNM+lGbiaqupNJ1QDd5uuyHtHsawGfJC4MEK5MtEWYkF3fjrfSw2dLM9v+lvAVjG73jREq9GfTvcMGJIkIXSCQ1uU3sTzd7Gjx4GCjflruH9axLfFcWfF4zNArtbgW5119jzbxzdc+VIgCvztbfVzbiEit56Lcy2C0v0t7CMQGXaRsQZ3QaiWv5xkG0KyeOOtaQU0AS6cTcXoeUbC8A4hW87x2UaVtgY1tnU6Y3ov2W1cxNc=;a5zXbuCfQfVuSkXaq82UPA=="
+images:
+  - url: "https://financialit.net/sites/default/files/new_fis_logo_0.jpg"
+    width: 1200
+    height: 627
+    isCached: true
+
+secured: "zvHxKGt0R7Wj+fWrMsAnJvx5ozAUJqfy9+vtjLf4mUiNFzTFPp+NXCtV7dTgjkTvBt+cqObHRszVydil2zSUuKgF5XUce8BG16437jEzFBLFofwNflKShHxTRuVaRdfLtkMH6k5v138gc2gbDELTNV/hikEWxelrQV80MvImKOVR9FHCrxXp0j+0oMF3HreimDwAIaPiCtshAvcTtndDwfQMKLM6oCGZquZWE+q9+ZOCvqmUckLU82DMGmmvo1hqOX+K/3/mBTCuVkCRVMzDVik91YVZNrRvu6aATWcsQUiS3hm17G46ocKN0uZ2Dy4DmURUCgLdLAk/f3kA2ibfyjMe7U5+5E4Jw1ExVcW78YA=;9Oq8EkDwTkDUTKde+jKcmQ=="
 ---
 

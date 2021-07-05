@@ -9,7 +9,7 @@ ampWebUrl: "https://www.theverge.com/platform/amp/2021/6/30/22557119/who-ethics-
 cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2021/6/30/22557119/who-ethics-ai-healthcare"
 type: article
 quality: 104
-heat: 164
+heat: 154
 published: true
 
 provider:
@@ -104,20 +104,6 @@ related:
       - url: "https://www.finextra.com/about/finextra-logo.png"
         width: 512
         height: 512
-        isCached: true
-  - title: "WHO Report Targets AI in Health, Cautions Against Health Disparities"
-    excerpt: "The World Health Organization (WHO) released the first global report on artificial intelligence in healthcare and six principles to avoid health disparities in the field. The report, Ethics and governance of artificial intelligence for health,"
-    publishedDateTime: 2021-06-30T13:30:00Z
-    webUrl: "https://healthitanalytics.com/news/who-report-targets-ai-in-health-cautions-against-health-disparities"
-    type: article
-    provider:
-      name: Analytics
-      domain: healthitanalytics.com
-    quality: 39
-    images:
-      - url: "https://healthitanalytics.com/images/site/article_headers/_normal/GettyImages-943065376.jpg"
-        width: 690
-        height: 400
         isCached: true
 
 secured: "ANFWJRmkiCSP4r3yzreKURmK2DxQApVQp3rsGUn5Lj/1opDq26Ku/2oYaRq7lZpidV5hvfOMpJdfynC8r6p5H9ks6xePUqVumaba1HxdZUWnJulDrgEHEMGoqsZqA2JhCvQbSYCLToVqIzZ0UND5P9+aBMY2P8ys9nxZrxAalmlBkZj3oCI8PscL4w5LoxRti/Bjh93R7VKcaFiwYiLux4hFqLOg2gLcDsf6GzAxYFekRQxx8Uiwe0Jfv/HlQe8fKytvrVwYqAAyNCojt3/cM2NgZa8B4yVY3A3jW6zDQAKF8dhbj+twJMr6nFmpHUmoxNAfJP9kGK6Pigb2ehJiWbWJ714+7BY8GTIY5Vo5vbKtQJLAuAuuh/QSfa5rIiPgJ4qJtfvhf/afjq4JivL8aWAe8hrRA18ZdmAa0DwDsZgwkk+1cJMbpJdXIJea4d5/BCa2KpcSratP66lk5LTwV0Iqi8ESYdejtipLe3nV0d2x3TA43QmVk0zp4k+waCAfAq9KVEfcWjgfyoM+LY0AJw==;q0zGqHP+WaS5a2K13Z0b0Q=="

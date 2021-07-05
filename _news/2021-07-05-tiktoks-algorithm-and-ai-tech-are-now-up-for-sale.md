@@ -44,21 +44,21 @@ related:
         width: 5000
         height: 3333
         isCached: true
-  - title: "ByteDance Selling TikTok AI To Companies Including In India"
-    excerpt: "China-based ByteDance which is the parent company of TikTok, has reportedly started selling the AI technology of the short video-making app to other companies, including in India where the app is banned."
-    publishedDateTime: 2021-07-05T05:04:00Z
-    webUrl: "https://odishatv.in/news/technology/bytedance-selling-tiktok-ai-to-companies-including-in-india-100654"
-    ampWebUrl: "https://odishatv.in/news/technology/bytedance-selling-tiktok-ai-to-companies-including-in-india-100654/amp"
-    cdnAmpWebUrl: "https://odishatv-in.cdn.ampproject.org/c/s/odishatv.in/news/technology/bytedance-selling-tiktok-ai-to-companies-including-in-india-100654/amp"
+  - title: "ByteDance selling TikTok AI to companies including in India"
+    excerpt: "China-based ByteDance which is the parent company of TikTok, has reportedly started selling the AI technology of the short video-making app to other c.."
+    publishedDateTime: 2021-07-05T07:15:00Z
+    webUrl: "https://telecom.economictimes.indiatimes.com/news/bytedance-selling-tiktok-ai-to-companies-including-in-india/84134593"
+    ampWebUrl: "https://telecom.economictimes.indiatimes.com/amp/news/bytedance-selling-tiktok-ai-to-companies-including-in-india/84134593"
+    cdnAmpWebUrl: "https://telecom-economictimes-indiatimes-com.cdn.ampproject.org/c/s/telecom.economictimes.indiatimes.com/amp/news/bytedance-selling-tiktok-ai-to-companies-including-in-india/84134593"
     type: article
     provider:
-      name: Odisha TV
-      domain: odishatv.in
+      name: India Times
+      domain: indiatimes.com
     quality: 59
     images:
-      - url: "https://images.odishatv.in/uploadimage/library/16_9/16_9_2/TikTok_1625460493.jpg"
-        width: 400
-        height: 225
+      - url: "https://etimg.etb2bimg.com/thumb/msid-84134593,imgsize-488272,width-800,height-434,overlay-ettelecom/bytedance-selling-tiktok-ai-to-companies-including-in-india.jpg"
+        width: 800
+        height: 434
         isCached: true
   - title: "ByteDance starts selling TikTok’s AI to other companies"
     excerpt: "ByteDance is selling some of the artificial-intelligence technology that powers its viral video app TikTok to websites and apps outside China, as it broadens its revenue streams ahead of a long-anticipated initial public offering."

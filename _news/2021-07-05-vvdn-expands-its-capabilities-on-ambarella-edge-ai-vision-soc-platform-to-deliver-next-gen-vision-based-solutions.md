@@ -36,7 +36,21 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 54
+  - title: "VVDN expands its capabilities on Ambarella edge AI vision"
+    excerpt: "The expansion also allows VVDN to address multiple-tier including high as well as mid-range requirements for smart camera solutions VVDN has gained expertis"
+    publishedDateTime: 2021-07-05T07:55:00Z
+    webUrl: "https://www.bignewsnetwork.com/news/270173971/vvdn-expands-its-capabilities-on-ambarella-edge-ai-vision"
+    type: article
+    provider:
+      name: Big News Network.com
+      domain: bignewsnetwork.com
+    quality: 39
+    images:
+      - url: "https://cdn.bignewsnetwork.com/ani1625463313.jpg"
+        width: 630
+        height: 420
+        isCached: true
 
-secured: "9cZNhb8ImNBJH4HCiwfJAabkN/JRkQ1+kRQTFwnDHoKJNMs4TScRNumBof/8H9TlLXAUOBCWDN08zgx/Ux853KKHcSEL7is2Li87bmjiISSG/sf377ZPfh/WSnPgtNUaloy2tUPWEtowhQvjqamiZK8iEHX/+ibyriK1H6K4EUZEOltPQ5jZOmsm6EUphkBl+12mDJ1heGbXWlNSCeQDItEBRWQHHUa3JRjCZ2pRtbXfy+6lxzs64aESUOMa6jCwbCc92YutNzyUFVdIrkvXhhQSJHHxqAYdJyZy6tIN2eD+jIoMuBvnxlylrqAMqhio+qnxJ3vSobe7iBbd7sptTOHpWrNCoGFdsYopdDC2ZwM=;Rq9JWjT+/GE5QtgpQLs+FQ=="
+secured: "gN7FCFupZRj7F52z48ONd7EaVuAB1WQHGw3t4//CYJN4hPvDKbFs3iP5n3Bitd41wTEjk9VTzsUHUh7Z8aOII8ErybJMEfCXFCN5L1VeMpKXfz4xdvnfR/lgNR6HOI2fhxdnsY1Cl42naz/0/CFdQphC7AZee4or8JNegcbtm5/R8q90uOMOLFJRC1abEvUQn85cS6GlkoM+gwBJn3qPe3Nkrk4ivY4X0B57uHHepcOb94KMZnG0g4fGG8fksRuhELs474DhWuAai2HDroh/U25jI6SDIMJFMlIl6TC4AJ1o9ETLP49BVjgkEYaE5/RgJYa+MQAzd+OVnFaaIwU7SwXBSvpIEVu4guO6UaTF3GVmvVJ4gruFk9fux7KQ3BcGlIMegdhIsmo1aaGLFzj7kFTYlbGtk7rUMjrwdOR2TBWeGydFZGNVjruz8QilQ+MlAq9FlgrsfApJXDWnvvpZze9X74yL/1I8Nuh0HU4iEaPLMBXKdFdmFeQgcFOUK3vjU2aGVIOV9Q3jx9V0sq9ePg==;HFzstzYBDydzE7BgFaLDeA=="
 ---
 

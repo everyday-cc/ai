@@ -1,29 +1,29 @@
 ---
 category: news
-title: "ByteDance Selling TikTok AI To Companies Including In India"
-excerpt: "China-based ByteDance which is the parent company of TikTok, has reportedly started selling the AI technology of the short video-making app to other companies, including in India where the app is banned."
-publishedDateTime: 2021-07-05T05:04:00Z
-originalUrl: "https://odishatv.in/news/technology/bytedance-selling-tiktok-ai-to-companies-including-in-india-100654"
-webUrl: "https://odishatv.in/news/technology/bytedance-selling-tiktok-ai-to-companies-including-in-india-100654"
-ampWebUrl: "https://odishatv.in/news/technology/bytedance-selling-tiktok-ai-to-companies-including-in-india-100654/amp"
-cdnAmpWebUrl: "https://odishatv-in.cdn.ampproject.org/c/s/odishatv.in/news/technology/bytedance-selling-tiktok-ai-to-companies-including-in-india-100654/amp"
+title: "ByteDance selling TikTok AI to companies including in India"
+excerpt: "China-based ByteDance which is the parent company of TikTok, has reportedly started selling the AI technology of the short video-making app to other c.."
+publishedDateTime: 2021-07-05T07:15:00Z
+originalUrl: "https://telecom.economictimes.indiatimes.com/news/bytedance-selling-tiktok-ai-to-companies-including-in-india/84134593"
+webUrl: "https://telecom.economictimes.indiatimes.com/news/bytedance-selling-tiktok-ai-to-companies-including-in-india/84134593"
+ampWebUrl: "https://telecom.economictimes.indiatimes.com/amp/news/bytedance-selling-tiktok-ai-to-companies-including-in-india/84134593"
+cdnAmpWebUrl: "https://telecom-economictimes-indiatimes-com.cdn.ampproject.org/c/s/telecom.economictimes.indiatimes.com/amp/news/bytedance-selling-tiktok-ai-to-companies-including-in-india/84134593"
 type: article
 quality: 59
 heat: -1
 published: false
 
 provider:
-  name: Odisha TV
-  domain: odishatv.in
+  name: India Times
+  domain: indiatimes.com
 
 topics:
   - Natural Language Processing
   - AI
 
 images:
-  - url: "https://images.odishatv.in/uploadimage/library/16_9/16_9_2/TikTok_1625460493.jpg"
-    width: 400
-    height: 225
+  - url: "https://etimg.etb2bimg.com/thumb/msid-84134593,imgsize-488272,width-800,height-434,overlay-ettelecom/bytedance-selling-tiktok-ai-to-companies-including-in-india.jpg"
+    width: 800
+    height: 434
     isCached: true
 
 related:
@@ -88,6 +88,6 @@ related:
         height: 808
         isCached: true
 
-secured: "6nHwN7KP0ht7RWIWXwYzG3nPKgheRfrdq47lI3CkSt/qsPzjAIahnng8oKi1nuDztfy1XHivxVnU1zxkMEpN23tyFEbhB39zsVKOISrNN7Y64grrYpqUKDHjTXYml46t/5DXz1Qbu4lEWmeWaGR2Tr0n/uxuMSLKaC0iIM6BeHcrABW4FLRoBW6FMUIOVH1rMB5WM+aoFSOr1f1aA+2uBSKRseVkeC9Nsan6MbyXSnvC62Yd+hDCUiwz1mYbojD384aY+htpVe1tJ6zmadj1KAZld/ENVwJLnMIVu5gfIWBZj+OEYg6UbpXuuPy1KZ9aswRBGcR0bDWd9EkSehzwwlJOCqsXqNAUOcxMoobN3lA=;RhyIiupNP9YzPhZnTWwBWQ=="
+secured: "TgM03yO8LGiIPen1pFv6Ri0CpNJDwu+E8TV+exMC0Nov9us3oLJiWYW9SL+rSMN7EsexTTw1pdtn+WXrTiVw7mxAvPBBSvQbi5UudUDyF+695D3Mo3lhvSGAgDTWpypDA337J5FzKpUb/25dDWkkOZldV8QMvGG/Zy0fMWAQoX2amfM2fDHTh6nhKMvHRub3Qp+ZWFw6cfsAgsBPkKMbO2wnarr0y0rgS9Ln1RWEJbIi4Stjr+zh6MG1EEZHvd06uX6Ny8hXrJnETwTJ/7Nxe0RAdo2dVDevRA1GUerU6mjSkskRzd9hHbFgEER1Sa9T5zeppDQrrhIObdoLS0SYObIqtjYPqo4vEL2ImpDyaek=;j0uKqc3aib8vS084OAcaSw=="
 ---
 

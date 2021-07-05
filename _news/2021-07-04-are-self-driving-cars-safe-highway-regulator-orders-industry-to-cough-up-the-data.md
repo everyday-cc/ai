@@ -26,22 +26,6 @@ images:
     height: 682
     isCached: true
 
-related:
-  - title: "Are self-driving cars safe? Highway regulator orders industry to cough up the data."
-    excerpt: "Manufacturers tout the safety and convenience of automated vehicles, but little useful data have been collected to demonstrate how safe they are."
-    publishedDateTime: 2021-06-30T13:57:00Z
-    webUrl: "https://bangordailynews.com/2021/06/30/national-business/are-self-driving-cars-safe-highway-regulator-orders-industry-to-cough-up-the-data/"
-    type: article
-    provider:
-      name: Bangor Daily News
-      domain: bangordailynews.com
-    quality: 18
-    images:
-      - url: "https://bdn-data.s3.amazonaws.com/uploads/2021/06/pexels-hassan-ouajbir-804128-min-scaled.jpg"
-        width: 2560
-        height: 1707
-        isCached: true
-
 secured: "oE73Np44hDZ3tBxzktITu9lOVol3ORf09VIo/Bm9K6lb6qA6ovHla8p9O/rIg/qzxvvNYezEE43lxUK3hvC6wq4vf8sna+1y3JYxRar5MVvySS3UgIenhhzunjVyzY6ZtKV0aY7JEO96mcChjTJ9iZ3W8tASG0I7Sgo2YgAuXEKNK7OH90fjZq3PZiumaZrtcVeAHFsEl+RUUHw+9IfXzRPVi3J54TG+DckCA2I4EM7Ar2M6iO5m6bcH2pOxUIgIa6rT5eYTc9adpn3C2pQdNAxSwv5HJS2XmpppPCRQqKqr1dJvjzIUFqFTSuAaUT9szXsgH0jsFSJD4ttIQ7pdX7y1ohI8Si67HPZbhLu13h0=;lUlzxrT/1nI5KFJnxAeMaQ=="
 ---
 
