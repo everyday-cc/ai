@@ -39,6 +39,20 @@ related:
         width: 960
         height: 540
         isCached: true
+  - title: "US government watchdog finds federal use of artificial intelligence poses threat to federal agencies and public"
+    excerpt: "The US Government Accountability Office (GAO) released a public report Tuesday stating that most federal agencies that use facial recognition technology systems are unaware of the 'privacy and"
+    publishedDateTime: 2021-07-05T11:59:00Z
+    webUrl: "https://www.jurist.org/news/2021/07/us-government-watchdog-finds-federal-use-of-artificial-intelligence-poses-threat-to-federal-agencies-and-public/"
+    type: article
+    provider:
+      name: Jurist
+      domain: jurist.org
+    quality: 17
+    images:
+      - url: "https://www.jurist.org/news/wp-content/uploads/sites/4/2019/10/facial_recognition_1572545155.png"
+        width: 1280
+        height: 1066
+        isCached: true
   - title: "Report Finds Widespread Use of Facial Recognition Technology by Federal Agencies Could Pose Privacy Risk"
     excerpt: "The report recommends that agencies track and assess the systems they use to mitigate the privacy and accuracy risks."
     publishedDateTime: 2021-07-01T15:26:00Z

@@ -64,15 +64,6 @@ related:
         width: 2405
         height: 1247
         isCached: true
-  - title: "Carro’s fintech arm launches financing plan for EVs, hybrid cars"
-    excerpt: "The GoGreen initiative allows private-hire vehicle drivers to enjoy lower interest rates as a reward for going green."
-    publishedDateTime: 2021-07-01T01:46:00Z
-    webUrl: "https://www.techinasia.com/carros-fintech-arm-launches-financing-plan-evs-hybrids"
-    type: article
-    provider:
-      name: Techinasia
-      domain: techinasia.com
-    quality: 34
   - title: "5 reasons your team should attend Fintech & Insurtech Live"
     excerpt: "Join us from 12th - 14th October 2021 for the ultimate Fintech & Insurtech event, streamed live from London’s Tobacco Dock"
     publishedDateTime: 2021-07-02T16:04:00Z

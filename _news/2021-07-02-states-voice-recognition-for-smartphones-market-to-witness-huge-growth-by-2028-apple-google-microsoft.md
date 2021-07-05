@@ -111,6 +111,24 @@ related:
       name: manometcurrent.com
       domain: manometcurrent.com
     quality: 28
+  - title: "Call Center AI Market May Set Huge Growth by 2026 | IBM, Google, Microsoft, Oracle"
+    excerpt: "The latest study released on the Global Call Center AI Market by AMA Research evaluates market size, trend, and forecast to 2026. The Call Center AI market study covers significant research data and proofs to be a handy resource document for managers,"
+    publishedDateTime: 2021-07-05T18:46:00Z
+    webUrl: "https://manometcurrent.com/call-center-ai-market-may-set-huge-growth-by-2026-ibm-google-microsoft-oracle/"
+    type: article
+    provider:
+      name: manometcurrent.com
+      domain: manometcurrent.com
+    quality: 28
+  - title: "Artificial Intelligence in Healthcare Market 2021 Updated Report || Top Players – Intel, IBM, Google, Microsoft, General Vision"
+    excerpt: "Artificial Intelligence in Healthcare Market 2021 Updated Report \\|\\| Top Players – Intel, IBM, Google, Microsoft, General Vision; Surgical Planning Software Market"
+    publishedDateTime: 2021-07-05T18:47:00Z
+    webUrl: "https://manometcurrent.com/artificial-intelligence-in-healthcare-market-2021-updated-report-top-players-intel-ibm-google-microsoft-general-vision/"
+    type: article
+    provider:
+      name: manometcurrent.com
+      domain: manometcurrent.com
+    quality: 27
   - title: "Deep Learning System Software Market Size and Growth to 2028 | Key Players – Microsoft, TRINT, NVIDIA, Google, IBM, Amazon Web Services"
     excerpt: "The Deep Learning System Software Market report forecasts promising growth and development for the period 2021-2028. The Deep Learning System Software market research report defines key statistical data presented in an organized format including graphs,"
     publishedDateTime: 2021-07-04T00:00:00Z
