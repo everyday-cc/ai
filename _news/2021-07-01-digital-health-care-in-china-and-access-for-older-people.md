@@ -49,20 +49,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "Google's Rise in Healthcare"
-    excerpt: "Google continues to dominate the search engine market in the U.S. Back in 2006, the company quietly began to explore potential business opportunities in the healthcare sector. The initial intention of Google Health was to create a repository of health records and data that would provide direct connections between doctors,"
-    publishedDateTime: 2021-07-01T00:12:00Z
-    webUrl: "https://www.medpagetoday.com/opinion/focusonpolicy/93368"
-    type: article
-    provider:
-      name: MedPage Today
-      domain: medpagetoday.com
-    quality: 39
-    images:
-      - url: "https://clf1.medpagetoday.net/media/images/93xxx/93368.jpg"
-        width: 1024
-        height: 576
-        isCached: true
 
 secured: "gFjmVYPqdUPLGo/t+ivx361RUs+trJMfyPqU5Pybn6WAhuPEzbajfMdbhbb5I778WHxvbUjw8x6cHMaAOHwlqvxZhlGyDgKtyJmCH18rmvtIiuaI9+dVPqeAcYXgWIAyYGk2+YyiwuPNMOQ8mg6UVgIelNXEmYBa9uJBP2jgmIUKmj3aWyCWXPWq6Q4zbaJoyztCyxNQU1WOUmROf5xT2Zk/vGvS14cG7J/H/wjBZ8CUlxq9yrwQLVFgolKRYBUDwdh9pW6/ssIWE0ms5oCst3lxTJq4eyd79GfSoW4qL/QM3NnM2njeZqjXg4mRpTK3cxs9eJQ08CllHV0iBtRuO6to4Lwj2f8hMkJFYJGtMlc=;Vr2O57mbr8XMXwhpAL/NDw=="
 ---

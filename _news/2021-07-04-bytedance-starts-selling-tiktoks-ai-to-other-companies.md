@@ -72,6 +72,22 @@ related:
         width: 5000
         height: 3333
         isCached: true
+  - title: "Viral TikTok Hack About Cleverly Parking Between The Lines Is Volatile Fodder For Human Drivers And For AI Self-Driving Cars"
+    excerpt: "Parking cars in lined parking lots can be an entirely frustrating task, which could be eased if we all parked in the same manner. Humans though are unlikely to abide by this rule, so maybe self-driving cars are the answer."
+    publishedDateTime: 2021-07-05T15:30:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2021/07/05/viral-tiktok-hack-about-cleverly-parking-between-the-lines-is-volatile-fodder-for-human-drivers-and-for-ai-self-driving-cars/"
+    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/07/05/viral-tiktok-hack-about-cleverly-parking-between-the-lines-is-volatile-fodder-for-human-drivers-and-for-ai-self-driving-cars/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/07/05/viral-tiktok-hack-about-cleverly-parking-between-the-lines-is-volatile-fodder-for-human-drivers-and-for-ai-self-driving-cars/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 60
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60de2cc2910d3a6aef446fdb%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1995%26cropY1%3D32%26cropY2%3D1154"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "ByteDance selling TikTok AI to companies including in India"
     excerpt: "China-based ByteDance which is the parent company of TikTok, has reportedly started selling the AI technology of the short video-making app to other companies, including in India where the app is banned."
     publishedDateTime: 2021-07-05T10:44:00Z

@@ -24,22 +24,6 @@ images:
     height: 400
     isCached: true
 
-related:
-  - title: "Artificial Intelligence used on Army operation for the first time"
-    excerpt: "The British Army has used Artificial Intelligence (AI) for the first time during Exercise Spring Storm, as part of Operation Cabrit in Estonia."
-    publishedDateTime: 2021-07-05T13:56:00Z
-    webUrl: "https://www.gov.uk/government/news/artificial-intelligence-used-on-army-operation-for-the-first-time"
-    type: article
-    provider:
-      name: gov.uk
-      domain: www.gov.uk
-    quality: 37
-    images:
-      - url: "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/image_data/file/125727/s960_Op_CABRIT_June_2021.jpg"
-        width: 960
-        height: 640
-        isCached: true
-
 secured: "Tq69TAgjQF5WhnAOieyM5wliadIvSRiVvPSsrJRNkbGlZgTKQOQJPfmnnJaWFisThj4NRpJ/yhrCJ60uuAYQxNnMTmrjzGp4u04c53y8ys6Orl2/y9rjQi/sQNuGGTE5MgIW2WofT7JviLmV1Mg+oDBc+Dc88chROzzFY99+WqjJhbVl56ICnSggaAlPDN9PiDmqmzJgXHSOaLe7koDf19hNy4WImkF+Ybtoja5LvV5iZjdk/dZzqhvNulkF3gBt5KMg+ADtOIU/4sf+FVSCffelggzXDu+5wjItVbIkVXDFzip5ZYszSfKBnj88vqrOSyvT4Q54cztBxuiPHG62dOFTwyvD2GqkRLHP+6Br6Xo=;VK5p5PU2VDNeA8emxQNzbw=="
 ---
 

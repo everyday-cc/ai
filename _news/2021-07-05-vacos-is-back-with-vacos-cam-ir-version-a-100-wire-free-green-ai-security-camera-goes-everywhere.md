@@ -1,22 +1,18 @@
 ---
 category: news
 title: "Vacos Is Back with Vacos Cam IR Version, a 100% Wire-Free Green AI Security Camera Goes Everywhere"
-excerpt: "Vacos today takes a tremendous bounce back with its latest smart AI gadget – Vacos Cam IR Version, a 100% wire-free AI sec"
-publishedDateTime: 2021-07-05T15:45:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/vacos-is-back-with-vacos-cam-ir-version-a-100-wire-free-green-ai-security-camera-goes-everywhere-1030578938"
-webUrl: "https://markets.businessinsider.com/news/stocks/vacos-is-back-with-vacos-cam-ir-version-a-100-wire-free-green-ai-security-camera-goes-everywhere-1030578938"
+excerpt: "Vacos today takes a tremendous bounce back with its latest smart AI gadget – Vacos Cam IR Version, a 100% wire-free AI security camera that meets customers' every security need while linking everything."
+publishedDateTime: 2021-07-05T15:49:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/2021/07/05/9402896.htm"
+webUrl: "https://www.tmcnet.com/usubmit/2021/07/05/9402896.htm"
 type: article
-quality: 70
-heat: 70
-published: true
+quality: 40
+heat: 40
+published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI
@@ -28,6 +24,6 @@ images:
     height: 246
     isCached: true
 
-secured: "frXvMhlctLmxrR+SSamhA5P9jkMj62XO4hBt3O7DlzoYHVKB0MdzFvvoaQEDMrCw25FGq4O9jv4UKpFNzoJbph5uQr19uo6AhAyt3i1cpP8ANAcSeqm5cI/RzG5KvFcCx6KNoevRFVvpN5cnDIUnaw2j4cfOFBFIFAXvn+gxRUjVgeSga5XWtBuzTilfGzvjXc1C5BHfeNt+hQewZVhmTR6PnLsz87TptU1LGpzpGqO5C7SLfElSuItwOZvk2et318T7C5GDNA6SH6b0HcagIN2cf8GbLtZgJMYRlljypeUbiy9KBiKRn6DRHU472r1PB4DYhwnUnOCQDtglJtrJxDM5aU0Sof8TDVBcxWZuCFE=;CvJkqpqp3R6oAidEkWehHQ=="
+secured: "1HS6SPyo9Zgkh0VW4fEo1LYKisT80MQ9c/8grHNkKRBUehfVwHv6jXeay5UZOiWrVRqC1GwJ1yXT6J9jjljt9UQNdyM20YbgI9AtmQnMKCy5kiZ5VwW4pJ0diWhEXxooK0G2R58QEBPStX7Brk2p1wgj09JvY9P3GL2DB08ouMaOcjr1x6/bZPKUCcE/jII8FNY1L4ChuwC4xuk5ZPOzBUFlYxfEWEag2MLUEzKC/EwJr/4cmC2u+AcnfuxgiS1lYin0ScB9v/HCS8KCpLC2zG6SmPrIxHAEK3+E4U4gcfCieQWtpVBS2OfdyBXBVBtkxLcus7nAINy994Dz934bzFwpvFkQita8usjfOBhNbcU=;cI1rCFyCz1wiKSCD/YjNrA=="
 ---
 

@@ -113,6 +113,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Mass produced 14nm chips the launchpad for China’s chipset industry"
+    excerpt: "Achieving mass production of 14nm chips will secure China’s place as a domestic chip producer at scale, says the deputy head of the country’s leading technology research centre."
+    publishedDateTime: 2021-07-05T17:37:00Z
+    webUrl: "https://developingtelecoms.com/telecom-business/partner-spotlight/11452-mass-produced-14nm-chips-the-launchpad-for-china-s-chipset-industry.html"
+    type: article
+    provider:
+      name: developingtelecoms.com
+      domain: developingtelecoms.com
+    quality: 39
+    images:
+      - url: "https://developingtelecoms.com/images/stories/Places/yangon_golden_hour_600.jpg"
+        width: 600
+        height: 450
+        isCached: true
   - title: "Global Enterprise Artificial Intelligence (AI) Market Size, Status and Forecast 2021-2027"
     excerpt: "Pages Report] Check for Discount on Global Enterprise Artificial Intelligence (AI) Market Size, Status and Forecast 2021-2027 report by QYResearch Group. Market Analysis and Insights: Global Enterprise Artificial Intelligence (AI)"
     publishedDateTime: 2021-07-03T08:55:00Z

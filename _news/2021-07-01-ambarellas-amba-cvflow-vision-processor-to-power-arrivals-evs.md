@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nasdaq.com/articles/ambarellas-amba-cvflow-vision-proces
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/ambarellas-amba-cvflow-vision-processor-to-power-arrivals-evs-2021-07-01?amp"
 type: article
 quality: 54
-heat: 74
+heat: 84
 published: true
 
 provider:
@@ -34,6 +34,20 @@ related:
       - url: "https://cdn.bignewsnetwork.com/ani1625463313.jpg"
         width: 630
         height: 420
+        isCached: true
+  - title: "VVDN and Ambarella Partner on Next-gen Vision-based Solutions"
+    excerpt: "VVDN Technologies is expanding its capabilities on Ambarella's edge AI vision SoC platform to design and manufacture next-gen vision-based solutions."
+    publishedDateTime: 2021-07-05T16:32:00Z
+    webUrl: "https://www.eetindia.co.in/vvdn-and-ambarella-partner-on-next-gen-vision-based-solutions/"
+    type: article
+    provider:
+      name: eetindia.co.in
+      domain: eetindia.co.in
+    quality: 24
+    images:
+      - url: "https://www.eetindia.co.in/wp-content/uploads/sites/4/2021/07/RAJ306001_10-landing.jpg?w=554&h=224&crop=1"
+        width: 554
+        height: 224
         isCached: true
   - title: "VVDN expands its capabilities on Ambarella edge AI vision SoC platform to deliver next-gen vision based solutions"
     excerpt: "VVDN Technologies, a premier electronic product engineering and manufacturing company, announces the expansion of its capabilities"

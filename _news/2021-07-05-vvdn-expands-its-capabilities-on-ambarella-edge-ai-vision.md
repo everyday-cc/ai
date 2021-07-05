@@ -36,6 +36,20 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 54
+  - title: "VVDN and Ambarella Partner on Next-gen Vision-based Solutions"
+    excerpt: "VVDN Technologies is expanding its capabilities on Ambarella's edge AI vision SoC platform to design and manufacture next-gen vision-based solutions."
+    publishedDateTime: 2021-07-05T16:32:00Z
+    webUrl: "https://www.eetindia.co.in/vvdn-and-ambarella-partner-on-next-gen-vision-based-solutions/"
+    type: article
+    provider:
+      name: eetindia.co.in
+      domain: eetindia.co.in
+    quality: 24
+    images:
+      - url: "https://www.eetindia.co.in/wp-content/uploads/sites/4/2021/07/RAJ306001_10-landing.jpg?w=554&h=224&crop=1"
+        width: 554
+        height: 224
+        isCached: true
   - title: "VVDN expands its capabilities on Ambarella edge AI vision SoC platform to deliver next-gen vision based solutions"
     excerpt: "VVDN Technologies, a premier electronic product engineering and manufacturing company, announces the expansion of its capabilities"
     publishedDateTime: 2021-07-05T14:00:00Z

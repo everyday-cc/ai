@@ -9,7 +9,7 @@ ampWebUrl: "https://electrek.co/2021/07/05/elon-musk-admits-self-driving-harder-
 cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/07/05/elon-musk-admits-self-driving-harder-than-he-thought-tesla-troll-missed-deadlines/amp/"
 type: article
 quality: 73
-heat: 83
+heat: 93
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Elon Musk Tells Dejected Tesla Owners Self-Driving Is Hard After Repeatedly Missing Deadlines"
+    excerpt: "Tesla owners are apparently losing their patience with CEO Elon Musk and his bold promises surrounding Full Self Driving (FSD). The feature is currently in beta, despite it being a $10,000 option on current Tesla vehicles."
+    publishedDateTime: 2021-07-05T14:11:00Z
+    webUrl: "https://hothardware.com/news/elon-musk-tells-tesla-owners-self-driving-is-hard-after-repeatedly-missing-deadlines"
+    ampWebUrl: "https://amp.hothardware.com/news/elon-musk-tells-tesla-owners-self-driving-is-hard-after-repeatedly-missing-deadlines"
+    cdnAmpWebUrl: "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/elon-musk-tells-tesla-owners-self-driving-is-hard-after-repeatedly-missing-deadlines"
+    type: article
+    provider:
+      name: HotHardware
+      domain: hothardware.com
+    quality: 48
+    images:
+      - url: "https://images.hothardware.com/contentimages/newsitem/55591/content/tesla_model_3_performance.jpg"
+        width: 708
+        height: 454
+        isCached: true
   - title: "Watch This Tesla Owner's DIY Robo-Charger Stick Its Landing"
     excerpt: "It's the kind of charging technology that Tesla CEO Elon Musk has teased before, but hasn't yet delivered. So let's take a look at Larson's charging setup to see what's going on under the hood. ➡️ You love badass cars."
     publishedDateTime: 2021-07-02T13:00:00Z

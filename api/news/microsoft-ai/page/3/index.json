@@ -2,6 +2,84 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-06-09-artificial-intelligence-ai-in-cancer-market-will-give-you-proven-results-research-methods-with-ibm-microsoft-nvidia-intel-ge-healthcare.md",
+      "title": "Artificial Intelligence (Ai) In Cancer Market Will Give You Proven Results | Research Methods With IBM, Microsoft, NVIDIA, Intel, GE Healthcare",
+      "excerpt": "In Cancer Market is growing at a 41.57% CAGR during the forecast period 2021-2027. The increasing interest of the individuals in this industry is that the major reason for the expansion of this market”.",
+      "sourceUrl": null,
+      "webUrl": "https://ksusentinel.com/2021/06/08/artificial-intelligence-ai-in-cancer-market-will-give-you-proven-results-research-methods-with-ibm-microsoft-nvidia-intel-ge-healthcare/",
+      "originalUrl": "https://ksusentinel.com/2021/06/08/artificial-intelligence-ai-in-cancer-market-will-give-you-proven-results-research-methods-with-ibm-microsoft-nvidia-intel-ge-healthcare/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ksusentinel.com/wp-content/uploads/2021/06/A2Z-Common1-1-4.png",
+          "width": 639,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-08T12:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Sentinel",
+        "domain": "ksusentinel.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-08-technological-advancements-to-play-a-key-role-in-growth-of-cognitive-computing-market.md",
+      "title": "Technological Advancements to Play a Key Role in Growth of Cognitive Computing Market",
+      "excerpt": "Some of the key players influencing the market Saffron Technology, Cognitive Scale, Microsoft Corporation ... The research on the Managed Security Services market focuses on mining out valuable ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.openpr.com/news/2300876/technological-advancements-to-play-a-key-role-in-growth",
+      "originalUrl": "https://www.openpr.com/news/2300876/technological-advancements-to-play-a-key-role-in-growth",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.openpr.com/amp/2300876/technological-advancements-to-play-a-key-role-in-growth",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2300876/technological-advancements-to-play-a-key-role-in-growth",
+      "publishedDateTime": "2021-06-08T08:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-08-bitvore-announces-integration-with-microsoft-azure-synapse-analytics.md",
       "title": "Bitvore Announces Integration With Microsoft Azure Synapse Analytics",
       "excerpt": "Bitvore, a leading provider of AI-powered intelligence for financial institutions, today announced that it has completed its integration with Microsoft Azure Synapse Analytics. Via the integration, customers can quickly and easily consume continuously updated Bitvore Cellenus datasets in Azure and integrate them with new and existing data sources to enhance predictive models and build augmented intelligence into their applications.",
@@ -1222,111 +1300,6 @@
         "Machine Learning",
         "AWS AI",
         "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-28-artificial-intelligence-ai-in-fintech-market-major-technology-giants-in-buzz-again-activeai-microsoft-narrative-science.md",
-      "title": "Artificial Intelligence (AI) in Fintech Market Major Technology Giants in Buzz Again | Active.Ai, Microsoft, Narrative Science",
-      "excerpt": "Global Artificial Intelligence (AI) in Fintech Market Report 2020 by Key Players, Types, Applications, Countries,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-fintech-market-major-technology-giants-in-buzz-again-activeai-microsoft-narrative-science-2021-05-28",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-fintech-market-major-technology-giants-in-buzz-again-activeai-microsoft-narrative-science-2021-05-28",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 93,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-28T07:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI",
-        "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2021-05-28-applied-ai-takes-the-spotlight-at-build-2021.md",
-      "title": "Applied AI takes the spotlight at Build 2021",
-      "excerpt": "Microsoft's growing push into higher-level services for applied AI and business scenarios was front and center at its Build event this week.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/05/27/applied-ai-takes-the-spotlight-at-build-2021/",
-      "originalUrl": "https://venturebeat.com/2021/05/27/applied-ai-takes-the-spotlight-at-build-2021/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/12/microsoft-azure.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/05/27/applied-ai-takes-the-spotlight-at-build-2021/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/27/applied-ai-takes-the-spotlight-at-build-2021/amp/",
-      "publishedDateTime": "2021-05-27T15:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

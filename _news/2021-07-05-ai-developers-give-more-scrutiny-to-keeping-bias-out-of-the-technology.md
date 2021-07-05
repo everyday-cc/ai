@@ -8,7 +8,7 @@ webUrl: "https://www.seattletimes.com/business/technology/using-ai-to-find-bias-
 ampWebUrl: "https://www.seattletimes.com/business/technology/using-ai-to-find-bias-in-ai/?amp=1"
 cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/technology/using-ai-to-find-bias-in-ai/?amp=1"
 type: article
-quality: 39
+quality: 41
 heat: -1
 published: false
 
@@ -19,6 +19,7 @@ provider:
 topics:
   - AI
   - AI Hardware
+  - AI Ethics
 
 related:
   - title: "POWER PLAYERS: 35 of Google's top decision-makers in Europe, covering everything from cloud computing to AI and Android"

@@ -50,6 +50,20 @@ related:
         width: 630
         height: 420
         isCached: true
+  - title: "VVDN and Ambarella Partner on Next-gen Vision-based Solutions"
+    excerpt: "VVDN Technologies is expanding its capabilities on Ambarella's edge AI vision SoC platform to design and manufacture next-gen vision-based solutions."
+    publishedDateTime: 2021-07-05T16:32:00Z
+    webUrl: "https://www.eetindia.co.in/vvdn-and-ambarella-partner-on-next-gen-vision-based-solutions/"
+    type: article
+    provider:
+      name: eetindia.co.in
+      domain: eetindia.co.in
+    quality: 24
+    images:
+      - url: "https://www.eetindia.co.in/wp-content/uploads/sites/4/2021/07/RAJ306001_10-landing.jpg?w=554&h=224&crop=1"
+        width: 554
+        height: 224
+        isCached: true
 
 secured: "K/PIH6Ytf2EA8efFrqP8P57gyyjDkt7kaSn+p2HLwht4xiAE6jFcK6fjVj0FBrulsuVEzzegY+KjbRkDwXnciE+0bB/QP/V4G4Onio4xpWfTwM+CzBmBptJcRsFQbfzVgRUpurc1suDqrwkLFtVNtniJwjvav1De2CceRTnlE3U/eUYIYvAikFUpmOI0qAUMV6jg4t3zxtLv7/mCO2MVFaNppT+kY7USfZWeGd3D3O2hmWXC7iOg8BaXs59Mdst9NJ6klUNkgs8052KY/QZeZTQdFyk39y/vzEObIclge/k2yItHW57cic7sPTHy3/+f0c2zO5voMYjTYZDdyyykPc3kMIA3TM6lXGTkGwE2+MM=;mZyDcGwocSMAhJoyQVNXww=="
 ---

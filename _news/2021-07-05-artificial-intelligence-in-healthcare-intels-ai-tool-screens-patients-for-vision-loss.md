@@ -9,7 +9,7 @@ ampWebUrl: "https://www.financialexpress.com/industry/technology/artificial-inte
 cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/industry/technology/artificial-intelligence-in-healthcare-intels-ai-tool-screens-patients-for-vision-loss/2283014/lite/"
 type: article
 quality: 85
-heat: 115
+heat: 105
 published: true
 
 provider:
@@ -42,20 +42,6 @@ related:
       - url: "https://analyticsindiamag.com/wp-content/uploads/2021/06/AIM-17.jpg"
         width: 1600
         height: 900
-        isCached: true
-  - title: "Google's Rise in Healthcare"
-    excerpt: "Google continues to dominate the search engine market in the U.S. Back in 2006, the company quietly began to explore potential business opportunities in the healthcare sector. The initial intention of Google Health was to create a repository of health records and data that would provide direct connections between doctors,"
-    publishedDateTime: 2021-07-01T00:12:00Z
-    webUrl: "https://www.medpagetoday.com/opinion/focusonpolicy/93368"
-    type: article
-    provider:
-      name: MedPage Today
-      domain: medpagetoday.com
-    quality: 39
-    images:
-      - url: "https://clf1.medpagetoday.net/media/images/93xxx/93368.jpg"
-        width: 1024
-        height: 576
         isCached: true
   - title: "Digital health care in China and access for older people"
     excerpt: "Digital medicine technology has been widely applied to support health care today.1 In China, the so-called Internet Plus health care is an emerging health service model with a cross-industry integration and application of information technologies,"

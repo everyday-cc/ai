@@ -35,6 +35,20 @@ related:
         width: 450
         height: 308
         isCached: true
+  - title: "Think You Could Win an Autonomous Car Race on an Artificial Intelligence Controlled Course?"
+    excerpt: "Most of us have played video race games with varying degrees of sophistication. But few have raced on artificial intelligence powered virtual autonomous vehicle track – until now."
+    publishedDateTime: 2021-07-05T17:42:00Z
+    webUrl: "https://www.plasticstoday.com/automotive-and-mobility/think-you-could-win-autonomous-car-race-artificial-intelligence-controlled"
+    type: article
+    provider:
+      name: Plastics Today
+      domain: plasticstoday.com
+    quality: 27
+    images:
+      - url: "https://www.plasticstoday.com/sites/plasticstoday.com/files/AdobeStock_136495346.jpeg"
+        width: 1540
+        height: 800
+        isCached: true
 
 secured: "LpufrGPIze0pR8Ddem8MuaCzW40M+2yb7GwQQjg3XH2ETRrVvWbBez8Q7iTToPOIrit0cZDS4SvQ1RLhnUsROsgF/m4LUvp0Yj8IRfsRWsbb5CTmRqwr0YXVu3gQWj/LA/5rwzSYZek23wKmjwrHq8EaqE5/1u7Tp5Z4SLabokHiZpx8oaolMv6A3oVsu7aShjImUhLEoPNq8w1cdB74h43qX49bm49Eu4fszuJu/4FWv+RSUXPH4i5L/G8tVAHKtA8yCmXigvTV3b+q49GPUuys4Wp3dv0LjATn1ZBdcXKFgOR3FFntPrc8zCk4J41q9kiwpajA3P4zt/o8jEqfOXjcWuJ8uPSM5hexMrObKbDuoj6PI0Mle6NxaOjE/pbmdr1GGfHkjFJA+rGL4loNeTvSfqy8mS2BGEpQWaL60ihczlquw5mf7a/30ITGxVpzj4gE6REmBwNUiB9Ugtw0CQBnoii3pDZLoG0jy9QwV5lDh3hFi7ED3eNjDT2+n0abYjJxXKFIZ/03k0uw27E6ZQ==;P6CLZxapE4MZViNaITNcsA=="
 ---

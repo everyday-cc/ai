@@ -102,6 +102,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Mass produced 14nm chips the launchpad for China’s chipset industry"
+    excerpt: "Achieving mass production of 14nm chips will secure China’s place as a domestic chip producer at scale, says the deputy head of the country’s leading technology research centre."
+    publishedDateTime: 2021-07-05T17:37:00Z
+    webUrl: "https://developingtelecoms.com/telecom-business/partner-spotlight/11452-mass-produced-14nm-chips-the-launchpad-for-china-s-chipset-industry.html"
+    type: article
+    provider:
+      name: developingtelecoms.com
+      domain: developingtelecoms.com
+    quality: 39
+    images:
+      - url: "https://developingtelecoms.com/images/stories/Places/yangon_golden_hour_600.jpg"
+        width: 600
+        height: 450
+        isCached: true
   - title: "Asia-Pacific Artificial Intelligence Market Growth 2021 to 2030, Global Industry Size, Recent Trends, Demand and Share Analysis with Top Key-Players"
     excerpt: "In a recent published report, Kenneth Research has updated the Asia-Pacific Artificial Intelligence Market report for"
     publishedDateTime: 2021-07-02T06:38:00Z

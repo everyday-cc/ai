@@ -35,6 +35,20 @@ related:
       name: PCQuest
       domain: pcquest.com
     quality: 39
+  - title: "Think You Could Win an Autonomous Car Race on an Artificial Intelligence Controlled Course?"
+    excerpt: "Most of us have played video race games with varying degrees of sophistication. But few have raced on artificial intelligence powered virtual autonomous vehicle track – until now."
+    publishedDateTime: 2021-07-05T17:42:00Z
+    webUrl: "https://www.plasticstoday.com/automotive-and-mobility/think-you-could-win-autonomous-car-race-artificial-intelligence-controlled"
+    type: article
+    provider:
+      name: Plastics Today
+      domain: plasticstoday.com
+    quality: 27
+    images:
+      - url: "https://www.plasticstoday.com/sites/plasticstoday.com/files/AdobeStock_136495346.jpeg"
+        width: 1540
+        height: 800
+        isCached: true
 
 secured: "5c3UJ+d8Q7prr8gCH7QP055rDUBBCeXNy2Mi2ynmUWie3mrXpLcyc/peopVx0P4VBdGL9vgM20Pndw6Ok/Xqlr68El2hFVuV0BpUBjsFU7vOabSd0px8cBJPjDKmNjKfxJIJKKBMkxwX4WZ1yqv56Bqf9bBvrXLSG0e1g6qHzO/q01iDQWnlpCaA9yb+rttvHEexVXBWqiMJG4x2V1EDxBGiELP9RY0nKD89E+6uSBYOythCTLtr+9hWyw5hOtfggNcXeEnT6n2i8aQJ5gfb2irBZq4R8weQVG1NTuskgkJeyM5QzhJTWbwfOpUvbJY8PWkr4+Tzt0lk0snMp8NLAEyVlavUv0wQo7kccEl4jX0=;TwjM83wi2IJlFlORyxlaQA=="
 ---
