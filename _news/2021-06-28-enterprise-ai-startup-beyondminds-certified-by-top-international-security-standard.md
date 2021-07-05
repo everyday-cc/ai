@@ -2,19 +2,19 @@
 category: news
 title: "Enterprise AI Startup BeyondMinds Certified by Top International Security Standard"
 excerpt: "BeyondMinds, an enterprise AI software provider delivering fully managed, production-grade AI solutions on top of its turnkey AI platform, today announced it has earned ISO 27001:2013. The certification,"
-publishedDateTime: 2021-06-28T15:00:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-enterprise-ai-startup-beyondminds-certified-top-international-security-/2021/06/28/9398829.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-enterprise-ai-startup-beyondminds-certified-top-international-security-/2021/06/28/9398829.htm"
+publishedDateTime: 2021-06-28T13:52:00Z
+originalUrl: "https://apnews.com/press-release/globe-newswire/business-technology-061006a8611cbe8746dba86f82b79b9c"
+webUrl: "https://apnews.com/press-release/globe-newswire/business-technology-061006a8611cbe8746dba86f82b79b9c"
 type: article
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI
   - AI in Security
 
-secured: "B+FKYseh+qRfK3mjwOL7PAK42Vqu3JZ9lZ/IE/3xs+xJ69K4mEcmITFN37QthBYIOL4oUbYnJ1aLpss8WPKtlFS0mAGb6hXrK/xJwpZthoIumGKGcmXsHoJTF9QU0ORcAwVzia5x82zkJ1VPI0uTMv0hQJpkko4Ud6jj+vePHg0Zc0tiGuaQ7qriCKb1BsMKiqGkp3/4vhkji401m4500OsRUvts5P85EeSAaezepANSZze4Ntjvc5KlJIN9WaySWKdwkfVOu72B+H4LLmog0zmMZlKM23K3hD4tfRrzOKPhzAqdb17LbOmnXz6UMg2I8GGJbnQH06tiwQab+KkWKgvMRLiSwfZM7n0QyNVxYVk=;GxCErT+Nnr6KuG87VbqkUw=="
+secured: "gUyjkP6WotGCnwr2RJzSWiarlmV/H+n3AJy7G5YZq9Idd9l2k7pSuzHIhpbO0RIteclLH6QGQ7dhLLmaGcv1aLzm0KrIEg7R4+Akd+ZkEt0Hdw9145+sXPB1n4BtHAIuFNR3rMVU7zXDu4s9zGCnkL24KwwJRrVtGK+ZRQr5voqOU0SBRbb9D1KCl1nGGuuX3cggbIN81jomDmPdqGI0pNtfrx9vh0GLiUCKS2ms2cDsSulEt0SSF1Ak5brBOLE5eh2ifC8hJT4CcgszzhGQ4gr5t5QmTC9HykI0ZTNcB6rrmsy6J3XfkkEooL1qudayQ2YmR5LhcmcVeskL0xv6t5fqQqtouV8hm7ZMbayOkWI=;UdXS1LFECxHC+ZKMSM36+A=="
 ---
 
