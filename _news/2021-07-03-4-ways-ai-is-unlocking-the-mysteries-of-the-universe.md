@@ -7,7 +7,7 @@ originalUrl: "https://thenextweb.com/news/4-ways-ai-unlocking-astronomy-mysterie
 webUrl: "https://thenextweb.com/news/4-ways-ai-unlocking-astronomy-mysteries-universe-syndication"
 type: article
 quality: 67
-heat: 127
+heat: 128
 published: true
 
 provider:

@@ -27,19 +27,21 @@ images:
     isCached: true
 
 related:
-  - title: "Facebook updates Habitat environment to train ’embodied AI’"
-    excerpt: "Facebook today announced Habitat 2.0, an updated version of its simulation environment, alongside new datasets and benchmarks."
-    publishedDateTime: 2021-06-30T21:30:00Z
-    webUrl: "https://ai.facebook.com/blog/habitat-20-training-home-assistant-robots-with-faster-simulation-and-new-benchmarks/"
+  - title: "Facebook wants to help train the robots that will take out your trash and unload your dishwasher"
+    excerpt: "The social media company released Habitat 2.0 to help researchers train household robots-to-be. By Daphne Leprince-Ringuet | July 1, 2021 -- 15:08 GMT (08:08 PDT) | Topic: Robotics Facebook has announced a new step in the company's journey towards achieving what it calls \"embodied AI\" – the technology that could one day enable robots to carry out tasks in mundane settings,"
+    publishedDateTime: 2021-07-01T08:08:00Z
+    webUrl: "https://www.zdnet.com/article/facebook-wants-to-help-train-the-robots-that-will-take-out-your-trash-and-unload-your-dishwasher/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/facebook-wants-to-help-train-the-robots-that-will-take-out-your-trash-and-unload-your-dishwasher/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/facebook-wants-to-help-train-the-robots-that-will-take-out-your-trash-and-unload-your-dishwasher/"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 167
+      name: ZDNet
+      domain: zdnet.com
+    quality: 76
     images:
-      - url: "https://scontent-sea1-1.xx.fbcdn.net/v/t39.2365-6/61379250_2289364931329348_7271871964229140480_n.jpg?_nc_cat=105&ccb=1-3&_nc_sid=ad8a9d&_nc_ohc=xPUwAqG-JogAX-qKKU7&_nc_ht=scontent-sea1-1.xx&oh=28797380cbde35757e3bdcc16805b3cf&oe=60E1CB5C"
-        width: 1848
-        height: 1112
+      - url: "https://www.zdnet.com/a/hub/i/2021/07/01/bb632da1-3378-41ff-845c-d07b3fe73671/gettyimages-1309871457.jpg"
+        width: 1200
+        height: 800
         isCached: true
 
 secured: "bw1xsACnu288d/ygqGeBXtBqSgVXOGiDrLxqKX+WcUR8e42q8j03PIbUsDJXnJv+lQR7xpHFvqY7cR6eyIsGrPbSmGUHbK72GoeNz3CZ7hKRmHhqs3vI6DOMA6o/BvvdwE87ntB886bseCwygWnHBT81gXrKVtusyXF1RMT2XOvBYe5kxaXK/d9bYSef9GQeTWWed/+2keWrerzhuRqMVO17MauMAKp+bEuRUJPxIjVjS8tx7pYGRC01cd4ulyZT7YZlYO4ixYeO9MmxfRzYUfp24yLoBNqWuhXluTJCnd+91eMmKXix6nObKAQDQBmHullmmRo/bGAqAN6x63pUU+kNsCi2UYOPhKUlsTTWP64=;Ueymjz3v6gr08pGlglycJg=="

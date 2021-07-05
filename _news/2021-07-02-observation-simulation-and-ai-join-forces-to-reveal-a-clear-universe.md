@@ -42,20 +42,6 @@ related:
         width: 1200
         height: 774
         isCached: true
-  - title: "AI for the detection and mitigation of advertising bias"
-    excerpt: "IBM Watson Advertising today announced a research initiative that will apply IBM's open source AI technology to better understand the prevalence of unwanted"
-    publishedDateTime: 2021-07-04T03:12:00Z
-    webUrl: "https://debatepost.com/celebrity/2021/07/04/ai-for-the-detection-and-mitigation-of-advertising-bias/"
-    type: article
-    provider:
-      name: debatepost.com
-      domain: debatepost.com
-    quality: 39
-    images:
-      - url: "https://debatepost.com/wp-content/uploads/2021/07/AI-for-the-detection-and-mitigation-of-advertising-bias.jpg"
-        width: 600
-        height: 300
-        isCached: true
 
 secured: "ECgC/OTg5Q0BUlcsYsum8ysqhGrLnJAqntghnuoRaoM5nMPKlCCvFT9HiosnmQ7d6qYUqUuENLw0/bNVHi6CorfvuNoqjpIj8qlHCmfe575oR+N0ExnfIIVsxGOVulRCodkoVzNvrlemYgtX8d7/335JSfWwa5Pk2OApXqWXEUOZfR8hhDcrd/729ZbL5EuZujNGqR62EcafxNHjPNOh1bMkoe4HALMSO9nn9yulSTIi1XFih9UoL7E4N0Hxm4gtJjyPS7wBRz4sSws2B7XE8QivEv05Y752E7A32pk5DOdLF8/8TJkWtXXxLC75kWUvFbpk9PjuUkVw85Sgh2p5pDrTwkWTrxV6SFUUz4jl3bstD46yK5ASHVMehe8Adc1Oqa5m5q+6SkkCQq2zlFXD29RLSpXdjpOVds+6JQGLGcbeEhM/8vJgnXxNlE2UTRJioMutbhyusEkzyCYZ5gs9fkGByhwDM7FeVxsrTo2XwWhSecVI6ov0coc8Fwfc5/wc6m90i9EjF3TYGd2j+KQadA==;9pt2G72zQak33Lm60Ao7uQ=="
 ---

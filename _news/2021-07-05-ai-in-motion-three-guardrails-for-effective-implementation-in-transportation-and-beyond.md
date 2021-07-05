@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbescommunicationscouncil/2021/07/05/
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescommunicationscouncil/2021/07/05/ai-in-motion-three-guardrails-for-effective-implementation-in-transportation-and-beyond/amp/"
 type: article
 quality: 77
-heat: 97
+heat: 87
 published: true
 
 provider:
@@ -46,21 +46,7 @@ related:
         width: 2880
         height: 2035
         isCached: true
-  - title: "AI for the detection and mitigation of advertising bias"
-    excerpt: "IBM Watson Advertising today announced a research initiative that will apply IBM's open source AI technology to better understand the prevalence of unwanted"
-    publishedDateTime: 2021-07-04T03:12:00Z
-    webUrl: "https://debatepost.com/celebrity/2021/07/04/ai-for-the-detection-and-mitigation-of-advertising-bias/"
-    type: article
-    provider:
-      name: debatepost.com
-      domain: debatepost.com
-    quality: 39
-    images:
-      - url: "https://debatepost.com/wp-content/uploads/2021/07/AI-for-the-detection-and-mitigation-of-advertising-bias.jpg"
-        width: 600
-        height: 300
-        isCached: true
 
-secured: "UgVXK9VRjWyxk/gR7UDrrTJNSX2gUbw8XmRjENH6ngQi5IyH/wBE47PxRn0SqcBwLCfLcx2yejoaWTLeeUUsCFmLgqjGHm6tZ9drUlZNo+l7dGnW6PM8Kaqml9uIyGTmksrE1Z/bHzSIq5ErMMY3UxgEuyAaeClWTldzDqowIKDP5xdP4A6gsTifNh8zZlSJInqfUVp+FyaeV7AohDQAhLnh4LQHj9AbyugJv+A8lrsoMSq+1rgWQ/6BzQUQm1sluSVouoqoOlSbeMe9NHqEjZAmKgDnTzyc+X6A0vP8hAu3nPJVZvszaaTua9ie1l03rW+hrwEj0KE8rG6X3nQY1AcLwqy6ubH+tXp/FbZHpTs=;VgidrN07l272wUiKQQTWkw=="
+secured: "sTdN4lKQIOuivsCMQjHx4jAnKD2f2NlC5B1p7TFWP+i77Kuu6C6hjjTxP28H1zPDcjkubcZeTyd3tVGyeDY/N22fNkPyqTeCnLr95/zlGPlml4zGT2rh2QmYSi+erH4/6vKCqWDNEsM4MY2FBm3QZLsF0NIS6vjLqsV3mhj/thLubISA9rOIxKX82qQ+g8PPcmjUkP9TukIWTnmrrMplN9RlDazRTIRCmbVLDvS1pyRAQd+IXSVOdG2KzB0D2eTCPupOthY3V1vZmsxR6Mh6U5Cgoe52e3c8utUikhy+tmahcyB6HTATgnmIIYboirvmYN3j6+VQ6aqWLOUSpdjPOL5cLYEVdpjJv1/3udg8jcOajIxOD2FUHRayavy/VCfD7GVZs0Rusxwn/oi725qkHB6if7THGsREMFjTzQZf2ctNbu4Q/E5jCYeM0pKA6mQbkeasHAM4uEWAhfZrxmSx7gZoiSx7Gzp3rAlGihC9IvNyrxpVUxSleQadcgbDesTEtqiFw5vC1nUVrQ5X1RXyCQ==;q8KQu9v7H9G1K9ewdMLh6g=="
 ---
 

@@ -9,8 +9,8 @@ ampWebUrl: "https://gizmodo.com/tiktoks-algorithm-and-ai-tech-are-now-up-for-sal
 cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/tiktoks-algorithm-and-ai-tech-are-now-up-for-sale-1847228950/amp"
 type: article
 quality: 87
-heat: 137
-published: true
+heat: -1
+published: false
 
 provider:
   name: Gizmodo
@@ -30,6 +30,22 @@ images:
     isCached: true
 
 related:
+  - title: "ByteDance is selling TikTok's AI platform to other companies"
+    excerpt: "The artificial intelligence (AI) technology that powers the popular social media platform TikTok has been put on sale by parent company ByteDance. The Beijing-based company has spun off a new division called BytePlus with the aim of reportedly selling TikTok’s AI-powered tech to customers looking to replicate the video sharing platform's success in their ecommerce apps and services."
+    publishedDateTime: 2021-07-05T14:56:00Z
+    webUrl: "https://www.techradar.com/in/news/bytedance-is-selling-tiktoks-ai-platform-to-other-companies"
+    ampWebUrl: "https://www.techradar.com/in/amp/news/bytedance-is-selling-tiktoks-ai-platform-to-other-companies"
+    cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/in/amp/news/bytedance-is-selling-tiktoks-ai-platform-to-other-companies"
+    type: article
+    provider:
+      name: TechRadar
+      domain: techradar.com
+    quality: 87
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/MWdebHvxdtGGoWY2BeBH5B-480-80.jpg"
+        width: 480
+        height: 270
+        isCached: true
   - title: "TikTok's AI is being sold to other companies"
     excerpt: "TikTok's AI is no longer a secret — in fact, it's now on the open market. The Financial Times has learned that parent company ByteDance quietly launched a BytePlus division that sells TikTok technology,"
     publishedDateTime: 2021-07-04T18:30:00Z
@@ -75,6 +91,22 @@ related:
       - url: "https://static.toiimg.com/photo/msid-65197100/65197100.jpg"
         width: 400
         height: 400
+        isCached: true
+  - title: "TikTok AI being sold to various companies including in India: Here's what it means"
+    excerpt: "ByteDance has reportedly started selling the AI technology of the TikTok app to other companies, including in India where the app is banned."
+    publishedDateTime: 2021-07-05T08:44:00Z
+    webUrl: "https://www.indiatvnews.com/technology/news-tiktok-ai-being-sold-to-various-companies-india-716955"
+    ampWebUrl: "https://www.indiatvnews.com/amp/technology/news-tiktok-ai-being-sold-to-various-companies-india-716955"
+    cdnAmpWebUrl: "https://www-indiatvnews-com.cdn.ampproject.org/c/s/www.indiatvnews.com/amp/technology/news-tiktok-ai-being-sold-to-various-companies-india-716955"
+    type: article
+    provider:
+      name: India TV
+      domain: indiatvnews.com
+    quality: 53
+    images:
+      - url: "https://resize.indiatvnews.com/en/resize/newbucket/1200_-/2021/07/tiktok-1625474625.jpg"
+        width: 1200
+        height: 676
         isCached: true
   - title: "ByteDance selling TikTok AI to companies"
     excerpt: "China-based ByteDance which is the parent company of TikTok, has reportedly started selling the AI technology of the short video-making app to other companies, including in India where the app is banned."

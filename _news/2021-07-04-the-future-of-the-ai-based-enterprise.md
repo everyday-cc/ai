@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techradar.com/amp/news/the-future-of-the-ai-based-enterp
 cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/the-future-of-the-ai-based-enterprise"
 type: article
 quality: 89
-heat: 139
+heat: 149
 published: true
 
 provider:
@@ -62,6 +62,22 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60df804c62086a5727aa4e5b%2F0x0.jpg"
         width: 1200
         height: 800
+        isCached: true
+  - title: "The Role of Enterprises: Is Artificial Intelligence (AI) Taking Away Jobs?"
+    excerpt: "It has been the rule of nature and society that when the application of technologies like Artificial Intelligence in the workforce or daily lifestyle"
+    publishedDateTime: 2021-07-05T14:32:00Z
+    webUrl: "https://fossbytes.com/artificial-intelligence-ai-taking-away-jobs-enterprise/"
+    ampWebUrl: "https://fossbytes.com/artificial-intelligence-ai-taking-away-jobs-enterprise/amp/"
+    cdnAmpWebUrl: "https://fossbytes-com.cdn.ampproject.org/c/s/fossbytes.com/artificial-intelligence-ai-taking-away-jobs-enterprise/amp/"
+    type: article
+    provider:
+      name: Foss Bytes
+      domain: fossbytes.com
+    quality: 70
+    images:
+      - url: "https://fossbytes.com/wp-content/uploads/2021/07/ai-taking-over-more-jobs-in-us-2019.jpeg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "The future of online shopping gets real with AI and machine learning"
     excerpt: "Learn how AI and machine learning have starring roles in the future of online shopping and what retailers need to do to adapt."

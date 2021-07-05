@@ -9,7 +9,7 @@ ampWebUrl: "https://www.medindia.net/amp/news/artificial-intelligence-reveals-ho
 cdnAmpWebUrl: "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/artificial-intelligence-reveals-how-young-you-look-after-facelift-surgery-202032-1.htm"
 type: article
 quality: 60
-heat: 60
+heat: 61
 published: false
 
 provider:

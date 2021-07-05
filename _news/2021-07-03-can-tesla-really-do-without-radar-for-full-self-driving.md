@@ -47,6 +47,20 @@ related:
         width: 1200
         height: 602
         isCached: true
+  - title: "Tesla’s AI chief: Self-driving cars don’t need LiDAR"
+    excerpt: "Tesla has been a vocal champion for the pure vision-based approach to autonomous driving, its chief AI scientist Andrej Karpathy explained why."
+    publishedDateTime: 2021-07-05T13:40:00Z
+    webUrl: "https://thenextweb.com/news/tesla-ai-chief-explains-self-driving-cars-dont-need-lidar-syndication"
+    type: article
+    provider:
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 86
+    images:
+      - url: "https://img-cdn.tnwcdn.com/image/shift?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F07%2FTeslahed.jpg&signature=b7f31a3678104e26e5bfdcca0a02aee5"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Tesla AI Chief Says Self-Driving Cars Don't Need Lidar"
     excerpt: "Tesla's Chief AI Scientist Andrej Karpathy explained why at this year's Computer Vision and Pattern Recognition (CVPR) conference. \"It's unscalable to collect, build, and maintain these high-definition lidar maps,"
     publishedDateTime: 2021-07-01T18:17:00Z

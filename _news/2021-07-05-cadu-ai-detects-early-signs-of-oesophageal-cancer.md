@@ -56,6 +56,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Detecting oesophageal cancer with AI"
+    excerpt: "Experts at UCL and spinout company Odin Vision working with clinicians at UCLH have used artificial intelligence (AI) to help detect early signs of oesophageal cancer."
+    publishedDateTime: 2021-07-05T14:45:00Z
+    webUrl: "https://medicalxpress.com/news/2021-07-oesophageal-cancer-ai.html"
+    ampWebUrl: "https://medicalxpress.com/news/2021-07-oesophageal-cancer-ai.amp"
+    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-07-oesophageal-cancer-ai.amp"
+    type: article
+    provider:
+      name: Medical Xpress
+      domain: medicalxpress.com
+    quality: 57
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/detecting-oesophageal.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
 
 secured: "CazHP+aq1Vur9YXRqv3WLQFCI+RgiPq7xZbteIikehhsd7nVrRQ2d6xzwk16QjRS9C6BOGrKSUc+dlvSR8u8eQ88+zbLsLAL8QuO10NBpuF0UA3HZPTwMuqira5SjQMHLEcTAOvDlAR1YJ2hirTOL5gHsg/yCMjD6E/F/Iz4UeXu7pDg3pzLg4Z9+2MDj+XramAo/tkYZXpPeZ3MejKRAzlq5bcFyXB9cXQpLXR9AXypUFFzeNAt0sQdKwWvgxFKlw0zQhYYNv0LMGHTfvfj1c1A1Ftb2avdZrMJbZejX7mWnbrg0Nu4Z8Ks7M1pOWUeskUeDlJjdBjoewUT1Ua7aCtJ3eXHoPhjA+KrCx7cUfk=;nRa7XKasejDYkTD5WVlhAA=="
 ---

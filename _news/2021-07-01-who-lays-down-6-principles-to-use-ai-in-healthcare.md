@@ -26,38 +26,45 @@ images:
     isCached: true
 
 related:
-  - title: "WHO guidance details the benefits and risks of adding AI to healthcare"
-    excerpt: "The World Health Organization has published new guidance on the use of artificial intelligence in health, something that took experts across multiple fields 18 months to debate. WHO acknowledges"
-    publishedDateTime: 2021-06-30T21:28:00Z
-    webUrl: "https://www.slashgear.com/who-guidance-details-the-benefits-and-risks-of-adding-ai-to-healthcare-30680625/"
-    ampWebUrl: "https://www.slashgear.com/who-guidance-details-the-benefits-and-risks-of-adding-ai-to-healthcare-30680625/amp/"
-    cdnAmpWebUrl: "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/who-guidance-details-the-benefits-and-risks-of-adding-ai-to-healthcare-30680625/amp/"
+  - title: "Artificial Intelligence in Healthcare: Intel’s AI tool screens patients for vision loss"
+    excerpt: "Sankara Eye Foundation and Leben Care are deploying a cloud-based AI solution Netra.AI, powered by Intel technology, to identify retinal conditions in a short span of time with the accuracy level of h"
+    publishedDateTime: 2021-07-04T17:32:00Z
+    webUrl: "https://www.financialexpress.com/industry/technology/artificial-intelligence-in-healthcare-intels-ai-tool-screens-patients-for-vision-loss/2283014/"
+    ampWebUrl: "https://www.financialexpress.com/industry/technology/artificial-intelligence-in-healthcare-intels-ai-tool-screens-patients-for-vision-loss/2283014/lite/"
+    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/industry/technology/artificial-intelligence-in-healthcare-intels-ai-tool-screens-patients-for-vision-loss/2283014/lite/"
     type: article
     provider:
-      name: SlashGear
-      domain: slashgear.com
-    quality: 104
+      name: The Financial Express
+      domain: financialexpress.com
+    quality: 85
     images:
-      - url: "https://cdn.slashgear.com/wp-content/uploads/2021/06/hospital_main_uns.jpg"
-        width: 1440
+      - url: "https://images.financialexpress.com/2021/07/1-70.jpg"
+        width: 1200
         height: 800
         isCached: true
-  - title: "WHO lays down guidelines for AI use in healthcare"
-    excerpt: "WHO calls for collaboration between the public, governments and health experts to make the best and safest use of AI."
-    publishedDateTime: 2021-07-02T10:02:00Z
-    webUrl: "https://www.thehindu.com/sci-tech/technology/who-lays-down-guidelines-for-ai-use-in-healthcare/article35095417.ece"
-    ampWebUrl: "https://www.thehindu.com/sci-tech/technology/who-lays-down-guidelines-for-ai-use-in-healthcare/article35095417.ece/amp/"
-    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/who-lays-down-guidelines-for-ai-use-in-healthcare/article35095417.ece/amp/"
+  - title: "Google's Rise in Healthcare"
+    excerpt: "Google continues to dominate the search engine market in the U.S. Back in 2006, the company quietly began to explore potential business opportunities in the healthcare sector. The initial intention of Google Health was to create a repository of health records and data that would provide direct connections between doctors,"
+    publishedDateTime: 2021-07-01T00:12:00Z
+    webUrl: "https://www.medpagetoday.com/opinion/focusonpolicy/93368"
     type: article
     provider:
-      name: The Hindu
-      domain: thehindu.com
-    quality: 76
+      name: MedPage Today
+      domain: medpagetoday.com
+    quality: 39
     images:
-      - url: "https://www.thehindu.com/sci-tech/technology/zer1i9/article35095504.ece/ALTERNATES/LANDSCAPE_615/smart-hospjpg"
-        width: 615
-        height: 384
+      - url: "https://clf1.medpagetoday.net/media/images/93xxx/93368.jpg"
+        width: 1024
+        height: 576
         isCached: true
+  - title: "Digital health care in China and access for older people"
+    excerpt: "Digital medicine technology has been widely applied to support health care today.1 In China, the so-called Internet Plus health care is an emerging health service model with a cross-industry integration and application of information technologies,"
+    publishedDateTime: 2021-07-01T12:45:00Z
+    webUrl: "https://www.thelancet.com/journals/lanpub/article/PIIS2468-2667(21)00051-7/fulltext"
+    type: article
+    provider:
+      name: The Lancet
+      domain: thelancet.com
+    quality: 4
 
 secured: "NPL6iliu/RbKUuqYUXuUTsaPA9i+KT/zovG1wAFQtjTb/p25ovX/m/3simhWnTipg/Xv5Qvy6ZFx8yypzli3Z6DC6zqyKdsu4QUI5tkYkZ77RZrpt5CVmBBTzd+lVoAwloFxxf05cL6JinXA5rAtwt6J+V0y7pWB0gYhKZFmSPvAqubXQ0fdTz0tBzyYsBwztRWEjMc9GjvXxNMBDMQAIc7pLBKwETA0C9NXm3KTGbaqHbXLRoazBpFriKslQslX7M20o8bLicQY6rU4LI0yb2wXVBUMa3BKP4hCbBpm4iQ4wRE8wPRljAIcjDwdqnU9CroueZ+NGZanspucNNgtR8cuir471AOtHlU6fmQA4mpfpKsf4ZSFTxdO50OVjxzFmdH+f60Xgon2hncDUqr55eiDmqUUGqtrYQ9Cr8S2uqkbIEbffv8deeLCL4pBg++yEAt6f3uuY8t1wrY+69cN0SfqrsP49uCh3FJ3IiQ40+XkvcQSX+UA7MNr4St19bPAHJ9z5q7UOlLHe7yIlgA/AA==;xa4Mg2DltFy7g7uPgRnkgw=="
 ---

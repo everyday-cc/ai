@@ -9,7 +9,7 @@ ampWebUrl: "https://www.pcmag.com/news/its-good-to-talk-how-to-donate-your-voice
 cdnAmpWebUrl: "https://www-pcmag-com.cdn.ampproject.org/c/s/www.pcmag.com/news/its-good-to-talk-how-to-donate-your-voice-to-help-the-future-of-speech?amp=true"
 type: article
 quality: 82
-heat: 82
+heat: 83
 published: true
 
 provider:

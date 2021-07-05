@@ -21,29 +21,6 @@ topics:
   - AI
 
 related:
-  - title: "Global AI in Fintech Market Size, Share to Expand At 17.1% CAGR Through 2025"
-    excerpt: "Selbyville, Delaware, The AI in Fintech market study now available with Market Study Report, LLC, is a collation"
-    publishedDateTime: 2021-07-01T11:34:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-ai-in-fintech-market-size-share-to-expand-at-171-cagr-through-2025-2021-07-01"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 66
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "At 26.3% CAGR, AI in Computer Vision Market Size will reach 64.59 billion USD by 2027"
-    excerpt: "Global AI in computer vision Market to reach USD 64.59 billion by 2027. Global AI in computer vision Market is valued approximately USD 12.6 billion in 2020 and is anticipated to grow with a healthy growth rate of more than 26."
-    publishedDateTime: 2021-07-01T14:03:00Z
-    webUrl: "https://www.marketwatch.com/press-release/at-263-cagr-ai-in-computer-vision-market-size-will-reach-6459-billion-usd-by-2027-2021-07-01"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 57
   - title: "4 Top Fintech Stocks To Watch In July 2021"
     excerpt: "Do You Have These The Fintech Stocks On Your July Watchlist? Fintech stocks have been some of the most popular stocks in the stock market today. Fintech is growing and the growth"
     publishedDateTime: 2021-07-02T11:57:00Z
@@ -55,6 +32,43 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 54
+  - title: "Student finance fintech raises £1.1m in funding"
+    excerpt: "StepEx has raised £1.1 million in pre-initial funding, with the venture studio BBVA Anthemis Venture Partnership being the lead investor."
+    publishedDateTime: 2021-07-05T12:54:00Z
+    webUrl: "https://www.finextra.com/pressarticle/88425/student-finance-fintech-raises-11m-in-funding"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 54
+    images:
+      - url: "https://www.finextra.com/about/finextra-logo.png"
+        width: 512
+        height: 512
+        isCached: true
+  - title: "Fintech and AI: Future-proof technology for finserve"
+    excerpt: "As financial services become increasingly technology-led, we talk to Francesca Campanelli, CCO, Axyon.ai about what it means for the sector"
+    publishedDateTime: 2021-07-05T14:28:00Z
+    webUrl: "https://fintechmagazine.com/financial-services-finserv/fintech-and-ai-future-proof-technology-finserve"
+    type: article
+    provider:
+      name: fintechmagazine
+      domain: fintechmagazine.com
+    quality: 39
+    images:
+      - url: "https://fintechmagazine.com/sites/default/files/styles/ma/public/image/GettyImages-1250153410.jpg?itok=AkTuwQaw"
+        width: 2405
+        height: 1247
+        isCached: true
+  - title: "Carro’s fintech arm launches financing plan for EVs, hybrid cars"
+    excerpt: "The GoGreen initiative allows private-hire vehicle drivers to enjoy lower interest rates as a reward for going green."
+    publishedDateTime: 2021-07-01T01:46:00Z
+    webUrl: "https://www.techinasia.com/carros-fintech-arm-launches-financing-plan-evs-hybrids"
+    type: article
+    provider:
+      name: Techinasia
+      domain: techinasia.com
+    quality: 34
   - title: "8 Types Of Fintech To Take Advantage Of"
     excerpt: "Whether it’s checking our bank balance with an app or Venmoing a friend the cost of a bagel, fintech impacts our daily lives. By streamlining and automating"
     publishedDateTime: 2021-07-01T07:31:00Z
@@ -97,24 +111,60 @@ related:
         width: 630
         height: 420
         isCached: true
-  - title: "Global Artificial Intelligence In Diagnostic Market Size, Status and Forecast 2021-2027"
-    excerpt: "Pages Report] Check for Discount on Global Artificial Intelligence In Diagnostic Market Size, Status and Forecast 2021-2027 report by QYResearch Group. Market Analysis and Insights: Global Artificial Intelligence In Diagnostic"
-    publishedDateTime: 2021-07-02T08:17:00Z
-    webUrl: "https://www.reportsnreports.com/reports/4631324-global-artificial-intelligence-in-diagnostic-market-size-status-and-forecast-2021-2027.html"
+  - title: "How are Fintech Companies Changing Credit Scores?"
+    excerpt: "Financial advisers and gurus have always emphasized the importance of credit scores ⁠— and most people today have taken this advice to heart, trying to be more proactive in checking their credit scores."
+    publishedDateTime: 2021-07-02T14:08:00Z
+    webUrl: "https://fintechzoom.com/fintech_news_buzz/how-are-fintech-companies-changing-credit-scores/"
     type: article
     provider:
-      name: ReportsnReports
-      domain: reportsnreports.com
-    quality: 9
-  - title: "Global Artificial Intelligence in Drug Discovery Market Size, Status and Forecast 2021-2027"
-    excerpt: "Pages Report] Check for Discount on Global Artificial Intelligence in Drug Discovery Market Size, Status and Forecast 2021-2027 report by QYResearch Group. Market Analysis and Insights: Global Artificial Intelligence in Drug"
-    publishedDateTime: 2021-07-03T08:57:00Z
-    webUrl: "https://www.reportsnreports.com/reports/4635116-global-artificial-intelligence-in-drug-discovery-market-size-status-and-forecast-2021-2027.html"
+      name: fintechzoom
+      domain: fintechzoom.com
+    quality: 24
+    images:
+      - url: "https://fintechzoom.com/wp-content/uploads/2021/07/credit-scores-not-equal-ultrafico-e1570739182454.jpg"
+        width: 1254
+        height: 617
+        isCached: true
+  - title: "How real-time data innovation is driving up customer experience in fintech"
+    excerpt: "By Geoff Clark, General Manager EMEA, Aerospike The attention span of individuals and organisations is reducing. Time is compressing. There are only brief windows that can be devoted to any given transaction."
+    publishedDateTime: 2021-07-01T23:44:00Z
+    webUrl: "https://www.globalbankingandfinance.com/how-real-time-data-innovation-is-driving-up-customer-experience-in-fintech/"
+    ampWebUrl: "https://www.globalbankingandfinance.com/how-real-time-data-innovation-is-driving-up-customer-experience-in-fintech/"
+    cdnAmpWebUrl: "https://www-globalbankingandfinance-com.cdn.ampproject.org/c/s/www.globalbankingandfinance.com/how-real-time-data-innovation-is-driving-up-customer-experience-in-fintech/"
     type: article
     provider:
-      name: ReportsnReports
-      domain: reportsnreports.com
-    quality: 7
+      name: List of Banks in Belarus
+      domain: globalbankingandfinance.com
+    quality: 22
+  - title: "LendIt Fintech USA Reunites the Fintech Community with its Return to a Physical Event in 2022"
+    excerpt: "LendIt Fintech, the leading event series dedicated to financial services innovation, today announced that its flagship event,"
+    publishedDateTime: 2021-07-02T15:00:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/21/07/n21828492/lendit-fintech-usa-reunites-the-fintech-community-with-its-return-to-a-physical-event-in-2022"
+    ampWebUrl: "https://www.benzinga.com/amp/content/21828492"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/21828492"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 13
+  - title: "3 fintech trends that are transforming the future of business"
+    excerpt: "Here are three emerging trends in fintech that businesses should be aware of in order to best protect themselves against the inherent risks of digitization of operations, products and services."
+    publishedDateTime: 2021-07-01T05:00:00Z
+    webUrl: "https://www.bizjournals.com/dallas/news/2021/07/01/3-fintech-trends-that-are-transforming-the-future.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 4
+  - title: "Advantage Club forays in Fintech Services, announces an early salary access feature"
+    excerpt: "Advantage Club, one of the leading Employee Engagement platforms in South East Asia, has made its foray into financial services with the launch of an early salary access feature that will let professionals and employees take a portion of their salaries before their payday to help them if they are caught short."
+    publishedDateTime: 2021-07-02T09:14:00Z
+    webUrl: "https://news.webindia123.com/news/articles/Business/20210702/3780641.html"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 0
 
 secured: "fJbHZnsqy1fCPIdu8LQzf2spAaK9/R+SwD0EsaczSz3XXAKgNAgNjr1mMf9BBHSozEXJDWNKjhsR8/0qjJjT3oc9+3J5UGfobEO7z7bOFwhnwuaOOsM98XbpMXD9ugJRcUFVNSYaxD3m2X+kofMKish8Wqf5ZSzG0TUX4nqfy1yTjTLa0jakku43zXznxRaZnA3xL/Qqai1jatWCRhdV64YVblWfcyR1uMi3+KpbM9iw8GNEitsDQiIWjcyTlxi61yxTihQvhzvyuW+lkFXnsxEaTO+yeC8VrT/Km3mC8Jgg7daGsKw/O42YYseog7h80JmyOqXZ/NmcRch1dFuso8dkIKEx+Xc7rTeOK9gnmHYF3ZuqQPkUXz+vnnwri4EmTkAgAoK0aRwXlBfRVU4kKP3AP3qSQr+Z4LY7uhwjoe79Ct3+l/xbxOjUs3RIV/OlFbCB+L8iy+jo7QnYgJwI0sa8jG6ZOSaQ43v808VXYQDs3yVpk3j0mMqjXUESxtMwT4Gp8ZG2axCX2NummBp3JQ==;e8rJyin6UT8RrcsC+KexwA=="
 ---

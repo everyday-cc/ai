@@ -71,20 +71,6 @@ related:
         width: 600
         height: 390
         isCached: true
-  - title: "Google deploys new AI tool to COVID-19 vaccine searches"
-    excerpt: "Google's answer to combatting COVID vaccine misinformation has been to display resources from health authorities like the CDC in information boxes on search result pages. But the coronavirus — and COVID-related scams and fake news— have blown through international borders and language barriers."
-    publishedDateTime: 2021-06-30T22:22:00Z
-    webUrl: "https://mashable.com/article/google-mum-covid-vaccine-searches"
-    type: article
-    provider:
-      name: Mashable
-      domain: mashable.com
-    quality: 67
-    images:
-      - url: "https://helios-i.mashable.com/imagery/articles/00IMViIJXiaOEwUiTxrRqN5/hero-image.fill.size_1200x675.png"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Global Artificial Intelligence in the Manufacturing Sector Market Drugs Market Size, Share, Growth,Trends, COVID-19 Analysis and Forecast 2021-2030"
     excerpt: "In a recent published report, Kenneth Research has updated the market report for Global Artificial Intelligence in"
     publishedDateTime: 2021-07-01T05:04:00Z
@@ -98,6 +84,20 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Impact of COVID-19 on Artificial Intelligence Market to Record Significant Revenue Growth During the Forecast Period 2021-2026"
+    excerpt: "The outbreak of covid-19 in the global market has made companies uncertain about their future scenario as the prolonged lock-down finds a serious economic slump. The latest survey on COVID-19 Outbreak-Global Artificial Intelligence Market is conducted to provide hidden gems performance analysis."
+    publishedDateTime: 2021-07-05T15:53:00Z
+    webUrl: "https://manometcurrent.com/impact-of-covid-19-on-artificial-intelligence-market-to-record-significant-revenue-growth-during-the-forecast-period-2021-2026/"
+    type: article
+    provider:
+      name: manometcurrent.com
+      domain: manometcurrent.com
+    quality: 9
+    images:
+      - url: "https://suprememarketresearchreports.files.wordpress.com/2020/10/global-1.jpg?w=622"
+        width: 622
+        height: 350
         isCached: true
 
 secured: "GvieOlYQYnCuXIhL7WfZ67iRtCGaWlnBZIaR6+Bh2b+/9rfVYReSUxBOpgjSun3/bKvrVav7/VgmeHjoLoqwX4B02lKhacgxM0fX9YZ9exY8sLaVd2nZfBw0UlwK+MwJXNqWyojx06EcmSVB9AVNysBh4PhB1Yja2jft9BFK5kGCQ2rZgY1FrFBHXcCUctn/Dyryy/rJktL3a4JFOSragVPt0gs9xeqXUwJj4tkt857kMWcaFpoXVqNn5C42l9g+W8Ub1SmJRiJQd9xONrQ31WEX9uWFsDC68I7l72+JmAx11DnbvoDiCcnfAINe/yLYUKipKOYdG2+rlu6THpsgsUWgLloGRvpG36f3J1BWIluWrFtgrhe3t469vVbZNE26vXz3ZvtGzt80RS+j6bKNG5CaVeLCyeRHKipb5UsqUJ8we4/dxtXJLgbdwkf4/vTvlyXy1hozCr5ajV346I6dQpD0bGHEbVFVXJZV4ql3eZcSfx4AzahUM/t9dEtn3G7QIAjvAbky+NadF9MGiKWLkw==;2RJfhKiITIU3Yu3MlaIppg=="

@@ -61,20 +61,6 @@ related:
         width: 600
         height: 390
         isCached: true
-  - title: "Google deploys new AI tool to COVID-19 vaccine searches"
-    excerpt: "Google's answer to combatting COVID vaccine misinformation has been to display resources from health authorities like the CDC in information boxes on search result pages. But the coronavirus — and COVID-related scams and fake news— have blown through international borders and language barriers."
-    publishedDateTime: 2021-06-30T22:22:00Z
-    webUrl: "https://mashable.com/article/google-mum-covid-vaccine-searches"
-    type: article
-    provider:
-      name: Mashable
-      domain: mashable.com
-    quality: 67
-    images:
-      - url: "https://helios-i.mashable.com/imagery/articles/00IMViIJXiaOEwUiTxrRqN5/hero-image.fill.size_1200x675.png"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "New VA tool uses artificial intelligence to predict COVID-19 patient mortality"
     excerpt: "A new VA tool that processes data using artificial intelligence can predict mortality rates within 120 days of when a patient is diagnosed with COVID-19."
     publishedDateTime: 2021-07-01T13:00:00Z
@@ -102,6 +88,20 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Impact of COVID-19 on Artificial Intelligence Market to Record Significant Revenue Growth During the Forecast Period 2021-2026"
+    excerpt: "The outbreak of covid-19 in the global market has made companies uncertain about their future scenario as the prolonged lock-down finds a serious economic slump. The latest survey on COVID-19 Outbreak-Global Artificial Intelligence Market is conducted to provide hidden gems performance analysis."
+    publishedDateTime: 2021-07-05T15:53:00Z
+    webUrl: "https://manometcurrent.com/impact-of-covid-19-on-artificial-intelligence-market-to-record-significant-revenue-growth-during-the-forecast-period-2021-2026/"
+    type: article
+    provider:
+      name: manometcurrent.com
+      domain: manometcurrent.com
+    quality: 9
+    images:
+      - url: "https://suprememarketresearchreports.files.wordpress.com/2020/10/global-1.jpg?w=622"
+        width: 622
+        height: 350
         isCached: true
 
 secured: "ZCETIYgRA8WcrM+6X8thJ1MMQJnIXjEYH8qFnS2y1UbTgHLPhOso1aFh3SwOyGR4CDSqrl2kyp41/tvTFuvawybl67VjMJKn7DULk80/xw4I77+WP9wSKSL3ocVKWdmVt2YpHd2atmrY+Wjb/HSQRyKGzrz84jF/AyS/bHtp+SSokzwMWWjiuGvFG+VZ4R6DI7sekn8r9E9luBtstHPrkGGb652RYjeWw8rGYtp9izuVYKxbUAvTmAIr7UVftcfdmA/ASG2k5O20UirxqpXtWRGJIKdYpRnU5y8chfUajGhxRmqYUerOId5JbgPuL7TipQyfpmgC6v8lkJDuAw3XsIaLN+tLxGK7W0KH3PsKJmgmkrh0j1ZOCeO+S7uPVMXgkjMlXQt6YhQQRQgbUh1CYrfM2YngffHP1lqSISDn6cUrBBOUSFYhUHUdQe6CZiV6sM2N7m2aUPMOBG3GcVuntx2nFRgA6YReGW0sxsq53xmuj4xLW1YjlOkrSOiaFqobCCfWkUB9Qz8JIw6CQaSUpQ==;B7subt3NTjpRLvu3hQlvRQ=="

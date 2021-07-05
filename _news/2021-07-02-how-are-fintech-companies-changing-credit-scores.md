@@ -25,6 +25,17 @@ images:
     isCached: true
 
 related:
+  - title: "4 Top Fintech Stocks To Watch In July 2021"
+    excerpt: "Do You Have These The Fintech Stocks On Your July Watchlist? Fintech stocks have been some of the most popular stocks in the stock market today. Fintech is growing and the growth"
+    publishedDateTime: 2021-07-02T11:57:00Z
+    webUrl: "https://www.nasdaq.com/articles/4-top-fintech-stocks-to-watch-in-july-2021-2021-07-02"
+    ampWebUrl: "https://www.nasdaq.com/articles/4-top-fintech-stocks-to-watch-in-july-2021-2021-07-02?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/4-top-fintech-stocks-to-watch-in-july-2021-2021-07-02?amp"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 54
   - title: "Student finance fintech raises £1.1m in funding"
     excerpt: "StepEx has raised £1.1 million in pre-initial funding, with the venture studio BBVA Anthemis Venture Partnership being the lead investor."
     publishedDateTime: 2021-07-05T12:54:00Z
@@ -39,19 +50,19 @@ related:
         width: 512
         height: 512
         isCached: true
-  - title: "Professional Certificate in Fintech: The Future of Finance"
-    excerpt: "The trend in the financial industry is clear: Technology powered financial services is the way of the future, and it is critical that finance professionals have the technology acumen to ensure your firm is not left behind. It is becoming increasingly important for organizations to understand not only the application of expansive technological advancements like AI and machine learning in the area of finance, but also technologies that are integral to the future of financial services like distributed ledgers and algorithmic trading. The Financial Technology Professional Certificate program provides an overview of the most recent technological advances that are radically changing the financial services industry, and all other industries that rely on automated financial transactions, as a result. These technological breakthroughs offer new ways for people and organizations to save, invest, borrow, and transact. Learn how new technologies create value in the financial industry, from reducing unit cost, increasing transparency, increasing competition, creating network effects, leveraging economies of scales, and lowering asymmetric information. The program also explores the competitive landscape and the market opportunities and threats for incumbents and new entrants. Course four concentrates on the internet of things, with a focus on insurance and electronic payments, including domestic mobile payments, open banking, and international remittances.   The program will cover both the business opportunities and growth areas in the fintech industry, as well as the technology underpinning the industry, from machine learning to blockchain, APIs and IoTs. You can enroll in the entire 4-course program to gain a comprehensive knowledge of fintech, or select individual courses to hone in on specific topics and skills. Job Outlook The employment trend in finance is unquestionable. We will need more and more tech-savvy finance experts, and fewer routine-task labor. With the introduction of Banking as a Service (BaaS), most industries will incorporate fintech in their businesses. Almost half of organizations have embedded fintech full into their strategic operating model. The majority of Technology, Media, Telecommunication, and Financial Services organizations worldwide are creating jobs related to fintech, but struggling to fill these positions. Upskilling of fintech skills is a critical component to the professional career of anyone working in finance or technology. CEUs: For some associations, this program may be used for Continuing Education Credits. Please check with your local or national organization if the program qualifies. Cesare joined the Finance Faculty at the McCombs School of Business in 2009. His primary research interest is in the area of corporate finance."
-    publishedDateTime: 2021-07-01T10:05:00Z
-    webUrl: "https://www.mccombs.utexas.edu/execed/take-a-class/finance-accounting/professional-certificate-in-fintech-the-future-of-finance"
+  - title: "Fintech and AI: Future-proof technology for finserve"
+    excerpt: "As financial services become increasingly technology-led, we talk to Francesca Campanelli, CCO, Axyon.ai about what it means for the sector"
+    publishedDateTime: 2021-07-05T14:28:00Z
+    webUrl: "https://fintechmagazine.com/financial-services-finserv/fintech-and-ai-future-proof-technology-finserve"
     type: article
     provider:
-      name: The University of Texas at Austin
-      domain: utexas.edu
+      name: fintechmagazine
+      domain: fintechmagazine.com
     quality: 39
     images:
-      - url: "https://www.mccombs.utexas.edu/~/media/TexasExecEd/Images/concentration-icons/TEE_FinanceandAcct"
-        width: 300
-        height: 300
+      - url: "https://fintechmagazine.com/sites/default/files/styles/ma/public/image/GettyImages-1250153410.jpg?itok=AkTuwQaw"
+        width: 2405
+        height: 1247
         isCached: true
   - title: "Carro’s fintech arm launches financing plan for EVs, hybrid cars"
     excerpt: "The GoGreen initiative allows private-hire vehicle drivers to enjoy lower interest rates as a reward for going green."
@@ -62,6 +73,59 @@ related:
       name: Techinasia
       domain: techinasia.com
     quality: 34
+  - title: "8 Types Of Fintech To Take Advantage Of"
+    excerpt: "Whether it’s checking our bank balance with an app or Venmoing a friend the cost of a bagel, fintech impacts our daily lives. By streamlining and automating"
+    publishedDateTime: 2021-07-01T07:31:00Z
+    webUrl: "https://www.techshout.com/types-of-fintech-to-take-advantage-of/"
+    type: article
+    provider:
+      name: TechShout
+      domain: techshout.com
+    quality: 24
+    images:
+      - url: "https://www.techshout.com/wp-content/uploads/2021/04/fintech-1.jpg"
+        width: 690
+        height: 240
+        isCached: true
+  - title: "5 reasons your team should attend Fintech & Insurtech Live"
+    excerpt: "Join us from 12th - 14th October 2021 for the ultimate Fintech & Insurtech event, streamed live from London’s Tobacco Dock"
+    publishedDateTime: 2021-07-02T16:04:00Z
+    webUrl: "https://fintechmagazine.com/financial-services-finserv/5-reasons-your-team-should-attend-fintech-and-insurtech-live"
+    type: article
+    provider:
+      name: fintechmagazine
+      domain: fintechmagazine.com
+    quality: 24
+    images:
+      - url: "https://fintechmagazine.com/sites/default/files/styles/ma/public/image/https___cdn.evbuc_.com_images_137634879_544762740363_1_original%20%281%29_0.jpg?itok=Uc0GE5Fx"
+        width: 800
+        height: 400
+        isCached: true
+  - title: "Advantage Club forays in Fintech Services"
+    excerpt: "Advantage Club one of the leading Employee Engagement platforms in South East Asia has made its foray into financial services with the launch of an early sala"
+    publishedDateTime: 2021-07-02T09:57:00Z
+    webUrl: "https://www.bignewsnetwork.com/news/270136897/advantage-club-forays-in-fintech-services"
+    type: article
+    provider:
+      name: Big News Network.com
+      domain: bignewsnetwork.com
+    quality: 24
+    images:
+      - url: "https://cdn.bignewsnetwork.com/ani1625219010.jpg"
+        width: 630
+        height: 420
+        isCached: true
+  - title: "Financial Markets Tech Platform Symphony Partners with Fintech Saphyre to Add AI Solutions to Workflows"
+    excerpt: "Symphony, the financial markets’ infrastructure and tech platform, has teamed up with Fintech company Saphyre, Inc. in order to integrate patented AI solutions into pre and post-trade workflows for front,"
+    publishedDateTime: 2021-07-03T13:08:00Z
+    webUrl: "https://www.crowdfundinsider.com/2021/07/177270-financial-markets-tech-platform-symphony-partners-with-fintech-saphyre-to-add-ai-solutions-to-workflows/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2021/07/177270-financial-markets-tech-platform-symphony-partners-with-fintech-saphyre-to-add-ai-solutions-to-workflows/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/07/177270-financial-markets-tech-platform-symphony-partners-with-fintech-saphyre-to-add-ai-solutions-to-workflows/amp/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 23
   - title: "How real-time data innovation is driving up customer experience in fintech"
     excerpt: "By Geoff Clark, General Manager EMEA, Aerospike The attention span of individuals and organisations is reducing. Time is compressing. There are only brief windows that can be devoted to any given transaction."
     publishedDateTime: 2021-07-01T23:44:00Z

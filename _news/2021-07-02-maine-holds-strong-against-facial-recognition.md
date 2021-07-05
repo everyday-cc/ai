@@ -103,20 +103,6 @@ related:
         width: 980
         height: 551
         isCached: true
-  - title: "Maine Sets Example With 'Country's Strongest' Facial Recognition Ban"
-    excerpt: "Civil liberties advocates on Wednesday cheered as Maine enacted what that state's ACLU chapter called \"the country's strongest statewide facial recognition law.\" \"I hope that Maine can provide an example to other states that want to rein in the government's ability to use facial recognition and other invasive biometric technologies."
-    publishedDateTime: 2021-06-30T22:06:00Z
-    webUrl: "https://www.commondreams.org/news/2021/06/30/maine-sets-example-countrys-strongest-facial-recognition-ban"
-    type: article
-    provider:
-      name: Common Dreams
-      domain: commondreams.org
-    quality: 54
-    images:
-      - url: "https://www.commondreams.org/sites/default/files/styles/social_share_image/public/2021-06/Facial-Recognition-2600x1361.jpg?h=733dcb6a&itok=EINM7TUh"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Maine law restricts facial recognition technology statewide"
     excerpt: "A bill touted as the country’s strictest statewide regulation on the use of facial recognition technology has become law in Maine."
     publishedDateTime: 2021-07-01T19:02:00Z
@@ -166,47 +152,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Federal agencies used facial recognition tech on George Floyd protesters, according to a new report"
-    excerpt: "Over the past few years, activists have raised the alarm about the growing use of facial recognition technology in the United States. Many say that in the hands of law enforcement agencies, the technology poses great surveillance concerns,"
-    publishedDateTime: 2021-06-30T22:09:00Z
-    webUrl: "https://www.mic.com/p/federal-agencies-used-facial-recognition-tech-on-george-floyd-protesters-according-to-a-new-report-82357352"
-    ampWebUrl: "https://www.mic.com/p/federal-agencies-used-facial-recognition-tech-on-george-floyd-protesters-according-to-a-new-report-82357352/amp"
-    cdnAmpWebUrl: "https://www-mic-com.cdn.ampproject.org/c/s/www.mic.com/p/federal-agencies-used-facial-recognition-tech-on-george-floyd-protesters-according-to-a-new-report-82357352/amp"
-    type: article
-    provider:
-      name: Mic
-      domain: mic.com
-    quality: 45
-    images:
-      - url: "https://imgix.bustle.com/uploads/shutterstock/2020/11/12/395be3f3-79cd-40ca-8d28-7a2a3b7b360e-shutterstock-1783490738.jpg?w=1200&h=630&fit=crop&crop=faces&fm=jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Maine law restricting facial recognition technology statewide is one of the nation’s toughest"
-    excerpt: "A bill touted as the country's strictest statewide regulation on the use of facial recognition technology has become law in Maine."
-    publishedDateTime: 2021-06-30T22:47:00Z
-    webUrl: "https://bangordailynews.com/2021/06/30/politics/maine-law-restricting-facial-recognition-technology-statewide-is-one-of-the-nations-toughest/"
-    type: article
-    provider:
-      name: Bangor Daily News
-      domain: bangordailynews.com
-    quality: 43
-    images:
-      - url: "https://bdn-data.s3.amazonaws.com/uploads/2021/06/Optimized-Amazon-Police-Facial-Recognition.jpg"
-        width: 1200
-        height: 900
-        isCached: true
-  - title: "Myrtle Beach Police Use Controversial Facial Recognition Tool"
-    excerpt: "The South Carolina police department has been using the facial recognition software, Clearview AI, for more than a year. Law enforcement officials said that the department has ultimately decided not to use the service."
-    publishedDateTime: 2021-06-30T21:26:00Z
-    webUrl: "https://www.governing.com/security/myrtle-beach-police-use-controversial-facial-recognition-tool"
-    ampWebUrl: "https://www.governing.com/security/myrtle-beach-police-use-controversial-facial-recognition-tool?_amp=true"
-    cdnAmpWebUrl: "https://www-governing-com.cdn.ampproject.org/c/s/www.governing.com/security/myrtle-beach-police-use-controversial-facial-recognition-tool?_amp=true"
-    type: article
-    provider:
-      name: Governing
-      domain: governing.com
-    quality: 41
   - title: "Investors issue statement on human rights implications of facial recognition technologies & commitments to due diligence"
     excerpt: "We are 50 global institutional investors and their representatives with $4.5 trillion in assets under management as of December, 2020. As responsible investors, we incorporate Environmental, Social and Governance (ESG) factors,"
     publishedDateTime: 2021-07-04T08:19:00Z

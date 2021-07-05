@@ -1,21 +1,21 @@
 ---
 category: news
-title: "Turkish Bank, Isbank, Selects Driverless AI Platform from H2O.ai for Income Prediction, Cash Forecasting & Check Default Prediction Applications"
-excerpt: "Ümit Bilik, Chief Data Officer, Head of Data Management Artificial Intelligence at Isbank ... \"The decision by Isbank to use Driverless AI is another shining example of how a progressive-thinking ..."
-publishedDateTime: 2021-06-22T12:10:00Z
-originalUrl: "https://www.finanznachrichten.de/nachrichten-2021-06/53214974-turkish-bank-isbank-selects-driverless-ai-platform-from-h2o-ai-for-income-prediction-cash-forecasting-check-default-prediction-applications-004.htm"
-webUrl: "https://www.finanznachrichten.de/nachrichten-2021-06/53214974-turkish-bank-isbank-selects-driverless-ai-platform-from-h2o-ai-for-income-prediction-cash-forecasting-check-default-prediction-applications-004.htm"
+title: "Turkish Bank, İşbank, Selects Driverless AI Platform from H2O.ai for Income Prediction, Cash Forecasting & Check Default Prediction Applications"
+excerpt: "H2O.ai, a leading AI technology software company, has announced that İşbank, officially Türkiye İş Bankası, the largest private bank in Turkey, has se"
+publishedDateTime: 2021-06-22T16:00:00Z
+originalUrl: "https://www.businesswire.com/news/home/20210622005334/en/Turkish-Bank-İşbank-Selects-Driverless-AI-Platform-from-H2O.ai-for-Income-Prediction-Cash-Forecasting-Check-Default-Prediction-Applications"
+webUrl: "https://www.businesswire.com/news/home/20210622005334/en/Turkish-Bank-İşbank-Selects-Driverless-AI-Platform-from-H2O.ai-for-Income-Prediction-Cash-Forecasting-Check-Default-Prediction-Applications"
 type: article
 
 provider:
-  name: Finanznachrichten
-  domain: finanznachrichten.de
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
   - AI in Autos
   - AI
   - AI in Finance
 
-secured: "xXrhLCcnwYQmwrDu+6sq85TbwMPmQTr3yQVW6FQR9VqOWaYv3cPrJxWRlR9FIhCkGr8qFwNE7+gkSe32fj+42GRkfz5cpBb/jXdcWNM7MA7lnyTVVED9Gb5jErkG9skdBkrqcYIl/1tQ9fpahk9jAe9etApf6/Ioe13rTJ/rljfibHIWDj21X4SwEen4dAM/MmZWPUyZTmwqosfM/FQnL/Yqok6rawnf1+l10H5ohTHHrowWBGcHElsGsSMqGZS6O8ASfJSeH4uy4iph32cjteOjKg/THuo1toGg6z44uWxqFZtNn/lvC4Xt67YDN0VCMz6NrjHCDHiM66734QvJemvyaRL018+WcjCzpUj5aGY=;j2wCacHHLDlEPkCcEra/0w=="
+secured: "xfdmG/wQOt48E29YyPfGPUkhNDLXmWVhEWhhj5jOLgj9Z8YC0KMRZ2Xculaos2eXQQb7HF1ocI8VtANbsLstIWQ2ui97G+OSq27ZzrdjRq/q+pHbmS/HajkSZarFb72MOMilbhF+WDWbg1sPwi8dhaEgO825DG9zTrBnuHYRZREaZigIoTAKkQ9AbHtSRSaCyuznR9Vevcr360qzchW6yOneqCtvtaOgMdHoP7gpjftrBAVgdJWsj+HpVSSnIgt3Uv6bbK0UzZSTSPORuwycpyP39mU4zXUhSBCvoAReOBVoy0DgPKQ/vc/ace2AEhopyWz726HoY4kA1/NCDEs+N6cE8GiXZP/uUkXV/KU/ZAtPvn/gO4//eTz2Lkk5Xu+6KGboQpe1uLcenN+Lnkc/snFSui9C878aZF7gXfcWwPAEoWaegTm4lOoaaJ2p4c1MdhFq+UKd+sjvfi+vrJgIQGGbmCQf4/dIp7KZuls8z9w2nx1MJc+aJGQePfc0+qtGZTiAYc0qbU74a+Shu87DQQ==;b7Y++QTojLonpkNCnORLKw=="
 ---
 

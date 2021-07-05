@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/07/03/tesla-ai-chief-explains-why-self-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/03/tesla-ai-chief-explains-why-self-driving-cars-dont-need-lidar/amp/"
 type: article
 quality: 106
-heat: 126
+heat: 136
 published: true
 
 provider:
@@ -47,6 +47,20 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60df74701b3d17f18787c1b5%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D3450%26cropY1%3D173%26cropY2%3D2114"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Tesla’s AI chief: Self-driving cars don’t need LiDAR"
+    excerpt: "Tesla has been a vocal champion for the pure vision-based approach to autonomous driving, its chief AI scientist Andrej Karpathy explained why."
+    publishedDateTime: 2021-07-05T13:40:00Z
+    webUrl: "https://thenextweb.com/news/tesla-ai-chief-explains-self-driving-cars-dont-need-lidar-syndication"
+    type: article
+    provider:
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 86
+    images:
+      - url: "https://img-cdn.tnwcdn.com/image/shift?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F07%2FTeslahed.jpg&signature=b7f31a3678104e26e5bfdcca0a02aee5"
+        width: 1280
+        height: 640
         isCached: true
   - title: "Tesla AI Chief Says Self-Driving Cars Don't Need Lidar"
     excerpt: "Tesla's Chief AI Scientist Andrej Karpathy explained why at this year's Computer Vision and Pattern Recognition (CVPR) conference. \"It's unscalable to collect, build, and maintain these high-definition lidar maps,"

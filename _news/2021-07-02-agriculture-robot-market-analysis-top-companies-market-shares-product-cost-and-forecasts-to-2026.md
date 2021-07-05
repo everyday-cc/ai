@@ -7,7 +7,7 @@ originalUrl: "https://ksusentinel.com/2021/07/02/agriculture-robot-market-analys
 webUrl: "https://ksusentinel.com/2021/07/02/agriculture-robot-market-analysis-top-companies-market-shares-product-cost-and-forecasts-to-2026/"
 type: article
 quality: 25
-heat: 25
+heat: -1
 published: false
 
 provider:
@@ -25,15 +25,15 @@ images:
     isCached: true
 
 related:
-  - title: "Global Artificial Intelligence In Genomics Market 2021 by Company, Regions, Type and Application, Forecast to 2026"
-    excerpt: "Pages Report] Check for Discount on Global Artificial Intelligence In Genomics Market 2021 by Company, Regions, Type and Application, Forecast to 2026 report by Global Info Research. The Artificial Intelligence In Genomics market report provides a"
-    publishedDateTime: 2021-07-01T11:31:00Z
-    webUrl: "https://www.reportsnreports.com/reports/4630684-global-artificial-intelligence-in-genomics-market-2021-by-company-regions-type-and-application-forecast-to-2026.html"
+  - title: "World's Top Robotics Companies in 2021"
+    excerpt: "Cloud technologies have transformed and revolutionized the way we live and work, and now, cloud technology has made its way to robotics. The term"
+    publishedDateTime: 2021-07-05T15:23:00Z
+    webUrl: "https://www.roboticstomorrow.com/content.php?post=17118"
     type: article
     provider:
-      name: ReportsnReports
-      domain: reportsnreports.com
-    quality: 0
+      name: Robotics Tomorrow
+      domain: roboticstomorrow.com
+    quality: 34
 
 secured: "kw//RG6rfyDVQ/MZOGtt47/R1aUum2/vdCq/i+iQTpC171tBxFWXHowfbOAUa5sYDKFM1HcQG8/Knqg/NfyB8uahSvs19Ko1aj2hRjHlje4wQ0JQLxX6wecpa5RrpHiPVwbC8D9cMVo5cOdyoPHp63b5YqZZ7fJY1DsqVSggU38D79SfBa6PnEuQ0Wx/nVHmW7Fw/iv1OVPiMBU4ejZf7BjnXy3fmIo2fsEO5Wav68UWMbtbyLLW4ueJXoDcJ5Lk2+Rqm2yCovYukb2l5p+BuKByRUsBMzNveMzduhkX3QAnMupiYup7m2T8gOm2PiNBmBs9NSKgOczND3jk5UvHrMAPc2NycEfNTan7dtHJhP4=;rkifTDFjVNsxiGrW4eLqBA=="
 ---

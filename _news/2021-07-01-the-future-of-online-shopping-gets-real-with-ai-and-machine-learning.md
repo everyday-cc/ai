@@ -73,6 +73,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "The Role of Enterprises: Is Artificial Intelligence (AI) Taking Away Jobs?"
+    excerpt: "It has been the rule of nature and society that when the application of technologies like Artificial Intelligence in the workforce or daily lifestyle"
+    publishedDateTime: 2021-07-05T14:32:00Z
+    webUrl: "https://fossbytes.com/artificial-intelligence-ai-taking-away-jobs-enterprise/"
+    ampWebUrl: "https://fossbytes.com/artificial-intelligence-ai-taking-away-jobs-enterprise/amp/"
+    cdnAmpWebUrl: "https://fossbytes-com.cdn.ampproject.org/c/s/fossbytes.com/artificial-intelligence-ai-taking-away-jobs-enterprise/amp/"
+    type: article
+    provider:
+      name: Foss Bytes
+      domain: fossbytes.com
+    quality: 70
+    images:
+      - url: "https://fossbytes.com/wp-content/uploads/2021/07/ai-taking-over-more-jobs-in-us-2019.jpeg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "The State of AI and Machine Learning"
     excerpt: "In the 7th edition of its annual State of AI and Machine Learning report, Appen continues to explore the strategies employed by companies large and small in successfully deploying AI. The reports surveys business leaders and technical practitioners ( referred to as technologists) alike to understand their priorities,"
     publishedDateTime: 2021-07-01T13:00:00Z

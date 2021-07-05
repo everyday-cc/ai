@@ -1,26 +1,28 @@
 ---
 category: news
 title: "VVDN expands its capabilities on Ambarella edge AI vision SoC platform to deliver next-gen vision based solutions"
-excerpt: "VVDN Technologies, a premier electronic product engineering and manufacturing company, announces the expansion of its capabilities on"
-publishedDateTime: 2021-07-05T10:14:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/vvdn-expands-its-capabilities-on-ambarella-edge-ai-vision-soc-platform-to-deliver-next-gen-vision-based-solutions-1030578196"
-webUrl: "https://markets.businessinsider.com/news/stocks/vvdn-expands-its-capabilities-on-ambarella-edge-ai-vision-soc-platform-to-deliver-next-gen-vision-based-solutions-1030578196"
+excerpt: "VVDN Technologies, a premier electronic product engineering and manufacturing company, announces the expansion of its capabilities"
+publishedDateTime: 2021-07-05T14:00:00Z
+originalUrl: "https://www.prnewswire.com/in/news-releases/vvdn-expands-its-capabilities-on-ambarella-edge-ai-vision-soc-platform-to-deliver-next-gen-vision-based-solutions-809343212.html"
+webUrl: "https://www.prnewswire.com/in/news-releases/vvdn-expands-its-capabilities-on-ambarella-edge-ai-vision-soc-platform-to-deliver-next-gen-vision-based-solutions-809343212.html"
 type: article
-quality: 28
+quality: 18
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - Computer Vision
   - AI
+
+images:
+  - url: "https://mma.prnewswire.com/media/1531036/VVDN_Technologies_Logo.jpg?p=facebook"
+    width: 600
+    height: 315
+    isCached: true
 
 related:
   - title: "Ambarella's (AMBA) CVflow Vision Processor to Power Arrival's EVs"
@@ -49,6 +51,6 @@ related:
         height: 420
         isCached: true
 
-secured: "uSsqJ7n5iz6VVWBdG4cSW2DVcERFve5/xY/V/tnxGPRuQH66EJdsmnfwvs0wMirYpd62p7rEVEcu1hNH+XuMByIhJaVW35qlGdQGLSkrCh9fReSSt9dq2k0zgcm+4jJhIzCy1WqF8ZJ3joAgi5lqCHrTOWXRplp+xr7ThKvFd4kWS6WpmZDzipak99KKs4kl+2mwuKcSgmeEUggm2lOj/f7bzXVzmejEdBcpAtz1WXZ/OsIesOrr/YHtEDH0GFHo8/BibcYXrUOnyUph4s7AiYcg3hWTqaqYYSIiIEKClA4CpI+cOsIFDUg23i+XmUHe8146fzVdh90V7AdXD47nVrYpvtaEY4ybC1QxqofCW74HyXJrCgLj1p/6bvvhDsyfEck4nS3AAODi1PFdi5roHO7fCvNdABFU+Jd/vOr2OR9yzwQJt62whEre0+hoYYwFszFsL8/C1rtEo17gaiOnAcRNKVjTaRK/7fV5w4TLkG9VCdTFb5eSAt4DqM3IWZFbi9rIvh9HwSVbj9b085MVZQ==;nFd6RlsVWY2mpawvQbdP3w=="
+secured: "K/PIH6Ytf2EA8efFrqP8P57gyyjDkt7kaSn+p2HLwht4xiAE6jFcK6fjVj0FBrulsuVEzzegY+KjbRkDwXnciE+0bB/QP/V4G4Onio4xpWfTwM+CzBmBptJcRsFQbfzVgRUpurc1suDqrwkLFtVNtniJwjvav1De2CceRTnlE3U/eUYIYvAikFUpmOI0qAUMV6jg4t3zxtLv7/mCO2MVFaNppT+kY7USfZWeGd3D3O2hmWXC7iOg8BaXs59Mdst9NJ6klUNkgs8052KY/QZeZTQdFyk39y/vzEObIclge/k2yItHW57cic7sPTHy3/+f0c2zO5voMYjTYZDdyyykPc3kMIA3TM6lXGTkGwE2+MM=;mZyDcGwocSMAhJoyQVNXww=="
 ---
 
