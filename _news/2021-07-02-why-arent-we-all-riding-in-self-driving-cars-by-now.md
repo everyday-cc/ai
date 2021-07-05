@@ -43,15 +43,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Global Self-Driving Amphibious Vehicle Market To See a Different edge during 2021-2027"
-    excerpt: "The “Global Self-Driving Amphibious Vehicle Market” provides up-to-date information on current and future industry trends, enabling readers to identify products and services to increase revenue growth and profitability."
-    publishedDateTime: 2021-07-01T04:55:00Z
-    webUrl: "https://ksusentinel.com/2021/07/01/global-self-driving-amphibious-vehicle-market-to-see-a-different-edge-during-2021-2027/"
-    type: article
-    provider:
-      name: The Sentinel
-      domain: ksusentinel.com
-    quality: 0
 
 secured: "rBnP3AFUzhM/3VciHJ7HlDj6wyyjTOgSyqHq2FpMlN57S9cnr1zU2Zq2mNBzNPePXn7lPeIei3C5AK0jZjv5RZWiT22mBq0OOkS3DOuGeYbGfS3fJo/3LJjpqbIL9Anl5JtwZytddv3hxKP2m3F4j8ie3Bw0js3QDdC621HkJtVLzDn+awiSTtDG/D+d3jJN/P7EDQe5F3UAaraeZprb9iVmFN6Jn+QIfraLHN2jFLMvZbc/yDATFTpuMrXXPyY7w3RwNR1KwwLBuaIhAr5fjmOwV16iRIYihoCCEFZvsWUGeArAcQnO2M90GVlYX3ZQ5t8vIFc0s6z8xgKdUCqWQlKXOxYMOePxuiFH86Gx5pji5hah1syg1ncpHjO7zRW5Uu3ngPFa5IdNsNZNdz05Q+WrNYb55xlPpxNF5iY47SfG2fyn03LaZSlV/gdwmU23LYR6pmQiK1LyEdgx2e7zBgiD2wnglIa3EiuK3y547QZIMBLcdhJVUKEftGHvOLEYbxmwiUQPV6D8Jg6IEz/YjA==;sv/exkhvkMvpe4Ry1sZFFg=="
 ---

@@ -1,10 +1,10 @@
 ---
 category: news
 title: "I am a community journalist: what can AI do for me?"
-excerpt: "In this special series that focuses on journalism rather than algorithms, we look at how the Austrian publisher Kronen Zeitung uses machine learning to moderate user comments and grow engagement"
+excerpt: "But this is not just a story about community journalism and audience engagement. Half a million comments a month is way too much for a team of human moderators to sift through. With spam, abuse, graphic content and all forms of online hatred,"
 publishedDateTime: 2021-07-05T18:47:00Z
-originalUrl: "https://www.journalism.co.uk/news/i-am-a-community-journalist-what-can-ai-do-for-me-/s2/a837358/"
-webUrl: "https://www.journalism.co.uk/news/i-am-a-community-journalist-what-can-ai-do-for-me-/s2/a837358/"
+originalUrl: "https://www.journalism.co.uk/ampnews/i-am-a-community-journalist-what-can-ai-do-for-me-/s435/a837358/"
+webUrl: "https://www.journalism.co.uk/ampnews/i-am-a-community-journalist-what-can-ai-do-for-me-/s435/a837358/"
 ampWebUrl: "https://www.journalism.co.uk/ampnews/i-am-a-community-journalist-what-can-ai-do-for-me-/s435/a837358/"
 cdnAmpWebUrl: "https://www-journalism-co-uk.cdn.ampproject.org/c/s/www.journalism.co.uk/ampnews/i-am-a-community-journalist-what-can-ai-do-for-me-/s435/a837358/"
 type: article
@@ -26,6 +26,6 @@ images:
     height: 306
     isCached: true
 
-secured: "mux18vt+qsgS8vZYNRV4qAffPXbdUlojAedoWgiyTImTikQo9/j8vx+/tGJ/sQHolgysgQOik0JIV+Baci+vROzCnekudFpXcyhnI7Xjppdc6i2UZB5TUavpfJd68ZG+80MaYGOfNCzQlp7LzkvABo3OkO0XSg12g6oqL5mQzse+2Hi/h3mXFbAvLoB5Or1NEeaEjZDVEyUVKXn7BE1Q+emYmSybwIj9Hy8Bwb4AU9qmNijrid8EPB4XMysAf0sXU5vNG0jnEt+myD07/weMZ+pqZN3JXv+yyFDl6y97iKKuSdBpL+pFtIoxkJoQmnzF1ukUAvrAUlei3gt0yOJHHr6Ay+jm0bik2kZKZ4LQOnw=;Mu/LWBCH4iT/eV9vc7jRgQ=="
+secured: "uwvK3IF3qMqAezgjbEX9H0i2/3l0V1qVh1uhst1UXZYE7Arthasrlo50PLt6aSkfi3BtOQpEeqdUBhMm629SWchEor36VuaT0rwPXwOBPn7ienfWhFldUwxGmBAd3sYpMwKEcCQ4kiM/L6GjAWW5HOsHNFupbudrw+W3SUO+4okDpKIBMJMAgMj92w8ebvaagICJuaxZZ5rC3LgF2Sdmj479EUZPcdbwQu1FWJcX3Z7oInibIqXtezWjIt+295f0OX4ZiKQFZCjXewFB+V4w3hxp1nUZV+TRndImsdPNX5QT1OtHSZxQ5/T3ApMqBke0eLY+jtRFI6wNf6PJl/nB5XRocSh0a4wddkTEYZfprzE=;CkapvIfwvegPdDbu0chQZg=="
 ---
 

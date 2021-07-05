@@ -9,7 +9,7 @@ ampWebUrl: "https://electrek.co/2021/07/05/elon-musk-admits-self-driving-harder-
 cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/07/05/elon-musk-admits-self-driving-harder-than-he-thought-tesla-troll-missed-deadlines/amp/"
 type: article
 quality: 73
-heat: 93
+heat: 103
 published: true
 
 provider:
@@ -60,6 +60,20 @@ related:
       - url: "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/still-jpg-738x478-1625175316.jpg?crop=1xw:0.7719665271966527xh;center,top&resize=1200:*"
         width: 738
         height: 369
+        isCached: true
+  - title: "Elon Musk says he didn’t expect creating self-driving cars would be ‘so hard’"
+    excerpt: "Elon Musk has admitted that delivering full self-driving software has been harder than he anticipated, to a chorus of both complaints and encouragement on Twitter. “Generalised self-driving is a hard problem,"
+    publishedDateTime: 2021-07-05T18:16:00Z
+    webUrl: "https://www.independent.co.uk/news/elon-musk-says-he-didn-t-expect-creating-selfdriving-cars-would-be-so-hard-b1878605.html"
+    type: article
+    provider:
+      name: The Independent
+      domain: independent.co.uk
+    quality: 21
+    images:
+      - url: "https://static.independent.co.uk/s3fs-public/thumbnails/image/2018/12/12/15/elon-musk.jpg?width=1200&auto=webp&quality=75"
+        width: 1200
+        height: 900
         isCached: true
 
 secured: "W9rE5ZLAaWdPR2eZhLaWuve7i2h+kCEPV/UaaW9WMgId6jcH7Xr6+kqDZVCps5LmjKNB/nbwPyth9hm8q/fQmie10Ad/SMwEj+KQZmxJF/MpQa/G+2qzcg5oYRilQnepl05B04o8loh506o+WNfvxht7onfxlRbkcLcFlORTb/qFg7EtUtgoe1koVKdTerI3UXP3stQG+2qcn99TYgiNOFjVEEylH3LxDXPjjZUwYcwinaD6D26ocDgwkKthuo/lFqL8LM9xxTvCgVP+K6YBFAFRfHI9B/6dz2rI/0po8xyIHnHrakxXz5zRJJk1uXuI0KFj9ToT9NEqptHbQH4y9vHXRNIefgaUMkGziCpkQDLUeafW1IARO11e5JbkDcMly8Q7sYZsh92xeqddcWwqoVQRHYMuJwC7/Sv5jGgSgs0GqhK6rzm9HR7AVY8e/hferC/B7CNnFcrUOU8LFDBl8cSMmBrdeJMBstMUdleM2XfaR4xXe9uzbgVOFK5BEJPM/fznJlJBQZ+f3/dLgoaIeg==;aKctNMZ7MW0vtwyH128Axg=="

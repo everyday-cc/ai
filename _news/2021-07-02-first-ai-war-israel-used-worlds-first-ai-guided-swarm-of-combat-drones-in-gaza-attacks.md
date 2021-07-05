@@ -25,6 +25,24 @@ images:
     height: 405
     isCached: true
 
+related:
+  - title: "Israel uses first-ever AI drone swarm in battle to hunt down and blitz Hamas terrorists with NO human input"
+    excerpt: "ISRAEL used the first ever drone swarm deployed in battle to hunt down Hamas terrorists, it was reported. The drones have no human input but instead link together using artificial intelligence to"
+    publishedDateTime: 2021-07-05T20:47:00Z
+    webUrl: "https://www.the-sun.com/news/3222879/israel-first-ever-drone-swarm-hamas/"
+    ampWebUrl: "https://www.the-sun.com/news/3222879/israel-first-ever-drone-swarm-hamas/amp/"
+    cdnAmpWebUrl: "https://www-the--sun-com.cdn.ampproject.org/c/s/www.the-sun.com/news/3222879/israel-first-ever-drone-swarm-hamas/amp/"
+    type: article
+    provider:
+      name: The Sun
+      domain: the-sun.com
+    quality: 39
+    images:
+      - url: "https://www.the-sun.com/wp-content/uploads/sites/6/2021/07/RR-COMP-DRONE.jpg?strip=all&quality=100&w=1200&h=800&crop=1"
+        width: 1200
+        height: 800
+        isCached: true
+
 secured: "YprLdAFuJoa+X9wfEO/3CPabGnbVPOrR0cID2p90kVQqjSb8rGGaYc/xaaBO8/qB77GgH+GiJaUOJNboMlloGEQaBiafwKH82MpGWet5kqejPBQtG1vW90wMIaDhtcT3PWh7FRBSH0yC8xYqbO5avI6uEjSfO8nKBwFIAqmhqt4fcu5kBXhc2FesIMspyumfzjERo0RuzAAgs+xgHiSPaR1lbpERpwDf0ieuWabu0/xrPvpTkYRRrBCPgc1zYfQVw7r6slvaFcWzBVgc4rB3kLdSkhQQMrWquSDDWBLe1ylxBlyCDOgLw5Cw5Qp9M05JQ1fPzQTC0Yz6rTpqbsbs1um2+YsxkrQiOl8o7nstcPo=;32n/uiNkb52cbVOEKPNYtw=="
 ---
 

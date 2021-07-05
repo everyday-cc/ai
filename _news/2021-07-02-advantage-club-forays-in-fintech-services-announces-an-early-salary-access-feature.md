@@ -147,15 +147,6 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 13
-  - title: "3 fintech trends that are transforming the future of business"
-    excerpt: "Here are three emerging trends in fintech that businesses should be aware of in order to best protect themselves against the inherent risks of digitization of operations, products and services."
-    publishedDateTime: 2021-07-01T05:00:00Z
-    webUrl: "https://www.bizjournals.com/dallas/news/2021/07/01/3-fintech-trends-that-are-transforming-the-future.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 4
 
 secured: "xUXsBeE5nB01Y/B1GlWa8ihQL8pUbBgYYybPFCurGtn3pkF/QS4YCaJ/RfEFAzb6YTOIVfOSTAd6v5G4YpQcLLX6oNdRuTEvJY9POoWJ5pncQoqzHGMnTxC95TG5sDTspaiUtW3vIGNJowzcCCUtkteBAc2vbDDsdqcfIwaRRia7FDBCDFqGsx7if+008GJD5OguOATLxMgepq3l+/bb8oBYXOmjEWxnl3nYKapPPkMkBOAWcGAJM9IRiTznqSluBJ55fC7gUawTF2ACL0jqwcCt7kZmed1+WeyxvYeX4h5/9D6SwPmDmx/Wtr0TFLy34tFZ/oDCNcgrF3FjOH2JBgGnBxm/yEltChAAYDumd9o=;GTNrgMwj71MWSXyjmEfIzw=="
 ---

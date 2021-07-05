@@ -2,6 +2,49 @@
   "page": 37,
   "value": [
     {
+      "path": "_news/2021-06-07-iit-roorkee-launches-mtech-in-artificial-intelligence-data-science.md",
+      "title": "IIT Roorkee Launches MTech in Artificial Intelligence, Data Science",
+      "excerpt": "Roorkee has launched two new MTech programs in Artificial Intelligence (AI) and Data Science (DS) under the recently established Centre for Artificial Intelligence and Data Science (CAIDS). The two MTech programs will train students with an in-depth knowledge of the tools and techniques necessary to translate data into actionable decisions.",
+      "sourceUrl": null,
+      "webUrl": "https://www.news18.com/news/education-career/iit-roorkee-launches-mtech-in-artificial-intelligence-data-science-3818579.html",
+      "originalUrl": "https://www.news18.com/news/education-career/iit-roorkee-launches-mtech-in-artificial-intelligence-data-science-3818579.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.news18.com/ibnlive/uploads/2021/06/1623051074_online-learning.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.news18.com/amp/news/education-career/iit-roorkee-launches-mtech-in-artificial-intelligence-data-science-3818579.html",
+      "cdnAmpWebUrl": "https://www-news18-com.cdn.ampproject.org/c/s/www.news18.com/amp/news/education-career/iit-roorkee-launches-mtech-in-artificial-intelligence-data-science-3818579.html",
+      "publishedDateTime": "2021-06-07T01:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN-News18",
+        "domain": "news18.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-07-deepmind-ai-taught-digital-people-to-play-football-from-scratch.md",
       "title": "DeepMind AI taught digital people to play football from scratch",
       "excerpt": "AI taught digital players who start out able to only make random movements how to run, dribble a football, kick it into the goal and work as a team",
@@ -1136,49 +1179,6 @@
         "Natural Language Processing",
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-05-icici-lombard-leverages-microsoft-azure-cognitive-services-to-redefine-customer-engagement.md",
-      "title": "ICICI Lombard leverages Microsoft Azure Cognitive Services to redefine customer engagement",
-      "excerpt": "Icici Lombard Increased screening of customer calls from 20% to 100%; improved Quality Audit (QA) accuracy of calls by 30%; reduced response time.",
-      "sourceUrl": null,
-      "webUrl": "https://www.dqindia.com/icici-lombard-leverages-microsoft-azure-cognitive-services-to-redefine-customer-engagement/",
-      "originalUrl": "https://www.dqindia.com/icici-lombard-leverages-microsoft-azure-cognitive-services-to-redefine-customer-engagement/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.dqindia.com/wp-content/uploads/2021/06/6CF52215-66AC-42DA-9307-7E975564CE3B.png",
-          "width": 800,
-          "height": 598,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.dqindia.com/icici-lombard-leverages-microsoft-azure-cognitive-services-to-redefine-customer-engagement/amp/",
-      "cdnAmpWebUrl": "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/icici-lombard-leverages-microsoft-azure-cognitive-services-to-redefine-customer-engagement/amp/",
-      "publishedDateTime": "2021-06-05T02:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Dataquest",
-        "domain": "dqindia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],

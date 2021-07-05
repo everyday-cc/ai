@@ -96,6 +96,15 @@ related:
         width: 600
         height: 337
         isCached: true
+  - title: "Artificial Intelligence in Healthcare Market 2021 Updated Report || Top Players – Intel, IBM, Google, Microsoft, General Vision"
+    excerpt: "Artificial Intelligence in Healthcare Market 2021 Updated Report \\|\\| Top Players – Intel, IBM, Google, Microsoft, General Vision; Surgical Planning Software Market"
+    publishedDateTime: 2021-07-05T18:47:00Z
+    webUrl: "https://manometcurrent.com/artificial-intelligence-in-healthcare-market-2021-updated-report-top-players-intel-ibm-google-microsoft-general-vision/"
+    type: article
+    provider:
+      name: manometcurrent.com
+      domain: manometcurrent.com
+    quality: 29
   - title: "Deep Learning Software Market Size and Growth to 2028 | Key Players – Microsoft, Express Scribe, Nuance, Google, IBM, AWS"
     excerpt: "The Deep Learning Software Market report forecasts promising growth and development for the period 2021-2028. The Deep Learning Software market research report defines key statistical data presented in an organized format including graphs,"
     publishedDateTime: 2021-07-05T02:51:00Z
@@ -114,15 +123,6 @@ related:
       name: manometcurrent.com
       domain: manometcurrent.com
     quality: 28
-  - title: "Artificial Intelligence in Healthcare Market 2021 Updated Report || Top Players – Intel, IBM, Google, Microsoft, General Vision"
-    excerpt: "Artificial Intelligence in Healthcare Market 2021 Updated Report \\|\\| Top Players – Intel, IBM, Google, Microsoft, General Vision; Surgical Planning Software Market"
-    publishedDateTime: 2021-07-05T18:47:00Z
-    webUrl: "https://manometcurrent.com/artificial-intelligence-in-healthcare-market-2021-updated-report-top-players-intel-ibm-google-microsoft-general-vision/"
-    type: article
-    provider:
-      name: manometcurrent.com
-      domain: manometcurrent.com
-    quality: 27
   - title: "States Voice Recognition for Smartphones Market to Witness Huge Growth by 2028 | Apple, Google, Microsoft"
     excerpt: "The research covers the current & Future market size of the Global States Voice Recognition for Smartphones market & its growth rates based on 8 year history data. It also covers various types of segmentation such as by geography [China, Japan, Korea ..."
     publishedDateTime: 2021-07-02T14:43:00Z

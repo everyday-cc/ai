@@ -2,18 +2,14 @@
 category: news
 title: "Supermicro Boosts Performance for HPC and AI Applications with Optimized Servers Featuring New NVIDIA A100 80GB PCIe GPUs"
 excerpt: "Supermicro servers, designed with a Building Block Solutions ® approach, give Supermicro a first to market advantage when incorporating new technologies. State-of-the-art accelerated computing options can be quickly integrated and tested,"
-publishedDateTime: 2021-06-28T15:05:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/supermicro-boosts-performance-for-hpc-and-ai-applications-with-optimized-servers-featuring-new-nvidia-a100-80gb-pcie-gpus-1030559099"
-webUrl: "https://markets.businessinsider.com/news/stocks/supermicro-boosts-performance-for-hpc-and-ai-applications-with-optimized-servers-featuring-new-nvidia-a100-80gb-pcie-gpus-1030559099"
+publishedDateTime: 2021-06-28T13:08:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-supermicro-boosts-performance-hpc-ai-applications-with-optimized-/2021/06/28/9398763.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-supermicro-boosts-performance-hpc-ai-applications-with-optimized-/2021/06/28/9398763.htm"
 type: article
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI Hardware
@@ -25,6 +21,6 @@ images:
     height: 206
     isCached: true
 
-secured: "soNPxGVVtM3AHDMCItZcjuBwjvoNVPXEG57c/1y09xxb7bz7dshxD5cq8z9DsCPuVNt8U86wBWwSOBs6JLbJ1eLEQ06m88LeIhnziZ5+e30nq0qRKsnkkZe8vklu9J2uRKqiAFspZKawU7jf+2d+wBay81KjvNV+Bkc9Rj1dwR8xcjZ0lTXWCh9B/ttREsB+XF9o0pURZkTtwwlvYTko3b2sX3y4rRecZFV8hc+dnyQ++n3RqMza0CY2gs6qZEGJoZ6iffkVKAskWUN+DIGZByatFZ6fKl/PwBG8HjqyUfsHgTWP8C7ovKScR6ycD5WGqy3vTfMQZ0VUFHuWZBAvSVhDtDdXfLo0qVrSDfqga6M=;eVEgwsVTWXHdKD3R+gQTug=="
+secured: "jgqxXknopGK8Rd9N1ossOK7fYV8+/G8PGb+5oEM/h0kIdszNtHWG4wlxQ7aR0hQFz9a5lVpYejQMGi+Js/wRgLm93IVNYpw2YSRX4yfmifP5BXDCky72vnqBKDN6pu8n1K82WZfEhU+ad0aQp3cwzzFnpn1PIGZuoclTlFNBC+q1v5DBzJpEhg4ST3KeCqgyKHgp9DkAEk9/50W+ARY4dL7n1BE2CZU9L53NNkGxlua11E5Wczvn/+bcIxmCOxTX6KXPb3Xl0PVl03wHAKjLeqH2YL9mM5bkf0XlB1vaC/Rw4vNS0LI0gOAzl9r2LTyEtyBqd4NSIlwmzDIDMy+4goSTSn9hGpAzeWCSwlqoPOc=;9+rX9/oWT4dieCENiuRlww=="
 ---
 

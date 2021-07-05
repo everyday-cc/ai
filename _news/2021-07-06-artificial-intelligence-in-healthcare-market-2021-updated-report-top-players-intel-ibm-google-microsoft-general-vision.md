@@ -6,7 +6,7 @@ publishedDateTime: 2021-07-05T18:47:00Z
 originalUrl: "https://manometcurrent.com/artificial-intelligence-in-healthcare-market-2021-updated-report-top-players-intel-ibm-google-microsoft-general-vision/"
 webUrl: "https://manometcurrent.com/artificial-intelligence-in-healthcare-market-2021-updated-report-top-players-intel-ibm-google-microsoft-general-vision/"
 type: article
-quality: 27
+quality: 29
 heat: -1
 published: false
 
@@ -20,6 +20,7 @@ topics:
   - Microsoft AI
   - IBM AI
   - Computer Vision
+  - Natural Language Processing
 
 related:
   - title: "Speech Recognition Software Market Next Big Thing | Major Giants Google, Microsoft, Baidu"

@@ -1,28 +1,27 @@
 ---
 category: news
-title: "Watch This Tesla Owner's DIY Robo-Charger Stick Its Landing"
-excerpt: "It's the kind of charging technology that Tesla CEO Elon Musk has teased before, but hasn't yet delivered. So let's take a look at Larson's charging setup to see what's going on under the hood. ➡️ You love badass cars."
-publishedDateTime: 2021-07-02T13:00:00Z
-originalUrl: "https://www.popularmechanics.com/science/green-tech/a36731566/tesla-automatic-charger/"
-webUrl: "https://www.popularmechanics.com/science/green-tech/a36731566/tesla-automatic-charger/"
+title: "Elon Musk says he didn’t expect creating self-driving cars would be ‘so hard’"
+excerpt: "Elon Musk has admitted that delivering full self-driving software has been harder than he anticipated, to a chorus of both complaints and encouragement on Twitter. “Generalised self-driving is a hard problem,"
+publishedDateTime: 2021-07-05T18:16:00Z
+originalUrl: "https://www.independent.co.uk/news/elon-musk-says-he-didn-t-expect-creating-selfdriving-cars-would-be-so-hard-b1878605.html"
+webUrl: "https://www.independent.co.uk/news/elon-musk-says-he-didn-t-expect-creating-selfdriving-cars-would-be-so-hard-b1878605.html"
 type: article
-quality: 41
+quality: 21
 heat: -1
 published: false
 
 provider:
-  name: Popular Mechanics
-  domain: popularmechanics.com
+  name: The Independent
+  domain: independent.co.uk
 
 topics:
-  - Google AI
-  - AI
   - AI in Autos
+  - AI
 
 images:
-  - url: "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/still-jpg-738x478-1625175316.jpg?crop=1xw:0.7719665271966527xh;center,top&resize=1200:*"
-    width: 738
-    height: 369
+  - url: "https://static.independent.co.uk/s3fs-public/thumbnails/image/2018/12/12/15/elon-musk.jpg?width=1200&auto=webp&quality=75"
+    width: 1200
+    height: 900
     isCached: true
 
 related:
@@ -58,21 +57,21 @@ related:
         width: 708
         height: 454
         isCached: true
-  - title: "Elon Musk says he didn’t expect creating self-driving cars would be ‘so hard’"
-    excerpt: "Elon Musk has admitted that delivering full self-driving software has been harder than he anticipated, to a chorus of both complaints and encouragement on Twitter. “Generalised self-driving is a hard problem,"
-    publishedDateTime: 2021-07-05T18:16:00Z
-    webUrl: "https://www.independent.co.uk/news/elon-musk-says-he-didn-t-expect-creating-selfdriving-cars-would-be-so-hard-b1878605.html"
+  - title: "Watch This Tesla Owner's DIY Robo-Charger Stick Its Landing"
+    excerpt: "It's the kind of charging technology that Tesla CEO Elon Musk has teased before, but hasn't yet delivered. So let's take a look at Larson's charging setup to see what's going on under the hood. ➡️ You love badass cars."
+    publishedDateTime: 2021-07-02T13:00:00Z
+    webUrl: "https://www.popularmechanics.com/science/green-tech/a36731566/tesla-automatic-charger/"
     type: article
     provider:
-      name: The Independent
-      domain: independent.co.uk
-    quality: 21
+      name: Popular Mechanics
+      domain: popularmechanics.com
+    quality: 41
     images:
-      - url: "https://static.independent.co.uk/s3fs-public/thumbnails/image/2018/12/12/15/elon-musk.jpg?width=1200&auto=webp&quality=75"
-        width: 1200
-        height: 900
+      - url: "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/still-jpg-738x478-1625175316.jpg?crop=1xw:0.7719665271966527xh;center,top&resize=1200:*"
+        width: 738
+        height: 369
         isCached: true
 
-secured: "ZD8oHvS+WedpC+ktwHvZtvYvQ7uAOzbYi7XO4K22E87tyr1TKXmdvVxMjOyOZycPpweQ+3yO83orxpNJOF7LlHX1zT5jWz5IW+5rCP2gkSRZHyLCX7wKFVy9UjG3WpH8r3/rgavmBt5KqsZzHAFWfrO5RxWSrxQpbUooYjFaZkG/1dwZbjI5Z0Dka36ZuddoWXSxCNDWo3azuqudEJL64604s1FoB/0RGAh/sSR9H4SgkP6CazBcl9H4XseK4DF3+uNdpgigbkEXGS3tY9DIw0Ty/m5qL5aT/+ex77ll9S92/JtrncKG3HKarbJAFRxIqY7KB0HaDKGGzWHjYy+26FrUpRbJRNqP899P39vd0FilWHqecDHoQ5n9BbxGKSnz9JQBgeGsf6jZIiu8T1JHKn6g3YzAT72VbxCEdSUynvPVCfvVQUgEhXHd2jJp3W3jl8/Mt8t02B3KDdlTq1R95gq/fmfIN52o+TWobox+69J8FiVA/CfHSIC4szHgYTgqJ3bk9+clCZC6/grvZEEaxw==;nAevmUx1BWkM8Q/SOaIcQA=="
+secured: "aPKlazTuNy9QwjRafh6WAxeFUDLq7CtkWcuayQ08nLhqnyCF0Ik1gKTZ+zs8Zyd9msTawSnfiH4Qu6HS9eMBmr7dut0YMhriz0WyE6f38yPlXKa5slm42J9VWF7rrZfj61HS0OjgODbUgxqir8z7rVYWKOa4c8KJVaZQttQT10xKCgOfPpe43+3zBGlZ8S9kDh1TcDL5RXStRmnyOuxr7co0Lu+ojJ34dCMftARRtHK/z7tSL5UrIzhXcCtbJAJJtJnY+DAj6LO2iDWDWtrqpVmhottNe3Tw2oGEewsBxDrMlHQgUDcBSTAVu+vESWIiHbHRvcZzDMhygajiKTDT+X6Ry4l47mzoYzKgeAx7VKo=;u8kfg4MWrlEXnsAIwZhW/g=="
 ---
 

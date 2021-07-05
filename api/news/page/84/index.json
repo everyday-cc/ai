@@ -2,6 +2,40 @@
   "page": 84,
   "value": [
     {
+      "path": "_news/2021-05-05-wipro-limited-wipro-has-earned-the-microsoft-windows-virtual-desktop-advanced-specialization.md",
+      "title": "Wipro Limited: Wipro Has Earned the Microsoft Windows Virtual Desktop Advanced Specialization",
+      "excerpt": "Wipro Limited (NYSE: WIT, BSE: 507685, NSE: WIPRO), a leading global information technology, consulting and business process services company, today said it has earned the Microsoft Windows Virtual De",
+      "sourceUrl": null,
+      "webUrl": "https://www.finanznachrichten.de/nachrichten-2021-05/52866824-wipro-limited-wipro-has-earned-the-microsoft-windows-virtual-desktop-advanced-specialization-004.htm",
+      "originalUrl": "https://www.finanznachrichten.de/nachrichten-2021-05/52866824-wipro-limited-wipro-has-earned-the-microsoft-windows-virtual-desktop-advanced-specialization-004.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-04T15:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Finanznachrichten",
+        "domain": "finanznachrichten.de",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-05-ai-bias-is-an-ongoing-problem-but-theres-hope-for-a-minimally-biased-future.md",
       "title": "AI bias is an ongoing problem, but there's hope for a minimally biased future",
       "excerpt": "Removing bias from AI is nearly impossible, but one expert sees a future with potentially bias-free decisions made by machines.",
@@ -1172,49 +1206,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-04-ibm-details-planned-2-nanometer-chip-process.md",
-      "title": "IBM details planned 2-nanometer chip process",
-      "excerpt": "During a press conference, IBM detailed its 2-nanometer chip process, which it expects will come into production in the next several years.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/05/04/ibm-details-planned-2-nanometer-chip-process/",
-      "originalUrl": "https://venturebeat.com/2021/05/04/ibm-details-planned-2-nanometer-chip-process/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/05/04/ibm-details-planned-2-nanometer-chip-process/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/04/ibm-details-planned-2-nanometer-chip-process/amp/",
-      "publishedDateTime": "2021-05-04T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

@@ -62,7 +62,7 @@
       "originalUrl": "https://venturebeat.com/2021/07/05/microsofts-project-alexandria-parses-documents-using-unsupervised-learning/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 91,
       "tags": null,
       "images": [
         {
@@ -115,7 +115,7 @@
       "originalUrl": "https://www.outlookindia.com/outlookmoney/finance/blending-computing-with-ai-machine-learning-for-low-risk-high-returns-7932",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 74,
       "tags": null,
       "images": [
         {
@@ -623,19 +623,19 @@
     {
       "path": "_news/2021-06-29-edge-of-chaos-opens-pathway-to-artificial-intelligence-discoveries.md",
       "title": "'Edge of chaos' opens pathway to artificial intelligence discoveries",
-      "excerpt": "Scientists at the University of Sydney and Japan's National Institute for Material Science (NIMS) have discovered that an artificial network of nanowires can be tuned to respond in a brain-like way when electrically stimulated.",
+      "excerpt": "have discovered that an artificial network of nanowires can be tuned to respond in a brain-like way when electrically stimulated. This, they say, suggests the underlying nature of neural ...",
       "sourceUrl": null,
-      "webUrl": "https://phys.org/news/2021-06-edge-chaos-pathway-artificial-intelligence.html",
-      "originalUrl": "https://phys.org/news/2021-06-edge-chaos-pathway-artificial-intelligence.html",
+      "webUrl": "https://www.eurekalert.org/pub_releases/2021-06/uos-oc062721.php",
+      "originalUrl": "https://www.eurekalert.org/pub_releases/2021-06/uos-oc062721.php",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://scx2.b-cdn.net/gfx/news/2021/edge-of-chaos-opens-pa.jpg",
-          "width": 514,
-          "height": 225,
+          "url": "https://www.eurekalert.org/multimedia/pub/web/269158_web.jpg",
+          "width": 1440,
+          "height": 1009,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -645,11 +645,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-29T02:37:00-07:00",
+      "publishedDateTime": "2021-06-29T03:13:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Phys.org",
-        "domain": "phys.org",
+        "name": "EurekAlert!",
+        "domain": "eurekalert.org",
         "images": null,
         "publishers": null,
         "authors": null

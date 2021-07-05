@@ -2,6 +2,58 @@
   "page": 82,
   "value": [
     {
+      "path": "_news/2021-05-06-carnegie-mellon-researchers-trained-ai-to-simulate-our-universe-on-a-gpu.md",
+      "title": "Carnegie Mellon researchers trained AI to simulate our universe on a GPU",
+      "excerpt": "Simulating the universe is difficult. There are, after all, potentially infinite variables to consider. Scientists typically use supercomputers to crunch data at the cosmological level, but a team of",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/news/carnegie-mellon-researchers-trained-ai-to-simulate-our-universe-on-a-gpu",
+      "originalUrl": "https://thenextweb.com/news/carnegie-mellon-researchers-trained-ai-to-simulate-our-universe-on-a-gpu",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2019%2F10%2Fspacefoam.jpg&signature=8bcfb9474ea9432765269ecec6da5afb",
+          "width": 1212,
+          "height": 606,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-05T12:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-06-text-analytics-market-share-trends-growth-outlook-with-company-analysis-and-forecast-to-2027.md",
       "title": "Text Analytics Market Share, Trends, Growth Outlook with Company Analysis and Forecast to 2027",
       "excerpt": "Selbyville, Delaware, The research report provides an in-depth analysis of the growth factor, major trends, and opportunities that may influence the growth of the Text Analytics Market in the future.",
@@ -1113,57 +1165,6 @@
         "name": "reuters.com/technology/wixcom-buys-riseai-add-gift-cards-e-commerce-platform-2021-05-05/",
         "domain": "reuters.com/technology/wixcom-buys-riseai-add-gift-cards-e-commerce-platform-2021-05-05/",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-05-alkymi-patterns-tool-uses-ai-to-extract-data-from-documents.md",
-      "title": "Alkymi Patterns tool uses AI to extract data from documents",
-      "excerpt": "Business intelligence platform Alkymi's new Patterns product leverages AI and machine learning to identify data in documents and emails.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/05/05/alkymi-patterns-tool-uses-ai-to-extract-data-from-documents/",
-      "originalUrl": "https://venturebeat.com/2021/05/05/alkymi-patterns-tool-uses-ai-to-extract-data-from-documents/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2015/11/big-fat-document.jpg?w=1200&strip=all",
-          "width": 999,
-          "height": 534,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/05/05/alkymi-patterns-tool-uses-ai-to-extract-data-from-documents/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/05/alkymi-patterns-tool-uses-ai-to-extract-data-from-documents/amp/",
-      "publishedDateTime": "2021-05-05T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

@@ -2,6 +2,57 @@
   "page": 48,
   "value": [
     {
+      "path": "_news/2021-05-28-this-singapore-based-startup-is-unlocking-true-potential-of-cctv-cameras-through-ai.md",
+      "title": "This Singapore-Based Startup Is Unlocking True Potential Of CCTV Cameras Through AI",
+      "excerpt": "Somehow we have grown with this practice, but what if artificial intelligence (AI) can be used to control the flow of traffic or manage crowds through the already deployed CCTV camera? This is what a Singapore-based startup Graymatics is offering with much ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.entrepreneur.com/article/373150",
+      "originalUrl": "https://www.entrepreneur.com/article/373150",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/1622210255-MyPost122.jpg?width=600&crop=16:9",
+          "width": 600,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.entrepreneur.com/amphtml/373150",
+      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/373150",
+      "publishedDateTime": "2021-05-28T06:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-28-relativity-acquires-text-iq-to-augment-ai-platform-for-lawyers.md",
       "title": "Relativity acquires Text IQ to augment AI platform for lawyers",
       "excerpt": "Relativity acquires Text IQ to drive AI technologies deeper into a platform law firms employ to reduce discovery time and effort.",
@@ -1137,58 +1188,6 @@
       "topics": [
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-05-28-new-degree-in-computer-vision-launches-as-artificial-intelligence-expands.md",
-      "title": "New Degree in Computer Vision Launches as Artificial Intelligence Expands",
-      "excerpt": "A new master's degree in computer vision will launch this fall at the University of Central Florida, the first public university in the country to offer a degree in this rapidly expanding field. Computer vision is a specialized computer science discipline that involves using computers to process and analyze images,",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/new-degree-in-computer-vision-launches-as-artificial-intelligence-expands-1030473072",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/new-degree-in-computer-vision-launches-as-artificial-intelligence-expands-1030473072",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1520359/ucf_82092184_Medium_Shah.jpg",
-          "width": 400,
-          "height": 267,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-27T14:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],

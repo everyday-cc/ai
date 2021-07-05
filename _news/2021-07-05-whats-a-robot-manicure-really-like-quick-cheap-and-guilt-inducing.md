@@ -9,7 +9,7 @@ ampWebUrl: "https://sea.mashable.com/tech/16518/whats-a-robot-manicure-really-li
 cdnAmpWebUrl: "https://sea-mashable-com.cdn.ampproject.org/c/s/sea.mashable.com/tech/16518/whats-a-robot-manicure-really-like-quick-cheap-and-guilt-inducing?amp=1"
 type: article
 quality: 89
-heat: 99
+heat: 100
 published: true
 
 provider:

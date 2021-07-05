@@ -138,15 +138,6 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 13
-  - title: "3 fintech trends that are transforming the future of business"
-    excerpt: "Here are three emerging trends in fintech that businesses should be aware of in order to best protect themselves against the inherent risks of digitization of operations, products and services."
-    publishedDateTime: 2021-07-01T05:00:00Z
-    webUrl: "https://www.bizjournals.com/dallas/news/2021/07/01/3-fintech-trends-that-are-transforming-the-future.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 4
   - title: "Advantage Club forays in Fintech Services, announces an early salary access feature"
     excerpt: "Advantage Club, one of the leading Employee Engagement platforms in South East Asia, has made its foray into financial services with the launch of an early salary access feature that will let professionals and employees take a portion of their salaries before their payday to help them if they are caught short."
     publishedDateTime: 2021-07-02T09:14:00Z
