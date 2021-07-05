@@ -6,6 +6,9 @@ publishedDateTime: 2021-07-05T08:07:00Z
 originalUrl: "https://www.thehindubusinessline.com/opinion/winning-formula-how-ai-is-changing-the-chemical-sector/article35143125.ece"
 webUrl: "https://www.thehindubusinessline.com/opinion/winning-formula-how-ai-is-changing-the-chemical-sector/article35143125.ece"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: Business Line

@@ -41,20 +41,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Bias-Free AI and Algorithms in Healthcare Remain Elusive Goal"
-    excerpt: "Artificial intelligence (AI)–driven healthcare is widely expected to transform medical decision-making and treatment, but AI algorithms must be thoroughly tested and continuously monitored to avoid unintended consequences,"
-    publishedDateTime: 2021-06-30T18:19:00Z
-    webUrl: "https://www.healthleadersmedia.com/technology/bias-free-ai-and-algorithms-healthcare-remain-elusive-goal"
-    type: article
-    provider:
-      name: HealthLeaders Media
-      domain: healthleadersmedia.com
-    quality: 54
-    images:
-      - url: "https://www.healthleadersmedia.com/sites/hlmp/files/files/algorithmsshutterstock_184019357.jpg"
-        width: 1280
-        height: 563
-        isCached: true
   - title: "Digital health care in China and access for older people"
     excerpt: "Digital medicine technology has been widely applied to support health care today.1 In China, the so-called Internet Plus health care is an emerging health service model with a cross-industry integration and application of information technologies,"
     publishedDateTime: 2021-07-01T12:45:00Z

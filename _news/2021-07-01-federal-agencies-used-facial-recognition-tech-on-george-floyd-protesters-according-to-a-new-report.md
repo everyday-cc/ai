@@ -91,22 +91,6 @@ related:
         width: 1120
         height: 630
         isCached: true
-  - title: "Maine passes ‘strongest’ facial recognition restrictions in the country"
-    excerpt: "Maine passed regulations surrounding government use of facial recognition that is being hailed as the \"strongest\" statewide rules in the US."
-    publishedDateTime: 2021-06-30T15:42:00Z
-    webUrl: "https://www.dailydot.com/debug/facial-recognition-maine-regulations/"
-    ampWebUrl: "https://www.dailydot.com/debug/facial-recognition-maine-regulations/?amp"
-    cdnAmpWebUrl: "https://www-dailydot-com.cdn.ampproject.org/c/s/www.dailydot.com/debug/facial-recognition-maine-regulations/?amp"
-    type: article
-    provider:
-      name: The Daily Dot
-      domain: dailydot.com
-    quality: 74
-    images:
-      - url: "https://uploads.dailydot.com/2021/06/Maine-Facial-Recognition.jpg?auto=compress%2Cformat&ixlib=php-3.3.0"
-        width: 2000
-        height: 1000
-        isCached: true
   - title: "Maine Passes Strongest Facial Recognition Restrictions In Country"
     excerpt: "Maine has enacted the strongest facial recognition law in the country, according to the American Civil Liberties Union of Maine."
     publishedDateTime: 2021-06-30T19:14:00Z
@@ -229,20 +213,6 @@ related:
       - url: "https://nypost.com/wp-content/uploads/sites/2/2021/07/prison-facial-recognition-01.jpg?quality=90&strip=all&w=1200"
         width: 1200
         height: 800
-        isCached: true
-  - title: "Maine Enacts Strongest Statewide Facial Recognition Regulations in the Country"
-    excerpt: "Maine has enacted the country’s strongest statewide facial recognition law. Maine’s law prohibits the use of facial recognition technology in most areas of government, including in public schools, and for surveillance purposes."
-    publishedDateTime: 2021-06-30T15:14:00Z
-    webUrl: "https://www.aclu.org/press-releases/maine-enacts-strongest-statewide-facial-recognition-regulations-country"
-    type: article
-    provider:
-      name: Aclu.org
-      domain: aclu.org
-    quality: 50
-    images:
-      - url: "https://www.aclu.org/files/images/Generic-SocialShare-1200x628.png"
-        width: 1200
-        height: 628
         isCached: true
   - title: "Maine law restricting facial recognition technology statewide is one of the nation’s toughest"
     excerpt: "A bill touted as the country's strictest statewide regulation on the use of facial recognition technology has become law in Maine."

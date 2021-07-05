@@ -35,11 +35,25 @@ related:
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 89
+    quality: 106
     images:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60e279184db784a0c94473f6%2F0x0.jpg"
         width: 1200
         height: 702
+        isCached: true
+  - title: "WHO FOR AI FOR HEALTHCARE"
+    excerpt: "The report lays down six principles for design and use of AI in healthcare globally, with caution The past year or so has been a binge-watch of web series for many of us. I have been going through sev"
+    publishedDateTime: 2021-07-02T18:47:00Z
+    webUrl: "https://www.dailypioneer.com/2021/columnists/who-for-ai-for-healthcare.html"
+    type: article
+    provider:
+      name: The Pioneer
+      domain: dailypioneer.com
+    quality: 56
+    images:
+      - url: "https://www.dailypioneer.com/uploads/2021/story/images/big/who-for-ai-for-healthcare-2021-07-03.jpg"
+        width: 1000
+        height: 800
         isCached: true
 
 secured: "uxSmCdx88vwyTBr1Ch9LHIWXYrEvJ86YOOpBVHZlArX0EFoJMGrs/7jjMk1Dvs1ccszwdmTNPS+d+LrKe+b+t7sOoZZk/uHJf0fP+hoXcuEqa3mqKUDew6I+zdi2lrGMg9q0I48W5ompCTz6DgGJdioCmh/kIvEAPnR92ZXZHgVQkMme9zrq3CRDFnBP8SYryARpjoazdOs8+EPQ9sOYn03WO4TltCvK2L/t2wpDaI4cHGkTMPhXuS6duXBN86xXyss8R7sFmu4upz4GDRzWO9Eny10QYeNV/z3pqufVD5m5GED98UnLhbc2/WtgApWwtxkdEwJXWxW/uLtO/7ln/3xSzqiLr6x/fWTUzu/QcPM=;gyq955XCvxbKDx3s3J9/Xg=="

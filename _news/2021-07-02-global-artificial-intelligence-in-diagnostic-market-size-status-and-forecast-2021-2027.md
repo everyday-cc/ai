@@ -32,6 +32,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "At 26.3% CAGR, AI in Computer Vision Market Size will reach 64.59 billion USD by 2027"
+    excerpt: "Global AI in computer vision Market to reach USD 64.59 billion by 2027. Global AI in computer vision Market is valued approximately USD 12.6 billion in 2020 and is anticipated to grow with a healthy growth rate of more than 26."
+    publishedDateTime: 2021-07-01T14:03:00Z
+    webUrl: "https://www.marketwatch.com/press-release/at-263-cagr-ai-in-computer-vision-market-size-will-reach-6459-billion-usd-by-2027-2021-07-01"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 57
   - title: "4 Top Fintech Stocks To Watch In July 2021"
     excerpt: "Do You Have These The Fintech Stocks On Your July Watchlist? Fintech stocks have been some of the most popular stocks in the stock market today. Fintech is growing and the growth"
     publishedDateTime: 2021-07-02T11:57:00Z

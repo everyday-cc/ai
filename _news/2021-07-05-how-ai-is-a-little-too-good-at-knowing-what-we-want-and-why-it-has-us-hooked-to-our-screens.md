@@ -6,6 +6,9 @@ publishedDateTime: 2021-07-05T08:09:00Z
 originalUrl: "https://timesofindia.indiatimes.com/blogs/breaking-shackles/how-ai-is-a-little-too-good-at-knowing-what-we-want-and-why-it-has-us-hooked-to-our-screens/"
 webUrl: "https://timesofindia.indiatimes.com/blogs/breaking-shackles/how-ai-is-a-little-too-good-at-knowing-what-we-want-and-why-it-has-us-hooked-to-our-screens/"
 type: article
+quality: 8
+heat: 8
+published: false
 
 provider:
   name: India Times

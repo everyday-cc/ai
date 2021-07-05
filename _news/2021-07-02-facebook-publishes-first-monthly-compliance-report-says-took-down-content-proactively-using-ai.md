@@ -9,7 +9,7 @@ ampWebUrl: "https://indianexpress.com/article/technology/technology-others/faceb
 cdnAmpWebUrl: "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/technology/technology-others/facebook-instagram-compliance-report-7386447/lite/"
 type: article
 quality: 47
-heat: -1
+heat: 47
 published: false
 
 provider:
@@ -25,24 +25,6 @@ images:
     width: 1200
     height: 667
     isCached: true
-
-related:
-  - title: "Gores Holdings VI Up 12% as Matterport to Collaborate With Facebook AI Research"
-    excerpt: "By Josh Beckerman Shares of blank-check company Gores Holdings VI Inc., which is merging with spatial data company Matterport, rose 12% to $16"
-    publishedDateTime: 2021-06-30T17:57:00Z
-    webUrl: "https://www.marketwatch.com/story/gores-holdings-vi-up-12-as-matterport-to-collaborate-with-facebook-ai-research-271625075865"
-    ampWebUrl: "https://www.marketwatch.com/amp/story/gores-holdings-vi-up-12-as-matterport-to-collaborate-with-facebook-ai-research-271625075865"
-    cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/gores-holdings-vi-up-12-as-matterport-to-collaborate-with-facebook-ai-research-271625075865"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 85
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "/S6m+2ZCK7CLY0G5iwB1pfs0iDzyxCdkeS+tZTRzbYpqSqCrVnxPkKowPihtQVHdl2fvbIwVyXNKUTTa1cGX3qIgc8a3ovFK0BBm/Kdg5Y/KSGYnQmXaoMsxpP0dwfYXb7jUkEGGkYMNCghNIYVM8z0FwQiZsq2K4LMZqlTCkCmvRVh2yaoU98EvIBiqeDVPHYerLN3Jycr2WIdARu12OOTAFcFZkLiQ5q/3Qycsrfd7GisEHy03pZovsaYKeuGIfh0uQNVOlroVJjQzVBnZeK3xfDqOrzkfZs5eMJO0mmh9ooPQr61LSvk7hXpo445qt6aaJSpMKQ6bbkWprl9vm/VA+ptSs+Woj5PB+gqTLwKjYI8OcBGbDLYOEgsJwH1HMe7zlO3O5rhL+0erlxtqPgT3VFQIJWk/7dImB3Y6fPhVlDhOL3dBTqbtkNUr+v/updT1ZAih5aFbs4KT40YRJ81dB6ApSuAWzfnR9g2vtfEyUPqotwSZc65b9+Dow0oqMMYM9jKXeKDkENChfvo0QQ==;pSbE+9bMaterdbghB9hucw=="
 ---

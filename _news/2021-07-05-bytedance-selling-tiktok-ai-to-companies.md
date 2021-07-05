@@ -1,0 +1,107 @@
+---
+category: news
+title: "ByteDance selling TikTok AI to companies"
+excerpt: "China-based ByteDance which is the parent company of TikTok, has reportedly started selling the AI technology of the short video-making app to other companies, including in India where the app is banned."
+publishedDateTime: 2021-07-05T09:50:00Z
+originalUrl: "https://www.iol.co.za/technology/mobile/bytedance-selling-tiktok-ai-to-companies-cc36ed5a-fa5c-4bf4-8be7-925a4b5afa9b"
+webUrl: "https://www.iol.co.za/technology/mobile/bytedance-selling-tiktok-ai-to-companies-cc36ed5a-fa5c-4bf4-8be7-925a4b5afa9b"
+type: article
+quality: 39
+heat: -1
+published: false
+
+provider:
+  name: IOL News
+  domain: iol.co.za
+
+topics:
+  - Natural Language Processing
+  - AI
+
+images:
+  - url: "https://image-prod.iol.co.za/resize/650x366/File-picture?source=https://xlibris.public.prod.oc.inl.infomaker.io:8443/opencontent/objects/87180f97-d868-56ee-9bc7-f7f32be5f5c1&operation=CROP&offset=0x272&resize=5184x2916"
+    width: 650
+    height: 366
+    isCached: true
+
+related:
+  - title: "TikTok's Algorithm and AI Tech Are Now up for Sale"
+    excerpt: "The app's parent company, ByteDance, launched a new BytePlus division to sell its features to other companies."
+    publishedDateTime: 2021-07-04T23:02:00Z
+    webUrl: "https://gizmodo.com/tiktoks-algorithm-and-ai-tech-are-now-up-for-sale-1847228950"
+    ampWebUrl: "https://gizmodo.com/tiktoks-algorithm-and-ai-tech-are-now-up-for-sale-1847228950/amp"
+    cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/tiktoks-algorithm-and-ai-tech-are-now-up-for-sale-1847228950/amp"
+    type: article
+    provider:
+      name: Gizmodo
+      domain: gizmodo.com
+    quality: 87
+    images:
+      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/9aece3a74d971701b48229b347be9f85.jpg"
+        width: 800
+        height: 448
+        isCached: true
+  - title: "TikTok's AI is being sold to other companies"
+    excerpt: "TikTok's AI is no longer a secret — in fact, it's now on the open market. The Financial Times has learned that parent company ByteDance quietly launched a BytePlus division that sells TikTok technology,"
+    publishedDateTime: 2021-07-04T18:30:00Z
+    webUrl: "https://www.engadget.com/bytedance-sells-tiktok-ai-182553001.html"
+    type: article
+    provider:
+      name: Engadget
+      domain: engadget.com
+    quality: 67
+    images:
+      - url: "https://s.yimg.com/os/creatr-uploaded-images/2021-05/63a2fa70-ae89-11eb-adf7-03b9a23b7e63"
+        width: 5000
+        height: 3333
+        isCached: true
+  - title: "ByteDance starts selling TikTok’s AI to other companies"
+    excerpt: "ByteDance is selling some of the artificial-intelligence technology that powers its viral video app TikTok to websites and apps outside China, as it broadens its revenue streams ahead of a long-anticipated initial public offering."
+    publishedDateTime: 2021-07-04T08:00:00Z
+    webUrl: "https://www.ft.com/content/bed7cba1-db7a-49c7-9d57-06fd19e14e10"
+    ampWebUrl: "https://amp.ft.com/content/bed7cba1-db7a-49c7-9d57-06fd19e14e10"
+    cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/bed7cba1-db7a-49c7-9d57-06fd19e14e10"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 57
+    images:
+      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F71a8f16d-2b95-4539-80ba-3f2c121a2736.jpg?source=amp&fit=scale-down&width=2272"
+        width: 2272
+        height: 1278
+        isCached: true
+  - title: "ByteDance selling TikTok AI to companies including in India"
+    excerpt: "China-based ByteDance which is the parent company of TikTok, has reportedly started selling the AI technology of the short video-making app to other companies, including in India where the app is banned."
+    publishedDateTime: 2021-07-05T10:44:00Z
+    webUrl: "https://www.gadgetsnow.com/tech-news/bytedance-selling-tiktok-ai-to-companies-including-in-india/articleshow/84140089.cms"
+    ampWebUrl: "https://www.gadgetsnow.com/tech-news/bytedance-selling-tiktok-ai-to-companies-including-in-india/amp_articleshow/84140089.cms"
+    cdnAmpWebUrl: "https://www-gadgetsnow-com.cdn.ampproject.org/c/s/www.gadgetsnow.com/tech-news/bytedance-selling-tiktok-ai-to-companies-including-in-india/amp_articleshow/84140089.cms"
+    type: article
+    provider:
+      name: Gadgets Now
+      domain: gadgetsnow.com
+    quality: 57
+    images:
+      - url: "https://static.toiimg.com/photo/msid-65197100/65197100.jpg"
+        width: 400
+        height: 400
+        isCached: true
+  - title: "ByteDance starts selling TikTok’s AI to other companies"
+    excerpt: "Chinese tech and social media giant, and the name behind the platform, ByteDance, has started selling TikTok's AI to other parties."
+    publishedDateTime: 2021-07-05T05:54:00Z
+    webUrl: "https://techstory.in/bytedance-starts-selling-tiktoks-ai-to-other-companies/"
+    type: article
+    provider:
+      name: tech
+      domain: techstory.in
+    quality: 39
+    images:
+      - url: "https://techstory.in/wp-content/uploads/2021/06/TikTok-claims-ByteDance-strictly-controls-apps-user-data.jpg"
+        width: 1200
+        height: 808
+        isCached: true
+
+secured: "D3oOxomWnmLnNj0vGnkz35cjReqCT6zAUVOR1RqmODkKm4Qbj0swPZmOazbFrTZD8NZlTaxWEn1N/fxDKVizZRTZX1sRJC0aLiCvhaU4RVfQNGJB+EsrOKymKOwi9+mfzmhy1YqfFImjdPHeHfORPwC+javsvXtx1blxvGKoHIKrdnc+tT0oLIJEXYXodkYnnCD4Taxq1bX+DLH0mIAXgVQxXJUBYAuofwNP+bMUgOpeDXEXCG5/K3ItCGgHGHM4KNMbFoUzSVXsptQqrgIFMMYvQSOk9w0+tHIHFmq0jU99U43mQPcRjMVz/HuaAr8n8DS6Wn3TeiBbuYQdR9NZIEQBUoc44OKngOllR7OVxCM=;+9IF0I1oO3711sDsqFxdLg=="
+---
+

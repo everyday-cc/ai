@@ -25,38 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Zoom to acquire real-time translation startup Kites"
-    excerpt: "Zoom on Tuesday said it has signed a deal to acquire Kites, and AI startup focused on developing real-time translation tools. \"We are continuously looking for new ways to deliver happiness to our users and improve meeting productivity,"
-    publishedDateTime: 2021-06-30T15:31:00Z
-    webUrl: "https://www.cnet.com/news/zoom-to-acquire-real-time-translation-startup-kites/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/zoom-to-acquire-real-time-translation-startup-kites/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/zoom-to-acquire-real-time-translation-startup-kites/"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 74
-    images:
-      - url: "https://www.cnet.com/a/img/Ms_zrkY2ZfQJR7X57i9S6le1_AE=/1200x630/2020/06/29/e721e8fc-6c98-4378-878b-5b350754a3fc/zoom-logo-apple-iphone-11-3436.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Zoom acquires Kites, an AI company building real-time translation"
-    excerpt: "Kites was founded in 2015 in Germany to help professors and students understand lectures in the German language. Although Zoom already has an option for real-time translation, the feature solely is for people speaking English. Zoom’s capital rose up by ..."
-    publishedDateTime: 2021-06-30T15:33:00Z
-    webUrl: "https://www.vertexreport.com/2021/06/zoom-acquires-kites-an-ai-company-building-real-time-translation/"
-    ampWebUrl: "https://www.vertexreport.com/2021/06/zoom-acquires-kites-an-ai-company-building-real-time-translation/amp/"
-    cdnAmpWebUrl: "https://www-vertexreport-com.cdn.ampproject.org/c/s/www.vertexreport.com/2021/06/zoom-acquires-kites-an-ai-company-building-real-time-translation/amp/"
-    type: article
-    provider:
-      name: vertexreport.com
-      domain: vertexreport.com
-    quality: 59
-    images:
-      - url: "https://mlg9p6pktez3.i.optimole.com/ougAwfI.Bokw~29113/w:1000/h:600/q:90/rt:fill/g:ce/https://www.vertexreport.com/wp-content/uploads/2021/05/Zoom.jpg"
-        width: 1000
-        height: 600
-        isCached: true
   - title: "Zoom announces plans to acquire machine translation start-up Kites"
     excerpt: "Popular video calling platform Zoom has announced plans to acquire Karlsruhe Information Technology Solutions GmbH, also known as Kites. The German startup specializes in real-time audio translation powered by Machine Learning (ML)."
     publishedDateTime: 2021-07-01T15:26:00Z
@@ -89,22 +57,6 @@ related:
         width: 600
         height: 338
         isCached: true
-  - title: "Zoom buys real-time translation AI firm Kites, to expand service beyond English language"
-    excerpt: "Zoom already has real-time transcriptions, but it's limited to people who are talking in English. On a support page, Zoom also makes it clear that its current live transcription feature may not meet certain accuracy requirements."
-    publishedDateTime: 2021-07-01T03:08:00Z
-    webUrl: "https://tech.hindustantimes.com/tech/news/zoom-buys-real-time-translation-ai-firm-kites-to-expand-service-beyond-english-language-71625108322768.html"
-    ampWebUrl: "https://tech.hindustantimes.com/amp/tech/news/zoom-buys-real-time-translation-ai-firm-kites-to-expand-service-beyond-english-language-71625108322768.html"
-    cdnAmpWebUrl: "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/tech/news/zoom-buys-real-time-translation-ai-firm-kites-to-expand-service-beyond-english-language-71625108322768.html"
-    type: article
-    provider:
-      name: Hindustan Times
-      domain: hindustantimes.com
-    quality: 50
-    images:
-      - url: "https://images.hindustantimes.com/tech/img/2021/07/01/1600x900/372116270_0-3_1622598739798_1625108547211.jpg"
-        width: 1600
-        height: 900
-        isCached: true
   - title: "Zoom buys AI company that worked on real-time translation"
     excerpt: "Proprietary video teleconferencing platform recently announced that it acquiring a company known as Kites short for Karlsruhe Information Technology Solution"
     publishedDateTime: 2021-06-30T19:13:00Z
@@ -119,6 +71,15 @@ related:
         width: 630
         height: 420
         isCached: true
+  - title: "AI-powered Recruiting Startup TopFunnel Announces Acquisition of Referral-Based Company Teamable to Offer End-to-End Sourcing Platform"
+    excerpt: "TopFunnel, the AI-powered recruiting startup that high-growth companies use to scale, today announced the acquisition of Teamable to supercharge referral-based recruiting. Teamable is the employee referral platform that transforms social networks into high-performance talent pools."
+    publishedDateTime: 2021-07-01T07:31:00Z
+    webUrl: "https://www.morningstar.com/news/pr-newswire/20210701ph28669/ai-powered-recruiting-startup-topfunnel-announces-acquisition-of-referral-based-company-teamable-to-offer-end-to-end-sourcing-platform"
+    type: article
+    provider:
+      name: Morningstar, Inc.
+      domain: morningstar.com
+    quality: 0
 
 secured: "7cBFSNcxARxOVEWLdFxtFuuY2bmkV8yWPzHMzLs2ku/6w0Z11Q5LjhD19fRY04pHuRwi8B+eH6t03shz+4wRSABWOb7frjiuw1scE1TOtj9xcwpiYm5xsQ9n7n+P4LjtOdb0Mw2L/vXFctOTexr1CXph7cdt3GMxjupi2Q9nW3Dw4b2URSlu3D+6Gz4ceLzLPMroj9TukaJ8XAjxjRQptytBqvOGkoKTTrXVXCaNHDut5NGLYh6n9sXqmK4MQLtLATV/zp1B1rvVDSEhYP0tP7PW0U6hF0UdOivbIIJy1Air7Pc8F3AoyhUc2x98y/uixv3N5DN8bmd2+jrfeLgjOZmF9DAXFMUcEK+eMFg+c7oY6UfA0b7d1iAnD73BMwvXoKsiUjoA9PCdcSc51p6K16xMSX1h1A6GDLdXbdYNkzalODqUhh/tSWZa/KqpWo0dSVsfxQT8LbsY/zyYtobA4CBJvG3rbQmo+Nmo79n+/snXzhJhfjYBeb82Sdg63XsQAzPvsaM5N0j31m48w2d2vQ==;3+KJxW/YmSRQbFiNw9CmOQ=="
 ---

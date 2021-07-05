@@ -19,6 +19,22 @@ topics:
   - AI
 
 related:
+  - title: "Technicolor STBs to get Google Assistant voice recognition"
+    excerpt: "In a move that the CE tech provider says marks a first for hands-free voice control in the connected home, Technicolor Connected Home is integrating Google’s far-field voice technology into its latest generation of set-top boxes (STBs)."
+    publishedDateTime: 2021-07-05T07:56:00Z
+    webUrl: "https://www.rapidtvnews.com/2021070560775/technicolor-stbs-to-get-google-assistant-with-far-field-voice-recognition.html"
+    ampWebUrl: "https://www.rapidtvnews.com/2021070560775/technicolor-stbs-to-get-google-assistant-with-far-field-voice-recognition.amp.html"
+    cdnAmpWebUrl: "https://www-rapidtvnews-com.cdn.ampproject.org/c/s/www.rapidtvnews.com/2021070560775/technicolor-stbs-to-get-google-assistant-with-far-field-voice-recognition.amp.html"
+    type: article
+    provider:
+      name: Rapid TV
+      domain: rapidtvnews.com
+    quality: 44
+    images:
+      - url: "https://www.rapidtvnews.com/images/2021/July_2021/Technicolor_logo_5July2021.jpg"
+        width: 354
+        height: 237
+        isCached: true
   - title: "Technicolor brings Google Assistant with far-field voice recognition to STBs"
     excerpt: "Technicolor Connected Home is integrating Google’s far-field voice technology into its latest generation of set-top boxes."
     publishedDateTime: 2021-07-02T07:59:00Z

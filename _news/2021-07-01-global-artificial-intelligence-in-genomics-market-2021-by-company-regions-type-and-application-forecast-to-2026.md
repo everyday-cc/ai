@@ -45,20 +45,6 @@ related:
       name: India Education Diary
       domain: indiaeducationdiary.in
     quality: 53
-  - title: "Data-led migration, energy collaboration and AI innovation highlight AWS Public Sector Awards"
-    excerpt: "Partners play a key role in the Public Sector business for Amazon Web Services Inc. by helping drive innovation and results for the cloud provider’s customers. AWS recently recognized those partner contributions through its 2021 AWS Global Public Sector Partners Awards."
-    publishedDateTime: 2021-06-30T16:59:00Z
-    webUrl: "https://siliconangle.com/2021/06/30/data-led-migration-energy-collaboration-and-ai-innovation-highlight-aws-public-sector-awards-awspublicsectorawards/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 43
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/06/Sandy-Carter-Global-Public-Sector-Partner-Awards-2021.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "AI for the detection and mitigation of advertising bias"
     excerpt: "IBM Watson Advertising today announced a research initiative that will apply IBM's open source AI technology to better understand the prevalence of unwanted"
     publishedDateTime: 2021-07-04T03:12:00Z

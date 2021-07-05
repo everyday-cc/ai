@@ -5,6 +5,8 @@ excerpt: "SUNNYVALE, Calif., June 22, 2021 /PRNewswire/ -- Google Cloud today la
 publishedDateTime: 2021-06-22T15:06:00Z
 originalUrl: "https://www.benzinga.com/pressreleases/21/06/n21668304/google-clouds-visual-inspection-ai-reinvents-manufacturing-quality-control"
 webUrl: "https://www.benzinga.com/pressreleases/21/06/n21668304/google-clouds-visual-inspection-ai-reinvents-manufacturing-quality-control"
+ampWebUrl: "https://www.benzinga.com/amp/content/21668304"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/21668304"
 type: article
 
 provider:
@@ -15,6 +17,6 @@ topics:
   - Machine Learning
   - AI
 
-secured: "Y95/qUe0gEU6qNH86sTA6NUB1GNFbKgPcEmTq48vomBg+RCZT3MA7PhOFFO+fX4b8DkkOUbRmmDbFj6jx1ZTkDaJeP9gQaIKRNINOrLd714twHKVe8KTYAHt9q2N2KoNb5hU6DVJleVUctTZPp3rypmZT4i6NLOcDqW5AbMUpZRiDWYQnwjPQHQxdxbADvNo30z4E3UT50fJdjJhwBrguIPPKn0R3wcGsJQPKndFAZGTFjoKzdsywk3xuaxYIumd61++b2PSw7D1PnQZzjmkit4AO1AAFFeuwIr2q9rEdaQk7bqcWO9wQi6QCC3xvlu6YgQmrKeZfTJxgMGu4LJJIu25Io+qd7dRrTazakFC8IE=;CsxcZ3SoBCqSL4VLQapHZw=="
+secured: "4vYPLIqKe6f5W3mrRQD2yoPJn2bxDUBy7wM7YCz2tehFkwWLFIdUy4oSXahIkSTda3If2hq8pkeM9FFdMeNwXzBKzo+6sdcvH6D2NdLaqlbQzvAu6XktS5zhEHgXV1jwOG/wvowPMtLuOq6h4NXZ8LkiyzFKP2RxjffysBKJReAYJsfQbpV67hOREf7+YJCOig2tSlV7XofVrdecvp07I1MtgRiPFAJUwZq5MZ2T8Mlp9fjxy+4bML7f3oX0y8kbWAM+soifmHYN2oDWZXcL+nADsbl2JcKvj1XnjakpbqVQe5iYYnz8R4WJ1tTgfNoJyKHNp2xmFppxkr6A1iAl5hhKqinWdpYmCpChr0Xyk8I=;+7ahZ5YT0ZJ3UOf+jFcwGA=="
 ---
 

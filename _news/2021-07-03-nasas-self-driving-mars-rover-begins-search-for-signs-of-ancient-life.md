@@ -73,6 +73,15 @@ related:
         width: 777
         height: 520
         isCached: true
+  - title: "NASA’s Perseverance Rover Is Self-Driving On Mars With Enhanced Auto-Navigation System"
+    excerpt: "NASA’s Perseverance rover is exploring the red planet with a new auto-navigation system that lets it drive by itself."
+    publishedDateTime: 2021-07-05T08:36:00Z
+    webUrl: "https://in.mashable.com/science/23311/nasas-perseverance-rover-is-self-driving-on-mars-with-enhanced-auto-navigation-system"
+    type: article
+    provider:
+      name: Mashable
+      domain: mashable.com
+    quality: 26
 
 secured: "n7R1fWSnIZfjaxuHUla/SIHg0BScWsD1wulcUIu5Nd0gyfCktqeOlQATUEr9mIA+j1j5feg39IeY2NezNX6iuOHp5zokO4NsajwVX3UG4fGzJWak80k4LA8nTPNI/bWFIy+aZgUgGLco+p1z8uDuWjyEawxZ/dQAde2aFEf1MoDeJsJ4tvcQu6lSexNdD6WVCZmEE7ssdnrw1LWjs8gJZ8Vbrc8n3txpTr/XTgtiHcUrEN1MKSxsxau53//yU6ePTJgIRKCtNDZNgEY3FhTU2Gx8xkYR2GqNe9m4tiohgtd+yMn5bAOvyvVAHtpBTb77tLeTZcLL57tX+xh/IN9zKuQiIEUeBM69xd4N5mF9tbI=;NBIMIEg/9GXNl2mGlxLX2Q=="
 ---

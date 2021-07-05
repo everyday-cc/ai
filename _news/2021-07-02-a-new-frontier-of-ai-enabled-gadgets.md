@@ -8,7 +8,7 @@ webUrl: "https://www.wsj.com/articles/a-new-frontier-of-ai-enabled-gadgets-11625
 ampWebUrl: "https://www.wsj.com/amp/articles/a-new-frontier-of-ai-enabled-gadgets-11625241706"
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/a-new-frontier-of-ai-enabled-gadgets-11625241706"
 type: article
-quality: 91
+quality: 93
 heat: -1
 published: false
 
@@ -24,6 +24,7 @@ topics:
   - AI
   - AI Hardware
   - AI in Robotics
+  - AI in Healthcare
 
 images:
   - url: "https://images.wsj.net/im-363264/social"
@@ -35,7 +36,7 @@ related:
   - title: "A Robot That Finds Your Lost Stuff and More AI-Enabled Gadgets to Come"
     excerpt: "Researchers are working on a wave of sophisticated devices for the home, from toilets that screen for viruses to a ‘Roomba on steroids’ that might detect your TV remote in the couch."
     publishedDateTime: 2021-07-02T15:01:00Z
-    webUrl: "https://www.wsj.com/articles/a-new-frontier-of-ai-enabled-gadgets-11625241706?mod=latest_headlines"
+    webUrl: "https://www.wsj.com/articles/a-new-frontier-of-ai-enabled-gadgets-11625241706?mod=tech_featst_pos2"
     ampWebUrl: "https://www.wsj.com/amp/articles/a-new-frontier-of-ai-enabled-gadgets-11625241706"
     cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/a-new-frontier-of-ai-enabled-gadgets-11625241706"
     type: article

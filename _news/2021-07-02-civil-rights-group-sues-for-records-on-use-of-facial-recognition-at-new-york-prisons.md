@@ -91,22 +91,6 @@ related:
         width: 1120
         height: 630
         isCached: true
-  - title: "Maine passes ‘strongest’ facial recognition restrictions in the country"
-    excerpt: "Maine passed regulations surrounding government use of facial recognition that is being hailed as the \"strongest\" statewide rules in the US."
-    publishedDateTime: 2021-06-30T15:42:00Z
-    webUrl: "https://www.dailydot.com/debug/facial-recognition-maine-regulations/"
-    ampWebUrl: "https://www.dailydot.com/debug/facial-recognition-maine-regulations/?amp"
-    cdnAmpWebUrl: "https://www-dailydot-com.cdn.ampproject.org/c/s/www.dailydot.com/debug/facial-recognition-maine-regulations/?amp"
-    type: article
-    provider:
-      name: The Daily Dot
-      domain: dailydot.com
-    quality: 74
-    images:
-      - url: "https://uploads.dailydot.com/2021/06/Maine-Facial-Recognition.jpg?auto=compress%2Cformat&ixlib=php-3.3.0"
-        width: 2000
-        height: 1000
-        isCached: true
   - title: "Maine Passes Strongest Facial Recognition Restrictions In Country"
     excerpt: "Maine has enacted the strongest facial recognition law in the country, according to the American Civil Liberties Union of Maine."
     publishedDateTime: 2021-06-30T19:14:00Z
@@ -214,20 +198,6 @@ related:
       name: Raleigh News & Observer
       domain: newsobserver.com
     quality: 54
-  - title: "Maine Enacts Strongest Statewide Facial Recognition Regulations in the Country"
-    excerpt: "Maine has enacted the country’s strongest statewide facial recognition law. Maine’s law prohibits the use of facial recognition technology in most areas of government, including in public schools, and for surveillance purposes."
-    publishedDateTime: 2021-06-30T15:14:00Z
-    webUrl: "https://www.aclu.org/press-releases/maine-enacts-strongest-statewide-facial-recognition-regulations-country"
-    type: article
-    provider:
-      name: Aclu.org
-      domain: aclu.org
-    quality: 50
-    images:
-      - url: "https://www.aclu.org/files/images/Generic-SocialShare-1200x628.png"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "Federal agencies used facial recognition tech on George Floyd protesters, according to a new report"
     excerpt: "Over the past few years, activists have raised the alarm about the growing use of facial recognition technology in the United States. Many say that in the hands of law enforcement agencies, the technology poses great surveillance concerns,"
     publishedDateTime: 2021-06-30T22:09:00Z

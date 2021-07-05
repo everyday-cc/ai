@@ -69,20 +69,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Microsoft, AT&T 5G Deal Gives Azure Telecom Cloud A Boost"
-    excerpt: "Microsoft's Azure for Operators cloud is set to expand with a new deal to acquire AT&T Network Cloud and engineering and lifecycle management software."
-    publishedDateTime: 2021-06-30T17:44:00Z
-    webUrl: "https://www.crn.com/news/cloud/microsoft-at-t-5g-deal-gives-azure-telecom-cloud-a-boost"
-    type: article
-    provider:
-      name: CRN
-      domain: crn.com
-    quality: 54
-    images:
-      - url: "https://www.crn.com/resources/026a-12a5232468e4-36b6ef30bd55-1000/microsoft-azure-1.jpg"
-        width: 606
-        height: 456
-        isCached: true
   - title: "Microsoft to acquire AT&T’s Network Cloud; Azure to host AT&T 5G network"
     excerpt: "The partnership builds on an existing $2bn deal where AT&T moved its back-end office to Microsoft Azure. The tech company became AT&T's preferred cloud provider for \"non-network a"
     publishedDateTime: 2021-07-01T12:07:00Z

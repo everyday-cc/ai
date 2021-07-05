@@ -8,8 +8,8 @@ webUrl: "https://www.forbes.com/sites/anniebrown/2021/07/04/ai-driven-robots-are
 ampWebUrl: "https://www.forbes.com/sites/anniebrown/2021/07/04/ai-driven-robots-are-here-for-good/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/anniebrown/2021/07/04/ai-driven-robots-are-here-for-good/amp/"
 type: article
-quality: 89
-heat: 99
+quality: 106
+heat: 126
 published: true
 
 provider:
@@ -32,6 +32,20 @@ images:
     isCached: true
 
 related:
+  - title: "WHO FOR AI FOR HEALTHCARE"
+    excerpt: "The report lays down six principles for design and use of AI in healthcare globally, with caution The past year or so has been a binge-watch of web series for many of us. I have been going through sev"
+    publishedDateTime: 2021-07-02T18:47:00Z
+    webUrl: "https://www.dailypioneer.com/2021/columnists/who-for-ai-for-healthcare.html"
+    type: article
+    provider:
+      name: The Pioneer
+      domain: dailypioneer.com
+    quality: 56
+    images:
+      - url: "https://www.dailypioneer.com/uploads/2021/story/images/big/who-for-ai-for-healthcare-2021-07-03.jpg"
+        width: 1000
+        height: 800
+        isCached: true
   - title: "The robots are coming"
     excerpt: "Experts know that change is coming but remain uncertain about how, when, and where those changes will occur. It follows that cities that ready themselves sooner rather than later will develop more immunity to the latest strain of economic upheaval."
     publishedDateTime: 2021-07-01T11:46:00Z

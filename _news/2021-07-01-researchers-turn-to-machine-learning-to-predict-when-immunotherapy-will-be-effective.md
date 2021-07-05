@@ -9,8 +9,8 @@ ampWebUrl: "https://www.news-medical.net/amp/news/20210630/Researchers-turn-to-m
 cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20210630/Researchers-turn-to-machine-learning-to-predict-when-immunotherapy-will-be-effective.aspx"
 type: article
 quality: 52
-heat: -1
-published: false
+heat: 82
+published: true
 
 provider:
   name: News Medical
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Machine learning helps in predicting when immunotherapy will be effective"
-    excerpt: "When it comes to defense, the body relies on attack thanks to the lymphatic and immune systems. The immune system is like the body's own personal police force as it hunts down and eliminates pathogenic villains."
-    publishedDateTime: 2021-06-30T17:37:00Z
-    webUrl: "https://medicalxpress.com/news/2021-06-machine-immunotherapy-effective.html"
-    ampWebUrl: "https://medicalxpress.com/news/2021-06-machine-immunotherapy-effective.amp"
-    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-06-machine-immunotherapy-effective.amp"
-    type: article
-    provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 58
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2019/1-tumor.jpg"
-        width: 1920
-        height: 1920
-        isCached: true
   - title: "Machine Learning Predicts Patient's Response to Immunotherapy"
     excerpt: "Immunotherapy and machine learning join forces to help the body's immune system crack one of its greatest mysteries -- how to find hidden tumorous cells in the human body."
     publishedDateTime: 2021-07-01T05:39:00Z
@@ -68,6 +52,15 @@ related:
         width: 1400
         height: 932
         isCached: true
+  - title: "Protheragen MedAI Offers Comprehensive Solutions for Drug Research and Development, Medical Imaging and Medical Therapy and Research System"
+    excerpt: "With a unique artificial intelligence drug research and development platform, Protheragen MedAI has partnered with a few pharmaceutical companies to accelerate their drug discovery projects. Recently,"
+    publishedDateTime: 2021-07-01T21:29:00Z
+    webUrl: "https://www.bio-itworld.com/pressreleases/2021/07/01/protheragen-medai-offers-comprehensive-solutions-for-drug-research-and-development-medical-imaging-and-medical-therapy-and-research-system"
+    type: article
+    provider:
+      name: Bio IT World
+      domain: bio-itworld.com
+    quality: 0
 
 secured: "tJGAq4IFOlhvvoXcZt+N3Z5me+4n51BobbGFaGQNCOq55sevq/qsdR0Q1lQbFOY4dK9lDEsjlG4UbOEBqQnelb8j5oMKyXGU2NymoLt4oNKSXhLCW/vRz4GyA4CUO5ptljjAmIC2mnuhm91mzn017Sj6EDfmUtVvydir0AGwne3tZP1now2xwnECz/nMGi/6oyUOwcZ65Aj4fFvmAf+fBhYplYYIIZtoKV26erM+kL5eYvvjdeyOZ7SSJEF7+rCa5iCkEJm5G1Q4XAfRm+eTeeJjKrRV+nL1K186m30heqxyYhq8JECRnZLJh27bjLgPrX6xlHKU3ZpAhoQ0xDtW35KCY1pojzu0oYsrtNBBOZjgsYjPq2aCuqB7c4juGLxf07gOtT63YGMVZGN94MpxefHFn0DxJCyubZqXs8jzMC3g4zhqdGNNJrw0tFi7+KSUnnw9LIZZUQgwlie2f+tATBlZVGHgk1Q6J526dvaWkFMfr53mmCV/itUXZDyOlHrGF70doA7F2uot2X1dqPYqXg==;+b6l3Q5fdY4Ngwpa10JFzA=="
 ---

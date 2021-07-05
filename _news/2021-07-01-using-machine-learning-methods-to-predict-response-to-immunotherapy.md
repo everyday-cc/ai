@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Machine learning helps in predicting when immunotherapy will be effective"
-    excerpt: "When it comes to defense, the body relies on attack thanks to the lymphatic and immune systems. The immune system is like the body's own personal police force as it hunts down and eliminates pathogenic villains."
-    publishedDateTime: 2021-06-30T17:37:00Z
-    webUrl: "https://medicalxpress.com/news/2021-06-machine-immunotherapy-effective.html"
-    ampWebUrl: "https://medicalxpress.com/news/2021-06-machine-immunotherapy-effective.amp"
-    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-06-machine-immunotherapy-effective.amp"
-    type: article
-    provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 58
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2019/1-tumor.jpg"
-        width: 1920
-        height: 1920
-        isCached: true
   - title: "Researchers turn to machine learning to predict when immunotherapy will be effective"
     excerpt: "When it comes to defense, the body relies on attack thanks to the lymphatic and immune systems. The immune system is like the body's own personal police force as it hunts down and eliminates pathogenic villains."
     publishedDateTime: 2021-07-01T01:29:00Z
@@ -68,6 +52,15 @@ related:
       name: Medindia
       domain: medindia.net
     quality: 39
+  - title: "Protheragen MedAI Offers Comprehensive Solutions for Drug Research and Development, Medical Imaging and Medical Therapy and Research System"
+    excerpt: "With a unique artificial intelligence drug research and development platform, Protheragen MedAI has partnered with a few pharmaceutical companies to accelerate their drug discovery projects. Recently,"
+    publishedDateTime: 2021-07-01T21:29:00Z
+    webUrl: "https://www.bio-itworld.com/pressreleases/2021/07/01/protheragen-medai-offers-comprehensive-solutions-for-drug-research-and-development-medical-imaging-and-medical-therapy-and-research-system"
+    type: article
+    provider:
+      name: Bio IT World
+      domain: bio-itworld.com
+    quality: 0
 
 secured: "xUhDC1QZ5V7q8oIlo2C2rMmISBsVEjAtPH73QquatcWFR64IlBq3cyX1j/lcc0nQMDq6nWZGWgTtUYzzRhaIGXELsUdhQZamDWeAX2nLyp+V1OY3XdEvj91yvri5NqI5+87dwxxnXeSX+Emk8XgYsIOL9FsM0UylDqf8xIOfyqUGp3jTs+wiTKSARu18dIRI1sPQa8F3+XeWtiyfuZI7fvgh3gSVDULaxt/AbS8MH00bmO4aXyOX2SFVMAGqU/i2xohMLHZQW9YRbLDg3YYjGFJzi0ypIWQ0+X4nOT8mbeTCCrPoB1G3zg4gQ5F4OpZnvEsH2eSkc85PwMpr1GT2JiQEJ1POseb4vpLVJnH54zpVrcOIqTQg2PFz/magEBURodA06jCDv19uS+uR1dMad3HXGrVHPIP+u5I+2sZfxM7d/2oDlPqdGzpu8JsOZ68AekWhPOq6Vwi/w1QN6CyUOpFFihtSk2jbrix9GbUXGWeWjSmC/Za1CEnkQyXHvGDYmxprHgxXNhKTTh+dNsXW5Q==;IhQZkTIcSoDqCY0fD2X75Q=="
 ---

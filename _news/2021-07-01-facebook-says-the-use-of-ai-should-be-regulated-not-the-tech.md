@@ -41,20 +41,6 @@ related:
         width: 1848
         height: 1112
         isCached: true
-  - title: "Facebook AI Guru Says Regulate Its Use, Not The Tech"
-    excerpt: "Facebook's chief AI scientist and one of the company's vice presidents, LeCun is one of the computer scientists behind modern artificial intelligence. He is sceptical of recently proposed EU regulations,"
-    publishedDateTime: 2021-06-30T15:57:00Z
-    webUrl: "https://www.ibtimes.com/facebook-ai-guru-says-regulate-its-use-not-tech-3239674"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 37
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/06/30/the-eus-data-protection-agencies-have-called-for.jpg"
-        width: 1024
-        height: 682
-        isCached: true
 
 secured: "bw1xsACnu288d/ygqGeBXtBqSgVXOGiDrLxqKX+WcUR8e42q8j03PIbUsDJXnJv+lQR7xpHFvqY7cR6eyIsGrPbSmGUHbK72GoeNz3CZ7hKRmHhqs3vI6DOMA6o/BvvdwE87ntB886bseCwygWnHBT81gXrKVtusyXF1RMT2XOvBYe5kxaXK/d9bYSef9GQeTWWed/+2keWrerzhuRqMVO17MauMAKp+bEuRUJPxIjVjS8tx7pYGRC01cd4ulyZT7YZlYO4ixYeO9MmxfRzYUfp24yLoBNqWuhXluTJCnd+91eMmKXix6nObKAQDQBmHullmmRo/bGAqAN6x63pUU+kNsCi2UYOPhKUlsTTWP64=;Ueymjz3v6gr08pGlglycJg=="
 ---

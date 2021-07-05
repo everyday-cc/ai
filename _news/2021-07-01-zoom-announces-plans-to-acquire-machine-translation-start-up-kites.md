@@ -9,8 +9,8 @@ ampWebUrl: "https://www.newsbytesapp.com/news/science/zoom-reveals-plans-to-acqu
 cdnAmpWebUrl: "https://www-newsbytesapp-com.cdn.ampproject.org/c/s/www.newsbytesapp.com/news/science/zoom-reveals-plans-to-acquire-machine-translation-startup/story/amp"
 type: article
 quality: 59
-heat: -1
-published: false
+heat: 99
+published: true
 
 provider:
   name: newsbytesapp.com
@@ -27,38 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Zoom to acquire real-time translation startup Kites"
-    excerpt: "Zoom on Tuesday said it has signed a deal to acquire Kites, and AI startup focused on developing real-time translation tools. \"We are continuously looking for new ways to deliver happiness to our users and improve meeting productivity,"
-    publishedDateTime: 2021-06-30T15:31:00Z
-    webUrl: "https://www.cnet.com/news/zoom-to-acquire-real-time-translation-startup-kites/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/zoom-to-acquire-real-time-translation-startup-kites/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/zoom-to-acquire-real-time-translation-startup-kites/"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 74
-    images:
-      - url: "https://www.cnet.com/a/img/Ms_zrkY2ZfQJR7X57i9S6le1_AE=/1200x630/2020/06/29/e721e8fc-6c98-4378-878b-5b350754a3fc/zoom-logo-apple-iphone-11-3436.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Zoom acquires Kites, an AI company building real-time translation"
-    excerpt: "Kites was founded in 2015 in Germany to help professors and students understand lectures in the German language. Although Zoom already has an option for real-time translation, the feature solely is for people speaking English. Zoom’s capital rose up by ..."
-    publishedDateTime: 2021-06-30T15:33:00Z
-    webUrl: "https://www.vertexreport.com/2021/06/zoom-acquires-kites-an-ai-company-building-real-time-translation/"
-    ampWebUrl: "https://www.vertexreport.com/2021/06/zoom-acquires-kites-an-ai-company-building-real-time-translation/amp/"
-    cdnAmpWebUrl: "https://www-vertexreport-com.cdn.ampproject.org/c/s/www.vertexreport.com/2021/06/zoom-acquires-kites-an-ai-company-building-real-time-translation/amp/"
-    type: article
-    provider:
-      name: vertexreport.com
-      domain: vertexreport.com
-    quality: 59
-    images:
-      - url: "https://mlg9p6pktez3.i.optimole.com/ougAwfI.Bokw~29113/w:1000/h:600/q:90/rt:fill/g:ce/https://www.vertexreport.com/wp-content/uploads/2021/05/Zoom.jpg"
-        width: 1000
-        height: 600
-        isCached: true
   - title: "Zoom will have automatic translation in real time to videoconferences after buying the company Kites"
     excerpt: "Video calling platform Zoom bought a German startup specializing in language translation using Artificial Intelligence."
     publishedDateTime: 2021-07-02T20:02:00Z
@@ -74,22 +42,6 @@ related:
       - url: "https://assets.entrepreneur.com/content/3x2/2000/1625256159-Jul2ZoomtraduccinentiemporealvideoconferenciastrascomprarempresaKites.jpg?width=600&crop=16:9"
         width: 600
         height: 338
-        isCached: true
-  - title: "Zoom buys real-time translation AI firm Kites, to expand service beyond English language"
-    excerpt: "Zoom already has real-time transcriptions, but it's limited to people who are talking in English. On a support page, Zoom also makes it clear that its current live transcription feature may not meet certain accuracy requirements."
-    publishedDateTime: 2021-07-01T03:08:00Z
-    webUrl: "https://tech.hindustantimes.com/tech/news/zoom-buys-real-time-translation-ai-firm-kites-to-expand-service-beyond-english-language-71625108322768.html"
-    ampWebUrl: "https://tech.hindustantimes.com/amp/tech/news/zoom-buys-real-time-translation-ai-firm-kites-to-expand-service-beyond-english-language-71625108322768.html"
-    cdnAmpWebUrl: "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/tech/news/zoom-buys-real-time-translation-ai-firm-kites-to-expand-service-beyond-english-language-71625108322768.html"
-    type: article
-    provider:
-      name: Hindustan Times
-      domain: hindustantimes.com
-    quality: 50
-    images:
-      - url: "https://images.hindustantimes.com/tech/img/2021/07/01/1600x900/372116270_0-3_1622598739798_1625108547211.jpg"
-        width: 1600
-        height: 900
         isCached: true
   - title: "Zoom acquires real-time translation AI company, Kites"
     excerpt: "Zoom has acquired a real-time Machine Translation solutions company, Kites which is short for Karlsruhe Information Technology Solutions."
@@ -119,6 +71,15 @@ related:
         width: 630
         height: 420
         isCached: true
+  - title: "AI-powered Recruiting Startup TopFunnel Announces Acquisition of Referral-Based Company Teamable to Offer End-to-End Sourcing Platform"
+    excerpt: "TopFunnel, the AI-powered recruiting startup that high-growth companies use to scale, today announced the acquisition of Teamable to supercharge referral-based recruiting. Teamable is the employee referral platform that transforms social networks into high-performance talent pools."
+    publishedDateTime: 2021-07-01T07:31:00Z
+    webUrl: "https://www.morningstar.com/news/pr-newswire/20210701ph28669/ai-powered-recruiting-startup-topfunnel-announces-acquisition-of-referral-based-company-teamable-to-offer-end-to-end-sourcing-platform"
+    type: article
+    provider:
+      name: Morningstar, Inc.
+      domain: morningstar.com
+    quality: 0
 
 secured: "Eh7sWPMATQLHAlixtRYonn7xwke2Z0s+dyzapnWmAThhUAfAiadHrd+Nma/1Gd0sGPrnrh/t7WsRxgEWL7N3eMkrKkDzPRUdlrEiHKUuOrUgrkmklKNRUOi9pZo+WFoEifjx5CBa8Mj3MGgJsQqd3M3Ug0K6s+6CbftF4SW5kVzAV3AKueknMEfZrxrrpoNhF6ZxDktoq5+AGAXV58wU/I28JKxhdH/Z4OkP13Bu7TjOAOAFWcmsdBIZdsZwDizDCIq61dVxZi+Tn7Xh1NmDDOZ3uju9T3MqHEhU/5NKYZEOW9vTPdBnPqUusJsOPC3uvuhZ5DyUXtU83EI8lHFntx8KKdTiVgTMFKGTAYRygjoLF7d8+WPuhF1VmBdLsqfeG+TcW2PA776x6zoCH0/4qnoV6BgXRFvpegX8V52FItNdthFTkoiJytS4T19ycWtLIqsuciQV3y3s/eeGbWFKjpXO19MONu2nB2yZu0x57YnhIz+yFm4TcfLuzwQ9DEpvwfiQUhImGn9N8pYWDK4sTw==;p5SkJb74Wm5VQ20Lti80Mg=="
 ---

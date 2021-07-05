@@ -56,34 +56,6 @@ related:
         width: 467
         height: 467
         isCached: true
-  - title: "AT&T to Run Mobility Network on Microsoft’s Azure for Operators"
-    excerpt: "AT&T will move its 5G mobile network to the Microsoft cloud. The strategic alliance provides a path for all of AT&T’s mobile network traffic to be managed using Microsoft Azure technologies. The companies will start with AT&T’s 5G core,"
-    publishedDateTime: 2021-06-30T17:03:00Z
-    webUrl: "https://channelvisionmag.com/att-to-run-mobility-network-on-microsofts-azure-for-operators/"
-    type: article
-    provider:
-      name: ChannelVision Magazine
-      domain: channelvisionmag.com
-    quality: 54
-    images:
-      - url: "https://channelvisionmag.com/wp-content/uploads/2021/06/ATT.jpg"
-        width: 624
-        height: 416
-        isCached: true
-  - title: "Microsoft makes big 5G play as AT&T moves core to Azure cloud"
-    excerpt: "Microsoft VP of 5G Strategy Shawn Hakl told Fierce that the combination of gaining a Tier one anchor tenant, along with IP and expertise to incorporate directly into Azure for Operators, is key and unique to the deal."
-    publishedDateTime: 2021-06-30T17:11:00Z
-    webUrl: "https://www.fiercewireless.com/5g/microsoft-makes-bigger-5g-play-as-at-t-moves-core-to-azure-cloud"
-    type: article
-    provider:
-      name: Fierce Wireless
-      domain: fiercewireless.com
-    quality: 54
-    images:
-      - url: "https://qtxasset.com/fiercewireless/1625073696/Screen%20Shot%202020-10-27%20at%209.33.32%20AM.png/Screen%20Shot%202020-10-27%20at%209.33.32%20AM.png?SX9t9ysna94JXCELLQtb2nBx_bdHushz"
-        width: 716
-        height: 439
-        isCached: true
   - title: "Microsoft experiments with high-end machine learning on Xbox Series X"
     excerpt: "Microsoft is hiring new software engineers to help create new next-gen machine learning algorithms for Xbox Series X/S consoles."
     publishedDateTime: 2021-07-03T22:14:00Z
@@ -116,15 +88,6 @@ related:
         width: 600
         height: 337
         isCached: true
-  - title: "AI Image Recognition – Market Boosting the Growth Worldwide: Google, Microsoft, IBM"
-    excerpt: "Advance Market Analytics published a new research publication on “AI Image Recognition Market Insights, to 2026″ with 232 pages and enriched with self-explained Tables and charts in presentable format."
-    publishedDateTime: 2021-06-30T15:18:00Z
-    webUrl: "https://manometcurrent.com/ai-image-recognition-market-boosting-the-growth-worldwide-google-microsoft-ibm/"
-    type: article
-    provider:
-      name: manometcurrent.com
-      domain: manometcurrent.com
-    quality: 30
   - title: "Deep Learning Software Market Size and Growth to 2028 | Key Players – Microsoft, Express Scribe, Nuance, Google, IBM, AWS"
     excerpt: "The Deep Learning Software Market report forecasts promising growth and development for the period 2021-2028. The Deep Learning Software market research report defines key statistical data presented in an organized format including graphs,"
     publishedDateTime: 2021-07-05T02:51:00Z

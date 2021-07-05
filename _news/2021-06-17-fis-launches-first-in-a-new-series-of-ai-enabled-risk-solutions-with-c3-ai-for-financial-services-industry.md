@@ -15,6 +15,12 @@ topics:
   - AI in Finance
   - AI
 
-secured: "hoB+g+85ZWSPeY/LpK3Kvmg3ZPknr08dFUM+c73eu6OeOBkrcMlaRNZ3vP+oCf2xkJZsiP9nR0pzhq1OVr8Ej1bBi9K3ajFrWF7PMIwVQrxylq8shgXFrAHPrDHLMrsQCQ7SKsEhjDMBRg4BXR3zbqrRrodNnfpNwiSna5+5qaUltLsQ68SuwmsbA9352mqtwVR+tnx9IJyaPkW8GygD/gxqWF2QXFSz8PI4vWOFAXYoclVCyqiGK/1HFEnz9DFLySNGUn4hVf9g85DBekaFjjFnpt90mxkZih7r8wf/WHWlvr4h9WDzl82jGoPiD/TdM4RLeGbMgXG9Ln6utN8sPhiQEMYbc2fdeDU63zLV2Bk=;0/iyMw8OMB9iyIBhLu/CLw=="
+images:
+  - url: "https://financialit.net/sites/default/files/new_fis_logo_0.jpg"
+    width: 1200
+    height: 627
+    isCached: true
+
+secured: "g5K/WxiH7H+AAeVxHMt1afNAcXHwG9Q+GcpX5R6vJXNr7AxctQD78SNRzzx46NfW9yjK2W55YQYWkGCt60k0s4rimQgXdjrK2eKfSeFqHVXvpeWF/nru6bCXL77Ucu8B77tuI+kLCDrCoMWuXgdQC5Ut+J/vteSBewh3j2J+eZoJ7T8AXWZGanboUGHCrvd7/oDrsS8fTfh8Wy9bYlf25fiD3abT9vusU2yij+2Y3HXpA28jE95IRdMkKNAr9RubsQvBNXxkoWC6cm8cdgpaMuRdWpwUOYQMEmaeiSrFz8Jq1A3J10v7137qr5IDZtfvOVMTVdHRyrMRf3/JFGcX9gXY6kaxm0YRGpTyDQplYfk=;xh2oS6R36ZLVq22P9X+CfA=="
 ---
 

@@ -6,6 +6,9 @@ publishedDateTime: 2021-07-05T07:50:00Z
 originalUrl: "https://diginomica.com/ai-ethics-have-consequences-learning-problem-autonomous-weapons-systems"
 webUrl: "https://diginomica.com/ai-ethics-have-consequences-learning-problem-autonomous-weapons-systems"
 type: article
+quality: 27
+heat: 27
+published: false
 
 provider:
   name: Diginomica

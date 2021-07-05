@@ -7,7 +7,7 @@ originalUrl: "https://thenextweb.com/news/4-ways-ai-unlocking-astronomy-mysterie
 webUrl: "https://thenextweb.com/news/4-ways-ai-unlocking-astronomy-mysteries-universe-syndication"
 type: article
 quality: 67
-heat: 117
+heat: 127
 published: true
 
 provider:
@@ -59,6 +59,20 @@ related:
       - url: "https://scx2.b-cdn.net/gfx/news/2021/four-ways-artificial-i.jpg"
         width: 600
         height: 229
+        isCached: true
+  - title: "Six Ways AI is Transforming Sales"
+    excerpt: "Every day, AI influences our purchasing decisions, from the shows we watch to the routes drivers take to the next product we shop online. Here are six ways AI is transforming sales: The size of the sale,"
+    publishedDateTime: 2021-07-05T11:56:00Z
+    webUrl: "https://www.cioapplications.com/news/six-ways-ai-is-transforming-sales--nid-8066.html"
+    type: article
+    provider:
+      name: CIO Applications
+      domain: cioapplications.com
+    quality: 54
+    images:
+      - url: "https://www.cioapplications.com/newstransfer/upload/ycded450308.jpg"
+        width: 450
+        height: 308
         isCached: true
   - title: "Here's how artificial intelligence helping astronomers learn about the universe"
     excerpt: "To take on the challenges, astronomers are turning to machine learning and artificial intelligence (AI) to build new tools to rapidly search for the next big breakthroughs. A research by Ashley Spindler from the department of Astrophysics, University of ..."

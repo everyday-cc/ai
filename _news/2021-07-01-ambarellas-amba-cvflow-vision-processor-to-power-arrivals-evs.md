@@ -36,19 +36,14 @@ related:
         height: 420
         isCached: true
   - title: "VVDN expands its capabilities on Ambarella edge AI vision SoC platform to deliver next-gen vision based solutions"
-    excerpt: "VVDN Technologies, a premier electronic product engineering and manufacturing company, announces the expansion of its capabilities"
-    publishedDateTime: 2021-07-05T05:44:00Z
-    webUrl: "https://www.prnewswire.com/in/news-releases/vvdn-expands-its-capabilities-on-ambarella-edge-ai-vision-soc-platform-to-deliver-next-gen-vision-based-solutions-809343212.html"
+    excerpt: "VVDN Technologies, a premier electronic product engineering and manufacturing company, announces the expansion of its capabilities on"
+    publishedDateTime: 2021-07-05T10:14:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/vvdn-expands-its-capabilities-on-ambarella-edge-ai-vision-soc-platform-to-deliver-next-gen-vision-based-solutions-1030578196"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 18
-    images:
-      - url: "https://mma.prnewswire.com/media/1531036/VVDN_Technologies_Logo.jpg?p=facebook"
-        width: 600
-        height: 315
-        isCached: true
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 28
 
 secured: "zvJzsGJ9uhe1nyUBDTefYyU57ZQ9VDfUQqKyVaqrr3LBnf97xBevve4hYH7a98aC+3WZOjvywxUruMJspxil+YRfHQJFKQLgNxQiKVCYFgo/8IUgLizg+Eh5yRy2PiyXO5rQyNWUs8WkmybZAzhLI6KzEgW1AuPbB0JvhZFXfcuEGIeGsCUhn88SpX+v+rf38N7+YBdxQwq2w0i7f1YCvl3VfF7u0iDFXthCy7fImpfawi5yNyeStAHOkj3kd9vWmGPMzqu5Q5VKKBOzXzNh9qnrZnbT5qhd3hmdot3gzvXal1qNTPrpAtTNf3AryOFb+Dlz6pgSg7Yr09aAJpl0rSdpJWM5Q3SC6vvlTwnXICo=;aqNrHBRTzVwI67dkhf7/jg=="
 ---
