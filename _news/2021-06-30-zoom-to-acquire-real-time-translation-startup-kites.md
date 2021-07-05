@@ -9,8 +9,8 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/zoom-to-acquire-real-time-trans
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/zoom-to-acquire-real-time-translation-startup-kites/"
 type: article
 quality: 74
-heat: -1
-published: false
+heat: 144
+published: true
 
 provider:
   name: CNET
@@ -31,38 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Zoom acquires AI translation startup Kites"
-    excerpt: "The technology will be used to improve the video conferencing experience by providing real-time, multi-language translation capabilities for Zoom users, enabling the company to increase the ..."
-    publishedDateTime: 2021-06-30T09:35:00Z
-    webUrl: "https://www.itpro.co.uk/business-strategy/acquisition/360046/zoom-acquires-german-ai-startup-kites"
-    ampWebUrl: "https://www.itpro.co.uk/business-strategy/acquisition/360046/zoom-acquires-german-ai-startup-kites?amp"
-    cdnAmpWebUrl: "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/business-strategy/acquisition/360046/zoom-acquires-german-ai-startup-kites?amp"
-    type: article
-    provider:
-      name: IT Pro
-      domain: itpro.co.uk
-    quality: 89
-    images:
-      - url: "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1610533973/itpro/ZoomLogo_shutterstock.jpg"
-        width: 1260
-        height: 710
-        isCached: true
-  - title: "Zoom acquires AI company Kites that develops real-time translation"
-    excerpt: "Zoom has announced that it is acquiring a company known as Kites (short for Karlsruhe Information Technology Solutions) to \"make collaboration frictionless.\""
-    publishedDateTime: 2021-06-30T10:04:00Z
-    webUrl: "https://www.thehansindia.com/technology/tech-news/zoom-acquires-ai-company-kites-that-develops-real-time-translation-693384"
-    ampWebUrl: "https://www.thehansindia.com/amp/technology/tech-news/zoom-acquires-ai-company-kites-that-develops-real-time-translation-693384"
-    cdnAmpWebUrl: "https://www-thehansindia-com.cdn.ampproject.org/c/s/www.thehansindia.com/amp/technology/tech-news/zoom-acquires-ai-company-kites-that-develops-real-time-translation-693384"
-    type: article
-    provider:
-      name: The Hans India
-      domain: thehansindia.com
-    quality: 59
-    images:
-      - url: "https://assets.thehansindia.com/h-upload/2021/06/30/1085331-zoom.jpg"
-        width: 1000
-        height: 600
-        isCached: true
   - title: "Zoom acquires Kites, an AI company building real-time translation"
     excerpt: "Kites was founded in 2015 in Germany to help professors and students understand lectures in the German language. Although Zoom already has an option for real-time translation, the feature solely is for people speaking English. Zoom’s capital rose up by ..."
     publishedDateTime: 2021-06-30T15:33:00Z
@@ -94,22 +62,6 @@ related:
       - url: "https://i.cdn.newsbytesapp.com/images/l99920210630113017.jpeg"
         width: 1440
         height: 810
-        isCached: true
-  - title: "Zoom buys German AI translation company"
-    excerpt: "The deal will expand the app’s speech-to-text feature, one of the biggest challenges in artificial intelligence research."
-    publishedDateTime: 2021-07-02T06:36:00Z
-    webUrl: "https://www.thehindu.com/sci-tech/technology/zoom-buys-german-ai-translation-company/article35091961.ece"
-    ampWebUrl: "https://www.thehindu.com/sci-tech/technology/zoom-buys-german-ai-translation-company/article35091961.ece/amp/"
-    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/zoom-buys-german-ai-translation-company/article35091961.ece/amp/"
-    type: article
-    provider:
-      name: The Hindu
-      domain: thehindu.com
-    quality: 59
-    images:
-      - url: "https://www.thehindu.com/sci-tech/technology/lv4im/article35091997.ece/ALTERNATES/LANDSCAPE_615/Zoom-spl-arrangementjpg"
-        width: 615
-        height: 384
         isCached: true
   - title: "Zoom will have automatic translation in real time to videoconferences after buying the company Kites"
     excerpt: "Video calling platform Zoom bought a German startup specializing in language translation using Artificial Intelligence."
@@ -154,22 +106,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "Enterprise AI startup Hypersonix’s valuation goes up 4 times after $35 million Series B funding"
-    excerpt: "The company’s valuation has now quadrupled to $200 million just a year after raising $11.5 million in Series A funding led by Intel Capital in March 2020. So far, Hypersonix has secured investments worth $50 million."
-    publishedDateTime: 2021-07-02T07:40:00Z
-    webUrl: "https://www.cnbctv18.com/startup/enterprise-ai-startup-hypersonixs-valuation-goes-up-4-times-after-35-million-series-b-funding-9858571.htm"
-    ampWebUrl: "https://www.cnbctv18.com/startup/enterprise-ai-startup-hypersonixs-valuation-goes-up-4-times-after-35-million-series-b-funding-9858571.htm/amp"
-    cdnAmpWebUrl: "https://www-cnbctv18-com.cdn.ampproject.org/c/s/www.cnbctv18.com/startup/enterprise-ai-startup-hypersonixs-valuation-goes-up-4-times-after-35-million-series-b-funding-9858571.htm/amp"
-    type: article
-    provider:
-      name: cnbctv18
-      domain: cnbctv18.com
-    quality: 45
-    images:
-      - url: "https://images.cnbctv18.com/wp-content/uploads/2018/03/shutterstock_657839185-2-1-1019x573.jpg"
-        width: 1019
-        height: 573
-        isCached: true
   - title: "Zoom acquires real-time translation AI company, Kites"
     excerpt: "Zoom has acquired a real-time Machine Translation solutions company, Kites which is short for Karlsruhe Information Technology Solutions."
     publishedDateTime: 2021-07-01T06:58:00Z
@@ -197,48 +133,6 @@ related:
       - url: "https://cdn.bignewsnetwork.com/ani1625077312.jpg"
         width: 630
         height: 420
-        isCached: true
-  - title: "Zoom – Zoom buys German AI translation company"
-    excerpt: "Latest financial technology news, fintech news, fin tech news, open banking news​, banking news, blogs opinion, analysis on Fintech Zoom."
-    publishedDateTime: 2021-07-02T07:25:00Z
-    webUrl: "https://fintechzoom.com/fintech_news_zoom/zoom-zoom-buys-german-ai-translation-company/"
-    type: article
-    provider:
-      name: fintechzoom
-      domain: fintechzoom.com
-    quality: 39
-    images:
-      - url: "https://fintechzoom.com/wp-content/uploads/2021/07/Zoom-spl-arrangementjpg.jpeg"
-        width: 615
-        height: 384
-        isCached: true
-  - title: "MoMo acquires AI startup Pique"
-    excerpt: "Vietnam-based payment startup <a href=' target='_blank'>MoMo has acquired the AI startup <a href=' target='_blank'>Pique in a bid to better capitalise on the data of its registered"
-    publishedDateTime: 2021-07-01T12:42:00Z
-    webUrl: "https://thepaypers.com/payments-general/momo-acquires-ai-startup-pique--1250132"
-    type: article
-    provider:
-      name: The Paypers
-      domain: thepaypers.com
-    quality: 37
-    images:
-      - url: "https://thepaypers.com/images/linked-share.png"
-        width: 663
-        height: 347
-        isCached: true
-  - title: "Zoom Bolts on Speech Translation in What Is Only Its Second-Ever Acquisition"
-    excerpt: "Zoom acquires Kites, simultaneous speech translation provider. Zoom users may soon enjoy multilingual speech translation."
-    publishedDateTime: 2021-06-30T11:00:00Z
-    webUrl: "https://slator.com/ma-and-funding/zoom-bolts-on-speech-translation-in-what-is-only-its-second-ever-acquisition/"
-    type: article
-    provider:
-      name: Slator
-      domain: slator.com
-    quality: 21
-    images:
-      - url: "https://slator.com/assets/2021/06/Zoom-Buys-Real-Time-Video-Translation-Startup-Kites.png"
-        width: 600
-        height: 400
         isCached: true
 
 secured: "nLB/mOyzHa/Qnhuq5FtqKHM0RR/FAm+se/cjyAo8IpFL1j/fjFolD/7NORPA0BLEYkK7ea3o1wuAEMVNBnQdKSpKz2l6ihhddJ0mAULzhMeb9iiyMSgBUxte+j+pZhzNqOZdczlV+spDRQKjmXexYHFhvvxwkh+/z6hifLfVeqg59123xRcN4K4PwY5N+xl1v2/A/l6DNORajwo6BNvijKhNu35ZZd/ViXwxcgtLUDO8zlrN+4aOX+nxWxvGrNggdjiD3CYULUZaX5EJXxmzUUkPHDHx9RfjLtyfNNjvA6C/xbtHCCOTRL+9SiO+eZNEaHngmkPs3iaSGmCXpyD8pLA7EA4NeRNQpATrnFCQkCJx9Iv9zpxq8Z+0BiE1ljyr1VqMkjpzb2r/CRCh7LkodjMQwLX1k/3ZwSxVYYdiYyzKz2jT7roGzwhnq5ArxVmQsjXbw1N32Jx5AS37vpWUAp82zqzU3Gq6dD6dv9nz5GPllcV7CHqtF2yQg1obQS9cDsjr0czoZKrBtgkCbVFOyA==;16VhwW1WQfs0A+v2YrAAMw=="

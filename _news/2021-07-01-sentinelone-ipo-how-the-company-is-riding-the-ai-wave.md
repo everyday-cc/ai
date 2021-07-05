@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/tomtaulli/2021/06/30/sentinelone-ipo-ho
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tomtaulli/2021/06/30/sentinelone-ipo-how-the-company-is-riding-the-ai-wave/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 87
 published: true
 
 provider:
@@ -28,22 +28,6 @@ images:
     width: 1200
     height: 800
     isCached: true
-
-related:
-  - title: "Here's why hedge fund titan Dan Loeb, famous cybersecurity expert Chris Krebs, and Ashton Kutcher are betting big on AI startup SentinelOne's IPO"
-    excerpt: "SentinelOne's IPO may be an opportunity for the firm to pull together cybersecurity, data-management, and AI for government and business, experts say."
-    publishedDateTime: 2021-06-30T10:00:00Z
-    webUrl: "https://www.businessinsider.com/sentinelone-ipo-ceo-chris-krebs-dan-loeb-cybersecurity-2021-6"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 32
-    images:
-      - url: "https://i.insider.com/60db90eb36cf170019de89e9?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
 
 secured: "bsNgLxfKvOoMC+Zp7gc66pXLKLicfVSQUv6xn7oc0olMkBaUPI19gFDQLaaD1N76rUFjQy7o9crIwk4EyHv85h+jL52l+tX8LB0AgNCX23cCPGKME+3Rc8v8IKBbwYMOuZlby7osOl5WE57laye/Ina4O7TAu9Qo0tRAqtL3YZB5LyEAf0dGfPATl+CxTJZ3UARPxTRD4Iu7Zz44x6Mv7Vh98P/Ca4BS3VgZDufmHA+ppkTSjslrtxcWqOkopF66eJUYqn5Ewo8ISzf5Yzf2LeNJ6E3Vqde0Qqct7smYqkQjsIFQK78bWLzR7na4y5/etVkdPDvkZLO5pb64rsd/B1I9vVsOjtb7/cRvhJ/FQw/tg2tFn75G5se81liQbaRCffoQBciYasaLUkltx64G63DnVoBagA15N0FlnDrIbAooEHqC8JhEu9SFQWRH0EZOD4FijEq7O1Jc4kojZOI89d+Hd4FFujKd+NXieUBfuMHxypmhUwiQ21LGrV0DjmiS0BbDiOwULmO+SCVCoXtSBQ==;F0C8Qx4wGsGyKXK0+eOIyA=="
 ---

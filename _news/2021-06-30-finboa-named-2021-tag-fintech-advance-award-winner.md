@@ -43,15 +43,6 @@ related:
       name: The Business Journals
       domain: bizjournals.com
     quality: 4
-  - title: "FinTech Company Centime Launches Cloud-based Platform to Control Cash Flow"
-    excerpt: "Centime, a FinTech company, today announced the launch of its Cloud-based Cash Flow Control solution. With its state-of-art solution, the company will empower businesses by enabling them to optimize all aspects of their cash flow life cycle in an easy-to-use,"
-    publishedDateTime: 2021-06-30T10:17:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-fintech-company-centime-launches-cloud-based-platform-control-/2021/06/30/9400542.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 2
 
 secured: "vEDbWVAe16QiQ9F3B+JDkyna1VZFLFaptRHkLylmnn40Tl/OBiPhj7RDoq2WtIDuVqPW0CcjQk86/2lyZyooHTHWQjVsxh/Npivog3YOc0VKKsy3Re/Oc9WGmwKhp7L7WfKhUZ29PtzUfldjLiyn+k0efrAja26eCWCNKMP4JM8XnFy0W/X6bcs+X3A4BavWnjh124E8zQJmPQKPtgIUOLLqsKTAWJj2XsSQelR0O1ii6QCYCMzu0eaa+EgvV5xoIdJWjqDUzmJ1FacaH3e+RqFgXZEMO1uKzPqFqO1PJYKzoZl/Z//W4G2PW5IE+GP21qevz9FvSEfDXOx/IqXYzfb41V6UUDRDdO15f/yGA24=;VRrzhlr+6aFYdOe6Krbshw=="
 ---

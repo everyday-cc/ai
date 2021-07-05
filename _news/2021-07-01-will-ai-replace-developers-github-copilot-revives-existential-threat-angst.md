@@ -41,19 +41,19 @@ related:
         width: 708
         height: 472
         isCached: true
-  - title: "GitHub’s new AI tool is like predictive text for programmers"
-    excerpt: "The Microsoft-owned company has teamed up with OpenAI to launching a technical preview of an AI assistant for coders."
-    publishedDateTime: 2021-06-30T10:13:00Z
-    webUrl: "https://www.siliconrepublic.com/machines/github-microsoft-openai-coding"
+  - title: "GitHub unveils AI coding assistant for Visual Studio Code"
+    excerpt: "GitHub Copilot is an OpenAI-powered Visual Studio Code extension that can suggest lines of code or entire functions as you type."
+    publishedDateTime: 2021-07-05T03:25:00Z
+    webUrl: "https://www.reseller.co.nz/article/689538/github-unveils-ai-coding-assistant-visual-studio-code/?fpid=1"
     type: article
     provider:
-      name: SiliconRepublic
-      domain: siliconrepublic.com
-    quality: 39
+      name: Reseller News
+      domain: reseller.co.nz
+    quality: 37
     images:
-      - url: "https://www.siliconrepublic.com/wp-content/uploads/2021/06/Coding.jpeg"
+      - url: "https://d1abomko0vm8t1.cloudfront.net/article/images/800x800/dimg/dreamstime_s_209382638.jpg"
         width: 800
-        height: 600
+        height: 509
         isCached: true
 
 secured: "5MleJWfOmblyFO38CbfvIm8Ii/IqNZcKkB02oKjqCzILONRxDmTQxcEt82KssUeUfoCY77qhOmulC+G3HjCkv0MlwK2BW2/KT8jaSbMxILaHYsc6Bm1LZycNalkpvnESvfr5ZHSUmLBrR4KK3CNOmDE9RVnxdZ0VghccLj4ZjVBMpH49ewqSI8RNA/17xP1hGWoHMROTcUMVcexP1+2cMrF8oz0d1oPcYTYwD1tfYZf1V7tM/kiVgr2gD6uZ2zkiLHkSTuizwTZwhtmwo6gnjwmrIeRlVcx2bvA5uRad7umVU+qVFEvurtU1liAjOTCUUCcIyHRft3lcoSmB1oR/pqMjWpEJRhGrIOFtglZ5eioCA3CQsQJ7FCrABxd9vHzTjzwViKXsCTSCvtFYOklYFeo9JlvUJP5kCkygjYyOMC4kMNcKOOaR97oX6sR3D8ZO7t/vQMfwzovy2IXeRm1fb04u2gRyxqoBHBEsKc+Frdc19aDXpGfAaSk6oRDf6iufayCrfhGZ+73QQ/4J+KHPmQ==;OfwJZKPr2v+lFN7QYb3Bjg=="

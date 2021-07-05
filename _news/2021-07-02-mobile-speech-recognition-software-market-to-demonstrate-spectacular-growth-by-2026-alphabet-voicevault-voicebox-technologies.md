@@ -138,6 +138,15 @@ related:
       name: manometcurrent.com
       domain: manometcurrent.com
     quality: 30
+  - title: "Deep Learning Software Market Size and Growth to 2028 | Key Players – Microsoft, Express Scribe, Nuance, Google, IBM, AWS"
+    excerpt: "The Deep Learning Software Market report forecasts promising growth and development for the period 2021-2028. The Deep Learning Software market research report defines key statistical data presented in an organized format including graphs,"
+    publishedDateTime: 2021-07-05T02:51:00Z
+    webUrl: "https://manometcurrent.com/deep-learning-software-market-size-and-growth-to-2028-key-players-microsoft-express-scribe-nuance-google-ibm-aws/"
+    type: article
+    provider:
+      name: manometcurrent.com
+      domain: manometcurrent.com
+    quality: 28
   - title: "States Voice Recognition for Smartphones Market to Witness Huge Growth by 2028 | Apple, Google, Microsoft"
     excerpt: "The research covers the current & Future market size of the Global States Voice Recognition for Smartphones market & its growth rates based on 8 year history data. It also covers various types of segmentation such as by geography [China, Japan, Korea ..."
     publishedDateTime: 2021-07-02T14:43:00Z
@@ -161,15 +170,6 @@ related:
       name: The Sentinel
       domain: ksusentinel.com
     quality: 16
-  - title: "Artificial Intelligence In Genomics Market Continues To Impress | IBM, Microsoft, Deep Genomics, Fabric Genomics"
-    excerpt: "Latest released the research study on Global Artificial Intelligence In Genomics Market, offers a detailed overview of the factors influencing the global business scope. Artificial Intelligence In Genomics Market research report shows the latest market insights,"
-    publishedDateTime: 2021-06-30T10:25:00Z
-    webUrl: "https://ksusentinel.com/2021/06/30/artificial-intelligence-in-genomics-market-continues-to-impress-ibm-microsoft-deep-genomics-fabric-genomics/"
-    type: article
-    provider:
-      name: The Sentinel
-      domain: ksusentinel.com
-    quality: 13
   - title: "Voice Recognition Software Market May Set New Growth Story | E-speaking, Nuance, Talktyper, Microsoft, Google"
     excerpt: "The latest research on “Global Voice Recognition Software Report 2021” offered by HTF MI provides a comprehensive investigation into the geographical landscape, industry size along with the revenue estimation of the business."
     publishedDateTime: 2021-07-01T17:34:00Z

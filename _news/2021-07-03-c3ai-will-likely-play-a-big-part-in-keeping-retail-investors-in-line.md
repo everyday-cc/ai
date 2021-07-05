@@ -1,24 +1,26 @@
 ---
 category: news
 title: "C3.ai Will Likely Play a Big Part in Keeping Retail Investors in Line"
-excerpt: "Certainly, the partnership with Singtel shows C3.ai is making great strides within large organizations. Recently, an article from The Logic, an excellent Canadian publication for technology-focused news and opinion I subscribe to,"
+excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips The last time I wrote about C3.ai (NYSE:AI) was on June 14, two days before"
 publishedDateTime: 2021-07-02T19:36:00Z
-originalUrl: "https://www.nasdaq.com/articles/c3.ai-will-likely-play-a-big-part-in-keeping-retail-investors-in-line-2021-07-02"
-webUrl: "https://www.nasdaq.com/articles/c3.ai-will-likely-play-a-big-part-in-keeping-retail-investors-in-line-2021-07-02"
-ampWebUrl: "https://www.nasdaq.com/articles/c3.ai-will-likely-play-a-big-part-in-keeping-retail-investors-in-line-2021-07-02?amp"
-cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/c3.ai-will-likely-play-a-big-part-in-keeping-retail-investors-in-line-2021-07-02?amp"
+originalUrl: "https://markets.businessinsider.com/news/stocks/c3ai-ai-stock-will-likely-play-a-big-part-in-keeping-retail-investors-in-line-1030576543"
+webUrl: "https://markets.businessinsider.com/news/stocks/c3ai-ai-stock-will-likely-play-a-big-part-in-keeping-retail-investors-in-line-1030576543"
 type: article
-quality: 67
-heat: 67
+quality: 47
+heat: 47
 published: false
 
 provider:
-  name: Nasdaq
-  domain: nasdaq.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI
 
-secured: "MgWI/vYU/bwUZhjsT93VuRBCnKFY/c9J6+HApNDFv76Etiw1Fu2s2xEYmrfWb8zdsuXYrrwBoIt5Y8QluhZ/1UGjJTtia1A1VojjTOW2Mi9cL1Zvg30HlWZmPd2vao/ErBcUkCkmhM+Jjfpznd7RXVGt68ArwrP+5gpLjq3whvvPWzQyWH+YJJa1IuYGf13mHdnZocny/bi7XjZyMdTT5TyxlkuKHv9Ym304mYVd3OHRcfNvCWSf+ASdSNvyWE2UVxzqrQY7ebmMRllpeJM6eghbasNJXSa7+TBDb/ewciNBMUoiRu/FQtI5aZDoWumU/O90odUQO5lb1y6r8lwRvIIgyyA3HuE2rCb6buenb9oR0iBSGywegtHoj0KJbZTV1esoj4/CpaQwi3NUBsJ9lbTFmKGLDF4tuBQyqGLsPJA0bgdhI/2iroHVFcCQqBAaTAJqaVTPoaMYmC1tldAVnLUicikb5EsfW3hpG747Po2w32S+L8OwDakQGBs85o3otahfcrYL10VuLI4xMxEsNA==;eHW5mtdpEgitkU9ug3aJqQ=="
+secured: "rOMVAHZMDRuVyZG3cMWRHWUfkkoVTTbqJCeaWiRfavV9zPvIlymVUuK2Ro0uwXEsKVzPOnvixEYVVyPp9HCJmIte1zIFq2STBwTRLren4Y4b3FdF+WEZz9mqdCRu9E8aDuL7hrtIDG7ihvzbK3dng5si5AnTJAdK7KuA9+iZP35L+Zn+AY5vwxzKR5n9sAktTJM141P+MCAnegcHO2YkCSrHmTHdF/r+l8LqggBIurtpI4KbMS+SV4BUCuHfB9XXBNQMm3Cl0X0q5a28VykEWFBImB8Ixcm2lXtxX6cQIMSS0CGz8diQ6/KNp9F0xt35F46Uf9OqBH5GeGNAzX3vEGDc8R+mi60bCqY7HLlICAVv+xvaJznvCP8TLYpBaRFjIbLn54rtOj874rljk4dGj7oN59BFeLOqjvIWkaqALnCpdzSW6BS0aZLTcFgaTKw6k02wWoctxYERb6BDMjt+YoOYR18Tob5ZcU+D/Advfiz7Xd0QjpSfLvRk+3+1GGyBsC2/SUW1bcqvl5YzR+qZRw==;uQOX/8K5aGCmy5WrcKs4gg=="
 ---
 
