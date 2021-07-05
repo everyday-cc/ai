@@ -1,22 +1,28 @@
 ---
 category: news
 title: "Matterport and Facebook AI Research Collaborate to Release the World's Largest Dataset of 3D Spaces for Academic Research"
-excerpt: "Matterport, the spatial data company leading the digital transformation of the built world, which has entered into a definitive agreement to enter into a business combination with Gores Holdings VI, today announced a collaboration with Facebook AI Research through which it will make the largest-ever dataset of 3 D indoor spaces available exclusively"
+excerpt: "Matterport, the spatial data company leading the digital transformation of the built world, which has entered into a definitive agreement"
 publishedDateTime: 2021-06-30T14:30:00Z
-originalUrl: "https://www.nasdaq.com/press-release/matterport-and-facebook-ai-research-collaborate-to-release-the-worlds-largest-dataset"
-webUrl: "https://www.nasdaq.com/press-release/matterport-and-facebook-ai-research-collaborate-to-release-the-worlds-largest-dataset"
+originalUrl: "https://www.prnewswire.com/news-releases/matterport-and-facebook-ai-research-collaborate-to-release-the-worlds-largest-dataset-of-3d-spaces-for-academic-research-301323185.html"
+webUrl: "https://www.prnewswire.com/news-releases/matterport-and-facebook-ai-research-collaborate-to-release-the-worlds-largest-dataset-of-3d-spaces-for-academic-research-301323185.html"
 type: article
-quality: 24
+quality: 14
 heat: -1
 published: false
 
 provider:
-  name: Nasdaq
-  domain: nasdaq.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - Facebook AI
   - AI
+
+images:
+  - url: "https://i1.ytimg.com/vi/tl2DzJAA2Oc/hqdefault.jpg"
+    width: 480
+    height: 360
+    isCached: true
 
 related:
   - title: "Gores Holdings VI Up 12% as Matterport to Collaborate With Facebook AI Research"
@@ -52,6 +58,6 @@ related:
         height: 667
         isCached: true
 
-secured: "TQmqAWumZc6qQ+I35VIlH3gZU3zJAOhoKbd4PCTc0anXnEbTf8oSgNGIQlKvsArZfUc/o9cOMPScDtwTRLyP8bvB4ezqhanF5X1bor5dp7bGtSmzCf8wauBCkimkxgmVYH884z5gjaa7mnoS3TmG2mJjWwV/NmiJWiMm8Aatk+9zY3kyANSr8ZKVMPQ7/VLWXg4fn9+pTLCxYLqnGOjugBtUdQZpdeyrK/MexS60UJZpPREZ956WanS3YAi3LHL1Oqu+Vm4XjEYDAI/UVJnFQpwF6P0ccNL+S1jJywDHgES8QizukZuF7oxLsWnIZuNbI7orziWjqzjf/D1tmVIOx32A4eKT75y+E3Lxh+QB1R4=;BVToJQxgJXItBg9LpgrLqQ=="
+secured: "IsCcb0rEmhY54JkcZrhrBEOPawHVcnMrkNB8dLYkVJ/ZxUFnO8lTrRagoOwv+XHHWLsr6+fX7lCWqcFnBI8oLfoBKQFVOupJcJiTncTDwXQ/4HXhyhx04CAmRHh8+RMV8bHj3DiowVuxhAkVEFC1ASdNLX8iBi+FZH8r5J/gH5dUShmx7af2XIHOIbzA8Auo1YH+mO4ayueDKbc9cTVm2NmI9TK5zlYFoo/sMOssQvj7M38WCZss4gTrEEDGnBddNaloATxs++QJSZAvVxNyPN1r+mIMPGpojm56eYrz7xIoRA7DR7t3Ud3T2Y0dsVlUP669P0QaKneocyuBxIuDUfEWYz78gDwM6Hrk+NrgzKA=;xqqHVZm61BMP93/DzkZEFQ=="
 ---
 

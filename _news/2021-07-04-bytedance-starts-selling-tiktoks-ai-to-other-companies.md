@@ -26,6 +26,22 @@ images:
     isCached: true
 
 related:
+  - title: "TikTok's Algorithm and AI Tech Are Now up for Sale"
+    excerpt: "The app's parent company, ByteDance, launched a new BytePlus division to sell its features to other companies."
+    publishedDateTime: 2021-07-04T23:02:00Z
+    webUrl: "https://gizmodo.com/tiktoks-algorithm-and-ai-tech-are-now-up-for-sale-1847228950"
+    ampWebUrl: "https://gizmodo.com/tiktoks-algorithm-and-ai-tech-are-now-up-for-sale-1847228950/amp"
+    cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/tiktoks-algorithm-and-ai-tech-are-now-up-for-sale-1847228950/amp"
+    type: article
+    provider:
+      name: Gizmodo
+      domain: gizmodo.com
+    quality: 87
+    images:
+      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/9aece3a74d971701b48229b347be9f85.jpg"
+        width: 800
+        height: 448
+        isCached: true
   - title: "TikTok's AI is being sold to other companies"
     excerpt: "TikTok's AI is no longer a secret — in fact, it's now on the open market. The Financial Times has learned that parent company ByteDance quietly launched a BytePlus division that sells TikTok technology,"
     publishedDateTime: 2021-07-04T18:30:00Z

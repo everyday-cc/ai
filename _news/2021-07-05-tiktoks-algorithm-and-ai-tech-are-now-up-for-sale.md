@@ -1,0 +1,66 @@
+---
+category: news
+title: "TikTok's Algorithm and AI Tech Are Now up for Sale"
+excerpt: "The app's parent company, ByteDance, launched a new BytePlus division to sell its features to other companies."
+publishedDateTime: 2021-07-04T23:02:00Z
+originalUrl: "https://gizmodo.com/tiktoks-algorithm-and-ai-tech-are-now-up-for-sale-1847228950"
+webUrl: "https://gizmodo.com/tiktoks-algorithm-and-ai-tech-are-now-up-for-sale-1847228950"
+ampWebUrl: "https://gizmodo.com/tiktoks-algorithm-and-ai-tech-are-now-up-for-sale-1847228950/amp"
+cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/tiktoks-algorithm-and-ai-tech-are-now-up-for-sale-1847228950/amp"
+type: article
+quality: 87
+heat: 107
+published: true
+
+provider:
+  name: Gizmodo
+  domain: gizmodo.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - AI
+
+images:
+  - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/9aece3a74d971701b48229b347be9f85.jpg"
+    width: 800
+    height: 448
+    isCached: true
+
+related:
+  - title: "TikTok's AI is being sold to other companies"
+    excerpt: "TikTok's AI is no longer a secret — in fact, it's now on the open market. The Financial Times has learned that parent company ByteDance quietly launched a BytePlus division that sells TikTok technology,"
+    publishedDateTime: 2021-07-04T18:30:00Z
+    webUrl: "https://www.engadget.com/bytedance-sells-tiktok-ai-182553001.html"
+    type: article
+    provider:
+      name: Engadget
+      domain: engadget.com
+    quality: 67
+    images:
+      - url: "https://s.yimg.com/os/creatr-uploaded-images/2021-05/63a2fa70-ae89-11eb-adf7-03b9a23b7e63"
+        width: 5000
+        height: 3333
+        isCached: true
+  - title: "ByteDance starts selling TikTok’s AI to other companies"
+    excerpt: "ByteDance is selling some of the artificial-intelligence technology that powers its viral video app TikTok to websites and apps outside China, as it broadens its revenue streams ahead of a long-anticipated initial public offering."
+    publishedDateTime: 2021-07-04T08:00:00Z
+    webUrl: "https://www.ft.com/content/bed7cba1-db7a-49c7-9d57-06fd19e14e10"
+    ampWebUrl: "https://amp.ft.com/content/bed7cba1-db7a-49c7-9d57-06fd19e14e10"
+    cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/bed7cba1-db7a-49c7-9d57-06fd19e14e10"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 57
+    images:
+      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F71a8f16d-2b95-4539-80ba-3f2c121a2736.jpg?source=amp&fit=scale-down&width=2272"
+        width: 2272
+        height: 1278
+        isCached: true
+
+secured: "W2hPqXV7aodlPRookHkUmgklsudvsM9t2ZXZqY3WyqlSxVQxoDcRcEmdX6Fq88f4CX9X57GEaAZ7QQX1hNp80IW27USNlAyxWdEhHytabGpYzJwfRK1pqP8OwnuKOmuta8vASKY8l/E8p7RdS5NOD7tPu5cCm38M72SjHOeyIthx7doIsbSifn0wMRbCfg5YIJnjy/paEw4GSFINKEeZ4R8wBAozcoMcMZNMG+1B5r/avLFuTH0Mcd8/ZYFJO1et2tjAGa37KeUWY5ndbBYOVu7F+Wltg0a5kyg3jdtj2RoYHhpEl4M8WDwezsEAkg2gXC7pEj4d9TpG2uobQN9OqfH8MaVi1p69oXU4TSg/PtM=;2TBUBoTGbaK01nOSYXyaWw=="
+---
+
