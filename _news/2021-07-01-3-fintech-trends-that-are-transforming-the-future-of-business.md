@@ -28,19 +28,19 @@ related:
       name: Techinasia
       domain: techinasia.com
     quality: 34
-  - title: "FINBOA Named 2021 TAG FinTech ADVANCE Award Winner"
-    excerpt: "FINBOA, Inc., a leading innovator in digital automation and regulatory compliance for financial institutions, was recently selected as a 2021 TAG FinTech ADVANCE Award winner by the Technology Association of Georgia (TAG),"
-    publishedDateTime: 2021-06-30T11:53:00Z
-    webUrl: "https://www.lelezard.com/en/news-19881675.html"
+  - title: "How are Fintech Companies Changing Credit Scores?"
+    excerpt: "Financial advisers and gurus have always emphasized the importance of credit scores ⁠— and most people today have taken this advice to heart, trying to be more proactive in checking their credit scores."
+    publishedDateTime: 2021-07-02T14:08:00Z
+    webUrl: "https://fintechzoom.com/fintech_news_buzz/how-are-fintech-companies-changing-credit-scores/"
     type: article
     provider:
-      name: Le Lézard
-      domain: lelezard.com
+      name: fintechzoom
+      domain: fintechzoom.com
     quality: 24
     images:
-      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
-        width: 640
-        height: 480
+      - url: "https://fintechzoom.com/wp-content/uploads/2021/07/credit-scores-not-equal-ultrafico-e1570739182454.jpg"
+        width: 1254
+        height: 617
         isCached: true
 
 secured: "b7iS6vGKulELgSgA2d1i0N4qKOxAIWF6h0BQiWUPegKEx9NJCCz5eDitlcknhqgtYCSrtP6O7icAUliZ545w5YUukI6xJ2O4/ONzCX0Cii34aA5NI6OyM9w365hICmu3p3EVmJc88lfTG99ebCTWnPJrEvboZDq+Qjr3CKj/f5i1bMocBdBQNM3iGGNzOMLBqg9RWKVihpYgvifEJOkqkUVoYKHdNlAESZuG4CKFhipLluXfZDXL8s8MPwfPySKtHT/NFaCauZ4CXz2vac2K5RlxhVLZdIJ+MGCDIEjM0YDtaZ+kIEfzOTaaZKzeQTNCMzFmoYE2ZsOjtgYA1SiQy3/BCKxkWcpQr2tgYvLHC+m0Qu9mQzmFj7C9TLn3yMGLDCM1WgbW4JynX+wl9MCcIEkwJl66AQy57PEvJyfGWTcHrNxK7qYHdbD0iwn+e/kVc96+EPRqilxNkyqn8VuVCFN/tUJj7Mzjgw3r+mLrfqFwJhXphSwsvc175IjdwONAiDP+9qj2JsxBI6KiDwQdDA==;/aclxd8PUqA9PGjySqjqrA=="

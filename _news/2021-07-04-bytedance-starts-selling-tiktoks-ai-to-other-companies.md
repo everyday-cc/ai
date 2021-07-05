@@ -56,6 +56,36 @@ related:
         width: 5000
         height: 3333
         isCached: true
+  - title: "ByteDance Selling TikTok AI To Companies Including In India"
+    excerpt: "China-based ByteDance which is the parent company of TikTok, has reportedly started selling the AI technology of the short video-making app to other companies, including in India where the app is banned."
+    publishedDateTime: 2021-07-05T05:04:00Z
+    webUrl: "https://odishatv.in/news/technology/bytedance-selling-tiktok-ai-to-companies-including-in-india-100654"
+    ampWebUrl: "https://odishatv.in/news/technology/bytedance-selling-tiktok-ai-to-companies-including-in-india-100654/amp"
+    cdnAmpWebUrl: "https://odishatv-in.cdn.ampproject.org/c/s/odishatv.in/news/technology/bytedance-selling-tiktok-ai-to-companies-including-in-india-100654/amp"
+    type: article
+    provider:
+      name: Odisha TV
+      domain: odishatv.in
+    quality: 59
+    images:
+      - url: "https://images.odishatv.in/uploadimage/library/16_9/16_9_2/TikTok_1625460493.jpg"
+        width: 400
+        height: 225
+        isCached: true
+  - title: "ByteDance starts selling TikTok’s AI to other companies"
+    excerpt: "Chinese tech and social media giant, and the name behind the platform, ByteDance, has started selling TikTok's AI to other parties."
+    publishedDateTime: 2021-07-05T05:54:00Z
+    webUrl: "https://techstory.in/bytedance-starts-selling-tiktoks-ai-to-other-companies/"
+    type: article
+    provider:
+      name: tech
+      domain: techstory.in
+    quality: 39
+    images:
+      - url: "https://techstory.in/wp-content/uploads/2021/06/TikTok-claims-ByteDance-strictly-controls-apps-user-data.jpg"
+        width: 1200
+        height: 808
+        isCached: true
 
 secured: "oGLtuMIaFN5KUyB8FyCXODs11OAIzMAIIceZ/KsEAQ4A9dc09tuu6OoR9EyI6pGyPSGtlQotf7VhUteOsLS/dGbCPbtyS+SFMy7nWuEHVQ4oIBnNoim5UvVpJDRNjfbNSc5n/IUO22BUQkzVT2w5EdHGkyud5TO1Ahl9dv1bQoUm48dGy7KfxgCeifb2+1KpD9kiEHTLk/oPfyid9jazajsHQEVsoVUsOPddhNjEPE2P4YC/+rU8020+1nNH8IBDrUGxXQKmA775DC5lb8TxGGJXh2RWeUDwrX62aOQRN+XKu/3tMH9E1CWKgJKS9MgHasz6mgx5dfTTz5WDlt1DdJ85POGUseeNx91kPRd/NdE=;GM6b3CczoLV5Ocxw7sxdnA=="
 ---

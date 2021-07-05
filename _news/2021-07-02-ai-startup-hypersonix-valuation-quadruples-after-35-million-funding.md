@@ -9,8 +9,8 @@ ampWebUrl: "https://m.economictimes.com/tech/funding/ai-startup-hypersonix-valua
 cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/funding/ai-startup-hypersonix-valuation-quadruples-after-35-million-funding/amp_articleshow/84047082.cms"
 type: article
 quality: 57
-heat: 77
-published: true
+heat: 67
+published: false
 
 provider:
   name: India Times
@@ -26,20 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI startup Hypersonix just raised $35 million to take on the 'traditional big boys' like Oracle and SAP"
-    excerpt: "Hypersonix CEO Prem Kiran says the pandemic helped put the AI startup on a \"level playing field\" with companies like Oracle and SAP."
-    publishedDateTime: 2021-06-30T12:00:00Z
-    webUrl: "https://www.businessinsider.com/hypersonix-35-million-oracle-sap-b-capital-2021-6"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 51
-    images:
-      - url: "https://i.insider.com/60d9f7b61477f300188c7e64?width=1200&format=jpeg"
-        width: 1200
-        height: 602
-        isCached: true
   - title: "Enterprise AI startup Hypersonix’s valuation goes up 4 times after $35 million Series B funding"
     excerpt: "The company’s valuation has now quadrupled to $200 million just a year after raising $11.5 million in Series A funding led by Intel Capital in March 2020. So far, Hypersonix has secured investments worth $50 million."
     publishedDateTime: 2021-07-02T07:40:00Z

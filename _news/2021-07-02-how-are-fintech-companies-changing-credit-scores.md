@@ -25,22 +25,24 @@ images:
     isCached: true
 
 related:
-  - title: "Pakistani Fintech Startup Creditfix Secures Seed Funding by Insitor Partners"
-    excerpt: "Pakistani Fintech startup Creditfix has announced that it has secured an undisclosed amount of seed funding in a round led by the venture capital fund, Insitor Partners Pte. Ltd. The Singapore-based impact investment firm confirmed this as their inaugural investment into Pakistan."
-    publishedDateTime: 2021-06-30T12:39:00Z
-    webUrl: "https://propakistani.pk/2021/06/30/pakistani-fintech-startup-creditfix-secures-seed-funding-by-insitor-partners/"
-    ampWebUrl: "https://propakistani.pk/2021/06/30/pakistani-fintech-startup-creditfix-secures-seed-funding-by-insitor-partners/amp/"
-    cdnAmpWebUrl: "https://propakistani-pk.cdn.ampproject.org/c/s/propakistani.pk/2021/06/30/pakistani-fintech-startup-creditfix-secures-seed-funding-by-insitor-partners/amp/"
+  - title: "Carro’s fintech arm launches financing plan for EVs, hybrid cars"
+    excerpt: "The GoGreen initiative allows private-hire vehicle drivers to enjoy lower interest rates as a reward for going green."
+    publishedDateTime: 2021-07-01T01:46:00Z
+    webUrl: "https://www.techinasia.com/carros-fintech-arm-launches-financing-plan-evs-hybrids"
     type: article
     provider:
-      name: ProPakistani
-      domain: propakistani.pk
-    quality: 41
-    images:
-      - url: "https://propakistani.pk/wp-content/uploads/2021/06/img-20210630-wa0078.jpg"
-        width: 1280
-        height: 707
-        isCached: true
+      name: Techinasia
+      domain: techinasia.com
+    quality: 34
+  - title: "3 fintech trends that are transforming the future of business"
+    excerpt: "Here are three emerging trends in fintech that businesses should be aware of in order to best protect themselves against the inherent risks of digitization of operations, products and services."
+    publishedDateTime: 2021-07-01T05:00:00Z
+    webUrl: "https://www.bizjournals.com/dallas/news/2021/07/01/3-fintech-trends-that-are-transforming-the-future.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 4
 
 secured: "M5Qsz+BtymmIkOl2IWDqmnqVH7O5C/xJAgGvXSUit/+Xdta8S5W7sk9ZS9SJF0tQ0HGDeta4CiKVNuHcaIlh3T+inUM9imd2ZC1VOZVzLIu3/QyLItlwyR7yj9yLFOrf8S7cHmehph5N0knpwsuBtzi7Dw9sm6+xBnSwEenpLAPtBmtyQtL6GDPOtNxR0az3LKlS3Mj/SE7c+L5voHEw+Wa+vW+MaRISY3DY4WPSHDmiGaUgOfmmACyd8ieIk0zZR+dJOALhEy/cN88RnN9PFO9+cA+yQ/tdQTMoOvIxa2HhsIu6VKAI3o5uQ8rRE4EKs9VbQNAnCZHgVsHwcXT4Kel+06NLwetQvBFHQx+OpyZoQ7J2OhGqnwKvWZolkJ5K9zneKrWMfY3RROtrbSJ/wcdyeX+JdG/OVVrNUpro+uFE4eNS+V4iXOe/Qgcx4shnoB90tNohoZc5JzHN38Xglrm88/V0z8vFGp5GXyYcAubvcn+dKyqRmvoF/QKAwcbMkJ46vtishsRQMLrcBFllzg==;fpBkwiy/xBARDxRAeP3T1Q=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.iflscience.com/technology/first-ai-war-israel-used-world
 cdnAmpWebUrl: "https://amp-iflscience-com.cdn.ampproject.org/c/s/amp.iflscience.com/technology/first-ai-war-israel-used-worlds-first-aiguided-swarm-of-combat-drones-in-gaza-attacks/"
 type: article
 quality: 47
-heat: -1
+heat: 47
 published: false
 
 provider:
@@ -24,24 +24,6 @@ images:
     width: 720
     height: 405
     isCached: true
-
-related:
-  - title: "Israel used world's first AI-guided combat drone swarm in Gaza attacks"
-    excerpt: "May, the Israel Defense Forces (IDF) used a swarm of small drones to locate, identify and attack Hamas militants. This is thought to be the first time a drone swarm has been used in combat"
-    publishedDateTime: 2021-06-30T12:06:00Z
-    webUrl: "https://www.newscientist.com/article/2282656-israel-used-worlds-first-ai-guided-combat-drone-swarm-in-gaza-attacks/"
-    ampWebUrl: "https://www.newscientist.com/article/2282656-israel-used-worlds-first-ai-guided-combat-drone-swarm-in-gaza-attacks/amp/"
-    cdnAmpWebUrl: "https://www-newscientist-com.cdn.ampproject.org/c/s/www.newscientist.com/article/2282656-israel-used-worlds-first-ai-guided-combat-drone-swarm-in-gaza-attacks/amp/"
-    type: article
-    provider:
-      name: New Scientist
-      domain: newscientist.com
-    quality: 57
-    images:
-      - url: "https://images.newscientist.com/wp-content/uploads/2021/06/30124549/30-june_israel-drone-swarm2.jpg?width=600"
-        width: 600
-        height: 400
-        isCached: true
 
 secured: "YprLdAFuJoa+X9wfEO/3CPabGnbVPOrR0cID2p90kVQqjSb8rGGaYc/xaaBO8/qB77GgH+GiJaUOJNboMlloGEQaBiafwKH82MpGWet5kqejPBQtG1vW90wMIaDhtcT3PWh7FRBSH0yC8xYqbO5avI6uEjSfO8nKBwFIAqmhqt4fcu5kBXhc2FesIMspyumfzjERo0RuzAAgs+xgHiSPaR1lbpERpwDf0ieuWabu0/xrPvpTkYRRrBCPgc1zYfQVw7r6slvaFcWzBVgc4rB3kLdSkhQQMrWquSDDWBLe1ylxBlyCDOgLw5Cw5Qp9M05JQ1fPzQTC0Yz6rTpqbsbs1um2+YsxkrQiOl8o7nstcPo=;32n/uiNkb52cbVOEKPNYtw=="
 ---

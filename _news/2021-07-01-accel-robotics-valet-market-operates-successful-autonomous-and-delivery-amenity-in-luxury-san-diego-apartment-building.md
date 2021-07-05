@@ -39,20 +39,6 @@ related:
         width: 330
         height: 220
         isCached: true
-  - title: "Accel Robotics' 'Valet Market' Operates Successful Autonomous and Delivery Amenity in Luxury San Diego Apartment Building"
-    excerpt: "Accel Robotics is a leading startup for autonomous retail solutions powered by computer vision and artificial intelligence. Valet Market is just one of many new retail formats the company currently has in operation or in development globally, which span ..."
-    publishedDateTime: 2021-06-30T12:12:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-accel-robotics-valet-market-operates-successful-autonomous-delivery-/2021/06/30/9400719.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 29
-    images:
-      - url: "https://mma.prnewswire.com/media/1554692/AR_Valet_62921.jpg"
-        width: 400
-        height: 267
-        isCached: true
 
 secured: "PvnK4Hc6ekx58UTW/DmaHiq8V9umvfUZaR6LJGLKZ0Mkm/VqGD7YvVO17YozBwQCphw82Vp2Fti7IktP5/29QrubEO+hTKPX4CMmQWDosAHHVGhnLcyB8xqEIgpifkYtLZ7pDA2AKD9dFeYoqg8ugROMhkOnsUF8g2wdgVJH2psLMpHDRTmnJKzypUaYiibi+vXzv+qUC4R44LIfDqH2dJEVAaXMN8+kGbcxdXCdXeLmMzzep/a03k2Iu+QKy2WA3jV3Vs2nUIxl/savLwLz5zbjvsunD8a3MZqDcjaH6+nVEuFad0eGOT5weeRTPwsDhGQK6aLEjFnt0TItEhZFVBlpak/HIBeQWCCbRctRg3LvHioX20Mnwm3zHPwTtBRk3oGj9LfiXtwec5+vyY3CeTxkKRiNu80f/Sze5XhxRFg39j+rSQBZx5T7C2jHiQKDXbFbdgGIvgr7ExJMfiZPaoBdMK1xRfDBYMgAGB4xJtWCdHoJggSqhYAiRoMcnd7ehBJEXGuveXcJOKGdbRGavQ==;yaNYvT65w+MCeSyN6AOpbw=="
 ---

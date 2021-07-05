@@ -7,7 +7,7 @@ originalUrl: "https://www.socaltech.com/accel_robotics_claims_successful_deploym
 webUrl: "https://www.socaltech.com/accel_robotics_claims_successful_deployment_in_san_diego/s-0081447.html"
 type: article
 quality: 69
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Accel Robotics' 'Valet Market' Operates Successful Autonomous and Delivery Amenity in Luxury San Diego Apartment Building"
-    excerpt: "Accel Robotics is a leading startup for autonomous retail solutions powered by computer vision and artificial intelligence. Valet Market is just one of many new retail formats the company currently has in operation or in development globally, which span ..."
-    publishedDateTime: 2021-06-30T12:12:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-accel-robotics-valet-market-operates-successful-autonomous-delivery-/2021/06/30/9400719.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 29
-    images:
-      - url: "https://mma.prnewswire.com/media/1554692/AR_Valet_62921.jpg"
-        width: 400
-        height: 267
-        isCached: true
   - title: "Accel Robotics' 'Valet Market' Operates Successful Autonomous and Delivery Amenity in Luxury San Diego Apartment Building"
     excerpt: "Valet Market, the new autonomous community market experience from Accel Robotics, is already a proven amenity for modern real-estate communities. In the first few weeks since opening to the public on June 11,"
     publishedDateTime: 2021-07-01T14:06:00Z

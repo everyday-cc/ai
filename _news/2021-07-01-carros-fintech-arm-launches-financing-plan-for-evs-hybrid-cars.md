@@ -23,19 +23,19 @@ topics:
   - AI
 
 related:
-  - title: "FINBOA Named 2021 TAG FinTech ADVANCE Award Winner"
-    excerpt: "FINBOA, Inc., a leading innovator in digital automation and regulatory compliance for financial institutions, was recently selected as a 2021 TAG FinTech ADVANCE Award winner by the Technology Association of Georgia (TAG),"
-    publishedDateTime: 2021-06-30T11:53:00Z
-    webUrl: "https://www.lelezard.com/en/news-19881675.html"
+  - title: "How are Fintech Companies Changing Credit Scores?"
+    excerpt: "Financial advisers and gurus have always emphasized the importance of credit scores ⁠— and most people today have taken this advice to heart, trying to be more proactive in checking their credit scores."
+    publishedDateTime: 2021-07-02T14:08:00Z
+    webUrl: "https://fintechzoom.com/fintech_news_buzz/how-are-fintech-companies-changing-credit-scores/"
     type: article
     provider:
-      name: Le Lézard
-      domain: lelezard.com
+      name: fintechzoom
+      domain: fintechzoom.com
     quality: 24
     images:
-      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
-        width: 640
-        height: 480
+      - url: "https://fintechzoom.com/wp-content/uploads/2021/07/credit-scores-not-equal-ultrafico-e1570739182454.jpg"
+        width: 1254
+        height: 617
         isCached: true
   - title: "3 fintech trends that are transforming the future of business"
     excerpt: "Here are three emerging trends in fintech that businesses should be aware of in order to best protect themselves against the inherent risks of digitization of operations, products and services."

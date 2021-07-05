@@ -1,21 +1,25 @@
 ---
 category: news
 title: "Artificial Intelligence (AI) Chips Market in Communications Equipment Industry | Technavio"
-excerpt: "The artificial intelligence (AI) chips market is expected to grow by USD 73.49 billion at over 51% CAGR during 2021-2025, according to"
-publishedDateTime: 2021-06-29T01:45:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/21/06/n21757779/artificial-intelligence-ai-chips-market-in-communications-equipment-industry-technavio"
-webUrl: "https://www.benzinga.com/pressreleases/21/06/n21757779/artificial-intelligence-ai-chips-market-in-communications-equipment-industry-technavio"
-ampWebUrl: "https://www.benzinga.com/amp/content/21757779"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/21757779"
+excerpt: "According to Technavio, the COVID-19 pandemic will have a positive impact on the growth of the artificial intelligence (AI) chips market. The report expects the market value to increase in 2021 as compared to 2020."
+publishedDateTime: 2021-06-29T01:49:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-artificial-intelligence-ai-chips-market-communications-equipment-industry-/2021/06/28/9399133.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-artificial-intelligence-ai-chips-market-communications-equipment-industry-/2021/06/28/9399133.htm"
 type: article
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI
 
-secured: "VVr4wW46ZkqIKNUqcyqgSoLuGR6lss4g3lMNHi+btLKnMykZ2c0xTTqS8dkuNMZotmxvRSCU7f84IhN7MrAks4p32TVbbzpBTqrvTL3Yl7R++bpLV/BH3TARZv1zqykqVqo/thlA7Y3AbW5FYXdWNr34at5Ll5BHRu0VsgRzeKAo3WI+71fzXrk5S8J9ae8rl4ZZAptoeiGnJHY7o4kqGg7N4J9AiznUe47kL9zrSVI2YxwLrrYp2dFyj9Gywj/GXfh8xn0bhB//ifgPWzh8mUv9SoycN6ynhX/BqTJhGt88RTn90i6+lndxdcA9qHfcQeQfft1V0Ak8tSOvKysxY2sHw8GlCrG5EYMv7c9HLOJZBRkocvKVIIlnJbvaO/9JLv3VYGfrQdJbUEQE5oTDpj3PiDH2jLRfal4pThnduyHtWATWCuNZykFKc0VglOISesSGpF066ycVhbF+ECjcYfenFGFNdJlkhEjIaZ+N/7iqTMqPWexIJP/cBM+HOEj0PJ51CBL7DEzgUk8f0Hf7RQ==;mapEkKiWlbc+R9bYs1Hn7A=="
+images:
+  - url: "https://mma.prnewswire.com/media/1441766/Technavio_Logo.jpg"
+    width: 400
+    height: 400
+    isCached: true
+
+secured: "eu4TSaLekrpbcknuvprLzwhEBMACRYdIWFYEI8KaM2bLK4bDnKKL4uKH7zsP3DTX1kkVJUtSk1+53Eh5Pqb/JTMnGPcIyyYukMsu56ENh8c2Ek1uMk1oRmW5Eg0nz/gaRhjf6T6SrzDdzPQok2zrdGz+l/UEeyYsOje5DJb6b8DSENgRDuPc1e+/0wFlqXPRGdoaw6s/xm5rkR5UgkAP9zlipkjEsDZBVkuXy1un11fzJC445dDRYlDEC3P2Xv5Bt9SCvxNj2UDaf0H3bYWPf9OxVDtv7FL5rJobev/o5wcXtcWpxVy7LRyb6pOTpKB319XJpI7LA7K+lHW2Sf/++aTxnyQF/6EPGYzqlec28pc=;u+clBjLC9acLeUAPLZZAYg=="
 ---
 

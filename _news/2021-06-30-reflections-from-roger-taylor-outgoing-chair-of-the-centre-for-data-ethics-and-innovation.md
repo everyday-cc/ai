@@ -24,17 +24,6 @@ images:
     height: 1000
     isCached: true
 
-related:
-  - title: "Award-Winning Innovator and AI Data Research Leader LogicPlum Releases Comprehensive New Software Iteration to Combat Organization Bias: LogicPlum 3.1"
-    excerpt: "LogicPlum (  unveiled its latest platform version, LogicPlum 3.1, now fully loaded with the power of LogicPlum Neutral. Believing that bias and fairness detection should be a part of every AI project going forward,"
-    publishedDateTime: 2021-06-30T11:53:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-award-winning-innovator-ai-data-research-leader-logicplum-/2021/06/30/9400657.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
-
 secured: "efQCjXnnaxE4tL5A/Yz5gSXZgJLyv1QIAP/R+bU4wcfSpRb+cOBMWvL8c0eI9K3eSkUuOob89njGgjUXa1BuYXMu9CrJYZpfPQZYvx5kkjVLWjxm4X3gbwBCgbnfUj0edibf8zzKLAB6F4WM2Da3zHj1xVScftE52u+Ssmw1wyGeCo/kxT8JuO+yxZnMV++RxuxHRTcTgvjXS87Kcx6lhvC95llhq+L5q4dMhSe4rHYmkfMPyahmeVPRU4R32Aq+D6nA8mW13HdA56n1/H5XKcRT4YLCKibRsA6Od/6zAnYrKceQok/ahJ3EG/8iXHxD/EIdYIJr7n8F834fw9KdEQLA8z8p3ksovpWm3bZfGse2zOa+QEr9Z15EHMm6yiB+d7gVn22hdl5rgjMxctZg6FsDw48jp73XYo9IENwYLgEP+jqku2ZjqkcicE6UiQouMZZLKRG43xxFmMQYfpW6zKoMzciDxiWC/ovlcq5yAC1FquD+WEnzzL3xQvph5HnadwLReX33aXfhPWPXZcnLrw==;pVMDjBKl1r02s7LORafXuQ=="
 ---
 

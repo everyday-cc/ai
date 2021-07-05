@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/speech-recognition-softw
 webUrl: "https://www.marketwatch.com/press-release/speech-recognition-software-market-next-big-thing-major-giants-google-microsoft-baidu-2021-07-03"
 type: article
 quality: 92
-heat: 222
+heat: 232
 published: true
 
 provider:
@@ -152,6 +152,15 @@ related:
         width: 780
         height: 470
         isCached: true
+  - title: "Deep Learning System Software Market Size and Growth to 2028 | Key Players – Microsoft, TRINT, NVIDIA, Google, IBM, Amazon Web Services"
+    excerpt: "The Deep Learning System Software Market report forecasts promising growth and development for the period 2021-2028. The Deep Learning System Software market research report defines key statistical data presented in an organized format including graphs,"
+    publishedDateTime: 2021-07-04T00:00:00Z
+    webUrl: "https://manometcurrent.com/deep-learning-system-software-market-size-and-growth-to-2028-key-players-microsoft-trint-nvidia-google-ibm-amazon-web-services/"
+    type: article
+    provider:
+      name: manometcurrent.com
+      domain: manometcurrent.com
+    quality: 21
   - title: "Artificial Intelligence Platform Market 2021 Comprehensive Insights – Google, Baidu, IBM, Microsoft, SAP, Intel, Salesforce, Brighterion"
     excerpt: "The global Artificial Intelligence Platform market size is projected to reach US$ 185710 million by 2027, from US$ 16960 million in 2020, at a CAGR of 39.5% during 2021-2027. Top Leading Companies of Global Artificial Intelligence Platform Market are Google,"
     publishedDateTime: 2021-07-01T05:04:00Z

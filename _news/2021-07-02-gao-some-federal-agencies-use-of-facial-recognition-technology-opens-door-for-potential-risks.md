@@ -283,20 +283,6 @@ related:
       name: Governing
       domain: governing.com
     quality: 41
-  - title: "Feds Told to Better Manage Facial Recognition, Amid Privacy Concerns"
-    excerpt: "A GAO report finds government agencies are using the technology regularly in criminal investigations and to identify travelers, but need stricter management to protect people’s privacy and avoid inacc"
-    publishedDateTime: 2021-06-30T12:39:00Z
-    webUrl: "https://threatpost.com/feds-manage-facial-recognition-privacy-concerns/167419/"
-    type: article
-    provider:
-      name: Threat Post
-      domain: threatpost.com
-    quality: 39
-    images:
-      - url: "https://media.threatpost.com/wp-content/uploads/sites/103/2020/08/05143851/deepfake-fireeye.jpg"
-        width: 800
-        height: 533
-        isCached: true
   - title: "13 federal law enforcement agencies haven’t been monitoring facial recognition technology use"
     excerpt: "The report from the U.S. Government Accountability Office (GAO) said 13 of the federal law enforcement agencies surveyed that use facial recognition technology did not have a system in place to track when or how employees were using the system or to assess the privacy risks associated with the use."
     publishedDateTime: 2021-07-02T21:40:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/07/02/biased-ai-is-not-just-bad-for-peo
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/02/biased-ai-is-not-just-bad-for-people-its-harmful-for-businesses-too/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 87
 published: true
 
 provider:
@@ -28,22 +28,6 @@ images:
     width: 1200
     height: 600
     isCached: true
-
-related:
-  - title: "AI is now core to business success"
-    excerpt: "New survey of business leaders and data scientists indicates that AI initiatives are delivering business value but challenges still exist."
-    publishedDateTime: 2021-06-30T11:55:00Z
-    webUrl: "https://www.arnnet.com.au/article/689361/ai-now-core-business-success/"
-    type: article
-    provider:
-      name: ARN
-      domain: arnnet.com.au
-    quality: 39
-    images:
-      - url: "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/800x800/dimg/dreamstime_s_195660649.jpg"
-        width: 800
-        height: 533
-        isCached: true
 
 secured: "RzcCjPW9EvoG5+qY4MFzm8jPZ2MaGaHQBoaxt2ONHFjE+DNp6OKPona0x4RiVGFwWaj9s1ErE/YQv4pNSykYzIeTKPqqmYdgQ2y9Rbfg6SopBkdhsX8zC9VWfUbN0gH7HYKHRH2y/3X5S6GveyVAkrEpQ+DmQX2EL2T4H+ZX0tYc9sC+biCuAhYPbr1cDtZpN6sG8RcnliJqEn2U8unMtS7Frw97QCt0mTDCFSzyrss/28y2s4/Iq0V1h4iI31/emBxx3G2CcCxed3txNugb3CP29L7O+85N2+XBHoocj3rzKGvPY8jVZYMHP3lUfuiSS0+79tJUy8AEmh2ysWggGoKUj3BQsdSKU+A05Qd+4WtXKVpKs9b4aXXYimoPZvSVVwaIDPoluhMZelotj+xpk38Hnfv8vg4oItMSK9JwEhaFTpAexoCM8WWNNedmbbUcKP0klerwbYtSHGzCuzjY4dAH/gVitqox2L1WdcorvDa5R4agHSLUyLt9DY2Ky5FAXWzYtZHt+5ZO4CjJ1Lag5g==;wJBAheN1ooCGGhp2vwam1Q=="
 ---

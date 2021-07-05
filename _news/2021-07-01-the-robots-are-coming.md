@@ -25,19 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "Giving robots better moves"
-    excerpt: "RightHand Robotics, co-founded by MIT alumnus Lael Odhner, combines machine vision with an intelligent gripper design to offer robots that are more adaptable and reliable in warehouse environments."
-    publishedDateTime: 2021-07-01T04:00:00Z
-    webUrl: "https://news.mit.edu/2021/righthand-robotics-0701"
+  - title: "AI-Driven Robots Are Here For Good"
+    excerpt: "AI, algorithms and technological applications are accelerating into new realms. With the proper implementation of ethics, diversity, and inclusive design - humans stand to benefit significantly."
+    publishedDateTime: 2021-07-05T03:19:00Z
+    webUrl: "https://www.forbes.com/sites/anniebrown/2021/07/04/ai-driven-robots-are-here-for-good/"
+    ampWebUrl: "https://www.forbes.com/sites/anniebrown/2021/07/04/ai-driven-robots-are-here-for-good/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/anniebrown/2021/07/04/ai-driven-robots-are-here-for-good/amp/"
     type: article
     provider:
-      name: Massachusetts Institute of Technology
-      domain: mit.edu
-    quality: 69
+      name: Forbes
+      domain: forbes.com
+    quality: 89
     images:
-      - url: "https://news.mit.edu/sites/default/files/images/202106/MIT-Righthand-robotics-01-press.jpg"
-        width: 1500
-        height: 1000
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60e279184db784a0c94473f6%2F0x0.jpg"
+        width: 1200
+        height: 702
         isCached: true
 
 secured: "uxSmCdx88vwyTBr1Ch9LHIWXYrEvJ86YOOpBVHZlArX0EFoJMGrs/7jjMk1Dvs1ccszwdmTNPS+d+LrKe+b+t7sOoZZk/uHJf0fP+hoXcuEqa3mqKUDew6I+zdi2lrGMg9q0I48W5ompCTz6DgGJdioCmh/kIvEAPnR92ZXZHgVQkMme9zrq3CRDFnBP8SYryARpjoazdOs8+EPQ9sOYn03WO4TltCvK2L/t2wpDaI4cHGkTMPhXuS6duXBN86xXyss8R7sFmu4upz4GDRzWO9Eny10QYeNV/z3pqufVD5m5GED98UnLhbc2/WtgApWwtxkdEwJXWxW/uLtO/7ln/3xSzqiLr6x/fWTUzu/QcPM=;gyq955XCvxbKDx3s3J9/Xg=="
