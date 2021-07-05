@@ -10,7 +10,7 @@ affiliation:
 
 googleScholar:
   url: https://scholar.google.com/citations?user=mXSv_1UAAAAJ
-  citations: 180053
+  citations: 180279
 
 wikipedia:
   url: https://en.wikipedia.org/wiki/Leo_Breiman
