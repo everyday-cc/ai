@@ -2,6 +2,58 @@
   "page": 71,
   "value": [
     {
+      "path": "_news/2021-05-15-as-ma-accelerates-deal-makers-are-leveraging-ai-and-ml-to-keep-pace.md",
+      "title": "As M&A accelerates, deal-makers are leveraging AI and ML to keep pace",
+      "excerpt": "Using AI and ML to cut out the labor-intensive parts of M&A both speeds the process and reduces the time-consuming tasks that lead to burnout in the industry.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/05/14/as-ma-accelerates-deal-makers-are-leveraging-ai-and-ml-to-keep-pace/",
+      "originalUrl": "https://techcrunch.com/2021/05/14/as-ma-accelerates-deal-makers-are-leveraging-ai-and-ml-to-keep-pace/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/05/GettyImages-494329461.jpg?w=608",
+          "width": 608,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-14T12:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-05-15-when-ai-meets-bi-5-red-flags-to-watch-for.md",
       "title": "When AI meets BI: 5 red flags to watch for",
       "excerpt": "AI can transform BI into a tool that drives data-driven decision-making, but incorporating AI into existing BI environments is difficult.",
@@ -1142,57 +1194,6 @@
         "AI",
         "AI in Healthcare",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-14-labor-pitches-startup-year-as-key-to-australias-future.md",
-      "title": "Labor pitches 'startup year' as key to Australia's future",
-      "excerpt": "The 'startup year', Opposition Leader Anthony Albanese declared, is a program aimed at driving innovation and increasing links between universities and entrepreneurs.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/labor-pitches-startup-year-as-key-to-australias-future/",
-      "originalUrl": "https://www.zdnet.com/article/labor-pitches-startup-year-as-key-to-australias-future/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/hub/i/2021/05/14/9fba52dc-2a0d-46b5-a568-ff29df43ddce/anthony-albanese.jpg",
-          "width": 5455,
-          "height": 3637,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/labor-pitches-startup-year-as-key-to-australias-future/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/labor-pitches-startup-year-as-key-to-australias-future/",
-      "publishedDateTime": "2021-05-13T17:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

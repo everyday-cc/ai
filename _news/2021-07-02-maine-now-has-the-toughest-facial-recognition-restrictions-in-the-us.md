@@ -9,7 +9,7 @@ ampWebUrl: "https://slate.com/technology/2021/07/maine-facial-recognition-govern
 cdnAmpWebUrl: "https://slate-com.cdn.ampproject.org/c/s/slate.com/technology/2021/07/maine-facial-recognition-government-use-law.amp"
 type: article
 quality: 74
-heat: 154
+heat: 164
 published: true
 
 provider:
@@ -79,21 +79,21 @@ related:
       name: Raleigh News & Observer
       domain: newsobserver.com
     quality: 54
-  - title: "Civil rights group sues for records on use of facial recognition at New York prisons"
-    excerpt: "A civil rights group has filed suit against the New York Corrections Department for not turning over records on how it uses facial recognition technology on visitors at state lockups."
-    publishedDateTime: 2021-07-01T20:38:00Z
-    webUrl: "https://nypost.com/2021/07/01/civil-rights-group-sues-for-records-on-facial-recognition-use-at-ny-prisons/"
-    ampWebUrl: "https://nypost.com/2021/07/01/civil-rights-group-sues-for-records-on-facial-recognition-use-at-ny-prisons/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/07/01/civil-rights-group-sues-for-records-on-facial-recognition-use-at-ny-prisons/amp/"
+  - title: "New test targets super-recognisers, high-performing facial recognition individuals"
+    excerpt: "Psychologists from UNSW Sydney have developed a new face identification ability test that will help find facial recognition experts for a variety of police and government agencies, including contract tracing."
+    publishedDateTime: 2021-07-06T12:20:00Z
+    webUrl: "https://medicalxpress.com/news/2021-07-super-recognisers-high-performing-facial-recognition-individuals.html"
+    ampWebUrl: "https://medicalxpress.com/news/2021-07-super-recognisers-high-performing-facial-recognition-individuals.amp"
+    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-07-super-recognisers-high-performing-facial-recognition-individuals.amp"
     type: article
     provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 52
+      name: Medical Xpress
+      domain: medicalxpress.com
+    quality: 53
     images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/07/prison-facial-recognition-01.jpg?quality=90&strip=all&w=1200"
-        width: 1200
-        height: 800
+      - url: "https://scx2.b-cdn.net/gfx/news/2021/face-off-for-best-id-c.jpg"
+        width: 1000
+        height: 667
         isCached: true
   - title: "Facial Recognition Used to Verify Vaccine Recipients but Privacy Concerns Not Checked: Govt"
     excerpt: "In a recent RTI query, Ministry of Health and Family Welfare (MoHFW) has admitted to the use of facial recognition technology (FRT) for online verification of beneficiaries at vaccination centres."
@@ -110,6 +110,20 @@ related:
       - url: "https://images.news18.com/ibnlive/uploads/2021/07/1625242287_vaccine.jpg"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Facial recognition: Tax pros mull returning to in-person meetings"
+    excerpt: "Absolutely — as people feel more comfortable, we anticipate having more live rather than virtual meetings and events,” said Daniel Morris, a CPA and senior partner with Morris+D’Angelo CPAs in San Jose,"
+    publishedDateTime: 2021-07-06T13:00:00Z
+    webUrl: "https://www.accountingtoday.com/news/facial-recognition-tax-pros-mull-returning-to-in-person-meetings"
+    type: article
+    provider:
+      name: Accounting Today
+      domain: accountingtoday.com
+    quality: 39
+    images:
+      - url: "https://arizent.brightspotcdn.com/b0/a1/9a53ebac4783bb22133d358a52d4/coronavirus-6-feet-sign.jpg"
+        width: 3998
+        height: 2667
         isCached: true
   - title: "13 federal law enforcement agencies haven’t been monitoring facial recognition technology use"
     excerpt: "The report from the U.S. Government Accountability Office (GAO) said 13 of the federal law enforcement agencies surveyed that use facial recognition technology did not have a system in place to track when or how employees were using the system or to assess the privacy risks associated with the use."

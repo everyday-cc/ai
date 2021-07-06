@@ -1,28 +1,26 @@
 ---
 category: news
 title: "Quark.ai Brings Autonomous Customer Support to the Zendesk Marketplace"
-excerpt: "Quark.ai today announced the listing of its Quark.ai Autonomous Customer Support app in the Zendesk Marketplace (hyperlink). The Quark.ai"
-publishedDateTime: 2021-07-06T11:00:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/quarkai-brings-autonomous-customer-support-to-the-zendesk-marketplace-301324880.html"
-webUrl: "https://www.prnewswire.com/news-releases/quarkai-brings-autonomous-customer-support-to-the-zendesk-marketplace-301324880.html"
+excerpt: "Quark.ai today announced the listing of its Quark.ai Autonomous Customer Support app in the Zendesk Marketplace (hyperlink). The Qua"
+publishedDateTime: 2021-07-06T11:14:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/quark-ai-brings-autonomous-customer-support-to-the-zendesk-marketplace-1030581292"
+webUrl: "https://markets.businessinsider.com/news/stocks/quark-ai-brings-autonomous-customer-support-to-the-zendesk-marketplace-1030581292"
 type: article
-quality: 37
-heat: 37
+quality: 47
+heat: 47
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI
 
-images:
-  - url: "https://mma.prnewswire.com/media/1330275/Quark_ai_Logo.jpg?p=facebook"
-    width: 833
-    height: 438
-    isCached: true
-
-secured: "EyyWX3pFagCDYk+UubsRHqN3tAlWuO93OtMpY342nDZeN3G9K2qTQ9T9hK42ySxSvQ91ElkxzAYcLXTYx4PIWFZ82APU+Kyzi0oj76DWU7VUyRWr5CgE6jhXdfwLo+0a/RNS/0OvQGovPzUKzTkT3FBPmRAvNriDGtg2kDJddi32/syiV7rxkPrjzxMc9PACLcd5K1iJ8MhpUs5XsKHDveVc1DzILw1rj+aPeS51LdwFrrJBabt9NPNoNbExIG6YxZPn0hHr1ZBtqOIb+BK7JRpNpDfxtVoFIX2fSLtmspYXf5Ncpaa+PC+hOMVZg15FXSGMjKzgzrU9B2n9MbIPeEuQVQkQSZNfSo1s8d13avA=;GyD6PiWw3k5SRyy7vvy9/w=="
+secured: "6JCOEAAImLw6cMUqxx6J1XyTAeaCfiCVdRflF/Q/QtPrQAxW0qs83BI9u5yNVqTzDZllWJZFk3ndKx9814e7JzO3ij7F6nhDm58YfcPaG/V4mtGPxd6s2Pev6esGRCHGwmep+k0auTNuW68MiqjXmeJarySBF24NUBwsYcLxg1Qtm4v3C3bQWlAAwjFgxO6rdK6cWUcEdikzHva2nPfClKZVpJWo2nscOIL0n2lg5W1+a1XSd4BN1Kv1IY2I5H0mTq7fSb/SgC1ISyCQ0EcXLkKvLxLD19ZhLRuTDLe3/HzshtuXbxbLBaBSUdIZwPMiiysmdTPyNzgxTALeySw6NLLt5KoDw6T3DFhgCQJ5g8c=;IQta8S7g2N3oWXv+xBWKMQ=="
 ---
 

@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/speech-recognition-softw
 webUrl: "https://www.marketwatch.com/press-release/speech-recognition-software-market-next-big-thing-major-giants-google-microsoft-baidu-2021-07-03"
 type: article
 quality: 92
-heat: 202
+heat: 192
 published: true
 
 provider:
@@ -137,20 +137,6 @@ related:
       name: manometcurrent.com
       domain: manometcurrent.com
     quality: 21
-  - title: "Mobile Speech Recognition Software Market To Demonstrate Spectacular Growth By 2026 | Alphabet, VoiceVault, VoiceBox Technologies"
-    excerpt: "The latest independent research document on Global Mobile Speech Recognition Software examine investment in Market. It describes how companies deploying these technologies across various industry verticals aim to explore its potential to become a major ..."
-    publishedDateTime: 2021-07-01T19:31:00Z
-    webUrl: "https://ksusentinel.com/2021/07/01/mobile-speech-recognition-software-market-to-demonstrate-spectacular-growth-by-2026-alphabet-voicevault-voicebox-technologies/"
-    type: article
-    provider:
-      name: The Sentinel
-      domain: ksusentinel.com
-    quality: 10
-    images:
-      - url: "https://ksusentinel.com/wp-content/uploads/2021/07/Mobile-Speech-Recognition-Software-Market.jpeg"
-        width: 604
-        height: 404
-        isCached: true
 
 secured: "RbqrIoOoqT6BQrP0uOq5zxscwZbHq5O538BC2fdyDj5dZPZOQDL4Dl2cO932Bj+IW65Fxo9k1gRJuUwyKcAnnl7+FrmFblV0h+4zTLxETLOJTj+1On3aI40Yn+9EYSNhdaq40MItmpoNQgJllfJJXcmuyDLgr4Ju1tLqmeotQpDwcvJ3axro0RGsUAqxtXjOC0czxvx2yRV+h4l6E3ZY5H7+Twy7SIbVY37XcEvQ51MrGpahuXEX6z0Dx9fCs+e4PUWAtJkQPw7Xfv+pvoGysk0BzaSOQCz7bnRCdUVZRJoQWaXPTq/ax5okdkolchd+69n6ZReU02h3v7VxPgDIaya8pRy+RPQmn/qBMr7cVCM=;vwAXH3Dt/Bd6928/zu6F5A=="
 ---

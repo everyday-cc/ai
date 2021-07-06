@@ -2,6 +2,58 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2021-06-23-internal-whistleblowers-might-just-blow-the-lid-off-some-quite-dicey-ai-self-driving-cars.md",
+      "title": "Internal Whistleblowers Might Just Blow The Lid Off Some Quite Dicey AI Self-Driving Cars",
+      "excerpt": "You can expect that there will be whistleblowers about self-driving cars, something that might seem surprising and altogether unexpected, but it is going to happen nonetheless. Here's why.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/lanceeliot/2021/06/23/internal-whistleblowers-might-just-blow-the-lid-off-some-quite-dicey-ai-self-driving-cars/",
+      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2021/06/23/internal-whistleblowers-might-just-blow-the-lid-off-some-quite-dicey-ai-self-driving-cars/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 90,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60cd37770b24e71b5d37d80b%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2021/06/23/internal-whistleblowers-might-just-blow-the-lid-off-some-quite-dicey-ai-self-driving-cars/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/06/23/internal-whistleblowers-might-just-blow-the-lid-off-some-quite-dicey-ai-self-driving-cars/amp/",
+      "publishedDateTime": "2021-06-23T08:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-23-imaginary-and-wiselywise-partner-for-artificial-intelligence-training.md",
       "title": "IMAGINARY and WiselyWise partner for Artificial Intelligence Training",
       "excerpt": "Artificial Intelligence is impacting society in multiple ways and requires new Skills to manage the impact IMAGINARY an award winning non profit from Germany and WiselyWise a leading Global EdTech from Singapore today announced their partnership",
@@ -1060,57 +1112,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-23-how-ai-powers-mobile-innovation.md",
-      "title": "How AI Powers Mobile Innovation",
-      "excerpt": "From crowd-pleasing video and audio advancements to behind-the-scenes performance optimization, the Qualcomm Technologies Snapdragon 888 5G Mobile Platform uses AI to take your mobile experience to the next level.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/paid-content/news/how-ai-powers-mobile-innovation/",
-      "originalUrl": "https://www.cnet.com/paid-content/news/how-ai-powers-mobile-innovation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cnet.com/a/img/DEHJTahSCCI4A99U65DD-du_WFc=/1200x630/2021/06/21/2f2731b7-f02c-41eb-bbe8-ed331e0feee4/qualcomm-dog-leash-1300736183.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-22T14:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

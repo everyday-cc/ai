@@ -66,6 +66,17 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "COVID-19 Impact and Analysis|Artificial Intelligence Market In The Industrial Sector| Technavio"
+    excerpt: "Technavio has been monitoring the artificial intelligence market in the industrial sector, operating under the industrials segment."
+    publishedDateTime: 2021-07-06T02:50:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/21/07/n21849463/covid-19-impact-and-analysis-artificial-intelligence-market-in-the-industrial-sector-technavio"
+    ampWebUrl: "https://www.benzinga.com/amp/content/21849463"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/21849463"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 25
 
 secured: "DCh14w67OywVQbAeukNSpX0UbZ5Q/ibW6zsRH/TaL0k9kUeO6yvmO8d6ZEs/W8MKawvRHcFBuAY+p4pOhLDKoqvksR5ccSZZa1EBTPM1rR18CSqlWgD4M8fN+NYoQ71AtKnj6iLsANFHmRLK87xJlITTvY2n0bxjg4UKQJA/2Wm6ByU6JwcdauV2g01Iq5FoJIExHWrsYbCqX+rzIZ0maF2XAywai6Mf5zsVRZK6gAPRz744W3gSIt7vy56SxFuxLH+ngLDSG6ZwwH9TUtLK8WgQT+9GurOux/TOv7t69AGX6CT6igfk6jLt/n3wqOVr4uTbiQ+33BvICvVvyO5f4Uhg8Ppa25N3AoLkPqDYCgg=;kH8IZAJhK29nKDJr3CIAxg=="
 ---

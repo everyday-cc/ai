@@ -54,6 +54,20 @@ related:
         width: 612
         height: 355
         isCached: true
+  - title: "World-leading paediatric hospital to use data analytics and real-time predictive AI to prevent avoidable deaths in children"
+    excerpt: "Top clinician at a leading ﻿UK children’s hospital believes the ﻿future of healthcare involves wireless monitoring ﻿and smart alarms﻿, both in hospital"
+    publishedDateTime: 2021-07-06T13:41:00Z
+    webUrl: "https://www.mynewsdesk.com/uk/isansys-lifecare-ltd/news/world-leading-paediatric-hospital-to-use-data-analytics-and-real-time-predictive-ai-to-prevent-avoidable-deaths-in-children-430788"
+    type: article
+    provider:
+      name: mynewsdesk.com
+      domain: mynewsdesk.com
+    quality: 11
+    images:
+      - url: "https://resources.mynewsdesk.com/image/upload/c_fill,h_628,q_auto:good,w_1200/helq0hhhnjtuvez8ynsg.jpg"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Global Predictive Analytics And Machine Learning Market Size, Status and Forecast 2021-2027"
     excerpt: "Pages Report] Check for Discount on Global Predictive Analytics And Machine Learning Market Size, Status and Forecast 2021-2027 report by QYResearch Group. Market Analysis and Insights: Global Predictive Analytics And Machine"
     publishedDateTime: 2021-07-02T08:04:00Z

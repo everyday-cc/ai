@@ -2,6 +2,49 @@
   "page": 53,
   "value": [
     {
+      "path": "_news/2021-05-26-driverless-cars-hitting-streets-of-fremont-milpitas-irvine.md",
+      "title": "Driverless cars hitting streets of Fremont, Milpitas, Irvine",
+      "excerpt": "The company, which was founded in Fremont in 2016 by James Peng and Tiancheng Lou, both formerly of Baidu and Google, has been testing cars equipped with its self-driving technology suite since 2017.",
+      "sourceUrl": null,
+      "webUrl": "https://www.mercurynews.com/2021/05/24/driverless-cars-hitting-streets-of-fremont-milpitas-irvine/",
+      "originalUrl": "https://www.mercurynews.com/2021/05/24/driverless-cars-hitting-streets-of-fremont-milpitas-irvine/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.mercurynews.com/wp-content/uploads/2021/05/SJM-L-FREMONTCAR-0525-2.jpeg?w=680&h=452",
+          "width": 680,
+          "height": 452,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.mercurynews.com/2021/05/24/driverless-cars-hitting-streets-of-fremont-milpitas-irvine/amp/",
+      "cdnAmpWebUrl": "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2021/05/24/driverless-cars-hitting-streets-of-fremont-milpitas-irvine/amp/",
+      "publishedDateTime": "2021-05-26T07:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mercury News",
+        "domain": "mercurynews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-26-tesla-model-3-model-y-ditch-radar-to-adopt-camera-based-tesla-vision-for-autopilot.md",
       "title": "Tesla Model 3, Model Y Ditch Radar To Adopt Camera-Based 'Tesla Vision' For Autopilot",
       "excerpt": "Up until this point, Tesla vehicles have used a combination of front-facing radar, ultrasonic sensors, and computer vision systems to enable its Autopilot self-driving system. However, the company announced this week that it is making a significant change in how the system works on its entry-level Model 3 and Model Y electric vehicles.",
@@ -1020,57 +1063,6 @@
         "name": "The Sentinel",
         "domain": "ksusentinel.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-26-rezoai-raises-seed-funding-led-by-modulor-capital.md",
-      "title": "Rezo.ai Raises Seed Funding Led By Modulor Capital",
-      "excerpt": "Conversational AI startup Rezo.ai on Wednesday informed to have raised an undisclosed amount in Seed funding led by Modulor Capital, Dexter Angel Network, Veda, and prominent angels including Bhavesh Manglani (co-founder,",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/article/372901",
-      "originalUrl": "https://www.entrepreneur.com/article/372901",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/1622016398-ManishRashiGuptaCo-foundersRezoai1.jpg?width=600&crop=16:9",
-          "width": 600,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.entrepreneur.com/amphtml/372901",
-      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/372901",
-      "publishedDateTime": "2021-05-26T01:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

@@ -2,6 +2,59 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-07-04-the-lessons-we-learn-from-self-driving-will-drive-our-robotics-future.md",
+      "title": "The lessons we learn from self-driving will drive our robotics future",
+      "excerpt": "Robotics is entering an exponential growth phase. There are increasingly new and diverse applications for robots, both the inspiring and the mundane. Just within the context of the COVID-19 pandemic response,",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/07/04/the-lessons-we-learn-from-self-driving-will-drive-our-robotics-future/",
+      "originalUrl": "https://venturebeat.com/2021/07/04/the-lessons-we-learn-from-self-driving-will-drive-our-robotics-future/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/07/GettyImages-1231721374.jpg?w=1200&strip=all",
+          "width": 1024,
+          "height": 706,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/07/04/the-lessons-we-learn-from-self-driving-will-drive-our-robotics-future/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/04/the-lessons-we-learn-from-self-driving-will-drive-our-robotics-future/amp/",
+      "publishedDateTime": "2021-07-04T06:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2021-07-04-the-future-of-the-ai-based-enterprise.md",
       "title": "The future of the AI-based enterprise",
       "excerpt": "Imagine an enterprise like a living organism that will naturally adapt based on the environment. Its products and services, will grow, shrink, defend, and heal themselves as needed. This is the future of the AI -based enterprise.",
@@ -105,7 +158,7 @@
       "originalUrl": "https://www.newindianexpress.com/magazine/2021/jul/04/ai-powered-therapy-bots-at-workplace-for-employees-during-covid-pandemic-2324136.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 73,
+      "heat": 83,
       "tags": null,
       "images": [
         {
@@ -193,49 +246,6 @@
       ]
     },
     {
-      "path": "_news/2021-07-03-blending-computing-with-ai-machine-learning-for-low-risk-high-returns.md",
-      "title": "Blending Computing with AI & Machine Learning for Low Risk High Returns",
-      "excerpt": "Liquidity in real estate may not be immediate, interest in fixed deposits is low in comparison to equities’ returns in the long term.",
-      "sourceUrl": null,
-      "webUrl": "https://www.outlookindia.com/outlookmoney/finance/blending-computing-with-ai-machine-learning-for-low-risk-high-returns-7932",
-      "originalUrl": "https://www.outlookindia.com/outlookmoney/finance/blending-computing-with-ai-machine-learning-for-low-risk-high-returns-7932",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.outlookindia.com/outlookmoney/public/uploads/article/gallery/6d5a7c95791a791b2691fc65cddd0c1f.jpg",
-          "width": 1000,
-          "height": 708,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.outlookindia.com/outlookmoney/amp/finance/blending-computing-with-ai-machine-learning-for-low-risk-high-returns-7932",
-      "cdnAmpWebUrl": "https://www-outlookindia-com.cdn.ampproject.org/c/s/www.outlookindia.com/outlookmoney/amp/finance/blending-computing-with-ai-machine-learning-for-low-risk-high-returns-7932",
-      "publishedDateTime": "2021-07-03T09:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Outlookindia",
-        "domain": "outlookindia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-07-03-lidar-is-the-gold-standard-of-robot-vacuum-navigation-but-its-not-perfect.md",
       "title": "Lidar is the gold standard of robot vacuum navigation, but it’s not perfect",
       "excerpt": "Today's robot vacuums offer intelligent navigation courtesy of lidar tech. But despite being the gold standard of robot vacuum navigation, it's not perfect.",
@@ -296,7 +306,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/speech-recognition-software-market-next-big-thing-major-giants-google-microsoft-baidu-2021-07-03",
       "featuredContent": null,
       "highlight": null,
-      "heat": 202,
+      "heat": 192,
       "tags": null,
       "images": [
         {
@@ -505,7 +515,7 @@
       "originalUrl": "https://thenextweb.com/news/4-ways-ai-unlocking-astronomy-mysteries-universe-syndication",
       "featuredContent": null,
       "highlight": null,
-      "heat": 138,
+      "heat": 128,
       "tags": null,
       "images": [
         {

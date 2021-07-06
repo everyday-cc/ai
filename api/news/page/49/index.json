@@ -2,6 +2,58 @@
   "page": 49,
   "value": [
     {
+      "path": "_news/2021-05-28-relativity-acquires-text-iq-to-augment-ai-platform-for-lawyers.md",
+      "title": "Relativity acquires Text IQ to augment AI platform for lawyers",
+      "excerpt": "Relativity acquires Text IQ to drive AI technologies deeper into a platform law firms employ to reduce discovery time and effort.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/05/28/relativity-acquires-text-iq-to-augment-ai-platform-for-lawyers/",
+      "originalUrl": "https://venturebeat.com/2021/05/28/relativity-acquires-text-iq-to-augment-ai-platform-for-lawyers/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/05/relativity-textiq-ancmnt_1500x750.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/05/28/relativity-acquires-text-iq-to-augment-ai-platform-for-lawyers/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/28/relativity-acquires-text-iq-to-augment-ai-platform-for-lawyers/amp/",
+      "publishedDateTime": "2021-05-28T06:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-28-how-to-master-googles-ai-phone-call-features.md",
       "title": "How to Master Google's AI Phone Call Features",
       "excerpt": "Your Android phone can do a lot of fancy tricks, from making reservations with Duplex or screening calls. Here's how to get the most out of them.",
@@ -1137,50 +1189,6 @@
       "topics": [
         "Computer Vision",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-28-tests-of-clearview-ai-facial-recognition-software-raises-concerns-in-minnesota.md",
-      "title": "Tests of Clearview AI facial recognition software raises concerns in Minnesota",
-      "excerpt": "At least 42 law enforcement agencies in Minnesota, including the Renville County Sheriff's Office, reportedly used Clearview AI facial recognition software, according to a Buzzfeed investigation. Clearview AI is a web-based platform that allows users to submit pictures for possible matches in a database of more than 3 billion images pulled from open source websites,",
-      "sourceUrl": null,
-      "webUrl": "https://www.securityinfowatch.com/access-identity/biometrics/facial-recognition-solutions/news/21224667/tests-of-clearview-ai-facial-recognition-software-raises-concerns-in-minnesota",
-      "originalUrl": "https://www.securityinfowatch.com/access-identity/biometrics/facial-recognition-solutions/news/21224667/tests-of-clearview-ai-facial-recognition-software-raises-concerns-in-minnesota",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.securityinfowatch.com/files/base/cygnus/siw/image/2021/05/bigstock_Face_Recognition_Technology_Co_354149738.60b0007191e5b.png?auto=format&fit=max&w=1200",
-          "width": 1200,
-          "height": 643,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-27T13:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Security",
-        "domain": "securityinfowatch.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "Facebook AI"
       ]
     }
   ],

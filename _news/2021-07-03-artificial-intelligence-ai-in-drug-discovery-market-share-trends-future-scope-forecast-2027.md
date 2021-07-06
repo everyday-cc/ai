@@ -32,20 +32,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Deep Learning Chipset Market Key Players Overview, Supply Chain and Analysis to 2026"
-    excerpt: "Selbyville, Delaware, Market Study Report, LLC, has recently added a report on ‘ Deep Learning Chipset market’"
-    publishedDateTime: 2021-07-01T19:54:00Z
-    webUrl: "https://www.marketwatch.com/press-release/deep-learning-chipset-market-key-players-overview-supply-chain-and-analysis-to-2026-2021-07-01"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 77
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Artificial Intelligence (Ai) In Medical Diagnostics Market Outlook, Industry Analysis and Prospect 2021-2027"
     excerpt: "In Medical Diagnostics market size was valued at US$ 608 million in 2020 and is projected to reach US$ 4,978 million by 2027, rising at a market growth (CAGR) of 52.4% during the forecast period. The Growth in this Artificial Intelligence in medical diagnostics market is primarily driven by government initiatives to increase the adoption of AI-based technologies,"
     publishedDateTime: 2021-07-05T21:50:00Z

@@ -1,26 +1,26 @@
 ---
 category: news
 title: "New cross-border collaboration to boost innovation in Artificial Intelligence and Information Technology"
-excerpt: "The ADAPT Centre at DCU and BT Ireland Innovation Centre at Ulster University sign a new partnership agreement that aims to support research mobility and innovation"
-publishedDateTime: 2021-07-06T08:15:00Z
-originalUrl: "https://www.dcu.ie/commsteam/news/2021/jul/new-cross-border-collaboration-boost-innovation-artificial-intelligence-and"
-webUrl: "https://www.dcu.ie/commsteam/news/2021/jul/new-cross-border-collaboration-boost-innovation-artificial-intelligence-and"
+excerpt: "The BT Ireland Innovation Centre at Ulster University and ADAPT Centre at DCU sign a new partnership agreement that aims to support research mobility and innovation The ADAPT Centre at Dublin City University (DCU) and the BT Ireland Innovation Centre (BTIIC) at Ulster University have recently signed a Memorandum of Understanding (MoU) to foster future research and development collaboration in the broad areas of."
+publishedDateTime: 2021-07-06T12:02:00Z
+originalUrl: "https://www.ulster.ac.uk/news/2021/july/new-cross-border-collaboration-to-boost-innovation-in-artificial-intelligence-and-information-technology"
+webUrl: "https://www.ulster.ac.uk/news/2021/july/new-cross-border-collaboration-to-boost-innovation-in-artificial-intelligence-and-information-technology"
 type: article
 quality: 20
 heat: -1
 published: false
 
 provider:
-  name: DCU
-  domain: www.dcu.ie
+  name: Ulster University
+  domain: ulster.ac.uk
 
 topics:
   - AI
 
 images:
-  - url: "https://www.dcu.ie/themes/custom/dcuorange/themeAssets/DCU_logo_stacked_red-Adjusted120w.png"
-    width: 750
-    height: 819
+  - url: "https://www.ulster.ac.uk/__data/assets/image/0007/907099/pexels-markus-spiske-1089438.jpg"
+    width: 850
+    height: 567
     isCached: true
 
 related:
@@ -56,7 +56,35 @@ related:
         width: 2880
         height: 2035
         isCached: true
+  - title: "Motion Stimulation Therapy Market Share, Region Wise Analysis of Top Players, Applications And Forecast 2028"
+    excerpt: "The Global Motion Stimulation Therapy market study provides critical information related to the global, regional"
+    publishedDateTime: 2021-07-06T10:47:00Z
+    webUrl: "https://www.marketwatch.com/press-release/motion-stimulation-therapy-market-share-region-wise-analysis-of-top-players-applications-and-forecast-2028-2021-07-06"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 50
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Emotion Detection and Recognition Market Size to accrue $ 64.7 billion by 2027"
+    excerpt: "Market Study Report LLC has added a new report on Emotion Detection and Recognition market that provides a comprehensive review of this industry with respect to the driving forces influencing the market size."
+    publishedDateTime: 2021-07-06T10:57:00Z
+    webUrl: "https://www.arnnet.com.au/mediareleases/143595/emotion-detection-and-recognition-market-size-to/"
+    type: article
+    provider:
+      name: ARN
+      domain: arnnet.com.au
+    quality: 20
+    images:
+      - url: "https://www.arnnet.com.au/dimg/300x300/dimg/win20_edu_remotelearning_026.jpg"
+        width: 300
+        height: 225
+        isCached: true
 
-secured: "OLYEmutfGvpe01m0/ZDYR8b69vg6ypgDuwTnXeiZTvdeU3bLQRmGlUrP7WwJBEZ3AcrkMSKgCLAnq8FgIQQYg4k13mbu+vS5fA0AbD4B/G3TmULDa5LXZ1HCddFLXV/a7clByTilbDuwQrv9AkyWhAjL8jd1xZAlwq/fs6LRnH8G7CaSSCCt+lrWe6yh+bgsyvQU5mU9F7R79YVxUAWnohxwf+hRHGtw3SBVpfdKRAri8FWAl2RTFVfURisInX45N3NRxPPP2iz4B81Bzureaip+pzMZetz1y7qjuLzUqwSszaG2xK+q7BFn6ZLsuwEGsZPNNgSC2r5yq+XtyJ4b3dAlf+2jhEukxtm2bvQ7aHA=;LgWTFOGGBlwPtl4R+tzkQQ=="
+secured: "d1TzhFCYajJdcWpGZVJD30fIG+ET9zcqN1T9LIXL/dtyXblWZj3Lt1Wgevsa7q8KvTvaQDQGhdABdF0TLMXXeQZE3eQwBIJRT1rduS3cTT9q+olnazmMwtCV5N1pOVAlNsYJ4z5ZSxCUcGWazxyujg76tVI6NyXzvK5MrwRHLZ6lTrOFnWrwY8CsQLdFR2q4Uyteb5Kt+HT2YOenSB2StHzEaEdG3QoOe3Qu5wOFOE8LDsQ5oAG2L/G4Q89o8DBYynLS10WjJcyzBSA3tR7FuKDXD/UzEeHLtCMFP6S0Q4GX25Rm/V3uU5ke2OZ2w52W0zPnmto1BRFSqowkzZwj+Yl4PdOXmNN4+wjD6tg2iQI=;dixdToY+VAPIgx10VDThPQ=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newindianexpress.com/magazine/2021/jul/04/ai-powered-the
 cdnAmpWebUrl: "https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/magazine/2021/jul/04/ai-powered-therapy-bots-at-workplace-for-employees-during-covid-pandemic-2324136.amp"
 type: article
 quality: 73
-heat: 73
+heat: 83
 published: true
 
 provider:
@@ -25,6 +25,24 @@ images:
     width: 600
     height: 390
     isCached: true
+
+related:
+  - title: "COVID: Artificial intelligence in the pandemic"
+    excerpt: "We tend to talk about artificial intelligence as if it were a thing of the future, but AI is already all around us. The COVID-19 pandemic is a perfect example of that."
+    publishedDateTime: 2021-07-06T12:59:00Z
+    webUrl: "https://www.dw.com/en/covid-artificial-intelligence-in-the-pandemic/a-58171146"
+    ampWebUrl: "https://amp.dw.com/en/covid-artificial-intelligence-in-the-pandemic/a-58171146"
+    cdnAmpWebUrl: "https://amp-dw-com.cdn.ampproject.org/c/s/amp.dw.com/en/covid-artificial-intelligence-in-the-pandemic/a-58171146"
+    type: article
+    provider:
+      name: Deutsche Welle
+      domain: dw.com
+    quality: 57
+    images:
+      - url: "https://static.dw.com/image/57987220_101.jpg"
+        width: 1024
+        height: 576
+        isCached: true
 
 secured: "UbtQGd30JdWoRakfdUXuU0dc8w/N9Sdy3LgnEIj93MIMOv63dTQFZX+0+0HPkKTDK8ORFCVv620z4CyjzvGDncDT57ZPj6Z2NDMu4H/1WPjRIPrTf4QumlWGInKegNu6f3VPyUCsbGnT947QN4DlTg8XEWf9oMhnuittwWucfZfwMsCAqngH+803fl8edRuL9uIasxxTtD1QtBh4lMfBeUkCHOJRm5Dz3BFls5Gc8D0X8YabXQy6o873OwbrYVFXgYjjvDnUL61EoXLii/2atHlrwSGM9LjipRrRR3KUIVIt+wTEtj0UmqUHcNOgG4KgWfiVdnCafKBLWrfV+BDXvmxH3u5qBBorNimCq0nU9zw=;oaeeKQVcr36ryzNr7MmSPA=="
 ---

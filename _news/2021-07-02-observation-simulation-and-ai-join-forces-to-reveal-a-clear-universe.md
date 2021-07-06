@@ -42,19 +42,47 @@ related:
         width: 1200
         height: 774
         isCached: true
-  - title: "New cross-border collaboration to boost innovation in Artificial Intelligence and Information Technology"
-    excerpt: "The ADAPT Centre at DCU and BT Ireland Innovation Centre at Ulster University sign a new partnership agreement that aims to support research mobility and innovation"
-    publishedDateTime: 2021-07-06T08:15:00Z
-    webUrl: "https://www.dcu.ie/commsteam/news/2021/jul/new-cross-border-collaboration-boost-innovation-artificial-intelligence-and"
+  - title: "Motion Stimulation Therapy Market Share, Region Wise Analysis of Top Players, Applications And Forecast 2028"
+    excerpt: "The Global Motion Stimulation Therapy market study provides critical information related to the global, regional"
+    publishedDateTime: 2021-07-06T10:47:00Z
+    webUrl: "https://www.marketwatch.com/press-release/motion-stimulation-therapy-market-share-region-wise-analysis-of-top-players-applications-and-forecast-2028-2021-07-06"
     type: article
     provider:
-      name: DCU
-      domain: www.dcu.ie
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 50
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Emotion Detection and Recognition Market Size to accrue $ 64.7 billion by 2027"
+    excerpt: "Market Study Report LLC has added a new report on Emotion Detection and Recognition market that provides a comprehensive review of this industry with respect to the driving forces influencing the market size."
+    publishedDateTime: 2021-07-06T10:57:00Z
+    webUrl: "https://www.arnnet.com.au/mediareleases/143595/emotion-detection-and-recognition-market-size-to/"
+    type: article
+    provider:
+      name: ARN
+      domain: arnnet.com.au
     quality: 20
     images:
-      - url: "https://www.dcu.ie/themes/custom/dcuorange/themeAssets/DCU_logo_stacked_red-Adjusted120w.png"
-        width: 750
-        height: 819
+      - url: "https://www.arnnet.com.au/dimg/300x300/dimg/win20_edu_remotelearning_026.jpg"
+        width: 300
+        height: 225
+        isCached: true
+  - title: "New cross-border collaboration to boost innovation in Artificial Intelligence and Information Technology"
+    excerpt: "The BT Ireland Innovation Centre at Ulster University and ADAPT Centre at DCU sign a new partnership agreement that aims to support research mobility and innovation The ADAPT Centre at Dublin City University (DCU) and the BT Ireland Innovation Centre (BTIIC) at Ulster University have recently signed a Memorandum of Understanding (MoU) to foster future research and development collaboration in the broad areas of."
+    publishedDateTime: 2021-07-06T12:02:00Z
+    webUrl: "https://www.ulster.ac.uk/news/2021/july/new-cross-border-collaboration-to-boost-innovation-in-artificial-intelligence-and-information-technology"
+    type: article
+    provider:
+      name: Ulster University
+      domain: ulster.ac.uk
+    quality: 20
+    images:
+      - url: "https://www.ulster.ac.uk/__data/assets/image/0007/907099/pexels-markus-spiske-1089438.jpg"
+        width: 850
+        height: 567
         isCached: true
 
 secured: "ECgC/OTg5Q0BUlcsYsum8ysqhGrLnJAqntghnuoRaoM5nMPKlCCvFT9HiosnmQ7d6qYUqUuENLw0/bNVHi6CorfvuNoqjpIj8qlHCmfe575oR+N0ExnfIIVsxGOVulRCodkoVzNvrlemYgtX8d7/335JSfWwa5Pk2OApXqWXEUOZfR8hhDcrd/729ZbL5EuZujNGqR62EcafxNHjPNOh1bMkoe4HALMSO9nn9yulSTIi1XFih9UoL7E4N0Hxm4gtJjyPS7wBRz4sSws2B7XE8QivEv05Y752E7A32pk5DOdLF8/8TJkWtXXxLC75kWUvFbpk9PjuUkVw85Sgh2p5pDrTwkWTrxV6SFUUz4jl3bstD46yK5ASHVMehe8Adc1Oqa5m5q+6SkkCQq2zlFXD29RLSpXdjpOVds+6JQGLGcbeEhM/8vJgnXxNlE2UTRJioMutbhyusEkzyCYZ5gs9fkGByhwDM7FeVxsrTo2XwWhSecVI6ov0coc8Fwfc5/wc6m90i9EjF3TYGd2j+KQadA==;9pt2G72zQak33Lm60Ao7uQ=="

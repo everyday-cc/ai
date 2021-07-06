@@ -3,10 +3,10 @@ category: news
 title: "Graphcore brings new competition to Nvidia in latest MLPerf AI benchmarks"
 excerpt: "Graphcore’s score in BERT natural language training was the best score of any of the two-socket AMD systems submitted."
 publishedDateTime: 2021-06-30T10:00:00Z
-originalUrl: "https://www.zdnet.com/article/graphcore-brings-new-competition-to-nvidia-in-latest-mlperf-ai-benchmarks/"
-webUrl: "https://www.zdnet.com/article/graphcore-brings-new-competition-to-nvidia-in-latest-mlperf-ai-benchmarks/"
-ampWebUrl: "https://www.zdnet.com/google-amp/article/graphcore-brings-new-competition-to-nvidia-in-latest-mlperf-ai-benchmarks/"
-cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/graphcore-brings-new-competition-to-nvidia-in-latest-mlperf-ai-benchmarks/"
+originalUrl: "https://www.zdnet.com/index.php/article/graphcore-brings-new-competition-to-nvidia-in-latest-mlperf-ai-benchmarks/"
+webUrl: "https://www.zdnet.com/index.php/article/graphcore-brings-new-competition-to-nvidia-in-latest-mlperf-ai-benchmarks/"
+ampWebUrl: "https://www.zdnet.com/index.php/google-amp/article/graphcore-brings-new-competition-to-nvidia-in-latest-mlperf-ai-benchmarks/"
+cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/google-amp/article/graphcore-brings-new-competition-to-nvidia-in-latest-mlperf-ai-benchmarks/"
 type: article
 
 provider:
@@ -27,6 +27,6 @@ images:
     height: 1069
     isCached: true
 
-secured: "yiHxRbwSvL0tw8xwrQ5Ygv5zCItyDCY9A6EC0VQ23XNBWXi/iLDQK8fsL9pKebG7ZAQD2DMAsyGP0eyz7jGqiSemcitJGoEwVZ8eIh6Zzj755OBRc3/tE+FmRRoy/iSxbyr6fV3PK1rLl3BXZ5m885c0pQsD8VIou/G+xkJ3jygf14NDx2EeTcga35OUzs1ddUEmdKKfB9phCY2IpP7uVDXllKIFoMEQAjqVip8aphZmxiWbzGGfusrkR3FnINKtm2ILwO9zomNw/ubRWy41zKg7um36cWzQCjtUc/nkH3Ls7sYR9vZOHQKkdbRNAHui/5zpcYKMt8OqxZ7QMNZClp//OcBmhRzcvoLFcKFdVjw=;jSqh3F+cbylx7h3dPj1xKA=="
+secured: "TpByem74ZgiFAOyepVLm2n9SOip9lwzFvGPQWGU7LBT91aGTGeNalJCp7d3exL9g0JxlJLwcnWnIRgU0JCVkJvuP9veSzmPoPj6TfNv1Uv/e/fugno4ONO4o5mQbeUc3icfh3JonS0kJChiyzMiAp4k1p53qbQuUDPHackkTZ8UIdOPaxekCJBOXudUZuPHah1BBChXxHQXds9B6owbZ2GodTt7/UJ6vVODUA+2eV5I5/55dEsbgFPQN0nZAD6KrUMSECQztD4yL1Kr8hvxGIs8hjhBo4NC1TCzSJmVWfQOn0c5/gJi9jj3M18Pl+Monk4W6EekwgtcaXaPYJklN5Z8HsniaYPQ+IipJ5FdLnOM=;rHN07RzfXQrZYdzQ8C46ZA=="
 ---
 

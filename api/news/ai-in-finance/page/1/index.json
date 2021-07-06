@@ -801,6 +801,41 @@
       ]
     },
     {
+      "path": "_news/2021-06-22-state-street-leverages-machine-learning-to-streamline-private-markets-processing-and-document-management-through-partnership-with-canoe-intelligence.md",
+      "title": "State Street Leverages Machine Learning to Streamline Private Markets Processing and Document Management Through Partnership with Canoe Intelligence",
+      "excerpt": "State Street Corporation today announced it will implement a cloud-based, machine learning technology to transform private markets processing and docu",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesswire.com/news/home/20210622005654/en/State-Street-Leverages-Machine-Learning-to-Streamline-Private-Markets-Processing-and-Document-Management-Through-Partnership-with-Canoe-Intelligence",
+      "originalUrl": "https://www.businesswire.com/news/home/20210622005654/en/State-Street-Leverages-Machine-Learning-to-Streamline-Private-Markets-Processing-and-Document-Management-Through-Partnership-with-Canoe-Intelligence",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-22T09:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-06-22-turkish-bank-isbank-selects-driverless-ai-platform-from-h2oai-for-income-prediction-cash-forecasting-check-default-prediction-applications.md",
       "title": "Turkish Bank, İşbank, Selects Driverless AI Platform from H2O.ai for Income Prediction, Cash Forecasting & Check Default Prediction Applications",
       "excerpt": "H2O.ai, a leading AI technology software company, has announced that İşbank, officially Türkiye İş Bankası, the largest private bank in Turkey, has se",
@@ -865,41 +900,6 @@
       "provider": {
         "name": "SiliconRepublic",
         "domain": "siliconrepublic.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-06-22-state-street-leverages-machine-learning-to-streamline-private-markets-processing-and-document-management-through-partnership-with-canoe-intelligence.md",
-      "title": "State Street Leverages Machine Learning to Streamline Private Markets Processing and Document Management Through Partnership with Canoe Intelligence",
-      "excerpt": "State Street Corporation today announced it will implement a cloud-based, machine learning technology to transform private markets processing and document management. Through State Street’s partnership with Canoe Intelligence (“Canoe”),",
-      "sourceUrl": null,
-      "webUrl": "https://www.financialbuzz.com/state-street-leverages-machine-learning-to-streamline-private-markets-processing-and-document-management-through-partnership-with-canoe-intelligence/",
-      "originalUrl": "https://www.financialbuzz.com/state-street-leverages-machine-learning-to-streamline-private-markets-processing-and-document-management-through-partnership-with-canoe-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-22T05:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Financial Buzz",
-        "domain": "financialbuzz.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1091,24 +1091,33 @@
     {
       "path": "_news/2021-06-17-fis-launches-first-in-a-new-series-of-ai-enabled-risk-solutions-with-c3-ai-for-financial-services-industry.md",
       "title": "FIS Launches First in a New Series of AI-Enabled Risk Solutions with C3 AI for Financial Services Industry",
-      "excerpt": "The AML Compliance Hub leverages C3 AI’s advanced machine learning technology ... fast-moving challenges for the financial services sector, and the data necessary to identify financial crimes ...",
+      "excerpt": "FIS AML Compliance Hub is the first in a new line of AI-based solutions from FIS for capital markets firms. New solution uses artificial technology to aggregate and analyze client data across financial crime detection systems such as know your customer (KYC) and anti-money laundering (AML) to improve outcomes.",
       "sourceUrl": null,
-      "webUrl": "https://www.businesswire.com/news/home/20210617005027/en/FIS-Launches-First-in-a-New-Series-of-AI-Enabled-Risk-Solutions-with-C3-AI-for-Financial-Services-Industry",
-      "originalUrl": "https://www.businesswire.com/news/home/20210617005027/en/FIS-Launches-First-in-a-New-Series-of-AI-Enabled-Risk-Solutions-with-C3-AI-for-Financial-Services-Industry",
+      "webUrl": "https://financialit.net/news/artificial-intelligence/fis-launches-first-new-series-ai-enabled-risk-solutions-c3-ai-financial",
+      "originalUrl": "https://financialit.net/news/artificial-intelligence/fis-launches-first-new-series-ai-enabled-risk-solutions-c3-ai-financial",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://financialit.net/sites/default/files/new_fis_logo_0.jpg",
+          "width": 1200,
+          "height": 627,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-17T05:20:00-07:00",
+      "publishedDateTime": "2021-06-17T02:41:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
+        "name": "Financial IT",
+        "domain": "financialit.net",
         "images": null,
         "publishers": null,
         "authors": null

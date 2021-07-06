@@ -63,6 +63,20 @@ related:
         width: 660
         height: 400
         isCached: true
+  - title: "World-leading paediatric hospital to use data analytics and real-time predictive AI to prevent avoidable deaths in children"
+    excerpt: "Top clinician at a leading ﻿UK children’s hospital believes the ﻿future of healthcare involves wireless monitoring ﻿and smart alarms﻿, both in hospital"
+    publishedDateTime: 2021-07-06T13:41:00Z
+    webUrl: "https://www.mynewsdesk.com/uk/isansys-lifecare-ltd/news/world-leading-paediatric-hospital-to-use-data-analytics-and-real-time-predictive-ai-to-prevent-avoidable-deaths-in-children-430788"
+    type: article
+    provider:
+      name: mynewsdesk.com
+      domain: mynewsdesk.com
+    quality: 11
+    images:
+      - url: "https://resources.mynewsdesk.com/image/upload/c_fill,h_628,q_auto:good,w_1200/helq0hhhnjtuvez8ynsg.jpg"
+        width: 1200
+        height: 628
+        isCached: true
 
 secured: "gn0kD9t+1QDN3odi+HRdm552XoNW1JrTck1bb7J8isUntNl0NMNxla5xxtDT71i1w2uSqQP8xCXx8lm5GJYFYomIgrj9ee2IeSLeIe/Zb3fwVWSc72PMQdDxLQXNvf8H8dFcwPgGCRjGzUBL0X6t6Wz8qQSBRFzqBDPx+Sgcr/hy2HTmDvpzEDHRJ/ftEli51qKZ4YdRwABbM5TzOAgtGWNcrhkLXjnnLH7rbd5XahruJdm4Mv5QyKzL6G6q6OunjML0MhAaNSTho0kGJy3O7R72wAxGdJr6mrAToSkSJBEjZ3kQ4KFfE6BvCBYwVEkWFtv5n3mqqSDZJXN3f6kf5g10WNfCvL8y2JGWvhqUts4=;syL9aA16ABIPiBlk0M6M7w=="
 ---

@@ -24,22 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI software may help spot early signs of oesophageal cancer"
-    excerpt: "Software in use at an NHS trust could prove a breakthrough in diagnosing one of the deadliest forms of cancer"
-    publishedDateTime: 2021-07-01T20:26:00Z
-    webUrl: "https://www.theguardian.com/society/2021/jul/01/ai-software-may-help-spot-early-signs-of-oesophageal-cancer?bingParse"
-    ampWebUrl: "https://amp.theguardian.com/society/2021/jul/01/ai-software-may-help-spot-early-signs-of-oesophageal-cancer"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/society/2021/jul/01/ai-software-may-help-spot-early-signs-of-oesophageal-cancer"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 57
-    images:
-      - url: "https://i.guim.co.uk/img/media/9f7872f89a5277f753c1163553291d1f2d44c1a4/162_53_1433_860/master/1433.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=fbd0db0cd008e921c6346ca133d08837"
-        width: 600
-        height: 360
-        isCached: true
   - title: "Detecting oesophageal cancer with AI"
     excerpt: "Experts at UCL and spinout company Odin Vision working with clinicians at UCLH have used artificial intelligence (AI) to help detect early signs of oesophageal cancer."
     publishedDateTime: 2021-07-05T14:45:00Z

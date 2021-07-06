@@ -2,6 +2,100 @@
   "page": 16,
   "value": [
     {
+      "path": "_news/2021-06-22-how-telstra-built-an-ai-virtual-assistant-for-hr.md",
+      "title": "How Telstra built an AI virtual assistant for HR",
+      "excerpt": "After transforming its customer service with virtual assistants, Australia’s largest telco is turning its attention to human resources, another sector ripe for AI disruption. Telstra provides services to millions of customers across 20 countries, managing more than 50 million customer service calls a",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blogs/watson/2021/06/telstra-ai-virtual-assistant-hr/",
+      "originalUrl": "https://www.ibm.com/blogs/watson/2021/06/telstra-ai-virtual-assistant-hr/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ibm.com/blogs/watson/wp-content/uploads/2021/06/Telstra-WA-Blog_2000x1006.jpg",
+          "width": 2000,
+          "height": 1007,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-22T06:00:39-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-22-ai-powered-lender-for-merchants-myos-raises-30-million-series-a-round.md",
+      "title": "AI Powered Lender for Merchants Myos Raises $30 Million Series A Round",
+      "excerpt": "Myos has raised $30 million in Series A funding led by Fasanara Capital and Xploration Capital. Tomahawk.VC and a group of new and existing investors also participated in the funding round, according to the company.",
+      "sourceUrl": null,
+      "webUrl": "https://www.crowdfundinsider.com/2021/06/176910-ai-powered-lender-for-merchants-myos-raises-30-million-series-a-round/",
+      "originalUrl": "https://www.crowdfundinsider.com/2021/06/176910-ai-powered-lender-for-merchants-myos-raises-30-million-series-a-round/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.crowdfundinsider.com/wp-content/uploads/2018/07/markus-spiske-Berlin-Germany-Greetings-Card-Love-copy-300x292.jpg",
+          "width": 300,
+          "height": 292,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.crowdfundinsider.com/2021/06/176910-ai-powered-lender-for-merchants-myos-raises-30-million-series-a-round/amp/",
+      "cdnAmpWebUrl": "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/06/176910-ai-powered-lender-for-merchants-myos-raises-30-million-series-a-round/amp/",
+      "publishedDateTime": "2021-06-22T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Crowdfund Insider",
+        "domain": "crowdfundinsider.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-22-primer-announces-strategic-alliance-with-microsoft-to-make-leading-ai-solutions-easily-available-primer-to-be-natively-supported-on-microsoft.md",
       "title": "Primer Announces Strategic Alliance with Microsoft to Make Leading AI Solutions Easily Available; Primer to be Natively Supported On Microsoft Azure",
       "excerpt": "Primer, an artificial intelligence (AI) company, today announced a strategic alliance with Microsoft to collaborate on taking leading",
@@ -84,41 +178,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-22-state-street-leverages-machine-learning-to-streamline-private-markets-processing-and-document-management-through-partnership-with-canoe-intelligence.md",
-      "title": "State Street Leverages Machine Learning to Streamline Private Markets Processing and Document Management Through Partnership with Canoe Intelligence",
-      "excerpt": "State Street Corporation today announced it will implement a cloud-based, machine learning technology to transform private markets processing and document management. Through State Street’s partnership with Canoe Intelligence (“Canoe”),",
-      "sourceUrl": null,
-      "webUrl": "https://www.financialbuzz.com/state-street-leverages-machine-learning-to-streamline-private-markets-processing-and-document-management-through-partnership-with-canoe-intelligence/",
-      "originalUrl": "https://www.financialbuzz.com/state-street-leverages-machine-learning-to-streamline-private-markets-processing-and-document-management-through-partnership-with-canoe-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-22T05:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Financial Buzz",
-        "domain": "financialbuzz.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
       ]
     },
     {
@@ -1107,50 +1166,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-22-max-kelsen-revs-up-ml-system-for-car-share-platform.md",
-      "title": "Max Kelsen revs up ML system for car share platform",
-      "excerpt": "Australian car share platform Car Next Door has tapped Max Kelsen to deploy a machine learning system geared at reducing inappropriate car borrower behaviour.",
-      "sourceUrl": null,
-      "webUrl": "https://www.arnnet.com.au/article/689240/max-kelsen-revs-up-ml-system-car-share-platform/",
-      "originalUrl": "https://www.arnnet.com.au/article/689240/max-kelsen-revs-up-ml-system-car-share-platform/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/800x800/dimg/nicktherkelsen-terry.jpg",
-          "width": 800,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-21T23:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ARN",
-        "domain": "arnnet.com.au",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

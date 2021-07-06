@@ -133,20 +133,6 @@ related:
         width: 780
         height: 470
         isCached: true
-  - title: "Mobile Speech Recognition Software Market To Demonstrate Spectacular Growth By 2026 | Alphabet, VoiceVault, VoiceBox Technologies"
-    excerpt: "The latest independent research document on Global Mobile Speech Recognition Software examine investment in Market. It describes how companies deploying these technologies across various industry verticals aim to explore its potential to become a major ..."
-    publishedDateTime: 2021-07-01T19:31:00Z
-    webUrl: "https://ksusentinel.com/2021/07/01/mobile-speech-recognition-software-market-to-demonstrate-spectacular-growth-by-2026-alphabet-voicevault-voicebox-technologies/"
-    type: article
-    provider:
-      name: The Sentinel
-      domain: ksusentinel.com
-    quality: 10
-    images:
-      - url: "https://ksusentinel.com/wp-content/uploads/2021/07/Mobile-Speech-Recognition-Software-Market.jpeg"
-        width: 604
-        height: 404
-        isCached: true
 
 secured: "wCcU6Tu3aq4ACsEKHmzzk3KmlRQyZiYGOzmtkzWhXIa4hLQp4A18CjFtFcFFwo/B2AxgozF+pNK8ia9IwZcnTDb1L9d/bZ8juc4qNIcXMhR1ADQ8kiS2GKgdFQYz0mQfgv2xHmpQfD463IFuqU12Nxaww8sPvg2HWyrwaa4+UbbD1kyMaItLeq+vLlMiU1Lvk7/+uJUGE4JOHzI5q990xVcvzsLajPq5T/MbaXBS4vEm7lhrxn1ZhcA4kYKP2lpaswWKvLWVNEuawdydIlFQgEmax73EgRRczDaEeGAGKsejdrgVKZTgVkDKPleBGttpdZNQwKpi0X7v7dKeZrgpq17sQ/Gt91uDFPYD/eBQJtGt/HDgGCT7Rtp4H18VX6wjfI0eGkd8d+Ii8xMzETM1p/9n8XK+FDKQb/A8HDwMrI5G+cgPnWvyKlyZgu/18U9VB+iN2XIejtfHXdn43JPeSTqpl9ne45TDpgHz3+k7GjarcFKFYCHu4FG950w2OK1m2u8N8uzLGIP4j0CYZLLMTQ==;y8A+zrOc0M5zJ8Q75MXrLg=="
 ---

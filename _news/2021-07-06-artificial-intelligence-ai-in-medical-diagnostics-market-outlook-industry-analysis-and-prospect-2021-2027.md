@@ -43,20 +43,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Deep Learning Chipset Market Key Players Overview, Supply Chain and Analysis to 2026"
-    excerpt: "Selbyville, Delaware, Market Study Report, LLC, has recently added a report on ‘ Deep Learning Chipset market’"
-    publishedDateTime: 2021-07-01T19:54:00Z
-    webUrl: "https://www.marketwatch.com/press-release/deep-learning-chipset-market-key-players-overview-supply-chain-and-analysis-to-2026-2021-07-01"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 77
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Deep Learning Chip Market Recent Trends, Future Growth, Industry Analysis, Outlook, Insights, Share and Forecasts Report 2028"
     excerpt: "The global deep learning chip market is expected to reach a market size of USD 27.75 Billion by 2028 and register a"
     publishedDateTime: 2021-07-03T11:33:00Z

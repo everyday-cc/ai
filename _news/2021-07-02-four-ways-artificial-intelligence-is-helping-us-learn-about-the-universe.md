@@ -40,20 +40,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "Six Ways AI is Transforming Sales"
-    excerpt: "Every day, AI influences our purchasing decisions, from the shows we watch to the routes drivers take to the next product we shop online. Here are six ways AI is transforming sales: The size of the sale,"
-    publishedDateTime: 2021-07-05T11:56:00Z
-    webUrl: "https://www.cioapplications.com/news/six-ways-ai-is-transforming-sales--nid-8066.html"
-    type: article
-    provider:
-      name: CIO Applications
-      domain: cioapplications.com
-    quality: 54
-    images:
-      - url: "https://www.cioapplications.com/newstransfer/upload/ycded450308.jpg"
-        width: 450
-        height: 308
-        isCached: true
   - title: "Astronomers use artificial intelligence to reveal the true shape of universe"
     excerpt: "The universe comes off as a vast and immeasurable entity whose depths are imperceptible to Earthlings. But in the pursuit of simplifying all that surrounds us, scientists have made great strides in understanding the space we inhabit."
     publishedDateTime: 2021-07-06T09:39:00Z

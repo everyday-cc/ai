@@ -1,20 +1,26 @@
 ---
 category: news
 title: "New Intel XPU Innovations Target HPC and AI"
-excerpt: "The next generation of Intel Xeon Scalable processors (code-named “Sapphire Rapids”) will integrate High Bandwidth Memory (HBM). Intel’s X e -HPC-based Ponte Vecchio GPU has powered-on, is in system validation,"
-publishedDateTime: 2021-06-28T11:15:00Z
-originalUrl: "https://www.morningstar.com/news/business-wire/20210628005138/new-intel-xpu-innovations-target-hpc-and-ai"
-webUrl: "https://www.morningstar.com/news/business-wire/20210628005138/new-intel-xpu-innovations-target-hpc-and-ai"
+excerpt: "At the 2021 International Supercomputing Conference (ISC) Intel is showcasing how the company is extending its lead in high performance computing (HPC) with a range of technology disclosures, partnerships and customer adoptions."
+publishedDateTime: 2021-06-28T16:17:00Z
+originalUrl: "https://apnews.com/press-release/business-wire/technology-business-944ae76804214506818c6bd56ed1c3de"
+webUrl: "https://apnews.com/press-release/business-wire/technology-business-944ae76804214506818c6bd56ed1c3de"
 type: article
 
 provider:
-  name: Morningstar, Inc.
-  domain: morningstar.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI Hardware
   - AI
 
-secured: "HXIQYw2/Zj32S6fuSLrRlcH5xgy0canoVpAwvC4j6UaIlJFcr8/qjWqN70fwW6wJ+6PSa9RtUZGE+2aVC0JaoLqbhCc+ZkLPB6Gz7X1dWiz0WMJjaxbSawtSAqfq5YKYf2ALCKFR9Y5Xug6ayV0wlP6racUQ8xPOARQ1LQKwaGCqre5ZR0YQ/MK4mOd2tIvkcc19COiEjXC8N+MU/oyT4bQLz0nj9T+wxTj1Gv7PF+3w+eGgflBLRLRdIgb0PtRz1HQmq6wiXo5g5xtT8pLcraJlOJDvyer5zeqE33ZhnkD7hb3/3Q8Avdnc+GDf+yNbKcjs2/UkEyCEB2KrtCjbQh7SkRExwSsqPTLubgPEaP8=;AauOFpsnN8eSE8AvbEAv9Q=="
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
+
+secured: "PaI62+2eVg/N/kAoyI+m/gvJh6dkrlAl4x6hn0cO9z/bX3FGQwA7wJqyXeOkVw2Pv9iXUVIfAgn4mSiUiHkrs9LU9AhauPCIqpSCC220Fi+9nJvQTzwE73NIsdC1jJlX+9i1H5JnmnTbBDaRGH8JpwQTMQOMJxXrV5MuZYU/HVwpdWRljWG+/ZYbcqwnWfIWg1W28zKYbCvh7BGULySku35lfCukwBn6tcTPY93THUt2kKnAtS1SCfG9uPkJMPAQM5rgDJxuzVWgtoJv0VExhDlUzyzahF5CYrjXBXzjdPWF45KpmwXixT2eEBBqjHvuHBLoWIw8mn7xtDXy/mTQgt1DNkLWOHudPqCkxL1u16Q=;LTehbIVlyfhRqbJuAbAOug=="
 ---
 
