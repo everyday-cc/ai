@@ -12,7 +12,7 @@ crunchbase:
 twitter:
   username: "6senseInc"
   url: "https://twitter.com/6senseInc"
-  followers: 18782
+  followers: 18783
 
 locations:
   - San Francisco
@@ -22,7 +22,7 @@ topics:
   - AI in Marketing
 
 images:
-  - url: "https://pbs.twimg.com/profile_images/1400529651798269953/uTqXGy9E_400x400.jpg"
+  - url: "https://pbs.twimg.com/profile_images/1412466382369955846/jLx9I3SB_400x400.jpg"
     width: 400
     height: 400
     isCached: true

@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "zymergen"
   url: "https://twitter.com/zymergen"
-  followers: 8437
+  followers: 8439
 
 size: 201-500 employees
 yearFounded: 2013
@@ -32,7 +32,7 @@ topics:
   - AI in Healthcare
 
 images:
-  - url: "https://pbs.twimg.com/profile_images/1405212414560194560/wTf8IsSV_400x400.jpg"
+  - url: "https://pbs.twimg.com/profile_images/1412463891330838541/qOCRvGRB_400x400.jpg"
     width: 400
     height: 400
     isCached: true
