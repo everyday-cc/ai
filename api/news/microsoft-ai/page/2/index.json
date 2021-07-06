@@ -124,6 +124,40 @@
       ]
     },
     {
+      "path": "_news/2021-06-22-altigen-launches-coreinteract-for-microsoft-teams.md",
+      "title": "Altigen Launches CoreInteract for Microsoft Teams",
+      "excerpt": "CoreInteract for Microsoft Teams is an innovative enterprise customer engagement platform designed for any business whose sales, service, and support are a top priority. CoreInteract unifies all your business communications channels and enables your employees to interact with your customers completely within Microsoft Teams.",
+      "sourceUrl": null,
+      "webUrl": "https://www.morningstar.com/news/accesswire/652569msn/altigen-launches-coreinteract-for-microsoft-teams",
+      "originalUrl": "https://www.morningstar.com/news/accesswire/652569msn/altigen-launches-coreinteract-for-microsoft-teams",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-21T22:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Morningstar, Inc.",
+        "domain": "morningstar.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-22-bhp-shifts-data-centers-to-cloud-with-aws-microsoft-azure.md",
       "title": "BHP Shifts Data Centers to Cloud with AWS & Microsoft Azure",
       "excerpt": "Data Center Dynamics reported that mining giant BHP has signed cloud deals with Amazon Web Services and Microsoft Azure. AWS will provide data analytics and machine learning capabilities, while Azure will host the company's core global applications portfolio,",
@@ -1266,59 +1300,6 @@
       "topics": [
         "Microsoft AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-10-microsoft-says-cryptomining-attacks-are-targeting-kubernetes.md",
-      "title": "Microsoft says cryptomining attacks are targeting Kubernetes",
-      "excerpt": "explains that they spotted the campaign late in May intrigued by a spike in deployments of TensorFlow pods in various Kubernetes clusters. In his analysis of the campaign, Weizman explains that ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.techradar.com/news/microsoft-says-cryptomining-attacks-are-targeting-kubernetes",
-      "originalUrl": "https://www.techradar.com/news/microsoft-says-cryptomining-attacks-are-targeting-kubernetes",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/yaTc7yRkfydWWSj2tD8dGH-480-80.jpg",
-          "width": 480,
-          "height": 270,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techradar.com/amp/news/microsoft-says-cryptomining-attacks-are-targeting-kubernetes",
-      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/microsoft-says-cryptomining-attacks-are-targeting-kubernetes",
-      "publishedDateTime": "2021-06-10T04:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

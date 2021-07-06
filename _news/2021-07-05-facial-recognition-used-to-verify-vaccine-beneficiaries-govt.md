@@ -9,7 +9,7 @@ ampWebUrl: "https://www.thehindu.com/news/national/facial-recognition-used-to-ve
 cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/news/national/facial-recognition-used-to-verify-vaccine-beneficiaries-govt/article35152786.ece/amp/"
 type: article
 quality: 59
-heat: 59
+heat: 69
 published: false
 
 provider:
@@ -25,6 +25,24 @@ images:
     width: 615
     height: 384
     isCached: true
+
+related:
+  - title: "Covid: Facial recognition is being used to verify vaccine beneficiaries, says Centre in RTI reply"
+    excerpt: "However, the government failed to provide an order from legal or legislative authorities for the use of such a technology, according to ‘The Hindu’."
+    publishedDateTime: 2021-07-06T11:10:00Z
+    webUrl: "https://scroll.in/latest/999443/covid-facial-recognition-is-being-used-to-verify-vaccine-beneficiaries-says-centre-in-rti-reply"
+    ampWebUrl: "https://amp.scroll.in/latest/999443/covid-facial-recognition-is-being-used-to-verify-vaccine-beneficiaries-says-centre-in-rti-reply"
+    cdnAmpWebUrl: "https://amp-scroll-in.cdn.ampproject.org/c/s/amp.scroll.in/latest/999443/covid-facial-recognition-is-being-used-to-verify-vaccine-beneficiaries-says-centre-in-rti-reply"
+    type: article
+    provider:
+      name: Scroll
+      domain: scroll.in
+    quality: 46
+    images:
+      - url: "https://s01.sgp1.cdn.digitaloceanspaces.com/book/156735-fcmoyjrqax-1616694153.jpg"
+        width: 600
+        height: 315
+        isCached: true
 
 secured: "8Ymwn+9W4MkE6UC7MaoWP5szaKX7TE6sExF//SBaRDLNZjbikzd2JRz+WFMjmii7FUm/K9atJ3K3ErV88y8PA+S3YXd/pdFD4owteEm89YnRoFULzDe2oDgAiBe7FsKUrY4JAjSRh4Egpv4+ftHMAYuUdir6bEeWyJnZjsCdBmszjAnGUz3Afuy/DkkV5QiCsh4uR+jm5M8cqVB3LAWkjxDknNTLeuG1YJocVxRP25AWTPWY8l5rx+t0ntu60RlQxpWbP/ksVu31SJIfTLeCb0dP96BKT3gtyZrE1M2lLmtA/0pcmRQblKiiYn+ekAc02xkIhPDwsWUUIZiGcMGcqcugQhL7yi12raoEgEUZx0U=;04nFq38a1FRMUcMxHOh+XQ=="
 ---

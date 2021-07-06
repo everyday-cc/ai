@@ -53,6 +53,22 @@ related:
         width: 612
         height: 408
         isCached: true
+  - title: "Analysis - 'Racist' facial recognition sparks ethical concerns in Russia"
+    excerpt: "The rise of facial recognition is accompanied by a growing chorus of concern about unethical uses of the technology."
+    publishedDateTime: 2021-07-06T10:17:00Z
+    webUrl: "https://www.astroawani.com/berita-dunia/analysis-racist-facial-recognition-sparks-ethical-concerns-russia-306772"
+    ampWebUrl: "https://www.astroawani.com/berita-dunia/analysis-racist-facial-recognition-sparks-ethical-concerns-russia-306772?amp=1"
+    cdnAmpWebUrl: "https://www-astroawani-com.cdn.ampproject.org/c/s/www.astroawani.com/berita-dunia/analysis-racist-facial-recognition-sparks-ethical-concerns-russia-306772?amp=1"
+    type: article
+    provider:
+      name: Astro Awani
+      domain: astroawani.com
+    quality: 75
+    images:
+      - url: "https://img.astroawani.com/2021-07/81625479627_CHINA.jpg"
+        width: 590
+        height: 400
+        isCached: true
 
 secured: "bs2aZXoCffvXieM8yEhLRnCqgvzksMWiepuVoMq6fI5+lEc2dTRwM91eDqB52fQ2Knm41izHGfx1UpigqXVXCfG5HxKa1/HlpvR4WOSgNiFauk+ijgv2xz3r6sujQXPkiKzOPTk3Z5vZ8eCpnijl1wa11h3HdIqmfWaVLqjPngNV+R+E+mzB06IWL64cQOH8h/d7tJRAIa3qnpNIgwtbJ6d+K0YujJMO+JZ1hMFLfudvW/oiF8KjggckYxzf9wF5kN4Ta/Jq6OUiDcKX5khoqiS80JejJcIW5bVvMuay8yzDc9WchTrBhSRcuf55jHhEaWg8ek8yA8iWCuRVANvwbPGB2w6NQCNDGDMJeeE1rNc=;rwdOBb/OpfH9YlK9SxdQ5Q=="
 ---

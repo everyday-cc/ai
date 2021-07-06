@@ -388,6 +388,49 @@
       ]
     },
     {
+      "path": "_news/2021-06-30-medidata-acorn-ai-synthetic-control-arm-named-best-ai-based-solution-for-healthcare-by-2021-ai-breakthrough-awards.md",
+      "title": "Medidata Acorn AI Synthetic Control Arm® Named “Best AI-based Solution for Healthcare” by 2021 AI Breakthrough Awards",
+      "excerpt": "However, an SCA can improve patient recruitment and retention by allowing for a study design where all or at least more patients can be treated with the experimental therapy ... to honoring excellence in Artificial Intelligence technologies, services ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.register-herald.com/region/medidata-acorn-ai-synthetic-control-arm-named-best-ai-based-solution-for-healthcare-by-2021/article_a495d921-24fb-5ab8-92a6-73240b430619.html",
+      "originalUrl": "https://www.register-herald.com/region/medidata-acorn-ai-synthetic-control-arm-named-best-ai-based-solution-for-healthcare-by-2021/article_a495d921-24fb-5ab8-92a6-73240b430619.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.chicago2.vip.townnews.com/register-herald.com/content/tncms/assets/v3/editorial/3/1b/31ba3241-1f65-5860-9593-b4fa908b9fa5/60dc991277cd6.image.jpg?resize=645%2C630",
+          "width": 645,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-30T09:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Register-Herald",
+        "domain": "register-herald.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-29-artificial-intelligence-hold-potential-for-improving-delivery-of-healthcare-worldwide-who.md",
       "title": "Artificial Intelligence Hold Potential for Improving Delivery of Healthcare Worldwide: WHO",
       "excerpt": "Artificial Intelligence (AI) holds great promise for improving the delivery of healthcare and medicine worldwide.",
@@ -1309,40 +1352,6 @@
         "AI",
         "Natural Language Processing",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-06-16-mydecine-unveils-artificial-intelligence-drug-discovery-program.md",
-      "title": "Mydecine Unveils Artificial Intelligence Drug Discovery Program",
-      "excerpt": "Led by top computer-aided drug development expert, Dr. Khaled Barakat, the program is focused on developing artificial intelligence/machine learning (AI/ML) supported drug screenings, including both the ability to build drugs from the receptor up and assess drugs around the receptors of Mydecine’s choosing.",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/-mydecine-unveils-artificial-intelligence-drug-discovery-program-/2021/06/16/9391456.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/-mydecine-unveils-artificial-intelligence-drug-discovery-program-/2021/06/16/9391456.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-16T04:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
       ]
     }
   ],

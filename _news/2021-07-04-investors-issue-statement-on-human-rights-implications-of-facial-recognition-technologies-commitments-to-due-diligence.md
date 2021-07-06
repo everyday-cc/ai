@@ -25,54 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Maine just enacted the country's toughest restrictions on facial recognition"
-    excerpt: "A new state law limits police use of facial recognition technology, and prohibits the tech in most areas of government, including in public schools."
-    publishedDateTime: 2021-07-01T17:40:00Z
-    webUrl: "https://www.cnet.com/news/maine-just-enacted-the-countrys-toughest-restrictions-on-facial-recognition/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/maine-just-enacted-the-countrys-toughest-restrictions-on-facial-recognition/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/maine-just-enacted-the-countrys-toughest-restrictions-on-facial-recognition/"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 101
-    images:
-      - url: "https://www.cnet.com/a/img/JSJk8OijM-5ytGsO6PCCqrCtyt8=/1200x630/2020/06/30/f91e01e4-1013-4fbf-af9c-f59f543d90cd/facial-recognition-face-id-passw.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Maine's new facial recognition law bans the tech in schools, limits police use"
-    excerpt: "A statewide bill regulating the use of facial recognition technology in Maine was enacted Thursday after passing unanimously in both chambers of the state's legislature. Maine's new facial recognition law strictly regulates how law enforcement agencies can employ the technology for their investigations in the state,"
-    publishedDateTime: 2021-07-01T17:40:00Z
-    webUrl: "https://www.cnet.com/news/maine-facial-recognition-law-bans-the-tech-in-schools-limits-police-use/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/maine-facial-recognition-law-bans-the-tech-in-schools-limits-police-use/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/maine-facial-recognition-law-bans-the-tech-in-schools-limits-police-use/"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 100
-    images:
-      - url: "https://www.cnet.com/a/img/JSJk8OijM-5ytGsO6PCCqrCtyt8=/1200x630/2020/06/30/f91e01e4-1013-4fbf-af9c-f59f543d90cd/facial-recognition-face-id-passw.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Maine Enacts Strict Limits on Government Use of Facial-Recognition Tech"
-    excerpt: "The bill bans public officials and public employees at the state, county, and municipal levels from using facial-recognition technology, with limited exceptions."
-    publishedDateTime: 2021-07-01T17:30:00Z
-    webUrl: "https://www.pcmag.com/news/maine-enacts-strict-limits-on-government-use-of-facial-recognition-tech"
-    ampWebUrl: "https://www.pcmag.com/news/maine-enacts-strict-limits-on-government-use-of-facial-recognition-tech?amp=true"
-    cdnAmpWebUrl: "https://www-pcmag-com.cdn.ampproject.org/c/s/www.pcmag.com/news/maine-enacts-strict-limits-on-government-use-of-facial-recognition-tech?amp=true"
-    type: article
-    provider:
-      name: PC Magazine
-      domain: pcmag.com
-    quality: 89
-    images:
-      - url: "https://i.pcmag.com/imagery/articles/032rDToHg3jndE55LWKtIBB-1.1625160511.fit_lim.size_1200x630.jpg"
-        width: 1120
-        height: 630
-        isCached: true
   - title: "Maine Now Has the Toughest Facial Recognition Restrictions in the U.S."
     excerpt: "The new law prohibits use of the technology across all levels of state, county, and municipal government, with limited exceptions for law enforcement."
     publishedDateTime: 2021-07-02T09:50:00Z
@@ -89,6 +41,22 @@ related:
         width: 780
         height: 520
         isCached: true
+  - title: "Baltimore is the latest U.S. city to target facial recognition technology"
+    excerpt: "The city of Baltimore has banned the use of facial recognition systems by residents, businesses and the city government (except for police). The criminalisation in a major U.S. city of an"
+    publishedDateTime: 2021-07-06T10:26:00Z
+    webUrl: "https://www.sourcesecurity.com/insights/baltimore-city-target-facial-recognition-technology-co-1508-ga-sb.1625556289.html"
+    ampWebUrl: "https://www.sourcesecurity.com/amp/insights/baltimore-city-target-facial-recognition-technology-co-1508-ga-sb.1625556289.html"
+    cdnAmpWebUrl: "https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/insights/baltimore-city-target-facial-recognition-technology-co-1508-ga-sb.1625556289.html"
+    type: article
+    provider:
+      name: SourceSecurity
+      domain: sourcesecurity.com
+    quality: 58
+    images:
+      - url: "https://www.sourcesecurity.com/img/news/612/why-access-control-important-920x533.jpg"
+        width: 612
+        height: 355
+        isCached: true
   - title: "Maine Holds Strong Against Facial Recognition"
     excerpt: "The new law represents the strongest move by any state in the country to regulate the widespread use of the technology by law enforcement and offer a pathway to legal action if used in violation of the law."
     publishedDateTime: 2021-07-02T14:38:00Z
@@ -103,17 +71,6 @@ related:
         width: 343
         height: 510
         isCached: true
-  - title: "Maine law restricts facial recognition technology statewide"
-    excerpt: "A bill touted as the country’s strictest statewide regulation on the use of facial recognition technology has become law in Maine."
-    publishedDateTime: 2021-07-01T19:02:00Z
-    webUrl: "https://www.sunherald.com/news/business/technology/article252486663.html"
-    ampWebUrl: "https://amp.sunherald.com/news/business/technology/article252486663.html"
-    cdnAmpWebUrl: "https://amp-sunherald-com.cdn.ampproject.org/c/s/amp.sunherald.com/news/business/technology/article252486663.html"
-    type: article
-    provider:
-      name: Biloxi Sun Herald
-      domain: sunherald.com
-    quality: 54
   - title: "Maine law restricts facial recognition technology statewide"
     excerpt: "A bill touted as the country’s strictest statewide regulation on the use of facial recognition technology has become law in Maine."
     publishedDateTime: 2021-07-03T03:40:00Z
@@ -167,6 +124,20 @@ related:
       - url: "https://images.news18.com/ibnlive/uploads/2021/07/1625242287_vaccine.jpg"
         width: 1200
         height: 800
+        isCached: true
+  - title: "13 federal law enforcement agencies haven’t been monitoring facial recognition technology use"
+    excerpt: "The report from the U.S. Government Accountability Office (GAO) said 13 of the federal law enforcement agencies surveyed that use facial recognition technology did not have a system in place to track when or how employees were using the system or to assess the privacy risks associated with the use."
+    publishedDateTime: 2021-07-02T21:40:00Z
+    webUrl: "https://www.wpxi.com/news/top-stories/13-federal-law-enforcement-agencies-havent-been-monitoring-facial-recognition-technology-use/XLJYVPKNLRB37G2W252WIKKJXA/"
+    type: article
+    provider:
+      name: WPXI
+      domain: wpxi.com
+    quality: 28
+    images:
+      - url: "https://d1hfln2sfez66z.cloudfront.net/07-02-2021/t_0b890523399842af94bf32e2b9fcc9b0_name_file_960x540_1200_v3_1_.jpg"
+        width: 960
+        height: 540
         isCached: true
 
 secured: "dr9vzz8WlXxMpWsd9qZN4tyH0pywjYWSyXzm2REmnAMXh1fMRlJR1TOEQr49OOz46FGbMb4Ciy1Ro27oCr1O3h7VywZ48dn9gMQJCDs/c0/DvXcNrw4CK2OTO9Tm93ETuGy5myYBKvGmFkj2DdSrYMRISqusSk8fUVAZSjJo3HEc/+QwvyA6NEvbaNF/4Z8m40ZIPjTAB7sUUftkYQ4fG7+Y5yycRfJjnoJvQ+7f1dQYZbW2HcC2idHJGMpnr73efmYtNy7XRhoF94n4XVwbES+iwYB62kAzb8O+shkkwmGVZTsIufmQFrnOcGZoY/0e7Y4ZKtvTnUFgXaWDPK7zwIqkbLvVExhsvkJEo8C0Qqg=;+QubqZl70NMBSJwpD+2BMw=="

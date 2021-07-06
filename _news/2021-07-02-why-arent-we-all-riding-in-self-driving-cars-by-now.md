@@ -43,6 +43,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Self-Driving Cars, Brain-Computer Interfaces, Other Cutting-Edge AI Tech to Be on Show in Shanghai"
+    excerpt: "State-of-the-art technologies including unmanned vehicles on the open road and brain-computer interface systems that transfer signals from the brain to external devices will be on display at the 2021 World Artificial Intelligence Conference to be held in Shanghai later this week."
+    publishedDateTime: 2021-07-06T11:23:00Z
+    webUrl: "https://www.yicaiglobal.com/news/self-driving-cars-brain-computer-interfaces-other-cutting-edge-ai-tech-to-be-on-show-in-shanghai"
+    type: article
+    provider:
+      name: Yicai Global
+      domain: yicaiglobal.com
+    quality: 25
+    images:
+      - url: "http://img.yicaiglobal.com/cdn/news/self-driving-cars-brain-computer-interfaces-other-cutting-edge-ai-tech-to-be-on-show-in-shanghai/14596832070205440.jpg"
+        width: 720
+        height: 480
+        isCached: true
 
 secured: "rBnP3AFUzhM/3VciHJ7HlDj6wyyjTOgSyqHq2FpMlN57S9cnr1zU2Zq2mNBzNPePXn7lPeIei3C5AK0jZjv5RZWiT22mBq0OOkS3DOuGeYbGfS3fJo/3LJjpqbIL9Anl5JtwZytddv3hxKP2m3F4j8ie3Bw0js3QDdC621HkJtVLzDn+awiSTtDG/D+d3jJN/P7EDQe5F3UAaraeZprb9iVmFN6Jn+QIfraLHN2jFLMvZbc/yDATFTpuMrXXPyY7w3RwNR1KwwLBuaIhAr5fjmOwV16iRIYihoCCEFZvsWUGeArAcQnO2M90GVlYX3ZQ5t8vIFc0s6z8xgKdUCqWQlKXOxYMOePxuiFH86Gx5pji5hah1syg1ncpHjO7zRW5Uu3ngPFa5IdNsNZNdz05Q+WrNYb55xlPpxNF5iY47SfG2fyn03LaZSlV/gdwmU23LYR6pmQiK1LyEdgx2e7zBgiD2wnglIa3EiuK3y547QZIMBLcdhJVUKEftGHvOLEYbxmwiUQPV6D8Jg6IEz/YjA==;sv/exkhvkMvpe4Ry1sZFFg=="
 ---

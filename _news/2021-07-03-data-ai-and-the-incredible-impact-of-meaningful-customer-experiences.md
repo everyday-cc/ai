@@ -18,6 +18,31 @@ topics:
   - AI
 
 related:
+  - title: "Driveway Enhances Customer Shopping Experience with Affordability and AI Financing Guidance Features"
+    excerpt: "Driveway, reimagining the way consumers shop for and finance vehicles online, announced today three powerful new features now live on driveway.com. Driveway's upgraded shopping experience enables customers to shop and filter vehicles by monthly payment,"
+    publishedDateTime: 2021-07-06T11:25:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/driveway-enhances-customer-shopping-experience-with-affordability-and-ai-financing-guidance-features-1030581357"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 52
+    images:
+      - url: "https://mma.prnewswire.com/media/1556961/PR_Driveway_photo_v2.jpg"
+        width: 400
+        height: 265
+        isCached: true
+  - title: "Enhance Your Career with Artificial Intelligence Course"
+    excerpt: "Artificial intelligence is considered to be one of the most disruptive technologies that exist today. Know about Artificial Intelligence course here."
+    publishedDateTime: 2021-07-02T08:31:00Z
+    webUrl: "https://www.pcquest.com/enhance-career-artificial-intelligence-course/"
+    ampWebUrl: "https://www.pcquest.com/enhance-career-artificial-intelligence-course/amp/"
+    cdnAmpWebUrl: "https://www-pcquest-com.cdn.ampproject.org/c/s/www.pcquest.com/enhance-career-artificial-intelligence-course/amp/"
+    type: article
+    provider:
+      name: PCQuest
+      domain: pcquest.com
+    quality: 39
   - title: "IBM and AI Experience"
     excerpt: "I was on a call with IBM research this week talking about how IBM is deploying artificial intelligence (AI). See more about IBM's AI here:"
     publishedDateTime: 2021-07-02T19:17:00Z

@@ -62,15 +62,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Tesla AI Chief Says Self-Driving Cars Don't Need Lidar"
-    excerpt: "Tesla's Chief AI Scientist Andrej Karpathy explained why at this year's Computer Vision and Pattern Recognition (CVPR) conference. \"It's unscalable to collect, build, and maintain these high-definition lidar maps,"
-    publishedDateTime: 2021-07-01T18:17:00Z
-    webUrl: "https://cacm.acm.org/opinion/articles/253719-tesla-ai-chief-says-self-driving-cars-dont-need-lidar/fulltext"
-    type: article
-    provider:
-      name: acm.org
-      domain: acm.org
-    quality: 34
 
 secured: "m2c68IF7qMPIXp6FiZ+t838d5HPZ+ks9m2Zohau7+lMVsjY5kb11JfJcE85FPVPuSz3fyjA+8kZDtvcTgoTR3JYQcgrLORTUbIO8P2eqDVh/gfj95BaytAsbE+ZAP6J3C++mVDq7FTR/W7Bfg6W1ZrKxPNHIL+4LwRO78J8m4jbO0ub47aWcxM1H6jXU6q7PkIYa4RSYm/QiKudA/r2mHI3hu+2b9qlFDIikoW4k3ZsOAVLL0/XH0oRvzufZfE9KMFq0COS6IqKd830/8Q24rphm2OthppZnTh9Kv1Y9uwt3SLqljl63ahYd+J5lf5aGzfya8XVKLgJuseMLLs7pd8mvNXLtFrBsvEbM4o3ngPCsSVBMvEg6DHdfTVCj32Jd1bIFBguJmjDCtREYtsW4s6/uSMDEm+s1SigP1Ua/QaPleK+fsvexFKfw3fXOUjVLj4ExTr1ml/7dN6w1II8zXZDQvrLTL2fVscod6J7lMYCrNjeerBGlF3AWcTJMZ9rnuMV5WSB/+Q7TtThAEXEKbg==;3ZftGuyVKYqHh8K2TFEEQA=="
 ---

@@ -26,6 +26,22 @@ images:
     isCached: true
 
 related:
+  - title: "Israel uses AI-guided drone swarm to target Hamas militants in Gaza"
+    excerpt: "Israel has utilised an AI-guided drone swarm to carry out attacks on Hamas militants in what is believed to be a world-first use of the technology. An Israeli Defence Force (IDF) support unit deployed the swarm to locate and target Hamas militants who had ..."
+    publishedDateTime: 2021-07-06T11:37:00Z
+    webUrl: "https://www.dailymail.co.uk/news/article-9760339/Israel-uses-AI-guided-drone-swarm-target-Hamas-militants-Gaza.html"
+    ampWebUrl: "https://www.dailymail.co.uk/news/article-9760339/amp/Israel-uses-AI-guided-drone-swarm-target-Hamas-militants-Gaza.html"
+    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/news/article-9760339/amp/Israel-uses-AI-guided-drone-swarm-target-Hamas-militants-Gaza.html"
+    type: article
+    provider:
+      name: Daily Mail
+      domain: dailymail.co.uk
+    quality: 57
+    images:
+      - url: "https://i.dailymail.co.uk/1s/2021/07/06/11/45095431-0-image-a-29_1625568617206.jpg"
+        width: 636
+        height: 382
+        isCached: true
   - title: "First \"AI War\": Israel Used World's First AI-Guided Swarm Of Combat Drones In Gaza Attacks"
     excerpt: "In the ongoing conflict between Israel and the Occupied Palestinian Territory, the Israel Defense Forces (IDF) has deployed AI and supercomputers to identi"
     publishedDateTime: 2021-07-02T11:26:00Z

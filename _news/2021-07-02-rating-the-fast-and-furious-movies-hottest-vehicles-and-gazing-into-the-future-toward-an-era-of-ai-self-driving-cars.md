@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/07/02/rating-the-fast-a
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/07/02/rating-the-fast-and-furious-movies-hottest-vehicles-and-gazing-into-the-future-toward-an-era-of-ai-self-driving-cars/amp/"
 type: article
 quality: 66
-heat: 76
+heat: 86
 published: true
 
 provider:
@@ -46,6 +46,20 @@ related:
       - url: "https://metro.co.uk/wp-content/uploads/2021/07/SEI_85220509.jpg?quality=90&strip=all&zoom=1&resize=600%2C400"
         width: 600
         height: 400
+        isCached: true
+  - title: "Self-Driving Cars, Brain-Computer Interfaces, Other Cutting-Edge AI Tech to Be on Show in Shanghai"
+    excerpt: "State-of-the-art technologies including unmanned vehicles on the open road and brain-computer interface systems that transfer signals from the brain to external devices will be on display at the 2021 World Artificial Intelligence Conference to be held in Shanghai later this week."
+    publishedDateTime: 2021-07-06T11:23:00Z
+    webUrl: "https://www.yicaiglobal.com/news/self-driving-cars-brain-computer-interfaces-other-cutting-edge-ai-tech-to-be-on-show-in-shanghai"
+    type: article
+    provider:
+      name: Yicai Global
+      domain: yicaiglobal.com
+    quality: 25
+    images:
+      - url: "http://img.yicaiglobal.com/cdn/news/self-driving-cars-brain-computer-interfaces-other-cutting-edge-ai-tech-to-be-on-show-in-shanghai/14596832070205440.jpg"
+        width: 720
+        height: 480
         isCached: true
 
 secured: "X7iGqxmf3JGgM+UPw3d/dAoO+WsO0dgfoo8lDSAb2n4GWSWzAMTM/RDT1Jygy9y7C4jD/vwej9bK7/yIVfQ2QHz8b2mZJmabi8NNOuzmFKUgd1FgqKnEnx0QFu82NDFgOVLBhFmYrxfg8Xebj+m3U6gv4s2/JRb+juc+pbBOdROxAbC6E7k1eQflE4utBgX9a8SHISesRAqzKIHNLkuNlbEFCINoVm6syjdTF7qxbQOnejbAMThm/4UTl92P8gZGmUIE0cTDPrFKdn30dJi5nKLrSEtxo5HFTdEeSM/sBpQW6Sri1JUTA46zvWZ4ztIODwPMjK3vh4UsarG1Snd4mJWmpakNTiGT0IqLqAKixjRrsO0Cj2ehHE8jDL0kFOncCQdYTAeT83tUFviR/9zONoSIZQ0F+EZlIfYYlQQ+k5EG6QwzYMcDR+zRTwNIbjKUemikwrX+3/fkleyU8s8/6WQw+3Qm+AJS8NxdNptWiff8Rrsa8dOGNHvAQ8tNwz+w6oL+ugscGERmq36PyMHkPg==;vBdbuEC11TBTrK4F36V+Aw=="

@@ -68,6 +68,22 @@ related:
         width: 450
         height: 308
         isCached: true
+  - title: "Astronomers use artificial intelligence to reveal the true shape of universe"
+    excerpt: "The universe comes off as a vast and immeasurable entity whose depths are imperceptible to Earthlings. But in the pursuit of simplifying all that surrounds us, scientists have made great strides in understanding the space we inhabit."
+    publishedDateTime: 2021-07-06T09:39:00Z
+    webUrl: "https://www.wionews.com/science/astronomers-use-artificial-intelligence-to-reveal-the-true-shape-of-universe-396217"
+    ampWebUrl: "https://www.wionews.com/science/astronomers-use-artificial-intelligence-to-reveal-the-true-shape-of-universe-396217/amp"
+    cdnAmpWebUrl: "https://www-wionews-com.cdn.ampproject.org/c/s/www.wionews.com/science/astronomers-use-artificial-intelligence-to-reveal-the-true-shape-of-universe-396217/amp"
+    type: article
+    provider:
+      name: WION
+      domain: wionews.com
+    quality: 54
+    images:
+      - url: "https://cdn.wionews.com/sites/default/files/styles/story_page/public/2021/07/06/201237-oof.jpg"
+        width: 918
+        height: 506
+        isCached: true
   - title: "Here's how artificial intelligence helping astronomers learn about the universe"
     excerpt: "To take on the challenges, astronomers are turning to machine learning and artificial intelligence (AI) to build new tools to rapidly search for the next big breakthroughs. A research by Ashley Spindler from the department of Astrophysics, University of ..."
     publishedDateTime: 2021-07-04T07:44:00Z
@@ -99,6 +115,22 @@ related:
       - url: "https://scitechdaily.com/images/AI-Data-Analysis-Actual-Shape-of-the-Universe-777x511.jpg"
         width: 777
         height: 511
+        isCached: true
+  - title: "Japanese astronomers use artificial intelligence to better understand the universe's shape"
+    excerpt: "The universe comes off as a vast and immeasurable entity whose depths are imperceptible to Earthlings. But in the pursuit of simplifying all that surrounds us, scientists have made great strides in understanding the space we inhabit."
+    publishedDateTime: 2021-07-06T09:39:00Z
+    webUrl: "https://www.wionews.com/science/japanese-astronomers-use-artificial-intelligence-to-better-understand-the-universes-shape-396217"
+    ampWebUrl: "https://www.wionews.com/science/astronomers-use-artificial-intelligence-to-reveal-the-true-shape-of-universe-396217/amp"
+    cdnAmpWebUrl: "https://www-wionews-com.cdn.ampproject.org/c/s/www.wionews.com/science/astronomers-use-artificial-intelligence-to-reveal-the-true-shape-of-universe-396217/amp"
+    type: article
+    provider:
+      name: WION
+      domain: wionews.com
+    quality: 47
+    images:
+      - url: "https://cdn.wionews.com/sites/default/files/styles/story_page/public/2021/07/06/201237-oof.jpg"
+        width: 918
+        height: 506
         isCached: true
 
 secured: "4YPsaR0UJfVBK0CVLKert6HslQkgYOAMF9/9xYJM1KjH3JbpZzWTzGN+wwJ6NBOr2yykxOSpGmoUpVjK6PybXZLQtNltkYzXuKO207of5Sm3f047sqeMwL0+11vqzFiDDAtKNiMsO3bHBS8llaU2A6DdAW0pc/h4Kxu6PuqwJUEIvmKx921wJsN4c4GI4xiC+DRGev9PiSTegRZu4tFPr6vC/e/MnJdIdyE0XEOFigeDsu08BWHoqENuVu6pLc2NRdE0M2rwl/ntxngsw4XQafU0s9ihtEfbVY+HhPRopk2HKH8hxZthRKyXtJio2pLKslrcfoLG4MN7+U7UkIYxZTOYMiy9m7Q9rGDbiJ/Zon0=;mSCdNdlshrx4GWIl8QiUOQ=="

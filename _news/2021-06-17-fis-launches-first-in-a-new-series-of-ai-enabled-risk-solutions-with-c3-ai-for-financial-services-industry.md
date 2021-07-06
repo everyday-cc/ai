@@ -1,26 +1,20 @@
 ---
 category: news
 title: "FIS Launches First in a New Series of AI-Enabled Risk Solutions with C3 AI for Financial Services Industry"
-excerpt: "FIS AML Compliance Hub is the first in a new line of AI-based solutions from FIS for capital markets firms. New solution uses artificial technology to aggregate and analyze client data across financial crime detection systems such as know your customer (KYC) and anti-money laundering (AML) to improve outcomes."
-publishedDateTime: 2021-06-17T09:41:00Z
-originalUrl: "https://financialit.net/news/artificial-intelligence/fis-launches-first-new-series-ai-enabled-risk-solutions-c3-ai-financial"
-webUrl: "https://financialit.net/news/artificial-intelligence/fis-launches-first-new-series-ai-enabled-risk-solutions-c3-ai-financial"
+excerpt: "The AML Compliance Hub leverages C3 AI’s advanced machine learning technology ... fast-moving challenges for the financial services sector, and the data necessary to identify financial crimes ..."
+publishedDateTime: 2021-06-17T12:20:00Z
+originalUrl: "https://www.businesswire.com/news/home/20210617005027/en/FIS-Launches-First-in-a-New-Series-of-AI-Enabled-Risk-Solutions-with-C3-AI-for-Financial-Services-Industry"
+webUrl: "https://www.businesswire.com/news/home/20210617005027/en/FIS-Launches-First-in-a-New-Series-of-AI-Enabled-Risk-Solutions-with-C3-AI-for-Financial-Services-Industry"
 type: article
 
 provider:
-  name: Financial IT
-  domain: financialit.net
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
   - AI in Finance
   - AI
 
-images:
-  - url: "https://financialit.net/sites/default/files/new_fis_logo_0.jpg"
-    width: 1200
-    height: 627
-    isCached: true
-
-secured: "XWzXUoBryMnhnB2+8a+nJOOf3aEoZ2PjoYxVusAEE6lxg9mVJgRYQp6o9vTLhBjV2LLJONTHdLtQMqoMGZRY800r7GISWv/sq1RIvByoYRPuTCi15LQIWg6nCxAxTRYJ7klGj7hT0CV9wpoLmK2j0VmuTQLNXZCMb0epGqgDS46M4NLpumsPqPRHEJp7w3iKjunkaRujjg97/ag6kdczP2LevhRQTBn9REjbB0Ta58wu2vVRDLR3zCuIh2hwinMgeRqTFVJA8UNcN7O6kz3V4PPqtoBZmCbFF25pPLZYPGicFcKOrsaeQ4Pu2vB9w2v/PX+iHMl8qhG0Fn+RLw7G5Bg3VziLoR2rdyr03Y4Yrag=;Sagc0oYLspjK/kSsGooZWg=="
+secured: "VpH9gJmSYbIuCmhmAcyls7UBQXOal5fILT86PrLC79qME+Rg+66gTNhMp268YSepcrRWz1XyQwVvANJBZSqZEu8dtJUmmOt9uH00nAuHmADdYH/yF3kEqKmM+Ei2oBZPJaBwScOpBYGbixq1iPXaMvSNIrrRFWNLhSVa6F+HlniSPP+Wxx8XH6oykgO7zz7rSkeY0+sCZvkdTKvbVceabafVDImDzaSRHj11KOTUBAT7MQUJfU3OCm3A3h6T8kh/CtZZGivJUP3AEuCcuCR0J29QLtBxnXPxoRicppUEQp7mYJ6zXm6EqEIsE4x8HsWSd0kb/r6ffLRm0D7OYXn/OuhA8BgYW8n3K5lcPQMmNbo=;e+nZBtddPexeG0m2pPekvw=="
 ---
 

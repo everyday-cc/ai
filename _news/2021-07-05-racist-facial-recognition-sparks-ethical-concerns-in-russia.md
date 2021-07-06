@@ -39,6 +39,22 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 86
+  - title: "Analysis - 'Racist' facial recognition sparks ethical concerns in Russia"
+    excerpt: "The rise of facial recognition is accompanied by a growing chorus of concern about unethical uses of the technology."
+    publishedDateTime: 2021-07-06T10:17:00Z
+    webUrl: "https://www.astroawani.com/berita-dunia/analysis-racist-facial-recognition-sparks-ethical-concerns-russia-306772"
+    ampWebUrl: "https://www.astroawani.com/berita-dunia/analysis-racist-facial-recognition-sparks-ethical-concerns-russia-306772?amp=1"
+    cdnAmpWebUrl: "https://www-astroawani-com.cdn.ampproject.org/c/s/www.astroawani.com/berita-dunia/analysis-racist-facial-recognition-sparks-ethical-concerns-russia-306772?amp=1"
+    type: article
+    provider:
+      name: Astro Awani
+      domain: astroawani.com
+    quality: 75
+    images:
+      - url: "https://img.astroawani.com/2021-07/81625479627_CHINA.jpg"
+        width: 590
+        height: 400
+        isCached: true
   - title: "Reuters: ‘Racist’ facial recognition sparks ethical concerns in Russia"
     excerpt: "From scanning residents’ faces to let them into their building to spotting police suspects in a crowd, the rise of facial recognition is accompanied by a growing chorus of concern about unethical uses of the technology."
     publishedDateTime: 2021-07-05T06:30:00Z

@@ -2,6 +2,59 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-07-06-elon-musk-tesla-to-release-new-ui-with-mind-of-car-view-coming-to-cars-with-fsd-computer.md",
+      "title": "Elon Musk: Tesla to release new UI with ‘mind of car’ view coming to cars with FSD computer",
+      "excerpt": "Elon Musk: has confirmed that Tesla will release a new user interface with its upcoming FSD v9 Beta software update. The updated UI will have something that the CEO referred to as “mind of car’ view.",
+      "sourceUrl": null,
+      "webUrl": "https://electrek.co/2021/07/06/elon-musk-tesla-ui-mind-of-car-view-fsd-computer/",
+      "originalUrl": "https://electrek.co/2021/07/06/elon-musk-tesla-ui-mind-of-car-view-fsd-computer/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i1.wp.com/electrek.co/wp-content/uploads/sites/3/2021/03/Tesla-full-self-driving.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://electrek.co/2021/07/06/elon-musk-tesla-ui-mind-of-car-view-fsd-computer/amp/",
+      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/07/06/elon-musk-tesla-ui-mind-of-car-view-fsd-computer/amp/",
+      "publishedDateTime": "2021-07-06T03:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Electrek",
+        "domain": "electrek.co",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2021-07-05-analysis-racist-facial-recognition-sparks-ethical-concerns-in-russia.md",
       "title": "Analysis-'Racist' facial recognition sparks ethical concerns in Russia",
       "excerpt": "From scanning residents’ faces to let them into their building to spotting police suspects in a crowd, the rise of facial recognition is accompanied by a growing chorus of concern about unethical uses of the technology.",
@@ -10,7 +63,7 @@
       "originalUrl": "https://www.reuters.com/article/uk-russia-tech-race/analysis-racist-facial-recognition-sparks-ethical-concerns-in-russia-idUSKCN2EB0BC",
       "featuredContent": null,
       "highlight": null,
-      "heat": 106,
+      "heat": 116,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -46,21 +99,21 @@
       ]
     },
     {
-      "path": "_news/2021-07-02-adversa-ai-red-team-introduces-technology-for-ethical-hacking-of-facial-recognition-systems.md",
-      "title": "Adversa AI Red Team Introduces Technology for Ethical Hacking of Facial Recognition Systems",
-      "excerpt": "The Adversa AI Red Team has performed a proof-of-concept attack on PimEyes, the most popular and advanced public picture face search engine. FREMONT, CA: Adversa AI, a trusted AI research leader, has presented a novel attack method for AI facial recognition applications.",
+      "path": "_news/2021-07-02-maine-now-has-the-toughest-facial-recognition-restrictions-in-the-us.md",
+      "title": "Maine Now Has the Toughest Facial Recognition Restrictions in the U.S.",
+      "excerpt": "The new law prohibits use of the technology across all levels of state, county, and municipal government, with limited exceptions for law enforcement.",
       "sourceUrl": null,
-      "webUrl": "https://www.cioapplications.com/news/adversa-ai-red-team-introduces-technology-for-ethical-hacking-of-facial-recognition-systems--nid-8028.html",
-      "originalUrl": "https://www.cioapplications.com/news/adversa-ai-red-team-introduces-technology-for-ethical-hacking-of-facial-recognition-systems--nid-8028.html",
+      "webUrl": "https://slate.com/technology/2021/07/maine-facial-recognition-government-use-law.html",
+      "originalUrl": "https://slate.com/technology/2021/07/maine-facial-recognition-government-use-law.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 71,
+      "heat": 154,
       "tags": null,
       "images": [
         {
-          "url": "https://www.cioapplications.com/newstransfer/upload/m2u1g450308.jpg",
-          "width": 450,
-          "height": 308,
+          "url": "https://compote.slate.com/images/cfdef433-ca60-4077-8748-01acfcc00e80.jpeg?width=780&height=520&rect=3500x2333&offset=0x0",
+          "width": 780,
+          "height": 520,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -68,13 +121,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-02T06:57:00-07:00",
+      "ampWebUrl": "https://slate.com/technology/2021/07/maine-facial-recognition-government-use-law.amp",
+      "cdnAmpWebUrl": "https://slate-com.cdn.ampproject.org/c/s/slate.com/technology/2021/07/maine-facial-recognition-government-use-law.amp",
+      "publishedDateTime": "2021-07-02T02:50:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "CIO Applications",
-        "domain": "cioapplications.com",
+        "name": "Slate",
+        "domain": "slate.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -85,8 +138,7 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI",
-        "AI Ethics"
+        "AI"
       ]
     },
     {
@@ -1352,49 +1404,6 @@
         "name": "FOX 40 WICZ TV",
         "domain": "wicz.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-21-eu-privacy-watchdogs-call-for-ban-on-facial-recognition-in-public-spaces.md",
-      "title": "EU Privacy Watchdogs Call for Ban on Facial Recognition in Public Spaces",
-      "excerpt": "Europe's two privacy watchdogs teamed up on Monday to call for a ban on the use of facial recognition in public spaces, going against draft European Union rules which would allow the technology to be used for public security reasons.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usnews.com/news/technology/articles/2021-06-21/eu-privacy-watchdogs-call-for-ban-on-facial-recognition-in-public-spaces",
-      "originalUrl": "https://www.usnews.com/news/technology/articles/2021-06-21/eu-privacy-watchdogs-call-for-ban-on-facial-recognition-in-public-spaces",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-21T05:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "U.S. News & World Report",
-        "domain": "usnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

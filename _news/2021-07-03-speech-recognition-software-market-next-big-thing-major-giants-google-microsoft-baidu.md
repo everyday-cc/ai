@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/speech-recognition-softw
 webUrl: "https://www.marketwatch.com/press-release/speech-recognition-software-market-next-big-thing-major-giants-google-microsoft-baidu-2021-07-03"
 type: article
 quality: 92
-heat: 212
+heat: 202
 published: true
 
 provider:
@@ -151,15 +151,6 @@ related:
         width: 604
         height: 404
         isCached: true
-  - title: "Voice Recognition Software Market May Set New Growth Story | E-speaking, Nuance, Talktyper, Microsoft, Google"
-    excerpt: "The latest research on “Global Voice Recognition Software Report 2021” offered by HTF MI provides a comprehensive investigation into the geographical landscape, industry size along with the revenue estimation of the business."
-    publishedDateTime: 2021-07-01T17:34:00Z
-    webUrl: "https://ksusentinel.com/2021/07/01/voice-recognition-software-market-may-set-new-growth-story-e-speaking-nuance-talktyper-microsoft-google/"
-    type: article
-    provider:
-      name: The Sentinel
-      domain: ksusentinel.com
-    quality: 2
 
 secured: "RbqrIoOoqT6BQrP0uOq5zxscwZbHq5O538BC2fdyDj5dZPZOQDL4Dl2cO932Bj+IW65Fxo9k1gRJuUwyKcAnnl7+FrmFblV0h+4zTLxETLOJTj+1On3aI40Yn+9EYSNhdaq40MItmpoNQgJllfJJXcmuyDLgr4Ju1tLqmeotQpDwcvJ3axro0RGsUAqxtXjOC0czxvx2yRV+h4l6E3ZY5H7+Twy7SIbVY37XcEvQ51MrGpahuXEX6z0Dx9fCs+e4PUWAtJkQPw7Xfv+pvoGysk0BzaSOQCz7bnRCdUVZRJoQWaXPTq/ax5okdkolchd+69n6ZReU02h3v7VxPgDIaya8pRy+RPQmn/qBMr7cVCM=;vwAXH3Dt/Bd6928/zu6F5A=="
 ---

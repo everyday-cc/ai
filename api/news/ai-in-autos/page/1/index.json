@@ -2,6 +2,59 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-07-06-elon-musk-tesla-to-release-new-ui-with-mind-of-car-view-coming-to-cars-with-fsd-computer.md",
+      "title": "Elon Musk: Tesla to release new UI with ‘mind of car’ view coming to cars with FSD computer",
+      "excerpt": "Elon Musk: has confirmed that Tesla will release a new user interface with its upcoming FSD v9 Beta software update. The updated UI will have something that the CEO referred to as “mind of car’ view.",
+      "sourceUrl": null,
+      "webUrl": "https://electrek.co/2021/07/06/elon-musk-tesla-ui-mind-of-car-view-fsd-computer/",
+      "originalUrl": "https://electrek.co/2021/07/06/elon-musk-tesla-ui-mind-of-car-view-fsd-computer/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i1.wp.com/electrek.co/wp-content/uploads/sites/3/2021/03/Tesla-full-self-driving.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://electrek.co/2021/07/06/elon-musk-tesla-ui-mind-of-car-view-fsd-computer/amp/",
+      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/07/06/elon-musk-tesla-ui-mind-of-car-view-fsd-computer/amp/",
+      "publishedDateTime": "2021-07-06T03:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Electrek",
+        "domain": "electrek.co",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2021-07-05-elon-musk-admits-self-driving-is-harder-than-he-thought-as-tesla-owners-troll-him-over-missed-deadlines.md",
       "title": "Elon Musk admits self-driving is harder than he thought as Tesla owners troll him over missed deadlines",
       "excerpt": "Elon Musk is admitting that self-driving is a harder problem than he originally thought as some Tesla owners are trolling him over yet another missed deadline for Tesla’s self-driving program. The man has a long history of failed predictions regarding Tesla bringing a true self-driving system to market.",
@@ -115,7 +168,7 @@
       "originalUrl": "https://venturebeat.com/2021/07/03/tesla-ai-chief-explains-why-self-driving-cars-dont-need-lidar/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 136,
+      "heat": 126,
       "tags": null,
       "images": [
         {
@@ -168,7 +221,7 @@
       "originalUrl": "https://www.forbes.com/sites/lanceeliot/2021/07/02/rating-the-fast-and-furious-movies-hottest-vehicles-and-gazing-into-the-future-toward-an-era-of-ai-self-driving-cars/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 76,
+      "heat": 86,
       "tags": null,
       "images": [
         {
@@ -1387,49 +1440,6 @@
       "provider": {
         "name": "WION",
         "domain": "wionews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-22-why-self-driving-cars-arent-coming-any-time-soon-with-dr-missy-cummings.md",
-      "title": "Why Self-Driving Cars Aren’t Coming Any Time Soon with Dr. Missy Cummings",
-      "excerpt": "Dr. Missy Cummings, AI researcher and director of the Humans and Autonomy Laboratory at Duke, joins Adam to detail the massive gap between Silicon Valley’s promises and the technology’s limitations, and explain the real benefits that might come when we use AI to enhance human capability rather than replace us.",
-      "sourceUrl": null,
-      "webUrl": "https://www.earwolf.com/episode/why-self-driving-cars-arent-coming-any-time-soon-with-dr-missy-cummings/",
-      "originalUrl": "https://www.earwolf.com/episode/why-self-driving-cars-arent-coming-any-time-soon-with-dr-missy-cummings/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.earwolf.com/wp-content/uploads/2019/05/EARWOLF_COVER_Factually_3000x3000_10thAnni_Final-1024x1024.jpg",
-          "width": 1024,
-          "height": 1024,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-21T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Earwolf",
-        "domain": "earwolf.com",
         "images": null,
         "publishers": null,
         "authors": null

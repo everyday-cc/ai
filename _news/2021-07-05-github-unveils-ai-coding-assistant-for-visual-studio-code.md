@@ -24,6 +24,20 @@ images:
     isCached: true
 
 related:
+  - title: "GitHub’s new AI tool doesn’t violate copyrights, says expert"
+    excerpt: "A German researcher and politician, Julia Reda, has argued on her blog that GitHub's tool doesn't violate copyrights."
+    publishedDateTime: 2021-07-06T10:00:00Z
+    webUrl: "https://thenextweb.com/news/github-copilot-ai-copyright-analysis"
+    type: article
+    provider:
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 67
+    images:
+      - url: "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F06%2FGitHub-copilot.jpg&signature=3e32fff6cefdafe457e8e82d06209e49"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "GitHub Copilot AI Is Generating And Giving Out Functional API Keys"
     excerpt: "Microsoft, in partnership with OpenAI, made Copilot available on GitHub. For starters, it’s an assistant that can help you with better code suggestions, but it has been recently brought to notice that the AI is leaking API keys that are valid and still functional."
     publishedDateTime: 2021-07-05T13:39:00Z

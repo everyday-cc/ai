@@ -2,6 +2,40 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-06-16-mydecine-unveils-artificial-intelligence-drug-discovery-program.md",
+      "title": "Mydecine Unveils Artificial Intelligence Drug Discovery Program",
+      "excerpt": "Led by top computer-aided drug development expert, Dr. Khaled Barakat, the program is focused on developing artificial intelligence/machine learning (AI/ML) supported drug screenings, including both the ability to build drugs from the receptor up and assess drugs around the receptors of Mydecine’s choosing.",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/-mydecine-unveils-artificial-intelligence-drug-discovery-program-/2021/06/16/9391456.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-mydecine-unveils-artificial-intelligence-drug-discovery-program-/2021/06/16/9391456.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-16T04:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-15-visionquest-uses-artificial-intelligence-to-screen-40000-patients-for-diabetic-retinopathy.md",
       "title": "VisionQuest Uses Artificial Intelligence to Screen 40,000 Patients for Diabetic Retinopathy",
       "excerpt": "VisionQuest Biomedical Inc. announces that the company has used the EyeStar artificial intelligence (AI) software to screen over 40,000 patients for d",
@@ -1260,49 +1294,6 @@
       "provider": {
         "name": "American College of Cardiology",
         "domain": "acc.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-04-discover-the-power-of-your-sexuality-with-artificial-intelligence.md",
-      "title": "Discover The Power Of Your Sexuality With Artificial Intelligence",
-      "excerpt": "Chances are that you have an app tailored to improve pretty much every aspect of your life, from diet and exercise to state of mind. So why not do the same for your sexual well-being? [...]",
-      "sourceUrl": null,
-      "webUrl": "https://thewestsidegazette.com/discover-the-power-of-your-sexuality-with-artificial-intelligence/",
-      "originalUrl": "https://thewestsidegazette.com/discover-the-power-of-your-sexuality-with-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/prod-zenger-storage/image/16-9_9e9b8fb8-437d-4806-8695-be81d4eeb447.jpg?20210528102637",
-          "width": 1023,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-03T10:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Westside Gazette",
-        "domain": "thewestsidegazette.com",
         "images": null,
         "publishers": null,
         "authors": null

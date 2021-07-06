@@ -2,6 +2,59 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-06-10-microsoft-says-cryptomining-attacks-are-targeting-kubernetes.md",
+      "title": "Microsoft says cryptomining attacks are targeting Kubernetes",
+      "excerpt": "explains that they spotted the campaign late in May intrigued by a spike in deployments of TensorFlow pods in various Kubernetes clusters. In his analysis of the campaign, Weizman explains that ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.techradar.com/news/microsoft-says-cryptomining-attacks-are-targeting-kubernetes",
+      "originalUrl": "https://www.techradar.com/news/microsoft-says-cryptomining-attacks-are-targeting-kubernetes",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/yaTc7yRkfydWWSj2tD8dGH-480-80.jpg",
+          "width": 480,
+          "height": 270,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techradar.com/amp/news/microsoft-says-cryptomining-attacks-are-targeting-kubernetes",
+      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/microsoft-says-cryptomining-attacks-are-targeting-kubernetes",
+      "publishedDateTime": "2021-06-10T04:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-09-moduleq-the-people-facing-ai-company-achieves-iso-27001-certification-for-information-security.md",
       "title": "ModuleQ, the People-Facing AI® Company, Achieves ISO 27001 Certification for Information Security",
       "excerpt": "ModuleQ, the AI solutions company that empowers professionals with business-relevant timely insights, announced today the achievement of ISO 27001:2013 certification for its information security management practices,",
@@ -1236,41 +1289,6 @@
       "topics": [
         "Microsoft AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-01-deep-learning-suppliers-strategic-positioning-and-benchmark-report-2021-google-ibm-intel-micron-technology-microsoft-sensory-inc-nvidia.md",
-      "title": "Deep Learning Suppliers Strategic Positioning and Benchmark Report 2021: Google, IBM, Intel, Micron Technology, Microsoft, Sensory Inc., Nvidia, and Samsung ...",
-      "excerpt": "DUBLIN--(BUSINESS WIRE)--The \"Deep Learning Suppliers Strategic Positioning and Leadership Quadrant\" report has been added to ResearchAndMarkets.com's offering. This report offers a full competitive analysis from target markets to product mapping ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.businesswire.com/news/home/20210601005409/en/",
-      "originalUrl": "https://www.businesswire.com/news/home/20210601005409/en/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-31T21:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

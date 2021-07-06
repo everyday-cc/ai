@@ -2,6 +2,326 @@
   "page": 25,
   "value": [
     {
+      "path": "_news/2021-06-16-the-reality-behind-the-ai-illusion.md",
+      "title": "The Reality Behind The AI Illusion",
+      "excerpt": "Being actively involved in the global AI community, I've noticed that many people still associate AI with sci-fi Hollywood movies displaying the distant future powered by intelligent robots and machines.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/06/16/the-reality-behind-the-ai-illusion/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/06/16/the-reality-behind-the-ai-illusion/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F603e786d0bca97dcd24fb25a%2F0x0.jpg%3FcropX1%3D209%26cropX2%3D1404%26cropY1%3D0%26cropY2%3D672",
+          "width": 1195,
+          "height": 672,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/06/16/the-reality-behind-the-ai-illusion/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/06/16/the-reality-behind-the-ai-illusion/amp/",
+      "publishedDateTime": "2021-06-16T05:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2021-06-16-alphabets-self-driving-car-company-waymo-announces-25-billion-investment-round.md",
+      "title": "Alphabet's self-driving car company Waymo announces $2.5 billion investment round",
+      "excerpt": "Google sibling company Waymo announced a $2.5 billion investment round Wednesday, which will go toward advancing its autonomous driving technology and growing its team. The round includes funding from Waymo parent company Alphabet,",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2021/06/16/alphabets-waymo-raises-2point5-billion-in-new-investment-round.html",
+      "originalUrl": "https://www.msn.com/en-us/finance/companies/alphabets-self-driving-car-company-waymo-announces-2425-billion-investment-round/ar-AAL6F70",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 384,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/105930488-1558638540445gettyimages-1061811620.jpeg?v=1623845457",
+          "width": 5300,
+          "height": 3535,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2021/06/16/alphabets-waymo-raises-2point5-billion-in-new-investment-round.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/06/16/alphabets-waymo-raises-2point5-billion-in-new-investment-round.html",
+      "publishedDateTime": "2021-06-16T05:30:01-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "com/2021/06/16/alphabets-waymo-raises-2point5-billion-in-new-investment-round.html",
+        "domain": "com/2021/06/16/alphabets-waymo-raises-2point5-billion-in-new-investment-round.html",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2021-06-16-cogstack-wins-an-artificial-intelligence-in-health-and-care-award.md",
+      "title": "CogStack wins an Artificial Intelligence in Health and Care Award",
+      "excerpt": "CogStack wins an Artificial Intelligence in Health and Care Award. Cogstack is an information retrieval, extraction and natural language processing platform develope",
+      "sourceUrl": null,
+      "webUrl": "https://www.kcl.ac.uk/news/cogstack-wins-an-artificial-intelligence-in-health-and-care-award",
+      "originalUrl": "https://www.kcl.ac.uk/news/cogstack-wins-an-artificial-intelligence-in-health-and-care-award",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.kcl.ac.uk/image-library/ioppn-news/scientist-with-laptop-clipboard-and-display-of-human-anatomy.x2b64218b.jpg?w=808&h=440&crop=780,440,14,0&f=webp",
+          "width": 780,
+          "height": 440,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-16T05:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "kcl.ac.uk",
+        "domain": "kcl.ac.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-16-new-workload-sharing-framework-drives-breakthroughs-in-ai-based-application-performance.md",
+      "title": "New workload sharing framework drives breakthroughs in AI-based application performance",
+      "excerpt": "Intel Deep Link technology lets CPUs and GPUs run AI-powered applications at blazing speeds and without compromising the user experience.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/06/16/new-workload-sharing-framework-drives-breakthroughs-in-ai-based-application-performance/",
+      "originalUrl": "https://venturebeat.com/2021/06/16/new-workload-sharing-framework-drives-breakthroughs-in-ai-based-application-performance/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/06/image.png?w=1200&strip=all",
+          "width": 354,
+          "height": 235,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/06/16/new-workload-sharing-framework-drives-breakthroughs-in-ai-based-application-performance/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/16/new-workload-sharing-framework-drives-breakthroughs-in-ai-based-application-performance/amp/",
+      "publishedDateTime": "2021-06-16T05:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-16-machine-learning-can-reduce-worry-about-nanoparticles-in-food.md",
+      "title": "Machine learning can reduce worry about nanoparticles in food",
+      "excerpt": "Scientists can predict whether metallic nanoparticles in soil are likely to be absorbed by plants, which could cause toxicity.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nanowerk.com/nanotechnology-news2/newsid=58254.php",
+      "originalUrl": "https://www.nanowerk.com/nanotechnology-news2/newsid=58254.php",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-16T05:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nanowerk",
+        "domain": "nanowerk.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-16-google-ai-designs-computer-chips-faster-than-humans-can.md",
+      "title": "Google AI Designs Computer Chips Faster Than Humans Can",
+      "excerpt": "Search engine giant Google has recently claimed that it developed a new artificial intelligence (AI) software capable of designing microchips much faster than humans can. In a paper recently published in the journal Nature,",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibtimes.com/google-ai-designs-computer-chips-faster-humans-can-3224891",
+      "originalUrl": "https://www.ibtimes.com/google-ai-designs-computer-chips-faster-humans-can-3224891",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/05/26/google-is-expanding-its-operations-in-health-with.jpg",
+          "width": 1024,
+          "height": 682,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.ibtimes.com/google-ai-designs-computer-chips-faster-humans-can-3224891?amp=1",
+      "cdnAmpWebUrl": "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/google-ai-designs-computer-chips-faster-humans-can-3224891?amp=1",
+      "publishedDateTime": "2021-06-16T05:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "International Business Times",
+        "domain": "ibtimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-16-harnessing-healthcares-data-explosion-with-ai-based-natural-language-processing.md",
+      "title": "Harnessing Healthcare’s Data Explosion With AI-Based Natural Language Processing",
+      "excerpt": "By creating efficiencies that minimize tedious searches and deliver users the specific information they need when they need it, clinicians can spend less time on the computer and more time interacting with patients.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/06/16/harnessing-healthcares-data-explosion-with-ai-based-natural-language-processing/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/06/16/harnessing-healthcares-data-explosion-with-ai-based-natural-language-processing/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 136,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f32974509df6c340752fce0%2F0x0.jpg",
+          "width": 1200,
+          "height": 633,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/06/16/harnessing-healthcares-data-explosion-with-ai-based-natural-language-processing/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/06/16/harnessing-healthcares-data-explosion-with-ai-based-natural-language-processing/amp/",
+      "publishedDateTime": "2021-06-16T04:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2021-06-16-is-ai-the-answer-to-recruiting-effectiveness.md",
       "title": "Is AI The Answer To Recruiting Effectiveness?",
       "excerpt": "Engaging a talent acquisition strategy that leverages today’s powerful technology with experienced human talent acquisition professionals will prove to be the most successful way to win the battle for top talent in the future.",
@@ -850,350 +1170,6 @@
       "topics": [
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-16-fedex-and-nuro-launch-pilot-program-to-test-self-driving-delivery-vehicle.md",
-      "title": "FedEx and Nuro launch pilot program to test self-driving delivery vehicle",
-      "excerpt": "FedEx has announced a new multi-year deal with self-driving technology company Nuro to test its autonomous delivery vehicle under a pilot program. According to FedEx, the arrangement includes a",
-      "sourceUrl": null,
-      "webUrl": "https://www.slashgear.com/fedex-and-nuro-launch-pilot-program-to-test-self-driving-delivery-vehicle-15678407/",
-      "originalUrl": "https://www.slashgear.com/fedex-and-nuro-launch-pilot-program-to-test-self-driving-delivery-vehicle-15678407/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 143,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.slashgear.com/wp-content/uploads/2021/06/nuro_fedex_main.jpg",
-          "width": 1440,
-          "height": 849,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.slashgear.com/fedex-and-nuro-launch-pilot-program-to-test-self-driving-delivery-vehicle-15678407/amp/",
-      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/fedex-and-nuro-launch-pilot-program-to-test-self-driving-delivery-vehicle-15678407/amp/",
-      "publishedDateTime": "2021-06-15T13:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SlashGear",
-        "domain": "slashgear.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/slashgear.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-16-6-ai-stocks-to-watch-for-rapid-growth.md",
-      "title": "6 AI Stocks to Watch for Rapid Growth",
-      "excerpt": "AI is transformative not just for the investment landscape, but it will change how we live and work. As demand for this technology grows, it seems likely that so too will interest in AI stocks. There will be winners and losers to be sure,",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/6-ai-stocks-to-watch-for-rapid-growth-2021-06-15",
-      "originalUrl": "https://www.nasdaq.com/articles/6-ai-stocks-to-watch-for-rapid-growth-2021-06-15",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/6-ai-stocks-to-watch-for-rapid-growth-2021-06-15?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/6-ai-stocks-to-watch-for-rapid-growth-2021-06-15?amp",
-      "publishedDateTime": "2021-06-15T12:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-16-enterprise-ai-budgets-are-up-55-over-2020-appen-says.md",
-      "title": "Enterprise AI budgets are up 55% over 2020, Appen says",
-      "excerpt": "Appen State of AI report found enterprises are accelerating their AI strategies as a result of the pandemic and increasing budgets.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/06/15/enterprise-ai-budgets-up-55-percent-over-2020-appen-says/",
-      "originalUrl": "https://venturebeat.com/2021/06/15/enterprise-ai-budgets-up-55-percent-over-2020-appen-says/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/10/Tech_money-e1623779327666.jpg?fit=800%2C533&strip=all",
-          "width": 800,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/06/15/enterprise-ai-budgets-up-55-percent-over-2020-appen-says/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/15/enterprise-ai-budgets-up-55-percent-over-2020-appen-says/amp/",
-      "publishedDateTime": "2021-06-15T11:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-16-fedex-to-test-package-deliveries-with-self-driving-startup-nuro.md",
-      "title": "FedEx to test package deliveries with self-driving startup Nuro",
-      "excerpt": "FedEx Corp and robotics company Nuro on Tuesday announced a multi-year agreement to test self-driving vehicles in the package delivery company's network, starting with a pilot program in Houston.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/autos-nuro-fedex/fedex-to-test-package-deliveries-with-self-driving-startup-nuro-idUSL2N2NW11I",
-      "originalUrl": "https://www.reuters.com/article/autos-nuro-fedex/fedex-to-test-package-deliveries-with-self-driving-startup-nuro-idUSL2N2NW11I",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 154,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20210615&t=2&i=1565798969&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEH5E136",
-          "width": 818,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKCN2DR1F9",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN2DR1F9",
-      "publishedDateTime": "2021-06-15T10:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-15-elisity-raises-26m-series-a-to-scale-its-ai-cybersecurity-platform.md",
-      "title": "Elisity raises $26M Series A to scale its AI cybersecurity platform",
-      "excerpt": "Elisity, a self-styled innovator that provides behavior-based enterprise cybersecurity, has raised $26 million in Series A funding. The funding round was co-led by Two Bear Capital and AllegisCyber Capital,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/06/15/elisity-raises-26m-series-a-to-scale-its-ai-cybersecurity-platform/",
-      "originalUrl": "https://techcrunch.com/2021/06/15/elisity-raises-26m-series-a-to-scale-its-ai-cybersecurity-platform/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/06/GettyImages-847829192.jpg?w=1024",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/06/15/elisity-raises-26m-series-a-to-scale-its-ai-cybersecurity-platform/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/06/15/elisity-raises-26m-series-a-to-scale-its-ai-cybersecurity-platform/amp/",
-      "publishedDateTime": "2021-06-15T09:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-15-zillow-taps-ai-to-improve-its-home-value-estimates.md",
-      "title": "Zillow Taps AI to Improve Its Home Value Estimates",
-      "excerpt": "By employing a neural network, the company says its numbers will be more accurate—and allow it to offer to buy more homes.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/zillow-taps-ai-improve-home-value-estimates/",
-      "originalUrl": "https://www.wired.com/story/zillow-taps-ai-improve-home-value-estimates/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 187,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/60c7f9fe84a20f8f38b93271/master/pass/business_zillow_1182960600.jpg",
-          "width": 2400,
-          "height": 1600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/zillow-taps-ai-improve-home-value-estimates/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/zillow-taps-ai-improve-home-value-estimates/amp",
-      "publishedDateTime": "2021-06-15T09:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-15-heres-why-ibm-is-wading-deeper-into-hybrid-cloud-waters-as-it-should.md",
-      "title": "Here's Why IBM Is Wading Deeper Into Hybrid Cloud Waters (as It Should)",
-      "excerpt": "Big Blue may be late to the party, but it's not too late for the company to leverage even just a little market share into a lot of revenue.",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2021/06/15/why-ibm-wading-deeper-in-hybrid-cloud-computing/",
-      "originalUrl": "https://www.fool.com/investing/2021/06/15/why-ibm-wading-deeper-in-hybrid-cloud-computing/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F630282%2Fman-wading-into-water-holding-an-umbrella-in-the-rain.jpg&w=1200&op=resize",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.fool.com/amp/investing/2021/06/15/why-ibm-wading-deeper-in-hybrid-cloud-computing/",
-      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/06/15/why-ibm-wading-deeper-in-hybrid-cloud-computing/",
-      "publishedDateTime": "2021-06-15T09:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],

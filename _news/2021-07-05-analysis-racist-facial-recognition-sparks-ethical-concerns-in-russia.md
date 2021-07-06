@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN2EB0BC"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN2EB0BC"
 type: article
 quality: 86
-heat: 106
+heat: 116
 published: true
 
 provider:
@@ -41,6 +41,22 @@ related:
       - url: "https://englishtribuneimages.blob.core.windows.net/gallary-content/2021/7/2021_7$largeimg_1666379979.jpg"
         width: 612
         height: 408
+        isCached: true
+  - title: "Analysis - 'Racist' facial recognition sparks ethical concerns in Russia"
+    excerpt: "The rise of facial recognition is accompanied by a growing chorus of concern about unethical uses of the technology."
+    publishedDateTime: 2021-07-06T10:17:00Z
+    webUrl: "https://www.astroawani.com/berita-dunia/analysis-racist-facial-recognition-sparks-ethical-concerns-russia-306772"
+    ampWebUrl: "https://www.astroawani.com/berita-dunia/analysis-racist-facial-recognition-sparks-ethical-concerns-russia-306772?amp=1"
+    cdnAmpWebUrl: "https://www-astroawani-com.cdn.ampproject.org/c/s/www.astroawani.com/berita-dunia/analysis-racist-facial-recognition-sparks-ethical-concerns-russia-306772?amp=1"
+    type: article
+    provider:
+      name: Astro Awani
+      domain: astroawani.com
+    quality: 75
+    images:
+      - url: "https://img.astroawani.com/2021-07/81625479627_CHINA.jpg"
+        width: 590
+        height: 400
         isCached: true
   - title: "Reuters: ‘Racist’ facial recognition sparks ethical concerns in Russia"
     excerpt: "From scanning residents’ faces to let them into their building to spotting police suspects in a crowd, the rise of facial recognition is accompanied by a growing chorus of concern about unethical uses of the technology."

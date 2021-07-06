@@ -2,6 +2,49 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-06-15-tsp-stock-blasts-off-after-tusimple-sends-self-driving-truck-across-the-us.md",
+      "title": "TSP Stock Blasts Off After TuSimple Sends Self-Driving Truck Across the U.S.",
+      "excerpt": "Self-driving trucks don’t need to eat, sleep or take breaks. Currently, the entire self-driving process for TuSimple’s trucks isn’t entirely autonomous, but it’s close. Apart from the ...",
+      "sourceUrl": null,
+      "webUrl": "https://investorplace.com/hypergrowthinvesting/2021/06/tsp-stock-up-after-tusimple-sends-self-driving-truck-across-the-us/",
+      "originalUrl": "https://investorplace.com/hypergrowthinvesting/2021/06/tsp-stock-up-after-tusimple-sends-self-driving-truck-across-the-us/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://investorplace.com/wp-content/uploads/2020/10/autonomous-driving-self-driving-av-stocks-1600-1024x576.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://investorplace.com/hypergrowthinvesting/2021/06/tsp-stock-up-after-tusimple-sends-self-driving-truck-across-the-us/amp/",
+      "cdnAmpWebUrl": "https://investorplace-com.cdn.ampproject.org/c/s/investorplace.com/hypergrowthinvesting/2021/06/tsp-stock-up-after-tusimple-sends-self-driving-truck-across-the-us/amp/",
+      "publishedDateTime": "2021-06-14T13:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InvestorPlace",
+        "domain": "investorplace.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-14-heres-how-ransomware-is-going-to-fiendishly-impede-ai-self-driving-cars.md",
       "title": "Here’s How Ransomware Is Going To Fiendishly Impede AI Self-Driving Cars",
       "excerpt": "Ransomware is striking everywhere, and for which you can expect it to inevitably be aimed at self-driving cars, sadly so.",
@@ -1369,50 +1412,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-04-aws-announces-winners-of-first-deepracer-womens-league-in-india.md",
-      "title": "AWS announces winners of first DeepRacer Women's League in India",
-      "excerpt": "New Delhi, June 3 (IANS) Amazon Web Services (AWS) on Thursday announced winners of the first-ever DeepRacer Women’s League in India, held to boost women students to learn machine learning (ML ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.glamsham.com/world/technology/aws-announces-winners-of-first-deepracer-womens-league-in-india",
-      "originalUrl": "https://www.glamsham.com/world/technology/aws-announces-winners-of-first-deepracer-womens-league-in-india",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.glamsham.com/wp-content/uploads/2021/06/8cfc123217bbd72174d3ad49d9eab2d2-1.jpg",
-          "width": 400,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-03T14:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "glamsham.com",
-        "domain": "glamsham.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "AI in Autos"
       ]
     }
   ],

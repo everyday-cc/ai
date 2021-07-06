@@ -145,15 +145,6 @@ related:
         width: 604
         height: 404
         isCached: true
-  - title: "Voice Recognition Software Market May Set New Growth Story | E-speaking, Nuance, Talktyper, Microsoft, Google"
-    excerpt: "The latest research on “Global Voice Recognition Software Report 2021” offered by HTF MI provides a comprehensive investigation into the geographical landscape, industry size along with the revenue estimation of the business."
-    publishedDateTime: 2021-07-01T17:34:00Z
-    webUrl: "https://ksusentinel.com/2021/07/01/voice-recognition-software-market-may-set-new-growth-story-e-speaking-nuance-talktyper-microsoft-google/"
-    type: article
-    provider:
-      name: The Sentinel
-      domain: ksusentinel.com
-    quality: 2
 
 secured: "qgrSN1rDe3ktkKsfxNBRwOUCJ0asM9YbL0kDQtMN5XmZhzxQRkzHSy/W4lCzxkq3FKouoUc04DloFlMggMQ1p+LGpUcPFjFcXG/rxYPHp21vlUp7A1SA9S9mze/xg2brEx+H/AtqTlQMguqws4qozZi+Z5hwPZfduupxnXUqPMurB33Ph/ZxvtpTa3uu8HNQn06bXaCctSgpxwp55RMmV15ZzTA76tPwSmlfsjDIzQQW3TfNsB0CCJcO4TylYtyOmIKhlK5FdIl06S38NNHjgtUnMjed1ULjLWXkYiyP+8WCe9nVyUzNuM+m6cxB/9hJGfBttlXjjMlAloUEBCgD0FF/xXc86ddY8rtedXmHok8=;5dr88tfnfKFapzdv7TrDOQ=="
 ---

@@ -146,15 +146,6 @@ related:
       name: manometcurrent.com
       domain: manometcurrent.com
     quality: 21
-  - title: "Voice Recognition Software Market May Set New Growth Story | E-speaking, Nuance, Talktyper, Microsoft, Google"
-    excerpt: "The latest research on “Global Voice Recognition Software Report 2021” offered by HTF MI provides a comprehensive investigation into the geographical landscape, industry size along with the revenue estimation of the business."
-    publishedDateTime: 2021-07-01T17:34:00Z
-    webUrl: "https://ksusentinel.com/2021/07/01/voice-recognition-software-market-may-set-new-growth-story-e-speaking-nuance-talktyper-microsoft-google/"
-    type: article
-    provider:
-      name: The Sentinel
-      domain: ksusentinel.com
-    quality: 2
 
 secured: "xM90RyQDi8oE4yn3ngnFDNiA2vYlfiUledEsBdzg70RQNH9NJHyfFrKya1a3DoqI6laYPYL0PQohY68bv2WnOarFBPlBo6JVAc1tT/errgEWBqIwjrOqLoxHkWjsJb/Ip2G/X94TB7phbeL7QGXEK+6+pMUYfAIm0yJLDX91Om8tZz+xrTy47bTKod1Mh5C5VERHPGgXC9E6J9m2VPyEhaP5F9J8QAObHWxiaWBn0+NM0ONzsOn2UN4OzLfKov7sxUa0nlSnvUmnyoLtAee0uGQn4akC9BCiaQX3IguLiK6fjS8+5bppDc+Y/UYHLJFlM31NaXGEi2N9l34FaoMwdTGh0r0LFaHuFsBzNjGtY4M=;CYESmz0ROoK/fC/CZjHuMQ=="
 ---
