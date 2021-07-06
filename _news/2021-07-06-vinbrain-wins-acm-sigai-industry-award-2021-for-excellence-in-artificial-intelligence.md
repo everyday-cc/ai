@@ -1,21 +1,20 @@
 ---
 category: news
 title: "VinBrain wins ACM SIGAI Industry Award 2021 for Excellence in Artificial Intelligence"
-excerpt: "ACM SIGAI Industry Award for Excellence in Artificial Intelligence is granted to DrAidTM - the AI-powered Assistant product"
-publishedDateTime: 2021-07-06T12:09:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/vinbrain-wins-acm-sigai-industry-award-2021-for-excellence-in-artificial-intelligence-301325895.html"
-webUrl: "https://www.prnewswire.com/news-releases/vinbrain-wins-acm-sigai-industry-award-2021-for-excellence-in-artificial-intelligence-301325895.html"
+excerpt: "The 2021 ACM SIGAI Industry Award for Excellence in Artificial Intelligence is granted to DrAid TM - the AI-powered Assistant product for Radiologists developed by VinBrain (a subsidiary of Vingroup in Vietnam)."
+publishedDateTime: 2021-07-06T12:14:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/2021/07/06/9403270.htm"
+webUrl: "https://www.tmcnet.com/usubmit/2021/07/06/9403270.htm"
 type: article
-quality: 27
+quality: 25
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
-  - AI in Healthcare
   - AI
 
 related:
@@ -36,6 +35,6 @@ related:
         height: 235
         isCached: true
 
-secured: "M5IaDeRUxRTN4BhGQM35YO7xOSZiTbkeiBxgWU8weUZamSXKdjFaz4QCwOibJMn1rCNeso9XEBtB6R55P+gtY+kL6B3gyl0P3MuKCGrViJW0K/traXQyPzCslH/k2f8K5HEEFO8xtMHvn0hty92tLnY4Ie0MAYsEJevfZ2EqzfETHq5nEl51w+LwDa7f+J5lW8pQC8dDIsK/XxH8rlkr1MDbaxjBGRgpACLRZL3hlz0Ed92Aa+ru0XMDf9vYqgFFQ1YX204vj7Kv9RTgRWNa6a6UtV6l5ReO32tdfhg2OV9Altos9QwTif9JIAzeeciSGyBGVR2gJlAI2WvUOVOjzjFsygAkldsoj2jhGw0q0Ig=;PS4j73Jrx5iiqXQEGbxRyg=="
+secured: "X3hGeqbcmvlSPXHIuGYP9uR571GsZFBEhKptSmaRXX910vk7S6488mWbPzhKALEE3J6HeKbAENNJC2ubolF/q5xzdNNX02DLBsHAdBoaZ94bh66tSqei45kWmTpyTCFGPIYrECvJf19UEvS5+Gcxn1+WXzIWDwzxEkYcO6ubXugkcV9V0yjgVRhJKjjtRQJG9Ge6qTcPQgaTbzjhuDs5rH4uYz18suWJfFTSu2FV4fo4XDme5pDYXkL5P5s47izjQj33PuO1jVNThQvaEh0tG6x/JgDkAtNcjhUjDjODVH8vp43AQLzOEpzaC59+ALDaIqgMJxgQA4FXkE2O+E0J+0Tw+7QGpbpcNeE0JUDgbCs=;mLBIDZkDwQrlYB6qoT+UBg=="
 ---
 

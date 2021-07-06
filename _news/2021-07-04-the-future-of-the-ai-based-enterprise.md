@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techradar.com/amp/news/the-future-of-the-ai-based-enterp
 cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/the-future-of-the-ai-based-enterprise"
 type: article
 quality: 89
-heat: 129
+heat: 139
 published: true
 
 provider:
@@ -63,6 +63,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "The ethics of artificial intelligence"
+    excerpt: "While AI technologies have extraordinary potential for social and economic development, artificial intelligence presents complex and unique challenges to policymakers. AI raises significant concerns over bias,"
+    publishedDateTime: 2021-07-06T15:29:00Z
+    webUrl: "https://www.ept.ca/features/the-ethics-of-artificial-intelligence/"
+    type: article
+    provider:
+      name: EPT
+      domain: www.ept.ca
+    quality: 56
+    images:
+      - url: "https://www.ept.ca/wp-content/uploads/2021/07/AI-3.jpeg"
+        width: 724
+        height: 483
+        isCached: true
   - title: "Commerce.AI Releases AI-Generated Market Reports"
     excerpt: "Commerce.AI has released a new AI-generated market reports feature, which delivers market intelligence insights across thousands of market categories. Market reports are accessible to all and were previously only available to those with access to Commerce."
     publishedDateTime: 2021-07-02T14:51:00Z
@@ -78,13 +92,13 @@ related:
         height: 308
         isCached: true
   - title: "Aible Doubles Down on Guaranteed Impact With New Industry-First Enterprise AI Features"
-    excerpt: "Aible, the only enterprise AI that guarantees impact in one month, today announced innovations to its flagship product. Aible extends its leadership in AI for business impact with new features that empower business teams to collaborate with analysts and data science teams to guarantee impact."
-    publishedDateTime: 2021-07-06T11:04:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-aible-doubles-down-guaranteed-impact-with-new-industry-/2021/07/06/9403140.htm"
+    excerpt: "Aible, the only enterprise AI that guarantees impact in one month, today announced innovations to its flagship product. Aible extends its leadership i"
+    publishedDateTime: 2021-07-06T15:00:00Z
+    webUrl: "https://www.businesswire.com/news/home/20210706005086/en/Aible-Doubles-Down-on-Guaranteed-Impact-With-New-Industry-First-Enterprise-AI-Features"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
+      name: Business Wire
+      domain: businesswire.com
     quality: 9
 
 secured: "8QcLbKL8/rx1rlihtT7VefbGnLnwM+n4xqyAajPb/x+WWr0VMKWC+AvM8gpnIu+s84Ahgw3ih0aXJ86D2sYuk8OXKM2rNI9tS1zEwsUEPKxDuzzJ+pnqzpdD0rqyV/j2EfyP8t7fZrfjQF0dgn/J0JCKcl6skDJA7O1dgIgVxfitckLPhzjIkMLBrrA0KXf1V27uwNrU8JS0A+SAkbGO0uLqJw/A3QNG5WsSwNI8yekZqdnk3FnsSadheVsUxmDss1P+02xF7/JN/q3jqY+ye2e8PwYjIwDahVJSBxpphv2p9iKTbzmu84nqULf1LC3KLHY/TvgGdJ9Bs2ukRK5aVlv6+KCyQRlYu3Ku4nz/NVhn6PELd303aM2uDXMHgknxZRdJjBdjDm8rwAr5pbkMfwgsracPnZn3/s+eWNSjb05As1uRmbek6xnLQGapzKksQ23lXQV8I1upH+YUpohyEA5ijdhkYU+V/NawqWea8EoSvBeupwFftdXLBrM9D8EoDeh6jiRYGS9GOPLrxHzfVg==;F4gWUobji+4a8SCYaH0A/g=="

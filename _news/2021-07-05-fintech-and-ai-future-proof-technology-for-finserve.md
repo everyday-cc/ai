@@ -66,6 +66,20 @@ related:
         width: 880
         height: 400
         isCached: true
+  - title: "Cyber Security In Fintech: Top 5 Tips"
+    excerpt: "Top 5 tips to enhance cybersecurity in Fintech companies that must not be neglected by businesses at any cost in this era where extraordinary cyberattacks encounter on a day-to-day basis."
+    publishedDateTime: 2021-07-06T14:56:00Z
+    webUrl: "https://www.cybersecurityintelligence.com/blog/cyber-security-in-fintech-top-5-tips-5735.html"
+    type: article
+    provider:
+      name: cybersecurityintelligence.com
+      domain: cybersecurityintelligence.com
+    quality: 41
+    images:
+      - url: "https://www.cybersecurityintelligence.com/files/upload/htmleditor/ezgif.com-gif-maker%20-%202021-07-06T152822.400.png"
+        width: 398
+        height: 375
+        isCached: true
   - title: "Blockchain, Fintech and VFA revolution"
     excerpt: "The Malta Financial Services Authority (MFSA) last year introduced its FinTech Regulatory Sandbox, which provides a controlled regulatory environment where FinTech operators may test their innovations"
     publishedDateTime: 2021-07-06T08:39:00Z
@@ -144,6 +158,20 @@ related:
       name: List of Banks in Belarus
       domain: globalbankingandfinance.com
     quality: 22
+  - title: "4 Innovative Start-Ups To Watch In 2021"
+    excerpt: "We’ve compiled a list of four innovative start-ups to keep an eye on in 2021. These companies are creating new and exciting technologies"
+    publishedDateTime: 2021-07-06T14:07:00Z
+    webUrl: "https://www.valuewalk.com/4-innovative-start-ups-watch-2021/"
+    type: article
+    provider:
+      name: ValueWalk
+      domain: valuewalk.com
+    quality: 22
+    images:
+      - url: "https://www.valuewalk.com/wp-content/uploads/2021/07/lightbulb_1625579840.jpg"
+        width: 1280
+        height: 847
+        isCached: true
   - title: "LendIt Fintech USA Reunites the Fintech Community with its Return to a Physical Event in 2022"
     excerpt: "LendIt Fintech, the leading event series dedicated to financial services innovation, today announced that its flagship event,"
     publishedDateTime: 2021-07-02T15:00:00Z
@@ -165,6 +193,6 @@ related:
       domain: webindia123.com
     quality: 0
 
-secured: "P8oy7uo3w4tQVohCrHOj06ITiRX7nvmzIPHj4EEBZpiQ+4yGCmf8nOr1AO6wLXcFkjjLngqoMpHhJbiFonLFWDLpSolwcu7ZX+jIZHR1GO9hVI5o5gSk0iIDG5XVxEdZKEbDzVOqEGxyxGfG4mb8c+W8dLSc2FxyxA4aHOPm5QqqGQYIBiuZqtbCEYSjJnKui5N/Zi+fpUiId0xhKL17agc9viLCWA4IUXxdAq/NZ0tDTexnotPn58aJHs2TwHjngvKi0LbXbt99VrFHq5jKeSqV1WKV3wFe+tLhLCmLokKfHmg53bvHPdo+pEYpVoidOt1DaLZhoejTspRklZhxGoloqroEenp1Pro0L0Q0PlY=;nJqf0wNPQD6EvZXE6O+Gag=="
+secured: "45UT1ohlqZlXuVpfsjaf/EOh0DRh5149hT7mIt2fwYV4P5vdctADSRJA3iw6KJjNGm3RRGZ7+0Lbf8TjXIYBids96Be4lyEffFMCFCm+sm4/P0LJU7p6cpNdYX6lFLL4PgXu0mWmELFCzNgkI9FQ6bSoYGwcjsnRTSyVtvWlvWu88XzqXGN6ocHztn1vbRQoQ5vzKkYzQ4/kVq0nUW60FQqVtjDNiBbA8dDbc002l/nvDEYLgt7UFjfK2AZ2QnEBHhVIrAglHXnnScnQD6qpH9vpeyf89zrO9M4CZPK1R9wGekh17dAqNLfAFH7dD0oZWGCUJ2MID6CGZH1gvP3S4qBftqlvWrxO0sXKIUsaCX1oDvAWTkNj4p85i2lLXDsT0hiXsFoH3StwD0iftXrYgJ4QtVklTVvfdnYdHlOlufI0g8jOCJV6h02RTRHB4yfBMpYvBBSDjLa7dj3R6tI5o9toplppkdsCcBWo59ZLFOG2znLqptzlz7eBby/G5JAyIMGTgCnBHAJgaLKadHlGQw==;gvtx16OltIJmKQkJ+txZWA=="
 ---
 

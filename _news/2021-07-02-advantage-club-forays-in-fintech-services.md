@@ -66,6 +66,20 @@ related:
         width: 880
         height: 400
         isCached: true
+  - title: "Cyber Security In Fintech: Top 5 Tips"
+    excerpt: "Top 5 tips to enhance cybersecurity in Fintech companies that must not be neglected by businesses at any cost in this era where extraordinary cyberattacks encounter on a day-to-day basis."
+    publishedDateTime: 2021-07-06T14:56:00Z
+    webUrl: "https://www.cybersecurityintelligence.com/blog/cyber-security-in-fintech-top-5-tips-5735.html"
+    type: article
+    provider:
+      name: cybersecurityintelligence.com
+      domain: cybersecurityintelligence.com
+    quality: 41
+    images:
+      - url: "https://www.cybersecurityintelligence.com/files/upload/htmleditor/ezgif.com-gif-maker%20-%202021-07-06T152822.400.png"
+        width: 398
+        height: 375
+        isCached: true
   - title: "Fintech and AI: Future-proof technology for finserve"
     excerpt: "As financial services become increasingly technology-led, we talk to Francesca Campanelli, CCO, Axyon.ai about what it means for the sector"
     publishedDateTime: 2021-07-05T14:28:00Z
@@ -144,6 +158,20 @@ related:
       name: List of Banks in Belarus
       domain: globalbankingandfinance.com
     quality: 22
+  - title: "4 Innovative Start-Ups To Watch In 2021"
+    excerpt: "We’ve compiled a list of four innovative start-ups to keep an eye on in 2021. These companies are creating new and exciting technologies"
+    publishedDateTime: 2021-07-06T14:07:00Z
+    webUrl: "https://www.valuewalk.com/4-innovative-start-ups-watch-2021/"
+    type: article
+    provider:
+      name: ValueWalk
+      domain: valuewalk.com
+    quality: 22
+    images:
+      - url: "https://www.valuewalk.com/wp-content/uploads/2021/07/lightbulb_1625579840.jpg"
+        width: 1280
+        height: 847
+        isCached: true
   - title: "LendIt Fintech USA Reunites the Fintech Community with its Return to a Physical Event in 2022"
     excerpt: "LendIt Fintech, the leading event series dedicated to financial services innovation, today announced that its flagship event,"
     publishedDateTime: 2021-07-02T15:00:00Z

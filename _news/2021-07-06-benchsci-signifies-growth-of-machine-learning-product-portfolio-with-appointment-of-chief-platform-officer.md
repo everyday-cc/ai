@@ -1,29 +1,30 @@
 ---
 category: news
 title: "BenchSci Signifies Growth of Machine Learning Product Portfolio With Appointment of Chief Platform Officer"
-excerpt: "BenchSci, an emerging global leader in machine learning applications for novel medicine development, today announced the appointment of"
-publishedDateTime: 2021-07-06T12:00:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/benchsci-signifies-growth-of-machine-learning-product-portfolio-with-appointment-of-chief-platform-officer-301325772.html"
-webUrl: "https://www.prnewswire.com/news-releases/benchsci-signifies-growth-of-machine-learning-product-portfolio-with-appointment-of-chief-platform-officer-301325772.html"
+excerpt: "BenchSci, an emerging global leader in machine learning applications for novel medicine development, today announced the appointment of Eran Ben-Ari as Chief Platform Officer. Effective June 28, 2021,"
+publishedDateTime: 2021-07-06T12:49:00Z
+originalUrl: "https://www.lelezard.com/en/news-19888363.html"
+webUrl: "https://www.lelezard.com/en/news-19888363.html"
 type: article
-quality: 21
-heat: 21
+quality: 23
+heat: 23
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Le Lézard
+  domain: lelezard.com
 
 topics:
-  - Machine Learning
+  - AI in Finance
   - AI
+  - Machine Learning
 
 images:
-  - url: "https://mma.prnewswire.com/media/1557632/Eran_Ben_Ari.jpg?p=facebook"
-    width: 901
-    height: 472
+  - url: "https://www.lelezard.com/img/pr_sections/health.jpg"
+    width: 640
+    height: 480
     isCached: true
 
-secured: "pSDO/HfWP+shmOBZWHKxa57DfBQHWBVX5T1TLumtj57ynojVzNcX5YLENYqQp8oyhvaCVoSWTzgrXCvL8/7r22cObRimljQMD6OvhPJnNys7Zgw1zoZUccdG/fq+TryQJP4R0Y6NOsPk1MQqgt6LE/6ZXs0yJvzSAo6sR63xjCrA+YWpBcL9fq9Ve1VZNgxMXRYVUBXbrcjsVyT/LC72pzBx6lBIlnSiRfOJ+k9YwlZH1AzZFwNDsQB7OMn3e4aYtsw99jMGog+f/NbdM2sVMJWHuxtQ/S/bBXriSrJ9qOAxpJcjKoiiNKl10ABmVGxqD2HkW6BwItFmT/Db3X6W5hV0M4p90bMs1Yy0I+RRR1I=;AEi03f/r/ZMw6rR9kGayOA=="
+secured: "guCxaU2imw+oGfJ91jKrODMD2OtPzvSSu3aowaP7QW0/jYBeje+5qXt76fYDJlVbaw609LF2mxVc17VuiDQp2hKaBFRtHXMUq6rrzq1MZkQ7m7TnNUsNpIBwaPec6IpG0+lw3OPXock8+mchsVE/muiIKv19ekdmTA+fCn9pBfne6aa2upevLOsOqTPCkYABHjqBeHK8kit5om0VxAu6CYZtMqFhg8x0gIUf8LCiJ29E7cML8NxVXRM/SWCTdWL269lwg4lbQ24wPLehfA3tY/KfB5CqR8J9A/UgWISC6aRx2tp7q2LQVs8gQaMOtTQxYzcXlHHpQdNzy1u3sv/WI+nQqJUxSwd4BjwudIwsXjc=;D4k89eZv33wiYJnKebQeWA=="
 ---
 

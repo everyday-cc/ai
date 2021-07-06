@@ -69,6 +69,20 @@ related:
         width: 1024
         height: 697
         isCached: true
+  - title: "'Racist' facial recognition sparks ethical concerns in Russia"
+    excerpt: "From scanning residents' faces to let them into their building to spotting police suspects in a crowd, the rise of facial recognition is accompanied by a growing chorus of concern about unethical uses of the technology."
+    publishedDateTime: 2021-07-06T14:00:00Z
+    webUrl: "https://www.postguam.com/entertainment/lifestyle/racist-facial-recognition-sparks-ethical-concerns-in-russia/article_79db13ba-de2f-11eb-8a77-c3ea7a08b4ed.html"
+    type: article
+    provider:
+      name: The Guam Daily Post
+      domain: postguam.com
+    quality: 56
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/postguam.com/content/tncms/assets/v3/editorial/e/26/e26b4be2-de30-11eb-a913-bfbc70d5216e/60e40ee1b43ea.image.jpg?resize=946%2C630"
+        width: 946
+        height: 630
+        isCached: true
 
 secured: "VHfT/zYpmEEfEh1LUo/wMgbwIqINCuoGoB6FvGNmkMQgYhzRxEvxaAluJupLIpkZEpqqoVvuv7xejMofxugn+WqPLm4FOAc9i/YllgK2d/lqAxkNhKNTy7p1sV+idi9h6QG6X1DsNcXtq1OyM8Z37haiDJJldovD5R/uzE01BwaPKnvzmfFvy6tfJoqI1hM2rii0ZX+BR1FB2nTVlsXHJgzvtuEWGsyfuR1rw2Iw95PMb884ZUGdFWDSI9kOwljANOdNkGx5UB/PE6ZQCNKq2LdN02sMx5vUHHJJJ7RItbkD8GI6VHcTHoUMscvc2YuUoBG4oExlJzrUodEeyC+CJJwYVL+x2B92bVA2xta6p7w=;WXulIWTRiTzAF2dZ219Fiw=="
 ---

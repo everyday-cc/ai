@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - Computer Vision
 
 images:
   - url: "https://cdn.slashgear.com/wp-content/uploads/2021/06/samsung-vacuum.jpg"
@@ -29,6 +30,6 @@ images:
     height: 825
     isCached: true
 
-secured: "y538JPKvkFYt46LssINuiO1nnDsPfLy3j3dRNplpicXXu2q1wYKDLC0p0rrGaYzw9jkM39h1YE11DE9PmCRg53EaTWaV879T8SCcquHRlrf4xULN9cA6MhByZGt1UnFFSvyzLnAw9yFFKWrVsUOi9id+JOPHUtKvzD0Cq0/d9uUFqkUHacFoHssguFf2/enULsasLPm55bO1DdDpuVjCNQun3C1I/7VzXcm3V1vd75g3wzaaNNw2MVG9W2CW++NmpytlLXgVobLPNEPy2Bskj6g7fHa+FZhvcIzQbj3pjCrIQ4FpRb9G8fLVQIbjPR93l5nnb7vHY2lZW9g5ear8pE/fqL1dvUE7p4p2uk2s65o=;jfbTBPjK3ijPrNYyK0zxtw=="
+secured: "VNDAp5dL5t1d3s4ir2yCH71yEOLxr6LuU2YcWHjeIn+VSLe4l04GFpSt7RTloFjYitsTL9oDEPsuHXPN7+4EoK699raNsVYTDYTGz8AVn6d8q7zYhgb60Sj3l/F2oTSgNnMMaCgoorhtoKoY3rnHWjU5NNo45KLFCcn+dGfJcFgiGWHxDziQyf5gQ4wnpw2z0HTDpiUlylGOrqTaGvOp3Xvu7L5WVil2MRqMGY/Q5TT8JAs2h+YLG4gPNvDWbiB2qgscJ6oaEyxvo/aXZ0yY/geo1MS0yxics2j2II2+TLW6FOCbwXWGunx5ietztTTWuWt7SeGKcVQQWxUJ7ca5n9bG1hVAm9uS23T0k/JWWVhwxxhmgbef0EBI4LxbjAs8GlM9rTx8Z6iKkZbdlQsZS0Jgcf6A7PaBMdrBGNIHDAn65w0sQkhpeHoKWE6iA0pvJOu94q+8FHjA6MOxmXWngLbEbgxtAS8mv4NJEGODyikOCLAOMzOAgY5lt3e3PyqNEkUS9kyy+0D5LRvWheWv9g==;QlSk205+7pqcFMYvqrm13g=="
 ---
 

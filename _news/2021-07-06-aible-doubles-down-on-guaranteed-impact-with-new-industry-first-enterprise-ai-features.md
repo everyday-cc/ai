@@ -1,18 +1,18 @@
 ---
 category: news
 title: "Aible Doubles Down on Guaranteed Impact With New Industry-First Enterprise AI Features"
-excerpt: "Aible, the only enterprise AI that guarantees impact in one month, today announced innovations to its flagship product. Aible extends its leadership in AI for business impact with new features that empower business teams to collaborate with analysts and data science teams to guarantee impact."
-publishedDateTime: 2021-07-06T11:04:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-aible-doubles-down-guaranteed-impact-with-new-industry-/2021/07/06/9403140.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-aible-doubles-down-guaranteed-impact-with-new-industry-/2021/07/06/9403140.htm"
+excerpt: "Aible, the only enterprise AI that guarantees impact in one month, today announced innovations to its flagship product. Aible extends its leadership i"
+publishedDateTime: 2021-07-06T15:00:00Z
+originalUrl: "https://www.businesswire.com/news/home/20210706005086/en/Aible-Doubles-Down-on-Guaranteed-Impact-With-New-Industry-First-Enterprise-AI-Features"
+webUrl: "https://www.businesswire.com/news/home/20210706005086/en/Aible-Doubles-Down-on-Guaranteed-Impact-With-New-Industry-First-Enterprise-AI-Features"
 type: article
 quality: 9
 heat: -1
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
   - AI
@@ -66,6 +66,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "The ethics of artificial intelligence"
+    excerpt: "While AI technologies have extraordinary potential for social and economic development, artificial intelligence presents complex and unique challenges to policymakers. AI raises significant concerns over bias,"
+    publishedDateTime: 2021-07-06T15:29:00Z
+    webUrl: "https://www.ept.ca/features/the-ethics-of-artificial-intelligence/"
+    type: article
+    provider:
+      name: EPT
+      domain: www.ept.ca
+    quality: 56
+    images:
+      - url: "https://www.ept.ca/wp-content/uploads/2021/07/AI-3.jpeg"
+        width: 724
+        height: 483
+        isCached: true
   - title: "Commerce.AI Releases AI-Generated Market Reports"
     excerpt: "Commerce.AI has released a new AI-generated market reports feature, which delivers market intelligence insights across thousands of market categories. Market reports are accessible to all and were previously only available to those with access to Commerce."
     publishedDateTime: 2021-07-02T14:51:00Z
@@ -81,6 +95,6 @@ related:
         height: 308
         isCached: true
 
-secured: "XTQWTNA3i+p7yPTLoul0nIrrCXjE0Llq5DJwddkRpkk6NqKCZvR3jD7IGxbdw5V99zNXeMS4gangvQOrtHw0yTaZh3usmN9cEbCCtCCQ1QhlU7wiKxDu858xQvdVBwf7RIykGD3V+TVB6ute05UPIk8gabB2oXVe+bMjwobjvUayDhUCa/M+YLZXA3qSNxMijPUBrXpKalAuV3sZ2db143hxe2j8XnI+EwLmMnjxCeteJx3In7hA3+awU+nbO77pj8epDBh5MPdX/Q8yfNgh0ogqbz9R7iTQHCiIXwDh37t6Gx3PuAvPGvDbsxQDfttgu18U7CmtwGkPFr7oEoQ2FXng9aAEcBWv+5a5MdPCipI=;W0gLbXlnlcJGirEZ9TzcSA=="
+secured: "xkpiYs+RYQ9UDREn136dycZqT1tMHKVmmtCL3B+Qr95prqO9OLRqCMU8H74dBCemLn2wWuR3f5PbQPY8WTsatFWtRJP04lCCZZLZFSchfI+eY7cyMEQzs1ENUdxH+LsfGuxFHRBNKWZ1MeQ/Spq3k3p/BTno6BcYW10CULEkauTCM/cJCcLW4dfwYiA34CKx21rhJGfhCTt8p5WC/WC6dHpEjGXSwjljd0hPXUH4xtjSyC1zol7Z06RVoNvHb9LxliVKqrP97mAgLnn9sQr5wSHvF0iL2YRMUe/dgMgajhurqf6qTFrTJiPXfIvU2K6cr2W5ll8bTTRHnN6z5TBjCp8yLO7nnjEZbhEoNVJblk8=;wEQbVNdLDjFdAbdT6xCScQ=="
 ---
 

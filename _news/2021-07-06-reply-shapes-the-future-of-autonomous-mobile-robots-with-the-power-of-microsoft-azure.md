@@ -50,6 +50,22 @@ related:
         width: 600
         height: 338
         isCached: true
+  - title: "Best Microsoft technical certification 2021: Top exams"
+    excerpt: "ZDNet has compiled a collection of the best Microsoft certifications that will protect your job and boost your income as we head toward 2022 in a business world that is speeding towards digital transformation."
+    publishedDateTime: 2021-07-06T06:42:00Z
+    webUrl: "https://www.zdnet.com/article/best-microsoft-technical-certification/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/best-microsoft-technical-certification/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/best-microsoft-technical-certification/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 89
+    images:
+      - url: "https://www.zdnet.com/a/hub/i/2021/06/23/17d8ed20-1299-443d-8153-846622179896/msft-azure.jpg"
+        width: 1600
+        height: 1069
+        isCached: true
   - title: "Microsoft experiments with high-end machine learning on Xbox Series X"
     excerpt: "Microsoft is hiring new software engineers to help create new next-gen machine learning algorithms for Xbox Series X/S consoles."
     publishedDateTime: 2021-07-03T22:14:00Z

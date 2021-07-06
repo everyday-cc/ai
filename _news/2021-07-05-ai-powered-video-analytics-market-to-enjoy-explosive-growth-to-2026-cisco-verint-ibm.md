@@ -38,22 +38,6 @@ related:
         width: 690
         height: 400
         isCached: true
-  - title: "viisights to present educational session on innovative behavioural analytics at ISC West"
-    excerpt: "Inc., developer of behavioural recognition systems for real-time video intelligence, will be attending ISC West in Las Vegas, July 19-21, 2021, representing its innovative"
-    publishedDateTime: 2021-07-02T11:24:00Z
-    webUrl: "https://www.sourcesecurity.com/news/viisights-present-educational-session-innovative-behavioural-co-1565673901-ga.1625217154.html"
-    ampWebUrl: "https://www.sourcesecurity.com/amp/news/viisights-present-educational-session-innovative-behavioural-co-1565673901-ga.1625217154.html"
-    cdnAmpWebUrl: "https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/news/viisights-present-educational-session-innovative-behavioural-co-1565673901-ga.1625217154.html"
-    type: article
-    provider:
-      name: SourceSecurity
-      domain: sourcesecurity.com
-    quality: 35
-    images:
-      - url: "https://www.sourcesecurity.com/img/news/612/visights-person-monitoring-fire-detection-920x533.jpg"
-        width: 612
-        height: 355
-        isCached: true
   - title: "World-leading paediatric hospital to use data analytics and real-time predictive AI to prevent avoidable deaths in children"
     excerpt: "Top clinician at a leading ﻿UK children’s hospital believes the ﻿future of healthcare involves wireless monitoring ﻿and smart alarms﻿, both in hospital"
     publishedDateTime: 2021-07-06T13:41:00Z
