@@ -45,6 +45,58 @@
       ]
     },
     {
+      "path": "_news/2021-07-06-sama-validates-its-ethical-ai-supply-chain-through-a-randomized-control-study-with-mit.md",
+      "title": "Sama Validates Its Ethical AI Supply Chain Through A Randomized Control Study With MIT",
+      "excerpt": "AIis an emerging force in the business world that has the potential to either replace humans or empower humans with better tools. Sama, believes AI can enhance how we work and is advocating for “human-in-the-loop,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/christophermarquis/2021/07/06/sama-validates-its-ethical-ai-supply-chain-through-a-randomized-control-study-with-mit/",
+      "originalUrl": "https://www.forbes.com/sites/christophermarquis/2021/07/06/sama-validates-its-ethical-ai-supply-chain-through-a-randomized-control-study-with-mit/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60cb9c39ec66a9c0ee764dfa%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1200%26cropY1%3D26%26cropY2%3D589",
+          "width": 1200,
+          "height": 563,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-06T08:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2021-07-06-deepminds-scientist-sparks-fresh-debate-over-ai-ethics.md",
       "title": "DeepMind’s Scientist Sparks Fresh Debate Over AI Ethics",
       "excerpt": "Raia Hadsell, a researcher at DeepMind, appeared in a virtual tech summit to shed light on the ethics in the field of artificial intelligence.",
@@ -1413,50 +1465,6 @@
       "topics": [
         "AI Ethics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-23-deepmind-scientist-calls-for-ethical-ai-as-google-faces-ongoing-backlash.md",
-      "title": "DeepMind scientist calls for ethical AI as Google faces ongoing backlash",
-      "excerpt": "Disclaimer | Accessibility Statement | Commerce Policy | Made In NYC | Stock quotes by finanzen.net At the Lesbians Who Tech Pride Summit, DeepMind's Raia Hadsell discussed the duty of researchers ...",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/deepmind-scientist-calls-for-ethical-ai-as-google-faces-ongoing-backlash-10265599",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/deepmind-scientist-calls-for-ethical-ai-as-google-faces-ongoing-backlash-10265599",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-23T00:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "AI Ethics"
       ]
     }
   ],

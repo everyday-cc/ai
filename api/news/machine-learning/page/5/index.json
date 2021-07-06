@@ -2,6 +2,40 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-05-28-a-new-frontier-of-ai-and-deep-learning-capabilities.md",
+      "title": "A New Frontier of AI and Deep Learning Capabilities",
+      "excerpt": "Thanks to robust HPC systems, compute capacity and data handling are powerful and affordable enough that many organizations are beginning to invest in a new frontier of AI and deep learning capabilities. HPC solutions coupled with advanced data ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nextplatform.com/microsite-landing/hpe-solutions__trashed/new-frontier-ai-deep-learning-capabilities-2/",
+      "originalUrl": "https://www.nextplatform.com/microsite-landing/hpe-solutions__trashed/new-frontier-ai-deep-learning-capabilities-2/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nextplatform.com/microsite-landing/hpe-solutions__trashed/new-frontier-ai-deep-learning-capabilities-2/?amp",
+      "cdnAmpWebUrl": "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/microsite-landing/hpe-solutions__trashed/new-frontier-ai-deep-learning-capabilities-2/?amp",
+      "publishedDateTime": "2021-05-28T07:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Platform",
+        "domain": "nextplatform.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-28-aws-makes-amazon-redshift-ml-generally-available.md",
       "title": "AWS makes Amazon Redshift ML generally available",
       "excerpt": "The move allows users to “leverage” Amazon SageMaker, a managed ML service, without moving data or learning a new skill, AWS claimed. Writing in a blog post, the cloud giant said Amazon ...",
@@ -1289,49 +1323,6 @@
         "AI in Finance",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-05-24-hardening-ai-is-machine-learning-the-next-infosec-imperative.md",
-      "title": "Hardening AI: Is machine learning the next infosec imperative?",
-      "excerpt": "As enterprise deployments of machine learning continue at a strong pace, including in mission-critical environments such as in contact centers, for fraud detection and in regulated sectors like healthcare and finance for example,",
-      "sourceUrl": null,
-      "webUrl": "https://www.itproportal.com/features/hardening-ai-is-machine-learning-the-next-infosec-imperative/",
-      "originalUrl": "https://www.itproportal.com/features/hardening-ai-is-machine-learning-the-next-infosec-imperative/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/4snuDkrnSAYqFHVuLu5h8k-480-80.jpg",
-          "width": 480,
-          "height": 270,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.itproportal.com/amp/features/hardening-ai-is-machine-learning-the-next-infosec-imperative/",
-      "cdnAmpWebUrl": "https://www-itproportal-com.cdn.ampproject.org/c/s/www.itproportal.com/amp/features/hardening-ai-is-machine-learning-the-next-infosec-imperative/",
-      "publishedDateTime": "2021-05-24T02:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT Pro Portal",
-        "domain": "itproportal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

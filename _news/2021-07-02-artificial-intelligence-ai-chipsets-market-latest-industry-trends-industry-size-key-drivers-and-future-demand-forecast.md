@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chipsets-market-latest-industry-trends-industry-size-key-drivers-and-future-demand-forecast-2021-07-02"
 type: article
 quality: 79
-heat: 179
+heat: 169
 published: true
 
 provider:
@@ -120,20 +120,6 @@ related:
     excerpt: "In a recent published report, Kenneth Research has updated the Asia-Pacific Artificial Intelligence Market report for"
     publishedDateTime: 2021-07-02T06:38:00Z
     webUrl: "https://www.marketwatch.com/press-release/asia-pacific-artificial-intelligence-market-growth-2021-to-2030-global-industry-size-recent-trends-demand-and-share-analysis-with-top-key-players-2021-07-02"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 30
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Autonomous Cars Market Share – Industry Analysis, Size, Growth, Trends, Top Key Players and Regional Forecast 2020-2024"
-    excerpt: "Therefore, the gap between the regulatory framework and the self-driving technology is steadily ... Honda, Daimler, Baidu, Aptiv, and Volvo. The automotive cars market is highly competitive ..."
-    publishedDateTime: 2021-07-02T02:58:00Z
-    webUrl: "https://www.marketwatch.com/press-release/autonomous-cars-market-share-industry-analysis-size-growth-trends-top-key-players-and-regional-forecast-2020-2024-2021-07-02"
     type: article
     provider:
       name: MarketWatch

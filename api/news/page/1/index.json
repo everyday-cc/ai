@@ -2,6 +2,57 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-07-07-what-openai-and-githubs-ai-pair-programmer-means-for-the-software-industry.md",
+      "title": "What OpenAI and GitHub’s ‘AI pair programmer’ means for the software industry",
+      "excerpt": "GitHub's Copilot, AI-powered programming built on top of GPT-3, hints at the business of large language models.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/07/06/what-openai-and-githubs-ai-pair-programmer-means-for-the-software-industry/",
+      "originalUrl": "https://venturebeat.com/2021/07/06/what-openai-and-githubs-ai-pair-programmer-means-for-the-software-industry/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2017/06/software-e1625591248191.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/07/06/what-openai-and-githubs-ai-pair-programmer-means-for-the-software-industry/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/06/what-openai-and-githubs-ai-pair-programmer-means-for-the-software-industry/amp/",
+      "publishedDateTime": "2021-07-06T11:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-07-ethical-ai-is-easier-said-than-done-but-weve-got-to-start-somewhere.md",
       "title": "Ethical AI Is Easier Said Than Done, But We've Got to Start Somewhere",
       "excerpt": "AI has run amok and been benched in multiple business deployments. In one instance, an AI had to be shut off after it spewed outrageously lewd and racist comments within 16 hours of being launched because of data poisoning.",
@@ -53,7 +104,7 @@
       "originalUrl": "https://www.digitaltrends.com/gaming/tencent-facial-recognition-china/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 126,
+      "heat": 146,
       "tags": null,
       "images": [
         {
@@ -145,6 +196,58 @@
       ],
       "topics": [
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-06-sama-validates-its-ethical-ai-supply-chain-through-a-randomized-control-study-with-mit.md",
+      "title": "Sama Validates Its Ethical AI Supply Chain Through A Randomized Control Study With MIT",
+      "excerpt": "AIis an emerging force in the business world that has the potential to either replace humans or empower humans with better tools. Sama, believes AI can enhance how we work and is advocating for “human-in-the-loop,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/christophermarquis/2021/07/06/sama-validates-its-ethical-ai-supply-chain-through-a-randomized-control-study-with-mit/",
+      "originalUrl": "https://www.forbes.com/sites/christophermarquis/2021/07/06/sama-validates-its-ethical-ai-supply-chain-through-a-randomized-control-study-with-mit/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60cb9c39ec66a9c0ee764dfa%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1200%26cropY1%3D26%26cropY2%3D589",
+          "width": 1200,
+          "height": 563,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-06T08:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
       ]
     },
     {
@@ -1120,101 +1223,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-05-whats-a-robot-manicure-really-like-quick-cheap-and-guilt-inducing.md",
-      "title": "What's a robot manicure really like? Quick, cheap, and guilt-inducing.",
-      "excerpt": "A robot gave me a manicure last week. Let me stop you before you envision a bipedal humanoid carefully dipping a brush into a bottle and lacquering my nails. Instead, the experience felt more like inserting my hand into a 3D printer.",
-      "sourceUrl": null,
-      "webUrl": "https://sea.mashable.com/tech/16518/whats-a-robot-manicure-really-like-quick-cheap-and-guilt-inducing",
-      "originalUrl": "https://sea.mashable.com/tech/16518/whats-a-robot-manicure-really-like-quick-cheap-and-guilt-inducing",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://sm.mashable.com/t/mashable_sea/article/w/whats-a-ro/whats-a-robot-manicure-really-like-quick-cheap-and-guilt-ind_hewc.620.jpg",
-          "width": 620,
-          "height": 485,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://sea.mashable.com/tech/16518/whats-a-robot-manicure-really-like-quick-cheap-and-guilt-inducing?amp=1",
-      "cdnAmpWebUrl": "https://sea-mashable-com.cdn.ampproject.org/c/s/sea.mashable.com/tech/16518/whats-a-robot-manicure-really-like-quick-cheap-and-guilt-inducing?amp=1",
-      "publishedDateTime": "2021-07-05T04:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mashable",
-        "domain": "mashable.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-05-elon-musk-admits-self-driving-is-harder-than-he-thought-as-tesla-owners-troll-him-over-missed-deadlines.md",
-      "title": "Elon Musk admits self-driving is harder than he thought as Tesla owners troll him over missed deadlines",
-      "excerpt": "Elon Musk is admitting that self-driving is a harder problem than he originally thought as some Tesla owners are trolling him over yet another missed deadline for Tesla’s self-driving program. The man has a long history of failed predictions regarding Tesla bringing a true self-driving system to market.",
-      "sourceUrl": null,
-      "webUrl": "https://electrek.co/2021/07/05/elon-musk-admits-self-driving-harder-than-he-thought-tesla-troll-missed-deadlines/",
-      "originalUrl": "https://electrek.co/2021/07/05/elon-musk-admits-self-driving-harder-than-he-thought-tesla-troll-missed-deadlines/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 143,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2020/08/Tesla-Elon-Musk.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://electrek.co/2021/07/05/elon-musk-admits-self-driving-harder-than-he-thought-tesla-troll-missed-deadlines/amp/",
-      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/07/05/elon-musk-admits-self-driving-harder-than-he-thought-tesla-troll-missed-deadlines/amp/",
-      "publishedDateTime": "2021-07-05T04:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Electrek",
-        "domain": "electrek.co",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

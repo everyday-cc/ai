@@ -2,6 +2,197 @@
   "page": 90,
   "value": [
     {
+      "path": "_news/2021-04-30-introducing-hierarchical-deletion-to-easily-clean-up-unused-resources-in-amazon-forecast.md",
+      "title": "Introducing hierarchical deletion to easily clean up unused resources in Amazon Forecast",
+      "excerpt": "Amazon Forecast just launched the ability to hierarchically delete resources at a parent level without having to locate the child resources. You can stay focused on building value-adding forecasting systems and not worry about trying to manage individual resources that are created in your workflow. Forecast",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/introducing-hierarchical-deletion-to-easily-clean-up-unused-resources-in-amazon-forecast/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/introducing-hierarchical-deletion-to-easily-clean-up-unused-resources-in-amazon-forecast/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png",
+          "width": 768,
+          "height": 385,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-30T15:02:48-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-01-the-4-fallacies-of-artificial-intelligence.md",
+      "title": "The 4 Fallacies of Artificial Intelligence",
+      "excerpt": "Artificial intelligence researchers are kidding themselves that human-level performance is within reach, argues one leading thinker. Here's why.",
+      "sourceUrl": null,
+      "webUrl": "https://www.discovermagazine.com/technology/the-4-fallacies-of-artificial-intelligence?utm_sq=gq3ljkv5ct",
+      "originalUrl": "https://www.discovermagazine.com/technology/the-4-fallacies-of-artificial-intelligence?utm_sq=gq3ljkv5ct",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.ctfassets.net/cnu0m8re1exe/7fWlxP5pbUOWtYOq9nWOKk/0e4afdfaf151a66642346beca3ad3413/shutterstock_1154457493.jpg",
+          "width": 1000,
+          "height": 665,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-30T15:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Discover Magazine",
+        "domain": "discovermagazine.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-01-a-blowout-earnings-cycle-hides-strategy-shift-from-cloud-vendors.md",
+      "title": "A blowout earnings cycle hides strategy shift from cloud vendors",
+      "excerpt": "The big 3 cloud vendors have made huge investments over the past few months in data and AI services targeting vertical markets.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/04/30/a-blowout-earnings-cycle-hides-strategy-shift-from-cloud-vendors/",
+      "originalUrl": "https://venturebeat.com/2021/04/30/a-blowout-earnings-cycle-hides-strategy-shift-from-cloud-vendors/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/04/GettyImages-1249937449.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 548,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/04/30/a-blowout-earnings-cycle-hides-strategy-shift-from-cloud-vendors/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/30/a-blowout-earnings-cycle-hides-strategy-shift-from-cloud-vendors/amp/",
+      "publishedDateTime": "2021-04-30T14:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-01-volkswagen-will-develop-in-house-self-driving-chip-to-compete-with-tesla-apple.md",
+      "title": "Volkswagen Will Develop In-House Self-Driving Chip to Compete With Tesla, Apple",
+      "excerpt": "Although Tesla’s expensive and strictly in-house developed autonomous driving software has a long way to go to actually achieve self-driving, its German rival Volkswagen is going down the same path to build its own driverless capabilities.",
+      "sourceUrl": null,
+      "webUrl": "https://observer.com/2021/04/volkswagen-develop-autonomous-driving-chip-software-follow-tesla-apple/",
+      "originalUrl": "https://observer.com/2021/04/volkswagen-develop-autonomous-driving-chip-software-follow-tesla-apple/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://observer.com/wp-content/uploads/sites/2/2021/04/GettyImages-1208585546.jpeg?quality=80&strip",
+          "width": 6240,
+          "height": 4160,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://observer.com/2021/04/volkswagen-develop-autonomous-driving-chip-software-follow-tesla-apple/amp/",
+      "cdnAmpWebUrl": "https://observer-com.cdn.ampproject.org/c/s/observer.com/2021/04/volkswagen-develop-autonomous-driving-chip-software-follow-tesla-apple/amp/",
+      "publishedDateTime": "2021-04-30T13:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Observer",
+        "domain": "observer.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2021-05-01-a-scientist-created-emotion-recognition-ai-for-animals.md",
       "title": "A scientist created emotion recognition AI for animals",
       "excerpt": "A researcher at Wageningen University & Research recently published a pre-print article detailing a system by which facial recognition AI could be used to identify and measure the emotional state of farm animals.",
@@ -1004,171 +1195,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-30-samsung-launches-jet-bot-ai-robot-vacuum-cleaner.md",
-      "title": "Samsung Launches Jet Bot AI Robot Vacuum Cleaner",
-      "excerpt": "Samsung unveiled its AI-powered Bespoke Jet Bot Robot Vacuum cleaner in Korea. Building upon the design of currently available",
-      "sourceUrl": null,
-      "webUrl": "https://propakistani.pk/2021/04/30/samsung-launches-jet-bot-ai-robot-vacuum-cleaner/",
-      "originalUrl": "https://propakistani.pk/2021/04/30/samsung-launches-jet-bot-ai-robot-vacuum-cleaner/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://propakistani.pk/wp-content/uploads/2021/04/608bcadab1525.png",
-          "width": 800,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://propakistani.pk/2021/04/30/samsung-launches-jet-bot-ai-robot-vacuum-cleaner/amp/",
-      "cdnAmpWebUrl": "https://propakistani-pk.cdn.ampproject.org/c/s/propakistani.pk/2021/04/30/samsung-launches-jet-bot-ai-robot-vacuum-cleaner/amp/",
-      "publishedDateTime": "2021-04-30T04:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ProPakistani",
-        "domain": "propakistani.pk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-04-30-baidu-to-roll-out-driverless-robotaxis-in-beijing-in-may.md",
-      "title": "Baidu to Roll Out Driverless Robotaxis in Beijing in May",
-      "excerpt": "Baidu will launch a paid robotaxi service in Beijing on Saturday, allowing users to book rides in vehicles without a driver behind the wheel, as the tech giant seeks to become one of China’s first companies to make money from self-driving technology.",
-      "sourceUrl": null,
-      "webUrl": "https://www.caixinglobal.com/2021-04-30/baidu-to-roll-out-driverless-robotaxis-in-beijing-in-may-101704549.html",
-      "originalUrl": "https://www.caixinglobal.com/2021-04-30/baidu-to-roll-out-driverless-robotaxis-in-beijing-in-may-101704549.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.caixin.com/2021-04-30/1619778592746922_560_373.jpg",
-          "width": 560,
-          "height": 373,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-30T03:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Caixin Global",
-        "domain": "caixinglobal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-30-global-artificial-intelligence-ai-robots-market-industries-significant-growth-analysis-and-future-sales-demand.md",
-      "title": "Global Artificial Intelligence (AI) Robots Market Industries Significant Growth Analysis and Future Sales Demand",
-      "excerpt": "Global Artificial Intelligence 40AI41 Robots Market Industries Significant Growth Analysis and Future Sales Demand",
-      "sourceUrl": null,
-      "webUrl": "https://www.bignewsnetwork.com/news/269119027/global-artificial-intelligence-ai-robots-market-industries-significant-growth-analysis-and-future-sales-demand",
-      "originalUrl": "https://www.bignewsnetwork.com/news/269119027/global-artificial-intelligence-ai-robots-market-industries-significant-growth-analysis-and-future-sales-demand",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.bignewsnetwork.com/cus1619495378541.jpg",
-          "width": 630,
-          "height": 420,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-30T03:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Big News Network.com",
-        "domain": "bignewsnetwork.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2021-04-30-autoggn-a-gene-graph-network-automl-tool-for-multi-omics-research.md",
-      "title": "AutoGGN: A Gene Graph Network AutoML Tool for Multi-Omics Research",
-      "excerpt": "Here, we proposed a new multimodal method called AutoGGN to aggregate multi-omics data and molecular interaction networks based on graph convolutional neural networks. We evaluated AutoGGN using two different tasks: cancer type classification and single-cell stage classification.",
-      "sourceUrl": null,
-      "webUrl": "https://europepmc.org/article/PPR/PPR319172",
-      "originalUrl": "https://europepmc.org/article/PPR/PPR319172",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-30T03:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Europe PMC",
-        "domain": "europepmc.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

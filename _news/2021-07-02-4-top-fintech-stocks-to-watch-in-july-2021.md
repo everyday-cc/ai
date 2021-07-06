@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nasdaq.com/articles/4-top-fintech-stocks-to-watch-in-jul
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/4-top-fintech-stocks-to-watch-in-july-2021-2021-07-02?amp"
 type: article
 quality: 54
-heat: 194
+heat: 204
 published: true
 
 provider:
@@ -184,6 +184,20 @@ related:
       - url: "https://www.valuewalk.com/wp-content/uploads/2021/07/lightbulb_1625579840.jpg"
         width: 1280
         height: 847
+        isCached: true
+  - title: "Fintech Acquires Cloud-Based Business Intelligence Provider STX Business Solutions"
+    excerpt: "Financial Information Technologies, LLC (\"Fintech\"), the leading business solutions provider for the beverage alcohol industry, today announced its acquisition of STX Business Solutions, a powerful web-based data management platform for the CPG"
+    publishedDateTime: 2021-07-06T18:41:00Z
+    webUrl: "https://www.lelezard.com/en/news-19889249.html"
+    type: article
+    provider:
+      name: Le Lézard
+      domain: lelezard.com
+    quality: 18
+    images:
+      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
+        width: 640
+        height: 480
         isCached: true
   - title: "LendIt Fintech USA Reunites the Fintech Community with its Return to a Physical Event in 2022"
     excerpt: "LendIt Fintech, the leading event series dedicated to financial services innovation, today announced that its flagship event,"

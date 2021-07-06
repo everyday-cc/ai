@@ -43,6 +43,36 @@ related:
         width: 976
         height: 549
         isCached: true
+  - title: "China's Tencent Says It'll Use Face Recognition to Keep Minors From Gaming at Night"
+    excerpt: "This is such desperate news for us high school graduates who are two months away from being 18,” one WeChat user reportedly wrote."
+    publishedDateTime: 2021-07-06T18:05:00Z
+    webUrl: "https://gizmodo.com/chinas-tencent-says-itll-use-face-recognition-to-keep-m-1847236584"
+    ampWebUrl: "https://gizmodo.com/chinas-tencent-says-itll-use-face-recognition-to-keep-m-1847236584/amp"
+    cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/chinas-tencent-says-itll-use-face-recognition-to-keep-m-1847236584/amp"
+    type: article
+    provider:
+      name: Gizmodo
+      domain: gizmodo.com
+    quality: 83
+    images:
+      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/36183011932591e6d43fe47afd1ed337.jpg"
+        width: 800
+        height: 450
+        isCached: true
+  - title: "Tencent’s creepy new facial recognition system detects kids gaming at night"
+    excerpt: "Chinese tech giant Tencent has launched a creepy new facial recognition system that detects children who are playing video games at night."
+    publishedDateTime: 2021-07-06T19:25:00Z
+    webUrl: "https://thenextweb.com/news/tencent-facial-recognition-detects-children-playing-games-at-night-gaming-china"
+    type: article
+    provider:
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 67
+    images:
+      - url: "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F07%2FUntitled-design-3.jpg&signature=c1cef30bbb5da6eff5db67610f4c5a3f"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Facial recognition: Tax pros mull returning to in-person meetings"
     excerpt: "Absolutely — as people feel more comfortable, we anticipate having more live rather than virtual meetings and events,” said Daniel Morris, a CPA and senior partner with Morris+D’Angelo CPAs in San Jose,"
     publishedDateTime: 2021-07-06T13:00:00Z

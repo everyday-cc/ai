@@ -196,6 +196,20 @@ related:
         width: 1280
         height: 847
         isCached: true
+  - title: "Fintech Acquires Cloud-Based Business Intelligence Provider STX Business Solutions"
+    excerpt: "Financial Information Technologies, LLC (\"Fintech\"), the leading business solutions provider for the beverage alcohol industry, today announced its acquisition of STX Business Solutions, a powerful web-based data management platform for the CPG"
+    publishedDateTime: 2021-07-06T18:41:00Z
+    webUrl: "https://www.lelezard.com/en/news-19889249.html"
+    type: article
+    provider:
+      name: Le Lézard
+      domain: lelezard.com
+    quality: 18
+    images:
+      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
+        width: 640
+        height: 480
+        isCached: true
   - title: "Advantage Club forays in Fintech Services, announces an early salary access feature"
     excerpt: "Advantage Club, one of the leading Employee Engagement platforms in South East Asia, has made its foray into financial services with the launch of an early salary access feature that will let professionals and employees take a portion of their salaries before their payday to help them if they are caught short."
     publishedDateTime: 2021-07-02T09:14:00Z

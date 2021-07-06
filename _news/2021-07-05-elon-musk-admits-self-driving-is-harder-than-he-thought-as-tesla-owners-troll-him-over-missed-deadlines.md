@@ -9,7 +9,7 @@ ampWebUrl: "https://electrek.co/2021/07/05/elon-musk-admits-self-driving-harder-
 cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/07/05/elon-musk-admits-self-driving-harder-than-he-thought-tesla-troll-missed-deadlines/amp/"
 type: article
 quality: 73
-heat: 143
+heat: 153
 published: true
 
 provider:
@@ -90,6 +90,22 @@ related:
       - url: "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2021%2F07%2FElon-Musk-Admits-That-Full-Self-Driving-Is-a-Hard-Problem-To-Solve-tw.jpg?w=960&cbr=1&q=90&fit=max"
         width: 960
         height: 480
+        isCached: true
+  - title: "Elon Musk Didn't Realize How Hard Self-Driving Would Be Which Is Why He Should Read This Paper"
+    excerpt: "Computers are great at lots of things, but generalizing isn't one of them. And that's very important if we want to let them drive us around."
+    publishedDateTime: 2021-07-06T18:26:00Z
+    webUrl: "https://jalopnik.com/elon-musk-didnt-realize-how-hard-self-driving-would-be-1847236443"
+    ampWebUrl: "https://jalopnik.com/elon-musk-didnt-realize-how-hard-self-driving-would-be-1847236443/amp"
+    cdnAmpWebUrl: "https://jalopnik-com.cdn.ampproject.org/c/s/jalopnik.com/elon-musk-didnt-realize-how-hard-self-driving-would-be-1847236443/amp"
+    type: article
+    provider:
+      name: Jalopnik
+      domain: jalopnik.com
+    quality: 32
+    images:
+      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/837b8e67cf5a07bad1f4ea15f7623823.png"
+        width: 800
+        height: 449
         isCached: true
   - title: "Musk: making self-driving cars is difficult"
     excerpt: "Tesla CEO Elon Musk has admitted creating fully autonomous vehicles is more difficult than he expected at a time when his company is facing greater public scrutiny for Autopilot accidents. “Generalised self-driving is a hard problem,"

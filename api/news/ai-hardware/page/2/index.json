@@ -2,6 +2,59 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-06-22-deep-learning-chip-market-forecast-trend-analysis-competition-tracking-global-market-insights-2020-to-2028.md",
+      "title": "Deep Learning Chip Market Forecast, Trend Analysis & Competition Tracking – Global Market Insights 2020 to 2028",
+      "excerpt": "The global deep learning chip market is expected to reach a market size of USD 27.75 Billion by 2028 and register a",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/deep-learning-chip-market-forecast-trend-analysis-competition-tracking-global-market-insights-2020-to-2028-2021-06-22",
+      "originalUrl": "https://www.marketwatch.com/press-release/deep-learning-chip-market-forecast-trend-analysis-competition-tracking-global-market-insights-2020-to-2028-2021-06-22",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 176,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-22T01:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2021-06-21-ambarella-unveils-2-new-ai-chip-families-for-4k-security-cameras.md",
       "title": "Ambarella unveils 2 new AI chip families for 4K security cameras",
       "excerpt": "Ambarella unveiled two new AI chip families for 4K security cameras today as it pushes further into computer vision.",
@@ -1315,50 +1368,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-11-intel-debates-buyout-of-sifive-to-bolster-chip-technology-against-arm.md",
-      "title": "Intel debates buyout of SiFive to bolster chip technology against ARM",
-      "excerpt": "Intel Corp is debating a possible offer to buy SiFive Inc, a person familiar with the matter told Reuters, a company closely associated with open-source technology that is challenging the rise of Intel's rival,",
-      "sourceUrl": null,
-      "webUrl": "https://indianexpress.com/article/technology/tech-news-technology/intel-debates-buyout-of-sifive-to-bolster-chip-technology-against-arm-7354276/",
-      "originalUrl": "https://indianexpress.com/article/technology/tech-news-technology/intel-debates-buyout-of-sifive-to-bolster-chip-technology-against-arm-7354276/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.indianexpress.com/2021/06/Intel_Reuters_1_NEW.jpg",
-          "width": 1200,
-          "height": 667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://indianexpress.com/article/technology/tech-news-technology/intel-debates-buyout-of-sifive-to-bolster-chip-technology-against-arm-7354276/lite/",
-      "cdnAmpWebUrl": "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/technology/tech-news-technology/intel-debates-buyout-of-sifive-to-bolster-chip-technology-against-arm-7354276/lite/",
-      "publishedDateTime": "2021-06-11T01:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Indian Express",
-        "domain": "indianexpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "AI Hardware"
       ]
     }
   ],

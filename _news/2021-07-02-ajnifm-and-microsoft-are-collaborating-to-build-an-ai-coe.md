@@ -9,7 +9,7 @@ ampWebUrl: "https://www.dqindia.com/arun-jaitley-national-institute-financial-ma
 cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/arun-jaitley-national-institute-financial-management-partners-microsoft-build-ai-emerging-tech-coe/amp/"
 type: article
 quality: 76
-heat: 86
+heat: 96
 published: true
 
 provider:
@@ -28,6 +28,20 @@ images:
     isCached: true
 
 related:
+  - title: "Pentagon Shelves JEDI Cloud Contract Won By Microsoft And Appealed By AWS"
+    excerpt: "The U.S. Department of Defense is shelving the controversial JEDI cloud computing contract won by Microsoft and appealed by AWS"
+    publishedDateTime: 2021-07-06T17:57:00Z
+    webUrl: "https://www.crn.com/news/cloud/pentagon-shelves-jedi-cloud-contract-won-by-microsoft-and-appealed-by-aws"
+    type: article
+    provider:
+      name: CRN
+      domain: crn.com
+    quality: 55
+    images:
+      - url: "https://www.crn.com/resources/026b-12b1399b675e-17e3a202e076-1000/104684731.jpeg"
+        width: 400
+        height: 400
+        isCached: true
   - title: "Faridabad's AJNIFM and Microsoft Tie-up for An AI and Emerging Technologies Centre of Excellence"
     excerpt: "Partnership will focus on capacity building of government officials, skilling them in emerging technologies, like AI and machine learning"
     publishedDateTime: 2021-07-02T06:37:00Z

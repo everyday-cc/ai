@@ -1,18 +1,18 @@
 ---
 category: news
 title: "Aible Doubles Down on Guaranteed Impact With New Industry-First Enterprise AI Features"
-excerpt: "Aible, the only enterprise AI that guarantees impact in one month, today announced innovations to its flagship product. Aible extends its leadership i"
-publishedDateTime: 2021-07-06T15:00:00Z
-originalUrl: "https://www.businesswire.com/news/home/20210706005086/en/Aible-Doubles-Down-on-Guaranteed-Impact-With-New-Industry-First-Enterprise-AI-Features"
-webUrl: "https://www.businesswire.com/news/home/20210706005086/en/Aible-Doubles-Down-on-Guaranteed-Impact-With-New-Industry-First-Enterprise-AI-Features"
+excerpt: "Aible, the only enterprise AI that guarantees impact in one month, today announced innovations to its flagship product. Aible extends its leadership in AI for business impact with new features that empower business teams to collaborate with analysts and data science teams to guarantee impact."
+publishedDateTime: 2021-07-06T11:04:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/2021/07/06/9403140.htm"
+webUrl: "https://www.tmcnet.com/usubmit/2021/07/06/9403140.htm"
 type: article
 quality: 9
 heat: -1
 published: false
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI
@@ -95,6 +95,6 @@ related:
         height: 308
         isCached: true
 
-secured: "xkpiYs+RYQ9UDREn136dycZqT1tMHKVmmtCL3B+Qr95prqO9OLRqCMU8H74dBCemLn2wWuR3f5PbQPY8WTsatFWtRJP04lCCZZLZFSchfI+eY7cyMEQzs1ENUdxH+LsfGuxFHRBNKWZ1MeQ/Spq3k3p/BTno6BcYW10CULEkauTCM/cJCcLW4dfwYiA34CKx21rhJGfhCTt8p5WC/WC6dHpEjGXSwjljd0hPXUH4xtjSyC1zol7Z06RVoNvHb9LxliVKqrP97mAgLnn9sQr5wSHvF0iL2YRMUe/dgMgajhurqf6qTFrTJiPXfIvU2K6cr2W5ll8bTTRHnN6z5TBjCp8yLO7nnjEZbhEoNVJblk8=;wEQbVNdLDjFdAbdT6xCScQ=="
+secured: "6/f/GRBWDr+Et3BQ6lec+gGr9HE9O2BidCsfy0R/OSD/7Qz+NFJ2alcWdARuGe3JWKfF1IPnq2tPCCj8T58fEAoG7/o5BO6sACOC16aF8eu1dOKmuZdmVJfDn3OyXX/jnjF0BiV9+sKstkt5vjouSp7YkYHrzTeSSWN2SAPlttdHERGyWg0f1EEKN/bmvVOS01QxAGHCiFmL90sfC7OoBlw0RX0f6AxtISex0CIoZfsRiIEjUeQACqPCu4gKtUdz00oMHtK5mvh17MdWQyBRTxn8DWhiecHzvBH0mk4ZvbdNpD0H6qo5EGlXJe+NCoIj5OuBrmjafdeWze5CA7NJ5QPttdMBU0UIMI+DjP7NQIg=;BK2eS/eCzHcqRsTfmaMjgQ=="
 ---
 

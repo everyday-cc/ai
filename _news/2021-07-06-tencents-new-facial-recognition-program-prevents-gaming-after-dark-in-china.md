@@ -9,7 +9,7 @@ ampWebUrl: "https://www.digitaltrends.com/gaming/tencent-facial-recognition-chin
 cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/gaming/tencent-facial-recognition-china/?amp"
 type: article
 quality: 86
-heat: 126
+heat: 146
 published: true
 
 provider:
@@ -31,6 +31,36 @@ images:
     isCached: true
 
 related:
+  - title: "China's Tencent Says It'll Use Face Recognition to Keep Minors From Gaming at Night"
+    excerpt: "This is such desperate news for us high school graduates who are two months away from being 18,” one WeChat user reportedly wrote."
+    publishedDateTime: 2021-07-06T18:05:00Z
+    webUrl: "https://gizmodo.com/chinas-tencent-says-itll-use-face-recognition-to-keep-m-1847236584"
+    ampWebUrl: "https://gizmodo.com/chinas-tencent-says-itll-use-face-recognition-to-keep-m-1847236584/amp"
+    cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/chinas-tencent-says-itll-use-face-recognition-to-keep-m-1847236584/amp"
+    type: article
+    provider:
+      name: Gizmodo
+      domain: gizmodo.com
+    quality: 83
+    images:
+      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/36183011932591e6d43fe47afd1ed337.jpg"
+        width: 800
+        height: 450
+        isCached: true
+  - title: "Tencent’s creepy new facial recognition system detects kids gaming at night"
+    excerpt: "Chinese tech giant Tencent has launched a creepy new facial recognition system that detects children who are playing video games at night."
+    publishedDateTime: 2021-07-06T19:25:00Z
+    webUrl: "https://thenextweb.com/news/tencent-facial-recognition-detects-children-playing-games-at-night-gaming-china"
+    type: article
+    provider:
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 67
+    images:
+      - url: "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F07%2FUntitled-design-3.jpg&signature=c1cef30bbb5da6eff5db67610f4c5a3f"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Not even the government knows the full extent of how government is using facial recognition"
     excerpt: "And 13 of those agencies, more than half of those using facial recognition, don’t know what systems their employees are using or how often they use them. The agencies that do keep track say they’ve used it for identifying people at the January 6 insurrection and during last summer’s protests sparked by the murder of George Floyd."
     publishedDateTime: 2021-07-02T04:44:00Z

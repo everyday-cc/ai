@@ -127,20 +127,6 @@ related:
         width: 600
         height: 450
         isCached: true
-  - title: "Autonomous Cars Market Share – Industry Analysis, Size, Growth, Trends, Top Key Players and Regional Forecast 2020-2024"
-    excerpt: "Therefore, the gap between the regulatory framework and the self-driving technology is steadily ... Honda, Daimler, Baidu, Aptiv, and Volvo. The automotive cars market is highly competitive ..."
-    publishedDateTime: 2021-07-02T02:58:00Z
-    webUrl: "https://www.marketwatch.com/press-release/autonomous-cars-market-share-industry-analysis-size-growth-trends-top-key-players-and-regional-forecast-2020-2024-2021-07-02"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 30
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Global Enterprise Artificial Intelligence (AI) Market Size, Status and Forecast 2021-2027"
     excerpt: "Pages Report] Check for Discount on Global Enterprise Artificial Intelligence (AI) Market Size, Status and Forecast 2021-2027 report by QYResearch Group. Market Analysis and Insights: Global Enterprise Artificial Intelligence (AI)"
     publishedDateTime: 2021-07-03T08:55:00Z

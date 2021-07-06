@@ -101,6 +101,22 @@ related:
         width: 960
         height: 480
         isCached: true
+  - title: "Elon Musk Didn't Realize How Hard Self-Driving Would Be Which Is Why He Should Read This Paper"
+    excerpt: "Computers are great at lots of things, but generalizing isn't one of them. And that's very important if we want to let them drive us around."
+    publishedDateTime: 2021-07-06T18:26:00Z
+    webUrl: "https://jalopnik.com/elon-musk-didnt-realize-how-hard-self-driving-would-be-1847236443"
+    ampWebUrl: "https://jalopnik.com/elon-musk-didnt-realize-how-hard-self-driving-would-be-1847236443/amp"
+    cdnAmpWebUrl: "https://jalopnik-com.cdn.ampproject.org/c/s/jalopnik.com/elon-musk-didnt-realize-how-hard-self-driving-would-be-1847236443/amp"
+    type: article
+    provider:
+      name: Jalopnik
+      domain: jalopnik.com
+    quality: 32
+    images:
+      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/837b8e67cf5a07bad1f4ea15f7623823.png"
+        width: 800
+        height: 449
+        isCached: true
   - title: "Elon Musk says he didn’t expect creating self-driving cars would be ‘so hard’"
     excerpt: "Elon Musk has admitted that delivering full self-driving software has been harder than he anticipated, to a chorus of both complaints and encouragement on Twitter. “Generalised self-driving is a hard problem,"
     publishedDateTime: 2021-07-05T18:16:00Z

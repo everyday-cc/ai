@@ -6,7 +6,7 @@ publishedDateTime: 2021-07-06T15:59:00Z
 originalUrl: "https://manometcurrent.com/artificial-intelligence-ai-in-medical-market-expectation-surges-with-rising-demand-and-changing-trends/"
 webUrl: "https://manometcurrent.com/artificial-intelligence-ai-in-medical-market-expectation-surges-with-rising-demand-and-changing-trends/"
 type: article
-quality: 15
+quality: 17
 heat: -1
 published: false
 
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 related:
   - title: "Boosting Online Grocery Sales And Enhancing Merchandising Through AI"

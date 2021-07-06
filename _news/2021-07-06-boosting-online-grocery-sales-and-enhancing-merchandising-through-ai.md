@@ -83,7 +83,7 @@ related:
     provider:
       name: manometcurrent.com
       domain: manometcurrent.com
-    quality: 15
+    quality: 17
 
 secured: "+vnyZJXc31WG/RTPYma0qwMt8r3sW45oC1Kfq7MToMROH5vPwlQTRi4ZWs/GHrDoYTO/SXH66MDFDnU1Cu27r/ytyyb9L88t/6Igjt+VjsbXQdjmCE2SmN7868vFsTW4FVQV8/aOguqCxSrmsYD8+5U9WMGpjwwwcRnUZZcmwkMtzKf2A6yz11E7ADdEHq0jW8rm/DNrqsV2bdk+N6HXiU2xItK8Bo8x1V4ey03dQPtR9et5UPnSlms5/PAH2oSLNiJCXw8hU+aVmjgHBZcChbjb9J5YbhehtrFfFZIK960Wyd0v9nY6RST74RT7Hf3lffiyxq6rvuZJKSBnjbREwGvpdxPeAXHnE1gVu9AZN+n93w7uaIVe+ENRakNUQYmSiAXH5JPOrEYzOYfQBNTBSpXrUl/K4wT76ksraOV2xxy6Aj3Nn1ye14UIGI/UgEXh15eC8JtwfO3bmiDLBpicz3BaY6/YrUXsejlyYHMc3aI1zKbI2n5fR8R3ysM42cDEelVBdzX0zyQGpAbXTvP00Q==;+HPskMbpQh4TRYlc6ci0LQ=="
 ---

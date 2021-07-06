@@ -2,6 +2,153 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-07-01-are-you-thirsty-this-ai-enabled-robot-can-bring-beer-to-holiday-parties.md",
+      "title": "‘Are you thirsty?’ This AI-enabled robot can bring beer to holiday parties",
+      "excerpt": "Heineken says its autonomous robot can hold up to 12 cans of beer, will follow you down the sidewalk and has a friendly AI personality.",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/technology/2021/07/01/beer-cooler-robot/",
+      "originalUrl": "https://www.washingtonpost.com/technology/2021/07/01/beer-cooler-robot/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 173,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/LJQJRE4CONFJFF2GYV7TCPMRBE.jpg&w=1440",
+          "width": 1440,
+          "height": 960,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/technology/2021/07/01/beer-cooler-robot/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/technology/2021/07/01/beer-cooler-robot/?outputType=amp",
+      "publishedDateTime": "2021-07-01T08:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2021-07-01-nvidia-benchmark-tests-show-impressive-gains-in-training-ai-models.md",
+      "title": "Nvidia benchmark tests show impressive gains in training AI models",
+      "excerpt": "Nvidia publishes MLPerf benchmarks that show impressive gains in reducing the total cost of training AI models using its GPUs.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/07/01/nvidia-benchmark-tests-show-impressive-gains-training-ai-models/",
+      "originalUrl": "https://venturebeat.com/2021/07/01/nvidia-benchmark-tests-show-impressive-gains-training-ai-models/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/06/MLPerf-Training-Press-Graphic.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/07/01/nvidia-benchmark-tests-show-impressive-gains-training-ai-models/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/01/nvidia-benchmark-tests-show-impressive-gains-training-ai-models/amp/",
+      "publishedDateTime": "2021-07-01T08:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-01-amazon-plans-to-build-delivery-robot-tech-in-finland.md",
+      "title": "Amazon plans to build delivery robot tech in Finland",
+      "excerpt": "Amazon announced Thursday that it plans to develop new technology for its autonomous delivery vehicles in Helsinki, Finland.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2021/07/01/amazon-plans-to-build-scout-delivery-robot-tech-in-finland.html",
+      "originalUrl": "https://www.cnbc.com/2021/07/01/amazon-plans-to-build-scout-delivery-robot-tech-in-finland.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/105695322-1548263648288amazon-scout.jpg?v=1548263696",
+          "width": 3600,
+          "height": 2400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2021/07/01/amazon-plans-to-build-scout-delivery-robot-tech-in-finland.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/07/01/amazon-plans-to-build-scout-delivery-robot-tech-in-finland.html",
+      "publishedDateTime": "2021-07-01T08:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-01-after-an-84m-raise-strawberry-picking-robotics-startup-traptic-begins-commercial-deployment.md",
       "title": "After an $8.4M raise, strawberry-picking robotics startup Traptic begins commercial deployment",
       "excerpt": "We first covered Traptic back in 2019, when it appeared as a Battlefield finalist on stage at Disrupt SF. Today, the South Bay robotics startup is announcing some major progress. For starters, it began commercial deployment of its strawberry-picking mobile robot early this month.",
@@ -758,6 +905,49 @@
       ]
     },
     {
+      "path": "_news/2021-07-01-jevois-pro-deep-learning-open-source-ai-camera.md",
+      "title": "JeVois-Pro deep learning open source AI camera",
+      "excerpt": "If you are interested in learning more about deep learning a new open source smart camera has been launched via Kickstarter called the JeVois-Pro. The artificial intelligent camera runs powerful ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.geeky-gadgets.com/deep-learning-camera-01-07-2021/",
+      "originalUrl": "https://www.geeky-gadgets.com/deep-learning-camera-01-07-2021/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.geeky-gadgets.com/wp-content/uploads/2021/07/JeVois-Pro-deep-learning-smart-camera.jpg",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-30T23:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Geeky Gadgets",
+        "domain": "geeky-gadgets.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-01-ddn-boosts-ai-storage-leadership-with-exascaler-6-and-expanded-portfolio-for-enterprise-intelligent-infrastructure.md",
       "title": "DDN Boosts AI Storage Leadership with EXAScaler 6 and Expanded Portfolio for Enterprise Intelligent Infrastructure",
       "excerpt": "Expanding on its global leadership in artificial intelligence (AI) and multi cloud data management solutions, DDN® is strengthening its commitment to enterprise AI customers and channel partners with EXAScaler® 6 (EXA6) and expanding its portfolio of IntelliFlash ™ systems from Tintri,",
@@ -989,203 +1179,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/buzzfeednews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-01-the-names-pushing-ai-toward-a-1t-chip-market-according-to-mizuho.md",
-      "title": "The names pushing AI toward a $1T chip market, according to Mizuho",
-      "excerpt": "An in-depth look at artificial intelligence and deep learning from Mizuho concludes that AI is the next wave of semiconductor growth, a key driver toward a $1",
-      "sourceUrl": null,
-      "webUrl": "https://seekingalpha.com/news/3711185-the-names-pushing-ai-toward-a-1t-chip-market-according-to-mizuho",
-      "originalUrl": "https://seekingalpha.com/news/3711185-the-names-pushing-ai-toward-a-1t-chip-market-according-to-mizuho",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
-          "width": 1200,
-          "height": 1200,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://seekingalpha.com/amp/news/3711185-the-names-pushing-ai-toward-a-1t-chip-market-according-to-mizuho",
-      "cdnAmpWebUrl": "https://seekingalpha-com.cdn.ampproject.org/c/s/seekingalpha.com/amp/news/3711185-the-names-pushing-ai-toward-a-1t-chip-market-according-to-mizuho",
-      "publishedDateTime": "2021-06-30T14:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Seeking Alpha",
-        "domain": "seekingalpha.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-01-facebook-updates-habitat-environment-to-train-embodied-ai.md",
-      "title": "Facebook updates Habitat environment to train ’embodied AI’",
-      "excerpt": "Facebook today announced Habitat 2.0, an updated version of its simulation environment, alongside new datasets and benchmarks.",
-      "sourceUrl": null,
-      "webUrl": "https://ai.facebook.com/blog/habitat-20-training-home-assistant-robots-with-faster-simulation-and-new-benchmarks/",
-      "originalUrl": "https://venturebeat.com/2021/06/30/facebook-updates-habitat-environment-to-train-embodied-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 177,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scontent-sea1-1.xx.fbcdn.net/v/t39.2365-6/61379250_2289364931329348_7271871964229140480_n.jpg?_nc_cat=105&ccb=1-3&_nc_sid=ad8a9d&_nc_ohc=xPUwAqG-JogAX-qKKU7&_nc_ht=scontent-sea1-1.xx&oh=28797380cbde35757e3bdcc16805b3cf&oe=60E1CB5C",
-          "width": 1848,
-          "height": 1112,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-30T14:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-01-who-guidance-details-the-benefits-and-risks-of-adding-ai-to-healthcare.md",
-      "title": "WHO guidance details the benefits and risks of adding AI to healthcare",
-      "excerpt": "The World Health Organization has published new guidance on the use of artificial intelligence in health, something that took experts across multiple fields 18 months to debate. WHO acknowledges",
-      "sourceUrl": null,
-      "webUrl": "https://www.slashgear.com/who-guidance-details-the-benefits-and-risks-of-adding-ai-to-healthcare-30680625/",
-      "originalUrl": "https://www.slashgear.com/who-guidance-details-the-benefits-and-risks-of-adding-ai-to-healthcare-30680625/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.slashgear.com/wp-content/uploads/2021/06/hospital_main_uns.jpg",
-          "width": 1440,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.slashgear.com/who-guidance-details-the-benefits-and-risks-of-adding-ai-to-healthcare-30680625/amp/",
-      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/who-guidance-details-the-benefits-and-risks-of-adding-ai-to-healthcare-30680625/amp/",
-      "publishedDateTime": "2021-06-30T14:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SlashGear",
-        "domain": "slashgear.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/slashgear.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-01-a-cio-weighs-in-on-how-ai-can-benefit-non-technical-roles-particularly-hr.md",
-      "title": "A CIO weighs in on how AI can benefit non-technical roles, particularly HR",
-      "excerpt": "Jeff Gregory, the Thirdera CIO, discussed how AI can impact non-technical roles in an organization, especially in the realm of human resources.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/06/30/a-cio-weighs-in-on-how-ai-can-benefit-non-technical-roles/",
-      "originalUrl": "https://venturebeat.com/2021/06/30/a-cio-weighs-in-on-how-ai-can-benefit-non-technical-roles/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2018/02/shutterstock_777026485-e1625048155126.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/06/30/a-cio-weighs-in-on-how-ai-can-benefit-non-technical-roles/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/30/a-cio-weighs-in-on-how-ai-can-benefit-non-technical-roles/amp/",
-      "publishedDateTime": "2021-06-30T14:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

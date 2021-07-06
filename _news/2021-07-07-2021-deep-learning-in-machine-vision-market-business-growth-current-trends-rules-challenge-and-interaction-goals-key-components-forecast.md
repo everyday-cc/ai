@@ -19,14 +19,28 @@ topics:
   - AI
 
 related:
-  - title: "Computer Vision Market Size and Growth to 2028 | Key Players – Cognex, Basler, Omron, Keyence, National Instruments, Sony"
-    excerpt: "The Computer Vision Market report forecasts promising growth and development for the period 2021-2028. The Computer Vision market research report defines key statistical data presented in an organized format including graphs,"
-    publishedDateTime: 2021-07-05T18:53:00Z
-    webUrl: "https://manometcurrent.com/computer-vision-market-size-and-growth-to-2028-key-players-cognex-basler-omron-keyence-national-instruments-sony/"
+  - title: "Self-driving Car Technology Market Research, Growth Opportunities, Key Players, Outlook and Forecasts Report 2021-2027"
+    excerpt: "Final Report will add the analysis of the impact of COVID-19 on this industry.” Global “ Self-driving Car Technology Market ” Report 2021 evaluating the current state of the market. It provides detail overview of market segmentation,"
+    publishedDateTime: 2021-07-05T05:51:00Z
+    webUrl: "https://www.marketwatch.com/press-release/self-driving-car-technology-market-research-growth-opportunities-key-players-outlook-and-forecasts-report-2021-2027-2021-07-05"
     type: article
     provider:
-      name: manometcurrent.com
-      domain: manometcurrent.com
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 30
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Global Artificial Intelligence For Drug Development and Discovery Market Size, Status and Forecast 2021-2027"
+    excerpt: "Pages Report] Check for Discount on Global Artificial Intelligence For Drug Development and Discovery Market Size, Status and Forecast 2021-2027 report by QYResearch Group. Market Analysis and Insights: Global Artificial Intelligence For Drug"
+    publishedDateTime: 2021-07-03T09:02:00Z
+    webUrl: "https://www.reportsnreports.com/reports/4635994-global-artificial-intelligence-for-drug-development-and-discovery-market-size-status-and-forecast-2021-2027.html"
+    type: article
+    provider:
+      name: ReportsnReports
+      domain: reportsnreports.com
     quality: 0
 
 secured: "Pnbr8FDGgfufrtTdHnZ5bbHOmfQ/azBZU/nT708909DueUTzcGR/6Qmbew59vXsHL3UYAL1WvROzkVAaQ8qwRbRikqGBTXt7r4tStAb84hDww4vUDPK53bGZYfGv0H5a32kpoR6sUWoozi8EYpw01XLJrRDj/z64+hXapr5E8PwQCOLuhAXEOpDjp5otZm4CtX5DP8Sir7fv4rLnFDvuFghdExFqYvcMvZ//bNfUYeXw/EM/7ad54BJPXAPJQQYB6460fIcjuXpu3hTV34NKRm829XCM5M6WBYBvc0YPOXFQHB7yHl/yrWapd3iMOQ6Er66ZqsRpGtTVJN91kLNCvPF1kq0HequiG0p7MEWkKmQ=;OVI6EkXL1/VeqToIKfQapw=="

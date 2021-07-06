@@ -2,6 +2,205 @@
   "page": 44,
   "value": [
     {
+      "path": "_news/2021-06-03-google-says-its-committed-to-ethical-ai-research-its-ethical-ai-team-isnt-so-sure.md",
+      "title": "Google says it’s committed to ethical AI research. Its ethical AI team isn’t so sure.",
+      "excerpt": "Six months after Timnit Gebru left, Google’s ethical artificial intelligence team is still in a state of upheaval.",
+      "sourceUrl": null,
+      "webUrl": "https://www.vox.com/recode/22465301/google-ethical-ai-timnit-gebru-research-alex-hanna-jeff-dean-marian-croak",
+      "originalUrl": "https://www.vox.com/recode/22465301/google-ethical-ai-timnit-gebru-research-alex-hanna-jeff-dean-marian-croak",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.vox-cdn.com/thumbor/y960q0iNBhEWVM3TFwGw1iv33cQ=/0x0:5760x3840/1400x1050/filters:focal(2544x1025:3464x1945):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/69380047/1028811892.0.jpg",
+          "width": 1400,
+          "height": 1050,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.vox.com/platform/amp/recode/22465301/google-ethical-ai-timnit-gebru-research-alex-hanna-jeff-dean-marian-croak",
+      "cdnAmpWebUrl": "https://www-vox-com.cdn.ampproject.org/c/s/www.vox.com/platform/amp/recode/22465301/google-ethical-ai-timnit-gebru-research-alex-hanna-jeff-dean-marian-croak",
+      "publishedDateTime": "2021-06-02T11:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Vox",
+        "domain": "vox.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/vox.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2021-06-03-machine-learning-could-help-with-early-diagnosis-of-pancreatic-cancer-study.md",
+      "title": "Machine learning could help with early diagnosis of pancreatic cancer – study",
+      "excerpt": "Scientists developed an algorithm that distinguished between patients who went on to develop pancreatic cancer and those who did not.",
+      "sourceUrl": null,
+      "webUrl": "https://www.kentonline.co.uk/news/national/machine-learning-could-help-with-early-diagnosis-of-pancreatic-cancer-study-32449/",
+      "originalUrl": "https://www.kentonline.co.uk/news/national/machine-learning-could-help-with-early-diagnosis-of-pancreatic-cancer-study-32449/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.kentonline.co.uk/_media/img/K6Y5WP32JE87E9UUDSCM.jpg",
+          "width": 1620,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.kentonline.co.uk/news/national/amp/machine-learning-could-help-with-early-diagnosis-of-pancreatic-cancer-study-32449/",
+      "cdnAmpWebUrl": "https://www-kentonline-co-uk.cdn.ampproject.org/c/s/www.kentonline.co.uk/news/national/amp/machine-learning-could-help-with-early-diagnosis-of-pancreatic-cancer-study-32449/",
+      "publishedDateTime": "2021-06-02T11:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Kent Online",
+        "domain": "kentonline.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-03-deep-learning-market-research-report-size-share-opportunities-challenges-statistics-restraints-drivers-with-key-player-by-2021-2027.md",
+      "title": "Deep Learning Market Research Report: Size, Share, Opportunities, Challenges, Statistics, Restraints, Drivers with Key Player by 2021-2027",
+      "excerpt": "The scope of the report includes a detailed study of Deep Learning Market with the reasons given for variations in the",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/deep-learning-market-research-report-size-share-opportunities-challenges-statistics-restraints-drivers-with-key-player-by-2021-2027-2021-06-02",
+      "originalUrl": "https://www.marketwatch.com/press-release/deep-learning-market-research-report-size-share-opportunities-challenges-statistics-restraints-drivers-with-key-player-by-2021-2027-2021-06-02",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-02T10:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-02-mlops-startup-iterativeai-nabs-20m.md",
+      "title": "MLOps startup Iterative.ai nabs $20M",
+      "excerpt": "Iterative.ai, an MLOps platform that maintains a number of open source data management projects, raised $20 million in funding.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/06/02/mlops-startup-iterative-ai-nabs-20m/",
+      "originalUrl": "https://venturebeat.com/2021/06/02/mlops-startup-iterative-ai-nabs-20m/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/11/big-data.GettyImages-1133714603-e1584722383408.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/06/02/mlops-startup-iterative-ai-nabs-20m/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/02/mlops-startup-iterative-ai-nabs-20m/amp/",
+      "publishedDateTime": "2021-06-02T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-02-aws-deeplearningai-aim-to-bridge-scaling-gap-with-machine-learning-models-via-coursera-specialization.md",
       "title": "AWS, DeepLearning.ai aim to bridge scaling gap with machine learning models via Coursera specialization",
       "excerpt": "Bratin Saha, vice president and general manager of machine learning services at AWS, said customers ... What is deep learning? | What is artificial general intelligence? In an interview ...",
@@ -964,189 +1163,6 @@
         "AI",
         "AI in Finance",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2021-06-02-catching-up-on-build-2021-ai-and-arm.md",
-      "title": "Catching up on Build 2021: AI and Arm",
-      "excerpt": "What were the key announcements at Build this year? I’ve already looked at the Azure data platform updates, so it’s worth a quick dive into what I think are the most important pieces of news for anyone building applications on Microsoft platforms,",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/article/3620653/catching-up-on-build-2021-ai-and-arm.html",
-      "originalUrl": "https://www.infoworld.com/article/3620653/catching-up-on-build-2021-ai-and-arm.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2019/02/programmer_graduate_certification_megaphone_announcement_bull-horn-100787980-large.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.infoworld.com/article/3620653/catching-up-on-build-2021-ai-and-arm.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3620653/catching-up-on-build-2021-ai-and-arm.amp.html",
-      "publishedDateTime": "2021-06-02T03:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-02-nvidia-pivots-to-ai-for-enterprises.md",
-      "title": "NVIDIA pivots to AI for enterprises",
-      "excerpt": "Some investors think AI is the next Internet gold rush - a look at NVIDIA's latest moves in this space. For more than half a century, innovations in information technology have followed a similar path from the research lab to academics and specialists before evolving into mainstream consumer and enterprise products.",
-      "sourceUrl": null,
-      "webUrl": "https://diginomica.com/nvidia-pivots-ai-enterprises",
-      "originalUrl": "https://diginomica.com/nvidia-pivots-ai-enterprises",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "http://diginomica.com/sites/default/files/images/2021-06/Screenshot%202021-06-02%20at%2010.42.32.png",
-          "width": 1124,
-          "height": 760,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://diginomica.com/nvidia-pivots-ai-enterprises?amp",
-      "cdnAmpWebUrl": "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/nvidia-pivots-ai-enterprises?amp",
-      "publishedDateTime": "2021-06-02T02:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Diginomica",
-        "domain": "diginomica.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "Natural Language Processing",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2021-06-02-hacking-and-loss-of-driving-skills-are-major-consumer-concerns-for-self-driving-cars.md",
-      "title": "Hacking and loss of driving skills are major consumer concerns for self-driving cars",
-      "excerpt": "The following perceptions, gained through qualitative interviews and quantitative surveys, are key to consumer decision making around autonomous vehicles. The three key perceived risks for autonomous vehicles,",
-      "sourceUrl": null,
-      "webUrl": "https://www.poandpo.com/news_business/hacking-and-loss-of-driving-skills-are-major-consumer-concerns-for-selfdriving-cars",
-      "originalUrl": "https://www.poandpo.com/news_business/hacking-and-loss-of-driving-skills-are-major-consumer-concerns-for-selfdriving-cars",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://res.cloudinary.com/stocfiles/image/fetch/https://www.histerius.com/hs0621/autonomous_vehicles.jpg",
-          "width": 1200,
-          "height": 673,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-02T02:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "poandpo.com",
-        "domain": "poandpo.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-02-field-deployable-computer-vision-wood-identification-of-peruvian-timbers.md",
-      "title": "Field-Deployable Computer Vision Wood Identification of Peruvian Timbers",
-      "excerpt": "Illegal logging is a major threat to forests in Peru, in the Amazon more broadly, and in the tropics globally. In Peru alone, more than two thirds of logging concessions showed unauthorized tree harvesting in natural protected areas and indigenous territories,",
-      "sourceUrl": null,
-      "webUrl": "https://www.frontiersin.org/articles/10.3389/fpls.2021.647515/full",
-      "originalUrl": "https://www.frontiersin.org/articles/10.3389/fpls.2021.647515/full",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.frontiersin.org/files/MyHome%20Article%20Library/647515/647515_Thumb_400.jpg",
-          "width": 400,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-02T02:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Frontiers",
-        "domain": "frontiersin.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],

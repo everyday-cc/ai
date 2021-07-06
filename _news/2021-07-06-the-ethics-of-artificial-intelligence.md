@@ -89,13 +89,13 @@ related:
         height: 308
         isCached: true
   - title: "Aible Doubles Down on Guaranteed Impact With New Industry-First Enterprise AI Features"
-    excerpt: "Aible, the only enterprise AI that guarantees impact in one month, today announced innovations to its flagship product. Aible extends its leadership i"
-    publishedDateTime: 2021-07-06T15:00:00Z
-    webUrl: "https://www.businesswire.com/news/home/20210706005086/en/Aible-Doubles-Down-on-Guaranteed-Impact-With-New-Industry-First-Enterprise-AI-Features"
+    excerpt: "Aible, the only enterprise AI that guarantees impact in one month, today announced innovations to its flagship product. Aible extends its leadership in AI for business impact with new features that empower business teams to collaborate with analysts and data science teams to guarantee impact."
+    publishedDateTime: 2021-07-06T11:04:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2021/07/06/9403140.htm"
     type: article
     provider:
-      name: Business Wire
-      domain: businesswire.com
+      name: TMCnet
+      domain: tmcnet.com
     quality: 9
 
 secured: "KwDIqyzQxTebksqdKmy5Yyhka2xPaosiNPxSonGL3bz1hiGlpyr0aPQUzk64VV50dZd/mpKjDok/6+e3J3TMrpkwX/8pGWd7m+QVkE53q+LRRN6K0nMbs7HLnOZauVOdX37tiMw7aFAp8TGETdPFnHvZn7uaaFE0O/CHf56nAX06UEzJp4mEj6pUe16wfLMN1ryzCUZmZndnqkZ7xEj7DdV+PJjUbu7RnYTJxOgNTkWq8nDTi6sKmg9lkLPKczcWddl3JVH0y1rU0sr8bCJeNfEA2piPyYC435sAtv29M9odVPvT52Ft3lo+kVmpCoNFDry7keN4DlinubggDd+Xb5EFkMDpp4iah6MU8+DBNMg=;ZXn608XX9+SjCtT5aZz7Pg=="
