@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "ubtechrobotics"
   url: "https://twitter.com/ubtechrobotics"
-  followers: 82234
+  followers: 82241
 
 size: 501-1,000 employees
 yearFounded: 2012
