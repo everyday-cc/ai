@@ -95,6 +95,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "AI in Manufacturing Market Latest Industry Trends, COVID 19 Impact Analysis, Key Drivers and Future Demand Forecast"
+    excerpt: "The globalAI in manufacturing market forecastis expected to rise owing to increasing demand for collaborative robots"
+    publishedDateTime: 2021-07-06T06:25:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-in-manufacturing-market-latest-industry-trends-covid-19-impact-analysis-key-drivers-and-future-demand-forecast-2021-07-06"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 45
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Deep Learning System Market Size, Business Scenario, Share, Growth, Insights, Industry Analysis, Trends and Forecasts Report 2028"
     excerpt: "The global deep learning system market size is expected to reach USD 93.34 Billion at a steady CAGR of 39.1% in"
     publishedDateTime: 2021-07-02T10:12:00Z

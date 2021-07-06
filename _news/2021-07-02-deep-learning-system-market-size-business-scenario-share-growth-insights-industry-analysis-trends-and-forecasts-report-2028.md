@@ -99,6 +99,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "AI in Manufacturing Market Latest Industry Trends, COVID 19 Impact Analysis, Key Drivers and Future Demand Forecast"
+    excerpt: "The globalAI in manufacturing market forecastis expected to rise owing to increasing demand for collaborative robots"
+    publishedDateTime: 2021-07-06T06:25:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-in-manufacturing-market-latest-industry-trends-covid-19-impact-analysis-key-drivers-and-future-demand-forecast-2021-07-06"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 45
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Mass produced 14nm chips the launchpad for China’s chipset industry"
     excerpt: "Achieving mass production of 14nm chips will secure China’s place as a domestic chip producer at scale, says the deputy head of the country’s leading technology research centre."
     publishedDateTime: 2021-07-05T17:37:00Z

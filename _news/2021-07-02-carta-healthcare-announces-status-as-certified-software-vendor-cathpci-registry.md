@@ -24,17 +24,6 @@ images:
     height: 314
     isCached: true
 
-related:
-  - title: "Carta Healthcare Announces Status as a Certified NCDR Software Vendor for the American College of Cardiology's (ACC) CathPCI Registry"
-    excerpt: "Carta Healthcare, a provider of artificial intelligence (AI)-powered clinical data abstraction technology and services, today announced that it is now a certified NCDR® software vendor for the CathPCI Registry®."
-    publishedDateTime: 2021-07-01T13:07:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-carta-healthcare-announces-status-as-certified-ncdr-software-/2021/07/01/9401977.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
-
 secured: "jUKi2KpSWX10FMLm5rPtbm7nFbY5HMWf0Tt1oNBflDBzEgjSfgZCurndjF5XJbP0eB/CRd+m3uysT2Rf4alGxbK0AbgA810zbHDhnEfi+9aPewBbC/8l2HS2RUV+wEovMCC7xPkeu+XwzFWKtXH8ArNcURALpFqv9YDELyexhD0wLHbmgbIP2hyANTtdElfE3heRZ147EfF+9hWkAmENo614uD9cZonni1jFUFj6pKzN9TWR9054MeIzs8QPr7tmcLsw5ejj2WYEO6/FPn0ei0MujYHPkvOd24NPIfFjj018QGrRkbQ/s/QJSI19weTR6GU5FrhKbx2Ht3YMJ93n/EUvwm8ZAfw6YB+I60vSjjI=;HNWxEgCj3/+ZLfe672zSVA=="
 ---
 

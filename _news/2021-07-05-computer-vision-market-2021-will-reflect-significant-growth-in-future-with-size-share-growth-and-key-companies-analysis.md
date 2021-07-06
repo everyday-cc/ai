@@ -71,20 +71,31 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "COVID-19 Impact and Analysis|Artificial Intelligence Market In The Industrial Sector| Technavio"
-    excerpt: "Technavio has been monitoring the artificial intelligence market in the industrial sector, operating under the industrials segment. The"
-    publishedDateTime: 2021-07-06T02:50:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/covid-19-impact-and-analysisartificial-intelligence-market-in-the-industrial-sector-technavio-301325200.html"
+  - title: "Facial Recognition Market 2021, Top Leading Countries, Companies, Consumption, Trends, Forces Analysis, Revenue, Challenges and Global Forecast 2030"
+    excerpt: "In a recent published report, Kenneth Research has updated the market report for Facial Recognition Market for 2021"
+    publishedDateTime: 2021-07-05T05:18:00Z
+    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-market-2021-top-leading-countries-companies-consumption-trends-forces-analysis-revenue-challenges-and-global-forecast-2030-2021-07-05"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 25
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 30
     images:
-      - url: "https://mma.prnewswire.com/media/1556863/Technavio__AI.jpg?p=facebook"
-        width: 1279
-        height: 670
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
+  - title: "COVID-19 Impact and Analysis|Artificial Intelligence Market In The Industrial Sector| Technavio"
+    excerpt: "Technavio has been monitoring the artificial intelligence market in the industrial sector, operating under the industrials segment."
+    publishedDateTime: 2021-07-06T02:50:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/21/07/n21849463/covid-19-impact-and-analysis-artificial-intelligence-market-in-the-industrial-sector-technavio"
+    ampWebUrl: "https://www.benzinga.com/amp/content/21849463"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/21849463"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 25
 
 secured: "nd5k0zRVG1nKw2rnTBmau30k3zRDM774A7c8XCj8Zjo6bjwBo7vUNLKnhG3xDKvywJ+jFxpZ28PcBhAOdJabGkFWOJ5kU+QWcfeHxxmEqqaBVGUqRZ8VBp1BBsljUn3NzCQ6Q7Sit/9LrR59leyypf6so7pR3cS/Gj482ZPOpwXiyt4g76A1ivyOdPf7I4j0eDUp/Hc8QyY+A85mkDdiKpNb0qcg4jANO3YQnDZ8FmSXZyg22omZb/96Wa4sMJehTSdNyMKf0kucSzVNzONu2mOQZIUV7KmcxzTv/pa2r7d+JuvUlbutEDabkbAl/1+99k2GPsT8DW2O4G7qG7Ejs+MZzWECETKOiSzeXSTGcbc=;u9+Ob8L3WoPZHArTu1F4Dg=="
 ---

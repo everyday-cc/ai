@@ -40,22 +40,6 @@ related:
         width: 480
         height: 320
         isCached: true
-  - title: "How AI is helping enterprises turn the tables on malicious attacks"
-    excerpt: "Malicious attackers have turned to AI to invade enterprise networks -- to combat attacks, organizations need to embrace AI in turn."
-    publishedDateTime: 2021-07-01T13:20:00Z
-    webUrl: "https://venturebeat.com/2021/07/01/how-ai-is-helping-enterprises-turn-the-tables-on-malicious-attacks/"
-    ampWebUrl: "https://venturebeat.com/2021/07/01/how-ai-is-helping-enterprises-turn-the-tables-on-malicious-attacks/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/01/how-ai-is-helping-enterprises-turn-the-tables-on-malicious-attacks/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 87
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2021/06/cyber-security.GettyImages-1268601565.jpg?w=1200&strip=all"
-        width: 1200
-        height: 588
-        isCached: true
   - title: "AI’s Role In The Future Of Data Privacy"
     excerpt: "People’s personal data has been lost, stolen, exposed, and hacked. Unfortunately, this trend isn’t new and can cost companies an average of $3.86 million per breach, not to mention the harm to the users themselves."
     publishedDateTime: 2021-07-02T21:10:00Z

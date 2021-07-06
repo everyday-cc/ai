@@ -2,6 +2,93 @@
   "page": 34,
   "value": [
     {
+      "path": "_news/2021-06-09-despite-proficiency-in-machine-learning-and-math-india-trails-in-data-skills-report.md",
+      "title": "Despite proficiency in machine learning and math, India trails in data skills: Report",
+      "excerpt": "Indian women are opting to upskill in STEM related fields; share of enrollments increased 2nd highest globally.",
+      "sourceUrl": null,
+      "webUrl": "https://www.dqindia.com/despite-proficiency-machine-learning-math-india-trails-data-skills-report/",
+      "originalUrl": "https://www.dqindia.com/despite-proficiency-machine-learning-math-india-trails-data-skills-report/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 134,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.dqindia.com/wp-content/uploads/2017/06/digital-skills.jpg",
+          "width": 600,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.dqindia.com/despite-proficiency-machine-learning-math-india-trails-data-skills-report/amp/",
+      "cdnAmpWebUrl": "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/despite-proficiency-machine-learning-math-india-trails-data-skills-report/amp/",
+      "publishedDateTime": "2021-06-09T01:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Dataquest",
+        "domain": "dqindia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Math for AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-09-rws-announces-revival-of-language-weaver-brand.md",
+      "title": "RWS Announces Revival of Language Weaver Brand",
+      "excerpt": "RWS, the world's leading provider of technology-enabled language, content management, and intellectual property services, today announces the return of Language Weaver, a pioneering brand in automatic language translation.",
+      "sourceUrl": null,
+      "webUrl": "https://www.lelezard.com/en/news-19847012.html",
+      "originalUrl": "https://www.lelezard.com/en/news-19847012.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.lelezard.com/img/pr_sections/science-technology.jpg",
+          "width": 640,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-09T00:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Le Lézard",
+        "domain": "lelezard.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-09-artificial-intelligence-ai-in-retail-market-is-expected-to-grow-at-a-cagr-of-around-349-from-2020-to-2027-arc.md",
       "title": "Artificial intelligence (AI) in retail market is expected to grow at a CAGR of around 34.9% from 2020 to 2027 | ARC",
       "excerpt": "The global artificial intelligence (AI) in retail market is expected to grow at a CAGR of around 34.9% from 2020 to 2027 and projected to reach the market value of around US$ 6,762.3 Mn by 2027. The global Artificial Intelligence (AI) in Retail Market research report is inclusive of detailed and productive qualitative and quantitative information,",
@@ -1049,109 +1136,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-08-why-is-artificial-intelligence-the-fastest-growing-industry.md",
-      "title": "Why is Artificial Intelligence the fastest growing industry?",
-      "excerpt": "In recent years, Artificial Intelligence has become the industry with the highest growth in the world and, consequently, it has transformed our way of living, producing and relating.",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/article/373983",
-      "originalUrl": "https://www.entrepreneur.com/article/373983",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/1623160707-inteligencia-artificial.jpg?width=600&crop=16:9",
-          "width": 600,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.entrepreneur.com/amphtml/373983",
-      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/373983",
-      "publishedDateTime": "2021-06-08T06:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-08-snowflake-previews-data-marketplace-governance-tools-management-features.md",
-      "title": "Snowflake previews data marketplace, governance tools, management features",
-      "excerpt": "Snowflake today previewed a slew of capabilities for its cloud platform to address data monetization, governance, and performance.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/06/08/snowflake-previews-data-marketplace-governance-tools-management-features/",
-      "originalUrl": "https://venturebeat.com/2021/06/08/snowflake-previews-data-marketplace-governance-tools-management-features/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/06/Snowflake-Data-Consumer-Montization-Example-.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/06/08/snowflake-previews-data-marketplace-governance-tools-management-features/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/08/snowflake-previews-data-marketplace-governance-tools-management-features/amp/",
-      "publishedDateTime": "2021-06-08T06:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     }

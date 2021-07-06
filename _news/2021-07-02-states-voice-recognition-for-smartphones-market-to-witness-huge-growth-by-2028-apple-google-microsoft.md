@@ -115,6 +115,15 @@ related:
       name: manometcurrent.com
       domain: manometcurrent.com
     quality: 28
+  - title: "Reply Shapes the Future of Autonomous Mobile Robots with the Power of Microsoft Azure"
+    excerpt: "Reply announced today that it has developed an end-to-end solution architecture for autonomous mobile robots (AMR) on Microsoft Azure that enables new"
+    publishedDateTime: 2021-07-06T07:30:00Z
+    webUrl: "https://www.businesswire.com/news/home/20210706005133/en/Reply-Shapes-the-Future-of-Autonomous-Mobile-Robots-with-the-Power-of-Microsoft-Azure"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 27
   - title: "Deep Learning System Software Market Size and Growth to 2028 | Key Players – Microsoft, TRINT, NVIDIA, Google, IBM, Amazon Web Services"
     excerpt: "The Deep Learning System Software Market report forecasts promising growth and development for the period 2021-2028. The Deep Learning System Software market research report defines key statistical data presented in an organized format including graphs,"
     publishedDateTime: 2021-07-04T00:00:00Z

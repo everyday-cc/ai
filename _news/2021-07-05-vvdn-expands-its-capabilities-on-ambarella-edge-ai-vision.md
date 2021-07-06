@@ -7,7 +7,7 @@ originalUrl: "https://www.bignewsnetwork.com/news/270173971/vvdn-expands-its-cap
 webUrl: "https://www.bignewsnetwork.com/news/270173971/vvdn-expands-its-capabilities-on-ambarella-edge-ai-vision"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,17 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Ambarella's (AMBA) CVflow Vision Processor to Power Arrival's EVs"
-    excerpt: "AMBA recently announced that its CV2FS CVflow AI vision processor has been adopted by global electric vehicle (EV) manufacturer — Arrival ARVL — to build the environmental perception module for its vehicles."
-    publishedDateTime: 2021-07-01T14:53:00Z
-    webUrl: "https://www.nasdaq.com/articles/ambarellas-amba-cvflow-vision-processor-to-power-arrivals-evs-2021-07-01"
-    ampWebUrl: "https://www.nasdaq.com/articles/ambarellas-amba-cvflow-vision-processor-to-power-arrivals-evs-2021-07-01?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/ambarellas-amba-cvflow-vision-processor-to-power-arrivals-evs-2021-07-01?amp"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 54
   - title: "VVDN and Ambarella Partner on Next-gen Vision-based Solutions"
     excerpt: "VVDN Technologies is expanding its capabilities on Ambarella's edge AI vision SoC platform to design and manufacture next-gen vision-based solutions."
     publishedDateTime: 2021-07-05T16:32:00Z

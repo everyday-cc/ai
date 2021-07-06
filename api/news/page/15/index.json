@@ -2,6 +2,101 @@
   "page": 15,
   "value": [
     {
+      "path": "_news/2021-06-22-the-linux-foundation-tackles-safe-open-standards-for-ai-voice-assistants.md",
+      "title": "The Linux Foundation Tackles Safe Open Standards for AI Voice Assistants",
+      "excerpt": "The Linux Foundation on Tuesday announced the Open Voice Network, an open source association dedicated to advancing open standards that support the adoption of AI-enabled voice assistance systems. Organizations are beginning to develop,",
+      "sourceUrl": null,
+      "webUrl": "https://www.technewsworld.com/story/87173.html",
+      "originalUrl": "https://www.technewsworld.com/story/87173.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.technewsworld.com/article_images/story_graphics_xlarge/xl-2021-voice-assistant-1.jpg",
+          "width": 620,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-22T08:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechNewsWorld",
+        "domain": "technewsworld.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-22-how-ai-can-boost-your-next-email-marketing-campaign.md",
+      "title": "How AI Can Boost Your Next Email Marketing Campaign",
+      "excerpt": "Email campaigns are an essential part of any company’s marketing stack. Hubspot estimates that email marketing generates $38 for every dollar",
+      "sourceUrl": null,
+      "webUrl": "https://www.entrepreneur.com/article/375329",
+      "originalUrl": "https://www.entrepreneur.com/article/375329",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/providers/valuewalk/hero-image-valuewalk-375329.jpeg?width=600&crop=16:9",
+          "width": 600,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.entrepreneur.com/amphtml/375329",
+      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/375329",
+      "publishedDateTime": "2021-06-22T08:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Marketing"
+      ]
+    },
+    {
       "path": "_news/2021-06-22-google-clouds-visual-inspection-ai-reinvents-manufacturing-quality-control.md",
       "title": "Google Cloud's Visual Inspection AI Reinvents Manufacturing Quality Control",
       "excerpt": "SUNNYVALE, Calif., June 22, 2021 /PRNewswire/ -- Google Cloud today launched Visual Inspection AI, a new purpose-built solution to help manufacturers, consumer packaged goods companies, and other ...",
@@ -1039,90 +1134,6 @@
         "name": "GamesRadar",
         "domain": "gamesradar.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-22-hewlett-packard-hpe-scoops-up-determined-ai-boosts-hpc-offerings.md",
-      "title": "Hewlett Packard (HPE) Scoops Up Determined AI, Boosts HPC Offerings",
-      "excerpt": "Hewlett Packard Enterprise HPE recently announced the acquisition of software provider — Determined AI — for an undisclosed amount. The acquisition is expected to boost Hewlett Packard’s portfolio of AI and high-performance computing (HPC) solutions by enabling machine learning (ML) professionals to implement ML models seamlessly to generate more precise insights from data.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/hewlett-packard-hpe-scoops-up-determined-ai-boosts-hpc-offerings-2021-06-22",
-      "originalUrl": "https://www.nasdaq.com/articles/hewlett-packard-hpe-scoops-up-determined-ai-boosts-hpc-offerings-2021-06-22",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/hewlett-packard-hpe-scoops-up-determined-ai-boosts-hpc-offerings-2021-06-22?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/hewlett-packard-hpe-scoops-up-determined-ai-boosts-hpc-offerings-2021-06-22?amp",
-      "publishedDateTime": "2021-06-22T03:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-22-ai-drug-discovery-platform-insilico-medicine-announces-255-million-in-series-c-funding.md",
-      "title": "AI drug discovery platform Insilico Medicine announces $255 million in Series C funding",
-      "excerpt": "Insilico Medicine, an A.I-based platform for drug development and discovery announced $255 million in Series C financing on Tuesday. The massive round is reflective of a recent breakthrough for the company: proof that it’s A.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/06/22/a-i-drug-discovery-platform-insilico-medicine-announces-255-million-in-series-c-funding/",
-      "originalUrl": "https://techcrunch.com/2021/06/22/a-i-drug-discovery-platform-insilico-medicine-announces-255-million-in-series-c-funding/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/06/GettyImages-1294890276.jpg?w=1024",
-          "width": 1024,
-          "height": 482,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/06/22/a-i-drug-discovery-platform-insilico-medicine-announces-255-million-in-series-c-funding/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/06/22/a-i-drug-discovery-platform-insilico-medicine-announces-255-million-in-series-c-funding/amp/",
-      "publishedDateTime": "2021-06-22T03:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

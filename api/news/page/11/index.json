@@ -2,6 +2,93 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2021-06-25-computer-vision-market-market-2021-highlights-recent-trends-market-growth-business-opportunities-till-2026.md",
+      "title": "Computer Vision Market Market 2021 Highlights Recent Trends, Market Growth, Business Opportunities till 2026",
+      "excerpt": "The computer vision market is expected to grow at a CAGR of 7.36 % over the forecast period (2021 – 2026).”  Top Leading Companies of Computer Vision Market are Intel Corporation, National Instruments Corporation,",
+      "sourceUrl": null,
+      "webUrl": "https://ksusentinel.com/2021/06/25/computer-vision-market-market-2021-highlights-recent-trends-market-growth-business-opportunities-till-2026/",
+      "originalUrl": "https://ksusentinel.com/2021/06/25/computer-vision-market-market-2021-highlights-recent-trends-market-growth-business-opportunities-till-2026/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-24T23:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Sentinel",
+        "domain": "ksusentinel.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-25-ibm-working-on-ai-tools-to-spot-cut-bias-in-online-ad-targeting.md",
+      "title": "IBM working on AI tools to spot, cut bias in online ad targeting",
+      "excerpt": "IBM is developing tools to ensure online advertising algorithms do not unfairly show ads in ways that may be discriminatory.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/06/24/ibm-working-on-ai-tools-to-spot-cut-bias-in-online-ad-targeting/",
+      "originalUrl": "https://venturebeat.com/2021/06/24/ibm-working-on-ai-tools-to-spot-cut-bias-in-online-ad-targeting/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 141,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/06/GettyImages-1178840216-e1624585857682.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/06/24/ibm-working-on-ai-tools-to-spot-cut-bias-in-online-ad-targeting/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/24/ibm-working-on-ai-tools-to-spot-cut-bias-in-online-ad-targeting/amp/",
+      "publishedDateTime": "2021-06-24T19:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI",
+        "IBM AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-25-raisin-deposit-solutions-to-create-pan-european-fintech-in-merger.md",
       "title": "Raisin, Deposit Solutions To Create Pan-European FinTech In Merger",
       "excerpt": "Two large German FinTechs, Raisin and Deposit Solutions, will be merging into a new pan-European group, a Financial Times (FT) report says. The combined company is to be called Raisin DS. It will be headquartered in Berlin and will have around 400 banking partners as well as over 500 employees.",
@@ -1099,101 +1186,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-24-american-robotics-and-scientific-applications-research-associates-sara-partner-to-further-advance-fully-autonomous-drone-operations-in-us.md",
-      "title": "American Robotics and Scientific Applications & Research Associates (SARA) Partner to Further Advance Fully-Autonomous Drone Operations in U.S. Nation",
-      "excerpt": "SARA’s unique aircraft detection technology enables American Robotics’ Scout System drones to maintain a safe distance from other aircraft at all times. MARLBOROUGH, Mass. & CYPRESS, Calif.--(BUSINESS WIRE)--#AcousticSensor--American Robotics,",
-      "sourceUrl": null,
-      "webUrl": "https://us.acrofan.com/detail.php?number=490577",
-      "originalUrl": "https://us.acrofan.com/detail.php?number=490577",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg",
-          "width": 580,
-          "height": 339,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-24T06:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "아크로팬",
-        "domain": "acrofan.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-24-carrot-and-stick-how-deep-reinforcement-learning-trains-ai-differently.md",
-      "title": "Carrot And Stick: How Deep Reinforcement Learning Trains AI Differently",
-      "excerpt": "Rather than generating potential outcomes based on historical data, deep reinforcement learning teaches AI agents and machines with the time-tested \"carrot and stick\" method.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/06/24/carrot-and-stick-how-deep-reinforcement-learning-trains-ai-differently/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/06/24/carrot-and-stick-how-deep-reinforcement-learning-trains-ai-differently/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60d34ea2e22fb5d923a8b3e1%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/06/24/carrot-and-stick-how-deep-reinforcement-learning-trains-ai-differently/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/06/24/carrot-and-stick-how-deep-reinforcement-learning-trains-ai-differently/amp/",
-      "publishedDateTime": "2021-06-24T06:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

@@ -36,6 +36,20 @@ related:
         width: 498
         height: 249
         isCached: true
+  - title: "How Europe is handling robo-journalists in the AI age"
+    excerpt: "The Council of Europe has adopted key resolutions concerning AI and its intersection with media and journalism."
+    publishedDateTime: 2021-07-06T06:00:00Z
+    webUrl: "https://www.siliconrepublic.com/innovation/robo-journalism-ai-media-europe-eu"
+    type: article
+    provider:
+      name: SiliconRepublic
+      domain: siliconrepublic.com
+    quality: 39
+    images:
+      - url: "https://www.siliconrepublic.com/wp-content/uploads/2021/06/robot-hands-typing.jpeg"
+        width: 800
+        height: 600
+        isCached: true
 
 secured: "ofa2V3FmAmRwFpnVZOK2jvsfCTnn9fX1mLy8oZ2lNqhcfORBhp3uydlOBoLxfIEdJmMn2nCJsIWh0hnsRPQHQMcdj9FoGfTk41hVsKeBrIWEVz0/6+hpihBk7xnm6H17E8laFSN+EZqpJ97Fr/qgYNrjEEqO6SPENqeazIdJdQ5DBqkATUFWv732kSDnes2kpO1idBCZLvSdaRQ+qEoElWUDJKTHBjGMQpP3fEpj8CDCK7zIPtTC1IZLTySEaOZ5l7Jydha0Ohi/rZmy5ao4RfFy+cbFImK7DauRpRWryROHbqrVXTkH5SIvav7GAZNVb8N5w9+7bG4GxIgRNz+wKcV5hxMA9fABchJT26uSazM=;07t75B2PZAZjsvuL00gp2w=="
 ---

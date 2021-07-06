@@ -2,6 +2,41 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-06-09-moduleq-the-people-facing-ai-company-achieves-iso-27001-certification-for-information-security.md",
+      "title": "ModuleQ, the People-Facing AI® Company, Achieves ISO 27001 Certification for Information Security",
+      "excerpt": "ModuleQ, the AI solutions company that empowers professionals with business-relevant timely insights, announced today the achievement of ISO 27001:2013 certification for its information security management practices,",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/2021/06/09/9387088.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/2021/06/09/9387088.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-09T06:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
       "path": "_news/2021-06-09-dispel-releases-industrys-first-accessible-remote-access-platform-designed-for-people-with-disabilities.md",
       "title": "Dispel Releases Industry's First Accessible Remote Access Platform Designed for People With Disabilities",
       "excerpt": "Dispel today announced new accessibility features across its entire suite of products designed to allow people with mobility, vision, hearing, and cognitive disabilities to work remotely on industrial control systems.",
@@ -1236,58 +1271,6 @@
         "Machine Learning",
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-01-vectra-10-most-common-threats-for-azure-ad-office-365-customers.md",
-      "title": "Vectra: 10 most common threats for Azure AD, Office 365 customers",
-      "excerpt": "Vectra.ai research focused on the top 10 most common activities in Azure AD and Office 365 environments which indicate a security threat.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/05/31/vectra-10-most-common-threats-for-azure-ad-office-365-customers/",
-      "originalUrl": "https://venturebeat.com/2021/05/31/vectra-10-most-common-threats-for-azure-ad-office-365-customers/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/12/microsoft-azure.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/05/31/vectra-10-most-common-threats-for-azure-ad-office-365-customers/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/31/vectra-10-most-common-threats-for-azure-ad-office-365-customers/amp/",
-      "publishedDateTime": "2021-05-31T19:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],

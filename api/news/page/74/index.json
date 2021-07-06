@@ -2,6 +2,110 @@
   "page": 74,
   "value": [
     {
+      "path": "_news/2021-05-12-how-could-conversational-ai-shape-our-language-particularly-in-business.md",
+      "title": "How Could Conversational AI Shape Our Language, Particularly In Business",
+      "excerpt": "Chatbots, personal assistants and voice skills are so popular that I've seen them start to influence our language norms and practice.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/05/12/how-could-conversational-ai-shape-our-language-particularly-in-business/",
+      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/05/12/how-could-conversational-ai-shape-our-language-particularly-in-business/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 110,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f5b7915a5d68b0459dfcbb7%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/05/12/how-could-conversational-ai-shape-our-language-particularly-in-business/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2021/05/12/how-could-conversational-ai-shape-our-language-particularly-in-business/amp/",
+      "publishedDateTime": "2021-05-12T04:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2021-05-12-cyber-risk-management-startup-visiblerisk-secures-25m.md",
+      "title": "Cyber risk management startup VisibleRisk secures $25M",
+      "excerpt": "VisibleRisk, a joint venture developing products that help companies manage cyber risk, has secured $25 million in financing.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/05/12/cyber-risk-management-startup-visiblerisk-secures-25m/",
+      "originalUrl": "https://venturebeat.com/2021/05/12/cyber-risk-management-startup-visiblerisk-secures-25m/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2016/12/AI-e1515768971296.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/05/12/cyber-risk-management-startup-visiblerisk-secures-25m/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/12/cyber-risk-management-startup-visiblerisk-secures-25m/amp/",
+      "publishedDateTime": "2021-05-12T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-12-global-data-from-ibm-points-to-ai-growth-as-businesses-strive-for-resilience.md",
       "title": "Global Data From IBM Points To AI Growth As Businesses Strive For Resilience",
       "excerpt": "New market research commissioned by IBM (NYSE: IBM) found that almost one-third of IT professionals surveyed globally say their business is now using artificial intelligence (AI), with 43 percent reporting that their company has accelerated their rollout of AI as a result of the COVID-19 pandemic.",
@@ -1035,101 +1139,6 @@
       "topics": [
         "AI Ethics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-12-onestream-data-analysis-ai-tools-usage-increased-in-2021.md",
-      "title": "Onestream: Data analysis, AI tools usage increased in 2021",
-      "excerpt": "Onestream's Enterprise Financial Decision-Making Report found that companies increased investment and usage of data analysis tools in 2021.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/05/11/onestream-data-analysis-ai-tools-usage-increased-in-2021/",
-      "originalUrl": "https://venturebeat.com/2021/05/11/onestream-data-analysis-ai-tools-usage-increased-in-2021/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/08/data-1.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/05/11/onestream-data-analysis-ai-tools-usage-increased-in-2021/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/11/onestream-data-analysis-ai-tools-usage-increased-in-2021/amp/",
-      "publishedDateTime": "2021-05-11T14:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-12-funny-faces-in-face-recognition-could-increase-phone-security-with-new-technology.md",
-      "title": "Funny faces in face recognition could increase phone security with new technology",
-      "excerpt": "But experts said the best way to keep your phone safe using facial recognition technology is by putting on a funny face. “We’ve been able to actually take a regular picture of ourselves and fool the system,",
-      "sourceUrl": null,
-      "webUrl": "https://nbc-2.com/news/2021/05/11/funny-faces-in-face-recognition-could-increase-phone-security-with-new-technology/",
-      "originalUrl": "https://nbc-2.com/news/2021/05/11/funny-faces-in-face-recognition-could-increase-phone-security-with-new-technology/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nbc-2.com/wp-content/uploads/2021/03/cell-phone.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nbc-2.com/news/2021/05/11/funny-faces-in-face-recognition-could-increase-phone-security-with-new-technology/amp/",
-      "cdnAmpWebUrl": "https://nbc--2-com.cdn.ampproject.org/c/s/nbc-2.com/news/2021/05/11/funny-faces-in-face-recognition-could-increase-phone-security-with-new-technology/amp/",
-      "publishedDateTime": "2021-05-11T14:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC2",
-        "domain": "nbc-2.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Security"
       ]
     }
   ],

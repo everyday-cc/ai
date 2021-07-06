@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chipsets-market-latest-industry-trends-industry-size-key-drivers-and-future-demand-forecast-2021-07-02"
 type: article
 quality: 79
-heat: 169
+heat: 179
 published: true
 
 provider:
@@ -83,6 +83,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 53
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "AI in Manufacturing Market Latest Industry Trends, COVID 19 Impact Analysis, Key Drivers and Future Demand Forecast"
+    excerpt: "The globalAI in manufacturing market forecastis expected to rise owing to increasing demand for collaborative robots"
+    publishedDateTime: 2021-07-06T06:25:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-in-manufacturing-market-latest-industry-trends-covid-19-impact-analysis-key-drivers-and-future-demand-forecast-2021-07-06"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 45
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

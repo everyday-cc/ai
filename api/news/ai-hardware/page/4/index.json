@@ -2,6 +2,40 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-05-30-intel-stock-arm-launches-cortex-x2-cpu-and-mali-gpu-for-phones-and-pcs.md",
+      "title": "Intel Stock – Arm launches Cortex-X2 CPU and Mali GPU for phones and PCs",
+      "excerpt": "Arm announced details of the first Cortex-X2 CPU and Mali-G710 GPU core to drive future Arm-based smartphones and PCs in 2022. In the latter category, Arm has already made a fairly positive claim to Intel.",
+      "sourceUrl": null,
+      "webUrl": "https://fintechzoom.com/fintech_news_intel/intel-stock-arm-launches-cortex-x2-cpu-and-mali-gpu-for-phones-and-pcs/",
+      "originalUrl": "https://fintechzoom.com/fintech_news_intel/intel-stock-arm-launches-cortex-x2-cpu-and-mali-gpu-for-phones-and-pcs/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-29T19:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "fintechzoom",
+        "domain": "fintechzoom.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-29-intels-image-enhancing-ai-is-a-step-forward-for-photorealistic-game-engines.md",
       "title": "Intel’s image-enhancing AI is a step forward for photorealistic game engines",
       "excerpt": "Intel's deep learning system turns 3D rendered graphics into photorealistic images, but it isn't ready yet to deliver real-time game engines.",
@@ -1364,49 +1398,6 @@
       "provider": {
         "name": "thetechportal.com",
         "domain": "thetechportal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-18-the-10-hottest-ai-chipmakers-you-should-be-watching-in-2021.md",
-      "title": "The 10 Hottest AI Chipmakers You Should Be Watching In 2021",
-      "excerpt": "CRN looks at the 10 hottest AI chipmakers to watch in 2021, which includes Intel, Nvidia and several startups in the AI hardware space.",
-      "sourceUrl": null,
-      "webUrl": "https://www.crn.com/slide-shows/components-peripherals/the-10-hottest-ai-chipmakers-you-should-be-watching-in-2021/4",
-      "originalUrl": "https://www.crn.com/slide-shows/components-peripherals/the-10-hottest-ai-chipmakers-you-should-be-watching-in-2021/4",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.crn.com/resources/0269-124e7ffe25bc-a87ce470363c-1000/honeycomb_circuitry_surface.jpeg",
-          "width": 797,
-          "height": 449,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-18T09:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CRN",
-        "domain": "crn.com",
         "images": null,
         "publishers": null,
         "authors": null

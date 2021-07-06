@@ -2,6 +2,83 @@
   "page": 69,
   "value": [
     {
+      "path": "_news/2021-05-17-truliant-federal-credit-union-invests-in-boston-area-fintech-for-ai-capabilities.md",
+      "title": "Truliant Federal Credit Union invests in Boston-area fintech for AI capabilities",
+      "excerpt": "\"This is the way the world is moving,\" says Karan Kashyap, CEO and co-founder of Posh Technologies. \"This is the way that the big banks are already moving, and if you don't understand that, then it's going to just be harder for you to stay relevant.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bizjournals.com/charlotte/news/2021/05/17/truliant-invests-in-posh-ai-technologies-chatbot.html",
+      "originalUrl": "https://www.bizjournals.com/charlotte/news/2021/05/17/truliant-invests-in-posh-ai-technologies-chatbot.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-17T04:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Business Journals",
+        "domain": "bizjournals.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-17-international-automaker-to-launch-self-driving-cars-in-pakistan.md",
+      "title": "International automaker to launch self driving cars in Pakistan",
+      "excerpt": "The concept of self-driving cars replacing conventional cars has been been a trending discussion but the implementation of this has been varying due to safety",
+      "sourceUrl": null,
+      "webUrl": "https://timesofislamabad.com/17-May-2021/international-automaker-to-launch-self-driving-cars-in-pakistan",
+      "originalUrl": "https://timesofislamabad.com/17-May-2021/international-automaker-to-launch-self-driving-cars-in-pakistan",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://timesofislamabad.com/digital_images/extra-large/2021-05-17/international-automaker-to-launch-self-driving-cars-in-pakistan-1621249505-5432.jpg",
+          "width": 1200,
+          "height": 669,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://timesofislamabad.com/17-May-2021/international-automaker-to-launch-self-driving-cars-in-pakistan?version=amp",
+      "cdnAmpWebUrl": "https://timesofislamabad-com.cdn.ampproject.org/c/s/timesofislamabad.com/17-May-2021/international-automaker-to-launch-self-driving-cars-in-pakistan?version=amp",
+      "publishedDateTime": "2021-05-17T04:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Times of Islamabad",
+        "domain": "timesofislamabad.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-17-artificial-intelligence-market-to-perceive-substantial-growth-during-2021-2025-says-kenneth-research.md",
       "title": "Artificial Intelligence Market to Perceive Substantial Growth during 2021- 2025 | Says Kenneth Research",
       "excerpt": "Kenneth Research, in its repository of Artificial Intelligence Market research reports, have recently added a report",
@@ -1031,109 +1108,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-15-gpt-3s-free-alternative-gpt-neo-is-something-to-be-excited-about.md",
-      "title": "GPT-3’s free alternative GPT-Neo is something to be excited about",
-      "excerpt": "GPT-Neo performs on par with GPT-3 on several key benchmarks, but unlike GPT-3, it's open to anyone who wants to use it.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/05/15/gpt-3s-free-alternative-gpt-neo-is-something-to-be-excited-about/",
-      "originalUrl": "https://venturebeat.com/2021/05/15/gpt-3s-free-alternative-gpt-neo-is-something-to-be-excited-about/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/05/GettyImages-1053437844.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/05/15/gpt-3s-free-alternative-gpt-neo-is-something-to-be-excited-about/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/15/gpt-3s-free-alternative-gpt-neo-is-something-to-be-excited-about/amp/",
-      "publishedDateTime": "2021-05-15T06:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-15-european-ai-needs-strategic-leadership-not-overregulation.md",
-      "title": "European AI needs strategic leadership, not overregulation",
-      "excerpt": "Proposed EU regulations could cripple AI development in the EU while China and the U.S. leap forward and lead to complete chaos when regulations in various EU bodies start contradicting.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/05/15/european-ai-needs-strategic-leadership-not-overregulation/",
-      "originalUrl": "https://techcrunch.com/2021/05/15/european-ai-needs-strategic-leadership-not-overregulation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/05/GettyImages-1211364640.jpg?w=1024",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/05/15/european-ai-needs-strategic-leadership-not-overregulation/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/05/15/european-ai-needs-strategic-leadership-not-overregulation/amp/",
-      "publishedDateTime": "2021-05-15T03:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

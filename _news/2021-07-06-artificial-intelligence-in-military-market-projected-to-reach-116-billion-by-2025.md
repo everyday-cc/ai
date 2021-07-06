@@ -34,15 +34,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "At 26.3% CAGR, AI in Computer Vision Market Size will reach 64.59 billion USD by 2027"
-    excerpt: "Global AI in computer vision Market to reach USD 64.59 billion by 2027. Global AI in computer vision Market is valued approximately USD 12.6 billion in 2020 and is anticipated to grow with a healthy growth rate of more than 26."
-    publishedDateTime: 2021-07-01T14:03:00Z
-    webUrl: "https://www.marketwatch.com/press-release/at-263-cagr-ai-in-computer-vision-market-size-will-reach-6459-billion-usd-by-2027-2021-07-01"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 57
   - title: "Global AI Recognition Market Size, Status and Forecast 2021-2027"
     excerpt: "Pages Report] Check for Discount on Global AI Recognition Market Size, Status and Forecast 2021-2027 report by QYResearch Group. Market Analysis and Insights: Global AI Recognition Market The"
     publishedDateTime: 2021-07-03T09:03:00Z

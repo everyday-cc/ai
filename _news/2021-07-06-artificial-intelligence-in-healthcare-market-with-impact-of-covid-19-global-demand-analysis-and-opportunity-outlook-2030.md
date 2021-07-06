@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-with-impact-of-covid-19-global-demand-analysis-and-opportunity-outlook-2030-2021-07-06"
 type: article
 quality: 59
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -71,20 +71,31 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "COVID-19 Impact and Analysis|Artificial Intelligence Market In The Industrial Sector| Technavio"
-    excerpt: "Technavio has been monitoring the artificial intelligence market in the industrial sector, operating under the industrials segment. The"
-    publishedDateTime: 2021-07-06T02:50:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/covid-19-impact-and-analysisartificial-intelligence-market-in-the-industrial-sector-technavio-301325200.html"
+  - title: "Facial Recognition Market 2021, Top Leading Countries, Companies, Consumption, Trends, Forces Analysis, Revenue, Challenges and Global Forecast 2030"
+    excerpt: "In a recent published report, Kenneth Research has updated the market report for Facial Recognition Market for 2021"
+    publishedDateTime: 2021-07-05T05:18:00Z
+    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-market-2021-top-leading-countries-companies-consumption-trends-forces-analysis-revenue-challenges-and-global-forecast-2030-2021-07-05"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 25
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 30
     images:
-      - url: "https://mma.prnewswire.com/media/1556863/Technavio__AI.jpg?p=facebook"
-        width: 1279
-        height: 670
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
+  - title: "COVID-19 Impact and Analysis|Artificial Intelligence Market In The Industrial Sector| Technavio"
+    excerpt: "Technavio has been monitoring the artificial intelligence market in the industrial sector, operating under the industrials segment."
+    publishedDateTime: 2021-07-06T02:50:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/21/07/n21849463/covid-19-impact-and-analysis-artificial-intelligence-market-in-the-industrial-sector-technavio"
+    ampWebUrl: "https://www.benzinga.com/amp/content/21849463"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/21849463"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 25
 
 secured: "jmuC9kz+G36VmrZs0XVYH76E3FA9F3bJ6Rm1T2O/hP89/5o3zO5G3yricPy+N+VUJDnMjM2GfJ/jBszGv/rGcurindMhzHVRzEk5ArTMQlpPN1WlLVvmLjG/haxGBE0vd0Ena2Uj3ge22Xbv1gKbTRNg/zSftNJBMX3AnzHFBleT0Y5pfV+5LIxVexvuLf22I0m/Sd9uynwtmCANNW/jTcfnL5RYz62V3wxTh5XSxP2brTUthDEngyYpqbm9XEf7GVnIrW3hXiPOUSnIebxCxGTUDSlLazjqfIfDhqzLwDy2sC6eJfwOpOWga3NIITnD48EhVNZcEbHyekfl5Nf96gwpp+pD9aC9OF4OIC8bfwk=;bFhOuKqVxGAloN/vca9vcw=="
 ---

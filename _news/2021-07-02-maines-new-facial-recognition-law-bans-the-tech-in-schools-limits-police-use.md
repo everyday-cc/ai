@@ -79,20 +79,6 @@ related:
         width: 780
         height: 520
         isCached: true
-  - title: "Maine law restricts facial recognition technology statewide"
-    excerpt: "A bill touted as the country’s strictest statewide regulation on the use of facial recognition technology has become law in Maine."
-    publishedDateTime: 2021-07-01T13:17:00Z
-    webUrl: "https://www.wcax.com/2021/07/01/maine-law-restricts-facial-recognition-technology-statewide/"
-    type: article
-    provider:
-      name: WCAX3
-      domain: wcax.com
-    quality: 54
-    images:
-      - url: "https://gray-wcax-prod.cdn.arcpublishing.com/resizer/AWeLMGPHr6yaSWSXbK82THzF4jk=/980x0/smart/filters:quality(85)/cloudfront-us-east-1.images.arcpublishing.com/gray/UM3WYS76ARJUZFZLRWELC7PKPM.jpg"
-        width: 980
-        height: 551
-        isCached: true
   - title: "Maine Holds Strong Against Facial Recognition"
     excerpt: "The new law represents the strongest move by any state in the country to regulate the widespread use of the technology by law enforcement and offer a pathway to legal action if used in violation of the law."
     publishedDateTime: 2021-07-02T14:38:00Z
@@ -153,6 +139,22 @@ related:
     quality: 52
     images:
       - url: "https://nypost.com/wp-content/uploads/sites/2/2021/07/prison-facial-recognition-01.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Facial Recognition Used to Verify Vaccine Recipients but Privacy Concerns Not Checked: Govt"
+    excerpt: "In a recent RTI query, Ministry of Health and Family Welfare (MoHFW) has admitted to the use of facial recognition technology (FRT) for online verification of beneficiaries at vaccination centres."
+    publishedDateTime: 2021-07-06T07:36:00Z
+    webUrl: "https://www.news18.com/news/india/facial-recognition-used-to-verify-vaccine-recipients-but-privacy-concerns-not-checked-govt-3930299.html"
+    ampWebUrl: "https://www.news18.com/amp/news/india/facial-recognition-used-to-verify-vaccine-recipients-but-privacy-concerns-not-checked-govt-3930299.html"
+    cdnAmpWebUrl: "https://www-news18-com.cdn.ampproject.org/c/s/www.news18.com/amp/news/india/facial-recognition-used-to-verify-vaccine-recipients-but-privacy-concerns-not-checked-govt-3930299.html"
+    type: article
+    provider:
+      name: CNN-News18
+      domain: news18.com
+    quality: 49
+    images:
+      - url: "https://images.news18.com/ibnlive/uploads/2021/07/1625242287_vaccine.jpg"
         width: 1200
         height: 800
         isCached: true

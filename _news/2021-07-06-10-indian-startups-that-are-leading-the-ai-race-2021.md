@@ -6,8 +6,8 @@ publishedDateTime: 2021-07-06T04:30:00Z
 originalUrl: "https://analyticsindiamag.com/10-indian-startups-that-are-leading-the-ai-race-2021/"
 webUrl: "https://analyticsindiamag.com/10-indian-startups-that-are-leading-the-ai-race-2021/"
 type: article
-quality: 39
-heat: 39
+quality: 41
+heat: 41
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI in Robotics
   - AI
+  - Microsoft AI
 
 images:
   - url: "https://analyticsindiamag.com/wp-content/uploads/2021/07/CDS-32.jpg"

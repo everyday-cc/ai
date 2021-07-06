@@ -25,17 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Ambarella's (AMBA) CVflow Vision Processor to Power Arrival's EVs"
-    excerpt: "AMBA recently announced that its CV2FS CVflow AI vision processor has been adopted by global electric vehicle (EV) manufacturer — Arrival ARVL — to build the environmental perception module for its vehicles."
-    publishedDateTime: 2021-07-01T14:53:00Z
-    webUrl: "https://www.nasdaq.com/articles/ambarellas-amba-cvflow-vision-processor-to-power-arrivals-evs-2021-07-01"
-    ampWebUrl: "https://www.nasdaq.com/articles/ambarellas-amba-cvflow-vision-processor-to-power-arrivals-evs-2021-07-01?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/ambarellas-amba-cvflow-vision-processor-to-power-arrivals-evs-2021-07-01?amp"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 54
   - title: "VVDN expands its capabilities on Ambarella edge AI vision"
     excerpt: "The expansion also allows VVDN to address multiple-tier including high as well as mid-range requirements for smart camera solutions VVDN has gained expertis"
     publishedDateTime: 2021-07-05T07:55:00Z

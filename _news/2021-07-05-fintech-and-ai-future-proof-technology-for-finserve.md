@@ -50,6 +50,22 @@ related:
         width: 512
         height: 512
         isCached: true
+  - title: "New Fintech Startups to Watch In 2021"
+    excerpt: "Consumers expect more than just a transaction with minimal interaction when engaging with their financial products."
+    publishedDateTime: 2021-07-06T07:52:00Z
+    webUrl: "https://www.financemagnates.com/thought-leadership/new-fintech-startups-to-watch-in-2021/"
+    ampWebUrl: "https://www.financemagnates.com/thought-leadership/new-fintech-startups-to-watch-in-2021/amp/"
+    cdnAmpWebUrl: "https://www-financemagnates-com.cdn.ampproject.org/c/s/www.financemagnates.com/thought-leadership/new-fintech-startups-to-watch-in-2021/amp/"
+    type: article
+    provider:
+      name: Finance Magnates
+      domain: financemagnates.com
+    quality: 44
+    images:
+      - url: "https://www.financemagnates.com/wp-content/uploads/2021/07/fintech-header.jpg"
+        width: 880
+        height: 400
+        isCached: true
   - title: "5 reasons your team should attend Fintech & Insurtech Live"
     excerpt: "Join us from 12th - 14th October 2021 for the ultimate Fintech & Insurtech event, streamed live from London’s Tobacco Dock"
     publishedDateTime: 2021-07-02T16:04:00Z
