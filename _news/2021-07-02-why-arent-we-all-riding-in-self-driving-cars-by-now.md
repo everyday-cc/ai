@@ -9,7 +9,7 @@ ampWebUrl: "https://metro.co.uk/2021/07/02/why-arent-we-all-riding-in-self-drivi
 cdnAmpWebUrl: "https://metro-co-uk.cdn.ampproject.org/c/s/metro.co.uk/2021/07/02/why-arent-we-all-riding-in-self-driving-cars-by-now-14858078/amp/"
 type: article
 quality: 44
-heat: -1
+heat: 44
 published: false
 
 provider:
@@ -27,35 +27,19 @@ images:
     isCached: true
 
 related:
-  - title: "Rating The Fast And Furious Movies Hottest Vehicles And Gazing Into The Future Toward An Era Of AI Self-Driving Cars"
-    excerpt: "Moviegoers are eagerly going to see the latest in the Fast and Furious film franchise, which brings up which of the series cars are the hottest, along with what will happen in the future when we have AI driverless self-driving cars."
-    publishedDateTime: 2021-07-02T15:30:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2021/07/02/rating-the-fast-and-furious-movies-hottest-vehicles-and-gazing-into-the-future-toward-an-era-of-ai-self-driving-cars/"
-    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/07/02/rating-the-fast-and-furious-movies-hottest-vehicles-and-gazing-into-the-future-toward-an-era-of-ai-self-driving-cars/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/07/02/rating-the-fast-and-furious-movies-hottest-vehicles-and-gazing-into-the-future-toward-an-era-of-ai-self-driving-cars/amp/"
+  - title: "Killer Flying Robots Are Here. What Do We Do Now?"
+    excerpt: "A new generation of AI-enabled drones could be used to terrible ends by rogue states, criminal groups, and psychopaths."
+    publishedDateTime: 2021-07-05T10:02:00Z
+    webUrl: "https://foreignpolicy.com/2021/07/05/killer-flying-robots-drones-autonomous-ai-artificial-intelligence-facial-recognition-targets-turkey-libya/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 66
+      name: Foreign Policy
+      domain: foreignpolicy.com
+    quality: 39
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60db889ae6c06c3e3dc220d5%2F0x0.jpg%3FcropX1%3D17%26cropX2%3D3260%26cropY1%3D57%26cropY2%3D1881"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Self-Driving Cars, Brain-Computer Interfaces, Other Cutting-Edge AI Tech to Be on Show in Shanghai"
-    excerpt: "State-of-the-art technologies including unmanned vehicles on the open road and brain-computer interface systems that transfer signals from the brain to external devices will be on display at the 2021 World Artificial Intelligence Conference to be held in Shanghai later this week."
-    publishedDateTime: 2021-07-06T11:23:00Z
-    webUrl: "https://www.yicaiglobal.com/news/self-driving-cars-brain-computer-interfaces-other-cutting-edge-ai-tech-to-be-on-show-in-shanghai"
-    type: article
-    provider:
-      name: Yicai Global
-      domain: yicaiglobal.com
-    quality: 25
-    images:
-      - url: "http://img.yicaiglobal.com/cdn/news/self-driving-cars-brain-computer-interfaces-other-cutting-edge-ai-tech-to-be-on-show-in-shanghai/14596832070205440.jpg"
-        width: 720
-        height: 480
+      - url: "https://foreignpolicy.com/wp-content/uploads/2021/07/drone-navy-GettyImages-168745236.jpg?w=1000"
+        width: 1000
+        height: 667
         isCached: true
 
 secured: "rBnP3AFUzhM/3VciHJ7HlDj6wyyjTOgSyqHq2FpMlN57S9cnr1zU2Zq2mNBzNPePXn7lPeIei3C5AK0jZjv5RZWiT22mBq0OOkS3DOuGeYbGfS3fJo/3LJjpqbIL9Anl5JtwZytddv3hxKP2m3F4j8ie3Bw0js3QDdC621HkJtVLzDn+awiSTtDG/D+d3jJN/P7EDQe5F3UAaraeZprb9iVmFN6Jn+QIfraLHN2jFLMvZbc/yDATFTpuMrXXPyY7w3RwNR1KwwLBuaIhAr5fjmOwV16iRIYihoCCEFZvsWUGeArAcQnO2M90GVlYX3ZQ5t8vIFc0s6z8xgKdUCqWQlKXOxYMOePxuiFH86Gx5pji5hah1syg1ncpHjO7zRW5Uu3ngPFa5IdNsNZNdz05Q+WrNYb55xlPpxNF5iY47SfG2fyn03LaZSlV/gdwmU23LYR6pmQiK1LyEdgx2e7zBgiD2wnglIa3EiuK3y547QZIMBLcdhJVUKEftGHvOLEYbxmwiUQPV6D8Jg6IEz/YjA==;sv/exkhvkMvpe4Ry1sZFFg=="

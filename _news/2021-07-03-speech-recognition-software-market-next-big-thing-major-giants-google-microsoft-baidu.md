@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/speech-recognition-softw
 webUrl: "https://www.marketwatch.com/press-release/speech-recognition-software-market-next-big-thing-major-giants-google-microsoft-baidu-2021-07-03"
 type: article
 quality: 92
-heat: 202
+heat: 192
 published: true
 
 provider:
@@ -30,22 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Finance Ministry, Microsoft join hands to build AI, emerging tech centre"
-    excerpt: "The collaboration between AJNIFM and Microsoft is meant to explore the role of cloud, AI and emerging technologies in transforming and shaping the future of public finance management in India"
-    publishedDateTime: 2021-07-02T00:57:00Z
-    webUrl: "https://www.livemint.com/news/india/finance-ministry-microsoft-join-hands-to-build-ai-emerging-tech-centre-11625144900167.html"
-    ampWebUrl: "https://www.livemint.com/news/india/finance-ministry-microsoft-join-hands-to-build-ai-emerging-tech-centre/amp-11625144900167.html"
-    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/news/india/finance-ministry-microsoft-join-hands-to-build-ai-emerging-tech-centre/amp-11625144900167.html"
-    type: article
-    provider:
-      name: Mint
-      domain: livemint.com
-    quality: 90
-    images:
-      - url: "https://images.livemint.com/img/2021/07/01/600x338/mou_1625145073756_1625145095525.jpg"
-        width: 600
-        height: 338
-        isCached: true
   - title: "Best Microsoft technical certification 2021: Top exams"
     excerpt: "ZDNet has compiled a collection of the best Microsoft certifications that will protect your job and boost your income as we head toward 2022 in a business world that is speeding towards digital transformation."
     publishedDateTime: 2021-07-06T06:42:00Z
@@ -56,7 +40,7 @@ related:
     provider:
       name: ZDNet
       domain: zdnet.com
-    quality: 89
+    quality: 91
     images:
       - url: "https://www.zdnet.com/a/hub/i/2021/06/23/17d8ed20-1299-443d-8153-846622179896/msft-azure.jpg"
         width: 1600

@@ -8,7 +8,7 @@ webUrl: "https://www.zdnet.com/article/best-microsoft-technical-certification/"
 ampWebUrl: "https://www.zdnet.com/google-amp/article/best-microsoft-technical-certification/"
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/best-microsoft-technical-certification/"
 type: article
-quality: 89
+quality: 91
 heat: -1
 published: false
 
@@ -23,6 +23,7 @@ provider:
 topics:
   - Microsoft AI
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://www.zdnet.com/a/hub/i/2021/06/23/17d8ed20-1299-443d-8153-846622179896/msft-azure.jpg"
@@ -44,22 +45,6 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Finance Ministry, Microsoft join hands to build AI, emerging tech centre"
-    excerpt: "The collaboration between AJNIFM and Microsoft is meant to explore the role of cloud, AI and emerging technologies in transforming and shaping the future of public finance management in India"
-    publishedDateTime: 2021-07-02T00:57:00Z
-    webUrl: "https://www.livemint.com/news/india/finance-ministry-microsoft-join-hands-to-build-ai-emerging-tech-centre-11625144900167.html"
-    ampWebUrl: "https://www.livemint.com/news/india/finance-ministry-microsoft-join-hands-to-build-ai-emerging-tech-centre/amp-11625144900167.html"
-    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/news/india/finance-ministry-microsoft-join-hands-to-build-ai-emerging-tech-centre/amp-11625144900167.html"
-    type: article
-    provider:
-      name: Mint
-      domain: livemint.com
-    quality: 90
-    images:
-      - url: "https://images.livemint.com/img/2021/07/01/600x338/mou_1625145073756_1625145095525.jpg"
-        width: 600
-        height: 338
         isCached: true
   - title: "Reply Shapes the Future of Autonomous Mobile Robots with the Power of Microsoft Azure"
     excerpt: "Reply announced today that it has developed an end-to-end solution architecture for autonomous mobile robots (AMR) on Microsoft Azure that enables new"
@@ -153,6 +138,6 @@ related:
       domain: manometcurrent.com
     quality: 21
 
-secured: "vJJUFWIFR7tXJkyVhQKOVSX9jwQTFf4EUhHK9fZPmDZOsr5jn0ZwJfXLiDuVacjJc/J+K47ioPMssVhQaRxNWI3m4lj6X1ryWMGJckTcWTGSp+R7WLVy1ySRu256HLFCQ2OBdjItI9JlKTA95koEkAAZfQjXBP9l+w/PdsjBrIwPJNQeAmrqFqRxD+UXb0G4wsrF1EAKlptW+ZXKrmyTFXN3/BJt4x1+AIpoHtNqqoa4/AJpbxlbici6TuHS7UiNAHERS6JVq+jUiu02yTxU7l++OWgP/SXtP+3y644lc2v/GRQdaEa36HOuaAmLFPCHFkG5WbbHzthd+k/ddctOuy5ItuTtfpqE5ry07oiLyyE=;1c+gcuzuOSRMSL1R65E2zA=="
+secured: "Vj/YwVNkDQGG1qT6boXqM3f+95t/Ce7zHutHfEqwmnMclw9LKh4AGlTfRcC3t5kaILjvIHXqOm5frLrQ22ZdCpldmD+DoypB0ok06cjKlW9k73cRb7YJiNWtPEz0O6obkX4wf8vq+QJIOf71CqULlxUnzEl9ONcw1gdYw4L+HTXqPbBBkURyDxgloHcWsr/n89bx8SG+E4Vub87bf7tPOYSKZtSpJqZ1I7BHSS/0n7QHP3rALLicw6Dyi+LuUKxghilIe7aFoXLZZsFG4Pk8m0HzYvpZZPaR7eyR5hHIDThcu5+UDitkN+TGFLaunE2g43uk4jTAiBsaq1YVyMyiudUicbZNPKMMyT3xqCSrV0NEH9X9hldySQ9PD1ItnNJdKnhArCai7c40wQoLLUUAJ5xUEo4i2nsK3l+Jd28LhbA0WBvUFqA6sxPgMSLnZCi/XSxL/Hg0rGbYOGZePwRTQaubIDpid3TbWvEbwKlqYUvOo6oWezwtg4mY7PPp7iLjtAP4VGSwKAEzmG0BoYhO4g==;7ZcqeZ+gjJWSg8YuDqwg5A=="
 ---
 

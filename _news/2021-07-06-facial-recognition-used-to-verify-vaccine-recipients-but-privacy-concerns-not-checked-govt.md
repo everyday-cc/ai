@@ -111,20 +111,6 @@ related:
         width: 1000
         height: 667
         isCached: true
-  - title: "Facial recognition: Tax pros mull returning to in-person meetings"
-    excerpt: "Absolutely — as people feel more comfortable, we anticipate having more live rather than virtual meetings and events,” said Daniel Morris, a CPA and senior partner with Morris+D’Angelo CPAs in San Jose,"
-    publishedDateTime: 2021-07-06T13:00:00Z
-    webUrl: "https://www.accountingtoday.com/news/facial-recognition-tax-pros-mull-returning-to-in-person-meetings"
-    type: article
-    provider:
-      name: Accounting Today
-      domain: accountingtoday.com
-    quality: 39
-    images:
-      - url: "https://arizent.brightspotcdn.com/b0/a1/9a53ebac4783bb22133d358a52d4/coronavirus-6-feet-sign.jpg"
-        width: 3998
-        height: 2667
-        isCached: true
   - title: "13 federal law enforcement agencies haven’t been monitoring facial recognition technology use"
     excerpt: "The report from the U.S. Government Accountability Office (GAO) said 13 of the federal law enforcement agencies surveyed that use facial recognition technology did not have a system in place to track when or how employees were using the system or to assess the privacy risks associated with the use."
     publishedDateTime: 2021-07-02T21:40:00Z

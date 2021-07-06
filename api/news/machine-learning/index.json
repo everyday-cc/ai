@@ -2,21 +2,21 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2021-07-06-pioneers-of-deep-learning-ai-think-its-future-is-gonna-be-lit.md",
-      "title": "Pioneers of deep learning AI think its future is gonna be lit",
-      "excerpt": "Yoshua Bengio, Geoffrey Hinton, and Yann LeCun, explain the current challenges of deep learning and what the future might hold",
+      "path": "_news/2021-07-06-federated-learning-and-the-future-of-ml.md",
+      "title": "Federated Learning and the Future of ML",
+      "excerpt": "By sharing ML models and training data, organisations can power-up their ML projects. Now there’s a way to do it without compromising data privacy or security",
       "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/news/pioneers-deep-learning-future-lit-syndication",
-      "originalUrl": "https://thenextweb.com/news/pioneers-deep-learning-future-lit-syndication",
+      "webUrl": "https://www.itpro.co.uk/technology/machine-learning/360102/federated-learning-and-the-future-of-ml",
+      "originalUrl": "https://www.itpro.co.uk/technology/machine-learning/360102/federated-learning-and-the-future-of-ml",
       "featuredContent": null,
       "highlight": null,
-      "heat": 85,
+      "heat": 111,
       "tags": null,
       "images": [
         {
-          "url": "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F07%2F1Yoshua-Bengio-Geoffrey-Hinton-Yann-LeCun-deep-learning.jpg&signature=85a3577f4fff3f0407c4111620ca1ebd",
-          "width": 1280,
-          "height": 640,
+          "url": "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1625479772/machine_learning_artificial_intelligence.jpg",
+          "width": 1260,
+          "height": 710,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,16 +24,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-05T10:26:00-07:00",
+      "ampWebUrl": "https://www.itpro.co.uk/technology/machine-learning/360102/federated-learning-and-the-future-of-ml?amp",
+      "cdnAmpWebUrl": "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/technology/machine-learning/360102/federated-learning-and-the-future-of-ml?amp",
+      "publishedDateTime": "2021-07-06T04:42:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
+        "name": "IT Pro",
+        "domain": "itpro.co.uk",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/itpro.co.uk-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -49,8 +49,9 @@
         "news"
       ],
       "topics": [
-        "Machine Learning",
-        "AI"
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
       ]
     },
     {
@@ -167,7 +168,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chipsets-market-latest-industry-trends-industry-size-key-drivers-and-future-demand-forecast-2021-07-02",
       "featuredContent": null,
       "highlight": null,
-      "heat": 169,
+      "heat": 179,
       "tags": null,
       "images": [
         {

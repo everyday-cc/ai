@@ -9,8 +9,8 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/07/02/rating-the-fast-a
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/07/02/rating-the-fast-and-furious-movies-hottest-vehicles-and-gazing-into-the-future-toward-an-era-of-ai-self-driving-cars/amp/"
 type: article
 quality: 66
-heat: 86
-published: true
+heat: -1
+published: false
 
 provider:
   name: Forbes
@@ -31,35 +31,35 @@ images:
     isCached: true
 
 related:
-  - title: "Why aren’t we all riding in self-driving cars by now?"
-    excerpt: "Some analysts predicted there would be ten million self-driving cars on the road by 2020, while others suggested we would all become permanent back-seat drivers. Addison Lee claimed it would get self- driving taxis into London by 2021 but it hasn’t happened – travelling from point A to point B still requires someone at the wheel."
-    publishedDateTime: 2021-07-02T09:46:00Z
-    webUrl: "https://metro.co.uk/2021/07/02/why-arent-we-all-riding-in-self-driving-cars-by-now-14858078/"
-    ampWebUrl: "https://metro.co.uk/2021/07/02/why-arent-we-all-riding-in-self-driving-cars-by-now-14858078/amp/"
-    cdnAmpWebUrl: "https://metro-co-uk.cdn.ampproject.org/c/s/metro.co.uk/2021/07/02/why-arent-we-all-riding-in-self-driving-cars-by-now-14858078/amp/"
+  - title: "Federated Learning and the Future of ML"
+    excerpt: "By sharing ML models and training data, organisations can power-up their ML projects. Now there’s a way to do it without compromising data privacy or security"
+    publishedDateTime: 2021-07-06T11:42:00Z
+    webUrl: "https://www.itpro.co.uk/technology/machine-learning/360102/federated-learning-and-the-future-of-ml"
+    ampWebUrl: "https://www.itpro.co.uk/technology/machine-learning/360102/federated-learning-and-the-future-of-ml?amp"
+    cdnAmpWebUrl: "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/technology/machine-learning/360102/federated-learning-and-the-future-of-ml?amp"
     type: article
     provider:
-      name: Metro
-      domain: metro.co.uk
-    quality: 44
+      name: IT Pro
+      domain: itpro.co.uk
+    quality: 91
     images:
-      - url: "https://metro.co.uk/wp-content/uploads/2021/07/SEI_85220509.jpg?quality=90&strip=all&zoom=1&resize=600%2C400"
-        width: 600
-        height: 400
+      - url: "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1625479772/machine_learning_artificial_intelligence.jpg"
+        width: 1260
+        height: 710
         isCached: true
-  - title: "Self-Driving Cars, Brain-Computer Interfaces, Other Cutting-Edge AI Tech to Be on Show in Shanghai"
-    excerpt: "State-of-the-art technologies including unmanned vehicles on the open road and brain-computer interface systems that transfer signals from the brain to external devices will be on display at the 2021 World Artificial Intelligence Conference to be held in Shanghai later this week."
-    publishedDateTime: 2021-07-06T11:23:00Z
-    webUrl: "https://www.yicaiglobal.com/news/self-driving-cars-brain-computer-interfaces-other-cutting-edge-ai-tech-to-be-on-show-in-shanghai"
+  - title: "Pioneers of deep learning AI think its future is gonna be lit"
+    excerpt: "Yoshua Bengio, Geoffrey Hinton, and Yann LeCun, explain the current challenges of deep learning and what the future might hold"
+    publishedDateTime: 2021-07-05T17:26:00Z
+    webUrl: "https://thenextweb.com/news/pioneers-deep-learning-future-lit-syndication"
     type: article
     provider:
-      name: Yicai Global
-      domain: yicaiglobal.com
-    quality: 25
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 84
     images:
-      - url: "http://img.yicaiglobal.com/cdn/news/self-driving-cars-brain-computer-interfaces-other-cutting-edge-ai-tech-to-be-on-show-in-shanghai/14596832070205440.jpg"
-        width: 720
-        height: 480
+      - url: "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F07%2F1Yoshua-Bengio-Geoffrey-Hinton-Yann-LeCun-deep-learning.jpg&signature=85a3577f4fff3f0407c4111620ca1ebd"
+        width: 1280
+        height: 640
         isCached: true
 
 secured: "X7iGqxmf3JGgM+UPw3d/dAoO+WsO0dgfoo8lDSAb2n4GWSWzAMTM/RDT1Jygy9y7C4jD/vwej9bK7/yIVfQ2QHz8b2mZJmabi8NNOuzmFKUgd1FgqKnEnx0QFu82NDFgOVLBhFmYrxfg8Xebj+m3U6gv4s2/JRb+juc+pbBOdROxAbC6E7k1eQflE4utBgX9a8SHISesRAqzKIHNLkuNlbEFCINoVm6syjdTF7qxbQOnejbAMThm/4UTl92P8gZGmUIE0cTDPrFKdn30dJi5nKLrSEtxo5HFTdEeSM/sBpQW6Sri1JUTA46zvWZ4ztIODwPMjK3vh4UsarG1Snd4mJWmpakNTiGT0IqLqAKixjRrsO0Cj2ehHE8jDL0kFOncCQdYTAeT83tUFviR/9zONoSIZQ0F+EZlIfYYlQQ+k5EG6QwzYMcDR+zRTwNIbjKUemikwrX+3/fkleyU8s8/6WQw+3Qm+AJS8NxdNptWiff8Rrsa8dOGNHvAQ8tNwz+w6oL+ugscGERmq36PyMHkPg==;vBdbuEC11TBTrK4F36V+Aw=="

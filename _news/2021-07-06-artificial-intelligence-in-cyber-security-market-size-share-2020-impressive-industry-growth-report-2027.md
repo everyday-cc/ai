@@ -20,6 +20,17 @@ topics:
   - AI
   - AI in Security
 
+related:
+  - title: "AI Governance Market to Witness Growth Acceleration During 2021-2027"
+    excerpt: "The recent analysis on AI Governance market intends to provide a competitive edge to stakeholders by uncovering the future growth patterns of this industry through a deep study of past records and latest global developments."
+    publishedDateTime: 2021-07-06T16:52:00Z
+    webUrl: "https://www.arnnet.com.au/mediareleases/143676/ai-governance-market-to-witness-growth/"
+    type: article
+    provider:
+      name: ARN
+      domain: arnnet.com.au
+    quality: 17
+
 secured: "+IlkdIwNcPn5rmTpA80AF74D1BCeb81ypQkCpjDjbtE2vXRW20HEFARnX0kbVHTQ3sshM2diehCdZovfV1UUVSgVui7SqmK6LIpm1dNR2jBMGw9zedtqf4Oz6DFrDSdcQGxEh3ae4qxbrWd4+nqS2f/0uYE7db6UOGvIZVwppEFMvm3xB33sdh04RH8RzVyW7ntRhr9CrUcQxRbXRcZ0nauOcweQ8hlZBwAyqCBlc8JNHM8dzzSWw3NB6FEZbwyD0a2gR3ez+a1Dd5iCb8YimZOz7pTT3Beg+KjOuiCZTQi7hrMLZKFUHfQKy6gCMAwr2eg7qCA3q4IWXVPsTXLIkd5VVKDrsoYN0ocdPtZKAvA=;ZMyczZhVqWSIr+e1p9g5wg=="
 ---
 

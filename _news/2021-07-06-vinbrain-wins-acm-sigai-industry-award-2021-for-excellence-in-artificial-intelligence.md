@@ -6,7 +6,7 @@ publishedDateTime: 2021-07-06T12:14:00Z
 originalUrl: "https://www.tmcnet.com/usubmit/2021/07/06/9403270.htm"
 webUrl: "https://www.tmcnet.com/usubmit/2021/07/06/9403270.htm"
 type: article
-quality: 25
+quality: 27
 heat: -1
 published: false
 
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 related:
   - title: "VinBrain wins ACM SIGAI industry award 2021 for excellence in artificial intelligence"

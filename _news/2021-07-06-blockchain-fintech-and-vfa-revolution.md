@@ -50,6 +50,17 @@ related:
         width: 512
         height: 512
         isCached: true
+  - title: "SoFi Technologies vs. Upstart: Which Fintech Stock Is A More Compelling Buy?"
+    excerpt: "According to an IndustryArc report, the Fintech market is expected to grow at a compounded annual growth rate (CAGR) of 8.7% between 2021 to 2026, and is anticipated to be worth $161.2 billion by 2026."
+    publishedDateTime: 2021-07-06T12:37:00Z
+    webUrl: "https://www.nasdaq.com/articles/sofi-technologies-vs.-upstart%3A-which-fintech-stock-is-a-more-compelling-buy-2021-07-06"
+    ampWebUrl: "https://www.nasdaq.com/articles/sofi-technologies-vs.-upstart%3A-which-fintech-stock-is-a-more-compelling-buy-2021-07-06?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/sofi-technologies-vs.-upstart%3A-which-fintech-stock-is-a-more-compelling-buy-2021-07-06?amp"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 51
   - title: "New Fintech Startups to Watch In 2021"
     excerpt: "Consumers expect more than just a transaction with minimal interaction when engaging with their financial products."
     publishedDateTime: 2021-07-06T07:52:00Z
@@ -136,6 +147,20 @@ related:
         width: 1254
         height: 617
         isCached: true
+  - title: "Fintech Startups Disrupting the Whole Industry"
+    excerpt: "However, do you actually know how huge the Financial Services industry is? You might arm yourself with a calculator, start crunching the numbers and arrive at a certain ballpark figure pretty soon. While there is a little doubt in your numerical prowess,"
+    publishedDateTime: 2021-07-06T16:58:00Z
+    webUrl: "https://www.finextra.com/blogposting/20559/fintech-startups-disrupting-the-whole-industry"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 24
+    images:
+      - url: "https://itexus.com/wp-content/uploads/2020/07/imgpsh_fullsize_anim-1.png"
+        width: 2603
+        height: 1338
+        isCached: true
   - title: "Financial Markets Tech Platform Symphony Partners with Fintech Saphyre to Add AI Solutions to Workflows"
     excerpt: "Symphony, the financial markets’ infrastructure and tech platform, has teamed up with Fintech company Saphyre, Inc. in order to integrate patented AI solutions into pre and post-trade workflows for front,"
     publishedDateTime: 2021-07-03T13:08:00Z
@@ -147,17 +172,6 @@ related:
       name: Crowdfund Insider
       domain: crowdfundinsider.com
     quality: 23
-  - title: "How real-time data innovation is driving up customer experience in fintech"
-    excerpt: "By Geoff Clark, General Manager EMEA, Aerospike The attention span of individuals and organisations is reducing. Time is compressing. There are only brief windows that can be devoted to any given transaction."
-    publishedDateTime: 2021-07-01T23:44:00Z
-    webUrl: "https://www.globalbankingandfinance.com/how-real-time-data-innovation-is-driving-up-customer-experience-in-fintech/"
-    ampWebUrl: "https://www.globalbankingandfinance.com/how-real-time-data-innovation-is-driving-up-customer-experience-in-fintech/"
-    cdnAmpWebUrl: "https://www-globalbankingandfinance-com.cdn.ampproject.org/c/s/www.globalbankingandfinance.com/how-real-time-data-innovation-is-driving-up-customer-experience-in-fintech/"
-    type: article
-    provider:
-      name: List of Banks in Belarus
-      domain: globalbankingandfinance.com
-    quality: 22
   - title: "4 Innovative Start-Ups To Watch In 2021"
     excerpt: "We’ve compiled a list of four innovative start-ups to keep an eye on in 2021. These companies are creating new and exciting technologies"
     publishedDateTime: 2021-07-06T14:07:00Z

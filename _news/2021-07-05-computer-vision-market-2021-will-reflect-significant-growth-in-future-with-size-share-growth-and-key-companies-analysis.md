@@ -43,6 +43,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Enterprise Artificial Intelligence Market Share, Size Growth Rate by Type, Application, Sales Estimates and Forecasts 2021-2030"
+    excerpt: "In a recent published report, Kenneth Research has updated the market report for Enterprise Artificial Intelligence"
+    publishedDateTime: 2021-07-06T16:18:00Z
+    webUrl: "https://www.marketwatch.com/press-release/enterprise-artificial-intelligence-market-share-size-growth-rate-by-type-application-sales-estimates-and-forecasts-2021-2030-2021-07-06"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 56
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence In Genomics Market Size Volume, Share, Demand growth, Business Opportunity by 2027"
     excerpt: "The global Artificial Intelligence In Genomics market size was valued at US$ 304 million in 2020 and is projected to reach US$ 2,675 million by 2027, rising at a market growth (CAGR) of 53.8% during the forecast period."
     publishedDateTime: 2021-07-05T22:02:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-with-impact-of-covid-19-global-demand-analysis-and-opportunity-outlook-2030-2021-07-06"
 type: article
 quality: 59
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -81,6 +81,20 @@ related:
       - url: "https://suprememarketresearchreports.files.wordpress.com/2020/10/global-1.jpg?w=622"
         width: 622
         height: 350
+        isCached: true
+  - title: "Call Center AI Market SWOT Analysis, Business Growth Opportunities by Top Companies, Future Challenges, Competitive Strategies and Forecast to 2027"
+    excerpt: "The report on the Call Center AI market provides a bird’s eye view of the current proceeding within the Call Center AI market. Further, the report also takes into account the impact of the novel Covid-19 pandemic on the Call Center AI market and offers a clear assessment of the projected market fluctuations during the forecast period."
+    publishedDateTime: 2021-07-06T17:25:00Z
+    webUrl: "https://manometcurrent.com/call-center-ai-market-swot-analysis-business-growth-opportunities-by-top-companies-future-challenges-competitive-strategies-and-forecast-to-2027/"
+    type: article
+    provider:
+      name: manometcurrent.com
+      domain: manometcurrent.com
+    quality: 0
+    images:
+      - url: "https://i.ibb.co/cwMkvB9/Researchmoz-us-391.jpg"
+        width: 626
+        height: 439
         isCached: true
 
 secured: "jmuC9kz+G36VmrZs0XVYH76E3FA9F3bJ6Rm1T2O/hP89/5o3zO5G3yricPy+N+VUJDnMjM2GfJ/jBszGv/rGcurindMhzHVRzEk5ArTMQlpPN1WlLVvmLjG/haxGBE0vd0Ena2Uj3ge22Xbv1gKbTRNg/zSftNJBMX3AnzHFBleT0Y5pfV+5LIxVexvuLf22I0m/Sd9uynwtmCANNW/jTcfnL5RYz62V3wxTh5XSxP2brTUthDEngyYpqbm9XEf7GVnIrW3hXiPOUSnIebxCxGTUDSlLazjqfIfDhqzLwDy2sC6eJfwOpOWga3NIITnD48EhVNZcEbHyekfl5Nf96gwpp+pD9aC9OF4OIC8bfwk=;bFhOuKqVxGAloN/vca9vcw=="

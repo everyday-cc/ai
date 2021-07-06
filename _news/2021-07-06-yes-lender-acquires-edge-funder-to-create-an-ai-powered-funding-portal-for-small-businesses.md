@@ -6,8 +6,8 @@ publishedDateTime: 2021-07-06T12:36:00Z
 originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_pennsylvania/yes-lender-acquires-edge-funder-to-create-an-ai-powered-funding-portal-for-small-businesses/article_d1818394-cc00-5bb0-9285-4be9f8057874.html"
 webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_pennsylvania/yes-lender-acquires-edge-funder-to-create-an-ai-powered-funding-portal-for-small-businesses/article_d1818394-cc00-5bb0-9285-4be9f8057874.html"
 type: article
-quality: 27
-heat: 27
+quality: 29
+heat: 29
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Finance
 
 images:
   - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/3/d5/3d5e1a5d-f16f-5c20-a53f-4df5d08387dc/60e44f58e0e38.image.jpg?resize=630%2C630"
@@ -23,6 +24,6 @@ images:
     height: 630
     isCached: true
 
-secured: "u7RwB/I6ou8vspwSULk+UFsrA9xK1VTfUmAZD8qfBHT1N1FQUD+hN8OQW7b+3cyzgEd6FG5EKgKPKL1MkrQoQ/o+f+C3qcJ5JHPUsJUAZWqWSEway50L3WG+dxAVH0drvY8HhG4kh5IWj8VKG2uvRYDsc3tyQrdsI83cZC1SjqFT3tyktNuq7IxYRIWCjMJv008kPymji2udwDXditWPCvu1P89LRjT2TDXbJzwNBqoLtBm7LzQt7/9tQUQTAzayidoyXLKltHchxI8jXWSd6m9d/521GufzYahJ4jZKBgVDWVh+XC/A4j4CHhrcU1ANX1yPT8I+fHsnmHAaoyGLDHD+edG1Eys7ozXkq/8Pc7M=;7xy+vKAmlkeMFu/CpEbRFA=="
+secured: "JB+mwxZy66JzGF7wYKeZpElnTgq4v01DspDtc6Q/WeBjYeftOhE89/E+L930P6TZuAto7azUD+Dk6LyqybQukVOy2p0QLl5K0QZzYBDjHKQRgB/rSA5rI19uApicR+oi70Zu6nScBXy3tjT0VnxN3zTwoQuqBocI/dA/7202zxKec8fm9EGjHuGKje7z+TA/+Ct2gHOtGeW9qRP6CkKtWj34bF51stOROEQmtt6MXnpp2a3EUww0Sl82KEgEoasghC/dYIEgV2++njgAE4vkFYZ05nNBjw48sJ7BPATZfgc3wT70bZGZtM+kr4juiMcJ25O2pzLQ1T3yBJq62eE2ACcl10Np+G1Nh/7EjA16/1+SBE7AbtiCRrq7yoQR5eTUZ2jQdxZD2utVeytojzOpN7pypS71AE+43KqEWb+n38ISv5/sicZFcR3Un9NMqThvvUlqneKLZJzeDyDINLRaGe4oknl7H2bP0lGNpYJ8UK1xkmU3D5wyfgJ+nzJe5fJMft+l8scA//fi/6Xgp3Odgg==;QiDnxRfLQXUIgLcxBt0rJQ=="
 ---
 

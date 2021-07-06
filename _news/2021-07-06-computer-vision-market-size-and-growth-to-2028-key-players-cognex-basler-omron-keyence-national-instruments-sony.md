@@ -18,6 +18,17 @@ topics:
   - Computer Vision
   - AI
 
+related:
+  - title: "2021 Deep Learning in Machine Vision Market, Business Growth, Current Trends, Rules, Challenge, and Interaction, Goals, Key Components, Forecast 2027"
+    excerpt: "Global Deep Learning in Machine Vision Market 2021 is an all-inclusive, proficient report provides an in-detail analysis of extensive drivers, challenges, restraints, opportunities, present market trends and approach influencing the Deep Learning in Machine Vision industry together with projections and forecast to 2027."
+    publishedDateTime: 2021-07-06T17:21:00Z
+    webUrl: "https://manometcurrent.com/2021-deep-learning-in-machine-vision-market-business-growth-current-trends-rules-challenge-and-interaction-goals-key-components-forecast-2027/"
+    type: article
+    provider:
+      name: manometcurrent.com
+      domain: manometcurrent.com
+    quality: 0
+
 secured: "GSaWVYgH0YNEG/P9BbDuJf7gl6uNtENCRwTqJLcpPnjEeGVFhpiVWN0bfKsdgeNDArmfQzwPtSHnYGbbhtSk8UgFMxhTh25v/vDtvWpFACwwMEBiKldqYtOVn5YU2+FZRgB8VlVXTpEvj3gO6Si6Oo1F6N8IFVYRXbKmYLbmHC5hpbzIbeEzDOFNRvnf2XLz+fKW0YJH7N75TjCj47/gSwftNRzM0CDZOIqm7Phu+pvpBsQ7Y9TwPooasD5TKkH9iNLk3qSsgE/dJGJFmSFo876L4VAjs6hy9SioMZvlabspLuGRItHFYROoqYkVGte0kdzOJ4UmzFJoKmryzjkFEIegVf2aqFhLOa6vAN1TWQfmtCKZUK7CjNmjPFhr6SiLyLmRB9p5/MA+cJ9h0Hk0zkfeqfneYkVMGaD+rfkzURNktEtcQylztHMLL3tyA7J9pfZA26BFYN1HvNbQj/DYeRkkksC4VglA5oAuxsXsKE/PmYrGOIZJSwcDhouSra93eViKQj0YzUWudKL77K+aYA==;ZRrzuMyt7bn6+P2tPHvW7A=="
 ---
 

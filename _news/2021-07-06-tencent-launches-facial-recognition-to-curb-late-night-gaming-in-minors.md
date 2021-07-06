@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Tencent’s new facial recognition program prevents gaming after dark in China"
+    excerpt: "Tencent has announced a facial recognition system in China that will stop children from playing video games after hours."
+    publishedDateTime: 2021-07-06T16:07:00Z
+    webUrl: "https://www.digitaltrends.com/gaming/tencent-facial-recognition-china/"
+    ampWebUrl: "https://www.digitaltrends.com/gaming/tencent-facial-recognition-china/?amp"
+    cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/gaming/tencent-facial-recognition-china/?amp"
+    type: article
+    provider:
+      name: Digital Trends
+      domain: digitaltrends.com
+    quality: 86
+    images:
+      - url: "https://icdn.digitaltrends.com/image/digitaltrends/_117589161_gettyimages-1228918581.jpg"
+        width: 976
+        height: 549
+        isCached: true
   - title: "Not even the government knows the full extent of how government is using facial recognition"
     excerpt: "And 13 of those agencies, more than half of those using facial recognition, don’t know what systems their employees are using or how often they use them. The agencies that do keep track say they’ve used it for identifying people at the January 6 insurrection and during last summer’s protests sparked by the murder of George Floyd."
     publishedDateTime: 2021-07-02T04:44:00Z
@@ -41,6 +57,20 @@ related:
         width: 300
         height: 300
         isCached: true
+  - title: "Facial recognition: Tax pros mull returning to in-person meetings"
+    excerpt: "Absolutely — as people feel more comfortable, we anticipate having more live rather than virtual meetings and events,” said Daniel Morris, a CPA and senior partner with Morris+D’Angelo CPAs in San Jose,"
+    publishedDateTime: 2021-07-06T13:00:00Z
+    webUrl: "https://www.accountingtoday.com/news/facial-recognition-tax-pros-mull-returning-to-in-person-meetings"
+    type: article
+    provider:
+      name: Accounting Today
+      domain: accountingtoday.com
+    quality: 39
+    images:
+      - url: "https://arizent.brightspotcdn.com/b0/a1/9a53ebac4783bb22133d358a52d4/coronavirus-6-feet-sign.jpg"
+        width: 3998
+        height: 2667
+        isCached: true
   - title: "Tencent deploying facial recognition to stop children gaming at night in China"
     excerpt: "Internet and gaming giant Tencent has decided to take extreme measures to prevent those under 18 from playing games late into the night in China. The company is using a facial recognition system on its platform to identify players and prevent them circumnavigating existing controls by using adult accounts."
     publishedDateTime: 2021-07-06T14:30:00Z
@@ -55,21 +85,7 @@ related:
         width: 1284
         height: 722
         isCached: true
-  - title: "GAO: Some Federal Agencies’ Use of Facial Recognition Technology Opens Door for Potential Risks"
-    excerpt: "Fourteen federal agencies reported using facial recognition technology systems owned by non-federal entities to support criminal investigations, and 13 out of the 14 agencies did not have an up-to-date information on what non-federal systems were being used by employees,"
-    publishedDateTime: 2021-07-02T09:20:00Z
-    webUrl: "https://www.hstoday.us/subject-matter-areas/biometrics-id-management/gao-some-federal-agencies-use-of-facial-recognition-technology-opens-door-for-potential-risks/"
-    type: article
-    provider:
-      name: Homeland Security Today
-      domain: hstoday.us
-    quality: 27
-    images:
-      - url: "https://www.hstoday.us/wp-content/uploads/2021/06/eye-5814965_1920.jpg"
-        width: 1920
-        height: 1280
-        isCached: true
 
-secured: "yZ/Uy3WoskYP7sXEaa8rw6heYuofdXxQiLNrp2TRgipPF6ouHl5WX0Ec9Rkj2FFqWev2elOqjguTU2WiSC4IwEOBkTH2csCW6/rJkxXf2hKuI9ubBmfZxVnaZpLZRNVvCvLRbb9O8qV0R5IeRshoJEw9ViSFvJmeZm/dnxYrul7PDG5mstDj6a4Of+TftHNqx8VoQU41G0HV5QzX1yFvJuwBXBzDOyc8HIc0w0M3tAIeXutkaRWD229Wt2KWW5T86Zm818prmTPcjN9gJ4BJkY5ni6aH52VyQRcBi8V+Iz/F9bGj1pttB9Q0vxsemveknpwNitM8E26FIAteShgGiaIIx4ZRZE/LS+iAQWozgeE=;yRE736yawujWDi0IHikDEg=="
+secured: "2ng8fKlEmGhAr4ycO4r1kmuLWFlyCHc6GqXFpnhLeEjUfvuOQPTBxzr4xgIwrUeUWgZDwfIxtIeXGSVbicx/puqeArmAC2gX333uZqq3h+V0zaZwBSlSNk/fWl6qP89j/JyNn3RSBaEVM2mEoVCAzwQNVvhF8IgPbgSXVIdpKjnOcl6Aded3Eh6Qhl+ZT+zeHjPPQc8bQHTidRSitxvOgsEcR6MrV+Mcv9FltCi5kAPeAYIHSa1aFWowni7aXj7xd5A+Q2xehHICrpxXP3mIq+RkNH6Qu1DknrSxQUmvnS8RsQEiUPN/I4/XaG2E0jvFNnSsAXBPldgSoQ/Kez1ghQAFUQGiDTzD1TXB8LCy8HM2yQqqcf65Zz+Ai7neOv7ieuRHlwZ6XF5sSosqbXs+inhqEjGadNjljwbzi8dMW0Y6CBe6g85c2ktuiuoFAj582VdyexRINyRQf9sdRPZEzVIJQBSOdeq9NrIGHHK77GM94Frwn05HqbVcIK2Vn9Gzg0G83sEkkyUmIM+BIOKKfg==;7qeFiswWO9ziTTVHGRD0DA=="
 ---
 

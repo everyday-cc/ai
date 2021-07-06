@@ -71,6 +71,15 @@ related:
         width: 400
         height: 265
         isCached: true
+  - title: "Artificial Intelligence (AI) in Medical Market Expectation Surges with Rising Demand and Changing Trends"
+    excerpt: "This report contains market size and forecasts of Artificial Intelligence (AI) in Medical in Global, including the following market information: Global Artificial Intelligence (AI) in Medical Market Revenue,"
+    publishedDateTime: 2021-07-06T15:59:00Z
+    webUrl: "https://manometcurrent.com/artificial-intelligence-ai-in-medical-market-expectation-surges-with-rising-demand-and-changing-trends/"
+    type: article
+    provider:
+      name: manometcurrent.com
+      domain: manometcurrent.com
+    quality: 15
 
 secured: "gwQ0tv3O+jL8Q6nVKYguwYTUPq31R/Zo90DDbIAfiDoB3dAsYn+kI6qAvsnVOMRq8NUwlj4gMIjJotsstVRMM/UsG0yIcZWyvh3SwpEAr3CRI7SKugIx3rtSdA9UhhnT0QXkJfjKnS3jQxQgGDiacpnjCdc7WaouAX9X/HBVgXe4vGuFFxAstlAN4kqWm8CTmipvp6dDxA18CpWykPCofnqOe2MTyCV/sRR7hRYEO5cSlY3kRDItN0hzaVRJJSdK1PT7jwTfWMnXUoeNgoVCUcO71xMdtY+7ghmxnFyBD1lhU/q5QUpXOfG98SrhdmOnb7hKxGrz4BB/LJGyys6r3MLIDkKDVl+yR3in3NoOYkqvcT7Z5Suu/x+0g2bYkbKlcVCvXk+CMwEuJvNZWeK/d4v+fZaQZ4aqSjd1LahlNgNR9+NO1AS/ukLDbqkT4IDYFQJdK7R1oWDUXZqClN5Lid5HSIovPdKoXupXokRFMSdShI380g9NhTJ+drHiKIVCegfT21s+AxsojVrm2I6Ibw==;xxbPgaYuLYObcOlhxx7unA=="
 ---

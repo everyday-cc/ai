@@ -125,20 +125,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Facial recognition: Tax pros mull returning to in-person meetings"
-    excerpt: "Absolutely — as people feel more comfortable, we anticipate having more live rather than virtual meetings and events,” said Daniel Morris, a CPA and senior partner with Morris+D’Angelo CPAs in San Jose,"
-    publishedDateTime: 2021-07-06T13:00:00Z
-    webUrl: "https://www.accountingtoday.com/news/facial-recognition-tax-pros-mull-returning-to-in-person-meetings"
-    type: article
-    provider:
-      name: Accounting Today
-      domain: accountingtoday.com
-    quality: 39
-    images:
-      - url: "https://arizent.brightspotcdn.com/b0/a1/9a53ebac4783bb22133d358a52d4/coronavirus-6-feet-sign.jpg"
-        width: 3998
-        height: 2667
-        isCached: true
   - title: "Investors issue statement on human rights implications of facial recognition technologies & commitments to due diligence"
     excerpt: "We are 50 global institutional investors and their representatives with $4.5 trillion in assets under management as of December, 2020. As responsible investors, we incorporate Environmental, Social and Governance (ESG) factors,"
     publishedDateTime: 2021-07-04T08:19:00Z

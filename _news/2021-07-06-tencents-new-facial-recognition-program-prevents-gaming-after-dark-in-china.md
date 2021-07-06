@@ -1,0 +1,95 @@
+---
+category: news
+title: "Tencent’s new facial recognition program prevents gaming after dark in China"
+excerpt: "Tencent has announced a facial recognition system in China that will stop children from playing video games after hours."
+publishedDateTime: 2021-07-06T16:07:00Z
+originalUrl: "https://www.digitaltrends.com/gaming/tencent-facial-recognition-china/"
+webUrl: "https://www.digitaltrends.com/gaming/tencent-facial-recognition-china/"
+ampWebUrl: "https://www.digitaltrends.com/gaming/tencent-facial-recognition-china/?amp"
+cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/gaming/tencent-facial-recognition-china/?amp"
+type: article
+quality: 86
+heat: 126
+published: true
+
+provider:
+  name: Digital Trends
+  domain: digitaltrends.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - Computer Vision
+  - AI
+
+images:
+  - url: "https://icdn.digitaltrends.com/image/digitaltrends/_117589161_gettyimages-1228918581.jpg"
+    width: 976
+    height: 549
+    isCached: true
+
+related:
+  - title: "Not even the government knows the full extent of how government is using facial recognition"
+    excerpt: "And 13 of those agencies, more than half of those using facial recognition, don’t know what systems their employees are using or how often they use them. The agencies that do keep track say they’ve used it for identifying people at the January 6 insurrection and during last summer’s protests sparked by the murder of George Floyd."
+    publishedDateTime: 2021-07-02T04:44:00Z
+    webUrl: "https://www.marketplace.org/shows/marketplace-tech/not-even-the-government-knows-the-full-extent-of-how-government-is-using-facial-recognition/"
+    ampWebUrl: "https://www.marketplace.org/shows/marketplace-tech/not-even-the-government-knows-the-full-extent-of-how-government-is-using-facial-recognition?amp"
+    cdnAmpWebUrl: "https://www-marketplace-org.cdn.ampproject.org/c/s/www.marketplace.org/shows/marketplace-tech/not-even-the-government-knows-the-full-extent-of-how-government-is-using-facial-recognition?amp"
+    type: article
+    provider:
+      name: Marketplace
+      domain: marketplace.org
+    quality: 49
+    images:
+      - url: "https://www.marketplace.org/wp-content/uploads/2019/05/MP_show-1.png?w=300"
+        width: 300
+        height: 300
+        isCached: true
+  - title: "Facial recognition: Tax pros mull returning to in-person meetings"
+    excerpt: "Absolutely — as people feel more comfortable, we anticipate having more live rather than virtual meetings and events,” said Daniel Morris, a CPA and senior partner with Morris+D’Angelo CPAs in San Jose,"
+    publishedDateTime: 2021-07-06T13:00:00Z
+    webUrl: "https://www.accountingtoday.com/news/facial-recognition-tax-pros-mull-returning-to-in-person-meetings"
+    type: article
+    provider:
+      name: Accounting Today
+      domain: accountingtoday.com
+    quality: 39
+    images:
+      - url: "https://arizent.brightspotcdn.com/b0/a1/9a53ebac4783bb22133d358a52d4/coronavirus-6-feet-sign.jpg"
+        width: 3998
+        height: 2667
+        isCached: true
+  - title: "Tencent Launches Facial Recognition To Curb Late Night Gaming In Minors"
+    excerpt: "Chinese gaming giant Tencent has introduced facial recognition tech intended to stop children playing games past 10pm in China."
+    publishedDateTime: 2021-07-06T14:20:00Z
+    webUrl: "https://techraptor.net/gaming/news/tencent-launches-facial-recognition-to-curb-late-night-gaming-in-minors"
+    type: article
+    provider:
+      name: TechRaptor
+      domain: techraptor.net
+    quality: 39
+    images:
+      - url: "https://techraptor.net/sites/default/files/styles/image_header/public/2021-07/Honor%20Of%20Kings%20Artwork%20Tencent%20Facial%20Recognition%20Main.jpg?itok=GWjIlMIw"
+        width: 852
+        height: 479
+        isCached: true
+  - title: "Tencent deploying facial recognition to stop children gaming at night in China"
+    excerpt: "Internet and gaming giant Tencent has decided to take extreme measures to prevent those under 18 from playing games late into the night in China. The company is using a facial recognition system on its platform to identify players and prevent them circumnavigating existing controls by using adult accounts."
+    publishedDateTime: 2021-07-06T14:30:00Z
+    webUrl: "https://www.mcvuk.com/business-news/tencent-deploying-facial-recognition-to-stop-children-gaming-at-night-in-china/"
+    type: article
+    provider:
+      name: MCV UK
+      domain: mcvuk.com
+    quality: 35
+    images:
+      - url: "https://www.mcvuk.com/wp-content/uploads/1280px-tencent_logo.jpg"
+        width: 1284
+        height: 722
+        isCached: true
+
+secured: "41TCaMo04O8MLANPIghIAd6mlO5Z8JqXolf+hZ9rL+t0F0Je5eogV3S5UwcbPOq05/xTSDZVnZ2Z3FRgnd72Hwi5Qj0hOXzs8EpJODVddnee14xqT5RO+EPFRsnv0LYg9pOA4IazD8CM4d8KVmt7itVcMOhGxjupO0Y8AOmGc6CPqWZKUS1CNh+xegRDTBc6Z5wTJR4cxKxnLo87kXr/cVtTa2JWt3gVYvPvKk/AH2JAue6a0eHcViHHeZYUxEXq5XHS+WIOETe/Sp+H+Z6nvOv1WWN+fwjVSEH+YS39Joi6BFsRw9mg/urGBnEqDbRaKtV0Og61NWN+NGrl7sQXZer8mbwXHaWIcS5RNFfMHlc=;RNZdjyaWKohaRc22rCkn7Q=="
+---
+

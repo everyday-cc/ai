@@ -30,6 +30,15 @@ related:
       name: manometcurrent.com
       domain: manometcurrent.com
     quality: 34
+  - title: "AI In Banking Market Size and Growth to 2028 | Key Players – Intel, Harman International Industries, Cisco Systems, ABB, IBM, Bsh Hausgerte"
+    excerpt: "The AI In Banking Market report forecasts promising growth and development for the period 2021-2028. The AI In Banking market research report defines key statistical data presented in an organized format including graphs,"
+    publishedDateTime: 2021-07-06T16:42:00Z
+    webUrl: "https://manometcurrent.com/ai-in-banking-market-size-and-growth-to-2028-key-players-intel-harman-international-industries-cisco-systems-abb-ibm-bsh-hausgerte/"
+    type: article
+    provider:
+      name: manometcurrent.com
+      domain: manometcurrent.com
+    quality: 0
 
 secured: "LeoG8hmlGhsZh7AFevmBakqJs4+0GPZ7m80UfiYBoZfoAehlp29GVA8PhKyfmmsaefFoSoPlx/x5vVhMmzi/ISFRfFOnIlANPbUYSZ5BgTi53O3DTRibtsfxFav4rjR6uIV1iVZ3j2abNaJPcz10tgolRbIT1yyaBCUgquuC1b+VTbTIwvoxDX/BZueKoEVZWk0tdcsH+U+WSDwchze9Dg+EHBNyRpCKPv9YJkmhiB0vuPIxhNunGqVFnDqiHPFyuUClr3kf/ZoR1/3P5oS/wFtvKC/i9MuFzt4RhkELTfR6s3bEGFlYTm4Q+JnH23NVto43I4LmGFmQeVSnd+GGFMJo7Tk7GFp6zfdz45tBf0c=;RLcnSXTkvRropIPqNSBu/Q=="
 ---

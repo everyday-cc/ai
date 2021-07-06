@@ -2,6 +2,196 @@
   "page": 74,
   "value": [
     {
+      "path": "_news/2021-05-13-two-in-one-wide-angle-monitoring-meets-high-resolution-capture-in-new-camera-platform.md",
+      "title": "Two-in-one: Wide-angle monitoring meets high-resolution capture in new camera platform",
+      "excerpt": "However, recent studies on object recognition in omnidirectional cameras show that distant objects captured in these cameras have rather poor resolution, making their identification difficult.",
+      "sourceUrl": null,
+      "webUrl": "https://www.sciencedaily.com/releases/2021/05/210513173534.htm",
+      "originalUrl": "https://www.sciencedaily.com/releases/2021/05/210513173534.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-12T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Science Daily",
+        "domain": "sciencedaily.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-13-traces-of-ai-weiweis-politics-at-skirball-cultural-center.md",
+      "title": "Traces Of Ai Weiwei’s Politics At Skirball Cultural Center.",
+      "excerpt": "Trace” at the Skirball presents three of the six floor panels Ai Weiwei created in 2014 for an site-specific exhibition in San Francisco on Alcatraz Island concerning prisoners of conscience, political prisoners,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/tomteicholz/2021/05/12/traces-of-ai-weiweis-politics-at-skirball-cultural-center/",
+      "originalUrl": "https://www.forbes.com/sites/tomteicholz/2021/05/12/traces-of-ai-weiweis-politics-at-skirball-cultural-center/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F609c574f67f471f7beafe7d2%2F0x0.jpg",
+          "width": 480,
+          "height": 323,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/tomteicholz/2021/05/12/traces-of-ai-weiweis-politics-at-skirball-cultural-center/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tomteicholz/2021/05/12/traces-of-ai-weiweis-politics-at-skirball-cultural-center/amp/",
+      "publishedDateTime": "2021-05-12T16:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-13-how-a-helium-shortage-could-put-the-brakes-on-the-tech-boom.md",
+      "title": "How A Helium Shortage Could Put The Brakes On The Tech Boom",
+      "excerpt": "Big Tech, NASA and even the global healthcare industry depend on a critical gas, and it could be heading for a major supply shortage",
+      "sourceUrl": null,
+      "webUrl": "https://oilprice.com/Energy/Energy-General/How-A-Helium-Shortage-Could-Put-The-Brakes-On-The-Tech-Boom.html",
+      "originalUrl": "https://oilprice.com/Energy/Energy-General/How-A-Helium-Shortage-Could-Put-The-Brakes-On-The-Tech-Boom.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d32r1sh890xpii.cloudfront.net/article/718x300/2021-05-12_cqpknqtdhx.jpg",
+          "width": 718,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://oilprice.com/Energy/Energy-General/How-A-Helium-Shortage-Could-Put-The-Brakes-On-The-Tech-Boom.amp.html",
+      "cdnAmpWebUrl": "https://oilprice-com.cdn.ampproject.org/c/s/oilprice.com/Energy/Energy-General/How-A-Helium-Shortage-Could-Put-The-Brakes-On-The-Tech-Boom.amp.html",
+      "publishedDateTime": "2021-05-12T16:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Crude Oil Prices",
+        "domain": "oilprice.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-12-build-a-scalable-machine-learning-pipeline-for-ultra-high-resolution-medical-images-using-amazon-sagemaker.md",
+      "title": "Build a scalable machine learning pipeline for ultra-high resolution medical images using Amazon SageMaker",
+      "excerpt": "Neural networks have proven effective at solving complex computer vision tasks such as object detection, image similarity, and classification. With the evolution of low-cost GPUs, the computational cost of building and deploying a neural network has drastically reduced. However, most techniques are designed",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/building-a-scalable-machine-learning-pipeline-for-ultra-high-resolution-medical-images-using-amazon-sagemaker/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/building-a-scalable-machine-learning-pipeline-for-ultra-high-resolution-medical-images-using-amazon-sagemaker/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/05/05/1-1953.jpg",
+          "width": 800,
+          "height": 511,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-12T14:05:52-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-05-13-deepmind-wants-to-use-ai-to-transform-soccer.md",
       "title": "DeepMind Wants to Use AI to Transform Soccer",
       "excerpt": "Now, defending Premier League champion Liverpool has joined forces with DeepMind to explore the use of artificial intelligence in the soccer world. A paper by researchers at the two organizations, published today by the Journal of Artificial Intelligence ...",
@@ -1009,178 +1199,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-12-global-data-from-ibm-points-to-ai-growth-as-businesses-strive-for-resilience.md",
-      "title": "Global Data From IBM Points To AI Growth As Businesses Strive For Resilience",
-      "excerpt": "New market research commissioned by IBM (NYSE: IBM) found that almost one-third of IT professionals surveyed globally say their business is now using artificial intelligence (AI), with 43 percent reporting that their company has accelerated their rollout of AI as a result of the COVID-19 pandemic.",
-      "sourceUrl": null,
-      "webUrl": "https://www.hostreview.com/news/210512-global-data-from-ibm-points-to-ai-growth-as-businesses-strive-for-resilience",
-      "originalUrl": "https://www.hostreview.com/news/210512-global-data-from-ibm-points-to-ai-growth-as-businesses-strive-for-resilience",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.multivu.com/players/English/8668657-ibm-global-data-ai-growth/image/03image_1620254073973-HR.jpg",
-          "width": 582,
-          "height": 304,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-12T03:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Host Review",
-        "domain": "hostreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-12-artificial-intelligence-ai-market-worth-3096-billion-by-2026.md",
-      "title": "Artificial Intelligence (AI) Market worth $309.6 billion by 2026",
-      "excerpt": "According to a new market research report Artificial Intelligence Market by Offering Hardware Software Services Technology Machine Learning Natural Language Processing Deployment Mode Organization Size Business Function Law Security Vertical and Region Global Forecast to 2026 published by MarketsandMarkets the",
-      "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2283574/artificial-intelligence-ai-market-worth-309-6-billion",
-      "originalUrl": "https://www.openpr.com/news/2283574/artificial-intelligence-ai-market-worth-309-6-billion",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.openpr.com/U/5/U512354945_g.jpg",
-          "width": 572,
-          "height": 341,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2283574/artificial-intelligence-ai-market-worth-309-6-billion",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2283574/artificial-intelligence-ai-market-worth-309-6-billion",
-      "publishedDateTime": "2021-05-12T02:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-05-12-superopsai-electorq-upswing-cognitive-hospitality-solutions-raise-funding.md",
-      "title": "SuperOps.ai, ElecTorq, Upswing Cognitive Hospitality Solutions raise funding",
-      "excerpt": "SuperOps.ai, a professional services automation and remote monitoring and management ... and Freshworks. Upswing Cognitive Hospitality Solutions, a predictive data solutions startup for the hospitality and travel industry, has raised an undisclosed ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.vccircle.com/superops-ai-electorq-upswing-cognitive-hospitality-solutions-raise-funding",
-      "originalUrl": "https://www.vccircle.com/superops-ai-electorq-upswing-cognitive-hospitality-solutions-raise-funding",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.vccircle.com/uploads/2019/08/FundingRF.jpg",
-          "width": 810,
-          "height": 506,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-12T02:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VCCircle",
-        "domain": "vccircle.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-12-empiricai-secures-a-new-distribution-agreement-with-qed-to-provide-computer-vision-ai-solution-to-the-uk-and-european-markets.md",
-      "title": "EmpiricAI secures a new distribution agreement with QED to provide computer vision AI solution to the UK and European markets",
-      "excerpt": "EmpiricAI has secured a major new distribution agreement with electronic security distributor QED, its’ first UK partner, that will see its innovative computer vision AI (Artificial Intelligence) solution offered across the UK and Europe. The ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.sourcesecurity.com/news/empiricai-secures-distribution-agreement-qed-provide-co-3543-ga-co-1620803232-ga.1620805769.html?ref=nav",
-      "originalUrl": "https://www.sourcesecurity.com/news/empiricai-secures-distribution-agreement-qed-provide-co-3543-ga-co-1620803232-ga.1620805769.html?ref=nav",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.sourcesecurity.com/img/news/612/contact-tracing-920.jpg",
-          "width": 612,
-          "height": 355,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.sourcesecurity.com/amp/news/empiricai-secures-distribution-agreement-qed-provide-co-3543-ga-co-1620803232-ga.1620805769.html",
-      "cdnAmpWebUrl": "https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/news/empiricai-secures-distribution-agreement-qed-provide-co-3543-ga-co-1620803232-ga.1620805769.html",
-      "publishedDateTime": "2021-05-12T02:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SourceSecurity",
-        "domain": "sourcesecurity.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }
