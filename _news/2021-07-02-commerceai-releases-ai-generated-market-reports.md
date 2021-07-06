@@ -88,20 +88,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "The State of AI and Machine Learning"
-    excerpt: "In the 7th edition of its annual State of AI and Machine Learning report, Appen continues to explore the strategies employed by companies large and small in successfully deploying AI. The reports surveys business leaders and technical practitioners ( referred to as technologists) alike to understand their priorities,"
-    publishedDateTime: 2021-07-01T13:00:00Z
-    webUrl: "https://insidebigdata.com/2021/07/01/the-state-of-ai-and-machine-learning/"
-    type: article
-    provider:
-      name: insidebigdata.com
-      domain: insidebigdata.com
-    quality: 54
-    images:
-      - url: "https://insidebigdata.com/wp-content/uploads/2021/06/Appen_State_AI_whitepaper_cover.png"
-        width: 300
-        height: 390
-        isCached: true
 
 secured: "+7qceVRFKs66qYVfMf7lCBmGoXQ1BtWhsWnklJlTKk2YeATKysJha72+o1Um3abDDZkth7e0DWT1mIHirzKFksPG/6tdCdlydhbnGAchCMaY/nZERK8pvnzOG1AK1EncuZjrHvUUUzfOuPCyVoIj7c1muDsbxW6BVqDnukFwwOhN9hh/ak4rLb5G2N4pzNBkZDT6dTmhNRlDmdopXt3LW9ERck+T8gHXasfpI6FbiV34OSGv1c/u2WJRkfQDdAWEMofraihYIkYo9c4v1ZWt/LSyosnRE1w54nVMx+gXs2z51LYYJo0wPA9a50bwyjQ7V767B4egsLZF4ynBqMZ9hXLOduxYjksLJ8YSuJZmvBkO+qbPjBLJ+22bxEh0PLpU251b8lTFqisror1iA3uvMAe6qzH8MvawqzoWB7GbHSEGAPgtG9SWgVuTXAxFB+AkDvYZUZrUSluTYJAISetubFElYsACaRoMmF8EXynfWOo/uZUrERpiIlVfNqk7HGKbJri5Bn/kqxkAdN6s1U5kZg==;QZJZ1AsHjCEoUXk42cN6Ig=="
 ---

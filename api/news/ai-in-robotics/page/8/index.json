@@ -2,6 +2,58 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2021-05-04-steve-wozniaks-woz-ed-agreed-a-deal-to-start-teaching-virtual-robotics-to-k-12-students.md",
+      "title": "Steve Wozniak's Woz ED agreed a deal to start teaching virtual robotics to K-12 students",
+      "excerpt": "Steve Wozniak's K-12 education programme will start offering robotics courses to thousands of schools across the US after it partnered with Robotify.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/wozniak-woz-ed-agrees-deal-offer-robotics-courses-us-schools-2021-5",
+      "originalUrl": "https://www.businessinsider.com/wozniak-woz-ed-agrees-deal-offer-robotics-courses-us-schools-2021-5",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/609153b2f22c6b00185db726?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-04T07:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-04-what-exactly-is-artificial-intelligence-hint-its-all-about-the-datasets.md",
       "title": "What Exactly Is Artificial Intelligence? (Hint: It’s All About The Datasets)",
       "excerpt": "What we can do—and what we’ve already done—with AI and AI applications is incredible. But there are still some major limitations and challenges.",

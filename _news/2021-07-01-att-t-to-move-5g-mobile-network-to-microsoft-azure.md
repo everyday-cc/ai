@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nasdaq.com/articles/att-t-to-move-5g-mobile-network-to-m
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/att-t-to-move-5g-mobile-network-to-microsoft-azure-2021-07-01?amp"
 type: article
 quality: 84
-heat: 134
+heat: 114
 published: true
 
 provider:
@@ -66,34 +66,6 @@ related:
       - url: "https://assets.telecomtv.com/assets/telecomtv/at-t-microsoft-azure-12193.jpeg?w=1200"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Microsoft to acquire AT&T’s Network Cloud; Azure to host AT&T 5G network"
-    excerpt: "The partnership builds on an existing $2bn deal where AT&T moved its back-end office to Microsoft Azure. The tech company became AT&T's preferred cloud provider for \"non-network a"
-    publishedDateTime: 2021-07-01T12:07:00Z
-    webUrl: "https://www.datacenterdynamics.com/en/news/microsoft-to-acquire-atts-network-cloud-azure-to-host-att-5g-network/"
-    type: article
-    provider:
-      name: Datacenter Dynamics
-      domain: datacenterdynamics.com
-    quality: 53
-    images:
-      - url: "https://media.datacenterdynamics.com/media/images/ATTcloud.2e16d0ba.fill-1200x630.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Cloud wars heat up: AT&T moves 5G cloud to Azure, sells Network Cloud tech to Microsoft"
-    excerpt: "AT&T is making big changes in its cloud computing efforts, deciding to move its next-generation 5G wireless core to Microsoft's Azure cloud and also selling its Network Cloud Platform tech to"
-    publishedDateTime: 2021-07-01T11:47:00Z
-    webUrl: "https://www.wraltechwire.com/2021/07/01/cloud-wars-heat-up-att-moves-5g-cloud-to-azure-sells-network-cloud-tech-to-microsoft/"
-    type: article
-    provider:
-      name: WRAL TechWire
-      domain: wraltechwire.com
-    quality: 46
-    images:
-      - url: "https://www.wraltechwire.com/wp-content/uploads/2020/11/cloud-computing-internet-of-things-e1605713015179-1024x576.png"
-        width: 1024
-        height: 576
         isCached: true
 
 secured: "F3IqTzvqZASiIMy5UYLlwcZ73BbruBnIRnl73WM46XSCSPl7qBIhZ+1Uk4iWwT3toEPHH7PnCn6IAXZDnPqR5yjwPaA9N/uAiu6FWJ1TkuOp7QRSHSxH00NK9tnWKVBaOw/CrGjiaobvgo99d0Njbq0CVXxLMhy/bZmv5zfXnJ4qkLO2wF4qmQeRSPrP5QPGwiSondLF52ISy33agLGGQEIV+SimItuPirgwa4oers2L+6BRTePZAumi8vjsnI/rydSU9+L/aOc6Uxd2gFDA0HFTHeOPBdwOsCjC+j7h5LFQyedEMlnBFD5j3+A+ZzfCP9UOLsqwdiK9qweQYLVd/BUxWuJ7BuiKsTLiNgCN5kg=;fjVkmBqcLKSRf5ycDID1LQ=="

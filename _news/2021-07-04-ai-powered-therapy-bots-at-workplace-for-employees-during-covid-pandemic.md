@@ -57,20 +57,6 @@ related:
         width: 400
         height: 225
         isCached: true
-  - title: "New VA tool uses artificial intelligence to predict COVID-19 patient mortality"
-    excerpt: "A new VA tool that processes data using artificial intelligence can predict mortality rates within 120 days of when a patient is diagnosed with COVID-19."
-    publishedDateTime: 2021-07-01T13:00:00Z
-    webUrl: "https://blogs.va.gov/VAntage/90780/new-va-tool-uses-artificial-intelligence-predict-covid-19-patient-mortality/"
-    type: article
-    provider:
-      name: United States Department of Veterans Affairs
-      domain: va.gov
-    quality: 35
-    images:
-      - url: "https://blogs.va.gov/VAntage/wp-content/uploads/2021/06/BANNER-PHOTO-.jpg"
-        width: 4256
-        height: 2832
-        isCached: true
   - title: "Impact of COVID-19 on Artificial Intelligence Market to Record Significant Revenue Growth During the Forecast Period 2021-2026"
     excerpt: "The outbreak of covid-19 in the global market has made companies uncertain about their future scenario as the prolonged lock-down finds a serious economic slump. The latest survey on COVID-19 Outbreak-Global Artificial Intelligence Market is conducted to provide hidden gems performance analysis."
     publishedDateTime: 2021-07-05T15:53:00Z

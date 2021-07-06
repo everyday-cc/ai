@@ -7,7 +7,7 @@ originalUrl: "https://www.wattagnet.com/articles/43150-tyson-ventures-invests-in
 webUrl: "https://www.wattagnet.com/articles/43150-tyson-ventures-invests-in-ai-powered-processing-robotics"
 type: article
 quality: 69
-heat: -1
+heat: 69
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 700
     height: 331
     isCached: true
-
-related:
-  - title: "Food Supply Chain: Tyson Foods Invests in AI Robotics"
-    excerpt: "Tyson Foods - among others - invests in Soft Robotics Series B extension, expanding the use of AI, robotics and automation in the food supply chain"
-    publishedDateTime: 2021-07-01T12:13:00Z
-    webUrl: "https://manufacturingglobal.com/ai-and-automation/food-supply-chain-tyson-foods-invests-ai-robotics"
-    type: article
-    provider:
-      name: manufacturingglobal.com
-      domain: manufacturingglobal.com
-    quality: 69
-    images:
-      - url: "https://manufacturingglobal.com/sites/default/files/styles/ma/public/image/maxresdefault%20%282%29_0.jpg?itok=1Dv22rGS"
-        width: 1280
-        height: 720
-        isCached: true
 
 secured: "2WYUFqtLPC2I4t+uoW0V+QhPrOdyzw5vlm2C0n5+NyYaqD07oUd+PAq62VOEvVUGxmg+RhbRzmn//cMyz/l/lUKnp1e8dSGllrFHr7VVJrqJj+QpVAs79tGLuT4EwSG9uILSep1PuxC6A4KKmoKMSuf6jNv0kJzmQ3bbN21z3fv2hjQqGkszvgnQFuOL0VTnEkf5czz7sDq99P1c4SXssKsHVprsk1Zs1q+ZcmD7r8HGSGjaaVo63iblNc3qbZ4Rco1Aoqpk/tfl9C0DSsgByMNKmLkQjFPyry2gClBP4unatw6KK9ajquMJkM/fgjgvbkC84EoT3zO5Q+8WA7d3VurTnJC3rdqztxujiGfuqDsST99PlzFZ6bOb/47pq8ul1yqqOrUryDCXGVrWb0BpyqBaVwW4YPblo7Uou8HDMfJD/gbnSQWwxAsgQrQTo5mvgUMHuFhzh09HGgIDeWR5Zlfzc2i5zTzIvlMGZ5se82qNAww12EviD3S5E7wbKwz/MYv2hyXSZx4LHvsV8MFJkw==;tEECSxPJ2y+nb0aGaBxklg=="
 ---

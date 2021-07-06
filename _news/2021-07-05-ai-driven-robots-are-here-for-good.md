@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/anniebrown/2021/07/04/ai-driven-robots-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/anniebrown/2021/07/04/ai-driven-robots-are-here-for-good/amp/"
 type: article
 quality: 106
-heat: 126
+heat: 116
 published: true
 
 provider:
@@ -45,20 +45,6 @@ related:
       - url: "https://www.dailypioneer.com/uploads/2021/story/images/big/who-for-ai-for-healthcare-2021-07-03.jpg"
         width: 1000
         height: 800
-        isCached: true
-  - title: "The robots are coming"
-    excerpt: "Experts know that change is coming but remain uncertain about how, when, and where those changes will occur. It follows that cities that ready themselves sooner rather than later will develop more immunity to the latest strain of economic upheaval."
-    publishedDateTime: 2021-07-01T11:46:00Z
-    webUrl: "https://www.marinatimes.com/the-robots-are-coming"
-    type: article
-    provider:
-      name: Marina Times
-      domain: marinatimes.com
-    quality: 39
-    images:
-      - url: "https://www.marinatimes.com/wp-content/uploads/2019/06/MT-Jun2019-NORTHSIDE-Marination-640x426.jpg"
-        width: 640
-        height: 426
         isCached: true
 
 secured: "cih/UHWuikdyouqBYD9bX8LFsiE1dYwLbNh0GqpHBNcxwKIXeWjhBafACvSBHfNRt0n5vz544zPSv2DP1WatNOFWcUrr31u3vbCTDABhw9sry8kDFS+fJHdtThN7AiYWTSh0IpUGm1UuzyOPs0d7KMA4Jeg31XWUCZjvDGyqcGP8fMIcktDLh8cNS+VANOLdu7v+LogbnLr8+sqFtPrWYxclcnIBV7+dB92YwVFJU/Jp4VPW/Q1AxyIcX2rSwPB0LrbIS4ZlyZUIai5tZ5JPw7gHftxnEqcf0B/3EK12O4lBiqDDApWjFATyHDGne9Hi+txKtPVuz3AzHF3X1AsF9nTBE3HehskaGgNzS+jVMtgoeDwpk6ti257qAeS2dZxQoIj2HoTeL6ym5B1grO6lR/IFm3AtMETaaMwiQRAbQAR+0J1FOKcggwXNHvBKStcHG+o65ocRIFGaY4PZQ/H+x2mp7gsYv1z0xbAmDj9F1T4F5xCVN4U3M/JhOK07wWlt5bU5CLKb7B4oQPxxmvmfCQ==;aq+WXiVI/AckeSNGduGEfg=="

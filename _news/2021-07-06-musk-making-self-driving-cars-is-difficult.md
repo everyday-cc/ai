@@ -41,6 +41,22 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Developing safe self-driving car a 'hard problem', admits Tesla CEO Musk"
+    excerpt: "Tesla CEO Elon Musk has finally admitted that developing a safe and reliable self-driving car is indeed a difficult task"
+    publishedDateTime: 2021-07-06T04:42:00Z
+    webUrl: "https://www.business-standard.com/article/automobile/developing-safe-self-driving-car-a-hard-problem-admits-tesla-ceo-musk-121070600204_1.html"
+    ampWebUrl: "https://wap.business-standard.com/article-amp/automobile/developing-safe-self-driving-car-a-hard-problem-admits-tesla-ceo-musk-121070600204_1.html"
+    cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/automobile/developing-safe-self-driving-car-a-hard-problem-admits-tesla-ceo-musk-121070600204_1.html"
+    type: article
+    provider:
+      name: Business Standard
+      domain: business-standard.com
+    quality: 58
+    images:
+      - url: "https://bsmedia.business-standard.com/media-handler.php?mediaPath=https://bsmedia.business-standard.com/_media/bs/img/article/2020-11/18/full/1605681784-7704.jpg&width=1200"
+        width: 1200
+        height: 900
+        isCached: true
   - title: "Elon Musk Tells Dejected Tesla Owners Self-Driving Is Hard After Repeatedly Missing Deadlines"
     excerpt: "Tesla owners are apparently losing their patience with CEO Elon Musk and his bold promises surrounding Full Self Driving (FSD). The feature is currently in beta, despite it being a $10,000 option on current Tesla vehicles."
     publishedDateTime: 2021-07-05T14:11:00Z
@@ -100,6 +116,6 @@ related:
         height: 900
         isCached: true
 
-secured: "sjtYu/B5c77VXFc46vRyp0Lst2xwxuF1HPR8W/aLaDrjD5xzMLBHxYdodUbfH53IT7eWjIi5oXU21x9RJ29Ko34wNkPZNXCbC8zu9suzOmeLj2PKJyDNUELdKvb87yzUHgsK7U+FsHlQgUneZ58iY6ZHwsobg+sX+05zoCzTh0fhCZvmSR6PsPG0NWs0Zb7FI9dh1sA6MBN27zXZ8JA2d8WD/YP67UyNTRfTTRNx9jl2/xuxEU1gFkCEg71pECk7wL0ASj+V76uXxFo/+2GSnWratEsp1KU+qRxMRIuknIL2bSX2/zR4jiNhcG7BZTAsW+FbVMMC2zxnfJoLMUMwoAraFiI8DB1Y4hQ3UPZREbA=;MdryKZV82Fn092yvDoV1ng=="
+secured: "c77R0tyVvEDLeMi/5SKlWC7LMt9grLnxpq40Utc5UljzAPjX9XyGwjN+dUttdqJsPH9kzYgJk07qbt2MyF1/Dr/SanBu7ZIaanoT84wkeRg6QEuv0ZvNkLvDm6HhEy8NR0V0FB/UTEg0q/xltQr11/fdrFlv7UOhoXaefoxXgrQfcq84AKEIUq2+9JVbIwqQOe0cC2PgdvjHptpULAzfOLfo2CwEpEyXQZ4nIq1yyRX+KArZwyiYmFWOCGOLja8eljqoccNF0We4+R203jaPYZgnbV35QzsPAYyhbtMxlwRUxVvwsGsUluzKH9h8zmZCA73Bvd1g5vIcexWFtZNR4jgOh+MpPnUfsWVgrv8DyhYAfh7DrlcnmjTuovca2m3TYFlKRTGJzRW3x+ytAHN7kOP9HMHk5iQjtROGBPdOe1UEzKbc5CzI4VdPBLNCava0SaWbZgy4A8u7WH7aEPwudmXdoQ7kjvGs8QhTT2af6OgSdD+kEGamUDkATV3A18ld5XGk7FGyDI2YL5v55mxyZg==;hUnn683JkEfoW/OMwDg7Kg=="
 ---
 

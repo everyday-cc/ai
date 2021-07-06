@@ -9,7 +9,7 @@ ampWebUrl: "https://www.financialexpress.com/industry/technology/artificial-inte
 cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/industry/technology/artificial-intelligence-in-healthcare-intels-ai-tool-screens-patients-for-vision-loss/2283014/lite/"
 type: article
 quality: 85
-heat: 105
+heat: 95
 published: true
 
 provider:
@@ -45,15 +45,6 @@ related:
         width: 600
         height: 390
         isCached: true
-  - title: "Digital health care in China and access for older people"
-    excerpt: "Digital medicine technology has been widely applied to support health care today.1 In China, the so-called Internet Plus health care is an emerging health service model with a cross-industry integration and application of information technologies,"
-    publishedDateTime: 2021-07-01T12:45:00Z
-    webUrl: "https://www.thelancet.com/journals/lanpub/article/PIIS2468-2667(21)00051-7/fulltext"
-    type: article
-    provider:
-      name: The Lancet
-      domain: thelancet.com
-    quality: 4
 
 secured: "jcgHyIlrWQ4cFQxXsePpwRoRt73IZx9sqSvKthre/H8YureoobczdAatUYNcoWaP4/ZYn1wyYrENMXOBOF4ZDFedSxaeiB728sW3jDzy+KXIxhHrxtwOh50NGC4UEKEbDG5JohNg6AbauqJf2d6cGbXeo3i91VehztWS7gJulpOGlBKR3o7D5GaLOIow/qCDTI1TOuV53iGSMHNUg3dLWXn4F3DTIlH3wSC17WJT40jn1CNbVVMWvEemB6HUDAB1j8L6UGOa8t3tbb8W0kvw1dkJtoOCyNNzVQVzqrM/y0knIU08+2jUdLy4Z2thdLrcA9j/OJ6wqPZNj6F++Xqj7H+GdmIhLkIEfWa496LLCIA=;SVRmreyTSpiRfYy2DROlXw=="
 ---

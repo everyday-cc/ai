@@ -43,15 +43,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Digital health care in China and access for older people"
-    excerpt: "Digital medicine technology has been widely applied to support health care today.1 In China, the so-called Internet Plus health care is an emerging health service model with a cross-industry integration and application of information technologies,"
-    publishedDateTime: 2021-07-01T12:45:00Z
-    webUrl: "https://www.thelancet.com/journals/lanpub/article/PIIS2468-2667(21)00051-7/fulltext"
-    type: article
-    provider:
-      name: The Lancet
-      domain: thelancet.com
-    quality: 4
 
 secured: "cDrpgNtoYnt4cdX04iWgu9FcOXa3GLcO8zfPli5odmJ9ciw23oQX1OlhbCo4E2po0kf2FmatfySB8snWFj3HS905EeVPERJkDHlOmhCe+pXQxcN/RgdqQcyFPgs85M02fqLB44AMpF66ajCIpkqRK40gWax7I7qzuPdeVluYgcqtaeLyYUrVm3o8o/9yhnra/xSBCpv2Gph7H6EAd/dWT9re3C5uexkq+qdaF3p49rZYV/iA4GHTJaQnoE0h/jCZcYj3uFWIgVTtXZqokuvjoixICiEo9vKff8f4Vc2zfDluBtr8WBKHCrJYJvEDH19d4EZF6GCUqYVt9M3MmuLdVYPopGeYuZje1YYfWPRS3F4=;ErVB8mivN+ZS5gTXAYkPmg=="
 ---

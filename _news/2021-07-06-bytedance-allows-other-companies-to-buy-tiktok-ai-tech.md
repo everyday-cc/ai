@@ -165,6 +165,20 @@ related:
         width: 1200
         height: 808
         isCached: true
+  - title: "ByteDance sells short video AI in India; and Pooja Goyal at Avishkaar on how gender bias starts early in STEM"
+    excerpt: "China's ByteDance, which is the parent company of TikTok, has started selling the AI technology of its short video app to other companies, including in India where the app is banned. And in today's tech conversation,"
+    publishedDateTime: 2021-07-06T04:49:00Z
+    webUrl: "https://www.forbesindia.com/audio/forbes-india-daily-tech-brief-podcast/bytedance-sells-short-video-ai-in-india-and-pooja-goyal-at-avishkaar-on-how-gender-bias-starts-early-in-stem/68957"
+    type: article
+    provider:
+      name: Forbes India
+      domain: forbesindia.com
+    quality: 18
+    images:
+      - url: "https://www.forbesindia.com/media/audio/2021/Jul/forbesindiatechbriefingpodcast_800x600_logo.jpg"
+        width: 800
+        height: 600
+        isCached: true
 
 secured: "OyoCYN+5ZEJqUWZquQxXP4CnXBER5S5TqaOVc+kCgOg6fLXX5bcOrhoEwRMbHdgGiBBpNnMjnBYH8i0Is++u/Nzq5BJPPDeLcnmlcBEwSf2lulkXB50qXK3sua406hODNe7Yk5uP4JtVbFXjePcFC4sAgHBkfX/uPyqJ8bZeZ2q4G95rvguD5ArEdA34l8XOWi3H+QRj7Wg7wJtmcEAP/GX8k+avp62vGcc4de6YwuW1dlAKh/NtFNcs3N63UoeEpyZsspwancl0yD7ofhReK22f62tv0L1y27NmMWVmr3FxKiJ94CQmZnkikRlVaI6LSpzPTxo1KEjiO7/FJorQCDIUItQj63jbFGw8+t/P0+M=;A+eu9VhsNVW7upFt93KHPw=="
 ---

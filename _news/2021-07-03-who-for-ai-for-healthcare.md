@@ -42,20 +42,6 @@ related:
         width: 1200
         height: 702
         isCached: true
-  - title: "The robots are coming"
-    excerpt: "Experts know that change is coming but remain uncertain about how, when, and where those changes will occur. It follows that cities that ready themselves sooner rather than later will develop more immunity to the latest strain of economic upheaval."
-    publishedDateTime: 2021-07-01T11:46:00Z
-    webUrl: "https://www.marinatimes.com/the-robots-are-coming"
-    type: article
-    provider:
-      name: Marina Times
-      domain: marinatimes.com
-    quality: 39
-    images:
-      - url: "https://www.marinatimes.com/wp-content/uploads/2019/06/MT-Jun2019-NORTHSIDE-Marination-640x426.jpg"
-        width: 640
-        height: 426
-        isCached: true
 
 secured: "ReFs8RKtt9ufWRB8lr1nRxuOLqw5UQwJ0lMduxfZvH9RZ+RzkxZ+O5Sbc2RLm4XPbLoOEgliarUIYE8r0rc/BMo5Xn3IdSl8dUwifOe5oMjUoZ9I2X79KfwEkHEpVk5uq468hxvxlFg9fukdidhGAFO1P7/5QXJSmhgrK+OL53G+f+y4mo7HpeCEfO/ZvNphmJ5B454BOZVXkyJspimKP3/5Mj8vsoTbfoFeGUMXJZSVIbppmsfmwBeF6Gqe2r8GKj3YBZLw7urNCX0F/GR5ZML1G94ygleAat1b3TaXCHfEm6jucCTz+Ou/F1h+1Z4tQGfyMraEoss7vFlmSc80DZogD6J/Mu8qfUXPK93ekyrPNFyRl34uzcT5Who5AxKyn4iDv+JYbEqn8qB3mrAbVpiSkSF85WT5QmPKd6UdC3IUbNOb3oj2FbuB8GA/7CLpokCAibHz+nef7QfRS1QitsZHaN3yxCuN0c3hoj0RTNWOEXnYoEkvZTOJ8G4vXQA2egmaMWccSPV1jIlPONRu0A==;0vL5wniYy/BgnY2mUPeKkw=="
 ---

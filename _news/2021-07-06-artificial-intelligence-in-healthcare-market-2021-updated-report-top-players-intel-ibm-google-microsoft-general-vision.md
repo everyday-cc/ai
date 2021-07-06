@@ -53,20 +53,6 @@ related:
         width: 600
         height: 338
         isCached: true
-  - title: "AT&T hands 5G core to Microsoft Azure"
-    excerpt: "Microsoft is acquiring AT&T’s Network Cloud business as part of a new deal that will see Azure handle all of AT&T’s 5G traffic"
-    publishedDateTime: 2021-07-01T12:38:00Z
-    webUrl: "https://www.totaltele.com/510166/ATT-hands-5G-core-to-Microsoft-Azure"
-    type: article
-    provider:
-      name: Total Telecom
-      domain: totaltele.com
-    quality: 54
-    images:
-      - url: "https://www.totaltele.com/res/image/tech%20stuff/at&t.jpg"
-        width: 467
-        height: 467
-        isCached: true
   - title: "Microsoft experiments with high-end machine learning on Xbox Series X"
     excerpt: "Microsoft is hiring new software engineers to help create new next-gen machine learning algorithms for Xbox Series X/S consoles."
     publishedDateTime: 2021-07-03T22:14:00Z
@@ -76,6 +62,15 @@ related:
       name: TweakTown
       domain: tweaktown.com
     quality: 36
+  - title: "Deep Learning Market Size and Growth to 2028 | Key Players – Amazon Web Services (AWS), Google, IBM, Intel, Micron Technology, Microsoft"
+    excerpt: "The Deep Learning Market report forecasts promising growth and development for the period 2021-2028. The Deep Learning market research report defines key statistical data presented in an organized format including graphs,"
+    publishedDateTime: 2021-07-06T03:55:00Z
+    webUrl: "https://manometcurrent.com/deep-learning-market-size-and-growth-to-2028-key-players-amazon-web-services-aws-google-ibm-intel-micron-technology-microsoft/"
+    type: article
+    provider:
+      name: manometcurrent.com
+      domain: manometcurrent.com
+    quality: 35
   - title: "Artificial Intelligence (AI) in Real Estate Market Next Big Thing : Major Giants IBM, Cape Analytics, Baidu"
     excerpt: "The latest research on “Global Artificial Intelligence (AI) in Real Estate Report 2021” offered by HTF MI provides a comprehensive investigation into the geographical landscape, industry size along with the revenue estimation of the business."
     publishedDateTime: 2021-07-03T00:36:00Z

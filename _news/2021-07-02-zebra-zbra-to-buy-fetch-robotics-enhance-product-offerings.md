@@ -9,8 +9,8 @@ ampWebUrl: "https://www.nasdaq.com/articles/zebra-zbra-to-buy-fetch-robotics-enh
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/zebra-zbra-to-buy-fetch-robotics-enhance-product-offerings-2021-07-02?amp"
 type: article
 quality: 84
-heat: -1
-published: false
+heat: 94
+published: true
 
 provider:
   name: Nasdaq
@@ -21,22 +21,6 @@ topics:
   - AI
 
 related:
-  - title: "Zebra Technologies to Acquire Fetch Robotics"
-    excerpt: "Zebra Technologies (NASDAQ: ZBRA), an innovator at the front line of business with solutions and partners that deliver a performance edge, today announced it intends to acquire Fetch Robotics, a pioneer in on-demand automation."
-    publishedDateTime: 2021-07-01T12:19:00Z
-    webUrl: "https://www.benzinga.com/m-a/21/07/21806822/zebra-tech-to-acquire-fetch-robotics-for-290m"
-    ampWebUrl: "https://www.benzinga.com/amp/content/21806822"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/21806822"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 174
-    images:
-      - url: "https://www.benzinga.com/files/images/story/2012/abtech_871.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Zebra Technologies buys warehouse robot maker Fetch Robotics"
     excerpt: "Enterprise technology giant Zebra Technologies Corp. is looking to bolster its presence in the industrial robot industry, having announced its intention to acquire startup called Fetch Robotics Inc. for $290 million today."
     publishedDateTime: 2021-07-02T00:22:00Z

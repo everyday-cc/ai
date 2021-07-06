@@ -69,34 +69,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Microsoft to acquire AT&T’s Network Cloud; Azure to host AT&T 5G network"
-    excerpt: "The partnership builds on an existing $2bn deal where AT&T moved its back-end office to Microsoft Azure. The tech company became AT&T's preferred cloud provider for \"non-network a"
-    publishedDateTime: 2021-07-01T12:07:00Z
-    webUrl: "https://www.datacenterdynamics.com/en/news/microsoft-to-acquire-atts-network-cloud-azure-to-host-att-5g-network/"
-    type: article
-    provider:
-      name: Datacenter Dynamics
-      domain: datacenterdynamics.com
-    quality: 53
-    images:
-      - url: "https://media.datacenterdynamics.com/media/images/ATTcloud.2e16d0ba.fill-1200x630.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Cloud wars heat up: AT&T moves 5G cloud to Azure, sells Network Cloud tech to Microsoft"
-    excerpt: "AT&T is making big changes in its cloud computing efforts, deciding to move its next-generation 5G wireless core to Microsoft's Azure cloud and also selling its Network Cloud Platform tech to"
-    publishedDateTime: 2021-07-01T11:47:00Z
-    webUrl: "https://www.wraltechwire.com/2021/07/01/cloud-wars-heat-up-att-moves-5g-cloud-to-azure-sells-network-cloud-tech-to-microsoft/"
-    type: article
-    provider:
-      name: WRAL TechWire
-      domain: wraltechwire.com
-    quality: 46
-    images:
-      - url: "https://www.wraltechwire.com/wp-content/uploads/2020/11/cloud-computing-internet-of-things-e1605713015179-1024x576.png"
-        width: 1024
-        height: 576
-        isCached: true
 
 secured: "mHaLNFq1TSGqyVCnZQxxjnjc76Z9LxmvLfbTNF69qrXAA0D5JsnIOxnQNxydVmsEqmk5Klv7UwAn8ozrg2hCvB1sNO1D1ohPRuJSkp3JKp4ikKfnue9FrPA44iTAHEZ5TQuMJfWsdlDwsxvz5Qoin85SyBtToW/V53gxqqriR3FEe+F0pocylWeTBq6fv37k9eoTLgO+BkH3A91TlHnVzgJf7PWolxPpUoeA5l1xkIFCkcSh91lnZUAfeosV2LN2m8VqD4mT5az9Xo3my1mBrspymYlHndSlvvYpul19RjO7BLKGO2AUedGBNT6GpD/AmAydXaeGc1I73i8VuCzk2DPNjUIUftY1EZwkFvcfWDpEY01A7pNLV7c+4v7iSsBk+Uk3tVpROIi9HDbDEvLzw2GsVSkvjbe3TU0VJnld4WJbHS9ulmh1WYqgXc/U12ADtvvN647bD/jiLpADOh9CAA1xx3eNv7gy98Q7+6OOBH+x15OI45ze5GTG29inZo1Bs70Z08WhzhPZHZxbNGlTAA==;/ftPdXC/sAUGrizFzEJnMw=="
 ---

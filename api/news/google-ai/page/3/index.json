@@ -2,6 +2,101 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-05-21-finding-any-cartier-watch-in-under-3-seconds.md",
+      "title": "Finding any Cartier watch in under 3 seconds",
+      "excerpt": "Cartier is legendary in the world of luxury — a name that is synonymous with iconic jewelry and watches, timeless design,  savoir-faire and exceptional customer service. Maison Cartier’s collection dates back to the opening of Louis-François Cartier’s very first Paris workshop in 1847. And with over",
+      "sourceUrl": null,
+      "webUrl": "https://blog.google/products/google-cloud/finding-any-cartier-watch-under-3-seconds/",
+      "originalUrl": "https://blog.google/products/google-cloud/finding-any-cartier-watch-under-3-seconds/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/03_11_21_GoogleBlog_Header_Cartier_animated.gif",
+          "width": 1600,
+          "height": 667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://blog.google/products/google-cloud/finding-any-cartier-watch-under-3-seconds/amp/",
+      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/products/google-cloud/finding-any-cartier-watch-under-3-seconds/amp/",
+      "publishedDateTime": "2021-05-21T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Google",
+        "domain": "blog.google",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-21-twitter-rolls-out-new-verification-system-dth.md",
+      "title": "Twitter Rolls Out New Verification System – DTH",
+      "excerpt": "Twitter begins rolling out its new verification system, Snap announces new true AR Spectacles, and Google reportedly ends negotiations to give DeepMind more autonomy. MP3 Please SUBSCRIBE HERE.",
+      "sourceUrl": null,
+      "webUrl": "https://dailytechnewsshow.com/2021/05/21/twitter-rolls-out-new-verification-system-dth/",
+      "originalUrl": "https://dailytechnewsshow.com/2021/05/21/twitter-rolls-out-new-verification-system-dth/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i0.wp.com/dailytechnewsshow.com/wp-content/uploads/2019/11/cropped-DTNS-CoverArt-New-1400-x-1400-1.png?fit=512%2C512&ssl=1",
+          "width": 512,
+          "height": 512,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://dailytechnewsshow.com/2021/05/21/twitter-rolls-out-new-verification-system-dth/amp/",
+      "cdnAmpWebUrl": "https://dailytechnewsshow-com.cdn.ampproject.org/c/s/dailytechnewsshow.com/2021/05/21/twitter-rolls-out-new-verification-system-dth/amp/",
+      "publishedDateTime": "2021-05-21T08:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Daily Tech News Show",
+        "domain": "dailytechnewsshow.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-21-google-unit-deepmind-triedand-failedto-win-ai-autonomy-from-parent.md",
       "title": "Google Unit DeepMind Tried—and Failed—to Win AI Autonomy From Parent",
       "excerpt": "The artificial intelligence unit’s desire for an independent legal structure has been thwarted by its parent company.",
@@ -1373,102 +1468,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/deepmind.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-06-machine-learning-crash-course-from-google.md",
-      "title": "Machine Learning Crash Course From Google",
-      "excerpt": "If you’ve yet to climb the learning curve, you might be interested in a new free class from Google using TensorFlow. Of course, we’ve covered tutorials for TensorFlow before, but this is ...",
-      "sourceUrl": null,
-      "webUrl": "https://hackaday.com/2018/05/22/machine-learning-crash-course-from-google/",
-      "originalUrl": "https://hackaday.com/2018/05/22/machine-learning-crash-course-from-google/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://hackaday.com/wp-content/uploads/2018/05/google-machine-learning-featured.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-05T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hackaday",
-        "domain": "hackaday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-05-05-woolaroo-a-new-tool-for-exploring-indigenous-languages.md",
-      "title": "Woolaroo: a new tool for exploring indigenous languages",
-      "excerpt": "“Our dictionary doesn’t have a word for shoe” my Uncle Allan Lena said, so when kids ask him what to call it in Yugambeh, he’ll say “jinung gulli” - a foot thing.Uncle Allan Lena is a frontline worker in the battle to reteach the Yugambeh Aboriginal language to the children of southeast Queensland, Australia,",
-      "sourceUrl": null,
-      "webUrl": "https://blog.google/outreach-initiatives/arts-culture/woolaroo-new-tool-exploring-indigenous-languages/",
-      "originalUrl": "https://blog.google/outreach-initiatives/arts-culture/woolaroo-new-tool-exploring-indigenous-languages/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 205,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/woolaroo_yugambeh.max-1300x1300.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://blog.google/outreach-initiatives/arts-culture/woolaroo-new-tool-exploring-indigenous-languages/amp/",
-      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/outreach-initiatives/arts-culture/woolaroo-new-tool-exploring-indigenous-languages/amp/",
-      "publishedDateTime": "2021-05-05T13:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Google",
-        "domain": "blog.google",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

@@ -2,6 +2,49 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-05-19-is-that-tom-hanks-speaking-in-japanese-no-its-just-ai.md",
+      "title": "Is That Tom Hanks Speaking in Japanese? No, It's Just AI",
+      "excerpt": "Bad lip-syncing in dubbing and subtitles can put off audiences and hurt box office takings of foreign films. AI may be about to change all that. Start-up Flawless AI, co-founded by film director Scott Mann,",
+      "sourceUrl": null,
+      "webUrl": "https://www.usnews.com/news/technology/articles/2021-05-19/is-that-tom-hanks-speaking-in-japanese-no-its-just-ai",
+      "originalUrl": "https://www.usnews.com/news/technology/articles/2021-05-19/is-that-tom-hanks-speaking-in-japanese-no-its-just-ai",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.usnews.com/news/technology/articles/2021-05-19/is-that-tom-hanks-speaking-in-japanese-no-its-just-ai?context=amp",
+      "cdnAmpWebUrl": "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/technology/articles/2021-05-19/is-that-tom-hanks-speaking-in-japanese-no-its-just-ai?context=amp",
+      "publishedDateTime": "2021-05-19T03:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "U.S. News & World Report",
+        "domain": "usnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-19-otterais-new-assistant-can-automatically-transcribe-your-zoom-meetings.md",
       "title": "Otter.ai’s new assistant can automatically transcribe your Zoom meetings",
       "excerpt": "A.I.-powered voice transcription service Otter.ai wants to make it even easier for its business users to record their meetings. The company is today introducing a new feature, Otter Assistant, which can automatically join the Zoom meetings on your calendar,",
@@ -1415,58 +1458,6 @@
         "Natural Language Processing",
         "AI",
         "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-10-analyzing-the-rise-of-deepfake-voice-technology.md",
-      "title": "Analyzing The Rise Of Deepfake Voice Technology",
-      "excerpt": "Today, businesses are at risk of deepfake attacks, and the potential impact on their businesses could be substantial.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/05/10/analyzing-the-rise-of-deepfake-voice-technology/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/05/10/analyzing-the-rise-of-deepfake-voice-technology/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60466283ded5cf593f3ba809%2F0x0.jpg",
-          "width": 883,
-          "height": 589,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/05/10/analyzing-the-rise-of-deepfake-voice-technology/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/05/10/analyzing-the-rise-of-deepfake-voice-technology/amp/",
-      "publishedDateTime": "2021-05-10T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
       ]
     }
   ],

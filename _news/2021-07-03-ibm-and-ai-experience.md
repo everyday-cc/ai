@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "IBM Watson Advertising announces new research to explore the role of artificial intelligence in detecting and mitigating advertising bias"
-    excerpt: "A six-month research project will use IBM's open source artificial intelligence technology and Ad Council campaign data"
-    publishedDateTime: 2021-07-01T11:09:00Z
-    webUrl: "https://debatepost.com/celebrity/2021/07/01/ibm-watson-advertising-announces-new-research-to-explore-the-role-of-artificial-intelligence-in-detecting-and-mitigating-advertising-bias/"
-    type: article
-    provider:
-      name: debatepost.com
-      domain: debatepost.com
-    quality: 21
-    images:
-      - url: "https://debatepost.com/wp-content/uploads/2021/07/IBM-Watson-Advertising-announces-new-research-to-explore-the-role.jpg"
-        width: 600
-        height: 300
-        isCached: true
   - title: "Data, AI and the incredible impact of meaningful customer experiences"
     excerpt: "A great customer experience is defined not by what you offer, but by how well you enable your customers to achieve the outcomes most important to them."
     publishedDateTime: 2021-07-02T17:44:00Z

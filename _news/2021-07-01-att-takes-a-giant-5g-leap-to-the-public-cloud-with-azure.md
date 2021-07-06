@@ -68,34 +68,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Microsoft to acquire AT&T’s Network Cloud; Azure to host AT&T 5G network"
-    excerpt: "The partnership builds on an existing $2bn deal where AT&T moved its back-end office to Microsoft Azure. The tech company became AT&T's preferred cloud provider for \"non-network a"
-    publishedDateTime: 2021-07-01T12:07:00Z
-    webUrl: "https://www.datacenterdynamics.com/en/news/microsoft-to-acquire-atts-network-cloud-azure-to-host-att-5g-network/"
-    type: article
-    provider:
-      name: Datacenter Dynamics
-      domain: datacenterdynamics.com
-    quality: 53
-    images:
-      - url: "https://media.datacenterdynamics.com/media/images/ATTcloud.2e16d0ba.fill-1200x630.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Cloud wars heat up: AT&T moves 5G cloud to Azure, sells Network Cloud tech to Microsoft"
-    excerpt: "AT&T is making big changes in its cloud computing efforts, deciding to move its next-generation 5G wireless core to Microsoft's Azure cloud and also selling its Network Cloud Platform tech to"
-    publishedDateTime: 2021-07-01T11:47:00Z
-    webUrl: "https://www.wraltechwire.com/2021/07/01/cloud-wars-heat-up-att-moves-5g-cloud-to-azure-sells-network-cloud-tech-to-microsoft/"
-    type: article
-    provider:
-      name: WRAL TechWire
-      domain: wraltechwire.com
-    quality: 46
-    images:
-      - url: "https://www.wraltechwire.com/wp-content/uploads/2020/11/cloud-computing-internet-of-things-e1605713015179-1024x576.png"
-        width: 1024
-        height: 576
-        isCached: true
 
 secured: "BgjeKnAjyOHLCHFmPE9A9WX2qaWZkeot9UyJxb/HSJ0YRJuQp0O3e2sueliKt3vg13qf9VdyWmZfc7SUwecAQqvcc8BRaCrcV0/g1jnMweJQ+lzp1/6WWKWSkEFgqYLJu/xlLO7QzSbNfMtzfjzWpXCPnX7F0ODcCOqXBY0urWoj72u4Z/Y1NWa7DG5QS0h9409LDf9hSM7Ar7QZb03YnnnUzerajZZy3mpCGoXLxqoNofqTF7glivKPT+Wgcrs7KD/nePurVfHjaLs91rCStV3q3B5uNQ885EHH/7fVS37VVexyAFA/lBEOx785xDG4+L6fyeKMLZqD750zcAoBr5pE5DBB9NFlDGZcUkichN0=;zIOdZAMEbGSCs4qYslwmFA=="
 ---
