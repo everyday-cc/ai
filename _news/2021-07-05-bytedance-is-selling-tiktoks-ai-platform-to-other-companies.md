@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techradar.com/in/amp/news/bytedance-is-selling-tiktoks-a
 cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/in/amp/news/bytedance-is-selling-tiktoks-ai-platform-to-other-companies"
 type: article
 quality: 87
-heat: 167
+heat: 177
 published: true
 
 provider:
@@ -75,6 +75,22 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60de2cc2910d3a6aef446fdb%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1995%26cropY1%3D32%26cropY2%3D1154"
         width: 1200
         height: 675
+        isCached: true
+  - title: "ByteDance Allows Other Companies To Buy TikTok AI Tech"
+    excerpt: "ByteDance has begun selling the artificial intelligence that powers its blockbuster TikTok app to other companies outside China."
+    publishedDateTime: 2021-07-06T01:15:00Z
+    webUrl: "https://www.pymnts.com/news/artificial-intelligence/2021/bytedance-allows-other-companies-to-buy-tiktok-ai-tech/"
+    ampWebUrl: "https://www.pymnts.com/news/artificial-intelligence/2021/bytedance-allows-other-companies-to-buy-tiktok-ai-tech/amp/"
+    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/artificial-intelligence/2021/bytedance-allows-other-companies-to-buy-tiktok-ai-tech/amp/"
+    type: article
+    provider:
+      name: pymnts.com
+      domain: pymnts.com
+    quality: 59
+    images:
+      - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/07/tiktok-AI-ByteDance-457x274.jpg"
+        width: 457
+        height: 274
         isCached: true
   - title: "ByteDance starts selling TikTok’s AI to other companies"
     excerpt: "ByteDance is selling some of the artificial-intelligence technology that powers its viral video app TikTok to websites and apps outside China, as it broadens its revenue streams ahead of a long-anticipated initial public offering."

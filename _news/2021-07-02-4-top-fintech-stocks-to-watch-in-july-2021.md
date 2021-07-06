@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nasdaq.com/articles/4-top-fintech-stocks-to-watch-in-jul
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/4-top-fintech-stocks-to-watch-in-july-2021-2021-07-02?amp"
 type: article
 quality: 54
-heat: 154
+heat: 144
 published: true
 
 provider:
@@ -48,20 +48,6 @@ related:
       - url: "https://fintechmagazine.com/sites/default/files/styles/ma/public/image/GettyImages-1250153410.jpg?itok=AkTuwQaw"
         width: 2405
         height: 1247
-        isCached: true
-  - title: "8 Types Of Fintech To Take Advantage Of"
-    excerpt: "Whether it’s checking our bank balance with an app or Venmoing a friend the cost of a bagel, fintech impacts our daily lives. By streamlining and automating"
-    publishedDateTime: 2021-07-01T07:31:00Z
-    webUrl: "https://www.techshout.com/types-of-fintech-to-take-advantage-of/"
-    type: article
-    provider:
-      name: TechShout
-      domain: techshout.com
-    quality: 24
-    images:
-      - url: "https://www.techshout.com/wp-content/uploads/2021/04/fintech-1.jpg"
-        width: 690
-        height: 240
         isCached: true
   - title: "5 reasons your team should attend Fintech & Insurtech Live"
     excerpt: "Join us from 12th - 14th October 2021 for the ultimate Fintech & Insurtech event, streamed live from London’s Tobacco Dock"

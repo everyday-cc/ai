@@ -35,6 +35,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "KIMSHEALTH launches three digital healthcare initiatives"
+    excerpt: "Tele ICU, which provides remote ICU services, has its central monitoring station located at KIMSHEALTH Thiruvananthapuram and links smaller hospitals to it."
+    publishedDateTime: 2021-07-06T01:28:00Z
+    webUrl: "https://www.newindianexpress.com/cities/thiruvananthapuram/2021/jul/06/kimshealth-launches-threedigital-healthcare-initiatives-2326045.html"
+    ampWebUrl: "https://www.newindianexpress.com/cities/thiruvananthapuram/2021/jul/06/kimshealth-launches-threedigital-healthcare-initiatives-2326045.amp"
+    cdnAmpWebUrl: "https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/cities/thiruvananthapuram/2021/jul/06/kimshealth-launches-threedigital-healthcare-initiatives-2326045.amp"
+    type: article
+    provider:
+      name: The New Indian Express
+      domain: newindianexpress.com
+    quality: 59
+    images:
+      - url: "https://images.newindianexpress.com/uploads/user/imagelibrary/2021/7/6/w600X390/KIMSHEALTH_launches_three.jpg"
+        width: 600
+        height: 390
+        isCached: true
   - title: "WHO Lays Down 6 Principles To Use AI In Healthcare"
     excerpt: "The World Health Organization (WHO) recently issued its first global report on artificial intelligence in healthcare and six guiding principles for its design and use. The report titled ‘Ethics and governance of artificial intelligence for health’ has been published after two years of consultations held by a panel of international experts appointed by WHO."
     publishedDateTime: 2021-07-01T10:30:00Z

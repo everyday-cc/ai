@@ -9,7 +9,7 @@ ampWebUrl: "https://www.entrepreneur.com/amphtml/376262"
 cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/376262"
 type: article
 quality: 72
-heat: 92
+heat: 82
 published: true
 
 provider:
@@ -44,15 +44,6 @@ related:
         width: 655
         height: 364
         isCached: true
-  - title: "Mathpresso, developer of AI-based learning app QANDA, secures $50 million in Series C funding"
-    excerpt: "Seoul-based edtech startup Mathpresso announced today that it has raised $50 million in a Series C funding round last week, which"
-    publishedDateTime: 2021-07-01T08:53:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/mathpresso-developer-of-ai-based-learning-app-qanda-secures-50-million-in-series-c-funding-1030570581"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 36
 
 secured: "kPlZDy4DIVMyB1Rw4VmUcsalZRhOZbdwUg2JTkPTPsp9TZaeXlCNwmb4iWt4Tlr/CZsLlbaOBuHk48SdsF/TECEI8/ift7nLUN1ovSRMZE8qJW3ZrZ4zG7T0P6Lo3+ZKqSNhAWP4g8dyC9MLKJkugxG4OY3ocuFX0vwSyt3SDpwBirHvTZEInOaKX+6Sji6kx3B5o9sim+EJFcDHDo/rs+2apAGjQVVz1m9Q5ydWTfcPPs+ZDiPN6rJqv1BP+Zqly5T+PLDsN0Q2rd8qQeVjfmagP329Z+gbj6T9SaHktGm1qeWak4AUGc9NTah3xW6zwj/iKbi5stv7IqAoFi2nHgUpmwmpOTkxwth8JjKctz8=;SLb2pv8W5KFA+2qIvFqaZA=="
 ---

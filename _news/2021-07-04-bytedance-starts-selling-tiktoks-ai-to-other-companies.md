@@ -88,6 +88,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "ByteDance Allows Other Companies To Buy TikTok AI Tech"
+    excerpt: "ByteDance has begun selling the artificial intelligence that powers its blockbuster TikTok app to other companies outside China."
+    publishedDateTime: 2021-07-06T01:15:00Z
+    webUrl: "https://www.pymnts.com/news/artificial-intelligence/2021/bytedance-allows-other-companies-to-buy-tiktok-ai-tech/"
+    ampWebUrl: "https://www.pymnts.com/news/artificial-intelligence/2021/bytedance-allows-other-companies-to-buy-tiktok-ai-tech/amp/"
+    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/artificial-intelligence/2021/bytedance-allows-other-companies-to-buy-tiktok-ai-tech/amp/"
+    type: article
+    provider:
+      name: pymnts.com
+      domain: pymnts.com
+    quality: 59
+    images:
+      - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/07/tiktok-AI-ByteDance-457x274.jpg"
+        width: 457
+        height: 274
+        isCached: true
   - title: "ByteDance selling TikTok AI to companies including in India"
     excerpt: "China-based ByteDance which is the parent company of TikTok, has reportedly started selling the AI technology of the short video-making app to other companies, including in India where the app is banned."
     publishedDateTime: 2021-07-05T10:44:00Z

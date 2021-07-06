@@ -3,43 +3,24 @@ category: news
 title: "Dataiku Launches In AWS Marketplace"
 excerpt: "Dataiku, a leading AI and machine learning platform, announced today that it is available in AWS Marketplace, a digital catalog with thousands of software listings from independent software vendors that make it easy to find,"
 publishedDateTime: 2021-06-21T13:02:00Z
-originalUrl: "https://www.wfmz.com/news/ap/ap-business/dataiku-launches-in-aws-marketplace/article_75992683-9bd5-553c-9edd-f9d376bac594.html"
-webUrl: "https://www.wfmz.com/news/ap/ap-business/dataiku-launches-in-aws-marketplace/article_75992683-9bd5-553c-9edd-f9d376bac594.html"
+originalUrl: "https://www.bakersfield.com/ap/news/dataiku-launches-in-aws-marketplace/article_0ea8f9d2-e442-5453-8b5d-d571717f1198.html"
+webUrl: "https://www.bakersfield.com/ap/news/dataiku-launches-in-aws-marketplace/article_0ea8f9d2-e442-5453-8b5d-d571717f1198.html"
 type: article
-quality: 54
-heat: 64
-published: false
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: The Bakersfield Californian
+  domain: bakersfield.com
 
 topics:
   - AWS AI
   - AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/b/83/b836a3a2-8251-59cf-9984-0641402b1bc1/60d09134432a0.image.jpg?resize=1200%2C628"
+  - url: "https://bloximages.newyork1.vip.townnews.com/bakersfield.com/content/tncms/assets/v3/editorial/e/a9/ea9078e3-dc71-5ef7-a5ae-2b94869bc713/60d09204bafc4.image.jpg?resize=1200%2C628"
     width: 1200
     height: 628
     isCached: true
 
-related:
-  - title: "Dataiku Launches in AWS Marketplace"
-    excerpt: "Dataiku, a leading AI and machine learning platform, announced today that it is available in AWS Marketplace, a digital catalog with"
-    publishedDateTime: 2021-06-21T23:04:00Z
-    webUrl: "https://www.prnewswire.com/in/news-releases/dataiku-launches-in-aws-marketplace-876332591.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 54
-    images:
-      - url: "https://mma.prnewswire.com/media/1449328/Dataiku_Logo.jpg?p=facebook"
-        width: 2698
-        height: 1414
-        isCached: true
-
-secured: "bzS+d7jhyJoQR6QnCfYQtjJVmESNy1vNa+qby3PFXK/GnagkHdK0mHvdGa7t0LXdvYnRAzMA89uEJWlhIxhcVqk7mzYXPzsXWoKUnd7C54OwyGwn2mW3DalTfbCHmeCxD4hXDglK6JjSrYca/LIpnZvESSN5s3l9AIfHVwwLYmQaW6RvqPt0MdmRw+Cb7tQo2SEMJ7AEVKAF+nT3D2tLq2CdDoN4NH5iuykYqtOBdNx9qf5dkEGrGIc7IcDj7TAVhpZtQUMn3FolvsZ4Th/pr5BRaHnEMO/tNnh+ByyLecMDSkAQzX8rIbPYQfEVvWhkKoNc93TJRfNP0CsKo0GMwEwKG7mo+HBJFa94U6U+J5w=;Be6iHeD7TRTpvICGd9C6aA=="
+secured: "N95ZXD2rOZNDmRZIQgMHlxIroheiBy9kLS/x/Yf6ql3y14KWrku7WYwbIDw0hx61D0iybEJAL+HJHsEzcsCo2DCpXtcZcC+MeQQggv/W+rgfzlzVsZWcy9h+UOcT0LwR4nTtASlpU6vZwX497S6juU9YSikX3e0kvt2oqCsSCCu0vRqH+YjOlbFMDn81POkjHwyg55XDZaihoplchhdHs/TxFA/98Y1kseld/XdIvHOTgeKvpCW0HFVR0rN5CuSOCs5TpBslzf+mBzA3vy0U+UbysxDZpwQRsse6MS5AJPusMRHuyhrXxntD7fjwJdSPUcvsdzSK6YdQyv026ibt2CEgHK3kP19JuI1PUXlDr5g=;Y0TwQGvmoVt9x1Gt15u+Mw=="
 ---
 

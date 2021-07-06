@@ -9,8 +9,8 @@ ampWebUrl: "https://www.newsbytesapp.com/news/science/zoom-reveals-plans-to-acqu
 cdnAmpWebUrl: "https://www-newsbytesapp-com.cdn.ampproject.org/c/s/www.newsbytesapp.com/news/science/zoom-reveals-plans-to-acquire-machine-translation-startup/story/amp"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: newsbytesapp.com
@@ -43,15 +43,6 @@ related:
         width: 600
         height: 338
         isCached: true
-  - title: "AI-powered Recruiting Startup TopFunnel Announces Acquisition of Referral-Based Company Teamable to Offer End-to-End Sourcing Platform"
-    excerpt: "TopFunnel, the AI-powered recruiting startup that high-growth companies use to scale, today announced the acquisition of Teamable to supercharge referral-based recruiting. Teamable is the employee referral platform that transforms social networks into high-performance talent pools."
-    publishedDateTime: 2021-07-01T07:31:00Z
-    webUrl: "https://www.morningstar.com/news/pr-newswire/20210701ph28669/ai-powered-recruiting-startup-topfunnel-announces-acquisition-of-referral-based-company-teamable-to-offer-end-to-end-sourcing-platform"
-    type: article
-    provider:
-      name: Morningstar, Inc.
-      domain: morningstar.com
-    quality: 0
 
 secured: "Eh7sWPMATQLHAlixtRYonn7xwke2Z0s+dyzapnWmAThhUAfAiadHrd+Nma/1Gd0sGPrnrh/t7WsRxgEWL7N3eMkrKkDzPRUdlrEiHKUuOrUgrkmklKNRUOi9pZo+WFoEifjx5CBa8Mj3MGgJsQqd3M3Ug0K6s+6CbftF4SW5kVzAV3AKueknMEfZrxrrpoNhF6ZxDktoq5+AGAXV58wU/I28JKxhdH/Z4OkP13Bu7TjOAOAFWcmsdBIZdsZwDizDCIq61dVxZi+Tn7Xh1NmDDOZ3uju9T3MqHEhU/5NKYZEOW9vTPdBnPqUusJsOPC3uvuhZ5DyUXtU83EI8lHFntx8KKdTiVgTMFKGTAYRygjoLF7d8+WPuhF1VmBdLsqfeG+TcW2PA776x6zoCH0/4qnoV6BgXRFvpegX8V52FItNdthFTkoiJytS4T19ycWtLIqsuciQV3y3s/eeGbWFKjpXO19MONu2nB2yZu0x57YnhIz+yFm4TcfLuzwQ9DEpvwfiQUhImGn9N8pYWDK4sTw==;p5SkJb74Wm5VQ20Lti80Mg=="
 ---
