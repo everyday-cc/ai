@@ -18,15 +18,20 @@ topics:
   - AI
 
 related:
-  - title: "Clarify Existing AI Rules Before Making New Ones, Says ABA"
-    excerpt: "Greater clarity and consistent regulations trumps introducing new rules, the trade body states As banks start to deploy artificial intelligence (AI) and machine learning technologies, the American Banking Association (ABA) has urged regulators to focus on clarifying AI regulations and guidance."
-    publishedDateTime: 2021-07-06T01:13:00Z
-    webUrl: "https://www.bankingexchange.com/news-feed/item/8781-clarify-existing-ai-rules-before-making-new-ones-says-aba"
+  - title: "New Study Shows APAC Organizations Investing More, Making Maturity Gains in AI"
+    excerpt: "Dataiku, announced the release of their sponsored IDC InfoBrief on APAC AI maturity, which takes snapshots of AI adoption"
+    publishedDateTime: 2021-07-06T21:22:00Z
+    webUrl: "https://www.prnewswire.com/in/news-releases/new-study-shows-apac-organizations-investing-more-making-maturity-gains-in-ai-850703947.html"
     type: article
     provider:
-      name: Banking Exchange
-      domain: bankingexchange.com
-    quality: 19
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 33
+    images:
+      - url: "https://mma.prnewswire.com/media/1449328/Dataiku_Logo.jpg?p=facebook"
+        width: 2698
+        height: 1414
+        isCached: true
 
 secured: "tqM9gAmuaMqkSTkop862iIM9CLAM3HCkXu3WqDAbdLl/bgqhpI9WcLl+KEIZkCFUHcv2Yr9GaHLRv01YlPj2Sekfduh1D6QD8w/78HZ8tIX0nc3y5WMnsW3iCm9Jfraff39R+Y7KPKrRixOzetug2aTCx2wAiytOAJgfMTo3RczA+yUb4i8d3tT0jUO/Y2kWNzf9tehgF/AVCv561n6EE+7WNVj0M3Ku9lNIa6MkskCS5Uq16q44oSgrIXRFA1fMR6IgQU7d70SNUP8vRpbxrMBmbQBS/HJ6HysenX2GFVozuLcbLXBz61WE5PAocINrD+pAm7ounytnue+PMVsijhxTrvuDn7ZKuIRcoaijbo3p1ongGDspRJrgno+Ll4B2+NurgZLG8mVhHKZygsaP0GnK/Epj7PwpkCgNSg1TYOO/2xbaNbaLbCCv8rUamB3EItdJlTxIyl4ZtAPcv90iKQkuYaJU29t5ltL9dcPVMMxmtLleVCIgmYikM7cxi1aUg20c4LhekRnrpszPID2rPA==;kxjr/NIIhV+BFehiDtKOaw=="
 ---

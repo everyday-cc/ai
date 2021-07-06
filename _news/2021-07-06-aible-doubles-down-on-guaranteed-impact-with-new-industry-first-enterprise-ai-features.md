@@ -1,18 +1,18 @@
 ---
 category: news
 title: "Aible Doubles Down on Guaranteed Impact With New Industry-First Enterprise AI Features"
-excerpt: "Aible, the only enterprise AI that guarantees impact in one month, today announced innovations to its flagship product. Aible extends its leadership in AI for business impact with new features that empower business teams to collaborate with analysts and data science teams to guarantee impact."
-publishedDateTime: 2021-07-06T11:04:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/2021/07/06/9403140.htm"
-webUrl: "https://www.tmcnet.com/usubmit/2021/07/06/9403140.htm"
+excerpt: "Aible, the only enterprise AI that guarantees impact in one month, today announced innovations to its flagship product. Aible extends its leadership i"
+publishedDateTime: 2021-07-06T15:00:00Z
+originalUrl: "https://www.businesswire.com/news/home/20210706005086/en/Aible-Doubles-Down-on-Guaranteed-Impact-With-New-Industry-First-Enterprise-AI-Features"
+webUrl: "https://www.businesswire.com/news/home/20210706005086/en/Aible-Doubles-Down-on-Guaranteed-Impact-With-New-Industry-First-Enterprise-AI-Features"
 type: article
 quality: 9
 heat: -1
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
   - AI
@@ -94,7 +94,21 @@ related:
         width: 450
         height: 308
         isCached: true
+  - title: "Why Creating Value is a skill needed for the future with AI and Technology"
+    excerpt: "Mckinsey in an article “Defining the skills citizens will need in the future world of work” has said, and I quote: add value beyond what can be done by automated systems and intelligent machines operate in a digital environment continually adapt to new ways of working and new occupations While I agree these are necessary,"
+    publishedDateTime: 2021-07-06T18:10:00Z
+    webUrl: "https://customerthink.com/why-creating-value-is-a-skill-needed-for-the-future-with-ai-and-technology/"
+    type: article
+    provider:
+      name: CustomerThink
+      domain: customerthink.com
+    quality: 35
+    images:
+      - url: "https://customerthink.com/wp-content/uploads/pixabay_technology-2025795_1280-robot-human.jpg"
+        width: 1280
+        height: 851
+        isCached: true
 
-secured: "6/f/GRBWDr+Et3BQ6lec+gGr9HE9O2BidCsfy0R/OSD/7Qz+NFJ2alcWdARuGe3JWKfF1IPnq2tPCCj8T58fEAoG7/o5BO6sACOC16aF8eu1dOKmuZdmVJfDn3OyXX/jnjF0BiV9+sKstkt5vjouSp7YkYHrzTeSSWN2SAPlttdHERGyWg0f1EEKN/bmvVOS01QxAGHCiFmL90sfC7OoBlw0RX0f6AxtISex0CIoZfsRiIEjUeQACqPCu4gKtUdz00oMHtK5mvh17MdWQyBRTxn8DWhiecHzvBH0mk4ZvbdNpD0H6qo5EGlXJe+NCoIj5OuBrmjafdeWze5CA7NJ5QPttdMBU0UIMI+DjP7NQIg=;BK2eS/eCzHcqRsTfmaMjgQ=="
+secured: "mSxLCeoeqRWEFi+meg3Vm202RMc/UlQ/KYeZpxRFooepawjwnsSGSodn3I5nB/XGJTU7iCFSnidlCpM0462vbCQvlHp7ksxxo8klTM6Rn2GkrBvzSeQCyEdamsOTAePvp7z0GpbfS1/Kn4fsoyVBupFPyYXcT+CyOpswsHBdWKcFfq2U0Yjcn7pv803hz5Sv38q6zwwljtYz/BvHWOjkC0Fy7o2WbCO8ED/nqSoz3g3X9ab3fspEYn1/dKEuuiIT15uvOzvs/iU8oOa0CpccDosFUEsbB47NM+DFIsKWMbilfOGccu2jX2eBNEpz93k4J+fc9GdPyLCVcyKwCz3iLqRV7oBB+UCzjbi83IoT7kY=;XnzHNvqiiReIJ87w9+SbtQ=="
 ---
 

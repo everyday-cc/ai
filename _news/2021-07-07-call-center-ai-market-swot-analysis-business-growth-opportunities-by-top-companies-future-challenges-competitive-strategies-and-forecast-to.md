@@ -52,6 +52,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Asia-Pacific Artificial Intelligence Market Growth 2021 to 2030, Global Industry Size, Recent Trends, Demand and Share Analysis with Top Key-Players"
+    excerpt: "In a recent published report, Kenneth Research has updated the Asia-Pacific Artificial Intelligence Market report for"
+    publishedDateTime: 2021-07-02T06:38:00Z
+    webUrl: "https://www.marketwatch.com/press-release/asia-pacific-artificial-intelligence-market-growth-2021-to-2030-global-industry-size-recent-trends-demand-and-share-analysis-with-top-key-players-2021-07-02"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 30
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Facial Recognition Market 2021, Top Leading Countries, Companies, Consumption, Trends, Forces Analysis, Revenue, Challenges and Global Forecast 2030"
     excerpt: "In a recent published report, Kenneth Research has updated the market report for Facial Recognition Market for 2021"
     publishedDateTime: 2021-07-05T05:18:00Z

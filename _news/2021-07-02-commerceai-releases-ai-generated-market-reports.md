@@ -86,14 +86,28 @@ related:
         width: 724
         height: 483
         isCached: true
-  - title: "Aible Doubles Down on Guaranteed Impact With New Industry-First Enterprise AI Features"
-    excerpt: "Aible, the only enterprise AI that guarantees impact in one month, today announced innovations to its flagship product. Aible extends its leadership in AI for business impact with new features that empower business teams to collaborate with analysts and data science teams to guarantee impact."
-    publishedDateTime: 2021-07-06T11:04:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2021/07/06/9403140.htm"
+  - title: "Why Creating Value is a skill needed for the future with AI and Technology"
+    excerpt: "Mckinsey in an article “Defining the skills citizens will need in the future world of work” has said, and I quote: add value beyond what can be done by automated systems and intelligent machines operate in a digital environment continually adapt to new ways of working and new occupations While I agree these are necessary,"
+    publishedDateTime: 2021-07-06T18:10:00Z
+    webUrl: "https://customerthink.com/why-creating-value-is-a-skill-needed-for-the-future-with-ai-and-technology/"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
+      name: CustomerThink
+      domain: customerthink.com
+    quality: 35
+    images:
+      - url: "https://customerthink.com/wp-content/uploads/pixabay_technology-2025795_1280-robot-human.jpg"
+        width: 1280
+        height: 851
+        isCached: true
+  - title: "Aible Doubles Down on Guaranteed Impact With New Industry-First Enterprise AI Features"
+    excerpt: "Aible, the only enterprise AI that guarantees impact in one month, today announced innovations to its flagship product. Aible extends its leadership i"
+    publishedDateTime: 2021-07-06T15:00:00Z
+    webUrl: "https://www.businesswire.com/news/home/20210706005086/en/Aible-Doubles-Down-on-Guaranteed-Impact-With-New-Industry-First-Enterprise-AI-Features"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
     quality: 9
 
 secured: "+7qceVRFKs66qYVfMf7lCBmGoXQ1BtWhsWnklJlTKk2YeATKysJha72+o1Um3abDDZkth7e0DWT1mIHirzKFksPG/6tdCdlydhbnGAchCMaY/nZERK8pvnzOG1AK1EncuZjrHvUUUzfOuPCyVoIj7c1muDsbxW6BVqDnukFwwOhN9hh/ak4rLb5G2N4pzNBkZDT6dTmhNRlDmdopXt3LW9ERck+T8gHXasfpI6FbiV34OSGv1c/u2WJRkfQDdAWEMofraihYIkYo9c4v1ZWt/LSyosnRE1w54nVMx+gXs2z51LYYJo0wPA9a50bwyjQ7V767B4egsLZF4ynBqMZ9hXLOduxYjksLJ8YSuJZmvBkO+qbPjBLJ+22bxEh0PLpU251b8lTFqisror1iA3uvMAe6qzH8MvawqzoWB7GbHSEGAPgtG9SWgVuTXAxFB+AkDvYZUZrUSluTYJAISetubFElYsACaRoMmF8EXynfWOo/uZUrERpiIlVfNqk7HGKbJri5Bn/kqxkAdN6s1U5kZg==;QZJZ1AsHjCEoUXk42cN6Ig=="

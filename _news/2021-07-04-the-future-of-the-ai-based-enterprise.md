@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techradar.com/amp/news/the-future-of-the-ai-based-enterp
 cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/the-future-of-the-ai-based-enterprise"
 type: article
 quality: 89
-heat: 139
+heat: 149
 published: true
 
 provider:
@@ -91,14 +91,28 @@ related:
         width: 450
         height: 308
         isCached: true
-  - title: "Aible Doubles Down on Guaranteed Impact With New Industry-First Enterprise AI Features"
-    excerpt: "Aible, the only enterprise AI that guarantees impact in one month, today announced innovations to its flagship product. Aible extends its leadership in AI for business impact with new features that empower business teams to collaborate with analysts and data science teams to guarantee impact."
-    publishedDateTime: 2021-07-06T11:04:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2021/07/06/9403140.htm"
+  - title: "Why Creating Value is a skill needed for the future with AI and Technology"
+    excerpt: "Mckinsey in an article “Defining the skills citizens will need in the future world of work” has said, and I quote: add value beyond what can be done by automated systems and intelligent machines operate in a digital environment continually adapt to new ways of working and new occupations While I agree these are necessary,"
+    publishedDateTime: 2021-07-06T18:10:00Z
+    webUrl: "https://customerthink.com/why-creating-value-is-a-skill-needed-for-the-future-with-ai-and-technology/"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
+      name: CustomerThink
+      domain: customerthink.com
+    quality: 35
+    images:
+      - url: "https://customerthink.com/wp-content/uploads/pixabay_technology-2025795_1280-robot-human.jpg"
+        width: 1280
+        height: 851
+        isCached: true
+  - title: "Aible Doubles Down on Guaranteed Impact With New Industry-First Enterprise AI Features"
+    excerpt: "Aible, the only enterprise AI that guarantees impact in one month, today announced innovations to its flagship product. Aible extends its leadership i"
+    publishedDateTime: 2021-07-06T15:00:00Z
+    webUrl: "https://www.businesswire.com/news/home/20210706005086/en/Aible-Doubles-Down-on-Guaranteed-Impact-With-New-Industry-First-Enterprise-AI-Features"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
     quality: 9
 
 secured: "8QcLbKL8/rx1rlihtT7VefbGnLnwM+n4xqyAajPb/x+WWr0VMKWC+AvM8gpnIu+s84Ahgw3ih0aXJ86D2sYuk8OXKM2rNI9tS1zEwsUEPKxDuzzJ+pnqzpdD0rqyV/j2EfyP8t7fZrfjQF0dgn/J0JCKcl6skDJA7O1dgIgVxfitckLPhzjIkMLBrrA0KXf1V27uwNrU8JS0A+SAkbGO0uLqJw/A3QNG5WsSwNI8yekZqdnk3FnsSadheVsUxmDss1P+02xF7/JN/q3jqY+ye2e8PwYjIwDahVJSBxpphv2p9iKTbzmu84nqULf1LC3KLHY/TvgGdJ9Bs2ukRK5aVlv6+KCyQRlYu3Ku4nz/NVhn6PELd303aM2uDXMHgknxZRdJjBdjDm8rwAr5pbkMfwgsracPnZn3/s+eWNSjb05As1uRmbek6xnLQGapzKksQ23lXQV8I1upH+YUpohyEA5ijdhkYU+V/NawqWea8EoSvBeupwFftdXLBrM9D8EoDeh6jiRYGS9GOPLrxHzfVg==;F4gWUobji+4a8SCYaH0A/g=="

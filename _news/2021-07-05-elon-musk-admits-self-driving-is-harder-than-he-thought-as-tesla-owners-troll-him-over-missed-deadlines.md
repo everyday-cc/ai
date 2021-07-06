@@ -9,7 +9,7 @@ ampWebUrl: "https://electrek.co/2021/07/05/elon-musk-admits-self-driving-harder-
 cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/07/05/elon-musk-admits-self-driving-harder-than-he-thought-tesla-troll-missed-deadlines/amp/"
 type: article
 quality: 73
-heat: 153
+heat: 163
 published: true
 
 provider:
@@ -135,6 +135,17 @@ related:
         width: 1200
         height: 900
         isCached: true
+  - title: "Elon Musk Says He’s Surprised to Discover That Self-Driving Cars Are Difficult"
+    excerpt: "After Tesla once again delayed the launch of its next “Full Self-Driving” (FSD) software beta, Elon Musk admitted that he’s been caught off guard by just how difficult it is to develop autonomous vehicles."
+    publishedDateTime: 2021-07-06T20:39:00Z
+    webUrl: "https://futurism.com/the-byte/elon-musk-surprised-self-driving-cars-difficult"
+    ampWebUrl: "https://futurism.com/elon-musk-surprised-self-driving-cars-difficult/amp"
+    cdnAmpWebUrl: "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/elon-musk-surprised-self-driving-cars-difficult/amp"
+    type: article
+    provider:
+      name: Futurism
+      domain: futurism.com
+    quality: 20
   - title: "Developing safe self-driving car a 'hard problem', admits Musk"
     excerpt: "Tesla CEO Elon Musk has finally admitted that developing a safe and reliable self-driving car is indeed a difficult task. In an earnings call in January, Musk had told investors that he was \"highly confident the car will be able to drive itself with reliability in excess of human this year\"."
     publishedDateTime: 2021-07-06T09:55:00Z

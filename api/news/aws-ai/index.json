@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-07-06-bring-your-own-model-with-amazon-sagemaker-script-mode.md",
+      "title": "Bring your own model with Amazon SageMaker script mode",
+      "excerpt": "As the prevalence of machine learning (ML) and artificial intelligence (AI) grows, you need the best mechanisms to aid in the experimentation and development of your algorithms. You might begin with the several built-in algorithms in Amazon SageMaker that simply require you to point the algorithm at",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/bring-your-own-model-with-amazon-sagemaker-script-mode/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/bring-your-own-model-with-amazon-sagemaker-script-mode/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/06/26/1-2689-Architecture.jpg",
+          "width": 700,
+          "height": 618,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-06T13:02:19-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-02-detect-manufacturing-defects-in-real-time-using-amazon-lookout-for-vision.md",
       "title": "Detect manufacturing defects in real time using Amazon Lookout for Vision",
       "excerpt": "In this post, we look at how we can automate the detection of anomalies in a manufactured product using Amazon Lookout for Vision. Using Amazon Lookout for Vision, you can notify operators in real time when defects are detected, provide dashboards for monitoring the workload, and get visual insights",
@@ -570,6 +622,40 @@
       "provider": {
         "name": "Nasdaq",
         "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-24-tag-archives-future-of-work.md",
+      "title": "Tag Archives: Future of Work",
+      "excerpt": "BrainGain Global is a SaaS-enabled marketplace for higher education content, tools, and programs. It is a comprehensive companion for students and their families – across the learning lifecycle. Harjiv Singh,…",
+      "sourceUrl": null,
+      "webUrl": "https://www.dqindia.com/tag/future-of-work/",
+      "originalUrl": "https://www.dqindia.com/tag/future-of-work/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.dqindia.com/tag/future-of-work/amp/",
+      "cdnAmpWebUrl": "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/tag/future-of-work/amp/",
+      "publishedDateTime": "2021-06-23T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Dataquest",
+        "domain": "dqindia.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1285,85 +1371,6 @@
       "topics": [
         "AWS AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-18-ferrari-selects-aws-as-its-official-cloud-provider-to-power-innovation-on-the-road-and-track.md",
-      "title": "Ferrari Selects AWS as its Official Cloud Provider to Power Innovation on the Road and Track",
-      "excerpt": "Ferrari selects AWS as its official cloud provider to power innovation on the road and track, leveraging AWS machine learning, analytics and compute.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businesswire.com/news/home/20210617005933/en/Ferrari-Selects-AWS-as-its-Official-Cloud-Provider-to-Power-Innovation-on-the-Road-and-Track",
-      "originalUrl": "https://www.businesswire.com/news/home/20210617005933/en/Ferrari-Selects-AWS-as-its-Official-Cloud-Provider-to-Power-Innovation-on-the-Road-and-Track",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-17T23:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-18-seeq-expands-machine-learning-features-for-process-engineering-and-data-science-integration.md",
-      "title": "Seeq Expands Machine Learning Features for Process Engineering and Data Science Integration",
-      "excerpt": "Seeq Corporation, a leader in manufacturing and Industrial Internet of Things (IIoT) advanced analytics software, announces the release of R52 with new features to support the use of machine learning innovation in process manufacturing organizations.",
-      "sourceUrl": null,
-      "webUrl": "https://www.dcvelocity.com/articles/51419-seeq-expands-machine-learning-features-for-process-engineering-and-data-science-integration",
-      "originalUrl": "https://www.dcvelocity.com/articles/51419-seeq-expands-machine-learning-features-for-process-engineering-and-data-science-integration",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.dcvelocity.com/ext/resources/user-submissions/articles/b8f649a1-8c12-437c-96b9-98f08dcc904e.png?height=635&t=1623998638&width=1200",
-          "width": 600,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-17T10:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "DC Velocity",
-        "domain": "dcvelocity.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Machine Learning",
-        "Microsoft AI"
       ]
     }
   ],

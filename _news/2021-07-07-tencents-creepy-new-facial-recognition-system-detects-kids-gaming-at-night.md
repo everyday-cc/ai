@@ -55,27 +55,11 @@ related:
     provider:
       name: Gizmodo
       domain: gizmodo.com
-    quality: 83
+    quality: 85
     images:
       - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/36183011932591e6d43fe47afd1ed337.jpg"
         width: 800
         height: 450
-        isCached: true
-  - title: "Not even the government knows the full extent of how government is using facial recognition"
-    excerpt: "And 13 of those agencies, more than half of those using facial recognition, don’t know what systems their employees are using or how often they use them. The agencies that do keep track say they’ve used it for identifying people at the January 6 insurrection and during last summer’s protests sparked by the murder of George Floyd."
-    publishedDateTime: 2021-07-02T04:44:00Z
-    webUrl: "https://www.marketplace.org/shows/marketplace-tech/not-even-the-government-knows-the-full-extent-of-how-government-is-using-facial-recognition/"
-    ampWebUrl: "https://www.marketplace.org/shows/marketplace-tech/not-even-the-government-knows-the-full-extent-of-how-government-is-using-facial-recognition?amp"
-    cdnAmpWebUrl: "https://www-marketplace-org.cdn.ampproject.org/c/s/www.marketplace.org/shows/marketplace-tech/not-even-the-government-knows-the-full-extent-of-how-government-is-using-facial-recognition?amp"
-    type: article
-    provider:
-      name: Marketplace
-      domain: marketplace.org
-    quality: 49
-    images:
-      - url: "https://www.marketplace.org/wp-content/uploads/2019/05/MP_show-1.png?w=300"
-        width: 300
-        height: 300
         isCached: true
   - title: "Facial recognition: Tax pros mull returning to in-person meetings"
     excerpt: "Absolutely — as people feel more comfortable, we anticipate having more live rather than virtual meetings and events,” said Daniel Morris, a CPA and senior partner with Morris+D’Angelo CPAs in San Jose,"
@@ -120,6 +104,6 @@ related:
         height: 722
         isCached: true
 
-secured: "xAPE6KpuLPOF5T9z9SEsuytf1SShX/ejbP9dhflqVRhPGgwGUKJk7t99cW9t+qG2EbpiYEHVO/3Da8HUddgCXwptdQTlt8jS3/rhsVxqCEgtB1XyLqPVDeQadmX+TIEBqhSL/jw0ibfnEAMcr20OxEDGjZo0xikc2lNAXDhQ1CVCWD14EwbBwr2OEiHjEn5YohViod2gJDiagubiplLsoN19dSy3eSdSe+U2x4oveuY+VsdF+9XZzEQQutRlC+nm8QAZFxXDypJjFzJsWYCleSevGtRqp6aEMCcAisP07Uzn6j/wcvz9qI+JbhM0bXK5HhV0jYYJ/unlImQgubL7JStZB53zkVNLydsY65L0Was=;xRY1PLvNn+h4awo2WPNBdQ=="
+secured: "uQ2oSLxAwBZEJLo4L1+b3uNF72EjJ2FgUtT9OjAdkrUGyDWFGJVrHgbSJ0syzENTsBYZfolar6zWsz7qpGWhd1jhe/mVkQhbdyuoc5O3fx5gJsBRakMCfzPIu4o0KHAK/pRZhrJxxhp864l7aADefez0cMBKhIh7pAkjEIP9aBHZNZiAdG6Ud5F/emWGdflvUyvMFMglJty0v1LFTAluOiyrD1IZP0rED/tlsK93GNFEXZVVcmQfGO/sz+mj9yGmISRXAJKRkz8SPX5CQ4060qtRKsv5BZDkhNHCKury9EtKXfQFhAhKFta+oor6t5dnTpcQWCRy62T7pxXSCkQwLj8z8PfhdpjqM7NVz2XnXUhaXVfCUytZu1+/s2B7Lz4ABt2ff59eEOyPrZ1PpuekscmELAIMX2PUcdyHSinxD/3CdU0xWSjWtITjyddqCuwPpcueBDXfoQOm1ufvYVsyDUeluGiE6g/FdeZtHRsJf96s3mytQLwqYMQ1TYlkQTkqRzB7E+Y33aDmvrK3C+liLg==;JlK/RnxLaH3eGnpRN3yUhQ=="
 ---
 

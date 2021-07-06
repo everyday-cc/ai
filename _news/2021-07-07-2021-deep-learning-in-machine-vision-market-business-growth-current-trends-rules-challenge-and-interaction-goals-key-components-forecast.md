@@ -33,6 +33,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "AI Governance Market to Witness Growth Acceleration During 2021-2027"
+    excerpt: "The recent analysis on AI Governance market intends to provide a competitive edge to stakeholders by uncovering the future growth patterns of this industry through a deep study of past records and latest global developments."
+    publishedDateTime: 2021-07-06T16:52:00Z
+    webUrl: "https://www.arnnet.com.au/mediareleases/143676/ai-governance-market-to-witness-growth/"
+    type: article
+    provider:
+      name: ARN
+      domain: arnnet.com.au
+    quality: 17
   - title: "Global Artificial Intelligence For Drug Development and Discovery Market Size, Status and Forecast 2021-2027"
     excerpt: "Pages Report] Check for Discount on Global Artificial Intelligence For Drug Development and Discovery Market Size, Status and Forecast 2021-2027 report by QYResearch Group. Market Analysis and Insights: Global Artificial Intelligence For Drug"
     publishedDateTime: 2021-07-03T09:02:00Z

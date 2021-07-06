@@ -9,7 +9,7 @@ ampWebUrl: "https://www.digitaltrends.com/gaming/tencent-facial-recognition-chin
 cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/gaming/tencent-facial-recognition-china/?amp"
 type: article
 quality: 86
-heat: 146
+heat: 136
 published: true
 
 provider:
@@ -41,7 +41,7 @@ related:
     provider:
       name: Gizmodo
       domain: gizmodo.com
-    quality: 83
+    quality: 85
     images:
       - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/36183011932591e6d43fe47afd1ed337.jpg"
         width: 800
@@ -60,22 +60,6 @@ related:
       - url: "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F07%2FUntitled-design-3.jpg&signature=c1cef30bbb5da6eff5db67610f4c5a3f"
         width: 1280
         height: 640
-        isCached: true
-  - title: "Not even the government knows the full extent of how government is using facial recognition"
-    excerpt: "And 13 of those agencies, more than half of those using facial recognition, don’t know what systems their employees are using or how often they use them. The agencies that do keep track say they’ve used it for identifying people at the January 6 insurrection and during last summer’s protests sparked by the murder of George Floyd."
-    publishedDateTime: 2021-07-02T04:44:00Z
-    webUrl: "https://www.marketplace.org/shows/marketplace-tech/not-even-the-government-knows-the-full-extent-of-how-government-is-using-facial-recognition/"
-    ampWebUrl: "https://www.marketplace.org/shows/marketplace-tech/not-even-the-government-knows-the-full-extent-of-how-government-is-using-facial-recognition?amp"
-    cdnAmpWebUrl: "https://www-marketplace-org.cdn.ampproject.org/c/s/www.marketplace.org/shows/marketplace-tech/not-even-the-government-knows-the-full-extent-of-how-government-is-using-facial-recognition?amp"
-    type: article
-    provider:
-      name: Marketplace
-      domain: marketplace.org
-    quality: 49
-    images:
-      - url: "https://www.marketplace.org/wp-content/uploads/2019/05/MP_show-1.png?w=300"
-        width: 300
-        height: 300
         isCached: true
   - title: "Facial recognition: Tax pros mull returning to in-person meetings"
     excerpt: "Absolutely — as people feel more comfortable, we anticipate having more live rather than virtual meetings and events,” said Daniel Morris, a CPA and senior partner with Morris+D’Angelo CPAs in San Jose,"

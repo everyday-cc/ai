@@ -8,8 +8,8 @@ webUrl: "https://venturebeat.com/2021/07/06/what-openai-and-githubs-ai-pair-prog
 ampWebUrl: "https://venturebeat.com/2021/07/06/what-openai-and-githubs-ai-pair-programmer-means-for-the-software-industry/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/06/what-openai-and-githubs-ai-pair-programmer-means-for-the-software-industry/amp/"
 type: article
-quality: 84
-heat: 84
+quality: 86
+heat: 86
 published: true
 
 provider:
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2017/06/software-e1625591248191.jpg?w=1200&strip=all"

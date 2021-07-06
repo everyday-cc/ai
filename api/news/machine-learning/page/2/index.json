@@ -2,6 +2,50 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-06-25-state-street-to-implement-machine-learning-tech-roundup.md",
+      "title": "State Street to Implement Machine Learning: Tech Roundup",
+      "excerpt": "State Street plans to implement a cloud-based, machine learning technology that it said is designed to “transform private markets processing and document management.” Through State Street’s partnership with Canoe Intelligence,",
+      "sourceUrl": null,
+      "webUrl": "https://www.thinkadvisor.com/2021/06/24/state-street-to-implement-machine-learning-tech-roundup/",
+      "originalUrl": "https://www.thinkadvisor.com/2021/06/24/state-street-to-implement-machine-learning-tech-roundup/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.thinkadvisor.com/contrib/content/uploads/sites/415/2021/06/Technology_Social_Media_Shutter_640x640.jpg",
+          "width": 640,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thinkadvisor.com/2021/06/24/state-street-to-implement-machine-learning-tech-roundup/?amp=1",
+      "cdnAmpWebUrl": "https://www-thinkadvisor-com.cdn.ampproject.org/c/s/www.thinkadvisor.com/2021/06/24/state-street-to-implement-machine-learning-tech-roundup/?amp=1",
+      "publishedDateTime": "2021-06-24T10:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Think Advisor",
+        "domain": "thinkadvisor.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-06-24-carrot-and-stick-how-deep-reinforcement-learning-trains-ai-differently.md",
       "title": "Carrot And Stick: How Deep Reinforcement Learning Trains AI Differently",
       "excerpt": "Rather than generating potential outcomes based on historical data, deep reinforcement learning teaches AI agents and machines with the time-tested \"carrot and stick\" method.",
@@ -1324,58 +1368,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-17-researchers-develop-a-deep-learning-method-able-to-animate-portions-of-a-photo.md",
-      "title": "Researchers develop a deep learning method able to animate portions of a photo",
-      "excerpt": "Typically, that perceived motion is just a trick of our minds. Researchers at the University of Washington have developed a new deep learning method that can animate certain portions of a photograph, turning it into a video. The UW deep learning method can ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.slashgear.com/researchers-develop-a-deep-learning-method-able-to-animate-portions-of-a-photo-17678725/",
-      "originalUrl": "https://www.slashgear.com/researchers-develop-a-deep-learning-method-able-to-animate-portions-of-a-photo-17678725/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.slashgear.com/wp-content/uploads/2021/06/waterfall.jpg",
-          "width": 1280,
-          "height": 932,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.slashgear.com/researchers-develop-a-deep-learning-method-able-to-animate-portions-of-a-photo-17678725/amp/",
-      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/researchers-develop-a-deep-learning-method-able-to-animate-portions-of-a-photo-17678725/amp/",
-      "publishedDateTime": "2021-06-17T04:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SlashGear",
-        "domain": "slashgear.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/slashgear.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

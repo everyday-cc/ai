@@ -1,28 +1,22 @@
 ---
 category: news
 title: "Arthur named a 2021 Gartner Cool Vendor in AI Governance and Responsible AI"
-excerpt: "Arthur, the AI monitoring & governance company, has been named a “Cool Vendor” by Gartner in their newly released report titled “Cool Vendors in AI Governance and Responsible AI.” According to the report,"
-publishedDateTime: 2021-07-06T18:02:00Z
-originalUrl: "https://apnews.com/press-release/pr-newswire/business-technology-dcb016440b75cea882db99e5a671ed0d"
-webUrl: "https://apnews.com/press-release/pr-newswire/business-technology-dcb016440b75cea882db99e5a671ed0d"
+excerpt: "Arthur, the AI monitoring & governance company, has been named a \"Cool Vendor\" by Gartner in their newly released report titled \"Cool"
+publishedDateTime: 2021-07-06T18:01:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/arthur-named-a-2021-gartner-cool-vendor-in-ai-governance-and-responsible-ai-301326244.html"
+webUrl: "https://www.prnewswire.com/news-releases/arthur-named-a-2021-gartner-cool-vendor-in-ai-governance-and-responsible-ai-301326244.html"
 type: article
-quality: 35
-heat: 35
+quality: 15
+heat: 15
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - AI
 
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
-
-secured: "LcYvOf3ClDeR37Lhl6A2lrJDjCJurYq0g5XUTmZyc5VPgCNzRgQ7S97WSjzSCXtrxKDmXzkMPHrTOKMynZWO8p6Grei2VYWmVVJM+WBjWDpuEvF75kBhybEUfJnATkJij9rmgkuHd7FBiom7Ye5tw/YTSrTnSCVKWgTeIS2umgWavJPfZeG3jcsXGnxzhLxM5H2Q0FFwjv7Kz1tMQSAs2lxVev5WvkgCZPTJSXl/ddH6BpEpejbWS8/bDqKRoREWkae7p0OeplAevtwWWnNusdMyIXbklFLoiRQVivAHQfVeNDYaYA2b0+5YVK56RAuSOGPiH059zRj6H1r9HELARQNbSSQUciKGSTUfCwtMzuQ=;Ty5XW3K2PtUTNbPAIb8W8w=="
+secured: "b7vXiTivoDvwaKeSOUwTjUR1fRCk1cRzyaAbTtnnZc9GZEOUhtv8neDk2nzgPyvlgee1nww7Ta+DC0KDOuTCt+KhSEwBqJ1zGsRnKR5+VRTmqgdCw6dlXu2r93N/vAWl1hiq6ISgHCVyc4obCI3pYE6HJICJKZsn+fiFGN1+HUOq+S1w3srje0zhnYi2ZcQviR1eMLBE16Z/TyEX1p4H7BadHLfO4SXbvE3+T5+7AJ9N942Q+k1zqVnzTdPJJN0GQOctQrYuWtD3RThii4L3vFBZIShQ95xPM+IkAgJg7O4maWt+f+XwOy4WRSDw8OD2PKrleKf72vJgv7ilYNbCGLijVkeBda7kjKAnPpLrGNY=;rAizfKjNPwnVMPyr0Jp50A=="
 ---
 

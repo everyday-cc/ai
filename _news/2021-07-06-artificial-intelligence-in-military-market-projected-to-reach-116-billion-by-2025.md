@@ -20,29 +20,20 @@ topics:
   - AI
 
 related:
-  - title: "Global Artificial Intelligence Market Size, Share to Be Appraised at USD 4417.8 million By 2025"
-    excerpt: "Selbyville, Delaware. The report Artificial Intelligence Market Size and Analysis maintains enhanced dynamics and"
-    publishedDateTime: 2021-07-02T04:48:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-market-size-share-to-be-appraised-at-usd-44178-million-by-2025-2021-07-02"
+  - title: "Speech and Voice Recognition Market Revenue was Estimated to be US$ 7.8 billion in 2020-insightSLICE"
+    excerpt: "The Global Speech and Voice Recognition Market Share, Trends, Analysis and Forecasts, 2020-2030 provides insights on"
+    publishedDateTime: 2021-07-05T10:02:00Z
+    webUrl: "https://www.marketwatch.com/press-release/speech-and-voice-recognition-market-revenue-was-estimated-to-be-us-78-billion-in-2020-insightslice-2021-07-05"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 70
+    quality: 39
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Global AI Recognition Market Size, Status and Forecast 2021-2027"
-    excerpt: "Pages Report] Check for Discount on Global AI Recognition Market Size, Status and Forecast 2021-2027 report by QYResearch Group. Market Analysis and Insights: Global AI Recognition Market The"
-    publishedDateTime: 2021-07-03T09:03:00Z
-    webUrl: "https://www.reportsnreports.com/reports/4636041-global-ai-recognition-market-size-status-and-forecast-2021-2027.html"
-    type: article
-    provider:
-      name: ReportsnReports
-      domain: reportsnreports.com
-    quality: 17
 
 secured: "Bu0WeLX7SYpj4Xu5DlKW89MuVfGfM6F3v3Ot1PrsMR7g2KZUP7xyZuRN4T3ZTnCAQNBUqVvJZVS3ZHk3oUiKYCH9iarY5bwXU/IuNK99xV43VvmJqs/c4KBn2yLVYIhl5sm/aq97ULsgik/zZ8QdAhzlxVVrxaFpIPIVBKVvD67B9bdKODwlRrIZRYy2c4NdK6aMaGZOaaWxLww5L9GhR1n4VxCmBCgERHRVxtOUftxflUcGGP5rUDsyl2Ls6b/CuKf12WF2+7S7GAp8lrKVdSKf4fBJa2LHzI+zN4Y6RWKtZ1bNTrrGnCtSTkjuMzUfsrCUE7UTzq4qTuKz3sYU2dKK8Hs+XUDW6k1DLlDu1mI=;LrBp9ZV9t/FZTCkLKfbw2w=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.financialexpress.com/industry/technology/artificial-inte
 cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/industry/technology/artificial-intelligence-in-healthcare-intels-ai-tool-screens-patients-for-vision-loss/2283014/lite/"
 type: article
 quality: 85
-heat: 95
+heat: 105
 published: true
 
 provider:
@@ -29,6 +29,22 @@ images:
     isCached: true
 
 related:
+  - title: "WHO lays down guidelines for AI use in healthcare"
+    excerpt: "WHO calls for collaboration between the public, governments and health experts to make the best and safest use of AI."
+    publishedDateTime: 2021-07-02T10:02:00Z
+    webUrl: "https://www.thehindu.com/sci-tech/technology/who-lays-down-guidelines-for-ai-use-in-healthcare/article35095417.ece"
+    ampWebUrl: "https://www.thehindu.com/sci-tech/technology/who-lays-down-guidelines-for-ai-use-in-healthcare/article35095417.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/who-lays-down-guidelines-for-ai-use-in-healthcare/article35095417.ece/amp/"
+    type: article
+    provider:
+      name: The Hindu
+      domain: thehindu.com
+    quality: 76
+    images:
+      - url: "https://www.thehindu.com/sci-tech/technology/zer1i9/article35095504.ece/ALTERNATES/LANDSCAPE_615/smart-hospjpg"
+        width: 615
+        height: 384
+        isCached: true
   - title: "KIMSHEALTH launches three digital healthcare initiatives"
     excerpt: "Tele ICU, which provides remote ICU services, has its central monitoring station located at KIMSHEALTH Thiruvananthapuram and links smaller hospitals to it."
     publishedDateTime: 2021-07-06T01:28:00Z

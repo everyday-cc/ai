@@ -8,8 +8,8 @@ webUrl: "https://www.business2community.com/sales-management/artificial-intellig
 ampWebUrl: "https://www.business2community.com/sales-management/artificial-intelligence-and-how-it-can-enhance-sales-enablement-02416877/amp"
 cdnAmpWebUrl: "https://www-business2community-com.cdn.ampproject.org/c/s/www.business2community.com/sales-management/artificial-intelligence-and-how-it-can-enhance-sales-enablement-02416877/amp"
 type: article
-quality: 56
-heat: 56
+quality: 58
+heat: 58
 published: false
 
 provider:
@@ -20,6 +20,7 @@ topics:
   - AI in Autos
   - AI
   - AI in Sales
+  - AI in Healthcare
 
 secured: "7/iJuw4x5WyG86soBnAD2xSzm2hCTv6HsKDRr97iD6urL7FKY557onGhZpyOuI7btTp8sTLm13d2q+p4yQrrOPbmfrlWmq3OmboJ8eeNsWTpoTG43FNa8mc1tRGLV51ydCsp/zMHc9ylmfVEBAoZ07RDpnxv4h35aQuU8OLuyF+LYeK26r+V+HgcD63bOvc2NtamZBly93u8VWWT2r+AFg2fJeUV9N8JbcbGVW4JoEDH0q2jLNBvUNKTP0qZ7WxwbMnQD5+9Kb5M45o0Z6ti+IcAMxAZ20bej11GcIqREBiCLb1dAelr8EcpyV1dZHdsvTTRXDrI572CVfFWWXibFe1ar7wcADsMvhCkOSKK7D0=;SIEsWDSJHypSXmNjzfdMjQ=="
 ---

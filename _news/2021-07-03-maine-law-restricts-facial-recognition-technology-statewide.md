@@ -124,6 +124,20 @@ related:
         width: 960
         height: 540
         isCached: true
+  - title: "What businesses should know about the city’s new facial-recognition law"
+    excerpt: "A city law restricting facial-recognition technology and other biometric data collection takes effect Friday—setting up potential legal headaches if businesses don ’ t act. Re"
+    publishedDateTime: 2021-07-06T19:31:00Z
+    webUrl: "https://www.crainsnewyork.com/technology/what-businesses-should-know-about-citys-new-facial-recognition-law"
+    type: article
+    provider:
+      name: Crain's New York
+      domain: crainsnewyork.com
+    quality: 24
+    images:
+      - url: "https://s3-prod.crainsnewyork.com/styles/800x600/s3/362796995.jpg"
+        width: 800
+        height: 600
+        isCached: true
   - title: "Investors issue statement on human rights implications of facial recognition technologies & commitments to due diligence"
     excerpt: "We are 50 global institutional investors and their representatives with $4.5 trillion in assets under management as of December, 2020. As responsible investors, we incorporate Environmental, Social and Governance (ESG) factors,"
     publishedDateTime: 2021-07-04T08:19:00Z

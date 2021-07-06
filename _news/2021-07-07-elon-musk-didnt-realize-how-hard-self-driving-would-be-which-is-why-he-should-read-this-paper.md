@@ -131,6 +131,17 @@ related:
         width: 1200
         height: 900
         isCached: true
+  - title: "Elon Musk Says He’s Surprised to Discover That Self-Driving Cars Are Difficult"
+    excerpt: "After Tesla once again delayed the launch of its next “Full Self-Driving” (FSD) software beta, Elon Musk admitted that he’s been caught off guard by just how difficult it is to develop autonomous vehicles."
+    publishedDateTime: 2021-07-06T20:39:00Z
+    webUrl: "https://futurism.com/the-byte/elon-musk-surprised-self-driving-cars-difficult"
+    ampWebUrl: "https://futurism.com/elon-musk-surprised-self-driving-cars-difficult/amp"
+    cdnAmpWebUrl: "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/elon-musk-surprised-self-driving-cars-difficult/amp"
+    type: article
+    provider:
+      name: Futurism
+      domain: futurism.com
+    quality: 20
   - title: "Developing safe self-driving car a 'hard problem', admits Musk"
     excerpt: "Tesla CEO Elon Musk has finally admitted that developing a safe and reliable self-driving car is indeed a difficult task. In an earnings call in January, Musk had told investors that he was \"highly confident the car will be able to drive itself with reliability in excess of human this year\"."
     publishedDateTime: 2021-07-06T09:55:00Z
@@ -141,6 +152,6 @@ related:
       domain: webindia123.com
     quality: 4
 
-secured: "0fubmzfH2TgcN6zGFJtT9T5yUMxOdtrlKdS6yBMbx2yDLaMO8yGS5RCyGfPSNHhZIPx9Q66d0i7N+lUCzJEwD39su71jeNlHvcArqy6278+pjyym4+6JEDlOQBT111tw1lmfDM30ALsIbccrWFNtbyTeMgyRjrNvuv4PaI8MpG65p0bFDYKQ7P63VlKryZuXeYgnqxjyoDCFWJgWw/AsVa0+kwrcCExGkx7Oy8mI/0fGvI4cfXovxwhhCnyIomWAm2OOiRzy+bIiIikgWVbM+o3DyPFSCI/CX+o98FfzyfUmoKLCRKz21CWt5S+I1f+6GTZNcDmAXlSSCQFC/EIXE64QAWCZe8SrI+EtaBsTSAg=;eTvOCdc7GsZ/1ZLtHVAd1w=="
+secured: "fSOLoweXTZQV4ZAxAaUEbsIa6MOJ2z46GmvB5zi43fuZoxqw+xlUnZs/oOoX3QP42+NXbS4hxAuq5DwEgSbDriLcM7S7i9dZAKv48kOGJZR/z5AgWvDaGsXMVvY2FGp4k0Dye4+qS1laXlilIpWWSfytDVy0gqbABPxZnskqcnyT5sDq8ftDd8mMFZm4qvVIGEgLQHuU1FTRS2vIBFCRFUckExdSJr9PZu+444Vs7o1JCzZnGJe0QVm66QIhH35Ve0PUyNul4/DeK1QrtlyNtIlSiSul9KEEW24UWkrsZQAnnkgfFRvCo6mOe+XZYsuDIDEn8ZAP/vgXKBSOMlXGNYmisAM5CAXq/a3GhSJhcTKzLXmV5AIZWbdM9djqjr4Hlax2CySFuk/81B9NoN4DpshS2UpRhMVjzDjtm6SvuEE/IewN7ukRfyQHcEsE1VjAcncxvlnQKUe13hjRHtXdopTT3rp1JjEtHK+5lksZBJECYD/znzXPLROxCjt3v2TnqP4IZ9QNUwG/SbTlkHyr+g==;Dnswt4h6QBUbkBWh8w8RYA=="
 ---
 

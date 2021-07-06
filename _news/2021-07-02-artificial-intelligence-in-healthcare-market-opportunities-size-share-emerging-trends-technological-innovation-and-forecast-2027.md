@@ -29,122 +29,98 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence (AI) Chipsets Market Latest Industry Trends, Industry Size, Key Drivers and Future Demand Forecast"
-    excerpt: "The global artificial intelligence (AI) chipsets market size is expected to reach USD 108.85 billion by 2027, exhibiting"
-    publishedDateTime: 2021-07-02T04:57:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chipsets-market-latest-industry-trends-industry-size-key-drivers-and-future-demand-forecast-2021-07-02"
+  - title: "Artificial Intelligence in Healthcare market Size, Share, Value, And Competitive Landscape 2021-2026"
+    excerpt: "Artificial intelligence (AI) is the collection of computer programs or algorithms or software to make machines smarter"
+    publishedDateTime: 2021-07-06T07:07:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-size-share-value-and-competitive-landscape-2021-2026-2021-07-06"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 79
+    quality: 69
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence (Ai) In Medical Diagnostics Market Outlook, Industry Analysis and Prospect 2021-2027"
-    excerpt: "In Medical Diagnostics market size was valued at US$ 608 million in 2020 and is projected to reach US$ 4,978 million by 2027, rising at a market growth (CAGR) of 52.4% during the forecast period. The Growth in this Artificial Intelligence in medical diagnostics market is primarily driven by government initiatives to increase the adoption of AI-based technologies,"
-    publishedDateTime: 2021-07-05T21:50:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-medical-diagnostics-market-outlook-industry-analysis-and-prospect-2021-2027-2021-07-05"
+  - title: "Enterprise Artificial Intelligence Market Share, Size Growth Rate by Type, Application, Sales Estimates and Forecasts 2021-2030"
+    excerpt: "In a recent published report, Kenneth Research has updated the market report for Enterprise Artificial Intelligence"
+    publishedDateTime: 2021-07-06T16:18:00Z
+    webUrl: "https://www.marketwatch.com/press-release/enterprise-artificial-intelligence-market-share-size-growth-rate-by-type-application-sales-estimates-and-forecasts-2021-2030-2021-07-06"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 65
+    quality: 56
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Deep Learning Chip Market Recent Trends, Future Growth, Industry Analysis, Outlook, Insights, Share and Forecasts Report 2028"
-    excerpt: "The global deep learning chip market is expected to reach a market size of USD 27.75 Billion by 2028 and register a"
-    publishedDateTime: 2021-07-03T11:33:00Z
-    webUrl: "https://www.marketwatch.com/press-release/deep-learning-chip-market-recent-trends-future-growth-industry-analysis-outlook-insights-share-and-forecasts-report-2028-2021-07-03"
+  - title: "Artificial Intelligence In Genomics Market Size Volume, Share, Demand growth, Business Opportunity by 2027"
+    excerpt: "The global Artificial Intelligence In Genomics market size was valued at US$ 304 million in 2020 and is projected to reach US$ 2,675 million by 2027, rising at a market growth (CAGR) of 53.8% during the forecast period."
+    publishedDateTime: 2021-07-05T22:02:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-genomics-market-size-volume-share-demand-growth-business-opportunity-by-2027-2021-07-05"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 59
+    quality: 51
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "AI in Manufacturing Market Latest Industry Trends, COVID 19 Impact Analysis, Key Drivers and Future Demand Forecast"
-    excerpt: "The globalAI in manufacturing market forecastis expected to rise owing to increasing demand for collaborative robots"
-    publishedDateTime: 2021-07-06T06:25:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-in-manufacturing-market-latest-industry-trends-covid-19-impact-analysis-key-drivers-and-future-demand-forecast-2021-07-06"
+  - title: "Computer Vision Market 2021 Will Reflect Significant Growth in Future with Size, Share, Growth, and Key Companies Analysis"
+    excerpt: "In a recent published report, Kenneth Research has updated the market report for Computer Vision Market for 2021 till"
+    publishedDateTime: 2021-07-05T16:46:00Z
+    webUrl: "https://www.marketwatch.com/press-release/computer-vision-market-2021-will-reflect-significant-growth-in-future-with-size-share-growth-and-key-companies-analysis-2021-07-05"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 45
+    quality: 43
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Deep Learning System Market Size, Business Scenario, Share, Growth, Insights, Industry Analysis, Trends and Forecasts Report 2028"
-    excerpt: "The global deep learning system market size is expected to reach USD 93.34 Billion at a steady CAGR of 39.1% in"
-    publishedDateTime: 2021-07-02T10:12:00Z
-    webUrl: "https://www.marketwatch.com/press-release/deep-learning-system-market-size-business-scenario-share-growth-insights-industry-analysis-trends-and-forecasts-report-2028-2021-07-02"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 40
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Mass produced 14nm chips the launchpad for China’s chipset industry"
-    excerpt: "Achieving mass production of 14nm chips will secure China’s place as a domestic chip producer at scale, says the deputy head of the country’s leading technology research centre."
-    publishedDateTime: 2021-07-05T17:37:00Z
-    webUrl: "https://developingtelecoms.com/telecom-business/partner-spotlight/11452-mass-produced-14nm-chips-the-launchpad-for-china-s-chipset-industry.html"
-    type: article
-    provider:
-      name: developingtelecoms.com
-      domain: developingtelecoms.com
-    quality: 39
-    images:
-      - url: "https://developingtelecoms.com/images/stories/Places/yangon_golden_hour_600.jpg"
-        width: 600
-        height: 450
-        isCached: true
-  - title: "Asia-Pacific Artificial Intelligence Market Growth 2021 to 2030, Global Industry Size, Recent Trends, Demand and Share Analysis with Top Key-Players"
-    excerpt: "In a recent published report, Kenneth Research has updated the Asia-Pacific Artificial Intelligence Market report for"
-    publishedDateTime: 2021-07-02T06:38:00Z
-    webUrl: "https://www.marketwatch.com/press-release/asia-pacific-artificial-intelligence-market-growth-2021-to-2030-global-industry-size-recent-trends-demand-and-share-analysis-with-top-key-players-2021-07-02"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 30
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Global Enterprise Artificial Intelligence (AI) Market Size, Status and Forecast 2021-2027"
-    excerpt: "Pages Report] Check for Discount on Global Enterprise Artificial Intelligence (AI) Market Size, Status and Forecast 2021-2027 report by QYResearch Group. Market Analysis and Insights: Global Enterprise Artificial Intelligence (AI)"
-    publishedDateTime: 2021-07-03T08:55:00Z
-    webUrl: "https://www.reportsnreports.com/reports/4635123-global-enterprise-artificial-intelligence-ai-market-size-status-and-forecast-2021-2027.html"
+  - title: "Global Machine Learning Artificial intelligence Market Size, Status and Forecast 2021-2027"
+    excerpt: "Pages Report] Check for Discount on Global Machine Learning Artificial intelligence Market Size, Status and Forecast 2021-2027 report by QYResearch Group. Market Analysis and Insights: Global Machine Learning Artificial intelligence"
+    publishedDateTime: 2021-07-06T08:48:00Z
+    webUrl: "https://www.reportsnreports.com/reports/4646722-global-machine-learning-artificial-intelligence-market-size-status-and-forecast-2021-2027.html"
     type: article
     provider:
       name: ReportsnReports
       domain: reportsnreports.com
-    quality: 23
-  - title: "Artificial Intelligence (AI) in Drug Discovery Market Share, Trends, Future Scope, Forecast 2027"
-    excerpt: "Artificial intelligence (AI) in drug discovery market is expected to gain market growth in the forecast period of 2020 to 2027. Data Bridge Market Research analyses the market to account to USD 3,932."
-    publishedDateTime: 2021-07-02T18:20:00Z
-    webUrl: "https://ksusentinel.com/2021/07/02/artificial-intelligence-ai-in-drug-discovery-market-share-trends-future-scope-forecast-2027/"
+    quality: 24
+  - title: "Global AI Recognition Market Size, Status and Forecast 2021-2027"
+    excerpt: "Pages Report] Check for Discount on Global AI Recognition Market Size, Status and Forecast 2021-2027 report by QYResearch Group. Market Analysis and Insights: Global AI Recognition Market The"
+    publishedDateTime: 2021-07-03T09:03:00Z
+    webUrl: "https://www.reportsnreports.com/reports/4636041-global-ai-recognition-market-size-status-and-forecast-2021-2027.html"
     type: article
     provider:
-      name: The Sentinel
-      domain: ksusentinel.com
-    quality: 19
+      name: ReportsnReports
+      domain: reportsnreports.com
+    quality: 17
+  - title: "Global Artificial Intelligence In Diagnostic Market Size, Status and Forecast 2021-2027"
+    excerpt: "Pages Report] Check for Discount on Global Artificial Intelligence In Diagnostic Market Size, Status and Forecast 2021-2027 report by QYResearch Group. Market Analysis and Insights: Global Artificial Intelligence In Diagnostic"
+    publishedDateTime: 2021-07-02T08:17:00Z
+    webUrl: "https://www.reportsnreports.com/reports/4631324-global-artificial-intelligence-in-diagnostic-market-size-status-and-forecast-2021-2027.html"
+    type: article
+    provider:
+      name: ReportsnReports
+      domain: reportsnreports.com
+    quality: 9
+  - title: "Global Artificial Intelligence in Drug Discovery Market Size, Status and Forecast 2021-2027"
+    excerpt: "Pages Report] Check for Discount on Global Artificial Intelligence in Drug Discovery Market Size, Status and Forecast 2021-2027 report by QYResearch Group. Market Analysis and Insights: Global Artificial Intelligence in Drug"
+    publishedDateTime: 2021-07-03T08:57:00Z
+    webUrl: "https://www.reportsnreports.com/reports/4635116-global-artificial-intelligence-in-drug-discovery-market-size-status-and-forecast-2021-2027.html"
+    type: article
+    provider:
+      name: ReportsnReports
+      domain: reportsnreports.com
+    quality: 7
 
 secured: "bnfVj5AEVA092lB7V1NzGh4P0Hl+UqoeVl8GHM8u7Q7fFcbeqWddFTYpFAAorFpe/Zn6j1xuZFQNOBgpBXfDfYV5uYHYdgGMNWn+rbf9EyWt2wCwad7ELbxkLfzwC92zXkg10LN2LE0MGKWJEzxwh3N08vofCRFBrdpC24HB+gK4mWtm5RHWISXKDG3XXVAPRehJI9+OHtfZ5/LJZNG+ao8vGJcA9WE9YjgdTYJwiLKjDxjnMOxRmZDZgKuRk76KNcq0o+AlnT0CSBneEFFpbG2j6aZhCQ8vdvV0rKusk81RcsW/LCSmPTk+02ZrwvY/Yo/zG6MrhOoQes7LaFs+0Pcnbsnjy0SmjPRr1K1yXiY=;9Pi03mwa7bvMpqYzrxbYHw=="
 ---

@@ -1,20 +1,26 @@
 ---
 category: news
 title: "Matterport and Facebook AI Research Collaborate to Release the World's Largest Dataset of 3D Spaces for Academic Research"
-excerpt: "Matterport, the spatial data company leading the digital transformation of the built world, which has entered into a definitive agreement to enter into a business combination with Gores Holdings VI, today announced a collaboration with Facebook AI Research through which it will make the largest-ever dataset of 3 D indoor spaces available exclusively"
+excerpt: "Matterport, the spatial data company leading the digital transformation of the built world, which has entered into a definitive agreement"
 publishedDateTime: 2021-06-30T14:30:00Z
-originalUrl: "https://www.nasdaq.com/press-release/matterport-and-facebook-ai-research-collaborate-to-release-the-worlds-largest-dataset"
-webUrl: "https://www.nasdaq.com/press-release/matterport-and-facebook-ai-research-collaborate-to-release-the-worlds-largest-dataset"
+originalUrl: "https://www.prnewswire.com/news-releases/matterport-and-facebook-ai-research-collaborate-to-release-the-worlds-largest-dataset-of-3d-spaces-for-academic-research-301323185.html"
+webUrl: "https://www.prnewswire.com/news-releases/matterport-and-facebook-ai-research-collaborate-to-release-the-worlds-largest-dataset-of-3d-spaces-for-academic-research-301323185.html"
 type: article
 
 provider:
-  name: Nasdaq
-  domain: nasdaq.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - Facebook AI
   - AI
 
-secured: "y8RMarXXLMwpmAN2p9CQ2u/F/G593Tmi37w3xQ8CBkB96kdUN9oqI4pOoI25gF3OvXpatCbsjtIUscu96CUFLl/i6OrKdfBEjPZV9VaSCHpJKhkffnp1gKc1cVFbhxhhSYfo7ihmwi24fBBWRls00OWpMYBQXVqF5d1ah7ziLvN3uAPlZSMKmv8jXt+TmdQthmRPBhxwIlRhuWWfmfU1P5cbn2tzu0r5uOPdQNA7MLavwz3Fvj0v0mav0rnxdW2TsH8xkNMFxAXeCqsgQR7iRa4eMwaZYdnTPfI4i98rwThNW1f9SdskmVX5Jxyag71TtJIbKeu6yUGJAiKORfdKUCn6iLRFhqcnXvzCf7xVriA=;Rkt18IgNCPRc8vM93xXkMw=="
+images:
+  - url: "https://i1.ytimg.com/vi/tl2DzJAA2Oc/hqdefault.jpg"
+    width: 480
+    height: 360
+    isCached: true
+
+secured: "E2OgFnSMKBehZJKKeO5POY5n1tO8QKd/1lP9d3c+qNN40TqOaChW6059V9fmRLzbnk28VRewE5HN3x+BHT7x/9TukmOE6KmNH0B1rKUUndgkRISLtpjBbOYMfysjRihFoY5E3GqJjRknkbRNcoYs9sOS+uXnfgnSxJ9FwLD8S44WUeIKlPhUSj3BC/hmvmqPcjcE8ozbuZJ4nBebP6W1D/JBvs4gFQNDZIeez9gsEMdLCwokitoxGEmxyhyPMouWe0nVfSJmw6vZLuVo8eUOqBCI7iPWd/A9ObEY/hHMkgQ3/9X1Bvk6j/mqCwZm2weNpwa0I+44q4/bSI7pn/PQCyfVEBI8PCHfQ0SZ+fqDnCg=;/nwQCtBsvb1CdE/0HRsdoQ=="
 ---
 

@@ -2,6 +2,58 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-06-04-indonesian-healthcare-startup-prixa-raises-3m-led-by-mdi-and-tptf.md",
+      "title": "Indonesian healthcare startup Prixa raises $3M led by MDI and TPTF",
+      "excerpt": "Indonesian healthcare startup Prixa has raised $3 million led by MDI Ventures and the Trans-Pacific Technology Fund (TPTF), with participation from returning investors including Siloam Hospitals Group.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/06/04/indonesian-healthcare-startup-prixa-raises-3m-led-by-mdi-and-tptf/",
+      "originalUrl": "https://techcrunch.com/2021/06/04/indonesian-healthcare-startup-prixa-raises-3m-led-by-mdi-and-tptf/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/06/GettyImages-1163656222.jpg?w=1024",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/06/04/indonesian-healthcare-startup-prixa-raises-3m-led-by-mdi-and-tptf/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/06/04/indonesian-healthcare-startup-prixa-raises-3m-led-by-mdi-and-tptf/amp/",
+      "publishedDateTime": "2021-06-04T03:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2021-06-04-lgbt-conversion-therapy-banned-on-facebook-but-thriving-in-arabic.md",
       "title": "LGBT+ conversion therapy: banned on Facebook, but thriving in Arabic",
       "excerpt": "When he was growing up in a small Egyptian town outside Cairo, Omar began feeling sexually attracted to other men. Too afraid to talk to family or friends, he turned to Facebook for help,",
@@ -1297,49 +1349,6 @@
         "AI",
         "AI in Healthcare",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-26-artificial-intelligence-news-and-research.md",
-      "title": "Artificial Intelligence News and Research",
-      "excerpt": "The impact of deploying Artificial Intelligence (AI) for radiation cancer therapy in a real-world clinical setting has been tested by Princess Margaret researchers in a unique study involving ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.news-medical.net/?tag=/Artificial-Intelligence",
-      "originalUrl": "https://www.news-medical.net/?tag=/Artificial-Intelligence",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.news-medical.net/themes/Standard/images/full_site_logo.png",
-          "width": 973,
-          "height": 514,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-25T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "News Medical",
-        "domain": "news-medical.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
       ]
     }
   ],
