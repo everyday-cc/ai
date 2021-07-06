@@ -2,7 +2,7 @@
 name: "H2O.ai"
 overview: "H2O.ai is the open source leader in AI and automatic machine learning with Driverless AI. Its mission is to democratize AI for all. H2O.ai is transforming the use of AI with software with its category-creating visionary open source machine learning platform, H2O. More than 18,000 companies use open-source H2O in mission-critical use cases for Finance, Insurance, Healthcare, Retail, Telco, Sales, and Marketing. H2O.ai launched Driverless AI that uses AI to do AI in order to provide an easier, faster and effective means of implementing data science. H2O.ai partners with leading technology companies such as NVIDIA, IBM, Intel, AWS, Azure and Google and is proud of its growing customer base which includes Capital One, Progressive Insurance, Comcast, Walgreens and PayPal. For more information and to learn more about how H2O.ai is transforming business processes with intelligence, visit www.h2o.ai."
 type: "profile"
-heat: 108
+heat: 92
 
 website: https://www.h2o.ai
 
@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "h2oai"
   url: "https://twitter.com/h2oai"
-  followers: 21919
+  followers: 21918
 
 size: 51-200 employees
 yearFounded: 2012
@@ -43,6 +43,6 @@ images:
     height: 400
     title: "logo"
 
-secured: "96SRSiefActysOA9yLwIX1eLd8af41ih1WH91DQbj2Mbwi6oh4CXqHW5lIw9x4/MXylTcPdiZsWSYD/U0g3EWyb9WSs5KHbZWAwKxP21YBz3nBk3TJPOGVOPPdzI7jFHK9+SxaFNhE2O2agdR+4g4IqDHX4dIXLpDf5haN8Gchl8js2IuUhe2iXZR6lNJAZ7iIZ6SAowGOjbfc4jQTBCmE7oanU6+ul3Xe6NbuLrpt8xDLHO9PMxxL3Dh40HaCKkepKbnVIcwg3q6MHjnA8cs1+bAWx6pUoXoXeXp6gttN4yyvYy8JnQvOqrfyXbakKbeYO4sfRKF3nP4YFa23vfaGhMnYZWZELpYd0wZPmzl6v9BUeR7bWz8S70i0V9zvqdHzDcrG/Okoc9+WH5ST/gsAiRcTbkP3Ds79LOP3K9PB8=;mNDJonxdFrAu7Uu2AQDaHA=="
+secured: "cmPWpKQfUA2yWzo0RkA3jI5wv2kUgawb6NlsoHDoXoAl2oxdK7ZMuNZ8FzAiQ9Kcri6pA1Lc7Mn5CGxkkQgbSdDFH9coRGHnMOjdizpqQy2sgyhFbRCS9KdfW+7xLxJIqcOp3waQmBgC7nasB+6ly11bOXUA84YgvgP4oR3h1UjTNZJNbVGomqM7VItOb+53C6zgpzPIAMi8lAveA/0DE8uytGMkXteUASBN1kv1h9ktkmbTubame59Ot8zPJOLJBiiC3oIDoT/L5n+utBLmdG1Vv6bqjaV69gHhJy2y6TnOtiN3DssN0m7KUAak50UQuVagrEluEu/UQmtQRYAYHrcE2OcqYDLrg9+W/+5Gx7hrImmz+TPrPIxf5hhMcC1ByvzJ7q5Pz2fZWPVDWvAW7ImjsQIb4Zme6Ke2Wlg+UUo=;pXA/j7X/w/1O+XPKHuCEtw=="
 ---
 

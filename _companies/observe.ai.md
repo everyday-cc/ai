@@ -12,7 +12,7 @@ crunchbase:
 twitter:
   username: "observeai"
   url: "https://twitter.com/observeai"
-  followers: 669
+  followers: 670
 
 locations:
   - New York, NY
@@ -34,6 +34,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=sQwbipcFPYg"
 
-secured: "yKQp3kwg/P3i+0pIMXt+EieY5LFmrcytYCp9GfXKAC/ZOrC8HbAruWK84Zxm6HJiHadq0WLWJdlAnuFry5wnyXq1uF19iDLsG+4eV2P1/BLBmLKcXVhuTx+REHNMbJwP7DK9QeFIn5wbqjjfZC0wWzi2duaALVY9BvEclTQYPJzAybdGuJYbgQ/FSNi7xO4PydmrNJ3X5o8rJN4J1/KrCBSgEZQ0YEypDMZomxwF3KZeZ8awSsYjdsKsG9WBDrUHa3mgGQGEQF76LzqYe27gcPPc4y9M17oAoNRUwo3M4tXlgMkxaHrUjeWF2LkdeywP55QAeXR/GChMScsm1BH3hzyi+NaPSrv78nQW8O7BIDPKQtqUX/q6vGsPm24Aj4CS1VjBBTe/MnznyUN9Y0E6Sw==;YKPmFHtd6aXxgs2qET3L3g=="
+secured: "SnRXWKKZ89DCHg1ElUepwA46uUfI4HKuH9VBqa22FmWfxYuLnRaFtwFQzNrzWN5eXItRiTW5WEH7UPHUs8j5vATh5FNs6/rpmqwgdu7OlEbYYXjUDAraxSyrLek88RiLH9A8uO/edZeXXA1yCdlkZeaApiqULbbIUg5fhy5PiDk5Q0NS3VBsp1xfMhTNz6aTbl2Z64J979zMYNLd1etohoOxyAVwNJz3E83673efI0cBjpO1ACjkl/MT4X5VD1y8ofMI5Qo+X4B/0RUn6nv5XIjhWC3Gn4Z/OTCSxsasqSbHiavZih9zyHu92tNVNOmKFSuKQ6MmjSH9ZZTPSLkrsyYBCVlg/g1TihBZkrW1PZIMxdb+8c85tkEEkSkG1JYE7TkojjCsb5y8Tp4TXgx+qg==;nzxCh00ILZ7t3Abbz68lqw=="
 ---
 
