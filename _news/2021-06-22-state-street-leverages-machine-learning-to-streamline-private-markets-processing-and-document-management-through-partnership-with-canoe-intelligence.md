@@ -1,21 +1,21 @@
 ---
 category: news
 title: "State Street Leverages Machine Learning to Streamline Private Markets Processing and Document Management Through Partnership with Canoe Intelligence"
-excerpt: "State Street Corporation today announced it will implement a cloud-based, machine learning technology to transform private markets processing and docu"
-publishedDateTime: 2021-06-22T16:30:00Z
-originalUrl: "https://www.businesswire.com/news/home/20210622005654/en/State-Street-Leverages-Machine-Learning-to-Streamline-Private-Markets-Processing-and-Document-Management-Through-Partnership-with-Canoe-Intelligence"
-webUrl: "https://www.businesswire.com/news/home/20210622005654/en/State-Street-Leverages-Machine-Learning-to-Streamline-Private-Markets-Processing-and-Document-Management-Through-Partnership-with-Canoe-Intelligence"
+excerpt: "State Street Corporation today announced it will implement a cloud-based, machine learning technology to transform private markets processing and document management. Through State Street’s partnership with Canoe Intelligence (“Canoe”),"
+publishedDateTime: 2021-06-22T12:30:00Z
+originalUrl: "https://www.financialbuzz.com/state-street-leverages-machine-learning-to-streamline-private-markets-processing-and-document-management-through-partnership-with-canoe-intelligence/"
+webUrl: "https://www.financialbuzz.com/state-street-leverages-machine-learning-to-streamline-private-markets-processing-and-document-management-through-partnership-with-canoe-intelligence/"
 type: article
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: Financial Buzz
+  domain: financialbuzz.com
 
 topics:
   - AI in Finance
   - AI
   - Machine Learning
 
-secured: "+wGllw/MI4Kw+M3WlgoOWO85AhSZLqC2Z1K3tor2q4E3EIVAOMGfR49XGSh9IiiqnHmcj3HesH6NmFKlQ376cM+LqBWw/SFxX7i+VxIAfaBvrrZR2SeM38Bbav31+74M4S4vmoaq6E15KGyTUnqAGbTSjkDLRByyRv8KNC8mbSmRRwXHp/r2vK6EPU7YgqHRtgwy42cYopQIrSOMlYJxLqc376ybybAV1PkczsWLbeayZQCM6oKwTWGpnk8GXH7QkmoDZCOJPh1rLWi6WQJhCzrtyH2rGzPhiAr8mgCJOLJsk043Cirt5K0RnIEagyk05XAfTlMebI7rqJDc1oxOc6kLDqyTErVK2MraEg6QN5w=;0cFexRTUoqHtJhZXziQvTA=="
+secured: "l0KQ0l2EAGFafoY8LTT5TQkKzS2kZLyq633nFt/aQ2lwACvSAQ838g4mAjNpGincwC0z3rc/vI5sAhzry9sxbKTGyRbYMDO6sK+ARz6Y0vEdewThw1qBypq7k1/Imahukm9YSMbE9AzagX9+zp+s27WnOQIFHYZkYSA/B9JM9deP5ciB5jf5BhRPBCD0Fb3inACXU3VSWOOcLCqFVVMXevuENkPuOhKZa0ftekLKXxvGWw+pzjbI+E4/cThBTn2dwAXLYFqdpWSiBwkLZDjzM2e6wyjep5vZ2L5kLLN+N/6rmGMylzzo4gWQnmCbGLnqhG5u7Kh1jEPMkhiG9RZ5X0G68s+CA7ueNf1v3s7KGYY=;NZHiBL9OeKIcY0k6SngJ0Q=="
 ---
 

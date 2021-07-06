@@ -77,15 +77,6 @@ related:
       name: TweakTown
       domain: tweaktown.com
     quality: 36
-  - title: "AT&T to move 5G network to Microsoft Azure cloud"
-    excerpt: "AT&T announced an agreement to move its 5G mobile network to the Microsoft cloud. The migration starts with the 5G core network and includes a path for all of AT&T's mobile network traffic to be managed using Microsoft Azure."
-    publishedDateTime: 2021-07-01T06:50:00Z
-    webUrl: "https://www.telecompaper.com/news/atandt-to-move-5g-network-to-microsoft-azure-cloud--1388724"
-    type: article
-    provider:
-      name: Telecompaper
-      domain: telecompaper.com
-    quality: 34
   - title: "Artificial Intelligence in Healthcare Market 2021 Updated Report || Top Players – Intel, IBM, Google, Microsoft, General Vision"
     excerpt: "Artificial Intelligence in Healthcare Market 2021 Updated Report \\|\\| Top Players – Intel, IBM, Google, Microsoft, General Vision; Surgical Planning Software Market"
     publishedDateTime: 2021-07-05T18:47:00Z
@@ -136,15 +127,6 @@ related:
       name: manometcurrent.com
       domain: manometcurrent.com
     quality: 21
-  - title: "Artificial Intelligence Platform Market 2021 Comprehensive Insights – Google, Baidu, IBM, Microsoft, SAP, Intel, Salesforce, Brighterion"
-    excerpt: "The global Artificial Intelligence Platform market size is projected to reach US$ 185710 million by 2027, from US$ 16960 million in 2020, at a CAGR of 39.5% during 2021-2027. Top Leading Companies of Global Artificial Intelligence Platform Market are Google,"
-    publishedDateTime: 2021-07-01T05:04:00Z
-    webUrl: "https://ksusentinel.com/2021/07/01/artificial-intelligence-platform-market-2021-comprehensive-insights-google-baidu-ibm-microsoft-sap-intel-salesforce-brighterion/"
-    type: article
-    provider:
-      name: The Sentinel
-      domain: ksusentinel.com
-    quality: 16
   - title: "Mobile Speech Recognition Software Market To Demonstrate Spectacular Growth By 2026 | Alphabet, VoiceVault, VoiceBox Technologies"
     excerpt: "The latest independent research document on Global Mobile Speech Recognition Software examine investment in Market. It describes how companies deploying these technologies across various industry verticals aim to explore its potential to become a major ..."
     publishedDateTime: 2021-07-01T19:31:00Z

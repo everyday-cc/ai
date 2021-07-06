@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techradar.com/amp/news/the-future-of-the-ai-based-enterp
 cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/the-future-of-the-ai-based-enterprise"
 type: article
 quality: 89
-heat: 149
+heat: 139
 published: true
 
 provider:
@@ -78,20 +78,6 @@ related:
       - url: "https://fossbytes.com/wp-content/uploads/2021/07/ai-taking-over-more-jobs-in-us-2019.jpeg"
         width: 1280
         height: 720
-        isCached: true
-  - title: "The future of online shopping gets real with AI and machine learning"
-    excerpt: "Learn how AI and machine learning have starring roles in the future of online shopping and what retailers need to do to adapt."
-    publishedDateTime: 2021-07-01T05:05:00Z
-    webUrl: "https://www.the-future-of-commerce.com/2021/07/01/future-of-online-shopping-ai-and-machine-learning/"
-    type: article
-    provider:
-      name: Future
-      domain: the-future-of-commerce.com
-    quality: 54
-    images:
-      - url: "https://www.the-future-of-commerce.com/wp-content/uploads/2021/06/Future-of-Online-shopping_1200x375-1200x630.jpg"
-        width: 1200
-        height: 630
         isCached: true
   - title: "The State of AI and Machine Learning"
     excerpt: "In the 7th edition of its annual State of AI and Machine Learning report, Appen continues to explore the strategies employed by companies large and small in successfully deploying AI. The reports surveys business leaders and technical practitioners ( referred to as technologists) alike to understand their priorities,"

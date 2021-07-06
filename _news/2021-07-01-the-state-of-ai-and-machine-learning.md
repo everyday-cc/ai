@@ -89,20 +89,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "The future of online shopping gets real with AI and machine learning"
-    excerpt: "Learn how AI and machine learning have starring roles in the future of online shopping and what retailers need to do to adapt."
-    publishedDateTime: 2021-07-01T05:05:00Z
-    webUrl: "https://www.the-future-of-commerce.com/2021/07/01/future-of-online-shopping-ai-and-machine-learning/"
-    type: article
-    provider:
-      name: Future
-      domain: the-future-of-commerce.com
-    quality: 54
-    images:
-      - url: "https://www.the-future-of-commerce.com/wp-content/uploads/2021/06/Future-of-Online-shopping_1200x375-1200x630.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Commerce.AI Releases AI-Generated Market Reports"
     excerpt: "Commerce.AI has released a new AI-generated market reports feature, which delivers market intelligence insights across thousands of market categories. Market reports are accessible to all and were previously only available to those with access to Commerce."
     publishedDateTime: 2021-07-02T14:51:00Z

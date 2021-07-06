@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsbytesapp.com/news/science/zoom-reveals-plans-to-acqu
 cdnAmpWebUrl: "https://www-newsbytesapp-com.cdn.ampproject.org/c/s/www.newsbytesapp.com/news/science/zoom-reveals-plans-to-acquire-machine-translation-startup/story/amp"
 type: article
 quality: 59
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -42,20 +42,6 @@ related:
       - url: "https://assets.entrepreneur.com/content/3x2/2000/1625256159-Jul2ZoomtraduccinentiemporealvideoconferenciastrascomprarempresaKites.jpg?width=600&crop=16:9"
         width: 600
         height: 338
-        isCached: true
-  - title: "Zoom acquires real-time translation AI company, Kites"
-    excerpt: "Zoom has acquired a real-time Machine Translation solutions company, Kites which is short for Karlsruhe Information Technology Solutions."
-    publishedDateTime: 2021-07-01T06:58:00Z
-    webUrl: "https://techstory.in/zoom-acquires-real-time-translation-ai-company-kites/"
-    type: article
-    provider:
-      name: tech
-      domain: techstory.in
-    quality: 39
-    images:
-      - url: "https://techstory.in/wp-content/uploads/2021/07/iStock-1225232811.jpg"
-        width: 1254
-        height: 836
         isCached: true
   - title: "AI-powered Recruiting Startup TopFunnel Announces Acquisition of Referral-Based Company Teamable to Offer End-to-End Sourcing Platform"
     excerpt: "TopFunnel, the AI-powered recruiting startup that high-growth companies use to scale, today announced the acquisition of Teamable to supercharge referral-based recruiting. Teamable is the employee referral platform that transforms social networks into high-performance talent pools."

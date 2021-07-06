@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Not even the government knows the full extent of how government is using facial recognition"
+    excerpt: "And 13 of those agencies, more than half of those using facial recognition, don’t know what systems their employees are using or how often they use them. The agencies that do keep track say they’ve used it for identifying people at the January 6 insurrection and during last summer’s protests sparked by the murder of George Floyd."
+    publishedDateTime: 2021-07-02T04:44:00Z
+    webUrl: "https://www.marketplace.org/shows/marketplace-tech/not-even-the-government-knows-the-full-extent-of-how-government-is-using-facial-recognition/"
+    ampWebUrl: "https://www.marketplace.org/shows/marketplace-tech/not-even-the-government-knows-the-full-extent-of-how-government-is-using-facial-recognition?amp"
+    cdnAmpWebUrl: "https://www-marketplace-org.cdn.ampproject.org/c/s/www.marketplace.org/shows/marketplace-tech/not-even-the-government-knows-the-full-extent-of-how-government-is-using-facial-recognition?amp"
+    type: article
+    provider:
+      name: Marketplace
+      domain: marketplace.org
+    quality: 49
+    images:
+      - url: "https://www.marketplace.org/wp-content/uploads/2019/05/MP_show-1.png?w=300"
+        width: 300
+        height: 300
+        isCached: true
   - title: "13 federal law enforcement agencies haven’t been monitoring facial recognition technology use"
     excerpt: "The report from the U.S. Government Accountability Office (GAO) said 13 of the federal law enforcement agencies surveyed that use facial recognition technology did not have a system in place to track when or how employees were using the system or to assess the privacy risks associated with the use."
     publishedDateTime: 2021-07-02T21:40:00Z
@@ -39,29 +55,6 @@ related:
         width: 960
         height: 540
         isCached: true
-  - title: "US government watchdog finds federal use of artificial intelligence poses threat to federal agencies and public"
-    excerpt: "The US Government Accountability Office (GAO) released a public report Tuesday stating that most federal agencies that use facial recognition technology systems are unaware of the 'privacy and"
-    publishedDateTime: 2021-07-05T11:59:00Z
-    webUrl: "https://www.jurist.org/news/2021/07/us-government-watchdog-finds-federal-use-of-artificial-intelligence-poses-threat-to-federal-agencies-and-public/"
-    type: article
-    provider:
-      name: Jurist
-      domain: jurist.org
-    quality: 17
-    images:
-      - url: "https://www.jurist.org/news/wp-content/uploads/sites/4/2019/10/facial_recognition_1572545155.png"
-        width: 1280
-        height: 1066
-        isCached: true
-  - title: "Report Finds Widespread Use of Facial Recognition Technology by Federal Agencies Could Pose Privacy Risk"
-    excerpt: "The report recommends that agencies track and assess the systems they use to mitigate the privacy and accuracy risks."
-    publishedDateTime: 2021-07-01T15:26:00Z
-    webUrl: "https://www.lawfareblog.com/report-finds-widespread-use-facial-recognition-technology-federal-agencies-could-pose-privacy-risk"
-    type: article
-    provider:
-      name: Lawfare
-      domain: lawfareblog.com
-    quality: 2
 
 secured: "Zv9/wIENAh0h9/hazij5z8T2zErBkYSf1bVcbwbt68Ybt51/BSpc8yO5L80I/4uPB6gfOq5yR6bOSVNx7at5lejfvnwd4zkXIWjvEZaO1bwEycCqdeAh2lKLcR/8k/QRzFgU5IdAyBlyqMzb7jBE9AE7CafxClOSBUSMxoO1pJl9N/ti+JazajTF37Li2ja1YAbvZTSdp1ruca5SvqCi33SG8BIQPgdkmzwSwGhGQd8uPM/5ggysK4HaCTrHWDSR0GkE5bqZEWzvW9aH8ya/OUU9JKj85dqb2b29bDI1sYvdtsGCQTYhJHY+iBxtzFl01kr9VKVekV+LJZaYBvwEzRjE00BQC0xInEG54PI+mrFjEJ7u/CH4Po7Rso82DKPF+p5mzYJ/MHofu8+gKuo3qPakVoTXPgGpSs2ldM7yKqrtAliQsxTmss2Gu9zKPpHbsQlapRQfAVKL6wftb4t9qj1yGXeVQQwTOXK4Qn+MV+4n3uITkbXL84BB9COWpe3ebmmadILQcvpkyiNvkiFyJg==;czyrA7nIF8I/c+1J58hR5w=="
 ---

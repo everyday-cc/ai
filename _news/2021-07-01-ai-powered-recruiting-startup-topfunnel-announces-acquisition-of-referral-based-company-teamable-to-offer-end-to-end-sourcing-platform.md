@@ -50,20 +50,6 @@ related:
         width: 600
         height: 338
         isCached: true
-  - title: "Zoom acquires real-time translation AI company, Kites"
-    excerpt: "Zoom has acquired a real-time Machine Translation solutions company, Kites which is short for Karlsruhe Information Technology Solutions."
-    publishedDateTime: 2021-07-01T06:58:00Z
-    webUrl: "https://techstory.in/zoom-acquires-real-time-translation-ai-company-kites/"
-    type: article
-    provider:
-      name: tech
-      domain: techstory.in
-    quality: 39
-    images:
-      - url: "https://techstory.in/wp-content/uploads/2021/07/iStock-1225232811.jpg"
-        width: 1254
-        height: 836
-        isCached: true
 
 secured: "y6yCOcZgz1bBJJGe7cJmOP0r42SB+aGvaHw3BQwUsOu3tH6FZgXA+tgDfsBvP1awISYVu24MTt9cpO+iYKuZXEX/F4Ls5B9d49xygofEgWm+OJipUMgrXcs+FVClihH7f+hWWng7dMmiQfAMRbqGmjuJb5sG7+jkSdK4Qb5ysLaeVN3414jSlyeu1EGlrqK3dZnfjnxnQOeDnskrdhKI4eWe4IgqICkPjIw6+mg9hSAHAIi4EyBnxZT7+cLcV+CU9Dl7QLBDE8QHeo9OiAE4fpJx/KaNAM9zFC84fbRFX6bkAMw/WQzw++/55RvaD1l79RusLHcQ9YEhWjsIozv5O58VDEiqMh48Rv2HDrwesHE=;ogNCaatOwCIaLqF8Ucy11A=="
 ---

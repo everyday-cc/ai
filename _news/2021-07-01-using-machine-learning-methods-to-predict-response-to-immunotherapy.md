@@ -7,7 +7,7 @@ originalUrl: "https://www.genengnews.com/news/using-machine-learning-methods-to-
 webUrl: "https://www.genengnews.com/news/using-machine-learning-methods-to-predict-response-to-immunotherapy/"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -23,19 +23,6 @@ images:
     width: 1400
     height: 932
     isCached: true
-
-related:
-  - title: "Machine Learning Predicts Patient's Response to Immunotherapy"
-    excerpt: "Immunotherapy and machine learning join forces to help the body's immune system crack one of its greatest mysteries -- how to find hidden tumorous cells in the human body."
-    publishedDateTime: 2021-07-01T05:39:00Z
-    webUrl: "https://www.medindia.net/news/machine-learning-predicts-timing-of-effective-immunotherapy-202023-1.htm"
-    ampWebUrl: "https://www.medindia.net/amp/news/machine-learning-predicts-timing-of-effective-immunotherapy-202023-1.htm"
-    cdnAmpWebUrl: "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/machine-learning-predicts-timing-of-effective-immunotherapy-202023-1.htm"
-    type: article
-    provider:
-      name: Medindia
-      domain: medindia.net
-    quality: 39
 
 secured: "xUhDC1QZ5V7q8oIlo2C2rMmISBsVEjAtPH73QquatcWFR64IlBq3cyX1j/lcc0nQMDq6nWZGWgTtUYzzRhaIGXELsUdhQZamDWeAX2nLyp+V1OY3XdEvj91yvri5NqI5+87dwxxnXeSX+Emk8XgYsIOL9FsM0UylDqf8xIOfyqUGp3jTs+wiTKSARu18dIRI1sPQa8F3+XeWtiyfuZI7fvgh3gSVDULaxt/AbS8MH00bmO4aXyOX2SFVMAGqU/i2xohMLHZQW9YRbLDg3YYjGFJzi0ypIWQ0+X4nOT8mbeTCCrPoB1G3zg4gQ5F4OpZnvEsH2eSkc85PwMpr1GT2JiQEJ1POseb4vpLVJnH54zpVrcOIqTQg2PFz/magEBURodA06jCDv19uS+uR1dMad3HXGrVHPIP+u5I+2sZfxM7d/2oDlPqdGzpu8JsOZ68AekWhPOq6Vwi/w1QN6CyUOpFFihtSk2jbrix9GbUXGWeWjSmC/Za1CEnkQyXHvGDYmxprHgxXNhKTTh+dNsXW5Q==;IhQZkTIcSoDqCY0fD2X75Q=="
 ---

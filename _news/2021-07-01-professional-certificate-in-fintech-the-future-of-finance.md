@@ -7,7 +7,7 @@ originalUrl: "https://www.mccombs.utexas.edu/execed/take-a-class/finance-account
 webUrl: "https://www.mccombs.utexas.edu/execed/take-a-class/finance-accounting/professional-certificate-in-fintech-the-future-of-finance"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,24 @@ images:
     width: 300
     height: 300
     isCached: true
+
+related:
+  - title: "Finance Starts Having a Heart: How Fintech Fosters Financial Inclusion and the SDGs"
+    excerpt: "Finance acquires a heart. Fintech companies innovate financial services with empathy and sustainability in mind. Financial inclusion can become"
+    publishedDateTime: 2021-07-05T22:30:00Z
+    webUrl: "https://www.business2community.com/finance/finance-starts-having-a-heart-how-fintech-fosters-financial-inclusion-and-the-sdgs-02416807"
+    ampWebUrl: "https://www.business2community.com/finance/finance-starts-having-a-heart-how-fintech-fosters-financial-inclusion-and-the-sdgs-02416807/amp"
+    cdnAmpWebUrl: "https://www-business2community-com.cdn.ampproject.org/c/s/www.business2community.com/finance/finance-starts-having-a-heart-how-fintech-fosters-financial-inclusion-and-the-sdgs-02416807/amp"
+    type: article
+    provider:
+      name: Business 2 Community
+      domain: business2community.com
+    quality: 53
+    images:
+      - url: "https://cdn.business2community.com/wp-content/uploads/2021/06/heart-900x607.png"
+        width: 900
+        height: 607
+        isCached: true
 
 secured: "C4olMbY7ahkA9ZtcticQfgsJzOm9ALXk0YVXOJeESEiEG2i2AhKZYsjzYq5B4HTExNxQ7vLXnQTpu18ydqeC96xx1QJ36YVBGM9vSD0MsKxSr/Z/dZjMsgqhbAGBC/Nw09FFZjYc7HLhRdsE45WkSUtK73kET26iYzbLzTmTN/7DdI+otC9d9IKPsuzWDoTr0thf/hhNjx+WeBN7yoMBDbW6sSDG6Pwg9NptLanfc3UuPi04B/zr8Vo5VqRjAvnBFkcWtnks54vzxlJTe0TNFtiRPiBxUKhgKjv6jz1pYDiwfR8LtShvO0XTlxUVRlLDmHyX2r03vwz86jIG71sVL58LO80cgFHDTpxxXWC0juU=;JH+ffPZlfqxKEjZA478ZOQ=="
 ---

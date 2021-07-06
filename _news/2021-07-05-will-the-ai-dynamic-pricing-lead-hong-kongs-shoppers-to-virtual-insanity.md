@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.scmp.com/week-asia/opinion/article/3139480/will-ai-dynam
 cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/week-asia/opinion/article/3139480/will-ai-dynamic-pricing-lead-hong-kongs-shoppers-virtual-insanity"
 type: article
 quality: 85
-heat: 95
+heat: 96
 published: true
 
 provider:

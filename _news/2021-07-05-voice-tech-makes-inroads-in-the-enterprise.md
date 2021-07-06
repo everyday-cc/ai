@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/07/04/voice-tech-makes-inroads-in-the-e
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/04/voice-tech-makes-inroads-in-the-enterprise/amp/"
 type: article
 quality: 74
-heat: 74
+heat: 75
 published: true
 
 provider:

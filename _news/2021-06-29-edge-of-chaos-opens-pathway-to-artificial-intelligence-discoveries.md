@@ -1,26 +1,24 @@
 ---
 category: news
 title: "'Edge of chaos' opens pathway to artificial intelligence discoveries"
-excerpt: "have discovered that an artificial network of nanowires can be tuned to respond in a brain-like way when electrically stimulated. This, they say, suggests the underlying nature of neural ..."
-publishedDateTime: 2021-06-29T10:13:00Z
-originalUrl: "https://www.eurekalert.org/pub_releases/2021-06/uos-oc062721.php"
-webUrl: "https://www.eurekalert.org/pub_releases/2021-06/uos-oc062721.php"
+excerpt: "Some neuroscience theories suggest the human brain operates best 'at the edge of chaos'. Now scientists have found that keeping a nanowire network at the edge of becoming chaotic is the best state for it to produce useful signals to solve problems."
+publishedDateTime: 2021-06-29T16:14:00Z
+originalUrl: "https://www.sciencedaily.com/releases/2021/06/210629101157.htm"
+webUrl: "https://www.sciencedaily.com/releases/2021/06/210629101157.htm"
 type: article
 
 provider:
-  name: EurekAlert!
-  domain: eurekalert.org
+  name: Science Daily
+  domain: sciencedaily.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Machine Learning
   - AI
 
-images:
-  - url: "https://www.eurekalert.org/multimedia/pub/web/269158_web.jpg"
-    width: 1440
-    height: 1009
-    isCached: true
-
-secured: "8FxWHHlQHGW15K3GCK8kA0hVauC2hEfX2SJh2yLPjObqHWX1/86Tx8zqSendHh/eGidZkiUDfKfF+J4Dey3sVcKHD3hQjWV3xJeWkomQavsXYFE4YBOUVqmrsve8Di3X04+A+FK3e2R0ubZTgnSKfYhD8y+z4LoF2qWu/WqWojTrN4UxzUkHLNV9YkiJrqHF5xSfJbVQ63k1JDODmEWdtDY2Yaz5GRkDknpwtAASC5eFnqGhngfMM5YKF4PSUsy9vb/8M/zZTZ8qO868pidq2Sg5LfmS/ggATNxj5wGefa1/7vHbktYCGYUC623N5QKDNa1SX7gX27k6qZn1AFjDYYIVHUXyIMhMZhB5C1x7mtw=;/LYne7/BKpuxmOFTEHJdnQ=="
+secured: "0sV8oxDtqeoOArlCeVTEctoKE8otOA3PmrrpYdK0tjxWxlLnCnFlj1xTmuyT5bOjoG/1m2KHTzxKrHUmkHEWRml2ghhr1YusUJJ7bAf0wugEc94W3Ut5He//g5ANq0yUXQ8kKQGydPHOtrHtS1LYCOzdogM0SG5LcshbchAmQAlkjTO4ixZHZ0587U0DjCzRYkh+3NJQw2OVNCG/p7bjZ/wYiOizc/Yk5ZuVQw4Sx9PEknaH5SLShBQvSwOjGqC0BNctCXEwvzmV11IkNV7m1pjiHR5yc7mmL0c0CFB5xq8fcTLMN7gzXSGJm1jQHHFKhqJaBEqO3cDWqUT+6n6G97paaUYA+PrsA/X3ragdStc=;JqTPDTW9/HEndMNPmA6EEQ=="
 ---
 

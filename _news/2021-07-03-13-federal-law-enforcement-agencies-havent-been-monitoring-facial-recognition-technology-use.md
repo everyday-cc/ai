@@ -7,7 +7,7 @@ originalUrl: "https://www.wpxi.com/news/top-stories/13-federal-law-enforcement-a
 webUrl: "https://www.wpxi.com/news/top-stories/13-federal-law-enforcement-agencies-havent-been-monitoring-facial-recognition-technology-use/XLJYVPKNLRB37G2W252WIKKJXA/"
 type: article
 quality: 28
-heat: 28
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Not even the government knows the full extent of how government is using facial recognition"
+    excerpt: "And 13 of those agencies, more than half of those using facial recognition, don’t know what systems their employees are using or how often they use them. The agencies that do keep track say they’ve used it for identifying people at the January 6 insurrection and during last summer’s protests sparked by the murder of George Floyd."
+    publishedDateTime: 2021-07-02T04:44:00Z
+    webUrl: "https://www.marketplace.org/shows/marketplace-tech/not-even-the-government-knows-the-full-extent-of-how-government-is-using-facial-recognition/"
+    ampWebUrl: "https://www.marketplace.org/shows/marketplace-tech/not-even-the-government-knows-the-full-extent-of-how-government-is-using-facial-recognition?amp"
+    cdnAmpWebUrl: "https://www-marketplace-org.cdn.ampproject.org/c/s/www.marketplace.org/shows/marketplace-tech/not-even-the-government-knows-the-full-extent-of-how-government-is-using-facial-recognition?amp"
+    type: article
+    provider:
+      name: Marketplace
+      domain: marketplace.org
+    quality: 49
+    images:
+      - url: "https://www.marketplace.org/wp-content/uploads/2019/05/MP_show-1.png?w=300"
+        width: 300
+        height: 300
+        isCached: true
   - title: "GAO: Some Federal Agencies’ Use of Facial Recognition Technology Opens Door for Potential Risks"
     excerpt: "Fourteen federal agencies reported using facial recognition technology systems owned by non-federal entities to support criminal investigations, and 13 out of the 14 agencies did not have an up-to-date information on what non-federal systems were being used by employees,"
     publishedDateTime: 2021-07-02T09:20:00Z
@@ -39,29 +55,6 @@ related:
         width: 1920
         height: 1280
         isCached: true
-  - title: "US government watchdog finds federal use of artificial intelligence poses threat to federal agencies and public"
-    excerpt: "The US Government Accountability Office (GAO) released a public report Tuesday stating that most federal agencies that use facial recognition technology systems are unaware of the 'privacy and"
-    publishedDateTime: 2021-07-05T11:59:00Z
-    webUrl: "https://www.jurist.org/news/2021/07/us-government-watchdog-finds-federal-use-of-artificial-intelligence-poses-threat-to-federal-agencies-and-public/"
-    type: article
-    provider:
-      name: Jurist
-      domain: jurist.org
-    quality: 17
-    images:
-      - url: "https://www.jurist.org/news/wp-content/uploads/sites/4/2019/10/facial_recognition_1572545155.png"
-        width: 1280
-        height: 1066
-        isCached: true
-  - title: "Report Finds Widespread Use of Facial Recognition Technology by Federal Agencies Could Pose Privacy Risk"
-    excerpt: "The report recommends that agencies track and assess the systems they use to mitigate the privacy and accuracy risks."
-    publishedDateTime: 2021-07-01T15:26:00Z
-    webUrl: "https://www.lawfareblog.com/report-finds-widespread-use-facial-recognition-technology-federal-agencies-could-pose-privacy-risk"
-    type: article
-    provider:
-      name: Lawfare
-      domain: lawfareblog.com
-    quality: 2
 
 secured: "KQB69l2r8CPk3XlM85E/qukToKZHpSzzl6c4j0o5tM5DsSlbnOopRAAMrTnyhYmVaxmrwdYPBmUccWsOQK5RRjstilwlBhBcJ9x1qdzK6OpzPcQMm3+AB8ef9KkUSgmDAQpznqxydY2QgsqpthaNNoW9xarXpFvbNXOAgsIduiHWye+rwACqhYY3dDTbGP3nUkl/jqXKB1pVNGCKsPGUrQvZg3Q/QJioih9J7LcIQKOsaAWE94t7wMu7037qsWMVy6KCMB1Yl2k6SFjXWUkjOvxNN/tVzirR8iiyOdKDoiZf0nJP00slh93qxypviuydhU3H1jtn9+oo/yNrRZDoc8XxlsvonKym2HS30G9vDRzyx+NAnx1LEgjZ340MfVRWiEDCXzTMmzt/Cnt6opCc224QknXFnWK8mUnS/7x8W6GYMwEQgyJ2DAw9Nnxdv+iP/44kmMbXV7ALOTKCo67/EVi/vTloPlSF7LyFJqRI53HF7zrxaHfJZeNe6Mfa7tYi+4MyJgpmBkGuwWQXCIXOuQ==;1Gp+1bHbatdXRb5qzBD6gA=="
 ---

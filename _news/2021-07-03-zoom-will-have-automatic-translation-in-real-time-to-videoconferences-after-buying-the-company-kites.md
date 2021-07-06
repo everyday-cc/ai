@@ -47,20 +47,6 @@ related:
         width: 1440
         height: 810
         isCached: true
-  - title: "Zoom acquires real-time translation AI company, Kites"
-    excerpt: "Zoom has acquired a real-time Machine Translation solutions company, Kites which is short for Karlsruhe Information Technology Solutions."
-    publishedDateTime: 2021-07-01T06:58:00Z
-    webUrl: "https://techstory.in/zoom-acquires-real-time-translation-ai-company-kites/"
-    type: article
-    provider:
-      name: tech
-      domain: techstory.in
-    quality: 39
-    images:
-      - url: "https://techstory.in/wp-content/uploads/2021/07/iStock-1225232811.jpg"
-        width: 1254
-        height: 836
-        isCached: true
   - title: "AI-powered Recruiting Startup TopFunnel Announces Acquisition of Referral-Based Company Teamable to Offer End-to-End Sourcing Platform"
     excerpt: "TopFunnel, the AI-powered recruiting startup that high-growth companies use to scale, today announced the acquisition of Teamable to supercharge referral-based recruiting. Teamable is the employee referral platform that transforms social networks into high-performance talent pools."
     publishedDateTime: 2021-07-01T07:31:00Z
