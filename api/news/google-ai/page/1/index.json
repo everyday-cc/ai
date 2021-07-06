@@ -2,6 +2,50 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-07-06-deepminds-scientist-sparks-fresh-debate-over-ai-ethics.md",
+      "title": "DeepMind’s Scientist Sparks Fresh Debate Over AI Ethics",
+      "excerpt": "Raia Hadsell, a researcher at DeepMind, appeared in a virtual tech summit to shed light on the ethics in the field of artificial intelligence.",
+      "sourceUrl": null,
+      "webUrl": "https://analyticsindiamag.com/deepminds-scientist-sparks-fresh-debate-over-ai-ethics/",
+      "originalUrl": "https://analyticsindiamag.com/deepminds-scientist-sparks-fresh-debate-over-ai-ethics/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://analyticsindiamag.com/wp-content/uploads/2021/07/deepmind.jpg",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-05T20:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Analytics India Magazine",
+        "domain": "analyticsindiamag.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics",
+        "Google AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-05-artificial-intelligence-in-healthcare-intels-ai-tool-screens-patients-for-vision-loss.md",
       "title": "Artificial Intelligence in Healthcare: Intel’s AI tool screens patients for vision loss",
       "excerpt": "Sankara Eye Foundation and Leben Care are deploying a cloud-based AI solution Netra.AI, powered by Intel technology, to identify retinal conditions in a short span of time with the accuracy level of h",
@@ -10,7 +54,7 @@
       "originalUrl": "https://www.financialexpress.com/industry/technology/artificial-intelligence-in-healthcare-intels-ai-tool-screens-patients-for-vision-loss/2283014/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 115,
+      "heat": 105,
       "tags": null,
       "images": [
         {
@@ -1369,59 +1413,6 @@
       "topics": [
         "Google AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-10-microsoft-says-cryptomining-attacks-are-targeting-kubernetes.md",
-      "title": "Microsoft says cryptomining attacks are targeting Kubernetes",
-      "excerpt": "explains that they spotted the campaign late in May intrigued by a spike in deployments of TensorFlow pods in various Kubernetes clusters. In his analysis of the campaign, Weizman explains that ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.techradar.com/news/microsoft-says-cryptomining-attacks-are-targeting-kubernetes",
-      "originalUrl": "https://www.techradar.com/news/microsoft-says-cryptomining-attacks-are-targeting-kubernetes",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/yaTc7yRkfydWWSj2tD8dGH-480-80.jpg",
-          "width": 480,
-          "height": 270,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techradar.com/amp/news/microsoft-says-cryptomining-attacks-are-targeting-kubernetes",
-      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/microsoft-says-cryptomining-attacks-are-targeting-kubernetes",
-      "publishedDateTime": "2021-06-10T04:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

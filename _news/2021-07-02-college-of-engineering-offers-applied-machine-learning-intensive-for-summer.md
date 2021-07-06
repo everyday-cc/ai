@@ -7,7 +7,7 @@ originalUrl: "https://news.uark.edu/articles/57146/college-of-engineering-offers
 webUrl: "https://news.uark.edu/articles/57146/college-of-engineering-offers-applied-machine-learning-intensive-for-summer"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -23,24 +23,6 @@ images:
     width: 655
     height: 364
     isCached: true
-
-related:
-  - title: "This Startup Is Offering Personalized Learning"
-    excerpt: "Toppr, a 2014 founded Mumbai-based startup was one among them. In an interaction with Entrepreneur India, Zishaan Hayath, chief executive officer and founder of Toppr shares the reason behind launching Toppr and the future of the edtech sector."
-    publishedDateTime: 2021-07-01T10:40:00Z
-    webUrl: "https://www.entrepreneur.com/article/376262"
-    ampWebUrl: "https://www.entrepreneur.com/amphtml/376262"
-    cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/376262"
-    type: article
-    provider:
-      name: Entrepreneur
-      domain: entrepreneur.com
-    quality: 72
-    images:
-      - url: "https://assets.entrepreneur.com/content/3x2/2000/1625136028-ZishanToppr.jpeg?width=600&crop=16:9"
-        width: 600
-        height: 338
-        isCached: true
 
 secured: "K1Z+DPVZ94a5V0IDSNueVdfpYDyiOYlD0uFbKDzhOSB4CLVn0ucE5NzBT7+jK87tKRUSD6rVOVrTpyyGuB7SWISul1f9XV8/0SOYAmmguDE2lAjE1PbwHI83wvsTzku8QUDePAukswHay5vD2oGTDPt98uZoT7pGWcWeZkJCvOkJ0Jct2PD6CB2iFxAQkN6EXngTYrX0qFTLXp65+JNAg4IlxgIkx3bjVVhBUq+IySrdAyyNZo2LkeR7pDxeheADPl6DX8+OhGvUgcgNM9d/KYbCqVo8ezvJX/nRCyfGiseQ2nOP8qjpt3J+d8KQ/4AkIvpZVOkm7Gfu4XD4b+GDkiO5WQddvv3nzP0JcHu8mc4=;UE0Q7jsDaSYlTRdiTYsaUw=="
 ---

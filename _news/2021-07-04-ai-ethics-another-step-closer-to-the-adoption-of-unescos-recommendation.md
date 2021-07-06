@@ -21,20 +21,6 @@ topics:
   - AI
 
 related:
-  - title: "Unesco agrees draft text for ethical AI"
-    excerpt: "After months of constructive dialogue and negotiation, representatives from UNESCO’s member states have agreed on the draft text of an ambitious and wide-ranging new template for the ethical development and deployment of Artificial Intelligence."
-    publishedDateTime: 2021-07-01T10:16:00Z
-    webUrl: "https://www.finextra.com/pressarticle/88382/unesco-agrees-draft-text-for-ethical-ai"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 54
-    images:
-      - url: "https://www.finextra.com/about/finextra-logo.png"
-        width: 512
-        height: 512
-        isCached: true
   - title: "AI Ethics: Another step closer to adoption of UNESCO’s Recommendation"
     excerpt: "After months of constructive dialogue and negotiation, representatives from UNESCO's member states have agreed on the draft text of"
     publishedDateTime: 2021-07-02T12:16:00Z

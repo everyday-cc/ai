@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/pearl-granted-pate
 webUrl: "https://markets.businessinsider.com/news/stocks/pearl-granted-patent-for-ai-dental-radiology-technology-1030572057"
 type: article
 quality: 67
-heat: 77
+heat: 87
 published: true
 
 provider:
@@ -41,6 +41,22 @@ related:
       - url: "https://www.cioapplications.com/newstransfer/upload/m2u1g450308.jpg"
         width: 450
         height: 308
+        isCached: true
+  - title: "Technology and AI for humanitarian action are the need of the hour"
+    excerpt: "With the technology available to us, much more can be done to reduce losses from natural disasters, to make ourselves safer, and to make the world mor.."
+    publishedDateTime: 2021-07-06T03:44:00Z
+    webUrl: "https://cio.economictimes.indiatimes.com/news/strategy-and-management/technology-and-ai-for-humanitarian-action-are-the-need-of-the-hour/84162486"
+    ampWebUrl: "https://cio.economictimes.indiatimes.com/amp/news/strategy-and-management/technology-and-ai-for-humanitarian-action-are-the-need-of-the-hour/84162486"
+    cdnAmpWebUrl: "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/strategy-and-management/technology-and-ai-for-humanitarian-action-are-the-need-of-the-hour/84162486"
+    type: article
+    provider:
+      name: India Times
+      domain: indiatimes.com
+    quality: 57
+    images:
+      - url: "https://etimg.etb2bimg.com/thumb/msid-84162486,imgsize-51057,width-800,height-434,overlay-etcio/technology-and-ai-for-humanitarian-action-are-the-need-of-the-hour.jpg"
+        width: 800
+        height: 434
         isCached: true
 
 secured: "eLHiZpeEWKXrsuujDPbJ7uGbPwNNcgc3oEcVEkKwJBgIqXjo2tJ+QcWPgZURQCg+VOCvN76CBQg+50pegYO0QdbZXn0IpE4BEFULDNSpCocHYWDu7u4PT+vJL3+iqISSJX2n7GV3bFbvg5tSi42hUwdEgyDyeO6RPOg4amntaIdpjEgS8ii8KycNeTGRfy/Jb/BTudxBPJS7lkrnaU6NvUmWEJUYsm0cD/AHmgIisor/zQlOsraOJDZYcNxN/lnYQz9sYhpbCtG1dpc/KIRFJ7u2KixZvmGhT8n1SENVxB0Twll37UpQwexOlwfjGEtOnNbHMYTm5RVQJ6yVWx+2VevzD/ZR1FPH234FHRUSMVQtKwV+Lc2DU+H2kkHkYbx/3feIveKzE89XxbBcXAOmIU9HylY5Jzcb1mqGTAijPYhV1psU64b+GcOCp/RnrKBfjccCq1Sbw1w4KwpTh5wsf85TvaeTNK6+D5oRWgC3u1KhgDssjHm0+vnSVZROOI/QU3molNqHxe6mBXcZ2dTqFw==;plAp9thq7IWIUNx6cDCOHA=="

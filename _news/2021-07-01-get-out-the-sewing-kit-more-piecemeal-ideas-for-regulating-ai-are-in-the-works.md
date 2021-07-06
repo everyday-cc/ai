@@ -24,6 +24,17 @@ images:
     height: 390
     isCached: true
 
+related:
+  - title: "Clarify Existing AI Rules Before Making New Ones, Says ABA"
+    excerpt: "Greater clarity and consistent regulations trumps introducing new rules, the trade body states As banks start to deploy artificial intelligence (AI) and machine learning technologies, the American Banking Association (ABA) has urged regulators to focus on clarifying AI regulations and guidance."
+    publishedDateTime: 2021-07-06T01:13:00Z
+    webUrl: "https://www.bankingexchange.com/news-feed/item/8781-clarify-existing-ai-rules-before-making-new-ones-says-aba"
+    type: article
+    provider:
+      name: Banking Exchange
+      domain: bankingexchange.com
+    quality: 19
+
 secured: "pQabebvU4BT7HKdXO9LXOMTPVIPnaQFOItUaSKZcr0ijz2fC3uWDdiffMMHne1fOx0n9wF5eHmfUHvVfayE7bRhxp3mh2PkrFjln9AaLZ9gLlZ5aTmOonxGIWQ3WbTmtDWkfN50V+C5cUqSJ1HtCglXF8hPrRg/Exhc94nErfl6t45eqj3I1BUrgmJqIakikjNVb4fKsC7ivxuUEW5i8/r3qmg69FkOOyvVRZBcfkw6FQUh12m5Q3+IhX5jw3Xj+f8f9x2n7halar+mZjYx1HqdMFnj9vM9GvpYaLAtLgNDyD9r9e6P/xlRrxE6Y/IuNRZtkMOi4nHiwpp5G5AjGOjE5i9UQCmQ8nJpHLc7iw+0=;dwzSN+n3R+yrJnMRVmV1eg=="
 ---
 

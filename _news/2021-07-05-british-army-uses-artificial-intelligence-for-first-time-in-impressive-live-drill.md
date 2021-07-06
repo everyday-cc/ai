@@ -9,7 +9,7 @@ ampWebUrl: "https://www.express.co.uk/news/uk/1458614/uk-army-artificial-intelli
 cdnAmpWebUrl: "https://www-express-co-uk.cdn.ampproject.org/c/s/www.express.co.uk/news/uk/1458614/uk-army-artificial-intelligence-AI-military-news/amp"
 type: article
 quality: 52
-heat: 72
+heat: 85
 published: true
 
 provider:
@@ -53,6 +53,20 @@ related:
       - url: "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/image_data/file/125727/s960_Op_CABRIT_June_2021.jpg"
         width: 960
         height: 640
+        isCached: true
+  - title: "Artificial Intelligence used on Army operation for the first time"
+    excerpt: "Artificial Intelligence used on Army operation for the first time. The British Army has used Artificial Intelligence (AI) for the first time during Exercise Spring Storm, as part"
+    publishedDateTime: 2021-07-06T03:25:00Z
+    webUrl: "https://www.globalsecurity.org/wmd/library/news/uk/2021/uk-210705-ukmod01.htm"
+    type: article
+    provider:
+      name: GlobalSecurity.org
+      domain: globalsecurity.org
+    quality: 37
+    images:
+      - url: "https://www.globalsecurity.org/images/temp/one-billion-americans.jpg"
+        width: 675
+        height: 313
         isCached: true
 
 secured: "sJ3e0esJbNVhWj6MlmS6IpGJhFxzzCCuTsxR2bal5gb3VKnEn5mstbrYP+lpJSkuFIoszp6+4LtZRUfMUP5cmJwMfmQuSMJfUAB0bDj9xlwDbD6MIuMqok+4Sd346Lt9Oq950oY74xOhRBd5TKdfCHBQSvZVm954HstdFV1qoB4qoTd9jfnyBdxIoGfei56kYLBf7n7dJPc/5Z4wqCUcUeCYAnPpb2u6iatNPw+Pee/FL+sHN40rhgjjSN1pBAd+ysis0g6LIbEbJGG059XGyZkAUkRqltjbEX54ljsZMIrOba2KtJDfhB+7q+bbkrksHXXN8Pu9ae2A0FfzD2GxMoaM1iQZyZ/Yt0AS7MBVW40=;k/GpweAb6eqJfrX7a11ZVw=="

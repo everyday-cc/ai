@@ -9,7 +9,7 @@ ampWebUrl: "https://www.financialexpress.com/industry/technology/artificial-inte
 cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/industry/technology/artificial-intelligence-in-healthcare-intels-ai-tool-screens-patients-for-vision-loss/2283014/lite/"
 type: article
 quality: 85
-heat: 115
+heat: 105
 published: true
 
 provider:
@@ -44,20 +44,6 @@ related:
       - url: "https://images.newindianexpress.com/uploads/user/imagelibrary/2021/7/6/w600X390/KIMSHEALTH_launches_three.jpg"
         width: 600
         height: 390
-        isCached: true
-  - title: "WHO Lays Down 6 Principles To Use AI In Healthcare"
-    excerpt: "The World Health Organization (WHO) recently issued its first global report on artificial intelligence in healthcare and six guiding principles for its design and use. The report titled ‘Ethics and governance of artificial intelligence for health’ has been published after two years of consultations held by a panel of international experts appointed by WHO."
-    publishedDateTime: 2021-07-01T10:30:00Z
-    webUrl: "https://analyticsindiamag.com/who-lays-down-6-principles-to-use-ai-in-healthcare/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 56
-    images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/06/AIM-17.jpg"
-        width: 1600
-        height: 900
         isCached: true
   - title: "Digital health care in China and access for older people"
     excerpt: "Digital medicine technology has been widely applied to support health care today.1 In China, the so-called Internet Plus health care is an emerging health service model with a cross-industry integration and application of information technologies,"

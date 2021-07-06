@@ -2,6 +2,50 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-07-06-deepminds-scientist-sparks-fresh-debate-over-ai-ethics.md",
+      "title": "DeepMind’s Scientist Sparks Fresh Debate Over AI Ethics",
+      "excerpt": "Raia Hadsell, a researcher at DeepMind, appeared in a virtual tech summit to shed light on the ethics in the field of artificial intelligence.",
+      "sourceUrl": null,
+      "webUrl": "https://analyticsindiamag.com/deepminds-scientist-sparks-fresh-debate-over-ai-ethics/",
+      "originalUrl": "https://analyticsindiamag.com/deepminds-scientist-sparks-fresh-debate-over-ai-ethics/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://analyticsindiamag.com/wp-content/uploads/2021/07/deepmind.jpg",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-05T20:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Analytics India Magazine",
+        "domain": "analyticsindiamag.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics",
+        "Google AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-06-the-new-world-of-work-you-plus-ai.md",
       "title": "The new world of work: You plus AI",
       "excerpt": "Where does your enterprise stand on the AI adoption curve? Take our AI survey to find out. Emerging technologies meet both advocates and resistance as users weigh the potential benefits with the potential risks.",
@@ -61,7 +105,7 @@
       "originalUrl": "https://thenextweb.com/news/pioneers-deep-learning-future-lit-syndication",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 85,
       "tags": null,
       "images": [
         {
@@ -166,7 +210,7 @@
       "originalUrl": "https://www.express.co.uk/news/uk/1458614/uk-army-artificial-intelligence-AI-military-news",
       "featuredContent": null,
       "highlight": null,
-      "heat": 72,
+      "heat": 85,
       "tags": null,
       "images": [
         {
@@ -406,7 +450,7 @@
       "originalUrl": "https://electrek.co/2021/07/05/elon-musk-admits-self-driving-harder-than-he-thought-tesla-troll-missed-deadlines/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 103,
+      "heat": 123,
       "tags": null,
       "images": [
         {
@@ -657,7 +701,7 @@
       "originalUrl": "https://www.financialexpress.com/industry/technology/artificial-intelligence-in-healthcare-intels-ai-tool-screens-patients-for-vision-loss/2283014/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 115,
+      "heat": 105,
       "tags": null,
       "images": [
         {
@@ -1204,57 +1248,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-03-4-ways-ai-is-unlocking-the-mysteries-of-the-universe.md",
-      "title": "4 ways AI is unlocking the mysteries of the universe",
-      "excerpt": "Astronomers are turning to artificial intelligence and machine learning to build new tools to rapidly search for the next big breakthrough.",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/news/4-ways-ai-unlocking-astronomy-mysteries-universe-syndication",
-      "originalUrl": "https://thenextweb.com/news/4-ways-ai-unlocking-astronomy-mysteries-universe-syndication",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 128,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F07%2FTriangulum-Galaxy-hed-guillermo-ferla-kEEl9csCutg-unsplash-copy.jpg&signature=1e81bded5339458e45332f6121f52366",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-03T03:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

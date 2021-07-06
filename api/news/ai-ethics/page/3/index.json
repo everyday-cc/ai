@@ -2,6 +2,59 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-06-02-the-potential-of-artificial-intelligence-to-bring-equity-in-health-care.md",
+      "title": "The potential of artificial intelligence to bring equity in health care",
+      "excerpt": "Nearly 1,400 joined MIT's AI for Health Care Equity Conference that explored new artificial intelligence technologies as a platform for change.",
+      "sourceUrl": null,
+      "webUrl": "https://news.mit.edu/2021/potential-artificial-intelligence-bring-equity-health-care-0601",
+      "originalUrl": "https://news.mit.edu/2021/potential-artificial-intelligence-bring-equity-health-care-0601",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://news.mit.edu/sites/default/files/images/202105/AI-Health-Care-Equity.png",
+          "width": 1500,
+          "height": 1000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-01T10:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Massachusetts Institute of Technology",
+        "domain": "mit.edu",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/mit.edu-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2021-06-01-what-artificial-intelligence-still-cant-do.md",
       "title": "What Artificial Intelligence Still Can’t Do",
       "excerpt": "Modern artificial intelligence is capable of wonders. It can produce breathtaking original content: poetry, prose, images, music, human faces. It can diagnose some medical conditions more accurately than a human physician.",
@@ -1400,49 +1453,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-05-ex-google-ai-scientist-joins-apple-after-resigning-in-protest-for-unfair-practices.md",
-      "title": "Ex Google AI scientist joins Apple after resigning in protest for unfair practices",
-      "excerpt": "Apple has hired a former Google AI scientist who resigned in protest against the firing of two employees from the Ethics division.",
-      "sourceUrl": null,
-      "webUrl": "https://www.industryleadersmagazine.com/ex-google-ai-scientist-joins-apple-after-resigning-in-protest-for-unfair-practices/",
-      "originalUrl": "https://www.industryleadersmagazine.com/ex-google-ai-scientist-joins-apple-after-resigning-in-protest-for-unfair-practices/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.industryleadersmagazine.com/wp-content/uploads/2020/09/Seoul-Apple-Garosugil-01242018-scaled-1.jpg",
-          "width": 2560,
-          "height": 1707,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.industryleadersmagazine.com/ex-google-ai-scientist-joins-apple-after-resigning-in-protest-for-unfair-practices/amp/",
-      "cdnAmpWebUrl": "https://www-industryleadersmagazine-com.cdn.ampproject.org/c/s/www.industryleadersmagazine.com/ex-google-ai-scientist-joins-apple-after-resigning-in-protest-for-unfair-practices/amp/",
-      "publishedDateTime": "2021-05-05T04:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Leadership",
-        "domain": "industryleadersmagazine.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

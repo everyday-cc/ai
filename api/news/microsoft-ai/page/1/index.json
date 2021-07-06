@@ -638,6 +638,58 @@
       ]
     },
     {
+      "path": "_news/2021-06-29-microsoft-brings-ai-to-github-to-create-a-smart-programing-copilot-tool.md",
+      "title": "Microsoft brings AI to GitHub to create a smart programing Copilot tool",
+      "excerpt": "Microsoft is making available a technical preview of a new Visual Studio Code extension that is designed to help programmers write code smarter and faster using AI technology from OpenAI.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/index.php/category/2381/index.php/article/microsoft-brings-ai-to-github-to-create-a-smart-programing-copilot-tool/",
+      "originalUrl": "https://www.zdnet.com/index.php/category/2381/index.php/article/microsoft-brings-ai-to-github-to-create-a-smart-programing-copilot-tool/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/hub/i/2021/06/29/bd54eff3-c9c7-4cf0-b714-606d46cc4cc7/githubcopilot.jpg",
+          "width": 1199,
+          "height": 478,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/index.php/category/2381/index.php/google-amp/article/microsoft-brings-ai-to-github-to-create-a-smart-programing-copilot-tool/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2381/index.php/google-amp/article/microsoft-brings-ai-to-github-to-create-a-smart-programing-copilot-tool/",
+      "publishedDateTime": "2021-06-29T04:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-29-best-python-course-2021-top-online-coding-classes.md",
       "title": "Best Python course 2021: Top online coding classes",
       "excerpt": "Programming language Python is undeniably a hot language to learn in 2021, and here are some of the best online sites where you can learn to code in it.",
@@ -1372,51 +1424,6 @@
       "topics": [
         "Microsoft AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-22-artificial-intelligence-ai-in-education-market-worth-observing-growth-knewton-microsoft-cognii.md",
-      "title": "Artificial Intelligence (AI) in Education Market Worth Observing Growth | Knewton, Microsoft, Cognii",
-      "excerpt": "The Global Artificial Intelligence AI in Education Market study describes how the technology industry is evolving and how major and emerging players in the industry are responding to long term opportunities and short term challenges they face One major attraction",
-      "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2310856/artificial-intelligence-ai-in-education-market-worth",
-      "originalUrl": "https://www.openpr.com/news/2310856/artificial-intelligence-ai-in-education-market-worth",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 113,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.openpr.com/U/6/U622407575_g.jpg",
-          "width": 604,
-          "height": 403,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2310856/artificial-intelligence-ai-in-education-market-worth",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2310856/artificial-intelligence-ai-in-education-market-worth",
-      "publishedDateTime": "2021-06-22T04:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "AI in Education",
-        "Microsoft AI"
       ]
     }
   ],

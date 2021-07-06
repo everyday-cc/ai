@@ -40,6 +40,22 @@ related:
         width: 400
         height: 303
         isCached: true
+  - title: "Technology and AI for humanitarian action are the need of the hour"
+    excerpt: "With the technology available to us, much more can be done to reduce losses from natural disasters, to make ourselves safer, and to make the world mor.."
+    publishedDateTime: 2021-07-06T03:44:00Z
+    webUrl: "https://cio.economictimes.indiatimes.com/news/strategy-and-management/technology-and-ai-for-humanitarian-action-are-the-need-of-the-hour/84162486"
+    ampWebUrl: "https://cio.economictimes.indiatimes.com/amp/news/strategy-and-management/technology-and-ai-for-humanitarian-action-are-the-need-of-the-hour/84162486"
+    cdnAmpWebUrl: "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/strategy-and-management/technology-and-ai-for-humanitarian-action-are-the-need-of-the-hour/84162486"
+    type: article
+    provider:
+      name: India Times
+      domain: indiatimes.com
+    quality: 57
+    images:
+      - url: "https://etimg.etb2bimg.com/thumb/msid-84162486,imgsize-51057,width-800,height-434,overlay-etcio/technology-and-ai-for-humanitarian-action-are-the-need-of-the-hour.jpg"
+        width: 800
+        height: 434
+        isCached: true
 
 secured: "7Z8GQ1iDDRTFFKi9tCj3cESE3RMNqswim7ZCOhUo4SH3tsa5hVTgNW148OVZM9+So4oK4yk7w0nRNIZku0mXWuj2WJa3bJztcTjslVKyAUpt50pQl2tPI6W1yI2Yy9WH39xjug7I0zBKy2gvX+I6ZTGwfytXkzU5OihFyjAsgfxNvvzkSB723Zr7LfvogMB2JB2db8vDQlgs5OO8ceJTZECADpUORyVte9ExXfJDLG6otvsgmaWO7Ov/BNpae2cxga16UVixNl3o9zmpHRLJHLbiz5EWTiUmt70xXdDrmQ017nvLUhWBBVmnYLe5MJK42JzIHbAuSrDpnpOUYa4WMM1QPxeWlvovE/oFzOqsaIjUOs3dJ6RMdZRPXpXbM46cvSExBIZ+Go09V+epEOknJQQBYSUKLb1wE1FDfpgbjkwFkj+X+WwRhQiafDHdt6WoOP27rcyyA2E72pBHVd1V7RWu4an6FyRstdoZwtLgmB9AYbzUwKHQeP4vej3lMuu2Fw7B5GqDS145FJoUHVvpUw==;P1xlpEt14qZLb3r18vdHzQ=="
 ---

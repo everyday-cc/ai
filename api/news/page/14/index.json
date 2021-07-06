@@ -2,6 +2,93 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2021-06-23-deepmind-wants-to-use-its-ai-to-cure-neglected-diseases.md",
+      "title": "DeepMind wants to use its AI to cure neglected diseases",
+      "excerpt": "In November 2020, Alphabet-owned AI firm DeepMind announced that it had cracked one of biology’s trickiest problems. For years the company had been working on an AI called AlphaFold that could ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.co.uk/article/deepmind-alphafold-protein-diseases",
+      "originalUrl": "https://www.wired.co.uk/article/deepmind-alphafold-protein-diseases",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.co.uk/photos/60d22392cbf316665cadeb09/master/pass/GettyImages-1199508481.jpg",
+          "width": 5335,
+          "height": 3557,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.co.uk/article/deepmind-alphafold-protein-diseases/amp",
+      "cdnAmpWebUrl": "https://www-wired-co-uk.cdn.ampproject.org/c/s/www.wired.co.uk/article/deepmind-alphafold-protein-diseases/amp",
+      "publishedDateTime": "2021-06-23T00:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired UK",
+        "domain": "wired.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-23-ai-in-healthcare-market-2021-may-see-potentially-high-growth-factors-deepmind-technologies-limited-ibm-corporation-intel-corporation.md",
+      "title": "AI in Healthcare Market 2021 May See Potentially High Growth Factors | DeepMind Technologies Limited, IBM Corporation, Intel Corporation",
+      "excerpt": "The AI in Healthcare Market report provides a detailed analysis of the major factors influencing the market growth, including the drivers, restraints, lucrative opportunities, technology advancements,",
+      "sourceUrl": null,
+      "webUrl": "https://ksusentinel.com/2021/06/23/ai-in-healthcare-market-2021-may-see-potentially-high-growth-factors-deepmind-technologies-limited-ibm-corporation-intel-corporation/",
+      "originalUrl": "https://ksusentinel.com/2021/06/23/ai-in-healthcare-market-2021-may-see-potentially-high-growth-factors-deepmind-technologies-limited-ibm-corporation-intel-corporation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://heraldkeeper.com/wp-content/uploads/2021/06/oie_APm0lt2Fko4P.jpg",
+          "width": 838,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-23T00:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Sentinel",
+        "domain": "ksusentinel.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2021-06-23-yotta-launches-virtual-pro-workstations-for-3d-architectural-designs-ai-ml.md",
       "title": "Yotta Launches Virtual Pro Workstations for 3D architectural designs, AI, ML",
       "excerpt": "Path-breaking combination of virtual GPU and advanced VDI technology, to deliver extreme performance for video editing, graphics design, 3D architectural designs, AI, ML and more.",
@@ -770,41 +857,6 @@
       ]
     },
     {
-      "path": "_news/2021-06-22-state-street-leverages-machine-learning-to-streamline-private-markets-processing-and-document-management-through-partnership-with-canoe-intelligence.md",
-      "title": "State Street Leverages Machine Learning to Streamline Private Markets Processing and Document Management Through Partnership with Canoe Intelligence",
-      "excerpt": "State Street Corporation today announced it will implement a cloud-based, machine learning technology to transform private markets processing and docu",
-      "sourceUrl": null,
-      "webUrl": "https://www.businesswire.com/news/home/20210622005654/en/State-Street-Leverages-Machine-Learning-to-Streamline-Private-Markets-Processing-and-Document-Management-Through-Partnership-with-Canoe-Intelligence",
-      "originalUrl": "https://www.businesswire.com/news/home/20210622005654/en/State-Street-Leverages-Machine-Learning-to-Streamline-Private-Markets-Processing-and-Document-Management-Through-Partnership-with-Canoe-Intelligence",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-22T09:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
       "path": "_news/2021-06-22-the-new-groups-ai-control-from-facebook-a-good-measure-or-more-uncertainty.md",
       "title": "The New Groups AI Control From Facebook: A Good Measure Or More Uncertainty?",
       "excerpt": "Although, it seems like a tough ask but many new innovations have been springing up and that says a lot about the influence of technology. Facebook made the announcement in a post shared on it blog and said they are pushing out a number of software tools to help the over 50million people who are on the platform and also moderate on it.",
@@ -1103,58 +1155,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-22-google-says-ai-and-analytics-can-take-its-cloud-to-the-next-level.md",
-      "title": "Google says AI and analytics can take its cloud to the next level",
-      "excerpt": "Google believes that artificial intelligence ( AI) and data analytics are the key technologies that will be the impetus behind their cloud computing business going forward. In an interview on the sidelines of the Qatar Economic Forum,",
-      "sourceUrl": null,
-      "webUrl": "https://www.techradar.com/in/news/google-says-ai-and-analytics-will-help-take-its-cloud-to-the-next-level",
-      "originalUrl": "https://www.techradar.com/in/news/google-says-ai-and-analytics-will-help-take-its-cloud-to-the-next-level",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 199,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/TTiZmapEoTEgNmiUGUdSUf-480-80.jpg",
-          "width": 480,
-          "height": 270,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techradar.com/in/amp/news/google-says-ai-and-analytics-will-help-take-its-cloud-to-the-next-level",
-      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/in/amp/news/google-says-ai-and-analytics-will-help-take-its-cloud-to-the-next-level",
-      "publishedDateTime": "2021-06-22T07:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

@@ -57,6 +57,34 @@ related:
         width: 738
         height: 369
         isCached: true
+  - title: "Elon Musk Admits That Full-Self Driving Is a Hard Problem To Solve"
+    excerpt: "CEO Elon Musk admitted this weekend that creating a car that is truly self-driving is a “hard problem” to solve. Musk has been promising to release Full Self-Driving software upgrades for several years,"
+    publishedDateTime: 2021-07-06T02:01:00Z
+    webUrl: "https://hypebeast.com/2021/7/elon-musk-full-self-driving-hard-problem-to-solve"
+    type: article
+    provider:
+      name: Hypebeast
+      domain: hypebeast.com
+    quality: 39
+    images:
+      - url: "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2021%2F07%2FElon-Musk-Admits-That-Full-Self-Driving-Is-a-Hard-Problem-To-Solve-tw.jpg?w=960&cbr=1&q=90&fit=max"
+        width: 960
+        height: 480
+        isCached: true
+  - title: "Musk: making self-driving cars is difficult"
+    excerpt: "Tesla CEO Elon Musk has admitted creating fully autonomous vehicles is more difficult than he expected at a time when his company is facing greater public scrutiny for Autopilot accidents. “Generalised self-driving is a hard problem,"
+    publishedDateTime: 2021-07-06T02:10:00Z
+    webUrl: "https://ia.acs.org.au/article/2021/musk--making-self-driving-cars-is-difficult.html"
+    type: article
+    provider:
+      name: acs.org.au
+      domain: acs.org.au
+    quality: 24
+    images:
+      - url: "https://ia.acs.org.au/content/dam/ia/article/images/2021/tesla%20factory%20cars.jpg"
+        width: 675
+        height: 380
+        isCached: true
   - title: "Elon Musk says he didn’t expect creating self-driving cars would be ‘so hard’"
     excerpt: "Elon Musk has admitted that delivering full self-driving software has been harder than he anticipated, to a chorus of both complaints and encouragement on Twitter. “Generalised self-driving is a hard problem,"
     publishedDateTime: 2021-07-05T18:16:00Z

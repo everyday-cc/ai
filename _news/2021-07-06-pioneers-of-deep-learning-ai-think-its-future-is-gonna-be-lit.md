@@ -7,7 +7,7 @@ originalUrl: "https://thenextweb.com/news/pioneers-deep-learning-future-lit-synd
 webUrl: "https://thenextweb.com/news/pioneers-deep-learning-future-lit-syndication"
 type: article
 quality: 84
-heat: 84
+heat: 85
 published: true
 
 provider:

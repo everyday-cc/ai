@@ -2,6 +2,50 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-07-06-deepminds-scientist-sparks-fresh-debate-over-ai-ethics.md",
+      "title": "DeepMind’s Scientist Sparks Fresh Debate Over AI Ethics",
+      "excerpt": "Raia Hadsell, a researcher at DeepMind, appeared in a virtual tech summit to shed light on the ethics in the field of artificial intelligence.",
+      "sourceUrl": null,
+      "webUrl": "https://analyticsindiamag.com/deepminds-scientist-sparks-fresh-debate-over-ai-ethics/",
+      "originalUrl": "https://analyticsindiamag.com/deepminds-scientist-sparks-fresh-debate-over-ai-ethics/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://analyticsindiamag.com/wp-content/uploads/2021/07/deepmind.jpg",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-05T20:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Analytics India Magazine",
+        "domain": "analyticsindiamag.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics",
+        "Google AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-05-ai-legislation-must-address-bias-in-algorithmic-decision-making-systems.md",
       "title": "AI legislation must address bias in algorithmic decision-making systems",
       "excerpt": "One promising bill proposes a cross-government investigation into discriminatory algorithmic processes throughout the economy.",
@@ -1422,58 +1466,6 @@
       "topics": [
         "AI Ethics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-21-atlas-of-ai-book-review-mapping-out-the-total-cost-of-artificial-intelligence.md",
-      "title": "Atlas of AI, book review: Mapping out the total cost of artificial intelligence",
-      "excerpt": "AI is about much more than algorithms, argues Kate Crawford in Atlas of AI, which examines the entire supply chain that drives it, and the effects on people and the planet.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/atlas-of-ai-book-review-mapping-out-the-total-cost-of-artificial-intelligence/",
-      "originalUrl": "https://www.zdnet.com/article/atlas-of-ai-book-review-mapping-out-the-total-cost-of-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 100,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/hub/i/2021/06/21/f2e22fd2-436f-4d3d-87fa-ce220981b250/atlas-of-ai-book-main.jpg",
-          "width": 423,
-          "height": 620,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/atlas-of-ai-book-review-mapping-out-the-total-cost-of-artificial-intelligence/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/atlas-of-ai-book-review-mapping-out-the-total-cost-of-artificial-intelligence/",
-      "publishedDateTime": "2021-06-21T00:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
       ]
     }
   ],

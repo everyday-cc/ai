@@ -2,6 +2,100 @@
   "page": 19,
   "value": [
     {
+      "path": "_news/2021-06-19-what-googles-ai-designed-chip-tells-us-about-the-nature-of-intelligence.md",
+      "title": "What Google’s AI-designed chip tells us about the nature of intelligence",
+      "excerpt": "The experiment, which uses artificial intelligence to develop chip floorplans, is a brilliant example of human intelligence and AI in synergy.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/news/what-google-ai-designed-chip-tells-nature-intelligence-syndication",
+      "originalUrl": "https://thenextweb.com/news/what-google-ai-designed-chip-tells-nature-intelligence-syndication",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 93,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F06%2FGoogle-Cloud-TPU-AI-Servers-hed.jpg&signature=d0eb94d0569075001196ad197678f98b",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-19T03:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2021-06-19-artificial-intelligence-run-mayflower-suffers-mechanical-problem-returns-to-england.md",
+      "title": "Artificial-intelligence-run Mayflower suffers mechanical problem, returns to England",
+      "excerpt": "The robotic, artificial ... and fix a minor mechanical issue,” with the hopes of sending the ship on its way across the Atlantic as soon as possible. The 50-foot long Mayflower Autonomous ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nydailynews.com/news/world/ny-artificial-intelligence-mayflower-mechanical-problem-england-20210619-xhyxpoyeifaevggfkh2xvrmmzy-story.html",
+      "originalUrl": "https://www.nydailynews.com/news/world/ny-artificial-intelligence-mayflower-mechanical-problem-england-20210619-xhyxpoyeifaevggfkh2xvrmmzy-story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.nydailynews.com/resizer/AvnDntBdtmbJnm_Am2zaT_HrMhQ=/1200x0/center/bottom/cloudfront-us-east-1.images.arcpublishing.com/tronc/HHWQOQ5X2NCGBCBJAAE65EEHK4.jpg",
+          "width": 1200,
+          "height": 757,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nydailynews.com/news/world/ny-artificial-intelligence-mayflower-mechanical-problem-england-20210619-xhyxpoyeifaevggfkh2xvrmmzy-story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-nydailynews-com.cdn.ampproject.org/c/s/www.nydailynews.com/news/world/ny-artificial-intelligence-mayflower-mechanical-problem-england-20210619-xhyxpoyeifaevggfkh2xvrmmzy-story.html?outputType=amp",
+      "publishedDateTime": "2021-06-18T23:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Daily News",
+        "domain": "nydailynews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-19-bidens-ai-initiative-will-it-work.md",
       "title": "Biden’s AI Initiative: Will It Work?",
       "excerpt": "It has a good chance of working. The program has a decent budget and there is a focus on unleashing government data.",
@@ -1095,108 +1189,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-18-the-huge-market-failure-of-ai-and-the-sequence-of-events-that-led-us-to-it-part-2.md",
-      "title": "The Huge Market Failure Of AI And The Sequence Of Events That Led Us To It (Part 2)",
-      "excerpt": "Here's why the demand for proof of concepts (POCs) took us off the rails, what the core barriers of AI in production are and what we can do to overcome them.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/06/18/the-huge-market-failure-of-ai-and-the-sequence-of-events-that-led-us-to-it-part-2/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/06/18/the-huge-market-failure-of-ai-and-the-sequence-of-events-that-led-us-to-it-part-2/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60cb63e75e0192631f764df6%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/06/18/the-huge-market-failure-of-ai-and-the-sequence-of-events-that-led-us-to-it-part-2/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/06/18/the-huge-market-failure-of-ai-and-the-sequence-of-events-that-led-us-to-it-part-2/amp/",
-      "publishedDateTime": "2021-06-18T04:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-18-ai-driven-hedge-fund-rules-out-bitcoin-for-lack-of-fundamentals.md",
-      "title": "AI-Driven Hedge Fund Rules Out Bitcoin for Lack of ‘Fundamentals’",
-      "excerpt": "A Swedish hedge fund that returned roughly four times the industry average last year using artificial intelligence won’t touch Bitcoin, based on an assessment that the cryptocurrency doesn’t lend itself to sensible analysis.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/news/articles/2021-06-18/hedge-fund-volt-spells-out-bitcoin-exclusion-after-beating-peers",
-      "originalUrl": "https://www.bloomberg.com/news/articles/2021-06-18/hedge-fund-volt-spells-out-bitcoin-exclusion-after-beating-peers",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iyeukPTnpzDU/v0/1200x800.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-18T04:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

@@ -1,0 +1,60 @@
+---
+category: news
+title: "Technology and AI for humanitarian action are the need of the hour"
+excerpt: "With the technology available to us, much more can be done to reduce losses from natural disasters, to make ourselves safer, and to make the world mor.."
+publishedDateTime: 2021-07-06T03:44:00Z
+originalUrl: "https://cio.economictimes.indiatimes.com/news/strategy-and-management/technology-and-ai-for-humanitarian-action-are-the-need-of-the-hour/84162486"
+webUrl: "https://cio.economictimes.indiatimes.com/news/strategy-and-management/technology-and-ai-for-humanitarian-action-are-the-need-of-the-hour/84162486"
+ampWebUrl: "https://cio.economictimes.indiatimes.com/amp/news/strategy-and-management/technology-and-ai-for-humanitarian-action-are-the-need-of-the-hour/84162486"
+cdnAmpWebUrl: "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/strategy-and-management/technology-and-ai-for-humanitarian-action-are-the-need-of-the-hour/84162486"
+type: article
+quality: 57
+heat: -1
+published: false
+
+provider:
+  name: India Times
+  domain: indiatimes.com
+
+topics:
+  - AI
+
+images:
+  - url: "https://etimg.etb2bimg.com/thumb/msid-84162486,imgsize-51057,width-800,height-434,overlay-etcio/technology-and-ai-for-humanitarian-action-are-the-need-of-the-hour.jpg"
+    width: 800
+    height: 434
+    isCached: true
+
+related:
+  - title: "Pearl Granted Patent for AI Dental Radiology Technology"
+    excerpt: "Pearl, the leader in AI solutions for efficiency, accuracy, and consistency in dental care, today announced that the United States Patent Office has issued U.S. Patent No. 10,984,529 entitled \"Systems and methods for automated medical image annotation."
+    publishedDateTime: 2021-07-01T16:00:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/pearl-granted-patent-for-ai-dental-radiology-technology-1030572057"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 67
+    images:
+      - url: "https://mma.prnewswire.com/media/1039359/Pearl_Logo.jpg"
+        width: 400
+        height: 303
+        isCached: true
+  - title: "Adversa AI Red Team Introduces Technology for Ethical Hacking of Facial Recognition Systems"
+    excerpt: "The Adversa AI Red Team has performed a proof-of-concept attack on PimEyes, the most popular and advanced public picture face search engine. FREMONT, CA: Adversa AI, a trusted AI research leader, has presented a novel attack method for AI facial recognition applications."
+    publishedDateTime: 2021-07-02T13:57:00Z
+    webUrl: "https://www.cioapplications.com/news/adversa-ai-red-team-introduces-technology-for-ethical-hacking-of-facial-recognition-systems--nid-8028.html"
+    type: article
+    provider:
+      name: CIO Applications
+      domain: cioapplications.com
+    quality: 61
+    images:
+      - url: "https://www.cioapplications.com/newstransfer/upload/m2u1g450308.jpg"
+        width: 450
+        height: 308
+        isCached: true
+
+secured: "COj9+ooiLUX+E7OfHUs6if5QBJtRja+uEz/ldYDu7w/1SLt3isnpM71l71ztIym0asn5N8I3lxVkh0hwXuKvvzCZKDDC8hBqu/9L2R2jY1R3oO4qhqrMlIgRXfuJ2AegqggyE8/WWZd4nHsZhW3D2n6yNvAjwVgVZQSsDaVU4EeKZoTIifXaeXLQxBt08t5F+kqB0NMLAabmtPtV5kzZsolGv+C1xdx1PHTjoiTJAHOM07T7bSiPX2FbPZ/82BxGrGYD/1/H1pq7Ch9OZdfWm+rK6ROilvFNHqqAupSkoUojG/ssjrFJQcJREx0gGuSki8j6odLETSsGyQFeubj7Fnl+FRcVnMCh9XcNiXajdbA=;mmisQtWBivgcOQ80ClDiPA=="
+---
+
