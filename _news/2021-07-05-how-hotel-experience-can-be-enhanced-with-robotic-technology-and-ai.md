@@ -24,30 +24,65 @@ images:
     isCached: true
 
 related:
-  - title: "Enhance Your Career with Artificial Intelligence Course"
-    excerpt: "Artificial intelligence is considered to be one of the most disruptive technologies that exist today. Know about Artificial Intelligence course here."
-    publishedDateTime: 2021-07-02T08:31:00Z
-    webUrl: "https://www.pcquest.com/enhance-career-artificial-intelligence-course/"
-    ampWebUrl: "https://www.pcquest.com/enhance-career-artificial-intelligence-course/amp/"
-    cdnAmpWebUrl: "https://www-pcquest-com.cdn.ampproject.org/c/s/www.pcquest.com/enhance-career-artificial-intelligence-course/amp/"
+  - title: "Technology and AI for humanitarian action are the need of the hour"
+    excerpt: "With the technology available to us, much more can be done to reduce losses from natural disasters, to make ourselves safer, and to make the world mor.."
+    publishedDateTime: 2021-07-06T03:44:00Z
+    webUrl: "https://cio.economictimes.indiatimes.com/news/strategy-and-management/technology-and-ai-for-humanitarian-action-are-the-need-of-the-hour/84162486"
+    ampWebUrl: "https://cio.economictimes.indiatimes.com/amp/news/strategy-and-management/technology-and-ai-for-humanitarian-action-are-the-need-of-the-hour/84162486"
+    cdnAmpWebUrl: "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/strategy-and-management/technology-and-ai-for-humanitarian-action-are-the-need-of-the-hour/84162486"
     type: article
     provider:
-      name: PCQuest
-      domain: pcquest.com
-    quality: 39
-  - title: "Think You Could Win an Autonomous Car Race on an Artificial Intelligence Controlled Course?"
-    excerpt: "Most of us have played video race games with varying degrees of sophistication. But few have raced on artificial intelligence powered virtual autonomous vehicle track – until now."
-    publishedDateTime: 2021-07-05T17:42:00Z
-    webUrl: "https://www.plasticstoday.com/automotive-and-mobility/think-you-could-win-autonomous-car-race-artificial-intelligence-controlled"
-    type: article
-    provider:
-      name: Plastics Today
-      domain: plasticstoday.com
-    quality: 27
+      name: India Times
+      domain: indiatimes.com
+    quality: 57
     images:
-      - url: "https://www.plasticstoday.com/sites/plasticstoday.com/files/AdobeStock_136495346.jpeg"
-        width: 1540
-        height: 800
+      - url: "https://etimg.etb2bimg.com/thumb/msid-84162486,imgsize-51057,width-800,height-434,overlay-etcio/technology-and-ai-for-humanitarian-action-are-the-need-of-the-hour.jpg"
+        width: 800
+        height: 434
+        isCached: true
+  - title: "How AI is serving up aces at Wimbledon – and what the technology means for the future of sport"
+    excerpt: "“Each day, hundreds of hours of footage are produced [at Wimbledon], which would ordinarily take a team of editors a huge amount of time to compile into highlights packages,” IBM says in its film, How does AI identify match highlights? Instead, Watson ..."
+    publishedDateTime: 2021-07-02T17:30:00Z
+    webUrl: "https://europeansting.com/2021/07/02/how-ai-is-serving-up-aces-at-wimbledon-and-what-the-technology-means-for-the-future-of-sport/"
+    ampWebUrl: "https://europeansting.com/2021/07/02/how-ai-is-serving-up-aces-at-wimbledon-and-what-the-technology-means-for-the-future-of-sport/amp/"
+    cdnAmpWebUrl: "https://europeansting-com.cdn.ampproject.org/c/s/europeansting.com/2021/07/02/how-ai-is-serving-up-aces-at-wimbledon-and-what-the-technology-means-for-the-future-of-sport/amp/"
+    type: article
+    provider:
+      name: europeansting.com
+      domain: europeansting.com
+    quality: 47
+    images:
+      - url: "https://europeansting.files.wordpress.com/2021/07/tennis.jpeg"
+        width: 670
+        height: 1001
+        isCached: true
+  - title: "Artificial Intelligence used on Army operation for the first time"
+    excerpt: "The British Army has used Artificial Intelligence (AI) for the first time during Exercise Spring Storm, as part of Operation Cabrit in Estonia."
+    publishedDateTime: 2021-07-05T13:56:00Z
+    webUrl: "https://www.gov.uk/government/news/artificial-intelligence-used-on-army-operation-for-the-first-time"
+    type: article
+    provider:
+      name: gov.uk
+      domain: www.gov.uk
+    quality: 37
+    images:
+      - url: "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/image_data/file/125727/s960_Op_CABRIT_June_2021.jpg"
+        width: 960
+        height: 640
+        isCached: true
+  - title: "Artificial Intelligence used on Army operation for the first time"
+    excerpt: "Artificial Intelligence used on Army operation for the first time. The British Army has used Artificial Intelligence (AI) for the first time during Exercise Spring Storm, as part"
+    publishedDateTime: 2021-07-06T03:25:00Z
+    webUrl: "https://www.globalsecurity.org/wmd/library/news/uk/2021/uk-210705-ukmod01.htm"
+    type: article
+    provider:
+      name: GlobalSecurity.org
+      domain: globalsecurity.org
+    quality: 37
+    images:
+      - url: "https://www.globalsecurity.org/images/temp/one-billion-americans.jpg"
+        width: 675
+        height: 313
         isCached: true
 
 secured: "5c3UJ+d8Q7prr8gCH7QP055rDUBBCeXNy2Mi2ynmUWie3mrXpLcyc/peopVx0P4VBdGL9vgM20Pndw6Ok/Xqlr68El2hFVuV0BpUBjsFU7vOabSd0px8cBJPjDKmNjKfxJIJKKBMkxwX4WZ1yqv56Bqf9bBvrXLSG0e1g6qHzO/q01iDQWnlpCaA9yb+rttvHEexVXBWqiMJG4x2V1EDxBGiELP9RY0nKD89E+6uSBYOythCTLtr+9hWyw5hOtfggNcXeEnT6n2i8aQJ5gfb2irBZq4R8weQVG1NTuskgkJeyM5QzhJTWbwfOpUvbJY8PWkr4+Tzt0lk0snMp8NLAEyVlavUv0wQo7kccEl4jX0=;TwjM83wi2IJlFlORyxlaQA=="

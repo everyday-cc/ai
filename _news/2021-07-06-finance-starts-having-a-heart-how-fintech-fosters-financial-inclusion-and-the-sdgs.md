@@ -9,7 +9,7 @@ ampWebUrl: "https://www.business2community.com/finance/finance-starts-having-a-h
 cdnAmpWebUrl: "https://www-business2community-com.cdn.ampproject.org/c/s/www.business2community.com/finance/finance-starts-having-a-heart-how-fintech-fosters-financial-inclusion-and-the-sdgs-02416807/amp"
 type: article
 quality: 53
-heat: 53
+heat: 63
 published: false
 
 provider:
@@ -25,6 +25,24 @@ images:
     width: 900
     height: 607
     isCached: true
+
+related:
+  - title: "Fintech for a Better Future: 5 Trends that Are Improving Financial Service"
+    excerpt: "For many people, financial technology is somewhat incidental. It’s a passing part of daily life: we interact with fintech when we send money online, check our bank balances with our mobile phones, or use an app to buy cryptocurrency."
+    publishedDateTime: 2021-07-06T09:54:00Z
+    webUrl: "https://www.financemagnates.com/cryptocurrency/news/fintech-for-a-better-future-5-trends-that-are-improving-financial-service/"
+    ampWebUrl: "https://www.financemagnates.com/cryptocurrency/news/fintech-for-a-better-future-5-trends-that-are-improving-financial-service/amp/"
+    cdnAmpWebUrl: "https://www-financemagnates-com.cdn.ampproject.org/c/s/www.financemagnates.com/cryptocurrency/news/fintech-for-a-better-future-5-trends-that-are-improving-financial-service/amp/"
+    type: article
+    provider:
+      name: Finance Magnates
+      domain: financemagnates.com
+    quality: 42
+    images:
+      - url: "https://www.financemagnates.com/wp-content/uploads/2020/02/fintech-industry.jpg"
+        width: 880
+        height: 400
+        isCached: true
 
 secured: "cKUEU5GrABUfGZNNqd+ZqHiPR9uoEJIXlCrfN6nWrsfBBHt7INnHH1XySPcc1U0dQ70V8tyhUkHGbjyO+7tMUK7vW9mJ10BBtStCmeibDExqZhsEA4ApVoT2UxZegVgmw1zE+Z+Xd68UBusF9uWf2syOSk9/2iueMoCpTAB/kX4Lu2nLlLOElL2Ixsw65HA9qIHDk3Y2FIqGAwUq0lOocxGfKaF9veNONqBhif4wYOss2qfHKve5ajjJa2PqZ0NCJ7rrOrCY4Tu4gtxVpg18HtWRiD/k/kSIXAIvQDcZogg9GTy0NgharmaCXWq+LXaNaQxCC6gAvltKBL4WyRV1Ldj1ASfx1GKOeU2EMnvrj54BADnQhuk+IGWPvuEC0TaWpeyqxE8LEUluuwFWf3jaGFUHujTUg9p0YeurB4/hnDECKXPiNXW+6RsDkhZelFkMr3eYWkFRw9Y1aIBRw5xt0Buj9gCZ23oLkf7fqjLOlfqWoCF102M6HZpZVjnbGY5HZ3m2u9IXKuRYWBuRizMU/g==;TCvz2CthXKM3uYJiP+DjBA=="
 ---

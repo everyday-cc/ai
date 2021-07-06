@@ -2,21 +2,21 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2021-07-06-ai-bot-trolls-politicians-with-how-much-time-theyre-looking-at-phones.md",
-      "title": "AI Bot Trolls Politicians With How Much Time They're Looking At Phones",
-      "excerpt": "Sure, we've all snuck a look at our phones in dull meetings. But if you're working on the taxpayer's dime, you'd better be ready for artificial intelligence to call you out for gawping at the black mirror in the legislature when you should be,",
+      "path": "_news/2021-07-06-conversational-ai-vs-chatbots-whats-the-difference.md",
+      "title": "Conversational AI Vs Chatbots: What's the Difference?",
+      "excerpt": "Both chatbots and conversational AI chatbots focus on offering the customer better assistance and helping the business reduce the cost",
       "sourceUrl": null,
-      "webUrl": "https://in.mashable.com/culture/23321/ai-bot-trolls-politicians-with-how-much-time-theyre-looking-at-phones",
-      "originalUrl": "https://in.mashable.com/culture/23321/ai-bot-trolls-politicians-with-how-much-time-theyre-looking-at-phones",
+      "webUrl": "https://www.entrepreneur.com/article/376480",
+      "originalUrl": "https://www.entrepreneur.com/article/376480",
       "featuredContent": null,
       "highlight": null,
       "heat": 87,
       "tags": null,
       "images": [
         {
-          "url": "https://sm.mashable.com/t/mashable_in/article/1/13-memorab/13-memorable-moments-when-people-stood-up-for-the-least-powe_n7ks.600.jpg",
-          "width": 599,
-          "height": 397,
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/1625559744-artificial-intelligence-3382507-19205.jpg?width=600&crop=16:9",
+          "width": 600,
+          "height": 338,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,14 +24,23 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://in.mashable.com/culture/23321/ai-bot-trolls-politicians-with-how-much-time-theyre-looking-at-phones?amp=1",
-      "cdnAmpWebUrl": "https://in-mashable-com.cdn.ampproject.org/c/s/in.mashable.com/culture/23321/ai-bot-trolls-politicians-with-how-much-time-theyre-looking-at-phones?amp=1",
-      "publishedDateTime": "2021-07-05T22:20:00-07:00",
+      "ampWebUrl": "https://www.entrepreneur.com/amphtml/376480",
+      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/376480",
+      "publishedDateTime": "2021-07-06T01:22:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Mashable",
-        "domain": "mashable.com",
-        "images": null,
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -44,6 +53,58 @@
       ]
     },
     {
+      "path": "_news/2021-07-06-artificial-intelligence-in-healthcare-market-size-share-value-and-competitive-landscape-2021-2026.md",
+      "title": "Artificial Intelligence in Healthcare market Size, Share, Value, And Competitive Landscape 2021-2026",
+      "excerpt": "Artificial intelligence (AI) is the collection of computer programs or algorithms or software to make machines smarter",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-size-share-value-and-competitive-landscape-2021-2026-2021-07-06",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-size-share-value-and-competitive-landscape-2021-2026-2021-07-06",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-06T00:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-06-artificial-intelligence-in-healthcare-market-with-impact-of-covid-19-global-demand-analysis-and-opportunity-outlook-2030.md",
       "title": "Artificial Intelligence In Healthcare Market With Impact of COVID-19 Global Demand Analysis And Opportunity Outlook 2030",
       "excerpt": "In a recent published report, Kenneth Research has updated the market report for Artificial Intelligence In Healthcare Market for 2021 till 2030. Report further now discusses; the various strategies to be adopted or being adopted by the business players across the globe at various levels in the value chain.",
@@ -52,7 +113,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-with-impact-of-covid-19-global-demand-analysis-and-opportunity-outlook-2030-2021-07-06",
       "featuredContent": null,
       "highlight": null,
-      "heat": 109,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -92,6 +153,48 @@
       ],
       "topics": [
         "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-06-technology-and-ai-for-humanitarian-action-are-the-need-of-the-hour.md",
+      "title": "Technology and AI for humanitarian action are the need of the hour",
+      "excerpt": "With the technology available to us, much more can be done to reduce losses from natural disasters, to make ourselves safer, and to make the world mor..",
+      "sourceUrl": null,
+      "webUrl": "https://cio.economictimes.indiatimes.com/news/strategy-and-management/technology-and-ai-for-humanitarian-action-are-the-need-of-the-hour/84162486",
+      "originalUrl": "https://cio.economictimes.indiatimes.com/news/strategy-and-management/technology-and-ai-for-humanitarian-action-are-the-need-of-the-hour/84162486",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://etimg.etb2bimg.com/thumb/msid-84162486,imgsize-51057,width-800,height-434,overlay-etcio/technology-and-ai-for-humanitarian-action-are-the-need-of-the-hour.jpg",
+          "width": 800,
+          "height": 434,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://cio.economictimes.indiatimes.com/amp/news/strategy-and-management/technology-and-ai-for-humanitarian-action-are-the-need-of-the-hour/84162486",
+      "cdnAmpWebUrl": "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/strategy-and-management/technology-and-ai-for-humanitarian-action-are-the-need-of-the-hour/84162486",
+      "publishedDateTime": "2021-07-05T20:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India Times",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
         "AI"
       ]
     },
@@ -296,48 +399,6 @@
       ]
     },
     {
-      "path": "_news/2021-07-05-british-army-uses-artificial-intelligence-for-first-time-in-impressive-live-drill.md",
-      "title": "British army uses Artificial Intelligence for first time in impressive live drill",
-      "excerpt": "ARTIFICIAL Intelligence (AI) has been used by the British Army for the first time during a live-firing drill in Estonia.",
-      "sourceUrl": null,
-      "webUrl": "https://www.express.co.uk/news/uk/1458614/uk-army-artificial-intelligence-AI-military-news",
-      "originalUrl": "https://www.express.co.uk/news/uk/1458614/uk-army-artificial-intelligence-AI-military-news",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.images.express.co.uk/img/dynamic/1/590x/British-troops-1458614.jpg?r=1625497782092",
-          "width": 590,
-          "height": 350,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.express.co.uk/news/uk/1458614/uk-army-artificial-intelligence-AI-military-news/amp",
-      "cdnAmpWebUrl": "https://www-express-co-uk.cdn.ampproject.org/c/s/www.express.co.uk/news/uk/1458614/uk-army-artificial-intelligence-AI-military-news/amp",
-      "publishedDateTime": "2021-07-05T08:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Daily Express",
-        "domain": "express.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-07-05-bytedance-is-selling-tiktoks-ai-platform-to-other-companies.md",
       "title": "ByteDance is selling TikTok's AI platform to other companies",
       "excerpt": "The artificial intelligence (AI) technology that powers the popular social media platform TikTok has been put on sale by parent company ByteDance. The Beijing-based company has spun off a new division called BytePlus with the aim of reportedly selling TikTok’s AI-powered tech to customers looking to replicate the video sharing platform's success in their ecommerce apps and services.",
@@ -346,7 +407,7 @@
       "originalUrl": "https://www.techradar.com/in/news/bytedance-is-selling-tiktoks-ai-platform-to-other-companies",
       "featuredContent": null,
       "highlight": null,
-      "heat": 197,
+      "heat": 207,
       "tags": null,
       "images": [
         {
@@ -544,7 +605,7 @@
       "originalUrl": "https://electrek.co/2021/07/05/elon-musk-admits-self-driving-harder-than-he-thought-tesla-troll-missed-deadlines/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 133,
+      "heat": 143,
       "tags": null,
       "images": [
         {
@@ -596,7 +657,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2021/07/05/ai-in-motion-three-guardrails-for-effective-implementation-in-transportation-and-beyond/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 97,
       "tags": null,
       "images": [
         {
@@ -989,6 +1050,92 @@
       ]
     },
     {
+      "path": "_news/2021-07-04-healthcare-an-ideal-jumping-off-point-for-artificial-intelligence-president-of-mbzuai.md",
+      "title": "Healthcare an ideal jumping-off point for Artificial Intelligence: President of MBZUAI",
+      "excerpt": "ABU DHABI - Professor Eric Xing, President of the Mohamed bin Zayed University of Artificial Intelligence (MBZUAI), has said that healthcare is an \"ideal jumping-off point for Artificial Intelligence (AI) because it generates so much data\".",
+      "sourceUrl": null,
+      "webUrl": "https://www.zawya.com/mena/en/business/story/Healthcare_an_ideal_jumpingoff_point_for_Artificial_Intelligence_President_of_MBZUAI-WAM20210704091733273/",
+      "originalUrl": "https://www.zawya.com/mena/en/business/story/Healthcare_an_ideal_jumpingoff_point_for_Artificial_Intelligence_President_of_MBZUAI-WAM20210704091733273/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.zawya.com/images/cia/zAmp/210624063038PGNY.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zawya.com/mena/en/story/amp/WAM20210704091733273/",
+      "cdnAmpWebUrl": "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/WAM20210704091733273/",
+      "publishedDateTime": "2021-07-04T02:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Zawya",
+        "domain": "zawya.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-04-ai-powered-therapy-bots-at-workplace-for-employees-during-covid-pandemic.md",
+      "title": "AI-powered therapy bots at workplace for employees during Covid pandemic",
+      "excerpt": "AI is better than humans at providing support, according to a study undertaken by Workplace Intelligence.  The future of work will be influenced by the past. Last year’s virus invasion changed everything for the workforce.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newindianexpress.com/magazine/2021/jul/04/ai-powered-therapy-bots-at-workplace-for-employees-during-covid-pandemic-2324136.html",
+      "originalUrl": "https://www.newindianexpress.com/magazine/2021/jul/04/ai-powered-therapy-bots-at-workplace-for-employees-during-covid-pandemic-2324136.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.newindianexpress.com/uploads/user/imagelibrary/2021/7/3/w600X390/robot.jpg",
+          "width": 600,
+          "height": 390,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newindianexpress.com/magazine/2021/jul/04/ai-powered-therapy-bots-at-workplace-for-employees-during-covid-pandemic-2324136.amp",
+      "cdnAmpWebUrl": "https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/magazine/2021/jul/04/ai-powered-therapy-bots-at-workplace-for-employees-during-covid-pandemic-2324136.amp",
+      "publishedDateTime": "2021-07-03T16:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The New Indian Express",
+        "domain": "newindianexpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2021-07-04-tesla-ai-chief-explains-why-self-driving-cars-dont-need-lidar.md",
       "title": "Tesla AI chief explains why self-driving cars don’t need lidar",
       "excerpt": "Tesla also owns and builds the AI chips installed inside its cars. “These chips are specifically designed for the neural networks we want to run for [full self-driving] applications,” Karpathy ...",
@@ -1081,162 +1228,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-03-lidar-is-the-gold-standard-of-robot-vacuum-navigation-but-its-not-perfect.md",
-      "title": "Lidar is the gold standard of robot vacuum navigation, but it’s not perfect",
-      "excerpt": "Today's robot vacuums offer intelligent navigation courtesy of lidar tech. But despite being the gold standard of robot vacuum navigation, it's not perfect.",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaltrends.com/home/lidar-gold-standard-robot-vacuum-navigation/",
-      "originalUrl": "https://www.digitaltrends.com/home/lidar-gold-standard-robot-vacuum-navigation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://icdn.digitaltrends.com/image/digitaltrends/360-robot-vacuum-cleaner-s10-4-of-8.jpg",
-          "width": 1500,
-          "height": 1000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.digitaltrends.com/home/lidar-gold-standard-robot-vacuum-navigation/?amp",
-      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/home/lidar-gold-standard-robot-vacuum-navigation/?amp",
-      "publishedDateTime": "2021-07-03T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Trends",
-        "domain": "digitaltrends.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-03-speech-recognition-software-market-next-big-thing-major-giants-google-microsoft-baidu.md",
-      "title": "Speech Recognition Software Market Next Big Thing | Major Giants Google, Microsoft, Baidu",
-      "excerpt": "The latest independent research document on Global Speech Recognition Software examine investment in Market. It describes",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/speech-recognition-software-market-next-big-thing-major-giants-google-microsoft-baidu-2021-07-03",
-      "originalUrl": "https://www.marketwatch.com/press-release/speech-recognition-software-market-next-big-thing-major-giants-google-microsoft-baidu-2021-07-03",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 212,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-03T05:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-03-could-ai-keep-people-alive-after-death.md",
-      "title": "Could AI Keep People ‘Alive’ After Death?",
-      "excerpt": "Experts are exploring ways artificial intelligence might confer a kind of digital immortality, preserving the personalities of the departed in virtual form and then allowing them to evolve.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/could-ai-keep-people-alive-after-death-11625317200",
-      "originalUrl": "https://www.wsj.com/articles/could-ai-keep-people-alive-after-death-11625317200",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-363809/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/could-ai-keep-people-alive-after-death-11625317200",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/could-ai-keep-people-alive-after-death-11625317200",
-      "publishedDateTime": "2021-07-03T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

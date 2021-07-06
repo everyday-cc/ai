@@ -76,6 +76,20 @@ related:
         width: 2405
         height: 1247
         isCached: true
+  - title: "Blockchain, Fintech and VFA revolution"
+    excerpt: "The Malta Financial Services Authority (MFSA) last year introduced its FinTech Regulatory Sandbox, which provides a controlled regulatory environment where FinTech operators may test their innovations"
+    publishedDateTime: 2021-07-06T08:39:00Z
+    webUrl: "https://www.independent.com.mt/articles/2021-07-06/business-news/Blockchain-Fintech-and-VFA-revolution-6736234977"
+    type: article
+    provider:
+      name: The Malta Independent
+      domain: independent.com.mt
+    quality: 39
+    images:
+      - url: "https://www.independent.com.mt/file.aspx?f=216430"
+        width: 709
+        height: 532
+        isCached: true
   - title: "5 reasons your team should attend Fintech & Insurtech Live"
     excerpt: "Join us from 12th - 14th October 2021 for the ultimate Fintech & Insurtech event, streamed live from London’s Tobacco Dock"
     publishedDateTime: 2021-07-02T16:04:00Z

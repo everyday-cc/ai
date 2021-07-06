@@ -50,6 +50,15 @@ related:
         width: 600
         height: 338
         isCached: true
+  - title: "Reply Shapes the Future of Autonomous Mobile Robots with the Power of Microsoft Azure"
+    excerpt: "Reply announced today that it has developed an end-to-end solution architecture for autonomous mobile robots (AMR) on Microsoft Azure that enables new"
+    publishedDateTime: 2021-07-06T07:30:00Z
+    webUrl: "https://www.businesswire.com/news/home/20210706005133/en/Reply-Shapes-the-Future-of-Autonomous-Mobile-Robots-with-the-Power-of-Microsoft-Azure"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 44
   - title: "Microsoft experiments with high-end machine learning on Xbox Series X"
     excerpt: "Microsoft is hiring new software engineers to help create new next-gen machine learning algorithms for Xbox Series X/S consoles."
     publishedDateTime: 2021-07-03T22:14:00Z
@@ -109,15 +118,6 @@ related:
       name: manometcurrent.com
       domain: manometcurrent.com
     quality: 28
-  - title: "Reply Shapes the Future of Autonomous Mobile Robots with the Power of Microsoft Azure"
-    excerpt: "Reply announced today that it has developed an end-to-end solution architecture for autonomous mobile robots (AMR) on Microsoft Azure that enables new"
-    publishedDateTime: 2021-07-06T07:30:00Z
-    webUrl: "https://www.businesswire.com/news/home/20210706005133/en/Reply-Shapes-the-Future-of-Autonomous-Mobile-Robots-with-the-Power-of-Microsoft-Azure"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 27
   - title: "States Voice Recognition for Smartphones Market to Witness Huge Growth by 2028 | Apple, Google, Microsoft"
     excerpt: "The research covers the current & Future market size of the Global States Voice Recognition for Smartphones market & its growth rates based on 8 year history data. It also covers various types of segmentation such as by geography [China, Japan, Korea ..."
     publishedDateTime: 2021-07-02T14:43:00Z

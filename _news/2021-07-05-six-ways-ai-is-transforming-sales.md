@@ -40,22 +40,6 @@ related:
         height: 640
         isCached: true
   - title: "Four ways artificial intelligence is helping us learn about the universe"
-    excerpt: "To take on these challenges, astronomers are turning to machine learning and artificial intelligence (AI) to build new tools to rapidly search for the next big breakthroughs. Here are four ways AI is helping astronomers."
-    publishedDateTime: 2021-07-01T16:07:00Z
-    webUrl: "https://theconversation.com/four-ways-artificial-intelligence-is-helping-us-learn-about-the-universe-163740"
-    ampWebUrl: "https://theconversation.com/amp/four-ways-artificial-intelligence-is-helping-us-learn-about-the-universe-163740"
-    cdnAmpWebUrl: "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/four-ways-artificial-intelligence-is-helping-us-learn-about-the-universe-163740"
-    type: article
-    provider:
-      name: The Conversation
-      domain: theconversation.com
-    quality: 56
-    images:
-      - url: "https://images.theconversation.com/files/409277/original/file-20210701-5537-pbg5fd.jpeg?ixlib=rb-1.1.0&q=45&auto=format&w=320&h=320&fit=crop"
-        width: 320
-        height: 320
-        isCached: true
-  - title: "Four ways artificial intelligence is helping us learn about the universe"
     excerpt: "Astronomy is all about data. The universe is getting bigger and so too is the amount of information we have about it. But some of the biggest challenges of the next generation of astronomy lie in just how we're going to study all the data we're collecting."
     publishedDateTime: 2021-07-02T13:30:00Z
     webUrl: "https://techxplore.com/news/2021-07-ways-artificial-intelligence-universe.html"

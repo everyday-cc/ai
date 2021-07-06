@@ -2,6 +2,58 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2021-05-07-tesla-is-more-cautious-about-full-self-driving-timeline-with-regulators-than-the-public-based-on-new-memo.md",
+      "title": "Tesla is more cautious about Full Self-Driving timeline with regulators than the public, based on new memo",
+      "excerpt": "Tesla is being a little more cautious about its Full Self-Driving timeline with regulators than with the public, according to a newly released memo from a meeting between Tesla and the California DMV.",
+      "sourceUrl": null,
+      "webUrl": "https://electrek.co/2021/05/07/tesla-cautious-full-self-driving-timeline-regulators-public-new-memo/",
+      "originalUrl": "https://electrek.co/2021/05/07/tesla-cautious-full-self-driving-timeline-regulators-public-new-memo/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i1.wp.com/electrek.co/wp-content/uploads/sites/3/2021/03/Tesla-full-self-driving.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://electrek.co/2021/05/07/tesla-cautious-full-self-driving-timeline-regulators-public-new-memo/amp/",
+      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/05/07/tesla-cautious-full-self-driving-timeline-regulators-public-new-memo/amp/",
+      "publishedDateTime": "2021-05-07T07:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Electrek",
+        "domain": "electrek.co",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-07-the-autonomous-vehicle-world-is-shrinking-its-overdue.md",
       "title": "The autonomous vehicle world is shrinking — it’s overdue",
       "excerpt": "After years of positive vibes about the future of autonomous vehicles and nearly unrestricted access to cash from Kool-Aid-drunk venture capitalists, the AV industry is confronting some hard truths. The first is that autonomous vehicles are going to take a lot longer to reach mass scale than previously thought.",
@@ -1285,58 +1337,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-03-baidu-launches-driverless-taxi-service-in-beijing.md",
-      "title": "Baidu launches driverless taxi service in Beijing",
-      "excerpt": "BEIJING — Chinese tech giant Baidu rolled out its paid driverless taxi service on ... Kelly Wang and her husband, who both work in the artificial intelligence industry, said they had a smooth ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/story/baidu-launches-driverless-taxi-service-in-beijing-01619996028",
-      "originalUrl": "https://www.marketwatch.com/story/baidu-launches-driverless-taxi-service-in-beijing-01619996028",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.mktw.net/im-333010/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.marketwatch.com/amp/story/baidu-launches-driverless-taxi-service-in-beijing-01619996028",
-      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/baidu-launches-driverless-taxi-service-in-beijing-01619996028",
-      "publishedDateTime": "2021-05-02T11:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

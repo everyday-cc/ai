@@ -24,51 +24,47 @@ images:
     isCached: true
 
 related:
-  - title: "Google Sold $2.5 Million In AI To The Pentagon For Its Covid-19 Recovery"
-    excerpt: "A previously-undisclosed deal with the Pentagon reveals Google sold AI tech for the DOD’s Covid-19 recovery. But, with no contractual “red line,” there were concerns it could have been repurposed for non-Covid military projects."
-    publishedDateTime: 2021-07-01T16:52:00Z
-    webUrl: "https://www.forbes.com/sites/thomasbrewster/2021/07/01/google-sold-millions-in-ai-to-support-the-pentagon-covid-19-recovery/"
-    ampWebUrl: "https://www.forbes.com/sites/thomasbrewster/2021/07/01/google-sold-millions-in-ai-to-support-the-pentagon-covid-19-recovery/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/thomasbrewster/2021/07/01/google-sold-millions-in-ai-to-support-the-pentagon-covid-19-recovery/amp/"
+  - title: "Artificial Intelligence In Healthcare Market With Impact of COVID-19 Global Demand Analysis And Opportunity Outlook 2030"
+    excerpt: "In a recent published report, Kenneth Research has updated the market report for Artificial Intelligence In Healthcare Market for 2021 till 2030. Report further now discusses; the various strategies to be adopted or being adopted by the business players across the globe at various levels in the value chain."
+    publishedDateTime: 2021-07-06T04:34:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-with-impact-of-covid-19-global-demand-analysis-and-opportunity-outlook-2030-2021-07-06"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 188
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 59
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60dc766f9b49abb41e383c3e%2F0x0.jpg"
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
-        height: 800
+        height: 630
         isCached: true
-  - title: "Artificial Intelligence Market in Education Sector | Post COVID-19 Analysis | Technavio"
-    excerpt: "Artificial Intelligence Market in the Education Sector: Significant scope of AI applications The rapid increase in classroom sizes has reduced the interaction between students and teachers."
-    publishedDateTime: 2021-07-01T20:13:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/artificial-intelligence-market-in-education-sector-post-covid-19-analysis-technavio-1030573399"
+  - title: "Artificial Intelligence in IoT Market Outlook to 2027 Emerging Trends and Will Generate New Growth Opportunities Status"
+    excerpt: "Jul 05, 2021 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry\" “Artificial Intelligence in IoT"
+    publishedDateTime: 2021-07-05T06:47:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-iot-market-outlook-to-2027-emerging-trends-and-will-generate-new-growth-opportunities-status-2021-07-05"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 76
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 43
     images:
-      - url: "https://mma.prnewswire.com/media/1555044/IRTNTR70660.jpg"
-        width: 400
-        height: 225
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "AI-powered therapy bots at workplace for employees during Covid pandemic"
-    excerpt: "AI is better than humans at providing support, according to a study undertaken by Workplace Intelligence.  The future of work will be influenced by the past. Last year’s virus invasion changed everything for the workforce."
-    publishedDateTime: 2021-07-03T23:30:00Z
-    webUrl: "https://www.newindianexpress.com/magazine/2021/jul/04/ai-powered-therapy-bots-at-workplace-for-employees-during-covid-pandemic-2324136.html"
-    ampWebUrl: "https://www.newindianexpress.com/magazine/2021/jul/04/ai-powered-therapy-bots-at-workplace-for-employees-during-covid-pandemic-2324136.amp"
-    cdnAmpWebUrl: "https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/magazine/2021/jul/04/ai-powered-therapy-bots-at-workplace-for-employees-during-covid-pandemic-2324136.amp"
+  - title: "Facial Recognition Market 2021, Top Leading Countries, Companies, Consumption, Trends, Forces Analysis, Revenue, Challenges and Global Forecast 2030"
+    excerpt: "In a recent published report, Kenneth Research has updated the market report for Facial Recognition Market for 2021"
+    publishedDateTime: 2021-07-05T05:18:00Z
+    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-market-2021-top-leading-countries-companies-consumption-trends-forces-analysis-revenue-challenges-and-global-forecast-2030-2021-07-05"
     type: article
     provider:
-      name: The New Indian Express
-      domain: newindianexpress.com
-    quality: 73
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 30
     images:
-      - url: "https://images.newindianexpress.com/uploads/user/imagelibrary/2021/7/3/w600X390/robot.jpg"
-        width: 600
-        height: 390
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "DCh14w67OywVQbAeukNSpX0UbZ5Q/ibW6zsRH/TaL0k9kUeO6yvmO8d6ZEs/W8MKawvRHcFBuAY+p4pOhLDKoqvksR5ccSZZa1EBTPM1rR18CSqlWgD4M8fN+NYoQ71AtKnj6iLsANFHmRLK87xJlITTvY2n0bxjg4UKQJA/2Wm6ByU6JwcdauV2g01Iq5FoJIExHWrsYbCqX+rzIZ0maF2XAywai6Mf5zsVRZK6gAPRz744W3gSIt7vy56SxFuxLH+ngLDSG6ZwwH9TUtLK8WgQT+9GurOux/TOv7t69AGX6CT6igfk6jLt/n3wqOVr4uTbiQ+33BvICvVvyO5f4Uhg8Ppa25N3AoLkPqDYCgg=;kH8IZAJhK29nKDJr3CIAxg=="

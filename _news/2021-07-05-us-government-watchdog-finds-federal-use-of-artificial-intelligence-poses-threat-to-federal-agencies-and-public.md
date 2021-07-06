@@ -23,17 +23,6 @@ images:
     height: 1066
     isCached: true
 
-related:
-  - title: "Report Finds Widespread Use of Facial Recognition Technology by Federal Agencies Could Pose Privacy Risk"
-    excerpt: "The report recommends that agencies track and assess the systems they use to mitigate the privacy and accuracy risks."
-    publishedDateTime: 2021-07-01T15:26:00Z
-    webUrl: "https://www.lawfareblog.com/report-finds-widespread-use-facial-recognition-technology-federal-agencies-could-pose-privacy-risk"
-    type: article
-    provider:
-      name: Lawfare
-      domain: lawfareblog.com
-    quality: 2
-
 secured: "A3D1UVqaoq0InjvuBSAymBj4ui90Op3jbdPRBoWL8HXoemy2FyR0546Q1ejCtqBQkuzwYPYqw6D/s7vgDXFJ4eXTW4Pr4vxKzBbWu3wBvXeq3JnP509ZYqWUo9aNz9RjbIU4iLANO7lPdtZt5K0M4EKE50Y3y6G4K+q177HTbWD7/T0o1l+iG00zHp0SzKTLdbHBKXsnHcFxANnnw8Kc/zFI+BCYaoxcbxW84vKnni4m5DQcnnH+T+A2dzK70DXKSyV8dUrvJv0hReSX7Y0VWjJpsSp7IGirvyig0NBYE5I1FJA0M6wMRVWONeTWvgAA/AjZyk3Zr1yp4rfa14xVND1PQSRdOKeihKkcmM2nfgk=;HlOvOw84FYAeJib3xpI1nw=="
 ---
 

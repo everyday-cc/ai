@@ -42,6 +42,20 @@ related:
         width: 1200
         height: 774
         isCached: true
+  - title: "New cross-border collaboration to boost innovation in Artificial Intelligence and Information Technology"
+    excerpt: "The ADAPT Centre at DCU and BT Ireland Innovation Centre at Ulster University sign a new partnership agreement that aims to support research mobility and innovation"
+    publishedDateTime: 2021-07-06T08:15:00Z
+    webUrl: "https://www.dcu.ie/commsteam/news/2021/jul/new-cross-border-collaboration-boost-innovation-artificial-intelligence-and"
+    type: article
+    provider:
+      name: DCU
+      domain: www.dcu.ie
+    quality: 20
+    images:
+      - url: "https://www.dcu.ie/themes/custom/dcuorange/themeAssets/DCU_logo_stacked_red-Adjusted120w.png"
+        width: 750
+        height: 819
+        isCached: true
 
 secured: "ECgC/OTg5Q0BUlcsYsum8ysqhGrLnJAqntghnuoRaoM5nMPKlCCvFT9HiosnmQ7d6qYUqUuENLw0/bNVHi6CorfvuNoqjpIj8qlHCmfe575oR+N0ExnfIIVsxGOVulRCodkoVzNvrlemYgtX8d7/335JSfWwa5Pk2OApXqWXEUOZfR8hhDcrd/729ZbL5EuZujNGqR62EcafxNHjPNOh1bMkoe4HALMSO9nn9yulSTIi1XFih9UoL7E4N0Hxm4gtJjyPS7wBRz4sSws2B7XE8QivEv05Y752E7A32pk5DOdLF8/8TJkWtXXxLC75kWUvFbpk9PjuUkVw85Sgh2p5pDrTwkWTrxV6SFUUz4jl3bstD46yK5ASHVMehe8Adc1Oqa5m5q+6SkkCQq2zlFXD29RLSpXdjpOVds+6JQGLGcbeEhM/8vJgnXxNlE2UTRJioMutbhyusEkzyCYZ5gs9fkGByhwDM7FeVxsrTo2XwWhSecVI6ov0coc8Fwfc5/wc6m90i9EjF3TYGd2j+KQadA==;9pt2G72zQak33Lm60Ao7uQ=="
 ---

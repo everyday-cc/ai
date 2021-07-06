@@ -9,7 +9,7 @@ ampWebUrl: "https://electrek.co/2021/07/05/elon-musk-admits-self-driving-harder-
 cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/07/05/elon-musk-admits-self-driving-harder-than-he-thought-tesla-troll-missed-deadlines/amp/"
 type: article
 quality: 73
-heat: 133
+heat: 143
 published: true
 
 provider:
@@ -119,6 +119,15 @@ related:
         width: 1200
         height: 900
         isCached: true
+  - title: "Developing safe self-driving car a 'hard problem', admits Musk"
+    excerpt: "Tesla CEO Elon Musk has finally admitted that developing a safe and reliable self-driving car is indeed a difficult task. In an earnings call in January, Musk had told investors that he was \"highly confident the car will be able to drive itself with reliability in excess of human this year\"."
+    publishedDateTime: 2021-07-06T09:55:00Z
+    webUrl: "https://news.webindia123.com/news/Articles/Science/20210706/3782572.html"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 4
 
 secured: "W9rE5ZLAaWdPR2eZhLaWuve7i2h+kCEPV/UaaW9WMgId6jcH7Xr6+kqDZVCps5LmjKNB/nbwPyth9hm8q/fQmie10Ad/SMwEj+KQZmxJF/MpQa/G+2qzcg5oYRilQnepl05B04o8loh506o+WNfvxht7onfxlRbkcLcFlORTb/qFg7EtUtgoe1koVKdTerI3UXP3stQG+2qcn99TYgiNOFjVEEylH3LxDXPjjZUwYcwinaD6D26ocDgwkKthuo/lFqL8LM9xxTvCgVP+K6YBFAFRfHI9B/6dz2rI/0po8xyIHnHrakxXz5zRJJk1uXuI0KFj9ToT9NEqptHbQH4y9vHXRNIefgaUMkGziCpkQDLUeafW1IARO11e5JbkDcMly8Q7sYZsh92xeqddcWwqoVQRHYMuJwC7/Sv5jGgSgs0GqhK6rzm9HR7AVY8e/hferC/B7CNnFcrUOU8LFDBl8cSMmBrdeJMBstMUdleM2XfaR4xXe9uzbgVOFK5BEJPM/fznJlJBQZ+f3/dLgoaIeg==;aKctNMZ7MW0vtwyH128Axg=="
 ---

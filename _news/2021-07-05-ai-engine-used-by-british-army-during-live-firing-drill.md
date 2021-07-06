@@ -40,34 +40,6 @@ related:
         width: 590
         height: 350
         isCached: true
-  - title: "Artificial Intelligence used on Army operation for the first time"
-    excerpt: "The British Army has used Artificial Intelligence (AI) for the first time during Exercise Spring Storm, as part of Operation Cabrit in Estonia."
-    publishedDateTime: 2021-07-05T13:56:00Z
-    webUrl: "https://www.gov.uk/government/news/artificial-intelligence-used-on-army-operation-for-the-first-time"
-    type: article
-    provider:
-      name: gov.uk
-      domain: www.gov.uk
-    quality: 37
-    images:
-      - url: "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/image_data/file/125727/s960_Op_CABRIT_June_2021.jpg"
-        width: 960
-        height: 640
-        isCached: true
-  - title: "Artificial Intelligence used on Army operation for the first time"
-    excerpt: "Artificial Intelligence used on Army operation for the first time. The British Army has used Artificial Intelligence (AI) for the first time during Exercise Spring Storm, as part"
-    publishedDateTime: 2021-07-06T03:25:00Z
-    webUrl: "https://www.globalsecurity.org/wmd/library/news/uk/2021/uk-210705-ukmod01.htm"
-    type: article
-    provider:
-      name: GlobalSecurity.org
-      domain: globalsecurity.org
-    quality: 37
-    images:
-      - url: "https://www.globalsecurity.org/images/temp/one-billion-americans.jpg"
-        width: 675
-        height: 313
-        isCached: true
 
 secured: "gHTQ/TtWMN8i0HD3+m6qCAK9CkW8X62xFwlPxICKExZPS/w7c6R4aQxo+6kbruoXemiNrRqLZ2+FIzMv9F0AqCBD7DSyySO5HclvlA4mkdL7ThNkQ8ywdmK6cwY/U40krE088HAPlBrjV9Zj/bCrSUz+H+zeamuhGrZpS/OdmicMKRHra5l2qj9i72ypvndHVGhHTEGLJ0P0f51qrqlh21mYUyf6VqVpNcs+jVPsCfyXw8fxCq94h2z7GDMXoKVyEl8tIevUwDTpAQCXH08WcOlGsIr3l7TKZYn+gTPPTKFTXueKZB+b4HpzjR1Wp8teuRjx+P3N6KoYa8b3qQHBksDorqzx4pvzm9RELorsDPQ=;NXr1IXL8jQpNwqo/EtQZ1A=="
 ---

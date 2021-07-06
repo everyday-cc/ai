@@ -63,15 +63,6 @@ related:
       name: ReportsnReports
       domain: reportsnreports.com
     quality: 9
-  - title: "Educational session on innovative behavioral analytics to be presented by viisights at ISC West"
-    excerpt: "The education session “Behavioral Recognition for Realtime Video Intelligence” will cover viisights advanced video analytics technology that is capable of understanding and recognizing an object’s behavior and interactions in a live video stream,"
-    publishedDateTime: 2021-07-01T15:06:00Z
-    webUrl: "https://www.securityinfowatch.com/isc-west/press-release/21228964/viisights-educational-session-on-innovative-behavioral-analytics-to-be-presented-by-viisights-at-isc-west"
-    type: article
-    provider:
-      name: Security
-      domain: securityinfowatch.com
-    quality: 0
 
 secured: "gjGM29DBQC4l3l8ojrDf4KhYRxaETNbFQ5l8DotAep4569zy3aD0gjfPu18TeBhiXYfUuKD1D3ldxrqx7oPj4AJ4okh+f0lIF6OMtfHT35G8391jDl6tCkffB1pdn0zLH0PPuqNPtPBtM+VzKcZ0Xi2TQxK1Y6pth/xHMQgauv0I4l/SRvggRNT6bO/DxXCi3LA3a7wrD6mTFNVO63N1Tcb7wuTGBaiJfOsM6xSvxqD9UwVz1dCXzXkYH4gKTOxZnqHiaedi2QFoFFtW9taH/8zGBSq8lYTjfthkwE+3Y2TwKtTUjiKerButdX4fmwqD9n2mfZmId+k2ksJtGQFl/3Y9ykAFCffIjK44wXXm1tM=;Jbuy8+xUoeodUrNsJdWvrw=="
 ---

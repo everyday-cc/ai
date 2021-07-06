@@ -2,6 +2,40 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-06-02-collaborative-contracting-can-help-combat-bias-in-ai.md",
+      "title": "Collaborative Contracting Can Help Combat Bias In AI",
+      "excerpt": "To mitigate bias in artificial intelligence technology amid pending EU and U.S. regulations, contracting companies should consider each party's role in controlling for bias, rather than applying binary liability allocations,",
+      "sourceUrl": null,
+      "webUrl": "https://www.law360.com/articles/1389441/collaborative-contracting-can-help-combat-bias-in-ai",
+      "originalUrl": "https://www.law360.com/articles/1389441/collaborative-contracting-can-help-combat-bias-in-ai",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.law360.com/amp/articles/1389441",
+      "cdnAmpWebUrl": "https://www-law360-com.cdn.ampproject.org/c/s/www.law360.com/amp/articles/1389441",
+      "publishedDateTime": "2021-06-01T13:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Law360",
+        "domain": "law360.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-02-the-potential-of-artificial-intelligence-to-bring-equity-in-health-care.md",
       "title": "The potential of artificial intelligence to bring equity in health care",
       "excerpt": "Nearly 1,400 joined MIT's AI for Health Care Equity Conference that explored new artificial intelligence technologies as a platform for change.",
@@ -1411,58 +1445,6 @@
       "topics": [
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2021-05-06-how-adobes-ethics-committee-helps-manage-ai-bias.md",
-      "title": "How Adobe’s Ethics Committee Helps Manage AI Bias",
-      "excerpt": "Review boards can help companies mitigate some of the risks associated with using artificial intelligence, an Adobe executive said Wednesday at The Wall Street Journal’s Risk & Compliance Forum.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/how-adobes-ethics-committee-helps-manage-ai-bias-11620261997",
-      "originalUrl": "https://www.wsj.com/articles/how-adobes-ethics-committee-helps-manage-ai-bias-11620261997",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-334697/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/how-adobes-ethics-committee-helps-manage-ai-bias-11620261997",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/how-adobes-ethics-committee-helps-manage-ai-bias-11620261997",
-      "publishedDateTime": "2021-05-05T16:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
       ]
     }
   ],

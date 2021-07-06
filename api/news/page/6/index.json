@@ -2,6 +2,247 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2021-06-30-japans-softbank-says-pepper-robot-remains-alive-and-well.md",
+      "title": "Japan’s SoftBank says Pepper robot remains ‘alive’ and well",
+      "excerpt": "Japanese technology company SoftBank denies it’s pulling the plug on its friendly, talking, bubble-headed Pepper robot. “There is absolutely no change to our Pepper business,”",
+      "sourceUrl": null,
+      "webUrl": "https://www.wric.com/business/us-world-business/japans-softbank-says-pepper-robot-remains-alive-and-well/",
+      "originalUrl": "https://www.wric.com/business/us-world-business/japans-softbank-says-pepper-robot-remains-alive-and-well/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.wric.com/wp-content/uploads/sites/74/2021/06/a7ca6fa6c7634e6787200aad859fc95d.jpg?w=1280",
+          "width": 1280,
+          "height": 853,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wric.com/business/us-world-business/japans-softbank-says-pepper-robot-remains-alive-and-well/amp/",
+      "cdnAmpWebUrl": "https://www-wric-com.cdn.ampproject.org/c/s/www.wric.com/business/us-world-business/japans-softbank-says-pepper-robot-remains-alive-and-well/amp/",
+      "publishedDateTime": "2021-06-29T20:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WRIC",
+        "domain": "wric.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-30-techman-robot-to-provide-free-ai-courses-in-southeast-asia.md",
+      "title": "Techman Robot to Provide Free AI Courses in Southeast Asia",
+      "excerpt": "Artificial intelligence, AI is undoubtedly the key technology here. That is why the SEA (Southeast Asia) Taiwan AI College is turning the AI manufacturing experiences from leading ICT companies, Techman Robot,",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/techman-robot-to-provide-free-ai-courses-in-southeast-asia-1030565050",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/techman-robot-to-provide-free-ai-courses-in-southeast-asia-1030565050",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1552574/Techman_Robot_to_provide_free_AI_course_in_Southeast_Asia.jpg",
+          "width": 400,
+          "height": 257,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-29T20:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-30-ai-vs-skin-cancer.md",
+      "title": "AI vs. skin cancer",
+      "excerpt": "Early detection is key to surviving melanoma, a type of malignant tumor responsible for more than 70% of skin-cancer-related deaths worldwide, but “suspicious pigmented skin lesions” (SPLs) are so common it’s impractical for doctors to check them all out.",
+      "sourceUrl": null,
+      "webUrl": "https://www.technologyreview.com/2021/06/29/1025692/ai-vs-skin-cancer/",
+      "originalUrl": "https://www.technologyreview.com/2021/06/29/1025692/ai-vs-skin-cancer/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://wp.technologyreview.com/wp-content/uploads/2021/06/automated-melanoma-detection-small2.gif?w=800",
+          "width": 800,
+          "height": 532,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.technologyreview.com/2021/06/29/1025692/ai-vs-skin-cancer/amp/",
+      "cdnAmpWebUrl": "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2021/06/29/1025692/ai-vs-skin-cancer/amp/",
+      "publishedDateTime": "2021-06-29T19:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MIT Technology Review",
+        "domain": "technologyreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-30-the-uneasy-alliance-between-business-leaders-and-artificial-intelligence.md",
+      "title": "The Uneasy Alliance Between Business Leaders And Artificial Intelligence",
+      "excerpt": "AI is seen by many inside and outside the corporate world as a mysterious, dark art that only data scientists and algorithm developers can love.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/joemckendrick/2021/06/29/the-uneasy-alliance-between-business-leaders-and-artificial-intelligence/",
+      "originalUrl": "https://www.forbes.com/sites/joemckendrick/2021/06/29/the-uneasy-alliance-between-business-leaders-and-artificial-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60dbcc890629828a88a61bcb%2F0x0.jpg",
+          "width": 1200,
+          "height": 799,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/joemckendrick/2021/06/29/the-uneasy-alliance-between-business-leaders-and-artificial-intelligence/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2021/06/29/the-uneasy-alliance-between-business-leaders-and-artificial-intelligence/amp/",
+      "publishedDateTime": "2021-06-29T18:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2021-06-30-trellis-data-using-machine-learning-to-analyse-shipping-containers-entering-australia.md",
+      "title": "Trellis Data using machine learning to analyse shipping containers entering Australia",
+      "excerpt": "Working with the Department of Agriculture, Trellis Data is analysing shipping containers using its machine learning technology to determine any biosecurity risks to Australia.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/trellis-data-using-machine-learning-to-analyse-shipping-containers-entering-australia/",
+      "originalUrl": "https://www.zdnet.com/article/trellis-data-using-machine-learning-to-analyse-shipping-containers-entering-australia/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/hub/i/2021/06/30/59723d6d-16eb-4005-9f60-7cf438a4b645/gettyimages-586450294.jpg",
+          "width": 4928,
+          "height": 3280,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/trellis-data-using-machine-learning-to-analyse-shipping-containers-entering-australia/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/trellis-data-using-machine-learning-to-analyse-shipping-containers-entering-australia/",
+      "publishedDateTime": "2021-06-29T18:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-30-machine-learning-startup-datarobot-reportedly-raises-250m-on-6b-valuation.md",
       "title": "Machine learning startup DataRobot reportedly raises $250M on $6B valuation",
       "excerpt": "Machine learning automation startup DataRobot Inc. has raised $250 million in new funding, according to Axios on a valuation of around $6 billion. Altimeter Capital Management and Tiger Global are said to have led the Series G round.",
@@ -945,258 +1186,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-29-amazon-introduces-reading-sidekick-a-kids-reading-companion-for-alexa-and-voice-profiles-for-kids.md",
-      "title": "Amazon introduces Reading Sidekick, a kids reading companion for Alexa, and Voice Profiles for Kids",
-      "excerpt": "Amazon today announced a new feature that will turn Alexa into a reading companion for children as well as new support for Alexa Voice Profiles for Kids, which personalize the child’s Alexa experience across all Echo devices in the household.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/06/29/amazon-introduces-reading-sidekick-a-kids-reading-companion-for-alexa-and-voice-profiles-for-kids/",
-      "originalUrl": "https://techcrunch.com/2021/06/29/amazon-introduces-reading-sidekick-a-kids-reading-companion-for-alexa-and-voice-profiles-for-kids/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/06/Reading-Sidekick-Echo-Show-Book-List.png?w=680",
-          "width": 680,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/06/29/amazon-introduces-reading-sidekick-a-kids-reading-companion-for-alexa-and-voice-profiles-for-kids/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/06/29/amazon-introduces-reading-sidekick-a-kids-reading-companion-for-alexa-and-voice-profiles-for-kids/amp/",
-      "publishedDateTime": "2021-06-29T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-29-microsoft-launches-azure-arc-enabled-sql-in-general-availability.md",
-      "title": "Microsoft launches Azure Arc-enabled SQL in general availability",
-      "excerpt": "Microsoft today announced Azure Arc-enabled SQL, which extends Azure services to edge datacenter or multicloud instances.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/06/29/microsoft-launches-azure-arc-enabled-sql-in-general-availability/",
-      "originalUrl": "https://venturebeat.com/2021/06/29/microsoft-launches-azure-arc-enabled-sql-in-general-availability/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 249,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/12/microsoft-azure.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/06/29/microsoft-launches-azure-arc-enabled-sql-in-general-availability/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/29/microsoft-launches-azure-arc-enabled-sql-in-general-availability/amp/",
-      "publishedDateTime": "2021-06-29T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-29-leading-ai-body-data-company-bold-metrics-expands-partnership-with-mens-wearhouse-jos-a-bank.md",
-      "title": "Leading AI Body Data Company Bold Metrics Expands Partnership With Men's Wearhouse & Jos. A. Bank",
-      "excerpt": "Powered by a proprietary AI platform, Contactless Fit® by Bold Metrics has digitized the fitting process for customers at Men's Wearhouse stores—creating a fast and easy way for shoppers to find the right size,",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/leading-ai-body-data-company-bold-metrics-expands-partnership-with-men-s-wearhouse-jos-a-bank-1030563199",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/leading-ai-body-data-company-bold-metrics-expands-partnership-with-men-s-wearhouse-jos-a-bank-1030563199",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1551133/ContactlessFit.jpg",
-          "width": 400,
-          "height": 263,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-29T06:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2021-06-29-netapp-acquires-data-mechanics-to-accelerate-spot-roadmap-and-optimize-data-analytics-and-machine-learning-workloads-in-the-cloud.md",
-      "title": "NetApp acquires Data Mechanics to accelerate spot roadmap and optimize data analytics and machine learning workloads in the cloud",
-      "excerpt": "NetApp® (NASDAQ: NTAP), a global, cloud-led, data-centric software company, today announced that it has acquired Data Mechanics, a managed platform provider for big data processing and cloud analytics with offices in Paris,",
-      "sourceUrl": null,
-      "webUrl": "https://www.zawya.com/mena/en/press-releases/story/NetApp__acquires_Data_Mechanics8239to_accelerate_spot_roadmap_and_optimize_data_analytics_and_machine_learning_workloads_in_the_cloudnbsp-ZAWYA20210629131953/",
-      "originalUrl": "https://www.zawya.com/mena/en/press-releases/story/NetApp__acquires_Data_Mechanics8239to_accelerate_spot_roadmap_and_optimize_data_analytics_and_machine_learning_workloads_in_the_cloudnbsp-ZAWYA20210629131953/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.zawya.com/pr/images/2021/ENG_PR1572_2021_06_29.jpg",
-          "width": 450,
-          "height": 615,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zawya.com/mena/en/story/amp/ZAWYA20210629131953/",
-      "cdnAmpWebUrl": "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/ZAWYA20210629131953/",
-      "publishedDateTime": "2021-06-29T06:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Zawya",
-        "domain": "zawya.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-06-29-augtera-networks-raises-13m-to-apply-ai-to-networking.md",
-      "title": "Augtera Networks raises $13M to apply AI to networking",
-      "excerpt": "Augtera, a startup developing an \"AI-augmented\" networking analytics platform, has raised $13 million in venture funding.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/06/29/augtera-networks-raises-13m-to-apply-ai-to-networking/",
-      "originalUrl": "https://venturebeat.com/2021/06/29/augtera-networks-raises-13m-to-apply-ai-to-networking/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2015/12/broadband_speed_lights-e1624418067436.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/06/29/augtera-networks-raises-13m-to-apply-ai-to-networking/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/29/augtera-networks-raises-13m-to-apply-ai-to-networking/amp/",
-      "publishedDateTime": "2021-06-29T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

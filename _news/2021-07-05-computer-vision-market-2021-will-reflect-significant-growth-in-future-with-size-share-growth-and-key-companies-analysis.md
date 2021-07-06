@@ -29,15 +29,15 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence In Healthcare Market With Impact of COVID-19 Global Demand Analysis And Opportunity Outlook 2030"
-    excerpt: "In a recent published report, Kenneth Research has updated the market report for Artificial Intelligence In Healthcare Market for 2021 till 2030. Report further now discusses; the various strategies to be adopted or being adopted by the business players across the globe at various levels in the value chain."
-    publishedDateTime: 2021-07-06T04:34:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-with-impact-of-covid-19-global-demand-analysis-and-opportunity-outlook-2030-2021-07-06"
+  - title: "Artificial Intelligence in Healthcare market Size, Share, Value, And Competitive Landscape 2021-2026"
+    excerpt: "Artificial intelligence (AI) is the collection of computer programs or algorithms or software to make machines smarter"
+    publishedDateTime: 2021-07-06T07:07:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-size-share-value-and-competitive-landscape-2021-2026-2021-07-06"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 59
+    quality: 69
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -57,45 +57,33 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence in IoT Market Outlook to 2027 Emerging Trends and Will Generate New Growth Opportunities Status"
-    excerpt: "Jul 05, 2021 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry\" “Artificial Intelligence in IoT"
-    publishedDateTime: 2021-07-05T06:47:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-iot-market-outlook-to-2027-emerging-trends-and-will-generate-new-growth-opportunities-status-2021-07-05"
+  - title: "Global Machine Learning Artificial intelligence Market Size, Status and Forecast 2021-2027"
+    excerpt: "Pages Report] Check for Discount on Global Machine Learning Artificial intelligence Market Size, Status and Forecast 2021-2027 report by QYResearch Group. Market Analysis and Insights: Global Machine Learning Artificial intelligence"
+    publishedDateTime: 2021-07-06T08:48:00Z
+    webUrl: "https://www.reportsnreports.com/reports/4646722-global-machine-learning-artificial-intelligence-market-size-status-and-forecast-2021-2027.html"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 43
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Facial Recognition Market 2021, Top Leading Countries, Companies, Consumption, Trends, Forces Analysis, Revenue, Challenges and Global Forecast 2030"
-    excerpt: "In a recent published report, Kenneth Research has updated the market report for Facial Recognition Market for 2021"
-    publishedDateTime: 2021-07-05T05:18:00Z
-    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-market-2021-top-leading-countries-companies-consumption-trends-forces-analysis-revenue-challenges-and-global-forecast-2030-2021-07-05"
+      name: ReportsnReports
+      domain: reportsnreports.com
+    quality: 24
+  - title: "Global Artificial Intelligence In Diagnostic Market Size, Status and Forecast 2021-2027"
+    excerpt: "Pages Report] Check for Discount on Global Artificial Intelligence In Diagnostic Market Size, Status and Forecast 2021-2027 report by QYResearch Group. Market Analysis and Insights: Global Artificial Intelligence In Diagnostic"
+    publishedDateTime: 2021-07-02T08:17:00Z
+    webUrl: "https://www.reportsnreports.com/reports/4631324-global-artificial-intelligence-in-diagnostic-market-size-status-and-forecast-2021-2027.html"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 30
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "COVID-19 Impact and Analysis|Artificial Intelligence Market In The Industrial Sector| Technavio"
-    excerpt: "Technavio has been monitoring the artificial intelligence market in the industrial sector, operating under the industrials segment."
-    publishedDateTime: 2021-07-06T02:50:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/21/07/n21849463/covid-19-impact-and-analysis-artificial-intelligence-market-in-the-industrial-sector-technavio"
-    ampWebUrl: "https://www.benzinga.com/amp/content/21849463"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/21849463"
+      name: ReportsnReports
+      domain: reportsnreports.com
+    quality: 9
+  - title: "Global Artificial Intelligence in Drug Discovery Market Size, Status and Forecast 2021-2027"
+    excerpt: "Pages Report] Check for Discount on Global Artificial Intelligence in Drug Discovery Market Size, Status and Forecast 2021-2027 report by QYResearch Group. Market Analysis and Insights: Global Artificial Intelligence in Drug"
+    publishedDateTime: 2021-07-03T08:57:00Z
+    webUrl: "https://www.reportsnreports.com/reports/4635116-global-artificial-intelligence-in-drug-discovery-market-size-status-and-forecast-2021-2027.html"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 25
+      name: ReportsnReports
+      domain: reportsnreports.com
+    quality: 7
 
 secured: "nd5k0zRVG1nKw2rnTBmau30k3zRDM774A7c8XCj8Zjo6bjwBo7vUNLKnhG3xDKvywJ+jFxpZ28PcBhAOdJabGkFWOJ5kU+QWcfeHxxmEqqaBVGUqRZ8VBp1BBsljUn3NzCQ6Q7Sit/9LrR59leyypf6so7pR3cS/Gj482ZPOpwXiyt4g76A1ivyOdPf7I4j0eDUp/Hc8QyY+A85mkDdiKpNb0qcg4jANO3YQnDZ8FmSXZyg22omZb/96Wa4sMJehTSdNyMKf0kucSzVNzONu2mOQZIUV7KmcxzTv/pa2r7d+JuvUlbutEDabkbAl/1+99k2GPsT8DW2O4G7qG7Ejs+MZzWECETKOiSzeXSTGcbc=;u9+Ob8L3WoPZHArTu1F4Dg=="
 ---

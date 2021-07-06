@@ -115,6 +115,15 @@ related:
         width: 1200
         height: 900
         isCached: true
+  - title: "Developing safe self-driving car a 'hard problem', admits Musk"
+    excerpt: "Tesla CEO Elon Musk has finally admitted that developing a safe and reliable self-driving car is indeed a difficult task. In an earnings call in January, Musk had told investors that he was \"highly confident the car will be able to drive itself with reliability in excess of human this year\"."
+    publishedDateTime: 2021-07-06T09:55:00Z
+    webUrl: "https://news.webindia123.com/news/Articles/Science/20210706/3782572.html"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 4
 
 secured: "Rhm+UG3BvuD4PsoDhIpH/SIKoYj8qsw0UH3HtUNdTohG2THfDhZ9g/sXgozITC5DUfQIvqeDjbCJOjgYw+0tbLv4/q4OPHdlurNoi7mLHGatiEGR+nCmLe5L1Gg2HA+iVwYCHfO2pQ/S3at9aTI3jpEzH6met11uvdTJN2nwNW91DeqWN8oe938SlzawgJvwX3oA5ao+aIPE1s7SxvxOsumgOgsVNa9zEWCP1MJR1NaVuXAxxGW7JQnfs19iBn6rlBlNEy5gQ/7luU9rQ2Su/Ir6MGIbPbTGAJfW6GYuphKhDEhVURELc7kHI7wlU5UiW8nbArRInock50Wut3ZG9EIDEkGArm1pT9v3YxJoLLw=;vcKWX2krSHditXAQMla9nw=="
 ---

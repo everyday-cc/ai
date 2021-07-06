@@ -66,6 +66,20 @@ related:
         width: 2405
         height: 1247
         isCached: true
+  - title: "Blockchain, Fintech and VFA revolution"
+    excerpt: "The Malta Financial Services Authority (MFSA) last year introduced its FinTech Regulatory Sandbox, which provides a controlled regulatory environment where FinTech operators may test their innovations"
+    publishedDateTime: 2021-07-06T08:39:00Z
+    webUrl: "https://www.independent.com.mt/articles/2021-07-06/business-news/Blockchain-Fintech-and-VFA-revolution-6736234977"
+    type: article
+    provider:
+      name: The Malta Independent
+      domain: independent.com.mt
+    quality: 39
+    images:
+      - url: "https://www.independent.com.mt/file.aspx?f=216430"
+        width: 709
+        height: 532
+        isCached: true
   - title: "5 reasons your team should attend Fintech & Insurtech Live"
     excerpt: "Join us from 12th - 14th October 2021 for the ultimate Fintech & Insurtech event, streamed live from London’s Tobacco Dock"
     publishedDateTime: 2021-07-02T16:04:00Z
@@ -151,6 +165,6 @@ related:
       domain: webindia123.com
     quality: 0
 
-secured: "zy0cmLWoKAKHSCRtGVGXodNjB7LxlpSzjJN3kTzT2zxaCTLGo/eh826oS+qdHCy9ME9KxFx2QZu5Tf5nGLg7HDWtuGujSVzxNzxJq4YYWAKdbwl0PXpMic32FG3uyqQwaDPt1JGZudchrMgDKFG+qieWqBoCLvB1eSexMKnMjkAOnQbNhw6AL/tk+uf62ztTGfgEpfxfPJ1mUw01LPSIGc8TTqxMWsxf4f821hpn2e+0oDzyoB7uOiBKUpE3h5VqtkKQt6/8ga3Ff81R7aYjeT6GsL9R8AvdTJkQcbkW8wJmH20ry6zqWsfbFIXKZf5A9dlHpj98qtf/wEuI0Kvz7z+x/phuFM09NiBls9E9PkY=;7EyGSwJCvYmJApr3plHiXw=="
+secured: "AZ72D7et9wWfm8OFXl954Xo1uaQbspD2Ijf2uVUsImz2i5qDgYRy0bLqErvy8OQ+9wXwhqmgwbsOe0vNwoltrwv8Vx70MEzQq2k6eqAPrYFZunef9wjAZQSVP8692UqX2633lNmLXeeUzLfibqh+ennG8QeR0vYbEk7/SqVklNNn4z/MN6g8x7hSB9J3svzUzHnkLeNG7yZB/OoM5vYbOHBVFM8noAB5HDTE7Oo9g6LBp5hPXM95mR3pUnKVFEv5OUrV7yEvSr8z3OEcT6k2oE81YmlchVFn3v8OmlXJuP8Ch9g9JxUn/LT/ksatZGbyodbStEkLBuBGpTQ3iRGLEOZJAYrxvh7GCmjyOb1777PjZnRvWxpfvSpO7kF6OYNEwJs2QgZnCQjDtb+N51QPoHbKqEOr8yQM8l6C2EHLig6vEuYvnJfuw/t8hIOeN1r/m8dzHNr6bdoKm3XwE+YxbFHRrdWjsaQcXRkwaDXkcFfNgVy8SnMBGinC4jlqkxZ61cG9rUpduCD2/AgpZWd1uA==;0/tDkZBCjrU5vcovZUCw2Q=="
 ---
 

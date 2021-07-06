@@ -136,6 +136,22 @@ related:
         width: 2272
         height: 1278
         isCached: true
+  - title: "TikTok parent company ByteDance selling AI tech to other companies: Report"
+    excerpt: "China-based ByteDance, which is the parent company of TikTok, has reportedly started selling the AI technology of the short video-making app to other companies, including in India where the app is banned."
+    publishedDateTime: 2021-07-06T08:42:00Z
+    webUrl: "https://www.thenewsminute.com/article/tiktok-parent-company-bytedance-selling-ai-tech-other-companies-report-151833"
+    ampWebUrl: "https://www.thenewsminute.com/article/tiktok-parent-company-bytedance-selling-ai-tech-other-companies-report-151833?amp"
+    cdnAmpWebUrl: "https://www-thenewsminute-com.cdn.ampproject.org/c/s/www.thenewsminute.com/article/tiktok-parent-company-bytedance-selling-ai-tech-other-companies-report-151833?amp"
+    type: article
+    provider:
+      name: The News Minute
+      domain: thenewsminute.com
+    quality: 57
+    images:
+      - url: "https://www.thenewsminute.com/sites/default/files/tiktok_1200_new_4.jpeg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "TikTok AI being sold to various companies including in India: Here's what it means"
     excerpt: "ByteDance has reportedly started selling the AI technology of the TikTok app to other companies, including in India where the app is banned."
     publishedDateTime: 2021-07-05T08:44:00Z

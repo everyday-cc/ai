@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-07-06-artificial-intelligence-in-healthcare-market-size-share-value-and-competitive-landscape-2021-2026.md",
+      "title": "Artificial Intelligence in Healthcare market Size, Share, Value, And Competitive Landscape 2021-2026",
+      "excerpt": "Artificial intelligence (AI) is the collection of computer programs or algorithms or software to make machines smarter",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-size-share-value-and-competitive-landscape-2021-2026-2021-07-06",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-size-share-value-and-competitive-landscape-2021-2026-2021-07-06",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-06T00:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-06-artificial-intelligence-in-healthcare-market-with-impact-of-covid-19-global-demand-analysis-and-opportunity-outlook-2030.md",
       "title": "Artificial Intelligence In Healthcare Market With Impact of COVID-19 Global Demand Analysis And Opportunity Outlook 2030",
       "excerpt": "In a recent published report, Kenneth Research has updated the market report for Artificial Intelligence In Healthcare Market for 2021 till 2030. Report further now discusses; the various strategies to be adopted or being adopted by the business players across the globe at various levels in the value chain.",
@@ -10,7 +62,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-with-impact-of-covid-19-global-demand-analysis-and-opportunity-outlook-2030-2021-07-06",
       "featuredContent": null,
       "highlight": null,
-      "heat": 109,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -96,6 +148,92 @@
         "AI in Healthcare",
         "Google AI",
         "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2021-07-04-healthcare-an-ideal-jumping-off-point-for-artificial-intelligence-president-of-mbzuai.md",
+      "title": "Healthcare an ideal jumping-off point for Artificial Intelligence: President of MBZUAI",
+      "excerpt": "ABU DHABI - Professor Eric Xing, President of the Mohamed bin Zayed University of Artificial Intelligence (MBZUAI), has said that healthcare is an \"ideal jumping-off point for Artificial Intelligence (AI) because it generates so much data\".",
+      "sourceUrl": null,
+      "webUrl": "https://www.zawya.com/mena/en/business/story/Healthcare_an_ideal_jumpingoff_point_for_Artificial_Intelligence_President_of_MBZUAI-WAM20210704091733273/",
+      "originalUrl": "https://www.zawya.com/mena/en/business/story/Healthcare_an_ideal_jumpingoff_point_for_Artificial_Intelligence_President_of_MBZUAI-WAM20210704091733273/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.zawya.com/images/cia/zAmp/210624063038PGNY.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zawya.com/mena/en/story/amp/WAM20210704091733273/",
+      "cdnAmpWebUrl": "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/WAM20210704091733273/",
+      "publishedDateTime": "2021-07-04T02:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Zawya",
+        "domain": "zawya.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-04-ai-powered-therapy-bots-at-workplace-for-employees-during-covid-pandemic.md",
+      "title": "AI-powered therapy bots at workplace for employees during Covid pandemic",
+      "excerpt": "AI is better than humans at providing support, according to a study undertaken by Workplace Intelligence.  The future of work will be influenced by the past. Last year’s virus invasion changed everything for the workforce.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newindianexpress.com/magazine/2021/jul/04/ai-powered-therapy-bots-at-workplace-for-employees-during-covid-pandemic-2324136.html",
+      "originalUrl": "https://www.newindianexpress.com/magazine/2021/jul/04/ai-powered-therapy-bots-at-workplace-for-employees-during-covid-pandemic-2324136.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.newindianexpress.com/uploads/user/imagelibrary/2021/7/3/w600X390/robot.jpg",
+          "width": 600,
+          "height": 390,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newindianexpress.com/magazine/2021/jul/04/ai-powered-therapy-bots-at-workplace-for-employees-during-covid-pandemic-2324136.amp",
+      "cdnAmpWebUrl": "https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/magazine/2021/jul/04/ai-powered-therapy-bots-at-workplace-for-employees-during-covid-pandemic-2324136.amp",
+      "publishedDateTime": "2021-07-03T16:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The New Indian Express",
+        "domain": "newindianexpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
       ]
     },
     {
@@ -1194,117 +1332,6 @@
       "provider": {
         "name": "TMCnet",
         "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-15-visionquest-uses-artificial-intelligence-to-screen-40000-patients-for-diabetic-retinopathy.md",
-      "title": "VisionQuest Uses Artificial Intelligence to Screen 40,000 Patients for Diabetic Retinopathy",
-      "excerpt": "VisionQuest Biomedical Inc. announces that the company has used the EyeStar artificial intelligence (AI) software to screen over 40,000 patients for d",
-      "sourceUrl": null,
-      "webUrl": "https://www.businesswire.com/news/home/20210615005073/en/VisionQuest-Uses-Artificial-Intelligence-to-Screen-40000-Patients-for-Diabetic-Retinopathy",
-      "originalUrl": "https://www.businesswire.com/news/home/20210615005073/en/VisionQuest-Uses-Artificial-Intelligence-to-Screen-40000-Patients-for-Diabetic-Retinopathy",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-15T09:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-15-exscientia-acquires-personalised-medicine-ai-pioneer-allcyte.md",
-      "title": "Exscientia Acquires Personalised Medicine AI Pioneer Allcyte",
-      "excerpt": "Pioneering work by Allcyte has delivered a platform able to anticipate the effectiveness of cancer treatments in the clinic by using AI to analyse the activity of drugs in live patient samples at single-cell resolution.",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/-exscientia-acquires-personalised-medicine-ai-pioneer-allcyte-/2021/06/15/9390381.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/-exscientia-acquires-personalised-medicine-ai-pioneer-allcyte-/2021/06/15/9390381.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-15T05:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-15-caris-life-sciences-and-elevation-oncology-announce-joint-discovery-and-development-collaboration-focused-on-oncogenic-fusions-and-driver-mutations.md",
-      "title": "Caris Life Sciences and Elevation Oncology Announce Joint Discovery and Development Collaboration Focused on Oncogenic Fusions and Driver Mutations",
-      "excerpt": "Caris Life Sciences®, a leading innovator in molecular science and artificial intelligence focused on fulfilling the promise of precision medicine,",
-      "sourceUrl": null,
-      "webUrl": "https://www.troyrecord.com/news/national/caris-life-sciences-and-elevation-oncology-announce-joint-discovery-and-development-collaboration-focused-on-oncogenic/article_4baa9ec1-ad0e-5448-af75-2954a8363a46.html",
-      "originalUrl": "https://www.troyrecord.com/news/national/caris-life-sciences-and-elevation-oncology-announce-joint-discovery-and-development-collaboration-focused-on-oncogenic/article_4baa9ec1-ad0e-5448-af75-2954a8363a46.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.chicago2.vip.townnews.com/troyrecord.com/content/tncms/assets/v3/editorial/7/fa/7faabe80-266e-5cb4-9b9c-f24b7b146ba5/60c8855377d65.image.jpg?resize=703%2C630",
-          "width": 703,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-15T03:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Troy Record",
-        "domain": "troyrecord.com",
         "images": null,
         "publishers": null,
         "authors": null

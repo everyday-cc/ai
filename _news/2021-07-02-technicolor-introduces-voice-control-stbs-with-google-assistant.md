@@ -49,20 +49,6 @@ related:
         width: 900
         height: 675
         isCached: true
-  - title: "Technicolor Connected Home Delivers First Hands-Free Voice Control Set-Top Boxes with Google Assistant"
-    excerpt: "Connected Home is integrating Google's far-field voice technology into its latest generation of set-top boxes (STBs) which enables users to change channels, search"
-    publishedDateTime: 2021-07-01T16:00:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/technicolor-connected-home-delivers-first-hands-free-voice-control-set-top-boxes-with-google-assistant/article_a2614ba9-6448-5d28-bd90-619a2edc84d0.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 8
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Technicolor voice technology STB integration"
     excerpt: "Entertainment technologist Technicolor Connected Home is integrating Google’s far-field voice technology into its latest generation of set-top boxes (STBs) wh"
     publishedDateTime: 2021-07-02T10:47:00Z

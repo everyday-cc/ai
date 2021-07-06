@@ -2,6 +2,300 @@
   "page": 18,
   "value": [
     {
+      "path": "_news/2021-06-21-eu-privacy-watchdogs-call-for-ban-on-facial-recognition-in-public-spaces.md",
+      "title": "EU Privacy Watchdogs Call for Ban on Facial Recognition in Public Spaces",
+      "excerpt": "Europe's two privacy watchdogs teamed up on Monday to call for a ban on the use of facial recognition in public spaces, going against draft European Union rules which would allow the technology to be used for public security reasons.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usnews.com/news/technology/articles/2021-06-21/eu-privacy-watchdogs-call-for-ban-on-facial-recognition-in-public-spaces",
+      "originalUrl": "https://www.usnews.com/news/technology/articles/2021-06-21/eu-privacy-watchdogs-call-for-ban-on-facial-recognition-in-public-spaces",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-21T05:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "U.S. News & World Report",
+        "domain": "usnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-21-the-station-waymo-nabs-more-capital-cruise-taps-a-5b-credit-line-and-hints-about-argos-future.md",
+      "title": "The Station: Waymo nabs more capital, Cruise taps a $5B credit line and hints about Argo’s future",
+      "excerpt": "TechCrunch has been ... like hydrogen fuel cell EV Nuro, the autonomous delivery startup, is expanding into parcel logistics through a partnership with FedEx. The multiyear, multiphased strategic ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/06/15/autonomous-delivery-startup-nuro-moves-into-logistics-with-fedex/",
+      "originalUrl": "https://techcrunch.com/2021/06/21/the-station-waymo-nabs-more-capital-cruise-taps-a-5b-credit-line-and-hints-about-argos-future/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/06/FedEx-Nuro-Image.jpg?w=1024",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/06/15/autonomous-delivery-startup-nuro-moves-into-logistics-with-fedex/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/06/15/autonomous-delivery-startup-nuro-moves-into-logistics-with-fedex/amp/",
+      "publishedDateTime": "2021-06-21T05:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2021-06-21-how-to-use-conversational-voice-ai-in-a-contactless-world.md",
+      "title": "How To Use Conversational Voice AI In A Contactless World",
+      "excerpt": "Businesses are becoming more interested in conversational voice AI because it can establish meaningful customer conversations and help decode the user intent. Ultimately, automating large-scale conversations can result in cost savings,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/06/21/how-to-use-conversational-voice-ai-in-a-contactless-world/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/06/21/how-to-use-conversational-voice-ai-in-a-contactless-world/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f93379ac3fffcbce128eacc%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/06/21/how-to-use-conversational-voice-ai-in-a-contactless-world/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/06/21/how-to-use-conversational-voice-ai-in-a-contactless-world/amp/",
+      "publishedDateTime": "2021-06-21T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2021-06-21-eu-data-watchdogs-call-for-ban-on-facial-recognition-through-ai.md",
+      "title": "EU Data Watchdogs Call for Ban on Facial Recognition Through AI",
+      "excerpt": "European Union data protection watchdogs called for a “general ban” on any use of artificial intelligence to identify people in public spaces warning of the “extremely high risks” to people’s privacy.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/news/articles/2021-06-21/eu-data-watchdogs-call-for-ban-on-facial-recognition-through-ai",
+      "originalUrl": "https://www.bloomberg.com/news/articles/2021-06-21/eu-data-watchdogs-call-for-ban-on-facial-recognition-through-ai",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 254,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/igeIlhc5fXoc/v0/1200x800.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-21T04:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-21-artificial-intelligence-based-cybersecurity-market-grows-by-19-billion-during-2021-2025-technavio.md",
+      "title": "Artificial Intelligence-based Cybersecurity Market Grows by $ 19 Billion during 2021-2025 | Technavio",
+      "excerpt": "The artificial intelligence-based cybersecurity market is expected to grow by USD 19 billion during 2021-2025, according to Technavio. The report offers a detailed analysis of the impact of the COVID-19 pandemic on the artificial intelligence-based cybersecurity market in optimistic,",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/-artificial-intelligence-based-cybersecurity-market-grows-19-billion-/2021/06/21/9393768.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-artificial-intelligence-based-cybersecurity-market-grows-19-billion-/2021/06/21/9393768.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1441766/Technavio_Logo.jpg",
+          "width": 400,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-21T03:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-21-tesla-unveils-its-new-supercomputer-5th-most-powerful-in-the-world-to-train-self-driving-ai.md",
+      "title": "Tesla unveils its new supercomputer (5th most powerful in the world) to train self-driving AI",
+      "excerpt": "Tesla has unveiled its new supercomputer, which is already the 5th most powerful in the world and it’s going to be the predecessor of Tesla’s upcoming new ‘Dojo’ supercomputer. It is being used to train the neural nets powering Tesla’s Autopilot and upcoming self-driving AI.",
+      "sourceUrl": null,
+      "webUrl": "https://electrek.co/2021/06/21/tesla-unveils-new-supercomputer-train-self-driving-ai/",
+      "originalUrl": "https://electrek.co/2021/06/21/tesla-unveils-new-supercomputer-train-self-driving-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 163,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i1.wp.com/electrek.co/wp-content/uploads/sites/3/2021/06/Tesla-Supercomputer.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://electrek.co/2021/06/21/tesla-unveils-new-supercomputer-train-self-driving-ai/amp/",
+      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/06/21/tesla-unveils-new-supercomputer-train-self-driving-ai/amp/",
+      "publishedDateTime": "2021-06-21T03:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Electrek",
+        "domain": "electrek.co",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-21-heres-why-you-shouldnt-miss-the-aws-summit-india-online-2021.md",
       "title": "Here’s why you shouldn’t miss the AWS Summit India Online 2021",
       "excerpt": "Cloud is the new normal. We are witnessing an interesting shift in the technological landscape, where the speed of digitization is much faster than ever before. Irrespective of the business size ...",
@@ -925,263 +1219,6 @@
       ],
       "topics": [
         "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-20-india-gears-up-for-robot-campaigners-in-2022-assembly-polls.md",
-      "title": "India gears up for robot campaigners in 2022 Assembly polls",
-      "excerpt": "As mass public gatherings remain an obvious danger in India amid the lethal Covid-19 waves, you may see humanoid robots performing campaigning on behalf of political leaders in the 2022",
-      "sourceUrl": null,
-      "webUrl": "https://www.thehansindia.com/technology/tech-news/india-gears-up-for-robot-campaigners-in-2022-assembly-polls-691685",
-      "originalUrl": "https://www.thehansindia.com/technology/tech-news/india-gears-up-for-robot-campaigners-in-2022-assembly-polls-691685",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.thehansindia.com/h-upload/2021/06/20/1083163-robot.jpg",
-          "width": 1000,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thehansindia.com/amp/technology/tech-news/india-gears-up-for-robot-campaigners-in-2022-assembly-polls-691685",
-      "cdnAmpWebUrl": "https://www-thehansindia-com.cdn.ampproject.org/c/s/www.thehansindia.com/amp/technology/tech-news/india-gears-up-for-robot-campaigners-in-2022-assembly-polls-691685",
-      "publishedDateTime": "2021-06-20T04:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hans India",
-        "domain": "thehansindia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-20-rog-upgrades-flow-x13-with-the-latest-nvidia-rtx-3050-ti-gpu.md",
-      "title": "ROG upgrades Flow X13 with the latest Nvidia RTX 3050 Ti GPU",
-      "excerpt": "Together, the Flow X13 and XG Mobile redefine what’s possible with a 13-inch device Asus Republic of Gamers (ROG) today announced the upgraded ROG Flow X13, the ultra-portable 2-in-1 convertible ROG gaming laptop with the latest Nvidia 3050 Ti GPU.",
-      "sourceUrl": null,
-      "webUrl": "https://gulfnews.com/uae/rog-upgrades-flow-x13-with-the-latest-nvidia-rtx-3050-ti-gpu-1.1624176723917",
-      "originalUrl": "https://gulfnews.com/uae/rog-upgrades-flow-x13-with-the-latest-nvidia-rtx-3050-ti-gpu-1.1624176723917",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imagevars.gulfnews.com/2021/06/20/Asus-Flow-X13-_17a28722ad6_large.jpg",
-          "width": 750,
-          "height": 563,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://gulfnews.com/amp/uae/rog-upgrades-flow-x13-with-the-latest-nvidia-rtx-3050-ti-gpu-1.1624176723917",
-      "cdnAmpWebUrl": "https://gulfnews-com.cdn.ampproject.org/c/s/gulfnews.com/amp/uae/rog-upgrades-flow-x13-with-the-latest-nvidia-rtx-3050-ti-gpu-1.1624176723917",
-      "publishedDateTime": "2021-06-20T03:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gulf News",
-        "domain": "gulfnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-20-artificial-intelligence-ai-chips-market-2021-with-industry-competition-analysis-top-countries-data-major-manufacturers-and-forecast-2026.md",
-      "title": "Artificial intelligence (AI) Chips Market 2021 with Industry Competition Analysis, Top Countries Data, Major Manufacturers and Forecast 2026",
-      "excerpt": "Global \"Artificial intelligence (AI) Chips Market\" report provides a brief analysis of the growth factors influencing",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chips-market-2021-with-industry-competition-analysis-top-countries-data-major-manufacturers-and-forecast-2026-2021-06-20",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chips-market-2021-with-industry-competition-analysis-top-countries-data-major-manufacturers-and-forecast-2026-2021-06-20",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 204,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-20T01:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-20-facebook-ai-software-is-now-able-to-dig-up-origins-of-deepfake-images.md",
-      "title": "Facebook AI software is now able to dig up origins of deepfake images",
-      "excerpt": "Facebook scientists said they developed artificial intelligence software to not only identify ’deepfake’ images but to figure out where they came from.",
-      "sourceUrl": null,
-      "webUrl": "https://www.iol.co.za/technology/software-and-internet/facebook-ai-software-is-now-able-to-dig-up-origins-of-deepfake-images-06705daa-afb1-41c8-80db-d976bff00d68",
-      "originalUrl": "https://www.iol.co.za/technology/software-and-internet/facebook-ai-software-is-now-able-to-dig-up-origins-of-deepfake-images-06705daa-afb1-41c8-80db-d976bff00d68",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image-prod.iol.co.za/resize/650x366/File-picture-AP-Photo-Richard-Drew?source=https://xlibris.public.prod.oc.inl.infomaker.io:8443/opencontent/objects/7d296af3-2399-5dbf-9636-e3d8e0070d56&operation=CROP&offset=0x275&resize=5244x2950",
-          "width": 650,
-          "height": 366,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.iol.co.za/amp/technology/software-and-internet/facebook-ai-software-is-now-able-to-dig-up-origins-of-deepfake-images-06705daa-afb1-41c8-80db-d976bff00d68",
-      "cdnAmpWebUrl": "https://www-iol-co-za.cdn.ampproject.org/c/s/www.iol.co.za/amp/technology/software-and-internet/facebook-ai-software-is-now-able-to-dig-up-origins-of-deepfake-images-06705daa-afb1-41c8-80db-d976bff00d68",
-      "publishedDateTime": "2021-06-20T00:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IOL News",
-        "domain": "iol.co.za",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-20-business-wire-microsoft-ses-and-grc-showcase-azure-cloud-for-remote-missions-via-secure-govsat-connectivity-service.md",
-      "title": "BUSINESS WIRE: Microsoft, SES and GRC Showcase Azure Cloud for Remote Missions via Secure GovSat Connectivity Service",
-      "excerpt": "MITTEILUNG UEBERMITTELT VON BUSINESS WIRE. FUER DEN INHALT IST ALLEIN DAS BERICHTENDE UNTERNEHMEN VERANTWORTLICH.Microsoft Azure at the Edge: Microsoft",
-      "sourceUrl": null,
-      "webUrl": "https://www.finanztreff.de/news/business-wire-microsoft-ses-and-grc-showcase-azure-cloud-for-remote-missions-via-secure-go/25195160",
-      "originalUrl": "https://www.finanztreff.de/news/business-wire-microsoft-ses-and-grc-showcase-azure-cloud-for-remote-missions-via-secure-go/25195160",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-19T23:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Finanztreff",
-        "domain": "finanztreff.de",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-20-how-ai-is-disrupting-business-ecosystem.md",
-      "title": "How AI is disrupting Business Ecosystem?",
-      "excerpt": "Two dozen years and billions of savings later, AI is as inevitable as ever to businesses that are in pursuit of profits. BFSI (Banking, Financial Services and Insurance) and Retail have reaped the early harvest as they foresaw AI as the new engine of growth sooner than many other sectors.",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/article/374959",
-      "originalUrl": "https://www.entrepreneur.com/article/374959",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.entrepreneur.com/amphtml/374959",
-      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/374959",
-      "publishedDateTime": "2021-06-19T23:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

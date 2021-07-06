@@ -80,6 +80,20 @@ related:
         width: 2405
         height: 1247
         isCached: true
+  - title: "Blockchain, Fintech and VFA revolution"
+    excerpt: "The Malta Financial Services Authority (MFSA) last year introduced its FinTech Regulatory Sandbox, which provides a controlled regulatory environment where FinTech operators may test their innovations"
+    publishedDateTime: 2021-07-06T08:39:00Z
+    webUrl: "https://www.independent.com.mt/articles/2021-07-06/business-news/Blockchain-Fintech-and-VFA-revolution-6736234977"
+    type: article
+    provider:
+      name: The Malta Independent
+      domain: independent.com.mt
+    quality: 39
+    images:
+      - url: "https://www.independent.com.mt/file.aspx?f=216430"
+        width: 709
+        height: 532
+        isCached: true
   - title: "Advantage Club forays in Fintech Services"
     excerpt: "Advantage Club one of the leading Employee Engagement platforms in South East Asia has made its foray into financial services with the launch of an early sala"
     publishedDateTime: 2021-07-02T09:57:00Z

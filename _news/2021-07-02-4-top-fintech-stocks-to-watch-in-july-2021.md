@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nasdaq.com/articles/4-top-fintech-stocks-to-watch-in-jul
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/4-top-fintech-stocks-to-watch-in-july-2021-2021-07-02?amp"
 type: article
 quality: 54
-heat: 154
+heat: 164
 published: true
 
 provider:
@@ -64,6 +64,20 @@ related:
       - url: "https://fintechmagazine.com/sites/default/files/styles/ma/public/image/GettyImages-1250153410.jpg?itok=AkTuwQaw"
         width: 2405
         height: 1247
+        isCached: true
+  - title: "Blockchain, Fintech and VFA revolution"
+    excerpt: "The Malta Financial Services Authority (MFSA) last year introduced its FinTech Regulatory Sandbox, which provides a controlled regulatory environment where FinTech operators may test their innovations"
+    publishedDateTime: 2021-07-06T08:39:00Z
+    webUrl: "https://www.independent.com.mt/articles/2021-07-06/business-news/Blockchain-Fintech-and-VFA-revolution-6736234977"
+    type: article
+    provider:
+      name: The Malta Independent
+      domain: independent.com.mt
+    quality: 39
+    images:
+      - url: "https://www.independent.com.mt/file.aspx?f=216430"
+        width: 709
+        height: 532
         isCached: true
   - title: "5 reasons your team should attend Fintech & Insurtech Live"
     excerpt: "Join us from 12th - 14th October 2021 for the ultimate Fintech & Insurtech event, streamed live from London’s Tobacco Dock"

@@ -6,7 +6,7 @@ publishedDateTime: 2021-07-06T07:30:00Z
 originalUrl: "https://www.businesswire.com/news/home/20210706005133/en/Reply-Shapes-the-Future-of-Autonomous-Mobile-Robots-with-the-Power-of-Microsoft-Azure"
 webUrl: "https://www.businesswire.com/news/home/20210706005133/en/Reply-Shapes-the-Future-of-Autonomous-Mobile-Robots-with-the-Power-of-Microsoft-Azure"
 type: article
-quality: 27
+quality: 44
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - Microsoft AI
   - AI
+  - AI in Robotics
 
 related:
   - title: "Speech Recognition Software Market Next Big Thing | Major Giants Google, Microsoft, Baidu"
@@ -155,6 +156,6 @@ related:
       domain: ksusentinel.com
     quality: 2
 
-secured: "B2CBRacAYcXCh+YoK6ee2Kh7jDfuFg5QC4U4RnFVG4j8ignGrk05/XS0ogTUcWPXDeeuc94ptZCd2ZXRY8T6VUvR64hHeVfO47Z4ZsNvDDsp4SyTk0lcQkU/wT/zBd1h5kjWk0+VskkBuVz2DGVKiEoNRyqNvKI6L1QeP5BXYZVDEMHN+HuGSVwBTC6lBDJ40upCqnb+PMdgD2l8md/eEHCa34KSGXlIKVIX05wHxTciKBiv4T5DnKfAzJ9LAKgstg2PyNbKfT5CIB69Z0VTT4a8LF52bYJWHT3o71s1YnLZWqU0NE+Zk647sIfKOmjlJsyBmF1R5NIktIWDR+e7eJsrijO99wu/2rfVAVyAlW8=;KPpIzc6i7q0YzfSzJlD3rQ=="
+secured: "Xahc7Dxdcowr76UQSOzkNijVpYe+jNI6U6UBMrEH3jgukPoK/LDtpFdIimuuiHd0UQ7NEeq7Ed2XLhjO2D1eTmMlv1dNQTtLjfJdUu0k+bgT1ENqsIq0PfpLNGQVpibSGgbnGwlqG94uucJf75O+9rYSFzBps5lQl9CMleiS6P6iW6LfSqXG0LI2Vxrmkk7mlFeF3a53RgWbqnsNgoXz/NIqe2g6+Tbkm1OYBSr8Agu+RqiWrQUCZTDcjRQ2yHYG1OTkq2jrPcV9XikJakuz9rsbmw/MFoLyn61DmZWJJFM5lQzSRZ1AJtGzaUMT06sYrNiqv871MfWV6N9aqwiAIIALZ2gzROUWWj8AFK4d3+SfdHptoHhXYwdBf98bDLwVqWu4bjjP4QrKcFTGgOUrVhExeIerLV1Xv3nVXsk84CnUmT74NYjjiVs4t6KQKJDXOM81jDTdvGwrHUaupIMhgMxPAMChkgHdlU4t1u+O7MMnTJxMA4XwClYzOtCaose6ajA30p3PkOkdv04LPpi7tw==;IkdYfiMyfERRbIeAxtRLvQ=="
 ---
 

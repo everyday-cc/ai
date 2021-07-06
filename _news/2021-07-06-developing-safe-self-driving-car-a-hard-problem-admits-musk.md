@@ -1,31 +1,129 @@
 ---
 category: news
 title: "Developing safe self-driving car a 'hard problem', admits Musk"
-excerpt: "In an earnings call in January, Musk had told investors that he was \"highly confident the car will be able to drive itself with reliability in excess .."
-publishedDateTime: 2021-07-06T07:13:00Z
-originalUrl: "https://auto.economictimes.indiatimes.com/news/industry/developing-safe-self-driving-car-a-hard-problem-admits-musk/84166314"
-webUrl: "https://auto.economictimes.indiatimes.com/news/industry/developing-safe-self-driving-car-a-hard-problem-admits-musk/84166314"
-ampWebUrl: "https://auto.economictimes.indiatimes.com/amp/news/industry/developing-safe-self-driving-car-a-hard-problem-admits-musk/84166314"
-cdnAmpWebUrl: "https://auto-economictimes-indiatimes-com.cdn.ampproject.org/c/s/auto.economictimes.indiatimes.com/amp/news/industry/developing-safe-self-driving-car-a-hard-problem-admits-musk/84166314"
+excerpt: "Tesla CEO Elon Musk has finally admitted that developing a safe and reliable self-driving car is indeed a difficult task. In an earnings call in January, Musk had told investors that he was \"highly confident the car will be able to drive itself with reliability in excess of human this year\"."
+publishedDateTime: 2021-07-06T09:55:00Z
+originalUrl: "https://news.webindia123.com/news/Articles/Science/20210706/3782572.html"
+webUrl: "https://news.webindia123.com/news/Articles/Science/20210706/3782572.html"
 type: article
-quality: 44
-heat: 44
+quality: 4
+heat: -1
 published: false
 
 provider:
-  name: India Times
-  domain: indiatimes.com
+  name: Webindia 123
+  domain: webindia123.com
 
 topics:
   - AI in Autos
   - AI
 
-images:
-  - url: "https://etimg.etb2bimg.com/thumb/msid-84166314,imgsize-155598,width-800,height-434,overlay-etauto/developing-safe-self-driving-car-a-hard-problem-admits-musk.jpg"
-    width: 800
-    height: 434
-    isCached: true
+related:
+  - title: "Elon Musk admits self-driving is harder than he thought as Tesla owners troll him over missed deadlines"
+    excerpt: "Elon Musk is admitting that self-driving is a harder problem than he originally thought as some Tesla owners are trolling him over yet another missed deadline for Tesla’s self-driving program. The man has a long history of failed predictions regarding Tesla bringing a true self-driving system to market."
+    publishedDateTime: 2021-07-05T11:42:00Z
+    webUrl: "https://electrek.co/2021/07/05/elon-musk-admits-self-driving-harder-than-he-thought-tesla-troll-missed-deadlines/"
+    ampWebUrl: "https://electrek.co/2021/07/05/elon-musk-admits-self-driving-harder-than-he-thought-tesla-troll-missed-deadlines/amp/"
+    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/07/05/elon-musk-admits-self-driving-harder-than-he-thought-tesla-troll-missed-deadlines/amp/"
+    type: article
+    provider:
+      name: Electrek
+      domain: electrek.co
+    quality: 73
+    images:
+      - url: "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2020/08/Tesla-Elon-Musk.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+        width: 1200
+        height: 628
+        isCached: true
+  - title: "Developing safe self-driving car a 'hard problem', admits Tesla CEO Musk"
+    excerpt: "Tesla CEO Elon Musk has finally admitted that developing a safe and reliable self-driving car is indeed a difficult task"
+    publishedDateTime: 2021-07-06T04:42:00Z
+    webUrl: "https://www.business-standard.com/article/automobile/developing-safe-self-driving-car-a-hard-problem-admits-tesla-ceo-musk-121070600204_1.html"
+    ampWebUrl: "https://wap.business-standard.com/article-amp/automobile/developing-safe-self-driving-car-a-hard-problem-admits-tesla-ceo-musk-121070600204_1.html"
+    cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/automobile/developing-safe-self-driving-car-a-hard-problem-admits-tesla-ceo-musk-121070600204_1.html"
+    type: article
+    provider:
+      name: Business Standard
+      domain: business-standard.com
+    quality: 58
+    images:
+      - url: "https://bsmedia.business-standard.com/media-handler.php?mediaPath=https://bsmedia.business-standard.com/_media/bs/img/article/2020-11/18/full/1605681784-7704.jpg&width=1200"
+        width: 1200
+        height: 900
+        isCached: true
+  - title: "Elon Musk Tells Dejected Tesla Owners Self-Driving Is Hard After Repeatedly Missing Deadlines"
+    excerpt: "Tesla owners are apparently losing their patience with CEO Elon Musk and his bold promises surrounding Full Self Driving (FSD). The feature is currently in beta, despite it being a $10,000 option on current Tesla vehicles."
+    publishedDateTime: 2021-07-05T14:11:00Z
+    webUrl: "https://hothardware.com/news/elon-musk-tells-tesla-owners-self-driving-is-hard-after-repeatedly-missing-deadlines"
+    ampWebUrl: "https://amp.hothardware.com/news/elon-musk-tells-tesla-owners-self-driving-is-hard-after-repeatedly-missing-deadlines"
+    cdnAmpWebUrl: "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/elon-musk-tells-tesla-owners-self-driving-is-hard-after-repeatedly-missing-deadlines"
+    type: article
+    provider:
+      name: HotHardware
+      domain: hothardware.com
+    quality: 48
+    images:
+      - url: "https://images.hothardware.com/contentimages/newsitem/55591/content/tesla_model_3_performance.jpg"
+        width: 708
+        height: 454
+        isCached: true
+  - title: "Watch This Tesla Owner's DIY Robo-Charger Stick Its Landing"
+    excerpt: "It's the kind of charging technology that Tesla CEO Elon Musk has teased before, but hasn't yet delivered. So let's take a look at Larson's charging setup to see what's going on under the hood. ➡️ You love badass cars."
+    publishedDateTime: 2021-07-02T13:00:00Z
+    webUrl: "https://www.popularmechanics.com/science/green-tech/a36731566/tesla-automatic-charger/"
+    type: article
+    provider:
+      name: Popular Mechanics
+      domain: popularmechanics.com
+    quality: 41
+    images:
+      - url: "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/still-jpg-738x478-1625175316.jpg?crop=1xw:0.7719665271966527xh;center,top&resize=1200:*"
+        width: 738
+        height: 369
+        isCached: true
+  - title: "Elon Musk Admits That Full-Self Driving Is a Hard Problem To Solve"
+    excerpt: "CEO Elon Musk admitted this weekend that creating a car that is truly self-driving is a “hard problem” to solve. Musk has been promising to release Full Self-Driving software upgrades for several years,"
+    publishedDateTime: 2021-07-06T02:01:00Z
+    webUrl: "https://hypebeast.com/2021/7/elon-musk-full-self-driving-hard-problem-to-solve"
+    type: article
+    provider:
+      name: Hypebeast
+      domain: hypebeast.com
+    quality: 39
+    images:
+      - url: "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2021%2F07%2FElon-Musk-Admits-That-Full-Self-Driving-Is-a-Hard-Problem-To-Solve-tw.jpg?w=960&cbr=1&q=90&fit=max"
+        width: 960
+        height: 480
+        isCached: true
+  - title: "Musk: making self-driving cars is difficult"
+    excerpt: "Tesla CEO Elon Musk has admitted creating fully autonomous vehicles is more difficult than he expected at a time when his company is facing greater public scrutiny for Autopilot accidents. “Generalised self-driving is a hard problem,"
+    publishedDateTime: 2021-07-06T02:10:00Z
+    webUrl: "https://ia.acs.org.au/article/2021/musk--making-self-driving-cars-is-difficult.html"
+    type: article
+    provider:
+      name: acs.org.au
+      domain: acs.org.au
+    quality: 24
+    images:
+      - url: "https://ia.acs.org.au/content/dam/ia/article/images/2021/tesla%20factory%20cars.jpg"
+        width: 675
+        height: 380
+        isCached: true
+  - title: "Elon Musk says he didn’t expect creating self-driving cars would be ‘so hard’"
+    excerpt: "Elon Musk has admitted that delivering full self-driving software has been harder than he anticipated, to a chorus of both complaints and encouragement on Twitter. “Generalised self-driving is a hard problem,"
+    publishedDateTime: 2021-07-05T18:16:00Z
+    webUrl: "https://www.independent.co.uk/news/elon-musk-says-he-didn-t-expect-creating-selfdriving-cars-would-be-so-hard-b1878605.html"
+    type: article
+    provider:
+      name: The Independent
+      domain: independent.co.uk
+    quality: 21
+    images:
+      - url: "https://static.independent.co.uk/s3fs-public/thumbnails/image/2018/12/12/15/elon-musk.jpg?width=1200&auto=webp&quality=75"
+        width: 1200
+        height: 900
+        isCached: true
 
-secured: "S3fNBabd1N9XlV3J8ZPC6vcuXcOuij8OFFKGQHmONpPIqifak6uqfYvzFlR3FaRbV6nUZYc14zUIWrRIstN/vtr0PjLqae73kzSxn3VbiTMlALCpTihJW9GBR10VGPgVM+7k1tikpbmOgZH9o5sQcr0K9lY0j7aWlgJ1yUF5moSyxNewtepq2J8aKkfrCX82syFoS9hsvlxzDn+Vb0U/kbh8DZA/ZZP7cXvTivWp9VuJhEUL9O08ZZWt8Q4oM7NLlEOYtZayeS1hGNn6n32u0x/GQEe0b0UEQ/e8MHapl0s3P2ieLManfPlLhsXo4HuOmgSUFVH6lwLMAE/uiLQPX1dRkFpZ3CxIrMIjHUzTSjo=;aZf0LdIgwDm+e0TDVOXVBA=="
+secured: "q5J4AdZUkYRdPAUpmjhDZHgZdhoGD3LobFTYpRk1/wrUXhfRfYXhhs6dPdwjyxL1WvvG9JUy+vVqwacdTyaEQ+xvzlN/FhYFbB2VnH2wUw7g9/zcXYVK80eNhIU6I4hcIKNMqRBADcKAkwkJEa4+00G32sq5zb+gJ1FFbpbTb0HjQMeYwcjcez0PbW22b5y47vB41wvOyZZnnn+R18UTfrHxeint+miSnope9eDeHowrRbQYU5sUqG6yYqGPisj4Vc0QiIDkt8aduFpO0TZhW/66DSvbiJK7d2vvtlMwqJihqMFgh0H4gHIAj1PvT9vIzQ+3tmRnnLaI/HdYEM4KjTZZC7G8kOibipkOdl8BAG8=;TjRASV8+vZHw7/8rzS812g=="
 ---
 

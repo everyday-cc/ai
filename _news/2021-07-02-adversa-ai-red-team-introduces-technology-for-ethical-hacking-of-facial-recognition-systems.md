@@ -7,8 +7,8 @@ originalUrl: "https://www.cioapplications.com/news/adversa-ai-red-team-introduce
 webUrl: "https://www.cioapplications.com/news/adversa-ai-red-team-introduces-technology-for-ethical-hacking-of-facial-recognition-systems--nid-8028.html"
 type: article
 quality: 61
-heat: -1
-published: false
+heat: 71
+published: true
 
 provider:
   name: CIO Applications
@@ -26,35 +26,19 @@ images:
     isCached: true
 
 related:
-  - title: "Pearl Granted Patent for AI Dental Radiology Technology"
-    excerpt: "Pearl, the leader in AI solutions for efficiency, accuracy, and consistency in dental care, today announced that the United States Patent Office has issued U.S. Patent No. 10,984,529 entitled \"Systems and methods for automated medical image annotation."
-    publishedDateTime: 2021-07-01T16:00:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/pearl-granted-patent-for-ai-dental-radiology-technology-1030572057"
+  - title: "13 federal law enforcement agencies haven’t been monitoring facial recognition technology use"
+    excerpt: "The report from the U.S. Government Accountability Office (GAO) said 13 of the federal law enforcement agencies surveyed that use facial recognition technology did not have a system in place to track when or how employees were using the system or to assess the privacy risks associated with the use."
+    publishedDateTime: 2021-07-02T21:40:00Z
+    webUrl: "https://www.wpxi.com/news/top-stories/13-federal-law-enforcement-agencies-havent-been-monitoring-facial-recognition-technology-use/XLJYVPKNLRB37G2W252WIKKJXA/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 67
+      name: WPXI
+      domain: wpxi.com
+    quality: 28
     images:
-      - url: "https://mma.prnewswire.com/media/1039359/Pearl_Logo.jpg"
-        width: 400
-        height: 303
-        isCached: true
-  - title: "Technology and AI for humanitarian action are the need of the hour"
-    excerpt: "With the technology available to us, much more can be done to reduce losses from natural disasters, to make ourselves safer, and to make the world mor.."
-    publishedDateTime: 2021-07-06T03:44:00Z
-    webUrl: "https://cio.economictimes.indiatimes.com/news/strategy-and-management/technology-and-ai-for-humanitarian-action-are-the-need-of-the-hour/84162486"
-    ampWebUrl: "https://cio.economictimes.indiatimes.com/amp/news/strategy-and-management/technology-and-ai-for-humanitarian-action-are-the-need-of-the-hour/84162486"
-    cdnAmpWebUrl: "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/strategy-and-management/technology-and-ai-for-humanitarian-action-are-the-need-of-the-hour/84162486"
-    type: article
-    provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 57
-    images:
-      - url: "https://etimg.etb2bimg.com/thumb/msid-84162486,imgsize-51057,width-800,height-434,overlay-etcio/technology-and-ai-for-humanitarian-action-are-the-need-of-the-hour.jpg"
-        width: 800
-        height: 434
+      - url: "https://d1hfln2sfez66z.cloudfront.net/07-02-2021/t_0b890523399842af94bf32e2b9fcc9b0_name_file_960x540_1200_v3_1_.jpg"
+        width: 960
+        height: 540
         isCached: true
 
 secured: "7Z8GQ1iDDRTFFKi9tCj3cESE3RMNqswim7ZCOhUo4SH3tsa5hVTgNW148OVZM9+So4oK4yk7w0nRNIZku0mXWuj2WJa3bJztcTjslVKyAUpt50pQl2tPI6W1yI2Yy9WH39xjug7I0zBKy2gvX+I6ZTGwfytXkzU5OihFyjAsgfxNvvzkSB723Zr7LfvogMB2JB2db8vDQlgs5OO8ceJTZECADpUORyVte9ExXfJDLG6otvsgmaWO7Ov/BNpae2cxga16UVixNl3o9zmpHRLJHLbiz5EWTiUmt70xXdDrmQ017nvLUhWBBVmnYLe5MJK42JzIHbAuSrDpnpOUYa4WMM1QPxeWlvovE/oFzOqsaIjUOs3dJ6RMdZRPXpXbM46cvSExBIZ+Go09V+epEOknJQQBYSUKLb1wE1FDfpgbjkwFkj+X+WwRhQiafDHdt6WoOP27rcyyA2E72pBHVd1V7RWu4an6FyRstdoZwtLgmB9AYbzUwKHQeP4vej3lMuu2Fw7B5GqDS145FJoUHVvpUw==;P1xlpEt14qZLb3r18vdHzQ=="
