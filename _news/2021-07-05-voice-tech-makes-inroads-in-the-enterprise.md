@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/07/04/voice-tech-makes-inroads-in-the-e
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/04/voice-tech-makes-inroads-in-the-enterprise/amp/"
 type: article
 quality: 74
-heat: 74
+heat: 84
 published: true
 
 provider:
@@ -29,6 +29,22 @@ images:
     width: 1200
     height: 829
     isCached: true
+
+related:
+  - title: "Take a note, Alexa – Voice technology comes into its own for enterprises"
+    excerpt: "Voice technology has been one of those verticals where the transformative potential for organizations has so far outweighed the tangible real-world impact."
+    publishedDateTime: 2021-07-07T07:50:00Z
+    webUrl: "https://techhq.com/2021/07/take-a-note-alexa-voice-technology-comes-into-its-own-for-enterprises/"
+    type: article
+    provider:
+      name: TechHQ
+      domain: techhq.com
+    quality: 23
+    images:
+      - url: "https://cdn2.techhq.com/wp-content/uploads/2021/07/063_127990030.jpg"
+        width: 1024
+        height: 739
+        isCached: true
 
 secured: "obk9EMRXAZfqCQ7ppOzrbdmAcFk6xjVfMaD3naiDRTR8SF4ll8kk+F0fFIq5zQJPHLe/GAl/S+XpeuKx54mre1ZoFjwUvDlwgwbBOwlGGN+h1gyCsd46c5v46jXLGuvfWJDzzr2OvIqkTE26Nl5B8uVoCjtRNHTBTjw3esM9Gvy5rdG3bCcDwN3WLEMc48GvznxtLG0duAm4Gu4C5Net27Wp/hgzXFadJrec66ZvRVnI3GAzvsOYInUycO7h7tCLN3IlZWZ13ub5EsV2Ykqh7tQEFkDzSbKJxaL3E7vwSnxT27mE7dwsPe+LhL05FJg/RsUKQtjeQavUp9KhUMRLDoiCSVvayUCdK8t29nOXjLk9rnEJydK/eBMbgV66ANDOckizYmpEnw4Tg0FxfgmUdn/mx6k7uJYuWGrM1qmoCylmOyHXs+odsejAtRXVphtfTSWe4UNi4Bpjc4uqESKvhW7yfhB/J/6QFHj45OnylhlSHUXCNani8ONQLpWQfJ/k3GaTx1anI0+WqP470OUpyQ==;ES3GDTNEE8ti64G3ZL6W7A=="
 ---

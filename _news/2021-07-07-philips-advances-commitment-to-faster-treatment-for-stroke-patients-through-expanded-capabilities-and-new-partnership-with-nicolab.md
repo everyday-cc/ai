@@ -22,11 +22,11 @@ topics:
 
 related:
   - title: "Philips accelerates stroke diagnosis and treatment with expanded integrated solutions and strategic partnership"
-    excerpt: "Expanded capabilities of Philips Image Guided Therapy System – Azurion – and new collaboration with NICO.LAB add to the latest advances in Philips' commitment"
-    publishedDateTime: 2021-07-07T08:05:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/21/07/tr21870227/philips-accelerates-stroke-diagnosis-and-treatment-with-expanded-integrated-solutions-and-strateg"
-    ampWebUrl: "https://www.benzinga.com/amp/content/21870227"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/21870227"
+    excerpt: "Expanded capabilities of Philips Image Guided Therapy System – Azurion – and new collaboration ... portfolio of solutions across the stroke care pathway with advanced artificial intelligence and cloud capabilities, strengthening care collaboration ..."
+    publishedDateTime: 2021-07-07T10:25:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/21/07/g21870228/philips-accelerates-stroke-diagnosis-and-treatment-with-expanded-integrated-solutions-and-strategi"
+    ampWebUrl: "https://www.benzinga.com/amp/content/21870228"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/21870228"
     type: article
     provider:
       name: Benzinga.com

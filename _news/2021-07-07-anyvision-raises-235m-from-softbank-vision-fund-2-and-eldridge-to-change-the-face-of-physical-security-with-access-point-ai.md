@@ -1,12 +1,12 @@
 ---
 category: news
 title: "AnyVision Raises $235M from SoftBank Vision Fund 2 and Eldridge to Change the Face of Physical Security with Access Point AI"
-excerpt: "“The Access Point AI platform is designed to protect people ... by integrating SDKs and software onto edge-devices (e.g., smart cameras, bodycams, and even chips) to deliver superior video analytics in terms of speed, security, affordability, flexibility ..."
+excerpt: "AnyVision, the world’s leading Recognition AI company, today announced it has secured an investment of $235 million from SoftBank Vision Fund 2i and Eldridge with further participation from existing investors. The infusion is one of the largest funding ..."
 publishedDateTime: 2021-07-07T09:06:00Z
 originalUrl: "https://www.morningstar.com/news/business-wire/20210707005189/anyvision-raises-235m-from-softbank-vision-fund-2-and-eldridge-to-change-the-face-of-physical-security-with-access-point-ai"
 webUrl: "https://www.morningstar.com/news/business-wire/20210707005189/anyvision-raises-235m-from-softbank-vision-fund-2-and-eldridge-to-change-the-face-of-physical-security-with-access-point-ai"
 type: article
-quality: 11
+quality: 7
 heat: -1
 published: false
 
@@ -15,12 +15,42 @@ provider:
   domain: morningstar.com
 
 topics:
-  - AI Hardware
   - AI
   - AI in Security
-  - Computer Vision
 
 related:
+  - title: "AnyVision, the controversial facial recognition startup, has raised $235M led by SoftBank and Eldridge"
+    excerpt: "AnyVision — an Israeli startup that has built AI-based techniques to identify people by their faces, but also related tech such as temperature checks to detect higher temperatures in a crowd ..."
+    publishedDateTime: 2021-07-07T09:06:00Z
+    webUrl: "https://techcrunch.com/2021/07/07/anyvision-the-controversial-facial-recognition-startup-has-raised-235m-led-by-softbank-and-eldridge/"
+    ampWebUrl: "https://techcrunch.com/2021/07/07/anyvision-the-controversial-facial-recognition-startup-has-raised-235m-led-by-softbank-and-eldridge/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/07/07/anyvision-the-controversial-facial-recognition-startup-has-raised-235m-led-by-softbank-and-eldridge/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 88
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2019/11/GettyImages-1167845607.jpg?w=1024"
+        width: 1024
+        height: 576
+        isCached: true
+  - title: "SoftBank Backs Facial-Recognition Startup Despite Privacy Concerns"
+    excerpt: "SoftBank Group Corp. is leading an investment in AnyVision Interactive Technologies Ltd. that values the facial-recognition company at over $1 billion, according to a person familiar with the matter, underscoring its commitment to the technology despite ..."
+    publishedDateTime: 2021-07-07T09:51:00Z
+    webUrl: "https://www.wsj.com/articles/softbank-backs-facial-recognition-startup-despite-privacy-concerns-11625650539"
+    ampWebUrl: "https://www.wsj.com/amp/articles/softbank-backs-facial-recognition-startup-despite-privacy-concerns-11625650539"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/softbank-backs-facial-recognition-startup-despite-privacy-concerns-11625650539"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 74
+    images:
+      - url: "https://images.wsj.net/im-365440/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "AI facial recognition co AnyVision raises $235m"
     excerpt: "Israeli AI-driven facial recognition company AnyVision has announced the completion of a $235 million financing round from SoftBank Vision Fund 2 and Eldridge with participation from existing investors."
     publishedDateTime: 2021-07-07T09:42:00Z
@@ -35,23 +65,7 @@ related:
         width: 800
         height: 392
         isCached: true
-  - title: "Global smartphone brand's achievements in AI recognized at the Computer Vision and Pattern Recognition Conference 2021"
-    excerpt: "Leading global smartphone brand OPPO recently took part in the premier annual computer vision event Computer Vision and Pattern Recognition Conference (CVPR) 2021. During the conference, OPPO's achiev"
-    publishedDateTime: 2021-07-06T21:32:00Z
-    webUrl: "https://mb.com.ph/2021/07/07/global-smartphone-brands-achievements-in-ai-recognized-at-the-computer-vision-and-pattern-recognition-conference-2021/"
-    ampWebUrl: "https://mb.com.ph/2021/07/07/global-smartphone-brands-achievements-in-ai-recognized-at-the-computer-vision-and-pattern-recognition-conference-2021/?amp"
-    cdnAmpWebUrl: "https://mb-com-ph.cdn.ampproject.org/c/s/mb.com.ph/2021/07/07/global-smartphone-brands-achievements-in-ai-recognized-at-the-computer-vision-and-pattern-recognition-conference-2021/?amp"
-    type: article
-    provider:
-      name: Manila Bulletin
-      domain: mb.com.ph
-    quality: 50
-    images:
-      - url: "https://mb.com.ph/wp-content/uploads/2021/07/16154.jpeg"
-        width: 1000
-        height: 1000
-        isCached: true
 
-secured: "llrQ2cxQg1u/hyyuL1yCRoWr9ADjUBc5xPn6l3LuG4YEHTioKbhdncKU67Gud00CSLt5BGqzUrsEodbGTZdXz4YAm8gzqI5eNzlT2HilNrTWFq9QrjKf3McNc+t+32slVMMHtS6C+49bGSBLfQ9LMyB7sWskZ4sHo617T8s/yjYJAbDQR3wuYXKW+QhfBquXFl6huBR/lNIMkigkVZHfR0xN6gAdJ1ug6aq3yZPnfQoOvBg9AtLT0HVRQOk13YLPWZCiwMnrNiHJ2Tkb/CJvRT3qExIJmJLWAKXomybjRv0ETZHwJ6i+V1z+qSnYD7I+SGfHTi3J18Iyf0tIcZU2S2x/AXe9BHQGu7oXZd9UY3c=;woP4BPW8FtY9tI/0b7lyMg=="
+secured: "L1FLoJJVFOIxx+n5v6ercS+/eGEOfHczHNVmLtxxW9Yi+noye1BuI36SduYzm7ULgeOnWbRgMVfagn1RAIK8aU/eViljnYMIN8hwUUptujcZWOiOjpLD6i+2T1tjkuxhiiezAhMuHnOnLMLpqS4fkRbaLykO3v0+sdFhvRu2nmv7UXGE1OJVr0NqRInDYE7jkFFjQfZgq0/04F8J96Xz9IzO7mW7UCK3BI0aDZQEH+wQZIULX6EafyJ1FZQdizBdw4wLPcayLeHxR+UoTYryKnaWlUmOiqQmQasKKSDG7hmp/QckJA/DnjBo+oEHgJ97epbonLFctN+WPF90exG4Y828JNqf0ykwkoAL8mm6a5g=;Y3Nz7LwcdWgScsQ58kaIJg=="
 ---
 

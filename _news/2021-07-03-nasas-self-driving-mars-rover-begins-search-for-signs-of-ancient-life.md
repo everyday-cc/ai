@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Martian AutoNav: NASA’s Self-Driving Perseverance Mars Rover “Takes the Wheel”"
-    excerpt: "Perseverance relies on left and right navigation cameras. The view seen here combines the perspective of two cameras rover during the rover’s first drive using AutoNav, it’s auto-navigation function."
-    publishedDateTime: 2021-07-02T17:25:00Z
-    webUrl: "https://scitechdaily.com/martian-autonav-nasas-self-driving-perseverance-mars-rover-takes-the-wheel/"
-    ampWebUrl: "https://scitechdaily.com/martian-autonav-nasas-self-driving-perseverance-mars-rover-takes-the-wheel/amp/"
-    cdnAmpWebUrl: "https://scitechdaily-com.cdn.ampproject.org/c/s/scitechdaily.com/martian-autonav-nasas-self-driving-perseverance-mars-rover-takes-the-wheel/amp/"
-    type: article
-    provider:
-      name: SciTech Daily
-      domain: scitechdaily.com
-    quality: 40
-    images:
-      - url: "https://scitechdaily.com/images/3D-Glasses-Used-for-Rover-Driving-777x520.jpg"
-        width: 777
-        height: 520
-        isCached: true
   - title: "NASA’s Perseverance Rover Is Self-Driving On Mars With Enhanced Auto-Navigation System"
     excerpt: "NASA’s Perseverance rover is exploring the red planet with a new auto-navigation system that lets it drive by itself."
     publishedDateTime: 2021-07-05T08:36:00Z

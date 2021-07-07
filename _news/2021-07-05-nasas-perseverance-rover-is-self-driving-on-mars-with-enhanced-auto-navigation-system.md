@@ -7,7 +7,7 @@ originalUrl: "https://in.mashable.com/science/23311/nasas-perseverance-rover-is-
 webUrl: "https://in.mashable.com/science/23311/nasas-perseverance-rover-is-self-driving-on-mars-with-enhanced-auto-navigation-system"
 type: article
 quality: 26
-heat: -1
+heat: 26
 published: false
 
 provider:
@@ -19,22 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Martian AutoNav: NASA’s Self-Driving Perseverance Mars Rover “Takes the Wheel”"
-    excerpt: "Perseverance relies on left and right navigation cameras. The view seen here combines the perspective of two cameras rover during the rover’s first drive using AutoNav, it’s auto-navigation function."
-    publishedDateTime: 2021-07-02T17:25:00Z
-    webUrl: "https://scitechdaily.com/martian-autonav-nasas-self-driving-perseverance-mars-rover-takes-the-wheel/"
-    ampWebUrl: "https://scitechdaily.com/martian-autonav-nasas-self-driving-perseverance-mars-rover-takes-the-wheel/amp/"
-    cdnAmpWebUrl: "https://scitechdaily-com.cdn.ampproject.org/c/s/scitechdaily.com/martian-autonav-nasas-self-driving-perseverance-mars-rover-takes-the-wheel/amp/"
-    type: article
-    provider:
-      name: SciTech Daily
-      domain: scitechdaily.com
-    quality: 40
-    images:
-      - url: "https://scitechdaily.com/images/3D-Glasses-Used-for-Rover-Driving-777x520.jpg"
-        width: 777
-        height: 520
-        isCached: true
   - title: "NASA’s self-driving Mars Rover begins search for signs of ancient life"
     excerpt: "NASA’s self-driving six-wheeled robot on Mars — the Perseverance rover — is set to start an epic journey across a crater floor to seek signs of ancient life, the US space agency said on Friday. The rover,"
     publishedDateTime: 2021-07-02T19:06:00Z

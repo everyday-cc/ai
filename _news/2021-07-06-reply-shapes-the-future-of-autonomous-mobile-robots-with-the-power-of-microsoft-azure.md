@@ -50,6 +50,22 @@ related:
         width: 1600
         height: 1069
         isCached: true
+  - title: "Sound Recognition Market to Eyewitness Massive Growth by 2026: Baidu, Yandex, LG, Harman, Sensory"
+    excerpt: "The latest independent research document on Global Sound Recognition examine investment in Market It describes how companies deploying these technologies across various industry verticals aim to explore its potential to become a major business disrupter The Sound Recognition study eludes"
+    publishedDateTime: 2021-07-07T10:44:00Z
+    webUrl: "https://www.openpr.com/news/2323098/sound-recognition-market-to-eyewitness-massive-growth-by-2026"
+    ampWebUrl: "https://www.openpr.com/amp/2323098/sound-recognition-market-to-eyewitness-massive-growth-by-2026"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2323098/sound-recognition-market-to-eyewitness-massive-growth-by-2026"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 46
+    images:
+      - url: "https://cdn.openpr.com/U/7/U707881424_g.jpg"
+        width: 450
+        height: 300
+        isCached: true
   - title: "Microsoft experiments with high-end machine learning on Xbox Series X"
     excerpt: "Microsoft is hiring new software engineers to help create new next-gen machine learning algorithms for Xbox Series X/S consoles."
     publishedDateTime: 2021-07-03T22:14:00Z

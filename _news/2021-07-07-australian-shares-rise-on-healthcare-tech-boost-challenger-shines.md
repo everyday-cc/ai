@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUKL3N2OJ04L"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKL3N2OJ04L"
 type: article
 quality: 69
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -39,6 +39,17 @@ related:
         width: 1200
         height: 678
         isCached: true
+  - title: "Half-measures won’t do on the Voice, minister: Australians have spoken"
+    excerpt: "He claims there is not yet enough public support to move towards constitutional recognition and that further work needs to be done on the potential wording of such a provision to establish the Voice before a decision can be made on whether a referendum ..."
+    publishedDateTime: 2021-07-07T10:01:00Z
+    webUrl: "https://www.smh.com.au/national/half-measures-won-t-do-on-the-voice-minister-australians-have-spoken-20210707-p587on.html"
+    ampWebUrl: "https://amp.smh.com.au/national/half-measures-won-t-do-on-the-voice-minister-australians-have-spoken-20210707-p587on.html"
+    cdnAmpWebUrl: "https://amp-smh-com-au.cdn.ampproject.org/c/s/amp.smh.com.au/national/half-measures-won-t-do-on-the-voice-minister-australians-have-spoken-20210707-p587on.html"
+    type: article
+    provider:
+      name: Sydney Morning Herald
+      domain: smh.com.au
+    quality: 24
 
 secured: "VLGx1w+wa+E7RrZCuDaEsckT0XxYsTbEUxGU5O2rnJTnbmgRPb7zZA/IFsQy2eihAje8A4Bs8QjYfH3AUi3jeIMynvhrHWUyhUdTpcZTnGfcmalvyrlWphtkNjZ/rxyUkaIVhHkx+YsbdnqQKx+knXo7hvJErolaWAbY7w+pwqFnkSDN8Xc6Juhhy9bhz5HMCJsjnEK80Tj2/vwdfUYWJ3DOQ0cJA8Wo1utyuOvC6hqk+RZL/QuSURroecd0WsPBN3kWZk9JG1qd3qmBGW8sv1FNRwWOhV9PBa4yfg8EQd7qdS9kViBq/VipOA276GpFajZSborfbUSIn0iHvWrSRtE5k29UMaFFbvrJkGJt3+0=;ypGok0M/f3G35IKtc15onA=="
 ---

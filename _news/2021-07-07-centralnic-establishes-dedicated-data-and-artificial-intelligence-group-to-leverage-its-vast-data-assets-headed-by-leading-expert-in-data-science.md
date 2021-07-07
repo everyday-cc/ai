@@ -1,28 +1,21 @@
 ---
 category: news
 title: "CentralNic Establishes Dedicated Data and Artificial Intelligence Group to Leverage its Vast Data Assets, Headed by Leading Expert in Data Science"
-excerpt: "CentralNic Group plc (AIM: CNIC), the fastest-growing company in the domain name industry, with over 45 million domains using its platforms, today announced that it has established a Data and Artificial Intelligence (\"AI\") Group to leverage its"
-publishedDateTime: 2021-07-07T06:21:00Z
-originalUrl: "https://www.lelezard.com/en/news-19889998.html"
-webUrl: "https://www.lelezard.com/en/news-19889998.html"
+excerpt: "CentralNic Group plc (AIM: CNIC), the fastest-growing company in the domain name industry, with over 45 million domains using its platforms, today announced that it has established a Data and Artificial Intelligence (\"AI\") Group to leverage its vast data sets."
+publishedDateTime: 2021-07-07T06:17:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-centralnic-establishes-dedicated-data-artificial-intelligence-group-leverage-/2021/07/07/9403875.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-centralnic-establishes-dedicated-data-artificial-intelligence-group-leverage-/2021/07/07/9403875.htm"
 type: article
-quality: 1
+quality: 0
 heat: -1
 published: false
 
 provider:
-  name: Le Lézard
-  domain: lelezard.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
-  - AI in Healthcare
   - AI
-
-images:
-  - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
-    width: 640
-    height: 480
-    isCached: true
 
 related:
   - title: "CentralNic sets up a data and artificial intelligence operation"
@@ -42,6 +35,6 @@ related:
         height: 740
         isCached: true
 
-secured: "TyBt16Q35juMhNldV/NfEdzdYlNlEmlm21eyL0yEclXijngVnwiAGnPWjYx8XyW6ItVJY2a0+TaAa9GYBPBGmFVsQxU4qQad6dJUm4NaF8hzKzmEag89uvcjGnWw6Ko7DdGTU/Dvl+hljiELCOAMswGnal5tJiylrs8FKANzUMM598o49Ng6KJUw3SESqX/f3X72BWemTQUtyvz7NZLqp3RiqR4b0vEySLNNp5VTZIIwhL6YYan08/ilZnMN3HRguP6J+Mnp8f+xvRL5jA8daDbZURO34/jwwfn9/VdqIacm3nwXuLcxyt8u2fbQgx/xwB/BHSYohXkUgC1g6uxm/t51kL+wJTeTpef7iC8QrA0=;DCWo7q3JE6iTUk8ptCgSYg=="
+secured: "Hy/2m7F0bkwPS55kukshclfNdsPC4my1K/G6aEmJ49/XojE1326ESuMh2nb3LYGA0afS+vtdOxFADw/fGqgl4fA2UUbJ6J18kTJHDyJYJbkHR/2dxBIFjgYEga1z+/yWNdSqOGKmj2A7utBXSqXQSGRLXboyZeaQe1HmLgY2WHrlLGTab8Df8e5IyGmVQ5zrGkvDizqGKqKFYLuKUR6BQO70YYaTY6Nx+0baVO2aShBrL90oUCuzV4btW+nEKs2N6Qhnfmi23Omww2YxCHV6JEMh1n68q5AvnIvul4KEAX7VZVr/usAzEo3y2hupb7rg3D4/a6/+HBI2IoEFZjn304hzmLZffa6L2MtaB6WF7hM=;TDFNDc/rUcOwu5Uij3GH3A=="
 ---
 

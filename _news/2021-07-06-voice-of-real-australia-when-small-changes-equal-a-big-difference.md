@@ -36,6 +36,17 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 69
+  - title: "Half-measures won’t do on the Voice, minister: Australians have spoken"
+    excerpt: "He claims there is not yet enough public support to move towards constitutional recognition and that further work needs to be done on the potential wording of such a provision to establish the Voice before a decision can be made on whether a referendum ..."
+    publishedDateTime: 2021-07-07T10:01:00Z
+    webUrl: "https://www.smh.com.au/national/half-measures-won-t-do-on-the-voice-minister-australians-have-spoken-20210707-p587on.html"
+    ampWebUrl: "https://amp.smh.com.au/national/half-measures-won-t-do-on-the-voice-minister-australians-have-spoken-20210707-p587on.html"
+    cdnAmpWebUrl: "https://amp-smh-com-au.cdn.ampproject.org/c/s/amp.smh.com.au/national/half-measures-won-t-do-on-the-voice-minister-australians-have-spoken-20210707-p587on.html"
+    type: article
+    provider:
+      name: Sydney Morning Herald
+      domain: smh.com.au
+    quality: 24
 
 secured: "bDl+jA0ltQziUfKN2hav7pHUR5dZGUEQBdnHe8a9tpCrc5uiC5kjb7iVzHMf5EJN3T+N3cZKC1gVdS/hFNIAnbPiw3IUjzP3S/MWc8KFsmWaB4fsxRmsnBOnR2fowxnyrPGhxOzkvfs0elI3Nwa+HPiOwUqXf4GfX7AMTN5USAhISvEMdiDtJraJw39wdB5Cv3ykM6AePSAs3ZkODpwU71eJleE58b9OnMdbAAn7rC19cpi4fuMoJtKEQ4z4BPZRti1Wu3UgMUxlzAnRSNhEwZWvsKoGJ9aG7mNKJ/QpDb3FevCfhTlguctJ2pc9qqokZEMC3Vx4P9BWMUIJmU7dMPOUo7uip7GhFh+n5XRLJNI=;qMoeTn6DGTXLlJEUJItc1A=="
 ---

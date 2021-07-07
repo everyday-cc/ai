@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/anniebrown/2021/07/04/ai-driven-robots-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/anniebrown/2021/07/04/ai-driven-robots-are-here-for-good/amp/"
 type: article
 quality: 106
-heat: 116
+heat: 106
 published: true
 
 provider:
@@ -30,22 +30,6 @@ images:
     width: 1200
     height: 702
     isCached: true
-
-related:
-  - title: "WHO FOR AI FOR HEALTHCARE"
-    excerpt: "The report lays down six principles for design and use of AI in healthcare globally, with caution The past year or so has been a binge-watch of web series for many of us. I have been going through sev"
-    publishedDateTime: 2021-07-02T18:47:00Z
-    webUrl: "https://www.dailypioneer.com/2021/columnists/who-for-ai-for-healthcare.html"
-    type: article
-    provider:
-      name: The Pioneer
-      domain: dailypioneer.com
-    quality: 56
-    images:
-      - url: "https://www.dailypioneer.com/uploads/2021/story/images/big/who-for-ai-for-healthcare-2021-07-03.jpg"
-        width: 1000
-        height: 800
-        isCached: true
 
 secured: "cih/UHWuikdyouqBYD9bX8LFsiE1dYwLbNh0GqpHBNcxwKIXeWjhBafACvSBHfNRt0n5vz544zPSv2DP1WatNOFWcUrr31u3vbCTDABhw9sry8kDFS+fJHdtThN7AiYWTSh0IpUGm1UuzyOPs0d7KMA4Jeg31XWUCZjvDGyqcGP8fMIcktDLh8cNS+VANOLdu7v+LogbnLr8+sqFtPrWYxclcnIBV7+dB92YwVFJU/Jp4VPW/Q1AxyIcX2rSwPB0LrbIS4ZlyZUIai5tZ5JPw7gHftxnEqcf0B/3EK12O4lBiqDDApWjFATyHDGne9Hi+txKtPVuz3AzHF3X1AsF9nTBE3HehskaGgNzS+jVMtgoeDwpk6ti257qAeS2dZxQoIj2HoTeL6ym5B1grO6lR/IFm3AtMETaaMwiQRAbQAR+0J1FOKcggwXNHvBKStcHG+o65ocRIFGaY4PZQ/H+x2mp7gsYv1z0xbAmDj9F1T4F5xCVN4U3M/JhOK07wWlt5bU5CLKb7B4oQPxxmvmfCQ==;aq+WXiVI/AckeSNGduGEfg=="
 ---

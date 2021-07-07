@@ -1,12 +1,12 @@
 ---
 category: news
 title: "Philips accelerates stroke diagnosis and treatment with expanded integrated solutions and strategic partnership"
-excerpt: "Expanded capabilities of Philips Image Guided Therapy System – Azurion – and new collaboration with NICO.LAB add to the latest advances in Philips' commitment"
-publishedDateTime: 2021-07-07T08:05:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/21/07/tr21870227/philips-accelerates-stroke-diagnosis-and-treatment-with-expanded-integrated-solutions-and-strateg"
-webUrl: "https://www.benzinga.com/pressreleases/21/07/tr21870227/philips-accelerates-stroke-diagnosis-and-treatment-with-expanded-integrated-solutions-and-strateg"
-ampWebUrl: "https://www.benzinga.com/amp/content/21870227"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/21870227"
+excerpt: "Expanded capabilities of Philips Image Guided Therapy System – Azurion – and new collaboration ... portfolio of solutions across the stroke care pathway with advanced artificial intelligence and cloud capabilities, strengthening care collaboration ..."
+publishedDateTime: 2021-07-07T10:25:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/21/07/g21870228/philips-accelerates-stroke-diagnosis-and-treatment-with-expanded-integrated-solutions-and-strategi"
+webUrl: "https://www.benzinga.com/pressreleases/21/07/g21870228/philips-accelerates-stroke-diagnosis-and-treatment-with-expanded-integrated-solutions-and-strategi"
+ampWebUrl: "https://www.benzinga.com/amp/content/21870228"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/21870228"
 type: article
 quality: 4
 heat: 4
@@ -33,6 +33,6 @@ related:
       domain: europawire.eu
     quality: 0
 
-secured: "tQPpwNTuH+HUBhzNMoE7lLJcuiYpdvtVpsQUyiV2bB4gtFr0dhfBZYql6N2h3L+GLwB2grKCoYlN7Q1QE9BKMNIwEvAgbqGNy2vSIOWAoP36HG/c4QbgaPC62I8vvvanYQeFNwLLFwr8DiBMetVT/CSKy3g2zqL6sL3T+GzHCw1eFX9tlH2Oy/xbCpr7a/+EmQKw9+pH6MbGuy43BHlW2iHo7teKV4BdzDxjUYqQbQEWy7ZVl3VwLllVGSaQf+qnZtRYM8lMCLxuscCUXbxUsMOk9oDvJShA5tgWc7HTPYgomgHIA+WPVSUN8LJ8yVKMSpFUDecHhxgvmkausRzLcT1vyIYuTo8CjEuKfG0azvM=;XWh3d86iTTog+drupR6HlA=="
+secured: "JDoktVWz6Vgr3hHB0gTOs0B+7lmRlLBFl5B7pfAXZoHBLfTYPQUV7IEJqc1O5KDBjDmtT8UWci1duZu88ZqRmRdEHfpG7gTkhiB8Zwmz/MO1Qcr5JChzsUUmeM+99ftt5qEKluOyZAm7fInZVmOQg7nIRE/jS0bmNWINHzQ59a/oFAtpspTcr6TJTxg3vUIncZlH/8z5kCmYwbXtanEZc+7AHH11BurXaCHCueXmrHydfyqjnxBHyK7q7+wQ8BMMD3Na3jnRi/SETc7LbTkMEjijTG6P3F6+ifeORYJzRKMDpdQwuzisySQv5hzrLcBscht9ihlMvueMc66B+X5OdPvbKzWap3EA5Cwvzg1j8r8=;YNey5gBvlCwcaEqTFw8rmA=="
 ---
 

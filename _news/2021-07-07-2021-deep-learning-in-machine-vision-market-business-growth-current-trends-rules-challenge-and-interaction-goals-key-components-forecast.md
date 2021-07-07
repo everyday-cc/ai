@@ -19,33 +19,22 @@ topics:
   - AI
 
 related:
-  - title: "AI Governance Market to Witness Growth Acceleration During 2021-2027"
-    excerpt: "The recent analysis on AI Governance market intends to provide a competitive edge to stakeholders by uncovering the future growth patterns of this industry through a deep study of past records and latest global developments."
-    publishedDateTime: 2021-07-06T16:52:00Z
-    webUrl: "https://www.arnnet.com.au/mediareleases/143676/ai-governance-market-to-witness-growth/"
+  - title: "Amazon India Invites Applications from Students for Machine Learning Challenge, Winner to Get Rs 1 Lakh"
+    excerpt: "Amazon India has launched a Machine Learning Challenge for engineering students in India, and winners will receive cash prizes worth Rs one lakh"
+    publishedDateTime: 2021-07-07T11:33:00Z
+    webUrl: "https://www.dqindia.com/amazon-india-invites-applications-students-machine-learning-challenge-winner-get-rs-1-lakh/"
+    ampWebUrl: "https://www.dqindia.com/amazon-india-invites-applications-students-machine-learning-challenge-winner-get-rs-1-lakh/amp/"
+    cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/amazon-india-invites-applications-students-machine-learning-challenge-winner-get-rs-1-lakh/amp/"
     type: article
     provider:
-      name: ARN
-      domain: arnnet.com.au
-    quality: 17
-  - title: "Global Artificial Intelligence For Drug Development and Discovery Market Size, Status and Forecast 2021-2027"
-    excerpt: "Pages Report] Check for Discount on Global Artificial Intelligence For Drug Development and Discovery Market Size, Status and Forecast 2021-2027 report by QYResearch Group. Market Analysis and Insights: Global Artificial Intelligence For Drug"
-    publishedDateTime: 2021-07-03T09:02:00Z
-    webUrl: "https://www.reportsnreports.com/reports/4635994-global-artificial-intelligence-for-drug-development-and-discovery-market-size-status-and-forecast-2021-2027.html"
-    type: article
-    provider:
-      name: ReportsnReports
-      domain: reportsnreports.com
-    quality: 0
-  - title: "Full Stack AI Market to Witness Huge Growth by 2026 | Hive, IBM, Google, HUAWEI, Alibaba Group, Automaton AI, Sensetime, Dynatrace"
-    excerpt: "The latest Full Stack AI market study offers an all-inclusive analysis of the major strategies, corporate models, and market shares of the most noticeable players in this market. The study offers a thorough analysis of the key persuading factors,"
-    publishedDateTime: 2021-07-07T05:09:00Z
-    webUrl: "https://ksusentinel.com/2021/07/07/full-stack-ai-market-to-witness-huge-growth-by-2026-hive-ibm-google-huawei-alibaba-group-automaton-ai-sensetime-dynatrace/"
-    type: article
-    provider:
-      name: The Sentinel
-      domain: ksusentinel.com
-    quality: 0
+      name: Dataquest
+      domain: dqindia.com
+    quality: 43
+    images:
+      - url: "https://www.dqindia.com/wp-content/uploads/2021/02/Books-on-machine-learning.jpg"
+        width: 850
+        height: 400
+        isCached: true
 
 secured: "Pnbr8FDGgfufrtTdHnZ5bbHOmfQ/azBZU/nT708909DueUTzcGR/6Qmbew59vXsHL3UYAL1WvROzkVAaQ8qwRbRikqGBTXt7r4tStAb84hDww4vUDPK53bGZYfGv0H5a32kpoR6sUWoozi8EYpw01XLJrRDj/z64+hXapr5E8PwQCOLuhAXEOpDjp5otZm4CtX5DP8Sir7fv4rLnFDvuFghdExFqYvcMvZ//bNfUYeXw/EM/7ad54BJPXAPJQQYB6460fIcjuXpu3hTV34NKRm829XCM5M6WBYBvc0YPOXFQHB7yHl/yrWapd3iMOQ6Er66ZqsRpGtTVJN91kLNCvPF1kq0HequiG0p7MEWkKmQ=;OVI6EkXL1/VeqToIKfQapw=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/speech-recognition-softw
 webUrl: "https://www.marketwatch.com/press-release/speech-recognition-software-market-next-big-thing-major-giants-google-microsoft-baidu-2021-07-03"
 type: article
 quality: 92
-heat: 182
+heat: 192
 published: true
 
 provider:
@@ -45,6 +45,22 @@ related:
       - url: "https://www.zdnet.com/a/hub/i/2021/06/23/17d8ed20-1299-443d-8153-846622179896/msft-azure.jpg"
         width: 1600
         height: 1069
+        isCached: true
+  - title: "Sound Recognition Market to Eyewitness Massive Growth by 2026: Baidu, Yandex, LG, Harman, Sensory"
+    excerpt: "The latest independent research document on Global Sound Recognition examine investment in Market It describes how companies deploying these technologies across various industry verticals aim to explore its potential to become a major business disrupter The Sound Recognition study eludes"
+    publishedDateTime: 2021-07-07T10:44:00Z
+    webUrl: "https://www.openpr.com/news/2323098/sound-recognition-market-to-eyewitness-massive-growth-by-2026"
+    ampWebUrl: "https://www.openpr.com/amp/2323098/sound-recognition-market-to-eyewitness-massive-growth-by-2026"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2323098/sound-recognition-market-to-eyewitness-massive-growth-by-2026"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 46
+    images:
+      - url: "https://cdn.openpr.com/U/7/U707881424_g.jpg"
+        width: 450
+        height: 300
         isCached: true
   - title: "Reply Shapes the Future of Autonomous Mobile Robots with the Power of Microsoft Azure"
     excerpt: "Reply announced today that it has developed an end-to-end solution architecture for autonomous mobile robots (AMR) on Microsoft Azure that enables new"

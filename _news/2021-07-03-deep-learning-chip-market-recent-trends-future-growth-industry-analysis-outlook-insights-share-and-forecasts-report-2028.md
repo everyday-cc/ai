@@ -92,15 +92,6 @@ related:
         width: 300
         height: 225
         isCached: true
-  - title: "Artificial Intelligence (AI) in Drug Discovery Market Share, Trends, Future Scope, Forecast 2027"
-    excerpt: "Artificial intelligence (AI) in drug discovery market is expected to gain market growth in the forecast period of 2020 to 2027. Data Bridge Market Research analyses the market to account to USD 3,932."
-    publishedDateTime: 2021-07-02T18:20:00Z
-    webUrl: "https://ksusentinel.com/2021/07/02/artificial-intelligence-ai-in-drug-discovery-market-share-trends-future-scope-forecast-2027/"
-    type: article
-    provider:
-      name: The Sentinel
-      domain: ksusentinel.com
-    quality: 19
 
 secured: "iFjVE7he9cx7h2C3i6tYbjZ7Vlq9ZGvxN9rChIVuDtif3ADbpe/iFO4Sgf2X1ET8LXdz4uG1fv3OQO7u85wco/8R32QuAbYaAr9pLVSlO4PR1/elhMaBA8Nl/YYSSbh8FwmEFfomDtl87eMLy80LM0Lwj4CR34ChuO/nn/yyswc7uv0Qx1lHhIucgYKEwAp6AkxnzBKnIjbJl0YC3oZv4ZafGfYVaMU4k5pHChMT0D+It6DstqVvJhUWa6IQLzmw6cIhGQ5m3PC3rCZa/P89tWAw7PBcl6Xo/kyX6/2u5JWpaqIUXw7pJOSUbzjxPzdvS6fCgK+XP/18e8ZQTurrF+cmjjgAJd7MCOTR7uWCwJ8=;pkN5PykIwZ8vh0HZZ5MP4g=="
 ---
