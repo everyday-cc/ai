@@ -8,7 +8,7 @@ webUrl: "https://www.openpr.com/news/2323098/sound-recognition-market-to-eyewitn
 ampWebUrl: "https://www.openpr.com/amp/2323098/sound-recognition-market-to-eyewitness-massive-growth-by-2026"
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2323098/sound-recognition-market-to-eyewitness-massive-growth-by-2026"
 type: article
-quality: 46
+quality: 48
 heat: -1
 published: false
 
@@ -19,6 +19,7 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+  - Computer Vision
 
 images:
   - url: "https://cdn.openpr.com/U/7/U707881424_g.jpg"

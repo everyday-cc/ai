@@ -35,6 +35,20 @@ related:
         width: 640
         height: 360
         isCached: true
+  - title: "The cybersecurity AI startup ZeroFox is buying competitor Vigilante to help it better scan the dark web to fight back against ransomware"
+    excerpt: "Threat intelligence firm ZeroFox announced Wednesday that it will acquire competitor Vigilante. ZeroFox has raised nearly $200 million for its"
+    publishedDateTime: 2021-07-07T13:34:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/zerofox-acquires-vigilante-to-build-out-security-ai-ceo-interview-2021-6"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 34
+    images:
+      - url: "https://images2.markets.businessinsider.com/60d9d4bfdf1db80018f3a800?format=jpeg"
+        width: 701
+        height: 526
+        isCached: true
 
 secured: "elWs4MtYUUrLCIXwmsVlhPWkwneDO0dkRtWkbk8MgVJ8FjV5m25GU4rjFFukpW25FNOPuOuI3hqz3Tk0X80aBdpl4LgZpdd7x6o1xNqFAGcuhUbzXT9LFvBgVUODqxwpjZxCGuwwFQHUSt2knkFgbyGVKzX/16BaBS3ZQv97L4GMcral4FLBlO+6amxkto1VjOzzZfn28uY/6xOD54xW+BW2G/1IIpbBbg2b4dbA0Ocj+rPQjbxUBY90CwBk9p6MWLvH3xGbVyCxc2EG28x0t/NSoC3kqC3Fw//uZ+ZrVKijzUU7YfiZu7ZrXnIl9m+UYj7zpTyeOlCIfxBhsQ5mvZXEnXx3+4g/EYZsB386QTCHPDYnClvwLqVZmu9iVlyaIt0/w+/IetEaom5qTBjKw4ovQ1BEzCJmGwwpseqnDNw8crgBNRDwaoPq577gwf0R+8T3CSVwfCGwh2q1DMhoOUQQXLYCpkPIlkagzLFg/o0LEYRey89ADr00zdtemIyOoT4HwnLUKRlKHuv/JJoMYg==;SYjvBFtkm+KbfrXk9F50tg=="
 ---

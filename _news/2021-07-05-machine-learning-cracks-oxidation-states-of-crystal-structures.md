@@ -41,6 +41,15 @@ related:
         width: 1920
         height: 1271
         isCached: true
+  - title: "Machine learning cracks the oxidation states of crystal structures"
+    excerpt: "Chemical engineers have developed a machine-learning model that can predict a compound's oxidation state, a property that is so essential that many chemists argue it must be included in the periodic table."
+    publishedDateTime: 2021-07-06T18:58:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2021/07/210706093851.htm"
+    type: article
+    provider:
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 49
 
 secured: "xZmJWqdRGlksX2GSn+OhjtiJa63/keg3LVmwB37jCZMuUwpnL/wA5sRSaZycWl+N6MQXJeeVWH26duTczV4xxb8x8EfyawZrFVgzAS0GMBkTwGPzLjl4a8aeLy4JHSd3vntJhrYLcRIKN6ns0YDyVTj1EicM9Mp3nRQLek0EOvFjkSoxoK02tSfLCMdFuyFzeg/R8JFtdXz+CtCJPH8se8YRr2a8OVBmX/10a4mwovjh5ZaCLdNi4qmKAOGHqIqT49rRmNQajFZaFfRJVbDQ0yAe5qdWifqYFmqTKTbviTBgYCO+mJ0jlLLsi0OacTVGw182euFPo1pOEflwYKzRZcALow2cP2MusloVLZIqux0=;UPpWOkqKIh+zEn8pNKzFSg=="
 ---

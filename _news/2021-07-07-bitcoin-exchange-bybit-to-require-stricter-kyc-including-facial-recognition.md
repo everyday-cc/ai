@@ -9,7 +9,7 @@ ampWebUrl: "https://bitcoinmagazine.com/.amp/business/bybit-will-require-facial-
 cdnAmpWebUrl: "https://bitcoinmagazine-com.cdn.ampproject.org/c/s/bitcoinmagazine.com/.amp/business/bybit-will-require-facial-recognition"
 type: article
 quality: 56
-heat: 56
+heat: 66
 published: false
 
 provider:
@@ -25,6 +25,22 @@ images:
     width: 620
     height: 333
     isCached: true
+
+related:
+  - title: "Facial recognition: Tax pros mull returning to in-person meetings"
+    excerpt: "Absolutely — as people feel more comfortable, we anticipate having more live rather than virtual meetings and events,” said Daniel Morris, a CPA and senior partner with Morris+D’Angelo CPAs in San Jose,"
+    publishedDateTime: 2021-07-06T13:00:00Z
+    webUrl: "https://www.accountingtoday.com/news/facial-recognition-tax-pros-mull-returning-to-in-person-meetings"
+    type: article
+    provider:
+      name: Accounting Today
+      domain: accountingtoday.com
+    quality: 39
+    images:
+      - url: "https://arizent.brightspotcdn.com/b0/a1/9a53ebac4783bb22133d358a52d4/coronavirus-6-feet-sign.jpg"
+        width: 3998
+        height: 2667
+        isCached: true
 
 secured: "EVar+wLTa+dJYxfyxGTnH3YT6eChWOlwWu4Tlc72m7NNPhpzR16nQaTBLPdQz0xxFPsswvANTxKW20uJuQRew/IVjEkx+PBGSOFBt3RLwbribI9M5Aukt1MQFANR492irCEOGF8nL7pi6QEdnecEcvyzTql4fcViHzi02VsPYFKtD4P8qK5+6rMQJPFNhRL4CCJUys6Uue3amAnFlVU3dw0e8VBSaPzAThyfcOYcC2dKgz08ow4q/eawNyrF8uG7T0fw15GOYF0WQ7tHQH/gv4pHQjzoZB7B5Jyx5eTPLF+P6/xupw3yHsAm72aO5W+kwMabNI+0IheqlGHpDr+0OW7XRKuqsHZ/AthDoeJ3KP5+jPmFoilO7yVTbQl3/hQCSu+xRQ6OiyZykECp3VjdQtEGlKRgE3/aL1hgrQKef92gsvKZ9XgiKm8kJJoB9adx0NH4Go7oQkmKNTPnteeRyyiX8fX4+tkxlyr6T4Zc08dVPlL2c80uGzHXcTgDlg1jz1KSlcYwIUuwcxtmuzivcA==;Qy+foowb6eZKjPZ/jufMUQ=="
 ---

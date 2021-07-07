@@ -2,6 +2,454 @@
   "page": 54,
   "value": [
     {
+      "path": "_news/2021-05-27-rsa-conference-startup-competition-showcases-next-gen-cybersecurity.md",
+      "title": "RSA Conference Startup Competition Showcases Next Gen Cybersecurity",
+      "excerpt": "In 2020 we went virtual and migrated to the cloud by necessity. The Innovation Sandbox startup contest showcases the tech needed to secure 2021’s virtual cloud world.",
+      "sourceUrl": null,
+      "webUrl": "https://www.eweek.com/security/rsa-conference-startup-competition-showcases-next-gen-cybersecurity/",
+      "originalUrl": "https://www.eweek.com/security/rsa-conference-startup-competition-showcases-next-gen-cybersecurity/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.eweek.com/wp-content/uploads/2021/02/AdobeStock_245601545-scaled.jpeg",
+          "width": 2560,
+          "height": 1280,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-26T16:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "eWeek",
+        "domain": "eweek.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/eweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-27-lemonade-jk-jk-we-dont-use-facial-recognition-to-reject-your-insurance-claims.md",
+      "title": "Lemonade: JK, JK, We Don't Use Facial Recognition to Reject Your Insurance Claims",
+      "excerpt": "The insurance startup is walking back tweets saying its AI-trained facial recognition could detect fraudulent claims.",
+      "sourceUrl": null,
+      "webUrl": "https://gizmodo.com/lemonade-jk-jk-we-dont-use-facial-recognition-to-rej-1846976751",
+      "originalUrl": "https://gizmodo.com/lemonade-jk-jk-we-dont-use-facial-recognition-to-rej-1846976751",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/5fec531d86029d32932e6fe7e266d001.png",
+          "width": 800,
+          "height": 419,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://gizmodo.com/lemonade-jk-jk-we-dont-use-facial-recognition-to-rej-1846976751/amp",
+      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/lemonade-jk-jk-we-dont-use-facial-recognition-to-rej-1846976751/amp",
+      "publishedDateTime": "2021-05-26T16:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmodo",
+        "domain": "gizmodo.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2021-05-27-bezos-final-shareholder-meeting-as-ceo-looks-to-amazons-future.md",
+      "title": "Bezos' final shareholder meeting as CEO looks to Amazon's future",
+      "excerpt": "such as Ring and Amazon Rekognition, disproportionately harm or discriminate against people of color. Bezos told shareholders that the company has reduced workplace stress injuries by 32 percent ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/tech/tech-news/bezos-final-shareholder-meeting-ceo-looks-amazon-s-future-n1268672",
+      "originalUrl": "https://www.nbcnews.com/tech/tech-news/bezos-final-shareholder-meeting-ceo-looks-amazon-s-future-n1268672",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-cldnry.s-nbcnews.com/image/upload/newscms/2021_21/3477930/210526-amazon-mb-1817.jpg",
+          "width": 4000,
+          "height": 2667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1268672",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1268672",
+      "publishedDateTime": "2021-05-26T13:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-27-insurance-unicorn-lemonade-backtracks-comments-about-its-ai-after-accusations-of-discrimination.md",
+      "title": "Insurance Unicorn Lemonade Backtracks Comments About Its AI After Accusations Of Discrimination",
+      "excerpt": "AI-powered insurance unicorn Lemonade attempted damage control Wednesday and deleted a series of Tweets after the messages led social media users to question if the company’s artificial intelligence software assesses users’ physical attributes and body language to auto-deny claims submitted through user videos.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/carlieporterfield/2021/05/26/insurance-unicorn-lemonade-backtracks-comments-about-its-ai-after-accusations-of-discrimination/",
+      "originalUrl": "https://www.forbes.com/sites/carlieporterfield/2021/05/26/insurance-unicorn-lemonade-backtracks-comments-about-its-ai-after-accusations-of-discrimination/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60aea8841402f568aeb6d331%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D2568%26cropY1%3D266%26cropY2%3D1711",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/carlieporterfield/2021/05/26/insurance-unicorn-lemonade-backtracks-comments-about-its-ai-after-accusations-of-discrimination/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/carlieporterfield/2021/05/26/insurance-unicorn-lemonade-backtracks-comments-about-its-ai-after-accusations-of-discrimination/amp/",
+      "publishedDateTime": "2021-05-26T13:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-27-google-unveils-cloud-products-to-help-analyze-and-organize-data.md",
+      "title": "Google unveils cloud products to help analyze and organize data",
+      "excerpt": "At its inaugural Data Cloud Summit, Google introduced a slew of new products, including Dataplex, Datastream, and Analytics Hub.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/05/26/google-unveils-cloud-products-to-help-analyze-and-organize-data/",
+      "originalUrl": "https://venturebeat.com/2021/05/26/google-unveils-cloud-products-to-help-analyze-and-organize-data/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/11/google-cloud-e1594658562493.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/05/26/google-unveils-cloud-products-to-help-analyze-and-organize-data/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/26/google-unveils-cloud-products-to-help-analyze-and-organize-data/amp/",
+      "publishedDateTime": "2021-05-26T13:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-27-exclusive-brazilian-ag-ai-startup-adroit-robotics-raises-seed-funding.md",
+      "title": "EXCLUSIVE: Brazilian ag AI startup Adroit Robotics raises seed funding",
+      "excerpt": "Adroit Robotics' LeafSense tech is being used by growers to optimize the productivity of citrus orchards - and coffee and avocados could be next.",
+      "sourceUrl": null,
+      "webUrl": "https://agfundernews.com/adroit-robotics-brazilian-ag-ai-startup-raises-seed-funding.html",
+      "originalUrl": "https://agfundernews.com/adroit-robotics-brazilian-ag-ai-startup-raises-seed-funding.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://agfundernews.com/wp-content/uploads/2021/05/iStock-531639471-e1622021961142.jpg",
+          "width": 610,
+          "height": 402,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-26T12:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ag Funder News",
+        "domain": "agfundernews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2021-05-27-google-strikes-deal-with-hospital-chain-to-develop-healthcare-algorithms.md",
+      "title": "Google Strikes Deal With Hospital Chain to Develop Healthcare Algorithms",
+      "excerpt": "Google and national hospital chain HCA will work to develop algorithms to help improve operating efficiency, monitor patients and guide doctors’ decisions.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/google-strikes-deal-with-hospital-chain-to-develop-healthcare-algorithms-11622030401",
+      "originalUrl": "https://www.wsj.com/articles/google-strikes-deal-with-hospital-chain-to-develop-healthcare-algorithms-11622030401",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 213,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-343511/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/google-strikes-deal-with-hospital-chain-to-develop-healthcare-algorithms-11622030401",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/google-strikes-deal-with-hospital-chain-to-develop-healthcare-algorithms-11622030401",
+      "publishedDateTime": "2021-05-26T12:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2021-05-27-kpmg-survey-finds-execs-worry-about-ai-hype-but-they-can-address-it.md",
+      "title": "KPMG survey finds execs worry about AI hype — but they can address it",
+      "excerpt": "A lack of AI literacy, and combating the long-term damage caused by the last AI Winter, has helped fuel fear about AI hype.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/05/26/kpmg-survey-finds-execs-are-worried-about-ai-hype-but-they-can-overcome-it/",
+      "originalUrl": "https://venturebeat.com/2021/05/26/kpmg-survey-finds-execs-are-worried-about-ai-hype-but-they-can-overcome-it/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/05/megaphone.GettyImages-149282195.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 583,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/05/26/kpmg-survey-finds-execs-are-worried-about-ai-hype-but-they-can-overcome-it/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/26/kpmg-survey-finds-execs-are-worried-about-ai-hype-but-they-can-overcome-it/amp/",
+      "publishedDateTime": "2021-05-26T12:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-27-googles-data-cloud-summit-serves-up-a-breadth-of-new-capabilities.md",
+      "title": "Google's Data Cloud Summit Serves Up A Breadth Of New Capabilities",
+      "excerpt": "Ranked Industry Analyst Patrick Moorhead will unpack and analyze some of the announcements from this busy week at the 2021 Google Data Cloud Summit.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/patrickmoorhead/2021/05/26/googles-data-cloud-summit-serves-up-a-breadth-of-new-capabilities/",
+      "originalUrl": "https://www.forbes.com/sites/patrickmoorhead/2021/05/26/googles-data-cloud-summit-serves-up-a-breadth-of-new-capabilities/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60ae9d91fa61c9181bb6d331%2F0x0.jpg",
+          "width": 1200,
+          "height": 565,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/patrickmoorhead/2021/05/26/googles-data-cloud-summit-serves-up-a-breadth-of-new-capabilities/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/patrickmoorhead/2021/05/26/googles-data-cloud-summit-serves-up-a-breadth-of-new-capabilities/amp/",
+      "publishedDateTime": "2021-05-26T12:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-27-more-efficient-lidar-sensing-for-self-driving-cars.md",
       "title": "More Efficient LiDAR Sensing for Self-Driving Cars",
       "excerpt": "A new machine learning system for driverless cars uses an end-to-end mapless driving framework that taps raw Light Detection and Ranging (LiDAR) data for autonomous navigation.",
@@ -768,413 +1216,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-26-self-driving-truck-startup-kodiak-partnering-with-sk-group-to-expand-into-asia.md",
-      "title": "Self-driving truck startup Kodiak partnering with SK Group to expand into Asia",
-      "excerpt": "Kodiak Robotics, the U.S.-based self-driving truck startup, is partnering with South Korean conglomerate SK to explore the possibility of deploying its autonomous vehicle technology in Asia. The ultimate aim of the partnership is to sell and distribute Kodiak’s self-driving technology in the",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/05/26/self-driving-truck-startup-kodiak-partnering-with-sk-group-to-expand-into-asia/",
-      "originalUrl": "https://techcrunch.com/2021/05/26/self-driving-truck-startup-kodiak-partnering-with-sk-group-to-expand-into-asia/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 102,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/05/Kodiak-Truck-Sunset.jpg?w=1024",
-          "width": 1024,
-          "height": 559,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/05/26/self-driving-truck-startup-kodiak-partnering-with-sk-group-to-expand-into-asia/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/05/26/self-driving-truck-startup-kodiak-partnering-with-sk-group-to-expand-into-asia/amp/",
-      "publishedDateTime": "2021-05-26T07:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2021-05-26-driverless-cars-hitting-streets-of-fremont-milpitas-irvine.md",
-      "title": "Driverless cars hitting streets of Fremont, Milpitas, Irvine",
-      "excerpt": "The company, which was founded in Fremont in 2016 by James Peng and Tiancheng Lou, both formerly of Baidu and Google, has been testing cars equipped with its self-driving technology suite since 2017.",
-      "sourceUrl": null,
-      "webUrl": "https://www.mercurynews.com/2021/05/24/driverless-cars-hitting-streets-of-fremont-milpitas-irvine/",
-      "originalUrl": "https://www.mercurynews.com/2021/05/24/driverless-cars-hitting-streets-of-fremont-milpitas-irvine/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.mercurynews.com/wp-content/uploads/2021/05/SJM-L-FREMONTCAR-0525-2.jpeg?w=680&h=452",
-          "width": 680,
-          "height": 452,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.mercurynews.com/2021/05/24/driverless-cars-hitting-streets-of-fremont-milpitas-irvine/amp/",
-      "cdnAmpWebUrl": "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2021/05/24/driverless-cars-hitting-streets-of-fremont-milpitas-irvine/amp/",
-      "publishedDateTime": "2021-05-26T07:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mercury News",
-        "domain": "mercurynews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-26-tesla-model-3-model-y-ditch-radar-to-adopt-camera-based-tesla-vision-for-autopilot.md",
-      "title": "Tesla Model 3, Model Y Ditch Radar To Adopt Camera-Based 'Tesla Vision' For Autopilot",
-      "excerpt": "Up until this point, Tesla vehicles have used a combination of front-facing radar, ultrasonic sensors, and computer vision systems to enable its Autopilot self-driving system. However, the company announced this week that it is making a significant change in how the system works on its entry-level Model 3 and Model Y electric vehicles.",
-      "sourceUrl": null,
-      "webUrl": "https://hothardware.com/news/tesla-model-3-model-y-ditch-radar-to-adopt-camera-based-tesla-vision-for-autopilot",
-      "originalUrl": "https://hothardware.com/news/tesla-model-3-model-y-ditch-radar-to-adopt-camera-based-tesla-vision-for-autopilot",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.hothardware.com/contentimages/newsitem/55210/content/tesla_model_3_news.jpg",
-          "width": 708,
-          "height": 454,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.hothardware.com/news/tesla-model-3-model-y-ditch-radar-to-adopt-camera-based-tesla-vision-for-autopilot",
-      "cdnAmpWebUrl": "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/tesla-model-3-model-y-ditch-radar-to-adopt-camera-based-tesla-vision-for-autopilot",
-      "publishedDateTime": "2021-05-26T07:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "HotHardware",
-        "domain": "hothardware.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2021-05-26-research-team-improves-fetal-heart-defect-detection-using-machine-learning.md",
-      "title": "Research team improves fetal heart defect detection using machine learning",
-      "excerpt": "UC San Francisco researchers have found a way to double doctors' accuracy in detecting the vast majority of complex fetal heart defects in utero—when interventions could either correct them or greatly improve a child's chance of survival—by combining routine ultrasound imaging with machine-learning computer tools.",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2021-05-team-fetal-heart-defect-machine.html",
-      "originalUrl": "https://medicalxpress.com/news/2021-05-team-fetal-heart-defect-machine.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2021/4-heart.jpg",
-          "width": 1920,
-          "height": 1289,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2021-05-team-fetal-heart-defect-machine.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-05-team-fetal-heart-defect-machine.amp",
-      "publishedDateTime": "2021-05-26T07:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-26-tesla-drops-radar-from-lower-priced-cars-amid-self-driving-scrutiny.md",
-      "title": "Tesla drops radar from lower-priced cars amid ‘self-driving’ scrutiny",
-      "excerpt": "Tesla said it is dropping radar systems in its lower-priced electric cars in favor of cameras and other AI equipment — even as the company faces growing scrutiny over its “autonomous",
-      "sourceUrl": null,
-      "webUrl": "https://nypost.com/2021/05/26/tesla-drops-radar-from-lower-priced-cars-amid-self-driving-scrutiny/",
-      "originalUrl": "https://nypost.com/2021/05/26/tesla-drops-radar-from-lower-priced-cars-amid-self-driving-scrutiny/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/05/tesla-model-3-2.jpg?quality=90&strip=all&w=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nypost.com/2021/05/26/tesla-drops-radar-from-lower-priced-cars-amid-self-driving-scrutiny/amp/",
-      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/05/26/tesla-drops-radar-from-lower-priced-cars-amid-self-driving-scrutiny/amp/",
-      "publishedDateTime": "2021-05-26T07:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-26-covid-19-impact-on-voice-recognition-market-to-witness-expansion-during-2020-2026.md",
-      "title": "Covid-19 Impact on Voice Recognition Market to Witness Expansion During 2020-2026",
-      "excerpt": "Voice Recognition Market is likely to witness an impressive CAGR of 17.5% during the forecast period.The growth of the market is influenced by a number of factors that have a direct or indirect effect on demand.",
-      "sourceUrl": null,
-      "webUrl": "https://ksusentinel.com/2021/05/26/covid-19-impact-on-voice-recognition-market-to-witness-expansion-during-2020-2026/",
-      "originalUrl": "https://ksusentinel.com/2021/05/26/covid-19-impact-on-voice-recognition-market-to-witness-expansion-during-2020-2026/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ksusentinel.com/wp-content/uploads/2021/05/1617605253587-6-390x220.jpg",
-          "width": 390,
-          "height": 220,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-26T07:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Sentinel",
-        "domain": "ksusentinel.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-26-apple-seeks-to-bite-into-self-driving-electric-vehicle-market.md",
-      "title": "Apple Seeks To Bite Into Self-Driving Electric Vehicle Market",
-      "excerpt": "The scramble for the $5 trillion car market is afoot. Apple﻿﻿ is one of many tech companies planning to revolutionize the staid, 130 year-old industry. Soon, cars will be joining cell phones in morphing into personal computers.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/arielcohen/2021/05/26/apple-seeks-to-bite-into-self-driving-electric-vehicle-market/",
-      "originalUrl": "https://www.forbes.com/sites/arielcohen/2021/05/26/apple-seeks-to-bite-into-self-driving-electric-vehicle-market/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 154,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60ae53b5af931c3c2f08b5b6%2F0x0.jpg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/arielcohen/2021/05/26/apple-seeks-to-bite-into-self-driving-electric-vehicle-market/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/arielcohen/2021/05/26/apple-seeks-to-bite-into-self-driving-electric-vehicle-market/amp/",
-      "publishedDateTime": "2021-05-26T07:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-26-doit-international-achieves-aws-partner-network-distinction-for-100-certifications.md",
-      "title": "DoiT International Achieves AWS Partner Network Distinction for 100 Certifications",
-      "excerpt": "DoiT International (DoiT), a global multi-cloud software and managed service provider with deep expertise in Kubernetes, Machine Learning, and Big Data, today announced that its cloud engineering team has collectively achieved the Amazon Web Services (AWS) Partner Network (APN) Certification Distinctions for earning over 100 collective AWS Certifications.",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/doit-international-achieves-aws-partner-network-distinction-for-100-certifications-1030467229",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/doit-international-achieves-aws-partner-network-distinction-for-100-certifications-1030467229",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-26T07:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-26-tdra-welcomes-awss-decision-to-open-data-centers-in-the-uae.md",
-      "title": "TDRA welcomes AWS's decision to open data centers in the UAE",
-      "excerpt": "This step timing has great implications as the UAE prepares for its next fifty and developing a digital future that enhances the UAE global position as a hub for attracting investments and partnerships.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zawya.com/mena/en/press-releases/story/TDRA_welcomes_AWSs_decision_to_open_data_centers_in_the_UAE-ZAWYA20210526141121/",
-      "originalUrl": "https://www.zawya.com/mena/en/press-releases/story/TDRA_welcomes_AWSs_decision_to_open_data_centers_in_the_UAE-ZAWYA20210526141121/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.zawya.com/pr/images/2021/DG_2021_05_26.PNG",
-          "width": 450,
-          "height": 427,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zawya.com/mena/en/story/amp/ZAWYA20210526141121/",
-      "cdnAmpWebUrl": "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/ZAWYA20210526141121/",
-      "publishedDateTime": "2021-05-26T07:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Zawya",
-        "domain": "zawya.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     }

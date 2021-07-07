@@ -8,8 +8,8 @@ webUrl: "https://www.wired.com/story/global-smart-city-competition-highlights-ch
 ampWebUrl: "https://www.wired.com/story/global-smart-city-competition-highlights-china-rise-ai/amp"
 cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/global-smart-city-competition-highlights-china-rise-ai/amp"
 type: article
-quality: 91
-heat: 91
+quality: 191
+heat: 191
 published: true
 
 provider:
@@ -31,6 +31,6 @@ images:
     height: 1600
     isCached: true
 
-secured: "yuVW+X2PG/bRxsW3xUnBDYtqboyRwLar54ep5TFEVQqs3qPo9xjBgdUQwKT9OBoB6Fb0jahHeA2N6b9esPf/TboaYmdrm5jSOydFz6hhVnprGjisWng+yX0u3NACObqYP0RizQXekQwqyQAwkEwzp23sqcdOQTvGptK4tplzOjZMH48v1rpJGv5UnXXxnchPHA5eaYwNpx+dEQHdYSCcHkhKQz59nTo+tLNH99LsSxwJ+1nycovrrAmia3bX08lFMjTttHvB99y/z3HYR8tsXFQeFXsXbMn4Zl0KXQChjiRyPqttGrYxOv71RTfrEnOdmdXf1FwhQ9Q390IBvzBCEx1BubchUs39bbtC/vuHGTV1ksk/ZwagXO+wHnFVGc5GQc0RUrBLj6d58ck5ibKFaGJEiLPEZ/a74DTjEpiXfMLCRRL2JogKsk6bc6/nbyFIc0szl96A6fZl77LNUNWQKLTdmAeTNFadAkdysFO+uOz9rsqtUd4Lmxnfuu7VpB0hnUoEBOL8PBcSEV+224pZEA==;G9vGJDHezTREdwgeh0mcQg=="
+secured: "MIIMiMr3uGlfMDor06s2XlsmYWFz5qU7N9icik7vxkqIVc8YSKS0xXYllPuOQXt+gr6mRUuJMsDDERASbCdVf8I0aBp0aijPwyD8l1JKLpJACCZqBJ8CRpxxNjHH47UEo8lpv6QEwCeoPdcZtGoIKcr1IGHrcICH3L4iFd6S6HJ4trGKWp+b/m8u2Ryj37Nxu1sIEhuVfT8SAN7cmq9qeHeI8YGFj4ITVo2uYbR+Szx/xrXK8XzVn+Q0JPQgQFqQy/2jxkd8XcXh6Zf1wpzxzhyMfo+BPB4Mw2YCPOzMeFZjevD4ZX1mHpfTkP/h1d5C/XwDyIZpjOFzbZZT5m+f1fiUV3NeAn5yzW/8qyJQt90ynDlaW6fu9WuDoOyyL7xhAKNCJ914F3wE9YvvEeUNruPTGHY2ubXgfu9hEs2IBCBmh53uky3cx7uHkEKMRH9oD4MQmwbQUFI9pV4W9qnM0Rk7YI/tXBcXESLG94gk+zB8JNCay+iSmOJ5E3U+IZA3jJazUdlYedRwQy0eNYJ91Knvg6oNr7h7OmIfE7HRMTE=;rTCoQo6NAb+wE8XwSsGgnA=="
 ---
 

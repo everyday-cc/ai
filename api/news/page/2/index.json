@@ -2,6 +2,249 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-07-06-machine-learning-cracks-the-oxidation-states-of-crystal-structures.md",
+      "title": "Machine learning cracks the oxidation states of crystal structures",
+      "excerpt": "\"But attempts to take this into account have not been very successful.\" A machine-learning solution Until now, that is. In the study, the researchers were able to train a machine-learning ...",
+      "sourceUrl": null,
+      "webUrl": "https://phys.org/news/2021-07-machine-oxidation-states-crystal.html",
+      "originalUrl": "https://phys.org/news/2021-07-machine-oxidation-states-crystal.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2020/chemistry.jpg",
+          "width": 1920,
+          "height": 1271,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://phys.org/news/2021-07-machine-oxidation-states-crystal.amp",
+      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-07-machine-oxidation-states-crystal.amp",
+      "publishedDateTime": "2021-07-06T06:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Phys.org",
+        "domain": "phys.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-06-chinese-scholars-want-a-voice-but-must-beware-being-counterproductive.md",
+      "title": "Chinese scholars want a voice, but must beware being counterproductive",
+      "excerpt": "Some say a Chinese theory of international relations is needed to frame China’s thinking, but justifying a party-state system may be difficult internationally.",
+      "sourceUrl": null,
+      "webUrl": "https://www.scmp.com/news/china/diplomacy/article/3140066/chinese-scholars-want-voice-must-beware-being",
+      "originalUrl": "https://www.scmp.com/news/china/diplomacy/article/3140066/chinese-scholars-want-voice-must-beware-being",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_opinion/public/d8/images/methode/2021/07/06/7dc6bc4a-de2a-11eb-9efd-49da69ae692d_image_hires_204833.jpg?itok=6wSAw6Bv&v=1625575720",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.scmp.com/news/china/diplomacy/article/3140066/chinese-scholars-want-voice-must-beware-being",
+      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/news/china/diplomacy/article/3140066/chinese-scholars-want-voice-must-beware-being",
+      "publishedDateTime": "2021-07-06T05:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "South China Morning Post",
+        "domain": "scmp.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/scmp.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-06-boosting-online-grocery-sales-and-enhancing-merchandising-through-ai.md",
+      "title": "Boosting Online Grocery Sales And Enhancing Merchandising Through AI",
+      "excerpt": "If you’re trying to find an AI-driven inventory management solution that’s right for you, make sure the system you choose can keep up with customer demand in real time and can integrate seamlessly with your current POS system.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/07/06/boosting-online-grocery-sales-and-enhancing-merchandising-through-ai/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/07/06/boosting-online-grocery-sales-and-enhancing-merchandising-through-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 154,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60e307aa743e40c7cd049065%2F0x0.jpg",
+          "width": 966,
+          "height": 643,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/07/06/boosting-online-grocery-sales-and-enhancing-merchandising-through-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/07/06/boosting-online-grocery-sales-and-enhancing-merchandising-through-ai/amp/",
+      "publishedDateTime": "2021-07-06T05:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Sales"
+      ]
+    },
+    {
+      "path": "_news/2021-07-06-federated-learning-and-the-future-of-ml.md",
+      "title": "Federated Learning and the Future of ML",
+      "excerpt": "By sharing ML models and training data, organisations can power-up their ML projects. Now there’s a way to do it without compromising data privacy or security",
+      "sourceUrl": null,
+      "webUrl": "https://www.itpro.co.uk/technology/machine-learning/360102/federated-learning-and-the-future-of-ml",
+      "originalUrl": "https://www.itpro.co.uk/technology/machine-learning/360102/federated-learning-and-the-future-of-ml",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1625479772/machine_learning_artificial_intelligence.jpg",
+          "width": 1260,
+          "height": 710,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.itpro.co.uk/technology/machine-learning/360102/federated-learning-and-the-future-of-ml?amp",
+      "cdnAmpWebUrl": "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/technology/machine-learning/360102/federated-learning-and-the-future-of-ml?amp",
+      "publishedDateTime": "2021-07-06T04:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT Pro",
+        "domain": "itpro.co.uk",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/itpro.co.uk-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-07-06-tencent-deploys-facial-recognition-to-detect-minors-gaming-at-night.md",
+      "title": "Tencent Deploys Facial Recognition to Detect Minors Gaming at Night",
+      "excerpt": "China’s gaming giant Tencent Games has launched one of the most-talked about — and controversial — means to curb excessive play time among children and teenagers so far: a time-sensitive facial recognition system. Starting Tuesday, the gaming ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.sixthtone.com/news/1007915/tencent-deploys-facial-recognition-to-detect-minors-gaming-at-night-",
+      "originalUrl": "https://www.sixthtone.com/news/1007915/tencent-deploys-facial-recognition-to-detect-minors-gaming-at-night-",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 209,
+      "tags": null,
+      "images": [
+        {
+          "url": "http://image5.sixthtone.com/image/5/41/132.jpg",
+          "width": 2000,
+          "height": 1000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-06T04:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Sixth Tone",
+        "domain": "sixthtone.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-06-this-ai-publicly-shames-politicians-but-dont-laugh-just-yet.md",
       "title": "This AI publicly shames politicians, but don’t laugh just yet",
       "excerpt": "An AI project that publicly shames politicians using phones during government meetings provides a warning to us all about surveillance creep.",
@@ -61,7 +304,7 @@
       "originalUrl": "https://www.sourcesecurity.com/insights/baltimore-city-target-facial-recognition-technology-co-1508-ga-sb.1625556289.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 118,
+      "heat": 108,
       "tags": null,
       "images": [
         {
@@ -208,7 +451,7 @@
       "originalUrl": "https://www.nasdaq.com/articles/4-stocks-to-make-the-most-of-surging-demand-for-ai-2021-07-06",
       "featuredContent": null,
       "highlight": null,
-      "heat": 79,
+      "heat": 89,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -571,6 +814,48 @@
       ]
     },
     {
+      "path": "_news/2021-07-06-report-growing-san-diego-cybersecurity-cluster-using-ai-to-fight-hacking-threats.md",
+      "title": "Report: Growing San Diego Cybersecurity Cluster Using AI to Fight Hacking Threats",
+      "excerpt": "San Diego's cyber cluster accounts for 24,349 local jobs across 874 firms, has an annual economic impact of $3.5 billion, and is growing rapidly thanks to defense-related projects.",
+      "sourceUrl": null,
+      "webUrl": "https://timesofsandiego.com/tech/2021/07/05/report-growing-san-diego-cybersecurity-cluster-using-ai-to-fight-hacking-threats/",
+      "originalUrl": "https://timesofsandiego.com/tech/2021/07/05/report-growing-san-diego-cybersecurity-cluster-using-ai-to-fight-hacking-threats/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://timesofsandiego.com/wp-content/uploads/2020/01/Google-Data-Center.jpg",
+          "width": 640,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://timesofsandiego.com/tech/2021/07/05/report-growing-san-diego-cybersecurity-cluster-using-ai-to-fight-hacking-threats/",
+      "cdnAmpWebUrl": "https://timesofsandiego-com.cdn.ampproject.org/c/s/timesofsandiego.com/tech/2021/07/05/report-growing-san-diego-cybersecurity-cluster-using-ai-to-fight-hacking-threats/",
+      "publishedDateTime": "2021-07-05T17:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Times of San Diego",
+        "domain": "timesofsandiego.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-06-ai-bot-trolls-politicians-with-how-much-time-theyre-looking-at-phones.md",
       "title": "AI bot trolls politicians with how much time they're looking at phones",
       "excerpt": "Sure, we've all snuck a look at our phones in dull meetings. But if you're working on the taxpayer's dime, you'd better be ready for artificial intelligence to call you out for gawping at the black mirror in the legislature when you should be,",
@@ -609,6 +894,49 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-06-finance-starts-having-a-heart-how-fintech-fosters-financial-inclusion-and-the-sdgs.md",
+      "title": "Finance Starts Having a Heart: How Fintech Fosters Financial Inclusion and the SDGs",
+      "excerpt": "Finance acquires a heart. Fintech companies innovate financial services with empathy and sustainability in mind. Financial inclusion can become",
+      "sourceUrl": null,
+      "webUrl": "https://www.business2community.com/finance/finance-starts-having-a-heart-how-fintech-fosters-financial-inclusion-and-the-sdgs-02416807",
+      "originalUrl": "https://www.business2community.com/finance/finance-starts-having-a-heart-how-fintech-fosters-financial-inclusion-and-the-sdgs-02416807",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.business2community.com/wp-content/uploads/2021/06/heart-900x607.png",
+          "width": 900,
+          "height": 607,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.business2community.com/finance/finance-starts-having-a-heart-how-fintech-fosters-financial-inclusion-and-the-sdgs-02416807/amp",
+      "cdnAmpWebUrl": "https://www-business2community-com.cdn.ampproject.org/c/s/www.business2community.com/finance/finance-starts-having-a-heart-how-fintech-fosters-financial-inclusion-and-the-sdgs-02416807/amp",
+      "publishedDateTime": "2021-07-05T15:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business 2 Community",
+        "domain": "business2community.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
         "AI"
       ]
     },
@@ -860,343 +1188,6 @@
       "topics": [
         "Computer Vision",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-05-ai-legislation-must-address-bias-in-algorithmic-decision-making-systems.md",
-      "title": "AI legislation must address bias in algorithmic decision-making systems",
-      "excerpt": "One promising bill proposes a cross-government investigation into discriminatory algorithmic processes throughout the economy.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/07/05/ai-legislation-needs-to-broaden-its-focus-from-rd-to-address-bias-in-algorithmic-decision-making-systems/",
-      "originalUrl": "https://venturebeat.com/2021/07/05/ai-legislation-needs-to-broaden-its-focus-from-rd-to-address-bias-in-algorithmic-decision-making-systems/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2018/03/venturebeat_1200px_law_feature-e1625102436458.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/07/05/ai-legislation-needs-to-broaden-its-focus-from-rd-to-address-bias-in-algorithmic-decision-making-systems/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/05/ai-legislation-needs-to-broaden-its-focus-from-rd-to-address-bias-in-algorithmic-decision-making-systems/amp/",
-      "publishedDateTime": "2021-07-05T07:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-05-sometimes-interacting-with-robots-is-easier-than-with-humans.md",
-      "title": "Sometimes interacting with robots is easier than with humans",
-      "excerpt": "A new study shows higher performance in idea generation when humans believe they're interacting with a bot. Is working with robots in our future?",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/sometimes-interacting-with-robots-is-easier-than-with-humans/",
-      "originalUrl": "https://www.techrepublic.com/article/sometimes-interacting-with-robots-is-easier-than-with-humans/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techrepublic.com/a/hub/i/r/2020/11/11/5c83880b-a529-40f7-b697-c166577487ee/crop/1067x803+137+0/resize/1200x/53bae80334ece08cf475784ba6c39ebc/istock-849376288.jpg",
-          "width": 1200,
-          "height": 903,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/sometimes-interacting-with-robots-is-easier-than-with-humans/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/sometimes-interacting-with-robots-is-easier-than-with-humans/",
-      "publishedDateTime": "2021-07-05T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-05-student-finance-fintech-raises-11m-in-funding.md",
-      "title": "Student finance fintech raises £1.1m in funding",
-      "excerpt": "StepEx has raised £1.1 million in pre-initial funding, with the venture studio BBVA Anthemis Venture Partnership being the lead investor.",
-      "sourceUrl": null,
-      "webUrl": "https://www.finextra.com/pressarticle/88425/student-finance-fintech-raises-11m-in-funding",
-      "originalUrl": "https://www.finextra.com/pressarticle/88425/student-finance-fintech-raises-11m-in-funding",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 154,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.finextra.com/about/finextra-logo.png",
-          "width": 512,
-          "height": 512,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-05T05:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Finextra",
-        "domain": "finextra.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-05-whats-a-robot-manicure-really-like-quick-cheap-and-guilt-inducing.md",
-      "title": "What's a robot manicure really like? Quick, cheap, and guilt-inducing.",
-      "excerpt": "A robot gave me a manicure last week. Let me stop you before you envision a bipedal humanoid carefully dipping a brush into a bottle and lacquering my nails. Instead, the experience felt more like inserting my hand into a 3D printer.",
-      "sourceUrl": null,
-      "webUrl": "https://sea.mashable.com/tech/16518/whats-a-robot-manicure-really-like-quick-cheap-and-guilt-inducing",
-      "originalUrl": "https://sea.mashable.com/tech/16518/whats-a-robot-manicure-really-like-quick-cheap-and-guilt-inducing",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://sm.mashable.com/t/mashable_sea/article/w/whats-a-ro/whats-a-robot-manicure-really-like-quick-cheap-and-guilt-ind_hewc.620.jpg",
-          "width": 620,
-          "height": 485,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://sea.mashable.com/tech/16518/whats-a-robot-manicure-really-like-quick-cheap-and-guilt-inducing?amp=1",
-      "cdnAmpWebUrl": "https://sea-mashable-com.cdn.ampproject.org/c/s/sea.mashable.com/tech/16518/whats-a-robot-manicure-really-like-quick-cheap-and-guilt-inducing?amp=1",
-      "publishedDateTime": "2021-07-05T04:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mashable",
-        "domain": "mashable.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-05-elon-musk-admits-self-driving-is-harder-than-he-thought-as-tesla-owners-troll-him-over-missed-deadlines.md",
-      "title": "Elon Musk admits self-driving is harder than he thought as Tesla owners troll him over missed deadlines",
-      "excerpt": "Elon Musk is admitting that self-driving is a harder problem than he originally thought as some Tesla owners are trolling him over yet another missed deadline for Tesla’s self-driving program. The man has a long history of failed predictions regarding Tesla bringing a true self-driving system to market.",
-      "sourceUrl": null,
-      "webUrl": "https://electrek.co/2021/07/05/elon-musk-admits-self-driving-harder-than-he-thought-tesla-troll-missed-deadlines/",
-      "originalUrl": "https://electrek.co/2021/07/05/elon-musk-admits-self-driving-harder-than-he-thought-tesla-troll-missed-deadlines/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 153,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2020/08/Tesla-Elon-Musk.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://electrek.co/2021/07/05/elon-musk-admits-self-driving-harder-than-he-thought-tesla-troll-missed-deadlines/amp/",
-      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/07/05/elon-musk-admits-self-driving-harder-than-he-thought-tesla-troll-missed-deadlines/amp/",
-      "publishedDateTime": "2021-07-05T04:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Electrek",
-        "domain": "electrek.co",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-05-ai-in-motion-three-guardrails-for-effective-implementation-in-transportation-and-beyond.md",
-      "title": "AI In Motion: Three Guardrails For Effective Implementation In Transportation (And Beyond)",
-      "excerpt": "Transportation has seen massive transformation in recent years — from shifts in how we get from point A to B, to how we receive our groceries — with AI at the center of it all. The pandemic only accelerated demand for AI applications in transportation amidst widespread social distancing and shelter-in-place orders.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2021/07/05/ai-in-motion-three-guardrails-for-effective-implementation-in-transportation-and-beyond/",
-      "originalUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2021/07/05/ai-in-motion-three-guardrails-for-effective-implementation-in-transportation-and-beyond/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60df26da339f52ef6e9735e5%2F0x0.jpg",
-          "width": 1200,
-          "height": 774,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2021/07/05/ai-in-motion-three-guardrails-for-effective-implementation-in-transportation-and-beyond/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescommunicationscouncil/2021/07/05/ai-in-motion-three-guardrails-for-effective-implementation-in-transportation-and-beyond/amp/",
-      "publishedDateTime": "2021-07-05T04:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-05-analysis-racist-facial-recognition-sparks-ethical-concerns-in-russia.md",
-      "title": "Analysis-'Racist' facial recognition sparks ethical concerns in Russia",
-      "excerpt": "From scanning residents’ faces to let them into their building to spotting police suspects in a crowd, the rise of facial recognition is accompanied by a growing chorus of concern about unethical uses of the technology.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/uk-russia-tech-race/analysis-racist-facial-recognition-sparks-ethical-concerns-in-russia-idUSKCN2EB0BC",
-      "originalUrl": "https://www.reuters.com/article/uk-russia-tech-race/analysis-racist-facial-recognition-sparks-ethical-concerns-in-russia-idUSKCN2EB0BC",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 126,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKCN2EB0BC",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN2EB0BC",
-      "publishedDateTime": "2021-07-04T21:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI Ethics"
       ]
     }
   ],

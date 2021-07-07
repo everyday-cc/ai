@@ -2,6 +2,59 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-07-07-ibms-codeflare-automates-ai-model-development.md",
+      "title": "IBM’s CodeFlare automates AI model development",
+      "excerpt": "Google, Microsoft, and Hybernet Labs offer comparable services in Cloud AI Platform Pipelines, Azure Machine Learning pipelines, and Galileo, respectively. But IBM asserts CodeFlare was built from ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/07/07/ibms-codeflare-automates-ai-model-development/",
+      "originalUrl": "https://venturebeat.com/2021/07/07/ibms-codeflare-automates-ai-model-development/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/03/IBM-3-e1616161936977.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/07/07/ibms-codeflare-automates-ai-model-development/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/07/ibms-codeflare-automates-ai-model-development/amp/",
+      "publishedDateTime": "2021-07-07T05:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2021-07-07-oneplus-nord-2-will-use-a-customized-version-of-mediateks-flagship-chip.md",
       "title": "OnePlus Nord 2 will use a customized version of MediaTek’s flagship chip",
       "excerpt": "OnePlus and MediaTek have partnered together to work on the OnePlus Nord 2 5G. The forthcoming smartphone will use a custom Dimensity 1200 processor.",
@@ -10,7 +63,7 @@
       "originalUrl": "https://www.digitaltrends.com/mobile/oneplus-nord-2-5g-mediatek-dimensity-1200-news/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 88,
+      "heat": 138,
       "tags": null,
       "images": [
         {
@@ -114,7 +167,7 @@
       "originalUrl": "https://www.nasdaq.com/articles/4-stocks-to-make-the-most-of-surging-demand-for-ai-2021-07-06",
       "featuredContent": null,
       "highlight": null,
-      "heat": 79,
+      "heat": 89,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -201,7 +254,7 @@
       "originalUrl": "https://www.wired.com/story/global-smart-city-competition-highlights-china-rise-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 91,
+      "heat": 191,
       "tags": null,
       "images": [
         {
@@ -1377,50 +1430,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-23-yotta-launches-virtual-pro-workstations-for-3d-architectural-designs-ai-ml.md",
-      "title": "Yotta Launches Virtual Pro Workstations for 3D architectural designs, AI, ML",
-      "excerpt": "Path-breaking combination of virtual GPU and advanced VDI technology, to deliver extreme performance for video editing, graphics design, 3D architectural designs, AI, ML and more.",
-      "sourceUrl": null,
-      "webUrl": "https://www.dqindia.com/yotta-launches-virtual-pro-workstations-3d-architectural-designs-ai-ml/",
-      "originalUrl": "https://www.dqindia.com/yotta-launches-virtual-pro-workstations-3d-architectural-designs-ai-ml/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.dqindia.com/wp-content/uploads/2016/10/cloud-computing-2.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.dqindia.com/yotta-launches-virtual-pro-workstations-3d-architectural-designs-ai-ml/amp/",
-      "cdnAmpWebUrl": "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/yotta-launches-virtual-pro-workstations-3d-architectural-designs-ai-ml/amp/",
-      "publishedDateTime": "2021-06-23T00:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Dataquest",
-        "domain": "dqindia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

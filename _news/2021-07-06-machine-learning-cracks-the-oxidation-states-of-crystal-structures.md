@@ -9,8 +9,8 @@ ampWebUrl: "https://phys.org/news/2021-07-machine-oxidation-states-crystal.amp"
 cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-07-machine-oxidation-states-crystal.amp"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: Phys.org
@@ -27,6 +27,15 @@ images:
     isCached: true
 
 related:
+  - title: "Machine learning cracks the oxidation states of crystal structures"
+    excerpt: "Chemical engineers have developed a machine-learning model that can predict a compound's oxidation state, a property that is so essential that many chemists argue it must be included in the periodic table."
+    publishedDateTime: 2021-07-06T18:58:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2021/07/210706093851.htm"
+    type: article
+    provider:
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 49
   - title: "Machine learning cracks oxidation states of crystal structures"
     excerpt: "Chemists voting on the oxidation states of metal-organic frameworks. Credit: David Abbasi Pérez. Chemical engineers at EPFL have developed"
     publishedDateTime: 2021-07-05T14:02:00Z

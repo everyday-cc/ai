@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2021/07/07/anyvision-the-controversial-facial
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/07/07/anyvision-the-controversial-facial-recognition-startup-has-raised-235m-led-by-softbank-and-eldridge/amp/"
 type: article
 quality: 88
-heat: 118
+heat: 128
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Facial recognition firm AnyVision raises $235 million from investors"
+    excerpt: "Investors include SoftBank Vision Fund 2 and Eldridge; company says personal data will be protected by new data privacy measures"
+    publishedDateTime: 2021-07-07T12:09:00Z
+    webUrl: "https://www.timesofisrael.com/facial-recognition-firm-anyvision-raises-235-million-from-investors/"
+    ampWebUrl: "https://www.timesofisrael.com/facial-recognition-firm-anyvision-raises-235-million-from-investors/amp/"
+    cdnAmpWebUrl: "https://www-timesofisrael-com.cdn.ampproject.org/c/s/www.timesofisrael.com/facial-recognition-firm-anyvision-raises-235-million-from-investors/amp/"
+    type: article
+    provider:
+      name: The Times of Israel
+      domain: timesofisrael.com
+    quality: 74
+    images:
+      - url: "https://static.timesofisrael.com/www/uploads/2021/07/AnyVision-pic111-e1625656980196-640x400.jpg"
+        width: 640
+        height: 400
+        isCached: true
   - title: "SoftBank Backs Facial-Recognition Startup Despite Privacy Concerns"
     excerpt: "SoftBank Group Corp. is leading an investment in AnyVision Interactive Technologies Ltd. that values the facial-recognition company at over $1 billion, according to a person familiar with the matter, underscoring its commitment to the technology despite ..."
     publishedDateTime: 2021-07-07T09:51:00Z

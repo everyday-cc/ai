@@ -9,8 +9,8 @@ ampWebUrl: "https://timesofsandiego.com/tech/2021/07/05/report-growing-san-diego
 cdnAmpWebUrl: "https://timesofsandiego-com.cdn.ampproject.org/c/s/timesofsandiego.com/tech/2021/07/05/report-growing-san-diego-cybersecurity-cluster-using-ai-to-fight-hacking-threats/"
 type: article
 quality: 52
-heat: 62
-published: false
+heat: 72
+published: true
 
 provider:
   name: Times of San Diego
@@ -26,6 +26,20 @@ images:
     isCached: true
 
 related:
+  - title: "The cybersecurity AI startup ZeroFox is buying competitor Vigilante to help it better scan the dark web to fight back against ransomware"
+    excerpt: "Threat intelligence firm ZeroFox announced Wednesday that it will acquire competitor Vigilante. ZeroFox has raised nearly $200 million for its"
+    publishedDateTime: 2021-07-07T13:34:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/zerofox-acquires-vigilante-to-build-out-security-ai-ceo-interview-2021-6"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 34
+    images:
+      - url: "https://images2.markets.businessinsider.com/60d9d4bfdf1db80018f3a800?format=jpeg"
+        width: 701
+        height: 526
+        isCached: true
   - title: "Cybersecurity for consumer robots"
     excerpt: "Consumer adoption of robotic devices to perform repetitive tasks like lawn cutting, vacuum cleaning, and clothes ironing is becoming an established market. As better-performing and more economically attractive products reach the market,"
     publishedDateTime: 2021-07-04T04:03:00Z

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.digitaltrends.com/gaming/tencent-facial-recognition-chin
 cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/gaming/tencent-facial-recognition-china/?amp"
 type: article
 quality: 86
-heat: 156
-published: true
+heat: -1
+published: false
 
 provider:
   name: Digital Trends
@@ -31,6 +31,20 @@ images:
     isCached: true
 
 related:
+  - title: "Tencent Deploys Facial Recognition to Detect Minors Gaming at Night"
+    excerpt: "China’s gaming giant Tencent Games has launched one of the most-talked about — and controversial — means to curb excessive play time among children and teenagers so far: a time-sensitive facial recognition system. Starting Tuesday, the gaming ..."
+    publishedDateTime: 2021-07-06T11:42:00Z
+    webUrl: "https://www.sixthtone.com/news/1007915/tencent-deploys-facial-recognition-to-detect-minors-gaming-at-night-"
+    type: article
+    provider:
+      name: Sixth Tone
+      domain: sixthtone.com
+    quality: 139
+    images:
+      - url: "http://image5.sixthtone.com/image/5/41/132.jpg"
+        width: 2000
+        height: 1000
+        isCached: true
   - title: "China's Tencent Says It'll Use Face Recognition to Keep Minors From Gaming at Night"
     excerpt: "This is such desperate news for us high school graduates who are two months away from being 18,” one WeChat user reportedly wrote."
     publishedDateTime: 2021-07-06T18:05:00Z
@@ -77,34 +91,6 @@ related:
         width: 1284
         height: 720
         isCached: true
-  - title: "Facial recognition: Tax pros mull returning to in-person meetings"
-    excerpt: "Absolutely — as people feel more comfortable, we anticipate having more live rather than virtual meetings and events,” said Daniel Morris, a CPA and senior partner with Morris+D’Angelo CPAs in San Jose,"
-    publishedDateTime: 2021-07-06T13:00:00Z
-    webUrl: "https://www.accountingtoday.com/news/facial-recognition-tax-pros-mull-returning-to-in-person-meetings"
-    type: article
-    provider:
-      name: Accounting Today
-      domain: accountingtoday.com
-    quality: 39
-    images:
-      - url: "https://arizent.brightspotcdn.com/b0/a1/9a53ebac4783bb22133d358a52d4/coronavirus-6-feet-sign.jpg"
-        width: 3998
-        height: 2667
-        isCached: true
-  - title: "Tencent Deploys Facial Recognition to Detect Minors Gaming at Night"
-    excerpt: "China’s gaming giant Tencent Games has launched one of the most-talked about — and controversial — means to curb excessive play time among children and teenagers so far: a time-sensitive facial recognition system. Starting Tuesday, the gaming ..."
-    publishedDateTime: 2021-07-06T11:42:00Z
-    webUrl: "https://www.sixthtone.com/news/1007915/tencent-deploys-facial-recognition-to-detect-minors-gaming-at-night-"
-    type: article
-    provider:
-      name: Sixth Tone
-      domain: sixthtone.com
-    quality: 39
-    images:
-      - url: "http://image5.sixthtone.com/image/5/41/132.jpg"
-        width: 2000
-        height: 1000
-        isCached: true
   - title: "Tencent Launches Facial Recognition To Curb Late Night Gaming In Minors"
     excerpt: "Chinese gaming giant Tencent has introduced facial recognition tech intended to stop children playing games past 10pm in China."
     publishedDateTime: 2021-07-06T14:20:00Z
@@ -132,6 +118,20 @@ related:
       - url: "https://www.mcvuk.com/wp-content/uploads/1280px-tencent_logo.jpg"
         width: 1284
         height: 722
+        isCached: true
+  - title: "Investors issue statement on human rights implications of facial recognition technologies & commitments to due diligence"
+    excerpt: "We are 50 global institutional investors and their representatives with $4.5 trillion in assets under management as of December, 2020. As responsible investors, we incorporate Environmental, Social and Governance (ESG) factors,"
+    publishedDateTime: 2021-07-04T08:19:00Z
+    webUrl: "https://www.business-humanrights.org/en/latest-news/investors-issue-statement-on-human-rights-implications-of-facial-recognition-technologies-commitments-to-due-diligence/"
+    type: article
+    provider:
+      name: 洗護用品和肥皂
+      domain: business-humanrights.org
+    quality: 14
+    images:
+      - url: "https://media.business-humanrights.org/media/images/united-nations-419885_1280.2e16d0ba.fill-788x488.jpg"
+        width: 788
+        height: 488
         isCached: true
 
 secured: "41TCaMo04O8MLANPIghIAd6mlO5Z8JqXolf+hZ9rL+t0F0Je5eogV3S5UwcbPOq05/xTSDZVnZ2Z3FRgnd72Hwi5Qj0hOXzs8EpJODVddnee14xqT5RO+EPFRsnv0LYg9pOA4IazD8CM4d8KVmt7itVcMOhGxjupO0Y8AOmGc6CPqWZKUS1CNh+xegRDTBc6Z5wTJR4cxKxnLo87kXr/cVtTa2JWt3gVYvPvKk/AH2JAue6a0eHcViHHeZYUxEXq5XHS+WIOETe/Sp+H+Z6nvOv1WWN+fwjVSEH+YS39Joi6BFsRw9mg/urGBnEqDbRaKtV0Og61NWN+NGrl7sQXZer8mbwXHaWIcS5RNFfMHlc=;RNZdjyaWKohaRc22rCkn7Q=="

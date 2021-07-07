@@ -39,6 +39,20 @@ related:
         width: 2454
         height: 1222
         isCached: true
+  - title: "Facebook AI Innovation Summit: Habitat 2.0, a simulator to help robots in domestic tasks"
+    excerpt: "On June 30th, the Facebook AI Innovation Summit, an annual event of Facebook AI Research (FAIR) in Europe, took place. It was an opportunity for Facebook’s research subsidiary to present its latest innovations around the following theme: “Building a ..."
+    publishedDateTime: 2021-07-07T12:14:00Z
+    webUrl: "https://www.actuia.com/english/facebook-ai-innovation-summit-habitat-2-0-a-simulator-to-help-robots-in-domestic-tasks/"
+    type: article
+    provider:
+      name: Actu IA
+      domain: actuia.com
+    quality: 30
+    images:
+      - url: "https://www.actuia.com/wp-content/uploads/2021/07/Habitat.jpg"
+        width: 800
+        height: 400
+        isCached: true
 
 secured: "Iv6kTLX31HwQIRSxvVPIebIxn3fYx+BTG0fksIKf5DvW8qI2ob6E626KJEEGdq900rGcIee2UY4gwDQZe6HpBY7STilADxQ9ARTfqW0i3jxyRjHTnSPh4x7HFVYVyCFAv8Kzc84MaQAF0j6Tj5/GJmH++exmIYc0Tb2jXNlysE/SmdS1mmGOmECiNs2ZhOXp1rKusXTOxcDbm0IJ/O+4LaEZDMPpOn87gwrOeBPCEwbuIe1EPsP8/njPk7cLK7okA5S4nrVJw2HQdOAfcvIMLXCULBR6zxu5hr4oAsZf4j83kJB3j1mhV96fSn1FoNLCYuM9+S2IQquNcs+IgB5Hx/NPpJAg/fqYKLlsS1e5YX4=;rGFKXoTAn0PYuRFSAbzQpw=="
 ---

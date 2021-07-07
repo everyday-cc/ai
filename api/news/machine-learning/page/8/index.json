@@ -2,6 +2,50 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2021-05-11-iit-hyderabad-invites-applications-for-free-online-course-on-deep-learning-for-computer-vision.md",
+      "title": "IIT Hyderabad Invites Applications for Free Online Course on Deep Learning for Computer Vision",
+      "excerpt": "IIT Hyderabad has offered a free online course on deep learning for computer vision on the NPTEL platform of the Ministry of Education",
+      "sourceUrl": null,
+      "webUrl": "https://www.dqindia.com/iit-hyderabad-invites-applications-free-online-course-deep-learning-computer-vision/",
+      "originalUrl": "https://www.dqindia.com/iit-hyderabad-invites-applications-free-online-course-deep-learning-computer-vision/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.dqindia.com/wp-content/uploads/2019/04/Artificial-Intelligence-Computer-Programming-Robot-2167836.jpg",
+          "width": 640,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.dqindia.com/iit-hyderabad-invites-applications-free-online-course-deep-learning-computer-vision/amp/",
+      "cdnAmpWebUrl": "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/iit-hyderabad-invites-applications-free-online-course-deep-learning-computer-vision/amp/",
+      "publishedDateTime": "2021-05-11T00:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Dataquest",
+        "domain": "dqindia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-05-11-global-machine-learning-market-2021-trend-and-opportunities-pestel-analysis-cagr-and-value-chain-study-to-2026.md",
       "title": "Global Machine Learning Market 2021 Trend and Opportunities, PESTEL Analysis, CAGR and Value Chain Study to 2026",
       "excerpt": "Global Machine Learning Market 2021 by Company, Regions, Type and Application, Forecast to 2026 is the recent market study developed by MarketsandResearch.biz that contains a comprehensive assessment on market estimation based on historical data analysis.",
@@ -1355,58 +1399,6 @@
         "name": "PR Newswire",
         "domain": "prnewswire.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-03-3-big-myths-of-ai-and-machine-learning-debunked.md",
-      "title": "3 Big Myths Of AI And Machine Learning Debunked",
-      "excerpt": "Artificial Intelligence and machine learning can give your business decision-making processes a massive upgrade. Here’s what you really need to know.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/splunk/2021/05/03/3-big-myths-of-ai-and-machine-learning-debunked/",
-      "originalUrl": "https://www.forbes.com/sites/splunk/2021/05/03/3-big-myths-of-ai-and-machine-learning-debunked/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 115,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6086f7034b0844a0abeea8ad%2F0x0.jpg%3FcropX1%3D542%26cropX2%3D3795%26cropY1%3D0%26cropY2%3D2441",
-          "width": 1199,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/splunk/2021/05/03/3-big-myths-of-ai-and-machine-learning-debunked/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/splunk/2021/05/03/3-big-myths-of-ai-and-machine-learning-debunked/amp/",
-      "publishedDateTime": "2021-05-03T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

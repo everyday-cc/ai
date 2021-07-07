@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Tencent Deploys Facial Recognition to Detect Minors Gaming at Night"
+    excerpt: "China’s gaming giant Tencent Games has launched one of the most-talked about — and controversial — means to curb excessive play time among children and teenagers so far: a time-sensitive facial recognition system. Starting Tuesday, the gaming ..."
+    publishedDateTime: 2021-07-06T11:42:00Z
+    webUrl: "https://www.sixthtone.com/news/1007915/tencent-deploys-facial-recognition-to-detect-minors-gaming-at-night-"
+    type: article
+    provider:
+      name: Sixth Tone
+      domain: sixthtone.com
+    quality: 139
+    images:
+      - url: "http://image5.sixthtone.com/image/5/41/132.jpg"
+        width: 2000
+        height: 1000
+        isCached: true
   - title: "Tencent’s new facial recognition program prevents gaming after dark in China"
     excerpt: "Tencent has announced a facial recognition system in China that will stop children from playing video games after hours."
     publishedDateTime: 2021-07-06T16:07:00Z
@@ -87,34 +101,6 @@ related:
         width: 1284
         height: 720
         isCached: true
-  - title: "Facial recognition: Tax pros mull returning to in-person meetings"
-    excerpt: "Absolutely — as people feel more comfortable, we anticipate having more live rather than virtual meetings and events,” said Daniel Morris, a CPA and senior partner with Morris+D’Angelo CPAs in San Jose,"
-    publishedDateTime: 2021-07-06T13:00:00Z
-    webUrl: "https://www.accountingtoday.com/news/facial-recognition-tax-pros-mull-returning-to-in-person-meetings"
-    type: article
-    provider:
-      name: Accounting Today
-      domain: accountingtoday.com
-    quality: 39
-    images:
-      - url: "https://arizent.brightspotcdn.com/b0/a1/9a53ebac4783bb22133d358a52d4/coronavirus-6-feet-sign.jpg"
-        width: 3998
-        height: 2667
-        isCached: true
-  - title: "Tencent Deploys Facial Recognition to Detect Minors Gaming at Night"
-    excerpt: "China’s gaming giant Tencent Games has launched one of the most-talked about — and controversial — means to curb excessive play time among children and teenagers so far: a time-sensitive facial recognition system. Starting Tuesday, the gaming ..."
-    publishedDateTime: 2021-07-06T11:42:00Z
-    webUrl: "https://www.sixthtone.com/news/1007915/tencent-deploys-facial-recognition-to-detect-minors-gaming-at-night-"
-    type: article
-    provider:
-      name: Sixth Tone
-      domain: sixthtone.com
-    quality: 39
-    images:
-      - url: "http://image5.sixthtone.com/image/5/41/132.jpg"
-        width: 2000
-        height: 1000
-        isCached: true
   - title: "Tencent deploying facial recognition to stop children gaming at night in China"
     excerpt: "Internet and gaming giant Tencent has decided to take extreme measures to prevent those under 18 from playing games late into the night in China. The company is using a facial recognition system on its platform to identify players and prevent them circumnavigating existing controls by using adult accounts."
     publishedDateTime: 2021-07-06T14:30:00Z
@@ -128,6 +114,20 @@ related:
       - url: "https://www.mcvuk.com/wp-content/uploads/1280px-tencent_logo.jpg"
         width: 1284
         height: 722
+        isCached: true
+  - title: "Investors issue statement on human rights implications of facial recognition technologies & commitments to due diligence"
+    excerpt: "We are 50 global institutional investors and their representatives with $4.5 trillion in assets under management as of December, 2020. As responsible investors, we incorporate Environmental, Social and Governance (ESG) factors,"
+    publishedDateTime: 2021-07-04T08:19:00Z
+    webUrl: "https://www.business-humanrights.org/en/latest-news/investors-issue-statement-on-human-rights-implications-of-facial-recognition-technologies-commitments-to-due-diligence/"
+    type: article
+    provider:
+      name: 洗護用品和肥皂
+      domain: business-humanrights.org
+    quality: 14
+    images:
+      - url: "https://media.business-humanrights.org/media/images/united-nations-419885_1280.2e16d0ba.fill-788x488.jpg"
+        width: 788
+        height: 488
         isCached: true
 
 secured: "2ng8fKlEmGhAr4ycO4r1kmuLWFlyCHc6GqXFpnhLeEjUfvuOQPTBxzr4xgIwrUeUWgZDwfIxtIeXGSVbicx/puqeArmAC2gX333uZqq3h+V0zaZwBSlSNk/fWl6qP89j/JyNn3RSBaEVM2mEoVCAzwQNVvhF8IgPbgSXVIdpKjnOcl6Aded3Eh6Qhl+ZT+zeHjPPQc8bQHTidRSitxvOgsEcR6MrV+Mcv9FltCi5kAPeAYIHSa1aFWowni7aXj7xd5A+Q2xehHICrpxXP3mIq+RkNH6Qu1DknrSxQUmvnS8RsQEiUPN/I4/XaG2E0jvFNnSsAXBPldgSoQ/Kez1ghQAFUQGiDTzD1TXB8LCy8HM2yQqqcf65Zz+Ai7neOv7ieuRHlwZ6XF5sSosqbXs+inhqEjGadNjljwbzi8dMW0Y6CBe6g85c2ktuiuoFAj582VdyexRINyRQf9sdRPZEzVIJQBSOdeq9NrIGHHK77GM94Frwn05HqbVcIK2Vn9Gzg0G83sEkkyUmIM+BIOKKfg==;7qeFiswWO9ziTTVHGRD0DA=="

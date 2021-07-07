@@ -39,6 +39,20 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 69
+  - title: "Finance Teams Using AI Outperform Peers as Demand for Skills Grows"
+    excerpt: "Finance teams adopting AI outperform non-adopters . While awareness of artificial intelligence (AI) among finance professionals is high with 70% at least a little knowledgeable ab"
+    publishedDateTime: 2021-07-07T12:05:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-finance-teams-using-ai-outperform-peers-as-demand-/2021/07/07/9404158.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 54
+    images:
+      - url: "https://mma.prnewswire.com/media/1163740/Unit4_Logo.jpg"
+        width: 400
+        height: 222
+        isCached: true
 
 secured: "fk1OTvTmoBTG3mqc2IF4RznYPqny8i3oZORR/Hm1nAd4YYvyHO42xhv09kaxyYB5M588neuiDdbCh2ubVaiMPYZrjYL9VPjt4uCK0BbAJlS/sVoVWMa2OTpASFNluyDT8dmt2TwdL6M9WFVp++4ZT8pb+/pI6UG4r9YvoZL99S++GA84HkYBqm4fGQcbDCJslsxT57Qyu0Lnl7iPqtVeYwZkVT5w3YvkEXrHK/wlLzOi5BKII/K31jG9C+u6d9hrOKHUMXmUz6lV1B4YlCT9RgTGKmB9mQHNUjae1PXBWOPtjUqNjdMcMbO0ZpMe9IwxGDnQZcldCr/nNuaeSM70HVEbiSvY/2gIkngBl+fKSGOnsVVAYD6KkuaZ2FbyQR3zyReSvdof2skZ/uc9yCUemTLDBdvCCTgCd/sDeEPXZfI4ImieJyrOyut+MbhqJO3LT4Ij/q76EgMe3G6h5ejyDVixHjRPjx9D37X9k1F9hKdtaNyLwBNap7fl93T5RaIIumcoC1D+bT7Y/H6LKL4RPA==;XRpqfM359Oy14NDUI+g6UQ=="
 ---

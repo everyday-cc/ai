@@ -1,0 +1,59 @@
+---
+category: news
+title: "The cybersecurity AI startup ZeroFox is buying competitor Vigilante to help it better scan the dark web to fight back against ransomware"
+excerpt: "Threat intelligence firm ZeroFox announced Wednesday that it will acquire competitor Vigilante. ZeroFox has raised nearly $200 million for its"
+publishedDateTime: 2021-07-07T13:34:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/zerofox-acquires-vigilante-to-build-out-security-ai-ceo-interview-2021-6"
+webUrl: "https://markets.businessinsider.com/news/stocks/zerofox-acquires-vigilante-to-build-out-security-ai-ceo-interview-2021-6"
+type: article
+quality: 34
+heat: -1
+published: false
+
+provider:
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - AI
+
+images:
+  - url: "https://images2.markets.businessinsider.com/60d9d4bfdf1db80018f3a800?format=jpeg"
+    width: 701
+    height: 526
+    isCached: true
+
+related:
+  - title: "Report: Growing San Diego Cybersecurity Cluster Using AI to Fight Hacking Threats"
+    excerpt: "San Diego's cyber cluster accounts for 24,349 local jobs across 874 firms, has an annual economic impact of $3.5 billion, and is growing rapidly thanks to defense-related projects."
+    publishedDateTime: 2021-07-06T00:52:00Z
+    webUrl: "https://timesofsandiego.com/tech/2021/07/05/report-growing-san-diego-cybersecurity-cluster-using-ai-to-fight-hacking-threats/"
+    ampWebUrl: "https://timesofsandiego.com/tech/2021/07/05/report-growing-san-diego-cybersecurity-cluster-using-ai-to-fight-hacking-threats/"
+    cdnAmpWebUrl: "https://timesofsandiego-com.cdn.ampproject.org/c/s/timesofsandiego.com/tech/2021/07/05/report-growing-san-diego-cybersecurity-cluster-using-ai-to-fight-hacking-threats/"
+    type: article
+    provider:
+      name: Times of San Diego
+      domain: timesofsandiego.com
+    quality: 52
+    images:
+      - url: "https://timesofsandiego.com/wp-content/uploads/2020/01/Google-Data-Center.jpg"
+        width: 640
+        height: 360
+        isCached: true
+  - title: "Cybersecurity for consumer robots"
+    excerpt: "Consumer adoption of robotic devices to perform repetitive tasks like lawn cutting, vacuum cleaning, and clothes ironing is becoming an established market. As better-performing and more economically attractive products reach the market,"
+    publishedDateTime: 2021-07-04T04:03:00Z
+    webUrl: "https://electronics360.globalspec.com/article/16895/cybersecurity-for-consumer-robots"
+    type: article
+    provider:
+      name: Engineering360 News
+      domain: globalspec.com
+    quality: 19
+
+secured: "boMHwzPbnmJWpbv5vXVr2kcypVemoAuMJVaPd+Z+TXAJhA4DjvsT0O1T8XjlyX+mhCMnvVaYlAnUpx9dfMl4NjFhhhSrFJIy09/ICNqRPNQwYzkkrVBwje+KE77ghZnzOWj3r0njPX/U1V178WjvAI1CHP0fBZuFXzImKsnMuM9/nfcQhgPkxYXvD/Vm//nHgbrMjfeIW0/jy+l457Fo1Dq1FXa1Njh88mJS2aPtgWsu3R0c8u+YmjvTW3zsEyRDf3Hh5mfDHiAtmEkQGvcHDUYFa5ScvEwxTJJs0hOf6UiD+fhoxhWLnr8s78dYl0xSLefkQ/AAENywHOmehmR0niV+y4obbbhQQU43BCwqe/U=;b2PqSrt4/FH7i2/wKM8ozA=="
+---
+

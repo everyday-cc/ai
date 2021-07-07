@@ -1,0 +1,52 @@
+---
+category: news
+title: "IBM’s CodeFlare automates AI model development"
+excerpt: "Google, Microsoft, and Hybernet Labs offer comparable services in Cloud AI Platform Pipelines, Azure Machine Learning pipelines, and Galileo, respectively. But IBM asserts CodeFlare was built from ..."
+publishedDateTime: 2021-07-07T12:02:00Z
+originalUrl: "https://venturebeat.com/2021/07/07/ibms-codeflare-automates-ai-model-development/"
+webUrl: "https://venturebeat.com/2021/07/07/ibms-codeflare-automates-ai-model-development/"
+ampWebUrl: "https://venturebeat.com/2021/07/07/ibms-codeflare-automates-ai-model-development/amp/"
+cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/07/ibms-codeflare-automates-ai-model-development/amp/"
+type: article
+quality: 91
+heat: 101
+published: true
+
+provider:
+  name: VentureBeat
+  domain: venturebeat.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - Microsoft AI
+  - AI
+  - AI Hardware
+
+images:
+  - url: "https://venturebeat.com/wp-content/uploads/2021/03/IBM-3-e1616161936977.jpg?w=1200&strip=all"
+    width: 1200
+    height: 600
+    isCached: true
+
+related:
+  - title: "IBM open-sources CodeFlare framework for AI models that run on multicloud platforms"
+    excerpt: "Holger Mueller, an analyst with Constellation Research Inc., told SiliconANGLE that AI and machine learning ... We are holding our second cloud startup showcase on June 16. Click here to join ..."
+    publishedDateTime: 2021-07-07T12:31:00Z
+    webUrl: "https://siliconangle.com/2021/07/07/ibm-open-sources-codeflare-framework-ai-models-run-multicloud-platforms/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 31
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/07/cloud-2804717_960_720.jpg"
+        width: 960
+        height: 640
+        isCached: true
+
+secured: "DkoSY3eGzbCsJaBocMK2d9JdtjlstDuKIuIXO2zefjNDWhMAurN5WkHueAtm6H3WLS/fA9awWWbMwn4ZJHl35JEZ9lJ/DzF6QhYdPXLer00/1+Nl6Jbg6CRHLQCozpvSuPmaSTX6CZHaP2zlS5UbraY3HnZVytibhCAo7VFD8VbWxVSoxFBw7tjWzxQdMsF/koNBqfWxXgQ7lUrjBuoZtznbLtsvqYcn2ImScetezmsq1YdZTbJhRDyQMOrbPdIRsJWAkdfJFckUc1LxLqpwSNuDZkx9fdcs3wz4DRDMqzGe5w0PHmguBA161wkCgPs5cRlcz6ce55f4MbgypbNQVrUoJAYNFd86UEWiyqax5wY=;Q9+aYwjit4E9MKGVS9C8jg=="
+---
+

@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Three Experts Offer Fintech App Marketing Tips You Can Bank On"
+    excerpt: "Fintech and finance apps are booming, but turning installs into loyal users requires new metrics and approaches. Three expert marketers share invaluable lessons and learnings to rocket campaign results."
+    publishedDateTime: 2021-07-07T12:07:00Z
+    webUrl: "https://www.forbes.com/sites/peggyannesalz/2021/07/07/three-experts-offer-fintech-app-marketing-tips-you-can-bank-on/"
+    ampWebUrl: "https://www.forbes.com/sites/peggyannesalz/2021/07/07/three-experts-offer-fintech-app-marketing-tips-you-can-bank-on/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/peggyannesalz/2021/07/07/three-experts-offer-fintech-app-marketing-tips-you-can-bank-on/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 106
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60e59491966c5c37559bebbe%2F0x0.jpg%3FcropX1%3D1966%26cropX2%3D8040%26cropY1%3D0%26cropY2%3D3227"
+        width: 1200
+        height: 638
+        isCached: true
   - title: "Student finance fintech raises £1.1m in funding"
     excerpt: "StepEx has raised £1.1 million in pre-initial funding, with the venture studio BBVA Anthemis Venture Partnership being the lead investor."
     publishedDateTime: 2021-07-05T12:54:00Z
@@ -41,33 +57,6 @@ related:
         width: 512
         height: 512
         isCached: true
-  - title: "Finance Starts Having a Heart: How Fintech Fosters Financial Inclusion and the SDGs"
-    excerpt: "Finance acquires a heart. Fintech companies innovate financial services with empathy and sustainability in mind. Financial inclusion can become"
-    publishedDateTime: 2021-07-05T22:30:00Z
-    webUrl: "https://www.business2community.com/finance/finance-starts-having-a-heart-how-fintech-fosters-financial-inclusion-and-the-sdgs-02416807"
-    ampWebUrl: "https://www.business2community.com/finance/finance-starts-having-a-heart-how-fintech-fosters-financial-inclusion-and-the-sdgs-02416807/amp"
-    cdnAmpWebUrl: "https://www-business2community-com.cdn.ampproject.org/c/s/www.business2community.com/finance/finance-starts-having-a-heart-how-fintech-fosters-financial-inclusion-and-the-sdgs-02416807/amp"
-    type: article
-    provider:
-      name: Business 2 Community
-      domain: business2community.com
-    quality: 53
-    images:
-      - url: "https://cdn.business2community.com/wp-content/uploads/2021/06/heart-900x607.png"
-        width: 900
-        height: 607
-        isCached: true
-  - title: "SoFi Technologies vs. Upstart: Which Fintech Stock Is A More Compelling Buy?"
-    excerpt: "According to an IndustryArc report, the Fintech market is expected to grow at a compounded annual growth rate (CAGR) of 8.7% between 2021 to 2026, and is anticipated to be worth $161.2 billion by 2026."
-    publishedDateTime: 2021-07-06T12:37:00Z
-    webUrl: "https://www.nasdaq.com/articles/sofi-technologies-vs.-upstart%3A-which-fintech-stock-is-a-more-compelling-buy-2021-07-06"
-    ampWebUrl: "https://www.nasdaq.com/articles/sofi-technologies-vs.-upstart%3A-which-fintech-stock-is-a-more-compelling-buy-2021-07-06?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/sofi-technologies-vs.-upstart%3A-which-fintech-stock-is-a-more-compelling-buy-2021-07-06?amp"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 51
   - title: "Fintech for a Better Future: 5 Trends that Are Improving Financial Service"
     excerpt: "For many people, financial technology is somewhat incidental. It’s a passing part of daily life: we interact with fintech when we send money online, check our bank balances with our mobile phones, or use an app to buy cryptocurrency."
     publishedDateTime: 2021-07-06T09:54:00Z
@@ -140,6 +129,20 @@ related:
         width: 2603
         height: 1338
         isCached: true
+  - title: "Meet Hydrogen, the latest sibling-led API fintech"
+    excerpt: "Hydrogen is the brainchild of twin brothers Matt and Mike Kane. The New York natives' API-driven solution is one of the latest sibling-founded fintechs"
+    publishedDateTime: 2021-07-07T13:23:00Z
+    webUrl: "https://fintechmagazine.com/technology-and-ai/meet-hydrogen-latest-sibling-led-api-fintech"
+    type: article
+    provider:
+      name: fintechmagazine
+      domain: fintechmagazine.com
+    quality: 24
+    images:
+      - url: "https://fintechmagazine.com/sites/default/files/styles/ma/public/image/Matt_Mike_ftn_0.jpg?itok=NIb3KVB5"
+        width: 3024
+        height: 4032
+        isCached: true
   - title: "Financial Markets Tech Platform Symphony Partners with Fintech Saphyre to Add AI Solutions to Workflows"
     excerpt: "Symphony, the financial markets’ infrastructure and tech platform, has teamed up with Fintech company Saphyre, Inc. in order to integrate patented AI solutions into pre and post-trade workflows for front,"
     publishedDateTime: 2021-07-03T13:08:00Z
@@ -151,20 +154,6 @@ related:
       name: Crowdfund Insider
       domain: crowdfundinsider.com
     quality: 23
-  - title: "Fintech Acquires Cloud-Based Business Intelligence Provider STX Business Solutions"
-    excerpt: "Financial Information Technologies, LLC (\"Fintech\"), the leading business solutions provider for the beverage alcohol industry, today announced its acquisition of STX Business Solutions, a powerful web-based data management platform for the CPG"
-    publishedDateTime: 2021-07-06T18:41:00Z
-    webUrl: "https://www.lelezard.com/en/news-19889249.html"
-    type: article
-    provider:
-      name: Le Lézard
-      domain: lelezard.com
-    quality: 18
-    images:
-      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
-        width: 640
-        height: 480
-        isCached: true
 
 secured: "AZ72D7et9wWfm8OFXl954Xo1uaQbspD2Ijf2uVUsImz2i5qDgYRy0bLqErvy8OQ+9wXwhqmgwbsOe0vNwoltrwv8Vx70MEzQq2k6eqAPrYFZunef9wjAZQSVP8692UqX2633lNmLXeeUzLfibqh+ennG8QeR0vYbEk7/SqVklNNn4z/MN6g8x7hSB9J3svzUzHnkLeNG7yZB/OoM5vYbOHBVFM8noAB5HDTE7Oo9g6LBp5hPXM95mR3pUnKVFEv5OUrV7yEvSr8z3OEcT6k2oE81YmlchVFn3v8OmlXJuP8Ch9g9JxUn/LT/ksatZGbyodbStEkLBuBGpTQ3iRGLEOZJAYrxvh7GCmjyOb1777PjZnRvWxpfvSpO7kF6OYNEwJs2QgZnCQjDtb+N51QPoHbKqEOr8yQM8l6C2EHLig6vEuYvnJfuw/t8hIOeN1r/m8dzHNr6bdoKm3XwE+YxbFHRrdWjsaQcXRkwaDXkcFfNgVy8SnMBGinC4jlqkxZ61cG9rUpduCD2/AgpZWd1uA==;0/tDkZBCjrU5vcovZUCw2Q=="
 ---

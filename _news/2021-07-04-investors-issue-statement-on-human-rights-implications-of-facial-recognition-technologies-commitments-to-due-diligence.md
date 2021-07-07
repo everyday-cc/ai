@@ -25,87 +25,109 @@ images:
     isCached: true
 
 related:
-  - title: "Baltimore is the latest U.S. city to target facial recognition technology"
-    excerpt: "The city of Baltimore has banned the use of facial recognition systems by residents, businesses and the city government (except for police). The criminalisation in a major U.S. city of an"
-    publishedDateTime: 2021-07-06T10:26:00Z
-    webUrl: "https://www.sourcesecurity.com/insights/baltimore-city-target-facial-recognition-technology-co-1508-ga-sb.1625556289.html"
-    ampWebUrl: "https://www.sourcesecurity.com/amp/insights/baltimore-city-target-facial-recognition-technology-co-1508-ga-sb.1625556289.html"
-    cdnAmpWebUrl: "https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/insights/baltimore-city-target-facial-recognition-technology-co-1508-ga-sb.1625556289.html"
+  - title: "Tencent Deploys Facial Recognition to Detect Minors Gaming at Night"
+    excerpt: "China’s gaming giant Tencent Games has launched one of the most-talked about — and controversial — means to curb excessive play time among children and teenagers so far: a time-sensitive facial recognition system. Starting Tuesday, the gaming ..."
+    publishedDateTime: 2021-07-06T11:42:00Z
+    webUrl: "https://www.sixthtone.com/news/1007915/tencent-deploys-facial-recognition-to-detect-minors-gaming-at-night-"
     type: article
     provider:
-      name: SourceSecurity
-      domain: sourcesecurity.com
-    quality: 58
+      name: Sixth Tone
+      domain: sixthtone.com
+    quality: 139
     images:
-      - url: "https://www.sourcesecurity.com/img/news/612/why-access-control-important-920x533.jpg"
-        width: 612
-        height: 355
+      - url: "http://image5.sixthtone.com/image/5/41/132.jpg"
+        width: 2000
+        height: 1000
         isCached: true
-  - title: "Maine law restricts facial recognition technology statewide"
-    excerpt: "A bill touted as the country’s strictest statewide regulation on the use of facial recognition technology has become law in Maine."
-    publishedDateTime: 2021-07-03T03:40:00Z
-    webUrl: "https://www.bradenton.com/news/business/technology/article252486663.html"
-    ampWebUrl: "https://amp.bradenton.com/news/business/technology/article252486663.html"
-    cdnAmpWebUrl: "https://amp-bradenton-com.cdn.ampproject.org/c/s/amp.bradenton.com/news/business/technology/article252486663.html"
+  - title: "Tencent’s new facial recognition program prevents gaming after dark in China"
+    excerpt: "Tencent has announced a facial recognition system in China that will stop children from playing video games after hours."
+    publishedDateTime: 2021-07-06T16:07:00Z
+    webUrl: "https://www.digitaltrends.com/gaming/tencent-facial-recognition-china/"
+    ampWebUrl: "https://www.digitaltrends.com/gaming/tencent-facial-recognition-china/?amp"
+    cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/gaming/tencent-facial-recognition-china/?amp"
     type: article
     provider:
-      name: Bradenton Herald
-      domain: bradenton.com
-    quality: 54
-  - title: "Maine law restricts facial recognition technology statewide"
-    excerpt: "A bill touted as the country’s strictest statewide regulation on the use of facial recognition technology has become law in Maine."
-    publishedDateTime: 2021-07-03T17:06:00Z
-    webUrl: "https://www.newsobserver.com/news/technology/article252486663.html"
-    ampWebUrl: "https://amp.newsobserver.com/news/technology/article252486663.html"
-    cdnAmpWebUrl: "https://amp-newsobserver-com.cdn.ampproject.org/c/s/amp.newsobserver.com/news/technology/article252486663.html"
-    type: article
-    provider:
-      name: Raleigh News & Observer
-      domain: newsobserver.com
-    quality: 54
-  - title: "New test targets super-recognisers, high-performing facial recognition individuals"
-    excerpt: "Psychologists from UNSW Sydney have developed a new face identification ability test that will help find facial recognition experts for a variety of police and government agencies, including contract tracing."
-    publishedDateTime: 2021-07-06T12:20:00Z
-    webUrl: "https://medicalxpress.com/news/2021-07-super-recognisers-high-performing-facial-recognition-individuals.html"
-    ampWebUrl: "https://medicalxpress.com/news/2021-07-super-recognisers-high-performing-facial-recognition-individuals.amp"
-    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-07-super-recognisers-high-performing-facial-recognition-individuals.amp"
-    type: article
-    provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 53
+      name: Digital Trends
+      domain: digitaltrends.com
+    quality: 86
     images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2021/face-off-for-best-id-c.jpg"
-        width: 1000
-        height: 667
+      - url: "https://icdn.digitaltrends.com/image/digitaltrends/_117589161_gettyimages-1228918581.jpg"
+        width: 976
+        height: 549
         isCached: true
-  - title: "13 federal law enforcement agencies haven’t been monitoring facial recognition technology use"
-    excerpt: "The report from the U.S. Government Accountability Office (GAO) said 13 of the federal law enforcement agencies surveyed that use facial recognition technology did not have a system in place to track when or how employees were using the system or to assess the privacy risks associated with the use."
-    publishedDateTime: 2021-07-02T21:40:00Z
-    webUrl: "https://www.wpxi.com/news/top-stories/13-federal-law-enforcement-agencies-havent-been-monitoring-facial-recognition-technology-use/XLJYVPKNLRB37G2W252WIKKJXA/"
+  - title: "China's Tencent Says It'll Use Face Recognition to Keep Minors From Gaming at Night"
+    excerpt: "This is such desperate news for us high school graduates who are two months away from being 18,” one WeChat user reportedly wrote."
+    publishedDateTime: 2021-07-06T18:05:00Z
+    webUrl: "https://gizmodo.com/chinas-tencent-says-itll-use-face-recognition-to-keep-m-1847236584"
+    ampWebUrl: "https://gizmodo.com/chinas-tencent-says-itll-use-face-recognition-to-keep-m-1847236584/amp"
+    cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/chinas-tencent-says-itll-use-face-recognition-to-keep-m-1847236584/amp"
     type: article
     provider:
-      name: WPXI
-      domain: wpxi.com
-    quality: 28
+      name: Gizmodo
+      domain: gizmodo.com
+    quality: 85
     images:
-      - url: "https://d1hfln2sfez66z.cloudfront.net/07-02-2021/t_0b890523399842af94bf32e2b9fcc9b0_name_file_960x540_1200_v3_1_.jpg"
-        width: 960
-        height: 540
-        isCached: true
-  - title: "What businesses should know about the city’s new facial-recognition law"
-    excerpt: "A city law restricting facial-recognition technology and other biometric data collection takes effect Friday—setting up potential legal headaches if businesses don ’ t act. Re"
-    publishedDateTime: 2021-07-06T19:31:00Z
-    webUrl: "https://www.crainsnewyork.com/technology/what-businesses-should-know-about-citys-new-facial-recognition-law"
-    type: article
-    provider:
-      name: Crain's New York
-      domain: crainsnewyork.com
-    quality: 24
-    images:
-      - url: "https://s3-prod.crainsnewyork.com/styles/800x600/s3/362796995.jpg"
+      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/36183011932591e6d43fe47afd1ed337.jpg"
         width: 800
-        height: 600
+        height: 450
+        isCached: true
+  - title: "Tencent’s creepy new facial recognition system detects kids gaming at night"
+    excerpt: "Chinese tech giant Tencent has launched a creepy new facial recognition system that detects children who are playing video games at night."
+    publishedDateTime: 2021-07-06T19:25:00Z
+    webUrl: "https://thenextweb.com/news/tencent-facial-recognition-detects-children-playing-games-at-night-gaming-china"
+    type: article
+    provider:
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 67
+    images:
+      - url: "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F07%2FUntitled-design-3.jpg&signature=c1cef30bbb5da6eff5db67610f4c5a3f"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "Tencent will use facial recognition to curb excessive youth gaming in China"
+    excerpt: "The Chinese mega-publisher is aiming to eliminate juveniles from playing games outside of a pre-established curfew."
+    publishedDateTime: 2021-07-06T23:05:00Z
+    webUrl: "https://www.shacknews.com/article/125456/tencent-will-use-facial-recognition-to-curb-excessive-youth-gaming-in-china"
+    ampWebUrl: "https://www.shacknews.com/article/125456/tencent-will-use-facial-recognition-to-curb-excessive-youth-gaming-in-china?amphtml=1"
+    cdnAmpWebUrl: "https://www-shacknews-com.cdn.ampproject.org/c/s/www.shacknews.com/article/125456/tencent-will-use-facial-recognition-to-curb-excessive-youth-gaming-in-china?amphtml=1"
+    type: article
+    provider:
+      name: Shacknews
+      domain: shacknews.com
+    quality: 57
+    images:
+      - url: "https://d1lss44hh2trtw.cloudfront.net/assets/article/2021/07/06/tencent-face-recognition-1_feature.jpg"
+        width: 1284
+        height: 720
+        isCached: true
+  - title: "Tencent Launches Facial Recognition To Curb Late Night Gaming In Minors"
+    excerpt: "Chinese gaming giant Tencent has introduced facial recognition tech intended to stop children playing games past 10pm in China."
+    publishedDateTime: 2021-07-06T14:20:00Z
+    webUrl: "https://techraptor.net/gaming/news/tencent-launches-facial-recognition-to-curb-late-night-gaming-in-minors"
+    type: article
+    provider:
+      name: TechRaptor
+      domain: techraptor.net
+    quality: 39
+    images:
+      - url: "https://techraptor.net/sites/default/files/styles/image_header/public/2021-07/Honor%20Of%20Kings%20Artwork%20Tencent%20Facial%20Recognition%20Main.jpg?itok=GWjIlMIw"
+        width: 852
+        height: 479
+        isCached: true
+  - title: "Tencent deploying facial recognition to stop children gaming at night in China"
+    excerpt: "Internet and gaming giant Tencent has decided to take extreme measures to prevent those under 18 from playing games late into the night in China. The company is using a facial recognition system on its platform to identify players and prevent them circumnavigating existing controls by using adult accounts."
+    publishedDateTime: 2021-07-06T14:30:00Z
+    webUrl: "https://www.mcvuk.com/business-news/tencent-deploying-facial-recognition-to-stop-children-gaming-at-night-in-china/"
+    type: article
+    provider:
+      name: MCV UK
+      domain: mcvuk.com
+    quality: 35
+    images:
+      - url: "https://www.mcvuk.com/wp-content/uploads/1280px-tencent_logo.jpg"
+        width: 1284
+        height: 722
         isCached: true
 
 secured: "dr9vzz8WlXxMpWsd9qZN4tyH0pywjYWSyXzm2REmnAMXh1fMRlJR1TOEQr49OOz46FGbMb4Ciy1Ro27oCr1O3h7VywZ48dn9gMQJCDs/c0/DvXcNrw4CK2OTO9Tm93ETuGy5myYBKvGmFkj2DdSrYMRISqusSk8fUVAZSjJo3HEc/+QwvyA6NEvbaNF/4Z8m40ZIPjTAB7sUUftkYQ4fG7+Y5yycRfJjnoJvQ+7f1dQYZbW2HcC2idHJGMpnr73efmYtNy7XRhoF94n4XVwbES+iwYB62kAzb8O+shkkwmGVZTsIufmQFrnOcGZoY/0e7Y4ZKtvTnUFgXaWDPK7zwIqkbLvVExhsvkJEo8C0Qqg=;+QubqZl70NMBSJwpD+2BMw=="

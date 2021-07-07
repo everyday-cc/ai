@@ -1,29 +1,23 @@
 ---
 category: news
 title: "Protenus and UC Davis Health Present at HIMSS21 on Leveraging Artificial Intelligence to Reduce Risk and Save Money"
-excerpt: "Healthcare organizations across the U.S. are struggling to protect their patients and workforce from unnecessary harm, as health data breaches"
-publishedDateTime: 2021-07-06T13:10:00Z
-originalUrl: "https://www.wboc.com/story/44249069/protenus-and-uc-davis-health-present-at-himss21-on-leveraging-artificial-intelligence-to-reduce-risk-and-save-money"
-webUrl: "https://www.wboc.com/story/44249069/protenus-and-uc-davis-health-present-at-himss21-on-leveraging-artificial-intelligence-to-reduce-risk-and-save-money"
+excerpt: "Healthcare organizations across the U.S. are struggling to protect their patients and workforce from unnecessary harm, as health data breaches and clinical drug diversion remain a constant threat, especially during the COVID-19 pandemic,"
+publishedDateTime: 2021-07-06T13:06:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-protenus-uc-davis-health-present-himss21-leveraging-artificial-/2021/07/06/9403372.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-protenus-uc-davis-health-present-himss21-leveraging-artificial-/2021/07/06/9403372.htm"
 type: article
-quality: 17
-heat: 17
+quality: 0
+heat: 0
 published: false
 
 provider:
-  name: WBOC
-  domain: wboc.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI in Healthcare
   - AI
 
-images:
-  - url: "http://ftpcontent6.worldnow.com/wboc/img/image-placeholder-4-21-2021.jpg"
-    width: 400
-    height: 225
-    isCached: true
-
-secured: "T3PTRZm5dhwsQzP5z6Ya7FiFHGjYhidJKME9Khl5uYgiVK0+e6EqnhznUcTE0eEx3DHV8chrpbUNmtLjq9ZicfB04YxtXMuGXhkCofbqtEuiKlH9DMTElv0ghgwX/8Wos6CMDSNncxUMPqOxzCyiBhuYEQft0CAZ6orb6mYmlEDycQeQ0kcv0dQtLaGRmeIthePnNFHBguJqgTd55kV2zOzYcUsUobSJlVxnvOuiUrB5PyfgB2FxZNODUahdE6RRNRvVN4JyI7dO1UokSl7zUv2WsOVesI47QvqxdI5aS7jM5ZUL4Z4NA4Mad3lsEqi4IQLQBYgZU3zHLkucu6CPQ4UOoOVN3/LLzBVtEVHwwW8=;R4uxal2BaoXMUP+mihPcsg=="
+secured: "lIdwOIUpQ1tRgJGXxtQi5/PG1jFkotzaz+8m85sB4W7f6hiDXoxGpWGKk5fvqc1ZBN4edkyVkdJORsCV1rIMu5L5mrcwels/MYazUYDj6C+/HWBs5v2shr22P8BxSKdp6iXbbBZL4B96AdqlQKZunBJuquY2N/8aHQCJnvmehpfY3N2R/0zhXei1GWHuHThBIA/GZSTEEfx67ev69kvhwUXnHxn5jf5ZmIUwssGYvfGbPAWg2U0K/J1eIq5aqPmKIApAfIkEZwOOIcd8+w+8M+KDbsnj4XH+MnU8t+rX9SUfCiSRjSB8K0EoeL+uaTIskOh/nsKvzIafXBj8us2gCBLxbJjhHU4DaA6m5N+Q5mw=;Fmq6JanuyetMzT6bAA2w7A=="
 ---
 

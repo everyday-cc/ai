@@ -9,7 +9,7 @@ ampWebUrl: "https://www.sourcesecurity.com/amp/insights/baltimore-city-target-fa
 cdnAmpWebUrl: "https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/insights/baltimore-city-target-facial-recognition-technology-co-1508-ga-sb.1625556289.html"
 type: article
 quality: 58
-heat: 118
+heat: 108
 published: true
 
 provider:
@@ -92,20 +92,6 @@ related:
       - url: "https://s3-prod.crainsnewyork.com/styles/800x600/s3/362796995.jpg"
         width: 800
         height: 600
-        isCached: true
-  - title: "Investors issue statement on human rights implications of facial recognition technologies & commitments to due diligence"
-    excerpt: "We are 50 global institutional investors and their representatives with $4.5 trillion in assets under management as of December, 2020. As responsible investors, we incorporate Environmental, Social and Governance (ESG) factors,"
-    publishedDateTime: 2021-07-04T08:19:00Z
-    webUrl: "https://www.business-humanrights.org/en/latest-news/investors-issue-statement-on-human-rights-implications-of-facial-recognition-technologies-commitments-to-due-diligence/"
-    type: article
-    provider:
-      name: 洗護用品和肥皂
-      domain: business-humanrights.org
-    quality: 14
-    images:
-      - url: "https://media.business-humanrights.org/media/images/united-nations-419885_1280.2e16d0ba.fill-788x488.jpg"
-        width: 788
-        height: 488
         isCached: true
 
 secured: "zqZpYg3glw2PAGMX0mdRc8ktUKvT/vB1Tsxr/uuhNPOAJ3Nolm2bj8GLiDbosV+qZxw1Iq1NnP+nP93bEWn4S19eWX+zvhzcXSkN+cSI4FnlSjAfptzJ7fyu6NysU0hI/F3t4iyw42ccVHF1JOU6vizLVSR5aHjm/4M77OI+V0+VwM5a2NDyfm4HEarBfT8PoqsCxesuf7d335lf1IZWahmi60DkAZoR4rTBbl2K8mpSKkmcay+JdIL//9u8LRPuiaeFO6otkHhDZmI0nhLh2QtZ+4occJzs4Zfrm0lArH1lw/VaM+a9tJWSwBcc9wsfAuha+RrwXOBMUpMyz04wivnSnAiRR+RFdPQ5CITVXqA=;dGp7PhBKhoYRpNJgZ76P4g=="

@@ -6,9 +6,9 @@ publishedDateTime: 2021-07-06T11:42:00Z
 originalUrl: "https://www.sixthtone.com/news/1007915/tencent-deploys-facial-recognition-to-detect-minors-gaming-at-night-"
 webUrl: "https://www.sixthtone.com/news/1007915/tencent-deploys-facial-recognition-to-detect-minors-gaming-at-night-"
 type: article
-quality: 39
-heat: -1
-published: false
+quality: 139
+heat: 209
+published: true
 
 provider:
   name: Sixth Tone
@@ -87,20 +87,6 @@ related:
         width: 1284
         height: 720
         isCached: true
-  - title: "Facial recognition: Tax pros mull returning to in-person meetings"
-    excerpt: "Absolutely — as people feel more comfortable, we anticipate having more live rather than virtual meetings and events,” said Daniel Morris, a CPA and senior partner with Morris+D’Angelo CPAs in San Jose,"
-    publishedDateTime: 2021-07-06T13:00:00Z
-    webUrl: "https://www.accountingtoday.com/news/facial-recognition-tax-pros-mull-returning-to-in-person-meetings"
-    type: article
-    provider:
-      name: Accounting Today
-      domain: accountingtoday.com
-    quality: 39
-    images:
-      - url: "https://arizent.brightspotcdn.com/b0/a1/9a53ebac4783bb22133d358a52d4/coronavirus-6-feet-sign.jpg"
-        width: 3998
-        height: 2667
-        isCached: true
   - title: "Tencent Launches Facial Recognition To Curb Late Night Gaming In Minors"
     excerpt: "Chinese gaming giant Tencent has introduced facial recognition tech intended to stop children playing games past 10pm in China."
     publishedDateTime: 2021-07-06T14:20:00Z
@@ -129,7 +115,21 @@ related:
         width: 1284
         height: 722
         isCached: true
+  - title: "Investors issue statement on human rights implications of facial recognition technologies & commitments to due diligence"
+    excerpt: "We are 50 global institutional investors and their representatives with $4.5 trillion in assets under management as of December, 2020. As responsible investors, we incorporate Environmental, Social and Governance (ESG) factors,"
+    publishedDateTime: 2021-07-04T08:19:00Z
+    webUrl: "https://www.business-humanrights.org/en/latest-news/investors-issue-statement-on-human-rights-implications-of-facial-recognition-technologies-commitments-to-due-diligence/"
+    type: article
+    provider:
+      name: 洗護用品和肥皂
+      domain: business-humanrights.org
+    quality: 14
+    images:
+      - url: "https://media.business-humanrights.org/media/images/united-nations-419885_1280.2e16d0ba.fill-788x488.jpg"
+        width: 788
+        height: 488
+        isCached: true
 
-secured: "mUI0DExEzdTrxq+RAn8V7w1GCWz6ib9h4Rx7cT2gSgU2S0pBYNVaHrAho93KS6YcFMuTEfL3fuSY7OBhGt0pA7z8kytQQGDnCe1UvARhc7ZzqWyBmne1KaGskadZ1E0JgkWO9hZp0puPPNd/qzlB2uTEUj+ne9zudVZh1vlKZEQq1LPwE2kyzFquEGo0Voinj7gEhJPr+ofZQvWL7lHv4hQQo1J96aVhKOZSVoPcffDtg/NZFtjj8d/reQVlQUxVqZ6vRAzA9KHchJc/3OHFPhxGSQeNwXsELXAUdk29mwBJsdYAOhlj6rZke5+lvcW8o8wikeOXKKWVrplLLMaEl9/W/15hJ95+WSvgkI42pnltfMFMJdsX5Kzgp0XNQRML+HlKhEx1LpN7Qh4WZifFk6bA8Clo/y6F9KRnbGCsEJRw31we8XEACPR68FEhrt7XE5TEGBxQX37ekHgBGgVmBMnQ1rlgB1yekCeXE+LcQDex/N3bLguLKEoF939X1X+QsHUufFlXg3J0Qw4VToY6wQ==;brW5Kr2HrkNnVm07lhonGQ=="
+secured: "GJnLHQps47LsMVKCS7HzzYAtlPSOPD9DQGPptK9/q/QGKHJNylJSEF6sieWydIG9TKj2++7N9TbDqu5Ls6rDPZek9v3uBrW2ppC3XExwZmkOpNU2MGB5bnHSoFXVIZIdYGpkspnP2GlDrUaFPnt5OqIgT8BuMWPbjWq9Az0Uj+3kYwnRYZi1U7hIhd8sZqDojlUBYOKqBWKZd6rz8W0YtC5OW/4g6tdc6I6YO6YVLulkkg0iNxA9QKs/n5NGvCdjW61TMeZisRECjP0hkzo3X6MlA/A658x89/xKoommix+koVGq1CwVfOk77bQHKFRSBbTNcwaCdF7TzxLP6XXGlJaPn3JrBvs4Aw66o4UYXIAcSd3G60FH7WRzYsYcWqlfXZx15czDzuytRneaMW13bMYnIr+JweOo0ydtK7xKlAlslufpgwJ7j1ZpDlYRtnp5uvBxk9OoJ1uvIgDbAmjkzyHRcpsRmcze+rBdiwfP9mP6mAuCxJ7ynl26Zl4X/s/oZaQbCfNu6S6PBZDdVq97p5XLxHqjqQ1rVwoBE/9px/s=;fuBKwlKsWdQ90M3PUigQig=="
 ---
 

@@ -21,6 +21,22 @@ topics:
   - AI
 
 related:
+  - title: "Three Experts Offer Fintech App Marketing Tips You Can Bank On"
+    excerpt: "Fintech and finance apps are booming, but turning installs into loyal users requires new metrics and approaches. Three expert marketers share invaluable lessons and learnings to rocket campaign results."
+    publishedDateTime: 2021-07-07T12:07:00Z
+    webUrl: "https://www.forbes.com/sites/peggyannesalz/2021/07/07/three-experts-offer-fintech-app-marketing-tips-you-can-bank-on/"
+    ampWebUrl: "https://www.forbes.com/sites/peggyannesalz/2021/07/07/three-experts-offer-fintech-app-marketing-tips-you-can-bank-on/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/peggyannesalz/2021/07/07/three-experts-offer-fintech-app-marketing-tips-you-can-bank-on/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 106
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60e59491966c5c37559bebbe%2F0x0.jpg%3FcropX1%3D1966%26cropX2%3D8040%26cropY1%3D0%26cropY2%3D3227"
+        width: 1200
+        height: 638
+        isCached: true
   - title: "Student finance fintech raises £1.1m in funding"
     excerpt: "StepEx has raised £1.1 million in pre-initial funding, with the venture studio BBVA Anthemis Venture Partnership being the lead investor."
     publishedDateTime: 2021-07-05T12:54:00Z
@@ -35,33 +51,6 @@ related:
         width: 512
         height: 512
         isCached: true
-  - title: "Finance Starts Having a Heart: How Fintech Fosters Financial Inclusion and the SDGs"
-    excerpt: "Finance acquires a heart. Fintech companies innovate financial services with empathy and sustainability in mind. Financial inclusion can become"
-    publishedDateTime: 2021-07-05T22:30:00Z
-    webUrl: "https://www.business2community.com/finance/finance-starts-having-a-heart-how-fintech-fosters-financial-inclusion-and-the-sdgs-02416807"
-    ampWebUrl: "https://www.business2community.com/finance/finance-starts-having-a-heart-how-fintech-fosters-financial-inclusion-and-the-sdgs-02416807/amp"
-    cdnAmpWebUrl: "https://www-business2community-com.cdn.ampproject.org/c/s/www.business2community.com/finance/finance-starts-having-a-heart-how-fintech-fosters-financial-inclusion-and-the-sdgs-02416807/amp"
-    type: article
-    provider:
-      name: Business 2 Community
-      domain: business2community.com
-    quality: 53
-    images:
-      - url: "https://cdn.business2community.com/wp-content/uploads/2021/06/heart-900x607.png"
-        width: 900
-        height: 607
-        isCached: true
-  - title: "SoFi Technologies vs. Upstart: Which Fintech Stock Is A More Compelling Buy?"
-    excerpt: "According to an IndustryArc report, the Fintech market is expected to grow at a compounded annual growth rate (CAGR) of 8.7% between 2021 to 2026, and is anticipated to be worth $161.2 billion by 2026."
-    publishedDateTime: 2021-07-06T12:37:00Z
-    webUrl: "https://www.nasdaq.com/articles/sofi-technologies-vs.-upstart%3A-which-fintech-stock-is-a-more-compelling-buy-2021-07-06"
-    ampWebUrl: "https://www.nasdaq.com/articles/sofi-technologies-vs.-upstart%3A-which-fintech-stock-is-a-more-compelling-buy-2021-07-06?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/sofi-technologies-vs.-upstart%3A-which-fintech-stock-is-a-more-compelling-buy-2021-07-06?amp"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 51
   - title: "New Fintech Startups to Watch In 2021"
     excerpt: "Consumers expect more than just a transaction with minimal interaction when engaging with their financial products."
     publishedDateTime: 2021-07-06T07:52:00Z
@@ -150,19 +139,19 @@ related:
         width: 2603
         height: 1338
         isCached: true
-  - title: "Fintech Acquires Cloud-Based Business Intelligence Provider STX Business Solutions"
-    excerpt: "Financial Information Technologies, LLC (\"Fintech\"), the leading business solutions provider for the beverage alcohol industry, today announced its acquisition of STX Business Solutions, a powerful web-based data management platform for the CPG"
-    publishedDateTime: 2021-07-06T18:41:00Z
-    webUrl: "https://www.lelezard.com/en/news-19889249.html"
+  - title: "Meet Hydrogen, the latest sibling-led API fintech"
+    excerpt: "Hydrogen is the brainchild of twin brothers Matt and Mike Kane. The New York natives' API-driven solution is one of the latest sibling-founded fintechs"
+    publishedDateTime: 2021-07-07T13:23:00Z
+    webUrl: "https://fintechmagazine.com/technology-and-ai/meet-hydrogen-latest-sibling-led-api-fintech"
     type: article
     provider:
-      name: Le Lézard
-      domain: lelezard.com
-    quality: 18
+      name: fintechmagazine
+      domain: fintechmagazine.com
+    quality: 24
     images:
-      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
-        width: 640
-        height: 480
+      - url: "https://fintechmagazine.com/sites/default/files/styles/ma/public/image/Matt_Mike_ftn_0.jpg?itok=NIb3KVB5"
+        width: 3024
+        height: 4032
         isCached: true
 
 secured: "fJbHZnsqy1fCPIdu8LQzf2spAaK9/R+SwD0EsaczSz3XXAKgNAgNjr1mMf9BBHSozEXJDWNKjhsR8/0qjJjT3oc9+3J5UGfobEO7z7bOFwhnwuaOOsM98XbpMXD9ugJRcUFVNSYaxD3m2X+kofMKish8Wqf5ZSzG0TUX4nqfy1yTjTLa0jakku43zXznxRaZnA3xL/Qqai1jatWCRhdV64YVblWfcyR1uMi3+KpbM9iw8GNEitsDQiIWjcyTlxi61yxTihQvhzvyuW+lkFXnsxEaTO+yeC8VrT/Km3mC8Jgg7daGsKw/O42YYseog7h80JmyOqXZ/NmcRch1dFuso8dkIKEx+Xc7rTeOK9gnmHYF3ZuqQPkUXz+vnnwri4EmTkAgAoK0aRwXlBfRVU4kKP3AP3qSQr+Z4LY7uhwjoe79Ct3+l/xbxOjUs3RIV/OlFbCB+L8iy+jo7QnYgJwI0sa8jG6ZOSaQ43v808VXYQDs3yVpk3j0mMqjXUESxtMwT4Gp8ZG2axCX2NummBp3JQ==;e8rJyin6UT8RrcsC+KexwA=="

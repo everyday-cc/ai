@@ -2,6 +2,422 @@
   "page": 34,
   "value": [
     {
+      "path": "_news/2021-06-10-waymo-and-jb-hunt-partner-to-bring-autonomous-trucks-to-texas-in-new-pilot.md",
+      "title": "Waymo and J.B. Hunt partner to bring autonomous trucks to Texas in new pilot",
+      "excerpt": "Waymo will be moving freight for a major customer of transportation logistics company J.B. Hunt Transport Services under what the two companies are calling a “test run” that will take place in one of the country’s busiest trade corridors.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/06/10/waymo-and-jb-hunt-partner-to-bring-autonomous-trucks-to-texas-in-new-pilot/",
+      "originalUrl": "https://techcrunch.com/2021/06/10/waymo-and-jb-hunt-partner-to-bring-autonomous-trucks-to-texas-in-new-pilot/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 266,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/06/waymo-via.png?w=1024",
+          "width": 1024,
+          "height": 512,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/06/10/waymo-and-jb-hunt-partner-to-bring-autonomous-trucks-to-texas-in-new-pilot/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/06/10/waymo-and-jb-hunt-partner-to-bring-autonomous-trucks-to-texas-in-new-pilot/amp/",
+      "publishedDateTime": "2021-06-10T07:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2021-06-10-researchers-win-44-million-in-grants-for-projects-using-ai-to-take-on-climate-change.md",
+      "title": "Researchers win $4.4 million in grants for projects using AI to take on climate change",
+      "excerpt": "The C3.ai Digital Transformation Institute announced on Thursday $4.4 million in awards to researchers using everything from offline reinforcement learning and large-scale simulations to soil samples and seaweed to find solutions to climate change.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/researchers-win-4-4-million-in-grants-for-projects-using-ai-to-solve-climate-change/",
+      "originalUrl": "https://www.techrepublic.com/article/researchers-win-4-4-million-in-grants-for-projects-using-ai-to-solve-climate-change/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 93,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techrepublic.com/a/hub/i/r/2021/02/23/0910be10-29c0-48e4-abbe-4937f7c93ed6/resize/1200x/603a31e7f68e468b2e6d5830fc2ac6d8/istock-1135081245.jpg",
+          "width": 1200,
+          "height": 854,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/researchers-win-4-4-million-in-grants-for-projects-using-ai-to-solve-climate-change/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/researchers-win-4-4-million-in-grants-for-projects-using-ai-to-solve-climate-change/",
+      "publishedDateTime": "2021-06-10T07:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2021-06-10-using-artificial-intelligence-to-personalize-therapy-and-individual-level-of-outcome-prediction.md",
+      "title": "Using Artificial Intelligence to Personalize Therapy and Individual Level of Outcome Prediction",
+      "excerpt": "The MSKCC model was reported on risk stratification of 670 patients treated there with interferon therapy. The IMDC model is based on data from a real-world patient population from multiple ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.medpagetoday.com/reading-room/asco/immunotherapy/93023",
+      "originalUrl": "https://www.medpagetoday.com/reading-room/asco/immunotherapy/93023",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-10T07:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MedPage Today",
+        "domain": "medpagetoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-10-self-driving-technology-company-argo-ai-plans-ipo-within-a-year.md",
+      "title": "Self-driving technology company Argo AI plans IPO within a year",
+      "excerpt": "Shares in Argo AI, which is backed by Ford and Volkswagen Group, could be listed on a stock exchange before 2022 is out.",
+      "sourceUrl": null,
+      "webUrl": "https://www.motorauthority.com/news/1132546_self-driving-technology-argo-ai-ipo",
+      "originalUrl": "https://www.motorauthority.com/news/1132546_self-driving-technology-argo-ai-ipo",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 159,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.hgmsites.net/hug/argo-ai-self-driving-car-prototype_100777433_h.jpg",
+          "width": 1920,
+          "height": 1112,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-10T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Motor Authority",
+        "domain": "motorauthority.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-10-the-reality-of-artificial-intelligence.md",
+      "title": "The Reality Of Artificial Intelligence",
+      "excerpt": "Fundamentally, it is the science that enables machines to translate, execute and investigate ... and understand data by mimicking human natural language. Of course, there are technologies that enable AI. We live in the era of the internet of things ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.commercialintegrator.com/business_resources/artificial-intelligence-reality/",
+      "originalUrl": "https://www.commercialintegrator.com/business_resources/artificial-intelligence-reality/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.commercialintegrator.com/wp-content/uploads/2021/06/AI.jpeg",
+          "width": 1000,
+          "height": 532,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-10T06:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Commercial Integrator",
+        "domain": "commercialintegrator.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-10-ai-startup-eightfold-ai-valued-at-21-bn-in-softbank-led-220-mn-funding.md",
+      "title": "AI Startup Eightfold AI Valued At $2.1 Bn In SoftBank-led $220 Mn Funding",
+      "excerpt": "The funds will be used to continue the rapid growth and development of Eightfold's AI-powered talent intelligence platform and expand its growing partner ecosystem",
+      "sourceUrl": null,
+      "webUrl": "https://www.entrepreneur.com/article/374220",
+      "originalUrl": "https://www.entrepreneur.com/article/374220",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/1623331509-michael-dziedzic-XTblNijO9IE-unsplash.jpg?width=600&crop=16:9",
+          "width": 600,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.entrepreneur.com/amphtml/374220",
+      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/374220",
+      "publishedDateTime": "2021-06-10T06:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-10-cvpr-2021-to-unveil-latest-research-on-global-ai-machine-learning-and-computer-vision-during-virtual-event.md",
+      "title": "CVPR 2021 to Unveil Latest Research on Global AI, Machine Learning, and Computer Vision During Virtual Event",
+      "excerpt": "The Computer Vision and Pattern Recognition (CVPR) conference—the largest event exploring artificial intelligence, machine learning, and computer vision research and applications—will take place 19-25 June 2021 as an all-virtual event.",
+      "sourceUrl": null,
+      "webUrl": "https://www.morningstar.com/news/pr-newswire/20210610dc06703/cvpr-2021-to-unveil-latest-research-on-global-ai-machine-learning-and-computer-vision-during-virtual-event",
+      "originalUrl": "https://www.morningstar.com/news/pr-newswire/20210610dc06703/cvpr-2021-to-unveil-latest-research-on-global-ai-machine-learning-and-computer-vision-during-virtual-event",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1530205/CVPR_2021.jpg",
+          "width": 400,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-10T06:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Morningstar, Inc.",
+        "domain": "morningstar.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-06-10-enterprise-machine-learning-guide.md",
+      "title": "Enterprise Machine Learning Guide",
+      "excerpt": "AWS has the broadest and deepest set of machine learning (ML) and AI services, and is focused on ... handling customer feedback to more advanced financial forecasting: the advantages will be ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cio.com/resources/219987/enterprise-machine-learning-guide",
+      "originalUrl": "https://www.cio.com/resources/219987/enterprise-machine-learning-guide",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://idge.staticworld.net/cio/CIO_logo_300x300.png",
+          "width": 300,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-10T06:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CIO",
+        "domain": "cio.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-06-10-fintech-giant-klarna-raises-639m-at-a-456b-valuation-amid-massive-momentum-in-the-us.md",
+      "title": "Fintech giant Klarna raises $639M at a $45.6B valuation amid ‘massive momentum’ in the US",
+      "excerpt": "Just over three months after its last funding round, European fintech giant Klarna is announcing today that it has raised another $639 million at a staggering post-money valuation of $45.6 billion. Rumors swirled in recent weeks that Klarna had raised more money at a valuation north of $40 billion.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/06/10/fintech-giant-klarna-raises-639m-at-a-45-6b-valuation/",
+      "originalUrl": "https://techcrunch.com/2021/06/10/fintech-giant-klarna-raises-639m-at-a-45-6b-valuation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2019/12/Sebastian-Siemiatkowski-Klarna-DSC09671.jpg?w=1024",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/06/10/fintech-giant-klarna-raises-639m-at-a-45-6b-valuation/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/06/10/fintech-giant-klarna-raises-639m-at-a-45-6b-valuation/amp/",
+      "publishedDateTime": "2021-06-10T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-10-the-journey-from-smart-buildings-to-cognitive-cities.md",
       "title": "The Journey From Smart Buildings To Cognitive Cities",
       "excerpt": "The digital evolution of cities has resulted in cities becoming increasingly competitive, sustainable and prosperous.",
@@ -750,421 +1166,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-10-computer-vision-market-2021-corporate-strategy-analysis-competitive-landscape-definition-future-development-status-with-top-20-countries.md",
-      "title": "Computer Vision Market 2021 : Corporate Strategy Analysis, Competitive Landscape, Definition, Future Development Status with Top 20 Countries Data",
-      "excerpt": "Short Description About Computer Vision Market : Computer vision is an interdisciplinary scientific field that deals",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/computer-vision-market-2021-corporate-strategy-analysis-competitive-landscape-definition-future-development-status-with-top-20-countries-data-2021-06-09",
-      "originalUrl": "https://www.marketwatch.com/press-release/computer-vision-market-2021-corporate-strategy-analysis-competitive-landscape-definition-future-development-status-with-top-20-countries-data-2021-06-09",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-09T19:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-10-how-could-we-know-when-a-robot-was-a-moral-patient.md",
-      "title": "How Could We Know When a Robot was a Moral Patient?",
-      "excerpt": "Leverhulme Centre for the Future of Intelligence, University of Cambridge, Cambridge CB2 1SB, United Kingdom There is growing interest in machine ethics in the question of whether and under what circumstances an artificial intelligence would deserve moral ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cambridge.org/core/journals/cambridge-quarterly-of-healthcare-ethics/article/how-could-we-know-when-a-robot-was-a-moral-patient/83AB36D54C4F697C14D5FC6C970B6044",
-      "originalUrl": "https://www.cambridge.org/core/journals/cambridge-quarterly-of-healthcare-ethics/article/how-could-we-know-when-a-robot-was-a-moral-patient/83AB36D54C4F697C14D5FC6C970B6044",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-09T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Cambridge University Press",
-        "domain": "cambridge.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-10-daily-crunch-a-crowded-market-for-exits-and-acquisitions-forecasts-a-hot-ai-summer.md",
-      "title": "Daily Crunch: A crowded market for exits and acquisitions forecasts a hot AI summer",
-      "excerpt": "Hello friends and welcome to Daily Crunch, bringing you the most important startup, tech and venture capital news in a single package.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/06/09/daily-crunch-a-crowded-market-for-exits-and-acquisitions-forecasts-a-hot-ai-summer/",
-      "originalUrl": "https://techcrunch.com/2021/06/09/daily-crunch-a-crowded-market-for-exits-and-acquisitions-forecasts-a-hot-ai-summer/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/04/Generic-WP-Header.png?w=680",
-          "width": 680,
-          "height": 383,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/06/09/daily-crunch-a-crowded-market-for-exits-and-acquisitions-forecasts-a-hot-ai-summer/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/06/09/daily-crunch-a-crowded-market-for-exits-and-acquisitions-forecasts-a-hot-ai-summer/amp/",
-      "publishedDateTime": "2021-06-09T15:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-10-rws-announces-revival-of-language-weaver-brand.md",
-      "title": "RWS Announces Revival of Language Weaver Brand",
-      "excerpt": "CHALFONT SAINT PETER, England–(BUSINESS WIRE)–RWS, the world’s leading provider of technology-enabled language, content management, and intellectual property services, today announces the return of Language Weaver, a pioneering brand in automatic ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.01net.it/rws-announces-revival-of-language-weaver-brand/",
-      "originalUrl": "https://www.01net.it/rws-announces-revival-of-language-weaver-brand/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.01net.it/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png",
-          "width": 735,
-          "height": 552,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.01net.it/rws-announces-revival-of-language-weaver-brand/amp/",
-      "cdnAmpWebUrl": "https://www-01net-it.cdn.ampproject.org/c/s/www.01net.it/rws-announces-revival-of-language-weaver-brand/amp/",
-      "publishedDateTime": "2021-06-09T14:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "01Net",
-        "domain": "01net.it",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-09-develop-and-deploy-ml-models-using-amazon-sagemaker-data-wrangler-and-amazon-sagemaker-autopilot.md",
-      "title": "Develop and deploy ML models using Amazon SageMaker Data Wrangler and Amazon SageMaker Autopilot",
-      "excerpt": "Data generates new value to businesses through insights and building predictive models. However, although data is plentiful, available data scientists are far and few. Despite our attempts in recent years to produce data scientists from academia and elsewhere, we still see a huge shortage that will continue",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/develop-and-deploy-ml-models-without-writing-any-code-using-amazon-sagemaker/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/develop-and-deploy-ml-models-without-writing-any-code-using-amazon-sagemaker/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 103,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png",
-          "width": 768,
-          "height": 385,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-09T14:01:20-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-06-10-fpga-ip-accelerates-neural-network-computing-for-edge-and-embedded-ai-applications.md",
-      "title": "FPGA IP accelerates neural network computing for edge and embedded AI applications",
-      "excerpt": "Global Technology partners Xilinx, Avnet, Libertron and E-Elements to speed development of AI solutions across a range of industries and use cases",
-      "sourceUrl": null,
-      "webUrl": "https://www.ept.ca/2021/06/fpga-ip-accelerates-neural-network-computing-for-edge-and-embedded-ai-applications/",
-      "originalUrl": "https://www.ept.ca/2021/06/fpga-ip-accelerates-neural-network-computing-for-edge-and-embedded-ai-applications/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ept.ca/wp-content/uploads/2020/06/EPT_JUNEJULY2021_COV_SVA-ml-300x400.jpg",
-          "width": 300,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-09T13:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "EPT",
-        "domain": "www.ept.ca",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-06-10-machine-learning-speeds-up-simulations-in-material-science.md",
-      "title": "Machine learning speeds up simulations in material science",
-      "excerpt": "Research, development, and production of novel materials depend heavily on the availability of fast and at the same time accurate simulation methods. Machine learning, in which artificial intelligence autonomously acquires and applies new knowledge,",
-      "sourceUrl": null,
-      "webUrl": "https://www.sciencedaily.com/releases/2021/06/210609105851.htm",
-      "originalUrl": "https://www.sciencedaily.com/releases/2021/06/210609105851.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-09T13:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Science Daily",
-        "domain": "sciencedaily.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-10-mit-ibm-watson-ai-lab.md",
-      "title": "MIT-IBM Watson AI Lab",
-      "excerpt": "In two years, the MIT Quest for Intelligence has allowed hundreds of students to explore AI in its many applications. Brain and cognitive sciences professor will lead the Institute’s interdisciplinary initiative to advance research in natural and ...",
-      "sourceUrl": null,
-      "webUrl": "https://news.mit.edu/topic/mit-ibm-watson-ai-lab",
-      "originalUrl": "https://news.mit.edu/topic/mit-ibm-watson-ai-lab",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-09T12:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "news",
-        "domain": "mit.edu",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/mit.edu-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-10-decades-old-ascii-adventure-nethack-may-hint-at-the-future-of-ai.md",
-      "title": "Decades-old ASCII adventure Nethack may hint at the future of AI",
-      "excerpt": "Machine learning models have already mastered Chess, Go, Atari games, and more, but in order for it to ascend to the next level, researchers at Facebook intend for AI to take on a different kind of game: the notoriously difficult and infinitely complex Nethack.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/06/09/decades-old-ascii-adventure-nethack-may-hint-at-the-future-of-ai/",
-      "originalUrl": "https://techcrunch.com/2021/06/09/decades-old-ascii-adventure-nethack-may-hint-at-the-future-of-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/06/nethack-gif.gif?w=770",
-          "width": 770,
-          "height": 434,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/06/09/decades-old-ascii-adventure-nethack-may-hint-at-the-future-of-ai/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/06/09/decades-old-ascii-adventure-nethack-may-hint-at-the-future-of-ai/amp/",
-      "publishedDateTime": "2021-06-09T12:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
         "AI"
       ]
     }
