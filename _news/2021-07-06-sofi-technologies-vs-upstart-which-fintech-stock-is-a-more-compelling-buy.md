@@ -21,17 +21,6 @@ topics:
   - AI
 
 related:
-  - title: "4 Top Fintech Stocks To Watch In July 2021"
-    excerpt: "Do You Have These The Fintech Stocks On Your July Watchlist? Fintech stocks have been some of the most popular stocks in the stock market today. Fintech is growing and the growth"
-    publishedDateTime: 2021-07-02T11:57:00Z
-    webUrl: "https://www.nasdaq.com/articles/4-top-fintech-stocks-to-watch-in-july-2021-2021-07-02"
-    ampWebUrl: "https://www.nasdaq.com/articles/4-top-fintech-stocks-to-watch-in-july-2021-2021-07-02?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/4-top-fintech-stocks-to-watch-in-july-2021-2021-07-02?amp"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 54
   - title: "Student finance fintech raises £1.1m in funding"
     excerpt: "StepEx has raised £1.1 million in pre-initial funding, with the venture studio BBVA Anthemis Venture Partnership being the lead investor."
     publishedDateTime: 2021-07-05T12:54:00Z
@@ -46,6 +35,22 @@ related:
         width: 512
         height: 512
         isCached: true
+  - title: "Finance Starts Having a Heart: How Fintech Fosters Financial Inclusion and the SDGs"
+    excerpt: "Finance acquires a heart. Fintech companies innovate financial services with empathy and sustainability in mind. Financial inclusion can become"
+    publishedDateTime: 2021-07-05T22:30:00Z
+    webUrl: "https://www.business2community.com/finance/finance-starts-having-a-heart-how-fintech-fosters-financial-inclusion-and-the-sdgs-02416807"
+    ampWebUrl: "https://www.business2community.com/finance/finance-starts-having-a-heart-how-fintech-fosters-financial-inclusion-and-the-sdgs-02416807/amp"
+    cdnAmpWebUrl: "https://www-business2community-com.cdn.ampproject.org/c/s/www.business2community.com/finance/finance-starts-having-a-heart-how-fintech-fosters-financial-inclusion-and-the-sdgs-02416807/amp"
+    type: article
+    provider:
+      name: Business 2 Community
+      domain: business2community.com
+    quality: 53
+    images:
+      - url: "https://cdn.business2community.com/wp-content/uploads/2021/06/heart-900x607.png"
+        width: 900
+        height: 607
+        isCached: true
   - title: "New Fintech Startups to Watch In 2021"
     excerpt: "Consumers expect more than just a transaction with minimal interaction when engaging with their financial products."
     publishedDateTime: 2021-07-06T07:52:00Z
@@ -59,6 +64,22 @@ related:
     quality: 44
     images:
       - url: "https://www.financemagnates.com/wp-content/uploads/2021/07/fintech-header.jpg"
+        width: 880
+        height: 400
+        isCached: true
+  - title: "Fintech for a Better Future: 5 Trends that Are Improving Financial Service"
+    excerpt: "For many people, financial technology is somewhat incidental. It’s a passing part of daily life: we interact with fintech when we send money online, check our bank balances with our mobile phones, or use an app to buy cryptocurrency."
+    publishedDateTime: 2021-07-06T09:54:00Z
+    webUrl: "https://www.financemagnates.com/cryptocurrency/news/fintech-for-a-better-future-5-trends-that-are-improving-financial-service/"
+    ampWebUrl: "https://www.financemagnates.com/cryptocurrency/news/fintech-for-a-better-future-5-trends-that-are-improving-financial-service/amp/"
+    cdnAmpWebUrl: "https://www-financemagnates-com.cdn.ampproject.org/c/s/www.financemagnates.com/cryptocurrency/news/fintech-for-a-better-future-5-trends-that-are-improving-financial-service/amp/"
+    type: article
+    provider:
+      name: Finance Magnates
+      domain: financemagnates.com
+    quality: 42
+    images:
+      - url: "https://www.financemagnates.com/wp-content/uploads/2020/02/fintech-industry.jpg"
         width: 880
         height: 400
         isCached: true
@@ -157,20 +178,6 @@ related:
       name: Crowdfund Insider
       domain: crowdfundinsider.com
     quality: 23
-  - title: "4 Innovative Start-Ups To Watch In 2021"
-    excerpt: "We’ve compiled a list of four innovative start-ups to keep an eye on in 2021. These companies are creating new and exciting technologies"
-    publishedDateTime: 2021-07-06T14:07:00Z
-    webUrl: "https://www.valuewalk.com/4-innovative-start-ups-watch-2021/"
-    type: article
-    provider:
-      name: ValueWalk
-      domain: valuewalk.com
-    quality: 22
-    images:
-      - url: "https://www.valuewalk.com/wp-content/uploads/2021/07/lightbulb_1625579840.jpg"
-        width: 1280
-        height: 847
-        isCached: true
   - title: "Fintech Acquires Cloud-Based Business Intelligence Provider STX Business Solutions"
     excerpt: "Financial Information Technologies, LLC (\"Fintech\"), the leading business solutions provider for the beverage alcohol industry, today announced its acquisition of STX Business Solutions, a powerful web-based data management platform for the CPG"
     publishedDateTime: 2021-07-06T18:41:00Z

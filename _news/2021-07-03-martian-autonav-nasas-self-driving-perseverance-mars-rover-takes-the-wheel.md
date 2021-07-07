@@ -43,22 +43,6 @@ related:
         width: 715
         height: 402
         isCached: true
-  - title: "NASA's self-driving Perseverance Mars rover 'takes the wheel'"
-    excerpt: "NASA's newest six-wheeled robot on Mars, the Perseverance rover, is beginning an epic journey across a crater floor seeking signs of ancient life. That means the rover team is deeply engaged with planning navigation routes,"
-    publishedDateTime: 2021-07-02T12:51:00Z
-    webUrl: "https://phys.org/news/2021-07-nasa-self-driving-perseverance-mars-rover.html"
-    ampWebUrl: "https://phys.org/news/2021-07-nasa-self-driving-perseverance-mars-rover.amp"
-    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-07-nasa-self-driving-perseverance-mars-rover.amp"
-    type: article
-    provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 44
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/nasas-self-driving-per.jpg"
-        width: 2880
-        height: 1928
-        isCached: true
   - title: "NASA’s Perseverance Rover Is Self-Driving On Mars With Enhanced Auto-Navigation System"
     excerpt: "NASA’s Perseverance rover is exploring the red planet with a new auto-navigation system that lets it drive by itself."
     publishedDateTime: 2021-07-05T08:36:00Z

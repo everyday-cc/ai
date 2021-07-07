@@ -2,6 +2,49 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-06-02-alphabet-inc-goog-presents-at-deutsche-bank-global-financial-services-conference-transcript.md",
+      "title": "Alphabet Inc. (GOOG) Presents at Deutsche Bank Global Financial Services Conference (Transcript)",
+      "excerpt": "And we have also been testing Google's AI and machine learning capabilities ... this reflects my core belief that the future of financial services will not be based on let's say integrated ...",
+      "sourceUrl": null,
+      "webUrl": "https://seekingalpha.com/article/4432460-alphabet-inc-goog-presents-deutsche-bank-global-financial-services-conference-transcript",
+      "originalUrl": "https://seekingalpha.com/article/4432460-alphabet-inc-goog-presents-deutsche-bank-global-financial-services-conference-transcript",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
+          "width": 1200,
+          "height": 1200,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://seekingalpha.com/amp/article/4432460-alphabet-inc-goog-presents-deutsche-bank-global-financial-services-conference-transcript",
+      "cdnAmpWebUrl": "https://seekingalpha-com.cdn.ampproject.org/c/s/seekingalpha.com/amp/article/4432460-alphabet-inc-goog-presents-deutsche-bank-global-financial-services-conference-transcript",
+      "publishedDateTime": "2021-06-01T12:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Seeking Alpha",
+        "domain": "seekingalpha.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-02-can-finance-companies-trust-ai-interview-with-sravan-kasarla-cdo-thrivent.md",
       "title": "Can Finance Companies Trust AI? Interview With Sravan Kasarla, CDO, Thrivent",
       "excerpt": "Understanding business success is not simply about transactions or policies, but about establishing and strengthening long term relationships with the customers. Can finance companies trust AI to help manage customer relationships and enhance trust?",
@@ -1256,49 +1299,6 @@
       "provider": {
         "name": "Digital Journal",
         "domain": "digitaljournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-15-how-fintech-offerings-can-become-the-backbone-of-indias-banking-sector-in-at-least-5-years.md",
-      "title": "How fintech offerings can become the backbone of India’s banking sector in at least 5 years",
-      "excerpt": "Fintech players have developed advanced analytics systems, powered by AI , that process multiple data points to assess the creditworthiness of the borrower. The traditional method of assessment ...",
-      "sourceUrl": null,
-      "webUrl": "https://yourstory.com/2021/04/fintech-offerings-backbone-india-banking-sector/amp",
-      "originalUrl": "https://yourstory.com/2021/04/fintech-offerings-backbone-india-banking-sector/amp",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.yourstory.com/cs/2/f02aced0d86311e98e0865c1f0fe59a2/fintech-1615473734377-1617021295429-1619116128157.png ",
-          "width": 800,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://yourstory.com/2021/04/fintech-offerings-backbone-india-banking-sector/amp",
-      "cdnAmpWebUrl": "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2021/04/fintech-offerings-backbone-india-banking-sector/amp",
-      "publishedDateTime": "2021-05-14T13:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Your Story",
-        "domain": "yourstory.com",
         "images": null,
         "publishers": null,
         "authors": null

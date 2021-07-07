@@ -28,24 +28,6 @@ images:
     height: 800
     isCached: true
 
-related:
-  - title: "viisights to present educational session on innovative behavioural analytics at ISC West"
-    excerpt: "Inc., developer of behavioural recognition systems for real-time video intelligence, will be attending ISC West in Las Vegas, July 19-21, 2021, representing its innovative"
-    publishedDateTime: 2021-07-02T11:24:00Z
-    webUrl: "https://www.sourcesecurity.com/news/viisights-present-educational-session-innovative-behavioural-co-1565673901-ga.1625217154.html"
-    ampWebUrl: "https://www.sourcesecurity.com/amp/news/viisights-present-educational-session-innovative-behavioural-co-1565673901-ga.1625217154.html"
-    cdnAmpWebUrl: "https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/news/viisights-present-educational-session-innovative-behavioural-co-1565673901-ga.1625217154.html"
-    type: article
-    provider:
-      name: SourceSecurity
-      domain: sourcesecurity.com
-    quality: 35
-    images:
-      - url: "https://www.sourcesecurity.com/img/news/612/visights-person-monitoring-fire-detection-920x533.jpg"
-        width: 612
-        height: 355
-        isCached: true
-
 secured: "g8BacHCf9+ODNSq9diD3QXQQF4d8tFYpqK2xh4UTWNNckJzntBasPiL7bajFur5nt0cJM7xqMjauCQHEHq0GhRkiFGTVKJ2J8JtYjkNn4qtbS+D2xBwUtcb6TecqCJlj2pvx24z/KpEw33M9ePZdkv6IlEnl5hVFtYUV4z3hQRiZIu9m4MtCa9shI6yugy84KxKCDSB6qdmxq6VzhZyELo3F4ANrcH65Qi9LlxIWNM3Yh6zJBKpQLBIwrtxCOgare9QBsLeUOjthak/b8NyFQqCtDcFuxfXvrg7zhS+xNdQH1JfbPtrvDqF4b3dM8iQYQ+sOaBcTkXzoaVaw2u1aCJqm3uJrDIP+bbJ6654OGK0=;teEw+QE3xYOUvRq84XfWvg=="
 ---
 

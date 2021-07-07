@@ -3,10 +3,10 @@ category: news
 title: "Graphcore brings new competition to Nvidia in latest MLPerf AI benchmarks"
 excerpt: "Graphcore’s score in BERT natural language training was the best score of any of the two-socket AMD systems submitted."
 publishedDateTime: 2021-06-30T10:00:00Z
-originalUrl: "https://www.zdnet.com/index.php/article/graphcore-brings-new-competition-to-nvidia-in-latest-mlperf-ai-benchmarks/"
-webUrl: "https://www.zdnet.com/index.php/article/graphcore-brings-new-competition-to-nvidia-in-latest-mlperf-ai-benchmarks/"
-ampWebUrl: "https://www.zdnet.com/index.php/google-amp/article/graphcore-brings-new-competition-to-nvidia-in-latest-mlperf-ai-benchmarks/"
-cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/google-amp/article/graphcore-brings-new-competition-to-nvidia-in-latest-mlperf-ai-benchmarks/"
+originalUrl: "https://www.zdnet.com/article/graphcore-brings-new-competition-to-nvidia-in-latest-mlperf-ai-benchmarks/"
+webUrl: "https://www.zdnet.com/article/graphcore-brings-new-competition-to-nvidia-in-latest-mlperf-ai-benchmarks/"
+ampWebUrl: "https://www.zdnet.com/google-amp/article/graphcore-brings-new-competition-to-nvidia-in-latest-mlperf-ai-benchmarks/"
+cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/graphcore-brings-new-competition-to-nvidia-in-latest-mlperf-ai-benchmarks/"
 type: article
 
 provider:
@@ -27,6 +27,6 @@ images:
     height: 1069
     isCached: true
 
-secured: "AUuIyIup8iohz7q8ZG/frEAYbWUplDacferYIvii/ZTI997blscbttH+Tk/ArKwt3R4cCqkIj5b1MlznEb+kcPosm5MNz6r5D/5jq8pMcXM26/zeB/Qa9V/2PI/nzUlmTCiZ/T1P7k2N6HQJejGJLlryND+4cPh/9ovB9l0kz/pgTUNSLq+7DFNFmRMzyyccCvxVuFUzrCaWzZatqWhAiQI8dfdu16agb5NBWkz+/gL2s0VLiskk1QRaRvF66KkTqh7tb/W1MnxStzpVsNhXRJy7zGNNzDRsxJtPrOlBPHO6Ma94FhpEUZfnMTNBMRU5YeIGGr4qUp57jqR32rlh8llMtxA5ep7IZutatrDU4v4=;w0TzswULZT+LWjaMBlTIEQ=="
+secured: "/Lv6jOJSsF2O1EdRF10Rsy6T4Gjn5+0p0QyDC67JXAR4ZYiYGfM+SnN8d/MYSY914Uh+7UEei3vVWiHkZPJ603q/n5wS8IWbBnetZbaeHzg5uBIWXVcjrLo8oL8tt9EGgWo3Grs6jQXaksN/fmfm26Ri+SOlG8c8BL8GVYL5Xs+LA4zvCqaW3mh6vLzDUKioO2+ZMfYRzfRcgkniQP+vYPMw1lGWS1OWHtW0qT9Cg6ydaXCYS0XSd/yo/P8mAxwsyrRr+i3UuFKf5SzzSpP3BscqtMuAiHz7QGUCrx4+f35uOKBeKph5/bOXUgbpOBzpzxvA5VAVrKFCWGXg1YUmHu57RAtUkdlYh8W/GyABVok=;bLE5uWGQ0OrU+wgflUyeVQ=="
 ---
 

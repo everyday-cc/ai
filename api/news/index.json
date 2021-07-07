@@ -779,48 +779,6 @@
       ]
     },
     {
-      "path": "_news/2021-07-06-israel-uses-ai-guided-drone-swarm-to-target-hamas-militants-in-gaza.md",
-      "title": "Israel uses AI-guided drone swarm to target Hamas militants in Gaza",
-      "excerpt": "Israel has utilised an AI-guided drone swarm to carry out attacks on Hamas militants in what is believed to be a world-first use of the technology. An Israeli Defence Force (IDF) support unit deployed the swarm to locate and target Hamas militants who had ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.dailymail.co.uk/news/article-9760339/Israel-uses-AI-guided-drone-swarm-target-Hamas-militants-Gaza.html",
-      "originalUrl": "https://www.dailymail.co.uk/news/article-9760339/Israel-uses-AI-guided-drone-swarm-target-Hamas-militants-Gaza.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.dailymail.co.uk/1s/2021/07/06/11/45095431-0-image-a-29_1625568617206.jpg",
-          "width": 636,
-          "height": 382,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.dailymail.co.uk/news/article-9760339/amp/Israel-uses-AI-guided-drone-swarm-target-Hamas-militants-Gaza.html",
-      "cdnAmpWebUrl": "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/news/article-9760339/amp/Israel-uses-AI-guided-drone-swarm-target-Hamas-militants-Gaza.html",
-      "publishedDateTime": "2021-07-06T04:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Daily Mail",
-        "domain": "dailymail.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-07-06-baltimore-is-the-latest-us-city-to-target-facial-recognition-technology.md",
       "title": "Baltimore is the latest U.S. city to target facial recognition technology",
       "excerpt": "The city of Baltimore has banned the use of facial recognition systems by residents, businesses and the city government (except for police). The criminalisation in a major U.S. city of an",
@@ -1197,6 +1155,49 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-06-aiims-raipur-organizes-seminar-on-artificial-intelligence-in-healthcare.md",
+      "title": "AIIMS Raipur organizes seminar on Artificial Intelligence in healthcare",
+      "excerpt": "Professor Nitin M Nagarkar, AIIMS Raipur director, termed Artificial Intelligence (AI) as a transformative technology for medical professionals, as well as a collaborative area for IT and",
+      "sourceUrl": null,
+      "webUrl": "https://medicaldialogues.in/news/health/hospital-diagnostics/aiims-raipur-organizes-seminar-on-artificial-intelligence-in-healthcare-79439",
+      "originalUrl": "https://medicaldialogues.in/news/health/hospital-diagnostics/aiims-raipur-organizes-seminar-on-artificial-intelligence-in-healthcare-79439",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://medicaldialogues.in/h-upload/2020/12/02/143273-124747-aiims-raipur.jpg",
+          "width": 1500,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://medicaldialogues.in/amp/news/health/hospital-diagnostics/aiims-raipur-organizes-seminar-on-artificial-intelligence-in-healthcare-79439",
+      "cdnAmpWebUrl": "https://medicaldialogues-in.cdn.ampproject.org/c/s/medicaldialogues.in/amp/news/health/hospital-diagnostics/aiims-raipur-organizes-seminar-on-artificial-intelligence-in-healthcare-79439",
+      "publishedDateTime": "2021-07-05T21:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Daily",
+        "domain": "medicaldialogues.in",
+        "images": null,
         "publishers": null,
         "authors": null
       },

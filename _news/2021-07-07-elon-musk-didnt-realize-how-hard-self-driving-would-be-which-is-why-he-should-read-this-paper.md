@@ -75,20 +75,6 @@ related:
         width: 708
         height: 454
         isCached: true
-  - title: "Watch This Tesla Owner's DIY Robo-Charger Stick Its Landing"
-    excerpt: "It's the kind of charging technology that Tesla CEO Elon Musk has teased before, but hasn't yet delivered. So let's take a look at Larson's charging setup to see what's going on under the hood. ➡️ You love badass cars."
-    publishedDateTime: 2021-07-02T13:00:00Z
-    webUrl: "https://www.popularmechanics.com/science/green-tech/a36731566/tesla-automatic-charger/"
-    type: article
-    provider:
-      name: Popular Mechanics
-      domain: popularmechanics.com
-    quality: 41
-    images:
-      - url: "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/still-jpg-738x478-1625175316.jpg?crop=1xw:0.7719665271966527xh;center,top&resize=1200:*"
-        width: 738
-        height: 369
-        isCached: true
   - title: "Elon Musk Admits That Full-Self Driving Is a Hard Problem To Solve"
     excerpt: "CEO Elon Musk admitted this weekend that creating a car that is truly self-driving is a “hard problem” to solve. Musk has been promising to release Full Self-Driving software upgrades for several years,"
     publishedDateTime: 2021-07-06T02:01:00Z

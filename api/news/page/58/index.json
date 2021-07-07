@@ -2,6 +2,49 @@
   "page": 58,
   "value": [
     {
+      "path": "_news/2021-05-25-baidu-beatdown-is-overdone-so-nows-the-time-to-jump-in.md",
+      "title": "Baidu Beatdown Is Overdone, So Now’s the Time to Jump In",
+      "excerpt": "It’s a sign that Baidu’s serious about self-driving tech – and the bears should reconsider their positions on BIDU stock. Apparently, investors just aren’t ready to give Baidu a break ...",
+      "sourceUrl": null,
+      "webUrl": "https://investorplace.com/2021/05/bidu-stock-beatdown-is-overdone-so-nows-the-time-to-jump-in/",
+      "originalUrl": "https://investorplace.com/2021/05/bidu-stock-beatdown-is-overdone-so-nows-the-time-to-jump-in/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://investorplace.com/wp-content/uploads/2019/08/bidu-stock.jpg",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://investorplace.com/2021/05/bidu-stock-beatdown-is-overdone-so-nows-the-time-to-jump-in/amp/",
+      "cdnAmpWebUrl": "https://investorplace-com.cdn.ampproject.org/c/s/investorplace.com/2021/05/bidu-stock-beatdown-is-overdone-so-nows-the-time-to-jump-in/amp/",
+      "publishedDateTime": "2021-05-24T11:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InvestorPlace",
+        "domain": "investorplace.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-25-firefliesai-puts-14m-into-its-ai-videoconferencing-assistant.md",
       "title": "Fireflies.ai puts $14M into its AI videoconferencing assistant",
       "excerpt": "Fireflies.ai, an AI-powered videoconference note-taking tool, has raised $14 million in a series A funding round.",
@@ -1125,58 +1168,6 @@
         "AI in Finance",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-05-24-google-ai-unit-deepmind-tried-and-failed-to-gain-more-autonomy.md",
-      "title": "Google AI Unit DeepMind Tried and Failed to Gain More Autonomy",
-      "excerpt": "Google AI Unit DeepMind Tried and Failed to Gain More Autonomy For years, senior managers at Google's DeepMind artificial-intelligence unit sought to negotiate more independence from the parent ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/podcasts/tech-news-briefing/google-ai-unit-deepmind-tried-and-failed-to-gain-more-autonomy/8238426b-fbc3-4cbb-89af-fb2ec3c6dc81?mod=error_page",
-      "originalUrl": "https://www.wsj.com/podcasts/tech-news-briefing/google-ai-unit-deepmind-tried-and-failed-to-gain-more-autonomy/8238426b-fbc3-4cbb-89af-fb2ec3c6dc81?mod=error_page",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-29358?width=400",
-          "width": 400,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-24T00:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
       ]
     }
   ],

@@ -55,6 +55,49 @@
       ]
     },
     {
+      "path": "_news/2021-07-05-student-finance-fintech-raises-11m-in-funding.md",
+      "title": "Student finance fintech raises £1.1m in funding",
+      "excerpt": "StepEx has raised £1.1 million in pre-initial funding, with the venture studio BBVA Anthemis Venture Partnership being the lead investor.",
+      "sourceUrl": null,
+      "webUrl": "https://www.finextra.com/pressarticle/88425/student-finance-fintech-raises-11m-in-funding",
+      "originalUrl": "https://www.finextra.com/pressarticle/88425/student-finance-fintech-raises-11m-in-funding",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 184,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.finextra.com/about/finextra-logo.png",
+          "width": 512,
+          "height": 512,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-05T05:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Finextra",
+        "domain": "finextra.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-02-4-top-fintech-stocks-to-watch-in-july-2021.md",
       "title": "4 Top Fintech Stocks To Watch In July 2021",
       "excerpt": "Do You Have These The Fintech Stocks On Your July Watchlist? Fintech stocks have been some of the most popular stocks in the stock market today. Fintech is growing and the growth",
@@ -1197,33 +1240,24 @@
     {
       "path": "_news/2021-06-17-fis-launches-first-in-a-new-series-of-ai-enabled-risk-solutions-with-c3-ai-for-financial-services-industry.md",
       "title": "FIS Launches First in a New Series of AI-Enabled Risk Solutions with C3 AI for Financial Services Industry",
-      "excerpt": "FIS AML Compliance Hub is the first in a new line of AI-based solutions from FIS for capital markets firms. New solution uses artificial technology to aggregate and analyze client data across financial crime detection systems such as know your customer (KYC) and anti-money laundering (AML) to improve outcomes.",
+      "excerpt": "The AML Compliance Hub leverages C3 AI’s advanced machine learning technology ... fast-moving challenges for the financial services sector, and the data necessary to identify financial crimes ...",
       "sourceUrl": null,
-      "webUrl": "https://financialit.net/news/artificial-intelligence/fis-launches-first-new-series-ai-enabled-risk-solutions-c3-ai-financial",
-      "originalUrl": "https://financialit.net/news/artificial-intelligence/fis-launches-first-new-series-ai-enabled-risk-solutions-c3-ai-financial",
+      "webUrl": "https://www.businesswire.com/news/home/20210617005027/en/FIS-Launches-First-in-a-New-Series-of-AI-Enabled-Risk-Solutions-with-C3-AI-for-Financial-Services-Industry",
+      "originalUrl": "https://www.businesswire.com/news/home/20210617005027/en/FIS-Launches-First-in-a-New-Series-of-AI-Enabled-Risk-Solutions-with-C3-AI-for-Financial-Services-Industry",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://financialit.net/sites/default/files/new_fis_logo_0.jpg",
-          "width": 1200,
-          "height": 627,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-17T02:41:00-07:00",
+      "publishedDateTime": "2021-06-17T05:20:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Financial IT",
-        "domain": "financialit.net",
+        "name": "Business Wire",
+        "domain": "businesswire.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1270,49 +1304,6 @@
         "AI in Finance",
         "AI",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2021-06-17-a-fintech-ipo-to-watch-and-a-very-complex-spac-deal.md",
-      "title": "A Fintech IPO to Watch and a Very Complex SPAC Deal",
-      "excerpt": "Financials, host Jason Moser and Fool.com contributor Matt Frankel, CFP, take a closer look at recent fintech IPO Flywire (NASDAQ:FLY",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2021/06/16/a-fintech-ipo-to-watch-and-a-very-complex-spac-dea/",
-      "originalUrl": "https://www.fool.com/investing/2021/06/16/a-fintech-ipo-to-watch-and-a-very-complex-spac-dea/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.fool.com/amp/investing/2021/06/16/a-fintech-ipo-to-watch-and-a-very-complex-spac-dea/",
-      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/06/16/a-fintech-ipo-to-watch-and-a-very-complex-spac-dea/",
-      "publishedDateTime": "2021-06-16T15:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
       ]
     }
   ],

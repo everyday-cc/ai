@@ -2,6 +2,59 @@
   "page": 62,
   "value": [
     {
+      "path": "_news/2021-05-21-facebook-ai-cuts-by-more-than-half-error-rate-of-unsupervised-speech-recognition.md",
+      "title": "Facebook AI cuts by more than half error rate of unsupervised speech recognition",
+      "excerpt": "The use of unlabeled data has big implications for work with languages that, in an AI context, are low-resource, such as Amharic, Swahili, Kyrgyz, and Tatar.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/facebook-ai-cuts-by-more-than-half-error-rate-of-unsupervised-speech-recognition/",
+      "originalUrl": "https://www.zdnet.com/article/facebook-ai-cuts-by-more-than-half-error-rate-of-unsupervised-speech-recognition/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/hub/i/2021/05/21/b61d7fe2-4923-41e5-b7af-bdabaf2ce107/facebook-ai-2021-wav2vec-u.jpg",
+          "width": 1494,
+          "height": 774,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/facebook-ai-cuts-by-more-than-half-error-rate-of-unsupervised-speech-recognition/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/facebook-ai-cuts-by-more-than-half-error-rate-of-unsupervised-speech-recognition/",
+      "publishedDateTime": "2021-05-20T23:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-21-transforming-retail-with-augmented-and-virtual-reality-powered-by-artificial-intelligence-the-case-of-eyewear-shopping.md",
       "title": "Transforming Retail With Augmented And Virtual Reality, Powered By Artificial Intelligence: The Case Of Eyewear Shopping",
       "excerpt": "Want a better way to get an eye exam and shop for the perfect pair of glasses? Thanks to augmented reality and virtual reality, the entire process of buying glasses is getting a much-needed makeover.",
@@ -1077,57 +1130,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-20-geospatial-startup-unfoldedai-acquired-by-foursquare.md",
-      "title": "Geospatial startup Unfolded.ai acquired by Foursquare",
-      "excerpt": "Well, that was fast. Just a few months after raising its seed round, Unfolded.ai announced today that it is being acquired by Foursquare. Terms of the deal were not disclosed. The startup had raised a total of about $6 million when we last checked in with them.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/05/20/geospatial-startup-unfolded-ai-acquired-by-foursquare/",
-      "originalUrl": "https://techcrunch.com/2021/05/20/geospatial-startup-unfolded-ai-acquired-by-foursquare/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/05/GaryLittle.jpg?w=600",
-          "width": 600,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/05/20/geospatial-startup-unfolded-ai-acquired-by-foursquare/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/05/20/geospatial-startup-unfolded-ai-acquired-by-foursquare/amp/",
-      "publishedDateTime": "2021-05-20T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

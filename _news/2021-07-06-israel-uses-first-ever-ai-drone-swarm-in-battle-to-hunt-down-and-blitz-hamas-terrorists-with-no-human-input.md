@@ -42,22 +42,6 @@ related:
         width: 636
         height: 382
         isCached: true
-  - title: "First \"AI War\": Israel Used World's First AI-Guided Swarm Of Combat Drones In Gaza Attacks"
-    excerpt: "In the ongoing conflict between Israel and the Occupied Palestinian Territory, the Israel Defense Forces (IDF) has deployed AI and supercomputers to identi"
-    publishedDateTime: 2021-07-02T11:26:00Z
-    webUrl: "https://www.iflscience.com/technology/first-ai-war-israel-used-worlds-first-aiguided-swarm-of-combat-drones-in-gaza-attacks/"
-    ampWebUrl: "https://amp.iflscience.com/technology/first-ai-war-israel-used-worlds-first-aiguided-swarm-of-combat-drones-in-gaza-attacks/"
-    cdnAmpWebUrl: "https://amp-iflscience-com.cdn.ampproject.org/c/s/amp.iflscience.com/technology/first-ai-war-israel-used-worlds-first-aiguided-swarm-of-combat-drones-in-gaza-attacks/"
-    type: article
-    provider:
-      name: IFLScience
-      domain: iflscience.com
-    quality: 47
-    images:
-      - url: "https://cdn.iflscience.com/images/5c5dcc51-a730-568a-82a3-86e1e72070cc/default-1625155113-cover-image.jpg"
-        width: 720
-        height: 405
-        isCached: true
 
 secured: "qBwHcdaQx+/A3jCd9AsZmgLZFhvX1DFvRWzaNNcq2zVBGjwhVlolq17Tdt5zXeHBFSM0+lbTo4GiHvSRdAiqGXfdmVijJUlrdPXUmLaVEEZD8VQ01ObOP3vDYnWVFz5SlIEw/+IpuQ3paG4BOCg93Hc0lIsozkiuk0aMxZeM0Offjh79sbx/6lapTtXr90E6h1W0xN1IcY2cyShoW41bhm67lJrSkcPq/WD1pFNm6csN9HcO4GPXRT6GAIgmTKneQ/4U5zuecSXAaeJuqMhxfWBh2qYcsT6XGKRgZtJDKQS3c8bZYkAzVGOvJ0FczsL4o2IqUD7TLrySSvZzot8/WwFIbvbRPAV4V7NxXeNb6mSv/pTH0UJbUm6sjBYGvQ9lH5SMng1/bUjHp8Ejvs0tVUMeMxz/ZgIPYTm7CrO80X0RD57GQFRnTJgHZwYFS3lCAp0P9QV/fbewYL2hESJyNmBorWdkgVrrIWiRoPHl+i8iBpBCR38ZBplwP3HD6bHhOGOMY/cQ+WFa6915qABxvg==;I88i8QugmvIRWYBz9v2Zgg=="
 ---

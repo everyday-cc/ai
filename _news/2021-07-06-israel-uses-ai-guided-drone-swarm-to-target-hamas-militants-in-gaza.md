@@ -9,8 +9,8 @@ ampWebUrl: "https://www.dailymail.co.uk/news/article-9760339/amp/Israel-uses-AI-
 cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/news/article-9760339/amp/Israel-uses-AI-guided-drone-swarm-target-Hamas-militants-Gaza.html"
 type: article
 quality: 57
-heat: 77
-published: true
+heat: 67
+published: false
 
 provider:
   name: Daily Mail
@@ -26,22 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "First \"AI War\": Israel Used World's First AI-Guided Swarm Of Combat Drones In Gaza Attacks"
-    excerpt: "In the ongoing conflict between Israel and the Occupied Palestinian Territory, the Israel Defense Forces (IDF) has deployed AI and supercomputers to identi"
-    publishedDateTime: 2021-07-02T11:26:00Z
-    webUrl: "https://www.iflscience.com/technology/first-ai-war-israel-used-worlds-first-aiguided-swarm-of-combat-drones-in-gaza-attacks/"
-    ampWebUrl: "https://amp.iflscience.com/technology/first-ai-war-israel-used-worlds-first-aiguided-swarm-of-combat-drones-in-gaza-attacks/"
-    cdnAmpWebUrl: "https://amp-iflscience-com.cdn.ampproject.org/c/s/amp.iflscience.com/technology/first-ai-war-israel-used-worlds-first-aiguided-swarm-of-combat-drones-in-gaza-attacks/"
-    type: article
-    provider:
-      name: IFLScience
-      domain: iflscience.com
-    quality: 47
-    images:
-      - url: "https://cdn.iflscience.com/images/5c5dcc51-a730-568a-82a3-86e1e72070cc/default-1625155113-cover-image.jpg"
-        width: 720
-        height: 405
-        isCached: true
   - title: "Israel uses first-ever AI drone swarm in battle to hunt down and blitz Hamas terrorists with NO human input"
     excerpt: "ISRAEL used the first ever drone swarm deployed in battle to hunt down Hamas terrorists, it was reported. The drones have no human input but instead link together using artificial intelligence to"
     publishedDateTime: 2021-07-05T20:47:00Z
