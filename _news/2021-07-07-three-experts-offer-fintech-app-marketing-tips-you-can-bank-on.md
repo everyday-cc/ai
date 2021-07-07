@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/peggyannesalz/2021/07/07/three-experts-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/peggyannesalz/2021/07/07/three-experts-offer-fintech-app-marketing-tips-you-can-bank-on/amp/"
 type: article
 quality: 106
-heat: 206
+heat: 216
 published: true
 
 provider:
@@ -173,6 +173,15 @@ related:
       name: Crowdfund Insider
       domain: crowdfundinsider.com
     quality: 23
+  - title: "How to find funding in the fintech space and what the Government can do to support the UK’s position"
+    excerpt: "Over the last decade, the UK has been undergoing a fintech revolution seeing increased opportunities in global trade, jobs, and innovation to become the global hub that it is today. Yet for many, the image of fintech is stuck in Shoreditch,"
+    publishedDateTime: 2021-07-07T19:18:00Z
+    webUrl: "https://www.finextra.com/blogposting/20566/how-to-find-funding-in-the-fintech-space-and-what-the-government-can-do-to-support-the-uks-position"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 0
 
 secured: "t6sgsRvunM6jVRlJuJogq6JkGm9oj+Ofe4MX+Dl8mNE6s8oBERRkxeJ1vQmPEb/qjRJ/qqCfwS/UlTkwUQjOgjQvd62pxFXdPvz7epmZeWRsy4vsSsnZIFBjM2tILNtP/vOCNnhqG04m1Q3kQqB9eqHE9knk1ZO/T6W2KoUvDtWuYoTJK1/dApX2A8AdGiKil8J+L5cFiaiwk0o1wu42a7EmAkkgi7J+5yvGn5Ge3YI34AQGSOFP5JS8OooOt2sEMpqutyYGcVNYaOP/rTr/0gnHizKUNxXajcaQJZQjAAjfxiAbIRgvb5lJEHGCueTTTyxGfYLDxPeiMRVd0iyMslMqbxyw1qLO8VfIccOs66U=;mCDEuCyJqrYNtrf+AUj3NA=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techradar.com/nz/amp/news/xbox-series-x-games-might-look
 cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/nz/amp/news/xbox-series-x-games-might-look-even-better-soon-thanks-to-ai-upscaling"
 type: article
 quality: 89
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -29,6 +29,24 @@ images:
     width: 480
     height: 288
     isCached: true
+
+related:
+  - title: "Cheating In PS5 And Xbox Series X Games Might Get Worse, Thanks To This Machine-Learning Tool"
+    excerpt: "A new cheat engine that uses machine-learning can work on consoles, including Xbox Series X and PlayStation 5. The anti-cheat watch group ACPD posted its findings on the new tool on Twitter, explaining how it will be difficult for developers to detect."
+    publishedDateTime: 2021-07-07T19:07:00Z
+    webUrl: "https://www.gamespot.com/articles/cheating-in-ps5-and-xbox-series-x-games-might-get-worse-thanks-to-this-machine-learning-tool/1100-6493682/"
+    ampWebUrl: "https://www.gamespot.com/amp-articles/cheating-in-ps5-and-xbox-series-x-games-might-get-worse-thanks-to-this-machine-learning-tool/1100-6493682/"
+    cdnAmpWebUrl: "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/cheating-in-ps5-and-xbox-series-x-games-might-get-worse-thanks-to-this-machine-learning-tool/1100-6493682/"
+    type: article
+    provider:
+      name: GameSpot
+      domain: gamespot.com
+    quality: 33
+    images:
+      - url: "https://www.gamespot.com/a/uploads/original/1585/15853545/3852955-0795579771-call-.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "BX3iXRzK3nyc03/Z614jpECIu3s5T87TsCKSDoKyn4hHY5qR4EzVofa+fqM7eSTep7F4aUGJ/bKEAtx4Fnb3qIubMtyGBe3QIE4q/AVwQR7eximzIcQXskPJuY+5euj20IBRHZrXDEPecQa5IAFQUIk2UQ9GXpXBjK/yKmXlckeu4CpDpt3kSC3Ica9jWKvBWnO37YAkuVxu4U1CV2oeXwRiQULD4yPVpDEJXoSXkInzTUwDBBEET6I+a1H1vFfKxGHksNol2NanwkbnPVx9RqUmiG+J/5Z9E8K5UmGJAxjJoJbrhAolgoP/ODY5IDByAnOIKHwnFKMbhaGESLWjmvGKD4kyiS1r+YcEbHjngms=;Q7321V1CoI3SA6OoaRAFzw=="
 ---

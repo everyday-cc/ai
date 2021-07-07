@@ -43,6 +43,22 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "AnyVision Raises $235M for Access Point AI-Based Physical Security"
+    excerpt: "Access Point AI also helps with occupancy analytics ... software development kits and software onto edge-devices such as smart cameras, bodycams and chips, improving video analytics systems with respect to speed, security, affordability, flexibility ..."
+    publishedDateTime: 2021-07-07T17:53:00Z
+    webUrl: "https://www.pymnts.com/news/investment-tracker/2021/anyvision-raises-235m-for-access-point-ai-based-physical-security/"
+    ampWebUrl: "https://www.pymnts.com/news/investment-tracker/2021/anyvision-raises-235m-for-access-point-ai-based-physical-security/amp/"
+    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/investment-tracker/2021/anyvision-raises-235m-for-access-point-ai-based-physical-security/amp/"
+    type: article
+    provider:
+      name: pymnts.com
+      domain: pymnts.com
+    quality: 76
+    images:
+      - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/07/anyvision-biometrics-457x274.jpg"
+        width: 457
+        height: 274
+        isCached: true
   - title: "SoftBank Backs Facial-Recognition Startup Despite Privacy Concerns"
     excerpt: "SoftBank Group Corp. is leading an investment in AnyVision Interactive Technologies Ltd. that values the facial-recognition company at over $1 billion, according to a person familiar with the matter, underscoring its commitment to the technology despite ..."
     publishedDateTime: 2021-07-07T09:51:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://www.crn.com/news/cloud/pentagon-shelves-jedi-cloud-contrac
 webUrl: "https://www.crn.com/news/cloud/pentagon-shelves-jedi-cloud-contract-won-by-microsoft-and-appealed-by-aws"
 type: article
 quality: 55
-heat: 55
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,22 @@ images:
     width: 400
     height: 400
     isCached: true
+
+related:
+  - title: "Sorry, AWS and Azure: DoD Cancels JEDI Cloud Contract"
+    excerpt: "The Department of Defense (DoD) has canceled the $10 billion JEDI cloud contract. AWS and Microsoft Azure have been battling for the contract."
+    publishedDateTime: 2021-07-07T18:25:00Z
+    webUrl: "https://www.channelfutures.com/regulation-compliance/sorry-aws-and-azure-dod-cancels-jedi-cloud-contract"
+    type: article
+    provider:
+      name: channelfutures
+      domain: channelfutures.com
+    quality: 56
+    images:
+      - url: "https://www.channelfutures.com/files/2021/06/20-JEDI-Light-Sabers.jpg"
+        width: 1000
+        height: 750
+        isCached: true
 
 secured: "tDW07pM4wFhAxbBu+46ADB8l8HosrNkSXE2ojvktnT0L1gjEb8pWt5iA0qI+u8yIuRttWhz2LR+1ChfhZIVsd85CFcoAGUhE7IMq1drYXkxBW20eNU+EbO3JYIvkDq7UIS/cOIigJEcWK0aRTbANI0/aBhvH08F2aFRX9tQ1/FPNFYGJdnNKdr6Hkdj9O+gSOuMTuXAnC9xpTxYJ8jR+98p3Npi40Dv9e9LZVspBRO4tWnUrydtBXqq6vSOHY4bt+jzCR9sE9MkHIN5TAk6S2Y8SFrerfDgbxSJuzWUTgsNs+/s/sg9U3g2izpCpEst+RW2PXvAaR+yNFv36JehVR4SQONLkxkaRrHrvT/RKoFV8RCUHMHFDsXnzAUk0AeNGwL7ol32Os1NLHC+y7C/NV2nchjkAA8d4mdXFPJDDpACZeLwm+3o0LEDTiDS0axAvv8ILalZmy091MZF8Ca+oOKxOFRLmP91ZNzaRvXQebdTlF8tDe6euFxlMa4rlI1/ZjbKdxX06EF7FUW52c3LK0g==;7ao0owqHWnUUjoa/juvyvQ=="
 ---

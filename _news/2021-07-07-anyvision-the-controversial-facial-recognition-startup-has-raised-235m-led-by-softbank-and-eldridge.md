@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2021/07/07/anyvision-the-controversial-facial
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/07/07/anyvision-the-controversial-facial-recognition-startup-has-raised-235m-led-by-softbank-and-eldridge/amp/"
 type: article
 quality: 88
-heat: 128
+heat: 138
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "AnyVision Raises $235M for Access Point AI-Based Physical Security"
+    excerpt: "Access Point AI also helps with occupancy analytics ... software development kits and software onto edge-devices such as smart cameras, bodycams and chips, improving video analytics systems with respect to speed, security, affordability, flexibility ..."
+    publishedDateTime: 2021-07-07T17:53:00Z
+    webUrl: "https://www.pymnts.com/news/investment-tracker/2021/anyvision-raises-235m-for-access-point-ai-based-physical-security/"
+    ampWebUrl: "https://www.pymnts.com/news/investment-tracker/2021/anyvision-raises-235m-for-access-point-ai-based-physical-security/amp/"
+    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/investment-tracker/2021/anyvision-raises-235m-for-access-point-ai-based-physical-security/amp/"
+    type: article
+    provider:
+      name: pymnts.com
+      domain: pymnts.com
+    quality: 76
+    images:
+      - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/07/anyvision-biometrics-457x274.jpg"
+        width: 457
+        height: 274
+        isCached: true
   - title: "Facial recognition firm AnyVision raises $235 million from investors"
     excerpt: "Investors include SoftBank Vision Fund 2 and Eldridge; company says personal data will be protected by new data privacy measures"
     publishedDateTime: 2021-07-07T12:09:00Z

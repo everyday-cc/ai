@@ -35,6 +35,20 @@ related:
         width: 1440
         height: 922
         isCached: true
+  - title: "US says humans will always be in control of AI weapons. But the age of autonomous war is already here."
+    excerpt: "Facts on the ground show that technological advancements, coupled with complex conflicts like the Syrian and Libyan civil wars, have created a reality where weapons that make their own decisions are already killing people."
+    publishedDateTime: 2021-07-07T16:06:00Z
+    webUrl: "https://www.stripes.com/branches/2021-07-07/autonomous-war-ai-us-weapons-control-2078011.html"
+    type: article
+    provider:
+      name: Stars and Stripes
+      domain: stripes.com
+    quality: 21
+    images:
+      - url: "https://www.stripes.com/incoming/tqkdwh-Screen-Shot-2021-07-07-at-11.36.00-AM.png/alternates/LANDSCAPE_480/Screen%20Shot%202021-07-07%20at%2011.36.00%20AM.png"
+        width: 480
+        height: 299
+        isCached: true
 
 secured: "YUfhBU2abj7WrPaJCfTNkEdWlKvWx0eVZzHrqafjgXRReHW5zgwSIJPO82ug1vIOVy53sWI9swU/6dv0XXcRR8tVvh8ybdxaxvUpG6ytiGFZV2nmd8W2clwNFMRKFCOBFHsouNMh3giwKJ1MtHVs2xt9PK+LLp96CkoFdNr+y/XJVFEsWoz3p47WlI08lN4NYtjsevQXTFC7/xgv/lCwfEJVLlGz8W6SO7IXq+QxmItoPPFUqel6/J3hHJdbTWzUFF2/tniwB/drH0z/RkCsjo2g2n0aBUl2JpLFlemxVyc0qjpbRDm+fIh95fiJzjdGVKYIFVhfWTXqnopyvWv10LeMaorKBBIk+9WzQSJn4gdGrQazUTNF0fIqACdKg58yDykX0NS0Dn1xRtwWO/ATblJmTNoALMmC1ke2HhXkJBaNcTBlVOSxYUC51b1xdHcTWYQ9j8wlPncThM9tm6Q8q+Ib26dXhj7Lu9aPzT5JAIjDolnuLw43He/edgSDpBHA0BeeSZ068kD6/THJHGHH+w==;wT5oQayZ1HyqeSM1i2jiUg=="
 ---

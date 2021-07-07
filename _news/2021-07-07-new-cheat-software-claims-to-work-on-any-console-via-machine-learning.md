@@ -9,7 +9,7 @@ ampWebUrl: "https://www.videogameschronicle.com/news/new-cheat-software-claims-t
 cdnAmpWebUrl: "https://www-videogameschronicle-com.cdn.ampproject.org/c/s/www.videogameschronicle.com/news/new-cheat-software-claims-to-work-on-any-console-via-machine-learning/amp/"
 type: article
 quality: 74
-heat: 75
+heat: 74
 published: true
 
 provider:

@@ -41,6 +41,20 @@ related:
         width: 1920
         height: 1415
         isCached: true
+  - title: "Machine learning tool sorts the nuances of quantum data"
+    excerpt: "ITHACA, N.Y. - An interdisciplinary team of Cornell and Harvard University researchers developed a machine learning tool to parse quantum matter and make crucial distinctions in the data, an approach that will help scientists unravel the most confounding ..."
+    publishedDateTime: 2021-07-07T18:55:00Z
+    webUrl: "https://www.eurekalert.org/pub_releases/2021-07/cu-mlt070721.php"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 39
+    images:
+      - url: "https://www.eurekalert.org/socialshare/EurekAlert-bluebg_Twitter_1200x675.jpg"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "oyMxBEmmsNOd6T2dYgpwNNd+wWhqoEJAO6r/cDM5dHwrNEdYMvJqfVnIJvVzIp12BT2m6EnsjMIb54cYJhL5qCNREcaekctApqfe7wrQhmIXSukEJROI/uNEQ6gXX9fQrOn4KWIFtkyvMk3WMATZuPWM/axzQ5dNaikmjiW38j6MtCyqjUayPzR7+6XjHpwueH4sJS7iXUUfsTFsQt5KxW4KYhqgKkdjV5+lvoqapgNvOkjgzQcUKI9qsVP8yABMgiGBXnaxE4kHZWX5acDqnK7X7/DPAnldMVP01boAchwfBbTL7nG0xJghT8fh54A67l/3lZvrtxUr7Io8FDP+QeQBvst/VjV0KQYkDaJtKOo=;oKWneiIX2xLlakZDwuFy1Q=="
 ---

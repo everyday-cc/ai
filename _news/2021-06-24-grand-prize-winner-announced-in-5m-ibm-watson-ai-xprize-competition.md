@@ -1,20 +1,20 @@
 ---
 category: news
 title: "Grand Prize Winner Announced in $5M IBM Watson AI XPRIZE Competition"
-excerpt: "and IBM Watson, IBM’s AI technology for business, today announced the Grand Prize Winner in the $5M IBM Watson AI XPRIZE Challenge. First launched in 2016, the five-year global competition looked to accelerate adoption of artificial intelligence (AI ..."
-publishedDateTime: 2021-06-23T18:09:00Z
-originalUrl: "https://www.businesswire.com/news/home/20210623005848/en/Grand-Prize-Winner-Announced-in-5M-IBM-Watson-AI-XPRIZE-Competition"
-webUrl: "https://www.businesswire.com/news/home/20210623005848/en/Grand-Prize-Winner-Announced-in-5M-IBM-Watson-AI-XPRIZE-Competition"
+excerpt: "and IBM Watson, IBM’s AI technology for business, today announced the Grand Prize Winner in the $5M IBM Watson AI XPRIZE Challenge. First launched in 2016, the five-year global competition ..."
+publishedDateTime: 2021-06-24T14:40:00Z
+originalUrl: "https://www.businesswireindia.com/grand-prize-winner-announced-in-usd5m-ibm-watson-ai-xprize-competition-73669.html"
+webUrl: "https://www.businesswireindia.com/grand-prize-winner-announced-in-usd5m-ibm-watson-ai-xprize-competition-73669.html"
 type: article
 
 provider:
   name: Business Wire
-  domain: businesswire.com
+  domain: businesswireindia.com
 
 topics:
   - IBM AI
   - AI
 
-secured: "uASw5WpG1w1Ai3WKBAdeAPW/TNgspV/uV9Nm56TUm8RAuos4nt7YXazNtGXVJWQdu4XQf/RMey/3vau56IseT7g3hfsKa+k7zUHtrGMVMgAeiSuR5kgfekIXIPj5HqmR65YweDvYmtLYSMuuckEa1v4VJLdks4LWJ56crRRCzo/JREUcKdg0MXoQCJusKD3drVWB9m6yHkaa3WWGz43rMKyLRoYaM/OShwRjg71KffojjxMLX6LbXA9C82jAJu4kG3UyzSTgP9lyYqOaVT1EHcaw2kV7x+bSa2OUVnvPt5tZ69iTny8xtMlPEdoUYeV6Ln8cfRBbglZUaFNZWHC6/mRj0080MH/Jx3Ghsvi94kg=;rETfzOEBjHG1j+n2pm8T9A=="
+secured: "kaV7q8UhAfGmLWDG6r5U9l2LaVDrD+uMFxhtKRjVmG5TnJihHypPS/o+tB0zS1nWo2a/y99RnD6vBWUzeUG/MYj8xETx/CEUlHME9XxwRSDNFTd+GLO1vupGEDLfn5U8wNwZrbeDO4FqU2tzBQ8yMAAsPRLsJ8JpW1slXU308uEaJfoU5PH/q5DkIX7SCdchnqG2RIACQf2TYJ0rOSDHSKO5EUL+jSNChiABl+dy7OcX83bJiIxfHHilFkkZIiIz2fWZIf+bUmptwSMh52cN9m7kkzBlkJ/6f7xuqom5jUW3t6gxjdBHbGSZzpb5XlGHP3v62O2ogZ0pmMAzIBTQCdRrwvAnrsdiWjsTiXbmO00=;qzkwvATxTezXtqzRexJp8g=="
 ---
 

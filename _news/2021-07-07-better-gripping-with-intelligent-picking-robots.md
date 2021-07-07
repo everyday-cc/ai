@@ -43,18 +43,18 @@ related:
         height: 903
         isCached: true
   - title: "Better gripping with intelligent picking robots"
-    excerpt: "Production, warehouse, shipping - where goods are produced, stored, sorted or packed, picking also takes place. This means that several individual goods are removed from storage units such as boxes or cartons and reassembled."
-    publishedDateTime: 2021-07-07T17:49:00Z
-    webUrl: "https://www.lelezard.com/en/news-19891825.html"
+    excerpt: "Production, warehouse, shipping - where goods are produced, stored, sorted or packed, picking also takes place. This means that several individual goods are"
+    publishedDateTime: 2021-07-07T17:30:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/better-gripping-with-intelligent-picking-robots/article_05ba0d86-8abd-51d6-bb2c-9415c8bbfde9.html"
     type: article
     provider:
-      name: Le Lézard
-      domain: lelezard.com
+      name: WFMZ-TV
+      domain: wfmz.com
     quality: 39
     images:
-      - url: "https://www.lelezard.com/img/pr_sections/mining-industry.jpg"
-        width: 640
-        height: 480
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
+        width: 1280
+        height: 720
         isCached: true
 
 secured: "G1E9QifXCbC19ghm/HlTRUSOzfgJlWZuVY9cu3YvsT7kfJ/sh3QHJYSaBuTVXDlBlgtIADL5/S/WTEx0g7ZOQucHUl0BhPHNbockYsPs1rEgGoVrIPJaE4YlNusNenOedCdraQbk9bnPEc4aKmmZyU4eeLL23sOqbSSGZoMEZO9/2P6bv8mhJrcAWuzW+mPyVvDZgZ5judpKXw6qLN1MJK/L359il8nQ/BiJRixrdsK2fqYRZ66qYKYQ4FV/pgHMUwNe2ng1w11ieDK+SJCBtkohEF9uIyIjj/7o28lovGzYU7FocEzvwDlbLXK37DyJCt3PKUwVjLUD/TB0Cl30fw5NGObw8zPNHjbD3noULBE=;57Szug9+aWIqXeOQOgZYVg=="

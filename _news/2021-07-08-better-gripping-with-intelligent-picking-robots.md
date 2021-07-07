@@ -1,27 +1,27 @@
 ---
 category: news
 title: "Better gripping with intelligent picking robots"
-excerpt: "Production, warehouse, shipping - where goods are produced, stored, sorted or packed, picking also takes place. This means that several individual goods are removed from storage units such as boxes or cartons and reassembled."
-publishedDateTime: 2021-07-07T17:49:00Z
-originalUrl: "https://www.lelezard.com/en/news-19891825.html"
-webUrl: "https://www.lelezard.com/en/news-19891825.html"
+excerpt: "Production, warehouse, shipping - where goods are produced, stored, sorted or packed, picking also takes place. This means that several individual goods are"
+publishedDateTime: 2021-07-07T17:30:00Z
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/better-gripping-with-intelligent-picking-robots/article_05ba0d86-8abd-51d6-bb2c-9415c8bbfde9.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/better-gripping-with-intelligent-picking-robots/article_05ba0d86-8abd-51d6-bb2c-9415c8bbfde9.html"
 type: article
 quality: 39
 heat: -1
 published: false
 
 provider:
-  name: Le Lézard
-  domain: lelezard.com
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - AI in Robotics
   - AI
 
 images:
-  - url: "https://www.lelezard.com/img/pr_sections/mining-industry.jpg"
-    width: 640
-    height: 480
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
+    width: 1280
+    height: 720
     isCached: true
 
 related:
@@ -56,6 +56,6 @@ related:
         height: 960
         isCached: true
 
-secured: "4y1P3nIfOBFhW2n+qydDTMnn7kQG5ob+06oLKH0H/pBGVNU1lisYsANTJuPJ8b1ydGqPBf4C/dhzx2PYtSFhEaHi/ZINkITJu913TqdzUCsWACKRJdxw6LmZfSsR0powYYdOFLcNYCgJM/qSeX4+lZFK7+S3NNrLrz+dWQFDdLctCKWOaCm4u5oS0Qs8rs61iNagwLfQ7umoC3uKZ3Zy5gB8CcWBOX+UBpuHQ76aB5yZ0bpH9DzhayAnwWojVUpmgBow8apiv8EOYnzEZDMxMalEzwn2mMc6+kmADuWz3pPMR9M+6XxzJI1ZVSND1dhX9JQ/U9UvUDyRTW03I9zq1OtgPftpxeQ22K4T5BqeCsk=;c8OLE1hN3U4CI2PloNm5Nw=="
+secured: "Drl62MwajuMYo9+ID7RK43YNf3e13K2Dzyo/VRXt+J0eVZ1liEzfvQyqRErywt6hc+AtL4zo6wSNjYV+dekvWbDQsc6NaKzvnFDT42NFNS8lKDp+NwmEm19r7sY3aJoFn/Yha6k4xo+/abM14vzdmqgtj8N+Gt7DCsKCy6CWwz4ijimnZQwagdmd1hsWaQi6EU2wCUjEfn2GCxHwxTY7IbpLdKxv9X34s76W7PsI4eVZqs3oNMieESByagPEK0Z7W9uy38BVuzeguad7ALnolbPQS7WJzIiAsre46lIWUcrqYE59C2SAuTPGqv1mosEw1CwsGjiHY+nSL1InCReY6WqxUH7NvD3vsfj6vW/TcPQ=;zMWfIh1/CtDFaE4NS5dGBg=="
 ---
 

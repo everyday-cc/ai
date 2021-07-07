@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nextplatform.com/2021/07/06/gpu-workstations-help-first-
 cdnAmpWebUrl: "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2021/07/06/gpu-workstations-help-first-responders-hit-pause-on-ptsd/amp/"
 type: article
 quality: 59
-heat: 59
+heat: 69
 published: false
 
 provider:
@@ -25,6 +25,22 @@ images:
     width: 2560
     height: 1536
     isCached: true
+
+related:
+  - title: "VSBLTY partners on face biometrics and threat detection data for first responders"
+    excerpt: "Data includes weapons detection, facial recognition classifying persons of interest, sworn officers, suspects, victims, and bystanders, and LPR at crime sites."
+    publishedDateTime: 2021-07-07T18:44:00Z
+    webUrl: "https://www.biometricupdate.com/202107/vsblty-partners-on-face-biometrics-and-threat-detection-data-for-first-responders"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 19
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2019/11/04160101/facial-recognition-for-biometric-access-control-housing.jpeg"
+        width: 1600
+        height: 1035
+        isCached: true
 
 secured: "YDj9MljMpW3AGlwdp5lnxPPmtdNKjg5R1lnjuiSTc1ay9np3b79bLWVI1l0hMFSmLr1HVLutOEghGkLiE9p2/ClhTDPVIbU39p/7EMeaDr9eSghV4pmpKE5GkwHG7zLyV4vn1Pvr5T7Wk3ss/wPkBAeZv/XCQ9IB6nQ0IjzXvdft+N4vvUEipDLzwnefIov2CIcFsKqF9AchmLAhEq/Pwoi8GU+LOH1D9YRLLKsrjHgKQu0Ki7rzkLVfGg/prXkeZ9fs2OpUpPuRkLRAX0aMWfjyXsPutD7Kl6o4QLhFuPry2thdq3bMPOdEcRzAP200CyyOZ1GIiAtx9oyWRQEVN+cUxm3VzAE+HcXf2cI9l4lzGru3ErdfppCw3YBjTTKJhXP5eTYne8gs7QujAkTQQeY5C0UFdiDszaWmgcxsnwLjuN6I7bH6ri7HnSefrsyikoL0MYOo6p4JcTQKCB7qXq9HVDfTnaW3FgK+PqTsWNrYcr0x6kA/Ae6HqfJVqvwhzPkYJ4UJjf7S+Yfm8n5ACw==;k7PED595po9UOmgME1OHsg=="
 ---

@@ -1,26 +1,23 @@
 ---
 category: news
 title: "Anivive Announces Publication Highlighting the First Successful Use of Artificial Intelligence in Diagnosing Valley Fever in Dogs"
-excerpt: "View original content to download multimedia:https://www.prnewswire.com/news-releases/anivive-announces-publication-highlighting-the-first-successful-use-of-artificial-intelligence-in-diagnosing ..."
-publishedDateTime: 2021-07-07T17:12:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/anivive-announces-publication-highlighting-the-first-successful-use-of-artificial-intelligence-in-diagnosing-valley-fever-in-dogs-1030587017"
-webUrl: "https://markets.businessinsider.com/news/stocks/anivive-announces-publication-highlighting-the-first-successful-use-of-artificial-intelligence-in-diagnosing-valley-fever-in-dogs-1030587017"
+excerpt: "Anivive, a pet health technology company transforming the therapeutic discovery and development process, announced the publication of \"Detecting Pulmonary Coccidioidomycosis (Valley fever) with Deep Convolutional Neural Networks,"
+publishedDateTime: 2021-07-07T17:05:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/2021/07/07/9404679.htm"
+webUrl: "https://www.tmcnet.com/usubmit/2021/07/07/9404679.htm"
 type: article
-quality: 18
-heat: 18
+quality: 0
+heat: 0
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI
+  - AI in Healthcare
 
-secured: "cXZbikJLun3BHoQHKEK2ghiL8jtq4J0sQyrB5U0pBiI6+PC2Pgp5zIw8YWCl2hncjdjNxS5pU++AnucMYAEsY7r62zUxjc5yatcsWd6cuhG59WipwCydh72Q3iH8VKrNPlmLqZAx9Oxx3lW9NoqfDeY+HmoyWFDsbzfZAdGMi8X5QojHo7YVFiqZPoXmE9YDsCRsAUFQFUR43J7LzJN6QMIP3+kCEb6f3X/G3VyThm3Fh+8k3o3qwgwqUbmnkIsMCLFkVOUN6RzKD0m3v6meRx1PmMTTdLyD+ykbHHbujEJCEfv3+9T3wRr+e+v81iZi9x+rrFkWP03c1NdgTQRZCgXhRa0YfLdpH54O1ZXlDqo=;pfuv5yNkzQjkxGtPQ3AwRA=="
+secured: "EjEVMNXgmBmtkNVUnfTdYbacCtKUDm4vaZnrWKHgR/H0ZXdIl94PNSt1zj0FEBE9gLcom6AN3Z5Ax7/ucZHjyST2TctKXGpI6QwO6xoYfx3bkDpJeRT0sEFw3ChU+9W8oOXkf+CWFYYYSbBPXwrI096KpQ+o9E6udVe8OTQn8dxHLwDrSCfy50modFL4j092m7GLIjG6cxHzK/eJ+/XH8U1OrvFy+2rEOk3cNbwrkMUbUk+avr0keKXOXVwiYK67doudg6tMV7r9j9S4dQGeZdMkKNEaaKhgK8nBOnRq6+MNsp4iTXPgiu9RJQAuGo6A1GyVm3nNuRYyMXQEYS9XAKXE1P1Z0omlMF/gI4kRslE=;cRQmMzfrW5ZZwDzRhQmqgg=="
 ---
 

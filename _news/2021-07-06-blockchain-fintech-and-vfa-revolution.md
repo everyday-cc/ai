@@ -168,6 +168,15 @@ related:
       name: Crowdfund Insider
       domain: crowdfundinsider.com
     quality: 23
+  - title: "How to find funding in the fintech space and what the Government can do to support the UK’s position"
+    excerpt: "Over the last decade, the UK has been undergoing a fintech revolution seeing increased opportunities in global trade, jobs, and innovation to become the global hub that it is today. Yet for many, the image of fintech is stuck in Shoreditch,"
+    publishedDateTime: 2021-07-07T19:18:00Z
+    webUrl: "https://www.finextra.com/blogposting/20566/how-to-find-funding-in-the-fintech-space-and-what-the-government-can-do-to-support-the-uks-position"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 0
 
 secured: "iiPDYUmDdY8IArvXPXroMo8jj2C5rEl/GFT3kNfhHZiixCezF9wIteMMK6pda50NM2f4veWMLmJRU4dBOgqwOMilwPITUr6MFAp9a3IpaPtfKpdicKY4yR6xUecvytS7sROn901pN6yjWEmXifW+tZqbIt1Njj11xLpQ5kSA6NKD+wb81iRy2sfiiBpLoahMJfYLu7qqE4wQ0ir8zip5beqzHpjgwgsvNR/YYSxuTGHGOPtb7BVV5tuYSxqwNuiWTuYKpLrGjEs0MlqpnAiCb1tSJjpjCSd6mdB0hnw9MS5M7FssGR0jTsWBCbGZqgZSv0tW+v6homPdXEPYCBlLaAldYx1IaoYgIxPUEAXgtN9DUnNrQqHXLI5EszSkJKpMjcRkGUVfyPeyCcLoMUn68b8vz9RpASSQJfmdBGzs1FN+RSRzv6YMm0A5uPhFnOKcLDDIvi4UaKSI/l1J+Qu+PgF9QJKBAoxX9YkjzZUMeHWLq+LLpHAZyoXIy4maJTK9dL4fMmUcJMhR0wCpBeoZ0g==;/tCwYzoVnjAx/W20Ezdsng=="
 ---

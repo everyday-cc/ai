@@ -37,6 +37,20 @@ related:
       name: Diginomica
       domain: diginomica.com
     quality: 27
+  - title: "US says humans will always be in control of AI weapons. But the age of autonomous war is already here."
+    excerpt: "Facts on the ground show that technological advancements, coupled with complex conflicts like the Syrian and Libyan civil wars, have created a reality where weapons that make their own decisions are already killing people."
+    publishedDateTime: 2021-07-07T16:06:00Z
+    webUrl: "https://www.stripes.com/branches/2021-07-07/autonomous-war-ai-us-weapons-control-2078011.html"
+    type: article
+    provider:
+      name: Stars and Stripes
+      domain: stripes.com
+    quality: 21
+    images:
+      - url: "https://www.stripes.com/incoming/tqkdwh-Screen-Shot-2021-07-07-at-11.36.00-AM.png/alternates/LANDSCAPE_480/Screen%20Shot%202021-07-07%20at%2011.36.00%20AM.png"
+        width: 480
+        height: 299
+        isCached: true
 
 secured: "wYJaTgdL2t6GDmd/f3jMoFuRIsunaa9XcP62PqRLrvL8pdxeB4u5L/ykU9DAT34VXFEzDdZZ8MLTngO8A3zfzIeiQuLSsD/uvgNd1KalaOVHeotC4xjdff3/rZ0o56h6BqUp+U+R4BSNONMOTfM01HtrBuC28heCrD1WgfPv1rZftbMYx+ITd39ZiSZWXh39kCgkpBy/xAf53QWqhphZ7Jukvw4IEBDoT8qUz2WbWwTNqlydz1XvN604tEu6M81emD308zFwUIxHKuXUHjk3/K4gMh6lJGXZ3YtbyCribsjytcgDBCnhcSVufeFjZjch+6g6l1qNZV2st4vVDJzh6vvfJnSNTrtB/MERRPvtsbo=;bLlMJQa+8Yx0LOyr59EeXg=="
 ---
