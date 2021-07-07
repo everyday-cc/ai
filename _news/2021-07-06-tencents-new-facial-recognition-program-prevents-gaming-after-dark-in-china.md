@@ -9,7 +9,7 @@ ampWebUrl: "https://www.digitaltrends.com/gaming/tencent-facial-recognition-chin
 cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/gaming/tencent-facial-recognition-china/?amp"
 type: article
 quality: 86
-heat: 136
+heat: 146
 published: true
 
 provider:
@@ -60,6 +60,22 @@ related:
       - url: "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F07%2FUntitled-design-3.jpg&signature=c1cef30bbb5da6eff5db67610f4c5a3f"
         width: 1280
         height: 640
+        isCached: true
+  - title: "Tencent will use facial recognition to curb excessive youth gaming in China"
+    excerpt: "The Chinese mega-publisher is aiming to eliminate juveniles from playing games outside of a pre-established curfew."
+    publishedDateTime: 2021-07-06T23:05:00Z
+    webUrl: "https://www.shacknews.com/article/125456/tencent-will-use-facial-recognition-to-curb-excessive-youth-gaming-in-china"
+    ampWebUrl: "https://www.shacknews.com/article/125456/tencent-will-use-facial-recognition-to-curb-excessive-youth-gaming-in-china?amphtml=1"
+    cdnAmpWebUrl: "https://www-shacknews-com.cdn.ampproject.org/c/s/www.shacknews.com/article/125456/tencent-will-use-facial-recognition-to-curb-excessive-youth-gaming-in-china?amphtml=1"
+    type: article
+    provider:
+      name: Shacknews
+      domain: shacknews.com
+    quality: 57
+    images:
+      - url: "https://d1lss44hh2trtw.cloudfront.net/assets/article/2021/07/06/tencent-face-recognition-1_feature.jpg"
+        width: 1284
+        height: 720
         isCached: true
   - title: "Facial recognition: Tax pros mull returning to in-person meetings"
     excerpt: "Absolutely — as people feel more comfortable, we anticipate having more live rather than virtual meetings and events,” said Daniel Morris, a CPA and senior partner with Morris+D’Angelo CPAs in San Jose,"

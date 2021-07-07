@@ -57,20 +57,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Asia-Pacific Artificial Intelligence Market Growth 2021 to 2030, Global Industry Size, Recent Trends, Demand and Share Analysis with Top Key-Players"
-    excerpt: "In a recent published report, Kenneth Research has updated the Asia-Pacific Artificial Intelligence Market report for"
-    publishedDateTime: 2021-07-02T06:38:00Z
-    webUrl: "https://www.marketwatch.com/press-release/asia-pacific-artificial-intelligence-market-growth-2021-to-2030-global-industry-size-recent-trends-demand-and-share-analysis-with-top-key-players-2021-07-02"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 30
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "COVID-19 Impact and Analysis|Artificial Intelligence Market In The Industrial Sector| Technavio"
     excerpt: "Technavio has been monitoring the artificial intelligence market in the industrial sector, operating under the industrials segment."
     publishedDateTime: 2021-07-06T02:50:00Z

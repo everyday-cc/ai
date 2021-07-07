@@ -61,6 +61,22 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "Tencent will use facial recognition to curb excessive youth gaming in China"
+    excerpt: "The Chinese mega-publisher is aiming to eliminate juveniles from playing games outside of a pre-established curfew."
+    publishedDateTime: 2021-07-06T23:05:00Z
+    webUrl: "https://www.shacknews.com/article/125456/tencent-will-use-facial-recognition-to-curb-excessive-youth-gaming-in-china"
+    ampWebUrl: "https://www.shacknews.com/article/125456/tencent-will-use-facial-recognition-to-curb-excessive-youth-gaming-in-china?amphtml=1"
+    cdnAmpWebUrl: "https://www-shacknews-com.cdn.ampproject.org/c/s/www.shacknews.com/article/125456/tencent-will-use-facial-recognition-to-curb-excessive-youth-gaming-in-china?amphtml=1"
+    type: article
+    provider:
+      name: Shacknews
+      domain: shacknews.com
+    quality: 57
+    images:
+      - url: "https://d1lss44hh2trtw.cloudfront.net/assets/article/2021/07/06/tencent-face-recognition-1_feature.jpg"
+        width: 1284
+        height: 720
+        isCached: true
   - title: "Facial recognition: Tax pros mull returning to in-person meetings"
     excerpt: "Absolutely — as people feel more comfortable, we anticipate having more live rather than virtual meetings and events,” said Daniel Morris, a CPA and senior partner with Morris+D’Angelo CPAs in San Jose,"
     publishedDateTime: 2021-07-06T13:00:00Z

@@ -47,15 +47,20 @@ related:
         width: 400
         height: 400
         isCached: true
-  - title: "GE Healthcare and SOPHiA GENETICS to Collaborate to Match Treatments to Multimodal Patient Data and Cancer Type"
-    excerpt: "GE Healthcare and SOPHiA GENETICS are to collaborate to match treatments to multimodal patient data and cancer type."
-    publishedDateTime: 2021-07-06T13:21:00Z
-    webUrl: "https://www.businesswire.com/news/home/20210706005463/en/GE-Healthcare-and-SOPHiA-GENETICS-to-Collaborate-to-Match-Treatments-to-Multimodal-Patient-Data-and-Cancer-Type"
+  - title: "GE Healthcare and SOPHiA GENETICS to collaborate to match treatments to multimodal patient data and cancer type"
+    excerpt: "GE Healthcare and SOPHiA GENETICS today announced that they have signed a letter of intent to collaborate on advancing cancer care, with the goal of better targeting and matching treatments to each patient’s genomic profile and cancer type,"
+    publishedDateTime: 2021-07-06T11:13:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/genetics-coronavirus-pandemic-science-cancer-health-06b416803c69f36d937ef98a0bce67dd"
     type: article
     provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 0
+      name: Associated Press
+      domain: apnews.com
+    quality: 19
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
 secured: "Ro/ekQSlSy1cdqHACNTFYmSBWQx0VcTLDK/zNSPzRjKzNCAezK+JDmkFlg58Zk0btcHZUctD/N5XEOA6zNyeJ3kS0cS9QGkTbdFv6HLSEhSzg+Or5hizaaRZiHyD+LGyPzgqsqBP56RlC+nLettc2Hkrmplbt6RLSezDFSq6pDv5W8EuXSu/qXC2Gi7TKafwy3Bwg8d1fr3xs80WlS9kCKtwIzMCsIgZi9ANjBh0T5erZlRNF8PzuF8Ns8Jwtv4qBUUS0tIDQRbjFQakB27BoaeGtwcNF5iTseylr0Vc6ee2upcjdMfTz9Abbq4t9SK0IKnVbNhOr/bORvCHad9p4VAZUiEp2TOS3FQLBRSLN9k=;Ij3JdNfO0bDa4Ia7q9kpiw=="
 ---

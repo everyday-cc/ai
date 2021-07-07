@@ -27,17 +27,6 @@ related:
       name: manometcurrent.com
       domain: manometcurrent.com
     quality: 34
-  - title: "Global Mobile Robots Market (2021 to 2026) - Featuring Softbank Robotics, SMP Robotics and Aethon Among Others - ResearchAndMarkets.com"
-    excerpt: "The \"Mobile Robots Market - Forecasts from 2021 to 2026\" report has been added to ResearchAndMarkets.com's offering. The global mobile robots market is evaluated"
-    publishedDateTime: 2021-07-06T13:08:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/21/07/b21855417/global-mobile-robots-market-2021-to-2026-featuring-softbank-robotics-smp-robotics-and-aethon-among"
-    ampWebUrl: "https://www.benzinga.com/amp/content/21855417"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/21855417"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 22
 
 secured: "Vag+ieYuEP2g9pqDYQCDN2itBhIlzCNlyzpICvKj/3BoWImrNYWYZXxKMrVmH5MHa4esqlci+m6XBE5WkuGP5df/efQBN3+hP6HiuvNtEka0cIoT5gmkJxG0jkLVa9Yy6zBKVBI8W2fvcd4fo9BHA6Pugu9C2Hrc4Lo35+fPogf9twY+qASEQv6+cdtmPoafaUr6dL/VFA7BUSHgJeidAaE70d7YCfTq3NQ/EHHT+W94DbhccwuvGQGjQiS6Yftypuuo96mungrn4pgWhYruVRcAP9ZgZpJVU3BB0cf2kh1rDQWkPZ3rKIhUVItXvhogGwepjEwc8V5BAXj3WHwFXM/OEyh/xpuQuYXfWUI3QgE9tH85ernDK4u8omY10DXvnfvgFAE1JKZ26nu6eB6HUd+TruzD/+iVU89hz/x+kZ/oDmIn8lJ34krkeM/1skoY1j1d0f9n5n9VilHYNE5NYVc0jkaEiupHyFCHCfsQLYSJ5xgcXHxAFUiiNi0X0h2WIRUWUVj5F5jnj6vqwWspLg==;UT6k4Wkr2ycayroiDc/yVg=="
 ---

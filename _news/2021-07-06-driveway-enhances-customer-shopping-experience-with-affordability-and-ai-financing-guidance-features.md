@@ -44,6 +44,22 @@ related:
         width: 966
         height: 643
         isCached: true
+  - title: "Transforming The Insurance Industry With Big Data, Machine Learning, And AI"
+    excerpt: "An emerging wave of “Insurtech” solutions companies are seeking to transform the business of insurance through the introduction of Big Data, Machine Learning, and AI capabilities."
+    publishedDateTime: 2021-07-06T22:21:00Z
+    webUrl: "https://www.forbes.com/sites/randybean/2021/07/06/transforming-the-insurance-industry-with-big-data-machine-learning-and-ai/"
+    ampWebUrl: "https://www.forbes.com/sites/randybean/2021/07/06/transforming-the-insurance-industry-with-big-data-machine-learning-and-ai/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/randybean/2021/07/06/transforming-the-insurance-industry-with-big-data-machine-learning-and-ai/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 102
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60e4d5d325abdbff999bebbe%2F0x0.jpg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Blending Computing with AI & Machine Learning for Low Risk High Returns"
     excerpt: "Liquidity in real estate may not be immediate, interest in fixed deposits is low in comparison to equities’ returns in the long term."
     publishedDateTime: 2021-07-03T16:53:00Z

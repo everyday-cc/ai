@@ -19,17 +19,6 @@ topics:
   - AI in Robotics
 
 related:
-  - title: "Global Mobile Robots Market (2021 to 2026) - Featuring Softbank Robotics, SMP Robotics and Aethon Among Others - ResearchAndMarkets.com"
-    excerpt: "The \"Mobile Robots Market - Forecasts from 2021 to 2026\" report has been added to ResearchAndMarkets.com's offering. The global mobile robots market is evaluated"
-    publishedDateTime: 2021-07-06T13:08:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/21/07/b21855417/global-mobile-robots-market-2021-to-2026-featuring-softbank-robotics-smp-robotics-and-aethon-among"
-    ampWebUrl: "https://www.benzinga.com/amp/content/21855417"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/21855417"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 22
   - title: "AI In Banking Market Size and Growth to 2028 | Key Players – Intel, Harman International Industries, Cisco Systems, ABB, IBM, Bsh Hausgerte"
     excerpt: "The AI In Banking Market report forecasts promising growth and development for the period 2021-2028. The AI In Banking market research report defines key statistical data presented in an organized format including graphs,"
     publishedDateTime: 2021-07-06T16:42:00Z

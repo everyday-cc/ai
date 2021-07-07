@@ -2,12 +2,12 @@
 category: news
 title: "A more robust memory device for artificial intelligence systems"
 excerpt: "A research team at Northwestern University and the University of Messina in Italy has developed a new magnetic memory device that could lead to faster, more robust artificial intelligence systems. Composed of antiferromagnetic materials,"
-publishedDateTime: 2021-07-06T20:41:00Z
-originalUrl: "https://nsf.gov/discoveries/disc_summ.jsp?cntn_id=303032&org=NSF"
-webUrl: "https://nsf.gov/discoveries/disc_summ.jsp?cntn_id=303032&org=NSF"
+publishedDateTime: 2021-07-06T22:16:00Z
+originalUrl: "https://www.nsf.gov/discoveries/disc_summ.jsp?cntn_id=303032"
+webUrl: "https://www.nsf.gov/discoveries/disc_summ.jsp?cntn_id=303032"
 type: article
-quality: 37
-heat: 37
+quality: 39
+heat: 39
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://www.nsf.gov/news/mmg/media/images/ai_memory_f.jpg"
@@ -23,6 +24,6 @@ images:
     height: 220
     isCached: true
 
-secured: "jyFBR6qtbryVpiPX0XPdTG6sNnShUbcjBBnzwZ3r5pmtMnbHbMeXkfMpJZrSLv2+BuzCiP5p2yj08kMPI6hfXZo5pDjbJj4i2ZZChysB2QNxQ/zlqIS3F6Uay4fIubhjBLjv0/2eBABNVJbhZUs6Mk2Hdk2gbThwjEReZzSCQXr+rS1CbyuUFzZXCW7qFd7ul/fBBoJk9cMYqW5Skpk/8khOTw1q4QxyyKSH9cWfDKgwunmD5g/rFaJ8p7a45G1X2oF7+b4ShmYWE/kdxw//1v7R4S8j85aBF7R0xU5noPxccDbwKbZ9tbFaWdYPGytaZjUt7FHA/c5DSywUiHpdW9AXb6pnYw9lAxrDfUH0cgU=;HC0xQq1rwXzDVST4IZqBPA=="
+secured: "AawVVaIBbAdWjBF36EDD9VulE7UPSVtI9x7hw4/4cs3GMhii1Jlvh5Fm4Z+hc0xUUKHI0lIh5w+aBVXVEmKFbVR4nG7x3xueQDL4GFw97bNnOhTEe64l99CQKe6mB10PfF/9RphbzC2tf3U4RyxQ1Ut0DZXxNWRGu/13TlMBRgfbSnh6C4mEykwq9KKyAURZVK51ZN2OOjBBG97mPtK0X5+bK0HU0Q7hQjDt4wWy7LCHSYSSGKgRWVGMmYdYb5oD0Wa9WUJy0Pg0dDin8hwmu031dgzy7CTGZbqK0+ZiXtNU7c06Cp/q6uk9V7u4+kKceiu0b5Gk1ZoIPwNJ5np804Mia0MM+y9ZFWx1XAGlm5o=;Lz4f77MBZ6nb8up/g7oRlA=="
 ---
 

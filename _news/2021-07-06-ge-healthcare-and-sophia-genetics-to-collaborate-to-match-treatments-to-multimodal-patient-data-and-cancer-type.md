@@ -1,22 +1,28 @@
 ---
 category: news
-title: "GE Healthcare and SOPHiA GENETICS to Collaborate to Match Treatments to Multimodal Patient Data and Cancer Type"
-excerpt: "GE Healthcare and SOPHiA GENETICS are to collaborate to match treatments to multimodal patient data and cancer type."
-publishedDateTime: 2021-07-06T13:21:00Z
-originalUrl: "https://www.businesswire.com/news/home/20210706005463/en/GE-Healthcare-and-SOPHiA-GENETICS-to-Collaborate-to-Match-Treatments-to-Multimodal-Patient-Data-and-Cancer-Type"
-webUrl: "https://www.businesswire.com/news/home/20210706005463/en/GE-Healthcare-and-SOPHiA-GENETICS-to-Collaborate-to-Match-Treatments-to-Multimodal-Patient-Data-and-Cancer-Type"
+title: "GE Healthcare and SOPHiA GENETICS to collaborate to match treatments to multimodal patient data and cancer type"
+excerpt: "GE Healthcare and SOPHiA GENETICS today announced that they have signed a letter of intent to collaborate on advancing cancer care, with the goal of better targeting and matching treatments to each patient’s genomic profile and cancer type,"
+publishedDateTime: 2021-07-06T11:13:00Z
+originalUrl: "https://apnews.com/press-release/pr-newswire/genetics-coronavirus-pandemic-science-cancer-health-06b416803c69f36d937ef98a0bce67dd"
+webUrl: "https://apnews.com/press-release/pr-newswire/genetics-coronavirus-pandemic-science-cancer-health-06b416803c69f36d937ef98a0bce67dd"
 type: article
-quality: 0
+quality: 19
 heat: -1
 published: false
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI in Healthcare
   - AI
+
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
 
 related:
   - title: "GE Healthcare, SOPHiA GENETICS To Collaborate On Advancing Cancer Care"
@@ -57,6 +63,6 @@ related:
         height: 400
         isCached: true
 
-secured: "VZpr10+bXYkqayZYBXWF721oozRzW+uM5cJmQushM/viNH5YWJox/bVD/Lr5kfb1yUaL5wWE98x0AgKMfl8Osr/pzPs9EosrmOLE9N7MNGTkg2a0F9UqlyGLS3bMZpPLQKIe7+CAhZaa2eleJXjfeRLWonS/F5v1Af+KbmOoN07ltq5YodzT3zOxWTJYacQ43Eqembz8i3JKsLmnCYuZFTyXLOwqQqaL9v09ObI5ZWNH3WgY/TtnWHZ+vCRArPXDikUIxl7iPhkc7TOIXTkXw0NLY7rZeR9tgZQkM1rjimb5Uwo941edmb2ztpaeOdJqL5ebi4cNutt7CoVAmNQNKjdl8XqpvLMVHUauX5T8hU0=;7N39tAg1gT9A1gK1USxSqw=="
+secured: "IYHpEQPzB7f/60KaJC0XBRQMH/6FvvWl+syKV0iOsTpR1KrSE0UUGke4ZDzh4L5Vvg5h7q0pQ2f04eEldOXQeBCOpxDnx9C/QHQANXQLEJ0gJDtIYzhC/ZOeQxNfiDV+N4PS2O+1D5Lhp/dPUAfKgfxlisD8kto2RkLi1XzpOrj9z5vaLvYVJVEHoI5gkM9fRdZ7KHr1FnV+GqMIvqm7YxC+HVUs5W1LBFJkpklK0T41dEkYF9DYZW/9lQEPkYArqPUppGsb3mNJNDJ2p5k9A4V0a1+Y3wmibaCYMojhzCvByRNZlFzqn7tUm8/ne++w0cc6/Z6saz6uGAECj72rRBf43WyCYO6M7HmOlx27x7U=;hhUhvZRJ6C1+JuR8R0Fbkg=="
 ---
 

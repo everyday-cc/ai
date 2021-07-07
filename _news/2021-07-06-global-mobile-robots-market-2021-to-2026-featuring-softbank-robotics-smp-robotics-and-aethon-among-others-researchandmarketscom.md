@@ -21,24 +21,29 @@ topics:
   - AI
 
 related:
-  - title: "Artificial Intelligence Robotics Market 2021 by Top Key Players: Intel, Alphabet, Softbank, Promobot"
-    excerpt: "A new informative report titled as “Global Artificial Intelligence Robotics Market 2021 by Key Players, Types, Applications, Countries, Market Size, Forecast to 2027” has recently published by Credible Markets to its humongous database which helps to shape the future of the businesses by making well-informed business decisions."
-    publishedDateTime: 2021-07-04T16:19:00Z
-    webUrl: "https://manometcurrent.com/artificial-intelligence-robotics-market-2021-by-top-key-players-intel-alphabet-softbank-promobot/"
+  - title: "$30+ Billion Mobile Robots Global Market to 2026 - Rising Demand for Mobile Robots from the E-Commerce Sector is Driving Growth"
+    excerpt: "Dublin, July 06, 2021 (GLOBE NEWSWIRE) -- The \"Mobile Robots Market - Forecasts from 2021 to 2026\" report has been added to ResearchAndMarkets.com's offering. The global mobile robots market is evaluated at US$11."
+    publishedDateTime: 2021-07-06T09:24:00Z
+    webUrl: "https://www.marketwatch.com/press-release/30-billion-mobile-robots-global-market-to-2026---rising-demand-for-mobile-robots-from-the-e-commerce-sector-is-driving-growth-2021-07-06"
     type: article
     provider:
-      name: manometcurrent.com
-      domain: manometcurrent.com
-    quality: 34
-  - title: "AI In Banking Market Size and Growth to 2028 | Key Players – Intel, Harman International Industries, Cisco Systems, ABB, IBM, Bsh Hausgerte"
-    excerpt: "The AI In Banking Market report forecasts promising growth and development for the period 2021-2028. The AI In Banking market research report defines key statistical data presented in an organized format including graphs,"
-    publishedDateTime: 2021-07-06T16:42:00Z
-    webUrl: "https://manometcurrent.com/ai-in-banking-market-size-and-growth-to-2028-key-players-intel-harman-international-industries-cisco-systems-abb-ibm-bsh-hausgerte/"
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 41
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Worldwide Mobile Robots Industry to 2026 - by Type, Component, End-users and Geography"
+    excerpt: "The \"Mobile Robots Market - Forecasts from 2021 to 2026\" report has been added to ResearchAndMarkets.com's offering. The global mobile robots market is evaluated at US$11.404 billion for the year 2019 and is estimated to grow at a CAGR of 15."
+    publishedDateTime: 2021-07-06T12:19:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-worldwide-mobile-robots-industry-2026-type-component-end-/2021/07/06/9403277.htm"
     type: article
     provider:
-      name: manometcurrent.com
-      domain: manometcurrent.com
-    quality: 0
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 11
 
 secured: "LeoG8hmlGhsZh7AFevmBakqJs4+0GPZ7m80UfiYBoZfoAehlp29GVA8PhKyfmmsaefFoSoPlx/x5vVhMmzi/ISFRfFOnIlANPbUYSZ5BgTi53O3DTRibtsfxFav4rjR6uIV1iVZ3j2abNaJPcz10tgolRbIT1yyaBCUgquuC1b+VTbTIwvoxDX/BZueKoEVZWk0tdcsH+U+WSDwchze9Dg+EHBNyRpCKPv9YJkmhiB0vuPIxhNunGqVFnDqiHPFyuUClr3kf/ZoR1/3P5oS/wFtvKC/i9MuFzt4RhkELTfR6s3bEGFlYTm4Q+JnH23NVto43I4LmGFmQeVSnd+GGFMJo7Tk7GFp6zfdz45tBf0c=;RLcnSXTkvRropIPqNSBu/Q=="
 ---

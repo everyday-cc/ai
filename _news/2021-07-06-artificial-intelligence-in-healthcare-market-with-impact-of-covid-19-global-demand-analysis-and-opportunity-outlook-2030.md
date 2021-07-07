@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-with-impact-of-covid-19-global-demand-analysis-and-opportunity-outlook-2030-2021-07-06"
 type: article
 quality: 59
-heat: 119
+heat: 109
 published: true
 
 provider:
@@ -38,20 +38,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 43
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Asia-Pacific Artificial Intelligence Market Growth 2021 to 2030, Global Industry Size, Recent Trends, Demand and Share Analysis with Top Key-Players"
-    excerpt: "In a recent published report, Kenneth Research has updated the Asia-Pacific Artificial Intelligence Market report for"
-    publishedDateTime: 2021-07-02T06:38:00Z
-    webUrl: "https://www.marketwatch.com/press-release/asia-pacific-artificial-intelligence-market-growth-2021-to-2030-global-industry-size-recent-trends-demand-and-share-analysis-with-top-key-players-2021-07-02"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 30
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

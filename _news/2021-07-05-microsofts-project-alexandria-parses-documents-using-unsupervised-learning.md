@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/07/05/microsofts-project-alexandria-par
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/05/microsofts-project-alexandria-parses-documents-using-unsupervised-learning/amp/"
 type: article
 quality: 89
-heat: 101
+heat: 99
 published: true
 
 provider:
