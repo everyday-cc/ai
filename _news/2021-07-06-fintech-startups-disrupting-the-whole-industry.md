@@ -140,20 +140,6 @@ related:
         width: 709
         height: 532
         isCached: true
-  - title: "5 reasons your team should attend Fintech & Insurtech Live"
-    excerpt: "Join us from 12th - 14th October 2021 for the ultimate Fintech & Insurtech event, streamed live from London’s Tobacco Dock"
-    publishedDateTime: 2021-07-02T16:04:00Z
-    webUrl: "https://fintechmagazine.com/financial-services-finserv/5-reasons-your-team-should-attend-fintech-and-insurtech-live"
-    type: article
-    provider:
-      name: fintechmagazine
-      domain: fintechmagazine.com
-    quality: 24
-    images:
-      - url: "https://fintechmagazine.com/sites/default/files/styles/ma/public/image/https___cdn.evbuc_.com_images_137634879_544762740363_1_original%20%281%29_0.jpg?itok=Uc0GE5Fx"
-        width: 800
-        height: 400
-        isCached: true
   - title: "Financial Markets Tech Platform Symphony Partners with Fintech Saphyre to Add AI Solutions to Workflows"
     excerpt: "Symphony, the financial markets’ infrastructure and tech platform, has teamed up with Fintech company Saphyre, Inc. in order to integrate patented AI solutions into pre and post-trade workflows for front,"
     publishedDateTime: 2021-07-03T13:08:00Z

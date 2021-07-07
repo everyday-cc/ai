@@ -2,6 +2,147 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-05-31-why-ml-capabilities-of-gcp-is-way-ahead-of-aws-azure.md",
+      "title": "Why ML Capabilities Of GCP Is Way Ahead Of AWS & Azure",
+      "excerpt": "Google Cloud Platform (GCP) and Microsoft Azure are the leading cloud providers by a long shot. Though late to the party, GCP has seen robust growth over the years. Google Cloud’s revenue jumped nearly 46 percent year-on-year to $4.",
+      "sourceUrl": null,
+      "webUrl": "https://analyticsindiamag.com/why-ml-capabilities-of-gcp-is-way-ahead-of-aws-azure/",
+      "originalUrl": "https://analyticsindiamag.com/why-ml-capabilities-of-gcp-is-way-ahead-of-aws-azure/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://analyticsindiamag.com/wp-content/uploads/2021/05/AIM-Illustration-2.jpg",
+          "width": 2240,
+          "height": 1260,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-30T21:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Analytics India Magazine",
+        "domain": "analyticsindiamag.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "Machine Learning",
+        "AWS AI",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-30-ubisoft-hires-ai-machine-learning-expert-to-lead-product-technology.md",
+      "title": "Ubisoft hires AI, machine learning expert to lead product technology",
+      "excerpt": "Ubisoft is forging ahead with experimental technology like machine learning, AI, blockchain and more for its upcoming projects.",
+      "sourceUrl": null,
+      "webUrl": "https://www.tweaktown.com/news/79664/ubisoft-hires-ai-machine-learning-expert-to-lead-product-technology/index.html",
+      "originalUrl": "https://www.tweaktown.com/news/79664/ubisoft-hires-ai-machine-learning-expert-to-lead-product-technology/index.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.tweaktown.com/news/7/9/79664_32_ubisoft-hires-ai-machine-learning-expert-to-lead-product-technology.jpg",
+          "width": 620,
+          "height": 349,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.tweaktown.com/news/79664/ubisoft-hires-ai-machine-learning-expert-to-lead-product-technology/amp.html",
+      "cdnAmpWebUrl": "https://www-tweaktown-com.cdn.ampproject.org/c/s/www.tweaktown.com/news/79664/ubisoft-hires-ai-machine-learning-expert-to-lead-product-technology/amp.html",
+      "publishedDateTime": "2021-05-29T12:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TweakTown",
+        "domain": "tweaktown.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-30-adversarial-attacks-in-machine-learning-what-they-are-and-how-to-stop-them.md",
+      "title": "Adversarial attacks in machine learning: What they are and how to stop them",
+      "excerpt": "Adversarial attacks present a growing threat to commercial AI and machine learning systems. Fortunately, some solutions exist.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/05/29/adversarial-attacks-in-machine-learning-what-they-are-and-how-to-stop-them/",
+      "originalUrl": "https://venturebeat.com/2021/05/29/adversarial-attacks-in-machine-learning-what-they-are-and-how-to-stop-them/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/05/data_privacy2.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 648,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/05/29/adversarial-attacks-in-machine-learning-what-they-are-and-how-to-stop-them/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/29/adversarial-attacks-in-machine-learning-what-they-are-and-how-to-stop-them/amp/",
+      "publishedDateTime": "2021-05-29T12:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-29-rebel-ai-group-raises-record-cash-after-machine-learning-schism.md",
       "title": "Rebel AI group raises record cash after machine learning schism",
       "excerpt": "A breakaway group of artificial intelligence researchers has raised a record first round of financing for a new start-up involved in general-purpose AI, marking the latest attempt to create an organisation to guarantee the safety of the era’s most powerful technology.",
@@ -1184,136 +1325,6 @@
         "AI",
         "AWS AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-05-25-pixel-6-leak-reveals-64-inch-120hz-display-5000-mah-battery-and-whitechapel-with-focus-on-ai-and-ml.md",
-      "title": "Pixel 6 Leak Reveals 6.4-Inch 120Hz Display, 5,000 mAh Battery and Whitechapel with Focus On AI and ML",
-      "excerpt": "Recently we saw a Pixel 6 render with the redesigned back panel and a dual-color treatment. Like Apple, Google is expected to switch to their in-house",
-      "sourceUrl": null,
-      "webUrl": "https://www.androidbeat.com/2021/05/pixel-6-new-specifications/",
-      "originalUrl": "https://www.androidbeat.com/2021/05/pixel-6-new-specifications/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.androidbeat.com/wp-content/uploads/2021/05/pixel-6-pro-feature-1024x665.jpg",
-          "width": 1024,
-          "height": 665,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.androidbeat.com/2021/05/pixel-6-new-specifications/amp/",
-      "cdnAmpWebUrl": "https://www-androidbeat-com.cdn.ampproject.org/c/s/www.androidbeat.com/2021/05/pixel-6-new-specifications/amp/",
-      "publishedDateTime": "2021-05-25T06:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "androidbeat.com",
-        "domain": "androidbeat.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-05-25-balancing-the-opportunities-and-risks-of-machine-learning.md",
-      "title": "Balancing the Opportunities and Risks of Machine Learning",
-      "excerpt": "The growing appeal and utility of machine learning-based systems is undeniable. As Christina Pazzanese wrote in the Harvard Gazette in October 2020, “Worldwide business spending on AI is expected to hit $50 billion this year and $110 billion annually by 2024",
-      "sourceUrl": null,
-      "webUrl": "https://www.cmswire.com/information-management/balancing-the-opportunities-and-risks-of-machine-learning/",
-      "originalUrl": "https://www.cmswire.com/information-management/balancing-the-opportunities-and-risks-of-machine-learning/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cmswire.com/-/media/435ac5621eeb4002a28a50ddc9037ee6.ashx?mw=1024",
-          "width": 640,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cmswire.com/information-management/balancing-the-opportunities-and-risks-of-machine-learning/amp/",
-      "cdnAmpWebUrl": "https://www-cmswire-com.cdn.ampproject.org/c/s/www.cmswire.com/information-management/balancing-the-opportunities-and-risks-of-machine-learning/amp/",
-      "publishedDateTime": "2021-05-24T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CMS Wire",
-        "domain": "cmswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-25-handling-extrapolation-with-asymptotic-controls-in-neural-nets.md",
-      "title": "Handling extrapolation with asymptotic controls in neural nets",
-      "excerpt": "As machine learning continues to permeate many areas of quantitative finance, artificial neural networks are now being applied to derivatives pricing applications.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/professional/blog/handling-extrapolation-with-asymptotic-controls-in-neural-nets/",
-      "originalUrl": "https://www.bloomberg.com/professional/blog/handling-extrapolation-with-asymptotic-controls-in-neural-nets/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-24T16:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

@@ -125,20 +125,6 @@ related:
         width: 709
         height: 532
         isCached: true
-  - title: "5 reasons your team should attend Fintech & Insurtech Live"
-    excerpt: "Join us from 12th - 14th October 2021 for the ultimate Fintech & Insurtech event, streamed live from London’s Tobacco Dock"
-    publishedDateTime: 2021-07-02T16:04:00Z
-    webUrl: "https://fintechmagazine.com/financial-services-finserv/5-reasons-your-team-should-attend-fintech-and-insurtech-live"
-    type: article
-    provider:
-      name: fintechmagazine
-      domain: fintechmagazine.com
-    quality: 24
-    images:
-      - url: "https://fintechmagazine.com/sites/default/files/styles/ma/public/image/https___cdn.evbuc_.com_images_137634879_544762740363_1_original%20%281%29_0.jpg?itok=Uc0GE5Fx"
-        width: 800
-        height: 400
-        isCached: true
   - title: "Fintech Startups Disrupting the Whole Industry"
     excerpt: "However, do you actually know how huge the Financial Services industry is? You might arm yourself with a calculator, start crunching the numbers and arrive at a certain ballpark figure pretty soon. While there is a little doubt in your numerical prowess,"
     publishedDateTime: 2021-07-06T16:58:00Z

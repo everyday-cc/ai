@@ -2,6 +2,50 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-06-11-intel-debates-buyout-of-sifive-to-bolster-chip-technology-against-arm.md",
+      "title": "Intel debates buyout of SiFive to bolster chip technology against ARM",
+      "excerpt": "Intel Corp is debating a possible offer to buy SiFive Inc, a person familiar with the matter told Reuters, a company closely associated with open-source technology that is challenging the rise of Intel's rival,",
+      "sourceUrl": null,
+      "webUrl": "https://indianexpress.com/article/technology/tech-news-technology/intel-debates-buyout-of-sifive-to-bolster-chip-technology-against-arm-7354276/",
+      "originalUrl": "https://indianexpress.com/article/technology/tech-news-technology/intel-debates-buyout-of-sifive-to-bolster-chip-technology-against-arm-7354276/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.indianexpress.com/2021/06/Intel_Reuters_1_NEW.jpg",
+          "width": 1200,
+          "height": 667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://indianexpress.com/article/technology/tech-news-technology/intel-debates-buyout-of-sifive-to-bolster-chip-technology-against-arm-7354276/lite/",
+      "cdnAmpWebUrl": "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/technology/tech-news-technology/intel-debates-buyout-of-sifive-to-bolster-chip-technology-against-arm-7354276/lite/",
+      "publishedDateTime": "2021-06-11T01:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Indian Express",
+        "domain": "indianexpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2021-06-11-how-pytorch-is-challenging-tensorflow-lately.md",
       "title": "How PyTorch Is Challenging TensorFlow Lately",
       "excerpt": "PyTorch gives our researchers unprecedented flexibility in designing their models and running their experiments.",
@@ -1373,49 +1417,6 @@
       "provider": {
         "name": "The Sentinel",
         "domain": "ksusentinel.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-22-leigh-johnsons-guide-to-machine-vision-on-raspberry-pi.md",
-      "title": "Leigh Johnson’s Guide To Machine Vision On Raspberry Pi",
-      "excerpt": "(Video also embedded below.) The talk is a very concise 13 minutes, so Leigh flies through definitions of basic terms, before quickly naming TensorFlow and Keras as the tools she used. The time ...",
-      "sourceUrl": null,
-      "webUrl": "https://hackaday.com/2019/03/01/leigh-johnsons-guide-to-machine-vision-on-raspberry-pi/",
-      "originalUrl": "https://hackaday.com/2019/03/01/leigh-johnsons-guide-to-machine-vision-on-raspberry-pi/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://hackaday.com/wp-content/uploads/2019/03/leigh-johnson-machine-vision-pi-fire-engine-800x450.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-21T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hackaday",
-        "domain": "hackaday.com",
         "images": null,
         "publishers": null,
         "authors": null

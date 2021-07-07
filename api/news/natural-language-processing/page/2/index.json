@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-06-22-natural-language-processing-tech-startup-primer-raises-110-million.md",
+      "title": "Natural Language Processing Tech Startup Primer Raises $110 Million",
+      "excerpt": "Primer, a San Francisco-based startup that offers a natural language processing platform used by U.S. national security agencies and others, on Tuesday said it raised $110 million in its latest funding round.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usnews.com/news/technology/articles/2021-06-22/natural-language-processing-tech-startup-primer-raises-110-million",
+      "originalUrl": "https://www.usnews.com/news/technology/articles/2021-06-22/natural-language-processing-tech-startup-primer-raises-110-million",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-22T03:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "U.S. News & World Report",
+        "domain": "usnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-22-natural-language-processing-market-top-manufacturers-covid-19-impact-global-demand-and-future-scope.md",
       "title": "Natural Language Processing Market Top Manufacturers, COVID-19 Impact, Global Demand and Future Scope",
       "excerpt": "The global “ Natural Language Processing Market ” is expected to rise with an impressive CAGR and generate the highest revenue by 2026. Fortune Business Insights™ in its latest report published this information.",
@@ -1397,49 +1440,6 @@
         "Google AI",
         "AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2021-06-09-apptek-named-among-pure-play-vendors-targeting-best-of-breed-intelligence-in-new-now-tech-report-for-conversational-intelligence.md",
-      "title": "AppTek Named Among Pure-Play Vendors Targeting Best of Breed Intelligence in New Now Tech Report for Conversational Intelligence",
-      "excerpt": "Machine Learning (ML), Automatic Speech Recognition (ASR), Neural Machine Translation (NMT), Text-to-Speech (TTS) and Natural Language Processing / Understanding (NLP/U) technologies, today",
-      "sourceUrl": null,
-      "webUrl": "https://www.lelezard.com/en/news-19847777.html",
-      "originalUrl": "https://www.lelezard.com/en/news-19847777.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.lelezard.com/img/pr_sections/science-technology.jpg",
-          "width": 640,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-09T05:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Le Lézard",
-        "domain": "lelezard.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
       ]
     }
   ],

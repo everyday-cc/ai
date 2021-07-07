@@ -574,6 +574,49 @@
       ]
     },
     {
+      "path": "_news/2021-06-24-deepmind-wants-to-use-its-ai-to-cure-neglected-diseases.md",
+      "title": "DeepMind wants to use its AI to cure neglected diseases",
+      "excerpt": "In November 2020, Alphabet-owned AI firm DeepMind announced that it had cracked one of biology’s trickiest problems. For years the company had been working on an AI called AlphaFold that could ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.co.uk/article/deepmind-alphafold-protein-diseases?&utm_social-type=earned",
+      "originalUrl": "https://www.wired.co.uk/article/deepmind-alphafold-protein-diseases?&utm_social-type=earned",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.co.uk/photos/60d22392cbf316665cadeb09/16:9/w_1280,c_limit/GettyImages-1199508481.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-23T14:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired UK",
+        "domain": "wired.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-24-alphabets-deepmind-uses-ai-to-find-drugs-strategies-to-rare-diseases.md",
       "title": "Alphabet’s DeepMind uses AI to find drugs strategies to rare diseases",
       "excerpt": "Alphabet's DeepMind is going to use AI to find a solution for rare deadly parasitic diseases. In partnership with DNDi) DeepMind is going to tackle Chagas disease.",
@@ -1367,50 +1410,6 @@
         "AI",
         "Machine Learning",
         "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-11-intel-debates-buyout-of-sifive-to-bolster-chip-technology-against-arm.md",
-      "title": "Intel debates buyout of SiFive to bolster chip technology against ARM",
-      "excerpt": "Intel Corp is debating a possible offer to buy SiFive Inc, a person familiar with the matter told Reuters, a company closely associated with open-source technology that is challenging the rise of Intel's rival,",
-      "sourceUrl": null,
-      "webUrl": "https://indianexpress.com/article/technology/tech-news-technology/intel-debates-buyout-of-sifive-to-bolster-chip-technology-against-arm-7354276/",
-      "originalUrl": "https://indianexpress.com/article/technology/tech-news-technology/intel-debates-buyout-of-sifive-to-bolster-chip-technology-against-arm-7354276/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.indianexpress.com/2021/06/Intel_Reuters_1_NEW.jpg",
-          "width": 1200,
-          "height": 667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://indianexpress.com/article/technology/tech-news-technology/intel-debates-buyout-of-sifive-to-bolster-chip-technology-against-arm-7354276/lite/",
-      "cdnAmpWebUrl": "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/technology/tech-news-technology/intel-debates-buyout-of-sifive-to-bolster-chip-technology-against-arm-7354276/lite/",
-      "publishedDateTime": "2021-06-11T01:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Indian Express",
-        "domain": "indianexpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "AI Hardware"
       ]
     }
   ],

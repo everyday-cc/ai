@@ -27,14 +27,19 @@ images:
 
 related:
   - title: "CentralNic Establishes Dedicated Data and Artificial Intelligence Group to Leverage its Vast Data Assets, Headed by Leading Expert in Data Science"
-    excerpt: "CentralNic Group plc (AIM: CNIC), the fastest-growing company in the domain name industry, with over 45 million domains using its platforms, today announced that it has established a Data and Artificial Intelligence (\"AI\") Group to leverage its vast data sets."
-    publishedDateTime: 2021-07-07T06:17:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-centralnic-establishes-dedicated-data-artificial-intelligence-group-leverage-/2021/07/07/9403875.htm"
+    excerpt: "CentralNic Group plc (AIM: CNIC), the fastest-growing company in the domain name industry, with over 45 million domains using its platforms, today announced that it has established a Data and Artificial Intelligence (\"AI\") Group to leverage its"
+    publishedDateTime: 2021-07-07T06:21:00Z
+    webUrl: "https://www.lelezard.com/en/news-19889998.html"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
+      name: Le Lézard
+      domain: lelezard.com
+    quality: 1
+    images:
+      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
+        width: 640
+        height: 480
+        isCached: true
 
 secured: "MVpgN4sQeDH/N64eOMDNWoc3X8iy6ZGm+kABbtAs8pG6N68HWH7DNFg+hn/OxqpcX44UJg45cwtB+s98woupgNJRAcRERA4+p57jmDPkWFGuvap/TzPLCnz4ejh20H+QaI6pNxgvsFg2uA2D1Xq4Ehz+4IZvkDEDNb6UXhiHvDub2ldkKjgdyBjCLDeDkR4VSL8y1gVOPaV5GtGO8ZliCr1SjZ2yi0dLVASiWEr22sGpc4kH62+8gMY4lPmkSsOxwpF2PgSkWuKMhB5fjsyp+zJty+KYAD62ilOMAjn0MpWmDk5YMWQVbTCQBpHtGeyBGPLBoY6SP+JXuKRI0xTxgpQhCJW5tIXFXGT8+bxw+4Q=;vbZnBy0SVq4j2fcZMabryA=="
 ---

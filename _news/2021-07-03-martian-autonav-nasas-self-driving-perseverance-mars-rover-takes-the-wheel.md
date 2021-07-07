@@ -9,7 +9,7 @@ ampWebUrl: "https://scitechdaily.com/martian-autonav-nasas-self-driving-persever
 cdnAmpWebUrl: "https://scitechdaily-com.cdn.ampproject.org/c/s/scitechdaily.com/martian-autonav-nasas-self-driving-perseverance-mars-rover-takes-the-wheel/amp/"
 type: article
 quality: 40
-heat: -1
+heat: 40
 published: false
 
 provider:
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "NASA's self-driving Mars Rover begins search for signs of ancient life"
-    excerpt: "NASA's self-driving six-wheeled robot on Mars -- the Perseverance rover -- is set to start an epic journey across a crater floor to seek signs of ancient life, the US space agency said on Friday."
-    publishedDateTime: 2021-07-02T16:31:00Z
-    webUrl: "https://www.indiatvnews.com/science/nasa-mars-rover-begins-search-for-signs-of-ancient-life-716439"
-    ampWebUrl: "https://www.indiatvnews.com/amp/science/nasa-mars-rover-begins-search-for-signs-of-ancient-life-716439"
-    cdnAmpWebUrl: "https://www-indiatvnews-com.cdn.ampproject.org/c/s/www.indiatvnews.com/amp/science/nasa-mars-rover-begins-search-for-signs-of-ancient-life-716439"
-    type: article
-    provider:
-      name: India TV
-      domain: indiatvnews.com
-    quality: 44
-    images:
-      - url: "https://resize.indiatvnews.com/en/resize/newbucket/1200_-/2021/07/nasa-mars-1625237093.jpg"
-        width: 715
-        height: 402
-        isCached: true
   - title: "NASA’s Perseverance Rover Is Self-Driving On Mars With Enhanced Auto-Navigation System"
     excerpt: "NASA’s Perseverance rover is exploring the red planet with a new auto-navigation system that lets it drive by itself."
     publishedDateTime: 2021-07-05T08:36:00Z

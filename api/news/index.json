@@ -2,6 +2,196 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-07-07-ai-facial-recognition-co-anyvision-raises-235m.md",
+      "title": "AI facial recognition co AnyVision raises $235m",
+      "excerpt": "Israeli AI-driven facial recognition company AnyVision has announced the completion of a $235 million financing round from SoftBank Vision Fund 2 and Eldridge with participation from existing investors.",
+      "sourceUrl": null,
+      "webUrl": "https://en.globes.co.il/en/article-ai-facial-recognition-co-anyvision-raises-235m-1001377307",
+      "originalUrl": "https://en.globes.co.il/en/article-ai-facial-recognition-co-anyvision-raises-235m-1001377307",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.globes.co.il/images/NewGlobes/big_image_800/2020/3F27E375703F21D215C414440800BA8A_800x392.20200904T120738.jpg",
+          "width": 800,
+          "height": 392,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-07T02:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "globes.co.il",
+        "domain": "globes.co.il",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-07-the-man-behind-chinas-aggressive-new-voice.md",
+      "title": "The Man Behind China’s Aggressive New Voice",
+      "excerpt": "Pakistan was one of the first noncommunist countries to switch diplomatic recognition from the exiled government in ... Into that void stepped Zhao, who became the sole voice on all things C.P.E.C., both on Twitter and in more staid official communications.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2021/07/07/magazine/china-diplomacy-twitter.html",
+      "originalUrl": "https://www.nytimes.com/2021/07/07/magazine/china-diplomacy-twitter.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2021/07/11/magazine/11mag-wolfwarriers/11mag-wolfwarriers-facebookJumbo-v2.jpg",
+          "width": 1050,
+          "height": 549,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2021/07/07/magazine/china-diplomacy-twitter.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/07/07/magazine/china-diplomacy-twitter.amp.html",
+      "publishedDateTime": "2021-07-07T02:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-07-even-pro-golfers-have-turned-to-remote-learning.md",
+      "title": "Even Pro Golfers Have Turned to Remote Learning",
+      "excerpt": "With coaches and players forced to keep their distance because of the pandemic, perfecting the golf swing went virtual.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2021/07/07/sports/golf/golfers-remote-learning.html",
+      "originalUrl": "https://www.nytimes.com/2021/07/07/sports/golf/golfers-remote-learning.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2021/07/08/multimedia/08sp-scottish-coaching-inyt1/08sp-scottish-coaching-inyt1-videoSixteenByNine3000.jpg",
+          "width": 3000,
+          "height": 1687,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2021/07/07/sports/golf/golfers-remote-learning.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/07/07/sports/golf/golfers-remote-learning.amp.html",
+      "publishedDateTime": "2021-07-07T02:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-07-new-cheat-software-claims-to-work-on-any-console-via-machine-learning.md",
+      "title": "New cheat software claims to work on ‘any console’ via machine learning",
+      "excerpt": "A new piece of cheat software claims to utilise machine learning to allow players to use auto aim on “any console”. The software, which was highlighted by anti-cheat group ACPD, reportedly utilises PC passthrough via network streaming or a capture card to bypass console platform security.",
+      "sourceUrl": null,
+      "webUrl": "https://www.videogameschronicle.com/news/new-cheat-software-claims-to-work-on-any-console-via-machine-learning/",
+      "originalUrl": "https://www.videogameschronicle.com/news/new-cheat-software-claims-to-work-on-any-console-via-machine-learning/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.videogameschronicle.com/files/2020/12/Black-Ops-Cold-War-Warzone-Season-1-wwe.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.videogameschronicle.com/news/new-cheat-software-claims-to-work-on-any-console-via-machine-learning/amp/",
+      "cdnAmpWebUrl": "https://www-videogameschronicle-com.cdn.ampproject.org/c/s/www.videogameschronicle.com/news/new-cheat-software-claims-to-work-on-any-console-via-machine-learning/amp/",
+      "publishedDateTime": "2021-07-07T01:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Video Games Chronicle",
+        "domain": "videogameschronicle.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-07-australian-shares-rise-on-healthcare-tech-boost-challenger-shines.md",
       "title": "Australian shares rise on healthcare, tech boost; Challenger shines",
       "excerpt": "July 7 (Reuters) - Australian shares rose on Wednesday, lifted by the healthcare and technology sectors ... Buy-now-pay-later firm Afterpay advanced 1.4%, while artificial intelligence company Appen rose 2%. Gold stocks gained more than 1% as bullion ...",
@@ -41,6 +231,57 @@
       ],
       "topics": [
         "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-07-the-pentagon-scrubs-a-cloud-deal-and-looks-to-add-more-ai.md",
+      "title": "The Pentagon Scrubs a Cloud Deal and Looks to Add More AI",
+      "excerpt": "JEDI included support for AI projects, but the Pentagon’s acting chief information officer, John Sherman, said in a statement that the department’s need for algorithm-heavy infrastructure had grown still further. “Our landscape has advanced ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/pentagon-scrubs-cloud-deal-looks-add-ai/",
+      "originalUrl": "https://www.wired.com/story/pentagon-scrubs-cloud-deal-looks-add-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/60e4a8f33082cb0dcce32ba5/master/pass/Business-Pentagon-JEDI-Contract-1223814797.jpg",
+          "width": 2400,
+          "height": 1600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/pentagon-scrubs-cloud-deal-looks-add-ai/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/pentagon-scrubs-cloud-deal-looks-add-ai/amp",
+      "publishedDateTime": "2021-07-06T21:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
         "AI"
       ]
     },
@@ -743,7 +984,7 @@
       "originalUrl": "https://www.itpro.co.uk/technology/machine-learning/360102/federated-learning-and-the-future-of-ml",
       "featuredContent": null,
       "highlight": null,
-      "heat": 111,
+      "heat": 101,
       "tags": null,
       "images": [
         {
@@ -785,6 +1026,57 @@
         "AI in Finance",
         "AI",
         "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-07-06-this-ai-publicly-shames-politicians-but-dont-laugh-just-yet.md",
+      "title": "This AI publicly shames politicians, but don’t laugh just yet",
+      "excerpt": "An AI project that publicly shames politicians using phones during government meetings provides a warning to us all about surveillance creep.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/news/ai-automatically-publicly-shames-distracted-belgian-politicians-the-flemish-scrollers-surveillance-creep",
+      "originalUrl": "https://thenextweb.com/news/ai-automatically-publicly-shames-distracted-belgian-politicians-the-flemish-scrollers-surveillance-creep",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F07%2FUntitled-design.jpg&signature=ef95836659ba1aaf0ab2508cbf1fb541",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-06T03:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
       ]
     },
     {
@@ -931,291 +1223,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-06-4-stocks-to-make-the-most-of-surging-demand-for-ai.md",
-      "title": "4 Stocks to Make the Most of Surging Demand for AI",
-      "excerpt": "Notably, one of the major areas where AI is being used considerably is e-commerce. With the help of AI, companies are offering personalized recommendations to their customers on their e-commerce websites or mobile apps,",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/4-stocks-to-make-the-most-of-surging-demand-for-ai-2021-07-06",
-      "originalUrl": "https://www.nasdaq.com/articles/4-stocks-to-make-the-most-of-surging-demand-for-ai-2021-07-06",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/4-stocks-to-make-the-most-of-surging-demand-for-ai-2021-07-06?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/4-stocks-to-make-the-most-of-surging-demand-for-ai-2021-07-06?amp",
-      "publishedDateTime": "2021-07-06T02:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-06-conversational-ai-vs-chatbots-whats-the-difference.md",
-      "title": "Conversational AI Vs Chatbots: What's the Difference?",
-      "excerpt": "Both chatbots and conversational AI chatbots focus on offering the customer better assistance and helping the business reduce the cost",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/article/376480",
-      "originalUrl": "https://www.entrepreneur.com/article/376480",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/1625559744-artificial-intelligence-3382507-19205.jpg?width=600&crop=16:9",
-          "width": 600,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.entrepreneur.com/amphtml/376480",
-      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/376480",
-      "publishedDateTime": "2021-07-06T01:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-06-artificial-intelligence-in-healthcare-market-size-share-value-and-competitive-landscape-2021-2026.md",
-      "title": "Artificial Intelligence in Healthcare market Size, Share, Value, And Competitive Landscape 2021-2026",
-      "excerpt": "Artificial intelligence (AI) is the collection of computer programs or algorithms or software to make machines smarter",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-size-share-value-and-competitive-landscape-2021-2026-2021-07-06",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-size-share-value-and-competitive-landscape-2021-2026-2021-07-06",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 139,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-06T00:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-06-best-microsoft-technical-certifications-the-top-exams-to-take-for-2021.md",
-      "title": "Best Microsoft technical certifications: The top exams to take for 2021",
-      "excerpt": "ZDNet has compiled a collection of the best Microsoft certifications that will protect your job and boost your income as we head toward 2022 in a business world that is speeding towards digital transformation.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/index.php/category/2381/index.php/article/microsoft-technical-certifications-the-top-exams-to-take-for-2021/",
-      "originalUrl": "https://www.zdnet.com/index.php/category/2381/index.php/article/microsoft-technical-certifications-the-top-exams-to-take-for-2021/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/hub/i/2021/06/23/17d8ed20-1299-443d-8153-846622179896/msft-azure.jpg",
-          "width": 1600,
-          "height": 1069,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/index.php/category/2381/index.php/google-amp/article/best-microsoft-technical-certification/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2381/index.php/google-amp/article/best-microsoft-technical-certification/",
-      "publishedDateTime": "2021-07-05T23:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-06-artificial-intelligence-in-healthcare-market-with-impact-of-covid-19-global-demand-analysis-and-opportunity-outlook-2030.md",
-      "title": "Artificial Intelligence In Healthcare Market With Impact of COVID-19 Global Demand Analysis And Opportunity Outlook 2030",
-      "excerpt": "In a recent published report, Kenneth Research has updated the market report for Artificial Intelligence In Healthcare Market for 2021 till 2030. Report further now discusses; the various strategies to be adopted or being adopted by the business players across the globe at various levels in the value chain.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-with-impact-of-covid-19-global-demand-analysis-and-opportunity-outlook-2030-2021-07-06",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-with-impact-of-covid-19-global-demand-analysis-and-opportunity-outlook-2030-2021-07-06",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-05T21:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-06-aiims-raipur-organizes-seminar-on-artificial-intelligence-in-healthcare.md",
-      "title": "AIIMS Raipur organizes seminar on Artificial Intelligence in healthcare",
-      "excerpt": "Professor Nitin M Nagarkar, AIIMS Raipur director, termed Artificial Intelligence (AI) as a transformative technology for medical professionals, as well as a collaborative area for IT and",
-      "sourceUrl": null,
-      "webUrl": "https://medicaldialogues.in/news/health/hospital-diagnostics/aiims-raipur-organizes-seminar-on-artificial-intelligence-in-healthcare-79439",
-      "originalUrl": "https://medicaldialogues.in/news/health/hospital-diagnostics/aiims-raipur-organizes-seminar-on-artificial-intelligence-in-healthcare-79439",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://medicaldialogues.in/h-upload/2020/12/02/143273-124747-aiims-raipur.jpg",
-          "width": 1500,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://medicaldialogues.in/amp/news/health/hospital-diagnostics/aiims-raipur-organizes-seminar-on-artificial-intelligence-in-healthcare-79439",
-      "cdnAmpWebUrl": "https://medicaldialogues-in.cdn.ampproject.org/c/s/medicaldialogues.in/amp/news/health/hospital-diagnostics/aiims-raipur-organizes-seminar-on-artificial-intelligence-in-healthcare-79439",
-      "publishedDateTime": "2021-07-05T21:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Daily",
-        "domain": "medicaldialogues.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }

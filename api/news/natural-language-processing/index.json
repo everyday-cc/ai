@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-07-07-the-man-behind-chinas-aggressive-new-voice.md",
+      "title": "The Man Behind China’s Aggressive New Voice",
+      "excerpt": "Pakistan was one of the first noncommunist countries to switch diplomatic recognition from the exiled government in ... Into that void stepped Zhao, who became the sole voice on all things C.P.E.C., both on Twitter and in more staid official communications.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2021/07/07/magazine/china-diplomacy-twitter.html",
+      "originalUrl": "https://www.nytimes.com/2021/07/07/magazine/china-diplomacy-twitter.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2021/07/11/magazine/11mag-wolfwarriers/11mag-wolfwarriers-facebookJumbo-v2.jpg",
+          "width": 1050,
+          "height": 549,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2021/07/07/magazine/china-diplomacy-twitter.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/07/07/magazine/china-diplomacy-twitter.amp.html",
+      "publishedDateTime": "2021-07-07T02:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-07-what-openai-and-githubs-ai-pair-programmer-means-for-the-software-industry.md",
       "title": "What OpenAI and GitHub’s ‘AI pair programmer’ means for the software industry",
       "excerpt": "GitHub's Copilot, AI-powered programming built on top of GPT-3, hints at the business of large language models.",
@@ -1455,49 +1507,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-22-natural-language-processing-tech-startup-primer-raises-110-million.md",
-      "title": "Natural Language Processing Tech Startup Primer Raises $110 Million",
-      "excerpt": "Primer, a San Francisco-based startup that offers a natural language processing platform used by U.S. national security agencies and others, on Tuesday said it raised $110 million in its latest funding round.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usnews.com/news/technology/articles/2021-06-22/natural-language-processing-tech-startup-primer-raises-110-million",
-      "originalUrl": "https://www.usnews.com/news/technology/articles/2021-06-22/natural-language-processing-tech-startup-primer-raises-110-million",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-22T03:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "U.S. News & World Report",
-        "domain": "usnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

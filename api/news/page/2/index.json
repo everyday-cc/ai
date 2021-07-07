@@ -2,6 +2,291 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-07-06-4-stocks-to-make-the-most-of-surging-demand-for-ai.md",
+      "title": "4 Stocks to Make the Most of Surging Demand for AI",
+      "excerpt": "Notably, one of the major areas where AI is being used considerably is e-commerce. With the help of AI, companies are offering personalized recommendations to their customers on their e-commerce websites or mobile apps,",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/4-stocks-to-make-the-most-of-surging-demand-for-ai-2021-07-06",
+      "originalUrl": "https://www.nasdaq.com/articles/4-stocks-to-make-the-most-of-surging-demand-for-ai-2021-07-06",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/4-stocks-to-make-the-most-of-surging-demand-for-ai-2021-07-06?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/4-stocks-to-make-the-most-of-surging-demand-for-ai-2021-07-06?amp",
+      "publishedDateTime": "2021-07-06T02:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-06-conversational-ai-vs-chatbots-whats-the-difference.md",
+      "title": "Conversational AI Vs Chatbots: What's the Difference?",
+      "excerpt": "Both chatbots and conversational AI chatbots focus on offering the customer better assistance and helping the business reduce the cost",
+      "sourceUrl": null,
+      "webUrl": "https://www.entrepreneur.com/article/376480",
+      "originalUrl": "https://www.entrepreneur.com/article/376480",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/1625559744-artificial-intelligence-3382507-19205.jpg?width=600&crop=16:9",
+          "width": 600,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.entrepreneur.com/amphtml/376480",
+      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/376480",
+      "publishedDateTime": "2021-07-06T01:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-06-artificial-intelligence-in-healthcare-market-size-share-value-and-competitive-landscape-2021-2026.md",
+      "title": "Artificial Intelligence in Healthcare market Size, Share, Value, And Competitive Landscape 2021-2026",
+      "excerpt": "Artificial intelligence (AI) is the collection of computer programs or algorithms or software to make machines smarter",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-size-share-value-and-competitive-landscape-2021-2026-2021-07-06",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-size-share-value-and-competitive-landscape-2021-2026-2021-07-06",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 139,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-06T00:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-06-best-microsoft-technical-certifications-the-top-exams-to-take-for-2021.md",
+      "title": "Best Microsoft technical certifications: The top exams to take for 2021",
+      "excerpt": "ZDNet has compiled a collection of the best Microsoft certifications that will protect your job and boost your income as we head toward 2022 in a business world that is speeding towards digital transformation.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/index.php/category/2381/index.php/article/microsoft-technical-certifications-the-top-exams-to-take-for-2021/",
+      "originalUrl": "https://www.zdnet.com/index.php/category/2381/index.php/article/microsoft-technical-certifications-the-top-exams-to-take-for-2021/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/hub/i/2021/06/23/17d8ed20-1299-443d-8153-846622179896/msft-azure.jpg",
+          "width": 1600,
+          "height": 1069,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/index.php/category/2381/index.php/google-amp/article/best-microsoft-technical-certification/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2381/index.php/google-amp/article/best-microsoft-technical-certification/",
+      "publishedDateTime": "2021-07-05T23:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-06-artificial-intelligence-in-healthcare-market-with-impact-of-covid-19-global-demand-analysis-and-opportunity-outlook-2030.md",
+      "title": "Artificial Intelligence In Healthcare Market With Impact of COVID-19 Global Demand Analysis And Opportunity Outlook 2030",
+      "excerpt": "In a recent published report, Kenneth Research has updated the market report for Artificial Intelligence In Healthcare Market for 2021 till 2030. Report further now discusses; the various strategies to be adopted or being adopted by the business players across the globe at various levels in the value chain.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-with-impact-of-covid-19-global-demand-analysis-and-opportunity-outlook-2030-2021-07-06",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-with-impact-of-covid-19-global-demand-analysis-and-opportunity-outlook-2030-2021-07-06",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-05T21:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-06-aiims-raipur-organizes-seminar-on-artificial-intelligence-in-healthcare.md",
+      "title": "AIIMS Raipur organizes seminar on Artificial Intelligence in healthcare",
+      "excerpt": "Professor Nitin M Nagarkar, AIIMS Raipur director, termed Artificial Intelligence (AI) as a transformative technology for medical professionals, as well as a collaborative area for IT and",
+      "sourceUrl": null,
+      "webUrl": "https://medicaldialogues.in/news/health/hospital-diagnostics/aiims-raipur-organizes-seminar-on-artificial-intelligence-in-healthcare-79439",
+      "originalUrl": "https://medicaldialogues.in/news/health/hospital-diagnostics/aiims-raipur-organizes-seminar-on-artificial-intelligence-in-healthcare-79439",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://medicaldialogues.in/h-upload/2020/12/02/143273-124747-aiims-raipur.jpg",
+          "width": 1500,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://medicaldialogues.in/amp/news/health/hospital-diagnostics/aiims-raipur-organizes-seminar-on-artificial-intelligence-in-healthcare-79439",
+      "cdnAmpWebUrl": "https://medicaldialogues-in.cdn.ampproject.org/c/s/medicaldialogues.in/amp/news/health/hospital-diagnostics/aiims-raipur-organizes-seminar-on-artificial-intelligence-in-healthcare-79439",
+      "publishedDateTime": "2021-07-05T21:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Daily",
+        "domain": "medicaldialogues.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-06-technology-and-ai-for-humanitarian-action-are-the-need-of-the-hour.md",
       "title": "Technology and AI for humanitarian action are the need of the hour",
       "excerpt": "With the technology available to us, much more can be done to reduce losses from natural disasters, to make ourselves safer, and to make the world mor..",
@@ -450,7 +735,7 @@
       "originalUrl": "https://www.finextra.com/pressarticle/88425/student-finance-fintech-raises-11m-in-funding",
       "featuredContent": null,
       "highlight": null,
-      "heat": 164,
+      "heat": 154,
       "tags": null,
       "images": [
         {
@@ -916,302 +1201,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-04-the-lessons-we-learn-from-self-driving-will-drive-our-robotics-future.md",
-      "title": "The lessons we learn from self-driving will drive our robotics future",
-      "excerpt": "Robotics is entering an exponential growth phase. There are increasingly new and diverse applications for robots, both the inspiring and the mundane. Just within the context of the COVID-19 pandemic response,",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/07/04/the-lessons-we-learn-from-self-driving-will-drive-our-robotics-future/",
-      "originalUrl": "https://venturebeat.com/2021/07/04/the-lessons-we-learn-from-self-driving-will-drive-our-robotics-future/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/07/GettyImages-1231721374.jpg?w=1200&strip=all",
-          "width": 1024,
-          "height": 706,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/07/04/the-lessons-we-learn-from-self-driving-will-drive-our-robotics-future/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/04/the-lessons-we-learn-from-self-driving-will-drive-our-robotics-future/amp/",
-      "publishedDateTime": "2021-07-04T06:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-07-04-the-future-of-the-ai-based-enterprise.md",
-      "title": "The future of the AI-based enterprise",
-      "excerpt": "Imagine an enterprise like a living organism that will naturally adapt based on the environment. Its products and services, will grow, shrink, defend, and heal themselves as needed. This is the future of the AI -based enterprise.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techradar.com/news/the-future-of-the-ai-based-enterprise",
-      "originalUrl": "https://www.techradar.com/news/the-future-of-the-ai-based-enterprise",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 139,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/Wcc69A4Ts8bhSbGgJeGkoZ-480-80.jpg",
-          "width": 480,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techradar.com/amp/news/the-future-of-the-ai-based-enterprise",
-      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/the-future-of-the-ai-based-enterprise",
-      "publishedDateTime": "2021-07-04T03:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2021-07-04-healthcare-an-ideal-jumping-off-point-for-artificial-intelligence-president-of-mbzuai.md",
-      "title": "Healthcare an ideal jumping-off point for Artificial Intelligence: President of MBZUAI",
-      "excerpt": "ABU DHABI - Professor Eric Xing, President of the Mohamed bin Zayed University of Artificial Intelligence (MBZUAI), has said that healthcare is an \"ideal jumping-off point for Artificial Intelligence (AI) because it generates so much data\".",
-      "sourceUrl": null,
-      "webUrl": "https://www.zawya.com/mena/en/business/story/Healthcare_an_ideal_jumpingoff_point_for_Artificial_Intelligence_President_of_MBZUAI-WAM20210704091733273/",
-      "originalUrl": "https://www.zawya.com/mena/en/business/story/Healthcare_an_ideal_jumpingoff_point_for_Artificial_Intelligence_President_of_MBZUAI-WAM20210704091733273/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.zawya.com/images/cia/zAmp/210624063038PGNY.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zawya.com/mena/en/story/amp/WAM20210704091733273/",
-      "cdnAmpWebUrl": "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/WAM20210704091733273/",
-      "publishedDateTime": "2021-07-04T02:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Zawya",
-        "domain": "zawya.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-04-ai-powered-therapy-bots-at-workplace-for-employees-during-covid-pandemic.md",
-      "title": "AI-powered therapy bots at workplace for employees during Covid pandemic",
-      "excerpt": "AI is better than humans at providing support, according to a study undertaken by Workplace Intelligence.  The future of work will be influenced by the past. Last year’s virus invasion changed everything for the workforce.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newindianexpress.com/magazine/2021/jul/04/ai-powered-therapy-bots-at-workplace-for-employees-during-covid-pandemic-2324136.html",
-      "originalUrl": "https://www.newindianexpress.com/magazine/2021/jul/04/ai-powered-therapy-bots-at-workplace-for-employees-during-covid-pandemic-2324136.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.newindianexpress.com/uploads/user/imagelibrary/2021/7/3/w600X390/robot.jpg",
-          "width": 600,
-          "height": 390,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newindianexpress.com/magazine/2021/jul/04/ai-powered-therapy-bots-at-workplace-for-employees-during-covid-pandemic-2324136.amp",
-      "cdnAmpWebUrl": "https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/magazine/2021/jul/04/ai-powered-therapy-bots-at-workplace-for-employees-during-covid-pandemic-2324136.amp",
-      "publishedDateTime": "2021-07-03T16:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The New Indian Express",
-        "domain": "newindianexpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-07-04-tesla-ai-chief-explains-why-self-driving-cars-dont-need-lidar.md",
-      "title": "Tesla AI chief explains why self-driving cars don’t need lidar",
-      "excerpt": "Tesla also owns and builds the AI chips installed inside its cars. “These chips are specifically designed for the neural networks we want to run for [full self-driving] applications,” Karpathy ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/07/03/tesla-ai-chief-explains-why-self-driving-cars-dont-need-lidar/",
-      "originalUrl": "https://venturebeat.com/2021/07/03/tesla-ai-chief-explains-why-self-driving-cars-dont-need-lidar/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 126,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/02/tesla-model-3-silver-prototype-promo-shot-headlands-e1625177292725.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 602,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/07/03/tesla-ai-chief-explains-why-self-driving-cars-dont-need-lidar/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/03/tesla-ai-chief-explains-why-self-driving-cars-dont-need-lidar/amp/",
-      "publishedDateTime": "2021-07-03T10:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2021-07-03-lidar-is-the-gold-standard-of-robot-vacuum-navigation-but-its-not-perfect.md",
-      "title": "Lidar is the gold standard of robot vacuum navigation, but it’s not perfect",
-      "excerpt": "Today's robot vacuums offer intelligent navigation courtesy of lidar tech. But despite being the gold standard of robot vacuum navigation, it's not perfect.",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaltrends.com/home/lidar-gold-standard-robot-vacuum-navigation/",
-      "originalUrl": "https://www.digitaltrends.com/home/lidar-gold-standard-robot-vacuum-navigation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://icdn.digitaltrends.com/image/digitaltrends/360-robot-vacuum-cleaner-s10-4-of-8.jpg",
-          "width": 1500,
-          "height": 1000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.digitaltrends.com/home/lidar-gold-standard-robot-vacuum-navigation/?amp",
-      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/home/lidar-gold-standard-robot-vacuum-navigation/?amp",
-      "publishedDateTime": "2021-07-03T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Trends",
-        "domain": "digitaltrends.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

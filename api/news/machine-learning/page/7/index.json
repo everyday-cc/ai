@@ -2,6 +2,137 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2021-05-18-softserve-achieves-aws-machine-learning-competency.md",
+      "title": "SoftServe Achieves AWS Machine Learning Competency",
+      "excerpt": "SoftServe, a leading digital authority and consulting company and an Amazon Web Services (AWS) Premier Consulting Partner, has achieved the AWS Machine Learning Competency. AWS Machine Learning Competency Partners have demonstrated expertise in delivering machine learning (ML) solutions on the AWS Cloud.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesswire.com/news/home/20210518005007/en/SoftServe-Achieves-AWS-Machine-Learning-Competency",
+      "originalUrl": "https://www.businesswire.com/news/home/20210518005007/en/SoftServe-Achieves-AWS-Machine-Learning-Competency",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-18T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-18-machine-learning-ai-accurately-predicts-cardiac-arrest-risk.md",
+      "title": "Machine learning (AI) accurately predicts cardiac arrest risk",
+      "excerpt": "A branch of artificial intelligence (AI), called machine learning, can accurately predict the risk of an out of hospital cardiac arrest—when the heart suddenly stops beating—using a combination of timing and weather data,",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/news/2021-05-machine-ai-accurately-cardiac.html",
+      "originalUrl": "https://medicalxpress.com/news/2021-05-machine-ai-accurately-cardiac.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2019/2-cardiac.jpg",
+          "width": 1920,
+          "height": 1285,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://medicalxpress.com/news/2021-05-machine-ai-accurately-cardiac.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-05-machine-ai-accurately-cardiac.amp",
+      "publishedDateTime": "2021-05-18T00:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-18-google-vertex-ai-unifies-cloud-machine-learning-toolkit.md",
+      "title": "Google Vertex AI unifies cloud machine learning toolkit",
+      "excerpt": "Vertex AI brings together all of the Google Cloud services for building machine learning under one unified UI and API.",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3619215/google-vertex-ai-unifies-cloud-machine-learning-toolkit.html",
+      "originalUrl": "https://www.infoworld.com/article/3619215/google-vertex-ai-unifies-cloud-machine-learning-toolkit.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 164,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2018/06/knowledge_wisdom_learning_ideas_data_thoughts_thinking_mind_brain_intelligence_expertise_education_brainstorm_creativity_innovation_brain_drain_1_by_erhui1979_getty_images_1200x800-100761229-large.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3619215/google-vertex-ai-unifies-cloud-machine-learning-toolkit.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3619215/google-vertex-ai-unifies-cloud-machine-learning-toolkit.amp.html",
+      "publishedDateTime": "2021-05-17T21:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-18-machine-learning-ide-in-alpha.md",
       "title": "Machine Learning IDE In Alpha",
       "excerpt": "Machine is an IDE for building machine learning systems using TensorFlow. You can sign up for the alpha, but first, have a look at the video below to see what it is all about. You’ll see in the ...",
@@ -1260,145 +1391,6 @@
         "Computer Vision",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-05-11-global-machine-learning-market-2021-trend-and-opportunities-pestel-analysis-cagr-and-value-chain-study-to-2026.md",
-      "title": "Global Machine Learning Market 2021 Trend and Opportunities, PESTEL Analysis, CAGR and Value Chain Study to 2026",
-      "excerpt": "Global Machine Learning Market 2021 by Company, Regions, Type and Application, Forecast to 2026 is the recent market study developed by MarketsandResearch.biz that contains a comprehensive assessment on market estimation based on historical data analysis.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/global-machine-learning-market-2021-trend-and-opportunities-pestel-analysis-cagr-and-value-chain-study-to-2026-2021-05-10",
-      "originalUrl": "https://www.marketwatch.com/press-release/global-machine-learning-market-2021-trend-and-opportunities-pestel-analysis-cagr-and-value-chain-study-to-2026-2021-05-10",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 195,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-10T15:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-05-11-3-ways-you-can-start-relying-on-deep-learning.md",
-      "title": "3 Ways You Can Start Relying on Deep Learning",
-      "excerpt": "Nevertheless, they still can exhibit the equivalent of old-fashioned “gut instinct” thanks to deep learning. They may even develop the ability for self-awareness through art. Deep learning ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/article/370549",
-      "originalUrl": "https://www.entrepreneur.com/article/370549",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.entrepreneur.com/amphtml/370549",
-      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/370549",
-      "publishedDateTime": "2021-05-10T12:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-10-sensiml-launches-open-source-initiative-to-drive-tinyml-implementations-for-smart-iot-applications.md",
-      "title": "SensiML Launches Open Source Initiative to Drive TinyML Implementations for Smart IoT Applications",
-      "excerpt": "SensiML ™ Corporation, a leading developer of AI tools for building intelligent Internet of Things (IoT) endpoints, today announced that it has launched an Open Source Initiative to accelerate the adoption of TinyML smart sensing IoT applications.",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/2021/05/10/9365009.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/2021/05/10/9365009.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1506334/OPEN_SOURCE_SensiML_PRR1_FINAL.jpg",
-          "width": 400,
-          "height": 225,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-10T05:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

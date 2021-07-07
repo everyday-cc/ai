@@ -386,24 +386,33 @@
     {
       "path": "_news/2021-06-24-ibm-watson-advertising-announces-new-research-to-explore-the-role-of-ai-in-detecting-and-mitigating-bias-in-advertising.md",
       "title": "IBM Watson Advertising Announces New Research to Explore the Role of AI in Detecting and Mitigating Bias in Advertising",
-      "excerpt": "IBM Watson Advertising today announced a research initiative that will apply open-source AI technology, developed by IBM, to better understand how prevalent unwanted bias is in advertising, while simultaneously laying the foundation for potential mitigation.",
+      "excerpt": "2021 /PRNewswire/ -- IBM Watson Advertising (NYSE: IBM) today announced a research initiative that will apply open-source AI technology, developed by IBM, to better understand how prevalent ...",
       "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/press-release/ibm-watson-advertising-announces-new-research-to-explore-the-role-of-ai-in-detecting",
-      "originalUrl": "https://www.nasdaq.com/press-release/ibm-watson-advertising-announces-new-research-to-explore-the-role-of-ai-in-detecting",
+      "webUrl": "https://www.prnewswire.com/news-releases/ibm-watson-advertising-announces-new-research-to-explore-the-role-of-ai-in-detecting-and-mitigating-bias-in-advertising-301319170.html",
+      "originalUrl": "https://www.prnewswire.com/news-releases/ibm-watson-advertising-announces-new-research-to-explore-the-role-of-ai-in-detecting-and-mitigating-bias-in-advertising-301319170.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/95470/ibm_logo.jpg?p=facebook",
+          "width": 2698,
+          "height": 1414,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-24T04:00:00-07:00",
+      "publishedDateTime": "2021-06-24T05:20:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
+        "name": "PR Newswire",
+        "domain": "prnewswire.com",
         "images": null,
         "publishers": null,
         "authors": null

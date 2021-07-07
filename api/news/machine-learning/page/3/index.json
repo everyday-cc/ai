@@ -2,6 +2,147 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-06-18-neural-network-captures-noisy-neurons-in-autism-mouse-model.md",
+      "title": "Neural network captures noisy neurons in autism mouse model",
+      "excerpt": "Mice missing the autism-linked gene SHANK3 use more neurons to engage in social behavior than control mice do, reflecting a more disorganized, less efficient brain signaling network.",
+      "sourceUrl": null,
+      "webUrl": "https://www.spectrumnews.org/news/neural-network-captures-noisy-neurons-in-autism-mouse-model/",
+      "originalUrl": "https://www.spectrumnews.org/news/neural-network-captures-noisy-neurons-in-autism-mouse-model/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://spectrumnews-web-assets.s3.amazonaws.com/wp-content/uploads/2021/06/17122732/20210610-PrefrontalCortex1120-1120x550.jpg",
+          "width": 1120,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.spectrumnews.org/news/neural-network-captures-noisy-neurons-in-autism-mouse-model/amp",
+      "cdnAmpWebUrl": "https://www-spectrumnews-org.cdn.ampproject.org/c/s/www.spectrumnews.org/news/neural-network-captures-noisy-neurons-in-autism-mouse-model/amp",
+      "publishedDateTime": "2021-06-18T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Spectrum",
+        "domain": "spectrumnews.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-18-seeq-expands-machine-learning-features-for-process-engineering-and-data-science-integration.md",
+      "title": "Seeq Expands Machine Learning Features for Process Engineering and Data Science Integration",
+      "excerpt": "Seeq Corporation, a leader in manufacturing and Industrial Internet of Things (IIoT) advanced analytics software, announces the release of R52 with new features to support the use of machine learning innovation in process manufacturing organizations.",
+      "sourceUrl": null,
+      "webUrl": "https://www.dcvelocity.com/articles/51419-seeq-expands-machine-learning-features-for-process-engineering-and-data-science-integration",
+      "originalUrl": "https://www.dcvelocity.com/articles/51419-seeq-expands-machine-learning-features-for-process-engineering-and-data-science-integration",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.dcvelocity.com/ext/resources/user-submissions/articles/b8f649a1-8c12-437c-96b9-98f08dcc904e.png?height=635&t=1623998638&width=1200",
+          "width": 600,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-17T10:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "DC Velocity",
+        "domain": "dcvelocity.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Machine Learning",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-17-build-xgboost-models-with-amazon-redshift-ml.md",
+      "title": "Build XGBoost models with Amazon Redshift ML",
+      "excerpt": "Amazon Redshift ML allows data analysts, developers, and data scientists to train machine learning (ML) models using SQL. In previous posts, we demonstrated how customers can use the automatic model training capability of Amazon Redshift to train their classification and regression models. Redshift ML",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/build-xgboost-models-with-amazon-redshift-ml/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/build-xgboost-models-with-amazon-redshift-ml/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png",
+          "width": 768,
+          "height": 385,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-17T09:34:24-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-06-17-deep-reinforcement-learning-will-transform-manufacturing-as-we-know-it.md",
       "title": "Deep reinforcement learning will transform manufacturing as we know it",
       "excerpt": "Reinforcement learning and simulation are essential to solving the constraints and novel challenges that take place in factories and supply chains.",
@@ -1219,136 +1360,6 @@
       "provider": {
         "name": "EurekAlert!",
         "domain": "eurekalert.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-08-prepare-data-from-snowflake-for-machine-learning-with-amazon-sagemaker-data-wrangler.md",
-      "title": "Prepare data from Snowflake for machine learning with Amazon SageMaker Data Wrangler",
-      "excerpt": "Data preparation remains a major challenge in the machine learning (ML) space. Data scientists and engineers need to write queries and code to get data from source data stores, and then write the queries to transform this data, to create features to be used in model development and training. All of this",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/prepare-data-from-snowflake-for-machine-learning-with-amazon-sagemaker-data-wrangler/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/prepare-data-from-snowflake-for-machine-learning-with-amazon-sagemaker-data-wrangler/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/06/08/22-4153-menu_1.jpg",
-          "width": 700,
-          "height": 425,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-08T09:12:16-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-06-08-databricks-unites-data-and-machine-learning-teams-with-launch-of-databricks-machine-learning.md",
-      "title": "Databricks Unites Data and Machine Learning Teams with Launch of Databricks Machine Learning",
-      "excerpt": "Databricks Machine Learning also includes two new capabilities: Databricks AutoML to augment the machine learning process by automating all of the tedious steps that data scientists today have to ...",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/databricks-unites-data-and-machine-learning-teams-with-launch-of-databricks-machine-learning-1030472355",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/databricks-unites-data-and-machine-learning-teams-with-launch-of-databricks-machine-learning-1030472355",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-07T10:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-07-modelling-perception-with-artificial-neural-networks.md",
-      "title": "Modelling Perception with Artificial Neural Networks",
-      "excerpt": "The drive behind this change has been the increasing availability of neural network models. With contributions from experts in the field, this book provides a complete survey of artificial neural networks. The book opens with two broad, introductory level ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cambridge.org/vi/academic/subjects/life-sciences/neuroscience/modelling-perception-artificial-neural-networks?format=HB&isbn=9780521763950",
-      "originalUrl": "https://www.cambridge.org/vi/academic/subjects/life-sciences/neuroscience/modelling-perception-artificial-neural-networks?format=HB&isbn=9780521763950",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-07T05:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Cambridge University Press",
-        "domain": "cambridge.org",
         "images": null,
         "publishers": null,
         "authors": null
