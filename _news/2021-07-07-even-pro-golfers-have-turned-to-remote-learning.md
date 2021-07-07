@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nytimes.com/2021/07/07/sports/golf/golfers-remote-learni
 cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/07/07/sports/golf/golfers-remote-learning.amp.html"
 type: article
 quality: 74
-heat: 74
+heat: 75
 published: true
 
 provider:

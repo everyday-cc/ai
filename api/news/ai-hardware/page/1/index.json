@@ -10,7 +10,7 @@
       "originalUrl": "https://venturebeat.com/2021/07/07/ibms-codeflare-automates-ai-model-development/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 101,
+      "heat": 103,
       "tags": null,
       "images": [
         {
@@ -51,7 +51,8 @@
       "topics": [
         "Microsoft AI",
         "AI",
-        "AI Hardware"
+        "AI Hardware",
+        "AWS AI"
       ]
     },
     {
@@ -63,7 +64,7 @@
       "originalUrl": "https://www.digitaltrends.com/mobile/oneplus-nord-2-5g-mediatek-dimensity-1200-news/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 138,
+      "heat": 158,
       "tags": null,
       "images": [
         {
@@ -109,10 +110,10 @@
     {
       "path": "_news/2021-07-07-xbox-series-x-games-might-look-even-better-soon-thanks-to-ai-upscaling.md",
       "title": "Xbox Series X games might look even better soon thanks to AI upscaling",
-      "excerpt": "Most often, people will think of DLSS when it comes to AI upscaling. DLSS stands for Deep Learning Super Sampling and is a feature found in Nvidia RTX graphics cards. When you need a framerate boost, the GPU starts producing a lower quality image that’s ...",
+      "excerpt": "They teased the return of the Fable franchise from developer Playground Games, and now might have just revealed Microsoft’s answer to AI-based graphical upscaling like Nvidia's DLSS but for Xbox Series X.",
       "sourceUrl": null,
-      "webUrl": "https://www.techradar.com/news/xbox-series-x-games-might-look-even-better-soon-thanks-to-ai-upscaling",
-      "originalUrl": "https://www.techradar.com/news/xbox-series-x-games-might-look-even-better-soon-thanks-to-ai-upscaling",
+      "webUrl": "https://www.techradar.com/nz/news/xbox-series-x-games-might-look-even-better-soon-thanks-to-ai-upscaling",
+      "originalUrl": "https://www.techradar.com/nz/news/xbox-series-x-games-might-look-even-better-soon-thanks-to-ai-upscaling",
       "featuredContent": null,
       "highlight": null,
       "heat": 89,
@@ -129,9 +130,9 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.techradar.com/amp/news/xbox-series-x-games-might-look-even-better-soon-thanks-to-ai-upscaling",
-      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/xbox-series-x-games-might-look-even-better-soon-thanks-to-ai-upscaling",
-      "publishedDateTime": "2021-07-07T04:07:00-07:00",
+      "ampWebUrl": "https://www.techradar.com/nz/amp/news/xbox-series-x-games-might-look-even-better-soon-thanks-to-ai-upscaling",
+      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/nz/amp/news/xbox-series-x-games-might-look-even-better-soon-thanks-to-ai-upscaling",
+      "publishedDateTime": "2021-07-07T04:04:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "TechRadar",

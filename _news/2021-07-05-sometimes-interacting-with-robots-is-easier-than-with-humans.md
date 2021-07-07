@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techrepublic.com/google-amp/article/sometimes-interactin
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/sometimes-interacting-with-robots-is-easier-than-with-humans/"
 type: article
 quality: 89
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -29,6 +29,22 @@ images:
     width: 1200
     height: 903
     isCached: true
+
+related:
+  - title: "Better gripping with intelligent picking robots"
+    excerpt: "Production, warehouse, shipping - where goods are produced, stored, sorted or packed, picking also takes place. Researchers at the Karlsruhe Institute of Technology (KIT), together with partners from Germany and Canada,"
+    publishedDateTime: 2021-07-07T04:00:00Z
+    webUrl: "https://www.eurekalert.org/pub_releases/2021-07/kift-bgw070721.php"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 39
+    images:
+      - url: "https://eurekalert.org/multimedia/pub/web/270048_web.jpg"
+        width: 1440
+        height: 960
+        isCached: true
 
 secured: "jA3Qnd7LqF84iwAOgZ0H7k1rhQJka+K6pehG8EPWL5nYe6fkOWPYWdOyCKsl+T6NDG4HNxj03fAaYVry5g7lmiCQYztS8Wus+xrzRldRYdEKMyff6KlAEDp5Ko/vtn3c44ajDZLYqpxNooZSAlEO+zgJqc41mncRLXIJKp8rVTTfIB+EBryMMQSSP3B1IIQmwaIbrGTSop4zqRZrkuMWruhSMiGfvGOlSR/ljgPQHsMA1lj8lAPe0V4DKovlkLbpEfDuxwmZQR0CPAmzt5B1Jf8fixTdW90W/0BarpunY+Txaa1VfQ9S1Wn2Rmu4PpSYWCJDxewwbtGJipKY/WRnuY3cKnJzcN59+SVSMBLi58s=;gVpAs/2YWbYBsHHdThQnSg=="
 ---

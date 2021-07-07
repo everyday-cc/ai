@@ -1,0 +1,187 @@
+---
+category: news
+title: "Tencent Will Use Facial Recognition in China to Prevent Late Night Gaming Sessions"
+excerpt: "Playing games late into the night in China is set to get even more difficult for minors following an announcement the world's largest video game vendor Tencent is introducing facial recognition. As Gizmodo reports,"
+publishedDateTime: 2021-07-07T14:48:00Z
+originalUrl: "https://www.pcmag.com/news/tencent-will-use-facial-recognition-in-china-to-prevent-late-night-gaming"
+webUrl: "https://www.pcmag.com/news/tencent-will-use-facial-recognition-in-china-to-prevent-late-night-gaming"
+ampWebUrl: "https://www.pcmag.com/news/tencent-will-use-facial-recognition-in-china-to-prevent-late-night-gaming?amp=true"
+cdnAmpWebUrl: "https://www-pcmag-com.cdn.ampproject.org/c/s/www.pcmag.com/news/tencent-will-use-facial-recognition-in-china-to-prevent-late-night-gaming?amp=true"
+type: article
+quality: 83
+heat: -1
+published: false
+
+provider:
+  name: PC Magazine
+  domain: pcmag.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - Computer Vision
+  - AI
+
+images:
+  - url: "https://i.pcmag.com/imagery/articles/01K7hHs7GpQBT70XqA5hFfc-1.1625668969.fit_lim.size_1200x630.jpg"
+    width: 1120
+    height: 630
+    isCached: true
+
+related:
+  - title: "Tencent Deploys Facial Recognition to Detect Minors Gaming at Night"
+    excerpt: "China’s gaming giant Tencent Games has launched one of the most-talked about — and controversial — means to curb excessive play time among children and teenagers so far: a time-sensitive facial recognition system. Starting Tuesday, the gaming ..."
+    publishedDateTime: 2021-07-06T11:42:00Z
+    webUrl: "https://www.sixthtone.com/news/1007915/tencent-deploys-facial-recognition-to-detect-minors-gaming-at-night-"
+    type: article
+    provider:
+      name: Sixth Tone
+      domain: sixthtone.com
+    quality: 139
+    images:
+      - url: "http://image5.sixthtone.com/image/5/41/132.jpg"
+        width: 2000
+        height: 1000
+        isCached: true
+  - title: "Tencent’s new facial recognition program prevents gaming after dark in China"
+    excerpt: "Tencent has announced a facial recognition system in China that will stop children from playing video games after hours."
+    publishedDateTime: 2021-07-06T16:07:00Z
+    webUrl: "https://www.digitaltrends.com/gaming/tencent-facial-recognition-china/"
+    ampWebUrl: "https://www.digitaltrends.com/gaming/tencent-facial-recognition-china/?amp"
+    cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/gaming/tencent-facial-recognition-china/?amp"
+    type: article
+    provider:
+      name: Digital Trends
+      domain: digitaltrends.com
+    quality: 86
+    images:
+      - url: "https://icdn.digitaltrends.com/image/digitaltrends/_117589161_gettyimages-1228918581.jpg"
+        width: 976
+        height: 549
+        isCached: true
+  - title: "China's Tencent Says It'll Use Face Recognition to Keep Minors From Gaming at Night"
+    excerpt: "This is such desperate news for us high school graduates who are two months away from being 18,” one WeChat user reportedly wrote."
+    publishedDateTime: 2021-07-06T18:05:00Z
+    webUrl: "https://gizmodo.com/chinas-tencent-says-itll-use-face-recognition-to-keep-m-1847236584"
+    ampWebUrl: "https://gizmodo.com/chinas-tencent-says-itll-use-face-recognition-to-keep-m-1847236584/amp"
+    cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/chinas-tencent-says-itll-use-face-recognition-to-keep-m-1847236584/amp"
+    type: article
+    provider:
+      name: Gizmodo
+      domain: gizmodo.com
+    quality: 85
+    images:
+      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/36183011932591e6d43fe47afd1ed337.jpg"
+        width: 800
+        height: 450
+        isCached: true
+  - title: "Tencent is using facial recognition tech on under-18s to stop them playing video games late into the night"
+    excerpt: "The system, called \"Midnight Patrol,\" aims to prevent under-18s from posing as adults to circumvent a Chinese ban on late-night gaming."
+    publishedDateTime: 2021-07-07T14:15:00Z
+    webUrl: "https://www.businessinsider.com/tencent-facial-recognition-tech-stop-minors-playing-night-midnight-patrol-2021-7"
+    ampWebUrl: "https://www.businessinsider.com/tencent-facial-recognition-tech-stop-minors-playing-night-midnight-patrol-2021-7?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/tencent-facial-recognition-tech-stop-minors-playing-night-midnight-patrol-2021-7?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 71
+    images:
+      - url: "https://i.insider.com/60e56ef8c03e9c0018ab2276?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Tencent’s creepy new facial recognition system detects kids gaming at night"
+    excerpt: "Chinese tech giant Tencent has launched a creepy new facial recognition system that detects children who are playing video games at night."
+    publishedDateTime: 2021-07-06T19:25:00Z
+    webUrl: "https://thenextweb.com/news/tencent-facial-recognition-detects-children-playing-games-at-night-gaming-china"
+    type: article
+    provider:
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 67
+    images:
+      - url: "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F07%2FUntitled-design-3.jpg&signature=c1cef30bbb5da6eff5db67610f4c5a3f"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "Tencent will use facial recognition to curb excessive youth gaming in China"
+    excerpt: "The Chinese mega-publisher is aiming to eliminate juveniles from playing games outside of a pre-established curfew."
+    publishedDateTime: 2021-07-06T23:05:00Z
+    webUrl: "https://www.shacknews.com/article/125456/tencent-will-use-facial-recognition-to-curb-excessive-youth-gaming-in-china"
+    ampWebUrl: "https://www.shacknews.com/article/125456/tencent-will-use-facial-recognition-to-curb-excessive-youth-gaming-in-china?amphtml=1"
+    cdnAmpWebUrl: "https://www-shacknews-com.cdn.ampproject.org/c/s/www.shacknews.com/article/125456/tencent-will-use-facial-recognition-to-curb-excessive-youth-gaming-in-china?amphtml=1"
+    type: article
+    provider:
+      name: Shacknews
+      domain: shacknews.com
+    quality: 57
+    images:
+      - url: "https://d1lss44hh2trtw.cloudfront.net/assets/article/2021/07/06/tencent-face-recognition-1_feature.jpg"
+        width: 1284
+        height: 720
+        isCached: true
+  - title: "Tencent will use facial recognition to restrict minors from playing games late night; here’s how it works"
+    excerpt: "China banned the PUBG Mobile online multiplayer game long back but the game publisher Tencent manages to relaunch the game in the country with some"
+    publishedDateTime: 2021-07-07T14:27:00Z
+    webUrl: "https://www.pinkvilla.com/tech/gaming/tencent-will-use-facial-recognition-to-restrict-minors-from-playing-games-late-night-here-s-how-it-works-803951"
+    ampWebUrl: "https://www.pinkvilla.com/tech/gaming/tencent-will-use-facial-recognition-to-restrict-minors-from-playing-games-late-night-here-s-how-it-works-803951?amp"
+    cdnAmpWebUrl: "https://www-pinkvilla-com.cdn.ampproject.org/c/s/www.pinkvilla.com/tech/gaming/tencent-will-use-facial-recognition-to-restrict-minors-from-playing-games-late-night-here-s-how-it-works-803951?amp"
+    type: article
+    provider:
+      name: pinkvilla.com
+      domain: pinkvilla.com
+    quality: 42
+    images:
+      - url: "https://www.pinkvilla.com/files/styles/large/public/pubg_mobile_1.jpg?itok=oP5B86Vs"
+        width: 600
+        height: 315
+        isCached: true
+  - title: "Tencent Launches Facial Recognition To Curb Late Night Gaming In Minors"
+    excerpt: "Chinese gaming giant Tencent has introduced facial recognition tech intended to stop children playing games past 10pm in China."
+    publishedDateTime: 2021-07-06T14:20:00Z
+    webUrl: "https://techraptor.net/gaming/news/tencent-launches-facial-recognition-to-curb-late-night-gaming-in-minors"
+    type: article
+    provider:
+      name: TechRaptor
+      domain: techraptor.net
+    quality: 39
+    images:
+      - url: "https://techraptor.net/sites/default/files/styles/image_header/public/2021-07/Honor%20Of%20Kings%20Artwork%20Tencent%20Facial%20Recognition%20Main.jpg?itok=GWjIlMIw"
+        width: 852
+        height: 479
+        isCached: true
+  - title: "Tencent deploying facial recognition to stop children gaming at night in China"
+    excerpt: "Internet and gaming giant Tencent has decided to take extreme measures to prevent those under 18 from playing games late into the night in China. The company is using a facial recognition system on its platform to identify players and prevent them circumnavigating existing controls by using adult accounts."
+    publishedDateTime: 2021-07-06T14:30:00Z
+    webUrl: "https://www.mcvuk.com/business-news/tencent-deploying-facial-recognition-to-stop-children-gaming-at-night-in-china/"
+    type: article
+    provider:
+      name: MCV UK
+      domain: mcvuk.com
+    quality: 35
+    images:
+      - url: "https://www.mcvuk.com/wp-content/uploads/1280px-tencent_logo.jpg"
+        width: 1284
+        height: 722
+        isCached: true
+  - title: "Investors issue statement on human rights implications of facial recognition technologies & commitments to due diligence"
+    excerpt: "We are 50 global institutional investors and their representatives with $4.5 trillion in assets under management as of December, 2020. As responsible investors, we incorporate Environmental, Social and Governance (ESG) factors,"
+    publishedDateTime: 2021-07-04T08:19:00Z
+    webUrl: "https://www.business-humanrights.org/en/latest-news/investors-issue-statement-on-human-rights-implications-of-facial-recognition-technologies-commitments-to-due-diligence/"
+    type: article
+    provider:
+      name: 洗護用品和肥皂
+      domain: business-humanrights.org
+    quality: 14
+    images:
+      - url: "https://media.business-humanrights.org/media/images/united-nations-419885_1280.2e16d0ba.fill-788x488.jpg"
+        width: 788
+        height: 488
+        isCached: true
+
+secured: "ajxycX0gesFyx7ivUVlAUQC62dM6lOwnmz2IDdLvYwMzBWcqFwluksck4YY7UNMHLC/FzyenCadkp15ElaYmmcAEphn5+j6x+3KXMJG5bgIsR3T3OSadTvIkJMRE9HovODrmHY4UF1Z3y54pgyxlq2Ns4SlssS5cLhxta0WwjbntAyQfAapvqB1xtLM2zkxUb7SHi6/LMCV4sjWN8BIlyC3heFSef1rCq2iylNvV1OPSYlcuqSCa0LpeIXY+HMacZ0k5L/hYAbarjFvBbV1BisjG69iRp7HxHDS4zCpIS3rg9LQrMO8DDK/wPJEXor9NGFjMiX62zJX2xPoVm9hU/DChe4+HOADP6g7PwFt/6uI=;P2DArvPkacpLeAeFv3SUGw=="
+---
+

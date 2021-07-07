@@ -1,26 +1,58 @@
 ---
 category: news
 title: "Advertising Revenue Platform Burt Intelligence Acquires AI Company Inventale"
-excerpt: "\"Igor has been an integral part of the adtech world for over 15 years and his background as a researcher with a PhD in Artificial Intelligence is further proof that what they have built at ..."
-publishedDateTime: 2021-07-07T13:19:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/advertising-revenue-platform-burt-intelligence-acquires-ai-company-inventale-1030585853"
-webUrl: "https://markets.businessinsider.com/news/stocks/advertising-revenue-platform-burt-intelligence-acquires-ai-company-inventale-1030585853"
+excerpt: "Burt Intelligence, a Software-as-a-Service platform empowering decision makers to analyze and share their advertising data and provide revenue forecasting insights for publishers and brands, today announced the completion of its acquisition of Inventale’s Forecasting Management System (IFMS),"
+publishedDateTime: 2021-07-07T13:50:00Z
+originalUrl: "https://apnews.com/press-release/pr-newswire/technology-business-5fcb55fe80c37c6a8eb4803218f69b69"
+webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-5fcb55fe80c37c6a8eb4803218f69b69"
 type: article
-quality: 44
-heat: 44
+quality: 34
+heat: 34
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI
 
-secured: "U/if0DBp/vf82Rj0EWVUddlCNg7/gRgIpesD9tUc0d3e0YURka9++AxUXUhmUR2h5n3smWV8v5tPqD8es6EhMj5F1uA42EADaMhJrnmIKSTbIKa/A1l0pLJHAnhf1DBpmDsPD6WR3C/RglB0faPLQ6BXGPr7cTW4vLVZKkMiHOmK8sWwV5JJLHjDOwIiV7acbSCvh/7TZcsnL3YqzGYywpP/eS8CQDZ0dxcXejfMwViwh8Cbn/Iic34ISZnUzdZ05rVUvE9gx6UdP77XFor6iTVPPhqeinODNkAd3lN1xXzeHRvLVb0CI34R/ISzyASOQm8BrhXHzSOgkrr4FqLtPWqtFQpb2lvv0F5UQa2Qdzo=;Vf5l41De2GKsdXehshvCMQ=="
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
+
+related:
+  - title: "ZeroFox made its second threat intelligence acquisition in a year"
+    excerpt: "“The combination of our otherwise inaccessible datasets, our team of researchers and operatives, along with ZeroFox’s scale and artificial intelligence, now powers the industry’s only truly complete dark web intelligence service,” said Mike ..."
+    publishedDateTime: 2021-07-07T15:58:00Z
+    webUrl: "https://technical.ly/baltimore/2021/07/07/zerofox-vigilante-acquisition/"
+    type: article
+    provider:
+      name: Technical
+      domain: technical.ly
+    quality: 22
+    images:
+      - url: "https://technical.ly/baltimore/wp-content/uploads/sites/3/2020/10/zerofoxHQ.jpg"
+        width: 880
+        height: 440
+        isCached: true
+  - title: "Fintech Acquires Cloud-Based Business Intelligence Provider STX Business Solutions"
+    excerpt: "Financial Information Technologies, LLC (\"Fintech\"), the leading business solutions provider for the beverage alcohol industry, today announced its acquisition of STX Business Solutions, a powerful web-based data management platform for the CPG"
+    publishedDateTime: 2021-07-06T18:41:00Z
+    webUrl: "https://www.lelezard.com/en/news-19889249.html"
+    type: article
+    provider:
+      name: Le Lézard
+      domain: lelezard.com
+    quality: 18
+    images:
+      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
+        width: 640
+        height: 480
+        isCached: true
+
+secured: "V72yt5nojSdHHkDAH0W/hY/WuUUpjMPJsgx6zTp82ZvKmzHG/QOlHvMkod0oK7tSWVPK480nlOvtzSijNliwqm6jrgaTHQLYvZOT1pJ6fkfNZo5m0nnTFEzj16e6fzcvzOnGS6PJrJQWmdwWzsla5AbVe+pgwd8zC3eonYnJrbPUk1OLCgG8fQ56QCtzLaUDGiblJduz0dlaSTm+r2j5VZlwDk6YBrhKVuKwzsDBZzfUEih3fqgidTP5vjM9ZxNjtsElv/smKIqjioqMZN3USaSvMlMm0kAzJ3pO3NdRmBFgLxNGO1sC5lqjenw1FhcH6+Rm/8dsEQOXr6MT+A+Aamki9ilDaj67JAGDNnaacs4=;7572SKgD1ZtSJZ/f5CN48g=="
 ---
 

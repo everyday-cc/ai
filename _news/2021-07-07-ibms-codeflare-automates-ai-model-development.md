@@ -8,8 +8,8 @@ webUrl: "https://venturebeat.com/2021/07/07/ibms-codeflare-automates-ai-model-de
 ampWebUrl: "https://venturebeat.com/2021/07/07/ibms-codeflare-automates-ai-model-development/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/07/ibms-codeflare-automates-ai-model-development/amp/"
 type: article
-quality: 91
-heat: 101
+quality: 93
+heat: 103
 published: true
 
 provider:
@@ -24,6 +24,7 @@ topics:
   - Microsoft AI
   - AI
   - AI Hardware
+  - AWS AI
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2021/03/IBM-3-e1616161936977.jpg?w=1200&strip=all"

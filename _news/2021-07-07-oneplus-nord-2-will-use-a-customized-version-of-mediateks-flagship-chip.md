@@ -9,7 +9,7 @@ ampWebUrl: "https://www.digitaltrends.com/mobile/oneplus-nord-2-5g-mediatek-dime
 cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/mobile/oneplus-nord-2-5g-mediatek-dimensity-1200-news/?amp"
 type: article
 quality: 88
-heat: 138
+heat: 158
 published: true
 
 provider:
@@ -61,6 +61,22 @@ related:
         width: 946
         height: 630
         isCached: true
+  - title: "The OnePlus Nord 2 will have a custom Dimensity 1200-AI chipset, the company confirms"
+    excerpt: "OnePlus and MediaTek added additional AI features to the base Dimensity 1200 to help with the camera, media playback and other tasks."
+    publishedDateTime: 2021-07-07T15:02:00Z
+    webUrl: "https://www.gsmarena.com/the_oneplus_nord_2_will_have_a_custom_dimensity_1200ai_chipset_the_company_confirms-news-49934.php"
+    ampWebUrl: "https://m.gsmarena.com/the_oneplus_nord_2_will_have_a_custom_dimensity_1200ai_chipset_the_company_confirms-amp-49934.php"
+    cdnAmpWebUrl: "https://m-gsmarena-com.cdn.ampproject.org/c/s/m.gsmarena.com/the_oneplus_nord_2_will_have_a_custom_dimensity_1200ai_chipset_the_company_confirms-amp-49934.php"
+    type: article
+    provider:
+      name: GSM Arena
+      domain: gsmarena.com
+    quality: 67
+    images:
+      - url: "https://fdn.gsmarena.com/imgroot/news/21/07/oneplus-nord2-dimensity1200ai-chipset/-1220x526/gsmarena_0000.jpg"
+        width: 1220
+        height: 526
+        isCached: true
   - title: "OnePlus Nord 2 5G confirmed with MediaTek Dimensity 1200-AI SoC"
     excerpt: "With the MediaTek Dimensity 1200-AI SoC, the company claims that the Nord 2 5G will provide its users with \"exceptional performance.\""
     publishedDateTime: 2021-07-07T12:25:00Z
@@ -95,6 +111,20 @@ related:
       name: Sify.com
       domain: sify.com
     quality: 34
+  - title: "OnePlus confirms that the Nord 2 5G will be powered by MediaTek’s Dimensity 1200-AI chipset"
+    excerpt: "The custom Dimensity 1200-AI is the result of OnePlus and MediaTek teaming up to bring a host of new AI-based features to the chipset, and thus the Nord 2 5G. “The Dimensity 1200-AI is the first example of MediaTek’s Dimensity Open Resource ..."
+    publishedDateTime: 2021-07-07T13:59:00Z
+    webUrl: "https://www.talkandroid.com/367623-oneplus-nord-2-mediatek-dimensity-1200-ai/"
+    type: article
+    provider:
+      name: talkandroid.com
+      domain: talkandroid.com
+    quality: 27
+    images:
+      - url: "https://i0.wp.com/img.talkandroid.com/uploads/2021/07/OnePlus-Nord-2-5G-x-MediaTek-dimensity-1200-ai.png"
+        width: 1600
+        height: 1360
+        isCached: true
 
 secured: "C8fX/1nYRKliv+dUpM41QxxyOJHbqX9iGajbmgF8CgbSpAP4n6mHISKvY9P+vfaEBNRN45lzK8zog8UrdNvkcu6lzlKW/lIBaRZMY9V5l20jmoCfXOAmy+8zZfBMH+NTShjHWv9NLOpfh66mQs8JAZq6vlNofygjhPSKKZRNMIZjwJshEM7IXxcoWcs/tbE4Em4sxv1avHPfSvj4cRSBYsUAcIJrK+MjKFxUPJrccqyp4PvE1msnu2dFxlOJlAGOXi7YXZ0753JKoyPCM9drh6i+Ybscv3djQrC/n9vgDzzFCDnpq9bDCal2+lE1HqV+NfuOHfd10sirUAROPCQMDOJd9FxMEKN5RunCkl7T9ew=;ZdUmmFyPKwko16Dj8QdrLw=="
 ---

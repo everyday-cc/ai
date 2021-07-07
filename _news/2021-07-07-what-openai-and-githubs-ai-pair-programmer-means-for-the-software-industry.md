@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/07/06/what-openai-and-githubs-ai-pair-p
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/06/what-openai-and-githubs-ai-pair-programmer-means-for-the-software-industry/amp/"
 type: article
 quality: 86
-heat: 86
+heat: 87
 published: true
 
 provider:

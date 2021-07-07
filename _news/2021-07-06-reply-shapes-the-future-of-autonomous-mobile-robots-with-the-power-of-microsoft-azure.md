@@ -1,23 +1,28 @@
 ---
 category: news
 title: "Reply Shapes the Future of Autonomous Mobile Robots with the Power of Microsoft Azure"
-excerpt: "Reply announced today that it has developed an end-to-end solution architecture for autonomous mobile robots (AMR) on Microsoft Azure that enables new"
-publishedDateTime: 2021-07-06T07:30:00Z
-originalUrl: "https://www.businesswire.com/news/home/20210706005133/en/Reply-Shapes-the-Future-of-Autonomous-Mobile-Robots-with-the-Power-of-Microsoft-Azure"
-webUrl: "https://www.businesswire.com/news/home/20210706005133/en/Reply-Shapes-the-Future-of-Autonomous-Mobile-Robots-with-the-Power-of-Microsoft-Azure"
+excerpt: "The solution combines Microsoft Azure services ... Reply integrates Azure Cognitive Services, Machine Learning and DevOps as well as Power Apps and Power BI. Thanks to Azure's intelligent service ..."
+publishedDateTime: 2021-07-06T07:39:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/21/07/b21850593/reply-shapes-the-future-of-autonomous-mobile-robots-with-the-power-of-microsoft-azure"
+webUrl: "https://www.benzinga.com/pressreleases/21/07/b21850593/reply-shapes-the-future-of-autonomous-mobile-robots-with-the-power-of-microsoft-azure"
 type: article
-quality: 44
+quality: 47
 heat: -1
 published: false
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - Microsoft AI
   - AI
-  - AI in Robotics
+
+images:
+  - url: "https://cdn.benzinga.com/files/imagecache/og_image_social_share_1200x630/sites/all/themes/bz2/images/bz-icon.png"
+    width: 1200
+    height: 630
+    isCached: true
 
 related:
   - title: "Speech Recognition Software Market Next Big Thing | Major Giants Google, Microsoft, Baidu"
@@ -135,6 +140,6 @@ related:
       domain: manometcurrent.com
     quality: 21
 
-secured: "Xahc7Dxdcowr76UQSOzkNijVpYe+jNI6U6UBMrEH3jgukPoK/LDtpFdIimuuiHd0UQ7NEeq7Ed2XLhjO2D1eTmMlv1dNQTtLjfJdUu0k+bgT1ENqsIq0PfpLNGQVpibSGgbnGwlqG94uucJf75O+9rYSFzBps5lQl9CMleiS6P6iW6LfSqXG0LI2Vxrmkk7mlFeF3a53RgWbqnsNgoXz/NIqe2g6+Tbkm1OYBSr8Agu+RqiWrQUCZTDcjRQ2yHYG1OTkq2jrPcV9XikJakuz9rsbmw/MFoLyn61DmZWJJFM5lQzSRZ1AJtGzaUMT06sYrNiqv871MfWV6N9aqwiAIIALZ2gzROUWWj8AFK4d3+SfdHptoHhXYwdBf98bDLwVqWu4bjjP4QrKcFTGgOUrVhExeIerLV1Xv3nVXsk84CnUmT74NYjjiVs4t6KQKJDXOM81jDTdvGwrHUaupIMhgMxPAMChkgHdlU4t1u+O7MMnTJxMA4XwClYzOtCaose6ajA30p3PkOkdv04LPpi7tw==;IkdYfiMyfERRbIeAxtRLvQ=="
+secured: "ccp70VMeegpIWdvYXbFvjy1TfB0JlyfKBktOp9IJh41iB5AuwCq32wekAPUe3lI1hkgYGdTNquqMfe0QxF3TOXJOmJO4L7TbBuGLjprw5CIXo2ktYTG/L73y7tBDWarTVecL1YvmFGtrdilR0bUwCap8MdjIZs5zOfxFtHqjMx//oXpajC1Bi1oFzIYFB8SjBSunGHXVO3kdSQ61s1q2ygCRkbPIuJ+06xYpZZuJALcSyNXQlgJs3QLQ+UGBVpojgzKI89f0g7OotVbaKRtSuPVwf7bsFLtisPxsB9y7SnduSrdj7+LjEsQnMf6nekdiF4HuZXw1P+T90nrn31RgGFMV5A8iVCX7HLWC5PVQHpE=;BZMRidKb2ZDT41bhZh56Og=="
 ---
 

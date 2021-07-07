@@ -41,6 +41,20 @@ related:
         width: 1200
         height: 638
         isCached: true
+  - title: "AI in Fintech Market Next Big Thing : Major Giants IBM, Microsoft, Samsung, Intel"
+    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Jul 06, 2021 (Heraldkeepers) -- The latest research on \"Global AI in Fintech Report 2021\" offered by HTF MI provides a comprehensive investigation into the geographical ..."
+    publishedDateTime: 2021-07-07T14:20:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-in-fintech-market-next-big-thing-major-giants-ibm-microsoft-samsung-intel-2021-07-06"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 81
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Student finance fintech raises £1.1m in funding"
     excerpt: "StepEx has raised £1.1 million in pre-initial funding, with the venture studio BBVA Anthemis Venture Partnership being the lead investor."
     publishedDateTime: 2021-07-05T12:54:00Z

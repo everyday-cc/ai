@@ -61,6 +61,38 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "Tencent Will Use Facial Recognition in China to Prevent Late Night Gaming Sessions"
+    excerpt: "Playing games late into the night in China is set to get even more difficult for minors following an announcement the world's largest video game vendor Tencent is introducing facial recognition. As Gizmodo reports,"
+    publishedDateTime: 2021-07-07T14:48:00Z
+    webUrl: "https://www.pcmag.com/news/tencent-will-use-facial-recognition-in-china-to-prevent-late-night-gaming"
+    ampWebUrl: "https://www.pcmag.com/news/tencent-will-use-facial-recognition-in-china-to-prevent-late-night-gaming?amp=true"
+    cdnAmpWebUrl: "https://www-pcmag-com.cdn.ampproject.org/c/s/www.pcmag.com/news/tencent-will-use-facial-recognition-in-china-to-prevent-late-night-gaming?amp=true"
+    type: article
+    provider:
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 83
+    images:
+      - url: "https://i.pcmag.com/imagery/articles/01K7hHs7GpQBT70XqA5hFfc-1.1625668969.fit_lim.size_1200x630.jpg"
+        width: 1120
+        height: 630
+        isCached: true
+  - title: "Tencent is using facial recognition tech on under-18s to stop them playing video games late into the night"
+    excerpt: "The system, called \"Midnight Patrol,\" aims to prevent under-18s from posing as adults to circumvent a Chinese ban on late-night gaming."
+    publishedDateTime: 2021-07-07T14:15:00Z
+    webUrl: "https://www.businessinsider.com/tencent-facial-recognition-tech-stop-minors-playing-night-midnight-patrol-2021-7"
+    ampWebUrl: "https://www.businessinsider.com/tencent-facial-recognition-tech-stop-minors-playing-night-midnight-patrol-2021-7?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/tencent-facial-recognition-tech-stop-minors-playing-night-midnight-patrol-2021-7?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 71
+    images:
+      - url: "https://i.insider.com/60e56ef8c03e9c0018ab2276?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Tencent’s creepy new facial recognition system detects kids gaming at night"
     excerpt: "Chinese tech giant Tencent has launched a creepy new facial recognition system that detects children who are playing video games at night."
     publishedDateTime: 2021-07-06T19:25:00Z
@@ -90,6 +122,22 @@ related:
       - url: "https://d1lss44hh2trtw.cloudfront.net/assets/article/2021/07/06/tencent-face-recognition-1_feature.jpg"
         width: 1284
         height: 720
+        isCached: true
+  - title: "Tencent will use facial recognition to restrict minors from playing games late night; here’s how it works"
+    excerpt: "China banned the PUBG Mobile online multiplayer game long back but the game publisher Tencent manages to relaunch the game in the country with some"
+    publishedDateTime: 2021-07-07T14:27:00Z
+    webUrl: "https://www.pinkvilla.com/tech/gaming/tencent-will-use-facial-recognition-to-restrict-minors-from-playing-games-late-night-here-s-how-it-works-803951"
+    ampWebUrl: "https://www.pinkvilla.com/tech/gaming/tencent-will-use-facial-recognition-to-restrict-minors-from-playing-games-late-night-here-s-how-it-works-803951?amp"
+    cdnAmpWebUrl: "https://www-pinkvilla-com.cdn.ampproject.org/c/s/www.pinkvilla.com/tech/gaming/tencent-will-use-facial-recognition-to-restrict-minors-from-playing-games-late-night-here-s-how-it-works-803951?amp"
+    type: article
+    provider:
+      name: pinkvilla.com
+      domain: pinkvilla.com
+    quality: 42
+    images:
+      - url: "https://www.pinkvilla.com/files/styles/large/public/pubg_mobile_1.jpg?itok=oP5B86Vs"
+        width: 600
+        height: 315
         isCached: true
   - title: "Tencent Launches Facial Recognition To Curb Late Night Gaming In Minors"
     excerpt: "Chinese gaming giant Tencent has introduced facial recognition tech intended to stop children playing games past 10pm in China."

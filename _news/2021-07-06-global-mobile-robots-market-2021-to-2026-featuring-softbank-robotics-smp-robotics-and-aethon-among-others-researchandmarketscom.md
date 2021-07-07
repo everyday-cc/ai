@@ -35,20 +35,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Global Smart Windows Market to 2027 - Smart Windows Seek Opportunities in Self-Driving Cars"
-    excerpt: "DUBLIN, July 7, 2021 /PRNewswire/ -- The \"Smart Windows - Global Market Trajectory & Analytics\" report has been added to ResearchAndMarkets.com's offering. Amid the COVID-19 crisis, the global market for Smart Windows estimated at US$3.6 Billion in the ..."
-    publishedDateTime: 2021-07-07T11:36:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/global-smart-windows-market-to-2027---smart-windows-seek-opportunities-in-self-driving-cars-301326826.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 14
-    images:
-      - url: "https://mma.prnewswire.com/media/539438/Research_and_Markets_Logo.jpg?p=facebook"
-        width: 800
-        height: 419
-        isCached: true
   - title: "Worldwide Mobile Robots Industry to 2026 - by Type, Component, End-users and Geography"
     excerpt: "The \"Mobile Robots Market - Forecasts from 2021 to 2026\" report has been added to ResearchAndMarkets.com's offering. The global mobile robots market is evaluated at US$11.404 billion for the year 2019 and is estimated to grow at a CAGR of 15."
     publishedDateTime: 2021-07-06T12:19:00Z

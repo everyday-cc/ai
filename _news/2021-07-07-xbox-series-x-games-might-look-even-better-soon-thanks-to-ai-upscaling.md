@@ -1,12 +1,12 @@
 ---
 category: news
 title: "Xbox Series X games might look even better soon thanks to AI upscaling"
-excerpt: "Most often, people will think of DLSS when it comes to AI upscaling. DLSS stands for Deep Learning Super Sampling and is a feature found in Nvidia RTX graphics cards. When you need a framerate boost, the GPU starts producing a lower quality image that’s ..."
-publishedDateTime: 2021-07-07T11:07:00Z
-originalUrl: "https://www.techradar.com/news/xbox-series-x-games-might-look-even-better-soon-thanks-to-ai-upscaling"
-webUrl: "https://www.techradar.com/news/xbox-series-x-games-might-look-even-better-soon-thanks-to-ai-upscaling"
-ampWebUrl: "https://www.techradar.com/amp/news/xbox-series-x-games-might-look-even-better-soon-thanks-to-ai-upscaling"
-cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/xbox-series-x-games-might-look-even-better-soon-thanks-to-ai-upscaling"
+excerpt: "They teased the return of the Fable franchise from developer Playground Games, and now might have just revealed Microsoft’s answer to AI-based graphical upscaling like Nvidia's DLSS but for Xbox Series X."
+publishedDateTime: 2021-07-07T11:04:00Z
+originalUrl: "https://www.techradar.com/nz/news/xbox-series-x-games-might-look-even-better-soon-thanks-to-ai-upscaling"
+webUrl: "https://www.techradar.com/nz/news/xbox-series-x-games-might-look-even-better-soon-thanks-to-ai-upscaling"
+ampWebUrl: "https://www.techradar.com/nz/amp/news/xbox-series-x-games-might-look-even-better-soon-thanks-to-ai-upscaling"
+cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/nz/amp/news/xbox-series-x-games-might-look-even-better-soon-thanks-to-ai-upscaling"
 type: article
 quality: 89
 heat: 89
@@ -30,6 +30,6 @@ images:
     height: 288
     isCached: true
 
-secured: "dZI1v8QpIGKX3L/UteJwSSa1E1T2FVe24dDM08DKtBUWoRgTYbRwCWw8ZJ/RXnObpZSaNuM16IVp8Qr2fCoJeX67TBm758uHci9SkeVLgJMttkaLWAYUckKJ/KeF9V4pogLGaYLAbTr3aUtKRxYoHLAtCXOizekQVaH8JXaXRdqyAyw1Zw8BOpJD6fy8JJ5/GvC2AwcsiV6LUyBGwTI0XDl7CLPNyUc4HWoWyBADh0ONvXwAsV7MVTrj56994uU/bqrTa0s2HQKNZ+SDMUCRgT8A55AvnM04VVnQngx1tcScx58nHdR+xpUD+bhItEhNBT9mQkNGYKV7BRHhF20NWKYXB4i+9IyhP8OCyQl5qOM=;VxsOPAJsdZWFBsGm/MsueQ=="
+secured: "BX3iXRzK3nyc03/Z614jpECIu3s5T87TsCKSDoKyn4hHY5qR4EzVofa+fqM7eSTep7F4aUGJ/bKEAtx4Fnb3qIubMtyGBe3QIE4q/AVwQR7eximzIcQXskPJuY+5euj20IBRHZrXDEPecQa5IAFQUIk2UQ9GXpXBjK/yKmXlckeu4CpDpt3kSC3Ica9jWKvBWnO37YAkuVxu4U1CV2oeXwRiQULD4yPVpDEJXoSXkInzTUwDBBEET6I+a1H1vFfKxGHksNol2NanwkbnPVx9RqUmiG+J/5Z9E8K5UmGJAxjJoJbrhAolgoP/ODY5IDByAnOIKHwnFKMbhaGESLWjmvGKD4kyiS1r+YcEbHjngms=;Q7321V1CoI3SA6OoaRAFzw=="
 ---
 

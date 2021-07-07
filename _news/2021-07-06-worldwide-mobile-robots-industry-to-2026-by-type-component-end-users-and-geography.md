@@ -44,20 +44,6 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 22
-  - title: "Global Smart Windows Market to 2027 - Smart Windows Seek Opportunities in Self-Driving Cars"
-    excerpt: "DUBLIN, July 7, 2021 /PRNewswire/ -- The \"Smart Windows - Global Market Trajectory & Analytics\" report has been added to ResearchAndMarkets.com's offering. Amid the COVID-19 crisis, the global market for Smart Windows estimated at US$3.6 Billion in the ..."
-    publishedDateTime: 2021-07-07T11:36:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/global-smart-windows-market-to-2027---smart-windows-seek-opportunities-in-self-driving-cars-301326826.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 14
-    images:
-      - url: "https://mma.prnewswire.com/media/539438/Research_and_Markets_Logo.jpg?p=facebook"
-        width: 800
-        height: 419
-        isCached: true
   - title: "Outlook on the Customer Communications Management Global Market to 2027 - Featuring Adobe, Oracle and Capgemini Among Others"
     excerpt: "The \"Global Customer Communications Management Market By Component, By Organization Size, By Deployment Mode, By End User, By Regional Outlook, Industry Analysis Report and Forecast, 2021 - 2027\" report has been added to ResearchAndMarkets."
     publishedDateTime: 2021-07-06T16:05:00Z
