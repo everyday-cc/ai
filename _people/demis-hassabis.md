@@ -13,7 +13,7 @@ website: http://t.co/8B3TFG0hNp
 twitter:
   username: demishassabis
   url: https://twitter.com/demishassabis
-  followers: 228957
+  followers: 228966
 
 googleScholar:
   url: https://scholar.google.com/citations?user=dYpPMQEAAAAJ
@@ -30,6 +30,6 @@ images:
     isCached: true
     title: "Demis Hassabis"
 
-secured: "aOa302F9fQlaCpGQ+qvXnRElJQmj/Q2WVgRPeqaM5mO3lJsPuOaBfhDk+ziT4mKDIpBXLapGhwbGiQcSYuCKN7fFOoWNLmwKM7omrTNsoJYJz3pU32Pq2wQXIPe7arpaYTXeIHlM5H+jZwHKA/1UosNz85Zoin5PCt9drf6NxNPAcerHryAoYIJQfPbaf1dhTyEhORbPWJfCfDlGDetIYHLf57tZgnp406KBrZhkhb2bUPla9BEYlzKqctkOW4yyFkz9l51yZCt+77y09J/jMOTJW/AnsG+e/saRF5z2X4VDqoCja6dbhfjogA0u5stEl1HO6+8HNfHMltfW+FIHueHf52GqX5Nw4jbwY15Zgq0IPVGPjOU43tKFWAfMVm8UWtTI6Q8VN0I6c+d9rA8ZJQKCNFJcl/yxYbFBFuUmgdw=;XEO5dyga0UwYz8vTDgfVrQ=="
+secured: "TQt1O+2s2y0mqQw5hpO9xZh9BO3Q6jvt95KpDqQXYB0osOwnWEeXN60ZJXnL/ndBdB4sUNJgNsdJwGMjix5/2W1wyPSJdcXd+M/PkaxOf6xxDP3UZaR98W5mu4GbrqzXLXEjN5NQyNLZ0MLZUE5CzvYboxxo9kuUvc+/2dC7dvt3DNvda+RcpEs0EOl0F9vwKxe1hxQcCosF1kbOCrcZSH02TnzqpVTJ0w09cGZvU52y6G5JR8XgZUyghci8EsCYiGAuHnxapLcdJIX91qzF8zo1Fvkbv5puk8RJlkt2T0hcI+M9e5cWNTCXDqIhfrNHXKi8ywjyBAwJYJ4wZ/bmY5g3qinhomYaGHhAU+6xgqLxfybn0exCgi7Kf5fpHju4VAtG3XZ4h5BOd94s1JN4f7SvbPlg1mBLO25EKoYpTLE=;4x/1z7xwZMXDmmbofj3zEg=="
 ---
 
