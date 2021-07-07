@@ -158,10 +158,10 @@ related:
         isCached: true
   - title: "Tencent is now using facial recognition to stop children in China from gaming all night"
     excerpt: "Late-night gaming sessions for Chinese children are going to be much harder now that Tencent, China's largest tech company, is using facial recognition to stop kids from gaming after bedtime. Announced in a press release yesterday, Tencent said its new ..."
-    publishedDateTime: 2021-07-07T19:38:00Z
-    webUrl: "https://www.pcgamer.com/tencent-is-now-using-facial-recognition-in-china-to-stop-children-from-gaming-all-night/"
-    ampWebUrl: "https://www.pcgamer.com/amp/tencent-is-now-using-facial-recognition-in-china-to-stop-children-from-gaming-all-night/"
-    cdnAmpWebUrl: "https://www-pcgamer-com.cdn.ampproject.org/c/s/www.pcgamer.com/amp/tencent-is-now-using-facial-recognition-in-china-to-stop-children-from-gaming-all-night/"
+    publishedDateTime: 2021-07-07T20:11:00Z
+    webUrl: "https://www.pcgamer.com/uk/tencent-is-now-using-facial-recognition-in-china-to-stop-children-from-gaming-all-night/"
+    ampWebUrl: "https://www.pcgamer.com/uk/amp/tencent-is-now-using-facial-recognition-in-china-to-stop-children-from-gaming-all-night/"
+    cdnAmpWebUrl: "https://www-pcgamer-com.cdn.ampproject.org/c/s/www.pcgamer.com/uk/amp/tencent-is-now-using-facial-recognition-in-china-to-stop-children-from-gaming-all-night/"
     type: article
     provider:
       name: PC Gamer

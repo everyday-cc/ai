@@ -9,7 +9,7 @@ ampWebUrl: "https://www.sourcesecurity.com/amp/insights/baltimore-city-target-fa
 cdnAmpWebUrl: "https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/insights/baltimore-city-target-facial-recognition-technology-co-1508-ga-sb.1625556289.html"
 type: article
 quality: 58
-heat: 98
+heat: 88
 published: true
 
 provider:
@@ -27,17 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Maine law restricts facial recognition technology statewide"
-    excerpt: "A bill touted as the country’s strictest statewide regulation on the use of facial recognition technology has become law in Maine."
-    publishedDateTime: 2021-07-03T03:40:00Z
-    webUrl: "https://www.bradenton.com/news/business/technology/article252486663.html"
-    ampWebUrl: "https://amp.bradenton.com/news/business/technology/article252486663.html"
-    cdnAmpWebUrl: "https://amp-bradenton-com.cdn.ampproject.org/c/s/amp.bradenton.com/news/business/technology/article252486663.html"
-    type: article
-    provider:
-      name: Bradenton Herald
-      domain: bradenton.com
-    quality: 54
   - title: "Maine law restricts facial recognition technology statewide"
     excerpt: "A bill touted as the country’s strictest statewide regulation on the use of facial recognition technology has become law in Maine."
     publishedDateTime: 2021-07-03T17:06:00Z

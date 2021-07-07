@@ -2,11 +2,11 @@
 category: news
 title: "Tencent is now using facial recognition to stop children in China from gaming all night"
 excerpt: "Late-night gaming sessions for Chinese children are going to be much harder now that Tencent, China's largest tech company, is using facial recognition to stop kids from gaming after bedtime. Announced in a press release yesterday, Tencent said its new ..."
-publishedDateTime: 2021-07-07T19:38:00Z
-originalUrl: "https://www.pcgamer.com/tencent-is-now-using-facial-recognition-in-china-to-stop-children-from-gaming-all-night/"
-webUrl: "https://www.pcgamer.com/tencent-is-now-using-facial-recognition-in-china-to-stop-children-from-gaming-all-night/"
-ampWebUrl: "https://www.pcgamer.com/amp/tencent-is-now-using-facial-recognition-in-china-to-stop-children-from-gaming-all-night/"
-cdnAmpWebUrl: "https://www-pcgamer-com.cdn.ampproject.org/c/s/www.pcgamer.com/amp/tencent-is-now-using-facial-recognition-in-china-to-stop-children-from-gaming-all-night/"
+publishedDateTime: 2021-07-07T20:11:00Z
+originalUrl: "https://www.pcgamer.com/uk/tencent-is-now-using-facial-recognition-in-china-to-stop-children-from-gaming-all-night/"
+webUrl: "https://www.pcgamer.com/uk/tencent-is-now-using-facial-recognition-in-china-to-stop-children-from-gaming-all-night/"
+ampWebUrl: "https://www.pcgamer.com/uk/amp/tencent-is-now-using-facial-recognition-in-china-to-stop-children-from-gaming-all-night/"
+cdnAmpWebUrl: "https://www-pcgamer-com.cdn.ampproject.org/c/s/www.pcgamer.com/uk/amp/tencent-is-now-using-facial-recognition-in-china-to-stop-children-from-gaming-all-night/"
 type: article
 quality: 51
 heat: -1
@@ -226,6 +226,6 @@ related:
         height: 488
         isCached: true
 
-secured: "17IiQiafRtJzQ1TB5FAhve4fHJoItT/m7SzYd4V/phlOwzc/cucRIJlQKLeQIdhkXEvfk+0S4OD6RKsCzm4sJX0jIF8FAz7MzPO4B5VW58F3jST3NclkhT7Yc0PHXrBTwgkNCF3R4si9Qmr7EHaZY4F9U9GylkEUz2dyqqc12Fu8SMxbZhRGTbQctr76VvG9D+WpYtQ3gKRK/aWz59RznRe88hrkE9nk1n/tV7zmX5VXkaLUboC1XCy4zA80UaU+vIBlGeUxdNvn2S4rcn+RQ9LwKumc83gWoQXMcdqNCgb1KTekxCJtM94sy3meHLfINjeM4eyeRK3a8hDDm44nyAGXJiMJDWNDmdBNBTZPgU0=;1DzPRJrdMB725it5SLo6sg=="
+secured: "VX2H/TBQKO1SktsblEBFzwC+Fv8N4ZKvCw9tGyVpXzPq+nF7QLOq7VAoTBQCStsPKQ1Z3mFFD58rQ3OK0gKdIj9d9BgJZ/TYom9nkrhCtF0oJW9ALWPL1Cp1BcMA9NCy0IJG0ozOQ3/geA3AC8cyIlodA1c07sPlxq8rCDgWxQ1EGHNQntG26kIPLpjsvfx3OvTPy5XkBxQHtMWk5XGutuQNiJXbE+lNwvNyGm5rIxRM4agnK85vq9Idegrn5bRCgx+2yhw0cA7+lflD1sFfq0EeC1zk+mpoHwd6VI+NnB3LD5v3Q8gJ2Ip95UXRp8+rmiFeAC2JjyvBnQHNsYvGfnG4s+vLqKWL/8LQKhXBVAY=;zU41vsfmEUasuJeMnnRKsQ=="
 ---
 

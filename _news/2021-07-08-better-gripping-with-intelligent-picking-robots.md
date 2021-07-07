@@ -6,7 +6,7 @@ publishedDateTime: 2021-07-07T17:30:00Z
 originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/better-gripping-with-intelligent-picking-robots/article_05ba0d86-8abd-51d6-bb2c-9415c8bbfde9.html"
 webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/better-gripping-with-intelligent-picking-robots/article_05ba0d86-8abd-51d6-bb2c-9415c8bbfde9.html"
 type: article
-quality: 39
+quality: 41
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI in Robotics
   - AI
+  - Computer Vision
 
 images:
   - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"

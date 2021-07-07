@@ -48,6 +48,15 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 28
+  - title: "VVDN expands its capabilities on Ambarella edge AI vision SoC platform to deliver next-gen vision based solutions"
+    excerpt: "GURUGRAM, India, July 5, 2021 /PRNewswire/ -- VVDN Technologies, a premier electronic product engineering and manufacturing company, announces the expansion of its capabilities on Ambarella's edge ..."
+    publishedDateTime: 2021-07-07T21:35:00Z
+    webUrl: "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1196048&cat=PR News Wire"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 0
 
 secured: "w1zEmKnQYBlfJB7QlwNkeSjBx3KdWpyvC07QzvyVxabTxv9+sLQYeQISV2iaZTCk2+M0wM0nsr+c8lssPvRUyvcPxcy11wy3eW3/aC/IK2Uu1YhUvNBJx2JpSHzxf1SMcEA7c0a9Yj6VgNTyi9CKykiX1vD7kGwIE9s0AhTyon5xJ+hF3APiCBFbOA98yDhZMiHMnuLh9rAioPv1xO4a/4ORkQfOkezaPgt5lDevMc/73eHAihhhW2fjtepIrIdIcOqCM13yt/wFSnQYafuEaLigM+C2tzBs5MocgL50ymsvmjlqB6EBpyZn+FEO/9AOudrIaI5i38T3KVUHfDU0U+B/GEhh6PNHSWN6dAXxu7E=;fwJJzSfbuc72mvYFOV5LvA=="
 ---

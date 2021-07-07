@@ -24,6 +24,17 @@ images:
     height: 720
     isCached: true
 
+related:
+  - title: "AiM Medical Robotics to Present and Exhibit at 18th Annual World Congress of Society for Brain Mapping and Therapeutics (SBMT)"
+    excerpt: "AiM Medical Robotics is one of the leaders in the emerging field of artificial intelligence-guided therapy\" said, Dr. Babak Kateb, founding chairman of the board of directors & CEO of SBMT, President and Scientific Director of the Brain Mapping Foundation ..."
+    publishedDateTime: 2021-07-07T15:54:00Z
+    webUrl: "https://www.morningstar.com/news/pr-newswire/20210707fl35193/aim-medical-robotics-to-present-and-exhibit-at-18th-annual-world-congress-of-society-for-brain-mapping-and-therapeutics-sbmt"
+    type: article
+    provider:
+      name: Morningstar%2c Inc.
+      domain: morningstar.com
+    quality: 21
+
 secured: "jsYRoP9eHFDXs48kIVClFhBjsA6UvPJQMTK5Tpc4FGnx9fP7SHrW7iXc7JcGzsRWWganvhNY2Zoaduks2c9z4kDYu9WcYqXz+qU5FgZXcxoEe4os2HS0EAHB5ibylKBgqV7g0wx9YGrU6fZ0OZZPSiaMZ2h133EmP8Z9De2JRi0b+QyO3LhB3IhBz9FOfH9zyLYnK9ozPe6WTVjCRu+98WgvQRY0viR+2NNmirkXkfQskVIN4MH1CZafr38ObbH2WHt5THPDVMbM5XxhsbVwKH6OuZjN++SZcEyvCBRVhiIP16cO2PTg/rnKFmtm7la6MopjPT0QjhyKM5164i+TjN7g4Svj/BdCeBVIKYTyLZA=;LnLGoC6uNVyI0WkMNlYG3A=="
 ---
 

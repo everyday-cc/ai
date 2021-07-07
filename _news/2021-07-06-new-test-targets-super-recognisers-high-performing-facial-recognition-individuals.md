@@ -45,17 +45,6 @@ related:
         isCached: true
   - title: "Maine law restricts facial recognition technology statewide"
     excerpt: "A bill touted as the country’s strictest statewide regulation on the use of facial recognition technology has become law in Maine."
-    publishedDateTime: 2021-07-03T03:40:00Z
-    webUrl: "https://www.bradenton.com/news/business/technology/article252486663.html"
-    ampWebUrl: "https://amp.bradenton.com/news/business/technology/article252486663.html"
-    cdnAmpWebUrl: "https://amp-bradenton-com.cdn.ampproject.org/c/s/amp.bradenton.com/news/business/technology/article252486663.html"
-    type: article
-    provider:
-      name: Bradenton Herald
-      domain: bradenton.com
-    quality: 54
-  - title: "Maine law restricts facial recognition technology statewide"
-    excerpt: "A bill touted as the country’s strictest statewide regulation on the use of facial recognition technology has become law in Maine."
     publishedDateTime: 2021-07-03T17:06:00Z
     webUrl: "https://www.newsobserver.com/news/technology/article252486663.html"
     ampWebUrl: "https://amp.newsobserver.com/news/technology/article252486663.html"

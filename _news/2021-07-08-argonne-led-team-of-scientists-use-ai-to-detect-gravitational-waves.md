@@ -19,16 +19,18 @@ topics:
 
 related:
   - title: "Scientists use artificial intelligence to detect gravitational waves"
-    excerpt: "Recently, computational scientist and lead for translational artificial intelligence (AI), Eliu Huerta of the U.S. Department of Energy's (DOE) Argonne National Laboratory, in conjunction with collaborators from Argonne, the University of Chicago ..."
-    publishedDateTime: 2021-07-07T19:36:00Z
-    webUrl: "https://www.eurekalert.org/pub_releases/2021-07/dnl-sua070721.php"
+    excerpt: "When gravitational waves were first detected in 2015 by the advanced Laser Interferometer Gravitational-Wave Observatory (LIGO), they sent a ripple through the scientific community, as they confirmed another of Einstein's theories and marked the birth of gravitational wave astronomy."
+    publishedDateTime: 2021-07-07T20:22:00Z
+    webUrl: "https://phys.org/news/2021-07-scientists-artificial-intelligence-gravitational.html"
+    ampWebUrl: "https://phys.org/news/2021-07-scientists-artificial-intelligence-gravitational.amp"
+    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-07-scientists-artificial-intelligence-gravitational.amp"
     type: article
     provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 37
+      name: Phys.org
+      domain: phys.org
+    quality: 57
     images:
-      - url: "https://www.eurekalert.org/multimedia/pub/web/270088_web.jpg"
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/scientists-use-artific.jpg"
         width: 1440
         height: 810
         isCached: true
