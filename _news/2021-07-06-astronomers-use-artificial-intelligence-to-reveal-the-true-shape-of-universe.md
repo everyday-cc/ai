@@ -40,22 +40,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "Four ways artificial intelligence is helping us learn about the universe"
-    excerpt: "Astronomy is all about data. The universe is getting bigger and so too is the amount of information we have about it. But some of the biggest challenges of the next generation of astronomy lie in just how we're going to study all the data we're collecting."
-    publishedDateTime: 2021-07-02T13:30:00Z
-    webUrl: "https://techxplore.com/news/2021-07-ways-artificial-intelligence-universe.html"
-    ampWebUrl: "https://techxplore.com/news/2021-07-ways-artificial-intelligence-universe.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-07-ways-artificial-intelligence-universe.amp"
-    type: article
-    provider:
-      name: techxplore.com
-      domain: techxplore.com
-    quality: 56
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2021/four-ways-artificial-i.jpg"
-        width: 600
-        height: 229
-        isCached: true
   - title: "Here's how artificial intelligence helping astronomers learn about the universe"
     excerpt: "To take on the challenges, astronomers are turning to machine learning and artificial intelligence (AI) to build new tools to rapidly search for the next big breakthroughs. A research by Ashley Spindler from the department of Astrophysics, University of ..."
     publishedDateTime: 2021-07-04T07:44:00Z

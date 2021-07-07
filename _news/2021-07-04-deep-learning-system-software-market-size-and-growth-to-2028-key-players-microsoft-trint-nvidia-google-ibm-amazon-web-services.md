@@ -119,20 +119,6 @@ related:
       name: manometcurrent.com
       domain: manometcurrent.com
     quality: 28
-  - title: "States Voice Recognition for Smartphones Market to Witness Huge Growth by 2028 | Apple, Google, Microsoft"
-    excerpt: "The research covers the current & Future market size of the Global States Voice Recognition for Smartphones market & its growth rates based on 8 year history data. It also covers various types of segmentation such as by geography [China, Japan, Korea ..."
-    publishedDateTime: 2021-07-02T14:43:00Z
-    webUrl: "https://ksusentinel.com/2021/07/02/states-voice-recognition-for-smartphones-market-to-witness-huge-growth-by-2028-apple-google-microsoft/"
-    type: article
-    provider:
-      name: The Sentinel
-      domain: ksusentinel.com
-    quality: 24
-    images:
-      - url: "https://ksusentinel.com/wp-content/uploads/2021/07/Global-States-Voice-Recognition-for-Smartphones-Market-780x470.jpg"
-        width: 780
-        height: 470
-        isCached: true
 
 secured: "wCcU6Tu3aq4ACsEKHmzzk3KmlRQyZiYGOzmtkzWhXIa4hLQp4A18CjFtFcFFwo/B2AxgozF+pNK8ia9IwZcnTDb1L9d/bZ8juc4qNIcXMhR1ADQ8kiS2GKgdFQYz0mQfgv2xHmpQfD463IFuqU12Nxaww8sPvg2HWyrwaa4+UbbD1kyMaItLeq+vLlMiU1Lvk7/+uJUGE4JOHzI5q990xVcvzsLajPq5T/MbaXBS4vEm7lhrxn1ZhcA4kYKP2lpaswWKvLWVNEuawdydIlFQgEmax73EgRRczDaEeGAGKsejdrgVKZTgVkDKPleBGttpdZNQwKpi0X7v7dKeZrgpq17sQ/Gt91uDFPYD/eBQJtGt/HDgGCT7Rtp4H18VX6wjfI0eGkd8d+Ii8xMzETM1p/9n8XK+FDKQb/A8HDwMrI5G+cgPnWvyKlyZgu/18U9VB+iN2XIejtfHXdn43JPeSTqpl9ne45TDpgHz3+k7GjarcFKFYCHu4FG950w2OK1m2u8N8uzLGIP4j0CYZLLMTQ==;y8A+zrOc0M5zJ8Q75MXrLg=="
 ---

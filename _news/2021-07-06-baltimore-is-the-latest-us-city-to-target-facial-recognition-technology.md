@@ -9,7 +9,7 @@ ampWebUrl: "https://www.sourcesecurity.com/amp/insights/baltimore-city-target-fa
 cdnAmpWebUrl: "https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/insights/baltimore-city-target-facial-recognition-technology-co-1508-ga-sb.1625556289.html"
 type: article
 quality: 58
-heat: 108
+heat: 118
 published: true
 
 provider:
@@ -64,6 +64,20 @@ related:
       - url: "https://scx2.b-cdn.net/gfx/news/2021/face-off-for-best-id-c.jpg"
         width: 1000
         height: 667
+        isCached: true
+  - title: "13 federal law enforcement agencies haven’t been monitoring facial recognition technology use"
+    excerpt: "The report from the U.S. Government Accountability Office (GAO) said 13 of the federal law enforcement agencies surveyed that use facial recognition technology did not have a system in place to track when or how employees were using the system or to assess the privacy risks associated with the use."
+    publishedDateTime: 2021-07-02T21:40:00Z
+    webUrl: "https://www.wpxi.com/news/top-stories/13-federal-law-enforcement-agencies-havent-been-monitoring-facial-recognition-technology-use/XLJYVPKNLRB37G2W252WIKKJXA/"
+    type: article
+    provider:
+      name: WPXI
+      domain: wpxi.com
+    quality: 28
+    images:
+      - url: "https://d1hfln2sfez66z.cloudfront.net/07-02-2021/t_0b890523399842af94bf32e2b9fcc9b0_name_file_960x540_1200_v3_1_.jpg"
+        width: 960
+        height: 540
         isCached: true
   - title: "What businesses should know about the city’s new facial-recognition law"
     excerpt: "A city law restricting facial-recognition technology and other biometric data collection takes effect Friday—setting up potential legal headaches if businesses don ’ t act. Re"

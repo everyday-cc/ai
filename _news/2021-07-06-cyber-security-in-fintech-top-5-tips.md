@@ -141,20 +141,6 @@ related:
         width: 800
         height: 400
         isCached: true
-  - title: "How are Fintech Companies Changing Credit Scores?"
-    excerpt: "Financial advisers and gurus have always emphasized the importance of credit scores ⁠— and most people today have taken this advice to heart, trying to be more proactive in checking their credit scores."
-    publishedDateTime: 2021-07-02T14:08:00Z
-    webUrl: "https://fintechzoom.com/fintech_news_buzz/how-are-fintech-companies-changing-credit-scores/"
-    type: article
-    provider:
-      name: fintechzoom
-      domain: fintechzoom.com
-    quality: 24
-    images:
-      - url: "https://fintechzoom.com/wp-content/uploads/2021/07/credit-scores-not-equal-ultrafico-e1570739182454.jpg"
-        width: 1254
-        height: 617
-        isCached: true
   - title: "Fintech Startups Disrupting the Whole Industry"
     excerpt: "However, do you actually know how huge the Financial Services industry is? You might arm yourself with a calculator, start crunching the numbers and arrive at a certain ballpark figure pretty soon. While there is a little doubt in your numerical prowess,"
     publishedDateTime: 2021-07-06T16:58:00Z
@@ -194,17 +180,6 @@ related:
         width: 640
         height: 480
         isCached: true
-  - title: "LendIt Fintech USA Reunites the Fintech Community with its Return to a Physical Event in 2022"
-    excerpt: "LendIt Fintech, the leading event series dedicated to financial services innovation, today announced that its flagship event,"
-    publishedDateTime: 2021-07-02T15:00:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/21/07/n21828492/lendit-fintech-usa-reunites-the-fintech-community-with-its-return-to-a-physical-event-in-2022"
-    ampWebUrl: "https://www.benzinga.com/amp/content/21828492"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/21828492"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 13
 
 secured: "GwyCsTbuPtKJSQ5BFU7bH8oe3H0nOxb6JvxH1KM9X/IGze2aT84QIHCWxNOxqZGzwjLQM5lrUfACWlQCOZ/ou2X0wOVs6PsTNz5ujjHhkHKRziFdnNFDCmboOv5QMPx9GjefSqPM2poQAh6JtMaqrpWMbdUbxXjbCtIM4tsmpNf5D/MvB8OUj9ElN7DG1idXUjq0amE+nw5dMwQYBUBLjh99zkhlN4INgEV8FdqFCuExemWmryjaxMZj3PKV1RIzcjfO/KruM9+dpZHjA0fTHEE5D3Ql9UUx9UfgW4eMUkog5YSOMzjV/nJniXZP6RoQyDrzzADg7dHH7h5SDnxvjZjlCSjEKyTk/vU9HFob2rQ=;oQbmDT6OEUqaOiDdP+q4sQ=="
 ---

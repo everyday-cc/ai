@@ -19,22 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Soon, it is going to be AI Vs AI battle in cybersecurity, fake news and defence"
-    excerpt: "Applications of Artificial Intelligence technologies are showing their impact on society and are growing very fast. It is revolutionizing all industry verticals and social dimensions. With most AI tools available as open sources and"
-    publishedDateTime: 2021-07-02T13:48:00Z
-    webUrl: "https://timesofindia.indiatimes.com/blogs/breaking-shackles/soon-it-is-going-to-be-ai-vs-ai-battle-in-cybersecurity-fake-news-and-defence/"
-    ampWebUrl: "https://timesofindia.indiatimes.com/blogs/breaking-shackles/soon-it-is-going-to-be-ai-vs-ai-battle-in-cybersecurity-fake-news-and-defence/"
-    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/breaking-shackles/soon-it-is-going-to-be-ai-vs-ai-battle-in-cybersecurity-fake-news-and-defence/"
-    type: article
-    provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 55
-    images:
-      - url: "https://static.toiimg.com/imagenext/toiblogs/photo/blogs/wp-content/uploads/2021/07/MEA-1.jpg"
-        width: 1200
-        height: 900
-        isCached: true
   - title: "Report: Growing San Diego Cybersecurity Cluster Using AI to Fight Hacking Threats"
     excerpt: "San Diego's cyber cluster accounts for 24,349 local jobs across 874 firms, has an annual economic impact of $3.5 billion, and is growing rapidly thanks to defense-related projects."
     publishedDateTime: 2021-07-06T00:52:00Z

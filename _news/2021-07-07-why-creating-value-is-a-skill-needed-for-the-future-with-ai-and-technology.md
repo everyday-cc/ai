@@ -86,20 +86,6 @@ related:
         width: 724
         height: 483
         isCached: true
-  - title: "Commerce.AI Releases AI-Generated Market Reports"
-    excerpt: "Commerce.AI has released a new AI-generated market reports feature, which delivers market intelligence insights across thousands of market categories. Market reports are accessible to all and were previously only available to those with access to Commerce."
-    publishedDateTime: 2021-07-02T14:51:00Z
-    webUrl: "https://www.cioapplications.com/news/commerceai-releases-aigenerated-market-reports--nid-8047.html"
-    type: article
-    provider:
-      name: CIO Applications
-      domain: cioapplications.com
-    quality: 37
-    images:
-      - url: "https://www.cioapplications.com/newstransfer/upload/81fu445030-8.jpg"
-        width: 450
-        height: 308
-        isCached: true
   - title: "Aible Doubles Down on Guaranteed Impact With New Industry-First Enterprise AI Features"
     excerpt: "Aible, the only enterprise AI that guarantees impact in one month, today announced innovations to its flagship product. Aible extends its leadership i"
     publishedDateTime: 2021-07-06T15:00:00Z

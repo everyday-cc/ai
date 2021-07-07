@@ -154,20 +154,6 @@ related:
         width: 800
         height: 400
         isCached: true
-  - title: "How are Fintech Companies Changing Credit Scores?"
-    excerpt: "Financial advisers and gurus have always emphasized the importance of credit scores ⁠— and most people today have taken this advice to heart, trying to be more proactive in checking their credit scores."
-    publishedDateTime: 2021-07-02T14:08:00Z
-    webUrl: "https://fintechzoom.com/fintech_news_buzz/how-are-fintech-companies-changing-credit-scores/"
-    type: article
-    provider:
-      name: fintechzoom
-      domain: fintechzoom.com
-    quality: 24
-    images:
-      - url: "https://fintechzoom.com/wp-content/uploads/2021/07/credit-scores-not-equal-ultrafico-e1570739182454.jpg"
-        width: 1254
-        height: 617
-        isCached: true
   - title: "Fintech Startups Disrupting the Whole Industry"
     excerpt: "However, do you actually know how huge the Financial Services industry is? You might arm yourself with a calculator, start crunching the numbers and arrive at a certain ballpark figure pretty soon. While there is a little doubt in your numerical prowess,"
     publishedDateTime: 2021-07-06T16:58:00Z
@@ -193,17 +179,6 @@ related:
       name: Crowdfund Insider
       domain: crowdfundinsider.com
     quality: 23
-  - title: "LendIt Fintech USA Reunites the Fintech Community with its Return to a Physical Event in 2022"
-    excerpt: "LendIt Fintech, the leading event series dedicated to financial services innovation, today announced that its flagship event,"
-    publishedDateTime: 2021-07-02T15:00:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/21/07/n21828492/lendit-fintech-usa-reunites-the-fintech-community-with-its-return-to-a-physical-event-in-2022"
-    ampWebUrl: "https://www.benzinga.com/amp/content/21828492"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/21828492"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 13
 
 secured: "kf0mHh06R0eD9NqO6UQ45G5TXJcGHs+EtZ/ldZRSw8GNLw4lo24xiLFQ1fvqL25myOQ7zpzCbxsdPuQdu3gqb/Wqybgk8xtRIBx9Bhwf+tP0/8ezpTjYoPLsw6C5glciTf9dbBs155qvNOF/YwnQ1+aOw/aZ94s7yh4Jku1ib/nTIiqoTIyvRUXR2EYoqYoLWS3CCCqeZNr31NJCqSv+vJdkXwAonr5ZL44KzE/aYiDEZmd5O1osoEWwvybRedohD/EsR+ITJ1+6efhPZ6Lo4lMIZyh/XV4B3LXYJ3bDg+qBgbmHlnTvuC0OluCS3WJHef0tbiDpzJ6cfysktUKzvQpu7yr6aGmqZDWcdu4quNc=;yauJcoll8E7ZBYej6kTu3Q=="
 ---

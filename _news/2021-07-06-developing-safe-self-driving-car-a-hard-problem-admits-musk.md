@@ -67,6 +67,22 @@ related:
         width: 708
         height: 454
         isCached: true
+  - title: "Elon Musk Says He’s Surprised to Discover That Self-Driving Cars Are Difficult"
+    excerpt: "After Tesla once again delayed the launch of its next “Full Self-Driving” (FSD) software beta, Elon Musk admitted that he’s been caught off guard by just how difficult it is to develop autonomous vehicles."
+    publishedDateTime: 2021-07-06T20:39:00Z
+    webUrl: "https://futurism.com/the-byte/elon-musk-surprised-self-driving-cars-difficult"
+    ampWebUrl: "https://futurism.com/elon-musk-surprised-self-driving-cars-difficult/amp"
+    cdnAmpWebUrl: "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/elon-musk-surprised-self-driving-cars-difficult/amp"
+    type: article
+    provider:
+      name: Futurism
+      domain: futurism.com
+    quality: 40
+    images:
+      - url: "https://wp-assets.futurism.com/2021/07/elon-musk-surprised-discover-self-driving-cars-difficult-600x315.jpg"
+        width: 600
+        height: 315
+        isCached: true
   - title: "Elon Musk Admits That Full-Self Driving Is a Hard Problem To Solve"
     excerpt: "CEO Elon Musk admitted this weekend that creating a car that is truly self-driving is a “hard problem” to solve. Musk has been promising to release Full Self-Driving software upgrades for several years,"
     publishedDateTime: 2021-07-06T02:01:00Z
@@ -125,17 +141,6 @@ related:
         width: 1200
         height: 900
         isCached: true
-  - title: "Elon Musk Says He’s Surprised to Discover That Self-Driving Cars Are Difficult"
-    excerpt: "After Tesla once again delayed the launch of its next “Full Self-Driving” (FSD) software beta, Elon Musk admitted that he’s been caught off guard by just how difficult it is to develop autonomous vehicles."
-    publishedDateTime: 2021-07-06T20:39:00Z
-    webUrl: "https://futurism.com/the-byte/elon-musk-surprised-self-driving-cars-difficult"
-    ampWebUrl: "https://futurism.com/elon-musk-surprised-self-driving-cars-difficult/amp"
-    cdnAmpWebUrl: "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/elon-musk-surprised-self-driving-cars-difficult/amp"
-    type: article
-    provider:
-      name: Futurism
-      domain: futurism.com
-    quality: 20
 
 secured: "q5J4AdZUkYRdPAUpmjhDZHgZdhoGD3LobFTYpRk1/wrUXhfRfYXhhs6dPdwjyxL1WvvG9JUy+vVqwacdTyaEQ+xvzlN/FhYFbB2VnH2wUw7g9/zcXYVK80eNhIU6I4hcIKNMqRBADcKAkwkJEa4+00G32sq5zb+gJ1FFbpbTb0HjQMeYwcjcez0PbW22b5y47vB41wvOyZZnnn+R18UTfrHxeint+miSnope9eDeHowrRbQYU5sUqG6yYqGPisj4Vc0QiIDkt8aduFpO0TZhW/66DSvbiJK7d2vvtlMwqJihqMFgh0H4gHIAj1PvT9vIzQ+3tmRnnLaI/HdYEM4KjTZZC7G8kOibipkOdl8BAG8=;TjRASV8+vZHw7/8rzS812g=="
 ---

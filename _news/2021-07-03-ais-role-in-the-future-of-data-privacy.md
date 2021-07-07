@@ -76,20 +76,6 @@ related:
         width: 724
         height: 483
         isCached: true
-  - title: "Commerce.AI Releases AI-Generated Market Reports"
-    excerpt: "Commerce.AI has released a new AI-generated market reports feature, which delivers market intelligence insights across thousands of market categories. Market reports are accessible to all and were previously only available to those with access to Commerce."
-    publishedDateTime: 2021-07-02T14:51:00Z
-    webUrl: "https://www.cioapplications.com/news/commerceai-releases-aigenerated-market-reports--nid-8047.html"
-    type: article
-    provider:
-      name: CIO Applications
-      domain: cioapplications.com
-    quality: 37
-    images:
-      - url: "https://www.cioapplications.com/newstransfer/upload/81fu445030-8.jpg"
-        width: 450
-        height: 308
-        isCached: true
   - title: "Why Creating Value is a skill needed for the future with AI and Technology"
     excerpt: "Mckinsey in an article “Defining the skills citizens will need in the future world of work” has said, and I quote: add value beyond what can be done by automated systems and intelligent machines operate in a digital environment continually adapt to new ways of working and new occupations While I agree these are necessary,"
     publishedDateTime: 2021-07-06T18:10:00Z

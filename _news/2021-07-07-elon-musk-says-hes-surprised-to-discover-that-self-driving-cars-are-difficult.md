@@ -8,7 +8,7 @@ webUrl: "https://futurism.com/the-byte/elon-musk-surprised-self-driving-cars-dif
 ampWebUrl: "https://futurism.com/elon-musk-surprised-self-driving-cars-difficult/amp"
 cdnAmpWebUrl: "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/elon-musk-surprised-self-driving-cars-difficult/amp"
 type: article
-quality: 20
+quality: 40
 heat: -1
 published: false
 
@@ -19,6 +19,12 @@ provider:
 topics:
   - AI in Autos
   - AI
+
+images:
+  - url: "https://wp-assets.futurism.com/2021/07/elon-musk-surprised-discover-self-driving-cars-difficult-600x315.jpg"
+    width: 600
+    height: 315
+    isCached: true
 
 related:
   - title: "Elon Musk admits self-driving is harder than he thought as Tesla owners troll him over missed deadlines"
@@ -137,6 +143,6 @@ related:
       domain: webindia123.com
     quality: 4
 
-secured: "hFW4arV4+CEUaet17qfZ4rzQ02itYwqbFo0APbXANd09iHYGrszorW36VUwvrGF39lqAf7HL1edjWWKyLi400CDPrVAS5YS4bAIUbPhhn3FDxWj4ILj3mJ+bxyrerVlahgMZrjyy1othv1kZ24JW39dQFLhRXI473Xu13kiO4ublUn9WsuJdNFuvUOius3Qadz6x9wLgqVpkUTASEXleWRjzGfKzdVsTxpi2UAIr/F682TzxI95qZ/HZzNf7Fk0CK/8py3Ub1CfAbATRA89HrwfqOWNwFs2BZjEZwiiMqCznoz4UYV2r6x90aIJzoe1CMRAHGqv3E6lbt9zkG1Xbfr3Bh2buFPIf6Uc7cWV73Lo=;+zwMw+DAwVsI33v2X0HFXw=="
+secured: "gSj9cYW3DcUUeXr1C7mdgyb8ACiwsvK3d2RPT7lj78jhRONASmmrPS3VnTYlERLz3FTQp2QV4wYxSfXVCHGiH1T8x8CsESHJtQGGSfqHJ3NjFAmgexe6weaDJ2hcNwn2ydP+dKWRv9sZI/iXySxe21u5XlwgPwUT3XvvkKpGc+Ga6OC23u3JC1dXzWS44RQoV0kYSjg+9DOdI5HmFZPo3gl6pIpvIl6PPi5msqwf9PlWnMd0fbDdTIdVZUOMZzcsALMzTKdxvcJJ0ze2F1RKZzYlY/8+fIO3ClJZFesRHPKphsbWboS4OPlSbnX8jT4sgiIv+DgOdTN4n0Z8u8wRRl0XCaFw0tS3s/ls7Ge8NhM=;pVei9UwoB2Pq009q/E7AWw=="
 ---
 

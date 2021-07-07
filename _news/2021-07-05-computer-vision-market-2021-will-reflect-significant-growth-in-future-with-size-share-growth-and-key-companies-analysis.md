@@ -71,20 +71,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence In Healthcare Market Opportunities, Size, Share, Emerging Trends, Technological Innovation, And Forecast 2027"
-    excerpt: "The report titled \"Global Artificial Intelligence in Healthcare Market: Demand Analysis & Opportunity Outlook 2027\" delivers detailed overview of the global artificial intelligence in healthcare market in terms of market segmentation by offering,"
-    publishedDateTime: 2021-07-02T13:25:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-opportunities-size-share-emerging-trends-technological-innovation-and-forecast-2027-2021-07-02"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 53
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Artificial Intelligence In Genomics Market Size Volume, Share, Demand growth, Business Opportunity by 2027"
     excerpt: "The global Artificial Intelligence In Genomics market size was valued at US$ 304 million in 2020 and is projected to reach US$ 2,675 million by 2027, rising at a market growth (CAGR) of 53.8% during the forecast period."
     publishedDateTime: 2021-07-05T22:02:00Z

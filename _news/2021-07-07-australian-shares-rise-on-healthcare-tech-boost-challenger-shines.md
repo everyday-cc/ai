@@ -1,20 +1,24 @@
 ---
 category: news
 title: "Australian shares rise on healthcare, tech boost; Challenger shines"
-excerpt: "Australian shares rose on Wednesday, lifted by the healthcare and technology sectors, while Challenger Ltd jumped after two U.S. companies bought a stake in the investment manager. July 7 (Reuters) - Australian shares rose on Wednesday,"
-publishedDateTime: 2021-07-07T01:36:00Z
-originalUrl: "https://www.nasdaq.com/articles/australian-shares-rise-on-healthcare-tech-boost-challenger-shines-2021-07-06"
-webUrl: "https://www.nasdaq.com/articles/australian-shares-rise-on-healthcare-tech-boost-challenger-shines-2021-07-06"
-ampWebUrl: "https://www.nasdaq.com/articles/australian-shares-rise-on-healthcare-tech-boost-challenger-shines-2021-07-06?amp"
-cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/australian-shares-rise-on-healthcare-tech-boost-challenger-shines-2021-07-06?amp"
+excerpt: "July 7 (Reuters) - Australian shares rose on Wednesday, lifted by the healthcare and technology sectors ... Buy-now-pay-later firm Afterpay advanced 1.4%, while artificial intelligence company Appen rose 2%. Gold stocks gained more than 1% as bullion ..."
+publishedDateTime: 2021-07-07T07:26:00Z
+originalUrl: "https://www.reuters.com/article/australia-stocks-midday-idUKL3N2OJ04L"
+webUrl: "https://www.reuters.com/article/australia-stocks-midday-idUKL3N2OJ04L"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idUKL3N2OJ04L"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKL3N2OJ04L"
 type: article
 quality: 69
 heat: 79
 published: true
 
 provider:
-  name: Nasdaq
-  domain: nasdaq.com
+  name: Reuters
+  domain: reuters.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Healthcare
@@ -36,6 +40,6 @@ related:
         height: 678
         isCached: true
 
-secured: "cNVVGd1qWf/pyMAO2qcqhYjxB08j6lhgTB687adB668u8SHYGCBEKqnluFKQ4srMjmrxtpEYFpv8f7QWP+cWc3cURxYMaAMtV4yXR0sN4nfPDbDbZlJGP/jUGbnyNijO4dmp86nQWbXJmG/VGJls9QiRN9SwwhuizNeRAzAmLjzQjk19iCaiZhXiCFKd4UkFI3Yy1pgHXChnMLtw6OXRkxZVAO/lwnTHy+rgXzTPyGVwULHzbemGwudxUpssy69AnK2zSvipR75s2WA+CP395L2uSPBbXsM60wSUzYHaRsUI2jm724tabuWINWULpQP0LYE5aJsGSZ33ed2tTPeS5DZMeH4hm5Q9DyqLU+fcPbibrX25ZJnHGyzUVWDaMpHxa1OmTYmLMVqtmhsgzI+oZ7SL6vGTDI4uzgcIQnM5BIVqx/rQn6CxnoB8KefB7XXExtiiHuRDc/8WQ9E917L2Kodah+ZqMmRMKLNGeYiXoBnAQO3L5uND8L2mrA4BnkWU+2MR8Olpjqozhtt/al/dPA==;y/80BMdPjHaEyzyKwNOKbw=="
+secured: "VLGx1w+wa+E7RrZCuDaEsckT0XxYsTbEUxGU5O2rnJTnbmgRPb7zZA/IFsQy2eihAje8A4Bs8QjYfH3AUi3jeIMynvhrHWUyhUdTpcZTnGfcmalvyrlWphtkNjZ/rxyUkaIVhHkx+YsbdnqQKx+knXo7hvJErolaWAbY7w+pwqFnkSDN8Xc6Juhhy9bhz5HMCJsjnEK80Tj2/vwdfUYWJ3DOQ0cJA8Wo1utyuOvC6hqk+RZL/QuSURroecd0WsPBN3kWZk9JG1qd3qmBGW8sv1FNRwWOhV9PBa4yfg8EQd7qdS9kViBq/VipOA276GpFajZSborfbUSIn0iHvWrSRtE5k29UMaFFbvrJkGJt3+0=;ypGok0M/f3G35IKtc15onA=="
 ---
 

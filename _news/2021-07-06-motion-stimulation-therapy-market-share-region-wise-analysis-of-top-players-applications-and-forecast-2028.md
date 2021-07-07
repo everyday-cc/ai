@@ -45,22 +45,6 @@ related:
         width: 1200
         height: 774
         isCached: true
-  - title: "Observation, simulation, and AI join forces to reveal a clear universe"
-    excerpt: "Japanese astronomers have developed a new artificial intelligence (AI) technique to remove noise in astronomical data due to random variations in galaxy shapes. After extensive training and testing on large mock data created by supercomputer simulations,"
-    publishedDateTime: 2021-07-02T14:51:00Z
-    webUrl: "https://phys.org/news/2021-07-simulation-ai-reveal-universe.html"
-    ampWebUrl: "https://phys.org/news/2021-07-simulation-ai-reveal-universe.amp"
-    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-07-simulation-ai-reveal-universe.amp"
-    type: article
-    provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 57
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/observation-simulation.jpg"
-        width: 2880
-        height: 2035
-        isCached: true
   - title: "Emotion Detection and Recognition Market Size to accrue $ 64.7 billion by 2027"
     excerpt: "Market Study Report LLC has added a new report on Emotion Detection and Recognition market that provides a comprehensive review of this industry with respect to the driving forces influencing the market size."
     publishedDateTime: 2021-07-06T10:57:00Z

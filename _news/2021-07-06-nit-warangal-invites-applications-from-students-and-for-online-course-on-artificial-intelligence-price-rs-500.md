@@ -9,7 +9,7 @@ ampWebUrl: "https://www.dqindia.com/nit-warangal-invites-applications-students-o
 cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/nit-warangal-invites-applications-students-online-course-artificial-intelligence-price-rs-500/amp/"
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,24 @@ images:
     width: 640
     height: 400
     isCached: true
+
+related:
+  - title: "IIT Guwahati Invites Applications for 12-week Free Online Course on Artificial Intelligence"
+    excerpt: "IIT Guwahati has invited applications from students and professionals for free online course on fundamentals of artificial intelligence"
+    publishedDateTime: 2021-07-07T06:27:00Z
+    webUrl: "https://www.dqindia.com/iit-guwahati-invites-applications-12-week-free-online-course-artificial-intelligence/"
+    ampWebUrl: "https://www.dqindia.com/iit-guwahati-invites-applications-12-week-free-online-course-artificial-intelligence/amp/"
+    cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/iit-guwahati-invites-applications-12-week-free-online-course-artificial-intelligence/amp/"
+    type: article
+    provider:
+      name: Dataquest
+      domain: dqindia.com
+    quality: 49
+    images:
+      - url: "https://www.dqindia.com/wp-content/uploads/2019/04/Artificial-Intelligence-Technology-Futuristic-3262753.jpg"
+        width: 736
+        height: 400
+        isCached: true
 
 secured: "i7S3W4BMmlkVSdwbncWUiRiGT1vLKt19Jy5VBJ+22xDCk0NE59wGhPs7qudTyPeJBC9CYMoqeNjLrJxlg+nTG3wjU35vlOMU+Jd01tJp8YplzlLGjuUC0luWMd/LLBkexrnLjKooSzm/vagr8xXk92zON7gIC0QMhgI1I0SzFxZQ3DFjUag0jDW3u6pzRijyUdwHOsBlSPvm1Uj31sv17TdDyqA8PwKQFwnC0WmW5USXbU4zGSPLsWXi4ZN7GWHYoWVZFAyCNfa1jGWZeLAVaNl1s7jaZUZwTJaHx3pEdAYDsCHtg41Jm7HNbhiFOwb3zZP7tBXYu18pZh7UTAVBH2pIvkoxQA+ZdPRS/Cn3f/g=;Q8TfK62IRYw1fTW7FemaVA=="
 ---

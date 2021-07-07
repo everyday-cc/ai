@@ -7,7 +7,7 @@ originalUrl: "https://www.mynewsdesk.com/uk/isansys-lifecare-ltd/news/world-lead
 webUrl: "https://www.mynewsdesk.com/uk/isansys-lifecare-ltd/news/world-leading-paediatric-hospital-to-use-data-analytics-and-real-time-predictive-ai-to-prevent-avoidable-deaths-in-children-430788"
 type: article
 quality: 11
-heat: -1
+heat: 11
 published: false
 
 provider:
@@ -22,36 +22,6 @@ images:
     width: 1200
     height: 628
     isCached: true
-
-related:
-  - title: "Machine Learning Algorithm Brings Predictive Analytics to Cell Study"
-    excerpt: "Scientists have created a new system that uses machine learning and predictive analytics to determine which transcription factors are active in an individual cell."
-    publishedDateTime: 2021-07-02T13:30:00Z
-    webUrl: "https://healthitanalytics.com/news/machine-learning-algorithm-brings-predictive-analytics-to-cell-study"
-    type: article
-    provider:
-      name: Analytics
-      domain: healthitanalytics.com
-    quality: 39
-    images:
-      - url: "https://healthitanalytics.com/images/site/article_headers/_normal/GettyImages-1164501571.jpg"
-        width: 690
-        height: 400
-        isCached: true
-  - title: "AI powered Video Analytics market to enjoy explosive growth to 2026 | Cisco, Verint, IBM"
-    excerpt: "The AI powered Video Analytics Market has witnessed continuous growth in the past few years and is projected to grow even further during the forecast period (2020-2026). The assessment provides a 360 view and insights,"
-    publishedDateTime: 2021-07-04T17:07:00Z
-    webUrl: "https://manometcurrent.com/ai-powered-video-analytics-market-to-enjoy-explosive-growth-to-2026-cisco-verint-ibm/"
-    type: article
-    provider:
-      name: manometcurrent.com
-      domain: manometcurrent.com
-    quality: 28
-    images:
-      - url: "https://manometcurrent.com/wp-content/uploads/2021/07/AI-powered-Video-Analytics-market.png"
-        width: 660
-        height: 400
-        isCached: true
 
 secured: "xFyWP385rZn5oHqrDVf/uA7Q+KK6E8rEiUqYr3MepAOFErovx0lEaKzwhExMF7kemg8SyBlArpe7hhXRtiBlhAtmg2bQn/A1I+rzxVSgZueg3k0NKWNhfOnuIceYnL52sdKOk6eljyC/X2RFRM0LzAeuf4zc5t8FVzDEDCqvga5wrDBZF4nzc9CMNZjVPX8uhOp/K0J6U9ZNLHJeOrc0TDISg5xoQ6JQvSFqIAYEumaOhb3VkHNcIVFUvJy6FPb6YX8btXsuHvToFrJa77zp3Ou3JOjhR6n4CZxOrDftglW23+Kn8yF0Ewr1BqeO7HFfY2/WjORipkFTzqNCFUa2WKp7JaGP38z5KTgZITINEmk=;YGb1z7FzZC2uKuE7g+Vfpw=="
 ---
