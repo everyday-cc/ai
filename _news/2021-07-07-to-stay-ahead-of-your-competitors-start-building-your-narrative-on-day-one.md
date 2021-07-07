@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2021/07/06/to-stay-ahead-of-your-competitors-
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/07/06/to-stay-ahead-of-your-competitors-start-building-your-narrative-on-day-one/amp/"
 type: article
 quality: 70
-heat: 70
+heat: 71
 published: true
 
 provider:

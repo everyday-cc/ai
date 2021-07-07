@@ -2,6 +2,229 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2021-06-28-greensprings-school-to-integrate-robotics-artificial-intelligence-into-curriculum.md",
+      "title": "Greensprings School to Integrate Robotics, Artificial Intelligence into Curriculum",
+      "excerpt": "The management of Greensprings School has announced that the school will start offering robotics and artificial intelligence (AI) to its secondary school students. This announcement",
+      "sourceUrl": null,
+      "webUrl": "https://www.vanguardngr.com/2021/06/greensprings-school-to-integrate-robotics-artificial-intelligence-into-curriculum/",
+      "originalUrl": "https://www.vanguardngr.com/2021/06/greensprings-school-to-integrate-robotics-artificial-intelligence-into-curriculum/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.vanguardngr.com/wp-content/uploads/2018/11/Greensprings-pix.gif",
+          "width": 412,
+          "height": 296,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.vanguardngr.com/2021/06/greensprings-school-to-integrate-robotics-artificial-intelligence-into-curriculum/?amp=1",
+      "cdnAmpWebUrl": "https://www-vanguardngr-com.cdn.ampproject.org/c/s/www.vanguardngr.com/2021/06/greensprings-school-to-integrate-robotics-artificial-intelligence-into-curriculum/?amp=1",
+      "publishedDateTime": "2021-06-28T07:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Vanguard",
+        "domain": "vanguardngr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-28-how-pepsico-uses-ai-to-create-products-consumers-dont-know-they-want.md",
+      "title": "How PepsiCo uses AI to create products consumers don’t know they want",
+      "excerpt": "Leaders at PepsiCo detail how they use data, AI, and machine learning for every part of the product journey, from innovation to marketing.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/06/28/how-pepsico-uses-ai-to-create-products-consumers-dont-know-they-want/",
+      "originalUrl": "https://venturebeat.com/2021/06/28/how-pepsico-uses-ai-to-create-products-consumers-dont-know-they-want/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/11/GettyImages-1204561139.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 597,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/06/28/how-pepsico-uses-ai-to-create-products-consumers-dont-know-they-want/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/28/how-pepsico-uses-ai-to-create-products-consumers-dont-know-they-want/amp/",
+      "publishedDateTime": "2021-06-28T07:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-28-enterprise-ai-startup-beyondminds-certified-by-top-international-security-standard.md",
+      "title": "Enterprise AI Startup BeyondMinds Certified by Top International Security Standard",
+      "excerpt": "BeyondMinds, an enterprise AI software provider delivering fully managed, production-grade AI solutions on top of its turnkey AI platform, today announced it has earned ISO 27001:2013. The certification,",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/globe-newswire/business-technology-061006a8611cbe8746dba86f82b79b9c",
+      "originalUrl": "https://apnews.com/press-release/globe-newswire/business-technology-061006a8611cbe8746dba86f82b79b9c",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-28T06:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2021-06-28-supermicro-boosts-performance-for-hpc-and-ai-applications-with-optimized-servers-featuring-new-nvidia-a100-80gb-pcie-gpus.md",
+      "title": "Supermicro Boosts Performance for HPC and AI Applications with Optimized Servers Featuring New NVIDIA A100 80GB PCIe GPUs",
+      "excerpt": "Supermicro servers, designed with a Building Block Solutions ® approach, give Supermicro a first to market advantage when incorporating new technologies. State-of-the-art accelerated computing options can be quickly integrated and tested,",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/-supermicro-boosts-performance-hpc-ai-applications-with-optimized-/2021/06/28/9398763.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-supermicro-boosts-performance-hpc-ai-applications-with-optimized-/2021/06/28/9398763.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1443241/Supermicro_Logo.jpg",
+          "width": 400,
+          "height": 206,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-28T06:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-28-grene-robotics-develops-indigenous-drone-defence-dome.md",
+      "title": "Grene Robotics develops indigenous drone defence dome",
+      "excerpt": "The autonomous defence weapon system uses Artificial Intelligence, cybersecurity and robotics to identify and counter threats",
+      "sourceUrl": null,
+      "webUrl": "https://www.thehindubusinessline.com/companies/grene-robotics-develops-indigenous-drone-defence-dome/article35018981.ece",
+      "originalUrl": "https://www.thehindubusinessline.com/companies/grene-robotics-develops-indigenous-drone-defence-dome/article35018981.ece",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.thehindubusinessline.com/info-tech/13fsry/article33746129.ece/ALTERNATES/LANDSCAPE_615/DRONES",
+          "width": 615,
+          "height": 384,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thehindubusinessline.com/companies/grene-robotics-develops-indigenous-drone-defence-dome/article35018981.ece/amp/",
+      "cdnAmpWebUrl": "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/companies/grene-robotics-develops-indigenous-drone-defence-dome/article35018981.ece/amp/",
+      "publishedDateTime": "2021-06-28T06:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Line",
+        "domain": "thehindubusinessline.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-28-meet-the-new-standard-in-risk-management.md",
       "title": "Meet the new standard in risk management",
       "excerpt": "Legacy assessment based third-party risk management (TPRM) practices have struggled for years to keep pace with business needs. During the COVID-19 crisis, these shortcomings became even more acute. Companies faced additional unanticipated challenges involving the rapid onboarding of new service providers,",
@@ -900,233 +1123,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-27-security-robots-expand-across-us-with-few-tangible-results.md",
-      "title": "Security Robots Expand Across US, With Few Tangible Results",
-      "excerpt": "A prominent security robot company has cited little public evidence or specific, detailed examples of crimes that have been thwarted by its machines.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnewyork.com/news/national-international/security-robots-expand-across-few-tangible-results/3127219/",
-      "originalUrl": "https://www.nbcnewyork.com/news/national-international/security-robots-expand-across-few-tangible-results/3127219/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.nbcnewyork.com/2021/06/062721-GettyImages-688223544.jpeg?quality=85&strip=all&crop=0px%2C181px%2C3200px%2C1800px&resize=1200%2C675",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnewyork.com/news/national-international/security-robots-expand-across-few-tangible-results/3127219/?amp",
-      "cdnAmpWebUrl": "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/news/national-international/security-robots-expand-across-few-tangible-results/3127219/?amp",
-      "publishedDateTime": "2021-06-27T04:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC New York",
-        "domain": "nbcnewyork.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2021-06-27-deepmind-agi-paper-adds-urgency-to-ethical-ai.md",
-      "title": "DeepMind AGI paper adds urgency to ethical AI",
-      "excerpt": "© 2021 Insider Inc. and finanzen.net GmbH (Imprint). All rights reserved. Registration on or use of this site constitutes acceptance of our Terms of Service and ...",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/deepmind-agi-paper-adds-urgency-to-ethical-ai-10278063",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/deepmind-agi-paper-adds-urgency-to-ethical-ai-10278063",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-27T02:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2021-06-27-pytorch-gains-momentum-with-push-from-facebook-and-microsoft.md",
-      "title": "PyTorch Gains Momentum With Push From Facebook And Microsoft",
-      "excerpt": "Thanks to Facebook and Microsoft, PyTorch is on its way to becoming the preferred framework for building sophisticated AI models for the cloud, desktop and mobile.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/janakirammsv/2021/06/27/pytorch-gains-momentum-with-push-from-facebook-and-microsoft/",
-      "originalUrl": "https://www.forbes.com/sites/janakirammsv/2021/06/27/pytorch-gains-momentum-with-push-from-facebook-and-microsoft/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 151,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60d815da0c030140b46c2abd%2F0x0.jpg",
-          "width": 1000,
-          "height": 525,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/janakirammsv/2021/06/27/pytorch-gains-momentum-with-push-from-facebook-and-microsoft/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janakirammsv/2021/06/27/pytorch-gains-momentum-with-push-from-facebook-and-microsoft/amp/",
-      "publishedDateTime": "2021-06-26T23:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-27-alat-by-wema-charting-roadmap-for-digital-banks-fintech.md",
-      "title": "ALAT by Wema: Charting roadmap for digital banks, fintech",
-      "excerpt": "However, what young people have today that we didn’t have before is the abundance of choice fueled by the rapid penetration of the Internet and digital technology. These two factors have introduced new dimensions to how we do business and make money.",
-      "sourceUrl": null,
-      "webUrl": "https://punchng.com/alat-by-wema-charting-roadmap-for-digital-banks-fintech/",
-      "originalUrl": "https://punchng.com/alat-by-wema-charting-roadmap-for-digital-banks-fintech/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.punchng.com/wp-content/uploads/2018/09/14183622/20180707-DSC_0079new.jpg",
-          "width": 800,
-          "height": 482,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://punchng.com/alat-by-wema-charting-roadmap-for-digital-banks-fintech/?amp",
-      "cdnAmpWebUrl": "https://punchng-com.cdn.ampproject.org/c/s/punchng.com/alat-by-wema-charting-roadmap-for-digital-banks-fintech/?amp",
-      "publishedDateTime": "2021-06-26T17:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Punch Newspapers",
-        "domain": "punchng.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-27-machine-learning-identifies-new-brain-network-signature-of-major-depression.md",
-      "title": "Machine learning identifies new brain network signature of major depression",
-      "excerpt": "Machine learning is a method of data analysis that automates analytical model building. It is a branch of artificial intelligence based on the idea that",
-      "sourceUrl": null,
-      "webUrl": "https://www.thedailystar.net/health/news/machine-learning-identifies-new-brain-network-signature-major-depression-2118733",
-      "originalUrl": "https://www.thedailystar.net/health/news/machine-learning-identifies-new-brain-network-signature-major-depression-2118733",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assetsds.cdnedge.bluemix.net/sites/default/files/styles/social_share/public/feature/images/2021/06/26/brain-network-signature.jpg?itok=FT-QWUJF",
-          "width": 560,
-          "height": 292,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thedailystar.net/health/news/machine-learning-identifies-new-brain-network-signature-major-depression-2118733?amp",
-      "cdnAmpWebUrl": "https://www-thedailystar-net.cdn.ampproject.org/c/s/www.thedailystar.net/health/news/machine-learning-identifies-new-brain-network-signature-major-depression-2118733?amp",
-      "publishedDateTime": "2021-06-26T12:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Daily Star",
-        "domain": "thedailystar.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

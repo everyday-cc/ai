@@ -59,6 +59,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Digital transformation fueling spending on cloud, AI, robotics, security and SaaS"
+    excerpt: "\"Emerging technologies like artificial intelligence, the Internet of Things ... are investing in key use cases like collaborative robotics, operational performance management, and 3D and digital product design and review for improved cost control and ..."
+    publishedDateTime: 2021-07-07T16:31:00Z
+    webUrl: "https://www.securitysystemsnews.com/article/digital-transformation-fueling-spending-on-cloud-ai-robotics-security-and-saas"
+    type: article
+    provider:
+      name: Security Systems News
+      domain: securitysystemsnews.com
+    quality: 81
+    images:
+      - url: "https://www.securitysystemsnews.com/uploads/blog/6dfcbb88d032e82b4366850eb1aeb8ef.jpg"
+        width: 1000
+        height: 576
+        isCached: true
   - title: "Six Ways AI is Transforming Sales"
     excerpt: "Every day, AI influences our purchasing decisions, from the shows we watch to the routes drivers take to the next product we shop online. Here are six ways AI is transforming sales: The size of the sale,"
     publishedDateTime: 2021-07-05T11:56:00Z

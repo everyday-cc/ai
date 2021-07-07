@@ -2,6 +2,58 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2021-05-18-image-recognition-market-latest-industry-size-growth-share-demand-trends-competitive-landscape-and-forecasts-to-2028-fortune-business-insights.md",
+      "title": "Image Recognition Market Latest Industry Size, Growth, Share, Demand, Trends, Competitive Landscape and Forecasts to 2028, Fortune Business Insights",
+      "excerpt": "According to the report, the global image recognition market size is projected to reach USD 81.88 billion by 2026.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/image-recognition-market-latest-industry-size-growth-share-demand-trends-competitive-landscape-and-forecasts-to-2028-fortune-business-insights-2021-05-18?tesla=y",
+      "originalUrl": "https://www.marketwatch.com/press-release/image-recognition-market-latest-industry-size-growth-share-demand-trends-competitive-landscape-and-forecasts-to-2028-fortune-business-insights-2021-05-18?tesla=y",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-18T02:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-18-state-farm-taps-object-recognition-with-carcapture-app.md",
       "title": "State Farm taps object recognition with CarCapture app",
       "excerpt": "State Farm is leveraging object recognition technology and partnering with Edmunds.com to launch the CarCapture mobile application that allows users to snap a photo of the back of a car and instantly receive detailed information. Consumers will be able to ...",
@@ -1311,51 +1363,6 @@
       "topics": [
         "Computer Vision",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-05-politico-ai-decoded-robot-law-helsinki-wants-to-be-europes-smartest-china-on-facial-recognition.md",
-      "title": "POLITICO AI: Decoded: Robot law — Helsinki wants to be Europe’s smartest — China on facial recognition",
-      "excerpt": "How global thinking on AI is shaping the world, from Berlin, Brussels, London and beyond. POLITICO’s AI correspondent cuts through the noise, introduces you to the key decision-makers you’ve never heard of and tells you what those in power don’t want you to know.",
-      "sourceUrl": null,
-      "webUrl": "https://www.politico.eu/newsletter/ai-decoded/politico-ai-decoded-robot-law-helsinki-wants-to-be-europes-smartest-china-on-facial-recognition/",
-      "originalUrl": "https://www.politico.eu/newsletter/ai-decoded/politico-ai-decoded-robot-law-helsinki-wants-to-be-europes-smartest-china-on-facial-recognition/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.politico.eu/wp-content/uploads/2021/04/01/AI-Decoded.png",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.politico.eu/newsletter/ai-decoded/politico-ai-decoded-robot-law-helsinki-wants-to-be-europes-smartest-china-on-facial-recognition/amp/",
-      "cdnAmpWebUrl": "https://www-politico-eu.cdn.ampproject.org/c/s/www.politico.eu/newsletter/ai-decoded/politico-ai-decoded-robot-law-helsinki-wants-to-be-europes-smartest-china-on-facial-recognition/amp/",
-      "publishedDateTime": "2021-05-05T02:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "POLITICO",
-        "domain": "politico.eu",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Robotics",
-        "AI Ethics"
       ]
     }
   ],

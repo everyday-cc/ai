@@ -6,7 +6,7 @@ publishedDateTime: 2021-07-07T15:06:00Z
 originalUrl: "https://www.healthcaredive.com/press-release/20210707-etherfax-releases-new-artificial-intelligence-solution-for-automated-data-e/"
 webUrl: "https://www.healthcaredive.com/press-release/20210707-etherfax-releases-new-artificial-intelligence-solution-for-automated-data-e/"
 type: article
-quality: 10
+quality: 14
 heat: -1
 published: false
 
@@ -16,6 +16,8 @@ provider:
 
 topics:
   - AI
+  - Microsoft AI
+  - AI in Healthcare
 
 related:
   - title: "Zoom Releases Edge Speech Recognition Powered by Sensory"

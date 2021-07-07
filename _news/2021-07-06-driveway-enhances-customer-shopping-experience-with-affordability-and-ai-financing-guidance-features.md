@@ -60,6 +60,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Digital transformation fueling spending on cloud, AI, robotics, security and SaaS"
+    excerpt: "\"Emerging technologies like artificial intelligence, the Internet of Things ... are investing in key use cases like collaborative robotics, operational performance management, and 3D and digital product design and review for improved cost control and ..."
+    publishedDateTime: 2021-07-07T16:31:00Z
+    webUrl: "https://www.securitysystemsnews.com/article/digital-transformation-fueling-spending-on-cloud-ai-robotics-security-and-saas"
+    type: article
+    provider:
+      name: Security Systems News
+      domain: securitysystemsnews.com
+    quality: 81
+    images:
+      - url: "https://www.securitysystemsnews.com/uploads/blog/6dfcbb88d032e82b4366850eb1aeb8ef.jpg"
+        width: 1000
+        height: 576
+        isCached: true
   - title: "Blending Computing with AI & Machine Learning for Low Risk High Returns"
     excerpt: "Liquidity in real estate may not be immediate, interest in fixed deposits is low in comparison to equities’ returns in the long term."
     publishedDateTime: 2021-07-03T16:53:00Z

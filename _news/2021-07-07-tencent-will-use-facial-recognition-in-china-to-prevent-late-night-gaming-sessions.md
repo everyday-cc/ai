@@ -1,14 +1,12 @@
 ---
 category: news
 title: "Tencent Will Use Facial Recognition in China to Prevent Late Night Gaming Sessions"
-excerpt: "Playing games late into the night in China is set to get even more difficult for minors following an announcement the world's largest video game vendor Tencent is introducing facial recognition. As Gizmodo reports,"
-publishedDateTime: 2021-07-07T14:48:00Z
-originalUrl: "https://www.pcmag.com/news/tencent-will-use-facial-recognition-in-china-to-prevent-late-night-gaming"
-webUrl: "https://www.pcmag.com/news/tencent-will-use-facial-recognition-in-china-to-prevent-late-night-gaming"
-ampWebUrl: "https://www.pcmag.com/news/tencent-will-use-facial-recognition-in-china-to-prevent-late-night-gaming?amp=true"
-cdnAmpWebUrl: "https://www-pcmag-com.cdn.ampproject.org/c/s/www.pcmag.com/news/tencent-will-use-facial-recognition-in-china-to-prevent-late-night-gaming?amp=true"
+excerpt: "Playing games late into the night in China is set to get even more difficult for minors following an announcement the world's largest video game vendor Tencent is introducing facial recognition."
+publishedDateTime: 2021-07-07T15:26:00Z
+originalUrl: "https://uk.pcmag.com/games/134366/tencent-will-use-facial-recognition-in-china-to-prevent-late-night-gaming-sessions"
+webUrl: "https://uk.pcmag.com/games/134366/tencent-will-use-facial-recognition-in-china-to-prevent-late-night-gaming-sessions"
 type: article
-quality: 83
+quality: 63
 heat: -1
 published: false
 
@@ -25,9 +23,9 @@ topics:
   - AI
 
 images:
-  - url: "https://i.pcmag.com/imagery/articles/01K7hHs7GpQBT70XqA5hFfc-1.1625668969.fit_lim.size_1200x630.jpg"
-    width: 1120
-    height: 630
+  - url: "https://sm.pcmag.com/t/pcmag_uk/news/t/tencent-wi/tencent-will-use-facial-recognition-in-china-to-prevent-late_dgzb.1200.jpg"
+    width: 1200
+    height: 675
     isCached: true
 
 related:
@@ -123,6 +121,22 @@ related:
         width: 1284
         height: 720
         isCached: true
+  - title: "Tencent uses facial recognition tool to stop kids playing video games at night"
+    excerpt: "Chinese publisher Tencent has started using its Midnight Patrol system to check for children playing video games when they shouldn’t."
+    publishedDateTime: 2021-07-07T16:44:00Z
+    webUrl: "https://metro.co.uk/2021/07/07/facial-recognition-tool-used-to-stop-kids-playing-video-games-at-night-14891074/"
+    ampWebUrl: "https://metro.co.uk/2021/07/07/facial-recognition-tool-used-to-stop-kids-playing-video-games-at-night-14891074/amp/"
+    cdnAmpWebUrl: "https://metro-co-uk.cdn.ampproject.org/c/s/metro.co.uk/2021/07/07/facial-recognition-tool-used-to-stop-kids-playing-video-games-at-night-14891074/amp/"
+    type: article
+    provider:
+      name: Metro
+      domain: metro.co.uk
+    quality: 55
+    images:
+      - url: "https://metro.co.uk/wp-content/uploads/2021/07/111768008_honor.kings_.g-821d.jpg?quality=90&strip=all&zoom=1&resize=600%2C337"
+        width: 600
+        height: 337
+        isCached: true
   - title: "Tencent will use facial recognition to restrict minors from playing games late night; here’s how it works"
     excerpt: "China banned the PUBG Mobile online multiplayer game long back but the game publisher Tencent manages to relaunch the game in the country with some"
     publishedDateTime: 2021-07-07T14:27:00Z
@@ -182,6 +196,6 @@ related:
         height: 488
         isCached: true
 
-secured: "ajxycX0gesFyx7ivUVlAUQC62dM6lOwnmz2IDdLvYwMzBWcqFwluksck4YY7UNMHLC/FzyenCadkp15ElaYmmcAEphn5+j6x+3KXMJG5bgIsR3T3OSadTvIkJMRE9HovODrmHY4UF1Z3y54pgyxlq2Ns4SlssS5cLhxta0WwjbntAyQfAapvqB1xtLM2zkxUb7SHi6/LMCV4sjWN8BIlyC3heFSef1rCq2iylNvV1OPSYlcuqSCa0LpeIXY+HMacZ0k5L/hYAbarjFvBbV1BisjG69iRp7HxHDS4zCpIS3rg9LQrMO8DDK/wPJEXor9NGFjMiX62zJX2xPoVm9hU/DChe4+HOADP6g7PwFt/6uI=;P2DArvPkacpLeAeFv3SUGw=="
+secured: "fikekfB66q3GP8gPRbAZovGKAQWDG1aeXi/LEWhUJLRciPLPjck/awxJ5iJM2t2JfQjvCU11u2SzSXKlVLS/Yw/em6ywDvVxO4X2WHnw6lsuq2n29gtXi+6Y85MWvm2zrLgDPT4m8NIsklK3lwqV6xPXVe6pVvARQ0BJz6a5Dhmxkg5b6wTkFWa2zHVy7LP60Zw8q4cioJH4INW1pZfFVTxJsClyxSNZF/jhU9oLnSY7Ki0QuoBV8wijSIRdzry+LgKbA764/GynjZQPDQi87jn0iu7xcMphGSKv/D/7r3BjLfa+3kxHmPCP11UhWJGotfoTDkm0A4YSQcY78VCwmwy9OU5TdlxWy2yBrOREk0Y=;8ewlKWWk2pDmFsbTMGHQxQ=="
 ---
 

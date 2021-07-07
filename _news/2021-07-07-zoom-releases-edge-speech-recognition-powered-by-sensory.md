@@ -33,7 +33,7 @@ related:
     provider:
       name: Healthcare Dive
       domain: healthcaredive.com
-    quality: 10
+    quality: 14
 
 secured: "eiYpL2AGVTO3+N14qr/JFX5W0U7B6cSYxigLxc0gByHRWUN0+fujoF518CyqL2UnMDg9JBd816GIMfAyiLZ5ynsYOjYNpFBlNNRTbvuMVRXfiYSGaN9i/rh5JAHxgLyRU4z0rkf2f6mfu8wSDppwClJO4NfgVCCYqZCCWuDAVt32UJvpk2ldYWVhs8V2OTSJu6gtG6hGgSk3wKhNPh2rfJOq7FC1+JtPKD+RFletopYKp8JtHXkm5pQTsstP9hivm2w9mO4lnAzOehk7LxBZ7rqPWkmTqP20UOMFjlfy3bHak6OiJWRF+QROJTuYs8Tp8niuU925lSj1WYU/DHqIrTimM/g8g+Q8AGXXP+R7jcg=;pSWFXbtOiM6iOlUOENaH8A=="
 ---

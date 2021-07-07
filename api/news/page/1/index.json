@@ -2,6 +2,267 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-07-07-the-man-behind-chinas-aggressive-new-voice.md",
+      "title": "The Man Behind China’s Aggressive New Voice",
+      "excerpt": "Pakistan was one of the first noncommunist countries to switch diplomatic recognition from the exiled government in ... Into that void stepped Zhao, who became the sole voice on all things C.P.E.C., both on Twitter and in more staid official communications.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2021/07/07/magazine/china-diplomacy-twitter-zhao-lijian.html",
+      "originalUrl": "https://www.nytimes.com/2021/07/07/magazine/china-diplomacy-twitter-zhao-lijian.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2021/07/11/magazine/11mag-wolfwarriers/11mag-wolfwarriers-facebookJumbo-v2.jpg",
+          "width": 1050,
+          "height": 549,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2021/07/07/magazine/china-diplomacy-twitter-zhao-lijian.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/07/07/magazine/china-diplomacy-twitter-zhao-lijian.amp.html",
+      "publishedDateTime": "2021-07-07T09:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-07-wellsaid-labs-raises-10-million-to-boost-its-synthetic-voice-business-fueled-by-ai.md",
+      "title": "WellSaid Labs raises $10 million to boost its synthetic voice business, fueled by AI",
+      "excerpt": "WellSaid Labs will have a lot more to say in the years ahead, thanks to $10 million in new investment that’ll be used to beef up the Seattle startup’s efforts to put a widening chorus of AI-generated synthetic voices to work. The Series A funding round ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.geekwire.com/2021/wellsaid-labs-raises-10-million-boost-synthetic-voice-business-fueled-ai/",
+      "originalUrl": "https://www.geekwire.com/2021/wellsaid-labs-raises-10-million-boost-synthetic-voice-business-fueled-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.geekwire.com/wp-content/uploads/2021/07/image003-630x420.png",
+          "width": 630,
+          "height": 420,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.geekwire.com/2021/wellsaid-labs-raises-10-million-boost-synthetic-voice-business-fueled-ai/amp/",
+      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2021/wellsaid-labs-raises-10-million-boost-synthetic-voice-business-fueled-ai/amp/",
+      "publishedDateTime": "2021-07-07T09:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GeekWire",
+        "domain": "geekwire.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/geekwire.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-07-ask-a-techspert-whats-a-neural-network.md",
+      "title": "Ask a Techspert: What’s a neural network?",
+      "excerpt": "Back in the day, there was a surefire way to tell humans and computers apart: You’d present a picture of a four-legged friend and ask if it was a cat or dog. A computer couldn’t identify felines from canines, but we humans could answer with doggone confidence. That all changed about a decade ago thanks",
+      "sourceUrl": null,
+      "webUrl": "https://blog.google/technology/ai/ask-a-techspert-whats-a-neural-network/",
+      "originalUrl": "https://blog.google/technology/ai/ask-a-techspert-whats-a-neural-network/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 111,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/neural_networks_hero.max-1300x1300.jpg",
+          "width": 1300,
+          "height": 541,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://blog.google/technology/ai/ask-a-techspert-whats-a-neural-network/amp/",
+      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/technology/ai/ask-a-techspert-whats-a-neural-network/amp/",
+      "publishedDateTime": "2021-07-07T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Google",
+        "domain": "blog.google",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-07-07-robots-can-make-music-but-can-they-sing.md",
+      "title": "Robots Can Make Music, but Can They Sing?",
+      "excerpt": "At an international competition called the A.I. Song Contest, tracks exploring the technology as a tool for music making revealed the potential — and the limitations.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2021/07/07/arts/music/ai-song-contest.html",
+      "originalUrl": "https://www.nytimes.com/2021/07/07/arts/music/ai-song-contest.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2021/07/07/arts/07ai-song3/07ai-song3-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2021/07/07/arts/music/ai-song-contest.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/07/07/arts/music/ai-song-contest.amp.html",
+      "publishedDateTime": "2021-07-07T08:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-07-artificial-intelligence-in-education-market-report-2021-to-2030-globally-exploring-sales-volume-revenue-and-price-by-types.md",
+      "title": "Artificial Intelligence in Education Market Report 2021 to 2030 Globally Exploring Sales Volume Revenue and Price by Types",
+      "excerpt": "Jul 07, 2021 (AmericaNewsHour) -- In a recent published report, Kenneth Research has updated the market report for Artificial Intelligence in Education Market for 2021 till 2030. Report further now discusses; the various strategies to be adopted or being ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-education-market-report-2021-to-2030-globally-exploring-sales-volume-revenue-and-price-by-types-2021-07-07",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-education-market-report-2021-to-2030-globally-exploring-sales-volume-revenue-and-price-by-types-2021-07-07",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-07T08:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Sales",
+        "AI in Education"
+      ]
+    },
+    {
       "path": "_news/2021-07-07-if-mcdonalds-is-rolling-out-a-customer-loyalty-program-so-should-ai-self-driving-cars.md",
       "title": "If McDonald’s Is Rolling Out A Customer Loyalty Program, So Should AI Self-Driving Cars",
       "excerpt": "Customer loyalty programs are pervasive, though surprisingly McDonald's is just now rolling out their nationwide program. This brings up the aspect that AI-based true self-driving cars ought to have loyalty programs for riders,",
@@ -269,7 +530,7 @@
       "originalUrl": "https://venturebeat.com/2021/07/07/ibms-codeflare-automates-ai-model-development/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 103,
+      "heat": 113,
       "tags": null,
       "images": [
         {
@@ -576,58 +837,6 @@
       ]
     },
     {
-      "path": "_news/2021-07-07-the-man-behind-chinas-aggressive-new-voice.md",
-      "title": "The Man Behind China’s Aggressive New Voice",
-      "excerpt": "Pakistan was one of the first noncommunist countries to switch diplomatic recognition from the exiled government in ... Into that void stepped Zhao, who became the sole voice on all things C.P.E.C., both on Twitter and in more staid official communications.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2021/07/07/magazine/china-diplomacy-twitter.html",
-      "originalUrl": "https://www.nytimes.com/2021/07/07/magazine/china-diplomacy-twitter.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2021/07/11/magazine/11mag-wolfwarriers/11mag-wolfwarriers-facebookJumbo-v2.jpg",
-          "width": 1050,
-          "height": 549,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2021/07/07/magazine/china-diplomacy-twitter.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/07/07/magazine/china-diplomacy-twitter.amp.html",
-      "publishedDateTime": "2021-07-07T02:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-07-07-even-pro-golfers-have-turned-to-remote-learning.md",
       "title": "Even Pro Golfers Have Turned to Remote Learning",
       "excerpt": "With coaches and players forced to keep their distance because of the pandemic, perfecting the golf swing went virtual.",
@@ -688,7 +897,7 @@
       "originalUrl": "https://www.videogameschronicle.com/news/new-cheat-software-claims-to-work-on-any-console-via-machine-learning/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 74,
+      "heat": 75,
       "tags": null,
       "images": [
         {
@@ -963,7 +1172,7 @@
       "originalUrl": "https://techcrunch.com/2021/07/06/to-stay-ahead-of-your-competitors-start-building-your-narrative-on-day-one/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 70,
+      "heat": 71,
       "tags": null,
       "images": [
         {
@@ -1054,204 +1263,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-06-bring-your-own-model-with-amazon-sagemaker-script-mode.md",
-      "title": "Bring your own model with Amazon SageMaker script mode",
-      "excerpt": "As the prevalence of machine learning (ML) and artificial intelligence (AI) grows, you need the best mechanisms to aid in the experimentation and development of your algorithms. You might begin with the several built-in algorithms in Amazon SageMaker that simply require you to point the algorithm at",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/bring-your-own-model-with-amazon-sagemaker-script-mode/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/bring-your-own-model-with-amazon-sagemaker-script-mode/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/06/26/1-2689-Architecture.jpg",
-          "width": 700,
-          "height": 618,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-06T13:02:19-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-07-what-openai-and-githubs-ai-pair-programmer-means-for-the-software-industry.md",
-      "title": "What OpenAI and GitHub’s ‘AI pair programmer’ means for the software industry",
-      "excerpt": "GitHub's Copilot, AI-powered programming built on top of GPT-3, hints at the business of large language models.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/07/06/what-openai-and-githubs-ai-pair-programmer-means-for-the-software-industry/",
-      "originalUrl": "https://venturebeat.com/2021/07/06/what-openai-and-githubs-ai-pair-programmer-means-for-the-software-industry/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2017/06/software-e1625591248191.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/07/06/what-openai-and-githubs-ai-pair-programmer-means-for-the-software-industry/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/06/what-openai-and-githubs-ai-pair-programmer-means-for-the-software-industry/amp/",
-      "publishedDateTime": "2021-07-06T11:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2021-07-07-ethical-ai-is-easier-said-than-done-but-weve-got-to-start-somewhere.md",
-      "title": "Ethical AI Is Easier Said Than Done, But We've Got to Start Somewhere",
-      "excerpt": "AI has run amok and been benched in multiple business deployments. In one instance, an AI had to be shut off after it spewed outrageously lewd and racist comments within 16 hours of being launched because of data poisoning.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cmswire.com/information-management/ethical-ai-is-easier-said-than-done-but-weve-got-to-start-somewhere/",
-      "originalUrl": "https://www.cmswire.com/information-management/ethical-ai-is-easier-said-than-done-but-weve-got-to-start-somewhere/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cmswire.com/-/media/96574bf809c648ba956dd40cdb900183.ashx?mw=1024",
-          "width": 640,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cmswire.com/information-management/ethical-ai-is-easier-said-than-done-but-weve-got-to-start-somewhere/amp/",
-      "cdnAmpWebUrl": "https://www-cmswire-com.cdn.ampproject.org/c/s/www.cmswire.com/information-management/ethical-ai-is-easier-said-than-done-but-weve-got-to-start-somewhere/amp/",
-      "publishedDateTime": "2021-07-06T10:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CMS Wire",
-        "domain": "cmswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2021-07-06-charliai-ceo-on-training-ai-driven-personal-assistants.md",
-      "title": "Charli.ai CEO on training AI-driven personal assistants",
-      "excerpt": "Charli.ai CEO talks with VentureBeat about the challenges and benefits of training AI-driven digital assistants.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/07/06/charli-ai-ceo-on-training-ai-driven-personal-assistants/",
-      "originalUrl": "https://venturebeat.com/2021/07/06/charli-ai-ceo-on-training-ai-driven-personal-assistants/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/11/human_AI-e1625582446597.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/07/06/charli-ai-ceo-on-training-ai-driven-personal-assistants/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/06/charli-ai-ceo-on-training-ai-driven-personal-assistants/amp/",
-      "publishedDateTime": "2021-07-06T08:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

@@ -2,6 +2,256 @@
   "page": 16,
   "value": [
     {
+      "path": "_news/2021-06-24-alphabets-deepmind-uses-ai-to-find-drugs-strategies-to-rare-diseases.md",
+      "title": "Alphabet’s DeepMind uses AI to find drugs strategies to rare diseases",
+      "excerpt": "Alphabet's DeepMind is going to use AI to find a solution for rare deadly parasitic diseases. In partnership with DNDi) DeepMind is going to tackle Chagas disease.",
+      "sourceUrl": null,
+      "webUrl": "https://techstory.in/deepmind-uses-ai-to-find-drugs-strategies-to-rare-diseases/",
+      "originalUrl": "https://techstory.in/deepmind-uses-ai-to-find-drugs-strategies-to-rare-diseases/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techstory.in/wp-content/uploads/2021/06/111825801_cv4.jpg",
+          "width": 976,
+          "height": 549,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-23T12:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "tech",
+        "domain": "techstory.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-24-grand-prize-winner-announced-in-5m-ibm-watson-ai-xprize-competition.md",
+      "title": "Grand Prize Winner Announced in $5M IBM Watson AI XPRIZE Competition",
+      "excerpt": "and IBM Watson, IBM’s AI technology for business, today announced the Grand Prize Winner in the $5M IBM Watson AI XPRIZE Challenge. First launched in 2016, the five-year global competition looked to accelerate adoption of artificial intelligence (AI ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesswire.com/news/home/20210623005848/en/Grand-Prize-Winner-Announced-in-5M-IBM-Watson-AI-XPRIZE-Competition",
+      "originalUrl": "https://www.businesswire.com/news/home/20210623005848/en/Grand-Prize-Winner-Announced-in-5M-IBM-Watson-AI-XPRIZE-Competition",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-23T11:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-24-ai-in-government-ai-policy-panel-with-the-gsa-nsf-nasa-and-microsoft.md",
+      "title": "AI in Government: AI Policy Panel with the GSA, NSF, NASA and Microsoft",
+      "excerpt": "Special Featured Guest Speakers for the July AI in Government 'AI Policy Panel': Moderator: Justin Worrilow: Director of Data & AI, Federal Civilian at Microsoft Featured Guest Panelists: Bryan",
+      "sourceUrl": null,
+      "webUrl": "https://www.geekwire.com/calendar-event/ai-government-ai-policy-panel-gsa-nsf-nasa-microsoft/",
+      "originalUrl": "https://www.geekwire.com/calendar-event/ai-government-ai-policy-panel-gsa-nsf-nasa-microsoft/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.geekwire.com/wp-content/uploads/2021/06/July-2021-AI-in-Gov-AI-Policy-Panel-Graphic.png",
+          "width": 600,
+          "height": 335,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-23T10:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GeekWire",
+        "domain": "geekwire.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/geekwire.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-24-using-machine-learning-to-build-maps-that-give-smarter-driving-advice.md",
+      "title": "Using machine learning to build maps that give smarter driving advice",
+      "excerpt": "Mapping services built for the developed world fail in fast-growing regions. The solution could be an AI-based routing system fed by real-time vehicle data.",
+      "sourceUrl": null,
+      "webUrl": "https://www.technologyreview.com/2021/06/23/1026653/using-machine-learning-to-build-maps-that-give-smarter-driving-advice/",
+      "originalUrl": "https://www.technologyreview.com/2021/06/23/1026653/using-machine-learning-to-build-maps-that-give-smarter-driving-advice/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://wp.technologyreview.com/wp-content/uploads/2021/05/Stanojevic-Episode-Page-Header.png?w=1920",
+          "width": 1920,
+          "height": 1005,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.technologyreview.com/2021/06/23/1026653/using-machine-learning-to-build-maps-that-give-smarter-driving-advice/amp/",
+      "cdnAmpWebUrl": "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2021/06/23/1026653/using-machine-learning-to-build-maps-that-give-smarter-driving-advice/amp/",
+      "publishedDateTime": "2021-06-23T10:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MIT Technology Review",
+        "domain": "technologyreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-23-anyvision-ai-facial-recognition-software-available-on-ambarella-chips.md",
+      "title": "AnyVision AI facial recognition software available on Ambarella chips",
+      "excerpt": "The software will help extract actionable data from video feeds for biometric identification capabilities such as facial recognition.",
+      "sourceUrl": null,
+      "webUrl": "https://www.biometricupdate.com/202106/anyvision-ai-facial-recognition-software-available-on-ambarella-chips",
+      "originalUrl": "https://www.biometricupdate.com/202106/anyvision-ai-facial-recognition-software-available-on-ambarella-chips",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2017/05/25183040/cctv-security-systems.jpg",
+          "width": 800,
+          "height": 533,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-23T09:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Biometric Companies",
+        "domain": "biometricupdate.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2021-06-23-ecs-demonstrates-seven-years-of-excellence-as-aws-managed-service-provider.md",
+      "title": "ECS Demonstrates Seven Years of Excellence as AWS Managed Service Provider",
+      "excerpt": "ECS, a leader in cloud, cybersecurity, digital transformation, engineering, and Amazon Web Services (AWS) solutions has been named an AWS Managed Service Provider (MSP) Partner for the seventh ear in a row,",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/-ecs-demonstrates-seven-years-excellence-as-aws-managed-/2021/06/23/9396484.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-ecs-demonstrates-seven-years-excellence-as-aws-managed-/2021/06/23/9396484.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-23T08:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-23-internal-whistleblowers-might-just-blow-the-lid-off-some-quite-dicey-ai-self-driving-cars.md",
       "title": "Internal Whistleblowers Might Just Blow The Lid Off Some Quite Dicey AI Self-Driving Cars",
       "excerpt": "You can expect that there will be whistleblowers about self-driving cars, something that might seem surprising and altogether unexpected, but it is going to happen nonetheless. Here's why.",
@@ -863,257 +1113,6 @@
         "Google AI",
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2021-06-23-deepmind-wants-to-use-its-ai-to-cure-neglected-diseases.md",
-      "title": "DeepMind wants to use its AI to cure neglected diseases",
-      "excerpt": "In November 2020, Alphabet-owned AI firm DeepMind announced that it had cracked one of biology’s trickiest problems. For years the company had been working on an AI called AlphaFold that could ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.co.uk/article/deepmind-alphafold-protein-diseases",
-      "originalUrl": "https://www.wired.co.uk/article/deepmind-alphafold-protein-diseases",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.co.uk/photos/60d22392cbf316665cadeb09/master/pass/GettyImages-1199508481.jpg",
-          "width": 5335,
-          "height": 3557,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.co.uk/article/deepmind-alphafold-protein-diseases/amp",
-      "cdnAmpWebUrl": "https://www-wired-co-uk.cdn.ampproject.org/c/s/www.wired.co.uk/article/deepmind-alphafold-protein-diseases/amp",
-      "publishedDateTime": "2021-06-23T00:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired UK",
-        "domain": "wired.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-23-ai-in-healthcare-market-2021-may-see-potentially-high-growth-factors-deepmind-technologies-limited-ibm-corporation-intel-corporation.md",
-      "title": "AI in Healthcare Market 2021 May See Potentially High Growth Factors | DeepMind Technologies Limited, IBM Corporation, Intel Corporation",
-      "excerpt": "The AI in Healthcare Market report provides a detailed analysis of the major factors influencing the market growth, including the drivers, restraints, lucrative opportunities, technology advancements,",
-      "sourceUrl": null,
-      "webUrl": "https://ksusentinel.com/2021/06/23/ai-in-healthcare-market-2021-may-see-potentially-high-growth-factors-deepmind-technologies-limited-ibm-corporation-intel-corporation/",
-      "originalUrl": "https://ksusentinel.com/2021/06/23/ai-in-healthcare-market-2021-may-see-potentially-high-growth-factors-deepmind-technologies-limited-ibm-corporation-intel-corporation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://heraldkeeper.com/wp-content/uploads/2021/06/oie_APm0lt2Fko4P.jpg",
-          "width": 838,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-23T00:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Sentinel",
-        "domain": "ksusentinel.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-06-23-yotta-launches-virtual-pro-workstations-for-3d-architectural-designs-ai-ml.md",
-      "title": "Yotta Launches Virtual Pro Workstations for 3D architectural designs, AI, ML",
-      "excerpt": "Path-breaking combination of virtual GPU and advanced VDI technology, to deliver extreme performance for video editing, graphics design, 3D architectural designs, AI, ML and more.",
-      "sourceUrl": null,
-      "webUrl": "https://www.dqindia.com/yotta-launches-virtual-pro-workstations-3d-architectural-designs-ai-ml/",
-      "originalUrl": "https://www.dqindia.com/yotta-launches-virtual-pro-workstations-3d-architectural-designs-ai-ml/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.dqindia.com/wp-content/uploads/2016/10/cloud-computing-2.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.dqindia.com/yotta-launches-virtual-pro-workstations-3d-architectural-designs-ai-ml/amp/",
-      "cdnAmpWebUrl": "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/yotta-launches-virtual-pro-workstations-3d-architectural-designs-ai-ml/amp/",
-      "publishedDateTime": "2021-06-23T00:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Dataquest",
-        "domain": "dqindia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-06-23-tyan-to-bring-ai-and-hpc-optimized-server-platforms-at-isc-2021.md",
-      "title": "TYAN to Bring AI and HPC Optimized Server Platforms at ISC 2021",
-      "excerpt": "TYAN exhibits its latest AI and HPC server platforms for data centers and enterprises at ISC21 Digital from June 24th to July 2nd",
-      "sourceUrl": null,
-      "webUrl": "https://www.businesswire.com/news/home/20210623005008/en/TYAN-to-Bring-AI-and-HPC-Optimized-Server-Platforms-at-ISC-2021",
-      "originalUrl": "https://www.businesswire.com/news/home/20210623005008/en/TYAN-to-Bring-AI-and-HPC-Optimized-Server-Platforms-at-ISC-2021",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-23T00:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-23-deepmind-wants-to-use-its-ai-to-cure-rare-diseases.md",
-      "title": "DeepMind wants to use its AI to cure rare diseases",
-      "excerpt": "DeepMind solved one of biology's biggest challenges. Now it's working on using its AI to find drugs to target rare diseases",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.co.uk/article/deepmind-alphafold-protein-diseases?mbid=social_twitter",
-      "originalUrl": "https://www.wired.co.uk/article/deepmind-alphafold-protein-diseases?mbid=social_twitter",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.co.uk/photos/60d22392cbf316665cadeb09/16:9/w_1280,c_limit/GettyImages-1199508481.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-22T22:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired UK",
-        "domain": "wired.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-23-salesforce-expands-partnership-with-aws.md",
-      "title": "Salesforce Expands Partnership with AWS",
-      "excerpt": "AWS and Salesforce are helping developers build customer apps connecting data and workflows across their platforms.",
-      "sourceUrl": null,
-      "webUrl": "https://www.destinationcrm.com/Articles/ReadArticle.aspx?ArticleID=147639",
-      "originalUrl": "https://www.destinationcrm.com/Articles/ReadArticle.aspx?ArticleID=147639",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://dzceab466r34n.cloudfront.net/Images/IssueImages/138905-0721_SuperchargingCC_480x610-ORG.png",
-          "width": 480,
-          "height": 610,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-22T21:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Destination CRM",
-        "domain": "destinationcrm.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
       ]
     }
   ],

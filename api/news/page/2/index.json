@@ -2,6 +2,204 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-07-06-bring-your-own-model-with-amazon-sagemaker-script-mode.md",
+      "title": "Bring your own model with Amazon SageMaker script mode",
+      "excerpt": "As the prevalence of machine learning (ML) and artificial intelligence (AI) grows, you need the best mechanisms to aid in the experimentation and development of your algorithms. You might begin with the several built-in algorithms in Amazon SageMaker that simply require you to point the algorithm at",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/bring-your-own-model-with-amazon-sagemaker-script-mode/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/bring-your-own-model-with-amazon-sagemaker-script-mode/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/06/26/1-2689-Architecture.jpg",
+          "width": 700,
+          "height": 618,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-06T13:02:19-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-07-what-openai-and-githubs-ai-pair-programmer-means-for-the-software-industry.md",
+      "title": "What OpenAI and GitHub’s ‘AI pair programmer’ means for the software industry",
+      "excerpt": "GitHub's Copilot, AI-powered programming built on top of GPT-3, hints at the business of large language models.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/07/06/what-openai-and-githubs-ai-pair-programmer-means-for-the-software-industry/",
+      "originalUrl": "https://venturebeat.com/2021/07/06/what-openai-and-githubs-ai-pair-programmer-means-for-the-software-industry/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2017/06/software-e1625591248191.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/07/06/what-openai-and-githubs-ai-pair-programmer-means-for-the-software-industry/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/06/what-openai-and-githubs-ai-pair-programmer-means-for-the-software-industry/amp/",
+      "publishedDateTime": "2021-07-06T11:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2021-07-07-ethical-ai-is-easier-said-than-done-but-weve-got-to-start-somewhere.md",
+      "title": "Ethical AI Is Easier Said Than Done, But We've Got to Start Somewhere",
+      "excerpt": "AI has run amok and been benched in multiple business deployments. In one instance, an AI had to be shut off after it spewed outrageously lewd and racist comments within 16 hours of being launched because of data poisoning.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cmswire.com/information-management/ethical-ai-is-easier-said-than-done-but-weve-got-to-start-somewhere/",
+      "originalUrl": "https://www.cmswire.com/information-management/ethical-ai-is-easier-said-than-done-but-weve-got-to-start-somewhere/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cmswire.com/-/media/96574bf809c648ba956dd40cdb900183.ashx?mw=1024",
+          "width": 640,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cmswire.com/information-management/ethical-ai-is-easier-said-than-done-but-weve-got-to-start-somewhere/amp/",
+      "cdnAmpWebUrl": "https://www-cmswire-com.cdn.ampproject.org/c/s/www.cmswire.com/information-management/ethical-ai-is-easier-said-than-done-but-weve-got-to-start-somewhere/amp/",
+      "publishedDateTime": "2021-07-06T10:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CMS Wire",
+        "domain": "cmswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2021-07-06-charliai-ceo-on-training-ai-driven-personal-assistants.md",
+      "title": "Charli.ai CEO on training AI-driven personal assistants",
+      "excerpt": "Charli.ai CEO talks with VentureBeat about the challenges and benefits of training AI-driven digital assistants.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/07/06/charli-ai-ceo-on-training-ai-driven-personal-assistants/",
+      "originalUrl": "https://venturebeat.com/2021/07/06/charli-ai-ceo-on-training-ai-driven-personal-assistants/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/11/human_AI-e1625582446597.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/07/06/charli-ai-ceo-on-training-ai-driven-personal-assistants/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/06/charli-ai-ceo-on-training-ai-driven-personal-assistants/amp/",
+      "publishedDateTime": "2021-07-06T08:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-06-sama-validates-its-ethical-ai-supply-chain-through-a-randomized-control-study-with-mit.md",
       "title": "Sama Validates Its Ethical AI Supply Chain Through A Randomized Control Study With MIT",
       "excerpt": "AIis an emerging force in the business world that has the potential to either replace humans or empower humans with better tools. Sama, believes AI can enhance how we work and is advocating for “human-in-the-loop,",
@@ -200,7 +398,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/07/06/boosting-online-grocery-sales-and-enhancing-merchandising-through-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 154,
+      "heat": 164,
       "tags": null,
       "images": [
         {
@@ -305,7 +503,7 @@
       "originalUrl": "https://www.sixthtone.com/news/1007915/tencent-deploys-facial-recognition-to-detect-minors-gaming-at-night-",
       "featuredContent": null,
       "highlight": null,
-      "heat": 239,
+      "heat": 249,
       "tags": null,
       "images": [
         {
@@ -580,7 +778,7 @@
       "originalUrl": "https://www.entrepreneur.com/article/376480",
       "featuredContent": null,
       "highlight": null,
-      "heat": 88,
+      "heat": 87,
       "tags": null,
       "images": [
         {
@@ -631,7 +829,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-size-share-value-and-competitive-landscape-2021-2026-2021-07-06",
       "featuredContent": null,
       "highlight": null,
-      "heat": 139,
+      "heat": 99,
       "tags": null,
       "images": [
         {
@@ -725,58 +923,6 @@
         "Natural Language Processing",
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-06-artificial-intelligence-in-healthcare-market-with-impact-of-covid-19-global-demand-analysis-and-opportunity-outlook-2030.md",
-      "title": "Artificial Intelligence In Healthcare Market With Impact of COVID-19 Global Demand Analysis And Opportunity Outlook 2030",
-      "excerpt": "In a recent published report, Kenneth Research has updated the market report for Artificial Intelligence In Healthcare Market for 2021 till 2030. Report further now discusses; the various strategies to be adopted or being adopted by the business players across the globe at various levels in the value chain.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-with-impact-of-covid-19-global-demand-analysis-and-opportunity-outlook-2030-2021-07-06",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-with-impact-of-covid-19-global-demand-analysis-and-opportunity-outlook-2030-2021-07-06",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-05T21:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
       ]
     },
     {
@@ -917,7 +1063,7 @@
       "originalUrl": "https://timesofsandiego.com/tech/2021/07/05/report-growing-san-diego-cybersecurity-cluster-using-ai-to-fight-hacking-threats/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 72,
+      "heat": 82,
       "tags": null,
       "images": [
         {
@@ -1033,162 +1179,6 @@
       "topics": [
         "AI in Finance",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-06-artificial-intelligence-ai-in-medical-diagnostics-market-outlook-industry-analysis-and-prospect-2021-2027.md",
-      "title": "Artificial Intelligence (Ai) In Medical Diagnostics Market Outlook, Industry Analysis and Prospect 2021-2027",
-      "excerpt": "In Medical Diagnostics market size was valued at US$ 608 million in 2020 and is projected to reach US$ 4,978 million by 2027, rising at a market growth (CAGR) of 52.4% during the forecast period. The Growth in this Artificial Intelligence in medical diagnostics market is primarily driven by government initiatives to increase the adoption of AI-based technologies,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-medical-diagnostics-market-outlook-industry-analysis-and-prospect-2021-2027-2021-07-05",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-medical-diagnostics-market-outlook-industry-analysis-and-prospect-2021-2027-2021-07-05",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 115,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-05T14:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-06-the-new-world-of-work-you-plus-ai.md",
-      "title": "The new world of work: You plus AI",
-      "excerpt": "Where does your enterprise stand on the AI adoption curve? Take our AI survey to find out. Emerging technologies meet both advocates and resistance as users weigh the potential benefits with the potential risks.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/07/05/the-new-world-of-work-you-plus-ai/",
-      "originalUrl": "https://venturebeat.com/2021/07/05/the-new-world-of-work-you-plus-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2015/09/artificial-intelligence-e1625315596322.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/07/05/the-new-world-of-work-you-plus-ai/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/05/the-new-world-of-work-you-plus-ai/amp/",
-      "publishedDateTime": "2021-07-05T11:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-05-microsofts-project-alexandria-parses-documents-using-unsupervised-learning.md",
-      "title": "Microsoft’s Project Alexandria parses documents using unsupervised learning",
-      "excerpt": "Microsoft's Project Alexandria, which uses unsupervised learning to parse documents, powers the company's Viva Topics product.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/07/05/microsofts-project-alexandria-parses-documents-using-unsupervised-learning/",
-      "originalUrl": "https://venturebeat.com/2021/07/05/microsofts-project-alexandria-parses-documents-using-unsupervised-learning/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/03/GettyImages-1306394018-e1615886711349.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/07/05/microsofts-project-alexandria-parses-documents-using-unsupervised-learning/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/05/microsofts-project-alexandria-parses-documents-using-unsupervised-learning/amp/",
-      "publishedDateTime": "2021-07-05T09:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

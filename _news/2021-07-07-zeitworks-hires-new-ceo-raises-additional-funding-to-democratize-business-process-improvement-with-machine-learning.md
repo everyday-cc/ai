@@ -1,23 +1,23 @@
 ---
 category: news
 title: "Zeitworks Hires New CEO, Raises Additional Funding to Democratize Business Process Improvement with Machine Learning"
-excerpt: "Headquartered in Seattle, Zeitworks was founded by veteran machine learning application developers and entrepreneurs and top-tier investors with extensive experience backing intelligent automation companies. Zeitworks’ mission is to make work more ..."
-publishedDateTime: 2021-07-07T15:47:00Z
-originalUrl: "https://www.morningstar.com/news/business-wire/20210707005231/zeitworks-hires-new-ceo-raises-additional-funding-to-democratize-business-process-improvement-with-machine-learning"
-webUrl: "https://www.morningstar.com/news/business-wire/20210707005231/zeitworks-hires-new-ceo-raises-additional-funding-to-democratize-business-process-improvement-with-machine-learning"
+excerpt: "Headquartered in Seattle, Zeitworks was founded by veteran machine learning application developers and entrepreneurs and top-tier investors with extensive experience backing intelligent automation companies."
+publishedDateTime: 2021-07-07T15:33:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/2021/07/07/9404608.htm"
+webUrl: "https://www.tmcnet.com/usubmit/2021/07/07/9404608.htm"
 type: article
 quality: 11
 heat: 11
 published: false
 
 provider:
-  name: Morningstar%2c Inc.
-  domain: morningstar.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - Machine Learning
   - AI
 
-secured: "sNfxB+Zgvz1ZNnSTtWTEhjps/WCVR6QePAoEBP7BaZmoSTafFKxCyZFBGuONPfauehtZrXEkS+ZHjkibplG3OX3peHBmAjPljiAic2OzmmrKlnPVZPfkBA1Hdk35MarhcRFgBc68V8qUO7unPVRpZrYB+H9oGRIOlOKjRLXo8D1QxXc7exlllf0gWlmBFjlQM3IXqK2/PIX1s7Xzz7euCKuO8z3EfS+kPifNY+d9NdZUzKbrIzYYJVpOCVSXEAN/tGG1++lWx37YIHvM5+jlBy6Eh9ux8CFvYBUpe5+F/eaGHTyZllkDeWTNMvqMTnyupmEO8rwwt0oTyvUnwebYKGO/Rb6lGDWlLOp2axP5k48=;KOlmUzGXb0V9ZoKPl+YTxA=="
+secured: "AGDMxDuAeIMZsEXGSZOBhF3+g9fXsaH9iWnsTaK5FUsWh+ST+dOfC1mW1ON4mUDwjYP4Hdr7YNXULsF7HNtt8hOd4P9YA+evqsuiOaHdbZT97uD0IEVfJQHLPjXvbC9TD95F7h9RHZLXQIok8xBCPJcUKQd0ja9C/G231b/B4yPs8nfJRzpCEnEnGAS0R6wK7HHEBT7TzXRrUDuDW3YmodcVzH50xlQnKb7JDDnnkPjTbN3J/5lGagc+/403b18GvR+MBCkuAOECrLBoG2hy7Mfryl0P5sJA19Bc0353GGFJminn4wpMmHq5SNssdVdUc+R99ik69abSOaMhMmmOPqOP3pd9ovU3jJdjD0Ld/Ng=;+wUzXE52qUGnb+9urJyKzg=="
 ---
 

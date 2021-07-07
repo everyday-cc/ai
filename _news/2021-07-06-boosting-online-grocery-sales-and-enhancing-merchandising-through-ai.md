@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/07/06/boosting-o
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/07/06/boosting-online-grocery-sales-and-enhancing-merchandising-through-ai/amp/"
 type: article
 quality: 104
-heat: 154
+heat: 164
 published: true
 
 provider:
@@ -46,6 +46,20 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60e4d5d325abdbff999bebbe%2F0x0.jpg"
         width: 1200
         height: 600
+        isCached: true
+  - title: "Digital transformation fueling spending on cloud, AI, robotics, security and SaaS"
+    excerpt: "\"Emerging technologies like artificial intelligence, the Internet of Things ... are investing in key use cases like collaborative robotics, operational performance management, and 3D and digital product design and review for improved cost control and ..."
+    publishedDateTime: 2021-07-07T16:31:00Z
+    webUrl: "https://www.securitysystemsnews.com/article/digital-transformation-fueling-spending-on-cloud-ai-robotics-security-and-saas"
+    type: article
+    provider:
+      name: Security Systems News
+      domain: securitysystemsnews.com
+    quality: 81
+    images:
+      - url: "https://www.securitysystemsnews.com/uploads/blog/6dfcbb88d032e82b4366850eb1aeb8ef.jpg"
+        width: 1000
+        height: 576
         isCached: true
   - title: "Blending Computing with AI & Machine Learning for Low Risk High Returns"
     excerpt: "Liquidity in real estate may not be immediate, interest in fixed deposits is low in comparison to equities’ returns in the long term."

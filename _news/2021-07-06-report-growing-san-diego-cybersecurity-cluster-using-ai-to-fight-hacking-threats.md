@@ -9,7 +9,7 @@ ampWebUrl: "https://timesofsandiego.com/tech/2021/07/05/report-growing-san-diego
 cdnAmpWebUrl: "https://timesofsandiego-com.cdn.ampproject.org/c/s/timesofsandiego.com/tech/2021/07/05/report-growing-san-diego-cybersecurity-cluster-using-ai-to-fight-hacking-threats/"
 type: article
 quality: 52
-heat: 72
+heat: 82
 published: true
 
 provider:
@@ -49,6 +49,20 @@ related:
       name: Engineering360 News
       domain: globalspec.com
     quality: 19
+  - title: "Cybersecurity AI Market 2021 Evolving Technology and Growth Outlook to 2028 | Bae Systems, Cisco, Fortinet, Fireeye, Check Point, Ibm"
+    excerpt: "The global market for Cybersecurity AI offers a detailed overview of the regional and local markets. In order to provide a comprehensive market overview, the Cybersecurity AI market report includes a regional competitive landscape for the number of major service providers in the market."
+    publishedDateTime: 2021-07-07T17:50:00Z
+    webUrl: "https://manometcurrent.com/cybersecurity-ai-market-2021-evolving-technology-and-growth-outlook-to-2028-bae-systems-cisco-fortinet-fireeye-check-point-ibm/"
+    type: article
+    provider:
+      name: manometcurrent.com
+      domain: manometcurrent.com
+    quality: 6
+    images:
+      - url: "https://manometcurrent.com/wp-content/uploads/2021/07/mri8-300x259.png"
+        width: 300
+        height: 259
+        isCached: true
 
 secured: "wz+gGBMxZJ4YhMgdGgTER4w0oRMJJCiEcxqd+HCTOS6EOlzvPrbCYWdk8ZXWkugqc3VR28GG1Z8iJ06mNehctdyCguP0U9sp4Z0KITWSM3ZXk/DwY04egmy2GNF4VZSmLQLizsZIOoUBVEnfe+y1krpFMI15Nt+JzxGyxr2LRFU8l5buvVrL3I2LkFo4CtvXpH5jj8QJKxvyUDxA/xSQnPMau5OTNdNvkpWGpKcLWo2XgL0AsIulf+wDLVeYm//P6XUGs0l7TQUJA+CRwA1an7yobhGHOUNB3T3jXrBvzbwMNBIyK+YirzzruwYGt5B35ZB0KqHalJN5WVJgwzF+o0DhZtICKidV+X44JoUAHvA=;tK1RCXKPxDpmHuXHTX0IHQ=="
 ---

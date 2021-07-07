@@ -2,6 +2,162 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-07-06-artificial-intelligence-ai-in-medical-diagnostics-market-outlook-industry-analysis-and-prospect-2021-2027.md",
+      "title": "Artificial Intelligence (Ai) In Medical Diagnostics Market Outlook, Industry Analysis and Prospect 2021-2027",
+      "excerpt": "In Medical Diagnostics market size was valued at US$ 608 million in 2020 and is projected to reach US$ 4,978 million by 2027, rising at a market growth (CAGR) of 52.4% during the forecast period. The Growth in this Artificial Intelligence in medical diagnostics market is primarily driven by government initiatives to increase the adoption of AI-based technologies,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-medical-diagnostics-market-outlook-industry-analysis-and-prospect-2021-2027-2021-07-05",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-medical-diagnostics-market-outlook-industry-analysis-and-prospect-2021-2027-2021-07-05",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 115,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-05T14:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-06-the-new-world-of-work-you-plus-ai.md",
+      "title": "The new world of work: You plus AI",
+      "excerpt": "Where does your enterprise stand on the AI adoption curve? Take our AI survey to find out. Emerging technologies meet both advocates and resistance as users weigh the potential benefits with the potential risks.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/07/05/the-new-world-of-work-you-plus-ai/",
+      "originalUrl": "https://venturebeat.com/2021/07/05/the-new-world-of-work-you-plus-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2015/09/artificial-intelligence-e1625315596322.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/07/05/the-new-world-of-work-you-plus-ai/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/05/the-new-world-of-work-you-plus-ai/amp/",
+      "publishedDateTime": "2021-07-05T11:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-05-microsofts-project-alexandria-parses-documents-using-unsupervised-learning.md",
+      "title": "Microsoft’s Project Alexandria parses documents using unsupervised learning",
+      "excerpt": "Microsoft's Project Alexandria, which uses unsupervised learning to parse documents, powers the company's Viva Topics product.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/07/05/microsofts-project-alexandria-parses-documents-using-unsupervised-learning/",
+      "originalUrl": "https://venturebeat.com/2021/07/05/microsofts-project-alexandria-parses-documents-using-unsupervised-learning/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/03/GettyImages-1306394018-e1615886711349.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/07/05/microsofts-project-alexandria-parses-documents-using-unsupervised-learning/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/05/microsofts-project-alexandria-parses-documents-using-unsupervised-learning/amp/",
+      "publishedDateTime": "2021-07-05T09:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-05-obviously-ai-a-no-code-startup-for-data-analysts-increases-its-seed-round-to-47m.md",
       "title": "Obviously AI, a no code startup for data analysts, increases its seed round to $4.7M",
       "excerpt": "After using Obviously AI and benchmarking it against other AutoML products, Mysore was so impressed that he reached out to the startup and led the investment round. No code/low code startups have ...",
@@ -208,7 +364,7 @@
       "originalUrl": "https://www.techrepublic.com/article/sometimes-interacting-with-robots-is-easier-than-with-humans/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 109,
       "tags": null,
       "images": [
         {
@@ -450,7 +606,7 @@
       "originalUrl": "https://www.forbes.com/sites/anniebrown/2021/07/04/ai-driven-robots-are-here-for-good/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 106,
+      "heat": 126,
       "tags": null,
       "images": [
         {
@@ -886,7 +1042,7 @@
       "originalUrl": "https://venturebeat.com/2021/07/03/tesla-ai-chief-explains-why-self-driving-cars-dont-need-lidar/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 126,
+      "heat": 136,
       "tags": null,
       "images": [
         {
@@ -991,7 +1147,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/speech-recognition-software-market-next-big-thing-major-giants-google-microsoft-baidu-2021-07-03",
       "featuredContent": null,
       "highlight": null,
-      "heat": 192,
+      "heat": 182,
       "tags": null,
       "images": [
         {
@@ -1068,162 +1224,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-03-a-global-smart-city-competition-highlights-chinas-rise-in-ai.md",
-      "title": "A Global Smart-City Competition Highlights China’s Rise in AI",
-      "excerpt": "Chinese entrants swept all five categories, featuring technologies to improve civic life. But the advances could also be tools for surveillance.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/global-smart-city-competition-highlights-china-rise-ai/",
-      "originalUrl": "https://www.wired.com/story/global-smart-city-competition-highlights-china-rise-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 191,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/60df60a8fd0513edb15af4a3/master/pass/Business-Smart-City-Competition-1032667470.jpg",
-          "width": 2400,
-          "height": 1600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/global-smart-city-competition-highlights-china-rise-ai/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/global-smart-city-competition-highlights-china-rise-ai/amp",
-      "publishedDateTime": "2021-07-03T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-03-how-on-device-machine-learning-has-changed-the-way-we-use-our-phones.md",
-      "title": "How on-device machine learning has changed the way we use our phones",
-      "excerpt": "Whether you realize it or not, you probably benefit from machine learning on your phone every day. Where could the technology go next?",
-      "sourceUrl": null,
-      "webUrl": "https://www.androidauthority.com/machine-learning-phones-1238287",
-      "originalUrl": "https://www.androidauthority.com/machine-learning-phones-1238287",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn57.androidauthority.net/wp-content/uploads/2020/07/Google-Pixel-4a-taking-a-photo-of-a-person.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.androidauthority.com/amp/machine-learning-phones-1238287/",
-      "cdnAmpWebUrl": "https://www-androidauthority-com.cdn.ampproject.org/c/s/www.androidauthority.com/amp/machine-learning-phones-1238287/",
-      "publishedDateTime": "2021-07-03T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Android Authority",
-        "domain": "androidauthority.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/androidauthority.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-03-4-ways-ai-is-unlocking-the-mysteries-of-the-universe.md",
-      "title": "4 ways AI is unlocking the mysteries of the universe",
-      "excerpt": "Astronomers are turning to artificial intelligence and machine learning to build new tools to rapidly search for the next big breakthrough.",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/news/4-ways-ai-unlocking-astronomy-mysteries-universe-syndication",
-      "originalUrl": "https://thenextweb.com/news/4-ways-ai-unlocking-astronomy-mysteries-universe-syndication",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F07%2FTriangulum-Galaxy-hed-guillermo-ferla-kEEl9csCutg-unsplash-copy.jpg&signature=1e81bded5339458e45332f6121f52366",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-03T03:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

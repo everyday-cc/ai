@@ -1,20 +1,26 @@
 ---
 category: news
 title: "IBM Watson Advertising Announces New Research to Explore the Role of AI in Detecting and Mitigating Bias in Advertising"
-excerpt: "IBM Watson Advertising today announced a research initiative that will apply open-source AI technology, developed by IBM, to better understand how prevalent unwanted bias is in advertising, while simultaneously laying the foundation for potential mitigation."
-publishedDateTime: 2021-06-24T11:00:00Z
-originalUrl: "https://www.nasdaq.com/press-release/ibm-watson-advertising-announces-new-research-to-explore-the-role-of-ai-in-detecting"
-webUrl: "https://www.nasdaq.com/press-release/ibm-watson-advertising-announces-new-research-to-explore-the-role-of-ai-in-detecting"
+excerpt: "2021 /PRNewswire/ -- IBM Watson Advertising (NYSE: IBM) today announced a research initiative that will apply open-source AI technology, developed by IBM, to better understand how prevalent ..."
+publishedDateTime: 2021-06-24T12:20:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/ibm-watson-advertising-announces-new-research-to-explore-the-role-of-ai-in-detecting-and-mitigating-bias-in-advertising-301319170.html"
+webUrl: "https://www.prnewswire.com/news-releases/ibm-watson-advertising-announces-new-research-to-explore-the-role-of-ai-in-detecting-and-mitigating-bias-in-advertising-301319170.html"
 type: article
 
 provider:
-  name: Nasdaq
-  domain: nasdaq.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - IBM AI
   - AI
 
-secured: "vXvx/uNrd4L7hWDARFgTEUxAcTbB1kZ2CVhhPDFxP4+VGg6GcT8X2vy5tI/nSCTEWX134zzZFhbhV6E3oFHbKN3oUhUpOGAjR4yqTHhEWfCUED0g76376MEPiYokwjuONIBxeefv6OYCa5ZuzSmw5uSP1tA+HDp9O+Hpih4XxkCHqnZvbpQIjvxZ2I0o17TIC1MCL9ZAEF073DTNua/33ZjWAXYjtiJVP/DJHwUD5m9l/iI7P4pCy+uKN+/6WdDcKUjf6lpxIiZwfyJvlUBNFApVJ3n8xBSzRskABfMob2iysPZ0IYQM9zzoZ4aGO1JNxL+2h1pEcF26sS99wWFKRWsYo5bYTIMSoxA/j2cRn2g=;OJ5M1bdAbEdjSWx3YOaJGQ=="
+images:
+  - url: "https://mma.prnewswire.com/media/95470/ibm_logo.jpg?p=facebook"
+    width: 2698
+    height: 1414
+    isCached: true
+
+secured: "jowY2YMU6BtZZTvOM1NTkPOtxidzyLMAMq1eeaskEUlJ3P/U6BoKevbJ5J3NOD/VP90NjxzwfIETge6YConTI1DQyDXlKN4dElSavuIxvAw0m5hq0j3d1WhTthr9QSDa2zcQ169BkZov04DNARKuU6weNxYLd95gouzYUJnLvWqw481FjjhEdurd75OqwIakh+fsfK+xK/xdcq6P0QEpqUYLfRSGkQLhCyXdZwR0X1jRSmu3lt2vhZWB9yoSLRpCrsARSLCWrWYa1dtNdkCSxc1hJu6siV1qYHNmvF3+khZzbHB9r/Fj17PDYTIJ2FLsqaTcQqMic/VOz7qD48yuiyzNufmtCubn/0u0h7uvZk4=;iyKdU7JnwfK7VNesXpKBeg=="
 ---
 

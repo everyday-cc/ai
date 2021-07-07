@@ -7,7 +7,7 @@ originalUrl: "https://manometcurrent.com/impact-of-covid-19-on-artificial-intell
 webUrl: "https://manometcurrent.com/impact-of-covid-19-on-artificial-intelligence-market-to-record-significant-revenue-growth-during-the-forecast-period-2021-2026/"
 type: article
 quality: 9
-heat: -1
+heat: 9
 published: false
 
 provider:
@@ -24,72 +24,19 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence In Healthcare Market With Impact of COVID-19 Global Demand Analysis And Opportunity Outlook 2030"
-    excerpt: "In a recent published report, Kenneth Research has updated the market report for Artificial Intelligence In Healthcare Market for 2021 till 2030. Report further now discusses; the various strategies to be adopted or being adopted by the business players across the globe at various levels in the value chain."
-    publishedDateTime: 2021-07-06T04:34:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-with-impact-of-covid-19-global-demand-analysis-and-opportunity-outlook-2030-2021-07-06"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 59
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence in IoT Market Outlook to 2027 Emerging Trends and Will Generate New Growth Opportunities Status"
-    excerpt: "Jul 05, 2021 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry\" “Artificial Intelligence in IoT"
-    publishedDateTime: 2021-07-05T06:47:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-iot-market-outlook-to-2027-emerging-trends-and-will-generate-new-growth-opportunities-status-2021-07-05"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 43
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Facial Recognition Market 2021, Top Leading Countries, Companies, Consumption, Trends, Forces Analysis, Revenue, Challenges and Global Forecast 2030"
-    excerpt: "In a recent published report, Kenneth Research has updated the market report for Facial Recognition Market for 2021"
-    publishedDateTime: 2021-07-05T05:18:00Z
-    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-market-2021-top-leading-countries-companies-consumption-trends-forces-analysis-revenue-challenges-and-global-forecast-2030-2021-07-05"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 30
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "COVID-19 Impact and Analysis|Artificial Intelligence Market In The Industrial Sector| Technavio"
-    excerpt: "Technavio has been monitoring the artificial intelligence market in the industrial sector, operating under the industrials segment."
-    publishedDateTime: 2021-07-06T02:50:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/21/07/n21849463/covid-19-impact-and-analysis-artificial-intelligence-market-in-the-industrial-sector-technavio"
-    ampWebUrl: "https://www.benzinga.com/amp/content/21849463"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/21849463"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 25
-  - title: "Call Center AI Market SWOT Analysis, Business Growth Opportunities by Top Companies, Future Challenges, Competitive Strategies and Forecast to 2027"
-    excerpt: "The report on the Call Center AI market provides a bird’s eye view of the current proceeding within the Call Center AI market. Further, the report also takes into account the impact of the novel Covid-19 pandemic on the Call Center AI market and offers a clear assessment of the projected market fluctuations during the forecast period."
-    publishedDateTime: 2021-07-06T17:25:00Z
-    webUrl: "https://manometcurrent.com/call-center-ai-market-swot-analysis-business-growth-opportunities-by-top-companies-future-challenges-competitive-strategies-and-forecast-to-2027/"
+  - title: "Facial Tracking Solutions Market witnessing market growth at a rate of 14.55% in the forecast period 2027"
+    excerpt: "Increasing demand for cloud based facial recognition technology is expected to enhance the market growth. Some of the other factors such as growth in surveillance industry, security reasons, technological advancement in facial tracking solutions,"
+    publishedDateTime: 2021-07-07T15:54:00Z
+    webUrl: "https://manometcurrent.com/facial-tracking-solutions-market-emerging-technologies-and-innovations-key-players-herta-security-facephi-sightcorp-beijing-kuangshi-technology-co-ltd-facefirst-animetrics-and-more-forecas/"
     type: article
     provider:
       name: manometcurrent.com
       domain: manometcurrent.com
-    quality: 0
+    quality: 7
     images:
-      - url: "https://i.ibb.co/cwMkvB9/Researchmoz-us-391.jpg"
-        width: 626
-        height: 439
+      - url: "https://manometcurrent.com/wp-content/uploads/2021/06/Business-390x220.jpg"
+        width: 390
+        height: 220
         isCached: true
 
 secured: "DCh14w67OywVQbAeukNSpX0UbZ5Q/ibW6zsRH/TaL0k9kUeO6yvmO8d6ZEs/W8MKawvRHcFBuAY+p4pOhLDKoqvksR5ccSZZa1EBTPM1rR18CSqlWgD4M8fN+NYoQ71AtKnj6iLsANFHmRLK87xJlITTvY2n0bxjg4UKQJA/2Wm6ByU6JwcdauV2g01Iq5FoJIExHWrsYbCqX+rzIZ0maF2XAywai6Mf5zsVRZK6gAPRz744W3gSIt7vy56SxFuxLH+ngLDSG6ZwwH9TUtLK8WgQT+9GurOux/TOv7t69AGX6CT6igfk6jLt/n3wqOVr4uTbiQ+33BvICvVvyO5f4Uhg8Ppa25N3AoLkPqDYCgg=;kH8IZAJhK29nKDJr3CIAxg=="

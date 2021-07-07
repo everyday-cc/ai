@@ -8,8 +8,8 @@ webUrl: "https://www.washingtonpost.com/technology/2021/07/07/ai-weapons-us-mili
 ampWebUrl: "https://www.washingtonpost.com/technology/2021/07/07/ai-weapons-us-military/?outputType=amp"
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/technology/2021/07/07/ai-weapons-us-military/?outputType=amp"
 type: article
-quality: 40
-heat: 40
+quality: 42
+heat: 42
 published: false
 
 provider:
@@ -19,6 +19,7 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/J7CVFR5XPRCRJJ7OUGCJ3IGNW4.jpg&w=1440"

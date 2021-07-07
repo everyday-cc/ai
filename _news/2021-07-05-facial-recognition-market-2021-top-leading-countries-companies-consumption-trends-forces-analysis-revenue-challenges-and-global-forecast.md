@@ -29,6 +29,20 @@ images:
     isCached: true
 
 related:
+  - title: "Artificial Intelligence in Education Market Report 2021 to 2030 Globally Exploring Sales Volume Revenue and Price by Types"
+    excerpt: "Jul 07, 2021 (AmericaNewsHour) -- In a recent published report, Kenneth Research has updated the market report for Artificial Intelligence in Education Market for 2021 till 2030. Report further now discusses; the various strategies to be adopted or being ..."
+    publishedDateTime: 2021-07-07T15:32:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-education-market-report-2021-to-2030-globally-exploring-sales-volume-revenue-and-price-by-types-2021-07-07"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 75
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence In Healthcare Market With Impact of COVID-19 Global Demand Analysis And Opportunity Outlook 2030"
     excerpt: "In a recent published report, Kenneth Research has updated the market report for Artificial Intelligence In Healthcare Market for 2021 till 2030. Report further now discusses; the various strategies to be adopted or being adopted by the business players across the globe at various levels in the value chain."
     publishedDateTime: 2021-07-06T04:34:00Z
@@ -43,10 +57,38 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence in IoT Market Outlook to 2027 Emerging Trends and Will Generate New Growth Opportunities Status"
-    excerpt: "Jul 05, 2021 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry\" “Artificial Intelligence in IoT"
-    publishedDateTime: 2021-07-05T06:47:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-iot-market-outlook-to-2027-emerging-trends-and-will-generate-new-growth-opportunities-status-2021-07-05"
+  - title: "Enterprise Artificial Intelligence Market Share, Size Growth Rate by Type, Application, Sales Estimates and Forecasts 2021-2030"
+    excerpt: "In a recent published report, Kenneth Research has updated the market report for Enterprise Artificial Intelligence"
+    publishedDateTime: 2021-07-06T16:18:00Z
+    webUrl: "https://www.marketwatch.com/press-release/enterprise-artificial-intelligence-market-share-size-growth-rate-by-type-application-sales-estimates-and-forecasts-2021-2030-2021-07-06"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 56
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "AI in Education Market Research Report with Size, Share, Value, CAGR, Outlook, Analysis, Latest Updates, Data, and News 2021-2028"
+    excerpt: "Except for the medical supplies and life support products industries, most industries have been greatly impacted, and AI in Education industries have also been greatly affected. 3.4 Microsoft AI in Education Business Introduction 3.5 AWS AI in Education ..."
+    publishedDateTime: 2021-07-06T20:36:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-in-education-market-research-report-with-size-share-value-cagr-outlook-analysis-latest-updates-data-and-news-2021-2028-2021-07-06"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 55
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Computer Vision Market 2021 Will Reflect Significant Growth in Future with Size, Share, Growth, and Key Companies Analysis"
+    excerpt: "In a recent published report, Kenneth Research has updated the market report for Computer Vision Market for 2021 till"
+    publishedDateTime: 2021-07-05T16:46:00Z
+    webUrl: "https://www.marketwatch.com/press-release/computer-vision-market-2021-will-reflect-significant-growth-in-future-with-size-share-growth-and-key-companies-analysis-2021-07-05"
     type: article
     provider:
       name: MarketWatch
@@ -57,45 +99,15 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "COVID-19 Impact and Analysis|Artificial Intelligence Market In The Industrial Sector| Technavio"
-    excerpt: "Technavio has been monitoring the artificial intelligence market in the industrial sector, operating under the industrials segment."
-    publishedDateTime: 2021-07-06T02:50:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/21/07/n21849463/covid-19-impact-and-analysis-artificial-intelligence-market-in-the-industrial-sector-technavio"
-    ampWebUrl: "https://www.benzinga.com/amp/content/21849463"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/21849463"
+  - title: "Global AI Recognition Market Size, Status and Forecast 2021-2027"
+    excerpt: "Pages Report] Check for Discount on Global AI Recognition Market Size, Status and Forecast 2021-2027 report by QYResearch Group. Market Analysis and Insights: Global AI Recognition Market The"
+    publishedDateTime: 2021-07-03T09:03:00Z
+    webUrl: "https://www.reportsnreports.com/reports/4636041-global-ai-recognition-market-size-status-and-forecast-2021-2027.html"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 25
-  - title: "Impact of COVID-19 on Artificial Intelligence Market to Record Significant Revenue Growth During the Forecast Period 2021-2026"
-    excerpt: "The outbreak of covid-19 in the global market has made companies uncertain about their future scenario as the prolonged lock-down finds a serious economic slump. The latest survey on COVID-19 Outbreak-Global Artificial Intelligence Market is conducted to provide hidden gems performance analysis."
-    publishedDateTime: 2021-07-05T15:53:00Z
-    webUrl: "https://manometcurrent.com/impact-of-covid-19-on-artificial-intelligence-market-to-record-significant-revenue-growth-during-the-forecast-period-2021-2026/"
-    type: article
-    provider:
-      name: manometcurrent.com
-      domain: manometcurrent.com
-    quality: 9
-    images:
-      - url: "https://suprememarketresearchreports.files.wordpress.com/2020/10/global-1.jpg?w=622"
-        width: 622
-        height: 350
-        isCached: true
-  - title: "Call Center AI Market SWOT Analysis, Business Growth Opportunities by Top Companies, Future Challenges, Competitive Strategies and Forecast to 2027"
-    excerpt: "The report on the Call Center AI market provides a bird’s eye view of the current proceeding within the Call Center AI market. Further, the report also takes into account the impact of the novel Covid-19 pandemic on the Call Center AI market and offers a clear assessment of the projected market fluctuations during the forecast period."
-    publishedDateTime: 2021-07-06T17:25:00Z
-    webUrl: "https://manometcurrent.com/call-center-ai-market-swot-analysis-business-growth-opportunities-by-top-companies-future-challenges-competitive-strategies-and-forecast-to-2027/"
-    type: article
-    provider:
-      name: manometcurrent.com
-      domain: manometcurrent.com
-    quality: 0
-    images:
-      - url: "https://i.ibb.co/cwMkvB9/Researchmoz-us-391.jpg"
-        width: 626
-        height: 439
-        isCached: true
+      name: ReportsnReports
+      domain: reportsnreports.com
+    quality: 17
 
 secured: "h7Mm22/HSofJpF55SzHsN42gV/sJIUjEqYCSPeXcvXdtaKdeUfeKFzAObkJX3bSPS/mCCiLnd7uUx18i8kPjisyaUQYx+cRzTdfhHYeOi1kp2f0XtbAY2FKjrajJ98dr4EnS5S83Ra26Wmb7Bb+FrKGUYtKQdGIYez02FC5ZwfxgAHIV2dR1XL0MscvPnSr0axpmvK/6fRKNhxTccyUN76R+WqAUjYYPoxxeRVwm4Me6kwOK2DhE3RJJMrt/Tc5faQnjYQgAgmfSFx7f4i0GZWWCOGBsMawfJ1f1BBDkmq+rbmJqC6vbT79QIbQ+AQS65sEYSJhYn3AD/0A4ayoJlJmVbsytU6OU0IB+Z3ryQAw=;moRwAQUFXLOlGYqumBebYA=="
 ---

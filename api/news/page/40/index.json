@@ -2,6 +2,282 @@
   "page": 40,
   "value": [
     {
+      "path": "_news/2021-06-07-study-shows-ai-generated-fake-reports-fool-experts.md",
+      "title": "Study shows AI-generated fake reports fool experts",
+      "excerpt": "Takeaways · AIs can generate fake reports that are convincing enough to trick cybersecurity experts. · If widely used, these AIs could hinder efforts to defen",
+      "sourceUrl": null,
+      "webUrl": "https://www.timesunion.com/news/article/Study-shows-AI-generated-fake-reports-fool-experts-16229887.php",
+      "originalUrl": "https://www.timesunion.com/news/article/Study-shows-AI-generated-fake-reports-fool-experts-16229887.php",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.ex.co/amp/mcd/logo_600x336.png",
+          "width": 600,
+          "height": 336,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.timesunion.com/news/amp/Study-shows-AI-generated-fake-reports-fool-experts-16229887.php",
+      "cdnAmpWebUrl": "https://www-timesunion-com.cdn.ampproject.org/c/s/www.timesunion.com/news/amp/Study-shows-AI-generated-fake-reports-fool-experts-16229887.php",
+      "publishedDateTime": "2021-06-07T06:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Times Union",
+        "domain": "timesunion.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-07-mythic-launches-industry-first-analog-ai-chip.md",
+      "title": "Mythic Launches Industry First Analog AI Chip",
+      "excerpt": "Some cutting-edge AI chip developers including Intel and IBM are researching an entirely new approach: in-memory analog computation. Mythic is ready to ship it.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/karlfreund/2021/06/07/mythic-launches-industry-first-analog-ai-chip/",
+      "originalUrl": "https://www.forbes.com/sites/karlfreund/2021/06/07/mythic-launches-industry-first-analog-ai-chip/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 174,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/400x0/smart/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5db071e5a210800006f04019%2F960x0.jpg%3FcropX1%3D0%26cropX2%3D130%26cropY1%3D0%26cropY2%3D130",
+          "width": 400,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/karlfreund/2021/06/07/mythic-launches-industry-first-analog-ai-chip/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2021/06/07/mythic-launches-industry-first-analog-ai-chip/amp/",
+      "publishedDateTime": "2021-06-07T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-07-new-c3-ai-ex-machina-customers-experience-success-with-no-code-ai-anyone-can-use.md",
+      "title": "New C3 AI Ex Machina Customers Experience Success with No-Code AI Anyone Can Use",
+      "excerpt": "C3 AI (NYSE:AI), the Enterprise AI application software company, today announced that C3 AI® Ex Machina, its no-code solution that anyone can use to",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/new-c3-ai-ex-machina-customers-experience-success-with-no-code-ai-anyone-can-use-2021-06-07",
+      "originalUrl": "https://www.marketwatch.com/press-release/new-c3-ai-ex-machina-customers-experience-success-with-no-code-ai-anyone-can-use-2021-06-07",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-07T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-07-modelling-perception-with-artificial-neural-networks.md",
+      "title": "Modelling Perception with Artificial Neural Networks",
+      "excerpt": "The drive behind this change has been the increasing availability of neural network models. With contributions from experts in the field, this book provides a complete survey of artificial neural networks. The book opens with two broad, introductory level ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cambridge.org/vi/academic/subjects/life-sciences/neuroscience/modelling-perception-artificial-neural-networks?format=HB&isbn=9780521763950",
+      "originalUrl": "https://www.cambridge.org/vi/academic/subjects/life-sciences/neuroscience/modelling-perception-artificial-neural-networks?format=HB&isbn=9780521763950",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-07T05:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Cambridge University Press",
+        "domain": "cambridge.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-07-nsw-police-rollout-of-azure-enhances-support-for-cognitive-services.md",
+      "title": "NSW Police rollout of Azure enhances support for cognitive services",
+      "excerpt": "Microsoft says NSW Police is currently exploring how Azure cognitive services can be used to expedite other police work and sees ongoing opportunities to help evolve the Insights capability to ...",
+      "sourceUrl": null,
+      "webUrl": "https://itwire.com/deals/nsw-police-rollout-of-azure-enhances-support-for-cognitive-services.html",
+      "originalUrl": "https://itwire.com/deals/nsw-police-rollout-of-azure-enhances-support-for-cognitive-services.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://itwire.com/media/k2/items/cache/284c30d338766c8ad84378defc07b6c2_M.jpg",
+          "width": 375,
+          "height": 250,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-07T04:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ITWire",
+        "domain": "itwire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-07-the-state-of-ai-decision-making.md",
+      "title": "The State Of AI Decision Making",
+      "excerpt": "Artificial intelligence (AI) is transforming the way we live and work, creating new opportunities in almost every industry and branch of government. Here is where it will go next.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/06/07/the-state-of-ai-decision-making/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/06/07/the-state-of-ai-decision-making/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 139,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ee3c90cac807a0006b5add4%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/06/07/the-state-of-ai-decision-making/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/06/07/the-state-of-ai-decision-making/amp/",
+      "publishedDateTime": "2021-06-07T04:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2021-06-07-3-ai-startups-revolutionizing-nlp.md",
       "title": "3 AI startups revolutionizing NLP",
       "excerpt": "Deep learning has yielded amazing advances in natural language processing. Tap into the latest innovations with Explosion, Huggingface, and John Snow Labs.",
@@ -873,304 +1149,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-06-facebook-makes-its-best-tool-available-for-better-translation.md",
-      "title": "Facebook makes its best tool available for better translation",
-      "excerpt": "New Delhi, June 6 (IANS) In a bid to help build better translation ... language remains a fundamental barrier to accessing information and communicating freely with other people. “The AI ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.glamsham.com/world/technology/facebook-makes-its-best-tool-available-for-better-translation",
-      "originalUrl": "https://www.glamsham.com/world/technology/facebook-makes-its-best-tool-available-for-better-translation",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.glamsham.com/wp-content/uploads/2021/06/834f3b8c1e03550d3a98729783555531.jpg",
-          "width": 400,
-          "height": 267,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-06T05:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "glamsham.com",
-        "domain": "glamsham.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-06-the-rush-to-commercialize-ai-is-creating-major-security-risks.md",
-      "title": "The rush to commercialize AI is creating major security risks",
-      "excerpt": "Researchers from the University of Maryland presented an attack technique meant to slow down deep learning models that have been optimized for fast and sensitive operations.",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/news/rush-commercialize-ai-creating-security-risks-syndication",
-      "originalUrl": "https://thenextweb.com/news/rush-commercialize-ai-creating-security-risks-syndication",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F06%2FAI-Security-hed-shutterstock_1740944516.jpg&signature=47e30a1c370659443e3ae86f0a64fd63",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-06T03:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Security",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-06-06-ihp-offers-access-to-memristive-technology-for-edge-ai-computing-or-hardware-artificial-neural-networks-applications.md",
-      "title": "IHP offers access to memristive technology for edge AI computing or hardware artificial neural networks applications",
-      "excerpt": "Progress in work on memristive circuits and systems is growing rapidly. They find applications in non-volatile memories, advanced computing technologies, e. g. edge AI computing applications, or in hardware artificial neural networks (ANNs) with memristive elements as synaptic elements.",
-      "sourceUrl": null,
-      "webUrl": "https://idw-online.de/de/news770813",
-      "originalUrl": "https://idw-online.de/de/news770813",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "http://www.idw-online.de/de/institutionlogo27391",
-          "width": 902,
-          "height": 1771,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-06T00:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "idw",
-        "domain": "idw-online.de",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-06-microsofts-kate-crawford-ai-is-neither-artificial-nor-intelligent.md",
-      "title": "Microsoft’s Kate Crawford: ‘AI is neither artificial nor intelligent’",
-      "excerpt": "The AI researcher on how natural resources and human labour drive machine learning and the regressive stereotypes that are baked into its algorithms",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/technology/2021/jun/06/microsofts-kate-crawford-ai-is-neither-artificial-nor-intelligent",
-      "originalUrl": "https://www.theguardian.com/technology/2021/jun/06/microsofts-kate-crawford-ai-is-neither-artificial-nor-intelligent",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 98,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/0a2237e46f5eb91b40f9dcd41a92d8e16b5c2406/0_248_6679_4008/master/6679.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=8089cb1e6c147a9cc02432013cc6f397",
-          "width": 600,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/technology/2021/jun/06/microsofts-kate-crawford-ai-is-neither-artificial-nor-intelligent",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2021/jun/06/microsofts-kate-crawford-ai-is-neither-artificial-nor-intelligent",
-      "publishedDateTime": "2021-06-06T00:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI",
-        "AI Ethics",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2021-06-06-facebook-proposes-nethack-as-a-grand-challenge-in-ai-research.md",
-      "title": "Facebook proposes NetHack as a grand challenge in AI research",
-      "excerpt": "Facebook is proposing the '80s game NetHack as a grand challenge in AI and machine learning research, launching a competition at NeurIPS 2021.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/06/09/facebook-proposes-nethack-as-a-grand-challenge-in-ai-research/",
-      "originalUrl": "https://venturebeat.com/2021/06/09/facebook-proposes-nethack-as-a-grand-challenge-in-ai-research/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 131,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/08/facebook-dark-background.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/06/09/facebook-proposes-nethack-as-a-grand-challenge-in-ai-research/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/09/facebook-proposes-nethack-as-a-grand-challenge-in-ai-research/amp/",
-      "publishedDateTime": "2021-06-05T20:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-06-video-riken-and-bsi-toyota-robot-goes-on-a-neural-bender.md",
-      "title": "Video: Riken and BSI-Toyota robot goes on a neural bender",
-      "excerpt": "The research is expected to result in more sophisticated auto-safety technology, mind-controlled machinery, and a new breed of baby-shoe wearing robots for domestic friendship and health care.",
-      "sourceUrl": null,
-      "webUrl": "https://www.engadget.com/2008-06-06-riken-and-bsi-toyota-robot-goes-on-a-neural-bender.html",
-      "originalUrl": "https://www.engadget.com/2008-06-06-riken-and-bsi-toyota-robot-goes-on-a-neural-bender.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.yimg.com/uu/api/res/1.2/BYJ6dBzcZB5HS3uXkcz3jw--~B/aD04MDA7dz02MDA7YXBwaWQ9eXRhY2h5b24-/https://www.blogcdn.com/www.engadget.com/media/2008/06/riken_p1380984.jpg",
-          "width": 600,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-05T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

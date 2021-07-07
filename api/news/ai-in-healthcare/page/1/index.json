@@ -96,7 +96,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-size-share-value-and-competitive-landscape-2021-2026-2021-07-06",
       "featuredContent": null,
       "highlight": null,
-      "heat": 139,
+      "heat": 99,
       "tags": null,
       "images": [
         {
@@ -113,58 +113,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2021-07-06T00:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-06-artificial-intelligence-in-healthcare-market-with-impact-of-covid-19-global-demand-analysis-and-opportunity-outlook-2030.md",
-      "title": "Artificial Intelligence In Healthcare Market With Impact of COVID-19 Global Demand Analysis And Opportunity Outlook 2030",
-      "excerpt": "In a recent published report, Kenneth Research has updated the market report for Artificial Intelligence In Healthcare Market for 2021 till 2030. Report further now discusses; the various strategies to be adopted or being adopted by the business players across the globe at various levels in the value chain.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-with-impact-of-covid-19-global-demand-analysis-and-opportunity-outlook-2030-2021-07-06",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-with-impact-of-covid-19-global-demand-analysis-and-opportunity-outlook-2030-2021-07-06",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-05T21:34:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "MarketWatch",
@@ -878,6 +826,41 @@
         "AI in Healthcare",
         "AI",
         "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-24-cognitivescale-and-ascendum-to-accelerate-trusted-ai-deployments-for-healthcare-fintech-and-ecommerce.md",
+      "title": "CognitiveScale and Ascendum To Accelerate Trusted AI Deployments for Healthcare, Fintech and eCommerce",
+      "excerpt": "Partnership Brings Together People, Process and Trust for Successful AI Application Development AUSTIN, June 23, 2021 — CognitiveScale, the enterprise AI company that helps organizations win with intelligent,",
+      "sourceUrl": null,
+      "webUrl": "https://multichannelmerchant.com/press-releases/cognitivescale-and-ascendum-to-accelerate-trusted-ai-deployments-for-healthcare-fintech-and-ecommerce/",
+      "originalUrl": "https://multichannelmerchant.com/press-releases/cognitivescale-and-ascendum-to-accelerate-trusted-ai-deployments-for-healthcare-fintech-and-ecommerce/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-24T07:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Multichannel Merchant",
+        "domain": "multichannelmerchant.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "AI in Healthcare"
       ]
     },
     {

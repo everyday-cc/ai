@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/07/07/ibms-codeflare-automates-ai-model
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/07/ibms-codeflare-automates-ai-model-development/amp/"
 type: article
 quality: 93
-heat: 103
+heat: 113
 published: true
 
 provider:
@@ -33,6 +33,22 @@ images:
     isCached: true
 
 related:
+  - title: "IBM rolls out CodeFlare, an open-source framework for machine learning apps"
+    excerpt: "CodeFlare is built on top of an emerging open-source distributed computing framework for machine learning applications known as Ray. IBM said CodeFlare extends the capabilities of Ray by adding specific elements to make scaling workflows easier."
+    publishedDateTime: 2021-07-07T16:08:00Z
+    webUrl: "https://www.techrepublic.com/article/ibm-rolls-out-codeflare-an-open-source-framework-for-machine-learning-apps/"
+    ampWebUrl: "https://www.techrepublic.com/google-amp/article/ibm-rolls-out-codeflare-an-open-source-framework-for-machine-learning-apps/"
+    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ibm-rolls-out-codeflare-an-open-source-framework-for-machine-learning-apps/"
+    type: article
+    provider:
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 87
+    images:
+      - url: "https://www.techrepublic.com/a/hub/i/r/2020/08/04/38195eea-6673-4ba6-8fe7-a9babacef221/resize/1200x/b171876964c924dd448061d5d5d558b1/ibm-notebook.jpg"
+        width: 1200
+        height: 797
+        isCached: true
   - title: "IBM open-sources CodeFlare framework for AI models that run on multicloud platforms"
     excerpt: "Holger Mueller, an analyst with Constellation Research Inc., told SiliconANGLE that AI and machine learning ... We are holding our second cloud startup showcase on June 16. Click here to join ..."
     publishedDateTime: 2021-07-07T12:31:00Z

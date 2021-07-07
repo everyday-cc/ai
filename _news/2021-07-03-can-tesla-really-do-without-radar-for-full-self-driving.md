@@ -61,6 +61,22 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Hacker shows what Tesla Full Self-Driving’s vision depth perception neural net can see"
+    excerpt: "A hacker managed to pull Tesla’s vision depth perception neural net from his car with “Full Self-Driving” package. You can see how the vehicle detects depth with a point-cloud view powered ..."
+    publishedDateTime: 2021-07-07T16:12:00Z
+    webUrl: "https://electrek.co/2021/07/07/hacker-tesla-full-self-drivings-vision-depth-perception-neural-net-can-see/"
+    ampWebUrl: "https://electrek.co/2021/07/07/hacker-tesla-full-self-drivings-vision-depth-perception-neural-net-can-see/amp/"
+    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/07/07/hacker-tesla-full-self-drivings-vision-depth-perception-neural-net-can-see/amp/"
+    type: article
+    provider:
+      name: Electrek
+      domain: electrek.co
+    quality: 83
+    images:
+      - url: "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2021/07/Tesla-full-self-driving-neural-net-e1625673878181.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+        width: 1200
+        height: 628
+        isCached: true
 
 secured: "HvwVEMIr02LjimKrUqfFr9RMz0n/qPybfrMW4+wg59wgTPseqxESpL0KSseY/EGnHbKHVAWiCu5m0wMMhCCqqloUUC2zyr/LD2FdPVfYINTQzrxN8VvQmwrrMsqhilpVp2QQ/yVLkhKILzak6mRibK15eCM+dI2W0a0aUvKs7S6SqeQrz8ArIKYKIjXR+pztPxHSDRl+q0YkWyWhwdUvEBZEWXBNKe9jPdd1BAzyjHEmEvhVHHvoEZ5zIlxQRURbDWn0DRC68HKmHwGL6R42lTV28Av1QgxMqmBF4ErhlA5G5FTMo1x4ZY5rAhLDrNC0Ze7jPcfvB0s3Lo3qqeSXCoGLBjshiEbk2+LTf5g4yH9i1DPNsuoy4O4gfwTbR6tKBZVqueyy0xDufiBY+qzd0Q7Rj+PsJh0H1RNLW3gDYYFWzM1r1pSOIaEs6MpxdfpgHlgCHewEDR8le97zqoZRzvt2jLmMg+znc/JMh14p7hF7WLgcbdR1/C9BT6C7v9fAmcVfJGSz3Paxu+pUet7r/w==;2ILz6Rc/JEIYHMrvIo2mlA=="
 ---

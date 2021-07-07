@@ -29,7 +29,7 @@ related:
     provider:
       name: Washington Post
       domain: washingtonpost.com
-    quality: 40
+    quality: 42
     images:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/J7CVFR5XPRCRJJ7OUGCJ3IGNW4.jpg&w=1440"
         width: 1440

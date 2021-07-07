@@ -2,6 +2,95 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-06-21-global-machine-learning-as-a-service-market-2021-industry-outlook-current-status-supply-demand-growth-opportunities-and-top-players-analysis.md",
+      "title": "Global Machine Learning as a Service Market 2021 Industry Outlook, Current Status, Supply-Demand, Growth Opportunities and Top Players Analysis 2030",
+      "excerpt": "In a recent published report, Kenneth Research has updated the market report for Global Machine Learning as a Service Market for 2021 till 2030. Report further now discusses; the various strategies to be adopted or being adopted by the business players across the globe at various levels in the value chain.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/global-machine-learning-as-a-service-market-2021-industry-outlook-current-status-supply-demand-growth-opportunities-and-top-players-analysis-2030-2021-06-21",
+      "originalUrl": "https://www.marketwatch.com/press-release/global-machine-learning-as-a-service-market-2021-industry-outlook-current-status-supply-demand-growth-opportunities-and-top-players-analysis-2030-2021-06-21",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-21T00:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-06-19-machine-learning-artificial-intelligence-market-outlook-to-2028-aibrain-amazon-anki-cloudminds-deepmind-google-facebook-ibm.md",
+      "title": "Machine Learning Artificial intelligence Market Outlook to 2028- AIBrain, Amazon, Anki, CloudMinds, Deepmind, Google, Facebook, IBM",
+      "excerpt": "Get Sample Copy @  AIBrain, Amazon, Anki, CloudMinds, Deepmind, Google, Facebook, IBM, Iris AI, Apple, Luminoso, Qualcomm. Driver Evaluation: Favouring manufacturer company discretion to make sure high earnings creation,",
+      "sourceUrl": null,
+      "webUrl": "https://ksusentinel.com/2021/06/19/machine-learning-artificial-intelligence-market-outlook-to-2028-aibrain-amazon-anki-cloudminds-deepmind-google-facebook-ibm/",
+      "originalUrl": "https://ksusentinel.com/2021/06/19/machine-learning-artificial-intelligence-market-outlook-to-2028-aibrain-amazon-anki-cloudminds-deepmind-google-facebook-ibm/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-19T07:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Sentinel",
+        "domain": "ksusentinel.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI",
+        "Machine Learning",
+        "Google AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-18-this-nifty-online-guide-compares-aiml-tools-and-platforms.md",
       "title": "This nifty online guide compares AI/ML tools and platforms",
       "excerpt": "This Week in Machine Learning isn't just a popular podcast, it's also a one-stop resource for figuring out what ML solutions your team needs.",
@@ -1289,94 +1378,6 @@
       "provider": {
         "name": "CNN-News18",
         "domain": "news18.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "Math for AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-09-how-artificial-intelligence-and-machine-learning-can-prevent-third-wave-of-lockdown.md",
-      "title": "How artificial intelligence and machine learning can prevent third wave of lockdown",
-      "excerpt": "New age technologies such as artificial intelligence and machine learning can predict and effectively prevent third wave of lockdown",
-      "sourceUrl": null,
-      "webUrl": "https://www.dqindia.com/artificial-intelligence-machine-learning-can-prevent-third-wave-lockdown/",
-      "originalUrl": "https://www.dqindia.com/artificial-intelligence-machine-learning-can-prevent-third-wave-lockdown/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.dqindia.com/wp-content/uploads/2020/03/coronavirus-4842056_1280-2.jpg",
-          "width": 716,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.dqindia.com/artificial-intelligence-machine-learning-can-prevent-third-wave-lockdown/amp/",
-      "cdnAmpWebUrl": "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/artificial-intelligence-machine-learning-can-prevent-third-wave-lockdown/amp/",
-      "publishedDateTime": "2021-06-09T01:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Dataquest",
-        "domain": "dqindia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-06-09-despite-proficiency-in-machine-learning-and-math-india-trails-in-data-skills-report.md",
-      "title": "Despite proficiency in machine learning and math, India trails in data skills: Report",
-      "excerpt": "Indian women are opting to upskill in STEM related fields; share of enrollments increased 2nd highest globally.",
-      "sourceUrl": null,
-      "webUrl": "https://www.dqindia.com/despite-proficiency-machine-learning-math-india-trails-data-skills-report/",
-      "originalUrl": "https://www.dqindia.com/despite-proficiency-machine-learning-math-india-trails-data-skills-report/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 134,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.dqindia.com/wp-content/uploads/2017/06/digital-skills.jpg",
-          "width": 600,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.dqindia.com/despite-proficiency-machine-learning-math-india-trails-data-skills-report/amp/",
-      "cdnAmpWebUrl": "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/despite-proficiency-machine-learning-math-india-trails-data-skills-report/amp/",
-      "publishedDateTime": "2021-06-09T01:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Dataquest",
-        "domain": "dqindia.com",
         "images": null,
         "publishers": null,
         "authors": null

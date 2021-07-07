@@ -2,6 +2,93 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-06-01-neural-network-performs-complex-hand-movements-in-new-simulation.md",
+      "title": "Neural Network Performs Complex Hand Movements in New Simulation",
+      "excerpt": "A simulation of a robotic hand implemented on the EBRAINS research infrastructure is beginning to perform human-like digit configurations",
+      "sourceUrl": null,
+      "webUrl": "https://www.technologynetworks.com/informatics/news/neural-network-performs-complex-hand-movements-in-new-simulation-349365",
+      "originalUrl": "https://www.technologynetworks.com/informatics/news/neural-network-performs-complex-hand-movements-in-new-simulation-349365",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.technologynetworks.com/tn/images/thumbs/jpeg/640_360/neural-network-performs-complex-hand-movements-in-new-simulation-349365.jpg?cb=20210603",
+          "width": 640,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-01T06:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "technologynetworks.com",
+        "domain": "technologynetworks.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-01-udacity-issues-a-two-month-free-course-on-aws-machine-learning-foundation.md",
+      "title": "Udacity Issues a Two-Month Free Course on AWS Machine Learning Foundation",
+      "excerpt": "Udacity announced last week the launch of a new version of its AWS Machine Learning Foundations course with AWS (Amazon Web Services). It’s two months, free course for beginners with little to no experience in the area.",
+      "sourceUrl": null,
+      "webUrl": "https://iblnews.org/udacity-issues-a-two-month-free-course-on-aws-machine-learning-foundation/",
+      "originalUrl": "https://iblnews.org/udacity-issues-a-two-month-free-course-on-aws-machine-learning-foundation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://iblnews.org/wp-content/uploads/2021/05/udacityandaws.jpg",
+          "width": 700,
+          "height": 395,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://iblnews.org/udacity-issues-a-two-month-free-course-on-aws-machine-learning-foundation/amp/",
+      "cdnAmpWebUrl": "https://iblnews-org.cdn.ampproject.org/c/s/iblnews.org/udacity-issues-a-two-month-free-course-on-aws-machine-learning-foundation/amp/",
+      "publishedDateTime": "2021-05-31T21:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBL News",
+        "domain": "iblnews.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-06-01-deep-learning-suppliers-strategic-positioning-and-benchmark-report-2021-google-ibm-intel-micron-technology-microsoft-sensory-inc-nvidia.md",
       "title": "Deep Learning Suppliers Strategic Positioning and Benchmark Report 2021: Google, IBM, Intel, Micron Technology, Microsoft, Sensory Inc., Nvidia, and Samsung ...",
       "excerpt": "DUBLIN--(BUSINESS WIRE)--The \"Deep Learning Suppliers Strategic Positioning and Leadership Quadrant\" report has been added to ResearchAndMarkets.com's offering. This report offers a full competitive analysis from target markets to product mapping ...",
@@ -1237,85 +1324,6 @@
         "Machine Learning",
         "Microsoft AI",
         "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-26-lattice-sensai-solution-stack-simplifies-deployment-of-aiml-models-on-smart-edge-devices.md",
-      "title": "Lattice sensAI Solution Stack Simplifies Deployment of AI/ML Models on Smart Edge Devices",
-      "excerpt": "Supports TensorFlow Lite and Lattice Propel for Embedded Processor-based Designs; Includes New Lattice sensAI Studio Tool for Easy ML Model Training HILLSBORO, OR – May 25, 2021 – Lattice Semiconductor (NASDAQ: LSCC), the low power programmable leader ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.design-reuse.com/news/50032/lattice-sensai.html",
-      "originalUrl": "https://www.design-reuse.com/news/50032/lattice-sensai.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-25T23:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Design-Reuse",
-        "domain": "design-reuse.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-05-26-neural-network-knows-when-cat-wants-to-go-outside.md",
-      "title": "Neural Network Knows When Cat Wants To Go Outside",
-      "excerpt": "A Python script regularly captures images and passes them to a TensorFlow neural network for object recognition. The TensorFlow network returns object type and positions to the Python script.",
-      "sourceUrl": null,
-      "webUrl": "https://hackaday.com/2018/12/21/neural-network-knows-when-cat-wants-to-go-outside/",
-      "originalUrl": "https://hackaday.com/2018/12/21/neural-network-knows-when-cat-wants-to-go-outside/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://hackaday.com/wp-content/uploads/2018/12/0800.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-25T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hackaday",
-        "domain": "hackaday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

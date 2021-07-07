@@ -2,6 +2,59 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-07-07-ask-a-techspert-whats-a-neural-network.md",
+      "title": "Ask a Techspert: What’s a neural network?",
+      "excerpt": "Back in the day, there was a surefire way to tell humans and computers apart: You’d present a picture of a four-legged friend and ask if it was a cat or dog. A computer couldn’t identify felines from canines, but we humans could answer with doggone confidence. That all changed about a decade ago thanks",
+      "sourceUrl": null,
+      "webUrl": "https://blog.google/technology/ai/ask-a-techspert-whats-a-neural-network/",
+      "originalUrl": "https://blog.google/technology/ai/ask-a-techspert-whats-a-neural-network/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 111,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/neural_networks_hero.max-1300x1300.jpg",
+          "width": 1300,
+          "height": 541,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://blog.google/technology/ai/ask-a-techspert-whats-a-neural-network/amp/",
+      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/technology/ai/ask-a-techspert-whats-a-neural-network/amp/",
+      "publishedDateTime": "2021-07-07T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Google",
+        "domain": "blog.google",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-07-07-even-pro-golfers-have-turned-to-remote-learning.md",
       "title": "Even Pro Golfers Have Turned to Remote Learning",
       "excerpt": "With coaches and players forced to keep their distance because of the pandemic, perfecting the golf swing went virtual.",
@@ -62,7 +115,7 @@
       "originalUrl": "https://www.videogameschronicle.com/news/new-cheat-software-claims-to-work-on-any-console-via-machine-learning/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 74,
+      "heat": 75,
       "tags": null,
       "images": [
         {
@@ -449,6 +502,49 @@
       ]
     },
     {
+      "path": "_news/2021-07-01-enhance-your-career-prospects-with-artificial-intelligence-courses.md",
+      "title": "Enhance your career prospects with Artificial Intelligence courses",
+      "excerpt": "Artificial intelligence is considered to be one of the most disruptive and successful technologies that exists today. Its potential to continuously evolve and enable innovations is now being leveraged by a spectrum of industries across the globe.",
+      "sourceUrl": null,
+      "webUrl": "https://www.tribuneindia.com/news/jobs & careers/enhance-your-career-prospects-with-artificial-intelligence-courses-276759",
+      "originalUrl": "https://www.tribuneindia.com/news/jobs & careers/enhance-your-career-prospects-with-artificial-intelligence-courses-276759",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://englishtribuneimages.blob.core.windows.net/gallary-content/2021/7/2021_7$largeimg_883535778.jpg",
+          "width": 724,
+          "height": 483,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-01T04:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Tribune",
+        "domain": "tribuneindia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-01-jevois-pro-deep-learning-open-source-ai-camera.md",
       "title": "JeVois-Pro deep learning open source AI camera",
       "excerpt": "If you are interested in learning more about deep learning a new open source smart camera has been launched via Kickstarter called the JeVois-Pro. The artificial intelligent camera runs powerful ...",
@@ -717,49 +813,6 @@
       ]
     },
     {
-      "path": "_news/2021-06-29-edge-of-chaos-opens-pathway-to-artificial-intelligence-discoveries.md",
-      "title": "'Edge of chaos' opens pathway to artificial intelligence discoveries",
-      "excerpt": "Some neuroscience theories suggest the human brain operates best 'at the edge of chaos'. Now scientists have found that keeping a nanowire network at the edge of becoming chaotic is the best state for it to produce useful signals to solve problems.",
-      "sourceUrl": null,
-      "webUrl": "https://www.sciencedaily.com/releases/2021/06/210629101157.htm",
-      "originalUrl": "https://www.sciencedaily.com/releases/2021/06/210629101157.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-29T09:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Science Daily",
-        "domain": "sciencedaily.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-06-29-visionary-trio-creates-next-gen-video-and-image-annotation-platform-for-machine-learning.md",
       "title": "Visionary Trio Creates Next Gen Video and Image Annotation Platform for Machine Learning",
       "excerpt": "Innotescus ® is announcing the launch of its image and video annotation platform. The Innotescus platform provides an intuitive annotation workspace, comprehensive analytics, and a collaborative environment for teams to produce superior quality training datasets.",
@@ -885,6 +938,49 @@
       "provider": {
         "name": "iMore",
         "domain": "imore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-29-edge-of-chaos-opens-pathway-to-artificial-intelligence-discoveries.md",
+      "title": "'Edge of chaos' opens pathway to artificial intelligence discoveries",
+      "excerpt": "Scientists at the University of Sydney and Japan's National Institute for Material Science (NIMS) have discovered that an artificial network of nanowires can be tuned to respond in a brain-like way when electrically stimulated.",
+      "sourceUrl": null,
+      "webUrl": "https://phys.org/news/2021-06-edge-chaos-pathway-artificial-intelligence.html",
+      "originalUrl": "https://phys.org/news/2021-06-edge-chaos-pathway-artificial-intelligence.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2021/edge-of-chaos-opens-pa.jpg",
+          "width": 514,
+          "height": 225,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://phys.org/news/2021-06-edge-chaos-pathway-artificial-intelligence.amp",
+      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-06-edge-chaos-pathway-artificial-intelligence.amp",
+      "publishedDateTime": "2021-06-29T02:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Phys.org",
+        "domain": "phys.org",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1276,102 +1372,6 @@
         "name": "The Sentinel",
         "domain": "ksusentinel.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-25-webinar-recording-now-online-how-to-employ-automated-machine-learning-to-predict-the-best-quality-potato-chipcrisp.md",
-      "title": "Webinar recording now online: ‘How to employ Automated Machine Learning to Predict the Best Quality Potato Chip/Crisp’",
-      "excerpt": "This webinar ran successfully on June 24th. JADBio’s Automated Machine Learning (AutoML) platform was applied to predict potatoes’ susceptibility to bruising and also its potential for coloration",
-      "sourceUrl": null,
-      "webUrl": "https://www.potatonewstoday.com/2021/06/25/webinar-recording-now-online-how-to-employ-automated-machine-learning-to-predict-the-best-quality-potato-chip-crisp/",
-      "originalUrl": "https://www.potatonewstoday.com/2021/06/25/webinar-recording-now-online-how-to-employ-automated-machine-learning-to-predict-the-best-quality-potato-chip-crisp/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i0.wp.com/www.potatonewstoday.com/wp-content/uploads/2021/06/JADBio-Binary-Classification-better-chip-1.jpg?fit=813%2C530&#038;ssl=1",
-          "width": 813,
-          "height": 530,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-25T09:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "potatonewstoday",
-        "domain": "potatonewstoday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2021-06-25-is-machine-learning-the-key-to-unlocking-gen-z-engagement-a-discussion-with-jonathan-jadali-of-ascend.md",
-      "title": "Is Machine Learning The Key To Unlocking Gen Z Engagement? A Discussion With Jonathan Jadali Of Ascend",
-      "excerpt": "The jury is still out on what makes Gen Z’ers tick, but while the research is still ongoing there is much evidence to suggest that a marketing strategy utilizing machine learning is exponentially more effective with the next generation.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/anniebrown/2021/06/24/is-machine-learning-the-key-to-unlocking-gen-z-engagement-a-discussion-with-jonathan-jadali-of-ascend/",
-      "originalUrl": "https://www.forbes.com/sites/anniebrown/2021/06/24/is-machine-learning-the-key-to-unlocking-gen-z-engagement-a-discussion-with-jonathan-jadali-of-ascend/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60d5098c2702bcb12baf4077%2F0x0.jpg",
-          "width": 1200,
-          "height": 801,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/anniebrown/2021/06/24/is-machine-learning-the-key-to-unlocking-gen-z-engagement-a-discussion-with-jonathan-jadali-of-ascend/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/anniebrown/2021/06/24/is-machine-learning-the-key-to-unlocking-gen-z-engagement-a-discussion-with-jonathan-jadali-of-ascend/amp/",
-      "publishedDateTime": "2021-06-24T15:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

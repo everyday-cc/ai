@@ -2,27 +2,21 @@
 category: news
 title: "Reply Shapes the Future of Autonomous Mobile Robots with the Power of Microsoft Azure"
 excerpt: "The solution combines Microsoft Azure services ... Reply integrates Azure Cognitive Services, Machine Learning and DevOps as well as Power Apps and Power BI. Thanks to Azure's intelligent service ..."
-publishedDateTime: 2021-07-06T07:39:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/21/07/b21850593/reply-shapes-the-future-of-autonomous-mobile-robots-with-the-power-of-microsoft-azure"
-webUrl: "https://www.benzinga.com/pressreleases/21/07/b21850593/reply-shapes-the-future-of-autonomous-mobile-robots-with-the-power-of-microsoft-azure"
+publishedDateTime: 2021-07-06T07:38:00Z
+originalUrl: "https://www.morningstar.com/news/business-wire/20210706005133/reply-shapes-the-future-of-autonomous-mobile-robots-with-the-power-of-microsoft-azure"
+webUrl: "https://www.morningstar.com/news/business-wire/20210706005133/reply-shapes-the-future-of-autonomous-mobile-robots-with-the-power-of-microsoft-azure"
 type: article
-quality: 47
+quality: 27
 heat: -1
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: Morningstar%2c Inc.
+  domain: morningstar.com
 
 topics:
   - Microsoft AI
   - AI
-
-images:
-  - url: "https://cdn.benzinga.com/files/imagecache/og_image_social_share_1200x630/sites/all/themes/bz2/images/bz-icon.png"
-    width: 1200
-    height: 630
-    isCached: true
 
 related:
   - title: "Speech Recognition Software Market Next Big Thing | Major Giants Google, Microsoft, Baidu"
@@ -89,20 +83,6 @@ related:
       name: manometcurrent.com
       domain: manometcurrent.com
     quality: 35
-  - title: "Artificial Intelligence (AI) in Real Estate Market Next Big Thing : Major Giants IBM, Cape Analytics, Baidu"
-    excerpt: "The latest research on “Global Artificial Intelligence (AI) in Real Estate Report 2021” offered by HTF MI provides a comprehensive investigation into the geographical landscape, industry size along with the revenue estimation of the business."
-    publishedDateTime: 2021-07-03T00:36:00Z
-    webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-ai-in-real-estate-market-next-big-thing-major-giants-ibm-cape-analytics-baidu"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 34
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2021/07/Canada-indigenous-schools-AFP-1K-02-600x337.jpg"
-        width: 600
-        height: 337
-        isCached: true
   - title: "Artificial Intelligence in Healthcare Market 2021 Updated Report || Top Players – Intel, IBM, Google, Microsoft, General Vision"
     excerpt: "Artificial Intelligence in Healthcare Market 2021 Updated Report \\|\\| Top Players – Intel, IBM, Google, Microsoft, General Vision; Surgical Planning Software Market"
     publishedDateTime: 2021-07-05T18:47:00Z
@@ -140,6 +120,6 @@ related:
       domain: manometcurrent.com
     quality: 21
 
-secured: "ccp70VMeegpIWdvYXbFvjy1TfB0JlyfKBktOp9IJh41iB5AuwCq32wekAPUe3lI1hkgYGdTNquqMfe0QxF3TOXJOmJO4L7TbBuGLjprw5CIXo2ktYTG/L73y7tBDWarTVecL1YvmFGtrdilR0bUwCap8MdjIZs5zOfxFtHqjMx//oXpajC1Bi1oFzIYFB8SjBSunGHXVO3kdSQ61s1q2ygCRkbPIuJ+06xYpZZuJALcSyNXQlgJs3QLQ+UGBVpojgzKI89f0g7OotVbaKRtSuPVwf7bsFLtisPxsB9y7SnduSrdj7+LjEsQnMf6nekdiF4HuZXw1P+T90nrn31RgGFMV5A8iVCX7HLWC5PVQHpE=;BZMRidKb2ZDT41bhZh56Og=="
+secured: "N3M3TUrvq2Ig2LOt3MzlppZZHF94scsG5pqnvkWAiA0T04QY6EblOVKUODeqsmPciPZq3TpeESFZYbXmTR1f7wAGV8ek9cGQzHEKJHP/7UkXxy+Os5OHo7itza+3PWhRdz2H8MuoKgGnC1OzPElY75P1t2jV19Us4sDSVpxQoO+w06o3yZbk38UaxB4B+OO0KzY3aULw1rmrIGlBSR5K4QZidxFC4M2oHPdeXLJ+CZ+J5PArPBTGFQeqR69F7jLDlpWNPq3BxnjdCcxiMTI0bBdH394C7FWZGYUxNrXoQMSShj7l2hBfRrR9DHJzrsG1qXi1IbrsysRIDLaDsvrEhMvL9SS76D5cbWxCffkUW/w=;IEPH4i3cMXzqZIs1VrJiHg=="
 ---
 

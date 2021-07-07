@@ -3,23 +3,23 @@ category: news
 title: "Yes Lender Acquires Edge Funder to Create an AI-powered Funding Portal for Small Businesses"
 excerpt: "Yes Lender announced that it recently acquired Edge Funder, Inc., a FinTech start-up that is transforming entrepreneur's access to working capital"
 publishedDateTime: 2021-07-06T12:36:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_pennsylvania/yes-lender-acquires-edge-funder-to-create-an-ai-powered-funding-portal-for-small-businesses/article_d1818394-cc00-5bb0-9285-4be9f8057874.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_pennsylvania/yes-lender-acquires-edge-funder-to-create-an-ai-powered-funding-portal-for-small-businesses/article_d1818394-cc00-5bb0-9285-4be9f8057874.html"
+originalUrl: "https://www.pottsmerc.com/news/state/yes-lender-acquires-edge-funder-to-create-an-ai-powered-funding-portal-for-small-businesses/article_3b6d444f-09ea-5d1b-ba50-9f6a7d35fadf.html"
+webUrl: "https://www.pottsmerc.com/news/state/yes-lender-acquires-edge-funder-to-create-an-ai-powered-funding-portal-for-small-businesses/article_3b6d444f-09ea-5d1b-ba50-9f6a7d35fadf.html"
 type: article
 quality: 29
 heat: -1
 published: false
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: The Mercury
+  domain: pottsmerc.com
 
 topics:
   - AI in Finance
   - AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/3/d5/3d5e1a5d-f16f-5c20-a53f-4df5d08387dc/60e44f58e0e38.image.jpg?resize=630%2C630"
+  - url: "https://bloximages.chicago2.vip.townnews.com/pottsmerc.com/content/tncms/assets/v3/editorial/2/32/2321ff9f-1472-58fa-beee-fda4cb331fe0/60e454206a1c8.image.jpg?resize=630%2C630"
     width: 630
     height: 630
     isCached: true
@@ -42,6 +42,6 @@ related:
         height: 274
         isCached: true
 
-secured: "5rS2wCztxoVa25x20m+PzjyYhBd+98C1Vm2T8ehXb0h75ye6tcfP8cr9I96IWH7TBQS3LUAKbFIiWA62S7pM1CmQq/ZqDCwpOrUkmqbU3QsLnPrkt7JHVxSTiCgOsIOCEOnII8SUBS5Z6xH4Jp5ZyaRBpWSJpPxTthShfmmL95qKvIbJ/HtXiRFJCjAz+cM6pexDIYa+hjtFPNPtxleHB4OvR4Svn0glG5pBeY6PF1mW0Xb/VzzejFqfcM2Jx/X2zdXBiKfdjJjsf0b1ObPDxFGl2jnlt/6aVdzcNGq8QHNAQOq6HI55bwuiCIVsEyt7g6SifIREqtJ3qKvzG536eyU/nGOseh+40zcT9FReGKw=;ROR3nZgjd4fYPKVP/PudJg=="
+secured: "Sa1DZHNjhvEjtuIJ0oB4cn/skQ+DC2PUYflFQfxfuKDdVyex7/osQY8Ib9hDiFfONSkJC3sBSUgbYCt2swWVFAMOb02z0Amo8IjiSBlyu18BlgamBraZ3UpCrphjmGuT7CSpis7leltT+Ou87dKQXeL2g37QoLC5k0uDfdpW4fYDOMDWXRDAL7v5uriKeqH+u3v5s2yXqU765zI+DBnfaRwF3FtEHmK7i1V2+R1uxL8Zv7AXodO/GBzIhIDY/mJKxafVho/QXMkH7MNtlC0u9XnCWWR+a1flfvpGYcIZw+4pSDmxDcM8mTHypFQTM4RfNJwQxAMMBVBCSN0jDezfLtqZesgNqiUJd/YrCJYw+7Q=;mDP4zU7S4zhFsmALQm81rw=="
 ---
 

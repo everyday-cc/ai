@@ -2,11 +2,11 @@
 category: news
 title: "The Man Behind China’s Aggressive New Voice"
 excerpt: "Pakistan was one of the first noncommunist countries to switch diplomatic recognition from the exiled government in ... Into that void stepped Zhao, who became the sole voice on all things C.P.E.C., both on Twitter and in more staid official communications."
-publishedDateTime: 2021-07-07T09:01:00Z
-originalUrl: "https://www.nytimes.com/2021/07/07/magazine/china-diplomacy-twitter.html"
-webUrl: "https://www.nytimes.com/2021/07/07/magazine/china-diplomacy-twitter.html"
-ampWebUrl: "https://www.nytimes.com/2021/07/07/magazine/china-diplomacy-twitter.amp.html"
-cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/07/07/magazine/china-diplomacy-twitter.amp.html"
+publishedDateTime: 2021-07-07T16:31:00Z
+originalUrl: "https://www.nytimes.com/2021/07/07/magazine/china-diplomacy-twitter-zhao-lijian.html"
+webUrl: "https://www.nytimes.com/2021/07/07/magazine/china-diplomacy-twitter-zhao-lijian.html"
+ampWebUrl: "https://www.nytimes.com/2021/07/07/magazine/china-diplomacy-twitter-zhao-lijian.amp.html"
+cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/07/07/magazine/china-diplomacy-twitter-zhao-lijian.amp.html"
 type: article
 quality: 74
 heat: 74
@@ -30,6 +30,6 @@ images:
     height: 549
     isCached: true
 
-secured: "EfCr5mp2LGHh0eu7b3uwAy5pEbV6izViNqr6T+czcaHl8INIc3pK8RLFOXHXpdiPosapcXVssUn1cNtg6QqPejZVJle68UjFOLyg1lXFWwoi4BlnwFhi5K2Yz7J6xvuvwmQ8Ik2krHyhQW+rwAN8yRceJhbmOaIH+M+f8QFx7VsPqBQG+PFxMmsSZZyVBlbUVuDc2thul4KUdcbg+dNn2mqZl26dM85neX+Ffmj1qFvDH6ccJ5TjWSTiqyCZk9p7/CAbHVTuyUDfIYGkSV1pY5BKR+FFrUZFwHwL++bhsNca+uLjfb1oN1GEcYjRx4TXoTsjJV1phqx4bgoAgBydjFrLtm0tp+5ov0LRATEwaJA=;fWetq4VDdXRNoltQF8i2mQ=="
+secured: "NrnsnEQJP+afjdV9dDLGl+xINTq4KBAt/bzkPXwB9EX7xpJcVE18WzZ8jD0gHqSSBpqU+KO7ezniDRxRpKZ/KG2ho3a7/J3fRZynU+XdCJNZ0Pym5VbpqwqlowrvmPCSPyHdQIA5ptPYcAA+OkyDmdLIgMOI6NgJAKwL2Q3rK8RZm7ZIHT1C3OVQ/lsvGvAIC+4Vmoao6ceB2IL1YoHleHM6lFSNvq5sAHVVU3Oz89OCL6uEMl+WeWbK25xcAnVMpw1CGsBWeutOn9Ehdn84W/+SziI9wCDZ4QDmyHaJ1MxpGbudhNrEVUx5z/6EHPV3ZdEO1Qlxd6OBOjY1kABbutOP0oWqgID5CcuFVQku9WU=;rUe2a+4z1768H47pxTcOHw=="
 ---
 

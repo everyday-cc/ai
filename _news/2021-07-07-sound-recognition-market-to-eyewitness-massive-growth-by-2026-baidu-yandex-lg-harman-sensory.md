@@ -58,20 +58,6 @@ related:
         width: 1600
         height: 1069
         isCached: true
-  - title: "Reply Shapes the Future of Autonomous Mobile Robots with the Power of Microsoft Azure"
-    excerpt: "The solution combines Microsoft Azure services ... Reply integrates Azure Cognitive Services, Machine Learning and DevOps as well as Power Apps and Power BI. Thanks to Azure's intelligent service ..."
-    publishedDateTime: 2021-07-06T07:39:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/21/07/b21850593/reply-shapes-the-future-of-autonomous-mobile-robots-with-the-power-of-microsoft-azure"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 47
-    images:
-      - url: "https://cdn.benzinga.com/files/imagecache/og_image_social_share_1200x630/sites/all/themes/bz2/images/bz-icon.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Microsoft experiments with high-end machine learning on Xbox Series X"
     excerpt: "Microsoft is hiring new software engineers to help create new next-gen machine learning algorithms for Xbox Series X/S consoles."
     publishedDateTime: 2021-07-03T22:14:00Z
@@ -90,20 +76,6 @@ related:
       name: manometcurrent.com
       domain: manometcurrent.com
     quality: 35
-  - title: "Artificial Intelligence (AI) in Real Estate Market Next Big Thing : Major Giants IBM, Cape Analytics, Baidu"
-    excerpt: "The latest research on “Global Artificial Intelligence (AI) in Real Estate Report 2021” offered by HTF MI provides a comprehensive investigation into the geographical landscape, industry size along with the revenue estimation of the business."
-    publishedDateTime: 2021-07-03T00:36:00Z
-    webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-ai-in-real-estate-market-next-big-thing-major-giants-ibm-cape-analytics-baidu"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 34
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2021/07/Canada-indigenous-schools-AFP-1K-02-600x337.jpg"
-        width: 600
-        height: 337
-        isCached: true
   - title: "Artificial Intelligence in Healthcare Market 2021 Updated Report || Top Players – Intel, IBM, Google, Microsoft, General Vision"
     excerpt: "Artificial Intelligence in Healthcare Market 2021 Updated Report \\|\\| Top Players – Intel, IBM, Google, Microsoft, General Vision; Surgical Planning Software Market"
     publishedDateTime: 2021-07-05T18:47:00Z
@@ -131,6 +103,15 @@ related:
       name: manometcurrent.com
       domain: manometcurrent.com
     quality: 28
+  - title: "Reply Shapes the Future of Autonomous Mobile Robots with the Power of Microsoft Azure"
+    excerpt: "The solution combines Microsoft Azure services ... Reply integrates Azure Cognitive Services, Machine Learning and DevOps as well as Power Apps and Power BI. Thanks to Azure's intelligent service ..."
+    publishedDateTime: 2021-07-06T07:38:00Z
+    webUrl: "https://www.morningstar.com/news/business-wire/20210706005133/reply-shapes-the-future-of-autonomous-mobile-robots-with-the-power-of-microsoft-azure"
+    type: article
+    provider:
+      name: Morningstar%2c Inc.
+      domain: morningstar.com
+    quality: 27
   - title: "Deep Learning System Software Market Size and Growth to 2028 | Key Players – Microsoft, TRINT, NVIDIA, Google, IBM, Amazon Web Services"
     excerpt: "The Deep Learning System Software Market report forecasts promising growth and development for the period 2021-2028. The Deep Learning System Software market research report defines key statistical data presented in an organized format including graphs,"
     publishedDateTime: 2021-07-04T00:00:00Z
