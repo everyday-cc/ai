@@ -51,22 +51,6 @@ related:
         width: 640
         height: 360
         isCached: true
-  - title: "The Cybersecurity 202: Activists and lawmakers increase calls for ban on federal use of facial recognition technology"
-    excerpt: "The 'agencies’ failures to set responsible boundaries on facial recognition use makes it even more critical that Congress step in immediately,' said Sen. Ron Wyden (D-Ore.)."
-    publishedDateTime: 2021-07-02T10:51:00Z
-    webUrl: "https://www.washingtonpost.com/politics/2021/07/02/cybersecurity-202-some-activists-lawmakers-want-ban-federal-government-using-facial-recognition-technology/"
-    ampWebUrl: "https://www.washingtonpost.com/politics/2021/07/02/cybersecurity-202-some-activists-lawmakers-want-ban-federal-government-using-facial-recognition-technology/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/07/02/cybersecurity-202-some-activists-lawmakers-want-ban-federal-government-using-facial-recognition-technology/?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 36
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/MC6Z2KWTIAI6XM47AWRNO5VR6Q.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
 
 secured: "elWs4MtYUUrLCIXwmsVlhPWkwneDO0dkRtWkbk8MgVJ8FjV5m25GU4rjFFukpW25FNOPuOuI3hqz3Tk0X80aBdpl4LgZpdd7x6o1xNqFAGcuhUbzXT9LFvBgVUODqxwpjZxCGuwwFQHUSt2knkFgbyGVKzX/16BaBS3ZQv97L4GMcral4FLBlO+6amxkto1VjOzzZfn28uY/6xOD54xW+BW2G/1IIpbBbg2b4dbA0Ocj+rPQjbxUBY90CwBk9p6MWLvH3xGbVyCxc2EG28x0t/NSoC3kqC3Fw//uZ+ZrVKijzUU7YfiZu7ZrXnIl9m+UYj7zpTyeOlCIfxBhsQ5mvZXEnXx3+4g/EYZsB386QTCHPDYnClvwLqVZmu9iVlyaIt0/w+/IetEaom5qTBjKw4ovQ1BEzCJmGwwpseqnDNw8crgBNRDwaoPq577gwf0R+8T3CSVwfCGwh2q1DMhoOUQQXLYCpkPIlkagzLFg/o0LEYRey89ADr00zdtemIyOoT4HwnLUKRlKHuv/JJoMYg==;SYjvBFtkm+KbfrXk9F50tg=="
 ---

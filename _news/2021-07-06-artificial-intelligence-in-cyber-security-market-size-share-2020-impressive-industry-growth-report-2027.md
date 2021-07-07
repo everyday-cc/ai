@@ -63,20 +63,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Deep Learning System Market Size, Business Scenario, Share, Growth, Insights, Industry Analysis, Trends and Forecasts Report 2028"
-    excerpt: "The global deep learning system market size is expected to reach USD 93.34 Billion at a steady CAGR of 39.1% in"
-    publishedDateTime: 2021-07-02T10:12:00Z
-    webUrl: "https://www.marketwatch.com/press-release/deep-learning-system-market-size-business-scenario-share-growth-insights-industry-analysis-trends-and-forecasts-report-2028-2021-07-02"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 40
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Global Enterprise Artificial Intelligence (AI) Market Size, Status and Forecast 2021-2027"
     excerpt: "Pages Report] Check for Discount on Global Enterprise Artificial Intelligence (AI) Market Size, Status and Forecast 2021-2027 report by QYResearch Group. Market Analysis and Insights: Global Enterprise Artificial Intelligence (AI)"
     publishedDateTime: 2021-07-03T08:55:00Z
@@ -86,6 +72,20 @@ related:
       name: ReportsnReports
       domain: reportsnreports.com
     quality: 23
+  - title: "Artificial Intelligence in Diagnostics Market Size, Trends, Companies, Driver, Segmentation, Forecast to 2027"
+    excerpt: "Global Artificial Intelligence in Diagnostics Market is valued approximately at USD 288 million in 2019 and is anticipated to grow with a healthy growth rate of more than 32.3% over the forecast period 2020-2027."
+    publishedDateTime: 2021-07-07T02:29:00Z
+    webUrl: "https://www.arnnet.com.au/mediareleases/143678/artificial-intelligence-in-diagnostics-market/"
+    type: article
+    provider:
+      name: ARN
+      domain: arnnet.com.au
+    quality: 20
+    images:
+      - url: "https://www.arnnet.com.au/dimg/300x300/dimg/win20_edu_remotelearning_026.jpg"
+        width: 300
+        height: 225
+        isCached: true
   - title: "Artificial Intelligence (AI) in Drug Discovery Market Share, Trends, Future Scope, Forecast 2027"
     excerpt: "Artificial intelligence (AI) in drug discovery market is expected to gain market growth in the forecast period of 2020 to 2027. Data Bridge Market Research analyses the market to account to USD 3,932."
     publishedDateTime: 2021-07-02T18:20:00Z

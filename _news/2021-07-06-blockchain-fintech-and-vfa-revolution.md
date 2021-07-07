@@ -119,20 +119,6 @@ related:
         width: 800
         height: 400
         isCached: true
-  - title: "Advantage Club forays in Fintech Services"
-    excerpt: "Advantage Club one of the leading Employee Engagement platforms in South East Asia has made its foray into financial services with the launch of an early sala"
-    publishedDateTime: 2021-07-02T09:57:00Z
-    webUrl: "https://www.bignewsnetwork.com/news/270136897/advantage-club-forays-in-fintech-services"
-    type: article
-    provider:
-      name: Big News Network.com
-      domain: bignewsnetwork.com
-    quality: 24
-    images:
-      - url: "https://cdn.bignewsnetwork.com/ani1625219010.jpg"
-        width: 630
-        height: 420
-        isCached: true
   - title: "How are Fintech Companies Changing Credit Scores?"
     excerpt: "Financial advisers and gurus have always emphasized the importance of credit scores ⁠— and most people today have taken this advice to heart, trying to be more proactive in checking their credit scores."
     publishedDateTime: 2021-07-02T14:08:00Z
@@ -211,15 +197,6 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 13
-  - title: "Advantage Club forays in Fintech Services, announces an early salary access feature"
-    excerpt: "Advantage Club, one of the leading Employee Engagement platforms in South East Asia, has made its foray into financial services with the launch of an early salary access feature that will let professionals and employees take a portion of their salaries before their payday to help them if they are caught short."
-    publishedDateTime: 2021-07-02T09:14:00Z
-    webUrl: "https://news.webindia123.com/news/articles/Business/20210702/3780641.html"
-    type: article
-    provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 0
 
 secured: "iiPDYUmDdY8IArvXPXroMo8jj2C5rEl/GFT3kNfhHZiixCezF9wIteMMK6pda50NM2f4veWMLmJRU4dBOgqwOMilwPITUr6MFAp9a3IpaPtfKpdicKY4yR6xUecvytS7sROn901pN6yjWEmXifW+tZqbIt1Njj11xLpQ5kSA6NKD+wb81iRy2sfiiBpLoahMJfYLu7qqE4wQ0ir8zip5beqzHpjgwgsvNR/YYSxuTGHGOPtb7BVV5tuYSxqwNuiWTuYKpLrGjEs0MlqpnAiCb1tSJjpjCSd6mdB0hnw9MS5M7FssGR0jTsWBCbGZqgZSv0tW+v6homPdXEPYCBlLaAldYx1IaoYgIxPUEAXgtN9DUnNrQqHXLI5EszSkJKpMjcRkGUVfyPeyCcLoMUn68b8vz9RpASSQJfmdBGzs1FN+RSRzv6YMm0A5uPhFnOKcLDDIvi4UaKSI/l1J+Qu+PgF9QJKBAoxX9YkjzZUMeHWLq+LLpHAZyoXIy4maJTK9dL4fMmUcJMhR0wCpBeoZ0g==;/tCwYzoVnjAx/W20Ezdsng=="
 ---

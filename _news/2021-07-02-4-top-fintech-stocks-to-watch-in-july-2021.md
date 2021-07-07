@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nasdaq.com/articles/4-top-fintech-stocks-to-watch-in-jul
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/4-top-fintech-stocks-to-watch-in-july-2021-2021-07-02?amp"
 type: article
 quality: 54
-heat: 204
+heat: 184
 published: true
 
 provider:
@@ -118,20 +118,6 @@ related:
         width: 800
         height: 400
         isCached: true
-  - title: "Advantage Club forays in Fintech Services"
-    excerpt: "Advantage Club one of the leading Employee Engagement platforms in South East Asia has made its foray into financial services with the launch of an early sala"
-    publishedDateTime: 2021-07-02T09:57:00Z
-    webUrl: "https://www.bignewsnetwork.com/news/270136897/advantage-club-forays-in-fintech-services"
-    type: article
-    provider:
-      name: Big News Network.com
-      domain: bignewsnetwork.com
-    quality: 24
-    images:
-      - url: "https://cdn.bignewsnetwork.com/ani1625219010.jpg"
-        width: 630
-        height: 420
-        isCached: true
   - title: "How are Fintech Companies Changing Credit Scores?"
     excerpt: "Financial advisers and gurus have always emphasized the importance of credit scores ⁠— and most people today have taken this advice to heart, trying to be more proactive in checking their credit scores."
     publishedDateTime: 2021-07-02T14:08:00Z
@@ -210,15 +196,6 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 13
-  - title: "Advantage Club forays in Fintech Services, announces an early salary access feature"
-    excerpt: "Advantage Club, one of the leading Employee Engagement platforms in South East Asia, has made its foray into financial services with the launch of an early salary access feature that will let professionals and employees take a portion of their salaries before their payday to help them if they are caught short."
-    publishedDateTime: 2021-07-02T09:14:00Z
-    webUrl: "https://news.webindia123.com/news/articles/Business/20210702/3780641.html"
-    type: article
-    provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 0
 
 secured: "e3wa4dpPwx1E2laeH4k0aIe5yw9IIv1PAckmnEPRz+0gvq++Gy5qyk0IWKFW40YBQQMWevxEP1Ir+QDcVDIYZqnjkMCM+Qmqd6XmaEMkD/cj2qV4oyWeIq72dnOu4tNwgG0kezgA3ldVcP1xNxIEI4UPN7uhHNugkvq1Or6YX8Dmu6JnE/bhApLm4i8HDx+exbRjlgaCCuthEo/BhogQAj6G9/N5Wibny97is7n29//R5v+3LxwaB1DZLl97jljDIq17CxpSROIPfItknvb1YtLMAIj82aGo9dnYApAgRhIPZWUji39mLerbkpeNAY4slaHEV0dIRhQrjgSZetelzeAZaB/NnC+xszGv6DMe2JEiF20oVedzIhZ2v4HvG5EmOwZUCe+pe4q56UMM/fKZyxzak9tKDwrtTR30LHvmd3x8uapiYZt/x3G2lzpLNch3aiKJzG4RIggFZUS3F3RVx1CP6gJ6v+YP0FEwVnm2hrnpW3s3k+p/zOSUDp9t5bCwtB6bzDvq67z8MOmcFgk7yg==;O0VzCip7uGW7s3xuOAsctw=="
 ---

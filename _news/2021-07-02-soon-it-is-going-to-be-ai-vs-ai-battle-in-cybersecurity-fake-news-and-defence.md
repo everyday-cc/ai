@@ -9,7 +9,7 @@ ampWebUrl: "https://timesofindia.indiatimes.com/blogs/breaking-shackles/soon-it-
 cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/breaking-shackles/soon-it-is-going-to-be-ai-vs-ai-battle-in-cybersecurity-fake-news-and-defence/"
 type: article
 quality: 55
-heat: 85
+heat: 75
 published: true
 
 provider:
@@ -42,22 +42,6 @@ related:
       - url: "https://timesofsandiego.com/wp-content/uploads/2020/01/Google-Data-Center.jpg"
         width: 640
         height: 360
-        isCached: true
-  - title: "The Cybersecurity 202: Activists and lawmakers increase calls for ban on federal use of facial recognition technology"
-    excerpt: "The 'agencies’ failures to set responsible boundaries on facial recognition use makes it even more critical that Congress step in immediately,' said Sen. Ron Wyden (D-Ore.)."
-    publishedDateTime: 2021-07-02T10:51:00Z
-    webUrl: "https://www.washingtonpost.com/politics/2021/07/02/cybersecurity-202-some-activists-lawmakers-want-ban-federal-government-using-facial-recognition-technology/"
-    ampWebUrl: "https://www.washingtonpost.com/politics/2021/07/02/cybersecurity-202-some-activists-lawmakers-want-ban-federal-government-using-facial-recognition-technology/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/07/02/cybersecurity-202-some-activists-lawmakers-want-ban-federal-government-using-facial-recognition-technology/?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 36
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/MC6Z2KWTIAI6XM47AWRNO5VR6Q.jpg&w=1440"
-        width: 1440
-        height: 960
         isCached: true
   - title: "Cybersecurity for consumer robots"
     excerpt: "Consumer adoption of robotic devices to perform repetitive tasks like lawn cutting, vacuum cleaning, and clothes ironing is becoming an established market. As better-performing and more economically attractive products reach the market,"

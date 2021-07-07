@@ -41,6 +41,15 @@ related:
       name: ARN
       domain: arnnet.com.au
     quality: 17
+  - title: "Military Robots Market Analysis with Key Players, Applications, Trends and Forecasts to 2027"
+    excerpt: "which in result increase the demand for military robots. According to Artificial Intelligence and National Security, in 2008 Russian defense modernization agenda aims at robotizing 30% of its military equipment by 2025. As per Congressional Research ..."
+    publishedDateTime: 2021-07-07T03:39:00Z
+    webUrl: "https://www.reseller.co.nz/mediareleases/143682/military-robots-market-analysis-with-key-players/"
+    type: article
+    provider:
+      name: Reseller News
+      domain: reseller.co.nz
+    quality: 8
   - title: "2021 Deep Learning in Machine Vision Market, Business Growth, Current Trends, Rules, Challenge, and Interaction, Goals, Key Components, Forecast 2027"
     excerpt: "Global Deep Learning in Machine Vision Market 2021 is an all-inclusive, proficient report provides an in-detail analysis of extensive drivers, challenges, restraints, opportunities, present market trends and approach influencing the Deep Learning in Machine Vision industry together with projections and forecast to 2027."
     publishedDateTime: 2021-07-06T17:21:00Z

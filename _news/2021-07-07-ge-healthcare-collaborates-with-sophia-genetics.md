@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Fueling Healthcare Ai With Adaptive Collaboration"
+    excerpt: "Our product-focused team is busy defining and building the platforms and tools required to rapidly integrate models into the clinical setting, to bring the power of AI to the physician’s fingertips. Our ability to execute on these disruptive,"
+    publishedDateTime: 2021-07-07T03:01:00Z
+    webUrl: "https://www.cioapplications.com/cxoinsights/fueling-healthcare-ai-with-adaptive-collaboration-nid-8084.html"
+    type: article
+    provider:
+      name: CIO Applications
+      domain: cioapplications.com
+    quality: 54
+    images:
+      - url: "https://www.cioapplications.com/newstransfer/upload/797zkiLkEKnaidu_ram_100533701.jpg"
+        width: 450
+        height: 308
+        isCached: true
   - title: "GE Healthcare, SOPHiA GENETICS To Collaborate On Advancing Cancer Care"
     excerpt: "GE Healthcare and SOPHiA GENETICS said that they have signed a letter of intent to collaborate on advancing cancer care, with the"
     publishedDateTime: 2021-07-06T14:50:00Z
@@ -34,34 +48,15 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 49
-  - title: "Using Genomic-Based AI Technology to Advance Cancer Care"
-    excerpt: "GE Healthcare and SOPHiA GENETICS are partnering up to develop genomic-based artificial intelligence technology to advance cancer treatment and care."
-    publishedDateTime: 2021-07-06T17:00:00Z
-    webUrl: "https://healthitanalytics.com/news/using-genomic-based-ai-technology-to-advance-cancer-care"
+  - title: "Opinion: Shifting the paradigm toward delivering value with AI in health care"
+    excerpt: "Health care providers everywhere are put under unprecedented pressure by the pandemic to make sense of their work in ways that put patients first, at scale, while working within already challenging and complex work environments."
+    publishedDateTime: 2021-07-05T11:07:00Z
+    webUrl: "https://www.devex.com/news/sponsored/opinion-shifting-the-paradigm-toward-delivering-value-with-ai-in-health-care-100226"
     type: article
     provider:
-      name: Analytics
-      domain: healthitanalytics.com
-    quality: 37
-    images:
-      - url: "https://healthitanalytics.com/images/site/article_headers/_normal/ThinkstockPhotos-495213850.jpg"
-        width: 690
-        height: 400
-        isCached: true
-  - title: "GE Healthcare and SOPHiA GENETICS to collaborate to match treatments to multimodal patient data and cancer type"
-    excerpt: "GE Healthcare and SOPHiA GENETICS today announced that they have signed a letter of intent to collaborate on advancing cancer care, with the goal of better targeting and matching treatments to each patient’s genomic profile and cancer type,"
-    publishedDateTime: 2021-07-06T11:13:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/genetics-coronavirus-pandemic-science-cancer-health-06b416803c69f36d937ef98a0bce67dd"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 19
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
+      name: Devex
+      domain: devex.com
+    quality: 16
 
 secured: "Bas7zJ/WHiAPaP1/qCQcLG7gjVTg96Nw8vDvc7jyA5qDCXiE9d4uACHmQD92RrrO1aZHFT/4yxYd7PMhD1zwsPdYtnFF1zNAVNt7gkGvnXcpFVDpZLGoZPqR9B8ZIcUOOACKMIDQZHRmWJVZ/ChbaYCXT5mh+JrYJuISsK6Pr/GnRc3IvUhhrRnvETJnJyGgL3NA362DT8nZbxkxq94Ycsi05Mpkm/4PRM5lL8N0tKfIQN6k2qnQ2Vy0IXEdqLdjDGnbA48RNGW3M/t2s3tkUzCRFjSklUTZETAjk95TrHqUs3XezsmGyJAsn5M6hPRXRUS54T/bzXQ0rGLv4VCqJMmJFmPuq3gyVVYLGXmJ5kc=;k5DIimkP1XQWUZpxf+ixHw=="
 ---

@@ -129,20 +129,6 @@ related:
         width: 800
         height: 400
         isCached: true
-  - title: "Advantage Club forays in Fintech Services"
-    excerpt: "Advantage Club one of the leading Employee Engagement platforms in South East Asia has made its foray into financial services with the launch of an early sala"
-    publishedDateTime: 2021-07-02T09:57:00Z
-    webUrl: "https://www.bignewsnetwork.com/news/270136897/advantage-club-forays-in-fintech-services"
-    type: article
-    provider:
-      name: Big News Network.com
-      domain: bignewsnetwork.com
-    quality: 24
-    images:
-      - url: "https://cdn.bignewsnetwork.com/ani1625219010.jpg"
-        width: 630
-        height: 420
-        isCached: true
   - title: "How are Fintech Companies Changing Credit Scores?"
     excerpt: "Financial advisers and gurus have always emphasized the importance of credit scores ⁠— and most people today have taken this advice to heart, trying to be more proactive in checking their credit scores."
     publishedDateTime: 2021-07-02T14:08:00Z
@@ -210,15 +196,6 @@ related:
         width: 640
         height: 480
         isCached: true
-  - title: "Advantage Club forays in Fintech Services, announces an early salary access feature"
-    excerpt: "Advantage Club, one of the leading Employee Engagement platforms in South East Asia, has made its foray into financial services with the launch of an early salary access feature that will let professionals and employees take a portion of their salaries before their payday to help them if they are caught short."
-    publishedDateTime: 2021-07-02T09:14:00Z
-    webUrl: "https://news.webindia123.com/news/articles/Business/20210702/3780641.html"
-    type: article
-    provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 0
 
 secured: "KqhXcrmpagq3MS1Gc0/bLIKqEU8S6JYerVuoVx6/8Yfai3nmMqanY2hY4vJKOpjS+xrUW+GnEXSwEpiDRJjsgC0s/ek8SB6R/mWkf0A3Hh3myDkCVsOqDqS4/gusKRpzWKgLZLZvrWCakIIVLOR2ZnMYKzAAgEZ41BYXFq4gDnN3aJUXAevIHJBji5AP7xRgFe1hF40u2kwXqu/GEpfvmWrOUfPcdvzq4Djl+WmvD+j4OSCnlKDDb7vzdX7+R4fEfl78HXPArV7tzQZjlKMaQqq3LSUKGjxZJyMRSjSt/HJuri1fZkAfT5IcoHCVljfNhUahHvSvSEglsDj+lgWm3W5P3pvVOspcPmnhcWIEJgA=;HN7QcjpB2iptYepMJft+mA=="
 ---

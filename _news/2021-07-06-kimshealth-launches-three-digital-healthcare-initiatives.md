@@ -43,22 +43,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "WHO lays down guidelines for AI use in healthcare"
-    excerpt: "WHO calls for collaboration between the public, governments and health experts to make the best and safest use of AI."
-    publishedDateTime: 2021-07-02T10:02:00Z
-    webUrl: "https://www.thehindu.com/sci-tech/technology/who-lays-down-guidelines-for-ai-use-in-healthcare/article35095417.ece"
-    ampWebUrl: "https://www.thehindu.com/sci-tech/technology/who-lays-down-guidelines-for-ai-use-in-healthcare/article35095417.ece/amp/"
-    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/who-lays-down-guidelines-for-ai-use-in-healthcare/article35095417.ece/amp/"
-    type: article
-    provider:
-      name: The Hindu
-      domain: thehindu.com
-    quality: 76
-    images:
-      - url: "https://www.thehindu.com/sci-tech/technology/zer1i9/article35095504.ece/ALTERNATES/LANDSCAPE_615/smart-hospjpg"
-        width: 615
-        height: 384
-        isCached: true
 
 secured: "cDrpgNtoYnt4cdX04iWgu9FcOXa3GLcO8zfPli5odmJ9ciw23oQX1OlhbCo4E2po0kf2FmatfySB8snWFj3HS905EeVPERJkDHlOmhCe+pXQxcN/RgdqQcyFPgs85M02fqLB44AMpF66ajCIpkqRK40gWax7I7qzuPdeVluYgcqtaeLyYUrVm3o8o/9yhnra/xSBCpv2Gph7H6EAd/dWT9re3C5uexkq+qdaF3p49rZYV/iA4GHTJaQnoE0h/jCZcYj3uFWIgVTtXZqokuvjoixICiEo9vKff8f4Vc2zfDluBtr8WBKHCrJYJvEDH19d4EZF6GCUqYVt9M3MmuLdVYPopGeYuZje1YYfWPRS3F4=;ErVB8mivN+ZS5gTXAYkPmg=="
 ---

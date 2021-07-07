@@ -32,6 +32,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Military Robots Market Analysis with Key Players, Applications, Trends and Forecasts to 2027"
+    excerpt: "which in result increase the demand for military robots. According to Artificial Intelligence and National Security, in 2008 Russian defense modernization agenda aims at robotizing 30% of its military equipment by 2025. As per Congressional Research ..."
+    publishedDateTime: 2021-07-07T03:39:00Z
+    webUrl: "https://www.reseller.co.nz/mediareleases/143682/military-robots-market-analysis-with-key-players/"
+    type: article
+    provider:
+      name: Reseller News
+      domain: reseller.co.nz
+    quality: 8
   - title: "Global Artificial Intelligence For Drug Development and Discovery Market Size, Status and Forecast 2021-2027"
     excerpt: "Pages Report] Check for Discount on Global Artificial Intelligence For Drug Development and Discovery Market Size, Status and Forecast 2021-2027 report by QYResearch Group. Market Analysis and Insights: Global Artificial Intelligence For Drug"
     publishedDateTime: 2021-07-03T09:02:00Z
