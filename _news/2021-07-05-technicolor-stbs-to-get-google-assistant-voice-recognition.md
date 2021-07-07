@@ -27,29 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Technicolor brings Google Assistant with far-field voice recognition to STBs"
-    excerpt: "Technicolor Connected Home is integrating Google’s far-field voice technology into its latest generation of set-top boxes."
-    publishedDateTime: 2021-07-02T07:59:00Z
-    webUrl: "https://www.broadbandtvnews.com/2021/07/02/technicolor-brings-google-assistant-with-far-field-voice-recognition-to-stbs/"
-    type: article
-    provider:
-      name: Broadband TV News
-      domain: broadbandtvnews.com
-    quality: 21
-    images:
-      - url: "https://i1.wp.com/www.broadbandtvnews.com/wp-content/uploads/2020/03/Technicolor.jpg?fit=900%2C675&#038;ssl=1"
-        width: 900
-        height: 675
-        isCached: true
-  - title: "Technicolor introduces voice-control STBs with Google Assistant"
-    excerpt: "Technicolor announced that its Connected Home division has released its first set-top boxes (STBs) powered by Google Assistant with far-field voice recognition. This integration will enable end-users to benefit from hands-free voice capabilities,"
-    publishedDateTime: 2021-07-02T09:02:00Z
-    webUrl: "https://www.telecompaper.com/news/technicolor-introduces-voice-control-stbs-with-google-assistant--1388915"
-    type: article
-    provider:
-      name: Telecompaper
-      domain: telecompaper.com
-    quality: 4
   - title: "Technicolor voice technology STB integration"
     excerpt: "Entertainment technologist Technicolor Connected Home is integrating Google’s far-field voice technology into its latest generation of set-top boxes (STBs) wh"
     publishedDateTime: 2021-07-02T10:47:00Z

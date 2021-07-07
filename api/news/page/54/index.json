@@ -2,6 +2,49 @@
   "page": 54,
   "value": [
     {
+      "path": "_news/2021-05-26-covid-19-impact-on-voice-recognition-market-to-witness-expansion-during-2020-2026.md",
+      "title": "Covid-19 Impact on Voice Recognition Market to Witness Expansion During 2020-2026",
+      "excerpt": "Voice Recognition Market is likely to witness an impressive CAGR of 17.5% during the forecast period.The growth of the market is influenced by a number of factors that have a direct or indirect effect on demand.",
+      "sourceUrl": null,
+      "webUrl": "https://ksusentinel.com/2021/05/26/covid-19-impact-on-voice-recognition-market-to-witness-expansion-during-2020-2026/",
+      "originalUrl": "https://ksusentinel.com/2021/05/26/covid-19-impact-on-voice-recognition-market-to-witness-expansion-during-2020-2026/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ksusentinel.com/wp-content/uploads/2021/05/1617605253587-6-390x220.jpg",
+          "width": 390,
+          "height": 220,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-26T07:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Sentinel",
+        "domain": "ksusentinel.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-26-apple-seeks-to-bite-into-self-driving-electric-vehicle-market.md",
       "title": "Apple Seeks To Bite Into Self-Driving Electric Vehicle Market",
       "excerpt": "The scramble for the $5 trillion car market is afoot. Apple﻿﻿ is one of many tech companies planning to revolutionize the staid, 130 year-old industry. Soon, cars will be joining cell phones in morphing into personal computers.",
@@ -1034,59 +1077,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-26-tesla-aspires-to-become-a-robotics-firm-in-artificial-intelligence.md",
-      "title": "Tesla aspires to become a robotics firm in Artificial Intelligence",
-      "excerpt": "Tesla CEO Elon Musk recently announced that the company is no longer just a manufacturer of electric cars, but that they are currently dabbling in artificial intelligence with the development of one of the strongest hardware and software AI teams in the world.",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/article/372898",
-      "originalUrl": "https://www.entrepreneur.com/article/372898",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/1621967000-tesla.jpg?width=600&crop=16:9",
-          "width": 600,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.entrepreneur.com/amphtml/372898",
-      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/372898",
-      "publishedDateTime": "2021-05-25T23:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Autos"
       ]
     }
   ],

@@ -44,6 +44,15 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 22
+  - title: "Outlook on the Customer Communications Management Global Market to 2027 - Featuring Adobe, Oracle and Capgemini Among Others"
+    excerpt: "The \"Global Customer Communications Management Market By Component, By Organization Size, By Deployment Mode, By End User, By Regional Outlook, Industry Analysis Report and Forecast, 2021 - 2027\" report has been added to ResearchAndMarkets."
+    publishedDateTime: 2021-07-06T16:05:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-outlook-the-customer-communications-management-global-market-2027-/2021/07/06/9403613.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
 secured: "A3puqGkzE1a1JzDidHB5PqspphKOK1tHFBIZOLGzArDgmc6ngR+/f8bOo3sO8jgaHw2yRf0ganad12a+asbtGgGoHL3iUtVhYDmufqNVqMupTl7ywGDPHF6t2Hy+gx4LWB7AXos0/QI8nz4X+Lhp17PxgbUJAyX1s1dkcta7blD6Wa6soqPhBuiAWgf+V8kkkrWnS6iunz9Sv5U7DwTa8bHS8Ldgy+ogmggw/PVeeroX8cypCqj4WwRFcgF0Q6C03ZaohlVV/T+SiTrRns5c8IGz9MuO/JDpAkVVjjgt6XVRoCzbxq9QXzUey9gcmAh1G4j6jAilMAfutDIMvtJXAjX+2SCO3GhWCDwdgL2hUQI=;VtdwDPgqWXxeylXFZbLAYg=="
 ---

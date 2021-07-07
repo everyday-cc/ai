@@ -1,36 +1,46 @@
 ---
 category: news
-title: "Tencent’s new facial recognition program prevents gaming after dark in China"
-excerpt: "Tencent has announced a facial recognition system in China that will stop children from playing video games after hours."
-publishedDateTime: 2021-07-06T16:07:00Z
-originalUrl: "https://www.digitaltrends.com/gaming/tencent-facial-recognition-china/"
-webUrl: "https://www.digitaltrends.com/gaming/tencent-facial-recognition-china/"
-ampWebUrl: "https://www.digitaltrends.com/gaming/tencent-facial-recognition-china/?amp"
-cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/gaming/tencent-facial-recognition-china/?amp"
+title: "Tencent Deploys Facial Recognition to Detect Minors Gaming at Night"
+excerpt: "China’s gaming giant Tencent Games has launched one of the most-talked about — and controversial — means to curb excessive play time among children and teenagers so far: a time-sensitive facial recognition system. Starting Tuesday, the gaming ..."
+publishedDateTime: 2021-07-06T11:42:00Z
+originalUrl: "https://www.sixthtone.com/news/1007915/tencent-deploys-facial-recognition-to-detect-minors-gaming-at-night-"
+webUrl: "https://www.sixthtone.com/news/1007915/tencent-deploys-facial-recognition-to-detect-minors-gaming-at-night-"
 type: article
-quality: 86
-heat: 156
-published: true
+quality: 39
+heat: -1
+published: false
 
 provider:
-  name: Digital Trends
-  domain: digitaltrends.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Sixth Tone
+  domain: sixthtone.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://icdn.digitaltrends.com/image/digitaltrends/_117589161_gettyimages-1228918581.jpg"
-    width: 976
-    height: 549
+  - url: "http://image5.sixthtone.com/image/5/41/132.jpg"
+    width: 2000
+    height: 1000
     isCached: true
 
 related:
+  - title: "Tencent’s new facial recognition program prevents gaming after dark in China"
+    excerpt: "Tencent has announced a facial recognition system in China that will stop children from playing video games after hours."
+    publishedDateTime: 2021-07-06T16:07:00Z
+    webUrl: "https://www.digitaltrends.com/gaming/tencent-facial-recognition-china/"
+    ampWebUrl: "https://www.digitaltrends.com/gaming/tencent-facial-recognition-china/?amp"
+    cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/gaming/tencent-facial-recognition-china/?amp"
+    type: article
+    provider:
+      name: Digital Trends
+      domain: digitaltrends.com
+    quality: 86
+    images:
+      - url: "https://icdn.digitaltrends.com/image/digitaltrends/_117589161_gettyimages-1228918581.jpg"
+        width: 976
+        height: 549
+        isCached: true
   - title: "China's Tencent Says It'll Use Face Recognition to Keep Minors From Gaming at Night"
     excerpt: "This is such desperate news for us high school graduates who are two months away from being 18,” one WeChat user reportedly wrote."
     publishedDateTime: 2021-07-06T18:05:00Z
@@ -91,20 +101,6 @@ related:
         width: 3998
         height: 2667
         isCached: true
-  - title: "Tencent Deploys Facial Recognition to Detect Minors Gaming at Night"
-    excerpt: "China’s gaming giant Tencent Games has launched one of the most-talked about — and controversial — means to curb excessive play time among children and teenagers so far: a time-sensitive facial recognition system. Starting Tuesday, the gaming ..."
-    publishedDateTime: 2021-07-06T11:42:00Z
-    webUrl: "https://www.sixthtone.com/news/1007915/tencent-deploys-facial-recognition-to-detect-minors-gaming-at-night-"
-    type: article
-    provider:
-      name: Sixth Tone
-      domain: sixthtone.com
-    quality: 39
-    images:
-      - url: "http://image5.sixthtone.com/image/5/41/132.jpg"
-        width: 2000
-        height: 1000
-        isCached: true
   - title: "Tencent Launches Facial Recognition To Curb Late Night Gaming In Minors"
     excerpt: "Chinese gaming giant Tencent has introduced facial recognition tech intended to stop children playing games past 10pm in China."
     publishedDateTime: 2021-07-06T14:20:00Z
@@ -134,6 +130,6 @@ related:
         height: 722
         isCached: true
 
-secured: "41TCaMo04O8MLANPIghIAd6mlO5Z8JqXolf+hZ9rL+t0F0Je5eogV3S5UwcbPOq05/xTSDZVnZ2Z3FRgnd72Hwi5Qj0hOXzs8EpJODVddnee14xqT5RO+EPFRsnv0LYg9pOA4IazD8CM4d8KVmt7itVcMOhGxjupO0Y8AOmGc6CPqWZKUS1CNh+xegRDTBc6Z5wTJR4cxKxnLo87kXr/cVtTa2JWt3gVYvPvKk/AH2JAue6a0eHcViHHeZYUxEXq5XHS+WIOETe/Sp+H+Z6nvOv1WWN+fwjVSEH+YS39Joi6BFsRw9mg/urGBnEqDbRaKtV0Og61NWN+NGrl7sQXZer8mbwXHaWIcS5RNFfMHlc=;RNZdjyaWKohaRc22rCkn7Q=="
+secured: "uAtApK8fIZsuABADmZd3mzFDyWfyAgaRctfUL9FAOqkek41wT1vDW8x/CPIJdYvw2jNV4/Ev328S3Qzcg35NmYg+rWsC/Qiiau0uWAvGG7bjiEkSu1L7aS81xk4Ia4kK7ZreKb75tfOBwn8X0eSkMzyzBEURmqYb21ou7237VLwUbYQXHFojIpR84NIDle+FOr2cTwrrf0H94KjTJCumVjHYal2/McXHzTI6kXT8sL1oxYFBW/HlQQJuUvvXEQexniklCie8Zz89knQ8wvm/FeLvSHTrKCb7mHeVjQ8Esx3h9oJNO7qdLetOZ9bFbPjAxs7OG6F+MasYs5yGpJQuDD0KzM/WHKprNDRPVBANrt8=;S0SfN3ms51wOTwXVbf10GQ=="
 ---
 

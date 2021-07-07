@@ -2,6 +2,41 @@
   "page": 15,
   "value": [
     {
+      "path": "_news/2021-06-23-investing-in-ai-healthcare-analysts-offer-2-stocks-to-buy.md",
+      "title": "Investing in AI Healthcare; Analysts Offer 2 Stocks to Buy",
+      "excerpt": "It’s estimated that AI as a whole will boost the global economy by more than $15 trillion by the year 2030, and a significant piece of that will emerge in the healthcare sector. By 2026, the midpoint of that forecast,",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/investing-in-ai-healthcare-analysts-offer-2-stocks-to-buy-2021-06-23",
+      "originalUrl": "https://www.nasdaq.com/articles/investing-in-ai-healthcare-analysts-offer-2-stocks-to-buy-2021-06-23",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 116,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/investing-in-ai-healthcare-analysts-offer-2-stocks-to-buy-2021-06-23?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/investing-in-ai-healthcare-analysts-offer-2-stocks-to-buy-2021-06-23?amp",
+      "publishedDateTime": "2021-06-23T06:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2021-06-23-nxtsoft-and-upstart-partner-to-streamline-delivery-of-ai-based-lending-platform-to-banks-and-credit-unions.md",
       "title": "NXTsoft and Upstart Partner to Streamline Delivery of AI-Based Lending Platform to Banks and Credit Unions",
       "excerpt": "NXTsoft (nxtsoft.com), the market leader in secure, comprehensive and complete API connectivity, and Upstart (NASDAQ: UPST), a leading AI lending platform provider, today announced a partnership that will enable Upstart to more efficiently implement its all-digital AI lending platform to any U.",
@@ -1120,49 +1155,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-23-healthcare-providers-remain-surprisingly-lax-on-data-protection.md",
-      "title": "Healthcare Providers Remain Surprisingly Lax On Data Protection",
-      "excerpt": "Experts say that the medical industry is resistant to spending money, despite the increased prevalence and sophistication of hackers.",
-      "sourceUrl": null,
-      "webUrl": "https://www.pymnts.com/news/security-and-risk/2021/healthcare-providers-remain-surprisingly-lax-on-data-protection/",
-      "originalUrl": "https://www.pymnts.com/news/security-and-risk/2021/healthcare-providers-remain-surprisingly-lax-on-data-protection/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://securecdn.pymnts.com/wp-content/uploads/2021/06/healthcare-data-privacy-457x274.jpg",
-          "width": 457,
-          "height": 274,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.pymnts.com/news/security-and-risk/2021/healthcare-providers-remain-surprisingly-lax-on-data-protection/amp/",
-      "cdnAmpWebUrl": "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/security-and-risk/2021/healthcare-providers-remain-surprisingly-lax-on-data-protection/amp/",
-      "publishedDateTime": "2021-06-22T11:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "pymnts.com",
-        "domain": "pymnts.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }

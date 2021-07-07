@@ -43,6 +43,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "AI in Education Market Research Report with Size, Share, Value, CAGR, Outlook, Analysis, Latest Updates, Data, and News 2021-2028"
+    excerpt: "Except for the medical supplies and life support products industries, most industries have been greatly impacted, and AI in Education industries have also been greatly affected. 3.4 Microsoft AI in Education Business Introduction 3.5 AWS AI in Education ..."
+    publishedDateTime: 2021-07-06T20:36:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-in-education-market-research-report-with-size-share-value-cagr-outlook-analysis-latest-updates-data-and-news-2021-2028-2021-07-06"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 55
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence In Healthcare Market Opportunities, Size, Share, Emerging Trends, Technological Innovation, And Forecast 2027"
     excerpt: "The report titled \"Global Artificial Intelligence in Healthcare Market: Demand Analysis & Opportunity Outlook 2027\" delivers detailed overview of the global artificial intelligence in healthcare market in terms of market segmentation by offering,"
     publishedDateTime: 2021-07-02T13:25:00Z
@@ -103,15 +117,6 @@ related:
       name: ReportsnReports
       domain: reportsnreports.com
     quality: 17
-  - title: "Global Artificial Intelligence In Diagnostic Market Size, Status and Forecast 2021-2027"
-    excerpt: "Pages Report] Check for Discount on Global Artificial Intelligence In Diagnostic Market Size, Status and Forecast 2021-2027 report by QYResearch Group. Market Analysis and Insights: Global Artificial Intelligence In Diagnostic"
-    publishedDateTime: 2021-07-02T08:17:00Z
-    webUrl: "https://www.reportsnreports.com/reports/4631324-global-artificial-intelligence-in-diagnostic-market-size-status-and-forecast-2021-2027.html"
-    type: article
-    provider:
-      name: ReportsnReports
-      domain: reportsnreports.com
-    quality: 9
   - title: "Global Artificial Intelligence in Drug Discovery Market Size, Status and Forecast 2021-2027"
     excerpt: "Pages Report] Check for Discount on Global Artificial Intelligence in Drug Discovery Market Size, Status and Forecast 2021-2027 report by QYResearch Group. Market Analysis and Insights: Global Artificial Intelligence in Drug"
     publishedDateTime: 2021-07-03T08:57:00Z

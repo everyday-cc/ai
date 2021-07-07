@@ -21,7 +21,7 @@ related:
   - title: "NVIDIA Launches UK's Most Powerful Supercomputer, for Research in AI and Healthcare"
     excerpt: "NVIDIA today officially launched Cambridge-1, the United Kingdom’s most powerful supercomputer, which will enable top scientists and healthcare experts to use the powerful combination of AI and simulation to accelerate the digital biology revolution and bolster the country’s world-leading life sciences industry."
     publishedDateTime: 2021-07-06T23:09:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-nvidia-launches-uks-most-powerful-supercomputer-research-ai-/2021/07/06/9403810.htm"
+    webUrl: "https://www.tmcnet.com/usubmit/2021/07/06/9403810.htm"
     type: article
     provider:
       name: TMCnet

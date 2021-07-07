@@ -2,6 +2,49 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-05-19-google-ai-advancements-next-gen-ai-chips-and-lamda-to-make-ai-conversations-better.md",
+      "title": "Google AI advancements: next gen AI chips and LaMDA to make AI conversations better",
+      "excerpt": "Google has announced two major advancements in the field of AI-v4 TPUs and the LaMBDA model for more natural AI conversations.",
+      "sourceUrl": null,
+      "webUrl": "https://thetechportal.com/2021/05/19/google-ai-advancements-next-gen-ai-chips-and-lamda-to-make-ai-conversations-better/",
+      "originalUrl": "https://thetechportal.com/2021/05/19/google-ai-advancements-next-gen-ai-chips-and-lamda-to-make-ai-conversations-better/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thetechportal.com/wp-content/uploads/2021/05/Screenshot-201-e1621363561223.png",
+          "width": 687,
+          "height": 385,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thetechportal.com/2021/05/19/google-ai-advancements-next-gen-ai-chips-and-lamda-to-make-ai-conversations-better/?amp",
+      "cdnAmpWebUrl": "https://thetechportal-com.cdn.ampproject.org/c/s/thetechportal.com/2021/05/19/google-ai-advancements-next-gen-ai-chips-and-lamda-to-make-ai-conversations-better/?amp",
+      "publishedDateTime": "2021-05-18T11:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "thetechportal.com",
+        "domain": "thetechportal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-18-the-10-hottest-ai-chipmakers-you-should-be-watching-in-2021.md",
       "title": "The 10 Hottest AI Chipmakers You Should Be Watching In 2021",
       "excerpt": "CRN looks at the 10 hottest AI chipmakers to watch in 2021, which includes Intel, Nvidia and several startups in the AI hardware space.",
@@ -1407,49 +1450,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-04-how-the-ai-chips-market-will-be-valued-at-129-billion-by-2025.md",
-      "title": "How the AI Chips Market will be Valued at $129 billion by 2025",
-      "excerpt": "The AI chips market that is leveraging the data centres run by cloud providers is going to be estimated to grow to $129 billion in 2025. Here’s how industries will benefit from it.",
-      "sourceUrl": null,
-      "webUrl": "https://www.analyticsinsight.net/how-the-ai-chips-market-will-be-valued-at-129-billion-by-2025/",
-      "originalUrl": "https://www.analyticsinsight.net/how-the-ai-chips-market-will-be-valued-at-129-billion-by-2025/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/05/AI-chips.jpg",
-          "width": 900,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.analyticsinsight.net/how-the-ai-chips-market-will-be-valued-at-129-billion-by-2025/?amp",
-      "cdnAmpWebUrl": "https://www-analyticsinsight-net.cdn.ampproject.org/c/s/www.analyticsinsight.net/how-the-ai-chips-market-will-be-valued-at-129-billion-by-2025/?amp",
-      "publishedDateTime": "2021-05-03T12:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Analytics Insight",
-        "domain": "analyticsinsight.net",
-        "images": null,
         "publishers": null,
         "authors": null
       },

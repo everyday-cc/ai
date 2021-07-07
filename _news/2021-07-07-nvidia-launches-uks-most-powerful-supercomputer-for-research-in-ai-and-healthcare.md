@@ -3,8 +3,8 @@ category: news
 title: "NVIDIA Launches UK's Most Powerful Supercomputer, for Research in AI and Healthcare"
 excerpt: "NVIDIA today officially launched Cambridge-1, the United Kingdom’s most powerful supercomputer, which will enable top scientists and healthcare experts to use the powerful combination of AI and simulation to accelerate the digital biology revolution and bolster the country’s world-leading life sciences industry."
 publishedDateTime: 2021-07-06T23:09:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-nvidia-launches-uks-most-powerful-supercomputer-research-ai-/2021/07/06/9403810.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-nvidia-launches-uks-most-powerful-supercomputer-research-ai-/2021/07/06/9403810.htm"
+originalUrl: "https://www.tmcnet.com/usubmit/2021/07/06/9403810.htm"
+webUrl: "https://www.tmcnet.com/usubmit/2021/07/06/9403810.htm"
 type: article
 quality: 28
 heat: 28
@@ -29,6 +29,6 @@ related:
       domain: tmcnet.com
     quality: 8
 
-secured: "9ExI/pSyi3Z4ZrJokyCZulG9ylzk6APMLJAOstnlaITbJ6u5hK0gulScLxKf918co8FLsSrLPlb+IundMCSmM9xy3drLVrKQES+1z3WJHWpLcBVKOvHuq8fpgToJEyodwD2XQIsxdOPC2CEbVtxJb/H1KObyNUA5467Zwe/R1bK4720jeIu9rhvTegOrG6NngLrXE5FDQVjXEFzt+OvxjgDhJF/y/IE/LN+VD/TfxvkQpoz+Jkf73ShFpC2HLUGkZKuyko86hxe+mHLTitEu9vlIFalftdz6LMSKRqnFxDvYtrRTG3ZxRz5xd/AxyGTsk4kEOfrwhdyS8f7oe+/rb20zC9BSGfTTcUcjwUm1oEk=;YJvKObkPerSn9ERfPZj54A=="
+secured: "KvUj1m5XJqgFhtFmnJAU/6tX7OMbMxENYCx5iANWHLKx65JWwpx9iZJKckaNuhQrq3XQodZ13NcBpRA65BOjTNNvh2Pll/Iyj94sdFmNDa6fUYbyYj6NG/KSM1rFwKFvJpNUJ8eU51NenObrdI8jNKxWscEZ8CqoTzWdA/r8e9zHuXHmIaIB/laJ8w9e28kmNMhMAkV+x9SL1DBkJNkMTtCm24o4X8i1L76Sh3qKQzggvmlV0GSEZLF/wSV/KGHpImMPPC/+sAwczoXgxOVe+xWo9ARZAVzU1fOdxiwUAeoHRgDmnz9VNvacAxcej1LRF1K4QZzcXgEL866Nrjv1Ismc1YqWYrzO1L4JKDDYsQQ=;FNr4l7Y58ZQs19+bU2RoRA=="
 ---
 

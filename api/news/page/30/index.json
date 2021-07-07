@@ -2,6 +2,58 @@
   "page": 30,
   "value": [
     {
+      "path": "_news/2021-06-13-heres-how-ai-can-determine-the-taste-of-coffee-beans.md",
+      "title": "Here’s How AI Can Determine The Taste Of Coffee Beans",
+      "excerpt": "This Colombian startup is using artificial intelligence to taste coffee and gives producers, farmers and roasters new insight into how to grow, harvest and optimize flavor.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/jenniferhicks/2021/06/12/heres-how-ai-can-determine-the-taste-of-coffee-beans/",
+      "originalUrl": "https://www.forbes.com/sites/jenniferhicks/2021/06/12/heres-how-ai-can-determine-the-taste-of-coffee-beans/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60c3e7e24db754e75e88acec%2F0x0.jpg",
+          "width": 1199,
+          "height": 808,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/jenniferhicks/2021/06/12/heres-how-ai-can-determine-the-taste-of-coffee-beans/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jenniferhicks/2021/06/12/heres-how-ai-can-determine-the-taste-of-coffee-beans/amp/",
+      "publishedDateTime": "2021-06-12T10:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2021-06-12-how-stakeholder-capitalism-and-ai-ethics-go-hand-in-hand.md",
       "title": "How stakeholder capitalism and AI ethics go hand in hand",
       "excerpt": "With the prevalence of AI technologies across businesses, AI ethics will soon become critical components of stakeholder capitalism.",
@@ -1173,49 +1225,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-11-ai-in-computer-vision-market-worth-513-billion-by-2026-exclusive-report-by-marketsandmarkets.md",
-      "title": "AI in Computer Vision Market worth $51.3 billion by 2026 - Exclusive Report by MarketsandMarkets™",
-      "excerpt": "According to the new market research report \"AI in Computer Vision Market With Covid-19 Impact by Component, Machine Learning Models, Function, Application (Industrial, Non-Industrial),",
-      "sourceUrl": null,
-      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/ai-in-computer-vision-market-worth-51-3-billion-by-2026---exclusive-report/article_3185609b-6df4-567d-87c5-2ffd628994ef.html",
-      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/ai-in-computer-vision-market-worth-51-3-billion-by-2026---exclusive-report/article_3185609b-6df4-567d-87c5-2ffd628994ef.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/a/63/a63dc5dc-7992-5fd0-8794-8539b71dd644/60abab2ba5c22.image.jpg?resize=669%2C229",
-          "width": 669,
-          "height": 229,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-11T06:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WFMZ-TV",
-        "domain": "wfmz.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

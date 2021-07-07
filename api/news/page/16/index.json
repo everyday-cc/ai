@@ -2,6 +2,49 @@
   "page": 16,
   "value": [
     {
+      "path": "_news/2021-06-23-healthcare-providers-remain-surprisingly-lax-on-data-protection.md",
+      "title": "Healthcare Providers Remain Surprisingly Lax On Data Protection",
+      "excerpt": "Experts say that the medical industry is resistant to spending money, despite the increased prevalence and sophistication of hackers.",
+      "sourceUrl": null,
+      "webUrl": "https://www.pymnts.com/news/security-and-risk/2021/healthcare-providers-remain-surprisingly-lax-on-data-protection/",
+      "originalUrl": "https://www.pymnts.com/news/security-and-risk/2021/healthcare-providers-remain-surprisingly-lax-on-data-protection/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://securecdn.pymnts.com/wp-content/uploads/2021/06/healthcare-data-privacy-457x274.jpg",
+          "width": 457,
+          "height": 274,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.pymnts.com/news/security-and-risk/2021/healthcare-providers-remain-surprisingly-lax-on-data-protection/amp/",
+      "cdnAmpWebUrl": "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/security-and-risk/2021/healthcare-providers-remain-surprisingly-lax-on-data-protection/amp/",
+      "publishedDateTime": "2021-06-22T11:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "pymnts.com",
+        "domain": "pymnts.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-23-in-the-workplace-of-the-future-how-important-will-ethics-be.md",
       "title": "In The Workplace Of The Future, How Important Will Ethics Be?",
       "excerpt": "In the workplace of the future, ethics will be even more important than it is now. That’s the overwhelming majority vote in a poll I ran on LinkedIn. I’ll present a sample of the four kinds of responses I received and then provide my own analysis,",
@@ -1120,58 +1163,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-22-report-amazon-orders-self-driving-tech-for-1000-trucks.md",
-      "title": "Report: Amazon Orders Self-Driving Tech for 1,000 Trucks",
-      "excerpt": "As Bloomberg reports, Amazon has ordered 1,000 autonomous driving systems from the company Plus, which upgrades trucks to drive themselves. Amazon is clearly confident Plus' technology works as it has also acquired the right to purchase preferred shares in the company which amounts to a 20% stake.",
-      "sourceUrl": null,
-      "webUrl": "https://www.pcmag.com/news/report-amazon-orders-self-driving-tech-for-1000-trucks",
-      "originalUrl": "https://www.pcmag.com/news/report-amazon-orders-self-driving-tech-for-1000-trucks",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.pcmag.com/imagery/articles/02UIOQFAdvtwaBZrBPDJ3IQ-1.1624364549.fit_lim.size_1200x630.jpg",
-          "width": 1120,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.pcmag.com/news/report-amazon-orders-self-driving-tech-for-1000-trucks?amp=true",
-      "cdnAmpWebUrl": "https://www-pcmag-com.cdn.ampproject.org/c/s/www.pcmag.com/news/report-amazon-orders-self-driving-tech-for-1000-trucks?amp=true",
-      "publishedDateTime": "2021-06-22T05:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC Magazine",
-        "domain": "pcmag.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

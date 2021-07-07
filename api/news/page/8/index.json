@@ -2,6 +2,58 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2021-06-29-microsoft-launches-azure-arc-enabled-sql-in-general-availability.md",
+      "title": "Microsoft launches Azure Arc-enabled SQL in general availability",
+      "excerpt": "Microsoft today announced Azure Arc-enabled SQL, which extends Azure services to edge datacenter or multicloud instances.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/06/29/microsoft-launches-azure-arc-enabled-sql-in-general-availability/",
+      "originalUrl": "https://venturebeat.com/2021/06/29/microsoft-launches-azure-arc-enabled-sql-in-general-availability/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 249,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/12/microsoft-azure.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/06/29/microsoft-launches-azure-arc-enabled-sql-in-general-availability/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/29/microsoft-launches-azure-arc-enabled-sql-in-general-availability/amp/",
+      "publishedDateTime": "2021-06-29T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-29-leading-ai-body-data-company-bold-metrics-expands-partnership-with-mens-wearhouse-jos-a-bank.md",
       "title": "Leading AI Body Data Company Bold Metrics Expands Partnership With Men's Wearhouse & Jos. A. Bank",
       "excerpt": "Powered by a proprietary AI platform, Contactless Fit® by Bold Metrics has digitized the fitting process for customers at Men's Wearhouse stores—creating a fast and easy way for shoppers to find the right size,",
@@ -688,8 +740,8 @@
       "title": "Microsoft brings AI to GitHub to create a smart programing Copilot tool",
       "excerpt": "Microsoft is making available a technical preview of a new Visual Studio Code extension that is designed to help programmers write code smarter and faster using AI technology from OpenAI.",
       "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/index.php/category/2381/index.php/article/microsoft-brings-ai-to-github-to-create-a-smart-programing-copilot-tool/",
-      "originalUrl": "https://www.zdnet.com/index.php/category/2381/index.php/article/microsoft-brings-ai-to-github-to-create-a-smart-programing-copilot-tool/",
+      "webUrl": "https://www.zdnet.com/index.php/category/18502/index.php/article/microsoft-brings-ai-to-github-to-create-a-smart-programing-copilot-tool/",
+      "originalUrl": "https://www.zdnet.com/index.php/category/18502/index.php/article/microsoft-brings-ai-to-github-to-create-a-smart-programing-copilot-tool/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -706,8 +758,8 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/index.php/category/2381/index.php/google-amp/article/microsoft-brings-ai-to-github-to-create-a-smart-programing-copilot-tool/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2381/index.php/google-amp/article/microsoft-brings-ai-to-github-to-create-a-smart-programing-copilot-tool/",
+      "ampWebUrl": "https://www.zdnet.com/index.php/category/18502/index.php/google-amp/article/microsoft-brings-ai-to-github-to-create-a-smart-programing-copilot-tool/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/18502/index.php/google-amp/article/microsoft-brings-ai-to-github-to-create-a-smart-programing-copilot-tool/",
       "publishedDateTime": "2021-06-29T04:19:00-07:00",
       "updatedDateTime": null,
       "provider": {
@@ -1149,57 +1201,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-29-government-ufo-task-force-will-use-ai-to-study-bizarre-alien-aircraft.md",
-      "title": "Government UFO task force will use AI to study bizarre ‘alien’ aircraft",
-      "excerpt": "Last week, the Office of the Director of National Intelligence (DNI) released a nine-page preliminary unclassified report on unidentified aerial phenomenon (UAP), the government’s term for",
-      "sourceUrl": null,
-      "webUrl": "https://www.slashgear.com/government-ufo-task-force-will-use-ai-to-study-bizarre-alien-aircraft-28680265/",
-      "originalUrl": "https://www.slashgear.com/government-ufo-task-force-will-use-ai-to-study-bizarre-alien-aircraft-28680265/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.slashgear.com/wp-content/uploads/2021/06/navy_UFO_video_main.jpg",
-          "width": 1440,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.slashgear.com/government-ufo-task-force-will-use-ai-to-study-bizarre-alien-aircraft-28680265/amp/",
-      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/government-ufo-task-force-will-use-ai-to-study-bizarre-alien-aircraft-28680265/amp/",
-      "publishedDateTime": "2021-06-28T18:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SlashGear",
-        "domain": "slashgear.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/slashgear.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }
