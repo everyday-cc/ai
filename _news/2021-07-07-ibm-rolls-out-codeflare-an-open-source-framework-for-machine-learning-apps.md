@@ -57,7 +57,7 @@ related:
     provider:
       name: InfoWorld
       domain: infoworld.com
-    quality: 87
+    quality: 89
     images:
       - url: "https://images.idgesg.net/images/article/2021/06/artificial_intelligence_automation_digital_brain_thinkstock_875595818-100749926-orig-100893865-large.jpg"
         width: 1200

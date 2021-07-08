@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-medical-diagnostics-market-outlook-industry-analysis-and-prospect-2021-2027-2021-07-05"
 type: article
 quality: 65
-heat: 115
+heat: 105
 published: true
 
 provider:
@@ -68,15 +68,6 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 37
-  - title: "Global Enterprise Artificial Intelligence (AI) Market Size, Status and Forecast 2021-2027"
-    excerpt: "Pages Report] Check for Discount on Global Enterprise Artificial Intelligence (AI) Market Size, Status and Forecast 2021-2027 report by QYResearch Group. Market Analysis and Insights: Global Enterprise Artificial Intelligence (AI)"
-    publishedDateTime: 2021-07-03T08:55:00Z
-    webUrl: "https://www.reportsnreports.com/reports/4635123-global-enterprise-artificial-intelligence-ai-market-size-status-and-forecast-2021-2027.html"
-    type: article
-    provider:
-      name: ReportsnReports
-      domain: reportsnreports.com
-    quality: 23
   - title: "Artificial Intelligence in Diagnostics Market Size, Trends, Companies, Driver, Segmentation, Forecast to 2027"
     excerpt: "Global Artificial Intelligence in Diagnostics Market is valued approximately at USD 288 million in 2019 and is anticipated to grow with a healthy growth rate of more than 32.3% over the forecast period 2020-2027."
     publishedDateTime: 2021-07-07T02:29:00Z

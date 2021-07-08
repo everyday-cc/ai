@@ -37,6 +37,20 @@ related:
         width: 300
         height: 233
         isCached: true
+  - title: "Machine-learning improves the prediction of stroke recovery"
+    excerpt: "An international team of scientists led by EPFL has developed a system that combines information from the brain's connectome - the ''wiring'' between neurons - and machine learning to assess and predict the outcome of stroke victims."
+    publishedDateTime: 2021-07-07T04:00:00Z
+    webUrl: "https://www.eurekalert.org/pub_releases/2021-07/epfd-mit070621.php"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 24
+    images:
+      - url: "https://www.eurekalert.org/multimedia/pub/web/269909_web.jpg"
+        width: 1440
+        height: 672
+        isCached: true
 
 secured: "GiQmh9GnOAxm6w9rGd3ee2dPj0+AslbnOpK650BWJocZHM2dJDIet8228Dr8HfC0NyyZJxoRwbqANsq1lfQmWSCaj+aRKAVE0iYCnXJD7AXHhKPpeWPDhZybCo7iTJ+vJJiVN+WFO4LJuYWe2O0GUxUBBBpysj5KBp8j2163drxyuLk2CBxv7qesHsBNMDisIqDcgAlLMXTHsJ6TWjxp1ikxt7QJdPQKX4o2ZZjB/E3cuYvW/SyH5FGjIGN8Rr6fCrSnLcM8HTmpz11iOfOoAgmYJTgk6uKnT0eY67cdMhasMR7TaBb1QqgCItlPCoqALJzfa+052QY8uFfpHWXiO3gNFqV73gYypaVRFQwjJTM=;1/MtOPjG2Fo69RLwz7HiFw=="
 ---

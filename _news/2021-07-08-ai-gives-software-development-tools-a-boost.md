@@ -8,7 +8,7 @@ webUrl: "https://www.infoworld.com/article/3623773/ai-gives-software-development
 ampWebUrl: "https://www.infoworld.com/article/3623773/ai-gives-software-development-tools-a-boost.amp.html"
 cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3623773/ai-gives-software-development-tools-a-boost.amp.html"
 type: article
-quality: 87
+quality: 89
 heat: -1
 published: false
 
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - Microsoft AI
 
 images:
   - url: "https://images.idgesg.net/images/article/2021/06/artificial_intelligence_automation_digital_brain_thinkstock_875595818-100749926-orig-100893865-large.jpg"

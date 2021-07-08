@@ -9,7 +9,7 @@ ampWebUrl: "https://www.geeksforgeeks.org/ipl-score-prediction-using-deep-learni
 cdnAmpWebUrl: "https://www-geeksforgeeks-org.cdn.ampproject.org/c/s/www.geeksforgeeks.org/ipl-score-prediction-using-deep-learning/amp/"
 type: article
 quality: 61
-heat: 71
+heat: 81
 published: true
 
 provider:
@@ -39,6 +39,20 @@ related:
       name: Phys.org
       domain: phys.org
     quality: 31
+  - title: "Machine-learning improves the prediction of stroke recovery"
+    excerpt: "An international team of scientists led by EPFL has developed a system that combines information from the brain's connectome - the ''wiring'' between neurons - and machine learning to assess and predict the outcome of stroke victims."
+    publishedDateTime: 2021-07-07T04:00:00Z
+    webUrl: "https://www.eurekalert.org/pub_releases/2021-07/epfd-mit070621.php"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 24
+    images:
+      - url: "https://www.eurekalert.org/multimedia/pub/web/269909_web.jpg"
+        width: 1440
+        height: 672
+        isCached: true
 
 secured: "HebE3+xqb8HRpd5fnF6bmm/VRz0Zm0H4rXnWjNEd58jIvGhZKTNg7KBtFZyzlZqsagnKS89TgccAqh8J/uowlv9rJ+Ch+LFD7nKAkgrf1RX2Fyy6zSj5Sg+Z/vdP5itdGh4GgdXCjvDUCx+qupDSKJhfgqhxuVNbjT7DYWv3Iq48TAiRxxsdaMyTAZetz56TMAV3zMAdDEIHoV5VRJ+NW1fDj5E5IP4NJHJSBrQHUv/6Tq4UFcO3pZIsbujrqn14hcXD/9ef83c0LWb1qkFo1zB+Z9zsu9dMzy++TzheKKmKvh909lSp6F/0Dg5z9UYJEfXPOaUrmZgR1zxHYfzPTdFpju/oQvDZTGigGXpkrBc=;scjhmmzijkkFxgVGQu2vKg=="
 ---

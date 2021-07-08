@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-size-share-value-and-competitive-landscape-2021-2026-2021-07-06"
 type: article
 quality: 69
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -52,15 +52,6 @@ related:
       name: ReportsnReports
       domain: reportsnreports.com
     quality: 24
-  - title: "Global Artificial Intelligence in Drug Discovery Market Size, Status and Forecast 2021-2027"
-    excerpt: "Pages Report] Check for Discount on Global Artificial Intelligence in Drug Discovery Market Size, Status and Forecast 2021-2027 report by QYResearch Group. Market Analysis and Insights: Global Artificial Intelligence in Drug"
-    publishedDateTime: 2021-07-03T08:57:00Z
-    webUrl: "https://www.reportsnreports.com/reports/4635116-global-artificial-intelligence-in-drug-discovery-market-size-status-and-forecast-2021-2027.html"
-    type: article
-    provider:
-      name: ReportsnReports
-      domain: reportsnreports.com
-    quality: 7
 
 secured: "q0szZubhdl7pfyb1Ey3vuUlFOZD5zIvMQIslJAyqoHqRIgNVBFOZvJJ0zPm6qPEpmx2UMfVjcF7nRliC4B8LKDfOdl+0o6tDecFOr1oOYMlUvjPiH0faT1EEShMczL9Ts0V8xXI5/AmkCSH9PaIIiFr8B1KnNt+7yZNYH0C4uJuCQt0P9LCgxnK7GOakcu/Z5Lra2LEFmj6i6jkquALmWaHupv9RRnpMsdva00mzcrInYKfLSW3PN6I+4nxbXX13MvPRb+OUpCvdGhIp2zHdOaAWIT0BMpftjU6XiUorhlDHz/NFvj7hrECKdqAwsxfdWaw9weNcNJI7/wpj/3k7BhqxSwxubca+idQGXbmuzHk=;Icbz13OzfH86/j5arKIylw=="
 ---
