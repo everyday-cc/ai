@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesfinancecouncil/2021/07/07/how-fin
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesfinancecouncil/2021/07/07/how-finance-leaders-can-build-an-ai-culture/amp/"
 type: article
 quality: 106
-heat: 118
+heat: 128
 published: true
 
 provider:
@@ -45,6 +45,20 @@ related:
       - url: "https://www.cioapplications.com/newstransfer/upload/pvl09450308.jpg"
         width: 450
         height: 308
+        isCached: true
+  - title: "Eightfold AI Announces Cultivate 2021, a Virtual Conference for HR and AI Leaders"
+    excerpt: "Eightfold AI, the provider of the Talent Intelligence Platform™, today launched Cultivate 2021, an annual industry event on August 10-11, 2021, bringing together thought leaders, innovators and HR champions united in a mission to bring career opportunities for everyone in the world."
+    publishedDateTime: 2021-07-08T12:24:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/technology-9ed5b44e8a308981c7217b2582040af2"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 32
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
 
 secured: "v4xd1DmebWYTvLtf7z76HMZokCuEZ8CWmpTHZmoMIPnS3+m84ve+JJ6v/Oye06TGUV34s51XLXFaxKhuXTqFZ2AGorQ3aY6jBYL0f/WpVhgy4V5K120WPicEtw9hG6E126EukH7HJHcWbFjGKLpfEmoQY/IsIzbxLrsPQG1z0l0x9aNfY1SK4G94HtcD/tnjHYkoxfFhnnjNv+1hSeza9+JR4IQ3LoXljK7Oox5Y7yf4rmx7U/y33GWkpyQxgYbyQu3Mt6Sz5yvixAYvj/+mjuBjn5nFnqXjwVzmWjXzyYGS1kSa9pHyT/8Tt9kBTL9jZiZauN3+ECUoUoI2Hj5gXrKeWm/70aRNZTctoxOBFsQ=;Krz78u5Oo6xdTyvRzKpxTQ=="

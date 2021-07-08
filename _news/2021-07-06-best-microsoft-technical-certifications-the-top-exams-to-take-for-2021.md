@@ -64,6 +64,20 @@ related:
         width: 480
         height: 264
         isCached: true
+  - title: "Microsoft Launches Free Machine Learning Course For Beginners"
+    excerpt: "Microsoft has launched a free MIT-approved learning course titled “Machine Learning For Beginners” to teach students the basics of machine learning. The course duration is 12 weeks. Azure Cloud advocates and Microsoft student ambassador authors,"
+    publishedDateTime: 2021-07-08T12:30:00Z
+    webUrl: "https://analyticsindiamag.com/microsoft-launches-free-machine-learning-course-for-beginners/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 56
+    images:
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/07/maxresdefault.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Pentagon Shelves JEDI Cloud Contract Won By Microsoft And Appealed By AWS"
     excerpt: "The U.S. Department of Defense is shelving the controversial JEDI cloud computing contract won by Microsoft and appealed by AWS"
     publishedDateTime: 2021-07-06T17:57:00Z

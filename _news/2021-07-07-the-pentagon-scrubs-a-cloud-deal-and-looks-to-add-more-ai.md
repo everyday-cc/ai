@@ -8,8 +8,8 @@ webUrl: "https://www.wired.com/story/pentagon-scrubs-cloud-deal-looks-add-ai/"
 ampWebUrl: "https://www.wired.com/story/pentagon-scrubs-cloud-deal-looks-add-ai/amp"
 cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/pentagon-scrubs-cloud-deal-looks-add-ai/amp"
 type: article
-quality: 87
-heat: 87
+quality: 187
+heat: 187
 published: true
 
 provider:
@@ -29,6 +29,6 @@ images:
     height: 1600
     isCached: true
 
-secured: "YDZj7ASWRIaoJNT7LaeUaSGJxQkRz5/byprBW3INgLR4Vz1BWIEax1n6JNqg58M9CqP8iwHPEtleXyVPc5LtnZUqFwiUMnutl3lSC8Nx/KrJzlbXX+xkjGxaw4Ioh63z1PMhisv5KNbyPEI1MYZ7JP171H2WskYGXZbSmdwgGQm+86JlqEkh5SqhUvDgUpY0jm9l0KgjQCfI8Xnt3z7scTR+BR8620lLCSFvj87lsjyhNgmZzM0OmO7BaUzhTedEXzhvxvG3VqmWzKYV3/LCr9KRPefpG36Q9UehYib/hW8uuGfT5l9bjnvsd0r7v4Z69LELzm2UfGewaHTDITQRG4LjL38Dsmx58dpyiNPj153RGReJLrO+XivdQgkhGHK06RsYTJM9BprRZ2BzlG2ARisUc/e8EPMNbgOX6GXm2Mh7CzVeSAVky4UE30RQb7Opcbu6dpPSCCq61G1yWdt2PGDZvu0a50pt+azsXyQJpmrPChIH6s60MG21GPn2fhEh8lak0LdkU6+EHbiR1T6z8A==;9JmcNUsXAfA/0hb5/CInRQ=="
+secured: "2oTRubsecYzpidabBK2q2tfQ3gBmqlxs8zH9XUr8il1fpEAopfh/WxIvsQOLT8ulVNuzqnPYcJzA+aS0coNO9fkv3JODgFpJIV/Dat+f+L+Wgkd0g504zV90WKz7CKB0aGf2y68m+Iz1pyXpx80Coa4S518XLzlAMzpmcEfAN87wHER1jt+B6z+l44DorYQXZLgFm9NxXEdSmf4todbi13iBIr8vyPNlFkmpiuHJBeWCcGZPiLP3r2RnH2do2QVtQLDNPKfFffBiQn6rrWe/3Lg3rLIPYBjqPTJiiAXgc+QAwCvotTZ923KVeLBibtZk+oAAJGPdT7dWXngtNtSzFOXzWMn+lFlDoj5ZtyLZYONR6CdFpgcD7Q1Inowhosv8HhWielBB+OM2/5w1n/4BjR+J/nUxCqa7NlWpAZ1h7rqNwYW8vSm6Q/UqFYxE5c5AMR3clAuPnpCNZZsagFx9LuurBv2keBkEd9vetpIxE60blNHRnnD+14cPNhczm4lnWupMxrJZoBTSeFpOQDhWzuqPCm6fFcfnoUvTALn5ZGU=;Iqe703g6pUa2J8XZbtMgZA=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/07/05/microsofts-project-alexandria-par
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/05/microsofts-project-alexandria-parses-documents-using-unsupervised-learning/amp/"
 type: article
 quality: 89
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -30,6 +30,22 @@ images:
     width: 1200
     height: 600
     isCached: true
+
+related:
+  - title: "Microsoft Is Developing an AI Upscaling Engine to Improve Xbox Visuals"
+    excerpt: "Microsoft wants to implement its own machine learning solutions for Xbox, possibly in competition with AMD's FSR or Nvidia's DLSS."
+    publishedDateTime: 2021-07-08T13:31:00Z
+    webUrl: "https://www.extremetech.com/gaming/324429-microsoft-mulls-ai-upscaling-method-to-improve-xbox-visuals"
+    type: article
+    provider:
+      name: ExtremeTech
+      domain: extremetech.com
+    quality: 56
+    images:
+      - url: "https://www.extremetech.com/wp-content/uploads/2020/10/Xbox-Die-Feature.jpg"
+        width: 1186
+        height: 655
+        isCached: true
 
 secured: "HAZqantFokpW3hphgWzHS41UEAwCg+SzbGnSDilP8fUIITaqq5zYmhZ3e4sBDzFaNYg00x72jFI6iGeimkrMjIQwaQEkbBKteC5YEKwNJ3HX4o3kr+KZF23LETFKUC/r1hshFZ6FtqeiAQWc+KpX9KQq72uiuTV76EmVnHVTNR+3TmHZ+SMQ+Afgo3eygniUF6+7QWPiu7pkt6SshJHEvfuvLnc4LC8+70FAMF6HAl1SJu1o7T2rytMCYQsqC5l2wbDRxwVvntQBp6thXzaJ4TsW9hh6HFFeYo9JExX+fvTEYhxzK8KTnh3vOzLBI1WfJoliDhAZr6cq870awGPsqHzyyNhDvsPAtuxx2ramCjc=;5njW4uJLSNMb0ygWzBhvYQ=="
 ---

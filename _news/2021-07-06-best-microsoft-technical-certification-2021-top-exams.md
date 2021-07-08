@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/best-microsoft-technical-ce
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/best-microsoft-technical-certification/"
 type: article
 quality: 91
-heat: 181
+heat: 191
 published: true
 
 provider:
@@ -63,6 +63,20 @@ related:
       - url: "https://cdn.mos.cms.futurecdn.net/vhVPX5AW4yufmehSr6vQW4-480-80.jpg"
         width: 480
         height: 264
+        isCached: true
+  - title: "Microsoft Launches Free Machine Learning Course For Beginners"
+    excerpt: "Microsoft has launched a free MIT-approved learning course titled “Machine Learning For Beginners” to teach students the basics of machine learning. The course duration is 12 weeks. Azure Cloud advocates and Microsoft student ambassador authors,"
+    publishedDateTime: 2021-07-08T12:30:00Z
+    webUrl: "https://analyticsindiamag.com/microsoft-launches-free-machine-learning-course-for-beginners/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 56
+    images:
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/07/maxresdefault.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Pentagon Shelves JEDI Cloud Contract Won By Microsoft And Appealed By AWS"
     excerpt: "The U.S. Department of Defense is shelving the controversial JEDI cloud computing contract won by Microsoft and appealed by AWS"

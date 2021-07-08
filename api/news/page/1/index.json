@@ -2,6 +2,109 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-07-08-ai-ethics-expert-half-of-companies-using-ai-overestimate-their-level-of-maturity.md",
+      "title": "AI ethics expert: 'Half of companies using AI overestimate their level of maturity'",
+      "excerpt": "Tonya Hall talks to Steven Mills, Chief AI Ethics Officer at Boston Consulting Group, about AI maturity, how to achieve it, and what sectors are doing it better.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/video/ai-ethics-expert-half-of-companies-using-ai-overestimate-their-level-of-maturity/",
+      "originalUrl": "https://www.zdnet.com/video/ai-ethics-expert-half-of-companies-using-ai-overestimate-their-level-of-maturity/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/hub/i/r/2021/07/08/004ab5df-34cd-4e32-b44c-d5bc873bd6d6/thumbnail/770x578/3430a058ca1561df98e83ca32c85a50d/thumb.jpg",
+          "width": 770,
+          "height": 578,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-08T06:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-08-intellimize-raises-30m-to-optimize-websites-with-ai.md",
+      "title": "Intellimize raises $30M to optimize websites with AI",
+      "excerpt": "Intellimize, a startup leveraging AI to personalize websites for unique visitors, has raised $30 million in a venture capital round.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/07/08/intellimize-raises-30m-to-optimize-websites-with-ai/",
+      "originalUrl": "https://venturebeat.com/2021/07/08/intellimize-raises-30m-to-optimize-websites-with-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/02/big_data.jpg?fit=800%2C450&strip=all",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/07/08/intellimize-raises-30m-to-optimize-websites-with-ai/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/08/intellimize-raises-30m-to-optimize-websites-with-ai/amp/",
+      "publishedDateTime": "2021-07-08T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-08-three-reasons-to-leverage-ai-and-ml-to-improve-the-employee-experience.md",
       "title": "Three Reasons To Leverage AI And ML To Improve The Employee Experience",
       "excerpt": "Here’s why I think the time is now to start leveraging AI to drive an employee experience that connects, empowers and unleashes the potential of your team: When you apply AI and ML exclusively to productivity, you miss an important piece of the puzzle.",
@@ -499,7 +602,7 @@
       "originalUrl": "https://news.mit.edu/2021/infrared-cameras-artificial-intelligence-provide-insight-into-boiling-0707",
       "featuredContent": null,
       "highlight": null,
-      "heat": 78,
+      "heat": 88,
       "tags": null,
       "images": [
         {
@@ -1046,6 +1149,48 @@
       ]
     },
     {
+      "path": "_news/2021-07-07-fastest-supercomputer-in-the-uk-is-ready-to-go-heres-what-its-going-do.md",
+      "title": "Fastest supercomputer in the UK is ready to go: Here's what it's going do",
+      "excerpt": "Cambridge-1, the UK's fastest supercomputer, is officially up and running – but forget about super-accurate weather predictions or investigating the downfall of dinosaurs: this one is exclusively dedicated to advancing healthcare and boosting the life sciences industry.",
+      "sourceUrl": null,
+      "webUrl": "https://nvidianews.nvidia.com/news/nvidia-building-uks-most-powerful-supercomputer-dedicated-to-ai-research-in-healthcare",
+      "originalUrl": "https://www.msn.com/en-us/news/technology/fastest-supercomputer-in-the-uk-is-ready-to-go-here-s-what-it-s-going-do/ar-AALS4Cn",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 121,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s3.amazonaws.com/cms.ipressroom.com/219/files/20209/5f7939432cfac24d3cd393b6_Cambridge-1+Supercomputer+2/Cambridge-1+Supercomputer+2_mid.jpg",
+          "width": 700,
+          "height": 394,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-07T07:26:03-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "nvidia.com/news/nvidia-building-uks-most-powerful-supercomputer-dedicated-to-ai-research-in-healthcare",
+        "domain": "nvidia.com/news/nvidia-building-uks-most-powerful-supercomputer-dedicated-to-ai-research-in-healthcare",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-07-database-optimization-startup-silk-raises-55m.md",
       "title": "Database optimization startup Silk raises $55M",
       "excerpt": "Elevate your enterprise data technology and strategy. Where does your enterprise stand on the AI adoption curve? Take our AI survey to find out. Silk, a platform designed to improve database ...",
@@ -1093,134 +1238,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-07-machine-learning-tool-sorts-the-nuances-of-quantum-data.md",
-      "title": "Machine learning tool sorts the nuances of quantum data",
-      "excerpt": "An interdisciplinary team of Cornell and Harvard University researchers developed a machine learning tool to parse quantum matter and make crucial distinctions in the data, an approach that will help scientists unravel the most confounding phenomena in the subatomic realm.",
-      "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2021-07-machine-tool-nuances-quantum.html",
-      "originalUrl": "https://techxplore.com/news/2021-07-machine-tool-nuances-quantum.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2019/quantum.jpg",
-          "width": 1920,
-          "height": 1415,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2021-07-machine-tool-nuances-quantum.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-07-machine-tool-nuances-quantum.amp",
-      "publishedDateTime": "2021-07-07T06:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techxplore.com",
-        "domain": "techxplore.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-07-ibm-research-unveils-framework-for-scaling-ai-workflows-across-the-hybrid-cloud.md",
-      "title": "IBM Research unveils framework for scaling AI workflows across the hybrid cloud",
-      "excerpt": "IBM Research on Wednesday unveiled CodeFlare, a new framework for integrating and scaling big data and AIworkflows in a hybrid cloud environment. The open-source framework aims to help developers cut back the time they spend creating pipelines to train and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/index.php/article/ibm-research-unveils-framework-for-scaling-ai-workflows-across-the-hybrid-cloud/",
-      "originalUrl": "https://www.zdnet.com/index.php/article/ibm-research-unveils-framework-for-scaling-ai-workflows-across-the-hybrid-cloud/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/hub/i/2021/07/06/e0231b53-f024-4629-9f53-164c15ba1c57/codeflare-overview.png",
-          "width": 1791,
-          "height": 941,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/index.php/google-amp/article/ibm-research-unveils-framework-for-scaling-ai-workflows-across-the-hybrid-cloud/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/google-amp/article/ibm-research-unveils-framework-for-scaling-ai-workflows-across-the-hybrid-cloud/",
-      "publishedDateTime": "2021-07-07T05:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-07-special-report-chinas-gene-giant-harvests-data-from-millions-of-women.md",
-      "title": "SPECIAL REPORT-China's gene giant harvests data from millions of women",
-      "excerpt": "A Chinese gene company selling prenatal tests around the world developed them in collaboration with the country's military and is using them to collect genetic data from millions of women for sweeping research on the traits of populations,",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/special-report-chinas-gene-giant-harvests-data-from-millions-of-women-2021-07-07",
-      "originalUrl": "https://www.nasdaq.com/articles/special-report-chinas-gene-giant-harvests-data-from-millions-of-women-2021-07-07",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/special-report-chinas-gene-giant-harvests-data-from-millions-of-women-2021-07-07?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/special-report-chinas-gene-giant-harvests-data-from-millions-of-women-2021-07-07?amp",
-      "publishedDateTime": "2021-07-07T05:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }

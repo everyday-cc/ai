@@ -67,6 +67,20 @@ related:
         width: 480
         height: 264
         isCached: true
+  - title: "Microsoft Launches Free Machine Learning Course For Beginners"
+    excerpt: "Microsoft has launched a free MIT-approved learning course titled “Machine Learning For Beginners” to teach students the basics of machine learning. The course duration is 12 weeks. Azure Cloud advocates and Microsoft student ambassador authors,"
+    publishedDateTime: 2021-07-08T12:30:00Z
+    webUrl: "https://analyticsindiamag.com/microsoft-launches-free-machine-learning-course-for-beginners/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 56
+    images:
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/07/maxresdefault.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Pentagon Shelves JEDI Cloud Contract Won By Microsoft And Appealed By AWS"
     excerpt: "The U.S. Department of Defense is shelving the controversial JEDI cloud computing contract won by Microsoft and appealed by AWS"
     publishedDateTime: 2021-07-06T17:57:00Z
@@ -127,6 +141,6 @@ related:
       domain: manometcurrent.com
     quality: 28
 
-secured: "mEO/CfAfpeliuHa3ZBg0Qnqnk554h048J7y6El+mEz4OSKA79g9sraB3O7ckUvM75iuCJ+h+aDBI8oU4BPAgzPUmYR5p3C1o6WvISU84F8KEPRjWeaIRjl0Civ8N6b+a1PPuW6odA9Gta6RqqKdU+lguMjn9iZR2TuZ+WhqYPzU3nWCAx8QtG3NbB+M88l8iRxWlf6SChE2puV3AYO9eHyQNCsimHpSVZk+uEaAg8y4bMZF7Zbzl01ds1IcNgjpXYxMNoyBeAOV9+o0AJj61Id6AsKhGnaNp4Y0Ubk/osujp96NdJcZQlPG6tSe0IxXJzXxK6899Q+N8vsxytRy9iPfi4f65oe66YxfAFs+9rNY=;wWW8gpnU4WBqhO62FN++WQ=="
+secured: "mI3sURvvvnR/TY9b9bPYl5So3xyzwNup+aOFIMpVo+IUlnvo1eAde33MG6CFIV98pzdc4cOpxBqV5dhdW05zMcxJLesCta+b1nIonOQSfLg8lIRAvrblsTTWOGtzHZQitElOkqxvpJeR6kcqXNvjegr9aw94KEy+Zhiva4TkMKmzkZjzZkb0fuvXNcQn2GAKQM8YT/uu0TLMSYuWoFs7PKzAL8D4IwuMQ6283CFsZdTgHS+sln+YF/qTUAlZwR+JIQN8ggcfZYxSggcT6yse5JXh+S4jEmgafeqEn0Xz3smUDGrtlP7ictVg4c/JsQx6sH+GRTXvWA44ATIbrvuTpgqnyqkMDe65Si1gGXXhArs=;pc915OIsv0c8z3qFkEDzjQ=="
 ---
 

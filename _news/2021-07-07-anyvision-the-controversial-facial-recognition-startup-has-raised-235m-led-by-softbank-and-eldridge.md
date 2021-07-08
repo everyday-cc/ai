@@ -8,8 +8,8 @@ webUrl: "https://techcrunch.com/2021/07/07/anyvision-the-controversial-facial-re
 ampWebUrl: "https://techcrunch.com/2021/07/07/anyvision-the-controversial-facial-recognition-startup-has-raised-235m-led-by-softbank-and-eldridge/amp/"
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/07/07/anyvision-the-controversial-facial-recognition-startup-has-raised-235m-led-by-softbank-and-eldridge/amp/"
 type: article
-quality: 88
-heat: 158
+quality: 188
+heat: 258
 published: true
 
 provider:
@@ -133,6 +133,6 @@ related:
       domain: morningstar.com
     quality: 7
 
-secured: "JfMEKKukTlDMMWb5PhkaIhbkjNMIKjBV7nQQgP0LymYdGaBmY1tpuhpwIc1mTzsdVcSWavDJoepVCOKE/cKbLnnj0hKrRnHTNEpqQXisiV0U0FwUvvYTKtUrOh22vSSp4Q71WHCr90SLtVTP0nDeQzEDB3IjI29bAxxlgPsh6W48O8gKijYNvWxwRgrHcvd3GosTg58/KT7GaoGHXWkeGDDj2xsRyZUT6GnAbSxbQp9Owg+aWjyK6R61a48JqqMl9AgQo8frIYSeMlz60vLKDKUnOh/P/xedaytXG530x0+ffZlrakQecSX1xQxB43FecJ2TYZPAkg+bVRWZZXBVxGawpnfY8fYvTwQQ7FDN38g=;nRm+2Pls8QhhvhgiWIoMhA=="
+secured: "0SnO58DlndLhUA135hY5OhGoAKoUHkrnQw2DBC7OSZH69OfAJimgv1hGmZ9ZxqRwmgaRusq4HSsl+VDjO1Q+HMLUYKwTJ/apROaUa/q2er8rRv0EBPW6K847g/RQywtPZtopgkbTa2+Cpa6iP2KXFPHcAfL5IEni9XVG44QkBpzJ5HoAKf0MXpENd2NTUIWIGx2xiaoE4OHrK41DUYG1oXQBimDA1/qXhqom7c6QuLnF9140rXR5u4DXyxQKGZoJtmemkG5qEEwPyCPm1j/8LeR9MAnQ1b+wwdZ79tTaG1kd5enDJcWD5aFctL1gzNi/thZm7Yw3PY0x1cE332bYkt1mruERKLHTZHtCWW+BgO47Ie0JvDNehyU8wLEaxeKg;NqL4sYdOdExcuYn5s5YfbA=="
 ---
 

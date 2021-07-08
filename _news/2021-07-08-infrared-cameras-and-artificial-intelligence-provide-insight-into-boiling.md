@@ -7,7 +7,7 @@ originalUrl: "https://news.mit.edu/2021/infrared-cameras-artificial-intelligence
 webUrl: "https://news.mit.edu/2021/infrared-cameras-artificial-intelligence-provide-insight-into-boiling-0707"
 type: article
 quality: 68
-heat: 78
+heat: 88
 published: true
 
 provider:
@@ -29,6 +29,22 @@ images:
     isCached: true
 
 related:
+  - title: "Infrared cameras and artificial intelligence uncover the physics of boiling"
+    excerpt: "Boiling is not just for heating up dinner. It's also for cooling things down. Turning liquid into gas removes energy from hot surfaces, and keeps everything from nuclear power plants to powerful computer chips from overheating."
+    publishedDateTime: 2021-07-08T12:19:00Z
+    webUrl: "https://phys.org/news/2021-07-infrared-cameras-artificial-intelligence-uncover.html"
+    ampWebUrl: "https://phys.org/news/2021-07-infrared-cameras-artificial-intelligence-uncover.amp"
+    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-07-infrared-cameras-artificial-intelligence-uncover.amp"
+    type: article
+    provider:
+      name: Phys.org
+      domain: phys.org
+    quality: 55
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/2021/infrared-cameras-and-a.jpg"
+        width: 900
+        height: 600
+        isCached: true
   - title: "This AI project stalks politicians fixated on their phones, names and shames them on Twitter and Instagram too"
     excerpt: "It looks like the days of politicians goofing around on their phones are over, especially as they can be named and shamed on Twitter and Instagram by this AI project started by artist Dries Depoorter."
     publishedDateTime: 2021-07-07T09:00:00Z

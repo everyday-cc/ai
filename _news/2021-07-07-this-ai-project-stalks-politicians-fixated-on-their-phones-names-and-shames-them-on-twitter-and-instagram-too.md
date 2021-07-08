@@ -40,6 +40,22 @@ related:
         width: 3750
         height: 2500
         isCached: true
+  - title: "Infrared cameras and artificial intelligence uncover the physics of boiling"
+    excerpt: "Boiling is not just for heating up dinner. It's also for cooling things down. Turning liquid into gas removes energy from hot surfaces, and keeps everything from nuclear power plants to powerful computer chips from overheating."
+    publishedDateTime: 2021-07-08T12:19:00Z
+    webUrl: "https://phys.org/news/2021-07-infrared-cameras-artificial-intelligence-uncover.html"
+    ampWebUrl: "https://phys.org/news/2021-07-infrared-cameras-artificial-intelligence-uncover.amp"
+    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-07-infrared-cameras-artificial-intelligence-uncover.amp"
+    type: article
+    provider:
+      name: Phys.org
+      domain: phys.org
+    quality: 55
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/2021/infrared-cameras-and-a.jpg"
+        width: 900
+        height: 600
+        isCached: true
 
 secured: "izMz4YbOVzX5P5nkH+YVkyvMj9StJWgEUJSPI3cZ64KsYNPYzfMfbH6UgS3twijdU7VVx4WSGCZ5LJonVwzirERsYYjkLN/F1onAUvzdeg859DqdRQ4ZTG1t/Z2cj0A3gQlkLsQEbsEdu1LFOcMFj/Gvxbwfzvq9miHHv9TlIFjKju3N+DG4ReLnEoj6b5XqK1TgbNmKEQggKbep8/ANPmRl0XQzPl3i/SojoqxuPO79Xh6x0YIjGDg5VLgh6MsScs9I3CJ1Xq6xXSVKH/TNsAUddvk6rTvpTmN0LsaMgjQsSjtHKnLAPFImhDcqCOVk12keOfR6kYEk2aQpnMH+OKtAUvtV8M06lBUkkJbkWBE=;PxHB6nur4U7C8wVpDVHtFw=="
 ---

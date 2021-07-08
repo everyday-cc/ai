@@ -71,6 +71,22 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "To Catch Teenage Gamers After Curfew, Chinese Company Deploys Facial Recognition"
+    excerpt: "Tencent Games says it has been using facial recognition to enforce China’s rules on how much time people under 18 can spend playing video games."
+    publishedDateTime: 2021-07-08T12:15:00Z
+    webUrl: "https://www.nytimes.com/2021/07/08/business/video-game-facial-recognition-tencent.html"
+    ampWebUrl: "https://www.nytimes.com/2021/07/08/business/video-game-facial-recognition-tencent.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/07/08/business/video-game-facial-recognition-tencent.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 84
+    images:
+      - url: "https://static01.nyt.com/images/2021/07/08/world/08china-videogame/08china-videogame-facebookJumbo.jpg"
+        width: 1050
+        height: 549
+        isCached: true
   - title: "Tencent Will Use Facial Recognition in China to Prevent Late Night Gaming Sessions"
     excerpt: "Playing games late into the night in China is set to get even more difficult for minors with news that Tencent, the world's largest video game vendor, is introducing facial recognition. As Gizmodo reports,"
     publishedDateTime: 2021-07-07T14:48:00Z
@@ -328,6 +344,6 @@ related:
         height: 488
         isCached: true
 
-secured: "WIEDG7cjp40e5MGLAmxcHC4BdfshyoDiox16qyEDXPxCaLOKZ5KoiPH+rVxAPwpb1nKunUi5c4fkeTqOCWoIJw8NeSqLP1SBn7zQMec5f28Dma4JMlCEW8BwBHt75EP8BvNQ02C7fWly3/eEzMMWm+OCh8JEJJgUmfJC76e2qhExfJwOIr2aO6Wf5D0Ccx+jaC8yj9tDAlu7YtqjqfT2T/lunzK/ZoLJF95YQg9vCsWRWU/mG90y/KQoZwNOSalg/RjptHrMAQCoYv5eL5ncOz9+TFYCgSCFtAXZqOmvgm8L4rbbNKrtqWkPL9bSaqwmRQzI9F7OF5Pk8B8dEC1j1gtFSS9s9oQBTO6LOUI+btI=;eikojI4PJwbBH1B8Bmp97g=="
+secured: "lnt02AHcJk4wWu1sl8EKWxTT13T6yUBN8/r4SG8rpxHVjUSXGfmjANeDueSSMayfYj8Mnr0pFJ9M0Ylc6u4B5WpZmpijKciDUW93srCKV64+Q2SDWeLsV3FOD9MlzPFyIrurtvi8LNGhQKNXbSibGAux2njbqrGvJdZM1pXS5ZuHnviJDRl/G/XXAXBvxx2g3p3PW/X3LihPri3YgMTCP+OeL2429fCBzsSKPDsStVnv+0G3N9OnzOdk5J0X7NMWaFGM75J6mBVAyGotq7l4UbI5NMmJ/LBB5xABWDaLuggBQy4A1FpV476NuP5z4gUaqTn3YQJNygIZdIBgHBP81PJQ0XVbB3S37SHzl405/Xv59SjZkrb7UFSrm0Tzcy3atMj0neyow/rBEd4bMkC/ZnuXAUX1az0jlAntPb1YSBsy/vLn+mm33UuCEi7BkQtUiWZJYntxdYCisQuhiAc9NPm/Lo/VAB+TGQO+0FbDZdvZ8PtkansWxR1bU1MfFNd3N9MVdpnnoZ24caVnd424sg==;R8IwH5efpAY3dOqj9IX50w=="
 ---
 

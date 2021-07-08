@@ -1,20 +1,26 @@
 ---
 category: news
 title: "Global Artificial Intelligence in Healthcare: Deals and Agreements by Leading Players From 2010-2021 - ResearchAndMarkets.com"
-excerpt: "Partnering Terms and Agreements 2010 to 2021\" report has been added to ResearchAndMarkets.com's offering. The Global Artificial Intelligence (AI) Partnering Terms and Agreements 2010 to 2021 report provides an understanding and access to the artificial intelligence partnering deals and agreements entered into by the world's leading healthcare companies."
-publishedDateTime: 2021-06-28T11:53:00Z
-originalUrl: "https://www.morningstar.com/news/business-wire/20210628005698/global-artificial-intelligence-in-healthcare-deals-and-agreements-by-leading-players-from-2010-2021-researchandmarketscom"
-webUrl: "https://www.morningstar.com/news/business-wire/20210628005698/global-artificial-intelligence-in-healthcare-deals-and-agreements-by-leading-players-from-2010-2021-researchandmarketscom"
+excerpt: "Partnering Terms and Agreements 2010 to 2021” report has been added to ResearchAndMarkets.com’s offering. The Global Artificial Intelligence (AI) Partnering Terms and Agreements 2010 to 2021 report provides an understanding and access to the artificial intelligence partnering deals and agreements entered into by the world’s leading healthcare companies."
+publishedDateTime: 2021-06-28T16:53:00Z
+originalUrl: "https://apnews.com/press-release/business-wire/artificial-intelligence-business-technology-c8cf1d7a3c1e49999f2dbe3d728e684e"
+webUrl: "https://apnews.com/press-release/business-wire/artificial-intelligence-business-technology-c8cf1d7a3c1e49999f2dbe3d728e684e"
 type: article
 
 provider:
-  name: Morningstar, Inc.
-  domain: morningstar.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI in Healthcare
   - AI
 
-secured: "BJBUY8a/69DxMxf5p4+J5hwRc3E+4s5Rds00y/siua25rXJHU2dzEEMLLzWQo8a3l0meNahoZUeZrcsXTiX9uff+T/WZ/iJ54c7Egon8GTWyZkDTNEuniMdlFHrDsegA+QkOTE0D5au9GvnVotuxPCgKJH2qYmK/gDJQqYbcIHxgL6BEq0x5xaLHwrVBKzAJMOemdYIKaYJT8i0bvYBiC77K/2ANGX1EG6+yurUQJeX0M1Z9TqK+koKRMU9qXElsV2k/l8vlDy1YUFoWaWncKNSmhfMlFOZPr2iJmw7gBO8pdS3VCqxq+Eb/fmxiqmDsDKkFSFNNHL4WcGQq6vtOCYP4Vg21Do+SetaCZ9tk7LI=;gOjhme1jZmGh1zDoiI2nlg=="
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
+
+secured: "RNKj9egA/jLgpIFUF7MNjGrPxKQiBAw5v2h1ws9ggSVy4goKuRxkuk+aUCH+7Ll9xtCVtHU+8BACHkTp4Pt72CMfo5iF5WQJkcKmxBwDRSuMwIBVH2F2IaH9LJHWtvIi8W/TbnAt9ii/3sKLIFuWp3GRHBj+g1AjQABydj9jIOuHD9HsX2/gl7oJOOlUKg7WP7IZ0SMJLlbnXZtZsCpxBTBRxUc24DtarRaTwUYtxAfDk0CGTAlR8B4YTGvimbuMffQCPtDVMw2sUr/96dQNLAn9Y0h6IdpQP6iMZcKh5WAQmuwxrJ7RioDyPxmfuiFHtMngPIJfykgzkr9NTNgmxW5yI36kHJ8/ANO4KIgkUHs=;kg0Klj4K0vluhbY24cQpMQ=="
 ---
 

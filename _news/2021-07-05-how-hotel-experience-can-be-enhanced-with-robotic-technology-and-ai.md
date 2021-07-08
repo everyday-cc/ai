@@ -40,6 +40,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Eightfold AI Announces Cultivate 2021, a Virtual Conference for HR and AI Leaders"
+    excerpt: "Eightfold AI, the provider of the Talent Intelligence Platform™, today launched Cultivate 2021, an annual industry event on August 10-11, 2021, bringing together thought leaders, innovators and HR champions united in a mission to bring career opportunities for everyone in the world."
+    publishedDateTime: 2021-07-08T12:24:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/technology-9ed5b44e8a308981c7217b2582040af2"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 32
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
 secured: "5c3UJ+d8Q7prr8gCH7QP055rDUBBCeXNy2Mi2ynmUWie3mrXpLcyc/peopVx0P4VBdGL9vgM20Pndw6Ok/Xqlr68El2hFVuV0BpUBjsFU7vOabSd0px8cBJPjDKmNjKfxJIJKKBMkxwX4WZ1yqv56Bqf9bBvrXLSG0e1g6qHzO/q01iDQWnlpCaA9yb+rttvHEexVXBWqiMJG4x2V1EDxBGiELP9RY0nKD89E+6uSBYOythCTLtr+9hWyw5hOtfggNcXeEnT6n2i8aQJ5gfb2irBZq4R8weQVG1NTuskgkJeyM5QzhJTWbwfOpUvbJY8PWkr4+Tzt0lk0snMp8NLAEyVlavUv0wQo7kccEl4jX0=;TwjM83wi2IJlFlORyxlaQA=="
 ---
