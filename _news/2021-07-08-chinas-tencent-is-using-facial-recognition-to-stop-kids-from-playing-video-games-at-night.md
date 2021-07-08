@@ -1,27 +1,27 @@
 ---
 category: news
-title: "Tencent deploying facial recognition to stop children gaming at night in China"
-excerpt: "Internet and gaming giant Tencent has decided to take extreme measures to prevent those under 18 from playing games late into the night in China. The company is using a facial recognition system on its platform to identify players and prevent them circumnavigating existing controls by using adult accounts."
-publishedDateTime: 2021-07-06T14:30:00Z
-originalUrl: "https://www.mcvuk.com/business-news/tencent-deploying-facial-recognition-to-stop-children-gaming-at-night-in-china/"
-webUrl: "https://www.mcvuk.com/business-news/tencent-deploying-facial-recognition-to-stop-children-gaming-at-night-in-china/"
+title: "China’s Tencent Is Using Facial Recognition To Stop Kids From Playing Video Games at Night"
+excerpt: "Chinese gaming giant Tencent is using facial recognition software to prevent kids from gaming between the hours of 10 p.m. and 8 a.m. “We will conduct a face screening for accounts registered ..."
+publishedDateTime: 2021-07-08T01:37:00Z
+originalUrl: "https://hypebeast.com/2021/7/china-tencent-facial-recognition-children-video-games"
+webUrl: "https://hypebeast.com/2021/7/china-tencent-facial-recognition-children-video-games"
 type: article
-quality: 35
+quality: 29
 heat: -1
 published: false
 
 provider:
-  name: MCV UK
-  domain: mcvuk.com
+  name: Hypebeast
+  domain: hypebeast.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://www.mcvuk.com/wp-content/uploads/1280px-tencent_logo.jpg"
-    width: 1284
-    height: 722
+  - url: "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2021%2F07%2FTencent-Is-Using-Facial-Recognition-To-Monitor-Kids-Screen-Time-tw.jpg?w=960&cbr=1&q=90&fit=max"
+    width: 960
+    height: 480
     isCached: true
 
 related:
@@ -211,19 +211,19 @@ related:
         width: 852
         height: 479
         isCached: true
-  - title: "China’s Tencent Is Using Facial Recognition To Stop Kids From Playing Video Games at Night"
-    excerpt: "Chinese gaming giant Tencent is using facial recognition software to prevent kids from gaming between the hours of 10 p.m. and 8 a.m. “We will conduct a face screening for accounts registered ..."
-    publishedDateTime: 2021-07-08T01:37:00Z
-    webUrl: "https://hypebeast.com/2021/7/china-tencent-facial-recognition-children-video-games"
+  - title: "Tencent deploying facial recognition to stop children gaming at night in China"
+    excerpt: "Internet and gaming giant Tencent has decided to take extreme measures to prevent those under 18 from playing games late into the night in China. The company is using a facial recognition system on its platform to identify players and prevent them circumnavigating existing controls by using adult accounts."
+    publishedDateTime: 2021-07-06T14:30:00Z
+    webUrl: "https://www.mcvuk.com/business-news/tencent-deploying-facial-recognition-to-stop-children-gaming-at-night-in-china/"
     type: article
     provider:
-      name: Hypebeast
-      domain: hypebeast.com
-    quality: 29
+      name: MCV UK
+      domain: mcvuk.com
+    quality: 35
     images:
-      - url: "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2021%2F07%2FTencent-Is-Using-Facial-Recognition-To-Monitor-Kids-Screen-Time-tw.jpg?w=960&cbr=1&q=90&fit=max"
-        width: 960
-        height: 480
+      - url: "https://www.mcvuk.com/wp-content/uploads/1280px-tencent_logo.jpg"
+        width: 1284
+        height: 722
         isCached: true
   - title: "Investors issue statement on human rights implications of facial recognition technologies & commitments to due diligence"
     excerpt: "We are 50 global institutional investors and their representatives with $4.5 trillion in assets under management as of December, 2020. As responsible investors, we incorporate Environmental, Social and Governance (ESG) factors,"
@@ -240,6 +240,6 @@ related:
         height: 488
         isCached: true
 
-secured: "hjikVM1BLdwy5jPZAthieR5bya76DK7afuYZhm+zV7pZNB4phVzGEVA0jizDLOGre5FSyTsfym309jAyyoNCUYxwEAghOsgTRS5r0C4zZSRPsJqWODpVdRF7RgEMEwSM8VaJ6fv/jPOoqPRvTGa4IxS004ZM+bKEvl0FSVxd2jukeiOH5Y1gPE9Fxjq6eN4o9S+yFMcRtnyAMN7ymh/rikQDPGkXqcdSkbls2cW3NVwz3EaVnofleD0dzcYxbD9SxCkXh56IFa/KoTTJzxajJobdaDNFdGoAGTyKG5JU3UHQgzmy8l4HkgLNT5mP4Y85BYRQ1VgsbQFJHGbcNMNgKljrBMiH83iyYfrIjy+6UIw=;fCN3lriFu025qGETGBvPBw=="
+secured: "5U2BkCf+vyMz8feZPollAm2pzCR2JHEk39yfX/HlCTGbX2SS8kgYq0Kp2awEyA9V3kspxqeqljZ5B8tVtPXOdqxUOQGIt9sSVyHtfWVb2z6CrShpjGcaxM6JkUi+Ctp6SsVTvsEQKerGNRKtAJ1Mu9c6l3x39w8VT2JVi3RrOrM8pSBSZqb2L5fgS9UonXSehuwBcJoqFKSoi283EmGBq//q7yWnOBPjS3bS0RibdbQpD86etpB/UxeMFJW1K4X3XOFLJk84UxMVYvEbOwJlDHOVl1bvAS0IEmRF2pLCdWovdTtrkykL53BrJtlidmahGscr34eJf5I08ihd2IxmRSU4PA9om6Bs4J5Joz1AIMI=;egdFA8tZR0tCPkzmleJ2oA=="
 ---
 

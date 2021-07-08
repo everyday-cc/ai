@@ -1,12 +1,12 @@
 ---
 category: news
 title: "Tencent is now using facial recognition to stop children in China from gaming all night"
-excerpt: "Late-night gaming sessions for Chinese children are going to be much harder now that Tencent, China's largest tech company, is using facial recognition to stop kids from gaming after bedtime. Announced in a press release yesterday, Tencent said its new ..."
-publishedDateTime: 2021-07-07T20:11:00Z
-originalUrl: "https://www.pcgamer.com/uk/tencent-is-now-using-facial-recognition-in-china-to-stop-children-from-gaming-all-night/"
-webUrl: "https://www.pcgamer.com/uk/tencent-is-now-using-facial-recognition-in-china-to-stop-children-from-gaming-all-night/"
-ampWebUrl: "https://www.pcgamer.com/uk/amp/tencent-is-now-using-facial-recognition-in-china-to-stop-children-from-gaming-all-night/"
-cdnAmpWebUrl: "https://www-pcgamer-com.cdn.ampproject.org/c/s/www.pcgamer.com/uk/amp/tencent-is-now-using-facial-recognition-in-china-to-stop-children-from-gaming-all-night/"
+excerpt: "Late-night gaming sessions for Chinese children are going to be much harder now that Tencent, China's largest tech company, is using facial recognition to stop kids from gaming after bedtime. Announced in a press release yesterday,"
+publishedDateTime: 2021-07-07T19:36:00Z
+originalUrl: "https://www.pcgamer.com/au/tencent-is-now-using-facial-recognition-in-china-to-stop-children-from-gaming-all-night/"
+webUrl: "https://www.pcgamer.com/au/tencent-is-now-using-facial-recognition-in-china-to-stop-children-from-gaming-all-night/"
+ampWebUrl: "https://www.pcgamer.com/au/amp/tencent-is-now-using-facial-recognition-in-china-to-stop-children-from-gaming-all-night/"
+cdnAmpWebUrl: "https://www-pcgamer-com.cdn.ampproject.org/c/s/www.pcgamer.com/au/amp/tencent-is-now-using-facial-recognition-in-china-to-stop-children-from-gaming-all-night/"
 type: article
 quality: 51
 heat: -1
@@ -211,6 +211,20 @@ related:
         width: 1284
         height: 722
         isCached: true
+  - title: "China’s Tencent Is Using Facial Recognition To Stop Kids From Playing Video Games at Night"
+    excerpt: "Chinese gaming giant Tencent is using facial recognition software to prevent kids from gaming between the hours of 10 p.m. and 8 a.m. “We will conduct a face screening for accounts registered ..."
+    publishedDateTime: 2021-07-08T01:37:00Z
+    webUrl: "https://hypebeast.com/2021/7/china-tencent-facial-recognition-children-video-games"
+    type: article
+    provider:
+      name: Hypebeast
+      domain: hypebeast.com
+    quality: 29
+    images:
+      - url: "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2021%2F07%2FTencent-Is-Using-Facial-Recognition-To-Monitor-Kids-Screen-Time-tw.jpg?w=960&cbr=1&q=90&fit=max"
+        width: 960
+        height: 480
+        isCached: true
   - title: "Investors issue statement on human rights implications of facial recognition technologies & commitments to due diligence"
     excerpt: "We are 50 global institutional investors and their representatives with $4.5 trillion in assets under management as of December, 2020. As responsible investors, we incorporate Environmental, Social and Governance (ESG) factors,"
     publishedDateTime: 2021-07-04T08:19:00Z
@@ -226,6 +240,6 @@ related:
         height: 488
         isCached: true
 
-secured: "hNhGGozo6EIWXWnYeS4jSGybMzGpuN+HB4DGsQHS7cTZj7isLLN1CYMKtSZZZ0I7DUQ+EZ6jl9GZpFUeNWmDwuEuI/kDp3rmXcwH1TH5DyQADhi0p7F8+64RqqIo1aw8/0PbplcBsjaeUDYUpaNwvhrhbTIi1pQXfzt/GJ+gULllxSU02tGKxzJwgJ7DeefinGXYiq4/s1qhkxb0F8CwvusFfoj1voDbTQSGfg8iiYvgrtuspVdaWv+/IFtTYgeHJhRmD4uQvl5x+gcguvMk/Y1RWGhE9eJBLMsp1EskxT2yh0LKwm8btcAm1I/7wiE6VAOig5Ml/otMYg57T7ye1lLkInrtkAoJYzjBD78Oq5U=;UV+bim1uQAmnyLlJifR+Uw=="
+secured: "V3ziTRCm+ntGe8P9pDEREUYs96U3s6amoRzXH6rfXzqiBmZxknS5cBfsXYmhwQ/7XhSuwX7wiKjL5z8517dzY4EiLq3AzQTqEY9Q0VOJkzB1bBgogtzHLMRbFUfePyJJOaAc/PAOIKbubQCYWshvZnKcSyKq+UNWcOXJjhHuFbF0vZujk1kLLU3kdjMeseufHFnvM1Af9sHW9UtgrlKW76fW0dTvNTNVGnq73YrA1b1IOTQDh1quJJJKGuWt6GPPDfK/ayYFMUpH/L6fQLNUkq3EAYyQWjOJYJEoM81AuaY3ieN8Y97RF/xYVZb9rxwPisypaW1kl8GJfyK/3KjibgJV9hO9QPO04o9RpICom+c=;UlkkGdhgkvEsFDVOZobB3Q=="
 ---
 

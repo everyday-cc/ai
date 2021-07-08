@@ -156,11 +156,11 @@ related:
         height: 337
         isCached: true
   - title: "Tencent is now using facial recognition to stop children in China from gaming all night"
-    excerpt: "Late-night gaming sessions for Chinese children are going to be much harder now that Tencent, China's largest tech company, is using facial recognition to stop kids from gaming after bedtime. Announced in a press release yesterday, Tencent said its new ..."
-    publishedDateTime: 2021-07-07T20:11:00Z
-    webUrl: "https://www.pcgamer.com/uk/tencent-is-now-using-facial-recognition-in-china-to-stop-children-from-gaming-all-night/"
-    ampWebUrl: "https://www.pcgamer.com/uk/amp/tencent-is-now-using-facial-recognition-in-china-to-stop-children-from-gaming-all-night/"
-    cdnAmpWebUrl: "https://www-pcgamer-com.cdn.ampproject.org/c/s/www.pcgamer.com/uk/amp/tencent-is-now-using-facial-recognition-in-china-to-stop-children-from-gaming-all-night/"
+    excerpt: "Late-night gaming sessions for Chinese children are going to be much harder now that Tencent, China's largest tech company, is using facial recognition to stop kids from gaming after bedtime. Announced in a press release yesterday,"
+    publishedDateTime: 2021-07-07T19:36:00Z
+    webUrl: "https://www.pcgamer.com/au/tencent-is-now-using-facial-recognition-in-china-to-stop-children-from-gaming-all-night/"
+    ampWebUrl: "https://www.pcgamer.com/au/amp/tencent-is-now-using-facial-recognition-in-china-to-stop-children-from-gaming-all-night/"
+    cdnAmpWebUrl: "https://www-pcgamer-com.cdn.ampproject.org/c/s/www.pcgamer.com/au/amp/tencent-is-now-using-facial-recognition-in-china-to-stop-children-from-gaming-all-night/"
     type: article
     provider:
       name: PC Gamer
@@ -215,6 +215,20 @@ related:
         width: 1284
         height: 722
         isCached: true
+  - title: "China’s Tencent Is Using Facial Recognition To Stop Kids From Playing Video Games at Night"
+    excerpt: "Chinese gaming giant Tencent is using facial recognition software to prevent kids from gaming between the hours of 10 p.m. and 8 a.m. “We will conduct a face screening for accounts registered ..."
+    publishedDateTime: 2021-07-08T01:37:00Z
+    webUrl: "https://hypebeast.com/2021/7/china-tencent-facial-recognition-children-video-games"
+    type: article
+    provider:
+      name: Hypebeast
+      domain: hypebeast.com
+    quality: 29
+    images:
+      - url: "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2021%2F07%2FTencent-Is-Using-Facial-Recognition-To-Monitor-Kids-Screen-Time-tw.jpg?w=960&cbr=1&q=90&fit=max"
+        width: 960
+        height: 480
+        isCached: true
   - title: "Investors issue statement on human rights implications of facial recognition technologies & commitments to due diligence"
     excerpt: "We are 50 global institutional investors and their representatives with $4.5 trillion in assets under management as of December, 2020. As responsible investors, we incorporate Environmental, Social and Governance (ESG) factors,"
     publishedDateTime: 2021-07-04T08:19:00Z
@@ -230,6 +244,6 @@ related:
         height: 488
         isCached: true
 
-secured: "oCwb9s7TNXjSLH4EWfc3gQQ2B/qbDY4h8OzIqFyzaR1jFOtPh6vmpWKqxcVKth+/db1gg8VAi/fK6DgEBgjTyZMBnEqL7jQ9sCsk6RKwTJ5lsKx6RF4tdpXK/Or2wJlyItq2O6ajQ/OJDktbT1CfmDqH6zybVU1GzJgD/wJKwwkx0xlmhwN11MJUg9LcCpa485Wsb+lTBfKBLrE2d/O7Jc6oups+Dx87+krBgBMO3Uy06Ao7WRtNoXba1sKF0z2C/A1w2+F5wM+bj7fwrH6PHwvajuZe+aUBH0bKvBOsIJlJSNI37q16brvIzlC2pvquTNcA0L/dd4eQIGEUlJ2YRAAKTcqdjngylf772NCNKbc=;MNxpAAUS2Me9dKYbuuvbIA=="
+secured: "tcVDlWM+7v62cbWfEF3/GKCZ8OzFMzBHkngkwk1xMMpEOWZFIdGBRNT8BS2HB9qz1F8Vx7PqPYsAKS4ToyI09fZlJvb63wWhHcRKgT44mOEEqIpMUzHkgmF71gz+IfTNVt24JcvnNtpa6GRvBxMXuBOMeGbAG+n29VH0ZXiPCGEj0JA0M+oLsy+WXYuABZYG9u1oouSbnUFiVaVFyGe+VY+n2tDutyDyK4JBlt4+su/SuNmHRg0meAsLZgnkE9oa5Ek20eBvj9l46YMkl/B9WhPj6Krv8f4G9y2MVkP4pcOdKJ/6ep/R0keieRYXaJFVI4Vth17Qi+9q1+PEf7SBmt6AojabgKcDckDDVSwQfp106aL/fOySgi6mjq82/H90jJWgCB4t9war4taHL6UwLQz1l0J6vC9R6f5w59Jkf5uzDmBNSDlTzQfpbGBKPj2CbQKCSlnOUQwruqcs+coJObCjYqXXVrc9zRFcw1LL1u6gfVkTwXABSinn7mXCqbs2v/TpFm3hjTrc+L5sg+DmoQ==;JQE6C0VPBlTLdiC5mtYwpQ=="
 ---
 

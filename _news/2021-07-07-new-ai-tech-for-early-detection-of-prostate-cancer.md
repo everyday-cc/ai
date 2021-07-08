@@ -9,8 +9,8 @@ ampWebUrl: "https://medicalxpress.com/news/2021-07-ai-tech-early-prostate-cancer
 cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-07-ai-tech-early-prostate-cancer.amp"
 type: article
 quality: 57
-heat: 77
-published: true
+heat: -1
+published: false
 
 provider:
   name: Medical Xpress
@@ -26,6 +26,22 @@ images:
     isCached: true
 
 related:
+  - title: "RMIT University researchers train AI to detect early-stage prostate cancer"
+    excerpt: "Researchers at RMIT University have developed an AI model that can detect early signs of prostate cancer by analysing routine computed tomography (CT) scans. Developed alongside clinicians at St Vincent's Hospital Melbourne, the AI model has been trained ..."
+    publishedDateTime: 2021-07-08T02:52:00Z
+    webUrl: "https://www.zdnet.com/article/rmit-university-researchers-train-ai-to-detect-early-stage-prostate-cancer/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/rmit-university-researchers-train-ai-to-detect-early-stage-prostate-cancer/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/rmit-university-researchers-train-ai-to-detect-early-stage-prostate-cancer/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 85
+    images:
+      - url: "https://www.zdnet.com/a/hub/i/2021/07/08/11dd33f9-5776-4457-b6f5-8cd546018d8c/gettyimages-141089990.jpg"
+        width: 724
+        height: 482
+        isCached: true
   - title: "Artificial intelligence program analyzes CT scans for tell-tale signs of prostate cancer"
     excerpt: "Now an artificial intelligence (AI) program developed at RMIT University could catch the disease earlier, allowing for incidental detection through routine computed tomography (CT) scans. The tech, developed in collaboration with clinicians at St Vincent's Hospital Melbourne,"
     publishedDateTime: 2021-07-07T23:18:00Z
@@ -42,19 +58,19 @@ related:
         width: 620
         height: 480
         isCached: true
-  - title: "California teenager invents AI-powered tool for early wildfire detection"
-    excerpt: "Ryan Honary talks to Inhabitat about how he is using technology and artificial intelligence to better predict and mitigate wildfires."
-    publishedDateTime: 2021-07-05T17:32:00Z
-    webUrl: "https://inhabitat.com/california-teenager-invents-ai-powered-tool-for-early-wildfire-detection/"
+  - title: "U of T researcher launches group to help detect hidden biases in AI systems"
+    excerpt: "A new initiative led by University of Toronto researcher Parham Aarabi aims to measure biases present in artificial intelligence systems as a first step toward fixing them. AI sys"
+    publishedDateTime: 2021-07-05T18:07:00Z
+    webUrl: "https://www.utoronto.ca/news/u-t-researcher-launches-group-help-detect-hidden-biases-ai-systems"
     type: article
     provider:
-      name: Inhabitat
-      domain: inhabitat.com
-    quality: 36
+      name: University of Toronto
+      domain: utoronto.ca
+    quality: 35
     images:
-      - url: "https://inhabitat.com/wp-content/blogs.dir/1/files/2021/07/California-Camp-Fire.jpg"
-        width: 1580
-        height: 549
+      - url: "https://www.utoronto.ca/sites/default/files/UofT2440_20131129_ParhamAarabi_006.jpg?169762"
+        width: 1140
+        height: 760
         isCached: true
 
 secured: "NJ7wrLQ2so55U5WkmNl6JvQqg71/Gx9mxOs4s+vjTQGtCqjN1EAWnpTP0HbBMnAO729PxIblta7mxIdTLL0ADhiz4+YVz+gxYcH3G9ASppM8LWDDBYYYnmjZMZuiGLolhrufKq+WnjzXczSwcZoQ1unsgWC4hoI4sptG0zQFGroRR5sSb+Ft72k7F/7L3ot68OqRaXYL3pneVMkPa6X0kvBYXlIksAYj2iDk35p55VZrkmV9KnAi+f/6nlMdWrpNgqGkrahjxuGxPTPF3kGNTlLpfiVZIz5r6AiSkEjO6/5hq+kLCnE5iSnKlNYsKjIvhXRv0EaQpa3p7MvGVXeQ3zbznXCtL5s9jo9gpkCtums=;lbqGfQIQmDWavNHQaXXmsw=="

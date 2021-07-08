@@ -7,7 +7,7 @@ originalUrl: "https://www.news-journal.com/news/business/big-techs-car-obsession
 webUrl: "https://www.news-journal.com/news/business/big-techs-car-obsession-all-about-taking-eyes-off-the-road/article_c949b264-dad1-11eb-a935-9b686ccd1522.html"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 944
     height: 630
     isCached: true
-
-related:
-  - title: "Apple’s car obsession is all about taking eyes off the road"
-    excerpt: "At first glance, the forays Apple Inc., Google and other technology giants are making into the world of cars don’t appear to be particularly lucrative."
-    publishedDateTime: 2021-07-03T10:00:00Z
-    webUrl: "https://www.sentinelsource.com/news/economy/apple-s-car-obsession-is-all-about-taking-eyes-off-the-road/article_9ff726e9-2395-5b01-97ea-b35e16941f10.html"
-    type: article
-    provider:
-      name: The Keene Sentinel
-      domain: sentinelsource.com
-    quality: 24
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/sentinelsource.com/content/tncms/custom/image/94f334aa-d43b-11eb-b5e9-4f39ce134ddd.jpg"
-        width: 1200
-        height: 480
-        isCached: true
 
 secured: "mD+PP4guRvF7g6DbLNLSa4bA1NG3QOR23bYqwWLsl2W3QVtGyMN7s+HsYAuvT0sRgG3X0vo0ELxzeqY94I1X0XLvN2jm8f+XP4XtocXayKLJmnSeAHN8aj0qqBlvZOAMSx5NQKmy+FnWiRKqLYwO77R2Ei9nIl0cl2vH+8EUnykgUpCnbNaVaAKceI5ws9tRjtqckmbQp6mSIvtrXAzVulF1wsI9qTpr+0o+Q73VZfY7J9ubuXTLeBEuaLNA7viu522jKmi3cVpP/DZEJnEv9JRLbyTsMfT6L5UGa9+3OEk8sH5SY7ahDoGDY/v300F/TdcH2vFUm1r/+I4mHi1gzeySFUs4orggDmNK1P/PD/IwpYDZwhTOaJIQQyxUbbve6M3MP0Ur4LDBv+VOHKwEAXeAm13S/kwOY/a1tIMGN3rJ+UZdopXc3fse8IlIXLjfJW/rR+1kqR6WJ6iisi1txsGo18dmabkYj0YJ7W/hdcO5foBMX2GqPUV3oZWL2vvzylod6LRzeJ28U2SaH8EH0A==;rvGfYrYmlzGZ6xJbWWOuXw=="
 ---

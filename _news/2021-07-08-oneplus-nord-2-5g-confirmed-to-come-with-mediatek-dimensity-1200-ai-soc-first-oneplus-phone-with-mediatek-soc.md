@@ -1,29 +1,28 @@
 ---
 category: news
-title: "It's official: OnePlus Nord 2 will feature MediaTek Dimensity 1200-AI chip"
-excerpt: "A so-called \"AI Color Boost\" technology will use the AI to be aware of ... It's no surprise that OnePlus is also claiming its chip will enable you to game at high refresh rates too. The Dimensity 1200 is a powerful chipset after all. Power-wise, it's ..."
-publishedDateTime: 2021-07-07T12:05:00Z
-originalUrl: "https://www.pocket-lint.com/phones/news/oneplus/157590-oneplus-nord-2-mediatek-dimensity-1200-official"
-webUrl: "https://www.pocket-lint.com/phones/news/oneplus/157590-oneplus-nord-2-mediatek-dimensity-1200-official"
-ampWebUrl: "https://www.pocket-lint.com/phones/news/oneplus/157590-oneplus-nord-2-mediatek-dimensity-1200-official.amphtml"
-cdnAmpWebUrl: "https://www-pocket--lint-com.cdn.ampproject.org/c/s/www.pocket-lint.com/phones/news/oneplus/157590-oneplus-nord-2-mediatek-dimensity-1200-official.amphtml"
+title: "OnePlus Nord 2 5G Confirmed To Come With MediaTek Dimensity 1200-AI SoC; First OnePlus Phone With MediaTek SoC"
+excerpt: "OnePlus Nord 2 5G will come with a MediaTek Dimensity 1200-AI chipset, the company has confirmed in an official teaser."
+publishedDateTime: 2021-07-08T03:48:00Z
+originalUrl: "https://www.news18.com/news/tech/oneplus-nord-2-5g-confirmed-to-come-with-mediatek-dimensity-1200-ai-chipset-3938546.html"
+webUrl: "https://www.news18.com/news/tech/oneplus-nord-2-5g-confirmed-to-come-with-mediatek-dimensity-1200-ai-chipset-3938546.html"
+ampWebUrl: "https://www.news18.com/amp/news/tech/oneplus-nord-2-5g-confirmed-to-come-with-mediatek-dimensity-1200-ai-chipset-3938546.html"
+cdnAmpWebUrl: "https://www-news18-com.cdn.ampproject.org/c/s/www.news18.com/amp/news/tech/oneplus-nord-2-5g-confirmed-to-come-with-mediatek-dimensity-1200-ai-chipset-3938546.html"
 type: article
-quality: 72
+quality: 37
 heat: -1
 published: false
 
 provider:
-  name: Pocket-lint
-  domain: pocket-lint.com
+  name: CNN-News18
+  domain: news18.com
 
 topics:
-  - AI Hardware
   - AI
 
 images:
-  - url: "https://cdn.pocket-lint.com/r/s/1200x630/assets/images/157590-phones-news-it-s-official-oneplus-nord-2-will-feature-mediatek-dimensity-1200-ai-chip-image1-lnieutntff.jpg"
-    width: 946
-    height: 630
+  - url: "https://images.news18.com/ibnlive/uploads/2021/06/1624943671_oneplus_nord_2.jpg"
+    width: 1200
+    height: 800
     isCached: true
 
 related:
@@ -56,6 +55,22 @@ related:
       - url: "https://www.gizmochina.com/wp-content/uploads/2021/07/OnePLus-Nord-2-Dimensity-1200-AI.png"
         width: 1600
         height: 1360
+        isCached: true
+  - title: "It's official: OnePlus Nord 2 will feature MediaTek Dimensity 1200-AI chip"
+    excerpt: "A so-called \"AI Color Boost\" technology will use the AI to be aware of ... It's no surprise that OnePlus is also claiming its chip will enable you to game at high refresh rates too. The Dimensity 1200 is a powerful chipset after all. Power-wise, it's ..."
+    publishedDateTime: 2021-07-07T12:05:00Z
+    webUrl: "https://www.pocket-lint.com/phones/news/oneplus/157590-oneplus-nord-2-mediatek-dimensity-1200-official"
+    ampWebUrl: "https://www.pocket-lint.com/phones/news/oneplus/157590-oneplus-nord-2-mediatek-dimensity-1200-official.amphtml"
+    cdnAmpWebUrl: "https://www-pocket--lint-com.cdn.ampproject.org/c/s/www.pocket-lint.com/phones/news/oneplus/157590-oneplus-nord-2-mediatek-dimensity-1200-official.amphtml"
+    type: article
+    provider:
+      name: Pocket-lint
+      domain: pocket-lint.com
+    quality: 72
+    images:
+      - url: "https://cdn.pocket-lint.com/r/s/1200x630/assets/images/157590-phones-news-it-s-official-oneplus-nord-2-will-feature-mediatek-dimensity-1200-ai-chip-image1-lnieutntff.jpg"
+        width: 946
+        height: 630
         isCached: true
   - title: "The OnePlus Nord 2 will have a custom Dimensity 1200-AI chipset, the company confirms"
     excerpt: "OnePlus and MediaTek added additional AI features to the base Dimensity 1200 to help with the camera, media playback and other tasks."
@@ -103,22 +118,6 @@ related:
         width: 1835
         height: 943
         isCached: true
-  - title: "OnePlus Nord 2 5G Confirmed To Come With MediaTek Dimensity 1200-AI SoC; First OnePlus Phone With MediaTek SoC"
-    excerpt: "OnePlus Nord 2 5G will come with a MediaTek Dimensity 1200-AI chipset, the company has confirmed in an official teaser."
-    publishedDateTime: 2021-07-08T03:48:00Z
-    webUrl: "https://www.news18.com/news/tech/oneplus-nord-2-5g-confirmed-to-come-with-mediatek-dimensity-1200-ai-chipset-3938546.html"
-    ampWebUrl: "https://www.news18.com/amp/news/tech/oneplus-nord-2-5g-confirmed-to-come-with-mediatek-dimensity-1200-ai-chipset-3938546.html"
-    cdnAmpWebUrl: "https://www-news18-com.cdn.ampproject.org/c/s/www.news18.com/amp/news/tech/oneplus-nord-2-5g-confirmed-to-come-with-mediatek-dimensity-1200-ai-chipset-3938546.html"
-    type: article
-    provider:
-      name: CNN-News18
-      domain: news18.com
-    quality: 37
-    images:
-      - url: "https://images.news18.com/ibnlive/uploads/2021/06/1624943671_oneplus_nord_2.jpg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "OnePlus, MediaTek partner to bring new AI Dimensity chip"
     excerpt: "Global smartphone brand OnePlus on Wednesday announced that it has joined hands with chip-maker MediaTek for Dimensity-1200-AI, which will be featured in the upcoming OnePlus Nord 2 5G smartphone."
     publishedDateTime: 2021-07-07T13:30:00Z
@@ -152,6 +151,6 @@ related:
         height: 1360
         isCached: true
 
-secured: "ZalA8g4gytpO1mioOMrlckBQa0Ytfi1rxtBCMTGBReMwm5DIhjjMFAkrM1C6y4x1DPbeu0P8sVq18Mi0OL2FM0elfC0p6Bp+NQfkU8LWKiSqQlJdNBTLrnJQNrASxMgEDS1gbNDY8rHB+XZzRjVZZIyBeHa8UIl72YiFkmIYywSAoB65ZZCeaUCg2VhjsertunvJkQYRNnTvoePF1mEw8Z8txHdIn+hKrJ606WFnaVM+x2bsynzq6q+QFkAS02g8+jnkmZmNbCG1rxmVgG2xEz+e4XzJvQcTggvNmHi7KqN85sH+sxy4EDMT6PCaV7T6Ip9rGlMitPecf9VO8KJ0dKz6SnxEI6sHagjLwbbVB9g=;JclvXHhNWDE2oekO14RIRw=="
+secured: "Q/vN1HMzPCva9TqdFdZTpmVdElcVgmh5zYxztDxsoA370eSnkfhobCxaVWIUBJlv3UIC7ub0sJzogXRUjVYr92DI+rTTTIW3WRncJunudvJT/A/Ew235xZZTqzMJ++0//ipIheOQcw44JmJjoc5gBvoUyoBKMMaunCQwfot7nD7WIk84P/HaR1D3TqErqIvLKpc/f+HnhAuePj0gFXx/R1+9MxQQXpkx+GWoabZKlakr4OgE/iXGD7pXrgXvF9eIRZrgnoAT+EykiUYR0XLQ+37KW7neGSIMJLBRbtRw6nSCF4Cx/cZlSBdDf9s3zcT5PUTzXdIG+owRwxKN6LlIxWFVyYfER59htT6vQlS2CQE=;J25xaOL8uPmvFRdoFz4Vcg=="
 ---
 

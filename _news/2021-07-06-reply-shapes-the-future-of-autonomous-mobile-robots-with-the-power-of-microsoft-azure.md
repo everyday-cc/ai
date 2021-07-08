@@ -2,21 +2,27 @@
 category: news
 title: "Reply Shapes the Future of Autonomous Mobile Robots with the Power of Microsoft Azure"
 excerpt: "The solution combines Microsoft Azure services ... Reply integrates Azure Cognitive Services, Machine Learning and DevOps as well as Power Apps and Power BI. Thanks to Azure's intelligent service ..."
-publishedDateTime: 2021-07-06T07:38:00Z
-originalUrl: "https://www.morningstar.com/news/business-wire/20210706005133/reply-shapes-the-future-of-autonomous-mobile-robots-with-the-power-of-microsoft-azure"
-webUrl: "https://www.morningstar.com/news/business-wire/20210706005133/reply-shapes-the-future-of-autonomous-mobile-robots-with-the-power-of-microsoft-azure"
+publishedDateTime: 2021-07-06T07:39:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/21/07/b21850593/reply-shapes-the-future-of-autonomous-mobile-robots-with-the-power-of-microsoft-azure"
+webUrl: "https://www.benzinga.com/pressreleases/21/07/b21850593/reply-shapes-the-future-of-autonomous-mobile-robots-with-the-power-of-microsoft-azure"
 type: article
-quality: 27
+quality: 47
 heat: -1
 published: false
 
 provider:
-  name: Morningstar%2c Inc.
-  domain: morningstar.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - Microsoft AI
   - AI
+
+images:
+  - url: "https://cdn.benzinga.com/files/imagecache/og_image_social_share_1200x630/sites/all/themes/bz2/images/bz-icon.png"
+    width: 1200
+    height: 630
+    isCached: true
 
 related:
   - title: "Speech Recognition Software Market Next Big Thing | Major Giants Google, Microsoft, Baidu"
@@ -120,6 +126,6 @@ related:
       domain: manometcurrent.com
     quality: 21
 
-secured: "XfesxTTI2QTADnVEu1HzIgFJVSelQhAo8LdLsy9e2mRwcuj8XTgfuZp/5/R5RO2KBwhK+veQp2K9mVLOsK22do0/8z1ggOS8zh4DiYcEHQ7UbEzf/Hi/ejTw5WSPCKq/ci2bkkx9EYgynFCNshPEePdrRd4iZGL1seoS55jzAySuf+dFk+JWHls0+WDDPYe25IDi5R/EFFqI4KqqwwUL7vuk63DgLP1d+zUO+DJeu208BylK66leabkiiicqvP2PreG1uVwzpeAPU5g04fMFTDz297j9eVjAm0k1vo171xAByQmIr6twBozkuy1QFpA3W8Dn343c/vAaCL9XRDkBpxM1pgDlNXqXoPXrQw6jSNU=;l9EuGvp6uRGVP6cxlhCdhQ=="
+secured: "ZMgQp3IEBpbL4RcLjmKtqGJTWVTAs5FQ9X9m1HkbJoorvyzEmPluHlRHkta38yhW1SRqxrsAfXmU696GanjRJqfT0qF3bGC78a0D2eSAdcIVEOg4rtSqh9w2rEnzjYuc3Fxyf8fZ0b3R4cflct6OGhw9XxNNgZJplpT5EBRH9UJL4mgjH6YnEE4PbZIpLV7Ck3uzjqkpyNwQs0o67lxFROpPjt9//UIQzcIplcpB8CJh1WLj+GmjcsMj5WMr9umkL8gNusogJ4v7aCvqjS11BlpSp1NdwV4OBWrZE4v/hxT5BrnJt+7RlfobztJ1drXfQt9KfK/PS6UdsNxtn9N8Tkq1wglZediuDB7DEh7GGwo=;yPOFfJbFXJn4WnxUAxDCcg=="
 ---
 

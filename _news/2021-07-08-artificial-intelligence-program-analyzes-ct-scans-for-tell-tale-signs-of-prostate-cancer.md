@@ -26,6 +26,22 @@ images:
     isCached: true
 
 related:
+  - title: "RMIT University researchers train AI to detect early-stage prostate cancer"
+    excerpt: "Researchers at RMIT University have developed an AI model that can detect early signs of prostate cancer by analysing routine computed tomography (CT) scans. Developed alongside clinicians at St Vincent's Hospital Melbourne, the AI model has been trained ..."
+    publishedDateTime: 2021-07-08T02:52:00Z
+    webUrl: "https://www.zdnet.com/article/rmit-university-researchers-train-ai-to-detect-early-stage-prostate-cancer/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/rmit-university-researchers-train-ai-to-detect-early-stage-prostate-cancer/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/rmit-university-researchers-train-ai-to-detect-early-stage-prostate-cancer/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 85
+    images:
+      - url: "https://www.zdnet.com/a/hub/i/2021/07/08/11dd33f9-5776-4457-b6f5-8cd546018d8c/gettyimages-141089990.jpg"
+        width: 724
+        height: 482
+        isCached: true
   - title: "New AI tech for early detection of prostate cancer"
     excerpt: "Now an artificial intelligence (AI) program developed at RMIT University could catch the disease earlier, allowing for incidental detection through routine computed tomography (CT) scans."
     publishedDateTime: 2021-07-07T16:27:00Z
@@ -42,19 +58,19 @@ related:
         width: 1440
         height: 981
         isCached: true
-  - title: "California teenager invents AI-powered tool for early wildfire detection"
-    excerpt: "Ryan Honary talks to Inhabitat about how he is using technology and artificial intelligence to better predict and mitigate wildfires."
-    publishedDateTime: 2021-07-05T17:32:00Z
-    webUrl: "https://inhabitat.com/california-teenager-invents-ai-powered-tool-for-early-wildfire-detection/"
+  - title: "U of T researcher launches group to help detect hidden biases in AI systems"
+    excerpt: "A new initiative led by University of Toronto researcher Parham Aarabi aims to measure biases present in artificial intelligence systems as a first step toward fixing them. AI sys"
+    publishedDateTime: 2021-07-05T18:07:00Z
+    webUrl: "https://www.utoronto.ca/news/u-t-researcher-launches-group-help-detect-hidden-biases-ai-systems"
     type: article
     provider:
-      name: Inhabitat
-      domain: inhabitat.com
-    quality: 36
+      name: University of Toronto
+      domain: utoronto.ca
+    quality: 35
     images:
-      - url: "https://inhabitat.com/wp-content/blogs.dir/1/files/2021/07/California-Camp-Fire.jpg"
-        width: 1580
-        height: 549
+      - url: "https://www.utoronto.ca/sites/default/files/UofT2440_20131129_ParhamAarabi_006.jpg?169762"
+        width: 1140
+        height: 760
         isCached: true
 
 secured: "8YjDTMyDNyR/PoE1WHZts6IwjBUnZzqTd5qDz+Mj+UK8UgDKTnOBzDFd9RpAhQxbJ/Qf31ix/xKwoYnKalZe68l/wBIANozG+2Ts5ENByAvMRPbYJPJiLVJvdYr4nDGPqWxr00e1iTyHvjvgn5OAGRpKXGRZD95PmO6ziVo0dKvbFg8Il4JLHwplEJtGxuy34EbbPAoKi+OSMB93/0ZU3ZUFmL+GMKsfdUK7o9fc8iGt6rsSNClh+Fbmpbmiy3J08K9n6pQMIrj4i4m57YCurWPfIWr+LtaE5Rt5CUWWbqYpRPc60Zk03loCAtvaQHdbS7ZCSz+YK96Aih+hD2TxsNtbElelbCbILqUGFJayuRAPYH3EOM6akBaoTx544Zl+C8wFLPLNWOS0UP0pzMpgb/Q8e73nDQcj/rWkiU024wCKXbQEQYGSQ1Rqfhg4Bej9vtXdOdfKq7LE1+vbK7ykXK08DHJP7rCUXzRo9973ttNlg31CKmm7pwpkSZ/fB1VEgjpBK6m+m7JMuZzeXkIpCA==;zcdiuYbCx949Et+qxwjwzA=="

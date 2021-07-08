@@ -46,22 +46,6 @@ related:
         width: 1200
         height: 602
         isCached: true
-  - title: "Can Tesla Really Do Without Radar For Full Self-Driving?"
-    excerpt: "Tesla has removed the radar from its Model 3 and Y. Can it really deliver on the promise of self-driving cars with just cameras?"
-    publishedDateTime: 2021-07-03T10:00:00Z
-    webUrl: "https://www.forbes.com/sites/jamesmorris/2021/07/03/can-tesla-really-do-without-radar-for-full-self-driving/"
-    ampWebUrl: "https://www.forbes.com/sites/jamesmorris/2021/07/03/can-tesla-really-do-without-radar-for-full-self-driving/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jamesmorris/2021/07/03/can-tesla-really-do-without-radar-for-full-self-driving/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60df74701b3d17f18787c1b5%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D3450%26cropY1%3D173%26cropY2%3D2114"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Hacker shows what Tesla Full Self-Driving’s vision depth perception neural net can see"
     excerpt: "A hacker managed to pull Tesla’s vision depth perception neural net from his car with “Full Self-Driving” package. You can see how the vehicle detects depth with a point-cloud view powered ..."
     publishedDateTime: 2021-07-07T16:12:00Z

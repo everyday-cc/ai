@@ -9,7 +9,7 @@ ampWebUrl: "https://www.digitaltrends.com/mobile/oneplus-nord-2-5g-mediatek-dime
 cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/mobile/oneplus-nord-2-5g-mediatek-dimensity-1200-news/?amp"
 type: article
 quality: 88
-heat: 168
+heat: 178
 published: true
 
 provider:
@@ -106,6 +106,22 @@ related:
       - url: "https://www.gizmochina.com/wp-content/uploads/2021/07/OnePlus-Nord-2-5G-Dimensity-1200-AI-vs-Realme-GT-Neo-Dimensity-1200-AI-Benchmark.jpg"
         width: 1835
         height: 943
+        isCached: true
+  - title: "OnePlus Nord 2 5G Confirmed To Come With MediaTek Dimensity 1200-AI SoC; First OnePlus Phone With MediaTek SoC"
+    excerpt: "OnePlus Nord 2 5G will come with a MediaTek Dimensity 1200-AI chipset, the company has confirmed in an official teaser."
+    publishedDateTime: 2021-07-08T03:48:00Z
+    webUrl: "https://www.news18.com/news/tech/oneplus-nord-2-5g-confirmed-to-come-with-mediatek-dimensity-1200-ai-chipset-3938546.html"
+    ampWebUrl: "https://www.news18.com/amp/news/tech/oneplus-nord-2-5g-confirmed-to-come-with-mediatek-dimensity-1200-ai-chipset-3938546.html"
+    cdnAmpWebUrl: "https://www-news18-com.cdn.ampproject.org/c/s/www.news18.com/amp/news/tech/oneplus-nord-2-5g-confirmed-to-come-with-mediatek-dimensity-1200-ai-chipset-3938546.html"
+    type: article
+    provider:
+      name: CNN-News18
+      domain: news18.com
+    quality: 37
+    images:
+      - url: "https://images.news18.com/ibnlive/uploads/2021/06/1624943671_oneplus_nord_2.jpg"
+        width: 1200
+        height: 800
         isCached: true
   - title: "OnePlus, MediaTek partner to bring new AI Dimensity chip"
     excerpt: "Global smartphone brand OnePlus on Wednesday announced that it has joined hands with chip-maker MediaTek for Dimensity-1200-AI, which will be featured in the upcoming OnePlus Nord 2 5G smartphone."
