@@ -2,7 +2,7 @@
 name: "Aurora"
 overview: "Aurora works at the intersection of rigorous engineering and applied machine learning to address one of the most challenging, important, and interesting opportunities of our generation: transforming the way people and goods move."
 type: "profile"
-heat: 71
+heat: 77
 
 website: https://aurora.tech/
 
@@ -44,6 +44,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=4J742uB60NY"
 
-secured: "byqOpl6AMmI60623bqNhnbh+KCW2jX0FrvJ6XrgnSMM4btn/N/N1O+swddqUjO2uCC2ROzTRLf0Vth4smtLYYLhRY7hZWtOBJTyTqxh26wuT55iFAVtFwWp4urhGkKGP2/ZJto+rDGq8/+0pOAJ1l4XI1Auy8klCiJMq0E2HaKtHPdbQJUuYP095KV4dCiJoDDPxW0nKJhHE0jlw4cPhfxXZeBVk2CfhsgIU55ifsKc/w3ROPVOwZVSl8M4PY/TT9usAKJUMGV27eS63Dqhk92xkVzwXzzEkSXrlVkwRDSGL/l9QVRgfWZbM/+BBpHN3hcx+7yG+me8uOlfm1WcoSVJXQgTRr7r2RkPlB21mMcorO8aLrZFyQDPye58QrIlu1XeANvvm6Bw4ie4Hi0CI2jTdKPPbVFu9tTW3RVWV4ic=;3YdMEhAEOA6a+M6pv3MS4A=="
+secured: "FHy6wDaCvG/X30844wCPKbqNsePagtLp74gmVRN3xAQa03JYDSNg9gveqFWFFlL9ia9Z9BL67JvkHNZASRu46mdBtDwfaSWXyGjw7SCaq0qe5sm7LDo6FFqS8Xk8iMv4Ja75fikeN4Wl3BaXAuu9XWEUPq4zryP4kEJsTonDvV9nhp4NRrhPSk9cNs61f2DA9OQHMw4GTb67UhJL+4zkAK2FWLM19QtQFGyuPaQgI5vQFDT2es4SLr1u8uFZVxaMpfQ0CMGtdyVm+a9AEzJ9UvdBvoFn4Z5RAuHTFp/51IOVgi5NAAtTitDO2JNsJF3ee3uWyXacZLPNKaij4QGmFuc4SjpzAWnRCE4XyQqH/9NRvPHpmFEXvR3nN9xAjP1j2U0K6e9RVg1iA223doOkSwHQVtvTYb6M4TXYKlJl7Kc=;6B44EwzC3Pf5nFLSkU4b3w=="
 ---
 

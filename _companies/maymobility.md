@@ -2,7 +2,7 @@
 name: "May Mobility"
 overview: "The most accurate AI-based medical assistant for triage, prediagnosis and decision-making support. 👨‍⚕️👩‍⚕️Web | App | Alexa | Google Assistant"
 type: "profile"
-heat: 57
+heat: 71
 
 website: https://maymobility.com/
 
@@ -45,6 +45,6 @@ images:
     height: 400
     title: "logo"
 
-secured: "0b/Lko3oQt+SyAJ9un3PRVOnJ26Li6o1kv2SIkuCgTUxV/tB/H6EPSsAmVIcb02CQVblAQhkN1tWqw2w2XoXk9Z9VEpkviO7Y/CsFc8YSZEpMgxiSK4h7PgMaZgKNKbwbCjdq+Q2yxT5+sTiQdj7M6HNwGs3FSXrc3U6RehpUg0SrurzHJvQOjS5YjkUksCHobVb/ycQ57OaqVORNUBNKOImBYSo6jfPiKBx411fRNtfpu9O5TKIzkr9hVonHCIj25leVYao+dgPndg0+qdOInjwTiLGxVRLfUoiZf/eIeEjTK2CsaDmEqrThQ8pL4emIRoips2m2KYZEHPiW4y7ln4DrHqNVmToDdLVpxkKMO6cYfI1BVswJT0onRmcFx1q6Gsl2812ENMvl7gTDxgC0lkgHWjccyAHfuf2Qd8PX/Y=;+q7/26W6GI1ub++A3mJm2w=="
+secured: "+n3MY6Ly8f2dT92nw7EguzkNGTr4YHPGIxvJYJqgQ3IzH8DL8dxU0twBc/3Vpq7I5gft9uFtnl9TMwcmkrhLll6LZCQSBS73LbNXER4PjabZLwtK7yakija7Bol8ouo7qmtXctTbo2arrsHZRZudT05zKDHl5Jl3UtyuotjC533o7vdxGK7iwK8X487LV37hyPm9ObC5JbMdDZW/kN1RCNFt4XfS6v5T8KXDI5rBEoka2EMkYuhpJjddO6r9AAiyw5NRv14uHYL4vTEAwc3qEkimljZJft9f9X6qFnHtnX8hW7ukf4j0K/skwdnBUv9KTOTC6WmC+8GztyWyodpr2kRQ6TSvwdPRU5E9rZiORfqlT6BaKQKEbwnw1UM6OVzZvcte+kEXDMzUApzZ2gr4tA==;SR7V7x0kuy4MQCYORAjoCQ=="
 ---
 
