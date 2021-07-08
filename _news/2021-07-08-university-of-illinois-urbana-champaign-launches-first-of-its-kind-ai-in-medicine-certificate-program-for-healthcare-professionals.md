@@ -2,32 +2,28 @@
 category: news
 title: "University of Illinois Urbana-Champaign Launches First-of-Its-Kind AI in Medicine Certificate Program for Healthcare Professionals"
 excerpt: "The University of Illinois Urbana-Champaign has launched a new AI in Medicine Certificate program through an interdisciplinary partnership between the department of bioengineering at The Grainger College of Engineering,"
-publishedDateTime: 2021-07-08T13:47:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/university-of-illinois-urbana-champaign-launches-first-of-its-kind-ai-in-medicine-certificate-program-for-healthcare-professionals-1030590094"
-webUrl: "https://markets.businessinsider.com/news/stocks/university-of-illinois-urbana-champaign-launches-first-of-its-kind-ai-in-medicine-certificate-program-for-healthcare-professionals-1030590094"
+publishedDateTime: 2021-07-08T13:54:00Z
+originalUrl: "https://apnews.com/press-release/newswire/university-of-illinois-urbana-champaign-university-of-illinois-champaign-illinois-science-a31c0898eae2a372628addd7030acee3"
+webUrl: "https://apnews.com/press-release/newswire/university-of-illinois-urbana-champaign-university-of-illinois-champaign-illinois-science-a31c0898eae2a372628addd7030acee3"
 type: article
-quality: 54
-heat: 54
+quality: 24
+heat: 24
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI in Healthcare
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/1559465/The_University_of_Illinois_Urbana_Champaign_launches_first_of_its_kind_AI_in_Medicine_Certificate.jpg"
-    width: 400
-    height: 266
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
-secured: "uD71W9foJmQ7q8sJuf7dxDQ34ZYxEosaE2Bo3ZCDaZQs/v21zdMcnw70opVwMw2eStfwBxirkFUvFeV+H1YrYMU5wi5Eem2dKnXNknf+AufpTO6aTdk8CGkl7XdOaureDygNk87ZD9zUG4XdTXqmXgMk2XuVZ//ymKT1U+zSHHpp1bFzgE7tLfk6yvExdARsvda53mwqpSmWiNBRhNKW+OFSmI4JqDtXJghZb4xQMNZlUk2x/vpbzRN4sL8+lcV2DAqb8urz280t04JKBb32pzZPbVZUlVZZFi47cIibwUvbgfpuKm8PA4/5ixtzg83LVqwUmZom2hTHBE4E8OpNc0oPLWkVafHjab2nVykgMBA=;1+bXIZiDJ+n5C4Fob/2x/A=="
+secured: "HbUTvXK6yw9qTxEdZdYQnjU3H/AIv8+qAq+VxRl8D4qUnUn/EgCW1ug6gqcdGpaYjgm7eqkGp1EcBgR2L40zIP2Gxfj6r3txvebk5fH6tzfluCQfabU/JpieeK5FYO8/Z8fPXarGd+6aLIXcjymvsGotieqIFhVxgEC4EUdgnLZbPVdTMhdhbr/BRnGiqQa0me+Wuc9km3RdnsSSOi9WmB1KzN8QeZbcPe/4VTRkPq2KueClfSKXMtIkbTuFDfsuLzFg7Hgtd3t+wnMXRBTOZoKeZ88OlS9dOopljZgfldLleWFpmvIga8ZMwhoTHqfxk0tfzTrPgzMaC6VKb16N3d97NnTHKzPHUi7Iu32wt+8=;ZMcIFd7OAOc8LJh0bm7wVQ=="
 ---
 

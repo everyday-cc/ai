@@ -26,14 +26,14 @@ images:
 
 related:
   - title: "Heifer International and IBM Work with Coffee and Cocoa Farmers in Honduras to Increase Access to Data and Global Markets"
-    excerpt: "Smallholder coffee and cocoa farmers and their cooperatives in Honduras are harnessing the power of technology to access new markets and make better business decisions through IBM Food Trust and IBM Watson Decision Platform for Agriculture,"
-    publishedDateTime: 2021-07-07T12:05:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-heifer-international-ibm-work-with-coffee-cocoa-farmers-/2021/07/07/9404133.htm"
+    excerpt: "Smallholder coffee and cocoa farmers use IBM Food Trust blockchain technology and powerful AI in IBM Watson Decision Platform for Agriculture to improve farm-level decision-making and speed up transactions. WASHINGTON, July 7, 2021 /PRNewswire ..."
+    publishedDateTime: 2021-07-07T08:00:00Z
+    webUrl: "https://www.nasdaq.com/press-release/heifer-international-and-ibm-work-with-coffee-and-cocoa-farmers-in-honduras-to"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 9
 
 secured: "Sce+Jz4xu8KpEgTRRAvX7rJLwBmI/sGI5/NhfnUQdTks/RHY/ey3Nx22KpncrGcxT+gP0rdh63amJy3CntEUYlTSnFnpxmH+Ut0U3F/tvhaYedxR/sLBKh3mminGZa8/XW0CwqJtHOe+3RnC2cp+L8iCadFyIISScdvHjAnoirALaJ0GGwT4R0E+3qZSvIZWpuzN5dfXXZx9Eqb/jB2x39kQtdM9Ks9VPch+ONy6DaOdVjJ78UklSTTLL5+sAE092QWaRcKhCOYh/yOD6JT6tCT/Zf7FNLDsMwS8plJPYSKiY8dodvPqzqqJq2/TA6FLg2/mW6h0VPVi+57NHPC4hN1WMAz6ofSe2sgdRNnY8gA=;YCbyxOi3viODABzbca2LUg=="
 ---

@@ -93,6 +93,20 @@ related:
         width: 1200
         height: 700
         isCached: true
+  - title: "Elon Musk Says Tesla’s ‘Mind-Blowing’ Full Self-Driving Beta v9 Will Arrive This Saturday"
+    excerpt: "Elon Musk says that Tesla's 'mind blowing' Full Self-Driving beta v9 update will arrive this Saturday. Here are all the details on this."
+    publishedDateTime: 2021-07-08T14:26:00Z
+    webUrl: "https://www.redmondpie.com/elon-musk-says-teslas-mind-blowing-full-self-driving-beta-v9-will-arrive-this-saturday/"
+    type: article
+    provider:
+      name: Redmond Pie
+      domain: redmondpie.com
+    quality: 30
+    images:
+      - url: "https://cdn.redmondpie.com/wp-content/uploads/2021/02/tesla-model-s-pre-2018.jpg"
+        width: 1200
+        height: 640
+        isCached: true
 
 secured: "w09N3DEKeR552ArJ6VaglVBulpGIO0ew9hc08MG5SPul3nZJd2ErYSekNQHpmtMVnj4SWskkCQwR9ae+QACK8XkCSUeDt/apB8O4BaogOMhX8BtZpJ8vIl49XsKY//5lwOq0kaXYEr38x22cKRHFPr/+hjO8hjU8QFfatNd7217j/W5/7N0HSX+H+lSrCydR0VLtiAslg6zIR8DuiI9AV9jXIDz8zFjdDEMM9G1UorAt9EN/Sz0ZK9hq8AGu3Z+UiI1UsucXHT8xJjgwpCpD6437JJCsDW5mcrFwwqska/e+rU4hr0DeHy6pP2EoaKzbXR11n/6WxWhLR1FPfvCr3ewX6wLdo5Pabt84CMf46chV4LX2NELD4toPZNFpUwyS91bxfdwFi9h/Hn8A0FPBUOM5Zb7OGgUjKB1rXpKjL6uXPNi2BygNcX9/8JFaAcaKPl8Yom1JyH2Udq9raHXgErckayJK5kEGd712d5NbbGKuQFRIHwZ0b1Ih8ekAA0z18xemxE5nbQgy0xCCo2Y+RA==;mWNNdDcVtF13drzgItakHw=="
 ---

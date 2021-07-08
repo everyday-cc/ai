@@ -1,18 +1,18 @@
 ---
 category: news
 title: "Reply Shapes the Future of Autonomous Mobile Robots with the Power of Microsoft Azure"
-excerpt: "The solution combines Microsoft Azure services ... Reply integrates Azure Cognitive Services, Machine Learning and DevOps as well as Power Apps and Power BI. Thanks to Azure's intelligent service ..."
-publishedDateTime: 2021-07-06T07:38:00Z
-originalUrl: "https://www.morningstar.com/news/business-wire/20210706005133/reply-shapes-the-future-of-autonomous-mobile-robots-with-the-power-of-microsoft-azure"
-webUrl: "https://www.morningstar.com/news/business-wire/20210706005133/reply-shapes-the-future-of-autonomous-mobile-robots-with-the-power-of-microsoft-azure"
+excerpt: "Reply announced today that it has developed an end-to-end solution architecture for autonomous mobile robots (AMR) on Microsoft Azure that enables new"
+publishedDateTime: 2021-07-06T11:30:00Z
+originalUrl: "https://www.businesswire.com/news/home/20210706005133/en/Reply-Shapes-the-Future-of-Autonomous-Mobile-Robots-with-the-Power-of-Microsoft-Azure"
+webUrl: "https://www.businesswire.com/news/home/20210706005133/en/Reply-Shapes-the-Future-of-Autonomous-Mobile-Robots-with-the-Power-of-Microsoft-Azure"
 type: article
 quality: 27
 heat: -1
 published: false
 
 provider:
-  name: Morningstar%2c Inc.
-  domain: morningstar.com
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
   - Microsoft AI
@@ -95,15 +95,6 @@ related:
         width: 400
         height: 400
         isCached: true
-  - title: "Microsoft experiments with high-end machine learning on Xbox Series X"
-    excerpt: "Microsoft is hiring new software engineers to help create new next-gen machine learning algorithms for Xbox Series X/S consoles."
-    publishedDateTime: 2021-07-03T22:14:00Z
-    webUrl: "https://www.tweaktown.com/news/80371/microsoft-experiments-with-high-end-machine-learning-on-xbox-series/index.html"
-    type: article
-    provider:
-      name: TweakTown
-      domain: tweaktown.com
-    quality: 36
   - title: "Deep Learning Market Size and Growth to 2028 | Key Players – Amazon Web Services (AWS), Google, IBM, Intel, Micron Technology, Microsoft"
     excerpt: "The Deep Learning Market report forecasts promising growth and development for the period 2021-2028. The Deep Learning market research report defines key statistical data presented in an organized format including graphs,"
     publishedDateTime: 2021-07-06T03:55:00Z
@@ -141,6 +132,6 @@ related:
       domain: manometcurrent.com
     quality: 28
 
-secured: "mI3sURvvvnR/TY9b9bPYl5So3xyzwNup+aOFIMpVo+IUlnvo1eAde33MG6CFIV98pzdc4cOpxBqV5dhdW05zMcxJLesCta+b1nIonOQSfLg8lIRAvrblsTTWOGtzHZQitElOkqxvpJeR6kcqXNvjegr9aw94KEy+Zhiva4TkMKmzkZjzZkb0fuvXNcQn2GAKQM8YT/uu0TLMSYuWoFs7PKzAL8D4IwuMQ6283CFsZdTgHS+sln+YF/qTUAlZwR+JIQN8ggcfZYxSggcT6yse5JXh+S4jEmgafeqEn0Xz3smUDGrtlP7ictVg4c/JsQx6sH+GRTXvWA44ATIbrvuTpgqnyqkMDe65Si1gGXXhArs=;pc915OIsv0c8z3qFkEDzjQ=="
+secured: "HwwCULdlFF0P1cgwqiHN+R7VT+DzUwzZu+CstsKoV9MnzzYXG/+DMaSKtdiXHpY9DfRji6wFwTfihTQtwqXltBOF9mcQosjU8/LE4O68hJBakcbOxlLZOlIfvTNESLqojjHXYW4n0tJYRBsja7UKbJYgYBBVvRHfJLIkxDgT3jw3bttfEr/VjOOZt+pheJSruMzFXpEp/QO8xw0FhOkuUlHdWn2iao9K+mxiFZYMnX3PuKTi9YmAkyCmoRPEf5lw2nkb5gxKL+MMxR1w1C2FZXYEVMKB0kT2L+DmIZJEJGmgkmvNoamkf9yjnIfPAtOnWeXP4VeP+wdpOZ16npJPCCDbS2rCVmXgIJ8YytUQ99HIhILGwwGnExxVLtX/ksYpLsgqVDT9Qqe5VBz9Cq6A90WuLwifVVIQj9LUls+rv5TZd4YOoXpq/7stzrHeO2yYVx7/OgxWSYKSuHodV6W3/YsPT1MpUYou3ROsRRMJ3LjlT6m02KIx0TfzdvN+U1Cks8le3ee1ga+zJAUfUMfBVg==;cFS0LC3lmJqDQOXGQJDM3w=="
 ---
 

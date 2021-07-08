@@ -26,11 +26,11 @@ images:
 
 related:
   - title: "Australian shares rise on healthcare, tech boost; Challenger shines"
-    excerpt: "July 7 (Reuters) - Australian shares rose on Wednesday, lifted by the healthcare and technology sectors ... Buy-now-pay-later firm Afterpay advanced 1.4%, while artificial intelligence company Appen rose 2%. Gold stocks gained more than 1% as bullion ..."
-    publishedDateTime: 2021-07-07T07:26:00Z
-    webUrl: "https://www.reuters.com/article/australia-stocks-midday-idUKL3N2OJ04L"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKL3N2OJ04L"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKL3N2OJ04L"
+    excerpt: "Australian shares rose on Wednesday, lifted by the healthcare and technology sectors, while Challenger Ltd jumped after two U.S. companies bought a stake in the investment manager."
+    publishedDateTime: 2021-07-07T00:36:00Z
+    webUrl: "https://www.reuters.com/article/australia-stocks-midday-idUSL3N2OJ04L"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL3N2OJ04L"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL3N2OJ04L"
     type: article
     provider:
       name: Reuters

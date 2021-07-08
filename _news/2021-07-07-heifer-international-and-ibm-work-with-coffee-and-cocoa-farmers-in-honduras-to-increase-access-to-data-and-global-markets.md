@@ -1,18 +1,18 @@
 ---
 category: news
 title: "Heifer International and IBM Work with Coffee and Cocoa Farmers in Honduras to Increase Access to Data and Global Markets"
-excerpt: "Smallholder coffee and cocoa farmers and their cooperatives in Honduras are harnessing the power of technology to access new markets and make better business decisions through IBM Food Trust and IBM Watson Decision Platform for Agriculture,"
-publishedDateTime: 2021-07-07T12:05:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-heifer-international-ibm-work-with-coffee-cocoa-farmers-/2021/07/07/9404133.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-heifer-international-ibm-work-with-coffee-cocoa-farmers-/2021/07/07/9404133.htm"
+excerpt: "Smallholder coffee and cocoa farmers use IBM Food Trust blockchain technology and powerful AI in IBM Watson Decision Platform for Agriculture to improve farm-level decision-making and speed up transactions. WASHINGTON, July 7, 2021 /PRNewswire ..."
+publishedDateTime: 2021-07-07T08:00:00Z
+originalUrl: "https://www.nasdaq.com/press-release/heifer-international-and-ibm-work-with-coffee-and-cocoa-farmers-in-honduras-to"
+webUrl: "https://www.nasdaq.com/press-release/heifer-international-and-ibm-work-with-coffee-and-cocoa-farmers-in-honduras-to"
 type: article
-quality: 0
+quality: 9
 heat: -1
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Nasdaq
+  domain: nasdaq.com
 
 topics:
   - IBM AI
@@ -34,6 +34,6 @@ related:
         height: 801
         isCached: true
 
-secured: "nzthqtf2nERTy0SHxo4sskIoZ4OKjnj+cbvRfT/NOv9ItC/lG1+pJQmzcup5pfDBDkNVOPyGtpBmqaryb81j8ks0WKsFBC+ALdeQfiZIDdZdWS5Dft1uyMdvdxx5asaNLFxG8QJjYEJGSNcb+3PThwZzR6PaRAMIgA847BfnpfyawfZHFG3a8OGtUJ4/Du8m+VQ8kd6nfJ/Oyg0lalqNAQznV+uQ/EsyblzVpUyCh2Er7ZMxcMLGuNAVJ9LOPDzIk5dZirnse8me2ic3sM/fWnYoDsIkvSewWbp0h3u8QIvgWjSfCWXIswf2aL3ipccKySvx8fFuOaAqdKgwuOlKnclvUOTn/w7QRUIjKZkkTkA=;nPSRLFmCRqdALrVymrFP3g=="
+secured: "k5Mq85RR7vkZowDBCCCQQT2opCIJru2cR50rGIqQOmQYrimOVdtWjUmPtW73NKysU+HJ3r7koXXbNT/7LgJaYcR2hWM98ncFUOspbhjChuF4dNQeX5X1rF6UZwmwTfvwV+F/eYTW3Eeo2o5ikp1IjjxFsUe3LQq974XdIkU4xDLAgXd7cyK2gnAxQRUUQh3uJzx2BhDLzTNNq/k3rhViieHWyTgjl11gQK+kdgMBc4mn1P7kN8Ngi8ry+8ZbN5F8Ysr/lozxg/iP6TBWAhiQTW2E9IeR1grIyp59Qiw7B4Rz7yiwcyBRcMPzRT6/ubUcFb+EmWPzt+FcJifjwN0PraixyROyaOd/FNcoHm1Xdqo=;d2wiQ5FJZ4zRaAFSja+Rkg=="
 ---
 

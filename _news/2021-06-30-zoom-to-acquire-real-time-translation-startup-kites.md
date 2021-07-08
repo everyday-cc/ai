@@ -1,16 +1,13 @@
 ---
 category: news
 title: "Zoom to acquire real-time translation startup Kites"
-excerpt: "Zoom on Tuesday said it has signed a deal to acquire Kites, and AI startup focused on developing real-time translation tools. \"We are continuously looking for new ways to deliver happiness to our users and improve meeting productivity,"
-publishedDateTime: 2021-06-30T15:31:00Z
-originalUrl: "https://www.cnet.com/news/zoom-to-acquire-real-time-translation-startup-kites/"
-webUrl: "https://www.cnet.com/news/zoom-to-acquire-real-time-translation-startup-kites/"
+excerpt: "Zoom on Tuesday said it has signed a deal to acquire Kites, an AI startup focused on developing real-time translation tools. With the acquisition, Zoom hopes to \"improve meeting productivity and efficiency\" by adding \"multi-language translation capabilities\" to the video chat service,"
+publishedDateTime: 2021-06-30T15:43:00Z
+originalUrl: "https://www.cnet.com/tech/services-and-software/zoom-to-acquire-real-time-translation-startup-kites/"
+webUrl: "https://www.cnet.com/tech/services-and-software/zoom-to-acquire-real-time-translation-startup-kites/"
 ampWebUrl: "https://www.cnet.com/google-amp/news/zoom-to-acquire-real-time-translation-startup-kites/"
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/zoom-to-acquire-real-time-translation-startup-kites/"
 type: article
-quality: 74
-heat: 134
-published: true
 
 provider:
   name: CNET
@@ -21,8 +18,8 @@ provider:
       height: 50
 
 topics:
-  - AI
   - Natural Language Processing
+  - AI
 
 images:
   - url: "https://www.cnet.com/a/img/Ms_zrkY2ZfQJR7X57i9S6le1_AE=/1200x630/2020/06/29/e721e8fc-6c98-4378-878b-5b350754a3fc/zoom-logo-apple-iphone-11-3436.jpg"
@@ -30,100 +27,6 @@ images:
     height: 630
     isCached: true
 
-related:
-  - title: "Zoom acquires Kites, an AI company building real-time translation"
-    excerpt: "Kites was founded in 2015 in Germany to help professors and students understand lectures in the German language. Although Zoom already has an option for real-time translation, the feature solely is for people speaking English. Zoom’s capital rose up by ..."
-    publishedDateTime: 2021-06-30T15:33:00Z
-    webUrl: "https://www.vertexreport.com/2021/06/zoom-acquires-kites-an-ai-company-building-real-time-translation/"
-    ampWebUrl: "https://www.vertexreport.com/2021/06/zoom-acquires-kites-an-ai-company-building-real-time-translation/amp/"
-    cdnAmpWebUrl: "https://www-vertexreport-com.cdn.ampproject.org/c/s/www.vertexreport.com/2021/06/zoom-acquires-kites-an-ai-company-building-real-time-translation/amp/"
-    type: article
-    provider:
-      name: vertexreport.com
-      domain: vertexreport.com
-    quality: 59
-    images:
-      - url: "https://mlg9p6pktez3.i.optimole.com/ougAwfI.Bokw~29113/w:1000/h:600/q:90/rt:fill/g:ce/https://www.vertexreport.com/wp-content/uploads/2021/05/Zoom.jpg"
-        width: 1000
-        height: 600
-        isCached: true
-  - title: "Zoom announces plans to acquire machine translation start-up Kites"
-    excerpt: "Popular video calling platform Zoom has announced plans to acquire Karlsruhe Information Technology Solutions GmbH, also known as Kites. The German startup specializes in real-time audio translation powered by Machine Learning (ML)."
-    publishedDateTime: 2021-07-01T15:26:00Z
-    webUrl: "https://www.newsbytesapp.com/news/science/zoom-reveals-plans-to-acquire-machine-translation-startup/story"
-    ampWebUrl: "https://www.newsbytesapp.com/news/science/zoom-reveals-plans-to-acquire-machine-translation-startup/story/amp"
-    cdnAmpWebUrl: "https://www-newsbytesapp-com.cdn.ampproject.org/c/s/www.newsbytesapp.com/news/science/zoom-reveals-plans-to-acquire-machine-translation-startup/story/amp"
-    type: article
-    provider:
-      name: newsbytesapp.com
-      domain: newsbytesapp.com
-    quality: 59
-    images:
-      - url: "https://i.cdn.newsbytesapp.com/images/l99920210630113017.jpeg"
-        width: 1440
-        height: 810
-        isCached: true
-  - title: "Zoom will have automatic translation in real time to videoconferences after buying the company Kites"
-    excerpt: "Video calling platform Zoom bought a German startup specializing in language translation using Artificial Intelligence."
-    publishedDateTime: 2021-07-02T20:02:00Z
-    webUrl: "https://www.entrepreneur.com/article/376378"
-    ampWebUrl: "https://www.entrepreneur.com/amphtml/376378"
-    cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/376378"
-    type: article
-    provider:
-      name: Entrepreneur
-      domain: entrepreneur.com
-    quality: 59
-    images:
-      - url: "https://assets.entrepreneur.com/content/3x2/2000/1625256159-Jul2ZoomtraduccinentiemporealvideoconferenciastrascomprarempresaKites.jpg?width=600&crop=16:9"
-        width: 600
-        height: 338
-        isCached: true
-  - title: "Zoom buys real-time translation AI firm Kites, to expand service beyond English language"
-    excerpt: "Zoom already has real-time transcriptions, but it's limited to people who are talking in English. On a support page, Zoom also makes it clear that its current live transcription feature may not meet certain accuracy requirements."
-    publishedDateTime: 2021-07-01T03:08:00Z
-    webUrl: "https://tech.hindustantimes.com/tech/news/zoom-buys-real-time-translation-ai-firm-kites-to-expand-service-beyond-english-language-71625108322768.html"
-    ampWebUrl: "https://tech.hindustantimes.com/amp/tech/news/zoom-buys-real-time-translation-ai-firm-kites-to-expand-service-beyond-english-language-71625108322768.html"
-    cdnAmpWebUrl: "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/tech/news/zoom-buys-real-time-translation-ai-firm-kites-to-expand-service-beyond-english-language-71625108322768.html"
-    type: article
-    provider:
-      name: Hindustan Times
-      domain: hindustantimes.com
-    quality: 50
-    images:
-      - url: "https://images.hindustantimes.com/tech/img/2021/07/01/1600x900/372116270_0-3_1622598739798_1625108547211.jpg"
-        width: 1600
-        height: 900
-        isCached: true
-  - title: "Zoom acquires real-time translation AI company, Kites"
-    excerpt: "Zoom has acquired a real-time Machine Translation solutions company, Kites which is short for Karlsruhe Information Technology Solutions."
-    publishedDateTime: 2021-07-01T06:58:00Z
-    webUrl: "https://techstory.in/zoom-acquires-real-time-translation-ai-company-kites/"
-    type: article
-    provider:
-      name: tech
-      domain: techstory.in
-    quality: 39
-    images:
-      - url: "https://techstory.in/wp-content/uploads/2021/07/iStock-1225232811.jpg"
-        width: 1254
-        height: 836
-        isCached: true
-  - title: "Zoom buys AI company that worked on real-time translation"
-    excerpt: "Proprietary video teleconferencing platform recently announced that it acquiring a company known as Kites short for Karlsruhe Information Technology Solution"
-    publishedDateTime: 2021-06-30T19:13:00Z
-    webUrl: "https://www.bignewsnetwork.com/news/270118590/zoom-buys-ai-company-that-worked-on-real-time-translation"
-    type: article
-    provider:
-      name: Big News Network.com
-      domain: bignewsnetwork.com
-    quality: 39
-    images:
-      - url: "https://cdn.bignewsnetwork.com/ani1625077312.jpg"
-        width: 630
-        height: 420
-        isCached: true
-
-secured: "nLB/mOyzHa/Qnhuq5FtqKHM0RR/FAm+se/cjyAo8IpFL1j/fjFolD/7NORPA0BLEYkK7ea3o1wuAEMVNBnQdKSpKz2l6ihhddJ0mAULzhMeb9iiyMSgBUxte+j+pZhzNqOZdczlV+spDRQKjmXexYHFhvvxwkh+/z6hifLfVeqg59123xRcN4K4PwY5N+xl1v2/A/l6DNORajwo6BNvijKhNu35ZZd/ViXwxcgtLUDO8zlrN+4aOX+nxWxvGrNggdjiD3CYULUZaX5EJXxmzUUkPHDHx9RfjLtyfNNjvA6C/xbtHCCOTRL+9SiO+eZNEaHngmkPs3iaSGmCXpyD8pLA7EA4NeRNQpATrnFCQkCJx9Iv9zpxq8Z+0BiE1ljyr1VqMkjpzb2r/CRCh7LkodjMQwLX1k/3ZwSxVYYdiYyzKz2jT7roGzwhnq5ArxVmQsjXbw1N32Jx5AS37vpWUAp82zqzU3Gq6dD6dv9nz5GPllcV7CHqtF2yQg1obQS9cDsjr0czoZKrBtgkCbVFOyA==;16VhwW1WQfs0A+v2YrAAMw=="
+secured: "a7w02z6TcdQKBBI8lUIVLbzOMqd3OiEyPH0xPgFlvq3X5gMrrnyn+BE8rDzTEPvq5Lh7k54CPQH7hmiGu/TiMNvEMYTsCc6tghUa9aSS0kEH4ASEu0840xp1fkOde4k0zs5uJ0dqgGA0/vlfbYsknbQSZeZWdEGD0/lnAyPlFs6rHTlOYBlhPz4ibxM6GSCb+/yHOcDUuziXwHm2yfvQPRtTo3voTGSifwZG2YfXyE6NtrGS+ogFhgXQAdBRuwGdnQ0w7HS0Fj9a4+YAdnHjuzDBwAo0wQtnaQqzOwjkd8WZw0AtxGwjxl5pJSVmzo8eStlPX3N5IG+ysJyG13Qb2girJGnwmqTsRFqvmDXwGBE=;G1bNMY1DCikf+NRkM9xt6g=="
 ---
 

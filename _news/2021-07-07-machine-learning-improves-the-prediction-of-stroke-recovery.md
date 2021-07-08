@@ -41,6 +41,22 @@ related:
         width: 300
         height: 233
         isCached: true
+  - title: "Machine-learning improves the prediction of stroke recovery"
+    excerpt: "When blood flow to the brain is somehow reduced or restricted, a person can suffer a stroke. Stroke is fairly common; in Europe alone, there are over 1.5 million new cases each year."
+    publishedDateTime: 2021-07-08T15:23:00Z
+    webUrl: "https://medicalxpress.com/news/2021-07-machine-learning-recovery.html"
+    ampWebUrl: "https://medicalxpress.com/news/2021-07-machine-learning-recovery.amp"
+    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-07-machine-learning-recovery.amp"
+    type: article
+    provider:
+      name: Medical Xpress
+      domain: medicalxpress.com
+    quality: 44
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/machine-learning-impro.jpg"
+        width: 2880
+        height: 1920
+        isCached: true
   - title: "Researchers achieve improved prediction of Indian Monsoon onset using machine learning"
     excerpt: "The onset of the Indian summer monsoon has been predicted three months ahead for the last 40 years with the highest precision up until today. The result indicates longer seasonal forecasts based on machine learning may be a way to mitigate the consequences of an erratic monsoon system under future global warming."
     publishedDateTime: 2021-07-06T20:13:00Z

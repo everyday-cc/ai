@@ -9,7 +9,7 @@ ampWebUrl: "https://electrek.co/2021/07/07/hacker-tesla-full-self-drivings-visio
 cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/07/07/hacker-tesla-full-self-drivings-vision-depth-perception-neural-net-can-see/amp/"
 type: article
 quality: 83
-heat: 123
+heat: 133
 published: true
 
 provider:
@@ -93,6 +93,20 @@ related:
       - url: "https://cdn.redmondpie.com/wp-content/uploads/2018/03/Tesla-main-1200.jpg"
         width: 1200
         height: 700
+        isCached: true
+  - title: "Elon Musk Says Tesla’s ‘Mind-Blowing’ Full Self-Driving Beta v9 Will Arrive This Saturday"
+    excerpt: "Elon Musk says that Tesla's 'mind blowing' Full Self-Driving beta v9 update will arrive this Saturday. Here are all the details on this."
+    publishedDateTime: 2021-07-08T14:26:00Z
+    webUrl: "https://www.redmondpie.com/elon-musk-says-teslas-mind-blowing-full-self-driving-beta-v9-will-arrive-this-saturday/"
+    type: article
+    provider:
+      name: Redmond Pie
+      domain: redmondpie.com
+    quality: 30
+    images:
+      - url: "https://cdn.redmondpie.com/wp-content/uploads/2021/02/tesla-model-s-pre-2018.jpg"
+        width: 1200
+        height: 640
         isCached: true
 
 secured: "ZkQRM9m0RmgB2MAkonM57wgmMBvw72cTeD8mPq5F/y6E1fMbOQtCU3qXNLAzsMfGcuIg6Gpkd/13ZLUimzm0c2jN8ZhYgvtpU72WV3o/L1BtmPhkQu+bFZWykDOov4MGufMIuBe90hqN1AY/5bAmtRueEagwpcE57c6va4Nlnzht7sEQKjfxTdDYvEpAvezsHeWyaEzMaXQIAXdVzoBsv92ClR40TV3WwDu+AF68KVMUgQH0ub5cgOrdBRahnmY37rC001fTyjHX7Adw98+5t6bSBl5lUlUpJ2JcQvkH4mvGwRLa69dLe3qNhzpu3WsECDBajtbt1+hA2vaiWV9o7aeIABBCXBkSJFXgBpOl0OE/aUULElRQANX9Eb5unVgMUeDWYSJiLj0IkTUYyld3AsufON7vC7sHcc+5q3Df2XI17J1DW7EXBh4cidawz3X+XWW8+8NsCmShbUAfbXK8xEeWol/xrmhk840qkd3VRtUdwn+ZLVBAsPGz58Phi9IFSCn5PPLiwQG27KNPcL2EXQ==;Gt93tM7PspG//9Y5trNpSA=="

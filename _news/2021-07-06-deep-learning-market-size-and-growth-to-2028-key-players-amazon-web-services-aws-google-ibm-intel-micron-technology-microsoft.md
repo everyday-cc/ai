@@ -97,15 +97,6 @@ related:
         width: 400
         height: 400
         isCached: true
-  - title: "Microsoft experiments with high-end machine learning on Xbox Series X"
-    excerpt: "Microsoft is hiring new software engineers to help create new next-gen machine learning algorithms for Xbox Series X/S consoles."
-    publishedDateTime: 2021-07-03T22:14:00Z
-    webUrl: "https://www.tweaktown.com/news/80371/microsoft-experiments-with-high-end-machine-learning-on-xbox-series/index.html"
-    type: article
-    provider:
-      name: TweakTown
-      domain: tweaktown.com
-    quality: 36
   - title: "Artificial Intelligence in Healthcare Market 2021 Updated Report || Top Players – Intel, IBM, Google, Microsoft, General Vision"
     excerpt: "Artificial Intelligence in Healthcare Market 2021 Updated Report \\|\\| Top Players – Intel, IBM, Google, Microsoft, General Vision; Surgical Planning Software Market"
     publishedDateTime: 2021-07-05T18:47:00Z
@@ -134,13 +125,13 @@ related:
       domain: manometcurrent.com
     quality: 28
   - title: "Reply Shapes the Future of Autonomous Mobile Robots with the Power of Microsoft Azure"
-    excerpt: "The solution combines Microsoft Azure services ... Reply integrates Azure Cognitive Services, Machine Learning and DevOps as well as Power Apps and Power BI. Thanks to Azure's intelligent service ..."
-    publishedDateTime: 2021-07-06T07:38:00Z
-    webUrl: "https://www.morningstar.com/news/business-wire/20210706005133/reply-shapes-the-future-of-autonomous-mobile-robots-with-the-power-of-microsoft-azure"
+    excerpt: "Reply announced today that it has developed an end-to-end solution architecture for autonomous mobile robots (AMR) on Microsoft Azure that enables new"
+    publishedDateTime: 2021-07-06T11:30:00Z
+    webUrl: "https://www.businesswire.com/news/home/20210706005133/en/Reply-Shapes-the-Future-of-Autonomous-Mobile-Robots-with-the-Power-of-Microsoft-Azure"
     type: article
     provider:
-      name: Morningstar%2c Inc.
-      domain: morningstar.com
+      name: Business Wire
+      domain: businesswire.com
     quality: 27
 
 secured: "7IB8o80b2m6FbY6+Gvm0rx6oR5u4qFPHgqAsr9RZcixRce2+jpfrd95ddWFFBqgDVP51MdG04K28AQCXU3Rjx96PcsEQWbOVBW7/6o2V/tLVyrLVeGIZ3X9neCr0bnszkH21lMrgQPB/aM4keO0WCP3xi20SU/z8xmpSw6wr5qkWciODjzegMczzEeakavgHUHBNtLc95p/N59aqTUG1UuF+GOqQtCmBJy/ZB9XwDwbnpmc4rHj+yExfHUON6rmSlL5B1eVhKuSPoH5CNEw2x8A2AeFUjAWHtTOMnePLIOkIYY3Rd5tKTBXDsMZ0e4MWPUOwl/1QrwIOMCwSgcJbc4SYeIQM6Z3KJPeZQnivdpxgAMxdCC3bZyLSLheEjfwVdVQav3T+OZZlWxO0VKzSyQaoXg0kiG5eOR0OD228LXw0351AU8/R8lPDxtSfIZVa9Z2fjylUiRlJ9D6f5PC36ddtT5TDf2OCDPAUFWug1XP2WM4TeIYIzxLtNc2nPTaVZD1yj5qC+y2Nn7hGi6dBig==;jsnnKAW21igalHiNTPSpFg=="

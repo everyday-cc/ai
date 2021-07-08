@@ -1,23 +1,29 @@
 ---
 category: news
 title: "Qumulo Expands Cloud Q Offering with Qumulo on Azure as a Service"
-excerpt: "and AI-driven analytics, with the simplicity and flexibility of the Qumulo platform, combined with the scale and power of Microsoft Azure’s cloud resources. “Qumulo on Azure as a Service eliminates the trade-offs customers face in building at scale ..."
-publishedDateTime: 2021-07-07T15:06:00Z
-originalUrl: "https://insidehpc.com/2021/07/qumulo-expands-cloud-q-offering-with-qumulo-on-azure-as-a-service/"
-webUrl: "https://insidehpc.com/2021/07/qumulo-expands-cloud-q-offering-with-qumulo-on-azure-as-a-service/"
+excerpt: "Qumulo, the breakthrough leader in radically simplifying enterprise unstructured data management across hybrid-cloud environments, today announced the public launch of Qumulo® on Azure as a Service (QaaS),"
+publishedDateTime: 2021-07-07T13:13:00Z
+originalUrl: "https://financialit.net/news/cloud/qumulo-expands-cloud-q-offering-qumulo-azure-service"
+webUrl: "https://financialit.net/news/cloud/qumulo-expands-cloud-q-offering-qumulo-azure-service"
 type: article
-quality: 19
-heat: 19
+quality: 39
+heat: 39
 published: false
 
 provider:
-  name: insideHPC
-  domain: insidehpc.com
+  name: Financial IT
+  domain: financialit.net
 
 topics:
   - Microsoft AI
   - AI
 
-secured: "AJ++NsALN3GnzdV3FkM2y9HG7j3ejHsfSmSBt9YhEepFLfMZVXSfF+4i+OzSxP+KyUvumsZ0/BSF5vREdRaozcC/pqP3wTR0iuX6jH1mxDk+ZTvoi0N4jBYW/oNOPAEfykrDohVqMSXCQ+CzEmS1N9G/YVlqXA/zNzBC0ZKs9QPpiJqfy9pWP4pawmpUICVxaFIb8PrF/Py9QdOGm8hpgXu9vdDljlqDTDoL8qSXOu+JIcBxAqAggwlM0chYHQwrll9BElm4r6UQHKI5ObasCdleMSz6FE2hSqGoudLBIU/4pfBhXehi2CS2DS8Y9m43CITl/Z8w0gGhGr7YBLa90s98NNHAcefVlChfmf8EdgE=;xT3ghq7CKABFUdj4/vAt4g=="
+images:
+  - url: "https://financialit.net/sites/default/files/logo-example-color-dark.png"
+    width: 1174
+    height: 840
+    isCached: true
+
+secured: "FOwIN68taPmyvG2aOtWZGJVzzZoqqHHDbNpNBQ5v+KlRfEEGGa0R5XS7iQF6UIdpFt+c5mKk0ciS3jxKSwAxuJ3kvhKrxLQAbMbizX+5iTIF7Ujls2uUG6fryNtN4/XNR2Dk7wqEAjdOKGx4FuiA/i2LDEKjQfiSwT0G2CUmPiKqvr6C+bjJQhlUQ83s+7OBkRifzmjUwdx304AFtYdHRacfq2qdj0wKGz+3K/hgm+xqSLWAYvfwvA/iH6lL7Ut7wBUISHO1DXdtLxo56uOJp82FPmxF6d07TS7xX4dk73dURbu0DUDJAn4BAJ5KqVG4tU62npa9/xc/ofS5CH3qx6EL8oIvPhIWCixjO20IbDk=;chgKVdpyRbRNAiW+EwNJ7A=="
 ---
 

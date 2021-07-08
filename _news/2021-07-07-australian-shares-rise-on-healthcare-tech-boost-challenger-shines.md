@@ -1,12 +1,12 @@
 ---
 category: news
 title: "Australian shares rise on healthcare, tech boost; Challenger shines"
-excerpt: "July 7 (Reuters) - Australian shares rose on Wednesday, lifted by the healthcare and technology sectors ... Buy-now-pay-later firm Afterpay advanced 1.4%, while artificial intelligence company Appen rose 2%. Gold stocks gained more than 1% as bullion ..."
-publishedDateTime: 2021-07-07T07:26:00Z
-originalUrl: "https://www.reuters.com/article/australia-stocks-midday-idUKL3N2OJ04L"
-webUrl: "https://www.reuters.com/article/australia-stocks-midday-idUKL3N2OJ04L"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idUKL3N2OJ04L"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKL3N2OJ04L"
+excerpt: "Australian shares rose on Wednesday, lifted by the healthcare and technology sectors, while Challenger Ltd jumped after two U.S. companies bought a stake in the investment manager."
+publishedDateTime: 2021-07-07T00:36:00Z
+originalUrl: "https://www.reuters.com/article/australia-stocks-midday-idUSL3N2OJ04L"
+webUrl: "https://www.reuters.com/article/australia-stocks-midday-idUSL3N2OJ04L"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL3N2OJ04L"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL3N2OJ04L"
 type: article
 quality: 69
 heat: 89
@@ -51,6 +51,6 @@ related:
       domain: smh.com.au
     quality: 24
 
-secured: "VLGx1w+wa+E7RrZCuDaEsckT0XxYsTbEUxGU5O2rnJTnbmgRPb7zZA/IFsQy2eihAje8A4Bs8QjYfH3AUi3jeIMynvhrHWUyhUdTpcZTnGfcmalvyrlWphtkNjZ/rxyUkaIVhHkx+YsbdnqQKx+knXo7hvJErolaWAbY7w+pwqFnkSDN8Xc6Juhhy9bhz5HMCJsjnEK80Tj2/vwdfUYWJ3DOQ0cJA8Wo1utyuOvC6hqk+RZL/QuSURroecd0WsPBN3kWZk9JG1qd3qmBGW8sv1FNRwWOhV9PBa4yfg8EQd7qdS9kViBq/VipOA276GpFajZSborfbUSIn0iHvWrSRtE5k29UMaFFbvrJkGJt3+0=;ypGok0M/f3G35IKtc15onA=="
+secured: "WFLp2nxzKPIfYQH37JAnMPiQPE7GbUDoHNTmT8BTY0ioxNttrknKDm6FFSip10eVTKmOAhygY2OLCYJhDX6O5xvnhdNdkcLk52X7H11LMvXZm2zBd180yciJwvsQ8477Ob7tTKQi/7kYXAEERJ9HkVM/6+N4EDm/1e3h1hdFNupPFPZ93x3RqE9hknqsi4r/8phAGBmLxuryeQQ3fWNDxm0AISkr+2A0sVlpLbbWlQA63MTHR/mc++nBeLIFqCFQuhlT9qZYf90nG5aJTj+jxmzImT7EQqieVWlcRnUhgqa21rAtoDGQxkHm6VNF5VFLtPJ/duDgY0/4/0upzYAwY4phk8zdnUt1/KuKehp4srg=;F7q6R7FXvL34zNpsrtMy2w=="
 ---
 

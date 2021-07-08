@@ -95,15 +95,6 @@ related:
         width: 400
         height: 400
         isCached: true
-  - title: "Microsoft experiments with high-end machine learning on Xbox Series X"
-    excerpt: "Microsoft is hiring new software engineers to help create new next-gen machine learning algorithms for Xbox Series X/S consoles."
-    publishedDateTime: 2021-07-03T22:14:00Z
-    webUrl: "https://www.tweaktown.com/news/80371/microsoft-experiments-with-high-end-machine-learning-on-xbox-series/index.html"
-    type: article
-    provider:
-      name: TweakTown
-      domain: tweaktown.com
-    quality: 36
   - title: "Deep Learning Market Size and Growth to 2028 | Key Players – Amazon Web Services (AWS), Google, IBM, Intel, Micron Technology, Microsoft"
     excerpt: "The Deep Learning Market report forecasts promising growth and development for the period 2021-2028. The Deep Learning market research report defines key statistical data presented in an organized format including graphs,"
     publishedDateTime: 2021-07-06T03:55:00Z
@@ -132,13 +123,13 @@ related:
       domain: manometcurrent.com
     quality: 28
   - title: "Reply Shapes the Future of Autonomous Mobile Robots with the Power of Microsoft Azure"
-    excerpt: "The solution combines Microsoft Azure services ... Reply integrates Azure Cognitive Services, Machine Learning and DevOps as well as Power Apps and Power BI. Thanks to Azure's intelligent service ..."
-    publishedDateTime: 2021-07-06T07:38:00Z
-    webUrl: "https://www.morningstar.com/news/business-wire/20210706005133/reply-shapes-the-future-of-autonomous-mobile-robots-with-the-power-of-microsoft-azure"
+    excerpt: "Reply announced today that it has developed an end-to-end solution architecture for autonomous mobile robots (AMR) on Microsoft Azure that enables new"
+    publishedDateTime: 2021-07-06T11:30:00Z
+    webUrl: "https://www.businesswire.com/news/home/20210706005133/en/Reply-Shapes-the-Future-of-Autonomous-Mobile-Robots-with-the-Power-of-Microsoft-Azure"
     type: article
     provider:
-      name: Morningstar%2c Inc.
-      domain: morningstar.com
+      name: Business Wire
+      domain: businesswire.com
     quality: 27
 
 secured: "qgrSN1rDe3ktkKsfxNBRwOUCJ0asM9YbL0kDQtMN5XmZhzxQRkzHSy/W4lCzxkq3FKouoUc04DloFlMggMQ1p+LGpUcPFjFcXG/rxYPHp21vlUp7A1SA9S9mze/xg2brEx+H/AtqTlQMguqws4qozZi+Z5hwPZfduupxnXUqPMurB33Ph/ZxvtpTa3uu8HNQn06bXaCctSgpxwp55RMmV15ZzTA76tPwSmlfsjDIzQQW3TfNsB0CCJcO4TylYtyOmIKhlK5FdIl06S38NNHjgtUnMjed1ULjLWXkYiyP+8WCe9nVyUzNuM+m6cxB/9hJGfBttlXjjMlAloUEBCgD0FF/xXc86ddY8rtedXmHok8=;5dr88tfnfKFapzdv7TrDOQ=="

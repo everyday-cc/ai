@@ -1,23 +1,29 @@
 ---
 category: news
 title: "Protenus and UC Davis Health Present at HIMSS21 on Leveraging Artificial Intelligence to Reduce Risk and Save Money"
-excerpt: "Healthcare organizations across the U.S. are struggling to protect their patients and workforce from unnecessary harm, as health data breaches and clinical drug diversion remain a constant threat, especially during the COVID-19 pandemic,"
-publishedDateTime: 2021-07-06T13:06:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-protenus-uc-davis-health-present-himss21-leveraging-artificial-/2021/07/06/9403372.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-protenus-uc-davis-health-present-himss21-leveraging-artificial-/2021/07/06/9403372.htm"
+excerpt: "Nick Culbertson, Protenus CEO, and Alessia Shahrokh, UC Davis Health Compliance Investigations Manager, discuss best practices to proactively identify and prevent risk across the health system. BALTIMORE – July 6,"
+publishedDateTime: 2021-07-06T13:51:00Z
+originalUrl: "https://www.digitaljournal.com/pr/protenus-and-uc-davis-health-present-at-himss21-on-leveraging-artificial-intelligence-to-reduce-risk-and-save-money"
+webUrl: "https://www.digitaljournal.com/pr/protenus-and-uc-davis-health-present-at-himss21-on-leveraging-artificial-intelligence-to-reduce-risk-and-save-money"
 type: article
-quality: 0
-heat: 0
+quality: 17
+heat: 17
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Digital Journal
+  domain: digitaljournal.com
 
 topics:
   - AI in Healthcare
   - AI
 
-secured: "JD81PfS44GetfatJIpQ5c+XHmNN9qv1ZPjGJwkv8yszhKhsUOYHE4Kiy8HrUfBhDPRkf2D5GU3LZy6INY8ytHc37NVbQeYJec/CjbSI7QqNdldFI+5AX28kCpFCo3ey2/fs4pmSHJerXDt/oA1GhjQRf/bNeVO52azWkliIHDeROPWpPpwQJDgc52de9T/b06PeqF7+ckNBOq98yqfx1LTFAR21eVB3an5kS3RaGqPrNkLz9MQ4sahnFW/vmzBa0ATMTFU4zEKC7LST4etyYCLmySnlvOTPVotAhYwPONpcPWACPK4Ua28C2tAAZkzW38UMSkAbjxQiNgWtEO+G9kMhWvGWgYdj1HGOaXphmZZw=;LomBVFxt5x4s/d7vAk8huA=="
+images:
+  - url: "https://www.digitaljournal.com/wp-content/uploads/2021/07/London-Symphony-Orchestra-free-concert-600x337.jpeg"
+    width: 600
+    height: 337
+    isCached: true
+
+secured: "b4HcsZF3kikuiAUnRA341NAZXge54qVQY5HD1HCgcLiEKCE+vNpfEKp+/cMOwdVtfmkP+4CBVInajvr1kLlWUryPNDtBrCBcL5IjDze9boMxhJY5PInfriSSwio4ZFmpgihHj2p+7reipwGYOiYvCFrbrCjOI2XWDOGqRr+U0l/B3b/MZNBTV0mZU0OMTtMBm7+dbAWzJIOOlKHos4gjxh2Qy8OhHXygfSaDb1FiW5Zbm91bxlBPUKrAox6ol2aVDIiHildy0XOk9Wxw8sUori6dvQmmM5SF8pNK1V81WITAJ2ZtS8v0M18b5RH72c/CSa44e5Ph8EcebL9tbEE2gnZmQnFEbgnOzmBly3LYCjw=;I1n5F/T1URIbjYeyDWmlDw=="
 ---
 
