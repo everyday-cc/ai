@@ -75,7 +75,7 @@ related:
     provider:
       name: Analytics India Magazine
       domain: analyticsindiamag.com
-    quality: 56
+    quality: 58
     images:
       - url: "https://analyticsindiamag.com/wp-content/uploads/2021/07/maxresdefault.jpg"
         width: 1280
@@ -131,6 +131,24 @@ related:
       name: Business Wire
       domain: businesswire.com
     quality: 27
+  - title: "AI in Telecommunication Market Booming Segments; Investors Seeking Growth | Google, Microsoft, IBM"
+    excerpt: "Get Free Exclusive PDF Sample Copy of This Research @  Scope of the Report of AI in Telecommunication Artificial Intelligence with learning abilities is a revolutionary technology, which the communication industry is exploring,"
+    publishedDateTime: 2021-07-08T16:59:00Z
+    webUrl: "https://manometcurrent.com/ai-in-telecommunication-market-booming-segments-investors-seeking-growth-google-microsoft-ibm/"
+    type: article
+    provider:
+      name: manometcurrent.com
+      domain: manometcurrent.com
+    quality: 20
+  - title: "CIBC and Microsoft announce strategic relationship to accelerate the bank's transformation and cloud-first approach"
+    excerpt: "CNW/ - Today CIBC and Microsoft announced a strategic relationship through a multi-year agreement formalizing Microsoft Azure as CIBC's primary cloud platform. CIBC's cloud-first approach will be enabled by Microsoft Azure's vast on-demand computing power,"
+    publishedDateTime: 2021-07-08T17:15:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-cibc-microsoft-announce-strategic-relationship-accelerate-banks-transformation-/2021/07/08/9405628.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 14
 
 secured: "qgrSN1rDe3ktkKsfxNBRwOUCJ0asM9YbL0kDQtMN5XmZhzxQRkzHSy/W4lCzxkq3FKouoUc04DloFlMggMQ1p+LGpUcPFjFcXG/rxYPHp21vlUp7A1SA9S9mze/xg2brEx+H/AtqTlQMguqws4qozZi+Z5hwPZfduupxnXUqPMurB33Ph/ZxvtpTa3uu8HNQn06bXaCctSgpxwp55RMmV15ZzTA76tPwSmlfsjDIzQQW3TfNsB0CCJcO4TylYtyOmIKhlK5FdIl06S38NNHjgtUnMjed1ULjLWXkYiyP+8WCe9nVyUzNuM+m6cxB/9hJGfBttlXjjMlAloUEBCgD0FF/xXc86ddY8rtedXmHok8=;5dr88tfnfKFapzdv7TrDOQ=="
 ---

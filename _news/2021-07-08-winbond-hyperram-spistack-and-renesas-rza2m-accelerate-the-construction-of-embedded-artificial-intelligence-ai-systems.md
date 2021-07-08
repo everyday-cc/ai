@@ -1,22 +1,18 @@
 ---
 category: news
 title: "Winbond HyperRAM™ & SpiStack® and Renesas RZ/A2M accelerate the construction of embedded artificial intelligence (AI) systems"
-excerpt: "TAICHUNG, Taiwan and YOKOHAMA, Japan, July 8, 2021 /PRNewswire/ -- Winbond Electronics Corporation, a leading global supplier of semiconductor"
-publishedDateTime: 2021-07-08T15:13:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/winbond-hyperram-spistack-and-renesas-rz-a2m-accelerate-the-construction-of-embedded-artificial-intelligence-ai-systems-1030590492"
-webUrl: "https://markets.businessinsider.com/news/stocks/winbond-hyperram-spistack-and-renesas-rz-a2m-accelerate-the-construction-of-embedded-artificial-intelligence-ai-systems-1030590492"
+excerpt: "TAICHUNG, Taiwan and YOKOHAMA, Japan, July 8, 2021 /PRNewswire/ -- Winbond Electronics Corporation, a leading global supplier of semiconductor memory solutions, announced today the official confirmation that its HyperRAM™ and SpiStack ® (NOR+NAND) can be operated with Renesas' RZ/A2M Arm ® -based microprocessors (MPUs)."
+publishedDateTime: 2021-07-08T15:05:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/2021/07/08/9405515.htm"
+webUrl: "https://www.tmcnet.com/usubmit/2021/07/08/9405515.htm"
 type: article
-quality: 55
-heat: 55
+quality: 25
+heat: 25
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI
@@ -27,6 +23,6 @@ images:
     height: 286
     isCached: true
 
-secured: "Yo3ktjGI2HRjPZjD9Fe0w0DDMfZLS145iWbEJJj0gpwuEzhk0rijAHo71V/R6G7nHO1vDE3kVBAxksCeDEjXzmH5WOltcfnvlS3tqsIU3HhO4fzs4Uqdz/IGrlmDBUX2cLsUbqSfayvGI6OBBLHt5CGW5CAhyJ9Ew9mJtLHiDeEJ8ZluVEJJaXSCwwgFRSuqncm6ZJ/XL59BQHb/cN8JeIVB3yuxRQFdzupNgSJ+BpIxvjm4ueub77HmZr3AEa4wFFJDeF1qJ3Y3S9Db4J7jGdgiZVMrKz0RbZtIp7W8XTpll2XfWxkY8cgD8NuA0FRZdu+kSa2UChQ8dx6XRrURgUafrmXO4i0D4S1FlFpzUgg=;9EFuPYJOaYcQeh0kS0hQ6Q=="
+secured: "lW3GuCfxvev/HzxIQDqKfpFZ0/LPffpWnvxUOKMacFJ1BlxqhrTgYVDlj4GwUKsLSAAf5gerVharqAC3ZyLfcijl5rEd9gTlvBDJqOM/LuxNCyjKy4tyjGD/zfSk5AcS+Bwf9jA+llagkzsxt+pegu4YNV4GEn/xQ5bL/y5EYEGEwxLGVrUHExoq0go2Mmc28GdiUDP3HbHEoWm7d0EAhZFvxjGE2iHFUvY1VJc1L98pwxwArf9XD6794R/YIlbs7iYoFoRpTxym+hheWV4ml1DewUwHgccneEMa8xP5g81nRRd6EcbTNah/O0JxxmnCcACN51umj45muUOfPyfd9/7k9Ezuz3sNwUyLxJb8Bqg=;/5KrCtuJnAbr9+ctSz9N3A=="
 ---
 

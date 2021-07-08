@@ -61,6 +61,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Global Healthcare AI Startups Development and Deployment Strategies Report 2021 - ResearchAndMarkets.com"
+    excerpt: "The “Development of Global Healthcare AI Startups and Their Deployment Strategies” report has been added to ResearchAndMarkets.com’s offering. This report provides an overview of the development of healthcare AI startups by compiling the amount of capital raised by AI startups and the number of AI startups in different sub-sectors;"
+    publishedDateTime: 2021-07-08T14:37:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/e1e2076e603943459d6db2c8afbcbfbd"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 37
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
 secured: "Zog5TnC3nl8LrvEGxghOJI/u/pH/nMSwAevbAr8tH6pCXK4nsZ2g6c/bAAlc4k95imN9mpxl/jbuPuJu8EXQT1RJ/1vx3NwhTvtQOkH1t1MOy5ju+m4hF06w05ggOSoTti7L9W2GhIEtQPlqvsYDwo9GwN9NBqowsqEX7y8eeX05vuk22YsxCYvAINE+IPrEy++IxiktRYYF9QOCPuGzufJRmQlz0nA8KvVt2seLvq89NMu8V7d4BUBID6ufvsu2yWT6kpOXfv+DGCpyHAUeGiRmKL8mVBivKPDu42S6KDsxQFR2V+qfidRTBMKO96D7uIDFeq2qIV49Rd8zmeUzQlpA8h7YtrwV7tdIa0smsFc=;GuWsrMILvWBvJYNugnN9jA=="
 ---

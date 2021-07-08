@@ -6,7 +6,7 @@ publishedDateTime: 2021-07-08T12:30:00Z
 originalUrl: "https://analyticsindiamag.com/microsoft-launches-free-machine-learning-course-for-beginners/"
 webUrl: "https://analyticsindiamag.com/microsoft-launches-free-machine-learning-course-for-beginners/"
 type: article
-quality: 56
+quality: 58
 heat: -1
 published: false
 
@@ -18,6 +18,7 @@ topics:
   - Machine Learning
   - AI
   - Microsoft AI
+  - AI in Finance
 
 images:
   - url: "https://analyticsindiamag.com/wp-content/uploads/2021/07/maxresdefault.jpg"
@@ -133,6 +134,24 @@ related:
       name: Business Wire
       domain: businesswire.com
     quality: 27
+  - title: "AI in Telecommunication Market Booming Segments; Investors Seeking Growth | Google, Microsoft, IBM"
+    excerpt: "Get Free Exclusive PDF Sample Copy of This Research @  Scope of the Report of AI in Telecommunication Artificial Intelligence with learning abilities is a revolutionary technology, which the communication industry is exploring,"
+    publishedDateTime: 2021-07-08T16:59:00Z
+    webUrl: "https://manometcurrent.com/ai-in-telecommunication-market-booming-segments-investors-seeking-growth-google-microsoft-ibm/"
+    type: article
+    provider:
+      name: manometcurrent.com
+      domain: manometcurrent.com
+    quality: 20
+  - title: "CIBC and Microsoft announce strategic relationship to accelerate the bank's transformation and cloud-first approach"
+    excerpt: "CNW/ - Today CIBC and Microsoft announced a strategic relationship through a multi-year agreement formalizing Microsoft Azure as CIBC's primary cloud platform. CIBC's cloud-first approach will be enabled by Microsoft Azure's vast on-demand computing power,"
+    publishedDateTime: 2021-07-08T17:15:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-cibc-microsoft-announce-strategic-relationship-accelerate-banks-transformation-/2021/07/08/9405628.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 14
 
 secured: "Twcb+osmK2qZEx3dv+kKqCnlXc3J+S7BQmqY4GrMhIIztw3ahrPYnk+9bD6hweCmqqyhp7qtvrnHe2BGqk7EKIKiiFYRatvlLXsbOlgaUyQWTwSFulB0tlZJj+f+rHxdcxYss+JcUTm7D/54QcYFh+ldS1V3u9TuEnef1qnFh3SgkN0DikeZLSudzxBl5qJW30x9CoaasM5GM1IhyMBsqIteWQ4CBtQzMYIabdjt5pwxTMMiyztReOYqKhYcRDDa2o0mgNDvT3daL1Bn9p9CmJm8xar8kjZi8FV/Rke05kYOlzrYLWn7+ytcnL5obJUjX/iocDoVumq6sxu6VM2JsXVOcXP4bnuhAxjJZu4nAoqQGWHUIBJHoEN+rNkrZp/zsCQpEVOqC13DIo0Qq5hOg33A2+2raEUAMiIz9csl7dJ7iJyIowzlBAFhhMCQ0AHh1coC2d7hV7Q6JK5VzfuOyuyU3ZwoUeh/SsfnC4qBtHQlxtdHGDJVbH94mrhfAdABvywpN170+8YNDjMnQBDjNA==;G56xVp87EtNvOMhLOULvRA=="
 ---

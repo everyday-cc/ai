@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-size-share-value-and-competitive-landscape-2021-2026-2021-07-06"
 type: article
 quality: 69
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -56,6 +56,20 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Global Healthcare AI Startups Development and Deployment Strategies Report 2021 - ResearchAndMarkets.com"
+    excerpt: "The “Development of Global Healthcare AI Startups and Their Deployment Strategies” report has been added to ResearchAndMarkets.com’s offering. This report provides an overview of the development of healthcare AI startups by compiling the amount of capital raised by AI startups and the number of AI startups in different sub-sectors;"
+    publishedDateTime: 2021-07-08T14:37:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/e1e2076e603943459d6db2c8afbcbfbd"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 37
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
   - title: "Global Machine Learning Artificial intelligence Market Size, Status and Forecast 2021-2027"
     excerpt: "Pages Report] Check for Discount on Global Machine Learning Artificial intelligence Market Size, Status and Forecast 2021-2027 report by QYResearch Group. Market Analysis and Insights: Global Machine Learning Artificial intelligence"

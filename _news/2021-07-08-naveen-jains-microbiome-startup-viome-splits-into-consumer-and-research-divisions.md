@@ -8,8 +8,8 @@ webUrl: "https://www.geekwire.com/2021/naveen-jains-microbiome-startup-viome-spl
 ampWebUrl: "https://www.geekwire.com/2021/naveen-jains-microbiome-startup-viome-splits-consumer-research-divisions/amp/"
 cdnAmpWebUrl: "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2021/naveen-jains-microbiome-startup-viome-splits-consumer-research-divisions/amp/"
 type: article
-quality: 81
-heat: 81
+quality: 83
+heat: 83
 published: true
 
 provider:
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - Facebook AI
 
 images:
   - url: "https://cdn.geekwire.com/wp-content/uploads/2016/08/20160729_BlueDot_135-630x421.jpg"
@@ -29,6 +30,6 @@ images:
     height: 421
     isCached: true
 
-secured: "IgY1SDIdShToMZOaa/VjHGxYbP77TrM8Zkd2JG1QGXF83Q2fkr+ifbVPOJ4uBodMob0UNGqwp7UYMIKPVOG1AvZd74ca1P1666qzwTkE6bYy6DHVZ6a55FUu1QhQlzSosQ8bDMy+29qnq+2s4ugNuwQiLXHOZmBO6H/2VFMB/Ztt8m/4SCeyA7faK2m49udyTP/XQ+sYsfDijB+0D2PDzYYxvy1alN/SP1Xg5qh40wFg3K5wRBL0QX9TOXfBUZusuRgI7poCNLh6ei1uLandthrQzyrkcEBnY27Sp70WLTVqpjGtYWJjPhoYBN7n0O+l9g4wewaRzM+rulZYYn8bg9yqMOGvuDFzR1/hINjRJ8w=;GgGcI9bqY9i33Pxa3f72Lw=="
+secured: "KC8jZ1NePeD9h938CiHLziVE16jWl06ghX/PrnbAbBHCbkxZuZjeN4+7/5G/u8nyomC2C7kJoh7f26yPM8NtdrJtHDHBZ9XhnYEko3w5f3mb6fBzIu4kX7XHw2kSy2OMV/vd/vLBSWPCb742qJIdr17fR6xr/9Hy/cBEvV/dB003bZ4cNxQsQU4hLodzqc9JibPwRxOgxwE5pKOcQawElDvt2Vw1rnGjhvmNSZNMKr+c9KeI9ngQGY5Wr1ZQTVxSlKdmsKAtwvtA6EvlIHRywiSE6XmspGEwpmoY9tICSDmZ0d7SiE2TDVeBB55kZQx9pv17pyIhYdqVabj1GjlWeIen0bpeaETvH+LroyHqOV3lMla9p+PmnMQ3LBfJBZdQbeE6Z78b7uTiqRbWMDDHi+J221VW28F+FEuh3FtduIm9gQk5vCmwP+gDbvmvdlcaG4qlMpqm+2k5TYVX1MQSkciou1UonVNIqA0/i3nUzzdMwVhKE0hufQqv/njNQdeX50WwpCTfMKbQMIngZXAuQA==;L4Gbgljq2j8CubyP3wIGdg=="
 ---
 

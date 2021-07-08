@@ -316,6 +316,20 @@ related:
         width: 991
         height: 557
         isCached: true
+  - title: "Tencent low-light facial recognition to check night-time gaming among children"
+    excerpt: "Some stakeholders such as parents have praised the biometric checks as a step the company has taken in the right direction."
+    publishedDateTime: 2021-07-08T17:34:00Z
+    webUrl: "https://www.biometricupdate.com/202107/tencent-low-light-facial-recognition-to-check-night-time-gaming-among-children"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 35
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/07/08133124/tencent-gaming-facial-recognition-monitoring.png"
+        width: 1240
+        height: 510
+        isCached: true
   - title: "China’s Tencent Is Using Facial Recognition To Stop Kids From Playing Video Games at Night"
     excerpt: "Chinese gaming giant Tencent is using facial recognition software to prevent kids from gaming between the hours of 10 p.m. and 8 a.m. “We will conduct a face screening for accounts registered ..."
     publishedDateTime: 2021-07-08T01:37:00Z

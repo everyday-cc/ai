@@ -82,7 +82,7 @@ related:
     provider:
       name: Analytics India Magazine
       domain: analyticsindiamag.com
-    quality: 56
+    quality: 58
     images:
       - url: "https://analyticsindiamag.com/wp-content/uploads/2021/07/maxresdefault.jpg"
         width: 1280
@@ -133,6 +133,24 @@ related:
       name: Business Wire
       domain: businesswire.com
     quality: 27
+  - title: "AI in Telecommunication Market Booming Segments; Investors Seeking Growth | Google, Microsoft, IBM"
+    excerpt: "Get Free Exclusive PDF Sample Copy of This Research @  Scope of the Report of AI in Telecommunication Artificial Intelligence with learning abilities is a revolutionary technology, which the communication industry is exploring,"
+    publishedDateTime: 2021-07-08T16:59:00Z
+    webUrl: "https://manometcurrent.com/ai-in-telecommunication-market-booming-segments-investors-seeking-growth-google-microsoft-ibm/"
+    type: article
+    provider:
+      name: manometcurrent.com
+      domain: manometcurrent.com
+    quality: 20
+  - title: "CIBC and Microsoft announce strategic relationship to accelerate the bank's transformation and cloud-first approach"
+    excerpt: "CNW/ - Today CIBC and Microsoft announced a strategic relationship through a multi-year agreement formalizing Microsoft Azure as CIBC's primary cloud platform. CIBC's cloud-first approach will be enabled by Microsoft Azure's vast on-demand computing power,"
+    publishedDateTime: 2021-07-08T17:15:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-cibc-microsoft-announce-strategic-relationship-accelerate-banks-transformation-/2021/07/08/9405628.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 14
 
 secured: "tDW07pM4wFhAxbBu+46ADB8l8HosrNkSXE2ojvktnT0L1gjEb8pWt5iA0qI+u8yIuRttWhz2LR+1ChfhZIVsd85CFcoAGUhE7IMq1drYXkxBW20eNU+EbO3JYIvkDq7UIS/cOIigJEcWK0aRTbANI0/aBhvH08F2aFRX9tQ1/FPNFYGJdnNKdr6Hkdj9O+gSOuMTuXAnC9xpTxYJ8jR+98p3Npi40Dv9e9LZVspBRO4tWnUrydtBXqq6vSOHY4bt+jzCR9sE9MkHIN5TAk6S2Y8SFrerfDgbxSJuzWUTgsNs+/s/sg9U3g2izpCpEst+RW2PXvAaR+yNFv36JehVR4SQONLkxkaRrHrvT/RKoFV8RCUHMHFDsXnzAUk0AeNGwL7ol32Os1NLHC+y7C/NV2nchjkAA8d4mdXFPJDDpACZeLwm+3o0LEDTiDS0axAvv8ILalZmy091MZF8Ca+oOKxOFRLmP91ZNzaRvXQebdTlF8tDe6euFxlMa4rlI1/ZjbKdxX06EF7FUW52c3LK0g==;7ao0owqHWnUUjoa/juvyvQ=="
 ---

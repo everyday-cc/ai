@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/best-microsoft-technical-ce
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/best-microsoft-technical-certification/"
 type: article
 quality: 91
-heat: 181
+heat: 201
 published: true
 
 provider:
@@ -72,7 +72,7 @@ related:
     provider:
       name: Analytics India Magazine
       domain: analyticsindiamag.com
-    quality: 56
+    quality: 58
     images:
       - url: "https://analyticsindiamag.com/wp-content/uploads/2021/07/maxresdefault.jpg"
         width: 1280
@@ -137,6 +137,24 @@ related:
       name: Business Wire
       domain: businesswire.com
     quality: 27
+  - title: "AI in Telecommunication Market Booming Segments; Investors Seeking Growth | Google, Microsoft, IBM"
+    excerpt: "Get Free Exclusive PDF Sample Copy of This Research @  Scope of the Report of AI in Telecommunication Artificial Intelligence with learning abilities is a revolutionary technology, which the communication industry is exploring,"
+    publishedDateTime: 2021-07-08T16:59:00Z
+    webUrl: "https://manometcurrent.com/ai-in-telecommunication-market-booming-segments-investors-seeking-growth-google-microsoft-ibm/"
+    type: article
+    provider:
+      name: manometcurrent.com
+      domain: manometcurrent.com
+    quality: 20
+  - title: "CIBC and Microsoft announce strategic relationship to accelerate the bank's transformation and cloud-first approach"
+    excerpt: "CNW/ - Today CIBC and Microsoft announced a strategic relationship through a multi-year agreement formalizing Microsoft Azure as CIBC's primary cloud platform. CIBC's cloud-first approach will be enabled by Microsoft Azure's vast on-demand computing power,"
+    publishedDateTime: 2021-07-08T17:15:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-cibc-microsoft-announce-strategic-relationship-accelerate-banks-transformation-/2021/07/08/9405628.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 14
 
 secured: "Vj/YwVNkDQGG1qT6boXqM3f+95t/Ce7zHutHfEqwmnMclw9LKh4AGlTfRcC3t5kaILjvIHXqOm5frLrQ22ZdCpldmD+DoypB0ok06cjKlW9k73cRb7YJiNWtPEz0O6obkX4wf8vq+QJIOf71CqULlxUnzEl9ONcw1gdYw4L+HTXqPbBBkURyDxgloHcWsr/n89bx8SG+E4Vub87bf7tPOYSKZtSpJqZ1I7BHSS/0n7QHP3rALLicw6Dyi+LuUKxghilIe7aFoXLZZsFG4Pk8m0HzYvpZZPaR7eyR5hHIDThcu5+UDitkN+TGFLaunE2g43uk4jTAiBsaq1YVyMyiudUicbZNPKMMyT3xqCSrV0NEH9X9hldySQ9PD1ItnNJdKnhArCai7c40wQoLLUUAJ5xUEo4i2nsK3l+Jd28LhbA0WBvUFqA6sxPgMSLnZCi/XSxL/Hg0rGbYOGZePwRTQaubIDpid3TbWvEbwKlqYUvOo6oWezwtg4mY7PPp7iLjtAP4VGSwKAEzmG0BoYhO4g==;7ZcqeZ+gjJWSg8YuDqwg5A=="
 ---

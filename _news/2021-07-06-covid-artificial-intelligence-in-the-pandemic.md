@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.dw.com/en/covid-artificial-intelligence-in-the-pandemic/
 cdnAmpWebUrl: "https://amp-dw-com.cdn.ampproject.org/c/s/amp.dw.com/en/covid-artificial-intelligence-in-the-pandemic/a-58171146"
 type: article
 quality: 57
-heat: -1
+heat: 67
 published: false
 
 provider:
@@ -26,22 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI-powered therapy bots at workplace for employees during Covid pandemic"
-    excerpt: "AI is better than humans at providing support, according to a study undertaken by Workplace Intelligence.  The future of work will be influenced by the past. Last year’s virus invasion changed everything for the workforce."
-    publishedDateTime: 2021-07-03T23:30:00Z
-    webUrl: "https://www.newindianexpress.com/magazine/2021/jul/04/ai-powered-therapy-bots-at-workplace-for-employees-during-covid-pandemic-2324136.html"
-    ampWebUrl: "https://www.newindianexpress.com/magazine/2021/jul/04/ai-powered-therapy-bots-at-workplace-for-employees-during-covid-pandemic-2324136.amp"
-    cdnAmpWebUrl: "https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/magazine/2021/jul/04/ai-powered-therapy-bots-at-workplace-for-employees-during-covid-pandemic-2324136.amp"
-    type: article
-    provider:
-      name: The New Indian Express
-      domain: newindianexpress.com
-    quality: 73
-    images:
-      - url: "https://images.newindianexpress.com/uploads/user/imagelibrary/2021/7/3/w600X390/robot.jpg"
-        width: 600
-        height: 390
-        isCached: true
   - title: "COVID-19: Artificial intelligence in the pandemic"
     excerpt: "Artificial intelligence is happening now, all around us — as the COVID-19 pandemic revealed. We tend to talk about artificial intelligence as if it were a thing of the future, but AI is already all around us — as the COVID-19 pandemic has demonstrated."
     publishedDateTime: 2021-07-07T13:32:00Z

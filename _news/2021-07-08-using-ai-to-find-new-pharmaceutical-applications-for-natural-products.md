@@ -9,7 +9,7 @@ ampWebUrl: "https://www.news-medical.net/amp/news/20210707/Using-AI-to-find-new-
 cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20210707/Using-AI-to-find-new-pharmaceutical-applications-for-natural-products.aspx"
 type: article
 quality: 57
-heat: 77
+heat: 78
 published: true
 
 provider:

@@ -42,34 +42,6 @@ related:
         width: 480
         height: 320
         isCached: true
-  - title: "The ethics of artificial intelligence"
-    excerpt: "While AI technologies have extraordinary potential for social and economic development, artificial intelligence presents complex and unique challenges to policymakers. AI raises significant concerns over bias,"
-    publishedDateTime: 2021-07-06T15:29:00Z
-    webUrl: "https://www.ept.ca/features/the-ethics-of-artificial-intelligence/"
-    type: article
-    provider:
-      name: EPT
-      domain: www.ept.ca
-    quality: 56
-    images:
-      - url: "https://www.ept.ca/wp-content/uploads/2021/07/AI-3.jpeg"
-        width: 724
-        height: 483
-        isCached: true
-  - title: "Why Creating Value is a skill needed for the future with AI and Technology"
-    excerpt: "Mckinsey in an article “Defining the skills citizens will need in the future world of work” has said, and I quote: add value beyond what can be done by automated systems and intelligent machines operate in a digital environment continually adapt to new ways of working and new occupations While I agree these are necessary,"
-    publishedDateTime: 2021-07-06T18:10:00Z
-    webUrl: "https://customerthink.com/why-creating-value-is-a-skill-needed-for-the-future-with-ai-and-technology/"
-    type: article
-    provider:
-      name: CustomerThink
-      domain: customerthink.com
-    quality: 35
-    images:
-      - url: "https://customerthink.com/wp-content/uploads/pixabay_technology-2025795_1280-robot-human.jpg"
-        width: 1280
-        height: 851
-        isCached: true
   - title: "Aible Doubles Down on Guaranteed Impact With New Industry-First Enterprise AI Features"
     excerpt: "Aible, the only enterprise AI that guarantees impact in one month, today announced innovations to its flagship product. Aible extends its leadership i"
     publishedDateTime: 2021-07-06T15:00:00Z

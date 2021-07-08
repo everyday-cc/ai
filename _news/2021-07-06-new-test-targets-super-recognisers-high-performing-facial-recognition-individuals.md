@@ -27,35 +27,49 @@ images:
     isCached: true
 
 related:
-  - title: "Baltimore is the latest U.S. city to target facial recognition technology"
-    excerpt: "The city of Baltimore has banned the use of facial recognition systems by residents, businesses and the city government (except for police). The criminalisation in a major U.S. city of an"
-    publishedDateTime: 2021-07-06T10:26:00Z
-    webUrl: "https://www.sourcesecurity.com/insights/baltimore-city-target-facial-recognition-technology-co-1508-ga-sb.1625556289.html"
-    ampWebUrl: "https://www.sourcesecurity.com/amp/insights/baltimore-city-target-facial-recognition-technology-co-1508-ga-sb.1625556289.html"
-    cdnAmpWebUrl: "https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/insights/baltimore-city-target-facial-recognition-technology-co-1508-ga-sb.1625556289.html"
+  - title: "Democrats introduce bill to ban facial recognition in public housing"
+    excerpt: "A group of Democratic lawmakers has introduced a bill that would ban the use of facial recognition technology in public housing."
+    publishedDateTime: 2021-07-08T16:06:00Z
+    webUrl: "https://www.dailydot.com/debug/facial-recognition-public-housing-bill/"
+    ampWebUrl: "https://www.dailydot.com/debug/facial-recognition-public-housing-bill/?amp"
+    cdnAmpWebUrl: "https://www-dailydot-com.cdn.ampproject.org/c/s/www.dailydot.com/debug/facial-recognition-public-housing-bill/?amp"
     type: article
     provider:
-      name: SourceSecurity
-      domain: sourcesecurity.com
-    quality: 58
+      name: The Daily Dot
+      domain: dailydot.com
+    quality: 59
     images:
-      - url: "https://www.sourcesecurity.com/img/news/612/why-access-control-important-920x533.jpg"
-        width: 612
-        height: 355
+      - url: "https://uploads.dailydot.com/2021/07/Facial-Recognition-Public-Housing.jpg?auto=compress%2Cformat&ixlib=php-3.3.0"
+        width: 2000
+        height: 1000
         isCached: true
-  - title: "What businesses should know about the city’s new facial-recognition law"
-    excerpt: "A city law restricting facial-recognition technology and other biometric data collection takes effect Friday—setting up potential legal headaches if businesses don ’ t act. Re"
-    publishedDateTime: 2021-07-06T19:31:00Z
-    webUrl: "https://www.crainsnewyork.com/technology/what-businesses-should-know-about-citys-new-facial-recognition-law"
+  - title: "Facial recognition: Tax pros mull returning to in-person meetings"
+    excerpt: "Absolutely — as people feel more comfortable, we anticipate having more live rather than virtual meetings and events,” said Daniel Morris, a CPA and senior partner with Morris+D’Angelo CPAs in San Jose,"
+    publishedDateTime: 2021-07-06T13:00:00Z
+    webUrl: "https://www.accountingtoday.com/news/facial-recognition-tax-pros-mull-returning-to-in-person-meetings"
     type: article
     provider:
-      name: Crain's New York
-      domain: crainsnewyork.com
-    quality: 24
+      name: Accounting Today
+      domain: accountingtoday.com
+    quality: 39
     images:
-      - url: "https://s3-prod.crainsnewyork.com/styles/800x600/s3/362796995.jpg"
-        width: 800
-        height: 600
+      - url: "https://arizent.brightspotcdn.com/b0/a1/9a53ebac4783bb22133d358a52d4/coronavirus-6-feet-sign.jpg"
+        width: 3998
+        height: 2667
+        isCached: true
+  - title: "Bill Would Ban Facial Recognition in Public Housing"
+    excerpt: "The proposal would also direct the Housing and Urban Development Department to conduct a comprehensive report on how the tech is used, why and its impact on tenants."
+    publishedDateTime: 2021-07-07T18:12:00Z
+    webUrl: "https://www.nextgov.com/emerging-tech/2021/07/bill-would-ban-facial-recognition-public-housing/183131/"
+    type: article
+    provider:
+      name: Nextgov
+      domain: nextgov.com
+    quality: 39
+    images:
+      - url: "https://cdn.nextgov.com/media/img/cd/2021/07/07/NGbiometrics20210707/open-graph.jpg"
+        width: 400
+        height: 400
         isCached: true
 
 secured: "5aMyvnkRh2DSdcbVarpsnLQcbhTuoIvwGpVx99BAJbvoPnK2RdhzDvKUeQnY0kxdblBWQMn4DSeH9X/Pp/lCXz+Qs34vzMDuHECmbk9S8oS7iCL249f4pA5G/L6eHlsJWyV9ZEYF3K7jDOGjhbJ6Z5BbggVZJyOB3Ykgk6fK0d1pEa4/QPfcLOe1nGsEzlf+ClXRDNXZow+//lzXo0ZLb1b56+tX6xgHsdPCeFg8FfjIdvK8nKadIvr2N0tA6neboPVwovpVdmDlKQwosYa9cCIEM4X+UCwVpXCmr4XmzOcLzjlO/LxVhes398IHvdzavCVxagpKJ/M3s1RjMKTm5Jnc1XQ56cQyyTCM+XCYmatBsyYgSjrdkIkcK7YDz9nSYhOYxxhTNcLBTsyDfJuKYLWbxZS5jHsZbfxpOlzaO+kxVHsti6ymdTbCFxD9JfkHLhRSOv8FFnYlmg3xu+70x8C59561HHidKAwoO3Dl2TrMBBa1pvuY5SXUlLjzJcrzaY4RwtbfAKUTTgGJVn+FQg==;G1tIldoq6DCd1eeAlECjYQ=="

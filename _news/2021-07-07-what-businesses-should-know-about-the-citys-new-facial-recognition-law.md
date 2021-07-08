@@ -7,7 +7,7 @@ originalUrl: "https://www.crainsnewyork.com/technology/what-businesses-should-kn
 webUrl: "https://www.crainsnewyork.com/technology/what-businesses-should-know-about-citys-new-facial-recognition-law"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -23,40 +23,6 @@ images:
     width: 800
     height: 600
     isCached: true
-
-related:
-  - title: "Baltimore is the latest U.S. city to target facial recognition technology"
-    excerpt: "The city of Baltimore has banned the use of facial recognition systems by residents, businesses and the city government (except for police). The criminalisation in a major U.S. city of an"
-    publishedDateTime: 2021-07-06T10:26:00Z
-    webUrl: "https://www.sourcesecurity.com/insights/baltimore-city-target-facial-recognition-technology-co-1508-ga-sb.1625556289.html"
-    ampWebUrl: "https://www.sourcesecurity.com/amp/insights/baltimore-city-target-facial-recognition-technology-co-1508-ga-sb.1625556289.html"
-    cdnAmpWebUrl: "https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/insights/baltimore-city-target-facial-recognition-technology-co-1508-ga-sb.1625556289.html"
-    type: article
-    provider:
-      name: SourceSecurity
-      domain: sourcesecurity.com
-    quality: 58
-    images:
-      - url: "https://www.sourcesecurity.com/img/news/612/why-access-control-important-920x533.jpg"
-        width: 612
-        height: 355
-        isCached: true
-  - title: "New test targets super-recognisers, high-performing facial recognition individuals"
-    excerpt: "Psychologists from UNSW Sydney have developed a new face identification ability test that will help find facial recognition experts for a variety of police and government agencies, including contract tracing."
-    publishedDateTime: 2021-07-06T12:20:00Z
-    webUrl: "https://medicalxpress.com/news/2021-07-super-recognisers-high-performing-facial-recognition-individuals.html"
-    ampWebUrl: "https://medicalxpress.com/news/2021-07-super-recognisers-high-performing-facial-recognition-individuals.amp"
-    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-07-super-recognisers-high-performing-facial-recognition-individuals.amp"
-    type: article
-    provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 53
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2021/face-off-for-best-id-c.jpg"
-        width: 1000
-        height: 667
-        isCached: true
 
 secured: "/xNfA8qxlmvH4QIs/QdDcLqv3yCTF6u/gP88zO+RrX4PsNRzG5eDrIXJfR+tGHjshtYcki5Y6pdV8JC0dNayxsbgER9p++9sg/WvUoz4Tki2PA8h8afP6TQMaXR6zPYjg6dGGIQvIJqNUe5CvmZBHsxvhoCOovvkk2skqJ/hY9gB6ptHNT8wg91Qm4SIncZ6hTQRy0FgknV2w5o3PXVb+FNJ2yQhJELyArVgNisAoNZqO7tRDNYpm8bfxk42VDAdVT71FhBMhaF9tX7Tl3VE8PDmlJhKIYaWJ5EGEr6XrzyTtP2KmOK/ZYJkHK9S5Ou4lPJWy8K8qTh7wLKcUIZqHlDzX3eQ7KLSdv0CT/99ywfJaLcWcw9hWF2xIXVx2RLo4Plz6EvqUGiWfysMjsFc9E3dqCX5z9vUnjx4rM0fJNqM6Iewzaf/WjtFJqtKf55miWCjNpUEPyhupbjsfKsS0J480hs/3/sOxfQRHP+ofatx7TE+8AEXFANGGo9UQod3NVPdW0upnihRGK18rn338A==;tsvrRi/oLdmQzBoPP0JxCA=="
 ---

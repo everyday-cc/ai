@@ -8,8 +8,8 @@ webUrl: "https://www.technologyreview.com/2021/07/07/1027916/we-tested-ai-interv
 ampWebUrl: "https://www.technologyreview.com/2021/07/07/1027916/we-tested-ai-interview-tools/amp/"
 cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2021/07/07/1027916/we-tested-ai-interview-tools/amp/"
 type: article
-quality: 57
-heat: 67
+quality: 59
+heat: 69
 published: false
 
 provider:
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - Facebook AI
 
 images:
   - url: "https://wp.technologyreview.com/wp-content/uploads/2021/07/hire_vid-interview_01.jpg?w=3000"

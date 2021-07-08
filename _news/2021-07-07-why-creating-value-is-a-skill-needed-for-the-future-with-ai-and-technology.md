@@ -24,37 +24,46 @@ images:
     isCached: true
 
 related:
-  - title: "The future of the AI-based enterprise"
-    excerpt: "Imagine an enterprise like a living organism that will naturally adapt based on the environment. Its products and services, will grow, shrink, defend, and heal themselves as needed. This is the future of the AI -based enterprise."
-    publishedDateTime: 2021-07-04T10:51:00Z
-    webUrl: "https://www.techradar.com/news/the-future-of-the-ai-based-enterprise"
-    ampWebUrl: "https://www.techradar.com/amp/news/the-future-of-the-ai-based-enterprise"
-    cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/the-future-of-the-ai-based-enterprise"
+  - title: "Launching the AI Academy for small newsrooms"
+    excerpt: "As people searched for the latest information on COVID-19 last year, including school reopenings and travel restrictions, the BBC recognized they needed to find new ways of bringing their journalism to their audiences. They released a new online tool, the BBC Corona Bot, which uses artificial intelligence"
+    publishedDateTime: 2021-07-08T08:00:00Z
+    webUrl: "https://blog.google/outreach-initiatives/google-news-initiative/launching-ai-academy-small-newsrooms/"
+    ampWebUrl: "https://blog.google/outreach-initiatives/google-news-initiative/launching-ai-academy-small-newsrooms/amp/"
+    cdnAmpWebUrl: "https://blog-google.cdn.ampproject.org/c/s/blog.google/outreach-initiatives/google-news-initiative/launching-ai-academy-small-newsrooms/amp/"
     type: article
     provider:
-      name: TechRadar
-      domain: techradar.com
-    quality: 89
+      name: Google
+      domain: blog.google
+    quality: 109
     images:
-      - url: "https://cdn.mos.cms.futurecdn.net/Wcc69A4Ts8bhSbGgJeGkoZ-480-80.jpg"
-        width: 480
-        height: 320
+      - url: "https://blog.google/static/blogv2/images/google-1000x1000.png"
+        width: 1000
+        height: 1000
         isCached: true
-  - title: "The Role of Enterprises: Is Artificial Intelligence (AI) Taking Away Jobs?"
-    excerpt: "It has been the rule of nature and society that when the application of technologies like Artificial Intelligence in the workforce or daily lifestyle"
-    publishedDateTime: 2021-07-05T14:32:00Z
-    webUrl: "https://fossbytes.com/artificial-intelligence-ai-taking-away-jobs-enterprise/"
-    ampWebUrl: "https://fossbytes.com/artificial-intelligence-ai-taking-away-jobs-enterprise/amp/"
-    cdnAmpWebUrl: "https://fossbytes-com.cdn.ampproject.org/c/s/fossbytes.com/artificial-intelligence-ai-taking-away-jobs-enterprise/amp/"
+  - title: "4 Stocks to Make the Most of Surging Demand for AI"
+    excerpt: "Notably, one of the major areas where AI is being used considerably is e-commerce. With the help of AI, companies are offering personalized recommendations to their customers on their e-commerce websites or mobile apps,"
+    publishedDateTime: 2021-07-06T09:49:00Z
+    webUrl: "https://www.nasdaq.com/articles/4-stocks-to-make-the-most-of-surging-demand-for-ai-2021-07-06"
+    ampWebUrl: "https://www.nasdaq.com/articles/4-stocks-to-make-the-most-of-surging-demand-for-ai-2021-07-06?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/4-stocks-to-make-the-most-of-surging-demand-for-ai-2021-07-06?amp"
     type: article
     provider:
-      name: Foss Bytes
-      domain: fossbytes.com
-    quality: 70
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 69
+  - title: "Preparing The Office For The AI Revolution"
+    excerpt: "The challenge when talking about AI is that people tend to think of a takeover of the world where AI causes people’s roles and responsibilities to be made redundant and obsolete. However, it’s the cross-over of AI and how people behave in real life that will drive the most transformational benefits to businesses."
+    publishedDateTime: 2021-07-06T11:40:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/07/06/preparing-the-office-for-the-ai-revolution/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 67
     images:
-      - url: "https://fossbytes.com/wp-content/uploads/2021/07/ai-taking-over-more-jobs-in-us-2019.jpeg"
-        width: 1280
-        height: 720
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60e307158096349ee8effd21%2F0x0.jpg"
+        width: 1200
+        height: 800
         isCached: true
   - title: "The ethics of artificial intelligence"
     excerpt: "While AI technologies have extraordinary potential for social and economic development, artificial intelligence presents complex and unique challenges to policymakers. AI raises significant concerns over bias,"
@@ -70,15 +79,6 @@ related:
         width: 724
         height: 483
         isCached: true
-  - title: "Aible Doubles Down on Guaranteed Impact With New Industry-First Enterprise AI Features"
-    excerpt: "Aible, the only enterprise AI that guarantees impact in one month, today announced innovations to its flagship product. Aible extends its leadership i"
-    publishedDateTime: 2021-07-06T15:00:00Z
-    webUrl: "https://www.businesswire.com/news/home/20210706005086/en/Aible-Doubles-Down-on-Guaranteed-Impact-With-New-Industry-First-Enterprise-AI-Features"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 9
 
 secured: "grQ5X5sdpJDsKLEN36seEiqVETguKZP5A+8hYwjTfjLAE7ICE5k0l1AOjmXo4jF5ymgRmuRNR/Wjq01ahseNC0fnJIIYjU+fZeXDW3AWn8m9cZK6VZ/LvOIWa2SqII2Dx2gpHd7MqTjmxMN0rDZpJo9CEx5kwjr9+ntTr+VD8dO7egIqvxmJGpIgjBdlq2ovqtAVn5gorUZFJpAukR92Hh/GNLXrY1u3QeBdU9A9W5rIX6znUk/Na+0LdkKGaKZLvcYtJ+bEbMe1sY1MGaMRRUrLLcZxAMnL6xpOTP8NfjoVWGjW3sCmUTLsRsltv8DI4N77RZAQFpuVSTQSqrPfTyFrwt5hF0/FskUP1Rn8URI=;2fcVdog7ZSXFJBbseBpy2A=="
 ---

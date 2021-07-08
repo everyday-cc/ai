@@ -9,7 +9,7 @@ ampWebUrl: "https://www.infoworld.com/article/3623773/ai-gives-development-tools
 cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3623773/ai-gives-development-tools-a-boost.amp.html"
 type: article
 quality: 89
-heat: 89
+heat: 90
 published: true
 
 provider:

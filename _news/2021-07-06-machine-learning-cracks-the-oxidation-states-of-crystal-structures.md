@@ -1,27 +1,29 @@
 ---
 category: news
 title: "Machine learning cracks the oxidation states of crystal structures"
-excerpt: "Chemical engineers at EPFL have developed a machine-learning model that can predict a compound's oxidation state, a property that is so essential that many chemists argue it must be included in the periodic table."
-publishedDateTime: 2021-07-06T04:00:00Z
-originalUrl: "https://www.eurekalert.org/pub_releases/2021-07/epfd-mlc070321.php"
-webUrl: "https://www.eurekalert.org/pub_releases/2021-07/epfd-mlc070321.php"
+excerpt: "Chemical elements make up pretty much everything in the physical world. As of 2016, we know of 118 elements, all of which can be found categorized in the famous periodic table that hangs in every chemistry lab and classroom."
+publishedDateTime: 2021-07-06T13:57:00Z
+originalUrl: "https://phys.org/news/2021-07-machine-oxidation-states-crystal.html"
+webUrl: "https://phys.org/news/2021-07-machine-oxidation-states-crystal.html"
+ampWebUrl: "https://phys.org/news/2021-07-machine-oxidation-states-crystal.amp"
+cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-07-machine-oxidation-states-crystal.amp"
 type: article
-quality: 39
-heat: -1
-published: false
+quality: 59
+heat: 79
+published: true
 
 provider:
-  name: EurekAlert!
-  domain: eurekalert.org
+  name: Phys.org
+  domain: phys.org
 
 topics:
   - Machine Learning
   - AI
 
 images:
-  - url: "https://www.eurekalert.org/multimedia/pub/web/269771_web.jpg"
-    width: 1440
-    height: 776
+  - url: "https://scx2.b-cdn.net/gfx/news/hires/2020/chemistry.jpg"
+    width: 1920
+    height: 1271
     isCached: true
 
 related:
@@ -49,6 +51,6 @@ related:
         height: 622
         isCached: true
 
-secured: "nXINYKPBuQvsbELgX7HXFIYDPRrj9MyhWQd1GnJW9hDX6JBvtgqsOt5kUrzbhgxcvWLYsMZ3HG3qUuiAzIlP8dczeBxp3ytNCwDnUtFbs6OH8NtxQvGIeVPKzLngxwbOR6ojo/3S4KeDf7QEA+65JBcotuQ6fZLLsJYRpWPDu3Yzoa6WIquTzLCx2erSX7n8BktW6lbnTY6twEov5VALbtK6NK2Q2MeNMxgv6Uqx3XdihrO8WLFeUfyFBqYQHLmBPBus7wgMp383M4T/SmCakP5vsnePpBfLOznPFojDFsxF9TRIS/tMnCmZDVzKPWJyQkDXrIoGg80Dl8h4t5C8EbRECHfpfbEaSRUfcHWf5ApYeQBb5DzED1M6fEYlJpD8w95ojxn/e9dmPiyYEAFpb+UCggQpV1d/osn+LHwDjH5EyrAtcfyd6eo5CPBPDq4JbBW0+G7ELIVdWhUBw/UipAVXxbbRkOXkyJJY+UaRsOuY6PV3i1knCsBW0TWiMn6/YZ+sZsVKTTtFC7CtJzAH/A==;2LpJ5Nv/O4Nk7vmIypjr2A=="
+secured: "J3EL6eSn1P87J2temfk1bDTE0PGJ7sNYGZ98aiNt/HKkIjxSssh0Ho+h8j3DNczXtHgpxeU3ckhYiUyCqWZ5tQv87BmCCN+pE0vxl/oSVhn5IRWXmELaLZhx0iUlPrZa7QkwWPvNrutuMyLceXt402vEkK97vAyL7JPNZeGpiyCYkthzdRA0fUZBIWFeRZHWLydeDWZ9mhH3aoAT++Y66RGxTTfIbgdKOm1PXn7MUyw0wvnK511qTkoWPdvHxTFcqY3nX1EEOZYDuDvmb7Ncqf9ps+OJGEvvqsKRvDKMYf3VOE1FS72ZxingjmvTBoscWEDvFRs4RGLoo+MPNhsQYRPezmHMJ0Ewr5c/wWOyfGs=;2qHWNAILRmiBCpsW4HI8Kw=="
 ---
 

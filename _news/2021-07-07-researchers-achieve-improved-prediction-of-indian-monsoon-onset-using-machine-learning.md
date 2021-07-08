@@ -53,6 +53,20 @@ related:
         width: 2880
         height: 1920
         isCached: true
+  - title: "Machine learning and earthquake risk prediction"
+    excerpt: "Rathje's research on liquefaction led her to study the Christchurch event. She had been thinking about ways to incorporate machine learning into her research and this case seemed like a great place to start. The researchers developed a machine learning ..."
+    publishedDateTime: 2021-07-08T17:11:00Z
+    webUrl: "https://www.nsf.gov/discoveries/disc_summ.jsp?cntn_id=303051"
+    type: article
+    provider:
+      name: nsf.gov
+      domain: nsf.gov
+    quality: 39
+    images:
+      - url: "https://www.nsf.gov/news/mmg/media/images/ai_earthquakes_f.jpg"
+        width: 350
+        height: 220
+        isCached: true
   - title: "Machine-learning improves the prediction of stroke recovery"
     excerpt: "An international team of scientists led by EPFL has developed a system that combines information from the brain's connectome - the ''wiring'' between neurons - and machine learning to assess and predict the outcome of stroke victims."
     publishedDateTime: 2021-07-07T04:00:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nytimes.com/2021/07/07/magazine/china-diplomacy-twitter-
 cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/07/07/magazine/china-diplomacy-twitter-zhao-lijian.amp.html"
 type: article
 quality: 74
-heat: 74
+heat: 75
 published: true
 
 provider:

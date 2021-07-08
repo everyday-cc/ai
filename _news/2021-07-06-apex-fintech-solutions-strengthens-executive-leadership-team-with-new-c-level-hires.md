@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Stevens and Rensselaer to establish the first-ever NSF-backed FinTech Research Center"
+    excerpt: "Stevens Institute of Technology and Rensselaer Polytechnic Institute announced today that they have been awarded the first-ever National Science Foundation grant to create an industry-university cooperative research center devoted specifically to financial technology and science."
+    publishedDateTime: 2021-07-08T04:00:00Z
+    webUrl: "https://www.eurekalert.org/pub_releases/2021-07/siot-sar070821.php"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 17
+    images:
+      - url: "https://www.eurekalert.org/socialshare/EurekAlert-bluebg_Twitter_1200x675.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Rensselaer Polytechnic Institute and Stevens Institute of Technology To Establish the First-Ever NSF-Backed Fintech Research Center"
     excerpt: "Rensselaer Polytechnic Institute and Stevens Institute of Technology announced today that they have been awarded the first-ever National Science Foundation (NSF) grant to create an industry-university cooperative research center devoted specifically to financial technology and science."
     publishedDateTime: 2021-07-08T15:22:00Z

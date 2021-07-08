@@ -77,7 +77,7 @@ related:
     provider:
       name: Analytics India Magazine
       domain: analyticsindiamag.com
-    quality: 56
+    quality: 58
     images:
       - url: "https://analyticsindiamag.com/wp-content/uploads/2021/07/maxresdefault.jpg"
         width: 1280
@@ -133,6 +133,24 @@ related:
       name: Business Wire
       domain: businesswire.com
     quality: 27
+  - title: "AI in Telecommunication Market Booming Segments; Investors Seeking Growth | Google, Microsoft, IBM"
+    excerpt: "Get Free Exclusive PDF Sample Copy of This Research @  Scope of the Report of AI in Telecommunication Artificial Intelligence with learning abilities is a revolutionary technology, which the communication industry is exploring,"
+    publishedDateTime: 2021-07-08T16:59:00Z
+    webUrl: "https://manometcurrent.com/ai-in-telecommunication-market-booming-segments-investors-seeking-growth-google-microsoft-ibm/"
+    type: article
+    provider:
+      name: manometcurrent.com
+      domain: manometcurrent.com
+    quality: 20
+  - title: "CIBC and Microsoft announce strategic relationship to accelerate the bank's transformation and cloud-first approach"
+    excerpt: "CNW/ - Today CIBC and Microsoft announced a strategic relationship through a multi-year agreement formalizing Microsoft Azure as CIBC's primary cloud platform. CIBC's cloud-first approach will be enabled by Microsoft Azure's vast on-demand computing power,"
+    publishedDateTime: 2021-07-08T17:15:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-cibc-microsoft-announce-strategic-relationship-accelerate-banks-transformation-/2021/07/08/9405628.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 14
 
 secured: "7IB8o80b2m6FbY6+Gvm0rx6oR5u4qFPHgqAsr9RZcixRce2+jpfrd95ddWFFBqgDVP51MdG04K28AQCXU3Rjx96PcsEQWbOVBW7/6o2V/tLVyrLVeGIZ3X9neCr0bnszkH21lMrgQPB/aM4keO0WCP3xi20SU/z8xmpSw6wr5qkWciODjzegMczzEeakavgHUHBNtLc95p/N59aqTUG1UuF+GOqQtCmBJy/ZB9XwDwbnpmc4rHj+yExfHUON6rmSlL5B1eVhKuSPoH5CNEw2x8A2AeFUjAWHtTOMnePLIOkIYY3Rd5tKTBXDsMZ0e4MWPUOwl/1QrwIOMCwSgcJbc4SYeIQM6Z3KJPeZQnivdpxgAMxdCC3bZyLSLheEjfwVdVQav3T+OZZlWxO0VKzSyQaoXg0kiG5eOR0OD228LXw0351AU8/R8lPDxtSfIZVa9Z2fjylUiRlJ9D6f5PC36ddtT5TDf2OCDPAUFWug1XP2WM4TeIYIzxLtNc2nPTaVZD1yj5qC+y2Nn7hGi6dBig==;jsnnKAW21igalHiNTPSpFg=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://www.sixthtone.com/news/1007915/tencent-deploys-facial-reco
 webUrl: "https://www.sixthtone.com/news/1007915/tencent-deploys-facial-recognition-to-detect-minors-gaming-at-night-"
 type: article
 quality: 139
-heat: 349
+heat: 359
 published: true
 
 provider:
@@ -314,6 +314,20 @@ related:
       - url: "https://cna-sg-res.cloudinary.com/image/upload/q_auto,f_auto/image/15179334/16x9/991/557/50520d3f21dc2cdfb1c67dfd8f2f029a/DL/chinese-regulators-have-scrambled-to-keep-up-with-the-country-s-voracious-appetite-for-video-games-which-have-been-blamed-for-social-ills-including-online-addiction-1625718902357-4.jpg"
         width: 991
         height: 557
+        isCached: true
+  - title: "Tencent low-light facial recognition to check night-time gaming among children"
+    excerpt: "Some stakeholders such as parents have praised the biometric checks as a step the company has taken in the right direction."
+    publishedDateTime: 2021-07-08T17:34:00Z
+    webUrl: "https://www.biometricupdate.com/202107/tencent-low-light-facial-recognition-to-check-night-time-gaming-among-children"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 35
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/07/08133124/tencent-gaming-facial-recognition-monitoring.png"
+        width: 1240
+        height: 510
         isCached: true
   - title: "China’s Tencent Is Using Facial Recognition To Stop Kids From Playing Video Games at Night"
     excerpt: "Chinese gaming giant Tencent is using facial recognition software to prevent kids from gaming between the hours of 10 p.m. and 8 a.m. “We will conduct a face screening for accounts registered ..."

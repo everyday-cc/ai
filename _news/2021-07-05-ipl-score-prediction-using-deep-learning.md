@@ -9,7 +9,7 @@ ampWebUrl: "https://www.geeksforgeeks.org/ipl-score-prediction-using-deep-learni
 cdnAmpWebUrl: "https://www-geeksforgeeks-org.cdn.ampproject.org/c/s/www.geeksforgeeks.org/ipl-score-prediction-using-deep-learning/amp/"
 type: article
 quality: 61
-heat: 91
+heat: 101
 published: true
 
 provider:
@@ -43,6 +43,20 @@ related:
       - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/machine-learning-impro.jpg"
         width: 2880
         height: 1920
+        isCached: true
+  - title: "Machine learning and earthquake risk prediction"
+    excerpt: "Rathje's research on liquefaction led her to study the Christchurch event. She had been thinking about ways to incorporate machine learning into her research and this case seemed like a great place to start. The researchers developed a machine learning ..."
+    publishedDateTime: 2021-07-08T17:11:00Z
+    webUrl: "https://www.nsf.gov/discoveries/disc_summ.jsp?cntn_id=303051"
+    type: article
+    provider:
+      name: nsf.gov
+      domain: nsf.gov
+    quality: 39
+    images:
+      - url: "https://www.nsf.gov/news/mmg/media/images/ai_earthquakes_f.jpg"
+        width: 350
+        height: 220
         isCached: true
   - title: "Researchers achieve improved prediction of Indian Monsoon onset using machine learning"
     excerpt: "The onset of the Indian summer monsoon has been predicted three months ahead for the last 40 years with the highest precision up until today. The result indicates longer seasonal forecasts based on machine learning may be a way to mitigate the consequences of an erratic monsoon system under future global warming."

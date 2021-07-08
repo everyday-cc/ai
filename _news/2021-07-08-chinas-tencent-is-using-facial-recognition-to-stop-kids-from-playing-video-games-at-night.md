@@ -329,6 +329,20 @@ related:
         width: 991
         height: 557
         isCached: true
+  - title: "Tencent low-light facial recognition to check night-time gaming among children"
+    excerpt: "Some stakeholders such as parents have praised the biometric checks as a step the company has taken in the right direction."
+    publishedDateTime: 2021-07-08T17:34:00Z
+    webUrl: "https://www.biometricupdate.com/202107/tencent-low-light-facial-recognition-to-check-night-time-gaming-among-children"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 35
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/07/08133124/tencent-gaming-facial-recognition-monitoring.png"
+        width: 1240
+        height: 510
+        isCached: true
   - title: "Investors issue statement on human rights implications of facial recognition technologies & commitments to due diligence"
     excerpt: "We are 50 global institutional investors and their representatives with $4.5 trillion in assets under management as of December, 2020. As responsible investors, we incorporate Environmental, Social and Governance (ESG) factors,"
     publishedDateTime: 2021-07-04T08:19:00Z

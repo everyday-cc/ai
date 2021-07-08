@@ -43,6 +43,20 @@ related:
         width: 300
         height: 233
         isCached: true
+  - title: "Machine learning and earthquake risk prediction"
+    excerpt: "Rathje's research on liquefaction led her to study the Christchurch event. She had been thinking about ways to incorporate machine learning into her research and this case seemed like a great place to start. The researchers developed a machine learning ..."
+    publishedDateTime: 2021-07-08T17:11:00Z
+    webUrl: "https://www.nsf.gov/discoveries/disc_summ.jsp?cntn_id=303051"
+    type: article
+    provider:
+      name: nsf.gov
+      domain: nsf.gov
+    quality: 39
+    images:
+      - url: "https://www.nsf.gov/news/mmg/media/images/ai_earthquakes_f.jpg"
+        width: 350
+        height: 220
+        isCached: true
   - title: "Researchers achieve improved prediction of Indian Monsoon onset using machine learning"
     excerpt: "The onset of the Indian summer monsoon has been predicted three months ahead for the last 40 years with the highest precision up until today. The result indicates longer seasonal forecasts based on machine learning may be a way to mitigate the consequences of an erratic monsoon system under future global warming."
     publishedDateTime: 2021-07-06T20:13:00Z
@@ -69,6 +83,6 @@ related:
         height: 672
         isCached: true
 
-secured: "Td9T0sV73OOStvOVgxlSz9tWGzo1wWy3tIlYjc0QPDP89IqWUzJbqVhiiRE8cSeas9OEtegA5ULSHA+DrQ9WtEhugJC1TKHelr3TpuE2/wFlhOLZO6gjwK4hkkXl8g1/CdTn407Ln+ihMI11jZC4ErlaJ+JtyWmxcvDklGiMscv9Mdw0qCmii1XoyhMRePmJWbFUYTPDV3+GaTC5D8M4VujxlImAx/z7l6Nx9gbaIKak55FRaQARth4JwpsdHViNudBuxSxogpNJl351WHNNXIdQO6j/d9+BRsA2kWMXVxzp3yQYmIvhjZB3PyO8FsL/yzBGvNaMwOTnDz8mSwd0dA6/PbwyZp8xa7J87lcGyjM=;azvyQeOM/o/ZJzX6inhkqw=="
+secured: "2TML0l6l/P1xCvRE9Aer9RjvI4EthZPHdmFmoIemWvGxUUt77IEnXTNIH6tAy5z/pJCPQrOS93e6ns9Hd1Dv7gdQyZc9pk1eNDM8aLIpEkmYHK7k+BTNbdg4uYrGl1bnXiZsASrGWWjZym3TuhKipX3nx6TbP64BesKXKnKghvn2O4z8kWNWtxptMkvnBIMDSOjFQ3DBp2ePeKxNjl3hujSu4iKALzc8NMp0/+HEI+Jtt/3yn5/bHAAhTWZoK3h2dHO8GXBSRaTVi97mQcC51P2xCf/V/pPaq/Wrzs5qBa8iG5u5CIFK1+jkF6oI8ZntDQTFBOzNvVGOyaw/jSvcebY9xzN6gycw5+gqb3sbQF2lde7Xik+ANhTRvGTMDvbetFiAhxwXDeVljOcP70bB5hPvt82LNCKUJuTehG4FlsQvEQXtfoybu4gxo6b49XFZQLcuDhjbpt7VXDb/fhcfW6SOdcenO1MXlrSMs4tIEk0CPzKnZHug8XSrKhff8WgdSBhkSO9YWrVghXkc3aUXYg==;WuTN72lTg2/B6+ACKZCdVg=="
 ---
 

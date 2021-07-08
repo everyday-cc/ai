@@ -73,6 +73,22 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Elon Musk Confirms Tesla’s Launch Date of Its Full Self-Driving Beta v9"
+    excerpt: "Tesla fans may not have long to wait to get a taste of self-driving cars, as CEO Elon Musk has (finally) confirmed an official launch date of the Full Self-Driving Beta v9. In the early hours of Thursday,"
+    publishedDateTime: 2021-07-08T16:35:00Z
+    webUrl: "https://observer.com/2021/07/elon-musk-confirms-teslas-launch-date-of-its-full-self-driving-beta-v9/"
+    ampWebUrl: "https://observer.com/2021/07/elon-musk-confirms-teslas-launch-date-of-its-full-self-driving-beta-v9/amp/"
+    cdnAmpWebUrl: "https://observer-com.cdn.ampproject.org/c/s/observer.com/2021/07/elon-musk-confirms-teslas-launch-date-of-its-full-self-driving-beta-v9/amp/"
+    type: article
+    provider:
+      name: Observer
+      domain: observer.com
+    quality: 59
+    images:
+      - url: "https://observer.com/wp-content/uploads/sites/2/2019/06/gettyimages-1130598318.jpg?quality=80&#038;strip"
+        width: 4800
+        height: 3006
+        isCached: true
   - title: "Elon Musk Tells Dejected Tesla Owners Self-Driving Is Hard After Repeatedly Missing Deadlines"
     excerpt: "Tesla owners are apparently losing their patience with CEO Elon Musk and his bold promises surrounding Full Self Driving (FSD). The feature is currently in beta, despite it being a $10,000 option on current Tesla vehicles."
     publishedDateTime: 2021-07-05T14:11:00Z
@@ -104,6 +120,6 @@ related:
         height: 700
         isCached: true
 
-secured: "G5ODJInPunXBsSJl6IfqJvQ5JRcyaP9At3xGTzIIltSjPVVd8Sb1NSYrgOmQr6sHHCjNhreX5EETAztp+CapJ753XnVJMh6LlibZgZ5DLGtaS9dHjZuuMeByPMN5V/2XSmZcFe9X+Vhg8OsgTP7D2ZsVJL9utBByeluFhLs5gzhFbA8xe3fFzFS2OYS66ipeY3yHQ9R2rGfPxWjt3NcTyQhqySgB9wHOQPEFgTSR4dcUQt++jPgd5Px78gBPElLJV/2gEpVui35WAWF/TEkCpkeDxMUruIycKsX9FmuFL68V8fwoj4QGzDEKfj5oygb2QRQCin2WdX+9z5kZeFEePwxqzwTIZ0CqMDIsOxYqBQw=;VqjeZlW5Jv6FWM2vSsCuUw=="
+secured: "lfU6U2ROdqepLwMHivpuurrBKdyEYuBsVWmInA4R+gjH0fyoDQRP2si36mKIprHGOPVVEQWtKPp+KHwyX3453e4A/fxOmYI11Ez9B4TxZ58WimQSFSX2sko/XtHw5cBcrwaFlWL13YWT0Vksw4k47xcfTW/oTv0zSmHByUa3APaPCBMvvOkOWf5lQhHqhh33OHNqQYwPqFNHeSdytpGf8vmQPhVWm+aKmUsNWpPY3DMiR1SkN685DdktQAeNqpP01S6PW0zDZq7/u+bA8Y+HOwd16264cD/y7wQwgSqI3IP6a8vWRLhqksqGcC+PBZQGSZRwfDTTxDNNBf+y/Jd8EA75+OOoLUttFgGgkleBLP0t/SYCGEP1d9Z9tVb7bqoUT7MvD9Yegb8ZkvWz+caEjDDQgKIsJQIk/uM4HlB/O1Ht9tYbP0SRRD6uNQc+pyoD9LmnNSE+uQG1pq3g/bRBG9pVdhj7LQrOVRPa4pCe0PUlS9ytYG7kW+VxlRP/dyWys9AYsac6UPojOiy06hCUxw==;zcHFMQdY6KtpBcLnYLi51Q=="
 ---
 

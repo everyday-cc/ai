@@ -9,7 +9,7 @@ ampWebUrl: "https://electrek.co/2021/07/07/hacker-tesla-full-self-drivings-visio
 cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/07/07/hacker-tesla-full-self-drivings-vision-depth-perception-neural-net-can-see/amp/"
 type: article
 quality: 83
-heat: 133
+heat: 143
 published: true
 
 provider:
@@ -63,6 +63,22 @@ related:
       - url: "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2020/08/Tesla-Elon-Musk.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
         width: 1200
         height: 628
+        isCached: true
+  - title: "Elon Musk Confirms Tesla’s Launch Date of Its Full Self-Driving Beta v9"
+    excerpt: "Tesla fans may not have long to wait to get a taste of self-driving cars, as CEO Elon Musk has (finally) confirmed an official launch date of the Full Self-Driving Beta v9. In the early hours of Thursday,"
+    publishedDateTime: 2021-07-08T16:35:00Z
+    webUrl: "https://observer.com/2021/07/elon-musk-confirms-teslas-launch-date-of-its-full-self-driving-beta-v9/"
+    ampWebUrl: "https://observer.com/2021/07/elon-musk-confirms-teslas-launch-date-of-its-full-self-driving-beta-v9/amp/"
+    cdnAmpWebUrl: "https://observer-com.cdn.ampproject.org/c/s/observer.com/2021/07/elon-musk-confirms-teslas-launch-date-of-its-full-self-driving-beta-v9/amp/"
+    type: article
+    provider:
+      name: Observer
+      domain: observer.com
+    quality: 59
+    images:
+      - url: "https://observer.com/wp-content/uploads/sites/2/2019/06/gettyimages-1130598318.jpg?quality=80&#038;strip"
+        width: 4800
+        height: 3006
         isCached: true
   - title: "Elon Musk Tells Dejected Tesla Owners Self-Driving Is Hard After Repeatedly Missing Deadlines"
     excerpt: "Tesla owners are apparently losing their patience with CEO Elon Musk and his bold promises surrounding Full Self Driving (FSD). The feature is currently in beta, despite it being a $10,000 option on current Tesla vehicles."
