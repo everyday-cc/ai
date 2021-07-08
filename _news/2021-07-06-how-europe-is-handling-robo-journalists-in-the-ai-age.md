@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Technion Ranked No. 1 in Europe in Artificial Intelligence"
+    excerpt: "Israel Institute of Technology on Mount Carmel, Haifa. Photo: Wikimedia Commons. CTech — The Technion’s efforts"
+    publishedDateTime: 2021-07-08T20:09:00Z
+    webUrl: "https://www.algemeiner.com/2021/07/08/technion-ranked-no-1-in-europe-in-artificial-intelligence/"
+    type: article
+    provider:
+      name: Algemeiner
+      domain: algemeiner.com
+    quality: 39
+    images:
+      - url: "https://www.algemeiner.com/wp-content/uploads/2019/09/Technion.jpg"
+        width: 720
+        height: 360
+        isCached: true
   - title: "Technion Ranked No. 1 in Europe in Field of Artificial Intelligence"
     excerpt: "An innovation for its prowess is the Machine Learning and Intelligent Systems research center, which aggregates all AI-related activities."
     publishedDateTime: 2021-07-08T18:29:00Z

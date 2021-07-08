@@ -45,15 +45,6 @@ related:
         width: 640
         height: 360
         isCached: true
-  - title: "Cybersecurity for consumer robots"
-    excerpt: "Consumer adoption of robotic devices to perform repetitive tasks like lawn cutting, vacuum cleaning, and clothes ironing is becoming an established market. As better-performing and more economically attractive products reach the market,"
-    publishedDateTime: 2021-07-04T04:03:00Z
-    webUrl: "https://electronics360.globalspec.com/article/16895/cybersecurity-for-consumer-robots"
-    type: article
-    provider:
-      name: Engineering360 News
-      domain: globalspec.com
-    quality: 19
   - title: "Cybersecurity AI Market 2021 Evolving Technology and Growth Outlook to 2028 | Bae Systems, Cisco, Fortinet, Fireeye, Check Point, Ibm"
     excerpt: "The global market for Cybersecurity AI offers a detailed overview of the regional and local markets. In order to provide a comprehensive market overview, the Cybersecurity AI market report includes a regional competitive landscape for the number of major service providers in the market."
     publishedDateTime: 2021-07-07T17:50:00Z

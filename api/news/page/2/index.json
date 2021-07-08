@@ -2,6 +2,48 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-07-08-nist-proposal-aims-to-reduce-bias-in-artificial-intelligence.md",
+      "title": "NIST Proposal Aims to Reduce Bias in Artificial Intelligence",
+      "excerpt": "The National Institute of Standards and Technology recently released a proposal regarding the risk of bias in the use of artificial intelligence to help reduce it. The agency is seeking comments from the tech community.",
+      "sourceUrl": null,
+      "webUrl": "https://www.govtech.com/products/nist-proposal-aims-to-reduce-bias-in-artificial-intelligence",
+      "originalUrl": "https://www.govtech.com/products/nist-proposal-aims-to-reduce-bias-in-artificial-intelligence",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://erepublic.brightspotcdn.com/dims4/default/cc0ed60/2147483647/strip/true/crop/940x490+0+68/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2F36%2F15%2Fbb6e7321b66b3501007e72aa2c85%2Fshutterstock-6785833751.jpg",
+          "width": 840,
+          "height": 438,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.govtech.com/products/nist-proposal-aims-to-reduce-bias-in-artificial-intelligence?_amp=true",
+      "cdnAmpWebUrl": "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/products/nist-proposal-aims-to-reduce-bias-in-artificial-intelligence?_amp=true",
+      "publishedDateTime": "2021-07-07T14:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Government Technology",
+        "domain": "govtech.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-08-armorblox-and-intermedia-team-up-to-protect-email-from-cyberattacks-with-ai.md",
       "title": "Armorblox and Intermedia team up to protect email from cyberattacks with AI",
       "excerpt": "Cybersecurity company Armorblox and email provider Intermedia partnered to help enterprises combat the rise in cyberattacks with AI.",
@@ -409,7 +451,7 @@
       "originalUrl": "https://www.nytimes.com/2021/07/07/arts/music/ai-song-contest.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 99,
       "tags": null,
       "images": [
         {
@@ -891,7 +933,7 @@
       "originalUrl": "https://www.forbes.com/sites/peggyannesalz/2021/07/07/three-experts-offer-fintech-app-marketing-tips-you-can-bank-on/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 226,
+      "heat": 236,
       "tags": null,
       "images": [
         {
@@ -1196,58 +1238,6 @@
       "topics": [
         "Microsoft AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-07-anyvision-the-controversial-facial-recognition-startup-has-raised-235m-led-by-softbank-and-eldridge.md",
-      "title": "AnyVision, the controversial facial recognition startup, has raised $235M led by SoftBank and Eldridge",
-      "excerpt": "AnyVision — an Israeli startup that has built AI-based techniques to identify people by their faces, but also related tech such as temperature checks to detect higher temperatures in a crowd ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/07/07/anyvision-the-controversial-facial-recognition-startup-has-raised-235m-led-by-softbank-and-eldridge/",
-      "originalUrl": "https://techcrunch.com/2021/07/07/anyvision-the-controversial-facial-recognition-startup-has-raised-235m-led-by-softbank-and-eldridge/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 258,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2019/11/GettyImages-1167845607.jpg?w=1024",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/07/07/anyvision-the-controversial-facial-recognition-startup-has-raised-235m-led-by-softbank-and-eldridge/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/07/07/anyvision-the-controversial-facial-recognition-startup-has-raised-235m-led-by-softbank-and-eldridge/amp/",
-      "publishedDateTime": "2021-07-07T02:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Computer Vision"
       ]
     }
   ],

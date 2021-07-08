@@ -2,6 +2,58 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-06-07-2-leading-tech-stocks-to-buy-in-2021.md",
+      "title": "2 Leading Tech Stocks to Buy in 2021",
+      "excerpt": "Trevor primarily covers tech and financials, with a particular interest in artificial intelligence, blockchain, and other innovative technologies. He grew up in Ohio and later moved to the Pacific coast.",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2021/06/06/2-leading-tech-stocks-to-buy-in-2021/",
+      "originalUrl": "https://www.fool.com/investing/2021/06/06/2-leading-tech-stocks-to-buy-in-2021/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F629373%2Fgrowth-3.jpg&w=1200&op=resize",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.fool.com/amp/investing/2021/06/06/2-leading-tech-stocks-to-buy-in-2021/",
+      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/06/06/2-leading-tech-stocks-to-buy-in-2021/",
+      "publishedDateTime": "2021-06-06T10:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-05-self-driving-cars-could-be-decades-away-no-matter-what-elon-musk-said.md",
       "title": "Self-Driving Cars Could Be Decades Away, No Matter What Elon Musk Said",
       "excerpt": "Experts aren’t sure when, if ever, we’ll have truly autonomous vehicles that can drive anywhere without help. First, AI will need to get a lot smarter.",
@@ -1310,40 +1362,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-27-video-navistar-2010-maxxforce-big-bore-13-liter.md",
-      "title": "Video: Navistar 2010 MaxxForce Big Bore 13-liter",
-      "excerpt": "Artificial intelligence is putting the virtual pedal ... hubs in the U.S. “Operating in that environment, we can test our Waymo Driver on highly dense highways and shipping lanes, further ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.fleetowner.com/news/video/21682531/video-navistar-2010-maxxforce-big-bore-13liter",
-      "originalUrl": "https://www.fleetowner.com/news/video/21682531/video-navistar-2010-maxxforce-big-bore-13liter",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-26T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fleet Owner",
-        "domain": "fleetowner.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

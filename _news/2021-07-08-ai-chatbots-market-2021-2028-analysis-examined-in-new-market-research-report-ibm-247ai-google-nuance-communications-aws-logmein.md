@@ -24,6 +24,22 @@ images:
     height: 259
     isCached: true
 
+related:
+  - title: "AI In Telecommunication Market Growth Analysis, Strategies, Demands in After Coronavirus Lockdown Over The World"
+    excerpt: "The research report published by RMoz on the AI In Telecommunication market provides a detailed overview of the demands and consumptions of various products/services associated with the growth dynamics of the market during the forecast period 2019 – 2027."
+    publishedDateTime: 2021-07-08T20:57:00Z
+    webUrl: "https://ksusentinel.com/2021/07/08/ai-in-telecommunication-market-growth-analysis-strategies-demands-in-after-coronavirus-lockdown-over-the-world/"
+    type: article
+    provider:
+      name: The Sentinel
+      domain: ksusentinel.com
+    quality: 16
+    images:
+      - url: "https://i.ibb.co/gwz2JJz/a2.jpg"
+        width: 627
+        height: 444
+        isCached: true
+
 secured: "ra3PNBzq6Tjy7kXzGmSCLabgIcnUDJrtnQGpqxSdzwCBZN6ZewZr55wFuVlIvznUsIuH7hYwqg/oSeQUgqUYF5jCccCutUC7dmtY0jhP2VHUSzKGP2DbMlZ3LDSs9lGTzmpK1Bw2DcvxAIjCxp48W6FPhEA0zjyQo7sWOPwzW4h/K9EjaRUfciaET+e6a8dhgGFCpg+vI53yzTBl83CkiPz6yqc2xkxtuqvfEZ5GS8o1jxjli7kbwJGWoQARqfdAvavNxt1EQedZptfPLDlIk58oVaXavuB5D8XCRX+vq1gDXLrTPkx2BaZ/HAAfdzKDweABLclS9BHvulvuBTsnMrx0/2ehldjbJ//wHmpoSXk=;42yBjJ2tKgrh6PhpfjWCHg=="
 ---
 

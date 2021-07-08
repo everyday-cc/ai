@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/deep-learning-market-siz
 webUrl: "https://www.marketwatch.com/press-release/deep-learning-market-size-2021-global-industry-trends-segments-competitors-strategy-regional-analysis-key-players-statistics-and-growth-to-2030-2021-07-06"
 type: article
 quality: 32
-heat: 32
+heat: -1
 published: false
 
 provider:
@@ -30,19 +30,63 @@ images:
     isCached: true
 
 related:
-  - title: "Military Robots Market Analysis with Key Players, Applications, Trends and Forecasts to 2027"
-    excerpt: "which in result increase the demand for military robots. According to Artificial Intelligence and National Security, in 2008 Russian defense modernization agenda aims at robotizing 30% of its military equipment by 2025. As per Congressional Research ..."
-    publishedDateTime: 2021-07-07T03:39:00Z
-    webUrl: "https://www.reseller.co.nz/mediareleases/143682/military-robots-market-analysis-with-key-players/"
+  - title: "automotive self driving chip Industry Updates 2021: Global Market by COVID-19 Impact Analysis"
+    excerpt: "Global Market Research Report on automotive self driving chip Market 2021 is a professional and in-depth complete study on the current state of the automotive self driving chip worldwide. It estimates and forecasts the market,"
+    publishedDateTime: 2021-07-08T20:01:00Z
+    webUrl: "https://manometcurrent.com/automotive-self-driving-chip-industry-updates-2021-global-market-by-covid-19-impact-analysis/"
     type: article
     provider:
-      name: Reseller News
-      domain: reseller.co.nz
-    quality: 8
-  - title: "Computer Vision Market Size and Growth to 2028 | Key Players – Cognex, Basler, Omron, Keyence, National Instruments, Sony"
-    excerpt: "The Computer Vision Market report forecasts promising growth and development for the period 2021-2028. The Computer Vision market research report defines key statistical data presented in an organized format including graphs,"
-    publishedDateTime: 2021-07-05T18:53:00Z
-    webUrl: "https://manometcurrent.com/computer-vision-market-size-and-growth-to-2028-key-players-cognex-basler-omron-keyence-national-instruments-sony/"
+      name: manometcurrent.com
+      domain: manometcurrent.com
+    quality: 45
+    images:
+      - url: "https://manometcurrent.com/wp-content/uploads/2021/07/Facial-Rejuvenation-Market-390x220.jpg"
+        width: 390
+        height: 220
+        isCached: true
+  - title: "Self-driving Car Technology Market Research, Growth Opportunities, Key Players, Outlook and Forecasts Report 2021-2027"
+    excerpt: "Final Report will add the analysis of the impact of COVID-19 on this industry.” Global “ Self-driving Car Technology Market ” Report 2021 evaluating the current state of the market. It provides detail overview of market segmentation,"
+    publishedDateTime: 2021-07-05T05:51:00Z
+    webUrl: "https://www.marketwatch.com/press-release/self-driving-car-technology-market-research-growth-opportunities-key-players-outlook-and-forecasts-report-2021-2027-2021-07-05"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 30
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "COVID-19 Impact and Analysis|Artificial Intelligence Market In The Industrial Sector| Technavio"
+    excerpt: "Technavio has been monitoring the artificial intelligence market in the industrial sector, operating under the industrials segment."
+    publishedDateTime: 2021-07-06T02:50:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/21/07/n21849463/covid-19-impact-and-analysis-artificial-intelligence-market-in-the-industrial-sector-technavio"
+    ampWebUrl: "https://www.benzinga.com/amp/content/21849463"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/21849463"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 25
+  - title: "Impact of COVID-19 on Artificial Intelligence Market to Record Significant Revenue Growth During the Forecast Period 2021-2026"
+    excerpt: "The outbreak of covid-19 in the global market has made companies uncertain about their future scenario as the prolonged lock-down finds a serious economic slump. The latest survey on COVID-19 Outbreak-Global Artificial Intelligence Market is conducted to provide hidden gems performance analysis."
+    publishedDateTime: 2021-07-05T15:53:00Z
+    webUrl: "https://manometcurrent.com/impact-of-covid-19-on-artificial-intelligence-market-to-record-significant-revenue-growth-during-the-forecast-period-2021-2026/"
+    type: article
+    provider:
+      name: manometcurrent.com
+      domain: manometcurrent.com
+    quality: 9
+    images:
+      - url: "https://suprememarketresearchreports.files.wordpress.com/2020/10/global-1.jpg?w=622"
+        width: 622
+        height: 350
+        isCached: true
+  - title: "COVID-19 Impact Analysis of Self-driving Ships Market Report 2021 | Kongsberg, Rolls-Royce, ASV, DARPA, NYK Line"
+    excerpt: "Global Self-driving Ships Market research report provides the latest manufacturing data and future trends, enabling you to recognize results, revenue growth, and profitability. This industry report lists the top competitors and provides revolutionary strategic analysis of the key drivers of the market."
+    publishedDateTime: 2021-07-07T14:48:00Z
+    webUrl: "https://manometcurrent.com/covid-19-impact-analysis-of-self-driving-ships-market-report-2021-kongsberg-rolls-royce-asv-darpa-nyk-line/"
     type: article
     provider:
       name: manometcurrent.com

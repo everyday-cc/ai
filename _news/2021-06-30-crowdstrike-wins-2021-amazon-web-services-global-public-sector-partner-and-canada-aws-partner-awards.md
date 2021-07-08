@@ -1,23 +1,30 @@
 ---
 category: news
 title: "CrowdStrike Wins 2021 Amazon Web Services Global Public Sector Partner and Canada AWS Partner Awards"
-excerpt: "CrowdStrike, a leader in cloud-delivered endpoint and workload protection, today announced it has been named the winner of two key Amazon Web Services ( News - Alert) (AWS) partner-focused awards - the 2021 AWS Global Public Sector Partner Award for best cybersecurity solution and 2021 Canada AWS Partner Award as the ISV Partner of the Year."
-publishedDateTime: 2021-06-30T12:12:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/2021/06/30/9400745.htm"
-webUrl: "https://www.tmcnet.com/usubmit/2021/06/30/9400745.htm"
+excerpt: "CrowdStrike, a leader in cloud-delivered endpoint and workload protection, today announced it has been named the winner of two key Amazon Web Services"
+publishedDateTime: 2021-06-30T12:00:00Z
+originalUrl: "https://www.marketwatch.com/press-release/crowdstrike-wins-2021-amazon-web-services-global-public-sector-partner-and-canada-aws-partner-awards-2021-06-30"
+webUrl: "https://www.marketwatch.com/press-release/crowdstrike-wins-2021-amazon-web-services-global-public-sector-partner-and-canada-aws-partner-awards-2021-06-30"
 type: article
-quality: 19
-heat: 19
-published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: MarketWatch
+  domain: marketwatch.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AWS AI
   - AI
 
-secured: "MxNpy5rv6pCJbyP8cczmgsJsj1uKhslhT94i/oUtrHq+faiLxbCe76ioVLLVdxl1g6utuKhh2g0WXgFKC1chEaKOixw4FE9p4Z0dGxYtxowZUhAjaSmzrY4I4auHtrcftzU5QxNSpmMg4U77d7H3AA+mZGcgadhcypv0ALZ7WA0pmwIPs7lS5MuZi4forTj4g3DAVfnAvZ3NSZ2M0fcIxHjL8AQFq6bBPkYRQf3arh0VhNXnH5GYR0z5Ejw/GcCn0Ow6k9qSB6RD/TuJfV1xHV+wLLOJlNEttmhXpS145Anwkdyb4+wwHQEF+C/j6mLTwYZU/RYSFZZ33ujHTkRPUa3WyShaoCNR7lYpoxF26q8=;np5uWMcz//0C+E20Pxjk3g=="
+images:
+  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+    width: 1200
+    height: 630
+    isCached: true
+
+secured: "//cy9I927XY6+cBhVVNBq2v28xbsZrExjYpxSzNovcgwX7dZQ8B8c8xb246Ve3tprOj6XYdq+PNECb6ixOQR2+riQr5BWPiHVFgjjih7adKRH5iKCiqI1t3xtTv2SPeW5vMgo9H8w8cCRtyrdODmGCihQPj1ebs3XNzYW0HSz/zKirDkDReS1Qm0vLQoIuoqM0gWtJXz0Kt+3Mp9NefLuyEz6XxLJZHcb1QYmnXec5Vi45MUdipCaX8EoDIwokE01uCLrZxMzRL+O2ozuPqQhmn+jObyOIcfKYCJulccth5dwvLYD0b4J/9uHmY1R5yhlaUIif7hfupc07er/eRgY25S1n37+wQYUGCBXoUQFd4=;jFRUsUb0qOckHnp3H9+ihg=="
 ---
 

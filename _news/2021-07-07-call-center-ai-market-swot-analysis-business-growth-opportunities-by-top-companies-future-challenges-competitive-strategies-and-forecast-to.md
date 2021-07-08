@@ -38,20 +38,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Self-driving Car Technology Market Research, Growth Opportunities, Key Players, Outlook and Forecasts Report 2021-2027"
-    excerpt: "Final Report will add the analysis of the impact of COVID-19 on this industry.” Global “ Self-driving Car Technology Market ” Report 2021 evaluating the current state of the market. It provides detail overview of market segmentation,"
-    publishedDateTime: 2021-07-05T05:51:00Z
-    webUrl: "https://www.marketwatch.com/press-release/self-driving-car-technology-market-research-growth-opportunities-key-players-outlook-and-forecasts-report-2021-2027-2021-07-05"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 30
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "AI Training Data Market All Set to Witness Massive Growth during Forecast 2021-2027 With Top Vendors Like"
     excerpt: "This AI Training Data Industry market report uncovers multiple growth opportunities that users can consider to capitalize on, along with insights on top industry trends to invest in. This section intends to facilitate the process of critical decision making for users."
     publishedDateTime: 2021-07-08T06:39:00Z

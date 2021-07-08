@@ -185,6 +185,20 @@ related:
         width: 3024
         height: 4032
         isCached: true
+  - title: "Fintech firm, Tangerine, launches pension, insurance products"
+    excerpt: "A leading financial services and technology platform, Tangerine, officially launched its financial service product offerings at a press conference held on Wednesday July 7. Speaking at the press conference was Livingstone Magorimbo,"
+    publishedDateTime: 2021-07-08T21:16:00Z
+    webUrl: "https://www.premiumtimesng.com/promoted/472505-fintech-firm-tangerine-launches-pension-insurance-products.html"
+    type: article
+    provider:
+      name: Premium Times
+      domain: premiumtimesng.com
+    quality: 24
+    images:
+      - url: "https://media.premiumtimesng.com/wp-content/files/2021/07/Lead-Image.jpg"
+        width: 1620
+        height: 1080
+        isCached: true
   - title: "How to find funding in the fintech space and what the Government can do to support the UK’s position"
     excerpt: "Over the last decade, the UK has been undergoing a fintech revolution seeing increased opportunities in global trade, jobs, and innovation to become the global hub that it is today. Yet for many, the image of fintech is stuck in Shoreditch,"
     publishedDateTime: 2021-07-07T19:18:00Z

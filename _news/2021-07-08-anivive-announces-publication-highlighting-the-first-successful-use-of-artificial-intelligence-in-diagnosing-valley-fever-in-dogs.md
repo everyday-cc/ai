@@ -2,22 +2,28 @@
 category: news
 title: "Anivive Announces Publication Highlighting the First Successful Use of Artificial Intelligence in Diagnosing Valley Fever in Dogs"
 excerpt: "Anivive, a pet health technology company transforming the therapeutic discovery and development process, announced the publication of \"Detecting Pulmonary Coccidioidomycosis (Valley fever) with Deep Convolutional Neural Networks,"
-publishedDateTime: 2021-07-07T17:05:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-anivive-announces-publication-highlighting-first-successful-use-artificial-/2021/07/07/9404679.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-anivive-announces-publication-highlighting-first-successful-use-artificial-/2021/07/07/9404679.htm"
+publishedDateTime: 2021-07-07T17:20:00Z
+originalUrl: "https://www.lelezard.com/en/news-19891775.html"
+webUrl: "https://www.lelezard.com/en/news-19891775.html"
 type: article
-quality: 0
-heat: 0
+quality: 10
+heat: 10
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Le Lézard
+  domain: lelezard.com
 
 topics:
-  - Machine Learning
+  - AI in Healthcare
   - AI
 
-secured: "pCRjx+uJM2Xj7QYDAVEa3aHPrdaU44TnZmSSq6rZ727gfqu/BWCqxUhz8+ONLFZw7HnQE4k5F5fqERisPMTiQFLgG5ZYecOz7Nuqycbpk9nCDk0mXigxWikU1vA6x21PbMhRacquYJaosKsLhjCRshb43Hfoe9NmUbozSiGcKyFcF8J2goYa5NDPkaqycIHDl+9xBZhGTwyR6AKTdnhL/q4nDERmNc+bwRbPnmuLcQ353jk6id07oCzDiT9zWumJzaDzYADR3LqQDHkuVSoiXuhK2910OySmzYQg6TB4KDGiw/PbHbUze9bTMlIepyTIrCf8n0XvliyW4HuEXp/WXDz959zKw9J9cawnqEqpmz0=;JuF6jhbvfWXrN5IVJtUleQ=="
+images:
+  - url: "https://www.lelezard.com/img/pr_sections/health.jpg"
+    width: 640
+    height: 480
+    isCached: true
+
+secured: "1NQw5aHZSpvHBfer0/D0/ds3W3TYDFxWJX6guVp0ks+QIv9PgJjk6SjATs5lAFLA9iWzMmEAuXK9549J+5VWxxAQ9gW5JjfhCvYmFBiem32NyGl9NplKnxPNxNHp9VxKU33stXbI/x5UiADgjm3bcvsR2LR0xQ72UxyeKA0Hr2J3j/cUUWo4yqzWnw9TTioZJaYtff3TLjyYW0q1MfLfFzVu8ou/FGO1rmmFXYtFsEBzU9b1acOmhTDNMTypaR9wXC5NX48q9cNJrl1nkTNmux93Cc6IlPn+TjMDn033niENR3yZCj3/uENvIPqRtXLHVVf/qCQ87eZUH1mfNSH2kLWgnfCSVG15iPY9ENLCrVU=;PF1OrpsEdX7C/MUCrMKI+g=="
 ---
 

@@ -7,7 +7,7 @@ originalUrl: "https://manometcurrent.com/impact-of-covid-19-on-artificial-intell
 webUrl: "https://manometcurrent.com/impact-of-covid-19-on-artificial-intelligence-market-to-record-significant-revenue-growth-during-the-forecast-period-2021-2026/"
 type: article
 quality: 9
-heat: 9
+heat: -1
 published: false
 
 provider:
@@ -24,20 +24,68 @@ images:
     isCached: true
 
 related:
-  - title: "Facial Tracking Solutions Market witnessing market growth at a rate of 14.55% in the forecast period 2027"
-    excerpt: "Increasing demand for cloud based facial recognition technology is expected to enhance the market growth. Some of the other factors such as growth in surveillance industry, security reasons, technological advancement in facial tracking solutions,"
-    publishedDateTime: 2021-07-07T15:54:00Z
-    webUrl: "https://manometcurrent.com/facial-tracking-solutions-market-emerging-technologies-and-innovations-key-players-herta-security-facephi-sightcorp-beijing-kuangshi-technology-co-ltd-facefirst-animetrics-and-more-forecas/"
+  - title: "automotive self driving chip Industry Updates 2021: Global Market by COVID-19 Impact Analysis"
+    excerpt: "Global Market Research Report on automotive self driving chip Market 2021 is a professional and in-depth complete study on the current state of the automotive self driving chip worldwide. It estimates and forecasts the market,"
+    publishedDateTime: 2021-07-08T20:01:00Z
+    webUrl: "https://manometcurrent.com/automotive-self-driving-chip-industry-updates-2021-global-market-by-covid-19-impact-analysis/"
     type: article
     provider:
       name: manometcurrent.com
       domain: manometcurrent.com
-    quality: 7
+    quality: 45
     images:
-      - url: "https://manometcurrent.com/wp-content/uploads/2021/06/Business-390x220.jpg"
+      - url: "https://manometcurrent.com/wp-content/uploads/2021/07/Facial-Rejuvenation-Market-390x220.jpg"
         width: 390
         height: 220
         isCached: true
+  - title: "Deep Learning Market Size 2021 Global Industry Trends, Segments, Competitors Strategy, Regional Analysis, Key Players, Statistics and Growth to 2030"
+    excerpt: "Facebook announced the launch of its deep learning framework PyTorch 1.0. The framework includes a set of tools which makes it more compatible with platforms like Google Cloud, Amazon Web Services, and Microsoft's Azure Machine Learning. In October 2018 ..."
+    publishedDateTime: 2021-07-07T03:35:00Z
+    webUrl: "https://www.marketwatch.com/press-release/deep-learning-market-size-2021-global-industry-trends-segments-competitors-strategy-regional-analysis-key-players-statistics-and-growth-to-2030-2021-07-06"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 32
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Self-driving Car Technology Market Research, Growth Opportunities, Key Players, Outlook and Forecasts Report 2021-2027"
+    excerpt: "Final Report will add the analysis of the impact of COVID-19 on this industry.” Global “ Self-driving Car Technology Market ” Report 2021 evaluating the current state of the market. It provides detail overview of market segmentation,"
+    publishedDateTime: 2021-07-05T05:51:00Z
+    webUrl: "https://www.marketwatch.com/press-release/self-driving-car-technology-market-research-growth-opportunities-key-players-outlook-and-forecasts-report-2021-2027-2021-07-05"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 30
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "COVID-19 Impact and Analysis|Artificial Intelligence Market In The Industrial Sector| Technavio"
+    excerpt: "Technavio has been monitoring the artificial intelligence market in the industrial sector, operating under the industrials segment."
+    publishedDateTime: 2021-07-06T02:50:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/21/07/n21849463/covid-19-impact-and-analysis-artificial-intelligence-market-in-the-industrial-sector-technavio"
+    ampWebUrl: "https://www.benzinga.com/amp/content/21849463"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/21849463"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 25
+  - title: "COVID-19 Impact Analysis of Self-driving Ships Market Report 2021 | Kongsberg, Rolls-Royce, ASV, DARPA, NYK Line"
+    excerpt: "Global Self-driving Ships Market research report provides the latest manufacturing data and future trends, enabling you to recognize results, revenue growth, and profitability. This industry report lists the top competitors and provides revolutionary strategic analysis of the key drivers of the market."
+    publishedDateTime: 2021-07-07T14:48:00Z
+    webUrl: "https://manometcurrent.com/covid-19-impact-analysis-of-self-driving-ships-market-report-2021-kongsberg-rolls-royce-asv-darpa-nyk-line/"
+    type: article
+    provider:
+      name: manometcurrent.com
+      domain: manometcurrent.com
+    quality: 0
 
 secured: "DCh14w67OywVQbAeukNSpX0UbZ5Q/ibW6zsRH/TaL0k9kUeO6yvmO8d6ZEs/W8MKawvRHcFBuAY+p4pOhLDKoqvksR5ccSZZa1EBTPM1rR18CSqlWgD4M8fN+NYoQ71AtKnj6iLsANFHmRLK87xJlITTvY2n0bxjg4UKQJA/2Wm6ByU6JwcdauV2g01Iq5FoJIExHWrsYbCqX+rzIZ0maF2XAywai6Mf5zsVRZK6gAPRz744W3gSIt7vy56SxFuxLH+ngLDSG6ZwwH9TUtLK8WgQT+9GurOux/TOv7t69AGX6CT6igfk6jLt/n3wqOVr4uTbiQ+33BvICvVvyO5f4Uhg8Ppa25N3AoLkPqDYCgg=;kH8IZAJhK29nKDJr3CIAxg=="
 ---

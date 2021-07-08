@@ -42,6 +42,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Microsoft aims to expedite new edge computing use cases with Azure Percept"
+    excerpt: "With the modern cloud landscape nearing a point of saturation in terms of bandwidth, 5G combined with edge computing and AI looks to further ... silicon and telecom, Azure edge devices, and ..."
+    publishedDateTime: 2021-07-08T21:36:00Z
+    webUrl: "https://siliconangle.com/2021/07/08/microsoft-aims-expedite-new-edge-computing-use-cases-azure-percept-mwc21/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 67
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/07/Pete-Bernard-Mobile-World-Congress-2021.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
 
 secured: "pFrHzWRwBqfLLMwYTY3wN3MsoVx+lZNS7mnPB0b6c+Qou9SMP/ZSZDz0Kj2kEJgDdx9t7NeEWVBt9YpMKbbDgnbOgupG1Kan4CfxT6ciz5kv1pM6sXkMstkChz0W8fMyB+OXO/8T02X+bPeUrZ2PFlnIm57xDUyvM97LGMm4ole5rduesS7er+jxcb0XczYcC6IK/ROoDCPLTkcH70ZToD1Q7wYkbYhjfajtgfQqivqxk66ePxJjLgxudPGlZntOUulf7Iwb+vg+vy8BMHVqLU7Av5O11FBxvNBgHP+YH7x22heJ8Sd3M6J5gdehZmDlk3m5X/jmTaYb8hdbOmr3lbuDoA7w7jkiRApqbo6/Ce4OQ37ryq6nQE2uY2Xi0c0YNIsq2QVSf0/FpzoC9vlTg2AP4ynKROu5MG5v/YinxRrAZWIv8f76xjlta6bwWmfVpBlbmjeuOEo7YBMPuYMXU7Z5ezCC0D9dahODjHjzB7iOSbov92Dd1+K8SMxHUCbfzKniCmIVCg7qw0ZdgvaWhA==;+99qENPs0I23ibBIhqHiOQ=="
 ---

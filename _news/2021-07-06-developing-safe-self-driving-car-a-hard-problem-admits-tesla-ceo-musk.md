@@ -9,7 +9,7 @@ ampWebUrl: "https://wap.business-standard.com/article-amp/automobile/developing-
 cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/automobile/developing-safe-self-driving-car-a-hard-problem-admits-tesla-ceo-musk-121070600204_1.html"
 type: article
 quality: 58
-heat: 118
+heat: 98
 published: true
 
 provider:
@@ -42,20 +42,6 @@ related:
       - url: "https://englishtribuneimages.blob.core.windows.net/gallary-content/2021/7/Desk/2021_7$thumbimg_1524855205.JPG"
         width: 350
         height: 232
-        isCached: true
-  - title: "Elon Musk Admits That Full-Self Driving Is a Hard Problem To Solve"
-    excerpt: "CEO Elon Musk admitted this weekend that creating a car that is truly self-driving is a “hard problem” to solve. Musk has been promising to release Full Self-Driving software upgrades for several years,"
-    publishedDateTime: 2021-07-06T02:01:00Z
-    webUrl: "https://hypebeast.com/2021/7/elon-musk-full-self-driving-hard-problem-to-solve"
-    type: article
-    provider:
-      name: Hypebeast
-      domain: hypebeast.com
-    quality: 39
-    images:
-      - url: "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2021%2F07%2FElon-Musk-Admits-That-Full-Self-Driving-Is-a-Hard-Problem-To-Solve-tw.jpg?w=960&cbr=1&q=90&fit=max"
-        width: 960
-        height: 480
         isCached: true
   - title: "Musk: making self-driving cars is difficult"
     excerpt: "Tesla CEO Elon Musk has admitted creating fully autonomous vehicles is more difficult than he expected at a time when his company is facing greater public scrutiny for Autopilot accidents. “Generalised self-driving is a hard problem,"
@@ -94,15 +80,6 @@ related:
       name: Webindia 123
       domain: webindia123.com
     quality: 4
-  - title: "Elon Musk Just Now Realizing that Self-driving Cars are a ‘Hard Problem’"
-    excerpt: "Tesla CEO Elon Musk is finally admitting that he underestimated how difficult it is to develop a safe and reliable self-driving car. To which the entire engineering community rose up as one to say, \"No duh."
-    publishedDateTime: 2021-07-06T20:04:00Z
-    webUrl: "https://cacm.acm.org/news/253791-elon-musk-just-now-realizing-that-self-driving-cars-are-a-hard-problem/fulltext"
-    type: article
-    provider:
-      name: acm.org
-      domain: acm.org
-    quality: 3
 
 secured: "XZOPi558UJlyFObCYBSsTzEWiaGSwXiTxpCQsW+UUQ48Dmx4o6HS0BBNBXo0cx6w3Szoo57nYGp8XmvZItuwjZe6wmcrGgOBPMRZRwopeXijZBDx9+vyhefZa05SqOBaSJJkKA8cFdDwYG+5hpuIVAQ93vbegCnKSEvOxwbMOcn9rdNyJEuEFMzZvJZlCNxD6zIrvqDVu6OidZLax5uZrVuCWmVqTO4vH5/mv8AML8Lgomg0kUnTiGnzVxCk7wV18ifSD0XWAU6/JkEaHUskGINZHIjh4i3RiHUvk4LcvKnuzWBqDJdurhhFP6IvLhdmPjMBkff309gmrNwzrQ5aWHbUQgSCY61fZ3c+KaWy7y1u5mWE1WOWaPmjQ2WgLXKvWrDPMVY4Dptnjkv+HUEFPdWtHqXT0+1TZEsAsVwNgkU8+Q7s0EK6OsQKO970St1OyH/r8swb0YXLb3F5otx63P6sjXRD0I/y5KD+4rxCISmklZiV9sdRZnsORcNDwnp0DOQQYaNUQFEF7JICvGuEPg==;JI/epUkmQ0qdFDeUquVHeQ=="
 ---

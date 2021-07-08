@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-07-09-self-driving-teams-have-always-strived-to-measure-safety-what-if-thats-not-the-hard-thing.md",
+      "title": "Self-Driving Teams Have Always Strived To Measure Safety. What If That’s Not The Hard Thing?",
+      "excerpt": "Since the first dream of self-driving, there has always been a sharp focus (including from myself) on safety. The ability to reduce accidents is the grandest purpose of these projects, and every team declares that safety is at the core of everything they do.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/bradtempleton/2021/07/08/self-driving-teams-have-always-strived-to-measure-safety--what-if-thats-not-the-hard-thing/",
+      "originalUrl": "https://www.forbes.com/sites/bradtempleton/2021/07/08/self-driving-teams-have-always-strived-to-measure-safety--what-if-thats-not-the-hard-thing/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 93,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60e7638a994a15dff9ca0980%2F0x0.jpg",
+          "width": 1200,
+          "height": 774,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/bradtempleton/2021/07/08/self-driving-teams-have-always-strived-to-measure-safety--what-if-thats-not-the-hard-thing/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bradtempleton/2021/07/08/self-driving-teams-have-always-strived-to-measure-safety--what-if-thats-not-the-hard-thing/amp/",
+      "publishedDateTime": "2021-07-08T13:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-09-ceo-robin-li-fast-tracks-smart-ev-development-to-harness-baidus-ai-tech-and-mount-a-challenge-to-tesla.md",
       "title": "CEO Robin Li fast-tracks smart EV development to harness Baidu’s AI tech and mount a challenge to Tesla",
       "excerpt": "The tech giant is hoping to harness its AI tech as it builds an EV presence, in a market where electrification and digitalisation are redrawing the landscape.",
@@ -1172,48 +1224,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-08-nist-proposal-aims-to-reduce-bias-in-artificial-intelligence.md",
-      "title": "NIST Proposal Aims to Reduce Bias in Artificial Intelligence",
-      "excerpt": "The National Institute of Standards and Technology recently released a proposal regarding the risk of bias in the use of artificial intelligence to help reduce it. The agency is seeking comments from the tech community.",
-      "sourceUrl": null,
-      "webUrl": "https://www.govtech.com/products/nist-proposal-aims-to-reduce-bias-in-artificial-intelligence",
-      "originalUrl": "https://www.govtech.com/products/nist-proposal-aims-to-reduce-bias-in-artificial-intelligence",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://erepublic.brightspotcdn.com/dims4/default/cc0ed60/2147483647/strip/true/crop/940x490+0+68/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2F36%2F15%2Fbb6e7321b66b3501007e72aa2c85%2Fshutterstock-6785833751.jpg",
-          "width": 840,
-          "height": 438,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.govtech.com/products/nist-proposal-aims-to-reduce-bias-in-artificial-intelligence?_amp=true",
-      "cdnAmpWebUrl": "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/products/nist-proposal-aims-to-reduce-bias-in-artificial-intelligence?_amp=true",
-      "publishedDateTime": "2021-07-07T14:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Government Technology",
-        "domain": "govtech.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

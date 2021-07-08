@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nytimes.com/2021/07/07/arts/music/ai-song-contest.amp.ht
 cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/07/07/arts/music/ai-song-contest.amp.html"
 type: article
 quality: 89
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -29,6 +29,22 @@ images:
     width: 1050
     height: 550
     isCached: true
+
+related:
+  - title: "Robots can make music, but can they sing?"
+    excerpt: "things start to fracture, as twitchy beats and samples fuse with bizarre lyrics like \"Do the cars come with push-ups?\" and a robotic voice intertwines with the human sound. The transition is meant to evoke the song's co-writer: artificial intelligence."
+    publishedDateTime: 2021-07-08T21:00:00Z
+    webUrl: "https://www.straitstimes.com/opinion/robots-can-make-music-but-can-they-sing"
+    type: article
+    provider:
+      name: The Straits Times
+      domain: straitstimes.com
+    quality: 39
+    images:
+      - url: "https://static.straitstimes.com.sg/s3fs-public/styles/x_large/public/articles/2021/07/08/possessed-photography-u3sowvixhky-unsplash.jpg?itok=58k6REt2"
+        width: 763
+        height: 509
+        isCached: true
 
 secured: "Xhde9iMrP6j+Wmb55iyrTc3G7gXIuZGDj5ZbO1GDJGc4q4hfdISXkrnkE2gfcvStKY6d6fvCFXum5C0TMNBlddDflE87A79Q05C+MErcBoDw7QwhJRwSgDNRSBO5wNa4Q0y96t5sMy0TCL24NnvoZe5H4S1/MzGOX4m0MPUqrYl95P7VR9mnnN2xVrQ87tO3BSwMRraWLSX0p99mK6VqHJhp/SpuDqOGsxqetywgtg9TcGESWUdLIAb+R/DiEDaL+vLhZDFQyI7YPxzzg+7Gno9uuyMiD40wnEE+2y8tPn2nuS49wJSFjwx3Tc0DeZYRTNxKznqgu07MhJjBXxDy8TfXyp3Q+h77U026aOay0rstqwbJ/ne/80fUALIvSbHROLAYsMrR4uq3KoSgVk2np6qwKokpSX2NwoF2lFyFHA0ICqrbCen7fLPcXsonSUGG9Bp92X24pBnD3zGAKd2Ssi/6RTDYUQwDvHFuhXkXYdW0u9jKx7UQvQql5vlwb2uaued/KdRLYSlcb27ya7Z7Ew==;AV7iVivSPF1ZG4sVG/wi1g=="
 ---

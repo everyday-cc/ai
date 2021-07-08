@@ -193,6 +193,20 @@ related:
         width: 2048
         height: 1136
         isCached: true
+  - title: "Fintech firm, Tangerine, launches pension, insurance products"
+    excerpt: "A leading financial services and technology platform, Tangerine, officially launched its financial service product offerings at a press conference held on Wednesday July 7. Speaking at the press conference was Livingstone Magorimbo,"
+    publishedDateTime: 2021-07-08T21:16:00Z
+    webUrl: "https://www.premiumtimesng.com/promoted/472505-fintech-firm-tangerine-launches-pension-insurance-products.html"
+    type: article
+    provider:
+      name: Premium Times
+      domain: premiumtimesng.com
+    quality: 24
+    images:
+      - url: "https://media.premiumtimesng.com/wp-content/files/2021/07/Lead-Image.jpg"
+        width: 1620
+        height: 1080
+        isCached: true
 
 secured: "vROBFLexNM8XBjUlEESc3PgeeR97r52ypyndcDDIrEMbxmotsX/810XJq/8Egagh8msIhIA8eoO/Z+dpatTwme5cRu122VMNUZLXICYcIx/BdDllHUx2c40g3kw4QHfvSqj41AM+uYHLE+LM0EmQ12Ql36hbZxMPkbIHpQ0/Rat9FQVUPtZ3cJmJtJc8tXdaplLzoX0EsFFluS+SbNmc7l0xLssEZbRkqnYu3JaXvOH7fQkJJQTfr/ct//ENv5sRnCxuwfiu1fuTxBnlcn0wm/6xfa9zU17la49oLS/6pzLmC7f755LCMAnwAQ59cPnFZ6RasXv/tH5Zx+b0HZe7C+//p2xyERuvy8CizQtM8qQ=;gJ4cszwLwaewx24zOKa2lw=="
 ---

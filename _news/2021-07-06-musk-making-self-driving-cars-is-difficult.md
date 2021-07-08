@@ -57,20 +57,6 @@ related:
         width: 350
         height: 232
         isCached: true
-  - title: "Elon Musk Admits That Full-Self Driving Is a Hard Problem To Solve"
-    excerpt: "CEO Elon Musk admitted this weekend that creating a car that is truly self-driving is a “hard problem” to solve. Musk has been promising to release Full Self-Driving software upgrades for several years,"
-    publishedDateTime: 2021-07-06T02:01:00Z
-    webUrl: "https://hypebeast.com/2021/7/elon-musk-full-self-driving-hard-problem-to-solve"
-    type: article
-    provider:
-      name: Hypebeast
-      domain: hypebeast.com
-    quality: 39
-    images:
-      - url: "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2021%2F07%2FElon-Musk-Admits-That-Full-Self-Driving-Is-a-Hard-Problem-To-Solve-tw.jpg?w=960&cbr=1&q=90&fit=max"
-        width: 960
-        height: 480
-        isCached: true
   - title: "Elon Musk says he didn’t expect creating self-driving cars would be ‘so hard’"
     excerpt: "Elon Musk has admitted that delivering full self-driving software has been harder than he anticipated, to a chorus of both complaints and encouragement on Twitter. “Generalised self-driving is a hard problem,"
     publishedDateTime: 2021-07-05T18:16:00Z
@@ -94,15 +80,6 @@ related:
       name: Webindia 123
       domain: webindia123.com
     quality: 4
-  - title: "Elon Musk Just Now Realizing that Self-driving Cars are a ‘Hard Problem’"
-    excerpt: "Tesla CEO Elon Musk is finally admitting that he underestimated how difficult it is to develop a safe and reliable self-driving car. To which the entire engineering community rose up as one to say, \"No duh."
-    publishedDateTime: 2021-07-06T20:04:00Z
-    webUrl: "https://cacm.acm.org/news/253791-elon-musk-just-now-realizing-that-self-driving-cars-are-a-hard-problem/fulltext"
-    type: article
-    provider:
-      name: acm.org
-      domain: acm.org
-    quality: 3
 
 secured: "c77R0tyVvEDLeMi/5SKlWC7LMt9grLnxpq40Utc5UljzAPjX9XyGwjN+dUttdqJsPH9kzYgJk07qbt2MyF1/Dr/SanBu7ZIaanoT84wkeRg6QEuv0ZvNkLvDm6HhEy8NR0V0FB/UTEg0q/xltQr11/fdrFlv7UOhoXaefoxXgrQfcq84AKEIUq2+9JVbIwqQOe0cC2PgdvjHptpULAzfOLfo2CwEpEyXQZ4nIq1yyRX+KArZwyiYmFWOCGOLja8eljqoccNF0We4+R203jaPYZgnbV35QzsPAYyhbtMxlwRUxVvwsGsUluzKH9h8zmZCA73Bvd1g5vIcexWFtZNR4jgOh+MpPnUfsWVgrv8DyhYAfh7DrlcnmjTuovca2m3TYFlKRTGJzRW3x+ytAHN7kOP9HMHk5iQjtROGBPdOe1UEzKbc5CzI4VdPBLNCava0SaWbZgy4A8u7WH7aEPwudmXdoQ7kjvGs8QhTT2af6OgSdD+kEGamUDkATV3A18ld5XGk7FGyDI2YL5v55mxyZg==;hUnn683JkEfoW/OMwDg7Kg=="
 ---

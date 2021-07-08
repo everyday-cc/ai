@@ -98,16 +98,19 @@ related:
         height: 400
         isCached: true
   - title: "Blue Prism & Lateetud, Inc. recognized as finalists of the 2021 Microsoft AI Partner of the Year"
-    excerpt: "Blue Prism and Lateetud created a turnkey, cloud-delivered solution on Azure to automate SBA PPP loans, combining Blue Prism's intelligent automation platform with the Microsoft Power Platform and Azure Cognitive Services. The solution uses Azure Form ..."
-    publishedDateTime: 2021-07-08T19:40:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/21/07/n21904040/blue-prism-lateetud-inc-recognized-as-finalists-of-the-2021-microsoft-ai-partner-of-the-year"
-    ampWebUrl: "https://www.benzinga.com/amp/content/21904040"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/21904040"
+    excerpt: "Blue Prism® and Lateetud today announced that their joint solution has been named a finalist for the Artificial Intelligence 2021"
+    publishedDateTime: 2021-07-08T19:05:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/blue-prism--lateetud-inc-recognized-as-finalists-of-the-2021-microsoft-ai-partner-of-the-year-301328149.html"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
+      name: PR Newswire
+      domain: prnewswire.com
     quality: 41
+    images:
+      - url: "https://mma.prnewswire.com/media/663826/Blue_Prism_Logo.jpg?p=facebook"
+        width: 2696
+        height: 1414
+        isCached: true
   - title: "Qlik Recognized as a Finalist of 2021 Microsoft Analytics Partner of the Year Award"
     excerpt: "Qlik ® today announced it has been named a finalist of the 2021 Microsoft Analytics Partner of the Year Award. The company was honored among a global field of top Microsoft partners for demonstrating excellence in innovation and implementation of customer solutions based on Microsoft technology."
     publishedDateTime: 2021-07-08T19:02:00Z

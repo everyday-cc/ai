@@ -39,6 +39,20 @@ related:
         width: 690
         height: 400
         isCached: true
+  - title: "$3 Million Caltech Center to Advance At-Home Health Care Technology"
+    excerpt: "A multi-institution partnership that includes Caltech aims to develop clinically validated technologies to remotely monitor patient health. Caltec"
+    publishedDateTime: 2021-07-08T20:45:00Z
+    webUrl: "https://www.pasadenanow.com/main/3-million-caltech-center-to-advance-at-home-health-care-technology/"
+    type: article
+    provider:
+      name: Pasadena Now
+      domain: pasadenanow.com
+    quality: 24
+    images:
+      - url: "https://www.pasadenanow.com/main/wp-content/uploads/2021/07/Ransomware1.jpg"
+        width: 739
+        height: 400
+        isCached: true
 
 secured: "+j9axsbeFAAhyvve6IP18Q/+XpAH6i0JPNUqudqRJ3FRirIDPgecN760EJ57WFIZb7kzgy4mQ9lSvGPbeXTm6AuE8ufH1qmdUbCqpbnDMFUsVNh6RvqhBhbr25dsmS5plHSMRfyI2NG6jVwsk/RRRPbpI+Jo+n77aKVx7d+lb11M+jq+TJ0pwsKbbHcEiihPsPBPusjHkGSjPA1L03qmPWDkXmWAFxexQlkvnQnCviP7xO0ShmYgWcAt3LTU3mYQPMOECDjPPvfnT348yP5NKlr0RPbTILtqxBMR0QnsBvc6u4UFdyqRJvsK0K4SkXfMl1a7hUYVhLouFU2tFCcjkTAI9HHKuNGCfYRFT8vGzPw=;Rv2u+uIH6/zuGuzszNOpDA=="
 ---

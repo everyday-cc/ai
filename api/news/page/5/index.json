@@ -2,6 +2,58 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-07-05-voice-tech-makes-inroads-in-the-enterprise.md",
+      "title": "Voice tech makes inroads in the enterprise",
+      "excerpt": "Some good news, bad news for voice technology partisans in the workplace: The bad news is that the dream of a voice assistant in every conference room and on every desk hasn’t come to pass. The good news is that voice technology is still having an impact in business,",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/07/04/voice-tech-makes-inroads-in-the-enterprise/",
+      "originalUrl": "https://venturebeat.com/2021/07/04/voice-tech-makes-inroads-in-the-enterprise/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2016/09/voice.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 829,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/07/04/voice-tech-makes-inroads-in-the-enterprise/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/04/voice-tech-makes-inroads-in-the-enterprise/amp/",
+      "publishedDateTime": "2021-07-04T10:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-04-the-lessons-we-learn-from-self-driving-will-drive-our-robotics-future.md",
       "title": "The lessons we learn from self-driving will drive our robotics future",
       "excerpt": "Robotics is entering an exponential growth phase. There are increasingly new and diverse applications for robots, both the inspiring and the mundane. Just within the context of the COVID-19 pandemic response,",
@@ -1175,58 +1227,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-02-ai-image-recognition-market-new-innovations-technology-growth-and-research-2021-2026.md",
-      "title": "AI Image Recognition Market New Innovations, Technology Growth and Research 2021-2026",
-      "excerpt": "The Global AI Image Recognition Market Report Provides Business Overview, Market Trends, Industry Challenges, And Forecast 2021-2026 Jul 02, 2021",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/ai-image-recognition-market-new-innovations-technology-growth-and-research-2021-2026-2021-07-02",
-      "originalUrl": "https://www.marketwatch.com/press-release/ai-image-recognition-market-new-innovations-technology-growth-and-research-2021-2026-2021-07-02",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-02T05:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
         "AI"
       ]
     }

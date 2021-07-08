@@ -2,6 +2,198 @@
   "page": 43,
   "value": [
     {
+      "path": "_news/2021-06-05-microsofts-first-gpt-3-product-hints-at-the-commercial-future-of-openai.md",
+      "title": "Microsoft’s first GPT-3 product hints at the commercial future of OpenAI",
+      "excerpt": "Microsoft’s first GPT-3-powered product provides important hints about the business of large language models and the future of its relationship with OpenAI.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/news/microsofts-first-gpt-3-product-hints-commercial-future-openai-syndication",
+      "originalUrl": "https://thenextweb.com/news/microsofts-first-gpt-3-product-hints-commercial-future-openai-syndication",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2021/06/GPT-3-code-generation.gif",
+          "width": 696,
+          "height": 375,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-05T08:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-05-icici-lombard-leverages-microsoft-azure-cognitive-services-to-redefine-customer-engagement.md",
+      "title": "ICICI Lombard leverages Microsoft Azure Cognitive Services to redefine customer engagement",
+      "excerpt": "Icici Lombard Increased screening of customer calls from 20% to 100%; improved Quality Audit (QA) accuracy of calls by 30%; reduced response time.",
+      "sourceUrl": null,
+      "webUrl": "https://www.dqindia.com/icici-lombard-leverages-microsoft-azure-cognitive-services-to-redefine-customer-engagement/",
+      "originalUrl": "https://www.dqindia.com/icici-lombard-leverages-microsoft-azure-cognitive-services-to-redefine-customer-engagement/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.dqindia.com/wp-content/uploads/2021/06/6CF52215-66AC-42DA-9307-7E975564CE3B.png",
+          "width": 800,
+          "height": 598,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.dqindia.com/icici-lombard-leverages-microsoft-azure-cognitive-services-to-redefine-customer-engagement/amp/",
+      "cdnAmpWebUrl": "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/icici-lombard-leverages-microsoft-azure-cognitive-services-to-redefine-customer-engagement/amp/",
+      "publishedDateTime": "2021-06-05T02:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Dataquest",
+        "domain": "dqindia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-05-samsung-jet-bot-90-ai-robot-vacuum.md",
+      "title": "Samsung Jet Bot 90 AI+ Robot vacuum",
+      "excerpt": "Many of today’s best robot vacuums have powerful suction that can rival the best vacuum cleaners on the market, along with rechargeable batteries that can outlast some of the be",
+      "sourceUrl": null,
+      "webUrl": "https://www.techradar.com/news/samsung-jet-bot-90-ai-robot-vacuum",
+      "originalUrl": "https://www.techradar.com/news/samsung-jet-bot-90-ai-robot-vacuum",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/Ms7UFSJpkSt8nY5NwfchDT-1200-80.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-05T00:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-05-blaize-names-mark-glasgow-vp-of-worldwide-sales-to-pioneer-products-in-ai.md",
+      "title": "Blaize Names Mark Glasgow VP of Worldwide Sales to pioneer products in AI",
+      "excerpt": "Glasgow joins Blaize to lead and grow the Blaize sales organization seizing the substantial opportunity for Blaize pioneering products in the multi-billion-dollar market for AI in industrial edge, enterprise, and automotive/mobility segments. Blaize, the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.dqindia.com/blaize-names-mark-glasgow-vp-worldwide-sales-pioneer-products-ai/",
+      "originalUrl": "https://www.dqindia.com/blaize-names-mark-glasgow-vp-worldwide-sales-pioneer-products-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.dqindia.com/wp-content/uploads/2019/04/appointment.jpg",
+          "width": 600,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.dqindia.com/blaize-names-mark-glasgow-vp-worldwide-sales-pioneer-products-ai/amp/",
+      "cdnAmpWebUrl": "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/blaize-names-mark-glasgow-vp-worldwide-sales-pioneer-products-ai/amp/",
+      "publishedDateTime": "2021-06-04T22:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Dataquest",
+        "domain": "dqindia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "AI in Sales"
+      ]
+    },
+    {
       "path": "_news/2021-06-05-chinese-ai-speech-recognition-chip-startup-secures-new-war-chest.md",
       "title": "Chinese AI speech recognition chip startup secures new war chest",
       "excerpt": "ChipIntelli, a maker of AI-based speech recognition chips, recently raised several tens of millions of yuan ($3 million to $5 million) in a new funding round led by Haolan Capital. ChipIntelli, founded in 2015,",
@@ -1004,187 +1196,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-04-apptek-joins-intels-ai-builders-program-to-leverage-ai-enabled-speech-and-language-technology.md",
-      "title": "AppTek joins Intel’s AI Builders program to leverage AI-enabled speech and language technology",
-      "excerpt": "This partnership inside Intel's AI Builders ecosystem will seek to boost the performance of automatic speech recognition and neural machine translation technologies",
-      "sourceUrl": null,
-      "webUrl": "https://www.kmworld.com/Articles/ReadArticle.aspx?ArticleID=147234",
-      "originalUrl": "https://www.kmworld.com/Articles/ReadArticle.aspx?ArticleID=147234",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-04T07:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "KMWorld Magazine",
-        "domain": "kmworld.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-04-ibm-codenet-artificial-intelligence-that-can-program-computers-and-solve-a-100-billion-legacy-code-problem.md",
-      "title": "IBM CodeNet: Artificial Intelligence That Can Program Computers And Solve A $100 Billion Legacy Code Problem",
-      "excerpt": "Goodson dives deeper as for the past two and a half years, Dr. Puri and a team from IBM Research and the MIT-IBM Watson AI Lab have worked on a massive code-intensive AI for Code project.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/moorinsights/2021/06/04/ibm-codenet-artificial-intelligence-that-can-program-computers-and-solve-a-100-billion-legacy-code-problem/",
-      "originalUrl": "https://www.forbes.com/sites/moorinsights/2021/06/04/ibm-codenet-artificial-intelligence-that-can-program-computers-and-solve-a-100-billion-legacy-code-problem/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60ba36078cd17d882673b8fc%2F0x0.jpg",
-          "width": 1199,
-          "height": 666,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/moorinsights/2021/06/04/ibm-codenet-artificial-intelligence-that-can-program-computers-and-solve-a-100-billion-legacy-code-problem/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2021/06/04/ibm-codenet-artificial-intelligence-that-can-program-computers-and-solve-a-100-billion-legacy-code-problem/amp/",
-      "publishedDateTime": "2021-06-04T07:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-04-ai-cybersecurity-provider-sentinelone-files-for-100m-ipo.md",
-      "title": "AI cybersecurity provider SentinelOne files for $100M IPO",
-      "excerpt": "SentinelOne, a late-stage security startup that helps organizations secure their data using AI and machine learning, has filed for an IPO on the New York Stock Exchange (NYSE). In an S-1 filing on Thursday,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/06/04/cybersecurity-sentinelone-ipo/",
-      "originalUrl": "https://techcrunch.com/2021/06/04/cybersecurity-sentinelone-ipo/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 137,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/06/GettyImages-1174418589-1.jpg?w=1024",
-          "width": 1024,
-          "height": 648,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/06/04/cybersecurity-sentinelone-ipo/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/06/04/cybersecurity-sentinelone-ipo/amp/",
-      "publishedDateTime": "2021-06-04T05:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-04-20-times-that-ai-has-tried-to-make-it-in-the-music-business.md",
-      "title": "20 times that AI has tried to make it in the music business",
-      "excerpt": "Artificial intelligence (AI) has been trying to carve a name for itself in the music business as a collaborator, composer, artist and lyricist since 1951.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cityam.com/20-times-that-ai-has-tried-to-make-it-in-the-music-business/",
-      "originalUrl": "https://www.cityam.com/20-times-that-ai-has-tried-to-make-it-in-the-music-business/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cityam.com/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png",
-          "width": 735,
-          "height": 552,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cityam.com/20-times-that-ai-has-tried-to-make-it-in-the-music-business/amp/",
-      "cdnAmpWebUrl": "https://www-cityam-com.cdn.ampproject.org/c/s/www.cityam.com/20-times-that-ai-has-tried-to-make-it-in-the-music-business/amp/",
-      "publishedDateTime": "2021-06-04T05:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "City A.M.",
-        "domain": "cityam.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
         "AI"
       ]
     }

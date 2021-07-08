@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/07/05/microsofts-project-alexandria-par
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/05/microsofts-project-alexandria-parses-documents-using-unsupervised-learning/amp/"
 type: article
 quality: 89
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -32,6 +32,20 @@ images:
     isCached: true
 
 related:
+  - title: "Microsoft aims to expedite new edge computing use cases with Azure Percept"
+    excerpt: "With the modern cloud landscape nearing a point of saturation in terms of bandwidth, 5G combined with edge computing and AI looks to further ... silicon and telecom, Azure edge devices, and ..."
+    publishedDateTime: 2021-07-08T21:36:00Z
+    webUrl: "https://siliconangle.com/2021/07/08/microsoft-aims-expedite-new-edge-computing-use-cases-azure-percept-mwc21/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 67
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/07/Pete-Bernard-Mobile-World-Congress-2021.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Microsoft Is Developing an AI Upscaling Engine to Improve Xbox Visuals"
     excerpt: "Microsoft wants to implement its own machine learning solutions for Xbox, possibly in competition with AMD's FSR or Nvidia's DLSS."
     publishedDateTime: 2021-07-08T13:31:00Z

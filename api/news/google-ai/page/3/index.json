@@ -2,6 +2,60 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-05-25-microsoft-azure-launches-enterprise-support-for-pytorch.md",
+      "title": "Microsoft Azure launches enterprise support for PyTorch",
+      "excerpt": "Microsoft today announced PyTorch Enterprise, a new Azure service that provides developers with additional support when using PyTorch on Azure. It’s basically Microsoft’s commercial support offering for PyTorch PyTorch is a Python-centric open-source machine learning framework with a",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/05/25/microsoft-azure-launches-pytorch-enterprise/",
+      "originalUrl": "https://techcrunch.com/2021/05/25/microsoft-azure-launches-pytorch-enterprise/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 283,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/05/GettyImages-951875250.jpg?w=1024",
+          "width": 1024,
+          "height": 685,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/05/25/microsoft-azure-launches-pytorch-enterprise/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/05/25/microsoft-azure-launches-pytorch-enterprise/amp/",
+      "publishedDateTime": "2021-05-25T08:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "Facebook AI",
+        "Google AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-24-google-ai-unit-deepmind-tried-and-failed-to-gain-more-autonomy.md",
       "title": "Google AI Unit DeepMind Tried and Failed to Gain More Autonomy",
       "excerpt": "Google AI Unit DeepMind Tried and Failed to Gain More Autonomy For years, senior managers at Google's DeepMind artificial-intelligence unit sought to negotiate more independence from the parent ...",
@@ -1421,50 +1475,6 @@
         "AWS AI",
         "Google AI",
         "TensorFlow"
-      ]
-    },
-    {
-      "path": "_news/2021-05-13-deepmind-provides-machine-learning-scholarships-for-four-wits-masters-students.md",
-      "title": "DeepMind provides machine learning scholarships for four Wits Master's students",
-      "excerpt": "Artificial intelligence (AI) research and applications company DeepMind has donated scholarship funding for four University of the Witwatersrand (Wits) students to complete their Master's degrees ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.engineeringnews.co.za/article/deepmind-provides-machine-learning-scholarships-for-four-wits-masters-students-2021-05-13",
-      "originalUrl": "https://www.engineeringnews.co.za/article/deepmind-provides-machine-learning-scholarships-for-four-wits-masters-students-2021-05-13",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.engineeringnews.co.za/template/en2016/images/en_default_large.jpg",
-          "width": 1022,
-          "height": 575,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://m.engineeringnews.co.za/article.php?a_id=583933&rep_id=5581",
-      "cdnAmpWebUrl": "https://m-engineeringnews-co-za.cdn.ampproject.org/c/s/m.engineeringnews.co.za/article.php?a_id=583933&rep_id=5581",
-      "publishedDateTime": "2021-05-13T00:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engineering News",
-        "domain": "engineeringnews.co.za",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],
