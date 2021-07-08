@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-07-08-three-reasons-to-leverage-ai-and-ml-to-improve-the-employee-experience.md",
+      "title": "Three Reasons To Leverage AI And ML To Improve The Employee Experience",
+      "excerpt": "Here’s why I think the time is now to start leveraging AI to drive an employee experience that connects, empowers and unleashes the potential of your team: When you apply AI and ML exclusively to productivity, you miss an important piece of the puzzle.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2021/07/08/three-reasons-to-leverage-ai-and-ml-to-improve-the-employee-experience/",
+      "originalUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2021/07/08/three-reasons-to-leverage-ai-and-ml-to-improve-the-employee-experience/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60e5a6d22ffabd8616629559%2F0x0.jpg",
+          "width": 1156,
+          "height": 770,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-08T04:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-07-08-infrared-cameras-and-artificial-intelligence-provide-insight-into-boiling.md",
       "title": "Infrared cameras and artificial intelligence provide insight into boiling",
       "excerpt": "But “artificial intelligence is not limited by the speed or ... or layers of silicon dioxide nanoparticles. They trained a neural network on 85 percent of the data from the first three surfaces, then tested it on 15 percent of the data of those ...",
@@ -210,7 +262,7 @@
       "originalUrl": "https://www.videogameschronicle.com/news/new-cheat-software-claims-to-work-on-any-console-via-machine-learning/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 75,
+      "heat": 85,
       "tags": null,
       "images": [
         {
@@ -865,49 +917,6 @@
       ]
     },
     {
-      "path": "_news/2021-06-29-edge-of-chaos-opens-pathway-to-artificial-intelligence-discoveries.md",
-      "title": "'Edge of chaos' opens pathway to artificial intelligence discoveries",
-      "excerpt": "Some neuroscience theories suggest the human brain operates best 'at the edge of chaos'. Now scientists have found that keeping a nanowire network at the edge of becoming chaotic is the best state for it to produce useful signals to solve problems.",
-      "sourceUrl": null,
-      "webUrl": "https://www.sciencedaily.com/releases/2021/06/210629101157.htm",
-      "originalUrl": "https://www.sciencedaily.com/releases/2021/06/210629101157.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-29T09:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Science Daily",
-        "domain": "sciencedaily.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-06-29-visionary-trio-creates-next-gen-video-and-image-annotation-platform-for-machine-learning.md",
       "title": "Visionary Trio Creates Next Gen Video and Image Annotation Platform for Machine Learning",
       "excerpt": "Innotescus ® is announcing the launch of its image and video annotation platform. The Innotescus platform provides an intuitive annotation workspace, comprehensive analytics, and a collaborative environment for teams to produce superior quality training datasets.",
@@ -1047,6 +1056,93 @@
       ]
     },
     {
+      "path": "_news/2021-06-29-edge-of-chaos-opens-pathway-to-artificial-intelligence-discoveries.md",
+      "title": "'Edge of chaos' opens pathway to artificial intelligence discoveries",
+      "excerpt": "Scientists at the University of Sydney and Japan's National Institute for Material Science (NIMS) have discovered that an artificial network of nanowires can be tuned to respond in a brain-like way when electrically stimulated.",
+      "sourceUrl": null,
+      "webUrl": "https://phys.org/news/2021-06-edge-chaos-pathway-artificial-intelligence.html",
+      "originalUrl": "https://phys.org/news/2021-06-edge-chaos-pathway-artificial-intelligence.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2021/edge-of-chaos-opens-pa.jpg",
+          "width": 514,
+          "height": 225,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://phys.org/news/2021-06-edge-chaos-pathway-artificial-intelligence.amp",
+      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-06-edge-chaos-pathway-artificial-intelligence.amp",
+      "publishedDateTime": "2021-06-29T02:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Phys.org",
+        "domain": "phys.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-29-global-ai-deep-learning-and-embedded-device-security-growth-opportunities-report-2020-researchandmarketscom.md",
+      "title": "Global AI, Deep Learning, and Embedded Device Security Growth Opportunities Report 2020 - ResearchAndMarkets.com",
+      "excerpt": "The \"Growth Opportunities in AI, Deep Learning, and Embedded Device Security\" report has been added to ResearchAndMarkets.com's offering. This Cyber Security Technology Opportunity Engine (TOE ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/21/06/b21758968/global-ai-deep-learning-and-embedded-device-security-growth-opportunities-report-2020-researchandm",
+      "originalUrl": "https://www.benzinga.com/pressreleases/21/06/b21758968/global-ai-deep-learning-and-embedded-device-security-growth-opportunities-report-2020-researchandm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.benzinga.com/files/imagecache/og_image_social_share_1200x630/sites/all/themes/bz2/images/bz-icon.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-29T00:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
       "path": "_news/2021-06-29-thailands-pomelo-is-revolutionizing-seas-fashion-industry-with-machine-learning-and-ai.md",
       "title": "Thailand’s Pomelo is revolutionizing SEA’s fashion industry with machine learning and AI",
       "excerpt": "Machine learning and AI have a multitude of applications in various industries, but fashion might sound like a curious one - Tech Wire Asia",
@@ -1089,41 +1185,6 @@
         "AI",
         "AI in Finance",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2021-06-29-global-ai-deep-learning-and-embedded-device-security-growth-opportunities-report-2020-researchandmarketscom.md",
-      "title": "Global AI, Deep Learning, and Embedded Device Security Growth Opportunities Report 2020 - ResearchAndMarkets.com",
-      "excerpt": "The \"Growth Opportunities in AI, Deep Learning, and Embedded Device Security\" report has been added to ResearchAndMarkets.com's offering. This Cyber Security Technology Opportunity Engine (TOE) provides a snapshot on emerging cyber security solutions powered by innovations based on artificial intelligence,",
-      "sourceUrl": null,
-      "webUrl": "https://www.morningstar.com/news/business-wire/20210628005906/global-ai-deep-learning-and-embedded-device-security-growth-opportunities-report-2020-researchandmarketscom",
-      "originalUrl": "https://www.morningstar.com/news/business-wire/20210628005906/global-ai-deep-learning-and-embedded-device-security-growth-opportunities-report-2020-researchandmarketscom",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-28T18:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Morningstar, Inc.",
-        "domain": "morningstar.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Security"
       ]
     },
     {
@@ -1337,49 +1398,6 @@
       "provider": {
         "name": "La Vanguardia",
         "domain": "lavanguardia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-27-machine-learning-identifies-new-brain-network-signature-of-major-depression.md",
-      "title": "Machine learning identifies new brain network signature of major depression",
-      "excerpt": "Machine learning is a method of data analysis that automates analytical model building. It is a branch of artificial intelligence based on the idea that",
-      "sourceUrl": null,
-      "webUrl": "https://www.thedailystar.net/health/news/machine-learning-identifies-new-brain-network-signature-major-depression-2118733",
-      "originalUrl": "https://www.thedailystar.net/health/news/machine-learning-identifies-new-brain-network-signature-major-depression-2118733",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assetsds.cdnedge.bluemix.net/sites/default/files/styles/social_share/public/feature/images/2021/06/26/brain-network-signature.jpg?itok=FT-QWUJF",
-          "width": 560,
-          "height": 292,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thedailystar.net/health/news/machine-learning-identifies-new-brain-network-signature-major-depression-2118733?amp",
-      "cdnAmpWebUrl": "https://www-thedailystar-net.cdn.ampproject.org/c/s/www.thedailystar.net/health/news/machine-learning-identifies-new-brain-network-signature-major-depression-2118733?amp",
-      "publishedDateTime": "2021-06-26T12:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Daily Star",
-        "domain": "thedailystar.net",
         "images": null,
         "publishers": null,
         "authors": null

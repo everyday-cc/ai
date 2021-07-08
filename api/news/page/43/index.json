@@ -2,6 +2,153 @@
   "page": 43,
   "value": [
     {
+      "path": "_news/2021-06-04-transcript-ezra-klein-interviews-brian-christian.md",
+      "title": "Transcript: Ezra Klein Interviews Brian Christian",
+      "excerpt": "People hear about Google’s DeepMind. They hear about OpenAI. There’s obviously a lot of work at Tesla. And then, of course, also at Uber on how to do driverless cars. It’s not going to be ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2021/06/04/podcasts/transcript-ezra-klein-interviews-brian-christian.html",
+      "originalUrl": "https://www.nytimes.com/2021/06/04/podcasts/transcript-ezra-klein-interviews-brian-christian.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2021/06/04/podcasts/transcript-ezra-klein-interviews-brian-christian.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/06/04/podcasts/transcript-ezra-klein-interviews-brian-christian.amp.html",
+      "publishedDateTime": "2021-06-04T08:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2021-06-04-how-do-you-travel-abroad-safely-during-the-covid-19-pandemic.md",
+      "title": "How do you travel abroad safely during the covid-19 pandemic?",
+      "excerpt": "As countries start to open their borders to holiday-makers, confusion remains over which countries are safe, and what entrance requirements are necessary. If you plan to travel soon, here's what you s",
+      "sourceUrl": null,
+      "webUrl": "https://www.newscientist.com/article/2279862-how-do-you-travel-abroad-safely-during-the-covid-19-pandemic/",
+      "originalUrl": "https://www.newscientist.com/article/2279862-how-do-you-travel-abroad-safely-during-the-covid-19-pandemic/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.newscientist.com/wp-content/uploads/2021/06/04160028/04-june_covid-travel.jpg?width=600",
+          "width": 600,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newscientist.com/article/2279862-how-do-you-travel-abroad-safely-during-the-covid-19-pandemic/amp/",
+      "cdnAmpWebUrl": "https://www-newscientist-com.cdn.ampproject.org/c/s/www.newscientist.com/article/2279862-how-do-you-travel-abroad-safely-during-the-covid-19-pandemic/amp/",
+      "publishedDateTime": "2021-06-04T08:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New Scientist",
+        "domain": "newscientist.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-04-ai-has-a-long-way-to-go-before-doctors-can-trust-it-with-your-life.md",
+      "title": "AI has a long way to go before doctors can trust it with your life",
+      "excerpt": "The FDA has approved 80 algorithms for radiology to scan images for signs of disease, but doctors can't trust them.",
+      "sourceUrl": null,
+      "webUrl": "https://qz.com/2016153/ai-promised-to-revolutionize-radiology-but-so-far-its-failing/",
+      "originalUrl": "https://qz.com/2016153/ai-promised-to-revolutionize-radiology-but-so-far-its-failing/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cms.qz.com/wp-content/uploads/2021/06/Radiology-chest-xray-e1622815265129.jpg?quality=75&strip=all&w=1200&h=630&crop=1",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://qz.com/2016153/ai-promised-to-revolutionize-radiology-but-so-far-its-failing/amp/",
+      "cdnAmpWebUrl": "https://qz-com.cdn.ampproject.org/c/s/qz.com/2016153/ai-promised-to-revolutionize-radiology-but-so-far-its-failing/amp/",
+      "publishedDateTime": "2021-06-04T07:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Quartz",
+        "domain": "qz.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/qz.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-04-apptek-joins-intels-ai-builders-program-to-leverage-ai-enabled-speech-and-language-technology.md",
       "title": "AppTek joins Intel’s AI Builders program to leverage AI-enabled speech and language technology",
       "excerpt": "This partnership inside Intel's AI Builders ecosystem will seek to boost the performance of automatic speech recognition and neural machine translation technologies",
@@ -1017,147 +1164,6 @@
       "topics": [
         "AI in Healthcare",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-04-international-business-machines-corporation-ibm-ceo-arvind-krishna-presents-at-annual-bernstein-strategic-decisions-conference-transcript.md",
-      "title": "International Business Machines Corporation (IBM) CEO Arvind Krishna Presents at Annual Bernstein Strategic Decisions Conference (Transcript)",
-      "excerpt": "Annual Bernstein Strategic Decisions Conference June 03, 2021 01:30 PM ET Company Participants Arvind Krishna - Chairman &",
-      "sourceUrl": null,
-      "webUrl": "https://seekingalpha.com/article/4432990-international-business-machines-corporation-ibm-ceo-arvind-krishna-presents-annual-bernstein",
-      "originalUrl": "https://seekingalpha.com/article/4432990-international-business-machines-corporation-ibm-ceo-arvind-krishna-presents-annual-bernstein",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
-          "width": 1200,
-          "height": 1200,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://seekingalpha.com/amp/article/4432990-international-business-machines-corporation-ibm-ceo-arvind-krishna-presents-annual-bernstein",
-      "cdnAmpWebUrl": "https://seekingalpha-com.cdn.ampproject.org/c/s/seekingalpha.com/amp/article/4432990-international-business-machines-corporation-ibm-ceo-arvind-krishna-presents-annual-bernstein",
-      "publishedDateTime": "2021-06-03T15:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Seeking Alpha",
-        "domain": "seekingalpha.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-04-tesla-turns-on-facial-recognition-kia-adds-in-car-fingerprint-biometrics.md",
-      "title": "Tesla turns on facial recognition, Kia adds in-car fingerprint biometrics",
-      "excerpt": "Tesla using facial recognition to ensure driver is seated and alert, Kia K9 features fingerprint authentication, more automakers add biometric capabilities.",
-      "sourceUrl": null,
-      "webUrl": "https://www.biometricupdate.com/202106/tesla-turns-on-facial-recognition-kia-adds-in-car-fingerprint-biometrics",
-      "originalUrl": "https://www.biometricupdate.com/202106/tesla-turns-on-facial-recognition-kia-adds-in-car-fingerprint-biometrics",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/09/09130331/automotive-biometrics.jpg",
-          "width": 800,
-          "height": 533,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-03T15:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Biometric Companies",
-        "domain": "biometricupdate.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Computer Vision",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2021-06-03-build-regression-models-with-amazon-redshift-ml.md",
-      "title": "Build regression models with Amazon Redshift ML",
-      "excerpt": "With the rapid growth of data, many organizations are finding it difficult to analyze their large datasets to gain insights. As businesses rely more and more on automation algorithms, machine learning (ML) has become a necessity to stay ahead of the competition. Amazon Redshift, a fast, fully managed,",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/build-regression-models-with-amazon-redshift-ml/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/build-regression-models-with-amazon-redshift-ml/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png",
-          "width": 768,
-          "height": 385,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-03T15:01:06-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Machine Learning"
       ]
     }
   ],

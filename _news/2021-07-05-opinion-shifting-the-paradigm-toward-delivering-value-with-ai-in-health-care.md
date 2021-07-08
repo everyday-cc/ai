@@ -56,6 +56,20 @@ related:
         width: 400
         height: 400
         isCached: true
+  - title: "Ai-Driven Care Coordination Advances Health Equity and Well-Being in Marginalized Communities"
+    excerpt: "A unique intelligent coordinated care system, C3S, is officially releasing its AI-driven platform 1.0, which will allow hospitals, health care providers and health"
+    publishedDateTime: 2021-07-08T11:30:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/ai-driven-care-coordination-advances-health-equity-and-well-being-in-marginalized-communities/article_d88add05-5d98-5ccd-a71d-522e75e091a4.html"
+    type: article
+    provider:
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 28
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "nSr+LLy+EVCuK3AnJiOBrzcgO6BvSNkbrEwH6ZRmCZIa4UwKmXh4DIeNWLptJ7m7h1E/Leq4BpzBQgFvf+KpDuwjcom/U+y+NQeQkDQ0Ah00QkG/jmrNBJtuleMxmghfwSfiN34jpsYkzYL6Gx33M/lWwFoHhwN6oAAtb9tUhpAZlgr5dyBv+IVxuMZn6sPRj/VwuempOJqvkQXKFZGcQQAz1ZunlMqPKHf3Fuerg9x36w17Xb/W0zT8IY+wH06KM6uJucPi2pgjNcLQbD6U1iTn5jEsYP0JfLktwqoNICltvecl0YWENggOfpwnSZMP4x993CbtWQmHZ9tsz63fsP2g3dYDbzXQZ5hxiHZ/BKn++5Z64Qr5PzYI6OFFuRuG0Ytpr5T68gYTqGhien4Qkpfnrray7Vxs28s70rIk/Vg1PscCQUK1mOi/muv8Kg0FUFeMndz8I+9WpCuym+jbXzflurYN4B3/xdySAJ76y/f9ZM0LbSeBUFJ0rDsY1tFvXodAJLK4Ll3sed7B2r+LGg==;5ZvIsVi+zkISlPsKOIfYBw=="
 ---

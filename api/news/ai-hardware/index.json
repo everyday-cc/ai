@@ -168,7 +168,7 @@
       "originalUrl": "https://www.techradar.com/nz/news/xbox-series-x-games-might-look-even-better-soon-thanks-to-ai-upscaling",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 109,
       "tags": null,
       "images": [
         {
@@ -243,6 +243,59 @@
       "topics": [
         "AI Hardware",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-05-teslas-ai-chief-self-driving-cars-dont-need-lidar.md",
+      "title": "Tesla’s AI chief: Self-driving cars don’t need LiDAR",
+      "excerpt": "Tesla has been a vocal champion for the pure vision-based approach to autonomous driving, its chief AI scientist Andrej Karpathy explained why.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/news/tesla-ai-chief-explains-self-driving-cars-dont-need-lidar-syndication",
+      "originalUrl": "https://thenextweb.com/news/tesla-ai-chief-explains-self-driving-cars-dont-need-lidar-syndication",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-cdn.tnwcdn.com/image/shift?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F07%2FTeslahed.jpg&signature=b7f31a3678104e26e5bfdcca0a02aee5",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-05T06:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "AI in Autos"
       ]
     },
     {
@@ -461,19 +514,19 @@
     {
       "path": "_news/2021-07-01-ddn-boosts-ai-storage-leadership-with-exascaler-6-and-expanded-portfolio-for-enterprise-intelligent-infrastructure.md",
       "title": "DDN Boosts AI Storage Leadership with EXAScaler 6 and Expanded Portfolio for Enterprise Intelligent Infrastructure",
-      "excerpt": "Expanding on its global leadership in artificial intelligence (AI) and multi cloud data management solutions, DDN® is strengthening its commitment to enterprise AI",
+      "excerpt": "DDN Unveils the Next Generation of EXAScaler, Simplifies the Procurement of AI Supercomputing Infrastructure by 200x1 and Expands IntelliFlash",
       "sourceUrl": null,
-      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/ddn-boosts-ai-storage-leadership-with-exascaler-6-and-expanded-portfolio-for-enterprise-intelligent-infrastructure/article_509526cc-fe93-53a7-ace4-b0d0f70a7319.html",
-      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/ddn-boosts-ai-storage-leadership-with-exascaler-6-and-expanded-portfolio-for-enterprise-intelligent-infrastructure/article_509526cc-fe93-53a7-ace4-b0d0f70a7319.html",
+      "webUrl": "https://markets.businessinsider.com/news/stocks/ddn-boosts-ai-storage-leadership-with-exascaler-6-and-expanded-portfolio-for-enterprise-intelligent-infrastructure-1030569591",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/ddn-boosts-ai-storage-leadership-with-exascaler-6-and-expanded-portfolio-for-enterprise-intelligent-infrastructure-1030569591",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/a/fc/afcd069f-109a-5e25-b5c1-2f230e1ec9d3/609a802dd1fff.image.jpg?resize=446%2C630",
-          "width": 446,
-          "height": 630,
+          "url": "https://mma.prnewswire.com/media/1191324/DDN_Logo.jpg",
+          "width": 283,
+          "height": 400,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -483,12 +536,21 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-30T18:58:00-07:00",
+      "publishedDateTime": "2021-06-30T19:12:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "WFMZ-TV",
-        "domain": "wfmz.com",
-        "images": null,
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -597,6 +659,58 @@
       ]
     },
     {
+      "path": "_news/2021-06-30-what-investors-should-know-about-baidus-ai-chip-spin-off.md",
+      "title": "What Investors Should Know About Baidu's AI Chip Spin-Off",
+      "excerpt": "Baidu (NASDAQ:BIDU) unveiled Kunlun, its artificial intelligence (AI) chip optimized for cloud-to-edge computing tasks, three years ago. At the time, it claimed the 14nm chip provided 1.5 to three times more processing power than NVIDIA's comparable T4 GPU for AI tasks.",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2021/06/30/what-investors-know-about-baidu-ai-chip-spin-off/",
+      "originalUrl": "https://www.fool.com/investing/2021/06/30/what-investors-know-about-baidu-ai-chip-spin-off/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F632101%2F1600829035136803.jpg&w=1200&op=resize",
+          "width": 1200,
+          "height": 721,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.fool.com/amp/investing/2021/06/30/what-investors-know-about-baidu-ai-chip-spin-off/",
+      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/06/30/what-investors-know-about-baidu-ai-chip-spin-off/",
+      "publishedDateTime": "2021-06-30T08:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-30-parrot-anafi-ai-is-a-4g-drone-with-striking-style-and-3d-vision.md",
       "title": "Parrot Anafi Ai is a 4G drone with striking style and 3D vision",
       "excerpt": "Parrot has a new drone, but the French company would really rather you think of the new Anafi Ai as a 4G-connected flying robot. Tapping cellular data for better, broader range, and a new 3D",
@@ -629,49 +743,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/slashgear.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-30-what-investors-should-know-about-baidus-ai-chip-spin-off.md",
-      "title": "What Investors Should Know About Baidu's AI Chip Spin-Off",
-      "excerpt": "Baidu (NASDAQ: BIDU) unveiled Kunlun, its artificial intelligence (AI) chip optimized for cloud-to-edge computing tasks, three years ago. At the",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/what-investors-should-know-about-baidus-ai-chip-spin-off-10289234",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/what-investors-should-know-about-baidus-ai-chip-spin-off-10289234",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-30T06:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -885,19 +956,19 @@
     {
       "path": "_news/2021-06-29-artificial-intelligence-ai-chips-market-in-communications-equipment-industry-technavio.md",
       "title": "Artificial Intelligence (AI) Chips Market in Communications Equipment Industry | Technavio",
-      "excerpt": "The artificial intelligence (AI) chips market is expected to grow by USD 73.49 billion at over 51% CAGR during 2021-2025, according to",
+      "excerpt": "According to Technavio, the COVID-19 pandemic will have a positive impact on the growth of the artificial intelligence (AI) chips market. The report expects the market value to increase in 2021 as compared to 2020.",
       "sourceUrl": null,
-      "webUrl": "https://www.prnewswire.com/news-releases/artificial-intelligence-ai-chips-market-in-communications-equipment-industry--technavio-301321404.html",
-      "originalUrl": "https://www.prnewswire.com/news-releases/artificial-intelligence-ai-chips-market-in-communications-equipment-industry--technavio-301321404.html",
+      "webUrl": "https://www.tmcnet.com/usubmit/-artificial-intelligence-ai-chips-market-communications-equipment-industry-/2021/06/28/9399133.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-artificial-intelligence-ai-chips-market-communications-equipment-industry-/2021/06/28/9399133.htm",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://mma.prnewswire.com/media/1551721/Artificial_Intelligence_Chips.jpg?p=facebook",
-          "width": 1280,
-          "height": 670,
+          "url": "https://mma.prnewswire.com/media/1441766/Technavio_Logo.jpg",
+          "width": 400,
+          "height": 400,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -907,11 +978,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-28T18:45:00-07:00",
+      "publishedDateTime": "2021-06-28T18:49:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1387,50 +1458,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-23-anyvision-ai-facial-recognition-software-available-on-ambarella-chips.md",
-      "title": "AnyVision AI facial recognition software available on Ambarella chips",
-      "excerpt": "The software will help extract actionable data from video feeds for biometric identification capabilities such as facial recognition.",
-      "sourceUrl": null,
-      "webUrl": "https://www.biometricupdate.com/202106/anyvision-ai-facial-recognition-software-available-on-ambarella-chips",
-      "originalUrl": "https://www.biometricupdate.com/202106/anyvision-ai-facial-recognition-software-available-on-ambarella-chips",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2017/05/25183040/cctv-security-systems.jpg",
-          "width": 800,
-          "height": 533,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-23T09:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Biometric Companies",
-        "domain": "biometricupdate.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Computer Vision"
       ]
     }
   ],

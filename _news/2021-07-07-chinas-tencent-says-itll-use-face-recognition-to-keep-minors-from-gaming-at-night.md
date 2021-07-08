@@ -108,6 +108,22 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Tencent’s face recognition tech stops kids from late-night gaming in China"
+    excerpt: "Chinese tech company Tencent has announced that it is using facial recognition on mobile phones software to stop children from playing games late at night. According to The Register, Tencent sent out a press release stating that players will need to use facial recognition software that stops children playing between 10pm and 8am."
+    publishedDateTime: 2021-07-08T10:17:00Z
+    webUrl: "https://www.nme.com/news/gaming-news/tencents-face-recognition-tech-stops-kids-from-late-night-gaming-in-china-2988545"
+    ampWebUrl: "https://www.nme.com/news/gaming-news/tencents-face-recognition-tech-stops-kids-from-late-night-gaming-in-china-2988545?amp"
+    cdnAmpWebUrl: "https://www-nme-com.cdn.ampproject.org/c/s/www.nme.com/news/gaming-news/tencents-face-recognition-tech-stops-kids-from-late-night-gaming-in-china-2988545?amp"
+    type: article
+    provider:
+      name: NME
+      domain: nme.com
+    quality: 59
+    images:
+      - url: "https://www.nme.com/wp-content/uploads/2020/08/Google-Play-Music-app@2000x1270.jpg"
+        width: 2000
+        height: 1270
+        isCached: true
   - title: "Tencent will use facial recognition to curb excessive youth gaming in China"
     excerpt: "The Chinese mega-publisher is aiming to eliminate juveniles from playing games outside of a pre-established curfew."
     publishedDateTime: 2021-07-06T23:05:00Z
@@ -172,6 +188,22 @@ related:
         width: 480
         height: 270
         isCached: true
+  - title: "Tencent will use facial recognition to restrict children from playing games late at night"
+    excerpt: "Online gaming giant Tencent this week moved to close those loopholes by implementing facial verification checks on anyone playing with an adult ID after the curfew. Tencent also s"
+    publishedDateTime: 2021-07-08T10:05:00Z
+    webUrl: "https://economictimes.indiatimes.com/magazines/panache/tencent-will-use-facial-recognition-to-restrict-children-from-playing-games-late-at-night/articleshow/84231102.cms"
+    ampWebUrl: "https://m.economictimes.com/magazines/panache/tencent-will-use-facial-recognition-to-restrict-children-from-playing-games-late-at-night/amp_articleshow/84231102.cms"
+    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/magazines/panache/tencent-will-use-facial-recognition-to-restrict-children-from-playing-games-late-at-night/amp_articleshow/84231102.cms"
+    type: article
+    provider:
+      name: India Times
+      domain: indiatimes.com
+    quality: 50
+    images:
+      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-557129,msid-84231235/video-game-children_istock.jpg"
+        width: 600
+        height: 450
+        isCached: true
   - title: "Tencent will use facial recognition to restrict minors from playing games late night; here’s how it works"
     excerpt: "China banned the PUBG Mobile online multiplayer game long back but the game publisher Tencent manages to relaunch the game in the country with some"
     publishedDateTime: 2021-07-07T14:27:00Z
@@ -229,6 +261,20 @@ related:
       - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/07/08/chinese-regulators-have-scrambled-to-keep-up-with.jpg"
         width: 1024
         height: 682
+        isCached: true
+  - title: "Tencent using facial recognition to crack down on kids playing games at night"
+    excerpt: "Gaming monolith Tencent has launched facial recognition technology that will stop children in China logging into games after a certain time of day. The \"midnight-patrol\" feature -- as reported by the BBC -- will ban children from playing games between 10pm and 8am."
+    publishedDateTime: 2021-07-08T10:14:00Z
+    webUrl: "https://www.gamesindustry.biz/articles/2021-07-08-tencent-using-facial-recognition-to-crack-down-on-kids-playing-games-at-night"
+    type: article
+    provider:
+      name: Games Industry
+      domain: gamesindustry.biz
+    quality: 36
+    images:
+      - url: "https://images.eurogamer.net/2021/articles/2021-07-08-11-10/tencent.jpg"
+        width: 967
+        height: 579
         isCached: true
   - title: "Tencent deploying facial recognition to stop children gaming at night in China"
     excerpt: "Internet and gaming giant Tencent has decided to take extreme measures to prevent those under 18 from playing games late into the night in China. The company is using a facial recognition system on its platform to identify players and prevent them circumnavigating existing controls by using adult accounts."

@@ -9,7 +9,7 @@ ampWebUrl: "https://techbullion.com/emotion-ai-is-transforming-the-way-we-game/a
 cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/emotion-ai-is-transforming-the-way-we-game/amp/"
 type: article
 quality: 57
-heat: 77
+heat: 87
 published: true
 
 provider:
@@ -40,6 +40,20 @@ related:
         width: 788
         height: 443
         isCached: true
+  - title: "AI is the Transformative Force Revolutionizing Future Human Development Over the Next 40 Years, Says Baidu CEO Robin Li at WAIC 2021"
+    excerpt: "Baidu's chief says technological advancements can spur the gradual restoration of humanity to become a low-carbon society The importance of AI"
+    publishedDateTime: 2021-07-08T11:16:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/ai-is-the-transformative-force-revolutionizing-future-human-development-over-the-next-40-years-says-baidu-ceo-robin-li-at-waic-2021-1030589086"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 36
+    images:
+      - url: "https://mma.prnewswire.com/media/1560054/Baidu_CEO_Robin_Li_discusses_social_AI_a_keynote_speech.jpg"
+        width: 400
+        height: 236
+        isCached: true
   - title: "Winning formula: How AI is changing the chemical sector"
     excerpt: "It is helping manufacturers make profits while improving quality and efficiency, alongside environment preservation"
     publishedDateTime: 2021-07-05T08:07:00Z
@@ -50,6 +64,6 @@ related:
       domain: thehindubusinessline.com
     quality: 17
 
-secured: "c2dcMnzhZY0/r5YvjyNqoj4eFbCGQpYaXXx1lf/nsXF9uthB7OHgB5FxSvelb+4yizL5gt/+wNZoUU9gRCXAbzwn+O/XemxSC4Hd6rK89IbzJP6iK7mCoE8A0Y+ir25+whwPmPPaxYVhucpSoYHsi7i0CQBHt3totkP9ri+YkY2AkVso3zmMX0CLJySq3tMikiaSeIhjhlZeZjy9zTXh+VtA7915/szSyeyv4hlkmga9bYgOku8UqQMVRIx+iePAcSK01gbK0YmstiB4UyLjF0VE28FmsN0WHzebtR7hOQoJ9MwLhpF4/BYceqmCdnxO0XiW0nN+MD3iBDFRgnASgZ356X1nbDq286/OAErzNPc=;w4y/A4EqBlyAFTF0JsHcqA=="
+secured: "naoRROuukBW9Awz5ydAEP/s91IXHyQVXOY/MMJuAgG37qQ3TtasGKwYcBzi4MjS5ib8Jjscr9UoD9jHurhTQDggag7kOmOqNo2flcTNpcK+p/jkY7w6yWiXnI0I7fiPSWjvdkwRd53QFwFeW1t80BuA5GtB36TiJC9VSPUdK8TW8RmDtcZUGyB7ez0AFPWB9U4NlY58u++XXt0xfPNqBttoiSR6imUXFiGsDd8GprpQ54vIO6P53uiTq20juS6MTR9AHkG2qCKYFBNV/HYlyLEzTruYOTC83hkBo0Z3ne7tlgs5RQDazVZNHk0qRnX5NeDmjcALOLGKFf2/FV3/Jpo8XaOJGucOh9TSQ+2Ym2B3AofYaqe5q3TtoMfDGw+BpP7q1Qk/3cP/mmhh0Cdz7u84qsagpSwg6pGrZDnAMQz+JVLRF1mzyM4wj1Xncdr327+p5Fm/ZCajL5N5SldWg8Gl8iYYpSMOIVu4MFJzn5iniQHColN/l2di5GK1hBnzyHV3OwhreiRddJesMK9W3dA==;DVEqYI3ODmhtb9NNja+5Zg=="
 ---
 

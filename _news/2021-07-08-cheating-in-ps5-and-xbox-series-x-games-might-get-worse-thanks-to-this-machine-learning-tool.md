@@ -43,6 +43,22 @@ related:
         width: 480
         height: 288
         isCached: true
+  - title: "Xbox Series X games could get a big boost — thanks to AI upscaling"
+    excerpt: "The Xbox Series X is already a serious powerhouse of a console, but its graphical performance could be about to get even better thanks to the power of AI. AI upscaling is nothing new, but until now it’s been left to the likes of Nvidia and AMD to handle."
+    publishedDateTime: 2021-07-08T11:38:00Z
+    webUrl: "https://www.tomsguide.com/uk/news/xbox-series-x-games-could-get-a-big-boost-thanks-to-ai-upscaling"
+    ampWebUrl: "https://www.tomsguide.com/uk/amp/news/xbox-series-x-games-could-get-a-big-boost-thanks-to-ai-upscaling"
+    cdnAmpWebUrl: "https://www-tomsguide-com.cdn.ampproject.org/c/s/www.tomsguide.com/uk/amp/news/xbox-series-x-games-could-get-a-big-boost-thanks-to-ai-upscaling"
+    type: article
+    provider:
+      name: Tom's Guide
+      domain: tomsguide.com
+    quality: 57
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/Uy8Chuw8oY5jPoc7HyGMKd-480-80.jpg"
+        width: 480
+        height: 289
+        isCached: true
 
 secured: "9G/K8mO25VxwvcN6b/SOpUM4B5F6B+ERjudotUk0RnRdDHWefz4sApfnLLMapCZar1CsWpUzgIJ1VnB7r3V9GKR2B13zUouMqhsvCp0eMByU3RBw3XxmHKqyDTHRlPuL3CQzWYgmY0trRB8loSFgJ2/oPnGHdpS5znyTC4dDa6aF73D6IHyXl3VIHHY6kvaN/qKfs4l0cZ1+iOIAgvMUFoYGerfBsTpvmhhYWBLIA8KvSVVihw1qVFlkN5fxJS2EM0qcrIwtzia+UNyKRakB5642pAnifmMJQJjk8+dWjcydptDkWyzdrllGybHsiizkyeasHk6XSW7siXHEJZFjVyjxSdtrcMEzPKA3p0tsGOo=;knHvTHvm0FJhuF/upXDFTQ=="
 ---

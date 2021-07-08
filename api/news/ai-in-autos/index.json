@@ -2,6 +2,59 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-07-07-hacker-shows-what-tesla-full-self-drivings-vision-depth-perception-neural-net-can-see.md",
+      "title": "Hacker shows what Tesla Full Self-Driving’s vision depth perception neural net can see",
+      "excerpt": "A hacker managed to pull Tesla’s vision depth perception neural net from his car with “Full Self-Driving” package. You can see how the vehicle detects depth with a point-cloud view powered ...",
+      "sourceUrl": null,
+      "webUrl": "https://electrek.co/2021/07/07/hacker-tesla-full-self-drivings-vision-depth-perception-neural-net-can-see/",
+      "originalUrl": "https://electrek.co/2021/07/07/hacker-tesla-full-self-drivings-vision-depth-perception-neural-net-can-see/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 123,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2021/07/Tesla-full-self-driving-neural-net-e1625673878181.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://electrek.co/2021/07/07/hacker-tesla-full-self-drivings-vision-depth-perception-neural-net-can-see/amp/",
+      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/07/07/hacker-tesla-full-self-drivings-vision-depth-perception-neural-net-can-see/amp/",
+      "publishedDateTime": "2021-07-07T09:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Electrek",
+        "domain": "electrek.co",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
       "path": "_news/2021-07-07-if-mcdonalds-is-rolling-out-a-customer-loyalty-program-so-should-ai-self-driving-cars.md",
       "title": "If McDonald’s Is Rolling Out A Customer Loyalty Program, So Should AI Self-Driving Cars",
       "excerpt": "Customer loyalty programs are pervasive, though surprisingly McDonald's is just now rolling out their nationwide program. This brings up the aspect that AI-based true self-driving cars ought to have loyalty programs for riders,",
@@ -114,7 +167,7 @@
       "originalUrl": "https://electrek.co/2021/07/06/elon-musk-tesla-ui-mind-of-car-view-fsd-computer/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 91,
+      "heat": 81,
       "tags": null,
       "images": [
         {
@@ -159,21 +212,21 @@
       ]
     },
     {
-      "path": "_news/2021-07-05-elon-musk-admits-self-driving-is-harder-than-he-thought-as-tesla-owners-troll-him-over-missed-deadlines.md",
-      "title": "Elon Musk admits self-driving is harder than he thought as Tesla owners troll him over missed deadlines",
-      "excerpt": "Elon Musk is admitting that self-driving is a harder problem than he originally thought as some Tesla owners are trolling him over yet another missed deadline for Tesla’s self-driving program. The man has a long history of failed predictions regarding Tesla bringing a true self-driving system to market.",
+      "path": "_news/2021-07-06-developing-safe-self-driving-car-a-hard-problem-admits-tesla-ceo-musk.md",
+      "title": "Developing safe self-driving car a 'hard problem', admits Tesla CEO Musk",
+      "excerpt": "Tesla CEO Elon Musk has finally admitted that developing a safe and reliable self-driving car is indeed a difficult task",
       "sourceUrl": null,
-      "webUrl": "https://electrek.co/2021/07/05/elon-musk-admits-self-driving-harder-than-he-thought-tesla-troll-missed-deadlines/",
-      "originalUrl": "https://electrek.co/2021/07/05/elon-musk-admits-self-driving-harder-than-he-thought-tesla-troll-missed-deadlines/",
+      "webUrl": "https://www.business-standard.com/article/automobile/developing-safe-self-driving-car-a-hard-problem-admits-tesla-ceo-musk-121070600204_1.html",
+      "originalUrl": "https://www.business-standard.com/article/automobile/developing-safe-self-driving-car-a-hard-problem-admits-tesla-ceo-musk-121070600204_1.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 163,
+      "heat": 108,
       "tags": null,
       "images": [
         {
-          "url": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2020/08/Tesla-Elon-Musk.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+          "url": "https://bsmedia.business-standard.com/media-handler.php?mediaPath=https://bsmedia.business-standard.com/_media/bs/img/article/2020-11/18/full/1605681784-7704.jpg&width=1200",
           "width": 1200,
-          "height": 628,
+          "height": 900,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -181,16 +234,59 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://electrek.co/2021/07/05/elon-musk-admits-self-driving-harder-than-he-thought-tesla-troll-missed-deadlines/amp/",
-      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/07/05/elon-musk-admits-self-driving-harder-than-he-thought-tesla-troll-missed-deadlines/amp/",
-      "publishedDateTime": "2021-07-05T04:42:00-07:00",
+      "ampWebUrl": "https://wap.business-standard.com/article-amp/automobile/developing-safe-self-driving-car-a-hard-problem-admits-tesla-ceo-musk-121070600204_1.html",
+      "cdnAmpWebUrl": "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/automobile/developing-safe-self-driving-car-a-hard-problem-admits-tesla-ceo-musk-121070600204_1.html",
+      "publishedDateTime": "2021-07-05T21:42:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Electrek",
-        "domain": "electrek.co",
+        "name": "Business Standard",
+        "domain": "business-standard.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-05-teslas-ai-chief-self-driving-cars-dont-need-lidar.md",
+      "title": "Tesla’s AI chief: Self-driving cars don’t need LiDAR",
+      "excerpt": "Tesla has been a vocal champion for the pure vision-based approach to autonomous driving, its chief AI scientist Andrej Karpathy explained why.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/news/tesla-ai-chief-explains-self-driving-cars-dont-need-lidar-syndication",
+      "originalUrl": "https://thenextweb.com/news/tesla-ai-chief-explains-self-driving-cars-dont-need-lidar-syndication",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-cdn.tnwcdn.com/image/shift?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F07%2FTeslahed.jpg&signature=b7f31a3678104e26e5bfdcca0a02aee5",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-05T06:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -206,8 +302,9 @@
         "news"
       ],
       "topics": [
-        "AI in Autos",
-        "AI"
+        "AI Hardware",
+        "AI",
+        "AI in Autos"
       ]
     },
     {
@@ -1355,101 +1452,6 @@
         "AI in Autos",
         "AI",
         "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2021-06-22-why-passengers-might-actually-feel-safe-in-zoox-self-driving-cars.md",
-      "title": "Why passengers might actually feel safe in Zoox self-driving cars",
-      "excerpt": "Instead of turning a traditional car into an autonomous one, the Amazon-owned self-driving car service Zoox has created its own type of autonomous vehicle without a steering wheel or front seat. Redesigning a car from the ground up also means redesigning car safety features.",
-      "sourceUrl": null,
-      "webUrl": "https://mashable.com/article/zoox-autonomous-vehicle-safety-features/",
-      "originalUrl": "https://mashable.com/article/zoox-autonomous-vehicle-safety-features/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mondrian.mashable.com/2021%252F06%252F22%252Fb6%252F97f23c8d2b0b494ca93c0fba0bfdd904.d0444.png%252F1200x630.png?signature=M8Ny3AboNS1Jj-wHe25Nffvr8E8=",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mashable.com/article/zoox-autonomous-vehicle-safety-features.amp",
-      "cdnAmpWebUrl": "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/zoox-autonomous-vehicle-safety-features.amp",
-      "publishedDateTime": "2021-06-22T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mashable",
-        "domain": "mashable.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-22-report-amazon-orders-self-driving-tech-for-1000-trucks.md",
-      "title": "Report: Amazon Orders Self-Driving Tech for 1,000 Trucks",
-      "excerpt": "As Bloomberg reports, Amazon has ordered 1,000 autonomous driving systems from the company Plus, which upgrades trucks to drive themselves. Amazon is clearly confident Plus' technology works as it has also acquired the right to purchase preferred shares in the company which amounts to a 20% stake.",
-      "sourceUrl": null,
-      "webUrl": "https://www.pcmag.com/news/report-amazon-orders-self-driving-tech-for-1000-trucks",
-      "originalUrl": "https://www.pcmag.com/news/report-amazon-orders-self-driving-tech-for-1000-trucks",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.pcmag.com/imagery/articles/02UIOQFAdvtwaBZrBPDJ3IQ-1.1624364549.fit_lim.size_1200x630.jpg",
-          "width": 1120,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.pcmag.com/news/report-amazon-orders-self-driving-tech-for-1000-trucks?amp=true",
-      "cdnAmpWebUrl": "https://www-pcmag-com.cdn.ampproject.org/c/s/www.pcmag.com/news/report-amazon-orders-self-driving-tech-for-1000-trucks?amp=true",
-      "publishedDateTime": "2021-06-22T05:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC Magazine",
-        "domain": "pcmag.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

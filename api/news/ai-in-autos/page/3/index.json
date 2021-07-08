@@ -2,6 +2,110 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-06-16-update-3-alphabets-waymo-raises-25-bln-in-first-fresh-funding-in-a-year.md",
+      "title": "UPDATE 3-Alphabet's Waymo raises $2.5 bln in first fresh funding in a year",
+      "excerpt": "“There’s no greater challenge in artificial intelligence than building and deploying fully autonomous technology at scale,” Dmitri Dolgov and Tekedra Mawakana, Waymo’s co-CEOs, said in a statement. The duo became co-CEOs after John Krafcik stepped ...",
+      "sourceUrl": null,
+      "webUrl": "https://cn.reuters.com/article/waymo-funding-idCNL3N2NY329",
+      "originalUrl": "https://cn.reuters.com/article/waymo-funding-idCNL3N2NY329",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20210616&t=2&i=1565932671&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEH5F0Q5",
+          "width": 817,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idCNL3N2NY329",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idCNL3N2NY329",
+      "publishedDateTime": "2021-06-16T06:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-16-alphabets-waymo-raises-25-bln-in-first-fresh-funding-in-a-year.md",
+      "title": "Alphabet’s Waymo raises $2.5 bln in first fresh funding in a year",
+      "excerpt": "“There’s no greater challenge in artificial intelligence than building and deploying fully autonomous technology at scale,\" Dmitri Dolgov and Tekedra Mawakana, Waymo’s co-CEOs, said in a ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/business/autos-transportation/alphabets-waymo-raises-25-bln-funding-round-2021-06-16/",
+      "originalUrl": "https://www.reuters.com/business/autos-transportation/alphabets-waymo-raises-25-bln-funding-round-2021-06-16/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.reuters.com/resizer/s1ecHHtxuKpo3OVoURQIIAwO68c=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/A3NUHQPGSJNNNPLMX7UPVOM5Z4.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-16T05:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-16-alphabets-self-driving-car-company-waymo-announces-25-billion-investment-round.md",
       "title": "Alphabet's self-driving car company Waymo announces $2.5 billion investment round",
       "excerpt": "Google sibling company Waymo announced a $2.5 billion investment round Wednesday, which will go toward advancing its autonomous driving technology and growing its team. The round includes funding from Waymo parent company Alphabet,",
@@ -1321,93 +1425,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-05-if-all-models-are-wrong-why-do-we-give-them-so-much-power.md",
-      "title": "If ‘All Models Are Wrong,’ Why Do We Give Them So Much Power?",
-      "excerpt": "I’m Ezra Klein and this is “The Ezra Klein Show.” [MUSIC PLAYING] So before we get started, a bit of housekeeping, promotional kind of thing. There is a sub-Reddit, a page on Reddit for this show. I’m not involved in it.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2021/06/04/opinion/ezra-klein-podcast-brian-christian.html",
-      "originalUrl": "https://www.nytimes.com/2021/06/04/opinion/ezra-klein-podcast-brian-christian.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2021/06/04/opinion/04eks-christian-image/04eks-christian-image-facebookJumbo.jpg",
-          "width": 902,
-          "height": 472,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2021/06/04/opinion/ezra-klein-podcast-brian-christian.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/06/04/opinion/ezra-klein-podcast-brian-christian.amp.html",
-      "publishedDateTime": "2021-06-04T12:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2021-06-04-baidus-plays-in-3-growing-industries-make-it-a-buy.md",
-      "title": "Baidu’s Plays in 3 Growing Industries Make It a Buy",
-      "excerpt": "The company’s plays in artificial intelligence (AI), cloud computing and electric vehicles (EVs) are set to put BIDU stock on the path to long-term growth. Baidu is no tech startup. It’s been listed on the NASDAQ since 2005.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/baidus-plays-in-3-growing-industries-make-it-a-buy-2021-06-04",
-      "originalUrl": "https://www.nasdaq.com/articles/baidus-plays-in-3-growing-industries-make-it-a-buy-2021-06-04",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/baidus-plays-in-3-growing-industries-make-it-a-buy-2021-06-04?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/baidus-plays-in-3-growing-industries-make-it-a-buy-2021-06-04?amp",
-      "publishedDateTime": "2021-06-04T09:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

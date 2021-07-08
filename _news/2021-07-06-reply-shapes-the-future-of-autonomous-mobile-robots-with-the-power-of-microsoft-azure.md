@@ -127,6 +127,6 @@ related:
       domain: manometcurrent.com
     quality: 28
 
-secured: "LXqErlpB48Hq/HKUVRq7mmlpzYVFH7S2rfbzoXbKDDaHPel5+JXe84UJyhkQ4HbeQfs21vUqf5+M6BxYx1icMCVASJ2uWwk3GYlTumBVxov1VQTzk53HlIBwR5ev43jv4xR+XChQgWIPPbOaShkgU9BMFiGOovDBItsx63SDH2gMK+Lff/+jui7jLwJlx4n8pj6nvf8jgqvAeXQnf5IK/YPEswxIjmjaTqb2fzNN2+Z+9fAICAYirWrE0XdeHjKUy36oFeoRf/NIrjCBhgTNwQ8nYDKfl1atcCirUCS4F50jKyQwSQvmFn+0AJouPcORiwr++L86I7mUz/TOsQ3RuOuueKu5qwejfqaqBzDA3Rk=;Hzu1WLxveQxzyWCIB5gj/Q=="
+secured: "mEO/CfAfpeliuHa3ZBg0Qnqnk554h048J7y6El+mEz4OSKA79g9sraB3O7ckUvM75iuCJ+h+aDBI8oU4BPAgzPUmYR5p3C1o6WvISU84F8KEPRjWeaIRjl0Civ8N6b+a1PPuW6odA9Gta6RqqKdU+lguMjn9iZR2TuZ+WhqYPzU3nWCAx8QtG3NbB+M88l8iRxWlf6SChE2puV3AYO9eHyQNCsimHpSVZk+uEaAg8y4bMZF7Zbzl01ds1IcNgjpXYxMNoyBeAOV9+o0AJj61Id6AsKhGnaNp4Y0Ubk/osujp96NdJcZQlPG6tSe0IxXJzXxK6899Q+N8vsxytRy9iPfi4f65oe66YxfAFs+9rNY=;wWW8gpnU4WBqhO62FN++WQ=="
 ---
 

@@ -2,6 +2,49 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2021-05-06-states-push-back-against-use-of-facial-recognition-by-police.md",
+      "title": "States push back against use of facial recognition by police",
+      "excerpt": "Law enforcement agencies across the U.S. have used facial recognition technology to solve homicides and bust human traffickers, but concern about its accuracy and the growing pervasiveness of video surveillance is leading some state lawmakers to hit the pause button.",
+      "sourceUrl": null,
+      "webUrl": "https://www.chron.com/news/article/States-push-back-against-use-of-facial-16153766.php",
+      "originalUrl": "https://www.chron.com/news/article/States-push-back-against-use-of-facial-16153766.php",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.ex.co/amp/mcd/logo_600x336.png",
+          "width": 600,
+          "height": 336,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.chron.com/news/amp/States-push-back-against-use-of-facial-16153766.php",
+      "cdnAmpWebUrl": "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/States-push-back-against-use-of-facial-16153766.php",
+      "publishedDateTime": "2021-05-05T16:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Houston Chronicle",
+        "domain": "chron.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-05-politico-ai-decoded-robot-law-helsinki-wants-to-be-europes-smartest-china-on-facial-recognition.md",
       "title": "POLITICO AI: Decoded: Robot law — Helsinki wants to be Europe’s smartest — China on facial recognition",
       "excerpt": "How global thinking on AI is shaping the world, from Berlin, Brussels, London and beyond. POLITICO’s AI correspondent cuts through the noise, introduces you to the key decision-makers you’ve never heard of and tells you what those in power don’t want you to know.",

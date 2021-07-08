@@ -9,7 +9,7 @@ ampWebUrl: "https://electrek.co/2021/07/06/elon-musk-tesla-ui-mind-of-car-view-f
 cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/07/06/elon-musk-tesla-ui-mind-of-car-view-fsd-computer/amp/"
 type: article
 quality: 81
-heat: 91
+heat: 81
 published: true
 
 provider:
@@ -30,22 +30,6 @@ images:
     width: 1200
     height: 628
     isCached: true
-
-related:
-  - title: "Tesla Will Release A ‘Mind Of Car’ Software Update Alongside Full Self Driving Tech"
-    excerpt: "Tesla will be releasing a 'Mind of Car' software update alongside the Full Self Driving tech. Here are the details."
-    publishedDateTime: 2021-07-06T14:09:00Z
-    webUrl: "https://www.redmondpie.com/tesla-will-release-a-mind-of-car-software-update-alongside-full-self-driving-tech/"
-    type: article
-    provider:
-      name: Redmond Pie
-      domain: redmondpie.com
-    quality: 48
-    images:
-      - url: "https://cdn.redmondpie.com/wp-content/uploads/2018/03/Tesla-main-1200.jpg"
-        width: 1200
-        height: 700
-        isCached: true
 
 secured: "FlupcHacNorX4xdUqYfKxBnauyqlph99T8lWEEo/dtfGdKGElSZlC8RzQOtLAROfiaUHXYavQi5/A/trRPj498TTz52QcURzy00u/0LNBBsMCOxv4v81FvAIWtP+rpJRWzZ5JRkFpaHKlNi3pnj101Bv14bF6SabMTBd8pi4YYE2nykizxaxNrNuxiVp0JTHlqj9kApE6NyDzgNE/6nHAWys+g6nyUjPM1Lqt5rfm9pJ4sNhOrItgrFtmpQIX6pjjkswzw0ki5jdSI+ESIB6gPNBRVMS2YK2WVOpK/gMBOP+00lyZ5ZeU6Ltn90ruJ6LRq4/FnTOh8fYIiwICJRbGwSO78+sU9GvI3sy4lrfJ9NQQ1lBHptmQAhJFbg7gJNrxT0RwG9bgYQrdbp/C8uZgfJ9yQpD6o7z9WkKH2J5l7Ta+vQmM1Pv2W5SRLFW/ILSMFqPEtmyOHxRQBgYFiy0merZPvWeuvhU5L0p8TrrTRfRPhvclRTxyZdQlM8aZc0godZX4rc96MKzFF3OlO8aFw==;rHaX7hMUh9N9ZfVAR0FFYg=="
 ---

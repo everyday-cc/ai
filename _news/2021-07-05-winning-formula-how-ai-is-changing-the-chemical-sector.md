@@ -48,6 +48,20 @@ related:
         width: 788
         height: 443
         isCached: true
+  - title: "AI is the Transformative Force Revolutionizing Future Human Development Over the Next 40 Years, Says Baidu CEO Robin Li at WAIC 2021"
+    excerpt: "Baidu's chief says technological advancements can spur the gradual restoration of humanity to become a low-carbon society The importance of AI"
+    publishedDateTime: 2021-07-08T11:16:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/ai-is-the-transformative-force-revolutionizing-future-human-development-over-the-next-40-years-says-baidu-ceo-robin-li-at-waic-2021-1030589086"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 36
+    images:
+      - url: "https://mma.prnewswire.com/media/1560054/Baidu_CEO_Robin_Li_discusses_social_AI_a_keynote_speech.jpg"
+        width: 400
+        height: 236
+        isCached: true
 
 secured: "RNkfXyrWUYEBNTfECAo8+jLOOgOrFW7Ymfu8iEFdeaKAnVW1m7U4RSWzZ5jchT4tTi5vaddgnBn5xl/x+7iyQG74ADsAV7FijXW5dSfv9lCET2oNStR/I83Jz0o64cUDHEzKXV8Y7gY6moyd1xJ4hnjig7Bb76vACFnzYygAzoX23ZzNLye6U4fwoH4pUOEO79vFQdR4b+NJNe8Fur6rGD15Bi9Jlj04GCCSqTW8NnTd1q9lo9EM96QjbhU5BkM7p8UezoBJC6Mp6TjMAdE/ZYp3/Dlu/8dR89/mCe4bTDl0ms+9uOeRL+lCfjVV+ncKlOAwpvrKzS+2MqLcf0EWt7wNXHfKYfwjMl7tKsrAxaI=;c1xJ9FOfejvFOD+lWCTzXg=="
 ---

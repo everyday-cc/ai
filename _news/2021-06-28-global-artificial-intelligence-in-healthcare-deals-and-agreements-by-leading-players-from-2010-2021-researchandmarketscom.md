@@ -1,26 +1,20 @@
 ---
 category: news
 title: "Global Artificial Intelligence in Healthcare: Deals and Agreements by Leading Players From 2010-2021 - ResearchAndMarkets.com"
-excerpt: "Partnering Terms and Agreements 2010 to 2021” report has been added to ResearchAndMarkets.com’s offering. The Global Artificial Intelligence (AI) Partnering Terms and Agreements 2010 to 2021 report provides an understanding and access to the artificial intelligence partnering deals and agreements entered into by the world’s leading healthcare companies."
-publishedDateTime: 2021-06-28T16:53:00Z
-originalUrl: "https://apnews.com/press-release/business-wire/artificial-intelligence-business-technology-c8cf1d7a3c1e49999f2dbe3d728e684e"
-webUrl: "https://apnews.com/press-release/business-wire/artificial-intelligence-business-technology-c8cf1d7a3c1e49999f2dbe3d728e684e"
+excerpt: "Partnering Terms and Agreements 2010 to 2021\" report has been added to ResearchAndMarkets.com's offering. The Global Artificial Intelligence (AI) Partnering Terms and Agreements 2010 to 2021 report provides an understanding and access to the artificial intelligence partnering deals and agreements entered into by the world's leading healthcare companies."
+publishedDateTime: 2021-06-28T11:53:00Z
+originalUrl: "https://www.morningstar.com/news/business-wire/20210628005698/global-artificial-intelligence-in-healthcare-deals-and-agreements-by-leading-players-from-2010-2021-researchandmarketscom"
+webUrl: "https://www.morningstar.com/news/business-wire/20210628005698/global-artificial-intelligence-in-healthcare-deals-and-agreements-by-leading-players-from-2010-2021-researchandmarketscom"
 type: article
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Morningstar, Inc.
+  domain: morningstar.com
 
 topics:
   - AI in Healthcare
   - AI
 
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
-
-secured: "JqDmv34WZ7+U6LLX3mKYQITK5UjDrx2hl0hf4BSGVwg+XLADplABGH8ldTtlM9dwXI1sGGf158mKNjHev2G5Bts2Km38EcvnUNZgriJMIZt++qHPVmwu8+skbPLqXcqUho8ZFXGXR7V5hxBsOuWslcglb0E5c0a3hN2xOwnZriEs+4PFzGNv0jWv+ZoDL4QI3Cp0swed++zr3CEJHVIFQ7FtX4T7kOuU9SonbcaffHfbD54KW8xbEU8l3GSVwLnpw5NTwAaOQBx36/BTgLFrKDoU5hpR+trT38k+qiBPV8ggcMyoCMsn/1DPkomifSDT0z3w0D5GFvxvDmKS9lHKTO7JA7OJJg9bJpQUljZBKDw=;GL9pTB2WzahTwLB8hkc6vg=="
+secured: "BJBUY8a/69DxMxf5p4+J5hwRc3E+4s5Rds00y/siua25rXJHU2dzEEMLLzWQo8a3l0meNahoZUeZrcsXTiX9uff+T/WZ/iJ54c7Egon8GTWyZkDTNEuniMdlFHrDsegA+QkOTE0D5au9GvnVotuxPCgKJH2qYmK/gDJQqYbcIHxgL6BEq0x5xaLHwrVBKzAJMOemdYIKaYJT8i0bvYBiC77K/2ANGX1EG6+yurUQJeX0M1Z9TqK+koKRMU9qXElsV2k/l8vlDy1YUFoWaWncKNSmhfMlFOZPr2iJmw7gBO8pdS3VCqxq+Eb/fmxiqmDsDKkFSFNNHL4WcGQq6vtOCYP4Vg21Do+SetaCZ9tk7LI=;gOjhme1jZmGh1zDoiI2nlg=="
 ---
 

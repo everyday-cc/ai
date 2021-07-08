@@ -2,6 +2,50 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2021-05-26-laser-driven-ion-acceleration-with-deep-learning.md",
+      "title": "Laser-driven ion acceleration with deep learning",
+      "excerpt": "While advances in machine learning over the past decade have made significant impacts in applications such as image classification, natural language processing and pattern recognition, scientific endeavors have only just begun to leverage this technology.",
+      "sourceUrl": null,
+      "webUrl": "https://phys.org/news/2021-05-laser-driven-ion-deep.html",
+      "originalUrl": "https://phys.org/news/2021-05-laser-driven-ion-deep.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2021/laser-driven-ion-accel.jpg",
+          "width": 1358,
+          "height": 1210,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://phys.org/news/2021-05-laser-driven-ion-deep.amp",
+      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-05-laser-driven-ion-deep.amp",
+      "publishedDateTime": "2021-05-26T05:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Phys.org",
+        "domain": "phys.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2021-05-26-a-close-look-at-cloud-based-machine-learning-platforms-microsoft-azure-ml-google-vertex-ai.md",
       "title": "A Close Look at Cloud-Based Machine Learning Platforms: Microsoft Azure ML, Google Vertex AI",
       "excerpt": "This is the second part of the ML PaaS series where we explore Azure Machine Learning services and Google’s Vertex AI platform. We follow the same framework of classifying the features and services of these platforms into the five stages of machine learning.",
@@ -1336,58 +1380,6 @@
         "IBM AI",
         "Machine Learning",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2021-05-19-alteryx-expands-analytics-automation-platform-with-new-ml-features.md",
-      "title": "Alteryx expands analytics automation platform with new ML features",
-      "excerpt": "Alteryx embraces open source AutoML framework to make AI more accessible to business analysts, domain experts, and data scientists.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/05/19/alteryx-expands-analytics-automation-platform-with-new-ml-features/",
-      "originalUrl": "https://venturebeat.com/2021/05/19/alteryx-expands-analytics-automation-platform-with-new-ml-features/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/05/Alteryx-Machine-Learning-Animated-Correlation.gif?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/05/19/alteryx-expands-analytics-automation-platform-with-new-ml-features/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/19/alteryx-expands-analytics-automation-platform-with-new-ml-features/amp/",
-      "publishedDateTime": "2021-05-19T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

@@ -202,6 +202,41 @@
       ]
     },
     {
+      "path": "_news/2021-06-23-cognitivescale-and-ascendum-to-accelerate-trusted-ai-deployments-for-healthcare-fintech-and-ecommerce.md",
+      "title": "CognitiveScale and Ascendum To Accelerate Trusted AI Deployments for Healthcare, Fintech and eCommerce",
+      "excerpt": "CognitiveScale will provide its trusted AI software while Ascendum will provide the services and certified ... IBM Watson, M12 (Microsoft Ventures), and USAA. To learn more, visit ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.retaildive.com/press-release/20210623-cognitivescale-and-ascendum-to-accelerate-trusted-ai-deployments-for-health/",
+      "originalUrl": "https://www.retaildive.com/press-release/20210623-cognitivescale-and-ascendum-to-accelerate-trusted-ai-deployments-for-health/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-23T09:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Retail Dive",
+        "domain": "retaildive.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2021-06-23-simplify-machine-learning-with-azure-applied-ai-services.md",
       "title": "Simplify machine learning with Azure Applied AI Services",
       "excerpt": "We’ve seen some of this with the evolution from Project Adam to Azure Cognitive Services. Now Microsoft is taking the next step, using that foundation to deliver a set of machine learning models that provide assistance with common tasks: Azure Applied AI Services.",
@@ -1275,58 +1310,6 @@
         "AI Hardware",
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-15-heres-why-ibm-is-wading-deeper-into-hybrid-cloud-waters-as-it-should.md",
-      "title": "Here's Why IBM Is Wading Deeper Into Hybrid Cloud Waters (as It Should)",
-      "excerpt": "Big Blue may be late to the party, but it's not too late for the company to leverage even just a little market share into a lot of revenue.",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2021/06/15/why-ibm-wading-deeper-in-hybrid-cloud-computing/",
-      "originalUrl": "https://www.fool.com/investing/2021/06/15/why-ibm-wading-deeper-in-hybrid-cloud-computing/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F630282%2Fman-wading-into-water-holding-an-umbrella-in-the-rain.jpg&w=1200&op=resize",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.fool.com/amp/investing/2021/06/15/why-ibm-wading-deeper-in-hybrid-cloud-computing/",
-      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/06/15/why-ibm-wading-deeper-in-hybrid-cloud-computing/",
-      "publishedDateTime": "2021-06-15T09:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],

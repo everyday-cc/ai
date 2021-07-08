@@ -41,17 +41,6 @@ related:
         width: 612
         height: 355
         isCached: true
-  - title: "Maine law restricts facial recognition technology statewide"
-    excerpt: "A bill touted as the country’s strictest statewide regulation on the use of facial recognition technology has become law in Maine."
-    publishedDateTime: 2021-07-03T17:06:00Z
-    webUrl: "https://www.newsobserver.com/news/technology/article252486663.html"
-    ampWebUrl: "https://amp.newsobserver.com/news/technology/article252486663.html"
-    cdnAmpWebUrl: "https://amp-newsobserver-com.cdn.ampproject.org/c/s/amp.newsobserver.com/news/technology/article252486663.html"
-    type: article
-    provider:
-      name: Raleigh News & Observer
-      domain: newsobserver.com
-    quality: 54
   - title: "New test targets super-recognisers, high-performing facial recognition individuals"
     excerpt: "Psychologists from UNSW Sydney have developed a new face identification ability test that will help find facial recognition experts for a variety of police and government agencies, including contract tracing."
     publishedDateTime: 2021-07-06T12:20:00Z

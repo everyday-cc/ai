@@ -1,21 +1,21 @@
 ---
 category: news
 title: "CognitiveScale and Ascendum To Accelerate Trusted AI Deployments for Healthcare, Fintech and eCommerce"
-excerpt: "CognitiveScale, the enterprise AI company that helps organizations win with intelligent, transparent, and trusted AI powered digital systems, today announced it has partnered with Ascendum to deliver Trusted AI solutions for the healthcare,"
-publishedDateTime: 2021-06-23T13:34:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-cognitivescale-ascendum-accelerate-trusted-ai-deployments-healthcare-fintech-/2021/06/23/9396326.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-cognitivescale-ascendum-accelerate-trusted-ai-deployments-healthcare-fintech-/2021/06/23/9396326.htm"
+excerpt: "CognitiveScale will provide its trusted AI software while Ascendum will provide the services and certified ... IBM Watson, M12 (Microsoft Ventures), and USAA. To learn more, visit ..."
+publishedDateTime: 2021-06-23T16:57:00Z
+originalUrl: "https://www.retaildive.com/press-release/20210623-cognitivescale-and-ascendum-to-accelerate-trusted-ai-deployments-for-health/"
+webUrl: "https://www.retaildive.com/press-release/20210623-cognitivescale-and-ascendum-to-accelerate-trusted-ai-deployments-for-health/"
 type: article
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Retail Dive
+  domain: retaildive.com
 
 topics:
-  - AI in Finance
+  - Microsoft AI
   - AI
   - AI in Healthcare
 
-secured: "kkHCjEINwbfX6HOmAKsxrnQU4c4GxgH8t918Z0tXRX4humHfE6JTsq2/r8MK70pR7LtECgBf0ywF9FmasLj7Xk9fgHpCO3DJUjHxUKddnZTkA3g/ouJ4pI/ZOYV7hqcB4SXTww8LEBzku7VkjtAfMp7vR+7brYKhcFyb53M7QcIJmBXGajHv5ypBi7yr9JbgTgV7q/0keCxpIgDRCnx2kSQT3zYKogkFXdhzjXvh8k077RFr3PvKJwVgUPBhDSUcWYX426TfEvRmqy6EoZpnpUpDJFuXpa2vFs9RYQND5tAbjO6IatNKv4FfEy3e6ganFVGXRkxZvynitw5Ac6dRVcgA3OyDbo4i6b5oEq8mzvI=;MjOKeC5EyAlnghm3f1LeNQ=="
+secured: "0m3VQ+TU58/9n77/phh6nlJGnlpSBXQqlunDaZkQh0NZlY0KnSzQ5T/z8ACTj1WpDudQ7JbCuxX+zUbcQhggOPpXHxvxRxEYvAYgU808ApzCUl09IcaNyZf/aTS+8MjLztgCPNM2xUj4IRj220cGRQeStl7m/jGAGv4NbB+QZYQMxGNqUk5JVz+enQKtqrGlFcrG/K8q7UL0YkA3YPqHQIs7N1Jy/jG9mu5kre9eVTk0cjdBgyNAEPHIxXhbZmxtugUH1w0l52woUl6AdJ6pVmvX/Iy6uVK2o+8oR9nwsLqH8UZXd8Voo8i+ojajo99RUu9ZotwYrpb6tFaaNdasqXu+fGzWMnW/74a4BGpcVhY=;pHBp7GaLmAD6ucOMWxewBA=="
 ---
 
