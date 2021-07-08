@@ -22,7 +22,7 @@ topics:
   - AI in Marketing
 
 images:
-  - url: "https://pbs.twimg.com/profile_images/1400569250431913991/D9w4zGP1_400x400.jpg"
+  - url: "https://pbs.twimg.com/profile_images/1413184656824946696/neI3PgW3_400x400.jpg"
     width: 400
     height: 400
     isCached: true
