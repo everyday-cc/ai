@@ -42,20 +42,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Deep Learning Chip Market Recent Trends, Future Growth, Industry Analysis, Outlook, Insights, Share and Forecasts Report 2028"
-    excerpt: "The global deep learning chip market is expected to reach a market size of USD 27.75 Billion by 2028 and register a"
-    publishedDateTime: 2021-07-03T11:33:00Z
-    webUrl: "https://www.marketwatch.com/press-release/deep-learning-chip-market-recent-trends-future-growth-industry-analysis-outlook-insights-share-and-forecasts-report-2028-2021-07-03"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 59
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Artificial Intelligence in Cyber Security Market Size, Share 2020, Impressive Industry Growth Report 2027"
     excerpt: "The Artificial Intelligence in Security Market was valued at 5 08 billion US in 2020 and is projected to reach 14 2 billion US by 2026 at a CAGR of 18 during the forecast period 2021 2026 The market is"
     publishedDateTime: 2021-07-06T05:55:00Z

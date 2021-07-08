@@ -20,20 +20,6 @@ topics:
   - Microsoft AI
 
 related:
-  - title: "Speech Recognition Software Market Next Big Thing | Major Giants Google, Microsoft, Baidu"
-    excerpt: "The latest independent research document on Global Speech Recognition Software examine investment in Market. It describes"
-    publishedDateTime: 2021-07-03T12:47:00Z
-    webUrl: "https://www.marketwatch.com/press-release/speech-recognition-software-market-next-big-thing-major-giants-google-microsoft-baidu-2021-07-03"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 92
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Best Microsoft technical certification 2021: Top exams"
     excerpt: "ZDNet has compiled a collection of the best Microsoft certifications that will protect your job and boost your income as we head toward 2022 in a business world that is speeding towards digital transformation."
     publishedDateTime: 2021-07-06T06:42:00Z
@@ -50,35 +36,51 @@ related:
         width: 1600
         height: 1069
         isCached: true
-  - title: "Sound Recognition Market to Eyewitness Massive Growth by 2026: Baidu, Yandex, LG, Harman, Sensory"
-    excerpt: "The latest independent research document on Global Sound Recognition examine investment in Market It describes how companies deploying these technologies across various industry verticals aim to explore its potential to become a major business disrupter The Sound Recognition study eludes"
-    publishedDateTime: 2021-07-07T10:44:00Z
-    webUrl: "https://www.openpr.com/news/2323098/sound-recognition-market-to-eyewitness-massive-growth-by-2026"
-    ampWebUrl: "https://www.openpr.com/amp/2323098/sound-recognition-market-to-eyewitness-massive-growth-by-2026"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2323098/sound-recognition-market-to-eyewitness-massive-growth-by-2026"
+  - title: "Best Microsoft technical certifications: The top exams to take for 2021"
+    excerpt: "ZDNet has compiled a collection of the best Microsoft certifications that will protect your job and boost your income as we head toward 2022 in a business world that is speeding towards digital transformation."
+    publishedDateTime: 2021-07-06T06:42:00Z
+    webUrl: "https://www.zdnet.com/index.php/category/2381/index.php/article/microsoft-technical-certifications-the-top-exams-to-take-for-2021/"
+    ampWebUrl: "https://www.zdnet.com/index.php/category/2381/index.php/google-amp/article/best-microsoft-technical-certification/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2381/index.php/google-amp/article/best-microsoft-technical-certification/"
     type: article
     provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 48
+      name: ZDNet
+      domain: zdnet.com
+    quality: 91
     images:
-      - url: "https://cdn.openpr.com/U/7/U707881424_g.jpg"
-        width: 450
-        height: 300
+      - url: "https://www.zdnet.com/a/hub/i/2021/06/23/17d8ed20-1299-443d-8153-846622179896/msft-azure.jpg"
+        width: 1600
+        height: 1069
         isCached: true
-  - title: "Reply Shapes the Future of Autonomous Mobile Robots with the Power of Microsoft Azure"
-    excerpt: "The solution combines Microsoft Azure services ... Reply integrates Azure Cognitive Services, Machine Learning and DevOps as well as Power Apps and Power BI. Thanks to Azure's intelligent service ..."
-    publishedDateTime: 2021-07-06T07:39:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/21/07/b21850593/reply-shapes-the-future-of-autonomous-mobile-robots-with-the-power-of-microsoft-azure"
+  - title: "Microsoft is working on game upscaling technology powered by AI"
+    excerpt: "Now, Microsoft has its hand in the fidelity jar. Microsoft has realised that, for the next generation of games to excel in both graphic fidelity and popularity, people are going to need the ability to light up their 4K TVs with them,"
+    publishedDateTime: 2021-07-06T15:27:00Z
+    webUrl: "https://www.pcgamer.com/microsoft-is-working-on-game-upscaling-technology-powered-by-ai/"
+    ampWebUrl: "https://www.pcgamer.com/amp/microsoft-is-working-on-game-upscaling-technology-powered-by-ai/"
+    cdnAmpWebUrl: "https://www-pcgamer-com.cdn.ampproject.org/c/s/www.pcgamer.com/amp/microsoft-is-working-on-game-upscaling-technology-powered-by-ai/"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 47
+      name: PC Gamer
+      domain: pcgamer.com
+    quality: 74
     images:
-      - url: "https://cdn.benzinga.com/files/imagecache/og_image_social_share_1200x630/sites/all/themes/bz2/images/bz-icon.png"
-        width: 1200
-        height: 630
+      - url: "https://cdn.mos.cms.futurecdn.net/vhVPX5AW4yufmehSr6vQW4-480-80.jpg"
+        width: 480
+        height: 264
+        isCached: true
+  - title: "Pentagon Shelves JEDI Cloud Contract Won By Microsoft And Appealed By AWS"
+    excerpt: "The U.S. Department of Defense is shelving the controversial JEDI cloud computing contract won by Microsoft and appealed by AWS"
+    publishedDateTime: 2021-07-06T17:57:00Z
+    webUrl: "https://www.crn.com/news/cloud/pentagon-shelves-jedi-cloud-contract-won-by-microsoft-and-appealed-by-aws"
+    type: article
+    provider:
+      name: CRN
+      domain: crn.com
+    quality: 55
+    images:
+      - url: "https://www.crn.com/resources/026b-12b1399b675e-17e3a202e076-1000/104684731.jpeg"
+        width: 400
+        height: 400
         isCached: true
   - title: "Deep Learning Market Size and Growth to 2028 | Key Players – Amazon Web Services (AWS), Google, IBM, Intel, Micron Technology, Microsoft"
     excerpt: "The Deep Learning Market report forecasts promising growth and development for the period 2021-2028. The Deep Learning market research report defines key statistical data presented in an organized format including graphs,"
@@ -116,15 +118,15 @@ related:
       name: manometcurrent.com
       domain: manometcurrent.com
     quality: 28
-  - title: "Deep Learning System Software Market Size and Growth to 2028 | Key Players – Microsoft, TRINT, NVIDIA, Google, IBM, Amazon Web Services"
-    excerpt: "The Deep Learning System Software Market report forecasts promising growth and development for the period 2021-2028. The Deep Learning System Software market research report defines key statistical data presented in an organized format including graphs,"
-    publishedDateTime: 2021-07-04T00:00:00Z
-    webUrl: "https://manometcurrent.com/deep-learning-system-software-market-size-and-growth-to-2028-key-players-microsoft-trint-nvidia-google-ibm-amazon-web-services/"
+  - title: "Reply Shapes the Future of Autonomous Mobile Robots with the Power of Microsoft Azure"
+    excerpt: "The solution combines Microsoft Azure services ... Reply integrates Azure Cognitive Services, Machine Learning and DevOps as well as Power Apps and Power BI. Thanks to Azure's intelligent service ..."
+    publishedDateTime: 2021-07-06T07:38:00Z
+    webUrl: "https://www.morningstar.com/news/business-wire/20210706005133/reply-shapes-the-future-of-autonomous-mobile-robots-with-the-power-of-microsoft-azure"
     type: article
     provider:
-      name: manometcurrent.com
-      domain: manometcurrent.com
-    quality: 21
+      name: Morningstar%2c Inc.
+      domain: morningstar.com
+    quality: 27
 
 secured: "6HXRTN/1IhH1oNMHSNeTqvvnWXcYF50TW+KuYNI2tPGHX6bXqQpH7t5VEpBCNDzDIXYhg3reSYydMPcyUyYlG0EmODgULYEG27XX2nqcd3Uk2WvZNYJ+gMx/wWkI7l3Y/k4cHX3TzjmiC+L7eQEsOA5N7k+/O8WCCQhmt7TcB0x4AoW31e2ltpasP+OLK/zyfJbgfSiLwrwcdk6smGBYvqt+OaEzbCpRWKli2LO974+Cz+SzVN6wZmAqlbS8/dGeDU+vzKhxZMYlcPYNiTfnrrl6VEdxUoTCei0l98r9JqKgTDtFiL/D1o8Gu2+p1JrNVTA3TcXENFMGvSaLzsHuYbOYUWDaH+MBCHvPRMc7MGQ=;8u5wBtXj3IL+eT9ZAPK4sA=="
 ---

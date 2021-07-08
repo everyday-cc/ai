@@ -36,6 +36,20 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 54
+  - title: "China’s gene giant harvests data from millions of women"
+    excerpt: "A prenatal test used worldwide sends gene data of pregnant women to the company that developed it with China's military. The US sees a security risk."
+    publishedDateTime: 2021-07-08T04:25:00Z
+    webUrl: "https://kathmandupost.com/world/2021/07/08/china-s-gene-giant-harvests-data-from-millions-of-women"
+    type: article
+    provider:
+      name: kathmandupost
+      domain: kathmandupost.com
+    quality: 24
+    images:
+      - url: "https://assets-cdn.kathmandupost.com/uploads/source/news/2021/third-party/5R212601-1625717739.jpg"
+        width: 1920
+        height: 1260
+        isCached: true
 
 secured: "s0YSW9/VUVBqn+DPSOKzgUQmNtYd94kn7VHW0Ky+t+PEkBYDZ9ZmedtVsnSQkoWsXz5dJ3l3Bndks7E9+uIVSVbwBQ0uaT1tDhCRbz/Djc+PlM6G4yolR7I4OWOHCTbnjsN2XSWWTFFjrK9XOLOgTmtRCIQR1YxnMblObvOsfqPUJUhQLoDe0rCvIC+Z+9+UDTCB+4ddOZINaPSK8KrstXKSnulGYhDfobo14ngrsB73g7VpTh8Nf62EDdFVGKzAWpwnS/3C9bTdDxFRGWsaK1m/G3swvWTo1lDFSycUEjqr56GdWG0WyLAUlx0mYVnU0/xGU7sx95t9pGm5vykWM+vpJulSZ3phzDzXPm6gOIDlXTFbEEbryWXheBxBtMC7nt/q/z7cjtqA5g3ihaPfNyp4dR7+XjFvOUfQWhczYH/tCB3OXEozGDSmlw4vrd1uctDNYwDAr7ZdCTravtbvntaloa9MJFdyPFs41wsmHIPmK5Q/4Pb6YI/5xagWMaMHNxR3zCMK3bH7ZWKzvGQN2Q==;WK/qBgkgs30KX81XGytNtQ=="
 ---

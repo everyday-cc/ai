@@ -9,7 +9,7 @@ ampWebUrl: "https://medicalxpress.com/news/2021-07-ai-diabetes-fat-heart.amp"
 cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-07-ai-diabetes-fat-heart.amp"
 type: article
 quality: 57
-heat: 67
+heat: -1
 published: false
 
 provider:
@@ -26,6 +26,22 @@ images:
     isCached: true
 
 related:
+  - title: "AI tool can measure fat around the heart and calculate one’s diabetes risk"
+    excerpt: "Accumulation of fat specifically around the heart has long been linked to cardiovascular and metabolic disease but until now there hasn’t been a simple way to measure this. A new artificial intelligence tool has been developed that can quantify these fat deposits from regular MRI images."
+    publishedDateTime: 2021-07-08T03:51:00Z
+    webUrl: "https://newatlas.com/medical/ai-tool-fat-heart-mri-diabetes-risk/"
+    ampWebUrl: "https://newatlas.com/medical/ai-tool-fat-heart-mri-diabetes-risk/?amp=true"
+    cdnAmpWebUrl: "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/medical/ai-tool-fat-heart-mri-diabetes-risk/?amp=true"
+    type: article
+    provider:
+      name: New Atlas
+      domain: newatlas.com
+    quality: 85
+    images:
+      - url: "https://assets.newatlas.com/dims4/default/e8e5f22/2147483647/strip/true/crop/615x410+13+0/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F09%2Fe8%2F533d8c5c4fa7bab6493335b852a7%2Fmri2640.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "AI tool measures fat around the heart to predict a patient's risk of diabetes"
     excerpt: "A team led by researchers from Queen Mary University of London has developed a new artificial intelligence (AI) tool that is able to automatically measure the amount of fat around the heart from MRI scan images."
     publishedDateTime: 2021-07-08T00:35:00Z

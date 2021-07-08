@@ -35,20 +35,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Deep Learning Chip Market Recent Trends, Future Growth, Industry Analysis, Outlook, Insights, Share and Forecasts Report 2028"
-    excerpt: "The global deep learning chip market is expected to reach a market size of USD 27.75 Billion by 2028 and register a"
-    publishedDateTime: 2021-07-03T11:33:00Z
-    webUrl: "https://www.marketwatch.com/press-release/deep-learning-chip-market-recent-trends-future-growth-industry-analysis-outlook-insights-share-and-forecasts-report-2028-2021-07-03"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 59
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "AI in Manufacturing Market Latest Industry Trends, COVID 19 Impact Analysis, Key Drivers and Future Demand Forecast"
     excerpt: "The globalAI in manufacturing market forecastis expected to rise owing to increasing demand for collaborative robots"
     publishedDateTime: 2021-07-06T06:25:00Z

@@ -2,6 +2,281 @@
   "page": 61,
   "value": [
     {
+      "path": "_news/2021-05-24-how-esaf-small-finance-bank-is-cutting-down-man-hours-through-ai.md",
+      "title": "How ESAF Small Finance Bank is cutting down man hours through AI",
+      "excerpt": "By deploying AI and machine learning, the micro-financing company is able to take decisions faster. Admitting that hybrid work paradox is here to stay amid the pandemic, Microsoft CEO Satya Nadella on Friday outlined a detailed approach about how his company is going to tackle the biggest shift to global workplace that requires a new operating model,",
+      "sourceUrl": null,
+      "webUrl": "https://cio.economictimes.indiatimes.com/news/strategy-and-management/how-esaf-small-finance-bank-is-cutting-down-man-hours-through-ai/82898958",
+      "originalUrl": "https://cio.economictimes.indiatimes.com/news/strategy-and-management/how-esaf-small-finance-bank-is-cutting-down-man-hours-through-ai/82898958",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://etimg.etb2bimg.com/thumb/msid-82898958,imgsize-71229,width-800,height-434,overlay-etcio/how-esaf-small-finance-bank-is-cutting-down-man-hours-through-ai.jpg",
+          "width": 800,
+          "height": 434,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://cio.economictimes.indiatimes.com/amp/news/strategy-and-management/how-esaf-small-finance-bank-is-cutting-down-man-hours-through-ai/82898958",
+      "cdnAmpWebUrl": "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/strategy-and-management/how-esaf-small-finance-bank-is-cutting-down-man-hours-through-ai/82898958",
+      "publishedDateTime": "2021-05-23T20:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India Times",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2021-05-24-amazons-ai-is-helping-the-police-watch-you.md",
+      "title": "Amazon's AI Is Helping the Police Watch You",
+      "excerpt": "Amazon markets the AI, called Rekognition, for a variety of applications from the innocuous (allowing videos to be searchable by the people and objects that appear in them) to more concerning applications, such as real-time tracking and security.",
+      "sourceUrl": null,
+      "webUrl": "https://www.designnews.com/automation-motion-control/amazons-ai-helping-police-watch-you",
+      "originalUrl": "https://www.designnews.com/automation-motion-control/amazons-ai-helping-police-watch-you",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.designnews.com/sites/designnews.com/files/Design%20News/Traffic%20cameras.jpg",
+          "width": 1280,
+          "height": 856,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-23T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Design News",
+        "domain": "designnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-24-the-question-ibm-watsons-global-lead-says-ai-companies-need-to-ask-and-soon.md",
+      "title": "The question IBM Watson’s global lead says AI companies need to ask, and soon",
+      "excerpt": "TORONTO – With artificial intelligence playing an ever-greater role in steering digital transformation, the global lead behind one of the world’s best-known AI systems wants both developers and the companies adopting their work to think about what ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.itbusiness.ca/news/the-question-ibm-watsons-global-lead-says-ai-companies-need-to-ask-and-soon/101913",
+      "originalUrl": "https://www.itbusiness.ca/news/the-question-ibm-watsons-global-lead-says-ai-companies-need-to-ask-and-soon/101913",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.itbusiness.ca/wp-content/uploads/2018/05/Neil-Sahota-header.jpg",
+          "width": 620,
+          "height": 250,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.itbusiness.ca/news/the-question-ibm-watsons-global-lead-says-ai-companies-need-to-ask-and-soon/101913?amp=1",
+      "cdnAmpWebUrl": "https://www-itbusiness-ca.cdn.ampproject.org/c/s/www.itbusiness.ca/news/the-question-ibm-watsons-global-lead-says-ai-companies-need-to-ask-and-soon/101913?amp=1",
+      "publishedDateTime": "2021-05-23T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT Business",
+        "domain": "itbusiness.ca",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-24-five-things-you-need-to-know-to-start-your-day.md",
+      "title": "Five Things You Need to Know to Start Your Day",
+      "excerpt": "Bitcoin’s wild price swings keep investors on edge. Mile-high drama as Belarus forces airliner to land. Cannibal mice are threatening Sydney. Here's what you need to know to start your day.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/news/newsletters/2021-05-23/five-things-you-need-to-know-to-start-your-day",
+      "originalUrl": "https://www.bloomberg.com/news/newsletters/2021-05-23/five-things-you-need-to-know-to-start-your-day",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ieQSSTu_obOM/v0/1200x800.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-23T16:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-24-ibms-project-codenet-will-test-how-far-you-can-push-ai-to-write-software.md",
+      "title": "IBM’s Project CodeNet will test how far you can push AI to write software",
+      "excerpt": "IBM’s AI group released CodeNet, a 14-million-sample dataset for training machine learning models to help software developers be productive.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/05/23/ibms-project-codenet-will-test-how-far-you-can-push-ai-to-write-software/",
+      "originalUrl": "https://venturebeat.com/2021/05/23/ibms-project-codenet-will-test-how-far-you-can-push-ai-to-write-software/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i1.wp.com/bdtechtalks.com/wp-content/uploads/2021/05/Project-CodeNet-diversity.jpg",
+          "width": 1920,
+          "height": 703,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/05/23/ibms-project-codenet-will-test-how-far-you-can-push-ai-to-write-software/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/23/ibms-project-codenet-will-test-how-far-you-can-push-ai-to-write-software/amp/",
+      "publishedDateTime": "2021-05-23T12:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-24-leading-autonomous-cyber-ai-powerhouse-darktrace-joins-world-cyber-security-summit-africa.md",
+      "title": "Leading Autonomous Cyber AI Powerhouse Darktrace Joins World Cyber Security Summit -Africa",
+      "excerpt": "The first company to apply AI to the challenge of cyber security, Darktrace, will feature at Trescon's virtual edition of the World Cyber Security Summit on May 24 2021. With a special focus on Africa,",
+      "sourceUrl": null,
+      "webUrl": "https://www.asiaone.com/business/leading-autonomous-cyber-ai-powerhouse-darktrace-joins-world-cyber-security-summit-africa",
+      "originalUrl": "https://www.asiaone.com/business/leading-autonomous-cyber-ai-powerhouse-darktrace-joins-world-cyber-security-summit-africa",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.asiaone.com/sites/default/files/styles/a1_og_image/public/original_images/May2021/asiaone_default.jpg?itok=ePYeHevC",
+          "width": 763,
+          "height": 509,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.asiaone.com/business/leading-autonomous-cyber-ai-powerhouse-darktrace-joins-world-cyber-security-summit-africa?amp",
+      "cdnAmpWebUrl": "https://www-asiaone-com.cdn.ampproject.org/c/s/www.asiaone.com/business/leading-autonomous-cyber-ai-powerhouse-darktrace-joins-world-cyber-security-summit-africa?amp",
+      "publishedDateTime": "2021-05-23T10:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Asia One",
+        "domain": "asiaone.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
       "path": "_news/2021-05-23-brain-controlled-robotic-arm-gives-paralysed-man-sense-of-touch.md",
       "title": "Brain-controlled robotic arm gives paralysed man sense of touch",
       "excerpt": "Imagine being able to control a robotic arm from a distance, using only your mind. Now imagine being able to feel when its fingers grasp an object, as though it were your own hand. US researchers ...",
@@ -890,291 +1165,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-22-brain-implants-control-robot-arm-well-enough-to-grab-a-beer.md",
-      "title": "Brain implants control robot arm well enough to grab a beer",
-      "excerpt": "If you've been following our robotics coverage, you'll know it isn't the first mind-controlled robo limb-- a DARPA-funded project once allowed a woman to feed herself chocolate, while the one ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.engadget.com/2015-05-21-caltech-mind-controlled-robot-arm.html",
-      "originalUrl": "https://www.engadget.com/2015-05-21-caltech-mind-controlled-robot-arm.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.yimg.com/uu/api/res/1.2/wNbgcpOF.kZCjroAsCWYGA--~B/aD00NTg7dz02MzA7YXBwaWQ9eXRhY2h5b24-/https://o.aolcdn.com/hss/storage/midas/662841a7b4d92c4b2671ad8ca7f372c1/202027765/caltech-roboarm-lede.jpg",
-          "width": 630,
-          "height": 458,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-21T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-22-leigh-johnsons-guide-to-machine-vision-on-raspberry-pi.md",
-      "title": "Leigh Johnson’s Guide To Machine Vision On Raspberry Pi",
-      "excerpt": "(Video also embedded below.) The talk is a very concise 13 minutes, so Leigh flies through definitions of basic terms, before quickly naming TensorFlow and Keras as the tools she used. The time ...",
-      "sourceUrl": null,
-      "webUrl": "https://hackaday.com/2019/03/01/leigh-johnsons-guide-to-machine-vision-on-raspberry-pi/",
-      "originalUrl": "https://hackaday.com/2019/03/01/leigh-johnsons-guide-to-machine-vision-on-raspberry-pi/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://hackaday.com/wp-content/uploads/2019/03/leigh-johnson-machine-vision-pi-fire-engine-800x450.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-21T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hackaday",
-        "domain": "hackaday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-22-mind-written-couplets-add-technology-to-chinas-cny.md",
-      "title": "'Mind-written' couplets add technology to China's CNY",
-      "excerpt": "Then, the system can decode the operator's intent and control the robot to write the character,\" Prof Xu said. The mind-controlled writing system allows two people to work on a character ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.thestar.com.my/aseanplus/aseanplus-news/2021/02/08/039mind-written039-couplets-add-technology-to-china039s-cny",
-      "originalUrl": "https://www.thestar.com.my/aseanplus/aseanplus-news/2021/02/08/039mind-written039-couplets-add-technology-to-china039s-cny",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apicms.thestar.com.my/uploads/images/2021/02/08/1037355.jpg",
-          "width": 860,
-          "height": 573,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-21T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Star",
-        "domain": "thestar.com.my",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-22-sonys-smartar-demoed-live-raises-the-bar-for-augmented-reality-video.md",
-      "title": "Sony's SmartAR demoed live, raises the bar for augmented reality (video)",
-      "excerpt": "A new live-demo shows Sony's markerless object recognition system focusing on posters, tables, books, and coffee cups in lieu of the traditional AR card -- allowing it recognize multiple objects ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.engadget.com/2011-05-22-sonys-smartar-demoed-live-raises-the-bar-for-augmented-reality.html",
-      "originalUrl": "https://www.engadget.com/2011-05-22-sonys-smartar-demoed-live-raises-the-bar-for-augmented-reality.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.yimg.com/uu/api/res/1.2/sljYJ.LrNNZJmYVizSxNOg--~B/aD0zMTc7dz02MDA7YXBwaWQ9eXRhY2h5b24-/https://www.blogcdn.com/www.engadget.com/media/2011/05/smartarguide.jpg",
-          "width": 600,
-          "height": 317,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-21T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-22-watch-now-facial-recognition-technology-being-tested-in-central-illinois.md",
-      "title": "Watch now: Facial recognition technology being tested in Central Illinois",
-      "excerpt": "Ever since The New York Times published a story revealing a startup facial recognition company that “harvests” public photos from the internet, the use of its technology — especially in",
-      "sourceUrl": null,
-      "webUrl": "https://jg-tc.com/news/local/public_safety/watch-now-facial-recognition-technology-being-tested-in-central-illinois/article_db8a9104-060a-5063-b8eb-db353a8b0eab.html",
-      "originalUrl": "https://jg-tc.com/news/local/public_safety/watch-now-facial-recognition-technology-being-tested-in-central-illinois/article_db8a9104-060a-5063-b8eb-db353a8b0eab.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.chicago2.vip.townnews.com/jg-tc.com/content/tncms/assets/v3/editorial/2/15/2151efb7-8552-57f4-bc6a-0e2f123606de/60a83599b7391.image.jpg?resize=1024%2C1530",
-          "width": 1024,
-          "height": 1530,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://jg-tc.com/news/local/public_safety/watch-now-facial-recognition-technology-being-tested-in-central-illinois/article_db8a9104-060a-5063-b8eb-db353a8b0eab.amp.html",
-      "cdnAmpWebUrl": "https://0-jg--tc-com-0.cdn.ampproject.org/c/s/jg-tc.com/news/local/public_safety/watch-now-facial-recognition-technology-being-tested-in-central-illinois/article_db8a9104-060a-5063-b8eb-db353a8b0eab.amp.html",
-      "publishedDateTime": "2021-05-21T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "JG-TC",
-        "domain": "jg-tc.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-22-deepmind-reportedly-lost-a-yearslong-bid-to-win-more-independence-from-google.md",
-      "title": "DeepMind reportedly lost a yearslong bid to win more independence from Google",
-      "excerpt": "Tensions between Google and its AI brain trust DeepMind have always been fascinating. To put the relationship in crude terms: DeepMind, founded in 2010, is home to some the best AI researchers in ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.theverge.com/2021/5/21/22447272/deepmind-google-independence-tensions-negotiations-wsj-report",
-      "originalUrl": "https://www.theverge.com/2021/5/21/22447272/deepmind-google-independence-tensions-negotiations-wsj-report",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 116,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.vox-cdn.com/thumbor/tM3uxkTrzfKUZ2BrV3lpyVPDi08=/0x0:3500x2335/1400x933/filters:focal(1470x888:2030x1448):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/69323166/1281728508.0.jpg",
-          "width": 1400,
-          "height": 933,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.theverge.com/platform/amp/2021/5/21/22447272/deepmind-google-independence-tensions-negotiations-wsj-report",
-      "cdnAmpWebUrl": "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2021/5/21/22447272/deepmind-google-independence-tensions-negotiations-wsj-report",
-      "publishedDateTime": "2021-05-21T16:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Verge",
-        "domain": "theverge.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theverge.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
         "AI"
       ]
     }
