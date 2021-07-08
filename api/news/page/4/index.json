@@ -2,6 +2,102 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-07-04-ai-powered-therapy-bots-at-workplace-for-employees-during-covid-pandemic.md",
+      "title": "AI-powered therapy bots at workplace for employees during Covid pandemic",
+      "excerpt": "AI is better than humans at providing support, according to a study undertaken by Workplace Intelligence.  The future of work will be influenced by the past. Last year’s virus invasion changed everything for the workforce.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newindianexpress.com/magazine/2021/jul/04/ai-powered-therapy-bots-at-workplace-for-employees-during-covid-pandemic-2324136.html",
+      "originalUrl": "https://www.newindianexpress.com/magazine/2021/jul/04/ai-powered-therapy-bots-at-workplace-for-employees-during-covid-pandemic-2324136.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 93,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.newindianexpress.com/uploads/user/imagelibrary/2021/7/3/w600X390/robot.jpg",
+          "width": 600,
+          "height": 390,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newindianexpress.com/magazine/2021/jul/04/ai-powered-therapy-bots-at-workplace-for-employees-during-covid-pandemic-2324136.amp",
+      "cdnAmpWebUrl": "https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/magazine/2021/jul/04/ai-powered-therapy-bots-at-workplace-for-employees-during-covid-pandemic-2324136.amp",
+      "publishedDateTime": "2021-07-03T16:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The New Indian Express",
+        "domain": "newindianexpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2021-07-04-tesla-ai-chief-explains-why-self-driving-cars-dont-need-lidar.md",
+      "title": "Tesla AI chief explains why self-driving cars don’t need lidar",
+      "excerpt": "Tesla also owns and builds the AI chips installed inside its cars. “These chips are specifically designed for the neural networks we want to run for [full self-driving] applications,” Karpathy ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/07/03/tesla-ai-chief-explains-why-self-driving-cars-dont-need-lidar/",
+      "originalUrl": "https://venturebeat.com/2021/07/03/tesla-ai-chief-explains-why-self-driving-cars-dont-need-lidar/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 136,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/02/tesla-model-3-silver-prototype-promo-shot-headlands-e1625177292725.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 602,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/07/03/tesla-ai-chief-explains-why-self-driving-cars-dont-need-lidar/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/03/tesla-ai-chief-explains-why-self-driving-cars-dont-need-lidar/amp/",
+      "publishedDateTime": "2021-07-03T10:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2021-07-03-lidar-is-the-gold-standard-of-robot-vacuum-navigation-but-its-not-perfect.md",
       "title": "Lidar is the gold standard of robot vacuum navigation, but it’s not perfect",
       "excerpt": "Today's robot vacuums offer intelligent navigation courtesy of lidar tech. But despite being the gold standard of robot vacuum navigation, it's not perfect.",
@@ -1102,101 +1198,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-02-ajnifm-and-microsoft-are-collaborating-to-build-an-ai-coe.md",
-      "title": "AJNIFM and Microsoft are collaborating to build an AI CoE",
-      "excerpt": "Partnership will focus on capacity building of government officials, skilling them in emerging technologies, like AI and machine learning",
-      "sourceUrl": null,
-      "webUrl": "https://www.dqindia.com/arun-jaitley-national-institute-financial-management-partners-microsoft-build-ai-emerging-tech-coe/",
-      "originalUrl": "https://www.dqindia.com/arun-jaitley-national-institute-financial-management-partners-microsoft-build-ai-emerging-tech-coe/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.dqindia.com/wp-content/uploads/2019/10/ai-monitoring-3262759_960_720.jpg",
-          "width": 736,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.dqindia.com/arun-jaitley-national-institute-financial-management-partners-microsoft-build-ai-emerging-tech-coe/amp/",
-      "cdnAmpWebUrl": "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/arun-jaitley-national-institute-financial-management-partners-microsoft-build-ai-emerging-tech-coe/amp/",
-      "publishedDateTime": "2021-07-02T00:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Dataquest",
-        "domain": "dqindia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-02-lunglife-ai-raises-gbp17-mln-in-london-ipo.md",
-      "title": "LungLife AI Raises GBP17 Mln in London IPO",
-      "excerpt": "By Ian Walker LungLife AI said Friday that it has raised 17 million pounds ($23.4 million) as part of its initial public offering on London's junior AIM.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/story/lunglife-ai-raises-gbp17-mln-in-london-ipo-271625208673",
-      "originalUrl": "https://www.marketwatch.com/story/lunglife-ai-raises-gbp17-mln-in-london-ipo-271625208673",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.marketwatch.com/amp/story/lunglife-ai-raises-gbp17-mln-in-london-ipo-271625208673",
-      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/lunglife-ai-raises-gbp17-mln-in-london-ipo-271625208673",
-      "publishedDateTime": "2021-07-01T23:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

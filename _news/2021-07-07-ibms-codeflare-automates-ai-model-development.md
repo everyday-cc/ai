@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/07/07/ibms-codeflare-automates-ai-model
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/07/ibms-codeflare-automates-ai-model-development/amp/"
 type: article
 quality: 93
-heat: 113
+heat: 123
 published: true
 
 provider:
@@ -48,6 +48,22 @@ related:
       - url: "https://www.techrepublic.com/a/hub/i/r/2020/08/04/38195eea-6673-4ba6-8fe7-a9babacef221/resize/1200x/b171876964c924dd448061d5d5d558b1/ibm-notebook.jpg"
         width: 1200
         height: 797
+        isCached: true
+  - title: "AI gives software development tools a boost"
+    excerpt: "AI-assisted development tools can best be thought of as a pair ... Simon Bisson has worked in academic and telecoms research, been the CTO of a startup, run the technical side of UK Online, and done consultancy and technology strategy."
+    publishedDateTime: 2021-07-07T23:33:00Z
+    webUrl: "https://www.infoworld.com/article/3623773/ai-gives-software-development-tools-a-boost.html"
+    ampWebUrl: "https://www.infoworld.com/article/3623773/ai-gives-software-development-tools-a-boost.amp.html"
+    cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3623773/ai-gives-software-development-tools-a-boost.amp.html"
+    type: article
+    provider:
+      name: InfoWorld
+      domain: infoworld.com
+    quality: 87
+    images:
+      - url: "https://images.idgesg.net/images/article/2021/06/artificial_intelligence_automation_digital_brain_thinkstock_875595818-100749926-orig-100893865-large.jpg"
+        width: 1200
+        height: 800
         isCached: true
   - title: "IBM open-sources CodeFlare framework for AI models that run on multicloud platforms"
     excerpt: "Holger Mueller, an analyst with Constellation Research Inc., told SiliconANGLE that AI and machine learning ... We are holding our second cloud startup showcase on June 16. Click here to join ..."

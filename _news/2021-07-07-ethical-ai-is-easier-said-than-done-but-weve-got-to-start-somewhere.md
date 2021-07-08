@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cmswire.com/information-management/ethical-ai-is-easier-
 cdnAmpWebUrl: "https://www-cmswire-com.cdn.ampproject.org/c/s/www.cmswire.com/information-management/ethical-ai-is-easier-said-than-done-but-weve-got-to-start-somewhere/amp/"
 type: article
 quality: 74
-heat: 74
+heat: 75
 published: true
 
 provider:

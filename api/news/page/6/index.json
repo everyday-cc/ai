@@ -2,6 +2,83 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2021-07-01-att-t-to-move-5g-mobile-network-to-microsoft-azure.md",
+      "title": "AT&T (T) to Move 5G Mobile Network to Microsoft Azure",
+      "excerpt": "AT&T Inc. T has announced collaboration with Microsoft MSFT under which the telecom giant will move its 5G mobile network to the latter’s cloud. This will allow AT&T’s mobile network traffic to be managed by Microsoft Azure technology.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/att-t-to-move-5g-mobile-network-to-microsoft-azure-2021-07-01",
+      "originalUrl": "https://www.nasdaq.com/articles/att-t-to-move-5g-mobile-network-to-microsoft-azure-2021-07-01",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/att-t-to-move-5g-mobile-network-to-microsoft-azure-2021-07-01?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/att-t-to-move-5g-mobile-network-to-microsoft-azure-2021-07-01?amp",
+      "publishedDateTime": "2021-07-01T06:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-01-facial-recognition-tech-has-been-widely-used-across-the-us-government-for-years-a-new-report-shows.md",
+      "title": "Facial recognition tech has been widely used across the US government for years, a new report shows",
+      "excerpt": "As George Floyd’s death sparked protests in cities across the country, six federal agencies turned to facial-recognition software in an effort to identify people in images",
+      "sourceUrl": null,
+      "webUrl": "https://whdh.com/news/facial-recognition-tech-has-been-widely-used-across-the-us-government-for-years-a-new-report-shows/",
+      "originalUrl": "https://whdh.com/news/facial-recognition-tech-has-been-widely-used-across-the-us-government-for-years-a-new-report-shows/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://whdh.com/wp-content/uploads/sites/3/2021/07/hypatia-h_23d667f55b4c015e1415b2e40186c54d-h_18bcfaf1b7723aeabe16bdb83b9561b0.jpg?quality=60&strip=color&w=1024",
+          "width": 1024,
+          "height": 662,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://whdh.com/news/facial-recognition-tech-has-been-widely-used-across-the-us-government-for-years-a-new-report-shows/amp/",
+      "cdnAmpWebUrl": "https://whdh-com.cdn.ampproject.org/c/s/whdh.com/news/facial-recognition-tech-has-been-widely-used-across-the-us-government-for-years-a-new-report-shows/amp/",
+      "publishedDateTime": "2021-07-01T05:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WHDH",
+        "domain": "whdh.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-01-zebra-technologies-to-acquire-fetch-robotics.md",
       "title": "Zebra Technologies to Acquire Fetch Robotics",
       "excerpt": "Zebra Technologies (NASDAQ: ZBRA), an innovator at the front line of business with solutions and partners that deliver a performance edge, today announced it intends to acquire Fetch Robotics, a pioneer in on-demand automation.",
@@ -1092,109 +1169,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-01-maine-bans-facial-recognition-technology-from-schools-and-most-police-work.md",
-      "title": "Maine bans facial recognition technology from schools and most police work",
-      "excerpt": "Maine has passed the strongest statewide law regulating government use of facial recognition to date. The state’s House and Senate voted unanimously in favor of rules that prohibit law enforcement from using the technology unless they have probable cause that an unidentified person in an image committed a serious crime.",
-      "sourceUrl": null,
-      "webUrl": "https://www.engadget.com/maine-facial-recognition-law-191252742.html",
-      "originalUrl": "https://www.engadget.com/maine-facial-recognition-law-191252742.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 272,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.yimg.com/os/creatr-uploaded-images/2021-06/d57c59d0-d9d5-11eb-bf3d-ab677d87ebbc",
-          "width": 4379,
-          "height": 2919,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.engadget.com/amp/maine-facial-recognition-law-191252742.html",
-      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/maine-facial-recognition-law-191252742.html",
-      "publishedDateTime": "2021-06-30T12:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-01-sentinelone-ipo-how-the-company-is-riding-the-ai-wave.md",
-      "title": "SentinelOne IPO: How The Company Is Riding The AI Wave",
-      "excerpt": "SentinelOne . SentinelOne, which develops AI-powered software for cybersecurity, launched its IPO today. There was certainly substantial demand from inves",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/tomtaulli/2021/06/30/sentinelone-ipo-how-the-company-is-riding-the-ai-wave/",
-      "originalUrl": "https://www.forbes.com/sites/tomtaulli/2021/06/30/sentinelone-ipo-how-the-company-is-riding-the-ai-wave/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60dcbbcdf545ce5fff691ffb%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/tomtaulli/2021/06/30/sentinelone-ipo-how-the-company-is-riding-the-ai-wave/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tomtaulli/2021/06/30/sentinelone-ipo-how-the-company-is-riding-the-ai-wave/amp/",
-      "publishedDateTime": "2021-06-30T12:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

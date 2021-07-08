@@ -9,7 +9,7 @@ ampWebUrl: "https://www.express.co.uk/news/uk/1458614/uk-army-artificial-intelli
 cdnAmpWebUrl: "https://www-express-co-uk.cdn.ampproject.org/c/s/www.express.co.uk/news/uk/1458614/uk-army-artificial-intelligence-AI-military-news/amp"
 type: article
 quality: 52
-heat: 65
+heat: 62
 published: false
 
 provider:

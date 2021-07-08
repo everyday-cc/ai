@@ -2,6 +2,92 @@
   "page": 36,
   "value": [
     {
+      "path": "_news/2021-06-10-ai-expert-ditches-uber-to-start-toronto-self-driving-company-waabi.md",
+      "title": "AI expert ditches Uber to start Toronto self-driving company, Waabi",
+      "excerpt": "Raquel Urtasun's Toronto-based start-up to take artificial intelligence-first approach to self-driving vehicles.",
+      "sourceUrl": null,
+      "webUrl": "https://www.design-engineering.com/3coVa/",
+      "originalUrl": "https://www.design-engineering.com/3coVa/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-09T11:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "design-engineering.com",
+        "domain": "design-engineering.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-10-robotics-startup-realtime-used-this-pitch-deck-to-convince-toyota-to-invest-in-its-31-million-series-a-round.md",
+      "title": "Robotics startup Realtime used this pitch deck to convince Toyota to invest in its $31 million Series A round",
+      "excerpt": "Startup Realtime Robotics recently extended its Series A, adding about $19 million in funding at an $80 million valuation.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/pitch-deck-realtime-robotics-31-million-series-a-toyota-ventures-2021-6",
+      "originalUrl": "https://www.businessinsider.com/pitch-deck-realtime-robotics-31-million-series-a-toyota-ventures-2021-6",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/60bfad2c2feb6f00181ed9ac?width=1200&format=jpeg",
+          "width": 940,
+          "height": 470,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-09T10:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-10-meet-grace-the-healthcare-robot-covid-19-created.md",
       "title": "Meet Grace, the healthcare robot COVID-19 created",
       "excerpt": "The Hong Kong team behind celebrity humanoid robot Sophia is launching a new prototype, Grace, targeted at the healthcare market and designed to interact with the elderly and those isolated by the COVID-19 pandemic.",
@@ -1101,90 +1187,6 @@
         "name": "Pew Charitable Trusts",
         "domain": "pewtrusts.org",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-09-breakthrough-concrete-artificial-intelligence-tool-to-debut-at-enr-futuretech-virtual-conference.md",
-      "title": "Breakthrough Concrete Artificial Intelligence Tool to Debut at ENR FutureTech Virtual Conference",
-      "excerpt": "Giatec®, the leader in concrete testing technology, is proud to debut the world's first concrete artificial intelligence",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/21/06/n21487352/breakthrough-concrete-artificial-intelligence-tool-to-debut-at-enr-futuretech-virtual-conference",
-      "originalUrl": "https://www.benzinga.com/pressreleases/21/06/n21487352/breakthrough-concrete-artificial-intelligence-tool-to-debut-at-enr-futuretech-virtual-conference",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/21487352",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/21487352",
-      "publishedDateTime": "2021-06-09T03:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-09-artificial-intelligence-ai-accelerator-market-pdf-to-witness-significant-growth-by-2021-2027.md",
-      "title": "Artificial Intelligence (AI) Accelerator Market [ PDF ] To Witness Significant Growth By 2021-2027",
-      "excerpt": "New Analysis Of Artificial Intelligence (AI) Accelerator Market overview, spend analysis, imports, segmentation,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-accelerator-market-pdf-to-witness-significant-growth-by-2021-2027-2021-06-09",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-accelerator-market-pdf-to-witness-significant-growth-by-2021-2027-2021-06-09",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 128,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-09T02:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

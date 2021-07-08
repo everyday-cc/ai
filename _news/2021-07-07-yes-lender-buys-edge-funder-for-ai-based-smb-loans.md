@@ -30,14 +30,14 @@ related:
   - title: "Yes Lender Acquires Edge Funder to Create an AI-powered Funding Portal for Small Businesses"
     excerpt: "Yes Lender announced that it recently acquired Edge Funder, Inc., a FinTech start-up that is transforming entrepreneur's access to working capital"
     publishedDateTime: 2021-07-06T12:36:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_pennsylvania/yes-lender-acquires-edge-funder-to-create-an-ai-powered-funding-portal-for-small-businesses/article_d1818394-cc00-5bb0-9285-4be9f8057874.html"
+    webUrl: "https://www.pottsmerc.com/news/state/yes-lender-acquires-edge-funder-to-create-an-ai-powered-funding-portal-for-small-businesses/article_3b6d444f-09ea-5d1b-ba50-9f6a7d35fadf.html"
     type: article
     provider:
-      name: WFMZ-TV
-      domain: wfmz.com
+      name: The Mercury
+      domain: pottsmerc.com
     quality: 29
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/3/d5/3d5e1a5d-f16f-5c20-a53f-4df5d08387dc/60e44f58e0e38.image.jpg?resize=630%2C630"
+      - url: "https://bloximages.chicago2.vip.townnews.com/pottsmerc.com/content/tncms/assets/v3/editorial/2/32/2321ff9f-1472-58fa-beee-fda4cb331fe0/60e454206a1c8.image.jpg?resize=630%2C630"
         width: 630
         height: 630
         isCached: true

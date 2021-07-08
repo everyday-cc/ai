@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-07-08-qualcomm-technologies-vp-talks-about-ai-edge-solutions-that-are-galvanizing-the-market.md",
+      "title": "Qualcomm Technologies VP talks about AI edge solutions that are galvanizing the market",
+      "excerpt": "Qualcomm VP Mike Vildibill talks about about the explosive demand for AI inferencing in the cloud and innovative cloud-to-edge AI solutions.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/07/07/qualcomm-technologies-vp-talks-about-the-ai-edge-solutions-that-are-galvanizing-the-market/",
+      "originalUrl": "https://venturebeat.com/2021/07/07/qualcomm-technologies-vp-talks-about-the-ai-edge-solutions-that-are-galvanizing-the-market/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/06/Mike-Vildibill-Headshot1-1.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 735,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/07/07/qualcomm-technologies-vp-talks-about-the-ai-edge-solutions-that-are-galvanizing-the-market/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/07/qualcomm-technologies-vp-talks-about-the-ai-edge-solutions-that-are-galvanizing-the-market/amp/",
+      "publishedDateTime": "2021-07-07T15:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-07-ibms-codeflare-automates-ai-model-development.md",
       "title": "IBM’s CodeFlare automates AI model development",
       "excerpt": "Google, Microsoft, and Hybernet Labs offer comparable services in Cloud AI Platform Pipelines, Azure Machine Learning pipelines, and Galileo, respectively. But IBM asserts CodeFlare was built from ...",
@@ -10,7 +62,7 @@
       "originalUrl": "https://venturebeat.com/2021/07/07/ibms-codeflare-automates-ai-model-development/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 113,
+      "heat": 123,
       "tags": null,
       "images": [
         {
@@ -64,7 +116,7 @@
       "originalUrl": "https://www.digitaltrends.com/mobile/oneplus-nord-2-5g-mediatek-dimensity-1200-news/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 158,
+      "heat": 168,
       "tags": null,
       "images": [
         {
@@ -545,6 +597,58 @@
       ]
     },
     {
+      "path": "_news/2021-06-30-what-investors-should-know-about-baidus-ai-chip-spin-off.md",
+      "title": "What Investors Should Know About Baidu's AI Chip Spin-Off",
+      "excerpt": "Baidu (NASDAQ:BIDU) unveiled Kunlun, its artificial intelligence (AI) chip optimized for cloud-to-edge computing tasks, three years ago. At the time, it claimed the 14nm chip provided 1.5 to three times more processing power than NVIDIA's comparable T4 GPU for AI tasks.",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2021/06/30/what-investors-know-about-baidu-ai-chip-spin-off/",
+      "originalUrl": "https://www.fool.com/investing/2021/06/30/what-investors-know-about-baidu-ai-chip-spin-off/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F632101%2F1600829035136803.jpg&w=1200&op=resize",
+          "width": 1200,
+          "height": 721,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.fool.com/amp/investing/2021/06/30/what-investors-know-about-baidu-ai-chip-spin-off/",
+      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/06/30/what-investors-know-about-baidu-ai-chip-spin-off/",
+      "publishedDateTime": "2021-06-30T08:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-30-parrot-anafi-ai-is-a-4g-drone-with-striking-style-and-3d-vision.md",
       "title": "Parrot Anafi Ai is a 4G drone with striking style and 3D vision",
       "excerpt": "Parrot has a new drone, but the French company would really rather you think of the new Anafi Ai as a 4G-connected flying robot. Tapping cellular data for better, broader range, and a new 3D",
@@ -577,49 +681,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/slashgear.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-30-what-investors-should-know-about-baidus-ai-chip-spin-off.md",
-      "title": "What Investors Should Know About Baidu's AI Chip Spin-Off",
-      "excerpt": "Baidu (NASDAQ: BIDU) unveiled Kunlun, its artificial intelligence (AI) chip optimized for cloud-to-edge computing tasks, three years ago. At the",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/what-investors-should-know-about-baidus-ai-chip-spin-off-10289234",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/what-investors-should-know-about-baidus-ai-chip-spin-off-10289234",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-30T06:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1360,58 +1421,6 @@
         "name": "openpr.com",
         "domain": "openpr.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-23-intel-restructures-to-create-units-for-gpu-high-performance-computing.md",
-      "title": "Intel restructures to create units for GPU, high-performance computing",
-      "excerpt": "Intel said it would create two new business units that would focus separately on software and high-performance computing and graphics.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/06/22/intel-restructures-to-create-units-for-gpu-high-performance-computing/",
-      "originalUrl": "https://venturebeat.com/2021/06/22/intel-restructures-to-create-units-for-gpu-high-performance-computing/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/05/intel-tiger-lake-h.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/06/22/intel-restructures-to-create-units-for-gpu-high-performance-computing/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/22/intel-restructures-to-create-units-for-gpu-high-performance-computing/amp/",
-      "publishedDateTime": "2021-06-23T02:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

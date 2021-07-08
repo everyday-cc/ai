@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-07-08-qualcomm-technologies-vp-talks-about-ai-edge-solutions-that-are-galvanizing-the-market.md",
+      "title": "Qualcomm Technologies VP talks about AI edge solutions that are galvanizing the market",
+      "excerpt": "Qualcomm VP Mike Vildibill talks about about the explosive demand for AI inferencing in the cloud and innovative cloud-to-edge AI solutions.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/07/07/qualcomm-technologies-vp-talks-about-the-ai-edge-solutions-that-are-galvanizing-the-market/",
+      "originalUrl": "https://venturebeat.com/2021/07/07/qualcomm-technologies-vp-talks-about-the-ai-edge-solutions-that-are-galvanizing-the-market/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/06/Mike-Vildibill-Headshot1-1.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 735,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/07/07/qualcomm-technologies-vp-talks-about-the-ai-edge-solutions-that-are-galvanizing-the-market/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/07/qualcomm-technologies-vp-talks-about-the-ai-edge-solutions-that-are-galvanizing-the-market/amp/",
+      "publishedDateTime": "2021-07-07T15:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-08-armorblox-and-intermedia-team-up-to-protect-email-from-cyberattacks-with-ai.md",
       "title": "Armorblox and Intermedia team up to protect email from cyberattacks with AI",
       "excerpt": "Cybersecurity company Armorblox and email provider Intermedia partnered to help enterprises combat the rise in cyberattacks with AI.",
@@ -198,6 +250,48 @@
       ],
       "topics": [
         "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-07-new-ai-tech-for-early-detection-of-prostate-cancer.md",
+      "title": "New AI tech for early detection of prostate cancer",
+      "excerpt": "Now an artificial intelligence (AI) program developed at RMIT University could catch the disease earlier, allowing for incidental detection through routine computed tomography (CT) scans.",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/news/2021-07-ai-tech-early-prostate-cancer.html",
+      "originalUrl": "https://medicalxpress.com/news/2021-07-ai-tech-early-prostate-cancer.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2021/new-ai-tech-for-early.jpg",
+          "width": 1440,
+          "height": 981,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://medicalxpress.com/news/2021-07-ai-tech-early-prostate-cancer.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-07-ai-tech-early-prostate-cancer.amp",
+      "publishedDateTime": "2021-07-07T09:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
         "AI"
       ]
     },
@@ -721,7 +815,7 @@
       "originalUrl": "https://venturebeat.com/2021/07/07/ibms-codeflare-automates-ai-model-development/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 113,
+      "heat": 123,
       "tags": null,
       "images": [
         {
@@ -775,7 +869,7 @@
       "originalUrl": "https://www.digitaltrends.com/mobile/oneplus-nord-2-5g-mediatek-dimensity-1200-news/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 158,
+      "heat": 168,
       "tags": null,
       "images": [
         {
@@ -1088,7 +1182,7 @@
       "originalUrl": "https://www.videogameschronicle.com/news/new-cheat-software-claims-to-work-on-any-console-via-machine-learning/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 74,
+      "heat": 75,
       "tags": null,
       "images": [
         {
@@ -1153,100 +1247,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-07-the-pentagon-scrubs-a-cloud-deal-and-looks-to-add-more-ai.md",
-      "title": "The Pentagon Scrubs a Cloud Deal and Looks to Add More AI",
-      "excerpt": "JEDI included support for AI projects, but the Pentagon’s acting chief information officer, John Sherman, said in a statement that the department’s need for algorithm-heavy infrastructure had grown still further. “Our landscape has advanced ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/pentagon-scrubs-cloud-deal-looks-add-ai/",
-      "originalUrl": "https://www.wired.com/story/pentagon-scrubs-cloud-deal-looks-add-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/60e4a8f33082cb0dcce32ba5/master/pass/Business-Pentagon-JEDI-Contract-1223814797.jpg",
-          "width": 2400,
-          "height": 1600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/pentagon-scrubs-cloud-deal-looks-add-ai/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/pentagon-scrubs-cloud-deal-looks-add-ai/amp",
-      "publishedDateTime": "2021-07-06T21:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-07-fueling-healthcare-ai-with-adaptive-collaboration.md",
-      "title": "Fueling Healthcare Ai With Adaptive Collaboration",
-      "excerpt": "Our product-focused team is busy defining and building the platforms and tools required to rapidly integrate models into the clinical setting, to bring the power of AI to the physician’s fingertips. Our ability to execute on these disruptive,",
-      "sourceUrl": null,
-      "webUrl": "https://www.cioapplications.com/cxoinsights/fueling-healthcare-ai-with-adaptive-collaboration-nid-8084.html",
-      "originalUrl": "https://www.cioapplications.com/cxoinsights/fueling-healthcare-ai-with-adaptive-collaboration-nid-8084.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cioapplications.com/newstransfer/upload/797zkiLkEKnaidu_ram_100533701.jpg",
-          "width": 450,
-          "height": 308,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-06T20:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CIO Applications",
-        "domain": "cioapplications.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

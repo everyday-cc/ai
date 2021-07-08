@@ -9,8 +9,8 @@ ampWebUrl: "https://medicalxpress.com/news/2021-07-ai-tech-early-prostate-cancer
 cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-07-ai-tech-early-prostate-cancer.amp"
 type: article
 quality: 57
-heat: 67
-published: false
+heat: 77
+published: true
 
 provider:
   name: Medical Xpress
@@ -26,6 +26,22 @@ images:
     isCached: true
 
 related:
+  - title: "Artificial intelligence program analyzes CT scans for tell-tale signs of prostate cancer"
+    excerpt: "Now an artificial intelligence (AI) program developed at RMIT University could catch the disease earlier, allowing for incidental detection through routine computed tomography (CT) scans. The tech, developed in collaboration with clinicians at St Vincent's Hospital Melbourne,"
+    publishedDateTime: 2021-07-07T23:18:00Z
+    webUrl: "https://www.news-medical.net/news/20210707/Artificial-intelligence-program-analyzes-CT-scans-for-tell-tale-signs-of-prostate-cancer.aspx"
+    ampWebUrl: "https://www.news-medical.net/amp/news/20210707/Artificial-intelligence-program-analyzes-CT-scans-for-tell-tale-signs-of-prostate-cancer.aspx"
+    cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20210707/Artificial-intelligence-program-analyzes-CT-scans-for-tell-tale-signs-of-prostate-cancer.aspx"
+    type: article
+    provider:
+      name: News Medical
+      domain: news-medical.net
+    quality: 48
+    images:
+      - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2014/7/174318220-620x480.jpg"
+        width: 620
+        height: 480
+        isCached: true
   - title: "California teenager invents AI-powered tool for early wildfire detection"
     excerpt: "Ryan Honary talks to Inhabitat about how he is using technology and artificial intelligence to better predict and mitigate wildfires."
     publishedDateTime: 2021-07-05T17:32:00Z

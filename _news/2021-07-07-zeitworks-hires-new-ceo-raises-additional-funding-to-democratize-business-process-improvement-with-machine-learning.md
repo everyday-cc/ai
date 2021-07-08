@@ -1,23 +1,23 @@
 ---
 category: news
 title: "Zeitworks Hires New CEO, Raises Additional Funding to Democratize Business Process Improvement with Machine Learning"
-excerpt: "Headquartered in Seattle, Zeitworks was founded by veteran machine learning application developers and entrepreneurs and top-tier investors with extensive experience backing intelligent automation companies."
-publishedDateTime: 2021-07-07T15:33:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/2021/07/07/9404608.htm"
-webUrl: "https://www.tmcnet.com/usubmit/2021/07/07/9404608.htm"
+excerpt: "Zeitworks Hires New CEO, Raises Additional Funding to Democratize Process Improvement with Machine Learning . Zero-Disruption Solution Empowers Teams to Be More Effective"
+publishedDateTime: 2021-07-07T10:30:00Z
+originalUrl: "https://www.morningstar.com/news/business-wire/20210707005231/zeitworks-hires-new-ceo-raises-additional-funding-to-democratize-business-process-improvement-with-machine-learning"
+webUrl: "https://www.morningstar.com/news/business-wire/20210707005231/zeitworks-hires-new-ceo-raises-additional-funding-to-democratize-business-process-improvement-with-machine-learning"
 type: article
 quality: 11
 heat: 11
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Morningstar, Inc.
+  domain: morningstar.com
 
 topics:
   - Machine Learning
   - AI
 
-secured: "AGDMxDuAeIMZsEXGSZOBhF3+g9fXsaH9iWnsTaK5FUsWh+ST+dOfC1mW1ON4mUDwjYP4Hdr7YNXULsF7HNtt8hOd4P9YA+evqsuiOaHdbZT97uD0IEVfJQHLPjXvbC9TD95F7h9RHZLXQIok8xBCPJcUKQd0ja9C/G231b/B4yPs8nfJRzpCEnEnGAS0R6wK7HHEBT7TzXRrUDuDW3YmodcVzH50xlQnKb7JDDnnkPjTbN3J/5lGagc+/403b18GvR+MBCkuAOECrLBoG2hy7Mfryl0P5sJA19Bc0353GGFJminn4wpMmHq5SNssdVdUc+R99ik69abSOaMhMmmOPqOP3pd9ovU3jJdjD0Ld/Ng=;+wUzXE52qUGnb+9urJyKzg=="
+secured: "cV6t9MBqGuYMnOzUe1/CwRcy89qzhVU+hoYOZ4q+ym1elK64i6eGC3nYSZqAuvb7jAkMmIFckByuERcltutKIa+mTsFu/2C6rh+UB9vh4g3jGbbp2L60dbx+dxt7o/1HXlEI6CpnhURc8q4wVebocJxIeLrCbvx4W8LJ/Nxp/hG2ScDX0s2V0V8d3fX4xdQjtNlsPpLkFqzN9I06wEPwqab3eBKAlE/BFZlEtUuyremZVk6cEdOijsPckVIVnejSL9PxxYRvwlZ4MgdkPFp1XEKnbe+s9gPpKxLY4kr8Fwv5gpDUvW/aFUfQfi+6m+xufcWeg2zBa7l8tv66bN5rphpdKYC7cYYgVGfngbAPvWA=;8bwY4MxvdZadpgwgmtkxDQ=="
 ---
 

@@ -97,6 +97,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "OnePlus Nord 2 (Dimensity 1200-AI) appears on AI benchmark site, scores higher than Realme GT Neo (Dimensity 1200)"
+    excerpt: "It has been officially confirmed that the OnePlus Nord 2 will be powered by a MediaTek processor. The chipset is the Dimensity 1200-AI, a custom version of the Dimensity 1200 built by MediaTek and OnePlus,"
+    publishedDateTime: 2021-07-07T23:10:00Z
+    webUrl: "https://www.gizmochina.com/2021/07/07/oneplus-nord-2-dimensity-1200-ai-appears-on-ai-benchmark-site-scores-higher-than-realme-gt-neo-dimensity-1200/"
+    type: article
+    provider:
+      name: Gizmochina
+      domain: gizmochina.com
+    quality: 47
+    images:
+      - url: "https://www.gizmochina.com/wp-content/uploads/2021/07/OnePlus-Nord-2-5G-Dimensity-1200-AI-vs-Realme-GT-Neo-Dimensity-1200-AI-Benchmark.jpg"
+        width: 1835
+        height: 943
+        isCached: true
   - title: "OnePlus, MediaTek partner to bring new AI Dimensity chip"
     excerpt: "Global smartphone brand OnePlus on Wednesday announced that it has joined hands with chip-maker MediaTek for Dimensity-1200-AI, which will be featured in the upcoming OnePlus Nord 2 5G smartphone."
     publishedDateTime: 2021-07-07T13:30:00Z

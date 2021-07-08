@@ -47,6 +47,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "AI gives software development tools a boost"
+    excerpt: "AI-assisted development tools can best be thought of as a pair ... Simon Bisson has worked in academic and telecoms research, been the CTO of a startup, run the technical side of UK Online, and done consultancy and technology strategy."
+    publishedDateTime: 2021-07-07T23:33:00Z
+    webUrl: "https://www.infoworld.com/article/3623773/ai-gives-software-development-tools-a-boost.html"
+    ampWebUrl: "https://www.infoworld.com/article/3623773/ai-gives-software-development-tools-a-boost.amp.html"
+    cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3623773/ai-gives-software-development-tools-a-boost.amp.html"
+    type: article
+    provider:
+      name: InfoWorld
+      domain: infoworld.com
+    quality: 87
+    images:
+      - url: "https://images.idgesg.net/images/article/2021/06/artificial_intelligence_automation_digital_brain_thinkstock_875595818-100749926-orig-100893865-large.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "IBM open-sources CodeFlare framework for AI models that run on multicloud platforms"
     excerpt: "Holger Mueller, an analyst with Constellation Research Inc., told SiliconANGLE that AI and machine learning ... We are holding our second cloud startup showcase on June 16. Click here to join ..."
     publishedDateTime: 2021-07-07T12:31:00Z

@@ -2,6 +2,101 @@
   "page": 32,
   "value": [
     {
+      "path": "_news/2021-06-12-deep-learning-with-spect-accurately-predicts-major-adverse-cardiac-events.md",
+      "title": "Deep learning with SPECT accurately predicts major adverse cardiac events",
+      "excerpt": "An advanced artificial intelligence technique known as deep learning can predict major adverse cardiac events more accurately than current standard imaging protocols, according to research presented at the Society of Nuclear Medicine and Molecular Imaging 2021 Annual Meeting.",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/news/2021-06-deep-spect-accurately-major-adverse.html",
+      "originalUrl": "https://medicalxpress.com/news/2021-06-deep-spect-accurately-major-adverse.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2021/deep-learning-with-spe.jpg",
+          "width": 720,
+          "height": 442,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://medicalxpress.com/news/2021-06-deep-spect-accurately-major-adverse.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-06-deep-spect-accurately-major-adverse.amp",
+      "publishedDateTime": "2021-06-12T02:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-12-samsung-jetbot-80-jetbot-80-jetbot-95-ai-robot-vacuum-cleaners-launched-in-europe.md",
+      "title": "Samsung JetBot 80, JetBot 80+ & JetBot 95 AI+ Robot Vacuum Cleaners launched in Europe",
+      "excerpt": "Samsung has announced the release of its impressive and affordable robot vacuum cleaners, the Samsung Jet Bot series for the European market. The Jet Bot series starts at 499 Euros for the base model,",
+      "sourceUrl": null,
+      "webUrl": "https://www.gizmochina.com/2021/06/12/samsung-jetbot-80-jetbot-95-ai-robot-vacuum-cleaners-europe/",
+      "originalUrl": "https://www.gizmochina.com/2021/06/12/samsung-jetbot-80-jetbot-95-ai-robot-vacuum-cleaners-europe/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gizmochina.com/wp-content/uploads/2021/06/Samsung-Jet-Bot-95-AI.jpg",
+          "width": 660,
+          "height": 440,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-12T01:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmochina",
+        "domain": "gizmochina.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmochina.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-12-ufc-263-recognition-rematches-and-revenge-on-the-line-in-arizona.md",
       "title": "UFC 263: Recognition, rematches and revenge on the line in Arizona",
       "excerpt": "UFC 263 looks set to deliver a spectacular night of action, with two world titles on the line in front of a capacity crowd in Glendale, Arizona.",
@@ -1105,100 +1200,6 @@
         "Computer Vision",
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-06-11-commercial-robotics-market-focuses-on-swot-analysis-industry-synopsis.md",
-      "title": "Commercial Robotics Market Focuses on SWOT analysis, Industry Synopsis",
-      "excerpt": "Global Info Research has released a new study titled Commercial Robotics Analysis and Forecast 2021-2025, which provides critical insights and gives clients a competitive advantage. The commercial robotics market was valued at USD 10.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/commercial-robotics-market-focuses-on-swot-analysis-industry-synopsis-2021-06-11",
-      "originalUrl": "https://www.marketwatch.com/press-release/commercial-robotics-market-focuses-on-swot-analysis-industry-synopsis-2021-06-11",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-11T04:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-11-we-got-an-exclusive-look-at-the-pitch-deck-ai-transcription-startup-verbit-used-to-raise-157-million-as-it-eyes-a-near-term-ipo.md",
-      "title": "We got an exclusive look at the pitch deck AI transcription startup Verbit used to raise $157 million as it eyes a near-term IPO",
-      "excerpt": "This could be Israeli unicorn Verbit's final private funding round with an initial public offering mooted for 2022.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/israeli-transcription-startup-verbit-raises-funds-at-unicorn-valuation-2021-6",
-      "originalUrl": "https://www.businessinsider.com/israeli-transcription-startup-verbit-raises-funds-at-unicorn-valuation-2021-6",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-11T04:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

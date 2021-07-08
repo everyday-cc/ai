@@ -1073,6 +1073,41 @@
       ]
     },
     {
+      "path": "_news/2021-06-22-turkish-bank-isbank-selects-driverless-ai-platform-from-h2oai-for-income-prediction-cash-forecasting-check-default-prediction-applications.md",
+      "title": "Turkish Bank, İşbank, Selects Driverless AI Platform from H2O.ai for Income Prediction, Cash Forecasting & Check Default Prediction Applications",
+      "excerpt": "H2O.ai, a leading AI technology software company, has announced that İşbank, officially Türkiye İş Bankası, the largest private bank in Turkey, has se",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesswire.com/news/home/20210622005334/en/Turkish-Bank-İşbank-Selects-Driverless-AI-Platform-from-H2O.ai-for-Income-Prediction-Cash-Forecasting-Check-Default-Prediction-Applications",
+      "originalUrl": "https://www.businesswire.com/news/home/20210622005334/en/Turkish-Bank-İşbank-Selects-Driverless-AI-Platform-from-H2O.ai-for-Income-Prediction-Cash-Forecasting-Check-Default-Prediction-Applications",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-22T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
       "path": "_news/2021-06-22-netapp-buys-data-mechanics-to-optimize-data-analytics-machine-learning-initiatives.md",
       "title": "NetApp Buys Data Mechanics to Optimize Data Analytics, Machine Learning Initiatives",
       "excerpt": "NetApp (NTAP) has acquired Data Mechanics to allow organizations to optimize data analytics and get incremental value from their cloud infrastructure",
@@ -1158,50 +1193,6 @@
         "AI in Finance",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-06-22-turkish-bank-isbank-selects-driverless-ai-platform-from-h2oai-for-income-prediction-cash-forecasting-check-default-prediction-applications.md",
-      "title": "Turkish Bank, İşbank, Selects Driverless AI Platform from H2O.ai for Income Prediction, Cash Forecasting & Check Default Prediction Applications",
-      "excerpt": "Ümit Bilik, Chief Data Officer, Head of Data Management & Artificial Intelligence at İşbank ... “The decision by İşbank to use Driverless AI is another shining example of how a progressive ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.register-herald.com/region/turkish-bank-bank-selects-driverless-ai-platform-from-h2o-ai-for-income-prediction-cash-forecasting/article_3b4ef297-6c21-5997-9c5e-0951f9591b9b.html",
-      "originalUrl": "https://www.register-herald.com/region/turkish-bank-bank-selects-driverless-ai-platform-from-h2o-ai-for-income-prediction-cash-forecasting/article_3b4ef297-6c21-5997-9c5e-0951f9591b9b.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.chicago2.vip.townnews.com/register-herald.com/content/tncms/custom/image/b87268c4-7873-11e7-af9a-f3a04545878a.jpg?resize=600%2C600",
-          "width": 600,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-22T05:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Register-Herald",
-        "domain": "register-herald.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Finance"
       ]
     },
     {

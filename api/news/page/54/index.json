@@ -2,6 +2,92 @@
   "page": 54,
   "value": [
     {
+      "path": "_news/2021-05-27-asml-and-ibm-hardware-brothers-in-arms-for-more-than-four-decades.md",
+      "title": "ASML and IBM, hardware brothers in arms for more than four decades",
+      "excerpt": "Last year, its revenue in hardware amounted to 5.5 billion dollars. This is a mere 7.5 percent of its total revenue, but it nevertheless gives a high priority to research in this area. One would rather expect new nanometer milestones from Intel,",
+      "sourceUrl": null,
+      "webUrl": "https://bits-chips.nl/artikel/asml-and-ibm-hardware-brothers-in-arms-for-more-than-four-decades/",
+      "originalUrl": "https://bits-chips.nl/artikel/asml-and-ibm-hardware-brothers-in-arms-for-more-than-four-decades/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bits-chips.nl/wp-content/uploads/2021/05/ASML-PAS-5500-02.jpg",
+          "width": 800,
+          "height": 501,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-27T03:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bits&Chips",
+        "domain": "bits-chips.nl",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-27-artificial-intelligence-is-taking-over-android-app-development.md",
+      "title": "Artificial Intelligence is Taking Over Android App Development",
+      "excerpt": "AI in app development is having a huge impact. Read on to see some of the ways AI is changing Android app development.",
+      "sourceUrl": null,
+      "webUrl": "https://techbooky.com/artificial-intelligence-is-taking-over-android-app-development/",
+      "originalUrl": "https://techbooky.com/artificial-intelligence-is-taking-over-android-app-development/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techbooky.com/wp-content/uploads/2021/05/ai-android-app-devt.jpeg",
+          "width": 1600,
+          "height": 1062,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techbooky.com/artificial-intelligence-is-taking-over-android-app-development/?amp=1",
+      "cdnAmpWebUrl": "https://techbooky-com.cdn.ampproject.org/c/s/techbooky.com/artificial-intelligence-is-taking-over-android-app-development/?amp=1",
+      "publishedDateTime": "2021-05-27T02:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techbooky.com",
+        "domain": "techbooky.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-27-openai-fund-of-100-million-for-ai-startups-with-microsoft.md",
       "title": "OpenAI fund of $100 million for AI startups with Microsoft",
       "excerpt": "OpenAI startup fund announced it is investing $100 million in AI companies. It states on its website in an announcement that the investment is diverted toward companies which will have a profound, positive impact on the world.",
@@ -1050,110 +1136,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-27-pandemic-shines-spotlight-on-big-data-and-ai-in-life-sciences-and-healthcare.md",
-      "title": "Pandemic Shines Spotlight On Big Data And AI In Life Sciences And Healthcare",
-      "excerpt": "Healthcare and life science firms are becoming more aggressive, more optimistic, and more successful in achieving data-driven business outcomes that their peers in other industries in the wake of the worldwide COVID pandemic.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/randybean/2021/05/26/pandemic-shines-spotlight-on-big-data-and-ai-in-life-sciences-and-healthcare/",
-      "originalUrl": "https://www.forbes.com/sites/randybean/2021/05/26/pandemic-shines-spotlight-on-big-data-and-ai-in-life-sciences-and-healthcare/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 121,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60ae87f76fcb859005f94d8c%2F0x0.jpg",
-          "width": 1200,
-          "height": 801,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/randybean/2021/05/26/pandemic-shines-spotlight-on-big-data-and-ai-in-life-sciences-and-healthcare/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/randybean/2021/05/26/pandemic-shines-spotlight-on-big-data-and-ai-in-life-sciences-and-healthcare/amp/",
-      "publishedDateTime": "2021-05-26T10:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-05-27-openai-launches-100-million-startup-funded-with-backing-from-microsoft.md",
-      "title": "OpenAI launches $100 million startup funded with backing from Microsoft",
-      "excerpt": "OpenAI today launched the OpenAI Startup Fund, a $100 million early-stage venture intiative funded in part by Microsoft.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/05/26/openai-launches-100-million-startup-funded-with-backing-from-microsoft/",
-      "originalUrl": "https://venturebeat.com/2021/05/26/openai-launches-100-million-startup-funded-with-backing-from-microsoft/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 194,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/04/openai-e1591041162109.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/05/26/openai-launches-100-million-startup-funded-with-backing-from-microsoft/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/26/openai-launches-100-million-startup-funded-with-backing-from-microsoft/amp/",
-      "publishedDateTime": "2021-05-26T10:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

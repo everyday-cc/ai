@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/australia-news/2021/jul/07/so-happy-to-s
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/australia-news/2021/jul/07/so-happy-to-see-you-our-brains-respond-emotionally-to-faces-we-find-in-inanimate-objects-study-reveals"
 type: article
 quality: 42
-heat: 42
+heat: -1
 published: false
 
 provider:
@@ -29,6 +29,24 @@ images:
     width: 600
     height: 360
     isCached: true
+
+related:
+  - title: "Objects with ‘faces’ make human brains emotional: study"
+    excerpt: "When it comes to determining who another person is, this mental recognition ability is vital ... response and emotion response and see it as an object. It remains simultaneously an object and ..."
+    publishedDateTime: 2021-07-07T22:52:00Z
+    webUrl: "https://nypost.com/2021/07/07/objects-with-faces-make-human-brains-emotional-study/"
+    ampWebUrl: "https://nypost.com/2021/07/07/objects-with-faces-make-human-brains-emotional-study/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/07/07/objects-with-faces-make-human-brains-emotional-study/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 59
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/07/face-pareidolia-hp.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "0rSPDVBODRUPuuDNAIpg2FZZW3ltzLP/JYAA1IyFtMMa3WFoCxGArZtNxT8Cjj4D215STVYn2fvp7FRYzdIX57vcoT0nQb5ErBz++Nwc5LgzbnfjkFqZ1Owv3P8MDG73UNT4v0xaxXbYmAjQuWLuqy9rEc6ZzdXQ3rYmOmvyRjoseZIobait83UCTvK3AIeAhn1YtS2X+MBNMVGIR1zEtwBa4yZbQ1oQKPCWNi5AyCfOKe3I3/TnlnqZOZJHLlaevWPbYArgII+tHbQlrJhzgIAGyuj597gvX5ty1YxNn0fW1a0+L9gBi2YXzAfb7oFlj3hQeW5WVe7HG8B2MjKrlwImAF5wvfscyqfckIc1/Vk=;F/iEXFiBmCDTJn1W8E1S1g=="
 ---
