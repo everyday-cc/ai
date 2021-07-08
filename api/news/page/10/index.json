@@ -2,6 +2,110 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2021-06-29-augtera-networks-raises-13m-to-apply-ai-to-networking.md",
+      "title": "Augtera Networks raises $13M to apply AI to networking",
+      "excerpt": "Augtera, a startup developing an \"AI-augmented\" networking analytics platform, has raised $13 million in venture funding.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/06/29/augtera-networks-raises-13m-to-apply-ai-to-networking/",
+      "originalUrl": "https://venturebeat.com/2021/06/29/augtera-networks-raises-13m-to-apply-ai-to-networking/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2015/12/broadband_speed_lights-e1624418067436.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/06/29/augtera-networks-raises-13m-to-apply-ai-to-networking/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/29/augtera-networks-raises-13m-to-apply-ai-to-networking/amp/",
+      "publishedDateTime": "2021-06-29T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-29-c3-ai-industry-partner-shell-named-a-winner-in-idcs-inaugural-future-of-digital-innovation-excellence-awards.md",
+      "title": "C3 AI Industry Partner Shell Named a Winner in IDC’s Inaugural Future of Digital Innovation Excellence Awards",
+      "excerpt": "C3 AI (NYSE:AI), the Enterprise AI application software company, today announced that IDC has declared Shell (NYSE:RDS) a winner inthe inaugural IDC",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/c3-ai-industry-partner-shell-named-a-winner-in-idcs-inaugural-future-of-digital-innovation-excellence-awards-2021-06-29",
+      "originalUrl": "https://www.marketwatch.com/press-release/c3-ai-industry-partner-shell-named-a-winner-in-idcs-inaugural-future-of-digital-innovation-excellence-awards-2021-06-29",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-29T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-29-changing-ai-perceptions-to-drive-widespread-adoption-in-traditional-industries.md",
       "title": "Changing AI Perceptions To Drive Widespread Adoption In Traditional Industries",
       "excerpt": "As data literacy increases with more widespread adoption of AI, businesses will start to identify new practical uses for the information they’re collecting.",
@@ -508,6 +612,58 @@
       "type": "article",
       "ampWebUrl": "https://www.zdnet.com/index.php/category/2381/index.php/google-amp/article/microsoft-brings-ai-to-github-to-create-a-smart-programing-copilot-tool/",
       "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2381/index.php/google-amp/article/microsoft-brings-ai-to-github-to-create-a-smart-programing-copilot-tool/",
+      "publishedDateTime": "2021-06-29T04:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-29-microsoft-brings-ai-to-github-to-create-a-smart-programming-copilot-tool.md",
+      "title": "Microsoft brings AI to GitHub to create a smart programming Copilot tool",
+      "excerpt": "Microsoft is making a technical preview of a new Visual Studio Code extension available that is designed to help programmers write code smarter and faster using AI technology from OpenAI.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/microsoft-brings-ai-to-github-to-create-a-smart-programing-copilot-tool/",
+      "originalUrl": "https://www.zdnet.com/article/microsoft-brings-ai-to-github-to-create-a-smart-programing-copilot-tool/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/hub/i/2021/06/29/bd54eff3-c9c7-4cf0-b714-606d46cc4cc7/githubcopilot.jpg",
+          "width": 1199,
+          "height": 478,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/microsoft-brings-ai-to-github-to-create-a-smart-programing-copilot-tool/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-brings-ai-to-github-to-create-a-smart-programing-copilot-tool/",
       "publishedDateTime": "2021-06-29T04:19:00-07:00",
       "updatedDateTime": null,
       "provider": {
@@ -1043,152 +1199,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-29-deep-instinct-chairman-talks-deep-learning-cyberthreats-and-plans-to-go-public.md",
-      "title": "Deep Instinct chairman talks deep learning, cyberthreats and plans to go public",
-      "excerpt": "Deep Instinct Chairman Lane Bess joined Jim Cramer on \"Mad Money\" to discuss how the privately held outfit applies artificial intelligence to cybersecurity in preventing hacks.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/video/2021/06/28/deep-instinct-chairman-on-deep-learning-cyberthreats-and-going-public.html",
-      "originalUrl": "https://www.cnbc.com/video/2021/06/28/deep-instinct-chairman-on-deep-learning-cyberthreats-and-going-public.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/106903794-16249247252ED1-MM-Block-B-062821.jpg?v=1624924723",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-28T15:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-29-ai-fueled-e-discovery-company-disco-plans-ipo.md",
-      "title": "AI-fueled e-discovery company DISCO plans IPO",
-      "excerpt": "E-discovery company CS Disco Inc is planning an initial public offering, becoming the latest legal technology company in recent weeks to signal an intention to go public.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/us-legalinnovation-disco-ipo/ai-fueled-e-discovery-company-disco-plans-ipo-idUSKCN2E42IO",
-      "originalUrl": "https://www.reuters.com/article/us-legalinnovation-disco-ipo/ai-fueled-e-discovery-company-disco-plans-ipo-idUSKCN2E42IO",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.reuters.com/resizer/xp3SDa5zAMdtot6k2OQH8qSHMmo=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/6NABBBIZSBKV7BEZR3CEN6IG7A.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-28T14:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-29-federal-judge-dismisses-ftc-antitrust-complaint-against-facebook.md",
-      "title": "Federal Judge Dismisses FTC Antitrust Complaint Against Facebook",
-      "excerpt": "A federal court on Monday (June 28) dismissed a Federal Trade Commission (FTC) antitrust complaint against Facebook.",
-      "sourceUrl": null,
-      "webUrl": "https://www.pymnts.com/legal/2021/federal-judge-dismisses-ftc-antitrust-complaint-against-facebook/",
-      "originalUrl": "https://www.pymnts.com/legal/2021/federal-judge-dismisses-ftc-antitrust-complaint-against-facebook/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://securecdn.pymnts.com/wp-content/uploads/2021/06/court-FTC-Facebook-complaint-457x274.jpg",
-          "width": 457,
-          "height": 274,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.pymnts.com/legal/2021/federal-judge-dismisses-ftc-antitrust-complaint-against-facebook/amp/",
-      "cdnAmpWebUrl": "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/legal/2021/federal-judge-dismisses-ftc-antitrust-complaint-against-facebook/amp/",
-      "publishedDateTime": "2021-06-28T13:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "pymnts.com",
-        "domain": "pymnts.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
         "AI"
       ]
     }

@@ -83,6 +83,22 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "SoftBank leads $235M round in AnyVision's AI recognition tech"
+    excerpt: "The Israeli company developing AI-driven facial recognition secures mega funding to help expand into new markets."
+    publishedDateTime: 2021-07-08T08:58:00Z
+    webUrl: "https://www.geektime.com/israeli-startup-anyvision-raises-235m-for-facial-recognition/"
+    ampWebUrl: "https://www.geektime.com/israeli-startup-anyvision-raises-235m-for-facial-recognition/amp/"
+    cdnAmpWebUrl: "https://www-geektime-com.cdn.ampproject.org/c/s/www.geektime.com/israeli-startup-anyvision-raises-235m-for-facial-recognition/amp/"
+    type: article
+    provider:
+      name: Geektime
+      domain: geektime.com
+    quality: 61
+    images:
+      - url: "https://www.geektime.com/content/images/2021/07/Screenshot_1-1560924163.jpg"
+        width: 878
+        height: 502
+        isCached: true
   - title: "AI facial recognition co AnyVision raises $235m"
     excerpt: "Israeli AI-driven facial recognition company AnyVision has announced the completion of a $235 million financing round from SoftBank Vision Fund 2 and Eldridge with participation from existing investors."
     publishedDateTime: 2021-07-07T09:42:00Z

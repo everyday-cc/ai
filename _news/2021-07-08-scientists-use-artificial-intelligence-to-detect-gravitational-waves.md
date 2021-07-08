@@ -9,8 +9,8 @@ ampWebUrl: "https://phys.org/news/2021-07-scientists-artificial-intelligence-gra
 cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-07-scientists-artificial-intelligence-gravitational.amp"
 type: article
 quality: 57
-heat: 67
-published: false
+heat: 77
+published: true
 
 provider:
   name: Phys.org
@@ -26,6 +26,22 @@ images:
     isCached: true
 
 related:
+  - title: "Subscription Companies Use AI To Keep False Declines To Record Lows"
+    excerpt: "Optimizing billing to minimize false declines can seem like a small issue, Digital River's Eric Christensen told PYMNTS, but AI can it from growing. Here's how."
+    publishedDateTime: 2021-07-08T08:00:00Z
+    webUrl: "https://www.pymnts.com/news/artificial-intelligence/2021/subscription-companies-use-ai-to-keep-false-declines-to-record-lows/"
+    ampWebUrl: "https://www.pymnts.com/news/artificial-intelligence/2021/subscription-companies-use-ai-to-keep-false-declines-to-record-lows/amp/"
+    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/artificial-intelligence/2021/subscription-companies-use-ai-to-keep-false-declines-to-record-lows/amp/"
+    type: article
+    provider:
+      name: pymnts.com
+      domain: pymnts.com
+    quality: 57
+    images:
+      - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/07/Digital-River-457x208.png"
+        width: 457
+        height: 208
+        isCached: true
   - title: "Argonne-led Team of Scientists Use AI to Detect Gravitational Waves"
     excerpt: "AI-driven gravitational wave detection. Building upon the interdisciplinary nature of this project, the team looks forward to new applications of this data-driven framework beyond big-data challenges in physics."
     publishedDateTime: 2021-07-07T17:46:00Z

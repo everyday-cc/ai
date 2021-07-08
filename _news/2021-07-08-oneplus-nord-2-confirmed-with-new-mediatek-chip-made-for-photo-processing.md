@@ -3,12 +3,10 @@ category: news
 title: "OnePlus Nord 2 confirmed with new MediaTek chip made for photo processing"
 excerpt: "OnePlus recently confirmed the existence of the Nord 2 via a surprise press release. Officially named the “Nord 2 5G”, the phone will sport several enhancements over the original OnePlus Nord, including the MediaTek chipset and AI-based features."
 publishedDateTime: 2021-07-08T07:00:00Z
-originalUrl: "https://www.tomsguide.com/uk/news/oneplus-nord-2-confirmed-with-new-mediatek-chip-made-for-photo-processing"
-webUrl: "https://www.tomsguide.com/uk/news/oneplus-nord-2-confirmed-with-new-mediatek-chip-made-for-photo-processing"
-ampWebUrl: "https://www.tomsguide.com/uk/amp/news/oneplus-nord-2-confirmed-with-new-mediatek-chip-made-for-photo-processing"
-cdnAmpWebUrl: "https://www-tomsguide-com.cdn.ampproject.org/c/s/www.tomsguide.com/uk/amp/news/oneplus-nord-2-confirmed-with-new-mediatek-chip-made-for-photo-processing"
+originalUrl: "https://www.tomsguide.com/news/oneplus-nord-2-confirmed-with-new-mediatek-chip-made-for-photo-processing"
+webUrl: "https://www.tomsguide.com/news/oneplus-nord-2-confirmed-with-new-mediatek-chip-made-for-photo-processing"
 type: article
-quality: 58
+quality: 38
 heat: -1
 published: false
 
@@ -21,9 +19,9 @@ topics:
   - AI
 
 images:
-  - url: "https://cdn.mos.cms.futurecdn.net/UU8k7B4KinXkzEnJEHxUUo-480-80.jpg"
-    width: 480
-    height: 270
+  - url: "https://cdn.mos.cms.futurecdn.net/UU8k7B4KinXkzEnJEHxUUo-1200-80.jpg"
+    width: 1200
+    height: 675
     isCached: true
 
 related:
@@ -231,7 +229,21 @@ related:
         width: 1600
         height: 1360
         isCached: true
+  - title: "OnePlus Nord 2 release date, specs: ‘Exclusive’ AI-enhanced MediaTek Dimensity 1200 will power upcoming mid-range phone"
+    excerpt: "OnePlus confirmed it is launching a proper sequel to its mid-range phone from 2020 that is now officially called OnePlus Nord 2 5G. Details about its specifications are still under wraps, but the company announced"
+    publishedDateTime: 2021-07-08T09:25:00Z
+    webUrl: "https://www.econotimes.com/OnePlus-Nord-2-release-date-specs-Exclusive-AI-enhanced-MediaTek-Dimensity-1200-will-power-upcoming-mid-range-phone-1612479"
+    type: article
+    provider:
+      name: EconoTimes
+      domain: econotimes.com
+    quality: 15
+    images:
+      - url: "https://s1.econotimes.com/assets/uploads/20210708fded8c7c71dc4aca3_th_1024x0.jpg"
+        width: 900
+        height: 600
+        isCached: true
 
-secured: "RZip5FwZv4WREu/D9A3ss96+9XHP/flKbkuRZjd38kQSPFxXg36HKJ9Rgy3DlPdpseYscPgvH+c1hImjIv56ByckNhNvkSHd65G6Ci8DHtnUrw1Yv8vhgzF19S12ERZDQ/TFqllyOLHy6obXt928/GPNMI4qTlviVQ0BGKqVhTWiVxPnn/v172VbYUx1u7qo4SJrjByHOx45N3BZ/x2EZ915G2HhSaCO91GTldNqxagWoQkqY86c3PXVn5zEBXRI8EICiXN3iXhvgTn9uHIBmpqvo1Ylth77/xxaoctzg3ajJ3UzNCk1Hbewy30AHYSp4cyyXerk5SI+fLAiHXSj1l2Uvn1FPKae8z3kG9Hr2jc=;cbyWoIR/nOXq1xzGZeiW8A=="
+secured: "Z5g6dAhQLQEbIknaRILXZBPoSWUYogaKhMeBMnNhG2WKR3RNQHxA5iEFDTQ3qKAGXb/0GUgwmgqAC/Uwc5tTmJjGIK5wz+hU/eYi2RuxIPKHm0KIgHSIDI/Fyw512lh7e2xTrGkamrQFfUSWERCvd/EiiJufMiDZyiIhzAxZfWvxGn/HXfVcd37XGEGDldECxe1ywKLy4ztNzh6U/eQZMo2By3E1Hde4xvRnPuv/Z/KGKpfmqimmE8vTTVOxG2qgaF06y7dSn1EYK/SkrmPj03QGunTYrFj5XVJMPn3Td5p2nC9xtFBzGGBfQ76/dJov+h/HJ5C2r0rYZBAB0GwjeYmF/ihpKU9Q2LLrPS/Dyu0=;JEBJy3zUfpwwuakChpn2gg=="
 ---
 

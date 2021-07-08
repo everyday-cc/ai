@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/peggyannesalz/2021/07/07/three-experts-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/peggyannesalz/2021/07/07/three-experts-offer-fintech-app-marketing-tips-you-can-bank-on/amp/"
 type: article
 quality: 106
-heat: 216
+heat: 226
 published: true
 
 provider:
@@ -133,6 +133,20 @@ related:
       - url: "https://www.independent.com.mt/file.aspx?f=216430"
         width: 709
         height: 532
+        isCached: true
+  - title: "Rise by Barclays: Embedded finance and the future of fintech"
+    excerpt: "Mariquit Corcoran, Group CIO at Barclays, contextualises the benefits that embedded finance is bringing to customers and how it could shape fintech overall"
+    publishedDateTime: 2021-07-08T07:48:00Z
+    webUrl: "https://fintechmagazine.com/technology-and-ai/rise-barclays-embedded-finance-and-future-fintech"
+    type: article
+    provider:
+      name: fintechmagazine
+      domain: fintechmagazine.com
+    quality: 39
+    images:
+      - url: "https://fintechmagazine.com/sites/default/files/styles/ma/public/image/Femle-founders2-16_9%20%281%29%20%281%29.jpg?itok=I3bMaq47"
+        width: 3200
+        height: 1800
         isCached: true
   - title: "Fintech Startups Disrupting the Whole Industry"
     excerpt: "However, do you actually know how huge the Financial Services industry is? You might arm yourself with a calculator, start crunching the numbers and arrive at a certain ballpark figure pretty soon. While there is a little doubt in your numerical prowess,"

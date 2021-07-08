@@ -49,6 +49,17 @@ related:
       name: Diginomica
       domain: diginomica.com
     quality: 27
+  - title: "U.S. says humans will always be in control of AI weapons. But the age of autonomous war is already here."
+    excerpt: "The Pentagon says a ban on autonomous weapons isn't necessary, but experts say that weapons that can make decisions for themselves are already making a difference in Libyan, Armenian and other conflicts."
+    publishedDateTime: 2021-07-08T08:17:00Z
+    webUrl: "https://www.seattletimes.com/business/technology/u-s-says-humans-will-always-be-in-control-of-ai-weapons-but-the-age-of-autonomous-war-is-already-here/"
+    ampWebUrl: "https://www.seattletimes.com/business/technology/u-s-says-humans-will-always-be-in-control-of-ai-weapons-but-the-age-of-autonomous-war-is-already-here/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/technology/u-s-says-humans-will-always-be-in-control-of-ai-weapons-but-the-age-of-autonomous-war-is-already-here/?amp=1"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 20
 
 secured: "85rbpwU8yKpla20ZnSwmH1TBgjDf4y8J8Bxu0lEkFngbyoGMSkAwUPHveKLiyHqSRloROiFGM/DEf1iRyesfDWN7Y5L4BUGTKzvzr7Uij1DSyyP2sXnzCBKmbo8opccoMF47D4ByFAlrCMNqztWbHbVzEMwxcbmBx9FWmrOYM5MFXiokdVlS+8ZZ08FNigQWdQ8uXL+xhOZQCH55wqPcLtWEima5/Jlgja3bIdqTsQpwvR3gpA/NQslzth/6fqOO7bczUl1YnKYg87Z/ykuD3a7dGMWDhDxsndgdx2GZY+Vb3w3jDlK2c+q+kH9w/lfN72uLKg7OdnRfids+6dhxnJ/c3vPEP9DIAVAUhojGSQk=;utYwYXs2fi0ZGdag+lqRAQ=="
 ---

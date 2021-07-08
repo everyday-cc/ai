@@ -2,21 +2,17 @@
 category: news
 title: "Trust in AI needed to boost adoption"
 excerpt: "PwC Singapore and responsible artificial intelligence firm, BasisAI, are collaborating in a bid to increase trust in the use of AI through a Responsible AI framework and platform that aims to increase the level of transparency and understanding of AI,"
-publishedDateTime: 2021-07-08T07:31:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/trust-in-ai-needed-to-boost-adoption-1030588447"
-webUrl: "https://markets.businessinsider.com/news/stocks/trust-in-ai-needed-to-boost-adoption-1030588447"
+publishedDateTime: 2021-07-08T07:25:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-trust-ai-needed-boost-adoption-/2021/07/08/9404931.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-trust-ai-needed-boost-adoption-/2021/07/08/9404931.htm"
 type: article
-quality: 49
+quality: 19
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI Ethics
@@ -40,6 +36,6 @@ related:
         height: 438
         isCached: true
 
-secured: "yOREg4CjzhmvarQrUv+KalPqiwfbMjNGWIEIbjRGFKIFjz7ovEY5oz7EO8M1AOv/s9yF5D6dr3xqHermq5xX9q3achHEIy/ucael39Fw4hz/GrptdMIQC/3BV+QXQXT2KNvTwqYEckFQsAgxZKsqglPCd1MZ4zJP1zvjFuDJJ2oRzALhHdq7A382URFYWD0gW/O8pxIJSDGAvEo+rh+fLwShy21xfsUyPLOjEDonFe2HzSjfQho098sZfC+nJCth44LoBGSmd2TQFI3w0rqbf/bDPQtj9lefCxhXmCFPmQ/2mIZS/TBTQmxK0ZNiAax+vGd+yXRYIklQkX6rt9DZXcPnemo7Jmir+vMgwG1bL38=;hLC2jmuWQ/Gvus9sUfSwhA=="
+secured: "HNSOCBIyC0YrqS8cIb160OAmTlgPcyIzlXmw4CL/G1aynzhqftn7c+lDJlT9CBQyrEsJUfc9cNO2sn3DWA+8NOHS7HbYQyqwMCPWqHUcQmtn0kOGmdl5L3vPTKMf3pSiH3FUIq3L3Qkna/DQtR1TUivif2LZGHGCd80f6pkrL9lh4wVIJ5M+QZUTClTNmaxBdzEbL5vEyHP85q6lC4Y/3B344QO9B/9W6UP9XpKbIVYfEquLBxkXbstG7BZLUMap4Qply6ZnwxABWFBSwuoaldCbWh+gGmJLC1AdvNrmKHVMvDEGlXVARi76o13XQUvhKv/ikfe24cJJPn7kCHlzbW93OJBM2p2HifFO6ImR9tc=;f8C6/KcLIGxV0i/WJJ20fA=="
 ---
 

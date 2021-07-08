@@ -58,21 +58,19 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Blending Computing with AI & Machine Learning for Low Risk High Returns"
-    excerpt: "Liquidity in real estate may not be immediate, interest in fixed deposits is low in comparison to equities’ returns in the long term."
-    publishedDateTime: 2021-07-03T16:53:00Z
-    webUrl: "https://www.outlookindia.com/outlookmoney/finance/blending-computing-with-ai-machine-learning-for-low-risk-high-returns-7932"
-    ampWebUrl: "https://www.outlookindia.com/outlookmoney/amp/finance/blending-computing-with-ai-machine-learning-for-low-risk-high-returns-7932"
-    cdnAmpWebUrl: "https://www-outlookindia-com.cdn.ampproject.org/c/s/www.outlookindia.com/outlookmoney/amp/finance/blending-computing-with-ai-machine-learning-for-low-risk-high-returns-7932"
+  - title: "Recycling using artificial intelligence and robotics"
+    excerpt: "Abhijeet Ghosh, 6th Grade, Dodgen Middle School, Marietta, Georgia, student looks to recycle waste using artificial intelligence (AI) and robotics. Abhijeet is very keen on recycling. Recycling reduces waste,"
+    publishedDateTime: 2021-07-08T09:21:00Z
+    webUrl: "https://www.worldofchemicals.com/media/recycling-using-artificial-intelligence-and-robotics/6261.html"
     type: article
     provider:
-      name: Outlookindia
-      domain: outlookindia.com
-    quality: 74
+      name: World Of Chemicals
+      domain: worldofchemicals.com
+    quality: 69
     images:
-      - url: "https://www.outlookindia.com/outlookmoney/public/uploads/article/gallery/6d5a7c95791a791b2691fc65cddd0c1f.jpg"
-        width: 1000
-        height: 708
+      - url: "https://www.worldofchemicals.com/newphase/image/Elite4.png"
+        width: 305
+        height: 320
         isCached: true
   - title: "Six Ways AI is Transforming Sales"
     excerpt: "Every day, AI influences our purchasing decisions, from the shows we watch to the routes drivers take to the next product we shop online. Here are six ways AI is transforming sales: The size of the sale,"

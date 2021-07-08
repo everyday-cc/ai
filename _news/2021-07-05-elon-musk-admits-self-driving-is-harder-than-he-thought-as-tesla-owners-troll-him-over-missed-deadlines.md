@@ -9,7 +9,7 @@ ampWebUrl: "https://electrek.co/2021/07/05/elon-musk-admits-self-driving-harder-
 cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/07/05/elon-musk-admits-self-driving-harder-than-he-thought-tesla-troll-missed-deadlines/amp/"
 type: article
 quality: 73
-heat: 153
+heat: 163
 published: true
 
 provider:
@@ -62,6 +62,22 @@ related:
       - url: "https://images.hothardware.com/contentimages/newsitem/55591/content/tesla_model_3_performance.jpg"
         width: 708
         height: 454
+        isCached: true
+  - title: "Developing safe self-driving car a 'hard problem', admits Musk"
+    excerpt: "\"Generalized self-driving is a hard problem, as it requires solving a large part of real-world AI\" Tesla CEO Elon Musk has finally admitted that developing a safe and reliable self-driving car is indeed a difficult task."
+    publishedDateTime: 2021-07-08T08:36:00Z
+    webUrl: "https://www.tribuneindia.com/news/science-technology/developing-safe-self-driving-car-a-hard-problem-admits-musk-279042"
+    ampWebUrl: "https://www.tribuneindia.com/news/science-technology/developing-safe-self-driving-car-a-hard-problem-admits-musk-279042"
+    cdnAmpWebUrl: "https://www-tribuneindia-com.cdn.ampproject.org/c/s/www.tribuneindia.com/news/science-technology/developing-safe-self-driving-car-a-hard-problem-admits-musk-279042"
+    type: article
+    provider:
+      name: The Tribune
+      domain: tribuneindia.com
+    quality: 44
+    images:
+      - url: "https://englishtribuneimages.blob.core.windows.net/gallary-content/2021/7/Desk/2021_7$thumbimg_1524855205.JPG"
+        width: 350
+        height: 232
         isCached: true
   - title: "Elon Musk Says He’s Surprised to Discover That Self-Driving Cars Are Difficult"
     excerpt: "After Tesla once again delayed the launch of its next “Full Self-Driving” (FSD) software beta, Elon Musk admitted that he’s been caught off guard by just how difficult it is to develop autonomous vehicles."

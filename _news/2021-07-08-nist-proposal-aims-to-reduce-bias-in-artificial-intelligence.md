@@ -28,13 +28,13 @@ images:
 related:
   - title: "Trust in AI needed to boost adoption"
     excerpt: "PwC Singapore and responsible artificial intelligence firm, BasisAI, are collaborating in a bid to increase trust in the use of AI through a Responsible AI framework and platform that aims to increase the level of transparency and understanding of AI,"
-    publishedDateTime: 2021-07-08T07:31:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/trust-in-ai-needed-to-boost-adoption-1030588447"
+    publishedDateTime: 2021-07-08T07:25:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-trust-ai-needed-boost-adoption-/2021/07/08/9404931.htm"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 49
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 19
 
 secured: "Y0IrWTXrpuQPzz4q/1EMWbrDTbC/vWFnh0QVWrzomLtbtB04HhuUefpT3ACVkpHev8cEOY+Npj2vNbVFtxaNO+6pY2RMxPGN942sqxOow2JD6iL/qJ3jEBIig/YTJJT1lVwDwxAKN+bFLp3HnINaOAXNnGVBweVr0jyLkS69vsAe92CO7TD3+JIsCXwq6NjCDNDmi4E7dNCuzRiaOehp3f14uSFCMBnxRJsU8gbRELo4mpoXKpb7+R8L0EtIV5Bca3+Reh4MY3PXc2PCNGhDjdvYKSfW1FhOIA/JEmG2nNSE1tk2doMt34sNTXmEgtdQ/LAML03GC2LB/5744oqNWYYB4j2coNgPbSPxHe7ExP2rKZODv5zoLLGrO8/llw7+bYwn/nP5/bmozALRuAXra/iKjohuJXDgFpxYsb00a4/2gOp9USDnPQZDhnMChFmzca9xvUj/ycyGmDRKqQxSp5TbzOcs+77E9JJmC82H0ycRwnOPGknPHcfStmGvw2lmDlZWRjTRURUlKyjhCxJ4rA==;dCFRNvEyF1pJ+g7FWt8Nkg=="
 ---

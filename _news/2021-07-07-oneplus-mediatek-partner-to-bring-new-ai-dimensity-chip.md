@@ -129,22 +129,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "OnePlus Nord 2 confirmed with new MediaTek chip made for photo processing"
-    excerpt: "OnePlus recently confirmed the existence of the Nord 2 via a surprise press release. Officially named the “Nord 2 5G”, the phone will sport several enhancements over the original OnePlus Nord, including the MediaTek chipset and AI-based features."
-    publishedDateTime: 2021-07-08T07:00:00Z
-    webUrl: "https://www.tomsguide.com/uk/news/oneplus-nord-2-confirmed-with-new-mediatek-chip-made-for-photo-processing"
-    ampWebUrl: "https://www.tomsguide.com/uk/amp/news/oneplus-nord-2-confirmed-with-new-mediatek-chip-made-for-photo-processing"
-    cdnAmpWebUrl: "https://www-tomsguide-com.cdn.ampproject.org/c/s/www.tomsguide.com/uk/amp/news/oneplus-nord-2-confirmed-with-new-mediatek-chip-made-for-photo-processing"
-    type: article
-    provider:
-      name: Tom's Guide
-      domain: tomsguide.com
-    quality: 58
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/UU8k7B4KinXkzEnJEHxUUo-480-80.jpg"
-        width: 480
-        height: 270
-        isCached: true
   - title: "OnePlus Nord 2 5G is official and the exclusive chip that's powering it has been revealed"
     excerpt: "The OnePlus Nord 2 5G is official! OnePlus has dropped a sprinkling of details on its upcoming mid-range smartphone, as well as sharing a sneak peek of the device; although it's just a rectangular silhouette,"
     publishedDateTime: 2021-07-08T04:00:00Z
@@ -191,6 +175,20 @@ related:
         width: 1835
         height: 943
         isCached: true
+  - title: "OnePlus Nord 2 confirmed with new MediaTek chip made for photo processing"
+    excerpt: "OnePlus recently confirmed the existence of the Nord 2 via a surprise press release. Officially named the “Nord 2 5G”, the phone will sport several enhancements over the original OnePlus Nord, including the MediaTek chipset and AI-based features."
+    publishedDateTime: 2021-07-08T07:00:00Z
+    webUrl: "https://www.tomsguide.com/news/oneplus-nord-2-confirmed-with-new-mediatek-chip-made-for-photo-processing"
+    type: article
+    provider:
+      name: Tom's Guide
+      domain: tomsguide.com
+    quality: 38
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/UU8k7B4KinXkzEnJEHxUUo-1200-80.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "OnePlus Nord 2 5G Confirmed To Come With MediaTek Dimensity 1200-AI SoC; First OnePlus Phone With MediaTek SoC"
     excerpt: "OnePlus Nord 2 5G will come with a MediaTek Dimensity 1200-AI chipset, the company has confirmed in an official teaser."
     publishedDateTime: 2021-07-08T03:48:00Z
@@ -229,6 +227,20 @@ related:
       - url: "https://i0.wp.com/img.talkandroid.com/uploads/2021/07/OnePlus-Nord-2-5G-x-MediaTek-dimensity-1200-ai.png"
         width: 1600
         height: 1360
+        isCached: true
+  - title: "OnePlus Nord 2 release date, specs: ‘Exclusive’ AI-enhanced MediaTek Dimensity 1200 will power upcoming mid-range phone"
+    excerpt: "OnePlus confirmed it is launching a proper sequel to its mid-range phone from 2020 that is now officially called OnePlus Nord 2 5G. Details about its specifications are still under wraps, but the company announced"
+    publishedDateTime: 2021-07-08T09:25:00Z
+    webUrl: "https://www.econotimes.com/OnePlus-Nord-2-release-date-specs-Exclusive-AI-enhanced-MediaTek-Dimensity-1200-will-power-upcoming-mid-range-phone-1612479"
+    type: article
+    provider:
+      name: EconoTimes
+      domain: econotimes.com
+    quality: 15
+    images:
+      - url: "https://s1.econotimes.com/assets/uploads/20210708fded8c7c71dc4aca3_th_1024x0.jpg"
+        width: 900
+        height: 600
         isCached: true
 
 secured: "vD+gh6Cu529z6kWvwj6umOd5Z+84Rph1oza7b1fOKr6u701zkMoVXF5AEITyXf6BnSOfyF7vn6KsGJnSeHf+W28YhTxDiqSRMvxIPda7HRta/TUoImnjRMmjbEzaSR828j/4f4141jy74G1M574cIi9auIeCjmoI5GBzP1J5GqBkMxTeACfD1TEj9uJvzRglOufjn5CtUTYZ/qOHK8QtZaa6Irr6YVvPFuCnwsGuARW9102BkU77xwUe/zlBlodd/FRZV6sNj8ZfnCKTp2Bri4MqIqBJc4Swb7IZrzBvY0w5yEtKl5VX2WEFiT3QgQ0UItj0psgX5aVWasV/lwCApGQaXAEPvQB0kHs6tB7Jrag=;Jj2mS6jarP+y8VP1DCXt2w=="

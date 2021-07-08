@@ -75,6 +75,22 @@ related:
         width: 708
         height: 454
         isCached: true
+  - title: "Developing safe self-driving car a 'hard problem', admits Musk"
+    excerpt: "\"Generalized self-driving is a hard problem, as it requires solving a large part of real-world AI\" Tesla CEO Elon Musk has finally admitted that developing a safe and reliable self-driving car is indeed a difficult task."
+    publishedDateTime: 2021-07-08T08:36:00Z
+    webUrl: "https://www.tribuneindia.com/news/science-technology/developing-safe-self-driving-car-a-hard-problem-admits-musk-279042"
+    ampWebUrl: "https://www.tribuneindia.com/news/science-technology/developing-safe-self-driving-car-a-hard-problem-admits-musk-279042"
+    cdnAmpWebUrl: "https://www-tribuneindia-com.cdn.ampproject.org/c/s/www.tribuneindia.com/news/science-technology/developing-safe-self-driving-car-a-hard-problem-admits-musk-279042"
+    type: article
+    provider:
+      name: The Tribune
+      domain: tribuneindia.com
+    quality: 44
+    images:
+      - url: "https://englishtribuneimages.blob.core.windows.net/gallary-content/2021/7/Desk/2021_7$thumbimg_1524855205.JPG"
+        width: 350
+        height: 232
+        isCached: true
   - title: "Elon Musk Admits That Full-Self Driving Is a Hard Problem To Solve"
     excerpt: "CEO Elon Musk admitted this weekend that creating a car that is truly self-driving is a “hard problem” to solve. Musk has been promising to release Full Self-Driving software upgrades for several years,"
     publishedDateTime: 2021-07-06T02:01:00Z

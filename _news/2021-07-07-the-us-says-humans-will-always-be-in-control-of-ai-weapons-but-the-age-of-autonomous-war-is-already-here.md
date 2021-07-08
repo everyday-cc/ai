@@ -51,6 +51,17 @@ related:
         width: 480
         height: 299
         isCached: true
+  - title: "U.S. says humans will always be in control of AI weapons. But the age of autonomous war is already here."
+    excerpt: "The Pentagon says a ban on autonomous weapons isn't necessary, but experts say that weapons that can make decisions for themselves are already making a difference in Libyan, Armenian and other conflicts."
+    publishedDateTime: 2021-07-08T08:17:00Z
+    webUrl: "https://www.seattletimes.com/business/technology/u-s-says-humans-will-always-be-in-control-of-ai-weapons-but-the-age-of-autonomous-war-is-already-here/"
+    ampWebUrl: "https://www.seattletimes.com/business/technology/u-s-says-humans-will-always-be-in-control-of-ai-weapons-but-the-age-of-autonomous-war-is-already-here/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/technology/u-s-says-humans-will-always-be-in-control-of-ai-weapons-but-the-age-of-autonomous-war-is-already-here/?amp=1"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 20
 
 secured: "wYJaTgdL2t6GDmd/f3jMoFuRIsunaa9XcP62PqRLrvL8pdxeB4u5L/ykU9DAT34VXFEzDdZZ8MLTngO8A3zfzIeiQuLSsD/uvgNd1KalaOVHeotC4xjdff3/rZ0o56h6BqUp+U+R4BSNONMOTfM01HtrBuC28heCrD1WgfPv1rZftbMYx+ITd39ZiSZWXh39kCgkpBy/xAf53QWqhphZ7Jukvw4IEBDoT8qUz2WbWwTNqlydz1XvN604tEu6M81emD308zFwUIxHKuXUHjk3/K4gMh6lJGXZ3YtbyCribsjytcgDBCnhcSVufeFjZjch+6g6l1qNZV2st4vVDJzh6vvfJnSNTrtB/MERRPvtsbo=;bLlMJQa+8Yx0LOyr59EeXg=="
 ---

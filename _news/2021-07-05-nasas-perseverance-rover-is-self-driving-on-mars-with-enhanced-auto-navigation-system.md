@@ -22,7 +22,7 @@ related:
   - title: "NASA's Self-Driving Perseverance Mars Rover 'Takes the Wheel'"
     excerpt: "The AutoNav system can create three-dimensional maps of terrain ahead and plan a route around any hazards it identifies without additional input from the rover team on Earth. JPL's Vandi Verma said, \"We have a capability called 'thinking while driving."
     publishedDateTime: 2021-07-07T18:11:00Z
-    webUrl: "https://cacm.acm.org/news/253809-nasas-self-driving-perseverance-mars-rover-takes-the-wheel/fulltext"
+    webUrl: "https://cacm.acm.org/news/253809-nasas-self-driving-perseverance-mars-rover-takes-the-wheel"
     type: article
     provider:
       name: acm.org

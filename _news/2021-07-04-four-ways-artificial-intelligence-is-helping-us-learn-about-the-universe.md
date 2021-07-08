@@ -7,7 +7,7 @@ originalUrl: "https://www.tribuneindia.com/news/schools/four-ways-artificial-int
 webUrl: "https://www.tribuneindia.com/news/schools/four-ways-artificial-intelligence-is-helping-us-learn-about-the-universe-278164"
 type: article
 quality: 36
-heat: 36
+heat: -1
 published: false
 
 provider:
@@ -22,6 +22,33 @@ images:
     width: 788
     height: 443
     isCached: true
+
+related:
+  - title: "Emotion AI Is Transforming the Way We Game"
+    excerpt: "By: Ranjan Kumar, CEO of Entropik Tech Emotion AI is rapidly advancing as applications become more widespread, and the technology becomes more dynamic with 2021 positioned as a breakout year. But exactly how much Emotion AI surrounds people through their computers,"
+    publishedDateTime: 2021-07-08T09:20:00Z
+    webUrl: "https://techbullion.com/emotion-ai-is-transforming-the-way-we-game/"
+    ampWebUrl: "https://techbullion.com/emotion-ai-is-transforming-the-way-we-game/amp/"
+    cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/emotion-ai-is-transforming-the-way-we-game/amp/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 57
+    images:
+      - url: "https://techbullion.com/wp-content/uploads/2021/07/emotion-AI.jpg"
+        width: 838
+        height: 475
+        isCached: true
+  - title: "Winning formula: How AI is changing the chemical sector"
+    excerpt: "It is helping manufacturers make profits while improving quality and efficiency, alongside environment preservation"
+    publishedDateTime: 2021-07-05T08:07:00Z
+    webUrl: "https://www.thehindubusinessline.com/opinion/winning-formula-how-ai-is-changing-the-chemical-sector/article35143125.ece"
+    type: article
+    provider:
+      name: Business Line
+      domain: thehindubusinessline.com
+    quality: 17
 
 secured: "4YPsaR0UJfVBK0CVLKert6HslQkgYOAMF9/9xYJM1KjH3JbpZzWTzGN+wwJ6NBOr2yykxOSpGmoUpVjK6PybXZLQtNltkYzXuKO207of5Sm3f047sqeMwL0+11vqzFiDDAtKNiMsO3bHBS8llaU2A6DdAW0pc/h4Kxu6PuqwJUEIvmKx921wJsN4c4GI4xiC+DRGev9PiSTegRZu4tFPr6vC/e/MnJdIdyE0XEOFigeDsu08BWHoqENuVu6pLc2NRdE0M2rwl/ntxngsw4XQafU0s9ihtEfbVY+HhPRopk2HKH8hxZthRKyXtJio2pLKslrcfoLG4MN7+U7UkIYxZTOYMiy9m7Q9rGDbiJ/Zon0=;mSCdNdlshrx4GWIl8QiUOQ=="
 ---

@@ -143,6 +143,20 @@ related:
         width: 709
         height: 532
         isCached: true
+  - title: "Rise by Barclays: Embedded finance and the future of fintech"
+    excerpt: "Mariquit Corcoran, Group CIO at Barclays, contextualises the benefits that embedded finance is bringing to customers and how it could shape fintech overall"
+    publishedDateTime: 2021-07-08T07:48:00Z
+    webUrl: "https://fintechmagazine.com/technology-and-ai/rise-barclays-embedded-finance-and-future-fintech"
+    type: article
+    provider:
+      name: fintechmagazine
+      domain: fintechmagazine.com
+    quality: 39
+    images:
+      - url: "https://fintechmagazine.com/sites/default/files/styles/ma/public/image/Femle-founders2-16_9%20%281%29%20%281%29.jpg?itok=I3bMaq47"
+        width: 3200
+        height: 1800
+        isCached: true
   - title: "Fintech Startups Disrupting the Whole Industry"
     excerpt: "However, do you actually know how huge the Financial Services industry is? You might arm yourself with a calculator, start crunching the numbers and arrive at a certain ballpark figure pretty soon. While there is a little doubt in your numerical prowess,"
     publishedDateTime: 2021-07-06T16:58:00Z
@@ -181,6 +195,6 @@ related:
       domain: finextra.com
     quality: 0
 
-secured: "xVLDVnJgfzytvZW5iR9VZKf3gTl7/Www/wwxDMH+m4/WbuQ39YLEE48kD/0T8O529oR0+eKdg8+e4gqYgKAHKekyBIhphkJloRIg6lM2EfFnV97eSVlXU1zyv94G5KplcsBT2Q0LmldCO4AD/tTrgnDUL+5sNbO4jh5aQUj+1XgR+Q3V5dy3ePmE4xSRdGYzHFV+Um+cfI4gHlCopq3YA/5FFuOWkmdYb9pVcx5N370F4auClBSuvS3gpXebBp8fRASC5z1YL5aOochtb+wbDxhnQlMkQN/q7/aC1vlbxk3P9XtC1Irxkh3H2BhkVPqhnLfcB5QQn6/AgjjnNHc3Pis9ohJslabu6C6dQJIGcwY=;LvEQO+K1uOwykilarefP9Q=="
+secured: "foBRg1jDJIKwKjmFFHR8ar4/a5S5umIiYRDT/b+pHJBnvVn5pjimSpl/0cgU9wbpl8hecTiOZFdR9tVn2QnuKKO7ewCJ028gX3aB2/gdH7TE5x61rWpmzqK761dMhbOo20tZchHad6xRDj+QYMt6XHAIhc6YY6fXmNAecTESuyE+L2o0kLoV0Tap3Pur04gXYEeOQQhPmjArYss/KYpWKXK12Vtxil1Q+ACdz+gfTkfw/RXexNNPPZErM2lWBYjdz/DW0mtSwHlu1n13/RCQW5fl2VqfP/fM2OBaelvpoKd1S3FejvN+vgV3DCW22hvsCgTiyjLQJdTFGz9EoNx3kOufwAjxhozDJ55M3Nv06dy3MhRjPvdk/yrdDbYe6X9TZu51htjW4pEK4Xf98/eaCk0AoV8lC1GJTelMpmA2o8WDbUgJZ3K5DtBhHVGkQAsOmRllrT+bVttKygKr69hSC/5yq5TpryIh5+qF3qYaT+MJYaP5TBU6PshimcMWkDqz0nJXSew36EtnvdfnLTLGrA==;yDX9t6AlRmTEcZfJmejTzA=="
 ---
 

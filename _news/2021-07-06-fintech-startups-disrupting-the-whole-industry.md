@@ -143,6 +143,20 @@ related:
         width: 709
         height: 532
         isCached: true
+  - title: "Rise by Barclays: Embedded finance and the future of fintech"
+    excerpt: "Mariquit Corcoran, Group CIO at Barclays, contextualises the benefits that embedded finance is bringing to customers and how it could shape fintech overall"
+    publishedDateTime: 2021-07-08T07:48:00Z
+    webUrl: "https://fintechmagazine.com/technology-and-ai/rise-barclays-embedded-finance-and-future-fintech"
+    type: article
+    provider:
+      name: fintechmagazine
+      domain: fintechmagazine.com
+    quality: 39
+    images:
+      - url: "https://fintechmagazine.com/sites/default/files/styles/ma/public/image/Femle-founders2-16_9%20%281%29%20%281%29.jpg?itok=I3bMaq47"
+        width: 3200
+        height: 1800
+        isCached: true
   - title: "Meet Hydrogen, the latest sibling-led API fintech"
     excerpt: "Hydrogen is the brainchild of twin brothers Matt and Mike Kane. The New York natives' API-driven solution is one of the latest sibling-founded fintechs"
     publishedDateTime: 2021-07-07T13:23:00Z

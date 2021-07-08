@@ -74,20 +74,6 @@ related:
         width: 480
         height: 264
         isCached: true
-  - title: "Reply Shapes the Future of Autonomous Mobile Robots with the Power of Microsoft Azure"
-    excerpt: "The solution combines Microsoft Azure services ... Reply integrates Azure Cognitive Services, Machine Learning and DevOps as well as Power Apps and Power BI. Thanks to Azure's intelligent service ..."
-    publishedDateTime: 2021-07-06T07:39:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/21/07/b21850593/reply-shapes-the-future-of-autonomous-mobile-robots-with-the-power-of-microsoft-azure"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 47
-    images:
-      - url: "https://cdn.benzinga.com/files/imagecache/og_image_social_share_1200x630/sites/all/themes/bz2/images/bz-icon.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Microsoft experiments with high-end machine learning on Xbox Series X"
     excerpt: "Microsoft is hiring new software engineers to help create new next-gen machine learning algorithms for Xbox Series X/S consoles."
     publishedDateTime: 2021-07-03T22:14:00Z
@@ -133,6 +119,15 @@ related:
       name: manometcurrent.com
       domain: manometcurrent.com
     quality: 28
+  - title: "Reply Shapes the Future of Autonomous Mobile Robots with the Power of Microsoft Azure"
+    excerpt: "The solution combines Microsoft Azure services ... Reply integrates Azure Cognitive Services, Machine Learning and DevOps as well as Power Apps and Power BI. Thanks to Azure's intelligent service ..."
+    publishedDateTime: 2021-07-06T07:38:00Z
+    webUrl: "https://www.morningstar.com/news/business-wire/20210706005133/reply-shapes-the-future-of-autonomous-mobile-robots-with-the-power-of-microsoft-azure"
+    type: article
+    provider:
+      name: Morningstar%2c Inc.
+      domain: morningstar.com
+    quality: 27
 
 secured: "tDW07pM4wFhAxbBu+46ADB8l8HosrNkSXE2ojvktnT0L1gjEb8pWt5iA0qI+u8yIuRttWhz2LR+1ChfhZIVsd85CFcoAGUhE7IMq1drYXkxBW20eNU+EbO3JYIvkDq7UIS/cOIigJEcWK0aRTbANI0/aBhvH08F2aFRX9tQ1/FPNFYGJdnNKdr6Hkdj9O+gSOuMTuXAnC9xpTxYJ8jR+98p3Npi40Dv9e9LZVspBRO4tWnUrydtBXqq6vSOHY4bt+jzCR9sE9MkHIN5TAk6S2Y8SFrerfDgbxSJuzWUTgsNs+/s/sg9U3g2izpCpEst+RW2PXvAaR+yNFv36JehVR4SQONLkxkaRrHrvT/RKoFV8RCUHMHFDsXnzAUk0AeNGwL7ol32Os1NLHC+y7C/NV2nchjkAA8d4mdXFPJDDpACZeLwm+3o0LEDTiDS0axAvv8ILalZmy091MZF8Ca+oOKxOFRLmP91ZNzaRvXQebdTlF8tDe6euFxlMa4rlI1/ZjbKdxX06EF7FUW52c3LK0g==;7ao0owqHWnUUjoa/juvyvQ=="
 ---

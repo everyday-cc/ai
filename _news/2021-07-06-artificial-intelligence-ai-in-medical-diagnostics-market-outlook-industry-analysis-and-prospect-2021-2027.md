@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-medical-diagnostics-market-outlook-industry-analysis-and-prospect-2021-2027-2021-07-05"
 type: article
 quality: 65
-heat: 95
+heat: 115
 published: true
 
 provider:
@@ -54,6 +54,15 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 37
+  - title: "Artificial Intelligence (AI) in Automotive Market"
+    excerpt: "Latest added Artificial Intelligence (AI) in Automotive Market research study by MarketDigits offers detailed product outlook and elaborates market review till 2027. The market Study is segmented by key regions that is accelerating the marketization."
+    publishedDateTime: 2021-07-07T18:54:00Z
+    webUrl: "https://manometcurrent.com/artificial-intelligence-ai-in-automotive-market-analysis-by-key-players-end-users-and-cagr-forecast-to-2027-harman-international-industries-inc-honda-motor-co-ltd-ibm-corporation-intel-co/"
+    type: article
+    provider:
+      name: manometcurrent.com
+      domain: manometcurrent.com
+    quality: 34
   - title: "Artificial Intelligence in Diagnostics Market Size, Trends, Companies, Driver, Segmentation, Forecast to 2027"
     excerpt: "Global Artificial Intelligence in Diagnostics Market is valued approximately at USD 288 million in 2019 and is anticipated to grow with a healthy growth rate of more than 32.3% over the forecast period 2020-2027."
     publishedDateTime: 2021-07-07T02:29:00Z
@@ -67,6 +76,20 @@ related:
       - url: "https://www.arnnet.com.au/dimg/300x300/dimg/win20_edu_remotelearning_026.jpg"
         width: 300
         height: 225
+        isCached: true
+  - title: "Artificial Intelligence (AI) Software Market Analysis, Leading Players, Future Growth, Business Prospects Research Report Foresight To 2027"
+    excerpt: "Software market by RMoz gives all the essential information needed to comprehend the important developments in this market for the forecast period of 20AA to 20BB. Through this report, the readers gain 360-degree analysis of the market for Artificial Intelligence (AI) Software."
+    publishedDateTime: 2021-07-07T17:40:00Z
+    webUrl: "https://ksusentinel.com/2021/07/07/artificial-intelligence-ai-software-market-analysis-leading-players-future-growth-business-prospects-research-report-foresight-to-2027/"
+    type: article
+    provider:
+      name: The Sentinel
+      domain: ksusentinel.com
+    quality: 18
+    images:
+      - url: "https://i.ibb.co/9qThnqF/r66.png"
+        width: 640
+        height: 457
         isCached: true
 
 secured: "ieRBOPT9MXCSb+tW09HtXJJKOKCq58J1JfCFz0WQKMBrosIEnD7gUSZo0L6XPZ8zIpmmKI+ExDQxRO/lMvjg9ZYwB8akzIaQjr6K3gMLiY2HHis27P62+2o8kybYkhMuEyhiSgeYhfq0hJgtrDKSSM+s1vNQOTfrrGERz1iB3emcE2/nFqNO/ZbuTeS1k4xGHd2HJqJmzbWnfa4Najb/ar/vOVSZBYCMrixS5zT30EO9nJZLY9mSUqS7fQ5DMyLD2zmreTzt34BKlgDni4EvcifhucL1UKH8F/afrvn+Ra93ZwFa0U0GhI1K4C35a0/wJsTtIj0rGpALpYRgLXIhO5stmJ44xt0oMcEQuqSePSI=;vQcdVkbH0lrA9t9YLU33rA=="

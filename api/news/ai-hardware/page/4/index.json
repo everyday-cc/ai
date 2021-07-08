@@ -2,6 +2,58 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-06-04-tsmcs-5nm-chip-enhancements-steer-ai-driving-5g.md",
+      "title": "TSMC’s 5nm chip enhancements steer AI driving, 5G",
+      "excerpt": "Taiwan Semiconductor Manufacturing Company (TSMC) introduced N5A enhancement to 5-nanometer chips for AI applications.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/06/03/tsmcs-5nm-chip-enhancements-steer-ai-driving-5g/",
+      "originalUrl": "https://venturebeat.com/2021/06/03/tsmcs-5nm-chip-enhancements-steer-ai-driving-5g/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/12/GettyImages-1256651755-e1622663901654.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/06/03/tsmcs-5nm-chip-enhancements-steer-ai-driving-5g/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/03/tsmcs-5nm-chip-enhancements-steer-ai-driving-5g/amp/",
+      "publishedDateTime": "2021-06-03T10:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2021-06-02-uks-ai-startup-scene-has-grown-600-percent-over-past-decade.md",
       "title": "UK's AI startup scene has grown 600 percent over past decade",
       "excerpt": "The country's £32.76 billion AI sector brought in £2.41 billion worth of investment in 2020 alone, according to Tech Nation",
@@ -1366,50 +1418,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-20-mythic-ai-gets-funding-to-mass-produce-edge-chips.md",
-      "title": "Mythic AI gets funding to mass-produce edge chips",
-      "excerpt": "Just six months after unveiling its first AI inferencing processor, Mythic AI has announced a new round of funding for $70 million in Series C investment to begin mass production of its chips and to develop its next generation of hardware and software products.",
-      "sourceUrl": null,
-      "webUrl": "https://www.networkworld.com/article/3619026/mythic-ai-gets-funding-to-mass-produce-edge-chips.html",
-      "originalUrl": "https://www.networkworld.com/article/3619026/mythic-ai-gets-funding-to-mass-produce-edge-chips.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2020/10/neural-network1-100860577-large.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.networkworld.com/article/3619026/mythic-ai-gets-funding-to-mass-produce-edge-chips.amp.html",
-      "cdnAmpWebUrl": "https://www-networkworld-com.cdn.ampproject.org/c/s/www.networkworld.com/article/3619026/mythic-ai-gets-funding-to-mass-produce-edge-chips.amp.html",
-      "publishedDateTime": "2021-05-19T14:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Network World",
-        "domain": "networkworld.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "AI Hardware"
       ]
     }
   ],
