@@ -1,26 +1,27 @@
 ---
 category: news
 title: "Better gripping with intelligent picking robots"
-excerpt: "Production, warehouse, shipping - where goods are produced, stored, sorted or packed, picking also takes place. Researchers at the Karlsruhe Institute of Technology (KIT), together with partners from Germany and Canada,"
-publishedDateTime: 2021-07-07T04:00:00Z
-originalUrl: "https://www.eurekalert.org/pub_releases/2021-07/kift-bgw070721.php"
-webUrl: "https://www.eurekalert.org/pub_releases/2021-07/kift-bgw070721.php"
+excerpt: "Production, warehouse, shipping—where goods are produced, stored, sorted or packed, picking also takes place. This means that several individual goods are removed from storage units such as boxes or cartons and reassembled."
+publishedDateTime: 2021-07-07T16:23:00Z
+originalUrl: "https://techxplore.com/news/2021-07-intelligent-robots.html"
+webUrl: "https://techxplore.com/news/2021-07-intelligent-robots.html"
+ampWebUrl: "https://techxplore.com/news/2021-07-intelligent-robots.amp"
+cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-07-intelligent-robots.amp"
 type: article
-quality: 41
+quality: 59
 heat: -1
 published: false
 
 provider:
-  name: EurekAlert!
-  domain: eurekalert.org
+  name: techxplore.com
+  domain: techxplore.com
 
 topics:
   - AI in Robotics
   - AI
-  - Computer Vision
 
 images:
-  - url: "https://eurekalert.org/multimedia/pub/web/270048_web.jpg"
+  - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/better-gripping-with-i.jpg"
     width: 1440
     height: 960
     isCached: true
@@ -57,6 +58,6 @@ related:
         height: 720
         isCached: true
 
-secured: "G1E9QifXCbC19ghm/HlTRUSOzfgJlWZuVY9cu3YvsT7kfJ/sh3QHJYSaBuTVXDlBlgtIADL5/S/WTEx0g7ZOQucHUl0BhPHNbockYsPs1rEgGoVrIPJaE4YlNusNenOedCdraQbk9bnPEc4aKmmZyU4eeLL23sOqbSSGZoMEZO9/2P6bv8mhJrcAWuzW+mPyVvDZgZ5judpKXw6qLN1MJK/L359il8nQ/BiJRixrdsK2fqYRZ66qYKYQ4FV/pgHMUwNe2ng1w11ieDK+SJCBtkohEF9uIyIjj/7o28lovGzYU7FocEzvwDlbLXK37DyJCt3PKUwVjLUD/TB0Cl30fw5NGObw8zPNHjbD3noULBE=;57Szug9+aWIqXeOQOgZYVg=="
+secured: "eGRlxi39lqmPs6+R/9cCK9djT3EGEkBfKzaK98yOaDwleW0IA9Ep/d06ZblKBNfGEQsilTLO3D68CM379Of9quvyMk+zKiEhQzCQr5WsEEwcb3rZbzG6H9qHh/yx8yG0/paMs0Olhtk2VnGumqFWl1CEAQ4BmCUYMeEtus1EVOZaoolxSEr+CNL+arHmeDo9kQlh+YVyW0y/KrjhjTkJb7LwlyMbDo4VUMcEslAEGMH5er+A/lmPA2LU5xIgy2cDaO/AX+e3NggBK86wpadaQ31sYIRA1oQhfot7S/55AU0CPb1dVzWfvfd7DOtlF1MtVybZwC5LWf3VK7zCbzW0MWUEvF2J+fhW08f8doheD+E=;4bxvkR08IsUnvCjGtBSHOA=="
 ---
 

@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/bring-your-own-model
 webUrl: "https://aws.amazon.com/blogs/machine-learning/bring-your-own-model-with-amazon-sagemaker-script-mode/"
 type: article
 quality: 89
-heat: 100
+heat: 99
 published: true
 
 provider:

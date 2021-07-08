@@ -26,17 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Pirates' Ka'ai Tom: Lands on injured list"
-    excerpt: "Tom was placed on the 10-day injured list with a low back strain Saturday, retroactive to July 2. Tom didn't appear in Friday's loss to the Brewers, and he was apparently dealing with a back injury that will put him on the shelf through the All-Star break."
-    publishedDateTime: 2021-07-03T14:22:00Z
-    webUrl: "https://www.cbssports.com/fantasy/baseball/news/pirates-kaai-tom-lands-on-injured-list/"
-    ampWebUrl: "https://www.cbssports.com/fantasy/baseball/news/pirates-kaai-tom-lands-on-injured-list/amp/"
-    cdnAmpWebUrl: "https://www-cbssports-com.cdn.ampproject.org/c/s/www.cbssports.com/fantasy/baseball/news/pirates-kaai-tom-lands-on-injured-list/amp/"
-    type: article
-    provider:
-      name: CBSSports.com
-      domain: cbssports.com
-    quality: 37
   - title: "Pirates acquire 1B John Nogowski from Cardinals, place OF Ka'ai Tom on 10-day IL"
     excerpt: "With injuries making depth an issue at first base, the Pittsburgh Pirates acquired John Nogowski from the St. Louis Cardinals on Saturday for cash considerations. Nogowski, 28, had been designated for assignment by the Cardinals on June 28."
     publishedDateTime: 2021-07-03T18:53:00Z

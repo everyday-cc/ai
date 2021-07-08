@@ -165,17 +165,20 @@ related:
         width: 3024
         height: 4032
         isCached: true
-  - title: "Financial Markets Tech Platform Symphony Partners with Fintech Saphyre to Add AI Solutions to Workflows"
-    excerpt: "Symphony, the financial markets’ infrastructure and tech platform, has teamed up with Fintech company Saphyre, Inc. in order to integrate patented AI solutions into pre and post-trade workflows for front,"
-    publishedDateTime: 2021-07-03T13:08:00Z
-    webUrl: "https://www.crowdfundinsider.com/2021/07/177270-financial-markets-tech-platform-symphony-partners-with-fintech-saphyre-to-add-ai-solutions-to-workflows/"
-    ampWebUrl: "https://www.crowdfundinsider.com/2021/07/177270-financial-markets-tech-platform-symphony-partners-with-fintech-saphyre-to-add-ai-solutions-to-workflows/amp/"
-    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/07/177270-financial-markets-tech-platform-symphony-partners-with-fintech-saphyre-to-add-ai-solutions-to-workflows/amp/"
+  - title: "Here Are the Winners of the Swiss Fintech Awards 2021"
+    excerpt: "The Swiss Fintech Awards 2021 named FQX and Yokoy best fintech startups of the year. Cornelia Stengel named 'Fintech Influencer of the Year.'"
+    publishedDateTime: 2021-07-08T06:02:00Z
+    webUrl: "https://fintechnews.ch/partner-content/here-are-winners-of-the-swiss-fintech-awards-2021/47131/"
     type: article
     provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 23
+      name: fintechnews.ch
+      domain: fintechnews.ch
+    quality: 24
+    images:
+      - url: "https://fintechnews.ch/wp-content/uploads/2021/07/The-Swiss-Fintech-Awards-2021-Winners-Are.jpg"
+        width: 2048
+        height: 1136
+        isCached: true
 
 secured: "vROBFLexNM8XBjUlEESc3PgeeR97r52ypyndcDDIrEMbxmotsX/810XJq/8Egagh8msIhIA8eoO/Z+dpatTwme5cRu122VMNUZLXICYcIx/BdDllHUx2c40g3kw4QHfvSqj41AM+uYHLE+LM0EmQ12Ql36hbZxMPkbIHpQ0/Rat9FQVUPtZ3cJmJtJc8tXdaplLzoX0EsFFluS+SbNmc7l0xLssEZbRkqnYu3JaXvOH7fQkJJQTfr/ct//ENv5sRnCxuwfiu1fuTxBnlcn0wm/6xfa9zU17la49oLS/6pzLmC7f755LCMAnwAQ59cPnFZ6RasXv/tH5Zx+b0HZe7C+//p2xyERuvy8CizQtM8qQ=;gJ4cszwLwaewx24zOKa2lw=="
 ---

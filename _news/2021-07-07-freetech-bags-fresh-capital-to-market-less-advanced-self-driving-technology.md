@@ -25,17 +25,20 @@ images:
     isCached: true
 
 related:
-  - title: "Speech Technology Market Research Report by..."
-    excerpt: "Reportlinker.com announces the release of the report \"Speech Technology Market Research Report by Function, by Delivery"
-    publishedDateTime: 2021-07-07T18:47:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/21/07/g21883935/speech-technology-market-research-report-by-function-by-delivery-method-by-deployment-by-applicati"
-    ampWebUrl: "https://www.benzinga.com/amp/content/21883935"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/21883935"
+  - title: "From AI calculation, self-driving to astronomy, Chinese tech giants announce plans at 2021 WAIC"
+    excerpt: "From artificial intelligence (AI) calculation, self-driving cars to astronomy, leading Chinese tech companies including Baidu, Huawei and Tencent picked different areas to promotetheir AI businesses, their executives disclosed on Thursday during the ..."
+    publishedDateTime: 2021-07-08T05:13:00Z
+    webUrl: "https://www.globaltimes.cn/page/202107/1228142.shtml"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 24
+      name: Global Times
+      domain: globaltimes.cn
+    quality: 27
+    images:
+      - url: "https://www.globaltimes.cn/Portals/0/attachment/2021/2021-07-04/c5649c50-eae2-493c-b06f-9113282453e1.jpeg"
+        width: 1200
+        height: 720
+        isCached: true
 
 secured: "4OmD5fn/Y84nGZaylvu2//BzB2S/OLKyvj/PaoX34qxIXP6qZ4/MCTN476Iq7cYqchV/4UC20oM9aFahLU5/+8GGsq1UK/ALpU5p0fmy6+StxXScWgdiQ14+OhVTTWjq8cHhXP/YMs7knuXjQLIlprG2nPDpwcvc6Yc1adQfvP6SsZ8NGZ0IhRTgB6sNjw5WhyyAn6PkPCWV0kOWzfOWUyPmmHA0P+S+Jj2fjHTsT5mWOzxNnmnAH60eRlyzVkMEakLKBxP7nZKMwYOa9JLPmjMMls5PrnhxSiKkDfJk/jYiKINSvHdITeKMI3/p/IJgadZCrEabIUKE9hXD+YI2F7aWAqg/OTaZbqHcMy4orik=;RddGBsYqDehI8Vc8TkxJLg=="
 ---

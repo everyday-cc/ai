@@ -32,16 +32,18 @@ images:
 
 related:
   - title: "Better gripping with intelligent picking robots"
-    excerpt: "Production, warehouse, shipping - where goods are produced, stored, sorted or packed, picking also takes place. Researchers at the Karlsruhe Institute of Technology (KIT), together with partners from Germany and Canada,"
-    publishedDateTime: 2021-07-07T04:00:00Z
-    webUrl: "https://www.eurekalert.org/pub_releases/2021-07/kift-bgw070721.php"
+    excerpt: "Production, warehouse, shipping—where goods are produced, stored, sorted or packed, picking also takes place. This means that several individual goods are removed from storage units such as boxes or cartons and reassembled."
+    publishedDateTime: 2021-07-07T16:23:00Z
+    webUrl: "https://techxplore.com/news/2021-07-intelligent-robots.html"
+    ampWebUrl: "https://techxplore.com/news/2021-07-intelligent-robots.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-07-intelligent-robots.amp"
     type: article
     provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 41
+      name: techxplore.com
+      domain: techxplore.com
+    quality: 59
     images:
-      - url: "https://eurekalert.org/multimedia/pub/web/270048_web.jpg"
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/better-gripping-with-i.jpg"
         width: 1440
         height: 960
         isCached: true

@@ -26,6 +26,22 @@ images:
     height: 230
     isCached: true
 
+related:
+  - title: "Company Co-founded by LTI Faculty To Enhance Zoom's Translation Capabilities"
+    excerpt: "Zoom intends to work with the research scientists at KITES to improve meetings by providing multi-language translation."
+    publishedDateTime: 2021-07-07T13:18:00Z
+    webUrl: "https://www.cmu.edu/news/stories/archives/2021/july/kites-acquisition.html"
+    type: article
+    provider:
+      name: cmu.edu
+      domain: cmu.edu
+    quality: 21
+    images:
+      - url: "http://www.cmu.edu/news/stories/archives/2021/july/images/kites-acquisition-900x600-min.jpg"
+        width: 900
+        height: 600
+        isCached: true
+
 secured: "kQp23GRQy8lEUdkj+VdCr0TN6MtvWihqmmF71a85Daq1qkLWstKmy0+Z1W/P5RFBhrT/fDi3drJqBCj6oUYRH/sjpt9HYMBUWnQNv/q2uPA+G2MvIZQ1ysBFK+POHUe7vEKNpjFrO+1e42LFNFU+EhiEwM6NdG9XiAj0gWaMD77uRgCn9vc/bdGAU8OaJVUWb1Gmh5SHcDqQkgXO6gyiS8KaI+jJIvhRDeaHbHp5QThU+BQgliqWdsSEoHnuTWcVviWZMRq7dAIoz0e0se1cqz4hZ//LtTkeHdNITpg9edX92xTCDcnd4qVPZrXuryBxvMzjqRCtiL/oKppYtHYnWdP8o8elVYcGfvJ2YfXeRt0=;ZZDXaddge8hDisy0mYUDaw=="
 ---
 

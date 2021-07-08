@@ -157,17 +157,20 @@ related:
         width: 2603
         height: 1338
         isCached: true
-  - title: "Financial Markets Tech Platform Symphony Partners with Fintech Saphyre to Add AI Solutions to Workflows"
-    excerpt: "Symphony, the financial markets’ infrastructure and tech platform, has teamed up with Fintech company Saphyre, Inc. in order to integrate patented AI solutions into pre and post-trade workflows for front,"
-    publishedDateTime: 2021-07-03T13:08:00Z
-    webUrl: "https://www.crowdfundinsider.com/2021/07/177270-financial-markets-tech-platform-symphony-partners-with-fintech-saphyre-to-add-ai-solutions-to-workflows/"
-    ampWebUrl: "https://www.crowdfundinsider.com/2021/07/177270-financial-markets-tech-platform-symphony-partners-with-fintech-saphyre-to-add-ai-solutions-to-workflows/amp/"
-    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/07/177270-financial-markets-tech-platform-symphony-partners-with-fintech-saphyre-to-add-ai-solutions-to-workflows/amp/"
+  - title: "Here Are the Winners of the Swiss Fintech Awards 2021"
+    excerpt: "The Swiss Fintech Awards 2021 named FQX and Yokoy best fintech startups of the year. Cornelia Stengel named 'Fintech Influencer of the Year.'"
+    publishedDateTime: 2021-07-08T06:02:00Z
+    webUrl: "https://fintechnews.ch/partner-content/here-are-winners-of-the-swiss-fintech-awards-2021/47131/"
     type: article
     provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 23
+      name: fintechnews.ch
+      domain: fintechnews.ch
+    quality: 24
+    images:
+      - url: "https://fintechnews.ch/wp-content/uploads/2021/07/The-Swiss-Fintech-Awards-2021-Winners-Are.jpg"
+        width: 2048
+        height: 1136
+        isCached: true
   - title: "How to find funding in the fintech space and what the Government can do to support the UK’s position"
     excerpt: "Over the last decade, the UK has been undergoing a fintech revolution seeing increased opportunities in global trade, jobs, and innovation to become the global hub that it is today. Yet for many, the image of fintech is stuck in Shoreditch,"
     publishedDateTime: 2021-07-07T19:18:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.govtech.com/products/nist-proposal-aims-to-reduce-bias-i
 cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/products/nist-proposal-aims-to-reduce-bias-in-artificial-intelligence?_amp=true"
 type: article
 quality: 72
-heat: 72
+heat: 82
 published: true
 
 provider:
@@ -25,6 +25,17 @@ images:
     height: 438
     isCached: true
 
-secured: "7dgM4+G6rmQjo+mW2X2i7qUdmY5C7G1Bs4f08eLCd5Ivv9FAnyqW+26rGFc7RBBGF4j0RKzTUFgksrum1+vs1NAurFDSdibsoPB9KeisrU4BJnyAiz5714kEmrA+hQ7Oe3T06lXtjgRh3EepuzlfR3bKGe6DmGkB+2kwKWPQAjHC3QPXCXlszKjlxIQzBqfYU2H1F8kGIM6Q1x/NSMxUwllLz6Y9+NtBmursZkCaqGYEJ9GPWVSBQXPobNW9ZezatxtYcDXdhfK81QRFKbO9Si/GtqgA4EMxBy4ix06oOKIEClHN1MudpvPGr7n0aRx/T8xIy1SZ1mz+KK10xp1YEJDBfbhrCkZDXgcnB27+2jo=;4sbZhqe9LhtLTQO/aCuGBg=="
+related:
+  - title: "Trust in AI needed to boost adoption"
+    excerpt: "PwC Singapore and responsible artificial intelligence firm, BasisAI, are collaborating in a bid to increase trust in the use of AI through a Responsible AI framework and platform that aims to increase the level of transparency and understanding of AI,"
+    publishedDateTime: 2021-07-08T07:31:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/trust-in-ai-needed-to-boost-adoption-1030588447"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 49
+
+secured: "Y0IrWTXrpuQPzz4q/1EMWbrDTbC/vWFnh0QVWrzomLtbtB04HhuUefpT3ACVkpHev8cEOY+Npj2vNbVFtxaNO+6pY2RMxPGN942sqxOow2JD6iL/qJ3jEBIig/YTJJT1lVwDwxAKN+bFLp3HnINaOAXNnGVBweVr0jyLkS69vsAe92CO7TD3+JIsCXwq6NjCDNDmi4E7dNCuzRiaOehp3f14uSFCMBnxRJsU8gbRELo4mpoXKpb7+R8L0EtIV5Bca3+Reh4MY3PXc2PCNGhDjdvYKSfW1FhOIA/JEmG2nNSE1tk2doMt34sNTXmEgtdQ/LAML03GC2LB/5744oqNWYYB4j2coNgPbSPxHe7ExP2rKZODv5zoLLGrO8/llw7+bYwn/nP5/bmozALRuAXra/iKjohuJXDgFpxYsb00a4/2gOp9USDnPQZDhnMChFmzca9xvUj/ycyGmDRKqQxSp5TbzOcs+77E9JJmC82H0ycRwnOPGknPHcfStmGvw2lmDlZWRjTRURUlKyjhCxJ4rA==;dCFRNvEyF1pJ+g7FWt8Nkg=="
 ---
 

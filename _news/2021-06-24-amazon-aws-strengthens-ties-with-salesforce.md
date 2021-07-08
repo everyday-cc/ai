@@ -1,22 +1,28 @@
 ---
 category: news
 title: "Amazon AWS Strengthens Ties with Salesforce"
-excerpt: "Amazon's (AMZN) cloud unit, Amazon Web Services (AWS), and Salesforce (CRM) are partnering to make it easier for developers to build and launch customer applications. The two have also strengthened ties to enable the sharing of data and workflows across their platforms."
-publishedDateTime: 2021-06-24T07:43:00Z
-originalUrl: "https://www.nasdaq.com/articles/amazon-aws-strengthens-ties-with-salesforce-2021-06-24"
-webUrl: "https://www.nasdaq.com/articles/amazon-aws-strengthens-ties-with-salesforce-2021-06-24"
-ampWebUrl: "https://www.nasdaq.com/articles/amazon-aws-strengthens-ties-with-salesforce-2021-06-24?amp"
-cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/amazon-aws-strengthens-ties-with-salesforce-2021-06-24?amp"
+excerpt: "Amazon's (AMZN) cloud unit, Amazon Web Services (AWS), and Salesforce (CRM) are partnering to make it easier for developers to build and launch customer"
+publishedDateTime: 2021-06-24T11:40:00Z
+originalUrl: "https://www.smarteranalyst.com/yahoo/amazon-aws-strengthens-ties-with-salesforce/"
+webUrl: "https://www.smarteranalyst.com/yahoo/amazon-aws-strengthens-ties-with-salesforce/"
+ampWebUrl: "https://www.smarteranalyst.com/yahoo/amazon-aws-strengthens-ties-with-salesforce/amp/"
+cdnAmpWebUrl: "https://www-smarteranalyst-com.cdn.ampproject.org/c/s/www.smarteranalyst.com/yahoo/amazon-aws-strengthens-ties-with-salesforce/amp/"
 type: article
 
 provider:
-  name: Nasdaq
-  domain: nasdaq.com
+  name: Smarter Analyst
+  domain: smarteranalyst.com
 
 topics:
   - AWS AI
   - AI
 
-secured: "oLDQJhLzkUgUMYxmYBqYTuEMKt81FFsouRbronHgDENkfNl/1KfnRcEdzAIoA+KgTZU9VtX98jadEGycR44LTorF61qhNxYsOAVB2SFPqUOdGzoQ2ik7CDIqvqprFMemKUC73AU8gswUNzz9DfWlOqgFVEsERrl6xRWBGtFRi++k0hdPTEakWHxO7DAxp/Atm77PwxjcoLwtLf7Yepv7TOoFUd/CjiqqDN4xypSZ80+kZkwPHxoYsG68QwxEjGK5dxSh3S2T2ZOxLSjWn0G/hRFaUSOoumt3AZtmxmLLiv6CEZeVDI9elEoN3rgZSA6QVhSEjPOsdfLEJk11HcNRQfDJLF8CNFR9V/8hTmas+so=;qKTarP3aHt/Im6cHxa0oyA=="
+images:
+  - url: "https://587710.smushcdn.com/809180/wp-content/uploads/2021/05/Amazon-750x406-1.jpg?size=1024x1024&lossy=0&strip=1&webp=0"
+    width: 750
+    height: 406
+    isCached: true
+
+secured: "OgKyaGoKsjwUdsZHeS8t3HrB/PCqsUPwP23TvN9epvfK6ZynjmhvE3w611dZWzaCLifIP1YzV4CpHrZcmgYyaGM+B9HdCyybetrb7wzaEYQla4lneFsBkOkqBglJuEYjLV3GFeJRTggfTQNkmqols00HV3qIfhYHJAEXXxMg+AXA+MY8zw7dx77cZyYBp1QYWMnZMzMAn2bBfgCOBVmvEOhkBnp61WIusm7GH2L0k18IKO2CNaM2kFnU4yAgUysJ36s8mxn1V6DxiggiynHOoH0+jJ+1LtjR/HU4X184EPQTeseTYxFcAsPJEOh1DD8rQSKCFJ0CcbJdz6bidl3fV4FU9+boKkvNG/jHfOZxpnc=;C8m4KFUcIyoIz3AoWJoCGw=="
 ---
 

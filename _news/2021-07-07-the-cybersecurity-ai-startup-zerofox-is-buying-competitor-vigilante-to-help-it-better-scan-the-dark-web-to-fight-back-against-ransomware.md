@@ -1,12 +1,12 @@
 ---
 category: news
 title: "The cybersecurity AI startup ZeroFox is buying competitor Vigilante to help it better scan the dark web to fight back against ransomware"
-excerpt: "Threat intelligence firm ZeroFox announced Wednesday that it will acquire competitor Vigilante. ZeroFox has raised nearly $200 million for its"
-publishedDateTime: 2021-07-07T13:34:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/zerofox-acquires-vigilante-to-build-out-security-ai-ceo-interview-2021-6"
-webUrl: "https://markets.businessinsider.com/news/stocks/zerofox-acquires-vigilante-to-build-out-security-ai-ceo-interview-2021-6"
+excerpt: "Threat intelligence firm ZeroFox announced Tuesdsay that it will acquire the competitor startup Vigilante."
+publishedDateTime: 2021-07-07T13:00:00Z
+originalUrl: "https://www.businessinsider.com/zerofox-acquires-vigilante-to-build-out-security-ai-ceo-interview-2021-6"
+webUrl: "https://www.businessinsider.com/zerofox-acquires-vigilante-to-build-out-security-ai-ceo-interview-2021-6"
 type: article
-quality: 34
+quality: 36
 heat: -1
 published: false
 
@@ -20,11 +20,12 @@ provider:
 
 topics:
   - AI
+  - Facebook AI
 
 images:
-  - url: "https://images2.markets.businessinsider.com/60d9d4bfdf1db80018f3a800?format=jpeg"
-    width: 701
-    height: 526
+  - url: "https://i.insider.com/60d9da04e31c5f0019fdde6d?width=1200&format=jpeg"
+    width: 1200
+    height: 600
     isCached: true
 
 related:
@@ -68,6 +69,6 @@ related:
         height: 259
         isCached: true
 
-secured: "boMHwzPbnmJWpbv5vXVr2kcypVemoAuMJVaPd+Z+TXAJhA4DjvsT0O1T8XjlyX+mhCMnvVaYlAnUpx9dfMl4NjFhhhSrFJIy09/ICNqRPNQwYzkkrVBwje+KE77ghZnzOWj3r0njPX/U1V178WjvAI1CHP0fBZuFXzImKsnMuM9/nfcQhgPkxYXvD/Vm//nHgbrMjfeIW0/jy+l457Fo1Dq1FXa1Njh88mJS2aPtgWsu3R0c8u+YmjvTW3zsEyRDf3Hh5mfDHiAtmEkQGvcHDUYFa5ScvEwxTJJs0hOf6UiD+fhoxhWLnr8s78dYl0xSLefkQ/AAENywHOmehmR0niV+y4obbbhQQU43BCwqe/U=;b2PqSrt4/FH7i2/wKM8ozA=="
+secured: "RrSkCtD4yXNqbAe+NFeFaNd94Z2/wCCiaIHq5ufIRlh2uLTh+WaoKvwgEL13WV6mYNyirDkEMAyb79zgWNhMYHwevFlT1hZ5yf31hl9b5DhOHCrYv7M1pmh0QkNVETCr+l5LxJpyBOoIqluzLeNY/GeWeQ2IInREkNOjlbg79HyNU64A6nMeNY9kYwgf1cpVgsXCcG2mnC5ZPbEC/uEHsKiCMqI9YxzmB769cFfX9qJ91U/GKqEvSpLBU/KUIUuf4GvSSc+z/5x1eb5nmyh1kY8g90yh3i1DeHM3ZBOYt65x5if5g4DI+d6j4jOPlFLciWUzFUJAMnT/1P5iqQDKGoMzbJsl0SbDmHzZr046gNk=;lZU0M/c+yazCGtrOLHGA9g=="
 ---
 

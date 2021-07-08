@@ -90,6 +90,20 @@ related:
         width: 800
         height: 392
         isCached: true
+  - title: "AI facial recognition co AnyVision raises $235m"
+    excerpt: "Israeli AI-driven facial recognition company AnyVision has announced the completion of a $235 million financing round from SoftBank Vision Fund 2 and Eldridge with participation from existing ..."
+    publishedDateTime: 2021-07-08T06:40:00Z
+    webUrl: "https://en.trend.az/world/israel/3451907.html"
+    type: article
+    provider:
+      name: Trend News Agency
+      domain: trend.az
+    quality: 54
+    images:
+      - url: "https://cdn.trend.az/2020/11/24/dollar_241120.jpg"
+        width: 600
+        height: 400
+        isCached: true
   - title: "AnyVision Raises $235M from SoftBank Vision Fund 2 and Eldridge to Change the Face of Physical Security with Access Point AI"
     excerpt: "AnyVision, the world’s leading Recognition AI company, today announced it has secured an investment of $235 million from SoftBank Vision Fund 2i and Eldridge with further participation from existing investors. The infusion is one of the largest funding ..."
     publishedDateTime: 2021-07-07T09:06:00Z

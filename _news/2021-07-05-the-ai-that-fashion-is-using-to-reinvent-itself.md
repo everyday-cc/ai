@@ -7,7 +7,7 @@ originalUrl: "https://www.wired.co.uk/article/ai-personalised-shopping"
 webUrl: "https://www.wired.co.uk/article/ai-personalised-shopping"
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
@@ -22,6 +22,24 @@ images:
     width: 1280
     height: 720
     isCached: true
+
+related:
+  - title: "How IBM Is Using Artificial Intelligence to Combat Bias in Advertising"
+    excerpt: "IBM is trying to figure out how to use artificial intelligence to identify bias in advertising — and mitigate it. Coming up with an equitable ad industry is better for both consumers and companies, said Sheri Bachstein,"
+    publishedDateTime: 2021-07-06T20:58:00Z
+    webUrl: "https://cheddar.com/media/ibm-artificial-intelligence-advertising-bias"
+    ampWebUrl: "https://cheddar.com/media/ibm-artificial-intelligence-advertising-bias.amp"
+    cdnAmpWebUrl: "https://cheddar-com.cdn.ampproject.org/c/s/cheddar.com/media/ibm-artificial-intelligence-advertising-bias.amp"
+    type: article
+    provider:
+      name: Cheddar
+      domain: cheddar.com
+    quality: 59
+    images:
+      - url: "https://img.chdrstatic.com/media/8d08f19d-ecb5-4675-bdbf-72915564b7e4.jpg?width=1200&source=backend&auto=webp"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "19FELu0eNQLPZbTFSqUiGUM0yvWaS57JqtpM6UsdqLyGefnGAZd+6Nx5s4lVXW98AmtvjKB892KDGbu/nD+JHGsmdn4knv9qrQoDuQq3IGX+8VgXWd7Po5ow8+ji8Yx88t6kIHXV0CcrUBKkKJlE6br7wsNn6dI3vDhPBU800d1hcKk+vDmfPuC+l1Kuog5o4+3tojRAUxLQq1G9b95lS6tJ5zTake3LeFo6HDTNM3BFCeJVdlnSXts5zjn5vlWns8gZs3b7ADvLvTGCmmBsO7k/8+k1ulns93upuIVRZLjq7SI+oBDAm645YYnMPlIcIo4pQ9gQmX9gaAI+zHcgmF06Bu/LwAC0A4B3Zc4wRKw=;n7j/r43g5ixl8zWahiP2gg=="
 ---

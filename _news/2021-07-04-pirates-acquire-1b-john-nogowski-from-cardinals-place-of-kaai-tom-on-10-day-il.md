@@ -34,17 +34,6 @@ related:
         width: 375
         height: 211
         isCached: true
-  - title: "Pirates' Ka'ai Tom: Lands on injured list"
-    excerpt: "Tom was placed on the 10-day injured list with a low back strain Saturday, retroactive to July 2. Tom didn't appear in Friday's loss to the Brewers, and he was apparently dealing with a back injury that will put him on the shelf through the All-Star break."
-    publishedDateTime: 2021-07-03T14:22:00Z
-    webUrl: "https://www.cbssports.com/fantasy/baseball/news/pirates-kaai-tom-lands-on-injured-list/"
-    ampWebUrl: "https://www.cbssports.com/fantasy/baseball/news/pirates-kaai-tom-lands-on-injured-list/amp/"
-    cdnAmpWebUrl: "https://www-cbssports-com.cdn.ampproject.org/c/s/www.cbssports.com/fantasy/baseball/news/pirates-kaai-tom-lands-on-injured-list/amp/"
-    type: article
-    provider:
-      name: CBSSports.com
-      domain: cbssports.com
-    quality: 37
 
 secured: "fgB3GPx28xQ8k1faAoH0XeEuGVNx+My5fy185L++dhR8W40SK+OQ5FLRpWw+bCTOi6ExMoPmrOoIJFXd3SfT2LFmFEr5YzpRnVltrlJDyNcCs5mrZ2vpgrE6BOPIiou+Q3JFBrWAhhf+EnuBwb4n15nqugCWbqCSf3LvTPrwyZznjg0aJdwVWU8AzlvHbA8bSsBxEJVP9cQ6Sf8IoRvkPMfTtR1LCMguXdnBBTco747BxJtx8C4uJhDlpacvsBEnidT7BJKNm+c04yZH+Bc09D1WBzF4YuljgQ/OXzsQ2YsGBRBiwHwrZ46dgV1QrLdxqix8ggHz5U0GHfJXTqbIUclKmzoX2pGBEu9rBKAKtNbBBhYtXDc4C5UgMeZDuQMjg/B22M64QvZM666XkXINxNqI3G0C/gGXO/yMf0Esr0A0uaR8jZwKEFXH1X98Ds68cEe9UbIdREQh5Bkv+ArcUU/4ebGVVIz/Y7/dHZRdkU4dCCJP0Jcuhvzdy3p2+lmM4V2eaNC3o6DHEFKXHA4PRw==;aSck3agtuwiPmirNLdW9Lg=="
 ---

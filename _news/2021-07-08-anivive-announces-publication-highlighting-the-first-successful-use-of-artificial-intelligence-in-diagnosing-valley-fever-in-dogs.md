@@ -1,23 +1,29 @@
 ---
 category: news
 title: "Anivive Announces Publication Highlighting the First Successful Use of Artificial Intelligence in Diagnosing Valley Fever in Dogs"
-excerpt: "Anivive, a pet health technology company transforming the therapeutic discovery and development process, announced the publication of \"Detecting Pulmonary Coccidioidomycosis (Valley fever) with Deep Convolutional Neural Networks,"
-publishedDateTime: 2021-07-07T17:05:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/2021/07/07/9404679.htm"
-webUrl: "https://www.tmcnet.com/usubmit/2021/07/07/9404679.htm"
+excerpt: "Anivive, a pet health technology company transforming the therapeutic discovery and development process, announced the publication"
+publishedDateTime: 2021-07-07T17:00:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/anivive-announces-publication-highlighting-the-first-successful-use-of-artificial-intelligence-in-diagnosing-valley-fever-in-dogs-301327101.html"
+webUrl: "https://www.prnewswire.com/news-releases/anivive-announces-publication-highlighting-the-first-successful-use-of-artificial-intelligence-in-diagnosing-valley-fever-in-dogs-301327101.html"
 type: article
-quality: 0
-heat: 0
+quality: 10
+heat: 10
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
-  - AI in Healthcare
+  - Machine Learning
   - AI
 
-secured: "5v1jQG1Os+Wf+eMiLqhovKSx8K92pYPuOuSXCsw3bKkxzUeLC6no4cbwngbMXD2l1k8I2sNWnVCn9VM6n3aw+m36by3nHIz80Cp/htgsmhDJv513b7CvXrhvJcVNAskncBAMoHzjLN3IwTgfm5qugNAXAE1TvW6lN1Mjg8cDBhNw2q3bmQd+1YO0fY4uEGKWYA9qIjvxTpsIGQmfo1ZxqPfOmxdw5L73zt4DILAXIdcnsCRRXMM0Q0reoQwGnO2FQ4jbdY9qkDs4yGmIxIfLp+Yc+yIPaBfEftQ6mLqINuOqoiaM7sT1bGuchz5Qv7QxwOvRyg0XLNlzR0sEI2fdpr13I/bDajJIN0mpJ8eWL6w=;cB2+VEfb/An1h8sMPUksYQ=="
+images:
+  - url: "https://mma.prnewswire.com/media/1424402/Anivive_Logo.jpg?p=facebook"
+    width: 2625
+    height: 1374
+    isCached: true
+
+secured: "hrPgHrt3ODA0CAnIlD3KEPZAtUz8rA6koM7H0xaqQ6TXckbEfhJK2Q3jMJgvTw5ln2DDBbhKphgUMS/1Tc7LZ1N0mPCM58y0oviRg/euFB86nhhMLlupugHb6mEGZ0KlxSnBnipB3wX2uY0KL+aRwdDn+1CcaxO70QrgR0yRVzxwg/iJ/bCk3VPR5gnR8S8fMVkgVlxSlWUSpC800b0ig///1u4c4phtg4SgBxfSLKm6X08pAHrCUFgey5EWzRxczWjfgYjdRYPNBC58/SOmr+ftKIzGw6wECyuzcCnADG0ISvzVL4aC+pUQfyDtC2x4SB8Xj70adw5Zu9N8NRS+WDd/4LStSsLHv1ZfcNz9uec=;20QixGN977WP5YBLbwDMOA=="
 ---
 

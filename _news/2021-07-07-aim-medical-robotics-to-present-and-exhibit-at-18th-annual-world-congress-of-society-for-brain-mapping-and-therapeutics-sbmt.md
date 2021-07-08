@@ -1,22 +1,28 @@
 ---
 category: news
 title: "AiM Medical Robotics to Present and Exhibit at 18th Annual World Congress of Society for Brain Mapping and Therapeutics (SBMT)"
-excerpt: "AiM Medical Robotics is one of the leaders in the emerging field of artificial intelligence-guided therapy\" said, Dr. Babak Kateb, founding chairman of the board of directors & CEO of SBMT, President and Scientific Director of the Brain Mapping Foundation ..."
-publishedDateTime: 2021-07-07T15:54:00Z
-originalUrl: "https://www.morningstar.com/news/pr-newswire/20210707fl35193/aim-medical-robotics-to-present-and-exhibit-at-18th-annual-world-congress-of-society-for-brain-mapping-and-therapeutics-sbmt"
-webUrl: "https://www.morningstar.com/news/pr-newswire/20210707fl35193/aim-medical-robotics-to-present-and-exhibit-at-18th-annual-world-congress-of-society-for-brain-mapping-and-therapeutics-sbmt"
+excerpt: "AiM Medical Robotics, a leading developer of MRI-safe intraoperative robotics for neurosurgery, today announced that they will be presenting and exhibiting at the prestigious 18th Annual World Congress of Society for Brain Mapping and Therapeutics (SBMT),"
+publishedDateTime: 2021-07-07T15:46:00Z
+originalUrl: "https://apnews.com/press-release/pr-newswire/robotics-technology-health-f3bea85bf0db9025cc5478235a5ecb84"
+webUrl: "https://apnews.com/press-release/pr-newswire/robotics-technology-health-f3bea85bf0db9025cc5478235a5ecb84"
 type: article
-quality: 21
-heat: -1
+quality: 41
+heat: 41
 published: false
 
 provider:
-  name: Morningstar%2c Inc.
-  domain: morningstar.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI in Robotics
   - AI
+
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
 
 related:
   - title: "AiM Medical Robotics to Present and Exhibit at 18th Annual World Congress of Society for Brain Mapping and Therapeutics (SBMT)"
@@ -34,6 +40,6 @@ related:
         height: 720
         isCached: true
 
-secured: "zy2jUW954m1afGo4X2efABlLu6HcL9Zesxc+YXfvOKvKRMw6SUq9HmMRIEQgGiHw4NH3YhWUYaNZhO5dDHx6rZDJLiZ0QbABsyT+oT5ET1mEiKzICU776c0sNrdD0h0xewHqDTogZdgZTx3j6smiD0HkHs/7+UmLtnh9NT0qf0A4hyKRvmo5gUosgLmPWcdU3yFm+qaLRB/gEVCUixI7xy88QbTfAz9/PtWhCAEVB9A0wU4AEtKC8Z5Spuy4ChSM7vtNmVRdpQMzZXuCnxRS8JDDLAnOYoiuuVVsCRKnWYnFmlHLeQ1zwuBbnc+/GbMWdpVXzaNpZ83PTwV9KGcHk8VSxB7iL4RMONNq7J1r+8g=;1zbx1UJZ9lmtp8eSPopMIQ=="
+secured: "88Lw3XwtVmRI1wRJPR1+qazx/714rPSLClNZq/5DAisN9Q86wv8jZFU/DDIB4Bkdqfx1y3ukDhcsYJyRtTMloZ1+FUOJLeEYyXMiIhIKnmPspUXeYTLCH1NMccgiYuwyab9eqSZfZc49ngAxbs9G0qb50pmrg44Iuot7LwsKEohSCLPx9tOxkh8UWGTOKSxW2k3lAWcfa3g8xiGbXYxzi4n0ryqsWyb+udke//P1r+z6pwnHjLGsi7/vAfwBWzGAa09zSGX7VSm2lT6xQ9oQvd7iAw5nBBTkML+Xktxyg0DrIkefCFQsbHSzlgjIFoar+asIPiIKcZa81iCLsY8oKi502jq3dcQ2wxlsqLTjBw4=;wxzANRSBpw5pz6yWdeDAIg=="
 ---
 

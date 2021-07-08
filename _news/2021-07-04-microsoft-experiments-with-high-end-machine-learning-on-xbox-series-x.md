@@ -82,6 +82,20 @@ related:
         width: 400
         height: 400
         isCached: true
+  - title: "Reply Shapes the Future of Autonomous Mobile Robots with the Power of Microsoft Azure"
+    excerpt: "The solution combines Microsoft Azure services ... Reply integrates Azure Cognitive Services, Machine Learning and DevOps as well as Power Apps and Power BI. Thanks to Azure's intelligent service ..."
+    publishedDateTime: 2021-07-06T07:39:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/21/07/b21850593/reply-shapes-the-future-of-autonomous-mobile-robots-with-the-power-of-microsoft-azure"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 47
+    images:
+      - url: "https://cdn.benzinga.com/files/imagecache/og_image_social_share_1200x630/sites/all/themes/bz2/images/bz-icon.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Deep Learning Market Size and Growth to 2028 | Key Players – Amazon Web Services (AWS), Google, IBM, Intel, Micron Technology, Microsoft"
     excerpt: "The Deep Learning Market report forecasts promising growth and development for the period 2021-2028. The Deep Learning market research report defines key statistical data presented in an organized format including graphs,"
     publishedDateTime: 2021-07-06T03:55:00Z
@@ -118,15 +132,6 @@ related:
       name: manometcurrent.com
       domain: manometcurrent.com
     quality: 28
-  - title: "Reply Shapes the Future of Autonomous Mobile Robots with the Power of Microsoft Azure"
-    excerpt: "The solution combines Microsoft Azure services ... Reply integrates Azure Cognitive Services, Machine Learning and DevOps as well as Power Apps and Power BI. Thanks to Azure's intelligent service ..."
-    publishedDateTime: 2021-07-06T07:38:00Z
-    webUrl: "https://www.morningstar.com/news/business-wire/20210706005133/reply-shapes-the-future-of-autonomous-mobile-robots-with-the-power-of-microsoft-azure"
-    type: article
-    provider:
-      name: Morningstar%2c Inc.
-      domain: morningstar.com
-    quality: 27
 
 secured: "6HXRTN/1IhH1oNMHSNeTqvvnWXcYF50TW+KuYNI2tPGHX6bXqQpH7t5VEpBCNDzDIXYhg3reSYydMPcyUyYlG0EmODgULYEG27XX2nqcd3Uk2WvZNYJ+gMx/wWkI7l3Y/k4cHX3TzjmiC+L7eQEsOA5N7k+/O8WCCQhmt7TcB0x4AoW31e2ltpasP+OLK/zyfJbgfSiLwrwcdk6smGBYvqt+OaEzbCpRWKli2LO974+Cz+SzVN6wZmAqlbS8/dGeDU+vzKhxZMYlcPYNiTfnrrl6VEdxUoTCei0l98r9JqKgTDtFiL/D1o8Gu2+p1JrNVTA3TcXENFMGvSaLzsHuYbOYUWDaH+MBCHvPRMc7MGQ=;8u5wBtXj3IL+eT9ZAPK4sA=="
 ---
