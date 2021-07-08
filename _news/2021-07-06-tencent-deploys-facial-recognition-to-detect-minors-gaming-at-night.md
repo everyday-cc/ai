@@ -7,7 +7,7 @@ originalUrl: "https://www.sixthtone.com/news/1007915/tencent-deploys-facial-reco
 webUrl: "https://www.sixthtone.com/news/1007915/tencent-deploys-facial-recognition-to-detect-minors-gaming-at-night-"
 type: article
 quality: 139
-heat: 359
+heat: 369
 published: true
 
 provider:
@@ -328,6 +328,20 @@ related:
       - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/07/08133124/tencent-gaming-facial-recognition-monitoring.png"
         width: 1240
         height: 510
+        isCached: true
+  - title: "Tencent rolls out facial recognition tech to enforce late-night gaming curfews"
+    excerpt: "Chinese publisher Tencent wants to enforce China’s gaming session restrictions for younger players with new technology: facial recognition."
+    publishedDateTime: 2021-07-08T18:14:00Z
+    webUrl: "https://gamasutra.com/view/news/384861/Tencent_rolls_out_facial_recognition_tech_to_enforce_latenight_gaming_curfews.php"
+    type: article
+    provider:
+      name: Gamasutra
+      domain: gamasutra.com
+    quality: 35
+    images:
+      - url: "https://d1506sp6x4e9z7.cloudfront.net/gamasutra/uploads/1038506.png"
+        width: 1066
+        height: 915
         isCached: true
   - title: "China’s Tencent Is Using Facial Recognition To Stop Kids From Playing Video Games at Night"
     excerpt: "Chinese gaming giant Tencent is using facial recognition software to prevent kids from gaming between the hours of 10 p.m. and 8 a.m. “We will conduct a face screening for accounts registered ..."

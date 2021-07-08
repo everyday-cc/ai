@@ -97,6 +97,17 @@ related:
         width: 400
         height: 400
         isCached: true
+  - title: "Blue Prism & Lateetud, Inc. recognized as finalists of the 2021 Microsoft AI Partner of the Year"
+    excerpt: "Blue Prism and Lateetud created a turnkey, cloud-delivered solution on Azure to automate SBA PPP loans, combining Blue Prism's intelligent automation platform with the Microsoft Power Platform and Azure Cognitive Services. The solution uses Azure Form ..."
+    publishedDateTime: 2021-07-08T19:40:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/21/07/n21904040/blue-prism-lateetud-inc-recognized-as-finalists-of-the-2021-microsoft-ai-partner-of-the-year"
+    ampWebUrl: "https://www.benzinga.com/amp/content/21904040"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/21904040"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 41
   - title: "Deep Learning Market Size and Growth to 2028 | Key Players – Amazon Web Services (AWS), Google, IBM, Intel, Micron Technology, Microsoft"
     excerpt: "The Deep Learning Market report forecasts promising growth and development for the period 2021-2028. The Deep Learning market research report defines key statistical data presented in an organized format including graphs,"
     publishedDateTime: 2021-07-06T03:55:00Z
@@ -106,6 +117,20 @@ related:
       name: manometcurrent.com
       domain: manometcurrent.com
     quality: 35
+  - title: "Qlik Recognized as a Finalist of 2021 Microsoft Analytics Partner of the Year Award"
+    excerpt: "Qlik ® today announced it has been named a finalist of the 2021 Microsoft Analytics Partner of the Year Award. The company was honored among a global field of top Microsoft partners for demonstrating excellence in innovation and implementation of customer solutions based on Microsoft technology."
+    publishedDateTime: 2021-07-08T19:02:00Z
+    webUrl: "https://apnews.com/press-release/globe-newswire/technology-5f346a5576c5d4088d572d5c11cfe4ef"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 33
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "Artificial Intelligence in Healthcare Market 2021 Updated Report || Top Players – Intel, IBM, Google, Microsoft, General Vision"
     excerpt: "Artificial Intelligence in Healthcare Market 2021 Updated Report \\|\\| Top Players – Intel, IBM, Google, Microsoft, General Vision; Surgical Planning Software Market"
     publishedDateTime: 2021-07-05T18:47:00Z

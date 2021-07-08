@@ -9,7 +9,7 @@ ampWebUrl: "https://wap.business-standard.com/article-amp/automobile/developing-
 cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/automobile/developing-safe-self-driving-car-a-hard-problem-admits-tesla-ceo-musk-121070600204_1.html"
 type: article
 quality: 58
-heat: 108
+heat: 118
 published: true
 
 provider:
@@ -94,6 +94,15 @@ related:
       name: Webindia 123
       domain: webindia123.com
     quality: 4
+  - title: "Elon Musk Just Now Realizing that Self-driving Cars are a ‘Hard Problem’"
+    excerpt: "Tesla CEO Elon Musk is finally admitting that he underestimated how difficult it is to develop a safe and reliable self-driving car. To which the entire engineering community rose up as one to say, \"No duh."
+    publishedDateTime: 2021-07-06T20:04:00Z
+    webUrl: "https://cacm.acm.org/news/253791-elon-musk-just-now-realizing-that-self-driving-cars-are-a-hard-problem/fulltext"
+    type: article
+    provider:
+      name: acm.org
+      domain: acm.org
+    quality: 3
 
 secured: "XZOPi558UJlyFObCYBSsTzEWiaGSwXiTxpCQsW+UUQ48Dmx4o6HS0BBNBXo0cx6w3Szoo57nYGp8XmvZItuwjZe6wmcrGgOBPMRZRwopeXijZBDx9+vyhefZa05SqOBaSJJkKA8cFdDwYG+5hpuIVAQ93vbegCnKSEvOxwbMOcn9rdNyJEuEFMzZvJZlCNxD6zIrvqDVu6OidZLax5uZrVuCWmVqTO4vH5/mv8AML8Lgomg0kUnTiGnzVxCk7wV18ifSD0XWAU6/JkEaHUskGINZHIjh4i3RiHUvk4LcvKnuzWBqDJdurhhFP6IvLhdmPjMBkff309gmrNwzrQ5aWHbUQgSCY61fZ3c+KaWy7y1u5mWE1WOWaPmjQ2WgLXKvWrDPMVY4Dptnjkv+HUEFPdWtHqXT0+1TZEsAsVwNgkU8+Q7s0EK6OsQKO970St1OyH/r8swb0YXLb3F5otx63P6sjXRD0I/y5KD+4rxCISmklZiV9sdRZnsORcNDwnp0DOQQYaNUQFEF7JICvGuEPg==;JI/epUkmQ0qdFDeUquVHeQ=="
 ---

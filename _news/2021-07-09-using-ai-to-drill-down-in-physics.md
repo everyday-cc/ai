@@ -35,6 +35,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "US Air Force pilots get an artificial intelligence assist with scheduling aircrews"
+    excerpt: "An optimization tool from the Department of Air Force–MIT AI Accelerator is transforming the laborious process of staffing C-17 cargo flights. Take it from U.S. Air Force Captain Kyle McAlpin when he says that scheduling C-17 aircraft crews is a headache."
+    publishedDateTime: 2021-07-08T19:07:00Z
+    webUrl: "https://news.mit.edu/2021/us-air-force-pilots-artificial-intelligence-assist-scheduling-aircrews-0708"
+    type: article
+    provider:
+      name: news
+      domain: mit.edu
+    quality: 76
+    images:
+      - url: "https://news.mit.edu/sites/default/files/images/202106/usaf-capt-kevin-thurber.jpg"
+        width: 3000
+        height: 2000
+        isCached: true
 
 secured: "MSWG634bmKdh1S4BGTJxzoGvljLlc5Odh07Oq+hiwOSFMrTWwu/E0RXuBQZrCgdm+X1aPYvFObPOuBYpJcsI+dpbnB75zSsJ9YNdSZclWyODjRFK5qq7UltL7ZKSOCe+5jKF965IB3qRvhFuDgSzJlRlkqAljXSlWs22YDpyVpHZ4zCeN4rBCSf0YliotL+bXHtpV3ti8aGb6yMdbzKUEALmfwyRldhmdlqJxgs4YZ9BQ+szju7ojrl/epqbbDbhfeOW6sdQuU1nMNB3IS/6HO+Mm8Dpe1Bz34cdi+f5Q6NVpCDtiTFsuyHz1u6H0ZGE6OJzH9mzhbhaLRRiEWPnVtXNUcfV1kgbzgiCL27Q8bg=;gKkPQ5t8FErm4BFFvmmlfw=="
 ---

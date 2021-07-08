@@ -7,7 +7,7 @@ originalUrl: "https://manometcurrent.com/deep-learning-market-size-trends-and-fo
 webUrl: "https://manometcurrent.com/deep-learning-market-size-trends-and-forecast-2028-by-amazon-web-services-aws-google-ibm-intel-micron-technology-microsoft-nvidia-qualcomm/"
 type: article
 quality: 29
-heat: 29
+heat: -1
 published: false
 
 provider:
@@ -29,7 +29,7 @@ related:
     provider:
       name: manometcurrent.com
       domain: manometcurrent.com
-    quality: 17
+    quality: 34
     images:
       - url: "https://manometcurrent.com/wp-content/uploads/2021/07/Micro-segmentation-Solutions-Market-390x220.jpeg"
         width: 390

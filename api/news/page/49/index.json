@@ -2,6 +2,204 @@
   "page": 49,
   "value": [
     {
+      "path": "_news/2021-06-02-five-industries-reaping-the-benefits-of-artificial-intelligence.md",
+      "title": "Five Industries Reaping The Benefits Of Artificial Intelligence",
+      "excerpt": "AI (artificial intelligence) offers numerous opportunities ... It's not science fiction anymore; the driverless experience is a reality now. According to recent reports, it’s expected that ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/06/02/five-industries-reaping-the-benefits-of-artificial-intelligence/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/06/02/five-industries-reaping-the-benefits-of-artificial-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f7376dc40469ab26495a8e5%2F0x0.jpg",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/06/02/five-industries-reaping-the-benefits-of-artificial-intelligence/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/06/02/five-industries-reaping-the-benefits-of-artificial-intelligence/amp/",
+      "publishedDateTime": "2021-06-01T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-02-potential-impact-of-machine-learning-in-financial-world.md",
+      "title": "Potential impact of Machine Learning in financial world",
+      "excerpt": "Machine learning cab be used to design and understand ... and thirdly helping to be in threshold limits to comply the financial laid guidelines. Rome was not made in a day, but it will be made ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.finextra.com/blogposting/20409/potential-impact-of-machine-learning-in-financial-world",
+      "originalUrl": "https://www.finextra.com/blogposting/20409/potential-impact-of-machine-learning-in-financial-world",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-01T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Finextra",
+        "domain": "finextra.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-06-02-aws-announces-general-availability-of-amazon-location-service.md",
+      "title": "AWS Announces General Availability of Amazon Location Service",
+      "excerpt": "AWS announced the GA of Amazon Location Service, a service that makes it easier for customers to add location functionality to their applications.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesswire.com/news/home/20210601006014/en/AWS-Announces-General-Availability-of-Amazon-Location-Service",
+      "originalUrl": "https://www.businesswire.com/news/home/20210601006014/en/AWS-Announces-General-Availability-of-Amazon-Location-Service",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-01T16:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-02-greensprings-school-to-integrate-robotics-ai-into-curriculum.md",
+      "title": "Greensprings School to Integrate Robotics, AI into Curriculum",
+      "excerpt": "By Uchechukwu Nnaike The management of Greensprings School, Lagos, has announced that the school will start offering robotics and artificial intelligence (AI) to its secondary school students. The",
+      "sourceUrl": null,
+      "webUrl": "https://www.thisdaylive.com/index.php/2021/06/02/greensprings-school-to-integrate-robotics-ai-into-curriculum/",
+      "originalUrl": "https://www.thisdaylive.com/index.php/2021/06/02/greensprings-school-to-integrate-robotics-ai-into-curriculum/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/thisday-846548948316-wp-data/wp-media/2018/11/ddab228d-greensprings-school.jpg",
+          "width": 800,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thisdaylive.com/index.php/2021/06/02/greensprings-school-to-integrate-robotics-ai-into-curriculum/amp/",
+      "cdnAmpWebUrl": "https://www-thisdaylive-com.cdn.ampproject.org/c/s/www.thisdaylive.com/index.php/2021/06/02/greensprings-school-to-integrate-robotics-ai-into-curriculum/amp/",
+      "publishedDateTime": "2021-06-01T16:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "This Day",
+        "domain": "thisdaylive.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-02-collaborative-contracting-can-help-combat-bias-in-ai.md",
+      "title": "Collaborative Contracting Can Help Combat Bias In AI",
+      "excerpt": "To mitigate bias in artificial intelligence technology amid pending EU and U.S. regulations, contracting companies should consider each party's role in controlling for bias, rather than applying binary liability allocations,",
+      "sourceUrl": null,
+      "webUrl": "https://www.law360.com/articles/1389441/collaborative-contracting-can-help-combat-bias-in-ai",
+      "originalUrl": "https://www.law360.com/articles/1389441/collaborative-contracting-can-help-combat-bias-in-ai",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.law360.com/amp/articles/1389441",
+      "cdnAmpWebUrl": "https://www-law360-com.cdn.ampproject.org/c/s/www.law360.com/amp/articles/1389441",
+      "publishedDateTime": "2021-06-01T13:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Law360",
+        "domain": "law360.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-01-use-amazon-translate-in-amazon-sagemaker-notebooks.md",
       "title": "Use Amazon Translate in Amazon SageMaker Notebooks",
       "excerpt": "Amazon Translate is a neural machine translation service that delivers fast, high-quality, and affordable language translation in 71 languages and 4,970 language pairs. Amazon Translate is great for performing batch translation when you have large quantities of pre-existing text to translate and real-time",
@@ -932,247 +1130,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-01-text-altering-ai-is-changing-our-culture-try-this-tool-to-find-out-how.md",
-      "title": "Text-altering AI is changing our culture — try this tool to find out how",
-      "excerpt": "Recent research shows that AI is influncing how we use language through these text-altering machines. These tools are a great example of how this is done.",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/news/text-altering-ai-changing-culture-try-this-tool-find-out-how-syndication",
-      "originalUrl": "https://thenextweb.com/news/text-altering-ai-changing-culture-try-this-tool-find-out-how-syndication",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F06%2FAI-robot-writing-hed-shutterstock_591536696.jpg&signature=eb3fc916c8e4408192846cbf04fdca3f",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-01T05:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-01-edtech-startup-avishkaar-raises-inr-5-cr-in-pre-series-a-round-co-led-by-mumbai-angels-and-auxano.md",
-      "title": "Edtech Startup Avishkaar Raises INR 5 Cr In Pre-Series A Round Co-led By Mumbai Angels And Auxano",
-      "excerpt": "Avishkaar plans to utilize the funding towards product development and further expansion of its portfolio in addition to hiring talent",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/article/373331",
-      "originalUrl": "https://www.entrepreneur.com/article/373331",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/1622549303-compare-fibre-JiOFFI3W7IA-unsplash1.jpg?width=600&crop=16:9",
-          "width": 600,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.entrepreneur.com/amphtml/373331",
-      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/373331",
-      "publishedDateTime": "2021-06-01T05:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-01-innovate-toward-health-experience-not-just-healthcare.md",
-      "title": "Innovate Toward Health Experience, Not Just Healthcare",
-      "excerpt": "Pamela Spence, EY Global Health Sciences and Wellness Industry Leader. Technological innovation has pushed the consumer experience forward in banking, retail, entertainment and hospitality (among other industries) but has not yet broken through with health interactions.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/06/01/innovate-toward-health-experience-not-just-healthcare/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/06/01/innovate-toward-health-experience-not-just-healthcare/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60b0f516da9fc3e34e99c61f%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/06/01/innovate-toward-health-experience-not-just-healthcare/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/06/01/innovate-toward-health-experience-not-just-healthcare/amp/",
-      "publishedDateTime": "2021-06-01T04:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-01-these-are-the-10-most-in-demand-ai-jobs-according-to-indeedand-they-all-pay-at-least-95000.md",
-      "title": "These are the 10 most in-demand AI jobs according to Indeed—and they all pay at least $95,000",
-      "excerpt": "But, one industry that has remained in high demand despite the pandemic is artificial intelligence, with hiring growth for these jobs increasing by 32% since 2019, according to LinkedIn. “AI covers a vast range of use cases,",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2021/06/01/10-of-the-most-in-demand-ai-jobs-that-pay-at-least-95000.html",
-      "originalUrl": "https://www.cnbc.com/2021/06/01/10-of-the-most-in-demand-ai-jobs-that-pay-at-least-95000.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 186,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/106291052-1576090768440gettyimages-1086208762.jpg?v=1622131716",
-          "width": 2000,
-          "height": 1333,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2021/06/01/10-of-the-most-in-demand-ai-jobs-that-pay-at-least-95000.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/06/01/10-of-the-most-in-demand-ai-jobs-that-pay-at-least-95000.html",
-      "publishedDateTime": "2021-06-01T04:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-01-computer-vision-is-like-investing-in-the-internet-in-the-90s.md",
-      "title": "Computer vision is like investing in the internet in the ‘90s",
-      "excerpt": "I’m talking about computer vision. Computer vision is the kind of disruption that only comes around once a generation. Computers have long been able to count numbers and read text. But they could never master vision.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/computer-vision-is-like-investing-in-the-internet-in-the-90s-2021-06-01",
-      "originalUrl": "https://www.nasdaq.com/articles/computer-vision-is-like-investing-in-the-internet-in-the-90s-2021-06-01",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/computer-vision-is-like-investing-in-the-internet-in-the-90s-2021-06-01?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/computer-vision-is-like-investing-in-the-internet-in-the-90s-2021-06-01?amp",
-      "publishedDateTime": "2021-06-01T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

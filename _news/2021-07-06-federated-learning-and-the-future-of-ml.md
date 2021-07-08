@@ -9,8 +9,8 @@ ampWebUrl: "https://www.itpro.co.uk/technology/machine-learning/360102/federated
 cdnAmpWebUrl: "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/technology/machine-learning/360102/federated-learning-and-the-future-of-ml?amp"
 type: article
 quality: 91
-heat: 111
-published: true
+heat: -1
+published: false
 
 provider:
   name: IT Pro
@@ -42,25 +42,25 @@ related:
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 91
+    quality: 93
     images:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60e5c717408017304b049065%2F0x0.jpg"
         width: 640
         height: 251
         isCached: true
-  - title: "Pioneers of deep learning AI think its future is gonna be lit"
-    excerpt: "Yoshua Bengio, Geoffrey Hinton, and Yann LeCun, explain the current challenges of deep learning and what the future might hold"
-    publishedDateTime: 2021-07-05T17:26:00Z
-    webUrl: "https://thenextweb.com/news/pioneers-deep-learning-future-lit-syndication"
+  - title: "Deep Learning Offers the Potential to Improve the Video Streaming Experience"
+    excerpt: "In this contributed article, Christian Timmerer, Co-founder of Bitmovin, describes the findings of a recent paper that Timmerer and his team presented at IEEE’s International Conference on Communications and Image Processing which explores the use of Convoluted Neural Networks (CNNs) to improve video streaming."
+    publishedDateTime: 2021-07-08T13:00:00Z
+    webUrl: "https://insidebigdata.com/2021/07/08/deep-learning-offers-the-potential-to-improve-the-video-streaming-experience/"
     type: article
     provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 84
+      name: insidebigdata.com
+      domain: insidebigdata.com
+    quality: 36
     images:
-      - url: "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F07%2F1Yoshua-Bengio-Geoffrey-Hinton-Yann-LeCun-deep-learning.jpg&signature=85a3577f4fff3f0407c4111620ca1ebd"
-        width: 1280
-        height: 640
+      - url: "https://insidebigdata.com/wp-content/uploads/2019/05/Deep_Learning_shutterstock_386816095.jpg"
+        width: 300
+        height: 240
         isCached: true
 
 secured: "dcdEIAEniYcMACvyww3PE/haNT3i05LwSml2jDFfVfZ7BAGy2iK8z4PJUUMTWQDR+p0WGkUisB8zyQkug+SsRkKDJTx2hh5M1MrNNrMIwuN8f43Pi88p+dFrgMKZhlO5fkLvcUKG5pVHfoGyzaP0yCoKSFZlfVbThwZhQTloVYjmsLEgYg4PwZRAN6I3YqKXaAM9y4uGdmwii5/YJf6eaWeD897wiPgmfBZQOtuOojgFV0vDr5B309rDYQz2bGXhYvDCpKeKLxbMCQl+9VDFgSaE8l6l49sKKunuyi7B7v7C089MrnC5DoPC+MhqcgisCsk/TjJNscEP4QUm19+lBeh4YvBoT/Mb5C9JrmOKnKg=;ZEMWCH/fJ4Rx8LV/13BQfw=="

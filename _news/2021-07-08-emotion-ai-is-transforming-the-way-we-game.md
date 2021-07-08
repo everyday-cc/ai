@@ -9,7 +9,7 @@ ampWebUrl: "https://techbullion.com/emotion-ai-is-transforming-the-way-we-game/a
 cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/emotion-ai-is-transforming-the-way-we-game/amp/"
 type: article
 quality: 57
-heat: 88
+heat: 78
 published: true
 
 provider:
@@ -39,20 +39,6 @@ related:
       - url: "https://englishtribuneimages.blob.core.windows.net/gallary-content/2021/7/2021_7$largeimg_445174630.jpg"
         width: 788
         height: 443
-        isCached: true
-  - title: "AI is the Transformative Force Revolutionizing Future Human Development Over the Next 40 Years, Says Baidu CEO Robin Li at WAIC 2021"
-    excerpt: "Baidu's chief says technological advancements can spur the gradual restoration of humanity to become a low-carbon society The importance of AI"
-    publishedDateTime: 2021-07-08T11:16:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/ai-is-the-transformative-force-revolutionizing-future-human-development-over-the-next-40-years-says-baidu-ceo-robin-li-at-waic-2021-1030589086"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 36
-    images:
-      - url: "https://mma.prnewswire.com/media/1560054/Baidu_CEO_Robin_Li_discusses_social_AI_a_keynote_speech.jpg"
-        width: 400
-        height: 236
         isCached: true
   - title: "Winning formula: How AI is changing the chemical sector"
     excerpt: "It is helping manufacturers make profits while improving quality and efficiency, alongside environment preservation"

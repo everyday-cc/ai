@@ -93,6 +93,15 @@ related:
         width: 1200
         height: 900
         isCached: true
+  - title: "Elon Musk Just Now Realizing that Self-driving Cars are a ‘Hard Problem’"
+    excerpt: "Tesla CEO Elon Musk is finally admitting that he underestimated how difficult it is to develop a safe and reliable self-driving car. To which the entire engineering community rose up as one to say, \"No duh."
+    publishedDateTime: 2021-07-06T20:04:00Z
+    webUrl: "https://cacm.acm.org/news/253791-elon-musk-just-now-realizing-that-self-driving-cars-are-a-hard-problem/fulltext"
+    type: article
+    provider:
+      name: acm.org
+      domain: acm.org
+    quality: 3
 
 secured: "q5J4AdZUkYRdPAUpmjhDZHgZdhoGD3LobFTYpRk1/wrUXhfRfYXhhs6dPdwjyxL1WvvG9JUy+vVqwacdTyaEQ+xvzlN/FhYFbB2VnH2wUw7g9/zcXYVK80eNhIU6I4hcIKNMqRBADcKAkwkJEa4+00G32sq5zb+gJ1FFbpbTb0HjQMeYwcjcez0PbW22b5y47vB41wvOyZZnnn+R18UTfrHxeint+miSnope9eDeHowrRbQYU5sUqG6yYqGPisj4Vc0QiIDkt8aduFpO0TZhW/66DSvbiJK7d2vvtlMwqJihqMFgh0H4gHIAj1PvT9vIzQ+3tmRnnLaI/HdYEM4KjTZZC7G8kOibipkOdl8BAG8=;TjRASV8+vZHw7/8rzS812g=="
 ---

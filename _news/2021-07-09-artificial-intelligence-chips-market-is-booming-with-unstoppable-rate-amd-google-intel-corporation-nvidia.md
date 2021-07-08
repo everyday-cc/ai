@@ -6,8 +6,8 @@ publishedDateTime: 2021-07-08T17:50:00Z
 originalUrl: "https://manometcurrent.com/artificial-intelligence-chips-market-is-booming-with-unstoppable-rate-amd-google-intel-corporation-nvidia/"
 webUrl: "https://manometcurrent.com/artificial-intelligence-chips-market-is-booming-with-unstoppable-rate-amd-google-intel-corporation-nvidia/"
 type: article
-quality: 17
-heat: -1
+quality: 34
+heat: 34
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI Hardware
 
 images:
   - url: "https://manometcurrent.com/wp-content/uploads/2021/07/Micro-segmentation-Solutions-Market-390x220.jpeg"

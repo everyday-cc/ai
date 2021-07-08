@@ -23,6 +23,22 @@ images:
     height: 450
     isCached: true
 
-secured: "4YGOkGZQCJYdBJl/DHTkqNPltXXSspENYS3FciJ/ncTHyVZoG4rT2eBT1VUOQfkOJizeh9dfMsH30F05qDDU7sT9g0Lp6skGcfQ7ArCRrXvkEZtVgkC30Nmpor0GbNVcPlufuHzXsJX6INHuXAajlOXqDz+mfqQM4jSbnOKH7fLXViSSDvmANDXaZl0i+Nj/iZNAgrTbUzsvffTiDTIiQ+y2g1ZJiTIRUFlwuff4ktMw7gyFZ+aKfc+YjF3K+fooL9A+OqRgEEztzUaTIulH3sDj3LIQ4Yfe8dM/khPETuG4p841EwuKTsj5iHleNbtQTYXAqGRRB5AVCquiNzrYrs1TMDcOwpXjAli42Gp0M3Y=;uWKnC9rlfFPtO3JQu9tXlg=="
+related:
+  - title: "CORRECTING and REPLACING Artificial Intelligence Leader DataRobot to Host Morgantown Job Fair Tuesday, 7/13"
+    excerpt: "Artificial Intelligence Leader DataRobot to Host Morgantown Job Fair Tuesday, 7/13 (instead of Artificial Intelligence Leader DataRobot to Host Morgantown Job Fair Tuesday, 6/13) The updated release reads:  ARTIFICIAL INTELLIGENCE LEADER DATAROBOT TO HOST MORGANTOWN JOB FAIR TUESDAY,"
+    publishedDateTime: 2021-07-08T19:41:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/business-technology-artificial-intelligence-morgantown-job-fairs-bd5cae3128494491a422c67d7dee66d2"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 34
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
+
+secured: "f09R1W8Mv9pO0T1Igs+TpnIS/wbctNrMgH+JGiMJzov9WvGnV57CjK0ZL1eS/TFqCgNsJyKggXrgib4P1pqVXEsy3qc+IV/xnBv6kY/Dym2Gtx8eFDT5KGj9zbxlutRha+P5dvf2Zt3X7EoOIt/kK9IDCedFUIqB24ZyhVWUZoG9i1bkUk9KTB7FyOTtJkCmmy9uouec+k96SCldTHo9TiE7utli+fi5sCGqqFDbeitEAd6JNJpvWPgQseaBdGeMsrr0ycCxEazdrDgZ2F41L2MNDVFYQ0nlrpGt1RpYV2KLDHpAemMeGWAPBB01A6tOw7fYzK989K7JWPoprSbOU8ShiC8JNKLpvlE1nkSjyQg=;7MOpf4sLz2YGwHG6S+kyMw=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/07/06/charli-ai-ceo-on-training-ai-driv
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/06/charli-ai-ceo-on-training-ai-driven-personal-assistants/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -30,6 +30,20 @@ images:
     isCached: true
 
 related:
+  - title: "US Air Force pilots get an artificial intelligence assist with scheduling aircrews"
+    excerpt: "An optimization tool from the Department of Air Force–MIT AI Accelerator is transforming the laborious process of staffing C-17 cargo flights. Take it from U.S. Air Force Captain Kyle McAlpin when he says that scheduling C-17 aircraft crews is a headache."
+    publishedDateTime: 2021-07-08T19:07:00Z
+    webUrl: "https://news.mit.edu/2021/us-air-force-pilots-artificial-intelligence-assist-scheduling-aircrews-0708"
+    type: article
+    provider:
+      name: news
+      domain: mit.edu
+    quality: 76
+    images:
+      - url: "https://news.mit.edu/sites/default/files/images/202106/usaf-capt-kevin-thurber.jpg"
+        width: 3000
+        height: 2000
+        isCached: true
   - title: "Using AI to Drill Down in Physics"
     excerpt: "Jesse Thaler, an associate professor of physics at the Massachusetts Institute of Technology (MIT), investigates the potential of artificial intelligence (AI) in particle physics. In 2020, Thaler also became the director of the National Science Foundation's AI Institute for Artificial Intelligence and Fundamental Interactions (IAIFI),"
     publishedDateTime: 2021-07-08T17:34:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.financialexpress.com/industry/technology/artificial-inte
 cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/industry/technology/artificial-intelligence-in-healthcare-intels-ai-tool-screens-patients-for-vision-loss/2283014/lite/"
 type: article
 quality: 85
-heat: 95
+heat: 105
 published: true
 
 provider:
@@ -45,6 +45,15 @@ related:
         width: 600
         height: 390
         isCached: true
+  - title: "AI in Medication Management Market Giants Spending Is Going To Boom | Intel, NVIDIA,Siemens Healthineers, Medtronic"
+    excerpt: "The latest study released on the Global AI in Medication Management Market by AMA Research evaluates market size, trend, and forecast to 2026. The AI in Medication Management market study covers significant research data and proofs to be a handy resource document for managers,"
+    publishedDateTime: 2021-07-08T19:26:00Z
+    webUrl: "https://manometcurrent.com/ai-in-medication-management-market-giants-spending-is-going-to-boom-intel-nvidiasiemens-healthineers-medtronic/"
+    type: article
+    provider:
+      name: manometcurrent.com
+      domain: manometcurrent.com
+    quality: 0
 
 secured: "jcgHyIlrWQ4cFQxXsePpwRoRt73IZx9sqSvKthre/H8YureoobczdAatUYNcoWaP4/ZYn1wyYrENMXOBOF4ZDFedSxaeiB728sW3jDzy+KXIxhHrxtwOh50NGC4UEKEbDG5JohNg6AbauqJf2d6cGbXeo3i91VehztWS7gJulpOGlBKR3o7D5GaLOIow/qCDTI1TOuV53iGSMHNUg3dLWXn4F3DTIlH3wSC17WJT40jn1CNbVVMWvEemB6HUDAB1j8L6UGOa8t3tbb8W0kvw1dkJtoOCyNNzVQVzqrM/y0knIU08+2jUdLy4Z2thdLrcA9j/OJ6wqPZNj6F++Xqj7H+GdmIhLkIEfWa496LLCIA=;SVRmreyTSpiRfYy2DROlXw=="
 ---

@@ -2,6 +2,58 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-06-05-self-driving-cars-could-be-decades-away-no-matter-what-elon-musk-said.md",
+      "title": "Self-Driving Cars Could Be Decades Away, No Matter What Elon Musk Said",
+      "excerpt": "Experts aren’t sure when, if ever, we’ll have truly autonomous vehicles that can drive anywhere without help. First, AI will need to get a lot smarter.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/self-driving-cars-could-be-decades-away-no-matter-what-elon-musk-said-11622865615",
+      "originalUrl": "https://www.wsj.com/articles/self-driving-cars-could-be-decades-away-no-matter-what-elon-musk-said-11622865615",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-348105/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/self-driving-cars-could-be-decades-away-no-matter-what-elon-musk-said-11622865615",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/self-driving-cars-could-be-decades-away-no-matter-what-elon-musk-said-11622865615",
+      "publishedDateTime": "2021-06-04T20:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-05-baidus-plays-in-3-growing-industries-make-it-a-buy.md",
       "title": "Baidu’s Plays in 3 Growing Industries Make It a Buy",
       "excerpt": "The company would contract out manufacturing, but it has automotive experience from its first self-driving car project in 2013. Additionally, Baidu has made huge inroads in two areas that are ...",
@@ -1291,40 +1343,6 @@
       "provider": {
         "name": "Fleet Owner",
         "domain": "fleetowner.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-27-more-efficient-lidar-sensing-for-self-driving-cars.md",
-      "title": "More Efficient LiDAR Sensing for Self-Driving Cars",
-      "excerpt": "A new machine learning system for driverless cars uses an end-to-end mapless driving framework that taps raw Light Detection and Ranging (LiDAR) data for autonomous navigation.",
-      "sourceUrl": null,
-      "webUrl": "https://cacm.acm.org/news/252891-more-efficient-lidar-sensing-for-self-driving-cars/fulltext",
-      "originalUrl": "https://cacm.acm.org/news/252891-more-efficient-lidar-sensing-for-self-driving-cars/fulltext",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-26T11:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "acm.org",
-        "domain": "acm.org",
         "images": null,
         "publishers": null,
         "authors": null

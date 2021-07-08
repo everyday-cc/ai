@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/halo-launches-driverless-car-se
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/halo-launches-driverless-car-service-in-las-vegas/"
 type: article
 quality: 89
-heat: 119
+heat: 129
 published: true
 
 provider:
@@ -58,6 +58,20 @@ related:
       - url: "https://qtxasset.com/fiercewireless/1625748724/tmobilecar2.jpg/tmobilecar2.jpg?v83iURFXmkrBhzTiuS5FC.kl6SRH9uj1"
         width: 800
         height: 545
+        isCached: true
+  - title: "T-Mobile's 5G to connect drivers with remote-controlled cars in Vegas"
+    excerpt: "Further, the company is using an artificial intelligence (AI) algorithm that \"learns in the ... To be clear though, there are plenty of obstacles facing both T-Mobile and Halo. The driverless car market remains in its infancy, and requires coordination ..."
+    publishedDateTime: 2021-07-08T19:26:00Z
+    webUrl: "https://www.lightreading.com/aiautomation/t-mobiles-5g-to-connect-drivers-with-remote-controlled-cars-in-vegas/d/d-id/770754"
+    type: article
+    provider:
+      name: Light Reading
+      domain: lightreading.com
+    quality: 24
+    images:
+      - url: "https://img.lightreading.com/lightreading/LR_fb_button.jpg"
+        width: 600
+        height: 600
         isCached: true
   - title: "Halo and Las Vegas Launch Driverless Car Service Powered by T-Mobile 5G"
     excerpt: "G is beginning to power everything from connected farms to connected cars! Today, Halo launched one of the first commercial driverless car services in the U.S. running on the T-Mobile ( News - Alert) (NASDAQ: TMUS) 5G network in Las Vegas."

@@ -483,15 +483,24 @@
     {
       "path": "_news/2021-06-22-primer-announces-strategic-alliance-with-microsoft-to-make-leading-ai-solutions-easily-available-primer-to-be-natively-supported-on-microsoft.md",
       "title": "Primer Announces Strategic Alliance with Microsoft to Make Leading AI Solutions Easily Available; Primer to be Natively Supported On Microsoft Azure",
-      "excerpt": "Primer, an artificial intelligence (AI) company, today announced a strategic alliance with Microsoft to collaborate on taking leading",
+      "excerpt": "Primer, an artificial intelligence (AI) company, today announced a strategic alliance with Microsoft to collaborate on taking leading AI solutions to market and",
       "sourceUrl": null,
-      "webUrl": "https://www.prnewswire.com/news-releases/primer-announces-strategic-alliance-with-microsoft-to-make-leading-ai-solutions-easily-available-primer-to-be-natively-supported-on-microsoft-azure-301316917.html",
-      "originalUrl": "https://www.prnewswire.com/news-releases/primer-announces-strategic-alliance-with-microsoft-to-make-leading-ai-solutions-easily-available-primer-to-be-natively-supported-on-microsoft-azure-301316917.html",
+      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_stocks/primer-announces-strategic-alliance-with-microsoft-to-make-leading-ai-solutions-easily-available-primer-to/article_8e487a05-8c19-569a-a3e8-ea27d4e020f2.html",
+      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_stocks/primer-announces-strategic-alliance-with-microsoft-to-make-leading-ai-solutions-easily-available-primer-to/article_8e487a05-8c19-569a-a3e8-ea27d4e020f2.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
@@ -499,8 +508,8 @@
       "publishedDateTime": "2021-06-22T06:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
+        "name": "WFMZ-TV",
+        "domain": "wfmz.com",
         "images": null,
         "publishers": null,
         "authors": null

@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-07-09-ceo-robin-li-fast-tracks-smart-ev-development-to-harness-baidus-ai-tech-and-mount-a-challenge-to-tesla.md",
+      "title": "CEO Robin Li fast-tracks smart EV development to harness Baidu’s AI tech and mount a challenge to Tesla",
+      "excerpt": "The tech giant is hoping to harness its AI tech as it builds an EV presence, in a market where electrification and digitalisation are redrawing the landscape.",
+      "sourceUrl": null,
+      "webUrl": "https://www.scmp.com/business/companies/article/3140367/ceo-robin-li-fast-tracks-smart-ev-development-harness-baidus-ai",
+      "originalUrl": "https://www.scmp.com/business/companies/article/3140367/ceo-robin-li-fast-tracks-smart-ev-development-harness-baidus-ai",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 108,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2021/07/08/3caa1c62-dfd7-11eb-9efd-49da69ae692d_image_hires_193455.jpg?itok=z9_SvD0x&v=1625744102",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.scmp.com/business/companies/article/3140367/ceo-robin-li-fast-tracks-smart-ev-development-harness-baidus-ai",
+      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/business/companies/article/3140367/ceo-robin-li-fast-tracks-smart-ev-development-harness-baidus-ai",
+      "publishedDateTime": "2021-07-08T13:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "South China Morning Post",
+        "domain": "scmp.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/scmp.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-08-halo-launches-driverless-car-service-in-las-vegas.md",
       "title": "Halo launches driverless car service in Las Vegas",
       "excerpt": "Though driverless, Halo's cars aren't autonomous ... While drivers are piloting the cars from afar, an artificial intelligence is learning from them. \"Full autonomy is a massive challenge from both a technical and social trust perspective that won't ...",
@@ -10,7 +62,7 @@
       "originalUrl": "https://www.cnet.com/roadshow/news/halo-launches-driverless-car-service-in-las-vegas/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 119,
+      "heat": 129,
       "tags": null,
       "images": [
         {
@@ -272,7 +324,7 @@
       "originalUrl": "https://www.business-standard.com/article/automobile/developing-safe-self-driving-car-a-hard-problem-admits-tesla-ceo-musk-121070600204_1.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 108,
+      "heat": 118,
       "tags": null,
       "images": [
         {
@@ -1417,58 +1469,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-23-scaleai-launches-mapping-project-more-on-ponyai-waymo.md",
-      "title": "Scale.AI launches Mapping Project; More On Pony.AI & Waymo",
-      "excerpt": "Scale has launched a new mapping tool/service offering for not just self-driving cars, but also for delivery companies. Also, Pony AI demonstrates taxi with no human safety driver in China, and Waymo shows Pride.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/bradtempleton/2021/06/22/scaleai-launches-mapping-project-more-on-ponyai--waymo/",
-      "originalUrl": "https://www.forbes.com/sites/bradtempleton/2021/06/22/scaleai-launches-mapping-project-more-on-ponyai--waymo/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60d21d1fcfa1d201e3480176%2F0x0.jpg",
-          "width": 1139,
-          "height": 703,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/bradtempleton/2021/06/22/scaleai-launches-mapping-project-more-on-ponyai--waymo/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bradtempleton/2021/06/22/scaleai-launches-mapping-project-more-on-ponyai--waymo/amp/",
-      "publishedDateTime": "2021-06-22T10:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
       ]
     }
   ],

@@ -25,19 +25,37 @@ images:
     isCached: true
 
 related:
-  - title: "Realizing Machine Learning’s Promise in Geoscience Remote Sensing"
-    excerpt: "Machine learning and signal processing methods offer significant benefits to the geosciences, but realizing this potential will require closer engagement among different research communities."
-    publishedDateTime: 2021-07-08T12:25:00Z
-    webUrl: "https://eos.org/opinions/realizing-machine-learnings-promise-in-geoscience-remote-sensing"
+  - title: "Learn About Machine Learning Through The Lens Of A Hedge Fund"
+    excerpt: "Artificial intelligence is widely discussed in CIO conversations down to IT resourcing meetings in companies today. There is a range of topics that enterprises are involved in from research to novel applications and enterprise product usage."
+    publishedDateTime: 2021-07-08T14:00:00Z
+    webUrl: "https://www.forbes.com/sites/garydrenik/2021/07/08/learn-about-machine-learning-through-the-lens-of-a-hedge-fund/"
+    ampWebUrl: "https://www.forbes.com/sites/garydrenik/2021/07/08/learn-about-machine-learning-through-the-lens-of-a-hedge-fund/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/garydrenik/2021/07/08/learn-about-machine-learning-through-the-lens-of-a-hedge-fund/amp/"
     type: article
     provider:
-      name: Eos
-      domain: eos.org
-    quality: 39
+      name: Forbes
+      domain: forbes.com
+    quality: 93
     images:
-      - url: "https://eos.org/wp-content/uploads/2021/07/remote-imaging-spectrometers-data-cube.png"
-        width: 820
-        height: 615
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60e5c717408017304b049065%2F0x0.jpg"
+        width: 640
+        height: 251
+        isCached: true
+  - title: "Federated Learning and the Future of ML"
+    excerpt: "By sharing ML models and training data, organisations can power-up their ML projects. Now there’s a way to do it without compromising data privacy or security"
+    publishedDateTime: 2021-07-06T11:42:00Z
+    webUrl: "https://www.itpro.co.uk/technology/machine-learning/360102/federated-learning-and-the-future-of-ml"
+    ampWebUrl: "https://www.itpro.co.uk/technology/machine-learning/360102/federated-learning-and-the-future-of-ml?amp"
+    cdnAmpWebUrl: "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/technology/machine-learning/360102/federated-learning-and-the-future-of-ml?amp"
+    type: article
+    provider:
+      name: IT Pro
+      domain: itpro.co.uk
+    quality: 91
+    images:
+      - url: "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1625479772/machine_learning_artificial_intelligence.jpg"
+        width: 1260
+        height: 710
         isCached: true
 
 secured: "vjoCpDVSG7rksl2YqeoNqNpIAIccUOYdAghm92L8MN92hCwA7a/P2VN3qCGRSAAbVbKNuZ5fkD97LUWRGXJHSUrojUQfEFWUNzJrjIuTbTQce/X8NRALcwc1IEk5Smceuk9+qUQzl4LJgyK2EQ+oZX+D/51KefuJz2Dhv2+yFRbks1efvHMhpHc0M51lJyhg88AQ2adyobbAXmIdsKLqsvr73KD0Lmsgf0kCgGTgHCn2YqD0CckY5IIVPOiF7+CLdIavm4Mgq3UcUdBp32P/tWp3YQFL/Y+SOqloYCd45WoVe65z0OXGvBjxQaUnBFkVLhrCBx4LCMc9QRITBoUdF5BJ3b6aYP66MtiWbYLuEufx7pOcI6APNPhWEECtmSmmLwN2WOi+t25u5N9PtthBN4iuW4RILbnRCkTvEaUkO+pQeUCMkGK4j/z8w+WiSHFIEFgViCcr6aE59gRITSy6E/zhM7rBCT3JNdO6ihcy5c1uYm4gft7yiw2sZEf2ZGLV2ff+bqjvJ6MYci55SX7crA==;xYxgZsD9rEEC4VfAIej/dQ=="

@@ -2,6 +2,103 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-06-09-develop-and-deploy-ml-models-using-amazon-sagemaker-data-wrangler-and-amazon-sagemaker-autopilot.md",
+      "title": "Develop and deploy ML models using Amazon SageMaker Data Wrangler and Amazon SageMaker Autopilot",
+      "excerpt": "Data generates new value to businesses through insights and building predictive models. However, although data is plentiful, available data scientists are far and few. Despite our attempts in recent years to produce data scientists from academia and elsewhere, we still see a huge shortage that will continue",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/develop-and-deploy-ml-models-without-writing-any-code-using-amazon-sagemaker/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/develop-and-deploy-ml-models-without-writing-any-code-using-amazon-sagemaker/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 103,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png",
+          "width": 768,
+          "height": 385,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-09T14:01:20-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-06-10-fpga-ip-accelerates-neural-network-computing-for-edge-and-embedded-ai-applications.md",
+      "title": "FPGA IP accelerates neural network computing for edge and embedded AI applications",
+      "excerpt": "Global Technology partners Xilinx, Avnet, Libertron and E-Elements to speed development of AI solutions across a range of industries and use cases",
+      "sourceUrl": null,
+      "webUrl": "https://www.ept.ca/2021/06/fpga-ip-accelerates-neural-network-computing-for-edge-and-embedded-ai-applications/",
+      "originalUrl": "https://www.ept.ca/2021/06/fpga-ip-accelerates-neural-network-computing-for-edge-and-embedded-ai-applications/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ept.ca/wp-content/uploads/2020/06/EPT_JUNEJULY2021_COV_SVA-ml-300x400.jpg",
+          "width": 300,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-09T13:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "EPT",
+        "domain": "www.ept.ca",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-06-10-machine-learning-speeds-up-simulations-in-material-science.md",
       "title": "Machine learning speeds up simulations in material science",
       "excerpt": "Research, development, and production of novel materials depend heavily on the availability of fast and at the same time accurate simulation methods. Machine learning, in which artificial intelligence autonomously acquires and applies new knowledge,",
@@ -1308,94 +1405,6 @@
       ],
       "topics": [
         "AWS AI",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-06-02-amazon-aws-machine-learning-summit-keynote-kicks-off-with-alexa-toilet-humor.md",
-      "title": "Amazon AWS Machine Learning Summit keynote kicks off with Alexa toilet humor",
-      "excerpt": "Sivasubramanian called out Amazon SageMaker, the company's development environment, which is the way the company brings machine learning frameworks such as PyTorch and TensorFlow to data scientists.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/amazon-aws-summit/",
-      "originalUrl": "https://www.zdnet.com/article/amazon-aws-summit/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/hub/i/2021/06/02/076bf4fd-f23e-4608-8b14-e3e9e21a0d4b/aws-ml-summit-sivasubramanian-2021.png",
-          "width": 1782,
-          "height": 939,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/amazon-aws-summit/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/amazon-aws-summit/",
-      "publishedDateTime": "2021-06-02T08:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-06-02-realising-enterprise-scale-machine-learning-with-data-governance.md",
-      "title": "Realising enterprise-scale machine learning with data governance",
-      "excerpt": "Realising the promise of AI/ML calls for organisations to scale its use enterprise-wide and promote the culture of an insights-driven organisation. Additionally, data is the fuel that keeps machine learning (ML) going,",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbctv18.com/personal-finance/world/technology/realising-enterprise-scale-machine-learning-with-data-governance-9518121.htm",
-      "originalUrl": "https://www.cnbctv18.com/personal-finance/world/technology/realising-enterprise-scale-machine-learning-with-data-governance-9518121.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbctv18.com/technology/realising-enterprise-scale-machine-learning-with-data-governance-9518121.htm/amp",
-      "cdnAmpWebUrl": "https://www-cnbctv18-com.cdn.ampproject.org/c/s/www.cnbctv18.com/technology/realising-enterprise-scale-machine-learning-with-data-governance-9518121.htm/amp",
-      "publishedDateTime": "2021-06-02T06:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "cnbctv18",
-        "domain": "cnbctv18.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
         "AI",
         "Machine Learning"
       ]

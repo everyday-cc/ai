@@ -94,6 +94,15 @@ related:
       name: Webindia 123
       domain: webindia123.com
     quality: 4
+  - title: "Elon Musk Just Now Realizing that Self-driving Cars are a ‘Hard Problem’"
+    excerpt: "Tesla CEO Elon Musk is finally admitting that he underestimated how difficult it is to develop a safe and reliable self-driving car. To which the entire engineering community rose up as one to say, \"No duh."
+    publishedDateTime: 2021-07-06T20:04:00Z
+    webUrl: "https://cacm.acm.org/news/253791-elon-musk-just-now-realizing-that-self-driving-cars-are-a-hard-problem/fulltext"
+    type: article
+    provider:
+      name: acm.org
+      domain: acm.org
+    quality: 3
 
 secured: "aPKlazTuNy9QwjRafh6WAxeFUDLq7CtkWcuayQ08nLhqnyCF0Ik1gKTZ+zs8Zyd9msTawSnfiH4Qu6HS9eMBmr7dut0YMhriz0WyE6f38yPlXKa5slm42J9VWF7rrZfj61HS0OjgODbUgxqir8z7rVYWKOa4c8KJVaZQttQT10xKCgOfPpe43+3zBGlZ8S9kDh1TcDL5RXStRmnyOuxr7co0Lu+ojJ34dCMftARRtHK/z7tSL5UrIzhXcCtbJAJJtJnY+DAj6LO2iDWDWtrqpVmhottNe3Tw2oGEewsBxDrMlHQgUDcBSTAVu+vESWIiHbHRvcZzDMhygajiKTDT+X6Ry4l47mzoYzKgeAx7VKo=;u8kfg4MWrlEXnsAIwZhW/g=="
 ---
