@@ -3,8 +3,8 @@ category: news
 title: "The robots coming to save logistics firms in a new age"
 excerpt: "Artificial Intelligence is expected to drive new disruption in the transport sector and potentially translate into billions of new revenue"
 publishedDateTime: 2021-07-07T21:00:00Z
-originalUrl: "https://www.standardmedia.co.ke/business/shipping-logistics/article/2001417681/the-robots-coming-to-save-logistics-firms-in-a-new-age"
-webUrl: "https://www.standardmedia.co.ke/business/shipping-logistics/article/2001417681/the-robots-coming-to-save-logistics-firms-in-a-new-age"
+originalUrl: "https://www.standardmedia.co.ke/the-standard-insider/article/2001417681/the-robots-coming-to-save-logistics-firms-in-a-new-age"
+webUrl: "https://www.standardmedia.co.ke/the-standard-insider/article/2001417681/the-robots-coming-to-save-logistics-firms-in-a-new-age"
 type: article
 quality: 39
 heat: 39
@@ -24,6 +24,6 @@ images:
     height: 533
     isCached: true
 
-secured: "NNQhOqv4fSNyE9j5+brfivAKxXK2zU+F0vj/W0NLApAbRenKzV+Gx8bDasD7k8WFz0C8iPPHCpjUZKZEgD+T82It4ee+BFIRh3QybhGcI067qoE9SfLeJXWw8G9WuXlPEqX0WH2F/tqynzFgbN9mKEqVP7PK8UCuYTTxGcVWAtxtdfH8mpGLjssPWdnj+GYyfGggHcfouk943o/HRzgK/X/lUlnhuflfRTRB0gT6J9oNGlYX7YTwKGiOxYelKEREEJcn9Cbx0SQWbVn1V53WoRZUiORa0fYxd/a1ep92ocQAt8rn/sfw105BIvMt0slh4XSa7gW9sAu3zJpyORgGzPxOtq+298FWaUksJiretnA=;R7Gik7tQ5x0Ww5cF6OCNCA=="
+secured: "/dJfaWHlFwqID8QX9ChOeS77ees85P1edidvyhJkPZD/euUsgGl76TtjjBNWM2SqN7G5q5hUYNzFHRiAQk6VG+x48bInRvsj6JB/fUrFYwpmk0qWDigHdB/MVYbuhX9zo64b137oBu/gCrxlT0wyfxAWkHVk3cvfrH/Q9NGLQWz9Avm/ihYQivBycxsPHQI+aZn+1OAsyoeunBCwmpU+CmcKfZdlupQNMv+4ucZu7HIKLca05Cq0XcrojX2iFmp2qjReP72xnr7LqSgxcxXVBY8qGxSMtJFfBXicSEznK+xetUigywdMeSPR96xXpQVU3C8qCfTX0/H11yZm1T2OC/HWI0l213JGCkVwIG1kINU=;tZeVRPEF99/XZOsTOtCamg=="
 ---
 

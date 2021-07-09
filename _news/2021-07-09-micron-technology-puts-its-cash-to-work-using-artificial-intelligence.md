@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wsj.com/amp/articles/micron-technology-puts-its-cash-to-
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/micron-technology-puts-its-cash-to-work-using-artificial-intelligence-11625781002"
 type: article
 quality: 87
-heat: 107
+heat: 117
 published: true
 
 provider:
@@ -57,6 +57,20 @@ related:
       - url: "https://healthitanalytics.com/images/site/article_headers/_normal/ThinkstockPhotos-495213850.jpg"
         width: 690
         height: 400
+        isCached: true
+  - title: "Biotech startup using AI to take guesswork out of cancer drug selection raises $70M"
+    excerpt: "Xilis is developing technology that creates a living model of a patient’s tumor, then applies artificial intelligence to determine the best drug or drug combinations to treat the cancer. Clinical trials are planned to test this precision medicine approach and the biotech startup has raised $70 million to fund its research."
+    publishedDateTime: 2021-07-09T00:46:00Z
+    webUrl: "https://medcitynews.com/2021/07/biotech-startup-using-ai-to-take-guesswork-out-of-cancer-drug-selection-raises-70m/"
+    type: article
+    provider:
+      name: MedCity News
+      domain: medcitynews.com
+    quality: 35
+    images:
+      - url: "https://medcitynews.com/uploads/2021/07/Xiling-Shen-and-David-Hsu-lab.jpg"
+        width: 1400
+        height: 930
         isCached: true
 
 secured: "ftOVUJx1HcoPBh5VtAyg7FWfLieqy2+vZ7Wj38nqIXxIQtTQzLmwkNx6g2OD5M4rjKveRisSE9f10dhiJEuacZ3RhNSI2RHQnBalsJf36ypO/vZzVCWijzVd0kmEpg82NbRhLMFv7QbkLXlhRbhsMai+i46WRTWUSyGe7MVaZVucoiglsT/DYPYLPNpbQyN8/gqoo79IELoJJ6/BS9gQD9GChEMSYMZtDIqc4jIyWFctGYZbYSQtwDGf4qaMXNoSG7Ih68XqiVhd/ChpzV3WP+qMkWVCi6z+rPCmF4kbN8gbARVKA6/+vW/ifydHwIO+3HF03+kBBXqIs6c+emzwyhjJVJG6r5o8d+BIg8LynSA=;40TVbo9OVjhj1c9rYXfYVw=="

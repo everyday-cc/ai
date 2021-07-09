@@ -93,19 +93,16 @@ related:
         height: 400
         isCached: true
   - title: "Blue Prism & Lateetud, Inc. recognized as finalists of the 2021 Microsoft AI Partner of the Year"
-    excerpt: "Blue Prism® and Lateetud today announced that their joint solution has been named a finalist for the Artificial Intelligence 2021"
-    publishedDateTime: 2021-07-08T19:05:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/blue-prism--lateetud-inc-recognized-as-finalists-of-the-2021-microsoft-ai-partner-of-the-year-301328149.html"
+    excerpt: "Blue Prism and Lateetud created a turnkey, cloud-delivered solution on Azure to automate SBA PPP loans, combining Blue Prism's intelligent automation platform with the Microsoft Power Platform and Azure Cognitive Services. The solution uses Azure Form ..."
+    publishedDateTime: 2021-07-08T19:40:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/21/07/n21904040/blue-prism-lateetud-inc-recognized-as-finalists-of-the-2021-microsoft-ai-partner-of-the-year"
+    ampWebUrl: "https://www.benzinga.com/amp/content/21904040"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/21904040"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
+      name: Benzinga.com
+      domain: benzinga.com
     quality: 41
-    images:
-      - url: "https://mma.prnewswire.com/media/663826/Blue_Prism_Logo.jpg?p=facebook"
-        width: 2696
-        height: 1414
-        isCached: true
   - title: "Deep Learning Market Size and Growth to 2028 | Key Players – Amazon Web Services (AWS), Google, IBM, Intel, Micron Technology, Microsoft"
     excerpt: "The Deep Learning Market report forecasts promising growth and development for the period 2021-2028. The Deep Learning market research report defines key statistical data presented in an organized format including graphs,"
     publishedDateTime: 2021-07-06T03:55:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techradar.com/in/amp/news/bytedance-is-selling-tiktoks-a
 cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/in/amp/news/bytedance-is-selling-tiktoks-ai-platform-to-other-companies"
 type: article
 quality: 87
-heat: 207
+heat: 197
 published: true
 
 provider:
@@ -107,22 +107,6 @@ related:
       - url: "https://etimg.etb2bimg.com/thumb/msid-84165212,imgsize-488272,width-800,height-434,overlay-etbrandequity/bytedance-selling-tiktok-ai-to-companies-including-in-india.jpg"
         width: 800
         height: 434
-        isCached: true
-  - title: "ByteDance starts selling TikTok’s AI to other companies"
-    excerpt: "ByteDance is selling some of the artificial-intelligence technology that powers its viral video app TikTok to websites and apps outside China, as it broadens its revenue streams ahead of a long-anticipated initial public offering."
-    publishedDateTime: 2021-07-04T08:00:00Z
-    webUrl: "https://www.ft.com/content/bed7cba1-db7a-49c7-9d57-06fd19e14e10"
-    ampWebUrl: "https://amp.ft.com/content/bed7cba1-db7a-49c7-9d57-06fd19e14e10"
-    cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/bed7cba1-db7a-49c7-9d57-06fd19e14e10"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 57
-    images:
-      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F71a8f16d-2b95-4539-80ba-3f2c121a2736.jpg?source=amp&fit=scale-down&width=2272"
-        width: 2272
-        height: 1278
         isCached: true
   - title: "ByteDance selling TikTok AI to companies including in India"
     excerpt: "China-based ByteDance which is the parent company of TikTok, has reportedly started selling the AI technology of the short video-making app to other companies, including in India where the app is banned."

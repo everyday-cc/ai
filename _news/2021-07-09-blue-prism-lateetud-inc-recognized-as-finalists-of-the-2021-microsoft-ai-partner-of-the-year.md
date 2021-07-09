@@ -1,28 +1,24 @@
 ---
 category: news
 title: "Blue Prism & Lateetud, Inc. recognized as finalists of the 2021 Microsoft AI Partner of the Year"
-excerpt: "Blue Prism® and Lateetud today announced that their joint solution has been named a finalist for the Artificial Intelligence 2021"
-publishedDateTime: 2021-07-08T19:05:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/blue-prism--lateetud-inc-recognized-as-finalists-of-the-2021-microsoft-ai-partner-of-the-year-301328149.html"
-webUrl: "https://www.prnewswire.com/news-releases/blue-prism--lateetud-inc-recognized-as-finalists-of-the-2021-microsoft-ai-partner-of-the-year-301328149.html"
+excerpt: "Blue Prism and Lateetud created a turnkey, cloud-delivered solution on Azure to automate SBA PPP loans, combining Blue Prism's intelligent automation platform with the Microsoft Power Platform and Azure Cognitive Services. The solution uses Azure Form ..."
+publishedDateTime: 2021-07-08T19:40:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/21/07/n21904040/blue-prism-lateetud-inc-recognized-as-finalists-of-the-2021-microsoft-ai-partner-of-the-year"
+webUrl: "https://www.benzinga.com/pressreleases/21/07/n21904040/blue-prism-lateetud-inc-recognized-as-finalists-of-the-2021-microsoft-ai-partner-of-the-year"
+ampWebUrl: "https://www.benzinga.com/amp/content/21904040"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/21904040"
 type: article
 quality: 41
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - Microsoft AI
   - AI
-
-images:
-  - url: "https://mma.prnewswire.com/media/663826/Blue_Prism_Logo.jpg?p=facebook"
-    width: 2696
-    height: 1414
-    isCached: true
 
 related:
   - title: "Best Microsoft technical certification 2021: Top exams"
@@ -179,6 +175,6 @@ related:
       domain: tmcnet.com
     quality: 14
 
-secured: "So0SJdqwGwH0Op/2o7rfsgYtjENmtu1Njn0qXt6aW7mftARE8Gl+StFWNCqGAzFyvHgUx1G7ItJJjUNkj0G6UMNDOHzQjQWgeHNsKEMhcXHpgdhqkqIRMudTzlTOJBsROvLkn8dv1FJIPRu29Ue05UABFOAX9hpbkDIWV9LJpeDMhUVpsLxYEmc94uNnnCZT2U1MFqq0ylTAZ7MHTtwEAO7MANZ3nRODtrAJ9FlDVHl8yyyUVzmosxd0OFw3B4l4I1prv/KRrp+8DFw40MCZuI2OkSZpf8m1yRhwTN3tPar85Gtaqb45LWNBYpInrB3p6gpI/W7TxsCSTRODryIjwTQbK/cxUAgCYC8Vp/eBlfyil49pHaUtUOQ+pv/8DFFOPivD25upX6fXxYaYAIzFwvIsvzQ3z02GKGzKn+CqlLkcDnrdvEyhDhHcCfpopL0OBT+h4SPkRJRMMcGb8sXYZx6YvJaPioqlAA5bosT4swhmr0T7lNESX1e8Kx6ihKUShudd1cGdkwnxtgK0gFlTIw==;+ax1WVy4kExPS2ZorMGOkg=="
+secured: "hoP6rrUA2k+4H7+5HXB5E/hNztp0pZ3f8066IfZRqjMCfCGAFeyY3jZU9yv8JgEXO+eKq5NUI9b9/eYfHjYTy0pH6rjih56ZDQ55yG5/Jl1w65S5hx28HJfD13kYlWqMZ7fUEnLYo8LZOcay6tabkT/BL0IuKv69k7xN2A+ruIj4vDl3x+9lNlxBqKwL7hnb6t5iyEAn3jBZlOPEIOedot1Fa1EG6uvxnOI65SntK5TFrqjWHqoZU8+pk+fNVP0YVEoLaBEf9zQSsSFimYdT/LCyhTcOtOiPTzsRi4WED3+CZRZmnw3NRpKDRf7UU8+9wdWuxrh8YhmMcXNLLUV76ytlxkw3fyIhaBaZ9DBUdNo=;olfNqM6cKieWRGJW8eG3/Q=="
 ---
 

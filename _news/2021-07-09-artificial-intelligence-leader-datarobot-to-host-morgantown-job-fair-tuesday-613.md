@@ -1,44 +1,39 @@
 ---
 category: news
 title: "Artificial Intelligence Leader DataRobot to Host Morgantown Job Fair Tuesday, 6/13"
-excerpt: "DataRobot, the leader in Artificial Intelligence, will host a public job fair from 3-7 p.m. at Morgantown’s Erickson Alumni Center on Tuesday, July 13th. In June, DataRobot announced the opening of a new office at Vantage Ventures Morgantown headquarters."
-publishedDateTime: 2021-07-08T17:30:00Z
-originalUrl: "https://apnews.com/press-release/business-wire/morgantown-business-job-fairs-artificial-intelligence-technology-69444d4a9a0d44089b8325211ffafe82"
-webUrl: "https://apnews.com/press-release/business-wire/morgantown-business-job-fairs-artificial-intelligence-technology-69444d4a9a0d44089b8325211ffafe82"
+excerpt: "DataRobot, the leader in Artificial Intelligence, will host a public job fair from 3-7 p.m. at Morgantown's Erickson Alumni Center on Tuesday, July 13th. In June, DataRobot announced the opening of a new office at Vantage Ventures Morgantown headquarters."
+publishedDateTime: 2021-07-08T17:44:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-artificial-intelligence-leader-datarobot-host-morgantown-job-fair-/2021/07/08/9405633.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-artificial-intelligence-leader-datarobot-host-morgantown-job-fair-/2021/07/08/9405633.htm"
 type: article
-quality: 46
-heat: 46
+quality: 43
+heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
+  - AI in Robotics
   - AI
-
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
 
 related:
   - title: "CORRECTING and REPLACING Artificial Intelligence Leader DataRobot to Host Morgantown Job Fair Tuesday, 7/13"
-    excerpt: "Artificial Intelligence Leader DataRobot to Host Morgantown Job Fair Tuesday, 7/13 (instead of Artificial Intelligence Leader DataRobot to Host Morgantown Job Fair Tuesday, 6/13) The updated release reads:  ARTIFICIAL INTELLIGENCE LEADER DATAROBOT TO HOST MORGANTOWN JOB FAIR TUESDAY,"
+    excerpt: "DataRobot, the leader in Artificial Intelligence, will host a public job fair from 3-7 p.m. at Morgantown’s Erickson Alumni Center on Tuesday, July 13th. In June, DataRobot announced the opening of a new office at Vantage Ventures Morgantown headquarters."
     publishedDateTime: 2021-07-08T19:41:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/business-technology-artificial-intelligence-morgantown-job-fairs-bd5cae3128494491a422c67d7dee66d2"
+    webUrl: "https://www.joplinglobe.com/region/national_business/correcting-and-replacing-artificial-intelligence-leader-datarobot-to-host-morgantown-job-fair-tuesday-7-13/article_56b88038-894a-595e-abca-6abaade06353.html"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 34
+      name: Joplin Globe
+      domain: joplinglobe.com
+    quality: 51
     images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
+      - url: "https://bloximages.chicago2.vip.townnews.com/joplinglobe.com/content/tncms/custom/image/da68c2f8-c3ab-11e5-94c7-b366ea8ae93c.jpg"
+        width: 1200
+        height: 630
         isCached: true
 
-secured: "l/5+V3fM3Mv534SYIwRk0HmdoUBZe8/Y8t8qTD83qki/VP4rOT7KYbfFutXlM+XWyeqQLp5dNI9/p7kC7fIcZK+9frgQ1UrPEoHLDi49dJdQY2SvlqgApyeEIo1sP88FrCe81B6i4YMY3hML8vT+m/IW7vR0nMZdxoEmbUlwhOFU+4+tYoiG+q5LoJeeakvpTYsijgdKLK5djgDvtcSeHdaTTF3w2Pzj1tZlp9W7ck5v4gAd4HBLTtrA0QR5uNBi+qf0r5mwBUeEEnLreFBHpqTVmKzgJ24K8QZkrxSdRrSXkFqUV+Nqbx3U/b0dvqy7LSThZsSjHftxMgrhClZiB/qQVrr84prAG/f3cw0kEto=;jVC0yYD5KjGgH16/tUAKYQ=="
+secured: "sfI4FxJ1+EP0mBwa/ce3DHiLhkWxNK1W6c8jLaT6271t0pAWuCbknTmT/ASHBQgPmka8ffSPTUZiVvzhs6QXSh/dzIOlZFILMxcEDEzJW8+KqkHHUGdyPJsmIRPsJYOtGi414fzm8FGl+UtJwC0lvA/7fPPMvU9C89+DpfDtQ2tCKTVpaFTFIM8Dcox1dlKnrcg5tfTXr/FNCoetTOdP1MewH1L7fYyuuJeWM/NtJAoGt0HQ7QcjoDj5w8L51sv74jmyS4gB/Xlekl9DBTiopJdr8XBi7A47pe5Ga7scqbK2pzTCrtEvhoPpRJ8l6dXhxMPzqd7iKsA5ZvXJY7l7WXe1QLuedopvyPXzLZngyME=;CxXJfVkaeyFSPRZ0vX28EQ=="
 ---
 

@@ -44,6 +44,20 @@ related:
         height: 233
         isCached: true
   - title: "Machine learning and earthquake risk prediction"
+    excerpt: "The phenomenon is known as liquefaction, and it was a major feature of the 2011 earthquake in Christchurch, New Zealand, a magnitude 6.3 quake that killed 185 people and destroyed thousands of homes."
+    publishedDateTime: 2021-07-08T16:16:00Z
+    webUrl: "https://www.nsf.gov/discoveries/disc_summ.jsp?cntn_id=303051&org=NSF"
+    type: article
+    provider:
+      name: nsf.gov
+      domain: nsf.gov
+    quality: 39
+    images:
+      - url: "https://www.nsf.gov/news/mmg/media/images/ai_earthquakes_f.jpg"
+        width: 350
+        height: 220
+        isCached: true
+  - title: "Machine learning and earthquake risk prediction"
     excerpt: "Rathje's research on liquefaction led her to study the Christchurch event. She had been thinking about ways to incorporate machine learning into her research and this case seemed like a great place to start. The researchers developed a machine learning ..."
     publishedDateTime: 2021-07-08T17:11:00Z
     webUrl: "https://www.nsf.gov/discoveries/disc_summ.jsp?cntn_id=303051"

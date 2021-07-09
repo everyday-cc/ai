@@ -54,6 +54,20 @@ related:
         width: 690
         height: 400
         isCached: true
+  - title: "Biotech startup using AI to take guesswork out of cancer drug selection raises $70M"
+    excerpt: "Xilis is developing technology that creates a living model of a patient’s tumor, then applies artificial intelligence to determine the best drug or drug combinations to treat the cancer. Clinical trials are planned to test this precision medicine approach and the biotech startup has raised $70 million to fund its research."
+    publishedDateTime: 2021-07-09T00:46:00Z
+    webUrl: "https://medcitynews.com/2021/07/biotech-startup-using-ai-to-take-guesswork-out-of-cancer-drug-selection-raises-70m/"
+    type: article
+    provider:
+      name: MedCity News
+      domain: medcitynews.com
+    quality: 35
+    images:
+      - url: "https://medcitynews.com/uploads/2021/07/Xiling-Shen-and-David-Hsu-lab.jpg"
+        width: 1400
+        height: 930
+        isCached: true
 
 secured: "19FELu0eNQLPZbTFSqUiGUM0yvWaS57JqtpM6UsdqLyGefnGAZd+6Nx5s4lVXW98AmtvjKB892KDGbu/nD+JHGsmdn4knv9qrQoDuQq3IGX+8VgXWd7Po5ow8+ji8Yx88t6kIHXV0CcrUBKkKJlE6br7wsNn6dI3vDhPBU800d1hcKk+vDmfPuC+l1Kuog5o4+3tojRAUxLQq1G9b95lS6tJ5zTake3LeFo6HDTNM3BFCeJVdlnSXts5zjn5vlWns8gZs3b7ADvLvTGCmmBsO7k/8+k1ulns93upuIVRZLjq7SI+oBDAm645YYnMPlIcIo4pQ9gQmX9gaAI+zHcgmF06Bu/LwAC0A4B3Zc4wRKw=;n7j/r43g5ixl8zWahiP2gg=="
 ---

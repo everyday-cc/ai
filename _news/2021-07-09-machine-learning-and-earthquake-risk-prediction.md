@@ -57,6 +57,20 @@ related:
         width: 2880
         height: 1920
         isCached: true
+  - title: "Machine learning and earthquake risk prediction"
+    excerpt: "The phenomenon is known as liquefaction, and it was a major feature of the 2011 earthquake in Christchurch, New Zealand, a magnitude 6.3 quake that killed 185 people and destroyed thousands of homes."
+    publishedDateTime: 2021-07-08T16:16:00Z
+    webUrl: "https://www.nsf.gov/discoveries/disc_summ.jsp?cntn_id=303051&org=NSF"
+    type: article
+    provider:
+      name: nsf.gov
+      domain: nsf.gov
+    quality: 39
+    images:
+      - url: "https://www.nsf.gov/news/mmg/media/images/ai_earthquakes_f.jpg"
+        width: 350
+        height: 220
+        isCached: true
   - title: "Researchers achieve improved prediction of Indian Monsoon onset using machine learning"
     excerpt: "The onset of the Indian summer monsoon has been predicted three months ahead for the last 40 years with the highest precision up until today. The result indicates longer seasonal forecasts based on machine learning may be a way to mitigate the consequences of an erratic monsoon system under future global warming."
     publishedDateTime: 2021-07-06T20:13:00Z

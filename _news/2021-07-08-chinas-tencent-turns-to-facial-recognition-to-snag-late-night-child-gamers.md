@@ -179,6 +179,22 @@ related:
         width: 1284
         height: 720
         isCached: true
+  - title: "Tencent’s face recognition tech stops kids from late-night gaming in China"
+    excerpt: "Chinese tech company Tencent has announced that it is using facial recognition on mobile phones software to stop children from playing games late at night. According to The Register, Tencent sent out a press release stating that players will need to use facial recognition software that stops children playing between 10pm and 8am."
+    publishedDateTime: 2021-07-09T01:10:00Z
+    webUrl: "https://www.nme.com/en_asia/news/gaming-news/tencents-face-recognition-tech-stops-kids-from-late-night-gaming-in-china-2989246"
+    ampWebUrl: "https://www.nme.com/en_asia/news/gaming-news/tencents-face-recognition-tech-stops-kids-from-late-night-gaming-in-china-2989246?amp"
+    cdnAmpWebUrl: "https://www-nme-com.cdn.ampproject.org/c/s/www.nme.com/en_asia/news/gaming-news/tencents-face-recognition-tech-stops-kids-from-late-night-gaming-in-china-2989246?amp"
+    type: article
+    provider:
+      name: NME
+      domain: nme.com
+    quality: 57
+    images:
+      - url: "https://www.nme.com/wp-content/uploads/2020/08/Google-Play-Music-app@2000x1270.jpg"
+        width: 2000
+        height: 1270
+        isCached: true
   - title: "Tencent Games Is Using Facial Recognition To Limit Minors' Game Time In China"
     excerpt: "The company has rolled out a new measure to try and curb video game addiction among minors to comply with government regulations."
     publishedDateTime: 2021-07-07T18:25:00Z
@@ -370,20 +386,6 @@ related:
       - url: "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2021%2F07%2FTencent-Is-Using-Facial-Recognition-To-Monitor-Kids-Screen-Time-tw.jpg?w=960&cbr=1&q=90&fit=max"
         width: 960
         height: 480
-        isCached: true
-  - title: "Investors issue statement on human rights implications of facial recognition technologies & commitments to due diligence"
-    excerpt: "We are 50 global institutional investors and their representatives with $4.5 trillion in assets under management as of December, 2020. As responsible investors, we incorporate Environmental, Social and Governance (ESG) factors,"
-    publishedDateTime: 2021-07-04T08:19:00Z
-    webUrl: "https://www.business-humanrights.org/en/latest-news/investors-issue-statement-on-human-rights-implications-of-facial-recognition-technologies-commitments-to-due-diligence/"
-    type: article
-    provider:
-      name: 洗護用品和肥皂
-      domain: business-humanrights.org
-    quality: 14
-    images:
-      - url: "https://media.business-humanrights.org/media/images/united-nations-419885_1280.2e16d0ba.fill-788x488.jpg"
-        width: 788
-        height: 488
         isCached: true
 
 secured: "UCQXomobKIJBDlrLih21Dmr20Bs/smvUL9xLs0kcragLMTo0oqtPSol9nOTBK4lWF7l5p7m7tap2Ed55TFK8sev3px8qz6dWnrAOXupkZ9Q7ZtAKPBgnGLvz9h5gQ1kTG9XCip6h1NiOrYLMnT6meySdp8OD0BTQnmqoflWKErKScCadlFWM1T8sVqMd6rAUQ2gznBQJx8WXcce2MrxyK5W1EdDajhnU4UxOWjBYpq1v0WZDNYQhSnMVGpYn7doHJluvDEn/Mqj53VLjIglMgtGM3SFFLWFvsVd2iDOtWSV3tHI9bTYFvl50Z+j4jZEBAci42fSTZls3eMvUnOpfLo4pECqTELdUzI49eZkSWihEF85fJo3+JxeOO0wEzOuIBP85hDFRB8oCG2DmBQtnD1yINZV+pIZ3es3liOhp74o+4chAcqec69I5Fi1CBoaVGPVXjEVtL6JwWGmKwl9E2kPxpal/qK+k38pK1bp3M7eNUfQbHw8MiTXqAbPsDDRB1r4xTxfwyU87JWGxfee1vw==;RMYvjP2IFey1Vl4GIC46EA=="

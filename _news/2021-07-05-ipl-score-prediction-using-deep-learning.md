@@ -9,7 +9,7 @@ ampWebUrl: "https://www.geeksforgeeks.org/ipl-score-prediction-using-deep-learni
 cdnAmpWebUrl: "https://www-geeksforgeeks-org.cdn.ampproject.org/c/s/www.geeksforgeeks.org/ipl-score-prediction-using-deep-learning/amp/"
 type: article
 quality: 61
-heat: 101
+heat: 111
 published: true
 
 provider:
@@ -43,6 +43,20 @@ related:
       - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/machine-learning-impro.jpg"
         width: 2880
         height: 1920
+        isCached: true
+  - title: "Machine learning and earthquake risk prediction"
+    excerpt: "The phenomenon is known as liquefaction, and it was a major feature of the 2011 earthquake in Christchurch, New Zealand, a magnitude 6.3 quake that killed 185 people and destroyed thousands of homes."
+    publishedDateTime: 2021-07-08T16:16:00Z
+    webUrl: "https://www.nsf.gov/discoveries/disc_summ.jsp?cntn_id=303051&org=NSF"
+    type: article
+    provider:
+      name: nsf.gov
+      domain: nsf.gov
+    quality: 39
+    images:
+      - url: "https://www.nsf.gov/news/mmg/media/images/ai_earthquakes_f.jpg"
+        width: 350
+        height: 220
         isCached: true
   - title: "Machine learning and earthquake risk prediction"
     excerpt: "Rathje's research on liquefaction led her to study the Christchurch event. She had been thinking about ways to incorporate machine learning into her research and this case seemed like a great place to start. The researchers developed a machine learning ..."
