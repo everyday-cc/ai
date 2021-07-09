@@ -3,12 +3,10 @@ category: news
 title: "OnePlus Nord 2 confirmed with new MediaTek chip made for photo processing"
 excerpt: "OnePlus recently confirmed the existence of the Nord 2 via a surprise press release. Officially named the “Nord 2 5G”, the phone will sport several enhancements over the original OnePlus Nord, including the MediaTek chipset and AI-based features."
 publishedDateTime: 2021-07-08T07:00:00Z
-originalUrl: "https://www.tomsguide.com/uk/news/oneplus-nord-2-confirmed-with-new-mediatek-chip-made-for-photo-processing"
-webUrl: "https://www.tomsguide.com/uk/news/oneplus-nord-2-confirmed-with-new-mediatek-chip-made-for-photo-processing"
-ampWebUrl: "https://www.tomsguide.com/uk/amp/news/oneplus-nord-2-confirmed-with-new-mediatek-chip-made-for-photo-processing"
-cdnAmpWebUrl: "https://www-tomsguide-com.cdn.ampproject.org/c/s/www.tomsguide.com/uk/amp/news/oneplus-nord-2-confirmed-with-new-mediatek-chip-made-for-photo-processing"
+originalUrl: "https://www.tomsguide.com/news/oneplus-nord-2-confirmed-with-new-mediatek-chip-made-for-photo-processing"
+webUrl: "https://www.tomsguide.com/news/oneplus-nord-2-confirmed-with-new-mediatek-chip-made-for-photo-processing"
 type: article
-quality: 58
+quality: 38
 heat: -1
 published: false
 
@@ -21,9 +19,9 @@ topics:
   - AI
 
 images:
-  - url: "https://cdn.mos.cms.futurecdn.net/UU8k7B4KinXkzEnJEHxUUo-480-80.jpg"
-    width: 480
-    height: 270
+  - url: "https://cdn.mos.cms.futurecdn.net/UU8k7B4KinXkzEnJEHxUUo-1200-80.jpg"
+    width: 1200
+    height: 675
     isCached: true
 
 related:
@@ -246,6 +244,6 @@ related:
         height: 600
         isCached: true
 
-secured: "uTRkpuiOrlA5Nime1vQDd8E8BYjgIUFIlnRnjOD8oFH2l3vEmbzt1AlzJkRAxNonzPTbXbzH3jlUBYiFBCB36CzHJNA6pweuHdwOvXRhlgOUtg+qS2ZELAdMivA1xhuIYZL39dN9bGNSm1jOBVrBMepPSgz1MeSr7R3bKfpiiJvqlMuLdM7INo770EqhwbSg0Q9aMKmES7NbbJsltUGvsFCh6VnKn9L9Ftt+e0728FRmfUl8ikVjT83DWn74PKxDQZn1Ljp3I50QxdsI5zn0DWakBTERwuByxZRlSfUn7Pefl2BQiUk9anflY+RePOC183xmO7hQs5az2Fre3BmTlRdSPrL/6wK9Wr2K6irFZq0dXxV4F4qIyeM/mW33GxwkoqyZ4mMD8TdM5lMqUWZ10BpsXrzqZ4p0wYDZsAzT9xfdIkBVOerkgTjiOASvXaABQNhaGUlHlZkg4AzwT05Lq5NOGPmWB5Pj8Mh1WO/SsGcZwYruYkON9Eq05COqXN84JqnfHyBgf1uMQcWkCu0w4g==;DJhtHebEmi2dF+urmAfdlA=="
+secured: "ySX9uteV2+DIMlRMuObv4CjKpl4R61n7eG+tdXD5uidymCGzDOVXigV6+rtywrWmPl57Dn8dxMHCrCm1JhR1RpLFgT97M+k6Oee+kdtdxV7l7MMsjXPDIiebKKKwjL1B1XNnFvC0oaaln9ktyiTWkBk3pv34b1LWYlRU7n+f5jT5bAvpLlye/W/p10zaiRYgdcKauYulmbNYqxNlZNm4CV8CgyEcOkuSw1VEnfiSdbfMKXUNx0j+hk1W/w5WGA82SqlXyvfAyQ0ZnWcnGeeannpMHdYUCHzQ2ATVx3RYUQ+Kni2HRH7BCPcnpbK/UDiMVojIKMRVubsL/sLO8FewcG3ufY4l37gYpgX8i8M2e0c=;CB0cG9KZT8zp3TuYMKCJGQ=="
 ---
 

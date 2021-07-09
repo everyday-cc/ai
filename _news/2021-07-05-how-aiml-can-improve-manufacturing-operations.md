@@ -34,18 +34,18 @@ related:
         height: 420
         isCached: true
   - title: "AI/ML Innovations Inc. Engages Volt Strategic Partners and TDM Financial for Capital Market Communications and Market-Making Services"
-    excerpt: "TORONTO, ON / ACCESSWIRE / July 5, 2021 / AI/ML Innovations Inc. (CSE:AIML)(OTCQB:AIMLF) (“AIML” or the “Company”), a company committed to acquiring and advancing Artificial Intelligence/Machine Learning technologies that address urgent societal needs,"
-    publishedDateTime: 2021-07-05T21:11:00Z
-    webUrl: "https://www.digitaljournal.com/pr/ai-ml-innovations-inc-engages-volt-strategic-partners-and-tdm-financial-for-capital-market-communications-and-market-making-services"
+    excerpt: "Volt Strategic is a market communications and business optimization firm working with senior business leaders and innovators to help grow organizational value, build business and accelerate market appreciation for emerging technology,"
+    publishedDateTime: 2021-07-05T21:46:00Z
+    webUrl: "https://www.bignewsnetwork.com/news/270183213/aiml-innovations-inc-engages-volt-strategic-partners-and-tdm-financial-for-capital-market-communications-and-market-making-services"
     type: article
     provider:
-      name: Digital Journal
-      domain: digitaljournal.com
+      name: Big News Network.com
+      domain: bignewsnetwork.com
     quality: 25
     images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2021/07/London-Symphony-Orchestra-free-concert-600x337.jpeg"
-        width: 600
-        height: 337
+      - url: "https://cdn.bignewsnetwork.com/cus1625767844670.jpg"
+        width: 630
+        height: 420
         isCached: true
   - title: "AI/ML Innovations Inc. Issues Correction Regarding Engagement of Volt Strategic Partners"
     excerpt: "TORONTO, ON / ACCESSWIRE / July 6, 2021 / AI/ML Innovations Inc. (CSE:AIML), (OTCQB:AIMLF) (\"AIML\" or the \"Company\"), a company committed to acquiring and advancing Artificial Intelligence/Machine Learning technologies that address urgent societal needs,"

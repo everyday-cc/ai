@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/best-microsoft-technical-ce
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/best-microsoft-technical-certification/"
 type: article
 quality: 91
-heat: 221
+heat: 231
 published: true
 
 provider:
@@ -162,6 +162,15 @@ related:
       name: Business Wire
       domain: businesswire.com
     quality: 27
+  - title: "Blue Prism & Lateetud, Inc. recognized as finalists of the 2021 Microsoft AI Partner of the Year"
+    excerpt: "LONDON and AUSTIN, Texas and WASHINGTON, July 8, 2021 /PRNewswire/ -- Blue Prism® and Lateetud today announced that their joint solution has been named a finalist for the Artificial Intelligence 2021 Microsoft Partner of the Year Award."
+    publishedDateTime: 2021-07-08T14:05:00Z
+    webUrl: "https://www.morningstar.com/news/pr-newswire/20210708da36675/blue-prism-lateetud-inc-recognized-as-finalists-of-the-2021-microsoft-ai-partner-of-the-year"
+    type: article
+    provider:
+      name: Morningstar, Inc.
+      domain: morningstar.com
+    quality: 21
   - title: "AI in Telecommunication Market Booming Segments; Investors Seeking Growth | Google, Microsoft, IBM"
     excerpt: "Get Free Exclusive PDF Sample Copy of This Research @  Scope of the Report of AI in Telecommunication Artificial Intelligence with learning abilities is a revolutionary technology, which the communication industry is exploring,"
     publishedDateTime: 2021-07-08T16:59:00Z

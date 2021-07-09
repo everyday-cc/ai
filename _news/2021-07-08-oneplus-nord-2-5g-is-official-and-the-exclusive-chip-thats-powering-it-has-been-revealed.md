@@ -137,22 +137,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "OnePlus Nord 2 confirmed with new MediaTek chip made for photo processing"
-    excerpt: "OnePlus recently confirmed the existence of the Nord 2 via a surprise press release. Officially named the “Nord 2 5G”, the phone will sport several enhancements over the original OnePlus Nord, including the MediaTek chipset and AI-based features."
-    publishedDateTime: 2021-07-08T07:00:00Z
-    webUrl: "https://www.tomsguide.com/uk/news/oneplus-nord-2-confirmed-with-new-mediatek-chip-made-for-photo-processing"
-    ampWebUrl: "https://www.tomsguide.com/uk/amp/news/oneplus-nord-2-confirmed-with-new-mediatek-chip-made-for-photo-processing"
-    cdnAmpWebUrl: "https://www-tomsguide-com.cdn.ampproject.org/c/s/www.tomsguide.com/uk/amp/news/oneplus-nord-2-confirmed-with-new-mediatek-chip-made-for-photo-processing"
-    type: article
-    provider:
-      name: Tom's Guide
-      domain: tomsguide.com
-    quality: 58
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/UU8k7B4KinXkzEnJEHxUUo-480-80.jpg"
-        width: 480
-        height: 270
-        isCached: true
   - title: "Dimensity 1200-AI on OnePlus Nord 2: How is it different from the vanilla MediaTek version?"
     excerpt: "OnePlus will use a specialized version of the Dimensity 1200 chip on the Nord 2 5G. We take a quick look at the “AI” in the Dimensity 1200-AI chip."
     publishedDateTime: 2021-07-08T04:21:00Z
@@ -182,6 +166,20 @@ related:
       - url: "https://www.gizmochina.com/wp-content/uploads/2021/07/OnePlus-Nord-2-5G-Dimensity-1200-AI-vs-Realme-GT-Neo-Dimensity-1200-AI-Benchmark.jpg"
         width: 1835
         height: 943
+        isCached: true
+  - title: "OnePlus Nord 2 confirmed with new MediaTek chip made for photo processing"
+    excerpt: "OnePlus recently confirmed the existence of the Nord 2 via a surprise press release. Officially named the “Nord 2 5G”, the phone will sport several enhancements over the original OnePlus Nord, including the MediaTek chipset and AI-based features."
+    publishedDateTime: 2021-07-08T07:00:00Z
+    webUrl: "https://www.tomsguide.com/news/oneplus-nord-2-confirmed-with-new-mediatek-chip-made-for-photo-processing"
+    type: article
+    provider:
+      name: Tom's Guide
+      domain: tomsguide.com
+    quality: 38
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/UU8k7B4KinXkzEnJEHxUUo-1200-80.jpg"
+        width: 1200
+        height: 675
         isCached: true
   - title: "OnePlus Nord 2 5G Confirmed To Come With MediaTek Dimensity 1200-AI SoC; First OnePlus Phone With MediaTek SoC"
     excerpt: "OnePlus Nord 2 5G will come with a MediaTek Dimensity 1200-AI chipset, the company has confirmed in an official teaser."

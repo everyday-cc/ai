@@ -7,7 +7,7 @@ originalUrl: "https://www.businesswire.com/news/home/20210706005086/en/Aible-Dou
 webUrl: "https://www.businesswire.com/news/home/20210706005086/en/Aible-Doubles-Down-on-Guaranteed-Impact-With-New-Industry-First-Enterprise-AI-Features"
 type: article
 quality: 9
-heat: -1
+heat: 9
 published: false
 
 provider:
@@ -16,40 +16,6 @@ provider:
 
 topics:
   - AI
-
-related:
-  - title: "The future of the AI-based enterprise"
-    excerpt: "Imagine an enterprise like a living organism that will naturally adapt based on the environment. Its products and services, will grow, shrink, defend, and heal themselves as needed. This is the future of the AI -based enterprise."
-    publishedDateTime: 2021-07-04T10:51:00Z
-    webUrl: "https://www.techradar.com/news/the-future-of-the-ai-based-enterprise"
-    ampWebUrl: "https://www.techradar.com/amp/news/the-future-of-the-ai-based-enterprise"
-    cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/the-future-of-the-ai-based-enterprise"
-    type: article
-    provider:
-      name: TechRadar
-      domain: techradar.com
-    quality: 89
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/Wcc69A4Ts8bhSbGgJeGkoZ-480-80.jpg"
-        width: 480
-        height: 320
-        isCached: true
-  - title: "The Role of Enterprises: Is Artificial Intelligence (AI) Taking Away Jobs?"
-    excerpt: "It has been the rule of nature and society that when the application of technologies like Artificial Intelligence in the workforce or daily lifestyle"
-    publishedDateTime: 2021-07-05T14:32:00Z
-    webUrl: "https://fossbytes.com/artificial-intelligence-ai-taking-away-jobs-enterprise/"
-    ampWebUrl: "https://fossbytes.com/artificial-intelligence-ai-taking-away-jobs-enterprise/amp/"
-    cdnAmpWebUrl: "https://fossbytes-com.cdn.ampproject.org/c/s/fossbytes.com/artificial-intelligence-ai-taking-away-jobs-enterprise/amp/"
-    type: article
-    provider:
-      name: Foss Bytes
-      domain: fossbytes.com
-    quality: 70
-    images:
-      - url: "https://fossbytes.com/wp-content/uploads/2021/07/ai-taking-over-more-jobs-in-us-2019.jpeg"
-        width: 1280
-        height: 720
-        isCached: true
 
 secured: "mSxLCeoeqRWEFi+meg3Vm202RMc/UlQ/KYeZpxRFooepawjwnsSGSodn3I5nB/XGJTU7iCFSnidlCpM0462vbCQvlHp7ksxxo8klTM6Rn2GkrBvzSeQCyEdamsOTAePvp7z0GpbfS1/Kn4fsoyVBupFPyYXcT+CyOpswsHBdWKcFfq2U0Yjcn7pv803hz5Sv38q6zwwljtYz/BvHWOjkC0Fy7o2WbCO8ED/nqSoz3g3X9ab3fspEYn1/dKEuuiIT15uvOzvs/iU8oOa0CpccDosFUEsbB47NM+DFIsKWMbilfOGccu2jX2eBNEpz93k4J+fc9GdPyLCVcyKwCz3iLqRV7oBB+UCzjbi83IoT7kY=;XnzHNvqiiReIJ87w9+SbtQ=="
 ---

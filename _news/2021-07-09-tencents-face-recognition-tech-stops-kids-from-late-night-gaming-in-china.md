@@ -8,7 +8,7 @@ webUrl: "https://www.nme.com/en_asia/news/gaming-news/tencents-face-recognition-
 ampWebUrl: "https://www.nme.com/en_asia/news/gaming-news/tencents-face-recognition-tech-stops-kids-from-late-night-gaming-in-china-2989246?amp"
 cdnAmpWebUrl: "https://www-nme-com.cdn.ampproject.org/c/s/www.nme.com/en_asia/news/gaming-news/tencents-face-recognition-tech-stops-kids-from-late-night-gaming-in-china-2989246?amp"
 type: article
-quality: 57
+quality: 59
 heat: -1
 published: false
 
@@ -19,6 +19,7 @@ provider:
 topics:
   - Computer Vision
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://www.nme.com/wp-content/uploads/2020/08/Google-Play-Music-app@2000x1270.jpg"
@@ -120,20 +121,6 @@ related:
       - url: "https://i.insider.com/60e56ef8c03e9c0018ab2276?width=1200&format=jpeg"
         width: 1200
         height: 600
-        isCached: true
-  - title: "Tencent Uses Facial Recognition to Ban Kids Gaming Past Bedtime"
-    excerpt: "In the latest bid to curb video-game addiction in China, tech giant Tencent Holdings Ltd. has launched a facial recognition system to stop minors gaming into the night. The initiative will prevent people under 18 from playing between 10 p.m. and 8 a.m. The ..."
-    publishedDateTime: 2021-07-08T22:41:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2021-07-08/tencent-uses-facial-recognition-to-ban-kids-gaming-past-bedtime"
-    type: article
-    provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 69
-    images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iy2UcpOVPA7k/v0/1200x800.jpg"
-        width: 1200
-        height: 800
         isCached: true
   - title: "Tencent’s creepy new facial recognition system detects kids gaming at night"
     excerpt: "Chinese tech giant Tencent has launched a creepy new facial recognition system that detects children who are playing video games at night."
@@ -289,6 +276,20 @@ related:
         width: 1280
         height: 960
         isCached: true
+  - title: "Tencent Uses Facial Recognition to Ban Kids Gaming Past Bedtime"
+    excerpt: "In the latest bid to curb video-game addiction in China, tech giant Tencent Holdings Ltd. has launched a facial recognition system to stop minors gaming into the night. The initiative will prevent people under 18 from playing between 10 p."
+    publishedDateTime: 2021-07-09T02:42:00Z
+    webUrl: "https://www.bloombergquint.com/technology/tencent-uses-facial-recognition-to-ban-kids-gaming-past-bedtime"
+    type: article
+    provider:
+      name: BloombergQuint
+      domain: bloombergquint.com
+    quality: 39
+    images:
+      - url: "https://gumlet.assettype.com/bloombergquint%2F2018-08%2F3a8e2237-2edb-4494-bcf2-231993fb6108%2FBLOOMBERG_LOGO.png?rect=0%2C56%2C1920%2C1008&w=1200&auto=format%2Ccompress&ogImage=true"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "China's Tencent Turns To Facial Recognition To Snag Late-night Child Gamers"
     excerpt: "Chinese tech giant Tencent has rolled out a facial recognition \"midnight patrol\" function to root out children masquerading as adults to get around a government curfew on underage gamers. China bans people under 18 from playing online games between 10pm and 8am,"
     publishedDateTime: 2021-07-08T04:23:00Z
@@ -388,6 +389,6 @@ related:
         height: 480
         isCached: true
 
-secured: "p4PKfg5Rl2ijNpIFEjx5X4u7NuwgjWnymVtSbVVEfcGokqCPAuoC+Rxw2E/tIggZownRZ7rJkHJmQ2l7JWoKes/1Ra2yc4yrV3iHXZnQmfIdc2Gyv8gglRs35kk+kVvYvhgKsh3tkCo1oeZffOROEUYccWB53rQZ0Wnk7F65I1/w+eLWWr6OLXD8WgmFENBJUl4BKulisrEyQxDaTi1Q4OxMfs8ybr6c/oW+3QmC84rAufdbdxkczwwUSsDwi4tnwdJLd4ow2IqJldstjFxe1q6GOuPFWuVCfVsdqCC9x89xDKIfgZLuE0vwLfMvVnV17/MSXzmifY2FKLZab1Fd1+xe6RA+F2beBACWvuXnVAE=;i+/k00duCgNq7SryoxKMHg=="
+secured: "od8m14GL4u9u+8AerkQvj0g41vMeZc6LJnrZHFT3VF3wKNKKeai5QlTfpSm6cr2sTmcr5Hl1jK+yYoHxFIHQU5LZAF6KL2P6OTrtXWyiGrWm84s4OQOomYs+NuK8rNUJok2EF9UJmpDGl2zdiQuvEDrPkWDicRd67XIKZPhlhTL6/S+kxbeex+Pu0COPJwNgdlL1H7O0S8AS/Agjc4OrJfSz5IW2S+o8LacMXhSmREbu9nadkCZRy3H+cRWeEqFtDygpuUQrXD5kGrM09VJmKsxFoFVkQcAAE4M0zLPZgrRwyE737ci4B5nUQWHq9OdFEmQNRAEKwBwuX3aSfPTyOw7l2WyznjKmDqgz1BnQK5/W10+oonJeGvLbANNOKE9SiAMa4hxMv/XYpICFxEM1ItxwpaTWDPXaTrJXAHXT0XSuYENNUFMOaFT3qprg+SCSgeHo5iSW5t3VhKug0KZ8CV/2MlnDtjIsIBdgEDZu6il2XsPBYxM/eyq0nfq+TM3MDEDmGr6A9BRk/NvbPt1+NA==;wXgG8sWy4pti+uVmkj5+hg=="
 ---
 

@@ -165,6 +165,15 @@ related:
       name: Business Wire
       domain: businesswire.com
     quality: 27
+  - title: "Blue Prism & Lateetud, Inc. recognized as finalists of the 2021 Microsoft AI Partner of the Year"
+    excerpt: "LONDON and AUSTIN, Texas and WASHINGTON, July 8, 2021 /PRNewswire/ -- Blue Prism® and Lateetud today announced that their joint solution has been named a finalist for the Artificial Intelligence 2021 Microsoft Partner of the Year Award."
+    publishedDateTime: 2021-07-08T14:05:00Z
+    webUrl: "https://www.morningstar.com/news/pr-newswire/20210708da36675/blue-prism-lateetud-inc-recognized-as-finalists-of-the-2021-microsoft-ai-partner-of-the-year"
+    type: article
+    provider:
+      name: Morningstar, Inc.
+      domain: morningstar.com
+    quality: 21
   - title: "CIBC and Microsoft announce strategic relationship to accelerate the bank's transformation and cloud-first approach"
     excerpt: "CNW/ - Today CIBC and Microsoft announced a strategic relationship through a multi-year agreement formalizing Microsoft Azure as CIBC's primary cloud platform. CIBC's cloud-first approach will be enabled by Microsoft Azure's vast on-demand computing power,"
     publishedDateTime: 2021-07-08T17:15:00Z

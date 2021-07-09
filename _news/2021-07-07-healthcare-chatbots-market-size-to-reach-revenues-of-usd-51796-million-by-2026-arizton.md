@@ -34,6 +34,20 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 22
+  - title: "Artificial Intelligence in Medicine Market: Global Industry Size Will Reach USD 15,000.00 Million By 2026"
+    excerpt: "Pages Report] According to the Facts and Factors research report, the global artificial intelligence in medicine market in 2019 was around USD 800.00 Million. The market"
+    publishedDateTime: 2021-07-08T21:50:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/21/07/ab21907737/artificial-intelligence-in-medicine-market-global-industry-size-will-reach-usd-15-000-00-million-"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 20
+    images:
+      - url: "https://cdn.benzinga.com/files/imagecache/og_image_social_share_1200x630/sites/all/themes/bz2/images/bz-icon.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "3md0OgaGE15enGkIgfGANc4J02AUOps026EEEOoSOCUHX5e9S/RK5+vu7qORaeyNlZQbf9Tiy+kooNKSoGiR7a3/acipvTxgf4pAcQtzoNbNIexxLBkjoUMUbqxIEqqGnMFQUtLTC+hS/dC677a8Du55QXpQRa+H5GPHm2GX5O5Ld9rgKRdDaR3BN0Fp0xYbENdg4AF2HGG1FaIdzNJnL53T1E/CX96ykr/9MPCnuUFM9qQwDaHouTcp9DMSQ8gRUmhb8XR568E+xmI8u7CpnvFO5d82/9+05037gUs4S5sMNE5KMOIvlrluC9JwT0UP1A8Vl5WYR4Y8ToR7mtBlc0VpDbOaC8BO3CuHqvxKlBg=;htu35IhDGhfrB7y9kUCW+Q=="
 ---
