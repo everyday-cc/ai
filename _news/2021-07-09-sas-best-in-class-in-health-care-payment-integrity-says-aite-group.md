@@ -1,10 +1,10 @@
 ---
 category: news
 title: "SAS Best in Class in Health Care Payment Integrity, Says Aite Group"
-excerpt: "SAS, the leader in massively parallel analytics and artificial intelligence (AI), is lauded as the best-in-class vendor in Aite Matrix: Payment Integrity in Healthcare. SAS’ stability, brand recognition, and product features and functionality ..."
-publishedDateTime: 2021-07-09T07:16:00Z
-originalUrl: "https://www.newswiretoday.com/news/175778/SAS-Best-in-Class-in-Health-Care-Payment-Integrity-Says-Aite-Group/"
-webUrl: "https://www.newswiretoday.com/news/175778/SAS-Best-in-Class-in-Health-Care-Payment-Integrity-Says-Aite-Group/"
+excerpt: "SAS, the leader in massively parallel analytics and artificial intelligence (AI), is lauded as the best-in-class vendor in Aite Matrix: Payment Integrity in Healthcare. SAS’ stability, brand recognition,"
+publishedDateTime: 2021-07-09T06:24:00Z
+originalUrl: "https://www.newswiretoday.com/news/175778/"
+webUrl: "https://www.newswiretoday.com/news/175778/"
 type: article
 quality: 19
 heat: -1
@@ -48,6 +48,6 @@ related:
         height: 575
         isCached: true
 
-secured: "n6dCUxbTUMRxkSBLEKx8S8Vsmn7+UBNJdX2EJeyPw5BT4bH2XvC0Y9DqO0DEIYAWiBsxn9xdm+cBSJczSInxd4Qj1+2945IUlZ5gJX1hR9CA4M+4tm4Dkn374cSeN8j4vOlqAygp1N18TLyw46ktw5DCqDeYhNcAnYuIQCUDSfVnFKI86SzTKZz+QJmnaiuOn74y0jwG8cwrytvYHazeethe1qx/+vZeydL4917NAyMwP4ygdyoIf8scGcHiz/eeX7FMnCF8B3gCHyAN1hk0OAauCtS41VqeQ9/qsIAsgNbMUl2Gg38FLzQPJylhfUFIuQMEshoGyaTqeCggbPXFXkO9zVf8PfxpM07ptBZTeKliGIIks9GY87oi7HaTN91lQnw1sQAFaHyfx75FGPOVZFIi+R+QWilyOWeNcucwdE/Bf3qFbsFue6XL6A3Ts58lNZbJ+NyYGPMn7BtrC2WOxq+gel3EGuD4DKlXFnv0kn96+RjVqTVS3ocbcvj57BDliRe1ZWz5VuJOHcE1JFwj7g==;QQ+zThQHhIidbKwI7lPC6Q=="
+secured: "8LhYWvCKkMq3sRTIT/Bqd7EqhGZfFEmumpBL4QdtSd7M5z5wR7TAYFvpb/XPyOSS81OOCpk01Sc8xHVYmpkfGxNVBAhIpHWf1IkOIXyYjAJCjPjSnNElH7QWOeaJ3uv4Mx5chkQ/6faQJ0XvJp98yttHd4n48elphkOT1oMmucVy8c0lFtSrh4r6UbhmORV/WVU03diyF+O3ShH9RpxBw8aqHF3fP80Nh9YAOS1Sae5Xbc/QYDP5c9FM9DIcRr96DsHEvS+IoL+iQtcf0opDe7aez82OI18Hp0UWZ5QN25kXPrytYsbjVah9azQQwtz415vDmbiulHO+IUYclcdD+gIIx5PKkcHYWxOfqziou9YR4+ip3Z4u0axWeHQn7WeIH0h7HHCFhDWb65dLj7Ri7iKYzLUp3/F6oL5dyLNXhgHRJpBhGXJjipPjv2b5R6lDl4ExgHfamHwPobnMLgQ6NyrLTbDWs4jAzcMibzzmXnVoai5OFOMGxNm3eKJinITJNDNMi2YJKXkxcaQlxbPAPg==;d4rBG/2TOjHRFpKe+nH0wQ=="
 ---
 

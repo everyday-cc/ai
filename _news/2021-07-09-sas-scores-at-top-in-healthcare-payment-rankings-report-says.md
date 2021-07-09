@@ -40,9 +40,9 @@ related:
         height: 400
         isCached: true
   - title: "SAS Best in Class in Health Care Payment Integrity, Says Aite Group"
-    excerpt: "SAS, the leader in massively parallel analytics and artificial intelligence (AI), is lauded as the best-in-class vendor in Aite Matrix: Payment Integrity in Healthcare. SAS’ stability, brand recognition, and product features and functionality ..."
-    publishedDateTime: 2021-07-09T07:16:00Z
-    webUrl: "https://www.newswiretoday.com/news/175778/SAS-Best-in-Class-in-Health-Care-Payment-Integrity-Says-Aite-Group/"
+    excerpt: "SAS, the leader in massively parallel analytics and artificial intelligence (AI), is lauded as the best-in-class vendor in Aite Matrix: Payment Integrity in Healthcare. SAS’ stability, brand recognition,"
+    publishedDateTime: 2021-07-09T06:24:00Z
+    webUrl: "https://www.newswiretoday.com/news/175778/"
     type: article
     provider:
       name: Newswire Today

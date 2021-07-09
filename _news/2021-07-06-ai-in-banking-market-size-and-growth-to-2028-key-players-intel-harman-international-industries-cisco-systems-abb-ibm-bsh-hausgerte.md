@@ -18,15 +18,29 @@ topics:
   - AI
 
 related:
-  - title: "Artificial Intelligence Robotics Market 2021 by Top Key Players: Intel, Alphabet, Softbank, Promobot"
-    excerpt: "A new informative report titled as “Global Artificial Intelligence Robotics Market 2021 by Key Players, Types, Applications, Countries, Market Size, Forecast to 2027” has recently published by Credible Markets to its humongous database which helps to shape the future of the businesses by making well-informed business decisions."
-    publishedDateTime: 2021-07-04T16:19:00Z
-    webUrl: "https://manometcurrent.com/artificial-intelligence-robotics-market-2021-by-top-key-players-intel-alphabet-softbank-promobot/"
+  - title: "AI powered Video Analytics market to enjoy explosive growth to 2026 | Cisco, Verint, IBM"
+    excerpt: "The AI powered Video Analytics Market has witnessed continuous growth in the past few years and is projected to grow even further during the forecast period (2020-2026). The assessment provides a 360 view and insights,"
+    publishedDateTime: 2021-07-04T17:07:00Z
+    webUrl: "https://manometcurrent.com/ai-powered-video-analytics-market-to-enjoy-explosive-growth-to-2026-cisco-verint-ibm/"
     type: article
     provider:
       name: manometcurrent.com
       domain: manometcurrent.com
-    quality: 34
+    quality: 28
+    images:
+      - url: "https://manometcurrent.com/wp-content/uploads/2021/07/AI-powered-Video-Analytics-market.png"
+        width: 660
+        height: 400
+        isCached: true
+  - title: "AI in Banking Market May See Big Move | Fanuc, Lexalytics, Cisco Systems"
+    excerpt: "String Inverters Market Size, Analysis, Trends, Growth and Forecast 2026 \\| Yaskawa, ABB, SMA Solar; Global Magnetic Drive Pumps Market 2021-2027 with Post Covid-19"
+    publishedDateTime: 2021-07-07T09:29:00Z
+    webUrl: "https://manometcurrent.com/ai-in-banking-market-may-see-big-move-fanuc-lexalytics-cisco-systems/"
+    type: article
+    provider:
+      name: manometcurrent.com
+      domain: manometcurrent.com
+    quality: 16
 
 secured: "Vag+ieYuEP2g9pqDYQCDN2itBhIlzCNlyzpICvKj/3BoWImrNYWYZXxKMrVmH5MHa4esqlci+m6XBE5WkuGP5df/efQBN3+hP6HiuvNtEka0cIoT5gmkJxG0jkLVa9Yy6zBKVBI8W2fvcd4fo9BHA6Pugu9C2Hrc4Lo35+fPogf9twY+qASEQv6+cdtmPoafaUr6dL/VFA7BUSHgJeidAaE70d7YCfTq3NQ/EHHT+W94DbhccwuvGQGjQiS6Yftypuuo96mungrn4pgWhYruVRcAP9ZgZpJVU3BB0cf2kh1rDQWkPZ3rKIhUVItXvhogGwepjEwc8V5BAXj3WHwFXM/OEyh/xpuQuYXfWUI3QgE9tH85ernDK4u8omY10DXvnfvgFAE1JKZ26nu6eB6HUd+TruzD/+iVU89hz/x+kZ/oDmIn8lJ34krkeM/1skoY1j1d0f9n5n9VilHYNE5NYVc0jkaEiupHyFCHCfsQLYSJ5xgcXHxAFUiiNi0X0h2WIRUWUVj5F5jnj6vqwWspLg==;UT6k4Wkr2ycayroiDc/yVg=="
 ---

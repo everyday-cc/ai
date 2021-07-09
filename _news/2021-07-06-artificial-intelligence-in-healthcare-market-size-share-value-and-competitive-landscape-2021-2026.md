@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-size-share-value-and-competitive-landscape-2021-2026-2021-07-06"
 type: article
 quality: 69
-heat: 109
+heat: 129
 published: true
 
 provider:
@@ -71,6 +71,15 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "Global Healthcare Artificial Intelligence Market Size, Status and Forecast 2021-2027"
+    excerpt: "Pages Report] Check for Discount on Global Healthcare Artificial Intelligence Market Size, Status and Forecast 2021-2027 report by QYResearch Group. AI in healthcare has huge and wide reaching potential"
+    publishedDateTime: 2021-07-09T07:53:00Z
+    webUrl: "https://www.reportsnreports.com/reports/4655759-global-healthcare-artificial-intelligence-market-size-status-and-forecast-2021-2027.html"
+    type: article
+    provider:
+      name: ReportsnReports
+      domain: reportsnreports.com
+    quality: 27
   - title: "Global Machine Learning Artificial intelligence Market Size, Status and Forecast 2021-2027"
     excerpt: "Pages Report] Check for Discount on Global Machine Learning Artificial intelligence Market Size, Status and Forecast 2021-2027 report by QYResearch Group. Market Analysis and Insights: Global Machine Learning Artificial intelligence"
     publishedDateTime: 2021-07-06T08:48:00Z
@@ -80,6 +89,20 @@ related:
       name: ReportsnReports
       domain: reportsnreports.com
     quality: 24
+  - title: "Global Conversational AI Market 2021-2026: Competitive Analysis, Impact of COVID-19, Ansoff Analysis - ResearchAndMarkets.com"
+    excerpt: "The “Global Conversational AI Market (2021-2026) by Type, Distribution Channel, Application and Geography - Competitive Analysis, Impact of COVID-19, Ansoff Analysis” report has been added to ResearchAndMarkets.com’s offering. The Global ..."
+    publishedDateTime: 2021-07-09T09:07:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/business-technology-0570205e10ea434e99a88642106e8f36"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 10
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
 secured: "q0szZubhdl7pfyb1Ey3vuUlFOZD5zIvMQIslJAyqoHqRIgNVBFOZvJJ0zPm6qPEpmx2UMfVjcF7nRliC4B8LKDfOdl+0o6tDecFOr1oOYMlUvjPiH0faT1EEShMczL9Ts0V8xXI5/AmkCSH9PaIIiFr8B1KnNt+7yZNYH0C4uJuCQt0P9LCgxnK7GOakcu/Z5Lra2LEFmj6i6jkquALmWaHupv9RRnpMsdva00mzcrInYKfLSW3PN6I+4nxbXX13MvPRb+OUpCvdGhIp2zHdOaAWIT0BMpftjU6XiUorhlDHz/NFvj7hrECKdqAwsxfdWaw9weNcNJI7/wpj/3k7BhqxSwxubca+idQGXbmuzHk=;Icbz13OzfH86/j5arKIylw=="
 ---

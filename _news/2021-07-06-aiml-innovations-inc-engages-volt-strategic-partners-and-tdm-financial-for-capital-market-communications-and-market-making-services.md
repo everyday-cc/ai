@@ -1,18 +1,18 @@
 ---
 category: news
 title: "AI/ML Innovations Inc. Engages Volt Strategic Partners and TDM Financial for Capital Market Communications and Market-Making Services"
-excerpt: "Volt Strategic is a market communications and business optimization firm working with senior business leaders and innovators to help grow organizational value, build business and accelerate market appreciation for emerging technology,"
-publishedDateTime: 2021-07-05T21:46:00Z
-originalUrl: "https://www.bignewsnetwork.com/news/270183213/aiml-innovations-inc-engages-volt-strategic-partners-and-tdm-financial-for-capital-market-communications-and-market-making-services"
-webUrl: "https://www.bignewsnetwork.com/news/270183213/aiml-innovations-inc-engages-volt-strategic-partners-and-tdm-financial-for-capital-market-communications-and-market-making-services"
+excerpt: "TORONTO, ON / ACCESSWIRE / July 5, 2021 / AI/ML Innovations Inc. (CSE:AIML)(OTCQB:AIMLF) (“AIML” or the “Company”), a company committed to acquiring and advancing Artificial Intelligence/Machine Learning technologies that address urgent societal needs,"
+publishedDateTime: 2021-07-05T21:11:00Z
+originalUrl: "https://www.digitaljournal.com/pr/ai-ml-innovations-inc-engages-volt-strategic-partners-and-tdm-financial-for-capital-market-communications-and-market-making-services"
+webUrl: "https://www.digitaljournal.com/pr/ai-ml-innovations-inc-engages-volt-strategic-partners-and-tdm-financial-for-capital-market-communications-and-market-making-services"
 type: article
 quality: 25
 heat: -1
 published: false
 
 provider:
-  name: Big News Network.com
-  domain: bignewsnetwork.com
+  name: Digital Journal
+  domain: digitaljournal.com
 
 topics:
   - AI in Finance
@@ -20,9 +20,9 @@ topics:
   - Machine Learning
 
 images:
-  - url: "https://cdn.bignewsnetwork.com/cus1625767844670.jpg"
-    width: 630
-    height: 420
+  - url: "https://www.digitaljournal.com/wp-content/uploads/2021/07/Corona-Virus-AFP-1K-600x337.jpg"
+    width: 600
+    height: 337
     isCached: true
 
 related:
@@ -59,6 +59,6 @@ related:
       domain: stockhouse.com
     quality: 25
 
-secured: "NlIK/6xv1I5TKkE+2l0wCt/BdVHKPp91l3cR/AWLUFIr4/Hxf7Yt0DQXUfl+Iy4Bb8hqmFjHEFMlzT9n9uZoObJC4t+yZYqyNYjcqcGLLVj07Wt24mCeL+ECze6Xy+f2kmRtFZhxn18FHf/h1VDH3XQuEboDBL/eeKXR2U9F6MAMmQrNgsomX4H38H0RfeixcTm/q1lZQcHSJzEEAuKqdbkcS7mpRd/1nP5N1bBbd2NKpz6vnEYaPiXEhti4IkAO5EdaC0x6Jp7JTJMNo5H8jhS3KW/gjl3Xefp1H7w7bIDh3oZl0q7s4suaVO+izLqP/enQG82Rd1ynCXoXjcnv8N4z0QPiclYKWX0bsaX35Kw=;iU4B6iqxi9KsUl08U3AQog=="
+secured: "+jK/2d3wcMjuyjHCUgvLbbzMI2wEcJKz4XpQfgUqv5bOQjvcZlqnjnLqmBcQKJrf68OiB3zYXazj/m6fMfhB69vutSy3VOISvWs3rzGSOkz+vjvr6cnsNLhv0vTd6pwBn4Q/5xh+w/7xOwzl+QMotp2sY/3UfMrUzSTNwDH/uKMQPt00eoO4VTTRhhMJgqlUPjyZGyaZzrQgfON5bIFEKmf9dgmtYtwv2UmPUaWsC/XK/eHvqy39Q3T5goV/sYSARqCDCQuiGxs2y2gsNyFwRzpqPdFdWn+trlAEgLjG+cdXrZNnqrxIeaVJS0NLyzIQO6SfBzexxtHAuGG8jzBGifD89EgCOd2dAnXY33pQm5k=;XFFnphDssGCPvB5pxFdJ5A=="
 ---
 

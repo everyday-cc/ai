@@ -71,6 +71,15 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "Global Healthcare Artificial Intelligence Market Size, Status and Forecast 2021-2027"
+    excerpt: "Pages Report] Check for Discount on Global Healthcare Artificial Intelligence Market Size, Status and Forecast 2021-2027 report by QYResearch Group. AI in healthcare has huge and wide reaching potential"
+    publishedDateTime: 2021-07-09T07:53:00Z
+    webUrl: "https://www.reportsnreports.com/reports/4655759-global-healthcare-artificial-intelligence-market-size-status-and-forecast-2021-2027.html"
+    type: article
+    provider:
+      name: ReportsnReports
+      domain: reportsnreports.com
+    quality: 27
   - title: "Global Machine Learning Artificial intelligence Market Size, Status and Forecast 2021-2027"
     excerpt: "Pages Report] Check for Discount on Global Machine Learning Artificial intelligence Market Size, Status and Forecast 2021-2027 report by QYResearch Group. Market Analysis and Insights: Global Machine Learning Artificial intelligence"
     publishedDateTime: 2021-07-06T08:48:00Z
@@ -80,6 +89,20 @@ related:
       name: ReportsnReports
       domain: reportsnreports.com
     quality: 24
+  - title: "Global Conversational AI Market 2021-2026: Competitive Analysis, Impact of COVID-19, Ansoff Analysis - ResearchAndMarkets.com"
+    excerpt: "The “Global Conversational AI Market (2021-2026) by Type, Distribution Channel, Application and Geography - Competitive Analysis, Impact of COVID-19, Ansoff Analysis” report has been added to ResearchAndMarkets.com’s offering. The Global ..."
+    publishedDateTime: 2021-07-09T09:07:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/business-technology-0570205e10ea434e99a88642106e8f36"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 10
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
 secured: "XrbgC65oKyj4+N0/liYb7szbF+0KkkTzbZ33Flewhi6ytf7AOd8X9e72Y+4CSRXv+C2xoghTawIBcdcZC/rAWT54GniCl2n/HWcnLYv3SvZ3WMLxAm7Nf074pUIRkizM4Ne1o+7d256K3a3BLt2aoxUd2JWf/vU/ms2qPGkpNv7ldhLE0Isft+fqDblw/tiQKe6j57cUpWDfIyZT0h2D491lYuBVL3Ca7ZXUkFZKo+rZ3fiJiDSf6MThemIK0SsTRqGWmY+SOPzh/VS4O0633eLXgfUQofgAmu1IIKSxNlDkb4ZBwoIZjprJofrO6p9rEYXAYVIIeov2cTFvtInopNkkeBMQ/l7tj6oTjW3iU6c=;HbMvCbtYdLDo204RC6J6sg=="
 ---

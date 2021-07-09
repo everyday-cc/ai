@@ -86,6 +86,15 @@ related:
         width: 300
         height: 225
         isCached: true
+  - title: "Global Artificial Intelligence (AI) in Manufacturing Market Size, Status and Forecast 2021-2027"
+    excerpt: "Pages Report] Check for Discount on Global Artificial Intelligence (AI) in Manufacturing Market Size, Status and Forecast 2021-2027 report by QYResearch Group. Artificial intelligence technology is now making its way into manufacturing,"
+    publishedDateTime: 2021-07-09T07:51:00Z
+    webUrl: "https://www.reportsnreports.com/reports/4655611-global-artificial-intelligence-ai-in-manufacturing-market-size-status-and-forecast-2021-2027.html"
+    type: article
+    provider:
+      name: ReportsnReports
+      domain: reportsnreports.com
+    quality: 20
   - title: "Global Machine Learning in Medical Imaging Market Size, Status and Forecast 2021-2027"
     excerpt: "Medical imaging analytics tools become more readily available, providers are likely to find strong incentives to investigate the best way to integrate artificial intelligence/machine learning into their imaging strategies. Machine Learning in Medical ..."
     publishedDateTime: 2021-07-09T07:46:00Z

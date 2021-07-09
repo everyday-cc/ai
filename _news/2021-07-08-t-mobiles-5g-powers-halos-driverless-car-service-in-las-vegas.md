@@ -55,6 +55,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Las Vegas to Get 5G Driverless Car Service, Courtesy of Halo and T-Mobile"
+    excerpt: "Las Vegas will soon ride in driverless cars powered by 5G, thanks to a partnership between T-Mobile and Halo. Autonomous driving represents an appealing and flourishing market in this day and age. And we’ve got all the tools to make that happen."
+    publishedDateTime: 2021-07-09T07:12:00Z
+    webUrl: "https://www.autoevolution.com/news/las-vegas-to-get-5g-driverless-car-service-courtesy-of-halo-and-t-mobile-164997.html"
+    type: article
+    provider:
+      name: autoevolution.com
+      domain: autoevolution.com
+    quality: 38
+    images:
+      - url: "https://s1.cdn.autoevolution.com/images/news/las-vegas-to-get-5g-driverless-car-service-courtesy-of-halo-and-t-mobile-164997-7.jpg"
+        width: 728
+        height: 300
+        isCached: true
   - title: "T-Mobile's 5G to connect drivers with remote-controlled cars in Vegas"
     excerpt: "Further, the company is using an artificial intelligence (AI) algorithm that \"learns in the ... To be clear though, there are plenty of obstacles facing both T-Mobile and Halo. The driverless car market remains in its infancy, and requires coordination ..."
     publishedDateTime: 2021-07-08T19:26:00Z

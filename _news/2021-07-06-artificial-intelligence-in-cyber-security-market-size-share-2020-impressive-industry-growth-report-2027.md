@@ -72,6 +72,15 @@ related:
         width: 300
         height: 225
         isCached: true
+  - title: "Global Artificial Intelligence (AI) in Manufacturing Market Size, Status and Forecast 2021-2027"
+    excerpt: "Pages Report] Check for Discount on Global Artificial Intelligence (AI) in Manufacturing Market Size, Status and Forecast 2021-2027 report by QYResearch Group. Artificial intelligence technology is now making its way into manufacturing,"
+    publishedDateTime: 2021-07-09T07:51:00Z
+    webUrl: "https://www.reportsnreports.com/reports/4655611-global-artificial-intelligence-ai-in-manufacturing-market-size-status-and-forecast-2021-2027.html"
+    type: article
+    provider:
+      name: ReportsnReports
+      domain: reportsnreports.com
+    quality: 20
   - title: "Artificial Intelligence (AI) Software Market Analysis, Leading Players, Future Growth, Business Prospects Research Report Foresight To 2027"
     excerpt: "Software market by RMoz gives all the essential information needed to comprehend the important developments in this market for the forecast period of 20AA to 20BB. Through this report, the readers gain 360-degree analysis of the market for Artificial Intelligence (AI) Software."
     publishedDateTime: 2021-07-07T17:40:00Z

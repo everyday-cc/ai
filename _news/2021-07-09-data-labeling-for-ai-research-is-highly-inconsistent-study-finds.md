@@ -1,34 +1,26 @@
 ---
 category: news
 title: "Data labeling for AI research is highly inconsistent, study finds"
-excerpt: "Elevate your enterprise data technology and strategy. Where does your enterprise stand on the AI adoption curve? Take our AI survey to find out. Supervised machine learning, in which machine ..."
-publishedDateTime: 2021-07-08T20:56:00Z
-originalUrl: "https://venturebeat.com/2021/07/08/data-labeling-for-ai-research-is-highly-inconsistent-study-finds/"
-webUrl: "https://venturebeat.com/2021/07/08/data-labeling-for-ai-research-is-highly-inconsistent-study-finds/"
-ampWebUrl: "https://venturebeat.com/2021/07/08/data-labeling-for-ai-research-is-highly-inconsistent-study-finds/amp/"
-cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/08/data-labeling-for-ai-research-is-highly-inconsistent-study-finds/amp/"
+excerpt: "According to a new study, the datasets used to train AI models are often labeled according to drastically different standards.Read MoreRead more"
+publishedDateTime: 2021-07-08T22:54:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/data-labeling-for-ai-research-is-highly-inconsistent--study-finds-10315551"
+webUrl: "https://markets.businessinsider.com/news/stocks/data-labeling-for-ai-research-is-highly-inconsistent--study-finds-10315551"
 type: article
-quality: 87
-heat: 88
-published: true
+quality: 47
+heat: 47
+published: false
 
 provider:
-  name: VentureBeat
-  domain: venturebeat.com
+  name: Business Insider
+  domain: businessinsider.com
   images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg"
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - AI
 
-images:
-  - url: "https://venturebeat.com/wp-content/uploads/2019/12/GettyImages-1134020821-e1587048223491.jpg?w=1200&strip=all"
-    width: 1200
-    height: 600
-    isCached: true
-
-secured: "QdVRq51BKipxh3yqVsg9Gd5asaAHcT1ZWkkruV/crARi1yvCRnB61zsWBJJA6di2h3fv1fFEkT51AUcTWVa5em2daHhauVp+n9fmHn8XyzgKkycbfGuOl5WbRP9D3CFveVc6jicSQDW+AkUD3tPiPStJCEHEyrDbdkYNTo+s+6f2QmoRdDCrr1kjwheRXYPfScqA2d1AQzHBc7UXt9wU4wzGS34rdvUPKZjIUXBhGQ42P367K9B60At/fgB/21HwGTBXx/BDJbgyDIqasqBaJp4fJHRIHkYAR7yv6zF9T1HrEbuypAlIUGqCBCDy4fRg9vSCz4746UcYwLnd/bxtu61O37gu3LvuDm241Up6XBk=;nsk4MK8N0BVFYC9vopqdDw=="
+secured: "SNx6m9uLQtm6mvRfh0M43lwHX5Lx/Dnh2OjoXcA11+WDdhV7YufbMKBInkydhelE+/FstAYO6CPVdcuBS0tRfnxkqZNAvFsGc7XFOjTIqNy8CkzIMyJK+h/nijEfrzav5gV2o8Wwej5C06TP62OlBait1A6xV1tx8GQsDHjQ4hurcLUGXAWAKWBNQZJPFAznKHAPvvq90inQNu9yfmfoVSqG26GX8VMeWxBi7EN4DfD1lvX3Ycsy/rjjOjs0iXAiINSWa5tSkSwvfvB9k0BdnNQu1Gd2cDtPEMVk0FGH0lYoijuWpBa+m5+B1PZnzltJYPaektcTddTtXnbubg7WhgMV6eWSNDHlVIwWT8gILsc=;qwUX7WhdJ9HZ9qP2RhDXKw=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://sea.mashable.com/tech/16518/whats-a-robot-manicure-really-li
 cdnAmpWebUrl: "https://sea-mashable-com.cdn.ampproject.org/c/s/sea.mashable.com/tech/16518/whats-a-robot-manicure-really-like-quick-cheap-and-guilt-inducing?amp=1"
 type: article
 quality: 89
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -25,22 +25,6 @@ images:
     width: 620
     height: 485
     isCached: true
-
-related:
-  - title: "What's a robot manicure really like? Quick, cheap, and guilt-inducing."
-    excerpt: "A robot gave me a manicure last week. Let me stop you before you envision a bipedal humanoid carefully dipping a brush into a bottle and lacquering my nails. Instead, the experience felt more like inserting my hand into a 3D printer."
-    publishedDateTime: 2021-07-04T15:03:00Z
-    webUrl: "https://mashable.com/article/robot-manicure-clockwork-automation"
-    type: article
-    provider:
-      name: Mashable
-      domain: mashable.com
-    quality: 69
-    images:
-      - url: "https://helios-i.mashable.com/imagery/articles/074LKA4y3LX9mAEyCzT5Y1u/images-15.fit_lim.size_376x.JPG"
-        width: 376
-        height: 282
-        isCached: true
 
 secured: "yqLkv7QPlhmsTq92hPiUxmE68qxVJwG33YqGLj80btEZcin49noJHslLdxCVCsIQO+BzFfxFaTWousZcy5z6VhRLpu8qazPzvjL+aGl8JkQ6oNkgmqWBwCzNpqnIBbOt9iKUR0b8UM2kdt61fBBSZO/+UQ4pC9g5wLNvXmOT2gJ8JTpx20vRjSJQM9/yPcGeEoz02MGetCgA7BQ1pFUfjkJ4qr8xFHLzhL3mTk0ypOX51Q4P/qHIQSRgkQrw9zIBqKDFIUNdLlOKIgb4hiePngTCvugOxHpsDo1tb/aHPLbrEgrgkbftVZxwRD9es3ZfeXmqwxUARPIMlRbJ9Q8+qgMg02MibXdTQPh19/oGW4U=;OQYkrL6v5WtjuxCqVBCgiw=="
 ---

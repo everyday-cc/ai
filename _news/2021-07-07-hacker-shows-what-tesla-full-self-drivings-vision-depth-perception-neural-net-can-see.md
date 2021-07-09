@@ -9,7 +9,7 @@ ampWebUrl: "https://electrek.co/2021/07/07/hacker-tesla-full-self-drivings-visio
 cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/07/07/hacker-tesla-full-self-drivings-vision-depth-perception-neural-net-can-see/amp/"
 type: article
 quality: 83
-heat: 143
+heat: 153
 published: true
 
 provider:
@@ -124,6 +124,15 @@ related:
         width: 1200
         height: 640
         isCached: true
+  - title: "Tesla to debut 'mind-blowing' full self-driving beta this week"
+    excerpt: "Tesla CEO Elon Musk has teased that some Tesla owners will be able to test out the 'mind-blowing' Full Self-Driving beta soon."
+    publishedDateTime: 2021-07-09T09:04:00Z
+    webUrl: "https://www.tweaktown.com/news/80484/tesla-to-debut-mind-blowing-full-self-driving-beta-this-week/index.html"
+    type: article
+    provider:
+      name: TweakTown
+      domain: tweaktown.com
+    quality: 19
 
 secured: "ZkQRM9m0RmgB2MAkonM57wgmMBvw72cTeD8mPq5F/y6E1fMbOQtCU3qXNLAzsMfGcuIg6Gpkd/13ZLUimzm0c2jN8ZhYgvtpU72WV3o/L1BtmPhkQu+bFZWykDOov4MGufMIuBe90hqN1AY/5bAmtRueEagwpcE57c6va4Nlnzht7sEQKjfxTdDYvEpAvezsHeWyaEzMaXQIAXdVzoBsv92ClR40TV3WwDu+AF68KVMUgQH0ub5cgOrdBRahnmY37rC001fTyjHX7Adw98+5t6bSBl5lUlUpJ2JcQvkH4mvGwRLa69dLe3qNhzpu3WsECDBajtbt1+hA2vaiWV9o7aeIABBCXBkSJFXgBpOl0OE/aUULElRQANX9Eb5unVgMUeDWYSJiLj0IkTUYyld3AsufON7vC7sHcc+5q3Df2XI17J1DW7EXBh4cidawz3X+XWW8+8NsCmShbUAfbXK8xEeWol/xrmhk840qkd3VRtUdwn+ZLVBAsPGz58Phi9IFSCn5PPLiwQG27KNPcL2EXQ==;Gt93tM7PspG//9Y5trNpSA=="
 ---

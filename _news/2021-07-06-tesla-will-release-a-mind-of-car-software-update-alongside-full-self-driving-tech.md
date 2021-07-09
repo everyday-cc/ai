@@ -119,6 +119,15 @@ related:
         width: 1200
         height: 640
         isCached: true
+  - title: "Tesla to debut 'mind-blowing' full self-driving beta this week"
+    excerpt: "Tesla CEO Elon Musk has teased that some Tesla owners will be able to test out the 'mind-blowing' Full Self-Driving beta soon."
+    publishedDateTime: 2021-07-09T09:04:00Z
+    webUrl: "https://www.tweaktown.com/news/80484/tesla-to-debut-mind-blowing-full-self-driving-beta-this-week/index.html"
+    type: article
+    provider:
+      name: TweakTown
+      domain: tweaktown.com
+    quality: 19
 
 secured: "TIG+oBxNG/BBzcCXAgr8gHPbWM+TCjq9B94E8Ghqz6lRXIsDOynjIHJkPXJFMYi0kW6ZMau3tZCzgr0pqV118III45Vd5p9knsIzPxpW3RX0V8aDyW2TKmPCEdd5l2XQpdDavttHB6zXPFKXHHJpdnQmeZuuygSe2nt33dMF8CSH95UqDjUPtpGSXySWLsyCAPH/NVOMGMNy8iM17IZZ19qVaGQ9vv8CTPS6E26rh8gKgzC6C8iY0CNI/o1gmaPjlDAq/3YLbzyrI3iM7IC3tFMDelJeK5Us2HrbvikoUHS13NVOsWYetokJ9GKmIUq4MvuYR/VmOxxm5SJU9QwsyPOv3nZwD+ktqpKZJ2f8SzO0XqOXoMep1UMrjMQ9CDfxRfXQieHNuNNsZQZ+WRYRkNGDN8AxN5oUtHK/2sT1hsb6fZ1vFDvOgUaObYyjPJR2QOPr7pg9bxni1dQqe5WPCQnlQH1i2XlNpAC8LoWud+uI2G+C7AXWlJMnfEV+Jvx2QwGghoJ+By3JJUTJg2LPgQ==;efjburEbN/VTQ+Y4zvT68Q=="
 ---

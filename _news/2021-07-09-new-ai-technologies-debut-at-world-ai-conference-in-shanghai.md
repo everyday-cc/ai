@@ -7,7 +7,7 @@ originalUrl: "https://news.cgtn.com/news/2021-07-08/New-AI-technologies-debut-at
 webUrl: "https://news.cgtn.com/news/2021-07-08/New-AI-technologies-debut-at-World-AI-Conference-in-Shanghai-11JGHddW4Ao/index.html"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "OneConnect Impresses at World Artificial Intelligence Conference 2021 in Shanghai"
+    excerpt: "Leading technology-as-a-service platform provider OneConnect Financial Technology Co., Ltd. (NYSE: OCFT) (\"OneConnect\" or \"the Company\"), an associate company of Ping An Group, recently displayed a lineup of impressive fintech solutions at the (WAIC 2021) held in Shanghai from July 8-10,"
+    publishedDateTime: 2021-07-09T09:17:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/oneconnect-impresses-at-world-artificial-intelligence-conference-2021-in-shanghai-1030592354"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 77
+    images:
+      - url: "https://mma.prnewswire.com/media/1560742/OneConnect_at_World_Artificial_Intelligence_Conference_2021.jpg"
+        width: 400
+        height: 266
+        isCached: true
   - title: "GLOBALink | Advanced AI technologies displayed at World AI Conference"
     excerpt: "The 2021 World Artificial Intelligence Conference officially opened on Thursday with more than 300 leading AI companies demoing th"
     publishedDateTime: 2021-07-09T07:32:00Z
@@ -38,20 +52,6 @@ related:
       - url: "https://static.bignewsnetwork.com/bnn/images/big-news-network-slogan.jpg"
         width: 630
         height: 420
-        isCached: true
-  - title: "Self-Driving Cars, Brain-Computer Interfaces, Other Cutting-Edge AI Tech to Be on Show in Shanghai"
-    excerpt: "State-of-the-art technologies including unmanned vehicles on the open road and brain-computer interface systems that transfer signals from the brain to external devices will be on display at the 2021 World Artificial Intelligence Conference to be held in Shanghai later this week."
-    publishedDateTime: 2021-07-06T11:23:00Z
-    webUrl: "https://www.yicaiglobal.com/news/self-driving-cars-brain-computer-interfaces-other-cutting-edge-ai-tech-to-be-on-show-in-shanghai"
-    type: article
-    provider:
-      name: Yicai Global
-      domain: yicaiglobal.com
-    quality: 25
-    images:
-      - url: "http://img.yicaiglobal.com/cdn/news/self-driving-cars-brain-computer-interfaces-other-cutting-edge-ai-tech-to-be-on-show-in-shanghai/14596832070205440.jpg"
-        width: 720
-        height: 480
         isCached: true
 
 secured: "Rwt5yLyfuZBPpMPCJizNotNbhJK91oElqb0lc6JMZom+bzj3+QEUbZWbbfNb0J8biel6tNLjVsIndsP58vcynSxxKBZiRbICcYxogVgjbvlXMXe+GvHJdVUbEhGimLkwKzzLsGvD0dDgNEcJQ94E7Z4TAgveluxnTYpoDviFgSd8V7lYpledcCog+0euNYBTaFJjCjfGNdSLS9XluZgueGsbatYsTSmUZIWKhn9WCk5JRSGbLjDM4yBJ8VGPrjVc/SQEpoELyhD1MJmS4S1AYUj8F3n1UsuNsO/EKUUZ3mtEHkoW7xgjdB03vEEaqEsgernrPu42DwOG4kwBiNzsauF54uOph1dZel4xqsmHx10=;SkFoqBhPic+LH6tvATxkow=="
