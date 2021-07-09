@@ -4,6 +4,40 @@
   "page": 3,
   "value": [
     {
+      "path": "_people/lev-dudko.md",
+      "title": "Lev Dudko",
+      "excerpt": "Lomonosov Moscow State University Skobeltsyn Institute of Nuclear Physics",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/lev-dudko/index.json",
+      "webUrl": "https://everyday.cc/ai/people/lev-dudko/",
+      "type": "profile",
+      "name": "Lev Dudko",
+      "bio": "Lomonosov Moscow State University Skobeltsyn Institute of Nuclear Physics",
+      "googleScholar": {
+        "url": "https://scholar.google.com/citations?user=zEQGLhoAAAAJ",
+        "citations": 182394
+      },
+      "affiliation": {
+        "path": "",
+        "name": "sinp.msu.ru",
+        "domain": "sinp.msu.ru"
+      },
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://scholar.google.com/citations/images/avatar_scholar_128.png",
+          "width": 128,
+          "height": 128,
+          "title": "Lev Dudko",
+          "isCached": false
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
       "path": "_people/lily-asquith.md",
       "title": "Lily Asquith",
       "excerpt": "Royal Society Dorothy Hodgkin Research Fellow, University of Sussex",
@@ -142,6 +176,38 @@
           "width": 246,
           "title": "Lydia E. Kavraki",
           "isCached": false
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_people/madeline-gannon.md",
+      "title": "Madeline Gannon",
+      "excerpt": "Inventing better ways to communicate with machines.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/madeline-gannon/index.json",
+      "webUrl": "https://everyday.cc/ai/people/madeline-gannon/",
+      "type": "profile",
+      "name": "Madeline Gannon",
+      "bio": "Inventing better ways to communicate with machines.",
+      "location": "Pittsburgh, PA",
+      "website": "https://t.co/It4puKUIPF",
+      "twitter": {
+        "username": "madelinegannon",
+        "url": "https://twitter.com/madelinegannon",
+        "followers": 3109
+      },
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/852213397386969088/8zewUndt_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Madeline Gannon",
+          "isCached": true
         }
       ],
       "content": "\r\n"
@@ -329,20 +395,26 @@
       "content": "\r\n"
     },
     {
-      "path": "_people/noramay-cadena.md",
-      "title": "Noramay Cadena",
-      "excerpt": "Cofounder & Managing Partner @MiLACapital | MIT grad*3 | Former @Boeing | Cofounder @LatinasinSTEM | @KauffmanFellows Class 23",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/noramay-cadena/index.json",
-      "webUrl": "https://everyday.cc/ai/people/noramay-cadena/",
+      "path": "_people/rana-el-kaliouby.md",
+      "title": "Rana el Kaliouby",
+      "excerpt": "Entrepreneur. Scientist. Co-founder and CEO @Affectiva. On a mission to humanize technology with #EmotionAI - YGL @WEF. #HumanFirst",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/rana-el-kaliouby/index.json",
+      "webUrl": "https://everyday.cc/ai/people/rana-el-kaliouby/",
       "type": "profile",
-      "name": "Noramay Cadena",
-      "bio": "Cofounder & Managing Partner @MiLACapital | MIT grad*3 | Former @Boeing | Cofounder @LatinasinSTEM | @KauffmanFellows Class 23",
-      "location": "Los Angeles, CA",
-      "website": "https://t.co/t9CFIWFMbw",
+      "name": "Rana el Kaliouby",
+      "bio": "Entrepreneur. Scientist. Co-founder and CEO @Affectiva. On a mission to humanize technology with #EmotionAI - YGL @WEF. #HumanFirst",
+      "location": "Boston",
+      "website": "https://t.co/CptEKpnJzd",
       "twitter": {
-        "username": "noramayc",
-        "url": "https://twitter.com/noramayc",
-        "followers": 17443
+        "username": "kaliouby",
+        "url": "https://twitter.com/kaliouby",
+        "followers": 24150
+      },
+      "linkedin": {
+        "url": "https://www.linkedin.com/in/kaliouby/"
+      },
+      "wikipedia": {
+        "url": "https://en.wikipedia.org/wiki/Rana_el_Kaliouby"
       },
       "topics": [
         "AI"
@@ -350,10 +422,10 @@
       "heat": 50,
       "images": [
         {
-          "url": "https://pbs.twimg.com/profile_images/836441713497391104/Aj6W5UHO_400x400.jpg",
+          "url": "https://pbs.twimg.com/profile_images/667860223512612864/sK_qnOSx_400x400.jpg",
           "width": 400,
           "height": 400,
-          "title": "Noramay Cadena",
+          "title": "Rana el Kaliouby",
           "isCached": true
         }
       ],
@@ -388,39 +460,6 @@
       "content": "\r\n"
     },
     {
-      "path": "_people/sonja-betschart.md",
-      "title": "Sonja Betschart",
-      "excerpt": "Passionate about using technology to make the world a better place and create new businesses and experiences",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/sonja-betschart/index.json",
-      "webUrl": "https://everyday.cc/ai/people/sonja-betschart/",
-      "type": "profile",
-      "name": "Sonja Betschart",
-      "bio": "Passionate about using technology to make the world a better place and create new businesses and experiences",
-      "location": "Geneva, Switzerland",
-      "twitter": {
-        "username": "sobetschart",
-        "url": "https://twitter.com/sobetschart",
-        "followers": 407
-      },
-      "linkedin": {
-        "url": "https://www.linkedin.com/in/sonjabetschart/"
-      },
-      "topics": [
-        "AI"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/722006548713771008/EVgIvepe_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Sonja Betschart",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
       "path": "_people/stuart-j-russell.md",
       "title": "Stuart J. Russell",
       "excerpt": "Stuart Jonathan Russell is a computer scientist known for his contributions to artificial intelligence. He is a Professor of Computer Science at the University of California, Berkeley and Adjunct Professor of Neurological Surgery at the University of California, San Francisco. ",
@@ -445,6 +484,39 @@
         "AI"
       ],
       "heat": 50,
+      "content": "\r\n"
+    },
+    {
+      "path": "_people/verity-harding.md",
+      "title": "Verity Harding",
+      "excerpt": "AI and politics. Head of Global Policy & Partnerships at DeepMind. Views are my own. She / her.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/verity-harding/index.json",
+      "webUrl": "https://everyday.cc/ai/people/verity-harding/",
+      "type": "profile",
+      "name": "Verity Harding",
+      "bio": "AI and politics. Head of Global Policy & Partnerships at DeepMind. Views are my own. She / her.",
+      "website": "https://t.co/7skid8sUXc",
+      "twitter": {
+        "username": "verityharding",
+        "url": "https://twitter.com/verityharding",
+        "followers": 2505
+      },
+      "wikipedia": {
+        "url": "https://en.wikipedia.org/wiki/Verity_Harding"
+      },
+      "topics": [
+        "AI"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1179858918132142080/UucjikYj_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Verity Harding",
+          "isCached": true
+        }
+      ],
       "content": "\r\n"
     },
     {
@@ -487,6 +559,89 @@
       "content": "\r\n"
     },
     {
+      "path": "_people/daniele-bonacorsi.md",
+      "title": "Daniele Bonacorsi",
+      "excerpt": "High-Energy Physics at CERN. Software and Computing for the CMS experiment at the LHC. Big Data Analytics, {M,D}Learning. University of Bologna, INFN, CERN.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/daniele-bonacorsi/index.json",
+      "webUrl": "https://everyday.cc/ai/people/daniele-bonacorsi/",
+      "type": "profile",
+      "name": "Daniele Bonacorsi",
+      "bio": "High-Energy Physics at CERN. Software and Computing for the CMS experiment at the LHC. Big Data Analytics, {M,D}Learning. University of Bologna, INFN, CERN.",
+      "twitter": {
+        "username": "DBonacorsi",
+        "url": "https://twitter.com/DBonacorsi",
+        "followers": 703
+      },
+      "googleScholar": {
+        "url": "https://scholar.google.com/citations?user=7_xEzmUAAAAJ",
+        "citations": 150202
+      },
+      "affiliation": {
+        "path": "",
+        "name": "infn.it",
+        "domain": "infn.it"
+      },
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ],
+      "heat": 42,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1841900580/twitter_image_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Daniele Bonacorsi",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_people/huahai-yang.md",
+      "title": "Huahai Yang",
+      "excerpt": "A technologist and an entrepreneur. Used to be a professor and a research scientist.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/huahai-yang/index.json",
+      "webUrl": "https://everyday.cc/ai/people/huahai-yang/",
+      "type": "profile",
+      "name": "Huahai Yang",
+      "bio": "A technologist and an entrepreneur. Used to be a professor and a research scientist.",
+      "location": "San Jose, CA",
+      "website": "https://t.co/s5ydlRJnm8",
+      "twitter": {
+        "username": "huahaiy",
+        "url": "https://twitter.com/huahaiy",
+        "followers": 972
+      },
+      "linkedin": {
+        "url": "https://www.linkedin.com/in/huahaiyang/"
+      },
+      "googleScholar": {
+        "url": "https://scholar.google.com/citations?user=KvPSD8EAAAAJ",
+        "citations": 259539
+      },
+      "affiliation": {
+        "path": "",
+        "name": "juji.io",
+        "domain": "juji.io"
+      },
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ],
+      "heat": 42,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1189433763953950721/9-Nr_tN-_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Huahai Yang",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
       "path": "_people/christopher-m-bishop.md",
       "title": "Christopher M. Bishop",
       "excerpt": "Laboratory Director at Microsoft Research Cambridge @MSFTResearchCam",
@@ -523,7 +678,7 @@
         "AI",
         "Machine Learning"
       ],
-      "heat": 41,
+      "heat": 32,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/750274527016386560/D8Z1_kgh_400x400.jpg",
@@ -536,301 +691,271 @@
       "content": "\r\n"
     },
     {
-      "path": "_people/francisco-matorras.md",
-      "title": "Francisco Matorras",
-      "excerpt": "Pofessor of Physics, IFCA, Universidad de Cantabria - Consejo Superior de Investigaciones …",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/francisco-matorras/index.json",
-      "webUrl": "https://everyday.cc/ai/people/francisco-matorras/",
+      "path": "_people/mariya-yao.md",
+      "title": "Mariya Yao",
+      "excerpt": "Editor-In-Chief @TOPBOTS. Former CTO @MetamavenAI. #AI #ML @Forbes writer, speaker, author @AppliedAIBook, maker of lovable #UX & crappy #bots",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/mariya-yao/index.json",
+      "webUrl": "https://everyday.cc/ai/people/mariya-yao/",
       "type": "profile",
-      "name": "Francisco Matorras",
-      "bio": "Pofessor of Physics, IFCA, Universidad de Cantabria - Consejo Superior de Investigaciones …",
+      "name": "Mariya Yao",
+      "bio": "Editor-In-Chief @TOPBOTS. Former CTO @MetamavenAI. #AI #ML @Forbes writer, speaker, author @AppliedAIBook, maker of lovable #UX & crappy #bots",
+      "website": "https://mariyayao.com/",
       "twitter": {
-        "username": "fmatorras",
-        "url": "https://twitter.com/fmatorras",
-        "followers": 281
-      },
-      "googleScholar": {
-        "url": "https://scholar.google.com/citations?user=q_wYjF8AAAAJ",
-        "citations": 245378
-      },
-      "affiliation": {
-        "path": "",
-        "name": "unican.es",
-        "domain": "unican.es"
-      },
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ],
-      "heat": 41,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/2284145603/avve47pj9ve1nnwip2pm_400x400.jpeg",
-          "width": 400,
-          "height": 400,
-          "title": "Francisco Matorras",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_people/verity-harding.md",
-      "title": "Verity Harding",
-      "excerpt": "AI and politics. Head of Global Policy & Partnerships at DeepMind. Views are my own. She / her.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/verity-harding/index.json",
-      "webUrl": "https://everyday.cc/ai/people/verity-harding/",
-      "type": "profile",
-      "name": "Verity Harding",
-      "bio": "AI and politics. Head of Global Policy & Partnerships at DeepMind. Views are my own. She / her.",
-      "website": "https://t.co/7skid8sUXc",
-      "twitter": {
-        "username": "verityharding",
-        "url": "https://twitter.com/verityharding",
-        "followers": 2505
-      },
-      "wikipedia": {
-        "url": "https://en.wikipedia.org/wiki/Verity_Harding"
+        "username": "thinkmariya",
+        "url": "https://twitter.com/thinkmariya",
+        "followers": 27966
       },
       "topics": [
         "AI"
       ],
-      "heat": 41,
+      "heat": 32,
       "images": [
         {
-          "url": "https://pbs.twimg.com/profile_images/1179858918132142080/UucjikYj_400x400.jpg",
+          "url": "https://pbs.twimg.com/profile_images/1299418419830300672/tjPuomYA_400x400.png",
           "width": 400,
           "height": 400,
-          "title": "Verity Harding",
+          "title": "Mariya Yao",
           "isCached": true
         }
       ],
       "content": "\r\n"
     },
     {
-      "path": "_people/andrew-moore.md",
-      "title": "Andrew Moore",
-      "excerpt": "Vice President, Google and head of Google Cloud AI. I love Algorithms, Systems, Machine Learning, AI.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/andrew-moore/index.json",
-      "webUrl": "https://everyday.cc/ai/people/andrew-moore/",
+      "path": "_people/noramay-cadena.md",
+      "title": "Noramay Cadena",
+      "excerpt": "Cofounder & Managing Partner @MiLACapital | MIT grad*3 | Former @Boeing | Cofounder @LatinasinSTEM | @KauffmanFellows Class 23",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/noramay-cadena/index.json",
+      "webUrl": "https://everyday.cc/ai/people/noramay-cadena/",
       "type": "profile",
-      "name": "Andrew Moore",
-      "bio": "Vice President, Google and head of Google Cloud AI. I love Algorithms, Systems, Machine Learning, AI.",
-      "location": "Pittsburgh, PA",
-      "website": "http://www.cs.cmu.edu/~awm/",
+      "name": "Noramay Cadena",
+      "bio": "Cofounder & Managing Partner @MiLACapital | MIT grad*3 | Former @Boeing | Cofounder @LatinasinSTEM | @KauffmanFellows Class 23",
+      "location": "Los Angeles, CA",
+      "website": "https://t.co/t9CFIWFMbw",
       "twitter": {
-        "username": "awmcmu",
-        "url": "https://twitter.com/awmcmu",
-        "followers": 6059
+        "username": "noramayc",
+        "url": "https://twitter.com/noramayc",
+        "followers": 17442
+      },
+      "topics": [
+        "AI"
+      ],
+      "heat": 32,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/836441713497391104/Aj6W5UHO_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Noramay Cadena",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_people/sougwen-chung.md",
+      "title": "Sougwen Chung",
+      "excerpt": "Chung's work explores the mark-made-by-hand and the mark-made-by-machine as an approach to understanding the dynamics of humans and systems. Chung is a former research fellow at MIT’s Media Lab and a pioneer in the field of human-machine collaboration. In 2019, she was selected as the Woman of the Year in Monaco for achievement in the Arts & Sciences.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/sougwen-chung/index.json",
+      "webUrl": "https://everyday.cc/ai/people/sougwen-chung/",
+      "type": "profile",
+      "name": "Sougwen Chung",
+      "bio": "Chung's work explores the mark-made-by-hand and the mark-made-by-machine as an approach to understanding the dynamics of humans and systems. Chung is a former research fellow at MIT’s Media Lab and a pioneer in the field of human-machine collaboration. In 2019, she was selected as the Woman of the Year in Monaco for achievement in the Arts & Sciences.",
+      "location": "New York, New York",
+      "website": "https://sougwen.com/",
+      "twitter": {
+        "username": "sougwen",
+        "url": "https://twitter.com/sougwen",
+        "followers": 8983
       },
       "linkedin": {
-        "url": "https://www.linkedin.com/in/andrew-moore-016b751"
-      },
-      "topics": [
-        "AI",
-        "Google AI",
-        "Machine Learning"
-      ],
-      "heat": 31,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/626157691828875264/tDZ-TLBp_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Andrew Moore",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_people/daniele-bonacorsi.md",
-      "title": "Daniele Bonacorsi",
-      "excerpt": "High-Energy Physics at CERN. Software and Computing for the CMS experiment at the LHC. Big Data Analytics, {M,D}Learning. University of Bologna, INFN, CERN.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/daniele-bonacorsi/index.json",
-      "webUrl": "https://everyday.cc/ai/people/daniele-bonacorsi/",
-      "type": "profile",
-      "name": "Daniele Bonacorsi",
-      "bio": "High-Energy Physics at CERN. Software and Computing for the CMS experiment at the LHC. Big Data Analytics, {M,D}Learning. University of Bologna, INFN, CERN.",
-      "twitter": {
-        "username": "DBonacorsi",
-        "url": "https://twitter.com/DBonacorsi",
-        "followers": 703
-      },
-      "googleScholar": {
-        "url": "https://scholar.google.com/citations?user=7_xEzmUAAAAJ",
-        "citations": 150202
-      },
-      "affiliation": {
-        "path": "",
-        "name": "infn.it",
-        "domain": "infn.it"
-      },
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ],
-      "heat": 31,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1841900580/twitter_image_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Daniele Bonacorsi",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_people/john-krafcik.md",
-      "title": "John Krafcik",
-      "excerpt": "We're building the world's most experienced driver.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/john-krafcik/index.json",
-      "webUrl": "https://everyday.cc/ai/people/john-krafcik/",
-      "type": "profile",
-      "name": "John Krafcik",
-      "bio": "We're building the world's most experienced driver.",
-      "location": "Mountain View, CA",
-      "website": "https://t.co/i1uBCCpct5",
-      "twitter": {
-        "username": "johnkrafcik",
-        "url": "https://twitter.com/johnkrafcik",
-        "followers": 15955
-      },
-      "linkedin": {
-        "url": "https://www.linkedin.com/in/johnkrafcik/"
-      },
-      "wikipedia": {
-        "url": "https://en.wikipedia.org/wiki/John_Krafcik"
-      },
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ],
-      "heat": 31,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1161446779310632961/RGg-GhC6_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "John Krafcik",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_people/madeline-gannon.md",
-      "title": "Madeline Gannon",
-      "excerpt": "Inventing better ways to communicate with machines.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/madeline-gannon/index.json",
-      "webUrl": "https://everyday.cc/ai/people/madeline-gannon/",
-      "type": "profile",
-      "name": "Madeline Gannon",
-      "bio": "Inventing better ways to communicate with machines.",
-      "location": "Pittsburgh, PA",
-      "website": "https://t.co/It4puKUIPF",
-      "twitter": {
-        "username": "madelinegannon",
-        "url": "https://twitter.com/madelinegannon",
-        "followers": 3109
+        "url": "https://www.linkedin.com/in/sougwenchung/"
       },
       "topics": [
         "AI",
         "AI in Robotics"
       ],
-      "heat": 31,
+      "heat": 32,
+      "tags": [
+        "Artist"
+      ],
       "images": [
         {
-          "url": "https://pbs.twimg.com/profile_images/852213397386969088/8zewUndt_400x400.jpg",
+          "url": "https://pbs.twimg.com/profile_images/654747413152821248/AAyCfd5Q_400x400.png",
           "width": 400,
           "height": 400,
-          "title": "Madeline Gannon",
+          "title": "Sougwen Chung",
           "isCached": true
         }
       ],
       "content": "\r\n"
     },
     {
-      "path": "_people/harry-shum.md",
-      "title": "Harry Shum",
-      "excerpt": "Harry Shum is a Chinese computer scientist. He is one of the doctoral student of Raj Reddy. He is the Executive Vice President of Artificial Intelligence & Research at Microsoft. He is known for his research on computer vision and computer graphics, and for the development of the search engine Bing.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/harry-shum/index.json",
-      "webUrl": "https://everyday.cc/ai/people/harry-shum/",
-      "type": "profile",
-      "name": "Harry Shum",
-      "bio": "Harry Shum is a Chinese computer scientist. He is one of the doctoral student of Raj Reddy. He is the Executive Vice President of Artificial Intelligence & Research at Microsoft. He is known for his research on computer vision and computer graphics, and for the development of the search engine Bing.",
-      "location": "Redmond, WA",
-      "website": "http://t.co/NY3kFUGs7a",
-      "twitter": {
-        "username": "harryshum",
-        "url": "https://twitter.com/harryshum",
-        "followers": 17480
-      },
-      "googleScholar": {
-        "url": "https://scholar.google.com/citations?user=9akH-n8AAAAJ",
-        "citations": 46958
-      },
-      "wikipedia": {
-        "url": "https://en.wikipedia.org/wiki/Harry_Shum"
-      },
-      "affiliation": {
-        "path": "",
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
+      "path": "_people/collections/top-ai-artists.md",
+      "title": "Top AI Artists",
+      "excerpt": "Top artists exploring the impact of AI on art, culture and society.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/collections/top-ai-artists/index.json",
+      "webUrl": "https://everyday.cc/ai/people/collections/top-ai-artists/",
+      "type": "collection",
+      "name": "Top AI Artists",
+      "bio": "Top artists exploring the impact of AI on art, culture and society.",
       "topics": [
-        "AI",
-        "Microsoft AI",
-        "Computer Vision"
+        "AI"
       ],
-      "heat": 0,
+      "topItems": [
+        {
+          "path": "",
+          "title": "Joy Buolamwini",
+          "excerpt": "Joy Adowaa Buolamwini is a Ghanaian-American computer scientist and digital activist based at the MIT Media Lab. She founded the Algorithmic Justice League, an organisation that looks to challenge bias in decision making software.",
+          "type": "profile",
+          "name": "Joy Buolamwini",
+          "bio": "Joy Adowaa Buolamwini is a Ghanaian-American computer scientist and digital activist based at the MIT Media Lab. She founded the Algorithmic Justice League, an organisation that looks to challenge bias in decision making software.",
+          "topics": [
+            "AI"
+          ],
+          "heat": 212,
+          "images": [
+            {
+              "url": "https://pbs.twimg.com/profile_images/1218584329540063233/DkdIuybw_400x400.jpg",
+              "width": 400,
+              "height": 400,
+              "title": "Joy Buolamwini",
+              "isCached": true
+            }
+          ]
+        },
+        {
+          "path": "",
+          "title": "Sougwen Chung",
+          "excerpt": "Chung's work explores the mark-made-by-hand and the mark-made-by-machine as an approach to understanding the dynamics of humans and systems. Chung is a former research fellow at MIT’s Media Lab and a pioneer in the field of human-machine collaboration. In 2019, she was selected as the Woman of the Year in Monaco for achievement in the Arts & Sciences.",
+          "type": "profile",
+          "name": "Sougwen Chung",
+          "bio": "Chung's work explores the mark-made-by-hand and the mark-made-by-machine as an approach to understanding the dynamics of humans and systems. Chung is a former research fellow at MIT’s Media Lab and a pioneer in the field of human-machine collaboration. In 2019, she was selected as the Woman of the Year in Monaco for achievement in the Arts & Sciences.",
+          "topics": [
+            "AI",
+            "AI in Robotics"
+          ],
+          "heat": 32,
+          "images": [
+            {
+              "url": "https://pbs.twimg.com/profile_images/654747413152821248/AAyCfd5Q_400x400.png",
+              "width": 400,
+              "height": 400,
+              "title": "Sougwen Chung",
+              "isCached": true
+            }
+          ]
+        },
+        {
+          "path": "",
+          "title": "Taryn Southern",
+          "excerpt": "AI artist | futurist | storyteller | recovering youtuber. Follow my documentary @iamhuman for screenings/release dates. AI album: http://bit.ly/iamAI",
+          "type": "profile",
+          "name": "Taryn Southern",
+          "bio": "AI artist | futurist | storyteller | recovering youtuber. Follow my documentary @iamhuman for screenings/release dates. AI album: http://bit.ly/iamAI",
+          "topics": [
+            "AI"
+          ],
+          "heat": 20,
+          "images": [
+            {
+              "url": "https://pbs.twimg.com/profile_images/899673407423356928/Y0ZP2-I7_400x400.jpg",
+              "width": 400,
+              "height": 400,
+              "title": "Taryn Southern",
+              "isCached": true
+            }
+          ]
+        }
+      ],
+      "size": 3,
+      "heat": 32,
       "images": [
         {
-          "url": "https://pbs.twimg.com/profile_images/473379244840480769/Y4YeRso7_400x400.png",
+          "url": "https://pbs.twimg.com/profile_images/1218584329540063233/DkdIuybw_400x400.jpg",
           "width": 400,
           "height": 400,
-          "title": "Harry Shum",
+          "title": "Joy Buolamwini",
           "isCached": true
         }
       ],
       "content": "\r\n"
     },
     {
-      "path": "_people/jack-clark.md",
-      "title": "Jack Clark",
-      "excerpt": "Policy Director @openai & @indexingai  Newsletter: https://t.co/03WBZSPtRw  Past:  @business Neural Net Reporter.  @theregister Distributed Systems Reporter.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/jack-clark/index.json",
-      "webUrl": "https://everyday.cc/ai/people/jack-clark/",
+      "path": "_people/taryn-southern.md",
+      "title": "Taryn Southern",
+      "excerpt": "AI artist | futurist | storyteller | recovering youtuber. Follow my documentary @iamhuman for screenings/release dates. AI album: http://bit.ly/iamAI",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/taryn-southern/index.json",
+      "webUrl": "https://everyday.cc/ai/people/taryn-southern/",
       "type": "profile",
-      "name": "Jack Clark",
-      "bio": "Policy Director @openai & @indexingai  Newsletter: https://t.co/03WBZSPtRw  Past:  @business Neural Net Reporter.  @theregister Distributed Systems Reporter.",
-      "location": "San Francisco, CA",
-      "website": "https://jack-clark.net/",
+      "name": "Taryn Southern",
+      "bio": "AI artist | futurist | storyteller | recovering youtuber. Follow my documentary @iamhuman for screenings/release dates. AI album: http://bit.ly/iamAI",
+      "location": "Los Angeles, CA",
+      "website": "https://www.tarynsouthern.com/",
       "twitter": {
-        "username": "jackclarksf",
-        "url": "https://twitter.com/jackclarksf",
-        "followers": 43124
+        "username": "TarynSouthern",
+        "url": "https://twitter.com/TarynSouthern",
+        "followers": 65624
+      },
+      "linkedin": {
+        "url": "https://www.linkedin.com/in/tarynsouthern/"
       },
       "topics": [
         "AI"
       ],
-      "heat": 0,
+      "heat": 20,
+      "tags": [
+        "Artist"
+      ],
       "images": [
         {
-          "url": "https://pbs.twimg.com/profile_images/726446881547517952/ULhSTKxN_400x400.jpg",
+          "url": "https://pbs.twimg.com/profile_images/899673407423356928/Y0ZP2-I7_400x400.jpg",
           "width": 400,
           "height": 400,
-          "title": "Jack Clark",
+          "title": "Taryn Southern",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_people/oren-etzioni.md",
+      "title": "Oren Etzioni",
+      "excerpt": "Oren Etzioni is an American entrepreneur, professor of computer science, and CEO of the Allen Institute for Artificial Intelligence.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/oren-etzioni/index.json",
+      "webUrl": "https://everyday.cc/ai/people/oren-etzioni/",
+      "type": "profile",
+      "name": "Oren Etzioni",
+      "bio": "Oren Etzioni is an American entrepreneur, professor of computer science, and CEO of the Allen Institute for Artificial Intelligence.",
+      "location": "Seattle",
+      "website": "https://allenai.org/team/orene/",
+      "twitter": {
+        "username": "etzioni",
+        "url": "https://twitter.com/etzioni",
+        "followers": 26100
+      },
+      "googleScholar": {
+        "url": "https://scholar.google.com/citations?user=-hmxit8AAAAJ",
+        "citations": 42675
+      },
+      "wikipedia": {
+        "url": "https://en.wikipedia.org/wiki/Oren_Etzioni"
+      },
+      "affiliation": {
+        "path": "",
+        "name": "Allen Institute for AI (AI2)",
+        "domain": "allenai.org"
+      },
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ],
+      "heat": 6,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1196070309943627778/4C6ssaJN_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Oren Etzioni",
           "isCached": true
         }
       ],
@@ -850,7 +975,7 @@
       "twitter": {
         "username": "kaifulee",
         "url": "https://twitter.com/kaifulee",
-        "followers": 1523408
+        "followers": 1523409
       },
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=lm2nBYkAAAAJ",
@@ -879,77 +1004,6 @@
           "width": 400,
           "height": 400,
           "title": "Kai-Fu Lee",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_people/martin-ford.md",
-      "title": "Martin Ford",
-      "excerpt": "Martin Ford is a futurist and author focusing on artificial intelligence and robotics, and the impact of these technologies on the job market, economy and society. He has written three books on technology.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/martin-ford/index.json",
-      "webUrl": "https://everyday.cc/ai/people/martin-ford/",
-      "type": "profile",
-      "name": "Martin Ford",
-      "bio": "Martin Ford is a futurist and author focusing on artificial intelligence and robotics, and the impact of these technologies on the job market, economy and society. He has written three books on technology.",
-      "location": "Silicon Valley, CA",
-      "website": "https://t.co/NRuuR6oILg",
-      "twitter": {
-        "username": "MFordFuture",
-        "url": "https://twitter.com/MFordFuture",
-        "followers": 48056
-      },
-      "wikipedia": {
-        "url": "https://en.wikipedia.org/wiki/Martin_Ford_(author)"
-      },
-      "topics": [
-        "AI"
-      ],
-      "heat": 0,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/539018046287790080/Wvt135w6_400x400.jpeg",
-          "width": 400,
-          "height": 400,
-          "title": "Martin Ford",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_people/taryn-southern.md",
-      "title": "Taryn Southern",
-      "excerpt": "AI artist | futurist | storyteller | recovering youtuber. Follow my documentary @iamhuman for screenings/release dates. AI album: http://bit.ly/iamAI",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/taryn-southern/index.json",
-      "webUrl": "https://everyday.cc/ai/people/taryn-southern/",
-      "type": "profile",
-      "name": "Taryn Southern",
-      "bio": "AI artist | futurist | storyteller | recovering youtuber. Follow my documentary @iamhuman for screenings/release dates. AI album: http://bit.ly/iamAI",
-      "location": "Los Angeles, CA",
-      "website": "https://www.tarynsouthern.com/",
-      "twitter": {
-        "username": "TarynSouthern",
-        "url": "https://twitter.com/TarynSouthern",
-        "followers": 65626
-      },
-      "linkedin": {
-        "url": "https://www.linkedin.com/in/tarynsouthern/"
-      },
-      "topics": [
-        "AI"
-      ],
-      "heat": 0,
-      "tags": [
-        "Artist"
-      ],
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/899673407423356928/Y0ZP2-I7_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Taryn Southern",
           "isCached": true
         }
       ],
