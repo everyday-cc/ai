@@ -1,28 +1,24 @@
 ---
 category: news
 title: "'Edge of chaos' opens pathway to artificial intelligence discoveries"
-excerpt: "Scientists at the University of Sydney and Japan's National Institute for Material Science (NIMS) have discovered that an artificial network of nanowires can be tuned to respond in a brain-like way when electrically stimulated."
-publishedDateTime: 2021-06-29T09:37:00Z
-originalUrl: "https://phys.org/news/2021-06-edge-chaos-pathway-artificial-intelligence.html"
-webUrl: "https://phys.org/news/2021-06-edge-chaos-pathway-artificial-intelligence.html"
-ampWebUrl: "https://phys.org/news/2021-06-edge-chaos-pathway-artificial-intelligence.amp"
-cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-06-edge-chaos-pathway-artificial-intelligence.amp"
+excerpt: "Some neuroscience theories suggest the human brain operates best 'at the edge of chaos'. Now scientists have found that keeping a nanowire network at the edge of becoming chaotic is the best state for it to produce useful signals to solve problems."
+publishedDateTime: 2021-06-29T16:14:00Z
+originalUrl: "https://www.sciencedaily.com/releases/2021/06/210629101157.htm"
+webUrl: "https://www.sciencedaily.com/releases/2021/06/210629101157.htm"
 type: article
 
 provider:
-  name: Phys.org
-  domain: phys.org
+  name: Science Daily
+  domain: sciencedaily.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Machine Learning
   - AI
 
-images:
-  - url: "https://scx2.b-cdn.net/gfx/news/2021/edge-of-chaos-opens-pa.jpg"
-    width: 514
-    height: 225
-    isCached: true
-
-secured: "ZiBEerJ7QLoI4e/HV7Ccb/ix5D6LigZZttdXN/pfk5D79cyNpZ9L1NWEFJvAp7iW3civTUtVnNcqRAbnJPFzZnQFuqwslYTWkjHnsf4WREEwo0irGrO4/i/sQg3pvF0FqzZgtSdWT3KrOjoVBlBgsRVoX3yt2zmtLIeTK1iLCvKrwzmR9am4qsRss03Tnti+MIHvCLiZid9V5her1lNlPIIpDGNJANKzInkpJizFbUCTuQ8DwfmtSEF9eaFF5ohJyXq/Zr0qLjfCSwhsvpm85CF7MW0POGnZ+PhahC1UeObGSA7atIpJmnnnbdArp8bdHrqGkkKpmAYooZGxJLPsUxX7fQv4w0YDgyNoKTJOyU4=;MJFup10SWgcN12c3LLhIEw=="
+secured: "LWnbUBKg+N16VYygma0W34HdQdr7YfalDlT+o7Vu1beHxu7YO+wsYCDa45uADMnqGf1UpONdFoSL7vaXHRVgaG7XAwJxDHOt9BfY2q5SDrQMg6lNpIgLcXa0XdBxhhAxvGfSmX8OuyAYWHptY3jCHMlVyWusKqtlqZ3lXBNA7EOBw81rL6YVw3m8KysvirmFu/fZg99KGb5OyQfBeVBJQ65GWs0+AyQDq6uK1I0zNjGD1dT56YeBzZn/VQU/IpnmzQDrm1IKsn853tzIHr6PIsP8orXXjpzvhPSRka7ro4J4ooNywAmxhPifGyht2Cnxiq9Hmdx4UqiWja8TD2Yy6h9Gd9GJaG1hANXD2waSF8M=;0KygYjVplXQB05/7hcQWcg=="
 ---
 

@@ -25,65 +25,33 @@ images:
     isCached: true
 
 related:
-  - title: "Democrats introduce bill to ban facial recognition in public housing"
-    excerpt: "A group of Democratic lawmakers has introduced a bill that would ban the use of facial recognition technology in public housing."
-    publishedDateTime: 2021-07-08T16:06:00Z
-    webUrl: "https://www.dailydot.com/debug/facial-recognition-public-housing-bill/"
-    ampWebUrl: "https://www.dailydot.com/debug/facial-recognition-public-housing-bill/?amp"
-    cdnAmpWebUrl: "https://www-dailydot-com.cdn.ampproject.org/c/s/www.dailydot.com/debug/facial-recognition-public-housing-bill/?amp"
+  - title: "Optimize workforce in your store using Amazon Rekognition"
+    excerpt: "In this post, we show you how to use Amazon Rekognition and AWS DeepLens to detect, and analyze occupancy in a retail business to optimize workforce utilization. Retailers often need to make decisions to improve the in-store customer experience through personnel management. Having too few or too many"
+    publishedDateTime: 2021-07-09T16:17:02Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/optimize-workforce-in-your-store-using-amazon-rekognition/"
     type: article
     provider:
-      name: The Daily Dot
-      domain: dailydot.com
-    quality: 59
+      name: AWS
+      domain: aws.amazon.com
+    quality: 106
     images:
-      - url: "https://uploads.dailydot.com/2021/07/Facial-Recognition-Public-Housing.jpg?auto=compress%2Cformat&ixlib=php-3.3.0"
-        width: 2000
-        height: 1000
+      - url: "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png"
+        width: 768
+        height: 385
         isCached: true
-  - title: "New test targets super-recognisers, high-performing facial recognition individuals"
-    excerpt: "Psychologists from UNSW Sydney have developed a new face identification ability test that will help find facial recognition experts for a variety of police and government agencies, including contract tracing."
-    publishedDateTime: 2021-07-06T12:20:00Z
-    webUrl: "https://medicalxpress.com/news/2021-07-super-recognisers-high-performing-facial-recognition-individuals.html"
-    ampWebUrl: "https://medicalxpress.com/news/2021-07-super-recognisers-high-performing-facial-recognition-individuals.amp"
-    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-07-super-recognisers-high-performing-facial-recognition-individuals.amp"
+  - title: "Emotion Detection and Recognition Market Size to accrue $ 64.7 billion by 2027"
+    excerpt: "Market Study Report LLC has added a new report on Emotion Detection and Recognition market that provides a comprehensive review of this industry with respect to the driving forces influencing the market size."
+    publishedDateTime: 2021-07-06T10:57:00Z
+    webUrl: "https://www.arnnet.com.au/mediareleases/143595/emotion-detection-and-recognition-market-size-to/"
     type: article
     provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 53
+      name: ARN
+      domain: arnnet.com.au
+    quality: 20
     images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2021/face-off-for-best-id-c.jpg"
-        width: 1000
-        height: 667
-        isCached: true
-  - title: "Bill Would Ban Facial Recognition in Public Housing"
-    excerpt: "The proposal would also direct the Housing and Urban Development Department to conduct a comprehensive report on how the tech is used, why and its impact on tenants."
-    publishedDateTime: 2021-07-07T18:12:00Z
-    webUrl: "https://www.nextgov.com/emerging-tech/2021/07/bill-would-ban-facial-recognition-public-housing/183131/"
-    type: article
-    provider:
-      name: Nextgov
-      domain: nextgov.com
-    quality: 39
-    images:
-      - url: "https://cdn.nextgov.com/media/img/cd/2021/07/07/NGbiometrics20210707/open-graph.jpg"
-        width: 400
-        height: 400
-        isCached: true
-  - title: "Try-on facial recognition apps land cosmetics firms in court"
-    excerpt: "Two proposed class actions charge Mary Kay Cosmetics and Ulta Beauty with violating Illinois' Biometric Information Privacy Act with their try-on apps."
-    publishedDateTime: 2021-07-09T15:09:00Z
-    webUrl: "https://www.biometricupdate.com/202107/try-on-facial-recognition-apps-land-cosmetics-firms-in-court"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 39
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/10/12124609/selfie-biometric-authentication.jpg"
-        width: 1200
-        height: 628
+      - url: "https://www.arnnet.com.au/dimg/300x300/dimg/win20_edu_remotelearning_026.jpg"
+        width: 300
+        height: 225
         isCached: true
 
 secured: "f3RxLDAZSwaoEEu47BK8EBjsUkclo1Hbs+1cPPdxHkNfrZIVU27vfRwIr87EiCUCXBinjzHvNMsrnDnuZ9i13mZgqdI6yGgz9WTVU8P1NPO7VcEPdOamRVTay6IJ5TRr6+z4ht+25xamlvKVfXSd/WIRp/Fl1chWCAGwIF4LJ79JeGaiTTLITXe2CvOxfK3w2VemsxN3mz4VMqR44rQk8F2UKwfQ05KV7916J8iD7fnGxoyjjCPG7kjeDdW1N2qqI8VlOAEr+idILU3gHpqSB8OZfsLqRpBeze3D+l4WV1P3VQ3DyByA+sArcNVW8mpxiL+GQgxN6R/cXDMxKStMqWkhJwSehTymraCvbg21ydnmzju3FvBh/4E4/SvFe15yXVSLRqe7njpa12KAIFlkUt2x09jg/Ie703rwm0DqJ1i7F3n30AYZ1R8ZNDK0IHXSMD87LFvYlsL+R0YCNv3XcZNCoA6aD/FoW1GU0jK1mlrHy6AGrpVfm7YFk4X1FVFlXBBNTbWI5LRDASL2WyxHEA==;CYFYtu2azPMLQCfaYNVQMQ=="

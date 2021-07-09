@@ -181,6 +181,22 @@ related:
         width: 2000
         height: 1270
         isCached: true
+  - title: "Tencent Is Using Facial Recognition To Ban Kids From Gaming At Night"
+    excerpt: "Chinese gaming giant Tencent has rolled out a facial recognition system that prevents minors from playing video games at night past their allotted time."
+    publishedDateTime: 2021-07-09T17:26:00Z
+    webUrl: "https://www.techworm.net/2021/07/tencent-facial-recognition-kids-night.html"
+    ampWebUrl: "https://www.techworm.net/2021/07/tencent-facial-recognition-kids-night.html/amp"
+    cdnAmpWebUrl: "https://www-techworm-net.cdn.ampproject.org/c/s/www.techworm.net/2021/07/tencent-facial-recognition-kids-night.html/amp"
+    type: article
+    provider:
+      name: techworm.net
+      domain: techworm.net
+    quality: 59
+    images:
+      - url: "https://www.techworm.net/wp-content/uploads/2021/07/tencent.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Tencent Games Is Using Facial Recognition To Limit Minors' Game Time In China"
     excerpt: "The company has rolled out a new measure to try and curb video game addiction among minors to comply with government regulations."
     publishedDateTime: 2021-07-07T18:25:00Z

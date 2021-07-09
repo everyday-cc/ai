@@ -7,8 +7,8 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/bring-your-own-model
 webUrl: "https://aws.amazon.com/blogs/machine-learning/bring-your-own-model-with-amazon-sagemaker-script-mode/"
 type: article
 quality: 89
-heat: 109
-published: true
+heat: -1
+published: false
 
 provider:
   name: AWS
@@ -29,6 +29,20 @@ images:
     isCached: true
 
 related:
+  - title: "Deploy shadow ML models in Amazon SageMaker"
+    excerpt: "Amazon SageMaker helps data scientists and developers prepare, build, train, and deploy high-quality machine learning (ML) models quickly by bringing together a broad set of capabilities purpose-built for ML. SageMaker accelerates innovation within your organization by providing purpose-built tools for"
+    publishedDateTime: 2021-07-09T16:59:13Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/deploy-shadow-ml-models-in-amazon-sagemaker/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 106
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/06/30/ML1688-image003.png"
+        width: 831
+        height: 568
+        isCached: true
   - title: "Building algorithmic trading strategies with Amazon SageMaker"
     excerpt: "Financial institutions invest heavily to automate their decision-making for trading and portfolio management. In the US, the majority of trading volume is generated through algorithmic trading. [1] With cloud computing, vast amounts of historical data can be processed in real time and fed into sophisticated"
     publishedDateTime: 2021-07-06T20:53:17Z

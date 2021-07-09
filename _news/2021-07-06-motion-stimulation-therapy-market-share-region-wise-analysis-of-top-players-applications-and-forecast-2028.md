@@ -45,20 +45,6 @@ related:
         width: 1200
         height: 774
         isCached: true
-  - title: "Emotion Detection and Recognition Market Size to accrue $ 64.7 billion by 2027"
-    excerpt: "Market Study Report LLC has added a new report on Emotion Detection and Recognition market that provides a comprehensive review of this industry with respect to the driving forces influencing the market size."
-    publishedDateTime: 2021-07-06T10:57:00Z
-    webUrl: "https://www.arnnet.com.au/mediareleases/143595/emotion-detection-and-recognition-market-size-to/"
-    type: article
-    provider:
-      name: ARN
-      domain: arnnet.com.au
-    quality: 20
-    images:
-      - url: "https://www.arnnet.com.au/dimg/300x300/dimg/win20_edu_remotelearning_026.jpg"
-        width: 300
-        height: 225
-        isCached: true
   - title: "New cross-border collaboration to boost innovation in Artificial Intelligence and Information Technology"
     excerpt: "The BT Ireland Innovation Centre at Ulster University and ADAPT Centre at DCU sign a new partnership agreement that aims to support research mobility and innovation The ADAPT Centre at Dublin City University (DCU) and the BT Ireland Innovation Centre (BTIIC) at Ulster University have recently signed a Memorandum of Understanding (MoU) to foster future research and development collaboration in the broad areas of."
     publishedDateTime: 2021-07-06T12:02:00Z

@@ -54,20 +54,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Emotion Detection and Recognition Market Size to accrue $ 64.7 billion by 2027"
-    excerpt: "Market Study Report LLC has added a new report on Emotion Detection and Recognition market that provides a comprehensive review of this industry with respect to the driving forces influencing the market size."
-    publishedDateTime: 2021-07-06T10:57:00Z
-    webUrl: "https://www.arnnet.com.au/mediareleases/143595/emotion-detection-and-recognition-market-size-to/"
-    type: article
-    provider:
-      name: ARN
-      domain: arnnet.com.au
-    quality: 20
-    images:
-      - url: "https://www.arnnet.com.au/dimg/300x300/dimg/win20_edu_remotelearning_026.jpg"
-        width: 300
-        height: 225
-        isCached: true
 
 secured: "d1TzhFCYajJdcWpGZVJD30fIG+ET9zcqN1T9LIXL/dtyXblWZj3Lt1Wgevsa7q8KvTvaQDQGhdABdF0TLMXXeQZE3eQwBIJRT1rduS3cTT9q+olnazmMwtCV5N1pOVAlNsYJ4z5ZSxCUcGWazxyujg76tVI6NyXzvK5MrwRHLZ6lTrOFnWrwY8CsQLdFR2q4Uyteb5Kt+HT2YOenSB2StHzEaEdG3QoOe3Qu5wOFOE8LDsQ5oAG2L/G4Q89o8DBYynLS10WjJcyzBSA3tR7FuKDXD/UzEeHLtCMFP6S0Q4GX25Rm/V3uU5ke2OZ2w52W0zPnmto1BRFSqowkzZwj+Yl4PdOXmNN4+wjD6tg2iQI=;dixdToY+VAPIgx10VDThPQ=="
 ---

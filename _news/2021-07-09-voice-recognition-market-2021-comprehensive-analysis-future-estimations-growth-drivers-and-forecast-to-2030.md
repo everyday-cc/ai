@@ -99,6 +99,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence in Telecommunication Market Size Insight Report 2021 to 2030 by Types, End Users and Regions with Analysis"
+    excerpt: "Jul 09, 2021 (AmericaNewsHour) -- In a recent published report, Kenneth Research has updated the market report for Artificial Intelligence in Telecommunication Market for 2021 till 2030. Report further now discusses; the various strategies to be adopted or ..."
+    publishedDateTime: 2021-07-09T14:57:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-telecommunication-market-size-insight-report-2021-to-2030-by-types-end-users-and-regions-with-analysis-2021-07-09"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 37
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Facial Recognition Market 2021, Top Leading Countries, Companies, Consumption, Trends, Forces Analysis, Revenue, Challenges and Global Forecast 2030"
     excerpt: "In a recent published report, Kenneth Research has updated the market report for Facial Recognition Market for 2021"
     publishedDateTime: 2021-07-05T05:18:00Z

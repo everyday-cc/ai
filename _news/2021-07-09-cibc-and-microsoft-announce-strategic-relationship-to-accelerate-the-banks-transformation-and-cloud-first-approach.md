@@ -209,6 +209,15 @@ related:
       name: manometcurrent.com
       domain: manometcurrent.com
     quality: 20
+  - title: "Insight Wins 2021 Microsoft Worldwide Partner of the Year Awards for Azure Migration and Solution Assessments"
+    excerpt: "Insight Enterprises (NASDAQ:NSIT), the global provider of Insight Intelligent Technology Solutions™ for organizations of all sizes, today announced it has won two 2021 Microsoft ( News - Alert) Worldwide Partner of the Year Awards as Migration to Azure Partner of the Year and Solution Assessments Partner of the Year."
+    publishedDateTime: 2021-07-09T16:07:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2021/07/09/9406115.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 15
 
 secured: "vq5PAr6ZCYnzb/P/gJjocIN1J6qozwK3xjuymSNY01pOL8CDmhH1tMKMYsxFPONyraCwCwy+lfj6x1bDkdDDZ9ehk/TOea4u7tjWbFDChKCcteuWDGUeVUbvpWJWfN/9y1ernzW4LnKAfUi+xQWamV3GSPzMGlUmG1EMs6nneuBmCx+BJty9HaZ62yzU+QAnVyY4FAZXR2cHdqZGEdd72oS0uPBIYcryICEs7uCXyak9tVjIOd3UT18Xn4VVbClCoiJBsoAfqGJ2rLNsIZ5Ye8s2to5eBWcF1hyxV/L9oSzasSfJCzKB05Al+DVaKIiqSrW8mnsAXzTuDieHo4o9aFWBlQvCTLNlNJfn4QR/9is=;nxjKpJQ5nM7eWqjuRINkog=="
 ---

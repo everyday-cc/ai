@@ -42,6 +42,20 @@ related:
         width: 756
         height: 426
         isCached: true
+  - title: "Facebook Is Teaching Robots to Adapt to Any Environment in Real-Time"
+    excerpt: "We’ve seen robots that can dance, climb stairs, and even fetch beer, but they are usually programmed to do these tricks. Well, a team of researchers from Facebook (yes, you read that right) has developed a new model for robotic locomotion that allows legged robots to adapt to any environment in a matter of seconds,"
+    publishedDateTime: 2021-07-09T14:40:00Z
+    webUrl: "https://www.autoevolution.com/news/facebook-is-teaching-robots-to-adapt-to-any-environment-in-real-time-165041.html"
+    type: article
+    provider:
+      name: autoevolution.com
+      domain: autoevolution.com
+    quality: 39
+    images:
+      - url: "https://s1.cdn.autoevolution.com/images/news/facebook-is-teaching-robots-to-adapt-in-real-time-to-any-environment-165041_1.jpg"
+        width: 1269
+        height: 645
+        isCached: true
   - title: "Facebook Wants a Monopoly on Human Connection"
     excerpt: "Facebook’s formal mission statement is to “give ... The company publishes much of its artificial intelligence research on a special blog. Much of the work concerns training machines to avoid bias. “Some common statistical notions of fairness may ..."
     publishedDateTime: 2021-07-08T16:00:00Z

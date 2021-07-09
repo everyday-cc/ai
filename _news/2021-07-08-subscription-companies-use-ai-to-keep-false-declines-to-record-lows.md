@@ -42,6 +42,22 @@ related:
         width: 1440
         height: 810
         isCached: true
+  - title: "Scientists Use Artificial Intelligence to Detect Gravitational Waves – Orders of Magnitude Faster"
+    excerpt: "Scientists can now process months’ worth of gravitational wave data in minutes. When gravitational waves were first detected in 2015 by the advanced Laser Interferometer Gravitational-Wave Observatory (LIGO),"
+    publishedDateTime: 2021-07-09T17:25:00Z
+    webUrl: "https://scitechdaily.com/scientists-use-artificial-intelligence-to-detect-gravitational-waves-orders-of-magnitude-faster/"
+    ampWebUrl: "https://scitechdaily.com/scientists-use-artificial-intelligence-to-detect-gravitational-waves-orders-of-magnitude-faster/amp/"
+    cdnAmpWebUrl: "https://scitechdaily-com.cdn.ampproject.org/c/s/scitechdaily.com/scientists-use-artificial-intelligence-to-detect-gravitational-waves-orders-of-magnitude-faster/amp/"
+    type: article
+    provider:
+      name: SciTech Daily
+      domain: scitechdaily.com
+    quality: 44
+    images:
+      - url: "https://scitechdaily.com/images/Scientific-Visualization-Numerical-Relativity-Simulation-777x545.jpg"
+        width: 777
+        height: 545
+        isCached: true
   - title: "Scientists use artificial intelligence to detect gravitational waves"
     excerpt: "When gravitational waves were first detected in 2015 by the advanced Laser Interferometer Gravitational-Wave Observatory (LIGO), they sent a ripple through the scientific community, as they confirmed another of Einstein’s theories and marked the birth of gravitational wave astronomy."
     publishedDateTime: 2021-07-08T21:27:00Z

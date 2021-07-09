@@ -7,7 +7,7 @@ originalUrl: "https://www.sixthtone.com/news/1007915/tencent-deploys-facial-reco
 webUrl: "https://www.sixthtone.com/news/1007915/tencent-deploys-facial-recognition-to-detect-minors-gaming-at-night-"
 type: article
 quality: 139
-heat: 389
+heat: 399
 published: true
 
 provider:
@@ -164,6 +164,22 @@ related:
       - url: "https://www.nme.com/wp-content/uploads/2020/08/Google-Play-Music-app@2000x1270.jpg"
         width: 2000
         height: 1270
+        isCached: true
+  - title: "Tencent Is Using Facial Recognition To Ban Kids From Gaming At Night"
+    excerpt: "Chinese gaming giant Tencent has rolled out a facial recognition system that prevents minors from playing video games at night past their allotted time."
+    publishedDateTime: 2021-07-09T17:26:00Z
+    webUrl: "https://www.techworm.net/2021/07/tencent-facial-recognition-kids-night.html"
+    ampWebUrl: "https://www.techworm.net/2021/07/tencent-facial-recognition-kids-night.html/amp"
+    cdnAmpWebUrl: "https://www-techworm-net.cdn.ampproject.org/c/s/www.techworm.net/2021/07/tencent-facial-recognition-kids-night.html/amp"
+    type: article
+    provider:
+      name: techworm.net
+      domain: techworm.net
+    quality: 59
+    images:
+      - url: "https://www.techworm.net/wp-content/uploads/2021/07/tencent.jpg"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Tencent will use facial recognition to curb excessive youth gaming in China"
     excerpt: "The Chinese mega-publisher is aiming to eliminate juveniles from playing games outside of a pre-established curfew."

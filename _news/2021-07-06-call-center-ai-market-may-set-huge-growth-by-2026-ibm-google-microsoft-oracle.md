@@ -199,6 +199,15 @@ related:
       name: manometcurrent.com
       domain: manometcurrent.com
     quality: 20
+  - title: "Insight Wins 2021 Microsoft Worldwide Partner of the Year Awards for Azure Migration and Solution Assessments"
+    excerpt: "Insight Enterprises (NASDAQ:NSIT), the global provider of Insight Intelligent Technology Solutions™ for organizations of all sizes, today announced it has won two 2021 Microsoft ( News - Alert) Worldwide Partner of the Year Awards as Migration to Azure Partner of the Year and Solution Assessments Partner of the Year."
+    publishedDateTime: 2021-07-09T16:07:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2021/07/09/9406115.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 15
   - title: "CIBC and Microsoft announce strategic relationship to accelerate the bank's transformation and cloud-first approach"
     excerpt: "CNW/ - Today CIBC and Microsoft announced a strategic relationship through a multi-year agreement formalizing Microsoft Azure as CIBC's primary cloud platform. CIBC's cloud-first approach will be enabled by Microsoft Azure's vast on-demand computing power,"
     publishedDateTime: 2021-07-08T17:15:00Z

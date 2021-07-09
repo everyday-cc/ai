@@ -55,6 +55,20 @@ related:
         width: 1114
         height: 561
         isCached: true
+  - title: "Facebook Is Teaching Robots to Adapt to Any Environment in Real-Time"
+    excerpt: "We’ve seen robots that can dance, climb stairs, and even fetch beer, but they are usually programmed to do these tricks. Well, a team of researchers from Facebook (yes, you read that right) has developed a new model for robotic locomotion that allows legged robots to adapt to any environment in a matter of seconds,"
+    publishedDateTime: 2021-07-09T14:40:00Z
+    webUrl: "https://www.autoevolution.com/news/facebook-is-teaching-robots-to-adapt-to-any-environment-in-real-time-165041.html"
+    type: article
+    provider:
+      name: autoevolution.com
+      domain: autoevolution.com
+    quality: 39
+    images:
+      - url: "https://s1.cdn.autoevolution.com/images/news/facebook-is-teaching-robots-to-adapt-in-real-time-to-any-environment-165041_1.jpg"
+        width: 1269
+        height: 645
+        isCached: true
   - title: "Trump sues Facebook, Twitter, Google to get accounts back"
     excerpt: "Former President Donald Trump has sued Facebook, Twitter and Google, seeking to restore his online profile after he was suspended from most social-media platforms following the January 6 riots in the US Capitol."
     publishedDateTime: 2021-07-08T07:13:00Z

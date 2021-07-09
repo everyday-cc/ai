@@ -57,20 +57,6 @@ related:
         width: 1000
         height: 667
         isCached: true
-  - title: "Facial recognition: Tax pros mull returning to in-person meetings"
-    excerpt: "Absolutely — as people feel more comfortable, we anticipate having more live rather than virtual meetings and events,” said Daniel Morris, a CPA and senior partner with Morris+D’Angelo CPAs in San Jose,"
-    publishedDateTime: 2021-07-06T13:00:00Z
-    webUrl: "https://www.accountingtoday.com/news/facial-recognition-tax-pros-mull-returning-to-in-person-meetings"
-    type: article
-    provider:
-      name: Accounting Today
-      domain: accountingtoday.com
-    quality: 39
-    images:
-      - url: "https://arizent.brightspotcdn.com/b0/a1/9a53ebac4783bb22133d358a52d4/coronavirus-6-feet-sign.jpg"
-        width: 3998
-        height: 2667
-        isCached: true
   - title: "Bill Would Ban Facial Recognition in Public Housing"
     excerpt: "The proposal would also direct the Housing and Urban Development Department to conduct a comprehensive report on how the tech is used, why and its impact on tenants."
     publishedDateTime: 2021-07-07T18:12:00Z
@@ -86,6 +72,6 @@ related:
         height: 400
         isCached: true
 
-secured: "BwdPsIF1GGpw80t1FJGmdjB/2CTtZigfDjAxpP/7R3PrtWG40Bm0cnis0rmsyfcT0h1/S/nfnxqTUrTO0jwtGXWfTcI6twH8auRHHrnj0gTYYluzR2VF5zT3q/42ElWsiJqcPRJFmdllyaHQhgFPKeyVOghgTFufIJzFJ0TfcaerNB3nyRDQ6iLghQ4NLBkrs9k/4MDCHWfWNBAR4doqcLoHiAu0DMNgnWbxUX3Xq5c9Py8qTPVfN/uCxBbctW4TdExRc8vpSoaIoKrqy70pqpHCaSqPG6OMvVPwPVsmTLr1C5zaf3BnrG4iVKQe+HO8Ap2ew56Up9luCEd+UaxJlDE/d+rWKpvjmf5wCqxFigg=;6qpPLUDCymFbZ6WeghncnA=="
+secured: "gaE/m9ey3sR1yt0vsUuHlb+vAJvoa8UZ8LY7sB9twIUv2T6rHMBgkdOYULZixHzyQnn94eueouZKZDrIh/1QN9lQP5jBA/zFXScB5M6mDB5++B0doFJFHCtNDNEOZBtHb/ky6Y7HJtpaJvZS0Ms1iZkeGBJI826KQDN43+M6zKpaR8LssSYeYePPtTqsR4b7r/VM/2a1vPPNdARg6dq/+1MYkRroT33ClLL3fDh7ffEaflBy4FdU0Iwn/uMSAme++wtMpdRpjbcR0BpET3j7VU50lwrVc6GVWVVwog/EECR8MqmO6g/FZAIh7i0u8Mo6DSTkdl6A902g0G1CLP+zwDQ8a+EE8fL0w7jmskXuQ7gErdX6mkssEAMzfK2LWpLYYLlcjWhZLo5+2GqNgersFSg/h+8gtXrZgnOZRUGC50j0i5PssfJumisfp1uefhvPYbY9bw98jWOKk7bxYoC66DLu/uOpgr/Tjot6fzz6IP+pZQHQCJCBwNjsiWCCN5mKJ15xftcgSAa7lKidum8hiQ==;rUjU1kSSMEBPY3+QI/z7FQ=="
 ---
 

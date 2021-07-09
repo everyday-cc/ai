@@ -50,13 +50,13 @@ related:
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 66
+    quality: 68
     images:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60e7efb356707072f917781b%2F0x0.jpg%3FcropX1%3D176%26cropX2%3D2103%26cropY1%3D0%26cropY2%3D1284"
         width: 1200
         height: 800
         isCached: true
 
-secured: "ZLrBrD993cC/1jzuss95SALckzLXGHBMDtUPCEqIGgrC7zB50XjY8S64qTiUhxLSKfXdnEAzwzCPPE/372b9REqXUqIONNdVQm5RrIxYYe6D8YqLSFjVAQn8lOX4ozKa+qOrrJZmqKAeljk3v9MEWX8qc01fzd+7ubNkKLwhHFI2tZgKWqf+cAlhcoAXxnsyZw/E9RpeEqoqUE7vugkSUrmFBUmz5kG3isFWn23cbf87heUCRY5XWjVkKg6sItz0N8JSjJBXyKrOJ3gL39R1GNYh+K3UFNpDZBALLrpZm/5nvAmY5fk4xgyem+p5yEqBw5Qk1fDrQAHiCTylmRZOUbN7/r7hMuY2Xhk/P28O6fg=;BHt8E35EqOGUHLqB/8quGA=="
+secured: "wbmr1x43TPwieIOgeGQsbUjvKn5VAfOdeGatnwZIH++Wk6zmPNeCL+sWT0pU+YGw61EgyBAEDofbcSenWfvi5SGNRe+QoMIQiJKUqIHGhPUYA7N4F5pva3a8NcVPDPGdzLKUWpBMfrir3zdsdt8WnFMIw0k1W4YTbBs0ujUNqx0jA44026OVWjhCY6/M8OdzWJRY09BWqrzpIWtqnduGcZYfJH+M6NVll8sRWGrqSvRtWfQPXbWJXWaZWgJB1PJX8joJdjx4WFbxMJwA/PUVKmJZkWC+vXcodPQfGknXLEKU7wmK4kh7dzlptd0z7tRfUqEcW6a9sJ/Vrwt8e85F0vOAqkpjhZCd3Exq18sPHhwlvkAH44o3Kdvq9rgHNKruog0F98ar3X+XTQrajRzTCVy/SH15sStup1PuFunMHE2J9iNEBzhtrbqQCeetFVyNhtj4LYOR8i4uGO5ZSAdaKTH3B8RMb0cqg43Iw5HwzvnR4tXoRsX3cECp974d5cUx79ZSY8n5FpaJWzpAPOw3pA==;20Dv4WmDT1n/27Z9sQEABg=="
 ---
 

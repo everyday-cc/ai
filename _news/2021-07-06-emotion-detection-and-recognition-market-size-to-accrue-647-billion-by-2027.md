@@ -25,49 +25,33 @@ images:
     isCached: true
 
 related:
-  - title: "AI In Motion: Three Guardrails For Effective Implementation In Transportation (And Beyond)"
-    excerpt: "Transportation has seen massive transformation in recent years — from shifts in how we get from point A to B, to how we receive our groceries — with AI at the center of it all. The pandemic only accelerated demand for AI applications in transportation amidst widespread social distancing and shelter-in-place orders."
-    publishedDateTime: 2021-07-05T11:10:00Z
-    webUrl: "https://www.forbes.com/sites/forbescommunicationscouncil/2021/07/05/ai-in-motion-three-guardrails-for-effective-implementation-in-transportation-and-beyond/"
-    ampWebUrl: "https://www.forbes.com/sites/forbescommunicationscouncil/2021/07/05/ai-in-motion-three-guardrails-for-effective-implementation-in-transportation-and-beyond/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescommunicationscouncil/2021/07/05/ai-in-motion-three-guardrails-for-effective-implementation-in-transportation-and-beyond/amp/"
+  - title: "Optimize workforce in your store using Amazon Rekognition"
+    excerpt: "In this post, we show you how to use Amazon Rekognition and AWS DeepLens to detect, and analyze occupancy in a retail business to optimize workforce utilization. Retailers often need to make decisions to improve the in-store customer experience through personnel management. Having too few or too many"
+    publishedDateTime: 2021-07-09T16:17:02Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/optimize-workforce-in-your-store-using-amazon-rekognition/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 77
+      name: AWS
+      domain: aws.amazon.com
+    quality: 106
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60df26da339f52ef6e9735e5%2F0x0.jpg"
-        width: 1200
-        height: 774
+      - url: "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png"
+        width: 768
+        height: 385
         isCached: true
-  - title: "Motion Stimulation Therapy Market Share, Region Wise Analysis of Top Players, Applications And Forecast 2028"
-    excerpt: "The Global Motion Stimulation Therapy market study provides critical information related to the global, regional"
-    publishedDateTime: 2021-07-06T10:47:00Z
-    webUrl: "https://www.marketwatch.com/press-release/motion-stimulation-therapy-market-share-region-wise-analysis-of-top-players-applications-and-forecast-2028-2021-07-06"
+  - title: "Facial recognition: Tax pros mull returning to in-person meetings"
+    excerpt: "Absolutely — as people feel more comfortable, we anticipate having more live rather than virtual meetings and events,” said Daniel Morris, a CPA and senior partner with Morris+D’Angelo CPAs in San Jose,"
+    publishedDateTime: 2021-07-06T13:00:00Z
+    webUrl: "https://www.accountingtoday.com/news/facial-recognition-tax-pros-mull-returning-to-in-person-meetings"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 50
+      name: Accounting Today
+      domain: accountingtoday.com
+    quality: 39
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "New cross-border collaboration to boost innovation in Artificial Intelligence and Information Technology"
-    excerpt: "The BT Ireland Innovation Centre at Ulster University and ADAPT Centre at DCU sign a new partnership agreement that aims to support research mobility and innovation The ADAPT Centre at Dublin City University (DCU) and the BT Ireland Innovation Centre (BTIIC) at Ulster University have recently signed a Memorandum of Understanding (MoU) to foster future research and development collaboration in the broad areas of."
-    publishedDateTime: 2021-07-06T12:02:00Z
-    webUrl: "https://www.ulster.ac.uk/news/2021/july/new-cross-border-collaboration-to-boost-innovation-in-artificial-intelligence-and-information-technology"
-    type: article
-    provider:
-      name: Ulster University
-      domain: ulster.ac.uk
-    quality: 20
-    images:
-      - url: "https://www.ulster.ac.uk/__data/assets/image/0007/907099/pexels-markus-spiske-1089438.jpg"
-        width: 850
-        height: 567
+      - url: "https://arizent.brightspotcdn.com/b0/a1/9a53ebac4783bb22133d358a52d4/coronavirus-6-feet-sign.jpg"
+        width: 3998
+        height: 2667
         isCached: true
 
 secured: "RWz2+YIgclo0CXonPL3kjCmCNW0tvOnnzO2J5G/spC1ZGPtwnn7LhrMytdoKftLsJ3FmKTMaLwTL03NyPSl5e4/n8a3W66J069axSirxA8nvvg26gwfuBWQNy5w9Bn+MQ+PSRxcpi/jNEnvjo4EFfgkr4cqTbzv9ITJhvX9kAIiFKumZQhQgRQy3ASO+MaIh9zZA9BDNTM0F6H0Mm21jCeAMqJeD6Bl8h1ipkb5EtfQ5faZGrQ77pGPukH7pbDW7aJ7N7U+9Um+mSG6Vh5hoP5BIwyAxTgKnpmym1WXYJGZpP7UqHkCsWoaVwl7U8eUrAPywsvU7amgDaaDjMEHUKgZgp4XQm0GRjG8ZMmKL/fE=;NQmcvpSo2hZ0uLb0zzUU2g=="

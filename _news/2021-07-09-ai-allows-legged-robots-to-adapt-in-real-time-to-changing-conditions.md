@@ -6,8 +6,8 @@ publishedDateTime: 2021-07-09T12:30:00Z
 originalUrl: "https://www.cs.cmu.edu/news/ai-allows-legged-robots-adapt-real-time-changing-conditions"
 webUrl: "https://www.cs.cmu.edu/news/ai-allows-legged-robots-adapt-real-time-changing-conditions"
 type: article
-quality: 54
-heat: 54
+quality: 56
+heat: 56
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI in Robotics
   - AI
+  - Facebook AI
 
 images:
   - url: "https://www.cs.cmu.edu/sites/default/files/web_rma%20003.jpg"

@@ -1,12 +1,12 @@
 ---
 category: news
 title: "Activision taking action against Call of Duty: Warzone cheat that uses machine learning"
-excerpt: "Warzone and Black Ops Cold War cheat that uses machine learning is on the rise, but Activision might already be taking action against it. Earlier this week, Eurogamer first reported that a cheat using machine learning had made its way onto the market."
-publishedDateTime: 2021-07-09T15:00:00Z
-originalUrl: "https://www.gamesradar.com/au/activision-taking-action-against-call-of-duty-warzone-cheat-that-uses-machine-learning/"
-webUrl: "https://www.gamesradar.com/au/activision-taking-action-against-call-of-duty-warzone-cheat-that-uses-machine-learning/"
-ampWebUrl: "https://www.gamesradar.com/au/amp/activision-taking-action-against-call-of-duty-warzone-cheat-that-uses-machine-learning/"
-cdnAmpWebUrl: "https://www-gamesradar-com.cdn.ampproject.org/c/s/www.gamesradar.com/au/amp/activision-taking-action-against-call-of-duty-warzone-cheat-that-uses-machine-learning/"
+excerpt: "A new Call of Duty: Warzone and Black Ops Cold War cheat that uses machine learning is on the rise, but Activision might already be taking action against it. Earlier this week, Eurogamer first reported that a cheat using machine learning had made its way ..."
+publishedDateTime: 2021-07-09T15:02:00Z
+originalUrl: "https://www.gamesradar.com/activision-taking-action-against-call-of-duty-warzone-cheat-that-uses-machine-learning/"
+webUrl: "https://www.gamesradar.com/activision-taking-action-against-call-of-duty-warzone-cheat-that-uses-machine-learning/"
+ampWebUrl: "https://www.gamesradar.com/amp/activision-taking-action-against-call-of-duty-warzone-cheat-that-uses-machine-learning/"
+cdnAmpWebUrl: "https://www-gamesradar-com.cdn.ampproject.org/c/s/www.gamesradar.com/amp/activision-taking-action-against-call-of-duty-warzone-cheat-that-uses-machine-learning/"
 type: article
 quality: 66
 heat: 66
@@ -26,6 +26,6 @@ images:
     height: 270
     isCached: true
 
-secured: "pcKY4uCdosU7E3BHdOLvsH602BO+7+151AkgiSStVz44W/tyU7aS2azCTAgMa9BRuoMqjPj4fs+XwVHlKNxN0w2HR6xHQ4R0EsZSqvUYOQ7xN3dmze1pbPKQtOYKhCm8d3i1ok5iU5XoWgigJtzYAjyhk1Y1chysFgrt6Xi8hRaLmhXVcfmPEcM7n90Ltjs6VRDkjlqJiT3xGNhG3zZw9+iHWcAfcrxA0kgxySOHd094ml6t1jD8zB5JFVatgAyuL2L5SfwvfqpFaW2O6ZI5jJA5hnh6NPB1wcV2e+JfGURzIKY028z/Z5g9nxhuqNRyHh5wFfvxc0p0VuZn3orRu72851bO76izJnBl8mkRJ3w=;1kXjFqNwFsNCiTplYXfjsg=="
+secured: "vnCXkhBtgfx1ltiqMyZXt0pQmcfMvebNRZfs1DIRgOq4we33nDs3i2477gq+c/5BlA9zNpwe/jiu++UXbF2ehCChtMJBrdFIVh+K7gLdsqbVLneSOaO4ynoc4g25gtjdrN76LKljpgXw4kFSIBqAhZl5noUMefc+4I+ev+r31YlXD7nBTwBtWSr5stmQsiy0xsEsimEjatkG7WHO1wD0CNSaymML6A5YkBrmOtLwQopN5cofA/vDqX3N6p1rQNjJYBQ+cdWnG86CTsbuP2bkQEz6JFTqGc+FdrmHkVRDXokn21JWpFG5dS8L4ogKFSo9smyMDFpmbLEXc4jdrakY1UQTuFoxXISdxomhUayRSH0=;wVZIk3MoaIW6wUitOwxLMQ=="
 ---
 

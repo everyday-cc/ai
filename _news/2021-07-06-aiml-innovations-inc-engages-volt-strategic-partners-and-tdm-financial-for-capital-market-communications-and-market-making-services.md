@@ -1,18 +1,18 @@
 ---
 category: news
 title: "AI/ML Innovations Inc. Engages Volt Strategic Partners and TDM Financial for Capital Market Communications and Market-Making Services"
-excerpt: "TORONTO, ON / ACCESSWIRE / July 5, 2021 / AI/ML Innovations Inc. (CSE:AIML)(OTCQB:AIMLF) (“AIML” or the “Company”), a company committed to acquiring and advancing Artificial Intelligence/Machine ... for the services provided by TDM Financial ..."
-publishedDateTime: 2021-07-05T20:12:00Z
-originalUrl: "https://apnews.com/press-release/Accesswire/health-business-technology-4b85b30835729a11635b81f253168e71"
-webUrl: "https://apnews.com/press-release/Accesswire/health-business-technology-4b85b30835729a11635b81f253168e71"
+excerpt: "Volt Strategic is a market communications and business optimization firm working with senior business leaders and innovators to help grow organizational value, build business and accelerate market appreciation for emerging technology,"
+publishedDateTime: 2021-07-05T21:46:00Z
+originalUrl: "https://www.bignewsnetwork.com/news/270183213/aiml-innovations-inc-engages-volt-strategic-partners-and-tdm-financial-for-capital-market-communications-and-market-making-services"
+webUrl: "https://www.bignewsnetwork.com/news/270183213/aiml-innovations-inc-engages-volt-strategic-partners-and-tdm-financial-for-capital-market-communications-and-market-making-services"
 type: article
 quality: 25
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Big News Network.com
+  domain: bignewsnetwork.com
 
 topics:
   - AI in Finance
@@ -20,9 +20,9 @@ topics:
   - Machine Learning
 
 images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
+  - url: "https://cdn.bignewsnetwork.com/cus1625648261741.jpg"
+    width: 630
+    height: 420
     isCached: true
 
 related:
@@ -59,6 +59,6 @@ related:
       domain: stockhouse.com
     quality: 25
 
-secured: "A78sna96vUw9DpwsV1sIM2ogtHMqfZleob522HKZstOjRz/CeiKX5GBc+TBwhHX8gNJRPM0Jd3YAlU2l2fhiX0rKRdA0WAkrHXrcTd+ZmSZKduIIPaHvMuzPGGde1Hy6hwHL7h8yxzwEH2HqxMT0/J3aItMWFDz8gqTTlx1nR7e0NKTVMhIzsqQk59JHagYKbYs2RthKMYnAHQTMNCQHW3ijUnPQNMGEjwXCzwsPvDicvPz5QLDnLa0GFwoZna6VevYGBtFDNeAt9EWiB7wvJtGrpZWH41j5TDlYHE0TlzrAzYAFL5gFA0rvnFS4T90AqVnP9piPRo4/E6WLsj+heKco+VWw8vQt2uVy/eLaV40=;nFB6JDcBcGLBpIZpINbTuA=="
+secured: "D+GYYGe56Y90WY5FxWubK061y+gTUlpsfEwIXgxeRhb8BdqO3vcl+IcheVRey+/hONudoewNN5gsWyTsPWeaXUVPrQwL9wohJAsspa30ve9Vi42iiklbzB3Wj9KJq3ZkOiSeaXn+UKRKHmFpfuj8W+wYPfSQfHgtQ/lbio3zSHn2A49zbFXOTvTbCW9xeIq2OklFnIhicdkRhhA20P0b0Nps+wFbV1PVNopD+s9cpluTI6mjhcUKGeMXpAxfXK0WK7K3r4WwnRchKC5xsG51HE39G7K859WQvoZlIhxKSC7VbAGz12MiWFxPvG7fMUoXBsgrnqSnnT1MVQbecjFE2wcOBMFA8jatkr1eCuVNK/0=;lD4OfqL/JpN86EJRc5RaxQ=="
 ---
 

@@ -229,6 +229,15 @@ related:
         width: 1620
         height: 1080
         isCached: true
+  - title: "At 17.1% CAGR, AI in Fintech Market Size will reach 8984.9 million USD by 2025"
+    excerpt: "The global AI in Fintech market size is expected to gain market growth in the forecast period of 2020 to 2025, with a CAGR of 17.1% in the forecast period of 2020 to 2025 and will expected to reach USD 8984."
+    publishedDateTime: 2021-07-09T15:21:00Z
+    webUrl: "https://www.arnnet.com.au/mediareleases/144117/at-171-cagr-ai-in-fintech-market-size-will-reach/"
+    type: article
+    provider:
+      name: ARN
+      domain: arnnet.com.au
+    quality: 15
   - title: "How to find funding in the fintech space and what the Government can do to support the UK’s position"
     excerpt: "Over the last decade, the UK has been undergoing a fintech revolution seeing increased opportunities in global trade, jobs, and innovation to become the global hub that it is today. Yet for many, the image of fintech is stuck in Shoreditch,"
     publishedDateTime: 2021-07-07T19:18:00Z

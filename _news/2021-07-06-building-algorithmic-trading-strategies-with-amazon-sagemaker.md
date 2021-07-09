@@ -29,6 +29,20 @@ images:
     isCached: true
 
 related:
+  - title: "Deploy shadow ML models in Amazon SageMaker"
+    excerpt: "Amazon SageMaker helps data scientists and developers prepare, build, train, and deploy high-quality machine learning (ML) models quickly by bringing together a broad set of capabilities purpose-built for ML. SageMaker accelerates innovation within your organization by providing purpose-built tools for"
+    publishedDateTime: 2021-07-09T16:59:13Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/deploy-shadow-ml-models-in-amazon-sagemaker/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 106
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/06/30/ML1688-image003.png"
+        width: 831
+        height: 568
+        isCached: true
   - title: "Bring your own model with Amazon SageMaker script mode"
     excerpt: "As the prevalence of machine learning (ML) and artificial intelligence (AI) grows, you need the best mechanisms to aid in the experimentation and development of your algorithms. You might begin with the several built-in algorithms in Amazon SageMaker that simply require you to point the algorithm at"
     publishedDateTime: 2021-07-06T20:02:19Z

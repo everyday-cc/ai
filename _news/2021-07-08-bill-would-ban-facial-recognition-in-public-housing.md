@@ -57,20 +57,6 @@ related:
         width: 1000
         height: 667
         isCached: true
-  - title: "Facial recognition: Tax pros mull returning to in-person meetings"
-    excerpt: "Absolutely — as people feel more comfortable, we anticipate having more live rather than virtual meetings and events,” said Daniel Morris, a CPA and senior partner with Morris+D’Angelo CPAs in San Jose,"
-    publishedDateTime: 2021-07-06T13:00:00Z
-    webUrl: "https://www.accountingtoday.com/news/facial-recognition-tax-pros-mull-returning-to-in-person-meetings"
-    type: article
-    provider:
-      name: Accounting Today
-      domain: accountingtoday.com
-    quality: 39
-    images:
-      - url: "https://arizent.brightspotcdn.com/b0/a1/9a53ebac4783bb22133d358a52d4/coronavirus-6-feet-sign.jpg"
-        width: 3998
-        height: 2667
-        isCached: true
   - title: "Try-on facial recognition apps land cosmetics firms in court"
     excerpt: "Two proposed class actions charge Mary Kay Cosmetics and Ulta Beauty with violating Illinois' Biometric Information Privacy Act with their try-on apps."
     publishedDateTime: 2021-07-09T15:09:00Z
