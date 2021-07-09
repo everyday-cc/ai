@@ -1,63 +1,28 @@
 ---
 category: news
 title: "China's Didi touts tech spending ahead of Wall St debut"
-excerpt: "Early investors included Apple Inc., Japan's Softbank, Alibaba and Chinese internet giants, Tencent Holding Ltd. and Baidu Inc. Didi ... into development of self-driving, electric vehicles and ..."
-publishedDateTime: 2021-06-30T08:45:00Z
-originalUrl: "https://www.dailyherald.com/article/20210630/business/306309977"
-webUrl: "https://www.dailyherald.com/article/20210630/business/306309977"
-ampWebUrl: "https://www.dailyherald.com/amp-article/20210630/business/306309977/"
-cdnAmpWebUrl: "https://www-dailyherald-com.cdn.ampproject.org/c/s/www.dailyherald.com/amp-article/20210630/business/306309977/"
+excerpt: "Early investors included Apple Inc., Japan’s Softbank, Alibaba and Chinese internet giants, Tencent Holding Ltd. and Baidu Inc. Didi ... into development of self-driving, electric vehicles ..."
+publishedDateTime: 2021-06-30T08:10:00Z
+originalUrl: "https://www.fox23.com/news/chinas-didi-touts/DBXXNMFWEYG4ZRLYZ7NRQERQJU/"
+webUrl: "https://www.fox23.com/news/chinas-didi-touts/DBXXNMFWEYG4ZRLYZ7NRQERQJU/"
+ampWebUrl: "https://www.fox23.com/news/chinas-didi-touts/DBXXNMFWEYG4ZRLYZ7NRQERQJU/?outputType=amp"
+cdnAmpWebUrl: "https://www-fox23-com.cdn.ampproject.org/c/s/www.fox23.com/news/chinas-didi-touts/DBXXNMFWEYG4ZRLYZ7NRQERQJU/?outputType=amp"
 type: article
-quality: 44
-heat: 44
-published: false
 
 provider:
-  name: Daily Herald
-  domain: dailyherald.com
+  name: Fox 23
+  domain: fox23.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://www.dailyherald.com/storyimage/DA/20210630/business/306309977/AR/0/AR-306309977.jpg&updated=202106301649&MaxW=800&MaxH=800&noborder"
-    width: 512
-    height: 334
+  - url: "https://cloudfront-us-east-1.images.arcpublishing.com/cmg/XL7AELWQMP6C5P7XEBRG6NG5AA.jpg"
+    width: 5349
+    height: 3487
     isCached: true
 
-related:
-  - title: "China's Didi touts tech spending ahead of Wall Street debut"
-    excerpt: "Early investors included Apple Inc., Japan's Softbank, Alibaba and Chinese internet giants, Tencent Holding Ltd. and Baidu Inc. Didi ... into development of self-driving, electric vehicles and ..."
-    publishedDateTime: 2021-07-01T07:39:00Z
-    webUrl: "https://www.ctvnews.ca/business/china-s-didi-touts-tech-spending-ahead-of-wall-street-debut-1.5491450"
-    ampWebUrl: "https://beta.ctvnews.ca/national/business/2021/6/30/1_5491450.html"
-    cdnAmpWebUrl: "https://beta-ctvnews-ca.cdn.ampproject.org/c/s/beta.ctvnews.ca/national/business/2021/6/30/1_5491450.html"
-    type: article
-    provider:
-      name: CTV News
-      domain: ctvnews.ca
-    quality: 44
-    images:
-      - url: "https://beta.ctvnews.ca/national/business/2021/6/30/1_5491450/_jcr_content/root/responsivegrid/image.coreimg.jpg"
-        width: 1020
-        height: 574
-        isCached: true
-  - title: "Didi shares gain 1% after early jump in Wall Street debut"
-    excerpt: "Early investors included Apple Inc., Japan’s Softbank, Alibaba and Chinese internet giants, Tencent Holding Ltd. and Baidu Inc. Didi ... into development of self-driving, electric vehicles ..."
-    publishedDateTime: 2021-06-30T22:42:00Z
-    webUrl: "https://www.stltoday.com/news/world/didi-shares-gain-1-after-early-jump-in-wall-street-debut/article_beef59b0-ac9f-5f33-99d5-5678c4c45a8e.html"
-    type: article
-    provider:
-      name: St. Louis Post-Dispatch
-      domain: stltoday.com
-    quality: 39
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/7/e7/7e7a4238-fb89-5894-909e-f08961ac0603/60dc1ed10c9b4.image.jpg?crop=1783%2C1003%2C0%2C79&resize=1120%2C630&order=crop%2Cresize"
-        width: 1120
-        height: 630
-        isCached: true
-
-secured: "6TjDos0Xjh1pN607dLMyM7LI/akVpRRPr7hrpYm8cB2FMpcIia9+lN273zx8py+ZG7s6Utijk9NsHxLFqweI9fZIqMemRSaLjE1jURjPOxXeyEhdavxXtIVrEnGpOJ654W5uXQEU+L0hGLrxqz6EzJlZH3G5qFOMcKSkT7XwbmjjH5Zf7hNtS9WRjyHDdrVGckeH+jggAz50pIhWhhZYfGiujJUHjkUeAA5jMz8jM50ooOJB15rwbx/QemcgBiU5UpQ5F7i1fp99b5pdYYeo8/S3Ufv0AeZDULsgXoD+xLpg41I8ik4JY7FMFTXjFcgkmH4xTkFFB8c5PdM3zrig0snLtyey+z/ElxINI7nfDY0=;OtLU3ft25JEov6mXf/qnXg=="
+secured: "xheWpFCaMN2/1osaLR6L8oeigAfrcgejjENamCkO6crznuIbr6InjsqUy7pERaacdVksUsxf9K2jwYbsWOQt+qluQkrB7aLHBf3NOaYYdIu1e2akoid9JUBjG6FxehnBpyw+jQ16Ynv36HSIqH0L5sSBO74At0oLrGJJHkclpNzYlk/FuIB4tWv2hxIiXno8J4EK/XfBNzY25IlcGFS4yss0oZ6wBpb0WUsCGHCRPt8nsdVu28Uh+m0WXajuc6IFhGDYEKSyM6fsUWBaowc1Qrlmh0XibbMRpSIVIGZ/zZeiMvHFEtOAQCb/HDWmFb/PMqWXs2UanHFLWnXNJUZvdF7oo2J12hSZC5ZQ3gEU51E=;36/4SHlyw5nX/GtJEivRLQ=="
 ---
 

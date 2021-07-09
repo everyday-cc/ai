@@ -54,6 +54,15 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "How Predictive AI will Change Cybersecurity in 2021"
+    excerpt: "In this contributed article, Dr. Igor Mezic, CTO of MixMod AI explains how you can identify and stop zero-day attacks like the SolarWinds attack with the invention of this Unsupervised, Predictive AI,"
+    publishedDateTime: 2021-07-09T13:00:00Z
+    webUrl: "https://insidebigdata.com/2021/07/09/how-predictive-ai-will-change-cybersecurity-in-2021/"
+    type: article
+    provider:
+      name: insidebigdata.com
+      domain: insidebigdata.com
+    quality: 17
 
 secured: "muPX3GN/WZjFpf6m/D6WCaKUg5gNLeveVxGoG6cjndy7zYc4mplg5TzUAeHsVx2ZXzGX+S2dZAwSk7x2NA3l/elPNUJZllUmKm6h4Eypyax/KryQIvdF8UQ16W/TyRNEYovYDjK/QjkknHuSvivF+WO2K8gHIwjrS92fnw3Fn89LFC3uB6chcTm+wyNzSvWQq0dio4X/ATK/OlwVHsm2x1/c+HrbhbBy/F+nu1lQBy1jEX4niJQfMJeV2J7878EAV7uuJ993QdmROQmsEjIFQm/i6WDn+MAVICGDEiqFlHKvkAuSqItPKGoB0SD+DcEXwyilxLk+8h4ODwxlt4/6xlS2WzXBhM1fywTa6y44cKQ=;cYpSeiVSm1s/vSngC/weTA=="
 ---

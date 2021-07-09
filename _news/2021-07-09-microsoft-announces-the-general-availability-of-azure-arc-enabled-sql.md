@@ -3,8 +3,8 @@ category: news
 title: "Microsoft Announces the General Availability of Azure Arc-Enabled SQL"
 excerpt: "Microsoft announced the general availability as per the end of July of Azure Arc-enabled SQL, which extends the Azure SQL instances to be hosted on an edge data center or in a multi-cloud environment."
 publishedDateTime: 2021-07-09T11:26:00Z
-originalUrl: "https://www.infoq.com/news/2021/07/azure-arc-enabled-sql/"
-webUrl: "https://www.infoq.com/news/2021/07/azure-arc-enabled-sql/"
+originalUrl: "https://www.infoq.com/news/2021/07/azure-arc-enabled-sql/?topicPageSponsorship=6aaab273-89f6-4eaf-91d0-e6130b52e83f"
+webUrl: "https://www.infoq.com/news/2021/07/azure-arc-enabled-sql/?topicPageSponsorship=6aaab273-89f6-4eaf-91d0-e6130b52e83f"
 type: article
 quality: 69
 heat: -1
@@ -210,6 +210,6 @@ related:
       domain: tmcnet.com
     quality: 14
 
-secured: "9hdQ+693f5tGJJ69dMogA3UozRwuvs0UAyA7VqohTQ0I2kvYrWqUsm/j52uH1z5kBJDlO3UgC6xwKcGl0U6nhPHO0v9GxkWu7kejn/mhFegG109YdG3ZTmxvIDFBpdZomGUpZ/BjprASg0YjMStAhg5EW7fLuksEQw7dgGed5kPYAYUz28SYsJynJdLLt715T/64poOiV5aaR33L6dRY1J3BZX6B/fjdtZo+ScUXUydjy2HQV1rOdws4Z9H72xwxt0vO8kHRuWPTgsFwHGvw6k8BffrU06bQMejpEKpYtjHXo2+wbs0IDuX6T+U2fhkHz9jS+AkHcSIxejVxYbTf7r2pUnkL+S42ZwSj7Ct2Kok=;/p2JG69OvOFwwbrgpXDLNw=="
+secured: "r7r+zPYYWV+BDLTbKxpcATPq6wgrZfb84jgmtkMglOoSlLQDTqbHtfuQzVvV/N6J8ktmILWg+izDTfldADaLWj5OCz+mISooT0yJcmOPHRR/ClPOd+m04oYpWdjtmupQxbZIpmEipn/xc0oypy+ekGF92a5le8Ka56wlr9oVNp5brESUPDps5yfc2Us3ecfTjCfT/Yf9U9IDgscgqNTfrWM7IXOo6YBohMsO7hK2keO6UBZ4kY/5hwa4MXWJXGfTYBg1rhSHisdAYCJRwFIIHrQG29RYcX8zvkul2e9IEWJVAQAVn61uJLJf1BzCeEBMZ6hDTz0vOhQ8DeDfFTt5yv+uJ6Ef8nCTriwkGi821j0=;rCcBWHtBKjbbZzH7kXTJdA=="
 ---
 

@@ -119,6 +119,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Tencent Uses Facial Recognition to Ban Kids Gaming Past Bedtime"
+    excerpt: "In the latest bid to curb video-game addiction in China, tech giant Tencent Holdings Ltd. has launched a facial recognition system to stop minors gaming into the night. The initiative will prevent people under 18 from playing between 10 p.m. and 8 a.m. The ..."
+    publishedDateTime: 2021-07-08T22:41:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2021-07-08/tencent-uses-facial-recognition-to-ban-kids-gaming-past-bedtime"
+    type: article
+    provider:
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 69
+    images:
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iy2UcpOVPA7k/v0/1200x800.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Tencent’s creepy new facial recognition system detects kids gaming at night"
     excerpt: "Chinese tech giant Tencent has launched a creepy new facial recognition system that detects children who are playing video games at night."
     publishedDateTime: 2021-07-06T19:25:00Z
@@ -274,20 +288,6 @@ related:
       - url: "https://techraptor.net/sites/default/files/styles/image_header/public/2021-07/Honor%20Of%20Kings%20Artwork%20Tencent%20Facial%20Recognition%20Main.jpg?itok=GWjIlMIw"
         width: 852
         height: 479
-        isCached: true
-  - title: "Tencent Uses Facial Recognition to Ban Kids Gaming Past Bedtime"
-    excerpt: "In the latest bid to curb video-game addiction in China, tech giant Tencent Holdings Ltd. has launched a facial recognition system to stop minors gaming into the night. The initiative will prevent people under 18 from playing between 10 p."
-    publishedDateTime: 2021-07-09T10:17:00Z
-    webUrl: "https://www.bloombergquint.com/onweb/tencent-uses-facial-recognition-to-ban-kids-gaming-past-bedtime"
-    type: article
-    provider:
-      name: BloombergQuint
-      domain: bloombergquint.com
-    quality: 39
-    images:
-      - url: "https://gumlet.assettype.com/bloombergquint%2F2018-08%2F3a8e2237-2edb-4494-bcf2-231993fb6108%2FBLOOMBERG_LOGO.png?rect=0%2C56%2C1920%2C1008&w=1200&auto=format%2Ccompress&ogImage=true"
-        width: 1200
-        height: 630
         isCached: true
   - title: "China's Tencent Turns To Facial Recognition To Snag Late-night Child Gamers"
     excerpt: "Chinese tech giant Tencent has rolled out a facial recognition \"midnight patrol\" function to root out children masquerading as adults to get around a government curfew on underage gamers. China bans people under 18 from playing online games between 10pm and 8am,"

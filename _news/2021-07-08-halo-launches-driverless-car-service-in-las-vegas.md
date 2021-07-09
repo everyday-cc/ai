@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/halo-launches-driverless-car-se
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/halo-launches-driverless-car-service-in-las-vegas/"
 type: article
 quality: 89
-heat: 139
+heat: 149
 published: true
 
 provider:
@@ -31,6 +31,20 @@ images:
     isCached: true
 
 related:
+  - title: "Halo Brings Driverless Car Rental to Las Vegas"
+    excerpt: "All-electric rental car startup Halo this week announced plans for an autonomous vehicle service in Las Vegas, powered by T-Mobile 5G. Halo, which has been test driving on Las Vegas public streets for months,"
+    publishedDateTime: 2021-07-09T12:47:00Z
+    webUrl: "https://in.pcmag.com/cars-auto/143638/halo-brings-driverless-car-rental-to-las-vegas"
+    type: article
+    provider:
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 69
+    images:
+      - url: "https://sm.pcmag.com/t/pcmag_in/news/h/halo-bring/halo-brings-driverless-car-rental-to-las-vegas_81gc.1200.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "This driverless car-sharing service uses remote human ‘pilots,’ not AI"
     excerpt: "Launching later this year in Las Vegas, Halo’s electric vehicles get steered by a distant driver until you hop behind the wheel."
     publishedDateTime: 2021-07-08T14:00:00Z

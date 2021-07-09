@@ -1,20 +1,20 @@
 ---
 category: news
 title: "Altigen Launches CoreInteract for Microsoft Teams"
-excerpt: "CoreInteract for Microsoft Teams is an innovative enterprise customer engagement platform designed for any business whose sales, service, and support are a top priority. CoreInteract unifies all your business communications channels and enables your employees to interact with your customers completely within Microsoft Teams."
-publishedDateTime: 2021-06-22T05:05:00Z
-originalUrl: "https://www.morningstar.com/news/accesswire/652569msn/altigen-launches-coreinteract-for-microsoft-teams"
-webUrl: "https://www.morningstar.com/news/accesswire/652569msn/altigen-launches-coreinteract-for-microsoft-teams"
+excerpt: "Altigen Communications Inc., a Silicon Valley- based Microsoft ISV and Cloud Solutions provider, today announced the availability of CoreInteract, the first AI-based Enterprise Customer Engagement platform for Microsoft Teams."
+publishedDateTime: 2021-06-22T10:05:00Z
+originalUrl: "https://www.nasdaq.com/press-release/altigen-launches-coreinteract-for-microsoft-teams-2021-06-22"
+webUrl: "https://www.nasdaq.com/press-release/altigen-launches-coreinteract-for-microsoft-teams-2021-06-22"
 type: article
 
 provider:
-  name: Morningstar, Inc.
-  domain: morningstar.com
+  name: Nasdaq
+  domain: nasdaq.com
 
 topics:
   - Microsoft AI
   - AI
 
-secured: "JK6+aTUrbV34gwNQOe67XijiFQ+Yt/uztKMdDSsxxziKVrUS3NfPnFDLnr8116arogkNb+Wunt032m9vPWgcu5rvNmg8IIHJIxjR+KM5PPt3nNspJmw2TvP4KahQ/AQ2c1FqKdAiPuVzFZ+KQgz3rOgh6dfh7iEuaZU50TZ4Ao3RGyHm6CRyQX1rkMLsyGqxNHlp1K93Pq2JzaR3w5SwsziDc6svy5LexPnkarbNvo7/gby6iIA40nWDDHbS2Q8b2nbsaj6GFnvDtkcYejMxoWy0R1w+bJnjYa7P+V3D15yoq5TBSBN5X4LTn/4HXJCmXHu1iVNArcM6dyXvtdv04wkrk+gxSkpO0erflBwne8I=;GQxb9UeUUWOwwBd8aF3HJg=="
+secured: "v6khS/GlcJuYwqv6eFoIezwQRnN3i7OCzmJui1Vpopoa24GRN07XA76wurMNFhW7Qii0UNoMl88zU8pSIpoRVMOkV2ZsXPVihwbWXYmOpgwZxNjgPKvKcQXSslrc5gwVYGI+XCQnTEewXvGoN+/RRq+HTZVhDJSA6bgx4bXELRP4CzlWQILPDmoBf7mWLDLKz7vh3fVNWp6889dMAw8cgbNr07XpeMDQJ3yKh6PRFFqQ/cGeXUfWHCEt8eynTXhgPlkLnVIVB7FNKK65p+1d/qBizb3Gzgmt4k+LrdIQKcPyx/rY4j1nK4zeyDuKr2/lrGtyqnqDS3CHbDoZB4n2wOzl1SbR9NqlJBLgHJUWASc=;24Q+Uw3ma+5xopNBKh2XIw=="
 ---
 

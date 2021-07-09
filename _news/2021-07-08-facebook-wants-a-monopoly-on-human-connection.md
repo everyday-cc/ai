@@ -25,48 +25,45 @@ images:
     isCached: true
 
 related:
-  - title: "Facebook Introduces Two Datasets To Democratise Conversational AI"
-    excerpt: "Facebook AI has shared new research and two new datasets– TOPv2; and MTOP– to help develop sophisticated and effective Conversational AI systems. According to a Deloitte report, the Conversational AI market is projected to increase from AUD 6 billion in 2019 to AUD 22."
-    publishedDateTime: 2021-07-07T05:30:00Z
-    webUrl: "https://analyticsindiamag.com/facebook-introduces-two-datasets-to-democratise-conversational-ai/"
+  - title: "Facebook Robots Are Getting Smarter, Watch Them In The Wild (Video)"
+    excerpt: "Facebook has been training robots to think for themselves. Its chief AI scientist Yann LeCun explains why with a video that shows what robots can do when left to their own devices."
+    publishedDateTime: 2021-07-09T12:00:00Z
+    webUrl: "https://www.forbes.com/sites/martineparis/2021/07/09/facebook-robots-are-getting-smarter-watch-them-in-the-wild-video/"
+    ampWebUrl: "https://www.forbes.com/sites/martineparis/2021/07/09/facebook-robots-are-getting-smarter-watch-them-in-the-wild-video/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/martineparis/2021/07/09/facebook-robots-are-getting-smarter-watch-them-in-the-wild-video/amp/"
     type: article
     provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 39
+      name: Forbes
+      domain: forbes.com
+    quality: 74
     images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/07/facebook-NLU.jpg"
-        width: 1000
-        height: 668
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60e79dd602c7bff56bca0980%2F0x0.jpg%3FcropX1%3D202%26cropX2%3D958%26cropY1%3D0%26cropY2%3D426"
+        width: 756
+        height: 426
         isCached: true
-  - title: "Globality: Democratising Procurement with AI"
-    excerpt: "Globality CRO Keith Hausmann on building a disruptive, digital, inclusive future with AI-powered procurement at its core"
-    publishedDateTime: 2021-07-06T11:43:00Z
-    webUrl: "https://supplychaindigital.com/procurement/globality-democratising-procurement-ai"
+  - title: "Facebook teaches walking AI robots to adapt on the fly to terrain such as dirt, sand and even swamps"
+    excerpt: "Facebook teaches walking AI robots to adapt on the fly to terrain such as dirt, sand and even swamps - SiliconANGLE"
+    publishedDateTime: 2021-07-09T12:00:00Z
+    webUrl: "https://siliconangle.com/2021/07/09/facebook-teaches-walking-ai-robots-adapt-different-terrain-dirt-sand-even-swamps-fly/"
     type: article
     provider:
-      name: Supply Chain Digital
-      domain: supplychaindigital.com
-    quality: 37
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 41
     images:
-      - url: "https://supplychaindigital.com/sites/default/files/styles/ma/public/image/GettyImages-1254000367_1.jpg?itok=0Hdw-QBc"
-        width: 2454
-        height: 1222
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/07/RMA-walking-robots.png"
+        width: 1114
+        height: 561
         isCached: true
-  - title: "Facebook AI Innovation Summit: Habitat 2.0, a simulator to help robots in domestic tasks"
-    excerpt: "On June 30th, the Facebook AI Innovation Summit, an annual event of Facebook AI Research (FAIR) in Europe, took place. It was an opportunity for Facebook’s research subsidiary to present its latest innovations around the following theme: “Building a ..."
-    publishedDateTime: 2021-07-07T12:14:00Z
-    webUrl: "https://www.actuia.com/english/facebook-ai-innovation-summit-habitat-2-0-a-simulator-to-help-robots-in-domestic-tasks/"
+  - title: "Trump sues Facebook, Twitter, Google to get accounts back"
+    excerpt: "Former President Donald Trump has sued Facebook, Twitter and Google, seeking to restore his online profile after he was suspended from most social-media platforms following the January 6 riots in the US Capitol."
+    publishedDateTime: 2021-07-08T07:13:00Z
+    webUrl: "https://www.theaustralian.com.au/business/technology/trump-sues-facebook-twitter-google-to-get-accounts-back/live-coverage/baa22ffe5ac929afe2834367f6484376"
     type: article
     provider:
-      name: Actu IA
-      domain: actuia.com
-    quality: 30
-    images:
-      - url: "https://www.actuia.com/wp-content/uploads/2021/07/Habitat.jpg"
-        width: 800
-        height: 400
-        isCached: true
+      name: The Australian
+      domain: theaustralian.com.au
+    quality: 4
 
 secured: "UG1ByNLdY5/Jy9WJ2LcbrPO1NWuuzmYEQ4kAC6rQwacgVznMU1n0DroloyTLqdXxfjje3L53q6881a5toI+ACoHrLbIr5JYSUIirj5z6RnvbC9vstnC7h9sQvKzCsmZ5IMlAT7AU2E1GY1ywoYLisxfThOTsXNKgBivBoCkE9NxPEEddDOLdHlYT2l2pZIvWAbusOVBb45rOlF/2tCgKZDwbnQ7rZbmy1quuq7s2+TpJG8zffQMvPXP08nmaB5c7DrLXq4awz1My9z30uzqCH6/3xOYTagDzpRtF/1MdVrVeFzFrkbcPUttsC0+788UhTSIbFNwboTVm+o+XIA0fXpeQNDffb00+qHN8DbgqTgNras+xXcsTiGhJons2etMMmWKOPqu79oczHjfy2y27mYXb8R4jmVUuprdT7+IKWbj6fF7ZVqvwr8axgcVlxJsbGlwtAMc/GvSCKQ61NDOt0tRjwVvqjfa5sUs9IDgzDNGdLhgvD9kW6EhU4IsvBwnT4Kes1Kifs8F+2nFocBSBpA==;pXDkLAJlunlj3CaYHte0hQ=="
 ---

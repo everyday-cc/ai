@@ -67,7 +67,7 @@ related:
   - title: "Microsoft Announces the General Availability of Azure Arc-Enabled SQL"
     excerpt: "Microsoft announced the general availability as per the end of July of Azure Arc-enabled SQL, which extends the Azure SQL instances to be hosted on an edge data center or in a multi-cloud environment."
     publishedDateTime: 2021-07-09T11:26:00Z
-    webUrl: "https://www.infoq.com/news/2021/07/azure-arc-enabled-sql/"
+    webUrl: "https://www.infoq.com/news/2021/07/azure-arc-enabled-sql/?topicPageSponsorship=6aaab273-89f6-4eaf-91d0-e6130b52e83f"
     type: article
     provider:
       name: InfoQ

@@ -2,6 +2,40 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-06-23-self-driving-truck-maker-embark-to-go-public-via-46-bln-spac-deal.md",
+      "title": "Self-driving truck maker Embark to go public via $4.6 bln SPAC deal",
+      "excerpt": "Embark Trucks Inc, a self-driving truck developer backed by private equity firm Tiger Global Management, said it had agreed to go public through a merger with blank-check firm Northern Genesis Acquisition Corp.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/self-driving-truck-maker-embark-to-go-public-via-%244.6-bln-spac-deal-2021-06-23",
+      "originalUrl": "https://www.nasdaq.com/articles/self-driving-truck-maker-embark-to-go-public-via-%244.6-bln-spac-deal-2021-06-23",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/self-driving-truck-maker-embark-to-go-public-via-%244.6-bln-spac-deal-2021-06-23?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/self-driving-truck-maker-embark-to-go-public-via-%244.6-bln-spac-deal-2021-06-23?amp",
+      "publishedDateTime": "2021-06-23T04:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-23-the-road-to-driverless-cars-is-looking-hopeless.md",
       "title": "The road to driverless cars is looking hopeless",
       "excerpt": "They want to approach the necessary artificial intelligence by building systems that learn the way human babies do. Others want to divide the problem into smaller chunks, developing systems that each handle a piece of the puzzle. Biondi said he thinks ...",
@@ -1345,49 +1379,6 @@
       "provider": {
         "name": "WAVY",
         "domain": "wavy.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-17-waymo-raises-further-25bn-for-self-driving-car-project.md",
-      "title": "Waymo raises further $2.5bn for self-driving car project",
-      "excerpt": "The deployment of driverless technology is taking considerably ... “There’s no greater challenge in artificial intelligence than building and deploying fully autonomous technology at scale.”",
-      "sourceUrl": null,
-      "webUrl": "https://www.ft.com/content/e0dd4302-c69f-42b6-8a37-549ce113a885",
-      "originalUrl": "https://www.ft.com/content/e0dd4302-c69f-42b6-8a37-549ce113a885",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fdc5feecf-7435-4600-95c4-d69820be9aec.jpg?source=google-amp&fit=scale-down&width=500",
-          "width": 500,
-          "height": 281,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.ft.com/content/e0dd4302-c69f-42b6-8a37-549ce113a885",
-      "cdnAmpWebUrl": "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/e0dd4302-c69f-42b6-8a37-549ce113a885",
-      "publishedDateTime": "2021-06-16T10:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Financial Times",
-        "domain": "ft.com",
         "images": null,
         "publishers": null,
         "authors": null

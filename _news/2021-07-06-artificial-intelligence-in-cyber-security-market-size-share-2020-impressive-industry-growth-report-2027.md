@@ -35,6 +35,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Text Analytics Market Top Vendors Analysis, Market Challenges and Geographical Analysis"
+    excerpt: "As per Global Market Insights, Inc. estimates, the global text analytics market size is expected to cross $20 billion by 2027. The global text analytics market share is slated to expand at an appreciable rate over the foreseeable future,"
+    publishedDateTime: 2021-07-09T12:07:00Z
+    webUrl: "https://www.marketwatch.com/press-release/text-analytics-market-top-vendors-analysis-market-challenges-and-geographical-analysis-2021-07-09"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 46
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence (AI) in Automotive Market"
     excerpt: "Latest added Artificial Intelligence (AI) in Automotive Market research study by MarketDigits offers detailed product outlook and elaborates market review till 2027. The market Study is segmented by key regions that is accelerating the marketization."
     publishedDateTime: 2021-07-07T18:54:00Z
@@ -81,6 +95,15 @@ related:
         width: 640
         height: 457
         isCached: true
+  - title: "Global Artificial intelligence (AI) in Supply Chain and Logistics Market Size, Status and Forecast 2021-2027"
+    excerpt: "Pages Report] Check for Discount on Global Artificial intelligence (AI) in Supply Chain and Logistics Market Size, Status and Forecast 2021-2027 report by QYResearch Group. Market Analysis and Insights: Global Artificial intelligence (AI) in"
+    publishedDateTime: 2021-07-09T08:01:00Z
+    webUrl: "https://www.reportsnreports.com/reports/4656198-global-artificial-intelligence-ai-in-supply-chain-and-logistics-market-size-status-and-forecast-2021-2027.html"
+    type: article
+    provider:
+      name: ReportsnReports
+      domain: reportsnreports.com
+    quality: 13
   - title: "Global Machine Learning in Medical Imaging Market Size, Status and Forecast 2021-2027"
     excerpt: "Medical imaging analytics tools become more readily available, providers are likely to find strong incentives to investigate the best way to integrate artificial intelligence/machine learning into their imaging strategies. Machine Learning in Medical ..."
     publishedDateTime: 2021-07-09T07:46:00Z

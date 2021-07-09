@@ -2,6 +2,59 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-06-06-facebook-proposes-nethack-as-a-grand-challenge-in-ai-research.md",
+      "title": "Facebook proposes NetHack as a grand challenge in AI research",
+      "excerpt": "Facebook is proposing the '80s game NetHack as a grand challenge in AI and machine learning research, launching a competition at NeurIPS 2021.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/06/09/facebook-proposes-nethack-as-a-grand-challenge-in-ai-research/",
+      "originalUrl": "https://venturebeat.com/2021/06/09/facebook-proposes-nethack-as-a-grand-challenge-in-ai-research/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 131,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/08/facebook-dark-background.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/06/09/facebook-proposes-nethack-as-a-grand-challenge-in-ai-research/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/09/facebook-proposes-nethack-as-a-grand-challenge-in-ai-research/amp/",
+      "publishedDateTime": "2021-06-05T20:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-04-facebook-ais-friendly-battle-of-researchers-versus-devs-finds-pytorch-triumphant.md",
       "title": "Facebook AI’s friendly battle of researchers versus devs finds PyTorch triumphant",
       "excerpt": "In a kind of battle of the researchers versus devs, the decision happened only after Schroepfer and team came around to the thinking of Facebook AI's head of research, Yann LeCun, according to Schroepfer. \"I had this knock-out, drag-out debate with Yann ...",

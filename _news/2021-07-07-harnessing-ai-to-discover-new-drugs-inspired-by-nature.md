@@ -42,6 +42,22 @@ related:
         width: 1200
         height: 1000
         isCached: true
+  - title: "Harnessing AI to Discover New Drugs: Rewriting the Rulebook for Pharmaceutical Research"
+    excerpt: "Artificial intelligence (AI) is able to recognize the biological activity of natural products in a targeted manner, as researchers at ETH Zurich have demonstrated. Moreover, AI helps to find molecules that have the same effect as a natural substance but are easier to manufacture."
+    publishedDateTime: 2021-07-09T10:07:00Z
+    webUrl: "https://scitechdaily.com/harnessing-ai-to-discover-new-drugs-rewriting-the-rulebook-for-pharmaceutical-research/"
+    ampWebUrl: "https://scitechdaily.com/harnessing-ai-to-discover-new-drugs-rewriting-the-rulebook-for-pharmaceutical-research/amp/"
+    cdnAmpWebUrl: "https://scitechdaily-com.cdn.ampproject.org/c/s/scitechdaily.com/harnessing-ai-to-discover-new-drugs-rewriting-the-rulebook-for-pharmaceutical-research/amp/"
+    type: article
+    provider:
+      name: SciTech Daily
+      domain: scitechdaily.com
+    quality: 49
+    images:
+      - url: "https://scitechdaily.com/images/AI-Medicine-Pharmaceutical-Drugs-777x622.jpg"
+        width: 777
+        height: 622
+        isCached: true
 
 secured: "PTXSvmFkc/0TfSZQyVfnmug0I8T/M27TRo+v18DIxyhhM/wKjQpLasmQf06rGjXYOmk3MX8ndoTU7emgig71coWb91CbAQz/01G/+pE+QaLnmCgeF1gmmm0kO5skU0z5CPReIeAvZ7IBut2wjlQSvRfuHteKmUvGracqGPScz1GlvAFMVR2JQgqba4sqPkQN/PY288UVi56FjcR0UZ9UxHjTsF8piNey9GgnhTrax9bVVS84vyMTjKERQbJy4T8FuyiXBoOd3prryI/XHvET84IZv3WEnl1e6QzaabT5bl+eyaR85zJgn9vVXyIkpLalZMQOxmJaM/ziv7wLHi8lgVqtSy3dlIhQ1u10Zv5RyzuHbUViyAb8cV46cjAdagO9l3KO+NOOWQP+wWUWfEhA5H/9ShjpMRBiAzUCf1Nn2tML6Cg7rIsWtpxUOkvjs2WKfgRYmN5zP4IkIdZDFDBIxTd724BTRHoS7sZ/xmehFir2TbC4obiW5+rNtR9Z0HzyE322gc4MgBLn00RzQJi12A==;rh0PfTbw8lwKVYhVQQQibA=="
 ---

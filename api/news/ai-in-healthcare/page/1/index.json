@@ -89,6 +89,49 @@
       ]
     },
     {
+      "path": "_news/2021-07-08-artificial-intelligence-helps-to-discover-new-drugs.md",
+      "title": "Artificial Intelligence Helps to Discover New Drugs",
+      "excerpt": "In any case, the pharmaceutical industry will have to adapt its research approach to a new rulebook. Artificial intelligence (AI) in healthcare is the discipline using data intensive computer based solutions to improve patient care and outcome. Drug ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.medindia.net/news/artificial-intelligence-helps-to-discover-new-drugs-202141-1.htm",
+      "originalUrl": "https://www.medindia.net/news/artificial-intelligence-helps-to-discover-new-drugs-202141-1.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.medindia.net/amp-images/health-images/drug-6.jpg",
+          "width": 1200,
+          "height": 1000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.medindia.net/amp/news/artificial-intelligence-helps-to-discover-new-drugs-202141-1.htm",
+      "cdnAmpWebUrl": "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/artificial-intelligence-helps-to-discover-new-drugs-202141-1.htm",
+      "publishedDateTime": "2021-07-07T22:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medindia",
+        "domain": "medindia.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-08-artificial-intelligence-ai-unfolds-the-new-dimension-of-social-development.md",
       "title": "Artificial Intelligence (AI) Unfolds the New Dimension of Social Development",
       "excerpt": "Artificial intelligence (AI) in healthcare is the discipline using data intensive computer based solutions to improve patient care and outcome. New, objective approach to assessing the reduction in apparent age after facelift surgery is now possible with ...",
@@ -407,7 +450,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-medical-diagnostics-market-outlook-industry-analysis-and-prospect-2021-2027-2021-07-05",
       "featuredContent": null,
       "highlight": null,
-      "heat": 125,
+      "heat": 145,
       "tags": null,
       "images": [
         {
@@ -1294,41 +1337,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-06-23-investing-in-ai-healthcare-analysts-offer-2-stocks-to-buy.md",
-      "title": "Investing in AI Healthcare; Analysts Offer 2 Stocks to Buy",
-      "excerpt": "It’s estimated that AI as a whole will boost the global economy by more than $15 trillion by the year 2030, and a significant piece of that will emerge in the healthcare sector. By 2026, the midpoint of that forecast,",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/investing-in-ai-healthcare-analysts-offer-2-stocks-to-buy-2021-06-23",
-      "originalUrl": "https://www.nasdaq.com/articles/investing-in-ai-healthcare-analysts-offer-2-stocks-to-buy-2021-06-23",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 116,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/investing-in-ai-healthcare-analysts-offer-2-stocks-to-buy-2021-06-23?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/investing-in-ai-healthcare-analysts-offer-2-stocks-to-buy-2021-06-23?amp",
-      "publishedDateTime": "2021-06-23T06:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI",
         "AI in Healthcare"
       ]

@@ -2,6 +2,49 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-06-17-waymo-raises-further-25bn-for-self-driving-car-project.md",
+      "title": "Waymo raises further $2.5bn for self-driving car project",
+      "excerpt": "The deployment of driverless technology is taking considerably ... “There’s no greater challenge in artificial intelligence than building and deploying fully autonomous technology at scale.”",
+      "sourceUrl": null,
+      "webUrl": "https://www.ft.com/content/e0dd4302-c69f-42b6-8a37-549ce113a885",
+      "originalUrl": "https://www.ft.com/content/e0dd4302-c69f-42b6-8a37-549ce113a885",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fdc5feecf-7435-4600-95c4-d69820be9aec.jpg?source=google-amp&fit=scale-down&width=500",
+          "width": 500,
+          "height": 281,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.ft.com/content/e0dd4302-c69f-42b6-8a37-549ce113a885",
+      "cdnAmpWebUrl": "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/e0dd4302-c69f-42b6-8a37-549ce113a885",
+      "publishedDateTime": "2021-06-16T10:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Financial Times",
+        "domain": "ft.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-16-alphabets-self-driving-unit-waymo-raises-25b-in-funding-round.md",
       "title": "Alphabet’s self-driving unit Waymo raises $2.5B in funding round",
       "excerpt": "Alphabet’s self-driving unit Waymo said on Wednesday it raised $2.5 billion in its fresh funding round in a year after a string of defections of executives rekindled concerns about",
@@ -1349,58 +1392,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-08-why-the-dream-of-truly-driverless-cars-is-slowly-dying.md",
-      "title": "Why the dream of truly driverless cars is slowly dying",
-      "excerpt": "If you're waiting around to buy your own completely driverless car, you may be waiting a lot longer than everyone originally thought.",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/news/why-truly-driverless-cars-may-never-happen",
-      "originalUrl": "https://thenextweb.com/news/why-truly-driverless-cars-may-never-happen",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F06%2Fteslafsd.jpg&signature=2171b81204e7dccf351a1f495ead2e6b",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-08T00:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

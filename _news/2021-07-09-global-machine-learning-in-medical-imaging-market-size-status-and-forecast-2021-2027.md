@@ -33,6 +33,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Text Analytics Market Top Vendors Analysis, Market Challenges and Geographical Analysis"
+    excerpt: "As per Global Market Insights, Inc. estimates, the global text analytics market size is expected to cross $20 billion by 2027. The global text analytics market share is slated to expand at an appreciable rate over the foreseeable future,"
+    publishedDateTime: 2021-07-09T12:07:00Z
+    webUrl: "https://www.marketwatch.com/press-release/text-analytics-market-top-vendors-analysis-market-challenges-and-geographical-analysis-2021-07-09"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 46
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence in Cyber Security Market Size, Share 2020, Impressive Industry Growth Report 2027"
     excerpt: "The Artificial Intelligence in Security Market was valued at 5 08 billion US in 2020 and is projected to reach 14 2 billion US by 2026 at a CAGR of 18 during the forecast period 2021 2026 The market is"
     publishedDateTime: 2021-07-06T05:55:00Z
@@ -90,6 +104,15 @@ related:
         width: 640
         height: 457
         isCached: true
+  - title: "Global Artificial intelligence (AI) in Supply Chain and Logistics Market Size, Status and Forecast 2021-2027"
+    excerpt: "Pages Report] Check for Discount on Global Artificial intelligence (AI) in Supply Chain and Logistics Market Size, Status and Forecast 2021-2027 report by QYResearch Group. Market Analysis and Insights: Global Artificial intelligence (AI) in"
+    publishedDateTime: 2021-07-09T08:01:00Z
+    webUrl: "https://www.reportsnreports.com/reports/4656198-global-artificial-intelligence-ai-in-supply-chain-and-logistics-market-size-status-and-forecast-2021-2027.html"
+    type: article
+    provider:
+      name: ReportsnReports
+      domain: reportsnreports.com
+    quality: 13
 
 secured: "CHVutqYJdOY/fgAI3FRPNxG+gsYlO5wFaCrVyaBAcjiH0bd0U3eQ1OcIiPnCLbxE8SqBtB1LvNZqAmzxbCLwlG7gaOB1HQq73/WZLM2M+TewQ36KneHklOk5BKmiKpUROGlPzoW+glxMol+BKPQr/tJJw8iAzy6GJz4Kk1qFCY00YqFMw4b1AlH1Z4nPUHe/WATNzsS0t9NrZgg5+mng3Q+4z/Wf8VBQ/60elkqPXtUV9hM9yH4Je9TGLefCyDOzFV2pEV33irfSK43rkPLsA2BnULBBer6QfdzLYUjpjUyR4WiT8ioP8qJdQpnbCRBselJaSvuTboZnEOJqJOYsGOJymwksKN4Ir0QtbK5Yh5s=;0014fQAkEGJFs9lfN6tQaQ=="
 ---

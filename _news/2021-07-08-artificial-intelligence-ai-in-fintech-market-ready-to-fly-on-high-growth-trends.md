@@ -8,7 +8,7 @@ webUrl: "https://www.openpr.com/news/2323847/artificial-intelligence-ai-in-finte
 ampWebUrl: "https://www.openpr.com/amp/2323847/artificial-intelligence-ai-in-fintech-market-ready-to-fly"
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2323847/artificial-intelligence-ai-in-fintech-market-ready-to-fly"
 type: article
-quality: 66
+quality: 68
 heat: -1
 published: false
 
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI in Finance
 
 images:
   - url: "https://cdn.openpr.com/U/7/U708590558_g.jpg"
@@ -238,6 +239,6 @@ related:
       domain: finextra.com
     quality: 0
 
-secured: "PMhkmq9suhtdc5V1Gs3osLlXvNFAW+hiZr3+m+ODucCmfyleRGaxNG1lunfE8md7L+mMFdomT6tLYkRe91BXCjLGgjHbO7XAPOezxPaGS9jYuAveroeLmUF5S8NRkZNKleikQiPjJkYYHrQqiaUljfH2B2uhVZBcMn48tFSrJZKpeUKEYS7kiDhkfTc3kT1PSnQaCLRjDL0290GEzrLeExSZOGaAESuTTB/C9sK5HYvh73hQcYsRzJiMhU3UXJHhPS7oJAbJcwPPdqv3CTLz1QOJsasoKuf+uO1cr108u7sXWpfoxAwBERuVDQ5YFBNCqnyrC0gp4NEFF9ebyHXu4vW9cYGXdRPNtD3W1BpV7HI=;YA1D48KOnTzR7mDlzvtokQ=="
+secured: "KOt0KCijAlinX0+hWrH4tSyT0n7FLdiwNzC4jR7pmmr3fhvPbpPoyuMh1p0kp818LZgr2uuV6I2ekPYWMQgbZVRQCf3Iptl5TpWVNEpvKYSWVxcbDRrmk9QNiYlJG1kyU9JkjLdUZ3IAaPzUqlQn/bfGLBhdG9JcHphWA1EGarC0VCVTPwki8x/zgMQjF9cEThuiPmNHZO8dyX45mrAB44z3egkUgg1rY07wxgSdqgxhii9JsTU0aoUK4AuyWNEcceKo46RVBtaSEMS60guV1xTejJ+WaprlRpdBgMB6sXbhPcXUBhDgZIgWRkQf6J+CU0hX/a9JPlrqh4btK0AqVzUotYXBAy9/zZOnp44IHLzr8wu+QXQC/1+NPsuN3H2fnu1+vrFemAPz5FkytWYrSgBDsHyLz/2JuVbRDI+JgfZ3Sb/kxn24guCgmXwGk8POH8hLgFPPLCDtH/BRGnj/dyKQIKGnYi6jGqU8uc+u7v7dapNAG6J4jOMTXxUjTQmLc8rfKi6Ct34qoy6zHiQIYw==;w6xJfX9BoCP5pu/yTP5gxQ=="
 ---
 

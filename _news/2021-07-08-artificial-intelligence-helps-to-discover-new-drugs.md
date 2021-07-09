@@ -9,8 +9,8 @@ ampWebUrl: "https://www.medindia.net/amp/news/artificial-intelligence-helps-to-d
 cdnAmpWebUrl: "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/artificial-intelligence-helps-to-discover-new-drugs-202141-1.htm"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: Medindia
@@ -42,6 +42,22 @@ related:
       - url: "https://scx2.b-cdn.net/gfx/news/2021/harnessing-ai-to-disco.jpg"
         width: 930
         height: 465
+        isCached: true
+  - title: "Harnessing AI to Discover New Drugs: Rewriting the Rulebook for Pharmaceutical Research"
+    excerpt: "Artificial intelligence (AI) is able to recognize the biological activity of natural products in a targeted manner, as researchers at ETH Zurich have demonstrated. Moreover, AI helps to find molecules that have the same effect as a natural substance but are easier to manufacture."
+    publishedDateTime: 2021-07-09T10:07:00Z
+    webUrl: "https://scitechdaily.com/harnessing-ai-to-discover-new-drugs-rewriting-the-rulebook-for-pharmaceutical-research/"
+    ampWebUrl: "https://scitechdaily.com/harnessing-ai-to-discover-new-drugs-rewriting-the-rulebook-for-pharmaceutical-research/amp/"
+    cdnAmpWebUrl: "https://scitechdaily-com.cdn.ampproject.org/c/s/scitechdaily.com/harnessing-ai-to-discover-new-drugs-rewriting-the-rulebook-for-pharmaceutical-research/amp/"
+    type: article
+    provider:
+      name: SciTech Daily
+      domain: scitechdaily.com
+    quality: 49
+    images:
+      - url: "https://scitechdaily.com/images/AI-Medicine-Pharmaceutical-Drugs-777x622.jpg"
+        width: 777
+        height: 622
         isCached: true
 
 secured: "4pn2prCo28SN4m9cwxD0IdREpzyllPY1rqf+JEXZT2nG99NKQMdDXFftHNaT2Xr0o4p6I2gqn5p7jUhafsRW5//kQ5oqG4veBCEX1q2unkSc4I47U0Fr2ZAQ2NB3r5didNHfEQiOCHJBY1txgTMg4XOGpD6yVHnrp5h6mwcdzKiL6evjzg6kOnuUtgSoECiX/I1u79pLoCbqeNZhvsa7gfG9tPNW2EQKEJdxplqHPv6g9uYpRKCkOmmjFpPmqwL0bIHvua39mBIZzyxzUArbSljI9SoUtVFoHzbP3uk/x1+eoeP1lDQuMnlclxcaebwFUngkWa2GXVy8XoVfjcUIpyJJzhX1QCaPGsYZX9gDdEY=;lgxZLmSOiMyrw3Sm/EKmsg=="

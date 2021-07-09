@@ -2,6 +2,196 @@
   "page": 35,
   "value": [
     {
+      "path": "_news/2021-06-11-save-275-on-the-ecovacs-deebot-t8-aivi-robot-vacuum-today-only.md",
+      "title": "Save $275 On The ECOVACS Deebot T8 AIVI Robot Vacuum – Today Only!",
+      "excerpt": "Amazon has the ECOVACS Deebot T8 AIVI Robot Vacuum on sale today in its Gold Box Deal of the Day for just $524.99. That's going to save you $275 off of",
+      "sourceUrl": null,
+      "webUrl": "https://www.androidheadlines.com/buy-ecovacs-deebot-t8-aivi-robot-vacuum-sale",
+      "originalUrl": "https://www.androidheadlines.com/buy-ecovacs-deebot-t8-aivi-robot-vacuum-sale",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.androidheadlines.com/wp-content/uploads/2021/06/Screen-Shot-2021-06-11-at-7.46.28-AM.png",
+          "width": 879,
+          "height": 682,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.androidheadlines.com/buy-ecovacs-deebot-t8-aivi-robot-vacuum-sale/amp",
+      "cdnAmpWebUrl": "https://www-androidheadlines-com.cdn.ampproject.org/c/s/www.androidheadlines.com/buy-ecovacs-deebot-t8-aivi-robot-vacuum-sale/amp",
+      "publishedDateTime": "2021-06-11T05:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Android",
+        "domain": "androidheadlines.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2021-06-11-commercial-robotics-market-focuses-on-swot-analysis-industry-synopsis.md",
+      "title": "Commercial Robotics Market Focuses on SWOT analysis, Industry Synopsis",
+      "excerpt": "Global Info Research has released a new study titled Commercial Robotics Analysis and Forecast 2021-2025, which provides critical insights and gives clients a competitive advantage. The commercial robotics market was valued at USD 10.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/commercial-robotics-market-focuses-on-swot-analysis-industry-synopsis-2021-06-11",
+      "originalUrl": "https://www.marketwatch.com/press-release/commercial-robotics-market-focuses-on-swot-analysis-industry-synopsis-2021-06-11",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-11T04:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-11-we-got-an-exclusive-look-at-the-pitch-deck-ai-transcription-startup-verbit-used-to-raise-157-million-as-it-eyes-a-near-term-ipo.md",
+      "title": "We got an exclusive look at the pitch deck AI transcription startup Verbit used to raise $157 million as it eyes a near-term IPO",
+      "excerpt": "This could be Israeli unicorn Verbit's final private funding round with an initial public offering mooted for 2022.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/israeli-transcription-startup-verbit-raises-funds-at-unicorn-valuation-2021-6",
+      "originalUrl": "https://www.businessinsider.com/israeli-transcription-startup-verbit-raises-funds-at-unicorn-valuation-2021-6",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-11T04:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-11-which-robotics-companies-are-going-to-become-unicorns.md",
+      "title": "Which Robotics Companies Are Going To Become Unicorns?",
+      "excerpt": "There has been an explosion of robotics startup companies during the last two years. Every couple of months, I’m seeing new VC-backed startups coming out of stealth mode with millions of dollars in funding.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/06/11/which-robotics-companies-are-going-to-become-unicorns/",
+      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/06/11/which-robotics-companies-are-going-to-become-unicorns/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60c1237064a123408842d1ce%2F0x0.jpg",
+          "width": 1200,
+          "height": 748,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/06/11/which-robotics-companies-are-going-to-become-unicorns/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2021/06/11/which-robotics-companies-are-going-to-become-unicorns/amp/",
+      "publishedDateTime": "2021-06-11T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-11-cadwell-partners-with-ensodata-to-transform-the-patient-clinician-relationship-using-artificial-intelligence.md",
       "title": "Cadwell Partners with EnsoData to Transform the Patient-Clinician Relationship Using Artificial Intelligence",
       "excerpt": "Cadwell Industries, Inc., a global leader in neurodiagnostic and neuromonitoring solutions, today announces a partnership with EnsoData, a healthcare artificial intelligence (AI) company",
@@ -991,196 +1181,6 @@
       "topics": [
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-06-11-lack-of-ai-implementation-may-have-cost-enterprises-426t-signal-ai-finds.md",
-      "title": "Lack of AI implementation may have cost enterprises $4.26T, Signal AI finds",
-      "excerpt": "Survey of business executives suggests AI-driven decisions could have a massive $4.6 trillion impact on the economy.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/06/10/lack-of-ai-implementation-may-have-cost-enterprises-4-26t-signal-ai-finds/",
-      "originalUrl": "https://venturebeat.com/2021/06/10/lack-of-ai-implementation-may-have-cost-enterprises-4-26t-signal-ai-finds/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/06/Decision-making-Infographics-05-1.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/06/10/lack-of-ai-implementation-may-have-cost-enterprises-4-26t-signal-ai-finds/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/10/lack-of-ai-implementation-may-have-cost-enterprises-4-26t-signal-ai-finds/amp/",
-      "publishedDateTime": "2021-06-10T13:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-10-build-multi-class-classification-models-with-amazon-redshift-ml.md",
-      "title": "Build multi-class classification models with Amazon Redshift ML",
-      "excerpt": "Amazon Redshift ML simplifies the use of machine learning (ML) by using simple SQL statements to create and train ML models from data in Amazon Redshift. You can use Amazon Redshift ML to solve binary classification, multi-class classification, and regression problems and can use either AutoML or XGBoost",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/build-multi-class-classification-models-with-amazon-redshift-ml/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/build-multi-class-classification-models-with-amazon-redshift-ml/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png",
-          "width": 768,
-          "height": 385,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-10T13:05:23-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-06-11-q2-competitive-update-the-ai-cambrian-explosion-rolls-on.md",
-      "title": "Q2 Competitive Update: The AI Cambrian Explosion Rolls On",
-      "excerpt": "A lot of new AI Silicon and Software has been announced since March and it can be tough to keep track of it all. To help users, vendors, and investors keep track, our June Competitive Landscape Report is now available,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/karlfreund/2021/06/10/q2--competitive-update-the-ai-cambrian-explosion-rolls-on/",
-      "originalUrl": "https://www.forbes.com/sites/karlfreund/2021/06/10/q2--competitive-update-the-ai-cambrian-explosion-rolls-on/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60c143da33a35cf456b1fed5%2F0x0.jpg",
-          "width": 1200,
-          "height": 605,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/karlfreund/2021/06/10/q2--competitive-update-the-ai-cambrian-explosion-rolls-on/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2021/06/10/q2--competitive-update-the-ai-cambrian-explosion-rolls-on/amp/",
-      "publishedDateTime": "2021-06-10T12:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2021-06-11-kontron-launches-smarc-fa3399-with-arm-rockchip-processor-for-ai-based-pos-applications.md",
-      "title": "Kontron Launches SMARC-fA3399 with Arm® Rockchip Processor for AI-based PoS-applications",
-      "excerpt": "Kontron, a leading global provider of IoT/Embedded Computing Technology (ECT), launches the new SMARC module fA3399 with Arm® processor Rockchip RK3399K. In the benchmark of Arm®-based modules, the new Kontron module has the highest performance compared to its price.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newswiretoday.com/news/175579/Kontron-Launches-SMARC-fA3399-with-Arm-Rockchip-Processor-for-AI-based-PoS-applications/",
-      "originalUrl": "https://www.newswiretoday.com/news/175579/Kontron-Launches-SMARC-fA3399-with-Arm-Rockchip-Processor-for-AI-based-PoS-applications/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-10T12:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newswire Today",
-        "domain": "newswiretoday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     }
   ],

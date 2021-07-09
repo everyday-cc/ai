@@ -45,6 +45,15 @@ related:
         width: 640
         height: 360
         isCached: true
+  - title: "How Predictive AI will Change Cybersecurity in 2021"
+    excerpt: "In this contributed article, Dr. Igor Mezic, CTO of MixMod AI explains how you can identify and stop zero-day attacks like the SolarWinds attack with the invention of this Unsupervised, Predictive AI,"
+    publishedDateTime: 2021-07-09T13:00:00Z
+    webUrl: "https://insidebigdata.com/2021/07/09/how-predictive-ai-will-change-cybersecurity-in-2021/"
+    type: article
+    provider:
+      name: insidebigdata.com
+      domain: insidebigdata.com
+    quality: 17
   - title: "Cybersecurity AI Market 2021 Evolving Technology and Growth Outlook to 2028 | Bae Systems, Cisco, Fortinet, Fireeye, Check Point, Ibm"
     excerpt: "The global market for Cybersecurity AI offers a detailed overview of the regional and local markets. In order to provide a comprehensive market overview, the Cybersecurity AI market report includes a regional competitive landscape for the number of major service providers in the market."
     publishedDateTime: 2021-07-07T17:50:00Z

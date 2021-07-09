@@ -8,8 +8,8 @@ webUrl: "https://diginomica.com/coming-soon-uk-ai-strategy-same-only-more-so"
 ampWebUrl: "https://diginomica.com/coming-soon-uk-ai-strategy-same-only-more-so?amp"
 cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/coming-soon-uk-ai-strategy-same-only-more-so?amp"
 type: article
-quality: 59
-heat: 59
+quality: 61
+heat: 61
 published: false
 
 provider:
@@ -19,6 +19,7 @@ provider:
 topics:
   - AI
   - AI Ethics
+  - AI in Robotics
 
 images:
   - url: "https://diginomica.com/sites/default/files/images/2021-07/890BE885-3A9C-4C94-A90E-7AB1BD77055B.jpeg"
@@ -26,6 +27,6 @@ images:
     height: 426
     isCached: true
 
-secured: "p/F1cqsKFmW45JZn6vrjmXVFtSlq3YKIwtqLU9n4+9cd2VhwsFdjKsywQPYKyHgruZl2onFSWcKLc0novumbbqQgBNUM0Z+6JifFgGC+4LLq+pzcjLO1rJzRfRyaU7+aTeNqCLpc3nNvjBOV9zFYapmmZg+P0liAngVGvHnSvn8ruwWD1J7RmXn48j8kX0lUf4IeR/P63rCTSGyHRFFnLZu3U6JU0u1/iGxE8BR1GJoJSc+/RtkgAYX+lYw5dWJt2IiRcOjS8gsj3F+gYMhgX4L06sjTRd9Y871ru4KNrtnwqMb36sF/boOigTT4olHYNBwml1orIupaL5O3UHB7Gx5g+f5EIH7BLoCmkQbG4xI=;YVsVZUaG2h9FdlCQm6CbBg=="
+secured: "0OlSCCBmVztw+bKjsvG/XMkGTviqz2WoViB+m0i495lVY0T2DaghkGDm5IeqYiyENossHct8ApDaSg7Kn6HtoWLW+ff7Q80J66JSU+mLqADS1SYxKkZVItL/2L6aG2W7r9QuAxsUOu9ViIhr+N1JzTeoSl5pRkCKyHtNeFN3uysZzs4RaMk0qB/meLdnvSIjsYN0pxtVAD8JA2UgUD97zlPoaKcCQ50kNsA8xEzKKr/H+ue7Be0I6FWnxL1JeMOBScKRENn6m1AlEGiQCMOoYypS1TpqCF9KyhYW1roV6VN70yX+wd2V+KqBUzg+uyRZbGL/XFoXEjn1OOfmBl2oHEXrtlkxV1iliut3X1Ljbi6tUmG3MBSnnVgPXg8tEfQMJVLhe9k+aZfIeJuxluMADxsbLZlkss+XQJYIbxqNGRogqg8RiFl3GoPK7D/X10kLbkGsHje7OX1krZgur7hvDZEwVJIvDXZZfgWYBI7NMSn/VbUf4QZVZT6AkMnMNQ2/Abdzx9boY4c0R5UKDcbGyw==;QLeZXp0vU2JjYk8t0U9yKg=="
 ---
 

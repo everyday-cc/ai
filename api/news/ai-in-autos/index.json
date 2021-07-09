@@ -114,7 +114,7 @@
       "originalUrl": "https://www.cnet.com/roadshow/news/halo-launches-driverless-car-service-in-las-vegas/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 139,
+      "heat": 149,
       "tags": null,
       "images": [
         {
@@ -664,6 +664,49 @@
         "AI in Autos",
         "AI",
         "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2021-06-30-chinas-didi-touts-tech-spending-ahead-of-wall-st-debut.md",
+      "title": "China's Didi touts tech spending ahead of Wall St debut",
+      "excerpt": "Early investors included Apple Inc., Japan’s Softbank, Alibaba and Chinese internet giants, Tencent Holding Ltd. and Baidu Inc. Didi ... into development of self-driving, electric vehicles ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.fox23.com/news/chinas-didi-touts/DBXXNMFWEYG4ZRLYZ7NRQERQJU/",
+      "originalUrl": "https://www.fox23.com/news/chinas-didi-touts/DBXXNMFWEYG4ZRLYZ7NRQERQJU/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cloudfront-us-east-1.images.arcpublishing.com/cmg/XL7AELWQMP6C5P7XEBRG6NG5AA.jpg",
+          "width": 5349,
+          "height": 3487,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.fox23.com/news/chinas-didi-touts/DBXXNMFWEYG4ZRLYZ7NRQERQJU/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-fox23-com.cdn.ampproject.org/c/s/www.fox23.com/news/chinas-didi-touts/DBXXNMFWEYG4ZRLYZ7NRQERQJU/?outputType=amp",
+      "publishedDateTime": "2021-06-30T01:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox 23",
+        "domain": "fox23.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
       ]
     },
     {
@@ -1425,40 +1468,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-23-self-driving-truck-maker-embark-to-go-public-via-46-bln-spac-deal.md",
-      "title": "Self-driving truck maker Embark to go public via $4.6 bln SPAC deal",
-      "excerpt": "Embark Trucks Inc, a self-driving truck developer backed by private equity firm Tiger Global Management, said it had agreed to go public through a merger with blank-check firm Northern Genesis Acquisition Corp.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/self-driving-truck-maker-embark-to-go-public-via-%244.6-bln-spac-deal-2021-06-23",
-      "originalUrl": "https://www.nasdaq.com/articles/self-driving-truck-maker-embark-to-go-public-via-%244.6-bln-spac-deal-2021-06-23",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/self-driving-truck-maker-embark-to-go-public-via-%244.6-bln-spac-deal-2021-06-23?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/self-driving-truck-maker-embark-to-go-public-via-%244.6-bln-spac-deal-2021-06-23?amp",
-      "publishedDateTime": "2021-06-23T04:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },
