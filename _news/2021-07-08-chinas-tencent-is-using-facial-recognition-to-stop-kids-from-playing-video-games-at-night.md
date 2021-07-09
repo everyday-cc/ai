@@ -387,6 +387,20 @@ related:
         width: 1066
         height: 915
         isCached: true
+  - title: "How Tencent’s Facial Recognition System Ensures Minor Gamers Stick To Curfew Regulations"
+    excerpt: "China-based Tencent Games recently launched a facial recognition system to prevent minors from playing video games past their assigned time. The initiative, called the Midnight Patrol, will conduct a face screening for accounts registered with real names and played for a certain amount of time at night."
+    publishedDateTime: 2021-07-09T06:30:00Z
+    webUrl: "https://analyticsindiamag.com/how-tencents-facial-recognition-system-ensures-minor-gamers-stick-to-curfew-regulations/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 30
+    images:
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/07/tencent.jpg"
+        width: 1600
+        height: 900
+        isCached: true
 
 secured: "yFCJnnKG6SLCjPTBcm98DoGLLkXO12hU9mjoyaMEVshOTGQJsVT5m6ILT7J2BqU3So1ORBuw2ID990cwhbAi1nRmfvLnQfkvUUutw75w3IPjfjRdxa/DARkD5JbMwlP7g6pzt3HOUPPmuV8lVC3ZNNujCoYovZxZEKkeh/gwVQdjA1wS7G/p01+K3RAxZSyR4meS1p9BlT8axfcx6aQPbGRnS6PTUM0fDZYHw7wFFCUeT9UDpNEk4qb+sptzDbb/Li4F+yizBxJ5/lUVZ0pNnQVX1PBN2L1BAewhgpH+rsvJ1P5opHlqPN12Gu4TY+Tvj7xDFNwtK4DKhoHPJ/dhhl4IOzLERRny4I8kloiz6wm4JNxfQxVygkq53psunsPsuB9jmuqEXRn33wgoGhf1o0sH5wvxX3VytBNdsj5Uo+5TjOkURTOFiN67dS+bbA6G+RAOij7CQDpLytcN80zJS+Gj/4jX8GyCpmN/WHhEqJQg9LzQjw3oNFOtTXoDMFYhRM06G2fy4vSKdIP80VBsTQ==;qVWZk99/l6QtvOxPjPdY/Q=="
 ---

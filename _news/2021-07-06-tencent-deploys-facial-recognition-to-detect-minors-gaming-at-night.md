@@ -7,7 +7,7 @@ originalUrl: "https://www.sixthtone.com/news/1007915/tencent-deploys-facial-reco
 webUrl: "https://www.sixthtone.com/news/1007915/tencent-deploys-facial-recognition-to-detect-minors-gaming-at-night-"
 type: article
 quality: 139
-heat: 379
+heat: 389
 published: true
 
 provider:
@@ -372,6 +372,20 @@ related:
       - url: "https://d1506sp6x4e9z7.cloudfront.net/gamasutra/uploads/1038506.png"
         width: 1066
         height: 915
+        isCached: true
+  - title: "How Tencent’s Facial Recognition System Ensures Minor Gamers Stick To Curfew Regulations"
+    excerpt: "China-based Tencent Games recently launched a facial recognition system to prevent minors from playing video games past their assigned time. The initiative, called the Midnight Patrol, will conduct a face screening for accounts registered with real names and played for a certain amount of time at night."
+    publishedDateTime: 2021-07-09T06:30:00Z
+    webUrl: "https://analyticsindiamag.com/how-tencents-facial-recognition-system-ensures-minor-gamers-stick-to-curfew-regulations/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 30
+    images:
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/07/tencent.jpg"
+        width: 1600
+        height: 900
         isCached: true
   - title: "China’s Tencent Is Using Facial Recognition To Stop Kids From Playing Video Games at Night"
     excerpt: "Chinese gaming giant Tencent is using facial recognition software to prevent kids from gaming between the hours of 10 p.m. and 8 a.m. “We will conduct a face screening for accounts registered ..."

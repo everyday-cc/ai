@@ -2,6 +2,50 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-06-27-security-robots-expand-across-us-with-few-tangible-results.md",
+      "title": "Security Robots Expand Across US, With Few Tangible Results",
+      "excerpt": "A prominent security robot company has cited little public evidence or specific, detailed examples of crimes that have been thwarted by its machines.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnewyork.com/news/national-international/security-robots-expand-across-few-tangible-results/3127219/",
+      "originalUrl": "https://www.nbcnewyork.com/news/national-international/security-robots-expand-across-few-tangible-results/3127219/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.nbcnewyork.com/2021/06/062721-GettyImages-688223544.jpeg?quality=85&strip=all&crop=0px%2C181px%2C3200px%2C1800px&resize=1200%2C675",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnewyork.com/news/national-international/security-robots-expand-across-few-tangible-results/3127219/?amp",
+      "cdnAmpWebUrl": "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/news/national-international/security-robots-expand-across-few-tangible-results/3127219/?amp",
+      "publishedDateTime": "2021-06-27T04:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC New York",
+        "domain": "nbcnewyork.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
       "path": "_news/2021-06-26-i-learnt-how-cool-it-is-to-train-a-robot-with-ai.md",
       "title": "I learnt how cool it is to train a robot with AI",
       "excerpt": "It’s one thing to hear about the advances in AI on the news, such as China’s creation of an artificial intelligence (AI) news anchor, robots making food deliveries, and serving you coffee. It’s another matter however,",
@@ -1323,58 +1367,6 @@
         "name": "BCG",
         "domain": "bcg.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-17-last-mile-landscaping-and-leaping-robots.md",
-      "title": "Last-mile, landscaping and leaping robots",
-      "excerpt": "I spoke to Refraction AI co-founder/CTO Matthew Johnson-Roberson on the occasion of the Michigan startup’s $4.2 million seed raise. This week we posted a Q&A where he answers a wider range of topics about the delivery robotics company,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/06/17/robotics-roundup-16/",
-      "originalUrl": "https://techcrunch.com/2021/06/17/robotics-roundup-16/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/ZtlRVO8fpE0/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/06/17/robotics-roundup-16/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/06/17/robotics-roundup-16/amp/",
-      "publishedDateTime": "2021-06-17T08:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

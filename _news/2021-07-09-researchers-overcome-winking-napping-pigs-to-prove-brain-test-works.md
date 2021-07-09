@@ -1,38 +1,31 @@
 ---
 category: news
 title: "Researchers overcome winking, napping pigs to prove brain test works"
-excerpt: "If you've ever been to an eye doctor, there's a good chance you've felt the sudden puff of air to the eye that constitutes a traditional test for glaucoma. It's no one's favorite experience, but the puff is non-invasive and harmless."
-publishedDateTime: 2021-07-08T21:23:00Z
-originalUrl: "https://www.sciencedaily.com/releases/2021/07/210708134910.htm"
-webUrl: "https://www.sciencedaily.com/releases/2021/07/210708134910.htm"
+excerpt: "They also rely on well-validated behavioral tasks, such as novel object recognition, that reflect activity in the hippocampus and striatum, some of the brain regions related to learning and memory."
+publishedDateTime: 2021-07-08T17:18:00Z
+originalUrl: "https://medicalxpress.com/news/2021-07-napping-pigs-brain.html"
+webUrl: "https://medicalxpress.com/news/2021-07-napping-pigs-brain.html"
+ampWebUrl: "https://medicalxpress.com/news/2021-07-napping-pigs-brain.amp"
+cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-07-napping-pigs-brain.amp"
 type: article
-quality: 49
-heat: 49
+quality: 59
+heat: 59
 published: false
 
 provider:
-  name: Science Daily
-  domain: sciencedaily.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Medical Xpress
+  domain: medicalxpress.com
 
 topics:
   - Computer Vision
   - AI
 
-related:
-  - title: "Pavlovian eyeblink test works in 3-week-old pigs, study proves"
-    excerpt: "If you've ever been to an eye doctor, there's a good chance you've felt the sudden puff of air to the eye that constitutes a traditional test for glaucoma. It's no one's favorite experience, but the puff is non-invasive and harmless."
-    publishedDateTime: 2021-07-09T04:32:00Z
-    webUrl: "https://www.news-medical.net/news/20210709/Pavlovian-eyeblink-test-works-in-3-week-old-pigs-study-proves.aspx"
-    type: article
-    provider:
-      name: News Medical
-      domain: news-medical.net
-    quality: 4
+images:
+  - url: "https://scx2.b-cdn.net/gfx/news/2021/researchers-overcome-w.jpg"
+    width: 1200
+    height: 600
+    isCached: true
 
-secured: "mx5Tk/+f69PO+FtDW5NQs75D40JWBBpS3URkV+mA3RQCYfcCf4/HYV9B/FR0cM25StyESYwxlDHWxrDWuIVRRUMi8KcRuIJgFlGSa2FH52hG+lTrVTj5VaxAzGlPvLAD+TJdj7hnziQEGJOryLOXlsqF6GUAXogrr53US1kngda70kvJ90QA9LKf8LhceNLZh+YNuE1PEICiBUWmELt80nxrnMgaa3FdXJEShZWigeW4r3e3feKL2rxih/mcG0oqEOiZI83RHcZtFmgmoTZ8GC9gOzDFKW7QxeO9EmY0eu0t+mwbizOKcIT57VoiRf9aM5bS0YPhuYGTrwHMlv3/GhHiLEWeSVXgDprZSphj9BM=;4zOIKYNGQSj5Cyn2etznxA=="
+secured: "AGIl1Q0Ir2UGoJ8O3QeDzCsVo6Zm/fY4LdgtgCjH/av9k8qlZ3HvhOHFgqn8UM4lIeJJvA3hSR8o+jvSpwHBLo4cztlAvHYPQyrj1bC0OQzRjw33m+0dn6JySaLESSlEKpxpSTr14bbrC423axxNUozV0QEEJZW2zkDNzbKQgFri2CB5hcex3+EIQdKypMWtM4KuLd0qx+QfUVksAAHKxLEY/4JLwmuK1rZfDr4GU5kPho7kx+MaE/dh0YMaQd16ydHCtPfaqHCGTkkU/JRpwMgPwOgV5WoOdmMD+kdY5HMVCmC64AgsYH/KpNuhFJiaElzTT8jThZE2roknOB1k5dC66xhgVuIZTYy5af6PQd4=;32AAJiBEWWjwiVkc2kDKIw=="
 ---
 

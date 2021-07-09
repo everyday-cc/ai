@@ -26,21 +26,65 @@ images:
     isCached: true
 
 related:
-  - title: "Using AI to find new pharmaceutical applications for natural products"
-    excerpt: "Artificial intelligence (AI) is able to recognize the biological activity of natural products in a targeted manner, as researchers at ETH Zurich have demonstrated."
-    publishedDateTime: 2021-07-07T23:46:00Z
-    webUrl: "https://www.news-medical.net/news/20210707/Using-AI-to-find-new-pharmaceutical-applications-for-natural-products.aspx"
-    ampWebUrl: "https://www.news-medical.net/amp/news/20210707/Using-AI-to-find-new-pharmaceutical-applications-for-natural-products.aspx"
-    cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20210707/Using-AI-to-find-new-pharmaceutical-applications-for-natural-products.aspx"
+  - title: "An AI for sea ice identification"
+    excerpt: "If you've watched Netflix, shopped online, or run your robot vacuum cleaner, you've interacted with artificial intelligence, AI. AI is what allows computers to comb through an enormous amount of data to detect patterns or solve problems."
+    publishedDateTime: 2021-07-08T15:23:00Z
+    webUrl: "https://techxplore.com/news/2021-07-ai-sea-ice-identification.html"
+    ampWebUrl: "https://techxplore.com/news/2021-07-ai-sea-ice-identification.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-07-ai-sea-ice-identification.amp"
     type: article
     provider:
-      name: News Medical
-      domain: news-medical.net
+      name: techxplore.com
+      domain: techxplore.com
     quality: 57
     images:
-      - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2019/5/futuristic_techno_design_on_background_of_supercomputer_data_center_-_Image_-_Timofeev_Vladimir_M1_402c068791b640469e416c4f55d84afe-620x480.jpg"
-        width: 620
-        height: 480
+      - url: "https://scx2.b-cdn.net/gfx/news/2021/what-kind-of-sea-ice-i.jpg"
+        width: 1100
+        height: 554
+        isCached: true
+  - title: "The USPTO’s Patent Classification and Search Systems Have Jumped on the AI Bandwagon"
+    excerpt: "It is no question that Artificial Intelligence (“AI”) technologies have popped up in all aspects of society such as online shopping, music streaming, and social networking. The U.S. Patent"
+    publishedDateTime: 2021-07-08T23:24:00Z
+    webUrl: "https://www.natlawreview.com/article/uspto-s-patent-classification-and-search-systems-have-jumped-ai-bandwagon"
+    ampWebUrl: "https://www.natlawreview.com/article/uspto-s-patent-classification-and-search-systems-have-jumped-ai-bandwagon?amp"
+    cdnAmpWebUrl: "https://www-natlawreview-com.cdn.ampproject.org/c/s/www.natlawreview.com/article/uspto-s-patent-classification-and-search-systems-have-jumped-ai-bandwagon?amp"
+    type: article
+    provider:
+      name: The National Law Review
+      domain: natlawreview.com
+    quality: 50
+    images:
+      - url: "https://www.natlawreview.com/sites/all/themes/nationallaw/WBE_Seal_RGB.png"
+        width: 1426
+        height: 808
+        isCached: true
+  - title: "Artificial Intelligence used on Army operation for the first time"
+    excerpt: "The British Army has used Artificial Intelligence (AI) for the first time during Exercise Spring Storm, as part of Operation Cabrit in Estonia."
+    publishedDateTime: 2021-07-05T13:56:00Z
+    webUrl: "https://www.gov.uk/government/news/artificial-intelligence-used-on-army-operation-for-the-first-time"
+    type: article
+    provider:
+      name: gov.uk
+      domain: www.gov.uk
+    quality: 37
+    images:
+      - url: "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/image_data/file/125727/s960_Op_CABRIT_June_2021.jpg"
+        width: 960
+        height: 640
+        isCached: true
+  - title: "Artificial Intelligence used on Army operation for the first time"
+    excerpt: "Artificial Intelligence used on Army operation for the first time. The British Army has used Artificial Intelligence (AI) for the first time during Exercise Spring Storm, as part"
+    publishedDateTime: 2021-07-06T03:25:00Z
+    webUrl: "https://www.globalsecurity.org/wmd/library/news/uk/2021/uk-210705-ukmod01.htm"
+    type: article
+    provider:
+      name: GlobalSecurity.org
+      domain: globalsecurity.org
+    quality: 37
+    images:
+      - url: "https://www.globalsecurity.org/images/temp/one-billion-americans.jpg"
+        width: 675
+        height: 313
         isCached: true
   - title: "Artificial intelligence brings forth new possibilities for material hauls and quantification"
     excerpt: "Paper tickets have been a legacy method of tracking the quantity, type, and timestamps of material moved by dump trucks. In recent years, e-ticketing has emerged to deliver time and cost savings in materials transport to combat headaches associated with paper ticket processing."

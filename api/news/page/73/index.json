@@ -2,6 +2,93 @@
   "page": 73,
   "value": [
     {
+      "path": "_news/2021-05-18-mech-mind-launches-next-gen-mech-eye-laser-industrial-3d-camera-to-further-empower-ai-defined-robotics.md",
+      "title": "Mech-Mind Launches Next-Gen Mech-Eye Laser Industrial 3D Camera to Further Empower AI-defined Robotics",
+      "excerpt": "Fast-growing Chinese AI industrial robotics startup, Mech-Mind Robotics (\"Mech-Mind\"), launches its next-generation Mech-Eye Laser Industrial 3D Camera which overcomes ambient light interference, greatly optimizing the operational capacity of industrial robotics.",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/2021/05/18/9372576.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/2021/05/18/9372576.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1512714/Photo2.jpg",
+          "width": 400,
+          "height": 225,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-17T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-18-machine-learning-ide-in-alpha.md",
+      "title": "Machine Learning IDE In Alpha",
+      "excerpt": "Machine is an IDE for building machine learning systems using TensorFlow. You can sign up for the alpha, but first, have a look at the video below to see what it is all about. You’ll see in the ...",
+      "sourceUrl": null,
+      "webUrl": "https://hackaday.com/2017/06/27/machine-learning-ide-in-alpha/",
+      "originalUrl": "https://hackaday.com/2017/06/27/machine-learning-ide-in-alpha/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://hackaday.com/wp-content/uploads/2018/03/selfdriving_thumbnail.png?w=600&#038;h=600",
+          "width": 600,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-17T16:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hackaday",
+        "domain": "hackaday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-05-18-state-farm-taps-object-recognition-with-carcapture-app.md",
       "title": "State Farm taps object recognition with CarCapture app",
       "excerpt": "State Farm is leveraging object recognition technology and partnering with Edmunds.com to launch the CarCapture mobile application that allows users to snap a photo of the back of a car and instantly receive detailed information. Consumers will be able to ...",
@@ -1036,101 +1123,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-17-artificial-intelligence-market-to-perceive-substantial-growth-during-2021-2025-says-kenneth-research.md",
-      "title": "Artificial Intelligence Market to Perceive Substantial Growth during 2021- 2025 | Says Kenneth Research",
-      "excerpt": "Kenneth Research, in its repository of Artificial Intelligence Market research reports, have recently added a report",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-market-to-perceive-substantial-growth-during-2021--2025-says-kenneth-research-2021-05-17",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-market-to-perceive-substantial-growth-during-2021--2025-says-kenneth-research-2021-05-17",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 93,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-17T03:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-17-ai-has-a-racism-problem-but-fixing-it-is-complicated-say-experts.md",
-      "title": "AI has a racism problem, but fixing it is complicated, say experts",
-      "excerpt": "(Screenshot of Amazon listing) On Baidu, China's top search engine, the N-word is suggested as a translation option for the Chinese characters for \"Black person.\" Experts say these AI language ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbc.ca/news/science/artificial-intelligence-racism-bias-1.6027150",
-      "originalUrl": "https://www.cbc.ca/news/science/artificial-intelligence-racism-bias-1.6027150",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.cbc.ca/1.6028159.1621145111!/httpImage/image.jpg_gen/derivatives/16x9_620/image.jpg",
-          "width": 620,
-          "height": 349,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cbc.ca/amp/1.6027150",
-      "cdnAmpWebUrl": "https://www-cbc-ca.cdn.ampproject.org/c/s/www.cbc.ca/amp/1.6027150",
-      "publishedDateTime": "2021-05-17T02:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBC.ca",
-        "domain": "www.cbc.ca",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

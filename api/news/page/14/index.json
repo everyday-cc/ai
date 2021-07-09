@@ -2,6 +2,100 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2021-06-26-why-the-eu-lags-behind-in-artificial-intelligence-science-and-technology.md",
+      "title": "Why the EU Lags behind in Artificial Intelligence, Science and Technology",
+      "excerpt": "It is not surprising that Europe, despite having a strong industrial base and leading AI research and talent, is dragging behind the US and China.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bbntimes.com/science/why-the-eu-lags-behind-in-artificial-intelligence-science-and-technology",
+      "originalUrl": "https://www.bbntimes.com/science/why-the-eu-lags-behind-in-artificial-intelligence-science-and-technology",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.bbntimes.com/images/articles/global-economy/AI_Europe.jpg",
+          "width": 800,
+          "height": 540,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.bbntimes.com/science/why-the-eu-lags-behind-in-artificial-intelligence-science-and-technology",
+      "cdnAmpWebUrl": "https://www-bbntimes-com.cdn.ampproject.org/c/s/www.bbntimes.com/science/why-the-eu-lags-behind-in-artificial-intelligence-science-and-technology",
+      "publishedDateTime": "2021-06-26T01:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "bbntimes",
+        "domain": "bbntimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-26-how-ai-is-taking-over-our-gadgets.md",
+      "title": "How AI Is Taking Over Our Gadgets",
+      "excerpt": "AI is moving from data centers to devices, making everything from phones to tractors faster and more private. These newfound smarts also come with pitfalls.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/how-ai-is-taking-over-our-gadgets-11624680004",
+      "originalUrl": "https://www.wsj.com/articles/how-ai-is-taking-over-our-gadgets-11624680004",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 127,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-359618/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/how-ai-is-taking-over-our-gadgets-11624680004",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/how-ai-is-taking-over-our-gadgets-11624680004",
+      "publishedDateTime": "2021-06-26T01:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-26-8-founders-leaders-highlight-fintech-and-deep-tech-as-bristols-top-sectors.md",
       "title": "8 founders, leaders highlight fintech and deep tech as Bristol’s top sectors",
       "excerpt": "Bristol proved especially popular among tech investors last year — local businesses raked in an impressive $414 million in 2020, making it the third-largest U.K. city for tech investment.",
@@ -1092,109 +1186,6 @@
         "Computer Vision",
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2021-06-25-ai-chip-market-new-innovations-trends-research-global-share-and-growth-factor.md",
-      "title": "AI Chip Market New Innovations Trends, Research, Global Share and Growth Factor",
-      "excerpt": "Research Nester published a report titled \"AI Chip Market: Global Demand Analysis & Opportunity Outlook 2030\" which delivers detailed overview of the global AI chip market in terms of market segmentation by type,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/ai-chip-market-new-innovations-trends-research-global-share-and-growth-factor-2021-06-25",
-      "originalUrl": "https://www.marketwatch.com/press-release/ai-chip-market-new-innovations-trends-research-global-share-and-growth-factor-2021-06-25",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 160,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-25T05:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-25-ai-operating-and-optimizing-to-prepare-for-a-post-pandemic-world.md",
-      "title": "AI: Operating And Optimizing To Prepare For A Post-Pandemic World",
-      "excerpt": "Forward-thinking leaders are now open to more than just cosmetic changes to address some of these short-term business pains from the past year",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/06/25/ai-operating-and-optimizing-to-prepare-for-a-post-pandemic-world/",
-      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/06/25/ai-operating-and-optimizing-to-prepare-for-a-post-pandemic-world/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60d49692cdc66486caf2f78a%2F0x0.jpg",
-          "width": 1200,
-          "height": 653,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/06/25/ai-operating-and-optimizing-to-prepare-for-a-post-pandemic-world/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2021/06/25/ai-operating-and-optimizing-to-prepare-for-a-post-pandemic-world/amp/",
-      "publishedDateTime": "2021-06-25T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

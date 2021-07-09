@@ -3,10 +3,12 @@ category: news
 title: "OnePlus Nord 2 confirmed with new MediaTek chip made for photo processing"
 excerpt: "OnePlus recently confirmed the existence of the Nord 2 via a surprise press release. Officially named the “Nord 2 5G”, the phone will sport several enhancements over the original OnePlus Nord, including the MediaTek chipset and AI-based features."
 publishedDateTime: 2021-07-08T07:00:00Z
-originalUrl: "https://www.tomsguide.com/news/oneplus-nord-2-confirmed-with-new-mediatek-chip-made-for-photo-processing"
-webUrl: "https://www.tomsguide.com/news/oneplus-nord-2-confirmed-with-new-mediatek-chip-made-for-photo-processing"
+originalUrl: "https://www.tomsguide.com/uk/news/oneplus-nord-2-confirmed-with-new-mediatek-chip-made-for-photo-processing"
+webUrl: "https://www.tomsguide.com/uk/news/oneplus-nord-2-confirmed-with-new-mediatek-chip-made-for-photo-processing"
+ampWebUrl: "https://www.tomsguide.com/uk/amp/news/oneplus-nord-2-confirmed-with-new-mediatek-chip-made-for-photo-processing"
+cdnAmpWebUrl: "https://www-tomsguide-com.cdn.ampproject.org/c/s/www.tomsguide.com/uk/amp/news/oneplus-nord-2-confirmed-with-new-mediatek-chip-made-for-photo-processing"
 type: article
-quality: 38
+quality: 58
 heat: -1
 published: false
 
@@ -19,9 +21,9 @@ topics:
   - AI
 
 images:
-  - url: "https://cdn.mos.cms.futurecdn.net/UU8k7B4KinXkzEnJEHxUUo-1200-80.jpg"
-    width: 1200
-    height: 675
+  - url: "https://cdn.mos.cms.futurecdn.net/UU8k7B4KinXkzEnJEHxUUo-480-80.jpg"
+    width: 480
+    height: 270
     isCached: true
 
 related:
@@ -135,6 +137,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "OnePlus Nord 2 to Feature A Custom Dimensity 1200 Chip"
+    excerpt: "The OnePlus Nord 2 is launching later this month and more leaks are mounting as the date draws near. The Chinese brand has now announced that the phone will have a custom “Dimensity 1200-AI” chipset with a few enhancements on board."
+    publishedDateTime: 2021-07-09T07:41:00Z
+    webUrl: "https://propakistani.pk/2021/07/09/oneplus-nord-2-to-feature-a-custom-dimensity-1200-chip/"
+    ampWebUrl: "https://propakistani.pk/2021/07/09/oneplus-nord-2-to-feature-a-custom-dimensity-1200-chip/amp/"
+    cdnAmpWebUrl: "https://propakistani-pk.cdn.ampproject.org/c/s/propakistani.pk/2021/07/09/oneplus-nord-2-to-feature-a-custom-dimensity-1200-chip/amp/"
+    type: article
+    provider:
+      name: ProPakistani
+      domain: propakistani.pk
+    quality: 59
+    images:
+      - url: "https://propakistani.pk/wp-content/uploads/2021/06/OnePlus-Nord-2-scaled-e1624946151779.jpg"
+        width: 1000
+        height: 563
+        isCached: true
   - title: "OnePlus Nord 2 5G is official and the exclusive chip that's powering it has been revealed"
     excerpt: "The OnePlus Nord 2 5G is official! OnePlus has dropped a sprinkling of details on its upcoming mid-range smartphone, as well as sharing a sneak peek of the device; although it's just a rectangular silhouette,"
     publishedDateTime: 2021-07-08T04:00:00Z
@@ -244,6 +262,6 @@ related:
         height: 600
         isCached: true
 
-secured: "w0QIG2qh1K1LSQB4o+y6aROjrVYqCQzHbO8uhoHB1fBkOlMnXBJS3p5R8iMAeL9RS/Rbj/m+tzonGQhSrxS2rFeEE/ohbtOEPc7KrR32mhviryYocWNnJ/4ERTlbmnQa6zTjtw9rtOZjEKc0pl//bKrtm56fHueWBUEj1IuWkDy1vLcLhqcKb/Ht1pHhHhGksoVO90ewvvKdJAwrvzrUFo37qyacfl2GoWbN0duOyQdQPKKnYzXHr1RHZBdAPdSXXU9nwXNBFxZI0fI4LktTaAoTupeXfdVOMpRIKcXJ31O/CRCTHtrRlDtaZS0fBwmyRWgfyx/34r7RQbd4lE32rIME2iWEDrQ/ygUoJOkGTx2qkYkiAx5l7st/UXmUV9Rt3718jKYMDq2CX1ZqwoTG90lx6DtbT4C6DEvOEiKjBQdnglWGGU7Jwmw8IS0d7K39Db9VYUaoVxJxVDLrNxkpR4OK+rFtiuW1vuOG/wKz0wTv9+X4CG+uUBNh1H3UNVARvC7Gf+8LRCFNv6PowYDHnQ==;K88IUWYICgfhnyL6xdX6KA=="
+secured: "hRsCBXtz3fCZtOyGDP4IbkuYgH/GCZl3uwm5ZDqEVaF9b2cEEAZU4ClHzIOw2kxgVyBatrOlUhw1eEKC28n2Lhhb/ae0gIU2TK7QTMzbG9JBhZQUE0PwUuz/f09THytWR15mglHUDSCPQI/Pd74tBV/dndzF9Wvmy9hiN4ex2q79ggfiqTzEDJlYgdTCjmdq7PD3hnG9vgN/U6miu7bPKEKXrbGYY+jRj6Ye0rnSo05/HktfIo3UBGQlEZKbBwzilw0sq9s/KxccmlZzBRH5Ii1YecvIoOLzAMdUfoh3Kb641vBf4r3bOS5ulS64QL624wsSn6YNB0yQb0LUrKuLrYDwLPcXM0SzXy6peceuSYA=;IRDTBPiGnOXw4aFXp6XDFw=="
 ---
 

@@ -2,6 +2,110 @@
   "page": 94,
   "value": [
     {
+      "path": "_news/2021-05-01-a-scientist-created-emotion-recognition-ai-for-animals.md",
+      "title": "A scientist created emotion recognition AI for animals",
+      "excerpt": "A researcher at Wageningen University & Research recently published a pre-print article detailing a system by which facial recognition AI could be used to identify and measure the emotional state of farm animals.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/news/a-scientist-created-emotion-recognition-ai-for-animals",
+      "originalUrl": "https://thenextweb.com/news/a-scientist-created-emotion-recognition-ai-for-animals",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F04%2Flivestockemotion.jpg&signature=bc77a1971b37144e3e614b7fcb233d9f",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-30T12:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-01-the-robot-surgeon-will-see-you-now.md",
+      "title": "The Robot Surgeon Will See You Now",
+      "excerpt": "As he moved the handles — up and down, left and right — the robot mimicked each small motion with its own two arms. Then, when he pinched his thumb and forefinger together, one of the robot’s tiny claws did much the same.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2021/04/30/technology/robot-surgery-surgeon.html",
+      "originalUrl": "https://www.nytimes.com/2021/04/30/technology/robot-surgery-surgeon.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2021/05/04/science/00SCI-ROBOSURGERY-vidcover1/00SCI-ROBOSURGERY-vidcover1-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2021/04/30/technology/robot-surgery-surgeon.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/04/30/technology/robot-surgery-surgeon.amp.html",
+      "publishedDateTime": "2021-04-30T12:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-01-how-the-global-chip-shortage-could-impact-your-business.md",
       "title": "How the global chip shortage could impact your business",
       "excerpt": "It will likely take at least 18-24 months to stabilize the supply chain. Until then, many companies will be affected (some more, some less).",
@@ -1065,92 +1169,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-30-south-and-central-america-artificial-intelligence-ai-in-healthcare-market-future-prospects-and-opportunity-assessment-upto-2027.md",
-      "title": "South and Central America Artificial Intelligence (AI) in Healthcare Market Future Prospects and Opportunity Assessment Upto 2027",
-      "excerpt": "The Business Market Insights provides you regional research analysis on South and Central America Artificial Intelligence AI in Healthcare Market and forecast to 2027 The research report provides deep insights into the regional market revenue parent market trends macro economic",
-      "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2277918/south-and-central-america-artificial-intelligence-ai",
-      "originalUrl": "https://www.openpr.com/news/2277918/south-and-central-america-artificial-intelligence-ai",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.openpr.com/U/4/U430418845_g.jpg",
-          "width": 800,
-          "height": 420,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2277918/south-and-central-america-artificial-intelligence-ai",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2277918/south-and-central-america-artificial-intelligence-ai",
-      "publishedDateTime": "2021-04-30T01:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-30-waymo-ridehailing-and-delivery-focus.md",
-      "title": "Waymo Ridehailing and Delivery Focus",
-      "excerpt": "CEOs. The Waymo plan is to expand its ridehailing business from Phoenix to other places. Waymo One. They will expand Waymo driving to truck delivering services. Waymo Via. Waymo One and Waymo via will have no driver behind the wheel.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nextbigfuture.com/2021/04/waymo-ridehailing-and-delivery-focus.html",
-      "originalUrl": "https://www.nextbigfuture.com/2021/04/waymo-ridehailing-and-delivery-focus.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nextbigfuture.s3.amazonaws.com/uploads/2021/04/Screen-Shot-2021-04-29-at-11.50.03-PM.jpg",
-          "width": 1078,
-          "height": 566,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nextbigfuture.com/2021/04/waymo-ridehailing-and-delivery-focus.html",
-      "cdnAmpWebUrl": "https://www-nextbigfuture-com.cdn.ampproject.org/c/s/www.nextbigfuture.com/2021/04/waymo-ridehailing-and-delivery-focus.html",
-      "publishedDateTime": "2021-04-29T23:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NextBigFuture",
-        "domain": "nextbigfuture.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

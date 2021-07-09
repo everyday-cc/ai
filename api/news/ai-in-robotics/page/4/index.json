@@ -2,6 +2,58 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-06-09-when-it-comes-to-money-more-people-trust-ai-than-they-do-other-people.md",
+      "title": "When It Comes to Money, More People Trust AI Than They Do Other People",
+      "excerpt": "Oracle released its Money and Machines Report 2021, and after a year during which we've seen some people work against the collective good, it looks like AI has emerged as a more trustworthy choice when it comes to managing finances.",
+      "sourceUrl": null,
+      "webUrl": "https://au.pcmag.com/news/87595/when-it-comes-to-money-more-people-trust-ai-than-they-do-other-people",
+      "originalUrl": "https://au.pcmag.com/news/87595/when-it-comes-to-money-more-people-trust-ai-than-they-do-other-people",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://sm.pcmag.com/t/pcmag_au/news/w/when-it-co/when-it-comes-to-money-more-people-trust-ai-than-they-do-oth_k1aq.1200.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-09T06:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC Magazine",
+        "domain": "pcmag.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-09-this-robot-run-fund-thinks-gamestop-stock-will-soar-in-june-and-predicts-a-fall-for-tesla-and-amazon.md",
       "title": "This robot-run fund thinks GameStop stock will soar in June, and predicts a fall for Tesla and Amazon",
       "excerpt": "An exchange-traded fund driven by artificial intelligence booted Tesla and Amazon from its portfolio in June, instead choosing to load up on shares",
@@ -1369,60 +1421,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-01-what-artificial-intelligence-still-cant-do.md",
-      "title": "What Artificial Intelligence Still Can’t Do",
-      "excerpt": "Modern artificial intelligence is capable of wonders. It can produce breathtaking original content: poetry, prose, images, music, human faces. It can diagnose some medical conditions more accurately than a human physician.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/robtoews/2021/06/01/what-artificial-intelligence-still-cant-do/",
-      "originalUrl": "https://www.forbes.com/sites/robtoews/2021/06/01/what-artificial-intelligence-still-cant-do/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 113,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60b52de2a5dc9f37974c9ae8%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D600%26cropY1%3D0%26cropY2%3D337",
-          "width": 600,
-          "height": 337,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/robtoews/2021/06/01/what-artificial-intelligence-still-cant-do/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/robtoews/2021/06/01/what-artificial-intelligence-still-cant-do/amp/",
-      "publishedDateTime": "2021-06-01T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "AI in Robotics",
-        "Natural Language Processing"
       ]
     }
   ],

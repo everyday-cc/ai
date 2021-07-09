@@ -2,6 +2,93 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2021-07-01-how-can-healthcare-leverage-natural-language-processing-for-medical-records.md",
+      "title": "How Can Healthcare Leverage Natural Language Processing for Medical Records?",
+      "excerpt": "As automated solutions continue to gain traction in the industry, here’s how a specialized branch of artificial intelligence is showing promise in improving EHR usability.",
+      "sourceUrl": null,
+      "webUrl": "https://healthtechmagazine.net/article/2021/07/how-can-healthcare-leverage-natural-language-processing-medical-records-perfcon",
+      "originalUrl": "https://healthtechmagazine.net/article/2021/07/how-can-healthcare-leverage-natural-language-processing-medical-records-perfcon",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://healthtechmagazine.net/sites/healthtechmagazine.net/files/styles/cdw_hero/public/articles/%5Bcdw_tech_site%3Afield_site_shortname%5D/202107/nlp.jpg?itok=irjfHdQw",
+          "width": 1440,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://healthtechmagazine.net/article/2021/07/how-can-healthcare-leverage-natural-language-processing-medical-records-perfcon?amp",
+      "cdnAmpWebUrl": "https://healthtechmagazine-net.cdn.ampproject.org/c/s/healthtechmagazine.net/article/2021/07/how-can-healthcare-leverage-natural-language-processing-medical-records-perfcon?amp",
+      "publishedDateTime": "2021-07-01T08:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "HealthTech",
+        "domain": "healthtechmagazine.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2021-07-01-are-you-thirsty-this-ai-enabled-robot-can-bring-beer-to-holiday-parties.md",
+      "title": "‘Are you thirsty?’ This AI-enabled robot can bring beer to holiday parties",
+      "excerpt": "Heineken says its autonomous robot can hold up to 12 cans of beer, will follow you down the sidewalk and has a friendly AI personality.",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/technology/2021/07/01/beer-cooler-robot/",
+      "originalUrl": "https://www.washingtonpost.com/technology/2021/07/01/beer-cooler-robot/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 173,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/LJQJRE4CONFJFF2GYV7TCPMRBE.jpg&w=1440",
+          "width": 1440,
+          "height": 960,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/technology/2021/07/01/beer-cooler-robot/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/technology/2021/07/01/beer-cooler-robot/?outputType=amp",
+      "publishedDateTime": "2021-07-01T08:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2021-07-01-nvidia-benchmark-tests-show-impressive-gains-in-training-ai-models.md",
       "title": "Nvidia benchmark tests show impressive gains in training AI models",
       "excerpt": "Nvidia publishes MLPerf benchmarks that show impressive gains in reducing the total cost of training AI models using its GPUs.",
@@ -1074,110 +1161,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-01-ubers-first-head-of-data-science-just-launched-a-new-venture-fund-to-back-nascent-ai-startups.md",
-      "title": "Uber’s first head of data science just launched a new venture fund to back nascent AI startups",
-      "excerpt": "Kevin Novak joined Uber as its 21st employee its seventh engineer in 2011, and by 2014, he was the company’s head of data science. He transitioned out of the company in late 2017, after Travis Kalanick had been replaced as CEO by Dara Khosrowshahi.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/06/30/ubers-first-head-of-data-science-just-launched-a-new-venture-fund-to-back-nascent-ai-startups/",
-      "originalUrl": "https://techcrunch.com/2021/06/30/ubers-first-head-of-data-science-just-launched-a-new-venture-fund-to-back-nascent-ai-startups/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/06/Screen-Shot-2021-06-30-at-5.19.36-PM.png?w=1024",
-          "width": 1024,
-          "height": 588,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/06/30/ubers-first-head-of-data-science-just-launched-a-new-venture-fund-to-back-nascent-ai-startups/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/06/30/ubers-first-head-of-data-science-just-launched-a-new-venture-fund-to-back-nascent-ai-startups/amp/",
-      "publishedDateTime": "2021-06-30T17:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2021-07-01-inrule-64-worry-about-job-security-while-working-with-ai.md",
-      "title": "InRule: 64% worry about job security while working with AI",
-      "excerpt": "Enterprise decision-makers who work with AI and machine learning are worried about their job security, according to new InRule research.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/06/30/inrule-64-worry-about-job-security-while-working-with-ai/",
-      "originalUrl": "https://venturebeat.com/2021/06/30/inrule-64-worry-about-job-security-while-working-with-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2018/04/human-tech-e1625058641294.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/06/30/inrule-64-worry-about-job-security-while-working-with-ai/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/30/inrule-64-worry-about-job-security-while-working-with-ai/amp/",
-      "publishedDateTime": "2021-06-30T16:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Security"
       ]
     }
   ],

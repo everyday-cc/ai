@@ -1,26 +1,29 @@
 ---
 category: news
 title: "CORRECTING and REPLACING Artificial Intelligence Leader DataRobot to Host Morgantown Job Fair Tuesday, 7/13"
-excerpt: "Artificial Intelligence Leader DataRobot to Host Morgantown Job Fair Tuesday, 7/13 (instead of Artificial Intelligence Leader DataRobot to Host Morgantown Job Fair Tuesday, 6/13) The updated release reads:  ARTIFICIAL INTELLIGENCE LEADER DATAROBOT TO HOST MORGANTOWN JOB FAIR TUESDAY,"
-publishedDateTime: 2021-07-08T19:41:00Z
-originalUrl: "https://apnews.com/press-release/business-wire/business-technology-artificial-intelligence-morgantown-job-fairs-bd5cae3128494491a422c67d7dee66d2"
-webUrl: "https://apnews.com/press-release/business-wire/business-technology-artificial-intelligence-morgantown-job-fairs-bd5cae3128494491a422c67d7dee66d2"
+excerpt: "Headline of release should read: Artificial Intelligence Leader DataRobot to Host Morgantown Job Fair Tuesday, 7/13"
+publishedDateTime: 2021-07-09T04:18:00Z
+originalUrl: "https://www.01net.it/correcting-and-replacing-artificial-intelligence-leader-datarobot-to-host-morgantown-job-fair-tuesday-7-13/"
+webUrl: "https://www.01net.it/correcting-and-replacing-artificial-intelligence-leader-datarobot-to-host-morgantown-job-fair-tuesday-7-13/"
+ampWebUrl: "https://www.01net.it/correcting-and-replacing-artificial-intelligence-leader-datarobot-to-host-morgantown-job-fair-tuesday-7-13/amp/"
+cdnAmpWebUrl: "https://www-01net-it.cdn.ampproject.org/c/s/www.01net.it/correcting-and-replacing-artificial-intelligence-leader-datarobot-to-host-morgantown-job-fair-tuesday-7-13/amp/"
 type: article
-quality: 34
-heat: -1
-published: false
+quality: 71
+heat: 91
+published: true
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: 01Net
+  domain: 01net.it
 
 topics:
+  - AI in Robotics
   - AI
 
 images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
+  - url: "https://www.01net.it/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png"
+    width: 735
+    height: 552
     isCached: true
 
 related:
@@ -48,6 +51,6 @@ related:
       domain: morningstar.com
     quality: 43
 
-secured: "pKleM2vEycaHhlCXjTLdyJ6rOfau9wQmc3FtNwO5UD8DenCWyIRpfnIz7pZ8OsFkycEk+iAYkv7iYhuwJ7cz5n7e6/Q8q9PBBJI+Slqh9h9tLqVOSg2fcNgzmDEG9jXBL0LSdDw3pCNJirCUt78D0zN/BNbxgbpvNLQO3RueLx8tzN7hZUx3bQXE6Znmn1oSE0DwlFmwf9XjRC6yef7mKO0dmQwFvWoNQ0FdvSurtuqZarllE/iU0u7goqMY3FX8Wl5F2/lasg8b1PQ1LLFfFLqnhB0EKRIeodO6WoQwUOZSn81zeln8N2lt5MiM5SNIvaQeZEzGLtbY0lkPgeLTAWVnJ2NoAbZIzB2jfnxjqW4=;wfkTGc3GpHowN4go4rjxIQ=="
+secured: "rAnn8FqFxtS3diANcDlS2REOFhIfLgRl+neCthuY0EfPWJZD1j5jfN/vM9ekg3MW+uMlXVyijQ2bzlnw2o98v6XJG7MPsPaExFUNwIswcN1yifZ4fUIwO7QqEsIKFEeH/lljUnyuWssumOv60kptZ2NsWtER3WXTaegvvABvzqYnsplzL/3txyV8Ho86txkNdLvLz6n1DBjaVxPzTLqoKXjuRbDS02cI3Ct3wwzltl56MDe1YH0n2dcu+u3a2WIfq7EkNuedLZfNHy7jucWEr9HSoomLkHXYKwD0fx1moSQyVD3CxsmgTCBSAk+KV1Pbn/5QPcMhGoPL6KxTnsd+FGZoPnRe7Q6+qiohsMbitjQ=;DNhapy/3cmWx39fnMRL51A=="
 ---
 

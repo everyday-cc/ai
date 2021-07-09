@@ -9,8 +9,8 @@ ampWebUrl: "https://cio.economictimes.indiatimes.com/amp/news/strategy-and-manag
 cdnAmpWebUrl: "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/strategy-and-management/technology-and-ai-for-humanitarian-action-are-the-need-of-the-hour/84162486"
 type: article
 quality: 57
-heat: 87
-published: true
+heat: -1
+published: false
 
 provider:
   name: India Times
@@ -26,49 +26,63 @@ images:
     isCached: true
 
 related:
-  - title: "An AI for sea ice identification"
-    excerpt: "If you've watched Netflix, shopped online, or run your robot vacuum cleaner, you've interacted with artificial intelligence, AI. AI is what allows computers to comb through an enormous amount of data to detect patterns or solve problems."
-    publishedDateTime: 2021-07-08T15:23:00Z
-    webUrl: "https://techxplore.com/news/2021-07-ai-sea-ice-identification.html"
-    ampWebUrl: "https://techxplore.com/news/2021-07-ai-sea-ice-identification.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-07-ai-sea-ice-identification.amp"
+  - title: "Intel exec Huma Abidi on the urgent need for diversity and inclusion in AI"
+    excerpt: "Intel's Huma Abidi talks about her DE&I initiatives both in her private life and as part of Intel's ongoing efforts across the company."
+    publishedDateTime: 2021-07-09T04:03:00Z
+    webUrl: "https://venturebeat.com/2021/07/08/intels-huma-abidi-on-the-urgent-need-for-diversity-and-inclusion-initiatives-in-ai/"
+    ampWebUrl: "https://venturebeat.com/2021/07/08/intels-huma-abidi-on-the-urgent-need-for-diversity-and-inclusion-initiatives-in-ai/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/08/intels-huma-abidi-on-the-urgent-need-for-diversity-and-inclusion-initiatives-in-ai/amp/"
     type: article
     provider:
-      name: techxplore.com
-      domain: techxplore.com
-    quality: 57
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 85
     images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2021/what-kind-of-sea-ice-i.jpg"
-        width: 1100
-        height: 554
+      - url: "https://venturebeat.com/wp-content/uploads/2021/07/HumaA-DSC04128-2021-2.jpg?w=1200&strip=all"
+        width: 1200
+        height: 648
         isCached: true
-  - title: "Artificial Intelligence used on Army operation for the first time"
-    excerpt: "The British Army has used Artificial Intelligence (AI) for the first time during Exercise Spring Storm, as part of Operation Cabrit in Estonia."
-    publishedDateTime: 2021-07-05T13:56:00Z
-    webUrl: "https://www.gov.uk/government/news/artificial-intelligence-used-on-army-operation-for-the-first-time"
+  - title: "The Integrated Supply Chain: AI, ML, and Human Intelligence"
+    excerpt: "AI will never be a silver bullet, but with proper data and augmented with human intelligence, it will revolutionise supply chain agility and resilience"
+    publishedDateTime: 2021-07-07T10:52:00Z
+    webUrl: "https://supplychaindigital.com/technology/integrated-supply-chain-ai-ml-and-human-intelligence"
     type: article
     provider:
-      name: gov.uk
-      domain: www.gov.uk
+      name: Supply Chain Digital
+      domain: supplychaindigital.com
+    quality: 56
+    images:
+      - url: "https://supplychaindigital.com/sites/default/files/styles/ma/public/image/GettyImages-1206796363_1.jpg?itok=ZyBpOLb8"
+        width: 2373
+        height: 1263
+        isCached: true
+  - title: "Diversity key as AI increasingly integrated into safety systems"
+    excerpt: "That is, female-figure dummies or those mirroring the size and physique of young children were often excluded from critical vehicle safety testing. \"What ended up happening is that these safety settings,"
+    publishedDateTime: 2021-07-05T04:00:00Z
+    webUrl: "https://www.autonews.com/mobility-report/diversity-key-ai-increasingly-integrated-safety-systems"
+    type: article
+    provider:
+      name: Automotive News
+      domain: autonews.com
     quality: 37
     images:
-      - url: "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/image_data/file/125727/s960_Op_CABRIT_June_2021.jpg"
-        width: 960
-        height: 640
+      - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/AIMAIN-MAIN_i.jpg"
+        width: 800
+        height: 600
         isCached: true
-  - title: "Artificial Intelligence used on Army operation for the first time"
-    excerpt: "Artificial Intelligence used on Army operation for the first time. The British Army has used Artificial Intelligence (AI) for the first time during Exercise Spring Storm, as part"
-    publishedDateTime: 2021-07-06T03:25:00Z
-    webUrl: "https://www.globalsecurity.org/wmd/library/news/uk/2021/uk-210705-ukmod01.htm"
+  - title: "Diversity key as AI increasingly integrated into automotive safety systems"
+    excerpt: "That is, female-figure dummies or those mirroring the size and physique of young children were often excluded from critical vehicle safety testing. \"What ended up happening is that these safety settings,"
+    publishedDateTime: 2021-07-07T16:19:00Z
+    webUrl: "https://www.rubbernews.com/automotive/diversity-key-ai-increasingly-integrated-automotive-safety-systems"
     type: article
     provider:
-      name: GlobalSecurity.org
-      domain: globalsecurity.org
+      name: Rubber and Plastics News
+      domain: rubbernews.com
     quality: 37
     images:
-      - url: "https://www.globalsecurity.org/images/temp/one-billion-americans.jpg"
-        width: 675
-        height: 313
+      - url: "https://s3-prod.rubbernews.com/s3fs-public/styles/800x600/public/Autonomous%20cars_i.jpg"
+        width: 800
+        height: 600
         isCached: true
 
 secured: "COj9+ooiLUX+E7OfHUs6if5QBJtRja+uEz/ldYDu7w/1SLt3isnpM71l71ztIym0asn5N8I3lxVkh0hwXuKvvzCZKDDC8hBqu/9L2R2jY1R3oO4qhqrMlIgRXfuJ2AegqggyE8/WWZd4nHsZhW3D2n6yNvAjwVgVZQSsDaVU4EeKZoTIifXaeXLQxBt08t5F+kqB0NMLAabmtPtV5kzZsolGv+C1xdx1PHTjoiTJAHOM07T7bSiPX2FbPZ/82BxGrGYD/1/H1pq7Ch9OZdfWm+rK6ROilvFNHqqAupSkoUojG/ssjrFJQcJREx0gGuSki8j6odLETSsGyQFeubj7Fnl+FRcVnMCh9XcNiXajdbA=;mmisQtWBivgcOQ80ClDiPA=="

@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "GLOBALink | Advanced AI technologies displayed at World AI Conference"
+    excerpt: "The 2021 World Artificial Intelligence Conference officially opened on Thursday with more than 300 leading AI companies demoing th"
+    publishedDateTime: 2021-07-09T07:32:00Z
+    webUrl: "https://www.bignewsnetwork.com/news/270227510/globalink--advanced-ai-technologies-displayed-at-world-ai-conference"
+    type: article
+    provider:
+      name: Big News Network.com
+      domain: bignewsnetwork.com
+    quality: 37
+    images:
+      - url: "https://static.bignewsnetwork.com/bnn/images/big-news-network-slogan.jpg"
+        width: 630
+        height: 420
+        isCached: true
   - title: "Self-Driving Cars, Brain-Computer Interfaces, Other Cutting-Edge AI Tech to Be on Show in Shanghai"
     excerpt: "State-of-the-art technologies including unmanned vehicles on the open road and brain-computer interface systems that transfer signals from the brain to external devices will be on display at the 2021 World Artificial Intelligence Conference to be held in Shanghai later this week."
     publishedDateTime: 2021-07-06T11:23:00Z

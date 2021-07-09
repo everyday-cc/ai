@@ -2,6 +2,95 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2021-07-02-ai-strategies-what-is-natural-language-processing-and-how-can-it-help-businesses.md",
+      "title": "AI Strategies: What Is Natural Language Processing and How Can It Help Businesses?",
+      "excerpt": "Combining language with technology has driven innovation in artificial intelligence for decades. With the right strategy, it can help businesses today.",
+      "sourceUrl": null,
+      "webUrl": "https://biztechmagazine.com/article/2021/07/ai-strategies-what-natural-language-processing-and-how-can-it-help-businesses-perfcon",
+      "originalUrl": "https://biztechmagazine.com/article/2021/07/ai-strategies-what-natural-language-processing-and-how-can-it-help-businesses-perfcon",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://biztechmagazine.com/sites/biztechmagazine.com/files/styles/cdw_hero/public/articles/202107/nlp%20perfcon%20hero.jpg?itok=RszSk-uo",
+          "width": 1440,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://biztechmagazine.com/article/2021/07/ai-strategies-what-natural-language-processing-and-how-can-it-help-businesses-perfcon?amp",
+      "cdnAmpWebUrl": "https://biztechmagazine-com.cdn.ampproject.org/c/s/biztechmagazine.com/article/2021/07/ai-strategies-what-natural-language-processing-and-how-can-it-help-businesses-perfcon?amp",
+      "publishedDateTime": "2021-07-02T07:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BizTech",
+        "domain": "biztechmagazine.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "Natural Language Processing",
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-02-adversa-ai-red-team-introduces-technology-for-ethical-hacking-of-facial-recognition-systems.md",
+      "title": "Adversa AI Red Team Introduces Technology for Ethical Hacking of Facial Recognition Systems",
+      "excerpt": "The Adversa AI Red Team has performed a proof-of-concept attack on PimEyes, the most popular and advanced public picture face search engine. FREMONT, CA: Adversa AI, a trusted AI research leader, has presented a novel attack method for AI facial recognition applications.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cioapplications.com/news/adversa-ai-red-team-introduces-technology-for-ethical-hacking-of-facial-recognition-systems--nid-8028.html",
+      "originalUrl": "https://www.cioapplications.com/news/adversa-ai-red-team-introduces-technology-for-ethical-hacking-of-facial-recognition-systems--nid-8028.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cioapplications.com/newstransfer/upload/m2u1g450308.jpg",
+          "width": 450,
+          "height": 308,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-02T06:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CIO Applications",
+        "domain": "cioapplications.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2021-07-02-soon-it-is-going-to-be-ai-vs-ai-battle-in-cybersecurity-fake-news-and-defence.md",
       "title": "Soon, it is going to be AI Vs AI battle in cybersecurity, fake news and defence",
       "excerpt": "Applications of Artificial Intelligence technologies are showing their impact on society and are growing very fast. It is revolutionizing all industry verticals and social dimensions. With most AI tools available as open sources and",
@@ -1095,93 +1184,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-01-how-can-healthcare-leverage-natural-language-processing-for-medical-records.md",
-      "title": "How Can Healthcare Leverage Natural Language Processing for Medical Records?",
-      "excerpt": "As automated solutions continue to gain traction in the industry, here’s how a specialized branch of artificial intelligence is showing promise in improving EHR usability.",
-      "sourceUrl": null,
-      "webUrl": "https://healthtechmagazine.net/article/2021/07/how-can-healthcare-leverage-natural-language-processing-medical-records-perfcon",
-      "originalUrl": "https://healthtechmagazine.net/article/2021/07/how-can-healthcare-leverage-natural-language-processing-medical-records-perfcon",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://healthtechmagazine.net/sites/healthtechmagazine.net/files/styles/cdw_hero/public/articles/%5Bcdw_tech_site%3Afield_site_shortname%5D/202107/nlp.jpg?itok=irjfHdQw",
-          "width": 1440,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://healthtechmagazine.net/article/2021/07/how-can-healthcare-leverage-natural-language-processing-medical-records-perfcon?amp",
-      "cdnAmpWebUrl": "https://healthtechmagazine-net.cdn.ampproject.org/c/s/healthtechmagazine.net/article/2021/07/how-can-healthcare-leverage-natural-language-processing-medical-records-perfcon?amp",
-      "publishedDateTime": "2021-07-01T08:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "HealthTech",
-        "domain": "healthtechmagazine.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2021-07-01-are-you-thirsty-this-ai-enabled-robot-can-bring-beer-to-holiday-parties.md",
-      "title": "‘Are you thirsty?’ This AI-enabled robot can bring beer to holiday parties",
-      "excerpt": "Heineken says its autonomous robot can hold up to 12 cans of beer, will follow you down the sidewalk and has a friendly AI personality.",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/technology/2021/07/01/beer-cooler-robot/",
-      "originalUrl": "https://www.washingtonpost.com/technology/2021/07/01/beer-cooler-robot/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 173,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/LJQJRE4CONFJFF2GYV7TCPMRBE.jpg&w=1440",
-          "width": 1440,
-          "height": 960,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/technology/2021/07/01/beer-cooler-robot/?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/technology/2021/07/01/beer-cooler-robot/?outputType=amp",
-      "publishedDateTime": "2021-07-01T08:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

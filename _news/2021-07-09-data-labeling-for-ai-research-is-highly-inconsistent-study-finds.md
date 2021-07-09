@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/07/08/data-labeling-for-ai-research-is-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/08/data-labeling-for-ai-research-is-highly-inconsistent-study-finds/amp/"
 type: article
 quality: 87
-heat: 87
+heat: 88
 published: true
 
 provider:

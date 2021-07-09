@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/sas-best-in-class-
 webUrl: "https://markets.businessinsider.com/news/stocks/sas-best-in-class-in-health-care-payment-integrity-says-aite-group-1030586131"
 type: article
 quality: 69
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -43,6 +43,15 @@ related:
         width: 1024
         height: 575
         isCached: true
+  - title: "SAS Best in Class in Health Care Payment Integrity, Says Aite Group"
+    excerpt: "SAS, the leader in massively parallel analytics and artificial intelligence (AI), is lauded as the best-in-class vendor in Aite Matrix: Payment Integrity in Healthcare. SAS’ stability, brand recognition, and product features and functionality ..."
+    publishedDateTime: 2021-07-09T07:16:00Z
+    webUrl: "https://www.newswiretoday.com/news/175778/SAS-Best-in-Class-in-Health-Care-Payment-Integrity-Says-Aite-Group/"
+    type: article
+    provider:
+      name: Newswire Today
+      domain: newswiretoday.com
+    quality: 19
 
 secured: "ntkKDYkpJfCljm+hnDSWjr4d8t2NMsOpxodFkTSxkCZrfANOFPPZvOagWu1jLsUUVa5p6jkf8X4nGrccFJ29Eu/BKimKBAlZlwJ08Z/hterdGFU7PO7BQwpntkuXQuN5yruTBWjxL73OPnvKSKcdFL7cBm56xrnLmB9r4sMXEGfZsqm2B7cHtscLto9VwJiM7ep9VCn8lHZ2Q6G0pddewA0BDDgJAwsA5VMlaI9uIwwRn1GaXDj+exBmHE6KuBs/YsmwdBWGonfU/ps8QCeOqjtQoNpPCX11u1FdfaU98+RglGh66yI725BhpKg3hhqCCNwNL+bm36B/5DL4cENK7mkoehr5os6zz6aLj0fFWzo=;96quFmsNIgtQx6TzvOg8mg=="
 ---

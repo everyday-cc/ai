@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-education-market-report-2021-to-2030-globally-exploring-sales-volume-revenue-and-price-by-types-2021-07-07"
 type: article
 quality: 75
-heat: 125
+heat: 135
 published: true
 
 provider:
@@ -81,6 +81,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 43
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Voice Recognition Market 2021 Comprehensive Analysis, Future Estimations, Growth Drivers and Forecast to 2030"
+    excerpt: "Jul 09, 2021 (AmericaNewsHour) -- In a recent published report, Kenneth Research has updated the market report for Voice Recognition Market for 2021 till 2030. Report further now discusses; the various strategies to be adopted or being adopted by the ..."
+    publishedDateTime: 2021-07-09T05:44:00Z
+    webUrl: "https://www.marketwatch.com/press-release/voice-recognition-market-2021-comprehensive-analysis-future-estimations-growth-drivers-and-forecast-to-2030-2021-07-09"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 35
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

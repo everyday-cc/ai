@@ -7,7 +7,7 @@ originalUrl: "https://www.scmr.com/article/ai_is_driving_new_skills_in_supply_ch
 webUrl: "https://www.scmr.com/article/ai_is_driving_new_skills_in_supply_chain"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -22,22 +22,6 @@ images:
     width: 800
     height: 533
     isCached: true
-
-related:
-  - title: "The Integrated Supply Chain: AI, ML, and Human Intelligence"
-    excerpt: "AI will never be a silver bullet, but with proper data and augmented with human intelligence, it will revolutionise supply chain agility and resilience"
-    publishedDateTime: 2021-07-07T10:52:00Z
-    webUrl: "https://supplychaindigital.com/technology/integrated-supply-chain-ai-ml-and-human-intelligence"
-    type: article
-    provider:
-      name: Supply Chain Digital
-      domain: supplychaindigital.com
-    quality: 56
-    images:
-      - url: "https://supplychaindigital.com/sites/default/files/styles/ma/public/image/GettyImages-1206796363_1.jpg?itok=ZyBpOLb8"
-        width: 2373
-        height: 1263
-        isCached: true
 
 secured: "80+lZVf0dQBs7pG2YVNaZjU7JngBEbGKkHq049ie4wSuHJNDi+2zGPsEJNayuwITMqLWih6+0eHUBm1cs18WM8+7k+hiAQheoAqmrkbyhtpPXeJwKc34bleJSfQEfPYk6MUlwdt5wvqELFlZWeXrH6mUy44dlVvhY8T05TouS++8n0C8u0G6DfPYNeasKsC4RGK3dGSxWGFi/rqIE6lFwxaA981CiZOOw/LBaE+yj1ol/Kck2Ybo26b1rEhzVtojAJHAb8ro/lT0sStY1Zs6GMgiDAc9dHjLFzanl/LUtlZfjOvm025in+XTelGD+3YLL6rcsdQPvSOl6BwBt9moiglemABbNQ3lcbvaWky+JDdk+3wtRW/OdnrVOSra4KxuKYJMeuSum/91pDE+Jb5MlIOfjSJ98yPj2p0U0OfyW5X8318yKVN+0NRHWKrSv7HDclikqXgAK6pE/WB5KCGCT+15OvuOC87cKMKmtJ6pRA0A8rwzFGlrThTHgxK5eqNweJ7qu4fDlfNUpbb+FvmBLQ==;iyDZM4dAmYqY7IriRkFCFg=="
 ---

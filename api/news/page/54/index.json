@@ -2,6 +2,100 @@
   "page": 54,
   "value": [
     {
+      "path": "_news/2021-05-28-teslas-semi-makes-first-deliveries-waymo-uber-expand-driverless-truck-testing.md",
+      "title": "Tesla's Semi makes first deliveries; Waymo, Uber expand driverless truck testing",
+      "excerpt": "Several weeks ago, Starsky Robotics said it intends to make driverless deliveries in ... the road with a self-driving tractor-trailer. Artificial intelligence is putting the virtual pedal to ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.fleetowner.com/technology/autonomous-vehicles/article/21702097/teslas-semi-makes-first-deliveries-waymo-uber-expand-driverless-truck-testing",
+      "originalUrl": "https://www.fleetowner.com/technology/autonomous-vehicles/article/21702097/teslas-semi-makes-first-deliveries-waymo-uber-expand-driverless-truck-testing",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://base.imgix.net/files/base/ebm/fleetowner/image/2019/06/fleetowner_29612_tesla_shipment_1_0.png?auto=format&fit=max&w=1200",
+          "width": 667,
+          "height": 401,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-27T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fleet Owner",
+        "domain": "fleetowner.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-28-scale-ai-hires-former-us-cto-michael-kratsios-as-head-of-strategy.md",
+      "title": "Scale AI Hires Former U.S. CTO Michael Kratsios as Head of Strategy",
+      "excerpt": "Mr. Kratsios in March began working at Scale AI, where he is focused on helping companies turn AI pilot projects into offerings that can be brought to market, according to the San Francisco-based startup.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/scale-ai-hires-former-u-s-cto-michael-kratsios-as-head-of-strategy-11622160086",
+      "originalUrl": "https://www.wsj.com/articles/scale-ai-hires-former-u-s-cto-michael-kratsios-as-head-of-strategy-11622160086",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-345369/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/scale-ai-hires-former-u-s-cto-michael-kratsios-as-head-of-strategy-11622160086",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/scale-ai-hires-former-u-s-cto-michael-kratsios-as-head-of-strategy-11622160086",
+      "publishedDateTime": "2021-05-27T16:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-28-amazon-aws-launches-redshift-ml-to-let-developers-train-models-with-sql.md",
       "title": "Amazon AWS launches Redshift ML to let developers train models with SQL",
       "excerpt": "Amazon today announced the general availability of Redshift ML, which lets customers use SQL to query and combine structured and semi-structured data across data warehouses, operational databases, and data lakes.",
@@ -1109,109 +1203,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-27-baidu-debuts-updated-ai-framework-and-rd-initiative.md",
-      "title": "Baidu debuts updated AI framework and R&D initiative",
-      "excerpt": "At its Wave Summit deep learning conference, Baidu announced updates to its PaddlePaddle machine learning framework and more.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/05/27/baidu-debuts-updated-ai-framework-and-rd-initiative/",
-      "originalUrl": "https://venturebeat.com/2021/05/27/baidu-debuts-updated-ai-framework-and-rd-initiative/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2016/06/Baidu-Silicon-Valley-AI-Lab-Novet-2-e1579301361248.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/05/27/baidu-debuts-updated-ai-framework-and-rd-initiative/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/27/baidu-debuts-updated-ai-framework-and-rd-initiative/amp/",
-      "publishedDateTime": "2021-05-27T08:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-27-ai-ethics-teams-bulk-up-in-size-influence-at-tech-firms.md",
-      "title": "AI Ethics Teams Bulk Up in Size, Influence at Tech Firms",
-      "excerpt": "Artificial intelligence ethics teams are playing a greater role at tech companies and helping them deal with bias and fairness issues that have cropped up at companies such as Twitter.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/ai-ethics-teams-bulk-up-in-size-influence-at-tech-firms-11622113202",
-      "originalUrl": "https://www.wsj.com/articles/ai-ethics-teams-bulk-up-in-size-influence-at-tech-firms-11622113202",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-344629/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-27T08:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
         "AI"
       ]
     }
