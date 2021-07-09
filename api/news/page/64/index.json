@@ -2,6 +2,327 @@
   "page": 64,
   "value": [
     {
+      "path": "_news/2021-05-22-machine-learning-in-retail-market-key-aspects-of-the-industry-by-segments-to-2031.md",
+      "title": "Machine Learning in Retail Market Key Aspects of the Industry by Segments to 2031",
+      "excerpt": "The latest research report provides a complete assessment of the Global Machine Learning in Retail market for the forecast year 2022-2031, which is beneficial for companies regardless of their size and revenue.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/machine-learning-in-retail-market-key-aspects-of-the-industry-by-segments-to-2031-2021-05-22",
+      "originalUrl": "https://www.marketwatch.com/press-release/machine-learning-in-retail-market-key-aspects-of-the-industry-by-segments-to-2031-2021-05-22",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-22T00:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2021-05-22-ai-medicine-software-market-growth-graph-to-demonstrate-inclination-towards-positive-axis-by-2027-enlitic-atomwise-deepmind-babylon-health.md",
+      "title": "Ai Medicine Software Market Growth Graph To Demonstrate Inclination Towards Positive Axis By 2027 | Enlitic, Atomwise, DeepMind, Babylon Health",
+      "excerpt": "The Ai Medicine Software Market study offers a meticulous study of all the factors that are anticipated to influence the growth of the industry. This Industry report introduces Definitions, Classifications,",
+      "sourceUrl": null,
+      "webUrl": "https://ksusentinel.com/2021/05/22/ai-medicine-software-market-growth-graph-to-demonstrate-inclination-towards-positive-axis-by-2027-enlitic-atomwise-deepmind-babylon-health/",
+      "originalUrl": "https://ksusentinel.com/2021/05/22/ai-medicine-software-market-growth-graph-to-demonstrate-inclination-towards-positive-axis-by-2027-enlitic-atomwise-deepmind-babylon-health/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://neighborwebsj.com/wp-content/uploads/2021/05/Untitled-design-3.gif",
+          "width": 1004,
+          "height": 590,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-21T22:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Sentinel",
+        "domain": "ksusentinel.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-22-facebooks-ai-speech-recognition-no-longer-requires-human-transcriptions.md",
+      "title": "Facebook’s AI Speech Recognition no longer requires human transcriptions",
+      "excerpt": "Facebook's speech recognition can now learn new languages without human transcriptions, saving hours and hours of monotonous work.",
+      "sourceUrl": null,
+      "webUrl": "https://techstory.in/facebooks-ai-speech-recognition-no-longer-requires-human-transcriptions/",
+      "originalUrl": "https://techstory.in/facebooks-ai-speech-recognition-no-longer-requires-human-transcriptions/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techstory.in/wp-content/uploads/2021/05/Facebook-Voice.png",
+          "width": 730,
+          "height": 410,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-21T20:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "tech",
+        "domain": "techstory.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-22-berry-robotics-unveils-plastic-sorting-robot-at-evansville-recycling-center.md",
+      "title": "Berry Robotics unveils plastic sorting robot at Evansville recycling center",
+      "excerpt": "Mayor Lloyd Winnecke joined officials from Berry Global Friday morning to officially cut the ribbon on a plastic sorting robot at Tri-State Resource Recycling making",
+      "sourceUrl": null,
+      "webUrl": "https://www.tristatehomepage.com/news/local-news/berry-robotics-unveils-plastic-sorting-robot-at-evansville-recycling-center/",
+      "originalUrl": "https://www.tristatehomepage.com/news/local-news/berry-robotics-unveils-plastic-sorting-robot-at-evansville-recycling-center/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.tristatehomepage.com/wp-content/uploads/sites/92/2021/05/snapshot22.jpg?w=1280",
+          "width": 1280,
+          "height": 542,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.tristatehomepage.com/news/local-news/berry-robotics-unveils-plastic-sorting-robot-at-evansville-recycling-center/amp/",
+      "cdnAmpWebUrl": "https://www-tristatehomepage-com.cdn.ampproject.org/c/s/www.tristatehomepage.com/news/local-news/berry-robotics-unveils-plastic-sorting-robot-at-evansville-recycling-center/amp/",
+      "publishedDateTime": "2021-05-21T19:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WTVW",
+        "domain": "tristatehomepage.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-22-amazon-urged-not-to-sell-facial-recognition-tool-to-police.md",
+      "title": "Amazon urged not to sell facial recognition tool to police",
+      "excerpt": "It’s not clear how many law enforcement agencies have purchased the tool, called Rekognition, since its launch in late 2016 or since its update last fall, when Amazon added capabilities that ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.abqjournal.com/1175200/aclu-amazon-shouldnt-sell-face-recognition-tech-to-police.html",
+      "originalUrl": "https://www.abqjournal.com/1175200/aclu-amazon-shouldnt-sell-face-recognition-tech-to-police.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d3el53au0d7w62.cloudfront.net/wp-content/uploads/2018/05/22/BC-US-Amazon-Facial-Recognition-IMG-jpg-630x420.jpg",
+          "width": 630,
+          "height": 420,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.abqjournal.com/1175200/aclu-amazon-shouldnt-sell-face-recognition-tech-to-police.html/amp",
+      "cdnAmpWebUrl": "https://www-abqjournal-com.cdn.ampproject.org/c/s/www.abqjournal.com/1175200/aclu-amazon-shouldnt-sell-face-recognition-tech-to-police.html/amp",
+      "publishedDateTime": "2021-05-21T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Albuquerque Journal",
+        "domain": "abqjournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2021-05-22-baidus-self-driving-car-business-has-gone-seven-years-without-making-money-it-says-its-ready-to-stick-with-it-for-seven-more.md",
+      "title": "Baidu’s self-driving car business has gone seven years without making money; it says it’s ready to stick with it for seven more",
+      "excerpt": "Chinese internet giant Baidu has been developing self-driving technologies for seven years without making money, but the company is committed enough to the future of transport to keep going for at ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.thestar.com.my/tech/tech-news/2020/06/05/baidus-self-driving-car-business-has-gone-seven-years-without-making-money-it-says-its-ready-to-stick-with-it-for-seven-more",
+      "originalUrl": "https://www.thestar.com.my/tech/tech-news/2020/06/05/baidus-self-driving-car-business-has-gone-seven-years-without-making-money-it-says-its-ready-to-stick-with-it-for-seven-more",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apicms.thestar.com.my/uploads/images/2020/06/05/708543.jpg",
+          "width": 1240,
+          "height": 697,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-21T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Star",
+        "domain": "thestar.com.my",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-22-brain-implants-control-robot-arm-well-enough-to-grab-a-beer.md",
+      "title": "Brain implants control robot arm well enough to grab a beer",
+      "excerpt": "If you've been following our robotics coverage, you'll know it isn't the first mind-controlled robo limb-- a DARPA-funded project once allowed a woman to feed herself chocolate, while the one ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.engadget.com/2015-05-21-caltech-mind-controlled-robot-arm.html",
+      "originalUrl": "https://www.engadget.com/2015-05-21-caltech-mind-controlled-robot-arm.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.yimg.com/uu/api/res/1.2/wNbgcpOF.kZCjroAsCWYGA--~B/aD00NTg7dz02MzA7YXBwaWQ9eXRhY2h5b24-/https://o.aolcdn.com/hss/storage/midas/662841a7b4d92c4b2671ad8ca7f372c1/202027765/caltech-roboarm-lede.jpg",
+          "width": 630,
+          "height": 458,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-21T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-22-leigh-johnsons-guide-to-machine-vision-on-raspberry-pi.md",
       "title": "Leigh Johnson’s Guide To Machine Vision On Raspberry Pi",
       "excerpt": "(Video also embedded below.) The talk is a very concise 13 minutes, so Leigh flies through definitions of basic terms, before quickly naming TensorFlow and Keras as the tools she used. The time ...",
@@ -864,345 +1185,6 @@
       "topics": [
         "IBM AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-22-ai-in-healthcare-the-tech-is-here-the-users-are-not.md",
-      "title": "AI in healthcare: The tech is here, the users are not",
-      "excerpt": "The biggest challenges for AI-enabled care are delivering real-time insights into the clinical workflow and gaining acceptance from caregivers as well as patients. Innovative solutions continue to emerge.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cio.com/article/3619551/ai-in-healthcare-the-tech-is-here-the-users-are-not.html",
-      "originalUrl": "https://www.cio.com/article/3619551/ai-in-healthcare-the-tech-is-here-the-users-are-not.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2020/03/healthcare_technology_medical_data_by_metamorworks_gettyimages-1127069581_2400x1600-100837041-large.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cio.com/article/3619551/ai-in-healthcare-the-tech-is-here-the-users-are-not.amp.html",
-      "cdnAmpWebUrl": "https://www-cio-com.cdn.ampproject.org/c/s/www.cio.com/article/3619551/ai-in-healthcare-the-tech-is-here-the-users-are-not.amp.html",
-      "publishedDateTime": "2021-05-21T11:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CIO",
-        "domain": "cio.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-05-22-fintech-jobs-for-mba-msba-grads.md",
-      "title": "FinTech Jobs for MBA & MSBA Grads",
-      "excerpt": "FinTech is not just a fancy new buzzword that bankers use—this burgeoning industry is exploding with innovative ideas, groundbreaking technology, and a hugely promising future. Since the 2008 financial crash that saw millions of citizens around the world lose their trust in traditional banks,",
-      "sourceUrl": null,
-      "webUrl": "https://www.seattleu.edu/business/online/albers/blog/fintech-jobs-for-mba-msba-grads",
-      "originalUrl": "https://www.seattleu.edu/business/online/albers/blog/fintech-jobs-for-mba-msba-grads",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.everspringpartners.com/dims4/default/2c5917d/2147483647/strip/true/crop/476x250+62+0/resize/1200x630!/quality/90/?url=http%3A%2F%2Feverspring-brightspot.s3.amazonaws.com%2F94%2Fd5%2Fe84145c5445bb1d0f37db9e014c8%2Ffintech.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-21T10:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Seattle University School of Law",
-        "domain": "seattleu.edu",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-22-mental-health-app-wysa-raises-55m-for-emotionally-intelligent-ai.md",
-      "title": "Mental health app Wysa raises $5.5M for ’emotionally intelligent’ AI",
-      "excerpt": "It’s hard enough to talk about your feelings to a person; Jo Aggarwal, the founder and CEO of Wysa, is hoping you’ll find it easier to confide in a robot. Or, put more specifically, “emotionally intelligent” artificial intelligence.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/05/21/mental-health-app-wysa-raises-5-5m-for-emotionally-intelligent-ai/",
-      "originalUrl": "https://techcrunch.com/2021/05/21/mental-health-app-wysa-raises-5-5m-for-emotionally-intelligent-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/05/wysa-app-feature.jpg?w=1024",
-          "width": 1024,
-          "height": 699,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/05/21/mental-health-app-wysa-raises-5-5m-for-emotionally-intelligent-ai/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/05/21/mental-health-app-wysa-raises-5-5m-for-emotionally-intelligent-ai/amp/",
-      "publishedDateTime": "2021-05-21T10:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-05-22-is-baidu-stock-a-buy.md",
-      "title": "Is Baidu Stock a Buy?",
-      "excerpt": "Baidu (NASDAQ:BIDU), the Chinese tech giant that owns the country's top search engine, recently posted first-quarter numbers that topped analysts' expectations. Its revenue rose 25% year over year to 28.",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2021/05/21/is-baidu-stock-a-buy/",
-      "originalUrl": "https://www.fool.com/investing/2021/05/21/is-baidu-stock-a-buy/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F627675%2Fbaidu_apollo_s_5g_remote_driving_service_remote_human_operators_control.jpg&w=1200&op=resize",
-          "width": 1200,
-          "height": 799,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.fool.com/amp/investing/2021/05/21/is-baidu-stock-a-buy/",
-      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/05/21/is-baidu-stock-a-buy/",
-      "publishedDateTime": "2021-05-21T10:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-22-sinequa-third-party-marketplaces-boost-hyperscale-cloud-growth.md",
-      "title": "Sinequa: Third-party marketplaces boost hyperscale cloud growth",
-      "excerpt": "Enterprise IT leaders prefer Google Cloud, Amazon Web Services, and Microsoft Azure because of the strength of the third-party marketplaces.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/05/21/sinequa-third-party-marketplaces-boost-hyperscale-cloud-growth/",
-      "originalUrl": "https://venturebeat.com/2021/05/21/sinequa-third-party-marketplaces-boost-hyperscale-cloud-growth/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/11/world.investmentsGettyImages-1201627478-e1616327709332.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/05/21/sinequa-third-party-marketplaces-boost-hyperscale-cloud-growth/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/21/sinequa-third-party-marketplaces-boost-hyperscale-cloud-growth/amp/",
-      "publishedDateTime": "2021-05-21T10:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-21-human-like-robot-creates-creepy-self-portraits.md",
-      "title": "Human-like robot creates creepy self-portraits",
-      "excerpt": "Da's new self-portraits are a combination of constantly updated AI, inbuilt programming and advanced robotics. The eyes are actually cameras that allow the robot to \"look\" at what she is painting or sculpting,",
-      "sourceUrl": null,
-      "webUrl": "https://www.livescience.com/robot-artist-self-portraits.html",
-      "originalUrl": "https://www.livescience.com/robot-artist-self-portraits.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/BWaS5TwUQjXyzM3UTETud6-480-80.jpg",
-          "width": 480,
-          "height": 270,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.livescience.com/amp/robot-artist-self-portraits.html",
-      "cdnAmpWebUrl": "https://www-livescience-com.cdn.ampproject.org/c/s/www.livescience.com/amp/robot-artist-self-portraits.html",
-      "publishedDateTime": "2021-05-21T09:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Live Science",
-        "domain": "livescience.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-21-finding-any-cartier-watch-in-under-3-seconds.md",
-      "title": "Finding any Cartier watch in under 3 seconds",
-      "excerpt": "Cartier is legendary in the world of luxury — a name that is synonymous with iconic jewelry and watches, timeless design,  savoir-faire and exceptional customer service. Maison Cartier’s collection dates back to the opening of Louis-François Cartier’s very first Paris workshop in 1847. And with over",
-      "sourceUrl": null,
-      "webUrl": "https://blog.google/products/google-cloud/finding-any-cartier-watch-under-3-seconds/",
-      "originalUrl": "https://blog.google/products/google-cloud/finding-any-cartier-watch-under-3-seconds/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/03_11_21_GoogleBlog_Header_Cartier_animated.gif",
-          "width": 1600,
-          "height": 667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://blog.google/products/google-cloud/finding-any-cartier-watch-under-3-seconds/amp/",
-      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/products/google-cloud/finding-any-cartier-watch-under-3-seconds/amp/",
-      "publishedDateTime": "2021-05-21T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Google",
-        "domain": "blog.google",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
       ]
     }
   ],

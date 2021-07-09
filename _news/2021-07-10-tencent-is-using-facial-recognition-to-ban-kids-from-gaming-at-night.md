@@ -261,6 +261,15 @@ related:
         width: 600
         height: 450
         isCached: true
+  - title: "Tencent Uses Facial Recognition on Teenage Gamers"
+    excerpt: "Tencent Games says it has been using facial recognition to enforce China’s rules on how much time people under 18 can spend playing video"
+    publishedDateTime: 2021-07-09T03:09:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/tencent-uses-facial-recognition-on-teenage-gamers-10315991"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 49
   - title: "Tencent will use facial recognition to restrict minors from playing games late night; here’s how it works"
     excerpt: "China banned the PUBG Mobile online multiplayer game long back but the game publisher Tencent manages to relaunch the game in the country with some"
     publishedDateTime: 2021-07-07T14:27:00Z
@@ -418,6 +427,6 @@ related:
         height: 480
         isCached: true
 
-secured: "ovtkNOuAjo78uudhqfnrXQzEPmhVIiri3J1S5P4oo6a9nHzco1EecdGmk7zrFvgWbwr/wNMctRxZQKH6OBzdkj4j63b2FCErRXKlN9DMSp5IR+6WtXMqsdBwrtQfrquUTxs2BNojyI0jXRO/o92dgwl+c4/J9baoLhCgFeLWk1jByn6CEgF7es79wURegx0VcQU4/jQHJUw9YLjcQCXeZuG9M3w4hgDb+tkCejEMRoIFKmLFB8QuX2ZY7Z+DMzrlsYlmw69bBHWX9Vx87X63IzHK0Ue9HCm6qILnHcRp9ECbFvPfTL5h/Iu8IGa8egklCAGz6/XV6yySSu/PLQHwZErYjJs3MEzSZ3PRkhbDdY0=;T/FoLgdDl46Ui5mXW3uvIQ=="
+secured: "cLOr2U8p7d7tCnzAFk5na/UEy+WXe05m0XXn9D2te6bP2/y3fCZBBX91OfeBslhaxj3I/Wwz8ndk1LS1yprpsoNF03FT63oiU9Uuc5EAPsgEFqQlTIB4h0hJ0uEAFrljle/bosfss+/e7X7hPQDW04zSg/vkBSiG1gUDE9tV3IQz2m90X3/X15GmNrc3QsgBqBVqywf1QVnG9TXS0Xp48xOsZVbTZGqdM8YYIfKMmi0y6EBS/Xe2COqE6g7bcul3fvSBf3VyGRdyYlbG46/0UX6qYBhEW7oqX07SYZFCto19XsOX6Xah7TC1lP+9QIPfFIqSdIo5gz4XQ6L1fYqKk/XcRcnKupWHKc1bnBqZPh0VHX1jqUYfgpJx3rSzTEwEgh5UKGlm/OOB7s0wIUN0ivtTdHC7WBVj0rntc1OdzFHeLAfmw2KojDvOkk0PqjE5Ik0NU/LMyddBg0xwJJVabj5BKQmzGJnopjy/UmpIgg1xASX6SSLQt7TReOYaXEbc1+N6jdCafHXpxI690rn/tg==;SepCMi8M0UrYO8hmY/Rlng=="
 ---
 

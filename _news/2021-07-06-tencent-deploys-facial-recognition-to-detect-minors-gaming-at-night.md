@@ -7,7 +7,7 @@ originalUrl: "https://www.sixthtone.com/news/1007915/tencent-deploys-facial-reco
 webUrl: "https://www.sixthtone.com/news/1007915/tencent-deploys-facial-recognition-to-detect-minors-gaming-at-night-"
 type: article
 quality: 139
-heat: 399
+heat: 409
 published: true
 
 provider:
@@ -261,6 +261,15 @@ related:
         width: 600
         height: 450
         isCached: true
+  - title: "Tencent Uses Facial Recognition on Teenage Gamers"
+    excerpt: "Tencent Games says it has been using facial recognition to enforce China’s rules on how much time people under 18 can spend playing video"
+    publishedDateTime: 2021-07-09T03:09:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/tencent-uses-facial-recognition-on-teenage-gamers-10315991"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 49
   - title: "Tencent will use facial recognition to restrict minors from playing games late night; here’s how it works"
     excerpt: "China banned the PUBG Mobile online multiplayer game long back but the game publisher Tencent manages to relaunch the game in the country with some"
     publishedDateTime: 2021-07-07T14:27:00Z

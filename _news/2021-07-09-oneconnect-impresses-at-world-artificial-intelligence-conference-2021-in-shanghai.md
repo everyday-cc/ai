@@ -1,26 +1,30 @@
 ---
 category: news
 title: "OneConnect Impresses at World Artificial Intelligence Conference 2021 in Shanghai"
-excerpt: "Leading technology-as-a-service platform provider OneConnect Financial Technology Co., Ltd. (NYSE: OCFT) (“OneConnect” or “the Company”), an associate company of Ping An Group, recently displayed a lineup of impressive fintech solutions at the World Artificial Intelligence Conference 2021 (WAIC 2021) held in Shanghai from July 8-10,"
-publishedDateTime: 2021-07-09T09:09:00Z
-originalUrl: "https://apnews.com/press-release/pr-newswire/business-lifestyle-technology-shanghai-artificial-intelligence-b9de5eb80860bc906cee47e1fb3b8b5f"
-webUrl: "https://apnews.com/press-release/pr-newswire/business-lifestyle-technology-shanghai-artificial-intelligence-b9de5eb80860bc906cee47e1fb3b8b5f"
+excerpt: "Leading technology-as-a-service platform provider OneConnect Financial Technology Co., Ltd. (NYSE: OCFT) (\"OneConnect\" or \"the Company\"), an associate company of Ping An Group, recently displayed a lineup of impressive fintech solutions at the (WAIC 2021) held in Shanghai from July 8-10,"
+publishedDateTime: 2021-07-09T09:17:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/oneconnect-impresses-at-world-artificial-intelligence-conference-2021-in-shanghai-1030592354"
+webUrl: "https://markets.businessinsider.com/news/stocks/oneconnect-impresses-at-world-artificial-intelligence-conference-2021-in-shanghai-1030592354"
 type: article
-quality: 47
-heat: -1
-published: false
+quality: 77
+heat: 107
+published: true
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI
 
 images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
+  - url: "https://mma.prnewswire.com/media/1560742/OneConnect_at_World_Artificial_Intelligence_Conference_2021.jpg"
+    width: 400
+    height: 266
     isCached: true
 
 related:
@@ -66,21 +70,7 @@ related:
         width: 630
         height: 420
         isCached: true
-  - title: "Self-Driving Cars, Brain-Computer Interfaces, Other Cutting-Edge AI Tech to Be on Show in Shanghai"
-    excerpt: "State-of-the-art technologies including unmanned vehicles on the open road and brain-computer interface systems that transfer signals from the brain to external devices will be on display at the 2021 World Artificial Intelligence Conference to be held in Shanghai later this week."
-    publishedDateTime: 2021-07-06T11:23:00Z
-    webUrl: "https://www.yicaiglobal.com/news/self-driving-cars-brain-computer-interfaces-other-cutting-edge-ai-tech-to-be-on-show-in-shanghai"
-    type: article
-    provider:
-      name: Yicai Global
-      domain: yicaiglobal.com
-    quality: 25
-    images:
-      - url: "http://img.yicaiglobal.com/cdn/news/self-driving-cars-brain-computer-interfaces-other-cutting-edge-ai-tech-to-be-on-show-in-shanghai/14596832070205440.jpg"
-        width: 720
-        height: 480
-        isCached: true
 
-secured: "FSdH0MfBamfwIEx/7kRxzsJ+s7vpgYC31M0Vcf4HyKuQEHvnuyhMNfnnjos0nvBSC3NGPzTxZLncectIA+9i3gY3FNrWaJQQzY8QwbJj2zDX5ecgSrMj5iEgSZzJe9FVF1WtVFAxIv3Gk1FwuQRs9K3EMRSjhPoMUQ/mVKxV05YOgo0y+azM3lvbLsKlqZ94IqQNvyJKel/iQTV5NwZD+9tbfauqI0ocqq9VAxDDo9EsZnCc5jvVjQ06y13HKFNaqMrHy2KdA9awJ1PFnui8GK8ANOlFAhngK0U0Jf8jy5Hy1BeG5B+B2rGUHq9jw31WvVV/rhoI9SY96m9c85FzY8XN25ZHAGn9+PV12tWlwxQ=;vIZu2cvOKLHT8yayfXLa6Q=="
+secured: "m9AOrxZtW+TcoCAOI+tXNC8dEdyzb1h5+mzGDGCV885UXs3QhNXjysIPzSskbiMFZljZjNyWWWTbdDrOhiKuZlHsRn1n2KMr3jUaRsdm1zO/6J4dyhaSOsP9uvtGqGtIHqAoRd0YHoI9YqagOWJ9udaVOYF/aa09febGzjlylh0exQmcaCcdzsm3EI8NpO3doV5hiJ+fIfUZ1O1VU8O29L2hrighJMvdymacV5qc1TaDmqu8+eqwseHM6ftUOkSgbbnxWh36yNVzRacvvf1UqGIij4FrvvpGt1GwPHfZJVVcELX55jDRQRPS7RDlZcyypNMr/DcAPsHAnX3+zqAHR96JfotTO8kvRxWv3ZRaNO4=;pOFlvCRFvlBimH6Z2LOQ5w=="
 ---
 

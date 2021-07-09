@@ -54,6 +54,92 @@
       ]
     },
     {
+      "path": "_news/2021-07-09-facebook-teaches-ai-powered-robot-to-adapt-while-walking.md",
+      "title": "Facebook teaches AI-powered robot to adapt while walking",
+      "excerpt": "The four-legged robot resembles a dog walking over sand, rocks and other difficult surfaces. As it moves forward, the black robot adjusts its stride and adapts without falling.  Teaming up with Carnegie Mellon University's School of Computer Science and the University of California,",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/news/facebook-teaches-ai-powered-robot-to-adapt-while-walking/",
+      "originalUrl": "https://www.msn.com/en-us/news/technology/facebook-teaches-ai-powered-robot-to-adapt-while-walking/ar-AALXY7A",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 274,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cnet.com/a/img/iAIGEalDuoiDn3gwEVgLxEHOMek=/1200x630/2021/07/08/7bb81b3f-e294-4989-bd8a-5c5d7b0fc7d5/gettyimages-1262875305.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/facebook-teaches-ai-powered-robot-to-adapt-while-walking/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/facebook-teaches-ai-powered-robot-to-adapt-while-walking/",
+      "publishedDateTime": "2021-07-09T05:00:13-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "cnet.com/news/facebook-teaches-ai-powered-robot-to-adapt-while-walking/",
+        "domain": "cnet.com/news/facebook-teaches-ai-powered-robot-to-adapt-while-walking/",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2021-07-09-correcting-and-replacing-artificial-intelligence-leader-datarobot-to-host-morgantown-job-fair-tuesday-713.md",
+      "title": "CORRECTING and REPLACING Artificial Intelligence Leader DataRobot to Host Morgantown Job Fair Tuesday, 7/13",
+      "excerpt": "DataRobot, the leader in Artificial Intelligence, will host a public job fair from 3-7 p.m. at Morgantown’s Erickson Alumni Center on Tuesday, July 13th. In June, DataRobot announced the opening of a new office at Vantage Ventures Morgantown headquarters.",
+      "sourceUrl": null,
+      "webUrl": "https://www.joplinglobe.com/region/national_business/correcting-and-replacing-artificial-intelligence-leader-datarobot-to-host-morgantown-job-fair-tuesday-7-13/article_56b88038-894a-595e-abca-6abaade06353.html",
+      "originalUrl": "https://www.joplinglobe.com/region/national_business/correcting-and-replacing-artificial-intelligence-leader-datarobot-to-host-morgantown-job-fair-tuesday-7-13/article_56b88038-894a-595e-abca-6abaade06353.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.chicago2.vip.townnews.com/joplinglobe.com/content/tncms/custom/image/da68c2f8-c3ab-11e5-94c7-b366ea8ae93c.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-08T12:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Joplin Globe",
+        "domain": "joplinglobe.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-07-robots-can-make-music-but-can-they-sing.md",
       "title": "Robots Can Make Music, but Can They Sing?",
       "excerpt": "At an international competition called the A.I. Song Contest, tracks exploring the technology as a tool for music making revealed the potential — and the limitations.",
@@ -162,17 +248,17 @@
       "title": "Abundant Robotics shuts down fruit harvesting business",
       "excerpt": "Abundant Robotics, which was developing a robot to pick apples, closed its business after spinning out of SRI International in 2016.",
       "sourceUrl": null,
-      "webUrl": "https://www.therobotreport.com/abundant-robotics-shuts-down-fruit-harvesting-business/",
+      "webUrl": "https://www.hortidaily.com/article/9337223/us-fruit-harvesting-robot-company-shuts-down/",
       "originalUrl": "https://www.therobotreport.com/abundant-robotics-shuts-down-fruit-harvesting-business/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 94,
+      "heat": 194,
       "tags": null,
       "images": [
         {
-          "url": "https://www.therobotreport.com/wp-content/uploads/2021/07/abundant-robotics-shuts-down.jpg",
-          "width": 1128,
-          "height": 500,
+          "url": "https://www.hortidaily.com/remote/https/agfstorage.blob.core.windows.net/misc/HD_com/2021/07/07/appel.jpg?preset=OgImage",
+          "width": 1200,
+          "height": 630,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -196,8 +282,8 @@
         "news"
       ],
       "topics": [
-        "AI in Robotics",
-        "AI"
+        "AI",
+        "AI in Robotics"
       ]
     },
     {
@@ -304,7 +390,7 @@
       "originalUrl": "https://www.forbes.com/sites/anniebrown/2021/07/04/ai-driven-robots-are-here-for-good/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 126,
+      "heat": 116,
       "tags": null,
       "images": [
         {
@@ -1307,92 +1393,6 @@
       "provider": {
         "name": "Vanguard",
         "domain": "vanguardngr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-28-grene-robotics-develops-indigenous-drone-defence-dome.md",
-      "title": "Grene Robotics develops indigenous drone defence dome",
-      "excerpt": "The autonomous defence weapon system uses Artificial Intelligence, cybersecurity and robotics to identify and counter threats",
-      "sourceUrl": null,
-      "webUrl": "https://www.thehindubusinessline.com/companies/grene-robotics-develops-indigenous-drone-defence-dome/article35018981.ece",
-      "originalUrl": "https://www.thehindubusinessline.com/companies/grene-robotics-develops-indigenous-drone-defence-dome/article35018981.ece",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.thehindubusinessline.com/info-tech/13fsry/article33746129.ece/ALTERNATES/LANDSCAPE_615/DRONES",
-          "width": 615,
-          "height": 384,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thehindubusinessline.com/companies/grene-robotics-develops-indigenous-drone-defence-dome/article35018981.ece/amp/",
-      "cdnAmpWebUrl": "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/companies/grene-robotics-develops-indigenous-drone-defence-dome/article35018981.ece/amp/",
-      "publishedDateTime": "2021-06-28T06:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Line",
-        "domain": "thehindubusinessline.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-27-uk-surgical-robotics-start-up-cmr-raises-600m-at-3bn-valuation.md",
-      "title": "UK surgical robotics start-up CMR raises $600m at $3bn valuation",
-      "excerpt": "UK robotics start-up CMR Surgical has raised $600m in what it says was a record private financing round for a medical technology company, pushing its total funds raised above $1bn and giving it a $3bn valuation.",
-      "sourceUrl": null,
-      "webUrl": "https://www.ft.com/content/6a73e55b-5e5a-4017-b797-469aa4f8dde5",
-      "originalUrl": "https://www.ft.com/content/6a73e55b-5e5a-4017-b797-469aa4f8dde5",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F2e047ce0-6272-480b-a275-e2a14c514e09.jpg?source=google-amp&fit=scale-down&width=500",
-          "width": 500,
-          "height": 281,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.ft.com/content/6a73e55b-5e5a-4017-b797-469aa4f8dde5",
-      "cdnAmpWebUrl": "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/6a73e55b-5e5a-4017-b797-469aa4f8dde5",
-      "publishedDateTime": "2021-06-27T09:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Financial Times",
-        "domain": "ft.com",
         "images": null,
         "publishers": null,
         "authors": null

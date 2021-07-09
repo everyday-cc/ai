@@ -71,6 +71,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Robot Operating System Market Size 2021 by Company, Product introduction, Products Sales Volume, Revenue, Price and Gross Margin to 2030"
+    excerpt: "In a recent published report, Kenneth Research has updated the market report for Robot Operating System Market for"
+    publishedDateTime: 2021-07-09T17:02:00Z
+    webUrl: "https://www.marketwatch.com/press-release/robot-operating-system-market-size-2021-by-company-product-introduction-products-sales-volume-revenue-price-and-gross-margin-to-2030-2021-07-09"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 53
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Computer Vision Market 2021 Will Reflect Significant Growth in Future with Size, Share, Growth, and Key Companies Analysis"
     excerpt: "In a recent published report, Kenneth Research has updated the market report for Computer Vision Market for 2021 till"
     publishedDateTime: 2021-07-05T16:46:00Z

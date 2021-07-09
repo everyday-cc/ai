@@ -24,43 +24,20 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence in IoT Market Outlook to 2027 Emerging Trends and Will Generate New Growth Opportunities Status"
-    excerpt: "Jul 05, 2021 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry\" “Artificial Intelligence in IoT"
-    publishedDateTime: 2021-07-05T06:47:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-iot-market-outlook-to-2027-emerging-trends-and-will-generate-new-growth-opportunities-status-2021-07-05"
+  - title: "Europe Artificial Intelligence Chipsets Market by Size, Growth, Opportunity and Forecast to 2026"
+    excerpt: "Selbyville, Delaware According to the research report titled 'Europe Artificial Intelligence Chipsets Market Size"
+    publishedDateTime: 2021-07-07T05:03:00Z
+    webUrl: "https://www.marketwatch.com/press-release/europe-artificial-intelligence-chipsets-market-by-size-growth-opportunity-and-forecast-to-2026-2021-07-07"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 43
+    quality: 56
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "AI Training Data Market All Set to Witness Massive Growth during Forecast 2021-2027 With Top Vendors Like"
-    excerpt: "This AI Training Data Industry market report uncovers multiple growth opportunities that users can consider to capitalize on, along with insights on top industry trends to invest in. This section intends to facilitate the process of critical decision making for users."
-    publishedDateTime: 2021-07-08T06:39:00Z
-    webUrl: "https://ksusentinel.com/2021/07/08/ai-training-data-market-all-set-to-witness-massive-growth-during-forecast-2021-2027-with-top-vendors-like/"
-    type: article
-    provider:
-      name: The Sentinel
-      domain: ksusentinel.com
-    quality: 20
-    images:
-      - url: "https://i.ibb.co/4f2WLZz/n1-finalll.jpg"
-        width: 474
-        height: 237
-        isCached: true
-  - title: "AI Governance Market to Witness Growth Acceleration During 2021-2027"
-    excerpt: "The recent analysis on AI Governance market intends to provide a competitive edge to stakeholders by uncovering the future growth patterns of this industry through a deep study of past records and latest global developments."
-    publishedDateTime: 2021-07-06T16:52:00Z
-    webUrl: "https://www.arnnet.com.au/mediareleases/143676/ai-governance-market-to-witness-growth/"
-    type: article
-    provider:
-      name: ARN
-      domain: arnnet.com.au
-    quality: 17
 
 secured: "5ixp4KHyW4M/YNxJYyyL5sx8MI4UrnOXUdQAR6epvn7xsqo1+BU6qvHyk0mT5ZdVeiVNhsGeZQPkCniLYjhHUvT2T2+lJGWNgHVpNvTB2oMo9vjeZfkDvmgSslcjAPCRwdhPUXs3ZpXwmvPBEiRw6xoVMd0P67KifdPW8APn9U/+tNtRxL5v0H/NT5qj9xkr3yMEYScLi1NNqq2SFunzwJyk9Ffnx2fRJeZSM8rNFP/Mqvu9bXPm7HakH7FLGMl8qXHECizZAbV3mcx9TEuOQsukXFHFAptEFZpk7HQuA1ktAZSQRUUKAeOxBwaUdKpMzOFHulMroaGJwPCnjAGboSJREB1vXCalHxyLwow5JRE=;5jklCOyBKQYYtb3nfR9d3Q=="
 ---

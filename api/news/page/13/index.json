@@ -2,6 +2,316 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2021-06-29-machine-learning-market-to-see-major-growth-by-2026-bigml-h2oai-sap.md",
+      "title": "Machine Learning Market To See Major Growth By 2026 | BigML, H2O.ai, SAP",
+      "excerpt": "Global Machine Learning Market Research Report with Opportunities and Strategies to Boost Growth- COVID-19 Impact and Recovery is latest research study released by HTF MI evaluating the market risk side analysis,",
+      "sourceUrl": null,
+      "webUrl": "https://ksusentinel.com/2021/06/28/machine-learning-market-to-see-major-growth-by-2026-bigml-h2o-ai-sap/",
+      "originalUrl": "https://ksusentinel.com/2021/06/28/machine-learning-market-to-see-major-growth-by-2026-bigml-h2o-ai-sap/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ksusentinel.com/wp-content/uploads/2021/06/Machine-Learning-Market.jpeg",
+          "width": 672,
+          "height": 448,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-28T12:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Sentinel",
+        "domain": "ksusentinel.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-29-the-linux-foundation-is-working-to-improve-voice-recognition-ethics.md",
+      "title": "The Linux Foundation is working to improve voice recognition ethics",
+      "excerpt": "Last week, the Linux Foundation created a new open source industry association called the Open Voice Network (OVN). The new group is an independently governed directed fund of the Linux Foundation, with the goals of improving trust,",
+      "sourceUrl": null,
+      "webUrl": "https://arstechnica.com/gadgets/2021/06/the-linux-foundation-is-working-to-improve-voice-recognition-ethics/",
+      "originalUrl": "https://arstechnica.com/gadgets/2021/06/the-linux-foundation-is-working-to-improve-voice-recognition-ethics/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.arstechnica.net/wp-content/uploads/2021/06/GettyImages-970156432-760x380.jpg",
+          "width": 760,
+          "height": 380,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-28T11:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2021-06-29-the-journey-to-fairness-in-ai-qa-with-new-york-times-best-selling-author-abigail-hing-wen.md",
+      "title": "The Journey To Fairness In AI -- Q&A With New York Times Best Selling Author Abigail Hing Wen",
+      "excerpt": "Abigail Hing Wen has a knack for trying and succeeding at new things. A lawyer by trade, Abigail worked in Washington D.C. for the Senate and as a law clerk for a federal judge before moving to Silicon Valley and charting a new course in venture capital and artificial intelligence.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/aparnadhinakaran/2021/06/28/the-journey-to-fairness-in-aiqa-with-new-york-times-best-selling-author-abigail-hing-wen/",
+      "originalUrl": "https://www.forbes.com/sites/aparnadhinakaran/2021/06/28/the-journey-to-fairness-in-aiqa-with-new-york-times-best-selling-author-abigail-hing-wen/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/400x0/smart/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fb603b47a36ecf5f70e1141%2F960x0.jpg%3FcropX1%3D318%26cropX2%3D2612%26cropY1%3D675%26cropY2%3D2969",
+          "width": 400,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/aparnadhinakaran/2021/06/28/the-journey-to-fairness-in-aiqa-with-new-york-times-best-selling-author-abigail-hing-wen/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/aparnadhinakaran/2021/06/28/the-journey-to-fairness-in-aiqa-with-new-york-times-best-selling-author-abigail-hing-wen/amp/",
+      "publishedDateTime": "2021-06-28T11:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-29-the-danger-of-action-bias-is-it-always-better-to-act-quickly.md",
+      "title": "The Danger of Action Bias: Is It Always Better to Act Quickly?",
+      "excerpt": "Action bias, a subset of cognitive bias, describes the human ... where she covered Microsoft, and Insurance & Technology, where she covered financial ... View Full Bio",
+      "sourceUrl": null,
+      "webUrl": "https://www.darkreading.com/careers-and-people/the-danger-of-action-bias-is-it-always-better-to-act-quickly/d/d-id/1341415",
+      "originalUrl": "https://www.darkreading.com/careers-and-people/the-danger-of-action-bias-is-it-always-better-to-act-quickly/d/d-id/1341415",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-28T11:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Dark Reading",
+        "domain": "darkreading.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-29-fleet-software-startup-loconav-raises-37-million-to-expand-in-developing-markets.md",
+      "title": "Fleet software startup LocoNav raises $37 million to expand in developing markets",
+      "excerpt": "LocoNav, an startup that is helping drivers and fleet owners in over two dozen nations run their vehicles more efficiently and save money, said on Monday it has raised $37 million in a new financing round.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/06/28/fleet-software-startup-loconav-raises-37-million-to-expand-in-developing-markets/",
+      "originalUrl": "https://techcrunch.com/2021/06/28/fleet-software-startup-loconav-raises-37-million-to-expand-in-developing-markets/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/06/GettyImages-1224039863.jpg?w=1024",
+          "width": 1024,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/06/28/fleet-software-startup-loconav-raises-37-million-to-expand-in-developing-markets/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/06/28/fleet-software-startup-loconav-raises-37-million-to-expand-in-developing-markets/amp/",
+      "publishedDateTime": "2021-06-28T10:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-28-path-robotics-adding-jobs-second-columbus-plant-for-ai-powered-welding-system.md",
+      "title": "Path Robotics adding jobs, second Columbus plant for AI-powered welding system",
+      "excerpt": "Path Robotics Inc., a venture-backed startup aiming to bring a manufacturing renaissance to Ohio and the U.S., plans to grow to 200 employees – 10 times its size at the start of 2020. Demand is growing for the AI-powered autonomous welding system the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.bizjournals.com/columbus/news/2021/06/28/path-robotics-adding-jobs-second-columbus-plant.html",
+      "originalUrl": "https://www.bizjournals.com/columbus/news/2021/06/28/path-robotics-adding-jobs-second-columbus-plant.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-28T09:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Business Journals",
+        "domain": "bizjournals.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-28-global-artificial-intelligence-in-healthcare-deals-and-agreements-by-leading-players-from-2010-2021-researchandmarketscom.md",
+      "title": "Global Artificial Intelligence in Healthcare: Deals and Agreements by Leading Players From 2010-2021 - ResearchAndMarkets.com",
+      "excerpt": "Partnering Terms and Agreements 2010 to 2021” report has been added to ResearchAndMarkets.com’s offering. The Global Artificial Intelligence (AI) Partnering Terms and Agreements 2010 to 2021 report provides an understanding and access to the artificial intelligence partnering deals and agreements entered into by the world’s leading healthcare companies.",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/business-wire/artificial-intelligence-business-technology-c8cf1d7a3c1e49999f2dbe3d728e684e",
+      "originalUrl": "https://apnews.com/press-release/business-wire/artificial-intelligence-business-technology-c8cf1d7a3c1e49999f2dbe3d728e684e",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-28T09:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-28-what-are-the-benefits-of-artificial-intelligence-in-government.md",
       "title": "What are the benefits of Artificial Intelligence in Government?",
       "excerpt": "From listening better to citizens, to making operations more efficient, AI brings multiple benefits to governments to make better decisions.",
@@ -813,334 +1123,6 @@
       "topics": [
         "IBM AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-28-from-creating-a-zero-hunger-future-to-reimagining-health-and-wellbeing-with-ai.md",
-      "title": "From Creating a Zero Hunger Future, To Reimagining Health and Wellbeing with AI",
-      "excerpt": "Students’ Unlimited Creativity Unveiled in ‘Master Code’ Award and Kick-off Ceremonies HONG KONG SAR - Media OutReach - 28 June 2021 - Since 2016, Hong Kong Education City (EdCity) and Microsoft have co-organised the annual Master Code Competition.",
-      "sourceUrl": null,
-      "webUrl": "https://vietreader.com/business/media-outreach/45762-from-creating-a-zero-hunger-future-to-reimagining-health-and-wellbeing-with-ai.html",
-      "originalUrl": "https://vietreader.com/business/media-outreach/45762-from-creating-a-zero-hunger-future-to-reimagining-health-and-wellbeing-with-ai.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://m.vietreader.com/business/media-outreach/45762-from-creating-a-zero-hunger-future-to-reimagining-health-and-wellbeing-with-ai/amp.html",
-      "cdnAmpWebUrl": "https://m-vietreader-com.cdn.ampproject.org/c/s/m.vietreader.com/business/media-outreach/45762-from-creating-a-zero-hunger-future-to-reimagining-health-and-wellbeing-with-ai/amp.html",
-      "publishedDateTime": "2021-06-27T22:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "vietreader.com",
-        "domain": "vietreader.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-28-facial-recognition-market-by-size-growth-opportunity-and-forecast-to-2028.md",
-      "title": "Facial Recognition Market by Size, Growth, Opportunity and Forecast to 2028",
-      "excerpt": "Selbyville, Delaware According to the research report titled 'GLOBAL Facial Recognition Market 2019-2028', available with Market Study Report LLC, global facial recognition market is projected to expand at 14.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/facial-recognition-market-by-size-growth-opportunity-and-forecast-to-2028-2021-06-28",
-      "originalUrl": "https://www.marketwatch.com/press-release/facial-recognition-market-by-size-growth-opportunity-and-forecast-to-2028-2021-06-28",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 327,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-27T22:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-28-artificial-intelligence-can-now-taste-transforming-winemaking-with-tastry.md",
-      "title": "Artificial Intelligence Can Now Taste - Transforming Winemaking With Tastry",
-      "excerpt": "Tastry, a sensory science company, has merged AI and advanced chemistry to teach computers to “taste.” Now their technology is helping consumers find great wines, and providing insight to wineries and retailers about the wines people love to drink.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/bernardmarr/2021/06/28/artificial-intelligence-can-now-tastetransforming-winemaking-with-tastry/",
-      "originalUrl": "https://www.forbes.com/sites/bernardmarr/2021/06/28/artificial-intelligence-can-now-tastetransforming-winemaking-with-tastry/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 95,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60d94e3b36a85016d66b2dfb%2F0x0.jpg",
-          "width": 1200,
-          "height": 801,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2021/06/28/artificial-intelligence-can-now-tastetransforming-winemaking-with-tastry/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2021/06/28/artificial-intelligence-can-now-tastetransforming-winemaking-with-tastry/amp/",
-      "publishedDateTime": "2021-06-27T21:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-28-facial-recognition-tech-for-bears-aims-to-keep-humans-safe.md",
-      "title": "Facial recognition tech for bears aims to keep humans safe",
-      "excerpt": "A town in Japan is planning to use facial recognition on local brown bears as part of efforts to reduce the number of bear attacks.",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaltrends.com/news/facial-recognition-tech-for-bears-aims-to-keep-humans-safe/",
-      "originalUrl": "https://www.digitaltrends.com/news/facial-recognition-tech-for-bears-aims-to-keep-humans-safe/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 186,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://icdn.digitaltrends.com/image/digitaltrends/brown-bear-japan.jpg",
-          "width": 1130,
-          "height": 756,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.digitaltrends.com/news/facial-recognition-tech-for-bears-aims-to-keep-humans-safe/?amp",
-      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/news/facial-recognition-tech-for-bears-aims-to-keep-humans-safe/?amp",
-      "publishedDateTime": "2021-06-27T20:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Trends",
-        "domain": "digitaltrends.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2021-06-28-artificial-intelligence-at-the-service-of-the-company.md",
-      "title": "Artificial intelligence at the service of the company",
-      "excerpt": "Two of the companies created in The Collider, the innovation programme of the Mobile World Capital of Barcelona, stand out for applying artificial intelligence in",
-      "sourceUrl": null,
-      "webUrl": "https://www.lavanguardia.com/economia/20210628/7551935/artificial-intelligence-at-the-service-of-the-company.html",
-      "originalUrl": "https://www.lavanguardia.com/economia/20210628/7551935/artificial-intelligence-at-the-service-of-the-company.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.lavanguardia.com/files/image_948_465/uploads/2021/06/22/60d19a84d34b0.jpeg",
-          "width": 948,
-          "height": 465,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.lavanguardia.com/economia/20210628/7551935/artificial-intelligence-at-the-service-of-the-company.amp.html",
-      "cdnAmpWebUrl": "https://www-lavanguardia-com.cdn.ampproject.org/c/s/www.lavanguardia.com/economia/20210628/7551935/artificial-intelligence-at-the-service-of-the-company.amp.html",
-      "publishedDateTime": "2021-06-27T19:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "La Vanguardia",
-        "domain": "lavanguardia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-28-uk-watchdog-raises-alarm-over-live-face-recognition-tech.md",
-      "title": "UK watchdog raises alarm over live face recognition tech",
-      "excerpt": "Unlike CCTV, LFR and its algorithms can automatically identify who you are and infer sensitive details about you. The chief data protection regulator in the UK has expressed grave concerns over the inappropriate use of live facial recognition (LFR) technology in public places.",
-      "sourceUrl": null,
-      "webUrl": "https://www.tribuneindia.com/news/science-technology/uk-watchdog-raises-alarm-over-live-face-recognition-tech-271870",
-      "originalUrl": "https://www.tribuneindia.com/news/science-technology/uk-watchdog-raises-alarm-over-live-face-recognition-tech-271870",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://englishtribuneimages.blob.core.windows.net/gallary-content/2021/6/2021_6$largeimg_1321701872.jpg",
-          "width": 660,
-          "height": 440,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.tribuneindia.com/news/science-technology/uk-watchdog-raises-alarm-over-live-face-recognition-tech-271870",
-      "cdnAmpWebUrl": "https://www-tribuneindia-com.cdn.ampproject.org/c/s/www.tribuneindia.com/news/science-technology/uk-watchdog-raises-alarm-over-live-face-recognition-tech-271870",
-      "publishedDateTime": "2021-06-27T18:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Tribune",
-        "domain": "tribuneindia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-28-a-company-that-uses-ai-to-fight-malaria-just-won-the-ibm-watson-ai-xprize-competition.md",
-      "title": "A Company That Uses AI To Fight Malaria Just Won The IBM Watson AI XPrize Competition",
-      "excerpt": "Zzapp Malaria, a company that uses artificial intelligence (AI) to fight malaria just won the grand prize in one of the toughest technology competitions to date. The competition is a joint venture between XPrize,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/saibala/2021/06/27/a-company-that-uses-ai-to-fight-malaria-just-won-the-ibm-watson-ai-xprize-competition/",
-      "originalUrl": "https://www.forbes.com/sites/saibala/2021/06/27/a-company-that-uses-ai-to-fight-malaria-just-won-the-ibm-watson-ai-xprize-competition/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 127,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60d921bbc64aa2e4426c2abd%2F0x0.jpg",
-          "width": 1024,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/saibala/2021/06/27/a-company-that-uses-ai-to-fight-malaria-just-won-the-ibm-watson-ai-xprize-competition/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/saibala/2021/06/27/a-company-that-uses-ai-to-fight-malaria-just-won-the-ibm-watson-ai-xprize-competition/amp/",
-      "publishedDateTime": "2021-06-27T18:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "IBM AI"
       ]
     }
   ],

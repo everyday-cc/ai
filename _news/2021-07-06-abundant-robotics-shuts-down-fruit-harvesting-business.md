@@ -4,10 +4,10 @@ title: "Abundant Robotics shuts down fruit harvesting business"
 excerpt: "Abundant Robotics, which was developing a robot to pick apples, closed its business after spinning out of SRI International in 2016."
 publishedDateTime: 2021-07-06T14:26:00Z
 originalUrl: "https://www.therobotreport.com/abundant-robotics-shuts-down-fruit-harvesting-business/"
-webUrl: "https://www.therobotreport.com/abundant-robotics-shuts-down-fruit-harvesting-business/"
+webUrl: "https://www.hortidaily.com/article/9337223/us-fruit-harvesting-robot-company-shuts-down/"
 type: article
-quality: 84
-heat: 94
+quality: 184
+heat: 194
 published: true
 
 provider:
@@ -15,13 +15,13 @@ provider:
   domain: therobotreport.com
 
 topics:
-  - AI in Robotics
   - AI
+  - AI in Robotics
 
 images:
-  - url: "https://www.therobotreport.com/wp-content/uploads/2021/07/abundant-robotics-shuts-down.jpg"
-    width: 1128
-    height: 500
+  - url: "https://www.hortidaily.com/remote/https/agfstorage.blob.core.windows.net/misc/HD_com/2021/07/07/appel.jpg?preset=OgImage"
+    width: 1200
+    height: 630
     isCached: true
 
 related:
@@ -37,6 +37,6 @@ related:
       domain: openpr.com
     quality: 39
 
-secured: "AwlnetbL1zLc+LdLV3WhMFv4Qm65JZzjJJ8loFV1bY/20A3CHpEPq1+Ga8zHzWMGd7nV+vNWpXkJ8oZdme3XGManQxthVP4rYUNjs+hAl6TN8/8XQT+gU4WSclTIIK84D+/oz9MwIbLX2h4HXOJKCEk/wsXHj0bWXZxk/c4HEOjqviMX4NveVMNRZey9m/DmevAOAoRtd2JuWiEEW1lHDpFlggiCHnLvynrCNXZ0dWL9SMYpxDae6EtZgjYi2VEDam+T2ciVgMFYeulnGcNs6Gy1+vztf2yy5VniXe4EGvLsAhbpc+eb1uKusOOF0owyNNEgh8tGYd2SXgAwTBuwSvTz6cKFz6+i6xxhSlusm4WxASE7gd6YW3lWdTHxBnGklp7AmWwaz43KwjqRgrz/B3Of+E7UJFnmh9lLzUJLNqB3+tjFeembZffy0ZjWHuzFt3OWqTEz6O7d8OMAAvT0gpGmn1OKQ9nW++Uozlhw+HSv4Fj3Ul7kLZohUODq+5eCC/BMFCfmvMhk4XUmpMR/Ig==;QNc1RtY0EdGSHnnAji7/GQ=="
+secured: "YjXRErv82BoIbw5/52Nb6H8Ily+JIbWE8vQEGGlTYLKwAy0kLZ5LpfNeWc+u6DDfQUQA+a/S6pAsrCkvHwhIRRyliajxxNDMvnpjdxucdxkdnJhHpfWbnqV+P0Fh8I6abcrJbSXQxHJtCZYpQ3t6Nn6onbrT42BxRQUmqscotgWebdT11uUr3pNjX5fBWi//0i0EB/AQe6351Zh0sPxG3vLrKozZfGJDbSGVagBBzw2lL7AGC2E2ZqXW18p4Kshy460bH7cDxB503q2nqhy/jlLHs0UKJsRhH2CtyEp9DmejsINDHGAJaD8BUy/eTfnyhcjSOvzMqYEMd4xlQWzX8cDYvgL8tj5TAjDIqT4lnBE=;z/+TkqghS+MY+6ZjhJQq2g=="
 ---
 

@@ -39,6 +39,15 @@ related:
         width: 1120
         height: 630
         isCached: true
+  - title: "Alzheimer's Disease Researchers Release Free Memory Tracking App"
+    excerpt: "Leucadia Therapeutics Inc, a California HealthTech Company, is launching 8 Apps that help exercise memory and cognition, including"
+    publishedDateTime: 2021-07-09T19:30:00Z
+    webUrl: "https://www.prnewswire.com/in/news-releases/alzheimer-s-disease-researchers-release-free-memory-tracking-app-829093138.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 4
 
 secured: "zoUCfWAt4Te+6NwUU4PXpiCY5UZwCIMC4VzC0/ar37AgWjFKOYO1Js6fxfCKd86LX/Lz10882HfXzMRGOugXhyit/HX7Mh2sJt8+be/bdeh0E07DZrPd3G95VRXoGahFO06aDk2fMkILl2ibeu0W8zu6xbFxQAdm6XOgzE7v0aihmPWACwgqqYHu9tZsJAMv7q9jKIot5ZceQY9SLCe6bT+nYcsPj5tiP7vHNqAGdRNF5Brmxk0b4MNHqC+fgPqNpT0k7GlISQJMO6F+lEk7dR+ZdEs7Fl7ajO1sTZOEBp4BZmBE+H+xKpPGLh2Tsw162zw/EVDJvVMUnPhHfcjJXKNMQHQbDz+zHM+Lw2nDY70=;sYP4IEeD1EWm7bROgWPVaw=="
 ---

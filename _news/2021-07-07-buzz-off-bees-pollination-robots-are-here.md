@@ -47,20 +47,6 @@ related:
         width: 1200
         height: 702
         isCached: true
-  - title: "How AI-Powered Robots are Helping the Food Industry"
-    excerpt: "Human staff plays an integral role in the food robotics evolution. AI-powered robots will bring the future of highly personalized, healthy, fresh, and delicious food options to life. Thanks in large part to pandemic pressures,"
-    publishedDateTime: 2021-07-07T17:26:00Z
-    webUrl: "https://www.qsrmagazine.com/outside-insights/how-ai-powered-robots-are-helping-food-industry"
-    type: article
-    provider:
-      name: QSR magazine
-      domain: qsrmagazine.com
-    quality: 54
-    images:
-      - url: "https://www.qsrmagazine.com/sites/default/files/styles/story_page/public/2021-07/restaurantkitchen.jpg?itok=neeOD7GI"
-        width: 765
-        height: 446
-        isCached: true
 
 secured: "oU8ea0Ku44d7yOCwFC+ZAetuAB7LzDkBL8M0f0Fi9W6ANv9hHsQcXOg1kqUiD/A+j/X9jv5qRI4nRUVEtmNKMUCVKkpuD4YqopQQkrUDX//McMi6koiOU6oZXjaMp1RP0PUzeVup0r/ASvJf3gsU+29fZAJrMNo+vtJmdkjP1nf1WYumG1Uo8mHH4jhx4xUNGjpFRXYvFZGwomBx3jKLX2zGMJIW2FD66y29MOXWK1c9RyDttFKQn/R560/NBBmbAvndybPV3EzuHOQv8UCNAv1GOjDARYD0XsqAO6T/6WXa8S5tHmkiBhW7UZvoEUbL0n51+8h0pXPCV08QVSQ/ODq1n3g8rTyWyAy9Z1imfSYsYNpvOz1kAD3Vw3UKPLKHG9xgvssYOYSzeC+PiaN3SRXvkyaYwwIzQX4Tf4+/lE/2oNE4AE041ZXYeVaWCy0hZcIWtx9lyp+zipHOksB1rA9I+DFwgpfLJWHZ0BUXqhDLMUPF5Ca8k8PGj3I3JMDhLUZaJnPvcZrmw9Lb3GJb2A==;8JJhakO4J09mRDpkOjA8AA=="
 ---

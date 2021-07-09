@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-06-03-why-ai-powered-creative-is-the-most-important-change-in-advertising-development-history.md",
+      "title": "Why AI Powered Creative Is The Most Important Change In Advertising Development History",
+      "excerpt": "AI powered creative takes the guesswork out of advertising development. Brands can test infinite combinations of advertising copy, visuals, music and calls to action at the micro-targeting level.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/michellegreenwald/2021/06/03/why-ai-powered-creative-is-the-most-important-change-in-advertising-development-history/",
+      "originalUrl": "https://www.forbes.com/sites/michellegreenwald/2021/06/03/why-ai-powered-creative-is-the-most-important-change-in-advertising-development-history/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60b8b4a93b665e5c4903315b%2F0x0.jpg",
+          "width": 1200,
+          "height": 460,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/michellegreenwald/2021/06/03/why-ai-powered-creative-is-the-most-important-change-in-advertising-development-history/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/michellegreenwald/2021/06/03/why-ai-powered-creative-is-the-most-important-change-in-advertising-development-history/amp/",
+      "publishedDateTime": "2021-06-03T05:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-02-ibm-ai-tool-reduces-monotonous-work-tasks.md",
       "title": "IBM AI Tool Reduces Monotonous Work Tasks",
       "excerpt": "Watson Orchestrate is designed to drive adoption of IBM’s hybrid cloud and AI solutions. Looking back, IBM was the first vendor to roll out a commercial AI product with Watson, but since then, it’s lost that leadership position to AWS, Google, Microsoft, and almost everyone else.",
@@ -1390,50 +1442,6 @@
       "topics": [
         "IBM AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-11-ibm-builds-new-hybrid-cloud-ai-capabilities-to-help-clients-go-digital.md",
-      "title": "IBM builds new hybrid cloud, AI capabilities to help clients go digital",
-      "excerpt": "A new IBM study on the adoption of AI for business revealed that the imperative to embed AI into business processes became more urgent during the pandemic",
-      "sourceUrl": null,
-      "webUrl": "https://www.livemint.com/companies/news/ibm-builds-new-hybrid-cloud-ai-capabilities-to-help-clients-go-digital-11620707458307.html",
-      "originalUrl": "https://www.livemint.com/companies/news/ibm-builds-new-hybrid-cloud-ai-capabilities-to-help-clients-go-digital-11620707458307.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.livemint.com/img/2021/05/11/600x338/2021-04-20T023824Z_1_LYNXMPEH3J02R_RTROPTP_3_IBM-RESULTS_1618938474492_1620708031821.JPG",
-          "width": 600,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.livemint.com/companies/news/ibm-builds-new-hybrid-cloud-ai-capabilities-to-help-clients-go-digital/amp-11620707458307.html",
-      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/companies/news/ibm-builds-new-hybrid-cloud-ai-capabilities-to-help-clients-go-digital/amp-11620707458307.html",
-      "publishedDateTime": "2021-05-10T21:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mint",
-        "domain": "livemint.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "IBM AI"
       ]
     }
   ],

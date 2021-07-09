@@ -85,6 +85,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Robot Operating System Market Size 2021 by Company, Product introduction, Products Sales Volume, Revenue, Price and Gross Margin to 2030"
+    excerpt: "In a recent published report, Kenneth Research has updated the market report for Robot Operating System Market for"
+    publishedDateTime: 2021-07-09T17:02:00Z
+    webUrl: "https://www.marketwatch.com/press-release/robot-operating-system-market-size-2021-by-company-product-introduction-products-sales-volume-revenue-price-and-gross-margin-to-2030-2021-07-09"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 53
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence in Telecommunication Market Size Insight Report 2021 to 2030 by Types, End Users and Regions with Analysis"
     excerpt: "Jul 09, 2021 (AmericaNewsHour) -- In a recent published report, Kenneth Research has updated the market report for Artificial Intelligence in Telecommunication Market for 2021 till 2030. Report further now discusses; the various strategies to be adopted or ..."
     publishedDateTime: 2021-07-09T14:57:00Z

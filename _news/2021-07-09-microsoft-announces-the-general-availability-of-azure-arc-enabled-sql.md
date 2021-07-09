@@ -3,8 +3,8 @@ category: news
 title: "Microsoft Announces the General Availability of Azure Arc-Enabled SQL"
 excerpt: "Microsoft announced the general availability as per the end of July of Azure Arc-enabled SQL, which extends the Azure SQL instances to be hosted on an edge data center or in a multi-cloud environment."
 publishedDateTime: 2021-07-09T11:26:00Z
-originalUrl: "https://www.infoq.com/news/2021/07/azure-arc-enabled-sql/?topicPageSponsorship=6aaab273-89f6-4eaf-91d0-e6130b52e83f"
-webUrl: "https://www.infoq.com/news/2021/07/azure-arc-enabled-sql/?topicPageSponsorship=6aaab273-89f6-4eaf-91d0-e6130b52e83f"
+originalUrl: "https://www.infoq.com/news/2021/07/azure-arc-enabled-sql/?topicPageSponsorship=2888c1db-c3be-4248-b672-7cad0fa75c10"
+webUrl: "https://www.infoq.com/news/2021/07/azure-arc-enabled-sql/?topicPageSponsorship=2888c1db-c3be-4248-b672-7cad0fa75c10"
 type: article
 quality: 69
 heat: -1
@@ -113,16 +113,14 @@ related:
         height: 400
         isCached: true
   - title: "Blue Prism & Lateetud, Inc. recognized as finalists of the 2021 Microsoft AI Partner of the Year"
-    excerpt: "Blue Prism and Lateetud created a turnkey, cloud-delivered solution on Azure to automate SBA PPP loans, combining Blue Prism's intelligent automation platform with the Microsoft Power Platform and Azure Cognitive Services. The solution uses Azure Form ..."
-    publishedDateTime: 2021-07-08T19:40:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/21/07/n21904040/blue-prism-lateetud-inc-recognized-as-finalists-of-the-2021-microsoft-ai-partner-of-the-year"
-    ampWebUrl: "https://www.benzinga.com/amp/content/21904040"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/21904040"
+    excerpt: "LONDON and AUSTIN, Texas and WASHINGTON, July 8, 2021 /PRNewswire/ -- Blue Prism® and Lateetud today announced that their joint solution has been"
+    publishedDateTime: 2021-07-08T21:05:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/blue-prism-lateetud-inc-recognized-as-finalists-of-the-2021-microsoft-ai-partner-of-the-year-1030591185"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 41
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 51
   - title: "Deep Learning Market Size and Growth to 2028 | Key Players – Amazon Web Services (AWS), Google, IBM, Intel, Micron Technology, Microsoft"
     excerpt: "The Deep Learning Market report forecasts promising growth and development for the period 2021-2028. The Deep Learning market research report defines key statistical data presented in an organized format including graphs,"
     publishedDateTime: 2021-07-06T03:55:00Z
@@ -155,15 +153,6 @@ related:
       name: manometcurrent.com
       domain: manometcurrent.com
     quality: 29
-  - title: "Deep Learning Software Market Size and Growth to 2028 | Key Players – Microsoft, Express Scribe, Nuance, Google, IBM, AWS"
-    excerpt: "The Deep Learning Software Market report forecasts promising growth and development for the period 2021-2028. The Deep Learning Software market research report defines key statistical data presented in an organized format including graphs,"
-    publishedDateTime: 2021-07-05T02:51:00Z
-    webUrl: "https://manometcurrent.com/deep-learning-software-market-size-and-growth-to-2028-key-players-microsoft-express-scribe-nuance-google-ibm-aws/"
-    type: article
-    provider:
-      name: manometcurrent.com
-      domain: manometcurrent.com
-    quality: 28
   - title: "Call Center AI Market May Set Huge Growth by 2026 | IBM, Google, Microsoft, Oracle"
     excerpt: "The latest study released on the Global Call Center AI Market by AMA Research evaluates market size, trend, and forecast to 2026. The Call Center AI market study covers significant research data and proofs to be a handy resource document for managers,"
     publishedDateTime: 2021-07-05T18:46:00Z
@@ -219,6 +208,6 @@ related:
       domain: tmcnet.com
     quality: 14
 
-secured: "r7r+zPYYWV+BDLTbKxpcATPq6wgrZfb84jgmtkMglOoSlLQDTqbHtfuQzVvV/N6J8ktmILWg+izDTfldADaLWj5OCz+mISooT0yJcmOPHRR/ClPOd+m04oYpWdjtmupQxbZIpmEipn/xc0oypy+ekGF92a5le8Ka56wlr9oVNp5brESUPDps5yfc2Us3ecfTjCfT/Yf9U9IDgscgqNTfrWM7IXOo6YBohMsO7hK2keO6UBZ4kY/5hwa4MXWJXGfTYBg1rhSHisdAYCJRwFIIHrQG29RYcX8zvkul2e9IEWJVAQAVn61uJLJf1BzCeEBMZ6hDTz0vOhQ8DeDfFTt5yv+uJ6Ef8nCTriwkGi821j0=;rCcBWHtBKjbbZzH7kXTJdA=="
+secured: "rpIuDER8IZX78j4wAzr21BLl1XolUJekABkM3R7rRRVAy2NOQct35+b2jaL+rVnNZkKKMMZO8Rpl4dMe+nlJBZIpeMqrWspO56CG8X6UmNy94fR6Nck0slqQX89vp1hiMHehWqSWrHmjJfW3VGrYLGqDhibe+khXS9aYLZFBxlnSeitK8xeR483KpRbhtfQH/1uaax7ywwQjMjbthSI3mUtP8CaIx0t62oRg76F3AnY5thsOOfbGWhQpHRjGDGdldhYAdlgCw9XQ0q0PU83G6zexAwqNwqOd5POQ4TZuiZUkkITiD+oWral7G3O7DNmBB0mis2EzrHTnqelAoESlBA62Kh8GslodPEN6TOqEKuM=;6BtV3LbRfqHIVjOiMC3hnA=="
 ---
 

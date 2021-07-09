@@ -7,8 +7,8 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/deploy-shadow-ml-mod
 webUrl: "https://aws.amazon.com/blogs/machine-learning/deploy-shadow-ml-models-in-amazon-sagemaker/"
 type: article
 quality: 106
-heat: 136
-published: true
+heat: -1
+published: false
 
 provider:
   name: AWS
@@ -30,6 +30,20 @@ images:
     isCached: true
 
 related:
+  - title: "Dynamic A/B testing for machine learning models with Amazon SageMaker MLOps projects"
+    excerpt: "In this post, you learn how to create a MLOps project to automate the deployment of an Amazon SageMaker endpoint with multiple production variants for A/B testing. You also deploy a general purpose API and testing infrastructure that includes a multi-armed bandit experiment framework. This testing infrastructure"
+    publishedDateTime: 2021-07-09T18:07:35Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/dynamic-a-b-testing-for-machine-learning-models-with-amazon-sagemaker-mlops-projects/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 114
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/06/23/14-3239-Architecture.jpg"
+        width: 800
+        height: 440
+        isCached: true
   - title: "Bring your own model with Amazon SageMaker script mode"
     excerpt: "As the prevalence of machine learning (ML) and artificial intelligence (AI) grows, you need the best mechanisms to aid in the experimentation and development of your algorithms. You might begin with the several built-in algorithms in Amazon SageMaker that simply require you to point the algorithm at"
     publishedDateTime: 2021-07-06T20:02:19Z

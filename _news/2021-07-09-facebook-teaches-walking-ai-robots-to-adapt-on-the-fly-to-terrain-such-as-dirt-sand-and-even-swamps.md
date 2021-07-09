@@ -26,6 +26,36 @@ images:
     isCached: true
 
 related:
+  - title: "Facebook teaches AI-powered robot to adapt while walking"
+    excerpt: "The four-legged robot resembles a dog walking over sand, rocks and other difficult surfaces. As it moves forward, the black robot adjusts its stride and adapts without falling.  Teaming up with Carnegie Mellon University's School of Computer Science and the University of California,"
+    publishedDateTime: 2021-07-09T12:00:13Z
+    webUrl: "https://www.cnet.com/news/facebook-teaches-ai-powered-robot-to-adapt-while-walking/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/facebook-teaches-ai-powered-robot-to-adapt-while-walking/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/facebook-teaches-ai-powered-robot-to-adapt-while-walking/"
+    type: article
+    provider:
+      name: cnet.com/news/facebook-teaches-ai-powered-robot-to-adapt-while-walking/
+      domain: cnet.com/news/facebook-teaches-ai-powered-robot-to-adapt-while-walking/
+    quality: 174
+    images:
+      - url: "https://www.cnet.com/a/img/iAIGEalDuoiDn3gwEVgLxEHOMek=/1200x630/2021/07/08/7bb81b3f-e294-4989-bd8a-5c5d7b0fc7d5/gettyimages-1262875305.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "AI Gives Robots More Room to Roam"
+    excerpt: "Researchers have come up with a two-tier set of AI techniques that allowed their four-legged machine to negotiate varying terrain like sand, stairs, slippery surfaces and more without falling."
+    publishedDateTime: 2021-07-09T11:00:00Z
+    webUrl: "https://www.wsj.com/articles/ai-gives-robots-more-room-to-roam-11625832001"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 84
+    images:
+      - url: "https://images.wsj.net/im-366611/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Facebook Robots Are Getting Smarter, Watch Them In The Wild (Video)"
     excerpt: "Facebook has been training robots to think for themselves. Its chief AI scientist Yann LeCun explains why with a video that shows what robots can do when left to their own devices."
     publishedDateTime: 2021-07-09T12:00:00Z
@@ -42,6 +72,48 @@ related:
         width: 756
         height: 426
         isCached: true
+  - title: "AI Allows Legged Robots To Adapt in Real-Time to Changing Conditions"
+    excerpt: "Researchers from Carnegie Mellon University, the University of California, Berkeley, and Facebook AI didn't just teach a robot to walk — they taught it how to learn to walk."
+    publishedDateTime: 2021-07-09T12:30:00Z
+    webUrl: "https://www.cs.cmu.edu/news/ai-allows-legged-robots-adapt-real-time-changing-conditions"
+    type: article
+    provider:
+      name: cmu.edu
+      domain: cmu.edu
+    quality: 56
+    images:
+      - url: "https://www.cs.cmu.edu/sites/default/files/web_rma%20003.jpg"
+        width: 600
+        height: 423
+        isCached: true
+  - title: "How AI-Powered Robots are Helping the Food Industry"
+    excerpt: "Human staff plays an integral role in the food robotics evolution. AI-powered robots will bring the future of highly personalized, healthy, fresh, and delicious food options to life. Thanks in large part to pandemic pressures,"
+    publishedDateTime: 2021-07-07T17:26:00Z
+    webUrl: "https://www.qsrmagazine.com/outside-insights/how-ai-powered-robots-are-helping-food-industry"
+    type: article
+    provider:
+      name: QSR magazine
+      domain: qsrmagazine.com
+    quality: 54
+    images:
+      - url: "https://www.qsrmagazine.com/sites/default/files/styles/story_page/public/2021-07/restaurantkitchen.jpg?itok=neeOD7GI"
+        width: 765
+        height: 446
+        isCached: true
+  - title: "Facebook Introduces Two Datasets To Democratise Conversational AI"
+    excerpt: "Facebook AI has shared new research and two new datasets– TOPv2; and MTOP– to help develop sophisticated and effective Conversational AI systems. According to a Deloitte report, the Conversational AI market is projected to increase from AUD 6 billion in 2019 to AUD 22."
+    publishedDateTime: 2021-07-07T05:30:00Z
+    webUrl: "https://analyticsindiamag.com/facebook-introduces-two-datasets-to-democratise-conversational-ai/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 39
+    images:
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/07/facebook-NLU.jpg"
+        width: 1000
+        height: 668
+        isCached: true
   - title: "Facebook Is Teaching Robots to Adapt to Any Environment in Real-Time"
     excerpt: "We’ve seen robots that can dance, climb stairs, and even fetch beer, but they are usually programmed to do these tricks. Well, a team of researchers from Facebook (yes, you read that right) has developed a new model for robotic locomotion that allows legged robots to adapt to any environment in a matter of seconds,"
     publishedDateTime: 2021-07-09T14:40:00Z
@@ -55,6 +127,20 @@ related:
       - url: "https://s1.cdn.autoevolution.com/images/news/facebook-is-teaching-robots-to-adapt-in-real-time-to-any-environment-165041_1.jpg"
         width: 1269
         height: 645
+        isCached: true
+  - title: "Facebook AI Innovation Summit: Habitat 2.0, a simulator to help robots in domestic tasks"
+    excerpt: "On June 30th, the Facebook AI Innovation Summit, an annual event of Facebook AI Research (FAIR) in Europe, took place. It was an opportunity for Facebook’s research subsidiary to present its latest innovations around the following theme: “Building a ..."
+    publishedDateTime: 2021-07-07T12:14:00Z
+    webUrl: "https://www.actuia.com/english/facebook-ai-innovation-summit-habitat-2-0-a-simulator-to-help-robots-in-domestic-tasks/"
+    type: article
+    provider:
+      name: Actu IA
+      domain: actuia.com
+    quality: 30
+    images:
+      - url: "https://www.actuia.com/wp-content/uploads/2021/07/Habitat.jpg"
+        width: 800
+        height: 400
         isCached: true
   - title: "Facebook Wants a Monopoly on Human Connection"
     excerpt: "Facebook’s formal mission statement is to “give ... The company publishes much of its artificial intelligence research on a special blog. Much of the work concerns training machines to avoid bias. “Some common statistical notions of fairness may ..."
@@ -80,6 +166,6 @@ related:
       domain: theaustralian.com.au
     quality: 4
 
-secured: "N7zSnsZpEkGSOlO2bOGHQ/tdVm72uKyZfgtl6sCKRZF9XC6iALTjzUFUXe+xnieNYVvGOTIrgxcT4akDtz64GNgBwULWcklmveipfUiayHxK8CG8a50eEXH4yXG9QgAe4hYXiahkAEonEZSfnV9Fr0Dv3EmUQkA/r/8d8EteircC9LMCADjNTh0tGJWC2Df0K60TboI9uB1h8Ux/aNR8f0EY/hAsFMDlpmiF0tgQ4Lq686pNvshKHK1hv7PM0TFXN95lgGk7Fv9heEwbX5coAMnKC/vYJstkY8vm25OsglJJh/ktXWkHwjeXD8BemZEjTIiWisoSIPAMKhRLW95woNF/OqTVafhftev2IuR7dHo=;PJ8vC+bieBkLuGf7UMcLXQ=="
+secured: "1rL/I0U2K2st1ECej/oDQ/BZCVT8Er1pM01eVm/anG0YdWXa0sOSE54cuuhBj7JhJKxbtMRfRbzEDGyf6eYaDO4TLBaaJH9PrbGyFlY3YY0skDJvdPbrZuz8aJv17lN4vskkDEYaEeNTqzxY/3hGoQtDCDx3YkyLB4XYqg8yXI4V7ZVeDKwuO+qkdHIN9jvzXb1A40AdRnnfT3tPhlPbOb9FLyOfP5FFVTvAdo/2FxSllJCE/ZDVNAUJqzbbEBPLQL1GLLI0Y/3up0GSOQunzXzll35bWqjfr9ddYLvmA44kaRRdLetd1lpQPbfkQ7InNFUkyN9qI/YUaRmxMFs7c4Bw6FIXQ+1Y35IRK4gPjd7lCndjqCWSFUGCtjs4VRFzyWzl/IOh/gJMjSrgrmF4Rpy5xcIBXQ6xHFw+bRFgd1/sYnHt5VGUipILFykVPvZ9WzLvVIp18me0n48re43w0I08eUfFKhfnp2/W6JUnv1Rq43id7vErsaVgTg38ILUGmz0fphxtZQ+kyNQIgVMTfA==;rIRLoSMTlPOqTSoXJajrEw=="
 ---
 

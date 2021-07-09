@@ -2,6 +2,326 @@
   "page": 37,
   "value": [
     {
+      "path": "_news/2021-06-10-crypto-mining-hackers-hit-kubernetes-clusters.md",
+      "title": "Crypto mining hackers hit Kubernetes clusters",
+      "excerpt": "Security researchers have warned of hackers ' continued attacks against Kubernetes clusters running Kubeflow machine learning (ML) instances by installing malicious containers that mine cryptocurrencies,",
+      "sourceUrl": null,
+      "webUrl": "https://www.itpro.co.uk/technology/cryptocurrencies/359840/crypto-mining-hackers-hit-kubernetes-clusters",
+      "originalUrl": "https://www.itpro.co.uk/technology/cryptocurrencies/359840/crypto-mining-hackers-hit-kubernetes-clusters",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1570815742/itpro/2018/01/bitcoin_mining_cryptocurrency.jpg",
+          "width": 1260,
+          "height": 710,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.itpro.co.uk/technology/cryptocurrencies/359840/crypto-mining-hackers-hit-kubernetes-clusters?amp",
+      "cdnAmpWebUrl": "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/technology/cryptocurrencies/359840/crypto-mining-hackers-hit-kubernetes-clusters?amp",
+      "publishedDateTime": "2021-06-10T07:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT Pro",
+        "domain": "itpro.co.uk",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/itpro.co.uk-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-10-gpu-as-a-service-market-comprehensive-analysis-growth-forecast-from-2019-to-2025.md",
+      "title": "GPU as a Service Market Comprehensive Analysis, Growth Forecast from 2019 to 2025",
+      "excerpt": "Selbyville, Delaware Market Study Report LLC has added a new report on GPU as a Service market that provides a comprehensive review of this industry with respect to the driving forces influencing the market size.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/gpu-as-a-service-market-comprehensive-analysis-growth-forecast-from-2019-to-2025-2021-06-10",
+      "originalUrl": "https://www.marketwatch.com/press-release/gpu-as-a-service-market-comprehensive-analysis-growth-forecast-from-2019-to-2025-2021-06-10",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-10T07:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-10-c3ai-ai-partners-snowflake-for-enterprise-ai-applications.md",
+      "title": "C3.ai (AI) Partners Snowflake for Enterprise AI Applications",
+      "excerpt": "C3.ai AI recently announced a partnership with data cloud company, Snowflake SNOW. The partnership aims to integrate the latter’s unique architecture - that enables customers to run their data platforms seamlessly across multiple clouds and regions at scale - with C3 AI’s robust enterprise AI development suite and family of industry-specific enterprise AI applications and deliver next generation Enterprise AI Applications at scale.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/c3.ai-ai-partners-snowflake-for-enterprise-ai-applications-2021-06-10",
+      "originalUrl": "https://www.nasdaq.com/articles/c3.ai-ai-partners-snowflake-for-enterprise-ai-applications-2021-06-10",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/c3.ai-ai-partners-snowflake-for-enterprise-ai-applications-2021-06-10?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/c3.ai-ai-partners-snowflake-for-enterprise-ai-applications-2021-06-10?amp",
+      "publishedDateTime": "2021-06-10T07:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-10-waymo-and-jb-hunt-partner-to-bring-autonomous-trucks-to-texas-in-new-pilot.md",
+      "title": "Waymo and J.B. Hunt partner to bring autonomous trucks to Texas in new pilot",
+      "excerpt": "Waymo will be moving freight for a major customer of transportation logistics company J.B. Hunt Transport Services under what the two companies are calling a “test run” that will take place in one of the country’s busiest trade corridors.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/06/10/waymo-and-jb-hunt-partner-to-bring-autonomous-trucks-to-texas-in-new-pilot/",
+      "originalUrl": "https://techcrunch.com/2021/06/10/waymo-and-jb-hunt-partner-to-bring-autonomous-trucks-to-texas-in-new-pilot/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 266,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/06/waymo-via.png?w=1024",
+          "width": 1024,
+          "height": 512,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/06/10/waymo-and-jb-hunt-partner-to-bring-autonomous-trucks-to-texas-in-new-pilot/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/06/10/waymo-and-jb-hunt-partner-to-bring-autonomous-trucks-to-texas-in-new-pilot/amp/",
+      "publishedDateTime": "2021-06-10T07:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2021-06-10-researchers-win-44-million-in-grants-for-projects-using-ai-to-take-on-climate-change.md",
+      "title": "Researchers win $4.4 million in grants for projects using AI to take on climate change",
+      "excerpt": "The C3.ai Digital Transformation Institute announced on Thursday $4.4 million in awards to researchers using everything from offline reinforcement learning and large-scale simulations to soil samples and seaweed to find solutions to climate change.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/researchers-win-4-4-million-in-grants-for-projects-using-ai-to-solve-climate-change/",
+      "originalUrl": "https://www.techrepublic.com/article/researchers-win-4-4-million-in-grants-for-projects-using-ai-to-solve-climate-change/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 93,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techrepublic.com/a/hub/i/r/2021/02/23/0910be10-29c0-48e4-abbe-4937f7c93ed6/resize/1200x/603a31e7f68e468b2e6d5830fc2ac6d8/istock-1135081245.jpg",
+          "width": 1200,
+          "height": 854,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/researchers-win-4-4-million-in-grants-for-projects-using-ai-to-solve-climate-change/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/researchers-win-4-4-million-in-grants-for-projects-using-ai-to-solve-climate-change/",
+      "publishedDateTime": "2021-06-10T07:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2021-06-10-using-artificial-intelligence-to-personalize-therapy-and-individual-level-of-outcome-prediction.md",
+      "title": "Using Artificial Intelligence to Personalize Therapy and Individual Level of Outcome Prediction",
+      "excerpt": "The MSKCC model was reported on risk stratification of 670 patients treated there with interferon therapy. The IMDC model is based on data from a real-world patient population from multiple ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.medpagetoday.com/reading-room/asco/immunotherapy/93023",
+      "originalUrl": "https://www.medpagetoday.com/reading-room/asco/immunotherapy/93023",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-10T07:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MedPage Today",
+        "domain": "medpagetoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-10-self-driving-technology-company-argo-ai-plans-ipo-within-a-year.md",
+      "title": "Self-driving technology company Argo AI plans IPO within a year",
+      "excerpt": "Shares in Argo AI, which is backed by Ford and Volkswagen Group, could be listed on a stock exchange before 2022 is out.",
+      "sourceUrl": null,
+      "webUrl": "https://www.motorauthority.com/news/1132546_self-driving-technology-argo-ai-ipo",
+      "originalUrl": "https://www.motorauthority.com/news/1132546_self-driving-technology-argo-ai-ipo",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 159,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.hgmsites.net/hug/argo-ai-self-driving-car-prototype_100777433_h.jpg",
+          "width": 1920,
+          "height": 1112,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-10T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Motor Authority",
+        "domain": "motorauthority.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-10-the-reality-of-artificial-intelligence.md",
       "title": "The Reality Of Artificial Intelligence",
       "excerpt": "Fundamentally, it is the science that enables machines to translate, execute and investigate ... and understand data by mimicking human natural language. Of course, there are technologies that enable AI. We live in the era of the internet of things ...",
@@ -844,326 +1164,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-10-bmo-financial-group-selects-aws-as-its-preferred-cloud-provider.md",
-      "title": "BMO Financial Group Selects AWS as Its Preferred Cloud Provider",
-      "excerpt": "One of Canada's largest financial institutions is leveraging AWS to modernize its banking platforms and power its digital transformation into a cloud-first organization",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/21/06/b21504437/bmo-financial-group-selects-aws-as-its-preferred-cloud-provider",
-      "originalUrl": "https://www.benzinga.com/pressreleases/21/06/b21504437/bmo-financial-group-selects-aws-as-its-preferred-cloud-provider",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/21504437",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/21504437",
-      "publishedDateTime": "2021-06-09T21:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-10-bmo-signs-deal-with-amazon-web-services-to-help-digital-shift.md",
-      "title": "BMO Signs Deal With Amazon Web Services to Help Digital Shift",
-      "excerpt": "Bank of Montreal picked Amazon.com Inc.’s web-services division as its preferred cloud provider to help the bank modernize operations and introduce new digital applications.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/news/articles/2021-06-10/bmo-signs-deal-with-amazon-web-services-to-help-digital-shift",
-      "originalUrl": "https://www.bloomberg.com/news/articles/2021-06-10/bmo-signs-deal-with-amazon-web-services-to-help-digital-shift",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iNmtVmGrkNyw/v1/1200x603.jpg",
-          "width": 1200,
-          "height": 603,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-09T21:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-10-is-there-any-way-out-of-clearviews-facial-recognition-database.md",
-      "title": "Is there any way out of Clearview’s facial recognition database?",
-      "excerpt": "In March 2020, two months after The New York Times exposed that Clearview AI had scraped billions of images from the internet to create a facial recognition database, Thomas Smith received a ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.theverge.com/22522486/clearview-ai-facial-recognition-avoid-escape-privacy",
-      "originalUrl": "https://www.theverge.com/22522486/clearview-ai-facial-recognition-avoid-escape-privacy",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.vox-cdn.com/thumbor/yxTnsFejZ0laABjd-brmHztQI70=/0x0:2050x1367/1400x933/filters:focal(861x520:1189x848):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/69427754/VRG_4614_8_ClearviewAI.0.jpg",
-          "width": 1400,
-          "height": 933,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.theverge.com/platform/amp/22522486/clearview-ai-facial-recognition-avoid-escape-privacy",
-      "cdnAmpWebUrl": "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/22522486/clearview-ai-facial-recognition-avoid-escape-privacy",
-      "publishedDateTime": "2021-06-09T19:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Verge",
-        "domain": "theverge.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theverge.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-10-computer-vision-market-2021-corporate-strategy-analysis-competitive-landscape-definition-future-development-status-with-top-20-countries.md",
-      "title": "Computer Vision Market 2021 : Corporate Strategy Analysis, Competitive Landscape, Definition, Future Development Status with Top 20 Countries Data",
-      "excerpt": "Short Description About Computer Vision Market : Computer vision is an interdisciplinary scientific field that deals",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/computer-vision-market-2021-corporate-strategy-analysis-competitive-landscape-definition-future-development-status-with-top-20-countries-data-2021-06-09",
-      "originalUrl": "https://www.marketwatch.com/press-release/computer-vision-market-2021-corporate-strategy-analysis-competitive-landscape-definition-future-development-status-with-top-20-countries-data-2021-06-09",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-09T19:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-10-how-could-we-know-when-a-robot-was-a-moral-patient.md",
-      "title": "How Could We Know When a Robot was a Moral Patient?",
-      "excerpt": "Leverhulme Centre for the Future of Intelligence, University of Cambridge, Cambridge CB2 1SB, United Kingdom There is growing interest in machine ethics in the question of whether and under what circumstances an artificial intelligence would deserve moral ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cambridge.org/core/journals/cambridge-quarterly-of-healthcare-ethics/article/how-could-we-know-when-a-robot-was-a-moral-patient/83AB36D54C4F697C14D5FC6C970B6044",
-      "originalUrl": "https://www.cambridge.org/core/journals/cambridge-quarterly-of-healthcare-ethics/article/how-could-we-know-when-a-robot-was-a-moral-patient/83AB36D54C4F697C14D5FC6C970B6044",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-09T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Cambridge University Press",
-        "domain": "cambridge.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-10-daily-crunch-a-crowded-market-for-exits-and-acquisitions-forecasts-a-hot-ai-summer.md",
-      "title": "Daily Crunch: A crowded market for exits and acquisitions forecasts a hot AI summer",
-      "excerpt": "Hello friends and welcome to Daily Crunch, bringing you the most important startup, tech and venture capital news in a single package.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/06/09/daily-crunch-a-crowded-market-for-exits-and-acquisitions-forecasts-a-hot-ai-summer/",
-      "originalUrl": "https://techcrunch.com/2021/06/09/daily-crunch-a-crowded-market-for-exits-and-acquisitions-forecasts-a-hot-ai-summer/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/04/Generic-WP-Header.png?w=680",
-          "width": 680,
-          "height": 383,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/06/09/daily-crunch-a-crowded-market-for-exits-and-acquisitions-forecasts-a-hot-ai-summer/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/06/09/daily-crunch-a-crowded-market-for-exits-and-acquisitions-forecasts-a-hot-ai-summer/amp/",
-      "publishedDateTime": "2021-06-09T15:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-10-rws-announces-revival-of-language-weaver-brand.md",
-      "title": "RWS Announces Revival of Language Weaver Brand",
-      "excerpt": "CHALFONT SAINT PETER, England–(BUSINESS WIRE)–RWS, the world’s leading provider of technology-enabled language, content management, and intellectual property services, today announces the return of Language Weaver, a pioneering brand in automatic ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.01net.it/rws-announces-revival-of-language-weaver-brand/",
-      "originalUrl": "https://www.01net.it/rws-announces-revival-of-language-weaver-brand/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.01net.it/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png",
-          "width": 735,
-          "height": 552,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.01net.it/rws-announces-revival-of-language-weaver-brand/amp/",
-      "cdnAmpWebUrl": "https://www-01net-it.cdn.ampproject.org/c/s/www.01net.it/rws-announces-revival-of-language-weaver-brand/amp/",
-      "publishedDateTime": "2021-06-09T14:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "01Net",
-        "domain": "01net.it",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

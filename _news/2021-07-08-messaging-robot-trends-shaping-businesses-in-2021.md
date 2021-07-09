@@ -24,16 +24,16 @@ related:
   - title: "Abundant Robotics shuts down fruit harvesting business"
     excerpt: "Abundant Robotics, which was developing a robot to pick apples, closed its business after spinning out of SRI International in 2016."
     publishedDateTime: 2021-07-06T14:26:00Z
-    webUrl: "https://www.therobotreport.com/abundant-robotics-shuts-down-fruit-harvesting-business/"
+    webUrl: "https://www.hortidaily.com/article/9337223/us-fruit-harvesting-robot-company-shuts-down/"
     type: article
     provider:
       name: The Robot Report
       domain: therobotreport.com
-    quality: 84
+    quality: 184
     images:
-      - url: "https://www.therobotreport.com/wp-content/uploads/2021/07/abundant-robotics-shuts-down.jpg"
-        width: 1128
-        height: 500
+      - url: "https://www.hortidaily.com/remote/https/agfstorage.blob.core.windows.net/misc/HD_com/2021/07/07/appel.jpg?preset=OgImage"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "pWGbe9OVSeHRY91kcnLOz8aJajyck2IyyLbqbPluaGIsDAtMkFIXrLbK+AJofI3CpFuvE06ghSQXQEdktaWRRtJvgOxLnO9VJyRKKUYG3C4K8kPGSqsgo/gGFpQLgVhGRqKabg7YeIiuzemF7Ys+n8/jIa+krWsiyIdEZVpApsyYqer3jdW/8Oe5X4eDKsV3cshtArlfxx7FLAIVcyA3lFgPG/Sp1KBO+sk06cGnmWtejuSBbTWB9IkV88t3w4DVj2LSOSEIq2KORz7+gVgNtj7Tep1rh6KCP3xhONctWt2fFuppiVyOgiZL8qzcEyiXjlmmPVMgAb19+bOO+dW0LbXv1ZDa2aeLRcui147OPfs=;WG6st0GPWRZ8xZESkHOANw=="

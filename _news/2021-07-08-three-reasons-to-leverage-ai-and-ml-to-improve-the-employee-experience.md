@@ -7,7 +7,7 @@ originalUrl: "https://www.forbes.com/sites/forbescommunicationscouncil/2021/07/0
 webUrl: "https://www.forbes.com/sites/forbescommunicationscouncil/2021/07/08/three-reasons-to-leverage-ai-and-ml-to-improve-the-employee-experience/"
 type: article
 quality: 84
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -27,6 +27,22 @@ images:
     width: 1156
     height: 770
     isCached: true
+
+related:
+  - title: "Fetcher leverages AI to match employees with suitable roles"
+    excerpt: "Concept: American startup Fetcher.ai (Fetcher) offers an automated recruiting platform to enable companies to hire suitable candidates. Its AI-powered platform can help enterprises to minimize unconscious bias while enhancing the size and scope of diverse talent pools."
+    publishedDateTime: 2021-07-09T17:38:00Z
+    webUrl: "https://www.power-technology.com/research-reports/fetcher-leverages-ai-match-employees-suitable-roles/"
+    type: article
+    provider:
+      name: Power Technology
+      domain: power-technology.com
+    quality: 37
+    images:
+      - url: "https://www.power-technology.com/wp-content/uploads/sites/7/2021/07/technology-5254039_1280.jpg"
+        width: 1280
+        height: 838
+        isCached: true
 
 secured: "YP9JvXSl+JNPSx4MJiy1erBh4l1mgqVEcvzE6G2/N5AlKFeV9MnhFLDHEkUx/gBzX6PUns4kbXNR/tNBGJspO+Xgwytl3MqtG0eI62S6y+OWLMCd++iHG4vBp3KDWI4LPRrDiI4r8VvuJ37uPZjsw+NIOYTfjmmXpcvh3nxPKBa7Belj7bH1HHKrsuLhbePc4B/iwNpIpwDQl78mzILEDHXBzaBiSuhHFYlfLPVH/ulluXqdnO7D24Io+Yf/pX4h1Xv1OMSSGaOrxP2kHL/Z2fSX634jlFicTLd0ViZn+r+XHA1Rk+8hJc/XDMG9xyGmKaAv5Ky+fmSQx8voBMq8yFNDX9IsCnb4GHZmImY1h24sNxaWrNH6IVpQQdl4L8B5kX5MWZJ/dbUqau/c51fWFAh3rPKB4zmpvPPDMz4AwKx7stcHg9toimDEwC7SVJJrfbt283gFGjqN47+V+wd1vJjvXT/B/6LjoIOWzRyisUqujbg+dQXaD0U/Cr5j2IqHRfKx3ekytc5d4469rYxPHQ==;+5qicjjnrapIBFgqPYZVcQ=="
 ---

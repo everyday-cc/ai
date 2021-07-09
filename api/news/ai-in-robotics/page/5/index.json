@@ -2,6 +2,101 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-06-01-humanoid-robot-aims-to-read-and-react-to-human-emotion.md",
+      "title": "Humanoid robot aims to read and react to human emotion",
+      "excerpt": "Researchers from Pisa University in Italy hope that one day Abel will be able to become a home help for people with autism and Alzheimer’s.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wane.com/dont-miss/humanoid-robot-aims-to-read-and-react-to-human-emotion/",
+      "originalUrl": "https://www.wane.com/dont-miss/humanoid-robot-aims-to-read-and-react-to-human-emotion/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.wane.com/wp-content/uploads/sites/21/2021/06/Humanoid-robot-photo.jpg?w=1280",
+          "width": 1280,
+          "height": 719,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wane.com/dont-miss/humanoid-robot-aims-to-read-and-react-to-human-emotion/amp/",
+      "cdnAmpWebUrl": "https://www-wane-com.cdn.ampproject.org/c/s/www.wane.com/dont-miss/humanoid-robot-aims-to-read-and-react-to-human-emotion/amp/",
+      "publishedDateTime": "2021-06-01T08:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wane",
+        "domain": "wane.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-01-which-robot-vacuum-should-you-buy-on-prime-day.md",
+      "title": "Which robot vacuum should you buy on Prime Day?",
+      "excerpt": "Robot vacuums are so handy when it comes to saving us time, and with Amazon Prime Day, you certainly can expect deals on popular models.",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaltrends.com/home/which-robot-vacuum-should-you-buy-on-prime-day/",
+      "originalUrl": "https://www.digitaltrends.com/home/which-robot-vacuum-should-you-buy-on-prime-day/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://icdn.digitaltrends.com/image/digitaltrends/roborock-s7-robot-vacuum-lifestyle.jpg",
+          "width": 1500,
+          "height": 1000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.digitaltrends.com/home/which-robot-vacuum-should-you-buy-on-prime-day/?amp",
+      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/home/which-robot-vacuum-should-you-buy-on-prime-day/?amp",
+      "publishedDateTime": "2021-06-01T07:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Trends",
+        "domain": "digitaltrends.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-01-what-artificial-intelligence-still-cant-do.md",
       "title": "What Artificial Intelligence Still Can’t Do",
       "excerpt": "Modern artificial intelligence is capable of wonders. It can produce breathtaking original content: poetry, prose, images, music, human faces. It can diagnose some medical conditions more accurately than a human physician.",
@@ -1320,111 +1415,6 @@
         "AI",
         "AI in Healthcare",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-05-25-taipei-based-computer-vision-startup-eys3d-gets-7m-series-a.md",
-      "title": "Taipei-based computer vision startup eYs3D gets $7M Series A",
-      "excerpt": "Ys3D Microelectronics, a fabless design house that focuses on end-to-end software and hardware systems for computer vision technology, has raised a $7 million Series A. Participants included ARM IoT Capital,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/05/25/taipei-based-computer-vision-startup-eys3d-gets-7m-series-a/",
-      "originalUrl": "https://techcrunch.com/2021/05/25/taipei-based-computer-vision-startup-eys3d-gets-7m-series-a/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 146,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/05/eYs3D1.png?w=1024",
-          "width": 1024,
-          "height": 448,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/05/25/taipei-based-computer-vision-startup-eys3d-gets-7m-series-a/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/05/25/taipei-based-computer-vision-startup-eys3d-gets-7m-series-a/amp/",
-      "publishedDateTime": "2021-05-25T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2021-05-25-researchers-bring-the-sense-of-touch-to-robotic-prosthetics.md",
-      "title": "Researchers bring the sense of touch to robotic prosthetics",
-      "excerpt": "The human sense of touch is critical to being able to perform many activities of daily living. We take our ability to feel how heavy a cup of hot liquid is and make adjustments without thinking",
-      "sourceUrl": null,
-      "webUrl": "https://www.slashgear.com/researchers-bring-the-sense-of-touch-to-robotic-prosthetics-25674322/",
-      "originalUrl": "https://www.slashgear.com/researchers-bring-the-sense-of-touch-to-robotic-prosthetics-25674322/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.slashgear.com/wp-content/uploads/2021/05/roboarm.jpg",
-          "width": 1500,
-          "height": 760,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.slashgear.com/researchers-bring-the-sense-of-touch-to-robotic-prosthetics-25674322/amp/",
-      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/researchers-bring-the-sense-of-touch-to-robotic-prosthetics-25674322/amp/",
-      "publishedDateTime": "2021-05-25T03:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SlashGear",
-        "domain": "slashgear.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/slashgear.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

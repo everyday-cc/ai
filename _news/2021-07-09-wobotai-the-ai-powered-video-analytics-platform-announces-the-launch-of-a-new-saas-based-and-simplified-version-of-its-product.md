@@ -24,21 +24,33 @@ images:
     isCached: true
 
 related:
-  - title: "Dell Technologies drives convergence of HPC, AI and data analytics with Omnia open source software"
-    excerpt: "Dell Technologies-developed open source Omnia software speeds and simplifies AI and compute-intensive workload deployment and management"
-    publishedDateTime: 2021-07-07T03:33:00Z
-    webUrl: "https://www.dqindia.com/dell-technologies-drives-convergence-hpc-ai-data-analytics-omnia-open-source-software/"
-    ampWebUrl: "https://www.dqindia.com/dell-technologies-drives-convergence-hpc-ai-data-analytics-omnia-open-source-software/amp/"
-    cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/dell-technologies-drives-convergence-hpc-ai-data-analytics-omnia-open-source-software/amp/"
+  - title: "Magic Data Tech announced Launch of Annotator® 5.0, An AI-Assisted Data Annotation Platform"
+    excerpt: "Annotator® 5.0, an independently developed data annotation system, was official launched by Magic Data Tech on July 8, 2021 on World Artificial Intelligence Conference (WAIC) 2021, which is a global gathering and exchange of AI innovation ideas,"
+    publishedDateTime: 2021-07-09T02:55:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/magic-data-tech-announced-launch-of-annotator-5-0-an-ai-assisted-data-annotation-platform-1030591711"
     type: article
     provider:
-      name: Dataquest
-      domain: dqindia.com
-    quality: 45
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 57
     images:
-      - url: "https://www.dqindia.com/wp-content/uploads/2018/07/edge-computing.jpg"
-        width: 850
-        height: 400
+      - url: "https://mma.prnewswire.com/media/1560297/image.jpg"
+        width: 400
+        height: 267
+        isCached: true
+  - title: "Visionary Trio Creates Next Gen Video and Image Annotation Platform for Machine Learning"
+    excerpt: "The Innotescus co-founders spent years building custom software to collect and analyze complex image data to train machine learning algorithms. This development work required lots of annotated ..."
+    publishedDateTime: 2021-07-07T19:36:00Z
+    webUrl: "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1195940&cat=PR News Wire"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 30
+    images:
+      - url: "https://mma.prnewswire.com/media/1551990/Shashank_Chris_Rob.jpg"
+        width: 400
+        height: 267
         isCached: true
 
 secured: "ILRUo4n0hgPPGrqayk3j+ADZsl4CsvhjqJIoT+WQFiPHZa/MYDrgZHhl0os3mj6BPoRnhrxiZ+m0g8+6YK+BpI3NF7g5wdUV36pqvbWS6t2bdxC7dd+R/pInnqfWZMk4eGya+zqskgvp4iUYhsHWiRCSP09HwilbeoQxso3gSlxISELNx7m05tkkbuULKoEYh7exEFMXOpKeBg44GqiZBuvPjDWvqeRGLgErd0zTgH//z2jZm3UeB++ayz6ddx2hi5rXXvQtLVU4+dNL6JZEbzNx/PvKK1OGwbusxJHGxYJzmw8fKG+yt2Chrp4ywhLTYeru2YqVUyfMcYxjVfsifFw8mfBtiOn02I7kgiO2+9JGXBBzfsc7jAbhlRCzY3zTt3fWWl91D77W9mnm8NQCzv/pnNFIrow8VTj/PRpEnX+Df4QBvEsNWLTY/NrA3SOn7Vpm+aLS1ITU9Jduv/WxmhDN273uy7X7KDUUa+ZE2Kd6SYs4luCblcGTV3tN3+iOOSdiKA/1hDZcAm8CLVcMag==;EHEpPoh62+fbrxptMJRrrA=="

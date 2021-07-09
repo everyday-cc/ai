@@ -2,58 +2,6 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2021-07-09-facebook-robots-are-getting-smarter-watch-them-in-the-wild-video.md",
-      "title": "Facebook Robots Are Getting Smarter, Watch Them In The Wild (Video)",
-      "excerpt": "Facebook has been training robots to think for themselves. Its chief AI scientist Yann LeCun explains why with a video that shows what robots can do when left to their own devices.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/martineparis/2021/07/09/facebook-robots-are-getting-smarter-watch-them-in-the-wild-video/",
-      "originalUrl": "https://www.forbes.com/sites/martineparis/2021/07/09/facebook-robots-are-getting-smarter-watch-them-in-the-wild-video/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60e79dd602c7bff56bca0980%2F0x0.jpg%3FcropX1%3D202%26cropX2%3D958%26cropY1%3D0%26cropY2%3D426",
-          "width": 756,
-          "height": 426,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/martineparis/2021/07/09/facebook-robots-are-getting-smarter-watch-them-in-the-wild-video/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/martineparis/2021/07/09/facebook-robots-are-getting-smarter-watch-them-in-the-wild-video/amp/",
-      "publishedDateTime": "2021-07-09T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-07-08-naveen-jains-microbiome-startup-viome-splits-into-consumer-and-research-divisions.md",
       "title": "Naveen Jain’s microbiome startup Viome splits into consumer and research divisions",
       "excerpt": "The startup, which has backing from Salesforce CEO Marc Benioff ... though a recent study found limitations in the evaluation of AI-based devices. In contrast, supplements are not regulated by the FDA. “With many of these platforms you really have ...",
@@ -1428,6 +1376,59 @@
       "topics": [
         "Facebook AI",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-06-facebook-proposes-nethack-as-a-grand-challenge-in-ai-research.md",
+      "title": "Facebook proposes NetHack as a grand challenge in AI research",
+      "excerpt": "Facebook is proposing the '80s game NetHack as a grand challenge in AI and machine learning research, launching a competition at NeurIPS 2021.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/06/09/facebook-proposes-nethack-as-a-grand-challenge-in-ai-research/",
+      "originalUrl": "https://venturebeat.com/2021/06/09/facebook-proposes-nethack-as-a-grand-challenge-in-ai-research/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 131,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/08/facebook-dark-background.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/06/09/facebook-proposes-nethack-as-a-grand-challenge-in-ai-research/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/09/facebook-proposes-nethack-as-a-grand-challenge-in-ai-research/amp/",
+      "publishedDateTime": "2021-06-05T20:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI",
+        "Google AI"
       ]
     }
   ],

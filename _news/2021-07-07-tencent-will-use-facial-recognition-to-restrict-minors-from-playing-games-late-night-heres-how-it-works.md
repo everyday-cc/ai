@@ -277,6 +277,15 @@ related:
         width: 600
         height: 450
         isCached: true
+  - title: "Tencent Uses Facial Recognition on Teenage Gamers"
+    excerpt: "Tencent Games says it has been using facial recognition to enforce China’s rules on how much time people under 18 can spend playing video"
+    publishedDateTime: 2021-07-09T03:09:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/tencent-uses-facial-recognition-on-teenage-gamers-10315991"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 49
   - title: "Tencent Launches Facial Recognition To Curb Late Night Gaming In Minors"
     excerpt: "Chinese gaming giant Tencent has introduced facial recognition tech intended to stop children playing games past 10pm in China."
     publishedDateTime: 2021-07-06T14:20:00Z

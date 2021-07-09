@@ -72,7 +72,7 @@ related:
   - title: "Microsoft Announces the General Availability of Azure Arc-Enabled SQL"
     excerpt: "Microsoft announced the general availability as per the end of July of Azure Arc-enabled SQL, which extends the Azure SQL instances to be hosted on an edge data center or in a multi-cloud environment."
     publishedDateTime: 2021-07-09T11:26:00Z
-    webUrl: "https://www.infoq.com/news/2021/07/azure-arc-enabled-sql/?topicPageSponsorship=6aaab273-89f6-4eaf-91d0-e6130b52e83f"
+    webUrl: "https://www.infoq.com/news/2021/07/azure-arc-enabled-sql/?topicPageSponsorship=2888c1db-c3be-4248-b672-7cad0fa75c10"
     type: article
     provider:
       name: InfoQ
@@ -123,16 +123,14 @@ related:
         height: 400
         isCached: true
   - title: "Blue Prism & Lateetud, Inc. recognized as finalists of the 2021 Microsoft AI Partner of the Year"
-    excerpt: "Blue Prism and Lateetud created a turnkey, cloud-delivered solution on Azure to automate SBA PPP loans, combining Blue Prism's intelligent automation platform with the Microsoft Power Platform and Azure Cognitive Services. The solution uses Azure Form ..."
-    publishedDateTime: 2021-07-08T19:40:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/21/07/n21904040/blue-prism-lateetud-inc-recognized-as-finalists-of-the-2021-microsoft-ai-partner-of-the-year"
-    ampWebUrl: "https://www.benzinga.com/amp/content/21904040"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/21904040"
+    excerpt: "LONDON and AUSTIN, Texas and WASHINGTON, July 8, 2021 /PRNewswire/ -- Blue Prism® and Lateetud today announced that their joint solution has been"
+    publishedDateTime: 2021-07-08T21:05:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/blue-prism-lateetud-inc-recognized-as-finalists-of-the-2021-microsoft-ai-partner-of-the-year-1030591185"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 41
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 51
   - title: "Qlik Recognized as a Finalist of 2021 Microsoft Analytics Partner of the Year Award"
     excerpt: "Qlik ® today announced it has been named a finalist of the 2021 Microsoft Analytics Partner of the Year Award. The company was honored among a global field of top Microsoft partners for demonstrating excellence in innovation and implementation of customer solutions based on Microsoft technology."
     publishedDateTime: 2021-07-08T19:02:00Z
@@ -156,15 +154,6 @@ related:
       name: manometcurrent.com
       domain: manometcurrent.com
     quality: 29
-  - title: "Deep Learning Software Market Size and Growth to 2028 | Key Players – Microsoft, Express Scribe, Nuance, Google, IBM, AWS"
-    excerpt: "The Deep Learning Software Market report forecasts promising growth and development for the period 2021-2028. The Deep Learning Software market research report defines key statistical data presented in an organized format including graphs,"
-    publishedDateTime: 2021-07-05T02:51:00Z
-    webUrl: "https://manometcurrent.com/deep-learning-software-market-size-and-growth-to-2028-key-players-microsoft-express-scribe-nuance-google-ibm-aws/"
-    type: article
-    provider:
-      name: manometcurrent.com
-      domain: manometcurrent.com
-    quality: 28
   - title: "Call Center AI Market May Set Huge Growth by 2026 | IBM, Google, Microsoft, Oracle"
     excerpt: "The latest study released on the Global Call Center AI Market by AMA Research evaluates market size, trend, and forecast to 2026. The Call Center AI market study covers significant research data and proofs to be a handy resource document for managers,"
     publishedDateTime: 2021-07-05T18:46:00Z

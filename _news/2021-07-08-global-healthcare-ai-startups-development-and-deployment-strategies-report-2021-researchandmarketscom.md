@@ -53,20 +53,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "North America Artificial Intelligence in Healthcare Market Size, Share, Growth, Trend, Demand, Top Players, Opportunities and Forecast to 2027"
-    excerpt: "North America artificial intelligence in healthcare market sphere, based on application scope, is divided as medical imaging & diagnosis, drug discovery, therapy planning, wearables, virtual assistants, and hospital workflow optimization. Of these ..."
-    publishedDateTime: 2021-07-05T01:02:00Z
-    webUrl: "https://www.marketwatch.com/press-release/north-america-artificial-intelligence-in-healthcare-market-size-share-growth-trend-demand-top-players-opportunities-and-forecast-to-2027-2021-07-05"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 48
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Global Healthcare Artificial Intelligence Market Size, Status and Forecast 2021-2027"
     excerpt: "Pages Report] Check for Discount on Global Healthcare Artificial Intelligence Market Size, Status and Forecast 2021-2027 report by QYResearch Group. AI in healthcare has huge and wide reaching potential"
     publishedDateTime: 2021-07-09T07:53:00Z

@@ -2,21 +2,21 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2021-07-09-deploy-shadow-ml-models-in-amazon-sagemaker.md",
-      "title": "Deploy shadow ML models in Amazon SageMaker",
-      "excerpt": "Amazon SageMaker helps data scientists and developers prepare, build, train, and deploy high-quality machine learning (ML) models quickly by bringing together a broad set of capabilities purpose-built for ML. SageMaker accelerates innovation within your organization by providing purpose-built tools for",
+      "path": "_news/2021-07-09-dynamic-ab-testing-for-machine-learning-models-with-amazon-sagemaker-mlops-projects.md",
+      "title": "Dynamic A/B testing for machine learning models with Amazon SageMaker MLOps projects",
+      "excerpt": "In this post, you learn how to create a MLOps project to automate the deployment of an Amazon SageMaker endpoint with multiple production variants for A/B testing. You also deploy a general purpose API and testing infrastructure that includes a multi-armed bandit experiment framework. This testing infrastructure",
       "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/deploy-shadow-ml-models-in-amazon-sagemaker/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/deploy-shadow-ml-models-in-amazon-sagemaker/",
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/dynamic-a-b-testing-for-machine-learning-models-with-amazon-sagemaker-mlops-projects/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/dynamic-a-b-testing-for-machine-learning-models-with-amazon-sagemaker-mlops-projects/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 136,
+      "heat": 154,
       "tags": null,
       "images": [
         {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/06/30/ML1688-image003.png",
-          "width": 831,
-          "height": 568,
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/06/23/14-3239-Architecture.jpg",
+          "width": 800,
+          "height": 440,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -26,7 +26,7 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-09T09:59:13-07:00",
+      "publishedDateTime": "2021-07-09T11:07:35-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "AWS",
@@ -63,7 +63,7 @@
       "originalUrl": "https://www.techrepublic.com/article/ai-is-trying-to-prevent-online-shoppers-from-ditching-their-carts/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 97,
       "tags": null,
       "images": [
         {
@@ -212,6 +212,48 @@
       ]
     },
     {
+      "path": "_news/2021-07-09-fact-sheet-executive-order-on-promoting-competition-in-the-american-economy.md",
+      "title": "Fact sheet: Executive order on promoting competition in the American economy",
+      "excerpt": "News Release The White House The economy is booming under President Biden’s leadership. The economy has gained more than three million jobs since the",
+      "sourceUrl": null,
+      "webUrl": "https://www.whitehouse.gov/briefing-room/statements-releases/2021/07/09/fact-sheet-executive-order-on-promoting-competition-in-the-american-economy/",
+      "originalUrl": "https://indiancountrytoday.com/the-press-pool/fact-sheet-executive-order-on-promoting-competition-in-the-american-economy",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.whitehouse.gov/wp-content/uploads/2021/01/wh_social-share-1100x740.png",
+          "width": 1100,
+          "height": 740,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-09T09:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Indian Country Today",
+        "domain": "indiancountrytoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-09-5-fundraising-imperatives-for-robotics-startups.md",
       "title": "5 fundraising imperatives for robotics startups",
       "excerpt": "Fady Saad Contributor Fady Saad is the co-founder and strategic partnerships vice president of MassRobotics, the first and largest robotics/AI startup escalator in the world. Early-stage robotics ...",
@@ -264,21 +306,21 @@
       ]
     },
     {
-      "path": "_news/2021-07-09-facebook-robots-are-getting-smarter-watch-them-in-the-wild-video.md",
-      "title": "Facebook Robots Are Getting Smarter, Watch Them In The Wild (Video)",
-      "excerpt": "Facebook has been training robots to think for themselves. Its chief AI scientist Yann LeCun explains why with a video that shows what robots can do when left to their own devices.",
+      "path": "_news/2021-07-09-facebook-teaches-ai-powered-robot-to-adapt-while-walking.md",
+      "title": "Facebook teaches AI-powered robot to adapt while walking",
+      "excerpt": "The four-legged robot resembles a dog walking over sand, rocks and other difficult surfaces. As it moves forward, the black robot adjusts its stride and adapts without falling.  Teaming up with Carnegie Mellon University's School of Computer Science and the University of California,",
       "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/martineparis/2021/07/09/facebook-robots-are-getting-smarter-watch-them-in-the-wild-video/",
-      "originalUrl": "https://www.forbes.com/sites/martineparis/2021/07/09/facebook-robots-are-getting-smarter-watch-them-in-the-wild-video/",
+      "webUrl": "https://www.cnet.com/news/facebook-teaches-ai-powered-robot-to-adapt-while-walking/",
+      "originalUrl": "https://www.msn.com/en-us/news/technology/facebook-teaches-ai-powered-robot-to-adapt-while-walking/ar-AALXY7A",
       "featuredContent": null,
       "highlight": null,
-      "heat": 114,
+      "heat": 274,
       "tags": null,
       "images": [
         {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60e79dd602c7bff56bca0980%2F0x0.jpg%3FcropX1%3D202%26cropX2%3D958%26cropY1%3D0%26cropY2%3D426",
-          "width": 756,
-          "height": 426,
+          "url": "https://www.cnet.com/a/img/iAIGEalDuoiDn3gwEVgLxEHOMek=/1200x630/2021/07/08/7bb81b3f-e294-4989-bd8a-5c5d7b0fc7d5/gettyimages-1262875305.jpg",
+          "width": 1200,
+          "height": 630,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -286,23 +328,14 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/martineparis/2021/07/09/facebook-robots-are-getting-smarter-watch-them-in-the-wild-video/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/martineparis/2021/07/09/facebook-robots-are-getting-smarter-watch-them-in-the-wild-video/amp/",
-      "publishedDateTime": "2021-07-09T05:00:00-07:00",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/facebook-teaches-ai-powered-robot-to-adapt-while-walking/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/facebook-teaches-ai-powered-robot-to-adapt-while-walking/",
+      "publishedDateTime": "2021-07-09T05:00:13-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "cnet.com/news/facebook-teaches-ai-powered-robot-to-adapt-while-walking/",
+        "domain": "cnet.com/news/facebook-teaches-ai-powered-robot-to-adapt-while-walking/",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -311,8 +344,8 @@
         "news"
       ],
       "topics": [
-        "Facebook AI",
-        "AI"
+        "AI",
+        "AI in Robotics"
       ]
     },
     {
@@ -400,6 +433,57 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-09-oneconnect-impresses-at-world-artificial-intelligence-conference-2021-in-shanghai.md",
+      "title": "OneConnect Impresses at World Artificial Intelligence Conference 2021 in Shanghai",
+      "excerpt": "Leading technology-as-a-service platform provider OneConnect Financial Technology Co., Ltd. (NYSE: OCFT) (\"OneConnect\" or \"the Company\"), an associate company of Ping An Group, recently displayed a lineup of impressive fintech solutions at the (WAIC 2021) held in Shanghai from July 8-10,",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/oneconnect-impresses-at-world-artificial-intelligence-conference-2021-in-shanghai-1030592354",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/oneconnect-impresses-at-world-artificial-intelligence-conference-2021-in-shanghai-1030592354",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1560742/OneConnect_at_World_Artificial_Intelligence_Conference_2021.jpg",
+          "width": 400,
+          "height": 266,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-09T02:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -540,6 +624,108 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-09-magic-data-tech-announced-launch-of-annotator-50-an-ai-assisted-data-annotation-platform.md",
+      "title": "Magic Data Tech announced Launch of Annotator® 5.0, An AI-Assisted Data Annotation Platform",
+      "excerpt": "Annotator® 5.0, an independently developed data annotation system, was official launched by Magic Data Tech on July 8, 2021 on World Artificial Intelligence Conference (WAIC) 2021, which is a global gathering and exchange of AI innovation ideas,",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/magic-data-tech-announced-launch-of-annotator-5-0-an-ai-assisted-data-annotation-platform-1030591711",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/magic-data-tech-announced-launch-of-annotator-5-0-an-ai-assisted-data-annotation-platform-1030591711",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1560297/image.jpg",
+          "width": 400,
+          "height": 267,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-08T19:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-09-worlds-most-advanced-autonomous-research-vehicle-completes-ocean-crossing-from-san-francisco-to-hawaii.md",
+      "title": "World's Most Advanced Autonomous Research Vehicle Completes Ocean Crossing from San Francisco to Hawaii",
+      "excerpt": "The uncrewed, autonomous, Saildrone Surveyor will arrive in Hawaii today after a groundbreaking maiden voyage from San Francisco to Honolulu. While ocean crossings are nothing new for Saildrone's autonomous surface vehicles,",
+      "sourceUrl": null,
+      "webUrl": "https://www.prnewswire.com/news-releases/worlds-most-advanced-autonomous-research-vehicle-completes-ocean-crossing-from-san-francisco-to-hawaii-301328388.html",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/world-s-most-advanced-autonomous-research-vehicle-completes-ocean-crossing-from-san-francisco-to-hawaii-1030591572",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 151,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1560420/Saildrone_Surveyor.jpg?w=950",
+          "width": 950,
+          "height": 634,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-08T16:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/businessinsider.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -763,6 +949,49 @@
       ],
       "topics": [
         "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-09-correcting-and-replacing-artificial-intelligence-leader-datarobot-to-host-morgantown-job-fair-tuesday-713.md",
+      "title": "CORRECTING and REPLACING Artificial Intelligence Leader DataRobot to Host Morgantown Job Fair Tuesday, 7/13",
+      "excerpt": "DataRobot, the leader in Artificial Intelligence, will host a public job fair from 3-7 p.m. at Morgantown’s Erickson Alumni Center on Tuesday, July 13th. In June, DataRobot announced the opening of a new office at Vantage Ventures Morgantown headquarters.",
+      "sourceUrl": null,
+      "webUrl": "https://www.joplinglobe.com/region/national_business/correcting-and-replacing-artificial-intelligence-leader-datarobot-to-host-morgantown-job-fair-tuesday-7-13/article_56b88038-894a-595e-abca-6abaade06353.html",
+      "originalUrl": "https://www.joplinglobe.com/region/national_business/correcting-and-replacing-artificial-intelligence-leader-datarobot-to-host-morgantown-job-fair-tuesday-7-13/article_56b88038-894a-595e-abca-6abaade06353.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.chicago2.vip.townnews.com/joplinglobe.com/content/tncms/custom/image/da68c2f8-c3ab-11e5-94c7-b366ea8ae93c.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-08T12:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Joplin Globe",
+        "domain": "joplinglobe.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
         "AI"
       ]
     },
@@ -1006,221 +1235,6 @@
       "topics": [
         "AI Ethics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-08-democrats-introduce-bill-to-ban-facial-recognition-in-public-housing.md",
-      "title": "Democrats introduce bill to ban facial recognition in public housing",
-      "excerpt": "A group of Democratic lawmakers has introduced a bill that would ban the use of facial recognition technology in public housing.",
-      "sourceUrl": null,
-      "webUrl": "https://www.dailydot.com/debug/facial-recognition-public-housing-bill/",
-      "originalUrl": "https://www.dailydot.com/debug/facial-recognition-public-housing-bill/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://uploads.dailydot.com/2021/07/Facial-Recognition-Public-Housing.jpg?auto=compress%2Cformat&ixlib=php-3.3.0",
-          "width": 2000,
-          "height": 1000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.dailydot.com/debug/facial-recognition-public-housing-bill/?amp",
-      "cdnAmpWebUrl": "https://www-dailydot-com.cdn.ampproject.org/c/s/www.dailydot.com/debug/facial-recognition-public-housing-bill/?amp",
-      "publishedDateTime": "2021-07-08T09:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Daily Dot",
-        "domain": "dailydot.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-08-maine-becomes-first-state-to-pass-broad-government-ban-on-facial-recognition-technology.md",
-      "title": "Maine Becomes First State To Pass Broad Government Ban on Facial Recognition Technology",
-      "excerpt": "Maine's new law is both the strongest and broadest in scope as of yet. The new bill bans the use of facial recognition technology across all levels of state government.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cpomagazine.com/data-privacy/maine-becomes-first-state-to-pass-broad-government-ban-on-facial-recognition-technology/",
-      "originalUrl": "https://www.cpomagazine.com/data-privacy/maine-becomes-first-state-to-pass-broad-government-ban-on-facial-recognition-technology/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cpomagazine.com/wp-content/uploads/2021/07/maine-becomes-first-state-to-pass-broad-government-ban-on-facial-recognition-technology_1500.jpg",
-          "width": 1500,
-          "height": 860,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cpomagazine.com/data-privacy/maine-becomes-first-state-to-pass-broad-government-ban-on-facial-recognition-technology/amp/",
-      "cdnAmpWebUrl": "https://www-cpomagazine-com.cdn.ampproject.org/c/s/www.cpomagazine.com/data-privacy/maine-becomes-first-state-to-pass-broad-government-ban-on-facial-recognition-technology/amp/",
-      "publishedDateTime": "2021-07-08T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CPO Magazine",
-        "domain": "cpomagazine.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-08-openai-warns-ai-behind-githubs-copilot-may-be-susceptible-to-bias.md",
-      "title": "OpenAI warns AI behind GitHub’s Copilot may be susceptible to bias",
-      "excerpt": "Take our AI survey to find out ... While Codex was trained on Microsoft Azure, which OpenAI notes purchases carbon credits and sources “significant amounts of renewable energy,” the company ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/07/08/openai-warns-ai-behind-githubs-copilot-may-be-susceptible-to-bias/",
-      "originalUrl": "https://venturebeat.com/2021/07/08/openai-warns-ai-behind-githubs-copilot-may-be-susceptible-to-bias/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 152,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/01/github-1-e1579720491957.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/07/08/openai-warns-ai-behind-githubs-copilot-may-be-susceptible-to-bias/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/08/openai-warns-ai-behind-githubs-copilot-may-be-susceptible-to-bias/amp/",
-      "publishedDateTime": "2021-07-08T08:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-08-an-ai-for-sea-ice-identification.md",
-      "title": "An AI for sea ice identification",
-      "excerpt": "If you've watched Netflix, shopped online, or run your robot vacuum cleaner, you've interacted with artificial intelligence, AI. AI is what allows computers to comb through an enormous amount of data to detect patterns or solve problems.",
-      "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2021-07-ai-sea-ice-identification.html",
-      "originalUrl": "https://techxplore.com/news/2021-07-ai-sea-ice-identification.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2021/what-kind-of-sea-ice-i.jpg",
-          "width": 1100,
-          "height": 554,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2021-07-ai-sea-ice-identification.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-07-ai-sea-ice-identification.amp",
-      "publishedDateTime": "2021-07-08T08:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techxplore.com",
-        "domain": "techxplore.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-08-best-artificial-intelligence-stocks-to-buy-in-july-2021-3-names-to-know.md",
-      "title": "Best Artificial Intelligence Stocks To Buy In July 2021? 3 Names To Know",
-      "excerpt": "Artificial intelligence (AI ... Notably, the Cambridge-1 will serve to enable top scientists and healthcare experts via a combination of AI and simulation. In turn, this will ideally accelerate the digital biology revolution and bolster the country ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/best-artificial-intelligence-stocks-to-buy-in-july-2021-3-names-to-know-2021-07-08",
-      "originalUrl": "https://www.nasdaq.com/articles/best-artificial-intelligence-stocks-to-buy-in-july-2021-3-names-to-know-2021-07-08",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/best-artificial-intelligence-stocks-to-buy-in-july-2021-3-names-to-know-2021-07-08?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/best-artificial-intelligence-stocks-to-buy-in-july-2021-3-names-to-know-2021-07-08?amp",
-      "publishedDateTime": "2021-07-08T07:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "Natural Language Processing"
       ]
     }
   ],
