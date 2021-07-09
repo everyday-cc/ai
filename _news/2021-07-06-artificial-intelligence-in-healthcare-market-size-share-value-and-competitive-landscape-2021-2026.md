@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-size-share-value-and-competitive-landscape-2021-2026-2021-07-06"
 type: article
 quality: 69
-heat: 129
+heat: 139
 published: true
 
 provider:
@@ -89,6 +89,15 @@ related:
       name: ReportsnReports
       domain: reportsnreports.com
     quality: 24
+  - title: "Global Machine Learning in Automobile Market Size, Status and Forecast 2021-2027"
+    excerpt: "Pages Report] Check for Discount on Global Machine Learning in Automobile Market Size, Status and Forecast 2021-2027 report by QYResearch Group. Machine learning in the automotive industry has a remarkable"
+    publishedDateTime: 2021-07-09T07:52:00Z
+    webUrl: "https://www.reportsnreports.com/reports/4655617-global-machine-learning-in-automobile-market-size-status-and-forecast-2021-2027.html"
+    type: article
+    provider:
+      name: ReportsnReports
+      domain: reportsnreports.com
+    quality: 14
   - title: "Global Conversational AI Market 2021-2026: Competitive Analysis, Impact of COVID-19, Ansoff Analysis - ResearchAndMarkets.com"
     excerpt: "The “Global Conversational AI Market (2021-2026) by Type, Distribution Channel, Application and Geography - Competitive Analysis, Impact of COVID-19, Ansoff Analysis” report has been added to ResearchAndMarkets.com’s offering. The Global ..."
     publishedDateTime: 2021-07-09T09:07:00Z

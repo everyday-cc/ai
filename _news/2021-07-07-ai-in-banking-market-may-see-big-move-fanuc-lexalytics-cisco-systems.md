@@ -7,7 +7,7 @@ originalUrl: "https://manometcurrent.com/ai-in-banking-market-may-see-big-move-f
 webUrl: "https://manometcurrent.com/ai-in-banking-market-may-see-big-move-fanuc-lexalytics-cisco-systems/"
 type: article
 quality: 16
-heat: -1
+heat: 16
 published: false
 
 provider:
@@ -18,20 +18,6 @@ topics:
   - AI
 
 related:
-  - title: "AI powered Video Analytics market to enjoy explosive growth to 2026 | Cisco, Verint, IBM"
-    excerpt: "The AI powered Video Analytics Market has witnessed continuous growth in the past few years and is projected to grow even further during the forecast period (2020-2026). The assessment provides a 360 view and insights,"
-    publishedDateTime: 2021-07-04T17:07:00Z
-    webUrl: "https://manometcurrent.com/ai-powered-video-analytics-market-to-enjoy-explosive-growth-to-2026-cisco-verint-ibm/"
-    type: article
-    provider:
-      name: manometcurrent.com
-      domain: manometcurrent.com
-    quality: 28
-    images:
-      - url: "https://manometcurrent.com/wp-content/uploads/2021/07/AI-powered-Video-Analytics-market.png"
-        width: 660
-        height: 400
-        isCached: true
   - title: "AI In Banking Market Size and Growth to 2028 | Key Players – Intel, Harman International Industries, Cisco Systems, ABB, IBM, Bsh Hausgerte"
     excerpt: "The AI In Banking Market report forecasts promising growth and development for the period 2021-2028. The AI In Banking market research report defines key statistical data presented in an organized format including graphs,"
     publishedDateTime: 2021-07-06T16:42:00Z

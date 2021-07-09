@@ -55,6 +55,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence (AI) in Fintech Market: Ready To Fly on high Growth Trends"
+    excerpt: "Latest Study on Industrial Growth of COVID 19 Outbreak Global Artificial Intelligence AI in Fintech Market 2021 2027 A detailed study accumulated to offer Latest insights about acute features of the COVID 19 Outbreak Artificial Intelligence AI in Fintech market"
+    publishedDateTime: 2021-07-08T08:20:00Z
+    webUrl: "https://www.openpr.com/news/2323847/artificial-intelligence-ai-in-fintech-market-ready-to-fly"
+    ampWebUrl: "https://www.openpr.com/amp/2323847/artificial-intelligence-ai-in-fintech-market-ready-to-fly"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2323847/artificial-intelligence-ai-in-fintech-market-ready-to-fly"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 66
+    images:
+      - url: "https://cdn.openpr.com/U/7/U708590558_g.jpg"
+        width: 750
+        height: 500
+        isCached: true
   - title: "Student finance fintech raises £1.1m in funding"
     excerpt: "StepEx has raised £1.1 million in pre-initial funding, with the venture studio BBVA Anthemis Venture Partnership being the lead investor."
     publishedDateTime: 2021-07-05T12:54:00Z
@@ -198,6 +214,20 @@ related:
       - url: "https://fintechnews.ch/wp-content/uploads/2021/07/The-Swiss-Fintech-Awards-2021-Winners-Are.jpg"
         width: 2048
         height: 1136
+        isCached: true
+  - title: "Demystifying the role of the fintech CFO"
+    excerpt: "This series of articles looks to demystify the various C-level roles within fintech companies today – exploring the career paths taken by top managers, their critical skills, daily responsibilities and challenges,"
+    publishedDateTime: 2021-07-09T11:48:00Z
+    webUrl: "https://www.finextra.com/the-long-read/228/demystifying-the-role-of-the-fintech-cfo"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 24
+    images:
+      - url: "https://www.finextra.com/finextra-images/oped/228.jpg"
+        width: 800
+        height: 450
         isCached: true
   - title: "How to find funding in the fintech space and what the Government can do to support the UK’s position"
     excerpt: "Over the last decade, the UK has been undergoing a fintech revolution seeing increased opportunities in global trade, jobs, and innovation to become the global hub that it is today. Yet for many, the image of fintech is stuck in Shoreditch,"

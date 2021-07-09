@@ -75,6 +75,31 @@ related:
         width: 480
         height: 264
         isCached: true
+  - title: "Microsoft Announces the General Availability of Azure Arc-Enabled SQL"
+    excerpt: "Microsoft announced the general availability as per the end of July of Azure Arc-enabled SQL, which extends the Azure SQL instances to be hosted on an edge data center or in a multi-cloud environment."
+    publishedDateTime: 2021-07-09T11:26:00Z
+    webUrl: "https://www.infoq.com/news/2021/07/azure-arc-enabled-sql/"
+    type: article
+    provider:
+      name: InfoQ
+      domain: infoq.com
+    quality: 69
+    images:
+      - url: "https://res.infoq.com/news/2021/07/azure-arc-enabled-sql/en/headerimage/header+%283%29-1625687685497.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "CIBC Announces Multi-Year Agreement to Use Microsoft’s Cloud-Based Platform"
+    excerpt: "( MSFT) to use Microsoft Azure as its primary cloud platform. The agreement will accelerate the bank's digital transformation and cloud-first approach. The multi-year investment includes CIBC cloud technology,"
+    publishedDateTime: 2021-07-09T05:49:00Z
+    webUrl: "https://www.nasdaq.com/articles/cibc-announces-multi-year-agreement-to-use-microsofts-cloud-based-platform-2021-07-09"
+    ampWebUrl: "https://www.nasdaq.com/articles/cibc-announces-multi-year-agreement-to-use-microsofts-cloud-based-platform-2021-07-09?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/cibc-announces-multi-year-agreement-to-use-microsofts-cloud-based-platform-2021-07-09?amp"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 67
   - title: "Pentagon Shelves JEDI Cloud Contract Won By Microsoft And Appealed By AWS"
     excerpt: "The U.S. Department of Defense is shelving the controversial JEDI cloud computing contract won by Microsoft and appealed by AWS"
     publishedDateTime: 2021-07-06T17:57:00Z

@@ -63,20 +63,6 @@ related:
         width: 800
         height: 448
         isCached: true
-  - title: "TikTok's AI is being sold to other companies"
-    excerpt: "TikTok's AI is no longer a secret — in fact, it's now on the open market. The Financial Times has learned that parent company ByteDance quietly launched a BytePlus division that sells TikTok technology,"
-    publishedDateTime: 2021-07-04T18:30:00Z
-    webUrl: "https://www.engadget.com/bytedance-sells-tiktok-ai-182553001.html"
-    type: article
-    provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 67
-    images:
-      - url: "https://s.yimg.com/os/creatr-uploaded-images/2021-05/63a2fa70-ae89-11eb-adf7-03b9a23b7e63"
-        width: 5000
-        height: 3333
-        isCached: true
   - title: "ByteDance Allows Other Companies To Buy TikTok AI Tech"
     excerpt: "ByteDance has begun selling the artificial intelligence that powers its blockbuster TikTok app to other companies outside China."
     publishedDateTime: 2021-07-06T01:15:00Z

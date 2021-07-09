@@ -58,20 +58,6 @@ related:
         width: 800
         height: 448
         isCached: true
-  - title: "TikTok's AI is being sold to other companies"
-    excerpt: "TikTok's AI is no longer a secret — in fact, it's now on the open market. The Financial Times has learned that parent company ByteDance quietly launched a BytePlus division that sells TikTok technology,"
-    publishedDateTime: 2021-07-04T18:30:00Z
-    webUrl: "https://www.engadget.com/bytedance-sells-tiktok-ai-182553001.html"
-    type: article
-    provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 67
-    images:
-      - url: "https://s.yimg.com/os/creatr-uploaded-images/2021-05/63a2fa70-ae89-11eb-adf7-03b9a23b7e63"
-        width: 5000
-        height: 3333
-        isCached: true
   - title: "Viral TikTok Hack About Cleverly Parking Between The Lines Is Volatile Fodder For Human Drivers And For AI Self-Driving Cars"
     excerpt: "Parking cars in lined parking lots can be an entirely frustrating task, which could be eased if we all parked in the same manner. Humans though are unlikely to abide by this rule, so maybe self-driving cars are the answer."
     publishedDateTime: 2021-07-05T15:30:00Z

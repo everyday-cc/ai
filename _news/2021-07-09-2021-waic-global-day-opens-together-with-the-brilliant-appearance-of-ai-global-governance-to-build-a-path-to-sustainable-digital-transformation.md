@@ -1,13 +1,13 @@
 ---
 category: news
 title: "2021 WAIC Global Day opens together with the brilliant appearance of AI global governance, to build a path to sustainable digital transformation"
-excerpt: "2021 WAIC Global Day event themed \"Global AI Governance\" was held at Shanghai Expo Center today. The scene of 2021 WAIC Global Day event, AI development helps with digital transformation 2021 WAIC ..."
-publishedDateTime: 2021-07-09T07:43:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/2021-waic-global-day-opens-together-with-the-brilliant-appearance-of-ai-global-governance-to-build-a-path-to-sustainable-digital-transformation-1030592204"
-webUrl: "https://markets.businessinsider.com/news/stocks/2021-waic-global-day-opens-together-with-the-brilliant-appearance-of-ai-global-governance-to-build-a-path-to-sustainable-digital-transformation-1030592204"
+excerpt: "WAIC was formally inaugurated at Shanghai Expo Center on July 8. On the theme of \"Intelligent Connectivity, Inspirational Cities\", 2021"
+publishedDateTime: 2021-07-09T07:42:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/2021-waic-global-day-opens-together-with-the-brilliant-appearance-of-ai-global-governance-to-build-a-path-to-sustainable-digital-transformation-1030592173"
+webUrl: "https://markets.businessinsider.com/news/stocks/2021-waic-global-day-opens-together-with-the-brilliant-appearance-of-ai-global-governance-to-build-a-path-to-sustainable-digital-transformation-1030592173"
 type: article
 quality: 30
-heat: 30
+heat: -1
 published: false
 
 provider:
@@ -27,6 +27,22 @@ images:
     height: 284
     isCached: true
 
-secured: "AsE5gBSxLhr06/Goxv+3BSfDOWO+hi8Fq5T3bqJzdfmcpNADwTtI85f3r4qhTCreKzte8n7ZnCxX/0er7c9Uh+SFGxFrQhFdl+5JlpaiW3gJxwpOmvnaTwAARYfsEqQ2uiL9dA/vPyVYUVbMnJBOwkgMaWlqy0/A233WfDwkeJWzc4PGPJdQZvq1estM3doTX4PlcgfKPQ0Tl8GROO+OlSYb+/SkewddJC8WDay+/Vq/ahg938f3UApaoGg/kDuKi84PcOpNLsz/flv87CAsRXzJmbrwr6Q+9u2Asv/SAd7z+uDQXtTrZokn0frHn96NA/2siKg/e80AONAYFhpvexTXOqaIqczviB1pzSiAPb4=;efMDZuT+TpYZ/hF/86SYbA=="
+related:
+  - title: "SenseTime Joins Hands with Global Innovators to Build a Sustainable AI Ecosystem"
+    excerpt: "SenseTime, the leading global artificial intelligence (AI) company, hosted an industry forum themed \"AI+: Ecosystem\" at the 2021 World Artificial Intelligence Conference (WAIC) today. The forum gathered influential entrepreneurs,"
+    publishedDateTime: 2021-07-09T11:35:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/sensetime-joins-hands-with-global-innovators-to-build-a-sustainable-ai-ecosystem-1030592716"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 64
+    images:
+      - url: "https://mma.prnewswire.com/media/1560817/Xu_Li__Co_founder_and_CEO_of_SenseTime_introduced_SenseCore_AI_Infrastructure.jpg"
+        width: 400
+        height: 267
+        isCached: true
+
+secured: "lVaLmfsRqwikN0Ef8YHwDVksMcPW7Tjwnv4/AlDhQY0mZlXbHk4sSzFBmHS6x5HwU91XnBm4Et4RH6k6z7bzConFVtVesEQQCzhdEmI8idIEdlzy8nGo1glbU/LdybYHE5zMxA/klyfDyE6gnfIXbAzMXU5/hpRt5FcWQxNUjVqt25fWHGvL02p9fdbeI84aT5TFrHcbG4GS1C9kmTyxPdZao3MqdaYoBXHn97EYKXMtd4rr1clCyuV+YoWvEiqS82KFHT/cMqToh4llc077W8iu0d8JOgzO/h1KW+5f04gE5cfKm+ra1Hhz36ELOzkUZE64M6gTKsdhA9mlqmcvEv/rNKdurPjV4FNAhFOBLv4=;NTjP5QXprqn22AL/qV+3Yw=="
 ---
 

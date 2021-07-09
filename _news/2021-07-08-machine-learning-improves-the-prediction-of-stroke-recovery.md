@@ -9,7 +9,7 @@ ampWebUrl: "https://medicalxpress.com/news/2021-07-machine-learning-recovery.amp
 cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-07-machine-learning-recovery.amp"
 type: article
 quality: 44
-heat: -1
+heat: 44
 published: false
 
 provider:
@@ -27,50 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "IPL Score Prediction using Deep Learning"
-    excerpt: "A Computer Science portal for geeks. It contains well written, well thought and well explained computer science and programming articles, quizzes and practice/competitive programming/company interview Questions."
-    publishedDateTime: 2021-07-04T18:02:00Z
-    webUrl: "https://www.geeksforgeeks.org/ipl-score-prediction-using-deep-learning/"
-    ampWebUrl: "https://www.geeksforgeeks.org/ipl-score-prediction-using-deep-learning/amp/"
-    cdnAmpWebUrl: "https://www-geeksforgeeks-org.cdn.ampproject.org/c/s/www.geeksforgeeks.org/ipl-score-prediction-using-deep-learning/amp/"
-    type: article
-    provider:
-      name: GeeksforGeeks
-      domain: geeksforgeeks.org
-    quality: 61
-    images:
-      - url: "https://media.geeksforgeeks.org/wp-content/uploads/20210612120650/predict-300x233.png"
-        width: 300
-        height: 233
-        isCached: true
-  - title: "Machine learning and earthquake risk prediction"
-    excerpt: "The phenomenon is known as liquefaction, and it was a major feature of the 2011 earthquake in Christchurch, New Zealand, a magnitude 6.3 quake that killed 185 people and destroyed thousands of homes."
-    publishedDateTime: 2021-07-08T16:16:00Z
-    webUrl: "https://www.nsf.gov/discoveries/disc_summ.jsp?cntn_id=303051&org=NSF"
-    type: article
-    provider:
-      name: nsf.gov
-      domain: nsf.gov
-    quality: 39
-    images:
-      - url: "https://www.nsf.gov/news/mmg/media/images/ai_earthquakes_f.jpg"
-        width: 350
-        height: 220
-        isCached: true
-  - title: "Machine learning and earthquake risk prediction"
-    excerpt: "Rathje's research on liquefaction led her to study the Christchurch event. She had been thinking about ways to incorporate machine learning into her research and this case seemed like a great place to start. The researchers developed a machine learning ..."
-    publishedDateTime: 2021-07-08T17:11:00Z
-    webUrl: "https://www.nsf.gov/discoveries/disc_summ.jsp?cntn_id=303051"
-    type: article
-    provider:
-      name: nsf.gov
-      domain: nsf.gov
-    quality: 39
-    images:
-      - url: "https://www.nsf.gov/news/mmg/media/images/ai_earthquakes_f.jpg"
-        width: 350
-        height: 220
-        isCached: true
   - title: "Researchers achieve improved prediction of Indian Monsoon onset using machine learning"
     excerpt: "The onset of the Indian summer monsoon has been predicted three months ahead for the last 40 years with the highest precision up until today. The result indicates longer seasonal forecasts based on machine learning may be a way to mitigate the consequences of an erratic monsoon system under future global warming."
     publishedDateTime: 2021-07-06T20:13:00Z
@@ -96,6 +52,17 @@ related:
         width: 1440
         height: 672
         isCached: true
+  - title: "Improve Your Recovery After Stroke By Machine-Learning"
+    excerpt: "New approach through machine learning for outcome prediction in stroke can significantly improve its treatment."
+    publishedDateTime: 2021-07-08T18:28:00Z
+    webUrl: "https://www.medindia.net/news/improve-your-recovery-after-stroke-by-machine-learning-202161-1.htm"
+    ampWebUrl: "https://www.medindia.net/amp/news/improve-your-recovery-after-stroke-by-machine-learning-202161-1.htm"
+    cdnAmpWebUrl: "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/improve-your-recovery-after-stroke-by-machine-learning-202161-1.htm"
+    type: article
+    provider:
+      name: Medindia
+      domain: medindia.net
+    quality: 24
 
 secured: "2TML0l6l/P1xCvRE9Aer9RjvI4EthZPHdmFmoIemWvGxUUt77IEnXTNIH6tAy5z/pJCPQrOS93e6ns9Hd1Dv7gdQyZc9pk1eNDM8aLIpEkmYHK7k+BTNbdg4uYrGl1bnXiZsASrGWWjZym3TuhKipX3nx6TbP64BesKXKnKghvn2O4z8kWNWtxptMkvnBIMDSOjFQ3DBp2ePeKxNjl3hujSu4iKALzc8NMp0/+HEI+Jtt/3yn5/bHAAhTWZoK3h2dHO8GXBSRaTVi97mQcC51P2xCf/V/pPaq/Wrzs5qBa8iG5u5CIFK1+jkF6oI8ZntDQTFBOzNvVGOyaw/jSvcebY9xzN6gycw5+gqb3sbQF2lde7Xik+ANhTRvGTMDvbetFiAhxwXDeVljOcP70bB5hPvt82LNCKUJuTehG4FlsQvEQXtfoybu4gxo6b49XFZQLcuDhjbpt7VXDb/fhcfW6SOdcenO1MXlrSMs4tIEk0CPzKnZHug8XSrKhff8WgdSBhkSO9YWrVghXkc3aUXYg==;WuTN72lTg2/B6+ACKZCdVg=="
 ---

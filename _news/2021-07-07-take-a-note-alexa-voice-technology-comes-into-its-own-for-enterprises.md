@@ -7,7 +7,7 @@ originalUrl: "https://techhq.com/2021/07/take-a-note-alexa-voice-technology-come
 webUrl: "https://techhq.com/2021/07/take-a-note-alexa-voice-technology-comes-into-its-own-for-enterprises/"
 type: article
 quality: 23
-heat: -1
+heat: 23
 published: false
 
 provider:
@@ -23,24 +23,6 @@ images:
     width: 1024
     height: 739
     isCached: true
-
-related:
-  - title: "Voice tech makes inroads in the enterprise"
-    excerpt: "Some good news, bad news for voice technology partisans in the workplace: The bad news is that the dream of a voice assistant in every conference room and on every desk hasn’t come to pass. The good news is that voice technology is still having an impact in business,"
-    publishedDateTime: 2021-07-04T17:20:00Z
-    webUrl: "https://venturebeat.com/2021/07/04/voice-tech-makes-inroads-in-the-enterprise/"
-    ampWebUrl: "https://venturebeat.com/2021/07/04/voice-tech-makes-inroads-in-the-enterprise/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/04/voice-tech-makes-inroads-in-the-enterprise/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 74
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2016/09/voice.jpg?w=1200&strip=all"
-        width: 1200
-        height: 829
-        isCached: true
 
 secured: "FVD0OMKM5uJ23TVEqMA52Vzo5dfN5u6B8VvGt+5Xo0YdHm6HrX+WsUUUvqs60mPYJZp4qK/iqfQVaYfr9bzmos9VNtlCeaJLiMaHj6zUqO8vr0N5nZDfAqE9DRBFyETwGo4QSRrvfx/h5fk+5DJU9gi37C56MYbfaDgJ1ZLDddsrkVcOf46RpaOsOP5ZvGFLECd6CYQtj7luBPbG1e3BbFcLI4xWcWOOOeNYvDz7BD7Axg2bPJNiXWSwrVDKAN3u3VLr1y3lKc8iru58ripG4ZRZ0PTL7L/PBUd62vcLR+GEilQlXJcrsJoIWHHaap6abUzZwEuQtpWVWDsh1OSnlAb4sIjfyAspuOInsn8w8dg=;aTOPmLsnNUsBnhiDD9MYZw=="
 ---

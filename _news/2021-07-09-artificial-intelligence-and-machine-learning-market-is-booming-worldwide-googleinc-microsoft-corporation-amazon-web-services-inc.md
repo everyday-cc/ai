@@ -6,8 +6,8 @@ publishedDateTime: 2021-07-09T06:33:00Z
 originalUrl: "https://manometcurrent.com/artificial-intelligence-and-machine-learning-market-is-booming-worldwide-googleinc-microsoft-corporation-amazon-web-services-inc/"
 webUrl: "https://manometcurrent.com/artificial-intelligence-and-machine-learning-market-is-booming-worldwide-googleinc-microsoft-corporation-amazon-web-services-inc/"
 type: article
-quality: 56
-heat: 76
+quality: 58
+heat: 78
 published: true
 
 provider:
@@ -19,6 +19,7 @@ topics:
   - AI
   - AWS AI
   - Microsoft AI
+  - AI in Finance
 
 images:
   - url: "https://manometcurrent.com/wp-content/uploads/2021/07/Global-Artificial-Intelligence-and-Machine-Learning-Market.jpg"

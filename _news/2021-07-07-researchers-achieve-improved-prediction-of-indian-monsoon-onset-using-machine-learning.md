@@ -21,22 +21,6 @@ topics:
   - AI
 
 related:
-  - title: "IPL Score Prediction using Deep Learning"
-    excerpt: "A Computer Science portal for geeks. It contains well written, well thought and well explained computer science and programming articles, quizzes and practice/competitive programming/company interview Questions."
-    publishedDateTime: 2021-07-04T18:02:00Z
-    webUrl: "https://www.geeksforgeeks.org/ipl-score-prediction-using-deep-learning/"
-    ampWebUrl: "https://www.geeksforgeeks.org/ipl-score-prediction-using-deep-learning/amp/"
-    cdnAmpWebUrl: "https://www-geeksforgeeks-org.cdn.ampproject.org/c/s/www.geeksforgeeks.org/ipl-score-prediction-using-deep-learning/amp/"
-    type: article
-    provider:
-      name: GeeksforGeeks
-      domain: geeksforgeeks.org
-    quality: 61
-    images:
-      - url: "https://media.geeksforgeeks.org/wp-content/uploads/20210612120650/predict-300x233.png"
-        width: 300
-        height: 233
-        isCached: true
   - title: "Machine-learning improves the prediction of stroke recovery"
     excerpt: "When blood flow to the brain is somehow reduced or restricted, a person can suffer a stroke. Stroke is fairly common; in Europe alone, there are over 1.5 million new cases each year."
     publishedDateTime: 2021-07-08T15:23:00Z
@@ -53,34 +37,6 @@ related:
         width: 2880
         height: 1920
         isCached: true
-  - title: "Machine learning and earthquake risk prediction"
-    excerpt: "The phenomenon is known as liquefaction, and it was a major feature of the 2011 earthquake in Christchurch, New Zealand, a magnitude 6.3 quake that killed 185 people and destroyed thousands of homes."
-    publishedDateTime: 2021-07-08T16:16:00Z
-    webUrl: "https://www.nsf.gov/discoveries/disc_summ.jsp?cntn_id=303051&org=NSF"
-    type: article
-    provider:
-      name: nsf.gov
-      domain: nsf.gov
-    quality: 39
-    images:
-      - url: "https://www.nsf.gov/news/mmg/media/images/ai_earthquakes_f.jpg"
-        width: 350
-        height: 220
-        isCached: true
-  - title: "Machine learning and earthquake risk prediction"
-    excerpt: "Rathje's research on liquefaction led her to study the Christchurch event. She had been thinking about ways to incorporate machine learning into her research and this case seemed like a great place to start. The researchers developed a machine learning ..."
-    publishedDateTime: 2021-07-08T17:11:00Z
-    webUrl: "https://www.nsf.gov/discoveries/disc_summ.jsp?cntn_id=303051"
-    type: article
-    provider:
-      name: nsf.gov
-      domain: nsf.gov
-    quality: 39
-    images:
-      - url: "https://www.nsf.gov/news/mmg/media/images/ai_earthquakes_f.jpg"
-        width: 350
-        height: 220
-        isCached: true
   - title: "Machine-learning improves the prediction of stroke recovery"
     excerpt: "An international team of scientists led by EPFL has developed a system that combines information from the brain's connectome - the ''wiring'' between neurons - and machine learning to assess and predict the outcome of stroke victims."
     publishedDateTime: 2021-07-07T04:00:00Z
@@ -95,6 +51,17 @@ related:
         width: 1440
         height: 672
         isCached: true
+  - title: "Improve Your Recovery After Stroke By Machine-Learning"
+    excerpt: "New approach through machine learning for outcome prediction in stroke can significantly improve its treatment."
+    publishedDateTime: 2021-07-08T18:28:00Z
+    webUrl: "https://www.medindia.net/news/improve-your-recovery-after-stroke-by-machine-learning-202161-1.htm"
+    ampWebUrl: "https://www.medindia.net/amp/news/improve-your-recovery-after-stroke-by-machine-learning-202161-1.htm"
+    cdnAmpWebUrl: "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/improve-your-recovery-after-stroke-by-machine-learning-202161-1.htm"
+    type: article
+    provider:
+      name: Medindia
+      domain: medindia.net
+    quality: 24
 
 secured: "GiQmh9GnOAxm6w9rGd3ee2dPj0+AslbnOpK650BWJocZHM2dJDIet8228Dr8HfC0NyyZJxoRwbqANsq1lfQmWSCaj+aRKAVE0iYCnXJD7AXHhKPpeWPDhZybCo7iTJ+vJJiVN+WFO4LJuYWe2O0GUxUBBBpysj5KBp8j2163drxyuLk2CBxv7qesHsBNMDisIqDcgAlLMXTHsJ6TWjxp1ikxt7QJdPQKX4o2ZZjB/E3cuYvW/SyH5FGjIGN8Rr6fCrSnLcM8HTmpz11iOfOoAgmYJTgk6uKnT0eY67cdMhasMR7TaBb1QqgCItlPCoqALJzfa+052QY8uFfpHWXiO3gNFqV73gYypaVRFQwjJTM=;1/MtOPjG2Fo69RLwz7HiFw=="
 ---
