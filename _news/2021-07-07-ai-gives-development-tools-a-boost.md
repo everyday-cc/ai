@@ -9,7 +9,7 @@ ampWebUrl: "https://www.infoworld.com/article/3623773/ai-gives-development-tools
 cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3623773/ai-gives-development-tools-a-boost.amp.html"
 type: article
 quality: 89
-heat: 90
+heat: 99
 published: true
 
 provider:
@@ -29,6 +29,22 @@ images:
     width: 1200
     height: 800
     isCached: true
+
+related:
+  - title: "Don’t Forget the Human Factor in Autonomous Systems and AI Development"
+    excerpt: "It goes without saying that humans are the intended beneficiaries of the AI applications and autonomous systems that data scientists and developers are"
+    publishedDateTime: 2021-07-08T22:01:00Z
+    webUrl: "https://www.datanami.com/2021/07/08/dont-forget-the-human-factor-in-autonomous-systems-and-ai-development/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 39
+    images:
+      - url: "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2021/07/face_phone_shutterstock_ozsef-Bagota-scaled.jpg"
+        width: 2560
+        height: 1280
+        isCached: true
 
 secured: "nGbpaVCc+0M/Op5OqUHHGSDw+gLcgOMMC36yhqwy9edxRbaI29gRAWFDbr+9ssS6rK2NphC8qz4EqnshcDk387r1EDiOR5KFfIr0dERPFVEq4UhWCPp/tV2Gw2mQaSjQ4vC593qqP93yOpPPSL7gJeLKZq+FZJlM0qxXu27jNeCzC3qCTziCMiAnR/wnDLWrqrbwMXKbpAm72S5uwc2wooTdBBer+CNCI1ShiRd8ihIjnGAq3bwV43noxyCVAiocyM7wXh3heKnBbPL+FObZjSkNIQL4sg+plnYPiYoALRBb6eRfuOK98UEO3KS9nevI3FFm1AzvaTnpGgk+0XPQU1POgrQElgJMqaLjvhAxpuc=;37QXSAo7nvIp5HNV8xaLxA=="
 ---

@@ -24,21 +24,35 @@ images:
     isCached: true
 
 related:
-  - title: "How IBM Is Using Artificial Intelligence to Combat Bias in Advertising"
-    excerpt: "IBM is trying to figure out how to use artificial intelligence to identify bias in advertising — and mitigate it. Coming up with an equitable ad industry is better for both consumers and companies, said Sheri Bachstein,"
-    publishedDateTime: 2021-07-06T20:58:00Z
-    webUrl: "https://cheddar.com/media/ibm-artificial-intelligence-advertising-bias"
-    ampWebUrl: "https://cheddar.com/media/ibm-artificial-intelligence-advertising-bias.amp"
-    cdnAmpWebUrl: "https://cheddar-com.cdn.ampproject.org/c/s/cheddar.com/media/ibm-artificial-intelligence-advertising-bias.amp"
+  - title: "Micron Technology Puts Its Cash to Work Using Artificial Intelligence"
+    excerpt: "Micron Technology Inc.’s cash deposits are generating millions of dollars in additional returns for the memory-chip maker thanks to the help of an artificial-intelligence tool developed internally. The AI application allows Boise, Idaho-based Micron to ..."
+    publishedDateTime: 2021-07-08T22:01:00Z
+    webUrl: "https://www.wsj.com/articles/micron-technology-puts-its-cash-to-work-using-artificial-intelligence-11625781002"
+    ampWebUrl: "https://www.wsj.com/amp/articles/micron-technology-puts-its-cash-to-work-using-artificial-intelligence-11625781002"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/micron-technology-puts-its-cash-to-work-using-artificial-intelligence-11625781002"
     type: article
     provider:
-      name: Cheddar
-      domain: cheddar.com
-    quality: 59
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 87
     images:
-      - url: "https://img.chdrstatic.com/media/8d08f19d-ecb5-4675-bdbf-72915564b7e4.jpg?width=1200&source=backend&auto=webp"
-        width: 1200
-        height: 800
+      - url: "https://images.wsj.net/im-366698/social"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "Using Genomic-Based AI Technology to Advance Cancer Care"
+    excerpt: "GE Healthcare and SOPHiA GENETICS are partnering up to develop genomic-based artificial intelligence technology to advance cancer treatment and care."
+    publishedDateTime: 2021-07-06T17:00:00Z
+    webUrl: "https://healthitanalytics.com/news/using-genomic-based-ai-technology-to-advance-cancer-care"
+    type: article
+    provider:
+      name: Analytics
+      domain: healthitanalytics.com
+    quality: 37
+    images:
+      - url: "https://healthitanalytics.com/images/site/article_headers/_normal/ThinkstockPhotos-495213850.jpg"
+        width: 690
+        height: 400
         isCached: true
 
 secured: "19FELu0eNQLPZbTFSqUiGUM0yvWaS57JqtpM6UsdqLyGefnGAZd+6Nx5s4lVXW98AmtvjKB892KDGbu/nD+JHGsmdn4knv9qrQoDuQq3IGX+8VgXWd7Po5ow8+ji8Yx88t6kIHXV0CcrUBKkKJlE6br7wsNn6dI3vDhPBU800d1hcKk+vDmfPuC+l1Kuog5o4+3tojRAUxLQq1G9b95lS6tJ5zTake3LeFo6HDTNM3BFCeJVdlnSXts5zjn5vlWns8gZs3b7ADvLvTGCmmBsO7k/8+k1ulns93upuIVRZLjq7SI+oBDAm645YYnMPlIcIo4pQ9gQmX9gaAI+zHcgmF06Bu/LwAC0A4B3Zc4wRKw=;n7j/r43g5ixl8zWahiP2gg=="

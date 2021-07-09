@@ -1,0 +1,46 @@
+---
+category: news
+title: "Best Artificial Intelligence Stocks To Buy In July 2021? 3 Names To Know"
+excerpt: "Notably, AI tech has and continues to evolve to carry out complex tasks like natural language processing and speech recognition. If that wasn't enough, the tech also does this much more efficiently than humans today. With the tech industry rapidly growing ..."
+publishedDateTime: 2021-07-08T22:25:00Z
+originalUrl: "https://www.marketwatch.com/press-release/best-artificial-intelligence-stocks-to-buy-in-july-2021-3-names-to-know-2021-07-08"
+webUrl: "https://www.marketwatch.com/press-release/best-artificial-intelligence-stocks-to-buy-in-july-2021-3-names-to-know-2021-07-08"
+type: article
+quality: 68
+heat: -1
+published: false
+
+provider:
+  name: MarketWatch
+  domain: marketwatch.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - Natural Language Processing
+  - AI
+
+images:
+  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+    width: 1200
+    height: 630
+    isCached: true
+
+related:
+  - title: "Best Artificial Intelligence Stocks To Buy In July 2021? 3 Names To Know"
+    excerpt: "Artificial intelligence (AI ... Notably, the Cambridge-1 will serve to enable top scientists and healthcare experts via a combination of AI and simulation. In turn, this will ideally accelerate the digital biology revolution and bolster the country ..."
+    publishedDateTime: 2021-07-08T14:55:00Z
+    webUrl: "https://www.nasdaq.com/articles/best-artificial-intelligence-stocks-to-buy-in-july-2021-3-names-to-know-2021-07-08"
+    ampWebUrl: "https://www.nasdaq.com/articles/best-artificial-intelligence-stocks-to-buy-in-july-2021-3-names-to-know-2021-07-08?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/best-artificial-intelligence-stocks-to-buy-in-july-2021-3-names-to-know-2021-07-08?amp"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 70
+
+secured: "/b+qS9TsUCDWgAAh9KYXH/UWK6GuFqSkWy1RbHeGlFPTYM9xpjgGgY5dLqrQ5yz2nUJQbcmUsw9Kz3HM7HTKTr7byX1nCT4csJ7NyRfFLKPHxNxVc/WEadZhirhtoKatFOqEOBJ/W1DqRlamgmIAFOFtwVo6+4oA/bxnSPFwdDmRIqTLk2ESIMpGTGQ+7o1geLrcUIsg3ZuHJ8tnqJf3XEoWHGaPwBjoo6QMzZLuNxetUgbNbKR9/Dh6tivEMY+QTWmcIrDJ53ruHtp0vkBE1/9fnEZub+Tv5NW2KXakkoz2RHudJBxM9ZwOY0fvRa583P3ti82XiWxY/da2CXci2Q7379sApBNa4XQ5UhfDFB4=;fpzq3rrnPL5/mvuemZzDpQ=="
+---
+

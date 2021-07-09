@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/bring-your-own-model
 webUrl: "https://aws.amazon.com/blogs/machine-learning/bring-your-own-model-with-amazon-sagemaker-script-mode/"
 type: article
 quality: 89
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -42,6 +42,20 @@ related:
       - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/12/22/ML-558-1.jpg"
         width: 800
         height: 419
+        isCached: true
+  - title: "Announcing managed inference for Hugging Face models in Amazon SageMaker"
+    excerpt: "Hugging Face is the technology startup, with an active open-source community, that drove the worldwide adoption of transformer-based models thanks to its eponymous Transformers library. Earlier this year, Hugging Face and AWS collaborated to enable you to train and deploy over 10,000 pre-trained models"
+    publishedDateTime: 2021-07-08T22:59:17Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/announcing-managed-inference-for-hugging-face-models-in-amazon-sagemaker/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 88
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png"
+        width: 768
+        height: 385
         isCached: true
 
 secured: "az8aR6PvWyqQnfNpnxGespRmD8RtXfcRZIKJdhsmJ9jMgK4pPta5pQ5cD3JfezHNv6DBbX9h1lStkvtwq3Sl8/f0toDErU+8khxNPbq/uSNImN90BDxsxyB6Cz9szb8GRgUbqIz/ObOofOJw3RFBZWs5fW/I1ZcoW2SKgtwZXRVbWICrud5Hnl9rVf2Kv4z5lLBDI1F7aN+zg+Jozc/YrmvNcVeyXdHt79U30A5mnMLHdXT+mrm60LZWrMcNctyUIKVE9hzURQLgjsrNi65hihuSN/cK0mkgxgJt77DS3ii1+FlQPoAbqlPdpSIWfWx6sTIB2IlFAyudiDwQagcHiG/VxTqpFUuM5tDrENr4Uc4=;hZwWdiD25Si41y55WV7Lig=="

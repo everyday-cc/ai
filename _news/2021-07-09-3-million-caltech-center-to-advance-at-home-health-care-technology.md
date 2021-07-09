@@ -7,7 +7,7 @@ originalUrl: "https://www.pasadenanow.com/main/3-million-caltech-center-to-advan
 webUrl: "https://www.pasadenanow.com/main/3-million-caltech-center-to-advance-at-home-health-care-technology/"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -25,34 +25,15 @@ images:
     isCached: true
 
 related:
-  - title: "Using Genomic-Based AI Technology to Advance Cancer Care"
-    excerpt: "GE Healthcare and SOPHiA GENETICS are partnering up to develop genomic-based artificial intelligence technology to advance cancer treatment and care."
-    publishedDateTime: 2021-07-06T17:00:00Z
-    webUrl: "https://healthitanalytics.com/news/using-genomic-based-ai-technology-to-advance-cancer-care"
+  - title: "Alignment Healthcare’s AVA® Technology Platform Powers More Than 1 Million Personalized Care Interactions to Date"
+    excerpt: "in a health care facility, or through a virtual channel. Using artificial intelligence and machine learning, AVA also predicts care alerts such as risk for hospitalization and disease propensity before such early warning signs turn into a true emergency."
+    publishedDateTime: 2021-07-07T12:08:00Z
+    webUrl: "https://www.morningstar.com/news/globe-newswire/8275432/alignment-healthcares-ava-technology-platform-powers-more-than-1-million-personalized-care-interactions-to-date"
     type: article
     provider:
-      name: Analytics
-      domain: healthitanalytics.com
-    quality: 37
-    images:
-      - url: "https://healthitanalytics.com/images/site/article_headers/_normal/ThinkstockPhotos-495213850.jpg"
-        width: 690
-        height: 400
-        isCached: true
-  - title: "GE Healthcare, Sophia Genetics tag-team cancer care with patient-treatment matching tools"
-    excerpt: "The health tech powerhouses are joining forces to build an analytics platform that matches patients to the best possible treatment regimens for their specific genomic signature, cancer type and lifelong health record."
-    publishedDateTime: 2021-07-07T15:55:00Z
-    webUrl: "https://www.fiercebiotech.com/medtech/ge-healthcare-sophia-genetics-to-tag-team-cancer-care-patient-specific-treatment-matching"
-    type: article
-    provider:
-      name: FierceBiotech
-      domain: fiercebiotech.com
-    quality: 30
-    images:
-      - url: "https://qtxasset.com/fiercebiotech/1625670483/GettyImages-641146680.jpg/GettyImages-641146680.jpg?FJkp5NJ1js76bF7kU66KNvXmkDUDY3tV"
-        width: 880
-        height: 587
-        isCached: true
+      name: Morningstar%2c Inc.
+      domain: morningstar.com
+    quality: 0
 
 secured: "O7KvIDIHPjg9G1IqsJ7bZp1QapK1xyy8H4IZhtpQTVNLot+huVuIlHRBRHo6FiwZhFO7GgV/bu5ZAbXrIGsrJxIh/f4rnGmagaUbZzDgOVPedHoWY93Va7Za4YyfAJziziXrHTAPGXR03EDYHYDWhPj2TY/kuLNN2GYGyvhWKVnFdo2Wfzsa8loHAfIw3nltSxasxxNDGg7kMQ3tk7sHnHJEfjRBCM0FqnuEV5gGPgKw3J3NyhrsCl0BlfgYNSEtdBSq6JR2BV2F+wXofYT156scXMFZud+twsO+YCKLu+jzqDOVrh8FZul0xvBw2sAU2BnzNRPgWcVu8CgOLhGyzZ7J91dj582tm5Uu0uVIpME=;REeZx1DNhUhvUmOx5Dp7FQ=="
 ---

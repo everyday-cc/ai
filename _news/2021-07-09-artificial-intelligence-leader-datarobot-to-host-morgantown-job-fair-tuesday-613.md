@@ -1,39 +1,44 @@
 ---
 category: news
 title: "Artificial Intelligence Leader DataRobot to Host Morgantown Job Fair Tuesday, 6/13"
-excerpt: "DataRobot, the leader in Artificial Intelligence, will host a public job fair from 3-7 p.m. at Morgantown's Erickson Alumni Center on Tuesday, July 13th. In June, DataRobot announced the opening of a new office at Vantage Ventures Morgantown headquarters."
-publishedDateTime: 2021-07-08T17:44:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-artificial-intelligence-leader-datarobot-host-morgantown-job-fair-/2021/07/08/9405633.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-artificial-intelligence-leader-datarobot-host-morgantown-job-fair-/2021/07/08/9405633.htm"
+excerpt: "DataRobot, the leader in Artificial Intelligence, will host a public job fair from 3-7 p.m. at Morgantown’s Erickson Alumni Center on Tuesday, July 13th. In June, DataRobot announced the opening of a new office at Vantage Ventures Morgantown headquarters."
+publishedDateTime: 2021-07-08T17:30:00Z
+originalUrl: "https://apnews.com/press-release/business-wire/morgantown-business-job-fairs-artificial-intelligence-technology-69444d4a9a0d44089b8325211ffafe82"
+webUrl: "https://apnews.com/press-release/business-wire/morgantown-business-job-fairs-artificial-intelligence-technology-69444d4a9a0d44089b8325211ffafe82"
 type: article
-quality: 43
-heat: -1
+quality: 46
+heat: 46
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
-  - AI in Robotics
   - AI
+
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
 
 related:
   - title: "CORRECTING and REPLACING Artificial Intelligence Leader DataRobot to Host Morgantown Job Fair Tuesday, 7/13"
-    excerpt: "DataRobot, the leader in Artificial Intelligence, will host a public job fair from 3-7 p.m. at Morgantown’s Erickson Alumni Center on Tuesday, July 13th. In June, DataRobot announced the opening of a new office at Vantage Ventures Morgantown headquarters."
+    excerpt: "Artificial Intelligence Leader DataRobot to Host Morgantown Job Fair Tuesday, 7/13 (instead of Artificial Intelligence Leader DataRobot to Host Morgantown Job Fair Tuesday, 6/13) The updated release reads:  ARTIFICIAL INTELLIGENCE LEADER DATAROBOT TO HOST MORGANTOWN JOB FAIR TUESDAY,"
     publishedDateTime: 2021-07-08T19:41:00Z
-    webUrl: "https://www.joplinglobe.com/region/national_business/correcting-and-replacing-artificial-intelligence-leader-datarobot-to-host-morgantown-job-fair-tuesday-7-13/article_56b88038-894a-595e-abca-6abaade06353.html"
+    webUrl: "https://apnews.com/press-release/business-wire/business-technology-artificial-intelligence-morgantown-job-fairs-bd5cae3128494491a422c67d7dee66d2"
     type: article
     provider:
-      name: Joplin Globe
-      domain: joplinglobe.com
-    quality: 51
+      name: Associated Press
+      domain: apnews.com
+    quality: 34
     images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/joplinglobe.com/content/tncms/custom/image/da68c2f8-c3ab-11e5-94c7-b366ea8ae93c.jpg"
-        width: 1200
-        height: 630
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
 
-secured: "n9MyHZHkVBquoMmAIkBmWlJYF0SOuXlJEHCfpcj1SRiVvJsxhbEi2+5LVD7Tmc0M77m7fpm9ARiZI2AuldVBEXjUFMiI+6b7mLgjWeDL3xwYUHhg4LPL6Nd9ws0pf/lkKQ99NS0qxNj8XvEbuZUKdJPurvDYsK6zPmtnJ/3/KE5I89Yo+GFHdngBpMXfnELa/5W/eT0TD7NzMqUeF1bRGLENuZs0riU1eIqOlcHWwnMdLY0WKtCtdJ+JprkP69HbgKM/0AMZfWEYpJkytqEyxd9OzHhw71ARLphuoVOh7GP60F/3mn6KF/9Ylh7+TuEUwrbMkWDFMFF2wfw3gHa2oJEpC8BfR1WQ9BS1ySias78=;HJWI0WS9Gh6nqj/w+CwRAA=="
+secured: "l/5+V3fM3Mv534SYIwRk0HmdoUBZe8/Y8t8qTD83qki/VP4rOT7KYbfFutXlM+XWyeqQLp5dNI9/p7kC7fIcZK+9frgQ1UrPEoHLDi49dJdQY2SvlqgApyeEIo1sP88FrCe81B6i4YMY3hML8vT+m/IW7vR0nMZdxoEmbUlwhOFU+4+tYoiG+q5LoJeeakvpTYsijgdKLK5djgDvtcSeHdaTTF3w2Pzj1tZlp9W7ck5v4gAd4HBLTtrA0QR5uNBi+qf0r5mwBUeEEnLreFBHpqTVmKzgJ24K8QZkrxSdRrSXkFqUV+Nqbx3U/b0dvqy7LSThZsSjHftxMgrhClZiB/qQVrr84prAG/f3cw0kEto=;jVC0yYD5KjGgH16/tUAKYQ=="
 ---
 

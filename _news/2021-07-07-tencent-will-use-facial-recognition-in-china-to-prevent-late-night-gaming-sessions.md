@@ -109,6 +109,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Tencent Uses Facial Recognition to Ban Kids Gaming Past Bedtime"
+    excerpt: "In the latest bid to curb video-game addiction in China, tech giant Tencent Holdings Ltd. has launched a facial recognition system to stop minors gaming into the night. The initiative will prevent people under 18 from playing between 10 p.m. and 8 a.m. The ..."
+    publishedDateTime: 2021-07-08T22:41:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2021-07-08/tencent-uses-facial-recognition-to-ban-kids-gaming-past-bedtime"
+    type: article
+    provider:
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 69
+    images:
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iy2UcpOVPA7k/v0/1200x800.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Tencent’s creepy new facial recognition system detects kids gaming at night"
     excerpt: "Chinese tech giant Tencent has launched a creepy new facial recognition system that detects children who are playing video games at night."
     publishedDateTime: 2021-07-06T19:25:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://healthitanalytics.com/news/using-genomic-based-ai-technolo
 webUrl: "https://healthitanalytics.com/news/using-genomic-based-ai-technology-to-advance-cancer-care"
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
@@ -24,33 +24,35 @@ images:
     isCached: true
 
 related:
-  - title: "GE Healthcare, Sophia Genetics tag-team cancer care with patient-treatment matching tools"
-    excerpt: "The health tech powerhouses are joining forces to build an analytics platform that matches patients to the best possible treatment regimens for their specific genomic signature, cancer type and lifelong health record."
-    publishedDateTime: 2021-07-07T15:55:00Z
-    webUrl: "https://www.fiercebiotech.com/medtech/ge-healthcare-sophia-genetics-to-tag-team-cancer-care-patient-specific-treatment-matching"
+  - title: "Micron Technology Puts Its Cash to Work Using Artificial Intelligence"
+    excerpt: "Micron Technology Inc.’s cash deposits are generating millions of dollars in additional returns for the memory-chip maker thanks to the help of an artificial-intelligence tool developed internally. The AI application allows Boise, Idaho-based Micron to ..."
+    publishedDateTime: 2021-07-08T22:01:00Z
+    webUrl: "https://www.wsj.com/articles/micron-technology-puts-its-cash-to-work-using-artificial-intelligence-11625781002"
+    ampWebUrl: "https://www.wsj.com/amp/articles/micron-technology-puts-its-cash-to-work-using-artificial-intelligence-11625781002"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/micron-technology-puts-its-cash-to-work-using-artificial-intelligence-11625781002"
     type: article
     provider:
-      name: FierceBiotech
-      domain: fiercebiotech.com
-    quality: 30
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 87
     images:
-      - url: "https://qtxasset.com/fiercebiotech/1625670483/GettyImages-641146680.jpg/GettyImages-641146680.jpg?FJkp5NJ1js76bF7kU66KNvXmkDUDY3tV"
-        width: 880
-        height: 587
+      - url: "https://images.wsj.net/im-366698/social"
+        width: 1280
+        height: 640
         isCached: true
-  - title: "$3 Million Caltech Center to Advance At-Home Health Care Technology"
-    excerpt: "A multi-institution partnership that includes Caltech aims to develop clinically validated technologies to remotely monitor patient health. Caltec"
-    publishedDateTime: 2021-07-08T20:45:00Z
-    webUrl: "https://www.pasadenanow.com/main/3-million-caltech-center-to-advance-at-home-health-care-technology/"
+  - title: "The AI that fashion is using to reinvent itself"
+    excerpt: "Retailers have turned to AI to replace photoshoots and predict what people will want to buy and wear in the future"
+    publishedDateTime: 2021-07-05T06:08:00Z
+    webUrl: "https://www.wired.co.uk/article/ai-personalised-shopping"
     type: article
     provider:
-      name: Pasadena Now
-      domain: pasadenanow.com
-    quality: 24
+      name: Wired UK
+      domain: wired.co.uk
+    quality: 37
     images:
-      - url: "https://www.pasadenanow.com/main/wp-content/uploads/2021/07/Ransomware1.jpg"
-        width: 739
-        height: 400
+      - url: "https://media.wired.co.uk/photos/60df5878fdd01eb264436950/16:9/w_1280,c_limit/0521-WIRED-AIfashion.jpg"
+        width: 1280
+        height: 720
         isCached: true
 
 secured: "Ro/ekQSlSy1cdqHACNTFYmSBWQx0VcTLDK/zNSPzRjKzNCAezK+JDmkFlg58Zk0btcHZUctD/N5XEOA6zNyeJ3kS0cS9QGkTbdFv6HLSEhSzg+Or5hizaaRZiHyD+LGyPzgqsqBP56RlC+nLettc2Hkrmplbt6RLSezDFSq6pDv5W8EuXSu/qXC2Gi7TKafwy3Bwg8d1fr3xs80WlS9kCKtwIzMCsIgZi9ANjBh0T5erZlRNF8PzuF8Ns8Jwtv4qBUUS0tIDQRbjFQakB27BoaeGtwcNF5iTseylr0Vc6ee2upcjdMfTz9Abbq4t9SK0IKnVbNhOr/bORvCHad9p4VAZUiEp2TOS3FQLBRSLN9k=;Ij3JdNfO0bDa4Ia7q9kpiw=="

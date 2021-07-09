@@ -7,7 +7,7 @@ originalUrl: "https://apnews.com/press-release/pr-newswire/genetics-coronavirus-
 webUrl: "https://apnews.com/press-release/pr-newswire/genetics-coronavirus-pandemic-science-cancer-health-06b416803c69f36d937ef98a0bce67dd"
 type: article
 quality: 19
-heat: 19
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,22 @@ images:
     width: 700
     height: 450
     isCached: true
+
+related:
+  - title: "GE Healthcare, Sophia Genetics tag-team cancer care with patient-treatment matching tools"
+    excerpt: "The health tech powerhouses are joining forces to build an analytics platform that matches patients to the best possible treatment regimens for their specific genomic signature, cancer type and lifelong health record."
+    publishedDateTime: 2021-07-07T15:55:00Z
+    webUrl: "https://www.fiercebiotech.com/medtech/ge-healthcare-sophia-genetics-to-tag-team-cancer-care-patient-specific-treatment-matching"
+    type: article
+    provider:
+      name: FierceBiotech
+      domain: fiercebiotech.com
+    quality: 30
+    images:
+      - url: "https://qtxasset.com/fiercebiotech/1625670483/GettyImages-641146680.jpg/GettyImages-641146680.jpg?FJkp5NJ1js76bF7kU66KNvXmkDUDY3tV"
+        width: 880
+        height: 587
+        isCached: true
 
 secured: "IYHpEQPzB7f/60KaJC0XBRQMH/6FvvWl+syKV0iOsTpR1KrSE0UUGke4ZDzh4L5Vvg5h7q0pQ2f04eEldOXQeBCOpxDnx9C/QHQANXQLEJ0gJDtIYzhC/ZOeQxNfiDV+N4PS2O+1D5Lhp/dPUAfKgfxlisD8kto2RkLi1XzpOrj9z5vaLvYVJVEHoI5gkM9fRdZ7KHr1FnV+GqMIvqm7YxC+HVUs5W1LBFJkpklK0T41dEkYF9DYZW/9lQEPkYArqPUppGsb3mNJNDJ2p5k9A4V0a1+Y3wmibaCYMojhzCvByRNZlFzqn7tUm8/ne++w0cc6/Z6saz6uGAECj72rRBf43WyCYO6M7HmOlx27x7U=;hhUhvZRJ6C1+JuR8R0Fbkg=="
 ---

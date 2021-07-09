@@ -7,7 +7,7 @@ originalUrl: "https://www.fiercebiotech.com/medtech/ge-healthcare-sophia-genetic
 webUrl: "https://www.fiercebiotech.com/medtech/ge-healthcare-sophia-genetics-to-tag-team-cancer-care-patient-specific-treatment-matching"
 type: article
 quality: 30
-heat: -1
+heat: 30
 published: false
 
 provider:
@@ -25,33 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "Using Genomic-Based AI Technology to Advance Cancer Care"
-    excerpt: "GE Healthcare and SOPHiA GENETICS are partnering up to develop genomic-based artificial intelligence technology to advance cancer treatment and care."
-    publishedDateTime: 2021-07-06T17:00:00Z
-    webUrl: "https://healthitanalytics.com/news/using-genomic-based-ai-technology-to-advance-cancer-care"
+  - title: "GE Healthcare and SOPHiA GENETICS to collaborate to match treatments to multimodal patient data and cancer type"
+    excerpt: "GE Healthcare and SOPHiA GENETICS today announced that they have signed a letter of intent to collaborate on advancing cancer care, with the goal of better targeting and matching treatments to each patient’s genomic profile and cancer type,"
+    publishedDateTime: 2021-07-06T11:13:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/genetics-coronavirus-pandemic-science-cancer-health-06b416803c69f36d937ef98a0bce67dd"
     type: article
     provider:
-      name: Analytics
-      domain: healthitanalytics.com
-    quality: 37
+      name: Associated Press
+      domain: apnews.com
+    quality: 19
     images:
-      - url: "https://healthitanalytics.com/images/site/article_headers/_normal/ThinkstockPhotos-495213850.jpg"
-        width: 690
-        height: 400
-        isCached: true
-  - title: "$3 Million Caltech Center to Advance At-Home Health Care Technology"
-    excerpt: "A multi-institution partnership that includes Caltech aims to develop clinically validated technologies to remotely monitor patient health. Caltec"
-    publishedDateTime: 2021-07-08T20:45:00Z
-    webUrl: "https://www.pasadenanow.com/main/3-million-caltech-center-to-advance-at-home-health-care-technology/"
-    type: article
-    provider:
-      name: Pasadena Now
-      domain: pasadenanow.com
-    quality: 24
-    images:
-      - url: "https://www.pasadenanow.com/main/wp-content/uploads/2021/07/Ransomware1.jpg"
-        width: 739
-        height: 400
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
 
 secured: "+j9axsbeFAAhyvve6IP18Q/+XpAH6i0JPNUqudqRJ3FRirIDPgecN760EJ57WFIZb7kzgy4mQ9lSvGPbeXTm6AuE8ufH1qmdUbCqpbnDMFUsVNh6RvqhBhbr25dsmS5plHSMRfyI2NG6jVwsk/RRRPbpI+Jo+n77aKVx7d+lb11M+jq+TJ0pwsKbbHcEiihPsPBPusjHkGSjPA1L03qmPWDkXmWAFxexQlkvnQnCviP7xO0ShmYgWcAt3LTU3mYQPMOECDjPPvfnT348yP5NKlr0RPbTILtqxBMR0QnsBvc6u4UFdyqRJvsK0K4SkXfMl1a7hUYVhLouFU2tFCcjkTAI9HHKuNGCfYRFT8vGzPw=;Rv2u+uIH6/zuGuzszNOpDA=="
