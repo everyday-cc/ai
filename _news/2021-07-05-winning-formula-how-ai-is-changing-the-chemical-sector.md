@@ -34,20 +34,6 @@ related:
         width: 838
         height: 475
         isCached: true
-  - title: "Four ways artificial intelligence is helping us learn about the universe"
-    excerpt: "Astronomy is all about data. The universe is getting bigger and so too is the amount of information we have about it. But some of the biggest challenges of the next generation of astronomy lie in just how we're going to study all the data we're collecting."
-    publishedDateTime: 2021-07-04T12:47:00Z
-    webUrl: "https://www.tribuneindia.com/news/schools/four-ways-artificial-intelligence-is-helping-us-learn-about-the-universe-278164"
-    type: article
-    provider:
-      name: The Tribune
-      domain: tribuneindia.com
-    quality: 36
-    images:
-      - url: "https://englishtribuneimages.blob.core.windows.net/gallary-content/2021/7/2021_7$largeimg_445174630.jpg"
-        width: 788
-        height: 443
-        isCached: true
 
 secured: "RNkfXyrWUYEBNTfECAo8+jLOOgOrFW7Ymfu8iEFdeaKAnVW1m7U4RSWzZ5jchT4tTi5vaddgnBn5xl/x+7iyQG74ADsAV7FijXW5dSfv9lCET2oNStR/I83Jz0o64cUDHEzKXV8Y7gY6moyd1xJ4hnjig7Bb76vACFnzYygAzoX23ZzNLye6U4fwoH4pUOEO79vFQdR4b+NJNe8Fur6rGD15Bi9Jlj04GCCSqTW8NnTd1q9lo9EM96QjbhU5BkM7p8UezoBJC6Mp6TjMAdE/ZYp3/Dlu/8dR89/mCe4bTDl0ms+9uOeRL+lCfjVV+ncKlOAwpvrKzS+2MqLcf0EWt7wNXHfKYfwjMl7tKsrAxaI=;c1xJ9FOfejvFOD+lWCTzXg=="
 ---

@@ -1,27 +1,31 @@
 ---
 category: news
 title: "Tencent Uses Facial Recognition to Ban Kids Gaming Past Bedtime"
-excerpt: "In the latest bid to curb video-game addiction in China, tech giant Tencent Holdings Ltd. has launched a facial recognition system to stop minors gaming into the night. The initiative will prevent people under 18 from playing between 10 p."
-publishedDateTime: 2021-07-09T02:42:00Z
-originalUrl: "https://www.bloombergquint.com/technology/tencent-uses-facial-recognition-to-ban-kids-gaming-past-bedtime"
-webUrl: "https://www.bloombergquint.com/technology/tencent-uses-facial-recognition-to-ban-kids-gaming-past-bedtime"
+excerpt: "In the latest bid to curb video-game addiction in China, tech giant Tencent Holdings Ltd. has launched a facial recognition system to stop minors gaming into the night. The initiative will prevent people under 18 from playing between 10 p.m. and 8 a.m. The ..."
+publishedDateTime: 2021-07-08T22:41:00Z
+originalUrl: "https://www.bloomberg.com/news/articles/2021-07-08/tencent-uses-facial-recognition-to-ban-kids-gaming-past-bedtime"
+webUrl: "https://www.bloomberg.com/news/articles/2021-07-08/tencent-uses-facial-recognition-to-ban-kids-gaming-past-bedtime"
 type: article
-quality: 39
+quality: 69
 heat: -1
 published: false
 
 provider:
-  name: BloombergQuint
-  domain: bloombergquint.com
+  name: Bloomberg
+  domain: bloomberg.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://gumlet.assettype.com/bloombergquint%2F2018-08%2F3a8e2237-2edb-4494-bcf2-231993fb6108%2FBLOOMBERG_LOGO.png?rect=0%2C56%2C1920%2C1008&w=1200&auto=format%2Ccompress&ogImage=true"
+  - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iy2UcpOVPA7k/v0/1200x800.jpg"
     width: 1200
-    height: 630
+    height: 800
     isCached: true
 
 related:
@@ -388,6 +392,6 @@ related:
         height: 480
         isCached: true
 
-secured: "6gGjJprhTqJ2Z3WOeXL143qDI6g4OAV6a4BQDi/pMrJz+Glxg4tJHS/NmdbdZIOY/1tCrtq+9BPNU3z26a6bXaF1rAKjG02SURuMeL7R+lKWCcWX+bGH2XD7JMuGNu2uAg65+sqRCgNJtz+u/syOJZQ2A26IENSEPRZPIJ2N/BeYBWg+GmvWhkh+OGxvfB1YpgMR/jHxJdfXIDtZAPFpmF2DMKXMQv8lUMbgl60EXJ5Tiag+Qv/jYrEBnxfFBFVfquPv8+/s6mgeA6l3bkJs8g1RoMDdY9SoXVA3djV8sBWob736IkQH0ZvT6zrz51nKOc922/cVfpcaSjvTgKjwiXuY7Ck9mJoubOpqMaypCBI=;luUirvPRKZn2xRaAL2JMOA=="
+secured: "rQ2Q/SU1RRhZwbmdpRD0GH8W+pHG0oIi/5Lzb5qKmUnOYdLcIORyDw6GVrBRBZDitKzSZWpQ8zCgax3UW6Sj6jCsjtnj9PiQXjXG1KBAkg+sa/xlC8YYpK70MpqeecaUmFRn8FYsOdtmneCg4uIKiJ1pddgJeI0PWihf+mgL47Z15oCMP78Ipg6vej+3lY4bVL0TYZdExaisRJNM/xqdJkIoWwh2nJuN3fCyyfi+HEMHvhbtpKTiNvGQLgoVNrJPX8kVCMmzR9ThM/53gHSaQ8kHbg8NmIEZ/CTYBpUOFsSSBAgVjGSEg7GPNiFCImQNk2iMa7t07+zfesbq9HzI4AgdRvdeEYYepS1MJNZ/p24=;hS9gTUXL9VoWevYtsVz0nw=="
 ---
 

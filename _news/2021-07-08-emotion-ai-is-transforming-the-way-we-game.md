@@ -9,8 +9,8 @@ ampWebUrl: "https://techbullion.com/emotion-ai-is-transforming-the-way-we-game/a
 cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/emotion-ai-is-transforming-the-way-we-game/amp/"
 type: article
 quality: 57
-heat: 78
-published: true
+heat: 68
+published: false
 
 provider:
   name: Impacts
@@ -26,20 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Four ways artificial intelligence is helping us learn about the universe"
-    excerpt: "Astronomy is all about data. The universe is getting bigger and so too is the amount of information we have about it. But some of the biggest challenges of the next generation of astronomy lie in just how we're going to study all the data we're collecting."
-    publishedDateTime: 2021-07-04T12:47:00Z
-    webUrl: "https://www.tribuneindia.com/news/schools/four-ways-artificial-intelligence-is-helping-us-learn-about-the-universe-278164"
-    type: article
-    provider:
-      name: The Tribune
-      domain: tribuneindia.com
-    quality: 36
-    images:
-      - url: "https://englishtribuneimages.blob.core.windows.net/gallary-content/2021/7/2021_7$largeimg_445174630.jpg"
-        width: 788
-        height: 443
-        isCached: true
   - title: "Winning formula: How AI is changing the chemical sector"
     excerpt: "It is helping manufacturers make profits while improving quality and efficiency, alongside environment preservation"
     publishedDateTime: 2021-07-05T08:07:00Z

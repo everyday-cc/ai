@@ -42,22 +42,6 @@ related:
         width: 918
         height: 506
         isCached: true
-  - title: "Astronomers Use Artificial Intelligence to Reveal the Actual Shape of the Universe"
-    excerpt: "Japanese astronomers have developed a new artificial intelligence (AI) technique to remove noise in astronomical data due to random variations in galaxy shapes. After extensive training and testing on large mock data created by supercomputer simulations,"
-    publishedDateTime: 2021-07-04T12:12:00Z
-    webUrl: "https://scitechdaily.com/astronomers-use-artificial-intelligence-to-reveal-the-actual-shape-of-the-universe/"
-    ampWebUrl: "https://scitechdaily.com/astronomers-use-artificial-intelligence-to-reveal-the-actual-shape-of-the-universe/amp/"
-    cdnAmpWebUrl: "https://scitechdaily-com.cdn.ampproject.org/c/s/scitechdaily.com/astronomers-use-artificial-intelligence-to-reveal-the-actual-shape-of-the-universe/amp/"
-    type: article
-    provider:
-      name: SciTech Daily
-      domain: scitechdaily.com
-    quality: 51
-    images:
-      - url: "https://scitechdaily.com/images/AI-Data-Analysis-Actual-Shape-of-the-Universe-777x511.jpg"
-        width: 777
-        height: 511
-        isCached: true
 
 secured: "CjpIHfzPwg9mrazcGDn6GI6CyGx3BmEqiN+eRuMi1gGvCEXly3q8PqoAib9ssggTaGUBmUWSTylpBWA7vZLlBRzo3u+5E1FDgaPFGyh+zACZQkgRQPC9d8hMrsrjBv4IBZf4M/7R+sz+h0XZ7ymHjy3qeosdDZCfbXq+iG6r5TsMdHpxQA5Mn6RiLVkd4VJhibSufv2CgEe+Na28kgRqX2wPahFqg4wvFcAbf7vKki0k7SDWF46ORwyaZtB24QJDnY+4fZTWFAm/1LKFmdCuCf7C71d9xzVleRuZ+6IeONpvgq3YMYEY1mggokCiSkqAwM27YxsldyVPJMm2dDgwLbQD4N6dpk0iVDrDKBgS6X0=;ellhknGHuiMmFBN+Vz5aOw=="
 ---

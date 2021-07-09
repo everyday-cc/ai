@@ -1,30 +1,29 @@
 ---
 category: news
-title: "SBH Health System Selects ElectrifAi's Machine Learning Technology to Transform Operations"
-excerpt: "ElectrifAi, one of the world's leading companies in practical artificial intelligence (AI) and pre-built machine learning (ML)"
-publishedDateTime: 2021-07-08T12:00:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/sbh-health-system-selects-electrifais-machine-learning-technology-to-transform-operations-301327557.html"
-webUrl: "https://www.prnewswire.com/news-releases/sbh-health-system-selects-electrifais-machine-learning-technology-to-transform-operations-301327557.html"
+title: "SBH Health System Selects ElectrifAi’s Machine Learning Technology to Transform Operations"
+excerpt: "ElectrifAi, one of the world’s leading companies in practical artificial intelligence (AI) and pre-built machine learning (ML) models, announced today its collaboration with St. Barnabas Hospital, the flagship of the SBH Health System,"
+publishedDateTime: 2021-07-08T12:15:00Z
+originalUrl: "https://apnews.com/press-release/pr-newswire/health-business-technology-c6c8aab61ac24f3d4290e373480a7428"
+webUrl: "https://apnews.com/press-release/pr-newswire/health-business-technology-c6c8aab61ac24f3d4290e373480a7428"
 type: article
-quality: 46
-heat: 46
+quality: 44
+heat: 44
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
-  - AI in Finance
-  - AI
   - Machine Learning
+  - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/1527876/ElectrifAi_Logo.jpg?p=facebook"
-    width: 594
-    height: 315
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
-secured: "KQdZ1WJV3tWO4RZZKPI9fH6unKcJ4LQCiR5OSYqK2dnrclVys2MjnJmpE/VtcQwE60U7qGD3aCtbRdTB+KrtdWOzBVSpIewq0KNeC0uxD5ESfDtgg1ofy4olc8rpweCSdh8jzgEalK04VaK6xkBL0nWuLm0ZvpIlmgHbl7Q/2gXHBT9W4NfWCTZ2HQIE+j+lhQDwnmZ4bYB2WiRmlUoi4ZCSJa396qu5P3ROjjXE2AWah3yvV386CAJS28RoEPI3FWlmU78zTtleRf+AwS71mU56N/6R2a1huAZOmKAOaOFW18HgfvUu3wCsK7homkorAyco6X4chVHwIAHlJdQpiaY9/Adh6sj1CXV8mxD5GZo=;5es5CqHdVR3vve4UYJjHFA=="
+secured: "BX86eGmWnowxWEJDoFCwyq5lfAdMs1RL82EYtMB4u5CMfJ3uukBskhhxKU8obpPXTK+nsc9HoDsAdkykzRzRFEO9EcnPKnLysI/+F8E44S3/0Z6DqzecELWcfwYkS8g5H/vh5YC0xsvobJhcwpSBQe9MOeCz1Boxo4c1ByJz8GjTxPz4xUtaFgjInzkyTf9B56zqv7vOvI6NOhQjPPs1Fo0cAkv9rB7PBvp7uUae4DLdZ04a4pt1211kiv3klkCcKF28euo+drauDCSjJCtFFTTzjdV0OF3rNMcHgvukA7G1UgBbDQoM0K/eBUfjXltOT1HWnqC9tlE8aobHZIMq4h9lgnPqMMvOAcKbGPOdwIA=;vbhyOYwaX4lRDTIY0pRXeQ=="
 ---
 

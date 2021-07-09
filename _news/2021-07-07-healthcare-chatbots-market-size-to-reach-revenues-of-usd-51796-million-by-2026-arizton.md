@@ -42,7 +42,7 @@ related:
     provider:
       name: Benzinga.com
       domain: benzinga.com
-    quality: 20
+    quality: 22
     images:
       - url: "https://cdn.benzinga.com/files/imagecache/og_image_social_share_1200x630/sites/all/themes/bz2/images/bz-icon.png"
         width: 1200

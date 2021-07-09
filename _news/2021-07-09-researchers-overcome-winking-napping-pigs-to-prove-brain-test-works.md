@@ -22,6 +22,17 @@ topics:
   - Computer Vision
   - AI
 
+related:
+  - title: "Pavlovian eyeblink test works in 3-week-old pigs, study proves"
+    excerpt: "If you've ever been to an eye doctor, there's a good chance you've felt the sudden puff of air to the eye that constitutes a traditional test for glaucoma. It's no one's favorite experience, but the puff is non-invasive and harmless."
+    publishedDateTime: 2021-07-09T04:32:00Z
+    webUrl: "https://www.news-medical.net/news/20210709/Pavlovian-eyeblink-test-works-in-3-week-old-pigs-study-proves.aspx"
+    type: article
+    provider:
+      name: News Medical
+      domain: news-medical.net
+    quality: 4
+
 secured: "mx5Tk/+f69PO+FtDW5NQs75D40JWBBpS3URkV+mA3RQCYfcCf4/HYV9B/FR0cM25StyESYwxlDHWxrDWuIVRRUMi8KcRuIJgFlGSa2FH52hG+lTrVTj5VaxAzGlPvLAD+TJdj7hnziQEGJOryLOXlsqF6GUAXogrr53US1kngda70kvJ90QA9LKf8LhceNLZh+YNuE1PEICiBUWmELt80nxrnMgaa3FdXJEShZWigeW4r3e3feKL2rxih/mcG0oqEOiZI83RHcZtFmgmoTZ8GC9gOzDFKW7QxeO9EmY0eu0t+mwbizOKcIT57VoiRf9aM5bS0YPhuYGTrwHMlv3/GhHiLEWeSVXgDprZSphj9BM=;4zOIKYNGQSj5Cyn2etznxA=="
 ---
 

@@ -2,9 +2,9 @@
 category: news
 title: "Micron Technology Puts Its Cash to Work Using Artificial Intelligence"
 excerpt: "Micron Technology Inc.’s cash deposits are generating millions of dollars in additional returns for the memory-chip maker thanks to the help of an artificial-intelligence tool developed internally. The AI application allows Boise, Idaho-based Micron to ..."
-publishedDateTime: 2021-07-08T22:01:00Z
-originalUrl: "https://www.wsj.com/articles/micron-technology-puts-its-cash-to-work-using-artificial-intelligence-11625781002"
-webUrl: "https://www.wsj.com/articles/micron-technology-puts-its-cash-to-work-using-artificial-intelligence-11625781002"
+publishedDateTime: 2021-07-08T22:00:00Z
+originalUrl: "https://www.wsj.com/articles/micron-technology-puts-its-cash-to-work-using-artificial-intelligence-11625781002?mod=hp_minor_pos7"
+webUrl: "https://www.wsj.com/articles/micron-technology-puts-its-cash-to-work-using-artificial-intelligence-11625781002?mod=hp_minor_pos7"
 ampWebUrl: "https://www.wsj.com/amp/articles/micron-technology-puts-its-cash-to-work-using-artificial-intelligence-11625781002"
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/micron-technology-puts-its-cash-to-work-using-artificial-intelligence-11625781002"
 type: article
@@ -73,6 +73,6 @@ related:
         height: 930
         isCached: true
 
-secured: "ftOVUJx1HcoPBh5VtAyg7FWfLieqy2+vZ7Wj38nqIXxIQtTQzLmwkNx6g2OD5M4rjKveRisSE9f10dhiJEuacZ3RhNSI2RHQnBalsJf36ypO/vZzVCWijzVd0kmEpg82NbRhLMFv7QbkLXlhRbhsMai+i46WRTWUSyGe7MVaZVucoiglsT/DYPYLPNpbQyN8/gqoo79IELoJJ6/BS9gQD9GChEMSYMZtDIqc4jIyWFctGYZbYSQtwDGf4qaMXNoSG7Ih68XqiVhd/ChpzV3WP+qMkWVCi6z+rPCmF4kbN8gbARVKA6/+vW/ifydHwIO+3HF03+kBBXqIs6c+emzwyhjJVJG6r5o8d+BIg8LynSA=;40TVbo9OVjhj1c9rYXfYVw=="
+secured: "0hW04mrrl91b5zeY/fPyYA4A8fNxlz6ObV1Wc+3mr+LIksxDtvRs3e7Tn1SXbAxvXWpKvSTW4Eu/4LIsGgKsGuQN8M4gHfmpT0o8yYh6GNFroQVa0B0H6Mh1Qsy+TDqYZfhnYLTQy2Vr8mJG4XjcVaDFYwkGS2tiINuT2mvT4iCB0lvv68d9KsuDUaVRuKICSpBNTDRG9YvmYU4PEQhvFIQsf5jfctV8K+2/VLdpAeRKz/Azu3RpX7RTJ2M/gcVMqjmwACkSVQ3jrgd7XW/qYW3ZklXAZvaWKL5qbTWZlHJFg60PN/0u+FBnIcKoEzZ9E5IE6Moxo5LelqOBVjrXvE3ZlF/5nBl5Ji/iMKyaZl8=;tWRlGPpkKNOI/IQ9Mf/zpA=="
 ---
 
