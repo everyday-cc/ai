@@ -1,28 +1,29 @@
 ---
 category: news
 title: "Inspur AI Servers Demonstrate Leading Performance in the Latest MLPerf™ Training v1.0 Benchmarks"
-excerpt: "Recently, MLCommons ™, a well-known open engineering consortium, released new results for MLPerf™ Training v1.0, the organizati"
+excerpt: "MLCommons ™, a well-known open engineering consortium, released new results for MLPerf™ Training v1.0, the organization's machine learning training performance benchmark suite. Inspur topped the list of single node performance in four out of eight tasks in the Closed division of the MLPerf™ Training v1."
 publishedDateTime: 2021-07-09T13:07:00Z
-originalUrl: "https://www.joplinglobe.com/region/national_business/inspur-ai-servers-demonstrate-leading-performance-in-the-latest-mlperf-training-v1-0-benchmarks/article_4134bdde-a5fd-54f6-9b17-7e4c27fec016.html"
-webUrl: "https://www.joplinglobe.com/region/national_business/inspur-ai-servers-demonstrate-leading-performance-in-the-latest-mlperf-training-v1-0-benchmarks/article_4134bdde-a5fd-54f6-9b17-7e4c27fec016.html"
+originalUrl: "https://www.thedailytimes.com/business/inspur-ai-servers-demonstrate-leading-performance-in-the-latest-mlperf-training-v1-0-benchmarks/article_de7982b5-d2fc-526c-96e9-41fc3382ffdd.html"
+webUrl: "https://www.thedailytimes.com/business/inspur-ai-servers-demonstrate-leading-performance-in-the-latest-mlperf-training-v1-0-benchmarks/article_de7982b5-d2fc-526c-96e9-41fc3382ffdd.html"
 type: article
-quality: 24
-heat: 24
+quality: 26
+heat: 26
 published: false
 
 provider:
-  name: Joplin Globe
-  domain: joplinglobe.com
+  name: thedailytimes.com
+  domain: thedailytimes.com
 
 topics:
+  - AI Hardware
   - AI
 
 images:
-  - url: "https://bloximages.chicago2.vip.townnews.com/joplinglobe.com/content/tncms/assets/v3/editorial/2/33/2338fbac-3baf-545e-a68a-4d4f3aab2b7f/60e84c87e373e.image.jpg?resize=709%2C630"
-    width: 709
+  - url: "https://bloximages.chicago2.vip.townnews.com/thedailytimes.com/content/tncms/assets/v3/editorial/d/c7/dc7ed061-4e43-54d2-8c97-70cb2bab8207/60e84c1937a45.image.jpg?crop=1527%2C859%2C0%2C249&resize=1120%2C630&order=crop%2Cresize"
+    width: 1120
     height: 630
     isCached: true
 
-secured: "Q0YyMAcVQP8fnWNJBCiVERTE8YGFJuqveXo/iav6bLdZ0iWmgNhJejugVMsh/OfagkpLnr7P+q1i4H/S50X7QzHtcdLIsoI1YN6y0Pget6/rolr3Cg4B8o7N5G7LXJKVtXhIf7gjf+nb7/f3puik9QmRD921i3IRdOzWnBTliaNwIahFxF5du/CyDXSoR5czJph7mc2Ze/ayJtDkjuEx6idjLLVeBBFwwPBFFunPr5q9PMMMFnMHej6XOm3fj1YASDnfRl6GG/62vtAVte9Res2lnEiyp2wNjBkG4nTXO9sT42kdeOH6+iJa6xXlnj5F+9AF0GKb8J36/0pr9Ad3tFgWEywqAunQ8hQlVvO0lR0=;HWZmc9t3t9aXz38+DTo1vQ=="
+secured: "wsNW9QnR5OgZL7FUISGlkccp9LW2Hmf0goZJ75T8Usxu+8632BXuSmceelkfmaUNsENMD77xd/6Uou0tDLxPThpxOANGNR/24aOHwCbR2J6vbbzjNgbbQRnPVp3Tc3dcAMlr3zSr2lLb/yOUvGrLW144Pxg9Sh7bJkwlW29NDowFJTP6gaTSFExS7o6r3tAwXdi2GymjvsiRZloFcipGaGsq2OGRFQbih8JZYzoHyguhhJVKOXVA9tYqAoupwDIaI3EADEOq7JBndyUiOrsVDp4DxtpFK+Mh8+8NQVjTkbf3H7wN67hvbTyjPcyPxolV7OuZuPCeN6qUoJGopRrRBH2l+V6EMwC0JTWbTYoizRk=;C6XlPdoP8a8OkZfxUpOFAw=="
 ---
 

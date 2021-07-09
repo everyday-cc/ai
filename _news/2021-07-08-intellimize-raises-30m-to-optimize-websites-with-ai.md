@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/07/08/intellimize-raises-30m-to-optimiz
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/08/intellimize-raises-30m-to-optimize-websites-with-ai/amp/"
 type: article
 quality: 87
-heat: 98
+heat: 97
 published: true
 
 provider:

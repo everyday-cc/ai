@@ -21,6 +21,20 @@ topics:
 
 related:
   - title: "Zoom Releases Edge Speech Recognition Powered by Sensory"
+    excerpt: "Sensory Inc., a recognized leader for Edge AI, is announcing the integration of its TrulyNatural embedded speech recognition software within the latest public beta release of Zoom Rooms for Android, iOS,"
+    publishedDateTime: 2021-07-07T17:30:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/zoom-releases-edge-speech-recognition-powered-by-sensory-1030586677"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 69
+    images:
+      - url: "https://mma.prnewswire.com/media/215646/sensory_inc_logo.jpg"
+        width: 400
+        height: 224
+        isCached: true
+  - title: "Zoom Releases Edge Speech Recognition Powered by Sensory"
     excerpt: "Sensory Inc., a recognized leader for Edge AI, is announcing the integration of its TrulyNatural embedded speech recognition software"
     publishedDateTime: 2021-07-07T15:30:00Z
     webUrl: "https://www.prnewswire.com/news-releases/zoom-releases-edge-speech-recognition-powered-by-sensory-301326862.html"

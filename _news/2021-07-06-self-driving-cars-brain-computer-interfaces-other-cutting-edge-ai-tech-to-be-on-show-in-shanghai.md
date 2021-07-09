@@ -25,19 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "AI is driving new skills in supply chain"
-    excerpt: "New and emerging technologies are changing the way supply chains operate. The importance of technology on supply chains continues to increase with the many recent external changes affecting supply chains,"
-    publishedDateTime: 2021-07-06T14:31:00Z
-    webUrl: "https://www.scmr.com/article/ai_is_driving_new_skills_in_supply_chain"
+  - title: "How robots and brain-computer interfaces could transform stroke patients' recovery"
+    excerpt: "considered by many the next generation of artificial intelligence technology. In the NCyborg Project, the two organisations will draw on their expertise in brain-computer interface technology and brain-inspired intelligent robot technology to establish a ..."
+    publishedDateTime: 2021-07-09T14:20:00Z
+    webUrl: "https://www.eurekalert.org/pub_releases/2021-07/kccl-hra070921.php"
     type: article
     provider:
-      name: Supply Chain Management Review
-      domain: scmr.com
-    quality: 37
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 48
     images:
-      - url: "https://www.scmr.com/images/2020_article/SCMR2003_F1_Artificial_Intelligence_with_AI-Main800.jpg"
-        width: 800
-        height: 533
+      - url: "https://www.eurekalert.org/multimedia/pub/web/270264_web.jpg"
+        width: 720
+        height: 474
         isCached: true
 
 secured: "kv/7aOdAWr5hiqYU52Hg1Z9T42BdbKuHAqowUuB+AHT2BVysg1dQPwMly/GBLEhpKiQpeiTsCrTaXogXM0nMGzMkZq/MoWGSFCxVJGpaXZcs3sQDyqQw4Mz56TatDBaX5eaE3YxwOw5uZavygbyrUlddHH7clgSthKQs2NbY6TlVdvIYsqfy0lsbulBLGzxMwNEsegDS5/2+0U+d8fA4w98dRpjdnAjUyROqwgXM1mmkn2F48WRfFz7n8ynrappxPlpN5VURMIl73DXJs5syzdN/bDP69vgqt7cMa6ONqwWpk/tl94LpS7n0w5s4bM5CMoECXtrJAXy3w02G9N32t5zIxBp2+dBUi5iEBOBii96rLxTdPsFh3H2kY1ipIKkBR83w43q6GY21/jfwG/Z9676egsG3JLw9YoFtyGlFB+4h52q/wSq5vM0s8Fs2LpYvxOeWbZ0QSN5rWm7vCwQJwfszQ+OG0ZejMtmuTKb29aDyOuuWeyQ6knsdI99tuzoC+ii0RjxepNNpOLA8+3uVhg==;LFwSXff6BBri8tHjG1jrZA=="

@@ -41,6 +41,15 @@ related:
         width: 1200
         height: 740
         isCached: true
+  - title: "AI bolsters human-centric disaster risk reduction"
+    excerpt: "The impact of natural hazards could worsen in the years ahead, with more frequent, intense events. AI is a tool for countries to manage, respond to disaster risks."
+    publishedDateTime: 2021-07-09T14:26:00Z
+    webUrl: "https://www.preventionweb.net/news/view/78891"
+    type: article
+    provider:
+      name: Prevention Web
+      domain: preventionweb.net
+    quality: 19
 
 secured: "+Xsy4HWNAYVGWSI0pyrzZ3BZsrhFdOqvkDowsYkzl6i3lP2CCPW33ymGpYApDk8kA0xKoXnCAdjWzYc2+dR5od4pBthNwlCIYc2wP110ImT1G920tMJ1XZxqKkmqFXUIF3uTmH7N7Ey4zhRQPlIbiSfX4dFSDwFIOZYQR3Ox4Sb/JxgjQkRb5n20N4kx9mR0DHCS9j/YpNyfPh3pZd73OB8S25uV27tJPYqw1HuksH6FJiP68D/0QmWkOOSlOfRQncrJFkUE/VFERd+M3yYUeCEZsJcrNHgLt7ehcnYradgfWj2SeSSgS7s1q8bqCWBeNzmy567F4Djyd6cy6+m28h3r6mu+aDhwQrjwNTcho9o=;KnHM8eiN3r1kpEhcLLTT2Q=="
 ---

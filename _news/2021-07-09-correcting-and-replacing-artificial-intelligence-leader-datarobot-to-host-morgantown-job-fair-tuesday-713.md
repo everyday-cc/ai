@@ -1,27 +1,26 @@
 ---
 category: news
 title: "CORRECTING and REPLACING Artificial Intelligence Leader DataRobot to Host Morgantown Job Fair Tuesday, 7/13"
-excerpt: "DataRobot, the leader in Artificial Intelligence, will host a public job fair from 3-7 p.m. at Morgantown’s Erickson Alumni Center on Tuesday, July 13th. In June, DataRobot announced the opening of a new office at Vantage Ventures Morgantown headquarters."
+excerpt: "Artificial Intelligence Leader DataRobot to Host Morgantown Job Fair Tuesday, 7/13 (instead of Artificial Intelligence Leader DataRobot to Host Morgantown Job Fair Tuesday, 6/13) The updated release reads:  ARTIFICIAL INTELLIGENCE LEADER DATAROBOT TO HOST MORGANTOWN JOB FAIR TUESDAY,"
 publishedDateTime: 2021-07-08T19:41:00Z
-originalUrl: "https://www.joplinglobe.com/region/national_business/correcting-and-replacing-artificial-intelligence-leader-datarobot-to-host-morgantown-job-fair-tuesday-7-13/article_56b88038-894a-595e-abca-6abaade06353.html"
-webUrl: "https://www.joplinglobe.com/region/national_business/correcting-and-replacing-artificial-intelligence-leader-datarobot-to-host-morgantown-job-fair-tuesday-7-13/article_56b88038-894a-595e-abca-6abaade06353.html"
+originalUrl: "https://apnews.com/press-release/business-wire/business-technology-artificial-intelligence-morgantown-job-fairs-bd5cae3128494491a422c67d7dee66d2"
+webUrl: "https://apnews.com/press-release/business-wire/business-technology-artificial-intelligence-morgantown-job-fairs-bd5cae3128494491a422c67d7dee66d2"
 type: article
-quality: 51
-heat: 71
-published: true
+quality: 34
+heat: -1
+published: false
 
 provider:
-  name: Joplin Globe
-  domain: joplinglobe.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
-  - AI in Robotics
   - AI
 
 images:
-  - url: "https://bloximages.chicago2.vip.townnews.com/joplinglobe.com/content/tncms/custom/image/da68c2f8-c3ab-11e5-94c7-b366ea8ae93c.jpg"
-    width: 1200
-    height: 630
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
 related:
@@ -49,6 +48,6 @@ related:
       domain: morningstar.com
     quality: 43
 
-secured: "X/WoSM0Q+DEBLnpKuICCfQrlesvF65/e6awpW/i9J7IiCbsvY6QnX2caEtt2NsqeqFkN81nOFQod8AJd+OAT50oFOJNfOEZD1IqtqhOGklXnfWnMTm831FH3d2b7Petkjvl4RCDCxOPEA5FMb4/OPbWKiTYX39O7AyCis2jRej0u708b+MTBhRnm0F2osf3utTy1HGAqiBtug4fg1MaEHmUVMdKT2JCwjFqccH0qN/G4BU7xCgljXxqSsCmoM5guUfnP9oaxhpaoPaha1KiKvC4HuZ+4C3wDvmVg8TXxVLOPdb61PJn1gCWTerOOVzUKEqEEDCoywtvAP67rtOT1vx3lPjTGnUXpgVyTC5hF7tc=;+gveikAdeP4Du7qqsXq+Ew=="
+secured: "E7xOl4BoKUTKJuCBYCdR+JYEmznFRShWwNwDuJzMbBhCm3SeKAw5lv9E8h8TaSOfXrFLImFWKvZRpLeq+s8eAnyAdjKHmXv7q7VWvoWUa99aGX3Tx8SKSPI8mG7i5uH1KMbopF4LrhqBwwx6pzY753I3dy+19KKTFVwEVJd1pRszgpoVnDc6NiTn1gSVUuvb5zbZsznvDk2pnv2kKZtugWna5rnjoXyBsZBBGIDMbwjedv+z/7wK4AvORPb8OahTwOJg8wKZs2/yp03rY3Cw/3SSWdIGF5AUMuacbu+NAKk7mj52JrpQZfY6vHSdr6/wkJmmrfjgl3KTtbjY6t0FvZk5VO6Q+A25vt3taTNkp3w=;ZFMb54bdoT3lPBrLuP3y/A=="
 ---
 

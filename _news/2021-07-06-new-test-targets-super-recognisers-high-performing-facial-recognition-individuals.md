@@ -71,6 +71,20 @@ related:
         width: 400
         height: 400
         isCached: true
+  - title: "Try-on facial recognition apps land cosmetics firms in court"
+    excerpt: "Two proposed class actions charge Mary Kay Cosmetics and Ulta Beauty with violating Illinois' Biometric Information Privacy Act with their try-on apps."
+    publishedDateTime: 2021-07-09T15:09:00Z
+    webUrl: "https://www.biometricupdate.com/202107/try-on-facial-recognition-apps-land-cosmetics-firms-in-court"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 39
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/10/12124609/selfie-biometric-authentication.jpg"
+        width: 1200
+        height: 628
+        isCached: true
 
 secured: "5aMyvnkRh2DSdcbVarpsnLQcbhTuoIvwGpVx99BAJbvoPnK2RdhzDvKUeQnY0kxdblBWQMn4DSeH9X/Pp/lCXz+Qs34vzMDuHECmbk9S8oS7iCL249f4pA5G/L6eHlsJWyV9ZEYF3K7jDOGjhbJ6Z5BbggVZJyOB3Ykgk6fK0d1pEa4/QPfcLOe1nGsEzlf+ClXRDNXZow+//lzXo0ZLb1b56+tX6xgHsdPCeFg8FfjIdvK8nKadIvr2N0tA6neboPVwovpVdmDlKQwosYa9cCIEM4X+UCwVpXCmr4XmzOcLzjlO/LxVhes398IHvdzavCVxagpKJ/M3s1RjMKTm5Jnc1XQ56cQyyTCM+XCYmatBsyYgSjrdkIkcK7YDz9nSYhOYxxhTNcLBTsyDfJuKYLWbxZS5jHsZbfxpOlzaO+kxVHsti6ymdTbCFxD9JfkHLhRSOv8FFnYlmg3xu+70x8C59561HHidKAwoO3Dl2TrMBBa1pvuY5SXUlLjzJcrzaY4RwtbfAKUTTgGJVn+FQg==;G1tIldoq6DCd1eeAlECjYQ=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wsj.com/amp/articles/micron-technology-puts-its-cash-to-
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/micron-technology-puts-its-cash-to-work-using-artificial-intelligence-11625781002"
 type: article
 quality: 87
-heat: 117
+heat: 118
 published: true
 
 provider:

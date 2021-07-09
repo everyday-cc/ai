@@ -9,8 +9,8 @@ ampWebUrl: "https://www.proactiveinvestors.co.uk/companies/amp/news/954320"
 cdnAmpWebUrl: "https://www-proactiveinvestors-co-uk.cdn.ampproject.org/c/s/www.proactiveinvestors.co.uk/companies/amp/news/954320"
 type: article
 quality: 57
-heat: 67
-published: false
+heat: 77
+published: true
 
 provider:
   name: Proactive Investors
@@ -26,6 +26,15 @@ images:
     isCached: true
 
 related:
+  - title: "AI bolsters human-centric disaster risk reduction"
+    excerpt: "The impact of natural hazards could worsen in the years ahead, with more frequent, intense events. AI is a tool for countries to manage, respond to disaster risks."
+    publishedDateTime: 2021-07-09T14:26:00Z
+    webUrl: "https://www.preventionweb.net/news/view/78891"
+    type: article
+    provider:
+      name: Prevention Web
+      domain: preventionweb.net
+    quality: 19
   - title: "CentralNic Establishes Dedicated Data and Artificial Intelligence Group to Leverage its Vast Data Assets, Headed by Leading Expert in Data Science"
     excerpt: "CentralNic Group plc (AIM: CNIC), the fastest-growing company in the domain name industry, with over 45 million domains using its platforms, today announced that it has established a Data and Artificial Intelligence (\"AI\") Group to leverage its"
     publishedDateTime: 2021-07-07T06:21:00Z

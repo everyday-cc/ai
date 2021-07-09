@@ -7,7 +7,7 @@ originalUrl: "https://www.just-food.com/features/which-companies-are-leading-way
 webUrl: "https://www.just-food.com/features/which-companies-are-leading-way-for-artificial-intelligence-in-consumer-sector/"
 type: article
 quality: 29
-heat: 29
+heat: -1
 published: false
 
 provider:
@@ -22,6 +22,22 @@ images:
     width: 2560
     height: 1842
     isCached: true
+
+related:
+  - title: "Which companies are leading the way for artificial intelligence in the aerospace, defence & security sector?"
+    excerpt: "Fujitsu Ltd and Honeywell International Inc are leading the way for artificial intelligence investment among top aerospace, defense & security companies according to our analysis of a range of GlobalData data."
+    publishedDateTime: 2021-07-09T14:32:00Z
+    webUrl: "https://www.airforce-technology.com/features/which-companies-are-leading-the-way-for-artificial-intelligence-in-the-aerospace-defence-security-sector/"
+    type: article
+    provider:
+      name: Airforce Technology
+      domain: airforce-technology.com
+    quality: 35
+    images:
+      - url: "https://www.airforce-technology.com/wp-content/uploads/sites/4/2021/05/shutterstock_1764865133.jpg"
+        width: 1000
+        height: 563
+        isCached: true
 
 secured: "8fWPDs1Jt9I0knD8tCe1gsRkwsTarSDLIZcdB7BfOifEWaVNwWvqpedHRpNG/bWgzZ7Y3gPHtWrUwFCCHVAjP9XPc8D+ksmkSj58Keo4CqMVwo3NuR5dWPsD0OLkuZFAMLvBMaMPGGTaT7BW5TwKkNDLX4y4yk/eRa2b5g2IgNonyPveMBVCnDXrQJZZrc18lD+3nxb/W1RtQUFW11IxxG4AiU/onQffdYIhjs7RIR73X/ESVeuJKvw05Hh2863icWDUE3WIFbKlx4tQuEopGSKtBaQBvu+YRIYw0HriEs7m4QZSFC/cEsorLSQkD3amUTstyCpNbT65nKJsbSxhc9Cjdi/LGpOegJE0u0qp+2w=;D30bAHIo5NzI9wyoejTMCA=="
 ---

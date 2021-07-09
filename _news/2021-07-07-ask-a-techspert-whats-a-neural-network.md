@@ -9,7 +9,7 @@ ampWebUrl: "https://blog.google/technology/ai/ask-a-techspert-whats-a-neural-net
 cdnAmpWebUrl: "https://blog-google.cdn.ampproject.org/c/s/blog.google/technology/ai/ask-a-techspert-whats-a-neural-network/amp/"
 type: article
 quality: 111
-heat: 112
+heat: 111
 published: true
 
 provider:

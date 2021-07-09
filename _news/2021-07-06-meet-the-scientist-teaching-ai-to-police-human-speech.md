@@ -6,8 +6,8 @@ publishedDateTime: 2021-07-06T05:00:00Z
 originalUrl: "https://www.messenger-inquirer.com/news/meet-the-scientist-teaching-ai-to-police-human-speech/article_7ca13cef-540a-5e62-82c5-18ef75510909.html"
 webUrl: "https://www.messenger-inquirer.com/news/meet-the-scientist-teaching-ai-to-police-human-speech/article_7ca13cef-540a-5e62-82c5-18ef75510909.html"
 type: article
-quality: 39
-heat: 39
+quality: 41
+heat: 41
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+  - Facebook AI
 
 images:
   - url: "https://bloximages.chicago2.vip.townnews.com/messenger-inquirer.com/content/tncms/custom/image/c52fb608-0a01-11e5-9c50-bbf37a41334d.jpg"
