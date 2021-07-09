@@ -77,6 +77,20 @@ related:
         width: 800
         height: 545
         isCached: true
+  - title: "Halo and Las Vegas Launch Driverless Car Service Powered by T-Mobile 5G"
+    excerpt: "G is beginning to power everything from connected farms to connected cars! Recently, Halo launched one of the first commercial driverless car services in the U.S. running on the T-Mobile (NASDAQ: TMUS) 5G network in Las Vegas."
+    publishedDateTime: 2021-07-09T19:05:00Z
+    webUrl: "https://apnews.com/press-release/news-direct-corporation/business-technology-las-vegas-driverless-cars-6c9abdf2474149cda45f5a433d8f4e7f"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 39
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "Las Vegas to Get 5G Driverless Car Service, Courtesy of Halo and T-Mobile"
     excerpt: "Las Vegas will soon ride in driverless cars powered by 5G, thanks to a partnership between T-Mobile and Halo. Autonomous driving represents an appealing and flourishing market in this day and age. And we’ve got all the tools to make that happen."
     publishedDateTime: 2021-07-09T07:12:00Z

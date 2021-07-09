@@ -1,18 +1,18 @@
 ---
 category: news
 title: "Heifer International and IBM Work with Coffee and Cocoa Farmers in Honduras to Increase Access to Data and Global Markets"
-excerpt: "Smallholder coffee and cocoa farmers use IBM Food Trust blockchain technology and powerful AI in IBM Watson Decision Platform for Agriculture to improve farm-level decision-making and speed up transactions. WASHINGTON, July 7, 2021 /PRNewswire ..."
-publishedDateTime: 2021-07-07T08:00:00Z
-originalUrl: "https://www.nasdaq.com/press-release/heifer-international-and-ibm-work-with-coffee-and-cocoa-farmers-in-honduras-to"
-webUrl: "https://www.nasdaq.com/press-release/heifer-international-and-ibm-work-with-coffee-and-cocoa-farmers-in-honduras-to"
+excerpt: "Heifer International and IBM, together with CATIE ... The experts aim to use Watson's artificial intelligence and machine learning capabilities to provide smallholder cocoa farmers with access ..."
+publishedDateTime: 2021-07-07T12:02:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/heifer-international-and-ibm-work-with-coffee-and-cocoa-farmers-in-honduras-to-increase-access-to-data-and-global-markets-301326582.html"
+webUrl: "https://www.prnewswire.com/news-releases/heifer-international-and-ibm-work-with-coffee-and-cocoa-farmers-in-honduras-to-increase-access-to-data-and-global-markets-301326582.html"
 type: article
-quality: 9
+quality: 0
 heat: -1
 published: false
 
 provider:
-  name: Nasdaq
-  domain: nasdaq.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - IBM AI
@@ -34,6 +34,6 @@ related:
         height: 801
         isCached: true
 
-secured: "k5Mq85RR7vkZowDBCCCQQT2opCIJru2cR50rGIqQOmQYrimOVdtWjUmPtW73NKysU+HJ3r7koXXbNT/7LgJaYcR2hWM98ncFUOspbhjChuF4dNQeX5X1rF6UZwmwTfvwV+F/eYTW3Eeo2o5ikp1IjjxFsUe3LQq974XdIkU4xDLAgXd7cyK2gnAxQRUUQh3uJzx2BhDLzTNNq/k3rhViieHWyTgjl11gQK+kdgMBc4mn1P7kN8Ngi8ry+8ZbN5F8Ysr/lozxg/iP6TBWAhiQTW2E9IeR1grIyp59Qiw7B4Rz7yiwcyBRcMPzRT6/ubUcFb+EmWPzt+FcJifjwN0PraixyROyaOd/FNcoHm1Xdqo=;d2wiQ5FJZ4zRaAFSja+Rkg=="
+secured: "VJz5zMLL00cVpmqAzHH0YsZ+cDvJOZxPxSSQCCEtgJ2DSFOAE5pyuwk87YToAJQxxwvc3j+d/+gMSkaDAZQdPb2MMn4g07TACF3ZC+oleCDicakn4hDI6nKz4v2lOdOJQouDxmnBBETs5DRSZxBBHHIOW0YV9PwVkD1jfOFSQaOMhqPpU0BOpc7omQEEHPB7Mprv/rIpdeqzTVxVANQvTZ/KUbae0ch4b3pGyv5R8WK+iOv0xEYqkRpgYDd9p81mVphWLTuDpDRLzDhKy288k8mheo1W7nQ3ZOoIRutgVuKfFJ3yHZ5rKMiqSqtn7W0aa7sI/MC+6DNuIZbpPaiO6OwkcAuD2DUgbP+0utj/D3w=;oeXdHxaEzW+j1rBSzjeuuQ=="
 ---
 

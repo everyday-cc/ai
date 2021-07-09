@@ -43,6 +43,22 @@ related:
         width: 480
         height: 270
         isCached: true
+  - title: "AI Weekly: TikTok’s algorithm licensing signals China’s play for AI dominance"
+    excerpt: "Join AI & data leaders at Transform 2021 on July 12th for the AI/ML Automation Technology Summit. Register today. This week, TikTok parent company ByteDance began licensing parts of its AI technologies to third parties through a new division called BytePlus."
+    publishedDateTime: 2021-07-09T20:30:00Z
+    webUrl: "https://venturebeat.com/2021/07/09/ai-weekly-tiktoks-algorithm-licensing-signals-chinas-play-for-ai-dominance/"
+    ampWebUrl: "https://venturebeat.com/2021/07/09/ai-weekly-tiktoks-algorithm-licensing-signals-chinas-play-for-ai-dominance/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/09/ai-weekly-tiktoks-algorithm-licensing-signals-chinas-play-for-ai-dominance/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 84
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2020/09/TikTok.jpg?w=1200&strip=all"
+        width: 1200
+        height: 698
+        isCached: true
   - title: "Viral TikTok Hack About Cleverly Parking Between The Lines Is Volatile Fodder For Human Drivers And For AI Self-Driving Cars"
     excerpt: "Parking cars in lined parking lots can be an entirely frustrating task, which could be eased if we all parked in the same manner. Humans though are unlikely to abide by this rule, so maybe self-driving cars are the answer."
     publishedDateTime: 2021-07-05T15:30:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/07/08/openai-warns-ai-behind-githubs-co
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/08/openai-warns-ai-behind-githubs-copilot-may-be-susceptible-to-bias/amp/"
 type: article
 quality: 89
-heat: 152
+heat: 142
 published: true
 
 provider:
@@ -106,20 +106,6 @@ related:
       - url: "https://images.newscientist.com/wp-content/uploads/2021/07/06132848/07-july_github.jpg?width=600"
         width: 600
         height: 400
-        isCached: true
-  - title: "GitHub unveils AI coding assistant for Visual Studio Code"
-    excerpt: "GitHub Copilot is an OpenAI-powered Visual Studio Code extension that can suggest lines of code or entire functions as you type."
-    publishedDateTime: 2021-07-05T03:25:00Z
-    webUrl: "https://www.reseller.co.nz/article/689538/github-unveils-ai-coding-assistant-visual-studio-code/?fpid=1"
-    type: article
-    provider:
-      name: Reseller News
-      domain: reseller.co.nz
-    quality: 37
-    images:
-      - url: "https://d1abomko0vm8t1.cloudfront.net/article/images/800x800/dimg/dreamstime_s_209382638.jpg"
-        width: 800
-        height: 509
         isCached: true
 
 secured: "f05VwP6dNQ2xzXrGYYecnHYbrAqd7n+t/DygL8i1pgtNku2ZF1h4E8rFz/qDX7JKGWx6New5Am36jqP+49Vc9UoLkUi5mKeYtgX1oXWRBt1ZGyiUFzFZB6wvDr5dObfgee0iMZHUBfKyLWjUoMnOxUM7UopBYO89Bf9GveMyNJGZHvzmfHKAXBCZ5QMDGV0O+ObPf7aYeRuuAodoA26M0qRcsMId9UIaSXMKeX6Y5hdp3d9ZQpmCfNFdJzVrKRCj24HSl7vl2WnfDz5efA584ydZCIQrt3/m1LhiheNXkcPC/GHMMG9VnUQlHVYYC8evdTSqhpr9k1yUZr218J9Sd3lcPffImoPkrBcOd5SpHxkA/rj8aLBoBQpCTc3JLBOPoTk4RwFPQpngJ5p6qYoN5dPdc8heuBVT2wRdCndF3K8fw6KeI9KkvTTqII67/s5KU6hHEDcphiozBgHL8Eo/Fcc5Of/uzlo1JE/tEykpFYG9GgLUCctbWIffkMmhcpQXNk0j4NDH2+KzUbgugS/35Q==;63G7xrOxN0bQK+WjI/shlQ=="

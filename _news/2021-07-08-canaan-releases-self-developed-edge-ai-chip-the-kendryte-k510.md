@@ -39,6 +39,20 @@ related:
         width: 1024
         height: 768
         isCached: true
+  - title: "Canaan Announces Kendryte K510 Edge AI Chip as a Triple-Core RISC-V Part with 3 TOPS NPU"
+    excerpt: "The successor to the K210, the new K510 promises twice the clock speed, three times the NPU performance, and an extra core for DSP work."
+    publishedDateTime: 2021-07-09T21:34:00Z
+    webUrl: "https://www.hackster.io/news/canaan-announces-kendryte-k510-edge-ai-chip-as-a-triple-core-risc-v-part-with-3-tops-npu-748e95cc7f12"
+    type: article
+    provider:
+      name: Hackster
+      domain: hackster.io
+    quality: 45
+    images:
+      - url: "https://hackster.imgix.net/uploads/attachments/1322993/_W71kO42lnc.blob?auto=compress%2Cformat&w=600&h=450&fit=min"
+        width: 600
+        height: 450
+        isCached: true
   - title: "Meituan Unveils Self-Developed Drone Model, Plans for Drone Logistics Network at 2021 World Artificial Intelligence Conference"
     excerpt: "China’s leading e-commerce platform for services, today introduced a new, self-developed drone model and announced plans for a drone logistics network pilot program in Shanghai. The announcement was made at the 2021 World Artificial Intelligence Conference (WAIC) in Shanghai,"
     publishedDateTime: 2021-07-08T13:43:00Z

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.wsj.com/amp/articles/buzz-off-bees-pollination-robots-ar
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/buzz-off-bees-pollination-robots-are-here-11625673660"
 type: article
 quality: 89
-heat: -1
-published: false
+heat: 89
+published: true
 
 provider:
   name: Wall Street Journal
@@ -29,24 +29,6 @@ images:
     width: 1280
     height: 640
     isCached: true
-
-related:
-  - title: "AI-Driven Robots Are Here For Good"
-    excerpt: "AI, algorithms and technological applications are accelerating into new realms. With the proper implementation of ethics, diversity, and inclusive design - humans stand to benefit significantly."
-    publishedDateTime: 2021-07-05T03:19:00Z
-    webUrl: "https://www.forbes.com/sites/anniebrown/2021/07/04/ai-driven-robots-are-here-for-good/"
-    ampWebUrl: "https://www.forbes.com/sites/anniebrown/2021/07/04/ai-driven-robots-are-here-for-good/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/anniebrown/2021/07/04/ai-driven-robots-are-here-for-good/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 106
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60e279184db784a0c94473f6%2F0x0.jpg"
-        width: 1200
-        height: 702
-        isCached: true
 
 secured: "oU8ea0Ku44d7yOCwFC+ZAetuAB7LzDkBL8M0f0Fi9W6ANv9hHsQcXOg1kqUiD/A+j/X9jv5qRI4nRUVEtmNKMUCVKkpuD4YqopQQkrUDX//McMi6koiOU6oZXjaMp1RP0PUzeVup0r/ASvJf3gsU+29fZAJrMNo+vtJmdkjP1nf1WYumG1Uo8mHH4jhx4xUNGjpFRXYvFZGwomBx3jKLX2zGMJIW2FD66y29MOXWK1c9RyDttFKQn/R560/NBBmbAvndybPV3EzuHOQv8UCNAv1GOjDARYD0XsqAO6T/6WXa8S5tHmkiBhW7UZvoEUbL0n51+8h0pXPCV08QVSQ/ODq1n3g8rTyWyAy9Z1imfSYsYNpvOz1kAD3Vw3UKPLKHG9xgvssYOYSzeC+PiaN3SRXvkyaYwwIzQX4Tf4+/lE/2oNE4AE041ZXYeVaWCy0hZcIWtx9lyp+zipHOksB1rA9I+DFwgpfLJWHZ0BUXqhDLMUPF5Ca8k8PGj3I3JMDhLUZaJnPvcZrmw9Lb3GJb2A==;8JJhakO4J09mRDpkOjA8AA=="
 ---

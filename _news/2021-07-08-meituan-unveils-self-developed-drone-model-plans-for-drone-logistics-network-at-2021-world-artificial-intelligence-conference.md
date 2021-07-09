@@ -52,6 +52,20 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "Canaan Announces Kendryte K510 Edge AI Chip as a Triple-Core RISC-V Part with 3 TOPS NPU"
+    excerpt: "The successor to the K210, the new K510 promises twice the clock speed, three times the NPU performance, and an extra core for DSP work."
+    publishedDateTime: 2021-07-09T21:34:00Z
+    webUrl: "https://www.hackster.io/news/canaan-announces-kendryte-k510-edge-ai-chip-as-a-triple-core-risc-v-part-with-3-tops-npu-748e95cc7f12"
+    type: article
+    provider:
+      name: Hackster
+      domain: hackster.io
+    quality: 45
+    images:
+      - url: "https://hackster.imgix.net/uploads/attachments/1322993/_W71kO42lnc.blob?auto=compress%2Cformat&w=600&h=450&fit=min"
+        width: 600
+        height: 450
+        isCached: true
 
 secured: "QysaJG5Iig7HkvIaT1rtGfzRbGK8QOnNsAKfH1XrqRHsxkb7pSCuAOu26XyuKnFkOzBpOyGsi1fYw7UtprOEW5lBMQ07PHOcrwpHsJh3zeZtqkZbf9I2YL/v7VoEXm0RFXszfNDaBvtYrchW2A0QKdjskCEjjkUhx8nTmGw9HLG/CIL7ZI4FINgOyq/gn5BTjEUBteIIog6DqvzRsR0V9l4HiEGgvUFPYFSnJ+8KxRXHAczU5VFQItOD3CVgXHz+Q4TGjGiIyZpfim2gA906UdgvZVsFedniQLJYCe5dNuwTX/fZKteYRn1wsdsyZMRUAizLRcL514JCLoQX0Pm8kMJekjTuxJttLS53G27kIv4=;RmI3hNdpqbQv5KSamGKP4A=="
 ---

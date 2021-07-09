@@ -41,6 +41,22 @@ related:
         width: 2000
         height: 1000
         isCached: true
+  - title: "Tencent Games uses facial recognition to restrict children’s screen time."
+    excerpt: "The Chinese internet conglomerate Tencent said this week that it would deploy facial recognition technology in its video games in an attempt to close a loophole in restrictions aimed at limiting screen time."
+    publishedDateTime: 2021-07-09T11:56:00Z
+    webUrl: "https://www.nytimes.com/2021/07/09/business/tencent-games-uses-facial-recognition-to-restrict-childrens-screen-time.html"
+    ampWebUrl: "https://www.nytimes.com/2021/07/09/business/tencent-games-uses-facial-recognition-to-restrict-childrens-screen-time.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/07/09/business/tencent-games-uses-facial-recognition-to-restrict-childrens-screen-time.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 88
+    images:
+      - url: "https://static01.nyt.com/images/2021/07/09/world/09china-videogame-print1-copy/08china-videogame-facebookJumbo.jpg"
+        width: 1050
+        height: 549
+        isCached: true
   - title: "Tencent’s new facial recognition program prevents gaming after dark in China"
     excerpt: "Tencent has announced a facial recognition system in China that will stop children from playing video games after hours."
     publishedDateTime: 2021-07-06T16:07:00Z

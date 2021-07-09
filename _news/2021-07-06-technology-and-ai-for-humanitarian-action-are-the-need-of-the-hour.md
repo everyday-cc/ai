@@ -56,20 +56,6 @@ related:
         width: 2373
         height: 1263
         isCached: true
-  - title: "Diversity key as AI increasingly integrated into safety systems"
-    excerpt: "That is, female-figure dummies or those mirroring the size and physique of young children were often excluded from critical vehicle safety testing. \"What ended up happening is that these safety settings,"
-    publishedDateTime: 2021-07-05T04:00:00Z
-    webUrl: "https://www.autonews.com/mobility-report/diversity-key-ai-increasingly-integrated-safety-systems"
-    type: article
-    provider:
-      name: Automotive News
-      domain: autonews.com
-    quality: 37
-    images:
-      - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/AIMAIN-MAIN_i.jpg"
-        width: 800
-        height: 600
-        isCached: true
   - title: "Diversity key as AI increasingly integrated into automotive safety systems"
     excerpt: "That is, female-figure dummies or those mirroring the size and physique of young children were often excluded from critical vehicle safety testing. \"What ended up happening is that these safety settings,"
     publishedDateTime: 2021-07-07T16:19:00Z

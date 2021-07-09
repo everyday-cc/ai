@@ -26,33 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Analysis-'Racist' facial recognition sparks ethical concerns in Russia"
-    excerpt: "From scanning residents’ faces to let them into their building to spotting police suspects in a crowd, the rise of facial recognition is accompanied by a growing chorus of concern about unethical uses of the technology."
-    publishedDateTime: 2021-07-05T04:45:00Z
-    webUrl: "https://www.reuters.com/article/uk-russia-tech-race/analysis-racist-facial-recognition-sparks-ethical-concerns-in-russia-idUSKCN2EB0BC"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN2EB0BC"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN2EB0BC"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 86
-  - title: "'Racist' facial recognition sparks ethical concerns in Russia"
-    excerpt: "Russian companies found offering race-detection tools From scanning residents' faces to let them into their building to spotting police suspects in a crowd, the rise of facial recognition is accompanied by a growing chorus of concern about unethical uses of the technology."
-    publishedDateTime: 2021-07-05T04:47:00Z
-    webUrl: "https://www.tribuneindia.com/news/world/racist-facial-recognition-sparks-ethical-concerns-in-russia-278519"
-    ampWebUrl: "https://www.tribuneindia.com/news/world/racist-facial-recognition-sparks-ethical-concerns-in-russia-278519"
-    cdnAmpWebUrl: "https://www-tribuneindia-com.cdn.ampproject.org/c/s/www.tribuneindia.com/news/world/racist-facial-recognition-sparks-ethical-concerns-in-russia-278519"
-    type: article
-    provider:
-      name: The Tribune
-      domain: tribuneindia.com
-    quality: 76
-    images:
-      - url: "https://englishtribuneimages.blob.core.windows.net/gallary-content/2021/7/2021_7$largeimg_1666379979.jpg"
-        width: 612
-        height: 408
-        isCached: true
   - title: "Analysis - 'Racist' facial recognition sparks ethical concerns in Russia"
     excerpt: "The rise of facial recognition is accompanied by a growing chorus of concern about unethical uses of the technology."
     publishedDateTime: 2021-07-06T10:17:00Z

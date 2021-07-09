@@ -107,20 +107,6 @@ related:
         width: 600
         height: 400
         isCached: true
-  - title: "GitHub unveils AI coding assistant for Visual Studio Code"
-    excerpt: "GitHub Copilot is an OpenAI-powered Visual Studio Code extension that can suggest lines of code or entire functions as you type."
-    publishedDateTime: 2021-07-05T03:25:00Z
-    webUrl: "https://www.reseller.co.nz/article/689538/github-unveils-ai-coding-assistant-visual-studio-code/?fpid=1"
-    type: article
-    provider:
-      name: Reseller News
-      domain: reseller.co.nz
-    quality: 37
-    images:
-      - url: "https://d1abomko0vm8t1.cloudfront.net/article/images/800x800/dimg/dreamstime_s_209382638.jpg"
-        width: 800
-        height: 509
-        isCached: true
 
 secured: "TvBzHyXCcavd9npcnUfmpPSJT3eDcEVYiIez6tAsRHtcw8yZcuaNKmU3yJnVx3SHxDOktoQLEKzsTB3w4M0IyeZhRnqSGr5iUp+8+77QiG47YL/babAQCF21NzTzfTbVq8dbEsoM25t4szNvPw4Vsp4fZlNHP4Sf4revWFylO5o4Z8izCafTEwCf7EwPDbkHZkTMrMjkDNEf0BaktxE+GZS+uZVJF5u28rAkkQYceBOGo8I4qK/azj0r5TyNrSoF8Ak1g4+HHzr/Yqa+YcytVZmtO29DA0MUekI5Jyn3RNrVRyXQTYbYuBdJZP6wpSGLRcujDOP8GlgJEHnRrxy0pS/2Oeb30GjeUynw0tQLjKHCRpAYNHNE9IXiTSc0dQZ/tnGgfJof0DnQRvJ1dKoDmS2PLRtNehqV0hzQ8XlxhE8A4/UV9RF/FosSA8LdHk+eHWI198eCc6xGAg317Z/lQv2k9YB15lssupx9njlEoYWrDhoWxMbj+XcljMZOJYl2v4hClo3Ds1dkQS7fPT5tCA==;+itSUR1Af3v3vsDpDv1I/A=="
 ---

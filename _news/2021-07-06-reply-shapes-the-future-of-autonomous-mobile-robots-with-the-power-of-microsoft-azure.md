@@ -1,18 +1,18 @@
 ---
 category: news
 title: "Reply Shapes the Future of Autonomous Mobile Robots with the Power of Microsoft Azure"
-excerpt: "Reply announced today that it has developed an end-to-end solution architecture for autonomous mobile robots (AMR) on Microsoft Azure that enables new"
-publishedDateTime: 2021-07-06T11:30:00Z
-originalUrl: "https://www.businesswire.com/news/home/20210706005133/en/Reply-Shapes-the-Future-of-Autonomous-Mobile-Robots-with-the-Power-of-Microsoft-Azure"
-webUrl: "https://www.businesswire.com/news/home/20210706005133/en/Reply-Shapes-the-Future-of-Autonomous-Mobile-Robots-with-the-Power-of-Microsoft-Azure"
+excerpt: "The solution combines Microsoft Azure services ... Reply integrates Azure Cognitive Services, Machine Learning and DevOps as well as Power Apps and Power BI. Thanks to Azure's intelligent service ..."
+publishedDateTime: 2021-07-06T07:38:00Z
+originalUrl: "https://www.morningstar.com/news/business-wire/20210706005133/reply-shapes-the-future-of-autonomous-mobile-robots-with-the-power-of-microsoft-azure"
+webUrl: "https://www.morningstar.com/news/business-wire/20210706005133/reply-shapes-the-future-of-autonomous-mobile-robots-with-the-power-of-microsoft-azure"
 type: article
 quality: 27
 heat: -1
 published: false
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: Morningstar%2c Inc.
+  domain: morningstar.com
 
 topics:
   - Microsoft AI
@@ -207,6 +207,6 @@ related:
       domain: tmcnet.com
     quality: 14
 
-secured: "HwwCULdlFF0P1cgwqiHN+R7VT+DzUwzZu+CstsKoV9MnzzYXG/+DMaSKtdiXHpY9DfRji6wFwTfihTQtwqXltBOF9mcQosjU8/LE4O68hJBakcbOxlLZOlIfvTNESLqojjHXYW4n0tJYRBsja7UKbJYgYBBVvRHfJLIkxDgT3jw3bttfEr/VjOOZt+pheJSruMzFXpEp/QO8xw0FhOkuUlHdWn2iao9K+mxiFZYMnX3PuKTi9YmAkyCmoRPEf5lw2nkb5gxKL+MMxR1w1C2FZXYEVMKB0kT2L+DmIZJEJGmgkmvNoamkf9yjnIfPAtOnWeXP4VeP+wdpOZ16npJPCCDbS2rCVmXgIJ8YytUQ99HIhILGwwGnExxVLtX/ksYpLsgqVDT9Qqe5VBz9Cq6A90WuLwifVVIQj9LUls+rv5TZd4YOoXpq/7stzrHeO2yYVx7/OgxWSYKSuHodV6W3/YsPT1MpUYou3ROsRRMJ3LjlT6m02KIx0TfzdvN+U1Cks8le3ee1ga+zJAUfUMfBVg==;cFS0LC3lmJqDQOXGQJDM3w=="
+secured: "wDkoNjx14IFGJTqTltIikMmhhhSU+yMHoN7XczVzZnnsjNskr2c4+u4R8w+bzlc/MVAzP3lZTr57zSu1CHzjokt8jx4STvVb8A3C2Znup2UB+9oM0bCgDjxH1krZcAF9UliAuMYsJ8+3B7Sn3OMwlutB4ioPag0+yz6TmBMsetMPyPel3+1t/qm/G1T/QP4+LracwpxhcQpncQv2QCvL2U1ehs3c5wwhYTTDOdABmgwOvpxjsZma9dFyXUDQnsa5N93KKmLI3YEL491BoAeFQCapGOEAJDND6jXfiitjnu4Qj7PrcT/FerqYj+Ht/k4xzrpMP2sMmtDP8hIQfJe5BrgC5gBH/lmcUF6K3JdEaZ4=;HwDH4OLjqXDEsrRstyj/7g=="
 ---
 
