@@ -9,7 +9,7 @@ ampWebUrl: "https://electrek.co/2021/07/07/hacker-tesla-full-self-drivings-visio
 cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/07/07/hacker-tesla-full-self-drivings-vision-depth-perception-neural-net-can-see/amp/"
 type: article
 quality: 83
-heat: 133
+heat: 143
 published: true
 
 provider:
@@ -100,6 +100,15 @@ related:
     provider:
       name: TweakTown
       domain: tweaktown.com
+    quality: 19
+  - title: "Tesla finally releases 'Full Self-Driving' Beta version"
+    excerpt: "Elon Musk-run Tesla on Saturday started releasing over-the-air software updates for its much-awaited Full Self-Driving Beta version 9."
+    publishedDateTime: 2021-07-10T13:50:00Z
+    webUrl: "https://www.sify.com/finance/tesla-finally-releases-full-self-driving-beta-version-news-topnews-vhknO9ggdjhaa.html"
+    type: article
+    provider:
+      name: Sify.com
+      domain: sify.com
     quality: 19
 
 secured: "ZkQRM9m0RmgB2MAkonM57wgmMBvw72cTeD8mPq5F/y6E1fMbOQtCU3qXNLAzsMfGcuIg6Gpkd/13ZLUimzm0c2jN8ZhYgvtpU72WV3o/L1BtmPhkQu+bFZWykDOov4MGufMIuBe90hqN1AY/5bAmtRueEagwpcE57c6va4Nlnzht7sEQKjfxTdDYvEpAvezsHeWyaEzMaXQIAXdVzoBsv92ClR40TV3WwDu+AF68KVMUgQH0ub5cgOrdBRahnmY37rC001fTyjHX7Adw98+5t6bSBl5lUlUpJ2JcQvkH4mvGwRLa69dLe3qNhzpu3WsECDBajtbt1+hA2vaiWV9o7aeIABBCXBkSJFXgBpOl0OE/aUULElRQANX9Eb5unVgMUeDWYSJiLj0IkTUYyld3AsufON7vC7sHcc+5q3Df2XI17J1DW7EXBh4cidawz3X+XWW8+8NsCmShbUAfbXK8xEeWol/xrmhk840qkd3VRtUdwn+ZLVBAsPGz58Phi9IFSCn5PPLiwQG27KNPcL2EXQ==;Gt93tM7PspG//9Y5trNpSA=="

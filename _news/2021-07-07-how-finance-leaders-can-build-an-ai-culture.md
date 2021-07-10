@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesfinancecouncil/2021/07/07/how-fin
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesfinancecouncil/2021/07/07/how-finance-leaders-can-build-an-ai-culture/amp/"
 type: article
 quality: 106
-heat: 116
+heat: 126
 published: true
 
 provider:
@@ -32,6 +32,22 @@ images:
     isCached: true
 
 related:
+  - title: "Huawei Engineers Build an Autonomous AI Bicycle That Can Ride on Its Own"
+    excerpt: "A team of Huawei engineers have recently developed an AI-powered bicycle that uses high-precision sensors and cameras to ride itself."
+    publishedDateTime: 2021-07-10T11:29:00Z
+    webUrl: "https://beebom.com/huawei-engineers-build-autonomous-ai-bicycle/"
+    ampWebUrl: "https://beebom.com/huawei-engineers-build-autonomous-ai-bicycle/amp/"
+    cdnAmpWebUrl: "https://beebom-com.cdn.ampproject.org/c/s/beebom.com/huawei-engineers-build-autonomous-ai-bicycle/amp/"
+    type: article
+    provider:
+      name: Beebom
+      domain: beebom.com
+    quality: 56
+    images:
+      - url: "https://beebom.com/wp-content/uploads/2021/07/Huawei-engineers-develop-AI-bicycle-2.jpg"
+        width: 750
+        height: 500
+        isCached: true
   - title: "Eightfold AI Announces Cultivate 2021, a Virtual Conference for HR and AI Leaders"
     excerpt: "Eightfold AI, the provider of the Talent Intelligence Platform™, today launched Cultivate 2021, an annual industry event on August 10-11, 2021, bringing together thought leaders, innovators and HR champions united in a mission to bring career opportunities for everyone in the world."
     publishedDateTime: 2021-07-08T12:24:00Z

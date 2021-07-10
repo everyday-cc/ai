@@ -40,6 +40,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Huawei Engineers Build an Autonomous AI Bicycle That Can Ride on Its Own"
+    excerpt: "A team of Huawei engineers have recently developed an AI-powered bicycle that uses high-precision sensors and cameras to ride itself."
+    publishedDateTime: 2021-07-10T11:29:00Z
+    webUrl: "https://beebom.com/huawei-engineers-build-autonomous-ai-bicycle/"
+    ampWebUrl: "https://beebom.com/huawei-engineers-build-autonomous-ai-bicycle/amp/"
+    cdnAmpWebUrl: "https://beebom-com.cdn.ampproject.org/c/s/beebom.com/huawei-engineers-build-autonomous-ai-bicycle/amp/"
+    type: article
+    provider:
+      name: Beebom
+      domain: beebom.com
+    quality: 56
+    images:
+      - url: "https://beebom.com/wp-content/uploads/2021/07/Huawei-engineers-develop-AI-bicycle-2.jpg"
+        width: 750
+        height: 500
+        isCached: true
 
 secured: "CtpknmDVJleF1vVgtVo7cqnCXOMTCGtqXu32uqXvJrzb2XGkm7mHlJFGYfGgYYhosRffUjxjrsXWWYA7hSJDkKZf0mpObOnHOlDjHV6qm+o2FdddXI2hT1sGFkjgSljHjhHSdATV3BVDXGlpGS9HvVTnrAEhm+Rp1P4/E8xRKnsbCZgPzLtKCaEkE39fESLP84Tvq2G/PMrqhy96d7YeIQHDIUU1QM4U8+7H2QttwkJs9Wbq42Hc0UlePn86EKdG0CH/tb1H8h9qfJMgezr6GToH1KmQ9Kqok+kY4x8Mo7hwxvLuAEpQWvwZOhqBMeZ8sVCFp5pCIIzNmciLVm6nZgZi2YgL1zxu3uLmlntMgnU=;AJgIAEm2mU+PqcMgStRcUg=="
 ---

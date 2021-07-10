@@ -1,18 +1,18 @@
 ---
 category: news
-title: "Tesla to debut 'mind-blowing' full self-driving beta this week"
-excerpt: "Tesla CEO Elon Musk has teased that some Tesla owners will be able to test out the 'mind-blowing' Full Self-Driving beta soon."
-publishedDateTime: 2021-07-09T09:04:00Z
-originalUrl: "https://www.tweaktown.com/news/80484/tesla-to-debut-mind-blowing-full-self-driving-beta-this-week/index.html"
-webUrl: "https://www.tweaktown.com/news/80484/tesla-to-debut-mind-blowing-full-self-driving-beta-this-week/index.html"
+title: "Tesla finally releases 'Full Self-Driving' Beta version"
+excerpt: "Elon Musk-run Tesla on Saturday started releasing over-the-air software updates for its much-awaited Full Self-Driving Beta version 9."
+publishedDateTime: 2021-07-10T13:50:00Z
+originalUrl: "https://www.sify.com/finance/tesla-finally-releases-full-self-driving-beta-version-news-topnews-vhknO9ggdjhaa.html"
+webUrl: "https://www.sify.com/finance/tesla-finally-releases-full-self-driving-beta-version-news-topnews-vhknO9ggdjhaa.html"
 type: article
 quality: 19
 heat: -1
 published: false
 
 provider:
-  name: TweakTown
-  domain: tweaktown.com
+  name: Sify.com
+  domain: sify.com
 
 topics:
   - AI in Autos
@@ -95,16 +95,16 @@ related:
         width: 1200
         height: 640
         isCached: true
-  - title: "Tesla finally releases 'Full Self-Driving' Beta version"
-    excerpt: "Elon Musk-run Tesla on Saturday started releasing over-the-air software updates for its much-awaited Full Self-Driving Beta version 9."
-    publishedDateTime: 2021-07-10T13:50:00Z
-    webUrl: "https://www.sify.com/finance/tesla-finally-releases-full-self-driving-beta-version-news-topnews-vhknO9ggdjhaa.html"
+  - title: "Tesla to debut 'mind-blowing' full self-driving beta this week"
+    excerpt: "Tesla CEO Elon Musk has teased that some Tesla owners will be able to test out the 'mind-blowing' Full Self-Driving beta soon."
+    publishedDateTime: 2021-07-09T09:04:00Z
+    webUrl: "https://www.tweaktown.com/news/80484/tesla-to-debut-mind-blowing-full-self-driving-beta-this-week/index.html"
     type: article
     provider:
-      name: Sify.com
-      domain: sify.com
+      name: TweakTown
+      domain: tweaktown.com
     quality: 19
 
-secured: "5YV0hVznkD+DZcUKCmvBK3NYh/hASzgYfow5YDnofJTv7QJosfTt/YarWblDt+x83JLmLjMaZYdz1OIMiP2PYOAMUW/ygDqWuzZYmeCI1ycJXsMTbetofpQABljwunnFGdxEYnGMbDvAPIEv9RZvx4oabQO7lOxZl4B6S8KQFIyollg/PNUI1ELyvMPFztTMU0V3yUZ9IjGhjKTGHFXsMvu2m+HNY3POyKmBpKz/NZVVe4uKGZ8roWLnIFwCCNkfeJJ3NMME1WkG2OcJnVNfuOCKp0T00IZw9H5OgmT7qLT5jkHpCvjtnnKs32zU/dylCK9pcKbg09CMbOauL0D2LFD16ntnfoNl5x3eIwl7RAY=;v7rk5LRbdkwi0TOdHCggfg=="
+secured: "rXarG7RNEpBiJdpY69U/yrM4j57iQrV7v41Erj4w9xJWnv6G7x5VqTMy7Dh/aTloAThRbR/TWB0PmEamI8rP4paRxADSDyXKqcoa5ZdpkuexVwBGMqnlXTOpdl3z0Wy24/Wtvm0Lb9f54qFBXBY35+yCM/+dB1xJ2pdDEjTjvr7bxQP5FA/9r39ShDln4YgX7r+O+aNazLZdh+gRcqc177N6ZIx9Z9RNrIkndMffljLkrwWoTxgrCKwKsUl0DScUF/On7bStYFLMvRiiGKjJpdyRE1zFJ97Aa9GZNam5M+X6Y+0qCfi0mNoXG+WtTUQLV46fP68kF4iOxbQZSvQiBikVUASe7TVbHsNNDgnBWKo=;WdMeN21sN+81yauQuPzi/w=="
 ---
 

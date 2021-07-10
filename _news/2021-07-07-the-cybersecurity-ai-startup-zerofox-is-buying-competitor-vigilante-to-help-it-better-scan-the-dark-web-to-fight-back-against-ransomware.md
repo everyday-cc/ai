@@ -29,6 +29,22 @@ images:
     isCached: true
 
 related:
+  - title: "How cybersecurity is getting AI wrong"
+    excerpt: "Organizations are introducing AI models into security practices across their business, but they're not properly managing the risk."
+    publishedDateTime: 2021-07-10T13:21:00Z
+    webUrl: "https://venturebeat.com/2021/07/10/how-cybersecurity-is-getting-ai-wrong/"
+    ampWebUrl: "https://venturebeat.com/2021/07/10/how-cybersecurity-is-getting-ai-wrong/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/10/how-cybersecurity-is-getting-ai-wrong/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2020/09/AI_security-e1602003587272.jpg?w=1200&strip=all"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Report: Growing San Diego Cybersecurity Cluster Using AI to Fight Hacking Threats"
     excerpt: "San Diego's cyber cluster accounts for 24,349 local jobs across 874 firms, has an annual economic impact of $3.5 billion, and is growing rapidly thanks to defense-related projects."
     publishedDateTime: 2021-07-06T00:52:00Z
@@ -56,6 +72,15 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 37
+  - title: "Artificial Intelligence (AI) in Cyber Security Market Size Growing at 25.2% CAGR to hit USD 17630 million by 2024"
+    excerpt: "and splits the Artificial Intelligence (AI) in Cyber Security market by product type and applications/end industries. BFSI Government IT & Telecom Healthcare Aerospace and Defense Other BFSI, government and ..."
+    publishedDateTime: 2021-07-08T16:54:00Z
+    webUrl: "https://www.arnnet.com.au/mediareleases/143963/artificial-intelligence-ai-in-cyber-security/"
+    type: article
+    provider:
+      name: ARN
+      domain: arnnet.com.au
+    quality: 30
   - title: "How Predictive AI will Change Cybersecurity in 2021"
     excerpt: "In this contributed article, Dr. Igor Mezic, CTO of MixMod AI explains how you can identify and stop zero-day attacks like the SolarWinds attack with the invention of this Unsupervised, Predictive AI,"
     publishedDateTime: 2021-07-09T13:00:00Z

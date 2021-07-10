@@ -9,8 +9,8 @@ ampWebUrl: "https://timesofsandiego.com/tech/2021/07/05/report-growing-san-diego
 cdnAmpWebUrl: "https://timesofsandiego-com.cdn.ampproject.org/c/s/timesofsandiego.com/tech/2021/07/05/report-growing-san-diego-cybersecurity-cluster-using-ai-to-fight-hacking-threats/"
 type: article
 quality: 52
-heat: 92
-published: true
+heat: -1
+published: false
 
 provider:
   name: Times of San Diego
@@ -26,6 +26,22 @@ images:
     isCached: true
 
 related:
+  - title: "How cybersecurity is getting AI wrong"
+    excerpt: "Organizations are introducing AI models into security practices across their business, but they're not properly managing the risk."
+    publishedDateTime: 2021-07-10T13:21:00Z
+    webUrl: "https://venturebeat.com/2021/07/10/how-cybersecurity-is-getting-ai-wrong/"
+    ampWebUrl: "https://venturebeat.com/2021/07/10/how-cybersecurity-is-getting-ai-wrong/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/10/how-cybersecurity-is-getting-ai-wrong/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2020/09/AI_security-e1602003587272.jpg?w=1200&strip=all"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Artificial Intelligence in Cyber Security Market Size, Share 2020, Impressive Industry Growth Report 2027"
     excerpt: "The Artificial Intelligence in Security Market was valued at 5 08 billion US in 2020 and is projected to reach 14 2 billion US by 2026 at a CAGR of 18 during the forecast period 2021 2026 The market is"
     publishedDateTime: 2021-07-06T05:55:00Z
@@ -51,6 +67,15 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Artificial Intelligence (AI) in Cyber Security Market Size Growing at 25.2% CAGR to hit USD 17630 million by 2024"
+    excerpt: "and splits the Artificial Intelligence (AI) in Cyber Security market by product type and applications/end industries. BFSI Government IT & Telecom Healthcare Aerospace and Defense Other BFSI, government and ..."
+    publishedDateTime: 2021-07-08T16:54:00Z
+    webUrl: "https://www.arnnet.com.au/mediareleases/143963/artificial-intelligence-ai-in-cyber-security/"
+    type: article
+    provider:
+      name: ARN
+      domain: arnnet.com.au
+    quality: 30
   - title: "How Predictive AI will Change Cybersecurity in 2021"
     excerpt: "In this contributed article, Dr. Igor Mezic, CTO of MixMod AI explains how you can identify and stop zero-day attacks like the SolarWinds attack with the invention of this Unsupervised, Predictive AI,"
     publishedDateTime: 2021-07-09T13:00:00Z

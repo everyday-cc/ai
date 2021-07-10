@@ -18,6 +18,22 @@ topics:
   - AI
 
 related:
+  - title: "How cybersecurity is getting AI wrong"
+    excerpt: "Organizations are introducing AI models into security practices across their business, but they're not properly managing the risk."
+    publishedDateTime: 2021-07-10T13:21:00Z
+    webUrl: "https://venturebeat.com/2021/07/10/how-cybersecurity-is-getting-ai-wrong/"
+    ampWebUrl: "https://venturebeat.com/2021/07/10/how-cybersecurity-is-getting-ai-wrong/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/10/how-cybersecurity-is-getting-ai-wrong/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2020/09/AI_security-e1602003587272.jpg?w=1200&strip=all"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Report: Growing San Diego Cybersecurity Cluster Using AI to Fight Hacking Threats"
     excerpt: "San Diego's cyber cluster accounts for 24,349 local jobs across 874 firms, has an annual economic impact of $3.5 billion, and is growing rapidly thanks to defense-related projects."
     publishedDateTime: 2021-07-06T00:52:00Z
@@ -59,6 +75,15 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Artificial Intelligence (AI) in Cyber Security Market Size Growing at 25.2% CAGR to hit USD 17630 million by 2024"
+    excerpt: "and splits the Artificial Intelligence (AI) in Cyber Security market by product type and applications/end industries. BFSI Government IT & Telecom Healthcare Aerospace and Defense Other BFSI, government and ..."
+    publishedDateTime: 2021-07-08T16:54:00Z
+    webUrl: "https://www.arnnet.com.au/mediareleases/143963/artificial-intelligence-ai-in-cyber-security/"
+    type: article
+    provider:
+      name: ARN
+      domain: arnnet.com.au
+    quality: 30
   - title: "Cybersecurity AI Market 2021 Evolving Technology and Growth Outlook to 2028 | Bae Systems, Cisco, Fortinet, Fireeye, Check Point, Ibm"
     excerpt: "The global market for Cybersecurity AI offers a detailed overview of the regional and local markets. In order to provide a comprehensive market overview, the Cybersecurity AI market report includes a regional competitive landscape for the number of major service providers in the market."
     publishedDateTime: 2021-07-07T17:50:00Z

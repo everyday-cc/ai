@@ -77,6 +77,17 @@ related:
         width: 800
         height: 367
         isCached: true
+  - title: "AI in IoT Market Analysis By Technological Advancement, Regional Outlook And Forecast to 2027"
+    excerpt: "Latest released the research study on Global AI in IoT Market Report Forecast 2021 2027 offers a detailed overview of the factors influencing the global business scope AI in IoT Market research report shows the latest market insights current situation"
+    publishedDateTime: 2021-07-10T13:47:00Z
+    webUrl: "https://www.openpr.com/news/2325730/ai-in-iot-market-analysis-by-technological-advancement"
+    ampWebUrl: "https://www.openpr.com/amp/2325730/ai-in-iot-market-analysis-by-technological-advancement"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2325730/ai-in-iot-market-analysis-by-technological-advancement"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 28
   - title: "How artificial intelligence helped Phoenix find a new physical therapy location in Wichita"
     excerpt: "The tool analyzes foot traffic from cellphones, collecting anonymous geolocation and proximity data from devices that share information."
     publishedDateTime: 2021-07-06T21:10:00Z

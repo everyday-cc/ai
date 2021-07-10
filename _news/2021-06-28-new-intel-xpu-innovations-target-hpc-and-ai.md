@@ -1,20 +1,20 @@
 ---
 category: news
 title: "New Intel XPU Innovations Target HPC and AI"
-excerpt: "International Supercomputing Conference Intel is showcasing how the company is extending its lead in high performance computing with a range of technology disclosures, partnerships and customer adoptions."
-publishedDateTime: 2021-06-28T16:15:00Z
-originalUrl: "https://www.nasdaq.com/press-release/new-intel-xpu-innovations-target-hpc-and-ai-2021-06-28"
-webUrl: "https://www.nasdaq.com/press-release/new-intel-xpu-innovations-target-hpc-and-ai-2021-06-28"
+excerpt: "The next generation of Intel Xeon Scalable processors (code-named “Sapphire Rapids”) will integrate High Bandwidth Memory (HBM). Intel’s X e -HPC-based Ponte Vecchio GPU has powered-on, is in system validation,"
+publishedDateTime: 2021-06-28T11:15:00Z
+originalUrl: "https://www.morningstar.com/news/business-wire/20210628005138/new-intel-xpu-innovations-target-hpc-and-ai"
+webUrl: "https://www.morningstar.com/news/business-wire/20210628005138/new-intel-xpu-innovations-target-hpc-and-ai"
 type: article
 
 provider:
-  name: Nasdaq
-  domain: nasdaq.com
+  name: Morningstar, Inc.
+  domain: morningstar.com
 
 topics:
   - AI Hardware
   - AI
 
-secured: "PJskgYoIQx02VPwXex1WSTnqSGqDh7PMCllSqVVxEA0HmP+OAZLOnMgdZLIEQ232BtI4OfAzSe90bU4nAvUj2hGP/5XVZQY45xI+qbNQ9Pppl3tILTwktNONjefks2qj2Oo/pI8wfqsBM79uHwaTrofBkFtsl+djQgr64qQWM8eGLMuos6HvsPE1SlO5Z2i4yt2UNileiXND1REqiRfU7wrwQu0Am2wuIqU2OzT/n9rQPXu87HiXsl++Y8Ak8Ma8M90SMskRWWZOKvEfEAhZgF9r0WvVbO4wHQfYLQ+TN9ILIB5+0WGl6bozYZTEJ1GcqHjFMRLUjc2Gpbfo2zU3J9aceH/BqfrRKSMXRfOZ0/k=;NxfULrKv4MvCHr3djVtNEw=="
+secured: "gLDfOnMChDUdaPDLVNmletJAJ15Oy0sUqVytHu+XEKoiBsXnIufZCqYnr6JxGuQt6Kv5PCxqzdozSGTL9PVOmMaA7JwrVCpR50jppdf6BoDOpnC0MP5aPUdkojGC9pPTqO3hShzqowEvijJjQnGY8oj/zIyfwBOdm8WK5S86HQ6zdsGQD2RzrfNZlLONxkD3SmB2rNbNMa2WP1aVypxo9aJxlqDa7IwSOblktblIXnq3xnLfP6ymJzN5QKAvf06dsPFy6dJYWw/inRMQueNvYDHnQPXSCKnKvyY+29yIWSwvNj0deyuAClagsVZa5UkmibYAfJheICsjjuRkvRrDmaoDt8FkceLqKb3ckUU4sRo=;EiXwEBtwHDBl8fxIculGkA=="
 ---
 

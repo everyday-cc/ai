@@ -96,6 +96,15 @@ related:
       name: TweakTown
       domain: tweaktown.com
     quality: 19
+  - title: "Tesla finally releases 'Full Self-Driving' Beta version"
+    excerpt: "Elon Musk-run Tesla on Saturday started releasing over-the-air software updates for its much-awaited Full Self-Driving Beta version 9."
+    publishedDateTime: 2021-07-10T13:50:00Z
+    webUrl: "https://www.sify.com/finance/tesla-finally-releases-full-self-driving-beta-version-news-topnews-vhknO9ggdjhaa.html"
+    type: article
+    provider:
+      name: Sify.com
+      domain: sify.com
+    quality: 19
 
 secured: "2YKKAp4l1l/z89XfkuO8v7GdX3fmppF2rQ5lwLw5tTgHq9jELW1yKhPMTGcEGEOmMaSGW9Wscch3nkCSKG5URnBAgTA3Ax1s5myv9o2fPQe2PCPMiQ8ruYApgKTNDt00FjzDaqnH3zsxaKNM3xSDqJZFgMpeoNlf9Siu64m/aLTARpIDaepmb6kmTMBn3iClPGBcBOMIzIieZ9oXOQPueLMdimEA9DDEmgxbQPsCe8Elmz6TbCDVrY0eRTo7ymymH2BV2+wM3lkPUS2xo95DRBN0AxOXXxADKGbPzKUpqBwo3dPiAsI3SD6nKxCof6eSf6AQ9iC+E1zioYD6WpPosV7QOxxMYb6iFu9NZLKELk2co0mfoW99Q3I74WFMCe6OoTce++iMNU8wbfxn1HYamJLWWo9VTnIo0Y8inrJ849MdX+CFE98fJwCih5gj1lZgQvA+KClAauS/SBft8szmWnFI5aCxwgd7b0WCNL82rYX6KwMXyGLDOGGNyoGPkM8Tin+IKunm3RQZlwO98beSnw==;9Osthfzl8kV6oQiU9ItXmw=="
 ---

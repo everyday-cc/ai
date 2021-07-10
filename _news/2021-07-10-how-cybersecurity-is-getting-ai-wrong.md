@@ -1,42 +1,35 @@
 ---
 category: news
-title: "Artificial Intelligence in Cyber Security Market Size, Share 2020, Impressive Industry Growth Report 2027"
-excerpt: "The Artificial Intelligence in Security Market was valued at 5 08 billion US in 2020 and is projected to reach 14 2 billion US by 2026 at a CAGR of 18 during the forecast period 2021 2026 The market is"
-publishedDateTime: 2021-07-06T05:55:00Z
-originalUrl: "https://www.openpr.com/news/2321878/artificial-intelligence-in-cyber-security-market-size-share"
-webUrl: "https://www.openpr.com/news/2321878/artificial-intelligence-in-cyber-security-market-size-share"
-ampWebUrl: "https://www.openpr.com/amp/2321878/artificial-intelligence-in-cyber-security-market-size-share"
-cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2321878/artificial-intelligence-in-cyber-security-market-size-share"
+title: "How cybersecurity is getting AI wrong"
+excerpt: "Organizations are introducing AI models into security practices across their business, but they're not properly managing the risk."
+publishedDateTime: 2021-07-10T13:21:00Z
+originalUrl: "https://venturebeat.com/2021/07/10/how-cybersecurity-is-getting-ai-wrong/"
+webUrl: "https://venturebeat.com/2021/07/10/how-cybersecurity-is-getting-ai-wrong/"
+ampWebUrl: "https://venturebeat.com/2021/07/10/how-cybersecurity-is-getting-ai-wrong/amp/"
+cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/10/how-cybersecurity-is-getting-ai-wrong/amp/"
 type: article
-quality: 37
-heat: -1
-published: false
+quality: 87
+heat: 147
+published: true
 
 provider:
-  name: openpr.com
-  domain: openpr.com
+  name: VentureBeat
+  domain: venturebeat.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI
-  - AI in Security
+
+images:
+  - url: "https://venturebeat.com/wp-content/uploads/2020/09/AI_security-e1602003587272.jpg?w=1200&strip=all"
+    width: 1200
+    height: 600
+    isCached: true
 
 related:
-  - title: "How cybersecurity is getting AI wrong"
-    excerpt: "Organizations are introducing AI models into security practices across their business, but they're not properly managing the risk."
-    publishedDateTime: 2021-07-10T13:21:00Z
-    webUrl: "https://venturebeat.com/2021/07/10/how-cybersecurity-is-getting-ai-wrong/"
-    ampWebUrl: "https://venturebeat.com/2021/07/10/how-cybersecurity-is-getting-ai-wrong/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/10/how-cybersecurity-is-getting-ai-wrong/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 87
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2020/09/AI_security-e1602003587272.jpg?w=1200&strip=all"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Report: Growing San Diego Cybersecurity Cluster Using AI to Fight Hacking Threats"
     excerpt: "San Diego's cyber cluster accounts for 24,349 local jobs across 874 firms, has an annual economic impact of $3.5 billion, and is growing rapidly thanks to defense-related projects."
     publishedDateTime: 2021-07-06T00:52:00Z
@@ -53,6 +46,17 @@ related:
         width: 640
         height: 360
         isCached: true
+  - title: "Artificial Intelligence in Cyber Security Market Size, Share 2020, Impressive Industry Growth Report 2027"
+    excerpt: "The Artificial Intelligence in Security Market was valued at 5 08 billion US in 2020 and is projected to reach 14 2 billion US by 2026 at a CAGR of 18 during the forecast period 2021 2026 The market is"
+    publishedDateTime: 2021-07-06T05:55:00Z
+    webUrl: "https://www.openpr.com/news/2321878/artificial-intelligence-in-cyber-security-market-size-share"
+    ampWebUrl: "https://www.openpr.com/amp/2321878/artificial-intelligence-in-cyber-security-market-size-share"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2321878/artificial-intelligence-in-cyber-security-market-size-share"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 37
   - title: "The cybersecurity AI startup ZeroFox is buying competitor Vigilante to help it better scan the dark web to fight back against ransomware"
     excerpt: "Threat intelligence firm ZeroFox announced Tuesdsay that it will acquire the competitor startup Vigilante."
     publishedDateTime: 2021-07-07T13:00:00Z
@@ -100,6 +104,6 @@ related:
         height: 259
         isCached: true
 
-secured: "+IlkdIwNcPn5rmTpA80AF74D1BCeb81ypQkCpjDjbtE2vXRW20HEFARnX0kbVHTQ3sshM2diehCdZovfV1UUVSgVui7SqmK6LIpm1dNR2jBMGw9zedtqf4Oz6DFrDSdcQGxEh3ae4qxbrWd4+nqS2f/0uYE7db6UOGvIZVwppEFMvm3xB33sdh04RH8RzVyW7ntRhr9CrUcQxRbXRcZ0nauOcweQ8hlZBwAyqCBlc8JNHM8dzzSWw3NB6FEZbwyD0a2gR3ez+a1Dd5iCb8YimZOz7pTT3Beg+KjOuiCZTQi7hrMLZKFUHfQKy6gCMAwr2eg7qCA3q4IWXVPsTXLIkd5VVKDrsoYN0ocdPtZKAvA=;ZMyczZhVqWSIr+e1p9g5wg=="
+secured: "UnqaxnZLV9i+ZPQ2+cusAF40r9NWDUIlV+TOaEO0Jlv/G7xyYrxyoCEuzQb4HVtNzm7059d+TEtM+fHZyn2wRLg3Xn6S77VXp29FXHVBSUTx+95ZyWMwG4wHl2w0mxH3SmAafL5oN7rdjh6ZVDXNVkRV/DVMoAinz82OAl4K1d/lRMfQoV8n+MqdqALD2p+PTkDeCnh9QaPNnqZzr21O4VAgTFOuyF8KB6Ss3+u2NQSv4QuR3/9QoLTeRDAl2MYu3a6uwqOSXiXqdp9RtJ+sCwwtU1LmRd31j8/xK/4y4FW0usHIcWFO8+9wiAi2wtuNFMaHZPgEsFhGFrUee4f4jJyGBaKhpVOHn2vBJ5I9fNY=;aXs6GjKYGWiZO6/o1z58Nw=="
 ---
 
