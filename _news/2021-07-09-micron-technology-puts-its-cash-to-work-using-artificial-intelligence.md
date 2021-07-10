@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wsj.com/amp/articles/micron-technology-puts-its-cash-to-
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/micron-technology-puts-its-cash-to-work-using-artificial-intelligence-11625781002"
 type: article
 quality: 87
-heat: 118
+heat: 108
 published: true
 
 provider:
@@ -30,20 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "The AI that fashion is using to reinvent itself"
-    excerpt: "Retailers have turned to AI to replace photoshoots and predict what people will want to buy and wear in the future"
-    publishedDateTime: 2021-07-05T06:08:00Z
-    webUrl: "https://www.wired.co.uk/article/ai-personalised-shopping"
-    type: article
-    provider:
-      name: Wired UK
-      domain: wired.co.uk
-    quality: 37
-    images:
-      - url: "https://media.wired.co.uk/photos/60df5878fdd01eb264436950/16:9/w_1280,c_limit/0521-WIRED-AIfashion.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Using Genomic-Based AI Technology to Advance Cancer Care"
     excerpt: "GE Healthcare and SOPHiA GENETICS are partnering up to develop genomic-based artificial intelligence technology to advance cancer treatment and care."
     publishedDateTime: 2021-07-06T17:00:00Z

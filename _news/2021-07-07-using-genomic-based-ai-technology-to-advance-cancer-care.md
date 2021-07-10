@@ -40,20 +40,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "The AI that fashion is using to reinvent itself"
-    excerpt: "Retailers have turned to AI to replace photoshoots and predict what people will want to buy and wear in the future"
-    publishedDateTime: 2021-07-05T06:08:00Z
-    webUrl: "https://www.wired.co.uk/article/ai-personalised-shopping"
-    type: article
-    provider:
-      name: Wired UK
-      domain: wired.co.uk
-    quality: 37
-    images:
-      - url: "https://media.wired.co.uk/photos/60df5878fdd01eb264436950/16:9/w_1280,c_limit/0521-WIRED-AIfashion.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Biotech startup using AI to take guesswork out of cancer drug selection raises $70M"
     excerpt: "Xilis is developing technology that creates a living model of a patient’s tumor, then applies artificial intelligence to determine the best drug or drug combinations to treat the cancer. Clinical trials are planned to test this precision medicine approach and the biotech startup has raised $70 million to fund its research."
     publishedDateTime: 2021-07-09T00:46:00Z

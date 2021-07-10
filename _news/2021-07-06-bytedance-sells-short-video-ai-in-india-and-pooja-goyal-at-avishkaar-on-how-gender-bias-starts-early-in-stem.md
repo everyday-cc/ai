@@ -166,20 +166,6 @@ related:
         width: 650
         height: 366
         isCached: true
-  - title: "ByteDance starts selling TikTok’s AI to other companies"
-    excerpt: "Chinese tech and social media giant, and the name behind the platform, ByteDance, has started selling TikTok's AI to other parties."
-    publishedDateTime: 2021-07-05T05:54:00Z
-    webUrl: "https://techstory.in/bytedance-starts-selling-tiktoks-ai-to-other-companies/"
-    type: article
-    provider:
-      name: tech
-      domain: techstory.in
-    quality: 39
-    images:
-      - url: "https://techstory.in/wp-content/uploads/2021/06/TikTok-claims-ByteDance-strictly-controls-apps-user-data.jpg"
-        width: 1200
-        height: 808
-        isCached: true
 
 secured: "qkyNuG21fC1wjw6RH7mn5nx22J8Z+2lekirkBQ5csAjwtBm/F0A2AGCuQx87c/LPXAFGSmAJQGHCrkHp5gAZxirx8qOQ0kIXICy6zJnl4zubBkRsgt3Jlm3C0y4s38XJx0m17iLOca85RZIWOPkWHShn7iav18BFmfW4ZvIA7wQ6A+VXRjoLH+2gAm4nYRqo70NzC8GpmWz9r6qTAz/7enBuIVpXv6J8JZyoVGGICKPCYCJuknm0Ax30P0goYMRVLJFWZRL4tfl9vaMCkbXq2zi7yb7FGe9jn/zpP2nryEJo1yFy5FyUST39N1ik54v/N8hl8RtvJkkflPrd4n16+Rf/UqammIwzlNQiv3Bjv4Y=;yS6J6yag3P+kmdpWsBZjsQ=="
 ---

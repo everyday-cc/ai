@@ -68,15 +68,6 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 11
-  - title: "Outlook on the Customer Communications Management Global Market to 2027 - Featuring Adobe, Oracle and Capgemini Among Others"
-    excerpt: "The \"Global Customer Communications Management Market By Component, By Organization Size, By Deployment Mode, By End User, By Regional Outlook, Industry Analysis Report and Forecast, 2021 - 2027\" report has been added to ResearchAndMarkets."
-    publishedDateTime: 2021-07-06T16:05:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-outlook-the-customer-communications-management-global-market-2027-/2021/07/06/9403613.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
 
 secured: "VSkvjKVvGE3qCU5/fQbL72K+zdz81+cMp05Ys0t7Nio7mZXLwV75X//dyQ492YDwKtd1dkzzOsf0hlQtfsAjvkdlmqZLUiIYLm6peL77w2CIaZkwDxm2DBIYhcfuYBuYFsAsurFVdQIGPVTSH0zy7a/zZt36vsY7keuoAGVapgIzWCQADoy26EBwJ7HfsYPYS+BAQCY6UHXGiODgWHSuFG3Zqheq3610TKF+sF+qq81Agfps2nuD6eE/cTLE/fHwgDBmmpxWMw7ZWCDZpe8aWGszDQ5L+gWJwKynWYx8172X3cUB+94Np+oJOQHW7mbX9U910x1GSuudG9oYF78PY6tqCBvbhLSFmNRuUs9RQk4=;oDhBa0BIAxROxQ33R65AKQ=="
 ---

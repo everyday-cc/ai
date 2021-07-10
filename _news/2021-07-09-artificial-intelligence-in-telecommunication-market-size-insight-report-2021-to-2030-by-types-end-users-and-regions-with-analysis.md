@@ -126,20 +126,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Facial Recognition Market 2021, Top Leading Countries, Companies, Consumption, Trends, Forces Analysis, Revenue, Challenges and Global Forecast 2030"
-    excerpt: "In a recent published report, Kenneth Research has updated the market report for Facial Recognition Market for 2021"
-    publishedDateTime: 2021-07-05T05:18:00Z
-    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-market-2021-top-leading-countries-companies-consumption-trends-forces-analysis-revenue-challenges-and-global-forecast-2030-2021-07-05"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 30
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "Cg2pq1qn+Tf9q615p5h/3fXUai0cxW7Rz9moEgn3hLOvFshKUvSHgjJY0IZYt38EJuXUBiOmQNEEwP91b/O5OzV1x0OK39LPEG22OhG+SZKA8U/cLZQXHgJPu3MV63RaYe4/60Sx8gt9/TisTVplMoiBPkgEPAgiLi9raOgmUdsbU5dYWB0HYC48XGYulYHZryjtqI/rSsE7pmcx84JG/WRg+K0EPKIuafuujnly+udQxBo6DYSEWM4wdVWuqGhqUqXbElFYicdfiIPj1M6bwgXleOKNUWpB5D/glF1b89C2RT3bUWk7TBrok62Z4SMASENjvKLkkKph06gi5tu4uzKtRXfQWWNmlsa/KkI5p64=;eq7Gx9VzaBlHmb0HwRegJA=="
 ---

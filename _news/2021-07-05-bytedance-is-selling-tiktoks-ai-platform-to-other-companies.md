@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techradar.com/in/amp/news/bytedance-is-selling-tiktoks-a
 cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/in/amp/news/bytedance-is-selling-tiktoks-ai-platform-to-other-companies"
 type: article
 quality: 87
-heat: 187
+heat: 177
 published: true
 
 provider:
@@ -155,20 +155,6 @@ related:
       - url: "https://image-prod.iol.co.za/resize/650x366/File-picture?source=https://xlibris.public.prod.oc.inl.infomaker.io:8443/opencontent/objects/87180f97-d868-56ee-9bc7-f7f32be5f5c1&operation=CROP&offset=0x272&resize=5184x2916"
         width: 650
         height: 366
-        isCached: true
-  - title: "ByteDance starts selling TikTok’s AI to other companies"
-    excerpt: "Chinese tech and social media giant, and the name behind the platform, ByteDance, has started selling TikTok's AI to other parties."
-    publishedDateTime: 2021-07-05T05:54:00Z
-    webUrl: "https://techstory.in/bytedance-starts-selling-tiktoks-ai-to-other-companies/"
-    type: article
-    provider:
-      name: tech
-      domain: techstory.in
-    quality: 39
-    images:
-      - url: "https://techstory.in/wp-content/uploads/2021/06/TikTok-claims-ByteDance-strictly-controls-apps-user-data.jpg"
-        width: 1200
-        height: 808
         isCached: true
   - title: "ByteDance sells short video AI in India; and Pooja Goyal at Avishkaar on how gender bias starts early in STEM"
     excerpt: "China's ByteDance, which is the parent company of TikTok, has started selling the AI technology of its short video app to other companies, including in India where the app is banned. And in today's tech conversation,"

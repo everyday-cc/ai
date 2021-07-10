@@ -7,7 +7,7 @@ originalUrl: "https://www.arnnet.com.au/mediareleases/143676/ai-governance-marke
 webUrl: "https://www.arnnet.com.au/mediareleases/143676/ai-governance-market-to-witness-growth/"
 type: article
 quality: 17
-heat: -1
+heat: 17
 published: false
 
 provider:
@@ -18,34 +18,15 @@ topics:
   - AI
 
 related:
-  - title: "Artificial Intelligence in IoT Market Outlook to 2027 Emerging Trends and Will Generate New Growth Opportunities Status"
-    excerpt: "Jul 05, 2021 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry\" “Artificial Intelligence in IoT"
-    publishedDateTime: 2021-07-05T06:47:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-iot-market-outlook-to-2027-emerging-trends-and-will-generate-new-growth-opportunities-status-2021-07-05"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 43
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "AI Training Data Market All Set to Witness Massive Growth during Forecast 2021-2027 With Top Vendors Like"
-    excerpt: "This AI Training Data Industry market report uncovers multiple growth opportunities that users can consider to capitalize on, along with insights on top industry trends to invest in. This section intends to facilitate the process of critical decision making for users."
-    publishedDateTime: 2021-07-08T06:39:00Z
-    webUrl: "https://ksusentinel.com/2021/07/08/ai-training-data-market-all-set-to-witness-massive-growth-during-forecast-2021-2027-with-top-vendors-like/"
+  - title: "Full Stack AI Market to Witness Huge Growth by 2026 | Hive, IBM, Google, HUAWEI, Alibaba Group, Automaton AI, Sensetime, Dynatrace"
+    excerpt: "The latest Full Stack AI market study offers an all-inclusive analysis of the major strategies, corporate models, and market shares of the most noticeable players in this market. The study offers a thorough analysis of the key persuading factors,"
+    publishedDateTime: 2021-07-07T05:09:00Z
+    webUrl: "https://ksusentinel.com/2021/07/07/full-stack-ai-market-to-witness-huge-growth-by-2026-hive-ibm-google-huawei-alibaba-group-automaton-ai-sensetime-dynatrace/"
     type: article
     provider:
       name: The Sentinel
       domain: ksusentinel.com
-    quality: 20
-    images:
-      - url: "https://i.ibb.co/4f2WLZz/n1-finalll.jpg"
-        width: 474
-        height: 237
-        isCached: true
+    quality: 0
 
 secured: "iv6j5IJoLKFTxhy5/RSPuVQBXT27E3VlLVyc476KzAPe2tCW45VbqBdnOomN2gk0spPtCNLbRmJI0p7vz+sljD3itq8Sodn5r9+D59vBX5V2wjl9SJZ13Fb+rh6GiJtOnftEuIzYaBTzRaE0/kldSF2QXgMEjyv077uU5Y+kd69De4FW5yK8edpTi4sGxBKkqLBkzOcrqvb+u6apWS8Jku3U/EwKD8h6h31VlbeZrP7XEyon98TCWBNDTU809i2jT4PPFI+D9Lhg/mERElKTzXIugTrzglVvGJlNqtNz743WHnRrsDymXiuEEEh0EQW+/HaK+zu4iO/gH1V3GYMJTD3mt46qtldTlsPuGyGfA9Q=;Az4nNirRlbKasVWtzAxmmg=="
 ---

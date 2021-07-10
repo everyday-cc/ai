@@ -9,7 +9,7 @@ ampWebUrl: "https://techbullion.com/emotion-ai-is-transforming-the-way-we-game/a
 cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/emotion-ai-is-transforming-the-way-we-game/amp/"
 type: article
 quality: 57
-heat: 68
+heat: 67
 published: false
 
 provider:

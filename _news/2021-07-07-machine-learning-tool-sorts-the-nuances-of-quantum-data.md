@@ -9,7 +9,7 @@ ampWebUrl: "https://techxplore.com/news/2021-07-machine-tool-nuances-quantum.amp
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-07-machine-tool-nuances-quantum.amp"
 type: article
 quality: 59
-heat: 81
+heat: 79
 published: true
 
 provider:

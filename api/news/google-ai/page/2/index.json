@@ -58,15 +58,15 @@
       "title": "BERT Preprocessing with TF Text",
       "excerpt": "Text preprocessing is the end-to-end transformation of raw text into a model’s integer inputs. NLP models are often accompanied by several hundreds (if not thousands) of lines of Python code for preprocessing text. Text preprocessing is often a challenge ...",
       "sourceUrl": null,
-      "webUrl": "https://www.tensorflow.org/text/guide/bert_preprocessing_guide?hl=fi",
-      "originalUrl": "https://www.tensorflow.org/text/guide/bert_preprocessing_guide?hl=fi",
+      "webUrl": "https://www.tensorflow.org/text/guide/bert_preprocessing_guide?hl=ur-PK",
+      "originalUrl": "https://www.tensorflow.org/text/guide/bert_preprocessing_guide?hl=ur-PK",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://www.tensorflow.org/images/tf_logo_social.png?hl=fi",
+          "url": "https://www.tensorflow.org/images/tf_logo_social.png?hl=ur-PK",
           "width": 1200,
           "height": 675,
           "title": null,
@@ -78,7 +78,7 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-18T05:26:00-07:00",
+      "publishedDateTime": "2021-06-18T04:28:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "TensorFlow",

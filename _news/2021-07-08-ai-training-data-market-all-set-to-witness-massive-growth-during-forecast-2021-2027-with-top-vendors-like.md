@@ -24,29 +24,15 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence in IoT Market Outlook to 2027 Emerging Trends and Will Generate New Growth Opportunities Status"
-    excerpt: "Jul 05, 2021 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry\" “Artificial Intelligence in IoT"
-    publishedDateTime: 2021-07-05T06:47:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-iot-market-outlook-to-2027-emerging-trends-and-will-generate-new-growth-opportunities-status-2021-07-05"
+  - title: "Global Smart Windows Market to 2027 - Smart Windows Seek Opportunities in Self-Driving Cars"
+    excerpt: "© 2021 Insider Inc. and finanzen.net GmbH (Imprint). All rights reserved. Registration on or use of this site constitutes acceptance of our Terms of Service and Privacy Policy. Disclaimer ..."
+    publishedDateTime: 2021-07-07T11:40:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/global-smart-windows-market-to-2027-smart-windows-seek-opportunities-in-self-driving-cars-1030585186"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 43
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "AI Governance Market to Witness Growth Acceleration During 2021-2027"
-    excerpt: "The recent analysis on AI Governance market intends to provide a competitive edge to stakeholders by uncovering the future growth patterns of this industry through a deep study of past records and latest global developments."
-    publishedDateTime: 2021-07-06T16:52:00Z
-    webUrl: "https://www.arnnet.com.au/mediareleases/143676/ai-governance-market-to-witness-growth/"
-    type: article
-    provider:
-      name: ARN
-      domain: arnnet.com.au
-    quality: 17
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 24
 
 secured: "FUlMyaMllGe9jg0RCvqjmDc3xGNUeLQ4U0gZQdB2eUNhatCqCZQqKEGlWBQO9zJ5bCYAhws5+Wk0qiVfBM/ED0NGGL+c9Os1sMkuKpYgque8J1pWDq9y8UUktqlUAAwRv4LLTjx/iyVJjSFPfnOe7//yblityjkgjlnHO1TMB7H6DvG09ceHaSkObMowI3FPxFph7tKtcIJ0CqhrWnGnxMHYZbxr4ihbMNHRO1ukIBBVoW6ZTR1CArbXUpTnGLtRMMHoacw8bt6qbOVzNtlq2UNHC/BqKy0oYkoPkAd+tdq4WMtuE71bmnusV0cSqsIyKH/gKGoI6z9JT/Fb3PCv+urc7iGE1vysh9tv2dkJGLk=;bpIoOK/HfR29I407RJlskw=="
 ---

@@ -42,20 +42,6 @@ related:
         width: 590
         height: 400
         isCached: true
-  - title: "Reuters: ‘Racist’ facial recognition sparks ethical concerns in Russia"
-    excerpt: "From scanning residents’ faces to let them into their building to spotting police suspects in a crowd, the rise of facial recognition is accompanied by a growing chorus of concern about unethical uses of the technology."
-    publishedDateTime: 2021-07-05T06:30:00Z
-    webUrl: "https://www.kyivpost.com/eastern-europe/reuters-racist-facial-recognition-sparks-ethical-concerns-in-russia.html"
-    type: article
-    provider:
-      name: Kyiv Post
-      domain: kyivpost.com
-    quality: 56
-    images:
-      - url: "https://www.kyivpost.com/wp-content/uploads/2021/06/000_9CG8F7.jpg"
-        width: 1024
-        height: 697
-        isCached: true
 
 secured: "EQSTsjU4f53i84bOcqGOW/XKBXHs2gAgYLIN6EiurF+l9njXSpjViIt1Cw1aRaJ8Us19A6LvY6baAVlMRZWad6IdQo9yGmLT3HGoTfaT2vYT5Ax7tjtzIWWNlzCCJWekhlPzwZSZTt5a0+lWhyFI+EdQhNklpiRoVg4O3/eDv+Gi+M39FwNVp+stoFWNcL69ya8Be1rciBx4dJtxeQ/knF4r97jr+28KeEkgYRGgJYYaSH6zj23e0qWmlTgz13Ejto1yD88N74fotNuUSYT4+5UT8q02nerUCotZbZngL+HaTZAzBKNxBHVEY2wC622gLFh46eBhBfLbR9InHwUXy4EemiitWpbigUOVPhA+WEo=;i1AJ87Ap4CWAdxlxl3g73w=="
 ---

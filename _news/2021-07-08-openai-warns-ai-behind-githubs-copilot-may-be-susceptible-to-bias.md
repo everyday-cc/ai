@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/07/08/openai-warns-ai-behind-githubs-co
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/08/openai-warns-ai-behind-githubs-copilot-may-be-susceptible-to-bias/amp/"
 type: article
 quality: 89
-heat: 142
+heat: 139
 published: true
 
 provider:

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.astroawani.com/berita-dunia/analysis-racist-facial-recog
 cdnAmpWebUrl: "https://www-astroawani-com.cdn.ampproject.org/c/s/www.astroawani.com/berita-dunia/analysis-racist-facial-recognition-sparks-ethical-concerns-russia-306772?amp=1"
 type: article
 quality: 75
-heat: 95
+heat: 85
 published: true
 
 provider:
@@ -28,20 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Reuters: ‘Racist’ facial recognition sparks ethical concerns in Russia"
-    excerpt: "From scanning residents’ faces to let them into their building to spotting police suspects in a crowd, the rise of facial recognition is accompanied by a growing chorus of concern about unethical uses of the technology."
-    publishedDateTime: 2021-07-05T06:30:00Z
-    webUrl: "https://www.kyivpost.com/eastern-europe/reuters-racist-facial-recognition-sparks-ethical-concerns-in-russia.html"
-    type: article
-    provider:
-      name: Kyiv Post
-      domain: kyivpost.com
-    quality: 56
-    images:
-      - url: "https://www.kyivpost.com/wp-content/uploads/2021/06/000_9CG8F7.jpg"
-        width: 1024
-        height: 697
-        isCached: true
   - title: "'Racist' facial recognition sparks ethical concerns in Russia"
     excerpt: "From scanning residents' faces to let them into their building to spotting police suspects in a crowd, the rise of facial recognition is accompanied by a growing chorus of concern about unethical uses of the technology."
     publishedDateTime: 2021-07-06T14:00:00Z
