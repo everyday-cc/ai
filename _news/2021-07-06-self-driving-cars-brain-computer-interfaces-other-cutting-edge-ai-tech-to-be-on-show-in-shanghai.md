@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "New stroke rehabilitation pattern based on brain-computer interface and robot technology"
+    excerpt: "Strokes, which occur when the blood supply to part of our brain is interrupted or reduced, are the leading cause of death and disability in the adult population."
+    publishedDateTime: 2021-07-10T01:38:00Z
+    webUrl: "https://www.news-medical.net/news/20210709/New-stroke-rehabilitation-pattern-based-on-brain-computer-interface-and-robot-technology.aspx"
+    ampWebUrl: "https://www.news-medical.net/amp/news/20210709/New-stroke-rehabilitation-pattern-based-on-brain-computer-interface-and-robot-technology.aspx"
+    cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20210709/New-stroke-rehabilitation-pattern-based-on-brain-computer-interface-and-robot-technology.aspx"
+    type: article
+    provider:
+      name: News Medical
+      domain: news-medical.net
+    quality: 65
+    images:
+      - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2014/7/Stroke-620x480.jpg"
+        width: 620
+        height: 480
+        isCached: true
   - title: "How robots and brain-computer interfaces could transform stroke patients' recovery"
     excerpt: "considered by many the next generation of artificial intelligence technology. In the NCyborg Project, the two organisations will draw on their expertise in brain-computer interface technology and brain-inspired intelligent robot technology to establish a ..."
     publishedDateTime: 2021-07-09T14:20:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wsj.com/amp/articles/micron-technology-puts-its-cash-to-
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/micron-technology-puts-its-cash-to-work-using-artificial-intelligence-11625781002"
 type: article
 quality: 87
-heat: 108
+heat: 118
 published: true
 
 provider:
@@ -30,6 +30,22 @@ images:
     isCached: true
 
 related:
+  - title: "Micron technology puts its cash to work using artificial intelligence"
+    excerpt: "The Boise, Idaho-based memory-chip maker says it is earning millions of dollars in extra returns on its deposits thanks to an AI tool developed in house"
+    publishedDateTime: 2021-07-10T01:07:00Z
+    webUrl: "https://www.livemint.com/technology/tech-news/micron-technology-puts-its-cash-to-work-using-artificial-intelligence-11625836801977.html"
+    ampWebUrl: "https://www.livemint.com/technology/tech-news/micron-technology-puts-its-cash-to-work-using-artificial-intelligence/amp-11625836801977.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/tech-news/micron-technology-puts-its-cash-to-work-using-artificial-intelligence/amp-11625836801977.html"
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
+    quality: 57
+    images:
+      - url: "https://images.livemint.com/img/2021/07/09/600x338/2021-07-01T093323Z_1643310723_RC2LBO9R6YOJ_RTRMADP_3_MICRON-TECH-RESULTS_1625837012609_1625837026629.JPG"
+        width: 600
+        height: 338
+        isCached: true
   - title: "Using Genomic-Based AI Technology to Advance Cancer Care"
     excerpt: "GE Healthcare and SOPHiA GENETICS are partnering up to develop genomic-based artificial intelligence technology to advance cancer treatment and care."
     publishedDateTime: 2021-07-06T17:00:00Z

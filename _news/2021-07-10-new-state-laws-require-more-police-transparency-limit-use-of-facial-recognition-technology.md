@@ -1,0 +1,63 @@
+---
+category: news
+title: "New state laws require more police transparency, limit use of facial recognition technology"
+excerpt: "One of the laws makes Maine the first state in the country to apply strict limits on facial recognition technology."
+publishedDateTime: 2021-07-10T01:14:00Z
+originalUrl: "https://www.pressherald.com/2021/07/09/new-state-laws-require-more-police-transparency-limit-use-of-facial-recognition-technology/"
+webUrl: "https://www.pressherald.com/2021/07/09/new-state-laws-require-more-police-transparency-limit-use-of-facial-recognition-technology/"
+type: article
+quality: 29
+heat: -1
+published: false
+
+provider:
+  name: Portland Press Herald
+  domain: pressherald.com
+
+topics:
+  - Computer Vision
+  - AI
+
+images:
+  - url: "http://multifiles.pressherald.com/uploads/sites/4/2017/01/pph-icon-red-linkforFB.png"
+    width: 300
+    height: 300
+    isCached: true
+
+related:
+  - title: "Maine Becomes First State To Pass Broad Government Ban on Facial Recognition Technology"
+    excerpt: "Maine's new law is both the strongest and broadest in scope as of yet. The new bill bans the use of facial recognition technology across all levels of state government."
+    publishedDateTime: 2021-07-08T16:00:00Z
+    webUrl: "https://www.cpomagazine.com/data-privacy/maine-becomes-first-state-to-pass-broad-government-ban-on-facial-recognition-technology/"
+    ampWebUrl: "https://www.cpomagazine.com/data-privacy/maine-becomes-first-state-to-pass-broad-government-ban-on-facial-recognition-technology/amp/"
+    cdnAmpWebUrl: "https://www-cpomagazine-com.cdn.ampproject.org/c/s/www.cpomagazine.com/data-privacy/maine-becomes-first-state-to-pass-broad-government-ban-on-facial-recognition-technology/amp/"
+    type: article
+    provider:
+      name: CPO Magazine
+      domain: cpomagazine.com
+    quality: 66
+    images:
+      - url: "https://www.cpomagazine.com/wp-content/uploads/2021/07/maine-becomes-first-state-to-pass-broad-government-ban-on-facial-recognition-technology_1500.jpg"
+        width: 1500
+        height: 860
+        isCached: true
+  - title: "Baltimore is the latest U.S. city to target facial recognition technology"
+    excerpt: "The city of Baltimore has banned the use of facial recognition systems by residents, businesses and the city government (except for police). The criminalisation in a major U.S. city of an"
+    publishedDateTime: 2021-07-06T10:26:00Z
+    webUrl: "https://www.sourcesecurity.com/insights/baltimore-city-target-facial-recognition-technology-co-1508-ga-sb.1625556289.html"
+    ampWebUrl: "https://www.sourcesecurity.com/amp/insights/baltimore-city-target-facial-recognition-technology-co-1508-ga-sb.1625556289.html"
+    cdnAmpWebUrl: "https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/insights/baltimore-city-target-facial-recognition-technology-co-1508-ga-sb.1625556289.html"
+    type: article
+    provider:
+      name: SourceSecurity
+      domain: sourcesecurity.com
+    quality: 58
+    images:
+      - url: "https://www.sourcesecurity.com/img/news/612/why-access-control-important-920x533.jpg"
+        width: 612
+        height: 355
+        isCached: true
+
+secured: "xN9mwLSHP/C4xFLyi6r+8aIqMxYLbtldJUg3Z+1nuEJCr1QizZKvT5jRRqvHxawFLGmVB04iejpzOK550RwT86S1ZTiecymaYMvobztkxSrm/6sBSzqxoLoT3x1HoC4joxNiEtLjBK3GMSpiQEOmM27k8TajX9txX1O/dZM7+PnVfAHuGgrAIQVdvhtJhhd4N7vs4MDknlUQk0+5Rsqj+2/CV4xDKMrV2H0mdPanM9mTnTAcEAwD15/JIDKsPDzXJ/cQw/30n/Bq0fC0og0/y9DXII8KM61Ky4VhoPi3uiPBm0Soa2kcv894Fy2paFWGWC8HNx5estscHR8jfkSKlP+C4TH/f4iaDKvxI684468=;LVYRJO+fFAKgtURrdqoBAA=="
+---
+

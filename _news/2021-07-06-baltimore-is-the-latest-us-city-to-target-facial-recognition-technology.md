@@ -43,6 +43,20 @@ related:
         width: 1500
         height: 860
         isCached: true
+  - title: "New state laws require more police transparency, limit use of facial recognition technology"
+    excerpt: "One of the laws makes Maine the first state in the country to apply strict limits on facial recognition technology."
+    publishedDateTime: 2021-07-10T01:14:00Z
+    webUrl: "https://www.pressherald.com/2021/07/09/new-state-laws-require-more-police-transparency-limit-use-of-facial-recognition-technology/"
+    type: article
+    provider:
+      name: Portland Press Herald
+      domain: pressherald.com
+    quality: 29
+    images:
+      - url: "http://multifiles.pressherald.com/uploads/sites/4/2017/01/pph-icon-red-linkforFB.png"
+        width: 300
+        height: 300
+        isCached: true
 
 secured: "zqZpYg3glw2PAGMX0mdRc8ktUKvT/vB1Tsxr/uuhNPOAJ3Nolm2bj8GLiDbosV+qZxw1Iq1NnP+nP93bEWn4S19eWX+zvhzcXSkN+cSI4FnlSjAfptzJ7fyu6NysU0hI/F3t4iyw42ccVHF1JOU6vizLVSR5aHjm/4M77OI+V0+VwM5a2NDyfm4HEarBfT8PoqsCxesuf7d335lf1IZWahmi60DkAZoR4rTBbl2K8mpSKkmcay+JdIL//9u8LRPuiaeFO6otkHhDZmI0nhLh2QtZ+4occJzs4Zfrm0lArH1lw/VaM+a9tJWSwBcc9wsfAuha+RrwXOBMUpMyz04wivnSnAiRR+RFdPQ5CITVXqA=;dGp7PhBKhoYRpNJgZ76P4g=="
 ---

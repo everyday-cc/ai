@@ -7,7 +7,7 @@ originalUrl: "https://www.eurekalert.org/pub_releases/2021-07/kccl-hra070921.php
 webUrl: "https://www.eurekalert.org/pub_releases/2021-07/kccl-hra070921.php"
 type: article
 quality: 48
-heat: 48
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "New stroke rehabilitation pattern based on brain-computer interface and robot technology"
+    excerpt: "Strokes, which occur when the blood supply to part of our brain is interrupted or reduced, are the leading cause of death and disability in the adult population."
+    publishedDateTime: 2021-07-10T01:38:00Z
+    webUrl: "https://www.news-medical.net/news/20210709/New-stroke-rehabilitation-pattern-based-on-brain-computer-interface-and-robot-technology.aspx"
+    ampWebUrl: "https://www.news-medical.net/amp/news/20210709/New-stroke-rehabilitation-pattern-based-on-brain-computer-interface-and-robot-technology.aspx"
+    cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20210709/New-stroke-rehabilitation-pattern-based-on-brain-computer-interface-and-robot-technology.aspx"
+    type: article
+    provider:
+      name: News Medical
+      domain: news-medical.net
+    quality: 65
+    images:
+      - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2014/7/Stroke-620x480.jpg"
+        width: 620
+        height: 480
+        isCached: true
   - title: "Self-Driving Cars, Brain-Computer Interfaces, Other Cutting-Edge AI Tech to Be on Show in Shanghai"
     excerpt: "State-of-the-art technologies including unmanned vehicles on the open road and brain-computer interface systems that transfer signals from the brain to external devices will be on display at the 2021 World Artificial Intelligence Conference to be held in Shanghai later this week."
     publishedDateTime: 2021-07-06T11:23:00Z

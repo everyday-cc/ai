@@ -8,8 +8,8 @@ webUrl: "https://venturebeat.com/2021/07/09/ai-brings-promise-and-peril-to-custo
 ampWebUrl: "https://venturebeat.com/2021/07/09/ai-brings-promise-and-peril-to-customer-relations-management/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/09/ai-brings-promise-and-peril-to-customer-relations-management/amp/"
 type: article
-quality: 87
-heat: 97
+quality: 89
+heat: 99
 published: true
 
 provider:
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - AI Ethics
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2013/10/crm-stock-photo-e1625854062467.jpg?w=1200&strip=all"
@@ -40,6 +41,6 @@ related:
       domain: tmcnet.com
     quality: 0
 
-secured: "qb9QUvpOpwl5UtDPLJM6gRsjib1VBypELStfNL3Pk9YpRv55buPGD68HhBYVhjeF1eM56dWb+JRIJcahrg8eblwLX7xxS3BglrK4GtQ/L9X5oSXT5/sje0Jov9wK/uTzgd0SMxeHl0Nj25cDiMXgN1Ys4M8s9V9Cp1N0y6HOSeYk3xxJrna/CJ5RWyZaS0D9J1nmXjeuXChiOTLORZrbScgt7RscQbOXKUM/oH+G410H+yY7iOrKhqhm6PkdTCqvWpXx0WeST8aGqGcOTiq2gWuhKpTgIef054rkt6HJoOxhq3wL5R6eGDXahXlkPopWhNmj+pfHp9Tw053kly8Xe7pFQdGl1t5Weuj2jNm3HYs=;iw+fA/7uVuOoGN5/nyfDRA=="
+secured: "lYIID/hCgWm4fwAHX26sFcdRc/l3K5g1XIm7DbQZ021LLAR7Dr/EL40EbNEIaJBfNtw38m/FK2Ar2ExZCTDJwJF3Mk6+8s18PX4DPe3vZ2++6+3UcChJtkq1hrAPtgJXwvQhRoYSPxTobvNTgg+WCPYIrvQEz9cReBWAo80jrO8P3bSJF8kLK32bhykc5xHcM8sGGf5LqghxNw8dazCXg2jHEVTTKyT8tzv+AtQirzHwOC8+VHG+gH4zJ8HaLF/RzmqAND2A+WDTeyZNyPV1Wa3ijewsjfwBcbqPuSsLbmViyIcIbd58wFxZ3Jsj21B7jpJblHfZ/a3scvq/ghgn6G394CzTiUaOK/Y2A2H9MwAfgXiHTSNM6d1LSE0+Sk2xbBjOdi/H+tPzB9lIKSzyVMP4nDEdg3kQWc7ZCMRVSpPlFy48gXwmbepGcq8I1B2Dlt7IkYo6A2suKHTew//UshYVCA45A3YxbzsxCF9ia6Jtw7BAing1k5HnFkicwc6VUzzAVPC8ccZSSht4XzijzQ==;dI2R/QPfn5ZdtuCPTUvfzw=="
 ---
 

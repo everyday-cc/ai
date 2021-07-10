@@ -2,6 +2,110 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-06-19-robotics-page-4.md",
+      "title": "Robotics - Page: 4",
+      "excerpt": "The online retailing giant has installed more than 15,000 robots across 10 U.S. warehouses, a move that promises to get packages out the door more quickly in the run-up to Christmas.",
+      "sourceUrl": null,
+      "webUrl": "https://www.entrepreneur.com/topic/robotics/4",
+      "originalUrl": "https://www.entrepreneur.com/topic/robotics/4",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/20160408155709-default-hero-entrepreneur.png",
+          "width": 2000,
+          "height": 1334,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-19T05:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-18-3-great-deals-on-robot-vacuums-from-shark-eufy-and-more-you-can-score-right-now.md",
+      "title": "3 great deals on robot vacuums from Shark, Eufy and more you can score right now",
+      "excerpt": "The vacuum category offers great deals on Prime Day, says smart shopping expert Trae Bodge of TrueTrae.com, and in some cases the deals have already begun. “As home deals are a large part of the offers on Prime Day,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/story/3-great-deals-on-robot-vacuums-from-shark-eufy-and-more-you-can-score-right-now-01624032049",
+      "originalUrl": "https://www.marketwatch.com/story/3-great-deals-on-robot-vacuums-from-shark-eufy-and-more-you-can-score-right-now-01624032049",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.mktw.net/im-356292/social",
+          "width": 1279,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.marketwatch.com/amp/story/3-great-deals-on-robot-vacuums-from-shark-eufy-and-more-you-can-score-right-now-01624032049",
+      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/3-great-deals-on-robot-vacuums-from-shark-eufy-and-more-you-can-score-right-now-01624032049",
+      "publishedDateTime": "2021-06-18T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-18-rise-of-the-money-machines-can-ai-fix-personal-finance.md",
       "title": "Rise of the Money Machines: Can AI Fix Personal Finance?",
       "excerpt": "However, the reality of AI is actually much less sexy and much more useful. AI and machine learning technologies are being applied to industries from manufacturing to money management to help improve efficiency and drive returns.",
@@ -1255,102 +1359,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-10-robotics-startup-realtime-used-this-pitch-deck-to-convince-toyota-to-invest-in-its-31-million-series-a-round.md",
-      "title": "Robotics startup Realtime used this pitch deck to convince Toyota to invest in its $31 million Series A round",
-      "excerpt": "Startup Realtime Robotics recently extended its Series A, adding about $19 million in funding at an $80 million valuation.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/pitch-deck-realtime-robotics-31-million-series-a-toyota-ventures-2021-6",
-      "originalUrl": "https://www.businessinsider.com/pitch-deck-realtime-robotics-31-million-series-a-toyota-ventures-2021-6",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/60bfad2c2feb6f00181ed9ac?width=1200&format=jpeg",
-          "width": 940,
-          "height": 470,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-09T10:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-10-meet-grace-the-healthcare-robot-covid-19-created.md",
-      "title": "Meet Grace, the healthcare robot COVID-19 created",
-      "excerpt": "The Hong Kong team behind celebrity humanoid robot Sophia is launching a new prototype, Grace, targeted at the healthcare market and designed to interact with the elderly and those isolated by the COVID-19 pandemic.",
-      "sourceUrl": null,
-      "webUrl": "https://www.metro.us/meet-grace-the-healthcare/",
-      "originalUrl": "https://www.metro.us/meet-grace-the-healthcare/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.metro.us/wp-content/uploads/Reuters_Direct_Media/HealthNewsOnlineReport/tagreuters.com2021binary_LYNXNPEH5805D-BASEIMAGE.jpg",
-          "width": 800,
-          "height": 533,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.metro.us/meet-grace-the-healthcare/amp/",
-      "cdnAmpWebUrl": "https://www-metro-us.cdn.ampproject.org/c/s/www.metro.us/meet-grace-the-healthcare/amp/",
-      "publishedDateTime": "2021-06-09T10:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Metro US",
-        "domain": "metro.us",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

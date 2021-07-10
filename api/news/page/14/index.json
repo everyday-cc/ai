@@ -2,6 +2,196 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2021-06-28-eyetech-digital-systems-recognized-by-siia-as-best-artificial-intelligence-solution-in-healthcare.md",
+      "title": "EyeTech Digital Systems Recognized by SIIA as Best Artificial Intelligence Solution in Healthcare",
+      "excerpt": "EyeTech Digital Systems ′ EyeOn platform has been named the 2021 Best Artificial Intelligence Solution in Healthcare as part of the annual SIIA CODiE Awards. The CODiE Awards recognize companies producing the most innovative business technology products across the country and around the world.",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/pr-newswire/artificial-intelligence-technology-90889e6221b2aed7f789007e4c6a8ae6",
+      "originalUrl": "https://apnews.com/press-release/pr-newswire/artificial-intelligence-technology-90889e6221b2aed7f789007e4c6a8ae6",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-28T05:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-28-how-to-get-your-employees-to-quickly-embrace-a-digital-platform.md",
+      "title": "How To Get Your Employees To Quickly Embrace A Digital Platform",
+      "excerpt": "Clearly, now more than ever, digital transformation must take hold in many industries. It is especially important when companies must find ways to do more work with far fewer resources. Starting Your Digital Transformation Journey Digital transformation truly \"takes a village.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/06/28/how-to-get-your-employees-to-quickly-embrace-a-digital-platform/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/06/28/how-to-get-your-employees-to-quickly-embrace-a-digital-platform/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60d5f1ae42bc6c32ef95e8b3%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/06/28/how-to-get-your-employees-to-quickly-embrace-a-digital-platform/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/06/28/how-to-get-your-employees-to-quickly-embrace-a-digital-platform/amp/",
+      "publishedDateTime": "2021-06-28T04:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-28-jet-bot-ai-robotic-vacuum-cleaner-has-a-3d-active-stereo-type-sensor-and-ai.md",
+      "title": "Jet Bot AI+ robotic vacuum cleaner has a 3D active stereo-type sensor and AI",
+      "excerpt": "During CES 2021, back in January, Samsung Electronics announced a new robotic vacuum cleaner with some interesting features called the Jet Bot AI+. Samsung has now confirmed the global launch of",
+      "sourceUrl": null,
+      "webUrl": "https://www.slashgear.com/jet-bot-ai-robotic-vacuum-cleaner-has-a-3d-active-stereo-type-sensor-and-ai-28680192/",
+      "originalUrl": "https://www.slashgear.com/jet-bot-ai-robotic-vacuum-cleaner-has-a-3d-active-stereo-type-sensor-and-ai-28680192/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.slashgear.com/wp-content/uploads/2021/06/samsung-vacuum.jpg",
+          "width": 1280,
+          "height": 825,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.slashgear.com/jet-bot-ai-robotic-vacuum-cleaner-has-a-3d-active-stereo-type-sensor-and-ai-28680192/amp/",
+      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/jet-bot-ai-robotic-vacuum-cleaner-has-a-3d-active-stereo-type-sensor-and-ai-28680192/amp/",
+      "publishedDateTime": "2021-06-28T04:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SlashGear",
+        "domain": "slashgear.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/slashgear.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2021-06-28-cognitive-assessment-market-growing-trends-and-technology-forecast-2021-2026-verasci-neurocog-trials-lumos-labs-cogstate.md",
+      "title": "Cognitive Assessment Market Growing Trends and Technology Forecast 2021-2026 | VeraSci NeuroCog Trials, Lumos Labs, Cogstate",
+      "excerpt": "Services, Hardware & Software is the main type for Cognitive Assessment, with a 49.40% revenue market share. and 18+ countries across the globe along with insights on emerging & major players.",
+      "sourceUrl": null,
+      "webUrl": "https://www.openpr.com/news/2315295/cognitive-assessment-market-growing-trends-and-technology",
+      "originalUrl": "https://www.openpr.com/news/2315295/cognitive-assessment-market-growing-trends-and-technology",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.openpr.com/U/6/U628365823_g.jpg",
+          "width": 450,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.openpr.com/amp/2315295/cognitive-assessment-market-growing-trends-and-technology",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2315295/cognitive-assessment-market-growing-trends-and-technology",
+      "publishedDateTime": "2021-06-28T04:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-28-ai-and-computer-vision-remove-the-need-for-cell-biopsy-in-testing-embryos.md",
       "title": "AI and computer vision remove the need for cell biopsy in testing embryos",
       "excerpt": "Despite continuing controversies over its value in improving birth rates in IVF, testing embryos for their chromosomal content has become routine in many fertility clinics. Embryos with a normal complement of chromosomes (known as \"euploid\") are known to have a good chance of implanting in the uterus to become a pregnancy,",
@@ -947,200 +1137,6 @@
       ],
       "topics": [
         "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-27-machine-learning-identifies-new-brain-network-signature-of-major-depression.md",
-      "title": "Machine learning identifies new brain network signature of major depression",
-      "excerpt": "Machine learning is a method of data analysis that automates analytical model building. It is a branch of artificial intelligence based on the idea that",
-      "sourceUrl": null,
-      "webUrl": "https://www.thedailystar.net/health/news/machine-learning-identifies-new-brain-network-signature-major-depression-2118733",
-      "originalUrl": "https://www.thedailystar.net/health/news/machine-learning-identifies-new-brain-network-signature-major-depression-2118733",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assetsds.cdnedge.bluemix.net/sites/default/files/styles/social_share/public/feature/images/2021/06/26/brain-network-signature.jpg?itok=FT-QWUJF",
-          "width": 560,
-          "height": 292,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thedailystar.net/health/news/machine-learning-identifies-new-brain-network-signature-major-depression-2118733?amp",
-      "cdnAmpWebUrl": "https://www-thedailystar-net.cdn.ampproject.org/c/s/www.thedailystar.net/health/news/machine-learning-identifies-new-brain-network-signature-major-depression-2118733?amp",
-      "publishedDateTime": "2021-06-26T12:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Daily Star",
-        "domain": "thedailystar.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-26-deepmind-agi-paper-adds-urgency-to-ethical-ai.md",
-      "title": "DeepMind AGI paper adds urgency to ethical AI",
-      "excerpt": "DeepMind expects reinforcement learning will lead to replicating human cognitive abilities, achieving artificial general intelligence (AGI).",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/06/26/deepmind-agi-paper-adds-urgency-to-ethical-ai/",
-      "originalUrl": "https://venturebeat.com/2021/06/26/deepmind-agi-paper-adds-urgency-to-ethical-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 155,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/12/dims-e1575998404106.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/06/26/deepmind-agi-paper-adds-urgency-to-ethical-ai/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/26/deepmind-agi-paper-adds-urgency-to-ethical-ai/amp/",
-      "publishedDateTime": "2021-06-26T06:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI Ethics",
-        "Google AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2021-06-26-heres-what-a-trend-analyzing-ai-thinks-will-be-the-next-big-thing-in-tech.md",
-      "title": "Here’s what a trend-analyzing A.I. thinks will be the next big thing in tech",
-      "excerpt": "The \"technology intelligence engine\" uses A.I. to sift through hundreds of millions of documents online, then uses all that information to spot trends.",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaltrends.com/features/trend-analyzing-ai-predicts-next-big-thing-tech/",
-      "originalUrl": "https://www.digitaltrends.com/features/trend-analyzing-ai-predicts-next-big-thing-tech/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://icdn.digitaltrends.com/image/digitaltrends/imagecomposite_aibrain_200723.jpg",
-          "width": 2000,
-          "height": 1333,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.digitaltrends.com/features/trend-analyzing-ai-predicts-next-big-thing-tech/?amp",
-      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/features/trend-analyzing-ai-predicts-next-big-thing-tech/?amp",
-      "publishedDateTime": "2021-06-26T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Trends",
-        "domain": "digitaltrends.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2021-06-26-why-the-eu-lags-behind-in-artificial-intelligence-science-and-technology.md",
-      "title": "Why the EU Lags behind in Artificial Intelligence, Science and Technology",
-      "excerpt": "It is not surprising that Europe, despite having a strong industrial base and leading AI research and talent, is dragging behind the US and China.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bbntimes.com/science/why-the-eu-lags-behind-in-artificial-intelligence-science-and-technology",
-      "originalUrl": "https://www.bbntimes.com/science/why-the-eu-lags-behind-in-artificial-intelligence-science-and-technology",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.bbntimes.com/images/articles/global-economy/AI_Europe.jpg",
-          "width": 800,
-          "height": 540,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.bbntimes.com/science/why-the-eu-lags-behind-in-artificial-intelligence-science-and-technology",
-      "cdnAmpWebUrl": "https://www-bbntimes-com.cdn.ampproject.org/c/s/www.bbntimes.com/science/why-the-eu-lags-behind-in-artificial-intelligence-science-and-technology",
-      "publishedDateTime": "2021-06-26T01:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "bbntimes",
-        "domain": "bbntimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
         "AI"
       ]
     }

@@ -21,128 +21,59 @@ topics:
   - AI in Security
 
 related:
-  - title: "Artificial Intelligence (Ai) In Medical Diagnostics Market Outlook, Industry Analysis and Prospect 2021-2027"
-    excerpt: "In Medical Diagnostics market size was valued at US$ 608 million in 2020 and is projected to reach US$ 4,978 million by 2027, rising at a market growth (CAGR) of 52.4% during the forecast period. The Growth in this Artificial Intelligence in medical diagnostics market is primarily driven by government initiatives to increase the adoption of AI-based technologies,"
-    publishedDateTime: 2021-07-05T21:50:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-medical-diagnostics-market-outlook-industry-analysis-and-prospect-2021-2027-2021-07-05"
+  - title: "Report: Growing San Diego Cybersecurity Cluster Using AI to Fight Hacking Threats"
+    excerpt: "San Diego's cyber cluster accounts for 24,349 local jobs across 874 firms, has an annual economic impact of $3.5 billion, and is growing rapidly thanks to defense-related projects."
+    publishedDateTime: 2021-07-06T00:52:00Z
+    webUrl: "https://timesofsandiego.com/tech/2021/07/05/report-growing-san-diego-cybersecurity-cluster-using-ai-to-fight-hacking-threats/"
+    ampWebUrl: "https://timesofsandiego.com/tech/2021/07/05/report-growing-san-diego-cybersecurity-cluster-using-ai-to-fight-hacking-threats/"
+    cdnAmpWebUrl: "https://timesofsandiego-com.cdn.ampproject.org/c/s/timesofsandiego.com/tech/2021/07/05/report-growing-san-diego-cybersecurity-cluster-using-ai-to-fight-hacking-threats/"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 65
+      name: Times of San Diego
+      domain: timesofsandiego.com
+    quality: 52
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://timesofsandiego.com/wp-content/uploads/2020/01/Google-Data-Center.jpg"
+        width: 640
+        height: 360
         isCached: true
-  - title: "Artificial Intelligence (AI) in Oil and Gas Market is Set To Fly High in Years to Come"
-    excerpt: "A new research document with title Artificial Intelligence AI in Oil and Gas Thematic Research covering detailed analysis Competitive landscape forecast and strategies The study covers geographic analysis that includes regions like North America U S Canada Mexico Europe Germany"
-    publishedDateTime: 2021-07-09T23:23:00Z
-    webUrl: "https://www.openpr.com/news/2325607/artificial-intelligence-ai-in-oil-and-gas-market-is-set-to-fly"
-    ampWebUrl: "https://www.openpr.com/amp/2325607/artificial-intelligence-ai-in-oil-and-gas-market-is-set-to-fly"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2325607/artificial-intelligence-ai-in-oil-and-gas-market-is-set-to-fly"
+  - title: "The cybersecurity AI startup ZeroFox is buying competitor Vigilante to help it better scan the dark web to fight back against ransomware"
+    excerpt: "Threat intelligence firm ZeroFox announced Tuesdsay that it will acquire the competitor startup Vigilante."
+    publishedDateTime: 2021-07-07T13:00:00Z
+    webUrl: "https://www.businessinsider.com/zerofox-acquires-vigilante-to-build-out-security-ai-ceo-interview-2021-6"
     type: article
     provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 64
-    images:
-      - url: "https://cdn.openpr.com/U/7/U710307690_g.jpg"
-        width: 400
-        height: 300
-        isCached: true
-  - title: "Text Analytics Market Top Vendors Analysis, Market Challenges and Geographical Analysis"
-    excerpt: "As per Global Market Insights, Inc. estimates, the global text analytics market size is expected to cross $20 billion by 2027. The global text analytics market share is slated to expand at an appreciable rate over the foreseeable future,"
-    publishedDateTime: 2021-07-09T12:07:00Z
-    webUrl: "https://www.marketwatch.com/press-release/text-analytics-market-top-vendors-analysis-market-challenges-and-geographical-analysis-2021-07-09"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 46
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence (AI) Market in Industrial Machinery Industry to grow by $ 458.68 million|Technavio"
-    excerpt: "The artificial intelligence (AI) market in the agriculture industry market is set to grow by USD 458.68 million, progressing at a CAGR of"
-    publishedDateTime: 2021-07-09T22:00:00Z
-    webUrl: "https://www.troyrecord.com/news/national/artificial-intelligence-ai-market-in-industrial-machinery-industry-to-grow-by-458-68-million-technavio/article_25c3bf4e-291e-581e-9d99-f30a8b0173aa.html"
-    type: article
-    provider:
-      name: Troy Record
-      domain: troyrecord.com
+      name: Business Insider
+      domain: businessinsider.com
     quality: 36
     images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/troyrecord.com/content/tncms/assets/v3/editorial/0/b6/0b6e2b92-6456-5b6a-b26e-f092a993135e/60e8cab506590.image.jpg?resize=1200%2C585"
+      - url: "https://i.insider.com/60d9da04e31c5f0019fdde6d?width=1200&format=jpeg"
         width: 1200
-        height: 585
+        height: 600
         isCached: true
-  - title: "Artificial Intelligence (AI) in Automotive Market"
-    excerpt: "Latest added Artificial Intelligence (AI) in Automotive Market research study by MarketDigits offers detailed product outlook and elaborates market review till 2027. The market Study is segmented by key regions that is accelerating the marketization."
-    publishedDateTime: 2021-07-07T18:54:00Z
-    webUrl: "https://manometcurrent.com/artificial-intelligence-ai-in-automotive-market-analysis-by-key-players-end-users-and-cagr-forecast-to-2027-harman-international-industries-inc-honda-motor-co-ltd-ibm-corporation-intel-co/"
+  - title: "How Predictive AI will Change Cybersecurity in 2021"
+    excerpt: "In this contributed article, Dr. Igor Mezic, CTO of MixMod AI explains how you can identify and stop zero-day attacks like the SolarWinds attack with the invention of this Unsupervised, Predictive AI,"
+    publishedDateTime: 2021-07-09T13:00:00Z
+    webUrl: "https://insidebigdata.com/2021/07/09/how-predictive-ai-will-change-cybersecurity-in-2021/"
+    type: article
+    provider:
+      name: insidebigdata.com
+      domain: insidebigdata.com
+    quality: 17
+  - title: "Cybersecurity AI Market 2021 Evolving Technology and Growth Outlook to 2028 | Bae Systems, Cisco, Fortinet, Fireeye, Check Point, Ibm"
+    excerpt: "The global market for Cybersecurity AI offers a detailed overview of the regional and local markets. In order to provide a comprehensive market overview, the Cybersecurity AI market report includes a regional competitive landscape for the number of major service providers in the market."
+    publishedDateTime: 2021-07-07T17:50:00Z
+    webUrl: "https://manometcurrent.com/cybersecurity-ai-market-2021-evolving-technology-and-growth-outlook-to-2028-bae-systems-cisco-fortinet-fireeye-check-point-ibm/"
     type: article
     provider:
       name: manometcurrent.com
       domain: manometcurrent.com
-    quality: 34
-  - title: "Machine Learning as a Service (MLaaS) Market 2021 Size, Status and Business Outlook 2026"
-    excerpt: "Market Research Report 2021-2026, provides an in-depth analysis of market size, share, drivers, constraints, and other factors. Additionally, for the projection period of 2026, this research includes an estimated observation of many segments in terms of universal growth,"
-    publishedDateTime: 2021-07-09T07:20:00Z
-    webUrl: "https://manometcurrent.com/machine-learning-as-a-service-mlaas-market-2021-size-status-and-business-outlook-2026/"
-    type: article
-    provider:
-      name: manometcurrent.com
-      domain: manometcurrent.com
-    quality: 25
-  - title: "Artificial Intelligence in Diagnostics Market Size, Trends, Companies, Driver, Segmentation, Forecast to 2027"
-    excerpt: "Global Artificial Intelligence in Diagnostics Market is valued approximately at USD 288 million in 2019 and is anticipated to grow with a healthy growth rate of more than 32.3% over the forecast period 2020-2027."
-    publishedDateTime: 2021-07-07T02:29:00Z
-    webUrl: "https://www.arnnet.com.au/mediareleases/143678/artificial-intelligence-in-diagnostics-market/"
-    type: article
-    provider:
-      name: ARN
-      domain: arnnet.com.au
-    quality: 20
+    quality: 6
     images:
-      - url: "https://www.arnnet.com.au/dimg/300x300/dimg/win20_edu_remotelearning_026.jpg"
+      - url: "https://manometcurrent.com/wp-content/uploads/2021/07/mri8-300x259.png"
         width: 300
-        height: 225
+        height: 259
         isCached: true
-  - title: "Artificial Intelligence (AI) Software Market Analysis, Leading Players, Future Growth, Business Prospects Research Report Foresight To 2027"
-    excerpt: "Software market by RMoz gives all the essential information needed to comprehend the important developments in this market for the forecast period of 20AA to 20BB. Through this report, the readers gain 360-degree analysis of the market for Artificial Intelligence (AI) Software."
-    publishedDateTime: 2021-07-07T17:40:00Z
-    webUrl: "https://ksusentinel.com/2021/07/07/artificial-intelligence-ai-software-market-analysis-leading-players-future-growth-business-prospects-research-report-foresight-to-2027/"
-    type: article
-    provider:
-      name: The Sentinel
-      domain: ksusentinel.com
-    quality: 18
-    images:
-      - url: "https://i.ibb.co/9qThnqF/r66.png"
-        width: 640
-        height: 457
-        isCached: true
-  - title: "Global Artificial intelligence (AI) in Supply Chain and Logistics Market Size, Status and Forecast 2021-2027"
-    excerpt: "Pages Report] Check for Discount on Global Artificial intelligence (AI) in Supply Chain and Logistics Market Size, Status and Forecast 2021-2027 report by QYResearch Group. Market Analysis and Insights: Global Artificial intelligence (AI) in"
-    publishedDateTime: 2021-07-09T08:01:00Z
-    webUrl: "https://www.reportsnreports.com/reports/4656198-global-artificial-intelligence-ai-in-supply-chain-and-logistics-market-size-status-and-forecast-2021-2027.html"
-    type: article
-    provider:
-      name: ReportsnReports
-      domain: reportsnreports.com
-    quality: 13
-  - title: "Global Machine Learning in Medical Imaging Market Size, Status and Forecast 2021-2027"
-    excerpt: "Medical imaging analytics tools become more readily available, providers are likely to find strong incentives to investigate the best way to integrate artificial intelligence/machine learning into their imaging strategies. Machine Learning in Medical ..."
-    publishedDateTime: 2021-07-09T07:46:00Z
-    webUrl: "https://www.reportsnreports.com/reports/4655615-global-machine-learning-in-medical-imaging-market-size-status-and-forecast-2021-2027.html"
-    type: article
-    provider:
-      name: ReportsnReports
-      domain: reportsnreports.com
-    quality: 12
 
 secured: "+IlkdIwNcPn5rmTpA80AF74D1BCeb81ypQkCpjDjbtE2vXRW20HEFARnX0kbVHTQ3sshM2diehCdZovfV1UUVSgVui7SqmK6LIpm1dNR2jBMGw9zedtqf4Oz6DFrDSdcQGxEh3ae4qxbrWd4+nqS2f/0uYE7db6UOGvIZVwppEFMvm3xB33sdh04RH8RzVyW7ntRhr9CrUcQxRbXRcZ0nauOcweQ8hlZBwAyqCBlc8JNHM8dzzSWw3NB6FEZbwyD0a2gR3ez+a1Dd5iCb8YimZOz7pTT3Beg+KjOuiCZTQi7hrMLZKFUHfQKy6gCMAwr2eg7qCA3q4IWXVPsTXLIkd5VVKDrsoYN0ocdPtZKAvA=;ZMyczZhVqWSIr+e1p9g5wg=="
 ---

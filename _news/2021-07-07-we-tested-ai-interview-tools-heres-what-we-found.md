@@ -9,7 +9,7 @@ ampWebUrl: "https://www.technologyreview.com/2021/07/07/1027916/we-tested-ai-int
 cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2021/07/07/1027916/we-tested-ai-interview-tools/amp/"
 type: article
 quality: 59
-heat: 69
+heat: 59
 published: false
 
 provider:
@@ -25,17 +25,6 @@ images:
     width: 3000
     height: 1687
     isCached: true
-
-related:
-  - title: "How AI is a little too good at knowing what we want, and why it has us hooked to our screens"
-    excerpt: "We spend as much time on our smartphones as we spend in our homes; the smartphone has become “the place where we live,” a UCL study recently found. Most of this time is spent"
-    publishedDateTime: 2021-07-05T08:09:00Z
-    webUrl: "https://timesofindia.indiatimes.com/blogs/breaking-shackles/how-ai-is-a-little-too-good-at-knowing-what-we-want-and-why-it-has-us-hooked-to-our-screens/"
-    type: article
-    provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 8
 
 secured: "ixthXGVbUGvcY7GCWzRthUnREsmOIRDv8bQs6yvD9kJHJqaid7ddVtkH3yG0wAR6RFCvkS8tpP1egOYURrDm1jel3JeWMNTmSUfsrOOaw6/i0xWREwC2ybJN82RikRVLrweUETVAd2amzNOfUWOEt44UZrgw2fJZCNZCXwyPuvxIKglILO2jILSkjLQQZvm/CmQgbNy2fImU6NHfgFVtnMkN3qzdstsVocVYj1KSzORwl9kGoKLQkqCBZM2fkOG+pwI+yi8oFhxgN5TVhMcjDUvPBTcrL0hUAXUqL2Ko+Ha80uwwnDKroRwDigAmYv1nr1X3sKhqYNPq1dIFCZK5PjT84sVvyA7yrJqU9N9LGz1ugd06+kh/rHipJoY68Of4lmwH5xjI/flkhnRGQdtuJz2jQKjZlR7KNxje55rnxo8LTzPO1DEYEW9ghtWsiPs81edkn+mCW8UZrv8dVq99gBDx2XfthPiCf4xfDZUWsr133/tUehdjS4Pz2g1VZ/o/5AIBejb2WFJ3cOXPf1k1vg==;dko0CkRRjGwjIL+N54FilQ=="
 ---

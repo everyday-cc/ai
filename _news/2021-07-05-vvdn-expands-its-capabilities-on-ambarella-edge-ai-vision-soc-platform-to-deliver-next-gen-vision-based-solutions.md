@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/vvdn-expands-its-c
 webUrl: "https://markets.businessinsider.com/news/stocks/vvdn-expands-its-capabilities-on-ambarella-edge-ai-vision-soc-platform-to-deliver-next-gen-vision-based-solutions-1030578196"
 type: article
 quality: 28
-heat: -1
+heat: 28
 published: false
 
 provider:
@@ -23,20 +23,6 @@ topics:
   - AI
 
 related:
-  - title: "VVDN expands its capabilities on Ambarella edge AI vision"
-    excerpt: "The expansion also allows VVDN to address multiple-tier including high as well as mid-range requirements for smart camera solutions VVDN has gained expertis"
-    publishedDateTime: 2021-07-05T07:55:00Z
-    webUrl: "https://www.bignewsnetwork.com/news/270173971/vvdn-expands-its-capabilities-on-ambarella-edge-ai-vision"
-    type: article
-    provider:
-      name: Big News Network.com
-      domain: bignewsnetwork.com
-    quality: 39
-    images:
-      - url: "https://cdn.bignewsnetwork.com/ani1625463313.jpg"
-        width: 630
-        height: 420
-        isCached: true
   - title: "VVDN and Ambarella Partner on Next-gen Vision-based Solutions"
     excerpt: "VVDN Technologies is expanding its capabilities on Ambarella's edge AI vision SoC platform to design and manufacture next-gen vision-based solutions."
     publishedDateTime: 2021-07-05T16:32:00Z

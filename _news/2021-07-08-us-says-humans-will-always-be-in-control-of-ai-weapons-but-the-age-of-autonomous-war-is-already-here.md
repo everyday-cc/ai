@@ -36,15 +36,6 @@ related:
         width: 1440
         height: 922
         isCached: true
-  - title: "AI ethics have consequences - learning from the problem of autonomous weapons systems"
-    excerpt: "AI ethics can seem like an academic exercise - that's not the case for autonomous weapons. A defining AI ethics issue for our time is heating up."
-    publishedDateTime: 2021-07-05T07:50:00Z
-    webUrl: "https://diginomica.com/ai-ethics-have-consequences-learning-problem-autonomous-weapons-systems"
-    type: article
-    provider:
-      name: Diginomica
-      domain: diginomica.com
-    quality: 27
   - title: "US says humans will always be in control of AI weapons. But the age of autonomous war is already here."
     excerpt: "Facts on the ground show that technological advancements, coupled with complex conflicts like the Syrian and Libyan civil wars, have created a reality where weapons that make their own decisions are already killing people."
     publishedDateTime: 2021-07-07T16:06:00Z

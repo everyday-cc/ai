@@ -38,6 +38,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence in Diagnostics Market Size, Trends, Companies, Driver, Segmentation, Forecast to 2027"
+    excerpt: "Global Artificial Intelligence in Diagnostics Market is valued approximately at USD 288 million in 2019 and is anticipated to grow with a healthy growth rate of more than 32.3% over the forecast period 2020-2027."
+    publishedDateTime: 2021-07-07T02:29:00Z
+    webUrl: "https://www.arnnet.com.au/mediareleases/143678/artificial-intelligence-in-diagnostics-market/"
+    type: article
+    provider:
+      name: ARN
+      domain: arnnet.com.au
+    quality: 20
+    images:
+      - url: "https://www.arnnet.com.au/dimg/300x300/dimg/win20_edu_remotelearning_026.jpg"
+        width: 300
+        height: 225
+        isCached: true
 
 secured: "KF5mXlAls63lb6ZfD7iKwo7FIcREkvAjPi2gQwKnrVpfSQ8dkZrGVNv+M0LF3LpwqEAKqTOn3axGWdPb41TA1+At8j5HBomfD35SyX5x42tOmTYY2Z2W+sdFfi6tQL4QWTkqDgWY9LfjtvZeQO31UUf01w1wszr5nd0RegsMbAKbnA8tcvUtaK1HXHomJlcRtJw8RlTZlLZ9D41wq1Bl3ADc42fC/m1IH5NH2uJOYtL1qbb6B/N4R8P9rChNRfnr4lLc16P0NSJLOWXNqcgeMgyi/9RWVS0CkQHosCC22SbEZ4ALsVAU0WxDDRJ3yCAyynO+6fMIPitN0r/TtbzKUgUJeH8tbBvbmLdsfeykKQg=;oQoT1coh206hKv6rB8KmWA=="
 ---

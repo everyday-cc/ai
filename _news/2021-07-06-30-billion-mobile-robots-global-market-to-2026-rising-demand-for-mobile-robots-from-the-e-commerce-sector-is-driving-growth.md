@@ -72,6 +72,20 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 11
+  - title: "Worldwide Surgical Robots Industry to 2026 - Featuring Accuray Incorporated, CMR Surgical and Medtronic Among Others - ResearchAndMarkets.com"
+    excerpt: "Global Industry Trends, Share, Size, Growth, Opportunity and Forecast 2021-2026” report has been added to ResearchAndMarkets.com’s offering. The global surgical robots market exhibited strong growth during 2015-2020."
+    publishedDateTime: 2021-07-09T17:06:00Z
+    webUrl: "https://apnews.com/press-release/BusinessWire/technology-health-coronavirus-pandemic-accuray-inc-41b6d405eecb4534b37ea13f0f67a0d2"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 4
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
 secured: "pwq0IXYU/1iIR2l0gk5sOWVqHjuKS+Nitq2mDVNog1Kykd4hiFaRMIamP4uFs7dRyyRoAV3fXV64tw6AMO0H8OdWaO42NuIn/eG/aPN9gxnLFzpeQgZAnme2aTRxtHBuoymZeuZiYIH+f58Ris0zT14xGd2JvgUlMRXftCdqEeIZ2bcUFmvCIZX/rcG882I6pR8oPHLmtaq4TIbxqQQBc0iDq8eCpOOS9goI1/M1bcJUV83iE6gd1dsZEjwQYfrkwwMYallTKrllYFuVEpvxu0div+3CqMQ+rlGwwqqBDHv3cJ8f2VLrkslT1OF8rB6bJ6GX4fYd4G3oYefwlu5hnQuHADbNPIhTONNZlpCr+XI=;wedUHVcZkJjVwoLKuV7Syg=="
 ---

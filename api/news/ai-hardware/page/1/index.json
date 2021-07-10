@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-07-10-artificial-intelligence-ai-in-oil-and-gas-market-is-set-to-fly-high-in-years-to-come.md",
+      "title": "Artificial Intelligence (AI) in Oil and Gas Market is Set To Fly High in Years to Come",
+      "excerpt": "A new research document with title Artificial Intelligence AI in Oil and Gas Thematic Research covering detailed analysis Competitive landscape forecast and strategies The study covers geographic analysis that includes regions like North America U S Canada Mexico Europe Germany",
+      "sourceUrl": null,
+      "webUrl": "https://www.openpr.com/news/2325607/artificial-intelligence-ai-in-oil-and-gas-market-is-set-to-fly",
+      "originalUrl": "https://www.openpr.com/news/2325607/artificial-intelligence-ai-in-oil-and-gas-market-is-set-to-fly",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.openpr.com/U/7/U710307690_g.jpg",
+          "width": 400,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.openpr.com/amp/2325607/artificial-intelligence-ai-in-oil-and-gas-market-is-set-to-fly",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2325607/artificial-intelligence-ai-in-oil-and-gas-market-is-set-to-fly",
+      "publishedDateTime": "2021-07-09T16:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2021-07-09-canaan-introduces-self-developed-edge-ai-chip-the-kendryte-k510.md",
       "title": "Canaan Introduces Self-Developed Edge AI Chip, The Kendryte K510",
       "excerpt": "Canaan Inc (NASDAQ:CAN) announced it is launching an independently designed and developed RISC-V-based edge AI chip Kendryte K510 at the 2021 World Artificial Intelligence Confere",
@@ -1442,40 +1485,6 @@
         "AI Hardware",
         "Natural Language Processing",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-06-24-ai-dreams-and-reality-investing-in-advanced-technology.md",
-      "title": "AI Dreams and Reality: Investing in Advanced Technology",
-      "excerpt": "McKinsey Global Institute has estimated that AI technologies across 19 industries could create between $3.5 trillion and $5.8 trillion in value annually. From their 2018 report, Notes from the AI frontier: Applications and value of deep learning,",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/ai-dreams-and-reality%3A-investing-in-advanced-technology-2021-06-23",
-      "originalUrl": "https://www.nasdaq.com/articles/ai-dreams-and-reality%3A-investing-in-advanced-technology-2021-06-23",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/ai-dreams-and-reality%3A-investing-in-advanced-technology-2021-06-23?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/ai-dreams-and-reality%3A-investing-in-advanced-technology-2021-06-23?amp",
-      "publishedDateTime": "2021-06-23T14:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     }
   ],

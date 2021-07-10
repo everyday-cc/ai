@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cpomagazine.com/data-privacy/maine-becomes-first-state-t
 cdnAmpWebUrl: "https://www-cpomagazine-com.cdn.ampproject.org/c/s/www.cpomagazine.com/data-privacy/maine-becomes-first-state-to-pass-broad-government-ban-on-facial-recognition-technology/amp/"
 type: article
 quality: 66
-heat: 76
+heat: 86
 published: true
 
 provider:
@@ -42,6 +42,20 @@ related:
       - url: "https://www.sourcesecurity.com/img/news/612/why-access-control-important-920x533.jpg"
         width: 612
         height: 355
+        isCached: true
+  - title: "New state laws require more police transparency, limit use of facial recognition technology"
+    excerpt: "One of the laws makes Maine the first state in the country to apply strict limits on facial recognition technology."
+    publishedDateTime: 2021-07-10T01:14:00Z
+    webUrl: "https://www.pressherald.com/2021/07/09/new-state-laws-require-more-police-transparency-limit-use-of-facial-recognition-technology/"
+    type: article
+    provider:
+      name: Portland Press Herald
+      domain: pressherald.com
+    quality: 29
+    images:
+      - url: "http://multifiles.pressherald.com/uploads/sites/4/2017/01/pph-icon-red-linkforFB.png"
+        width: 300
+        height: 300
         isCached: true
 
 secured: "GZa1rGvzeeIZHORMNmNPwQ6M/d42QdMhtE5aTtoORRSWsV7e4UQVpGrOxUD48glk38XOjZmdqIcXqBXZSCcWbhbg+CggDJ/tZBVs9EO2w5VBDjrsy7/w7R5zUp9+b4CuhCQMU/7h7ZojqE7a81u8LqeI1iPmcIylUlVsR1JlamIkSNr5qO06YWQMc7hq2F2AaO788jEYfd/5LdUrtLy/bVGTnYRcpQ+JkjkifhiMwWr1sxP67gGCQ9p/jbDMxNomZUM9ZkIy5sPJeW/tPSQ2bqmy3qKLL1dwawHLkB1WE04E+deGYoVAdZ0zAYoLwq+om6zQNjQ5SynbLdImQTDQ+NP98SroBOlHo5xjYfqOtLEj/baJumUXYG62SG+xXaEGNj4+k3VQVqEI78UQhNMW6AGLwPVHLzPFxd0Tau0QdZomqDRNX51/gGL63d1rwk+S3eILV99zDrgrK4fCCJ2qkYcbP5sVOeQ3VI1jlcK7lLu/3GpLjet9QphUmRWx2HCJy4Xo6dApohDGf6LLesJRtg==;bHo2AaNKn+5jOZQ/g+Ak0A=="

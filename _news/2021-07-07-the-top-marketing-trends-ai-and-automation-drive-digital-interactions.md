@@ -7,8 +7,8 @@ originalUrl: "https://www.destinationcrm.com/Articles/ReadArticle.aspx?ArticleID
 webUrl: "https://www.destinationcrm.com/Articles/ReadArticle.aspx?ArticleID=147822"
 type: article
 quality: 54
-heat: 64
-published: false
+heat: 74
+published: true
 
 provider:
   name: Destination CRM
@@ -38,6 +38,20 @@ related:
       - url: "https://images.idgesg.net/images/article/2021/07/dreamstime_l_99969716-100894980-large.jpg"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Artificial Intelligence in Diagnostics Market Size, Trends, Companies, Driver, Segmentation, Forecast to 2027"
+    excerpt: "Global Artificial Intelligence in Diagnostics Market is valued approximately at USD 288 million in 2019 and is anticipated to grow with a healthy growth rate of more than 32.3% over the forecast period 2020-2027."
+    publishedDateTime: 2021-07-07T02:29:00Z
+    webUrl: "https://www.arnnet.com.au/mediareleases/143678/artificial-intelligence-in-diagnostics-market/"
+    type: article
+    provider:
+      name: ARN
+      domain: arnnet.com.au
+    quality: 20
+    images:
+      - url: "https://www.arnnet.com.au/dimg/300x300/dimg/win20_edu_remotelearning_026.jpg"
+        width: 300
+        height: 225
         isCached: true
 
 secured: "8pr3eocu1QLQX3FhFv02i1+NeBRDiPxGOWfo53u9dIvknueqsTJZJUo+kvxKLdEu8Lk0yl8WUVG04/fCe2Mk/e5+ef912EPu+Z6URbc0Ho/46hTgFJmKZ+m6I+uQ9ChWV63erIfL8K37ECI9HzlLldGB2EFoVorAqJWD1IACzdAvoXioWfjjpW2asM1kMyba3IKAyaqeYwNpA/wKAVhm8LsFcJ/7R2qEToTinpb+0AT4wAZb4AoVwKe/vYoXsYxAG6IIPZJWWAzVP7HQJrGJETqfiwDyKw2vWnojge+RdOlSg/PfulGOyJFafdbxc8mbMHQYACRfWVQSBtriTgNr/oTiWxjXZ9U9TZCjhLvQMf8=;INFyjOKazT/6rjHJZeWQHQ=="

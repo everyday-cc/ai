@@ -2,6 +2,49 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2021-05-17-alphabets-waymo-says-its-tech-would-avoid-fatal-human-crashes.md",
+      "title": "Alphabet’s Waymo says its tech would avoid fatal human crashes",
+      "excerpt": "The autonomous-car artificial intelligence from Alphabet Inc’s Waymo avoided or mitigated crashes in most of a set of virtually recreated fatal accidents, according to a white paper the company ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.thestar.com.my/tech/tech-news/2021/03/09/alphabets-waymo-says-its-tech-would-avoid-fatal-human-crashes",
+      "originalUrl": "https://www.thestar.com.my/tech/tech-news/2021/03/09/alphabets-waymo-says-its-tech-would-avoid-fatal-human-crashes",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apicms.thestar.com.my/uploads/images/2021/03/09/1070479.jpg",
+          "width": 1240,
+          "height": 811,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-16T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Star",
+        "domain": "thestar.com.my",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-17-the-future-through-artificial-intelligence.md",
       "title": "The future through Artificial Intelligence",
       "excerpt": "ARTIFICIAL Intelligence (AI ... On a bigger spectrum, from self-driving cars to voice-initiated mobile phones and computer-controlled robots, the presence of AI is seen and felt almost everywhere.",
@@ -1348,40 +1391,6 @@
         "AI in Robotics",
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2021-05-10-autonomous-vehicles-market-size-to-surpass-us-55527-billion-by-2027.md",
-      "title": "Autonomous Vehicles Market Size to Surpass US$ 555.27 Billion by 2027",
-      "excerpt": "According to Report, the global autonomous vehicle market size is projected to surpass US$ 555.27 billion by 2027, with registering a CAGR of 39.20% from 2019 to 2027. The global autonomous vehicle market is valued at US$53.23 billion in 2019, and market ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.reseller.co.nz/mediareleases/140568/autonomous-vehicles-market-size-to-surpass-us/",
-      "originalUrl": "https://www.reseller.co.nz/mediareleases/140568/autonomous-vehicles-market-size-to-surpass-us/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-10T02:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reseller News",
-        "domain": "reseller.co.nz",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

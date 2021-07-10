@@ -123,22 +123,6 @@ related:
         width: 400
         height: 400
         isCached: true
-  - title: "TikTok AI being sold to various companies including in India: Here's what it means"
-    excerpt: "ByteDance has reportedly started selling the AI technology of the TikTok app to other companies, including in India where the app is banned."
-    publishedDateTime: 2021-07-05T08:44:00Z
-    webUrl: "https://www.indiatvnews.com/technology/news-tiktok-ai-being-sold-to-various-companies-india-716955"
-    ampWebUrl: "https://www.indiatvnews.com/amp/technology/news-tiktok-ai-being-sold-to-various-companies-india-716955"
-    cdnAmpWebUrl: "https://www-indiatvnews-com.cdn.ampproject.org/c/s/www.indiatvnews.com/amp/technology/news-tiktok-ai-being-sold-to-various-companies-india-716955"
-    type: article
-    provider:
-      name: India TV
-      domain: indiatvnews.com
-    quality: 53
-    images:
-      - url: "https://resize.indiatvnews.com/en/resize/newbucket/1200_-/2021/07/tiktok-1625474625.jpg"
-        width: 1200
-        height: 676
-        isCached: true
   - title: "ByteDance selling TikTok AI to companies"
     excerpt: "China-based ByteDance which is the parent company of TikTok, has reportedly started selling the AI technology of the short video-making app to other companies, including in India where the app is banned."
     publishedDateTime: 2021-07-05T09:50:00Z

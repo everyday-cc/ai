@@ -58,6 +58,20 @@ related:
         width: 930
         height: 465
         isCached: true
+  - title: "AI Discovers Holes in the Sun's Corona"
+    excerpt: "Artificial intelligence has been used in a variety of places, but for the first time, a neural network has been employed to detect holes in the sun's corona, with magnificent results."
+    publishedDateTime: 2021-07-10T00:48:00Z
+    webUrl: "https://www.science20.com/mike_thomas/ai_discovers_holes_in_the_suns_corona-255348"
+    type: article
+    provider:
+      name: Science 2.0
+      domain: science20.com
+    quality: 37
+    images:
+      - url: "https://www.science20.com/files/images/science_corporate_conspiracy_300.jpg"
+        width: 300
+        height: 261
+        isCached: true
 
 secured: "J8exTzUvamLc/91vtYBWGMsFtFyldnBL26o+SddyrBsFw3+45N9nwj4oayMColxHy1OnmwqYLcxuunygypChDyoSUs6YDoNzSUq9/Ch8MX9oeKOCDIswlzO1mMFy9fVDguHQJoHDiQtyWc79+TZMZ7DlzuoFADA0urYJkvseb6kr127CQRpfQ0WXqyYZ1GcwmuaMg0xqDCZq18UCwRBtBf4NZblHGhcRF9hqjlJQTMh34exQ7HQ5u32GIRTDHSbgEV2Dw2lCxNiqigTk2dVcMBp7OhR/xk6qloFZqtk6qr8liIvYZGyt245hcZt0a3WxDGYhEqLgJzXc36zFDeq/08VtsYRam0xhY9xXWS+C0+oJrvIIXDnsXsRW6ehi2lq8FvwK4uFz4D3iB2OazUw2M2ZMS2aBdqxYuRf/y2aFu3By2J5V1IybCZbb4OmDn1xYTGsQ/gbpUmV7voFTnXfP68KI+YG3bY5t645G/0Xkwkw+2lbtTviTjmMQSosofcFJxCF8jMQe14vW5SrQuZpKsg==;FDXf6U8kKNPfkK75srC8Ew=="
 ---
