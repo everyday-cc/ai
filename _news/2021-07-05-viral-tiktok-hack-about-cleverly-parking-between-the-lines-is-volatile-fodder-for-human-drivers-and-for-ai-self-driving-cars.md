@@ -31,99 +31,51 @@ images:
     isCached: true
 
 related:
-  - title: "ByteDance is selling TikTok's AI platform to other companies"
-    excerpt: "The artificial intelligence (AI) technology that powers the popular social media platform TikTok has been put on sale by parent company ByteDance. The Beijing-based company has spun off a new division called BytePlus with the aim of reportedly selling TikTok’s AI-powered tech to customers looking to replicate the video sharing platform's success in their ecommerce apps and services."
-    publishedDateTime: 2021-07-05T14:56:00Z
-    webUrl: "https://www.techradar.com/in/news/bytedance-is-selling-tiktoks-ai-platform-to-other-companies"
-    ampWebUrl: "https://www.techradar.com/in/amp/news/bytedance-is-selling-tiktoks-ai-platform-to-other-companies"
-    cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/in/amp/news/bytedance-is-selling-tiktoks-ai-platform-to-other-companies"
+  - title: "If McDonald’s Is Rolling Out A Customer Loyalty Program, So Should AI Self-Driving Cars"
+    excerpt: "Customer loyalty programs are pervasive, though surprisingly McDonald's is just now rolling out their nationwide program. This brings up the aspect that AI-based true self-driving cars ought to have loyalty programs for riders,"
+    publishedDateTime: 2021-07-07T15:30:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2021/07/07/if-mcdonalds-is-rolling-out-a-customer-loyalty-program-so-should-ai-self-driving-cars/"
+    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/07/07/if-mcdonalds-is-rolling-out-a-customer-loyalty-program-so-should-ai-self-driving-cars/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/07/07/if-mcdonalds-is-rolling-out-a-customer-loyalty-program-so-should-ai-self-driving-cars/amp/"
     type: article
     provider:
-      name: TechRadar
-      domain: techradar.com
-    quality: 87
+      name: Forbes
+      domain: forbes.com
+    quality: 81
     images:
-      - url: "https://cdn.mos.cms.futurecdn.net/MWdebHvxdtGGoWY2BeBH5B-480-80.jpg"
-        width: 480
-        height: 270
-        isCached: true
-  - title: "AI Weekly: TikTok’s algorithm licensing signals China’s play for AI dominance"
-    excerpt: "Join AI & data leaders at Transform 2021 on July 12th for the AI/ML Automation Technology Summit. Register today. This week, TikTok parent company ByteDance began licensing parts of its AI technologies to third parties through a new division called BytePlus."
-    publishedDateTime: 2021-07-09T20:30:00Z
-    webUrl: "https://venturebeat.com/2021/07/09/ai-weekly-tiktoks-algorithm-licensing-signals-chinas-play-for-ai-dominance/"
-    ampWebUrl: "https://venturebeat.com/2021/07/09/ai-weekly-tiktoks-algorithm-licensing-signals-chinas-play-for-ai-dominance/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/09/ai-weekly-tiktoks-algorithm-licensing-signals-chinas-play-for-ai-dominance/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 84
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2020/09/TikTok.jpg?w=1200&strip=all"
-        width: 1200
-        height: 698
-        isCached: true
-  - title: "ByteDance Allows Other Companies To Buy TikTok AI Tech"
-    excerpt: "ByteDance has begun selling the artificial intelligence that powers its blockbuster TikTok app to other companies outside China."
-    publishedDateTime: 2021-07-06T01:15:00Z
-    webUrl: "https://www.pymnts.com/news/artificial-intelligence/2021/bytedance-allows-other-companies-to-buy-tiktok-ai-tech/"
-    ampWebUrl: "https://www.pymnts.com/news/artificial-intelligence/2021/bytedance-allows-other-companies-to-buy-tiktok-ai-tech/amp/"
-    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/artificial-intelligence/2021/bytedance-allows-other-companies-to-buy-tiktok-ai-tech/amp/"
-    type: article
-    provider:
-      name: pymnts.com
-      domain: pymnts.com
-    quality: 59
-    images:
-      - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/07/tiktok-AI-ByteDance-457x274.jpg"
-        width: 457
-        height: 274
-        isCached: true
-  - title: "ByteDance selling TikTok AI to companies including in India"
-    excerpt: "Beat Analytics Ibeat 1 Year HTTPS To track article's statistics China-based ByteDance which is the parent company of TikTok, has reportedly started selling the AI technology of the short video-making app to other companies,"
-    publishedDateTime: 2021-07-06T07:33:00Z
-    webUrl: "https://brandequity.economictimes.indiatimes.com/news/digital/bytedance-selling-tiktok-ai-to-companies-including-in-india/84165212"
-    ampWebUrl: "https://brandequity.economictimes.indiatimes.com/amp/news/digital/bytedance-selling-tiktok-ai-to-companies-including-in-india/84165212"
-    cdnAmpWebUrl: "https://brandequity-economictimes-indiatimes-com.cdn.ampproject.org/c/s/brandequity.economictimes.indiatimes.com/amp/news/digital/bytedance-selling-tiktok-ai-to-companies-including-in-india/84165212"
-    type: article
-    provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 59
-    images:
-      - url: "https://etimg.etb2bimg.com/thumb/msid-84165212,imgsize-488272,width-800,height-434,overlay-etbrandequity/bytedance-selling-tiktok-ai-to-companies-including-in-india.jpg"
-        width: 800
-        height: 434
-        isCached: true
-  - title: "TikTok parent company ByteDance selling AI tech to other companies: Report"
-    excerpt: "China-based ByteDance, which is the parent company of TikTok, has reportedly started selling the AI technology of the short video-making app to other companies, including in India where the app is banned."
-    publishedDateTime: 2021-07-06T08:42:00Z
-    webUrl: "https://www.thenewsminute.com/article/tiktok-parent-company-bytedance-selling-ai-tech-other-companies-report-151833"
-    ampWebUrl: "https://www.thenewsminute.com/article/tiktok-parent-company-bytedance-selling-ai-tech-other-companies-report-151833?amp"
-    cdnAmpWebUrl: "https://www-thenewsminute-com.cdn.ampproject.org/c/s/www.thenewsminute.com/article/tiktok-parent-company-bytedance-selling-ai-tech-other-companies-report-151833?amp"
-    type: article
-    provider:
-      name: The News Minute
-      domain: thenewsminute.com
-    quality: 57
-    images:
-      - url: "https://www.thenewsminute.com/sites/default/files/tiktok_1200_new_4.jpeg"
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60e23f3e7dfe3a5ff4aa4e5b%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D4158%26cropY1%3D137%26cropY2%3D2909"
         width: 1200
         height: 800
         isCached: true
-  - title: "ByteDance sells short video AI in India; and Pooja Goyal at Avishkaar on how gender bias starts early in STEM"
-    excerpt: "China's ByteDance, which is the parent company of TikTok, has started selling the AI technology of its short video app to other companies, including in India where the app is banned. And in today's tech conversation,"
-    publishedDateTime: 2021-07-06T04:49:00Z
-    webUrl: "https://www.forbesindia.com/audio/forbes-india-daily-tech-brief-podcast/bytedance-sells-short-video-ai-in-india-and-pooja-goyal-at-avishkaar-on-how-gender-bias-starts-early-in-stem/68957"
+  - title: "Claims That Highway Dollars Won’t Boost Economic Growth Are Missing Something Vital, Namely AI Self-Driving Cars"
+    excerpt: "Some are contending that infrastructure investment into highway dollars will have a minimal payoff, but this is argued herein as a wholly myopic view that fails to include the advent of AI self-driving cars."
+    publishedDateTime: 2021-07-09T15:30:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2021/07/09/claims-that-highway-dollars-wont-boost-economic-growth-are-missing-something-vital-namely-ai-self-driving-cars/"
+    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/07/09/claims-that-highway-dollars-wont-boost-economic-growth-are-missing-something-vital-namely-ai-self-driving-cars/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/07/09/claims-that-highway-dollars-wont-boost-economic-growth-are-missing-something-vital-namely-ai-self-driving-cars/amp/"
     type: article
     provider:
-      name: Forbes India
-      domain: forbesindia.com
-    quality: 18
+      name: Forbes
+      domain: forbes.com
+    quality: 68
     images:
-      - url: "https://www.forbesindia.com/media/audio/2021/Jul/forbesindiatechbriefingpodcast_800x600_logo.jpg"
-        width: 800
-        height: 600
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60e7efb356707072f917781b%2F0x0.jpg%3FcropX1%3D176%26cropX2%3D2103%26cropY1%3D0%26cropY2%3D1284"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Companies like Hudson and McDonald’s are testing drive-thru AI, invisible checkout"
+    excerpt: "Shoppers have been interacting with technology like self-checkout machines and automated customer service hotlines for years. But there are new tools taking on tasks workers used to do, from the retail sales floor to the restaurant drive thru,"
+    publishedDateTime: 2021-07-09T13:30:00Z
+    webUrl: "https://www.chicagotribune.com/business/ct-viz-hudson-white-castle-technology-photos-20210709-6lca744vk5gqzk6lefvguqkcem-photogallery.html"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 31
+    images:
+      - url: "https://www.chicagotribune.com/resizer/tj6FN5-eZuDhR405PJFaLy79-TU=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/4GM6JQQI6RGAPIUJQF3Z4ZY7HE.jpg"
+        width: 1200
+        height: 800
         isCached: true
 
 secured: "NTum9XLlkR6+Dciq9yS8jYkbWWhp/saRlI2GuUOHoswTBKGs5CNuMl/gM3DmpMnQ2n2fyvAN+U1l/9YsfDLWImTTUhX4mLI0A9aMUE+ZsoaVKJC5a7CJG5Q9Xs9VLE+LmasLWNKZBKue2ToZ90DctFfmSoey00aAHaXLMGspGYyLyiweTitRYQmOtDq2+feiUvEkLwWaFqpkutcYrJlnu7PR0xsLb9nLLyrGngleMZnT8DIn68WQgRMtgeWC84WkRZbQH6mUIKeBkTTsu/mDMUOulKa+HHqBIa0P36J6b4i9cuOxJlrZQtTkaLgfD8lYYxgMKTriVTJokUTxVqnmzimyj0rG14RP0eYaIMURsys=;0Kmn+RjGswoUqv26p2BggA=="

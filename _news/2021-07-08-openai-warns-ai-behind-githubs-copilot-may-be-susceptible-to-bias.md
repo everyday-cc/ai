@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/07/08/openai-warns-ai-behind-githubs-co
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/08/openai-warns-ai-behind-githubs-copilot-may-be-susceptible-to-bias/amp/"
 type: article
 quality: 89
-heat: 139
+heat: 129
 published: true
 
 provider:
@@ -74,22 +74,6 @@ related:
       - url: "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F07%2FGitHub-Copilot-OpenAI-Microsoft-TechTalks-hed.jpg&signature=2c6efd5beef302a36be592136eb563c1"
         width: 1280
         height: 640
-        isCached: true
-  - title: "GitHub Copilot AI Is Generating And Giving Out Functional API Keys"
-    excerpt: "Microsoft, in partnership with OpenAI, made Copilot available on GitHub. For starters, it’s an assistant that can help you with better code suggestions, but it has been recently brought to notice that the AI is leaking API keys that are valid and still functional."
-    publishedDateTime: 2021-07-05T13:39:00Z
-    webUrl: "https://fossbytes.com/github-copilot-generating-functional-api-keys/"
-    ampWebUrl: "https://fossbytes.com/github-copilot-generating-functional-api-keys/amp/"
-    cdnAmpWebUrl: "https://fossbytes-com.cdn.ampproject.org/c/s/fossbytes.com/github-copilot-generating-functional-api-keys/amp/"
-    type: article
-    provider:
-      name: Foss Bytes
-      domain: fossbytes.com
-    quality: 57
-    images:
-      - url: "https://fossbytes.com/wp-content/uploads/2021/07/github-copilot.jpg"
-        width: 1200
-        height: 675
         isCached: true
   - title: "GitHub's programming AI may be reusing code without permission"
     excerpt: "A Microsoft-owned tool powered by artificial intelligence is designed to make life easier for programmers, but some developers say it may be repurposing some of the billions of lines of code it was tr"

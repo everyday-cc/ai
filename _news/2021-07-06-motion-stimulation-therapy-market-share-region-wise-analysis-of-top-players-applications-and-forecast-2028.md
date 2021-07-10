@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/motion-stimulation-thera
 webUrl: "https://www.marketwatch.com/press-release/motion-stimulation-therapy-market-share-region-wise-analysis-of-top-players-applications-and-forecast-2028-2021-07-06"
 type: article
 quality: 50
-heat: 150
+heat: 160
 published: true
 
 provider:
@@ -65,6 +65,20 @@ related:
       - url: "https://ksusentinel.com/wp-content/uploads/2021/06/Chemical-Research-Reports-QY-Research.gif"
         width: 800
         height: 367
+        isCached: true
+  - title: "AI/ML Innovations Inc. Engages Volt Strategic Partners and TDM Financial for Capital Market Communications and Market-Making Services"
+    excerpt: "Volt Strategic is a market communications and business optimization firm working with senior business leaders and innovators to help grow organizational value, build business and accelerate market appreciation for emerging technology,"
+    publishedDateTime: 2021-07-05T21:46:00Z
+    webUrl: "https://www.bignewsnetwork.com/news/270183213/aiml-innovations-inc-engages-volt-strategic-partners-and-tdm-financial-for-capital-market-communications-and-market-making-services"
+    type: article
+    provider:
+      name: Big News Network.com
+      domain: bignewsnetwork.com
+    quality: 25
+    images:
+      - url: "https://cdn.bignewsnetwork.com/cus1625723058560.jpg"
+        width: 630
+        height: 420
         isCached: true
   - title: "How artificial intelligence helped Phoenix find a new physical therapy location in Wichita"
     excerpt: "The tool analyzes foot traffic from cellphones, collecting anonymous geolocation and proximity data from devices that share information."

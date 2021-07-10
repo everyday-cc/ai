@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Facial recognition used to verify vaccine beneficiaries: govt."
-    excerpt: "Even though the Ministry of Health and Family Welfare (MoHFW) has admitted in a recent RTI query response to the use of facial recognition technology (FRT) for online verification of beneficiaries at vaccination centres,"
-    publishedDateTime: 2021-07-05T14:31:00Z
-    webUrl: "https://www.thehindu.com/news/national/facial-recognition-used-to-verify-vaccine-beneficiaries-govt/article35152786.ece"
-    ampWebUrl: "https://www.thehindu.com/news/national/facial-recognition-used-to-verify-vaccine-beneficiaries-govt/article35152786.ece/amp/"
-    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/news/national/facial-recognition-used-to-verify-vaccine-beneficiaries-govt/article35152786.ece/amp/"
-    type: article
-    provider:
-      name: The Hindu
-      domain: thehindu.com
-    quality: 59
-    images:
-      - url: "https://www.thehindu.com/news/national/gl2d2b/article35152785.ece/ALTERNATES/LANDSCAPE_615/Facialrecognition"
-        width: 615
-        height: 384
-        isCached: true
   - title: "Facial Recognition Used to Verify Vaccine Recipients but Privacy Concerns Not Checked: Govt"
     excerpt: "In a recent RTI query, Ministry of Health and Family Welfare (MoHFW) has admitted to the use of facial recognition technology (FRT) for online verification of beneficiaries at vaccination centres."
     publishedDateTime: 2021-07-06T07:36:00Z

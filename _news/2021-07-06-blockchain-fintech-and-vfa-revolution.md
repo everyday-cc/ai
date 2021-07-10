@@ -117,20 +117,6 @@ related:
         width: 398
         height: 375
         isCached: true
-  - title: "Fintech and AI: Future-proof technology for finserve"
-    excerpt: "As financial services become increasingly technology-led, we talk to Francesca Campanelli, CCO, Axyon.ai about what it means for the sector"
-    publishedDateTime: 2021-07-05T14:28:00Z
-    webUrl: "https://fintechmagazine.com/financial-services-finserv/fintech-and-ai-future-proof-technology-finserve"
-    type: article
-    provider:
-      name: fintechmagazine
-      domain: fintechmagazine.com
-    quality: 39
-    images:
-      - url: "https://fintechmagazine.com/sites/default/files/styles/ma/public/image/GettyImages-1250153410.jpg?itok=AkTuwQaw"
-        width: 2405
-        height: 1247
-        isCached: true
   - title: "Rise by Barclays: Embedded finance and the future of fintech"
     excerpt: "Mariquit Corcoran, Group CIO at Barclays, contextualises the benefits that embedded finance is bringing to customers and how it could shape fintech overall"
     publishedDateTime: 2021-07-08T07:48:00Z

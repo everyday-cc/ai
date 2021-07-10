@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/peggyannesalz/2021/07/07/three-experts-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/peggyannesalz/2021/07/07/three-experts-offer-fintech-app-marketing-tips-you-can-bank-on/amp/"
 type: article
 quality: 106
-heat: 256
+heat: 246
 published: true
 
 provider:
@@ -107,20 +107,6 @@ related:
       - url: "https://www.cybersecurityintelligence.com/files/upload/htmleditor/ezgif.com-gif-maker%20-%202021-07-06T152822.400.png"
         width: 398
         height: 375
-        isCached: true
-  - title: "Fintech and AI: Future-proof technology for finserve"
-    excerpt: "As financial services become increasingly technology-led, we talk to Francesca Campanelli, CCO, Axyon.ai about what it means for the sector"
-    publishedDateTime: 2021-07-05T14:28:00Z
-    webUrl: "https://fintechmagazine.com/financial-services-finserv/fintech-and-ai-future-proof-technology-finserve"
-    type: article
-    provider:
-      name: fintechmagazine
-      domain: fintechmagazine.com
-    quality: 39
-    images:
-      - url: "https://fintechmagazine.com/sites/default/files/styles/ma/public/image/GettyImages-1250153410.jpg?itok=AkTuwQaw"
-        width: 2405
-        height: 1247
         isCached: true
   - title: "Blockchain, Fintech and VFA revolution"
     excerpt: "The Malta Financial Services Authority (MFSA) last year introduced its FinTech Regulatory Sandbox, which provides a controlled regulatory environment where FinTech operators may test their innovations"

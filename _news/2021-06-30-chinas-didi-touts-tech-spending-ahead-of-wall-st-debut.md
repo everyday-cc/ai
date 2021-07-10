@@ -1,26 +1,28 @@
 ---
 category: news
-title: "China’s Didi touts tech spending ahead of Wall St debut"
-excerpt: "Chinese ride-hailing service Didi says it lost $5.5 billion over the past three years ahead of its U.S. stock market debut Wednesday but it's highlighting its global reach and investments in developing electric and self-driving cars."
-publishedDateTime: 2021-06-30T07:04:00Z
-originalUrl: "https://apnews.com/892017a21181bc873a4e4599a6b30b0f"
-webUrl: "https://apnews.com/892017a21181bc873a4e4599a6b30b0f"
+title: "China's Didi touts tech spending ahead of Wall St debut"
+excerpt: "Early investors included Apple Inc., Japan’s Softbank, Alibaba and Chinese internet giants, Tencent Holding Ltd. and Baidu Inc. Didi ... into development of self-driving, electric vehicles ..."
+publishedDateTime: 2021-06-30T08:10:00Z
+originalUrl: "https://www.fox23.com/news/chinas-didi-touts/DBXXNMFWEYG4ZRLYZ7NRQERQJU/"
+webUrl: "https://www.fox23.com/news/chinas-didi-touts/DBXXNMFWEYG4ZRLYZ7NRQERQJU/"
+ampWebUrl: "https://www.fox23.com/news/chinas-didi-touts/DBXXNMFWEYG4ZRLYZ7NRQERQJU/?outputType=amp"
+cdnAmpWebUrl: "https://www-fox23-com.cdn.ampproject.org/c/s/www.fox23.com/news/chinas-didi-touts/DBXXNMFWEYG4ZRLYZ7NRQERQJU/?outputType=amp"
 type: article
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Fox 23
+  domain: fox23.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://storage.googleapis.com/afs-prod/media/f4881df4ea264a1cae6cbf329deecf07/3000.jpeg"
-    width: 3000
-    height: 1956
+  - url: "https://cloudfront-us-east-1.images.arcpublishing.com/cmg/XL7AELWQMP6C5P7XEBRG6NG5AA.jpg"
+    width: 5349
+    height: 3487
     isCached: true
 
-secured: "lwFUUXFzeahjlEhCBTXTbElN4cqKShwDFUipy8/mUztxheezTv0orai3mllWN7vfcoEIyqJTBrAlU9gXapZw8fBVbiyNEmDi4xjynEiOFe9w/r0P5RQrjqwoPGGJFJsAGrb69g4moH3i95VPBK4JSrruJdjmpgnSqoDuVFY9F48xKwJEvqzmjgQD99wPlwjEnGoSnvbedv6vZumbcEqX9El1lJLXv8AAfkaHMo94323JKEcnBI3fKZ09vESVbS2JVOkUA9DmR2j6OMZ+Ah4bhDxbucLXwUfqskkO4N35+vLRUH6ouQo/Y6k4TnWTIx/+ZvfXSb5gvS7+XRPAe8O/lP/O8g0Wl1tR/01fqsVn+Kh7Jt6U2ERwg50xCuhQgAoeH1lx6NQuIAvQaqYvC3McazygDm1PKApFgbT2mduTXAXy9omyn/d6ljG1Vr8FzsyKpFtNXlhHtJJ+7uZyp+YVIDHRD6Ufx64wRmAEE3pGIDjam/4Wur/d59fUW3LLKsrRqgIS580f6vU45GYc205gXw==;hD5a32z1nqnSy56BkCbB8w=="
+secured: "X0BIj2RvuVtECA6OWuaz17q0bjOP4siejdQx8Iuw3pAdxvl6trGbDnwfGqlW1ICrALkV9N/bVIUKiHa7jeJeYVuzbrL/+Xia0OPAV989J2kdBMGwKVyAc+V4AnlPKTfms2pCUYPLFO2ryfaVv7yrNBYgYEG9FCaxSpHYcBejgpkRqxzlApLUn9AjhXLK8kUsoyDSXaw6rXrqH2f5A1HzMauXGEVlx+Y2vOgqrrNUZdF+gRrTeznf0oOsh/imewhka9d46v65YhlD1xw6SF2d/nQdwFyPe9Plw0SRFQbOVZqkHMMnXsytw0q4oizKdKuOxP0ZH+Zr6RW7SFPaS9ve3dv2etOglQneR9eUUTem4xQ=;+JbCsnX4w20EiED+mGyqbw=="
 ---
 

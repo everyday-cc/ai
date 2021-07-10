@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI/ML Innovations Inc. Engages Volt Strategic Partners and TDM Financial for Capital Market Communications and Market-Making Services"
-    excerpt: "TORONTO, ON / ACCESSWIRE / July 5, 2021 / AI/ML Innovations Inc. (CSE:AIML)(OTCQB:AIMLF) (“AIML” or the “Company”), a company committed to acquiring and advancing Artificial Intelligence/Machine ... for the services provided by TDM Financial ..."
-    publishedDateTime: 2021-07-05T20:12:00Z
-    webUrl: "https://apnews.com/press-release/Accesswire/health-business-technology-4b85b30835729a11635b81f253168e71"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 25
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
   - title: "AI/ML Innovations Inc. Issues Correction Regarding Engagement of Volt Strategic Partners"
     excerpt: "TORONTO, ON / ACCESSWIRE / July 6, 2021 / AI/ML Innovations Inc. (CSE:AIML), (OTCQB:AIMLF) (\"AIML\" or the \"Company\"), a company committed to acquiring and advancing Artificial Intelligence/Machine Learning technologies that address urgent societal needs,"
     publishedDateTime: 2021-07-06T15:30:00Z

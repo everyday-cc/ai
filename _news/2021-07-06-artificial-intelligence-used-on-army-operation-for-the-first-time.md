@@ -70,20 +70,6 @@ related:
         width: 1280
         height: 719
         isCached: true
-  - title: "Artificial Intelligence used on Army operation for the first time"
-    excerpt: "The British Army has used Artificial Intelligence (AI) for the first time during Exercise Spring Storm, as part of Operation Cabrit in Estonia."
-    publishedDateTime: 2021-07-05T13:56:00Z
-    webUrl: "https://www.gov.uk/government/news/artificial-intelligence-used-on-army-operation-for-the-first-time"
-    type: article
-    provider:
-      name: gov.uk
-      domain: www.gov.uk
-    quality: 37
-    images:
-      - url: "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/image_data/file/125727/s960_Op_CABRIT_June_2021.jpg"
-        width: 960
-        height: 640
-        isCached: true
   - title: "Artificial intelligence brings forth new possibilities for material hauls and quantification"
     excerpt: "Paper tickets have been a legacy method of tracking the quantity, type, and timestamps of material moved by dump trucks. In recent years, e-ticketing has emerged to deliver time and cost savings in materials transport to combat headaches associated with paper ticket processing."
     publishedDateTime: 2021-07-06T09:12:00Z

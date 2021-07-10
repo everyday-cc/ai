@@ -9,7 +9,7 @@ ampWebUrl: "https://electrek.co/2021/07/07/hacker-tesla-full-self-drivings-visio
 cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/07/07/hacker-tesla-full-self-drivings-vision-depth-perception-neural-net-can-see/amp/"
 type: article
 quality: 83
-heat: 143
+heat: 133
 published: true
 
 provider:
@@ -63,22 +63,6 @@ related:
       - url: "https://observer.com/wp-content/uploads/sites/2/2019/06/gettyimages-1130598318.jpg?quality=80&#038;strip"
         width: 4800
         height: 3006
-        isCached: true
-  - title: "Elon Musk Tells Dejected Tesla Owners Self-Driving Is Hard After Repeatedly Missing Deadlines"
-    excerpt: "Tesla owners are apparently losing their patience with CEO Elon Musk and his bold promises surrounding Full Self Driving (FSD). The feature is currently in beta, despite it being a $10,000 option on current Tesla vehicles."
-    publishedDateTime: 2021-07-05T14:11:00Z
-    webUrl: "https://hothardware.com/news/elon-musk-tells-tesla-owners-self-driving-is-hard-after-repeatedly-missing-deadlines"
-    ampWebUrl: "https://amp.hothardware.com/news/elon-musk-tells-tesla-owners-self-driving-is-hard-after-repeatedly-missing-deadlines"
-    cdnAmpWebUrl: "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/elon-musk-tells-tesla-owners-self-driving-is-hard-after-repeatedly-missing-deadlines"
-    type: article
-    provider:
-      name: HotHardware
-      domain: hothardware.com
-    quality: 48
-    images:
-      - url: "https://images.hothardware.com/contentimages/newsitem/55591/content/tesla_model_3_performance.jpg"
-        width: 708
-        height: 454
         isCached: true
   - title: "Tesla Will Release A ‘Mind Of Car’ Software Update Alongside Full Self Driving Tech"
     excerpt: "Tesla will be releasing a 'Mind of Car' software update alongside the Full Self Driving tech. Here are the details."

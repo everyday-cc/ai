@@ -73,22 +73,6 @@ related:
         width: 4800
         height: 3006
         isCached: true
-  - title: "Elon Musk Tells Dejected Tesla Owners Self-Driving Is Hard After Repeatedly Missing Deadlines"
-    excerpt: "Tesla owners are apparently losing their patience with CEO Elon Musk and his bold promises surrounding Full Self Driving (FSD). The feature is currently in beta, despite it being a $10,000 option on current Tesla vehicles."
-    publishedDateTime: 2021-07-05T14:11:00Z
-    webUrl: "https://hothardware.com/news/elon-musk-tells-tesla-owners-self-driving-is-hard-after-repeatedly-missing-deadlines"
-    ampWebUrl: "https://amp.hothardware.com/news/elon-musk-tells-tesla-owners-self-driving-is-hard-after-repeatedly-missing-deadlines"
-    cdnAmpWebUrl: "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/elon-musk-tells-tesla-owners-self-driving-is-hard-after-repeatedly-missing-deadlines"
-    type: article
-    provider:
-      name: HotHardware
-      domain: hothardware.com
-    quality: 48
-    images:
-      - url: "https://images.hothardware.com/contentimages/newsitem/55591/content/tesla_model_3_performance.jpg"
-        width: 708
-        height: 454
-        isCached: true
   - title: "Elon Musk Says Tesla’s ‘Mind-Blowing’ Full Self-Driving Beta v9 Will Arrive This Saturday"
     excerpt: "Elon Musk says that Tesla's 'mind blowing' Full Self-Driving beta v9 update will arrive this Saturday. Here are all the details on this."
     publishedDateTime: 2021-07-08T14:26:00Z

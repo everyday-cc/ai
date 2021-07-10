@@ -86,22 +86,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "GitHub Copilot AI Is Generating And Giving Out Functional API Keys"
-    excerpt: "Microsoft, in partnership with OpenAI, made Copilot available on GitHub. For starters, it’s an assistant that can help you with better code suggestions, but it has been recently brought to notice that the AI is leaking API keys that are valid and still functional."
-    publishedDateTime: 2021-07-05T13:39:00Z
-    webUrl: "https://fossbytes.com/github-copilot-generating-functional-api-keys/"
-    ampWebUrl: "https://fossbytes.com/github-copilot-generating-functional-api-keys/amp/"
-    cdnAmpWebUrl: "https://fossbytes-com.cdn.ampproject.org/c/s/fossbytes.com/github-copilot-generating-functional-api-keys/amp/"
-    type: article
-    provider:
-      name: Foss Bytes
-      domain: fossbytes.com
-    quality: 57
-    images:
-      - url: "https://fossbytes.com/wp-content/uploads/2021/07/github-copilot.jpg"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "PC3WM9+JbsHp/Y+cMYKvBLyw5lWHp45V39V2/3Ji3xV8QRKEhA2tp0EgVxjPrryPGKJM2xOyNXf7Em1u9SfuR3g3m5RrnrBYfwZPH6kgeOsy6z9UPrznA3MKQBFOGUAl8hitxsoyJ2eoTjD0YWaYS4rfxXsVG4seEuENrny2eCE0jSvY/CbN2156G6cFPpjk584epivUGhS9FxKPVhjdZ54NIiyb/0YUhKpddBaz5XeR057TsuY1TwouZFST2iK/HVW4QoFbgoo2D27xJhjDz8APZZthrmi7Ge37LrPoBt2jICF9DQDs8ioC1+bk0AtAs8J59sKMTLx8ZP27BlFL3NKtL69sMDBlUHuLHjzPF3Tcg4zGYDOyFsTf21fpeHa5a8tbEQStZhL2QkhfCmueudQWzoMg5BAtEAYN3TCrCPZTyTxuEeRgeg6PYrgtXCX7JKXLDNMV14ib3fxWez66Hshkagspy8Raof+xYty3DKq9fNKrLMDRQDC9dBVH9kLEkpnCuFOc6G1CM4GM0lFKYg==;sGJ3OKZUriwS2ytDZ5+otg=="
 ---

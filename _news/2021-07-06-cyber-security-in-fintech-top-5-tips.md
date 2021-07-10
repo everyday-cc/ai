@@ -104,20 +104,6 @@ related:
         width: 880
         height: 400
         isCached: true
-  - title: "Fintech and AI: Future-proof technology for finserve"
-    excerpt: "As financial services become increasingly technology-led, we talk to Francesca Campanelli, CCO, Axyon.ai about what it means for the sector"
-    publishedDateTime: 2021-07-05T14:28:00Z
-    webUrl: "https://fintechmagazine.com/financial-services-finserv/fintech-and-ai-future-proof-technology-finserve"
-    type: article
-    provider:
-      name: fintechmagazine
-      domain: fintechmagazine.com
-    quality: 39
-    images:
-      - url: "https://fintechmagazine.com/sites/default/files/styles/ma/public/image/GettyImages-1250153410.jpg?itok=AkTuwQaw"
-        width: 2405
-        height: 1247
-        isCached: true
   - title: "Blockchain, Fintech and VFA revolution"
     excerpt: "The Malta Financial Services Authority (MFSA) last year introduced its FinTech Regulatory Sandbox, which provides a controlled regulatory environment where FinTech operators may test their innovations"
     publishedDateTime: 2021-07-06T08:39:00Z

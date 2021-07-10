@@ -7,7 +7,7 @@ originalUrl: "https://www.unite.ai/artificial-nanowire-network-acts-like-brain-w
 webUrl: "https://www.unite.ai/artificial-nanowire-network-acts-like-brain-when-electrically-stimulated/"
 type: article
 quality: 38
-heat: -1
+heat: 38
 published: false
 
 provider:
@@ -23,24 +23,6 @@ images:
     width: 1000
     height: 600
     isCached: true
-
-related:
-  - title: "A Nanowire Network That Mimics the Brain Could Inspire New Designs in AI"
-    excerpt: "In-built memory is a crucial aspect of how the brain processes information, and a major strand in neuromorphic engineering focuses on recreating this."
-    publishedDateTime: 2021-07-05T14:00:00Z
-    webUrl: "https://singularityhub.com/2021/07/05/a-nanowire-network-that-mimics-the-brain-could-inspire-new-designs-in-ai/"
-    ampWebUrl: "https://singularityhub.com/2021/07/05/a-nanowire-network-that-mimics-the-brain-could-inspire-new-designs-in-ai/amp/"
-    cdnAmpWebUrl: "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2021/07/05/a-nanowire-network-that-mimics-the-brain-could-inspire-new-designs-in-ai/amp/"
-    type: article
-    provider:
-      name: Singularity Hub
-      domain: singularityhub.com
-    quality: 58
-    images:
-      - url: "https://singularityhub.com/wp-content/uploads/2020/06/neurons-1773922_1280-2.jpg"
-        width: 1068
-        height: 601
-        isCached: true
 
 secured: "5GdlAl8isMvTOJ/41YybAq3ULl+XXoniPlDuS4uIqaSekPsHajOg+V+Ow2wW7V8ngg6jPF5o/lUMdq4hrOVODF5uwSsAzL5k9tfCCTtz0gBxAbz8zEVeF5RRxfRLOucUByFJGglkr+Zsc2nQz0sh9zSwBv60m+MHWEf+WNdmO/an+/J9AhV19WS7dr1IL7Kz5vZixA7GB35ZU2mgrX5uxLsPh3ZfHHQVByn/VG5eE1kOgFaT7KVf0ycM6T6z/EdVvypJaju41w9FrPJvO1uXOOFEzH5LVKXENcYTQlDg7Pn6i5XUkbCVrtHvToc0+w0/+6dPFG4gHO59phd510C8eqQL7u+UrdKyM8CaAJ4XCkSPdnSGMoPMBDoYnKs4GL4spwR7hfwYOG/+J+w41pzAeU5MQcNO8uoKz3MhNn6iPmTr0/UEripckVGNA+jF/I8JWUYnh1+BDvIl4q4tQAuTLdGgpoqDSkTbKX/7+wDcUKZWC2UasLxtrFF+qEb48u4XexymfrjTD+cC+4AcwwzQjw==;0KDWBuFy9Z9BQaFc6kwEnA=="
 ---

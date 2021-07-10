@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/07/07/if-mcdonalds-is-r
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/07/07/if-mcdonalds-is-rolling-out-a-customer-loyalty-program-so-should-ai-self-driving-cars/amp/"
 type: article
 quality: 81
-heat: 101
+heat: 111
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60e7efb356707072f917781b%2F0x0.jpg%3FcropX1%3D176%26cropX2%3D2103%26cropY1%3D0%26cropY2%3D1284"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Viral TikTok Hack About Cleverly Parking Between The Lines Is Volatile Fodder For Human Drivers And For AI Self-Driving Cars"
+    excerpt: "Parking cars in lined parking lots can be an entirely frustrating task, which could be eased if we all parked in the same manner. Humans though are unlikely to abide by this rule, so maybe self-driving cars are the answer."
+    publishedDateTime: 2021-07-05T15:30:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2021/07/05/viral-tiktok-hack-about-cleverly-parking-between-the-lines-is-volatile-fodder-for-human-drivers-and-for-ai-self-driving-cars/"
+    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/07/05/viral-tiktok-hack-about-cleverly-parking-between-the-lines-is-volatile-fodder-for-human-drivers-and-for-ai-self-driving-cars/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/07/05/viral-tiktok-hack-about-cleverly-parking-between-the-lines-is-volatile-fodder-for-human-drivers-and-for-ai-self-driving-cars/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 62
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60de2cc2910d3a6aef446fdb%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1995%26cropY1%3D32%26cropY2%3D1154"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Companies like Hudson and McDonald’s are testing drive-thru AI, invisible checkout"
     excerpt: "Shoppers have been interacting with technology like self-checkout machines and automated customer service hotlines for years. But there are new tools taking on tasks workers used to do, from the retail sales floor to the restaurant drive thru,"

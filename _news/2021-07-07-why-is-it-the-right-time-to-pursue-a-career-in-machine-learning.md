@@ -6,8 +6,8 @@ publishedDateTime: 2021-07-07T13:57:00Z
 originalUrl: "https://www.tribuneindia.com/news/jobs-careers/why-is-it-the-right-time-to-pursue-a-career-in-machine-learning-279594"
 webUrl: "https://www.tribuneindia.com/news/jobs-careers/why-is-it-the-right-time-to-pursue-a-career-in-machine-learning-279594"
 type: article
-quality: 39
-heat: 39
+quality: 41
+heat: 41
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - AI in Finance
 
 images:
   - url: "https://englishtribuneimages.blob.core.windows.net/gallary-content/2021/7/2021_7$largeimg_604728081.jpg"
