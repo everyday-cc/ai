@@ -26,35 +26,53 @@ images:
     isCached: true
 
 related:
-  - title: "Microsoft’s Project Alexandria parses documents using unsupervised learning"
-    excerpt: "Microsoft's Project Alexandria, which uses unsupervised learning to parse documents, powers the company's Viva Topics product."
-    publishedDateTime: 2021-07-05T16:25:00Z
-    webUrl: "https://venturebeat.com/2021/07/05/microsofts-project-alexandria-parses-documents-using-unsupervised-learning/"
-    ampWebUrl: "https://venturebeat.com/2021/07/05/microsofts-project-alexandria-parses-documents-using-unsupervised-learning/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/05/microsofts-project-alexandria-parses-documents-using-unsupervised-learning/amp/"
+  - title: "Xbox Series X games might look even better soon thanks to AI upscaling"
+    excerpt: "They teased the return of the Fable franchise from developer Playground Games, and now might have just revealed Microsoft’s answer to AI-based graphical upscaling like Nvidia's DLSS but for Xbox Series X."
+    publishedDateTime: 2021-07-07T11:04:00Z
+    webUrl: "https://www.techradar.com/nz/news/xbox-series-x-games-might-look-even-better-soon-thanks-to-ai-upscaling"
+    ampWebUrl: "https://www.techradar.com/nz/amp/news/xbox-series-x-games-might-look-even-better-soon-thanks-to-ai-upscaling"
+    cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/nz/amp/news/xbox-series-x-games-might-look-even-better-soon-thanks-to-ai-upscaling"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
+      name: TechRadar
+      domain: techradar.com
     quality: 89
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2021/03/GettyImages-1306394018-e1615886711349.jpg?w=1200&strip=all"
-        width: 1200
-        height: 600
+      - url: "https://cdn.mos.cms.futurecdn.net/ttRhUwVgN4KdzEYbBaC6oW-480-80.jpg"
+        width: 480
+        height: 288
         isCached: true
-  - title: "Microsoft aims to expedite new edge computing use cases with Azure Percept"
-    excerpt: "With the modern cloud landscape nearing a point of saturation in terms of bandwidth, 5G combined with edge computing and AI looks to further ... silicon and telecom, Azure edge devices, and ..."
-    publishedDateTime: 2021-07-08T21:36:00Z
-    webUrl: "https://siliconangle.com/2021/07/08/microsoft-aims-expedite-new-edge-computing-use-cases-azure-percept-mwc21/"
+  - title: "Xbox Series X games could get a big boost — thanks to AI upscaling"
+    excerpt: "The Xbox Series X is already a serious powerhouse of a console, but its graphical performance could be about to get even better thanks to the power of AI. AI upscaling is nothing new, but until now it’s been left to the likes of Nvidia and AMD to handle."
+    publishedDateTime: 2021-07-08T11:38:00Z
+    webUrl: "https://www.tomsguide.com/uk/news/xbox-series-x-games-could-get-a-big-boost-thanks-to-ai-upscaling"
+    ampWebUrl: "https://www.tomsguide.com/uk/amp/news/xbox-series-x-games-could-get-a-big-boost-thanks-to-ai-upscaling"
+    cdnAmpWebUrl: "https://www-tomsguide-com.cdn.ampproject.org/c/s/www.tomsguide.com/uk/amp/news/xbox-series-x-games-could-get-a-big-boost-thanks-to-ai-upscaling"
     type: article
     provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 67
+      name: Tom's Guide
+      domain: tomsguide.com
+    quality: 57
     images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/07/Pete-Bernard-Mobile-World-Congress-2021.jpg"
-        width: 1920
-        height: 1080
+      - url: "https://cdn.mos.cms.futurecdn.net/Uy8Chuw8oY5jPoc7HyGMKd-480-80.jpg"
+        width: 480
+        height: 289
+        isCached: true
+  - title: "Cheating In PS5 And Xbox Series X Games Might Get Worse, Thanks To This Machine-Learning Tool"
+    excerpt: "A new cheat engine that uses machine-learning can work on consoles, including Xbox Series X and PlayStation 5. The anti-cheat watch group ACPD posted its findings on the new tool on Twitter, explaining how it will be difficult for developers to detect."
+    publishedDateTime: 2021-07-07T19:07:00Z
+    webUrl: "https://www.gamespot.com/articles/cheating-in-ps5-and-xbox-series-x-games-might-get-worse-thanks-to-this-machine-learning-tool/1100-6493682/"
+    ampWebUrl: "https://www.gamespot.com/amp-articles/cheating-in-ps5-and-xbox-series-x-games-might-get-worse-thanks-to-this-machine-learning-tool/1100-6493682/"
+    cdnAmpWebUrl: "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/cheating-in-ps5-and-xbox-series-x-games-might-get-worse-thanks-to-this-machine-learning-tool/1100-6493682/"
+    type: article
+    provider:
+      name: GameSpot
+      domain: gamespot.com
+    quality: 33
+    images:
+      - url: "https://www.gamespot.com/a/uploads/original/1585/15853545/3852955-0795579771-call-.jpg"
+        width: 1280
+        height: 720
         isCached: true
 
 secured: "pFrHzWRwBqfLLMwYTY3wN3MsoVx+lZNS7mnPB0b6c+Qou9SMP/ZSZDz0Kj2kEJgDdx9t7NeEWVBt9YpMKbbDgnbOgupG1Kan4CfxT6ciz5kv1pM6sXkMstkChz0W8fMyB+OXO/8T02X+bPeUrZ2PFlnIm57xDUyvM97LGMm4ole5rduesS7er+jxcb0XczYcC6IK/ROoDCPLTkcH70ZToD1Q7wYkbYhjfajtgfQqivqxk66ePxJjLgxudPGlZntOUulf7Iwb+vg+vy8BMHVqLU7Av5O11FBxvNBgHP+YH7x22heJ8Sd3M6J5gdehZmDlk3m5X/jmTaYb8hdbOmr3lbuDoA7w7jkiRApqbo6/Ce4OQ37ryq6nQE2uY2Xi0c0YNIsq2QVSf0/FpzoC9vlTg2AP4ynKROu5MG5v/YinxRrAZWIv8f76xjlta6bwWmfVpBlbmjeuOEo7YBMPuYMXU7Z5ezCC0D9dahODjHjzB7iOSbov92Dd1+K8SMxHUCbfzKniCmIVCg7qw0ZdgvaWhA==;+99qENPs0I23ibBIhqHiOQ=="

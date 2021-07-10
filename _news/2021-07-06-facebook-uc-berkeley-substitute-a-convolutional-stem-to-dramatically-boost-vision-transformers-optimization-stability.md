@@ -111,6 +111,15 @@ related:
       name: ARN
       domain: arnnet.com.au
     quality: 17
+  - title: "Global Automatic Speech Recognition Market Size, Status and Forecast 2021-2027"
+    excerpt: "The global Automatic Speech Recognition market size is projected to reach US$ XX million by 2027, from US$ XX million in 2020, at a CAGR of XX% during 2021-2027. With industry-standard accuracy in analysis and high data integrity, the report makes a ..."
+    publishedDateTime: 2021-07-10T09:05:00Z
+    webUrl: "https://www.reportsnreports.com/reports/4660781-global-automatic-speech-recognition-market-size-status-and-forecast-2021-2027.html"
+    type: article
+    provider:
+      name: ReportsnReports
+      domain: reportsnreports.com
+    quality: 15
   - title: "Military Robots Market Analysis with Key Players, Applications, Trends and Forecasts to 2027"
     excerpt: "which in result increase the demand for military robots. According to Artificial Intelligence and National Security, in 2008 Russian defense modernization agenda aims at robotizing 30% of its military equipment by 2025. As per Congressional Research ..."
     publishedDateTime: 2021-07-07T03:39:00Z

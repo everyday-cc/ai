@@ -2,6 +2,49 @@
   "page": 94,
   "value": [
     {
+      "path": "_news/2021-05-03-chinese-tech-giant-baidu-rolls-out-paid-driverless-taxi-service-in-beijing.md",
+      "title": "Chinese tech giant Baidu rolls out paid driverless taxi service in Beijing",
+      "excerpt": "Chinese tech giant Baidu rolled out its paid driverless taxi service on Sunday ... Kelly Wang and her husband, who both work in the artificial intelligence industry, said they had a smooth ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.stuff.co.nz/motoring/300290696/chinese-tech-giant-baidu-rolls-out-paid-driverless-taxi-service-in-beijing",
+      "originalUrl": "https://www.stuff.co.nz/motoring/300290696/chinese-tech-giant-baidu-rolls-out-paid-driverless-taxi-service-in-beijing",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://resources.stuff.co.nz/content/dam/images/4/y/s/9/s/7/image.related.StuffLandscapeSixteenByNine.1420x800.4ys9s8.png/1619981195463.jpg",
+          "width": 1420,
+          "height": 798,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-02T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Stuff.co.nz",
+        "domain": "stuff.co.nz",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-03-indus-insights-expands-leadership-dr-david-bergeron-joins-as-chief-practice-officer-of-financial-services.md",
       "title": "Indus Insights Expands Leadership; Dr. David Bergeron joins as Chief Practice Officer of Financial Services",
       "excerpt": "The company creates value for its clients by combining Machine Learning and Analytics techniques with a deep expertise of the financial services sector. This unique value proposition has allowed ...",
@@ -1113,49 +1156,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-01-microsoft-reduces-windows-store-cut-to-just-12-percent-news.md",
-      "title": "Microsoft Reduces Windows Store Cut to Just 12 Percent - News",
-      "excerpt": "\"Developing for PC was a priority for Microsoft Flight Simulator last year, using the help of Azure AI, machine learning, Azure Cognitive Services, and Bing Maps to bring the entire planet to life.",
-      "sourceUrl": null,
-      "webUrl": "https://www.vgchartz.com/article/448548/microsoft-reduces-windows-store-cut-to-just-12-percent/",
-      "originalUrl": "https://www.vgchartz.com/article/448548/microsoft-reduces-windows-store-cut-to-just-12-percent/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.vgchartz.com/articles_media/images/ratchet-628542_featured.jpg",
-          "width": 600,
-          "height": 250,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-30T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VG Chartz",
-        "domain": "vgchartz.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

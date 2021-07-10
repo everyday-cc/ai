@@ -1,27 +1,27 @@
 ---
 category: news
-title: "Here Are the Winners of the Swiss Fintech Awards 2021"
-excerpt: "The Swiss Fintech Awards 2021 named FQX and Yokoy best fintech startups of the year. Cornelia Stengel named 'Fintech Influencer of the Year.'"
-publishedDateTime: 2021-07-08T06:02:00Z
-originalUrl: "https://fintechnews.ch/partner-content/here-are-winners-of-the-swiss-fintech-awards-2021/47131/"
-webUrl: "https://fintechnews.ch/partner-content/here-are-winners-of-the-swiss-fintech-awards-2021/47131/"
+title: "The Future of Fintech 2021 on demand"
+excerpt: "On the 17th of June, FStech's virtual conference returned for 2021, covering the biggest trends in financial services technology. Across a variety of keynote speeches, in-depth presentations and lively panel discussions this online event tackled how firms can deal with the challenges of the Coronavirus crisis one year on, as well as looking forward to what the 'new normal' will look like for an industry already in the grips of digital disruption. Among the topics on the agenda were: cyber security in the time of COVID-19, the RegTech solutions automating compliance, improving data literacy and governance, protecting customers from fraud, AI and machine learning, the rise of digital assets, upgrading legacy systems and ensuring data is safe and optimised in the cloud. For those of you who missed the event, or would like to watch specific sessions again, we have collected the day's content and put it all in one place for easy viewing:"
+publishedDateTime: 2021-07-10T09:48:00Z
+originalUrl: "https://www.fstech.co.uk/future-fintech-digital-conference/ondemand.php"
+webUrl: "https://www.fstech.co.uk/future-fintech-digital-conference/ondemand.php"
 type: article
 quality: 24
 heat: -1
 published: false
 
 provider:
-  name: fintechnews.ch
-  domain: fintechnews.ch
+  name: fstech.co.uk
+  domain: fstech.co.uk
 
 topics:
   - AI in Finance
   - AI
 
 images:
-  - url: "https://fintechnews.ch/wp-content/uploads/2021/07/The-Swiss-Fintech-Awards-2021-Winners-Are.jpg"
-    width: 2048
-    height: 1136
+  - url: "https://perspectivepublishing.co.uk/dev/cms/uploads/FStech%20Couchbase%208th%20December%202020/final_cb.jpg"
+    width: 314
+    height: 314
     isCached: true
 
 related:
@@ -173,6 +173,20 @@ related:
         width: 3024
         height: 4032
         isCached: true
+  - title: "Here Are the Winners of the Swiss Fintech Awards 2021"
+    excerpt: "The Swiss Fintech Awards 2021 named FQX and Yokoy best fintech startups of the year. Cornelia Stengel named 'Fintech Influencer of the Year.'"
+    publishedDateTime: 2021-07-08T06:02:00Z
+    webUrl: "https://fintechnews.ch/partner-content/here-are-winners-of-the-swiss-fintech-awards-2021/47131/"
+    type: article
+    provider:
+      name: fintechnews.ch
+      domain: fintechnews.ch
+    quality: 24
+    images:
+      - url: "https://fintechnews.ch/wp-content/uploads/2021/07/The-Swiss-Fintech-Awards-2021-Winners-Are.jpg"
+        width: 2048
+        height: 1136
+        isCached: true
   - title: "Demystifying the role of the fintech CFO"
     excerpt: "This series of articles looks to demystify the various C-level roles within fintech companies today – exploring the career paths taken by top managers, their critical skills, daily responsibilities and challenges,"
     publishedDateTime: 2021-07-09T11:48:00Z
@@ -201,20 +215,6 @@ related:
         width: 1620
         height: 1080
         isCached: true
-  - title: "The Future of Fintech 2021 on demand"
-    excerpt: "On the 17th of June, FStech's virtual conference returned for 2021, covering the biggest trends in financial services technology. Across a variety of keynote speeches, in-depth presentations and lively panel discussions this online event tackled how firms can deal with the challenges of the Coronavirus crisis one year on, as well as looking forward to what the 'new normal' will look like for an industry already in the grips of digital disruption. Among the topics on the agenda were: cyber security in the time of COVID-19, the RegTech solutions automating compliance, improving data literacy and governance, protecting customers from fraud, AI and machine learning, the rise of digital assets, upgrading legacy systems and ensuring data is safe and optimised in the cloud. For those of you who missed the event, or would like to watch specific sessions again, we have collected the day's content and put it all in one place for easy viewing:"
-    publishedDateTime: 2021-07-10T09:48:00Z
-    webUrl: "https://www.fstech.co.uk/future-fintech-digital-conference/ondemand.php"
-    type: article
-    provider:
-      name: fstech.co.uk
-      domain: fstech.co.uk
-    quality: 24
-    images:
-      - url: "https://perspectivepublishing.co.uk/dev/cms/uploads/FStech%20Couchbase%208th%20December%202020/final_cb.jpg"
-        width: 314
-        height: 314
-        isCached: true
   - title: "At 17.1% CAGR, AI in Fintech Market Size will reach 8984.9 million USD by 2025"
     excerpt: "The global AI in Fintech market size is expected to gain market growth in the forecast period of 2020 to 2025, with a CAGR of 17.1% in the forecast period of 2020 to 2025 and will expected to reach USD 8984."
     publishedDateTime: 2021-07-09T15:21:00Z
@@ -234,6 +234,6 @@ related:
       domain: finextra.com
     quality: 0
 
-secured: "foBRg1jDJIKwKjmFFHR8ar4/a5S5umIiYRDT/b+pHJBnvVn5pjimSpl/0cgU9wbpl8hecTiOZFdR9tVn2QnuKKO7ewCJ028gX3aB2/gdH7TE5x61rWpmzqK761dMhbOo20tZchHad6xRDj+QYMt6XHAIhc6YY6fXmNAecTESuyE+L2o0kLoV0Tap3Pur04gXYEeOQQhPmjArYss/KYpWKXK12Vtxil1Q+ACdz+gfTkfw/RXexNNPPZErM2lWBYjdz/DW0mtSwHlu1n13/RCQW5fl2VqfP/fM2OBaelvpoKd1S3FejvN+vgV3DCW22hvsCgTiyjLQJdTFGz9EoNx3kOufwAjxhozDJ55M3Nv06dy3MhRjPvdk/yrdDbYe6X9TZu51htjW4pEK4Xf98/eaCk0AoV8lC1GJTelMpmA2o8WDbUgJZ3K5DtBhHVGkQAsOmRllrT+bVttKygKr69hSC/5yq5TpryIh5+qF3qYaT+MJYaP5TBU6PshimcMWkDqz0nJXSew36EtnvdfnLTLGrA==;yDX9t6AlRmTEcZfJmejTzA=="
+secured: "12V6X6M9OlkT4a5u7b/lzE1okPUJEJ6QS8ffjCNK5eOAF8a0BHuYBXBKdLpOn+bq17AwoHwzSToy6lyRH1ivVZj+9dh6xtz35AuBbk0Fy+btJbGPCqLtvbfz9TP0Bklw+WHyQP4R4NoEDHRrFBonUcQPM3/tt4I3RRAt22f4ia3rZd4Gu/VxH6kEshJzIYiOFuTl+OvuqlLQ+j+4b3+sFij6gjGU3GqLHauPL8qos6VKDf/ky8N8qj7Q3bAHLM0w4128R/NX8y3EZLx4ASdLRlLHtnNILou56LjZmpQYF/craRGO6NLPL0/ZC8ZbgDF2X/yWI8H0zIMfCgfAYtrJbuCugokba1Uepd1BoOs+nq8=;XmfPNheyH5X8Kh9SoFVZzg=="
 ---
 

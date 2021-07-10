@@ -1,24 +1,24 @@
 ---
 category: news
 title: "Fetcher leverages AI to match employees with suitable roles"
-excerpt: "Concept: American startup Fetcher.ai (Fetcher) offers an automated recruiting platform to enable companies to hire suitable candidates. Its AI-powered platform can help enterprises to minimize unconscious bias while enhancing the size and scope of diverse talent pools."
-publishedDateTime: 2021-07-09T17:38:00Z
-originalUrl: "https://www.power-technology.com/research-reports/fetcher-leverages-ai-match-employees-suitable-roles/"
-webUrl: "https://www.power-technology.com/research-reports/fetcher-leverages-ai-match-employees-suitable-roles/"
+excerpt: "American startup Fetcher.ai (Fetcher) offers an automated recruiting platform to enable companies to hire suitable candidates."
+publishedDateTime: 2021-07-10T09:03:00Z
+originalUrl: "https://www.just-auto.com/research-reports/fetcher-leverages-ai-match-employees-suitable-roles/"
+webUrl: "https://www.just-auto.com/research-reports/fetcher-leverages-ai-match-employees-suitable-roles/"
 type: article
 quality: 37
 heat: -1
 published: false
 
 provider:
-  name: Power Technology
-  domain: power-technology.com
+  name: Just Auto
+  domain: just-auto.com
 
 topics:
   - AI
 
 images:
-  - url: "https://www.power-technology.com/wp-content/uploads/sites/7/2021/07/technology-5254039_1280.jpg"
+  - url: "https://www.just-auto.com/wp-content/uploads/sites/37/2021/07/technology-5254039_1280.jpg"
     width: 1280
     height: 838
     isCached: true
@@ -39,6 +39,6 @@ related:
         height: 770
         isCached: true
 
-secured: "0k7ZWmP+BMT2Uw5PhR7ifL8fvPjnD4Jn2NJw7+nxkHqi6Oe6vtuhjbPoBxeswUhCOdPh8vdiPCRoQkBU1jRZVK3uHLH/qZ/wRPVyaWxmDRx+kXNdikOer+4VOaC/qMk/shT8SqgjbkecC5Ta/SqcS3cHoJYba31rpRWUvRDpPCPslckkKrU7AfwdYef1Si5OiEwc7Kezhw9uueezPr+3vHOe01oO2J8jfRdphIqEEE5MYekyxCcBi7jgmQdPsY7T+wEb6h3vZG9BFxA0GksbKWKVvPY2hOJ5EnePBn2zLWWMZvuk1gmZoHh17B7OBqKAMsVWuWcdpwv2ghUwocKx8vKEWA6HqGYfRtCVS4lsUt01r1HTQB0lmm6ZMBnOyVbyMax0ULuHYflXszIn0owJJ8HLyq4N3D6SqbA3U8I5bm6nUeXDovzWzuzbFcspU6zvDF+ItlfN5KeFFFy4fr7fOsXIbsCbNdDVHVlFOIF3Sg4Z4R07MLWcc+HWGOywPZiLhpzNgnGaHC9DzNXsoo6tcA==;tZJZtoxEJ4q9qX6Ng3mshg=="
+secured: "2qUR8HncW3x/FPQzSlEh4tsL2hMkiVJ9VxvFmIBPOpytmrMC/VcSyfMiJb0qTqRS+LmZSVt+SY/OjuDzWhKHGVoRruZfbQf0lZYntU6c0ynZZpLqV9oukySv5ApLj4spqqapaCgrUYbt2Szg05WnUsoLPk4JU/Wi8jYjcZzc4kUsU/5kwvMmLp+CQQ4N8Xgz8iL1N3Z69xJ7olype3N6ApAokJN1KBPYUJyvQF3vTS8x2MUHDaABjAkjJmZa4I4/j18ODpK73+kCprtJzVKiTOEdvNHgSiL81mmfviEtjMzT/XqEB+Fh9e8f3XnRYsdmm8mhVfDVHh0nwcLJJqagyjJz7l6s/2T+tNJbKN2OS8s=;+uO9WWg+4LOaHkVa5hqdJw=="
 ---
 

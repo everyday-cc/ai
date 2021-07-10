@@ -30,16 +30,16 @@ images:
 
 related:
   - title: "Fetcher leverages AI to match employees with suitable roles"
-    excerpt: "Concept: American startup Fetcher.ai (Fetcher) offers an automated recruiting platform to enable companies to hire suitable candidates. Its AI-powered platform can help enterprises to minimize unconscious bias while enhancing the size and scope of diverse talent pools."
-    publishedDateTime: 2021-07-09T17:38:00Z
-    webUrl: "https://www.power-technology.com/research-reports/fetcher-leverages-ai-match-employees-suitable-roles/"
+    excerpt: "American startup Fetcher.ai (Fetcher) offers an automated recruiting platform to enable companies to hire suitable candidates."
+    publishedDateTime: 2021-07-10T09:03:00Z
+    webUrl: "https://www.just-auto.com/research-reports/fetcher-leverages-ai-match-employees-suitable-roles/"
     type: article
     provider:
-      name: Power Technology
-      domain: power-technology.com
+      name: Just Auto
+      domain: just-auto.com
     quality: 37
     images:
-      - url: "https://www.power-technology.com/wp-content/uploads/sites/7/2021/07/technology-5254039_1280.jpg"
+      - url: "https://www.just-auto.com/wp-content/uploads/sites/37/2021/07/technology-5254039_1280.jpg"
         width: 1280
         height: 838
         isCached: true

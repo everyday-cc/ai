@@ -1,28 +1,22 @@
 ---
 category: news
-title: "New state laws require more police transparency, limit use of facial recognition technology"
-excerpt: "One of the laws makes Maine the first state in the country to apply strict limits on facial recognition technology."
-publishedDateTime: 2021-07-10T01:14:00Z
-originalUrl: "https://www.pressherald.com/2021/07/09/new-state-laws-require-more-police-transparency-limit-use-of-facial-recognition-technology/"
-webUrl: "https://www.pressherald.com/2021/07/09/new-state-laws-require-more-police-transparency-limit-use-of-facial-recognition-technology/"
+title: "Global Face Recognition Technology Market Size, Status and Forecast 2021-2027"
+excerpt: "Pages Report] Check for Discount on Global Face Recognition Technology Market Size, Status and Forecast 2021-2027 report by QYResearch Group. Market Analysis and Insights: Global Face Recognition Technology Market"
+publishedDateTime: 2021-07-10T09:01:00Z
+originalUrl: "https://www.reportsnreports.com/reports/4660488-global-face-recognition-technology-market-size-status-and-forecast-2021-2027.html"
+webUrl: "https://www.reportsnreports.com/reports/4660488-global-face-recognition-technology-market-size-status-and-forecast-2021-2027.html"
 type: article
-quality: 29
+quality: 16
 heat: -1
 published: false
 
 provider:
-  name: Portland Press Herald
-  domain: pressherald.com
+  name: ReportsnReports
+  domain: reportsnreports.com
 
 topics:
   - Computer Vision
   - AI
-
-images:
-  - url: "http://multifiles.pressherald.com/uploads/sites/4/2017/01/pph-icon-red-linkforFB.png"
-    width: 300
-    height: 300
-    isCached: true
 
 related:
   - title: "Maine Becomes First State To Pass Broad Government Ban on Facial Recognition Technology"
@@ -71,16 +65,21 @@ related:
         width: 1024
         height: 672
         isCached: true
-  - title: "Global Face Recognition Technology Market Size, Status and Forecast 2021-2027"
-    excerpt: "Pages Report] Check for Discount on Global Face Recognition Technology Market Size, Status and Forecast 2021-2027 report by QYResearch Group. Market Analysis and Insights: Global Face Recognition Technology Market"
-    publishedDateTime: 2021-07-10T09:01:00Z
-    webUrl: "https://www.reportsnreports.com/reports/4660488-global-face-recognition-technology-market-size-status-and-forecast-2021-2027.html"
+  - title: "New state laws require more police transparency, limit use of facial recognition technology"
+    excerpt: "One of the laws makes Maine the first state in the country to apply strict limits on facial recognition technology."
+    publishedDateTime: 2021-07-10T01:14:00Z
+    webUrl: "https://www.pressherald.com/2021/07/09/new-state-laws-require-more-police-transparency-limit-use-of-facial-recognition-technology/"
     type: article
     provider:
-      name: ReportsnReports
-      domain: reportsnreports.com
-    quality: 16
+      name: Portland Press Herald
+      domain: pressherald.com
+    quality: 29
+    images:
+      - url: "http://multifiles.pressherald.com/uploads/sites/4/2017/01/pph-icon-red-linkforFB.png"
+        width: 300
+        height: 300
+        isCached: true
 
-secured: "xN9mwLSHP/C4xFLyi6r+8aIqMxYLbtldJUg3Z+1nuEJCr1QizZKvT5jRRqvHxawFLGmVB04iejpzOK550RwT86S1ZTiecymaYMvobztkxSrm/6sBSzqxoLoT3x1HoC4joxNiEtLjBK3GMSpiQEOmM27k8TajX9txX1O/dZM7+PnVfAHuGgrAIQVdvhtJhhd4N7vs4MDknlUQk0+5Rsqj+2/CV4xDKMrV2H0mdPanM9mTnTAcEAwD15/JIDKsPDzXJ/cQw/30n/Bq0fC0og0/y9DXII8KM61Ky4VhoPi3uiPBm0Soa2kcv894Fy2paFWGWC8HNx5estscHR8jfkSKlP+C4TH/f4iaDKvxI684468=;LVYRJO+fFAKgtURrdqoBAA=="
+secured: "QMqW1k5cr51gCbm/Tz6C2JJ5615Pc1aN4ZqGGmw/d/JYgOHhET+miT+YQNIk9lkE4TmjDthOqKRECKhdF6FjKRMJRU5EuNDLMjOLMBAZZYoJdwc01pF++aKTVQB9bC5Kgej7KAlpDEUF6luolyGOg4Y2IpWX2vz7M2XQw64yB74tmw1eLCXB91JOCJZh4es0yVJZJsaKFRl/3Le9dnVfS2KSjmS9PKK1CaMFMlQmHOYqIUVzIRU4Ca4BHmSuPan5JUSCLO48C7FVAw4QN1UvtLwouwHS1CN2w3Q9Nn7eeJMXPq9LpwynY8/SzbiKQ980WEGaw5NIV/rqqiAqQ0okGViGntg0LArexfVjzalYlGA=;HwHIE9SziveqPTMgIFzLgg=="
 ---
 

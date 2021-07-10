@@ -59,6 +59,20 @@ related:
         width: 480
         height: 289
         isCached: true
+  - title: "Microsoft Is Developing an AI Upscaling Engine to Improve Xbox Visuals"
+    excerpt: "Microsoft wants to implement its own machine learning solutions for Xbox, possibly in competition with AMD's FSR or Nvidia's DLSS."
+    publishedDateTime: 2021-07-08T13:31:00Z
+    webUrl: "https://www.extremetech.com/gaming/324429-microsoft-mulls-ai-upscaling-method-to-improve-xbox-visuals"
+    type: article
+    provider:
+      name: ExtremeTech
+      domain: extremetech.com
+    quality: 56
+    images:
+      - url: "https://www.extremetech.com/wp-content/uploads/2020/10/Xbox-Die-Feature.jpg"
+        width: 1186
+        height: 655
+        isCached: true
 
 secured: "p83vh6btrVtsomnXPYjNOD/delljI9Lu0QJOdnWlRWPP7VHaGGFb3J8nvlRed6PvRGzPxdtcVw2g6tzYD+FMMlSTAQTjHVQBW7rFnYPbU0eCnTaNQ83Oq44zclqSBAmrjH1DLpPDm8AjQU2RPO++WTzPcnDip4J8lR2ATn+Q2hDORAdCNKm1o2a6hZjScy0IbDjnfSvzRP4I9a3U9jvgC5iMopDFRvCEhNurTUL1bV48IouMK2yubDOfJjFYeZ3YPpFK6pFw9DhNf7RUOeFb1yauW6jXvAv+4qO3pY2fIl06+/YwQ+ylyCUZCTakwNxJ03XhZl6yZfsCykXGT0WuwpNhbNc6qN53zBUM5/nNydCfxZBM5YkGf2QwzbXECUMpGZECvnqHVR2ObM13nUd/RFpwR8RGamnbZIZA46HcixrdAZtOZpQ32tSBsQUdB4r2nJPV87OZgX5Oovn4C7okvAhT56b5sOS8A6sqgFgWYUhiIjqzioSCqvwQ4yznbt1xcd6bYcEaxeub/WzNjAQAFA==;T3BAT5YNLPts/W0jO4H/qg=="
 ---

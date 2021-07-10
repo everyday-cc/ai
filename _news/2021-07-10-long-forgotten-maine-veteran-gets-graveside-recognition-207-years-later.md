@@ -71,6 +71,15 @@ related:
         width: 300
         height: 300
         isCached: true
+  - title: "Global Face Recognition Technology Market Size, Status and Forecast 2021-2027"
+    excerpt: "Pages Report] Check for Discount on Global Face Recognition Technology Market Size, Status and Forecast 2021-2027 report by QYResearch Group. Market Analysis and Insights: Global Face Recognition Technology Market"
+    publishedDateTime: 2021-07-10T09:01:00Z
+    webUrl: "https://www.reportsnreports.com/reports/4660488-global-face-recognition-technology-market-size-status-and-forecast-2021-2027.html"
+    type: article
+    provider:
+      name: ReportsnReports
+      domain: reportsnreports.com
+    quality: 16
 
 secured: "fsYlm02ZJjhkcsinsmoaoy7iontqK89CUO1TigyFusMjCHI7uPPVtqSTercZFFi/mTxRg+3FLI/LUMx+JspoK+92FXC4wE/90ajnu0lxWGdQrdVCVfTroXCuxgd5ubLdvXkcaIcLj/r/lQWb4nREdjUOkP8LroF9S0njLNTHJrfs8HtM0d2l5s642Xke5cxjzHdjHmW2L1mBdUl7uCjeXbi/YVRYWqUtmqSn7Pzu4ckV29vgz7QPodoMpQTBHsmYpqX7139L98Q9dVfRzGMI7KkrZyCSr4sBFVausmgmz0+hCLWNDsOHKjbSvQobfiOuxvSTsk8tf64XtePV5F4EhT5VJfQXY0101BCziAoSecI=;V6AjUVsKFjQyWv/uFJwhhw=="
 ---

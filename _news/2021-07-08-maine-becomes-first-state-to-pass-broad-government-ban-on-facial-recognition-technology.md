@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cpomagazine.com/data-privacy/maine-becomes-first-state-t
 cdnAmpWebUrl: "https://www-cpomagazine-com.cdn.ampproject.org/c/s/www.cpomagazine.com/data-privacy/maine-becomes-first-state-to-pass-broad-government-ban-on-facial-recognition-technology/amp/"
 type: article
 quality: 66
-heat: 96
+heat: 106
 published: true
 
 provider:
@@ -71,6 +71,15 @@ related:
         width: 300
         height: 300
         isCached: true
+  - title: "Global Face Recognition Technology Market Size, Status and Forecast 2021-2027"
+    excerpt: "Pages Report] Check for Discount on Global Face Recognition Technology Market Size, Status and Forecast 2021-2027 report by QYResearch Group. Market Analysis and Insights: Global Face Recognition Technology Market"
+    publishedDateTime: 2021-07-10T09:01:00Z
+    webUrl: "https://www.reportsnreports.com/reports/4660488-global-face-recognition-technology-market-size-status-and-forecast-2021-2027.html"
+    type: article
+    provider:
+      name: ReportsnReports
+      domain: reportsnreports.com
+    quality: 16
 
 secured: "GZa1rGvzeeIZHORMNmNPwQ6M/d42QdMhtE5aTtoORRSWsV7e4UQVpGrOxUD48glk38XOjZmdqIcXqBXZSCcWbhbg+CggDJ/tZBVs9EO2w5VBDjrsy7/w7R5zUp9+b4CuhCQMU/7h7ZojqE7a81u8LqeI1iPmcIylUlVsR1JlamIkSNr5qO06YWQMc7hq2F2AaO788jEYfd/5LdUrtLy/bVGTnYRcpQ+JkjkifhiMwWr1sxP67gGCQ9p/jbDMxNomZUM9ZkIy5sPJeW/tPSQ2bqmy3qKLL1dwawHLkB1WE04E+deGYoVAdZ0zAYoLwq+om6zQNjQ5SynbLdImQTDQ+NP98SroBOlHo5xjYfqOtLEj/baJumUXYG62SG+xXaEGNj4+k3VQVqEI78UQhNMW6AGLwPVHLzPFxd0Tau0QdZomqDRNX51/gGL63d1rwk+S3eILV99zDrgrK4fCCJ2qkYcbP5sVOeQ3VI1jlcK7lLu/3GpLjet9QphUmRWx2HCJy4Xo6dApohDGf6LLesJRtg==;bHo2AaNKn+5jOZQ/g+Ak0A=="
 ---
