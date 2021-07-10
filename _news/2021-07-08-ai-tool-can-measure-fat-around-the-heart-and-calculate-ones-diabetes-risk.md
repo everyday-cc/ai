@@ -9,7 +9,7 @@ ampWebUrl: "https://newatlas.com/medical/ai-tool-fat-heart-mri-diabetes-risk/?am
 cdnAmpWebUrl: "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/medical/ai-tool-fat-heart-mri-diabetes-risk/?amp=true"
 type: article
 quality: 85
-heat: 105
+heat: 115
 published: true
 
 provider:
@@ -62,6 +62,15 @@ related:
         width: 620
         height: 480
         isCached: true
+  - title: "AI predicts diabetes risk by measuring fat around the heart"
+    excerpt: "A team led by researchers from Queen Mary University of London has developed a new artificial intelligence (AI) tool that is able to automatically measure the amount of fat around the heart from MRI scan images."
+    publishedDateTime: 2021-07-10T15:00:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2021/07/210707112427.htm"
+    type: article
+    provider:
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 47
 
 secured: "LdqRVdx+P+d2Eu1wwjQ+Fg9NTAJDYvGmpJXIjjNS2AofzGCAu5A3X8kDYNh6S7jMoTraepxGhdjWCnEwjhT+OINnTrP40txJ1o1IyV6e9lgd6W7bPx6tyGyUwhSBbllz5CE82q0mOPhIIo9mkA4hVls3uZveOB2/oVK9z9XJTarEFtyt5I8vP0kj+HppZGysOwFfXlkQ+UTI/fdiwmD58gEtrSzfzkz2uCP40p4FpJe3ay9FKY68SiM5cPlacn5itKBoAKpL3F2nbOAQK5FYTC65Ehsqyxg+dgW9chemW208bEHvQrMY71EvneL3LaHEFQOGSiuXJ9pn7K/EUX0SbkwZ/DZoIxSz73aMzXoR3F6KE2gTHAqfx7yR5r8dC+1ivkxBHBcOWLvpnr75+ruefd/bG87CfCK6AYe98oeksVdrApBTf/fdtSkHSLI65yReSW3t6ROGLVtowOFkpOn5JvFINIEVUJnSisgZiVbiq9wb6kgMB2IsG14du2Ks9v0SbGBbvpTmmXDGibzU5sfxTQ==;AKxfXwtxLxgWxCH2xG9Nfg=="
 ---

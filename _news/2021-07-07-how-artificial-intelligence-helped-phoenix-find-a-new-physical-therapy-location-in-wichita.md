@@ -81,20 +81,6 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 28
-  - title: "AI/ML Innovations Inc. Engages Volt Strategic Partners and TDM Financial for Capital Market Communications and Market-Making Services"
-    excerpt: "Volt Strategic is a market communications and business optimization firm working with senior business leaders and innovators to help grow organizational value, build business and accelerate market appreciation for emerging technology,"
-    publishedDateTime: 2021-07-05T21:46:00Z
-    webUrl: "https://www.bignewsnetwork.com/news/270183213/aiml-innovations-inc-engages-volt-strategic-partners-and-tdm-financial-for-capital-market-communications-and-market-making-services"
-    type: article
-    provider:
-      name: Big News Network.com
-      domain: bignewsnetwork.com
-    quality: 25
-    images:
-      - url: "https://cdn.bignewsnetwork.com/cus1625723058560.jpg"
-        width: 630
-        height: 420
-        isCached: true
   - title: "Facebook & UC Berkeley Substitute a Convolutional Stem to Dramatically Boost Vision Transformers’ Optimization Stability"
     excerpt: "Recent studies have shown that vision transformer (ViT) models can attain better results than most state-of-the-art convolutional neural networks (CNNs) across various image recognition tasks, and can do so while using considerably fewer computational resources."
     publishedDateTime: 2021-07-06T14:39:00Z

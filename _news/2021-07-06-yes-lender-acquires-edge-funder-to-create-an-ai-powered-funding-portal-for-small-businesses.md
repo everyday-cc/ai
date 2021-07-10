@@ -1,25 +1,25 @@
 ---
 category: news
 title: "Yes Lender Acquires Edge Funder to Create an AI-powered Funding Portal for Small Businesses"
-excerpt: "Yes Lender announced that it recently acquired Edge Funder, Inc., a FinTech start-up that is transforming entrepreneur's access to working capital"
-publishedDateTime: 2021-07-06T12:36:00Z
-originalUrl: "https://www.pottsmerc.com/news/state/yes-lender-acquires-edge-funder-to-create-an-ai-powered-funding-portal-for-small-businesses/article_3b6d444f-09ea-5d1b-ba50-9f6a7d35fadf.html"
-webUrl: "https://www.pottsmerc.com/news/state/yes-lender-acquires-edge-funder-to-create-an-ai-powered-funding-portal-for-small-businesses/article_3b6d444f-09ea-5d1b-ba50-9f6a7d35fadf.html"
+excerpt: "We couldn't be more excited about what the future holds for us.\" Edge Funder, Inc. is a fintech startup that combined proprietary technology and AI-powered decisioning software in an automated platform with a seamless end-to-end user experience (i.e., from ..."
+publishedDateTime: 2021-07-06T13:03:00Z
+originalUrl: "https://www.dailylocal.com/news/state/yes-lender-acquires-edge-funder-to-create-an-ai-powered-funding-portal-for-small-businesses/article_682f59f2-b4ce-5888-8f01-d311ffaa1751.html"
+webUrl: "https://www.dailylocal.com/news/state/yes-lender-acquires-edge-funder-to-create-an-ai-powered-funding-portal-for-small-businesses/article_682f59f2-b4ce-5888-8f01-d311ffaa1751.html"
 type: article
 quality: 29
 heat: -1
 published: false
 
 provider:
-  name: The Mercury
-  domain: pottsmerc.com
+  name: Daily Local News
+  domain: dailylocal.com
 
 topics:
   - AI in Finance
   - AI
 
 images:
-  - url: "https://bloximages.chicago2.vip.townnews.com/pottsmerc.com/content/tncms/assets/v3/editorial/2/32/2321ff9f-1472-58fa-beee-fda4cb331fe0/60e454206a1c8.image.jpg?resize=630%2C630"
+  - url: "https://bloximages.chicago2.vip.townnews.com/dailylocal.com/content/tncms/assets/v3/editorial/4/c8/4c821f89-ca1d-5131-9ceb-75caa02032a1/60e454298500a.image.jpg?resize=630%2C630"
     width: 630
     height: 630
     isCached: true
@@ -42,6 +42,6 @@ related:
         height: 274
         isCached: true
 
-secured: "BSo9rnnqLOncPPy3aueUxS7NWLj+bo37f+wQBo3Pk1wD3v9oFLYo5EsD3v0IDQfUnNMRD0+4HWjN3PuSnjVev8fCHbW9k2gZw5hqBOOEtU23K0g3vTvaRGxeMV6DENYKXhOuzqK69Uf4DglQgc6JnterLgdif7ymzD7aUHIU6wUxnxXr5PuWChthOrL4Ub2yrUz3clfcwEPmSobRJ1ZMkp89wJkAtqnExkHURmfVfOS7lhdu/vz2OnuVY+5+jL0yMbS6z1S4NaZO+o2Z5TbYsNzv49MF4H7CWuEq5d57eGBcDtVQKMgeMqzZRPu3Xuo44+9p5PpjTe+mu3bf5JkTFDzotDry+jAertof9TaEfUB4PBH2e5+U0iEw6xXB5J0JsjZUpM4w5YM8qnm+f3oOD5piQgJSXY2nd1LF0OBe82y8adT2M+Gp259xKTQ4PruhU4Lhwdzv4P/yf8TFHZnlNNCKoUX6B71Cepq2jySYwKSRFaCK1o0+OsqVHSdTIrU3EwYZQlTQPvm+lXj+2tJNgQ==;5qzRFch7GFX2Wq+LsGhnjg=="
+secured: "cGx8/pms164xQt1qbKr8pxTlCEKLJJERdjU700a0QxX2zWNtzLN+o/1/5ciYnISDghMH8QIR4FZIA+1uXpJslZj9ju/CXVQ6c9Kx6lwbRLatoxz8SZ8FqhLo7gGDk6DwQviTd8jfY9mwW2B7Q29kycboIo1ht4pycsnd8e0Ur4Z2fBWIPjW5FXoP7Lk7ZuDQf3zfHm4NfJ9QVTU3jZP4ngfacNh/BLyandFr83hUvMCZ7VlExW44TkslSHMChCzj4ldiGrgtqPWbWdGskVwTe31v7JUzKyJBxGkYkKjcradVXUoS/18Isl+e4MYb3idB/Q1djJPj8e5mcEwPG4e9sbfDq69fegvLszo+gYz9wmw=;BnUbgJFwaHNLaorjqSdMpg=="
 ---
 

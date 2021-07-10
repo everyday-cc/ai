@@ -2,28 +2,24 @@
 category: news
 title: "AI predicts diabetes risk by measuring fat around the heart"
 excerpt: "A team led by researchers from Queen Mary University of London has developed a new artificial intelligence (AI) tool that is able to automatically measure the amount of fat around the heart from MRI scan images."
-publishedDateTime: 2021-07-07T12:46:00Z
-originalUrl: "https://medicalxpress.com/news/2021-07-ai-diabetes-fat-heart.html"
-webUrl: "https://medicalxpress.com/news/2021-07-ai-diabetes-fat-heart.html"
-ampWebUrl: "https://medicalxpress.com/news/2021-07-ai-diabetes-fat-heart.amp"
-cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-07-ai-diabetes-fat-heart.amp"
+publishedDateTime: 2021-07-10T15:00:00Z
+originalUrl: "https://www.sciencedaily.com/releases/2021/07/210707112427.htm"
+webUrl: "https://www.sciencedaily.com/releases/2021/07/210707112427.htm"
 type: article
-quality: 57
+quality: 47
 heat: -1
 published: false
 
 provider:
-  name: Medical Xpress
-  domain: medicalxpress.com
+  name: Science Daily
+  domain: sciencedaily.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI
-
-images:
-  - url: "https://scx2.b-cdn.net/gfx/news/2021/ai-predicts-diabetes-r.jpg"
-    width: 640
-    height: 410
-    isCached: true
 
 related:
   - title: "AI tool can measure fat around the heart and calculate one’s diabetes risk"
@@ -42,6 +38,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "AI predicts diabetes risk by measuring fat around the heart"
+    excerpt: "A team led by researchers from Queen Mary University of London has developed a new artificial intelligence (AI) tool that is able to automatically measure the amount of fat around the heart from MRI scan images."
+    publishedDateTime: 2021-07-07T12:46:00Z
+    webUrl: "https://medicalxpress.com/news/2021-07-ai-diabetes-fat-heart.html"
+    ampWebUrl: "https://medicalxpress.com/news/2021-07-ai-diabetes-fat-heart.amp"
+    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-07-ai-diabetes-fat-heart.amp"
+    type: article
+    provider:
+      name: Medical Xpress
+      domain: medicalxpress.com
+    quality: 57
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/2021/ai-predicts-diabetes-r.jpg"
+        width: 640
+        height: 410
+        isCached: true
   - title: "AI tool measures fat around the heart to predict a patient's risk of diabetes"
     excerpt: "A team led by researchers from Queen Mary University of London has developed a new artificial intelligence (AI) tool that is able to automatically measure the amount of fat around the heart from MRI scan images."
     publishedDateTime: 2021-07-08T00:35:00Z
@@ -58,16 +70,7 @@ related:
         width: 620
         height: 480
         isCached: true
-  - title: "AI predicts diabetes risk by measuring fat around the heart"
-    excerpt: "A team led by researchers from Queen Mary University of London has developed a new artificial intelligence (AI) tool that is able to automatically measure the amount of fat around the heart from MRI scan images."
-    publishedDateTime: 2021-07-10T15:00:00Z
-    webUrl: "https://www.sciencedaily.com/releases/2021/07/210707112427.htm"
-    type: article
-    provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 47
 
-secured: "4ofDTXwhAhMbVjMbViYx8o21bLAkfE6buHtgHXP6lcAAWg+sVoLU8YhR8p9OTFvBjYQ/IZ5N+MiX5rRQqLlg84uBx5IOmtL06MX7GoLlm/Z0nBvR3eB/jBuw05J3dXsxhTlhj9CyggoL4hllRbvjG91VZYCH8ADo6anJpMFwpuXwHU72pub5zWBa8nlDDpxTZffQZJvqMaNhf/4aPWNepN3OeEySwDwnoVTklDympaxrh0F9kjA+tNCpRos4sjP6j+y36atCXsWY1RL75L045sgB8e/xf6lpbdlk9jTzJwdSry0Eouq+Cy7DEj2ZMyq6u2aKvIdf+Dmpw4YIdoI2k/nF61Js5wkY6quN6yXmKeo=;cuNl1hApOiAd4qO7De0MUA=="
+secured: "MPo2E9PyZRQ6URHXpSvagpAWtVNsBLDfZNL0RTeDthhktBlICI1IU7RI1FSE9ezJYYDQwgsBGyUZeYfonCtfcRAJdoIlpGYjeuzRntrx/bD0+zV8t8huZq3oL4UtAKRcUP8kZjodcbkfoiC4lIbzGJCgnEmagnxV8z3tukrl1jr6HFvVYIil8lQmATt1Qm9qNg/Lbhc7MoUIqqs/HHxXuXoMoWcol/TxeqgLVD1Re4zxTacsgaiedjkfIxYZ8zFTCAlBDXQCvY0B9AuRyBEH+TBCdrgi/VxNcbeG8gwK7pa6R4ALB/fol+M8JLfg2KNM9QsdJHvtVAvmdVd/ClfiQpCRAEZHHZOlSjvb5jK2hdA=;XmkDZ7Pq1TZdC7cMUMwfHg=="
 ---
 

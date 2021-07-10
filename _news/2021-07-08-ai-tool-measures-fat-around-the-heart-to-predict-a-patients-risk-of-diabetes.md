@@ -58,6 +58,15 @@ related:
         width: 640
         height: 410
         isCached: true
+  - title: "AI predicts diabetes risk by measuring fat around the heart"
+    excerpt: "A team led by researchers from Queen Mary University of London has developed a new artificial intelligence (AI) tool that is able to automatically measure the amount of fat around the heart from MRI scan images."
+    publishedDateTime: 2021-07-10T15:00:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2021/07/210707112427.htm"
+    type: article
+    provider:
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 47
 
 secured: "F3lp9lrbd8r6YZA99wcBpYW+TQE9tPSu+NhPXPWhRuCCaJb+i+5eT7dTJ41WL/j/gyuE4v4qwwsHw0X3JJ9r2v1Zi+uhV7rHLBgfYbtEIVkbH4WoVmdn4TIG5wpSbhqyTSPecC2US1Zpj6sOhpRA2AkfDJUTd0iPsGhnUpVhP6evvKMlO8GTRC3teuWi30pOYiULk2YnUpoBkmmfLbpYVZ7ZZ3ICHH3P4QYGwmoaqXRX+OG7Qv59MEbkBpFwt36pkqN3zZohM+sVt2EEfjx/9s/PKme4mU+e4TH30ve3D6gci/dHqu/5axdC6lRZTr8c4hhhTJQuffAdBf4ueNfivaLx0ckMVzEhnyiCXtQU7N9YMs9jqXa91n0Xfd0HyuFMrF9pob+Om1XlZnYK4YghtmUWKoeXXIBzhZUO2HXht0pMYrBwaiGQ3vFwprQSbnwgjqn2zTAWvmRlucV8E/UOFBMzHpTMs4btErS7RdAZTxbeNZMCPgNifzxpAV/lf085iaQ10nuvYnPe03ROfdACyw==;DciV7ZiU3mWyNnNWvA585A=="
 ---

@@ -3,8 +3,8 @@ category: news
 title: "Vietnamese e-wallet MoMo picks up local AI startup in first acquisition deal"
 excerpt: "Vietnam’s top payment startup MoMo has made its first acquisition with the purchase of local AI startup Pique in a push to better capitalize the data of its 25 million registered users. The company, which is backed by global investors such as Warburg Pincus and Goodwater Capital,"
 publishedDateTime: 2021-06-30T02:10:00Z
-originalUrl: "https://www.techinasia.com/vietnamese-e-wallet-momo-makes-first-acquisition-with-purchase-of-local-ai-startup-pique"
-webUrl: "https://www.techinasia.com/vietnamese-e-wallet-momo-makes-first-acquisition-with-purchase-of-local-ai-startup-pique"
+originalUrl: "https://www.techinasia.com/vietnamese-e-wallet-momo-makes-first-acquisition-with-purchase-of-local-ai-startup-pique#!"
+webUrl: "https://www.techinasia.com/vietnamese-e-wallet-momo-makes-first-acquisition-with-purchase-of-local-ai-startup-pique#!"
 type: article
 
 provider:
@@ -18,6 +18,6 @@ provider:
 topics:
   - AI
 
-secured: "Mpx7wcO4ZKCH1IDrKLft7a7EZh3WhvOUOF43u14iHQaw5Z0W/MDpD3ZivuxVLHY9/FUaJ+JvnG96dLG08AKaoR2vY7aKQ1FDrgR9jBzdcDfZOXiiOaTtFiWU/8ykEpVXQc97WIR6oEzQrmaiH7LfW0j9FdfyBO9n3LXI0hL62J5Gtz80IijNer9gMMO2xMQ5UkaO8CNOO49YQMkqfYjALy33BR79orPX5UaPZN2SNcQB84FPBJBZNU0w3pOQsqtM/H0OtN0UIe/HO14wMjHye/GiMSzoKDKSNrmBkgd0gAAX+umOPIJwlpdnZzvQwQpZEFxS0Y6t0abrpRTdXjIFSyqBmt/nkQFpRhZdIjz+HMVGvWSj6eXOD7MtUhWBhAJzsRBl7Kr356UAwNpYztYMyIrMzzH16o7a2vSVg+dmYT2dfp6QicljUBzbKUywRyzetdCA85XqkM3709Y0CMF+lFK3xk4lgQgpqou01+2ERWMpLGsVBjRmVxsu8HEawbrWFGU6lZXeMKWnlpO0zcFeHg==;FurAcK7gHEZ4qF0Ge7A44g=="
+secured: "OyhFrLZ5q1dYO5RR66yTOuxb7QvTjk26pCXc9I4fvmKCYb2Ns70k24C0eowue/en8T+8iA3pFxFOQrZli3c/ngKEhj5C6YQBB8P2xS7D4ayOp7rhZFZCKDVyvg2lz6lMMqdcIokW7pB4ntBaF6Iab/4ZJDe2oPkCCTJpmOXmfylj2OCRsCO89WdswIIJ+kcGhuOX13fJcex/TLR4rlmpyhQGKsdT7xjRmUdoo2RRJbCf/UyJ2u+t7tU0JmZGtqkSc7vO5W5hK9/QEaCfF7JQir6cThOI//ZlwYYCWW7AImcLJfIb4GKPCM0/njIThknba72Almmbo5Hrqm7ECmqQChHFjfGq3QsX/iBBN8ybxJP6bu0tr/lB9OlZgCkcsnD17XquvWtU87YTcpgQ4/qWGEuMvpgZrmBSZ3lPoRMzChLVCGYi4+Lfzpr4tfPAnYN2RN07oBwkPBu0Hqc2r2x8V8CrFJGSQrj58BZPKX6MNdm7bK4HEKP9oRgkOZOCEJCD+uSJb/fxd0/bFqVc92JNnQ==;mfI/9an/133CwWPIm/ZV8g=="
 ---
 

@@ -2,9 +2,9 @@
 category: news
 title: "Writefull introduces new language models to support AI-based proofreading"
 excerpt: "The release gives users an AI-based language tool demonstrates an understanding of sentences that goes beyond grammar"
-publishedDateTime: 2021-07-07T18:24:00Z
-originalUrl: "https://www.kmworld.com/Articles/News/News/Writefull-introduces-new-language-models-to-support-AI-based-proofreading-147845.aspx"
-webUrl: "https://www.kmworld.com/Articles/News/News/Writefull-introduces-new-language-models-to-support-AI-based-proofreading-147845.aspx"
+publishedDateTime: 2021-07-07T17:50:00Z
+originalUrl: "https://www.kmworld.com/Articles/ReadArticle.aspx?ArticleID=147845"
+webUrl: "https://www.kmworld.com/Articles/ReadArticle.aspx?ArticleID=147845"
 type: article
 quality: 38
 heat: 38
@@ -24,6 +24,6 @@ images:
     height: 594
     isCached: true
 
-secured: "yd+kA7vGb1qvhW3NaLNCkjBqrQK04sus/jGX52sWdBsucayd/b7ic71T+edgYxLgEgQQMnjUUZJ66b8C93sxSwzQHRs7iVX/Y5qXH8XKsfcnf3lC7coQJmqYU3RT8j1jKTYM5JHJgFsA38ah5DJPVCCtFHOSaRc/HtbYZtit7E2vzYeVXYQTfMW8xOjvJzcYQJfHE+f7WrkqPSW+BGtJynQ1E6SMzj02So35KOP2dVeOwp+OOpbXPH+QLp9ljUqidJ60QeDlfgojK407JCcJNhjxPeDM/bMa5oewZa9nZdEvtGBjvPL02pcPnuWUC7Pu4LYUcx8EgYgiat0d5Dqvbzb5c9dsu/yBr6LTp3BRzC0=;Su6EkaFZ8ljG+zuugj6YMw=="
+secured: "66Um8MnhlIj+Q5svpquvnZLEo7rTbXNWZEmhEAyBB5FZ9/PtFRe23oxnODlBNRfmKxlfwbqH1B5vSmngb90KPMUBAYHX1temISLzQSr1AvHJMl/SCCTsTGPx0GYU1OjthR8yES1o1ieDL6wItc6matpJ6kJuEwIRQyz92mmkeR2yW3xgwp0sDI0hk8cpu1qpV9iwWOD/mPDj++tSPj4peH66zZjMKU5L4yQht2K8KNP7gKqPGt8AI4cQEjpZnf4xcchGWLf0VqIqkDqx/8VBzav17DmE5CSS/wYIVSRj4B32fwhv0ayjibrcgDF0BqmKbFgSSr6+J3Axb1CX7Xsi2xDezvfsSZlFQCR0uCQitQs=;L5nzZ2WWUMMJf7E8Oha1uA=="
 ---
 

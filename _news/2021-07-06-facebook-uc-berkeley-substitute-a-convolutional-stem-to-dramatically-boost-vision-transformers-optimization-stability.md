@@ -90,20 +90,6 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 28
-  - title: "AI/ML Innovations Inc. Engages Volt Strategic Partners and TDM Financial for Capital Market Communications and Market-Making Services"
-    excerpt: "Volt Strategic is a market communications and business optimization firm working with senior business leaders and innovators to help grow organizational value, build business and accelerate market appreciation for emerging technology,"
-    publishedDateTime: 2021-07-05T21:46:00Z
-    webUrl: "https://www.bignewsnetwork.com/news/270183213/aiml-innovations-inc-engages-volt-strategic-partners-and-tdm-financial-for-capital-market-communications-and-market-making-services"
-    type: article
-    provider:
-      name: Big News Network.com
-      domain: bignewsnetwork.com
-    quality: 25
-    images:
-      - url: "https://cdn.bignewsnetwork.com/cus1625723058560.jpg"
-        width: 630
-        height: 420
-        isCached: true
   - title: "How artificial intelligence helped Phoenix find a new physical therapy location in Wichita"
     excerpt: "The tool analyzes foot traffic from cellphones, collecting anonymous geolocation and proximity data from devices that share information."
     publishedDateTime: 2021-07-06T21:10:00Z

@@ -39,20 +39,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence In Genomics Market Size Volume, Share, Demand growth, Business Opportunity by 2027"
-    excerpt: "The global Artificial Intelligence In Genomics market size was valued at US$ 304 million in 2020 and is projected to reach US$ 2,675 million by 2027, rising at a market growth (CAGR) of 53.8% during the forecast period."
-    publishedDateTime: 2021-07-05T22:02:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-genomics-market-size-volume-share-demand-growth-business-opportunity-by-2027-2021-07-05"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 51
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Global Healthcare Artificial Intelligence Market Size, Status and Forecast 2021-2027"
     excerpt: "Pages Report] Check for Discount on Global Healthcare Artificial Intelligence Market Size, Status and Forecast 2021-2027 report by QYResearch Group. AI in healthcare has huge and wide reaching potential"
     publishedDateTime: 2021-07-09T07:53:00Z
