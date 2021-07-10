@@ -2,7 +2,7 @@
 name: "Biofourmis"
 overview: "Biofourmis is a fast-growing global health IT start-up founded in Singapore that augments personalized patient care and therapies with Digital Therapeutics for better management of patients with complex chronic conditions. The company discovers, develops and delivers clinically validated software-based therapeutics to enable better outcomes for patients. These solutions include advanced tools for clinicians to deliver personalized care and cost-effective solutions for payers. Biofourmis has built Biovitals™, a highly sophisticated personalized artificial intelligence (AI)-powered health analytics platform that predicts clinical exacerbation days in advance before a critical event. Biovitals™ is the backbone of the company’s Digital Therapeutics product pipeline, which spans a number of therapeutic areas and disease states, including heart failure, acute coronary syndrome, COPD and chronic pain."
 type: "profile"
-heat: 50
+heat: 42
 
 website: http://www.biofourmis.com/
 
@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "biofourmis"
   url: "https://twitter.com/biofourmis"
-  followers: 747
+  followers: 746
 
 size: 51-200 employees
 yearFounded: 2015
@@ -46,6 +46,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=ui5HSwZJcvw"
 
-secured: "B4+7i2KYh52jNbMzwjzkLFmMhwqx49IoreiA15AakOUNoh/aQs5kRDPSD+wxd+rAD39DCha2GrThlVfoehaxLFFkH7gu2U3zz6p1i1Ac4YoGIrnvuYDWhg+zzp01mG/YwFA+L/TFzRGyorhecv2egC5ABaUb3gWRAPvRYreMru4KZLQDJctOdRVpqpJNLe1aAGiv0L4VOq4m8D+T/lpCp8pl7EA36khPpjWp+K17JBFAMNBZ4Ktdxwb967tJTcY9MxlUmAM2RrW/qHNWzUQAa0gIOYIieLeuIh1uwaYHLHCXxlPdAhovMbf819qjtjV+/Uf0yuACHQ9Hci6/M4fjiZljJKkTtrTLQyRff/SxmXs7KBycsj5qQ0yVMGhiQlC39Hi2QYGn537NkPxc8M3ZEA==;0sIuTRSlk4S5+vN56Xwf1w=="
+secured: "4058CBcTr0mNStWa8m6Njq3kRpVJkMrlTMN8pYkkHAUDKmHAntSDD8dn6XL+5++doZnbzHsIHsILRwSj33JETJdHL3nP7DFPj/AwMcT2ltFzUxgUkdpjFsfbpTBkTneGX7iDJ1NdjFFBy2twru9VQMgCs4OMKx1YC9xfxIOuPJh87rvKYJGA/l5yGULgeQyiD407C9/wMJ1PNB1PijyNHqvCtRTMZfSpKh/tCDUS96iEy9Wnu9+rC93jJbI9zh1V4eosrctSs/QA7bPHgPh4x16LojHKV3AWDWnXmn2T2IpaLjZ/QlXL6JJSRdI/Demi/SiMxcTEzAtYp3Y13G8RLg8Tzz7kR8L1aTqwWV3hJ1IigFrHFs0EhJ4Gux3LtYOPy6LO+qVr1GNg+qKXfEcaoA==;p3nCjPZeGdPtfKf3PyEXyw=="
 ---
 

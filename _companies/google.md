@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "GoogleAI"
   url: "https://twitter.com/GoogleAI"
-  followers: 1602978
+  followers: 1602994
 
 size: 10,001+ employees
 yearFounded: 1998
@@ -37,6 +37,6 @@ images:
     isCached: true
     title: "Google"
 
-secured: "r6kDHPFshsflo0C2tDOiarGfreulF0DJEbR54j1qULhlSu0iRz6sV00wDc5+yN3qLqWNOdOfXObXvXE/+RCxK2PKJEf0nuwpqvFzaN2iZqnsiTHVnzQVzDVc/FjCaSA6Oge4NO45CkTwsPnJ/T9Fqf4wJT0vuBgvPmFAJvD+Kgzn5k/r2aZMBgHTxSw/N8o4GAVeCfQpekqi1kc+7BC/PpR5QO7C+jvCl43svGx8SnXEo0rd2AYShG/1VFQCN/0VLXDhozp7QCKDJ+CAjcpCPTiZuKfT3q21h08XHlUqACijS/5ARjzTD961MqicmVIHhmE5XsWPUAolMYefHbcGxGHgNb/5sxPPpXgm/TnTZulMATDzkooP+HTfE2RQgBSbpOjgHxcACiNHzVCPtOBTCvpfSJD7fFIGOjU5Y2ST5Ow=;OCdmzJpR+KfhxSAoT4O6CQ=="
+secured: "BBlcw2RTX5ZQjFkADEShcT+LA5gpgYuuszIoguH+YGMw2tJ0R0fI4wBBs5880QmChEY4QuCIAAoQKidDwYwazaOZNbAWob+NF+6f/U0KMYpqm1GGQSLU810GyS0rJRDuoqxDCSN085Ir8J+I6rMujCDD8ZEENzwOneAzHgV5X786WC6196/qzhKF/0L2OXnk0XHWf67+u9c5jHQZT6iU60iIFdjOhKgMxy0qkWBgwjxrKHZY6poLECRN6ey+Jc/fr6+3uz3Kx6SOBuM4jlHjNk5uqSTiAK3pADnhfxAGe142rgI7gxots+6iUUms5wy7lz6s1pJLFBusYXw+ZduSDMAOFyVKQGExAMyGldx3hY5b8zCf51YTsIElKBw8/04iPrYrxECvBypV4227k3A4ZncjG9Dc8dRNl1SmNPxtc0Y=;ZYw1Pu+uQffjXaAsqoxngw=="
 ---
 
