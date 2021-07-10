@@ -3,8 +3,8 @@ category: news
 title: "Microsoft Announces the General Availability of Azure Arc-Enabled SQL"
 excerpt: "Microsoft announced the general availability as per the end of July of Azure Arc-enabled SQL, which extends the Azure SQL instances to be hosted on an edge data center or in a multi-cloud environment."
 publishedDateTime: 2021-07-09T11:26:00Z
-originalUrl: "https://www.infoq.com/news/2021/07/azure-arc-enabled-sql/?topicPageSponsorship=2888c1db-c3be-4248-b672-7cad0fa75c10"
-webUrl: "https://www.infoq.com/news/2021/07/azure-arc-enabled-sql/?topicPageSponsorship=2888c1db-c3be-4248-b672-7cad0fa75c10"
+originalUrl: "https://www.infoq.com/news/2021/07/azure-arc-enabled-sql/"
+webUrl: "https://www.infoq.com/news/2021/07/azure-arc-enabled-sql/"
 type: article
 quality: 69
 heat: -1
@@ -192,7 +192,7 @@ related:
   - title: "Insight Wins 2021 Microsoft Worldwide Partner of the Year Awards for Azure Migration and Solution Assessments"
     excerpt: "Insight Enterprises (NASDAQ:NSIT), the global provider of Insight Intelligent Technology Solutions™ for organizations of all sizes, today announced it has won two 2021 Microsoft ( News - Alert) Worldwide Partner of the Year Awards as Migration to Azure Partner of the Year and Solution Assessments Partner of the Year."
     publishedDateTime: 2021-07-09T16:07:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-insight-wins-2021-microsoft-worldwide-partner-the-year-/2021/07/09/9406115.htm"
+    webUrl: "https://www.tmcnet.com/usubmit/2021/07/09/9406115.htm"
     type: article
     provider:
       name: TMCnet
@@ -208,6 +208,6 @@ related:
       domain: tmcnet.com
     quality: 14
 
-secured: "rpIuDER8IZX78j4wAzr21BLl1XolUJekABkM3R7rRRVAy2NOQct35+b2jaL+rVnNZkKKMMZO8Rpl4dMe+nlJBZIpeMqrWspO56CG8X6UmNy94fR6Nck0slqQX89vp1hiMHehWqSWrHmjJfW3VGrYLGqDhibe+khXS9aYLZFBxlnSeitK8xeR483KpRbhtfQH/1uaax7ywwQjMjbthSI3mUtP8CaIx0t62oRg76F3AnY5thsOOfbGWhQpHRjGDGdldhYAdlgCw9XQ0q0PU83G6zexAwqNwqOd5POQ4TZuiZUkkITiD+oWral7G3O7DNmBB0mis2EzrHTnqelAoESlBA62Kh8GslodPEN6TOqEKuM=;6BtV3LbRfqHIVjOiMC3hnA=="
+secured: "PKd+dHfEhwG92Mrn7KY2y21R++KZ7Vgk7xbTstz27iVlbnmL8LESYpqPY+GUyiK7IorSfTZdEeb9xduCHHM4G+Ut19YyxjnR2PXlg2CQUt7RU/WYAXdCMeKwnlaQJvnJ3Jtls81K6rdBptKnyLxkXqwjg9feZQy3p+Ow1ILol/GP3nCYbTguTXzZ88YNaXoMyudLxcS3exqD05HkyV/cVjPMBW70098Z7oTbvXPhun+DdliBTPCFs6CQfbC19xd38tet6yxAwXoteBeKgqvOl5YRl2/9NZKyhf98wp6J/qga94pConhP5AY5KbF9dBVo4f+Qp4aACAChEjHQcvaqNcBzkJuDGnTu0BujRWzoYqc=;AFbEKQWJL1ugeBupCE9m4g=="
 ---
 

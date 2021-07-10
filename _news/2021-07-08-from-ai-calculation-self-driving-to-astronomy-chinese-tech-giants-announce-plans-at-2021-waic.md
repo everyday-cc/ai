@@ -7,7 +7,7 @@ originalUrl: "https://www.globaltimes.cn/page/202107/1228142.shtml"
 webUrl: "https://www.globaltimes.cn/page/202107/1228142.shtml"
 type: article
 quality: 27
-heat: 27
+heat: -1
 published: false
 
 provider:
@@ -25,19 +25,33 @@ images:
     isCached: true
 
 related:
-  - title: "Freetech Bags Fresh Capital to Market Less-Advanced Self-Driving Technology"
-    excerpt: "Chinese self-driving car firm Freetech has raised more than $100 million in a series A funding round led by state-backed China Internet Investment Fund, showing that investors are still keep despite the company having less advanced technology than bigger rivals like Baidu and AutoX."
-    publishedDateTime: 2021-07-07T10:48:00Z
-    webUrl: "https://www.caixinglobal.com/2021-07-07/freetech-bags-fresh-capital-to-market-less-advanced-self-driving-technology-101737249.html"
+  - title: "How does AI magic make old Chinese movies look new?"
+    excerpt: "AI technology is giving old Chinese movies a brand-new look and lending film restorers a helping hand to sail through an otherwise slow and tedious process. Before the age of digitization, film preservation was a mammoth undertaking involving cleaning,"
+    publishedDateTime: 2021-07-10T04:56:00Z
+    webUrl: "https://news.cgtn.com/news/2021-07-10/How-does-AI-magic-make-old-Chinese-movies-look-new--11Kxz1ZIPwA/index.html"
     type: article
     provider:
-      name: Caixin Global
-      domain: caixinglobal.com
-    quality: 22
+      name: CGTN
+      domain: cgtn.com
+    quality: 39
     images:
-      - url: "https://img.caixin.com/2021-07-07/1625649283964088_560_373.jpg"
-        width: 560
-        height: 373
+      - url: "https://video.cgtn.com/news/2021-07-10/How-does-AI-magic-make-old-Chinese-movies-look-new--11Kxz1ZIPwA/video/7423670ea8cc4052822ce828b65a0849/7423670ea8cc4052822ce828b65a0849-1280.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "With the help of AI, classic Chinese movies get a facelift"
+    excerpt: "Artificial Intelligence (AI)-powered restoration technology breathes a new life into Chinese films and documentaries of the bygone years. Before the age of digitization, technicians needed to manually transform footage recorded on a film stock into a digital format – frame by frame for high quality restoration."
+    publishedDateTime: 2021-07-10T05:33:00Z
+    webUrl: "https://news.cgtn.com/news/2021-07-10/With-the-help-of-AI-classic-Chinese-movies-get-a-facelift-11MoRwb1KaQ/index.html"
+    type: article
+    provider:
+      name: CGTN
+      domain: cgtn.com
+    quality: 37
+    images:
+      - url: "https://video.cgtn.com/news/2021-07-10/With-the-help-of-AI-classic-Chinese-movies-get-a-facelift-11MoRwb1KaQ/video/7423670ea8cc4052822ce828b65a0849/7423670ea8cc4052822ce828b65a0849-1280.jpg"
+        width: 1280
+        height: 720
         isCached: true
 
 secured: "JokDEHR1UjfsviUY8AvCuzzorUF3nkVtoNrrh8wMfYEjrlZj5QyQq2VOoMdGP9lH3iwFrrBI1xpew/75oirkQ74JsUBEF+n+tknrR6g9T17tl/S8B1M2KqX663hiLgiXC375zYRfqOyW9W3KYvXsVN5G70d0XjgN+/+WDlacnxIo1nWxqPfR71jk7a9Rl2PlpeExzIOvx8wcC66HKk2T2ywJazY1Ug30+tu/4aeoFjsGru6vKC5RJ3hK6wxKV805LU0MfumOshHQcxd2NAB3vGMwLEM4tinm0COqwuAqFR+PPKfaJYgadN2E1FSbIHgRw50jhb2raxus306Ms+I0bgqaLTRjWvbZ2sdqXk8NXDx2Xo4jDh5v3blnrnYtrbPjazIarJZHkKTk4e4UHIONbcsxrq0EKegv/xTm8fyfq84Axk0agFHc8BEZY3pAeWqCXb3uSz8tG59jEByOgw4AF7V+GBEVmgRjz+9Rz/g8ltxHexIau3TM2doxZkdN1UyUMkPQ9OPxaEEZY45mDzv9Wg==;EOQ0xOJFrPzFI7puJZ1eVQ=="

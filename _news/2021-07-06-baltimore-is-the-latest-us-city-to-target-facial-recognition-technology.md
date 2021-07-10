@@ -43,6 +43,20 @@ related:
         width: 1500
         height: 860
         isCached: true
+  - title: "Long-forgotten Maine veteran gets graveside recognition 207 years later"
+    excerpt: "His marble stone, worn by nearly 200 Maine winters, is now almost unreadable in Portland’s Eastern Cemetery. Over the years, Briggs, and his service to his young country, were forgotten. Now, 207 years after his heroic deeds — thanks to a loose-knit network of unpaid volunteer history sleuths in Maine,"
+    publishedDateTime: 2021-07-10T05:00:00Z
+    webUrl: "https://bangordailynews.com/2021/07/10/news/long-forgotten-maine-veteran-gets-graveside-recognition-207-years-later/"
+    type: article
+    provider:
+      name: Bangor Daily News
+      domain: bangordailynews.com
+    quality: 39
+    images:
+      - url: "https://i2.wp.com/bdn-data.s3.amazonaws.com/uploads/2021/07/battle-platsburg-1.jpg?fit=1024%2C672&#038;ssl=1"
+        width: 1024
+        height: 672
+        isCached: true
   - title: "New state laws require more police transparency, limit use of facial recognition technology"
     excerpt: "One of the laws makes Maine the first state in the country to apply strict limits on facial recognition technology."
     publishedDateTime: 2021-07-10T01:14:00Z

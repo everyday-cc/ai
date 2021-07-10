@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/peggyannesalz/2021/07/07/three-experts-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/peggyannesalz/2021/07/07/three-experts-offer-fintech-app-marketing-tips-you-can-bank-on/amp/"
 type: article
 quality: 106
-heat: 266
+heat: 256
 published: true
 
 provider:
@@ -61,20 +61,6 @@ related:
       - url: "https://cdn.openpr.com/U/7/U708590558_g.jpg"
         width: 750
         height: 500
-        isCached: true
-  - title: "Student finance fintech raises £1.1m in funding"
-    excerpt: "StepEx has raised £1.1 million in pre-initial funding, with the venture studio BBVA Anthemis Venture Partnership being the lead investor."
-    publishedDateTime: 2021-07-05T12:54:00Z
-    webUrl: "https://www.finextra.com/pressarticle/88425/student-finance-fintech-raises-11m-in-funding"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 54
-    images:
-      - url: "https://www.finextra.com/about/finextra-logo.png"
-        width: 512
-        height: 512
         isCached: true
   - title: "New Fintech Startups to Watch In 2021"
     excerpt: "Consumers expect more than just a transaction with minimal interaction when engaging with their financial products."

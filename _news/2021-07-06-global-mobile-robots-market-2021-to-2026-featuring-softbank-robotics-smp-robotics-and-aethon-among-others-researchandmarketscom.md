@@ -49,15 +49,6 @@ related:
         width: 780
         height: 468
         isCached: true
-  - title: "Insights on the Surgical Robots Global Market to 2026 - by Product, Application, End-user and Region"
-    excerpt: "The global surgical robots market exhibited strong growth during 2015-2020. Looking forward, the publisher expects the market to grow at a CAGR of 18.5% during 2021-2026. Keeping in mind the uncertainties of COVID-19,"
-    publishedDateTime: 2021-07-09T21:09:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/insights-on-the-surgical-robots-global-market-to-2026-by-product-application-end-user-and-region-1030594228"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 34
   - title: "Worldwide Mobile Robots Industry to 2026 - by Type, Component, End-users and Geography"
     excerpt: "The \"Mobile Robots Market - Forecasts from 2021 to 2026\" report has been added to ResearchAndMarkets.com's offering. The global mobile robots market is evaluated at US$11.404 billion for the year 2019 and is estimated to grow at a CAGR of 15."
     publishedDateTime: 2021-07-06T12:19:00Z

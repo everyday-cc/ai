@@ -67,7 +67,7 @@ related:
   - title: "Microsoft Announces the General Availability of Azure Arc-Enabled SQL"
     excerpt: "Microsoft announced the general availability as per the end of July of Azure Arc-enabled SQL, which extends the Azure SQL instances to be hosted on an edge data center or in a multi-cloud environment."
     publishedDateTime: 2021-07-09T11:26:00Z
-    webUrl: "https://www.infoq.com/news/2021/07/azure-arc-enabled-sql/?topicPageSponsorship=2888c1db-c3be-4248-b672-7cad0fa75c10"
+    webUrl: "https://www.infoq.com/news/2021/07/azure-arc-enabled-sql/"
     type: article
     provider:
       name: InfoQ
@@ -197,7 +197,7 @@ related:
   - title: "Insight Wins 2021 Microsoft Worldwide Partner of the Year Awards for Azure Migration and Solution Assessments"
     excerpt: "Insight Enterprises (NASDAQ:NSIT), the global provider of Insight Intelligent Technology Solutions™ for organizations of all sizes, today announced it has won two 2021 Microsoft ( News - Alert) Worldwide Partner of the Year Awards as Migration to Azure Partner of the Year and Solution Assessments Partner of the Year."
     publishedDateTime: 2021-07-09T16:07:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-insight-wins-2021-microsoft-worldwide-partner-the-year-/2021/07/09/9406115.htm"
+    webUrl: "https://www.tmcnet.com/usubmit/2021/07/09/9406115.htm"
     type: article
     provider:
       name: TMCnet

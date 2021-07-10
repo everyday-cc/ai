@@ -9,7 +9,7 @@ ampWebUrl: "https://blog.google/outreach-initiatives/google-news-initiative/laun
 cdnAmpWebUrl: "https://blog-google.cdn.ampproject.org/c/s/blog.google/outreach-initiatives/google-news-initiative/launching-ai-academy-small-newsrooms/amp/"
 type: article
 quality: 109
-heat: 149
+heat: 159
 published: true
 
 provider:
@@ -69,6 +69,20 @@ related:
       - url: "https://www.ept.ca/wp-content/uploads/2021/07/AI-3.jpeg"
         width: 724
         height: 483
+        isCached: true
+  - title: "Companies leading the way for artificial intelligence in the power sector"
+    excerpt: "Siemens AG and Vestas Wind Systems AS are leading the way for artificial intelligence investment among top power companies according to our analysis of a range of GlobalData data. Artificial intelligence has become one of the key themes in the power sector of late,"
+    publishedDateTime: 2021-07-07T12:37:00Z
+    webUrl: "https://www.power-technology.com/features/companies-leading-the-way-for-artificial-intelligence-in-the-power-sector/"
+    type: article
+    provider:
+      name: Power Technology
+      domain: power-technology.com
+    quality: 36
+    images:
+      - url: "https://www.power-technology.com/wp-content/uploads/sites/7/2021/07/Source-Franki-Chamaki-on-Unsplash-scaled.jpg"
+        width: 2560
+        height: 1920
         isCached: true
   - title: "Why Creating Value is a skill needed for the future with AI and Technology"
     excerpt: "Mckinsey in an article “Defining the skills citizens will need in the future world of work” has said, and I quote: add value beyond what can be done by automated systems and intelligent machines operate in a digital environment continually adapt to new ways of working and new occupations While I agree these are necessary,"

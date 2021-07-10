@@ -30,101 +30,62 @@ images:
     isCached: true
 
 related:
-  - title: "Text Analytics Market Top Vendors Analysis, Market Challenges and Geographical Analysis"
-    excerpt: "As per Global Market Insights, Inc. estimates, the global text analytics market size is expected to cross $20 billion by 2027. The global text analytics market share is slated to expand at an appreciable rate over the foreseeable future,"
-    publishedDateTime: 2021-07-09T12:07:00Z
-    webUrl: "https://www.marketwatch.com/press-release/text-analytics-market-top-vendors-analysis-market-challenges-and-geographical-analysis-2021-07-09"
+  - title: "automotive self driving chip Industry Updates 2021: Global Market by COVID-19 Impact Analysis"
+    excerpt: "Global Market Research Report on automotive self driving chip Market 2021 is a professional and in-depth complete study on the current state of the automotive self driving chip worldwide. It estimates and forecasts the market,"
+    publishedDateTime: 2021-07-08T20:01:00Z
+    webUrl: "https://manometcurrent.com/automotive-self-driving-chip-industry-updates-2021-global-market-by-covid-19-impact-analysis/"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 46
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Dell Technologies drives convergence of HPC, AI and data analytics with Omnia open source software"
-    excerpt: "Dell Technologies-developed open source Omnia software speeds and simplifies AI and compute-intensive workload deployment and management"
-    publishedDateTime: 2021-07-07T03:33:00Z
-    webUrl: "https://www.dqindia.com/dell-technologies-drives-convergence-hpc-ai-data-analytics-omnia-open-source-software/"
-    ampWebUrl: "https://www.dqindia.com/dell-technologies-drives-convergence-hpc-ai-data-analytics-omnia-open-source-software/amp/"
-    cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/dell-technologies-drives-convergence-hpc-ai-data-analytics-omnia-open-source-software/amp/"
-    type: article
-    provider:
-      name: Dataquest
-      domain: dqindia.com
+      name: manometcurrent.com
+      domain: manometcurrent.com
     quality: 45
     images:
-      - url: "https://www.dqindia.com/wp-content/uploads/2018/07/edge-computing.jpg"
-        width: 850
-        height: 400
+      - url: "https://manometcurrent.com/wp-content/uploads/2021/07/Facial-Rejuvenation-Market-390x220.jpg"
+        width: 390
+        height: 220
         isCached: true
-  - title: "Best Western Slashes Analytics Costs, Improves Operations Worldwide Using Amazon QuickSight"
-    excerpt: "The ability to share data and glean customer insights is essential to remaining competitive in a service-focused industry."
-    publishedDateTime: 2021-07-06T14:00:00Z
-    webUrl: "https://www.forbes.com/sites/amazonwebservices/2021/07/06/best-western-slashes-analytics-costs-improves-operations-worldwide-using-amazon-quicksight/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 44
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60b7e805d0694a403a7dd31b%2F0x0.jpg"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Scry Analytics Announces Its New Research and Development Center in Hyderabad, India"
-    excerpt: "Scry Analytics (\"Scry\") announced its new Research and Development (R&D) Center in Hyderabad, India that will begin operations by August 1, 2021. This will be the second"
-    publishedDateTime: 2021-07-09T07:00:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/21/07/p21910313/scry-analytics-announces-its-new-research-and-development-center-in-hyderabad-india"
-    ampWebUrl: "https://www.benzinga.com/amp/content/21910313"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/21910313"
+  - title: "COVID-19 Impact and Analysis|Artificial Intelligence Market In The Industrial Sector| Technavio"
+    excerpt: "Technavio has been monitoring the artificial intelligence market in the industrial sector, operating under the industrials segment."
+    publishedDateTime: 2021-07-06T02:50:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/21/07/n21849463/covid-19-impact-and-analysis-artificial-intelligence-market-in-the-industrial-sector-technavio"
+    ampWebUrl: "https://www.benzinga.com/amp/content/21849463"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/21849463"
     type: article
     provider:
       name: Benzinga.com
       domain: benzinga.com
-    quality: 17
-  - title: "World-leading paediatric hospital to use data analytics and real-time predictive AI to prevent avoidable deaths in children"
-    excerpt: "Top clinician at a leading ﻿UK children’s hospital believes the ﻿future of healthcare involves wireless monitoring ﻿and smart alarms﻿, both in hospital"
-    publishedDateTime: 2021-07-06T13:41:00Z
-    webUrl: "https://www.mynewsdesk.com/uk/isansys-lifecare-ltd/news/world-leading-paediatric-hospital-to-use-data-analytics-and-real-time-predictive-ai-to-prevent-avoidable-deaths-in-children-430788"
+    quality: 25
+  - title: "Global Machine Learning in Medical Imaging Market Size, Status and Forecast 2021-2027"
+    excerpt: "Medical imaging analytics tools become more readily available, providers are likely to find strong incentives to investigate the best way to integrate artificial intelligence/machine learning into their imaging strategies. Machine Learning in Medical ..."
+    publishedDateTime: 2021-07-09T07:46:00Z
+    webUrl: "https://www.reportsnreports.com/reports/4655615-global-machine-learning-in-medical-imaging-market-size-status-and-forecast-2021-2027.html"
     type: article
     provider:
-      name: mynewsdesk.com
-      domain: mynewsdesk.com
-    quality: 11
+      name: ReportsnReports
+      domain: reportsnreports.com
+    quality: 12
+  - title: "Impact of COVID-19 on Artificial Intelligence Market to Record Significant Revenue Growth During the Forecast Period 2021-2026"
+    excerpt: "The outbreak of covid-19 in the global market has made companies uncertain about their future scenario as the prolonged lock-down finds a serious economic slump. The latest survey on COVID-19 Outbreak-Global Artificial Intelligence Market is conducted to provide hidden gems performance analysis."
+    publishedDateTime: 2021-07-05T15:53:00Z
+    webUrl: "https://manometcurrent.com/impact-of-covid-19-on-artificial-intelligence-market-to-record-significant-revenue-growth-during-the-forecast-period-2021-2026/"
+    type: article
+    provider:
+      name: manometcurrent.com
+      domain: manometcurrent.com
+    quality: 9
     images:
-      - url: "https://resources.mynewsdesk.com/image/upload/c_fill,h_628,q_auto:good,w_1200/helq0hhhnjtuvez8ynsg.jpg"
-        width: 1200
-        height: 628
+      - url: "https://suprememarketresearchreports.files.wordpress.com/2020/10/global-1.jpg?w=622"
+        width: 622
+        height: 350
         isCached: true
-  - title: "Military Robots Market Analysis with Key Players, Applications, Trends and Forecasts to 2027"
-    excerpt: "which in result increase the demand for military robots. According to Artificial Intelligence and National Security, in 2008 Russian defense modernization agenda aims at robotizing 30% of its military equipment by 2025. As per Congressional Research ..."
-    publishedDateTime: 2021-07-07T03:39:00Z
-    webUrl: "https://www.reseller.co.nz/mediareleases/143682/military-robots-market-analysis-with-key-players/"
+  - title: "COVID-19 Impact Analysis of Self-driving Ships Market Report 2021 | Kongsberg, Rolls-Royce, ASV, DARPA, NYK Line"
+    excerpt: "Global Self-driving Ships Market research report provides the latest manufacturing data and future trends, enabling you to recognize results, revenue growth, and profitability. This industry report lists the top competitors and provides revolutionary strategic analysis of the key drivers of the market."
+    publishedDateTime: 2021-07-07T14:48:00Z
+    webUrl: "https://manometcurrent.com/covid-19-impact-analysis-of-self-driving-ships-market-report-2021-kongsberg-rolls-royce-asv-darpa-nyk-line/"
     type: article
     provider:
-      name: Reseller News
-      domain: reseller.co.nz
-    quality: 8
-  - title: "Data Analytics Platform, Opaque, Raises $9.5 Million Seed from Intel Capital and Race Capital to Unlock Encrypted Data with Machine Learning"
-    excerpt: "Opaque, the secure data analytics platform company, today announced $9.5M in seed funding, led by Intel (News - Alert) Capital with participation by Race Capital, The House Fund, and FactoryHQ. Opaque helps organizations to analyze encrypted data in the cloud using popular tools like Apache Spark,"
-    publishedDateTime: 2021-07-07T13:05:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2021/07/07/9404364.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
-  - title: "Global Artificial Intelligence Platform Market Size, Share and Analysis To Grow At An Annual Rate Of 56.6% Through 2024"
-    excerpt: "The report Artificial Intelligence Platform Market Size and Analysis maintains enhanced dynamics and is overshadowed by a top player across the globe. The research report provides Artificial Intelligence Platform Market Growth and information corresponding to market segments such as geographies,"
-    publishedDateTime: 2021-07-09T10:33:00Z
-    webUrl: "https://www.arnnet.com.au/mediareleases/144023/global-artificial-intelligence-platform-market/"
-    type: article
-    provider:
-      name: ARN
-      domain: arnnet.com.au
+      name: manometcurrent.com
+      domain: manometcurrent.com
     quality: 0
 
 secured: "u21L/xj7qWhC7XfdlIhWMxv57ObrrSzRkME9ht89usBam6Wdl1KJ/D3tY+eNYUqZuFoP2FZqB2PFV4OAV9Ed1m9MP/JUGpedei3r1S8k2Oo36Z3F6tm7mbC8kbFwufoZqp+FXVgw73A6j79lWRxl/YvWFGr0YkGXMYPVKvQDpUjZ/uV9nJvmbMRpxSQr9s0uHy4IGsCYx0RcxcpBhzx2mTSUB6mC016b+yrqohQGpcJUJClK5YHN++AKx9nw2XnJ4myAyI9OXuYs2q2GiuOY0V1fWooJdB3WMmYyutogzMv8I52xsBm/Q47qDuwHkle2Y5MsXstpJrFtb1JX3XWxvvh6nebGNhNGFWSAMV4A3CY=;1EZZQyqwSyyrAWgAh4yz0w=="

@@ -40,20 +40,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "How Hotel Experience can be Enhanced with Robotic Technology and AI"
-    excerpt: "COVID-19 turned the business upside down and forced a fresh dialogue about hotel employees and visitor safety, while robotics and artificial intelligence were \"interesting concepts\" for the future. Of course,"
-    publishedDateTime: 2021-07-05T11:55:00Z
-    webUrl: "https://www.cioapplications.com/news/how-hotel-experience-can-be-enhanced-with-robotic-technology-and-ai--nid-8067.html"
-    type: article
-    provider:
-      name: CIO Applications
-      domain: cioapplications.com
-    quality: 37
-    images:
-      - url: "https://www.cioapplications.com/newstransfer/upload/pvl09450308.jpg"
-        width: 450
-        height: 308
-        isCached: true
 
 secured: "CtpknmDVJleF1vVgtVo7cqnCXOMTCGtqXu32uqXvJrzb2XGkm7mHlJFGYfGgYYhosRffUjxjrsXWWYA7hSJDkKZf0mpObOnHOlDjHV6qm+o2FdddXI2hT1sGFkjgSljHjhHSdATV3BVDXGlpGS9HvVTnrAEhm+Rp1P4/E8xRKnsbCZgPzLtKCaEkE39fESLP84Tvq2G/PMrqhy96d7YeIQHDIUU1QM4U8+7H2QttwkJs9Wbq42Hc0UlePn86EKdG0CH/tb1H8h9qfJMgezr6GToH1KmQ9Kqok+kY4x8Mo7hwxvLuAEpQWvwZOhqBMeZ8sVCFp5pCIIzNmciLVm6nZgZi2YgL1zxu3uLmlntMgnU=;AJgIAEm2mU+PqcMgStRcUg=="
 ---

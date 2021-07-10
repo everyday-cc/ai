@@ -57,6 +57,20 @@ related:
         width: 612
         height: 355
         isCached: true
+  - title: "Long-forgotten Maine veteran gets graveside recognition 207 years later"
+    excerpt: "His marble stone, worn by nearly 200 Maine winters, is now almost unreadable in Portland’s Eastern Cemetery. Over the years, Briggs, and his service to his young country, were forgotten. Now, 207 years after his heroic deeds — thanks to a loose-knit network of unpaid volunteer history sleuths in Maine,"
+    publishedDateTime: 2021-07-10T05:00:00Z
+    webUrl: "https://bangordailynews.com/2021/07/10/news/long-forgotten-maine-veteran-gets-graveside-recognition-207-years-later/"
+    type: article
+    provider:
+      name: Bangor Daily News
+      domain: bangordailynews.com
+    quality: 39
+    images:
+      - url: "https://i2.wp.com/bdn-data.s3.amazonaws.com/uploads/2021/07/battle-platsburg-1.jpg?fit=1024%2C672&#038;ssl=1"
+        width: 1024
+        height: 672
+        isCached: true
 
 secured: "xN9mwLSHP/C4xFLyi6r+8aIqMxYLbtldJUg3Z+1nuEJCr1QizZKvT5jRRqvHxawFLGmVB04iejpzOK550RwT86S1ZTiecymaYMvobztkxSrm/6sBSzqxoLoT3x1HoC4joxNiEtLjBK3GMSpiQEOmM27k8TajX9txX1O/dZM7+PnVfAHuGgrAIQVdvhtJhhd4N7vs4MDknlUQk0+5Rsqj+2/CV4xDKMrV2H0mdPanM9mTnTAcEAwD15/JIDKsPDzXJ/cQw/30n/Bq0fC0og0/y9DXII8KM61Ky4VhoPi3uiPBm0Soa2kcv894Fy2paFWGWC8HNx5estscHR8jfkSKlP+C4TH/f4iaDKvxI684468=;LVYRJO+fFAKgtURrdqoBAA=="
 ---

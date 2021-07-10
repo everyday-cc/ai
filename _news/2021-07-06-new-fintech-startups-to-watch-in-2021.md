@@ -73,20 +73,6 @@ related:
         width: 750
         height: 500
         isCached: true
-  - title: "Student finance fintech raises £1.1m in funding"
-    excerpt: "StepEx has raised £1.1 million in pre-initial funding, with the venture studio BBVA Anthemis Venture Partnership being the lead investor."
-    publishedDateTime: 2021-07-05T12:54:00Z
-    webUrl: "https://www.finextra.com/pressarticle/88425/student-finance-fintech-raises-11m-in-funding"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 54
-    images:
-      - url: "https://www.finextra.com/about/finextra-logo.png"
-        width: 512
-        height: 512
-        isCached: true
   - title: "Fintech for a Better Future: 5 Trends that Are Improving Financial Service"
     excerpt: "For many people, financial technology is somewhat incidental. It’s a passing part of daily life: we interact with fintech when we send money online, check our bank balances with our mobile phones, or use an app to buy cryptocurrency."
     publishedDateTime: 2021-07-06T09:54:00Z

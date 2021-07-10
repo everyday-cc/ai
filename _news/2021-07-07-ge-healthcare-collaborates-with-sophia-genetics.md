@@ -62,15 +62,20 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Opinion: Shifting the paradigm toward delivering value with AI in health care"
-    excerpt: "Health care providers everywhere are put under unprecedented pressure by the pandemic to make sense of their work in ways that put patients first, at scale, while working within already challenging and complex work environments."
-    publishedDateTime: 2021-07-05T11:07:00Z
-    webUrl: "https://www.devex.com/news/sponsored/opinion-shifting-the-paradigm-toward-delivering-value-with-ai-in-health-care-100226"
+  - title: "New cross-border collaboration to boost innovation in Artificial Intelligence and Information Technology"
+    excerpt: "The BT Ireland Innovation Centre at Ulster University and ADAPT Centre at DCU sign a new partnership agreement that aims to support research mobility and innovation The ADAPT Centre at Dublin City University (DCU) and the BT Ireland Innovation Centre (BTIIC) at Ulster University have recently signed a Memorandum of Understanding (MoU) to foster future research and development collaboration in the broad areas of."
+    publishedDateTime: 2021-07-06T12:02:00Z
+    webUrl: "https://www.ulster.ac.uk/news/2021/july/new-cross-border-collaboration-to-boost-innovation-in-artificial-intelligence-and-information-technology"
     type: article
     provider:
-      name: Devex
-      domain: devex.com
-    quality: 16
+      name: Ulster University
+      domain: ulster.ac.uk
+    quality: 20
+    images:
+      - url: "https://www.ulster.ac.uk/__data/assets/image/0007/907099/pexels-markus-spiske-1089438.jpg"
+        width: 850
+        height: 567
+        isCached: true
 
 secured: "Bas7zJ/WHiAPaP1/qCQcLG7gjVTg96Nw8vDvc7jyA5qDCXiE9d4uACHmQD92RrrO1aZHFT/4yxYd7PMhD1zwsPdYtnFF1zNAVNt7gkGvnXcpFVDpZLGoZPqR9B8ZIcUOOACKMIDQZHRmWJVZ/ChbaYCXT5mh+JrYJuISsK6Pr/GnRc3IvUhhrRnvETJnJyGgL3NA362DT8nZbxkxq94Ycsi05Mpkm/4PRM5lL8N0tKfIQN6k2qnQ2Vy0IXEdqLdjDGnbA48RNGW3M/t2s3tkUzCRFjSklUTZETAjk95TrHqUs3XezsmGyJAsn5M6hPRXRUS54T/bzXQ0rGLv4VCqJMmJFmPuq3gyVVYLGXmJ5kc=;k5DIimkP1XQWUZpxf+ixHw=="
 ---

@@ -79,6 +79,20 @@ related:
         width: 724
         height: 483
         isCached: true
+  - title: "Companies leading the way for artificial intelligence in the power sector"
+    excerpt: "Siemens AG and Vestas Wind Systems AS are leading the way for artificial intelligence investment among top power companies according to our analysis of a range of GlobalData data. Artificial intelligence has become one of the key themes in the power sector of late,"
+    publishedDateTime: 2021-07-07T12:37:00Z
+    webUrl: "https://www.power-technology.com/features/companies-leading-the-way-for-artificial-intelligence-in-the-power-sector/"
+    type: article
+    provider:
+      name: Power Technology
+      domain: power-technology.com
+    quality: 36
+    images:
+      - url: "https://www.power-technology.com/wp-content/uploads/sites/7/2021/07/Source-Franki-Chamaki-on-Unsplash-scaled.jpg"
+        width: 2560
+        height: 1920
+        isCached: true
 
 secured: "grQ5X5sdpJDsKLEN36seEiqVETguKZP5A+8hYwjTfjLAE7ICE5k0l1AOjmXo4jF5ymgRmuRNR/Wjq01ahseNC0fnJIIYjU+fZeXDW3AWn8m9cZK6VZ/LvOIWa2SqII2Dx2gpHd7MqTjmxMN0rDZpJo9CEx5kwjr9+ntTr+VD8dO7egIqvxmJGpIgjBdlq2ovqtAVn5gorUZFJpAukR92Hh/GNLXrY1u3QeBdU9A9W5rIX6znUk/Na+0LdkKGaKZLvcYtJ+bEbMe1sY1MGaMRRUrLLcZxAMnL6xpOTP8NfjoVWGjW3sCmUTLsRsltv8DI4N77RZAQFpuVSTQSqrPfTyFrwt5hF0/FskUP1Rn8URI=;2fcVdog7ZSXFJBbseBpy2A=="
 ---

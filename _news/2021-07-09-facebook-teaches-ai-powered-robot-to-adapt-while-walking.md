@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/facebook-teaches-ai-powered-rob
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/facebook-teaches-ai-powered-robot-to-adapt-while-walking/"
 type: article
 quality: 174
-heat: 274
+heat: 284
 published: true
 
 provider:
@@ -56,6 +56,22 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60e79dd602c7bff56bca0980%2F0x0.jpg%3FcropX1%3D202%26cropX2%3D958%26cropY1%3D0%26cropY2%3D426"
         width: 756
         height: 426
+        isCached: true
+  - title: "Facebook’s AI researchers are teaching robots to walk like humans"
+    excerpt: "Rapid Motor Adaptation — is a “breakthrough” in artificial intelligence (AI). It allows robots to walk on sand, in mud, hiking trails, tall grass and over a dirt pile “without a single failure” during"
+    publishedDateTime: 2021-07-10T04:30:00Z
+    webUrl: "https://www.livemint.com/companies/news/facebooks-ai-researchers-are-teaching-robots-to-walk-like-humans-11625890467616.html"
+    ampWebUrl: "https://www.livemint.com/companies/news/facebooks-ai-researchers-are-teaching-robots-to-walk-like-humans/amp-11625890467616.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/companies/news/facebooks-ai-researchers-are-teaching-robots-to-walk-like-humans/amp-11625890467616.html"
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
+    quality: 59
+    images:
+      - url: "https://images.livemint.com/img/2021/07/10/600x338/ai2-kr9--621x414@LiveMint_1625891049034.jpg"
+        width: 600
+        height: 337
         isCached: true
   - title: "AI Allows Legged Robots To Adapt in Real-Time to Changing Conditions"
     excerpt: "Researchers from Carnegie Mellon University, the University of California, Berkeley, and Facebook AI didn't just teach a robot to walk — they taught it how to learn to walk."

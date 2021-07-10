@@ -72,6 +72,22 @@ related:
         width: 756
         height: 426
         isCached: true
+  - title: "Facebook’s AI researchers are teaching robots to walk like humans"
+    excerpt: "Rapid Motor Adaptation — is a “breakthrough” in artificial intelligence (AI). It allows robots to walk on sand, in mud, hiking trails, tall grass and over a dirt pile “without a single failure” during"
+    publishedDateTime: 2021-07-10T04:30:00Z
+    webUrl: "https://www.livemint.com/companies/news/facebooks-ai-researchers-are-teaching-robots-to-walk-like-humans-11625890467616.html"
+    ampWebUrl: "https://www.livemint.com/companies/news/facebooks-ai-researchers-are-teaching-robots-to-walk-like-humans/amp-11625890467616.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/companies/news/facebooks-ai-researchers-are-teaching-robots-to-walk-like-humans/amp-11625890467616.html"
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
+    quality: 59
+    images:
+      - url: "https://images.livemint.com/img/2021/07/10/600x338/ai2-kr9--621x414@LiveMint_1625891049034.jpg"
+        width: 600
+        height: 337
+        isCached: true
   - title: "How AI-Powered Robots are Helping the Food Industry"
     excerpt: "Human staff plays an integral role in the food robotics evolution. AI-powered robots will bring the future of highly personalized, healthy, fresh, and delicious food options to life. Thanks in large part to pandemic pressures,"
     publishedDateTime: 2021-07-07T17:26:00Z

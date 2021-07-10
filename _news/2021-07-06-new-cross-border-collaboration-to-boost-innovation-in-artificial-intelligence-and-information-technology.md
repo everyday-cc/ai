@@ -24,35 +24,56 @@ images:
     isCached: true
 
 related:
-  - title: "AI In Motion: Three Guardrails For Effective Implementation In Transportation (And Beyond)"
-    excerpt: "Transportation has seen massive transformation in recent years — from shifts in how we get from point A to B, to how we receive our groceries — with AI at the center of it all. The pandemic only accelerated demand for AI applications in transportation amidst widespread social distancing and shelter-in-place orders."
-    publishedDateTime: 2021-07-05T11:10:00Z
-    webUrl: "https://www.forbes.com/sites/forbescommunicationscouncil/2021/07/05/ai-in-motion-three-guardrails-for-effective-implementation-in-transportation-and-beyond/"
-    ampWebUrl: "https://www.forbes.com/sites/forbescommunicationscouncil/2021/07/05/ai-in-motion-three-guardrails-for-effective-implementation-in-transportation-and-beyond/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescommunicationscouncil/2021/07/05/ai-in-motion-three-guardrails-for-effective-implementation-in-transportation-and-beyond/amp/"
+  - title: "Fueling Healthcare Ai With Adaptive Collaboration"
+    excerpt: "Our product-focused team is busy defining and building the platforms and tools required to rapidly integrate models into the clinical setting, to bring the power of AI to the physician’s fingertips. Our ability to execute on these disruptive,"
+    publishedDateTime: 2021-07-07T03:01:00Z
+    webUrl: "https://www.cioapplications.com/cxoinsights/fueling-healthcare-ai-with-adaptive-collaboration-nid-8084.html"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 77
+      name: CIO Applications
+      domain: cioapplications.com
+    quality: 54
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60df26da339f52ef6e9735e5%2F0x0.jpg"
-        width: 1200
-        height: 774
+      - url: "https://www.cioapplications.com/newstransfer/upload/797zkiLkEKnaidu_ram_100533701.jpg"
+        width: 450
+        height: 308
         isCached: true
-  - title: "Motion Stimulation Therapy Market Share, Region Wise Analysis of Top Players, Applications And Forecast 2028"
-    excerpt: "The Global Motion Stimulation Therapy market study provides critical information related to the global, regional"
-    publishedDateTime: 2021-07-06T10:47:00Z
-    webUrl: "https://www.marketwatch.com/press-release/motion-stimulation-therapy-market-share-region-wise-analysis-of-top-players-applications-and-forecast-2028-2021-07-06"
+  - title: "GE Healthcare, SOPHiA GENETICS To Collaborate On Advancing Cancer Care"
+    excerpt: "GE Healthcare and SOPHiA GENETICS said that they have signed a letter of intent to collaborate on advancing cancer care, with the"
+    publishedDateTime: 2021-07-06T14:50:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/ge-healthcare-sophia-genetics-to-collaborate-on-advancing-cancer-care-1030582479"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 50
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 49
+  - title: "GE Healthcare collaborates with Sophia Genetics"
+    excerpt: "GE Healthcare and Sophia Genetics have announced that they are collaborating to better target and match treatments to each patient's genomic profile and cancer type using artificial intelligence."
+    publishedDateTime: 2021-07-06T21:30:00Z
+    webUrl: "https://www.auntminnie.com/index.aspx?sec=log&itemid=132842"
+    type: article
+    provider:
+      name: AuntMinnie
+      domain: auntminnie.com
+    quality: 39
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://www.auntminnie.com/user/images/content_images/sup_aic/2019_12_09_17_23_6730_artificial_intelligence_AI_suit_400.jpg"
+        width: 400
+        height: 400
+        isCached: true
+  - title: "Ai-Driven Care Coordination Advances Health Equity and Well-Being in Marginalized Communities"
+    excerpt: "A unique intelligent coordinated care system, C3S, is officially releasing its AI-driven platform 1.0, which will allow hospitals, health care providers and health"
+    publishedDateTime: 2021-07-08T11:30:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/ai-driven-care-coordination-advances-health-equity-and-well-being-in-marginalized-communities/article_d88add05-5d98-5ccd-a71d-522e75e091a4.html"
+    type: article
+    provider:
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 28
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
+        width: 1280
+        height: 720
         isCached: true
 
 secured: "d1TzhFCYajJdcWpGZVJD30fIG+ET9zcqN1T9LIXL/dtyXblWZj3Lt1Wgevsa7q8KvTvaQDQGhdABdF0TLMXXeQZE3eQwBIJRT1rduS3cTT9q+olnazmMwtCV5N1pOVAlNsYJ4z5ZSxCUcGWazxyujg76tVI6NyXzvK5MrwRHLZ6lTrOFnWrwY8CsQLdFR2q4Uyteb5Kt+HT2YOenSB2StHzEaEdG3QoOe3Qu5wOFOE8LDsQ5oAG2L/G4Q89o8DBYynLS10WjJcyzBSA3tR7FuKDXD/UzEeHLtCMFP6S0Q4GX25Rm/V3uU5ke2OZ2w52W0zPnmto1BRFSqowkzZwj+Yl4PdOXmNN4+wjD6tg2iQI=;dixdToY+VAPIgx10VDThPQ=="

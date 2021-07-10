@@ -62,15 +62,20 @@ related:
         width: 400
         height: 400
         isCached: true
-  - title: "Opinion: Shifting the paradigm toward delivering value with AI in health care"
-    excerpt: "Health care providers everywhere are put under unprecedented pressure by the pandemic to make sense of their work in ways that put patients first, at scale, while working within already challenging and complex work environments."
-    publishedDateTime: 2021-07-05T11:07:00Z
-    webUrl: "https://www.devex.com/news/sponsored/opinion-shifting-the-paradigm-toward-delivering-value-with-ai-in-health-care-100226"
+  - title: "New cross-border collaboration to boost innovation in Artificial Intelligence and Information Technology"
+    excerpt: "The BT Ireland Innovation Centre at Ulster University and ADAPT Centre at DCU sign a new partnership agreement that aims to support research mobility and innovation The ADAPT Centre at Dublin City University (DCU) and the BT Ireland Innovation Centre (BTIIC) at Ulster University have recently signed a Memorandum of Understanding (MoU) to foster future research and development collaboration in the broad areas of."
+    publishedDateTime: 2021-07-06T12:02:00Z
+    webUrl: "https://www.ulster.ac.uk/news/2021/july/new-cross-border-collaboration-to-boost-innovation-in-artificial-intelligence-and-information-technology"
     type: article
     provider:
-      name: Devex
-      domain: devex.com
-    quality: 16
+      name: Ulster University
+      domain: ulster.ac.uk
+    quality: 20
+    images:
+      - url: "https://www.ulster.ac.uk/__data/assets/image/0007/907099/pexels-markus-spiske-1089438.jpg"
+        width: 850
+        height: 567
+        isCached: true
 
 secured: "Br8aWZJZ2TSA4Pyds6T6ZqHE4hPAH8sNphSbgkvodQWkpVDBrEo/tBNn9yrI4irQ5I+o2oEnT2K3xmCv11rJP8b/7vwfW2i/Pg0ccw/urjZccVoiyZlPKpR3FPsK2jon+vS23C5liBaFxMfvSh1Dn0E3HbbfloQVDyeFGMKi717GmkbSzySqet7QT/DW2SJr8Wz4qqlW8hfvyztOKheD/sSOPiPFyKr+dTxXBiB7dvD5yZHhtF1LFD4ScK7elvdKgAmWfs7C7myZ7i8WLWRpVbi9sXN4SODd77wNtph4OKPSDbWk72ej0B4FargzaA39LfIhuV/e09NeN3MEo4CLbZVVTw5/Vca3TKVGHKFmUqQ=;xGvduvg8MHnX446+/qtCew=="
 ---
