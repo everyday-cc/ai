@@ -129,15 +129,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 51
-  - title: "Deep Learning Market Size and Growth to 2028 | Key Players – Amazon Web Services (AWS), Google, IBM, Intel, Micron Technology, Microsoft"
-    excerpt: "The Deep Learning Market report forecasts promising growth and development for the period 2021-2028. The Deep Learning market research report defines key statistical data presented in an organized format including graphs,"
-    publishedDateTime: 2021-07-06T03:55:00Z
-    webUrl: "https://manometcurrent.com/deep-learning-market-size-and-growth-to-2028-key-players-amazon-web-services-aws-google-ibm-intel-micron-technology-microsoft/"
-    type: article
-    provider:
-      name: manometcurrent.com
-      domain: manometcurrent.com
-    quality: 35
   - title: "Qlik Recognized as a Finalist of 2021 Microsoft Analytics Partner of the Year Award"
     excerpt: "Qlik ® today announced it has been named a finalist of the 2021 Microsoft Analytics Partner of the Year Award. The company was honored among a global field of top Microsoft partners for demonstrating excellence in innovation and implementation of customer solutions based on Microsoft technology."
     publishedDateTime: 2021-07-08T19:02:00Z
@@ -189,6 +180,6 @@ related:
       domain: tmcnet.com
     quality: 14
 
-secured: "eMB+Y6uiGj6UcSKr5um7Wcwb6Odlqpv0HZ6rwP/qQFHFnsgucj1CQQYknfBILqgwHAkj9nts9Vo2vMLUDmPQQ80WlzKdrRlJaAnplP2MJYFmZB5oT1kphDnmnh2DooUJLWO8mX11JLXjWvP9y7oRC88ZjZ1wxV+Q1HnUjV+hjbGp+lXBAhjThZE++1OMQqg159c38ctc0Yz/btkz17TwNTHax0BG0h1zI/u96tY9WLwOhh+cYxGxn1Lv2R754iBByLValuIl/Hk8DGVCuAaHtHhQml2J3c4k7bfoYVl/rrBi6ieBEM65UVrCzWF64xuBa9yUJk83klhNHRKaqpdafJ38MJO9iu5eCUY6DX89U8k=;+8GIGlJ46SdDfwSz3YPvcQ=="
+secured: "1PoCTUNjWqJsKiYajWcxpx5LPUXa5d6nJuY+CZMvWKWYItZ7pA3QA1FVc8Jndg/xbgm7SKAZqQWNbhjATke/vcY39jn04wiyXzO5miqghxiBKLba6HIHlx+EvbxHFMshlXSoKJA5bH+0vPLnKDALIqRLXd3zezkyPQmJttVO58eppFEHz3nNYuScmK85FLHR7FYEQuqcEGhR20YVcXKWn6LvtcPWBmbai59xVRKkuOOlN/ks74X+grrRE4xn+6dtPiUiVX0601Zugx6OwWfhQoDPRcRRo4DkBjmDCA/WsvnwKZIhDpWXSA5dxEfMPBP+l18hCKlakqgZMQAteO248bzhaR+cztcVayle1gNrNQQ=;D15XYUNneI98CGGPuuXLOw=="
 ---
 

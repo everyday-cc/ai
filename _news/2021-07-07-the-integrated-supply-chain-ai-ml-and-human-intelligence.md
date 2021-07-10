@@ -42,22 +42,6 @@ related:
         width: 1200
         height: 648
         isCached: true
-  - title: "Technology and AI for humanitarian action are the need of the hour"
-    excerpt: "With the technology available to us, much more can be done to reduce losses from natural disasters, to make ourselves safer, and to make the world mor.."
-    publishedDateTime: 2021-07-06T03:44:00Z
-    webUrl: "https://cio.economictimes.indiatimes.com/news/strategy-and-management/technology-and-ai-for-humanitarian-action-are-the-need-of-the-hour/84162486"
-    ampWebUrl: "https://cio.economictimes.indiatimes.com/amp/news/strategy-and-management/technology-and-ai-for-humanitarian-action-are-the-need-of-the-hour/84162486"
-    cdnAmpWebUrl: "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/strategy-and-management/technology-and-ai-for-humanitarian-action-are-the-need-of-the-hour/84162486"
-    type: article
-    provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 57
-    images:
-      - url: "https://etimg.etb2bimg.com/thumb/msid-84162486,imgsize-51057,width-800,height-434,overlay-etcio/technology-and-ai-for-humanitarian-action-are-the-need-of-the-hour.jpg"
-        width: 800
-        height: 434
-        isCached: true
   - title: "Diversity key as AI increasingly integrated into automotive safety systems"
     excerpt: "That is, female-figure dummies or those mirroring the size and physique of young children were often excluded from critical vehicle safety testing. \"What ended up happening is that these safety settings,"
     publishedDateTime: 2021-07-07T16:19:00Z

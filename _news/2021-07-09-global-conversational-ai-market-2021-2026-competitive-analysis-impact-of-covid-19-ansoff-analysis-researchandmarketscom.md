@@ -38,6 +38,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "5 healthcare AI deals made in 2021"
+    excerpt: "Below are five of the biggest healthcare AI deals Becker's Hospital Review has reported on in 2021: Microsoft will buy speech recognition company Nuance Communications in an all-cash transaction valued at $19."
+    publishedDateTime: 2021-07-06T21:34:00Z
+    webUrl: "https://www.beckershospitalreview.com/artificial-intelligence/5-healthcare-ai-deals-made-in-2021.html"
+    type: article
+    provider:
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 54
+    images:
+      - url: "https://www.beckershospitalreview.com/images/channels/artificial-intelligence/5.jpg"
+        width: 400
+        height: 300
+        isCached: true
   - title: "Global Healthcare AI Startups Development and Deployment Strategies Report 2021 - ResearchAndMarkets.com"
     excerpt: "The “Development of Global Healthcare AI Startups and Their Deployment Strategies” report has been added to ResearchAndMarkets.com’s offering. This report provides an overview of the development of healthcare AI startups by compiling the amount of capital raised by AI startups and the number of AI startups in different sub-sectors;"
     publishedDateTime: 2021-07-08T14:37:00Z

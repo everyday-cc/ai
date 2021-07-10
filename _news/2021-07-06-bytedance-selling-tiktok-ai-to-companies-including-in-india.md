@@ -9,7 +9,7 @@ ampWebUrl: "https://brandequity.economictimes.indiatimes.com/amp/news/digital/by
 cdnAmpWebUrl: "https://brandequity-economictimes-indiatimes-com.cdn.ampproject.org/c/s/brandequity.economictimes.indiatimes.com/amp/news/digital/bytedance-selling-tiktok-ai-to-companies-including-in-india/84165212"
 type: article
 quality: 59
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -58,20 +58,6 @@ related:
       - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-234626,msid-84197797/texas-power-grid.jpg"
         width: 600
         height: 450
-        isCached: true
-  - title: "ByteDance sells short video AI in India; and Pooja Goyal at Avishkaar on how gender bias starts early in STEM"
-    excerpt: "China's ByteDance, which is the parent company of TikTok, has started selling the AI technology of its short video app to other companies, including in India where the app is banned. And in today's tech conversation,"
-    publishedDateTime: 2021-07-06T04:49:00Z
-    webUrl: "https://www.forbesindia.com/audio/forbes-india-daily-tech-brief-podcast/bytedance-sells-short-video-ai-in-india-and-pooja-goyal-at-avishkaar-on-how-gender-bias-starts-early-in-stem/68957"
-    type: article
-    provider:
-      name: Forbes India
-      domain: forbesindia.com
-    quality: 18
-    images:
-      - url: "https://www.forbesindia.com/media/audio/2021/Jul/forbesindiatechbriefingpodcast_800x600_logo.jpg"
-        width: 800
-        height: 600
         isCached: true
   - title: "New Study Shows APAC Organizations Investing More, Making Maturity Gains in AI"
     excerpt: "Underscoring the research is the finding that nearly twice as many companies have now started their AI journey in 2020 compared to 2019, and those that have already started are showing more AI maturity,"

@@ -9,8 +9,8 @@ ampWebUrl: "https://electrek.co/2021/07/10/tesla-full-self-driving-beta-v9-first
 cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/07/10/tesla-full-self-driving-beta-v9-first-videos-release-notes/amp/"
 type: article
 quality: 87
-heat: 177
-published: true
+heat: -1
+published: false
 
 provider:
   name: Electrek
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Tesla finally launches Full Self-Driving beta 9"
+    excerpt: "Tesla's Full Self-Driving (FSD) beta 9 – or update 2021.4.18.12 – started rolling out at midnight on Friday, allowing users to activate some of Autopilot's advanced"
+    publishedDateTime: 2021-07-10T20:08:00Z
+    webUrl: "https://www.techspot.com/news/90377-tesla-finally-launches-full-self-driving-beta-9.html"
+    ampWebUrl: "https://www.techspot.com/amp/news/90377-tesla-finally-launches-full-self-driving-beta-9.html"
+    cdnAmpWebUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/90377-tesla-finally-launches-full-self-driving-beta-9.html"
+    type: article
+    provider:
+      name: TechSpot
+      domain: techspot.com
+    quality: 89
+    images:
+      - url: "https://static.techspot.com/images2/news/bigimage/2021/07/2021-07-10-image-8.jpg"
+        width: 2032
+        height: 1299
+        isCached: true
   - title: "Hacker shows what Tesla Full Self-Driving’s vision depth perception neural net can see"
     excerpt: "A hacker managed to pull Tesla’s vision depth perception neural net from his car with “Full Self-Driving” package. You can see how the vehicle detects depth with a point-cloud view powered ..."
     publishedDateTime: 2021-07-07T16:12:00Z
@@ -161,6 +177,6 @@ related:
       domain: tweaktown.com
     quality: 19
 
-secured: "FVWM8OED+fwsQKCWCYtDpTXxQTAtoCOIUz6shIWY3+ZEN71hInAXSkLXIeyTWDPBRNr2TL3VgDQVCIwAge6Y8joOhR61qEWx07MzhGxh2Gtran1kFj5+OMafnKxTz0CM1+r/Oi/LN35pLYzTBqcC+fX3pQwQeGz0rGy21E767GjIU4V7G8vXTjD2UHyrvgLdSiOfK13P5udKfdTRU+BILbAyRHUVGZCsBpJVWwqPOcmk0NXqUObnFW2HHtFNzUqSK0UiKof0wbMVKsQvSjHcpqqQ/perJDb90hz3a57Gmfk5WwEtoVSQut2zssq6cxoCsHup0EujyTBdoxcX8QkuIS5au+QrUz/AYK41/mIFyak=;g1XgyGHn+m6xr2utbH1Suw=="
+secured: "uH+/dqam+7fFGWtqxevy5uZy3sqiYrN0P4Jeq6AXVOvbavdr68KhwUazGlNoYzzoUvF6KHcU7npB9O5ckdOZUf5Ko9p6NOSKchKR2J4OtAcSCvwTcgXI43v7cV0pKbyq42UxiBiOpPtxuQ7BgwHJzoAWyIjl6y4HrsIMgZCMzA1k8PAwfLh8c8bRo4bt2IA4dCgX95QYMOLDoXw0nazjxw4FzlY9Kwmv0RwEfRn1UvFjRhl/JViosymjKXFt0lDn4BWcleC6ESo2+xHEkyYq/+G4E+4qd5yqcj+Jd+BhCOHi2RjCEoVK4Mdyiy2RRRPiSmeKmkTIY9RKjVAS0iVOJc/rYWyCFufXLvQXEHJt6cdremUxall47p1+qBGcQ3JJhj1cTTPZbuj2D1xGJ5Fz7Ov82/HZS4O0SdEYFX2TYKSv4eLJeWiz0dwARJNq7OOAQhNr85LElDYdjb7F/YoNW7Ur9yv3T9EhlE4Ky72j9sBCWDoCQZzPp8n+XShPDuIkaudV2JtDvsyPkTMKTWiixQ==;wwUtZDvsnItowpus1GxxaQ=="
 ---
 

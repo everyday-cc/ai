@@ -1,48 +1,36 @@
 ---
 category: news
-title: "Elon Musk Confirms Tesla’s Launch Date of Its Full Self-Driving Beta v9"
-excerpt: "Tesla fans may not have long to wait to get a taste of self-driving cars, as CEO Elon Musk has (finally) confirmed an official launch date of the Full Self-Driving Beta v9. In the early hours of Thursday,"
-publishedDateTime: 2021-07-08T16:35:00Z
-originalUrl: "https://observer.com/2021/07/elon-musk-confirms-teslas-launch-date-of-its-full-self-driving-beta-v9/"
-webUrl: "https://observer.com/2021/07/elon-musk-confirms-teslas-launch-date-of-its-full-self-driving-beta-v9/"
-ampWebUrl: "https://observer.com/2021/07/elon-musk-confirms-teslas-launch-date-of-its-full-self-driving-beta-v9/amp/"
-cdnAmpWebUrl: "https://observer-com.cdn.ampproject.org/c/s/observer.com/2021/07/elon-musk-confirms-teslas-launch-date-of-its-full-self-driving-beta-v9/amp/"
+title: "Tesla finally launches Full Self-Driving beta 9"
+excerpt: "Tesla's Full Self-Driving (FSD) beta 9 – or update 2021.4.18.12 – started rolling out at midnight on Friday, allowing users to activate some of Autopilot's advanced"
+publishedDateTime: 2021-07-10T20:08:00Z
+originalUrl: "https://www.techspot.com/news/90377-tesla-finally-launches-full-self-driving-beta-9.html"
+webUrl: "https://www.techspot.com/news/90377-tesla-finally-launches-full-self-driving-beta-9.html"
+ampWebUrl: "https://www.techspot.com/amp/news/90377-tesla-finally-launches-full-self-driving-beta-9.html"
+cdnAmpWebUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/90377-tesla-finally-launches-full-self-driving-beta-9.html"
 type: article
-quality: 59
-heat: -1
-published: false
+quality: 89
+heat: 189
+published: true
 
 provider:
-  name: Observer
-  domain: observer.com
+  name: TechSpot
+  domain: techspot.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://observer.com/wp-content/uploads/sites/2/2019/06/gettyimages-1130598318.jpg?quality=80&#038;strip"
-    width: 4800
-    height: 3006
+  - url: "https://static.techspot.com/images2/news/bigimage/2021/07/2021-07-10-image-8.jpg"
+    width: 2032
+    height: 1299
     isCached: true
 
 related:
-  - title: "Tesla finally launches Full Self-Driving beta 9"
-    excerpt: "Tesla's Full Self-Driving (FSD) beta 9 – or update 2021.4.18.12 – started rolling out at midnight on Friday, allowing users to activate some of Autopilot's advanced"
-    publishedDateTime: 2021-07-10T20:08:00Z
-    webUrl: "https://www.techspot.com/news/90377-tesla-finally-launches-full-self-driving-beta-9.html"
-    ampWebUrl: "https://www.techspot.com/amp/news/90377-tesla-finally-launches-full-self-driving-beta-9.html"
-    cdnAmpWebUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/90377-tesla-finally-launches-full-self-driving-beta-9.html"
-    type: article
-    provider:
-      name: TechSpot
-      domain: techspot.com
-    quality: 89
-    images:
-      - url: "https://static.techspot.com/images2/news/bigimage/2021/07/2021-07-10-image-8.jpg"
-        width: 2032
-        height: 1299
-        isCached: true
   - title: "Tesla finally releases Full Self-Driving Beta v9: here’s what it looks like"
     excerpt: "Tesla has finally released its highly-anticipated Full Self-Driving Beta v9 software update. Here’s what it looks like. It was a long time coming, but when CEO Elon Musk put an actual date on the release,"
     publishedDateTime: 2021-07-10T17:57:00Z
@@ -104,6 +92,22 @@ related:
       - url: "https://sm.pcmag.com/t/pcmag_in/news/t/tesla-rele/tesla-releases-ninth-full-self-driving-beta-two-years-after_9fhh.1200.jpg"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Elon Musk Confirms Tesla’s Launch Date of Its Full Self-Driving Beta v9"
+    excerpt: "Tesla fans may not have long to wait to get a taste of self-driving cars, as CEO Elon Musk has (finally) confirmed an official launch date of the Full Self-Driving Beta v9. In the early hours of Thursday,"
+    publishedDateTime: 2021-07-08T16:35:00Z
+    webUrl: "https://observer.com/2021/07/elon-musk-confirms-teslas-launch-date-of-its-full-self-driving-beta-v9/"
+    ampWebUrl: "https://observer.com/2021/07/elon-musk-confirms-teslas-launch-date-of-its-full-self-driving-beta-v9/amp/"
+    cdnAmpWebUrl: "https://observer-com.cdn.ampproject.org/c/s/observer.com/2021/07/elon-musk-confirms-teslas-launch-date-of-its-full-self-driving-beta-v9/amp/"
+    type: article
+    provider:
+      name: Observer
+      domain: observer.com
+    quality: 59
+    images:
+      - url: "https://observer.com/wp-content/uploads/sites/2/2019/06/gettyimages-1130598318.jpg?quality=80&#038;strip"
+        width: 4800
+        height: 3006
         isCached: true
   - title: "Tesla finally releases 'Full Self-Driving' Beta version"
     excerpt: "Elon Musk-run Tesla on Saturday started releasing over-the-air software updates for its much-awaited \"Full Self-Driving\" Beta version 9."
@@ -173,6 +177,6 @@ related:
       domain: tweaktown.com
     quality: 19
 
-secured: "2YKKAp4l1l/z89XfkuO8v7GdX3fmppF2rQ5lwLw5tTgHq9jELW1yKhPMTGcEGEOmMaSGW9Wscch3nkCSKG5URnBAgTA3Ax1s5myv9o2fPQe2PCPMiQ8ruYApgKTNDt00FjzDaqnH3zsxaKNM3xSDqJZFgMpeoNlf9Siu64m/aLTARpIDaepmb6kmTMBn3iClPGBcBOMIzIieZ9oXOQPueLMdimEA9DDEmgxbQPsCe8Elmz6TbCDVrY0eRTo7ymymH2BV2+wM3lkPUS2xo95DRBN0AxOXXxADKGbPzKUpqBwo3dPiAsI3SD6nKxCof6eSf6AQ9iC+E1zioYD6WpPosV7QOxxMYb6iFu9NZLKELk2co0mfoW99Q3I74WFMCe6OoTce++iMNU8wbfxn1HYamJLWWo9VTnIo0Y8inrJ849MdX+CFE98fJwCih5gj1lZgQvA+KClAauS/SBft8szmWnFI5aCxwgd7b0WCNL82rYX6KwMXyGLDOGGNyoGPkM8Tin+IKunm3RQZlwO98beSnw==;9Osthfzl8kV6oQiU9ItXmw=="
+secured: "coe1hyFaV2vctSsDHRVOFI1RFgCeW7R8N2gGT5WQGbozwMGBZ8nC9adng5lr/pWSqEfMr2BDYP8jZ8U6nAPcrMOf8cQLGKuGlHnzKp+Jds5TQL3552cb2MC8vqOzSstHhuC9RdWwkKdoUtMRG0S3CUeGMa/Hd6EzwFehDOB0SPvuxh96IwQO72XTZBDv1+QrGvB3J12IogZSfg18eJHmcPc/PXlR8sjUCXBkZXrB3uyfqyFptmeCk+HGntG/ABpFi3EpgR4N6ih6kTHU+HNel59vdCtzrpXdf+6QfNHZTrSZbyTQh0DVcK1Y2/Wbcs7BPftrdH9BauDZEIRYbdcR8ZILWYXNENAt1SWY00ufTKQ=;z6z1c5Z6RsbSQ3UvmEOQfw=="
 ---
 

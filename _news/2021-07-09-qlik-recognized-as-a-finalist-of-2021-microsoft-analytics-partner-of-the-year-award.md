@@ -135,15 +135,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 51
-  - title: "Deep Learning Market Size and Growth to 2028 | Key Players – Amazon Web Services (AWS), Google, IBM, Intel, Micron Technology, Microsoft"
-    excerpt: "The Deep Learning Market report forecasts promising growth and development for the period 2021-2028. The Deep Learning market research report defines key statistical data presented in an organized format including graphs,"
-    publishedDateTime: 2021-07-06T03:55:00Z
-    webUrl: "https://manometcurrent.com/deep-learning-market-size-and-growth-to-2028-key-players-amazon-web-services-aws-google-ibm-intel-micron-technology-microsoft/"
-    type: article
-    provider:
-      name: manometcurrent.com
-      domain: manometcurrent.com
-    quality: 35
   - title: "Reply Shapes the Future of Autonomous Mobile Robots with the Power of Microsoft Azure"
     excerpt: "The solution combines Microsoft Azure services ... Reply integrates Azure Cognitive Services, Machine Learning and DevOps as well as Power Apps and Power BI. Thanks to Azure's intelligent service ..."
     publishedDateTime: 2021-07-06T07:38:00Z

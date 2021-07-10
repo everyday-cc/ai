@@ -9,7 +9,7 @@ ampWebUrl: "https://techxplore.com/news/2021-07-ai-sea-ice-identification.amp"
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-07-ai-sea-ice-identification.amp"
 type: article
 quality: 57
-heat: 97
+heat: 87
 published: true
 
 provider:
@@ -55,20 +55,6 @@ related:
       - url: "https://guardian.ng/wp-content/uploads/2019/09/Artificial-Intelligence-is-revolutionizing-the-Healthcare-Industry.jpg"
         width: 1280
         height: 719
-        isCached: true
-  - title: "Artificial Intelligence used on Army operation for the first time"
-    excerpt: "Artificial Intelligence used on Army operation for the first time. The British Army has used Artificial Intelligence (AI) for the first time during Exercise Spring Storm, as part"
-    publishedDateTime: 2021-07-06T03:25:00Z
-    webUrl: "https://www.globalsecurity.org/wmd/library/news/uk/2021/uk-210705-ukmod01.htm"
-    type: article
-    provider:
-      name: GlobalSecurity.org
-      domain: globalsecurity.org
-    quality: 37
-    images:
-      - url: "https://www.globalsecurity.org/images/temp/one-billion-americans.jpg"
-        width: 675
-        height: 313
         isCached: true
   - title: "Artificial intelligence brings forth new possibilities for material hauls and quantification"
     excerpt: "Paper tickets have been a legacy method of tracking the quantity, type, and timestamps of material moved by dump trucks. In recent years, e-ticketing has emerged to deliver time and cost savings in materials transport to combat headaches associated with paper ticket processing."

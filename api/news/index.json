@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-07-11-tesla-finally-launches-full-self-driving-beta-9.md",
+      "title": "Tesla finally launches Full Self-Driving beta 9",
+      "excerpt": "Tesla's Full Self-Driving (FSD) beta 9 – or update 2021.4.18.12 – started rolling out at midnight on Friday, allowing users to activate some of Autopilot's advanced",
+      "sourceUrl": null,
+      "webUrl": "https://www.techspot.com/news/90377-tesla-finally-launches-full-self-driving-beta-9.html",
+      "originalUrl": "https://www.techspot.com/news/90377-tesla-finally-launches-full-self-driving-beta-9.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 189,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.techspot.com/images2/news/bigimage/2021/07/2021-07-10-image-8.jpg",
+          "width": 2032,
+          "height": 1299,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techspot.com/amp/news/90377-tesla-finally-launches-full-self-driving-beta-9.html",
+      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/90377-tesla-finally-launches-full-self-driving-beta-9.html",
+      "publishedDateTime": "2021-07-10T13:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechSpot",
+        "domain": "techspot.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-11-exynos-flagship-chipsets-a-history-of-samsungs-homegrown-silicon.md",
       "title": "Exynos flagship chipsets: A history of Samsung's homegrown silicon",
       "excerpt": "Samsung has used Exynos flagship chips for a long, long time, so we thought it would be a good idea to chart its history.",
@@ -50,58 +102,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-11-tesla-finally-releases-full-self-driving-beta-v9-heres-what-it-looks-like.md",
-      "title": "Tesla finally releases Full Self-Driving Beta v9: here’s what it looks like",
-      "excerpt": "Tesla has finally released its highly-anticipated Full Self-Driving Beta v9 software update. Here’s what it looks like. It was a long time coming, but when CEO Elon Musk put an actual date on the release,",
-      "sourceUrl": null,
-      "webUrl": "https://electrek.co/2021/07/10/tesla-full-self-driving-beta-v9-first-videos-release-notes/",
-      "originalUrl": "https://electrek.co/2021/07/10/tesla-full-self-driving-beta-v9-first-videos-release-notes/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 177,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2021/07/Tesla-full-self-driving-beta-v9.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://electrek.co/2021/07/10/tesla-full-self-driving-beta-v9-first-videos-release-notes/amp/",
-      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/07/10/tesla-full-self-driving-beta-v9-first-videos-release-notes/amp/",
-      "publishedDateTime": "2021-07-10T10:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Electrek",
-        "domain": "electrek.co",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     },
@@ -1046,7 +1046,7 @@
       "originalUrl": "https://venturebeat.com/2021/07/08/intels-huma-abidi-on-the-urgent-need-for-diversity-and-inclusion-initiatives-in-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 115,
+      "heat": 105,
       "tags": null,
       "images": [
         {

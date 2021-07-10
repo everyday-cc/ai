@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Tesla finally launches Full Self-Driving beta 9"
+    excerpt: "Tesla's Full Self-Driving (FSD) beta 9 – or update 2021.4.18.12 – started rolling out at midnight on Friday, allowing users to activate some of Autopilot's advanced"
+    publishedDateTime: 2021-07-10T20:08:00Z
+    webUrl: "https://www.techspot.com/news/90377-tesla-finally-launches-full-self-driving-beta-9.html"
+    ampWebUrl: "https://www.techspot.com/amp/news/90377-tesla-finally-launches-full-self-driving-beta-9.html"
+    cdnAmpWebUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/90377-tesla-finally-launches-full-self-driving-beta-9.html"
+    type: article
+    provider:
+      name: TechSpot
+      domain: techspot.com
+    quality: 89
+    images:
+      - url: "https://static.techspot.com/images2/news/bigimage/2021/07/2021-07-10-image-8.jpg"
+        width: 2032
+        height: 1299
+        isCached: true
   - title: "Tesla finally releases Full Self-Driving Beta v9: here’s what it looks like"
     excerpt: "Tesla has finally released its highly-anticipated Full Self-Driving Beta v9 software update. Here’s what it looks like. It was a long time coming, but when CEO Elon Musk put an actual date on the release,"
     publishedDateTime: 2021-07-10T17:57:00Z

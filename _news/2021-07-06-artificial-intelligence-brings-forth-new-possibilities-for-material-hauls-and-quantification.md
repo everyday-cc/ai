@@ -70,20 +70,6 @@ related:
         width: 1280
         height: 719
         isCached: true
-  - title: "Artificial Intelligence used on Army operation for the first time"
-    excerpt: "Artificial Intelligence used on Army operation for the first time. The British Army has used Artificial Intelligence (AI) for the first time during Exercise Spring Storm, as part"
-    publishedDateTime: 2021-07-06T03:25:00Z
-    webUrl: "https://www.globalsecurity.org/wmd/library/news/uk/2021/uk-210705-ukmod01.htm"
-    type: article
-    provider:
-      name: GlobalSecurity.org
-      domain: globalsecurity.org
-    quality: 37
-    images:
-      - url: "https://www.globalsecurity.org/images/temp/one-billion-americans.jpg"
-        width: 675
-        height: 313
-        isCached: true
 
 secured: "J+H4IJcV/Vj41nxUypsoTaiqA9wUwk6/5mMQqKbC9FyJvJjOUZxFZng4d3j71QJQtV4YPkoT80c+Bi67VPUTgoZXzJYUXB4gvaU2TiXlkDLqUXe4ZSm+SvKRjuW0DFfc0sSLUHjx+5q9PtxaoyG71r6N5dmoVWqbJbaBfb2Cj8xKErsZUvcAIgEJsw1TBPMay6mapNOjsCpuv9w1MqqU6w+ZEv6PkdXa3A4Uly/pzTFhtUuuTfON38WlwTmxUlR/CPBOyvfXO+DrTiDCM1Q6xJg+4UgRId+mSHD0mteeCa5RGEqYuyxfWopHOKD+9wab3xNxlO6+6DK8C/zHIU9N2gzenDa5xqk8whY3HPjh0/A=;Xuip0GnBLf5pyzxAtyfZ2g=="
 ---

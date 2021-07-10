@@ -19,22 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Developing safe self-driving car a 'hard problem', admits Tesla CEO Musk"
-    excerpt: "Tesla CEO Elon Musk has finally admitted that developing a safe and reliable self-driving car is indeed a difficult task"
-    publishedDateTime: 2021-07-06T04:42:00Z
-    webUrl: "https://www.business-standard.com/article/automobile/developing-safe-self-driving-car-a-hard-problem-admits-tesla-ceo-musk-121070600204_1.html"
-    ampWebUrl: "https://wap.business-standard.com/article-amp/automobile/developing-safe-self-driving-car-a-hard-problem-admits-tesla-ceo-musk-121070600204_1.html"
-    cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/automobile/developing-safe-self-driving-car-a-hard-problem-admits-tesla-ceo-musk-121070600204_1.html"
-    type: article
-    provider:
-      name: Business Standard
-      domain: business-standard.com
-    quality: 58
-    images:
-      - url: "https://bsmedia.business-standard.com/media-handler.php?mediaPath=https://bsmedia.business-standard.com/_media/bs/img/article/2020-11/18/full/1605681784-7704.jpg&width=1200"
-        width: 1200
-        height: 900
-        isCached: true
   - title: "Developing safe self-driving car a 'hard problem', admits Musk"
     excerpt: "\"Generalized self-driving is a hard problem, as it requires solving a large part of real-world AI\" Tesla CEO Elon Musk has finally admitted that developing a safe and reliable self-driving car is indeed a difficult task."
     publishedDateTime: 2021-07-08T08:36:00Z

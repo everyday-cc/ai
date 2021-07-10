@@ -43,20 +43,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence In Healthcare Market With Impact of COVID-19 Global Demand Analysis And Opportunity Outlook 2030"
-    excerpt: "In a recent published report, Kenneth Research has updated the market report for Artificial Intelligence In Healthcare Market for 2021 till 2030. Report further now discusses; the various strategies to be adopted or being adopted by the business players across the globe at various levels in the value chain."
-    publishedDateTime: 2021-07-06T04:34:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-with-impact-of-covid-19-global-demand-analysis-and-opportunity-outlook-2030-2021-07-06"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 59
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "AI in Education Market Research Report with Size, Share, Value, CAGR, Outlook, Analysis, Latest Updates, Data, and News 2021-2028"
     excerpt: "Except for the medical supplies and life support products industries, most industries have been greatly impacted, and AI in Education industries have also been greatly affected. 3.4 Microsoft AI in Education Business Introduction 3.5 AWS AI in Education ..."
     publishedDateTime: 2021-07-06T20:36:00Z

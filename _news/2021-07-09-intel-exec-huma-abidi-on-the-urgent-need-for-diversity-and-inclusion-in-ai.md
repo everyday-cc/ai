@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/07/08/intels-huma-abidi-on-the-urgent-n
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/08/intels-huma-abidi-on-the-urgent-need-for-diversity-and-inclusion-initiatives-in-ai/amp/"
 type: article
 quality: 85
-heat: 115
+heat: 105
 published: true
 
 provider:
@@ -30,22 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Technology and AI for humanitarian action are the need of the hour"
-    excerpt: "With the technology available to us, much more can be done to reduce losses from natural disasters, to make ourselves safer, and to make the world mor.."
-    publishedDateTime: 2021-07-06T03:44:00Z
-    webUrl: "https://cio.economictimes.indiatimes.com/news/strategy-and-management/technology-and-ai-for-humanitarian-action-are-the-need-of-the-hour/84162486"
-    ampWebUrl: "https://cio.economictimes.indiatimes.com/amp/news/strategy-and-management/technology-and-ai-for-humanitarian-action-are-the-need-of-the-hour/84162486"
-    cdnAmpWebUrl: "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/strategy-and-management/technology-and-ai-for-humanitarian-action-are-the-need-of-the-hour/84162486"
-    type: article
-    provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 57
-    images:
-      - url: "https://etimg.etb2bimg.com/thumb/msid-84162486,imgsize-51057,width-800,height-434,overlay-etcio/technology-and-ai-for-humanitarian-action-are-the-need-of-the-hour.jpg"
-        width: 800
-        height: 434
-        isCached: true
   - title: "The Integrated Supply Chain: AI, ML, and Human Intelligence"
     excerpt: "AI will never be a silver bullet, but with proper data and augmented with human intelligence, it will revolutionise supply chain agility and resilience"
     publishedDateTime: 2021-07-07T10:52:00Z

@@ -30,9 +30,9 @@ images:
 
 related:
   - title: "2021 WAIC Global Day opens together with the brilliant appearance of AI global governance, to build a path to sustainable digital transformation"
-    excerpt: "WAIC was formally inaugurated at Shanghai Expo Center on July 8. On the theme of \"Intelligent Connectivity, Inspirational Cities\", 2021"
-    publishedDateTime: 2021-07-09T07:42:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/2021-waic-global-day-opens-together-with-the-brilliant-appearance-of-ai-global-governance-to-build-a-path-to-sustainable-digital-transformation-1030592173"
+    excerpt: "2021 WAIC Global Day event themed \"Global AI Governance\" was held at Shanghai Expo Center today. The scene of 2021 WAIC Global Day event, AI development helps with digital transformation 2021 WAIC ..."
+    publishedDateTime: 2021-07-09T07:43:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/2021-waic-global-day-opens-together-with-the-brilliant-appearance-of-ai-global-governance-to-build-a-path-to-sustainable-digital-transformation-1030592204"
     type: article
     provider:
       name: Business Insider

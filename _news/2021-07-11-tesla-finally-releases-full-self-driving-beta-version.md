@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Tesla finally launches Full Self-Driving beta 9"
+    excerpt: "Tesla's Full Self-Driving (FSD) beta 9 – or update 2021.4.18.12 – started rolling out at midnight on Friday, allowing users to activate some of Autopilot's advanced"
+    publishedDateTime: 2021-07-10T20:08:00Z
+    webUrl: "https://www.techspot.com/news/90377-tesla-finally-launches-full-self-driving-beta-9.html"
+    ampWebUrl: "https://www.techspot.com/amp/news/90377-tesla-finally-launches-full-self-driving-beta-9.html"
+    cdnAmpWebUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/90377-tesla-finally-launches-full-self-driving-beta-9.html"
+    type: article
+    provider:
+      name: TechSpot
+      domain: techspot.com
+    quality: 89
+    images:
+      - url: "https://static.techspot.com/images2/news/bigimage/2021/07/2021-07-10-image-8.jpg"
+        width: 2032
+        height: 1299
+        isCached: true
   - title: "Tesla finally releases Full Self-Driving Beta v9: here’s what it looks like"
     excerpt: "Tesla has finally released its highly-anticipated Full Self-Driving Beta v9 software update. Here’s what it looks like. It was a long time coming, but when CEO Elon Musk put an actual date on the release,"
     publishedDateTime: 2021-07-10T17:57:00Z
@@ -157,6 +173,6 @@ related:
       domain: tweaktown.com
     quality: 19
 
-secured: "a4PZ7QTyY4wWviAxVmzjSZqXp234VAz44YDkIp/D/95bORv794AhXTFYKb9wxJ5TAEXjJ158owEQr/t/XzH+KOHqxLJQgtsrJ3IP8rxTLnd3Xg4ygTKK8FrZUpzMwlV+/PSuY25RcuA1y2cby1YiJlDwBYUDCTifDwSQBdPD5U2IS6B1OGieojb4iu6UHWj2DWOou5Xmy8oaJFhIU1aZaSd+tbTtOtOFPzFgDw6nQg5+q+XpDsLqulSigp12hbTOTQV27waAh3iwz+JMcEIMZaJeiL/SdoEOgKHHNzyvp7/rOTeOrRIPiVhOpYhIQszKGoLhHoJ4p7RDsg7yvhCrAIdtk2D6Mg2a/zneGySYhvk=;OcAdAoP/fn++0DfYj+vSKw=="
+secured: "yLlGlfYZIvhW2apd9pPUWC/utOqxt/+4x9TAunStRtxX1hoTNIelb9l/0Ag9VtTLn8PbumMS0i4LNBn40AUECKhK4hZcq/gZ5OozRkdqGVWgjatFx+NTT3jJEP//xKibZp1eNwKcRIx8mZbeImfl6jvFmRY8nPelwgQ89Y+gb8AReAE2kT5tHQjcq5dnwRHINxdAVsDj/O0ezoq6Wj/82pCy6zEF2Qf3r361k0yfkZrzbw4q+2KZe6RCqnJ+G1c+kUso0lD1UccPdCtRaNbD4X1+vjfZ5mAnj8qstTuRzTptELZoaRCyldzPus42OOhI0gnUadP2Q8K1Jp9uihTMdliGWuljXbKvXvae9m9kkSuk0y4k3FycQ77czR6egzzjrdWuZtrKyklxYFwLOb+VAosXbuZ6F+IDutcnkNtCM2bAhmrJe9VT84/trXGjFE8Z2EN850zOhXWHb++XRoC5WBK6VRpQH0PswSQ3UfmFmuG0jaNnC1jo+frhqyF2RkvNIn7IzQ1nogOHnzLmbLMghQ==;l5fDXgIBWW4+fiS2GQMQUw=="
 ---
 

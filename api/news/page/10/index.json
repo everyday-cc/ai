@@ -935,6 +935,49 @@
       ]
     },
     {
+      "path": "_news/2021-06-30-didi-shares-gain-1-after-early-jump-in-wall-street-debut.md",
+      "title": "Didi shares gain 1% after early jump in Wall Street debut",
+      "excerpt": "Early investors included Apple Inc., Japan’s Softbank, Alibaba and Chinese internet giants, Tencent Holding Ltd. and Baidu Inc. Didi ... into development of self-driving, electric vehicles ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.local10.com/business/2021/06/30/chinas-didi-touts-tech-spending-ahead-of-wall-st-debut/",
+      "originalUrl": "https://www.local10.com/business/2021/06/30/chinas-didi-touts-tech-spending-ahead-of-wall-st-debut/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.local10.com/resizer/C9ch4O0IZQoxgxLLBvBiTWoZbus=/800x521/smart/filters:format(jpeg):strip_exif(true):strip_icc(true):no_upscale(true):quality(65):fill(FFF)/cloudfront-us-east-1.images.arcpublishing.com/gmg/YZAVD7XODREBFFMDIAGRSEUVZ4.jpg",
+          "width": 800,
+          "height": 521,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-30T03:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WPLG",
+        "domain": "local10.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-30-graphcore-brings-new-competition-to-nvidia-in-latest-mlperf-ai-benchmarks.md",
       "title": "Graphcore brings new competition to Nvidia in latest MLPerf AI benchmarks",
       "excerpt": "Graphcore’s score in BERT natural language training was the best score of any of the two-socket AMD systems submitted.",
@@ -983,49 +1026,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-30-didi-shares-gain-1-after-early-jump-in-wall-street-debut.md",
-      "title": "Didi shares gain 1% after early jump in Wall Street debut",
-      "excerpt": "Early investors included Apple Inc., Japan’s Softbank, Alibaba and Chinese internet giants, Tencent Holding Ltd. and Baidu Inc. Didi ... into development of self-driving, electric vehicles ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.news4jax.com/business/2021/06/30/chinas-didi-touts-tech-spending-ahead-of-wall-st-debut/",
-      "originalUrl": "https://www.news4jax.com/business/2021/06/30/chinas-didi-touts-tech-spending-ahead-of-wall-st-debut/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cloudfront-us-east-1.images.arcpublishing.com/gmg/YZAVD7XODREBFFMDIAGRSEUVZ4.jpg",
-          "width": 5349,
-          "height": 3487,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.news4jax.com/business/2021/06/30/chinas-didi-touts-tech-spending-ahead-of-wall-st-debut/?outputType=amp",
-      "cdnAmpWebUrl": "https://www-news4jax-com.cdn.ampproject.org/c/s/www.news4jax.com/business/2021/06/30/chinas-didi-touts-tech-spending-ahead-of-wall-st-debut/?outputType=amp",
-      "publishedDateTime": "2021-06-30T02:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "News4Jax",
-        "domain": "news4jax.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     },
