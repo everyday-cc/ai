@@ -81,6 +81,20 @@ related:
         width: 1200
         height: 700
         isCached: true
+  - title: "Tesla finally releases 'Full Self-Driving' Beta version"
+    excerpt: "Elon Musk-run Tesla on Saturday started releasing over-the-air software updates for its much-awaited \"Full Self-Driving\" Beta"
+    publishedDateTime: 2021-07-10T15:36:00Z
+    webUrl: "https://www.glamsham.com/world/technology/tesla-finally-releases-full-self-driving-beta-version"
+    type: article
+    provider:
+      name: glamsham.com
+      domain: glamsham.com
+    quality: 39
+    images:
+      - url: "https://www.glamsham.com/wp-content/uploads/2021/07/93d79dc915d322b2d64bae9723e52e54-2.jpg"
+        width: 400
+        height: 300
+        isCached: true
   - title: "Elon Musk Says Tesla’s ‘Mind-Blowing’ Full Self-Driving Beta v9 Will Arrive This Saturday"
     excerpt: "Elon Musk says that Tesla's 'mind blowing' Full Self-Driving beta v9 update will arrive this Saturday. Here are all the details on this."
     publishedDateTime: 2021-07-08T14:26:00Z
@@ -95,15 +109,6 @@ related:
         width: 1200
         height: 640
         isCached: true
-  - title: "Tesla finally releases 'Full Self-Driving' Beta version"
-    excerpt: "Elon Musk-run Tesla on Saturday started releasing over-the-air software updates for its much-awaited Full Self-Driving Beta version 9."
-    publishedDateTime: 2021-07-10T13:50:00Z
-    webUrl: "https://www.sify.com/finance/tesla-finally-releases-full-self-driving-beta-version-news-topnews-vhknO9ggdjhaa.html"
-    type: article
-    provider:
-      name: Sify.com
-      domain: sify.com
-    quality: 19
 
 secured: "5YV0hVznkD+DZcUKCmvBK3NYh/hASzgYfow5YDnofJTv7QJosfTt/YarWblDt+x83JLmLjMaZYdz1OIMiP2PYOAMUW/ygDqWuzZYmeCI1ycJXsMTbetofpQABljwunnFGdxEYnGMbDvAPIEv9RZvx4oabQO7lOxZl4B6S8KQFIyollg/PNUI1ELyvMPFztTMU0V3yUZ9IjGhjKTGHFXsMvu2m+HNY3POyKmBpKz/NZVVe4uKGZ8roWLnIFwCCNkfeJJ3NMME1WkG2OcJnVNfuOCKp0T00IZw9H5OgmT7qLT5jkHpCvjtnnKs32zU/dylCK9pcKbg09CMbOauL0D2LFD16ntnfoNl5x3eIwl7RAY=;v7rk5LRbdkwi0TOdHCggfg=="
 ---

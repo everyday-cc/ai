@@ -37,22 +37,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Report: Growing San Diego Cybersecurity Cluster Using AI to Fight Hacking Threats"
-    excerpt: "San Diego's cyber cluster accounts for 24,349 local jobs across 874 firms, has an annual economic impact of $3.5 billion, and is growing rapidly thanks to defense-related projects."
-    publishedDateTime: 2021-07-06T00:52:00Z
-    webUrl: "https://timesofsandiego.com/tech/2021/07/05/report-growing-san-diego-cybersecurity-cluster-using-ai-to-fight-hacking-threats/"
-    ampWebUrl: "https://timesofsandiego.com/tech/2021/07/05/report-growing-san-diego-cybersecurity-cluster-using-ai-to-fight-hacking-threats/"
-    cdnAmpWebUrl: "https://timesofsandiego-com.cdn.ampproject.org/c/s/timesofsandiego.com/tech/2021/07/05/report-growing-san-diego-cybersecurity-cluster-using-ai-to-fight-hacking-threats/"
-    type: article
-    provider:
-      name: Times of San Diego
-      domain: timesofsandiego.com
-    quality: 52
-    images:
-      - url: "https://timesofsandiego.com/wp-content/uploads/2020/01/Google-Data-Center.jpg"
-        width: 640
-        height: 360
-        isCached: true
   - title: "The cybersecurity AI startup ZeroFox is buying competitor Vigilante to help it better scan the dark web to fight back against ransomware"
     excerpt: "Threat intelligence firm ZeroFox announced Tuesdsay that it will acquire the competitor startup Vigilante."
     publishedDateTime: 2021-07-07T13:00:00Z

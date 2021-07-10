@@ -1,22 +1,28 @@
 ---
 category: news
 title: "Qumulo Expands Cloud Q Offering with Qumulo on Azure as a Service"
-excerpt: "Qumulo, provider of solutions focused on enterprise unstructured data management across hybrid-cloud environments, today announced Qumulo on Azure as a Service (QaaS), a petabyte-scale file data management platform in the cloud designed to be delivered with the simplicity of a managed service."
-publishedDateTime: 2021-07-07T15:02:00Z
-originalUrl: "https://insidehpc.com/2021/07/qumulo-expands-cloud-q-offering-with-qumulo-on-azure-as-a-service/"
-webUrl: "https://insidehpc.com/2021/07/qumulo-expands-cloud-q-offering-with-qumulo-on-azure-as-a-service/"
+excerpt: "Qumulo, the breakthrough leader in radically simplifying enterprise unstructured data management across hybrid-cloud environments, today announced the public launch of Qumulo® on Azure as a Service (QaaS),"
+publishedDateTime: 2021-07-07T13:13:00Z
+originalUrl: "https://financialit.net/news/cloud/qumulo-expands-cloud-q-offering-qumulo-azure-service"
+webUrl: "https://financialit.net/news/cloud/qumulo-expands-cloud-q-offering-qumulo-azure-service"
 type: article
-quality: 19
-heat: -1
+quality: 39
+heat: 39
 published: false
 
 provider:
-  name: insideHPC
-  domain: insidehpc.com
+  name: Financial IT
+  domain: financialit.net
 
 topics:
   - Microsoft AI
   - AI
+
+images:
+  - url: "https://financialit.net/sites/default/files/logo-example-color-dark.png"
+    width: 1174
+    height: 840
+    isCached: true
 
 related:
   - title: "Qumulo flies into Azure cloud"
@@ -34,6 +40,6 @@ related:
         height: 713
         isCached: true
 
-secured: "hHulGNpCa6ybM96bTHej/QpjzVMI/j/GRxHOoAw7JHiDHuXBluBo8OcJnHCF41H2bJ74YzUFU+HjmEEjTr7T+Ow9X3zBHWq7KH4fFUiGRZfzxEH3DEMI8chABLohs5nyuqtnTh4pHIcav6exM1B6eBOYAA6ijUf1ThE25dvm3Dtyc5jlTHpaPjpgGtpwwDc9iJuZAA/u6NoK7FUzkSQL53/GrWNlxoKL9TZjOtWE5pWuQiydUM0sc2xK6Fx0ycd6CIAXKmunt/D39IlVY/zo6cOl9ILVhhgkZEpXb/G1xBBBywUyZvIaXY97Ul+Ex/KG8KnNlldRk56BdUZ+mBxWRBt8t1i2H7JBQL4btd058/U=;TzDu1uTKwfCywD8O3aMe+A=="
+secured: "c0r5VjySwTGIaf8xeJ8FLa0n2l83LH9ebTGp8KSfMTG/BaP0LmCAfMEhRHU6+YiyFIIigEjD5TxXty4O+3bLlowCgAXjtWSVyASDoHVr2TVXLtqmOi7NQrwijHd55GWq5w9aILVQpDJuDcPEpYt15mWUlKHUb5MSE3iwzD2mb3ShJgdYv6I3SE8Aa2vBI8lLfFdS5DZjJj9OSpZAmQQAryXhJlLN+LaGmscQ6VKqcdS+3hmQFo5s/rk5+/St9xOXjE54jYHpjEHOQ2TcfgjXNHQ7UfPDS2MBaIVKHbigizGY5Vc5vGRo3oKOG5t+L2aJsz/P0/rkxCsfSo7Aet9pcqqLGTPDdyncD0hm31ybifs=;TDxyxKpNk8zq+W7JqXmrSg=="
 ---
 

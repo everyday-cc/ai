@@ -26,19 +26,19 @@ images:
     isCached: true
 
 related:
-  - title: "AI bot trolls politicians with how much time they're looking at phones"
-    excerpt: "Sure, we've all snuck a look at our phones in dull meetings. But if you're working on the taxpayer's dime, you'd better be ready for artificial intelligence to call you out for gawping at the black mirror in the legislature when you should be,"
-    publishedDateTime: 2021-07-05T23:14:00Z
-    webUrl: "https://mashable.com/article/flemish-politicians-ai-phone-use"
+  - title: "This AI publicly shames politicians, but don’t laugh just yet"
+    excerpt: "An AI project that publicly shames politicians using phones during government meetings provides a warning to us all about surveillance creep."
+    publishedDateTime: 2021-07-06T10:43:00Z
+    webUrl: "https://thenextweb.com/news/ai-automatically-publicly-shames-distracted-belgian-politicians-the-flemish-scrollers-surveillance-creep"
     type: article
     provider:
-      name: Mashable
-      domain: mashable.com
+      name: The Next Web
+      domain: thenextweb.com
     quality: 67
     images:
-      - url: "https://helios-i.mashable.com/imagery/articles/06Nv8svnO4f4pd21gJgLeAE/hero-image.fill.size_1200x675.jpg"
-        width: 1200
-        height: 675
+      - url: "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F07%2FUntitled-design.jpg&signature=ef95836659ba1aaf0ab2508cbf1fb541"
+        width: 1280
+        height: 640
         isCached: true
 
 secured: "/uYHlOKZ9AfSDY6lne9OAoc/TY3LS4TZzwU6zGEuicSP0EPnjcJjrXED4P6zRYEULBjWf+rKM4yOignT+gyqjfDyteZ2QluVDGHf70aFZCOpaoSW/dSel4jdff+aPiHRFKK7OB50CpEDkVp7aE6FvZ2yNsioj5j2eQUkKU1cpk1PAb8i9ZKYOkYOW7U+Oqhe4RaTbjhGJl3iv9DbbKsAjcAT205u9Yip+FpQIWWYr92EqSaagrA0SJRmRxWrmO19lU8Kh11dBgRy+M9r9IR+TaeELs+s7bkIZn3jeSZ9dmP3KIPl/9jCapWkn7xapvSXZaJqUbfzw3SnZ4V+v5j/WwZ4NJjThIQSCWCOgw0ErGE=;t5wWh1xzA/+c/rNOpDmrVg=="

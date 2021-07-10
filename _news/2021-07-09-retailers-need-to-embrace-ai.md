@@ -2,17 +2,21 @@
 category: news
 title: "Retailers 'need to embrace AI'"
 excerpt: "Women's clothing app boss Julie Bornstein says retailers should use AI to better sell what customers want. Her San Francisco-based firm The Yes uses AI to try to predict what styles and colours each particular shopper will like."
-publishedDateTime: 2021-07-09T16:01:00Z
-originalUrl: "https://www.bbc.co.uk/news/av/business-57774933"
-webUrl: "https://www.bbc.co.uk/news/av/business-57774933"
+publishedDateTime: 2021-07-09T14:28:00Z
+originalUrl: "https://www.bbc.com/news/av/business-57774933"
+webUrl: "https://www.bbc.com/news/av/business-57774933"
 type: article
-quality: 37
-heat: 37
+quality: 67
+heat: 67
 published: false
 
 provider:
   name: BBC
-  domain: bbc.co.uk
+  domain: bbc.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI
@@ -23,6 +27,6 @@ images:
     height: 576
     isCached: true
 
-secured: "n0Ny0NyB4PJoFvIUlgJm7dOGY9GfTM555oVL3sEVgaCodx/xt3DokBiNX1mf+OV0/2SZ8qO2KOT/xSVh7uOX6XhyFDIXd8eQhTAy85y/eSbkjPm2E6bZhux73Wb3mXrL3dFA27PZu5crPME3Wavf8XPMxgodPcUx8xlwHslcc4yhCqK1Kn+N7Yeqeyfci/ADWjwdbMIlL00iSczmPJmfzeApgpiwhzDimm51zz2wdE5AWTe4RmLnlEBFtJCUzyMBi9QUx7YGV4InfZIL6RW6z8O5uKFUUVoNKEV89caSaRNMlfoaIzL0kEzd8zrXJWDF/v56YtZoe1e9tN/1Kn5W5bAK9BlLmv4lRQ78ibtR2mr0V2Qrre2K4oIpHh2v5BcPjW9qqJmA2Ral8XZzi78eB6+q3WyM4GarUgLP6TstHDY+r5SkG0wzdmeLHbTnRQB5ci5TXQvCvVOWdQNYR5afdc79ECDpI9olynAfecufWZkFuRjL6/nuEP5LK6iZ7gAy9MKvFmzIVgYJVcmSrE2SZQ==;3NH6WVV4ubo/I9j86RwBiA=="
+secured: "B746QaNV0qMcDVL+u8gyLNWNHR4IWAiyisCO9m/EFFXpwplhTsLJreu1JSiYuZyek5yY6GiN6AgiHFrHTkosV2mFRvR+nlFhN3piYY4AGYqV1euEDaC7E7tCT9jg+sg7alG7iTEFfRKrL/YU+4igrMmZXXg7vPQbb6sRA+DXc+q6oH4viSiMQ3skgx/Np1lCkirwBusWBLTVCUliWj+RxiTEqga5EQCSvFvEOkxbPWz/JeOqL31uS763H+66Jp2qNLLoHh9UhbB4Fc14Gf5PTexwEV3/0BpDK2gWofCaT5dYCILXFzKVbL1/Opifmj2272TQA7v7w2vSPO+rAXLGoME0JW58W3F0bxNCloUPRS4=;a60ogOFhzVlG0estw/jJ7g=="
 ---
 

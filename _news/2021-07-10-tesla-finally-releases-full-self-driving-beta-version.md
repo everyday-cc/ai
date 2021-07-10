@@ -1,22 +1,28 @@
 ---
 category: news
 title: "Tesla finally releases 'Full Self-Driving' Beta version"
-excerpt: "Elon Musk-run Tesla on Saturday started releasing over-the-air software updates for its much-awaited Full Self-Driving Beta version 9."
-publishedDateTime: 2021-07-10T13:50:00Z
-originalUrl: "https://www.sify.com/finance/tesla-finally-releases-full-self-driving-beta-version-news-topnews-vhknO9ggdjhaa.html"
-webUrl: "https://www.sify.com/finance/tesla-finally-releases-full-self-driving-beta-version-news-topnews-vhknO9ggdjhaa.html"
+excerpt: "Elon Musk-run Tesla on Saturday started releasing over-the-air software updates for its much-awaited \"Full Self-Driving\" Beta"
+publishedDateTime: 2021-07-10T15:36:00Z
+originalUrl: "https://www.glamsham.com/world/technology/tesla-finally-releases-full-self-driving-beta-version"
+webUrl: "https://www.glamsham.com/world/technology/tesla-finally-releases-full-self-driving-beta-version"
 type: article
-quality: 19
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: Sify.com
-  domain: sify.com
+  name: glamsham.com
+  domain: glamsham.com
 
 topics:
   - AI in Autos
   - AI
+
+images:
+  - url: "https://www.glamsham.com/wp-content/uploads/2021/07/93d79dc915d322b2d64bae9723e52e54-2.jpg"
+    width: 400
+    height: 300
+    isCached: true
 
 related:
   - title: "Hacker shows what Tesla Full Self-Driving’s vision depth perception neural net can see"
@@ -105,6 +111,6 @@ related:
       domain: tweaktown.com
     quality: 19
 
-secured: "rXarG7RNEpBiJdpY69U/yrM4j57iQrV7v41Erj4w9xJWnv6G7x5VqTMy7Dh/aTloAThRbR/TWB0PmEamI8rP4paRxADSDyXKqcoa5ZdpkuexVwBGMqnlXTOpdl3z0Wy24/Wtvm0Lb9f54qFBXBY35+yCM/+dB1xJ2pdDEjTjvr7bxQP5FA/9r39ShDln4YgX7r+O+aNazLZdh+gRcqc177N6ZIx9Z9RNrIkndMffljLkrwWoTxgrCKwKsUl0DScUF/On7bStYFLMvRiiGKjJpdyRE1zFJ97Aa9GZNam5M+X6Y+0qCfi0mNoXG+WtTUQLV46fP68kF4iOxbQZSvQiBikVUASe7TVbHsNNDgnBWKo=;WdMeN21sN+81yauQuPzi/w=="
+secured: "g0syUaBoREHsOcgKk+GIKgZqNDuN+D1Xs5j9ZW5LUHEWyzR3JmZi4TfGY73xHCRxWnDX0XaCoBEtG/U1ITETAv871A2x6YQsP+FwvHRpjJCPs2DETQXysfeZFgK1I/GagH6URlkDEzZvFs5kMn4d5VynZXlrVnMXydY0tlVeMmOEUEtSebab7rPJCqdcZ23HK6eM4zps5wdyjRlU06a18SPCXREbijjntKsD8Y9SVzJdmtSqI8QsSJWc9k7AtC+8d9TdsvTtcsxdjCpuETlHHeIrmSb6CsjTCvkttdaw+3YJDDg6REVlH9yCJCCTetTCY9WsJl00/2oEKsdqj0USEAcvHLXbpnF6td0o4qaAzQM=;RAyRLIWqCtpLSzzTDoF4mQ=="
 ---
 

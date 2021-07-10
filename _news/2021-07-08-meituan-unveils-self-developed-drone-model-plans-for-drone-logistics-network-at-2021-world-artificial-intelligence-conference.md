@@ -54,12 +54,12 @@ related:
         isCached: true
   - title: "Canaan Releases Self-developed Edge AI Chip, the Kendryte K510"
     excerpt: "Canaan Inc. (NASDAQ: CAN) (\"Canaan\" or the \"Company\"), a leading high-performance computing solutions provider, today announced the release of the Kendryte K510 (the \"K510\"), an independently designed and developed RISC-V based edge AI chip,"
-    publishedDateTime: 2021-07-08T10:09:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-canaan-releases-self-developed-edge-ai-chip-kendryte-/2021/07/08/9405016.htm"
+    publishedDateTime: 2021-07-08T05:00:00Z
+    webUrl: "https://www.morningstar.com/news/pr-newswire/20210708cn36290/canaan-releases-self-developed-edge-ai-chip-the-kendryte-k510"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
+      name: Morningstar, Inc.
+      domain: morningstar.com
     quality: 34
 
 secured: "QysaJG5Iig7HkvIaT1rtGfzRbGK8QOnNsAKfH1XrqRHsxkb7pSCuAOu26XyuKnFkOzBpOyGsi1fYw7UtprOEW5lBMQ07PHOcrwpHsJh3zeZtqkZbf9I2YL/v7VoEXm0RFXszfNDaBvtYrchW2A0QKdjskCEjjkUhx8nTmGw9HLG/CIL7ZI4FINgOyq/gn5BTjEUBteIIog6DqvzRsR0V9l4HiEGgvUFPYFSnJ+8KxRXHAczU5VFQItOD3CVgXHz+Q4TGjGiIyZpfim2gA906UdgvZVsFedniQLJYCe5dNuwTX/fZKteYRn1wsdsyZMRUAizLRcL514JCLoQX0Pm8kMJekjTuxJttLS53G27kIv4=;RmI3hNdpqbQv5KSamGKP4A=="

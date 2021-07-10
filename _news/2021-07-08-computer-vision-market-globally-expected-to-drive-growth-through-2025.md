@@ -25,72 +25,53 @@ images:
     isCached: true
 
 related:
-  - title: "Global Neural Network Software Market 2019 Size, Growth Analysis Report, Forecast to 2025"
-    excerpt: "The global neural network software market is expected to grow at a significant rate during the forecast period.The major factors that will contribute to the market growth include the increasing investment in AI (artificial intelligence) technologies and ..."
-    publishedDateTime: 2021-07-10T10:44:00Z
-    webUrl: "https://www.openpr.com/news/2325654/global-neural-network-software-market-2019-size-growth"
-    ampWebUrl: "https://www.openpr.com/amp/2325654/global-neural-network-software-market-2019-size-growth"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2325654/global-neural-network-software-market-2019-size-growth"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 50
-    images:
-      - url: "https://cdn.openpr.com/U/7/U710681949_g.jpg"
-        width: 635
-        height: 357
-        isCached: true
-  - title: "Deep Learning Market Size 2021 Global Industry Trends, Segments, Competitors Strategy, Regional Analysis, Key Players, Statistics and Growth to 2030"
-    excerpt: "Facebook announced the launch of its deep learning framework PyTorch 1.0. The framework includes a set of tools which makes it more compatible with platforms like Google Cloud, Amazon Web Services, and Microsoft's Azure Machine Learning. In October 2018 ..."
-    publishedDateTime: 2021-07-07T03:35:00Z
-    webUrl: "https://www.marketwatch.com/press-release/deep-learning-market-size-2021-global-industry-trends-segments-competitors-strategy-regional-analysis-key-players-statistics-and-growth-to-2030-2021-07-06"
+  - title: "$30+ Billion Mobile Robots Global Market to 2026 - Rising Demand for Mobile Robots from the E-Commerce Sector is Driving Growth"
+    excerpt: "Dublin, July 06, 2021 (GLOBE NEWSWIRE) -- The \"Mobile Robots Market - Forecasts from 2021 to 2026\" report has been added to ResearchAndMarkets.com's offering. The global mobile robots market is evaluated at US$11."
+    publishedDateTime: 2021-07-06T09:24:00Z
+    webUrl: "https://www.marketwatch.com/press-release/30-billion-mobile-robots-global-market-to-2026---rising-demand-for-mobile-robots-from-the-e-commerce-sector-is-driving-growth-2021-07-06"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 32
+    quality: 41
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "AI Training Data Market All Set to Witness Massive Growth during Forecast 2021-2027 With Top Vendors Like"
-    excerpt: "This AI Training Data Industry market report uncovers multiple growth opportunities that users can consider to capitalize on, along with insights on top industry trends to invest in. This section intends to facilitate the process of critical decision making for users."
-    publishedDateTime: 2021-07-08T06:39:00Z
-    webUrl: "https://ksusentinel.com/2021/07/08/ai-training-data-market-all-set-to-witness-massive-growth-during-forecast-2021-2027-with-top-vendors-like/"
+  - title: "Global Mobile Robots Market (2021 to 2026) - Featuring Softbank Robotics, SMP Robotics and Aethon Among Others - ResearchAndMarkets.com"
+    excerpt: "The \"Mobile Robots Market - Forecasts from 2021 to 2026\" report has been added to ResearchAndMarkets.com's offering. The global mobile robots market is evaluated"
+    publishedDateTime: 2021-07-06T13:08:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/21/07/b21855417/global-mobile-robots-market-2021-to-2026-featuring-softbank-robotics-smp-robotics-and-aethon-among"
+    ampWebUrl: "https://www.benzinga.com/amp/content/21855417"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/21855417"
     type: article
     provider:
-      name: The Sentinel
-      domain: ksusentinel.com
-    quality: 20
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 22
+  - title: "Worldwide Mobile Robots Industry to 2026 - by Type, Component, End-users and Geography"
+    excerpt: "The \"Mobile Robots Market - Forecasts from 2021 to 2026\" report has been added to ResearchAndMarkets.com's offering. The global mobile robots market is evaluated at US$11.404 billion for the year 2019 and is estimated to grow at a CAGR of 15."
+    publishedDateTime: 2021-07-06T12:19:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-worldwide-mobile-robots-industry-2026-type-component-end-/2021/07/06/9403277.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 11
+  - title: "Worldwide Surgical Robots Industry to 2026 - Featuring Accuray Incorporated, CMR Surgical and Medtronic Among Others - ResearchAndMarkets.com"
+    excerpt: "Global Industry Trends, Share, Size, Growth, Opportunity and Forecast 2021-2026” report has been added to ResearchAndMarkets.com’s offering. The global surgical robots market exhibited strong growth during 2015-2020."
+    publishedDateTime: 2021-07-09T17:06:00Z
+    webUrl: "https://apnews.com/press-release/BusinessWire/technology-health-coronavirus-pandemic-accuray-inc-41b6d405eecb4534b37ea13f0f67a0d2"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 4
     images:
-      - url: "https://i.ibb.co/4f2WLZz/n1-finalll.jpg"
-        width: 474
-        height: 237
-        isCached: true
-  - title: "Global Machine Learning in Medical Imaging Market Size, Status and Forecast 2021-2027"
-    excerpt: "Medical imaging analytics tools become more readily available, providers are likely to find strong incentives to investigate the best way to integrate artificial intelligence/machine learning into their imaging strategies. Machine Learning in Medical ..."
-    publishedDateTime: 2021-07-09T07:46:00Z
-    webUrl: "https://www.reportsnreports.com/reports/4655615-global-machine-learning-in-medical-imaging-market-size-status-and-forecast-2021-2027.html"
-    type: article
-    provider:
-      name: ReportsnReports
-      domain: reportsnreports.com
-    quality: 12
-  - title: "Facial Tracking Solutions Market witnessing market growth at a rate of 14.55% in the forecast period 2027"
-    excerpt: "Increasing demand for cloud based facial recognition technology is expected to enhance the market growth. Some of the other factors such as growth in surveillance industry, security reasons, technological advancement in facial tracking solutions,"
-    publishedDateTime: 2021-07-07T15:54:00Z
-    webUrl: "https://manometcurrent.com/facial-tracking-solutions-market-emerging-technologies-and-innovations-key-players-herta-security-facephi-sightcorp-beijing-kuangshi-technology-co-ltd-facefirst-animetrics-and-more-forecas/"
-    type: article
-    provider:
-      name: manometcurrent.com
-      domain: manometcurrent.com
-    quality: 7
-    images:
-      - url: "https://manometcurrent.com/wp-content/uploads/2021/06/Business-390x220.jpg"
-        width: 390
-        height: 220
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
 
 secured: "VSkvjKVvGE3qCU5/fQbL72K+zdz81+cMp05Ys0t7Nio7mZXLwV75X//dyQ492YDwKtd1dkzzOsf0hlQtfsAjvkdlmqZLUiIYLm6peL77w2CIaZkwDxm2DBIYhcfuYBuYFsAsurFVdQIGPVTSH0zy7a/zZt36vsY7keuoAGVapgIzWCQADoy26EBwJ7HfsYPYS+BAQCY6UHXGiODgWHSuFG3Zqheq3610TKF+sF+qq81Agfps2nuD6eE/cTLE/fHwgDBmmpxWMw7ZWCDZpe8aWGszDQ5L+gWJwKynWYx8172X3cUB+94Np+oJOQHW7mbX9U910x1GSuudG9oYF78PY6tqCBvbhLSFmNRuUs9RQk4=;oDhBa0BIAxROxQ33R65AKQ=="

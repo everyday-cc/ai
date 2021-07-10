@@ -73,6 +73,20 @@ related:
         width: 4800
         height: 3006
         isCached: true
+  - title: "Tesla finally releases 'Full Self-Driving' Beta version"
+    excerpt: "Elon Musk-run Tesla on Saturday started releasing over-the-air software updates for its much-awaited \"Full Self-Driving\" Beta"
+    publishedDateTime: 2021-07-10T15:36:00Z
+    webUrl: "https://www.glamsham.com/world/technology/tesla-finally-releases-full-self-driving-beta-version"
+    type: article
+    provider:
+      name: glamsham.com
+      domain: glamsham.com
+    quality: 39
+    images:
+      - url: "https://www.glamsham.com/wp-content/uploads/2021/07/93d79dc915d322b2d64bae9723e52e54-2.jpg"
+        width: 400
+        height: 300
+        isCached: true
   - title: "Elon Musk Says Tesla’s ‘Mind-Blowing’ Full Self-Driving Beta v9 Will Arrive This Saturday"
     excerpt: "Elon Musk says that Tesla's 'mind blowing' Full Self-Driving beta v9 update will arrive this Saturday. Here are all the details on this."
     publishedDateTime: 2021-07-08T14:26:00Z
@@ -95,15 +109,6 @@ related:
     provider:
       name: TweakTown
       domain: tweaktown.com
-    quality: 19
-  - title: "Tesla finally releases 'Full Self-Driving' Beta version"
-    excerpt: "Elon Musk-run Tesla on Saturday started releasing over-the-air software updates for its much-awaited Full Self-Driving Beta version 9."
-    publishedDateTime: 2021-07-10T13:50:00Z
-    webUrl: "https://www.sify.com/finance/tesla-finally-releases-full-self-driving-beta-version-news-topnews-vhknO9ggdjhaa.html"
-    type: article
-    provider:
-      name: Sify.com
-      domain: sify.com
     quality: 19
 
 secured: "TIG+oBxNG/BBzcCXAgr8gHPbWM+TCjq9B94E8Ghqz6lRXIsDOynjIHJkPXJFMYi0kW6ZMau3tZCzgr0pqV118III45Vd5p9knsIzPxpW3RX0V8aDyW2TKmPCEdd5l2XQpdDavttHB6zXPFKXHHJpdnQmeZuuygSe2nt33dMF8CSH95UqDjUPtpGSXySWLsyCAPH/NVOMGMNy8iM17IZZ19qVaGQ9vv8CTPS6E26rh8gKgzC6C8iY0CNI/o1gmaPjlDAq/3YLbzyrI3iM7IC3tFMDelJeK5Us2HrbvikoUHS13NVOsWYetokJ9GKmIUq4MvuYR/VmOxxm5SJU9QwsyPOv3nZwD+ktqpKZJ2f8SzO0XqOXoMep1UMrjMQ9CDfxRfXQieHNuNNsZQZ+WRYRkNGDN8AxN5oUtHK/2sT1hsb6fZ1vFDvOgUaObYyjPJR2QOPr7pg9bxni1dQqe5WPCQnlQH1i2XlNpAC8LoWud+uI2G+C7AXWlJMnfEV+Jvx2QwGghoJ+By3JJUTJg2LPgQ==;efjburEbN/VTQ+Y4zvT68Q=="

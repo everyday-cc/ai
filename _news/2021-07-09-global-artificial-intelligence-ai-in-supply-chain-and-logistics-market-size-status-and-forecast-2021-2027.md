@@ -34,6 +34,20 @@ related:
         width: 400
         height: 300
         isCached: true
+  - title: "Artificial Intelligence (AI) in BFSI Market Shaping A New Growth Cycle"
+    excerpt: "HTF MI Published Latest Global  Study by in-depth analysis about current scenario, the Market size, demand, growth pattern, trends, and forecast. Revenue for  has grown substantially over the six years to 2020 as a result of strengthening macroeconomic conditions and healthier demand,"
+    publishedDateTime: 2021-07-10T17:50:00Z
+    webUrl: "https://manometcurrent.com/artificial-intelligence-ai-in-bfsi-market-shaping-a-new-growth-cycle/"
+    type: article
+    provider:
+      name: manometcurrent.com
+      domain: manometcurrent.com
+    quality: 52
+    images:
+      - url: "https://manometcurrent.com/wp-content/uploads/2021/07/Artificial-Intelligence-AI-in-BFSI-Market.jpeg"
+        width: 504
+        height: 336
+        isCached: true
   - title: "Artificial Intelligence (AI) in Automotive Market"
     excerpt: "Latest added Artificial Intelligence (AI) in Automotive Market research study by MarketDigits offers detailed product outlook and elaborates market review till 2027. The market Study is segmented by key regions that is accelerating the marketization."
     publishedDateTime: 2021-07-07T18:54:00Z

@@ -10,7 +10,7 @@
       "originalUrl": "https://venturebeat.com/2021/07/10/how-cybersecurity-is-getting-ai-wrong/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 147,
+      "heat": 137,
       "tags": null,
       "images": [
         {
@@ -49,49 +49,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-10-global-neural-network-software-market-2019-size-growth-analysis-report-forecast-to-2025.md",
-      "title": "Global Neural Network Software Market 2019 Size, Growth Analysis Report, Forecast to 2025",
-      "excerpt": "The global neural network software market is expected to grow at a significant rate during the forecast period.The major factors that will contribute to the market growth include the increasing investment in AI (artificial intelligence) technologies and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2325654/global-neural-network-software-market-2019-size-growth",
-      "originalUrl": "https://www.openpr.com/news/2325654/global-neural-network-software-market-2019-size-growth",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 100,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.openpr.com/U/7/U710681949_g.jpg",
-          "width": 635,
-          "height": 357,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2325654/global-neural-network-software-market-2019-size-growth",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2325654/global-neural-network-software-market-2019-size-growth",
-      "publishedDateTime": "2021-07-10T03:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     },
@@ -198,7 +155,7 @@
       "originalUrl": "https://www.openpr.com/news/2325607/artificial-intelligence-ai-in-oil-and-gas-market-is-set-to-fly",
       "featuredContent": null,
       "highlight": null,
-      "heat": 86,
+      "heat": 96,
       "tags": null,
       "images": [
         {
@@ -1230,6 +1187,58 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-09-self-driving-teams-have-always-strived-to-measure-safety-what-if-thats-not-the-hard-thing.md",
+      "title": "Self-Driving Teams Have Always Strived To Measure Safety. What If That’s Not The Hard Thing?",
+      "excerpt": "Since the first dream of self-driving, there has always been a sharp focus (including from myself) on safety. The ability to reduce accidents is the grandest purpose of these projects, and every team declares that safety is at the core of everything they do.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/bradtempleton/2021/07/08/self-driving-teams-have-always-strived-to-measure-safety--what-if-thats-not-the-hard-thing/",
+      "originalUrl": "https://www.forbes.com/sites/bradtempleton/2021/07/08/self-driving-teams-have-always-strived-to-measure-safety--what-if-thats-not-the-hard-thing/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 93,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60e7638a994a15dff9ca0980%2F0x0.jpg",
+          "width": 1200,
+          "height": 774,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/bradtempleton/2021/07/08/self-driving-teams-have-always-strived-to-measure-safety--what-if-thats-not-the-hard-thing/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bradtempleton/2021/07/08/self-driving-teams-have-always-strived-to-measure-safety--what-if-thats-not-the-hard-thing/amp/",
+      "publishedDateTime": "2021-07-08T13:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
         "AI"
       ]
     }
