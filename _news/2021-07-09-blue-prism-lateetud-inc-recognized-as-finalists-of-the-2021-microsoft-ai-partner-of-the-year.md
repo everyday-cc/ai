@@ -147,24 +147,6 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "Artificial Intelligence in Healthcare Market 2021 Updated Report || Top Players – Intel, IBM, Google, Microsoft, General Vision"
-    excerpt: "Artificial Intelligence in Healthcare Market 2021 Updated Report \\|\\| Top Players – Intel, IBM, Google, Microsoft, General Vision; Surgical Planning Software Market"
-    publishedDateTime: 2021-07-05T18:47:00Z
-    webUrl: "https://manometcurrent.com/artificial-intelligence-in-healthcare-market-2021-updated-report-top-players-intel-ibm-google-microsoft-general-vision/"
-    type: article
-    provider:
-      name: manometcurrent.com
-      domain: manometcurrent.com
-    quality: 29
-  - title: "Call Center AI Market May Set Huge Growth by 2026 | IBM, Google, Microsoft, Oracle"
-    excerpt: "The latest study released on the Global Call Center AI Market by AMA Research evaluates market size, trend, and forecast to 2026. The Call Center AI market study covers significant research data and proofs to be a handy resource document for managers,"
-    publishedDateTime: 2021-07-05T18:46:00Z
-    webUrl: "https://manometcurrent.com/call-center-ai-market-may-set-huge-growth-by-2026-ibm-google-microsoft-oracle/"
-    type: article
-    provider:
-      name: manometcurrent.com
-      domain: manometcurrent.com
-    quality: 28
   - title: "Reply Shapes the Future of Autonomous Mobile Robots with the Power of Microsoft Azure"
     excerpt: "The solution combines Microsoft Azure services ... Reply integrates Azure Cognitive Services, Machine Learning and DevOps as well as Power Apps and Power BI. Thanks to Azure's intelligent service ..."
     publishedDateTime: 2021-07-06T07:38:00Z

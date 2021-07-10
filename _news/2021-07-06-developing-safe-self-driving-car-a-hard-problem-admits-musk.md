@@ -65,20 +65,6 @@ related:
         width: 675
         height: 380
         isCached: true
-  - title: "Elon Musk says he didn’t expect creating self-driving cars would be ‘so hard’"
-    excerpt: "Elon Musk has admitted that delivering full self-driving software has been harder than he anticipated, to a chorus of both complaints and encouragement on Twitter. “Generalised self-driving is a hard problem,"
-    publishedDateTime: 2021-07-05T18:16:00Z
-    webUrl: "https://www.independent.co.uk/news/elon-musk-says-he-didn-t-expect-creating-selfdriving-cars-would-be-so-hard-b1878605.html"
-    type: article
-    provider:
-      name: The Independent
-      domain: independent.co.uk
-    quality: 21
-    images:
-      - url: "https://static.independent.co.uk/s3fs-public/thumbnails/image/2018/12/12/15/elon-musk.jpg?width=1200&auto=webp&quality=75"
-        width: 1200
-        height: 900
-        isCached: true
 
 secured: "q5J4AdZUkYRdPAUpmjhDZHgZdhoGD3LobFTYpRk1/wrUXhfRfYXhhs6dPdwjyxL1WvvG9JUy+vVqwacdTyaEQ+xvzlN/FhYFbB2VnH2wUw7g9/zcXYVK80eNhIU6I4hcIKNMqRBADcKAkwkJEa4+00G32sq5zb+gJ1FFbpbTb0HjQMeYwcjcez0PbW22b5y47vB41wvOyZZnnn+R18UTfrHxeint+miSnope9eDeHowrRbQYU5sUqG6yYqGPisj4Vc0QiIDkt8aduFpO0TZhW/66DSvbiJK7d2vvtlMwqJihqMFgh0H4gHIAj1PvT9vIzQ+3tmRnnLaI/HdYEM4KjTZZC7G8kOibipkOdl8BAG8=;TjRASV8+vZHw7/8rzS812g=="
 ---

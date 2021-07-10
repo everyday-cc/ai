@@ -2,16 +2,16 @@
 category: news
 title: "China's Didi touts tech spending ahead of Wall St debut"
 excerpt: "Early investors included Apple Inc., Japan’s Softbank, Alibaba and Chinese internet giants, Tencent Holding Ltd. and Baidu Inc. Didi ... into development of self-driving, electric vehicles ..."
-publishedDateTime: 2021-06-30T07:56:00Z
-originalUrl: "https://www.wsoctv.com/news/chinas-didi-touts/DBXXNMFWEYG4ZRLYZ7NRQERQJU/"
-webUrl: "https://www.wsoctv.com/news/chinas-didi-touts/DBXXNMFWEYG4ZRLYZ7NRQERQJU/"
-ampWebUrl: "https://www.wsoctv.com/news/chinas-didi-touts/DBXXNMFWEYG4ZRLYZ7NRQERQJU/?outputType=amp"
-cdnAmpWebUrl: "https://www-wsoctv-com.cdn.ampproject.org/c/s/www.wsoctv.com/news/chinas-didi-touts/DBXXNMFWEYG4ZRLYZ7NRQERQJU/?outputType=amp"
+publishedDateTime: 2021-06-30T08:10:00Z
+originalUrl: "https://www.fox23.com/news/chinas-didi-touts/DBXXNMFWEYG4ZRLYZ7NRQERQJU/"
+webUrl: "https://www.fox23.com/news/chinas-didi-touts/DBXXNMFWEYG4ZRLYZ7NRQERQJU/"
+ampWebUrl: "https://www.fox23.com/news/chinas-didi-touts/DBXXNMFWEYG4ZRLYZ7NRQERQJU/?outputType=amp"
+cdnAmpWebUrl: "https://www-fox23-com.cdn.ampproject.org/c/s/www.fox23.com/news/chinas-didi-touts/DBXXNMFWEYG4ZRLYZ7NRQERQJU/?outputType=amp"
 type: article
 
 provider:
-  name: WSOC-TV
-  domain: wsoctv.com
+  name: Fox 23
+  domain: fox23.com
 
 topics:
   - AI in Autos
@@ -23,6 +23,6 @@ images:
     height: 3487
     isCached: true
 
-secured: "ObAUR0e3ooqvTrCBKbQFny3yFlt8l7DZubuzKDFdK/Q/qKxnBdvvNLf49fvc+i2X4uG77ncbC+wfNHKh+asWKalXsqfYk42zNweDfoVObuj8EMWftZbhVnTfjEbW3ds4CxYClUpAQaSKygaLNY8JCW3a5W43aLwqgNpG4Ssa5PYujF1eybg9Doq0wNG1SDqKe5AQkCqtweJHuIkH87apf3qDfCnxa5DjudsYiDVr2pisCCwl67A+pD9ZM2X5Y4RHqMpzzcD3TlJY66rT22kt1HIVE2dUh2eYpBl8hUoEAr32xS2OQriLTd3Cy8E6o5VIO3EhiRtQtLwL2TXnrDMt/3Zuz+JpnNVRwelcWHWk8w4=;eeYd+cyHxXPxT/GqLgIoTA=="
+secured: "ldxxDFH6vUsoi11UgpxtZYCsenS1hHKCQe6L2O0seOoFYCpTUcG1pguOZzB0rjrs9eQg40fFAdECgf7l9yEKTYEeYnrF/4ahJ9r6VbrZqgkRnZG+1/kwrCU182HAn9BQrCLxOP1kXo/pSwWMWfEVcmWzUI5fDCxVtILsGx5oFtli1lMyF3Sr3k22XLXgGEydkrg/TNABcSutuZOjFDjhYD1/tIN1wTdblVCwZW82PVib0IvWxFeYJqevArBBs+ZeWfNHYBC/imDvUnz7bNzyNAWxu0fqmy/sJlc8sDgtwYNp48HXtf1kn3S6GVQbMwKZ9SNCcQaLtiTVzw8OlLqrwOFRfSb2PoPardh4J9HXMFA=;bWPACZoxUIQErOPp0N344Q=="
 ---
 

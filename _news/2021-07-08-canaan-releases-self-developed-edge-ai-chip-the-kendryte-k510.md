@@ -1,28 +1,22 @@
 ---
 category: news
 title: "Canaan Releases Self-developed Edge AI Chip, the Kendryte K510"
-excerpt: "Canaan Inc. (NASDAQ: CAN) (“Canaan” or the “Company”), a leading high-performance computing solutions provider, today announced the release of the Kendryte K510 (the “K510”), an independently designed and developed RISC-V based edge AI chip,"
-publishedDateTime: 2021-07-08T10:01:00Z
-originalUrl: "https://apnews.com/press-release/pr-newswire/business-technology-deaa6cd696e93034a7f75cf76425385e"
-webUrl: "https://apnews.com/press-release/pr-newswire/business-technology-deaa6cd696e93034a7f75cf76425385e"
+excerpt: "Canaan Inc. (NASDAQ: CAN) (\"Canaan\" or the \"Company\"), a leading high-performance computing solutions provider, today announced the release of the Kendryte K510 (the \"K510\"), an independently designed and developed RISC-V based edge AI chip,"
+publishedDateTime: 2021-07-08T10:09:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-canaan-releases-self-developed-edge-ai-chip-kendryte-/2021/07/08/9405016.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-canaan-releases-self-developed-edge-ai-chip-kendryte-/2021/07/08/9405016.htm"
 type: article
-quality: 54
+quality: 34
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI Hardware
   - AI
-
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
 
 related:
   - title: "Canaan Introduces Self-Developed Edge AI Chip, The Kendryte K510"
@@ -68,6 +62,6 @@ related:
         height: 450
         isCached: true
 
-secured: "n6U2JcZfU6nBBfh3ZBr/01cxezV/PTQ4wgoGVAf9eTTKDnIAhRWfRSM4z9JEgoEh1Z+nFM4B6OYYUnFVWEPRS8Sg9dX1Bj3gToN3UfGw0S/iH28k03liuwvA2WCcDzl7h9RMqE+m6gSLcUvGCU9+uppodZ0JzVF96hq9mLNi9StF7TTbYVFvC+dsAztNMsLhox5hVbna3pQGIUs7nipgLduNYN73p96cW9paQGSMz601qOZLfxSIOkCEwtojy2JGBHHBaRCSIF4aYEvpZe+hC7r4l79hT0IusaDh4ThWS4xZNDovDs98x91OktVhmoHVPmbvrsKd+uxXHpPGM14oesvQSRfF5x1KoCNY4umBCu4=;lTqmNkUG0R+96ViDdkCn1Q=="
+secured: "eE7fkHu3TD7varXEDkyKtyLlAOiS6O7+EAQRt31mGrouoRfh1aILTvhDzso0+kcUyCelUhYPbocVbjYhzJifRcDjM/0JHYZWHFW5gKfhUTrcgj7tHeDHnTM+uobkTUb64OrqyWRZeCE8MuDRDuLflWMaeUjLQDlxRtHu6JJacDHdNTB/SVNMmTIYMKGK+iemq3ao+Qee7R340paEFWfVRRscakfRZNQZyklKZZ6EcfqmzVZktPoHg0oWKo1/9l+adBr8kiGQOlxJquxKSJ5SNwCtZoJ0iYq5vikPvauae1pUyNoRUv46pkcNV9w051D9uiTf8MxYJBQOpZlj8O4TxquL7bNxY5IR8e+uH19B/8A=;DK21qozuN7yHtfgsggP2Ew=="
 ---
 

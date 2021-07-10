@@ -39,20 +39,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Computer Vision Market Globally Expected to Drive Growth through 2025"
-    excerpt: "A complete research offering of comprehensive analysis of the market share, size, recent developments, and trends can be availed in this latest report by Big Market Research. As per the report, the Global Computer Vision Market is anticipated to witness significant growth during the forecast period from 2020 to 2025."
-    publishedDateTime: 2021-07-07T17:45:00Z
-    webUrl: "https://manometcurrent.com/computer-vision-market-globally-expected-to-drive-growth-through-2025/"
-    type: article
-    provider:
-      name: manometcurrent.com
-      domain: manometcurrent.com
-    quality: 39
-    images:
-      - url: "https://manometcurrent.com/wp-content/uploads/2021/07/BMR3-45-780x468.jpg"
-        width: 780
-        height: 468
-        isCached: true
   - title: "Global Mobile Robots Market (2021 to 2026) - Featuring Softbank Robotics, SMP Robotics and Aethon Among Others - ResearchAndMarkets.com"
     excerpt: "The \"Mobile Robots Market - Forecasts from 2021 to 2026\" report has been added to ResearchAndMarkets.com's offering. The global mobile robots market is evaluated"
     publishedDateTime: 2021-07-06T13:08:00Z

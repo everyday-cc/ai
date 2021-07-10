@@ -152,24 +152,6 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "Artificial Intelligence in Healthcare Market 2021 Updated Report || Top Players – Intel, IBM, Google, Microsoft, General Vision"
-    excerpt: "Artificial Intelligence in Healthcare Market 2021 Updated Report \\|\\| Top Players – Intel, IBM, Google, Microsoft, General Vision; Surgical Planning Software Market"
-    publishedDateTime: 2021-07-05T18:47:00Z
-    webUrl: "https://manometcurrent.com/artificial-intelligence-in-healthcare-market-2021-updated-report-top-players-intel-ibm-google-microsoft-general-vision/"
-    type: article
-    provider:
-      name: manometcurrent.com
-      domain: manometcurrent.com
-    quality: 29
-  - title: "Call Center AI Market May Set Huge Growth by 2026 | IBM, Google, Microsoft, Oracle"
-    excerpt: "The latest study released on the Global Call Center AI Market by AMA Research evaluates market size, trend, and forecast to 2026. The Call Center AI market study covers significant research data and proofs to be a handy resource document for managers,"
-    publishedDateTime: 2021-07-05T18:46:00Z
-    webUrl: "https://manometcurrent.com/call-center-ai-market-may-set-huge-growth-by-2026-ibm-google-microsoft-oracle/"
-    type: article
-    provider:
-      name: manometcurrent.com
-      domain: manometcurrent.com
-    quality: 28
   - title: "Blue Prism & Lateetud, Inc. recognized as finalists of the 2021 Microsoft AI Partner of the Year"
     excerpt: "LONDON and AUSTIN, Texas and WASHINGTON, July 8, 2021 /PRNewswire/ -- Blue Prism® and Lateetud today announced that their joint solution has been named a finalist for the Artificial Intelligence 2021 Microsoft Partner of the Year Award."
     publishedDateTime: 2021-07-08T14:05:00Z
@@ -207,6 +189,6 @@ related:
       domain: tmcnet.com
     quality: 14
 
-secured: "7qNJbeHMWdd+ed59CJDv+sUl/XdFk3vYPQfwgJtxuNmJXJaiMtBfVOZB/1uyGG/M0NXh6xEh0NMeCDtB1550xYubgjz2RCP2nLcIDM/NRCpEiIOJ4/jhdA8XKxXw0i/qg7ScJRhVw9aUCL3LwW/iKjIhmIvClWekZgFtZloZxKugZHuDCldJUoaHqTe1Wvrj5niUBicpTroLEa5aNPcnMxWvP/NnKssCO1zcTD4DPjjh+LxeNl/8Cb2ME872La/S13vQfNa5I2skDbscimeJ6wM8aLb6TRoyx/IaqKncbkGbUEkIPfx3mFhkzVr1VIpXZNTuPz+eP5ellrJSzszEkf83kVuHbwe5HWpe4Nue4iA=;sC3GXAw9qpYTXGW0ADtobA=="
+secured: "6Iu8mKD3ZYNDQ6LPtea6JP0PXlQ3qHeaXFAuOn9xhpV2qTV0D8ucVYJKxV6snxER18dK7n1DWayWTdq3CvXoWgskZKxCEDejfhc6h4q798Z6aJINHWAdltbcJiSYMQMq3b713nLgQw0fq2KU/nimTjllzG9dZs+j859xj9Xli0ThUsHsvjUzS3ECCWBaFB385CWMaY37KvauDPWU3MgW4TK+KYvTV97VBxVanle4McTRi0TnP4aAKZqslAJB3cagBaq9gJZVT9ku2p3vlX0o0A+8B5S+pXqogADdJtgXQx7lzGAOL3D85KMiIeU50WvTGDjD3HtS47TjDosqYe5pBypXFF6pGaahUk9NyuLrLdk=;70fmYUTdOGhLAAS3Ql94TA=="
 ---
 

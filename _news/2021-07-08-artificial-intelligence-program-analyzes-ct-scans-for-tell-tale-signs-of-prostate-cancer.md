@@ -58,20 +58,6 @@ related:
         width: 1440
         height: 981
         isCached: true
-  - title: "U of T researcher launches group to help detect hidden biases in AI systems"
-    excerpt: "A new initiative led by University of Toronto researcher Parham Aarabi aims to measure biases present in artificial intelligence systems as a first step toward fixing them. AI sys"
-    publishedDateTime: 2021-07-05T18:07:00Z
-    webUrl: "https://www.utoronto.ca/news/u-t-researcher-launches-group-help-detect-hidden-biases-ai-systems"
-    type: article
-    provider:
-      name: University of Toronto
-      domain: utoronto.ca
-    quality: 35
-    images:
-      - url: "https://www.utoronto.ca/sites/default/files/UofT2440_20131129_ParhamAarabi_006.jpg?169762"
-        width: 1140
-        height: 760
-        isCached: true
 
 secured: "8YjDTMyDNyR/PoE1WHZts6IwjBUnZzqTd5qDz+Mj+UK8UgDKTnOBzDFd9RpAhQxbJ/Qf31ix/xKwoYnKalZe68l/wBIANozG+2Ts5ENByAvMRPbYJPJiLVJvdYr4nDGPqWxr00e1iTyHvjvgn5OAGRpKXGRZD95PmO6ziVo0dKvbFg8Il4JLHwplEJtGxuy34EbbPAoKi+OSMB93/0ZU3ZUFmL+GMKsfdUK7o9fc8iGt6rsSNClh+Fbmpbmiy3J08K9n6pQMIrj4i4m57YCurWPfIWr+LtaE5Rt5CUWWbqYpRPc60Zk03loCAtvaQHdbS7ZCSz+YK96Aih+hD2TxsNtbElelbCbILqUGFJayuRAPYH3EOM6akBaoTx544Zl+C8wFLPLNWOS0UP0pzMpgb/Q8e73nDQcj/rWkiU024wCKXbQEQYGSQ1Rqfhg4Bej9vtXdOdfKq7LE1+vbK7ykXK08DHJP7rCUXzRo9973ttNlg31CKmm7pwpkSZ/fB1VEgjpBK6m+m7JMuZzeXkIpCA==;zcdiuYbCx949Et+qxwjwzA=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/rmit-university-researchers
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/rmit-university-researchers-train-ai-to-detect-early-stage-prostate-cancer/"
 type: article
 quality: 85
-heat: 115
+heat: 105
 published: true
 
 provider:
@@ -61,20 +61,6 @@ related:
       - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2014/7/174318220-620x480.jpg"
         width: 620
         height: 480
-        isCached: true
-  - title: "U of T researcher launches group to help detect hidden biases in AI systems"
-    excerpt: "A new initiative led by University of Toronto researcher Parham Aarabi aims to measure biases present in artificial intelligence systems as a first step toward fixing them. AI sys"
-    publishedDateTime: 2021-07-05T18:07:00Z
-    webUrl: "https://www.utoronto.ca/news/u-t-researcher-launches-group-help-detect-hidden-biases-ai-systems"
-    type: article
-    provider:
-      name: University of Toronto
-      domain: utoronto.ca
-    quality: 35
-    images:
-      - url: "https://www.utoronto.ca/sites/default/files/UofT2440_20131129_ParhamAarabi_006.jpg?169762"
-        width: 1140
-        height: 760
         isCached: true
 
 secured: "rQGOfFA71L5TmpvLdDiLqpVm4tYAhHwnixc9FcNiJxvinkiZw1bkmbMSeLVG56kVmlcUgYfISJUGxuK63OG1KG5Fl+h9PTWvw+NxCBYI5YZmQgZ4SKP3qRKMgiDLz7xAT2Vqfgwjnm9QR8tpnVY2/4NyEERosU9vc7xMxJxOWjxYLQ8nF1T6I/c9vTIJQBQS35HQIkNpiiyh+kzA+DbPYhv6IqnYz5Jd+ENHsNpxzHhJ8m3TzjDWfOMAWLCyVCXq1b7bG6JvQ5ZFXJQcCuAcPVtBVxMH+h7sNy4kvxs0R4nlm9DodKJG/5vRw9FH1CNBEnViFnbECh15chLtSYQo6xrvL7Nlgybz6WpYXey5h8i8yVc+9bPac8Xc0YxT3yncaukEVxmp9/SXf/0ak6JZW0wXlIhiddTtEfb0dQiRsYVVsl3FTq6Dp92RopNzv8JsV0ob6ErvaOYeZnmV5NRBwGGqw8I6tjAswWWHyr/lyudzPBDDlLlKKi8f2YCnwuKRn3wc1CPPovld2PCZWXP7Jw==;6RmUdpw04uRxyfy6f8Noxw=="

@@ -26,20 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Deep Learning Market Size 2021 Global Industry Trends, Segments, Competitors Strategy, Regional Analysis, Key Players, Statistics and Growth to 2030"
-    excerpt: "Facebook announced the launch of its deep learning framework PyTorch 1.0. The framework includes a set of tools which makes it more compatible with platforms like Google Cloud, Amazon Web Services, and Microsoft's Azure Machine Learning. In October 2018 ..."
-    publishedDateTime: 2021-07-07T03:35:00Z
-    webUrl: "https://www.marketwatch.com/press-release/deep-learning-market-size-2021-global-industry-trends-segments-competitors-strategy-regional-analysis-key-players-statistics-and-growth-to-2030-2021-07-06"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 32
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "COVID-19 Impact and Analysis|Artificial Intelligence Market In The Industrial Sector| Technavio"
     excerpt: "Technavio has been monitoring the artificial intelligence market in the industrial sector, operating under the industrials segment."
     publishedDateTime: 2021-07-06T02:50:00Z
@@ -51,15 +37,6 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 25
-  - title: "Global Machine Learning in Medical Imaging Market Size, Status and Forecast 2021-2027"
-    excerpt: "Medical imaging analytics tools become more readily available, providers are likely to find strong incentives to investigate the best way to integrate artificial intelligence/machine learning into their imaging strategies. Machine Learning in Medical ..."
-    publishedDateTime: 2021-07-09T07:46:00Z
-    webUrl: "https://www.reportsnreports.com/reports/4655615-global-machine-learning-in-medical-imaging-market-size-status-and-forecast-2021-2027.html"
-    type: article
-    provider:
-      name: ReportsnReports
-      domain: reportsnreports.com
-    quality: 12
   - title: "COVID-19 Impact Analysis of Self-driving Ships Market Report 2021 | Kongsberg, Rolls-Royce, ASV, DARPA, NYK Line"
     excerpt: "Global Self-driving Ships Market research report provides the latest manufacturing data and future trends, enabling you to recognize results, revenue growth, and profitability. This industry report lists the top competitors and provides revolutionary strategic analysis of the key drivers of the market."
     publishedDateTime: 2021-07-07T14:48:00Z

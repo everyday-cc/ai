@@ -29,20 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Canaan Releases Self-developed Edge AI Chip, the Kendryte K510"
-    excerpt: "Canaan Inc. (NASDAQ: CAN) (“Canaan” or the “Company”), a leading high-performance computing solutions provider, today announced the release of the Kendryte K510 (the “K510”), an independently designed and developed RISC-V based edge AI chip,"
-    publishedDateTime: 2021-07-08T10:01:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/business-technology-deaa6cd696e93034a7f75cf76425385e"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 54
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
   - title: "Canaan Announces Kendryte K510 Edge AI Chip as a Triple-Core RISC-V Part with 3 TOPS NPU"
     excerpt: "The successor to the K210, the new K510 promises twice the clock speed, three times the NPU performance, and an extra core for DSP work."
     publishedDateTime: 2021-07-09T21:34:00Z
@@ -57,6 +43,15 @@ related:
         width: 600
         height: 450
         isCached: true
+  - title: "Canaan Releases Self-developed Edge AI Chip, the Kendryte K510"
+    excerpt: "Canaan Inc. (NASDAQ: CAN) (\"Canaan\" or the \"Company\"), a leading high-performance computing solutions provider, today announced the release of the Kendryte K510 (the \"K510\"), an independently designed and developed RISC-V based edge AI chip,"
+    publishedDateTime: 2021-07-08T10:09:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-canaan-releases-self-developed-edge-ai-chip-kendryte-/2021/07/08/9405016.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 34
   - title: "Meituan Unveils Self-Developed Drone Model, Plans for Drone Logistics Network at 2021 World Artificial Intelligence Conference"
     excerpt: "China’s leading e-commerce platform for services, today introduced a new, self-developed drone model and announced plans for a drone logistics network pilot program in Shanghai. The announcement was made at the 2021 World Artificial Intelligence Conference (WAIC) in Shanghai,"
     publishedDateTime: 2021-07-08T13:43:00Z

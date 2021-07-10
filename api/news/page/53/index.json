@@ -2,6 +2,74 @@
   "page": 53,
   "value": [
     {
+      "path": "_news/2021-05-31-top-start-ups-to-use-artificial-intelligence-in-mental-healthcare.md",
+      "title": "Top Start-ups to Use Artificial Intelligence in Mental Healthcare",
+      "excerpt": "Around the world, startups are gearing up for treating mental healthcare issues with more seriousness than ever. Using artificial intelligence for healthcare is not new and nowadays this technology is also being used by companies treating mental health issues.",
+      "sourceUrl": null,
+      "webUrl": "https://www.analyticsinsight.net/top-start-ups-to-use-artificial-intelligence-in-mental-healthcare/",
+      "originalUrl": "https://www.analyticsinsight.net/top-start-ups-to-use-artificial-intelligence-in-mental-healthcare/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-31T05:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Analytics Insight",
+        "domain": "analyticsinsight.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-31-whitelab-genomics-and-the-accelerator-for-technological-research-in-genomic-therapies-announce-their-collaboration-on-artificial-intelligence.md",
+      "title": "WhiteLab Genomics and the Accelerator for Technological Research in Genomic Therapies Announce Their Collaboration on Artificial Intelligence for the Bioproduction of Gene ...",
+      "excerpt": "WhiteLab Gx and the Accelerator for Technological Research in Genomic Therapies announce their collaboration on AI for gene therapy Bioproduction.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesswire.com/news/home/20210531005131/en/WhiteLab-Genomics-and-the-Accelerator-for-Technological-Research-in-Genomic-Therapies-Announce-Their-Collaboration-on-Artificial-Intelligence-for-the-Bioproduction-of-Gene-Therapies",
+      "originalUrl": "https://www.businesswire.com/news/home/20210531005131/en/WhiteLab-Genomics-and-the-Accelerator-for-Technological-Research-in-Genomic-Therapies-Announce-Their-Collaboration-on-Artificial-Intelligence-for-the-Bioproduction-of-Gene-Therapies",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-31T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-31-future-of-chip-making-to-lean-heavily-on-ai-for-spotting-defects-says-applied-materials.md",
       "title": "Future of chip making to lean heavily on AI for spotting defects, says Applied Materials",
       "excerpt": "For the first time, a machine learning program will tell a scanning electron microscope where to look closer for defects in a silicon wafer",
@@ -1023,92 +1091,6 @@
       ],
       "topics": [
         "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-29-beijings-self-driving-vehicle-test-mileage-tops-3-mln-km.md",
-      "title": "Beijing's self-driving vehicle test mileage tops 3 mln km",
-      "excerpt": "The safety test mileage of Beijing self-driving vehicles has exceeded 3 million km to date equivalent to going about 75 times aroun",
-      "sourceUrl": null,
-      "webUrl": "https://www.bignewsnetwork.com/news/269677672/beijings-self-driving-vehicle-test-mileage-tops-3-mln-km",
-      "originalUrl": "https://www.bignewsnetwork.com/news/269677672/beijings-self-driving-vehicle-test-mileage-tops-3-mln-km",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.bignewsnetwork.com/bnn/images/big-news-network-slogan.jpg",
-          "width": 630,
-          "height": 420,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-29T01:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Big News Network.com",
-        "domain": "bignewsnetwork.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-29-new-ai-tool-to-help-doctors-assess-severity-of-covid-in-patients.md",
-      "title": "New AI tool to help doctors assess severity of COVID in patients",
-      "excerpt": "Toronto: Artificial intelligence (AI) technology developed by researchers at the University of Waterloo is capable of assessing the severity of COVID-19 cases with a promising degree",
-      "sourceUrl": null,
-      "webUrl": "https://english.madhyamam.com/technology/new-ai-tool-to-help-doctors-assess-severity-of-covid-in-patients-803903",
-      "originalUrl": "https://english.madhyamam.com/technology/new-ai-tool-to-help-doctors-assess-severity-of-covid-in-patients-803903",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 209,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://english.madhyamam.com/h-upload/2021/05/29/1025379-6b0c2967-5c1a-4b2a-961f-5b571be88f13.jpg",
-          "width": 600,
-          "height": 298,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://english.madhyamam.com/amp/technology/new-ai-tool-to-help-doctors-assess-severity-of-covid-in-patients-803903",
-      "cdnAmpWebUrl": "https://english-madhyamam-com.cdn.ampproject.org/c/s/english.madhyamam.com/amp/technology/new-ai-tool-to-help-doctors-assess-severity-of-covid-in-patients-803903",
-      "publishedDateTime": "2021-05-29T00:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Madhyamam",
-        "domain": "madhyamam.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }

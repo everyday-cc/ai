@@ -1,20 +1,30 @@
 ---
 category: news
 title: "CrowdStrike Wins 2021 Amazon Web Services Global Public Sector Partner and Canada AWS Partner Awards"
-excerpt: "CrowdStrike, a leader in cloud-delivered endpoint and workload protection, today announced it has been named the winner of two key Amazon Web Services ( News - Alert) (AWS) partner-focused awards - the 2021 AWS Global Public Sector Partner Award for best cybersecurity solution and 2021 Canada AWS Partner Award as the ISV Partner of the Year."
-publishedDateTime: 2021-06-30T12:12:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/2021/06/30/9400745.htm"
-webUrl: "https://www.tmcnet.com/usubmit/2021/06/30/9400745.htm"
+excerpt: "CrowdStrike, a leader in cloud-delivered endpoint and workload protection, today announced it has been named the winner of two key Amazon Web Services"
+publishedDateTime: 2021-06-30T12:00:00Z
+originalUrl: "https://www.marketwatch.com/press-release/crowdstrike-wins-2021-amazon-web-services-global-public-sector-partner-and-canada-aws-partner-awards-2021-06-30"
+webUrl: "https://www.marketwatch.com/press-release/crowdstrike-wins-2021-amazon-web-services-global-public-sector-partner-and-canada-aws-partner-awards-2021-06-30"
 type: article
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: MarketWatch
+  domain: marketwatch.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AWS AI
   - AI
 
-secured: "znGjmmLWZILW+bG5YHu+3EtK2G6uCA/0EaEmQ9Hh//X14D/AkQvbhJArmWcqMPI2XXH44abSWYeQO7uOtbDagqT+xcHGaEYu1RCee4s5WtiIT2FFJPwXRk/Jl5eTvain485Mt7M/bKvxkI9mbZ+cmzNvDZckxgLvK+i+m+djQ9O7hKliONDfzSs75shr39xosRq4X6VkTt9r6z1O4eZXIztQ2LRPSLMZL62EtbXI4nw1F7+TUNzx/1GbpV8p3NQzW0nUlru3Z0BRFq+hRiitk4zsIolcSB6+wfmKaIroLZ4kG9fOe5csTwftpZ4VcrNe94ceYidU/WjrgccNvRirYy8StclsZGuu5cVQlF2m3h0=;vNBu+KOh1DpYnnn+1HJnPA=="
+images:
+  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+    width: 1200
+    height: 630
+    isCached: true
+
+secured: "Y91DexZSVrSCpf11xnZEv6efDu1Yc09QCtiGwmmCSX2h8hTA8xEyh5Fk8JIgVo21sYWvkR0EcwtRNxiaIgiMgmct8+2M5lM7oUO/tdAVbXCtcB8DnWEwIaLtVKeHtkjZHC7yhu44T74tPoLOjbOTQtRTdt0lQ+ohToTBNqyo0FHhp8DmJWovjBA4TFnEth1AubYjibjwBSbZrDCxsgGet3y1X9sJQSJoZ/Pk/Ft63pF/pakUfCWJd5Sd1/IFydg1h+cCVglwjv1d6xDG2pSmvA+GptyqLXslVxNP23LkMf9FOqA2DI75jK7JlMCg8DnZe6xpXqEGmEok2GQlhti7e6vsiT+MxzQVkw5xTRLpunw=;qxTEInTVB7WVKn/cr3yMuA=="
 ---
 

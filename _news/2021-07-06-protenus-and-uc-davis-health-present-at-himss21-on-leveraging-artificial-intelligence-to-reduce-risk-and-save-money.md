@@ -1,29 +1,23 @@
 ---
 category: news
 title: "Protenus and UC Davis Health Present at HIMSS21 on Leveraging Artificial Intelligence to Reduce Risk and Save Money"
-excerpt: "Nick Culbertson, Protenus CEO, and Alessia Shahrokh, UC Davis Health Compliance Investigations Manager, discuss best practices to proactively identify and prevent risk across the health system. BALTIMORE – July 6,"
-publishedDateTime: 2021-07-06T13:51:00Z
-originalUrl: "https://www.digitaljournal.com/pr/protenus-and-uc-davis-health-present-at-himss21-on-leveraging-artificial-intelligence-to-reduce-risk-and-save-money"
-webUrl: "https://www.digitaljournal.com/pr/protenus-and-uc-davis-health-present-at-himss21-on-leveraging-artificial-intelligence-to-reduce-risk-and-save-money"
+excerpt: "Healthcare organizations across the U.S. are struggling to protect their patients and workforce from unnecessary harm, as health data breaches and clinical drug diversion remain a constant threat, especially during the COVID-19 pandemic,"
+publishedDateTime: 2021-07-06T13:06:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-protenus-uc-davis-health-present-himss21-leveraging-artificial-/2021/07/06/9403372.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-protenus-uc-davis-health-present-himss21-leveraging-artificial-/2021/07/06/9403372.htm"
 type: article
-quality: 17
-heat: 17
+quality: 0
+heat: 0
 published: false
 
 provider:
-  name: Digital Journal
-  domain: digitaljournal.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI in Healthcare
   - AI
 
-images:
-  - url: "https://www.digitaljournal.com/wp-content/uploads/2021/07/London-Symphony-Orchestra-free-concert-600x337.jpeg"
-    width: 600
-    height: 337
-    isCached: true
-
-secured: "b4HcsZF3kikuiAUnRA341NAZXge54qVQY5HD1HCgcLiEKCE+vNpfEKp+/cMOwdVtfmkP+4CBVInajvr1kLlWUryPNDtBrCBcL5IjDze9boMxhJY5PInfriSSwio4ZFmpgihHj2p+7reipwGYOiYvCFrbrCjOI2XWDOGqRr+U0l/B3b/MZNBTV0mZU0OMTtMBm7+dbAWzJIOOlKHos4gjxh2Qy8OhHXygfSaDb1FiW5Zbm91bxlBPUKrAox6ol2aVDIiHildy0XOk9Wxw8sUori6dvQmmM5SF8pNK1V81WITAJ2ZtS8v0M18b5RH72c/CSa44e5Ph8EcebL9tbEE2gnZmQnFEbgnOzmBly3LYCjw=;I1n5F/T1URIbjYeyDWmlDw=="
+secured: "PvUvoGmuOFgUhSmbVMpriuqXaq43RE7MtCWwJLcSOoqa56g8NFEMnR62hrbLzd6nSTuCCdxD+E3dhVl8oOgGOx7ayqlGpgvU4Qasnu3mzMVPi52gXOre6IPH3Lc3SYn+M8SX5iTj6fGvfCoML7pawGpyCvbSD7C0OEzIc2e1VXnPqWnM0OVoqNn5hFZAoVs4sQFPSoI4ubwELk1ZQL0j5qkr+Q8hvFFcIKvQ2di0R3JD6tA1yjkU6gOqx/zg9K6QoKKTQ68c++twiBL1Im6Dudb2pfmiL2fYJnrdsQ/hEIIAdCI7pPeGJcIcqRk+E3AwrJr6lk4/uB16cBP+E9+ltLg6QVNGE1xwdJGgSCETDso=;DXhk4AqDOvcu6lyd2bJq4w=="
 ---
 
