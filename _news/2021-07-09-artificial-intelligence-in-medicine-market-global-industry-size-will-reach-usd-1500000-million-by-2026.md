@@ -25,20 +25,17 @@ images:
     isCached: true
 
 related:
-  - title: "Healthcare Chatbots Market Size to Reach Revenues of USD 517.96 Million by 2026 – Arizton"
-    excerpt: "As a result, the global healthcare chatbots market is anticipated to witness an absolute growth of around 323% during the forecast period North America is likely to witness the highest incremental growth of around USD 177 million during the forecast period due to the high acceptance of telehealth platforms and increase in reimbursement options"
-    publishedDateTime: 2021-07-06T21:00:00Z
-    webUrl: "https://insurancenewsnet.com/oarticle/healthcare-chatbots-market-size-to-reach-revenues-of-usd-517-96-million-by-2026-arizton"
+  - title: "Artificial Intelligence in Military Market Projected to reach $11.6 billion by 2025"
+    excerpt: "The report Artificial Intelligence in Military Market by Offering Software Hardware Services Technology Machine Learning Computer vision Application Installation Type Platform Region Global Forecast to 2025 is estimated at USD 6 3 billion in 2020 and is projected to reach"
+    publishedDateTime: 2021-07-06T04:56:00Z
+    webUrl: "https://www.openpr.com/news/2321810/artificial-intelligence-in-military-market-projected-to-reach"
+    ampWebUrl: "https://www.openpr.com/amp/2321810/artificial-intelligence-in-military-market-projected-to-reach"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2321810/artificial-intelligence-in-military-market-projected-to-reach"
     type: article
     provider:
-      name: Insurancenewsnet.com
-      domain: insurancenewsnet.com
-    quality: 30
-    images:
-      - url: "https://insurancenewsnet.com/wp-content/uploads/2021/06/Columbus-Life_300x600_2021-06-1.jpg"
-        width: 300
-        height: 600
-        isCached: true
+      name: openpr.com
+      domain: openpr.com
+    quality: 31
   - title: "AI-based Surgical Robots Market Size To Reach $17.2 Billion By 2028: Grand View Research, Inc."
     excerpt: "The globalAI-based surgical robots marketsize is expected to reach USD 17.2 billion by 2028, according to a new report by Grand View Re"
     publishedDateTime: 2021-07-07T08:18:00Z

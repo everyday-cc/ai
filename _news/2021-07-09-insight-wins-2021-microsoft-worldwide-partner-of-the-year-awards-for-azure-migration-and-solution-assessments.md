@@ -3,8 +3,8 @@ category: news
 title: "Insight Wins 2021 Microsoft Worldwide Partner of the Year Awards for Azure Migration and Solution Assessments"
 excerpt: "Insight Enterprises (NASDAQ:NSIT), the global provider of Insight Intelligent Technology Solutions™ for organizations of all sizes, today announced it has won two 2021 Microsoft ( News - Alert) Worldwide Partner of the Year Awards as Migration to Azure Partner of the Year and Solution Assessments Partner of the Year."
 publishedDateTime: 2021-07-09T16:07:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/2021/07/09/9406115.htm"
-webUrl: "https://www.tmcnet.com/usubmit/2021/07/09/9406115.htm"
+originalUrl: "https://www.tmcnet.com/usubmit/-insight-wins-2021-microsoft-worldwide-partner-the-year-/2021/07/09/9406115.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-insight-wins-2021-microsoft-worldwide-partner-the-year-/2021/07/09/9406115.htm"
 type: article
 quality: 15
 heat: -1
@@ -207,6 +207,6 @@ related:
       domain: tmcnet.com
     quality: 14
 
-secured: "pe6RSL4Uw4Q1TDXLmcuiOhkEkN4vjHIGjrNley+mcO+utbuMwxnbYgF3eSh9HjdDqRB1EBFA8cuktCQuKHVeiz0Ad9Q3YIbjb5E6j3IiwkG7FQoJ3vlHOW4CqJdWTtJsQWFngSyvzolNRa3cwN9Tr/YggIWGbHhyAhMo9tmvXO2DZuENiUPvv5UHvTJJX2KUU+amDP8zi8P02MjlwZu6JkFW6CXJSaiZOTwM+xzWKwF9uxMMiCTddaV1NPI43IeBk8Wy+t6Guwcpfpbw7whJbft7rnAn+SCC8noYsTpWBhCt9+JaT185GKp89mQ6G+LbLpfA+wdTImhGzDKKF2WpB3lGtcTM0oUIz1AyUm/oGA8=;YUBB4TdKgC0GFUOPnrOAOA=="
+secured: "EpE6cG4hEkqZEWP6FhS8S9+AxrY7bRB8K4lDYiQ8BdkWyjs1L74iMd+PUA2Kueib/GbDGkeHBzvtWFkut0iyahkhu218N4vHzmFMOf962jlF+hnZFcWksEm4CGd3UnqsZoH9o0stXFWv+ai4KvkFBIhPx6SicMBVq44FqqB2Q599xG2wnGshK7noPVvMwPdjf/Af882Ome3NMlqU0bGMVcEkwJbdCAbqBONPpTlwlnO9MtI6OwxJjvlHamP/It4T+TQw5IerzGmDu3Rv4hhEZ8G3Z3FR7XuVj8gJMXH7ZTyODnlDNT6zCGoSenTVUvUwwhDoNAtPMuAxJUeI2DVnWEHIxla4MBx/4CliYgewKSw=;2FbHbyfMjdVb5HyqMYs0jA=="
 ---
 

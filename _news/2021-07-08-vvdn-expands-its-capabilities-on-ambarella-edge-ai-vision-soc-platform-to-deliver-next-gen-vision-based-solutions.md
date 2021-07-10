@@ -19,15 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "VVDN expands its capabilities on Ambarella edge AI vision SoC platform to deliver next-gen vision based solutions"
-    excerpt: "VVDN Technologies, a premier electronic product engineering and manufacturing company, announces the expansion of its capabilities on"
-    publishedDateTime: 2021-07-05T10:14:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/vvdn-expands-its-capabilities-on-ambarella-edge-ai-vision-soc-platform-to-deliver-next-gen-vision-based-solutions-1030578196"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 28
   - title: "VVDN and Ambarella Partner on Next-gen Vision-based Solutions"
     excerpt: "VVDN Technologies is expanding its capabilities on Ambarella's edge AI vision SoC platform to design and manufacture next-gen vision-based solutions."
     publishedDateTime: 2021-07-05T16:32:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.openpr.com/amp/2321810/artificial-intelligence-in-milita
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2321810/artificial-intelligence-in-military-market-projected-to-reach"
 type: article
 quality: 31
-heat: -1
+heat: 31
 published: false
 
 provider:
@@ -20,17 +20,26 @@ topics:
   - AI
 
 related:
-  - title: "Speech and Voice Recognition Market Revenue was Estimated to be US$ 7.8 billion in 2020-insightSLICE"
-    excerpt: "The Global Speech and Voice Recognition Market Share, Trends, Analysis and Forecasts, 2020-2030 provides insights on"
-    publishedDateTime: 2021-07-05T10:02:00Z
-    webUrl: "https://www.marketwatch.com/press-release/speech-and-voice-recognition-market-revenue-was-estimated-to-be-us-78-billion-in-2020-insightslice-2021-07-05"
+  - title: "AI-based Surgical Robots Market Size To Reach $17.2 Billion By 2028: Grand View Research, Inc."
+    excerpt: "The globalAI-based surgical robots marketsize is expected to reach USD 17.2 billion by 2028, according to a new report by Grand View Re"
+    publishedDateTime: 2021-07-07T08:18:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-ai-based-surgical-robots-market-size-reach-172-/2021/07/07/9403932.htm"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 39
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 22
+  - title: "Artificial Intelligence in Medicine Market: Global Industry Size Will Reach USD 15,000.00 Million By 2026"
+    excerpt: "Pages Report] According to the Facts and Factors research report, the global artificial intelligence in medicine market in 2019 was around USD 800.00 Million. The market"
+    publishedDateTime: 2021-07-08T21:50:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/21/07/ab21907737/artificial-intelligence-in-medicine-market-global-industry-size-will-reach-usd-15-000-00-million-"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 22
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+      - url: "https://cdn.benzinga.com/files/imagecache/og_image_social_share_1200x630/sites/all/themes/bz2/images/bz-icon.png"
         width: 1200
         height: 630
         isCached: true

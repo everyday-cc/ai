@@ -7,7 +7,7 @@ originalUrl: "https://www.eetindia.co.in/vvdn-and-ambarella-partner-on-next-gen-
 webUrl: "https://www.eetindia.co.in/vvdn-and-ambarella-partner-on-next-gen-vision-based-solutions/"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -25,15 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "VVDN expands its capabilities on Ambarella edge AI vision SoC platform to deliver next-gen vision based solutions"
-    excerpt: "VVDN Technologies, a premier electronic product engineering and manufacturing company, announces the expansion of its capabilities on"
-    publishedDateTime: 2021-07-05T10:14:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/vvdn-expands-its-capabilities-on-ambarella-edge-ai-vision-soc-platform-to-deliver-next-gen-vision-based-solutions-1030578196"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 28
   - title: "VVDN expands its capabilities on Ambarella edge AI vision SoC platform to deliver next-gen vision based solutions"
     excerpt: "GURUGRAM, India, July 5, 2021 /PRNewswire/ -- VVDN Technologies, a premier electronic product engineering and manufacturing company, announces the expansion of its capabilities on Ambarella's edge ..."
     publishedDateTime: 2021-07-07T21:35:00Z
