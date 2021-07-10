@@ -2,6 +2,49 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-06-02-greensprings-school-to-integrate-robotics-ai-into-curriculum.md",
+      "title": "Greensprings School to Integrate Robotics, AI into Curriculum",
+      "excerpt": "By Uchechukwu Nnaike The management of Greensprings School, Lagos, has announced that the school will start offering robotics and artificial intelligence (AI) to its secondary school students. The",
+      "sourceUrl": null,
+      "webUrl": "https://www.thisdaylive.com/index.php/2021/06/02/greensprings-school-to-integrate-robotics-ai-into-curriculum/",
+      "originalUrl": "https://www.thisdaylive.com/index.php/2021/06/02/greensprings-school-to-integrate-robotics-ai-into-curriculum/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/thisday-846548948316-wp-data/wp-media/2018/11/ddab228d-greensprings-school.jpg",
+          "width": 800,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thisdaylive.com/index.php/2021/06/02/greensprings-school-to-integrate-robotics-ai-into-curriculum/amp/",
+      "cdnAmpWebUrl": "https://www-thisdaylive-com.cdn.ampproject.org/c/s/www.thisdaylive.com/index.php/2021/06/02/greensprings-school-to-integrate-robotics-ai-into-curriculum/amp/",
+      "publishedDateTime": "2021-06-01T16:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "This Day",
+        "domain": "thisdaylive.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-02-can-artificial-intelligence-machine-learning-enable-robot-empathy.md",
       "title": "Can Artificial Intelligence Machine Learning Enable Robot Empathy?",
       "excerpt": "Artificial intelligence (AI) machine learning is fueling the current commercial boom in automation, and robots are becoming increasingly more sophisticated. In a step forward in endowing robots with human-like behavior,",
@@ -1380,49 +1423,6 @@
         "AI in Robotics",
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2021-05-26-artistic-humanoid-robot-creates-unsettling-self-portraits-selling-for-big-money.md",
-      "title": "Artistic humanoid robot creates unsettling self portraits selling for big money",
-      "excerpt": "One of humankind's most admirable pursuits is its instinctive desire to produce works of art in myriad mediums that inspire, entertain, and challenge our notions of who we are as a species.",
-      "sourceUrl": null,
-      "webUrl": "https://www.syfy.com/syfywire/artistic-humanoid-robot-creates-self-portraits",
-      "originalUrl": "https://www.syfy.com/syfywire/artistic-humanoid-robot-creates-self-portraits",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.syfy.com/sites/syfy/files/styles/1200x680/public/2021/05/aida1.jpg",
-          "width": 1200,
-          "height": 680,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.syfy.com/syfywire/artistic-humanoid-robot-creates-self-portraits?amp",
-      "cdnAmpWebUrl": "https://www-syfy-com.cdn.ampproject.org/c/s/www.syfy.com/syfywire/artistic-humanoid-robot-creates-self-portraits?amp",
-      "publishedDateTime": "2021-05-25T18:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Syfy",
-        "domain": "syfy.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

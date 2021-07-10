@@ -1,27 +1,31 @@
 ---
 category: news
-title: "Elon Musk Says Tesla’s ‘Mind-Blowing’ Full Self-Driving Beta v9 Will Arrive This Saturday"
-excerpt: "Elon Musk says that Tesla's 'mind blowing' Full Self-Driving beta v9 update will arrive this Saturday. Here are all the details on this."
-publishedDateTime: 2021-07-08T14:26:00Z
-originalUrl: "https://www.redmondpie.com/elon-musk-says-teslas-mind-blowing-full-self-driving-beta-v9-will-arrive-this-saturday/"
-webUrl: "https://www.redmondpie.com/elon-musk-says-teslas-mind-blowing-full-self-driving-beta-v9-will-arrive-this-saturday/"
+title: "Tesla Releases Ninth 'Full Self-Driving' Beta Two Years After It Was Promised"
+excerpt: "Tesla has released the ninth beta of its Full Self-Driving (FSD) software to vehicle owners who have purchased the not-quite-autonomous driving feature. The Verge reported that the update was supposed to debut in August 2018,"
+publishedDateTime: 2021-07-10T19:09:00Z
+originalUrl: "https://in.pcmag.com/cars-auto/143664/tesla-releases-ninth-full-self-driving-beta-two-years-after-it-was-promised"
+webUrl: "https://in.pcmag.com/cars-auto/143664/tesla-releases-ninth-full-self-driving-beta-two-years-after-it-was-promised"
 type: article
-quality: 30
+quality: 66
 heat: -1
 published: false
 
 provider:
-  name: Redmond Pie
-  domain: redmondpie.com
+  name: PC Magazine
+  domain: pcmag.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://cdn.redmondpie.com/wp-content/uploads/2021/02/tesla-model-s-pre-2018.jpg"
+  - url: "https://sm.pcmag.com/t/pcmag_in/news/t/tesla-rele/tesla-releases-ninth-full-self-driving-beta-two-years-after_9fhh.1200.jpg"
     width: 1200
-    height: 640
+    height: 675
     isCached: true
 
 related:
@@ -72,20 +76,6 @@ related:
       - url: "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2019/04/Tesla-new-self-driving-demo-e1555984282698.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
         width: 1200
         height: 628
-        isCached: true
-  - title: "Tesla Releases Ninth 'Full Self-Driving' Beta Two Years After It Was Promised"
-    excerpt: "Tesla has released the ninth beta of its Full Self-Driving (FSD) software to vehicle owners who have purchased the not-quite-autonomous driving feature. The Verge reported that the update was supposed to debut in August 2018,"
-    publishedDateTime: 2021-07-10T19:09:00Z
-    webUrl: "https://in.pcmag.com/cars-auto/143664/tesla-releases-ninth-full-self-driving-beta-two-years-after-it-was-promised"
-    type: article
-    provider:
-      name: PC Magazine
-      domain: pcmag.com
-    quality: 66
-    images:
-      - url: "https://sm.pcmag.com/t/pcmag_in/news/t/tesla-rele/tesla-releases-ninth-full-self-driving-beta-two-years-after_9fhh.1200.jpg"
-        width: 1200
-        height: 675
         isCached: true
   - title: "Elon Musk Confirms Tesla’s Launch Date of Its Full Self-Driving Beta v9"
     excerpt: "Tesla fans may not have long to wait to get a taste of self-driving cars, as CEO Elon Musk has (finally) confirmed an official launch date of the Full Self-Driving Beta v9. In the early hours of Thursday,"
@@ -147,6 +137,20 @@ related:
         width: 400
         height: 300
         isCached: true
+  - title: "Elon Musk Says Tesla’s ‘Mind-Blowing’ Full Self-Driving Beta v9 Will Arrive This Saturday"
+    excerpt: "Elon Musk says that Tesla's 'mind blowing' Full Self-Driving beta v9 update will arrive this Saturday. Here are all the details on this."
+    publishedDateTime: 2021-07-08T14:26:00Z
+    webUrl: "https://www.redmondpie.com/elon-musk-says-teslas-mind-blowing-full-self-driving-beta-v9-will-arrive-this-saturday/"
+    type: article
+    provider:
+      name: Redmond Pie
+      domain: redmondpie.com
+    quality: 30
+    images:
+      - url: "https://cdn.redmondpie.com/wp-content/uploads/2021/02/tesla-model-s-pre-2018.jpg"
+        width: 1200
+        height: 640
+        isCached: true
   - title: "Tesla to debut 'mind-blowing' full self-driving beta this week"
     excerpt: "Tesla CEO Elon Musk has teased that some Tesla owners will be able to test out the 'mind-blowing' Full Self-Driving beta soon."
     publishedDateTime: 2021-07-09T09:04:00Z
@@ -157,6 +161,6 @@ related:
       domain: tweaktown.com
     quality: 19
 
-secured: "lfU6U2ROdqepLwMHivpuurrBKdyEYuBsVWmInA4R+gjH0fyoDQRP2si36mKIprHGOPVVEQWtKPp+KHwyX3453e4A/fxOmYI11Ez9B4TxZ58WimQSFSX2sko/XtHw5cBcrwaFlWL13YWT0Vksw4k47xcfTW/oTv0zSmHByUa3APaPCBMvvOkOWf5lQhHqhh33OHNqQYwPqFNHeSdytpGf8vmQPhVWm+aKmUsNWpPY3DMiR1SkN685DdktQAeNqpP01S6PW0zDZq7/u+bA8Y+HOwd16264cD/y7wQwgSqI3IP6a8vWRLhqksqGcC+PBZQGSZRwfDTTxDNNBf+y/Jd8EA75+OOoLUttFgGgkleBLP0t/SYCGEP1d9Z9tVb7bqoUT7MvD9Yegb8ZkvWz+caEjDDQgKIsJQIk/uM4HlB/O1Ht9tYbP0SRRD6uNQc+pyoD9LmnNSE+uQG1pq3g/bRBG9pVdhj7LQrOVRPa4pCe0PUlS9ytYG7kW+VxlRP/dyWys9AYsac6UPojOiy06hCUxw==;zcHFMQdY6KtpBcLnYLi51Q=="
+secured: "3sppDwSFL5xC1YtGbCN5Tim7iB7Jz4ZunelumZbMTD5Sd9PopzY0w8XI4mfE2iIWbvrpI6AF+NNRQ+dQuP5d0EPSA5iYeei3r5CnC7vw5SLJQia5/UUyPrMKUN8W2kk/U3sYWuTY8L4n6hF9Dg1PbJl9qNmQM/YKrfPkX6LH7LDm9p0Rn52uxHdvjaEwNJhFiZGO7oOBkkaKfl02YDhWYGOsCAdaMlC8I3jUzIbrziZKGCQ3ItHopB+gs2IdjGAcr+esKaWfLxZXTbgIL/NNPindKM12zX9kkDMHyFNO/DU1mdNSby+dBvpjyu1IhGhR5mccDT1RcOglmnxesGi8kWkHlxFB/blB3SHszKkJtZU=;l/KQryM7uQ4gB+cpsU0CpA=="
 ---
 

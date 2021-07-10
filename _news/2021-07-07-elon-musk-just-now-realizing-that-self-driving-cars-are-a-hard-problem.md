@@ -51,20 +51,6 @@ related:
         width: 750
         height: 563
         isCached: true
-  - title: "Elon Musk Admits That Full-Self Driving Is a Hard Problem To Solve"
-    excerpt: "CEO Elon Musk admitted this weekend that creating a car that is truly self-driving is a “hard problem” to solve. Musk has been promising to release Full Self-Driving software upgrades for several years,"
-    publishedDateTime: 2021-07-06T02:01:00Z
-    webUrl: "https://hypebeast.com/2021/7/elon-musk-full-self-driving-hard-problem-to-solve"
-    type: article
-    provider:
-      name: Hypebeast
-      domain: hypebeast.com
-    quality: 39
-    images:
-      - url: "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2021%2F07%2FElon-Musk-Admits-That-Full-Self-Driving-Is-a-Hard-Problem-To-Solve-tw.jpg?w=960&cbr=1&q=90&fit=max"
-        width: 960
-        height: 480
-        isCached: true
 
 secured: "WNqmoodWFcgiVDdOKmqmOVzJ97aeXBjmVfBmcTRNYZfwoZlZcM6OKGr/u/Uyo5Cv+pIqt0spNXEu+G+Zu9xV+s/uckbZirr26k58f49RmEZiwtNQUoQ1wcD201jBvLn0dE9H4ltv3JpVTFKzOCoOrlZPtuwbMboOm1NK98h0CaDJtzjPk9K8XIQ58nGjs8NeKGvFZD7+OtonmWJGc7e2rgxXKAh8C/mGK0L+YvTiRkDJHxELGwrBLnbn1O8xIk1FLzvpKdQHTDlei7OgjUalKtFJq4ver2+LFHaHWaX/6RJIvc5rQ2TkzwBh+LvSBdfh8qGlwkokXFYNWDWQHeQh7jcI06NYWIRw3BaMu7ZPAEo=;8ll1RaVECVJqpQdf1q7/BQ=="
 ---

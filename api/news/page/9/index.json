@@ -2,6 +2,58 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2021-07-01-facebook-wants-to-help-train-the-robots-that-will-take-out-your-trash-and-unload-your-dishwasher.md",
+      "title": "Facebook wants to help train the robots that will take out your trash and unload your dishwasher",
+      "excerpt": "The social media company released Habitat 2.0 to help researchers train household robots-to-be. By Daphne Leprince-Ringuet | July 1, 2021 -- 15:08 GMT (08:08 PDT) | Topic: Robotics Facebook has announced a new step in the company's journey towards achieving what it calls \"embodied AI\" – the technology that could one day enable robots to carry out tasks in mundane settings,",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/facebook-wants-to-help-train-the-robots-that-will-take-out-your-trash-and-unload-your-dishwasher/",
+      "originalUrl": "https://www.zdnet.com/article/facebook-wants-to-help-train-the-robots-that-will-take-out-your-trash-and-unload-your-dishwasher/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/hub/i/2021/07/01/bb632da1-3378-41ff-845c-d07b3fe73671/gettyimages-1309871457.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/facebook-wants-to-help-train-the-robots-that-will-take-out-your-trash-and-unload-your-dishwasher/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/facebook-wants-to-help-train-the-robots-that-will-take-out-your-trash-and-unload-your-dishwasher/",
+      "publishedDateTime": "2021-07-01T01:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-01-jevois-pro-deep-learning-open-source-ai-camera.md",
       "title": "JeVois-Pro deep learning open source AI camera",
       "excerpt": "If you are interested in learning more about deep learning a new open source smart camera has been launched via Kickstarter called the JeVois-Pro. The artificial intelligent camera runs powerful ...",
@@ -1167,49 +1219,6 @@
       ],
       "topics": [
         "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-30-medidata-acorn-ai-synthetic-control-arm-named-best-ai-based-solution-for-healthcare-by-2021-ai-breakthrough-awards.md",
-      "title": "Medidata Acorn AI Synthetic Control Arm® Named “Best AI-based Solution for Healthcare” by 2021 AI Breakthrough Awards",
-      "excerpt": "However, an SCA can improve patient recruitment and retention by allowing for a study design where all or at least more patients can be treated with the experimental therapy ... to honoring excellence in Artificial Intelligence technologies, services ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.register-herald.com/region/medidata-acorn-ai-synthetic-control-arm-named-best-ai-based-solution-for-healthcare-by-2021/article_a495d921-24fb-5ab8-92a6-73240b430619.html",
-      "originalUrl": "https://www.register-herald.com/region/medidata-acorn-ai-synthetic-control-arm-named-best-ai-based-solution-for-healthcare-by-2021/article_a495d921-24fb-5ab8-92a6-73240b430619.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.chicago2.vip.townnews.com/register-herald.com/content/tncms/assets/v3/editorial/3/1b/31ba3241-1f65-5860-9593-b4fa908b9fa5/60dc991277cd6.image.jpg?resize=645%2C630",
-          "width": 645,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-30T09:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Register-Herald",
-        "domain": "register-herald.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }

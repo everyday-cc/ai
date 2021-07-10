@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/facebook-teaches-ai-powered-rob
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/facebook-teaches-ai-powered-robot-to-adapt-while-walking/"
 type: article
 quality: 174
-heat: 284
+heat: 285
 published: true
 
 provider:

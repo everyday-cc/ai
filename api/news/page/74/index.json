@@ -2,6 +2,101 @@
   "page": 74,
   "value": [
     {
+      "path": "_news/2021-05-18-smart-ways-artificial-intelligence-could-change-online-casinos-in-the-future.md",
+      "title": "Smart Ways Artificial Intelligence Could Change Online Casinos in the Future",
+      "excerpt": "Artificial Intelligence is reshaping the gaming industry through availability of VR headsets in these recent years. Online casinos and other online gaming websites are booming in enhancing the exciting experience to the gamelovers at home.",
+      "sourceUrl": null,
+      "webUrl": "https://www.analyticsinsight.net/smart-ways-artificial-intelligence-could-change-online-casinos-in-the-future/",
+      "originalUrl": "https://www.analyticsinsight.net/smart-ways-artificial-intelligence-could-change-online-casinos-in-the-future/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.analyticsinsight.net/wp-content/uploads/2021/05/Artificial-Intelligence-11.jpg",
+          "width": 900,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-18T02:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Analytics Insight",
+        "domain": "analyticsinsight.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-18-image-recognition-market-latest-industry-size-growth-share-demand-trends-competitive-landscape-and-forecasts-to-2028-fortune-business-insights.md",
+      "title": "Image Recognition Market Latest Industry Size, Growth, Share, Demand, Trends, Competitive Landscape and Forecasts to 2028, Fortune Business Insights",
+      "excerpt": "According to the report, the global image recognition market size is projected to reach USD 81.88 billion by 2026.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/image-recognition-market-latest-industry-size-growth-share-demand-trends-competitive-landscape-and-forecasts-to-2028-fortune-business-insights-2021-05-18?tesla=y",
+      "originalUrl": "https://www.marketwatch.com/press-release/image-recognition-market-latest-industry-size-growth-share-demand-trends-competitive-landscape-and-forecasts-to-2028-fortune-business-insights-2021-05-18?tesla=y",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-18T02:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-18-machine-learning-ai-accurately-predicts-cardiac-arrest-risk.md",
       "title": "Machine learning (AI) accurately predicts cardiac arrest risk",
       "excerpt": "A branch of artificial intelligence (AI), called machine learning, can accurately predict the risk of an out of hospital cardiac arrest—when the heart suddenly stops beating—using a combination of timing and weather data,",
@@ -1049,100 +1144,6 @@
       "provider": {
         "name": "The Sentinel",
         "domain": "ksusentinel.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-17-artificial-intelligence-identifies-ibm-and-netflix-among-trending-stocks-this-week.md",
-      "title": "Artificial Intelligence Identifies IBM And Netflix Among Trending Stocks This Week",
-      "excerpt": "Q.ai runs daily factor models to get the most up-to-date reading on stocks and ETFs. This time, our artificial intelligence systems have identified IBM and Netflix among other trending stocks.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/qai/2021/05/17/artificial-intelligence-identifies-ibm-and-netflix-among-trending-stocks-this-week/",
-      "originalUrl": "https://www.forbes.com/sites/qai/2021/05/17/artificial-intelligence-identifies-ibm-and-netflix-among-trending-stocks-this-week/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60a29349196dab928cb87605%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/qai/2021/05/17/artificial-intelligence-identifies-ibm-and-netflix-among-trending-stocks-this-week/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/qai/2021/05/17/artificial-intelligence-identifies-ibm-and-netflix-among-trending-stocks-this-week/amp/",
-      "publishedDateTime": "2021-05-17T09:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-17-deposits-keep-tusimple-on-pace-for-driverless-trucks-by-2024.md",
-      "title": "Deposits keep TuSimple on pace for driverless trucks by 2024",
-      "excerpt": "Ten fleets put down deposits on nearly 7,000 Navistar tractors running TuSimple's self-driving solution that would run across the Southern U.S. by 2024 and possibly curtail the industry's driver shortage.",
-      "sourceUrl": null,
-      "webUrl": "https://www.fleetowner.com/technology/autonomous-vehicles/article/21164330/deposits-keep-tusimple-on-pace-for-driverless-trucks-by-2024",
-      "originalUrl": "https://www.fleetowner.com/technology/autonomous-vehicles/article/21164330/deposits-keep-tusimple-on-pace-for-driverless-trucks-by-2024",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://base.imgix.net/files/base/ebm/fleetowner/image/2021/05/16x9/TuSimple_Fleet.60a28571ab906.png?auto=format&fit=max&w=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-17T08:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fleet Owner",
-        "domain": "fleetowner.com",
         "images": null,
         "publishers": null,
         "authors": null

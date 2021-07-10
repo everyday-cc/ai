@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-07-11-tesla-finally-releases-full-self-driving-beta-v9-heres-what-it-looks-like.md",
+      "title": "Tesla finally releases Full Self-Driving Beta v9: here’s what it looks like",
+      "excerpt": "Tesla has finally released its highly-anticipated Full Self-Driving Beta v9 software update. Here’s what it looks like. It was a long time coming, but when CEO Elon Musk put an actual date on the release,",
+      "sourceUrl": null,
+      "webUrl": "https://electrek.co/2021/07/10/tesla-full-self-driving-beta-v9-first-videos-release-notes/",
+      "originalUrl": "https://electrek.co/2021/07/10/tesla-full-self-driving-beta-v9-first-videos-release-notes/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 177,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2021/07/Tesla-full-self-driving-beta-v9.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://electrek.co/2021/07/10/tesla-full-self-driving-beta-v9-first-videos-release-notes/amp/",
+      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/07/10/tesla-full-self-driving-beta-v9-first-videos-release-notes/amp/",
+      "publishedDateTime": "2021-07-10T10:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Electrek",
+        "domain": "electrek.co",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-09-self-driving-teams-have-always-strived-to-measure-safety-what-if-thats-not-the-hard-thing.md",
       "title": "Self-Driving Teams Have Always Strived To Measure Safety. What If That’s Not The Hard Thing?",
       "excerpt": "Since the first dream of self-driving, there has always been a sharp focus (including from myself) on safety. The ability to reduce accidents is the grandest purpose of these projects, and every team declares that safety is at the core of everything they do.",
@@ -10,7 +62,7 @@
       "originalUrl": "https://www.forbes.com/sites/bradtempleton/2021/07/08/self-driving-teams-have-always-strived-to-measure-safety--what-if-thats-not-the-hard-thing/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 93,
+      "heat": 83,
       "tags": null,
       "images": [
         {
@@ -155,59 +207,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-07-hacker-shows-what-tesla-full-self-drivings-vision-depth-perception-neural-net-can-see.md",
-      "title": "Hacker shows what Tesla Full Self-Driving’s vision depth perception neural net can see",
-      "excerpt": "A hacker managed to pull Tesla’s vision depth perception neural net from his car with “Full Self-Driving” package. You can see how the vehicle detects depth with a point-cloud view powered ...",
-      "sourceUrl": null,
-      "webUrl": "https://electrek.co/2021/07/07/hacker-tesla-full-self-drivings-vision-depth-perception-neural-net-can-see/",
-      "originalUrl": "https://electrek.co/2021/07/07/hacker-tesla-full-self-drivings-vision-depth-perception-neural-net-can-see/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 143,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2021/07/Tesla-full-self-driving-neural-net-e1625673878181.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://electrek.co/2021/07/07/hacker-tesla-full-self-drivings-vision-depth-perception-neural-net-can-see/amp/",
-      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/07/07/hacker-tesla-full-self-drivings-vision-depth-perception-neural-net-can-see/amp/",
-      "publishedDateTime": "2021-07-07T09:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Electrek",
-        "domain": "electrek.co",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "Computer Vision"
       ]
     },
     {
@@ -428,7 +427,7 @@
       "originalUrl": "https://www.business-standard.com/article/automobile/developing-safe-self-driving-car-a-hard-problem-admits-tesla-ceo-musk-121070600204_1.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 88,
+      "heat": 78,
       "tags": null,
       "images": [
         {

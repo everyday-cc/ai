@@ -2,6 +2,92 @@
   "page": 37,
   "value": [
     {
+      "path": "_news/2021-06-11-intel-debates-buyout-of-sifive-to-bolster-chip-technology-against-arm-source.md",
+      "title": "Intel debates buyout of SiFive to bolster chip technology against Arm (source)",
+      "excerpt": "Intel is considering buying fabless semiconductor company SiFive to compete against Arm, a source told Reuters.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/06/10/intel-debates-buyout-of-sifive-to-bolster-chip-technology-against-arm-source/",
+      "originalUrl": "https://venturebeat.com/2021/06/10/intel-debates-buyout-of-sifive-to-bolster-chip-technology-against-arm-source/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 112,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/05/X-Series_Internals_Intel-CPU-e1623357376301.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/06/10/intel-debates-buyout-of-sifive-to-bolster-chip-technology-against-arm-source/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/10/intel-debates-buyout-of-sifive-to-bolster-chip-technology-against-arm-source/amp/",
+      "publishedDateTime": "2021-06-10T16:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2021-06-11-car-city-coventry-has-begun-its-first-week-as-the-city-of-culture.md",
+      "title": "Car City: Coventry has begun its first week as the City of Culture",
+      "excerpt": "And today, it is adapting to the world of electric and autonomous ... of the motor car in Britain. In 1896, a Victorian entrepreneur called Harry Lawson, who had made his fortune manufacturing ...",
+      "sourceUrl": null,
+      "webUrl": "https://fortune.com/2021/06/29/autonomous-car-makers-report-crashes-federal-government/",
+      "originalUrl": "https://www.thisismoney.co.uk/money/cars/article-9673523/Car-City-Coventry-begun-week-City-Culture.html?mrn_rm=rta",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://fortune.com/2021/06/29/autonomous-car-makers-report-crashes-federal-government/amp/",
+      "cdnAmpWebUrl": "https://fortune-com.cdn.ampproject.org/c/s/fortune.com/2021/06/29/autonomous-car-makers-report-crashes-federal-government/amp/",
+      "publishedDateTime": "2021-06-10T14:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "This is Money",
+        "domain": "thisismoney.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-11-googles-artificial-intelligence-is-designing-computer-chips-in-under-six-hours-something-humans-take-months-to-do.md",
       "title": "Google's artificial intelligence is designing computer chips in under SIX HOURS - something humans take MONTHS to do",
       "excerpt": "This means driverless cars or intelligent robots ... DeepMind's Shane Legg said in a recent interview. He singled out artificial intelligence, or AI, as the 'number one risk for this century'.",
@@ -1088,100 +1174,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-10-the-reality-of-artificial-intelligence.md",
-      "title": "The Reality Of Artificial Intelligence",
-      "excerpt": "Fundamentally, it is the science that enables machines to translate, execute and investigate ... and understand data by mimicking human natural language. Of course, there are technologies that enable AI. We live in the era of the internet of things ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.commercialintegrator.com/business_resources/artificial-intelligence-reality/",
-      "originalUrl": "https://www.commercialintegrator.com/business_resources/artificial-intelligence-reality/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.commercialintegrator.com/wp-content/uploads/2021/06/AI.jpeg",
-          "width": 1000,
-          "height": 532,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-10T06:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Commercial Integrator",
-        "domain": "commercialintegrator.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-10-ai-startup-eightfold-ai-valued-at-21-bn-in-softbank-led-220-mn-funding.md",
-      "title": "AI Startup Eightfold AI Valued At $2.1 Bn In SoftBank-led $220 Mn Funding",
-      "excerpt": "The funds will be used to continue the rapid growth and development of Eightfold's AI-powered talent intelligence platform and expand its growing partner ecosystem",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/article/374220",
-      "originalUrl": "https://www.entrepreneur.com/article/374220",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/1623331509-michael-dziedzic-XTblNijO9IE-unsplash.jpg?width=600&crop=16:9",
-          "width": 600,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.entrepreneur.com/amphtml/374220",
-      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/374220",
-      "publishedDateTime": "2021-06-10T06:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

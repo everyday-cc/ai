@@ -43,20 +43,6 @@ related:
         width: 1200
         height: 900
         isCached: true
-  - title: "Musk: making self-driving cars is difficult"
-    excerpt: "Tesla CEO Elon Musk has admitted creating fully autonomous vehicles is more difficult than he expected at a time when his company is facing greater public scrutiny for Autopilot accidents. “Generalised self-driving is a hard problem,"
-    publishedDateTime: 2021-07-06T02:10:00Z
-    webUrl: "https://ia.acs.org.au/article/2021/musk--making-self-driving-cars-is-difficult.html"
-    type: article
-    provider:
-      name: acs.org.au
-      domain: acs.org.au
-    quality: 24
-    images:
-      - url: "https://ia.acs.org.au/content/dam/ia/article/images/2021/tesla%20factory%20cars.jpg"
-        width: 675
-        height: 380
-        isCached: true
   - title: "Developing safe self-driving car a 'hard problem', admits Musk"
     excerpt: "Tesla CEO Elon Musk has finally admitted that developing a safe and reliable self-driving car is indeed a difficult task. In an earnings call in January, Musk had told investors that he was \"highly confident the car will be able to drive itself with reliability in excess of human this year\"."
     publishedDateTime: 2021-07-06T09:55:00Z

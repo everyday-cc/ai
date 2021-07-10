@@ -40,17 +40,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "COVID-19 Impact and Analysis|Artificial Intelligence Market In The Industrial Sector| Technavio"
-    excerpt: "Technavio has been monitoring the artificial intelligence market in the industrial sector, operating under the industrials segment."
-    publishedDateTime: 2021-07-06T02:50:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/21/07/n21849463/covid-19-impact-and-analysis-artificial-intelligence-market-in-the-industrial-sector-technavio"
-    ampWebUrl: "https://www.benzinga.com/amp/content/21849463"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/21849463"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 25
   - title: "Global Machine Learning in Medical Imaging Market Size, Status and Forecast 2021-2027"
     excerpt: "Medical imaging analytics tools become more readily available, providers are likely to find strong incentives to investigate the best way to integrate artificial intelligence/machine learning into their imaging strategies. Machine Learning in Medical ..."
     publishedDateTime: 2021-07-09T07:46:00Z

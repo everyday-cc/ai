@@ -2,6 +2,92 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2021-06-29-edge-of-chaos-opens-pathway-to-artificial-intelligence-discoveries.md",
+      "title": "'Edge of chaos' opens pathway to artificial intelligence discoveries",
+      "excerpt": "Scientists at the University of Sydney and Japan's National Institute for Material Science (NIMS) have discovered that an artificial network of nanowires can be tuned to respond in a brain-like way when electrically stimulated.",
+      "sourceUrl": null,
+      "webUrl": "https://phys.org/news/2021-06-edge-chaos-pathway-artificial-intelligence.html",
+      "originalUrl": "https://phys.org/news/2021-06-edge-chaos-pathway-artificial-intelligence.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2021/edge-of-chaos-opens-pa.jpg",
+          "width": 514,
+          "height": 225,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://phys.org/news/2021-06-edge-chaos-pathway-artificial-intelligence.amp",
+      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-06-edge-chaos-pathway-artificial-intelligence.amp",
+      "publishedDateTime": "2021-06-29T02:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Phys.org",
+        "domain": "phys.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-29-who-warns-against-applying-ai-models-using-data-from-rich-countries-to-everyone-else.md",
+      "title": "WHO warns against applying AI models using data from rich countries to everyone else",
+      "excerpt": "The World Health Organization wants to ensure that ethical considerations and human rights are the centre of any AI-based healthcare solutions.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/who-warns-against-applying-ai-models-using-data-from-rich-counties-to-everyone-else/",
+      "originalUrl": "https://www.zdnet.com/article/who-warns-against-applying-ai-models-using-data-from-rich-counties-to-everyone-else/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 92,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/who-warns-against-applying-ai-models-using-data-from-rich-counties-to-everyone-else/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/who-warns-against-applying-ai-models-using-data-from-rich-counties-to-everyone-else/",
+      "publishedDateTime": "2021-06-29T02:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-29-best-python-course-2021-top-online-coding-classes.md",
       "title": "Best Python course 2021: Top online coding classes",
       "excerpt": "Programming language Python is undeniably a hot language to learn in 2021, and here are some of the best online sites where you can learn to code in it.",
@@ -1048,92 +1134,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-28-enterprise-ai-startup-beyondminds-certified-by-top-international-security-standard.md",
-      "title": "Enterprise AI Startup BeyondMinds Certified by Top International Security Standard",
-      "excerpt": "BeyondMinds, an enterprise AI software provider delivering fully managed, production-grade AI solutions on top of its turnkey AI platform, today announced it has earned ISO 27001:2013. The certification,",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/-enterprise-ai-startup-beyondminds-certified-top-international-security-/2021/06/28/9398829.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/-enterprise-ai-startup-beyondminds-certified-top-international-security-/2021/06/28/9398829.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-28T08:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2021-06-28-pittsburghs-mayor-on-the-citys-startup-community-and-the-difficulty-of-attracting-venture-capital.md",
-      "title": "Pittsburgh’s mayor on the city’s startup community and the difficulty of attracting venture capital",
-      "excerpt": "TechCrunch is turning its spotlight on Pittsburgh, Pennsylvania with interviews, profiles, and an event featuring the outgoing mayor, CMU’s President, and local startups. The Rust Belt city has spent much of the past decade working to shed the image that arrived in the wake of the",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/06/28/pittsburghs-mayor-on-the-citys-startup-community-and-the-difficulty-of-attracting-venture-capital/",
-      "originalUrl": "https://techcrunch.com/2021/06/28/pittsburghs-mayor-on-the-citys-startup-community-and-the-difficulty-of-attracting-venture-capital/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/06/GettyImages-1071999330-yellow.jpg?w=1024",
-          "width": 1024,
-          "height": 684,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/06/28/pittsburghs-mayor-on-the-citys-startup-community-and-the-difficulty-of-attracting-venture-capital/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/06/28/pittsburghs-mayor-on-the-citys-startup-community-and-the-difficulty-of-attracting-venture-capital/amp/",
-      "publishedDateTime": "2021-06-28T08:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

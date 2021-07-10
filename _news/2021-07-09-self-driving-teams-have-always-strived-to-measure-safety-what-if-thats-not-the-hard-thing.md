@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/bradtempleton/2021/07/08/self-driving-t
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bradtempleton/2021/07/08/self-driving-teams-have-always-strived-to-measure-safety--what-if-thats-not-the-hard-thing/amp/"
 type: article
 quality: 63
-heat: 93
+heat: 83
 published: true
 
 provider:
@@ -46,20 +46,6 @@ related:
       - url: "https://imagevars.gulfnews.com/2021/07/06/Stock---Abu-Dhabi-Ports_17a7ab27ba2_large.jpg"
         width: 750
         height: 563
-        isCached: true
-  - title: "Elon Musk Admits That Full-Self Driving Is a Hard Problem To Solve"
-    excerpt: "CEO Elon Musk admitted this weekend that creating a car that is truly self-driving is a “hard problem” to solve. Musk has been promising to release Full Self-Driving software upgrades for several years,"
-    publishedDateTime: 2021-07-06T02:01:00Z
-    webUrl: "https://hypebeast.com/2021/7/elon-musk-full-self-driving-hard-problem-to-solve"
-    type: article
-    provider:
-      name: Hypebeast
-      domain: hypebeast.com
-    quality: 39
-    images:
-      - url: "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2021%2F07%2FElon-Musk-Admits-That-Full-Self-Driving-Is-a-Hard-Problem-To-Solve-tw.jpg?w=960&cbr=1&q=90&fit=max"
-        width: 960
-        height: 480
         isCached: true
   - title: "Elon Musk Just Now Realizing that Self-driving Cars are a ‘Hard Problem’"
     excerpt: "Tesla CEO Elon Musk is finally admitting that he underestimated how difficult it is to develop a safe and reliable self-driving car. To which the entire engineering community rose up as one to say, \"No duh."

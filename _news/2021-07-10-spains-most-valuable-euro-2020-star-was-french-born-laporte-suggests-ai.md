@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/henryflynn/2021/07/10/spains-most-valua
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/henryflynn/2021/07/10/spains-most-valuable-euro-2020-star-was-french-born-laporte-suggests-ai/amp/"
 type: article
 quality: 86
-heat: 86
+heat: 87
 published: true
 
 provider:

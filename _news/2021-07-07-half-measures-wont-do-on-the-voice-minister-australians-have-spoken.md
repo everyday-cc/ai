@@ -32,20 +32,6 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 69
-  - title: "Voice of Real Australia: When small changes equal a big difference"
-    excerpt: "\"If everyone adopts this small change, it will make a big difference.\" In case you are interested in filtering all the latest down to just one late afternoon read, why not sign up for The Informer newsletter?"
-    publishedDateTime: 2021-07-06T02:30:00Z
-    webUrl: "https://www.westernadvocate.com.au/story/7327497/when-small-changes-equal-a-big-difference/"
-    type: article
-    provider:
-      name: Western Advocate
-      domain: westernadvocate.com.au
-    quality: 24
-    images:
-      - url: "https://www.westernadvocate.com.au/images/transform/v1/crop/frm/GJZ5TVpAk84wrTzsQfLQRB/2e58ff1e-b232-4da0-ab05-c01e70d7fe82.png/r5_0_1915_1079_w1200_h678_fmax.jpg"
-        width: 1200
-        height: 678
-        isCached: true
 
 secured: "kYCh/wivwDuU3vjpEaGfx7LhzE6EmaEWeOTfJ4CYVOM9zI2sfGlte17NiIz7WiTAqqB7d2bVSqqZBShrHhpZsxN3H5i+4fQiP6EjkkdH+gTn9X2GNBZQD4B+YcN+xqIa08GQZjpEezbuzvBmgXbaRovgKoHSa+CMrSgUVPR62tgRILUtD8osLfrWIO4ksf4et+3wqkQwcZJuVeKag4vBZ6JrMfK/uVLNW3pK9/QWF+xBX8POlu1uQr7gXfXiaEsfRoHuqpdVDNig3QzCQxPtxF4e9Y+MnkiO1HnLXlSZxTN2NsKK+aKXAJsffqJzA75zUz7Oi0zzKxVZly+tTc+vy7KYzaQ1E6yv8W9PSgopln0=;SKNxl2IAP6wP11m9Zxjbkw=="
 ---

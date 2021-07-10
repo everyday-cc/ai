@@ -48,6 +48,15 @@ related:
       name: manometcurrent.com
       domain: manometcurrent.com
     quality: 29
+  - title: "Contact Center AI Software Market is Going to Boom With Google, Cisco, Oracle Corporation, Asterisk"
+    excerpt: "Growing Demand of New Call Centres and Incorporation of New Systems, Increasing Number of Queries and Increasing Demand of Quick Resolution on Call is driving the global Contact Center AI Software market."
+    publishedDateTime: 2021-07-10T18:08:00Z
+    webUrl: "https://manometcurrent.com/contact-center-ai-software-market-is-going-to-boom-with-google-cisco-oracle-corporation-asterisk/"
+    type: article
+    provider:
+      name: manometcurrent.com
+      domain: manometcurrent.com
+    quality: 3
 
 secured: "rAf5EV/Uf8jR3TsTfcGkvaE9cO8e7/90mVomL1DOMR8U83KMdjJ13B9Bbp0BVVlQyBYyiNpWIDBo1i12QlkkrnvCfBAaPu0KhGudq7QieoUvUfM2W4CYAq9GzX0SarSdy7QIzzSprLbuonD7XjLQRfATFL8F6Zdnow9j80RMT29FUfD3ge+jJ79lCC23AW2sZxJ2KJHjAf63RP0yZRqH+wzZjqXn7fmKfnWOjBmkpkzLcHv0M1ZtbpFUmSRe056iG9N6ecT+ve6xYCTd+b//f1segWeLIjRHqj4I1/se/nHFPH+LOLZaTC0vcsj5M1LwZbJG+M3uRloXX07kGgFi2H4SdM7u1G2QZPm1SxT3jyE=;dnfXGnIAjsnHdQvzrhO4RA=="
 ---

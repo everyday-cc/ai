@@ -2,6 +2,110 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-07-11-exynos-flagship-chipsets-a-history-of-samsungs-homegrown-silicon.md",
+      "title": "Exynos flagship chipsets: A history of Samsung's homegrown silicon",
+      "excerpt": "Samsung has used Exynos flagship chips for a long, long time, so we thought it would be a good idea to chart its history.",
+      "sourceUrl": null,
+      "webUrl": "https://www.androidauthority.com/samsung-exynos-flagship-chipset-history-1233699",
+      "originalUrl": "https://www.androidauthority.com/samsung-exynos-flagship-chipset-history-1233699",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn57.androidauthority.net/wp-content/uploads/2020/12/Samsung-Exynos-branding.jpg",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.androidauthority.com/amp/samsung-exynos-flagship-chipset-history-1233699/",
+      "cdnAmpWebUrl": "https://www-androidauthority-com.cdn.ampproject.org/c/s/www.androidauthority.com/amp/samsung-exynos-flagship-chipset-history-1233699/",
+      "publishedDateTime": "2021-07-10T11:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Android Authority",
+        "domain": "androidauthority.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/androidauthority.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-11-tesla-finally-releases-full-self-driving-beta-v9-heres-what-it-looks-like.md",
+      "title": "Tesla finally releases Full Self-Driving Beta v9: here’s what it looks like",
+      "excerpt": "Tesla has finally released its highly-anticipated Full Self-Driving Beta v9 software update. Here’s what it looks like. It was a long time coming, but when CEO Elon Musk put an actual date on the release,",
+      "sourceUrl": null,
+      "webUrl": "https://electrek.co/2021/07/10/tesla-full-self-driving-beta-v9-first-videos-release-notes/",
+      "originalUrl": "https://electrek.co/2021/07/10/tesla-full-self-driving-beta-v9-first-videos-release-notes/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 177,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2021/07/Tesla-full-self-driving-beta-v9.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://electrek.co/2021/07/10/tesla-full-self-driving-beta-v9-first-videos-release-notes/amp/",
+      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/07/10/tesla-full-self-driving-beta-v9-first-videos-release-notes/amp/",
+      "publishedDateTime": "2021-07-10T10:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Electrek",
+        "domain": "electrek.co",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-10-how-cybersecurity-is-getting-ai-wrong.md",
       "title": "How cybersecurity is getting AI wrong",
       "excerpt": "Organizations are introducing AI models into security practices across their business, but they're not properly managing the risk.",
@@ -10,7 +114,7 @@
       "originalUrl": "https://venturebeat.com/2021/07/10/how-cybersecurity-is-getting-ai-wrong/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 137,
+      "heat": 138,
       "tags": null,
       "images": [
         {
@@ -61,7 +165,7 @@
       "originalUrl": "https://www.forbes.com/sites/henryflynn/2021/07/10/spains-most-valuable-euro-2020-star-was-french-born-laporte-suggests-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 86,
+      "heat": 87,
       "tags": null,
       "images": [
         {
@@ -301,7 +405,7 @@
       "originalUrl": "https://venturebeat.com/2021/07/09/ai-weekly-tiktoks-algorithm-licensing-signals-chinas-play-for-ai-dominance/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 94,
+      "heat": 85,
       "tags": null,
       "images": [
         {
@@ -405,7 +509,7 @@
       "originalUrl": "https://www.techrepublic.com/article/ai-is-trying-to-prevent-online-shoppers-from-ditching-their-carts/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 97,
+      "heat": 98,
       "tags": null,
       "images": [
         {
@@ -656,7 +760,7 @@
       "originalUrl": "https://www.msn.com/en-us/news/technology/facebook-teaches-ai-powered-robot-to-adapt-while-walking/ar-AALXY7A",
       "featuredContent": null,
       "highlight": null,
-      "heat": 284,
+      "heat": 285,
       "tags": null,
       "images": [
         {
@@ -853,7 +957,7 @@
       "originalUrl": "https://manometcurrent.com/artificial-intelligence-and-machine-learning-market-is-booming-worldwide-googleinc-microsoft-corporation-amazon-web-services-inc/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 78,
+      "heat": 88,
       "tags": null,
       "images": [
         {
@@ -1137,109 +1241,6 @@
         "AI",
         "AWS AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-07-09-micron-technology-puts-its-cash-to-work-using-artificial-intelligence.md",
-      "title": "Micron Technology Puts Its Cash to Work Using Artificial Intelligence",
-      "excerpt": "Micron Technology Inc.’s cash deposits are generating millions of dollars in additional returns for the memory-chip maker thanks to the help of an artificial-intelligence tool developed internally. The AI application allows Boise, Idaho-based Micron to ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/micron-technology-puts-its-cash-to-work-using-artificial-intelligence-11625781002",
-      "originalUrl": "https://www.wsj.com/articles/micron-technology-puts-its-cash-to-work-using-artificial-intelligence-11625781002",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 118,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-366698/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/micron-technology-puts-its-cash-to-work-using-artificial-intelligence-11625781002",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/micron-technology-puts-its-cash-to-work-using-artificial-intelligence-11625781002",
-      "publishedDateTime": "2021-07-08T15:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-09-self-driving-teams-have-always-strived-to-measure-safety-what-if-thats-not-the-hard-thing.md",
-      "title": "Self-Driving Teams Have Always Strived To Measure Safety. What If That’s Not The Hard Thing?",
-      "excerpt": "Since the first dream of self-driving, there has always been a sharp focus (including from myself) on safety. The ability to reduce accidents is the grandest purpose of these projects, and every team declares that safety is at the core of everything they do.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/bradtempleton/2021/07/08/self-driving-teams-have-always-strived-to-measure-safety--what-if-thats-not-the-hard-thing/",
-      "originalUrl": "https://www.forbes.com/sites/bradtempleton/2021/07/08/self-driving-teams-have-always-strived-to-measure-safety--what-if-thats-not-the-hard-thing/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 93,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60e7638a994a15dff9ca0980%2F0x0.jpg",
-          "width": 1200,
-          "height": 774,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/bradtempleton/2021/07/08/self-driving-teams-have-always-strived-to-measure-safety--what-if-thats-not-the-hard-thing/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bradtempleton/2021/07/08/self-driving-teams-have-always-strived-to-measure-safety--what-if-thats-not-the-hard-thing/amp/",
-      "publishedDateTime": "2021-07-08T13:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

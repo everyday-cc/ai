@@ -2,6 +2,40 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-06-10-global-encoder-market-2021-to-2026-increasing-demand-for-artificial-intelligence-based-systems-presents-opportunities.md",
+      "title": "Global Encoder Market (2021 to 2026) - Increasing Demand for Artificial Intelligence-Based Systems Presents Opportunities",
+      "excerpt": "The global encoder market is expected to grow from USD 2.3 billion in 2021 to USD 3.7 billion by 2026, at a CAGR of 10%. The growth of this market is mainly driven by the need for",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/21/06/n21498555/global-encoder-market-2021-to-2026-increasing-demand-for-artificial-intelligence-based-systems-pre",
+      "originalUrl": "https://www.benzinga.com/pressreleases/21/06/n21498555/global-encoder-market-2021-to-2026-increasing-demand-for-artificial-intelligence-based-systems-pre",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/21498555",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/21498555",
+      "publishedDateTime": "2021-06-09T11:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-10-robotics-startup-realtime-used-this-pitch-deck-to-convince-toyota-to-invest-in-its-31-million-series-a-round.md",
       "title": "Robotics startup Realtime used this pitch deck to convince Toyota to invest in its $31 million Series A round",
       "excerpt": "Startup Realtime Robotics recently extended its Series A, adding about $19 million in funding at an $80 million valuation.",
@@ -1369,49 +1403,6 @@
       "provider": {
         "name": "The Tribune",
         "domain": "tribuneindia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-02-greensprings-school-to-integrate-robotics-ai-into-curriculum.md",
-      "title": "Greensprings School to Integrate Robotics, AI into Curriculum",
-      "excerpt": "By Uchechukwu Nnaike The management of Greensprings School, Lagos, has announced that the school will start offering robotics and artificial intelligence (AI) to its secondary school students. The",
-      "sourceUrl": null,
-      "webUrl": "https://www.thisdaylive.com/index.php/2021/06/02/greensprings-school-to-integrate-robotics-ai-into-curriculum/",
-      "originalUrl": "https://www.thisdaylive.com/index.php/2021/06/02/greensprings-school-to-integrate-robotics-ai-into-curriculum/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/thisday-846548948316-wp-data/wp-media/2018/11/ddab228d-greensprings-school.jpg",
-          "width": 800,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thisdaylive.com/index.php/2021/06/02/greensprings-school-to-integrate-robotics-ai-into-curriculum/amp/",
-      "cdnAmpWebUrl": "https://www-thisdaylive-com.cdn.ampproject.org/c/s/www.thisdaylive.com/index.php/2021/06/02/greensprings-school-to-integrate-robotics-ai-into-curriculum/amp/",
-      "publishedDateTime": "2021-06-01T16:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "This Day",
-        "domain": "thisdaylive.com",
         "images": null,
         "publishers": null,
         "authors": null

@@ -39,6 +39,20 @@ related:
         width: 450
         height: 308
         isCached: true
+  - title: "Health systems link up with Olive to solve healthcare admin woes with AI"
+    excerpt: "An innovation institute run by six major health systems is teaming up with Olive to build AI-driven healthcare automation tools—here are the areas that they’ll prioritize to tighten up their finances."
+    publishedDateTime: 2021-07-09T19:31:00Z
+    webUrl: "https://www.emarketer.com/content/health-systems-link-up-with-olive-solve-healthcare-admin-woes-with-ai"
+    type: article
+    provider:
+      name: eMarketer
+      domain: emarketer.com
+    quality: 53
+    images:
+      - url: "https://contentstorage-nax1.emarketer.com/8d867d6bd09671db44822811ba18af8d/default-image-share.png"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "GE Healthcare, SOPHiA GENETICS To Collaborate On Advancing Cancer Care"
     excerpt: "GE Healthcare and SOPHiA GENETICS said that they have signed a letter of intent to collaborate on advancing cancer care, with the"
     publishedDateTime: 2021-07-06T14:50:00Z

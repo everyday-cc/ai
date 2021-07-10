@@ -105,7 +105,7 @@
       "originalUrl": "https://www.msn.com/en-us/news/technology/facebook-teaches-ai-powered-robot-to-adapt-while-walking/ar-AALXY7A",
       "featuredContent": null,
       "highlight": null,
-      "heat": 284,
+      "heat": 285,
       "tags": null,
       "images": [
         {
@@ -1373,27 +1373,45 @@
       ]
     },
     {
-      "path": "_news/2021-06-28-path-robotics-adding-jobs-second-columbus-plant-for-ai-powered-welding-system.md",
-      "title": "Path Robotics adding jobs, second Columbus plant for AI-powered welding system",
-      "excerpt": "Path Robotics Inc., a venture-backed startup aiming to bring a manufacturing renaissance to Ohio and the U.S., plans to grow to 200 employees – 10 times its size at the start of 2020. Demand is growing for the AI-powered autonomous welding system the ...",
+      "path": "_news/2021-06-30-roboticsai-industry-leaders-announce-commitment-to-make-pittsburgh-the-robotics-capital-of-the-world.md",
+      "title": "Robotics/AI Industry Leaders Announce Commitment to Make Pittsburgh the 'Robotics Capital of the World'",
+      "excerpt": "PITTSBURGH, June 29, 2021 /PRNewswire-PRWeb/ -- The Pittsburgh Robotics Network (PRN), a group dedicated to the growth of the region's robotics and artificial intelligence companies, today announced it has attracted over 100 members – making Pittsburgh home to one of the world's most dynamic robotics ecosystems.",
       "sourceUrl": null,
-      "webUrl": "https://www.bizjournals.com/columbus/news/2021/06/28/path-robotics-adding-jobs-second-columbus-plant.html",
-      "originalUrl": "https://www.bizjournals.com/columbus/news/2021/06/28/path-robotics-adding-jobs-second-columbus-plant.html",
+      "webUrl": "https://www.marketwatch.com/press-release/roboticsai-industry-leaders-announce-commitment-to-make-pittsburgh-the-robotics-capital-of-the-world-2021-06-29",
+      "originalUrl": "https://www.marketwatch.com/press-release/roboticsai-industry-leaders-announce-commitment-to-make-pittsburgh-the-robotics-capital-of-the-world-2021-06-29",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-28T09:57:00-07:00",
+      "publishedDateTime": "2021-06-29T13:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "The Business Journals",
-        "domain": "bizjournals.com",
-        "images": null,
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },

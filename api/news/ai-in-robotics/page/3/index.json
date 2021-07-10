@@ -2,6 +2,49 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-06-20-india-gears-up-for-robot-campaigners-in-2022-assembly-polls.md",
+      "title": "India gears up for robot campaigners in 2022 Assembly polls",
+      "excerpt": "As mass public gatherings remain an obvious danger in India amid the lethal Covid-19 waves, you may see humanoid robots performing campaigning on behalf of political leaders in the 2022",
+      "sourceUrl": null,
+      "webUrl": "https://www.thehansindia.com/technology/tech-news/india-gears-up-for-robot-campaigners-in-2022-assembly-polls-691685",
+      "originalUrl": "https://www.thehansindia.com/technology/tech-news/india-gears-up-for-robot-campaigners-in-2022-assembly-polls-691685",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.thehansindia.com/h-upload/2021/06/20/1083163-robot.jpg",
+          "width": 1000,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thehansindia.com/amp/technology/tech-news/india-gears-up-for-robot-campaigners-in-2022-assembly-polls-691685",
+      "cdnAmpWebUrl": "https://www-thehansindia-com.cdn.ampproject.org/c/s/www.thehansindia.com/amp/technology/tech-news/india-gears-up-for-robot-campaigners-in-2022-assembly-polls-691685",
+      "publishedDateTime": "2021-06-20T04:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hans India",
+        "domain": "thehansindia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-19-robotics-page-4.md",
       "title": "Robotics - Page: 4",
       "excerpt": "The online retailing giant has installed more than 15,000 robots across 10 U.S. warehouses, a move that promises to get packages out the door more quickly in the run-up to Christmas.",
@@ -1314,40 +1357,6 @@
       "provider": {
         "name": "Cambridge University Press",
         "domain": "cambridge.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-10-global-encoder-market-2021-to-2026-increasing-demand-for-artificial-intelligence-based-systems-presents-opportunities.md",
-      "title": "Global Encoder Market (2021 to 2026) - Increasing Demand for Artificial Intelligence-Based Systems Presents Opportunities",
-      "excerpt": "The global encoder market is expected to grow from USD 2.3 billion in 2021 to USD 3.7 billion by 2026, at a CAGR of 10%. The growth of this market is mainly driven by the need for",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/21/06/n21498555/global-encoder-market-2021-to-2026-increasing-demand-for-artificial-intelligence-based-systems-pre",
-      "originalUrl": "https://www.benzinga.com/pressreleases/21/06/n21498555/global-encoder-market-2021-to-2026-increasing-demand-for-artificial-intelligence-based-systems-pre",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/21498555",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/21498555",
-      "publishedDateTime": "2021-06-09T11:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
         "images": null,
         "publishers": null,
         "authors": null

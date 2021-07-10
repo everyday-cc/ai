@@ -2,6 +2,101 @@
   "page": 53,
   "value": [
     {
+      "path": "_news/2021-05-31-engineers-use-ai-to-create-a-robot-that-can-smile-back.md",
+      "title": "Engineers use AI to create a robot that can smile back",
+      "excerpt": "At some point in the future, engineers foresee a time when robots are a normal part of everyday life, providing care for children and the elderly and providing labor. For humans, facial",
+      "sourceUrl": null,
+      "webUrl": "https://www.slashgear.com/engineers-use-ai-to-create-a-robot-that-can-smile-back-31675237/",
+      "originalUrl": "https://www.slashgear.com/engineers-use-ai-to-create-a-robot-that-can-smile-back-31675237/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.slashgear.com/wp-content/uploads/2021/05/eva-robot.jpg",
+          "width": 1280,
+          "height": 608,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.slashgear.com/engineers-use-ai-to-create-a-robot-that-can-smile-back-31675237/amp/",
+      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/engineers-use-ai-to-create-a-robot-that-can-smile-back-31675237/amp/",
+      "publishedDateTime": "2021-05-31T06:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SlashGear",
+        "domain": "slashgear.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/slashgear.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2021-05-31-waymo-may-be-disrupted-by-its-inability-to-scale.md",
+      "title": "Waymo May Be Disrupted By Its Inability To Scale",
+      "excerpt": "Much of the attention among the public goes to the performance and reliability of companies’ autonomous driving technology. However, an equally important issue is global scalability.",
+      "sourceUrl": null,
+      "webUrl": "https://seekingalpha.com/article/4432226-waymo-may-be-disrupted-by-its-inability-to-scale",
+      "originalUrl": "https://seekingalpha.com/article/4432226-waymo-may-be-disrupted-by-its-inability-to-scale",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1213118320/medium_image_1213118320.jpg",
+          "width": 768,
+          "height": 432,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://seekingalpha.com/amp/article/4432226-waymo-may-be-disrupted-by-its-inability-to-scale",
+      "cdnAmpWebUrl": "https://seekingalpha-com.cdn.ampproject.org/c/s/seekingalpha.com/amp/article/4432226-waymo-may-be-disrupted-by-its-inability-to-scale",
+      "publishedDateTime": "2021-05-31T05:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Seeking Alpha",
+        "domain": "seekingalpha.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-31-lets-not-trust-ai-to-profile-people-from-their-head-vibrations.md",
       "title": "Let’s not trust AI to profile people from their head vibrations",
       "excerpt": "AI' is being used to profile people from their head vibrations – but is there enough evidence to support it? For the most part, no.",
@@ -1031,83 +1126,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-30-computer-and-human-vision-perspectives.md",
-      "title": "Computer and Human Vision Perspectives",
-      "excerpt": "4. On what it means to see, and what we can do about it Shimon Edelman 5. Generic object recognition: the case for high level 3-D features Gerard Medioni 6. Functional organization and development of the human ventral stream Kalanit Grill-Spector 7.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cambridge.org/us/academic/subjects/computer-science/computer-graphics-image-processing-and-robotics/object-categorization-computer-and-human-vision-perspectives",
-      "originalUrl": "https://www.cambridge.org/us/academic/subjects/computer-science/computer-graphics-image-processing-and-robotics/object-categorization-computer-and-human-vision-perspectives",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-29T10:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Cambridge University Press",
-        "domain": "cambridge.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-29-why-natural-language-processing-is-ais-jewel-in-the-crown.md",
-      "title": "Why natural language processing is AI’s jewel in the crown",
-      "excerpt": "As we enter the intelligent era, smart devices and data volumes will skyrocket, as will the demand for human-computer interaction through speech and language - that's why it will be a US$16 billion market by 2021.",
-      "sourceUrl": null,
-      "webUrl": "https://www.huawei.com/it/technology-insights/publications/winwin/33/why-natural-language-processing-is-ais-jewel-in-the-crown",
-      "originalUrl": "https://www.huawei.com/it/technology-insights/publications/winwin/33/why-natural-language-processing-is-ais-jewel-in-the-crown",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www-file.huawei.com/-/media/corporate/images/magazine/winwin/33/liuqun-natural-language-process-l.jpg",
-          "width": 960,
-          "height": 540,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-29T09:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Huawei",
-        "domain": "huawei.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

@@ -7,7 +7,7 @@ originalUrl: "https://manometcurrent.com/artificial-intelligence-and-machine-lea
 webUrl: "https://manometcurrent.com/artificial-intelligence-and-machine-learning-market-is-booming-worldwide-googleinc-microsoft-corporation-amazon-web-services-inc/"
 type: article
 quality: 58
-heat: 78
+heat: 88
 published: true
 
 provider:
@@ -51,6 +51,15 @@ related:
       name: manometcurrent.com
       domain: manometcurrent.com
     quality: 29
+  - title: "Contact Center AI Software Market is Going to Boom With Google, Cisco, Oracle Corporation, Asterisk"
+    excerpt: "Growing Demand of New Call Centres and Incorporation of New Systems, Increasing Number of Queries and Increasing Demand of Quick Resolution on Call is driving the global Contact Center AI Software market."
+    publishedDateTime: 2021-07-10T18:08:00Z
+    webUrl: "https://manometcurrent.com/contact-center-ai-software-market-is-going-to-boom-with-google-cisco-oracle-corporation-asterisk/"
+    type: article
+    provider:
+      name: manometcurrent.com
+      domain: manometcurrent.com
+    quality: 3
 
 secured: "yKaQR0hAmKKgs8CLL2xwW9pm1X0YTk89rE04mi8vw4h1mT2VUlVKZVrUY1MAzcYUGxnkTvClsHOznQbv6cTsSOFjG01B2+edFOeVCRbakAXS1PbUc9zgybmQjxZ1s51UjGGl0SzJLUZEqAOB2FGYI/+OypIKDrnhgG7wOGtMHWn+lF+3+vrCAZYsDbF3rRwx9SRR+Bf1GlaHanZCI4rZuB4psW/TTsqKRuNRnLpgrfQ7qDZwr3kTP1je2I7zzKp0KipozRSUS9mjgMKbqXlXdvzGpUzm14XKFGBftnjpxlipN2q5iBVRPHv+YqMFHM9edaGdl3Gh5uEOW2DyJ4cMySes5OKNRYbF+A5q64DvHeY=;OHeC4gowvkGcQ71uQrlA2Q=="
 ---
