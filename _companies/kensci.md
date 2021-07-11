@@ -2,7 +2,7 @@
 name: "KenSci"
 overview: "Digital primary care for less. Get answers and chat with a doctor for less than a co-pay without leaving your couch."
 type: "profile"
-heat: 50
+heat: 42
 
 website: https://www.kensci.com
 
@@ -39,6 +39,6 @@ images:
     isCached: true
     title: "KenSci"
 
-secured: "6U3vx+yPU+2VknWT/EwANQgpAOWqmPIhsnGDzzlmM5SB7wA+6oGAL17lmE3970ppBLNc7Opzod4LZ0wv6k1RjgtlZgGQi5eMkukPM1G5kie+9pQK31ceIYSjqaB1iQ+/VB7Lye71ktbLzTek0bZH6T7eUkq5hNp8ZxUshieWNNGZZ+VxDFl1c3qayqncQ31V9CihNqe1w1C5RJOA3UreumtTUZdJutoywC9wmcBlBd1P3I+QtNWkJqtmXmike6jBLta2MNhxlXO3GnJP4ik61MFKJUJiIpPrlIepFWRuyNITGg3FKc5yNHsW/cNRU+2OOB5w1vjkmAQpV4auwsPB+Cb+Z5SLmC9TYA3oNTTZl12c7St6IYNFLd3LV9Pn8Jq8CVSAbGG1PB83t3qY95NTXIPdwhl4SiPLPrsv7GwRWw8=;SQ4SMiXILhMDF4hatUmpNw=="
+secured: "o/az11Hiek5AysWOvbMt5JxlXrq81HJIWue3utl50V8LxYNQE4mhD3Hf1OuYkcpTmsq9y2I/07ZbY16KybfemvtdRgA0eSZq7hUVz/599MtsdY3Kpd5n+K7UX9b12BwK4Vj87vdwU8QAjipDNu6Xogv19sjwIHytbpXKeqZE7lqhzHH30efz3z48IltW1jhxjyJJu4bIlQ/KeLZyHC+6Q9c1D6q+WfhljYmqQUJASmjD8ZY821JLYR3WcHTtGywePY0xriZ6I9bXvX2w4NF9bnThRyf2Px0cz2ltSVUbL3MQ3tg4lF+5N2rR+HrsFPqnw9ni+wJUdscDUMR4aq4RA/3RuKG/Ckz/CqXo9vJWgjuDFeF6Mo7ANLOD5i3Vgcx8q1yAEiflaLWzVc10NcqPINV6/EMUHnhUiujolQZvKlo=;ubw299t9cWQjxezWjRxYxw=="
 ---
 
