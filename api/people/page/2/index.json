@@ -16,7 +16,7 @@
       "twitter": {
         "username": "jeanliuqing",
         "url": "https://twitter.com/jeanliuqing",
-        "followers": 1306
+        "followers": 1307
       },
       "weibo": {
         "url": "https://www.weibo.com/u/2209030102",
@@ -55,11 +55,11 @@
       "twitter": {
         "username": "KyleCranmer",
         "url": "https://twitter.com/KyleCranmer",
-        "followers": 10789
+        "followers": 10787
       },
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=EZjSxgwAAAAJ",
-        "citations": 167262
+        "citations": 167432
       },
       "affiliation": {
         "path": "",
@@ -144,50 +144,6 @@
       "content": "\r\n"
     },
     {
-      "path": "_people/clement-farabet.md",
-      "title": "Clément Farabet",
-      "excerpt": "VP, AI infra @ NVIDIA, building self-driving cars and GPU based data science. Ex Twitter (Cortex cofounder). Prev cofounder at Madbits. Deep learning, AI.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/clement-farabet/index.json",
-      "webUrl": "https://everyday.cc/ai/people/clement-farabet/",
-      "type": "profile",
-      "name": "Clément Farabet",
-      "bio": "VP, AI infra @ NVIDIA, building self-driving cars and GPU based data science. Ex Twitter (Cortex cofounder). Prev cofounder at Madbits. Deep learning, AI.",
-      "location": "San Francisco, CA",
-      "website": "http://www.clement.farabet.net/",
-      "twitter": {
-        "username": "clmt",
-        "url": "https://twitter.com/clmt",
-        "followers": 10990
-      },
-      "linkedin": {
-        "url": "https://www.linkedin.com/in/clementfarabet"
-      },
-      "googleScholar": {
-        "url": "https://scholar.google.com/citations?user=u3u16tgAAAAJ",
-        "citations": 8990
-      },
-      "affiliation": {
-        "path": "",
-        "name": "nyu.edu - Homepage",
-        "domain": "nyu.edu - Homepage"
-      },
-      "topics": [
-        "AI",
-        "AI in Hardware"
-      ],
-      "heat": 71,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/953003983307550720/GhDHdn42_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Clément Farabet",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
       "path": "_people/andrew-moore.md",
       "title": "Andrew Moore",
       "excerpt": "Vice President, Google and head of Google Cloud AI. I love Algorithms, Systems, Machine Learning, AI.",
@@ -236,7 +192,7 @@
       "twitter": {
         "username": "thinkmariya",
         "url": "https://twitter.com/thinkmariya",
-        "followers": 27966
+        "followers": 27965
       },
       "topics": [
         "AI"
@@ -318,7 +274,7 @@
       },
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=1-hcASEAAAAJ",
-        "citations": 66231
+        "citations": 66271
       },
       "affiliation": {
         "path": "",
@@ -1111,7 +1067,7 @@
       },
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=q_wYjF8AAAAJ",
-        "citations": 245713
+        "citations": 245962
       },
       "affiliation": {
         "path": "",
@@ -1281,7 +1237,7 @@
       "bio": "Queen Mary University of London",
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=1DS8DjgAAAAJ",
-        "citations": 221596
+        "citations": 222190
       },
       "affiliation": {
         "path": "",
@@ -1299,6 +1255,54 @@
           "width": 96,
           "height": 128,
           "title": "Jonathan Hays",
+          "isCached": false
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_people/josh-cogan.md",
+      "title": "Josh Cogan",
+      "excerpt": "PhD Physics, Stanford University",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/josh-cogan/index.json",
+      "webUrl": "https://everyday.cc/ai/people/josh-cogan/",
+      "type": "profile",
+      "name": "Josh Cogan",
+      "bio": "PhD Physics, Stanford University",
+      "googleScholar": {
+        "url": "https://scholar.google.com/citations?user=_EPCKe0AAAAJ",
+        "citations": 196108
+      },
+      "affiliation": {
+        "path": "",
+        "name": "Stanford",
+        "domain": "stanford.edu",
+        "images": [
+          {
+            "url": "/assets/images/organizations/stanford.edu-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          },
+          {
+            "url": "/assets/images/organizations/stanford.edu-400x400.jpg",
+            "width": 400,
+            "height": 400,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://scholar.google.com/citations?view_op=view_photo&user=_EPCKe0AAAAJ&citpid=2",
+          "width": 128,
+          "height": 84,
+          "title": "Josh Cogan",
           "isCached": false
         }
       ],
