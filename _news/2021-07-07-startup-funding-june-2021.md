@@ -6,8 +6,8 @@ publishedDateTime: 2021-07-07T07:01:00Z
 originalUrl: "https://semiengineering.com/startup-funding-june-2021/"
 webUrl: "https://semiengineering.com/startup-funding-june-2021/"
 type: article
-quality: 22
-heat: 22
+quality: 24
+heat: 24
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://i0.wp.com/semiengineering.com/wp-content/uploads/startup-funding-2021-06-Jun-table1.png?fit=698%2C784&#038;ssl=1"

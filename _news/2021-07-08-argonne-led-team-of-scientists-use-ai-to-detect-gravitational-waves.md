@@ -80,6 +80,15 @@ related:
         width: 1380
         height: 776
         isCached: true
+  - title: "AI allows scientists to detect gravitational waves"
+    excerpt: "Researchers at Department of Energy’s Argonne National Laboratory report that they have used artificial intelligence (AI) to dramatically reduce the time it takes to process data coming from the Laser Interferometer Gravitational-Wave Observatory (LIGO)."
+    publishedDateTime: 2021-07-09T11:56:00Z
+    webUrl: "https://www.controldesign.com/industrynews/2021/ai-allows-scientists-to-detect-gravitational-waves/"
+    type: article
+    provider:
+      name: Control Design
+      domain: controldesign.com
+    quality: 17
 
 secured: "dZ4sHtedgGBo1m03ET6MM+nBqTmbbyNZwMX0YNnziwSCbanXwOev46hy/jUxBIpDB0L7eRpCb/rig9Y+iKmw182XUYZEcqfZB4Ff+1t2IZI+iZqub1KAccn4GEaILIR1wGfXN42/5DYvDB8uoTCzYHg6jjM3MKw5aBNYjOyUB4Net3B3psn1zPS2tmLlA/2Y+G3gzPrEJUbXu5ckh8EQ7MgLipyd+nSD4+ZfDYqgNT/bKPX8QhHiAxmBYs7j1UW6OLO5YPBah4pT9q616Cq60HNxis5uUfcBA3cCfz7hl7lTm++glFmso0w1XAnx6oNWYo49C0ZDhRbflU5YdUECs52oQCNcJSql4HCeMUGta7Y=;g2mnWKP2A6QPKHx9Mrr8CQ=="
 ---

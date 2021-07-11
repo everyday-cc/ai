@@ -1,31 +1,39 @@
 ---
 category: news
-title: "Scientists use artificial intelligence to detect gravitational waves"
-excerpt: "When gravitational waves were first detected in 2015 by the advanced Laser Interferometer Gravitational-Wave Observatory (LIGO), they sent a ripple through the scientific community, as they confirmed another of Einstein's theories and marked the birth of gravitational wave astronomy."
-publishedDateTime: 2021-07-07T20:22:00Z
-originalUrl: "https://phys.org/news/2021-07-scientists-artificial-intelligence-gravitational.html"
-webUrl: "https://phys.org/news/2021-07-scientists-artificial-intelligence-gravitational.html"
-ampWebUrl: "https://phys.org/news/2021-07-scientists-artificial-intelligence-gravitational.amp"
-cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-07-scientists-artificial-intelligence-gravitational.amp"
+title: "AI allows scientists to detect gravitational waves"
+excerpt: "Researchers at Department of Energy’s Argonne National Laboratory report that they have used artificial intelligence (AI) to dramatically reduce the time it takes to process data coming from the Laser Interferometer Gravitational-Wave Observatory (LIGO)."
+publishedDateTime: 2021-07-09T11:56:00Z
+originalUrl: "https://www.controldesign.com/industrynews/2021/ai-allows-scientists-to-detect-gravitational-waves/"
+webUrl: "https://www.controldesign.com/industrynews/2021/ai-allows-scientists-to-detect-gravitational-waves/"
 type: article
-quality: 57
-heat: 107
-published: true
+quality: 17
+heat: -1
+published: false
 
 provider:
-  name: Phys.org
-  domain: phys.org
+  name: Control Design
+  domain: controldesign.com
 
 topics:
   - AI
 
-images:
-  - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/scientists-use-artific.jpg"
-    width: 1440
-    height: 810
-    isCached: true
-
 related:
+  - title: "Scientists use artificial intelligence to detect gravitational waves"
+    excerpt: "When gravitational waves were first detected in 2015 by the advanced Laser Interferometer Gravitational-Wave Observatory (LIGO), they sent a ripple through the scientific community, as they confirmed another of Einstein's theories and marked the birth of gravitational wave astronomy."
+    publishedDateTime: 2021-07-07T20:22:00Z
+    webUrl: "https://phys.org/news/2021-07-scientists-artificial-intelligence-gravitational.html"
+    ampWebUrl: "https://phys.org/news/2021-07-scientists-artificial-intelligence-gravitational.amp"
+    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-07-scientists-artificial-intelligence-gravitational.amp"
+    type: article
+    provider:
+      name: Phys.org
+      domain: phys.org
+    quality: 57
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/scientists-use-artific.jpg"
+        width: 1440
+        height: 810
+        isCached: true
   - title: "Subscription Companies Use AI To Keep False Declines To Record Lows"
     excerpt: "Optimizing billing to minimize false declines can seem like a small issue, Digital River's Eric Christensen told PYMNTS, but AI can it from growing. Here's how."
     publishedDateTime: 2021-07-08T08:00:00Z
@@ -81,16 +89,7 @@ related:
       name: insideHPC
       domain: insidehpc.com
     quality: 17
-  - title: "AI allows scientists to detect gravitational waves"
-    excerpt: "Researchers at Department of Energy’s Argonne National Laboratory report that they have used artificial intelligence (AI) to dramatically reduce the time it takes to process data coming from the Laser Interferometer Gravitational-Wave Observatory (LIGO)."
-    publishedDateTime: 2021-07-09T11:56:00Z
-    webUrl: "https://www.controldesign.com/industrynews/2021/ai-allows-scientists-to-detect-gravitational-waves/"
-    type: article
-    provider:
-      name: Control Design
-      domain: controldesign.com
-    quality: 17
 
-secured: "zPhGnQLqYQXPagaUZwU5g/UeQrv+CCSA0G2uxYJG3us2P2Fbisbzud2dAZSjxeeiKzrf4ZS5vE428WfGBHrBZTuqvtlu/Z1lN/LqrMxNn37WeZIORA7H48Vody3UFw1oUT+7TDuz+mfP5RQ/c5gTz9xGyE1gV92Mq6Zs5gzDzOkcxPkjF3e81FCKUQK0Hutqwk54sejFN2hASzw8HVc4qp7T593WJ74s9UZsVuiMQYDjmSHrfgKDt1BMQKERdfm425fpgg8IH1kaIgLmgsaRJRebK/5NqiBQKp1GT3iwD6xkAOF8d1bDBphjO1ONJk1L3zX9JcMP1cFMXqzIn4me24SwaZdCE6zfNYIerW3Izqg01wwEVXqEhrWvdlIa40zKcKX7FHlYS2CKo5fcIV1i21cy6i2BzMNo218eDi8BiIW406gf7J4ReabVraxQPJb2JFOXbfnSUklaXN4tzGs/H79HQHL2Ma9a9LyyIcybrZxdwOk/baYQO0gqo7Q1wbaNVKgnprbIs8p0Hd6hx17CPQ==;ZqxovWpo+X+TNzbts6sYCQ=="
+secured: "9TtXrrrVtdUBNh5Zk6499jkGc+IuEatC6Fl3qugxb4i35lCMBpLGEmiND0avL7yy/Ao4r06rQ3UrSLeHOichWVXwPqwc9g6VdoM3U3yAUXKDrdCDYakc/ai+O5OsL2IHiFl/wtx8yclAkz5zTjh6UhnZgbvnUkKYFML4t4EyenbmM0P1Jy0OjfcAebcYafXUxG98ikZYuqrrrGfIhCb5Q3FJDdhZu9vH4EFzfW1krTKRzfWNMatQA5iEezq58ZINID30NX7cqQeffcoq9Va6bFc86esJixzb19Auv8rruJRYMKrqHzV4lpsgXIGe3VMcnMfo9q/cPGBoWS+B5wcPX7OtDS07dznRmDML3JLdFptDtJ3q1qdzBzbI+XCO7y7jgFJ7Ec7MacQVZUWHDCkz+fWMkoEqfLJ8WxdmX5FifHKarPscqGtV6bqDZ79hUlU/2eaSYCHUxPv5JZC1UJquFZx+i9NlzZQVTytZZuoIf05ZWHVz2cHZ5snJagreHgiR8mFcbGaUpJi9al4C1r6yCA==;T8i0JqzDYMURtNCk0CzISg=="
 ---
 

@@ -8,8 +8,8 @@ webUrl: "https://www.forbes.com/sites/lanceeliot/2021/07/11/the-bathroom-break-g
 ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/07/11/the-bathroom-break-gotta-go-conundrum-for-riders-inside-ai-self-driving-cars/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/07/11/the-bathroom-break-gotta-go-conundrum-for-riders-inside-ai-self-driving-cars/amp/"
 type: article
-quality: 83
-heat: 83
+quality: 85
+heat: 85
 published: true
 
 provider:
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - AI in Autos
 
 images:
   - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F604fe41fae09b91acf877631%2F0x0.jpg%3FcropX1%3D144%26cropX2%3D1195%26cropY1%3D310%26cropY2%3D803"
@@ -29,6 +30,6 @@ images:
     height: 493
     isCached: true
 
-secured: "C9IouCuDZ3kUdqnxLfbh4YACg/AqtrTFNT7yvBx2ubUfQDJoxaZDVBM8jx/ugKWR5nL949JdjMFsLtbcknWaIXDd36OTBdQVDwowdcCh5a7BdVcyGBOeKWXsrds++RypxAWwR5llRPTv/30J7PeZCHtakiXbN/defqncIRhnfs534U+zL8w7F5ZXuXZ9pYQq2UaI2CukZPzXusDO4WskTHS4c1xT5YSBkcXVm7jwVMi9qUGAw2sodFaiZI1HkzHYeIqoVdB6jnx8XZflhbND+h8EmLKX0UF3Sx79AVwqcbi+eLnFLoc+RCoBt/1CWRu+EEX74ajCuMKw03MB/tlUy3AmN3XcAl4DCB9E0Jac7Rs=;fg0FN2dgV7cAyyiCiN8u8w=="
+secured: "+aKYMRVFAL414NQcyGomze/uOi6aWICaePPTvxpJ4vWl4HtJ631X7EgBYtx9nZKfmUfRfe0tm+HuF2SlpseNSj+wqcMua1MQw8d9mw4rHHkvOMdUaU7W1ll1Hx7xgNMsN3MaWHhxuGf2eEWmFWWlaQ19R7vS+Inwt/VYE9CYiI8bGY/kinpIff9azKB9M8xmR7VhCmwF1+PzOt+CEeyli99SOtn+fBtcHdwRnp1ZQgzp9caxCE0ST1sgZ97gwjsaxIpBUP9Kx0BVCkaN6vhxGkq6Ior+TbDNIxdOcrgml6XtXVN8riDCo4NUEri3JXNkg8g5OmYogjQ3HOSH4Pqs0L5zDC2YTCT68iTIFzxLSa1xEQU1cC5IMrlT2SEJQOQeOu1WNlS+SBdlT/ypIqRbECzs9QCII9b2eNndQW8nsqwHh/h94JGiMeTKISxSWJk8vOHxQBHXMEOfBkdGDTk/f0HTea4MH58bpPHUNP2ZPcBce/eD2YZvrb319ifhsToLYhb8G0DB4V91Bcm8b1IjCw==;JGYeXIpMldo56gSdpmwj9Q=="
 ---
 

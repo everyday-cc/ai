@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/sony-robots-automation-tv-camera-sma
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/sony-robots-automation-tv-camera-smartphone-factory-2021-7?amp"
 type: article
 quality: 89
-heat: 99
+heat: 100
 published: true
 
 provider:
@@ -46,6 +46,6 @@ related:
         height: 771
         isCached: true
 
-secured: "LarjDfjmej0ffTd6wmveGs8Pph2grbyv2jY+dBIXmk15DRjBoiQVUNzbiLS+pa7unOzX+wSewf8pbxa5Jkp839nG63pkuamfM7zELPTMM44iue/HzEkd6a9HiepF6BDNdB4qjvzIEsN4yaZBxrg3bKRRAEiMRVHcEPWlSTc5AGM//lT+bwjUjNpbFt4WxfSWmlBFYIsZn/oiw4LwTXAVgr9bO15TZ756Cl1JS7hqaWgzN/77tXxNacJXNau/UCP+FJLqD7Gav/NNovp7Th/2pMT3SanA8y/eS21FwuubC4YZPi3rrx0TiI8r2tg/sxeb9nYRI5jmxxIWjcqb3WAIDE/BhdJ7tPCpfH6AdVG8dTo=;eS+8RAu5lCoXMtMHUuI8OA=="
+secured: "tPvKqEVGq7fCCMBO0iUlfTHKNity7zWaXp/X0fF2Pe7kDBQJ2HTr52qYWIgEhdNIqsTWGEqgxh5siooTkETaDqApKdggzLWd3NfLLhEOKNHFfiGItbnYQyqlZ9pfQOy3v0bhyHa7kVP+JhaphH7y9YdHSGGGSSuvxYSpF/yLKiu1qUhetjZD7bOvDrJd/14/bO6sw4UaRJ/lIeavof5tMCgQM027i/u6V2A5vfyd/kRtiCqa9dIxyar2nh2VP1As83Y1tDWg5eEdt+PrPVt+aimb0XWtJv0owI25+ye+6x1MnUMMi7F2uzpUoDzYMZGTyw8aiBxDHwNzpwYP9T74v2ZzOE2FuwbNmlUA/3F+xxF4YZYFiBQBhjMXkNklboFWo+FHYobm8HJmIl1rmBFdZAn4PHWNVqu3eqiuQJQshT4Fd5HGc9FHfbti9xNzciCVExbSNuktWvzrSn/MNHmepcT41yrEmEbQdfDB+Ea8Jve2Q0NO7CPpok9BS20RPqJBjsXxHSFOV9tpxuqboYilvQ==;2/JtF3PnuARvwy6go6Qzfg=="
 ---
 

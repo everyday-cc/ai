@@ -81,6 +81,15 @@ related:
       name: insideHPC
       domain: insidehpc.com
     quality: 17
+  - title: "AI allows scientists to detect gravitational waves"
+    excerpt: "Researchers at Department of Energy’s Argonne National Laboratory report that they have used artificial intelligence (AI) to dramatically reduce the time it takes to process data coming from the Laser Interferometer Gravitational-Wave Observatory (LIGO)."
+    publishedDateTime: 2021-07-09T11:56:00Z
+    webUrl: "https://www.controldesign.com/industrynews/2021/ai-allows-scientists-to-detect-gravitational-waves/"
+    type: article
+    provider:
+      name: Control Design
+      domain: controldesign.com
+    quality: 17
 
 secured: "pRul6G/2hUm60A0XpE+GSbophdDSmGPaHG0s4lfOZvtWL5Em/VtXVihUJGQD459OVTjmBlaCBwrQ4aFWqvyVjhKezRp30pvw6lMpJ5/A/SUKg5vxcgXq3u4TKqqOeJzNAdM3JC50E8rAjFHSs4eq+Cg/n2BZ1cP/0MrvUOm7d43uGKY9KSfLP98aN9EG0v6oDCbG1/eZ8SONSHsprRw6BVE5G73NTTmjQo9hnRXmN6T/I4bgmAAPMYpQje7A2CYEfDQCEoQR0oKCjzV7GG2IKxgkQyhiEGBA7a2bw6eEMQHFfCF9krGwLvz56rmp31XN5kuM0xzwHys3Rz038O8W2dEs9CiXxqcML5Ls51IKHC8=;WUF92zAtaQOm/MZkiME60Q=="
 ---

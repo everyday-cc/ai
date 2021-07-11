@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Machine Learning-powered Imaging Helps Diagnose Thyroid Cancer"
+    excerpt: "A new non-invasive method to distinguish thyroid nodules from cancer by combining photoacoustic (PA) and ultrasound image technology with artificial intelligence has been devised by scientists."
+    publishedDateTime: 2021-07-11T17:36:00Z
+    webUrl: "https://www.medindia.net/news/machine-learning-powered-imaging-helps-diagnose-thyroid-cancer-202208-1.htm"
+    ampWebUrl: "https://www.medindia.net/amp/news/machine-learning-powered-imaging-helps-diagnose-thyroid-cancer-202208-1.htm"
+    cdnAmpWebUrl: "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/machine-learning-powered-imaging-helps-diagnose-thyroid-cancer-202208-1.htm"
+    type: article
+    provider:
+      name: Medindia
+      domain: medindia.net
+    quality: 59
+    images:
+      - url: "https://images.medindia.net/amp-images/health-images/low-dose-radiation-in-thyroid-cancer.jpg"
+        width: 1200
+        height: 1000
+        isCached: true
   - title: "Thyroid cancer now diagnosed with machine learning-powered photoacoustic/ultrasound imaging"
     excerpt: "A research team performs machine learning-powered photoacoustic/ultrasound imaging for thyroid cancer classification."
     publishedDateTime: 2021-07-09T19:25:00Z

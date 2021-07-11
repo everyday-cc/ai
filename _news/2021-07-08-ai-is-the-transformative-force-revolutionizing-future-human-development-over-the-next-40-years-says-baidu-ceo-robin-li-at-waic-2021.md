@@ -1,30 +1,26 @@
 ---
 category: news
 title: "AI is the Transformative Force Revolutionizing Future Human Development Over the Next 40 Years, Says Baidu CEO Robin Li at WAIC 2021"
-excerpt: "Baidu's chief says technological advancements can spur the gradual restoration of humanity to become a low-carbon society The importance of AI"
-publishedDateTime: 2021-07-08T11:16:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/ai-is-the-transformative-force-revolutionizing-future-human-development-over-the-next-40-years-says-baidu-ceo-robin-li-at-waic-2021-1030589086"
-webUrl: "https://markets.businessinsider.com/news/stocks/ai-is-the-transformative-force-revolutionizing-future-human-development-over-the-next-40-years-says-baidu-ceo-robin-li-at-waic-2021-1030589086"
+excerpt: "Baidu's chief says technological advancements can spur the gradual restoration of humanity to become a low-carbon societyThe importance of AI extends beyond economic growth, its true contribution towa"
+publishedDateTime: 2021-07-08T11:00:00Z
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/ai-is-the-transformative-force-revolutionizing-future-human-development-over-the-next-40-years-says/article_1f9e0400-676b-5c84-a173-edccc3c3c8f2.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/ai-is-the-transformative-force-revolutionizing-future-human-development-over-the-next-40-years-says/article_1f9e0400-676b-5c84-a173-edccc3c3c8f2.html"
 type: article
-quality: 36
+quality: 6
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/1560054/Baidu_CEO_Robin_Li_discusses_social_AI_a_keynote_speech.jpg"
-    width: 400
-    height: 236
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/2/66/266ae888-82e7-5e4e-b79e-d4c94de4fe86/60e6db19ca2c7.image.jpg?resize=1070%2C630"
+    width: 1070
+    height: 630
     isCached: true
 
 related:
@@ -59,6 +55,6 @@ related:
         height: 512
         isCached: true
 
-secured: "Uo7fRNamTwkYEcGIuIEkLzG7EtUDZJUf/EtlkkEsivlbM+Tmqjax7dwJkDH2U4Z0v/5f47F8UFM5GJ3gbH3rVoQw6D8X99/8YK/Xn4BvFHxFxjFTneX1rgBZ2ZyLO9Nifh9vE9T6hPf6LfN53V9q3f1k/reieyS6IWkm5nq/rWudQtfCfRWzMGO5YjIV9981ZKxnhPyrLCmfc0LUxnmwS40X3FacAJVzTtyWixJ+0VrEpEizWG/QuWS+fBfbeylnQrVW6hf7gYcVjf+SgiXyZbfnF+L2w2TK1VcTK36aI0rhswv3Ig1qPbVeOcI6fwvT5Peyh9tqrT7wXlJCCQfbor3rh8bnnHYvNMw7joahMqAB2Y5Mbdv1OyEJbqG7za9w5L187Y0tjp+B6QAxcfJRwmqcqrU3/4jelF1vXlb3gqttKQuKbQu2KlRpF0TDKMgGNGBa8ragZRHymQDHKktEerovEvRox84UJtGSdoFiOQxH5f4d33omG3S4M5/tMwKY6dt4OpdW/cwkWG306cbakg==;iEmf2VeKuZYUOzsX0Q66+A=="
+secured: "j1TRCaen1dmvjCJzpjUM780gD67gWoa4ZT46kYim/nSXhOOngg7BXhtA8NBpiltyRi0UkKMPCMkZ0pS917KsEEN00YDyrArMvd4INZy4NEX2+wVyeAuqTwKUL18GbWVC4Ii9TT9JnuRB3eOuxJButNQ6S7VkHdzE/AFJvlpkBAeHoqWKt8EfGU30+b0XzR1/3owI3fZoq+XNKYEOG6B+sZH941zJjvcDuGeEuFXl/Zh0fzNp2PgLAAUdUViE4ScUksJT5d/TZOKhuT1U0zJkVwqxDq9oPP2Ag8EhMTMuhNU7q4CsY58wFYF1IOvLeLfafZiiKjkwZBuzYX0QE0mGx/CAEVvMVtLJLn8yzTtz/0M=;xjMde62H89WhAf7gDnZwpA=="
 ---
 

@@ -1,29 +1,21 @@
 ---
 category: news
-title: "Advances in application of Artificial Intelligence"
-excerpt: "Scientists have recorded major breakthroughs in the application of Artificial Intelligence (AI) in health, weather forecasting and other areas of science."
-publishedDateTime: 2021-07-08T04:11:00Z
-originalUrl: "https://guardian.ng/features/advances-in-application-of-artificial-intelligence/"
-webUrl: "https://guardian.ng/features/advances-in-application-of-artificial-intelligence/"
+title: "NNSA leads national collaboration to drive next-generation in AI for nonproliferation"
+excerpt: "Within NNSA, the Office of Defense Nuclear Nonproliferation Research and Development (DNN R&D) is spearheading collaborative efforts to drive advances in the science of artificial intelligence (AI), and accelerate the adoption of AI-enabled technologies to solve difficult and pressing nuclear nonproliferation and national security challenges."
+publishedDateTime: 2021-07-09T00:00:00Z
+originalUrl: "https://www.energy.gov/nnsa/articles/nnsa-leads-national-collaboration-drive-next-generation-ai-nonproliferation"
+webUrl: "https://www.energy.gov/nnsa/articles/nnsa-leads-national-collaboration-drive-next-generation-ai-nonproliferation"
 type: article
-quality: 41
+quality: 10
 heat: -1
 published: false
 
 provider:
-  name: The Guardian Nigeria
-  domain: guardian.ng
+  name: Energy Department
+  domain: energy.gov
 
 topics:
-  - AI in Healthcare
   - AI
-  - AI Ethics
-
-images:
-  - url: "https://guardian.ng/wp-content/uploads/2019/09/Artificial-Intelligence-is-revolutionizing-the-Healthcare-Industry.jpg"
-    width: 1280
-    height: 719
-    isCached: true
 
 related:
   - title: "An AI for sea ice identification"
@@ -58,16 +50,21 @@ related:
         width: 1426
         height: 808
         isCached: true
-  - title: "NNSA leads national collaboration to drive next-generation in AI for nonproliferation"
-    excerpt: "Within NNSA, the Office of Defense Nuclear Nonproliferation Research and Development (DNN R&D) is spearheading collaborative efforts to drive advances in the science of artificial intelligence (AI), and accelerate the adoption of AI-enabled technologies to solve difficult and pressing nuclear nonproliferation and national security challenges."
-    publishedDateTime: 2021-07-09T00:00:00Z
-    webUrl: "https://www.energy.gov/nnsa/articles/nnsa-leads-national-collaboration-drive-next-generation-ai-nonproliferation"
+  - title: "Advances in application of Artificial Intelligence"
+    excerpt: "Scientists have recorded major breakthroughs in the application of Artificial Intelligence (AI) in health, weather forecasting and other areas of science."
+    publishedDateTime: 2021-07-08T04:11:00Z
+    webUrl: "https://guardian.ng/features/advances-in-application-of-artificial-intelligence/"
     type: article
     provider:
-      name: Energy Department
-      domain: energy.gov
-    quality: 10
+      name: The Guardian Nigeria
+      domain: guardian.ng
+    quality: 41
+    images:
+      - url: "https://guardian.ng/wp-content/uploads/2019/09/Artificial-Intelligence-is-revolutionizing-the-Healthcare-Industry.jpg"
+        width: 1280
+        height: 719
+        isCached: true
 
-secured: "ryPRguOpaC7sMyvjajx1O/JDSVKlxr5sBF8QSiCxNNcs5Ib0+9luAtEzkcbLPTZwtubmAhQuI/9gUDufuy12Z4IYsBywbVJYiXbILpEirsG3qekUKQg/n7M+TYKZdZ1ZlNOiIyENpZMqG1PT+B6pEdfUGZDkxjN0sSNnWh/t2PJzVULOQ1XPIiLlX7VMiUEtLhKk2pqelNd7p7U6PeE+iDiuDxQjz9XOpz6YKIj1O5GEVcDj8BzXwe/DjNLV4ynr9gGH8dr+m/hJGhSzyoclGj4kxhkFWmQGiWm6eJOT3eALkfXCv/PDV6pQIasRIvPzZJEzkbqKXIDqrJVWRmOT8v8jQ/b/RFjOu4Sjr4K2+NUbrFLNNYCKbAV1ineVsB58tCSVuLKBR5V2LJh2eunf3lPZv9qdZZ95d4PeF4fY6HYNrsFWpDklsGAI2bkW/Pr6QXpvo2QztNrqoh0uZlmTqQI4lzRXchsyGjtL1jPVavLKWJgTNviLt04p5BtiiiPDsygdX2hW+QZFmMglQT1s3A==;VY7XyoTjQjFKRPp8hH7YeA=="
+secured: "tVlYmon4y7molYmDZTF9pGSxYMEzt+ieExEsnXKFG4eH8ld4OpAJaMsrqJQVN5dEzaq6D8SW+Rwoz0ylAnJydLqBs/4obXq+gb5cZkpdC1Vt0WTezPCe6mW05zlk9XvVX3oYcx9z1MIS3bB1NK8Hm+8zYsYSPyflaRsy+KWGtnZWbqge+ePfyXw//GQFG2Ja0fh02TWq6+nUO0zqsmIpDqxbZFsK0u/MdrofFKJrYp4xGKpjhIrgvigr44/6wVgJjkCwhTeQa+0z7wpnyKYvih+M4QcrTH9pGhGwIziGXwZ9zEPUr/SaHnTKMX+OjrbrYbJJ+234oI3PqXcB+IK4qhnXe+ftGjWY4hj+rqJj6+k7bgtlaNe8SDV6pDmWAiSaRtNBkQDaK3vPMDVAOySmtYktRYCNerOSzLyt0za72RSSx9/mhan8+91lwI0/Z4tzBll9niXKdCoI8L6jyEyylxAmFyznCXhonZZWU/O2f4T5xAjcl70CF63Z9o8QFAS06E3AsTE8lroeOYC+3kWTYA==;k8r+4uUGFGMDqWxzf7O5xA=="
 ---
 

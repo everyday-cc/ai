@@ -1,19 +1,15 @@
 ---
 category: news
 title: "Supermicro Boosts Performance for HPC and AI Applications with Optimized Servers Featuring New NVIDIA A100 80GB PCIe GPUs"
-excerpt: "High Performance 200G Networking Accelerates HPC and AI ApplicationsSAN JOSE, Calif., June 28, 2021 /PRNewswire/ -- Super Micro Computer, Inc."
-publishedDateTime: 2021-06-28T13:14:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/supermicro-boosts-performance-for-hpc-and-ai-applications-with-optimized-servers-featuring-new-nvidia-a100-80gb-pcie-gpus-1030559105"
-webUrl: "https://markets.businessinsider.com/news/stocks/supermicro-boosts-performance-for-hpc-and-ai-applications-with-optimized-servers-featuring-new-nvidia-a100-80gb-pcie-gpus-1030559105"
+excerpt: "Supermicro servers, designed with a Building Block Solutions ® approach, give Supermicro a first to market advantage when incorporating new technologies. State-of-the-art accelerated computing options can be quickly integrated and tested,"
+publishedDateTime: 2021-06-28T13:08:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-supermicro-boosts-performance-hpc-ai-applications-with-optimized-/2021/06/28/9398763.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-supermicro-boosts-performance-hpc-ai-applications-with-optimized-/2021/06/28/9398763.htm"
 type: article
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI Hardware
@@ -25,6 +21,6 @@ images:
     height: 206
     isCached: true
 
-secured: "CKG93Mj7tmBD7js13wiLr1boEhdFKIqxScKos9ugTvirtqlhy3U6T5IYPgW8rR/Tk7DgeQyCbILqcfFq3XA8fruju5UjELbHslxpLOr4ktWSofgMxybeEfc+C7omY9uzrCYc/D6o3GnyGDbwPXuZsuCeP8Y+2yY8tiY0OypD7n9XuQdl7WvYFuSpAZpO2Fo1JilmbyTVMFJew2bK/YalLXX5rFkkWnZGV5ujEZJSkaWsW3lKyaFI6m1+W3o3E223eyAZAUxSHX8q+jbkDGtp0k6YAOtGkrRHbK4qPSEuFTGMAA+TqACxn+R7rX8meWBZNjKhPP7hieb5mTc4BJdxgd6DCRjki9kaM/x0msbkcm0=;WtCUDNuHlBL9k9p7fIie1A=="
+secured: "6BtZlbwMIeQpYBiDqE65sSPAoyNtvTE9emrTNC/Vrh9IbMtkickGIzqaahBHdqvQdtDmoMlW3pb6x/xAoTaMJpZRlP0f2y8KKeLHHekYamnYowU1YmcqT1doLAJ8gzDuSzOE4jWlFzvQXt3GwkTyTvx/YX6U0/gmCTIaHvJdaHJvTG598S6ZkS6nrL9aNl+A0AU2e7BS828rxpzECU1EaXLl5i2NG/rKkKtgkabDi3g0PPShJUUYem20/8ov0lT4pEhgz0pt9Gz77pHlQP4ZnaxBkXeZj8QdzwvnD12+/mVGcFZkhRMDpb9SVja8FdHMy+FhoGLFTklS+pWuaN6ROcN2K7leIZsZFXN3NcUcxNY=;dPJPH2CHvfavw1fABvvJCA=="
 ---
 

@@ -21,17 +21,6 @@ topics:
   - AI
 
 related:
-  - title: "Australian shares rise on healthcare, tech boost; Challenger shines"
-    excerpt: "Australian shares rose on Wednesday, lifted by the healthcare and technology sectors, while Challenger Ltd jumped after two U.S. companies bought a stake in the investment manager."
-    publishedDateTime: 2021-07-07T00:36:00Z
-    webUrl: "https://www.reuters.com/article/australia-stocks-midday-idUSL3N2OJ04L"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL3N2OJ04L"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL3N2OJ04L"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 69
   - title: "New app uses artificial intelligence to help Australians with recycling"
     excerpt: "A new app will use artificial intelligence to help Australians work out if their rubbish can be recycled. Recycle Mate is designed to end widespread confusion about what goes into which coloured bin."
     publishedDateTime: 2021-07-11T00:34:00Z

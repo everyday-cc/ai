@@ -42,18 +42,18 @@ related:
         height: 630
         isCached: true
   - title: "AI is the Transformative Force Revolutionizing Future Human Development Over the Next 40 Years, Says Baidu CEO Robin Li at WAIC 2021"
-    excerpt: "Baidu's chief says technological advancements can spur the gradual restoration of humanity to become a low-carbon society The importance of AI"
-    publishedDateTime: 2021-07-08T11:16:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/ai-is-the-transformative-force-revolutionizing-future-human-development-over-the-next-40-years-says-baidu-ceo-robin-li-at-waic-2021-1030589086"
+    excerpt: "Baidu's chief says technological advancements can spur the gradual restoration of humanity to become a low-carbon societyThe importance of AI extends beyond economic growth, its true contribution towa"
+    publishedDateTime: 2021-07-08T11:00:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/ai-is-the-transformative-force-revolutionizing-future-human-development-over-the-next-40-years-says/article_1f9e0400-676b-5c84-a173-edccc3c3c8f2.html"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 36
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 6
     images:
-      - url: "https://mma.prnewswire.com/media/1560054/Baidu_CEO_Robin_Li_discusses_social_AI_a_keynote_speech.jpg"
-        width: 400
-        height: 236
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/2/66/266ae888-82e7-5e4e-b79e-d4c94de4fe86/60e6db19ca2c7.image.jpg?resize=1070%2C630"
+        width: 1070
+        height: 630
         isCached: true
 
 secured: "zcPGOrAoox859PytZxRXpj5KTSD0l2o6ySDCdZY1n6JrbXo0fGBm35bsfohyCi9BV3tTYYskKdLCZRwyd/ltTsgiZ/eAkBob5PameHbnxvvIEcIdqRNApignX7+DulrxYnydiN+HUovMQ97FTvkRw1LZCumZaNI9TQXfEeX6cNIGiZPFyKUJ6HLAmTMkUYYl0aCCs/Oo3T0xT88aaVs39reF8CGZfXFkAwBrmenJt2uDVEVAo9TlylsknbBnlCIfqehiJEGSlhookhrEumEPStc8F8c65r30nSgJ4CxOHIik5kSfD+IIekcaiyPKgRAbByf4ZQ3dyrwQIqm0SHDo46S2z4eBF9slHx3qRw8tdFywQES8NvQxUgeoaCSo1lGcwTNoD5SWDGkz8FzYQPGWiqwTvj8Q1kZZmPmP80cWfPUa1ROHAneF54IEED6+pTnzNUjnGNCNxRxgVExZbScesB8XKI48rnLJ3GXe8NpNdSk4g25RPre0MIjlZISNqLj7J9rXmqJcnZr8/NM4GBYddw==;hR0MywAgeV4QunPkgl9+Uw=="
