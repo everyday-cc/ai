@@ -35,36 +35,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Dell Technologies drives convergence of HPC, AI and data analytics with Omnia open source software"
-    excerpt: "Dell Technologies-developed open source Omnia software speeds and simplifies AI and compute-intensive workload deployment and management"
-    publishedDateTime: 2021-07-07T03:33:00Z
-    webUrl: "https://www.dqindia.com/dell-technologies-drives-convergence-hpc-ai-data-analytics-omnia-open-source-software/"
-    ampWebUrl: "https://www.dqindia.com/dell-technologies-drives-convergence-hpc-ai-data-analytics-omnia-open-source-software/amp/"
-    cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/dell-technologies-drives-convergence-hpc-ai-data-analytics-omnia-open-source-software/amp/"
-    type: article
-    provider:
-      name: Dataquest
-      domain: dqindia.com
-    quality: 45
-    images:
-      - url: "https://www.dqindia.com/wp-content/uploads/2018/07/edge-computing.jpg"
-        width: 850
-        height: 400
-        isCached: true
-  - title: "Deep Learning Market Size 2021 Global Industry Trends, Segments, Competitors Strategy, Regional Analysis, Key Players, Statistics and Growth to 2030"
-    excerpt: "Facebook announced the launch of its deep learning framework PyTorch 1.0. The framework includes a set of tools which makes it more compatible with platforms like Google Cloud, Amazon Web Services, and Microsoft's Azure Machine Learning. In October 2018 ..."
-    publishedDateTime: 2021-07-07T03:35:00Z
-    webUrl: "https://www.marketwatch.com/press-release/deep-learning-market-size-2021-global-industry-trends-segments-competitors-strategy-regional-analysis-key-players-statistics-and-growth-to-2030-2021-07-06"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 32
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Data Analytics Platform, Opaque, Raises $9.5 Million Seed from Intel Capital and Race Capital to Unlock Encrypted Data with Machine Learning"
     excerpt: "Opaque, the secure data analytics platform company, today announced $9.5M in seed funding, led by Intel (News - Alert) Capital with participation by Race Capital, The House Fund, and FactoryHQ. Opaque helps organizations to analyze encrypted data in the cloud using popular tools like Apache Spark,"
     publishedDateTime: 2021-07-07T13:05:00Z

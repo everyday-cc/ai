@@ -51,15 +51,6 @@ related:
       name: ReportsnReports
       domain: reportsnreports.com
     quality: 14
-  - title: "Military Robots Market Analysis with Key Players, Applications, Trends and Forecasts to 2027"
-    excerpt: "which in result increase the demand for military robots. According to Artificial Intelligence and National Security, in 2008 Russian defense modernization agenda aims at robotizing 30% of its military equipment by 2025. As per Congressional Research ..."
-    publishedDateTime: 2021-07-07T03:39:00Z
-    webUrl: "https://www.reseller.co.nz/mediareleases/143682/military-robots-market-analysis-with-key-players/"
-    type: article
-    provider:
-      name: Reseller News
-      domain: reseller.co.nz
-    quality: 8
 
 secured: "xov+LG/CckDe/ixn0qr8Os3pb2cS2Es7rYZblCIToTaR5yWUWOcKFJi+jCCs6gO4o0YWWRpk+WguFUsJUZnHWccZwiz860tn/cU2A+oVWiabD9nakvDqVr+qunHkiiQC5WpxVMzUrleZN3geYjHEjrQ2O9JC/iWXiFKoNWHyMI2BcNVhvQpqY+PD7sRR7dhsJXT7xUtC9zCL3nSwwNNn4oP0/5xvr6h46K/8VNkyByUZ+wmvwjF+k9J6O/KjQe1tdnwZcSIPBBZAqUQqmG6KEERujdlsaQvfdxEdxKJ5l0vLIjb6YDc5Vm6sY1bMn97Z9ONcngc47H745DVa91WJSoefU8p0I9nWsdQz5sAjQ/k=;/gvoMMZz52TPgoNj30QfNQ=="
 ---

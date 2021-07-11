@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/military-robots-market-s
 webUrl: "https://www.marketwatch.com/press-release/military-robots-market-share-size-industry-players-revenue-and-product-demand-forecast-till-2024-2021-07-10"
 type: article
 quality: 55
-heat: 95
+heat: 85
 published: true
 
 provider:
@@ -56,15 +56,6 @@ related:
       name: ReportsnReports
       domain: reportsnreports.com
     quality: 14
-  - title: "Military Robots Market Analysis with Key Players, Applications, Trends and Forecasts to 2027"
-    excerpt: "which in result increase the demand for military robots. According to Artificial Intelligence and National Security, in 2008 Russian defense modernization agenda aims at robotizing 30% of its military equipment by 2025. As per Congressional Research ..."
-    publishedDateTime: 2021-07-07T03:39:00Z
-    webUrl: "https://www.reseller.co.nz/mediareleases/143682/military-robots-market-analysis-with-key-players/"
-    type: article
-    provider:
-      name: Reseller News
-      domain: reseller.co.nz
-    quality: 8
 
 secured: "TLXsgEXK0HjMZjegTvXDNHcaR/QRP5Ys4IwEu3YM60nWktigZwSTiVhOlHIGgGQAaLnjPTi+LRwb3nbJsclOi8q58TlexBEqqguy62Xls7dlNI01FMIjVBXmzVTJ5u/gfq+bHchdUFxsIyF1W/+xMBiX3xQ8ovgnD1+vC+5dLwN+aTT7WDedYf14Nyns0aK3e9zB1VpL8neHn69zeMZPdgQl4JicrUKC+Vc8Qv5ZcHji4HbJ911XutZDW2UlM46n0TEwUk9pfQDRgkgAHOqwTL8cXJg2saepooZ1S9qNBSFcIGz54/9Ye+46/gqEIcjHw17m10/82eAYwwkaPusPgtTjHAtKAyT4iDfmQR/VFas=;aNsRr3K+MVgpJ9HHZNNQ6Q=="
 ---

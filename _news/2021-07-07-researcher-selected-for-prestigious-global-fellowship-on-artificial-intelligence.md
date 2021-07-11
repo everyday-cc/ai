@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://eurekalert.org/multimedia/pub/web/270053_web.jpg"
@@ -23,6 +24,6 @@ images:
     height: 1080
     isCached: true
 
-secured: "q21kmlkMtmlILwiscuX465HxWA8ux6Q4/q9zpMMwImvbyG4ERgJIugMztZ6zUfyDf1G2yGvMVUCl4KRVuQCme0ktVgvCe+0DgI0LI5WC87F4wOrW13exFmCZ9Vg5cjytf+JmLNS43+PM4z2lIwbX4Ku/VZ7rcmKWfnS8aTVGmwbQaLlExBwNRdO+Fl0UNxHJ1P8kgo2yt1Sla/yADd56qPr06PiRq8sadnL79af187qg/q7d4RAiK9QOW3p9HOjmpK2sYwll0i8rhef1/2vgkAnQNUTtFbgLGPvML8jBJT2iBW2jVrsz48YeKC70rYxbNStmhd0ICK1uFpnCBgMsNoajJYGLFybgIbKBiAV4aUg=;Ur459k81fm+Wzb6XZY8oHg=="
+secured: "InxBp68cRU/ZlchpBqjKwvQtQLEMEPoFph3bSa/uSjMIWKWMpkLRsclwYmGITyW9nJqQ0F13BGb93oTQrPqnol9iQQ0/F1MuPwbOcvSle2NMX96TDQnhKUqi/xVWoLgDB8hMFVjQEwtpLZfcn2Mt0bK6FmZFCa9fgGldPVBV7UjJLa6DohBP94Z2d8MvGCEoQ21OC4GmU/nj8/5dbcZST3RPM8kqyoUV/I/k2wuqP+vZWN3z5ExixmD5PZQk51JKiu28DMt9cxymL7iGGAdQKlyXuHeqbFuS6x2OSzhG3I7tcXbm2eVadEXK/LloCMUZ14X3nhtBlEl4CRW8rHhKoVwvr1+ZeMjTXB4KRbAwp85+Fv011vgh39AdOa+Z1OVDshos0XVzqSRBGFkklcuv6mLITrKRQAPPB7F26tgcU340b+TZo+fdKUd95dpwY/ZmXidqgueAOrPejs7iBfWkQw/hPAk3geKVDvBGaTAJQ8/0nnpoWWbKVvU56dJTAGOKV02u4lI9+QDzkul0UZM9wA==;iyfaz6urmZH/VzQul5U9bw=="
 ---
 

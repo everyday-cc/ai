@@ -3,8 +3,8 @@ category: news
 title: "Global Artificial Intelligence in Healthcare: Deals and Agreements by Leading Players From 2010-2021 - ResearchAndMarkets.com"
 excerpt: "Partnering Terms and Agreements 2010 to 2021” report has been added to ResearchAndMarkets.com’s offering. The Global Artificial Intelligence (AI) Partnering Terms and Agreements 2010 to 2021 report provides an understanding and access to the artificial intelligence partnering deals and agreements entered into by the world’s leading healthcare companies."
 publishedDateTime: 2021-06-28T16:53:00Z
-originalUrl: "https://apnews.com/press-release/BusinessWire/artificial-intelligence-business-technology-c8cf1d7a3c1e49999f2dbe3d728e684e"
-webUrl: "https://apnews.com/press-release/BusinessWire/artificial-intelligence-business-technology-c8cf1d7a3c1e49999f2dbe3d728e684e"
+originalUrl: "https://apnews.com/press-release/business-wire/artificial-intelligence-business-technology-c8cf1d7a3c1e49999f2dbe3d728e684e"
+webUrl: "https://apnews.com/press-release/business-wire/artificial-intelligence-business-technology-c8cf1d7a3c1e49999f2dbe3d728e684e"
 type: article
 
 provider:
@@ -21,6 +21,6 @@ images:
     height: 450
     isCached: true
 
-secured: "NjPFEeyv8Aa2d3HKawl+eZTEdNoQrYfb2JUjwkz/VLPBwAJ5lO6Jof0VlAolHkWjbooyJQxG9eDUP954P3aCJa/KegXmJGOmnH9mGNbjdtBYic9JlpSbMFqaTh8FLuOOtzLpDXw8oVC5HBW8KrYh830WSc8QoGIMZuX+mPphmbXOt1bAGDT4TZhSEfkLC3lpNZUOGBX2bKYAXHMdO7od/ySn+ZhFqCRBgVtX+AO3r7/R70E8Iq+xMDMtzsv2oKXbbe2hK5FARw51T5ch7XvNMawfhNefrf4vW+Kbsrg14gCYH+S4RRTv/gMyqL3T0mZDnnkM2mdpvjYWGgkFQzgw70TpWCohsj/AibaeXkLM/TI=;MzuImd9b9dE0p6ZSj3TeOQ=="
+secured: "4RAAoXN4XiocsO5QlNEcBGjM6OyxaOQ+0cLOMAG9MLqK+lu+9u13ey9ijRDjAmbhKh/zP4KiyfTMeWn67kf4UpyzJZX8CGrFTqs/AGoS3PZauHJuYp05YzMmIQpP10xVOOfTNpbFMeIb6ZtD8qoojKG48BEMXEtWyNRtpXUG6sOhsRSUYjozx5Q9k5wycp3vq9s1A1RxQzmBGc+7cI+6C07dctqZm7DKXuwfbBE1/prW11QwGPxvFZ8MlGKW+K04G47vskeBgTqF85H590qk7Id0E0ajCam4Kl8pNGPaB22OF75LvGhpInGzChtk7X8p/5svYtczeBVwlfGMQVAeBz6jf2yhdYmWEY4Xkg4P1jM=;8oOzLh9AcT4Ufmq5UamiUg=="
 ---
 
