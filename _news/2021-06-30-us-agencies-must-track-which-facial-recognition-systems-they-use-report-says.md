@@ -1,10 +1,10 @@
 ---
 category: news
 title: "US agencies must track which facial recognition systems they use, report says"
-excerpt: "Several federal agencies don't know which systems their employees use, according to the Government Accountability Office."
-publishedDateTime: 2021-06-30T14:30:00Z
-originalUrl: "https://www.cnet.com/tech/services-and-software/us-agencies-must-track-which-facial-recognition-systems-they-use-report-says/"
-webUrl: "https://www.cnet.com/tech/services-and-software/us-agencies-must-track-which-facial-recognition-systems-they-use-report-says/"
+excerpt: "A few have their own databases, but the majority use non-federal systems like Clearview AI, Vigilant Solutions or Amazon's Rekognition. The Government Accountability Office surveyed 42 agencies ..."
+publishedDateTime: 2021-06-30T14:43:00Z
+originalUrl: "https://www.cnet.com/news/us-agencies-must-track-which-facial-recognition-systems-they-use-report-says/"
+webUrl: "https://www.cnet.com/news/us-agencies-must-track-which-facial-recognition-systems-they-use-report-says/"
 ampWebUrl: "https://www.cnet.com/google-amp/news/us-agencies-must-track-which-facial-recognition-systems-they-use-report-says/"
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/us-agencies-must-track-which-facial-recognition-systems-they-use-report-says/"
 type: article
@@ -28,6 +28,6 @@ images:
     height: 630
     isCached: true
 
-secured: "MGdF5dDr6hNEAp3p9aJof+sYnYpKYtxdR8VyiKnSuE88hb+aoGMPZSNAKhy/fzNtCcJ07/BBNtWQA0Py8EWUM0rUL3LtWgvCOCNRJEH10GdXTnWzwHW3vD78lKaTJHKgTWFxATIz7nIKGD41PKIXIUsyr7J3/6iZrQ9ixubcuzjLzkfTSmJzeQMcm7Je0XLgeshQjBb1kJGvbDwDAJUCxVQ0QMC0MyACitSgUB7duwcH/1zFuvxHZklNY6BU2C1pylvR+ioh6J7rxTXzrdmm1076YGpVRfJDB0OHB1KYtTxFS+NtHcG1wjbjbU10LyzM/YodrAWNZhyb5FRPJ5ernwJHmbweMGYZLHqt9LOMxZo=;P1yYwNz+5hBnRZa2og4t5g=="
+secured: "yUbSog+gSnJzGVR585tM/oNdSNXea8oVbomU87XQaOn6Ddq0XCW510Xy+vXp/V4IIHZBeF/3SN2e/+/8wVfzH7u9MAWMQ4mtE2jfkipzO/vUDO6tk23OIPoD32Q6NUBEL6NrqoNAJZvtn+R0xmN0ejxp2dDtL30vssnenKyc4tptffErKiQBhfoDXG+Wp53UoLUCQ8ApB0DHAOgTvkft77kp36QbmfY/XUbhtjSMNpspyNw3SaFbYf6pEQK/3Ya65yRSlNPIbipEzxyCkyZuP8lEIj5lckkbeKuqh+XMIc1kZ9p3Nlywb6i0jj8pWH0fz+lueROjR5uFn8pmgfqF+ja7YZxfy2OBkiKOsPZ3p2o=;30dto2eXERSIomtoP8P0ow=="
 ---
 

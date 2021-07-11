@@ -38,20 +38,6 @@ related:
         width: 880
         height: 440
         isCached: true
-  - title: "Fintech Acquires Cloud-Based Business Intelligence Provider STX Business Solutions"
-    excerpt: "Financial Information Technologies, LLC (\"Fintech\"), the leading business solutions provider for the beverage alcohol industry, today announced its acquisition of STX Business Solutions, a powerful web-based data management platform for the CPG"
-    publishedDateTime: 2021-07-06T18:41:00Z
-    webUrl: "https://www.lelezard.com/en/news-19889249.html"
-    type: article
-    provider:
-      name: Le Lézard
-      domain: lelezard.com
-    quality: 18
-    images:
-      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
-        width: 640
-        height: 480
-        isCached: true
 
 secured: "V72yt5nojSdHHkDAH0W/hY/WuUUpjMPJsgx6zTp82ZvKmzHG/QOlHvMkod0oK7tSWVPK480nlOvtzSijNliwqm6jrgaTHQLYvZOT1pJ6fkfNZo5m0nnTFEzj16e6fzcvzOnGS6PJrJQWmdwWzsla5AbVe+pgwd8zC3eonYnJrbPUk1OLCgG8fQ56QCtzLaUDGiblJduz0dlaSTm+r2j5VZlwDk6YBrhKVuKwzsDBZzfUEih3fqgidTP5vjM9ZxNjtsElv/smKIqjioqMZN3USaSvMlMm0kAzJ3pO3NdRmBFgLxNGO1sC5lqjenw1FhcH6+Rm/8dsEQOXr6MT+A+Aamki9ilDaj67JAGDNnaacs4=;7572SKgD1ZtSJZ/f5CN48g=="
 ---

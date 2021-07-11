@@ -7,7 +7,7 @@ originalUrl: "https://www.infoq.com/news/2021/07/azure-arc-enabled-sql/"
 webUrl: "https://www.infoq.com/news/2021/07/azure-arc-enabled-sql/"
 type: article
 quality: 69
-heat: 139
+heat: 129
 published: true
 
 provider:
@@ -63,20 +63,6 @@ related:
       - url: "https://analyticsindiamag.com/wp-content/uploads/2021/07/maxresdefault.jpg"
         width: 1280
         height: 720
-        isCached: true
-  - title: "Pentagon Shelves JEDI Cloud Contract Won By Microsoft And Appealed By AWS"
-    excerpt: "The U.S. Department of Defense is shelving the controversial JEDI cloud computing contract won by Microsoft and appealed by AWS"
-    publishedDateTime: 2021-07-06T17:57:00Z
-    webUrl: "https://www.crn.com/news/cloud/pentagon-shelves-jedi-cloud-contract-won-by-microsoft-and-appealed-by-aws"
-    type: article
-    provider:
-      name: CRN
-      domain: crn.com
-    quality: 55
-    images:
-      - url: "https://www.crn.com/resources/026b-12b1399b675e-17e3a202e076-1000/104684731.jpeg"
-        width: 400
-        height: 400
         isCached: true
   - title: "Qlik Recognized as a Finalist of 2021 Microsoft Analytics Partner of the Year Award"
     excerpt: "Qlik ® today announced it has been named a finalist of the 2021 Microsoft Analytics Partner of the Year Award. The company was honored among a global field of top Microsoft partners for demonstrating excellence in innovation and implementation of customer solutions based on Microsoft technology."

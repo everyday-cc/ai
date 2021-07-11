@@ -9,7 +9,7 @@ ampWebUrl: "https://blog.google/outreach-initiatives/google-news-initiative/laun
 cdnAmpWebUrl: "https://blog-google.cdn.ampproject.org/c/s/blog.google/outreach-initiatives/google-news-initiative/launching-ai-academy-small-newsrooms/amp/"
 type: article
 quality: 109
-heat: 129
+heat: 119
 published: true
 
 provider:
@@ -44,20 +44,6 @@ related:
       - url: "https://www.power-technology.com/wp-content/uploads/sites/7/2021/07/Source-Franki-Chamaki-on-Unsplash-scaled.jpg"
         width: 2560
         height: 1920
-        isCached: true
-  - title: "Why Creating Value is a skill needed for the future with AI and Technology"
-    excerpt: "Mckinsey in an article “Defining the skills citizens will need in the future world of work” has said, and I quote: add value beyond what can be done by automated systems and intelligent machines operate in a digital environment continually adapt to new ways of working and new occupations While I agree these are necessary,"
-    publishedDateTime: 2021-07-06T18:10:00Z
-    webUrl: "https://customerthink.com/why-creating-value-is-a-skill-needed-for-the-future-with-ai-and-technology/"
-    type: article
-    provider:
-      name: CustomerThink
-      domain: customerthink.com
-    quality: 35
-    images:
-      - url: "https://customerthink.com/wp-content/uploads/pixabay_technology-2025795_1280-robot-human.jpg"
-        width: 1280
-        height: 851
         isCached: true
 
 secured: "9ixvRN7LrRLbdqCl0G+UDW1ucHUxq02ziKZ5z9MYE2bCgDbhrROkLsoT0Pim3q68YEZbetkFXQcd7u9+22bUXLCGnheUuOcjr8D0rX9FEmL+ByDhWNdoa5tZUAfxmlTkXfJisnD7tLg40aguqS1iMiCOw7bFAxkAdCESEEO3tcczf3esmADZInXgsV8fYi7LZR6Y/3rJWX1d6XZ9HCj1L6//bEEZuDCK7ujO1I3V5undf3C0W9SXSTWVhnD5oZidsZ7sC+0GgrvjLkDo4cYGgigVtT3RDIulWPI70oCQOfTGghd3ss2VBfEpGUTCbxqba+eH3RiAuIQibXt+ja1rTfPRSg6d2cXUHogD0JkpY+4=;DW1Z7YZrB3CHXMkVli7RBw=="

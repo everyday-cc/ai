@@ -47,22 +47,6 @@ related:
         width: 1050
         height: 549
         isCached: true
-  - title: "China's Tencent Says It'll Use Face Recognition to Keep Minors From Gaming at Night"
-    excerpt: "This is such desperate news for us high school graduates who are two months away from being 18,” one WeChat user reportedly wrote."
-    publishedDateTime: 2021-07-06T18:05:00Z
-    webUrl: "https://gizmodo.com/chinas-tencent-says-itll-use-face-recognition-to-keep-m-1847236584"
-    ampWebUrl: "https://gizmodo.com/chinas-tencent-says-itll-use-face-recognition-to-keep-m-1847236584/amp"
-    cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/chinas-tencent-says-itll-use-face-recognition-to-keep-m-1847236584/amp"
-    type: article
-    provider:
-      name: Gizmodo
-      domain: gizmodo.com
-    quality: 85
-    images:
-      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/36183011932591e6d43fe47afd1ed337.jpg"
-        width: 800
-        height: 450
-        isCached: true
   - title: "To Catch Teenage Gamers After Curfew, Chinese Company Deploys Facial Recognition"
     excerpt: "Tencent Games says it has been using facial recognition to enforce China’s rules on how much time people under 18 can spend playing video games."
     publishedDateTime: 2021-07-08T12:15:00Z

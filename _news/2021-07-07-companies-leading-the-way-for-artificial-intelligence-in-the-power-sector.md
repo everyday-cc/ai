@@ -40,20 +40,6 @@ related:
         width: 1000
         height: 1000
         isCached: true
-  - title: "Why Creating Value is a skill needed for the future with AI and Technology"
-    excerpt: "Mckinsey in an article “Defining the skills citizens will need in the future world of work” has said, and I quote: add value beyond what can be done by automated systems and intelligent machines operate in a digital environment continually adapt to new ways of working and new occupations While I agree these are necessary,"
-    publishedDateTime: 2021-07-06T18:10:00Z
-    webUrl: "https://customerthink.com/why-creating-value-is-a-skill-needed-for-the-future-with-ai-and-technology/"
-    type: article
-    provider:
-      name: CustomerThink
-      domain: customerthink.com
-    quality: 35
-    images:
-      - url: "https://customerthink.com/wp-content/uploads/pixabay_technology-2025795_1280-robot-human.jpg"
-        width: 1280
-        height: 851
-        isCached: true
 
 secured: "iumQLGSLKz9dMTuN9P12E1v8NDi0QDaCc/FGyQBpSyLEjN19j6o8lCp6StCj6aqEClRBJ48UvcS4zfpGJdF/x2ygXdlLph98XxQ1jTUWBBPV5DTQGzlN+38C0wO6B9TUuPkjrVlpesB+ov2Xw5yOGvqf7E/hPKKxTlAqOix6RCrh7hF6iOUzhPlpB4t2o0gwXNIHn2MIWz6nEIbdkiy4ByhCajykdV4ZbGW+9EcknrSzJyqMVkrAOIDOXYdCiFDio0zb5uDbhVGjRgdvuLb2R11OD61uEIwpaOFC31Kb1M95k1zaBPYy1kgsyG2SuEjdipMWSyhgTFG+fULD6RHB3CSMbmEaDdBoD5SzKJLsaNKruVHsi9Prabw/Q2s0WFO7xUta2AqE+67t/vsmmKQj0ByduTeWVyCWzl5Onc17z3I2CbvR16y2yB7qj+V7snWNeTKIV0ibEfj8Y9qVLR+cm4I02F3pt4Ebbq09C3b54pBlFeyCrxXzCiE80OCZ6GOqjGjb2KGDNej7f48AqD5OaQ==;jyUTiCj4GPG392QaoRIzzQ=="
 ---

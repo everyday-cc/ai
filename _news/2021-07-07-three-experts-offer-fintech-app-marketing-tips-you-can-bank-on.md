@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/peggyannesalz/2021/07/07/three-experts-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/peggyannesalz/2021/07/07/three-experts-offer-fintech-app-marketing-tips-you-can-bank-on/amp/"
 type: article
 quality: 106
-heat: 206
+heat: 216
 published: true
 
 provider:
@@ -76,6 +76,15 @@ related:
         width: 3200
         height: 1800
         isCached: true
+  - title: "If You Only Buy 1 Fintech Stock, Make It One of These 5"
+    excerpt: "Recent innovations by biotech and fintech stocks, for example, show how pandemic-era needs are shaping the market. Source: Shutterstock In 2021, fintech companies are harnessing advanced technologies to provide faster and more reliable financial service solutions for institutions and everyday users."
+    publishedDateTime: 2021-07-09T17:53:00Z
+    webUrl: "https://www.nasdaq.com/articles/if-you-only-buy-1-fintech-stock-make-it-one-of-these-5-2021-07-09"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 34
   - title: "Meet Hydrogen, the latest sibling-led API fintech"
     excerpt: "Hydrogen is the brainchild of twin brothers Matt and Mike Kane. The New York natives' API-driven solution is one of the latest sibling-founded fintechs"
     publishedDateTime: 2021-07-07T13:23:00Z

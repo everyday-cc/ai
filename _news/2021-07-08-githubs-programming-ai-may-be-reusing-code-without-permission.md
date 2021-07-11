@@ -42,22 +42,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "What OpenAI and GitHub’s ‘AI pair programmer’ means for the software industry"
-    excerpt: "GitHub's Copilot, AI-powered programming built on top of GPT-3, hints at the business of large language models."
-    publishedDateTime: 2021-07-06T18:35:00Z
-    webUrl: "https://venturebeat.com/2021/07/06/what-openai-and-githubs-ai-pair-programmer-means-for-the-software-industry/"
-    ampWebUrl: "https://venturebeat.com/2021/07/06/what-openai-and-githubs-ai-pair-programmer-means-for-the-software-industry/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/06/what-openai-and-githubs-ai-pair-programmer-means-for-the-software-industry/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 86
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2017/06/software-e1625591248191.jpg?w=1200&strip=all"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Will AI coding assistants like GitHub’s Copilot transform developers’ jobs?"
     excerpt: "AI pair programmers will certainly speed things up — but you still need to have chops to devise solutions and deliver high-quality code."
     publishedDateTime: 2021-07-07T11:40:00Z

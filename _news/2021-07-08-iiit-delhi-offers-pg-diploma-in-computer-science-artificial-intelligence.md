@@ -9,8 +9,8 @@ ampWebUrl: "https://www.news18.com/amp/news/education-career/iiit-delhi-offers-p
 cdnAmpWebUrl: "https://www-news18-com.cdn.ampproject.org/c/s/www.news18.com/amp/news/education-career/iiit-delhi-offers-pg-diploma-in-computer-science-artificial-intelligence-3940049.html"
 type: article
 quality: 56
-heat: 66
-published: false
+heat: 76
+published: true
 
 provider:
   name: CNN-News18
@@ -37,6 +37,20 @@ related:
     quality: 37
     images:
       - url: "https://cache.careers360.mobi/media/article_images/2021/7/7/online-class.jpg"
+        width: 860
+        height: 430
+        isCached: true
+  - title: "IIT Delhi Launches Universal Justice Foundation Lab Facility On AI For Judiciary"
+    excerpt: "The Indian Institute of Technology Delhi (IIT Delhi) has introduced Universal Justice Foundation (UFJ) lab facility on Artificial Intelligence for Judiciary. Justice S Ravindra Bhat of the Supreme Court inaugurated the UFJ lab at the institute."
+    publishedDateTime: 2021-07-11T11:35:00Z
+    webUrl: "https://www.ndtv.com/education/iit-delhi-launches-universal-justice-foundation-lab-facility-on-ai-for-judiciary"
+    type: article
+    provider:
+      name: NDTV
+      domain: ndtv.com
+    quality: 32
+    images:
+      - url: "https://cache.careers360.mobi/media/article_images/2021/7/10/iit_2.jpg"
         width: 860
         height: 430
         isCached: true

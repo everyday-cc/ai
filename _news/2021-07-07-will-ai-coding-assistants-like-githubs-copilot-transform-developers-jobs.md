@@ -45,22 +45,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "What OpenAI and GitHub’s ‘AI pair programmer’ means for the software industry"
-    excerpt: "GitHub's Copilot, AI-powered programming built on top of GPT-3, hints at the business of large language models."
-    publishedDateTime: 2021-07-06T18:35:00Z
-    webUrl: "https://venturebeat.com/2021/07/06/what-openai-and-githubs-ai-pair-programmer-means-for-the-software-industry/"
-    ampWebUrl: "https://venturebeat.com/2021/07/06/what-openai-and-githubs-ai-pair-programmer-means-for-the-software-industry/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/06/what-openai-and-githubs-ai-pair-programmer-means-for-the-software-industry/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 86
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2017/06/software-e1625591248191.jpg?w=1200&strip=all"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "GitHub's programming AI may be reusing code without permission"
     excerpt: "A Microsoft-owned tool powered by artificial intelligence is designed to make life easier for programmers, but some developers say it may be repurposing some of the billions of lines of code it was tr"
     publishedDateTime: 2021-07-08T13:55:00Z

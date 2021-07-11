@@ -47,20 +47,6 @@ related:
         width: 800
         height: 400
         isCached: true
-  - title: "Call Center AI Market SWOT Analysis, Business Growth Opportunities by Top Companies, Future Challenges, Competitive Strategies and Forecast to 2027"
-    excerpt: "The report on the Call Center AI market provides a bird’s eye view of the current proceeding within the Call Center AI market. Further, the report also takes into account the impact of the novel Covid-19 pandemic on the Call Center AI market and offers a clear assessment of the projected market fluctuations during the forecast period."
-    publishedDateTime: 2021-07-06T17:25:00Z
-    webUrl: "https://manometcurrent.com/call-center-ai-market-swot-analysis-business-growth-opportunities-by-top-companies-future-challenges-competitive-strategies-and-forecast-to-2027/"
-    type: article
-    provider:
-      name: manometcurrent.com
-      domain: manometcurrent.com
-    quality: 0
-    images:
-      - url: "https://i.ibb.co/cwMkvB9/Researchmoz-us-391.jpg"
-        width: 626
-        height: 439
-        isCached: true
 
 secured: "6STeIg2zttv7RzW6NfZuBSHIpbBPgQc9v/X+l6gDev5mGcwruf5/Y5+Pom5RxvPzcXAwIWcXo7Gnl47Q9UD7z7qZ67fEGknFRe/V+6bumwewsIDI2O+j7gwdDDXMkra/tI/IZTSM3ljG/yHxBwoSIuPkkIRddKjqyhIf/IgzlByb1OTykgtRDCJUF3uj4eNqI/NvPb6fr9xA95DxsW7jccuHj/XJbMkZjYIkERVZFnQbWXHUbWjZ/+Fj7X27QnzWjiO50qiX8B3UpueIPrfJXLPhn/ZSR9kgOnao76SI1P3JjIB/AGCXX9gzn3RnCZpoxQtqoF6X5iJH6yU4P4KOBE4JIUOCqdbSy1dUJAaw27k=;5Ou/9VBbh409eCru8L/oLg=="
 ---

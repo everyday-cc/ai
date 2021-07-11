@@ -85,6 +85,15 @@ related:
         width: 3200
         height: 1800
         isCached: true
+  - title: "If You Only Buy 1 Fintech Stock, Make It One of These 5"
+    excerpt: "Recent innovations by biotech and fintech stocks, for example, show how pandemic-era needs are shaping the market. Source: Shutterstock In 2021, fintech companies are harnessing advanced technologies to provide faster and more reliable financial service solutions for institutions and everyday users."
+    publishedDateTime: 2021-07-09T17:53:00Z
+    webUrl: "https://www.nasdaq.com/articles/if-you-only-buy-1-fintech-stock-make-it-one-of-these-5-2021-07-09"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 34
   - title: "Here Are the Winners of the Swiss Fintech Awards 2021"
     excerpt: "The Swiss Fintech Awards 2021 named FQX and Yokoy best fintech startups of the year. Cornelia Stengel named 'Fintech Influencer of the Year.'"
     publishedDateTime: 2021-07-08T06:02:00Z
