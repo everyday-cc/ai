@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "cisco"
   url: "https://twitter.com/cisco"
-  followers: 712918
+  followers: 712922
 
 size: 10,001+ employees
 yearFounded: 1984
