@@ -35,6 +35,20 @@ related:
         width: 400
         height: 300
         isCached: true
+  - title: "Artificial intelligence (AI) in Supply Chain and Logistics Market Will Generate Massive Revenue in Coming Years"
+    excerpt: "Jul 10, 2021 (Heraldkeepers) -- The latest independent research document on Global Artificial intelligence (AI) in Supply Chain and Logistics examine investment in Market. It describes how companies deploying these technologies across various industry ..."
+    publishedDateTime: 2021-07-11T01:14:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-supply-chain-and-logistics-market-will-generate-massive-revenue-in-coming-years-2021-07-10"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 64
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence (AI) in BFSI Market Shaping A New Growth Cycle"
     excerpt: "HTF MI Published Latest Global  Study by in-depth analysis about current scenario, the Market size, demand, growth pattern, trends, and forecast. Revenue for  has grown substantially over the six years to 2020 as a result of strengthening macroeconomic conditions and healthier demand,"
     publishedDateTime: 2021-07-10T17:50:00Z

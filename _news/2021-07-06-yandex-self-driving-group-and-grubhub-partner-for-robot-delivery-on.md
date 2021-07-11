@@ -56,15 +56,6 @@ related:
         width: 1024
         height: 768
         isCached: true
-  - title: "Yandex Self-Driving Group and Grubhub Partner for Robot Delivery on US College Campuses"
-    excerpt: "Yandex autonomous delivery robots will expand Grubhub's delivery capabilities, including in campus areas only accessible by foot MOSCOW and AMSTERDAM, NETHERLANDS / ACCESSWIRE / July 6, 2021 / Yandex Self-Driving Group (NASDAQ:YNDX) (MOEX:YNDX),"
-    publishedDateTime: 2021-07-06T10:45:00Z
-    webUrl: "https://www.morningstar.com/news/accesswire/654395msn/yandex-self-driving-group-and-grubhub-partner-for-robot-delivery-on-us-college-campuses"
-    type: article
-    provider:
-      name: Morningstar, Inc.
-      domain: morningstar.com
-    quality: 13
   - title: "EQS-News: Yandex Self-Driving Group and Grubhub Partner for Robot Delivery on US College Campuses"
     excerpt: "Grubhub, the leading online and mobile food-ordering and delivery platform on college campuses. The partnership between Grubhub and Yandex SDG will create faster and more cost-effective deliveries on college campuses in the United States."
     publishedDateTime: 2021-07-06T16:30:00Z

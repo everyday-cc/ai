@@ -44,17 +44,6 @@ related:
         width: 1000
         height: 1000
         isCached: true
-  - title: "4 Stocks to Make the Most of Surging Demand for AI"
-    excerpt: "Notably, one of the major areas where AI is being used considerably is e-commerce. With the help of AI, companies are offering personalized recommendations to their customers on their e-commerce websites or mobile apps,"
-    publishedDateTime: 2021-07-06T09:49:00Z
-    webUrl: "https://www.nasdaq.com/articles/4-stocks-to-make-the-most-of-surging-demand-for-ai-2021-07-06"
-    ampWebUrl: "https://www.nasdaq.com/articles/4-stocks-to-make-the-most-of-surging-demand-for-ai-2021-07-06?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/4-stocks-to-make-the-most-of-surging-demand-for-ai-2021-07-06?amp"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 69
   - title: "The ethics of artificial intelligence"
     excerpt: "While AI technologies have extraordinary potential for social and economic development, artificial intelligence presents complex and unique challenges to policymakers. AI raises significant concerns over bias,"
     publishedDateTime: 2021-07-06T15:29:00Z

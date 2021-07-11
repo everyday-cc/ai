@@ -56,20 +56,6 @@ related:
         width: 1280
         height: 719
         isCached: true
-  - title: "Artificial intelligence brings forth new possibilities for material hauls and quantification"
-    excerpt: "Paper tickets have been a legacy method of tracking the quantity, type, and timestamps of material moved by dump trucks. In recent years, e-ticketing has emerged to deliver time and cost savings in materials transport to combat headaches associated with paper ticket processing."
-    publishedDateTime: 2021-07-06T09:12:00Z
-    webUrl: "https://www.constructiondive.com/spons/artificial-intelligence-brings-forth-new-possibilities-for-material-hauls-a/602519/"
-    type: article
-    provider:
-      name: Construction Dive
-      domain: constructiondive.com
-    quality: 26
-    images:
-      - url: "https://www.constructiondive.com/user_media/cache/c2/60/c260eed9af35813d940506fd633d36bb.jpg"
-        width: 770
-        height: 364
-        isCached: true
 
 secured: "DZMUnMatoDzlAdwZ3G6UKmY3JWYZLBq96P7DbriVjJG0C4SPcpl44T1xlYbhJ72xL+ul7jS9Pxv7ENGkMR6zbZLtY9Hr+gmaRRruP+LjlDWRn4YuIMoF6lez9UT2grSL13HEcoJB1lN8TUoRAyf1eKyVICK04vZNJV+Snc5EQiJp03+TgiAbmHZdJIL6hguUta3c5nbZKJwC4mTbsaPxj8dv9RMXt8uLKo4bBDWnJP9J/4s1YBF8hNcUA/0shjcsSKR3bQGIZCPTL74PSoPfqQwGv4tE3t3IvaqHhI+XtdCrDUVJ2uIZXf7MUDz0kVU7uQBsDSWezR8UlcyOuWbvW/UILo2XcgfJ8V0xHNgAqQk=;1GXhQ/MRbA+wsI8ekDPkFQ=="
 ---

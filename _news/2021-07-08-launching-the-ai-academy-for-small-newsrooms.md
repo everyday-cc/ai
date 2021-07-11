@@ -9,7 +9,7 @@ ampWebUrl: "https://blog.google/outreach-initiatives/google-news-initiative/laun
 cdnAmpWebUrl: "https://blog-google.cdn.ampproject.org/c/s/blog.google/outreach-initiatives/google-news-initiative/launching-ai-academy-small-newsrooms/amp/"
 type: article
 quality: 109
-heat: 159
+heat: 149
 published: true
 
 provider:
@@ -31,17 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "4 Stocks to Make the Most of Surging Demand for AI"
-    excerpt: "Notably, one of the major areas where AI is being used considerably is e-commerce. With the help of AI, companies are offering personalized recommendations to their customers on their e-commerce websites or mobile apps,"
-    publishedDateTime: 2021-07-06T09:49:00Z
-    webUrl: "https://www.nasdaq.com/articles/4-stocks-to-make-the-most-of-surging-demand-for-ai-2021-07-06"
-    ampWebUrl: "https://www.nasdaq.com/articles/4-stocks-to-make-the-most-of-surging-demand-for-ai-2021-07-06?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/4-stocks-to-make-the-most-of-surging-demand-for-ai-2021-07-06?amp"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 69
   - title: "Preparing The Office For The AI Revolution"
     excerpt: "The challenge when talking about AI is that people tend to think of a takeover of the world where AI causes people’s roles and responsibilities to be made redundant and obsolete. However, it’s the cross-over of AI and how people behave in real life that will drive the most transformational benefits to businesses."
     publishedDateTime: 2021-07-06T11:40:00Z

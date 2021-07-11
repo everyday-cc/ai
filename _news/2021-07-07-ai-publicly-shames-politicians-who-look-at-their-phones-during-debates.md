@@ -26,19 +26,19 @@ images:
     isCached: true
 
 related:
-  - title: "This AI publicly shames politicians, but don’t laugh just yet"
-    excerpt: "An AI project that publicly shames politicians using phones during government meetings provides a warning to us all about surveillance creep."
-    publishedDateTime: 2021-07-06T10:43:00Z
-    webUrl: "https://thenextweb.com/news/ai-automatically-publicly-shames-distracted-belgian-politicians-the-flemish-scrollers-surveillance-creep"
+  - title: "AI Tracks Lawmakers Using Their Phones on the Job so We Can Properly Mock Them"
+    excerpt: "Politicians are hereby busted for using their cell phones during sessions, thanks to software written by Belgium artist Dries Depoorter. His artificial intelligence program “The Flemish Scrollers” reviews YouTube live streams of Flemish government meetings and identifies who’s on their phone along with their face and Twitter handle."
+    publishedDateTime: 2021-07-06T16:05:00Z
+    webUrl: "https://gizmodo.com/ai-tracks-lawmakers-using-their-phones-on-the-job-so-we-1847235130"
     type: article
     provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 67
+      name: Gizmodo
+      domain: gizmodo.com
+    quality: 65
     images:
-      - url: "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F07%2FUntitled-design.jpg&signature=ef95836659ba1aaf0ab2508cbf1fb541"
-        width: 1280
-        height: 640
+      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/6a319083ea92977e2cb22298a763bc13.jpg"
+        width: 1200
+        height: 675
         isCached: true
 
 secured: "/uYHlOKZ9AfSDY6lne9OAoc/TY3LS4TZzwU6zGEuicSP0EPnjcJjrXED4P6zRYEULBjWf+rKM4yOignT+gyqjfDyteZ2QluVDGHf70aFZCOpaoSW/dSel4jdff+aPiHRFKK7OB50CpEDkVp7aE6FvZ2yNsioj5j2eQUkKU1cpk1PAb8i9ZKYOkYOW7U+Oqhe4RaTbjhGJl3iv9DbbKsAjcAT205u9Yip+FpQIWWYr92EqSaagrA0SJRmRxWrmO19lU8Kh11dBgRy+M9r9IR+TaeELs+s7bkIZn3jeSZ9dmP3KIPl/9jCapWkn7xapvSXZaJqUbfzw3SnZ4V+v5j/WwZ4NJjThIQSCWCOgw0ErGE=;t5wWh1xzA/+c/rNOpDmrVg=="

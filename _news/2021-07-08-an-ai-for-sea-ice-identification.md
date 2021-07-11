@@ -9,7 +9,7 @@ ampWebUrl: "https://techxplore.com/news/2021-07-ai-sea-ice-identification.amp"
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-07-ai-sea-ice-identification.amp"
 type: article
 quality: 57
-heat: 87
+heat: 77
 published: true
 
 provider:
@@ -55,20 +55,6 @@ related:
       - url: "https://guardian.ng/wp-content/uploads/2019/09/Artificial-Intelligence-is-revolutionizing-the-Healthcare-Industry.jpg"
         width: 1280
         height: 719
-        isCached: true
-  - title: "Artificial intelligence brings forth new possibilities for material hauls and quantification"
-    excerpt: "Paper tickets have been a legacy method of tracking the quantity, type, and timestamps of material moved by dump trucks. In recent years, e-ticketing has emerged to deliver time and cost savings in materials transport to combat headaches associated with paper ticket processing."
-    publishedDateTime: 2021-07-06T09:12:00Z
-    webUrl: "https://www.constructiondive.com/spons/artificial-intelligence-brings-forth-new-possibilities-for-material-hauls-a/602519/"
-    type: article
-    provider:
-      name: Construction Dive
-      domain: constructiondive.com
-    quality: 26
-    images:
-      - url: "https://www.constructiondive.com/user_media/cache/c2/60/c260eed9af35813d940506fd633d36bb.jpg"
-        width: 770
-        height: 364
         isCached: true
 
 secured: "UMKIQesV1kXlfN6esCSMe8EbUGTKwNkxQAMfHxHDWi7KePLGNbXmd8dTb9BEMzJJCtINJ7quqFnI2xXgkityDkKd+a+dqLBF2h9KAAh5wo8Sp1iuEZ+Xl6D/xlw+u/Q7gCRGn8pWRCVxHgyzfJ22BbxRy09qhq+wqScriyZ/NlKbHNBYxeOFK6EuJOlnNKJUIp9gi02abNMTVzFk5HAHeFuIiYGR1sG4jnMKveZs9zaIQppFAYPv6Llo+z3xLULFvJbsfTnenGyqMKAe7jMGC2oZwAgOV9JSULG+1PKJqsoZTJqesRNjmfj9rJzyHkaXBeF643XC9ckEqSNvuTy7jJbX2F2yeU9lpMg09a6rTloEFDaabLID04NZZGBfioGW4CIXPP8v5zm607F9etME8H8EUqg1aIKO3zEQPkdHsa5xfjzwPZferQ5wB8/S0eCGgqTh/PyjR9mzsz0SgRhpWNzBhcKMFyhHgPCnFRyVYcGOt8dCXhZTdBs4+7tSlbmNFrZTI8QLKYCOnOEL0j6byg==;fjnqDvfNJ93GXJM7rx+wKQ=="

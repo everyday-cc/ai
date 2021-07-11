@@ -24,6 +24,33 @@ images:
     height: 450
     isCached: true
 
+related:
+  - title: "Global Mobile Robots Market (2021 to 2026) - Featuring Softbank Robotics, SMP Robotics and Aethon Among Others - ResearchAndMarkets.com"
+    excerpt: "The \"Mobile Robots Market - Forecasts from 2021 to 2026\" report has been added to ResearchAndMarkets.com's offering. The global mobile robots market is evaluated"
+    publishedDateTime: 2021-07-06T13:08:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/21/07/b21855417/global-mobile-robots-market-2021-to-2026-featuring-softbank-robotics-smp-robotics-and-aethon-among"
+    ampWebUrl: "https://www.benzinga.com/amp/content/21855417"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/21855417"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 22
+  - title: "Worldwide Surgical Robots Industry to 2026 - Featuring Accuray Incorporated, CMR Surgical and Medtronic Among Others - ResearchAndMarkets.com"
+    excerpt: "Global Industry Trends, Share, Size, Growth, Opportunity and Forecast 2021-2026” report has been added to ResearchAndMarkets.com’s offering. The global surgical robots market exhibited strong growth during 2015-2020."
+    publishedDateTime: 2021-07-09T17:06:00Z
+    webUrl: "https://apnews.com/press-release/BusinessWire/technology-health-coronavirus-pandemic-accuray-inc-41b6d405eecb4534b37ea13f0f67a0d2"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 4
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
+
 secured: "rGegGVqNYe3o0ykIZUNHiqud/CPS0MTB+7XIDmnUrHkJQoojxOwtGUX95NADxy2MwY0X+zZiwcmZKj9YBD+yxOq3SBnSymX4tabb/+YPUoWF+vW0buvUTh1fPRVD8CAu5fFxjL1OChhwISlS4Pvci0WK7HsmU4373ORw1eSms34Q4L7C1N3mPYSFhEtjC8WN07mdBsMA+qWeNyIM4MxxH0iPDX/dE61IB15WepUa4yzzGzAKqAIJnK7xnamsjNEtzmfDRaNmnnZmMnfOg5gJYn6/CkdGfSlTkPmb8lCQePglkeJvd7Syq2kaGhFiMcDG41rU6BrsBIF/21k6zAfd0FhWYzdWy/UsjNhb/HPuZJk=;LKrOaiyuPnEl2nx4+xtRew=="
 ---
 

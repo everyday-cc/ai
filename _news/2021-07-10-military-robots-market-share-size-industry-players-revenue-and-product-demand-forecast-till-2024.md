@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/military-robots-market-s
 webUrl: "https://www.marketwatch.com/press-release/military-robots-market-share-size-industry-players-revenue-and-product-demand-forecast-till-2024-2021-07-10"
 type: article
 quality: 55
-heat: 95
+heat: 85
 published: true
 
 provider:
@@ -29,20 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Motion Stimulation Therapy Market Share, Region Wise Analysis of Top Players, Applications And Forecast 2028"
-    excerpt: "The Global Motion Stimulation Therapy market study provides critical information related to the global, regional"
-    publishedDateTime: 2021-07-06T10:47:00Z
-    webUrl: "https://www.marketwatch.com/press-release/motion-stimulation-therapy-market-share-region-wise-analysis-of-top-players-applications-and-forecast-2028-2021-07-06"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 50
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Global Automatic Speech Recognition Market Size, Status and Forecast 2021-2027"
     excerpt: "The global Automatic Speech Recognition market size is projected to reach US$ XX million by 2027, from US$ XX million in 2020, at a CAGR of XX% during 2021-2027. With industry-standard accuracy in analysis and high data integrity, the report makes a ..."
     publishedDateTime: 2021-07-10T09:05:00Z

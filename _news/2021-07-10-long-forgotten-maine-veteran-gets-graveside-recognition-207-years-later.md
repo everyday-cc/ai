@@ -41,22 +41,6 @@ related:
         width: 1500
         height: 860
         isCached: true
-  - title: "Baltimore is the latest U.S. city to target facial recognition technology"
-    excerpt: "The city of Baltimore has banned the use of facial recognition systems by residents, businesses and the city government (except for police). The criminalisation in a major U.S. city of an"
-    publishedDateTime: 2021-07-06T10:26:00Z
-    webUrl: "https://www.sourcesecurity.com/insights/baltimore-city-target-facial-recognition-technology-co-1508-ga-sb.1625556289.html"
-    ampWebUrl: "https://www.sourcesecurity.com/amp/insights/baltimore-city-target-facial-recognition-technology-co-1508-ga-sb.1625556289.html"
-    cdnAmpWebUrl: "https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/insights/baltimore-city-target-facial-recognition-technology-co-1508-ga-sb.1625556289.html"
-    type: article
-    provider:
-      name: SourceSecurity
-      domain: sourcesecurity.com
-    quality: 58
-    images:
-      - url: "https://www.sourcesecurity.com/img/news/612/why-access-control-important-920x533.jpg"
-        width: 612
-        height: 355
-        isCached: true
   - title: "New state laws require more police transparency, limit use of facial recognition technology"
     excerpt: "One of the laws makes Maine the first state in the country to apply strict limits on facial recognition technology."
     publishedDateTime: 2021-07-10T01:14:00Z

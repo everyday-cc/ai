@@ -72,22 +72,6 @@ related:
         width: 750
         height: 500
         isCached: true
-  - title: "Fintech for a Better Future: 5 Trends that Are Improving Financial Service"
-    excerpt: "For many people, financial technology is somewhat incidental. It’s a passing part of daily life: we interact with fintech when we send money online, check our bank balances with our mobile phones, or use an app to buy cryptocurrency."
-    publishedDateTime: 2021-07-06T09:54:00Z
-    webUrl: "https://www.financemagnates.com/cryptocurrency/news/fintech-for-a-better-future-5-trends-that-are-improving-financial-service/"
-    ampWebUrl: "https://www.financemagnates.com/cryptocurrency/news/fintech-for-a-better-future-5-trends-that-are-improving-financial-service/amp/"
-    cdnAmpWebUrl: "https://www-financemagnates-com.cdn.ampproject.org/c/s/www.financemagnates.com/cryptocurrency/news/fintech-for-a-better-future-5-trends-that-are-improving-financial-service/amp/"
-    type: article
-    provider:
-      name: Finance Magnates
-      domain: financemagnates.com
-    quality: 42
-    images:
-      - url: "https://www.financemagnates.com/wp-content/uploads/2020/02/fintech-industry.jpg"
-        width: 880
-        height: 400
-        isCached: true
   - title: "Rise by Barclays: Embedded finance and the future of fintech"
     excerpt: "Mariquit Corcoran, Group CIO at Barclays, contextualises the benefits that embedded finance is bringing to customers and how it could shape fintech overall"
     publishedDateTime: 2021-07-08T07:48:00Z

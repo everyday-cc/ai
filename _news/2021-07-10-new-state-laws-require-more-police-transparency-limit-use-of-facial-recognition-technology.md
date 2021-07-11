@@ -41,22 +41,6 @@ related:
         width: 1500
         height: 860
         isCached: true
-  - title: "Baltimore is the latest U.S. city to target facial recognition technology"
-    excerpt: "The city of Baltimore has banned the use of facial recognition systems by residents, businesses and the city government (except for police). The criminalisation in a major U.S. city of an"
-    publishedDateTime: 2021-07-06T10:26:00Z
-    webUrl: "https://www.sourcesecurity.com/insights/baltimore-city-target-facial-recognition-technology-co-1508-ga-sb.1625556289.html"
-    ampWebUrl: "https://www.sourcesecurity.com/amp/insights/baltimore-city-target-facial-recognition-technology-co-1508-ga-sb.1625556289.html"
-    cdnAmpWebUrl: "https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/insights/baltimore-city-target-facial-recognition-technology-co-1508-ga-sb.1625556289.html"
-    type: article
-    provider:
-      name: SourceSecurity
-      domain: sourcesecurity.com
-    quality: 58
-    images:
-      - url: "https://www.sourcesecurity.com/img/news/612/why-access-control-important-920x533.jpg"
-        width: 612
-        height: 355
-        isCached: true
   - title: "Long-forgotten Maine veteran gets graveside recognition 207 years later"
     excerpt: "His marble stone, worn by nearly 200 Maine winters, is now almost unreadable in Portland’s Eastern Cemetery. Over the years, Briggs, and his service to his young country, were forgotten. Now, 207 years after his heroic deeds — thanks to a loose-knit network of unpaid volunteer history sleuths in Maine,"
     publishedDateTime: 2021-07-10T05:00:00Z

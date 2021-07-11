@@ -7,7 +7,7 @@ originalUrl: "https://www.prnewswire.com/in/news-releases/global-professional-se
 webUrl: "https://www.prnewswire.com/in/news-releases/global-professional-services-firm-zs-announces-winners-of-its-inaugural-healthcare-innovation-challenge-865772449.html"
 type: article
 quality: 23
-heat: -1
+heat: 23
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 600
     height: 315
     isCached: true
-
-related:
-  - title: "ZS announces winners of its healthcare innovation challenge"
-    excerpt: "ZS PRIZE - a healthcare innovation challenge launched by ZS, a global professional services firm - just announced the winner of its inaugural program."
-    publishedDateTime: 2021-07-06T10:37:00Z
-    webUrl: "https://www.malaysiasun.com/news/270190401/zs-announces-winners-of-its-healthcare-innovation-challenge"
-    type: article
-    provider:
-      name: Malaysia Sun
-      domain: malaysiasun.com
-    quality: 39
-    images:
-      - url: "https://cdn.bignewsnetwork.com/ani1625568159.jpg"
-        width: 630
-        height: 420
-        isCached: true
 
 secured: "WhSFILcfhzSnAuqVb7KOifirFkAQ77VgrmiccLEehm8iwEgDWHwLC9moz+sSfw2kb3knCoBWhuexDUWbzLe1KuB1miEAsDv63s9craGQ5NO7v4b3BGwJBFzZUiQLhltwOPX/0q3mTkqj0XwgAF8gIIigTyUVMLy4s8O+Juk+qry+DxnbISePpVtaex0Jfi4SpjkfX1Sorps4XOCjPGXkt3SeNqdIoUQzikd3P6zx9sD5it+7lQ4oR9P4eRJtjlSjfV+ErJI6iZcETx304in448sVnJLwxG+l0MVxg7hw2pvsVJltKEepodclolQTL3PK/SFctnBpNAE3GYUdeZ5MCpx/rAueD3mx7p6SmoLunfA=;T9fSgYEuWd2sygAZtWM9Kw=="
 ---
