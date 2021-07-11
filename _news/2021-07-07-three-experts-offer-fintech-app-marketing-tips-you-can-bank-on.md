@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/peggyannesalz/2021/07/07/three-experts-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/peggyannesalz/2021/07/07/three-experts-offer-fintech-app-marketing-tips-you-can-bank-on/amp/"
 type: article
 quality: 106
-heat: 216
+heat: 206
 published: true
 
 provider:
@@ -75,20 +75,6 @@ related:
       - url: "https://fintechmagazine.com/sites/default/files/styles/ma/public/image/Femle-founders2-16_9%20%281%29%20%281%29.jpg?itok=I3bMaq47"
         width: 3200
         height: 1800
-        isCached: true
-  - title: "Fintech Startups Disrupting the Whole Industry"
-    excerpt: "However, do you actually know how huge the Financial Services industry is? You might arm yourself with a calculator, start crunching the numbers and arrive at a certain ballpark figure pretty soon. While there is a little doubt in your numerical prowess,"
-    publishedDateTime: 2021-07-06T16:58:00Z
-    webUrl: "https://www.finextra.com/blogposting/20559/fintech-startups-disrupting-the-whole-industry"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 24
-    images:
-      - url: "https://itexus.com/wp-content/uploads/2020/07/imgpsh_fullsize_anim-1.png"
-        width: 2603
-        height: 1338
         isCached: true
   - title: "Meet Hydrogen, the latest sibling-led API fintech"
     excerpt: "Hydrogen is the brainchild of twin brothers Matt and Mike Kane. The New York natives' API-driven solution is one of the latest sibling-founded fintechs"

@@ -2,6 +2,50 @@
   "page": 22,
   "value": [
     {
+      "path": "_news/2021-06-22-hpe-acquires-determined-ai-to-ramp-up-machine-learning-development.md",
+      "title": "HPE acquires Determined AI to ramp up machine learning development",
+      "excerpt": "The deal will see HPE merge Determined AI’s machine learning platform with its high-performance computing services.",
+      "sourceUrl": null,
+      "webUrl": "https://www.siliconrepublic.com/machines/hpe-determined-ai-machine-learning",
+      "originalUrl": "https://www.siliconrepublic.com/machines/hpe-determined-ai-machine-learning",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.siliconrepublic.com/wp-content/uploads/2020/07/HPE-Interxion.jpeg",
+          "width": 800,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-22T06:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SiliconRepublic",
+        "domain": "siliconrepublic.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-06-22-five-questions-to-ask-before-raising-a-series-a-for-your-robotics-startup.md",
       "title": "Five Questions To Ask Before Raising A Series A For Your Robotics Startup",
       "excerpt": "As a founder of a robotics startup, how do you successfully access venture capital, and more specifically, how can you raise a series A at a fair valuation with favorable terms?",
@@ -1078,49 +1122,6 @@
       ],
       "topics": [
         "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-22-marginal-rise-in-global-it-outsourcing-demand-in-q1-2021-everest-group.md",
-      "title": "Marginal rise in global IT outsourcing demand in Q1, 2021: Everest Group",
-      "excerpt": "Global IT outsourcing demand witnessed a marginal increase quarter-on-quarter with 436 outsourcing transactions completed in Q1 2021 compared to 422 in Q4 2020, says a report by Everest Group. The uptick in global sourcing transactions in Q1 2021 over Q4 2020 was driven by demand for cloud services,",
-      "sourceUrl": null,
-      "webUrl": "https://www.thehindubusinessline.com/info-tech/marginal-rise-in-global-it-outsourcing-demand-in-q1-2021-everest-group/article34900684.ece",
-      "originalUrl": "https://www.thehindubusinessline.com/info-tech/marginal-rise-in-global-it-outsourcing-demand-in-q1-2021-everest-group/article34900684.ece",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.thehindubusinessline.com/info-tech/458bxk/article34900683.ece/ALTERNATES/LANDSCAPE_615/outsourcing",
-          "width": 615,
-          "height": 384,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-22T02:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Line",
-        "domain": "thehindubusinessline.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

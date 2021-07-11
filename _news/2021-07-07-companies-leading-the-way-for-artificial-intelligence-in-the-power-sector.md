@@ -40,20 +40,6 @@ related:
         width: 1000
         height: 1000
         isCached: true
-  - title: "The ethics of artificial intelligence"
-    excerpt: "While AI technologies have extraordinary potential for social and economic development, artificial intelligence presents complex and unique challenges to policymakers. AI raises significant concerns over bias,"
-    publishedDateTime: 2021-07-06T15:29:00Z
-    webUrl: "https://www.ept.ca/features/the-ethics-of-artificial-intelligence/"
-    type: article
-    provider:
-      name: EPT
-      domain: www.ept.ca
-    quality: 56
-    images:
-      - url: "https://www.ept.ca/wp-content/uploads/2021/07/AI-3.jpeg"
-        width: 724
-        height: 483
-        isCached: true
   - title: "Why Creating Value is a skill needed for the future with AI and Technology"
     excerpt: "Mckinsey in an article “Defining the skills citizens will need in the future world of work” has said, and I quote: add value beyond what can be done by automated systems and intelligent machines operate in a digital environment continually adapt to new ways of working and new occupations While I agree these are necessary,"
     publishedDateTime: 2021-07-06T18:10:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.openpr.com/amp/2325607/artificial-intelligence-ai-in-oil
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2325607/artificial-intelligence-ai-in-oil-and-gas-market-is-set-to-fly"
 type: article
 quality: 66
-heat: 126
+heat: 116
 published: true
 
 provider:
@@ -64,15 +64,6 @@ related:
       name: manometcurrent.com
       domain: manometcurrent.com
     quality: 34
-  - title: "Artificial Intelligence (AI) in Medical Market Expectation Surges with Rising Demand and Changing Trends"
-    excerpt: "This report contains market size and forecasts of Artificial Intelligence (AI) in Medical in Global, including the following market information: Global Artificial Intelligence (AI) in Medical Market Revenue,"
-    publishedDateTime: 2021-07-06T15:59:00Z
-    webUrl: "https://manometcurrent.com/artificial-intelligence-ai-in-medical-market-expectation-surges-with-rising-demand-and-changing-trends/"
-    type: article
-    provider:
-      name: manometcurrent.com
-      domain: manometcurrent.com
-    quality: 17
   - title: "Artificial Intelligence (AI) in Construction Market SWOT Analysis by Size, Status and Forecast to 2021-2027"
     excerpt: "Latest published market study on Global Artificial Intelligence (AI) in Construction Market provides an overview of the current market dynamics in the Artificial Intelligence (AI) in Construction space,"
     publishedDateTime: 2021-07-11T01:39:00Z

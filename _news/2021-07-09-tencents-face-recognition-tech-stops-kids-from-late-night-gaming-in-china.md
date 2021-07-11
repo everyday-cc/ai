@@ -44,22 +44,6 @@ related:
         width: 1050
         height: 549
         isCached: true
-  - title: "Tencent’s new facial recognition program prevents gaming after dark in China"
-    excerpt: "Tencent has announced a facial recognition system in China that will stop children from playing video games after hours."
-    publishedDateTime: 2021-07-06T16:07:00Z
-    webUrl: "https://www.digitaltrends.com/gaming/tencent-facial-recognition-china/"
-    ampWebUrl: "https://www.digitaltrends.com/gaming/tencent-facial-recognition-china/?amp"
-    cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/gaming/tencent-facial-recognition-china/?amp"
-    type: article
-    provider:
-      name: Digital Trends
-      domain: digitaltrends.com
-    quality: 86
-    images:
-      - url: "https://icdn.digitaltrends.com/image/digitaltrends/_117589161_gettyimages-1228918581.jpg"
-        width: 976
-        height: 549
-        isCached: true
   - title: "China's Tencent Says It'll Use Face Recognition to Keep Minors From Gaming at Night"
     excerpt: "This is such desperate news for us high school graduates who are two months away from being 18,” one WeChat user reportedly wrote."
     publishedDateTime: 2021-07-06T18:05:00Z

@@ -1,20 +1,22 @@
 ---
 category: news
 title: "Google Cloud's Visual Inspection AI Reinvents Manufacturing Quality Control"
-excerpt: "Google Cloud has traditionally supported manufacturing quality control through its general purpose AI product, AutoML. Today, it is taking the next step by offering a purpose-built solution for ..."
-publishedDateTime: 2021-06-22T15:04:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/google-clouds-visual-inspection-ai-reinvents-manufacturing-quality-control-301317486.html"
-webUrl: "https://www.prnewswire.com/news-releases/google-clouds-visual-inspection-ai-reinvents-manufacturing-quality-control-301317486.html"
+excerpt: "SUNNYVALE, Calif., June 22, 2021 /PRNewswire/ -- Google Cloud today launched Visual Inspection AI, a new purpose-built solution to help manufacturers, consumer packaged goods companies, and other ..."
+publishedDateTime: 2021-06-22T15:06:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/21/06/n21668304/google-clouds-visual-inspection-ai-reinvents-manufacturing-quality-control"
+webUrl: "https://www.benzinga.com/pressreleases/21/06/n21668304/google-clouds-visual-inspection-ai-reinvents-manufacturing-quality-control"
+ampWebUrl: "https://www.benzinga.com/amp/content/21668304"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/21668304"
 type: article
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - Machine Learning
   - AI
 
-secured: "qIC2YMDW8EDHfqJwEifhuV/iZIsSN7w8Odwz6uaLNxH7oR8ZyoYrOKxLcTrQMaRozgNq+TQGuzqkn0WikFijVfgUQJ5RZ5tbFVKlzQnsSraBUcMVORuDryIzTX4wgiVgvapBHwnjXMmHWe5DhnqiA6WRvOE9p9mazCGv6I5682WfiIc0QePGuGJaGj38zHmpOFG+fjVdg/xi+ycW6fHa+gBq6IHhMTmaIx14OfX1xsho4nc6B2Uqezm8eJ7IyTJGwz1fC+4Ec5GcXibHVjpb4+MufuPiHgAZU84R6uhS2lXnOn33Z5Ign+bih/lc6SYThWyTiZ6XV8OOvQH33oQ2B4+2LeqwnT029rFknKT5khw=;ax0F8aM5He+tjetdkoAs2g=="
+secured: "iC1cK8j89jtIdk7+seamj4haTHiZtFKQ+gXanZLdurTCzNSF+VtvI5zJAejZyUhSsQFNqVhBwRGDidUtjocRtMJyiTBtMGw1krsZ2GF42+BSuwh1Bpx12qGzAHZqiuA2USv6tctgC68v7lTI7heb6+Wk4tDI48zbBUSHgkI56Tphv/yrhgOuYhzWEfPTu+ilEQXbXIolACPNaaaHTSKdw+ETvxRcLM8Ostx2IxlQcO/9eN+2SYv1aejfXm0u5MzzYbfPs0t4jbIl3e7aGItF1+gik9pZ6FwfWsRKphWFffC+Uc2/7L1mcBemJ/DBvfBLtrlTkDI3BrkZDbpeAKllGh+KWmBwUcNFPtsVtGZcF58=;a97X9HTaxwbi6mZWJILajw=="
 ---
 

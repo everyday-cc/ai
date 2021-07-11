@@ -7,7 +7,7 @@ originalUrl: "https://www.beckershospitalreview.com/artificial-intelligence/5-he
 webUrl: "https://www.beckershospitalreview.com/artificial-intelligence/5-healthcare-ai-deals-made-in-2021.html"
 type: article
 quality: 54
-heat: 84
+heat: 74
 published: true
 
 provider:
@@ -52,20 +52,6 @@ related:
       - url: "https://contentstorage-nax1.emarketer.com/8d867d6bd09671db44822811ba18af8d/default-image-share.png"
         width: 1280
         height: 720
-        isCached: true
-  - title: "Will AI Be the Next Frontier in Behavioral Health?"
-    excerpt: "Johannes Eichstaedt, Ph.D., a psychologist at Stanford University, has worked with AI detection-screening systems and gave them a C grade for accuracy in his comments to The Guardian. Algorithms can track a sequence of facial expressions or words,"
-    publishedDateTime: 2021-07-06T16:23:00Z
-    webUrl: "https://www.aha.org/aha-center-health-innovation-market-scan/2021-07-06-will-ai-be-next-frontier-behavioral-health"
-    type: article
-    provider:
-      name: aha.org
-      domain: aha.org
-    quality: 37
-    images:
-      - url: "https://www.aha.org/sites/default/files/2021-07/ms_070621_item1_AI_BehavioralHealth_620%5B4%5D_1954500.jpg"
-        width: 620
-        height: 381
         isCached: true
 
 secured: "QvplQcer+y4m+mI2pozcZwcm6AFJnedO66pH2vFyHMO0hI1nHUW9s8VYc/UhcD2FFkTaktQPyVb3f0IzJ14PLBXUqZoAj9G0xfMrnhoYnpNhUr0e8SthzocvFBeYJPGuP1I3m+feaZVnF3PJ+qW0Y8fBzWDJEMTBOc8kUHJUkPf+BJxEoaTmZ5eRDkiDHBk9MSHM8svqhB72dOirUuY22Lg52PRQnqr35hbLen2+0H/subIawmQH7G1TV+sSDBlZrCgWaqNPhCHZT+e7pOe9Sme+niH3xZWOqkoehv1KttRLmNZEBRMxmSr3Lvx7AC+caYzyFPH0255/rfvRkBuRRQHKFkdFZ+ssyhDEYXaYiro=;OCEOCX4OICEmQgH4XHOG1Q=="

@@ -26,18 +26,18 @@ images:
 
 related:
   - title: "Qumulo Expands Cloud Q Offering with Qumulo on Azure as a Service"
-    excerpt: "Qumulo, provider of solutions focused on enterprise unstructured data management across hybrid-cloud environments, today announced Qumulo on Azure as a Service (QaaS), a petabyte-scale file data management platform in the cloud designed to be delivered with the simplicity of a managed service."
-    publishedDateTime: 2021-07-07T15:02:00Z
-    webUrl: "https://insidehpc.com/2021/07/qumulo-expands-cloud-q-offering-with-qumulo-on-azure-as-a-service/"
+    excerpt: "Qumulo, the breakthrough leader in radically simplifying enterprise unstructured data management across hybrid-cloud environments, today announced the public launch of Qumulo® on Azure as a Service (QaaS),"
+    publishedDateTime: 2021-07-07T13:13:00Z
+    webUrl: "https://financialit.net/news/cloud/qumulo-expands-cloud-q-offering-qumulo-azure-service"
     type: article
     provider:
-      name: insideHPC
-      domain: insidehpc.com
+      name: Financial IT
+      domain: financialit.net
     quality: 39
     images:
-      - url: "https://insidehpc.com/wp-content/uploads/2020/03/KiteRocketWPCover_2020-03-18_10-06-09.jpg"
-        width: 272
-        height: 350
+      - url: "https://financialit.net/sites/default/files/logo-example-color-dark.png"
+        width: 1174
+        height: 840
         isCached: true
 
 secured: "FukoMcVOLct6BNXGYNoNAsZM/CDBwH118qK5i089wKtYEhQOXw19/QqhO/gw19/Wi3VtT/0esfLEo1ap54KUwuHE6QFAE5NfXUPvfXtr8lDMPiGy4oRmixwgRUJtCWIlQG59Pxuv3pLTs6w++v/wTAbOIKc6pW1CthmgeuE2NQbcuqLwHE5uWOMgvkujNG024ElPsbF46YmDLh6a6Y6E5FgHbFMP3KLHtneczxJnynNLmFA73yev7om104iHt7d5H60V2lo3My4E6f36hDNngeFu5uE1nWVV220DyCqQPXXqprZTKiMTLg34fZqkVD3iSlRDwb4EQqgOCyqVLdufMmU+wWa6HZG1mSdLslgcw40I6/spzf9C1RTpTiIJI5P65J28zz5EMPL5mVLgPZU7QFbYxvfhewf60EOW8BrrnGugJGL3zTrCugYKR/ZxV2dcu3+HTWUoOQG1B7S5UBCBLA/NFVjixk5lnC3VCSoBbWIqNEa3Yo7IHGSv/XaOVv+YPhDNia4ghBY090zhWAKPAA==;CISjDz9DutvxRf0ak3FrwA=="

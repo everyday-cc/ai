@@ -85,20 +85,6 @@ related:
         width: 3200
         height: 1800
         isCached: true
-  - title: "Fintech Startups Disrupting the Whole Industry"
-    excerpt: "However, do you actually know how huge the Financial Services industry is? You might arm yourself with a calculator, start crunching the numbers and arrive at a certain ballpark figure pretty soon. While there is a little doubt in your numerical prowess,"
-    publishedDateTime: 2021-07-06T16:58:00Z
-    webUrl: "https://www.finextra.com/blogposting/20559/fintech-startups-disrupting-the-whole-industry"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 24
-    images:
-      - url: "https://itexus.com/wp-content/uploads/2020/07/imgpsh_fullsize_anim-1.png"
-        width: 2603
-        height: 1338
-        isCached: true
   - title: "Here Are the Winners of the Swiss Fintech Awards 2021"
     excerpt: "The Swiss Fintech Awards 2021 named FQX and Yokoy best fintech startups of the year. Cornelia Stengel named 'Fintech Influencer of the Year.'"
     publishedDateTime: 2021-07-08T06:02:00Z

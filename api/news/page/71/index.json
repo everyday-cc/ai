@@ -2,6 +2,57 @@
   "page": 71,
   "value": [
     {
+      "path": "_news/2021-05-19-unbounce-snags-snazzyai-to-add-automated-copywriting-to-platform.md",
+      "title": "Unbounce snags Snazzy.ai to add automated copywriting to platform",
+      "excerpt": "Unbounce, a Vancouver startup best known for helping marketers create automated landing pages, added a new wrinkle this morning when it announced it has acquired Snazzy.ai, an early stage automated copywriting startup.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/05/19/unbounce-snags-snazzy-ai-to-add-automated-copywriting-to-platform/",
+      "originalUrl": "https://techcrunch.com/2021/05/19/unbounce-snags-snazzy-ai-to-add-automated-copywriting-to-platform/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/05/GettyImages-1032165070.jpg?w=1024",
+          "width": 1024,
+          "height": 739,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/05/19/unbounce-snags-snazzy-ai-to-add-automated-copywriting-to-platform/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/05/19/unbounce-snags-snazzy-ai-to-add-automated-copywriting-to-platform/amp/",
+      "publishedDateTime": "2021-05-19T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-19-stmicroelectronics-acquires-edge-ai-software-specialist-cartesiam.md",
       "title": "STMicroelectronics acquires Edge AI software specialist Cartesiam",
       "excerpt": "Geneva, Switzerland May 19, 2021 - STMicroelectronics (NYSE:STM), a global semiconductor leader serving customers across the spectrum of electronics applications, today announced a transaction ...",
@@ -1103,58 +1154,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-19-google-search-brings-more-ai-and-ar-power-to-your-fingertips.md",
-      "title": "Google Search brings more AI and AR power to your fingertips",
-      "excerpt": "Search, next to or in conjunction with ads, is the bread and butter of Google’s business. The more people use it and stay within Search for any and all their needs, the better it is for",
-      "sourceUrl": null,
-      "webUrl": "https://www.slashgear.com/google-search-brings-more-ai-and-ar-power-to-your-fingertips-18673366/",
-      "originalUrl": "https://www.slashgear.com/google-search-brings-more-ai-and-ar-power-to-your-fingertips-18673366/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.slashgear.com/wp-content/uploads/2021/05/Anchor_Blog_hero_v32x.max-1000x1000-1.jpg",
-          "width": 1280,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.slashgear.com/google-search-brings-more-ai-and-ar-power-to-your-fingertips-18673366/amp/",
-      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/google-search-brings-more-ai-and-ar-power-to-your-fingertips-18673366/amp/",
-      "publishedDateTime": "2021-05-18T20:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SlashGear",
-        "domain": "slashgear.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/slashgear.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

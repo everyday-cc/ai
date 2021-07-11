@@ -2,6 +2,58 @@
   "page": 47,
   "value": [
     {
+      "path": "_news/2021-06-04-an-update-on-our-racial-justice-efforts.md",
+      "title": "An update on our racial justice efforts",
+      "excerpt": "To help combat racism and advance racial equity, we've made donations to organisations that support Black communities in the AI/ML space.",
+      "sourceUrl": null,
+      "webUrl": "https://deepmind.com/blog/announcements/an-update-on-our-racial-justice-efforts",
+      "originalUrl": "https://deepmind.com/blog/announcements/an-update-on-our-racial-justice-efforts",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://lh3.googleusercontent.com/jVZ3VN7wwx2dSowqLmhqm0qAzAmcb-1t7ks3HiNnoHknihF5sl9VDEwuCNTSxfx8jFIi7mBQkvHUdnSKXSPgYLNpvCuE4YajJeMnrYA",
+          "width": 512,
+          "height": 288,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-03T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "DeepMind",
+        "domain": "deepmind.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/deepmind.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-04-digital-realty-announces-availability-of-aws-direct-connect-100g-dedicated-connections-on-platformdigital-in-seattle-and-dublin.md",
       "title": "Digital Realty Announces Availability of AWS Direct Connect 100G Dedicated Connections on PlatformDIGITAL® in Seattle and Dublin",
       "excerpt": "As organizations bring on new technologies and solutions such as artificial intelligence (AI ... and more expensive to move. The new AWS Direct Connect 100Gbps is tailored to providing easy ...",
@@ -1142,49 +1194,6 @@
       ],
       "topics": [
         "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-03-bidens-ai-czar-focuses-on-societal-risks-preventing-harm.md",
-      "title": "Biden’s AI czar focuses on societal risks, preventing harm",
-      "excerpt": "Computer scientist Lynne Parker made breakthroughs in getting robots to work together so they could perform difficult missions, like cleaning up after a nuclear disaster, waxing floors or pulling",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsav.com/news/technology/bidens-ai-czar-focuses-on-societal-risks-preventing-harm/",
-      "originalUrl": "https://www.wsav.com/news/technology/bidens-ai-czar-focuses-on-societal-risks-preventing-harm/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.wsav.com/wp-content/uploads/sites/75/2021/06/02f5263778e04719a81da754d27b5821.jpg?w=1280",
-          "width": 1280,
-          "height": 1130,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsav.com/news/technology/bidens-ai-czar-focuses-on-societal-risks-preventing-harm/amp/",
-      "cdnAmpWebUrl": "https://www-wsav-com.cdn.ampproject.org/c/s/www.wsav.com/news/technology/bidens-ai-czar-focuses-on-societal-risks-preventing-harm/amp/",
-      "publishedDateTime": "2021-06-03T09:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WSAV-TV",
-        "domain": "wsav.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
         "AI"
       ]
     }

@@ -2,6 +2,48 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2021-06-29-ai-startup-cerebras-systems-makes-boyden-first-general-counsel.md",
+      "title": "AI Startup Cerebras Systems Makes Boyden First General Counsel",
+      "excerpt": "Artificial intelligence company Cerebras Systems has named former Broadcom Inc. lawyer Rebecca Boyden as its first vice president and general counsel.",
+      "sourceUrl": null,
+      "webUrl": "https://news.bloomberglaw.com/business-and-practice/ai-startup-cerebras-systems-makes-boyden-first-general-counsel",
+      "originalUrl": "https://news.bloomberglaw.com/business-and-practice/ai-startup-cerebras-systems-makes-boyden-first-general-counsel",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://db0ip7zd23b50.cloudfront.net/dims4/default/2568af8/2147483647/crop/960x369%2B0%2B0/resize/960x369%3E/quality/90/?url=http%3A%2F%2Fbloomberg-bna-brightspot.s3.amazonaws.com%2F98%2F78%2F8229a99546b289ac36070718de85%2Fbli-rbb.png",
+          "width": 960,
+          "height": 369,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-28T13:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg Law",
+        "domain": "bloomberglaw.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-29-how-ibm-watson-advertising-plans-to-use-ai-to-reduce-bias.md",
       "title": "How IBM Watson Advertising Plans To Use AI To Reduce Bias",
       "excerpt": "IBM Watson Advertising kicked off a six-month ... We are seeing some very encouraging signs that AI can be the transformative technology that advertising needs to predict optimal campaign ...",
@@ -307,8 +349,8 @@
       "title": "Global Artificial Intelligence in Healthcare: Deals and Agreements by Leading Players From 2010-2021 - ResearchAndMarkets.com",
       "excerpt": "Partnering Terms and Agreements 2010 to 2021” report has been added to ResearchAndMarkets.com’s offering. The Global Artificial Intelligence (AI) Partnering Terms and Agreements 2010 to 2021 report provides an understanding and access to the artificial intelligence partnering deals and agreements entered into by the world’s leading healthcare companies.",
       "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/BusinessWire/artificial-intelligence-business-technology-c8cf1d7a3c1e49999f2dbe3d728e684e",
-      "originalUrl": "https://apnews.com/press-release/BusinessWire/artificial-intelligence-business-technology-c8cf1d7a3c1e49999f2dbe3d728e684e",
+      "webUrl": "https://apnews.com/press-release/business-wire/artificial-intelligence-business-technology-c8cf1d7a3c1e49999f2dbe3d728e684e",
+      "originalUrl": "https://apnews.com/press-release/business-wire/artificial-intelligence-business-technology-c8cf1d7a3c1e49999f2dbe3d728e684e",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -445,40 +487,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-28-enterprise-ai-startup-beyondminds-certified-by-top-international-security-standard.md",
-      "title": "Enterprise AI Startup BeyondMinds Certified by Top International Security Standard",
-      "excerpt": "BeyondMinds, an enterprise AI software provider delivering fully managed, production-grade AI solutions on top of its turnkey AI platform, today announced it has earned ISO 27001:2013. The certification,",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/-enterprise-ai-startup-beyondminds-certified-top-international-security-/2021/06/28/9398829.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/-enterprise-ai-startup-beyondminds-certified-top-international-security-/2021/06/28/9398829.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-28T08:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Security"
       ]
     },
     {
@@ -628,12 +636,55 @@
       ]
     },
     {
+      "path": "_news/2021-06-28-enterprise-ai-startup-beyondminds-certified-by-top-international-security-standard.md",
+      "title": "Enterprise AI Startup BeyondMinds Certified by Top International Security Standard",
+      "excerpt": "BeyondMinds, an enterprise AI software provider delivering fully managed, production-grade AI solutions on top of its turnkey AI platform, today announced it has earned ISO 27001:2013. The certification,",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/globe-newswire/business-technology-061006a8611cbe8746dba86f82b79b9c",
+      "originalUrl": "https://apnews.com/press-release/globe-newswire/business-technology-061006a8611cbe8746dba86f82b79b9c",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-28T06:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
       "path": "_news/2021-06-28-supermicro-boosts-performance-for-hpc-and-ai-applications-with-optimized-servers-featuring-new-nvidia-a100-80gb-pcie-gpus.md",
       "title": "Supermicro Boosts Performance for HPC and AI Applications with Optimized Servers Featuring New NVIDIA A100 80GB PCIe GPUs",
-      "excerpt": "Supermicro servers, designed with a Building Block Solutions ® approach, give Supermicro a first to market advantage when incorporating new technologies. State-of-the-art accelerated computing options can be quickly integrated and tested,",
+      "excerpt": "High Performance 200G Networking Accelerates HPC and AI ApplicationsSAN JOSE, Calif., June 28, 2021 /PRNewswire/ -- Super Micro Computer, Inc.",
       "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/-supermicro-boosts-performance-hpc-ai-applications-with-optimized-/2021/06/28/9398763.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/-supermicro-boosts-performance-hpc-ai-applications-with-optimized-/2021/06/28/9398763.htm",
+      "webUrl": "https://markets.businessinsider.com/news/stocks/supermicro-boosts-performance-for-hpc-and-ai-applications-with-optimized-servers-featuring-new-nvidia-a100-80gb-pcie-gpus-1030559105",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/supermicro-boosts-performance-for-hpc-and-ai-applications-with-optimized-servers-featuring-new-nvidia-a100-80gb-pcie-gpus-1030559105",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -652,12 +703,21 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-28T06:08:00-07:00",
+      "publishedDateTime": "2021-06-28T06:14:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -1062,49 +1122,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-28-iit-madras-offers-free-online-course-on-introduction-to-machine-learning-for-students.md",
-      "title": "IIT Madras Offers Free Online Course on Introduction to Machine Learning for Students",
-      "excerpt": "IIT Madras is offering a free online course on Introduction to Machine Learning for students pursuing their under graduation and post graduation",
-      "sourceUrl": null,
-      "webUrl": "https://www.dqindia.com/iit-madras-offers-free-online-course-introduction-machine-learning-students/",
-      "originalUrl": "https://www.dqindia.com/iit-madras-offers-free-online-course-introduction-machine-learning-students/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.dqindia.com/wp-content/uploads/2021/02/Books-on-machine-learning.jpg",
-          "width": 850,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.dqindia.com/iit-madras-offers-free-online-course-introduction-machine-learning-students/amp/",
-      "cdnAmpWebUrl": "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/iit-madras-offers-free-online-course-introduction-machine-learning-students/amp/",
-      "publishedDateTime": "2021-06-28T01:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Dataquest",
-        "domain": "dqindia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

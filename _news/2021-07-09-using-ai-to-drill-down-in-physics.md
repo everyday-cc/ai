@@ -19,35 +19,79 @@ topics:
   - AI
 
 related:
-  - title: "Charli.ai CEO on training AI-driven personal assistants"
-    excerpt: "Charli.ai CEO talks with VentureBeat about the challenges and benefits of training AI-driven digital assistants."
-    publishedDateTime: 2021-07-06T15:50:00Z
-    webUrl: "https://venturebeat.com/2021/07/06/charli-ai-ceo-on-training-ai-driven-personal-assistants/"
-    ampWebUrl: "https://venturebeat.com/2021/07/06/charli-ai-ceo-on-training-ai-driven-personal-assistants/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/06/charli-ai-ceo-on-training-ai-driven-personal-assistants/amp/"
+  - title: "Micron Technology Puts Its Cash to Work Using Artificial Intelligence"
+    excerpt: "Micron Technology Inc.’s cash deposits are generating millions of dollars in additional returns for the memory-chip maker thanks to the help of an artificial-intelligence tool developed internally. The AI application allows Boise, Idaho-based Micron to ..."
+    publishedDateTime: 2021-07-08T22:01:00Z
+    webUrl: "https://www.wsj.com/articles/micron-technology-puts-its-cash-to-work-using-artificial-intelligence-11625781002"
+    ampWebUrl: "https://www.wsj.com/amp/articles/micron-technology-puts-its-cash-to-work-using-artificial-intelligence-11625781002"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/micron-technology-puts-its-cash-to-work-using-artificial-intelligence-11625781002"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
+      name: Wall Street Journal
+      domain: wsj.com
     quality: 87
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2020/11/human_AI-e1625582446597.jpg?w=1200&strip=all"
-        width: 1200
-        height: 600
+      - url: "https://images.wsj.net/im-366698/social"
+        width: 1280
+        height: 640
         isCached: true
-  - title: "US Air Force pilots get an artificial intelligence assist with scheduling aircrews"
-    excerpt: "An optimization tool from the Department of Air Force–MIT AI Accelerator is transforming the laborious process of staffing C-17 cargo flights. Take it from U.S. Air Force Captain Kyle McAlpin when he says that scheduling C-17 aircraft crews is a headache."
-    publishedDateTime: 2021-07-08T19:07:00Z
-    webUrl: "https://news.mit.edu/2021/us-air-force-pilots-artificial-intelligence-assist-scheduling-aircrews-0708"
+  - title: "Micron technology puts its cash to work using artificial intelligence"
+    excerpt: "The Boise, Idaho-based memory-chip maker says it is earning millions of dollars in extra returns on its deposits thanks to an AI tool developed in house"
+    publishedDateTime: 2021-07-10T01:07:00Z
+    webUrl: "https://www.livemint.com/technology/tech-news/micron-technology-puts-its-cash-to-work-using-artificial-intelligence-11625836801977.html"
+    ampWebUrl: "https://www.livemint.com/technology/tech-news/micron-technology-puts-its-cash-to-work-using-artificial-intelligence/amp-11625836801977.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/tech-news/micron-technology-puts-its-cash-to-work-using-artificial-intelligence/amp-11625836801977.html"
     type: article
     provider:
-      name: news
-      domain: mit.edu
-    quality: 76
+      name: Mint
+      domain: livemint.com
+    quality: 57
     images:
-      - url: "https://news.mit.edu/sites/default/files/images/202106/usaf-capt-kevin-thurber.jpg"
-        width: 3000
-        height: 2000
+      - url: "https://images.livemint.com/img/2021/07/09/600x338/2021-07-01T093323Z_1643310723_RC2LBO9R6YOJ_RTRMADP_3_MICRON-TECH-RESULTS_1625837012609_1625837026629.JPG"
+        width: 600
+        height: 338
+        isCached: true
+  - title: "Space – Nurturing AI Technologies from Silicon Valley Tech Giants"
+    excerpt: "Latest financial technology news, fintech news, fin tech news, open banking news​, banking news, blogs opinion, analysis on Fintech Zoom."
+    publishedDateTime: 2021-07-11T09:11:00Z
+    webUrl: "https://fintechzoom.com/fintech_news_space/space-nurturing-ai-technologies-from-silicon-valley-tech-giants/"
+    type: article
+    provider:
+      name: fintechzoom
+      domain: fintechzoom.com
+    quality: 39
+    images:
+      - url: "https://fintechzoom.com/wp-content/uploads/2021/07/NASA-Nurturing-AI-Technologies-from-Silicon-Valley-Tech-Giants-Disha.jpg"
+        width: 900
+        height: 500
+        isCached: true
+  - title: "NASA: Nurturing AI Technologies from Silicon Valley Tech Giants"
+    excerpt: "NASA is leveraging AI technologies, with Silicon Valley tech giants who are known to pioneers in Artificial Intelligence. This article shows the innovations of NASA with AI to collect sufficient data for the Earth."
+    publishedDateTime: 2021-07-11T06:30:00Z
+    webUrl: "https://www.analyticsinsight.net/nasa-nurturing-ai-technologies-from-silicon-valley-tech-giants/"
+    type: article
+    provider:
+      name: Analytics Insight
+      domain: analyticsinsight.net
+    quality: 37
+    images:
+      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/07/NASA-Nurturing-AI-Technologies-from-Silicon-Valley-Tech-Giants-Disha.jpg"
+        width: 900
+        height: 500
+        isCached: true
+  - title: "Biotech startup using AI to take guesswork out of cancer drug selection raises $70M"
+    excerpt: "Xilis is developing technology that creates a living model of a patient’s tumor, then applies artificial intelligence to determine the best drug or drug combinations to treat the cancer. Clinical trials are planned to test this precision medicine approach and the biotech startup has raised $70 million to fund its research."
+    publishedDateTime: 2021-07-09T00:46:00Z
+    webUrl: "https://medcitynews.com/2021/07/biotech-startup-using-ai-to-take-guesswork-out-of-cancer-drug-selection-raises-70m/"
+    type: article
+    provider:
+      name: MedCity News
+      domain: medcitynews.com
+    quality: 35
+    images:
+      - url: "https://medcitynews.com/uploads/2021/07/Xiling-Shen-and-David-Hsu-lab.jpg"
+        width: 1400
+        height: 930
         isCached: true
 
 secured: "aB/vvjllmqCpwqxkucINdufWgQ8blo2CcNE0tu94BBh2sjwTcqVLgCnGK1WNpuX71s4mkRlASh8OiRRXQcgjD+CsqJZ6q/HE8UAIifc+GbMkOjZZxiuKfkvKYxAkQarmPIQO2Srf6bxs0g/lmkwXMPH4dRvtPImes8q1cjCvPm760UWdrmBJka0lwLV9YHIOK14kDpiLgE7eEWeLWXspePfWy/fy/yIwPQJ6b2r9RNPDVAKNf3ePUQCrrQdjpNnFADa8glfjnT7zwmYDyixa3gDTPKd70Eb9MmxDX3mk84xHsEPM5BspIXptGRpCfG0fcVdPBy3V6pY2IOiBMPZGKc37hNVc0Mnhlug49IGD9Vz2zK7Kf6RqWV0D1x4NaQrIjKgpQFtp9ETXY2Kf/4FCthv3E+RKNjxm0qiKzBXvwY5YinaubhUefjV/u9sWRER3kVtpPDcJFOzc5+CYhVHEStnjBNQrqbhD6nMPYDkzDP1o0wpJB1BJAHyV3w1Xdv0bWkbMTJNw7Q2lr3Tv7rHy3w==;L9wW22EtdF82toCEuz5YYw=="

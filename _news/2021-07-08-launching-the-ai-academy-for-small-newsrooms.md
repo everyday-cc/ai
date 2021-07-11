@@ -9,7 +9,7 @@ ampWebUrl: "https://blog.google/outreach-initiatives/google-news-initiative/laun
 cdnAmpWebUrl: "https://blog-google.cdn.ampproject.org/c/s/blog.google/outreach-initiatives/google-news-initiative/launching-ai-academy-small-newsrooms/amp/"
 type: article
 quality: 109
-heat: 139
+heat: 129
 published: true
 
 provider:
@@ -31,20 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "The ethics of artificial intelligence"
-    excerpt: "While AI technologies have extraordinary potential for social and economic development, artificial intelligence presents complex and unique challenges to policymakers. AI raises significant concerns over bias,"
-    publishedDateTime: 2021-07-06T15:29:00Z
-    webUrl: "https://www.ept.ca/features/the-ethics-of-artificial-intelligence/"
-    type: article
-    provider:
-      name: EPT
-      domain: www.ept.ca
-    quality: 56
-    images:
-      - url: "https://www.ept.ca/wp-content/uploads/2021/07/AI-3.jpeg"
-        width: 724
-        height: 483
-        isCached: true
   - title: "Companies leading the way for artificial intelligence in the power sector"
     excerpt: "Siemens AG and Vestas Wind Systems AS are leading the way for artificial intelligence investment among top power companies according to our analysis of a range of GlobalData data. Artificial intelligence has become one of the key themes in the power sector of late,"
     publishedDateTime: 2021-07-07T12:37:00Z

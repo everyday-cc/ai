@@ -2,6 +2,49 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2021-06-29-pixelmator-pro-gains-a-crop-tool-powered-by-machine-learning-and-more.md",
+      "title": "Pixelmator Pro gains a crop tool powered by machine learning, and more",
+      "excerpt": "Pixelmator Pro has been updated with support for a new machine learning-powered crop tool and more. The new update is free for existing Pixelmator users. Pixelmator Pro has a new update in the App Store and it's one that you won't want to miss out on.",
+      "sourceUrl": null,
+      "webUrl": "https://www.imore.com/pixelmator-pro-gains-crop-tool-powered-machine-learning-and-more",
+      "originalUrl": "https://www.imore.com/pixelmator-pro-gains-crop-tool-powered-machine-learning-and-more",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2021/05/pixelmator-pro-on-macbook-pro.jpg",
+          "width": 800,
+          "height": 468,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.imore.com/pixelmator-pro-gains-crop-tool-powered-machine-learning-and-more?amp",
+      "cdnAmpWebUrl": "https://www-imore-com.cdn.ampproject.org/c/s/www.imore.com/pixelmator-pro-gains-crop-tool-powered-machine-learning-and-more?amp",
+      "publishedDateTime": "2021-06-29T05:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "iMore",
+        "domain": "imore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-29-diwo-awarded-six-new-patents-to-deliver-advanced-decision-intelligence-to-enterprises.md",
       "title": "diwo Awarded Six New Patents to Deliver Advanced Decision Intelligence to Enterprises",
       "excerpt": "ANN ARBOR, Mich.,  /PRNewswire/ -- diwo today announced that it was awarded six new patents in cognitive process and opportunity. These innovations are already part of the foundation of the company's artificial intelligence (AI)-based advisor for enterprise decisions,",
@@ -1130,48 +1173,6 @@
       ],
       "topics": [
         "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-29-ai-startup-cerebras-systems-makes-boyden-first-general-counsel.md",
-      "title": "AI Startup Cerebras Systems Makes Boyden First General Counsel",
-      "excerpt": "Artificial intelligence company Cerebras Systems has named former Broadcom Inc. lawyer Rebecca Boyden as its first vice president and general counsel.",
-      "sourceUrl": null,
-      "webUrl": "https://news.bloomberglaw.com/business-and-practice/ai-startup-cerebras-systems-makes-boyden-first-general-counsel",
-      "originalUrl": "https://news.bloomberglaw.com/business-and-practice/ai-startup-cerebras-systems-makes-boyden-first-general-counsel",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://db0ip7zd23b50.cloudfront.net/dims4/default/2568af8/2147483647/crop/960x369%2B0%2B0/resize/960x369%3E/quality/90/?url=http%3A%2F%2Fbloomberg-bna-brightspot.s3.amazonaws.com%2F98%2F78%2F8229a99546b289ac36070718de85%2Fbli-rbb.png",
-          "width": 960,
-          "height": 369,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-28T13:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg Law",
-        "domain": "bloomberglaw.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

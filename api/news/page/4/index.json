@@ -2,6 +2,58 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-07-07-sas-best-in-class-in-health-care-payment-integrity-says-aite-group.md",
+      "title": "SAS best in class in health care payment integrity, says Aite Group",
+      "excerpt": "SAS, the leader in massively parallel analytics and artificial intelligence (AI), is lauded as the best-in-class vendor in Aite Matrix: Payment Integrity in Healthcare. SAS' stability, brand recognition,",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/sas-best-in-class-in-health-care-payment-integrity-says-aite-group-1030586131",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/sas-best-in-class-in-health-care-payment-integrity-says-aite-group-1030586131",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1559048/Aite_Group_names_SAS_best_in_class_for_health_care_payment_integrity.jpg",
+          "width": 400,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-07T07:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-07-covid-19-artificial-intelligence-in-the-pandemic.md",
       "title": "COVID-19: Artificial intelligence in the pandemic",
       "excerpt": "Artificial intelligence is happening now, all around us — as the COVID-19 pandemic revealed. We tend to talk about artificial intelligence as if it were a thing of the future, but AI is already all around us — as the COVID-19 pandemic has demonstrated.",
@@ -180,7 +232,7 @@
       "originalUrl": "https://www.forbes.com/sites/peggyannesalz/2021/07/07/three-experts-offer-fintech-app-marketing-tips-you-can-bank-on/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 216,
+      "heat": 206,
       "tags": null,
       "images": [
         {
@@ -392,7 +444,7 @@
       "originalUrl": "https://www.techradar.com/nz/news/xbox-series-x-games-might-look-even-better-soon-thanks-to-ai-upscaling",
       "featuredContent": null,
       "highlight": null,
-      "heat": 129,
+      "heat": 119,
       "tags": null,
       "images": [
         {
@@ -444,7 +496,7 @@
       "originalUrl": "https://www.infoworld.com/article/3623773/ai-gives-development-tools-a-boost.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 109,
       "tags": null,
       "images": [
         {
@@ -1022,7 +1074,7 @@
       "originalUrl": "https://www.beckershospitalreview.com/artificial-intelligence/5-healthcare-ai-deals-made-in-2021.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 74,
       "tags": null,
       "images": [
         {
@@ -1155,58 +1207,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-07-yandex-self-driving-group-partners-with-grubhub-to-bring-robotic-delivery-to-college-campuses.md",
-      "title": "Yandex Self-Driving Group partners with GrubHub to bring robotic delivery to college campuses",
-      "excerpt": "Yandex Self-Driving Group, a unit of Yandex, the publicly-traded Russian tech giant, has announced a partnership with food delivery service GrubHub to be its multi-year robotic delivery provider across American college campuses.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/07/06/yandex-self-driving-group-partners-with-grubhub-to-bring-robotic-delivery-to-college-campuses/",
-      "originalUrl": "https://techcrunch.com/2021/07/06/yandex-self-driving-group-partners-with-grubhub-to-bring-robotic-delivery-to-college-campuses/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 93,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/07/YanexRoverDeliveryMI_2-1.jpg?w=1024",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/07/06/yandex-self-driving-group-partners-with-grubhub-to-bring-robotic-delivery-to-college-campuses/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/07/06/yandex-self-driving-group-partners-with-grubhub-to-bring-robotic-delivery-to-college-campuses/amp/",
-      "publishedDateTime": "2021-07-06T13:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

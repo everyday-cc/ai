@@ -25,33 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "How does AI magic make old Chinese movies look new?"
-    excerpt: "AI technology is giving old Chinese movies a brand-new look and lending film restorers a helping hand to sail through an otherwise slow and tedious process. Before the age of digitization, film preservation was a mammoth undertaking involving cleaning,"
-    publishedDateTime: 2021-07-10T04:56:00Z
-    webUrl: "https://news.cgtn.com/news/2021-07-10/How-does-AI-magic-make-old-Chinese-movies-look-new--11Kxz1ZIPwA/index.html"
+  - title: "Foreign business showcase robot and AI technology at WAIC to boost China's carbon mission"
+    excerpt: "The issue of carbon neutrality has become a hot topic during the 2021 World Artificial Intelligence Conference (WAIC), with global companies believing it will usher signal the beginnings of a huge market opportunities as China's goal to hit peak emissions before 2030 and realize carbon neutrality by 2060 approaches."
+    publishedDateTime: 2021-07-11T09:33:00Z
+    webUrl: "https://www.globaltimes.cn/page/202107/1228346.shtml"
     type: article
     provider:
-      name: CGTN
-      domain: cgtn.com
-    quality: 39
+      name: Global Times
+      domain: globaltimes.cn
+    quality: 45
     images:
-      - url: "https://video.cgtn.com/news/2021-07-10/How-does-AI-magic-make-old-Chinese-movies-look-new--11Kxz1ZIPwA/video/7423670ea8cc4052822ce828b65a0849/7423670ea8cc4052822ce828b65a0849-1280.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "With the help of AI, classic Chinese movies get a facelift"
-    excerpt: "Artificial Intelligence (AI)-powered restoration technology breathes a new life into Chinese films and documentaries of the bygone years. Before the age of digitization, technicians needed to manually transform footage recorded on a film stock into a digital format – frame by frame for high quality restoration."
-    publishedDateTime: 2021-07-10T05:33:00Z
-    webUrl: "https://news.cgtn.com/news/2021-07-10/With-the-help-of-AI-classic-Chinese-movies-get-a-facelift-11MoRwb1KaQ/index.html"
-    type: article
-    provider:
-      name: CGTN
-      domain: cgtn.com
-    quality: 37
-    images:
-      - url: "https://video.cgtn.com/news/2021-07-10/With-the-help-of-AI-classic-Chinese-movies-get-a-facelift-11MoRwb1KaQ/video/7423670ea8cc4052822ce828b65a0849/7423670ea8cc4052822ce828b65a0849-1280.jpg"
-        width: 1280
-        height: 720
+      - url: "https://www.globaltimes.cn/Portals/0/attachment/2021/2021-06-29/a1f7bb42-6e80-40fd-8395-b08abc83d93c.jpeg"
+        width: 800
+        height: 480
         isCached: true
 
 secured: "JokDEHR1UjfsviUY8AvCuzzorUF3nkVtoNrrh8wMfYEjrlZj5QyQq2VOoMdGP9lH3iwFrrBI1xpew/75oirkQ74JsUBEF+n+tknrR6g9T17tl/S8B1M2KqX663hiLgiXC375zYRfqOyW9W3KYvXsVN5G70d0XjgN+/+WDlacnxIo1nWxqPfR71jk7a9Rl2PlpeExzIOvx8wcC66HKk2T2ywJazY1Ug30+tu/4aeoFjsGru6vKC5RJ3hK6wxKV805LU0MfumOshHQcxd2NAB3vGMwLEM4tinm0COqwuAqFR+PPKfaJYgadN2E1FSbIHgRw50jhb2raxus306Ms+I0bgqaLTRjWvbZ2sdqXk8NXDx2Xo4jDh5v3blnrnYtrbPjazIarJZHkKTk4e4UHIONbcsxrq0EKegv/xTm8fyfq84Axk0agFHc8BEZY3pAeWqCXb3uSz8tG59jEByOgw4AF7V+GBEVmgRjz+9Rz/g8ltxHexIau3TM2doxZkdN1UyUMkPQ9OPxaEEZY45mDzv9Wg==;EOQ0xOJFrPzFI7puJZ1eVQ=="

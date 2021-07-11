@@ -38,20 +38,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "From AI calculation, self-driving to astronomy, Chinese tech giants announce plans at 2021 WAIC"
-    excerpt: "From artificial intelligence (AI) calculation, self-driving cars to astronomy, leading Chinese tech companies including Baidu, Huawei and Tencent picked different areas to promotetheir AI businesses, their executives disclosed on Thursday during the ..."
-    publishedDateTime: 2021-07-08T05:13:00Z
-    webUrl: "https://www.globaltimes.cn/page/202107/1228142.shtml"
-    type: article
-    provider:
-      name: Global Times
-      domain: globaltimes.cn
-    quality: 27
-    images:
-      - url: "https://www.globaltimes.cn/Portals/0/attachment/2021/2021-07-04/c5649c50-eae2-493c-b06f-9113282453e1.jpeg"
-        width: 1200
-        height: 720
-        isCached: true
 
 secured: "Fr6VgNW/mR0ZkacH7pM6sY7UG9BMr7ouarN/+sMrdwP673BbeGBgh0wTDxAfw/8tqxrchir7/NAibPtBDhZrw0l2sJpJ/jRaHF4wIaVbiFRXTFahGBA6tpkYj4gxQVjAi1rObSuGA8G/7LoGK2NHt20+W1WqITth3nXSnV6YtpoxzdfvGwEGXT1uTKHG7ED172asRelisquF5rad2nqqNlds3vjQxYPqNwZug1coEQ3LDmGp3oyoiewX+0iWkuhYtHzLwXRf37BMfvvUjNH7fr6dcApNTHRxWlI8EsiHFvsQrY7scn4XTTMQWuBtd0bCG+xVSHPzKGp8dczurDeHiY/b1ZV8BvYun9EsY6O28uHfBpodV7mnzt1FEIThopCEGW4WrJs4xjIJkw6ErkIASlpXRg6ZbJvr23zvYvclfHreB1CymzT4qjZ4v/S3OdghCrnHXv1k2cRlytexBSrG/HWnFW2+lbKbesId28mBNcR/RIMGg0t8qfjIrEgW62PCxXKeTlKkW4onyA2jNNK6Yw==;jwPgdXcoiq0fjI9ckqBm/w=="
 ---

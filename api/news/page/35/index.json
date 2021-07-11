@@ -2,6 +2,49 @@
   "page": 35,
   "value": [
     {
+      "path": "_news/2021-06-14-artificial-intelligence-for-predicting-tmb-h-colorectal-cancer-from-histopathological-characteristics.md",
+      "title": "Artificial intelligence for predicting TMB-H colorectal cancer from histopathological characteristics",
+      "excerpt": "This artificial intelligence is important in solving the ... (including inhibitors of the PD-1 protein and its ligand, PD-L1) therapy, without implicating the use of gene panel.",
+      "sourceUrl": null,
+      "webUrl": "https://www.news-medical.net/news/20210614/Artificial-intelligence-for-predicting-TMB-H-colorectal-cancer-from-histopathological-characteristics.aspx",
+      "originalUrl": "https://www.news-medical.net/news/20210614/Artificial-intelligence-for-predicting-TMB-H-colorectal-cancer-from-histopathological-characteristics.aspx",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2019/5/futuristic_techno_design_on_background_of_supercomputer_data_center_-_Image_-_Timofeev_Vladimir_M1_402c068791b640469e416c4f55d84afe-620x480.jpg",
+          "width": 620,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.news-medical.net/amp/news/20210614/Artificial-intelligence-for-predicting-TMB-H-colorectal-cancer-from-histopathological-characteristics.aspx",
+      "cdnAmpWebUrl": "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20210614/Artificial-intelligence-for-predicting-TMB-H-colorectal-cancer-from-histopathological-characteristics.aspx",
+      "publishedDateTime": "2021-06-13T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "News Medical",
+        "domain": "news-medical.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-14-palantir-vs-c3ai-which-is-the-better-artificial-intelligence-stock.md",
       "title": "Palantir vs. C3.ai: Which Is the Better Artificial Intelligence Stock?",
       "excerpt": "Palantir and C3.ai both help organizations and companies crunch data with AI-powered tools. Palantir, which generates more than half its revenue from government contracts, wants i",
@@ -1125,58 +1168,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-12-can-we-afford-ai.md",
-      "title": "Can we afford AI?",
-      "excerpt": "AI can lower the cost of doing business, but enterprises have to consider cost management to make it less expensive to acquire and deploy.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/06/11/can-we-afford-ai/",
-      "originalUrl": "https://venturebeat.com/2021/06/11/can-we-afford-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2016/01/market-analyze-e1623419360531.jpg?fit=800%2C533&strip=all",
-          "width": 800,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/06/11/can-we-afford-ai/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/11/can-we-afford-ai/amp/",
-      "publishedDateTime": "2021-06-11T14:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

@@ -56,19 +56,19 @@ related:
         width: 600
         height: 338
         isCached: true
-  - title: "Using Genomic-Based AI Technology to Advance Cancer Care"
-    excerpt: "GE Healthcare and SOPHiA GENETICS are partnering up to develop genomic-based artificial intelligence technology to advance cancer treatment and care."
-    publishedDateTime: 2021-07-06T17:00:00Z
-    webUrl: "https://healthitanalytics.com/news/using-genomic-based-ai-technology-to-advance-cancer-care"
+  - title: "Space – Nurturing AI Technologies from Silicon Valley Tech Giants"
+    excerpt: "Latest financial technology news, fintech news, fin tech news, open banking news​, banking news, blogs opinion, analysis on Fintech Zoom."
+    publishedDateTime: 2021-07-11T09:11:00Z
+    webUrl: "https://fintechzoom.com/fintech_news_space/space-nurturing-ai-technologies-from-silicon-valley-tech-giants/"
     type: article
     provider:
-      name: Analytics
-      domain: healthitanalytics.com
-    quality: 37
+      name: fintechzoom
+      domain: fintechzoom.com
+    quality: 39
     images:
-      - url: "https://healthitanalytics.com/images/site/article_headers/_normal/ThinkstockPhotos-495213850.jpg"
-        width: 690
-        height: 400
+      - url: "https://fintechzoom.com/wp-content/uploads/2021/07/NASA-Nurturing-AI-Technologies-from-Silicon-Valley-Tech-Giants-Disha.jpg"
+        width: 900
+        height: 500
         isCached: true
   - title: "Biotech startup using AI to take guesswork out of cancer drug selection raises $70M"
     excerpt: "Xilis is developing technology that creates a living model of a patient’s tumor, then applies artificial intelligence to determine the best drug or drug combinations to treat the cancer. Clinical trials are planned to test this precision medicine approach and the biotech startup has raised $70 million to fund its research."
@@ -84,6 +84,15 @@ related:
         width: 1400
         height: 930
         isCached: true
+  - title: "Using AI to Drill Down in Physics"
+    excerpt: "Jesse Thaler, an associate professor of physics at the Massachusetts Institute of Technology (MIT), investigates the potential of artificial intelligence (AI) in particle physics. In 2020, Thaler also became the director of the National Science Foundation's AI Institute for Artificial Intelligence and Fundamental Interactions (IAIFI),"
+    publishedDateTime: 2021-07-08T17:34:00Z
+    webUrl: "https://cacm.acm.org/news/253847-using-ai-to-drill-down-in-physics"
+    type: article
+    provider:
+      name: acm.org
+      domain: acm.org
+    quality: 19
 
 secured: "M2UGvjFJCopeviwtaGwgYqi4k6WIZ4tnKfs93pWxqm9YilzCrC9iS/7JwzqVPl50AXs6y+ZBhfd/b0UyJBSRm3dFNY3J9jjoz7JNjWs/q8Fkcx76mGyY/l7QQe1txzS+JUVb5zCUjUlzmDE12QjEeFu9CKVOcWd1n5ll7V6KzbCwFQrZxsLtSEihA7eSBjoHsZbTdvKbipNH+tF2BmnrvwsdqVBf/vjmqPOboGDOis2M/tbLWkbFRrf/lgzkM94hacKRl51QBqJZ8dv9RncF/dHZ0CyWAtuF7oyiA4sqnKZzYrX2Vq5MkGQx34hXwaRzMgNJptYp7GPL6jTOVSP8LrLaX0mTlOtShPZO6ZpyhUY=;oleMTTamamCLpxs/6vZxCg=="
 ---

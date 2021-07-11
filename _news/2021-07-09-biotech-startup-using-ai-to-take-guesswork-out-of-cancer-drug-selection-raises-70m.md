@@ -58,19 +58,19 @@ related:
         width: 600
         height: 338
         isCached: true
-  - title: "Using Genomic-Based AI Technology to Advance Cancer Care"
-    excerpt: "GE Healthcare and SOPHiA GENETICS are partnering up to develop genomic-based artificial intelligence technology to advance cancer treatment and care."
-    publishedDateTime: 2021-07-06T17:00:00Z
-    webUrl: "https://healthitanalytics.com/news/using-genomic-based-ai-technology-to-advance-cancer-care"
+  - title: "Space – Nurturing AI Technologies from Silicon Valley Tech Giants"
+    excerpt: "Latest financial technology news, fintech news, fin tech news, open banking news​, banking news, blogs opinion, analysis on Fintech Zoom."
+    publishedDateTime: 2021-07-11T09:11:00Z
+    webUrl: "https://fintechzoom.com/fintech_news_space/space-nurturing-ai-technologies-from-silicon-valley-tech-giants/"
     type: article
     provider:
-      name: Analytics
-      domain: healthitanalytics.com
-    quality: 37
+      name: fintechzoom
+      domain: fintechzoom.com
+    quality: 39
     images:
-      - url: "https://healthitanalytics.com/images/site/article_headers/_normal/ThinkstockPhotos-495213850.jpg"
-        width: 690
-        height: 400
+      - url: "https://fintechzoom.com/wp-content/uploads/2021/07/NASA-Nurturing-AI-Technologies-from-Silicon-Valley-Tech-Giants-Disha.jpg"
+        width: 900
+        height: 500
         isCached: true
   - title: "NASA: Nurturing AI Technologies from Silicon Valley Tech Giants"
     excerpt: "NASA is leveraging AI technologies, with Silicon Valley tech giants who are known to pioneers in Artificial Intelligence. This article shows the innovations of NASA with AI to collect sufficient data for the Earth."
@@ -86,6 +86,15 @@ related:
         width: 900
         height: 500
         isCached: true
+  - title: "Using AI to Drill Down in Physics"
+    excerpt: "Jesse Thaler, an associate professor of physics at the Massachusetts Institute of Technology (MIT), investigates the potential of artificial intelligence (AI) in particle physics. In 2020, Thaler also became the director of the National Science Foundation's AI Institute for Artificial Intelligence and Fundamental Interactions (IAIFI),"
+    publishedDateTime: 2021-07-08T17:34:00Z
+    webUrl: "https://cacm.acm.org/news/253847-using-ai-to-drill-down-in-physics"
+    type: article
+    provider:
+      name: acm.org
+      domain: acm.org
+    quality: 19
 
 secured: "sujpW0VjmuuTw5EdSwR+z4cBwZglH/+iQ+KWnCezLid6lOGTWaFfw9c9sU5EACvwcywtOZxq5cKUOBuF40gc/t2DLiBBPS/Xm6vXiZegiRMDr/lZFpTMxD8eXHEEgVNrGcXJVv/hK3wp8tBSFvd8Q8W0cspqfv3GQaBHs1J62P0AZwOWhnIEWv4kuoMCbg0smHNY9rBMBL89w81bW6fQabjWGzsaDQrzoNeZsOdwSAD6/7qXSSBvVF2muDu82iSCUduVQy6r28iik3F54taVB83vS96IUX15qc9UJTbkIsu35qB2MUs/hoMeO0LkMN4etZVp6A7f9gmaKRABM85ESAUSy2kATg8Wjb67U4vMu9w=;3OSr4/rCIZSYB2T83ZJW1Q=="
 ---

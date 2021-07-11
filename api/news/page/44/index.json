@@ -2,6 +2,58 @@
   "page": 44,
   "value": [
     {
+      "path": "_news/2021-06-07-new-c3-ai-ex-machina-customers-experience-success-with-no-code-ai-anyone-can-use.md",
+      "title": "New C3 AI Ex Machina Customers Experience Success with No-Code AI Anyone Can Use",
+      "excerpt": "C3 AI (NYSE:AI), the Enterprise AI application software company, today announced that C3 AI® Ex Machina, its no-code solution that anyone can use to",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/new-c3-ai-ex-machina-customers-experience-success-with-no-code-ai-anyone-can-use-2021-06-07",
+      "originalUrl": "https://www.marketwatch.com/press-release/new-c3-ai-ex-machina-customers-experience-success-with-no-code-ai-anyone-can-use-2021-06-07",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-07T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-07-modelling-perception-with-artificial-neural-networks.md",
       "title": "Modelling Perception with Artificial Neural Networks",
       "excerpt": "The drive behind this change has been the increasing availability of neural network models. With contributions from experts in the field, this book provides a complete survey of artificial neural networks. The book opens with two broad, introductory level ...",
@@ -1115,49 +1167,6 @@
         "AI",
         "AI in Security",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-06-06-ihp-offers-access-to-memristive-technology-for-edge-ai-computing-or-hardware-artificial-neural-networks-applications.md",
-      "title": "IHP offers access to memristive technology for edge AI computing or hardware artificial neural networks applications",
-      "excerpt": "Progress in work on memristive circuits and systems is growing rapidly. They find applications in non-volatile memories, advanced computing technologies, e. g. edge AI computing applications, or in hardware artificial neural networks (ANNs) with memristive elements as synaptic elements.",
-      "sourceUrl": null,
-      "webUrl": "https://idw-online.de/de/news770813",
-      "originalUrl": "https://idw-online.de/de/news770813",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "http://www.idw-online.de/de/institutionlogo27391",
-          "width": 902,
-          "height": 1771,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-06T00:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "idw",
-        "domain": "idw-online.de",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

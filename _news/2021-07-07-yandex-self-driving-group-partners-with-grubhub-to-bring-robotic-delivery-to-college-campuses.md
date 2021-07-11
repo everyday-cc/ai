@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2021/07/06/yandex-self-driving-group-partners
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/07/06/yandex-self-driving-group-partners-with-grubhub-to-bring-robotic-delivery-to-college-campuses/amp/"
 type: article
 quality: 63
-heat: 93
+heat: 73
 published: true
 
 provider:
@@ -45,29 +45,6 @@ related:
         width: 1024
         height: 768
         isCached: true
-  - title: "Yandex Self-Driving Group and Grubhub Partner for Robot Delivery on ..."
-    excerpt: "Yandex autonomous delivery robots will expand Grubhub's delivery capabilities, including in campus areas only accessible by foot MOSCOW and AMSTERDAM, NETHERLANDS / ACCESSWIRE / July 6, 2021 / Yandex Self-Driving Group (NASDAQ:YNDX)(MOEX:YNDX),"
-    publishedDateTime: 2021-07-06T15:47:00Z
-    webUrl: "https://www.pr-inside.com/yandex-self-driving-group-and-grubhub-partner-for-robot-delivery-on-r4837795.htm"
-    type: article
-    provider:
-      name: PR-Inside
-      domain: pr-inside.com
-    quality: 41
-    images:
-      - url: "http://www.pr-inside.com/images/logos/pr-inside/logo_pr-inside_fb.png"
-        width: 1200
-        height: 628
-        isCached: true
-  - title: "EQS-News: Yandex Self-Driving Group and Grubhub Partner for Robot Delivery on US College Campuses"
-    excerpt: "Grubhub, the leading online and mobile food-ordering and delivery platform on college campuses. The partnership between Grubhub and Yandex SDG will create faster and more cost-effective deliveries on college campuses in the United States."
-    publishedDateTime: 2021-07-06T16:30:00Z
-    webUrl: "https://www.finanztreff.de/news/eqs-news-yandex-self-driving-group-and-grubhub-partner-for-robot-delivery-on-us-college-ca/25258802"
-    type: article
-    provider:
-      name: Finanztreff
-      domain: finanztreff.de
-    quality: 8
 
 secured: "Y6ulSyT8Uc2FL48LBGWuVOdEBBQn2F87WHcIxOZiZdDbGRAqgksbvvXXUxzzK8Lc0O/vfflhRmCCjFQ6D78KYghl5tKs8AhdWE1vziS9GBhJX/9LsMYWMT5nIYcJjo3y0dBi+DhD2CSfp1VgartGqIpCwunQuQ2qy+YOLIar1eVSqHG9S42GyfwO26ZCRanYbN0rF2fdiZurAqmzKz1yskrswUteqQwSePGru/mpG5lirZwhrbTjRjl261QUGzLkKInL6zNCBsXa/vfYYBi+buM2IaYm0wFGFCWamTryYg6OJMJmsTHVvXZ5IhibiDjjGOTdSEifPLmIKzPYZm9NYlwEoaJ1WiP+nL96vIGctR9BybpLPEWyIMCEyDRgWcP4WyL+mnVY1J890kZmp/6UjOwsQpeG7+iY9q67pns7HCTecw6CCqHENXGSmn+g2exWl7f+Q2+mGkja6YYQ5p4IjSA/cIDpLDyAibOBZr+FWWqqVsHfJTEcwhrk70kT6mZxMLALHyo+bmDgopzfccEXPA==;6Bw+C7ZwRNHE+secssQrMA=="
 ---

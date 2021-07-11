@@ -2,6 +2,58 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2021-06-30-crowdstrike-wins-2021-amazon-web-services-global-public-sector-partner-and-canada-aws-partner-awards.md",
+      "title": "CrowdStrike Wins 2021 Amazon Web Services Global Public Sector Partner and Canada AWS Partner Awards",
+      "excerpt": "CrowdStrike, a leader in cloud-delivered endpoint and workload protection, today announced it has been named the winner of two key Amazon Web Services",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/crowdstrike-wins-2021-amazon-web-services-global-public-sector-partner-and-canada-aws-partner-awards-2021-06-30",
+      "originalUrl": "https://www.marketwatch.com/press-release/crowdstrike-wins-2021-amazon-web-services-global-public-sector-partner-and-canada-aws-partner-awards-2021-06-30",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-30T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-30-shenzhen-chinas-silicon-valley-plans-to-turbocharge-local-ai-development-with-first-of-a-kind-regulations.md",
       "title": "Shenzhen, China’s Silicon Valley, plans to turbocharge local AI development with first-of-a-kind regulations",
       "excerpt": "Local government departments and state-owned companies will be required to take the lead in using AI products and services to boost implementation of the technology.",
@@ -401,17 +453,17 @@
       "title": "China's Didi touts tech spending ahead of Wall St debut",
       "excerpt": "Early investors included Apple Inc., Japan’s Softbank, Alibaba and Chinese internet giants, Tencent Holding Ltd. and Baidu Inc. Didi ... into development of self-driving, electric vehicles ...",
       "sourceUrl": null,
-      "webUrl": "https://www.baynews9.com/fl/tampa/ap-online/2021/06/30/chinas-didi-touts-tech-spending-ahead-of-wall-st-debut",
-      "originalUrl": "https://www.baynews9.com/fl/tampa/ap-online/2021/06/30/chinas-didi-touts-tech-spending-ahead-of-wall-st-debut",
+      "webUrl": "https://www.wsoctv.com/news/chinas-didi-touts/DBXXNMFWEYG4ZRLYZ7NRQERQJU/",
+      "originalUrl": "https://www.wsoctv.com/news/chinas-didi-touts/DBXXNMFWEYG4ZRLYZ7NRQERQJU/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://s7d2.scene7.com/is/image/TWCNews/China_Didi_IPO_76014",
-          "width": 1280,
-          "height": 835,
+          "url": "https://cloudfront-us-east-1.images.arcpublishing.com/cmg/XL7AELWQMP6C5P7XEBRG6NG5AA.jpg",
+          "width": 5349,
+          "height": 3487,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -419,13 +471,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-30T00:37:00-07:00",
+      "ampWebUrl": "https://www.wsoctv.com/news/chinas-didi-touts/DBXXNMFWEYG4ZRLYZ7NRQERQJU/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-wsoctv-com.cdn.ampproject.org/c/s/www.wsoctv.com/news/chinas-didi-touts/DBXXNMFWEYG4ZRLYZ7NRQERQJU/?outputType=amp",
+      "publishedDateTime": "2021-06-30T00:56:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Bay News 9",
-        "domain": "baynews9.com",
+        "name": "WSOC-TV",
+        "domain": "wsoctv.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -778,8 +830,8 @@
       "title": "Vietnamese e-wallet MoMo picks up local AI startup in first acquisition deal",
       "excerpt": "Vietnam’s top payment startup MoMo has made its first acquisition with the purchase of local AI startup Pique in a push to better capitalize the data of its 25 million registered users. The company, which is backed by global investors such as Warburg Pincus and Goodwater Capital,",
       "sourceUrl": null,
-      "webUrl": "https://www.techinasia.com/vietnamese-e-wallet-momo-makes-first-acquisition-with-purchase-of-local-ai-startup-pique#!",
-      "originalUrl": "https://www.techinasia.com/vietnamese-e-wallet-momo-makes-first-acquisition-with-purchase-of-local-ai-startup-pique#!",
+      "webUrl": "https://www.techinasia.com/vietnamese-e-wallet-momo-makes-first-acquisition-with-purchase-of-local-ai-startup-pique",
+      "originalUrl": "https://www.techinasia.com/vietnamese-e-wallet-momo-makes-first-acquisition-with-purchase-of-local-ai-startup-pique",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -1149,49 +1201,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-30-machine-learning-aids-insights-into-cows-sleep.md",
-      "title": "Machine Learning Aids Insights Into Cows’ Sleep",
-      "excerpt": "Research into the sleep of cows is seen by researchers as one way of assessing their welfare, which is important to farmers and to respond to the growing expectations of global dairy consumers. Although little is known about the sleep needs of cows,",
-      "sourceUrl": null,
-      "webUrl": "https://www.scoop.co.nz/stories/SC2106/S00071/machine-learning-aids-insights-into-cows-sleep.htm",
-      "originalUrl": "https://www.scoop.co.nz/stories/SC2106/S00071/machine-learning-aids-insights-into-cows-sleep.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/466351406090186752/Zym_9Hv3_400x400.png",
-          "width": 400,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://m.scoop.co.nz/stories/SC2106/S00071/machine-learning-aids-insights-into-cows-sleep.htm",
-      "cdnAmpWebUrl": "https://m-scoop-co-nz.cdn.ampproject.org/c/s/m.scoop.co.nz/stories/SC2106/S00071/machine-learning-aids-insights-into-cows-sleep.htm",
-      "publishedDateTime": "2021-06-29T15:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Scoop",
-        "domain": "scoop.co.nz",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

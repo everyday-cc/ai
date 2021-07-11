@@ -41,6 +41,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Artificial Intelligence as a Service Market 2021 Segmentation and Analysis by Recent Trends, Development and Growth by Trending Regions by 2030"
+    excerpt: "Jul 09, 2021 (AmericaNewsHour) -- In a recent published report, Kenneth Research has updated the market report for Artificial Intelligence as a Service Market for 2021 till 2030. Report further now discusses; the various strategies to be adopted or being ..."
+    publishedDateTime: 2021-07-09T11:34:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-as-a-service-market-2021-segmentation-and-analysis-by-recent-trends-development-and-growth-by-trending-regions-by-2030-2021-07-09"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 31
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "/WAy/DJgncIIU6vf+PkdXW3PTwmll3KRJPuSwmDAHt8bSO0plas6gQ90uQsDho6LVQFNCGsTBwTobDm8vxL0OycCafvSMThZWgBVsepnAxVYYE4QY+AbSFP7mqcsCFD/YgOe7/HH5HP+vSerswH/QjTDdJrdTBItrCmQGeA6jbpsJQ/Um53vU2t/jU8oTsK3MhX0LaThAXjKjIoM9zq05DmnPu366bxCOhWjA8l2eGXE088Svcg8r3ojdXHMlAkEwN/0qEtZKRJ+rDaeXDoR18yw6qca+/7MulccPjSm0iAol1E7SWaAXruA4e0I8HahAxZwFcF6p1G3YLJ/S2tqswUNISEIslrYnWjdfJjFJyKp09JqGHoZvqDoMD9IUd4Nrc3yhKDDBVg+sZsFR8dr3/bVfxWp1gaM1A+/mhQk8gvSPp3Y+GurAa4O6+gXlKlsXEGQUkLjKy0MBHzYN6pZUDIH1Ye084Gaq5VPmLsGN5GNQrAyXzbpX4Cyidk2VwJmZcT4lDE6b7bcYQvQ9r6RoQ==;R8pAKE9eTyfgqqC1DjlGLw=="
 ---

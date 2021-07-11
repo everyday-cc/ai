@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Ethnicity recognition found among Russian face biometrics providers’ features"
-    excerpt: "A quartet of Russian biometrics providers have been found to have built ethnicity-recognition tools into facial recognition systems."
-    publishedDateTime: 2021-07-06T16:50:00Z
-    webUrl: "https://www.biometricupdate.com/202107/ethnicity-recognition-found-among-russian-face-biometrics-providers-features"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 21
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2018/05/15123931/face-biometrics.jpg"
-        width: 1050
-        height: 591
-        isCached: true
   - title: "VSBLTY partners on face biometrics and threat detection data for first responders"
     excerpt: "Data includes weapons detection, facial recognition classifying persons of interest, sworn officers, suspects, victims, and bystanders, and LPR at crime sites."
     publishedDateTime: 2021-07-07T18:44:00Z

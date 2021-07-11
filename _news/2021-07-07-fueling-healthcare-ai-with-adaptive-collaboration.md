@@ -53,20 +53,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Will AI Be the Next Frontier in Behavioral Health?"
-    excerpt: "Johannes Eichstaedt, Ph.D., a psychologist at Stanford University, has worked with AI detection-screening systems and gave them a C grade for accuracy in his comments to The Guardian. Algorithms can track a sequence of facial expressions or words,"
-    publishedDateTime: 2021-07-06T16:23:00Z
-    webUrl: "https://www.aha.org/aha-center-health-innovation-market-scan/2021-07-06-will-ai-be-next-frontier-behavioral-health"
-    type: article
-    provider:
-      name: aha.org
-      domain: aha.org
-    quality: 37
-    images:
-      - url: "https://www.aha.org/sites/default/files/2021-07/ms_070621_item1_AI_BehavioralHealth_620%5B4%5D_1954500.jpg"
-        width: 620
-        height: 381
-        isCached: true
 
 secured: "xDAL/BVxyye0ITcbDx+WdQ2VxrObghgjIBx2OuYxv+Qws4u0c0R9BqEjjDIeW++PFVPb4d4yquQ1XEbGs789+TsbnPSTNCeCX90qV6LZW9ZQHuOQHXsMvcMOEuAF6+0IcEt8MrCb/H26s1JYzT+JNh+xc2BwDwgAbPv/7qy9A4rjJIjhyRRimx40qMx+NmyxqQ3E1cIUOc18QFz6NaEypD1pzcvraFORz78KWsWY/6aP0m29la6mJnjfniQQgjsTTA/U+cWG3VlGgObCAmHtewMZSmyC8a1poxuhp/r6yO7wKOBZd6qESX+gzHvXpJbsxtM8VXGlNZOrcQXMqEbKNGoRdQzbGvZXH77TYKtARbrZLAuOEViOPIRkbyvQnoTLBqo5GN5KEsmYs6Q68czhSwbCnUM6rcDPcLUSr3AZNFxn//VGDlA5R1LTpT2T+jQQt/712EEb48cB4Md/duhzW7x9AIFYwznTW3LWA7TLQtsdaI82tCvEofbqvD/mUHhtb5jQq12HPd3vg/S0j+R4aA==;/Mmw6QmmcfdP02yHWyyDhg=="
 ---
