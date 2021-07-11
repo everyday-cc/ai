@@ -28,6 +28,22 @@ images:
     height: 630
     isCached: true
 
+related:
+  - title: "Machine-learning capable motion sensors intended for IoT"
+    excerpt: "By using this sensor data, the Qeexo AutoML can automatically generate highly optimised machine-learning solutions for Edge devices. With ultra-low latency, ultra-low power consumption, and a very small memory footprint these algorithmic solutions are able ..."
+    publishedDateTime: 2021-07-07T23:59:00Z
+    webUrl: "https://www.newelectronics.co.uk/electronics-news/iot-machine-learning-capable-motion-sensors/238717/"
+    type: article
+    provider:
+      name: New Electronics
+      domain: newelectronics.co.uk
+    quality: 24
+    images:
+      - url: "https://www.newelectronics.co.uk/article-images/238717/qeezo.jpg?width=375&height=250&scale=canvas"
+        width: 375
+        height: 250
+        isCached: true
+
 secured: "X//2PItPP20eLZY9gn8D5VTMjNPON31Edl7lUr4w6TEUP5kk5CC6zeu12yHkyvliI/eoodnP5nD1Qde1bbnceioHfprfnyhnux73G4ZRm9Lqj1is7NbCJJM1EGkP4telhvm23IZM5LHc6Gz4zzvs1fe+74ie3C14mNnBK5Ymgqu3Iys5fVVJn1Jj73NWl68rezJShLa5wV9jccXldCjxINuNJCqQ+o8RxHYkZThfnOlsPL+R8ioY+3Cl/HIlvXy/W41EVT6Fz88UB3rZywrv72s64QPhWSRs02r0j5PPodg2HyRHqNJpKymK/OmOWKCR89YQRfzJ5A+JTrH5fThLAzu5B/744+wmZl0/fS421ks=;i4bTRUm7NbtVsZXItw9YQA=="
 ---
 

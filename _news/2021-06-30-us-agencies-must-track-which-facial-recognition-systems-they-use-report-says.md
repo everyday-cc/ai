@@ -1,10 +1,10 @@
 ---
 category: news
 title: "US agencies must track which facial recognition systems they use, report says"
-excerpt: "Several federal agencies don't know which systems their employees use, according to the Government Accountability Office."
-publishedDateTime: 2021-06-30T14:30:00Z
-originalUrl: "https://www.cnet.com/tech/services-and-software/us-agencies-must-track-which-facial-recognition-systems-they-use-report-says/"
-webUrl: "https://www.cnet.com/tech/services-and-software/us-agencies-must-track-which-facial-recognition-systems-they-use-report-says/"
+excerpt: "A few have their own databases, but the majority use non-federal systems like Clearview AI, Vigilant Solutions or Amazon's Rekognition. The Government Accountability Office surveyed 42 agencies ..."
+publishedDateTime: 2021-06-30T14:43:00Z
+originalUrl: "https://www.cnet.com/news/us-agencies-must-track-which-facial-recognition-systems-they-use-report-says/"
+webUrl: "https://www.cnet.com/news/us-agencies-must-track-which-facial-recognition-systems-they-use-report-says/"
 ampWebUrl: "https://www.cnet.com/google-amp/news/us-agencies-must-track-which-facial-recognition-systems-they-use-report-says/"
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/us-agencies-must-track-which-facial-recognition-systems-they-use-report-says/"
 type: article
@@ -28,6 +28,6 @@ images:
     height: 630
     isCached: true
 
-secured: "EFqdWMnsQ88pVAMP97No1lVjV2Fezc/PHS4kLNnbe4kPFr2V351tXSNJ2hwPVnkjnpPznMZed+XajoC4H+KX12RvkZz/TeMpbotVlBEL/x2KjPztSsRfOJK67CFzQczQcjeBY8tcEUBhLXruUCjrwJi24Ibgfs2pu2P+9awg1xX4hcWN/VK12i65+ZW6kjRhpLSvdhGipuo9RV/vlW3f/m08oQ1bOJbc8F58+9dG6crjJd1DcVfHSau1tqm7a1Lt3QFC1Jb4weJKK3/kTtoYJrRGXq5p4yVxaXAZob2gJh5a8aJqcp0/vBAPJupYaE1Su7j4oOnEZrBsVOnBiUImm3NftXA3vSxVW0dbhFU4aG6wnVSIGPlDRxhcWNyJt1hY+tKiNCFhv5GigRBGzU02LOe6MEfBzgkzfFTzok6xFV/vR2/YVPbkSqrijMMxeyptDksQgNMhmUHQNwaLx4XA0doLQRNibq5l3cbmATmbzTcgprRjy3eT4tVUmx8UMqsF7vjdoPKorZfQwH1eN2WiYQ==;+dIRrFJzHlx6bUkf8AKiTg=="
+secured: "kOI8c9HTfjb7wRkYG6+12pkHmXpqmj2llSppVhNLL6DibFC6MbRnMreIgymESP2lED+iPnnXMlO/20viGXPnkJFVc6GbgAAGxVKK2k8bdtYSzJLMTs1IUIheor+bZDHfrpy38cHrCUtxnfUcJH1zl8kCNjA9q0BHSrWMF+02RdFG1V0Jewrnvw31WU4lLJ9+XBFlN+UemuS+oQ8N7ULdXZyayA/A5kR3zj2PIo5OYtjQsMntTuMbqklvrMOESILHmOMiKHqBVl0nfOlIjP7vvZXcPepaSAq7K4O9m4SgeRt1ErwXkfobL6JnT0NflWtHOi7LnYz+Ev8e3uZY20v1+cT/uI78o4ZCeb7q4Gb0WT4=;+kV2RQLSLPXiINf5lC9T4w=="
 ---
 

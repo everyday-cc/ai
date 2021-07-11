@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techspot.com/amp/news/90350-new-machine-learning-based-c
 cdnAmpWebUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/90350-new-machine-learning-based-cheating-may-threaten-competitive.html"
 type: article
 quality: 89
-heat: 109
+heat: 110
 published: true
 
 provider:

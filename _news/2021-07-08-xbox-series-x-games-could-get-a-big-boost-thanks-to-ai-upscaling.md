@@ -42,6 +42,22 @@ related:
         width: 480
         height: 288
         isCached: true
+  - title: "Microsoft is working on game upscaling technology powered by AI"
+    excerpt: "Now, Microsoft has its hand in the fidelity jar. Microsoft has realised that, for the next generation of games to excel in both graphic fidelity and popularity, people are going to need the ability to light up their 4K TVs with them,"
+    publishedDateTime: 2021-07-06T15:27:00Z
+    webUrl: "https://www.pcgamer.com/microsoft-is-working-on-game-upscaling-technology-powered-by-ai/"
+    ampWebUrl: "https://www.pcgamer.com/amp/microsoft-is-working-on-game-upscaling-technology-powered-by-ai/"
+    cdnAmpWebUrl: "https://www-pcgamer-com.cdn.ampproject.org/c/s/www.pcgamer.com/amp/microsoft-is-working-on-game-upscaling-technology-powered-by-ai/"
+    type: article
+    provider:
+      name: PC Gamer
+      domain: pcgamer.com
+    quality: 74
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/vhVPX5AW4yufmehSr6vQW4-480-80.jpg"
+        width: 480
+        height: 264
+        isCached: true
   - title: "Microsoft Is Developing an AI Upscaling Engine to Improve Xbox Visuals"
     excerpt: "Microsoft wants to implement its own machine learning solutions for Xbox, possibly in competition with AMD's FSR or Nvidia's DLSS."
     publishedDateTime: 2021-07-08T13:31:00Z

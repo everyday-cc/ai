@@ -112,13 +112,13 @@ related:
         height: 600
         isCached: true
   - title: "Halo and Las Vegas Launch Driverless Car Service Powered by T-Mobile 5G"
-    excerpt: "G is beginning to power everything from connected farms to connected cars! Today, Halo launched one of the first commercial driverless car services in the U.S. running on the T-Mobile ( News - Alert) (NASDAQ: TMUS) 5G network in Las Vegas."
-    publishedDateTime: 2021-07-08T13:14:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2021/07/08/9405394.htm"
+    excerpt: "Driverless Halos solve transportation challenges ... safety hazard or system anomaly is detected. Using an advanced Artificial Intelligence algorithm, the car also learns in the background while ..."
+    publishedDateTime: 2021-07-08T13:10:00Z
+    webUrl: "https://www.morningstar.com/news/business-wire/20210708005541/halo-and-las-vegas-launch-driverless-car-service-powered-by-t-mobile-5g"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
+      name: Morningstar%2c Inc.
+      domain: morningstar.com
     quality: 19
 
 secured: "AjPQRy3O2MaCpq39fPcky5JhCKcAbjG7eCFbDZjAqxDTgVPsNGejvq0ptOkrDzhgENVuRgYA791TRKT+Y3RtJPYCNw6g6vCP+ZNktsWSFeJCXy8tMU3Kx4ZLD2AIfaNeuo836EqDctYW4FX/B5dTJWnJlkTyZ5bTNIpbU9CnskRo+EiY+WajZbX1Wf9f1UaYpXEu753WbxXQ+CY6RBEcvEvoR/9FzpLrc5U6CG+Q+6uFpMNMLPAKVbW5/rc+dIXN9jXoHk4i5TGD9vt4x5NPTONp4n+XG6aimHUp0LJQdlBeYRb8VvD7etf/P6kpgFRrFGUlaQ+mHo3id5Rfd2JyC4v6lkKy7Jg9Lj4lI67hT/va8KQxOwtnBo21zBXKwbRbShe85V7WB2RRx/9kDC6ax3m2mJM1qKNBb+kj7kPntN4X0Rt1tlSeSJmRHSEB7K034xKnxDA7mseoujDqDqROMkb2QF8Q9SxDVmK5qFjI3SwVsKIR6z3vRMqNB5fi/zqp4AHw+QqeGbnrCsO49Hyukw==;g/XqBEwMdR3kbBp8czCKjQ=="

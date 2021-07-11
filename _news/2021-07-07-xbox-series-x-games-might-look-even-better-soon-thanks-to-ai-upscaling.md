@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techradar.com/nz/amp/news/xbox-series-x-games-might-look
 cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/nz/amp/news/xbox-series-x-games-might-look-even-better-soon-thanks-to-ai-upscaling"
 type: article
 quality: 89
-heat: 119
+heat: 129
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Microsoft is working on game upscaling technology powered by AI"
+    excerpt: "Now, Microsoft has its hand in the fidelity jar. Microsoft has realised that, for the next generation of games to excel in both graphic fidelity and popularity, people are going to need the ability to light up their 4K TVs with them,"
+    publishedDateTime: 2021-07-06T15:27:00Z
+    webUrl: "https://www.pcgamer.com/microsoft-is-working-on-game-upscaling-technology-powered-by-ai/"
+    ampWebUrl: "https://www.pcgamer.com/amp/microsoft-is-working-on-game-upscaling-technology-powered-by-ai/"
+    cdnAmpWebUrl: "https://www-pcgamer-com.cdn.ampproject.org/c/s/www.pcgamer.com/amp/microsoft-is-working-on-game-upscaling-technology-powered-by-ai/"
+    type: article
+    provider:
+      name: PC Gamer
+      domain: pcgamer.com
+    quality: 74
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/vhVPX5AW4yufmehSr6vQW4-480-80.jpg"
+        width: 480
+        height: 264
+        isCached: true
   - title: "Xbox Series X games could get a big boost — thanks to AI upscaling"
     excerpt: "The Xbox Series X is already a serious powerhouse of a console, but its graphical performance could be about to get even better thanks to the power of AI. AI upscaling is nothing new, but until now it’s been left to the likes of Nvidia and AMD to handle."
     publishedDateTime: 2021-07-08T11:38:00Z

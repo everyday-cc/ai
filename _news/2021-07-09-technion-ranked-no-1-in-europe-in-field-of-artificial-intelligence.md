@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "How Europe is handling robo-journalists in the AI age"
-    excerpt: "The Council of Europe has adopted key resolutions concerning AI and its intersection with media and journalism."
-    publishedDateTime: 2021-07-06T06:00:00Z
-    webUrl: "https://www.siliconrepublic.com/innovation/robo-journalism-ai-media-europe-eu"
-    type: article
-    provider:
-      name: SiliconRepublic
-      domain: siliconrepublic.com
-    quality: 39
-    images:
-      - url: "https://www.siliconrepublic.com/wp-content/uploads/2021/06/robot-hands-typing.jpeg"
-        width: 800
-        height: 600
-        isCached: true
   - title: "Technion Ranked No. 1 in Europe in Artificial Intelligence"
     excerpt: "Israel Institute of Technology on Mount Carmel, Haifa. Photo: Wikimedia Commons. CTech — The Technion’s efforts"
     publishedDateTime: 2021-07-08T20:09:00Z

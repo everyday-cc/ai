@@ -2,6 +2,49 @@
   "page": 94,
   "value": [
     {
+      "path": "_news/2021-05-03-beijing-residents-can-take-driverless-taxis-for-just-330-per-ride.md",
+      "title": "Beijing residents can take driverless taxis – for just £3.30 per ride",
+      "excerpt": "Chinese tech giant Baidu has rolled out a driverless taxi service in Beijing ... Kelly Wang and her husband, who work in the artificial intelligence industry, said they had a smooth riding ...",
+      "sourceUrl": null,
+      "webUrl": "https://metro.co.uk/2021/05/03/bejings-residents-can-take-driverless-taxis-for-just-3-30-per-ride-14510171/",
+      "originalUrl": "https://metro.co.uk/2021/05/03/bejings-residents-can-take-driverless-taxis-for-just-3-30-per-ride-14510171/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://metro.co.uk/wp-content/uploads/2021/05/SEI_77312899.jpg?quality=90&strip=all&zoom=1&resize=600%2C400",
+          "width": 600,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://metro.co.uk/2021/05/03/bejings-residents-can-take-driverless-taxis-for-just-3-30-per-ride-14510171/amp/",
+      "cdnAmpWebUrl": "https://metro-co-uk.cdn.ampproject.org/c/s/metro.co.uk/2021/05/03/bejings-residents-can-take-driverless-taxis-for-just-3-30-per-ride-14510171/amp/",
+      "publishedDateTime": "2021-05-03T02:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Metro",
+        "domain": "metro.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-03-global-artificial-intelligence-robotics-market-report-2020-by-key-players-types-applications-countries-market-size-forecast-to-2026.md",
       "title": "Global Artificial Intelligence Robotics Market Report 2020 by Key Players, Types, Applications, Countries, Market Size, Forecast to 2026",
       "excerpt": "The Artificial Intelligence Robotics market is expected to grow from USD X.X million in 2020 to USD X.X million by 2026, at a CAGR of X.X% during the forecast period. The global Artificial Intelligence Robotics market report is a comprehensive research that focuses on the overall consumption structure,",
@@ -1132,50 +1175,6 @@
         "AI",
         "AI in Sales",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2021-05-01-ai-in-fintech-market-may-see-a-big-move-major-giants-microsoft-google-ibm.md",
-      "title": "AI in Fintech Market May See a Big Move | Major Giants Microsoft, Google, IBM",
-      "excerpt": "Stay up-to-date and exploit latest trends of AI in Fintech Market with latest edition released by AMA. AI in Fintech Market Comprehensive Study is an expert and top to bottom investigation on the momentum condition of the worldwide Global AI in Fintech industry with an attention on the Global market.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bignewsnetwork.com/news/269136641/ai-in-fintech-market-may-see-a-big-move--major-giants-microsoft-google-ibm",
-      "originalUrl": "https://www.bignewsnetwork.com/news/269136641/ai-in-fintech-market-may-see-a-big-move--major-giants-microsoft-google-ibm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 133,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.bignewsnetwork.com/cus1620153330432.jpg",
-          "width": 630,
-          "height": 420,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-01T03:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Big News Network.com",
-        "domain": "bignewsnetwork.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

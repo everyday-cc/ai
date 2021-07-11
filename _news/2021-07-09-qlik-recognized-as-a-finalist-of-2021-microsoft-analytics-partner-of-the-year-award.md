@@ -25,54 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Best Microsoft technical certification 2021: Top exams"
-    excerpt: "ZDNet has compiled a collection of the best Microsoft certifications that will protect your job and boost your income as we head toward 2022 in a business world that is speeding towards digital transformation."
-    publishedDateTime: 2021-07-06T06:42:00Z
-    webUrl: "https://www.zdnet.com/article/best-microsoft-technical-certification/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/best-microsoft-technical-certification/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/best-microsoft-technical-certification/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 91
-    images:
-      - url: "https://www.zdnet.com/a/hub/i/2021/06/23/17d8ed20-1299-443d-8153-846622179896/msft-azure.jpg"
-        width: 1600
-        height: 1069
-        isCached: true
-  - title: "Best Microsoft technical certifications: The top exams to take for 2021"
-    excerpt: "ZDNet has compiled a collection of the best Microsoft certifications that will protect your job and boost your income as we head toward 2022 in a business world that is speeding towards digital transformation."
-    publishedDateTime: 2021-07-06T06:42:00Z
-    webUrl: "https://www.zdnet.com/index.php/category/2381/index.php/article/microsoft-technical-certifications-the-top-exams-to-take-for-2021/"
-    ampWebUrl: "https://www.zdnet.com/index.php/category/2381/index.php/google-amp/article/best-microsoft-technical-certification/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2381/index.php/google-amp/article/best-microsoft-technical-certification/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 91
-    images:
-      - url: "https://www.zdnet.com/a/hub/i/2021/06/23/17d8ed20-1299-443d-8153-846622179896/msft-azure.jpg"
-        width: 1600
-        height: 1069
-        isCached: true
-  - title: "Microsoft is working on game upscaling technology powered by AI"
-    excerpt: "Now, Microsoft has its hand in the fidelity jar. Microsoft has realised that, for the next generation of games to excel in both graphic fidelity and popularity, people are going to need the ability to light up their 4K TVs with them,"
-    publishedDateTime: 2021-07-06T15:27:00Z
-    webUrl: "https://www.pcgamer.com/microsoft-is-working-on-game-upscaling-technology-powered-by-ai/"
-    ampWebUrl: "https://www.pcgamer.com/amp/microsoft-is-working-on-game-upscaling-technology-powered-by-ai/"
-    cdnAmpWebUrl: "https://www-pcgamer-com.cdn.ampproject.org/c/s/www.pcgamer.com/amp/microsoft-is-working-on-game-upscaling-technology-powered-by-ai/"
-    type: article
-    provider:
-      name: PC Gamer
-      domain: pcgamer.com
-    quality: 74
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/vhVPX5AW4yufmehSr6vQW4-480-80.jpg"
-        width: 480
-        height: 264
-        isCached: true
   - title: "Microsoft Announces the General Availability of Azure Arc-Enabled SQL"
     excerpt: "Microsoft announced the general availability as per the end of July of Azure Arc-enabled SQL, which extends the Azure SQL instances to be hosted on an edge data center or in a multi-cloud environment."
     publishedDateTime: 2021-07-09T11:26:00Z
@@ -98,6 +50,20 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 67
+  - title: "Microsoft aims to expedite new edge computing use cases with Azure Percept"
+    excerpt: "With the modern cloud landscape nearing a point of saturation in terms of bandwidth, 5G combined with edge computing and AI looks to further ... silicon and telecom, Azure edge devices, and ..."
+    publishedDateTime: 2021-07-08T21:36:00Z
+    webUrl: "https://siliconangle.com/2021/07/08/microsoft-aims-expedite-new-edge-computing-use-cases-azure-percept-mwc21/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 67
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/07/Pete-Bernard-Mobile-World-Congress-2021.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Microsoft Launches Free Machine Learning Course For Beginners"
     excerpt: "Microsoft has launched a free MIT-approved learning course titled “Machine Learning For Beginners” to teach students the basics of machine learning. The course duration is 12 weeks. Azure Cloud advocates and Microsoft student ambassador authors,"
     publishedDateTime: 2021-07-08T12:30:00Z
@@ -126,15 +92,6 @@ related:
         width: 400
         height: 400
         isCached: true
-  - title: "Blue Prism & Lateetud, Inc. recognized as finalists of the 2021 Microsoft AI Partner of the Year"
-    excerpt: "LONDON and AUSTIN, Texas and WASHINGTON, July 8, 2021 /PRNewswire/ -- Blue Prism® and Lateetud today announced that their joint solution has been"
-    publishedDateTime: 2021-07-08T21:05:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/blue-prism-lateetud-inc-recognized-as-finalists-of-the-2021-microsoft-ai-partner-of-the-year-1030591185"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 51
   - title: "Reply Shapes the Future of Autonomous Mobile Robots with the Power of Microsoft Azure"
     excerpt: "The solution combines Microsoft Azure services ... Reply integrates Azure Cognitive Services, Machine Learning and DevOps as well as Power Apps and Power BI. Thanks to Azure's intelligent service ..."
     publishedDateTime: 2021-07-06T07:38:00Z
@@ -144,24 +101,6 @@ related:
       name: Morningstar%2c Inc.
       domain: morningstar.com
     quality: 27
-  - title: "Blue Prism & Lateetud, Inc. recognized as finalists of the 2021 Microsoft AI Partner of the Year"
-    excerpt: "LONDON and AUSTIN, Texas and WASHINGTON, July 8, 2021 /PRNewswire/ -- Blue Prism® and Lateetud today announced that their joint solution has been named a finalist for the Artificial Intelligence 2021 Microsoft Partner of the Year Award."
-    publishedDateTime: 2021-07-08T14:05:00Z
-    webUrl: "https://www.morningstar.com/news/pr-newswire/20210708da36675/blue-prism-lateetud-inc-recognized-as-finalists-of-the-2021-microsoft-ai-partner-of-the-year"
-    type: article
-    provider:
-      name: Morningstar, Inc.
-      domain: morningstar.com
-    quality: 21
-  - title: "AI in Telecommunication Market Booming Segments; Investors Seeking Growth | Google, Microsoft, IBM"
-    excerpt: "Get Free Exclusive PDF Sample Copy of This Research @  Scope of the Report of AI in Telecommunication Artificial Intelligence with learning abilities is a revolutionary technology, which the communication industry is exploring,"
-    publishedDateTime: 2021-07-08T16:59:00Z
-    webUrl: "https://manometcurrent.com/ai-in-telecommunication-market-booming-segments-investors-seeking-growth-google-microsoft-ibm/"
-    type: article
-    provider:
-      name: manometcurrent.com
-      domain: manometcurrent.com
-    quality: 20
   - title: "Insight Wins 2021 Microsoft Worldwide Partner of the Year Awards for Azure Migration and Solution Assessments"
     excerpt: "Insight Enterprises (NASDAQ:NSIT), the global provider of Insight Intelligent Technology Solutions™ for organizations of all sizes, today announced it has won two 2021 Microsoft ( News - Alert) Worldwide Partner of the Year Awards as Migration to Azure Partner of the Year and Solution Assessments Partner of the Year."
     publishedDateTime: 2021-07-09T16:07:00Z

@@ -36,17 +36,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Artificial Intelligence in Cyber Security Market Size, Share 2020, Impressive Industry Growth Report 2027"
-    excerpt: "The Artificial Intelligence in Security Market was valued at 5 08 billion US in 2020 and is projected to reach 14 2 billion US by 2026 at a CAGR of 18 during the forecast period 2021 2026 The market is"
-    publishedDateTime: 2021-07-06T05:55:00Z
-    webUrl: "https://www.openpr.com/news/2321878/artificial-intelligence-in-cyber-security-market-size-share"
-    ampWebUrl: "https://www.openpr.com/amp/2321878/artificial-intelligence-in-cyber-security-market-size-share"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2321878/artificial-intelligence-in-cyber-security-market-size-share"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 37
   - title: "The cybersecurity AI startup ZeroFox is buying competitor Vigilante to help it better scan the dark web to fight back against ransomware"
     excerpt: "Threat intelligence firm ZeroFox announced Tuesdsay that it will acquire the competitor startup Vigilante."
     publishedDateTime: 2021-07-07T13:00:00Z

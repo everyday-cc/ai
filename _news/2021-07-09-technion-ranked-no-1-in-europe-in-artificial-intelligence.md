@@ -7,7 +7,7 @@ originalUrl: "https://www.algemeiner.com/2021/07/08/technion-ranked-no-1-in-euro
 webUrl: "https://www.algemeiner.com/2021/07/08/technion-ranked-no-1-in-europe-in-artificial-intelligence/"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "How Europe is handling robo-journalists in the AI age"
-    excerpt: "The Council of Europe has adopted key resolutions concerning AI and its intersection with media and journalism."
-    publishedDateTime: 2021-07-06T06:00:00Z
-    webUrl: "https://www.siliconrepublic.com/innovation/robo-journalism-ai-media-europe-eu"
-    type: article
-    provider:
-      name: SiliconRepublic
-      domain: siliconrepublic.com
-    quality: 39
-    images:
-      - url: "https://www.siliconrepublic.com/wp-content/uploads/2021/06/robot-hands-typing.jpeg"
-        width: 800
-        height: 600
-        isCached: true
   - title: "Technion Ranked No. 1 in Europe in Field of Artificial Intelligence"
     excerpt: "An innovation for its prowess is the Machine Learning and Intelligent Systems research center, which aggregates all AI-related activities."
     publishedDateTime: 2021-07-08T18:29:00Z
