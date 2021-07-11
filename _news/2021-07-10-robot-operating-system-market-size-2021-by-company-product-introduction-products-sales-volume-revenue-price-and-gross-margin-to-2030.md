@@ -44,20 +44,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "AI in Education Market Research Report with Size, Share, Value, CAGR, Outlook, Analysis, Latest Updates, Data, and News 2021-2028"
-    excerpt: "Except for the medical supplies and life support products industries, most industries have been greatly impacted, and AI in Education industries have also been greatly affected. 3.4 Microsoft AI in Education Business Introduction 3.5 AWS AI in Education ..."
-    publishedDateTime: 2021-07-06T20:36:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-in-education-market-research-report-with-size-share-value-cagr-outlook-analysis-latest-updates-data-and-news-2021-2028-2021-07-06"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 55
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Artificial Intelligence in Telecommunication Market Size Insight Report 2021 to 2030 by Types, End Users and Regions with Analysis"
     excerpt: "Jul 09, 2021 (AmericaNewsHour) -- In a recent published report, Kenneth Research has updated the market report for Artificial Intelligence in Telecommunication Market for 2021 till 2030. Report further now discusses; the various strategies to be adopted or ..."
     publishedDateTime: 2021-07-09T14:57:00Z

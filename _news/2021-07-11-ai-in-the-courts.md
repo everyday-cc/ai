@@ -8,7 +8,7 @@ webUrl: "https://indianexpress.com/article/opinion/artificial-intelligence-in-th
 ampWebUrl: "https://indianexpress.com/article/opinion/artificial-intelligence-in-the-courts-7399436/lite/"
 cdnAmpWebUrl: "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/opinion/artificial-intelligence-in-the-courts-7399436/lite/"
 type: article
-quality: 59
+quality: 61
 heat: -1
 published: false
 
@@ -19,6 +19,7 @@ provider:
 topics:
   - AI Ethics
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://images.indianexpress.com/2021/07/Gavel-4.jpg"
@@ -42,6 +43,6 @@ related:
         height: 640
         isCached: true
 
-secured: "XbTvugeTYlk372qC2r1zElw5hqEEQQTfGclXkxISxrUh8sJHsglZg29et6JwFl4HrOWRsZWvghArHpB+KF4uGHJlgY69kbM7Cm0qF984RMlsKw7sLmt3UhjhF7aCaTH9vcsqemmOe9KVwjqLp8UoaO3n6vfGWaQBybSBu0BEDC2ezUATguTBq4WjocY8sku4MMBbVF+zLwKderDQzxSQwDLU/km2SWhWmXge04rFPunQtlMif2Rm36ylzAJE5FMRD64/1nLHNbFkqOzKjykZ95YwjkZFcwu28m8wdeuL7UTJtb2K+Zz2GobTVGp0sQBoUvt2VvHqZ1bUZxcECZm0RWeKaf8+WVFjyfesfca08Sc=;7ifNGQ285nSKtT0HICP90w=="
+secured: "1/lKeeheY3Vg/Wz7O9/h0ODG8/0f+/9bRbPkVDuHmVrjQfOrU7xhEJnwWlHWKfrFAQ80jlctSRXhrbXNNyY994LllD4j3X52ZhP+KnMe2r4q4NMzsNSdeZ0mnKEoKPYJt+brbJU2HUxRgXUEjRg28XzxHQoi+9MqAJJ7wgQsz3iC6XRax3FALpaWtYWGOLJbJ+cfKxEt5907drdi04zX+FJ3rNBteJhuv2cKLdI57xXe7PAUPsIIJ5SAp+RKqifBoKyJs9Wdg8LTlJd7VrtAAe6h3Auc0+P6B3n5crltOurD/McxBg1iS6QI7Bs9cnMIB/F3S6w4ai9vFM09UqBIuWVux049BNEU55GJQIiYhrRPyLWvFCxD18e9DTjxjmwyRAtquQvg3NbZLAzP0TSl5oNZQZ2lR9UWMu/7X0Fg2GRI4VEdVkgKE8ugxUjHfE0ozI3DWO93VG2BAj5FXRRAITmSP9+izGj2T3TH/ahwvaD5lLyrCJp+x0Q/9EvvUQk2HhmTD4ZkmLhPKfSgxiv27w==;wZmw5AFA5cIK7J4nuZjLvQ=="
 ---
 

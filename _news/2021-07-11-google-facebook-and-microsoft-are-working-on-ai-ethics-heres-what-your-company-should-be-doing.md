@@ -164,6 +164,15 @@ related:
         width: 1269
         height: 645
         isCached: true
+  - title: "Facebook – Google, Facebook, And Microsoft Are Working On AI Ethics. Here’s What Your Company Should Be Doing"
+    excerpt: "Facebook - Google, Facebook, And Microsoft Are Working On AI Ethics. Here’s What Your Company Should Be Doing -"
+    publishedDateTime: 2021-07-11T12:30:00Z
+    webUrl: "https://fintechzoom.com/fintech_news_facebook/facebook-google-facebook-and-microsoft-are-working-on-ai-ethics-heres-what-your-company-should-be-doing/"
+    type: article
+    provider:
+      name: fintechzoom
+      domain: fintechzoom.com
+    quality: 34
   - title: "Facebook AI Innovation Summit: Habitat 2.0, a simulator to help robots in domestic tasks"
     excerpt: "On June 30th, the Facebook AI Innovation Summit, an annual event of Facebook AI Research (FAIR) in Europe, took place. It was an opportunity for Facebook’s research subsidiary to present its latest innovations around the following theme: “Building a ..."
     publishedDateTime: 2021-07-07T12:14:00Z
@@ -202,6 +211,6 @@ related:
       domain: theaustralian.com.au
     quality: 4
 
-secured: "iAZFSotFsjbwXEzZuqfIfxsq6bskWgvNoA7xKVlgyAnEZYdnYgbHPJob8mKdAsf4kL4PP/DtU4hoKIrR8fELOkPXLAwozReOD2e9Tu4Lm5Dfb27i9rIJrdh9WXokvuTWXGZWi8mB/rYrTrwiYoqnhtAwT6fNI8c7TPegpdljqLw73prUVeK1OHcHUkuH9fdC7rWsYaJweYT7c57cFStW9GT0ypKt5I29TOsRJNW2+1nOqjtYqqjQ8NGo7ZzpaTWvlbGizU2tYGLqed0qAA0hLtcAO8bYc3e5Uepe5h64wYhEfy6YtsuRqzmUe4QIED+AKTO9pDHG4yFoBcxTvqtYfOmky2t8B6PYfLg9yTTY1dc=;nXDlRXSXSyCuDxvjDAL4GA=="
+secured: "Q1MeW3d6EAZTZVz3hhRKUak7E8dAFfy01qqqsVG/Yf4IRaal8U/AlelA+SNYKB+yIgdu2NuA1e/vImhqJCByT4oycWKRI3WkmtAxdaa2j3uxPMahaO44VZB9O4Vfwy7wPkjYbFPEwLCazYVcIKutangODm/VNYEE8c6xzXQntfxAXNT74KGUrEhHwq6J2RMjQ5hpjkS22A+gXfnPsQpPc5BplqIZQQY/UNJr64L/UfyALg++8Y4o9FPZ2bwEc9efUVCRKnyLnP7dEuAIf8lzwvk6Y3nfw8GeVpRwL9VzxyvKMELxGP3iVRjogbohb1DML6jorU7Ew1fskNS2g8DX9/H/+fOFgz5sMphK/BqqZ0CiYqspkzbWCWk5ns+q2LEJmF7bTIVb/LtQXpUFI98NvOmCEXvb9xvPhEEPJyodDth4eu/4eoTzOHKsdouBrjhCDmli3Tg9aN48s1sjtDnVOEExJipvskmK8awZd7kzDq4ScN8rNEuRSD1/XDLAdYno0p0G8DFbehBIjbkQIQFAlQ==;3cWNwcVExckgJOFKioc49g=="
 ---
 

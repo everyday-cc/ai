@@ -41,17 +41,6 @@ related:
         width: 2880
         height: 1920
         isCached: true
-  - title: "Researchers achieve improved prediction of Indian Monsoon onset using machine learning"
-    excerpt: "The onset of the Indian summer monsoon has been predicted three months ahead for the last 40 years with the highest precision up until today. The result indicates longer seasonal forecasts based on machine learning may be a way to mitigate the consequences of an erratic monsoon system under future global warming."
-    publishedDateTime: 2021-07-06T20:13:00Z
-    webUrl: "https://phys.org/news/2021-07-indian-monsoon-onset-machine.html"
-    ampWebUrl: "https://phys.org/news/2021-07-indian-monsoon-onset-machine.amp"
-    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-07-indian-monsoon-onset-machine.amp"
-    type: article
-    provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 31
   - title: "Improve Your Recovery After Stroke By Machine-Learning"
     excerpt: "New approach through machine learning for outcome prediction in stroke can significantly improve its treatment."
     publishedDateTime: 2021-07-08T18:28:00Z

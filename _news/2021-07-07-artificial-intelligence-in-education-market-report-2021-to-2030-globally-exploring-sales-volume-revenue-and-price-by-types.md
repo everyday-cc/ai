@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-education-market-report-2021-to-2030-globally-exploring-sales-volume-revenue-and-price-by-types-2021-07-07"
 type: article
 quality: 75
-heat: 125
+heat: 115
 published: true
 
 provider:
@@ -30,20 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI in Education Market Research Report with Size, Share, Value, CAGR, Outlook, Analysis, Latest Updates, Data, and News 2021-2028"
-    excerpt: "Except for the medical supplies and life support products industries, most industries have been greatly impacted, and AI in Education industries have also been greatly affected. 3.4 Microsoft AI in Education Business Introduction 3.5 AWS AI in Education ..."
-    publishedDateTime: 2021-07-06T20:36:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-in-education-market-research-report-with-size-share-value-cagr-outlook-analysis-latest-updates-data-and-news-2021-2028-2021-07-06"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 55
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Robot Operating System Market Size 2021 by Company, Product introduction, Products Sales Volume, Revenue, Price and Gross Margin to 2030"
     excerpt: "In a recent published report, Kenneth Research has updated the market report for Robot Operating System Market for"
     publishedDateTime: 2021-07-09T17:02:00Z

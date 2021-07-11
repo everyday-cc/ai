@@ -39,7 +39,7 @@ related:
     provider:
       name: The Indian Express
       domain: indianexpress.com
-    quality: 59
+    quality: 61
     images:
       - url: "https://images.indianexpress.com/2021/07/Gavel-4.jpg"
         width: 1200

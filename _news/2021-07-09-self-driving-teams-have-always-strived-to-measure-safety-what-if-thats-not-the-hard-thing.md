@@ -9,8 +9,8 @@ ampWebUrl: "https://www.forbes.com/sites/bradtempleton/2021/07/08/self-driving-t
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bradtempleton/2021/07/08/self-driving-teams-have-always-strived-to-measure-safety--what-if-thats-not-the-hard-thing/amp/"
 type: article
 quality: 63
-heat: 73
-published: true
+heat: 63
+published: false
 
 provider:
   name: Forbes
@@ -29,17 +29,6 @@ images:
     width: 1200
     height: 774
     isCached: true
-
-related:
-  - title: "Elon Musk Just Now Realizing that Self-driving Cars are a ‘Hard Problem’"
-    excerpt: "Tesla CEO Elon Musk is finally admitting that he underestimated how difficult it is to develop a safe and reliable self-driving car. To which the entire engineering community rose up as one to say, \"No duh."
-    publishedDateTime: 2021-07-06T20:04:00Z
-    webUrl: "https://cacm.acm.org/news/253791-elon-musk-just-now-realizing-that-self-driving-cars-are-a-hard-problem/fulltext"
-    type: article
-    provider:
-      name: acm.org
-      domain: acm.org
-    quality: 3
 
 secured: "qVh5LpWHX+gpLu8sguq3vylr1Pc5Lb4sLU+z9d9/1vPuBBDiJehbYDn2Lju/LsRkjjdScXsLiuBD/SGyINj7cPsME+Z6h67q98kJl6AKfykAOdZktna7HP12AgHp4fcJnYoHf8tEbVqgV4TddwGGEKeeRkkInCgSjwuFWMz09GIyw4bmQ+SiDCF5GxwclB8l94lRaGuR9X4h2EroPKmrIz3IuTUT+71JPYjBPSd9UlJZAq+1uGdlFyuaJH1/53eWfsPm4i9Dqe/UmWtwK0Vufyc1F3mf3X9EIemjP0dvoKNPI1wiufnXSqBisA4Fz5A5xf9B10ngu2D7tgcobzvcSTgObh20PfUZRp1BtH9xJ8lQgvlhW/CthrYG9AOAxqT6FccsCrG7Bh3Z0sNeZdJaHBElze/lu9vs+FpzwYpdzaYqnLGAyAjA0RAIWTNWvXq4vBV3hWSPTLpkQlCGJmohJEk09kULsEX0ROsr9VK3orIGW3AwJPUL9Vt7HEYN0VFzHam7IGQGAf4WBjYCBA7S7A==;2CM3LYkUuxTAi0REUwx/ag=="
 ---

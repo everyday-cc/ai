@@ -6,8 +6,8 @@ publishedDateTime: 2021-07-11T11:52:00Z
 originalUrl: "https://www.analyticsinsight.net/how-has-artificial-intelligence-transformed-astronomy/"
 webUrl: "https://www.analyticsinsight.net/how-has-artificial-intelligence-transformed-astronomy/"
 type: article
-quality: 39
-heat: 39
+quality: 41
+heat: 41
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI in Robotics
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/07/AI-in-Astronomy.jpeg"
@@ -24,6 +25,6 @@ images:
     height: 496
     isCached: true
 
-secured: "iDeIvIriVL8PQQUP1tpmct9Zw4bcMBnjTLk2fp5MY+0BC4FYWkYF1oZ8Xy6+XDqHCCmsdjmvfeZYz0O8yvF1YXrPgX9nKZHFjvGpHkYck9zZRLTIlDoP9lByjDkYkbQ4H6+cmkrYkv2UX2neCqb4j4t0I5pGRfVK9SSOp6yIZSZsBStcPxWRqz2Xe6+JY2gR6hLFAJye2auAFlZw8O6nc4HRmguGJSNMVOyKLxZsJ8sarnc0vs9TnjzOKtkJJr4UzOWfx6gp73nLyxyKuw8YlOiPTeHxKgQz9adwMF8eYBF4t23yXoBK9Sx6NjvMDncDHvkrEAyUJcBAwEZilvZoo7loh1tYO+h0GXPNzt7Wcks=;96GkITq9pyLs8gkr6qB/Jw=="
+secured: "/f0SA2TJKfXYrmm8FB84KGvHKCz4IGsgrD/eSXwaWYc/pLsOUY8EbDZPEq2ECIvmZBuaxMPJK8q4ib1tJxZclwffCcRkp5/ov5jbklAcn5N1+SJK0IJEAbubPcUmqV6JPreAi0Hy/bnHPAF9Dis9HNfPPVWWoKCr0eXykqEnydoFFcw7f2QrV3Ug1Ugdtxsu78FmV61dS10gThz6YcWQIv7MZLJ/HRfuPwkqSiYQvHbD/tTftyvNkBx7cVAvLGSLbqOJU1cPMBSLHjCvA2r+ciItrwJAIoXgLEedF0rJ9AzDPUohtuI9DY8IMCanUgnVLojvamtd+8sqsqTFaOaeLdhhw4uN/Xkl0cxq2qRbC42xcW4omfJi0NS2hqM4NpJ5wmlOjOtwDqvjZFccrv0duDZCUUno9Df5oEe1Au7QaHBeIf8IJlEEHuSqKoePTQPim3FSTyR+NnhD9NQUz/mzbi7kL0TJrD5kGYH5o0JpEq/PsaIgNsjXGY2pYQH+751rG07az3RXStAArrFbhArJ+Q==;1L2otQY8JJxaM5fdjmx68A=="
 ---
 

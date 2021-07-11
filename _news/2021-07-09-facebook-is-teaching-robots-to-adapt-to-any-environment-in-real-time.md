@@ -159,6 +159,15 @@ related:
         width: 1000
         height: 668
         isCached: true
+  - title: "Facebook – Google, Facebook, And Microsoft Are Working On AI Ethics. Here’s What Your Company Should Be Doing"
+    excerpt: "Facebook - Google, Facebook, And Microsoft Are Working On AI Ethics. Here’s What Your Company Should Be Doing -"
+    publishedDateTime: 2021-07-11T12:30:00Z
+    webUrl: "https://fintechzoom.com/fintech_news_facebook/facebook-google-facebook-and-microsoft-are-working-on-ai-ethics-heres-what-your-company-should-be-doing/"
+    type: article
+    provider:
+      name: fintechzoom
+      domain: fintechzoom.com
+    quality: 34
   - title: "Facebook AI Innovation Summit: Habitat 2.0, a simulator to help robots in domestic tasks"
     excerpt: "On June 30th, the Facebook AI Innovation Summit, an annual event of Facebook AI Research (FAIR) in Europe, took place. It was an opportunity for Facebook’s research subsidiary to present its latest innovations around the following theme: “Building a ..."
     publishedDateTime: 2021-07-07T12:14:00Z
