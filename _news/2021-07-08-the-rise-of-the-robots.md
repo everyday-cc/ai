@@ -39,6 +39,15 @@ related:
         width: 600
         height: 600
         isCached: true
+  - title: "Insights on the Surgical Robots Global Market to 2026 - by Product, Application, End-user and Region"
+    excerpt: "The global surgical robots market exhibited strong growth during 2015-2020. Looking forward, the publisher expects the market to grow at a CAGR of 18.5% during 2021-2026. Keeping in mind the uncertainties of COVID-19,"
+    publishedDateTime: 2021-07-09T21:09:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/insights-on-the-surgical-robots-global-market-to-2026-by-product-application-end-user-and-region-1030594228"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 34
 
 secured: "QACu2WM3Z5AUVdXsqEAcBlfI4MKXkqT9TMm1So1XG441CeE1BVj94BtZpgFtoU8zGkpaSfVC1aY3flnI1IfSkcgytCnHg4pXYJT/Mm6AU+YkRo5q3Q0B99F4szy3W5vspGOLaXtmsFFHyz79KttI9X9Qf/719UBFhc0DOBBD0bSzUcgGA5Nb3g5fB4liEgbDBEs3SB5hP3xEheygL2UIE8fysr7pUgmOnbeJ6MVmVp4Ht8CKYHFqkaSoGgZe+LREOgR+392Ewg4RFKpE799Kji9rgsoG+54xL9J8M1Tj9dhATUGGXE8SwGtAGn5ThRHo8GgVoDCcwXsD4TQMSmF/nbedPyzTYwYMC3rayhQ+IDvvx9yD0IA8sKhQ570r/s50Uv/a3qJ/JxBeMr3bG5GPbVFMCCpOnw/Og3EPr38CccpPaP/wg6nqvoGHtll2LfAJG5Prbc0frxaDIdIfMF0zRPw6JwZP2kYiU42vt49QkMAIMKx2bMT8eSM/kj2QJCPQaJDZyvxPM9ZNs7UVxXF36w==;B/EqTOvUILj9+8+P3w/kYA=="
 ---

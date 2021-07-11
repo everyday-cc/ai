@@ -26,24 +26,6 @@ images:
     height: 400
     isCached: true
 
-related:
-  - title: "NIT Warangal Invites Applications from Students and for Online Course on Artificial Intelligence, Price Rs 500"
-    excerpt: "NIT Warangal has invited applications from students and professionals for an online course on artificial intelligence and machine learning"
-    publishedDateTime: 2021-07-06T08:03:00Z
-    webUrl: "https://www.dqindia.com/nit-warangal-invites-applications-students-online-course-artificial-intelligence-price-rs-500/"
-    ampWebUrl: "https://www.dqindia.com/nit-warangal-invites-applications-students-online-course-artificial-intelligence-price-rs-500/amp/"
-    cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/nit-warangal-invites-applications-students-online-course-artificial-intelligence-price-rs-500/amp/"
-    type: article
-    provider:
-      name: Dataquest
-      domain: dqindia.com
-    quality: 37
-    images:
-      - url: "https://www.dqindia.com/wp-content/uploads/2019/04/Artificial-Intelligence-Computer-Programming-Robot-2167836.jpg"
-        width: 640
-        height: 400
-        isCached: true
-
 secured: "ka+gRPkYcqyjaOO/xALo5+C2/k1+MbKOfTatJ0S7wqgfoWSkUro5rePju+rOzak02rUXXijoIfNVe9K50sRXQNY8UjOufLS/W3QH79mm3h8WjhzmpzMygd9CHcjjzgn2SKuag+exaZ5Q7/5GLuKmCNUWfl0PaZz7hIssMyDn1Yy/CsYct+4gvvyfHv6UnKsIeSSVGuHhiDGvoK9haKdJlXgc0ucsdghRb8GihOkt/t58blGjJi/QFlAYTwaQPiWNHEZHAcky5QvFmC0Ei6qBfETofMrzLMmATfHN9SxaRZBBFMSKJEzbETqxRQdcaHM/Czu+Nl3BgSIRnujRuSXeP6nAWamNehXzHU6gi92LMcuUrAao0PTt8DB4U9AD0lglOZWGAQLAIf48qz0DLewTfHl7vZrVfv/1HzBiVQkKu/nd5PHuy2Vb86OAKzM8AJz+9Ou30yQYK99P3hKVQC0kmLMHtznh2LZF94/ekm73FISvm24poly8FrcyDITjNw66z2qwHedPNKx4VePNCkJyiA==;pShPd8PS9KXpwv9SJcRbNg=="
 ---
 

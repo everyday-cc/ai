@@ -24,75 +24,38 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence in Healthcare market Size, Share, Value, And Competitive Landscape 2021-2026"
-    excerpt: "Artificial intelligence (AI) is the collection of computer programs or algorithms or software to make machines smarter"
-    publishedDateTime: 2021-07-06T07:07:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-size-share-value-and-competitive-landscape-2021-2026-2021-07-06"
+  - title: "automotive self driving chip Industry Updates 2021: Global Market by COVID-19 Impact Analysis"
+    excerpt: "Global Market Research Report on automotive self driving chip Market 2021 is a professional and in-depth complete study on the current state of the automotive self driving chip worldwide. It estimates and forecasts the market,"
+    publishedDateTime: 2021-07-08T20:01:00Z
+    webUrl: "https://manometcurrent.com/automotive-self-driving-chip-industry-updates-2021-global-market-by-covid-19-impact-analysis/"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 69
+      name: manometcurrent.com
+      domain: manometcurrent.com
+    quality: 45
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://manometcurrent.com/wp-content/uploads/2021/07/Facial-Rejuvenation-Market-390x220.jpg"
+        width: 390
+        height: 220
         isCached: true
-  - title: "5 healthcare AI deals made in 2021"
-    excerpt: "Below are five of the biggest healthcare AI deals Becker's Hospital Review has reported on in 2021: Microsoft will buy speech recognition company Nuance Communications in an all-cash transaction valued at $19."
-    publishedDateTime: 2021-07-06T21:34:00Z
-    webUrl: "https://www.beckershospitalreview.com/artificial-intelligence/5-healthcare-ai-deals-made-in-2021.html"
-    type: article
-    provider:
-      name: Becker's Hospital Review
-      domain: beckershospitalreview.com
-    quality: 54
-    images:
-      - url: "https://www.beckershospitalreview.com/images/channels/artificial-intelligence/5.jpg"
-        width: 400
-        height: 300
-        isCached: true
-  - title: "Global Healthcare AI Startups Development and Deployment Strategies Report 2021 - ResearchAndMarkets.com"
-    excerpt: "The “Development of Global Healthcare AI Startups and Their Deployment Strategies” report has been added to ResearchAndMarkets.com’s offering. This report provides an overview of the development of healthcare AI startups by compiling the amount of capital raised by AI startups and the number of AI startups in different sub-sectors;"
-    publishedDateTime: 2021-07-08T14:37:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/e1e2076e603943459d6db2c8afbcbfbd"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 37
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
-  - title: "Global Healthcare Artificial Intelligence Market Size, Status and Forecast 2021-2027"
-    excerpt: "Pages Report] Check for Discount on Global Healthcare Artificial Intelligence Market Size, Status and Forecast 2021-2027 report by QYResearch Group. AI in healthcare has huge and wide reaching potential"
-    publishedDateTime: 2021-07-09T07:53:00Z
-    webUrl: "https://www.reportsnreports.com/reports/4655759-global-healthcare-artificial-intelligence-market-size-status-and-forecast-2021-2027.html"
+  - title: "Global Machine Learning in Medical Imaging Market Size, Status and Forecast 2021-2027"
+    excerpt: "Medical imaging analytics tools become more readily available, providers are likely to find strong incentives to investigate the best way to integrate artificial intelligence/machine learning into their imaging strategies. Machine Learning in Medical ..."
+    publishedDateTime: 2021-07-09T07:46:00Z
+    webUrl: "https://www.reportsnreports.com/reports/4655615-global-machine-learning-in-medical-imaging-market-size-status-and-forecast-2021-2027.html"
     type: article
     provider:
       name: ReportsnReports
       domain: reportsnreports.com
-    quality: 27
-  - title: "Global Machine Learning Artificial intelligence Market Size, Status and Forecast 2021-2027"
-    excerpt: "Pages Report] Check for Discount on Global Machine Learning Artificial intelligence Market Size, Status and Forecast 2021-2027 report by QYResearch Group. Market Analysis and Insights: Global Machine Learning Artificial intelligence"
-    publishedDateTime: 2021-07-06T08:48:00Z
-    webUrl: "https://www.reportsnreports.com/reports/4646722-global-machine-learning-artificial-intelligence-market-size-status-and-forecast-2021-2027.html"
+    quality: 12
+  - title: "COVID-19 Impact Analysis of Self-driving Ships Market Report 2021 | Kongsberg, Rolls-Royce, ASV, DARPA, NYK Line"
+    excerpt: "Global Self-driving Ships Market research report provides the latest manufacturing data and future trends, enabling you to recognize results, revenue growth, and profitability. This industry report lists the top competitors and provides revolutionary strategic analysis of the key drivers of the market."
+    publishedDateTime: 2021-07-07T14:48:00Z
+    webUrl: "https://manometcurrent.com/covid-19-impact-analysis-of-self-driving-ships-market-report-2021-kongsberg-rolls-royce-asv-darpa-nyk-line/"
     type: article
     provider:
-      name: ReportsnReports
-      domain: reportsnreports.com
-    quality: 24
-  - title: "Global Machine Learning in Automobile Market Size, Status and Forecast 2021-2027"
-    excerpt: "Pages Report] Check for Discount on Global Machine Learning in Automobile Market Size, Status and Forecast 2021-2027 report by QYResearch Group. Machine learning in the automotive industry has a remarkable"
-    publishedDateTime: 2021-07-09T07:52:00Z
-    webUrl: "https://www.reportsnreports.com/reports/4655617-global-machine-learning-in-automobile-market-size-status-and-forecast-2021-2027.html"
-    type: article
-    provider:
-      name: ReportsnReports
-      domain: reportsnreports.com
-    quality: 14
+      name: manometcurrent.com
+      domain: manometcurrent.com
+    quality: 0
 
 secured: "FRcrzBIfR9Evjw+Tx8WnR1GkXn0Y3X1R63iAwRK12az+911HI2quPHhKftLJqPb4gknkArpwHZ7UiLL0VeMrCjLW+hgkE+1dkU8/Ok9oM4faW422Dg6+nB5V83cZOC9Zv0y9XMmtl+YfDkkOIC/XWf/NahMGVUvxgORcXoVtCwCuTCe1p0liWyis9306Vp1HuSMp6DxWAKysspAxuIi41kjGoTJ7QY78cXzvQmZqpm7HI+u960MjAnq+5xWOTXCV5jt52IqrGfYGiXmXZm6yDLtFv+gIMk28lSDcqFcKL9D+/nRlw1FrPSzAHKPCVfh32JhayHt8E+O0UEUezS/9wEFU7krHHbEjxuOsYgsgDH4=;vG2t6oG6WF79n1vvOXSfSQ=="
 ---

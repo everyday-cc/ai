@@ -35,22 +35,6 @@ related:
         width: 1200
         height: 774
         isCached: true
-  - title: "Self-driving trucks are all set to do the heavy lifting at Abu Dhabi Ports"
-    excerpt: "Dubai: Self-driving trucks? Yes, Abu Dhabi Ports have them. The CSP Abu Dhabi container terminal will be the first in the Middle East to launch an autonomous port truck system. What this means is that six electric Q-Trucks will be commissioned by the Terminal in support of the mother vessel’s loading and unloading activities within the facility’s container yard."
-    publishedDateTime: 2021-07-06T07:20:00Z
-    webUrl: "https://gulfnews.com/business/markets/self-driving-trucks-are-all-set-to-do-the-heavy-lifting-at-abu-dhabi-ports-1.1625556046236"
-    ampWebUrl: "https://gulfnews.com/amp/business/markets/self-driving-trucks-to-do-the-heavy-lifting-at-abu-dhabi-ports---first-such-in-middle-east-1.1625556046236"
-    cdnAmpWebUrl: "https://gulfnews-com.cdn.ampproject.org/c/s/gulfnews.com/amp/business/markets/self-driving-trucks-to-do-the-heavy-lifting-at-abu-dhabi-ports---first-such-in-middle-east-1.1625556046236"
-    type: article
-    provider:
-      name: Gulf News
-      domain: gulfnews.com
-    quality: 42
-    images:
-      - url: "https://imagevars.gulfnews.com/2021/07/06/Stock---Abu-Dhabi-Ports_17a7ab27ba2_large.jpg"
-        width: 750
-        height: 563
-        isCached: true
 
 secured: "WNqmoodWFcgiVDdOKmqmOVzJ97aeXBjmVfBmcTRNYZfwoZlZcM6OKGr/u/Uyo5Cv+pIqt0spNXEu+G+Zu9xV+s/uckbZirr26k58f49RmEZiwtNQUoQ1wcD201jBvLn0dE9H4ltv3JpVTFKzOCoOrlZPtuwbMboOm1NK98h0CaDJtzjPk9K8XIQ58nGjs8NeKGvFZD7+OtonmWJGc7e2rgxXKAh8C/mGK0L+YvTiRkDJHxELGwrBLnbn1O8xIk1FLzvpKdQHTDlei7OgjUalKtFJq4ver2+LFHaHWaX/6RJIvc5rQ2TkzwBh+LvSBdfh8qGlwkokXFYNWDWQHeQh7jcI06NYWIRw3BaMu7ZPAEo=;8ll1RaVECVJqpQdf1q7/BQ=="
 ---

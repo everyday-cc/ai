@@ -23,6 +23,17 @@ images:
     height: 1414
     isCached: true
 
+related:
+  - title: "New Study Shows APAC Organizations Investing More, Making Maturity Gains in AI"
+    excerpt: "Underscoring the research is the finding that nearly twice as many companies have now started their AI journey in 2020 compared to 2019, and those that have already started are showing more AI maturity,"
+    publishedDateTime: 2021-07-06T11:46:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2021/07/06/9403188.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 13
+
 secured: "1kBgXczehtzecwpbyK8br7YwelDTwSyBYFco4VjFIMVoS575mihJgit1vqmgYSiTgFrJKjg3PMEldiAYAxhxKwSN8xuxDute+qHyptwC3YueCRoIihui1M2lDXrpjPY4ztc0/NfO9v2JQ4eWBIl5NwncQ19Dlv0aQkJFw8Pv7WdCh73fBgGNQursbZu+DNPq89MSx8MQPGGVkBBo64AjX6vUjoQmxz6T6pP68W6ZlHwTdTjcZL8XYVc5cE4mKAXKge65rN6vU9dqhm8WWtgSZ4edo3VLOJiSibtYdORy/r0UbXr55hpn2weMxEeS7+Nw9D9lC1AJwXjtsPcIcoej0GS4RIbDRxI5io8kAD3c1CE=;0whRiDYc5gvf4LiD3aVKKA=="
 ---
 

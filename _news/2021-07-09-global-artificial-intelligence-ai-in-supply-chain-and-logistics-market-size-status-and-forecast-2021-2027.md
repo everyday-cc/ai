@@ -57,6 +57,15 @@ related:
       name: manometcurrent.com
       domain: manometcurrent.com
     quality: 34
+  - title: "Artificial Intelligence (AI) in Construction Market SWOT Analysis by Size, Status and Forecast to 2021-2027"
+    excerpt: "Latest published market study on Global Artificial Intelligence (AI) in Construction Market provides an overview of the current market dynamics in the Artificial Intelligence (AI) in Construction space,"
+    publishedDateTime: 2021-07-11T01:39:00Z
+    webUrl: "https://manometcurrent.com/artificial-intelligence-ai-in-construction-market-swot-analysis-by-size-status-and-forecast-to-2021-2027/"
+    type: article
+    provider:
+      name: manometcurrent.com
+      domain: manometcurrent.com
+    quality: 14
 
 secured: "/cM8tRD7AcZWuNUaJRLqfBnWTGgDPjxuWFetiD7BLbtGEIdijrwBS98X5uZFGzOjSeoEake4//qYHiQVBjHagx1eaeB6W2Y1cnUzBBa4FPZuLTmw39vnxD6gdVy8JR2nTkZ/lqiOhKvMaHNu5pIKxQB1l5WD6i23KdI5O7A1nLQ0Z7w7hY5cWZdh+6PwpuqMrWcZ1USkIqZIvaEfSSWDwe/FhODx7bpvHWD9ZALaJ23rr6SNirEFAZu5grCql685vnGYUCV+HXSrwZS190SnDFLArcsZnb4pAtWmoBVS8zK9pYahunvFOP8Z5bAwfPNYBreoAh01LxG0Yf4FbDesLo+db72CN1YyfOf9nR6x6Q0=;0aG2bMnthSlsuodF0NzEGw=="
 ---

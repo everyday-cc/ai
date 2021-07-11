@@ -9,7 +9,7 @@ ampWebUrl: "https://www.openpr.com/amp/2325607/artificial-intelligence-ai-in-oil
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2325607/artificial-intelligence-ai-in-oil-and-gas-market-is-set-to-fly"
 type: article
 quality: 66
-heat: 96
+heat: 106
 published: true
 
 provider:
@@ -50,6 +50,15 @@ related:
       name: manometcurrent.com
       domain: manometcurrent.com
     quality: 34
+  - title: "Artificial Intelligence (AI) in Construction Market SWOT Analysis by Size, Status and Forecast to 2021-2027"
+    excerpt: "Latest published market study on Global Artificial Intelligence (AI) in Construction Market provides an overview of the current market dynamics in the Artificial Intelligence (AI) in Construction space,"
+    publishedDateTime: 2021-07-11T01:39:00Z
+    webUrl: "https://manometcurrent.com/artificial-intelligence-ai-in-construction-market-swot-analysis-by-size-status-and-forecast-to-2021-2027/"
+    type: article
+    provider:
+      name: manometcurrent.com
+      domain: manometcurrent.com
+    quality: 14
   - title: "Global Artificial intelligence (AI) in Supply Chain and Logistics Market Size, Status and Forecast 2021-2027"
     excerpt: "Pages Report] Check for Discount on Global Artificial intelligence (AI) in Supply Chain and Logistics Market Size, Status and Forecast 2021-2027 report by QYResearch Group. Market Analysis and Insights: Global Artificial intelligence (AI) in"
     publishedDateTime: 2021-07-09T08:01:00Z

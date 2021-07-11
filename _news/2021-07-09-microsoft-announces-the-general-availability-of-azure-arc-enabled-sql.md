@@ -7,7 +7,7 @@ originalUrl: "https://www.infoq.com/news/2021/07/azure-arc-enabled-sql/"
 webUrl: "https://www.infoq.com/news/2021/07/azure-arc-enabled-sql/"
 type: article
 quality: 69
-heat: 149
+heat: 139
 published: true
 
 provider:
@@ -92,15 +92,6 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "Reply Shapes the Future of Autonomous Mobile Robots with the Power of Microsoft Azure"
-    excerpt: "The solution combines Microsoft Azure services ... Reply integrates Azure Cognitive Services, Machine Learning and DevOps as well as Power Apps and Power BI. Thanks to Azure's intelligent service ..."
-    publishedDateTime: 2021-07-06T07:38:00Z
-    webUrl: "https://www.morningstar.com/news/business-wire/20210706005133/reply-shapes-the-future-of-autonomous-mobile-robots-with-the-power-of-microsoft-azure"
-    type: article
-    provider:
-      name: Morningstar%2c Inc.
-      domain: morningstar.com
-    quality: 27
   - title: "Insight Wins 2021 Microsoft Worldwide Partner of the Year Awards for Azure Migration and Solution Assessments"
     excerpt: "Insight Enterprises (NASDAQ:NSIT), the global provider of Insight Intelligent Technology Solutions™ for organizations of all sizes, today announced it has won two 2021 Microsoft ( News - Alert) Worldwide Partner of the Year Awards as Migration to Azure Partner of the Year and Solution Assessments Partner of the Year."
     publishedDateTime: 2021-07-09T16:07:00Z

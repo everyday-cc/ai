@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/bradtempleton/2021/07/08/self-driving-t
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bradtempleton/2021/07/08/self-driving-teams-have-always-strived-to-measure-safety--what-if-thats-not-the-hard-thing/amp/"
 type: article
 quality: 63
-heat: 83
+heat: 73
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Self-driving trucks are all set to do the heavy lifting at Abu Dhabi Ports"
-    excerpt: "Dubai: Self-driving trucks? Yes, Abu Dhabi Ports have them. The CSP Abu Dhabi container terminal will be the first in the Middle East to launch an autonomous port truck system. What this means is that six electric Q-Trucks will be commissioned by the Terminal in support of the mother vessel’s loading and unloading activities within the facility’s container yard."
-    publishedDateTime: 2021-07-06T07:20:00Z
-    webUrl: "https://gulfnews.com/business/markets/self-driving-trucks-are-all-set-to-do-the-heavy-lifting-at-abu-dhabi-ports-1.1625556046236"
-    ampWebUrl: "https://gulfnews.com/amp/business/markets/self-driving-trucks-to-do-the-heavy-lifting-at-abu-dhabi-ports---first-such-in-middle-east-1.1625556046236"
-    cdnAmpWebUrl: "https://gulfnews-com.cdn.ampproject.org/c/s/gulfnews.com/amp/business/markets/self-driving-trucks-to-do-the-heavy-lifting-at-abu-dhabi-ports---first-such-in-middle-east-1.1625556046236"
-    type: article
-    provider:
-      name: Gulf News
-      domain: gulfnews.com
-    quality: 42
-    images:
-      - url: "https://imagevars.gulfnews.com/2021/07/06/Stock---Abu-Dhabi-Ports_17a7ab27ba2_large.jpg"
-        width: 750
-        height: 563
-        isCached: true
   - title: "Elon Musk Just Now Realizing that Self-driving Cars are a ‘Hard Problem’"
     excerpt: "Tesla CEO Elon Musk is finally admitting that he underestimated how difficult it is to develop a safe and reliable self-driving car. To which the entire engineering community rose up as one to say, \"No duh."
     publishedDateTime: 2021-07-06T20:04:00Z

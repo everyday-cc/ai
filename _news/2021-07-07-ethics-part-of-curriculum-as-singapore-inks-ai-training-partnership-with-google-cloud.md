@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/ethics-part-of-curriculum-a
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ethics-part-of-curriculum-as-singapore-inks-ai-training-partnership-with-google-cloud/"
 type: article
 quality: 79
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -26,15 +26,6 @@ topics:
   - Microsoft AI
 
 related:
-  - title: "Singapore AI startup launches Covid-19 tracker in the Philippines"
-    excerpt: "Named Data Natin, which means “our data” in Tagalog, the tracker is now in use in the Philippines, which currently has one of the highest Covid-19 caseloads in Southeast Asia. It uses publicly available data to track and showcase information,"
-    publishedDateTime: 2021-07-06T08:02:00Z
-    webUrl: "https://www.techinasia.com/singapore-ai-sqreen-data-natin"
-    type: article
-    provider:
-      name: Techinasia
-      domain: techinasia.com
-    quality: 47
   - title: "Google Cloud ties up with AI Singapore on skills training"
     excerpt: "Laurence Liew, director for innovation and maker space at AI Singapore, said the partnership with Google Cloud is not exclusive, adding that there are projects in the 100 Experiments initiative which run on Amazon Web Services and Microsoft Azure."
     publishedDateTime: 2021-07-07T02:04:00Z

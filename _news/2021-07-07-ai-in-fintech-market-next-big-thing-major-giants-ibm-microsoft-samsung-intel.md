@@ -62,22 +62,6 @@ related:
         width: 750
         height: 500
         isCached: true
-  - title: "New Fintech Startups to Watch In 2021"
-    excerpt: "Consumers expect more than just a transaction with minimal interaction when engaging with their financial products."
-    publishedDateTime: 2021-07-06T07:52:00Z
-    webUrl: "https://www.financemagnates.com/thought-leadership/new-fintech-startups-to-watch-in-2021/"
-    ampWebUrl: "https://www.financemagnates.com/thought-leadership/new-fintech-startups-to-watch-in-2021/amp/"
-    cdnAmpWebUrl: "https://www-financemagnates-com.cdn.ampproject.org/c/s/www.financemagnates.com/thought-leadership/new-fintech-startups-to-watch-in-2021/amp/"
-    type: article
-    provider:
-      name: Finance Magnates
-      domain: financemagnates.com
-    quality: 44
-    images:
-      - url: "https://www.financemagnates.com/wp-content/uploads/2021/07/fintech-header.jpg"
-        width: 880
-        height: 400
-        isCached: true
   - title: "Fintech for a Better Future: 5 Trends that Are Improving Financial Service"
     excerpt: "For many people, financial technology is somewhat incidental. It’s a passing part of daily life: we interact with fintech when we send money online, check our bank balances with our mobile phones, or use an app to buy cryptocurrency."
     publishedDateTime: 2021-07-06T09:54:00Z
@@ -107,20 +91,6 @@ related:
       - url: "https://www.cybersecurityintelligence.com/files/upload/htmleditor/ezgif.com-gif-maker%20-%202021-07-06T152822.400.png"
         width: 398
         height: 375
-        isCached: true
-  - title: "Blockchain, Fintech and VFA revolution"
-    excerpt: "The Malta Financial Services Authority (MFSA) last year introduced its FinTech Regulatory Sandbox, which provides a controlled regulatory environment where FinTech operators may test their innovations"
-    publishedDateTime: 2021-07-06T08:39:00Z
-    webUrl: "https://www.independent.com.mt/articles/2021-07-06/business-news/Blockchain-Fintech-and-VFA-revolution-6736234977"
-    type: article
-    provider:
-      name: The Malta Independent
-      domain: independent.com.mt
-    quality: 39
-    images:
-      - url: "https://www.independent.com.mt/file.aspx?f=216430"
-        width: 709
-        height: 532
         isCached: true
   - title: "Rise by Barclays: Embedded finance and the future of fintech"
     excerpt: "Mariquit Corcoran, Group CIO at Barclays, contextualises the benefits that embedded finance is bringing to customers and how it could shape fintech overall"

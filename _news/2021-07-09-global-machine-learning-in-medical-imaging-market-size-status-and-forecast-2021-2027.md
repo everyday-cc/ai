@@ -33,19 +33,19 @@ related:
         width: 390
         height: 220
         isCached: true
-  - title: "Deep Learning Market Size 2021 Global Industry Trends, Segments, Competitors Strategy, Regional Analysis, Key Players, Statistics and Growth to 2030"
-    excerpt: "Facebook announced the launch of its deep learning framework PyTorch 1.0. The framework includes a set of tools which makes it more compatible with platforms like Google Cloud, Amazon Web Services, and Microsoft's Azure Machine Learning. In October 2018 ..."
-    publishedDateTime: 2021-07-07T03:35:00Z
-    webUrl: "https://www.marketwatch.com/press-release/deep-learning-market-size-2021-global-industry-trends-segments-competitors-strategy-regional-analysis-key-players-statistics-and-growth-to-2030-2021-07-06"
+  - title: "Global Conversational AI Market 2021-2026: Competitive Analysis, Impact of COVID-19, Ansoff Analysis - ResearchAndMarkets.com"
+    excerpt: "The “Global Conversational AI Market (2021-2026) by Type, Distribution Channel, Application and Geography - Competitive Analysis, Impact of COVID-19, Ansoff Analysis” report has been added to ResearchAndMarkets.com’s offering. The Global ..."
+    publishedDateTime: 2021-07-09T09:07:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/business-technology-0570205e10ea434e99a88642106e8f36"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 32
+      name: Associated Press
+      domain: apnews.com
+    quality: 10
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
   - title: "COVID-19 Impact Analysis of Self-driving Ships Market Report 2021 | Kongsberg, Rolls-Royce, ASV, DARPA, NYK Line"
     excerpt: "Global Self-driving Ships Market research report provides the latest manufacturing data and future trends, enabling you to recognize results, revenue growth, and profitability. This industry report lists the top competitors and provides revolutionary strategic analysis of the key drivers of the market."

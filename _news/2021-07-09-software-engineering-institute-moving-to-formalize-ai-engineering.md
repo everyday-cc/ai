@@ -24,19 +24,21 @@ images:
     isCached: true
 
 related:
-  - title: "AI’s Role in Debugging Software Code Is Expected to Grow"
-    excerpt: "Intel, Amazon Web Services and Microsoft are offering or building artificial-intelligence-based tools that can find and fix software problems."
-    publishedDateTime: 2021-07-06T08:30:00Z
-    webUrl: "https://www.wsj.com/articles/ais-role-in-debugging-software-code-is-expected-to-grow-11625563802"
+  - title: "FBI: Businesses Need AI To Curb Social Engineering, Phishing Fraud"
+    excerpt: "An FBI special agent discusses how merchants and businesses can deploy AI and MFA in the most effective manner to keep their remote employees safe."
+    publishedDateTime: 2021-07-07T08:00:00Z
+    webUrl: "https://www.pymnts.com/fraud-prevention/2021/fbi-ai-mfa-social-engineering/"
+    ampWebUrl: "https://www.pymnts.com/fraud-prevention/2021/fbi-ai-mfa-social-engineering/amp/"
+    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/fraud-prevention/2021/fbi-ai-mfa-social-engineering/amp/"
     type: article
     provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 67
+      name: pymnts.com
+      domain: pymnts.com
+    quality: 57
     images:
-      - url: "https://images.wsj.net/im-363013/social"
-        width: 1279
-        height: 640
+      - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/07/Feature-Image-45-457x274.jpg"
+        width: 457
+        height: 274
         isCached: true
 
 secured: "IIYfHK9QUQ4IJj1XpUvkT4r1TWUT2R8Lqmwn9UlVNuBQMLTe1QIRyHix+P3uMxPV0FcCxhmtGeb0XpP6o6XKwVzKgi0Osn1sETy1hXDt5KtiSUar4RsiwkXNIUXSy6p0p4VEQ0qTZdE24tP4KdAdy1/d6tG7PRAEoLonOqPJcREBcrBB79P4qFB+Xl6pSIyt3NbO9L+gZPxvUmSHe0G+gONiIsS/ZrZqtOCHhqMXJ75H+0jBXdS76DM6Lao/uSB/3aqcRNpuxmAh0mygwWZrPBB+SN3OR5u7Pa5Km7bmYbbBIZSvPEYBqceEsCwgkFF/ZFurvzyVBRhXflvXwKLKWtj/6FyU92G8ah+mKGXGw5w=;TtGAMxgMdwMZZbU2jGanCw=="

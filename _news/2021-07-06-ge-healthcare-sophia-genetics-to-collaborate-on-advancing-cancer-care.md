@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/ge-healthcare-soph
 webUrl: "https://markets.businessinsider.com/news/stocks/ge-healthcare-sophia-genetics-to-collaborate-on-advancing-cancer-care-1030582479"
 type: article
 quality: 49
-heat: -1
+heat: 49
 published: false
 
 provider:
@@ -23,34 +23,6 @@ topics:
   - AI
 
 related:
-  - title: "Fueling Healthcare Ai With Adaptive Collaboration"
-    excerpt: "Our product-focused team is busy defining and building the platforms and tools required to rapidly integrate models into the clinical setting, to bring the power of AI to the physician’s fingertips. Our ability to execute on these disruptive,"
-    publishedDateTime: 2021-07-07T03:01:00Z
-    webUrl: "https://www.cioapplications.com/cxoinsights/fueling-healthcare-ai-with-adaptive-collaboration-nid-8084.html"
-    type: article
-    provider:
-      name: CIO Applications
-      domain: cioapplications.com
-    quality: 54
-    images:
-      - url: "https://www.cioapplications.com/newstransfer/upload/797zkiLkEKnaidu_ram_100533701.jpg"
-        width: 450
-        height: 308
-        isCached: true
-  - title: "Health systems link up with Olive to solve healthcare admin woes with AI"
-    excerpt: "An innovation institute run by six major health systems is teaming up with Olive to build AI-driven healthcare automation tools—here are the areas that they’ll prioritize to tighten up their finances."
-    publishedDateTime: 2021-07-09T19:31:00Z
-    webUrl: "https://www.emarketer.com/content/health-systems-link-up-with-olive-solve-healthcare-admin-woes-with-ai"
-    type: article
-    provider:
-      name: eMarketer
-      domain: emarketer.com
-    quality: 53
-    images:
-      - url: "https://contentstorage-nax1.emarketer.com/8d867d6bd09671db44822811ba18af8d/default-image-share.png"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "GE Healthcare collaborates with Sophia Genetics"
     excerpt: "GE Healthcare and Sophia Genetics have announced that they are collaborating to better target and match treatments to each patient's genomic profile and cancer type using artificial intelligence."
     publishedDateTime: 2021-07-06T21:30:00Z
@@ -65,33 +37,33 @@ related:
         width: 400
         height: 400
         isCached: true
-  - title: "Ai-Driven Care Coordination Advances Health Equity and Well-Being in Marginalized Communities"
-    excerpt: "A unique intelligent coordinated care system, C3S, is officially releasing its AI-driven platform 1.0, which will allow hospitals, health care providers and health"
-    publishedDateTime: 2021-07-08T11:30:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/ai-driven-care-coordination-advances-health-equity-and-well-being-in-marginalized-communities/article_d88add05-5d98-5ccd-a71d-522e75e091a4.html"
+  - title: "GE Healthcare, Sophia Genetics tag-team cancer care with patient-treatment matching tools"
+    excerpt: "The health tech powerhouses are joining forces to build an analytics platform that matches patients to the best possible treatment regimens for their specific genomic signature, cancer type and lifelong health record."
+    publishedDateTime: 2021-07-07T15:55:00Z
+    webUrl: "https://www.fiercebiotech.com/medtech/ge-healthcare-sophia-genetics-to-tag-team-cancer-care-patient-specific-treatment-matching"
     type: article
     provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 28
+      name: FierceBiotech
+      domain: fiercebiotech.com
+    quality: 30
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
-        width: 1280
-        height: 720
+      - url: "https://qtxasset.com/fiercebiotech/1625670483/GettyImages-641146680.jpg/GettyImages-641146680.jpg?FJkp5NJ1js76bF7kU66KNvXmkDUDY3tV"
+        width: 880
+        height: 587
         isCached: true
-  - title: "New cross-border collaboration to boost innovation in Artificial Intelligence and Information Technology"
-    excerpt: "The BT Ireland Innovation Centre at Ulster University and ADAPT Centre at DCU sign a new partnership agreement that aims to support research mobility and innovation The ADAPT Centre at Dublin City University (DCU) and the BT Ireland Innovation Centre (BTIIC) at Ulster University have recently signed a Memorandum of Understanding (MoU) to foster future research and development collaboration in the broad areas of."
-    publishedDateTime: 2021-07-06T12:02:00Z
-    webUrl: "https://www.ulster.ac.uk/news/2021/july/new-cross-border-collaboration-to-boost-innovation-in-artificial-intelligence-and-information-technology"
+  - title: "GE Healthcare and SOPHiA GENETICS to collaborate to match treatments to multimodal patient data and cancer type"
+    excerpt: "GE Healthcare and SOPHiA GENETICS today announced that they have signed a letter of intent to collaborate on advancing cancer care, with the goal of better targeting and matching treatments to each patient’s genomic profile and cancer type,"
+    publishedDateTime: 2021-07-06T11:13:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/genetics-coronavirus-pandemic-science-cancer-health-06b416803c69f36d937ef98a0bce67dd"
     type: article
     provider:
-      name: Ulster University
-      domain: ulster.ac.uk
-    quality: 20
+      name: Associated Press
+      domain: apnews.com
+    quality: 19
     images:
-      - url: "https://www.ulster.ac.uk/__data/assets/image/0007/907099/pexels-markus-spiske-1089438.jpg"
-        width: 850
-        height: 567
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
 
 secured: "eqUkbANjjYm6v6WMHLtzqvrLMYU6MX+Mso8UGpW8FbAdSyA4fr0snf6xwXvjrRxX6tjLweT+r9VGNsLESxBCO4Z8gRUiXR0Mmc5YNlXHgJQf/xYnBqlHxy3TVSTG0RntHNul9yZTshUuD22gyIaCzOOfS5lhVvYukhJV3vKbpqsqJzRRmuNYsZ6M7ScttmCat2Z7cBChWpYu3GaMZHOQO5FSTSRCrEWoqDPrYlnirqxiWqfvgKmn83CyUr8ViVfOcQMB3n0nqz7PPFA6Y927F1ZTEd135owHB5RmuyoPw2CyXMXa6xWhqTAo0/QLZTLy5d8lQs5hgajKAlPPlE+8H+HCL4pO7zhsEbDI2v+P0Y8=;wmPlAyyHjR7aIzFuHiDlqw=="

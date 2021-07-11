@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "5 healthcare AI deals made in 2021"
+    excerpt: "Below are five of the biggest healthcare AI deals Becker's Hospital Review has reported on in 2021: Microsoft will buy speech recognition company Nuance Communications in an all-cash transaction valued at $19."
+    publishedDateTime: 2021-07-06T21:34:00Z
+    webUrl: "https://www.beckershospitalreview.com/artificial-intelligence/5-healthcare-ai-deals-made-in-2021.html"
+    type: article
+    provider:
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 54
+    images:
+      - url: "https://www.beckershospitalreview.com/images/channels/artificial-intelligence/5.jpg"
+        width: 400
+        height: 300
+        isCached: true
   - title: "Fueling Healthcare Ai With Adaptive Collaboration"
     excerpt: "Our product-focused team is busy defining and building the platforms and tools required to rapidly integrate models into the clinical setting, to bring the power of AI to the physician’s fingertips. Our ability to execute on these disruptive,"
     publishedDateTime: 2021-07-07T03:01:00Z
@@ -39,56 +53,19 @@ related:
         width: 450
         height: 308
         isCached: true
-  - title: "GE Healthcare, SOPHiA GENETICS To Collaborate On Advancing Cancer Care"
-    excerpt: "GE Healthcare and SOPHiA GENETICS said that they have signed a letter of intent to collaborate on advancing cancer care, with the"
-    publishedDateTime: 2021-07-06T14:50:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/ge-healthcare-sophia-genetics-to-collaborate-on-advancing-cancer-care-1030582479"
+  - title: "Will AI Be the Next Frontier in Behavioral Health?"
+    excerpt: "Johannes Eichstaedt, Ph.D., a psychologist at Stanford University, has worked with AI detection-screening systems and gave them a C grade for accuracy in his comments to The Guardian. Algorithms can track a sequence of facial expressions or words,"
+    publishedDateTime: 2021-07-06T16:23:00Z
+    webUrl: "https://www.aha.org/aha-center-health-innovation-market-scan/2021-07-06-will-ai-be-next-frontier-behavioral-health"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 49
-  - title: "GE Healthcare collaborates with Sophia Genetics"
-    excerpt: "GE Healthcare and Sophia Genetics have announced that they are collaborating to better target and match treatments to each patient's genomic profile and cancer type using artificial intelligence."
-    publishedDateTime: 2021-07-06T21:30:00Z
-    webUrl: "https://www.auntminnie.com/index.aspx?sec=log&itemid=132842"
-    type: article
-    provider:
-      name: AuntMinnie
-      domain: auntminnie.com
-    quality: 39
+      name: aha.org
+      domain: aha.org
+    quality: 37
     images:
-      - url: "https://www.auntminnie.com/user/images/content_images/sup_aic/2019_12_09_17_23_6730_artificial_intelligence_AI_suit_400.jpg"
-        width: 400
-        height: 400
-        isCached: true
-  - title: "Ai-Driven Care Coordination Advances Health Equity and Well-Being in Marginalized Communities"
-    excerpt: "A unique intelligent coordinated care system, C3S, is officially releasing its AI-driven platform 1.0, which will allow hospitals, health care providers and health"
-    publishedDateTime: 2021-07-08T11:30:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/ai-driven-care-coordination-advances-health-equity-and-well-being-in-marginalized-communities/article_d88add05-5d98-5ccd-a71d-522e75e091a4.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 28
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "New cross-border collaboration to boost innovation in Artificial Intelligence and Information Technology"
-    excerpt: "The BT Ireland Innovation Centre at Ulster University and ADAPT Centre at DCU sign a new partnership agreement that aims to support research mobility and innovation The ADAPT Centre at Dublin City University (DCU) and the BT Ireland Innovation Centre (BTIIC) at Ulster University have recently signed a Memorandum of Understanding (MoU) to foster future research and development collaboration in the broad areas of."
-    publishedDateTime: 2021-07-06T12:02:00Z
-    webUrl: "https://www.ulster.ac.uk/news/2021/july/new-cross-border-collaboration-to-boost-innovation-in-artificial-intelligence-and-information-technology"
-    type: article
-    provider:
-      name: Ulster University
-      domain: ulster.ac.uk
-    quality: 20
-    images:
-      - url: "https://www.ulster.ac.uk/__data/assets/image/0007/907099/pexels-markus-spiske-1089438.jpg"
-        width: 850
-        height: 567
+      - url: "https://www.aha.org/sites/default/files/2021-07/ms_070621_item1_AI_BehavioralHealth_620%5B4%5D_1954500.jpg"
+        width: 620
+        height: 381
         isCached: true
 
 secured: "uRyxMF6+ub7frAwXHIUSTTvQ4YQC1ZOIT0VaQAYtUfPQVBWvv2xvkWRpunLXQC5nQgWhY7tFJvx2SYAMegnR81R4CTmhQ/r54BWG7tT1WH5dT4EL8+Ff01r23VdoU2narfeTyROmXtFNo4R8FhQJCrieaamx7lSuMRtp8effCXNHEtxtgI+WnPytsyio9QvWYg809RIxAGwMm7rWi2FacK1vs+wEFmMONDKDFxlDcQ8diljikH41p4dYOi1wvM2FbVM5edZOdMAGWzJ6X6cc3I1VLv0is00pabjk+T4fzxhnv0eUmJ0tAuQ9W/mVzblj1GuFWIqVxNdse8cdsQZdBaSYlzZ+m1QMRVhW9fkK4nk=;uHR1XjiS/kTyB+X5mvHRcQ=="
