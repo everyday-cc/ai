@@ -19,80 +19,77 @@ topics:
   - AI in Healthcare
 
 related:
-  - title: "Boosting Online Grocery Sales And Enhancing Merchandising Through AI"
-    excerpt: "If you’re trying to find an AI-driven inventory management solution that’s right for you, make sure the system you choose can keep up with customer demand in real time and can integrate seamlessly with your current POS system."
-    publishedDateTime: 2021-07-06T12:40:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/07/06/boosting-online-grocery-sales-and-enhancing-merchandising-through-ai/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/07/06/boosting-online-grocery-sales-and-enhancing-merchandising-through-ai/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/07/06/boosting-online-grocery-sales-and-enhancing-merchandising-through-ai/amp/"
+  - title: "Artificial Intelligence (AI) in Oil and Gas Market is Set To Fly High in Years to Come"
+    excerpt: "A new research document with title Artificial Intelligence AI in Oil and Gas Thematic Research covering detailed analysis Competitive landscape forecast and strategies The study covers geographic analysis that includes regions like North America U S Canada Mexico Europe Germany"
+    publishedDateTime: 2021-07-09T23:23:00Z
+    webUrl: "https://www.openpr.com/news/2325607/artificial-intelligence-ai-in-oil-and-gas-market-is-set-to-fly"
+    ampWebUrl: "https://www.openpr.com/amp/2325607/artificial-intelligence-ai-in-oil-and-gas-market-is-set-to-fly"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2325607/artificial-intelligence-ai-in-oil-and-gas-market-is-set-to-fly"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 104
+      name: openpr.com
+      domain: openpr.com
+    quality: 66
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60e307aa743e40c7cd049065%2F0x0.jpg"
-        width: 966
-        height: 643
+      - url: "https://cdn.openpr.com/U/7/U710307690_g.jpg"
+        width: 400
+        height: 300
         isCached: true
-  - title: "Transforming The Insurance Industry With Big Data, Machine Learning, And AI"
-    excerpt: "An emerging wave of “Insurtech” solutions companies are seeking to transform the business of insurance through the introduction of Big Data, Machine Learning, and AI capabilities."
-    publishedDateTime: 2021-07-06T22:21:00Z
-    webUrl: "https://www.forbes.com/sites/randybean/2021/07/06/transforming-the-insurance-industry-with-big-data-machine-learning-and-ai/"
-    ampWebUrl: "https://www.forbes.com/sites/randybean/2021/07/06/transforming-the-insurance-industry-with-big-data-machine-learning-and-ai/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/randybean/2021/07/06/transforming-the-insurance-industry-with-big-data-machine-learning-and-ai/amp/"
+  - title: "Artificial intelligence (AI) in Supply Chain and Logistics Market Will Generate Massive Revenue in Coming Years"
+    excerpt: "Jul 10, 2021 (Heraldkeepers) -- The latest independent research document on Global Artificial intelligence (AI) in Supply Chain and Logistics examine investment in Market. It describes how companies deploying these technologies across various industry ..."
+    publishedDateTime: 2021-07-11T01:14:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-supply-chain-and-logistics-market-will-generate-massive-revenue-in-coming-years-2021-07-10"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 102
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 64
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60e4d5d325abdbff999bebbe%2F0x0.jpg"
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
-        height: 600
+        height: 630
         isCached: true
-  - title: "Digital transformation fueling spending on cloud, AI, robotics, security and SaaS"
-    excerpt: "\"Emerging technologies like artificial intelligence, the Internet of Things ... are investing in key use cases like collaborative robotics, operational performance management, and 3D and digital product design and review for improved cost control and ..."
-    publishedDateTime: 2021-07-07T16:31:00Z
-    webUrl: "https://www.securitysystemsnews.com/article/digital-transformation-fueling-spending-on-cloud-ai-robotics-security-and-saas"
+  - title: "Artificial Intelligence (AI) in BFSI Market Shaping A New Growth Cycle"
+    excerpt: "HTF MI Published Latest Global  Study by in-depth analysis about current scenario, the Market size, demand, growth pattern, trends, and forecast. Revenue for  has grown substantially over the six years to 2020 as a result of strengthening macroeconomic conditions and healthier demand,"
+    publishedDateTime: 2021-07-10T17:50:00Z
+    webUrl: "https://manometcurrent.com/artificial-intelligence-ai-in-bfsi-market-shaping-a-new-growth-cycle/"
     type: article
     provider:
-      name: Security Systems News
-      domain: securitysystemsnews.com
-    quality: 81
-    images:
-      - url: "https://www.securitysystemsnews.com/uploads/blog/6dfcbb88d032e82b4366850eb1aeb8ef.jpg"
-        width: 1000
-        height: 576
-        isCached: true
-  - title: "Recycling using artificial intelligence and robotics"
-    excerpt: "Abhijeet Ghosh, 6th Grade, Dodgen Middle School, Marietta, Georgia, student looks to recycle waste using artificial intelligence (AI) and robotics. Abhijeet is very keen on recycling. Recycling reduces waste,"
-    publishedDateTime: 2021-07-08T09:21:00Z
-    webUrl: "https://www.worldofchemicals.com/media/recycling-using-artificial-intelligence-and-robotics/6261.html"
-    type: article
-    provider:
-      name: World Of Chemicals
-      domain: worldofchemicals.com
-    quality: 69
-    images:
-      - url: "https://www.worldofchemicals.com/newphase/image/Elite4.png"
-        width: 305
-        height: 320
-        isCached: true
-  - title: "Driveway Enhances Customer Shopping Experience with Affordability and AI Financing Guidance Features"
-    excerpt: "Driveway, reimagining the way consumers shop for and finance vehicles online, announced today three powerful new features now live on driveway.com. Driveway's upgraded shopping experience enables customers to shop and filter vehicles by monthly payment,"
-    publishedDateTime: 2021-07-06T11:25:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/driveway-enhances-customer-shopping-experience-with-affordability-and-ai-financing-guidance-features-1030581357"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
+      name: manometcurrent.com
+      domain: manometcurrent.com
     quality: 52
     images:
-      - url: "https://mma.prnewswire.com/media/1556961/PR_Driveway_photo_v2.jpg"
-        width: 400
-        height: 265
+      - url: "https://manometcurrent.com/wp-content/uploads/2021/07/Artificial-Intelligence-AI-in-BFSI-Market.jpeg"
+        width: 504
+        height: 336
         isCached: true
+  - title: "Artificial Intelligence (AI) in Automotive Market"
+    excerpt: "Latest added Artificial Intelligence (AI) in Automotive Market research study by MarketDigits offers detailed product outlook and elaborates market review till 2027. The market Study is segmented by key regions that is accelerating the marketization."
+    publishedDateTime: 2021-07-07T18:54:00Z
+    webUrl: "https://manometcurrent.com/artificial-intelligence-ai-in-automotive-market-analysis-by-key-players-end-users-and-cagr-forecast-to-2027-harman-international-industries-inc-honda-motor-co-ltd-ibm-corporation-intel-co/"
+    type: article
+    provider:
+      name: manometcurrent.com
+      domain: manometcurrent.com
+    quality: 34
+  - title: "Artificial Intelligence (AI) in Construction Market SWOT Analysis by Size, Status and Forecast to 2021-2027"
+    excerpt: "Latest published market study on Global Artificial Intelligence (AI) in Construction Market provides an overview of the current market dynamics in the Artificial Intelligence (AI) in Construction space,"
+    publishedDateTime: 2021-07-11T01:39:00Z
+    webUrl: "https://manometcurrent.com/artificial-intelligence-ai-in-construction-market-swot-analysis-by-size-status-and-forecast-to-2021-2027/"
+    type: article
+    provider:
+      name: manometcurrent.com
+      domain: manometcurrent.com
+    quality: 14
+  - title: "Global Artificial intelligence (AI) in Supply Chain and Logistics Market Size, Status and Forecast 2021-2027"
+    excerpt: "Pages Report] Check for Discount on Global Artificial intelligence (AI) in Supply Chain and Logistics Market Size, Status and Forecast 2021-2027 report by QYResearch Group. Market Analysis and Insights: Global Artificial intelligence (AI) in"
+    publishedDateTime: 2021-07-09T08:01:00Z
+    webUrl: "https://www.reportsnreports.com/reports/4656198-global-artificial-intelligence-ai-in-supply-chain-and-logistics-market-size-status-and-forecast-2021-2027.html"
+    type: article
+    provider:
+      name: ReportsnReports
+      domain: reportsnreports.com
+    quality: 13
 
 secured: "NRWPDYSavaGBcVvGm9egVnFnzRtU42J9zSS5Lf/l8g5Skb039lPVhbISSZWDih5PeuzlAmUKJIdb4RXBEdBh6kwAoknPB4QgVuE/xrFahTV5y1BDLfCT2gD/kQI0cV7j/dlhbiNj02jvp5FrmElqS77fvrYaQGGhrlKu0zhNBKYxW8MkRDyoGSkpTtNGhpfl5LVHNSNlv9IiZMtbvqbX85XDK4Qe9+1z7OnTqze35jAMWgCB7QcjQenNW62Dq0tYGiYfFOb4gKSjefm8TF6+ZIJyllVcowjW2DYltUlsIuv+antKuvRAayrJlcciXXVgRjQhHvBLftTXlvLodJuP+4pjC/EOvtsg2XoksF1SWDs=;JjqV0bHNEb+7i6Ff8bQTiA=="
 ---

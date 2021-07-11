@@ -34,20 +34,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Start small but think big when implementing AI, expert tells manufacturers"
-    excerpt: "While a number of large manufacturing companies have already embarked on their artificial intelligence (AI) and machine-learning journeys, many small firms are still at the starting gates. “There are challenges that come with implementing AI and one of the key ones is a lack of understanding of AI and its potential benefits as well as finding the right starting point."
-    publishedDateTime: 2021-07-06T11:16:00Z
-    webUrl: "https://www.imeche.org/news/news-article/start-small-but-think-big-when-implementing-ai-expert-tells-manufacturers"
-    type: article
-    provider:
-      name: Institution of Mechanical Engineers
-      domain: imeche.org
-    quality: 37
-    images:
-      - url: "https://imechewebresources.blob.core.windows.net/imeche-web-content/images/default-source/default-album/img_8204.jpg?sfvrsn=9bf39412_0&size=705"
-        width: 800
-        height: 450
-        isCached: true
 
 secured: "Qq+xw6O3oQ3VS0SZwdTP+BaGgpWCepWni5Tu+PzEr4stXs+mtT/vJQPDDeQSMNQeKeSSxThKCtUuvVyS793OsaljVpvAu0V4Qv/1SkXaBVhKC7UQGoK5XLSH68ABN35Zg1kgGaRJx9x4qUE3FjAGGYqcJajkkNem2NWItHI0lMn2NlnlJ7JEN9UKWXjoJALCi2WYFbO4t3QKHMs+PH+2a1JP4rwhEUj9wQ7PlMLLvGoQxo3ccSHUqG+mjWSruB2WmpwluybY0rMFSoQfFPy9lPe5FcZZsHOdBZ/cbYN17ldXPNyXPUWI5y79CHKZIhiPmzdj4mfdeXIcLgjN+uBDnNf2Vm38R9PevFPgjANSsEk=;sdKI8ZPFJPneizZgpVasfw=="
 ---

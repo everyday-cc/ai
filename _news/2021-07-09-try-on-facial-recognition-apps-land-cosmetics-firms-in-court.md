@@ -41,22 +41,6 @@ related:
         width: 2000
         height: 1000
         isCached: true
-  - title: "New test targets super-recognisers, high-performing facial recognition individuals"
-    excerpt: "Psychologists from UNSW Sydney have developed a new face identification ability test that will help find facial recognition experts for a variety of police and government agencies, including contract tracing."
-    publishedDateTime: 2021-07-06T12:20:00Z
-    webUrl: "https://medicalxpress.com/news/2021-07-super-recognisers-high-performing-facial-recognition-individuals.html"
-    ampWebUrl: "https://medicalxpress.com/news/2021-07-super-recognisers-high-performing-facial-recognition-individuals.amp"
-    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-07-super-recognisers-high-performing-facial-recognition-individuals.amp"
-    type: article
-    provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 53
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2021/face-off-for-best-id-c.jpg"
-        width: 1000
-        height: 667
-        isCached: true
   - title: "Bill Would Ban Facial Recognition in Public Housing"
     excerpt: "The proposal would also direct the Housing and Urban Development Department to conduct a comprehensive report on how the tech is used, why and its impact on tenants."
     publishedDateTime: 2021-07-07T18:12:00Z

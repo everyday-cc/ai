@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Apex Fintech Solutions Strengthens Executive Leadership Team with New C-Level Hires"
-    excerpt: "Apex Fintech Solutions LLC (\"Apex\" or the \"Company\"), the \"fintech for fintechs\" powering innovation and the future of digital wealth management, today announced the addition of two senior executives to its management team."
-    publishedDateTime: 2021-07-06T12:16:00Z
-    webUrl: "https://www.lelezard.com/en/news-19888398.html"
-    type: article
-    provider:
-      name: Le Lézard
-      domain: lelezard.com
-    quality: 18
-    images:
-      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
-        width: 640
-        height: 480
-        isCached: true
   - title: "Stevens and Rensselaer to establish the first-ever NSF-backed FinTech Research Center"
     excerpt: "Stevens Institute of Technology and Rensselaer Polytechnic Institute announced today that they have been awarded the first-ever National Science Foundation grant to create an industry-university cooperative research center devoted specifically to financial technology and science."
     publishedDateTime: 2021-07-08T04:00:00Z

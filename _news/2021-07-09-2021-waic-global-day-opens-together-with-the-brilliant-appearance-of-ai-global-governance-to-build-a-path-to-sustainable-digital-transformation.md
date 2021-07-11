@@ -1,10 +1,10 @@
 ---
 category: news
 title: "2021 WAIC Global Day opens together with the brilliant appearance of AI global governance, to build a path to sustainable digital transformation"
-excerpt: "WAIC was formally inaugurated at Shanghai Expo Center on July 8. On the theme of \"Intelligent Connectivity, Inspirational Cities\", 2021"
-publishedDateTime: 2021-07-09T07:42:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/2021-waic-global-day-opens-together-with-the-brilliant-appearance-of-ai-global-governance-to-build-a-path-to-sustainable-digital-transformation-1030592173"
-webUrl: "https://markets.businessinsider.com/news/stocks/2021-waic-global-day-opens-together-with-the-brilliant-appearance-of-ai-global-governance-to-build-a-path-to-sustainable-digital-transformation-1030592173"
+excerpt: "2021 WAIC Global Day event themed \"Global AI Governance\" was held at Shanghai Expo Center today. The scene of 2021 WAIC Global Day event, AI development helps with digital transformation 2021 WAIC ..."
+publishedDateTime: 2021-07-09T07:43:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/2021-waic-global-day-opens-together-with-the-brilliant-appearance-of-ai-global-governance-to-build-a-path-to-sustainable-digital-transformation-1030592204"
+webUrl: "https://markets.businessinsider.com/news/stocks/2021-waic-global-day-opens-together-with-the-brilliant-appearance-of-ai-global-governance-to-build-a-path-to-sustainable-digital-transformation-1030592204"
 type: article
 quality: 30
 heat: -1
@@ -43,6 +43,6 @@ related:
         height: 267
         isCached: true
 
-secured: "NnAv0FfjWyCrufGjxEyt/+FVsUarCqpOh2BUqtcQTq/eOfoSyuHAfazlZmKB2Bn8ZsXQz3lKj6u0Y8vQV0xddP8jefhl7rOXqQuTjGpkqEv4scy4NVcjuMALqTKuB75uw94qg3ENCmfFYNIdrivRZIyHwotzW+g+DZAgbq8Zjzxd6l5qs7A81B4R1WMgJrpxymONzj6ad6nXngNQ19NCP30cncb/hVGi3ZlnyZrDk+Sqw31iAkBEsHLuLAy5SyXrmz6gntkzIWbF3fMW1QSALQmowx/nU+TB+6t/mk1aVIa0aCLQDDKyLUcHgL8T+HM62YYtw1mP4MJMh0umwVSZDhcThYgprIYj8pDB8SYvUgY=;zsP864Acto8JVvfMERmyuw=="
+secured: "Q54VNHXQOSc4bZl510mVGIo6sxlKm0dS7v5WjkyxG04z7tCcHxTC/pTJbJT9GJz5gLRRrccbt5RB3bGfi+ZurEdp0N8a5/thSAZkhkm0Y1eaESNU4yg21hD4lx7epKfm2SGZL8jTY5vPcXyZ1Xyjv6jkrQzrMsfyjLdZSTQLTimbc4xF1kVqUmzvDMInLFO8USQh5KKppo+ltzHu7Bmc81/xtQQT/52ioFKm2etrB42IOGXSdZlkhdszTufkbhzlQJIEdxvLLHuxsHX4LzfEMuUTX/7sMEtqwgjAkoarX13EWXOimm+ef8KnS+KOwx0FFocyUChtkuqJqPeGvTQeAnBjnKxmUM9d18mjuArBa/c=;1Jh48RruTWefBzKdvINe1A=="
 ---
 

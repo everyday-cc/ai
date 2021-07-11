@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/garydrenik/2021/07/08/learn-about-machi
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/garydrenik/2021/07/08/learn-about-machine-learning-through-the-lens-of-a-hedge-fund/amp/"
 type: article
 quality: 93
-heat: 113
+heat: 103
 published: true
 
 provider:
@@ -33,22 +33,6 @@ images:
     isCached: true
 
 related:
-  - title: "Federated Learning and the Future of ML"
-    excerpt: "By sharing ML models and training data, organisations can power-up their ML projects. Now there’s a way to do it without compromising data privacy or security"
-    publishedDateTime: 2021-07-06T11:42:00Z
-    webUrl: "https://www.itpro.co.uk/technology/machine-learning/360102/federated-learning-and-the-future-of-ml"
-    ampWebUrl: "https://www.itpro.co.uk/technology/machine-learning/360102/federated-learning-and-the-future-of-ml?amp"
-    cdnAmpWebUrl: "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/technology/machine-learning/360102/federated-learning-and-the-future-of-ml?amp"
-    type: article
-    provider:
-      name: IT Pro
-      domain: itpro.co.uk
-    quality: 91
-    images:
-      - url: "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1625479772/machine_learning_artificial_intelligence.jpg"
-        width: 1260
-        height: 710
-        isCached: true
   - title: "Deep Learning Offers the Potential to Improve the Video Streaming Experience"
     excerpt: "In this contributed article, Christian Timmerer, Co-founder of Bitmovin, describes the findings of a recent paper that Timmerer and his team presented at IEEE’s International Conference on Communications and Image Processing which explores the use of Convoluted Neural Networks (CNNs) to improve video streaming."
     publishedDateTime: 2021-07-08T13:00:00Z

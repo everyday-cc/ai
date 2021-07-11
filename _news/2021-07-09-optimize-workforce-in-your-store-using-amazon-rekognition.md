@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/optimize-workforce-i
 webUrl: "https://aws.amazon.com/blogs/machine-learning/optimize-workforce-in-your-store-using-amazon-rekognition/"
 type: article
 quality: 106
-heat: 116
+heat: 106
 published: true
 
 provider:
@@ -28,22 +28,6 @@ images:
     width: 768
     height: 385
     isCached: true
-
-related:
-  - title: "Facial recognition: Tax pros mull returning to in-person meetings"
-    excerpt: "Absolutely — as people feel more comfortable, we anticipate having more live rather than virtual meetings and events,” said Daniel Morris, a CPA and senior partner with Morris+D’Angelo CPAs in San Jose,"
-    publishedDateTime: 2021-07-06T13:00:00Z
-    webUrl: "https://www.accountingtoday.com/news/facial-recognition-tax-pros-mull-returning-to-in-person-meetings"
-    type: article
-    provider:
-      name: Accounting Today
-      domain: accountingtoday.com
-    quality: 39
-    images:
-      - url: "https://arizent.brightspotcdn.com/b0/a1/9a53ebac4783bb22133d358a52d4/coronavirus-6-feet-sign.jpg"
-        width: 3998
-        height: 2667
-        isCached: true
 
 secured: "3DjXaz9Nqx8uMKqBKtJB+wlopu03W1agWPkKC+vCF4+36eLy1H3jbKJUcPxxQLIVy+4xjQMJJQw2xyUdAprk+1JyDjXhsfGJeqxfQBut2HBXellyzzRYlFh5sh+W59dlkUhP6jraFbHF+CpP+s9BFxK6n/OJ+7syf3fymS3bh9x73iFviDdNJPkiezAUcZoTOP+HwOa0gRrsW6Fb9mx42V4CEf8WJVDFqzD5EkvzA2O3egmEh+v8neMh/IDx4qcGVDjztDaTL0VG7fOVmJnw8ZJhVMmrt6rwqJMpZ22McBqBa2pXHyZkPNQ/As1A+9CZOvSppjpTc9KhMemkca4mlZQJNYZByE3GkxegaZb39tQ=;BQmFgbFqd0lCq2ALr9PD4w=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techrepublic.com/google-amp/article/ai-is-trying-to-prev
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ai-is-trying-to-prevent-online-shoppers-from-ditching-their-carts/"
 type: article
 quality: 87
-heat: 98
+heat: 88
 published: true
 
 provider:
@@ -28,19 +28,6 @@ images:
     width: 1200
     height: 675
     isCached: true
-
-related:
-  - title: "How AI Is Transforming the Healthcare Landscape & Accelerating the Development of Medicine"
-    excerpt: "The world of big data in the healthcare sector is vast and growing exponentially. Tools that leverage artificial intelligence (AI) and machine learning (ML) are critical to organizing, correlating, making sense of and generating useful discoveries from this avalanche of healthcare and medical data."
-    publishedDateTime: 2021-07-09T17:51:00Z
-    webUrl: "https://www.nasdaq.com/articles/how-ai-is-transforming-the-healthcare-landscape-accelerating-the-development-of-medicine"
-    ampWebUrl: "https://www.nasdaq.com/articles/how-ai-is-transforming-the-healthcare-landscape-accelerating-the-development-of-medicine?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/how-ai-is-transforming-the-healthcare-landscape-accelerating-the-development-of-medicine?amp"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 74
 
 secured: "YK6IXwV7o1tD1LEHXcd9xUg0P4jf9FdEKdbSHayJESgkkPsts2dyU+1K3vzsC++4BUNShdAmrKAJE5lmPNVorjyciR7JUR1sAFw+gN22B8pniFNiqGfuX7773szP6Bto/5eROW0XufOoMZJQbRHKSGxtExfyWStykoxBS6m+ioiEDLCOzPY+Y/l2AcF21vV0w39mmxGfjpVp+bMskFjSx4IO9r7DJHv1lrJ4Z1EM6g3gUo7dJCJRYhyC16bHpA4WB1F7abvWPVbMJkNxfgCyqrFTqYFQ8k7YoK08ZHtHjLFTwTKSeALNS7h+FQ7lm3pV++AvwPtlx9R5LMN23vAS6WRibkO9P5zsScy4q26PICI=;GMzB/oSV1fvbgr0dcp/hbg=="
 ---

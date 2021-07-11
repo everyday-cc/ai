@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesfinancecouncil/2021/07/09/how-man
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesfinancecouncil/2021/07/09/how-manufacturers-can-get-the-most-out-of-ai-based-erps-for-auditing-and-forecasting/amp/"
 type: article
 quality: 80
-heat: 100
+heat: 90
 published: true
 
 provider:
@@ -30,20 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Start small but think big when implementing AI, expert tells manufacturers"
-    excerpt: "While a number of large manufacturing companies have already embarked on their artificial intelligence (AI) and machine-learning journeys, many small firms are still at the starting gates. “There are challenges that come with implementing AI and one of the key ones is a lack of understanding of AI and its potential benefits as well as finding the right starting point."
-    publishedDateTime: 2021-07-06T11:16:00Z
-    webUrl: "https://www.imeche.org/news/news-article/start-small-but-think-big-when-implementing-ai-expert-tells-manufacturers"
-    type: article
-    provider:
-      name: Institution of Mechanical Engineers
-      domain: imeche.org
-    quality: 37
-    images:
-      - url: "https://imechewebresources.blob.core.windows.net/imeche-web-content/images/default-source/default-album/img_8204.jpg?sfvrsn=9bf39412_0&size=705"
-        width: 800
-        height: 450
-        isCached: true
   - title: "Global Artificial Intelligence (AI) in Manufacturing Market Size, Status and Forecast 2021-2027"
     excerpt: "Pages Report] Check for Discount on Global Artificial Intelligence (AI) in Manufacturing Market Size, Status and Forecast 2021-2027 report by QYResearch Group. Artificial intelligence technology is now making its way into manufacturing,"
     publishedDateTime: 2021-07-09T07:51:00Z

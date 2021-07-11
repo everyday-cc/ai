@@ -71,6 +71,15 @@ related:
       name: manometcurrent.com
       domain: manometcurrent.com
     quality: 34
+  - title: "Artificial Intelligence (AI) in Medical Market Expectation Surges with Rising Demand and Changing Trends"
+    excerpt: "This report contains market size and forecasts of Artificial Intelligence (AI) in Medical in Global, including the following market information: Global Artificial Intelligence (AI) in Medical Market Revenue,"
+    publishedDateTime: 2021-07-06T15:59:00Z
+    webUrl: "https://manometcurrent.com/artificial-intelligence-ai-in-medical-market-expectation-surges-with-rising-demand-and-changing-trends/"
+    type: article
+    provider:
+      name: manometcurrent.com
+      domain: manometcurrent.com
+    quality: 17
   - title: "Global Artificial intelligence (AI) in Supply Chain and Logistics Market Size, Status and Forecast 2021-2027"
     excerpt: "Pages Report] Check for Discount on Global Artificial intelligence (AI) in Supply Chain and Logistics Market Size, Status and Forecast 2021-2027 report by QYResearch Group. Market Analysis and Insights: Global Artificial intelligence (AI) in"
     publishedDateTime: 2021-07-09T08:01:00Z

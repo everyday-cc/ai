@@ -9,7 +9,7 @@ ampWebUrl: "https://www.news-medical.net/amp/news/20210709/New-stroke-rehabilita
 cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20210709/New-stroke-rehabilitation-pattern-based-on-brain-computer-interface-and-robot-technology.aspx"
 type: article
 quality: 65
-heat: 85
+heat: 75
 published: true
 
 provider:
@@ -40,20 +40,6 @@ related:
       - url: "https://www.eurekalert.org/multimedia/pub/web/270264_web.jpg"
         width: 720
         height: 474
-        isCached: true
-  - title: "Self-Driving Cars, Brain-Computer Interfaces, Other Cutting-Edge AI Tech to Be on Show in Shanghai"
-    excerpt: "State-of-the-art technologies including unmanned vehicles on the open road and brain-computer interface systems that transfer signals from the brain to external devices will be on display at the 2021 World Artificial Intelligence Conference to be held in Shanghai later this week."
-    publishedDateTime: 2021-07-06T11:23:00Z
-    webUrl: "https://www.yicaiglobal.com/news/self-driving-cars-brain-computer-interfaces-other-cutting-edge-ai-tech-to-be-on-show-in-shanghai"
-    type: article
-    provider:
-      name: Yicai Global
-      domain: yicaiglobal.com
-    quality: 25
-    images:
-      - url: "http://img.yicaiglobal.com/cdn/news/self-driving-cars-brain-computer-interfaces-other-cutting-edge-ai-tech-to-be-on-show-in-shanghai/14596832070205440.jpg"
-        width: 720
-        height: 480
         isCached: true
 
 secured: "nG8pS9Zh95PqS0adc1grbcgByONFQPRvnI2cT83OpNaqwuvDcw8b7yyR4dETTyfCOlrxdwIoy2fgbXgYJptJqQTYrvOTzbLyofSop3qRIAPamGVDI/f09hCLu+URSLklCveS/CUbOAXLkrzrMwHpQ+vuGygAh6mkuVlnSWPp4d+YV/NjBpP0WYiP5MCzlj0B5IKnQ/NMbepzrulrg9pEyBhejQBTb+qzFbMRZYJmhTIbgwcthnOc6+IKZ42Ms5uSwjGFO2WMznnYUn5wpXx6xJv8YAqnwwfCUNiqEeunOUTAXf50zbYTYiPP+Z6NnRyrj329nLz96i/udoWASLfMxSIbYKe5s/KSYLUpc5Of/+IoY/CkWJ1blT0uFLaXNXK+NOpNZPEQGVFNQA7jL+4u+lUSYIF3ChtdRL8O7FJiT/WtdByqZyVuCZvQpyQZQc9JtGKo5UNB1+ABhEaXOuA+UTKtNJjLX8I8r7JEJWeyP/Xzb+7Vc4tMobz4dfesM3oaG43oGFzlT30sAz+Y44i5mw==;QmzPFvLYFycGWTNBea7Q6w=="

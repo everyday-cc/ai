@@ -41,22 +41,6 @@ related:
         width: 640
         height: 251
         isCached: true
-  - title: "Federated Learning and the Future of ML"
-    excerpt: "By sharing ML models and training data, organisations can power-up their ML projects. Now there’s a way to do it without compromising data privacy or security"
-    publishedDateTime: 2021-07-06T11:42:00Z
-    webUrl: "https://www.itpro.co.uk/technology/machine-learning/360102/federated-learning-and-the-future-of-ml"
-    ampWebUrl: "https://www.itpro.co.uk/technology/machine-learning/360102/federated-learning-and-the-future-of-ml?amp"
-    cdnAmpWebUrl: "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/technology/machine-learning/360102/federated-learning-and-the-future-of-ml?amp"
-    type: article
-    provider:
-      name: IT Pro
-      domain: itpro.co.uk
-    quality: 91
-    images:
-      - url: "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1625479772/machine_learning_artificial_intelligence.jpg"
-        width: 1260
-        height: 710
-        isCached: true
 
 secured: "vjoCpDVSG7rksl2YqeoNqNpIAIccUOYdAghm92L8MN92hCwA7a/P2VN3qCGRSAAbVbKNuZ5fkD97LUWRGXJHSUrojUQfEFWUNzJrjIuTbTQce/X8NRALcwc1IEk5Smceuk9+qUQzl4LJgyK2EQ+oZX+D/51KefuJz2Dhv2+yFRbks1efvHMhpHc0M51lJyhg88AQ2adyobbAXmIdsKLqsvr73KD0Lmsgf0kCgGTgHCn2YqD0CckY5IIVPOiF7+CLdIavm4Mgq3UcUdBp32P/tWp3YQFL/Y+SOqloYCd45WoVe65z0OXGvBjxQaUnBFkVLhrCBx4LCMc9QRITBoUdF5BJ3b6aYP66MtiWbYLuEufx7pOcI6APNPhWEECtmSmmLwN2WOi+t25u5N9PtthBN4iuW4RILbnRCkTvEaUkO+pQeUCMkGK4j/z8w+WiSHFIEFgViCcr6aE59gRITSy6E/zhM7rBCT3JNdO6ihcy5c1uYm4gft7yiw2sZEf2ZGLV2ff+bqjvJ6MYci55SX7crA==;xYxgZsD9rEEC4VfAIej/dQ=="
 ---

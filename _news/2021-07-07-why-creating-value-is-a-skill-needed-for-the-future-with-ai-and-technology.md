@@ -40,20 +40,6 @@ related:
         width: 1000
         height: 1000
         isCached: true
-  - title: "Preparing The Office For The AI Revolution"
-    excerpt: "The challenge when talking about AI is that people tend to think of a takeover of the world where AI causes people’s roles and responsibilities to be made redundant and obsolete. However, it’s the cross-over of AI and how people behave in real life that will drive the most transformational benefits to businesses."
-    publishedDateTime: 2021-07-06T11:40:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/07/06/preparing-the-office-for-the-ai-revolution/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 67
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60e307158096349ee8effd21%2F0x0.jpg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "The ethics of artificial intelligence"
     excerpt: "While AI technologies have extraordinary potential for social and economic development, artificial intelligence presents complex and unique challenges to policymakers. AI raises significant concerns over bias,"
     publishedDateTime: 2021-07-06T15:29:00Z

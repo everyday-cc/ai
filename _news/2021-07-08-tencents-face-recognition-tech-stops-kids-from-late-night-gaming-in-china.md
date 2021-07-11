@@ -28,20 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Tencent Deploys Facial Recognition to Detect Minors Gaming at Night"
-    excerpt: "China’s gaming giant Tencent Games has launched one of the most-talked about — and controversial — means to curb excessive play time among children and teenagers so far: a time-sensitive facial recognition system. Starting Tuesday, the gaming ..."
-    publishedDateTime: 2021-07-06T11:42:00Z
-    webUrl: "https://www.sixthtone.com/news/1007915/tencent-deploys-facial-recognition-to-detect-minors-gaming-at-night-"
-    type: article
-    provider:
-      name: Sixth Tone
-      domain: sixthtone.com
-    quality: 139
-    images:
-      - url: "http://image5.sixthtone.com/image/5/41/132.jpg"
-        width: 2000
-        height: 1000
-        isCached: true
   - title: "Tencent Games uses facial recognition to restrict children’s screen time."
     excerpt: "The Chinese internet conglomerate Tencent said this week that it would deploy facial recognition technology in its video games in an attempt to close a loophole in restrictions aimed at limiting screen time."
     publishedDateTime: 2021-07-09T11:56:00Z
