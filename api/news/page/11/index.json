@@ -659,19 +659,19 @@
     {
       "path": "_news/2021-06-30-zoom-acquires-ai-translation-startup-kites.md",
       "title": "Zoom acquires AI translation startup Kites",
-      "excerpt": "The technology will be used to improve the video conferencing experience by providing real-time, multi-language translation capabilities for Zoom users, enabling the company to increase the ...",
+      "excerpt": "Zoom has announced the acquisition of Karlsruhe Information Technology Solutions (Kites) – a startup focused on the development of real-time AI-powered translation technologies. Founded in ...",
       "sourceUrl": null,
-      "webUrl": "https://www.itpro.co.uk/business-strategy/acquisition/360046/zoom-acquires-german-ai-startup-kites",
-      "originalUrl": "https://www.itpro.co.uk/business-strategy/acquisition/360046/zoom-acquires-german-ai-startup-kites",
+      "webUrl": "https://www.cloudpro.co.uk/collaboration/9142/zoom-acquires-ai-translation-startup-kites",
+      "originalUrl": "https://www.cloudpro.co.uk/collaboration/9142/zoom-acquires-ai-translation-startup-kites",
       "featuredContent": null,
       "highlight": null,
-      "heat": 229,
+      "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1610533973/itpro/ZoomLogo_shutterstock.jpg",
-          "width": 1260,
-          "height": 710,
+          "url": "https://cdn2.cloudpro.co.uk/sites/cloudprod7/files/2021/01/zoomlogo_shutterstock.jpg",
+          "width": 3500,
+          "height": 2500,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -679,23 +679,14 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.itpro.co.uk/business-strategy/acquisition/360046/zoom-acquires-german-ai-startup-kites?amp",
-      "cdnAmpWebUrl": "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/business-strategy/acquisition/360046/zoom-acquires-german-ai-startup-kites?amp",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
       "publishedDateTime": "2021-06-30T02:35:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "IT Pro",
-        "domain": "itpro.co.uk",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/itpro.co.uk-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "Cloud Pro",
+        "domain": "cloudpro.co.uk",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -760,49 +751,6 @@
       ]
     },
     {
-      "path": "_news/2021-06-30-chinas-didi-touts-tech-spending-ahead-of-wall-st-debut.md",
-      "title": "China's Didi touts tech spending ahead of Wall St debut",
-      "excerpt": "Early investors included Apple Inc., Japan’s Softbank, Alibaba and Chinese internet giants, Tencent Holding Ltd. and Baidu Inc. Didi ... into development of self-driving, electric vehicles ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.fox23.com/news/chinas-didi-touts/DBXXNMFWEYG4ZRLYZ7NRQERQJU/",
-      "originalUrl": "https://www.fox23.com/news/chinas-didi-touts/DBXXNMFWEYG4ZRLYZ7NRQERQJU/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cloudfront-us-east-1.images.arcpublishing.com/cmg/XL7AELWQMP6C5P7XEBRG6NG5AA.jpg",
-          "width": 5349,
-          "height": 3487,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.fox23.com/news/chinas-didi-touts/DBXXNMFWEYG4ZRLYZ7NRQERQJU/?outputType=amp",
-      "cdnAmpWebUrl": "https://www-fox23-com.cdn.ampproject.org/c/s/www.fox23.com/news/chinas-didi-touts/DBXXNMFWEYG4ZRLYZ7NRQERQJU/?outputType=amp",
-      "publishedDateTime": "2021-06-30T01:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox 23",
-        "domain": "fox23.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-06-30-voiceitt-app-for-atypical-speech-a-triumph-in-disability-co-design.md",
       "title": "Voiceitt App For Atypical Speech — A Triumph In Disability Co-Design",
       "excerpt": "Voiceitt, a new app that can interpret the atypical speech of individuals with communication difficulties, represents a true victory for user-centered co-design. Working alongside disability organizations across the world,",
@@ -851,6 +799,49 @@
       ],
       "topics": [
         "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-30-chinas-didi-touts-tech-spending-ahead-of-wall-st-debut.md",
+      "title": "China’s Didi touts tech spending ahead of Wall St debut",
+      "excerpt": "Chinese ride-hailing service Didi says it lost $5.5 billion over the past three years ahead of its U.S. stock market debut Wednesday but it's highlighting its global reach and investments in developing electric and self-driving cars.",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/892017a21181bc873a4e4599a6b30b0f",
+      "originalUrl": "https://apnews.com/892017a21181bc873a4e4599a6b30b0f",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/afs-prod/media/f4881df4ea264a1cae6cbf329deecf07/3000.jpeg",
+          "width": 3000,
+          "height": 1956,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-30T00:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
         "AI"
       ]
     },

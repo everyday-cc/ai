@@ -7,7 +7,7 @@ originalUrl: "https://www.securitysystemsnews.com/article/digital-transformation
 webUrl: "https://www.securitysystemsnews.com/article/digital-transformation-fueling-spending-on-cloud-ai-robotics-security-and-saas"
 type: article
 quality: 81
-heat: 121
+heat: 111
 published: true
 
 provider:
@@ -55,20 +55,6 @@ related:
       - url: "https://techbullion.com/wp-content/uploads/2021/07/emotion-AI.jpg"
         width: 838
         height: 475
-        isCached: true
-  - title: "Fueling Healthcare Ai With Adaptive Collaboration"
-    excerpt: "Our product-focused team is busy defining and building the platforms and tools required to rapidly integrate models into the clinical setting, to bring the power of AI to the physician’s fingertips. Our ability to execute on these disruptive,"
-    publishedDateTime: 2021-07-07T03:01:00Z
-    webUrl: "https://www.cioapplications.com/cxoinsights/fueling-healthcare-ai-with-adaptive-collaboration-nid-8084.html"
-    type: article
-    provider:
-      name: CIO Applications
-      domain: cioapplications.com
-    quality: 54
-    images:
-      - url: "https://www.cioapplications.com/newstransfer/upload/797zkiLkEKnaidu_ram_100533701.jpg"
-        width: 450
-        height: 308
         isCached: true
   - title: "Wobot.ai, the AI-powered Video Analytics Platform, Announces the Launch of a New SaaS-based and Simplified Version of its Product"
     excerpt: "Wobot.ai, the AI-powered video analytics platform, today announced the launch of a new SaaS-based and simplified version of its product. Wobot.ai is now"

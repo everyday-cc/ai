@@ -2,6 +2,60 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-07-08-learn-about-machine-learning-through-the-lens-of-a-hedge-fund.md",
+      "title": "Learn About Machine Learning Through The Lens Of A Hedge Fund",
+      "excerpt": "Artificial intelligence is widely discussed in CIO conversations down to IT resourcing meetings in companies today. There is a range of topics that enterprises are involved in from research to novel applications and enterprise product usage.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/garydrenik/2021/07/08/learn-about-machine-learning-through-the-lens-of-a-hedge-fund/",
+      "originalUrl": "https://www.forbes.com/sites/garydrenik/2021/07/08/learn-about-machine-learning-through-the-lens-of-a-hedge-fund/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 113,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60e5c717408017304b049065%2F0x0.jpg",
+          "width": 640,
+          "height": 251,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/garydrenik/2021/07/08/learn-about-machine-learning-through-the-lens-of-a-hedge-fund/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/garydrenik/2021/07/08/learn-about-machine-learning-through-the-lens-of-a-hedge-fund/amp/",
+      "publishedDateTime": "2021-07-08T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AWS AI",
+        "AI in Finance"
+      ]
+    },
+    {
       "path": "_news/2021-07-08-ai-ethics-expert-half-of-companies-using-ai-overestimate-their-level-of-maturity.md",
       "title": "AI ethics expert: 'Half of companies using AI overestimate their level of maturity'",
       "excerpt": "Tonya Hall talks to Steven Mills, Chief AI Ethics Officer at Boston Consulting Group, about AI maturity, how to achieve it, and what sectors are doing it better.",
@@ -939,7 +993,7 @@
       "originalUrl": "https://www.securitysystemsnews.com/article/digital-transformation-fueling-spending-on-cloud-ai-robotics-security-and-saas",
       "featuredContent": null,
       "highlight": null,
-      "heat": 121,
+      "heat": 111,
       "tags": null,
       "images": [
         {
@@ -1180,58 +1234,6 @@
         "AI",
         "Google AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-07-07-robots-can-make-music-but-can-they-sing.md",
-      "title": "Robots Can Make Music, but Can They Sing?",
-      "excerpt": "At an international competition called the A.I. Song Contest, tracks exploring the technology as a tool for music making revealed the potential — and the limitations.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2021/07/07/arts/music/ai-song-contest.html",
-      "originalUrl": "https://www.nytimes.com/2021/07/07/arts/music/ai-song-contest.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2021/07/07/arts/07ai-song3/07ai-song3-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2021/07/07/arts/music/ai-song-contest.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/07/07/arts/music/ai-song-contest.amp.html",
-      "publishedDateTime": "2021-07-07T08:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

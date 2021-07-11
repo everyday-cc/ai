@@ -632,8 +632,8 @@
       "title": "Global Artificial Intelligence in Healthcare: Deals and Agreements by Leading Players From 2010-2021 - ResearchAndMarkets.com",
       "excerpt": "Partnering Terms and Agreements 2010 to 2021” report has been added to ResearchAndMarkets.com’s offering. The Global Artificial Intelligence (AI) Partnering Terms and Agreements 2010 to 2021 report provides an understanding and access to the artificial intelligence partnering deals and agreements entered into by the world’s leading healthcare companies.",
       "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/business-wire/artificial-intelligence-business-technology-c8cf1d7a3c1e49999f2dbe3d728e684e",
-      "originalUrl": "https://apnews.com/press-release/business-wire/artificial-intelligence-business-technology-c8cf1d7a3c1e49999f2dbe3d728e684e",
+      "webUrl": "https://apnews.com/press-release/BusinessWire/artificial-intelligence-business-technology-c8cf1d7a3c1e49999f2dbe3d728e684e",
+      "originalUrl": "https://apnews.com/press-release/BusinessWire/artificial-intelligence-business-technology-c8cf1d7a3c1e49999f2dbe3d728e684e",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -770,6 +770,40 @@
       ],
       "topics": [
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-28-enterprise-ai-startup-beyondminds-certified-by-top-international-security-standard.md",
+      "title": "Enterprise AI Startup BeyondMinds Certified by Top International Security Standard",
+      "excerpt": "BeyondMinds, an enterprise AI software provider delivering fully managed, production-grade AI solutions on top of its turnkey AI platform, today announced it has earned ISO 27001:2013. The certification,",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/-enterprise-ai-startup-beyondminds-certified-top-international-security-/2021/06/28/9398829.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-enterprise-ai-startup-beyondminds-certified-top-international-security-/2021/06/28/9398829.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-28T08:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Security"
       ]
     },
     {
@@ -919,55 +953,12 @@
       ]
     },
     {
-      "path": "_news/2021-06-28-enterprise-ai-startup-beyondminds-certified-by-top-international-security-standard.md",
-      "title": "Enterprise AI Startup BeyondMinds Certified by Top International Security Standard",
-      "excerpt": "BeyondMinds, an enterprise AI software provider delivering fully managed, production-grade AI solutions on top of its turnkey AI platform, today announced it has earned ISO 27001:2013. The certification,",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/globe-newswire/business-technology-061006a8611cbe8746dba86f82b79b9c",
-      "originalUrl": "https://apnews.com/press-release/globe-newswire/business-technology-061006a8611cbe8746dba86f82b79b9c",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-28T06:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
       "path": "_news/2021-06-28-supermicro-boosts-performance-for-hpc-and-ai-applications-with-optimized-servers-featuring-new-nvidia-a100-80gb-pcie-gpus.md",
       "title": "Supermicro Boosts Performance for HPC and AI Applications with Optimized Servers Featuring New NVIDIA A100 80GB PCIe GPUs",
-      "excerpt": "Supermicro servers, designed with a Building Block Solutions ® approach, give Supermicro a first to market advantage when incorporating new technologies. State-of-the-art accelerated computing options can be quickly integrated and tested,",
+      "excerpt": "High Performance 200G Networking Accelerates HPC and AI ApplicationsSAN JOSE, Calif., June 28, 2021 /PRNewswire/ -- Super Micro Computer, Inc.",
       "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/-supermicro-boosts-performance-hpc-ai-applications-with-optimized-/2021/06/28/9398763.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/-supermicro-boosts-performance-hpc-ai-applications-with-optimized-/2021/06/28/9398763.htm",
+      "webUrl": "https://markets.businessinsider.com/news/stocks/supermicro-boosts-performance-for-hpc-and-ai-applications-with-optimized-servers-featuring-new-nvidia-a100-80gb-pcie-gpus-1030559105",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/supermicro-boosts-performance-for-hpc-and-ai-applications-with-optimized-servers-featuring-new-nvidia-a100-80gb-pcie-gpus-1030559105",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -986,12 +977,21 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-28T06:08:00-07:00",
+      "publishedDateTime": "2021-06-28T06:14:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },

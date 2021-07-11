@@ -2,6 +2,49 @@
   "page": 92,
   "value": [
     {
+      "path": "_news/2021-05-05-aws-announces-general-availability-of-amazon-devops-guru.md",
+      "title": "AWS Announces General Availability of Amazon DevOps Guru",
+      "excerpt": "Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced the general availability of Amazon DevOps Guru, a fully managed operations service that uses machine learning to make it easier for developers to improve application availability by automatically detecting operational issues and recommending specific actions for remediation.",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/business-wire/amazoncom-inc-technology-business-842669af98364c64b33d2b4511563a91",
+      "originalUrl": "https://apnews.com/press-release/business-wire/amazoncom-inc-technology-business-842669af98364c64b33d2b4511563a91",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-04T11:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-05-campaigners-call-for-spotify-to-disavow-dangerous-speech-recognition-patent.md",
       "title": "Campaigners call for Spotify to disavow ‘dangerous’ speech recognition patent",
       "excerpt": "Campaigners have demanded that Spotify renounces a patent for speech recognition tech that recommends music based on a user's mood, gender, age, or accent.",
@@ -1144,49 +1187,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-04-unisys-builds-leading-automatic-speech-recognition-technology-onto-its-inteliserve-voice-channel.md",
-      "title": "Unisys Builds Leading Automatic Speech Recognition Technology onto its InteliServe™ Voice Channel",
-      "excerpt": "BLUE BELL, Pa., May 4, 2021 /PRNewswire/ -- (NYSE: UIS) today announced it has embedded voice recognition technology from PerVoice within InteliServe,™ the Unisys digital workplace services platform",
-      "sourceUrl": null,
-      "webUrl": "https://www.tiogapublishing.com/news/state/unisys-builds-leading-automatic-speech-recognition-technology-onto-its-inteliserve-voice-channel/article_85bc2a3a-817f-5ea0-87df-d2bc9abc9150.html",
-      "originalUrl": "https://www.tiogapublishing.com/news/state/unisys-builds-leading-automatic-speech-recognition-technology-onto-its-inteliserve-voice-channel/article_85bc2a3a-817f-5ea0-87df-d2bc9abc9150.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.chicago2.vip.townnews.com/tiogapublishing.com/content/tncms/custom/image/d29c7e94-810a-11e6-9e0b-7f79a010bf0f.jpg",
-          "width": 1200,
-          "height": 684,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-04T04:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TiogaPublishing.com",
-        "domain": "tiogapublishing.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

@@ -218,6 +218,49 @@
       ]
     },
     {
+      "path": "_news/2021-06-28-ibm-launches-ai-powered-new-cloud-pak-for-network-automationn-software-to-help-adoption-of-5g.md",
+      "title": "IBM launches AI-powered new Cloud Pak for Network Automationn software to help adoption of 5G",
+      "excerpt": "IBM recently launched Watson Orchestrate to provide AI-powered automation to business professionals, and acquired Turbonomic, myInvenio, Instana and WDG Automation to build out a complete end-to ...",
+      "sourceUrl": null,
+      "webUrl": "https://seekingalpha.com/news/3710354-ibm-launches-ai-powered-new-cloud-pak-for-network-automationn-software-to-help-adoption-of-5g",
+      "originalUrl": "https://seekingalpha.com/news/3710354-ibm-launches-ai-powered-new-cloud-pak-for-network-automationn-software-to-help-adoption-of-5g",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
+          "width": 1200,
+          "height": 1200,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://seekingalpha.com/amp/news/3710354-ibm-launches-ai-powered-new-cloud-pak-for-network-automationn-software-to-help-adoption-of-5g",
+      "cdnAmpWebUrl": "https://seekingalpha-com.cdn.ampproject.org/c/s/seekingalpha.com/amp/news/3710354-ibm-launches-ai-powered-new-cloud-pak-for-network-automationn-software-to-help-adoption-of-5g",
+      "publishedDateTime": "2021-06-28T03:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Seeking Alpha",
+        "domain": "seekingalpha.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-28-ibm-brings-ai-powered-automation-software-to-networking-to-help-simplify-broad-adoption-of-5g.md",
       "title": "IBM Brings AI-Powered Automation Software to Networking to Help Simplify Broad Adoption of 5G",
       "excerpt": "\"To help address these growing demands, IBM's new Cloud Pak for Network Automation software uses AI-powered automation ... integration of IBM Cloud Pak for Watson AIOps and edge solutions ...",
@@ -1315,58 +1358,6 @@
         "name": "Seeking Alpha",
         "domain": "seekingalpha.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-03-foundations-of-trustworthy-ai-how-to-conduct-trustworthy-ai-assessment-and-mitigation.md",
-      "title": "Foundations of trustworthy AI: How to conduct trustworthy AI assessment and mitigation",
-      "excerpt": "The ability of artificial intelligence to perform important business tasks has grown by leaps and bounds in recent years. As AI has progressed from a proof of concept to powering critical enterprise workflows, it has become increasingly apparent that this general-purpose technology must be assessed in",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blogs/watson/2021/06/trustworthy-ai-assessment-mitigation/",
-      "originalUrl": "https://www.ibm.com/blogs/watson/2021/06/trustworthy-ai-assessment-mitigation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 111,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ibm.com/blogs/watson/wp-content/uploads/2021/06/blog_assess-risk_2000x1000.jpg",
-          "width": 2000,
-          "height": 1000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-03T09:30:10-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

@@ -852,19 +852,19 @@
     {
       "path": "_news/2021-06-30-zoom-acquires-ai-translation-startup-kites.md",
       "title": "Zoom acquires AI translation startup Kites",
-      "excerpt": "The technology will be used to improve the video conferencing experience by providing real-time, multi-language translation capabilities for Zoom users, enabling the company to increase the ...",
+      "excerpt": "Zoom has announced the acquisition of Karlsruhe Information Technology Solutions (Kites) – a startup focused on the development of real-time AI-powered translation technologies. Founded in ...",
       "sourceUrl": null,
-      "webUrl": "https://www.itpro.co.uk/business-strategy/acquisition/360046/zoom-acquires-german-ai-startup-kites",
-      "originalUrl": "https://www.itpro.co.uk/business-strategy/acquisition/360046/zoom-acquires-german-ai-startup-kites",
+      "webUrl": "https://www.cloudpro.co.uk/collaboration/9142/zoom-acquires-ai-translation-startup-kites",
+      "originalUrl": "https://www.cloudpro.co.uk/collaboration/9142/zoom-acquires-ai-translation-startup-kites",
       "featuredContent": null,
       "highlight": null,
-      "heat": 229,
+      "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1610533973/itpro/ZoomLogo_shutterstock.jpg",
-          "width": 1260,
-          "height": 710,
+          "url": "https://cdn2.cloudpro.co.uk/sites/cloudprod7/files/2021/01/zoomlogo_shutterstock.jpg",
+          "width": 3500,
+          "height": 2500,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -872,23 +872,14 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.itpro.co.uk/business-strategy/acquisition/360046/zoom-acquires-german-ai-startup-kites?amp",
-      "cdnAmpWebUrl": "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/business-strategy/acquisition/360046/zoom-acquires-german-ai-startup-kites?amp",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
       "publishedDateTime": "2021-06-30T02:35:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "IT Pro",
-        "domain": "itpro.co.uk",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/itpro.co.uk-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "Cloud Pro",
+        "domain": "cloudpro.co.uk",
+        "images": null,
         "publishers": null,
         "authors": null
       },

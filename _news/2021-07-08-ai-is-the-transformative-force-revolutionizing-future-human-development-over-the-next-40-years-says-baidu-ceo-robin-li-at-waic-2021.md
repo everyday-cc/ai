@@ -40,6 +40,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Baidu to Roll Out Smart Vehicle in Two to Three Years, Robin Li Says"
+    excerpt: "Chinese internet giant Baidu is speeding up development of its smart vehicles and will have one ready in the next two to three years, founder Robin Li said today at the World Artificial Intelligence Conference in Shanghai."
+    publishedDateTime: 2021-07-08T00:00:00Z
+    webUrl: "https://www.yicaiglobal.com/news/baidu-to-roll-out-smart-vehicle-in-two-to-three-years-robin-li-says"
+    type: article
+    provider:
+      name: Yicai Global
+      domain: yicaiglobal.com
+    quality: 39
+    images:
+      - url: "http://img.yicaiglobal.com/cdn/news/baidu-to-roll-out-smart-vehicle-in-two-to-three-years-robin-li-says/14642774720643072.jpg"
+        width: 720
+        height: 480
+        isCached: true
   - title: "Under pressure, Baidu and Tencent tout contributions to China"
     excerpt: "Baidu CEO Robin Li said in a keynote speech ... announced that his company had begun developing 7-nm chips for self-driving technology. Cambricon produces chips that power AI vital to cloud ..."
     publishedDateTime: 2021-07-08T18:10:00Z

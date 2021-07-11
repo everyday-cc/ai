@@ -28,6 +28,15 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 51
+  - title: "Trainocate recognised as #1 Microsoft Learning Partner worldwide"
+    excerpt: "Trainocate Holdings, Sri Lanka’s largest IT and human capability development training provider, has been recognised as the 2021 Microsoft Learning Partner of the Year; the first Asian company ever to have earned the illustrious title."
+    publishedDateTime: 2021-07-11T18:30:00Z
+    webUrl: "https://www.ft.lk/it-telecom-tech/Trainocate-recognised-as-1-Microsoft-Learning-Partner-worldwide/50-720316"
+    type: article
+    provider:
+      name: FT
+      domain: www.ft.lk
+    quality: 34
 
 secured: "TQOptRTe7VulnXoFARFz6T35k1bnsKsvDiJLSL2aEDJbPItfYdqntpwrkMN17ofFcwe2YOZ/24MJA4SISKT6kuLq2ovUSds4nvVyW0S3XIOb1ERi52dBasAb8UxV2V0E2IjljKEHksji7EOglCiEqYuPhKtz1vEDRRvofm41h6Q3Z0N2Hhlc7LZt8GoznNxp4gzRnGpHIdBOCf5B4fWU95dyv8eqfCtWHOD77/VxZVVjiww5NsQAPMoERoADAbaD1kXhQ8VKJFP9tPBM+WrAJV+TjFhLf6wTQAXR3R11Oc1GMIfHpvTxi35EH5DAMwS8VqnyGjX23aV7Bw2KU+jzFsRsxMITv8mTsbD0u3lt3zc=;rYhf5PpkklRdTe0GoM8WPA=="
 ---

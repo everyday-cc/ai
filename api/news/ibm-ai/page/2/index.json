@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-06-03-foundations-of-trustworthy-ai-how-to-conduct-trustworthy-ai-assessment-and-mitigation.md",
+      "title": "Foundations of trustworthy AI: How to conduct trustworthy AI assessment and mitigation",
+      "excerpt": "The ability of artificial intelligence to perform important business tasks has grown by leaps and bounds in recent years. As AI has progressed from a proof of concept to powering critical enterprise workflows, it has become increasingly apparent that this general-purpose technology must be assessed in",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blogs/watson/2021/06/trustworthy-ai-assessment-mitigation/",
+      "originalUrl": "https://www.ibm.com/blogs/watson/2021/06/trustworthy-ai-assessment-mitigation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 111,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ibm.com/blogs/watson/wp-content/uploads/2021/06/blog_assess-risk_2000x1000.jpg",
+          "width": 2000,
+          "height": 1000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-03T09:30:10-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-03-why-ai-powered-creative-is-the-most-important-change-in-advertising-development-history.md",
       "title": "Why AI Powered Creative Is The Most Important Change In Advertising Development History",
       "excerpt": "AI powered creative takes the guesswork out of advertising development. Brands can test infinite combinations of advertising copy, visuals, music and calls to action at the micro-targeting level.",
@@ -1373,58 +1425,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-11-the-four-keys-to-trustworthy-ai.md",
-      "title": "The four keys to trustworthy AI",
-      "excerpt": "Artificial intelligence is a major factor in people’s lives. It influences who gets a loan, how companies hire and compensate employees, how customers are treated, even where infrastructure and aid are allocated. It is already deeply embedded in our businesses, organizations and governments, including",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blogs/watson/2021/05/trustworthy-ai/",
-      "originalUrl": "https://www.ibm.com/blogs/watson/2021/05/trustworthy-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ibm.com/blogs/watson/wp-content/uploads/2021/05/050421_TrustworthyAI_Blog_2000x1000.jpg",
-          "width": 2001,
-          "height": 1001,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-11T06:00:48-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

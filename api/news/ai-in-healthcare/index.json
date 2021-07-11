@@ -2,6 +2,50 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-07-12-machine-learning-powered-imaging-helps-diagnose-thyroid-cancer.md",
+      "title": "Machine Learning-powered Imaging Helps Diagnose Thyroid Cancer",
+      "excerpt": "A new non-invasive method to distinguish thyroid nodules from cancer by combining photoacoustic (PA) and ultrasound image technology with artificial intelligence has been devised by scientists.",
+      "sourceUrl": null,
+      "webUrl": "https://www.medindia.net/news/machine-learning-powered-imaging-helps-diagnose-thyroid-cancer-202208-1.htm",
+      "originalUrl": "https://www.medindia.net/news/machine-learning-powered-imaging-helps-diagnose-thyroid-cancer-202208-1.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.medindia.net/amp-images/health-images/low-dose-radiation-in-thyroid-cancer.jpg",
+          "width": 1200,
+          "height": 1000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.medindia.net/amp/news/machine-learning-powered-imaging-helps-diagnose-thyroid-cancer-202208-1.htm",
+      "cdnAmpWebUrl": "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/machine-learning-powered-imaging-helps-diagnose-thyroid-cancer-202208-1.htm",
+      "publishedDateTime": "2021-07-11T10:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medindia",
+        "domain": "medindia.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2021-07-08-best-artificial-intelligence-stocks-to-buy-in-july-2021-3-names-to-know.md",
       "title": "Best Artificial Intelligence Stocks To Buy In July 2021? 3 Names To Know",
       "excerpt": "Artificial intelligence (AI ... Notably, the Cambridge-1 will serve to enable top scientists and healthcare experts via a combination of AI and simulation. In turn, this will ideally accelerate the digital biology revolution and bolster the country ...",
@@ -944,8 +988,8 @@
       "title": "Global Artificial Intelligence in Healthcare: Deals and Agreements by Leading Players From 2010-2021 - ResearchAndMarkets.com",
       "excerpt": "Partnering Terms and Agreements 2010 to 2021” report has been added to ResearchAndMarkets.com’s offering. The Global Artificial Intelligence (AI) Partnering Terms and Agreements 2010 to 2021 report provides an understanding and access to the artificial intelligence partnering deals and agreements entered into by the world’s leading healthcare companies.",
       "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/business-wire/artificial-intelligence-business-technology-c8cf1d7a3c1e49999f2dbe3d728e684e",
-      "originalUrl": "https://apnews.com/press-release/business-wire/artificial-intelligence-business-technology-c8cf1d7a3c1e49999f2dbe3d728e684e",
+      "webUrl": "https://apnews.com/press-release/BusinessWire/artificial-intelligence-business-technology-c8cf1d7a3c1e49999f2dbe3d728e684e",
+      "originalUrl": "https://apnews.com/press-release/BusinessWire/artificial-intelligence-business-technology-c8cf1d7a3c1e49999f2dbe3d728e684e",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -1286,41 +1330,6 @@
       "topics": [
         "AI in Healthcare",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-23-cognitivescale-and-ascendum-to-accelerate-trusted-ai-deployments-for-healthcare-fintech-and-ecommerce.md",
-      "title": "CognitiveScale and Ascendum To Accelerate Trusted AI Deployments for Healthcare, Fintech and eCommerce",
-      "excerpt": "CognitiveScale will provide its trusted AI software while Ascendum will provide the services and certified ... IBM Watson, M12 (Microsoft Ventures), and USAA. To learn more, visit ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.retaildive.com/press-release/20210623-cognitivescale-and-ascendum-to-accelerate-trusted-ai-deployments-for-health/",
-      "originalUrl": "https://www.retaildive.com/press-release/20210623-cognitivescale-and-ascendum-to-accelerate-trusted-ai-deployments-for-health/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-23T09:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Retail Dive",
-        "domain": "retaildive.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

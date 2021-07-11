@@ -2,6 +2,57 @@
   "page": 35,
   "value": [
     {
+      "path": "_news/2021-06-14-14-ways-ai-could-become-a-detriment-to-society.md",
+      "title": "14 Ways AI Could Become A Detriment To Society",
+      "excerpt": "While AI is an incredibly useful tool, it’s important for governments, businesses and the public at large to be aware of what can happen if AI is used indiscriminately or without diligent human oversight.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/06/14/14-ways-ai-could-become-a-detriment-to-society/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/06/14/14-ways-ai-could-become-a-detriment-to-society/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60c3d534fbe0931473b4012e%2F0x0.jpg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/06/14/14-ways-ai-could-become-a-detriment-to-society/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/06/14/14-ways-ai-could-become-a-detriment-to-society/amp/",
+      "publishedDateTime": "2021-06-14T05:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-14-techx-appoints-dr-john-henderson-as-coo-and-chris-lafrance-as-product-manager-to-strengthen-its-position-as-a-global-fintech-leader.md",
       "title": "TechX Appoints Dr. John Henderson as COO and Chris Lafrance as Product Manager to Strengthen its Position as a Global Fintech Leader",
       "excerpt": "Dr. John Henderson - COO, TechX Technologies Inc. Dr. Henderson's career in institutional equity sales and corporate finance began at PI Financial, Jennings Capital and Intrynsyc Capital. John was responsible for analyzing and financing technology based venture level companies and it sparked a lifelong pursuit in innovation.",
@@ -1066,59 +1117,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-12-deepmind-researchers-say-reinforcement-learning-is-the-key-to-cracking-general-ai.md",
-      "title": "DeepMind researchers say reinforcement learning is the key to cracking general AI",
-      "excerpt": "DeepMind scientist suggest that reward maximization and trial-and-error experience are enough to lead to the development of artificial general intelligence.",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/news/deepmind-reinforcement-learning-enough-general-ai-syndication",
-      "originalUrl": "https://thenextweb.com/news/deepmind-reinforcement-learning-enough-general-ai-syndication",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F06%2F2BDSF.jpg&signature=c72563bebf471ce23430f8ec3480edde",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-12T03:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "Computer Vision"
       ]
     }
   ],

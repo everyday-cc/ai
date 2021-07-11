@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techrepublic.com/google-amp/article/ai-is-trying-to-prev
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ai-is-trying-to-prevent-online-shoppers-from-ditching-their-carts/"
 type: article
 quality: 87
-heat: 98
+heat: 99
 published: true
 
 provider:

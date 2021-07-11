@@ -2,6 +2,40 @@
   "page": 49,
   "value": [
     {
+      "path": "_news/2021-06-03-bell-transforms-customer-experiences-and-extends-5g-leadership-by-collaborating-with-aws-for-cloud-and-5g-multi-access-edge-computing.md",
+      "title": "Bell transforms customer experiences and extends 5G leadership by collaborating with AWS for cloud and 5G multi-access edge computing",
+      "excerpt": "Bell chose AWS to help modernize its applications and services and will leverage AWS capabilities like machine learning and analytics to enhance customers' digital experiences Bell and AWS will offer AWS Wavelength Zones on Bell's 5G network for fast and efficient 5G multi-access edge computing (MEC),",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/-bell-transforms-customer-experiences-extends-5g-leadership-collaborating-/2021/06/03/9383172.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-bell-transforms-customer-experiences-extends-5g-leadership-collaborating-/2021/06/03/9383172.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-03T05:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-03-from-low-code-to-no-code-azure-gpt-3-and-microsofts-power-platform.md",
       "title": "From low code to no code: Azure GPT-3 and Microsoft's Power Platform",
       "excerpt": "Microsoft is turning low code into 'don't write code' by taking a description of what you want to do and writing code snippets for you.",
@@ -1066,57 +1100,6 @@
       ],
       "topics": [
         "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-03-the-ibm-research-ai-hardware-center-an-update.md",
-      "title": "The IBM Research AI Hardware Center: An Update",
-      "excerpt": "Celebrating its two-year anniversary, the Center announces innovative AI acceleration technologies along with nearly tripling its cadre of memberships. The IBM Research AI Hardware Center is the nexus",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/karlfreund/2021/06/02/the-ibm-research-ai-hardware-center-an-update/",
-      "originalUrl": "https://www.forbes.com/sites/karlfreund/2021/06/02/the-ibm-research-ai-hardware-center-an-update/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60abe0b98e463609ef56ead6%2F0x0.png",
-          "width": 696,
-          "height": 427,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/karlfreund/2021/06/02/the-ibm-research-ai-hardware-center-an-update/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2021/06/02/the-ibm-research-ai-hardware-center-an-update/amp/",
-      "publishedDateTime": "2021-06-02T13:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

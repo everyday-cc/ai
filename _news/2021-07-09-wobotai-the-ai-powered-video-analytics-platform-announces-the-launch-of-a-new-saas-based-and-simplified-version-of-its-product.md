@@ -68,20 +68,6 @@ related:
         width: 838
         height: 475
         isCached: true
-  - title: "Fueling Healthcare Ai With Adaptive Collaboration"
-    excerpt: "Our product-focused team is busy defining and building the platforms and tools required to rapidly integrate models into the clinical setting, to bring the power of AI to the physician’s fingertips. Our ability to execute on these disruptive,"
-    publishedDateTime: 2021-07-07T03:01:00Z
-    webUrl: "https://www.cioapplications.com/cxoinsights/fueling-healthcare-ai-with-adaptive-collaboration-nid-8084.html"
-    type: article
-    provider:
-      name: CIO Applications
-      domain: cioapplications.com
-    quality: 54
-    images:
-      - url: "https://www.cioapplications.com/newstransfer/upload/797zkiLkEKnaidu_ram_100533701.jpg"
-        width: 450
-        height: 308
-        isCached: true
 
 secured: "ILRUo4n0hgPPGrqayk3j+ADZsl4CsvhjqJIoT+WQFiPHZa/MYDrgZHhl0os3mj6BPoRnhrxiZ+m0g8+6YK+BpI3NF7g5wdUV36pqvbWS6t2bdxC7dd+R/pInnqfWZMk4eGya+zqskgvp4iUYhsHWiRCSP09HwilbeoQxso3gSlxISELNx7m05tkkbuULKoEYh7exEFMXOpKeBg44GqiZBuvPjDWvqeRGLgErd0zTgH//z2jZm3UeB++ayz6ddx2hi5rXXvQtLVU4+dNL6JZEbzNx/PvKK1OGwbusxJHGxYJzmw8fKG+yt2Chrp4ywhLTYeru2YqVUyfMcYxjVfsifFw8mfBtiOn02I7kgiO2+9JGXBBzfsc7jAbhlRCzY3zTt3fWWl91D77W9mnm8NQCzv/pnNFIrow8VTj/PRpEnX+Df4QBvEsNWLTY/NrA3SOn7Vpm+aLS1ITU9Jduv/WxmhDN273uy7X7KDUUa+ZE2Kd6SYs4luCblcGTV3tN3+iOOSdiKA/1hDZcAm8CLVcMag==;EHEpPoh62+fbrxptMJRrrA=="
 ---

@@ -35,7 +35,7 @@ related:
     provider:
       name: Medindia
       domain: medindia.net
-    quality: 59
+    quality: 61
     images:
       - url: "https://images.medindia.net/amp-images/health-images/low-dose-radiation-in-thyroid-cancer.jpg"
         width: 1200

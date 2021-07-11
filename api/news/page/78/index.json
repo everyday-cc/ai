@@ -2,6 +2,40 @@
   "page": 78,
   "value": [
     {
+      "path": "_news/2021-05-14-7-best-practices-for-implementing-data-driven-technologies-like-ai-and-machine-learning.md",
+      "title": "7 best practices for implementing data-driven technologies, like AI and machine learning",
+      "excerpt": "Data science, machine learning and artificial intelligence are key enabling capabilities in today's business world but few executives know how to deploy them effectively.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forrester.com/report/The+Tech+Executives+Primer+On+Data+Science+Machine+Learning+And+AI/-/E-RES165115?objectid=RES165115",
+      "originalUrl": "https://www.msn.com/en-us/news/technology/7-best-practices-for-implementing-data-driven-technologies-like-ai-and-machine-learning/ar-BB1gJRb3",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 145,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-14T07:38:13-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "forrester.com/report/the+tech+executives+primer+on+data+science+machine+learning+and+ai/-/e-res165115?objectid=res165115",
+        "domain": "forrester.com/report/the+tech+executives+primer+on+data+science+machine+learning+and+ai/-/e-res165115?objectid=res165115",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-05-14-language-models-like-gpt-3-could-herald-a-new-type-of-search-engine.md",
       "title": "Language models like GPT-3 could herald a new type of search engine",
       "excerpt": "The way we look for information online hasn’t changed in decades. A new idea from Google researchers could make searching the web more like talking to human experts",
@@ -1126,58 +1160,6 @@
       "topics": [
         "Computer Vision",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-14-cruise-expects-gm-to-begin-production-of-new-driverless-vehicle-in-early-2023.md",
-      "title": "Cruise expects GM to begin production of new driverless vehicle in early 2023",
-      "excerpt": "Cruise's CEO disclosed the timing Thursday, giving the most specific time frame yet for the vehicle and commercialization of its autonomous vehicle business.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2021/05/13/gm-to-begin-production-of-new-driverless-cruise-vehicle-in-early-2023.html",
-      "originalUrl": "https://www.cnbc.com/2021/05/13/gm-to-begin-production-of-new-driverless-cruise-vehicle-in-early-2023.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 186,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/106347579-1579655232641cruise2.png?v=1579655319",
-          "width": 810,
-          "height": 421,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2021/05/13/gm-to-begin-production-of-new-driverless-cruise-vehicle-in-early-2023.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/05/13/gm-to-begin-production-of-new-driverless-cruise-vehicle-in-early-2023.html",
-      "publishedDateTime": "2021-05-13T13:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
       ]
     }
   ],

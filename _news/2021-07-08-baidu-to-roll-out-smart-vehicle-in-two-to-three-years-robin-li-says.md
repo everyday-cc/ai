@@ -1,27 +1,27 @@
 ---
 category: news
-title: "Under pressure, Baidu and Tencent tout contributions to China"
-excerpt: "Baidu CEO Robin Li said in a keynote speech ... announced that his company had begun developing 7-nm chips for self-driving technology. Cambricon produces chips that power AI vital to cloud ..."
-publishedDateTime: 2021-07-08T18:10:00Z
-originalUrl: "https://asia.nikkei.com/Business/China-tech/Under-pressure-Baidu-and-Tencent-tout-contributions-to-China"
-webUrl: "https://asia.nikkei.com/Business/China-tech/Under-pressure-Baidu-and-Tencent-tout-contributions-to-China"
+title: "Baidu to Roll Out Smart Vehicle in Two to Three Years, Robin Li Says"
+excerpt: "Chinese internet giant Baidu is speeding up development of its smart vehicles and will have one ready in the next two to three years, founder Robin Li said today at the World Artificial Intelligence Conference in Shanghai."
+publishedDateTime: 2021-07-08T00:00:00Z
+originalUrl: "https://www.yicaiglobal.com/news/baidu-to-roll-out-smart-vehicle-in-two-to-three-years-robin-li-says"
+webUrl: "https://www.yicaiglobal.com/news/baidu-to-roll-out-smart-vehicle-in-two-to-three-years-robin-li-says"
 type: article
 quality: 39
 heat: -1
 published: false
 
 provider:
-  name: NIKKEI
-  domain: nikkei.com
+  name: Yicai Global
+  domain: yicaiglobal.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%253A%252F%252Fs3-ap-northeast-1.amazonaws.com%252Fpsh-ex-ftnikkei-3937bb4%252Fimages%252F6%252F8%252F4%252F2%252F35212486-3-eng-GB%252FCropped-16257622402020-07-09T000000Z_168242707_RC2PPH9GMNYR_RTRMADP_3_CHINA-TECH.JPG?width=1024&height=512&fit=cover&gravity=faces&source=nar-cms"
-    width: 1024
-    height: 512
+  - url: "http://img.yicaiglobal.com/cdn/news/baidu-to-roll-out-smart-vehicle-in-two-to-three-years-robin-li-says/14642774720643072.jpg"
+    width: 720
+    height: 480
     isCached: true
 
 related:
@@ -41,19 +41,19 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Baidu to Roll Out Smart Vehicle in Two to Three Years, Robin Li Says"
-    excerpt: "Chinese internet giant Baidu is speeding up development of its smart vehicles and will have one ready in the next two to three years, founder Robin Li said today at the World Artificial Intelligence Conference in Shanghai."
-    publishedDateTime: 2021-07-08T00:00:00Z
-    webUrl: "https://www.yicaiglobal.com/news/baidu-to-roll-out-smart-vehicle-in-two-to-three-years-robin-li-says"
+  - title: "Under pressure, Baidu and Tencent tout contributions to China"
+    excerpt: "Baidu CEO Robin Li said in a keynote speech ... announced that his company had begun developing 7-nm chips for self-driving technology. Cambricon produces chips that power AI vital to cloud ..."
+    publishedDateTime: 2021-07-08T18:10:00Z
+    webUrl: "https://asia.nikkei.com/Business/China-tech/Under-pressure-Baidu-and-Tencent-tout-contributions-to-China"
     type: article
     provider:
-      name: Yicai Global
-      domain: yicaiglobal.com
+      name: NIKKEI
+      domain: nikkei.com
     quality: 39
     images:
-      - url: "http://img.yicaiglobal.com/cdn/news/baidu-to-roll-out-smart-vehicle-in-two-to-three-years-robin-li-says/14642774720643072.jpg"
-        width: 720
-        height: 480
+      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%253A%252F%252Fs3-ap-northeast-1.amazonaws.com%252Fpsh-ex-ftnikkei-3937bb4%252Fimages%252F6%252F8%252F4%252F2%252F35212486-3-eng-GB%252FCropped-16257622402020-07-09T000000Z_168242707_RC2PPH9GMNYR_RTRMADP_3_CHINA-TECH.JPG?width=1024&height=512&fit=cover&gravity=faces&source=nar-cms"
+        width: 1024
+        height: 512
         isCached: true
   - title: "AI is the Transformative Force Revolutionizing Future Human Development Over the Next 40 Years, Says Baidu CEO Robin Li at WAIC 2021"
     excerpt: "Baidu's chief says technological advancements can spur the gradual restoration of humanity to become a low-carbon societyThe importance of AI extends beyond economic growth, its true contribution towa"
@@ -70,6 +70,6 @@ related:
         height: 630
         isCached: true
 
-secured: "zcPGOrAoox859PytZxRXpj5KTSD0l2o6ySDCdZY1n6JrbXo0fGBm35bsfohyCi9BV3tTYYskKdLCZRwyd/ltTsgiZ/eAkBob5PameHbnxvvIEcIdqRNApignX7+DulrxYnydiN+HUovMQ97FTvkRw1LZCumZaNI9TQXfEeX6cNIGiZPFyKUJ6HLAmTMkUYYl0aCCs/Oo3T0xT88aaVs39reF8CGZfXFkAwBrmenJt2uDVEVAo9TlylsknbBnlCIfqehiJEGSlhookhrEumEPStc8F8c65r30nSgJ4CxOHIik5kSfD+IIekcaiyPKgRAbByf4ZQ3dyrwQIqm0SHDo46S2z4eBF9slHx3qRw8tdFywQES8NvQxUgeoaCSo1lGcwTNoD5SWDGkz8FzYQPGWiqwTvj8Q1kZZmPmP80cWfPUa1ROHAneF54IEED6+pTnzNUjnGNCNxRxgVExZbScesB8XKI48rnLJ3GXe8NpNdSk4g25RPre0MIjlZISNqLj7J9rXmqJcnZr8/NM4GBYddw==;hR0MywAgeV4QunPkgl9+Uw=="
+secured: "t2UTX24MZCrAjzpOYrD5NdiU0PF7loO0JSeeGJfFyk9CMOUroEmby7LRM9GlUxzE0rQrHiVLxG8W2qkTMKKqkmxtDqUgJePTX1PvJTLTsXw2Rx+T1Zx0M7+2fkE+eQgzFTkzZbBpHlU9AKQ6xAFZJjJQWMOX4PoBLLnhX6ql2sIFbny6gn5m+tfUsfcFhMJMUQXTKS5eUsTJWTbr+OYl4Ef9ib2+hUkDNZu1p19juE5ZUlMEF4YYO/1SZc0EaWwV2qbb6/8XwIbM9ruUWNoex6y1uBDn6R5oee1m/cC3qE/I6akkscDsdKQ9i3oDNQHouIGoPKMM3PtVHrjziRvJ6T/QLmlhFkdD1SE6TqZGr1I=;ZneAQxkcgenFRq8WFiOHBg=="
 ---
 

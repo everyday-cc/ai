@@ -2,6 +2,58 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-07-07-robots-can-make-music-but-can-they-sing.md",
+      "title": "Robots Can Make Music, but Can They Sing?",
+      "excerpt": "At an international competition called the A.I. Song Contest, tracks exploring the technology as a tool for music making revealed the potential — and the limitations.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2021/07/07/arts/music/ai-song-contest.html",
+      "originalUrl": "https://www.nytimes.com/2021/07/07/arts/music/ai-song-contest.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2021/07/07/arts/07ai-song3/07ai-song3-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2021/07/07/arts/music/ai-song-contest.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/07/07/arts/music/ai-song-contest.amp.html",
+      "publishedDateTime": "2021-07-07T08:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-07-artificial-intelligence-in-education-market-report-2021-to-2030-globally-exploring-sales-volume-revenue-and-price-by-types.md",
       "title": "Artificial Intelligence in Education Market Report 2021 to 2030 Globally Exploring Sales Volume Revenue and Price by Types",
       "excerpt": "Jul 07, 2021 (AmericaNewsHour) -- In a recent published report, Kenneth Research has updated the market report for Artificial Intelligence in Education Market for 2021 till 2030. Report further now discusses; the various strategies to be adopted or being ...",
@@ -1036,49 +1088,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-07-the-top-marketing-trends-ai-and-automation-drive-digital-interactions.md",
-      "title": "The Top Marketing Trends: AI and Automation Drive Digital Interactions",
-      "excerpt": "Digital start-up Homegrounds is a great example of a business that turned to technology like chatbots to address demand during the pandemic. Thomas Fultz, its CEO and founder, says, “AI/live chat was one mainstay of COVID client capture and will only ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.destinationcrm.com/Articles/ReadArticle.aspx?ArticleID=147822",
-      "originalUrl": "https://www.destinationcrm.com/Articles/ReadArticle.aspx?ArticleID=147822",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://dzceab466r34n.cloudfront.net/Images/ArticleImages/139002-2021_0708_Top100-marketing-ORG.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-06T20:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Destination CRM",
-        "domain": "destinationcrm.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Marketing"
       ]
     },
     {

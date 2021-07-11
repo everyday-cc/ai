@@ -2,6 +2,49 @@
   "page": 88,
   "value": [
     {
+      "path": "_news/2021-05-06-ncfa-reveals-speakers-and-agenda-for-online-ffcon21-fintech-and-financing-conference.md",
+      "title": "NCFA Reveals Speakers and Agenda for Online FFCON21: Fintech and Financing Conference",
+      "excerpt": "Conference to explore accelerated Blockchain - Fintech trends and innovations paving the way to mass adoption and scaleTORONTO, ON / ACCESSWIRE / May 6, 2020 / The Fintech & Financing Conference and Expo (#FFCON21),",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/accesswire/canada-business-technology-998b4e421f6ac088fe991bc051936760",
+      "originalUrl": "https://apnews.com/press-release/accesswire/canada-business-technology-998b4e421f6ac088fe991bc051936760",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-06T08:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-06-dyno-raises-100-million-to-bring-artificial-intelligence-to-gene-therapy.md",
       "title": "Dyno raises $100 million to bring artificial intelligence to gene therapy",
       "excerpt": "Dyno Therapeutics, which uses artificial intelligence techniques to develop gene therapies, has raised $100 million from investors.",
@@ -1103,58 +1146,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-06-googles-ai-photo-app-uses-crowdsourcing-to-preserve-endangered-languages.md",
-      "title": "Google's AI photo app uses crowdsourcing to preserve endangered languages",
-      "excerpt": "give cultures the AI tools they need to protect the languages themselves. The company has launched Woolaroo, an open source photo translation web app (also available through Google Arts & Culture ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.engadget.com/google-woolaroo-ai-app-endangered-languages-200033136.html",
-      "originalUrl": "https://www.engadget.com/google-woolaroo-ai-app-endangered-languages-200033136.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.yimg.com/os/creatr-uploaded-images/2021-05/720d13b0-ada9-11eb-bf7f-98ae4b609bbc",
-          "width": 1600,
-          "height": 1067,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.engadget.com/amp/google-woolaroo-ai-app-endangered-languages-200033136.html",
-      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/google-woolaroo-ai-app-endangered-languages-200033136.html",
-      "publishedDateTime": "2021-05-05T19:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

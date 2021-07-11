@@ -2,6 +2,59 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-06-09-meet-grace-the-healthcare-robot-covid-19-created.md",
+      "title": "Meet Grace, the healthcare robot COVID-19 created",
+      "excerpt": "The Hong Kong team behind celebrity humanoid robot Sophia is launching a new prototype, Grace, targeted at the healthcare market and designed to interact with the elderly and those isolated by the COVID-19 pandemic.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/health-coronavirus-hong-kong-robot/meet-grace-the-healthcare-robot-covid-19-created-idUSL3N2NR0EG",
+      "originalUrl": "https://www.reuters.com/article/health-coronavirus-hong-kong-robot/meet-grace-the-healthcare-robot-covid-19-created-idUSL3N2NR0EG",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 136,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s2.reutersmedia.net/resources/r/?m=02&d=20210609&t=2&i=1565004665&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEH5805D",
+          "width": 817,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKCN2DL0BL",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN2DL0BL",
+      "publishedDateTime": "2021-06-09T09:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2021-06-09-how-artificial-intelligence-and-machine-learning-can-prevent-third-wave-of-lockdown.md",
       "title": "How artificial intelligence and machine learning can prevent third wave of lockdown",
       "excerpt": "New age technologies such as artificial intelligence and machine learning can predict and effectively prevent third wave of lockdown",
@@ -1286,49 +1339,6 @@
       "provider": {
         "name": "openpr.com",
         "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-29-new-ai-tool-to-help-doctors-assess-severity-of-covid-in-patients.md",
-      "title": "New AI tool to help doctors assess severity of COVID in patients",
-      "excerpt": "Toronto: Artificial intelligence (AI) technology developed by researchers at the University of Waterloo is capable of assessing the severity of COVID-19 cases with a promising degree",
-      "sourceUrl": null,
-      "webUrl": "https://english.madhyamam.com/technology/new-ai-tool-to-help-doctors-assess-severity-of-covid-in-patients-803903",
-      "originalUrl": "https://english.madhyamam.com/technology/new-ai-tool-to-help-doctors-assess-severity-of-covid-in-patients-803903",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 209,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://english.madhyamam.com/h-upload/2021/05/29/1025379-6b0c2967-5c1a-4b2a-961f-5b571be88f13.jpg",
-          "width": 600,
-          "height": 298,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://english.madhyamam.com/amp/technology/new-ai-tool-to-help-doctors-assess-severity-of-covid-in-patients-803903",
-      "cdnAmpWebUrl": "https://english-madhyamam-com.cdn.ampproject.org/c/s/english.madhyamam.com/amp/technology/new-ai-tool-to-help-doctors-assess-severity-of-covid-in-patients-803903",
-      "publishedDateTime": "2021-05-29T00:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Madhyamam",
-        "domain": "madhyamam.com",
         "images": null,
         "publishers": null,
         "authors": null
