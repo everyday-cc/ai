@@ -7,7 +7,7 @@ originalUrl: "https://www.morningstar.com/news/business-wire/20210706005422/kill
 webUrl: "https://www.morningstar.com/news/business-wire/20210706005422/kill-qrafts-ai-enhanced-us-large-cap-momentum-etf-surpasses-50m-in-aum"
 type: article
 quality: 15
-heat: -1
+heat: 15
 published: false
 
 provider:
@@ -16,17 +16,6 @@ provider:
 
 topics:
   - AI
-
-related:
-  - title: "Qraft's AI-Enhanced U.S. Large Cap Momentum ETF Surpasses $50M in AUM"
-    excerpt: "Qraft AI ETFs, a cutting-edge ETF series leading the charge in funds actively managed by artificial intelligence, announces that the Qraft AI-Enhanced U.S. Large Cap Momentum ETF (NYSE: AMOM) has surpassed $50 million in assets under management."
-    publishedDateTime: 2021-07-06T13:09:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-qrafts-ai-enhanced-us-large-cap-momentum-etf-/2021/07/06/9403416.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 17
 
 secured: "XTKh86GzSK4Cesl9/dYcvx1M+bkN6CYw3ghYXEBrc8ijH8S7y+DFZqRZUIaf2CK4RXkMvwUSrvXkds4NeTLyQvZgnnoTpWVzhGOKEtxu77a2q/Rfndy/wAEZOAwp6DbiHG/7CQYPD9qOKT0jKuf581QTjE/bgIfL+wfIcG+sNCm/9CilpUHFFuinvkFnhZIoRJFAbroeYdAYd6GYG8z+AgMjKCUGPHwhf/yGTG5Z37z14iribRqNyE4GU2pzYCuOuqBmLTrFBoJmFsKeqYNCBt+WRvMOt/WqF39gl/E+HQ/jOzDTSxaGPqeDLW0o6FnwgYNVo/qVSep+wlIHQZehmkRwtKpss83bPRWQk3IOVYg=;GOIUKVH8hfzUY8XBYGEKgg=="
 ---

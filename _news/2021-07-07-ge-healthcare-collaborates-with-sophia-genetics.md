@@ -7,7 +7,7 @@ originalUrl: "https://www.auntminnie.com/index.aspx?sec=log&itemid=132842"
 webUrl: "https://www.auntminnie.com/index.aspx?sec=log&itemid=132842"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,15 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "GE Healthcare, SOPHiA GENETICS To Collaborate On Advancing Cancer Care"
-    excerpt: "GE Healthcare and SOPHiA GENETICS said that they have signed a letter of intent to collaborate on advancing cancer care, with the"
-    publishedDateTime: 2021-07-06T14:50:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/ge-healthcare-sophia-genetics-to-collaborate-on-advancing-cancer-care-1030582479"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 49
   - title: "GE Healthcare, Sophia Genetics tag-team cancer care with patient-treatment matching tools"
     excerpt: "The health tech powerhouses are joining forces to build an analytics platform that matches patients to the best possible treatment regimens for their specific genomic signature, cancer type and lifelong health record."
     publishedDateTime: 2021-07-07T15:55:00Z

@@ -72,6 +72,20 @@ related:
         width: 690
         height: 400
         isCached: true
+  - title: "NASA: Nurturing AI Technologies from Silicon Valley Tech Giants"
+    excerpt: "NASA is leveraging AI technologies, with Silicon Valley tech giants who are known to pioneers in Artificial Intelligence. This article shows the innovations of NASA with AI to collect sufficient data for the Earth."
+    publishedDateTime: 2021-07-11T06:30:00Z
+    webUrl: "https://www.analyticsinsight.net/nasa-nurturing-ai-technologies-from-silicon-valley-tech-giants/"
+    type: article
+    provider:
+      name: Analytics Insight
+      domain: analyticsinsight.net
+    quality: 37
+    images:
+      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/07/NASA-Nurturing-AI-Technologies-from-Silicon-Valley-Tech-Giants-Disha.jpg"
+        width: 900
+        height: 500
+        isCached: true
 
 secured: "sujpW0VjmuuTw5EdSwR+z4cBwZglH/+iQ+KWnCezLid6lOGTWaFfw9c9sU5EACvwcywtOZxq5cKUOBuF40gc/t2DLiBBPS/Xm6vXiZegiRMDr/lZFpTMxD8eXHEEgVNrGcXJVv/hK3wp8tBSFvd8Q8W0cspqfv3GQaBHs1J62P0AZwOWhnIEWv4kuoMCbg0smHNY9rBMBL89w81bW6fQabjWGzsaDQrzoNeZsOdwSAD6/7qXSSBvVF2muDu82iSCUduVQy6r28iik3F54taVB83vS96IUX15qc9UJTbkIsu35qB2MUs/hoMeO0LkMN4etZVp6A7f9gmaKRABM85ESAUSy2kATg8Wjb67U4vMu9w=;3OSr4/rCIZSYB2T83ZJW1Q=="
 ---

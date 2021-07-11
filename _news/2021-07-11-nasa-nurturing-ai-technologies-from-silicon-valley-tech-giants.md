@@ -1,28 +1,26 @@
 ---
 category: news
-title: "Micron technology puts its cash to work using artificial intelligence"
-excerpt: "The Boise, Idaho-based memory-chip maker says it is earning millions of dollars in extra returns on its deposits thanks to an AI tool developed in house"
-publishedDateTime: 2021-07-10T01:07:00Z
-originalUrl: "https://www.livemint.com/technology/tech-news/micron-technology-puts-its-cash-to-work-using-artificial-intelligence-11625836801977.html"
-webUrl: "https://www.livemint.com/technology/tech-news/micron-technology-puts-its-cash-to-work-using-artificial-intelligence-11625836801977.html"
-ampWebUrl: "https://www.livemint.com/technology/tech-news/micron-technology-puts-its-cash-to-work-using-artificial-intelligence/amp-11625836801977.html"
-cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/tech-news/micron-technology-puts-its-cash-to-work-using-artificial-intelligence/amp-11625836801977.html"
+title: "NASA: Nurturing AI Technologies from Silicon Valley Tech Giants"
+excerpt: "NASA is leveraging AI technologies, with Silicon Valley tech giants who are known to pioneers in Artificial Intelligence. This article shows the innovations of NASA with AI to collect sufficient data for the Earth."
+publishedDateTime: 2021-07-11T06:30:00Z
+originalUrl: "https://www.analyticsinsight.net/nasa-nurturing-ai-technologies-from-silicon-valley-tech-giants/"
+webUrl: "https://www.analyticsinsight.net/nasa-nurturing-ai-technologies-from-silicon-valley-tech-giants/"
 type: article
-quality: 57
+quality: 37
 heat: -1
 published: false
 
 provider:
-  name: Mint
-  domain: livemint.com
+  name: Analytics Insight
+  domain: analyticsinsight.net
 
 topics:
   - AI
 
 images:
-  - url: "https://images.livemint.com/img/2021/07/09/600x338/2021-07-01T093323Z_1643310723_RC2LBO9R6YOJ_RTRMADP_3_MICRON-TECH-RESULTS_1625837012609_1625837026629.JPG"
-    width: 600
-    height: 338
+  - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/07/NASA-Nurturing-AI-Technologies-from-Silicon-Valley-Tech-Giants-Disha.jpg"
+    width: 900
+    height: 500
     isCached: true
 
 related:
@@ -42,6 +40,22 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Micron technology puts its cash to work using artificial intelligence"
+    excerpt: "The Boise, Idaho-based memory-chip maker says it is earning millions of dollars in extra returns on its deposits thanks to an AI tool developed in house"
+    publishedDateTime: 2021-07-10T01:07:00Z
+    webUrl: "https://www.livemint.com/technology/tech-news/micron-technology-puts-its-cash-to-work-using-artificial-intelligence-11625836801977.html"
+    ampWebUrl: "https://www.livemint.com/technology/tech-news/micron-technology-puts-its-cash-to-work-using-artificial-intelligence/amp-11625836801977.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/tech-news/micron-technology-puts-its-cash-to-work-using-artificial-intelligence/amp-11625836801977.html"
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
+    quality: 57
+    images:
+      - url: "https://images.livemint.com/img/2021/07/09/600x338/2021-07-01T093323Z_1643310723_RC2LBO9R6YOJ_RTRMADP_3_MICRON-TECH-RESULTS_1625837012609_1625837026629.JPG"
+        width: 600
+        height: 338
+        isCached: true
   - title: "Using Genomic-Based AI Technology to Advance Cancer Care"
     excerpt: "GE Healthcare and SOPHiA GENETICS are partnering up to develop genomic-based artificial intelligence technology to advance cancer treatment and care."
     publishedDateTime: 2021-07-06T17:00:00Z
@@ -55,20 +69,6 @@ related:
       - url: "https://healthitanalytics.com/images/site/article_headers/_normal/ThinkstockPhotos-495213850.jpg"
         width: 690
         height: 400
-        isCached: true
-  - title: "NASA: Nurturing AI Technologies from Silicon Valley Tech Giants"
-    excerpt: "NASA is leveraging AI technologies, with Silicon Valley tech giants who are known to pioneers in Artificial Intelligence. This article shows the innovations of NASA with AI to collect sufficient data for the Earth."
-    publishedDateTime: 2021-07-11T06:30:00Z
-    webUrl: "https://www.analyticsinsight.net/nasa-nurturing-ai-technologies-from-silicon-valley-tech-giants/"
-    type: article
-    provider:
-      name: Analytics Insight
-      domain: analyticsinsight.net
-    quality: 37
-    images:
-      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/07/NASA-Nurturing-AI-Technologies-from-Silicon-Valley-Tech-Giants-Disha.jpg"
-        width: 900
-        height: 500
         isCached: true
   - title: "Biotech startup using AI to take guesswork out of cancer drug selection raises $70M"
     excerpt: "Xilis is developing technology that creates a living model of a patient’s tumor, then applies artificial intelligence to determine the best drug or drug combinations to treat the cancer. Clinical trials are planned to test this precision medicine approach and the biotech startup has raised $70 million to fund its research."
@@ -85,6 +85,6 @@ related:
         height: 930
         isCached: true
 
-secured: "R1t/XQjZGFKvhFBv8dpqGRlTsoYIjm3SigSJbZolSo7sFchkPPutkQLCbKuVvHsWCGKDi2WyHBts2jP1GXSW4K7hEFERtRA1ZefvpcEsUaGKAqyMCgZ3gbs4Q4ag+FToadDiS5qMDSjROmb5J0tQy9XWxZ+DDa301jEyoj5LhTrdCkyPE4YslRsHst3e0ERfQq0oK8N5u//fF0Uh7QWCpdmV2UAVcb9cGJP7SBSBQc+i3TPE7j+myzu1WHVPByl8hLK735n8eqwku/ARYMNONhWY5zdyaNUk/TmTxjICpTMTbO4zyTdTX5fB291SPyB4RHgqZoOFDXx5kn06GydkkvNQwkZCR0JDWJgsrVwty38=;29EKQlv+ev2aPIA9zcI0rw=="
+secured: "M2UGvjFJCopeviwtaGwgYqi4k6WIZ4tnKfs93pWxqm9YilzCrC9iS/7JwzqVPl50AXs6y+ZBhfd/b0UyJBSRm3dFNY3J9jjoz7JNjWs/q8Fkcx76mGyY/l7QQe1txzS+JUVb5zCUjUlzmDE12QjEeFu9CKVOcWd1n5ll7V6KzbCwFQrZxsLtSEihA7eSBjoHsZbTdvKbipNH+tF2BmnrvwsdqVBf/vjmqPOboGDOis2M/tbLWkbFRrf/lgzkM94hacKRl51QBqJZ8dv9RncF/dHZ0CyWAtuF7oyiA4sqnKZzYrX2Vq5MkGQx34hXwaRzMgNJptYp7GPL6jTOVSP8LrLaX0mTlOtShPZO6ZpyhUY=;oleMTTamamCLpxs/6vZxCg=="
 ---
 

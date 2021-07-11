@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/garydrenik/2021/07/08/learn-about-machi
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/garydrenik/2021/07/08/learn-about-machine-learning-through-the-lens-of-a-hedge-fund/amp/"
 type: article
 quality: 93
-heat: 103
+heat: 113
 published: true
 
 provider:
@@ -33,6 +33,20 @@ images:
     isCached: true
 
 related:
+  - title: "The Future of Deep Learning"
+    excerpt: "Today, we get to see organizations showing an inclination towards the adoption of deep learning, a branch of artificial intelligence in particular. With immense popularity in the field of deep learning,"
+    publishedDateTime: 2021-07-10T06:38:00Z
+    webUrl: "https://www.analyticsinsight.net/the-future-of-deep-learning/"
+    type: article
+    provider:
+      name: Analytics Insight
+      domain: analyticsinsight.net
+    quality: 39
+    images:
+      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/07/Deep-Learning.jpeg"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "Deep Learning Offers the Potential to Improve the Video Streaming Experience"
     excerpt: "In this contributed article, Christian Timmerer, Co-founder of Bitmovin, describes the findings of a recent paper that Timmerer and his team presented at IEEE’s International Conference on Communications and Image Processing which explores the use of Convoluted Neural Networks (CNNs) to improve video streaming."
     publishedDateTime: 2021-07-08T13:00:00Z

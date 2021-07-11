@@ -25,17 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Global Mobile Robots Market (2021 to 2026) - Featuring Softbank Robotics, SMP Robotics and Aethon Among Others - ResearchAndMarkets.com"
-    excerpt: "The \"Mobile Robots Market - Forecasts from 2021 to 2026\" report has been added to ResearchAndMarkets.com's offering. The global mobile robots market is evaluated"
-    publishedDateTime: 2021-07-06T13:08:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/21/07/b21855417/global-mobile-robots-market-2021-to-2026-featuring-softbank-robotics-smp-robotics-and-aethon-among"
-    ampWebUrl: "https://www.benzinga.com/amp/content/21855417"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/21855417"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 22
   - title: "Worldwide Surgical Robots Industry to 2026 - Featuring Accuray Incorporated, CMR Surgical and Medtronic Among Others - ResearchAndMarkets.com"
     excerpt: "Global Industry Trends, Share, Size, Growth, Opportunity and Forecast 2021-2026” report has been added to ResearchAndMarkets.com’s offering. The global surgical robots market exhibited strong growth during 2015-2020."
     publishedDateTime: 2021-07-09T17:06:00Z

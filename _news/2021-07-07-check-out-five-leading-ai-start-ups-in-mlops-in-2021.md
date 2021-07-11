@@ -24,22 +24,6 @@ images:
     height: 500
     isCached: true
 
-related:
-  - title: "4 Innovative Start-Ups To Watch In 2021"
-    excerpt: "We’ve compiled a list of four innovative start-ups to keep an eye on in 2021. These companies are creating new and exciting technologies"
-    publishedDateTime: 2021-07-06T14:07:00Z
-    webUrl: "https://www.valuewalk.com/4-innovative-start-ups-watch-2021/"
-    type: article
-    provider:
-      name: ValueWalk
-      domain: valuewalk.com
-    quality: 22
-    images:
-      - url: "https://www.valuewalk.com/wp-content/uploads/2021/07/lightbulb_1625579840.jpg"
-        width: 1280
-        height: 847
-        isCached: true
-
 secured: "vISA7U86/eVm3ofL8TvGDUvivU4SutaHycS870YAXFuZjXjKAiM/UL6VbBRC4lmh0IGiz3wVr1Y+5vmYojEqpF8ecOaR7aIqDabnOHnTjCw0dl0TUTpd+hC7q+2XfOxbngYns5r8LETYEUF4kljjlPMbu45RwXhrtZXDBRbkZIvCpkGJb2Wi3ugobraYt7RA0q7VCCu0X2980Xp4uxT5tBcwBccT11Hl9Wmf/04fCf9p+frBr+tJHURjA8LhFQbQ523aJGeZujCxhPZ12g24MHeXLIReBNSuWiOSvhfiPIao8EuiQE9gMkAW03HBptrz8cUaYX5dbZdVHZMdz5c+tt/MkAHBtq0meyTpKYuSkwE=;vlUnA2p3Ilcqllz8IQuULg=="
 ---
 

@@ -41,6 +41,20 @@ related:
         width: 640
         height: 251
         isCached: true
+  - title: "The Future of Deep Learning"
+    excerpt: "Today, we get to see organizations showing an inclination towards the adoption of deep learning, a branch of artificial intelligence in particular. With immense popularity in the field of deep learning,"
+    publishedDateTime: 2021-07-10T06:38:00Z
+    webUrl: "https://www.analyticsinsight.net/the-future-of-deep-learning/"
+    type: article
+    provider:
+      name: Analytics Insight
+      domain: analyticsinsight.net
+    quality: 39
+    images:
+      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/07/Deep-Learning.jpeg"
+        width: 1600
+        height: 900
+        isCached: true
 
 secured: "vjoCpDVSG7rksl2YqeoNqNpIAIccUOYdAghm92L8MN92hCwA7a/P2VN3qCGRSAAbVbKNuZ5fkD97LUWRGXJHSUrojUQfEFWUNzJrjIuTbTQce/X8NRALcwc1IEk5Smceuk9+qUQzl4LJgyK2EQ+oZX+D/51KefuJz2Dhv2+yFRbks1efvHMhpHc0M51lJyhg88AQ2adyobbAXmIdsKLqsvr73KD0Lmsgf0kCgGTgHCn2YqD0CckY5IIVPOiF7+CLdIavm4Mgq3UcUdBp32P/tWp3YQFL/Y+SOqloYCd45WoVe65z0OXGvBjxQaUnBFkVLhrCBx4LCMc9QRITBoUdF5BJ3b6aYP66MtiWbYLuEufx7pOcI6APNPhWEECtmSmmLwN2WOi+t25u5N9PtthBN4iuW4RILbnRCkTvEaUkO+pQeUCMkGK4j/z8w+WiSHFIEFgViCcr6aE59gRITSy6E/zhM7rBCT3JNdO6ihcy5c1uYm4gft7yiw2sZEf2ZGLV2ff+bqjvJ6MYci55SX7crA==;xYxgZsD9rEEC4VfAIej/dQ=="
 ---

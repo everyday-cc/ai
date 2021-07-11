@@ -19,20 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "App Uses Artificial Intelligence Algorithm to Predict Alzheimer’s"
-    excerpt: "Researchers are developing an app that will use an artificial intelligence algorithm to predict signs of early Alzheimer's."
-    publishedDateTime: 2021-07-06T13:30:00Z
-    webUrl: "https://healthitanalytics.com/news/app-uses-artificial-intelligence-algorithm-to-predict-alzheimers"
-    type: article
-    provider:
-      name: Analytics
-      domain: healthitanalytics.com
-    quality: 39
-    images:
-      - url: "https://healthitanalytics.com/images/site/article_headers/_normal/ThinkstockPhotos-669282098.jpg"
-        width: 690
-        height: 400
-        isCached: true
   - title: "Alzheimer's Disease Researchers Release Free Memory Tracking App"
     excerpt: "Today, Leucadia Therapeutics Inc, a California HealthTech Company, is launching 8 Apps that help exercise memory and cognition, including a personalized memory tracker"
     publishedDateTime: 2021-07-09T10:00:00Z

@@ -3,8 +3,8 @@ category: news
 title: "Alluxio Brings Substantial Performance and Ease of Use Improvements to GPU-Centric AI/ML Workloads with v2.6 Release"
 excerpt: "This new release features an enhanced system architecture enabling AI/ML platform teams using GPUs to accelerate their data pipelines for business intelligence, applied machine learning and model training."
 publishedDateTime: 2021-07-01T12:06:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/2021/07/01/9401759.htm"
-webUrl: "https://www.tmcnet.com/usubmit/2021/07/01/9401759.htm"
+originalUrl: "https://www.tmcnet.com/usubmit/-alluxio-brings-substantial-performance-ease-use-improvements-gpu-/2021/07/01/9401759.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-alluxio-brings-substantial-performance-ease-use-improvements-gpu-/2021/07/01/9401759.htm"
 type: article
 
 provider:
@@ -16,6 +16,6 @@ topics:
   - AI
   - Machine Learning
 
-secured: "7GiU+zHQpwrRFra9dOKZE4Euy483dXRL4HTQZxEA2WP2EbhT2gj9GiHa+xZ0yxiaQKfwCm1RsqdxejSEKOIiG0OkWO7u51JVIb9BGwwei3z9t6vmMmBkOy8jH8kpbuNnPJH4ZCbNeQRASaKjn39f7zkuV5xKQ47S5EJYMZ7Zp0OtFRQE4Ft9iDTIGymcVt38acAo4HfG2RJuoBdHb7k+vMSW67F/aYAvma4t8igieUAPF+RFw4BLCN9vwkfHIX+jhg0cEJ+CZjWwCoFaMp/Bj56k2GK6k8WiGjJzcO+KmdtrLKQ614qb6iOBk/61s9VM5/6NnDHq8ZpjmDoTtrI77VE8jlECKXRFDCo2F2KV+gs=;IJIyx/NRMLJcGq5/FpEaNg=="
+secured: "zxOijAeuWiFEwdivRFkiYkCZsyodUWGGYy7tuCZTCQ01huJD7IKAkHHGfjHKwwiqgt3+gVpGNamQcCz0N6ZMwuHbDq4W4SWzQZIp2CWpsAz2DKArV9gPVwb7noonFXC7AptoALFZTQTYyoHYMjamCRKRUGHkOcZVS/3ZdM/i6w6Yqr+bhnz1okzUEGyQemXzhihfC+QdIoGcqk9FRnzSeszlTINvm/tZAv6q8qtLcQb3dcKVDA2AqEy+QrJIYDam9NOOuO7YW/oCizc3pTBGLVZ02RzmgXExHMyar/c9AIo8fL9fbd7x7+kGC+k61orRDtMLMaZd1JNR1GLru445GQUi4PHtkMxvbAdQxcTHeFc=;QahbihOLRrqeN9pd4aoLoQ=="
 ---
 

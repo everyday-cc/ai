@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wsj.com/amp/articles/micron-technology-puts-its-cash-to-
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/micron-technology-puts-its-cash-to-work-using-artificial-intelligence-11625781002"
 type: article
 quality: 87
-heat: 117
+heat: 127
 published: true
 
 provider:
@@ -59,6 +59,20 @@ related:
       - url: "https://healthitanalytics.com/images/site/article_headers/_normal/ThinkstockPhotos-495213850.jpg"
         width: 690
         height: 400
+        isCached: true
+  - title: "NASA: Nurturing AI Technologies from Silicon Valley Tech Giants"
+    excerpt: "NASA is leveraging AI technologies, with Silicon Valley tech giants who are known to pioneers in Artificial Intelligence. This article shows the innovations of NASA with AI to collect sufficient data for the Earth."
+    publishedDateTime: 2021-07-11T06:30:00Z
+    webUrl: "https://www.analyticsinsight.net/nasa-nurturing-ai-technologies-from-silicon-valley-tech-giants/"
+    type: article
+    provider:
+      name: Analytics Insight
+      domain: analyticsinsight.net
+    quality: 37
+    images:
+      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/07/NASA-Nurturing-AI-Technologies-from-Silicon-Valley-Tech-Giants-Disha.jpg"
+        width: 900
+        height: 500
         isCached: true
   - title: "Biotech startup using AI to take guesswork out of cancer drug selection raises $70M"
     excerpt: "Xilis is developing technology that creates a living model of a patient’s tumor, then applies artificial intelligence to determine the best drug or drug combinations to treat the cancer. Clinical trials are planned to test this precision medicine approach and the biotech startup has raised $70 million to fund its research."

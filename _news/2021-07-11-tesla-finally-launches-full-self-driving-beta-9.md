@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techspot.com/amp/news/90377-tesla-finally-launches-full-
 cdnAmpWebUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/90377-tesla-finally-launches-full-self-driving-beta-9.html"
 type: article
 quality: 89
-heat: 189
+heat: 179
 published: true
 
 provider:
@@ -124,20 +124,6 @@ related:
       - url: "https://etimg.etb2bimg.com/thumb/msid-84305403,imgsize-714624,width-800,height-434,overlay-etauto/tesla-finally-releases-full-self-driving-beta-version.jpg"
         width: 800
         height: 434
-        isCached: true
-  - title: "Tesla Will Release A ‘Mind Of Car’ Software Update Alongside Full Self Driving Tech"
-    excerpt: "Tesla will be releasing a 'Mind of Car' software update alongside the Full Self Driving tech. Here are the details."
-    publishedDateTime: 2021-07-06T14:09:00Z
-    webUrl: "https://www.redmondpie.com/tesla-will-release-a-mind-of-car-software-update-alongside-full-self-driving-tech/"
-    type: article
-    provider:
-      name: Redmond Pie
-      domain: redmondpie.com
-    quality: 48
-    images:
-      - url: "https://cdn.redmondpie.com/wp-content/uploads/2018/03/Tesla-main-1200.jpg"
-        width: 1200
-        height: 700
         isCached: true
   - title: "Tesla finally releases 'Full Self-Driving' Beta version"
     excerpt: "Elon Musk-run Tesla on Saturday started releasing over-the-air software updates for its much-awaited \"Full Self-Driving\" Beta"

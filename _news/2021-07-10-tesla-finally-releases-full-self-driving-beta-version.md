@@ -135,20 +135,6 @@ related:
         width: 800
         height: 434
         isCached: true
-  - title: "Tesla Will Release A ‘Mind Of Car’ Software Update Alongside Full Self Driving Tech"
-    excerpt: "Tesla will be releasing a 'Mind of Car' software update alongside the Full Self Driving tech. Here are the details."
-    publishedDateTime: 2021-07-06T14:09:00Z
-    webUrl: "https://www.redmondpie.com/tesla-will-release-a-mind-of-car-software-update-alongside-full-self-driving-tech/"
-    type: article
-    provider:
-      name: Redmond Pie
-      domain: redmondpie.com
-    quality: 48
-    images:
-      - url: "https://cdn.redmondpie.com/wp-content/uploads/2018/03/Tesla-main-1200.jpg"
-        width: 1200
-        height: 700
-        isCached: true
   - title: "Elon Musk Says Tesla’s ‘Mind-Blowing’ Full Self-Driving Beta v9 Will Arrive This Saturday"
     excerpt: "Elon Musk says that Tesla's 'mind blowing' Full Self-Driving beta v9 update will arrive this Saturday. Here are all the details on this."
     publishedDateTime: 2021-07-08T14:26:00Z

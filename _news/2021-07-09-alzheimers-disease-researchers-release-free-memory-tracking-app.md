@@ -7,7 +7,7 @@ originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/alzheimer
 webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/alzheimers-disease-researchers-release-free-memory-tracking-app/article_9684c7ea-dc94-5ebb-95f5-f8814e780430.html"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "App Uses Artificial Intelligence Algorithm to Predict Alzheimer’s"
-    excerpt: "Researchers are developing an app that will use an artificial intelligence algorithm to predict signs of early Alzheimer's."
-    publishedDateTime: 2021-07-06T13:30:00Z
-    webUrl: "https://healthitanalytics.com/news/app-uses-artificial-intelligence-algorithm-to-predict-alzheimers"
-    type: article
-    provider:
-      name: Analytics
-      domain: healthitanalytics.com
-    quality: 39
-    images:
-      - url: "https://healthitanalytics.com/images/site/article_headers/_normal/ThinkstockPhotos-669282098.jpg"
-        width: 690
-        height: 400
-        isCached: true
   - title: "Alzheimer's Disease Researchers Release Free Memory Tracking App"
     excerpt: "Leucadia Therapeutics Inc, a California HealthTech Company, is launching 8 Apps that help exercise memory and cognition, including"
     publishedDateTime: 2021-07-09T19:30:00Z

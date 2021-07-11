@@ -71,20 +71,6 @@ related:
         width: 750
         height: 500
         isCached: true
-  - title: "Cyber Security In Fintech: Top 5 Tips"
-    excerpt: "Top 5 tips to enhance cybersecurity in Fintech companies that must not be neglected by businesses at any cost in this era where extraordinary cyberattacks encounter on a day-to-day basis."
-    publishedDateTime: 2021-07-06T14:56:00Z
-    webUrl: "https://www.cybersecurityintelligence.com/blog/cyber-security-in-fintech-top-5-tips-5735.html"
-    type: article
-    provider:
-      name: cybersecurityintelligence.com
-      domain: cybersecurityintelligence.com
-    quality: 41
-    images:
-      - url: "https://www.cybersecurityintelligence.com/files/upload/htmleditor/ezgif.com-gif-maker%20-%202021-07-06T152822.400.png"
-        width: 398
-        height: 375
-        isCached: true
   - title: "Rise by Barclays: Embedded finance and the future of fintech"
     excerpt: "Mariquit Corcoran, Group CIO at Barclays, contextualises the benefits that embedded finance is bringing to customers and how it could shape fintech overall"
     publishedDateTime: 2021-07-08T07:48:00Z

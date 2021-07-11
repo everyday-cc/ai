@@ -56,6 +56,20 @@ related:
         width: 600
         height: 338
         isCached: true
+  - title: "NASA: Nurturing AI Technologies from Silicon Valley Tech Giants"
+    excerpt: "NASA is leveraging AI technologies, with Silicon Valley tech giants who are known to pioneers in Artificial Intelligence. This article shows the innovations of NASA with AI to collect sufficient data for the Earth."
+    publishedDateTime: 2021-07-11T06:30:00Z
+    webUrl: "https://www.analyticsinsight.net/nasa-nurturing-ai-technologies-from-silicon-valley-tech-giants/"
+    type: article
+    provider:
+      name: Analytics Insight
+      domain: analyticsinsight.net
+    quality: 37
+    images:
+      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/07/NASA-Nurturing-AI-Technologies-from-Silicon-Valley-Tech-Giants-Disha.jpg"
+        width: 900
+        height: 500
+        isCached: true
   - title: "Biotech startup using AI to take guesswork out of cancer drug selection raises $70M"
     excerpt: "Xilis is developing technology that creates a living model of a patient’s tumor, then applies artificial intelligence to determine the best drug or drug combinations to treat the cancer. Clinical trials are planned to test this precision medicine approach and the biotech startup has raised $70 million to fund its research."
     publishedDateTime: 2021-07-09T00:46:00Z

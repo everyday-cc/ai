@@ -25,21 +25,33 @@ images:
     isCached: true
 
 related:
-  - title: "GPU Workstations Help First Responders Hit Pause on PTSD"
-    excerpt: "Sponsored Having photographed some of the most horrific, fast-moving news stories of the 1990s, Yael Swerdlow believes one of the keys to recovering from"
-    publishedDateTime: 2021-07-06T14:11:00Z
-    webUrl: "https://www.nextplatform.com/2021/07/06/gpu-workstations-help-first-responders-hit-pause-on-ptsd/"
-    ampWebUrl: "https://www.nextplatform.com/2021/07/06/gpu-workstations-help-first-responders-hit-pause-on-ptsd/amp/"
-    cdnAmpWebUrl: "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2021/07/06/gpu-workstations-help-first-responders-hit-pause-on-ptsd/amp/"
+  - title: "Voice biometrics spoof detection catching up, EAB speaker says"
+    excerpt: "Voice biometric systems, counter-measures against attacks against them, and our understanding of how well those counter-measures work have come a long way."
+    publishedDateTime: 2021-07-09T18:02:00Z
+    webUrl: "https://www.biometricupdate.com/202107/voice-biometrics-spoof-detection-catching-up-eab-speaker-says"
     type: article
     provider:
-      name: The Next Platform
-      domain: nextplatform.com
-    quality: 59
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 24
     images:
-      - url: "https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2019/12/ab_blocks_ruweuji-scaled.jpg"
-        width: 2560
-        height: 1536
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2018/01/09162857/voice-biometrics-large2.jpg"
+        width: 900
+        height: 499
+        isCached: true
+  - title: "Ethnicity recognition found among Russian face biometrics providers’ features"
+    excerpt: "A quartet of Russian biometrics providers have been found to have built ethnicity-recognition tools into facial recognition systems."
+    publishedDateTime: 2021-07-06T16:50:00Z
+    webUrl: "https://www.biometricupdate.com/202107/ethnicity-recognition-found-among-russian-face-biometrics-providers-features"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 21
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2018/05/15123931/face-biometrics.jpg"
+        width: 1050
+        height: 591
         isCached: true
 
 secured: "a82PCLWhflAKFbksfcf1QFICGFOD74xIJMnJQlBZcAOrpmxkLA8ydpwr8wJTH988qABZ4HOB7P+T+iK5W28OjbOh5TNPE/zl7t8/B9in5hbA2/w9SEkIuOallYEtxz+mmBPPSyHHA9VRbUW7twYhQw3FQ9jMOsn0Jcq4ckgIXMjGjw8wSPjzFlZR8+5rzlxYnLU234G5/G3nGyAQels0ADFTXbFdxpeNrCNuzMA4cgxFOhrjQhYAMMRqyapnfPdwahNbKTkXNuSnGYTrl4pTrTg/G6FtHKUtwlbwFrVebq20kLKvUElNJAIRrh+Zn1U5oOy9Iy9/YsONoSDofoJXS7LTIJF/xYll9ruIIl7+Gqw=;1yaH+eUPa8WcSb30SKvVhg=="

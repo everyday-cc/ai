@@ -49,20 +49,6 @@ related:
         width: 850
         height: 400
         isCached: true
-  - title: "Best Western Slashes Analytics Costs, Improves Operations Worldwide Using Amazon QuickSight"
-    excerpt: "The ability to share data and glean customer insights is essential to remaining competitive in a service-focused industry."
-    publishedDateTime: 2021-07-06T14:00:00Z
-    webUrl: "https://www.forbes.com/sites/amazonwebservices/2021/07/06/best-western-slashes-analytics-costs-improves-operations-worldwide-using-amazon-quicksight/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 44
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60b7e805d0694a403a7dd31b%2F0x0.jpg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Deep Learning Market Size 2021 Global Industry Trends, Segments, Competitors Strategy, Regional Analysis, Key Players, Statistics and Growth to 2030"
     excerpt: "Facebook announced the launch of its deep learning framework PyTorch 1.0. The framework includes a set of tools which makes it more compatible with platforms like Google Cloud, Amazon Web Services, and Microsoft's Azure Machine Learning. In October 2018 ..."
     publishedDateTime: 2021-07-07T03:35:00Z
@@ -88,20 +74,6 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 17
-  - title: "World-leading paediatric hospital to use data analytics and real-time predictive AI to prevent avoidable deaths in children"
-    excerpt: "Top clinician at a leading ﻿UK children’s hospital believes the ﻿future of healthcare involves wireless monitoring ﻿and smart alarms﻿, both in hospital"
-    publishedDateTime: 2021-07-06T13:41:00Z
-    webUrl: "https://www.mynewsdesk.com/uk/isansys-lifecare-ltd/news/world-leading-paediatric-hospital-to-use-data-analytics-and-real-time-predictive-ai-to-prevent-avoidable-deaths-in-children-430788"
-    type: article
-    provider:
-      name: mynewsdesk.com
-      domain: mynewsdesk.com
-    quality: 11
-    images:
-      - url: "https://resources.mynewsdesk.com/image/upload/c_fill,h_628,q_auto:good,w_1200/helq0hhhnjtuvez8ynsg.jpg"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "Global Artificial Intelligence Platform Market Size, Share and Analysis To Grow At An Annual Rate Of 56.6% Through 2024"
     excerpt: "The report Artificial Intelligence Platform Market Size and Analysis maintains enhanced dynamics and is overshadowed by a top player across the globe. The research report provides Artificial Intelligence Platform Market Growth and information corresponding to market segments such as geographies,"
     publishedDateTime: 2021-07-09T10:33:00Z
