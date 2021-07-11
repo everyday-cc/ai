@@ -7,7 +7,7 @@ originalUrl: "https://www.fiercebiotech.com/medtech/ge-healthcare-sophia-genetic
 webUrl: "https://www.fiercebiotech.com/medtech/ge-healthcare-sophia-genetics-to-tag-team-cancer-care-patient-specific-treatment-matching"
 type: article
 quality: 30
-heat: -1
+heat: 30
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 880
     height: 587
     isCached: true
-
-related:
-  - title: "GE Healthcare collaborates with Sophia Genetics"
-    excerpt: "GE Healthcare and Sophia Genetics have announced that they are collaborating to better target and match treatments to each patient's genomic profile and cancer type using artificial intelligence."
-    publishedDateTime: 2021-07-06T21:30:00Z
-    webUrl: "https://www.auntminnie.com/index.aspx?sec=log&itemid=132842"
-    type: article
-    provider:
-      name: AuntMinnie
-      domain: auntminnie.com
-    quality: 39
-    images:
-      - url: "https://www.auntminnie.com/user/images/content_images/sup_aic/2019_12_09_17_23_6730_artificial_intelligence_AI_suit_400.jpg"
-        width: 400
-        height: 400
-        isCached: true
 
 secured: "+j9axsbeFAAhyvve6IP18Q/+XpAH6i0JPNUqudqRJ3FRirIDPgecN760EJ57WFIZb7kzgy4mQ9lSvGPbeXTm6AuE8ufH1qmdUbCqpbnDMFUsVNh6RvqhBhbr25dsmS5plHSMRfyI2NG6jVwsk/RRRPbpI+Jo+n77aKVx7d+lb11M+jq+TJ0pwsKbbHcEiihPsPBPusjHkGSjPA1L03qmPWDkXmWAFxexQlkvnQnCviP7xO0ShmYgWcAt3LTU3mYQPMOECDjPPvfnT348yP5NKlr0RPbTILtqxBMR0QnsBvc6u4UFdyqRJvsK0K4SkXfMl1a7hUYVhLouFU2tFCcjkTAI9HHKuNGCfYRFT8vGzPw=;Rv2u+uIH6/zuGuzszNOpDA=="
 ---

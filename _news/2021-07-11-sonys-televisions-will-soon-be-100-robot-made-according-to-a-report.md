@@ -1,0 +1,51 @@
+---
+category: news
+title: "Sony's televisions will soon be 100% robot-made, according to a report"
+excerpt: "He told the newspaper: \"I don't think automation alone using robots will bring enough merits. The key is to use digitalization to link both sales and manufacturing.\" Sales data would be studied using artificial intelligence to more effectively calculate ..."
+publishedDateTime: 2021-07-11T15:13:00Z
+originalUrl: "https://www.businessinsider.com/sony-robots-automation-tv-camera-smartphone-factory-2021-7"
+webUrl: "https://www.businessinsider.com/sony-robots-automation-tv-camera-smartphone-factory-2021-7"
+ampWebUrl: "https://www.businessinsider.com/sony-robots-automation-tv-camera-smartphone-factory-2021-7?amp"
+cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/sony-robots-automation-tv-camera-smartphone-factory-2021-7?amp"
+type: article
+quality: 89
+heat: 99
+published: true
+
+provider:
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - AI in Robotics
+  - AI
+
+images:
+  - url: "https://i.insider.com/609eb383f27b4c00194448b5?width=1200&format=jpeg"
+    width: 1200
+    height: 600
+    isCached: true
+
+related:
+  - title: "Sony to Use Robots to Cut Costs and Boost Digital Services: FT"
+    excerpt: "Sony Corp. predicts that robots will take over its manufacturing of televisions ... Sales data will be analysed using artificial intelligence to more effectively set manufacturing volume, Maki told the FT. While the company will continue selling hardware ..."
+    publishedDateTime: 2021-07-11T08:46:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2021-07-11/sony-to-use-robots-to-cut-costs-and-boost-digital-services-ft"
+    type: article
+    provider:
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 69
+    images:
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iO8sMJQaLxm0/v0/1200x771.jpg"
+        width: 1200
+        height: 771
+        isCached: true
+
+secured: "KvWR/0BJXs4H/cDJGMq5H6AsoJo+qgzDMKCQNpOSuDkWJrdmPJHqOTfzmlkX8R8KWsaxLALk72WWtEB1qwelpG8i1mdBMSExY9MrvoqR2NjWbMp3f/mb43BL2fgXnIoZpv9Gw4Im8ISyRk5rU+xg8ZklZy/qapM4gEUuDYvb3iFN8Q9hn08JAYTM+9gnLmHf3OZ+lt4viulm+ZM+67528QIMw7rn2A115th9qf/+4YUjjsAW6r1upmjkrtd8VXUlEKJq5oAHP8yCpOf7I7EAA46FSyQ3bQxozz27jln6y3oRgsvMUbfN0iVl5VlVgbd/ROg3gHI4D0sWkZqYTAG/1F4Y7ooxYP6fZOVe1JAg9vI=;aD/Sswc12qngF1NSMLlO7g=="
+---
+

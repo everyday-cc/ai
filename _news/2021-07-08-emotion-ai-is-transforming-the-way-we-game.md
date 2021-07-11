@@ -26,22 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Transforming The Insurance Industry With Big Data, Machine Learning, And AI"
-    excerpt: "An emerging wave of “Insurtech” solutions companies are seeking to transform the business of insurance through the introduction of Big Data, Machine Learning, and AI capabilities."
-    publishedDateTime: 2021-07-06T22:21:00Z
-    webUrl: "https://www.forbes.com/sites/randybean/2021/07/06/transforming-the-insurance-industry-with-big-data-machine-learning-and-ai/"
-    ampWebUrl: "https://www.forbes.com/sites/randybean/2021/07/06/transforming-the-insurance-industry-with-big-data-machine-learning-and-ai/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/randybean/2021/07/06/transforming-the-insurance-industry-with-big-data-machine-learning-and-ai/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 102
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60e4d5d325abdbff999bebbe%2F0x0.jpg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Digital transformation fueling spending on cloud, AI, robotics, security and SaaS"
     excerpt: "\"Emerging technologies like artificial intelligence, the Internet of Things ... are investing in key use cases like collaborative robotics, operational performance management, and 3D and digital product design and review for improved cost control and ..."
     publishedDateTime: 2021-07-07T16:31:00Z
@@ -56,17 +40,6 @@ related:
         width: 1000
         height: 576
         isCached: true
-  - title: "How AI Is Transforming the Healthcare Landscape & Accelerating the Development of Medicine"
-    excerpt: "The world of big data in the healthcare sector is vast and growing exponentially. Tools that leverage artificial intelligence (AI) and machine learning (ML) are critical to organizing, correlating, making sense of and generating useful discoveries from this avalanche of healthcare and medical data."
-    publishedDateTime: 2021-07-09T17:51:00Z
-    webUrl: "https://www.nasdaq.com/articles/how-ai-is-transforming-the-healthcare-landscape-accelerating-the-development-of-medicine"
-    ampWebUrl: "https://www.nasdaq.com/articles/how-ai-is-transforming-the-healthcare-landscape-accelerating-the-development-of-medicine?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/how-ai-is-transforming-the-healthcare-landscape-accelerating-the-development-of-medicine?amp"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 74
   - title: "Recycling using artificial intelligence and robotics"
     excerpt: "Abhijeet Ghosh, 6th Grade, Dodgen Middle School, Marietta, Georgia, student looks to recycle waste using artificial intelligence (AI) and robotics. Abhijeet is very keen on recycling. Recycling reduces waste,"
     publishedDateTime: 2021-07-08T09:21:00Z
@@ -81,19 +54,33 @@ related:
         width: 305
         height: 320
         isCached: true
-  - title: "Antitrust Compliance In The AI Industry: Myth Or Reality?"
-    excerpt: "At what stage, would an AI researcher relinquish responsibility over the acts of the machine? “Self-fulfilling prophecies are a problem when it comes to auditing the accuracy of algorithms.” Carissa Veliz The American big tech companies are currently tackling two foes: the Chinese competition and the governments around the world hell bent on breaking them with antitrust and other legal instruments."
-    publishedDateTime: 2021-07-09T10:30:00Z
-    webUrl: "https://analyticsindiamag.com/antitrust-compliance-in-the-ai-industry-myth-or-reality/"
+  - title: "Fueling Healthcare Ai With Adaptive Collaboration"
+    excerpt: "Our product-focused team is busy defining and building the platforms and tools required to rapidly integrate models into the clinical setting, to bring the power of AI to the physician’s fingertips. Our ability to execute on these disruptive,"
+    publishedDateTime: 2021-07-07T03:01:00Z
+    webUrl: "https://www.cioapplications.com/cxoinsights/fueling-healthcare-ai-with-adaptive-collaboration-nid-8084.html"
     type: article
     provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 41
+      name: CIO Applications
+      domain: cioapplications.com
+    quality: 54
     images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/07/antitrust-AI.jpeg"
-        width: 1600
-        height: 900
+      - url: "https://www.cioapplications.com/newstransfer/upload/797zkiLkEKnaidu_ram_100533701.jpg"
+        width: 450
+        height: 308
+        isCached: true
+  - title: "Wobot.ai, the AI-powered Video Analytics Platform, Announces the Launch of a New SaaS-based and Simplified Version of its Product"
+    excerpt: "Wobot.ai, the AI-powered video analytics platform, today announced the launch of a new SaaS-based and simplified version of its product. Wobot.ai is now"
+    publishedDateTime: 2021-07-09T14:06:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/wobot-ai-the-ai-powered-video-analytics-platform-announces-the-launch-of-a-new-saas/article_38004c71-1a5c-5e96-a893-a3588a74fb8a.html"
+    type: article
+    provider:
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 8
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/4/bd/4bd33132-c636-5544-9915-1b38568a0f7d/60e85a23e0b7a.image.jpg"
+        width: 1024
+        height: 878
         isCached: true
 
 secured: "naoRROuukBW9Awz5ydAEP/s91IXHyQVXOY/MMJuAgG37qQ3TtasGKwYcBzi4MjS5ib8Jjscr9UoD9jHurhTQDggag7kOmOqNo2flcTNpcK+p/jkY7w6yWiXnI0I7fiPSWjvdkwRd53QFwFeW1t80BuA5GtB36TiJC9VSPUdK8TW8RmDtcZUGyB7ez0AFPWB9U4NlY58u++XXt0xfPNqBttoiSR6imUXFiGsDd8GprpQ54vIO6P53uiTq20juS6MTR9AHkG2qCKYFBNV/HYlyLEzTruYOTC83hkBo0Z3ne7tlgs5RQDazVZNHk0qRnX5NeDmjcALOLGKFf2/FV3/Jpo8XaOJGucOh9TSQ+2Ym2B3AofYaqe5q3TtoMfDGw+BpP7q1Qk/3cP/mmhh0Cdz7u84qsagpSwg6pGrZDnAMQz+JVLRF1mzyM4wj1Xncdr327+p5Fm/ZCajL5N5SldWg8Gl8iYYpSMOIVu4MFJzn5iniQHColN/l2di5GK1hBnzyHV3OwhreiRddJesMK9W3dA==;DVEqYI3ODmhtb9NNja+5Zg=="

@@ -24,33 +24,63 @@ images:
     isCached: true
 
 related:
-  - title: "Magic Data Tech announced Launch of Annotator® 5.0, An AI-Assisted Data Annotation Platform"
-    excerpt: "Annotator® 5.0, an independently developed data annotation system, was official launched by Magic Data Tech on July 8, 2021 on World Artificial Intelligence Conference (WAIC) 2021, which is a global gathering and exchange of AI innovation ideas,"
-    publishedDateTime: 2021-07-09T02:55:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/magic-data-tech-announced-launch-of-annotator-5-0-an-ai-assisted-data-annotation-platform-1030591711"
+  - title: "Digital transformation fueling spending on cloud, AI, robotics, security and SaaS"
+    excerpt: "\"Emerging technologies like artificial intelligence, the Internet of Things ... are investing in key use cases like collaborative robotics, operational performance management, and 3D and digital product design and review for improved cost control and ..."
+    publishedDateTime: 2021-07-07T16:31:00Z
+    webUrl: "https://www.securitysystemsnews.com/article/digital-transformation-fueling-spending-on-cloud-ai-robotics-security-and-saas"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
+      name: Security Systems News
+      domain: securitysystemsnews.com
+    quality: 81
+    images:
+      - url: "https://www.securitysystemsnews.com/uploads/blog/6dfcbb88d032e82b4366850eb1aeb8ef.jpg"
+        width: 1000
+        height: 576
+        isCached: true
+  - title: "Recycling using artificial intelligence and robotics"
+    excerpt: "Abhijeet Ghosh, 6th Grade, Dodgen Middle School, Marietta, Georgia, student looks to recycle waste using artificial intelligence (AI) and robotics. Abhijeet is very keen on recycling. Recycling reduces waste,"
+    publishedDateTime: 2021-07-08T09:21:00Z
+    webUrl: "https://www.worldofchemicals.com/media/recycling-using-artificial-intelligence-and-robotics/6261.html"
+    type: article
+    provider:
+      name: World Of Chemicals
+      domain: worldofchemicals.com
+    quality: 69
+    images:
+      - url: "https://www.worldofchemicals.com/newphase/image/Elite4.png"
+        width: 305
+        height: 320
+        isCached: true
+  - title: "Emotion AI Is Transforming the Way We Game"
+    excerpt: "By: Ranjan Kumar, CEO of Entropik Tech Emotion AI is rapidly advancing as applications become more widespread, and the technology becomes more dynamic with 2021 positioned as a breakout year. But exactly how much Emotion AI surrounds people through their computers,"
+    publishedDateTime: 2021-07-08T09:20:00Z
+    webUrl: "https://techbullion.com/emotion-ai-is-transforming-the-way-we-game/"
+    ampWebUrl: "https://techbullion.com/emotion-ai-is-transforming-the-way-we-game/amp/"
+    cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/emotion-ai-is-transforming-the-way-we-game/amp/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
     quality: 57
     images:
-      - url: "https://mma.prnewswire.com/media/1560297/image.jpg"
-        width: 400
-        height: 267
+      - url: "https://techbullion.com/wp-content/uploads/2021/07/emotion-AI.jpg"
+        width: 838
+        height: 475
         isCached: true
-  - title: "Visionary Trio Creates Next Gen Video and Image Annotation Platform for Machine Learning"
-    excerpt: "The Innotescus co-founders spent years building custom software to collect and analyze complex image data to train machine learning algorithms. This development work required lots of annotated ..."
-    publishedDateTime: 2021-07-07T19:36:00Z
-    webUrl: "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1195940&cat=PR News Wire"
+  - title: "Fueling Healthcare Ai With Adaptive Collaboration"
+    excerpt: "Our product-focused team is busy defining and building the platforms and tools required to rapidly integrate models into the clinical setting, to bring the power of AI to the physician’s fingertips. Our ability to execute on these disruptive,"
+    publishedDateTime: 2021-07-07T03:01:00Z
+    webUrl: "https://www.cioapplications.com/cxoinsights/fueling-healthcare-ai-with-adaptive-collaboration-nid-8084.html"
     type: article
     provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 30
+      name: CIO Applications
+      domain: cioapplications.com
+    quality: 54
     images:
-      - url: "https://mma.prnewswire.com/media/1551990/Shashank_Chris_Rob.jpg"
-        width: 400
-        height: 267
+      - url: "https://www.cioapplications.com/newstransfer/upload/797zkiLkEKnaidu_ram_100533701.jpg"
+        width: 450
+        height: 308
         isCached: true
 
 secured: "ILRUo4n0hgPPGrqayk3j+ADZsl4CsvhjqJIoT+WQFiPHZa/MYDrgZHhl0os3mj6BPoRnhrxiZ+m0g8+6YK+BpI3NF7g5wdUV36pqvbWS6t2bdxC7dd+R/pInnqfWZMk4eGya+zqskgvp4iUYhsHWiRCSP09HwilbeoQxso3gSlxISELNx7m05tkkbuULKoEYh7exEFMXOpKeBg44GqiZBuvPjDWvqeRGLgErd0zTgH//z2jZm3UeB++ayz6ddx2hi5rXXvQtLVU4+dNL6JZEbzNx/PvKK1OGwbusxJHGxYJzmw8fKG+yt2Chrp4ywhLTYeru2YqVUyfMcYxjVfsifFw8mfBtiOn02I7kgiO2+9JGXBBzfsc7jAbhlRCzY3zTt3fWWl91D77W9mnm8NQCzv/pnNFIrow8VTj/PRpEnX+Df4QBvEsNWLTY/NrA3SOn7Vpm+aLS1ITU9Jduv/WxmhDN273uy7X7KDUUa+ZE2Kd6SYs4luCblcGTV3tN3+iOOSdiKA/1hDZcAm8CLVcMag==;EHEpPoh62+fbrxptMJRrrA=="

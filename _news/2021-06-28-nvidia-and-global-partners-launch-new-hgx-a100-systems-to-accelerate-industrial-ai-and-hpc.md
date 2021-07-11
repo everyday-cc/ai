@@ -1,30 +1,20 @@
 ---
 category: news
 title: "NVIDIA and Global Partners Launch New HGX A100 Systems to Accelerate Industrial AI and HPC"
-excerpt: "To accelerate the new era of industrial AI and HPC, NVIDIA has added three key technologies to its HGX platform: the NVIDIA (R) A100 80GB PCIe GPU, NVIDIA NDR 400G InfiniBand networking, and NVIDIA Magnum IO (TM) GPUDirect (TM) Storage software."
-publishedDateTime: 2021-06-28T07:01:00Z
-originalUrl: "https://www.marketwatch.com/press-release/nvidia-and-global-partners-launch-new-hgx-a100-systems-to-accelerate-industrial-ai-and-hpc-2021-06-28-3184141"
-webUrl: "https://www.marketwatch.com/press-release/nvidia-and-global-partners-launch-new-hgx-a100-systems-to-accelerate-industrial-ai-and-hpc-2021-06-28-3184141"
+excerpt: "NVIDIA today announced it is turbocharging the NVIDIA HGX™ AI supercomputing platform with new technologies that fuse AI with high performance computing, making supercomputing more useful to a growing number of industries."
+publishedDateTime: 2021-06-28T07:05:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-nvidia-global-partners-launch-new-hgx-a100-systems-/2021/06/28/9398376.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-nvidia-global-partners-launch-new-hgx-a100-systems-/2021/06/28/9398376.htm"
 type: article
 
 provider:
-  name: MarketWatch
-  domain: marketwatch.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI Hardware
   - AI
 
-images:
-  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-    width: 1200
-    height: 630
-    isCached: true
-
-secured: "TGj/owRmMGRfYjQYB9SFd4oln3OJvVuzeypCA+vzzK4PEOD9xLUHiPyD2er1SRH53WwLLYU61z2Tscp/xi4XAYAFhgVGLFpW81eeU9vAQfGHS6Y0RKxqF79BbAQ4KgqdQzIzkrvlOKJdltxgoA19fyvPu3QmGtPXGsZ/s7e3zUCJUNvAtg4GfFxFQUsC57BDOOzRhs7ABCBL+tgjLIylS3i+GGeuHwKJWEG7rCpMHRD09nhMsddImafSn/GOBL4Agd38bzLhDfTy4FtEMFBx1lJreaKxF4KBR17LrCvSLtYT+h0gL4V5656FxNOBNqx6ru7/JcFe/dk9xB9HI2fcn0KiKOgT+SosBuhUvK4oULc=;7NjL0oSwuoqi4XSfo7ZmkA=="
+secured: "MCbbSGSjDa+1i7vmvFUqNS3peqF3Z6SKWFsf+GvtMJrIxstysR5uJA1kRX/YjxWTl0qMhvOolBUZ4bM8i0aAeqXahOyGj02y4//kqUz4zeMdZ/BnRVTibNgCli0KLEtK4OEJ67sgnZ+P+i/uUVPqavehS+uAHkvFbF0o5NJRLn94jCGykzn1unvHV4ACBqSPj1XJ9JMMvZZJYiO2d/XAt/xL9UnbWq8X8L91ZpvJsCPzHYw6DUSrnKuVzHQoZaSROcZPAwLwo8BewqnJUWc1Nu4Nc7XVYSRV7HNS04hilQCVk02s0mQiteArNKJYeZEaFHyM0UEKu2LbseacA+QP4UOyUERHgQl7ZGSFxavM/AM=;ReP/uTx/1cqFvrs9oasDrA=="
 ---
 

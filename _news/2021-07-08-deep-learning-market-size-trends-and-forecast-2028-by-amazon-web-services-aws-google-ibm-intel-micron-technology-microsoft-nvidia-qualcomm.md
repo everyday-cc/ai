@@ -49,6 +49,15 @@ related:
         width: 390
         height: 220
         isCached: true
+  - title: "Deep Learning Market Size, Share 2021-2028 | Top Key Vendors – Amazon Web Services (AWS), Google, IBM, Intel, Micron Technology, Microsoft"
+    excerpt: "The Deep Learning Market study provides details of market dynamics affecting the market, market size, and segmentation, and casts a shadow over the major market players by highlighting the favorable competitive landscape and successful trends over the years."
+    publishedDateTime: 2021-07-11T14:25:00Z
+    webUrl: "https://manometcurrent.com/deep-learning-market-size-share-2021-2028-top-key-vendors-amazon-web-services-aws-google-ibm-intel-micron-technology-microsoft/"
+    type: article
+    provider:
+      name: manometcurrent.com
+      domain: manometcurrent.com
+    quality: 34
   - title: "AI in Telecommunication Market Booming Segments; Investors Seeking Growth | Google, Microsoft, IBM"
     excerpt: "Get Free Exclusive PDF Sample Copy of This Research @  Scope of the Report of AI in Telecommunication Artificial Intelligence with learning abilities is a revolutionary technology, which the communication industry is exploring,"
     publishedDateTime: 2021-07-08T16:59:00Z
