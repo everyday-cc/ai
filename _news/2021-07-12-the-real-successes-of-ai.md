@@ -9,7 +9,7 @@ ampWebUrl: "https://www.infoworld.com/article/3624703/the-real-successes-of-ai.a
 cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3624703/the-real-successes-of-ai.amp.html"
 type: article
 quality: 89
-heat: 119
+heat: 109
 published: true
 
 provider:
@@ -60,20 +60,6 @@ related:
       - url: "https://guardian.ng/wp-content/uploads/2019/09/Artificial-Intelligence-is-revolutionizing-the-Healthcare-Industry.jpg"
         width: 1280
         height: 719
-        isCached: true
-  - title: "The Dogfights of Your Dreams Could Be Fought With AI"
-    excerpt: "Do these AI developments render human pilots obsolete? Here's What You Need to Remember: Lurking in the background is the fact that machines can react far faster than humans. Can a computer pilot defeat a human pilot in a dogfight?"
-    publishedDateTime: 2021-07-07T23:00:00Z
-    webUrl: "https://nationalinterest.org/blog/reboot/dogfights-your-dreams-could-be-fought-ai-189357"
-    type: article
-    provider:
-      name: The National Interest
-      domain: nationalinterest.org
-    quality: 37
-    images:
-      - url: "https://nationalinterest.org/sites/default/files/main_images/F-35%20%2820%29.jpg"
-        width: 1222
-        height: 873
         isCached: true
 
 secured: "i5EpqKvWfprjlVEnLXBdkvqzdrlXofm6W5qM7narX+XvapVjK7JaEeNl7Ysl+Hjv8MZXk1Xj4kxM1otd98xKTW3fsBNaABPzxUPO/pi5oK0Ngw+2Vfu/LSBw0AGw6AhaH1U45KAwCU6fYzGJN/LgDZQiQJpHCDWCz3QsXT6mfpGvW7EsxQD1+kv465CXdud64OSEACQ5EfPWbxAFsI3b99OW3yF1mWWm2uDIpfEQHi4vsrO2dTTk08jfb9Rj2gpK6pPtgOySlkh13pMbdLPafT3xU88oRypFT/Psfb5IV8XHoE4pLVoY10wvI52NISxcZ8OLrbd6O4J8KOWSS632IVtTIzSfcMg+EfcPWS/GX7M=;nbcKMAxbMIrxof5NzJF4xQ=="

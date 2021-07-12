@@ -2,6 +2,166 @@
   "page": 62,
   "value": [
     {
+      "path": "_news/2021-05-26-military-artificial-intelligence-ai-market-growth-status-and-outlook-2021-2026.md",
+      "title": "Military Artificial Intelligence (AI) Market Growth (Status and Outlook) 2021-2026",
+      "excerpt": "The latest report on the Military Artificial Intelligence (AI) is designed to give emerging as well as established industry players a strategic edge by allowing them to better grasp industry events and gather insights on past and current industry happenings that will have a significant impact on the global Shower Installation and Repair Services market’s growth in the coming years.",
+      "sourceUrl": null,
+      "webUrl": "https://ksusentinel.com/2021/05/26/military-artificial-intelligence-ai-market-growth-status-and-outlook-2021-2026/",
+      "originalUrl": "https://ksusentinel.com/2021/05/26/military-artificial-intelligence-ai-market-growth-status-and-outlook-2021-2026/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-26T01:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Sentinel",
+        "domain": "ksusentinel.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-26-rezoai-raises-seed-funding-led-by-modulor-capital.md",
+      "title": "Rezo.ai Raises Seed Funding Led By Modulor Capital",
+      "excerpt": "Conversational AI startup Rezo.ai on Wednesday informed to have raised an undisclosed amount in Seed funding led by Modulor Capital, Dexter Angel Network, Veda, and prominent angels including Bhavesh Manglani (co-founder,",
+      "sourceUrl": null,
+      "webUrl": "https://www.entrepreneur.com/article/372901",
+      "originalUrl": "https://www.entrepreneur.com/article/372901",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/1622016398-ManishRashiGuptaCo-foundersRezoai1.jpg?width=600&crop=16:9",
+          "width": 600,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.entrepreneur.com/amphtml/372901",
+      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/372901",
+      "publishedDateTime": "2021-05-26T01:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-26-aws-to-open-data-centers-in-uae.md",
+      "title": "AWS to Open Data Centers in UAE",
+      "excerpt": "Amazon Web Services (AWS), an Amazon.com company (NASDAQ: AMZN), announced that it plans to open an infrastructure region in the United Arab Em",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesswire.com/news/home/20210525006052/en/",
+      "originalUrl": "https://www.businesswire.com/news/home/20210525006052/en/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-26T01:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-26-squirro-launches-the-app-studio-a-no-codelow-code-platform-to-build-ai-powered-applications.md",
+      "title": "Squirro launches the App Studio - a no code/low code platform to build AI-powered applications",
+      "excerpt": "Launch will take place at upcoming App Building Day, an expert-led training session, where attendees will learn how to build a Cognitive Search app in just a few steps Zürich, 26 May 2021.",
+      "sourceUrl": null,
+      "webUrl": "https://squirro.com/",
+      "originalUrl": "https://pressreleases.responsesource.com/news/101312/squirro-launches-the-app-studio-a-no-code-low/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 125,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://squirro.com/wp-content/uploads/2020/07/M_GenericWorld-01.png",
+          "width": 3130,
+          "height": 1646,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-26T01:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "responsesource.com",
+        "domain": "responsesource.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-26-artificial-intelligence-ai-in-retail-market-size-to-record-297-cagr-through-2027.md",
       "title": "Artificial Intelligence (AI) In Retail Market Size to Record 29.7% CAGR Through 2027",
       "excerpt": "Selbyville, Delaware, According to the research report titled 'Global Artificial Intelligence (AI) in Retail Market Size study, by Offering (Solution, Services), by Function, by Technology and Regional Forecasts 2020-2027',",
@@ -960,195 +1120,6 @@
       "topics": [
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2021-05-26-why-ai-is-key-to-transforming-the-property-insurance-claims-industry.md",
-      "title": "Why AI is Key to Transforming the Property Insurance Claims Industry",
-      "excerpt": "Bdeo is accelerating the digital transformation of the insurance industry, making processes easy and more efficient through a powerful combination of technology. For many consumers, filing property insurance claims is still a process that is well known to be slow and inconvenient.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/why-ai-is-key-to-transforming-the-property-insurance-claims-industry-2021-05-25",
-      "originalUrl": "https://www.nasdaq.com/articles/why-ai-is-key-to-transforming-the-property-insurance-claims-industry-2021-05-25",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 127,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/why-ai-is-key-to-transforming-the-property-insurance-claims-industry-2021-05-25?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/why-ai-is-key-to-transforming-the-property-insurance-claims-industry-2021-05-25?amp",
-      "publishedDateTime": "2021-05-25T10:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-26-65-of-execs-cant-explain-how-their-ai-models-make-decisions-survey-finds.md",
-      "title": "65% of execs can’t explain how their AI models make decisions, survey finds",
-      "excerpt": "According to a new survey conducted by FICO and Cornium, the majority of companies lack sufficient AI explainability tools.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/05/25/65-of-execs-cant-explain-how-their-ai-models-make-decisions-survey-finds/",
-      "originalUrl": "https://venturebeat.com/2021/05/25/65-of-execs-cant-explain-how-their-ai-models-make-decisions-survey-finds/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/12/data_share.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/05/25/65-of-execs-cant-explain-how-their-ai-models-make-decisions-survey-finds/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/25/65-of-execs-cant-explain-how-their-ai-models-make-decisions-survey-finds/amp/",
-      "publishedDateTime": "2021-05-25T10:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-25-neteera-ceo-on-using-artificial-intelligence-to-change-healthcare.md",
-      "title": "Neteera CEO on using artificial intelligence to change healthcare",
-      "excerpt": "Neteera is a health care technology firm that has developed a heart and lung monitor that is contact free and can measure vital signs through clothing. The company is ranked 26th on CNBC's Disruptor 50 list.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/video/2021/05/25/neteera-ceo-on-using-artificial-intelligence-to-change-healthcare.html",
-      "originalUrl": "https://www.cnbc.com/video/2021/05/25/neteera-ceo-on-using-artificial-intelligence-to-change-healthcare.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/106888119-1621966946-16331919716-hd-L-00-00-08-03-Still002-png?v=1621968882",
-          "width": 534,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-25T09:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-25-3-reasons-applied-materials-is-more-than-just-a-chip-shortage-stock.md",
-      "title": "3 Reasons Applied Materials Is More Than Just a Chip Shortage Stock",
-      "excerpt": "A global shortage of semiconductors -- basic building blocks for everything from high-tech services to autos to household appliances -- is reverberating through the economy. For semiconductor manufacturing equipment providers like Applied Materials (NASDAQ:AMAT),",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2021/05/25/3-reasons-applied-materials-is-more-than-just-a-ch/",
-      "originalUrl": "https://www.fool.com/investing/2021/05/25/3-reasons-applied-materials-is-more-than-just-a-ch/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.ycharts.com/charts/14d2a740700f7cfec74e9045798e7186.png",
-          "width": 720,
-          "height": 449,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.fool.com/amp/investing/2021/05/25/3-reasons-applied-materials-is-more-than-just-a-ch/",
-      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/05/25/3-reasons-applied-materials-is-more-than-just-a-ch/",
-      "publishedDateTime": "2021-05-25T09:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     }
   ],

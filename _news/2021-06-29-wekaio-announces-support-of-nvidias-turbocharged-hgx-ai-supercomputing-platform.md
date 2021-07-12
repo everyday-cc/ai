@@ -1,20 +1,20 @@
 ---
 category: news
-title: "WekaIO Announces Support of NVIDIA's Turbocharged HGX™ AI Supercomputing Platform"
-excerpt: "WekaIO™ (Weka), one of the fastest-growing data platforms for artificial intelligence/machine learning (AI/ML), life sciences research, and high-performance computing (HPC), today announced the WekaFS™ Limitless Data Platform's ability to leverage the newly-turbocharged NVIDIA HGX™ AI supercomputing platform to deliver the best performance and throughput required of today's most-demanding enterprise workloads."
-publishedDateTime: 2021-06-29T14:09:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-wekaio-announces-support-nvidias-turbocharged-hgxtrade-ai-supercomputing-/2021/06/29/9400007.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-wekaio-announces-support-nvidias-turbocharged-hgxtrade-ai-supercomputing-/2021/06/29/9400007.htm"
+title: "WekaIO Announces Support of NVIDIAs Turbocharged HGX AI Supercomputing Platform"
+excerpt: "WekaIO™ (Weka), one of the fastest-growing data platforms for artificial intelligence/machine learning (AI/ML), life sciences research, and high-performance computing (HPC), today announced the WekaFS™ Limitless Data Platform’s ability to leverage the newly-turbocharged NVIDIA HGX™ AI supercomputing platform to deliver the best performance and throughput required of today’s most-demanding enterprise workloads."
+publishedDateTime: 2021-06-29T14:05:00Z
+originalUrl: "https://www.financialbuzz.com/wekaio-announces-support-of-nvidias-turbocharged-hgx-ai-supercomputing-platform/"
+webUrl: "https://www.financialbuzz.com/wekaio-announces-support-of-nvidias-turbocharged-hgx-ai-supercomputing-platform/"
 type: article
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Financial Buzz
+  domain: financialbuzz.com
 
 topics:
   - AI Hardware
   - AI
 
-secured: "11n3LLT1b94UDLm4mMQJ6CT+aVnjmiRKfaUOsKEp5+wUbcN0GlyiXURSMBfCjwi5us5m9l3cvV/2/RmTQTEEU69xtwzGA2fvS0oPkhfXMxlYtY/THcrcJeyvs5Mu+9UAsBWpTaJRf6U7POSyRVI0YTaFwkKrKK8iaKrjF/L4sDQ5a8foAql+YupbFV1OASAUT9g0Ad0FPRFhrZXsacwgnOCy1xYBiGnE/SfCosbbUNnW+2lmWHZ0eOskd0pQSmfKuU6wIuWVcVzl59Cq4b8QN+NsDEcaA6gR0BLUXVUkZQGFemd7bt3T2dBqLpZWJYP4fK3HLliVgl9+7/HdhCLXVDXdcqif6taq3ImIJBg4Rr8=;4bYYSe2IlQzERfAfS99c+g=="
+secured: "To+/qT4wYBGYM6LRn2JNEOGN8F2Ji2RaYeP5jvmjG3lcPZ3JLG8C02lxuksX4i9Wubx0Nv4jwtG83IGYn9Tl3wOoPpDUV4OZCFBhBBSVlpclge/C4Q83FnhTgrp+A3dwQIaFolREE5Coyk1ns0B7670L21HUYbRvbbzyuBCn2QjiJ0sZHNggpEEuXoinoa42LGUHyDf/YnY4snGlU8RM92AfLgAD7qMx5EkoL7juE9qs2Rz0+hqTPCPFJpm4MrvEx37Fo/PNyC7V2IOu4CdiLIUzLssrJOUtUBY1WO7vkrJTaAFV+WV6XQZWWmyHN8CbhI40EcrvqLEGfHS9WpmEWW2SGQ7sbyrWjQ0QYqeuGmQ=;xE6y/UBjhh/aCXY0fExAJg=="
 ---
 

@@ -157,6 +157,22 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "Tesla autopilot marches on - FSD Beta 9 full self driving beta is released"
+    excerpt: "Elon Musk confirms Tesla Vision autopilot system will be capable of capturing detailed features: tail lights, emergency lights, and even hand gestures."
+    publishedDateTime: 2021-07-12T14:11:00Z
+    webUrl: "https://www.visordown.com/news/industry/tesla-autopilot-marches-fsd-beta-9-full-self-driving-beta-released"
+    ampWebUrl: "https://www.visordown.com/news/industry/tesla-autopilot-marches-fsd-beta-9-full-self-driving-beta-released?amp"
+    cdnAmpWebUrl: "https://www-visordown-com.cdn.ampproject.org/c/s/www.visordown.com/news/industry/tesla-autopilot-marches-fsd-beta-9-full-self-driving-beta-released?amp"
+    type: article
+    provider:
+      name: Visordown
+      domain: visordown.com
+    quality: 72
+    images:
+      - url: "https://cdn.visordown.com/field/image/Tesla%20Dash.jpg"
+        width: 1000
+        height: 563
+        isCached: true
   - title: "Tesla Releases Ninth 'Full Self-Driving' Beta Two Years After It Was Promised"
     excerpt: "Tesla has released the ninth beta of its Full Self-Driving (FSD) software to vehicle owners who have purchased the not-quite-autonomous driving feature. The Verge reported that the update was supposed to debut in August 2018,"
     publishedDateTime: 2021-07-10T19:09:00Z
@@ -218,6 +234,22 @@ related:
       - url: "https://etimg.etb2bimg.com/thumb/msid-84305403,imgsize-714624,width-800,height-434,overlay-etauto/tesla-finally-releases-full-self-driving-beta-version.jpg"
         width: 800
         height: 434
+        isCached: true
+  - title: "Musk Claims Full Self-Driving With Tesla Vision Will Detect Turn Signals, Listen For Emergency Sirens"
+    excerpt: "Tesla finally released its FSD Beta v9 software to a limited number of owners. The software leverages Tesla Vision to analyze what's going on around the vehicle at all times and take necessary action for adjusting speed,"
+    publishedDateTime: 2021-07-12T15:00:00Z
+    webUrl: "https://hothardware.com/news/musk-claims-full-self-driving-tesla-vision-will-detect-turn-signals-listen-for-sirens"
+    ampWebUrl: "https://amp.hothardware.com/news/musk-claims-full-self-driving-tesla-vision-will-detect-turn-signals-listen-for-sirens"
+    cdnAmpWebUrl: "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/musk-claims-full-self-driving-tesla-vision-will-detect-turn-signals-listen-for-sirens"
+    type: article
+    provider:
+      name: HotHardware
+      domain: hothardware.com
+    quality: 59
+    images:
+      - url: "https://images.hothardware.com/contentimages/newsitem/55663/content/tesla_autopilot.jpeg"
+        width: 708
+        height: 398
         isCached: true
   - title: "Tesla’s newest ‘self-driving’ update comes with ominous warning"
     excerpt: "The latest update includes a warning that drivers must remain awake and alert at the wheel because the car “may do the wrong thing at the worst time,” according to images shared by"
@@ -300,6 +332,6 @@ related:
       domain: tweaktown.com
     quality: 19
 
-secured: "PBuoqOIquYJrdP/HOAZ+SZjI4VDYuk+njyxQrPmPjJxaxLxw7f09gvGBYpmcQoSnkAsRTYU/LlB9piNA+xxVZElusY6o3RXc3mjv6ZN5O0lFOOQ1Lwh9kmA2j4wy+F+YUkR4/Nh2vhrMYld1Z8S9Scw00zebsVKRcVBOQnbhmaUMd9uK4Q9CSUnxYfho5smWnsJQE4r7QrOUGmTXBRWBJ0rpgQL0a9pY+QZlaS7aZc2qF4rRUI+6vxyQFyBc5BOGI1llYAHzESKsSQlNBMSTa3gdsBhMdantKrWdUdwyjR+6OsoZgw+ZbFI83SzjDwnRj5bNKdZ6S47+ga7PFeh77w3DhoUaAwBUu6Oxsmpu39k=;lw0IGzVranOPMHXRVwPsXw=="
+secured: "WLgiS1jpKMIjSZOofAMBGpwyAbc5d+uTN+M1Z9y4mPBUXeTrHUH62KVgjf8/ZIezkJ74ZLKpCEHZyK6hFmK1teTtw5/LlEH+Wbqmwm1pHfxPLZSdy7inSNnRoankWbcQVK1mvidng/MrMj9e5l3pxBdNc108zUzoIW2RnuNT4A3ahDpq/1ztlpdHGbzi4fwT7H660inV6txNYB1Kq1hpuZGeF5IWA6q7i2C7HbwxZBSsXblTPpNYhaeREAlYP2reIArEU/VO9mDKtdUTfBKJg6Q/GfMktbLHBOUGFPeJO2lyDMzSscvJ8h1tCTq3bLOE2mx4ns6o6TO8zB8GSkNqxBVNoucTSj6Yzmem5JxWYEg7iapFX4BAUeUApsYy6FRFyxBQGKHCenjRKIEJ451Oc5G19O9V1k2eDTllKtRBtAoCdmWoN7/Oh3KwoWv9KVNdFcFA0gfMiN+zhM17774R8zia6AhHkt6Hs4JUwILGMVEsVq6ASiyfKQ29GTjnL7riO9nCEf6vAPulRuaBtxsY+A==;CLAnMVVTStExxkfcL4zHEQ=="
 ---
 

@@ -51,6 +51,20 @@ related:
       name: Science Daily
       domain: sciencedaily.com
     quality: 47
+  - title: "AI Tool Measures Fat Around the Heart to Predict Diabetes Risk"
+    excerpt: "Researchers from Queen Mary University found that the more fat found around the heart, the greater the diabetes risk."
+    publishedDateTime: 2021-07-12T14:52:00Z
+    webUrl: "https://www.mddionline.com/artificial-intelligence/ai-tool-measures-fat-around-heart-predict-diabetes-risk"
+    type: article
+    provider:
+      name: MD&M East
+      domain: mddionline.com
+    quality: 37
+    images:
+      - url: "https://www.mddionline.com/sites/mddionline.com/files/IMG_Jul122021at104715AM.jpg"
+        width: 770
+        height: 400
+        isCached: true
 
 secured: "F3lp9lrbd8r6YZA99wcBpYW+TQE9tPSu+NhPXPWhRuCCaJb+i+5eT7dTJ41WL/j/gyuE4v4qwwsHw0X3JJ9r2v1Zi+uhV7rHLBgfYbtEIVkbH4WoVmdn4TIG5wpSbhqyTSPecC2US1Zpj6sOhpRA2AkfDJUTd0iPsGhnUpVhP6evvKMlO8GTRC3teuWi30pOYiULk2YnUpoBkmmfLbpYVZ7ZZ3ICHH3P4QYGwmoaqXRX+OG7Qv59MEbkBpFwt36pkqN3zZohM+sVt2EEfjx/9s/PKme4mU+e4TH30ve3D6gci/dHqu/5axdC6lRZTr8c4hhhTJQuffAdBf4ueNfivaLx0ckMVzEhnyiCXtQU7N9YMs9jqXa91n0Xfd0HyuFMrF9pob+Om1XlZnYK4YghtmUWKoeXXIBzhZUO2HXht0pMYrBwaiGQ3vFwprQSbnwgjqn2zTAWvmRlucV8E/UOFBMzHpTMs4btErS7RdAZTxbeNZMCPgNifzxpAV/lf085iaQ10nuvYnPe03ROfdACyw==;DciV7ZiU3mWyNnNWvA585A=="
 ---

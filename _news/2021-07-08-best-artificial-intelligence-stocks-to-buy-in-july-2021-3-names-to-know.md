@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nasdaq.com/articles/best-artificial-intelligence-stocks-
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/best-artificial-intelligence-stocks-to-buy-in-july-2021-3-names-to-know-2021-07-08?amp"
 type: article
 quality: 70
-heat: 80
+heat: 90
 published: true
 
 provider:
@@ -35,6 +35,20 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+        isCached: true
+  - title: "AMD Stock – Zoom – 3 Top Cloud Computing Stocks to Buy in July | Fintech Zoom"
+    excerpt: "Complete Advanced Micro Devices Inc. stock news by FintechZoom. View real-time stock prices and stock quotes for a full financial overview."
+    publishedDateTime: 2021-07-12T15:40:00Z
+    webUrl: "https://fintechzoom.com/fintech_news_amd/amd-stock-zoom-3-top-cloud-computing-stocks-to-buy-in-july-fintech-zoom/"
+    type: article
+    provider:
+      name: fintechzoom
+      domain: fintechzoom.com
+    quality: 21
+    images:
+      - url: "https://fintechzoom.com/wp-content/uploads/2021/07/semiconductor-research-microchips-scaled.jpg"
+        width: 2560
+        height: 1707
         isCached: true
 
 secured: "dyUkt4LqUa71vzjTtAyvPNtwpEzm1apSyutAa3HvM/DjvsULySc9qw4BjeKArQfRNWbrC/v+P/1UwEC/4f7tz23BlYqH+8rkkJd7BGZ1a3uKTHGAKwiUFasH4WV65ieejYv5LFWlOBbN9NkSrbDvIaTvihpAVXOeSZcN1brCjz+0megEZaccH2ylw8G/LFHke2fq9pGAV3DKX2kNlgu5L3IPmbz9nkPuzRl0JO57cCaf8rzJBFE271WDfFkKg0l0guJ1zjtJfI9STzgqG9jJzfsuEeqKj04yN3Z68giGya9Kawde5U/sK9GIcNhCKvWsV7/FDD9ANkwFy9OW4i6SSFJRmBjdb/SK49e7GV2sK4g=;URLv0H2pmAk0sAEj+hnKlQ=="

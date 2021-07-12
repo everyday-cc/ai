@@ -9,7 +9,7 @@ ampWebUrl: "https://www.infoworld.com/article/3624700/5-ai-startups-out-to-chang
 cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3624700/5-ai-startups-out-to-change-the-world.amp.html"
 type: article
 quality: 89
-heat: 129
+heat: 139
 published: true
 
 provider:
@@ -60,6 +60,22 @@ related:
       - url: "https://washingtontechnology.com/~/media/GIG/Washington%20Technology/WTlogo.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Four ways artificial intelligence is helping us learn about the universe"
+    excerpt: "To take on these challenges, astronomers are turning to machine learning and artificial intelligence (AI) to build new tools to rapidly search for the next big breakthroughs. Here are four ways AI is helping astronomers."
+    publishedDateTime: 2021-07-12T15:00:00Z
+    webUrl: "https://www.space.com/artificial-intelligence-to-learn-about-the-universe"
+    ampWebUrl: "https://www.space.com/amp/artificial-intelligence-to-learn-about-the-universe"
+    cdnAmpWebUrl: "https://www-space-com.cdn.ampproject.org/c/s/www.space.com/amp/artificial-intelligence-to-learn-about-the-universe"
+    type: article
+    provider:
+      name: Space.com
+      domain: space.com
+    quality: 56
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/VKoGcvvnKZHGJZHKaB3X9F-480-80.jpeg"
+        width: 480
+        height: 480
         isCached: true
   - title: "Health tech on display at the World Artificial Intelligence Conference in Shanghai"
     excerpt: "With strong support from the government, the Chinese AI health market has more than tripled in size in just three years."

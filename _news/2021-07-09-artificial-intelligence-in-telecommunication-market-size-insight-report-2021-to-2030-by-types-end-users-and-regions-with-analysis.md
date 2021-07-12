@@ -28,6 +28,20 @@ images:
     isCached: true
 
 related:
+  - title: "Conversational Artificial Intelligence Market Size 2021 Report Includes Raw Materials Sources, Major Players, Export and Import by Regions"
+    excerpt: "In a recent published report, Kenneth Research has updated the market report for Conversational Artificial Intelligence Market for 2021 till 2030. Report further now discusses; the various strategies to be adopted or being adopted by the business players across the globe at various levels in the value chain."
+    publishedDateTime: 2021-07-12T13:39:00Z
+    webUrl: "https://www.marketwatch.com/press-release/conversational-artificial-intelligence-market-size-2021-report-includes-raw-materials-sources-major-players-export-and-import-by-regions-2021-07-12"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 35
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Machine Learning as a Service (MLaaS) Market 2021 Size, Status and Business Outlook 2026"
     excerpt: "Market Research Report 2021-2026, provides an in-depth analysis of market size, share, drivers, constraints, and other factors. Additionally, for the projection period of 2026, this research includes an estimated observation of many segments in terms of universal growth,"
     publishedDateTime: 2021-07-09T07:20:00Z

@@ -2,6 +2,49 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-06-08-apple-m1-chip-makes-adobe-apps-80-faster-and-some-gains-are-bigger-still.md",
+      "title": "Apple M1 chip makes Adobe apps 80% faster, and some gains are bigger still",
+      "excerpt": "Apple is rolling out its new M1 processor across its hardware range. It’s designed for better performance and lower power consumption, and uses unified memory and a Neural Engine for AI-driven tasks.",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitalcameraworld.com/news/apple-m1-chip-makes-adobe-apps-80-faster-and-some-gains-are-bigger-still",
+      "originalUrl": "https://www.digitalcameraworld.com/news/apple-m1-chip-makes-adobe-apps-80-faster-and-some-gains-are-bigger-still",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/Sm2WuGsTp4hBiyFbT3B42H-480-80.jpg",
+          "width": 480,
+          "height": 270,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.digitalcameraworld.com/amp/news/apple-m1-chip-makes-adobe-apps-80-faster-and-some-gains-are-bigger-still",
+      "cdnAmpWebUrl": "https://www-digitalcameraworld-com.cdn.ampproject.org/c/s/www.digitalcameraworld.com/amp/news/apple-m1-chip-makes-adobe-apps-80-faster-and-some-gains-are-bigger-still",
+      "publishedDateTime": "2021-06-08T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "digitalcameraworld.com",
+        "domain": "digitalcameraworld.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-08-qualcomm-adds-7-new-chips-to-power-iot-installations-in-retail-warehouse-and-manufacturing-sectors.md",
       "title": "Qualcomm adds 7 new chips to power IoT installations in retail, warehouse and manufacturing sectors",
       "excerpt": "The chips range from high-end to entry-level in cost and can support a variety of IoT use cases from AI to edge computing.",
@@ -1370,50 +1413,6 @@
         "AI Hardware",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-05-25-microsofts-zero-infinity-library-trains-32-trillion-parameter-ai-model.md",
-      "title": "Microsoft's ZeRO-Infinity Library Trains 32 Trillion Parameter AI Model",
-      "excerpt": "Microsoft recently open-sourced ZeRO Infinity, an addition to their open-source DeepSpeed AI training library that optimizes memory use for training very large deep-learning models. Using ZeRO-Infinity,",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoq.com/news/2021/05/microsoft-zero-infinity/",
-      "originalUrl": "https://www.infoq.com/news/2021/05/microsoft-zero-infinity/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://res.infoq.com/news/2021/05/microsoft-zero-infinity/en/headerimage/microsoft-zero-infinity-header-1621783123438.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-25T06:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoQ",
-        "domain": "infoq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

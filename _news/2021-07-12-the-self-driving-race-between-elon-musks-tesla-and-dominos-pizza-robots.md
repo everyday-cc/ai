@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnbc.com/amp/2021/07/10/self-driving-looking-less-like-e
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/07/10/self-driving-looking-less-like-elon-musk-more-dominos-pizza-robots.html"
 type: article
 quality: 105
-heat: 285
+heat: 305
 published: true
 
 provider:
@@ -158,6 +158,22 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "Tesla autopilot marches on - FSD Beta 9 full self driving beta is released"
+    excerpt: "Elon Musk confirms Tesla Vision autopilot system will be capable of capturing detailed features: tail lights, emergency lights, and even hand gestures."
+    publishedDateTime: 2021-07-12T14:11:00Z
+    webUrl: "https://www.visordown.com/news/industry/tesla-autopilot-marches-fsd-beta-9-full-self-driving-beta-released"
+    ampWebUrl: "https://www.visordown.com/news/industry/tesla-autopilot-marches-fsd-beta-9-full-self-driving-beta-released?amp"
+    cdnAmpWebUrl: "https://www-visordown-com.cdn.ampproject.org/c/s/www.visordown.com/news/industry/tesla-autopilot-marches-fsd-beta-9-full-self-driving-beta-released?amp"
+    type: article
+    provider:
+      name: Visordown
+      domain: visordown.com
+    quality: 72
+    images:
+      - url: "https://cdn.visordown.com/field/image/Tesla%20Dash.jpg"
+        width: 1000
+        height: 563
+        isCached: true
   - title: "Tesla Releases Ninth 'Full Self-Driving' Beta Two Years After It Was Promised"
     excerpt: "Tesla has released the ninth beta of its Full Self-Driving (FSD) software to vehicle owners who have purchased the not-quite-autonomous driving feature. The Verge reported that the update was supposed to debut in August 2018,"
     publishedDateTime: 2021-07-10T19:09:00Z
@@ -219,6 +235,22 @@ related:
       - url: "https://etimg.etb2bimg.com/thumb/msid-84305403,imgsize-714624,width-800,height-434,overlay-etauto/tesla-finally-releases-full-self-driving-beta-version.jpg"
         width: 800
         height: 434
+        isCached: true
+  - title: "Musk Claims Full Self-Driving With Tesla Vision Will Detect Turn Signals, Listen For Emergency Sirens"
+    excerpt: "Tesla finally released its FSD Beta v9 software to a limited number of owners. The software leverages Tesla Vision to analyze what's going on around the vehicle at all times and take necessary action for adjusting speed,"
+    publishedDateTime: 2021-07-12T15:00:00Z
+    webUrl: "https://hothardware.com/news/musk-claims-full-self-driving-tesla-vision-will-detect-turn-signals-listen-for-sirens"
+    ampWebUrl: "https://amp.hothardware.com/news/musk-claims-full-self-driving-tesla-vision-will-detect-turn-signals-listen-for-sirens"
+    cdnAmpWebUrl: "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/musk-claims-full-self-driving-tesla-vision-will-detect-turn-signals-listen-for-sirens"
+    type: article
+    provider:
+      name: HotHardware
+      domain: hothardware.com
+    quality: 59
+    images:
+      - url: "https://images.hothardware.com/contentimages/newsitem/55663/content/tesla_autopilot.jpeg"
+        width: 708
+        height: 398
         isCached: true
   - title: "Tesla’s newest ‘self-driving’ update comes with ominous warning"
     excerpt: "The latest update includes a warning that drivers must remain awake and alert at the wheel because the car “may do the wrong thing at the worst time,” according to images shared by"
@@ -301,6 +333,6 @@ related:
       domain: tweaktown.com
     quality: 19
 
-secured: "7FP6TDvgN5r0OtLKsJdHxLIufhPz6d3hQiV5B3PtCNjOVALc6OT6ncMnwbjTeF4SJgMtZmxvSf2j/bLRVUzT3UKjUGU56JvHRDT/hlVcxYvxg5lPQ2ugVbnR34LU3jc6zGMOb9lH/o/QZpczisnq7cahUC63dZQaoc5VUx1+yt9bm/RB1rVqwitGBce48hZUgVmIDR+PYvoot/gzsqgLSoCW8RX2FxNyNwTHRZYB188vaEeAmWbKri8wfToW48iKgjme82ApzwqzQnoId7R4OVN3coA2pMiHiMbc/Ox2n/In6LIUWv60MTFzkxpDERh9bdNLZjqmhfuCGb2y328+YU8rP2RyJL/eIo5DL032/uA=;u8LJpV8F15+NL1H/nX2AAQ=="
+secured: "VQirUH3535vJM7xPDNhBwMHjtXKu9bKENtM7a/6ocTyikrPs8sq2tcdIhap8T2X0eUUYC6Z1NF+ZUvhIkivcbbWNlKamMw0mMrpy7R8WKfq6oDnYsFkec+LfSl9vq/5/yawlzKpxm4VeKC5SVoJyvvldlpPIpglQOBL0qyZPScHMFHCSM9+kghxdpm8DZFgIcLwEilUU06R/RNQ579qf1dnheSPZLHE/ThJ+Z0fKYN65Hy/8zyszESRS7RVx1MAZZ2LyB5KCSsz8vr4lYGDvdKmTOg5n+B8XaggAzyHFmwyI559TRO3myc2H6AikGMmqL3NSBeuHy9RSu/7IqEGxq6zgKGbaGO8lF+W7uo8iqpRImYISmBmPlbrSv8A+VpbGu78+a4M5SQGzyC60QaNSdSKBsihZnQVwE9jz53h0zWxs8PtFyJ4LthgrleVF5QF6+ueQm8LURdmPwdF/Wjy+7Klt9BOSWN45K/jTJcvi0MPmPwycwZK91l1QdCTJzd0gL1M67unxpzNmqhowg4LHlg==;nuzRQI/OluQpPZUXoMM7WQ=="
 ---
 

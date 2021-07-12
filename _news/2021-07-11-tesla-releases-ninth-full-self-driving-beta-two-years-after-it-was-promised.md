@@ -171,6 +171,22 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "Tesla autopilot marches on - FSD Beta 9 full self driving beta is released"
+    excerpt: "Elon Musk confirms Tesla Vision autopilot system will be capable of capturing detailed features: tail lights, emergency lights, and even hand gestures."
+    publishedDateTime: 2021-07-12T14:11:00Z
+    webUrl: "https://www.visordown.com/news/industry/tesla-autopilot-marches-fsd-beta-9-full-self-driving-beta-released"
+    ampWebUrl: "https://www.visordown.com/news/industry/tesla-autopilot-marches-fsd-beta-9-full-self-driving-beta-released?amp"
+    cdnAmpWebUrl: "https://www-visordown-com.cdn.ampproject.org/c/s/www.visordown.com/news/industry/tesla-autopilot-marches-fsd-beta-9-full-self-driving-beta-released?amp"
+    type: article
+    provider:
+      name: Visordown
+      domain: visordown.com
+    quality: 72
+    images:
+      - url: "https://cdn.visordown.com/field/image/Tesla%20Dash.jpg"
+        width: 1000
+        height: 563
+        isCached: true
   - title: "Elon Musk says Tesla Vision will soon detect turn signals, hand gestures"
     excerpt: "Tesla's latest full self-driving Beta v9 software update is currently being tested on 2,000 vehicles via the early access program..CEO Elon Musk says the Tesla Vision system being used in the latest software update will also be able to listen to sirens and alarms."
     publishedDateTime: 2021-07-12T12:39:00Z
@@ -218,6 +234,22 @@ related:
       - url: "https://etimg.etb2bimg.com/thumb/msid-84305403,imgsize-714624,width-800,height-434,overlay-etauto/tesla-finally-releases-full-self-driving-beta-version.jpg"
         width: 800
         height: 434
+        isCached: true
+  - title: "Musk Claims Full Self-Driving With Tesla Vision Will Detect Turn Signals, Listen For Emergency Sirens"
+    excerpt: "Tesla finally released its FSD Beta v9 software to a limited number of owners. The software leverages Tesla Vision to analyze what's going on around the vehicle at all times and take necessary action for adjusting speed,"
+    publishedDateTime: 2021-07-12T15:00:00Z
+    webUrl: "https://hothardware.com/news/musk-claims-full-self-driving-tesla-vision-will-detect-turn-signals-listen-for-sirens"
+    ampWebUrl: "https://amp.hothardware.com/news/musk-claims-full-self-driving-tesla-vision-will-detect-turn-signals-listen-for-sirens"
+    cdnAmpWebUrl: "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/musk-claims-full-self-driving-tesla-vision-will-detect-turn-signals-listen-for-sirens"
+    type: article
+    provider:
+      name: HotHardware
+      domain: hothardware.com
+    quality: 59
+    images:
+      - url: "https://images.hothardware.com/contentimages/newsitem/55663/content/tesla_autopilot.jpeg"
+        width: 708
+        height: 398
         isCached: true
   - title: "Tesla’s newest ‘self-driving’ update comes with ominous warning"
     excerpt: "The latest update includes a warning that drivers must remain awake and alert at the wheel because the car “may do the wrong thing at the worst time,” according to images shared by"

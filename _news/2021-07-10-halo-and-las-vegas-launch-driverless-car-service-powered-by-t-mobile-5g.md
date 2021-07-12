@@ -73,6 +73,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Halo and Las Vegas Launch Driverless Car Service Powered by T-Mobile 5G"
+    excerpt: "A driverless Halo then arrives at the pick ... safety hazard or system anomaly is detected. Using an advanced Artificial Intelligence algorithm, the car also learns in the background while humans ..."
+    publishedDateTime: 2021-07-08T13:35:00Z
+    webUrl: "https://www.register-herald.com/region/halo-and-las-vegas-launch-driverless-car-service-powered-by-t-mobile-5g/article_c8b4a658-af42-5b51-bf52-f8cb79cfbb24.html"
+    type: article
+    provider:
+      name: The Register-Herald
+      domain: register-herald.com
+    quality: 39
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/register-herald.com/content/tncms/assets/v3/editorial/3/50/3507b827-eab7-5aa7-9a74-200ce5f0f09e/60e6fac40a932.image.jpg?resize=992%2C630"
+        width: 992
+        height: 630
+        isCached: true
   - title: "T-Mobile’s 5G powers Halo’s driverless car service in Las Vegas"
     excerpt: "T-Mobile is driving home the point that it’s got a 5G network good enough to power one of the first commercial driverless car services in the U.S., with Halo running on T-Mobile’s 5G network in Las Vegas."
     publishedDateTime: 2021-07-08T13:15:00Z
@@ -115,15 +129,6 @@ related:
         width: 600
         height: 600
         isCached: true
-  - title: "Halo and Las Vegas Launch Driverless Car Service Powered by T-Mobile 5G"
-    excerpt: "Driverless Halos solve transportation challenges ... safety hazard or system anomaly is detected. Using an advanced Artificial Intelligence algorithm, the car also learns in the background while ..."
-    publishedDateTime: 2021-07-08T13:10:00Z
-    webUrl: "https://www.morningstar.com/news/business-wire/20210708005541/halo-and-las-vegas-launch-driverless-car-service-powered-by-t-mobile-5g"
-    type: article
-    provider:
-      name: Morningstar%2c Inc.
-      domain: morningstar.com
-    quality: 19
 
 secured: "KQSL2SGSWsHysNP6iOM53wlBsIZSXVATw9YNS1fG2Ip/KBZ7/mP021uqL/7Pe5IZe5CKy6rozIRF61M6ZS82ppD32T3abmKgeah5D78ZjgCw76SD1KyEWxFOE//naWzYbUL1dHsBdEtfhWRweh7vqjo5h/nP8w7ZdIKNClGIRly0DGkfIiBnKqYsO17UPIAibSbinGwsZGW1MAcg6Nnn59kBrLmDGyNeB+35zOCXuDFGiF61rcNWLKxiwPF3Y/iWhY7TvDDe5/MFCKjpn0sjNXO3zUgSYVwDEcOE8aEtQqmGX3/EmhkT/XZjVzBzeHWlawJaS6eZEb1dTLS6ROElQiT9VwT4a5yma5Jrfu4HHOA=;A5iBbCRvnvv7Wdn3qB6pwA=="
 ---

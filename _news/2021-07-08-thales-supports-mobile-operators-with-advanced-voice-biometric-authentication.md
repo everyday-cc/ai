@@ -19,6 +19,22 @@ topics:
   - AI
 
 related:
+  - title: "Voice biometrics: the new defense against deepfakes"
+    excerpt: "With a UCL study ranking deepfakes as one of the biggest threats we face today, it’s time to strengthen our defenses – and put fraudsters on the defensive. Touted as the 2020s’ answer to Photoshopping,"
+    publishedDateTime: 2021-07-12T14:09:00Z
+    webUrl: "https://www.techradar.com/news/voice-biometrics-the-new-defense-against-deepfakes"
+    ampWebUrl: "https://www.techradar.com/amp/news/voice-biometrics-the-new-defense-against-deepfakes"
+    cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/voice-biometrics-the-new-defense-against-deepfakes"
+    type: article
+    provider:
+      name: TechRadar
+      domain: techradar.com
+    quality: 89
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/P6nR5BjdpHEUspxkCwTxdc-480-80.jpg"
+        width: 480
+        height: 270
+        isCached: true
   - title: "Thales supports mobile operators with advanced voice biometric authentication"
     excerpt: "Thales announces a new voice biometric solution which is part of Thales Trusted Digital Identity Service Platform for onboarding and authentication. It meets the growing demand from mobile operator call centres to fight identity fraud whilst providing a seamless customer experience."
     publishedDateTime: 2021-07-12T08:42:00Z
@@ -34,22 +50,6 @@ related:
       - url: "https://assets.telecomtv.com/assets/telecomtv/brand/ttv-splash.jpg?w=1200"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Thales announces a new voice biometric solution to help mobile operator call centres to fight identity fraud"
-    excerpt: "Thales announces a new voice biometric solution which is part of Thales Trusted Digital Identity Service Platform for onboarding and authentication. It meets the growing demand from mobile"
-    publishedDateTime: 2021-07-08T11:41:00Z
-    webUrl: "https://www.sourcesecurity.com/news/thales-announces-voice-biometric-solution-mobile-co-11612-ga-co-1587980778-ga-npr.1625740179.html"
-    ampWebUrl: "https://www.sourcesecurity.com/amp/news/thales-announces-voice-biometric-solution-mobile-co-11612-ga-co-1587980778-ga-npr.1625740179.html"
-    cdnAmpWebUrl: "https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/news/thales-announces-voice-biometric-solution-mobile-co-11612-ga-co-1587980778-ga-npr.1625740179.html"
-    type: article
-    provider:
-      name: SourceSecurity
-      domain: sourcesecurity.com
-    quality: 25
-    images:
-      - url: "https://www.sourcesecurity.com/img/news/612/thales-selected-french-ministry-interior-biometric-solutions-border-crossing-points-920x533.jpg"
-        width: 612
-        height: 355
         isCached: true
   - title: "Voice biometrics spoof detection catching up, EAB speaker says"
     excerpt: "Voice biometric systems, counter-measures against attacks against them, and our understanding of how well those counter-measures work have come a long way."

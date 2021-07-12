@@ -2,6 +2,186 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2021-07-01-bolle-uses-lens-lab-and-ai-for-enhancing-color-contrast-including-tennis-specific-sunglasses.md",
+      "title": "Bollé Uses Lens Lab And AI For Enhancing Color Contrast, Including Tennis-Specific Sunglasses",
+      "excerpt": "The Bolle EPIC lab in Lyon, France, used artificial intelligence to sort through millions of lens formula combinations to create a fresh perspective on sunglasses and color contrast.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/timnewcomb/2021/07/01/boll-uses-lens-lab-and-ai-for-enhancing-color-contrast-including-tennis-specific-sunglasses/",
+      "originalUrl": "https://www.forbes.com/sites/timnewcomb/2021/07/01/boll-uses-lens-lab-and-ai-for-enhancing-color-contrast-including-tennis-specific-sunglasses/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60db9570bcb38d9ca5c220d5%2F0x0.jpg",
+          "width": 1061,
+          "height": 710,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/timnewcomb/2021/07/01/boll-uses-lens-lab-and-ai-for-enhancing-color-contrast-including-tennis-specific-sunglasses/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/timnewcomb/2021/07/01/boll-uses-lens-lab-and-ai-for-enhancing-color-contrast-including-tennis-specific-sunglasses/amp/",
+      "publishedDateTime": "2021-07-01T08:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-01-ambarellas-amba-cvflow-vision-processor-to-power-arrivals-evs.md",
+      "title": "Ambarella's (AMBA) CVflow Vision Processor to Power Arrival's EVs",
+      "excerpt": "AMBA recently announced that its CV2FS CVflow AI vision processor has been adopted by global electric vehicle (EV) manufacturer — Arrival ARVL — to build the environmental perception module for its vehicles.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/ambarellas-amba-cvflow-vision-processor-to-power-arrivals-evs-2021-07-01",
+      "originalUrl": "https://www.nasdaq.com/articles/ambarellas-amba-cvflow-vision-processor-to-power-arrivals-evs-2021-07-01",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/ambarellas-amba-cvflow-vision-processor-to-power-arrivals-evs-2021-07-01?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/ambarellas-amba-cvflow-vision-processor-to-power-arrivals-evs-2021-07-01?amp",
+      "publishedDateTime": "2021-07-01T07:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-01-accel-robotics-claims-successful-deployment-in-san-diego.md",
+      "title": "Accel Robotics Claims Successful Deployment In San Diego",
+      "excerpt": "San Diego-based Accel Robotics, which develops automated checkout systems designed for retail stores, claims it is seeing growth and success at its first rollout of \"Valet Market\", an automated store its has deployed ata a luxury,",
+      "sourceUrl": null,
+      "webUrl": "https://www.socaltech.com/accel_robotics_claims_successful_deployment_in_san_diego/s-0081447.html",
+      "originalUrl": "https://www.socaltech.com/accel_robotics_claims_successful_deployment_in_san_diego/s-0081447.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.socaltech.com/images/story/valetmarket21b.jpg",
+          "width": 330,
+          "height": 220,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-01T07:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SocalTech",
+        "domain": "socaltech.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-01-study-finds-that-few-major-ai-research-papers-consider-negative-impacts.md",
+      "title": "Study finds that few major AI research papers consider negative impacts",
+      "excerpt": "A new research paper finds that values in the AI research field are centered around performance rather than inclusiveness.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/07/01/study-finds-that-few-major-ai-research-papers-consider-negative-impacts/",
+      "originalUrl": "https://venturebeat.com/2021/07/01/study-finds-that-few-major-ai-research-papers-consider-negative-impacts/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/07/ml-perf-e1595989974532.jpg?w=1200&strip=all",
+          "width": 1198,
+          "height": 601,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/07/01/study-finds-that-few-major-ai-research-papers-consider-negative-impacts/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/01/study-finds-that-few-major-ai-research-papers-consider-negative-impacts/amp/",
+      "publishedDateTime": "2021-07-01T07:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-01-ghost-raises-100m-series-d-for-autonomous-driving-and-crash-prevention-tech.md",
       "title": "Ghost raises $100M Series D for autonomous driving and crash prevention tech",
       "excerpt": "Autonomous driving system developer Ghost Locomotion has raised a $100 million Series D funding round, led by Sutter Hill Ventures. Returning investor Founders Fund also participated in the round, along with Coatue.",
@@ -692,19 +872,19 @@
     {
       "path": "_news/2021-07-01-ddn-boosts-ai-storage-leadership-with-exascaler-6-and-expanded-portfolio-for-enterprise-intelligent-infrastructure.md",
       "title": "DDN Boosts AI Storage Leadership with EXAScaler 6 and Expanded Portfolio for Enterprise Intelligent Infrastructure",
-      "excerpt": "DDN Unveils the Next Generation of EXAScaler, Simplifies the Procurement of AI Supercomputing Infrastructure by 200x1 and Expands IntelliFlash",
+      "excerpt": "Expanding on its global leadership in artificial intelligence (AI) and multi cloud data management solutions, DDN® is strengthening its commitment to enterprise AI",
       "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/ddn-boosts-ai-storage-leadership-with-exascaler-6-and-expanded-portfolio-for-enterprise-intelligent-infrastructure-1030569591",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/ddn-boosts-ai-storage-leadership-with-exascaler-6-and-expanded-portfolio-for-enterprise-intelligent-infrastructure-1030569591",
+      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/ddn-boosts-ai-storage-leadership-with-exascaler-6-and-expanded-portfolio-for-enterprise-intelligent-infrastructure/article_509526cc-fe93-53a7-ace4-b0d0f70a7319.html",
+      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/ddn-boosts-ai-storage-leadership-with-exascaler-6-and-expanded-portfolio-for-enterprise-intelligent-infrastructure/article_509526cc-fe93-53a7-ace4-b0d0f70a7319.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://mma.prnewswire.com/media/1191324/DDN_Logo.jpg",
-          "width": 283,
-          "height": 400,
+          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/a/fc/afcd069f-109a-5e25-b5c1-2f230e1ec9d3/609a802dd1fff.image.jpg?resize=446%2C630",
+          "width": 446,
+          "height": 630,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -714,21 +894,12 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-30T19:12:00-07:00",
+      "publishedDateTime": "2021-06-30T18:58:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "WFMZ-TV",
+        "domain": "wfmz.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -955,203 +1126,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/buzzfeednews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-01-the-names-pushing-ai-toward-a-1t-chip-market-according-to-mizuho.md",
-      "title": "The names pushing AI toward a $1T chip market, according to Mizuho",
-      "excerpt": "An in-depth look at artificial intelligence and deep learning from Mizuho concludes that AI is the next wave of semiconductor growth, a key driver toward a $1",
-      "sourceUrl": null,
-      "webUrl": "https://seekingalpha.com/news/3711185-the-names-pushing-ai-toward-a-1t-chip-market-according-to-mizuho",
-      "originalUrl": "https://seekingalpha.com/news/3711185-the-names-pushing-ai-toward-a-1t-chip-market-according-to-mizuho",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
-          "width": 1200,
-          "height": 1200,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://seekingalpha.com/amp/news/3711185-the-names-pushing-ai-toward-a-1t-chip-market-according-to-mizuho",
-      "cdnAmpWebUrl": "https://seekingalpha-com.cdn.ampproject.org/c/s/seekingalpha.com/amp/news/3711185-the-names-pushing-ai-toward-a-1t-chip-market-according-to-mizuho",
-      "publishedDateTime": "2021-06-30T14:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Seeking Alpha",
-        "domain": "seekingalpha.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-01-facebook-updates-habitat-environment-to-train-embodied-ai.md",
-      "title": "Facebook updates Habitat environment to train ’embodied AI’",
-      "excerpt": "Facebook today announced Habitat 2.0, an updated version of its simulation environment, alongside new datasets and benchmarks.",
-      "sourceUrl": null,
-      "webUrl": "https://ai.facebook.com/blog/habitat-20-training-home-assistant-robots-with-faster-simulation-and-new-benchmarks/",
-      "originalUrl": "https://venturebeat.com/2021/06/30/facebook-updates-habitat-environment-to-train-embodied-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 177,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scontent-sea1-1.xx.fbcdn.net/v/t39.2365-6/61379250_2289364931329348_7271871964229140480_n.jpg?_nc_cat=105&ccb=1-3&_nc_sid=ad8a9d&_nc_ohc=xPUwAqG-JogAX-qKKU7&_nc_ht=scontent-sea1-1.xx&oh=28797380cbde35757e3bdcc16805b3cf&oe=60E1CB5C",
-          "width": 1848,
-          "height": 1112,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-30T14:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-01-who-guidance-details-the-benefits-and-risks-of-adding-ai-to-healthcare.md",
-      "title": "WHO guidance details the benefits and risks of adding AI to healthcare",
-      "excerpt": "The World Health Organization has published new guidance on the use of artificial intelligence in health, something that took experts across multiple fields 18 months to debate. WHO acknowledges",
-      "sourceUrl": null,
-      "webUrl": "https://www.slashgear.com/who-guidance-details-the-benefits-and-risks-of-adding-ai-to-healthcare-30680625/",
-      "originalUrl": "https://www.slashgear.com/who-guidance-details-the-benefits-and-risks-of-adding-ai-to-healthcare-30680625/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.slashgear.com/wp-content/uploads/2021/06/hospital_main_uns.jpg",
-          "width": 1440,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.slashgear.com/who-guidance-details-the-benefits-and-risks-of-adding-ai-to-healthcare-30680625/amp/",
-      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/who-guidance-details-the-benefits-and-risks-of-adding-ai-to-healthcare-30680625/amp/",
-      "publishedDateTime": "2021-06-30T14:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SlashGear",
-        "domain": "slashgear.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/slashgear.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-01-a-cio-weighs-in-on-how-ai-can-benefit-non-technical-roles-particularly-hr.md",
-      "title": "A CIO weighs in on how AI can benefit non-technical roles, particularly HR",
-      "excerpt": "Jeff Gregory, the Thirdera CIO, discussed how AI can impact non-technical roles in an organization, especially in the realm of human resources.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/06/30/a-cio-weighs-in-on-how-ai-can-benefit-non-technical-roles/",
-      "originalUrl": "https://venturebeat.com/2021/06/30/a-cio-weighs-in-on-how-ai-can-benefit-non-technical-roles/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2018/02/shutterstock_777026485-e1625048155126.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/06/30/a-cio-weighs-in-on-how-ai-can-benefit-non-technical-roles/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/30/a-cio-weighs-in-on-how-ai-can-benefit-non-technical-roles/amp/",
-      "publishedDateTime": "2021-06-30T14:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

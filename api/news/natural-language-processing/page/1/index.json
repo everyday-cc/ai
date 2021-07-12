@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-07-12-voice-biometrics-the-new-defense-against-deepfakes.md",
+      "title": "Voice biometrics: the new defense against deepfakes",
+      "excerpt": "With a UCL study ranking deepfakes as one of the biggest threats we face today, it’s time to strengthen our defenses – and put fraudsters on the defensive. Touted as the 2020s’ answer to Photoshopping,",
+      "sourceUrl": null,
+      "webUrl": "https://www.techradar.com/news/voice-biometrics-the-new-defense-against-deepfakes",
+      "originalUrl": "https://www.techradar.com/news/voice-biometrics-the-new-defense-against-deepfakes",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/P6nR5BjdpHEUspxkCwTxdc-480-80.jpg",
+          "width": 480,
+          "height": 270,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techradar.com/amp/news/voice-biometrics-the-new-defense-against-deepfakes",
+      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/voice-biometrics-the-new-defense-against-deepfakes",
+      "publishedDateTime": "2021-07-12T07:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-12-5-ai-startups-out-to-change-the-world.md",
       "title": "5 AI startups out to change the world",
       "excerpt": "Deep learning is solving challenging problems in industries as diverse as retail, manufacturing, and agriculture. These companies are leading the way.",
@@ -10,7 +62,7 @@
       "originalUrl": "https://www.infoworld.com/article/3624700/5-ai-startups-out-to-change-the-world.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 129,
+      "heat": 139,
       "tags": null,
       "images": [
         {
@@ -62,7 +114,7 @@
       "originalUrl": "https://www.nasdaq.com/articles/best-artificial-intelligence-stocks-to-buy-in-july-2021-3-names-to-know-2021-07-08",
       "featuredContent": null,
       "highlight": null,
-      "heat": 80,
+      "heat": 90,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -1443,59 +1495,6 @@
         "Natural Language Processing",
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2021-06-24-how-daniel-wellingtons-customer-service-department-saved-99-on-translation-costs-with-amazon-translate.md",
-      "title": "How Daniel Wellington’s customer service department saved 99% on translation costs with Amazon Translate",
-      "excerpt": "This post is co-authored by Lezgin Bakircioglu, Innovation and Security Manager at Daniel Wellington. In their own words, “Daniel Wellington (DW) is a Swedish fashion brand founded in 2011. Since its inception, it has sold over 11 million watches and established itself as one of the fastest-growing and",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/how-daniel-wellingtons-customer-service-department-saved-99-on-translation-costs-with-amazon-translate/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/how-daniel-wellingtons-customer-service-department-saved-99-on-translation-costs-with-amazon-translate/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/06/09/3451-Architecture.jpg",
-          "width": 800,
-          "height": 354,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-24T15:58:36-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Natural Language Processing"
       ]
     }
   ],

@@ -58,20 +58,6 @@ related:
         width: 1200
         height: 667
         isCached: true
-  - title: "The Dogfights of Your Dreams Could Be Fought With AI"
-    excerpt: "Do these AI developments render human pilots obsolete? Here's What You Need to Remember: Lurking in the background is the fact that machines can react far faster than humans. Can a computer pilot defeat a human pilot in a dogfight?"
-    publishedDateTime: 2021-07-07T23:00:00Z
-    webUrl: "https://nationalinterest.org/blog/reboot/dogfights-your-dreams-could-be-fought-ai-189357"
-    type: article
-    provider:
-      name: The National Interest
-      domain: nationalinterest.org
-    quality: 37
-    images:
-      - url: "https://nationalinterest.org/sites/default/files/main_images/F-35%20%2820%29.jpg"
-        width: 1222
-        height: 873
-        isCached: true
 
 secured: "ryPRguOpaC7sMyvjajx1O/JDSVKlxr5sBF8QSiCxNNcs5Ib0+9luAtEzkcbLPTZwtubmAhQuI/9gUDufuy12Z4IYsBywbVJYiXbILpEirsG3qekUKQg/n7M+TYKZdZ1ZlNOiIyENpZMqG1PT+B6pEdfUGZDkxjN0sSNnWh/t2PJzVULOQ1XPIiLlX7VMiUEtLhKk2pqelNd7p7U6PeE+iDiuDxQjz9XOpz6YKIj1O5GEVcDj8BzXwe/DjNLV4ynr9gGH8dr+m/hJGhSzyoclGj4kxhkFWmQGiWm6eJOT3eALkfXCv/PDV6pQIasRIvPzZJEzkbqKXIDqrJVWRmOT8v8jQ/b/RFjOu4Sjr4K2+NUbrFLNNYCKbAV1ineVsB58tCSVuLKBR5V2LJh2eunf3lPZv9qdZZ95d4PeF4fY6HYNrsFWpDklsGAI2bkW/Pr6QXpvo2QztNrqoh0uZlmTqQI4lzRXchsyGjtL1jPVavLKWJgTNviLt04p5BtiiiPDsygdX2hW+QZFmMglQT1s3A==;VY7XyoTjQjFKRPp8hH7YeA=="
 ---

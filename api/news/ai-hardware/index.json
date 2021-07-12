@@ -2,6 +2,59 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-07-12-how-google-used-machine-learning-to-dramatically-improve-chip-design.md",
+      "title": "How Google used machine learning to dramatically improve chip design",
+      "excerpt": "Commentary: To get the most out of machine learning, it pays to avoid overthinking AI. Find out how Google engineers' were able to make a ML process take less than six hours instead of weeks.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/how-google-used-machine-learning-to-dramatically-improve-chip-design/",
+      "originalUrl": "https://www.techrepublic.com/article/how-google-used-machine-learning-to-dramatically-improve-chip-design/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techrepublic.com/a/hub/i/r/2021/05/04/1ad0d474-bc24-4ef6-9f53-f1cf74fc2ae5/resize/1200x/0cf885e0a0ea9596a3cec44394fc14f7/ai.jpg",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/how-google-used-machine-learning-to-dramatically-improve-chip-design/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/how-google-used-machine-learning-to-dramatically-improve-chip-design/",
+      "publishedDateTime": "2021-07-12T07:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2021-07-12-the-real-successes-of-ai.md",
       "title": "The real successes of AI",
       "excerpt": "Despite the hype, especially around self-driving cars, AI is writing code, designing Google chip floor plans, and telling us how much to trust it.",
@@ -10,7 +63,7 @@
       "originalUrl": "https://www.infoworld.com/article/3624703/the-real-successes-of-ai.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 119,
+      "heat": 109,
       "tags": null,
       "images": [
         {
@@ -341,49 +394,6 @@
       ]
     },
     {
-      "path": "_news/2021-07-07-oneplus-nord-2-5g-to-have-new-ai-dimensity-chip.md",
-      "title": "OnePlus Nord 2 5G to have new AI Dimensity chip",
-      "excerpt": "Global smartphone brand OnePlus on Wednesday announced that it has joined hands with chip-maker MediaTek for Dimensity 1200-AI, which",
-      "sourceUrl": null,
-      "webUrl": "https://www.glamsham.com/world/technology/oneplus-nord-2-5g-to-have-new-ai-dimensity-chip",
-      "originalUrl": "https://www.glamsham.com/world/technology/oneplus-nord-2-5g-to-have-new-ai-dimensity-chip",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.glamsham.com/wp-content/uploads/2021/07/4454befbc98baedf9d98ece6050b2ceb-1.jpg",
-          "width": 300,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-07T08:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "glamsham.com",
-        "domain": "glamsham.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-07-07-the-oneplus-nord-2-will-have-a-custom-dimensity-1200-ai-chipset-the-company-confirms.md",
       "title": "The OnePlus Nord 2 will have a custom Dimensity 1200-AI chipset, the company confirms",
       "excerpt": "OnePlus and MediaTek added additional AI features to the base Dimensity 1200 to help with the camera, media playback and other tasks.",
@@ -413,6 +423,40 @@
       "provider": {
         "name": "GSM Arena",
         "domain": "gsmarena.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-07-oneplus-nord-2-5g-to-have-new-ai-dimensity-chip.md",
+      "title": "OnePlus Nord 2 5G to have new AI Dimensity chip",
+      "excerpt": "Global smartphone brand OnePlus on Wednesday announced that it has joined hands with chip-maker MediaTek for Dimensity 1200-AI, which will be featured in the upcoming OnePlus Nord 2 5G smartphone.",
+      "sourceUrl": null,
+      "webUrl": "https://www.sify.com/finance/oneplus-nord-2-5g-to-have-new-ai-dimensity-chip-news-topnews-vhhnk9ggchbfg.html",
+      "originalUrl": "https://www.sify.com/finance/oneplus-nord-2-5g-to-have-new-ai-dimensity-chip-news-topnews-vhhnk9ggchbfg.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-07T06:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Sify.com",
+        "domain": "sify.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -888,19 +932,19 @@
     {
       "path": "_news/2021-07-01-ddn-boosts-ai-storage-leadership-with-exascaler-6-and-expanded-portfolio-for-enterprise-intelligent-infrastructure.md",
       "title": "DDN Boosts AI Storage Leadership with EXAScaler 6 and Expanded Portfolio for Enterprise Intelligent Infrastructure",
-      "excerpt": "DDN Unveils the Next Generation of EXAScaler, Simplifies the Procurement of AI Supercomputing Infrastructure by 200x1 and Expands IntelliFlash",
+      "excerpt": "Expanding on its global leadership in artificial intelligence (AI) and multi cloud data management solutions, DDN® is strengthening its commitment to enterprise AI",
       "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/ddn-boosts-ai-storage-leadership-with-exascaler-6-and-expanded-portfolio-for-enterprise-intelligent-infrastructure-1030569591",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/ddn-boosts-ai-storage-leadership-with-exascaler-6-and-expanded-portfolio-for-enterprise-intelligent-infrastructure-1030569591",
+      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/ddn-boosts-ai-storage-leadership-with-exascaler-6-and-expanded-portfolio-for-enterprise-intelligent-infrastructure/article_509526cc-fe93-53a7-ace4-b0d0f70a7319.html",
+      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/ddn-boosts-ai-storage-leadership-with-exascaler-6-and-expanded-portfolio-for-enterprise-intelligent-infrastructure/article_509526cc-fe93-53a7-ace4-b0d0f70a7319.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://mma.prnewswire.com/media/1191324/DDN_Logo.jpg",
-          "width": 283,
-          "height": 400,
+          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/a/fc/afcd069f-109a-5e25-b5c1-2f230e1ec9d3/609a802dd1fff.image.jpg?resize=446%2C630",
+          "width": 446,
+          "height": 630,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -910,21 +954,12 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-30T19:12:00-07:00",
+      "publishedDateTime": "2021-06-30T18:58:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "WFMZ-TV",
+        "domain": "wfmz.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1190,11 +1225,11 @@
     },
     {
       "path": "_news/2021-06-29-wekaio-announces-support-of-nvidias-turbocharged-hgx-ai-supercomputing-platform.md",
-      "title": "WekaIO Announces Support of NVIDIA's Turbocharged HGX™ AI Supercomputing Platform",
-      "excerpt": "WekaIO™ (Weka), one of the fastest-growing data platforms for artificial intelligence/machine learning (AI/ML), life sciences research, and high-performance computing (HPC), today announced the WekaFS™ Limitless Data Platform's ability to leverage the newly-turbocharged NVIDIA HGX™ AI supercomputing platform to deliver the best performance and throughput required of today's most-demanding enterprise workloads.",
+      "title": "WekaIO Announces Support of NVIDIAs Turbocharged HGX AI Supercomputing Platform",
+      "excerpt": "WekaIO™ (Weka), one of the fastest-growing data platforms for artificial intelligence/machine learning (AI/ML), life sciences research, and high-performance computing (HPC), today announced the WekaFS™ Limitless Data Platform’s ability to leverage the newly-turbocharged NVIDIA HGX™ AI supercomputing platform to deliver the best performance and throughput required of today’s most-demanding enterprise workloads.",
       "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/-wekaio-announces-support-nvidias-turbocharged-hgxtrade-ai-supercomputing-/2021/06/29/9400007.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/-wekaio-announces-support-nvidias-turbocharged-hgxtrade-ai-supercomputing-/2021/06/29/9400007.htm",
+      "webUrl": "https://www.financialbuzz.com/wekaio-announces-support-of-nvidias-turbocharged-hgx-ai-supercomputing-platform/",
+      "originalUrl": "https://www.financialbuzz.com/wekaio-announces-support-of-nvidias-turbocharged-hgx-ai-supercomputing-platform/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -1204,11 +1239,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-29T07:09:00-07:00",
+      "publishedDateTime": "2021-06-29T07:05:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
+        "name": "Financial Buzz",
+        "domain": "financialbuzz.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1400,40 +1435,6 @@
       "provider": {
         "name": "TMCnet",
         "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-28-new-intel-xpu-innovations-target-hpc-and-ai.md",
-      "title": "New Intel XPU Innovations Target HPC and AI",
-      "excerpt": "The next generation of Intel Xeon Scalable processors (code-named “Sapphire Rapids”) will integrate High Bandwidth Memory (HBM). Intel’s X e -HPC-based Ponte Vecchio GPU has powered-on, is in system validation,",
-      "sourceUrl": null,
-      "webUrl": "https://www.morningstar.com/news/business-wire/20210628005138/new-intel-xpu-innovations-target-hpc-and-ai",
-      "originalUrl": "https://www.morningstar.com/news/business-wire/20210628005138/new-intel-xpu-innovations-target-hpc-and-ai",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-28T04:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Morningstar, Inc.",
-        "domain": "morningstar.com",
         "images": null,
         "publishers": null,
         "authors": null

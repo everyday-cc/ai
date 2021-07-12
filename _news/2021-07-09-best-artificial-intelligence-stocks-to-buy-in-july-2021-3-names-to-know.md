@@ -40,6 +40,20 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 70
+  - title: "AMD Stock – Zoom – 3 Top Cloud Computing Stocks to Buy in July | Fintech Zoom"
+    excerpt: "Complete Advanced Micro Devices Inc. stock news by FintechZoom. View real-time stock prices and stock quotes for a full financial overview."
+    publishedDateTime: 2021-07-12T15:40:00Z
+    webUrl: "https://fintechzoom.com/fintech_news_amd/amd-stock-zoom-3-top-cloud-computing-stocks-to-buy-in-july-fintech-zoom/"
+    type: article
+    provider:
+      name: fintechzoom
+      domain: fintechzoom.com
+    quality: 21
+    images:
+      - url: "https://fintechzoom.com/wp-content/uploads/2021/07/semiconductor-research-microchips-scaled.jpg"
+        width: 2560
+        height: 1707
+        isCached: true
 
 secured: "/b+qS9TsUCDWgAAh9KYXH/UWK6GuFqSkWy1RbHeGlFPTYM9xpjgGgY5dLqrQ5yz2nUJQbcmUsw9Kz3HM7HTKTr7byX1nCT4csJ7NyRfFLKPHxNxVc/WEadZhirhtoKatFOqEOBJ/W1DqRlamgmIAFOFtwVo6+4oA/bxnSPFwdDmRIqTLk2ESIMpGTGQ+7o1geLrcUIsg3ZuHJ8tnqJf3XEoWHGaPwBjoo6QMzZLuNxetUgbNbKR9/Dh6tivEMY+QTWmcIrDJ53ruHtp0vkBE1/9fnEZub+Tv5NW2KXakkoz2RHudJBxM9ZwOY0fvRa583P3ti82XiWxY/da2CXci2Q7379sApBNa4XQ5UhfDFB4=;fpzq3rrnPL5/mvuemZzDpQ=="
 ---

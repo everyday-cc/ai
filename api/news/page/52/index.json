@@ -2,6 +2,169 @@
   "page": 52,
   "value": [
     {
+      "path": "_news/2021-06-02-realising-enterprise-scale-machine-learning-with-data-governance.md",
+      "title": "Realising enterprise-scale machine learning with data governance",
+      "excerpt": "Realising the promise of AI/ML calls for organisations to scale its use enterprise-wide and promote the culture of an insights-driven organisation. Additionally, data is the fuel that keeps machine learning (ML) going,",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbctv18.com/personal-finance/world/technology/realising-enterprise-scale-machine-learning-with-data-governance-9518121.htm",
+      "originalUrl": "https://www.cnbctv18.com/personal-finance/world/technology/realising-enterprise-scale-machine-learning-with-data-governance-9518121.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbctv18.com/technology/realising-enterprise-scale-machine-learning-with-data-governance-9518121.htm/amp",
+      "cdnAmpWebUrl": "https://www-cnbctv18-com.cdn.ampproject.org/c/s/www.cnbctv18.com/technology/realising-enterprise-scale-machine-learning-with-data-governance-9518121.htm/amp",
+      "publishedDateTime": "2021-06-02T06:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "cnbctv18",
+        "domain": "cnbctv18.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-06-02-dhl-extends-warehouse-automation-partnership-with-locus-robotics.md",
+      "title": "DHL extends warehouse automation partnership with Locus Robotics",
+      "excerpt": "Robotic process automation is no longer a science experiment. This technology is no longer about figuring out what works. The time to consider whether to automate your warehouses has passed.”",
+      "sourceUrl": null,
+      "webUrl": "https://www.freightwaves.com/news/dhl-extends-warehouse-automation-partnership-with-locus-robotics",
+      "originalUrl": "https://www.freightwaves.com/news/dhl-extends-warehouse-automation-partnership-with-locus-robotics",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s29755.pcdn.co/wp-content/uploads/2021/06/DHL-locus.png",
+          "width": 1144,
+          "height": 658,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.freightwaves.com/news/dhl-extends-warehouse-automation-partnership-with-locus-robotics/amp",
+      "cdnAmpWebUrl": "https://www-freightwaves-com.cdn.ampproject.org/c/s/www.freightwaves.com/news/dhl-extends-warehouse-automation-partnership-with-locus-robotics/amp",
+      "publishedDateTime": "2021-06-02T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "freightwaves.com",
+        "domain": "freightwaves.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-02-apptek-partners-with-intel-to-foster-the-development-of-next-generation-ai-enabled-speech-and-language-technologies.md",
+      "title": "AppTek Partners with Intel to Foster the Development of Next Generation AI-Enabled Speech and Language Technologies",
+      "excerpt": "AppTek is a global leader in artificial intelligence (AI) and machine learning (ML) technologies for automatic speech recognition (ASR), neural machine translation (NMT), natural language ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/21/06/n21387911/apptek-partners-with-intel-to-foster-the-development-of-next-generation-ai-enabled-speech-and-lang",
+      "originalUrl": "https://www.benzinga.com/pressreleases/21/06/n21387911/apptek-partners-with-intel-to-foster-the-development-of-next-generation-ai-enabled-speech-and-lang",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/21387911",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/21387911",
+      "publishedDateTime": "2021-06-02T05:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-02-10-ways-ai-and-automation-can-help-agencies-succeed.md",
+      "title": "10 Ways AI And Automation Can Help Agencies Succeed",
+      "excerpt": "Artificial intelligence and automation have transformed the way people do business and show no sign of slowing down. Smart agencies are seeking new ways to leverage both.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesagencycouncil/2021/06/02/10-ways-ai-and-automation-can-help-agencies-succeed/",
+      "originalUrl": "https://www.forbes.com/sites/forbesagencycouncil/2021/06/02/10-ways-ai-and-automation-can-help-agencies-succeed/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60b69b04d65af80e8d7dd319%2F0x0.jpg",
+          "width": 1200,
+          "height": 580,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesagencycouncil/2021/06/02/10-ways-ai-and-automation-can-help-agencies-succeed/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesagencycouncil/2021/06/02/10-ways-ai-and-automation-can-help-agencies-succeed/amp/",
+      "publishedDateTime": "2021-06-02T05:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-02-cyclist-use-of-key-london-bridge-higher-now-than-bike-boom-of-1949-finds-ai-camera-count.md",
       "title": "Cyclist Use Of Key London Bridge Higher Now Than Bike Boom Of 1949, Finds AI Camera Count",
       "excerpt": "AI-powered traffic counting has found that cyclists accounted for 41% of all road users on Blackfriars Bridge, London.",
@@ -992,213 +1155,6 @@
       "topics": [
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-06-02-texas-proving-grounds-to-test-ai-in-the-real-world.md",
-      "title": "Texas proving grounds to test AI in the real world",
-      "excerpt": "AI is making its way into the physical world. How do you make sure nothing goes horribly wrong? How do you test out how AI will interact with physical systems in a real-world environment? If you're SparkCognition,",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/company-opens-texas-proving-grounds-to-test-ai-in-the-real-world/",
-      "originalUrl": "https://www.zdnet.com/article/company-opens-texas-proving-grounds-to-test-ai-in-the-real-world/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/hub/i/2021/05/31/ab2962ca-1e04-450f-bd21-eb60865b3fcb/boeingdrone.jpg",
-          "width": 920,
-          "height": 613,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/company-opens-texas-proving-grounds-to-test-ai-in-the-real-world/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/company-opens-texas-proving-grounds-to-test-ai-in-the-real-world/",
-      "publishedDateTime": "2021-06-01T21:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-02-banned-gamblers-in-south-australia-to-be-found-using-facial-recognition-tech.md",
-      "title": "Banned gamblers in South Australia to be found using facial recognition tech",
-      "excerpt": "A number of gaming rooms in South Australia have adopted facial recognition tech from Vix Vizion as part of the state's gambling reforms that went live in December.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/banned-gamblers-in-south-australia-to-be-found-via-facial-recognition/",
-      "originalUrl": "https://www.zdnet.com/article/banned-gamblers-in-south-australia-to-be-found-via-facial-recognition/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/hub/i/2021/06/02/90403232-2d0f-455a-ad7d-5d02bf0fce3f/man-gambling.jpg",
-          "width": 6720,
-          "height": 4480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/banned-gamblers-in-south-australia-to-be-found-via-facial-recognition/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/banned-gamblers-in-south-australia-to-be-found-via-facial-recognition/",
-      "publishedDateTime": "2021-06-01T20:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-02-conversational-ai-startup-cognigy-nabs-44m.md",
-      "title": "Conversational AI startup Cognigy nabs $44M",
-      "excerpt": "Cognigy, a platform for designing conversational, AI-powered experiences, raised $44 million in fresh capital.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/06/01/conversational-ai-startup-cognigy-nabs-44m/",
-      "originalUrl": "https://venturebeat.com/2021/06/01/conversational-ai-startup-cognigy-nabs-44m/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2018/06/feldman-automotive-chatbot-pr-magic.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 801,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/06/01/conversational-ai-startup-cognigy-nabs-44m/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/01/conversational-ai-startup-cognigy-nabs-44m/amp/",
-      "publishedDateTime": "2021-06-01T17:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-02-five-industries-reaping-the-benefits-of-artificial-intelligence.md",
-      "title": "Five Industries Reaping The Benefits Of Artificial Intelligence",
-      "excerpt": "AI (artificial intelligence) offers numerous opportunities ... It's not science fiction anymore; the driverless experience is a reality now. According to recent reports, it’s expected that ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/06/02/five-industries-reaping-the-benefits-of-artificial-intelligence/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/06/02/five-industries-reaping-the-benefits-of-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f7376dc40469ab26495a8e5%2F0x0.jpg",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/06/02/five-industries-reaping-the-benefits-of-artificial-intelligence/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/06/02/five-industries-reaping-the-benefits-of-artificial-intelligence/amp/",
-      "publishedDateTime": "2021-06-01T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

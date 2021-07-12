@@ -9,7 +9,7 @@ ampWebUrl: "https://newatlas.com/medical/ai-tool-fat-heart-mri-diabetes-risk/?am
 cdnAmpWebUrl: "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/medical/ai-tool-fat-heart-mri-diabetes-risk/?amp=true"
 type: article
 quality: 85
-heat: 105
+heat: 115
 published: true
 
 provider:
@@ -55,6 +55,20 @@ related:
       name: Science Daily
       domain: sciencedaily.com
     quality: 47
+  - title: "AI Tool Measures Fat Around the Heart to Predict Diabetes Risk"
+    excerpt: "Researchers from Queen Mary University found that the more fat found around the heart, the greater the diabetes risk."
+    publishedDateTime: 2021-07-12T14:52:00Z
+    webUrl: "https://www.mddionline.com/artificial-intelligence/ai-tool-measures-fat-around-heart-predict-diabetes-risk"
+    type: article
+    provider:
+      name: MD&M East
+      domain: mddionline.com
+    quality: 37
+    images:
+      - url: "https://www.mddionline.com/sites/mddionline.com/files/IMG_Jul122021at104715AM.jpg"
+        width: 770
+        height: 400
+        isCached: true
 
 secured: "LdqRVdx+P+d2Eu1wwjQ+Fg9NTAJDYvGmpJXIjjNS2AofzGCAu5A3X8kDYNh6S7jMoTraepxGhdjWCnEwjhT+OINnTrP40txJ1o1IyV6e9lgd6W7bPx6tyGyUwhSBbllz5CE82q0mOPhIIo9mkA4hVls3uZveOB2/oVK9z9XJTarEFtyt5I8vP0kj+HppZGysOwFfXlkQ+UTI/fdiwmD58gEtrSzfzkz2uCP40p4FpJe3ay9FKY68SiM5cPlacn5itKBoAKpL3F2nbOAQK5FYTC65Ehsqyxg+dgW9chemW208bEHvQrMY71EvneL3LaHEFQOGSiuXJ9pn7K/EUX0SbkwZ/DZoIxSz73aMzXoR3F6KE2gTHAqfx7yR5r8dC+1ivkxBHBcOWLvpnr75+ruefd/bG87CfCK6AYe98oeksVdrApBTf/fdtSkHSLI65yReSW3t6ROGLVtowOFkpOn5JvFINIEVUJnSisgZiVbiq9wb6kgMB2IsG14du2Ks9v0SbGBbvpTmmXDGibzU5sfxTQ==;AKxfXwtxLxgWxCH2xG9Nfg=="
 ---

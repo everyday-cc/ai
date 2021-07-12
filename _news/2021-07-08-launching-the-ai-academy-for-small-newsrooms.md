@@ -9,7 +9,7 @@ ampWebUrl: "https://blog.google/outreach-initiatives/google-news-initiative/laun
 cdnAmpWebUrl: "https://blog-google.cdn.ampproject.org/c/s/blog.google/outreach-initiatives/google-news-initiative/launching-ai-academy-small-newsrooms/amp/"
 type: article
 quality: 109
-heat: 109
+heat: 119
 published: true
 
 provider:
@@ -29,6 +29,24 @@ images:
     width: 1000
     height: 1000
     isCached: true
+
+related:
+  - title: "Top 7 Artificial Intelligence"
+    excerpt: "Top 7 Artificial Intelligence AI is now at the forefront of technological advancement in various industries and some industry leaders are le 18088292"
+    publishedDateTime: 2021-07-12T14:55:00Z
+    webUrl: "https://elclasificado.com/losangeles/telecom/venta-computadoras/top-7-artificial-intelligence-18088292"
+    ampWebUrl: "https://elclasificado.com/losangeles/telecom/venta-computadoras/top-7-artificial-intelligence-18088292-amp.html"
+    cdnAmpWebUrl: "https://elclasificado-com.cdn.ampproject.org/c/s/elclasificado.com/losangeles/telecom/venta-computadoras/top-7-artificial-intelligence-18088292-amp.html"
+    type: article
+    provider:
+      name: El Clasificado
+      domain: elclasificado.com
+    quality: 59
+    images:
+      - url: "https://elclasificado.com/photos/bc/c8/bcc82cd84cd144799b16f6188362b5c9/l.jpg?image=0"
+        width: 720
+        height: 480
+        isCached: true
 
 secured: "9ixvRN7LrRLbdqCl0G+UDW1ucHUxq02ziKZ5z9MYE2bCgDbhrROkLsoT0Pim3q68YEZbetkFXQcd7u9+22bUXLCGnheUuOcjr8D0rX9FEmL+ByDhWNdoa5tZUAfxmlTkXfJisnD7tLg40aguqS1iMiCOw7bFAxkAdCESEEO3tcczf3esmADZInXgsV8fYi7LZR6Y/3rJWX1d6XZ9HCj1L6//bEEZuDCK7ujO1I3V5undf3C0W9SXSTWVhnD5oZidsZ7sC+0GgrvjLkDo4cYGgigVtT3RDIulWPI70oCQOfTGghd3ss2VBfEpGUTCbxqba+eH3RiAuIQibXt+ja1rTfPRSg6d2cXUHogD0JkpY+4=;DW1Z7YZrB3CHXMkVli7RBw=="
 ---

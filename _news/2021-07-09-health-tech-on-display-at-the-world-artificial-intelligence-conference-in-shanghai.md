@@ -71,6 +71,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Four ways artificial intelligence is helping us learn about the universe"
+    excerpt: "To take on these challenges, astronomers are turning to machine learning and artificial intelligence (AI) to build new tools to rapidly search for the next big breakthroughs. Here are four ways AI is helping astronomers."
+    publishedDateTime: 2021-07-12T15:00:00Z
+    webUrl: "https://www.space.com/artificial-intelligence-to-learn-about-the-universe"
+    ampWebUrl: "https://www.space.com/amp/artificial-intelligence-to-learn-about-the-universe"
+    cdnAmpWebUrl: "https://www-space-com.cdn.ampproject.org/c/s/www.space.com/amp/artificial-intelligence-to-learn-about-the-universe"
+    type: article
+    provider:
+      name: Space.com
+      domain: space.com
+    quality: 56
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/VKoGcvvnKZHGJZHKaB3X9F-480-80.jpeg"
+        width: 480
+        height: 480
+        isCached: true
   - title: "New AI technologies debut at World AI Conference in Shanghai"
     excerpt: "Conference opened in Shanghai on Thursday. Since COVID-19 is well under control in China, hundreds of AI developers are able to attend the event offline, where many of them debut their latest products."
     publishedDateTime: 2021-07-08T18:20:00Z
