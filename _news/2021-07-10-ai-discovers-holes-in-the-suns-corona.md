@@ -40,22 +40,6 @@ related:
         width: 1200
         height: 1000
         isCached: true
-  - title: "Harnessing AI to discover new drugs inspired by nature"
-    excerpt: "Artificial intelligence (AI) is able to recognize the biological activity of natural products in a targeted manner, as researchers at ETH Zurich have demonstrated. Moreover, AI helps to find molecules that have the same effect as a natural substance but are easier to manufacture."
-    publishedDateTime: 2021-07-07T14:48:00Z
-    webUrl: "https://phys.org/news/2021-07-harnessing-ai-drugs-nature.html"
-    ampWebUrl: "https://phys.org/news/2021-07-harnessing-ai-drugs-nature.amp"
-    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-07-harnessing-ai-drugs-nature.amp"
-    type: article
-    provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 57
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2021/harnessing-ai-to-disco.jpg"
-        width: 930
-        height: 465
-        isCached: true
   - title: "Harnessing AI to Discover New Drugs: Rewriting the Rulebook for Pharmaceutical Research"
     excerpt: "Artificial intelligence (AI) is able to recognize the biological activity of natural products in a targeted manner, as researchers at ETH Zurich have demonstrated. Moreover, AI helps to find molecules that have the same effect as a natural substance but are easier to manufacture."
     publishedDateTime: 2021-07-09T10:07:00Z

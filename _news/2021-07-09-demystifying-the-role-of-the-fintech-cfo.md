@@ -25,81 +25,71 @@ images:
     isCached: true
 
 related:
-  - title: "AI in Fintech Market Next Big Thing : Major Giants IBM, Microsoft, Samsung, Intel"
-    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Jul 06, 2021 (Heraldkeepers) -- The latest research on \"Global AI in Fintech Report 2021\" offered by HTF MI provides a comprehensive investigation into the geographical ..."
-    publishedDateTime: 2021-07-07T14:20:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-in-fintech-market-next-big-thing-major-giants-ibm-microsoft-samsung-intel-2021-07-06"
+  - title: "Rise by Barclays: Embedded finance and the future of fintech"
+    excerpt: "Mariquit Corcoran, Group CIO at Barclays, contextualises the benefits that embedded finance is bringing to customers and how it could shape fintech overall"
+    publishedDateTime: 2021-07-08T07:48:00Z
+    webUrl: "https://fintechmagazine.com/technology-and-ai/rise-barclays-embedded-finance-and-future-fintech"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 81
+      name: fintechmagazine
+      domain: fintechmagazine.com
+    quality: 39
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://fintechmagazine.com/sites/default/files/styles/ma/public/image/Femle-founders2-16_9%20%281%29%20%281%29.jpg?itok=I3bMaq47"
+        width: 3200
+        height: 1800
         isCached: true
-  - title: "Artificial Intelligence (AI) in Fintech Market: Ready To Fly on high Growth Trends"
-    excerpt: "Latest Study on Industrial Growth of COVID 19 Outbreak Global Artificial Intelligence AI in Fintech Market 2021 2027 A detailed study accumulated to offer Latest insights about acute features of the COVID 19 Outbreak Artificial Intelligence AI in Fintech market"
-    publishedDateTime: 2021-07-08T08:20:00Z
-    webUrl: "https://www.openpr.com/news/2323847/artificial-intelligence-ai-in-fintech-market-ready-to-fly"
-    ampWebUrl: "https://www.openpr.com/amp/2323847/artificial-intelligence-ai-in-fintech-market-ready-to-fly"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2323847/artificial-intelligence-ai-in-fintech-market-ready-to-fly"
+  - title: "Here Are the Winners of the Swiss Fintech Awards 2021"
+    excerpt: "The Swiss Fintech Awards 2021 named FQX and Yokoy best fintech startups of the year. Cornelia Stengel named 'Fintech Influencer of the Year.'"
+    publishedDateTime: 2021-07-08T06:02:00Z
+    webUrl: "https://fintechnews.ch/partner-content/here-are-winners-of-the-swiss-fintech-awards-2021/47131/"
     type: article
     provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 68
+      name: fintechnews.ch
+      domain: fintechnews.ch
+    quality: 24
     images:
-      - url: "https://cdn.openpr.com/U/7/U708590558_g.jpg"
-        width: 750
-        height: 500
+      - url: "https://fintechnews.ch/wp-content/uploads/2021/07/The-Swiss-Fintech-Awards-2021-Winners-Are.jpg"
+        width: 2048
+        height: 1136
         isCached: true
-  - title: "Deep Learning Market Size, Share 2021-2028 | Top Key Vendors – Amazon Web Services (AWS), Google, IBM, Intel, Micron Technology, Microsoft"
-    excerpt: "The Deep Learning Market study provides details of market dynamics affecting the market, market size, and segmentation, and casts a shadow over the major market players by highlighting the favorable competitive landscape and successful trends over the years."
-    publishedDateTime: 2021-07-11T14:25:00Z
-    webUrl: "https://manometcurrent.com/deep-learning-market-size-share-2021-2028-top-key-vendors-amazon-web-services-aws-google-ibm-intel-micron-technology-microsoft/"
+  - title: "Fintech firm, Tangerine, launches pension, insurance products"
+    excerpt: "A leading financial services and technology platform, Tangerine, officially launched its financial service product offerings at a press conference held on Wednesday July 7. Speaking at the press conference was Livingstone Magorimbo,"
+    publishedDateTime: 2021-07-08T21:16:00Z
+    webUrl: "https://www.premiumtimesng.com/promoted/472505-fintech-firm-tangerine-launches-pension-insurance-products.html"
     type: article
     provider:
-      name: manometcurrent.com
-      domain: manometcurrent.com
-    quality: 34
-  - title: "Deep Learning Market Size, Trends and Forecast 2028 By Amazon Web Services (AWS), Google, IBM, Intel, Micron Technology, Microsoft, Nvidia, Qualcomm"
-    excerpt: "The report covers a very methodical quantitative and qualitative analysis of the Deep Learning market. The study evaluates many aspects of this industry by examining its historical and forecast data."
-    publishedDateTime: 2021-07-08T04:57:00Z
-    webUrl: "https://manometcurrent.com/deep-learning-market-size-trends-and-forecast-2028-by-amazon-web-services-aws-google-ibm-intel-micron-technology-microsoft-nvidia-qualcomm/"
+      name: Premium Times
+      domain: premiumtimesng.com
+    quality: 24
+    images:
+      - url: "https://media.premiumtimesng.com/wp-content/files/2021/07/Lead-Image.jpg"
+        width: 1620
+        height: 1080
+        isCached: true
+  - title: "How to find funding in the fintech space and what the Government can do to support the UK’s position"
+    excerpt: "Over the last decade, the UK has been undergoing a fintech revolution seeing increased opportunities in global trade, jobs, and innovation to become the global hub that it is today. Yet for many, the image of fintech is stuck in Shoreditch,"
+    publishedDateTime: 2021-07-07T19:18:00Z
+    webUrl: "https://www.finextra.com/blogposting/20566/how-to-find-funding-in-the-fintech-space-and-what-the-government-can-do-to-support-the-uks-position"
     type: article
     provider:
-      name: manometcurrent.com
-      domain: manometcurrent.com
-    quality: 29
-  - title: "AI in Telecommunication Market Booming Segments; Investors Seeking Growth | Google, Microsoft, IBM"
-    excerpt: "Get Free Exclusive PDF Sample Copy of This Research @  Scope of the Report of AI in Telecommunication Artificial Intelligence with learning abilities is a revolutionary technology, which the communication industry is exploring,"
-    publishedDateTime: 2021-07-08T16:59:00Z
-    webUrl: "https://manometcurrent.com/ai-in-telecommunication-market-booming-segments-investors-seeking-growth-google-microsoft-ibm/"
-    type: article
-    provider:
-      name: manometcurrent.com
-      domain: manometcurrent.com
-    quality: 20
-  - title: "At 17.1% CAGR, AI in Fintech Market Size will reach 8984.9 million USD by 2025"
-    excerpt: "The global AI in Fintech market size is expected to gain market growth in the forecast period of 2020 to 2025, with a CAGR of 17.1% in the forecast period of 2020 to 2025 and will expected to reach USD 8984."
-    publishedDateTime: 2021-07-09T15:21:00Z
-    webUrl: "https://www.arnnet.com.au/mediareleases/144117/at-171-cagr-ai-in-fintech-market-size-will-reach/"
-    type: article
-    provider:
-      name: ARN
-      domain: arnnet.com.au
-    quality: 15
-  - title: "Artificial Intelligence in Aviation Market Size, Share 2021-2028 | Top Key Vendors – Micron, Intel, Boeing, Lockheed Martin, Xilinx, IBM"
-    excerpt: "The Artificial Intelligence in Aviation Market study provides details of market dynamics affecting the market, market size, and segmentation, and casts a shadow over the major market players by highlighting the favorable competitive landscape and successful trends over the years."
-    publishedDateTime: 2021-07-11T15:55:00Z
-    webUrl: "https://manometcurrent.com/artificial-intelligence-in-aviation-market-size-share-2021-2028-top-key-vendors-micron-intel-boeing-lockheed-martin-xilinx-ibm/"
-    type: article
-    provider:
-      name: manometcurrent.com
-      domain: manometcurrent.com
+      name: Finextra
+      domain: finextra.com
     quality: 0
+  - title: "Rensselaer Polytechnic Institute and Stevens Institute of Technology To Establish the First-Ever NSF-Backed Fintech Research Center"
+    excerpt: "Rensselaer Polytechnic Institute and Stevens Institute of Technology announced today that they have been awarded the first-ever National Science Foundation (NSF) grant to create an industry-university cooperative research center devoted specifically to financial technology and science."
+    publishedDateTime: 2021-07-08T15:22:00Z
+    webUrl: "https://news.rpi.edu/content/2021/07/08/rensselaer-polytechnic-institute-and-stevens-institute-technology-establish-first"
+    type: article
+    provider:
+      name: RPI News
+      domain: rpi.edu
+    quality: 0
+    images:
+      - url: "https://www.rpi.edu/dept/cct/apps/web-branding/v1/header/meganav/img/thearch.jpg"
+        width: 667
+        height: 446
+        isCached: true
 
 secured: "3g7odTHM+bBF4PgCqgGap3YXh6YFvm1EPe+2+z0sgwFIRhdVAnoZkpzV/ruKKtzRJVQzsDxh9WDULjHIEr3Tpy0xn/oknTdBBms/lD9B6cXzNv9rOc2X6oSM25/lcYCtOdwWNVGXSSnrqrLuOAm5IRr9Vr4pPs5SxyigQmvkEL7eg09S7hdrP6Y7PPEmK/FR0d7qfNs1krOV9iNvZP1I9I4GtPjT+D6P2OLO/OovP5TZWCmKJGJsn71jvPL0biHNHkQPrFyvrXJp6SjsLHu1r6xghdnNN50M5oCC0HjKGXQuOdkvHWDAIbnfi7/4x18X5sw0nYDHfPuUGnE7bUzX7zeDglZlKH1Wm1Bj2w9FQ8irjPAhXHz0SOo+q7JPZYNYlGeAk8yduZP9harTw3q7Sygr1Fz6QZ72QGD2hHlCKeehdp1t0+jEhWxLK30dAO9DO6HVQdhHKoLRo4SZw9PG4cnt0d8MskXgvtX0NRj2MMEkJbBSIFkGo+4RGs2st2cTfow706TMhM0ge50zfpPCfA==;2m6BzdkzdHadniBm6LFzzg=="
 ---

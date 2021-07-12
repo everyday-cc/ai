@@ -9,8 +9,8 @@ ampWebUrl: "https://www.openpr.com/amp/2325607/artificial-intelligence-ai-in-oil
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2325607/artificial-intelligence-ai-in-oil-and-gas-market-is-set-to-fly"
 type: article
 quality: 66
-heat: 116
-published: true
+heat: -1
+published: false
 
 provider:
   name: openpr.com
@@ -27,19 +27,21 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial intelligence (AI) in Supply Chain and Logistics Market Will Generate Massive Revenue in Coming Years"
-    excerpt: "Jul 10, 2021 (Heraldkeepers) -- The latest independent research document on Global Artificial intelligence (AI) in Supply Chain and Logistics examine investment in Market. It describes how companies deploying these technologies across various industry ..."
-    publishedDateTime: 2021-07-11T01:14:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-supply-chain-and-logistics-market-will-generate-massive-revenue-in-coming-years-2021-07-10"
+  - title: "Artificial Intelligence (AI) in Fintech Market: Ready To Fly on high Growth Trends"
+    excerpt: "Latest Study on Industrial Growth of COVID 19 Outbreak Global Artificial Intelligence AI in Fintech Market 2021 2027 A detailed study accumulated to offer Latest insights about acute features of the COVID 19 Outbreak Artificial Intelligence AI in Fintech market"
+    publishedDateTime: 2021-07-08T08:20:00Z
+    webUrl: "https://www.openpr.com/news/2323847/artificial-intelligence-ai-in-fintech-market-ready-to-fly"
+    ampWebUrl: "https://www.openpr.com/amp/2323847/artificial-intelligence-ai-in-fintech-market-ready-to-fly"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2323847/artificial-intelligence-ai-in-fintech-market-ready-to-fly"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 64
+      name: openpr.com
+      domain: openpr.com
+    quality: 68
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://cdn.openpr.com/U/7/U708590558_g.jpg"
+        width: 750
+        height: 500
         isCached: true
   - title: "Artificial Intelligence (AI) in BFSI Market Shaping A New Growth Cycle"
     excerpt: "HTF MI Published Latest Global  Study by in-depth analysis about current scenario, the Market size, demand, growth pattern, trends, and forecast. Revenue for  has grown substantially over the six years to 2020 as a result of strengthening macroeconomic conditions and healthier demand,"
@@ -64,24 +66,47 @@ related:
       name: manometcurrent.com
       domain: manometcurrent.com
     quality: 34
-  - title: "Artificial Intelligence (AI) in Construction Market SWOT Analysis by Size, Status and Forecast to 2021-2027"
-    excerpt: "Latest published market study on Global Artificial Intelligence (AI) in Construction Market provides an overview of the current market dynamics in the Artificial Intelligence (AI) in Construction space,"
-    publishedDateTime: 2021-07-11T01:39:00Z
-    webUrl: "https://manometcurrent.com/artificial-intelligence-ai-in-construction-market-swot-analysis-by-size-status-and-forecast-to-2021-2027/"
+  - title: "If You Only Buy 1 Fintech Stock, Make It One of These 5"
+    excerpt: "Recent innovations by biotech and fintech stocks, for example, show how pandemic-era needs are shaping the market. Source: Shutterstock In 2021, fintech companies are harnessing advanced technologies to provide faster and more reliable financial service solutions for institutions and everyday users."
+    publishedDateTime: 2021-07-09T17:53:00Z
+    webUrl: "https://www.nasdaq.com/articles/if-you-only-buy-1-fintech-stock-make-it-one-of-these-5-2021-07-09"
     type: article
     provider:
-      name: manometcurrent.com
-      domain: manometcurrent.com
-    quality: 14
-  - title: "Global Artificial intelligence (AI) in Supply Chain and Logistics Market Size, Status and Forecast 2021-2027"
-    excerpt: "Pages Report] Check for Discount on Global Artificial intelligence (AI) in Supply Chain and Logistics Market Size, Status and Forecast 2021-2027 report by QYResearch Group. Market Analysis and Insights: Global Artificial intelligence (AI) in"
-    publishedDateTime: 2021-07-09T08:01:00Z
-    webUrl: "https://www.reportsnreports.com/reports/4656198-global-artificial-intelligence-ai-in-supply-chain-and-logistics-market-size-status-and-forecast-2021-2027.html"
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 34
+  - title: "The Future of Fintech 2021 on demand"
+    excerpt: "On the 17th of June, FStech's virtual conference returned for 2021, covering the biggest trends in financial services technology. Across a variety of keynote speeches, in-depth presentations and lively panel discussions this online event tackled how firms can deal with the challenges of the Coronavirus crisis one year on, as well as looking forward to what the 'new normal' will look like for an industry already in the grips of digital disruption. Among the topics on the agenda were: cyber security in the time of COVID-19, the RegTech solutions automating compliance, improving data literacy and governance, protecting customers from fraud, AI and machine learning, the rise of digital assets, upgrading legacy systems and ensuring data is safe and optimised in the cloud. For those of you who missed the event, or would like to watch specific sessions again, we have collected the day's content and put it all in one place for easy viewing:"
+    publishedDateTime: 2021-07-10T09:48:00Z
+    webUrl: "https://www.fstech.co.uk/future-fintech-digital-conference/ondemand.php"
     type: article
     provider:
-      name: ReportsnReports
-      domain: reportsnreports.com
-    quality: 13
+      name: fstech.co.uk
+      domain: fstech.co.uk
+    quality: 24
+    images:
+      - url: "https://perspectivepublishing.co.uk/dev/cms/uploads/FStech%20Couchbase%208th%20December%202020/final_cb.jpg"
+        width: 314
+        height: 314
+        isCached: true
+  - title: "At 17.1% CAGR, AI in Fintech Market Size will reach 8984.9 million USD by 2025"
+    excerpt: "The global AI in Fintech market size is expected to gain market growth in the forecast period of 2020 to 2025, with a CAGR of 17.1% in the forecast period of 2020 to 2025 and will expected to reach USD 8984."
+    publishedDateTime: 2021-07-09T15:21:00Z
+    webUrl: "https://www.arnnet.com.au/mediareleases/144117/at-171-cagr-ai-in-fintech-market-size-will-reach/"
+    type: article
+    provider:
+      name: ARN
+      domain: arnnet.com.au
+    quality: 15
+  - title: "Top 10 Fintech Trends to Watchout For"
+    excerpt: "To make you aware of the revolutions FinTech has unleashed in the financial arena, we are outlining the following ten technology trends that are the forces behind the Fintech revolution: Welcome to Finextra."
+    publishedDateTime: 2021-07-09T15:21:00Z
+    webUrl: "https://www.finextra.com/blogposting/20576/top-10-fintech-trends-to-watchout-for"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 4
 
 secured: "VJ8yw85EE2TLomEu65WhWY4dCLxoCWDTbDyynA685bxSbrGE0CR76z35kECib0mrgyYJa+FMsM5Sb0ESgGxRzEjdM9wqMeGD/TKqv/+WitS/q6a3IHBllQBNFRx8Ir4lxh/MdTO5gX6QiZ3jxdJy59XAVT1rNyhdilDtY5x9HSgOtAXd9okun3kQSuJ8zd0CaWS7kNBPnuzQhdH7u7j6st9srexSY2md6e41IIUoUdL7vxia5hLbNgAFteJ/MqDwzXOAxDdfgNd2HfVR7nXET4eGo8SFz6Fxb22BMiMM2rsrGimGWd/IdJ5PpVv7yGZTuo9n/3nV2xuIaxpJRPikRHUoiAkBojNiUR0nWrbqd6a2zzkqZoFdJ8aSXdRw4eW3XI97YuRjCVhtD3o4PbM4ZLaFVvWC/lYQf//Exf34KSvY9gD6/Va09FPtvx6msHZaWCEGQ3kfYTCBBGR1ga7enF+cw16fvvaFcSMSMjPUYYw7Dit6zGm1pBnMaIOdNrJeR1kK9K8Ec4i4CbdgRusHeg==;IMWrozoLfmvQA10E07oXmg=="
 ---

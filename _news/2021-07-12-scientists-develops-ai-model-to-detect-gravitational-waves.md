@@ -1,22 +1,28 @@
 ---
 category: news
 title: "Scientists develops AI model to detect gravitational waves"
-excerpt: "A team of computational scientists and researchers has developed a new artificial intelligence (AI) framework that allows for accelerated, scalable and reproducible detection of gravitational waves."
-publishedDateTime: 2021-07-12T05:10:00Z
-originalUrl: "https://www.sify.com/finance/scientists-develops-ai-model-to-detect-gravitational-waves-news-topnews-vhmfk8agggbcj.html"
-webUrl: "https://www.sify.com/finance/scientists-develops-ai-model-to-detect-gravitational-waves-news-topnews-vhmfk8agggbcj.html"
+excerpt: "A team of computational scientists and researchers has developed a new artificial intelligence (AI) framework that allows for"
+publishedDateTime: 2021-07-12T07:26:00Z
+originalUrl: "https://menafn.com/1102431633/Scientists-develops-AI-model-to-detect-gravitational-waves"
+webUrl: "https://menafn.com/1102431633/Scientists-develops-AI-model-to-detect-gravitational-waves"
 type: article
-quality: 19
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: Sify.com
-  domain: sify.com
+  name: Middle East North Africa Financial Network
+  domain: menafn.com
 
 topics:
   - AI Hardware
   - AI
+
+images:
+  - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?891187"
+    width: 375
+    height: 250
+    isCached: true
 
 related:
   - title: "Scientists use artificial intelligence to detect gravitational waves"
@@ -100,6 +106,6 @@ related:
       domain: controldesign.com
     quality: 17
 
-secured: "TFs8qpISr9Y6wWzqEhgURhD4IaQJynKhPwMN6PaECevxvQn2AY3YeShkvS9dnr9l1gbSl6MZji7kXBwyGvbqavMPHV3TU3D4M8plNamJ7mO2JnThpqPrClIw67RzOo0jEHUU28oANwn0TNCRT2p2clvzMeX7osgXlpehgac+PdqbrY07qhGT8bVtQaZ3wCReR+7wX4PZJGWpl31EYbmhRwp0q+h3r0l6rzBTpkyx8T7hXbzbFcSTABMOlasaxTbl4wyJFcj67bdZQMov8/JFtcN79Mp0wO4VV808x7jBGIW+Xg3A0ASJfR9BkleDwTT1IlJlHZ2TOhSelgUOeMXBWbHG4k0JCdoxmdZI8hwX1Fg=;OFS4W16UOtZzuuLZ2cPWHg=="
+secured: "MiFTC2cP2gTo1NviVP5xLUciYcCzn6b8CLP9yyXA34Hb2CzaZCJBF4i3DqL1LPoYFQLENU7iS3OISy5fzLFtB9o6jOBuE6zjdXB1aCZQTkYGt5hIHInO5BRaXRpcXmZ3Z/fU7Q3epPXt7tYjB/ZapAFu4h31VJL4GHD25irzo/2Yu3n+o6Ju0r5aPQosRkLyo9RtT7BGgdOKcWcQd4EVRnVdJfHwvNysCNsloKYdaz9ZExGwlmgwKfRa1aSoxiO/HX5D5U8LwytKEMAxmlvuD958XH0AFO3HG8+ePXyCj5wqm6GGdraWs+gd2yvvcyaoMLPEPpTClEcrncTMlsc/woWo23AYvEdbQIWxIIfIDco=;zkhmHH8sJIzt+PcP/EH6/w=="
 ---
 

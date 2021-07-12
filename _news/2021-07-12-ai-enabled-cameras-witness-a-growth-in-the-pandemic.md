@@ -9,7 +9,7 @@ ampWebUrl: "https://www.dqindia.com/ai-enabled-cameras-witness-growth-pandemic/a
 cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/ai-enabled-cameras-witness-growth-pandemic/amp/"
 type: article
 quality: 59
-heat: 69
+heat: 59
 published: false
 
 provider:
@@ -26,24 +26,6 @@ images:
     height: 381
     isCached: true
 
-related:
-  - title: "COVID-19: Artificial intelligence in the pandemic"
-    excerpt: "Artificial intelligence is happening now, all around us — as the COVID-19 pandemic revealed. We tend to talk about artificial intelligence as if it were a thing of the future, but AI is already all around us — as the COVID-19 pandemic has demonstrated."
-    publishedDateTime: 2021-07-07T13:32:00Z
-    webUrl: "https://frontline.thehindu.com/science-and-technology/covid-19-artificial-intelligence-in-the-pandemic/article35194206.ece"
-    ampWebUrl: "https://frontline.thehindu.com/science-and-technology/covid-19-artificial-intelligence-in-the-pandemic/article35194206.ece/amp/"
-    cdnAmpWebUrl: "https://frontline-thehindu-com.cdn.ampproject.org/c/s/frontline.thehindu.com/science-and-technology/covid-19-artificial-intelligence-in-the-pandemic/article35194206.ece/amp/"
-    type: article
-    provider:
-      name: The Hindu
-      domain: thehindu.com
-    quality: 57
-    images:
-      - url: "https://frontline.thehindu.com/incoming/pmq7nt/article35194554.ece/ALTERNATES/LANDSCAPE_615/57987220403jpg"
-        width: 615
-        height: 384
-        isCached: true
-
-secured: "ylwtJLk0dXNDNyAe1dwIs4LopcWOscNA80715f2EHFHCA29A8JENBQR0shtB4tA2F3y3xmIZSrNig/Gq2MvokTuNBFz05KN/bxzxLDgr6MBlB1M0HkaxjE687GmLqdSknDo5PZ3t7D2KSxt9KjeWQnN72iFgl/mTw8wwEwWKj8I987EQm0zzLG5Pj85QbPv/gp0sUW1qcIUPFnCsWPXphzNRKdYGLPkAs/JL+qJzMLAybGryW0LE72auyB+drEWeiWjRSUJI2g+8WTIt+IdNiNHv2bpxytD7fc0DUOAEr4dRniAhs/WpiSEbX4xz9iVQwepulFqYVDq8kN3H1Dfs7WPG0FpDMd23uoNGp7RtjzU=;bhwr8EFqJ0NM2RqhDpZKlA=="
+secured: "BmpTDumxqLwIH/IS0CWm0w8XoBv7NPlTKm8kkB+7fFZTQ+AlNx0tWAAJu1M42CzEKzj6dzlA950tVoXtlE+cmkR8+I3c6JA4rUK7M/Z5Y1B39M78UXCbJ0K4N7JHAzUDnj+4dimbUAMS7JoLIiJ/n5g/e4KJoAVVZmrx2bekJPT5WY4Z41LHhp+1XyO86BESyausujLmapweO9A78I0wJ8jpiCf/T3TdcebROyBK8D5U8UoxJvLzfSJMKohVPvnGS1h+LZJHYVmS//zFwpgYvmNOEmhX/27SW4zc6o6SCMEEOqnDIGZqFZanIJGAWndx9nUpzGc9ZMP3PlKSDjwZzf89C36MNhwjRBhcbjGpvf7L0bH4Dn7V/dzkwbz6cyqS6Q31umfziFCqznvwrcJ5btl8RMUfeESapnV+xsSo1cM9OiZNPQoFGWJ9bu68tKnJPDBMdtzZw28naNwkddcaqkUvBoO+iis1IW38hL6zy6CC0SelY4SqsS1YhJNA4PcFzaaAmWgTgUB7ckMOwZfP0g==;wQCM4OuPlZTgv3dYt5/Giw=="
 ---
 

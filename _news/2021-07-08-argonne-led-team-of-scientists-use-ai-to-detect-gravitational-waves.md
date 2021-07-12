@@ -66,6 +66,20 @@ related:
         width: 777
         height: 545
         isCached: true
+  - title: "Scientists develops AI model to detect gravitational waves"
+    excerpt: "A team of computational scientists and researchers has developed a new artificial intelligence (AI) framework that allows for"
+    publishedDateTime: 2021-07-12T07:26:00Z
+    webUrl: "https://menafn.com/1102431633/Scientists-develops-AI-model-to-detect-gravitational-waves"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 39
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?891187"
+        width: 375
+        height: 250
+        isCached: true
   - title: "Scientists use artificial intelligence to detect gravitational waves"
     excerpt: "When gravitational waves were first detected in 2015 by the advanced Laser Interferometer Gravitational-Wave Observatory (LIGO), they sent a ripple through the scientific community, as they confirmed another of Einstein’s theories and marked the birth of gravitational wave astronomy."
     publishedDateTime: 2021-07-08T21:27:00Z
@@ -80,15 +94,6 @@ related:
         width: 1380
         height: 776
         isCached: true
-  - title: "Scientists develops AI model to detect gravitational waves"
-    excerpt: "A team of computational scientists and researchers has developed a new artificial intelligence (AI) framework that allows for accelerated, scalable and reproducible detection of gravitational waves."
-    publishedDateTime: 2021-07-12T05:10:00Z
-    webUrl: "https://www.sify.com/finance/scientists-develops-ai-model-to-detect-gravitational-waves-news-topnews-vhmfk8agggbcj.html"
-    type: article
-    provider:
-      name: Sify.com
-      domain: sify.com
-    quality: 19
   - title: "AI allows scientists to detect gravitational waves"
     excerpt: "Researchers at Department of Energy’s Argonne National Laboratory report that they have used artificial intelligence (AI) to dramatically reduce the time it takes to process data coming from the Laser Interferometer Gravitational-Wave Observatory (LIGO)."
     publishedDateTime: 2021-07-09T11:56:00Z

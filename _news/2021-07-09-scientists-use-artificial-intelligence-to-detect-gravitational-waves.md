@@ -73,14 +73,19 @@ related:
         height: 545
         isCached: true
   - title: "Scientists develops AI model to detect gravitational waves"
-    excerpt: "A team of computational scientists and researchers has developed a new artificial intelligence (AI) framework that allows for accelerated, scalable and reproducible detection of gravitational waves."
-    publishedDateTime: 2021-07-12T05:10:00Z
-    webUrl: "https://www.sify.com/finance/scientists-develops-ai-model-to-detect-gravitational-waves-news-topnews-vhmfk8agggbcj.html"
+    excerpt: "A team of computational scientists and researchers has developed a new artificial intelligence (AI) framework that allows for"
+    publishedDateTime: 2021-07-12T07:26:00Z
+    webUrl: "https://menafn.com/1102431633/Scientists-develops-AI-model-to-detect-gravitational-waves"
     type: article
     provider:
-      name: Sify.com
-      domain: sify.com
-    quality: 19
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 39
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?891187"
+        width: 375
+        height: 250
+        isCached: true
   - title: "Argonne-led Team of Scientists Use AI to Detect Gravitational Waves"
     excerpt: "AI-driven gravitational wave detection. Building upon the interdisciplinary nature of this project, the team looks forward to new applications of this data-driven framework beyond big-data challenges in physics."
     publishedDateTime: 2021-07-07T17:46:00Z

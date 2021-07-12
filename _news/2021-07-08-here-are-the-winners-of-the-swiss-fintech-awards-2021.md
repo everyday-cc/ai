@@ -39,28 +39,19 @@ related:
         width: 3200
         height: 1800
         isCached: true
-  - title: "If You Only Buy 1 Fintech Stock, Make It One of These 5"
-    excerpt: "Recent innovations by biotech and fintech stocks, for example, show how pandemic-era needs are shaping the market. Source: Shutterstock In 2021, fintech companies are harnessing advanced technologies to provide faster and more reliable financial service solutions for institutions and everyday users."
-    publishedDateTime: 2021-07-09T17:53:00Z
-    webUrl: "https://www.nasdaq.com/articles/if-you-only-buy-1-fintech-stock-make-it-one-of-these-5-2021-07-09"
+  - title: "Demystifying the role of the fintech CFO"
+    excerpt: "This series of articles looks to demystify the various C-level roles within fintech companies today – exploring the career paths taken by top managers, their critical skills, daily responsibilities and challenges,"
+    publishedDateTime: 2021-07-09T11:48:00Z
+    webUrl: "https://www.finextra.com/the-long-read/228/demystifying-the-role-of-the-fintech-cfo"
     type: article
     provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 34
-  - title: "Meet Hydrogen, the latest sibling-led API fintech"
-    excerpt: "Hydrogen is the brainchild of twin brothers Matt and Mike Kane. The New York natives' API-driven solution is one of the latest sibling-founded fintechs"
-    publishedDateTime: 2021-07-07T13:23:00Z
-    webUrl: "https://fintechmagazine.com/technology-and-ai/meet-hydrogen-latest-sibling-led-api-fintech"
-    type: article
-    provider:
-      name: fintechmagazine
-      domain: fintechmagazine.com
+      name: Finextra
+      domain: finextra.com
     quality: 24
     images:
-      - url: "https://fintechmagazine.com/sites/default/files/styles/ma/public/image/Matt_Mike_ftn_0.jpg?itok=NIb3KVB5"
-        width: 3024
-        height: 4032
+      - url: "https://www.finextra.com/finextra-images/oped/228.jpg"
+        width: 800
+        height: 450
         isCached: true
   - title: "Fintech firm, Tangerine, launches pension, insurance products"
     excerpt: "A leading financial services and technology platform, Tangerine, officially launched its financial service product offerings at a press conference held on Wednesday July 7. Speaking at the press conference was Livingstone Magorimbo,"
@@ -75,20 +66,6 @@ related:
       - url: "https://media.premiumtimesng.com/wp-content/files/2021/07/Lead-Image.jpg"
         width: 1620
         height: 1080
-        isCached: true
-  - title: "The Future of Fintech 2021 on demand"
-    excerpt: "On the 17th of June, FStech's virtual conference returned for 2021, covering the biggest trends in financial services technology. Across a variety of keynote speeches, in-depth presentations and lively panel discussions this online event tackled how firms can deal with the challenges of the Coronavirus crisis one year on, as well as looking forward to what the 'new normal' will look like for an industry already in the grips of digital disruption. Among the topics on the agenda were: cyber security in the time of COVID-19, the RegTech solutions automating compliance, improving data literacy and governance, protecting customers from fraud, AI and machine learning, the rise of digital assets, upgrading legacy systems and ensuring data is safe and optimised in the cloud. For those of you who missed the event, or would like to watch specific sessions again, we have collected the day's content and put it all in one place for easy viewing:"
-    publishedDateTime: 2021-07-10T09:48:00Z
-    webUrl: "https://www.fstech.co.uk/future-fintech-digital-conference/ondemand.php"
-    type: article
-    provider:
-      name: fstech.co.uk
-      domain: fstech.co.uk
-    quality: 24
-    images:
-      - url: "https://perspectivepublishing.co.uk/dev/cms/uploads/FStech%20Couchbase%208th%20December%202020/final_cb.jpg"
-        width: 314
-        height: 314
         isCached: true
   - title: "How to find funding in the fintech space and what the Government can do to support the UK’s position"
     excerpt: "Over the last decade, the UK has been undergoing a fintech revolution seeing increased opportunities in global trade, jobs, and innovation to become the global hub that it is today. Yet for many, the image of fintech is stuck in Shoreditch,"

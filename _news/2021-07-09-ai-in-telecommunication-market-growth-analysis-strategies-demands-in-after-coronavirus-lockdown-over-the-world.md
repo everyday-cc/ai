@@ -38,6 +38,15 @@ related:
         width: 300
         height: 259
         isCached: true
+  - title: "Artificial Intelligence in Aviation Market Size, Share 2021-2028 | Top Key Vendors – Micron, Intel, Boeing, Lockheed Martin, Xilinx, IBM"
+    excerpt: "The Artificial Intelligence in Aviation Market study provides details of market dynamics affecting the market, market size, and segmentation, and casts a shadow over the major market players by highlighting the favorable competitive landscape and successful trends over the years."
+    publishedDateTime: 2021-07-11T15:55:00Z
+    webUrl: "https://manometcurrent.com/artificial-intelligence-in-aviation-market-size-share-2021-2028-top-key-vendors-micron-intel-boeing-lockheed-martin-xilinx-ibm/"
+    type: article
+    provider:
+      name: manometcurrent.com
+      domain: manometcurrent.com
+    quality: 0
 
 secured: "KDHCZLM0nCZaa3KuGORo5w1+kg4ArEMZEgf4oc/WBw/SSVr9gJKIHzH0IJzS/gRppjgZGEmRDm6nnfv8hF7cyx7nMxe5qQQULZSB7Bq6q2hwGLtbIObWcTSAxMZ0sV9qLFujrvAR920R+ECWpCFwka+Byob8NzPz1oFtQRZpdZtH/FdLXi9GLlre6QUfTFVIN+zVJe9tEWwkPRNwP6E4AxMzSg41gHuYqp6OrZbVK9Miy4YU0hLQKMSwU1dLqAYquTQyQshKUragVid0As79D7iaVEzSDP2D9z4BmF3k1DzCJqtlyt3WMAfc+p8tgmIIqzMZsaNZb9EoEypC4tPHGd8gvwoP8RaPM0pL5H6qBMz14M4P0xj/hD54p/bknsm1CozIsjUovEugVqJ5rRpaMobQ5ZrinPbWoZouqNcgM2gBFpi6iFacSrlA8nHzqe9z2/9Xro9sh2HxIR2lYVxFqHQyLG/csW5g/U47Iwh/IBA93sXbwVwjOe0Zj6MFsZz8N7gWrFbKuPjEmCI2oNQaEw==;JMmaCNhvVAIzHXtMsjlOdA=="
 ---

@@ -71,16 +71,19 @@ related:
         height: 420
         isCached: true
   - title: "Moviebook Showcases Latest Intelligent Digital Products at World Artificial Intelligence Conference 2021 in Shanghai"
-    excerpt: "and simulation at the World Artificial Intelligence Conference 2021 (WAIC 2021) in the Shanghai World Expo Center from July 7 to 10, 2021. During the conference, Moviebook showcased its newly-devised system for the holographic simulation of the production ..."
-    publishedDateTime: 2021-07-12T04:39:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/21/07/n21929837/moviebook-showcases-latest-intelligent-digital-products-at-world-artificial-intelligence-conferenc"
-    ampWebUrl: "https://www.benzinga.com/amp/content/21929837"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/21929837"
+    excerpt: "During the conference, Moviebook showcased its newly-devised system for the holographic simulation of the production process of digitized products. The system features intelligent video production technologies such as simulation,"
+    publishedDateTime: 2021-07-12T04:05:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/technology-shanghai-artificial-intelligence-430c5a24eda0218b326b98f7ac4a646f"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
+      name: Associated Press
+      domain: apnews.com
     quality: 29
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
 secured: "O5yF7J3zTKiZQiN/TzQOyz1KTCMX9uHtAyMeP5TpljHWCRMSitXJNbGvGMdT/6QEkvNzUq4vBzbXnYEFCHqtgrKL4Csnyh1kYPOw47zKNvSyYJVtWv+Lv/dt7DTgS6mvfIsbAjcTJXusqQunL/IMNmxeLFM7kyeWr0dbIRi59NTZm6oiVlu2gulTNwazUubQIzuQiaqxr0/msJqvQRqXiXYy6qouZL3WTxCbmNCCpheR0w1F+T3XB0tt+n+YZxe00+9Rx8k5M/haLIBSnA83xLFSCX7BluUS43OsEHFvgLPmqE9anzFdZaoyD+BouGQ82Dnohd1DElgvFpS+WoG5PNjFczIh8BNWl5xXRU4c3xGsOUrfgk+D4KaWvmJixAZhgqdtuJ+nnJakhhbYrBzvQTv0eMF5VAFWMIVbW7kaJBogx0FZI2X4qoToIZfxNhysjYTpMUUgczozAKmyUs3wUZgzhC6iG0kz0L6vPh+K3kmGgFqPsh19R10BVgkwz/07BVN7zAbZX8kJ4uDZggdEsA==;w0HUHjla16TeijKgw8YSng=="
 ---

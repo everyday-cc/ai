@@ -35,24 +35,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Data Analytics Platform, Opaque, Raises $9.5 Million Seed from Intel Capital and Race Capital to Unlock Encrypted Data with Machine Learning"
-    excerpt: "Opaque, the secure data analytics platform company, today announced $9.5M in seed funding, led by Intel (News - Alert) Capital with participation by Race Capital, The House Fund, and FactoryHQ. Opaque helps organizations to analyze encrypted data in the cloud using popular tools like Apache Spark,"
-    publishedDateTime: 2021-07-07T13:05:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2021/07/07/9404364.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
-  - title: "Global Artificial Intelligence Platform Market Size, Share and Analysis To Grow At An Annual Rate Of 56.6% Through 2024"
-    excerpt: "The report Artificial Intelligence Platform Market Size and Analysis maintains enhanced dynamics and is overshadowed by a top player across the globe. The research report provides Artificial Intelligence Platform Market Growth and information corresponding to market segments such as geographies,"
-    publishedDateTime: 2021-07-09T10:33:00Z
-    webUrl: "https://www.arnnet.com.au/mediareleases/144023/global-artificial-intelligence-platform-market/"
-    type: article
-    provider:
-      name: ARN
-      domain: arnnet.com.au
-    quality: 0
 
 secured: "sTcQJw1APM0GjCgwukCx9Yb8AVUm1C9Itvkf5km0zo1ZK3S2dmEH+5Ku3nQr+wDTmfXzMxylKW1LQch2zJXjnd6LPVPNA9xdOkOccryskSVOI2V2FS6jsgcqFXr6+eH/9YTVTrCXogkDK9A36uOV9oJQoFT4RmUPPHtcwdnHwC2Am8Hhd9FnbkHR8/wSSrO4s2e+nMrljp2LeXpmf1Cn0z0QuOJZmFDESenhpaSMYRr4JEfa+8Q3jwXhAM883/2WpcVlOV/b+e5O49X6pSjgIlRJegFFg2nQwaj6aENXb3W6AYorplObZb88BG0qoOcwD746OcfIPiDrPvO4+NZo6Ds6nKKfAFoSOi4WG+8TWXg=;Jgq50jwATsdsFg9YKqBPaA=="
 ---

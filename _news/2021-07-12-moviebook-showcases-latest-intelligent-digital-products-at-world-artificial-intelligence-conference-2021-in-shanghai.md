@@ -1,23 +1,27 @@
 ---
 category: news
 title: "Moviebook Showcases Latest Intelligent Digital Products at World Artificial Intelligence Conference 2021 in Shanghai"
-excerpt: "and simulation at the World Artificial Intelligence Conference 2021 (WAIC 2021) in the Shanghai World Expo Center from July 7 to 10, 2021. During the conference, Moviebook showcased its newly-devised system for the holographic simulation of the production ..."
-publishedDateTime: 2021-07-12T04:39:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/21/07/n21929837/moviebook-showcases-latest-intelligent-digital-products-at-world-artificial-intelligence-conferenc"
-webUrl: "https://www.benzinga.com/pressreleases/21/07/n21929837/moviebook-showcases-latest-intelligent-digital-products-at-world-artificial-intelligence-conferenc"
-ampWebUrl: "https://www.benzinga.com/amp/content/21929837"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/21929837"
+excerpt: "During the conference, Moviebook showcased its newly-devised system for the holographic simulation of the production process of digitized products. The system features intelligent video production technologies such as simulation,"
+publishedDateTime: 2021-07-12T04:05:00Z
+originalUrl: "https://apnews.com/press-release/pr-newswire/technology-shanghai-artificial-intelligence-430c5a24eda0218b326b98f7ac4a646f"
+webUrl: "https://apnews.com/press-release/pr-newswire/technology-shanghai-artificial-intelligence-430c5a24eda0218b326b98f7ac4a646f"
 type: article
 quality: 29
 heat: -1
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI
+
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
 
 related:
   - title: "OneConnect Impresses at World Artificial Intelligence Conference 2021 in Shanghai"
@@ -77,6 +81,6 @@ related:
         height: 420
         isCached: true
 
-secured: "SUc3R0sxR+5jVuxCVWUocxsyzjMpkwDv72ICTIJR7Q/w3pjq6AHFQaaAFQFv2dboJ2y68nlzvU+gXiyvm5jpo72xexVQ04ExZnb6uOI5gV0it+vl7MaGT+KeQEhUAfwUoL0gSMyo3w30LN/PMzsZ7FBUa7Dz1bd5vRCvXXLHAJ1xNGcLoFAjJXZxUTYyxyWSTpjWTsGnmvl0u0ivnRQP6baT81HVOjaT7w+pMoY+7udX2+XRLa2JtuSZ/4frVlINdEDOT6DlzRyxjjIPw1iJT7kzq1vS+QTi0hYMoveKKGQVvY5cQUqlclkeGM8//SKLxK8vD7fiEZ7LpJq+CwxWUE7/LpahPHCEsvr9atYKRAg=;2sC0a5Sc5uGB0VgNvl/eMA=="
+secured: "+DwhxPqtG7Bll4Wwo1R7HzQ0M+4F1EHZgnyYHkExQfkHbv0isFP5vKjxZP34eF+oJqWKqQLrD/OAOuHhpSHTTMsYSdb26YdPzbA40s49zdNvYhqccis7Pqdh2ufYBH8YyWc3KouDMA38dVPp2kGYhNqDA5yDzhjtGjsEgd9UNeE5WbbHY0t5v7cQ3whHcYclFNKbORY6GVODJiXCxEMgG/H6pQHl7tQmjYzT+vZXEy1PViOms1LqT64fv1bBFSG+ZfBRMd8ucXz7e/HT/SgZ3xpWQILoePJn6WFLGQlnVDLA+Bt8MnPSE7Pu4AaQkZLrbxIKaf/32JTLW0Dp8cXMMw98Mg+KenPqRNrxJn8Rz98=;+j8PDuX6IXqxm1COgXr58Q=="
 ---
 
