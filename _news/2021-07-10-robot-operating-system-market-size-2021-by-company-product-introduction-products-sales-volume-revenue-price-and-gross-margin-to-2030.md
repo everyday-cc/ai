@@ -72,6 +72,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence as a Service Market 2021 Segmentation and Analysis by Recent Trends, Development and Growth by Trending Regions by 2030"
+    excerpt: "Jul 09, 2021 (AmericaNewsHour) -- In a recent published report, Kenneth Research has updated the market report for Artificial Intelligence as a Service Market for 2021 till 2030. Report further now discusses; the various strategies to be adopted or being ..."
+    publishedDateTime: 2021-07-09T11:34:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-as-a-service-market-2021-segmentation-and-analysis-by-recent-trends-development-and-growth-by-trending-regions-by-2030-2021-07-09"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 31
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Global AI Translation Market Size, Status and Forecast 2021-2027"
     excerpt: "Pages Report] Check for Discount on Global AI Translation Market Size, Status and Forecast 2021-2027 report by QYResearch Group. Market Analysis and Insights: Global AI Translation Market The"
     publishedDateTime: 2021-07-10T07:26:00Z

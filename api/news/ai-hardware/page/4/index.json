@@ -2,6 +2,58 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-06-07-amd-vs-nvidia-whats-the-best-add-in-gpu-for-you.md",
+      "title": "AMD vs Nvidia - what's the best add-in GPU for you?",
+      "excerpt": "There is also the Nvidia Titan RTX, which is the most powerful GPU in this series. However, this is better suited for deep learning and AI applications for researchers, developers, and creators rather than your average consumer. See also: Snapdragon SoC ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.androidauthority.com/amd-vs-nvidia-gpu-guide-963426/",
+      "originalUrl": "https://www.androidauthority.com/amd-vs-nvidia-gpu-guide-963426/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn57.androidauthority.net/wp-content/uploads/2019/03/Ray-tracing-eyeball.jpg",
+          "width": 1000,
+          "height": 562,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.androidauthority.com/amd-vs-nvidia-gpu-guide-963426/",
+      "cdnAmpWebUrl": "https://www-androidauthority-com.cdn.ampproject.org/c/s/www.androidauthority.com/amd-vs-nvidia-gpu-guide-963426/",
+      "publishedDateTime": "2021-06-07T08:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Android Authority",
+        "domain": "androidauthority.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/androidauthority.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-07-mythic-launches-industry-first-analog-ai-chip.md",
       "title": "Mythic Launches Industry First Analog AI Chip",
       "excerpt": "Some cutting-edge AI chip developers including Intel and IBM are researching an entirely new approach: in-memory analog computation. Mythic is ready to ship it.",
@@ -1335,58 +1387,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/androidauthority.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-24-qualcomms-snapdragon-7c-gen-2-gives-entry-laptop-chip-a-speed-boost.md",
-      "title": "Qualcomm’s Snapdragon 7c Gen 2 gives entry laptop chip a speed boost",
-      "excerpt": "Qualcomm is launching a new version of its chipset for laptops, with the Snapdragon 7c Gen 2 promising more performance for affordable Windows notebooks and Chromebooks. The successor, as you",
-      "sourceUrl": null,
-      "webUrl": "https://www.slashgear.com/qualcomms-snapdragon-7c-gen-2-gives-entry-laptop-chip-a-speed-boost-24674220/",
-      "originalUrl": "https://www.slashgear.com/qualcomms-snapdragon-7c-gen-2-gives-entry-laptop-chip-a-speed-boost-24674220/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.slashgear.com/wp-content/uploads/2021/05/Qualcomm-Snapdragon-7c-Gen-2-compute-platform-Still-Animation-Chip-on-board.jpg",
-          "width": 1500,
-          "height": 938,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.slashgear.com/qualcomms-snapdragon-7c-gen-2-gives-entry-laptop-chip-a-speed-boost-24674220/amp/",
-      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/qualcomms-snapdragon-7c-gen-2-gives-entry-laptop-chip-a-speed-boost-24674220/amp/",
-      "publishedDateTime": "2021-05-24T08:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SlashGear",
-        "domain": "slashgear.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/slashgear.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

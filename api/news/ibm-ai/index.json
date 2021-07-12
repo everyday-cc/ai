@@ -210,6 +210,49 @@
       ]
     },
     {
+      "path": "_news/2021-06-28-ibm-lands-verizon-telefonica-pacts-as-hybrid-cloud-edge-computing-5g-meld.md",
+      "title": "IBM lands Verizon, Telefonica pacts as hybrid cloud, edge computing, 5G meld",
+      "excerpt": "IBM launches AutoSQL, Watson Orchestrate, CodeNet enterprise AI tools at Think IBM buys Turbonomic to build out AIOps tools IBM and Verizon already collaborating on 5G enterprise use cases.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/ibm-lands-verizon-telefonica-pacts-as-hybrid-cloud-edge-computing-5g-meld/",
+      "originalUrl": "https://www.zdnet.com/article/ibm-lands-verizon-telefonica-pacts-as-hybrid-cloud-edge-computing-5g-meld/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ibm-lands-verizon-telefonica-pacts-as-hybrid-cloud-edge-computing-5g-meld/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ibm-lands-verizon-telefonica-pacts-as-hybrid-cloud-edge-computing-5g-meld/",
+      "publishedDateTime": "2021-06-28T09:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-28-meet-the-new-standard-in-risk-management.md",
       "title": "Meet the new standard in risk management",
       "excerpt": "Legacy assessment based third-party risk management (TPRM) practices have struggled for years to keep pace with business needs. During the COVID-19 crisis, these shortcomings became even more acute. Companies faced additional unanticipated challenges involving the rapid onboarding of new service providers,",
@@ -306,10 +349,10 @@
     {
       "path": "_news/2021-06-28-ibm-brings-ai-powered-automation-software-to-networking-to-help-simplify-broad-adoption-of-5g.md",
       "title": "IBM Brings AI-Powered Automation Software to Networking to Help Simplify Broad Adoption of 5G",
-      "excerpt": "At Mobile World Congress 2021, IBM (NYSE: IBM) announced new hybrid cloud AI-powered automation software for communications service providers (CSPs) to help deliver on the promise of 5G, including zero-touch operations,",
+      "excerpt": "\"To help address these growing demands, IBM's new Cloud Pak for Network Automation software uses AI-powered automation ... integration of IBM Cloud Pak for Watson AIOps and edge solutions ...",
       "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/ibm-brings-ai-powered-automation-software-to-networking-to-help-simplify-broad-adoption-of-5g-1030557176",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/ibm-brings-ai-powered-automation-software-to-networking-to-help-simplify-broad-adoption-of-5g-1030557176",
+      "webUrl": "https://www.benzinga.com/pressreleases/21/06/n21737784/ibm-brings-ai-powered-automation-software-to-networking-to-help-simplify-broad-adoption-of-5g",
+      "originalUrl": "https://www.benzinga.com/pressreleases/21/06/n21737784/ibm-brings-ai-powered-automation-software-to-networking-to-help-simplify-broad-adoption-of-5g",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -326,23 +369,14 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-27T23:01:00-07:00",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/21737784",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/21737784",
+      "publishedDateTime": "2021-06-27T21:46:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1334,49 +1368,6 @@
         "IBM AI",
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-04-20-times-that-ai-has-tried-to-make-it-in-the-music-business.md",
-      "title": "20 times that AI has tried to make it in the music business",
-      "excerpt": "Artificial intelligence (AI) has been trying to carve a name for itself in the music business as a collaborator, composer, artist and lyricist since 1951.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cityam.com/20-times-that-ai-has-tried-to-make-it-in-the-music-business/",
-      "originalUrl": "https://www.cityam.com/20-times-that-ai-has-tried-to-make-it-in-the-music-business/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cityam.com/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png",
-          "width": 735,
-          "height": 552,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cityam.com/20-times-that-ai-has-tried-to-make-it-in-the-music-business/amp/",
-      "cdnAmpWebUrl": "https://www-cityam-com.cdn.ampproject.org/c/s/www.cityam.com/20-times-that-ai-has-tried-to-make-it-in-the-music-business/amp/",
-      "publishedDateTime": "2021-06-04T05:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "City A.M.",
-        "domain": "cityam.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
       ]
     }
   ],

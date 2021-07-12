@@ -2,6 +2,59 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-05-12-ibm-project-codenet-to-teach-ai-how-to-code.md",
+      "title": "IBM Project CodeNet to teach AI how to code",
+      "excerpt": "IBM has unveiled Project CodeNet, an open-source dataset for advancing AI’s understanding and translation of code.",
+      "sourceUrl": null,
+      "webUrl": "https://sdtimes.com/ai/ibm-project-codenet-to-teach-ai-how-to-code/",
+      "originalUrl": "https://sdtimes.com/ai/ibm-project-codenet-to-teach-ai-how-to-code/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://sdtimes.com/wp-content/uploads/2021/05/Screen-Shot-2021-05-11-at-3.22.03-PM.png",
+          "width": 1654,
+          "height": 932,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-11T12:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SD Times",
+        "domain": "sdtimes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sdtimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "IBM AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-11-ibm-simplifies-automation-with-watson-orchestrate.md",
       "title": "IBM simplifies automation with Watson Orchestrate",
       "excerpt": "One of the interesting but also frustrating things about the world of enterprise software is that it either gets talked about in high-level generalities, or excruciating",

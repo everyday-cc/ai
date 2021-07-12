@@ -2,6 +2,112 @@
   "page": 21,
   "value": [
     {
+      "path": "_news/2021-06-23-simplify-machine-learning-with-azure-applied-ai-services.md",
+      "title": "Simplify machine learning with Azure Applied AI Services",
+      "excerpt": "We’ve seen some of this with the evolution from Project Adam to Azure Cognitive Services. Now Microsoft is taking the next step, using that foundation to deliver a set of machine learning models that provide assistance with common tasks: Azure Applied AI Services.",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3622595/simplify-machine-learning-with-azure-applied-ai-services.html",
+      "originalUrl": "https://www.infoworld.com/article/3622595/simplify-machine-learning-with-azure-applied-ai-services.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 121,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2017/05/artificial_intelligence_machine_learning_binary_code_neural_network_thinkstock_636754212-100724428-large.jpg",
+          "width": 700,
+          "height": 377,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3622595/simplify-machine-learning-with-azure-applied-ai-services.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3622595/simplify-machine-learning-with-azure-applied-ai-services.amp.html",
+      "publishedDateTime": "2021-06-23T03:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-06-23-deep-learning-neural-networks-algorithms-boost-facial-recognition-accuracy.md",
+      "title": "Deep learning, neural networks, algorithms boost facial recognition accuracy",
+      "excerpt": "Many common recognition problems like character or object recognition have been successfully solved by neural networks. Despite the variety of facial recognition systems and the technological ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/06/23/how-computer-algorithms-deep-learning-and-neural-netorks-help-boost-the-accuracy-of-facial-recognition/",
+      "originalUrl": "https://venturebeat.com/2021/06/23/how-computer-algorithms-deep-learning-and-neural-netorks-help-boost-the-accuracy-of-facial-recognition/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/04/Facial-recognition.GettyImages-866481488-e1600974823930.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/06/23/how-computer-algorithms-deep-learning-and-neural-netorks-help-boost-the-accuracy-of-facial-recognition/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/23/how-computer-algorithms-deep-learning-and-neural-netorks-help-boost-the-accuracy-of-facial-recognition/amp/",
+      "publishedDateTime": "2021-06-23T02:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-06-23-the-road-to-driverless-cars-is-looking-hopeless.md",
       "title": "The road to driverless cars is looking hopeless",
       "excerpt": "They want to approach the necessary artificial intelligence by building systems that learn the way human babies do. Others want to divide the problem into smaller chunks, developing systems that each handle a piece of the puzzle. Biondi said he thinks ...",
@@ -1088,110 +1194,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-23-neural-network-software-market-size-volume-share-demand-growth-business-opportunity-by-2028.md",
-      "title": "Neural Network Software Market Size Volume, Share, Demand growth, Business Opportunity by 2028",
-      "excerpt": "The report covers detailed competitive outlook including the market share and company profiles of the key participants operating in the global market. Key players profiled in the report include the key innovators concentrating mainly on neural network software include Alyuda Research LLC (California,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/neural-network-software-market-size-volume-share-demand-growth-business-opportunity-by-2028-2021-06-22",
-      "originalUrl": "https://www.marketwatch.com/press-release/neural-network-software-market-size-volume-share-demand-growth-business-opportunity-by-2028-2021-06-22",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-22T10:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-23-scaleai-launches-mapping-project-more-on-ponyai-waymo.md",
-      "title": "Scale.AI launches Mapping Project; More On Pony.AI & Waymo",
-      "excerpt": "Scale has launched a new mapping tool/service offering for not just self-driving cars, but also for delivery companies. Also, Pony AI demonstrates taxi with no human safety driver in China, and Waymo shows Pride.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/bradtempleton/2021/06/22/scaleai-launches-mapping-project-more-on-ponyai--waymo/",
-      "originalUrl": "https://www.forbes.com/sites/bradtempleton/2021/06/22/scaleai-launches-mapping-project-more-on-ponyai--waymo/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60d21d1fcfa1d201e3480176%2F0x0.jpg",
-          "width": 1139,
-          "height": 703,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/bradtempleton/2021/06/22/scaleai-launches-mapping-project-more-on-ponyai--waymo/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bradtempleton/2021/06/22/scaleai-launches-mapping-project-more-on-ponyai--waymo/amp/",
-      "publishedDateTime": "2021-06-22T10:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
       ]
     }
   ],

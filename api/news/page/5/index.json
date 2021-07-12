@@ -2,6 +2,58 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-07-07-what-you-need-to-know-about-darpa-the-pentagons-mad-science-division.md",
+      "title": "What you need to know about DARPA, the Pentagon's mad science division",
+      "excerpt": "Its earliest mind-controlled bionic arms have been serving ... They're not as widely known as their robotic counterparts, but DARPA's also funding several projects that deal with medical technology.",
+      "sourceUrl": null,
+      "webUrl": "https://www.engadget.com/2014-07-07-darpa-explainer.html",
+      "originalUrl": "https://www.engadget.com/2014-07-07-darpa-explainer.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.yimg.com/uu/api/res/1.2/4Uv12N7LaBbpQ6yGz0V49g--~B/aD01NTA7dz05NjA7YXBwaWQ9eXRhY2h5b24-/https://o.aolcdn.com/hss/storage/midas/db4bbb1293fdccc1e659620924713e40/200358751/darpa-big-dog-fullbleed.jpg",
+          "width": 960,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.engadget.com/amp/2014-07-07-darpa-explainer.html",
+      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2014-07-07-darpa-explainer.html",
+      "publishedDateTime": "2021-07-06T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-07-transforming-the-insurance-industry-with-big-data-machine-learning-and-ai.md",
       "title": "Transforming The Insurance Industry With Big Data, Machine Learning, And AI",
       "excerpt": "An emerging wave of “Insurtech” solutions companies are seeking to transform the business of insurance through the introduction of Big Data, Machine Learning, and AI capabilities.",
@@ -1133,49 +1185,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-06-bytedance-selling-tiktok-ai-to-companies-including-in-india.md",
-      "title": "ByteDance selling TikTok AI to companies including in India",
-      "excerpt": "Beat Analytics Ibeat 1 Year HTTPS To track article's statistics China-based ByteDance which is the parent company of TikTok, has reportedly started selling the AI technology of the short video-making app to other companies,",
-      "sourceUrl": null,
-      "webUrl": "https://brandequity.economictimes.indiatimes.com/news/digital/bytedance-selling-tiktok-ai-to-companies-including-in-india/84165212",
-      "originalUrl": "https://brandequity.economictimes.indiatimes.com/news/digital/bytedance-selling-tiktok-ai-to-companies-including-in-india/84165212",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://etimg.etb2bimg.com/thumb/msid-84165212,imgsize-488272,width-800,height-434,overlay-etbrandequity/bytedance-selling-tiktok-ai-to-companies-including-in-india.jpg",
-          "width": 800,
-          "height": 434,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://brandequity.economictimes.indiatimes.com/amp/news/digital/bytedance-selling-tiktok-ai-to-companies-including-in-india/84165212",
-      "cdnAmpWebUrl": "https://brandequity-economictimes-indiatimes-com.cdn.ampproject.org/c/s/brandequity.economictimes.indiatimes.com/amp/news/digital/bytedance-selling-tiktok-ai-to-companies-including-in-india/84165212",
-      "publishedDateTime": "2021-07-06T00:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India Times",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

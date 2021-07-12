@@ -41,20 +41,6 @@ related:
         width: 1200
         height: 648
         isCached: true
-  - title: "The Integrated Supply Chain: AI, ML, and Human Intelligence"
-    excerpt: "AI will never be a silver bullet, but with proper data and augmented with human intelligence, it will revolutionise supply chain agility and resilience"
-    publishedDateTime: 2021-07-07T10:52:00Z
-    webUrl: "https://supplychaindigital.com/technology/integrated-supply-chain-ai-ml-and-human-intelligence"
-    type: article
-    provider:
-      name: Supply Chain Digital
-      domain: supplychaindigital.com
-    quality: 56
-    images:
-      - url: "https://supplychaindigital.com/sites/default/files/styles/ma/public/image/GettyImages-1206796363_1.jpg?itok=ZyBpOLb8"
-        width: 2373
-        height: 1263
-        isCached: true
 
 secured: "tEKl4VC4mtpzZnHDs+Ke9B2rjHhN+8AjefKh2y66NiK1NNTUFM4ulHZn3uclQrr7LbcQwJgC7L8TpEtM386ZggX6iBT7MjuwSYDqTYqacZcUDgkiv2eKy3zFVu+hf0H420/ZwCR+nNgTsEa6yfC8Xj6sUs6I3vPjEag/5w/unwzQCIqnk/WGFF63wl5EIm0olNMe9cKTY4R73hLzLBI7RtW+5OdWTO3T+TWiDkogK87Ty5IWPIK/5W+ayuYG7AYc0EUn+LpVXkEJrYhQUWToAjO0UzcC+VtjD9JM6G6F9K4q8AXe6Vp52aI8owTGXeyGGXc9W9HVOgOj9lOd2/NK5Z6OxdBqvpyd8/DpQhUU+ng=;QCXMICYHoHrylvCNFWj+rQ=="
 ---

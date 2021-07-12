@@ -2,6 +2,100 @@
   "page": 25,
   "value": [
     {
+      "path": "_news/2021-06-21-this-ai-startup-raised-43-million-to-save-lives-and-money-by-treating-heart-disease-earlier.md",
+      "title": "This AI Startup Raised $43 Million To Save Lives (And Money) By Treating Heart Disease Earlier",
+      "excerpt": "Cleerly founder James Min wants to make early detection and treatment of America’s number one killer as routine as cancer screenings.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/katiejennings/2021/06/21/this-ai-startup-raised-43-million-to-save-lives-and-money-by-treating-heart-disease-earlier/",
+      "originalUrl": "https://www.forbes.com/sites/katiejennings/2021/06/21/this-ai-startup-raised-43-million-to-save-lives-and-money-by-treating-heart-disease-earlier/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 95,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60cfd10b3377cd9eacef3cde%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D600%26cropY1%3D202%26cropY2%3D540",
+          "width": 600,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/katiejennings/2021/06/21/this-ai-startup-raised-43-million-to-save-lives-and-money-by-treating-heart-disease-earlier/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/katiejennings/2021/06/21/this-ai-startup-raised-43-million-to-save-lives-and-money-by-treating-heart-disease-earlier/amp/",
+      "publishedDateTime": "2021-06-21T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-21-eu-privacy-watchdogs-call-for-ban-on-facial-recognition-in-public-spaces.md",
+      "title": "EU Privacy Watchdogs Call for Ban on Facial Recognition in Public Spaces",
+      "excerpt": "Europe's two privacy watchdogs teamed up on Monday to call for a ban on the use of facial recognition in public spaces, going against draft European Union rules which would allow the technology to be used for public security reasons.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usnews.com/news/technology/articles/2021-06-21/eu-privacy-watchdogs-call-for-ban-on-facial-recognition-in-public-spaces",
+      "originalUrl": "https://www.usnews.com/news/technology/articles/2021-06-21/eu-privacy-watchdogs-call-for-ban-on-facial-recognition-in-public-spaces",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-21T05:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "U.S. News & World Report",
+        "domain": "usnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-21-the-station-waymo-nabs-more-capital-cruise-taps-a-5b-credit-line-and-hints-about-argos-future.md",
       "title": "The Station: Waymo nabs more capital, Cruise taps a $5B credit line and hints about Argo’s future",
       "excerpt": "TechCrunch has been ... like hydrogen fuel cell EV Nuro, the autonomous delivery startup, is expanding into parcel logistics through a partnership with FedEx. The multiyear, multiphased strategic ...",
@@ -1132,92 +1226,6 @@
       ],
       "topics": [
         "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-20-finclude-joins-growing-ecosystem-of-partners-supporting-the-ibm-cloud-for-financial-services.md",
-      "title": "Finclude Joins Growing Ecosystem of Partners Supporting the IBM Cloud for Financial Services",
-      "excerpt": "Finclude, an Ireland-based start-up that provides credit scoring and affordability profiles using machine learning technology, today announced it has joined IBM’s (NYSE: IBM) growing ecosystem of more than 100 Global Systems Integrators (GSIs),",
-      "sourceUrl": null,
-      "webUrl": "https://financialit.net/news/fintech-startups/finclude-joins-growing-ecosystem-partners-supporting-ibm-cloud-financial",
-      "originalUrl": "https://financialit.net/news/fintech-startups/finclude-joins-growing-ecosystem-partners-supporting-ibm-cloud-financial",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://financialit.net/sites/default/files/sbyufgcw67et92763etqiwu829.png",
-          "width": 776,
-          "height": 376,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-20T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Financial IT",
-        "domain": "financialit.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-20-ai-in-fashion-market-impact-and-recovery-analysis-ibm-google-facebook-adobe-oracle.md",
-      "title": "Ai In Fashion Market Impact and Recovery Analysis| IBM, Google, Facebook, Adobe, Oracle",
-      "excerpt": "Ai In Fashion Market research is an intelligence report with meticulous efforts undertaken to study the right and valuable information. The data which has been looked upon is done considering both, the existing top players and the upcoming competitors.",
-      "sourceUrl": null,
-      "webUrl": "https://ksusentinel.com/2021/06/20/ai-in-fashion-market-impact-and-recovery-analysis-ibm-google-facebook-adobe-oracle/",
-      "originalUrl": "https://ksusentinel.com/2021/06/20/ai-in-fashion-market-impact-and-recovery-analysis-ibm-google-facebook-adobe-oracle/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ksusentinel.com/wp-content/uploads/2021/06/A2Z-Market-Research-2-54-780x470.png",
-          "width": 780,
-          "height": 470,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-20T05:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Sentinel",
-        "domain": "ksusentinel.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
         "AI"
       ]
     }

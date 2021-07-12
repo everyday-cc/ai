@@ -28,36 +28,71 @@ images:
     isCached: true
 
 related:
-  - title: "AI gives development tools a boost"
-    excerpt: "Programming by example like this is another useful way of adding AI assistance to your development process. Microsoft Research’s PROSE (Program Synthesis using Examples) is already in use in Excel and in many Azure and Power Platform tools, as well as in ..."
-    publishedDateTime: 2021-07-07T10:00:00Z
-    webUrl: "https://www.infoworld.com/article/3623773/ai-gives-development-tools-a-boost.html"
-    ampWebUrl: "https://www.infoworld.com/article/3623773/ai-gives-development-tools-a-boost.amp.html"
-    cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3623773/ai-gives-development-tools-a-boost.amp.html"
+  - title: "Artificial Intelligence in Education Market Report 2021 to 2030 Globally Exploring Sales Volume Revenue and Price by Types"
+    excerpt: "Jul 07, 2021 (AmericaNewsHour) -- In a recent published report, Kenneth Research has updated the market report for Artificial Intelligence in Education Market for 2021 till 2030. Report further now discusses; the various strategies to be adopted or being ..."
+    publishedDateTime: 2021-07-07T15:32:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-education-market-report-2021-to-2030-globally-exploring-sales-volume-revenue-and-price-by-types-2021-07-07"
     type: article
     provider:
-      name: InfoWorld
-      domain: infoworld.com
-    quality: 89
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 75
     images:
-      - url: "https://images.idgesg.net/images/article/2021/06/artificial_intelligence_automation_digital_brain_thinkstock_875595818-100749926-orig-100893865-large.jpg"
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
-        height: 800
+        height: 630
         isCached: true
-  - title: "Don’t Forget the Human Factor in Autonomous Systems and AI Development"
-    excerpt: "It goes without saying that humans are the intended beneficiaries of the AI applications and autonomous systems that data scientists and developers are"
-    publishedDateTime: 2021-07-08T22:01:00Z
-    webUrl: "https://www.datanami.com/2021/07/08/dont-forget-the-human-factor-in-autonomous-systems-and-ai-development/"
+  - title: "Robot Operating System Market Size 2021 by Company, Product introduction, Products Sales Volume, Revenue, Price and Gross Margin to 2030"
+    excerpt: "In a recent published report, Kenneth Research has updated the market report for Robot Operating System Market for"
+    publishedDateTime: 2021-07-09T17:02:00Z
+    webUrl: "https://www.marketwatch.com/press-release/robot-operating-system-market-size-2021-by-company-product-introduction-products-sales-volume-revenue-price-and-gross-margin-to-2030-2021-07-09"
     type: article
     provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 39
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 53
     images:
-      - url: "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2021/07/face_phone_shutterstock_ozsef-Bagota-scaled.jpg"
-        width: 2560
-        height: 1280
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
+  - title: "Artificial Intelligence in Telecommunication Market Size Insight Report 2021 to 2030 by Types, End Users and Regions with Analysis"
+    excerpt: "Jul 09, 2021 (AmericaNewsHour) -- In a recent published report, Kenneth Research has updated the market report for Artificial Intelligence in Telecommunication Market for 2021 till 2030. Report further now discusses; the various strategies to be adopted or ..."
+    publishedDateTime: 2021-07-09T14:57:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-telecommunication-market-size-insight-report-2021-to-2030-by-types-end-users-and-regions-with-analysis-2021-07-09"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 37
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Voice Recognition Market 2021 Comprehensive Analysis, Future Estimations, Growth Drivers and Forecast to 2030"
+    excerpt: "Jul 09, 2021 (AmericaNewsHour) -- In a recent published report, Kenneth Research has updated the market report for Voice Recognition Market for 2021 till 2030. Report further now discusses; the various strategies to be adopted or being adopted by the ..."
+    publishedDateTime: 2021-07-09T05:44:00Z
+    webUrl: "https://www.marketwatch.com/press-release/voice-recognition-market-2021-comprehensive-analysis-future-estimations-growth-drivers-and-forecast-to-2030-2021-07-09"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 35
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Global AI Translation Market Size, Status and Forecast 2021-2027"
+    excerpt: "Pages Report] Check for Discount on Global AI Translation Market Size, Status and Forecast 2021-2027 report by QYResearch Group. Market Analysis and Insights: Global AI Translation Market The"
+    publishedDateTime: 2021-07-10T07:26:00Z
+    webUrl: "https://www.reportsnreports.com/reports/4660415-global-ai-translation-market-size-status-and-forecast-2021-2027.html"
+    type: article
+    provider:
+      name: ReportsnReports
+      domain: reportsnreports.com
+    quality: 17
 
 secured: "hQLyAhZ7d/65B0SN5uMEWmRC8zEPW7ROaVywDIEHdHZYsLUWmlMJBDTzrEN3KrWgsjEzhliAevUsrvJ5n8aH0CN1ZmZL3IAMWYYln3lAaWDKQyOT80dUVxE1MJzWFQWaubobEFEtBRa0NYJIw8Yf8hwJXpKNeD+ma3JZnbck5Po/FEYzJWLlt2AJe6Zo9UyLdqrLQYg6oxOoyt4wfjpOyl7yMxV3w+e1OtSi+VdUgvRvKZ2XwVqT9mi0n/pje9ZNLEy9o7etxHVuH0+meSicp6mkrpuk6XQdOkBSE21jGkpV2mkLXXXs4kRqVLGEfX15kYoDkEHYjxf38JHwItQvddPhZqrpHjuwtMZmVikBIU4=;Z6ZTNQ/aHNdyYNnb+aojBg=="
 ---

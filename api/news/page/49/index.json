@@ -2,6 +2,110 @@
   "page": 49,
   "value": [
     {
+      "path": "_news/2021-06-03-researchers-open-source-benchmarks-measuring-quality-of-ai-generated-code.md",
+      "title": "Researchers open-source benchmarks measuring quality of AI-generated code",
+      "excerpt": "And as computers become ubiquitous, the demand for quality code draws an ever-growing number of aspiring programmers to the profession. After years of study to become proficient at coding, experts learn to convert abstracts into concrete,",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/06/03/researchers-open-source-benchmarks-measuring-quality-of-ai-generated-code/",
+      "originalUrl": "https://venturebeat.com/2021/06/03/researchers-open-source-benchmarks-measuring-quality-of-ai-generated-code/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/05/GettyImages-1291886933-1.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/06/03/researchers-open-source-benchmarks-measuring-quality-of-ai-generated-code/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/03/researchers-open-source-benchmarks-measuring-quality-of-ai-generated-code/amp/",
+      "publishedDateTime": "2021-06-03T06:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-03-retailers-leverage-ai-for-a-greener-planet-and-greener-financial-statements.md",
+      "title": "Retailers: Leverage AI For A Greener Planet And Greener Financial Statements",
+      "excerpt": "Optimizing a retail supply chain for efficiency and reduction of waste requires careful planning and consideration, and machine learning and predictive analytics technology have changed the rules of the game.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/06/03/retailers-leverage-ai-for-a-greener-planet-and-greener-financial-statements/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/06/03/retailers-leverage-ai-for-a-greener-planet-and-greener-financial-statements/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60b79fee579fd2ad8f4c9ae8%2F0x0.jpg",
+          "width": 1200,
+          "height": 790,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/06/03/retailers-leverage-ai-for-a-greener-planet-and-greener-financial-statements/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/06/03/retailers-leverage-ai-for-a-greener-planet-and-greener-financial-statements/amp/",
+      "publishedDateTime": "2021-06-03T06:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
       "path": "_news/2021-06-03-systran-launches-systran-translate-pro.md",
       "title": "SYSTRAN Launches \"SYSTRAN Translate PRO\"",
       "excerpt": "Today, SYSTRAN, the leader in AI-based translation technology, announces the launch of its newest cloud-based software, \"SYSTRAN Translate PRO\", designed to equip SMBs, freelancers and organizations with the ability to communicate across language borders and conquer new markets in just a few clicks.",
@@ -1031,101 +1135,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-03-its-a-lens-plus-a-rear-view-mirror-and-a-telescope-javed-ahmed-schneider-electric-india.md",
-      "title": "It’s a lens, plus a rear-view mirror and a telescope: Javed Ahmed, Schneider Electric India",
-      "excerpt": "Javed Ahmed, SVP – Global Supply Chain International, Schneider Electric India talks to Dataquest about the solutions the company has to offer for digital twin, and much more about the development and deployment of the technology. What are the solutions ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.dqindia.com/lens-plus-rear-view-mirror-telescope/",
-      "originalUrl": "https://www.dqindia.com/lens-plus-rear-view-mirror-telescope/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.dqindia.com/wp-content/uploads/2021/06/Javed-Ahmed.jpg",
-          "width": 800,
-          "height": 420,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.dqindia.com/lens-plus-rear-view-mirror-telescope/amp/",
-      "cdnAmpWebUrl": "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/lens-plus-rear-view-mirror-telescope/amp/",
-      "publishedDateTime": "2021-06-02T21:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Dataquest",
-        "domain": "dqindia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-03-do-ai-powered-food-robots-put-human-jobs-at-risk.md",
-      "title": "Do AI-powered food robots put human jobs at risk?",
-      "excerpt": "Quick serve is going to the robots thanks to these new machines. Here's why humans stand a chance. Throughout the pandemic, there's been major interest in contactless, automation-driven consumer experiences in the food industry.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/do-ai-powered-food-robots-put-human-jobs-at-risk/",
-      "originalUrl": "https://www.zdnet.com/article/do-ai-powered-food-robots-put-human-jobs-at-risk/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/hub/i/2021/06/02/7ebf7a97-57b3-4f21-9bb2-55659f055d32/blendid.png",
-          "width": 1300,
-          "height": 867,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/do-ai-powered-food-robots-put-human-jobs-at-risk/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/do-ai-powered-food-robots-put-human-jobs-at-risk/",
-      "publishedDateTime": "2021-06-02T21:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

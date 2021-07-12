@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/07/08/intels-huma-abidi-on-the-urgent-n
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/08/intels-huma-abidi-on-the-urgent-need-for-diversity-and-inclusion-initiatives-in-ai/amp/"
 type: article
 quality: 85
-heat: 105
+heat: 95
 published: true
 
 provider:
@@ -30,20 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "The Integrated Supply Chain: AI, ML, and Human Intelligence"
-    excerpt: "AI will never be a silver bullet, but with proper data and augmented with human intelligence, it will revolutionise supply chain agility and resilience"
-    publishedDateTime: 2021-07-07T10:52:00Z
-    webUrl: "https://supplychaindigital.com/technology/integrated-supply-chain-ai-ml-and-human-intelligence"
-    type: article
-    provider:
-      name: Supply Chain Digital
-      domain: supplychaindigital.com
-    quality: 56
-    images:
-      - url: "https://supplychaindigital.com/sites/default/files/styles/ma/public/image/GettyImages-1206796363_1.jpg?itok=ZyBpOLb8"
-        width: 2373
-        height: 1263
-        isCached: true
   - title: "Diversity key as AI increasingly integrated into automotive safety systems"
     excerpt: "That is, female-figure dummies or those mirroring the size and physique of young children were often excluded from critical vehicle safety testing. \"What ended up happening is that these safety settings,"
     publishedDateTime: 2021-07-07T16:19:00Z

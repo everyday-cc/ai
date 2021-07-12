@@ -2,6 +2,40 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2021-06-30-matterport-and-facebook-ai-research-collaborate-to-release-the-worlds-largest-dataset-of-3d-spaces-for-academic-research.md",
+      "title": "Matterport and Facebook AI Research Collaborate to Release the World's Largest Dataset of 3D Spaces for Academic Research",
+      "excerpt": "Matterport, the spatial data company leading the digital transformation of the built world, which has entered into a definitive agreement to enter into a business combination with Gores Holdings VI, today announced a collaboration with Facebook AI Research through which it will make the largest-ever dataset of 3 D indoor spaces available exclusively",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/press-release/matterport-and-facebook-ai-research-collaborate-to-release-the-worlds-largest-dataset",
+      "originalUrl": "https://www.nasdaq.com/press-release/matterport-and-facebook-ai-research-collaborate-to-release-the-worlds-largest-dataset",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-30T07:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-30-us-agencies-must-track-which-facial-recognition-systems-they-use-report-says.md",
       "title": "US agencies must track which facial recognition systems they use, report says",
       "excerpt": "Several federal agencies don't know which systems their employees use, according to the Government Accountability Office.",
@@ -808,17 +842,17 @@
       "title": "China's Didi touts tech spending ahead of Wall St debut",
       "excerpt": "Early investors included Apple Inc., Japan’s Softbank, Alibaba and Chinese internet giants, Tencent Holding Ltd. and Baidu Inc. Didi ... into development of self-driving, electric vehicles ...",
       "sourceUrl": null,
-      "webUrl": "https://www.baynews9.com/fl/tampa/ap-online/2021/06/30/chinas-didi-touts-tech-spending-ahead-of-wall-st-debut",
-      "originalUrl": "https://www.baynews9.com/fl/tampa/ap-online/2021/06/30/chinas-didi-touts-tech-spending-ahead-of-wall-st-debut",
+      "webUrl": "https://www.fox23.com/news/chinas-didi-touts/DBXXNMFWEYG4ZRLYZ7NRQERQJU/",
+      "originalUrl": "https://www.fox23.com/news/chinas-didi-touts/DBXXNMFWEYG4ZRLYZ7NRQERQJU/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://s7d2.scene7.com/is/image/TWCNews/China_Didi_IPO_76014",
-          "width": 1280,
-          "height": 835,
+          "url": "https://cloudfront-us-east-1.images.arcpublishing.com/cmg/XL7AELWQMP6C5P7XEBRG6NG5AA.jpg",
+          "width": 5349,
+          "height": 3487,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -826,13 +860,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-30T00:37:00-07:00",
+      "ampWebUrl": "https://www.fox23.com/news/chinas-didi-touts/DBXXNMFWEYG4ZRLYZ7NRQERQJU/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-fox23-com.cdn.ampproject.org/c/s/www.fox23.com/news/chinas-didi-touts/DBXXNMFWEYG4ZRLYZ7NRQERQJU/?outputType=amp",
+      "publishedDateTime": "2021-06-30T01:10:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Bay News 9",
-        "domain": "baynews9.com",
+        "name": "Fox 23",
+        "domain": "fox23.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1169,48 +1203,6 @@
         "name": "MIT Technology Review",
         "domain": "technologyreview.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-30-vietnamese-e-wallet-momo-picks-up-local-ai-startup-in-first-acquisition-deal.md",
-      "title": "Vietnamese e-wallet MoMo picks up local AI startup in first acquisition deal",
-      "excerpt": "Vietnam’s top payment startup MoMo has made its first acquisition with the purchase of local AI startup Pique in a push to better capitalize the data of its 25 million registered users. The company, which is backed by global investors such as Warburg Pincus and Goodwater Capital,",
-      "sourceUrl": null,
-      "webUrl": "https://www.techinasia.com/vietnamese-e-wallet-momo-makes-first-acquisition-with-purchase-of-local-ai-startup-pique",
-      "originalUrl": "https://www.techinasia.com/vietnamese-e-wallet-momo-makes-first-acquisition-with-purchase-of-local-ai-startup-pique",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-29T19:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Techinasia",
-        "domain": "techinasia.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techinasia.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

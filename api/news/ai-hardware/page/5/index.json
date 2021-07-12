@@ -2,6 +2,58 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-05-24-qualcomms-snapdragon-7c-gen-2-gives-entry-laptop-chip-a-speed-boost.md",
+      "title": "Qualcomm’s Snapdragon 7c Gen 2 gives entry laptop chip a speed boost",
+      "excerpt": "Qualcomm is launching a new version of its chipset for laptops, with the Snapdragon 7c Gen 2 promising more performance for affordable Windows notebooks and Chromebooks. The successor, as you",
+      "sourceUrl": null,
+      "webUrl": "https://www.slashgear.com/qualcomms-snapdragon-7c-gen-2-gives-entry-laptop-chip-a-speed-boost-24674220/",
+      "originalUrl": "https://www.slashgear.com/qualcomms-snapdragon-7c-gen-2-gives-entry-laptop-chip-a-speed-boost-24674220/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.slashgear.com/wp-content/uploads/2021/05/Qualcomm-Snapdragon-7c-Gen-2-compute-platform-Still-Animation-Chip-on-board.jpg",
+          "width": 1500,
+          "height": 938,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.slashgear.com/qualcomms-snapdragon-7c-gen-2-gives-entry-laptop-chip-a-speed-boost-24674220/amp/",
+      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/qualcomms-snapdragon-7c-gen-2-gives-entry-laptop-chip-a-speed-boost-24674220/amp/",
+      "publishedDateTime": "2021-05-24T08:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SlashGear",
+        "domain": "slashgear.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/slashgear.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-21-nvidia-geforce-rtx-3090-vs-amd-radeon-rx-6900-xt-which-gpu-should-you-buy.md",
       "title": "NVIDIA GeForce RTX 3090 vs. AMD Radeon RX 6900 XT: Which GPU should you buy?",
       "excerpt": "Want a monster GPU that will demolish 4K PC gaming? You're probably interested in either the NVIDIA RTX 3090 or the AMD RX 6900 XT. We compare the two to help you make a decision.",
@@ -1391,58 +1443,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmochina.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-07-ibm-sets-another-smallness-record-with-2nm-chip-blueprints.md",
-      "title": "IBM Sets Another Smallness Record with 2nm Chip Blueprints",
-      "excerpt": "IBM said the new chip is designed to achieve 45 percent higher performance and 75 percent lower energy use than today’s most advanced 7nm node chips.",
-      "sourceUrl": null,
-      "webUrl": "https://www.eweek.com/pc-hardware/ibm-sets-another-smallness-record-with-2nm-chip-blueprints/",
-      "originalUrl": "https://www.eweek.com/pc-hardware/ibm-sets-another-smallness-record-with-2nm-chip-blueprints/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.eweek.com/wp-content/uploads/2021/05/IBM-Worldu2019s-First-2-Nanometer-Chip.jpg",
-          "width": 718,
-          "height": 464,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-06T17:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "eWeek",
-        "domain": "eweek.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/eweek.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

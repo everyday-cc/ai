@@ -1,30 +1,26 @@
 ---
 category: news
 title: "DDN Boosts AI Storage Leadership with EXAScaler 6 and Expanded Portfolio for Enterprise Intelligent Infrastructure"
-excerpt: "Expanding on its global leadership in artificial intelligence (AI) and multi cloud data management solutions, DDN® is strengthening its commitment to enterprise AI customers and channel partners with EXAScaler® 6 (EXA6) and expanding its portfolio of IntelliFlash ™ systems from Tintri,"
-publishedDateTime: 2021-07-01T02:12:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/ddn-boosts-ai-storage-leadership-with-exascaler-6-and-expanded-portfolio-for-enterprise-intelligent-infrastructure-1030569585"
-webUrl: "https://markets.businessinsider.com/news/stocks/ddn-boosts-ai-storage-leadership-with-exascaler-6-and-expanded-portfolio-for-enterprise-intelligent-infrastructure-1030569585"
+excerpt: "Expanding on its global leadership in artificial intelligence (AI) and multi cloud data management solutions, DDN® is strengthening its commitment to enterprise AI"
+publishedDateTime: 2021-07-01T01:58:00Z
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/ddn-boosts-ai-storage-leadership-with-exascaler-6-and-expanded-portfolio-for-enterprise-intelligent-infrastructure/article_509526cc-fe93-53a7-ace4-b0d0f70a7319.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/ddn-boosts-ai-storage-leadership-with-exascaler-6-and-expanded-portfolio-for-enterprise-intelligent-infrastructure/article_509526cc-fe93-53a7-ace4-b0d0f70a7319.html"
 type: article
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - AI Hardware
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/1191324/DDN_Logo.jpg"
-    width: 283
-    height: 400
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/a/fc/afcd069f-109a-5e25-b5c1-2f230e1ec9d3/609a802dd1fff.image.jpg?resize=446%2C630"
+    width: 446
+    height: 630
     isCached: true
 
-secured: "E0J2CVV7gZZoSv0DnVsZ12Q2uRBgYhQeo7mhM5ZZ146gNCTi52wJsvehuEGjCfsNEN4Ja4jTsvDjLJzv+i4Lwv4iUn4jPIJKkGU2yABa2tBF7A1AGPB+4wqUSi/ecV6QmXYQDRFbTfzXcn7hXTVrDIb8b/vs49q+HejNY1P8x1cKicXlDlBYWPy8DItOqOofrqAtBhz1Q/IWdQV9ftb81OL029bS0FAfAFnatdmy5h5UgjocWhYVSri0LfYX/ILKjnSIbexpyvprr+DZREWMDFUYrKIG6rHJKstzBkN5/3DldkOYgJtEWSOuzON/U7yIUEUBMMzXEWYEvjGiYVu94lrU9AzEqb9Ne29WABeCM7Y=;fmxhiG2FdOXpU7KJavt4ng=="
+secured: "dmGvZco3uAGQZFbGf26nPCny4DDCLr/2B/ekesqXGJdFwd0T+e8ud00r03hYfInaD+86+bbPpFDVIY1MifOpETTM3KDzZjwdM4qr/LtDkiKR8Zj0LTz0YFXMF5oadooOhXO1aiwLzye/lGn7SJLyMV1tUPfctnF7CL5+def0vLcEFr9JPAss04j31Itt2CsruhV2wWqCH+9wL7UErQs810MN5K+P+M5jv++lPvct0CI7/+1FRy5QsohUTnMvvDqUkEWu1Aosep0oDmfPZdQjAAtqcYI8LehZGYiBLP5TeKhxSv8sRgArSEoVhcHz98Stl6Rspf+PBSSuS4Db/S2HI4zyXHqs5kB+TwFKN6WdIZU=;i/ji5MPoSSQ2UX+H57QmBg=="
 ---
 

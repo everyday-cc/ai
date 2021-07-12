@@ -1,27 +1,27 @@
 ---
 category: news
-title: "Try-on facial recognition apps land cosmetics firms in court"
-excerpt: "Two proposed class actions charge Mary Kay Cosmetics and Ulta Beauty with violating Illinois' Biometric Information Privacy Act with their try-on apps."
-publishedDateTime: 2021-07-09T15:09:00Z
-originalUrl: "https://www.biometricupdate.com/202107/try-on-facial-recognition-apps-land-cosmetics-firms-in-court"
-webUrl: "https://www.biometricupdate.com/202107/try-on-facial-recognition-apps-land-cosmetics-firms-in-court"
+title: "NAB pilots facial recognition for identity verification"
+excerpt: "NAB has piloted the same facial recognition technology as Westpac to allow consumers to verify their identity via a smartphone. The bank revealed to iTnews that it tested the service supplied by Sydney-headquartered OCR Labs. iTnews revealed in April that ..."
+publishedDateTime: 2021-07-12T02:08:00Z
+originalUrl: "https://www.itnews.com.au/news/nab-pilots-facial-recognition-for-identity-verification-567155"
+webUrl: "https://www.itnews.com.au/news/nab-pilots-facial-recognition-for-identity-verification-567155"
 type: article
 quality: 39
 heat: -1
 published: false
 
 provider:
-  name: Biometric Companies
-  domain: biometricupdate.com
+  name: IT News For Australia Business
+  domain: itnews.com.au
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/10/12124609/selfie-biometric-authentication.jpg"
-    width: 1200
-    height: 628
+  - url: "https://i.nextmedia.com.au/News/NAB_Media_image.jpg"
+    width: 670
+    height: 447
     isCached: true
 
 related:
@@ -101,19 +101,19 @@ related:
         width: 480
         height: 270
         isCached: true
-  - title: "NAB pilots facial recognition for identity verification"
-    excerpt: "NAB has piloted the same facial recognition technology as Westpac to allow consumers to verify their identity via a smartphone. The bank revealed to iTnews that it tested the service supplied by Sydney-headquartered OCR Labs. iTnews revealed in April that ..."
-    publishedDateTime: 2021-07-12T02:08:00Z
-    webUrl: "https://www.itnews.com.au/news/nab-pilots-facial-recognition-for-identity-verification-567155"
+  - title: "Try-on facial recognition apps land cosmetics firms in court"
+    excerpt: "Two proposed class actions charge Mary Kay Cosmetics and Ulta Beauty with violating Illinois' Biometric Information Privacy Act with their try-on apps."
+    publishedDateTime: 2021-07-09T15:09:00Z
+    webUrl: "https://www.biometricupdate.com/202107/try-on-facial-recognition-apps-land-cosmetics-firms-in-court"
     type: article
     provider:
-      name: IT News For Australia Business
-      domain: itnews.com.au
+      name: Biometric Companies
+      domain: biometricupdate.com
     quality: 39
     images:
-      - url: "https://i.nextmedia.com.au/News/NAB_Media_image.jpg"
-        width: 670
-        height: 447
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/10/12124609/selfie-biometric-authentication.jpg"
+        width: 1200
+        height: 628
         isCached: true
   - title: "Tencent using facial recognition to crack down on kids playing games at night"
     excerpt: "Gaming monolith Tencent has launched facial recognition technology that will stop children in China logging into games after a certain time of day. The \"midnight-patrol\" feature -- as reported by the BBC -- will ban children from playing games between 10pm and 8am."
@@ -130,6 +130,6 @@ related:
         height: 579
         isCached: true
 
-secured: "gaE/m9ey3sR1yt0vsUuHlb+vAJvoa8UZ8LY7sB9twIUv2T6rHMBgkdOYULZixHzyQnn94eueouZKZDrIh/1QN9lQP5jBA/zFXScB5M6mDB5++B0doFJFHCtNDNEOZBtHb/ky6Y7HJtpaJvZS0Ms1iZkeGBJI826KQDN43+M6zKpaR8LssSYeYePPtTqsR4b7r/VM/2a1vPPNdARg6dq/+1MYkRroT33ClLL3fDh7ffEaflBy4FdU0Iwn/uMSAme++wtMpdRpjbcR0BpET3j7VU50lwrVc6GVWVVwog/EECR8MqmO6g/FZAIh7i0u8Mo6DSTkdl6A902g0G1CLP+zwDQ8a+EE8fL0w7jmskXuQ7gErdX6mkssEAMzfK2LWpLYYLlcjWhZLo5+2GqNgersFSg/h+8gtXrZgnOZRUGC50j0i5PssfJumisfp1uefhvPYbY9bw98jWOKk7bxYoC66DLu/uOpgr/Tjot6fzz6IP+pZQHQCJCBwNjsiWCCN5mKJ15xftcgSAa7lKidum8hiQ==;rUjU1kSSMEBPY3+QI/z7FQ=="
+secured: "W/CRHuq3VrerlkLHTRVB5BwJ/eMRpWMJseemj73q/XKAxVfaMwRqyAglEXs92kiwub11a7cF2QLjUiHaiJX+yBQoGRUifyNfOX2w0C8IYoEUOBKu5eQIFYQEyEG3pRMrv+j12W6JGDn5E6CeL2/sKXn0lsXx7SoIXPEqfQxwZQ/nclcqXc7EA8JyEULBB7iS0nwlAVtVeNOPG1i/F3fMXk1qCdHd8VSL+JsRqrUuKfdSn7g6cQZKbXffhfAcbF86utRbPhmSQZspQ1gWVaUulKXLWoA5/DwfIAf/8BAgdkNxS+kbZ+iVzin+lK8nj4yT141V2A9chUVeAvf7Op81/RD1FKHaPoDNJWyoIDLFYvM=;QWvyH2T1Xta+w5C4cvD75w=="
 ---
 

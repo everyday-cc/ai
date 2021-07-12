@@ -2,6 +2,111 @@
   "page": 45,
   "value": [
     {
+      "path": "_news/2021-06-07-machine-learning-at-the-edge-tinyml-is-getting-big.md",
+      "title": "Machine learning at the edge: TinyML is getting big",
+      "excerpt": "Being able to deploy machine learning applications at the edge is the key to unlocking a multi-billion dollar market. TinyML is the art and science of producing machine learning models frugal enough to work at the edge,",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/machine-learning-at-the-edge-tinyml-is-getting-big/",
+      "originalUrl": "https://www.zdnet.com/article/machine-learning-at-the-edge-tinyml-is-getting-big/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/hub/i/2021/06/07/8c750b40-7b33-44e4-b928-10e4b45291bc/tinyml.jpg",
+          "width": 1031,
+          "height": 657,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/machine-learning-at-the-edge-tinyml-is-getting-big/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/machine-learning-at-the-edge-tinyml-is-getting-big/",
+      "publishedDateTime": "2021-06-06T23:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-07-machine-learning-security-needs-new-perspectives-and-incentives.md",
+      "title": "Machine learning security needs new perspectives and incentives",
+      "excerpt": "The DeepSloth attack technique targets adaptive deep neural networks and is optimized for fast and sensitive operations.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/06/06/machine-learning-security-needs-new-perspectives-and-incentives/",
+      "originalUrl": "https://venturebeat.com/2021/06/06/machine-learning-security-needs-new-perspectives-and-incentives/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i0.wp.com/bdtechtalks.com/wp-content/uploads/2021/06/early-exit-architecture-examples.jpg",
+          "width": 884,
+          "height": 608,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/06/06/machine-learning-security-needs-new-perspectives-and-incentives/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/06/machine-learning-security-needs-new-perspectives-and-incentives/amp/",
+      "publishedDateTime": "2021-06-06T21:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
       "path": "_news/2021-06-07-displaying-items-by-tag-cognitive-services.md",
       "title": "Displaying items by tag: cognitive services",
       "excerpt": "The NSW Police Force is rolling out Azure cloud technology to further support the recent introduction of cognitive services including ethical artificial intelligence (AI) and machine learning (ML ...",
@@ -1093,84 +1198,6 @@
         "AWS AI",
         "AI",
         "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2021-06-05-chinese-ai-speech-recognition-chip-startup-secures-new-war-chest.md",
-      "title": "Chinese AI speech recognition chip startup secures new war chest",
-      "excerpt": "ChipIntelli, a maker of AI-based speech recognition chips, recently raised several tens of millions of yuan ($3 million to $5 million) in a new funding round led by Haolan Capital. ChipIntelli, founded in 2015,",
-      "sourceUrl": null,
-      "webUrl": "https://asia.nikkei.com/Business/36Kr-KrASIA/Chinese-AI-speech-recognition-chip-startup-secures-new-war-chest",
-      "originalUrl": "https://asia.nikkei.com/Business/36Kr-KrASIA/Chinese-AI-speech-recognition-chip-startup-secures-new-war-chest",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%253A%252F%252Fs3-ap-northeast-1.amazonaws.com%252Fpsh-ex-ftnikkei-3937bb4%252Fimages%252F7%252F0%252F9%252F0%252F34550907-3-eng-GB%252FCropped-1622689933%25E5%2590%258C%25E7%25A4%25BE%25E3%2581%25AEAI%25E3%2583%2581%25E3%2583%2583%25E3%2583%2595%25E3%2582%259A%25E3%2583%25A2%25E3%2582%25B7%25E3%2582%2599%25E3%2583%25A5%25E3%2583%25BC%25E3%2583%25AB.png?width=1024&height=512&fit=cover&gravity=faces&source=nar-cms",
-          "width": 1024,
-          "height": 512,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-04T21:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NIKKEI",
-        "domain": "nikkei.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2021-06-05-computer-science-course-listing.md",
-      "title": "Computer Science Course Listing",
-      "excerpt": "and object recognition. An advanced course in computer graphics for students familiar with basic issues in computer graphics. Details on hidden line and surface removal. 2D and 3D curve and surface generation, rendering, illumination, and color models ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.uml.edu/Catalog/Undergraduate/Sciences/Departments/Computer-Science/Course-Listing.aspx",
-      "originalUrl": "https://www.uml.edu/Catalog/Undergraduate/Sciences/Departments/Computer-Science/Course-Listing.aspx",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-04T21:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "UMass Lowell",
-        "domain": "uml.edu",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],

@@ -7,7 +7,7 @@ originalUrl: "https://www.nextgov.com/emerging-tech/2021/07/bill-would-ban-facia
 webUrl: "https://www.nextgov.com/emerging-tech/2021/07/bill-would-ban-facial-recognition-public-housing/183131/"
 type: article
 quality: 139
-heat: 199
+heat: 209
 published: true
 
 provider:
@@ -100,6 +100,20 @@ related:
       - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/10/12124609/selfie-biometric-authentication.jpg"
         width: 1200
         height: 628
+        isCached: true
+  - title: "NAB pilots facial recognition for identity verification"
+    excerpt: "NAB has piloted the same facial recognition technology as Westpac to allow consumers to verify their identity via a smartphone. The bank revealed to iTnews that it tested the service supplied by Sydney-headquartered OCR Labs. iTnews revealed in April that ..."
+    publishedDateTime: 2021-07-12T02:08:00Z
+    webUrl: "https://www.itnews.com.au/news/nab-pilots-facial-recognition-for-identity-verification-567155"
+    type: article
+    provider:
+      name: IT News For Australia Business
+      domain: itnews.com.au
+    quality: 39
+    images:
+      - url: "https://i.nextmedia.com.au/News/NAB_Media_image.jpg"
+        width: 670
+        height: 447
         isCached: true
   - title: "Tencent using facial recognition to crack down on kids playing games at night"
     excerpt: "Gaming monolith Tencent has launched facial recognition technology that will stop children in China logging into games after a certain time of day. The \"midnight-patrol\" feature -- as reported by the BBC -- will ban children from playing games between 10pm and 8am."

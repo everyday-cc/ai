@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/07/08/intellimize-raises-30m-to-optimiz
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/08/intellimize-raises-30m-to-optimize-websites-with-ai/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 87
 published: true
 
 provider:
@@ -28,22 +28,6 @@ images:
     width: 800
     height: 450
     isCached: true
-
-related:
-  - title: "The Intelligent Organization – Implementing AI to maximize efficiencies"
-    excerpt: "To implement AI within the organization successfully, it is critically important to understand what AI is and what value can provide to businesses."
-    publishedDateTime: 2021-07-07T09:50:00Z
-    webUrl: "https://techhq.com/2021/07/how-to-successfully-implement-ai-in-your-organization/"
-    type: article
-    provider:
-      name: TechHQ
-      domain: techhq.com
-    quality: 37
-    images:
-      - url: "https://cdn.techhq.com/wp-content/uploads/2021/02/000_1OQ8TS.jpg"
-        width: 1024
-        height: 682
-        isCached: true
 
 secured: "L63RT4DwRqUcZXkI5EyNyhjTdv3vr5DZyk8Pycr2yjKygokB9BqCkAztXkc4iMRdrztP0mwkKLQ2kpkL+eOwb6RAwne6U18dPLrfxrHz7BaDFjb2FPXHq4APAgUjMAvSYpMkZaVql+bCYM2PVtox9KC7bVNYOqS/4EARdOgdDd079gDisTu/54+kI39iduYLw1MFl7MXtvmvIVVK52ak7h1XG1BYi5JgRut/Yi3JIjGhyj/8wpw+FWU1im/RsYSyKSyfcJHRkJRnF7Ek6UsBst/dOw8UJgSjpzGR2xVcSEMdxnPWBy/Ocjr0q0A5stPX7Vob0m6Y0AHGNQWAQZicO0H0w09E09+KXx5ZAn+YwdKn099WZvEPvuz6Q7HNTBOcknL3m91S/leFbaUcE8tYB4gFiyFHdayz21gnZG4eW/nhdC3WjwIA1QtGJRkgMlkIKdI+szOTlORSxYTm8p0osvWXSHjBR8ksCTUoc7VqhfUeI9rtl3YErpAAHnM93wbQTFvC4jpNxRDl6dwnGMdMHw==;Rulk8YS6X3Pih5tktiKFOg=="
 ---
