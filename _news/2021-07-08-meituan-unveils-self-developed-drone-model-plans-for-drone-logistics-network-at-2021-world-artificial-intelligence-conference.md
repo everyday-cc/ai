@@ -61,6 +61,20 @@ related:
       name: Morningstar, Inc.
       domain: morningstar.com
     quality: 34
+  - title: "Meituan Unveils Self-Developed Drone Model, Plans for Drone Logistics Network at 2021 World Artificial Intelligence Conference"
+    excerpt: "China’s leading e-commerce platform for services, today introduced a new, self-developed drone model and announced plans for a drone logistics network pilot program in Shanghai. The announcement was made at the 2021 World Artificial Intelligence Conference (WAIC) in Shanghai,"
+    publishedDateTime: 2021-07-12T08:30:00Z
+    webUrl: "https://www.suasnews.com/2021/07/meituan-unveils-self-developed-drone-model-plans-for-drone-logistics-network-at-2021-world-artificial-intelligence-conference/"
+    type: article
+    provider:
+      name: SUAS News
+      domain: suasnews.com
+    quality: 9
+    images:
+      - url: "https://www.suasnews.com/wp-content/uploads/2021/07/meituan-696x464.jpg"
+        width: 696
+        height: 464
+        isCached: true
 
 secured: "QysaJG5Iig7HkvIaT1rtGfzRbGK8QOnNsAKfH1XrqRHsxkb7pSCuAOu26XyuKnFkOzBpOyGsi1fYw7UtprOEW5lBMQ07PHOcrwpHsJh3zeZtqkZbf9I2YL/v7VoEXm0RFXszfNDaBvtYrchW2A0QKdjskCEjjkUhx8nTmGw9HLG/CIL7ZI4FINgOyq/gn5BTjEUBteIIog6DqvzRsR0V9l4HiEGgvUFPYFSnJ+8KxRXHAczU5VFQItOD3CVgXHz+Q4TGjGiIyZpfim2gA906UdgvZVsFedniQLJYCe5dNuwTX/fZKteYRn1wsdsyZMRUAizLRcL514JCLoQX0Pm8kMJekjTuxJttLS53G27kIv4=;RmI3hNdpqbQv5KSamGKP4A=="
 ---

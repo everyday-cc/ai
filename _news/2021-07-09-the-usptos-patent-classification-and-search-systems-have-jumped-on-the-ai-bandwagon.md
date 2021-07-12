@@ -58,20 +58,6 @@ related:
         width: 1200
         height: 694
         isCached: true
-  - title: "Advances in application of Artificial Intelligence"
-    excerpt: "Scientists have recorded major breakthroughs in the application of Artificial Intelligence (AI) in health, weather forecasting and other areas of science."
-    publishedDateTime: 2021-07-08T04:11:00Z
-    webUrl: "https://guardian.ng/features/advances-in-application-of-artificial-intelligence/"
-    type: article
-    provider:
-      name: The Guardian Nigeria
-      domain: guardian.ng
-    quality: 41
-    images:
-      - url: "https://guardian.ng/wp-content/uploads/2019/09/Artificial-Intelligence-is-revolutionizing-the-Healthcare-Industry.jpg"
-        width: 1280
-        height: 719
-        isCached: true
   - title: "NNSA leads national collaboration to drive next-generation in AI for nonproliferation"
     excerpt: "Within NNSA, the Office of Defense Nuclear Nonproliferation Research and Development (DNN R&D) is spearheading collaborative efforts to drive advances in the science of artificial intelligence (AI), and accelerate the adoption of AI-enabled technologies to solve difficult and pressing nuclear nonproliferation and national security challenges."
     publishedDateTime: 2021-07-09T00:00:00Z

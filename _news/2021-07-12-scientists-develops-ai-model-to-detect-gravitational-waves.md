@@ -1,28 +1,22 @@
 ---
 category: news
 title: "Scientists develops AI model to detect gravitational waves"
-excerpt: "A team of computational scientists and researchers has developed a new artificial intelligence (AI) framework that allows for"
-publishedDateTime: 2021-07-12T07:26:00Z
-originalUrl: "https://menafn.com/1102431633/Scientists-develops-AI-model-to-detect-gravitational-waves"
-webUrl: "https://menafn.com/1102431633/Scientists-develops-AI-model-to-detect-gravitational-waves"
+excerpt: "A team of computational scientists and researchers has developed a new artificial intelligence (AI) framework that allows for accelerated, scalable and reproducible detection of gravitational waves."
+publishedDateTime: 2021-07-12T05:10:00Z
+originalUrl: "https://www.sify.com/finance/scientists-develops-ai-model-to-detect-gravitational-waves-news-topnews-vhmfk8agggbcj.html"
+webUrl: "https://www.sify.com/finance/scientists-develops-ai-model-to-detect-gravitational-waves-news-topnews-vhmfk8agggbcj.html"
 type: article
-quality: 39
+quality: 19
 heat: -1
 published: false
 
 provider:
-  name: Middle East North Africa Financial Network
-  domain: menafn.com
+  name: Sify.com
+  domain: sify.com
 
 topics:
   - AI Hardware
   - AI
-
-images:
-  - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?891187"
-    width: 375
-    height: 250
-    isCached: true
 
 related:
   - title: "Scientists use artificial intelligence to detect gravitational waves"
@@ -87,15 +81,6 @@ related:
         width: 1380
         height: 776
         isCached: true
-  - title: "Argonne-led Team of Scientists Use AI to Detect Gravitational Waves"
-    excerpt: "AI-driven gravitational wave detection. Building upon the interdisciplinary nature of this project, the team looks forward to new applications of this data-driven framework beyond big-data challenges in physics."
-    publishedDateTime: 2021-07-07T17:46:00Z
-    webUrl: "https://insidehpc.com/2021/07/argonne-led-team-of-scientists-use-ai-to-detect-gravitational-waves/"
-    type: article
-    provider:
-      name: insideHPC
-      domain: insidehpc.com
-    quality: 17
   - title: "AI allows scientists to detect gravitational waves"
     excerpt: "Researchers at Department of Energy’s Argonne National Laboratory report that they have used artificial intelligence (AI) to dramatically reduce the time it takes to process data coming from the Laser Interferometer Gravitational-Wave Observatory (LIGO)."
     publishedDateTime: 2021-07-09T11:56:00Z
@@ -106,6 +91,6 @@ related:
       domain: controldesign.com
     quality: 17
 
-secured: "MiFTC2cP2gTo1NviVP5xLUciYcCzn6b8CLP9yyXA34Hb2CzaZCJBF4i3DqL1LPoYFQLENU7iS3OISy5fzLFtB9o6jOBuE6zjdXB1aCZQTkYGt5hIHInO5BRaXRpcXmZ3Z/fU7Q3epPXt7tYjB/ZapAFu4h31VJL4GHD25irzo/2Yu3n+o6Ju0r5aPQosRkLyo9RtT7BGgdOKcWcQd4EVRnVdJfHwvNysCNsloKYdaz9ZExGwlmgwKfRa1aSoxiO/HX5D5U8LwytKEMAxmlvuD958XH0AFO3HG8+ePXyCj5wqm6GGdraWs+gd2yvvcyaoMLPEPpTClEcrncTMlsc/woWo23AYvEdbQIWxIIfIDco=;zkhmHH8sJIzt+PcP/EH6/w=="
+secured: "nMR4wPdMhNy492XimdbfNrmuCA5irbLZRu7Pv5AJyiGdC89VK0xuHBJcLM9z8HoEz2a01yoxIxUIoft2HdbTIVyXlnlvqVBh/N/O0RDOftomo3lmBNSqFhSdmxkP2z5uUkqi85iwrhcHdrFu9Sz6wjTwZE/rpgL301Z6Wi8BWR3q0sXQKuOwK9GHdupbYPlY5iiyzaa7KaTbsn5sMCj7zB7BSbXESnAR/Nd8jzKyTb8d77Ab7rL3RAxytz/rb736YoPpWZrq2VeyvteXrAX3WZvbZlrBwnXALVOj35IG2tAYmMf1mwzy4Dcq/PBhqpHrtW0nMwF/n+/NJ9MYcQkt98jZJ8HdZjy86UvfA6RpFyg=;RIjPGyZzCuaeON14pc0Bzg=="
 ---
 

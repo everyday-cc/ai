@@ -2,6 +2,101 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-05-25-kao-data-becomes-nvidia-dgx-ready-establishing-the-uk-innovation-corridors-home-for-hpc-and-ai.md",
+      "title": "Kao Data Becomes NVIDIA DGX-Ready, Establishing the UK Innovation Corridor's Home for HPC and AI",
+      "excerpt": "NVIDIA DGX-Ready status enables Kao Data to support and host the latest NVIDIA accelerated computing technology- Provides a dedicated technical",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/kao-data-becomes-nvidia-dgx-ready-establishing-the-uk-innovation-corridor-s-home-for-hpc-and-ai-1030461283",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/kao-data-becomes-nvidia-dgx-ready-establishing-the-uk-innovation-corridor-s-home-for-hpc-and-ai-1030461283",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-25T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-25-google-pixel-6-custom-chip-to-offer-performance-similar-to-snapdragon-870-tipster.md",
+      "title": "Google Pixel 6 custom chip to offer performance similar to Snapdragon 870: Tipster",
+      "excerpt": "Recently, there have been a number of rumors and reports regarding the upcoming Google Pixel 6 series. One of the notable rumors is that the device will feature a custom chip that is built in collaboration with Samsung.",
+      "sourceUrl": null,
+      "webUrl": "https://www.gizmochina.com/2021/05/25/google-pixel-6-custom-chip-similar-to-snapdragon-870/",
+      "originalUrl": "https://www.gizmochina.com/2021/05/25/google-pixel-6-custom-chip-similar-to-snapdragon-870/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gizmochina.com/wp-content/uploads/2021/05/Google-Pixel-6-Pro-CAD-renders-3.jpg",
+          "width": 5120,
+          "height": 2880,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-25T02:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmochina",
+        "domain": "gizmochina.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmochina.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-25-leakers-reveal-what-to-expect-from-pixel-6-6-pro-display-whitechapel-chip.md",
       "title": "Leakers reveal what to expect from Pixel 6, 6 Pro display, Whitechapel chip",
       "excerpt": "Google's custom Whitechapel chip for the Pixel 6 and 6 Pro could match the performcance of the Snapdragon 870. Here's what we know so far.",
@@ -1354,110 +1449,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2021-05-09-us-senate-committee-revised-a-draft-bill-to-fund-ai-quantum-biotech.md",
-      "title": "U.S. Senate committee revised a draft bill to fund AI, quantum, biotech",
-      "excerpt": "The U.S. Senate will consider a revised technology research bill to invest $95 billion in AI, semiconductors, quantum computing, and biotech.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/05/08/u-s-senate-committee-revised-a-draft-bill-to-fund-ai-quantum-biotech/",
-      "originalUrl": "https://venturebeat.com/2021/05/08/u-s-senate-committee-revised-a-draft-bill-to-fund-ai-quantum-biotech/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/07/congress.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/05/08/u-s-senate-committee-revised-a-draft-bill-to-fund-ai-quantum-biotech/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/08/u-s-senate-committee-revised-a-draft-bill-to-fund-ai-quantum-biotech/amp/",
-      "publishedDateTime": "2021-05-08T16:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-08-ai-weekly-qualcomms-ai-research-and-development-efforts.md",
-      "title": "AI Weekly: Qualcomm’s AI research and development efforts",
-      "excerpt": "Qualcomm AI research head Jilei Hou spoke with VentureBeat about the company's investment focus and broader mission.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/05/07/ai-weekly-qualcomms-ai-research-and-development-efforts/",
-      "originalUrl": "https://venturebeat.com/2021/05/07/ai-weekly-qualcomms-ai-research-and-development-efforts/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/01/2019-01-04T130429Z_2_LYNXNPEF030OH_RTROPTP_4_QUALCOMM-M-A-BROADCOM-e1546625473928.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/05/07/ai-weekly-qualcomms-ai-research-and-development-efforts/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/07/ai-weekly-qualcomms-ai-research-and-development-efforts/amp/",
-      "publishedDateTime": "2021-05-07T13:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI",
         "AI Hardware"
       ]

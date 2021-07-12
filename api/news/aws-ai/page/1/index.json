@@ -616,25 +616,43 @@
     {
       "path": "_news/2021-06-30-crowdstrike-wins-2021-amazon-web-services-global-public-sector-partner-and-canada-aws-partner-awards.md",
       "title": "CrowdStrike Wins 2021 Amazon Web Services Global Public Sector Partner and Canada AWS Partner Awards",
-      "excerpt": "CrowdStrike, a leader in cloud-delivered endpoint and workload protection, today announced it has been named the winner of two key Amazon Web Services ( News - Alert) (AWS) partner-focused awards - the 2021 AWS Global Public Sector Partner Award for best cybersecurity solution and 2021 Canada AWS Partner Award as the ISV Partner of the Year.",
+      "excerpt": "CrowdStrike, a leader in cloud-delivered endpoint and workload protection, today announced it has been named the winner of two key Amazon Web Services",
       "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/2021/06/30/9400745.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/2021/06/30/9400745.htm",
+      "webUrl": "https://www.marketwatch.com/press-release/crowdstrike-wins-2021-amazon-web-services-global-public-sector-partner-and-canada-aws-partner-awards-2021-06-30",
+      "originalUrl": "https://www.marketwatch.com/press-release/crowdstrike-wins-2021-amazon-web-services-global-public-sector-partner-and-canada-aws-partner-awards-2021-06-30",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-30T05:12:00-07:00",
+      "publishedDateTime": "2021-06-30T05:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -741,6 +759,49 @@
         "AI",
         "AWS AI",
         "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2021-06-28-virtana-migrate-delivers-3x-faster-cloud-migration-to-aws.md",
+      "title": "Virtana Migrate Delivers 3x Faster Cloud Migration to AWS",
+      "excerpt": "Virtana, the AIOps observability company for hybrid cloud, announces the momentum of Virtana Platform, with successful customer and partner use cases for",
+      "sourceUrl": null,
+      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/virtana-migrate-delivers-3x-faster-cloud-migration-to-aws/article_c79c0c74-8524-58d9-9ccc-a395876d246b.html",
+      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/virtana-migrate-delivers-3x-faster-cloud-migration-to-aws/article_c79c0c74-8524-58d9-9ccc-a395876d246b.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/f/03/f03f332d-513b-51a1-a054-036cd721ca33/6050c91088e37.image.jpg?resize=864%2C288",
+          "width": 864,
+          "height": 288,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-28T06:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WFMZ-TV",
+        "domain": "wfmz.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
       ]
     },
     {
@@ -1380,49 +1441,6 @@
         "Microsoft AI",
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-22-toronto-firm-does-big-data-chemistry-in-the-cloud.md",
-      "title": "Toronto firm does big data chemistry in the cloud",
-      "excerpt": "If you’re a medical researcher looking for antibodies, sometimes Googling isn’t enough. Or rather, it’s too much. In 2009, 1DegreeBio was started by a group of medical and technology-savvy entrepreneurs to become what they now say is the world’s ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.itbusiness.ca/news/toronto-firm-does-big-data-chemistry-in-the-cloud/17648",
-      "originalUrl": "https://www.itbusiness.ca/news/toronto-firm-does-big-data-chemistry-in-the-cloud/17648",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.itbusiness.ca/images/articles/2012/June/antibody.jpg",
-          "width": 450,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.itbusiness.ca/news/toronto-firm-does-big-data-chemistry-in-the-cloud/17648?amp=1",
-      "cdnAmpWebUrl": "https://www-itbusiness-ca.cdn.ampproject.org/c/s/www.itbusiness.ca/news/toronto-firm-does-big-data-chemistry-in-the-cloud/17648?amp=1",
-      "publishedDateTime": "2021-06-21T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT Business",
-        "domain": "itbusiness.ca",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
       ]
     }
   ],

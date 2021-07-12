@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-retail-market-industry-growth-analysis-forecast-by-2027-2021-07-12"
 type: article
 quality: 72
-heat: 232
+heat: 212
 published: true
 
 provider:
@@ -134,15 +134,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence (AI) in Automotive Market"
-    excerpt: "Latest added Artificial Intelligence (AI) in Automotive Market research study by MarketDigits offers detailed product outlook and elaborates market review till 2027. The market Study is segmented by key regions that is accelerating the marketization."
-    publishedDateTime: 2021-07-07T18:54:00Z
-    webUrl: "https://manometcurrent.com/artificial-intelligence-ai-in-automotive-market-analysis-by-key-players-end-users-and-cagr-forecast-to-2027-harman-international-industries-inc-honda-motor-co-ltd-ibm-corporation-intel-co/"
-    type: article
-    provider:
-      name: manometcurrent.com
-      domain: manometcurrent.com
-    quality: 34
   - title: "Artificial Intelligence as a Service Market 2021 Segmentation and Analysis by Recent Trends, Development and Growth by Trending Regions by 2030"
     excerpt: "Jul 09, 2021 (AmericaNewsHour) -- In a recent published report, Kenneth Research has updated the market report for Artificial Intelligence as a Service Market for 2021 till 2030. Report further now discusses; the various strategies to be adopted or being ..."
     publishedDateTime: 2021-07-09T11:34:00Z
@@ -190,20 +181,6 @@ related:
       - url: "https://i.ibb.co/4f2WLZz/n1-finalll.jpg"
         width: 474
         height: 237
-        isCached: true
-  - title: "Artificial Intelligence (AI) Software Market Analysis, Leading Players, Future Growth, Business Prospects Research Report Foresight To 2027"
-    excerpt: "Software market by RMoz gives all the essential information needed to comprehend the important developments in this market for the forecast period of 20AA to 20BB. Through this report, the readers gain 360-degree analysis of the market for Artificial Intelligence (AI) Software."
-    publishedDateTime: 2021-07-07T17:40:00Z
-    webUrl: "https://ksusentinel.com/2021/07/07/artificial-intelligence-ai-software-market-analysis-leading-players-future-growth-business-prospects-research-report-foresight-to-2027/"
-    type: article
-    provider:
-      name: The Sentinel
-      domain: ksusentinel.com
-    quality: 18
-    images:
-      - url: "https://i.ibb.co/9qThnqF/r66.png"
-        width: 640
-        height: 457
         isCached: true
   - title: "Artificial Intelligence (AI) in Construction Market SWOT Analysis by Size, Status and Forecast to 2021-2027"
     excerpt: "Latest published market study on Global Artificial Intelligence (AI) in Construction Market provides an overview of the current market dynamics in the Artificial Intelligence (AI) in Construction space,"

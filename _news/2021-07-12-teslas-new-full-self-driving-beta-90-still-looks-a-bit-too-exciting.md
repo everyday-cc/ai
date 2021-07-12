@@ -9,7 +9,7 @@ ampWebUrl: "https://newatlas.com/automotive/tesla-full-self-driving-beta-9/?amp=
 cdnAmpWebUrl: "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/automotive/tesla-full-self-driving-beta-9/?amp=true"
 type: article
 quality: 104
-heat: 214
+heat: 224
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://static.techspot.com/images2/news/bigimage/2021/07/2021-07-10-image-8.jpg"
         width: 2032
         height: 1299
+        isCached: true
+  - title: "Tesla Full Self-Driving Beta 9.0 enters early access"
+    excerpt: "While having a computer crash or a smartphone not make calls isn’t catastrophic, beta testing software for fully self-driving vehicles by the public is somewhat concerning. Tesla is reportedly rolling out an early access program for the Full Self-Driving ..."
+    publishedDateTime: 2021-07-12T11:35:00Z
+    webUrl: "https://www.slashgear.com/tesla-full-self-driving-beta-9-0-enters-early-access-12682080/"
+    ampWebUrl: "https://www.slashgear.com/tesla-full-self-driving-beta-9-0-enters-early-access-12682080/amp/"
+    cdnAmpWebUrl: "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/tesla-full-self-driving-beta-9-0-enters-early-access-12682080/amp/"
+    type: article
+    provider:
+      name: SlashGear
+      domain: slashgear.com
+    quality: 89
+    images:
+      - url: "https://cdn.slashgear.com/wp-content/uploads/2021/07/tesla-model-s.jpg"
+        width: 1440
+        height: 810
         isCached: true
   - title: "Tesla finally releases Full Self-Driving Beta v9: here’s what it looks like"
     excerpt: "Tesla has finally released its highly-anticipated Full Self-Driving Beta v9 software update. Here’s what it looks like. It was a long time coming, but when CEO Elon Musk put an actual date on the release,"
@@ -190,6 +206,6 @@ related:
       domain: tweaktown.com
     quality: 19
 
-secured: "rpmvkfPJE4K9Fu4QlpLzwESUWklAgYqht0LsfYXE5My4IDXkPO87dqeeZj5k474KSw/aNxqGuRTg47+Jj/1V2GH/q6UAdi+H88hRn7gO8QFHmJRsKGeWxv2gkRzNQanG8sSTER6yzeBd8wp6OUIIGtNj7ZXT0EZHJH8KfRKZFoOuK7FLeYeFJS1J5V3lcUS8cltZ7vPd44pmIkW9KQm37BDkrIFWAc3GxE2fU9QIylF89s+RSPIXsAfex+QRR1pi6yiIaz90hyDMsad9fUOcC5IfBAAjR+qeTxczOWe9KonrX8b7xuCzL6V+MnWf3LH4epofjZPPzZ/cBlyLaeXchD0vj3j7B6vg3apq1lahJgE=;nDbyZ7BeR56wi5x8V+wOBg=="
+secured: "BNwZmrxMoAa3RrL4vAi5P54y1uRvry7VzRwb7jstnyPQ7nXe0cRegRSf/NfPtMp37IfXi70clGo8YCnF05pDRU0rpV5s7NGzpOEWxQETOCKL5xvB5mNI15gR0HuIG1OLDCU7HlUQT0k0qvmtd8l16jNMi4ph3nUloSKhr19sw3KFEUEh1C3zfjpekU8iaKOuIZNtnarslJTsTqOmN7aSCng+JIzgMKmEdFXl7e12PQ4SuQOmhraR+ZJFjPyaXlzb2/Gpt2z4gEKuXkREC1aIjg/o4e+dOooTgdbPrCqB/1Fa3P/BFUC2/RRMwLNj3ANtM4voYAC3qJ1xJaHha1V4oXV/2G8yZLfY6WRQ3h2qhN50llwBwWvWUVkatWsDqc7/rJtEUpIgXSlXEtYhcr6a76MsXhma+zh9pHJEOZK8K8DWCwkyENV5MAQfwsYTO7OD+Op7JYlKXJdhTqM4cg2IWQdFj9tf5vcUC//72VxMKNWlnnxq4ESbxj1igqx3rtTpssEoHsm7yPAFquHrlTo/7g==;qiF8CzlbJF1UIgtXHxsbrg=="
 ---
 

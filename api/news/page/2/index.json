@@ -2,6 +2,258 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-07-09-dynamic-ab-testing-for-machine-learning-models-with-amazon-sagemaker-mlops-projects.md",
+      "title": "Dynamic A/B testing for machine learning models with Amazon SageMaker MLOps projects",
+      "excerpt": "In this post, you learn how to create a MLOps project to automate the deployment of an Amazon SageMaker endpoint with multiple production variants for A/B testing. You also deploy a general purpose API and testing infrastructure that includes a multi-armed bandit experiment framework. This testing infrastructure",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/dynamic-a-b-testing-for-machine-learning-models-with-amazon-sagemaker-mlops-projects/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/dynamic-a-b-testing-for-machine-learning-models-with-amazon-sagemaker-mlops-projects/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 134,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/06/23/14-3239-Architecture.jpg",
+          "width": 800,
+          "height": 440,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-09T11:07:35-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-07-09-ai-is-trying-to-prevent-online-shoppers-from-ditching-their-carts.md",
+      "title": "AI is trying to prevent online shoppers from ditching their carts",
+      "excerpt": "Conversion to a sale is the ultimate goal for online retailers. Trying to learn shoppers' intent helps sellers see better returns.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/ai-is-trying-to-prevent-online-shoppers-from-ditching-their-carts/",
+      "originalUrl": "https://www.techrepublic.com/article/ai-is-trying-to-prevent-online-shoppers-from-ditching-their-carts/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techrepublic.com/a/hub/i/r/2021/07/09/b77f2cb5-a5e4-48d9-847c-ec6e763858aa/thumbnail/1200x675/8f627eb46351233a4b4de4667bad42b0/20210708-lucidworks-karen.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/ai-is-trying-to-prevent-online-shoppers-from-ditching-their-carts/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ai-is-trying-to-prevent-online-shoppers-from-ditching-their-carts/",
+      "publishedDateTime": "2021-07-09T09:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-09-basalt-minecraft-competition-aims-to-advance-reinforcement-learning.md",
+      "title": "BASALT Minecraft competition aims to advance reinforcement learning",
+      "excerpt": "Researchers at DeepMind and the University of California, Berkeley are launching a competition to spur reinforcement learning research.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/07/09/basalt-minecraft-competition-aims-to-advance-reinforcement-learning/",
+      "originalUrl": "https://venturebeat.com/2021/07/09/basalt-minecraft-competition-aims-to-advance-reinforcement-learning/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 92,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/07/image3.png?w=800&resize=800%2C269&strip=all",
+          "width": 800,
+          "height": 269,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/07/09/basalt-minecraft-competition-aims-to-advance-reinforcement-learning/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/09/basalt-minecraft-competition-aims-to-advance-reinforcement-learning/amp/",
+      "publishedDateTime": "2021-07-09T09:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-07-09-optimize-workforce-in-your-store-using-amazon-rekognition.md",
+      "title": "Optimize workforce in your store using Amazon Rekognition",
+      "excerpt": "In this post, we show you how to use Amazon Rekognition and AWS DeepLens to detect, and analyze occupancy in a retail business to optimize workforce utilization. Retailers often need to make decisions to improve the in-store customer experience through personnel management. Having too few or too many",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/optimize-workforce-in-your-store-using-amazon-rekognition/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/optimize-workforce-in-your-store-using-amazon-rekognition/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png",
+          "width": 768,
+          "height": 385,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-09T09:17:02-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2021-07-09-fact-sheet-executive-order-on-promoting-competition-in-the-american-economy.md",
+      "title": "Fact sheet: Executive order on promoting competition in the American economy",
+      "excerpt": "News Release The White House The economy is booming under President Biden’s leadership. The economy has gained more than three million jobs since the",
+      "sourceUrl": null,
+      "webUrl": "https://www.whitehouse.gov/briefing-room/statements-releases/2021/07/09/fact-sheet-executive-order-on-promoting-competition-in-the-american-economy/",
+      "originalUrl": "https://indiancountrytoday.com/the-press-pool/fact-sheet-executive-order-on-promoting-competition-in-the-american-economy",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.whitehouse.gov/wp-content/uploads/2021/01/wh_social-share-1100x740.png",
+          "width": 1100,
+          "height": 740,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-09T09:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Indian Country Today",
+        "domain": "indiancountrytoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-09-claims-that-highway-dollars-wont-boost-economic-growth-are-missing-something-vital-namely-ai-self-driving-cars.md",
       "title": "Claims That Highway Dollars Won’t Boost Economic Growth Are Missing Something Vital, Namely AI Self-Driving Cars",
       "excerpt": "Some are contending that infrastructure investment into highway dollars will have a minimal payoff, but this is argued herein as a wholly myopic view that fails to include the advent of AI self-driving cars.",
@@ -346,7 +598,7 @@
       "originalUrl": "https://markets.businessinsider.com/news/stocks/oneconnect-impresses-at-world-artificial-intelligence-conference-2021-in-shanghai-1030592354",
       "featuredContent": null,
       "highlight": null,
-      "heat": 117,
+      "heat": 97,
       "tags": null,
       "images": [
         {
@@ -838,7 +1090,7 @@
       "originalUrl": "https://thenextweb.com/news/new-ml-console-cheat-ai-aim-assist",
       "featuredContent": null,
       "highlight": null,
-      "heat": 94,
+      "heat": 84,
       "tags": null,
       "images": [
         {
@@ -941,7 +1193,7 @@
       "originalUrl": "https://markets.businessinsider.com/news/stocks/canaan-introduces-self-developed-edge-ai-chip-the-kendryte-k510-1030591108",
       "featuredContent": null,
       "highlight": null,
-      "heat": 114,
+      "heat": 124,
       "tags": null,
       "images": [
         {
@@ -981,239 +1233,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-09-buffalo-grove-sixth-grader-wins-national-math-ai-contest.md",
-      "title": "Buffalo Grove Sixth-Grader Wins National Math, AI Contest",
-      "excerpt": "Amritha Praveen was selected from a pool of talented middle school girls from over 20 states. (Photo submitted) BUFFALO GROVE, IL — A local sixth-grader beat out middle school girls from more ...",
-      "sourceUrl": null,
-      "webUrl": "https://patch.com/illinois/buffalogrove/buffalo-grove-sixth-grader-wins-national-math-ai-contest",
-      "originalUrl": "https://patch.com/illinois/buffalogrove/buffalo-grove-sixth-grader-wins-national-math-ai-contest",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://patch.com/img/cdn20/users/24142217/20210708/014353/styles/patch_image/public/amritha-1___08133856554.jpg?width=984",
-          "width": 800,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://patch.com/illinois/buffalogrove/amp/29670944/buffalo-grove-sixth-grader-wins-national-math-ai-contest",
-      "cdnAmpWebUrl": "https://patch-com.cdn.ampproject.org/c/s/patch.com/illinois/buffalogrove/amp/29670944/buffalo-grove-sixth-grader-wins-national-math-ai-contest",
-      "publishedDateTime": "2021-07-08T11:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Patch",
-        "domain": "patch.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Math for AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-08-new-machine-learning-based-cheating-may-threaten-competitive-play.md",
-      "title": "New machine learning-based cheating may threaten competitive play",
-      "excerpt": "Despite being illicit in games, and even illegal in some countries, the cheating industry has developed immensely, creating multi-million dollar businesses. You may think cheating is",
-      "sourceUrl": null,
-      "webUrl": "https://www.techspot.com/news/90350-new-machine-learning-based-cheating-may-threaten-competitive.html",
-      "originalUrl": "https://www.techspot.com/news/90350-new-machine-learning-based-cheating-may-threaten-competitive.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.techspot.com/images2/news/bigimage/2021/07/2021-07-08-image-11.jpg",
-          "width": 1498,
-          "height": 1001,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techspot.com/amp/news/90350-new-machine-learning-based-cheating-may-threaten-competitive.html",
-      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/90350-new-machine-learning-based-cheating-may-threaten-competitive.html",
-      "publishedDateTime": "2021-07-08T09:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechSpot",
-        "domain": "techspot.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-08-developers-have-a-moral-duty-to-create-ethical-ai.md",
-      "title": "Developers have a moral duty to create ethical AI",
-      "excerpt": "Developers of artificial intelligence (AI), machine learning (ML ... “Training, bias awareness, policies upon deployment, adherence to law, rules, regulations and ethics are key ingredients. “Developers must work with the human to create a product ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.computerweekly.com/news/252503741/Developers-have-a-moral-duty-to-create-ethical-AI",
-      "originalUrl": "https://www.computerweekly.com/news/252503741/Developers-have-a-moral-duty-to-create-ethical-AI",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.computerweekly.com/visuals/German/article/CCTV-facial-recognition-3-adobe.jpg",
-          "width": 1200,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.computerweekly.com/news/252503741/Developers-have-a-moral-duty-to-create-ethical-AI?amp=1",
-      "cdnAmpWebUrl": "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252503741/Developers-have-a-moral-duty-to-create-ethical-AI?amp=1",
-      "publishedDateTime": "2021-07-08T09:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Computer Weekly",
-        "domain": "computerweekly.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-08-maine-becomes-first-state-to-pass-broad-government-ban-on-facial-recognition-technology.md",
-      "title": "Maine Becomes First State To Pass Broad Government Ban on Facial Recognition Technology",
-      "excerpt": "Maine's new law is both the strongest and broadest in scope as of yet. The new bill bans the use of facial recognition technology across all levels of state government.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cpomagazine.com/data-privacy/maine-becomes-first-state-to-pass-broad-government-ban-on-facial-recognition-technology/",
-      "originalUrl": "https://www.cpomagazine.com/data-privacy/maine-becomes-first-state-to-pass-broad-government-ban-on-facial-recognition-technology/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cpomagazine.com/wp-content/uploads/2021/07/maine-becomes-first-state-to-pass-broad-government-ban-on-facial-recognition-technology_1500.jpg",
-          "width": 1500,
-          "height": 860,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cpomagazine.com/data-privacy/maine-becomes-first-state-to-pass-broad-government-ban-on-facial-recognition-technology/amp/",
-      "cdnAmpWebUrl": "https://www-cpomagazine-com.cdn.ampproject.org/c/s/www.cpomagazine.com/data-privacy/maine-becomes-first-state-to-pass-broad-government-ban-on-facial-recognition-technology/amp/",
-      "publishedDateTime": "2021-07-08T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CPO Magazine",
-        "domain": "cpomagazine.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-08-openai-warns-ai-behind-githubs-copilot-may-be-susceptible-to-bias.md",
-      "title": "OpenAI warns AI behind GitHub’s Copilot may be susceptible to bias",
-      "excerpt": "Take our AI survey to find out ... While Codex was trained on Microsoft Azure, which OpenAI notes purchases carbon credits and sources “significant amounts of renewable energy,” the company ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/07/08/openai-warns-ai-behind-githubs-copilot-may-be-susceptible-to-bias/",
-      "originalUrl": "https://venturebeat.com/2021/07/08/openai-warns-ai-behind-githubs-copilot-may-be-susceptible-to-bias/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/01/github-1-e1579720491957.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/07/08/openai-warns-ai-behind-githubs-copilot-may-be-susceptible-to-bias/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/08/openai-warns-ai-behind-githubs-copilot-may-be-susceptible-to-bias/amp/",
-      "publishedDateTime": "2021-07-08T08:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

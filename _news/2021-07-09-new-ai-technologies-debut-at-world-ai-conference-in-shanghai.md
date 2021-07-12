@@ -25,19 +25,35 @@ images:
     isCached: true
 
 related:
-  - title: "OneConnect Impresses at World Artificial Intelligence Conference 2021 in Shanghai"
-    excerpt: "Leading technology-as-a-service platform provider OneConnect Financial Technology Co., Ltd. (NYSE: OCFT) (\"OneConnect\" or \"the Company\"), an associate company of Ping An Group, recently displayed a lineup of impressive fintech solutions at the (WAIC 2021) held in Shanghai from July 8-10,"
-    publishedDateTime: 2021-07-09T09:17:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/oneconnect-impresses-at-world-artificial-intelligence-conference-2021-in-shanghai-1030592354"
+  - title: "5 AI startups out to change the world"
+    excerpt: "Deep learning is solving challenging problems in industries as diverse as retail, manufacturing, and agriculture. These companies are leading the way."
+    publishedDateTime: 2021-07-12T10:00:00Z
+    webUrl: "https://www.infoworld.com/article/3624700/5-ai-startups-out-to-change-the-world.html"
+    ampWebUrl: "https://www.infoworld.com/article/3624700/5-ai-startups-out-to-change-the-world.amp.html"
+    cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3624700/5-ai-startups-out-to-change-the-world.amp.html"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 77
+      name: InfoWorld
+      domain: infoworld.com
+    quality: 87
     images:
-      - url: "https://mma.prnewswire.com/media/1560742/OneConnect_at_World_Artificial_Intelligence_Conference_2021.jpg"
-        width: 400
-        height: 266
+      - url: "https://images.idgesg.net/images/article/2020/04/abstract_network_connections_conceptually_layered_with_a_city_skyline_and_virtual_globe_by_cofotoisme_gettyimages-1155123985_2400x1600-100839690-large.jpg"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Booz Allen backs AI, machine learning software startup"
+    excerpt: "Booz Allen Hamilton puts its technology scouting function to work by investing in an emerging startup company focused on making software for artificial intelligence and machine learning functions."
+    publishedDateTime: 2021-07-12T10:21:00Z
+    webUrl: "https://washingtontechnology.com/articles/2021/07/12/booz-allen-latentai-backing.aspx"
+    type: article
+    provider:
+      name: Washington Technology
+      domain: washingtontechnology.com
+    quality: 56
+    images:
+      - url: "https://washingtontechnology.com/~/media/GIG/Washington%20Technology/WTlogo.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Health tech on display at the World Artificial Intelligence Conference in Shanghai"
     excerpt: "With strong support from the government, the Chinese AI health market has more than tripled in size in just three years."
@@ -52,34 +68,6 @@ related:
       - url: "https://static.euronews.com/articles/stories/05/85/84/48/1000x563_cmsv2_bf9bdf2a-31a7-518e-b05e-4a8faf466235-5858448.jpg"
         width: 1000
         height: 563
-        isCached: true
-  - title: "GLOBALink | Advanced AI technologies displayed at World AI Conference"
-    excerpt: "The 2021 World Artificial Intelligence Conference officially opened on Thursday with more than 300 leading AI companies demoing th"
-    publishedDateTime: 2021-07-09T07:32:00Z
-    webUrl: "https://www.bignewsnetwork.com/news/270227510/globalink--advanced-ai-technologies-displayed-at-world-ai-conference"
-    type: article
-    provider:
-      name: Big News Network.com
-      domain: bignewsnetwork.com
-    quality: 37
-    images:
-      - url: "https://static.bignewsnetwork.com/bnn/images/big-news-network-slogan.jpg"
-        width: 630
-        height: 420
-        isCached: true
-  - title: "Moviebook Showcases Latest Intelligent Digital Products at World Artificial Intelligence Conference 2021 in Shanghai"
-    excerpt: "During the conference, Moviebook showcased its newly-devised system for the holographic simulation of the production process of digitized products. The system features intelligent video production technologies such as simulation,"
-    publishedDateTime: 2021-07-12T04:05:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/technology-shanghai-artificial-intelligence-430c5a24eda0218b326b98f7ac4a646f"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 29
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
         isCached: true
 
 secured: "Rwt5yLyfuZBPpMPCJizNotNbhJK91oElqb0lc6JMZom+bzj3+QEUbZWbbfNb0J8biel6tNLjVsIndsP58vcynSxxKBZiRbICcYxogVgjbvlXMXe+GvHJdVUbEhGimLkwKzzLsGvD0dDgNEcJQ94E7Z4TAgveluxnTYpoDviFgSd8V7lYpledcCog+0euNYBTaFJjCjfGNdSLS9XluZgueGsbatYsTSmUZIWKhn9WCk5JRSGbLjDM4yBJ8VGPrjVc/SQEpoELyhD1MJmS4S1AYUj8F3n1UsuNsO/EKUUZ3mtEHkoW7xgjdB03vEEaqEsgernrPu42DwOG4kwBiNzsauF54uOph1dZel4xqsmHx10=;SkFoqBhPic+LH6tvATxkow=="

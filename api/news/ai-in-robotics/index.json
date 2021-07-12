@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-07-12-scale-ais-rapid-growth-reflects-widening-demand-for-smart-software.md",
+      "title": "Scale AI’s Rapid Growth Reflects Widening Demand for Smart Software",
+      "excerpt": "A surge in corporate demand for artificial intelligence is driving growth for startups that help companies prepare data for software tools designed to glean business insights like gauging demand or spotting supply chain inefficiencies.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/scale-ais-rapid-growth-reflects-widening-demand-for-smart-software-11626082201",
+      "originalUrl": "https://www.wsj.com/articles/scale-ais-rapid-growth-reflects-widening-demand-for-smart-software-11626082201",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-366229/social",
+          "width": 1279,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/scale-ais-rapid-growth-reflects-widening-demand-for-smart-software-11626082201",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/scale-ais-rapid-growth-reflects-widening-demand-for-smart-software-11626082201",
+      "publishedDateTime": "2021-07-12T01:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-12-gaming-platform-razer-tackles-ocean-waste-with-ai-robot-tech.md",
       "title": "Gaming Platform Razer Tackles Ocean Waste With AI Robot Tech",
       "excerpt": "Gaming lifestyle co Razer joined forces with upcoming startup Clearbot to use an AI robot to collect different kinds of ocean plastic.",
@@ -1378,50 +1430,6 @@
         "AI in Robotics",
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2021-07-01-cheers-to-the-heineken-bot-self-driving-beer-delivery-robot.md",
-      "title": "Cheers to the Heineken B.O.T. Self-Driving Beer Delivery Robot",
-      "excerpt": "You could train your dog to grab one for you, which would take effort, time, and commitment. Or you could turn to Heineken's new B.O.T., which is, yep, a beer-carrying robot that brings the beers to you.",
-      "sourceUrl": null,
-      "webUrl": "https://www.motortrend.com/news/heineken-bot-beer-robot-cooler/",
-      "originalUrl": "https://www.motortrend.com/news/heineken-bot-beer-robot-cooler/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://st.motortrend.com/uploads/sites/5/2021/06/Heineken-B.O.T.-1.jpg",
-          "width": 1360,
-          "height": 765,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.motortrend.com/news/heineken-bot-beer-robot-cooler/amp/",
-      "cdnAmpWebUrl": "https://www-motortrend-com.cdn.ampproject.org/c/s/www.motortrend.com/news/heineken-bot-beer-robot-cooler/amp/",
-      "publishedDateTime": "2021-06-30T14:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Motor Trend",
-        "domain": "motortrend.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

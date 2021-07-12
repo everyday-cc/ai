@@ -41,6 +41,15 @@ related:
         width: 1200
         height: 400
         isCached: true
+  - title: "Scientists develop AI model to detect gravitational waves"
+    excerpt: "A team of computational scientists and researchers has developed a new artificial intelligence (AI) framework that allows for accelerated, scalable and reproducible detection of gravitational waves. The production-scale framework indicates that AI models could be as sensitive as traditional template matching algorithms,"
+    publishedDateTime: 2021-07-12T10:56:00Z
+    webUrl: "https://news.webindia123.com/news/Articles/Science/20210712/3785687.html"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 19
 
 secured: "eDOB7MRQjJ+ttNdUAo9Biq3zV/U8yyI03aLUT1kQxCR6Vbtdsbh6zKcrOjKueXOEs2Cp/o4AI8JTF/sZe1eTyWKkmH4/1OeG3eZRksqCYsyPKbhSOFbQMFvHk93PVMdiowTXY46twMx6OKisZZNY19cz1e5C3ezr8YCmSuWy3MAZjyAcci2S71eR8UmmxiHmm+ZkkqcUAs3+rt/HvxfvMOIGKWc9GWPPmbyRFiwEPVpAvkClqP5wjbyIPYTuXRdE/1H5E5SHUt95nPBwG7I+7Si8rKaC9KNm7YJUvcYj2Ws8P16hugwMNP5vJd9dfqHegPRBUH2iSoKIc5E1hHHBJ26VS5ZUcwKof6n56xwTRtc=;zNxT3D03gHaRBn3kjBvGJQ=="
 ---

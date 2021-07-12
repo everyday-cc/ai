@@ -2,6 +2,101 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-06-16-google-ai-designs-computer-chips-faster-than-humans-can.md",
+      "title": "Google AI Designs Computer Chips Faster Than Humans Can",
+      "excerpt": "Search engine giant Google has recently claimed that it developed a new artificial intelligence (AI) software capable of designing microchips much faster than humans can. In a paper recently published in the journal Nature,",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibtimes.com/google-ai-designs-computer-chips-faster-humans-can-3224891",
+      "originalUrl": "https://www.ibtimes.com/google-ai-designs-computer-chips-faster-humans-can-3224891",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/05/26/google-is-expanding-its-operations-in-health-with.jpg",
+          "width": 1024,
+          "height": 682,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.ibtimes.com/google-ai-designs-computer-chips-faster-humans-can-3224891?amp=1",
+      "cdnAmpWebUrl": "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/google-ai-designs-computer-chips-faster-humans-can-3224891?amp=1",
+      "publishedDateTime": "2021-06-16T05:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "International Business Times",
+        "domain": "ibtimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-16-to-measure-ultra-low-power-ai-mlperf-gets-a-tinyml-benchmark.md",
+      "title": "To measure ultra-low power AI, MLPerf gets a TinyML benchmark",
+      "excerpt": "The new suite of tests measures the latency and power consumption of an embedded system performing four representative machine learning tasks.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/to-measure-ultra-low-power-ai-mlperf-gets-a-tinyml-benchmark/",
+      "originalUrl": "https://www.zdnet.com/article/to-measure-ultra-low-power-ai-mlperf-gets-a-tinyml-benchmark/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/hub/i/2021/06/16/a4e35268-613e-4e36-99ed-a6fe51afea57/mlperf-tiny-inference-layout-for-twitter.jpg",
+          "width": 1600,
+          "height": 1069,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/to-measure-ultra-low-power-ai-mlperf-gets-a-tinyml-benchmark/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/to-measure-ultra-low-power-ai-mlperf-gets-a-tinyml-benchmark/",
+      "publishedDateTime": "2021-06-16T03:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-16-nvidia-and-the-battle-for-the-future-of-ai-chips.md",
       "title": "NVIDIA and the battle for the future of AI chips",
       "excerpt": "NVIDIA’s GPUs dominate AI chips. But a raft of startups say new architecture is needed for the fast-evolving AI field",
@@ -1302,102 +1397,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-08-man-group-oxford-quants-say-their-ai-can-predict-stock-moves.md",
-      "title": "Man Group-Oxford Quants Say Their AI Can Predict Stock Moves",
-      "excerpt": "Man Group Plc-backed researchers at the University of Oxford say they’ve created a machine-learning program that can project how share prices move -- notching an 80% success rate for the equivalent of about 30 seconds of live trading.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/news/articles/2021-06-08/man-group-oxford-quants-say-their-ai-can-predict-stock-moves",
-      "originalUrl": "https://www.bloomberg.com/news/articles/2021-06-08/man-group-oxford-quants-say-their-ai-can-predict-stock-moves",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iiH2XKvnMNIA/v0/1200x935.jpg",
-          "width": 1200,
-          "height": 935,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-08T02:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2021-06-08-my-pick-for-the-ai-gaming-industry.md",
-      "title": "My Pick for the AI Gaming Industry",
-      "excerpt": "When you add DLSS to NVIDIA’s GPU, you get a light simulation that is virtually indistinguishable from real light. Updates in this AI tech is one reason behind the launch of the next 3000 series.",
-      "sourceUrl": null,
-      "webUrl": "https://investorplace.com/2021/06/my-pick-for-the-ai-gaming-industry/",
-      "originalUrl": "https://investorplace.com/2021/06/my-pick-for-the-ai-gaming-industry/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://investorplace.com/wp-content/uploads/2021/05/esports-gaming.jpg",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://investorplace.com/2021/06/my-pick-for-the-ai-gaming-industry/amp/",
-      "cdnAmpWebUrl": "https://investorplace-com.cdn.ampproject.org/c/s/investorplace.com/2021/06/my-pick-for-the-ai-gaming-industry/amp/",
-      "publishedDateTime": "2021-06-07T21:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InvestorPlace",
-        "domain": "investorplace.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

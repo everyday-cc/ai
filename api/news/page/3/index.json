@@ -2,6 +2,239 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-07-09-buffalo-grove-sixth-grader-wins-national-math-ai-contest.md",
+      "title": "Buffalo Grove Sixth-Grader Wins National Math, AI Contest",
+      "excerpt": "Amritha Praveen was selected from a pool of talented middle school girls from over 20 states. (Photo submitted) BUFFALO GROVE, IL — A local sixth-grader beat out middle school girls from more ...",
+      "sourceUrl": null,
+      "webUrl": "https://patch.com/illinois/buffalogrove/buffalo-grove-sixth-grader-wins-national-math-ai-contest",
+      "originalUrl": "https://patch.com/illinois/buffalogrove/buffalo-grove-sixth-grader-wins-national-math-ai-contest",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://patch.com/img/cdn20/users/24142217/20210708/014353/styles/patch_image/public/amritha-1___08133856554.jpg?width=984",
+          "width": 800,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://patch.com/illinois/buffalogrove/amp/29670944/buffalo-grove-sixth-grader-wins-national-math-ai-contest",
+      "cdnAmpWebUrl": "https://patch-com.cdn.ampproject.org/c/s/patch.com/illinois/buffalogrove/amp/29670944/buffalo-grove-sixth-grader-wins-national-math-ai-contest",
+      "publishedDateTime": "2021-07-08T11:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Patch",
+        "domain": "patch.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Math for AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-08-new-machine-learning-based-cheating-may-threaten-competitive-play.md",
+      "title": "New machine learning-based cheating may threaten competitive play",
+      "excerpt": "Despite being illicit in games, and even illegal in some countries, the cheating industry has developed immensely, creating multi-million dollar businesses. You may think cheating is",
+      "sourceUrl": null,
+      "webUrl": "https://www.techspot.com/news/90350-new-machine-learning-based-cheating-may-threaten-competitive.html",
+      "originalUrl": "https://www.techspot.com/news/90350-new-machine-learning-based-cheating-may-threaten-competitive.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.techspot.com/images2/news/bigimage/2021/07/2021-07-08-image-11.jpg",
+          "width": 1498,
+          "height": 1001,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techspot.com/amp/news/90350-new-machine-learning-based-cheating-may-threaten-competitive.html",
+      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/90350-new-machine-learning-based-cheating-may-threaten-competitive.html",
+      "publishedDateTime": "2021-07-08T09:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechSpot",
+        "domain": "techspot.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-08-developers-have-a-moral-duty-to-create-ethical-ai.md",
+      "title": "Developers have a moral duty to create ethical AI",
+      "excerpt": "Developers of artificial intelligence (AI), machine learning (ML ... “Training, bias awareness, policies upon deployment, adherence to law, rules, regulations and ethics are key ingredients. “Developers must work with the human to create a product ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.computerweekly.com/news/252503741/Developers-have-a-moral-duty-to-create-ethical-AI",
+      "originalUrl": "https://www.computerweekly.com/news/252503741/Developers-have-a-moral-duty-to-create-ethical-AI",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.computerweekly.com/visuals/German/article/CCTV-facial-recognition-3-adobe.jpg",
+          "width": 1200,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.computerweekly.com/news/252503741/Developers-have-a-moral-duty-to-create-ethical-AI?amp=1",
+      "cdnAmpWebUrl": "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252503741/Developers-have-a-moral-duty-to-create-ethical-AI?amp=1",
+      "publishedDateTime": "2021-07-08T09:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Computer Weekly",
+        "domain": "computerweekly.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-08-maine-becomes-first-state-to-pass-broad-government-ban-on-facial-recognition-technology.md",
+      "title": "Maine Becomes First State To Pass Broad Government Ban on Facial Recognition Technology",
+      "excerpt": "Maine's new law is both the strongest and broadest in scope as of yet. The new bill bans the use of facial recognition technology across all levels of state government.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cpomagazine.com/data-privacy/maine-becomes-first-state-to-pass-broad-government-ban-on-facial-recognition-technology/",
+      "originalUrl": "https://www.cpomagazine.com/data-privacy/maine-becomes-first-state-to-pass-broad-government-ban-on-facial-recognition-technology/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cpomagazine.com/wp-content/uploads/2021/07/maine-becomes-first-state-to-pass-broad-government-ban-on-facial-recognition-technology_1500.jpg",
+          "width": 1500,
+          "height": 860,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cpomagazine.com/data-privacy/maine-becomes-first-state-to-pass-broad-government-ban-on-facial-recognition-technology/amp/",
+      "cdnAmpWebUrl": "https://www-cpomagazine-com.cdn.ampproject.org/c/s/www.cpomagazine.com/data-privacy/maine-becomes-first-state-to-pass-broad-government-ban-on-facial-recognition-technology/amp/",
+      "publishedDateTime": "2021-07-08T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CPO Magazine",
+        "domain": "cpomagazine.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-08-openai-warns-ai-behind-githubs-copilot-may-be-susceptible-to-bias.md",
+      "title": "OpenAI warns AI behind GitHub’s Copilot may be susceptible to bias",
+      "excerpt": "Take our AI survey to find out ... While Codex was trained on Microsoft Azure, which OpenAI notes purchases carbon credits and sources “significant amounts of renewable energy,” the company ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/07/08/openai-warns-ai-behind-githubs-copilot-may-be-susceptible-to-bias/",
+      "originalUrl": "https://venturebeat.com/2021/07/08/openai-warns-ai-behind-githubs-copilot-may-be-susceptible-to-bias/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/01/github-1-e1579720491957.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/07/08/openai-warns-ai-behind-githubs-copilot-may-be-susceptible-to-bias/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/08/openai-warns-ai-behind-githubs-copilot-may-be-susceptible-to-bias/amp/",
+      "publishedDateTime": "2021-07-08T08:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-08-an-ai-for-sea-ice-identification.md",
       "title": "An AI for sea ice identification",
       "excerpt": "If you've watched Netflix, shopped online, or run your robot vacuum cleaner, you've interacted with artificial intelligence, AI. AI is what allows computers to comb through an enormous amount of data to detect patterns or solve problems.",
@@ -10,7 +243,7 @@
       "originalUrl": "https://techxplore.com/news/2021-07-ai-sea-ice-identification.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 97,
+      "heat": 87,
       "tags": null,
       "images": [
         {
@@ -487,6 +720,50 @@
       ]
     },
     {
+      "path": "_news/2021-07-08-softbank-leads-235m-round-in-anyvisions-ai-recognition-tech.md",
+      "title": "SoftBank leads $235M round in AnyVision's AI recognition tech",
+      "excerpt": "The Israeli company developing AI-driven facial recognition secures mega funding to help expand into new markets.",
+      "sourceUrl": null,
+      "webUrl": "https://www.geektime.com/israeli-startup-anyvision-raises-235m-for-facial-recognition/",
+      "originalUrl": "https://www.geektime.com/israeli-startup-anyvision-raises-235m-for-facial-recognition/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.geektime.com/content/images/2021/07/Screenshot_1-1560924163.jpg",
+          "width": 878,
+          "height": 502,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.geektime.com/israeli-startup-anyvision-raises-235m-for-facial-recognition/amp/",
+      "cdnAmpWebUrl": "https://www-geektime-com.cdn.ampproject.org/c/s/www.geektime.com/israeli-startup-anyvision-raises-235m-for-facial-recognition/amp/",
+      "publishedDateTime": "2021-07-08T01:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Geektime",
+        "domain": "geektime.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2021-07-08-launching-the-ai-academy-for-small-newsrooms.md",
       "title": "Launching the AI Academy for small newsrooms",
       "excerpt": "As people searched for the latest information on COVID-19 last year, including school reopenings and travel restrictions, the BBC recognized they needed to find new ways of bringing their journalism to their audiences. They released a new online tool, the BBC Corona Bot, which uses artificial intelligence",
@@ -931,281 +1208,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-08-nist-proposal-aims-to-reduce-bias-in-artificial-intelligence.md",
-      "title": "NIST Proposal Aims to Reduce Bias in Artificial Intelligence",
-      "excerpt": "The National Institute of Standards and Technology recently released a proposal regarding the risk of bias in the use of artificial intelligence to help reduce it. The agency is seeking comments from the tech community.",
-      "sourceUrl": null,
-      "webUrl": "https://www.govtech.com/products/nist-proposal-aims-to-reduce-bias-in-artificial-intelligence",
-      "originalUrl": "https://www.govtech.com/products/nist-proposal-aims-to-reduce-bias-in-artificial-intelligence",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://erepublic.brightspotcdn.com/dims4/default/cc0ed60/2147483647/strip/true/crop/940x490+0+68/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2F36%2F15%2Fbb6e7321b66b3501007e72aa2c85%2Fshutterstock-6785833751.jpg",
-          "width": 840,
-          "height": 438,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.govtech.com/products/nist-proposal-aims-to-reduce-bias-in-artificial-intelligence?_amp=true",
-      "cdnAmpWebUrl": "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/products/nist-proposal-aims-to-reduce-bias-in-artificial-intelligence?_amp=true",
-      "publishedDateTime": "2021-07-07T14:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Government Technology",
-        "domain": "govtech.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-08-armorblox-and-intermedia-team-up-to-protect-email-from-cyberattacks-with-ai.md",
-      "title": "Armorblox and Intermedia team up to protect email from cyberattacks with AI",
-      "excerpt": "Cybersecurity company Armorblox and email provider Intermedia partnered to help enterprises combat the rise in cyberattacks with AI.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/07/07/armorblox-and-intermedia-team-up-to-protect-email-from-cyberattacks-with-ai/",
-      "originalUrl": "https://venturebeat.com/2021/07/07/armorblox-and-intermedia-team-up-to-protect-email-from-cyberattacks-with-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/07/maxresdefault-e1625690997914.jpeg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/07/07/armorblox-and-intermedia-team-up-to-protect-email-from-cyberattacks-with-ai/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/07/armorblox-and-intermedia-team-up-to-protect-email-from-cyberattacks-with-ai/amp/",
-      "publishedDateTime": "2021-07-07T14:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-08-infrared-cameras-and-artificial-intelligence-provide-insight-into-boiling.md",
-      "title": "Infrared cameras and artificial intelligence provide insight into boiling",
-      "excerpt": "But “artificial intelligence is not limited by the speed or ... or layers of silicon dioxide nanoparticles. They trained a neural network on 85 percent of the data from the first three surfaces, then tested it on 15 percent of the data of those ...",
-      "sourceUrl": null,
-      "webUrl": "https://news.mit.edu/2021/infrared-cameras-artificial-intelligence-provide-insight-into-boiling-0707",
-      "originalUrl": "https://news.mit.edu/2021/infrared-cameras-artificial-intelligence-provide-insight-into-boiling-0707",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://news.mit.edu/sites/default/files/images/202106/MIT-SEM-boiling-surfaces.jpg",
-          "width": 3750,
-          "height": 2500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-07T13:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "news",
-        "domain": "mit.edu",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/mit.edu-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-08-scientists-use-artificial-intelligence-to-detect-gravitational-waves.md",
-      "title": "Scientists use artificial intelligence to detect gravitational waves",
-      "excerpt": "When gravitational waves were first detected in 2015 by the advanced Laser Interferometer Gravitational-Wave Observatory (LIGO), they sent a ripple through the scientific community, as they confirmed another of Einstein's theories and marked the birth of gravitational wave astronomy.",
-      "sourceUrl": null,
-      "webUrl": "https://phys.org/news/2021-07-scientists-artificial-intelligence-gravitational.html",
-      "originalUrl": "https://phys.org/news/2021-07-scientists-artificial-intelligence-gravitational.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2021/scientists-use-artific.jpg",
-          "width": 1440,
-          "height": 810,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://phys.org/news/2021-07-scientists-artificial-intelligence-gravitational.amp",
-      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-07-scientists-artificial-intelligence-gravitational.amp",
-      "publishedDateTime": "2021-07-07T13:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Phys.org",
-        "domain": "phys.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-08-artificial-intelligence-ai-unfolds-the-new-dimension-of-social-development.md",
-      "title": "Artificial Intelligence (AI) Unfolds the New Dimension of Social Development",
-      "excerpt": "Artificial intelligence (AI) in healthcare is the discipline using data intensive computer based solutions to improve patient care and outcome. New, objective approach to assessing the reduction in apparent age after facelift surgery is now possible with ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.medindia.net/news/artificial-intelligence-ai-unfolds-the-new-dimension-of-social-development-202136-1.htm",
-      "originalUrl": "https://www.medindia.net/news/artificial-intelligence-ai-unfolds-the-new-dimension-of-social-development-202136-1.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.medindia.net/amp-images/health-images/Computerized-Images.jpg",
-          "width": 1200,
-          "height": 1000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.medindia.net/amp/news/artificial-intelligence-ai-unfolds-the-new-dimension-of-social-development-202136-1.htm",
-      "cdnAmpWebUrl": "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/artificial-intelligence-ai-unfolds-the-new-dimension-of-social-development-202136-1.htm",
-      "publishedDateTime": "2021-07-07T11:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medindia",
-        "domain": "medindia.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-08-bill-would-ban-facial-recognition-in-public-housing.md",
-      "title": "Bill Would Ban Facial Recognition in Public Housing",
-      "excerpt": "The proposal would also direct the Housing and Urban Development Department to conduct a comprehensive report on how the tech is used, why and its impact on tenants.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nextgov.com/emerging-tech/2021/07/bill-would-ban-facial-recognition-public-housing/183131/",
-      "originalUrl": "https://www.nextgov.com/emerging-tech/2021/07/bill-would-ban-facial-recognition-public-housing/183131/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 219,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.nextgov.com/media/img/cd/2021/07/07/NGbiometrics20210707/open-graph.jpg",
-          "width": 400,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-07T11:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nextgov",
-        "domain": "nextgov.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

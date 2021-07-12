@@ -62,6 +62,20 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "Meituan Unveils Self-Developed Drone Model, Plans for Drone Logistics Network at 2021 World Artificial Intelligence Conference"
+    excerpt: "China’s leading e-commerce platform for services, today introduced a new, self-developed drone model and announced plans for a drone logistics network pilot program in Shanghai. The announcement was made at the 2021 World Artificial Intelligence Conference (WAIC) in Shanghai,"
+    publishedDateTime: 2021-07-12T08:30:00Z
+    webUrl: "https://www.suasnews.com/2021/07/meituan-unveils-self-developed-drone-model-plans-for-drone-logistics-network-at-2021-world-artificial-intelligence-conference/"
+    type: article
+    provider:
+      name: SUAS News
+      domain: suasnews.com
+    quality: 9
+    images:
+      - url: "https://www.suasnews.com/wp-content/uploads/2021/07/meituan-696x464.jpg"
+        width: 696
+        height: 464
+        isCached: true
 
 secured: "igvCoUvuqdMTzoEHDKlyhIT3U03lNxarElzj3X80joyb38BA5iCVv3GIZpdig2RHaAd/XXLwPIDgF+2xbco6QgGk3IH+bublinwNTStTfA2i+ho8ZsJJBklQ4Z5cCAL7wRuWmwdDlgrspJVBemQiQnu7Z9De+yyzsskKfkBfMbK1auLB3/PNKjrnay/CyulbVneKp3kOeYuFeRIKtd+kJe520VT5aQL3DZQZzs/28CPepublbgsH0GvS+efkn74hdFZvL1o0D9up4KtlPlwmaP88+lXvVsaZy84Ru/IauTA9bRTc/bLeBSXVIf/bUF+40AtT6IQbA9dGV5NVWTZmWe9WlhyDWP9DaAIZZwEgbn6xj5J/ti940Vty78e4LgCE8cOScFYMlz4ZDOShstQ3aSdTdHbhK/O1q1R99cDsz//NC7pQda3T8rsC5ziKKe1hAaYr1yUPL+jCNOLfEa8wiMoB9SYmlR+543yLWefKIu5jI5mLUZtSSe6IEYdqc21MAh/uJBoHlTituot3iK2MhQ==;OHe3o6q2CLCYXBPVRoOOug=="
 ---

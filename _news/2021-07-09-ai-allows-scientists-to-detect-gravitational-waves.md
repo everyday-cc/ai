@@ -66,20 +66,6 @@ related:
         width: 777
         height: 545
         isCached: true
-  - title: "Scientists develops AI model to detect gravitational waves"
-    excerpt: "A team of computational scientists and researchers has developed a new artificial intelligence (AI) framework that allows for"
-    publishedDateTime: 2021-07-12T07:26:00Z
-    webUrl: "https://menafn.com/1102431633/Scientists-develops-AI-model-to-detect-gravitational-waves"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 39
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?891187"
-        width: 375
-        height: 250
-        isCached: true
   - title: "Scientists use artificial intelligence to detect gravitational waves"
     excerpt: "When gravitational waves were first detected in 2015 by the advanced Laser Interferometer Gravitational-Wave Observatory (LIGO), they sent a ripple through the scientific community, as they confirmed another of Einstein’s theories and marked the birth of gravitational wave astronomy."
     publishedDateTime: 2021-07-08T21:27:00Z
@@ -94,15 +80,15 @@ related:
         width: 1380
         height: 776
         isCached: true
-  - title: "Argonne-led Team of Scientists Use AI to Detect Gravitational Waves"
-    excerpt: "AI-driven gravitational wave detection. Building upon the interdisciplinary nature of this project, the team looks forward to new applications of this data-driven framework beyond big-data challenges in physics."
-    publishedDateTime: 2021-07-07T17:46:00Z
-    webUrl: "https://insidehpc.com/2021/07/argonne-led-team-of-scientists-use-ai-to-detect-gravitational-waves/"
+  - title: "Scientists develops AI model to detect gravitational waves"
+    excerpt: "A team of computational scientists and researchers has developed a new artificial intelligence (AI) framework that allows for accelerated, scalable and reproducible detection of gravitational waves."
+    publishedDateTime: 2021-07-12T05:10:00Z
+    webUrl: "https://www.sify.com/finance/scientists-develops-ai-model-to-detect-gravitational-waves-news-topnews-vhmfk8agggbcj.html"
     type: article
     provider:
-      name: insideHPC
-      domain: insidehpc.com
-    quality: 17
+      name: Sify.com
+      domain: sify.com
+    quality: 19
 
 secured: "9TtXrrrVtdUBNh5Zk6499jkGc+IuEatC6Fl3qugxb4i35lCMBpLGEmiND0avL7yy/Ao4r06rQ3UrSLeHOichWVXwPqwc9g6VdoM3U3yAUXKDrdCDYakc/ai+O5OsL2IHiFl/wtx8yclAkz5zTjh6UhnZgbvnUkKYFML4t4EyenbmM0P1Jy0OjfcAebcYafXUxG98ikZYuqrrrGfIhCb5Q3FJDdhZu9vH4EFzfW1krTKRzfWNMatQA5iEezq58ZINID30NX7cqQeffcoq9Va6bFc86esJixzb19Auv8rruJRYMKrqHzV4lpsgXIGe3VMcnMfo9q/cPGBoWS+B5wcPX7OtDS07dznRmDML3JLdFptDtJ3q1qdzBzbI+XCO7y7jgFJ7Ec7MacQVZUWHDCkz+fWMkoEqfLJ8WxdmX5FifHKarPscqGtV6bqDZ79hUlU/2eaSYCHUxPv5JZC1UJquFZx+i9NlzZQVTytZZuoIf05ZWHVz2cHZ5snJagreHgiR8mFcbGaUpJi9al4C1r6yCA==;T8i0JqzDYMURtNCk0CzISg=="
 ---

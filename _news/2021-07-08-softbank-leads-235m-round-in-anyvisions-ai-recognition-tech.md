@@ -9,8 +9,8 @@ ampWebUrl: "https://www.geektime.com/israeli-startup-anyvision-raises-235m-for-f
 cdnAmpWebUrl: "https://www-geektime-com.cdn.ampproject.org/c/s/www.geektime.com/israeli-startup-anyvision-raises-235m-for-facial-recognition/amp/"
 type: article
 quality: 61
-heat: -1
-published: false
+heat: 71
+published: true
 
 provider:
   name: Geektime
@@ -28,22 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "AnyVision Raises $235M for Access Point AI-Based Physical Security"
-    excerpt: "Access Point AI also helps with occupancy analytics ... software development kits and software onto edge-devices such as smart cameras, bodycams and chips, improving video analytics systems with respect to speed, security, affordability, flexibility ..."
-    publishedDateTime: 2021-07-07T17:53:00Z
-    webUrl: "https://www.pymnts.com/news/investment-tracker/2021/anyvision-raises-235m-for-access-point-ai-based-physical-security/"
-    ampWebUrl: "https://www.pymnts.com/news/investment-tracker/2021/anyvision-raises-235m-for-access-point-ai-based-physical-security/amp/"
-    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/investment-tracker/2021/anyvision-raises-235m-for-access-point-ai-based-physical-security/amp/"
-    type: article
-    provider:
-      name: pymnts.com
-      domain: pymnts.com
-    quality: 76
-    images:
-      - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/07/anyvision-biometrics-457x274.jpg"
-        width: 457
-        height: 274
-        isCached: true
   - title: "AI facial recognition co AnyVision raises $235m"
     excerpt: "Israeli AI-driven facial recognition company AnyVision has announced the completion of a $235 million financing round from SoftBank Vision Fund 2 and Eldridge with participation from existing ..."
     publishedDateTime: 2021-07-08T06:40:00Z

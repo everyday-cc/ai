@@ -39,6 +39,20 @@ related:
         width: 880
         height: 495
         isCached: true
+  - title: "Technion Ranks Number 1 In Europe For Artificial Intelligence"
+    excerpt: "The Technion – Israel Institute of Technology, Israel’s top university for science and technology, has been ranked number one in Europe, and number 15 worldwide, in the field of artificial intelligence by CSRankings. The rankings considered data from ..."
+    publishedDateTime: 2021-07-12T11:06:00Z
+    webUrl: "https://nocamels.com/2021/07/technion-number-1-europe-artificial-intelligence/"
+    type: article
+    provider:
+      name: NoCamels - Israeli Innovation News
+      domain: nocamels.com
+    quality: 37
+    images:
+      - url: "https://f6h8q2y9.stackpathcdn.com/wp-content/uploads/2018/11/technion.jpg"
+        width: 1200
+        height: 799
+        isCached: true
 
 secured: "vtmoIoLds1sPEZhIIJxPnsY8ZTqhP+7TYEzwHVvYbx2EMDNXAQ33DQNKD8ajhqzEZ8u9s4Xs+0KAWWuS6c1NdVkr48/kBJhjPR7s/ymaFqIFwoJiXrccCZCzcNTZbHeI6CrSxCi/cgE3D99kKUSvQyb1JTlvY/v2I4LagXiBg5/U4CX9YAFBfBZXxhnRUBaMyOjvE2jTwk81G1u+OVMgQZtSlMFNApEIxdmOVY/9oyekTgbeCnqcSfyXIYbGmEKwbtbWgFxRTypmwop89SqQVC+lbcX2hN0FOc9/niTYvQBgThIBq4B/wrJHCd6IScX9a/f4Sunf1wLFHGbjVQMbAaS5g8zrDLDMmmMSPrfnhGV4T1lW6EdDKCaJfcqm4rdsQwbqc/IweXf1tHEU6W39gtjO0HNEL9+kKG2m0/rr4AV/phxKjxvk2OhJxNH48I39muM+SWHuJi26r2DlXeQZuay9kTvZCv8jBuuS/5PlfCBqs25kPua8Vs0Rfih//3UljWb3k4ySMltHLdZW/E8KDg==;KpfXlkfq1hY5DfW0tOaVPQ=="
 ---

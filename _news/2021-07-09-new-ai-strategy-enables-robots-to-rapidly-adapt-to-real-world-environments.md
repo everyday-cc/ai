@@ -6,8 +6,8 @@ publishedDateTime: 2021-07-09T00:00:00Z
 originalUrl: "https://www.pressreleasepoint.com/new-ai-strategy-enables-robots-rapidly-adapt-real-world-environments"
 webUrl: "https://www.pressreleasepoint.com/new-ai-strategy-enables-robots-rapidly-adapt-real-world-environments"
 type: article
-quality: 52
-heat: 62
+quality: 54
+heat: 64
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI in Robotics
   - AI
+  - Facebook AI
 
 images:
   - url: "https://engineering.berkeley.edu/wp-content/uploads/2021/07/rma-robot-540x270.jpg"
@@ -40,6 +41,6 @@ related:
         height: 1080
         isCached: true
 
-secured: "CEaJlAY8SvNI8d8NW5iTl4CGcDd0k8sV2Gf7MrsbLnYCzAKo14Q20aX9twnRvI9iAKLipQOJxQVFYUPpRiPA3r20EzDvK13utH6vAcqvI1pnUsWBqB0FrXrngM/24sTKynnmanae7ULH43LGUFFnYqfJRt0E5z6hZ3pFygEiURf9vjzzu/pRBNL04k5B5YS2VOhqcfYzdNSILx2IqjnlXAP1Ybhg7yHlIMmu2xW8BKFAh+87ajudQBJueVvFQo3Py3Seidt5Pd/x9pV0TrRbOaPiJWOWK68mXe86Baq0IIxz8YmBfA7rCsVpjlzByYOqrL95sAoRsrcZAJMDMgsjN8eLOFBJNb0rDEjWICZ2ed8=;0mpMukEWeswliFBJtb9IFw=="
+secured: "112AIy4fdI0PJ0nORm/Xhrn/l2koMUJ72RwEDZmoTrbTlVRrQA9ey8d8oeHQKdh4UyPx5sc4yohjRb77iCBlm2fn40mf5kjheklLwK8FO7VhrMA+WbXbDpcdpujR8qCIqV3PoOnEohVYYwpo1lThqUH5NrKEPa93U+Qn6u+KIiKbCN5xMmCGTel3vJV176MggoF2gn8yPKayjxVzPi455HZ8CxqWj74aOpMUnId3Pgqgf+PzmbZl28zEUgXhaNHTqhIpbQBfYi97nE4iByKG9XtLqwKICwrVuMfQJYn0sPfik35r09By4SqYal0lgfMhUDGAvW/0a3jziyfmUf3tk9wBR0XLgwBRGStLYSnXYIiy8F2x8Z26rhRB4ikn04kUHl3J2ZtM0SmeSjkbB9u2vB/7gKcq204ye6o7JZG+RmKTG0jcvQFEuZePd/57ltMaQCFFquZP50UP1cE8sFjLst/SlKBxAfhRQ7c7RuDDMT3MdgYDtU+4mO+jX/nxLxg10HcJOe/FPEo/HacCebGnjg==;vu80QbWMkw3LDMa3t66ZQw=="
 ---
 

@@ -2,6 +2,315 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2021-07-01-facial-recognition-tech-has-been-widely-used-across-the-us-government-for-years-a-new-report-shows.md",
+      "title": "Facial recognition tech has been widely used across the US government for years, a new report shows",
+      "excerpt": "As George Floyd’s death sparked protests in cities across the country, six federal agencies turned to facial-recognition software in an effort to identify people in images",
+      "sourceUrl": null,
+      "webUrl": "https://whdh.com/news/facial-recognition-tech-has-been-widely-used-across-the-us-government-for-years-a-new-report-shows/",
+      "originalUrl": "https://whdh.com/news/facial-recognition-tech-has-been-widely-used-across-the-us-government-for-years-a-new-report-shows/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://whdh.com/wp-content/uploads/sites/3/2021/07/hypatia-h_23d667f55b4c015e1415b2e40186c54d-h_18bcfaf1b7723aeabe16bdb83b9561b0.jpg?quality=60&strip=color&w=1024",
+          "width": 1024,
+          "height": 662,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://whdh.com/news/facial-recognition-tech-has-been-widely-used-across-the-us-government-for-years-a-new-report-shows/amp/",
+      "cdnAmpWebUrl": "https://whdh-com.cdn.ampproject.org/c/s/whdh.com/news/facial-recognition-tech-has-been-widely-used-across-the-us-government-for-years-a-new-report-shows/amp/",
+      "publishedDateTime": "2021-07-01T05:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WHDH",
+        "domain": "whdh.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-01-zebra-technologies-to-acquire-fetch-robotics.md",
+      "title": "Zebra Technologies to Acquire Fetch Robotics",
+      "excerpt": "Zebra Technologies (NASDAQ: ZBRA), an innovator at the front line of business with solutions and partners that deliver a performance edge, today announced it intends to acquire Fetch Robotics, a pioneer in on-demand automation.",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/m-a/21/07/21806822/zebra-tech-to-acquire-fetch-robotics-for-290m",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-zebra-technologies-acquire-fetch-robotics-/2021/07/01/9401780.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 194,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/files/images/story/2012/abtech_871.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/21806822",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/21806822",
+      "publishedDateTime": "2021-07-01T05:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2021-07-01-food-supply-chain-tyson-foods-invests-in-ai-robotics.md",
+      "title": "Food Supply Chain: Tyson Foods Invests in AI Robotics",
+      "excerpt": "Tyson Foods - among others - invests in Soft Robotics Series B extension, expanding the use of AI, robotics and automation in the food supply chain",
+      "sourceUrl": null,
+      "webUrl": "https://manufacturingglobal.com/ai-and-automation/food-supply-chain-tyson-foods-invests-ai-robotics",
+      "originalUrl": "https://manufacturingglobal.com/ai-and-automation/food-supply-chain-tyson-foods-invests-ai-robotics",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://manufacturingglobal.com/sites/default/files/styles/ma/public/image/maxresdefault%20%282%29_0.jpg?itok=1Dv22rGS",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-01T05:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "manufacturingglobal.com",
+        "domain": "manufacturingglobal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-01-alluxio-brings-substantial-performance-and-ease-of-use-improvements-to-gpu-centric-aiml-workloads-with-v26-release.md",
+      "title": "Alluxio Brings Substantial Performance and Ease of Use Improvements to GPU-Centric AI/ML Workloads with v2.6 Release",
+      "excerpt": "This new release features an enhanced system architecture enabling AI/ML platform teams using GPUs to accelerate their data pipelines for business intelligence, applied machine learning and model training.",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/-alluxio-brings-substantial-performance-ease-use-improvements-gpu-/2021/07/01/9401759.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-alluxio-brings-substantial-performance-ease-use-improvements-gpu-/2021/07/01/9401759.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-01T05:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-07-01-marchex-co-founders-latest-startup-uses-artificial-intelligence-to-rethink-and-improve-meetings.md",
+      "title": "Marchex co-founder’s latest startup uses artificial intelligence to rethink and improve meetings",
+      "excerpt": "Nobody really likes work meetings. Pete Christothoulou thinks they're such a problem that he's launching a new startup to rethink the whole endeavor. Christothoulou, the former founder and CEO",
+      "sourceUrl": null,
+      "webUrl": "https://www.geekwire.com/2021/marchex-co-founders-latest-startup-uses-artificial-intelligence-rethink-improve-meetings/",
+      "originalUrl": "https://www.geekwire.com/2021/marchex-co-founders-latest-startup-uses-artificial-intelligence-rethink-improve-meetings/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.geekwire.com/wp-content/uploads/2021/07/Pete_Chrisothoulou-300x300.jpg",
+          "width": 300,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.geekwire.com/2021/marchex-co-founders-latest-startup-uses-artificial-intelligence-rethink-improve-meetings/amp/",
+      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2021/marchex-co-founders-latest-startup-uses-artificial-intelligence-rethink-improve-meetings/amp/",
+      "publishedDateTime": "2021-07-01T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GeekWire",
+        "domain": "geekwire.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/geekwire.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-01-ai-software-may-help-spot-early-signs-of-oesophageal-cancer.md",
+      "title": "AI software may help spot early signs of oesophageal cancer",
+      "excerpt": "Software in use at an NHS trust could prove a breakthrough in diagnosing one of the deadliest forms of cancer",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/society/2021/jul/01/ai-software-may-help-spot-early-signs-of-oesophageal-cancer",
+      "originalUrl": "https://www.theguardian.com/society/2021/jul/01/ai-software-may-help-spot-early-signs-of-oesophageal-cancer",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/c52877e72025b734460ff894742eda5c0ad93078/349_348_4512_2708/master/4512.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=26412eaf84bc72027ce904a5e4e356fd",
+          "width": 600,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/society/2021/jul/01/ai-software-may-help-spot-early-signs-of-oesophageal-cancer",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/society/2021/jul/01/ai-software-may-help-spot-early-signs-of-oesophageal-cancer",
+      "publishedDateTime": "2021-07-01T04:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-01-enhance-your-career-prospects-with-artificial-intelligence-courses.md",
+      "title": "Enhance your career prospects with Artificial Intelligence courses",
+      "excerpt": "Artificial intelligence is considered to be one of the most disruptive and successful technologies that exists today. Its potential to continuously evolve and enable innovations is now being leveraged by a spectrum of industries across the globe.",
+      "sourceUrl": null,
+      "webUrl": "https://www.tribuneindia.com/news/jobs & careers/enhance-your-career-prospects-with-artificial-intelligence-courses-276759",
+      "originalUrl": "https://www.tribuneindia.com/news/jobs & careers/enhance-your-career-prospects-with-artificial-intelligence-courses-276759",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://englishtribuneimages.blob.core.windows.net/gallary-content/2021/7/2021_7$largeimg_883535778.jpg",
+          "width": 724,
+          "height": 483,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-01T04:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Tribune",
+        "domain": "tribuneindia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-01-this-startup-is-offering-personalized-learning.md",
       "title": "This Startup Is Offering Personalized Learning",
       "excerpt": "Toppr, a 2014 founded Mumbai-based startup was one among them. In an interaction with Entrepreneur India, Zishaan Hayath, chief executive officer and founder of Toppr shares the reason behind launching Toppr and the future of the edtech sector.",
@@ -298,19 +607,19 @@
     {
       "path": "_news/2021-07-01-ddn-boosts-ai-storage-leadership-with-exascaler-6-and-expanded-portfolio-for-enterprise-intelligent-infrastructure.md",
       "title": "DDN Boosts AI Storage Leadership with EXAScaler 6 and Expanded Portfolio for Enterprise Intelligent Infrastructure",
-      "excerpt": "Expanding on its global leadership in artificial intelligence (AI) and multi cloud data management solutions, DDN® is strengthening its commitment to enterprise AI",
+      "excerpt": "DDN Unveils the Next Generation of EXAScaler, Simplifies the Procurement of AI Supercomputing Infrastructure by 200x1 and Expands IntelliFlash",
       "sourceUrl": null,
-      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/ddn-boosts-ai-storage-leadership-with-exascaler-6-and-expanded-portfolio-for-enterprise-intelligent-infrastructure/article_509526cc-fe93-53a7-ace4-b0d0f70a7319.html",
-      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/ddn-boosts-ai-storage-leadership-with-exascaler-6-and-expanded-portfolio-for-enterprise-intelligent-infrastructure/article_509526cc-fe93-53a7-ace4-b0d0f70a7319.html",
+      "webUrl": "https://markets.businessinsider.com/news/stocks/ddn-boosts-ai-storage-leadership-with-exascaler-6-and-expanded-portfolio-for-enterprise-intelligent-infrastructure-1030569591",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/ddn-boosts-ai-storage-leadership-with-exascaler-6-and-expanded-portfolio-for-enterprise-intelligent-infrastructure-1030569591",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/a/fc/afcd069f-109a-5e25-b5c1-2f230e1ec9d3/609a802dd1fff.image.jpg?resize=446%2C630",
-          "width": 446,
-          "height": 630,
+          "url": "https://mma.prnewswire.com/media/1191324/DDN_Logo.jpg",
+          "width": 283,
+          "height": 400,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -320,12 +629,21 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-30T18:58:00-07:00",
+      "publishedDateTime": "2021-06-30T19:12:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "WFMZ-TV",
-        "domain": "wfmz.com",
-        "images": null,
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -859,357 +1177,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-01-parrots-4g-connected-anafi-ai-drone-is-the-google-maps-car-of-the-skies.md",
-      "title": "Parrot’s 4G-connected Anafi Ai drone is the Google Maps car of the skies",
-      "excerpt": "Parrot's new 4G-connected Anafi Ai drone has no range limits and a powerful camera for breathtaking photography.",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaltrends.com/cool-tech/anafi-ai-drone-google-maps-car-skies/",
-      "originalUrl": "https://www.digitaltrends.com/cool-tech/anafi-ai-drone-google-maps-car-skies/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://icdn.digitaltrends.com/image/digitaltrends/anafi-ai_lifestyle.jpg",
-          "width": 1223,
-          "height": 790,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.digitaltrends.com/cool-tech/anafi-ai-drone-google-maps-car-skies/?amp",
-      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/cool-tech/anafi-ai-drone-google-maps-car-skies/?amp",
-      "publishedDateTime": "2021-06-30T12:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Trends",
-        "domain": "digitaltrends.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-01-maine-bans-facial-recognition-technology-from-schools-and-most-police-work.md",
-      "title": "Maine bans facial recognition technology from schools and most police work",
-      "excerpt": "Maine has passed the strongest statewide law regulating government use of facial recognition to date. The state’s House and Senate voted unanimously in favor of rules that prohibit law enforcement from using the technology unless they have probable cause that an unidentified person in an image committed a serious crime.",
-      "sourceUrl": null,
-      "webUrl": "https://www.engadget.com/maine-facial-recognition-law-191252742.html",
-      "originalUrl": "https://www.engadget.com/maine-facial-recognition-law-191252742.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 272,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.yimg.com/os/creatr-uploaded-images/2021-06/d57c59d0-d9d5-11eb-bf3d-ab677d87ebbc",
-          "width": 4379,
-          "height": 2919,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.engadget.com/amp/maine-facial-recognition-law-191252742.html",
-      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/maine-facial-recognition-law-191252742.html",
-      "publishedDateTime": "2021-06-30T12:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-01-sentinelone-ipo-how-the-company-is-riding-the-ai-wave.md",
-      "title": "SentinelOne IPO: How The Company Is Riding The AI Wave",
-      "excerpt": "SentinelOne . SentinelOne, which develops AI-powered software for cybersecurity, launched its IPO today. There was certainly substantial demand from inves",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/tomtaulli/2021/06/30/sentinelone-ipo-how-the-company-is-riding-the-ai-wave/",
-      "originalUrl": "https://www.forbes.com/sites/tomtaulli/2021/06/30/sentinelone-ipo-how-the-company-is-riding-the-ai-wave/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60dcbbcdf545ce5fff691ffb%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/tomtaulli/2021/06/30/sentinelone-ipo-how-the-company-is-riding-the-ai-wave/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tomtaulli/2021/06/30/sentinelone-ipo-how-the-company-is-riding-the-ai-wave/amp/",
-      "publishedDateTime": "2021-06-30T12:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-01-business-implications-of-ai-within-tax-accounting.md",
-      "title": "Business implications of AI within tax & accounting",
-      "excerpt": "With AI promising the greatest transformation in many industries, including tax & accounting, we need to begin asking what the implications of this will be.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/legal/transactional/business-implications-ai-within-tax-accounting-2021-06-30/",
-      "originalUrl": "https://www.reuters.com/legal/transactional/business-implications-ai-within-tax-accounting-2021-06-30/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.reuters.com/resizer/d_9infXWdH0ZCGL5iNfPeS_tdG0=/800x419/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/SYAAICV2MNP5XCQCEAKLU7LCQA.jpg",
-          "width": 800,
-          "height": 419,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-30T11:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-01-dells-199-ultrasharp-4k-webcam-has-ai-on-boardbut-no-microphone.md",
-      "title": "Dell’s $199 UltraSharp 4K webcam has AI on board—but no microphone",
-      "excerpt": "Dell's new UltraSharp camera takes aim at Logitech's high-end Brio with the same $199 price along with 4K resolution and Windows Hello-compatible infrared sensor. But despite sharing a price tag and many of the same specifications,",
-      "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/gadgets/2021/06/dells-199-ultrasharp-4k-webcam-has-ai-onboard-but-no-microphone/",
-      "originalUrl": "https://arstechnica.com/gadgets/2021/06/dells-199-ultrasharp-4k-webcam-has-ai-onboard-but-no-microphone/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2021/06/ultrasharp-on-monitor-760x380.png",
-          "width": 760,
-          "height": 380,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-30T11:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-01-gores-holdings-vi-up-12-as-matterport-to-collaborate-with-facebook-ai-research.md",
-      "title": "Gores Holdings VI Up 12% as Matterport to Collaborate With Facebook AI Research",
-      "excerpt": "By Josh Beckerman Shares of blank-check company Gores Holdings VI Inc., which is merging with spatial data company Matterport, rose 12% to $16",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/story/gores-holdings-vi-up-12-as-matterport-to-collaborate-with-facebook-ai-research-271625075865",
-      "originalUrl": "https://www.marketwatch.com/story/gores-holdings-vi-up-12-as-matterport-to-collaborate-with-facebook-ai-research-271625075865",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 95,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.marketwatch.com/amp/story/gores-holdings-vi-up-12-as-matterport-to-collaborate-with-facebook-ai-research-271625075865",
-      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/gores-holdings-vi-up-12-as-matterport-to-collaborate-with-facebook-ai-research-271625075865",
-      "publishedDateTime": "2021-06-30T10:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-01-machine-learning-helps-in-predicting-when-immunotherapy-will-be-effective.md",
-      "title": "Machine learning helps in predicting when immunotherapy will be effective",
-      "excerpt": "When it comes to defense, the body relies on attack thanks to the lymphatic and immune systems. The immune system is like the body's own personal police force as it hunts down and eliminates pathogenic villains.",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2021-06-machine-immunotherapy-effective.html",
-      "originalUrl": "https://medicalxpress.com/news/2021-06-machine-immunotherapy-effective.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2019/1-tumor.jpg",
-          "width": 1920,
-          "height": 1920,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2021-06-machine-immunotherapy-effective.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-06-machine-immunotherapy-effective.amp",
-      "publishedDateTime": "2021-06-30T10:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

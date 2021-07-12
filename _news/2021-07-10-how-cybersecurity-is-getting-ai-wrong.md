@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/07/10/how-cybersecurity-is-getting-ai-w
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/10/how-cybersecurity-is-getting-ai-wrong/amp/"
 type: article
 quality: 87
-heat: 117
+heat: 107
 published: true
 
 provider:
@@ -48,20 +48,6 @@ related:
       name: insidebigdata.com
       domain: insidebigdata.com
     quality: 17
-  - title: "Cybersecurity AI Market 2021 Evolving Technology and Growth Outlook to 2028 | Bae Systems, Cisco, Fortinet, Fireeye, Check Point, Ibm"
-    excerpt: "The global market for Cybersecurity AI offers a detailed overview of the regional and local markets. In order to provide a comprehensive market overview, the Cybersecurity AI market report includes a regional competitive landscape for the number of major service providers in the market."
-    publishedDateTime: 2021-07-07T17:50:00Z
-    webUrl: "https://manometcurrent.com/cybersecurity-ai-market-2021-evolving-technology-and-growth-outlook-to-2028-bae-systems-cisco-fortinet-fireeye-check-point-ibm/"
-    type: article
-    provider:
-      name: manometcurrent.com
-      domain: manometcurrent.com
-    quality: 6
-    images:
-      - url: "https://manometcurrent.com/wp-content/uploads/2021/07/mri8-300x259.png"
-        width: 300
-        height: 259
-        isCached: true
 
 secured: "VdSVRDXrA6dViHW7g6j2HjOOzePG+0onH9/ZvYFeIcmXYTW21Xc1uh1D6yr9YBnsO5q+OReFhNlBN9YiQDCbZf8lbqRRh8lIucKs8UeFR1F8AL68RcDsE+aF2MxD7rzzCNSQApLYCmi3JCVl+OesJzMGSzatgoo8NIHSKLxQpnn7dRck7LuI4pP/gZoFOvBeL0euTIJfi8h2hgfkwEk5zj7Dib7vvWjM/FbiI+s1quxght+oxMUoqoOTp3PC1DdlC4Wj+njP2hZ4D654r4mUbo/N+iBpQWQzewhTJGn+oPhkB0sWhx/N6iEmf37Hqwg8onOQiIYLfta51N59q9FCmZM2y/nqEh0UVqtvKzmsL+k9tGZI8TVnisiD8aH6JLqItHgOmiuuz/Ltu2qHXquVQgBiy0dDKNcH6s+RQLy1P+2qR2sBpm8E6l4M7vUSmw6GcUzYmvitRiSuEKBRo5UtcmUpKVWZemCfn2UszqUm2CET/lFDd7O2wHE+AUho9s69XgGuZsJaM1dT2qNXGQF7Jg==;ZyK+apgy9gvvnuqFK4+Y8A=="
 ---

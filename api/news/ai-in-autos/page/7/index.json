@@ -2,6 +2,59 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2021-05-18-baidu-extends-post-covid-recovery-with-quarterly-sales-beat.md",
+      "title": "Baidu Extends Post-Covid Recovery With Quarterly Sales Beat",
+      "excerpt": "prompting analysts to hike their value estimates for Baidu’s self-driving unit Apollo. The venture, Jidu Auto, aims to spend 50 billion yuan over the next five years to develop smart-car ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/news/articles/2021-05-18/baidu-extends-post-covid-recovery-with-quarterly-sales-beat",
+      "originalUrl": "https://www.bloomberg.com/news/articles/2021-05-18/baidu-extends-post-covid-recovery-with-quarterly-sales-beat",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iL2Fg2mdn_Ew/v0/1200x800.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-18T05:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Sales"
+      ]
+    },
+    {
       "path": "_news/2021-05-18-smart-ways-artificial-intelligence-could-change-online-casinos-in-the-future.md",
       "title": "Smart Ways Artificial Intelligence Could Change Online Casinos in the Future",
       "excerpt": "Artificial Intelligence is reshaping the gaming industry through availability of VR headsets in these recent years. Online casinos and other online gaming websites are booming in enhancing the exciting experience to the gamelovers at home.",
@@ -1291,49 +1344,6 @@
       "provider": {
         "name": "The Star",
         "domain": "thestar.com.my",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-12-can-federated-learning-save-the-world.md",
-      "title": "Can federated learning save the world?",
-      "excerpt": "Working with collaborators at the University of Oxford, University College London, and Avignon Université, they explored the environmental impact of a different form of training – called federated learning – and discovered that it had a significantly greener impact.",
-      "sourceUrl": null,
-      "webUrl": "https://cambridgenetwork.co.uk/news/can-federated-learning-save-world",
-      "originalUrl": "https://cambridgenetwork.co.uk/news/can-federated-learning-save-world",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cambridgenetwork.co.uk/sites/default/files/42271822770927eb47fe0o.jpg",
-          "width": 700,
-          "height": 342,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-11T16:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Cambridge Network",
-        "domain": "cambridgenetwork.co.uk",
         "images": null,
         "publishers": null,
         "authors": null

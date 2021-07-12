@@ -2,6 +2,315 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2021-07-06-charliai-ceo-on-training-ai-driven-personal-assistants.md",
+      "title": "Charli.ai CEO on training AI-driven personal assistants",
+      "excerpt": "Charli.ai CEO talks with VentureBeat about the challenges and benefits of training AI-driven digital assistants.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/07/06/charli-ai-ceo-on-training-ai-driven-personal-assistants/",
+      "originalUrl": "https://venturebeat.com/2021/07/06/charli-ai-ceo-on-training-ai-driven-personal-assistants/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/11/human_AI-e1625582446597.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/07/06/charli-ai-ceo-on-training-ai-driven-personal-assistants/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/06/charli-ai-ceo-on-training-ai-driven-personal-assistants/amp/",
+      "publishedDateTime": "2021-07-06T08:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-06-sama-validates-its-ethical-ai-supply-chain-through-a-randomized-control-study-with-mit.md",
+      "title": "Sama Validates Its Ethical AI Supply Chain Through A Randomized Control Study With MIT",
+      "excerpt": "AIis an emerging force in the business world that has the potential to either replace humans or empower humans with better tools. Sama, believes AI can enhance how we work and is advocating for “human-in-the-loop,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/christophermarquis/2021/07/06/sama-validates-its-ethical-ai-supply-chain-through-a-randomized-control-study-with-mit/",
+      "originalUrl": "https://www.forbes.com/sites/christophermarquis/2021/07/06/sama-validates-its-ethical-ai-supply-chain-through-a-randomized-control-study-with-mit/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60cb9c39ec66a9c0ee764dfa%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1200%26cropY1%3D26%26cropY2%3D589",
+          "width": 1200,
+          "height": 563,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-06T08:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2021-07-06-abundant-robotics-shuts-down-fruit-harvesting-business.md",
+      "title": "Abundant Robotics shuts down fruit harvesting business",
+      "excerpt": "Abundant Robotics, which was developing a robot to pick apples, closed its business after spinning out of SRI International in 2016.",
+      "sourceUrl": null,
+      "webUrl": "https://www.hortidaily.com/article/9337223/us-fruit-harvesting-robot-company-shuts-down/",
+      "originalUrl": "https://www.therobotreport.com/abundant-robotics-shuts-down-fruit-harvesting-business/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 194,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.hortidaily.com/remote/https/agfstorage.blob.core.windows.net/misc/HD_com/2021/07/07/appel.jpg?preset=OgImage",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-06T07:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Robot Report",
+        "domain": "therobotreport.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2021-07-06-protenus-and-uc-davis-health-present-at-himss21-on-leveraging-artificial-intelligence-to-reduce-risk-and-save-money.md",
+      "title": "Protenus and UC Davis Health Present at HIMSS21 on Leveraging Artificial Intelligence to Reduce Risk and Save Money",
+      "excerpt": "Healthcare organizations across the U.S. are struggling to protect their patients and workforce from unnecessary harm, as health data breaches and clinical drug diversion remain a constant threat, especially during the COVID-19 pandemic,",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/-protenus-uc-davis-health-present-himss21-leveraging-artificial-/2021/07/06/9403372.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-protenus-uc-davis-health-present-himss21-leveraging-artificial-/2021/07/06/9403372.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-06T06:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-06-cognitive-space-selected-to-participate-in-inaugural-aws-space-accelerator-for-startups.md",
+      "title": "Cognitive Space Selected to Participate in Inaugural AWS Space Accelerator for Startups",
+      "excerpt": "Cognitive Space today announced it has been selected to participate in the Amazon Web Services (AWS) Space Accelerator, a business support program for startups seeking to use AWS to help solve the biggest challenges in the space industry.",
+      "sourceUrl": null,
+      "webUrl": "https://www.thedailytimes.com/business/cognitive-space-selected-to-participate-in-inaugural-aws-space-accelerator-for-startups/article_219c1112-214a-503a-b2c4-583570ef7376.html",
+      "originalUrl": "https://www.thedailytimes.com/business/cognitive-space-selected-to-participate-in-inaugural-aws-space-accelerator-for-startups/article_219c1112-214a-503a-b2c4-583570ef7376.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.chicago2.vip.townnews.com/thedailytimes.com/content/tncms/assets/v3/editorial/e/d4/ed47d423-7397-5ccf-96bc-6d9338ac9ec1/60e457dbb4981.image.jpg?crop=731%2C411%2C264%2C0&resize=731%2C411&order=crop%2Cresize",
+          "width": 731,
+          "height": 411,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-06T06:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "thedailytimes.com",
+        "domain": "thedailytimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-06-cyberlinks-facial-recognition-technology-partners-with-asus-edge-computing-single-board-computers-to-create-smart-iotaiot-applications.md",
+      "title": "CyberLink's Facial Recognition Technology Partners with ASUS Edge Computing Single-board Computers to Create Smart IoT/AIoT Applications",
+      "excerpt": "CyberLink Corp. (5203.TW), a pioneer in AI and facial recognition technologies, today announced a partnership with ASUS, by integrating its FaceMe® AI",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesswire.com/news/home/20210706005212/en/CyberLinks-Facial-Recognition-Technology-Partners-with-ASUS-Edge-Computing-Single-board-Computers-to-Create-Smart-IoTAIoT-Applications",
+      "originalUrl": "https://www.businesswire.com/news/home/20210706005212/en/CyberLinks-Facial-Recognition-Technology-Partners-with-ASUS-Edge-Computing-Single-board-Computers-to-Create-Smart-IoTAIoT-Applications",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-06T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-06-chinese-scholars-want-a-voice-but-must-beware-being-counterproductive.md",
+      "title": "Chinese scholars want a voice, but must beware being counterproductive",
+      "excerpt": "Some say a Chinese theory of international relations is needed to frame China’s thinking, but justifying a party-state system may be difficult internationally.",
+      "sourceUrl": null,
+      "webUrl": "https://www.scmp.com/news/china/diplomacy/article/3140066/chinese-scholars-want-voice-must-beware-being",
+      "originalUrl": "https://www.scmp.com/news/china/diplomacy/article/3140066/chinese-scholars-want-voice-must-beware-being",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_opinion/public/d8/images/methode/2021/07/06/7dc6bc4a-de2a-11eb-9efd-49da69ae692d_image_hires_204833.jpg?itok=6wSAw6Bv&v=1625575720",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.scmp.com/news/china/diplomacy/article/3140066/chinese-scholars-want-voice-must-beware-being",
+      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/news/china/diplomacy/article/3140066/chinese-scholars-want-voice-must-beware-being",
+      "publishedDateTime": "2021-07-06T05:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "South China Morning Post",
+        "domain": "scmp.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/scmp.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-06-boosting-online-grocery-sales-and-enhancing-merchandising-through-ai.md",
       "title": "Boosting Online Grocery Sales And Enhancing Merchandising Through AI",
       "excerpt": "If you’re trying to find an AI-driven inventory management solution that’s right for you, make sure the system you choose can keep up with customer demand in real time and can integrate seamlessly with your current POS system.",
@@ -825,351 +1134,6 @@
       ],
       "topics": [
         "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-06-aiml-innovations-inc-engages-volt-strategic-partners-and-tdm-financial-for-capital-market-communications-and-market-making-services.md",
-      "title": "AI/ML Innovations Inc. Engages Volt Strategic Partners and TDM Financial for Capital Market Communications and Market-Making Services",
-      "excerpt": "Volt Strategic is a market communications and business optimization firm working with senior business leaders and innovators to help grow organizational value, build business and accelerate market appreciation for emerging technology,",
-      "sourceUrl": null,
-      "webUrl": "https://www.bignewsnetwork.com/news/270183213/aiml-innovations-inc-engages-volt-strategic-partners-and-tdm-financial-for-capital-market-communications-and-market-making-services",
-      "originalUrl": "https://www.bignewsnetwork.com/news/270183213/aiml-innovations-inc-engages-volt-strategic-partners-and-tdm-financial-for-capital-market-communications-and-market-making-services",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.bignewsnetwork.com/cus1625814794090.jpg",
-          "width": 630,
-          "height": 420,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-05T14:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Big News Network.com",
-        "domain": "bignewsnetwork.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-07-06-the-new-world-of-work-you-plus-ai.md",
-      "title": "The new world of work: You plus AI",
-      "excerpt": "Where does your enterprise stand on the AI adoption curve? Take our AI survey to find out. Emerging technologies meet both advocates and resistance as users weigh the potential benefits with the potential risks.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/07/05/the-new-world-of-work-you-plus-ai/",
-      "originalUrl": "https://venturebeat.com/2021/07/05/the-new-world-of-work-you-plus-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2015/09/artificial-intelligence-e1625315596322.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/07/05/the-new-world-of-work-you-plus-ai/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/05/the-new-world-of-work-you-plus-ai/amp/",
-      "publishedDateTime": "2021-07-05T11:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-06-pioneers-of-deep-learning-ai-think-its-future-is-gonna-be-lit.md",
-      "title": "Pioneers of deep learning AI think its future is gonna be lit",
-      "excerpt": "Yoshua Bengio, Geoffrey Hinton, and Yann LeCun, explain the current challenges of deep learning and what the future might hold",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/news/pioneers-deep-learning-future-lit-syndication",
-      "originalUrl": "https://thenextweb.com/news/pioneers-deep-learning-future-lit-syndication",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F07%2F1Yoshua-Bengio-Geoffrey-Hinton-Yann-LeCun-deep-learning.jpg&signature=85a3577f4fff3f0407c4111620ca1ebd",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-05T10:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-05-microsofts-project-alexandria-parses-documents-using-unsupervised-learning.md",
-      "title": "Microsoft’s Project Alexandria parses documents using unsupervised learning",
-      "excerpt": "Microsoft's Project Alexandria, which uses unsupervised learning to parse documents, powers the company's Viva Topics product.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/07/05/microsofts-project-alexandria-parses-documents-using-unsupervised-learning/",
-      "originalUrl": "https://venturebeat.com/2021/07/05/microsofts-project-alexandria-parses-documents-using-unsupervised-learning/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/03/GettyImages-1306394018-e1615886711349.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/07/05/microsofts-project-alexandria-parses-documents-using-unsupervised-learning/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/05/microsofts-project-alexandria-parses-documents-using-unsupervised-learning/amp/",
-      "publishedDateTime": "2021-07-05T09:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-05-obviously-ai-a-no-code-startup-for-data-analysts-increases-its-seed-round-to-47m.md",
-      "title": "Obviously AI, a no code startup for data analysts, increases its seed round to $4.7M",
-      "excerpt": "After using Obviously AI and benchmarking it against other AutoML products, Mysore was so impressed that he reached out to the startup and led the investment round. No code/low code startups have ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/07/05/obviously-ai-a-no-code-startup-for-data-analysts-increases-its-seed-round-to-4-7m/",
-      "originalUrl": "https://techcrunch.com/2021/07/05/obviously-ai-a-no-code-startup-for-data-analysts-increases-its-seed-round-to-4-7m/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 92,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/07/4.-Model-Report.png?w=680",
-          "width": 680,
-          "height": 366,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/07/05/obviously-ai-a-no-code-startup-for-data-analysts-increases-its-seed-round-to-4-7m/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/07/05/obviously-ai-a-no-code-startup-for-data-analysts-increases-its-seed-round-to-4-7m/amp/",
-      "publishedDateTime": "2021-07-05T09:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-05-bytedance-is-selling-tiktoks-ai-platform-to-other-companies.md",
-      "title": "ByteDance is selling TikTok's AI platform to other companies",
-      "excerpt": "The artificial intelligence (AI) technology that powers the popular social media platform TikTok has been put on sale by parent company ByteDance. The Beijing-based company has spun off a new division called BytePlus with the aim of reportedly selling TikTok’s AI-powered tech to customers looking to replicate the video sharing platform's success in their ecommerce apps and services.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techradar.com/in/news/bytedance-is-selling-tiktoks-ai-platform-to-other-companies",
-      "originalUrl": "https://www.techradar.com/in/news/bytedance-is-selling-tiktoks-ai-platform-to-other-companies",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 147,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/MWdebHvxdtGGoWY2BeBH5B-480-80.jpg",
-          "width": 480,
-          "height": 270,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techradar.com/in/amp/news/bytedance-is-selling-tiktoks-ai-platform-to-other-companies",
-      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/in/amp/news/bytedance-is-selling-tiktoks-ai-platform-to-other-companies",
-      "publishedDateTime": "2021-07-05T07:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-05-the-role-of-enterprises-is-artificial-intelligence-ai-taking-away-jobs.md",
-      "title": "The Role of Enterprises: Is Artificial Intelligence (AI) Taking Away Jobs?",
-      "excerpt": "It has been the rule of nature and society that when the application of technologies like Artificial Intelligence in the workforce or daily lifestyle",
-      "sourceUrl": null,
-      "webUrl": "https://fossbytes.com/artificial-intelligence-ai-taking-away-jobs-enterprise/",
-      "originalUrl": "https://fossbytes.com/artificial-intelligence-ai-taking-away-jobs-enterprise/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://fossbytes.com/wp-content/uploads/2021/07/ai-taking-over-more-jobs-in-us-2019.jpeg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://fossbytes.com/artificial-intelligence-ai-taking-away-jobs-enterprise/amp/",
-      "cdnAmpWebUrl": "https://fossbytes-com.cdn.ampproject.org/c/s/fossbytes.com/artificial-intelligence-ai-taking-away-jobs-enterprise/amp/",
-      "publishedDateTime": "2021-07-05T07:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Foss Bytes",
-        "domain": "fossbytes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

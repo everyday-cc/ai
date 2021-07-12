@@ -63,6 +63,22 @@ related:
         width: 2032
         height: 1299
         isCached: true
+  - title: "Tesla Full Self-Driving Beta 9.0 enters early access"
+    excerpt: "While having a computer crash or a smartphone not make calls isn’t catastrophic, beta testing software for fully self-driving vehicles by the public is somewhat concerning. Tesla is reportedly rolling out an early access program for the Full Self-Driving ..."
+    publishedDateTime: 2021-07-12T11:35:00Z
+    webUrl: "https://www.slashgear.com/tesla-full-self-driving-beta-9-0-enters-early-access-12682080/"
+    ampWebUrl: "https://www.slashgear.com/tesla-full-self-driving-beta-9-0-enters-early-access-12682080/amp/"
+    cdnAmpWebUrl: "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/tesla-full-self-driving-beta-9-0-enters-early-access-12682080/amp/"
+    type: article
+    provider:
+      name: SlashGear
+      domain: slashgear.com
+    quality: 89
+    images:
+      - url: "https://cdn.slashgear.com/wp-content/uploads/2021/07/tesla-model-s.jpg"
+        width: 1440
+        height: 810
+        isCached: true
   - title: "Elon Musk: Tesla will launch its ‘mind-blowing’ Full Self-Driving Beta v9 on Saturday"
     excerpt: "Tesla is currently testing the “feature complete” version of its Full Self-Driving (FSD) package in beta with a few thousand customers and employees through its early access program."
     publishedDateTime: 2021-07-08T09:59:00Z

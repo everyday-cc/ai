@@ -33,7 +33,7 @@ related:
     provider:
       name: KLAS Press Release
       domain: pressreleasepoint.com
-    quality: 52
+    quality: 54
     images:
       - url: "https://engineering.berkeley.edu/wp-content/uploads/2021/07/rma-robot-540x270.jpg"
         width: 540

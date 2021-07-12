@@ -2,6 +2,50 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-07-01-cheers-to-the-heineken-bot-self-driving-beer-delivery-robot.md",
+      "title": "Cheers to the Heineken B.O.T. Self-Driving Beer Delivery Robot",
+      "excerpt": "You could train your dog to grab one for you, which would take effort, time, and commitment. Or you could turn to Heineken's new B.O.T., which is, yep, a beer-carrying robot that brings the beers to you.",
+      "sourceUrl": null,
+      "webUrl": "https://www.motortrend.com/news/heineken-bot-beer-robot-cooler/",
+      "originalUrl": "https://www.motortrend.com/news/heineken-bot-beer-robot-cooler/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://st.motortrend.com/uploads/sites/5/2021/06/Heineken-B.O.T.-1.jpg",
+          "width": 1360,
+          "height": 765,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.motortrend.com/news/heineken-bot-beer-robot-cooler/amp/",
+      "cdnAmpWebUrl": "https://www-motortrend-com.cdn.ampproject.org/c/s/www.motortrend.com/news/heineken-bot-beer-robot-cooler/amp/",
+      "publishedDateTime": "2021-06-30T14:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Motor Trend",
+        "domain": "motortrend.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2021-06-30-this-ai-just-evolved-from-companion-robot-to-home-based-physician-helper.md",
       "title": "This AI Just Evolved From Companion Robot To Home-Based Physician Helper",
       "excerpt": "The Israeli startup has developed the AI-based, award-winning proactive social robot ElliQ which has spent over 30,000 days in older adults’ homes over the past two years. Now ElliQ will help increase patient engagement while offering primary care providers continuous actionable data and insights for early detection and intervention.",
@@ -1308,58 +1352,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-22-miso-robotics-partners-with-lancer-worldwide-to-bring-automated-beverage-dispenser-to-quick-service-restaurant-industry.md",
-      "title": "Miso Robotics Partners with Lancer Worldwide to Bring Automated Beverage Dispenser to Quick-Service Restaurant Industry",
-      "excerpt": "Today, Miso Robotics – the startup transforming the foodservice industry with Intelligent Automation – announced its partnership with Lancer Worldwide – a global beverage dispenser manufacturer trusted by the world's top food and beverage brands – to build an intelligence backed,",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/miso-robotics-partners-with-lancer-worldwide-to-bring-automated-beverage-dispenser-to-quick-service-restaurant-industry-1030541869",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/miso-robotics-partners-with-lancer-worldwide-to-bring-automated-beverage-dispenser-to-quick-service-restaurant-industry-1030541869",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1538039/Miso_Robotics_and_Lancer_Worldwide.jpg",
-          "width": 400,
-          "height": 286,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-22T02:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

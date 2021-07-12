@@ -2,6 +2,386 @@
   "page": 60,
   "value": [
     {
+      "path": "_news/2021-05-27-googles-data-cloud-summit-serves-up-a-breadth-of-new-capabilities.md",
+      "title": "Google's Data Cloud Summit Serves Up A Breadth Of New Capabilities",
+      "excerpt": "Ranked Industry Analyst Patrick Moorhead will unpack and analyze some of the announcements from this busy week at the 2021 Google Data Cloud Summit.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/patrickmoorhead/2021/05/26/googles-data-cloud-summit-serves-up-a-breadth-of-new-capabilities/",
+      "originalUrl": "https://www.forbes.com/sites/patrickmoorhead/2021/05/26/googles-data-cloud-summit-serves-up-a-breadth-of-new-capabilities/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60ae9d91fa61c9181bb6d331%2F0x0.jpg",
+          "width": 1200,
+          "height": 565,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/patrickmoorhead/2021/05/26/googles-data-cloud-summit-serves-up-a-breadth-of-new-capabilities/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/patrickmoorhead/2021/05/26/googles-data-cloud-summit-serves-up-a-breadth-of-new-capabilities/amp/",
+      "publishedDateTime": "2021-05-26T12:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-27-more-efficient-lidar-sensing-for-self-driving-cars.md",
+      "title": "More Efficient LiDAR Sensing for Self-Driving Cars",
+      "excerpt": "A new machine learning system for driverless cars uses an end-to-end mapless driving framework that taps raw Light Detection and Ranging (LiDAR) data for autonomous navigation.",
+      "sourceUrl": null,
+      "webUrl": "https://cacm.acm.org/news/252891-more-efficient-lidar-sensing-for-self-driving-cars/fulltext",
+      "originalUrl": "https://cacm.acm.org/news/252891-more-efficient-lidar-sensing-for-self-driving-cars/fulltext",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-26T11:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "acm.org",
+        "domain": "acm.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-27-pandemic-shines-spotlight-on-big-data-and-ai-in-life-sciences-and-healthcare.md",
+      "title": "Pandemic Shines Spotlight On Big Data And AI In Life Sciences And Healthcare",
+      "excerpt": "Healthcare and life science firms are becoming more aggressive, more optimistic, and more successful in achieving data-driven business outcomes that their peers in other industries in the wake of the worldwide COVID pandemic.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/randybean/2021/05/26/pandemic-shines-spotlight-on-big-data-and-ai-in-life-sciences-and-healthcare/",
+      "originalUrl": "https://www.forbes.com/sites/randybean/2021/05/26/pandemic-shines-spotlight-on-big-data-and-ai-in-life-sciences-and-healthcare/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 121,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60ae87f76fcb859005f94d8c%2F0x0.jpg",
+          "width": 1200,
+          "height": 801,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/randybean/2021/05/26/pandemic-shines-spotlight-on-big-data-and-ai-in-life-sciences-and-healthcare/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/randybean/2021/05/26/pandemic-shines-spotlight-on-big-data-and-ai-in-life-sciences-and-healthcare/amp/",
+      "publishedDateTime": "2021-05-26T10:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2021-05-27-openai-launches-100-million-startup-funded-with-backing-from-microsoft.md",
+      "title": "OpenAI launches $100 million startup funded with backing from Microsoft",
+      "excerpt": "OpenAI today launched the OpenAI Startup Fund, a $100 million early-stage venture intiative funded in part by Microsoft.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/05/26/openai-launches-100-million-startup-funded-with-backing-from-microsoft/",
+      "originalUrl": "https://venturebeat.com/2021/05/26/openai-launches-100-million-startup-funded-with-backing-from-microsoft/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 194,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/04/openai-e1591041162109.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/05/26/openai-launches-100-million-startup-funded-with-backing-from-microsoft/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/26/openai-launches-100-million-startup-funded-with-backing-from-microsoft/amp/",
+      "publishedDateTime": "2021-05-26T10:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-27-lockheed-martin-and-gm-planning-self-driving-rovers-for-nasas-return-to-the-moon.md",
+      "title": "Lockheed Martin And GM Planning Self-Driving Rovers For NASA's Return To The Moon",
+      "excerpt": "General Motors and aerospace giant Lockheed Martin are teaming up to develop new lunar vehicles that astronauts will use on NASA's upcoming missions to the Moon, the companies announced Wednesday, as the two push to join Elon Musk's SpaceX as industry partners to bring humans back to the Moon in the next few years.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/nicholasreimann/2021/05/26/lockheed-martin-and-gm-planning-self-driving-rovers-for-nasas-return-to-the-moon/",
+      "originalUrl": "https://www.forbes.com/sites/nicholasreimann/2021/05/26/lockheed-martin-and-gm-planning-self-driving-rovers-for-nasas-return-to-the-moon/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 159,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60ae8099f86d9bca57b5b640%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D2697%26cropY1%3D0%26cropY2%3D1518",
+          "width": 1199,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/nicholasreimann/2021/05/26/lockheed-martin-and-gm-planning-self-driving-rovers-for-nasas-return-to-the-moon/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/nicholasreimann/2021/05/26/lockheed-martin-and-gm-planning-self-driving-rovers-for-nasas-return-to-the-moon/amp/",
+      "publishedDateTime": "2021-05-26T10:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-26-data-for-ai-ai-in-finance-impact-applications-adoption-with-sravan-kasarla-cdo-of-thrivent.md",
+      "title": "Data for AI: ‘AI in Finance: Impact, Applications & Adoption’ with Sravan Kasarla, CDO of Thrivent",
+      "excerpt": "This month's featured presenter is Sravan Kasarla, Chief Data Officer at Thrivent For many years companies in the financial services industry have been at the forefront of using technology to",
+      "sourceUrl": null,
+      "webUrl": "https://www.geekwire.com/calendar-event/data-ai-ai-finance-impact-applications-adoption-sravan-kasarla-cdo-thrivent/",
+      "originalUrl": "https://www.geekwire.com/calendar-event/data-ai-ai-finance-impact-applications-adoption-sravan-kasarla-cdo-thrivent/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.geekwire.com/wp-content/uploads/2021/05/Data_for_AI_June_2021_Sravan_Thrivent_Graphic.png",
+          "width": 1030,
+          "height": 530,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-26T09:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GeekWire",
+        "domain": "geekwire.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/geekwire.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2021-05-26-the-worlds-smallest-fruit-picker-controlled-by-artificial-intelligence.md",
+      "title": "The world's smallest fruit picker controlled by artificial intelligence",
+      "excerpt": "Inspired by insects that suck nutrients directly from plant veins, physicists have studied whether valuable chemical substances can be harvested directly from the cells of plants. Using a harvester measuring only a few microns,",
+      "sourceUrl": null,
+      "webUrl": "https://www.sciencedaily.com/releases/2021/05/210526115531.htm",
+      "originalUrl": "https://www.sciencedaily.com/releases/2021/05/210526115531.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-26T09:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Science Daily",
+        "domain": "sciencedaily.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-26-maine-may-limit-use-of-facial-recognition-tech-by-police.md",
+      "title": "Maine May Limit Use of Facial Recognition Tech by Police",
+      "excerpt": "Portland, would allow for the use of the digital technology in the investigation of only the most serious crimes, including rape and murder.",
+      "sourceUrl": null,
+      "webUrl": "https://www.govtech.com/policy/maine-may-limit-use-of-facial-recognition-tech-by-police",
+      "originalUrl": "https://www.govtech.com/policy/maine-may-limit-use-of-facial-recognition-tech-by-police",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://erepublic.brightspotcdn.com/dims4/default/99195c7/2147483647/strip/true/crop/940x490+0+80/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2F29%2F48%2Fbaa77fdd2c0d5e2e1b638358070a%2Fshutterstock-797603911.jpg",
+          "width": 840,
+          "height": 438,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.govtech.com/policy/maine-may-limit-use-of-facial-recognition-tech-by-police?_amp=true",
+      "cdnAmpWebUrl": "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/policy/maine-may-limit-use-of-facial-recognition-tech-by-police?_amp=true",
+      "publishedDateTime": "2021-05-26T09:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Government Technology",
+        "domain": "govtech.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-26-dumbed-down-ai-rhetoric-harms-everyone.md",
       "title": "Dumbed Down AI Rhetoric Harms Everyone",
       "excerpt": "By ignorance or malice, policymakers use sweeping platitudes to regulate artificial intelligence, which may prosecute citizens more than protect them.",
@@ -804,334 +1184,6 @@
       ],
       "topics": [
         "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-26-tdra-welcomes-awss-decision-to-open-data-centers-in-the-uae.md",
-      "title": "TDRA welcomes AWS's decision to open data centers in the UAE",
-      "excerpt": "This step timing has great implications as the UAE prepares for its next fifty and developing a digital future that enhances the UAE global position as a hub for attracting investments and partnerships.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zawya.com/mena/en/press-releases/story/TDRA_welcomes_AWSs_decision_to_open_data_centers_in_the_UAE-ZAWYA20210526141121/",
-      "originalUrl": "https://www.zawya.com/mena/en/press-releases/story/TDRA_welcomes_AWSs_decision_to_open_data_centers_in_the_UAE-ZAWYA20210526141121/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.zawya.com/pr/images/2021/DG_2021_05_26.PNG",
-          "width": 450,
-          "height": 427,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zawya.com/mena/en/story/amp/ZAWYA20210526141121/",
-      "cdnAmpWebUrl": "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/ZAWYA20210526141121/",
-      "publishedDateTime": "2021-05-26T07:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Zawya",
-        "domain": "zawya.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-26-transforming-our-understanding-of-deep-learning.md",
-      "title": "Transforming our understanding of deep learning",
-      "excerpt": "A team of UK scientists from the universities of Bath, Cambridge and UCL aims to make Deep Learning (DL) more accountable and transparent by better understanding the decision making process behind ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.eurekalert.org/pub_releases/2021-05/uob-tou052621.php",
-      "originalUrl": "https://www.eurekalert.org/pub_releases/2021-05/uob-tou052621.php",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.eurekalert.org/socialshare/EurekAlert-bluebg_Twitter_1200x675.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-26T07:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "EurekAlert!",
-        "domain": "eurekalert.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-26-runai-named-as-a-2021-gartner-cool-vendor.md",
-      "title": "Run:AI named as a 2021 Gartner \"Cool Vendor\"",
-      "excerpt": "AI, creator of a cloud-native compute management platform for the AI era, announced today that it has been named a Cool Vendor in Enterprise AI Operationalization and Engineering by leading research and advisory company Gartner.",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/2021/05/26/9378502.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/2021/05/26/9378502.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-26T07:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-26-udacity-and-aws-collaborate-to-offer-more-free-courses-in-machine-learning.md",
-      "title": "Udacity And AWS Collaborate To Offer More Free Courses In Machine Learning",
-      "excerpt": "Udacity, the online learning platform powering the careers of the future, today announced the creation of the AWS Machine Learning Scholarship Program in conjunction with Amazon Web Services (AWS). The goal for this program is to remove barriers to skills training in machine learning,",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/-udacity-aws-collaborate-offer-more-free-courses-machine-/2021/05/26/9378316.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/-udacity-aws-collaborate-offer-more-free-courses-machine-/2021/05/26/9378316.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-26T06:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-26-pioneering-mind-controlled-arm-restores-sense-of-touch.md",
-      "title": "Pioneering mind-controlled arm restores sense of touch",
-      "excerpt": "(MENAFN - Jordan Times) WASHINGTON — Imagine being able to control a robotic arm from a distance, using only your mind. Now imagine being able to feel when its fingers grasp an object ...",
-      "sourceUrl": null,
-      "webUrl": "https://menafn.com/1102139423/Pioneering-mind-controlled-arm-restores-sense-of-touch&source=139",
-      "originalUrl": "https://menafn.com/1102139423/Pioneering-mind-controlled-arm-restores-sense-of-touch&source=139",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://menafn.com/updates/pr/2021-05/26/JT_f0f236cb-eimage_story.jpg",
-          "width": 640,
-          "height": 426,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-26T05:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Middle East North Africa Financial Network",
-        "domain": "menafn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-26-why-data-for-ai-providers-need-a-problem-solving-mindset.md",
-      "title": "Why Data-for-AI Providers Need a Problem-Solving Mindset",
-      "excerpt": "Data-for-AI experts from Venga Global, e2f, and Oxford University Press discuss data annotation, AI use cases, and working with big tech.",
-      "sourceUrl": null,
-      "webUrl": "https://slator.com/features/why-data-for-ai-providers-need-a-problem-solving-mindset/",
-      "originalUrl": "https://slator.com/features/why-data-for-ai-providers-need-a-problem-solving-mindset/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://slator.com/assets/2021/05/Data-for-AI-Panel-Article-Image.png",
-          "width": 600,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-26T05:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Slator",
-        "domain": "slator.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-26-laser-driven-ion-acceleration-with-deep-learning.md",
-      "title": "Laser-driven ion acceleration with deep learning",
-      "excerpt": "While advances in machine learning over the past decade have made significant impacts in applications such as image classification, natural language processing and pattern recognition, scientific endeavors have only just begun to leverage this technology.",
-      "sourceUrl": null,
-      "webUrl": "https://phys.org/news/2021-05-laser-driven-ion-deep.html",
-      "originalUrl": "https://phys.org/news/2021-05-laser-driven-ion-deep.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2021/laser-driven-ion-accel.jpg",
-          "width": 1358,
-          "height": 1210,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://phys.org/news/2021-05-laser-driven-ion-deep.amp",
-      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-05-laser-driven-ion-deep.amp",
-      "publishedDateTime": "2021-05-26T05:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Phys.org",
-        "domain": "phys.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2021-05-26-kms-lighthouse-now-available-in-microsoft-azure-marketplace.md",
-      "title": "KMS Lighthouse Now Available in Microsoft Azure Marketplace",
-      "excerpt": "KMS Lighthouse, a global leader in knowledge management, announced today the availability of the Lighthouse solution on the Microsoft Azure Marketplace, an",
-      "sourceUrl": null,
-      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/kms-lighthouse-now-available-in-microsoft-azure-marketplace/article_d697feb3-5f08-5e8e-8f1e-9ea617be8faf.html",
-      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/kms-lighthouse-now-available-in-microsoft-azure-marketplace/article_d697feb3-5f08-5e8e-8f1e-9ea617be8faf.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-26T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WFMZ-TV",
-        "domain": "wfmz.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

@@ -58,20 +58,6 @@ related:
         width: 1426
         height: 808
         isCached: true
-  - title: "Advances in application of Artificial Intelligence"
-    excerpt: "Scientists have recorded major breakthroughs in the application of Artificial Intelligence (AI) in health, weather forecasting and other areas of science."
-    publishedDateTime: 2021-07-08T04:11:00Z
-    webUrl: "https://guardian.ng/features/advances-in-application-of-artificial-intelligence/"
-    type: article
-    provider:
-      name: The Guardian Nigeria
-      domain: guardian.ng
-    quality: 41
-    images:
-      - url: "https://guardian.ng/wp-content/uploads/2019/09/Artificial-Intelligence-is-revolutionizing-the-Healthcare-Industry.jpg"
-        width: 1280
-        height: 719
-        isCached: true
   - title: "NNSA leads national collaboration to drive next-generation in AI for nonproliferation"
     excerpt: "Within NNSA, the Office of Defense Nuclear Nonproliferation Research and Development (DNN R&D) is spearheading collaborative efforts to drive advances in the science of artificial intelligence (AI), and accelerate the adoption of AI-enabled technologies to solve difficult and pressing nuclear nonproliferation and national security challenges."
     publishedDateTime: 2021-07-09T00:00:00Z
@@ -82,6 +68,6 @@ related:
       domain: energy.gov
     quality: 10
 
-secured: "xe5LE4a/WCbh1Mqk0QIYhLL3GWzgyb7+7EFZKMzQJuy3ANHkNZi9CX4BXqo6s0s2OP2KMIVnkdIZvN/lJ810L3UcpBeOOCqxHs87aqnaXidVLgMR6Dv6jJK+qjKntg+gop17OEt20GPbf4/wuky6PxgxaBLGAXJNKPG72RsrYq7XVhy4Ze00UyVkhAO6TBPyBYl2fEpWWXogZV/Cq4XS/WKf/ca8zhdP+X72rlqOcnjl92z9z4NggFa8wlx07I/2vs/toM2ZOXJGbKrwfAILSzabmgxYM3BzIBUP0bvXHYood6FQMyR0uGoXZZplupD5HqokY5RFTOolNuK9pc/HK1VJrZmuLZh5YR3kZXNPrLg=;FbmqCe5vg8GLnmBEyT1kBQ=="
+secured: "XRYN/deEeHttV0NVfT0U3tAkCVzWiLMULqkU7TMEh31jnwytRPLnVUT0vUv+8hTyRdCapRAYYHOcCWYHbbCxuQ95CPC3e/paBww62140DtQwy1L5UsD9Ktf5loMWUi2VwwvS1cNuE0Vc7Kn9YR2DxBKf5wtpob65wk27wrpLZ9yoVoYG41NsBbAVPScg8KvFr01lZcH49V7/XQeN2/vm8MkST5WfxBdRJj0vbZKYfOB+Z4DgJfJw+1C8PYuUBjOLctW7Lj9k0XCs2CbIhuom5bQfxJQeYDRaEiFuvem8LoFpCILhaIMzBHV1ub+Sx/f9WHLRNigeXIsWxA7KC3DXNB13EGxbC3HGMosprRqpQoiUt73pgcR9X2o+wVqgTWVqK1kNmw5kxwbpUF4h2rmA+vcLL6D/5CdwQnYMYSKyS+9NtK1rVCGht2++xWZ0ekey1Qk0ayfS2h78Tit2BPoTMZuyiJkm9+jCYfrUm8pW4DecYKS3pXrTnmcPrqGpy0CeBtO4dO3HYt7G4gti62BrlA==;rH8faPpq3kbgfLxqkZsXJg=="
 ---
 

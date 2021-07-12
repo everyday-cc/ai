@@ -77,6 +77,20 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Artificial Intelligence Is On The Side Of Apes? Tesla-Fame's AI-Based ETF Sells Facebook, Walmart And Buys AMC"
+    excerpt: "The Qraft AI-Enhanced US Large Cap Momentum ETF (NYSE: AMOM), an exchange-traded fund driven by artificial intelligence, has sold a majority of its holdings in Facebook Inc. (NASDAQ: FB) and Walmart Inc."
+    publishedDateTime: 2021-07-12T11:31:00Z
+    webUrl: "https://markets.businessinsider.com/news/etf/artificial-intelligence-is-on-the-side-of-apes-tesla-fame-s-ai-based-etf-sells-facebook-walmart-and-buys-amc-1030596697"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 79
+    images:
+      - url: "https://cdn.benzinga.com/files/imagecache/1024x768xUP/images/story/2012/3090841071_105297e728_o_6.jpg"
+        width: 1024
+        height: 768
+        isCached: true
   - title: "Facebook’s AI researchers are teaching robots to walk like humans"
     excerpt: "Rapid Motor Adaptation — is a “breakthrough” in artificial intelligence (AI). It allows robots to walk on sand, in mud, hiking trails, tall grass and over a dirt pile “without a single failure” during"
     publishedDateTime: 2021-07-10T04:30:00Z
@@ -106,20 +120,6 @@ related:
       - url: "https://www.cs.cmu.edu/sites/default/files/web_rma%20003.jpg"
         width: 600
         height: 423
-        isCached: true
-  - title: "How AI-Powered Robots are Helping the Food Industry"
-    excerpt: "Human staff plays an integral role in the food robotics evolution. AI-powered robots will bring the future of highly personalized, healthy, fresh, and delicious food options to life. Thanks in large part to pandemic pressures,"
-    publishedDateTime: 2021-07-07T17:26:00Z
-    webUrl: "https://www.qsrmagazine.com/outside-insights/how-ai-powered-robots-are-helping-food-industry"
-    type: article
-    provider:
-      name: QSR magazine
-      domain: qsrmagazine.com
-    quality: 54
-    images:
-      - url: "https://www.qsrmagazine.com/sites/default/files/styles/story_page/public/2021-07/restaurantkitchen.jpg?itok=neeOD7GI"
-        width: 765
-        height: 446
         isCached: true
   - title: "Facebook teaches walking AI robots to adapt on the fly to terrain such as dirt, sand and even swamps"
     excerpt: "Facebook teaches walking AI robots to adapt on the fly to terrain such as dirt, sand and even swamps - SiliconANGLE"

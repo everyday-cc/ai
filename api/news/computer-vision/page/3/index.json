@@ -2,6 +2,145 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-06-17-tractable-becomes-worlds-first-computer-vision-unicorn-for-financial-services.md",
+      "title": "Tractable becomes world's first computer vision unicorn for financial services",
+      "excerpt": "The round doubles the total raised by Tractable from $55M to $115M and values the company at $1B – making it the world's first computer vision 'unicorn' for financial services. When drivers get into an accident,",
+      "sourceUrl": null,
+      "webUrl": "https://www.morningstar.com/news/pr-newswire/20210617ny13940/tractable-becomes-worlds-first-computer-vision-unicorn-for-financial-services",
+      "originalUrl": "https://www.morningstar.com/news/pr-newswire/20210617ny13940/tractable-becomes-worlds-first-computer-vision-unicorn-for-financial-services",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-16T22:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Morningstar, Inc.",
+        "domain": "morningstar.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2021-06-17-uk-computer-vision-startup-tractable-reaches-unicorn-status.md",
+      "title": "U.K. Computer Vision Startup Tractable Reaches Unicorn Status",
+      "excerpt": "The London-based startup that uses AI to assess auto claims for insurers like Geico has raised $60 million at a $1 billion valuation.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/iainmartin/2021/06/16/uk-computer-vision-startup-tractable-reaches-unicorn-status/",
+      "originalUrl": "https://www.forbes.com/sites/iainmartin/2021/06/16/uk-computer-vision-startup-tractable-reaches-unicorn-status/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60ca8ceaf4d0e7bf31d71929%2F0x0.jpg",
+          "width": 1200,
+          "height": 799,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/iainmartin/2021/06/16/uk-computer-vision-startup-tractable-reaches-unicorn-status/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/iainmartin/2021/06/16/uk-computer-vision-startup-tractable-reaches-unicorn-status/amp/",
+      "publishedDateTime": "2021-06-16T17:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-17-tractable-uses-computer-vision-to-accelerate-insurance-claims.md",
+      "title": "Tractable uses computer vision to accelerate insurance claims",
+      "excerpt": "Tractable's AI performs a real-time analysis that helps insurance companies quickly decide whether a car can be fixed.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/06/16/tractable-uses-computer-vision-to-accelerate-insurance-claims/",
+      "originalUrl": "https://venturebeat.com/2021/06/16/tractable-uses-computer-vision-to-accelerate-insurance-claims/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/06/1.2-EN-RGB-AI-Inspection-from-Tractable-01-e1623853027298.png?fit=800%2C383&strip=all",
+          "width": 770,
+          "height": 383,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/06/16/tractable-uses-computer-vision-to-accelerate-insurance-claims/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/16/tractable-uses-computer-vision-to-accelerate-insurance-claims/amp/",
+      "publishedDateTime": "2021-06-16T16:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-16-trigo-bags-10m-for-its-computer-vision-based-checkout-tech-to-rival-amazons-just-walk-out.md",
       "title": "Trigo bags $10M for its computer-vision based checkout tech to rival Amazon’s ‘Just Walk Out’",
       "excerpt": "While Amazon continues to expand its self-service, computer-vision-based grocery checkout technology by bringing it to bigger stores, an AI startup out of Israel that’s built something to rival it has picked up funding and a new strategic investor as a customer.",
@@ -1219,137 +1358,6 @@
       "provider": {
         "name": "The Baltimore Sun",
         "domain": "baltimoresun.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-07-prospera-technologies-named-a-cool-vendor-in-the-2021-gartner-cool-vendors-in-ai-for-computer-vision.md",
-      "title": "Prospera Technologies Named a Cool Vendor in the 2021 Gartner Cool Vendors in AI for Computer Vision",
-      "excerpt": "Prospera Technologies, an agricultural technology company recently acquired by Valmont® Industries Inc. (NYSE: VMI), announced today that Gartner has recognized the company in its report, “Cool Vendors in AI for Computer Vision.",
-      "sourceUrl": null,
-      "webUrl": "https://www.financialbuzz.com/prospera-technologies-named-a-cool-vendor-in-the-2021-gartner-cool-vendors-in-ai-for-computer-vision/",
-      "originalUrl": "https://www.financialbuzz.com/prospera-technologies-named-a-cool-vendor-in-the-2021-gartner-cool-vendors-in-ai-for-computer-vision/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-07T06:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Financial Buzz",
-        "domain": "financialbuzz.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-06-microsofts-kate-crawford-ai-is-neither-artificial-nor-intelligent.md",
-      "title": "Microsoft’s Kate Crawford: ‘AI is neither artificial nor intelligent’",
-      "excerpt": "The AI researcher on how natural resources and human labour drive machine learning and the regressive stereotypes that are baked into its algorithms",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/technology/2021/jun/06/microsofts-kate-crawford-ai-is-neither-artificial-nor-intelligent",
-      "originalUrl": "https://www.theguardian.com/technology/2021/jun/06/microsofts-kate-crawford-ai-is-neither-artificial-nor-intelligent",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 98,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/0a2237e46f5eb91b40f9dcd41a92d8e16b5c2406/0_248_6679_4008/master/6679.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=8089cb1e6c147a9cc02432013cc6f397",
-          "width": 600,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/technology/2021/jun/06/microsofts-kate-crawford-ai-is-neither-artificial-nor-intelligent",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2021/jun/06/microsofts-kate-crawford-ai-is-neither-artificial-nor-intelligent",
-      "publishedDateTime": "2021-06-06T00:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI",
-        "AI Ethics",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2021-06-06-facial-recognition-for-fish-researchers-test-technology-on-asian-carp-in-battle-to-stop-invasive-species.md",
-      "title": "Facial recognition for fish? Researchers test technology on Asian carp in battle to stop invasive species",
-      "excerpt": "There may come a day on the Illinois River when a fish swims up a chute, slides through a scanner, and, after being recognized as a feared",
-      "sourceUrl": null,
-      "webUrl": "https://www.winonadailynews.com/facial-recognition-for-fish-researchers-test-technology-on-asian-carp-in-battle-to-stop-invasive/article_a42636df-5983-5747-9bc8-644e2b27a3a7.html",
-      "originalUrl": "https://www.winonadailynews.com/facial-recognition-for-fish-researchers-test-technology-on-asian-carp-in-battle-to-stop-invasive/article_a42636df-5983-5747-9bc8-644e2b27a3a7.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.chicago2.vip.townnews.com/winonadailynews.com/content/tncms/assets/v3/editorial/5/94/594dc2cd-0927-5a8d-845c-366ae7187992/60bbe7f259288.image.jpg?resize=1024%2C657",
-          "width": 1024,
-          "height": 657,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.winonadailynews.com/facial-recognition-for-fish-researchers-test-technology-on-asian-carp-in-battle-to-stop-invasive/article_a42636df-5983-5747-9bc8-644e2b27a3a7.amp.html",
-      "cdnAmpWebUrl": "https://www-winonadailynews-com.cdn.ampproject.org/c/s/www.winonadailynews.com/facial-recognition-for-fish-researchers-test-technology-on-asian-carp-in-battle-to-stop-invasive/article_a42636df-5983-5747-9bc8-644e2b27a3a7.amp.html",
-      "publishedDateTime": "2021-06-05T11:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Winona Daily News",
-        "domain": "winonadailynews.com",
         "images": null,
         "publishers": null,
         "authors": null
