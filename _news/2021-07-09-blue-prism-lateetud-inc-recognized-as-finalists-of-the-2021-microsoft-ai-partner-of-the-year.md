@@ -1,18 +1,22 @@
 ---
 category: news
 title: "Blue Prism & Lateetud, Inc. recognized as finalists of the 2021 Microsoft AI Partner of the Year"
-excerpt: "LONDON and AUSTIN, Texas and WASHINGTON, July 8, 2021 /PRNewswire/ -- Blue Prism® and Lateetud today announced that their joint solution has been named a finalist for the Artificial Intelligence"
-publishedDateTime: 2021-07-08T19:05:00Z
-originalUrl: "https://tylerpaper.com/news/texas/blue-prism-lateetud-inc-recognized-as-finalists-of-the-2021-microsoft-ai-partner-of-the/article_0497dbe3-6656-5888-b541-2e776a6521ce.html"
-webUrl: "https://tylerpaper.com/news/texas/blue-prism-lateetud-inc-recognized-as-finalists-of-the-2021-microsoft-ai-partner-of-the/article_0497dbe3-6656-5888-b541-2e776a6521ce.html"
+excerpt: "LONDON and AUSTIN, Texas and WASHINGTON, July 8, 2021 /PRNewswire/ -- Blue Prism® and Lateetud today announced that their joint solution has been"
+publishedDateTime: 2021-07-08T21:05:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/blue-prism-lateetud-inc-recognized-as-finalists-of-the-2021-microsoft-ai-partner-of-the-year-1030591185"
+webUrl: "https://markets.businessinsider.com/news/stocks/blue-prism-lateetud-inc-recognized-as-finalists-of-the-2021-microsoft-ai-partner-of-the-year-1030591185"
 type: article
-quality: 21
+quality: 51
 heat: -1
 published: false
 
 provider:
-  name: Tyler Morning Telegraph
-  domain: tylerpaper.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Microsoft AI
@@ -52,7 +56,7 @@ related:
   - title: "D2iQ Now Available in the Microsoft Azure Marketplace"
     excerpt: "D2iQ, a leading independent Kubernetes platform, today announced the availability of the D2iQ Kubernetes Platform (DKP), including D2iQ Kommander, D2iQ Konvoy, and D2iQ Kaptain, in the Microsoft Azure Marketplace,"
     publishedDateTime: 2021-07-12T13:07:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2021/07/12/9406732.htm"
+    webUrl: "https://www.tmcnet.com/usubmit/-d2iq-now-available-the-microsoft-azure-marketplace-/2021/07/12/9406732.htm"
     type: article
     provider:
       name: TMCnet
@@ -162,6 +166,6 @@ related:
       domain: tmcnet.com
     quality: 14
 
-secured: "JoXhOTz8JeqtDyYHoySlr0Fgwm+vMS6I9dZZhwbAi4YarU9RFm5U50YPoM0laAcOJBUgH3NSDZswdXPFIe4VUGPvMd/ofPT5obZgFT0kNemjwUd+DW26TR8xqxqdUNjRMLFtI1zSF5Zda+iuptX3byvytI5ydbuDycYiWin1/sf1QcfDqDdn23RpJpcOfifXwb3M1uRQTrpl/bAUhXy/nmiUfRknRzcNLG430Ds8xz/wM6QsusUcKiXfVbSDOJ3NUG7JmA6XUqpNKIOeb5tFxwOyTahxFW3eIw1+gz0d+yfGWntzCzf7kSP4EZp9HPF7dXMx2evFZz6pq+bYIVr904t+S7yObvvCmQwWl/FkFMM=;t0avrSjpohyRAOmOGq+98Q=="
+secured: "6HfVhRgwDj3WXGbJnCQmjpRFKjwvZJOSg/fekf5KRAIZcEElSgkdVnMNvdfAZYlU/3JjUj8HH1WPNGOGjMShKeb29kZ2R31tC4DHQz84m6gQqY0YD9ps1j02vWNJAxwcok6IFmVY7DpKt12jbb/rnwYsTeRYsyZOeT7HVtRnN3BzGuMXroYFWG97wGQQXuV/Hasmxbcmjtn+0zWeY5vN3MJ4SeIx6QauLtPR1Ipxt6dDkk4hebgZz+usRrWWAALAXSwIEisM6/c7arTP0klZqm6LCkOSSJ+kx4Bgfw9ibhBxrDSQnKw/t3FbeDdklxmqWQpimwkiRdBEinxiJ2yfOw6k9P9tu5seQgMDASVmvLc=;NWHgfs3FSrrv9eFjvEx2Xg=="
 ---
 

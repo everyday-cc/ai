@@ -356,6 +356,20 @@ related:
       name: Phone Arena
       domain: phonearena.com
     quality: 39
+  - title: "Tesla’s Full Self-Driving beta ticks up to version 9.0"
+    excerpt: "Tesla has begun sending out an extremely limited amount of over-the-air updates to bring its Full Self-Driving (FSD) Beta up to version 9. The new update enables members of Teslas"
+    publishedDateTime: 2021-07-12T18:32:00Z
+    webUrl: "https://knowtechie.com/teslas-full-self-driving-beta-ticks-up-to-version-9-0/"
+    type: article
+    provider:
+      name: KnowTechie
+      domain: knowtechie.com
+    quality: 39
+    images:
+      - url: "https://mk0knowtechiec1j578p.kinstacdn.com/wp-content/uploads/2020/09/tesla-hw2-autopilot-promo-1000x600.jpg"
+        width: 1000
+        height: 600
+        isCached: true
   - title: "Tesla’s Full Self-Driving Beta v9 Released, Here’s How It Looks"
     excerpt: "Tesla's Full Self-Driving Beta v9 software has just been released for compatible vehicles. Here are all the details on this, including how it looks."
     publishedDateTime: 2021-07-12T17:11:00Z
@@ -405,6 +419,6 @@ related:
       domain: tweaktown.com
     quality: 19
 
-secured: "C9eBBQvQsjIQg55ZY1R7hj3fcNadQ9YgfMzdveJn2EVIBnmjh6jSCHxBY95qo96MvmjIDiD5qPa0oaAS1CK34LX8Sf+yZNCSNm4ck6ieh2pgRE7TJbDTlrUS/sn6uECDtMh1/LVLvTAR1e//lrGmgTMoCNkcwJufRWK3aqs4zh/9W5Yj9jkw6DQ+dXZGNWbGo4jmw/35n1z3dDjX03KaowIXScRT3cqEAiAtEG6ExTbELK7m1uTkxtTxoT+TzmpkSvpP4YhzX2C3t5qDQ3J2xH7GOwgL53lYRFr1dA9wiQDLC4MZeYxdMMIz3baj9EPfFQRrZj5kMeeY70IleNtnTT4HErLeKIOT652yeQqKr68=;Epg9mSr6KShN8a9ZHIfIcA=="
+secured: "DmEEkMTh8wjslilsOjr1ZeMHKkT1P6uvT7Pe1/5OkrIQICezdWr2kRGD6kmaQQ5adUnYx+kMKaThIbvB2emsJJyBhnIWlaSMBxRSGy6OzHaiLmZs/WRXqXv+qY/SQKKR3qlaAbBcQfHD20+B+vu8WxdAVuDvhbvj8/hE4w+UFYQZYNqFxjsCb3OCySQqm3oz2Rvjt1zq6FkiJU5Wf8SMNC6gF5eWE9BVHOfbGYnRmwd0i/LZWAwMjXOj28W//2xvUlcY27IZOwpmZ7Sxy5wxWMPE2w4qC3DYnBr0Z7GeSv6uPx3eXAw55HTVsPgsudWz5j2d1UGI3lQW1Bp7G7OLnrSTdkh1ImzI8sUM5sc+GRiOcS6e5HfierXFfgaIdW6h4f1ufjWqrLlMsIoBs8qHLZTHXNmodmoOM8fNYoK7oRdKmj7zOaTKpH71jU0g6Xs3wClkst0yK5tsNzS1jSOAVfHdGSxZEYk4MvLwZs62NcxnP2vePO6cK3Y+hUbDzKb1nVA0YAw+HPKhsy66LwreqA==;Y4/AsjM+rZSjJ0iy3+jsfg=="
 ---
 

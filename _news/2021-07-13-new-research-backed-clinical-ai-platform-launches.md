@@ -1,0 +1,44 @@
+---
+category: news
+title: "New Research-Backed Clinical AI Platform Launches"
+excerpt: "Bayesian Health, an AI and machine learning platform, launched Monday with an accompanying study revealing faster recognition and treatment times for patients."
+publishedDateTime: 2021-07-12T19:14:00Z
+originalUrl: "https://www.healthleadersmedia.com/technology/new-research-backed-clinical-ai-platform-launches"
+webUrl: "https://www.healthleadersmedia.com/technology/new-research-backed-clinical-ai-platform-launches"
+type: article
+quality: 37
+heat: 37
+published: false
+
+provider:
+  name: HealthLeaders Media
+  domain: healthleadersmedia.com
+
+topics:
+  - AI
+
+images:
+  - url: "https://www.healthleadersmedia.com/sites/hlmp/files/files/shutterstock_1203309871%20%282%29%20%281%29.jpg"
+    width: 2732
+    height: 1200
+    isCached: true
+
+related:
+  - title: "AI-powered, crowdsourced market research platform Promos raises $1 million"
+    excerpt: "Madrid’s startup combining machine learning and crowdsourced market research data Promos has closed a $1 million financing round. The firm blends computer vision AI and crowdsourced shopping receipts to output real-time consumer purchasing behaviour reports."
+    publishedDateTime: 2021-07-08T08:00:00Z
+    webUrl: "https://tech.eu/brief/ai-powered-crowdsourced-market-research-platform-promos-raises-1-million/"
+    type: article
+    provider:
+      name: Tech.eu
+      domain: tech.eu
+    quality: 35
+    images:
+      - url: "https://tech.eu/wp-content/uploads/2021/07/promos-1-1.jpg"
+        width: 1600
+        height: 700
+        isCached: true
+
+secured: "Mwg7s6WeIegzLMmqDwl4Purzev2VaL27tLlGxYFBzgbfoaiqUy7os8CnJKj320DX7Dto7oJ37S6f56lH4xzGNPWBzqOmq5SCuGd75JYiOFRFoWILVNtCjMov6DVLYFtrZl485cn3LZUXa0giyHAbykMjQ81G9gS0DLexbm6CDm5GymUqSSL0kHXbhY6eR6/m/rgph6zKHpcBllrUoBpA2o4P59c8XOQ2YDxHT8ZN1Uv78kop/iMaA1WiAurHSuES0pUnRAdHDC5ibZ/fRNM8YywfUBFvG9HokFYB+13sqBC0RioeZTf9HCS+cQ3zv+8ERO80CKDRSg3pV7GcmBzfldLN9928w0laPPIiOCRbk6M=;vkjTAneKMPskgRdjSdSzvg=="
+---
+

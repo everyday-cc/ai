@@ -44,7 +44,7 @@ related:
   - title: "D2iQ Now Available in the Microsoft Azure Marketplace"
     excerpt: "D2iQ, a leading independent Kubernetes platform, today announced the availability of the D2iQ Kubernetes Platform (DKP), including D2iQ Kommander, D2iQ Konvoy, and D2iQ Kaptain, in the Microsoft Azure Marketplace,"
     publishedDateTime: 2021-07-12T13:07:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2021/07/12/9406732.htm"
+    webUrl: "https://www.tmcnet.com/usubmit/-d2iq-now-available-the-microsoft-azure-marketplace-/2021/07/12/9406732.htm"
     type: article
     provider:
       name: TMCnet
@@ -117,6 +117,15 @@ related:
         width: 300
         height: 300
         isCached: true
+  - title: "Blue Prism & Lateetud, Inc. recognized as finalists of the 2021 Microsoft AI Partner of the Year"
+    excerpt: "LONDON and AUSTIN, Texas and WASHINGTON, July 8, 2021 /PRNewswire/ -- Blue Prism® and Lateetud today announced that their joint solution has been"
+    publishedDateTime: 2021-07-08T21:05:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/blue-prism-lateetud-inc-recognized-as-finalists-of-the-2021-microsoft-ai-partner-of-the-year-1030591185"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 51
   - title: "CIBC inks Microsoft Azure deal"
     excerpt: "Azure will support the migration of hundreds of applications to the cloud, as well as offer scalable computing power for CIBC's enterprise data lake and AI platform. The bank will also get access to a suite of Microsoft training programmes and ..."
     publishedDateTime: 2021-07-11T23:23:00Z
@@ -134,15 +143,6 @@ related:
     provider:
       name: Morningstar, Inc.
       domain: morningstar.com
-    quality: 21
-  - title: "Blue Prism & Lateetud, Inc. recognized as finalists of the 2021 Microsoft AI Partner of the Year"
-    excerpt: "LONDON and AUSTIN, Texas and WASHINGTON, July 8, 2021 /PRNewswire/ -- Blue Prism® and Lateetud today announced that their joint solution has been named a finalist for the Artificial Intelligence"
-    publishedDateTime: 2021-07-08T19:05:00Z
-    webUrl: "https://tylerpaper.com/news/texas/blue-prism-lateetud-inc-recognized-as-finalists-of-the-2021-microsoft-ai-partner-of-the/article_0497dbe3-6656-5888-b541-2e776a6521ce.html"
-    type: article
-    provider:
-      name: Tyler Morning Telegraph
-      domain: tylerpaper.com
     quality: 21
   - title: "Insight Wins 2021 Microsoft Worldwide Partner of the Year Awards for Azure Migration and Solution Assessments"
     excerpt: "Insight Enterprises (NASDAQ:NSIT), the global provider of Insight Intelligent Technology Solutions™ for organizations of all sizes, today announced it has won two 2021 Microsoft ( News - Alert) Worldwide Partner of the Year Awards as Migration to Azure Partner of the Year and Solution Assessments Partner of the Year."
@@ -163,6 +163,6 @@ related:
       domain: tmcnet.com
     quality: 14
 
-secured: "m9z2Hun0bsCl7vtnt+mp86a7BXcxVGeybAWl5lQohavcVLy+EXy07a69tOlclmx6xV339DYTcAT4YRGzCVIoXhrXcZb+3erjKmV9+zJ8U6go9US8CLlKXY39LKoCfdUrVJ5el1amglB0Rxu23RY19O2S7HK8p+wdQdvMr+rqvurgC7JJt7Vq6c8mqNpUWuzi2iyULxUfpvt6YW5msI3y7pSMCViy+py+oI5ax2yoBQr4t3PWSCiYwvDxhFvNdaZgnthpe7Czi8lLnvEEIGT3x/EHZzhEUMx0qgcvzUPpI+cdUhiQWlX+kdZM3iCr/q9atfp+Ib+P6g3xq6HCZNDQHTV/ZP3exlcqUHHfky6DRS4=;srosql9eicj680M9fBOgIg=="
+secured: "QAJPDnGSfXK6SIwL7Jzzw911On7Fh7OClsKBNiisTkNJdAwprkjtAz4XzFYX9E3/sKRL/i6swYJhU/Jb5NSUe+hGcsSEBn6CJKBZSrxGq/wPaGJjNGTOZIqJnPGbRN2DM3k7qarmqKIMFMwdDoRJNNz49hKbXhcG/mZLUOxrZref9kpEoVjXj81K26q8W9pnZE++THG9Zi7t3Re7rC4MXD/zsIS9n/l7hB8zA+bh9AkRwR6gCGzjeSVMnvBEdP5e6TTfieHnbyaWFetl/Nt8Dt36YCFIkeORofVlE5OBJ29SjjCnqUOe/I6tcwzb+pUyCovd5nLFCKpsKOkEgWwgro71x1+5My78f4wpaGUqf0319s3G5DtIQY7uCAHkb1EoUzrO3xBVIz1w9l+ZwmOJwCD1U/74sX/3cGdCOlxBlraxS+vXoPTw8yhHVtcBRlUN9wL6BqpAZPQzlAKfm+Y7Go9rnWCPckX6ctArIIFOZnoO7a1qi9TIDKggNc+4zn0fYdAlmCzqfke+Xqal6yoNFw==;g+Fbg1/PlFBsFLX88dPjPA=="
 ---
 

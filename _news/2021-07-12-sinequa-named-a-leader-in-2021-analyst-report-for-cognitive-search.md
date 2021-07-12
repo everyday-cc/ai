@@ -6,7 +6,7 @@ publishedDateTime: 2021-07-12T16:03:00Z
 originalUrl: "https://www.businesswire.com/news/home/20210712005394/en/Sinequa-Named-a-Leader-in-2021-Analyst-Report-for-Cognitive-Search"
 webUrl: "https://www.businesswire.com/news/home/20210712005394/en/Sinequa-Named-a-Leader-in-2021-Analyst-Report-for-Cognitive-Search"
 type: article
-quality: 4
+quality: 6
 heat: -1
 published: false
 
@@ -17,12 +17,13 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+  - Microsoft AI
 
 related:
   - title: "DeepSee.ai Named a 2021 Gartner Cool Vendor in Conversational and Natural Language Technologies"
     excerpt: "DeepSee.ai, a provider of AI-powered automation that solves line-of-business problems in Capital Markets and Insurance industries, announced today that it has been named a 2021 \"Cool Vendor\" by Gartner ( News - Alert) in the latest industry report on Conversational and Natural Language Technologies."
     publishedDateTime: 2021-07-12T15:24:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-deepseeai-named-2021-gartner-cool-vendor-conversational-natural-/2021/07/12/9406890.htm"
+    webUrl: "https://www.tmcnet.com/usubmit/2021/07/12/9406890.htm"
     type: article
     provider:
       name: TMCnet

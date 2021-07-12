@@ -332,20 +332,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "China’s Tencent Is Using Facial Recognition To Stop Kids From Playing Video Games at Night"
-    excerpt: "Chinese gaming giant Tencent is using facial recognition software to prevent kids from gaming between the hours of 10 p.m. and 8 a.m. “We will conduct a face screening for accounts registered ..."
-    publishedDateTime: 2021-07-08T01:37:00Z
-    webUrl: "https://hypebeast.com/2021/7/china-tencent-facial-recognition-children-video-games"
-    type: article
-    provider:
-      name: Hypebeast
-      domain: hypebeast.com
-    quality: 29
-    images:
-      - url: "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2021%2F07%2FTencent-Is-Using-Facial-Recognition-To-Monitor-Kids-Screen-Time-tw.jpg?w=960&cbr=1&q=90&fit=max"
-        width: 960
-        height: 480
-        isCached: true
 
 secured: "3vpaNhqLgLCr6Z74NoUDHfNLwvFnRZrV/VpVEAaYlyQkg54zDRXrjadl+1VvrDbwwu+wZcpU/Kz5Tkt9Y8M2N6a12DHqliCLJc1p9sCXHNgveYP1HeWg7SLaA9dpwuxfAljB6Jpj+khZlmH9twfY9A8qAA5/in4DFxqZG4Ece5iRs1siiTCzqVXupmhrkBkqVP6Xjx1lsD/S+gisWd7f1vommoDI4JZHew5EaB1GbjuEqHQYxiMnNDoTYpX1ZJnKrZfFpQAz05VD4PB6QLSoBa6OQTi9PVMga3saozsuFgOikOzL48P0XpKDJFNbvE7HPboVDqIAANuLfCC+JnoqkBtqZDOe+yzvzhVo719Z5vY=;z5eS+QCYCk9omyNDJrPYpg=="
 ---

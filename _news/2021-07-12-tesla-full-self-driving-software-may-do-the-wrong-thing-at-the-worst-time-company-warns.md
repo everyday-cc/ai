@@ -352,6 +352,20 @@ related:
       name: Phone Arena
       domain: phonearena.com
     quality: 39
+  - title: "Tesla’s Full Self-Driving beta ticks up to version 9.0"
+    excerpt: "Tesla has begun sending out an extremely limited amount of over-the-air updates to bring its Full Self-Driving (FSD) Beta up to version 9. The new update enables members of Teslas"
+    publishedDateTime: 2021-07-12T18:32:00Z
+    webUrl: "https://knowtechie.com/teslas-full-self-driving-beta-ticks-up-to-version-9-0/"
+    type: article
+    provider:
+      name: KnowTechie
+      domain: knowtechie.com
+    quality: 39
+    images:
+      - url: "https://mk0knowtechiec1j578p.kinstacdn.com/wp-content/uploads/2020/09/tesla-hw2-autopilot-promo-1000x600.jpg"
+        width: 1000
+        height: 600
+        isCached: true
   - title: "Tesla’s Full Self-Driving Beta v9 Released, Here’s How It Looks"
     excerpt: "Tesla's Full Self-Driving Beta v9 software has just been released for compatible vehicles. Here are all the details on this, including how it looks."
     publishedDateTime: 2021-07-12T17:11:00Z
@@ -401,6 +415,6 @@ related:
       domain: tweaktown.com
     quality: 19
 
-secured: "bEPpdOps9n6p+ticH2VcyAAD4uXX6wNTpMe7HxMKv/kwKjcIVvGTWRnbvwAaDnAXTUGLFFCvfKjug3tzTQr9Crzg/ZqSMzb3sELmNQdhq74gue5VheZx6S8iNKMI6WSEKENAo0sRUUKC9dVzAMqY2a92QnRzCQXxewsA2YpjqttZfbi66qN/usSomeV+LSdYr67aHV4qmehoq0ESNv8Z9JEpZe9WGVlCO6M53wXD8ZEKnE06+9DEBCKdI79ao11zYJxVQgTDcxwxUaRx++lBu/0XfxwAopJu3FSkL0l35F/fKm569ofy5hT4uCEQtdNRF3t2St9nMhhuxE649gHt0Pe07icA1+YqErDjUboYW+E=;FM9KwZcZ0K4ZDk3EdT2BdA=="
+secured: "AZ8HWNgk/ed+ZSSfCmSCIljCN+FrOivhiEyhjvd5jZ6MbOgW7TNcmGCLF+WQ9U7n5/5c98W9llG50u32uo05ubYLirsPEReREAPUyGPQDSy6Q4hVpIjq/G7haoXvQzOmYfNsdANOuLWlYW6W5jqg36K0lXbd/xqUD5ZUaGqLC9ZNOXWJ0jZgS35t3fPcmr90HXnrV+kCTZ0GPqZXinsGuXx/0cvQXX++Nfyrn6mCKhN+gXccsFV2JT8RQBYSUacSMMekiGa/62C6gtgu8vdHMcsFS92tT4mqCm9ClqgOfZcPMxo596F4CVbvx6beslnGohXBaCQmV725cS9M7FDWDooTvkZU29sU8nXVpIKr4VxgVvCGSo6/l8JhwRQCXlgIP4bDqs15h72BQANAte/5C12Wn1lEkyLLHhBDYST6VGLJjqSM/ro5A+glRnPF879IX5svHjIqgoMT3+rpzY+MyWwaz7hrbr9bgEvZ1sUK0mxJCFS4vLdLpxEtsuAwZsmZklb9aMxNy1Eya2ZSjkhaoQ==;WWH9tM+tPqiSfEigDDvUUA=="
 ---
 

@@ -8,8 +8,8 @@ webUrl: "https://www.infobae.com/aroundtherings/articles/2021/07/12/toyota-will-
 ampWebUrl: "https://www.infobae.com/aroundtherings/articles/2021/07/12/toyota-will-establish-new-artificial-intelligence-research-and-development-company/?outputType=amp-type"
 cdnAmpWebUrl: "https://www-infobae-com.cdn.ampproject.org/c/s/www.infobae.com/aroundtherings/articles/2021/07/12/toyota-will-establish-new-artificial-intelligence-research-and-development-company/?outputType=amp-type"
 type: article
-quality: 51
-heat: 61
+quality: 53
+heat: 63
 published: false
 
 provider:
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://www.infobae.com/pf/resources/images/fallback-promo-image.png?d=704"
@@ -41,6 +42,6 @@ related:
         height: 450
         isCached: true
 
-secured: "rFr1dYS4XjKMX46/PZk+vyK/XX6d/Wz7ye+y2GKS0CwLGljfwcitmCQ7FI7ItttZwaw8Yd+OMXohhA8ITvilSlsFsS/4nP9SVwifCadlmo8jpmuiChk69HMZaQlRckPeOIN6d8OHOT31H94Ppt/zZ57gvvoB+UEwDo+EVgEngRb3BHfVwMD+h3WHj/cCBxoS4RTD4NAHd3byhDxrdSAN67P0fN/zOx6Hc7GPcqh0UvkCbIFZ3HcxKB1/wPS4IYqegLSs2od+PGd3JvLckgCdMQti7hEBgRV6GqGCplCbR51Bi2pRO/WNVffoDexf8HPr5dtze749T4RFAn/UcisYEwEUG+Y1XrCwJk5Z4PhZPcI=;4Gze0TFO8oVvI4GXhdtA3w=="
+secured: "QlBSDuwxi/MgYe3rntXhA2KAVaWofSRtIUNF37v85IgU7539opatlvIh8wZrhqBTcOoZbNK7+YIICKCI3uRzKnSpGSQrPL1mJ0qvy1sfBRjSkTMX6XWUs6Bo7FEMkyKJ/Nb4nYUk902ODNycbcWoSkvgcfBeECRG/9Uzy5zSuXr2SAbzNgZqjHMwTdrBZXpohjMELAqFpTAyCoJcn2GJCxI28EZhlJGaPRk8mM2h4t2SohGf0x/dgDAYrWLsYDkqtbz/Ea1AVDqOh0DVZCJaYmttCqM/Hb8A9itznQwP9hjKskxjQxV1M/X5FdcUOG74yphKITgG1wobdzyZzEdzNCHhaZmR8QO4wWLxtjEjLeE4kEBaew1M24+mNFXNnu60DfVSxdRauIFWB20hgDiM0iGj9Yh7KnQg4eMcS2ED5p9oSFlm8MHflC+e4/Kv69LuPpFLydxzYAVLcTy8xNsguYikwge4tK+Vpzq7RANvliuAXRbiOUEgsk70ykGCRs1MetOj5HfUu4nBz3KGdALtGg==;FlBQVWtD7z9t7pQK6Fe9PQ=="
 ---
 

@@ -35,7 +35,7 @@ related:
     provider:
       name: Infobae
       domain: infobae.com
-    quality: 51
+    quality: 53
     images:
       - url: "https://www.infobae.com/pf/resources/images/fallback-promo-image.png?d=704"
         width: 512

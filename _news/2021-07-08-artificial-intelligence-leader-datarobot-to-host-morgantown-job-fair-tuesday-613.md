@@ -19,6 +19,20 @@ topics:
   - AI
 
 related:
+  - title: "Artificial intelligence leader DataRobot to host Morgantown job fair Tuesday"
+    excerpt: "DataRobot, the leader in Artificial Intelligence, will host a public job fair from 3-7 p.m. at Morgantown’s Erickson Alumni Center on Tuesday, July 13. In June, DataRobot announced the opening of a new office at Vantage Ventures Morgantown headquarters."
+    publishedDateTime: 2021-07-12T18:22:00Z
+    webUrl: "https://www.mybuckhannon.com/artificial-intelligence-leader-datarobot-to-host-morgantown-job-fair-tuesday/"
+    type: article
+    provider:
+      name: My Buckhannon
+      domain: mybuckhannon.com
+    quality: 66
+    images:
+      - url: "https://www.mybuckhannon.com/wp-content/uploads/2021/07/Data-Robot.jpg"
+        width: 1920
+        height: 1280
+        isCached: true
   - title: "CORRECTING and REPLACING Artificial Intelligence Leader DataRobot to Host Morgantown Job Fair Tuesday, 7/13"
     excerpt: "DataRobot, the leader in Artificial Intelligence, will host a public job fair from 3-7 p.m. at Morgantown’s Erickson Alumni Center on Tuesday, July 13th. In June, DataRobot announced the opening of a new office at Vantage Ventures Morgantown headquarters."
     publishedDateTime: 2021-07-08T19:41:00Z

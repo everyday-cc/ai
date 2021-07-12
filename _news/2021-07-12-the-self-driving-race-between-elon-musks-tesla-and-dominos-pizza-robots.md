@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnbc.com/amp/2021/07/10/self-driving-looking-less-like-e
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/07/10/self-driving-looking-less-like-elon-musk-more-dominos-pizza-robots.html"
 type: article
 quality: 105
-heat: 355
+heat: 365
 published: true
 
 provider:
@@ -357,6 +357,20 @@ related:
       name: Phone Arena
       domain: phonearena.com
     quality: 39
+  - title: "Tesla’s Full Self-Driving beta ticks up to version 9.0"
+    excerpt: "Tesla has begun sending out an extremely limited amount of over-the-air updates to bring its Full Self-Driving (FSD) Beta up to version 9. The new update enables members of Teslas"
+    publishedDateTime: 2021-07-12T18:32:00Z
+    webUrl: "https://knowtechie.com/teslas-full-self-driving-beta-ticks-up-to-version-9-0/"
+    type: article
+    provider:
+      name: KnowTechie
+      domain: knowtechie.com
+    quality: 39
+    images:
+      - url: "https://mk0knowtechiec1j578p.kinstacdn.com/wp-content/uploads/2020/09/tesla-hw2-autopilot-promo-1000x600.jpg"
+        width: 1000
+        height: 600
+        isCached: true
   - title: "Tesla’s Full Self-Driving Beta v9 Released, Here’s How It Looks"
     excerpt: "Tesla's Full Self-Driving Beta v9 software has just been released for compatible vehicles. Here are all the details on this, including how it looks."
     publishedDateTime: 2021-07-12T17:11:00Z

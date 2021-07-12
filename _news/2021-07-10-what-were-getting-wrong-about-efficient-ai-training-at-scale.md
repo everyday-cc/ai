@@ -54,6 +54,22 @@ related:
         width: 1625
         height: 1080
         isCached: true
+  - title: "Using AI to discover landing and exploration sites on the moon"
+    excerpt: "A moon-scanning method that can automatically classify important lunar features from telescope images could significantly improve the efficiency of selecting sites for exploration."
+    publishedDateTime: 2021-07-12T14:10:00Z
+    webUrl: "https://phys.org/news/2021-07-ai-exploration-sites-moon.html"
+    ampWebUrl: "https://phys.org/news/2021-07-ai-exploration-sites-moon.amp"
+    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-07-ai-exploration-sites-moon.amp"
+    type: article
+    provider:
+      name: Phys.org
+      domain: phys.org
+    quality: 57
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/2021/training-an-ai-eye-on.jpg"
+        width: 748
+        height: 363
+        isCached: true
   - title: "Wobot.ai, the AI-powered Video Analytics Platform, Announces the Launch of a New SaaS-based and Simplified Version of its Product"
     excerpt: "Wobot.ai, the AI-powered video analytics platform, today announced the launch of a new SaaS-based and simplified version of its product. Wobot.ai is now"
     publishedDateTime: 2021-07-09T14:06:00Z
