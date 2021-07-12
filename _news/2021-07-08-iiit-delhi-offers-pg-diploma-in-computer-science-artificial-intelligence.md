@@ -9,8 +9,8 @@ ampWebUrl: "https://www.news18.com/amp/news/education-career/iiit-delhi-offers-p
 cdnAmpWebUrl: "https://www-news18-com.cdn.ampproject.org/c/s/www.news18.com/amp/news/education-career/iiit-delhi-offers-pg-diploma-in-computer-science-artificial-intelligence-3940049.html"
 type: article
 quality: 56
-heat: 76
-published: true
+heat: 66
+published: false
 
 provider:
   name: CNN-News18
@@ -26,20 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "IIIT Delhi Launches Post Graduate Diploma In Computer Science, AI"
-    excerpt: "The new program will address the “growing need for talent in cutting-edge areas that require a sound grounding in Computer Science fundamentals and an ability to apply artificial intelligence (AI) techniques”,"
-    publishedDateTime: 2021-07-07T06:14:00Z
-    webUrl: "https://www.ndtv.com/education/iiit-delhi-launches-post-graduate-diploma-in-computer-science-ai"
-    type: article
-    provider:
-      name: NDTV
-      domain: ndtv.com
-    quality: 37
-    images:
-      - url: "https://cache.careers360.mobi/media/article_images/2021/7/7/online-class.jpg"
-        width: 860
-        height: 430
-        isCached: true
   - title: "IIT Delhi Launches Universal Justice Foundation Lab Facility On AI For Judiciary"
     excerpt: "The Indian Institute of Technology Delhi (IIT Delhi) has introduced Universal Justice Foundation (UFJ) lab facility on Artificial Intelligence for Judiciary. Justice S Ravindra Bhat of the Supreme Court inaugurated the UFJ lab at the institute."
     publishedDateTime: 2021-07-11T11:35:00Z

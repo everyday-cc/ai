@@ -66,6 +66,15 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "CIBC inks Microsoft Azure deal"
+    excerpt: "Azure will support the migration of hundreds of applications to the cloud, as well as offer scalable computing power for CIBC's enterprise data lake and AI platform. The bank will also get access to a suite of Microsoft training programmes and ..."
+    publishedDateTime: 2021-07-11T23:23:00Z
+    webUrl: "https://www.finextra.com/newsarticle/38434/cibc-inks-microsoft-azure-deal"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 34
   - title: "Qlik Recognized as a Finalist of 2021 Microsoft Analytics Partner of the Year Award"
     excerpt: "Qlik ® today announced it has been named a finalist of the 2021 Microsoft Analytics Partner of the Year Award. The company was honored among a global field of top Microsoft partners for demonstrating excellence in innovation and implementation of customer solutions based on Microsoft technology."
     publishedDateTime: 2021-07-08T19:02:00Z

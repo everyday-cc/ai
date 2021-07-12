@@ -2,49 +2,6 @@
   "page": 19,
   "value": [
     {
-      "path": "_news/2021-06-24-global-computer-vision-market-size-2021-with-top-countries-data-industry-growth-company-profiles-and-forecasts-analysis-2026.md",
-      "title": "Global Computer Vision Market Size 2021 with Top Countries Data, Industry Growth, Company Profiles and Forecasts Analysis 2026",
-      "excerpt": "The contemporary coverage of the latest report Global Computer Vision Market 2020 by Manufacturers, Countries, Type and Application, Forecast to 2025 provides a detailed summary as well as a consistent estimation of accurate profits over the forecasted time frame.",
-      "sourceUrl": null,
-      "webUrl": "https://ksusentinel.com/2021/06/24/global-computer-vision-market-size-2021-with-top-countries-data-industry-growth-company-profiles-and-forecasts-analysis-2026/",
-      "originalUrl": "https://ksusentinel.com/2021/06/24/global-computer-vision-market-size-2021-with-top-countries-data-industry-growth-company-profiles-and-forecasts-analysis-2026/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.oracle.com/a/tech/img/og-computer-vision-facebook.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-24T05:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Sentinel",
-        "domain": "ksusentinel.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-06-24-tantech-subsidiary-to-accept-customer-orders-in-july-for-its-innovative-driverless-and-autonomous-street-sweeper.md",
       "title": "Tantech Subsidiary to Accept Customer Orders in July for its Innovative Driverless and Autonomous Street Sweeper",
       "excerpt": "Our innovative driverless and autonomous street sweeper ... data analysis systems, artificial intelligence controls, positioning and navigation systems, automatic actuators, and safety assurance ...",
@@ -707,6 +664,49 @@
         "AI Hardware",
         "Natural Language Processing",
         "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2021-06-24-teslas-new-supercomputer-will-drive-autopilot-full-self-driving-features.md",
+      "title": "Tesla's new supercomputer will drive autopilot, full self-driving features",
+      "excerpt": "Tesla unveiled new images on Sunday of its in-house supercomputer, which will be used to help power the electric vehicle maker's autopilot and full self-driving (FSD) capabilities. ELON MUSK ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxbusiness.com/technology/tesla-new-supercomputer-will-drive-autopilot",
+      "originalUrl": "https://www.foxbusiness.com/technology/tesla-new-supercomputer-will-drive-autopilot",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/854081161001/babfdf7e-55df-4039-b7f4-4a07a462c802/f6e9e4ee-dcdb-4963-bad6-efd7503bd057/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxbusiness.com/technology/tesla-new-supercomputer-will-drive-autopilot.amp",
+      "cdnAmpWebUrl": "https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/technology/tesla-new-supercomputer-will-drive-autopilot.amp",
+      "publishedDateTime": "2021-06-23T22:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox Business",
+        "domain": "foxbusiness.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
       ]
     },
     {

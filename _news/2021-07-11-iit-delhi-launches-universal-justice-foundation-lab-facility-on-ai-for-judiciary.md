@@ -40,20 +40,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "IIIT Delhi Launches Post Graduate Diploma In Computer Science, AI"
-    excerpt: "The new program will address the “growing need for talent in cutting-edge areas that require a sound grounding in Computer Science fundamentals and an ability to apply artificial intelligence (AI) techniques”,"
-    publishedDateTime: 2021-07-07T06:14:00Z
-    webUrl: "https://www.ndtv.com/education/iiit-delhi-launches-post-graduate-diploma-in-computer-science-ai"
-    type: article
-    provider:
-      name: NDTV
-      domain: ndtv.com
-    quality: 37
-    images:
-      - url: "https://cache.careers360.mobi/media/article_images/2021/7/7/online-class.jpg"
-        width: 860
-        height: 430
-        isCached: true
 
 secured: "LyWRHUAkekuW7JVbLGSNTrgqyi1LwV6oBgn7xwX4qdKBt/WyChhU4nO3ocRwtzdfZ2eVN7oVmFeJ4jQWCJXORZLLzLf6LEkGY+vD3GVSh2Rb5FqFZSe87KM1/lSpR6gvXq56leVvsXlIqfv1FNGMENY1W/Y6JD1Ll96wJpwpOxF8K8FuthZmEpm36WiXpPA9g58s7+nUv1G0v5NjKQWtnBWQAgk7fJ2TPXYB/veF85X6gf7X0lxm0id0gv188YJJAViUmjevHQguDsruPov2WWBFLBbTC+X+bpFRj2O9FCrX0klafILQC9UnDAoC3Qcc1ztgZ4HcB4IwVnFNCWMxIC2rBBRGEr1JDbIc2tU8qeM=;lsC6MwyuMu2L31mU8/wMVw=="
 ---

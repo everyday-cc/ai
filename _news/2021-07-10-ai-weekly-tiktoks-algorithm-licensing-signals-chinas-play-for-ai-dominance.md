@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/07/09/ai-weekly-tiktoks-algorithm-licen
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/09/ai-weekly-tiktoks-algorithm-licensing-signals-chinas-play-for-ai-dominance/amp/"
 type: article
 quality: 84
-heat: 85
+heat: 84
 published: true
 
 provider:

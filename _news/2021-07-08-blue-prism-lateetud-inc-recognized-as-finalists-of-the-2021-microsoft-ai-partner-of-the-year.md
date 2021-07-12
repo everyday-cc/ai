@@ -19,15 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Blue Prism & Lateetud, Inc. recognized as finalists of the 2021 Microsoft AI Partner of the Year"
-    excerpt: "LONDON and AUSTIN, Texas and WASHINGTON, July 8, 2021 /PRNewswire/ -- Blue Prism® and Lateetud today announced that their joint solution has been"
-    publishedDateTime: 2021-07-08T21:05:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/blue-prism-lateetud-inc-recognized-as-finalists-of-the-2021-microsoft-ai-partner-of-the-year-1030591185"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 51
   - title: "Trainocate recognised as #1 Microsoft Learning Partner worldwide"
     excerpt: "Trainocate Holdings, Sri Lanka’s largest IT and human capability development training provider, has been recognised as the 2021 Microsoft Learning Partner of the Year; the first Asian company ever to have earned the illustrious title."
     publishedDateTime: 2021-07-11T18:30:00Z
@@ -37,6 +28,15 @@ related:
       name: FT
       domain: www.ft.lk
     quality: 34
+  - title: "Blue Prism & Lateetud, Inc. recognized as finalists of the 2021 Microsoft AI Partner of the Year"
+    excerpt: "LONDON and AUSTIN, Texas and WASHINGTON, July 8, 2021 /PRNewswire/ -- Blue Prism® and Lateetud today announced that their joint solution has been named a finalist for the Artificial Intelligence"
+    publishedDateTime: 2021-07-08T19:05:00Z
+    webUrl: "https://tylerpaper.com/news/texas/blue-prism-lateetud-inc-recognized-as-finalists-of-the-2021-microsoft-ai-partner-of-the/article_0497dbe3-6656-5888-b541-2e776a6521ce.html"
+    type: article
+    provider:
+      name: Tyler Morning Telegraph
+      domain: tylerpaper.com
+    quality: 21
 
 secured: "TQOptRTe7VulnXoFARFz6T35k1bnsKsvDiJLSL2aEDJbPItfYdqntpwrkMN17ofFcwe2YOZ/24MJA4SISKT6kuLq2ovUSds4nvVyW0S3XIOb1ERi52dBasAb8UxV2V0E2IjljKEHksji7EOglCiEqYuPhKtz1vEDRRvofm41h6Q3Z0N2Hhlc7LZt8GoznNxp4gzRnGpHIdBOCf5B4fWU95dyv8eqfCtWHOD77/VxZVVjiww5NsQAPMoERoADAbaD1kXhQ8VKJFP9tPBM+WrAJV+TjFhLf6wTQAXR3R11Oc1GMIfHpvTxi35EH5DAMwS8VqnyGjX23aV7Bw2KU+jzFsRsxMITv8mTsbD0u3lt3zc=;rYhf5PpkklRdTe0GoM8WPA=="
 ---

@@ -145,20 +145,6 @@ related:
         width: 1114
         height: 561
         isCached: true
-  - title: "Facebook Introduces Two Datasets To Democratise Conversational AI"
-    excerpt: "Facebook AI has shared new research and two new datasets– TOPv2; and MTOP– to help develop sophisticated and effective Conversational AI systems. According to a Deloitte report, the Conversational AI market is projected to increase from AUD 6 billion in 2019 to AUD 22."
-    publishedDateTime: 2021-07-07T05:30:00Z
-    webUrl: "https://analyticsindiamag.com/facebook-introduces-two-datasets-to-democratise-conversational-ai/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 39
-    images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/07/facebook-NLU.jpg"
-        width: 1000
-        height: 668
-        isCached: true
   - title: "Facebook – Google, Facebook, And Microsoft Are Working On AI Ethics. Here’s What Your Company Should Be Doing"
     excerpt: "Facebook - Google, Facebook, And Microsoft Are Working On AI Ethics. Here’s What Your Company Should Be Doing -"
     publishedDateTime: 2021-07-11T12:30:00Z

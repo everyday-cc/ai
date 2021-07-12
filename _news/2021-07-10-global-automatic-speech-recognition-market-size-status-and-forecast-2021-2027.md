@@ -42,6 +42,15 @@ related:
       name: ReportsnReports
       domain: reportsnreports.com
     quality: 31
+  - title: "Global Healthcare Artificial Intelligence Market Size, Status and Forecast 2021-2027"
+    excerpt: "Pages Report] Check for Discount on Global Healthcare Artificial Intelligence Market Size, Status and Forecast 2021-2027 report by QYResearch Group. AI in healthcare has huge and wide reaching potential"
+    publishedDateTime: 2021-07-09T07:53:00Z
+    webUrl: "https://www.reportsnreports.com/reports/4655759-global-healthcare-artificial-intelligence-market-size-status-and-forecast-2021-2027.html"
+    type: article
+    provider:
+      name: ReportsnReports
+      domain: reportsnreports.com
+    quality: 27
   - title: "Global Machine Learning in Automobile Market Size, Status and Forecast 2021-2027"
     excerpt: "Pages Report] Check for Discount on Global Machine Learning in Automobile Market Size, Status and Forecast 2021-2027 report by QYResearch Group. Machine learning in the automotive industry has a remarkable"
     publishedDateTime: 2021-07-09T07:52:00Z
@@ -51,6 +60,20 @@ related:
       name: ReportsnReports
       domain: reportsnreports.com
     quality: 14
+  - title: "Artificial Intelligence Chipsets Market 2021 Strategic Analysis, Growth Drivers, Industry Trends, Demand And Future Opportunities Till 2027"
+    excerpt: "Outbreak-Global Artificial Intelligence Chipsets Industry Market Report-Development Trends, Threats, Opportunities And Competitive Landscape In 2021, Forecast to 2027” has recently published by ResearchMoz to its humongous database which helps to shape the future of the businesses by making well-informed business decisions."
+    publishedDateTime: 2021-07-08T15:22:00Z
+    webUrl: "https://manometcurrent.com/artificial-intelligence-chipsets-market-2021-strategic-analysis-growth-drivers-industry-trends-demand-and-future-opportunities-till-2027/"
+    type: article
+    provider:
+      name: manometcurrent.com
+      domain: manometcurrent.com
+    quality: 3
+    images:
+      - url: "https://jumbonews.co.uk/wp-content/uploads/2021/06/MARKET-RESEARCH-REPORT-2021.png"
+        width: 800
+        height: 400
+        isCached: true
 
 secured: "efyngxQIJzTDEGdViKsPn89l3FsnWMTNwStFpjn97Qw7tqZ/i6gXj4XxcTkk66rMEz7Lp81z5zQWrwxFDkd+ndpuGuCOH3oBuLYM0xg102ixG2o/1LITeMNx6XPGeofidZy4i67rwv//XYPzI/JIEL7zNg2dZJ6OCNxClG/jkhcuAlFx2K+dlNd5Z+kOgck8qEq9a3Vd+L9ELS2dq9JZh8+X5AelDrsEFTQ4VnIdG0iYYq2QSmOUjW+Vdl3l90jBQz03DdpBUVpT5OV6atgHRjM4t65BeFax4XYtcz7QKgAgtbbZ+JzeISBBNlGEWo/YgA+dLHTZl4E796Lh13d+AVSfQAbtLE7m15qxEu1CMDE=;CTGUyAo39lVtjZaF0gUKYg=="
 ---

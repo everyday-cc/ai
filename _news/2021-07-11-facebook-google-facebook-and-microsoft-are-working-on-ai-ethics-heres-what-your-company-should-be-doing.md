@@ -141,20 +141,6 @@ related:
         width: 1114
         height: 561
         isCached: true
-  - title: "Facebook Introduces Two Datasets To Democratise Conversational AI"
-    excerpt: "Facebook AI has shared new research and two new datasets– TOPv2; and MTOP– to help develop sophisticated and effective Conversational AI systems. According to a Deloitte report, the Conversational AI market is projected to increase from AUD 6 billion in 2019 to AUD 22."
-    publishedDateTime: 2021-07-07T05:30:00Z
-    webUrl: "https://analyticsindiamag.com/facebook-introduces-two-datasets-to-democratise-conversational-ai/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 39
-    images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/07/facebook-NLU.jpg"
-        width: 1000
-        height: 668
-        isCached: true
   - title: "Facebook Is Teaching Robots to Adapt to Any Environment in Real-Time"
     excerpt: "We’ve seen robots that can dance, climb stairs, and even fetch beer, but they are usually programmed to do these tricks. Well, a team of researchers from Facebook (yes, you read that right) has developed a new model for robotic locomotion that allows legged robots to adapt to any environment in a matter of seconds,"
     publishedDateTime: 2021-07-09T14:40:00Z

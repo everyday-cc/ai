@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/07/10/how-cybersecurity-is-getting-ai-w
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/10/how-cybersecurity-is-getting-ai-wrong/amp/"
 type: article
 quality: 87
-heat: 128
+heat: 127
 published: true
 
 provider:

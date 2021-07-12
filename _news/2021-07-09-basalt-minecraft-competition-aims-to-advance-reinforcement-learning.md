@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/07/09/basalt-minecraft-competition-aims
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/09/basalt-minecraft-competition-aims-to-advance-reinforcement-learning/amp/"
 type: article
 quality: 91
-heat: 91
+heat: 92
 published: true
 
 provider:

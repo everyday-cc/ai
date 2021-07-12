@@ -9,7 +9,7 @@ ampWebUrl: "https://www.androidauthority.com/amp/samsung-exynos-flagship-chipset
 cdnAmpWebUrl: "https://www-androidauthority-com.cdn.ampproject.org/c/s/www.androidauthority.com/amp/samsung-exynos-flagship-chipset-history-1233699/"
 type: article
 quality: 74
-heat: 74
+heat: 75
 published: true
 
 provider:

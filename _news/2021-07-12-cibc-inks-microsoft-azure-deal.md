@@ -1,28 +1,22 @@
 ---
 category: news
-title: "Qlik Recognized as a Finalist of 2021 Microsoft Analytics Partner of the Year Award"
-excerpt: "Qlik ® today announced it has been named a finalist of the 2021 Microsoft Analytics Partner of the Year Award. The company was honored among a global field of top Microsoft partners for demonstrating excellence in innovation and implementation of customer solutions based on Microsoft technology."
-publishedDateTime: 2021-07-08T19:02:00Z
-originalUrl: "https://apnews.com/press-release/globe-newswire/technology-5f346a5576c5d4088d572d5c11cfe4ef"
-webUrl: "https://apnews.com/press-release/globe-newswire/technology-5f346a5576c5d4088d572d5c11cfe4ef"
+title: "CIBC inks Microsoft Azure deal"
+excerpt: "Azure will support the migration of hundreds of applications to the cloud, as well as offer scalable computing power for CIBC's enterprise data lake and AI platform. The bank will also get access to a suite of Microsoft training programmes and ..."
+publishedDateTime: 2021-07-11T23:23:00Z
+originalUrl: "https://www.finextra.com/newsarticle/38434/cibc-inks-microsoft-azure-deal"
+webUrl: "https://www.finextra.com/newsarticle/38434/cibc-inks-microsoft-azure-deal"
 type: article
-quality: 33
+quality: 34
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Finextra
+  domain: finextra.com
 
 topics:
   - Microsoft AI
   - AI
-
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
 
 related:
   - title: "Microsoft Announces the General Availability of Azure Arc-Enabled SQL"
@@ -78,15 +72,20 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "CIBC inks Microsoft Azure deal"
-    excerpt: "Azure will support the migration of hundreds of applications to the cloud, as well as offer scalable computing power for CIBC's enterprise data lake and AI platform. The bank will also get access to a suite of Microsoft training programmes and ..."
-    publishedDateTime: 2021-07-11T23:23:00Z
-    webUrl: "https://www.finextra.com/newsarticle/38434/cibc-inks-microsoft-azure-deal"
+  - title: "Qlik Recognized as a Finalist of 2021 Microsoft Analytics Partner of the Year Award"
+    excerpt: "Qlik ® today announced it has been named a finalist of the 2021 Microsoft Analytics Partner of the Year Award. The company was honored among a global field of top Microsoft partners for demonstrating excellence in innovation and implementation of customer solutions based on Microsoft technology."
+    publishedDateTime: 2021-07-08T19:02:00Z
+    webUrl: "https://apnews.com/press-release/globe-newswire/technology-5f346a5576c5d4088d572d5c11cfe4ef"
     type: article
     provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 34
+      name: Associated Press
+      domain: apnews.com
+    quality: 33
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "Insight Wins 2021 Microsoft Worldwide Partner of the Year Awards for Azure Migration and Solution Assessments"
     excerpt: "Insight Enterprises (NASDAQ:NSIT), the global provider of Insight Intelligent Technology Solutions™ for organizations of all sizes, today announced it has won two 2021 Microsoft ( News - Alert) Worldwide Partner of the Year Awards as Migration to Azure Partner of the Year and Solution Assessments Partner of the Year."
     publishedDateTime: 2021-07-09T16:07:00Z
@@ -106,6 +105,6 @@ related:
       domain: tmcnet.com
     quality: 14
 
-secured: "MJeo8zKqpSAy2xnWwGTsvTbIqMJ3mf0S5ElW58lQevFYn3JPpHdMyMZg19M4hT4wGIkILe0Puml3aYS1jkMJLaHE9nFZmwNlBNd1psEFZlOjydemKvs8Nkw8fz7GujdnzIOLEAkNDZ+VRLbNLQZsac/+uqK3Y2l6S4eYQL7soDGTXZbdCsnkyT00jtGdD96JWsssMWjI+IXUEu75jB41PlYbaD0NI6RaqGFHwJbJKtxIFI3STGt/tCoa9bAgdSgmy0d3rweE7u8EclSHXL3yqdhzyOMvmfIXEWfGN6sb1LgylwIDFdLOWLC5lJlTjupZwjZsxmVYgBdqfof+rBdqLVx4S04I3XCCive0TDa+lrU=;qE+4re99nNuyLihwLiZS0Q=="
+secured: "R5uV9R2oADMcI0GgpJnVCPaK8NbATdTM9oOA+xAKg+VEnQyzPK8GycNUPXyCqNP6ftoXUynUhENCJOlw1WGg9xiN3WH2Q+oKtpTrnCyrASocVEzNt34RqBuR+wv/gePI8vXYd/fTbA2WneoXhmFxygySa0TnHH7RQLjqDNyw2Ejn1D0grknRrGBZ+qyLTZVHDY2obryeZcly3G+RdyYuy5nEjgWOLs/1Z0huPLpyK0d62t73iN6XTK7tg7LV7hv9oqcGIMywPfKk32ULX29lDcvbvt7zX429hWGgGGDBdK8P0T1lkFUfYvRPs5o9fmJ95aTFBtmqh3feh4k1ZFDyg8cTpC84LrkrgdgT0g+KP80=;YjvP6uvLfiY7RpTVlJ2a0g=="
 ---
 

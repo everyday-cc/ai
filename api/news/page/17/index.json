@@ -2,59 +2,6 @@
   "page": 17,
   "value": [
     {
-      "path": "_news/2021-06-25-samsungs-latest-robot-vac-uses-ai-to-recognize-small-obstacles.md",
-      "title": "Samsung's latest robot vac uses AI to recognize small obstacles",
-      "excerpt": "Samsung is claiming a few world firsts with its latest robot vacuum cleaner, which was originally launched at CES 2021 back in January. The Jet Bot AI+ is said to be the first to feature an active stereo-type 3D sensor for object detection,",
-      "sourceUrl": null,
-      "webUrl": "https://newatlas.com/around-the-home/samsung-jet-bot-ai-plus-robot-vacuum/",
-      "originalUrl": "https://newatlas.com/around-the-home/samsung-jet-bot-ai-plus-robot-vacuum/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 126,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.newatlas.com/dims4/default/be45152/2147483647/strip/true/crop/1278x852+81+0/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2Fed%2F5e%2F43687cec49afa9f0bc54c1faee0b%2F03.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://newatlas.com/around-the-home/samsung-jet-bot-ai-plus-robot-vacuum/?amp=true",
-      "cdnAmpWebUrl": "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/around-the-home/samsung-jet-bot-ai-plus-robot-vacuum/?amp=true",
-      "publishedDateTime": "2021-06-25T09:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New Atlas",
-        "domain": "newatlas.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newatlas.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
       "path": "_news/2021-06-25-the-absurdity-and-misleading-baloney-about-ai-self-driving-cars-that-will-be-uncrashable.md",
       "title": "The Absurdity And Misleading Baloney About AI Self-Driving Cars That Will Be Uncrashable",
       "excerpt": "There are those claiming that self-driving cars will be uncrashable, which sounds nifty, but it is nonsensical and worse still it sets false expectations of what self-driving cars will be able to do.",
@@ -1191,6 +1138,59 @@
       "topics": [
         "AI in Autos",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-24-how-daniel-wellingtons-customer-service-department-saved-99-on-translation-costs-with-amazon-translate.md",
+      "title": "How Daniel Wellington’s customer service department saved 99% on translation costs with Amazon Translate",
+      "excerpt": "This post is co-authored by Lezgin Bakircioglu, Innovation and Security Manager at Daniel Wellington. In their own words, “Daniel Wellington (DW) is a Swedish fashion brand founded in 2011. Since its inception, it has sold over 11 million watches and established itself as one of the fastest-growing and",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/how-daniel-wellingtons-customer-service-department-saved-99-on-translation-costs-with-amazon-translate/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/how-daniel-wellingtons-customer-service-department-saved-99-on-translation-costs-with-amazon-translate/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/06/09/3451-Architecture.jpg",
+          "width": 800,
+          "height": 354,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-24T15:58:36-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Natural Language Processing"
       ]
     }
   ],
