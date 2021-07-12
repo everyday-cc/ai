@@ -7,7 +7,7 @@ originalUrl: "https://www.alphagalileo.org/en-gb/Item-Display/ItemId/210451"
 webUrl: "https://www.alphagalileo.org/en-gb/Item-Display/ItemId/210451"
 type: article
 quality: 30
-heat: -1
+heat: 30
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 400
     height: 217
     isCached: true
-
-related:
-  - title: "Finance Teams Using AI Outperform Peers as Demand for Skills Grows"
-    excerpt: "Finance teams adopting AI outperform non-adopters . While awareness of artificial intelligence (AI) among finance professionals is high with 70% at least a little knowledgeable ab"
-    publishedDateTime: 2021-07-07T12:05:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-finance-teams-using-ai-outperform-peers-as-demand-/2021/07/07/9404158.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 54
-    images:
-      - url: "https://mma.prnewswire.com/media/1163740/Unit4_Logo.jpg"
-        width: 400
-        height: 222
-        isCached: true
 
 secured: "3627Dd4Tk9WC4AtkW0OaOMQKTSoCSB+zN9Ro2t15oRdU957uCveTdpRV/2rhiqWLyO/Rmw1d0oXWWmrHCQkDrVeqkP1y0UdOj2WRtWOSo2z6x6zkn/KojFJ6X5Lh238z2ceYjtfjycEbfWMCks/z3PzcZNayrZQ56By010F2IzHfAAYLUiXR2R5btDuNk+puN1Hx4tSSIghigushShhdyuow/VMToAHKUbBKbZmM1AHHY9h0msSNsddFdWdixuGRGox3QnSBPWz3t2f+5td50uEEJ1BeTrJRD1XNr4Bb4z1V1GEcEHyH1OBpVQ5kKjCWe3h5H44Qyjc7GR9WWmAFI4dO3Vbewdx4bH3+sqQX/1I=;vsueK52SM0TullQwYfK3Yg=="
 ---

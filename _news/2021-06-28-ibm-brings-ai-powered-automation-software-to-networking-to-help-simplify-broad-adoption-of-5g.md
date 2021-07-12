@@ -1,28 +1,26 @@
 ---
 category: news
 title: "IBM Brings AI-Powered Automation Software to Networking to Help Simplify Broad Adoption of 5G"
-excerpt: "\"To help address these growing demands, IBM's new Cloud Pak for Network Automation software uses AI-powered automation ... integration of IBM Cloud Pak for Watson AIOps and edge solutions ..."
-publishedDateTime: 2021-06-28T04:46:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/21/06/n21737784/ibm-brings-ai-powered-automation-software-to-networking-to-help-simplify-broad-adoption-of-5g"
-webUrl: "https://www.benzinga.com/pressreleases/21/06/n21737784/ibm-brings-ai-powered-automation-software-to-networking-to-help-simplify-broad-adoption-of-5g"
-ampWebUrl: "https://www.benzinga.com/amp/content/21737784"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/21737784"
+excerpt: "Using IBM Cloud Pak for Network Automation, CSPs can use AI-powered automation to stand ... With the integration of IBM Cloud Pak for Watson AIOps and edge solutions including IBM Edge ..."
+publishedDateTime: 2021-06-28T06:36:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/ibm-brings-ai-powered-automation-software-to-networking-to-help-simplify-broad-adoption-of-5g-301320703.html"
+webUrl: "https://www.prnewswire.com/news-releases/ibm-brings-ai-powered-automation-software-to-networking-to-help-simplify-broad-adoption-of-5g-301320703.html"
 type: article
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - IBM AI
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/95470/ibm_logo.jpg"
-    width: 400
-    height: 209
+  - url: "https://mma.prnewswire.com/media/95470/ibm_logo.jpg?p=facebook"
+    width: 2698
+    height: 1414
     isCached: true
 
-secured: "u8GJQvQeUugg1yuHUePBW7SyECtAWjklQkM4KdLOOIcZ+2+mTzojoRNbFa2saCWbcF/d6tvuJYdxUUxsEqXmZau5nNvvIHsVW9xT5vAjBIskYyEmJfnK6e8/uv6jICNZc1JV38fwfNpHmZL50YC8TU9VO//7+W7+0bPFBXBTPRp5dYmxfYoEfSlX/aiN7qG0dDbdnM1tbUtFGTgKsnRV7f3ISFuTnkrbPelPWx9Y0gQmTlR4IQoGTn0+1rTQTHhO911E/6aSXpakoq3/SIGKxyTryQ4twqVmjVJBDMMaSYvEE/yX+RvcaGABYrOAWFCmS3+7c5dIs7Gy8ZV9aq52JMwFEfkmrbhBkQMJ62trzyY=;HxjLBAChb6RYWM0sUtMpjA=="
+secured: "hc8JZsRzN186q2yHIALPCctb5DteGvVOXkSCARJZQuHo0q3BKVGIivdJ3VjtbPC4tejaljIDiMWg/0JtDj3yiuma/5fKqwK9OD3Zu5BuZyVLbWA3Deshk8vj4vEc9YtWxtFPf/I5jzGQOal0Kst4SMX5gHF0T0mRFlk910zmHNu1S+3fiPkDiWYgn57l/YbXsxHzqn5/pbCv+Eipm/4/Vjtt8W1+fidomDcTbNbRcpfAlXPY3XvG5VC6gx3GKeBo44IDrL9iXzx0Ud2rVB5U7ugUUqawVm9+Qpk7H4/h4SrbYjubTIKiptbS0/RTGMrYUV6oYxSjTw/QbLnbujI5jl1LAtKARpqd9G9uZDC/b6k=;Ln58FFay1OuRlZZnTZGm1A=="
 ---
 

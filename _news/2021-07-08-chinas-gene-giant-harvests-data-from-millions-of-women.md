@@ -25,17 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "SPECIAL REPORT-China's gene giant harvests data from millions of women"
-    excerpt: "A Chinese gene company selling prenatal tests around the world developed them in collaboration with the country's military and is using them to collect genetic data from millions of women for sweeping research on the traits of populations,"
-    publishedDateTime: 2021-07-07T12:14:00Z
-    webUrl: "https://www.nasdaq.com/articles/special-report-chinas-gene-giant-harvests-data-from-millions-of-women-2021-07-07"
-    ampWebUrl: "https://www.nasdaq.com/articles/special-report-chinas-gene-giant-harvests-data-from-millions-of-women-2021-07-07?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/special-report-chinas-gene-giant-harvests-data-from-millions-of-women-2021-07-07?amp"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 54
   - title: "China’s gene giant harvests data from millions of women"
     excerpt: "The Reuters examination also sheds new light on concerns expressed by a U.S. expert panel, the U.S. National Security Commission on Artificial Intelligence (NSCAI ... The hospital uses stem cells and gene therapy in research on combating deafness in ..."
     publishedDateTime: 2021-07-07T13:12:00Z

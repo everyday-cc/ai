@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/07/08/openai-warns-ai-behind-githubs-co
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/08/openai-warns-ai-behind-githubs-copilot-may-be-susceptible-to-bias/amp/"
 type: article
 quality: 89
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -31,20 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Will AI coding assistants like GitHub’s Copilot transform developers’ jobs?"
-    excerpt: "AI pair programmers will certainly speed things up — but you still need to have chops to devise solutions and deliver high-quality code."
-    publishedDateTime: 2021-07-07T11:40:00Z
-    webUrl: "https://thenextweb.com/news/will-ai-coding-assistants-github-copilot-transform-developer-jobs-syndication"
-    type: article
-    provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 67
-    images:
-      - url: "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F07%2FGitHub-Copilot-OpenAI-Microsoft-TechTalks-hed.jpg&signature=2c6efd5beef302a36be592136eb563c1"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "GitHub's programming AI may be reusing code without permission"
     excerpt: "A Microsoft-owned tool powered by artificial intelligence is designed to make life easier for programmers, but some developers say it may be repurposing some of the billions of lines of code it was tr"
     publishedDateTime: 2021-07-08T13:55:00Z

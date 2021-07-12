@@ -2,6 +2,49 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-05-31-healthcare-chatbots-market-expected-to-grow-at-a-cagr-of-145.md",
+      "title": "Healthcare Chatbots Market Expected to Grow at a CAGR of 14.5%",
+      "excerpt": "Global healthcare chatbots market was valued at 116 9 million in 2018 and is expected to reach 345 3 million by 2026 registering a CAGR of 14 5 from 2019 to 2026 Healthcare chatbots are user interface which are employed",
+      "sourceUrl": null,
+      "webUrl": "https://www.openpr.com/news/2294344/healthcare-chatbots-market-expected-to-grow-at-a-cagr-of-14-5",
+      "originalUrl": "https://www.openpr.com/news/2294344/healthcare-chatbots-market-expected-to-grow-at-a-cagr-of-14-5",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.openpr.com/U/5/U531636275_g.jpg",
+          "width": 790,
+          "height": 567,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.openpr.com/amp/2294344/healthcare-chatbots-market-expected-to-grow-at-a-cagr-of-14-5",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2294344/healthcare-chatbots-market-expected-to-grow-at-a-cagr-of-14-5",
+      "publishedDateTime": "2021-05-31T04:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-29-new-ai-tool-to-help-doctors-assess-severity-of-covid-in-patients.md",
       "title": "New AI tool to help doctors assess severity of COVID in patients",
       "excerpt": "Toronto: Artificial intelligence (AI) technology developed by researchers at the University of Waterloo is capable of assessing the severity of COVID-19 cases with a promising degree",
@@ -1261,49 +1304,6 @@
         "AI in Healthcare",
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2021-05-20-carestream-selects-hpe-greenlake-to-transform-healthcare-platform-using-artificial-intelligence-as-a-service.md",
-      "title": "Carestream Selects HPE GreenLake to Transform Healthcare Platform Using Artificial Intelligence as a Service",
-      "excerpt": "Hewlett Packard Enterprise today announced that Carestream Health, a leading global provider of medical imaging systems, has selected HPE to power a transformative new healthcare initiative based on artificial intelligence-as-a-service",
-      "sourceUrl": null,
-      "webUrl": "https://www.lelezard.com/en/news-19816657.html",
-      "originalUrl": "https://www.lelezard.com/en/news-19816657.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.lelezard.com/img/pr_sections/science-technology.jpg",
-          "width": 640,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-20T05:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Le Lézard",
-        "domain": "lelezard.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
       ]
     }
   ],

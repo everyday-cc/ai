@@ -39,33 +39,20 @@ related:
         width: 600
         height: 400
         isCached: true
-  - title: "Deep Learning Market Size, Share 2021-2028 | Top Key Vendors – Amazon Web Services (AWS), Google, IBM, Intel, Micron Technology, Microsoft"
-    excerpt: "The Deep Learning Market study provides details of market dynamics affecting the market, market size, and segmentation, and casts a shadow over the major market players by highlighting the favorable competitive landscape and successful trends over the years."
-    publishedDateTime: 2021-07-11T14:25:00Z
-    webUrl: "https://manometcurrent.com/deep-learning-market-size-share-2021-2028-top-key-vendors-amazon-web-services-aws-google-ibm-intel-micron-technology-microsoft/"
+  - title: "Microsoft Is Developing an AI Upscaling Engine to Improve Xbox Visuals"
+    excerpt: "Microsoft wants to implement its own machine learning solutions for Xbox, possibly in competition with AMD's FSR or Nvidia's DLSS."
+    publishedDateTime: 2021-07-08T13:31:00Z
+    webUrl: "https://www.extremetech.com/gaming/324429-microsoft-mulls-ai-upscaling-method-to-improve-xbox-visuals"
     type: article
     provider:
-      name: manometcurrent.com
-      domain: manometcurrent.com
-    quality: 34
-  - title: "Deep Learning Market Size, Trends and Forecast 2028 By Amazon Web Services (AWS), Google, IBM, Intel, Micron Technology, Microsoft, Nvidia, Qualcomm"
-    excerpt: "The report covers a very methodical quantitative and qualitative analysis of the Deep Learning market. The study evaluates many aspects of this industry by examining its historical and forecast data."
-    publishedDateTime: 2021-07-08T04:57:00Z
-    webUrl: "https://manometcurrent.com/deep-learning-market-size-trends-and-forecast-2028-by-amazon-web-services-aws-google-ibm-intel-micron-technology-microsoft-nvidia-qualcomm/"
-    type: article
-    provider:
-      name: manometcurrent.com
-      domain: manometcurrent.com
-    quality: 29
-  - title: "AI in Telecommunication Market Booming Segments; Investors Seeking Growth | Google, Microsoft, IBM"
-    excerpt: "Get Free Exclusive PDF Sample Copy of This Research @  Scope of the Report of AI in Telecommunication Artificial Intelligence with learning abilities is a revolutionary technology, which the communication industry is exploring,"
-    publishedDateTime: 2021-07-08T16:59:00Z
-    webUrl: "https://manometcurrent.com/ai-in-telecommunication-market-booming-segments-investors-seeking-growth-google-microsoft-ibm/"
-    type: article
-    provider:
-      name: manometcurrent.com
-      domain: manometcurrent.com
-    quality: 20
+      name: ExtremeTech
+      domain: extremetech.com
+    quality: 56
+    images:
+      - url: "https://www.extremetech.com/wp-content/uploads/2020/10/Xbox-Die-Feature.jpg"
+        width: 1186
+        height: 655
+        isCached: true
   - title: "Contact Center AI Software Market is Going to Boom With Google, Cisco, Oracle Corporation, Asterisk"
     excerpt: "Growing Demand of New Call Centres and Incorporation of New Systems, Increasing Number of Queries and Increasing Demand of Quick Resolution on Call is driving the global Contact Center AI Software market."
     publishedDateTime: 2021-07-10T18:08:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://www.stripes.com/branches/2021-07-07/autonomous-war-ai-us-w
 webUrl: "https://www.stripes.com/branches/2021-07-07/autonomous-war-ai-us-weapons-control-2078011.html"
 type: article
 quality: 21
-heat: -1
+heat: 21
 published: false
 
 provider:
@@ -24,22 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "The U.S. says humans will always be in control of AI weapons. But the age of autonomous war is already here."
-    excerpt: "The Pentagon says a ban on autonomous weapons isn't necessary. But experts say that weapons that can make decisions for themselves are already here, and making a difference in conflicts from Libya to Armenia."
-    publishedDateTime: 2021-07-07T13:00:00Z
-    webUrl: "https://www.washingtonpost.com/technology/2021/07/07/ai-weapons-us-military/"
-    ampWebUrl: "https://www.washingtonpost.com/technology/2021/07/07/ai-weapons-us-military/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/technology/2021/07/07/ai-weapons-us-military/?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 42
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/J7CVFR5XPRCRJJ7OUGCJ3IGNW4.jpg&w=1440"
-        width: 1440
-        height: 922
-        isCached: true
   - title: "U.S. says humans will always be in control of AI weapons. But the age of autonomous war is already here."
     excerpt: "The Pentagon says a ban on autonomous weapons isn't necessary, but experts say that weapons that can make decisions for themselves are already making a difference in Libyan, Armenian and other conflicts."
     publishedDateTime: 2021-07-08T08:17:00Z

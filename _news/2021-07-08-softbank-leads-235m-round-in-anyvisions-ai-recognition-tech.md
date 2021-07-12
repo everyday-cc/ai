@@ -44,22 +44,6 @@ related:
         width: 457
         height: 274
         isCached: true
-  - title: "Facial recognition firm AnyVision raises $235 million from investors"
-    excerpt: "Investors include SoftBank Vision Fund 2 and Eldridge; company says personal data will be protected by new data privacy measures"
-    publishedDateTime: 2021-07-07T12:09:00Z
-    webUrl: "https://www.timesofisrael.com/facial-recognition-firm-anyvision-raises-235-million-from-investors/"
-    ampWebUrl: "https://www.timesofisrael.com/facial-recognition-firm-anyvision-raises-235-million-from-investors/amp/"
-    cdnAmpWebUrl: "https://www-timesofisrael-com.cdn.ampproject.org/c/s/www.timesofisrael.com/facial-recognition-firm-anyvision-raises-235-million-from-investors/amp/"
-    type: article
-    provider:
-      name: The Times of Israel
-      domain: timesofisrael.com
-    quality: 74
-    images:
-      - url: "https://static.timesofisrael.com/www/uploads/2021/07/AnyVision-pic111-e1625656980196-640x400.jpg"
-        width: 640
-        height: 400
-        isCached: true
   - title: "AI facial recognition co AnyVision raises $235m"
     excerpt: "Israeli AI-driven facial recognition company AnyVision has announced the completion of a $235 million financing round from SoftBank Vision Fund 2 and Eldridge with participation from existing ..."
     publishedDateTime: 2021-07-08T06:40:00Z

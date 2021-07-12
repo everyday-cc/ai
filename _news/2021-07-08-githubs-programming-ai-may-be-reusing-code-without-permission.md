@@ -42,20 +42,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Will AI coding assistants like GitHub’s Copilot transform developers’ jobs?"
-    excerpt: "AI pair programmers will certainly speed things up — but you still need to have chops to devise solutions and deliver high-quality code."
-    publishedDateTime: 2021-07-07T11:40:00Z
-    webUrl: "https://thenextweb.com/news/will-ai-coding-assistants-github-copilot-transform-developer-jobs-syndication"
-    type: article
-    provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 67
-    images:
-      - url: "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F07%2FGitHub-Copilot-OpenAI-Microsoft-TechTalks-hed.jpg&signature=2c6efd5beef302a36be592136eb563c1"
-        width: 1280
-        height: 640
-        isCached: true
 
 secured: "PC3WM9+JbsHp/Y+cMYKvBLyw5lWHp45V39V2/3Ji3xV8QRKEhA2tp0EgVxjPrryPGKJM2xOyNXf7Em1u9SfuR3g3m5RrnrBYfwZPH6kgeOsy6z9UPrznA3MKQBFOGUAl8hitxsoyJ2eoTjD0YWaYS4rfxXsVG4seEuENrny2eCE0jSvY/CbN2156G6cFPpjk584epivUGhS9FxKPVhjdZ54NIiyb/0YUhKpddBaz5XeR057TsuY1TwouZFST2iK/HVW4QoFbgoo2D27xJhjDz8APZZthrmi7Ge37LrPoBt2jICF9DQDs8ioC1+bk0AtAs8J59sKMTLx8ZP27BlFL3NKtL69sMDBlUHuLHjzPF3Tcg4zGYDOyFsTf21fpeHa5a8tbEQStZhL2QkhfCmueudQWzoMg5BAtEAYN3TCrCPZTyTxuEeRgeg6PYrgtXCX7JKXLDNMV14ib3fxWez66Hshkagspy8Raof+xYty3DKq9fNKrLMDRQDC9dBVH9kLEkpnCuFOc6G1CM4GM0lFKYg==;sGJ3OKZUriwS2ytDZ5+otg=="
 ---

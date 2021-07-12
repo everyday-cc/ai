@@ -9,7 +9,7 @@ ampWebUrl: "https://www.tomsguide.com/uk/amp/news/xbox-series-x-games-could-get-
 cdnAmpWebUrl: "https://www-tomsguide-com.cdn.ampproject.org/c/s/www.tomsguide.com/uk/amp/news/xbox-series-x-games-could-get-a-big-boost-thanks-to-ai-upscaling"
 type: article
 quality: 57
-heat: -1
+heat: 67
 published: false
 
 provider:
@@ -26,36 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Xbox Series X games might look even better soon thanks to AI upscaling"
-    excerpt: "They teased the return of the Fable franchise from developer Playground Games, and now might have just revealed Microsoft’s answer to AI-based graphical upscaling like Nvidia's DLSS but for Xbox Series X."
-    publishedDateTime: 2021-07-07T11:04:00Z
-    webUrl: "https://www.techradar.com/nz/news/xbox-series-x-games-might-look-even-better-soon-thanks-to-ai-upscaling"
-    ampWebUrl: "https://www.techradar.com/nz/amp/news/xbox-series-x-games-might-look-even-better-soon-thanks-to-ai-upscaling"
-    cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/nz/amp/news/xbox-series-x-games-might-look-even-better-soon-thanks-to-ai-upscaling"
-    type: article
-    provider:
-      name: TechRadar
-      domain: techradar.com
-    quality: 89
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/ttRhUwVgN4KdzEYbBaC6oW-480-80.jpg"
-        width: 480
-        height: 288
-        isCached: true
-  - title: "Microsoft Is Developing an AI Upscaling Engine to Improve Xbox Visuals"
-    excerpt: "Microsoft wants to implement its own machine learning solutions for Xbox, possibly in competition with AMD's FSR or Nvidia's DLSS."
-    publishedDateTime: 2021-07-08T13:31:00Z
-    webUrl: "https://www.extremetech.com/gaming/324429-microsoft-mulls-ai-upscaling-method-to-improve-xbox-visuals"
-    type: article
-    provider:
-      name: ExtremeTech
-      domain: extremetech.com
-    quality: 56
-    images:
-      - url: "https://www.extremetech.com/wp-content/uploads/2020/10/Xbox-Die-Feature.jpg"
-        width: 1186
-        height: 655
-        isCached: true
   - title: "Cheating In PS5 And Xbox Series X Games Might Get Worse, Thanks To This Machine-Learning Tool"
     excerpt: "A new cheat engine that uses machine-learning can work on consoles, including Xbox Series X and PlayStation 5. The anti-cheat watch group ACPD posted its findings on the new tool on Twitter, explaining how it will be difficult for developers to detect."
     publishedDateTime: 2021-07-07T19:07:00Z

@@ -209,7 +209,7 @@
       "originalUrl": "https://www.pymnts.com/news/investment-tracker/2021/anyvision-raises-235m-for-access-point-ai-based-physical-security/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 106,
+      "heat": 96,
       "tags": null,
       "images": [
         {
@@ -242,6 +242,49 @@
         "AI Hardware",
         "AI",
         "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2021-07-07-the-oneplus-nord-2-will-have-a-custom-dimensity-1200-ai-chipset-the-company-confirms.md",
+      "title": "The OnePlus Nord 2 will have a custom Dimensity 1200-AI chipset, the company confirms",
+      "excerpt": "OnePlus and MediaTek added additional AI features to the base Dimensity 1200 to help with the camera, media playback and other tasks.",
+      "sourceUrl": null,
+      "webUrl": "https://www.gsmarena.com/the_oneplus_nord_2_will_have_a_custom_dimensity_1200ai_chipset_the_company_confirms-news-49934.php",
+      "originalUrl": "https://www.gsmarena.com/the_oneplus_nord_2_will_have_a_custom_dimensity_1200ai_chipset_the_company_confirms-news-49934.php",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 177,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://fdn.gsmarena.com/imgroot/news/21/07/oneplus-nord2-dimensity1200ai-chipset/-1220x526/gsmarena_0000.jpg",
+          "width": 1220,
+          "height": 526,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://m.gsmarena.com/the_oneplus_nord_2_will_have_a_custom_dimensity_1200ai_chipset_the_company_confirms-amp-49934.php",
+      "cdnAmpWebUrl": "https://m-gsmarena-com.cdn.ampproject.org/c/s/m.gsmarena.com/the_oneplus_nord_2_will_have_a_custom_dimensity_1200ai_chipset_the_company_confirms-amp-49934.php",
+      "publishedDateTime": "2021-07-07T08:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GSM Arena",
+        "domain": "gsmarena.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
       ]
     },
     {
@@ -673,8 +716,8 @@
       "title": "Alluxio Brings Substantial Performance and Ease of Use Improvements to GPU-Centric AI/ML Workloads with v2.6 Release",
       "excerpt": "This new release features an enhanced system architecture enabling AI/ML platform teams using GPUs to accelerate their data pipelines for business intelligence, applied machine learning and model training.",
       "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/2021/07/01/9401759.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/2021/07/01/9401759.htm",
+      "webUrl": "https://www.tmcnet.com/usubmit/-alluxio-brings-substantial-performance-ease-use-improvements-gpu-/2021/07/01/9401759.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-alluxio-brings-substantial-performance-ease-use-improvements-gpu-/2021/07/01/9401759.htm",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -1387,49 +1430,6 @@
         "Machine Learning",
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2021-06-25-a-look-at-baidus-industrial-scale-gpu-training-architecture.md",
-      "title": "A Look at Baidu’s Industrial-Scale GPU Training Architecture",
-      "excerpt": "Like its U.S. counterpart, Google, Baidu has made significant investments to build robust, large-scale systems to support global advertising programs. As",
-      "sourceUrl": null,
-      "webUrl": "https://www.nextplatform.com/2021/06/25/a-look-at-baidus-industrial-scale-gpu-training-architecture/",
-      "originalUrl": "https://www.nextplatform.com/2021/06/25/a-look-at-baidus-industrial-scale-gpu-training-architecture/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2018/04/baidu_front.jpg",
-          "width": 832,
-          "height": 333,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nextplatform.com/2021/06/25/a-look-at-baidus-industrial-scale-gpu-training-architecture/amp/",
-      "cdnAmpWebUrl": "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2021/06/25/a-look-at-baidus-industrial-scale-gpu-training-architecture/amp/",
-      "publishedDateTime": "2021-06-25T06:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Platform",
-        "domain": "nextplatform.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     }
   ],

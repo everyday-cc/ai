@@ -2,6 +2,221 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2021-07-01-jevois-pro-deep-learning-open-source-ai-camera.md",
+      "title": "JeVois-Pro deep learning open source AI camera",
+      "excerpt": "If you are interested in learning more about deep learning a new open source smart camera has been launched via Kickstarter called the JeVois-Pro. The artificial intelligent camera runs powerful ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.geeky-gadgets.com/deep-learning-camera-01-07-2021/",
+      "originalUrl": "https://www.geeky-gadgets.com/deep-learning-camera-01-07-2021/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.geeky-gadgets.com/wp-content/uploads/2021/07/JeVois-Pro-deep-learning-smart-camera.jpg",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-30T23:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Geeky Gadgets",
+        "domain": "geeky-gadgets.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-01-ddn-boosts-ai-storage-leadership-with-exascaler-6-and-expanded-portfolio-for-enterprise-intelligent-infrastructure.md",
+      "title": "DDN Boosts AI Storage Leadership with EXAScaler 6 and Expanded Portfolio for Enterprise Intelligent Infrastructure",
+      "excerpt": "Expanding on its global leadership in artificial intelligence (AI) and multi cloud data management solutions, DDN® is strengthening its commitment to enterprise AI",
+      "sourceUrl": null,
+      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/ddn-boosts-ai-storage-leadership-with-exascaler-6-and-expanded-portfolio-for-enterprise-intelligent-infrastructure/article_509526cc-fe93-53a7-ace4-b0d0f70a7319.html",
+      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/ddn-boosts-ai-storage-leadership-with-exascaler-6-and-expanded-portfolio-for-enterprise-intelligent-infrastructure/article_509526cc-fe93-53a7-ace4-b0d0f70a7319.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/a/fc/afcd069f-109a-5e25-b5c1-2f230e1ec9d3/609a802dd1fff.image.jpg?resize=446%2C630",
+          "width": 446,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-30T18:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WFMZ-TV",
+        "domain": "wfmz.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-01-researchers-turn-to-machine-learning-to-predict-when-immunotherapy-will-be-effective.md",
+      "title": "Researchers turn to machine learning to predict when immunotherapy will be effective",
+      "excerpt": "When it comes to defense, the body relies on attack thanks to the lymphatic and immune systems. The immune system is like the body's own personal police force as it hunts down and eliminates pathogenic villains.",
+      "sourceUrl": null,
+      "webUrl": "https://www.news-medical.net/news/20210630/Researchers-turn-to-machine-learning-to-predict-when-immunotherapy-will-be-effective.aspx",
+      "originalUrl": "https://www.news-medical.net/news/20210630/Researchers-turn-to-machine-learning-to-predict-when-immunotherapy-will-be-effective.aspx",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2014/7/174318220-620x480.jpg",
+          "width": 620,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.news-medical.net/amp/news/20210630/Researchers-turn-to-machine-learning-to-predict-when-immunotherapy-will-be-effective.aspx",
+      "cdnAmpWebUrl": "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20210630/Researchers-turn-to-machine-learning-to-predict-when-immunotherapy-will-be-effective.aspx",
+      "publishedDateTime": "2021-06-30T18:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "News Medical",
+        "domain": "news-medical.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-01-ubers-first-head-of-data-science-just-launched-a-new-venture-fund-to-back-nascent-ai-startups.md",
+      "title": "Uber’s first head of data science just launched a new venture fund to back nascent AI startups",
+      "excerpt": "Kevin Novak joined Uber as its 21st employee its seventh engineer in 2011, and by 2014, he was the company’s head of data science. He transitioned out of the company in late 2017, after Travis Kalanick had been replaced as CEO by Dara Khosrowshahi.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/06/30/ubers-first-head-of-data-science-just-launched-a-new-venture-fund-to-back-nascent-ai-startups/",
+      "originalUrl": "https://techcrunch.com/2021/06/30/ubers-first-head-of-data-science-just-launched-a-new-venture-fund-to-back-nascent-ai-startups/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/06/Screen-Shot-2021-06-30-at-5.19.36-PM.png?w=1024",
+          "width": 1024,
+          "height": 588,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/06/30/ubers-first-head-of-data-science-just-launched-a-new-venture-fund-to-back-nascent-ai-startups/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/06/30/ubers-first-head-of-data-science-just-launched-a-new-venture-fund-to-back-nascent-ai-startups/amp/",
+      "publishedDateTime": "2021-06-30T17:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2021-07-01-meet-the-scientist-teaching-ai-to-police-human-speech.md",
+      "title": "Meet the Scientist Teaching AI to Police Human Speech",
+      "excerpt": "Alexis Conneau's work has helped Facebook and Google build artificial intelligence systems that can understand dozens of languages with startling accuracy.",
+      "sourceUrl": null,
+      "webUrl": "https://cacm.acm.org/news/253733-meet-the-scientist-teaching-ai-to-police-human-speech",
+      "originalUrl": "https://cacm.acm.org/news/253733-meet-the-scientist-teaching-ai-to-police-human-speech",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-30T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "acm.org",
+        "domain": "acm.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-01-inrule-64-worry-about-job-security-while-working-with-ai.md",
       "title": "InRule: 64% worry about job security while working with AI",
       "excerpt": "Enterprise decision-makers who work with AI and machine learning are worried about their job security, according to new InRule research.",
@@ -995,249 +1210,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-30-c3ai-fragmented-market-may-be-difficult-to-dominate.md",
-      "title": "C3.ai: Fragmented Market May Be Difficult To Dominate",
-      "excerpt": "The market for AI software is extremely large and growing rapidly, but fragmented and highly competitive. See why investing in C3.ai is a particularly speculative undertaking.",
-      "sourceUrl": null,
-      "webUrl": "https://seekingalpha.com/article/4437266-c3-ai-fragmented-market-difficult-to-dominate",
-      "originalUrl": "https://seekingalpha.com/article/4437266-c3-ai-fragmented-market-difficult-to-dominate",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1251037767/medium_image_1251037767.jpg",
-          "width": 768,
-          "height": 410,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://seekingalpha.com/amp/article/4437266-c3-ai-fragmented-market-difficult-to-dominate",
-      "cdnAmpWebUrl": "https://seekingalpha-com.cdn.ampproject.org/c/s/seekingalpha.com/amp/article/4437266-c3-ai-fragmented-market-difficult-to-dominate",
-      "publishedDateTime": "2021-06-30T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Seeking Alpha",
-        "domain": "seekingalpha.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-30-what-investors-should-know-about-baidus-ai-chip-spin-off.md",
-      "title": "What Investors Should Know About Baidu's AI Chip Spin-Off",
-      "excerpt": "Baidu (NASDAQ:BIDU) unveiled Kunlun, its artificial intelligence (AI) chip optimized for cloud-to-edge computing tasks, three years ago. At the time, it claimed the 14nm chip provided 1.5 to three times more processing power than NVIDIA's comparable T4 GPU for AI tasks.",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2021/06/30/what-investors-know-about-baidu-ai-chip-spin-off/",
-      "originalUrl": "https://www.fool.com/investing/2021/06/30/what-investors-know-about-baidu-ai-chip-spin-off/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F632101%2F1600829035136803.jpg&w=1200&op=resize",
-          "width": 1200,
-          "height": 721,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.fool.com/amp/investing/2021/06/30/what-investors-know-about-baidu-ai-chip-spin-off/",
-      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/06/30/what-investors-know-about-baidu-ai-chip-spin-off/",
-      "publishedDateTime": "2021-06-30T08:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-30-zoom-to-acquire-real-time-translation-startup-kites.md",
-      "title": "Zoom to acquire real-time translation startup Kites",
-      "excerpt": "Zoom on Tuesday said it has signed a deal to acquire Kites, an AI startup focused on developing real-time translation tools. With the acquisition, Zoom hopes to \"improve meeting productivity and efficiency\" by adding \"multi-language translation capabilities\" to the video chat service,",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/tech/services-and-software/zoom-to-acquire-real-time-translation-startup-kites/",
-      "originalUrl": "https://www.cnet.com/tech/services-and-software/zoom-to-acquire-real-time-translation-startup-kites/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cnet.com/a/img/Ms_zrkY2ZfQJR7X57i9S6le1_AE=/1200x630/2020/06/29/e721e8fc-6c98-4378-878b-5b350754a3fc/zoom-logo-apple-iphone-11-3436.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/zoom-to-acquire-real-time-translation-startup-kites/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/zoom-to-acquire-real-time-translation-startup-kites/",
-      "publishedDateTime": "2021-06-30T08:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-30-lip-reading-by-ai-self-driving-cars-is-either-alarming-or-ingenious.md",
-      "title": "Lip-Reading By AI Self-Driving Cars Is Either Alarming Or Ingenious",
-      "excerpt": "Advances in AI have enabled new apps for doing lip-reading, which could be a feature included into self-driving cars, alarmingly so or perhaps ingeniously.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/lanceeliot/2021/06/30/lip-reading-by-ai-self-driving-cars-is-either-alarming-or-ingenious/",
-      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2021/06/30/lip-reading-by-ai-self-driving-cars-is-either-alarming-or-ingenious/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 141,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F605c07cb6c32656bba197566%2F0x0.jpg%3FcropX1%3D29%26cropX2%3D2454%26cropY1%3D168%26cropY2%3D1532",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2021/06/30/lip-reading-by-ai-self-driving-cars-is-either-alarming-or-ingenious/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/06/30/lip-reading-by-ai-self-driving-cars-is-either-alarming-or-ingenious/amp/",
-      "publishedDateTime": "2021-06-30T08:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2021-06-30-att-to-run-its-mobility-network-on-microsofts-azure-for-operators-cloud-delivering-cost-efficient-5g-services-at-scale.md",
-      "title": "AT&T to run its mobility network on Microsoft's Azure for Operators cloud, delivering cost-efficient 5G services at scale",
-      "excerpt": "AT&T will move its 5G mobile network to the Microsoft cloud. This strategic alliance provides a path for all of AT&T's mobile network traffic to be managed using Microsoft Azure technologies. The companies will start with AT&T's 5G core,",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/-att-run-its-mobility-network-microsofts-azure-operators-/2021/06/30/9401145.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/-att-run-its-mobility-network-microsofts-azure-operators-/2021/06/30/9401145.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1554604/ATT_mobility_network_Microsoft_Azure.jpg",
-          "width": 400,
-          "height": 267,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-30T07:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

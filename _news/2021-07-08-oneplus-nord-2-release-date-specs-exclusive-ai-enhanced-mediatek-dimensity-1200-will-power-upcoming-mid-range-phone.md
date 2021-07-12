@@ -25,52 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "OnePlus Nord 2 will use a customized version of MediaTek’s flagship chip"
-    excerpt: "OnePlus and MediaTek have partnered together to work on the OnePlus Nord 2 5G. The forthcoming smartphone will use a custom Dimensity 1200 processor."
-    publishedDateTime: 2021-07-07T11:41:00Z
-    webUrl: "https://www.digitaltrends.com/mobile/oneplus-nord-2-5g-mediatek-dimensity-1200-news/"
-    ampWebUrl: "https://www.digitaltrends.com/mobile/oneplus-nord-2-5g-mediatek-dimensity-1200-news/?amp"
-    cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/mobile/oneplus-nord-2-5g-mediatek-dimensity-1200-news/?amp"
-    type: article
-    provider:
-      name: Digital Trends
-      domain: digitaltrends.com
-    quality: 88
-    images:
-      - url: "https://icdn.digitaltrends.com/image/digitaltrends/oneplus-9-pro-camera-module-back-hand.jpg"
-        width: 2000
-        height: 1333
-        isCached: true
-  - title: "OnePlus confirms Nord 2 with a customized Dimensity 1200-AI chip"
-    excerpt: "this initiative gives brands like OnePlus access to the latest AI-powered capabilities with the flexibility to innovate in new and exciting ways.” While OnePlus has confirmed the chip, it is yet to announce an official launch date for the Nord 2 5G."
-    publishedDateTime: 2021-07-07T12:27:00Z
-    webUrl: "https://www.gizmochina.com/2021/07/07/oneplus-nord-2-customized-dimensity-1200-ai-chip/"
-    type: article
-    provider:
-      name: Gizmochina
-      domain: gizmochina.com
-    quality: 84
-    images:
-      - url: "https://www.gizmochina.com/wp-content/uploads/2021/07/OnePLus-Nord-2-Dimensity-1200-AI.png"
-        width: 1600
-        height: 1360
-        isCached: true
-  - title: "It's official: OnePlus Nord 2 will feature MediaTek Dimensity 1200-AI chip"
-    excerpt: "A so-called \"AI Color Boost\" technology will use the AI to be aware of ... It's no surprise that OnePlus is also claiming its chip will enable you to game at high refresh rates too. The Dimensity 1200 is a powerful chipset after all. Power-wise, it's ..."
-    publishedDateTime: 2021-07-07T12:05:00Z
-    webUrl: "https://www.pocket-lint.com/phones/news/oneplus/157590-oneplus-nord-2-mediatek-dimensity-1200-official"
-    ampWebUrl: "https://www.pocket-lint.com/phones/news/oneplus/157590-oneplus-nord-2-mediatek-dimensity-1200-official.amphtml"
-    cdnAmpWebUrl: "https://www-pocket--lint-com.cdn.ampproject.org/c/s/www.pocket-lint.com/phones/news/oneplus/157590-oneplus-nord-2-mediatek-dimensity-1200-official.amphtml"
-    type: article
-    provider:
-      name: Pocket-lint
-      domain: pocket-lint.com
-    quality: 72
-    images:
-      - url: "https://cdn.pocket-lint.com/r/s/1200x630/assets/images/157590-phones-news-it-s-official-oneplus-nord-2-will-feature-mediatek-dimensity-1200-ai-chip-image1-lnieutntff.jpg"
-        width: 946
-        height: 630
-        isCached: true
   - title: "The OnePlus Nord 2 will have a custom Dimensity 1200-AI chipset, the company confirms"
     excerpt: "OnePlus and MediaTek added additional AI features to the base Dimensity 1200 to help with the camera, media playback and other tasks."
     publishedDateTime: 2021-07-07T15:02:00Z
@@ -102,38 +56,6 @@ related:
       - url: "https://images.moneycontrol.com/static-mcnews/2020/07/Nord-2-770x433.jpg?impolicy=website&width=770&height=431"
         width: 770
         height: 431
-        isCached: true
-  - title: "OnePlus Nord 2 5G Confirmed to Launch with MediaTek Dimensity 1200 Chip"
-    excerpt: "OnePlus Nord 2 5G has been confirmed to arrive with the MediaTek Dimensity 1200 AI chipset, Warp Charge, and more in the coming weeks."
-    publishedDateTime: 2021-07-07T11:52:00Z
-    webUrl: "https://beebom.com/oneplus-nord-2-5g-mediatek-dimensity-1200-launch-confirmed/"
-    ampWebUrl: "https://beebom.com/oneplus-nord-2-5g-mediatek-dimensity-1200-launch-confirmed/amp/"
-    cdnAmpWebUrl: "https://beebom-com.cdn.ampproject.org/c/s/beebom.com/oneplus-nord-2-5g-mediatek-dimensity-1200-launch-confirmed/amp/"
-    type: article
-    provider:
-      name: Beebom
-      domain: beebom.com
-    quality: 59
-    images:
-      - url: "https://beebom.com/wp-content/uploads/2021/06/OnePlus-Nord-2-Design-Leak-ft.jpg"
-        width: 750
-        height: 500
-        isCached: true
-  - title: "OnePlus Nord 2 5G confirmed with MediaTek Dimensity 1200-AI SoC"
-    excerpt: "With the MediaTek Dimensity 1200-AI SoC, the company claims that the Nord 2 5G will provide its users with \"exceptional performance.\""
-    publishedDateTime: 2021-07-07T12:25:00Z
-    webUrl: "https://www.bgr.in/mobiles/oneplus-nord-2-5g-confirmed-with-mediatek-dimensity-1200-ai-soc-971336/"
-    ampWebUrl: "https://www.bgr.in/mobiles/oneplus-nord-2-5g-confirmed-with-mediatek-dimensity-1200-ai-soc-971336/amp/"
-    cdnAmpWebUrl: "https://www-bgr-in.cdn.ampproject.org/c/s/www.bgr.in/mobiles/oneplus-nord-2-5g-confirmed-with-mediatek-dimensity-1200-ai-soc-971336/amp/"
-    type: article
-    provider:
-      name: BGR
-      domain: www.bgr.in
-    quality: 59
-    images:
-      - url: "https://st1.bgr.in/wp-content/uploads/2021/06/OnePlus-Nord-CE-5G-9.jpg"
-        width: 1200
-        height: 675
         isCached: true
   - title: "OnePlus Nord 2 to Feature A Custom Dimensity 1200 Chip"
     excerpt: "The OnePlus Nord 2 is launching later this month and more leaks are mounting as the date draws near. The Chinese brand has now announced that the phone will have a custom “Dimensity 1200-AI” chipset with a few enhancements on board."

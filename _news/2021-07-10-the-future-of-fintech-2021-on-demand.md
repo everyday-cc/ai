@@ -25,52 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Three Experts Offer Fintech App Marketing Tips You Can Bank On"
-    excerpt: "Fintech and finance apps are booming, but turning installs into loyal users requires new metrics and approaches. Three expert marketers share invaluable lessons and learnings to rocket campaign results."
-    publishedDateTime: 2021-07-07T12:07:00Z
-    webUrl: "https://www.forbes.com/sites/peggyannesalz/2021/07/07/three-experts-offer-fintech-app-marketing-tips-you-can-bank-on/"
-    ampWebUrl: "https://www.forbes.com/sites/peggyannesalz/2021/07/07/three-experts-offer-fintech-app-marketing-tips-you-can-bank-on/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/peggyannesalz/2021/07/07/three-experts-offer-fintech-app-marketing-tips-you-can-bank-on/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 106
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60e59491966c5c37559bebbe%2F0x0.jpg%3FcropX1%3D1966%26cropX2%3D8040%26cropY1%3D0%26cropY2%3D3227"
-        width: 1200
-        height: 638
-        isCached: true
-  - title: "AI in Fintech Market Next Big Thing : Major Giants IBM, Microsoft, Samsung, Intel"
-    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Jul 06, 2021 (Heraldkeepers) -- The latest research on \"Global AI in Fintech Report 2021\" offered by HTF MI provides a comprehensive investigation into the geographical ..."
-    publishedDateTime: 2021-07-07T14:20:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-in-fintech-market-next-big-thing-major-giants-ibm-microsoft-samsung-intel-2021-07-06"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 81
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence (AI) in Fintech Market: Ready To Fly on high Growth Trends"
-    excerpt: "Latest Study on Industrial Growth of COVID 19 Outbreak Global Artificial Intelligence AI in Fintech Market 2021 2027 A detailed study accumulated to offer Latest insights about acute features of the COVID 19 Outbreak Artificial Intelligence AI in Fintech market"
-    publishedDateTime: 2021-07-08T08:20:00Z
-    webUrl: "https://www.openpr.com/news/2323847/artificial-intelligence-ai-in-fintech-market-ready-to-fly"
-    ampWebUrl: "https://www.openpr.com/amp/2323847/artificial-intelligence-ai-in-fintech-market-ready-to-fly"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2323847/artificial-intelligence-ai-in-fintech-market-ready-to-fly"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 68
-    images:
-      - url: "https://cdn.openpr.com/U/7/U708590558_g.jpg"
-        width: 750
-        height: 500
-        isCached: true
   - title: "Rise by Barclays: Embedded finance and the future of fintech"
     excerpt: "Mariquit Corcoran, Group CIO at Barclays, contextualises the benefits that embedded finance is bringing to customers and how it could shape fintech overall"
     publishedDateTime: 2021-07-08T07:48:00Z
@@ -122,20 +76,6 @@ related:
         width: 2048
         height: 1136
         isCached: true
-  - title: "Demystifying the role of the fintech CFO"
-    excerpt: "This series of articles looks to demystify the various C-level roles within fintech companies today – exploring the career paths taken by top managers, their critical skills, daily responsibilities and challenges,"
-    publishedDateTime: 2021-07-09T11:48:00Z
-    webUrl: "https://www.finextra.com/the-long-read/228/demystifying-the-role-of-the-fintech-cfo"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 24
-    images:
-      - url: "https://www.finextra.com/finextra-images/oped/228.jpg"
-        width: 800
-        height: 450
-        isCached: true
   - title: "Fintech firm, Tangerine, launches pension, insurance products"
     excerpt: "A leading financial services and technology platform, Tangerine, officially launched its financial service product offerings at a press conference held on Wednesday July 7. Speaking at the press conference was Livingstone Magorimbo,"
     publishedDateTime: 2021-07-08T21:16:00Z
@@ -150,15 +90,6 @@ related:
         width: 1620
         height: 1080
         isCached: true
-  - title: "At 17.1% CAGR, AI in Fintech Market Size will reach 8984.9 million USD by 2025"
-    excerpt: "The global AI in Fintech market size is expected to gain market growth in the forecast period of 2020 to 2025, with a CAGR of 17.1% in the forecast period of 2020 to 2025 and will expected to reach USD 8984."
-    publishedDateTime: 2021-07-09T15:21:00Z
-    webUrl: "https://www.arnnet.com.au/mediareleases/144117/at-171-cagr-ai-in-fintech-market-size-will-reach/"
-    type: article
-    provider:
-      name: ARN
-      domain: arnnet.com.au
-    quality: 15
   - title: "How to find funding in the fintech space and what the Government can do to support the UK’s position"
     excerpt: "Over the last decade, the UK has been undergoing a fintech revolution seeing increased opportunities in global trade, jobs, and innovation to become the global hub that it is today. Yet for many, the image of fintech is stuck in Shoreditch,"
     publishedDateTime: 2021-07-07T19:18:00Z
@@ -168,6 +99,20 @@ related:
       name: Finextra
       domain: finextra.com
     quality: 0
+  - title: "Rensselaer Polytechnic Institute and Stevens Institute of Technology To Establish the First-Ever NSF-Backed Fintech Research Center"
+    excerpt: "Rensselaer Polytechnic Institute and Stevens Institute of Technology announced today that they have been awarded the first-ever National Science Foundation (NSF) grant to create an industry-university cooperative research center devoted specifically to financial technology and science."
+    publishedDateTime: 2021-07-08T15:22:00Z
+    webUrl: "https://news.rpi.edu/content/2021/07/08/rensselaer-polytechnic-institute-and-stevens-institute-technology-establish-first"
+    type: article
+    provider:
+      name: RPI News
+      domain: rpi.edu
+    quality: 0
+    images:
+      - url: "https://www.rpi.edu/dept/cct/apps/web-branding/v1/header/meganav/img/thearch.jpg"
+        width: 667
+        height: 446
+        isCached: true
 
 secured: "12V6X6M9OlkT4a5u7b/lzE1okPUJEJ6QS8ffjCNK5eOAF8a0BHuYBXBKdLpOn+bq17AwoHwzSToy6lyRH1ivVZj+9dh6xtz35AuBbk0Fy+btJbGPCqLtvbfz9TP0Bklw+WHyQP4R4NoEDHRrFBonUcQPM3/tt4I3RRAt22f4ia3rZd4Gu/VxH6kEshJzIYiOFuTl+OvuqlLQ+j+4b3+sFij6gjGU3GqLHauPL8qos6VKDf/ky8N8qj7Q3bAHLM0w4128R/NX8y3EZLx4ASdLRlLHtnNILou56LjZmpQYF/craRGO6NLPL0/ZC8ZbgDF2X/yWI8H0zIMfCgfAYtrJbuCugokba1Uepd1BoOs+nq8=;XmfPNheyH5X8Kh9SoFVZzg=="
 ---

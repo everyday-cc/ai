@@ -53,7 +53,7 @@
       "originalUrl": "https://manometcurrent.com/artificial-intelligence-and-machine-learning-market-is-booming-worldwide-googleinc-microsoft-corporation-amazon-web-services-inc/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 108,
+      "heat": 88,
       "tags": null,
       "images": [
         {
@@ -99,7 +99,7 @@
       "originalUrl": "https://venturebeat.com/2021/07/08/openai-warns-ai-behind-githubs-copilot-may-be-susceptible-to-bias/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 109,
+      "heat": 99,
       "tags": null,
       "images": [
         {
@@ -140,6 +140,58 @@
       "topics": [
         "Microsoft AI",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-08-ai-gives-software-development-tools-a-boost.md",
+      "title": "AI gives software development tools a boost",
+      "excerpt": "AI-assisted development tools can best be thought of as a pair ... Simon Bisson has worked in academic and telecoms research, been the CTO of a startup, run the technical side of UK Online, and done consultancy and technology strategy.",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3623773/ai-gives-software-development-tools-a-boost.html",
+      "originalUrl": "https://www.infoworld.com/article/3623773/ai-gives-software-development-tools-a-boost.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2021/06/artificial_intelligence_automation_digital_brain_thinkstock_875595818-100749926-orig-100893865-large.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3623773/ai-gives-software-development-tools-a-boost.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3623773/ai-gives-software-development-tools-a-boost.amp.html",
+      "publishedDateTime": "2021-07-07T16:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
       ]
     },
     {
@@ -191,6 +243,59 @@
       ],
       "topics": [
         "Natural Language Processing",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-07-ai-in-fintech-market-next-big-thing-major-giants-ibm-microsoft-samsung-intel.md",
+      "title": "AI in Fintech Market Next Big Thing : Major Giants IBM, Microsoft, Samsung, Intel",
+      "excerpt": "The MarketWatch News Department was not involved in the creation of this content. Jul 06, 2021 (Heraldkeepers) -- The latest research on \"Global AI in Fintech Report 2021\" offered by HTF MI provides a comprehensive investigation into the geographical ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/ai-in-fintech-market-next-big-thing-major-giants-ibm-microsoft-samsung-intel-2021-07-06",
+      "originalUrl": "https://www.marketwatch.com/press-release/ai-in-fintech-market-next-big-thing-major-giants-ibm-microsoft-samsung-intel-2021-07-06",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 151,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-07T07:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
         "AI",
         "Microsoft AI"
       ]
@@ -897,33 +1002,24 @@
     {
       "path": "_news/2021-06-29-aisera-transforms-customer-experience-customer-service-with-ai-automation.md",
       "title": "AISERA Transforms Customer Experience & Customer Service with AI & Automation",
-      "excerpt": "Aisera, the world's first AI Customer service that automates tasks, actions, and workflows for all organizations, announced today that it has significantly",
+      "excerpt": "Aisera, the world's first AI Customer service that automates tasks, actions, and workflows for all organizations,",
       "sourceUrl": null,
-      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/aisera-transforms-customer-experience-customer-service-with-ai-automation/article_cfc976a6-240b-5c27-bcaa-929546586bf8.html",
-      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/aisera-transforms-customer-experience-customer-service-with-ai-automation/article_cfc976a6-240b-5c27-bcaa-929546586bf8.html",
+      "webUrl": "https://www.benzinga.com/pressreleases/21/06/n21767488/aisera-transforms-customer-experience-customer-service-with-ai-automation",
+      "originalUrl": "https://www.benzinga.com/pressreleases/21/06/n21767488/aisera-transforms-customer-experience-customer-service-with-ai-automation",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
+      "ampWebUrl": "https://www.benzinga.com/amp/content/21767488",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/21767488",
       "publishedDateTime": "2021-06-29T07:14:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "WFMZ-TV",
-        "domain": "wfmz.com",
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1342,83 +1438,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-29-the-danger-of-action-bias-is-it-always-better-to-act-quickly.md",
-      "title": "The Danger of Action Bias: Is It Always Better to Act Quickly?",
-      "excerpt": "Action bias, a subset of cognitive bias, describes the human ... where she covered Microsoft, and Insurance & Technology, where she covered financial ... View Full Bio",
-      "sourceUrl": null,
-      "webUrl": "https://www.darkreading.com/careers-and-people/the-danger-of-action-bias-is-it-always-better-to-act-quickly/d/d-id/1341415",
-      "originalUrl": "https://www.darkreading.com/careers-and-people/the-danger-of-action-bias-is-it-always-better-to-act-quickly/d/d-id/1341415",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-28T11:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Dark Reading",
-        "domain": "darkreading.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-28-cognitive-assessment-market-growing-trends-and-technology-forecast-2021-2026-verasci-neurocog-trials-lumos-labs-cogstate.md",
-      "title": "Cognitive Assessment Market Growing Trends and Technology Forecast 2021-2026 | VeraSci NeuroCog Trials, Lumos Labs, Cogstate",
-      "excerpt": "Services, Hardware & Software is the main type for Cognitive Assessment, with a 49.40% revenue market share. and 18+ countries across the globe along with insights on emerging & major players.",
-      "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2315295/cognitive-assessment-market-growing-trends-and-technology",
-      "originalUrl": "https://www.openpr.com/news/2315295/cognitive-assessment-market-growing-trends-and-technology",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.openpr.com/U/6/U628365823_g.jpg",
-          "width": 450,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2315295/cognitive-assessment-market-growing-trends-and-technology",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2315295/cognitive-assessment-market-growing-trends-and-technology",
-      "publishedDateTime": "2021-06-28T04:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

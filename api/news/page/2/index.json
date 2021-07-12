@@ -208,7 +208,7 @@
       "originalUrl": "https://markets.businessinsider.com/news/stocks/oneconnect-impresses-at-world-artificial-intelligence-conference-2021-in-shanghai-1030592354",
       "featuredContent": null,
       "highlight": null,
-      "heat": 107,
+      "heat": 117,
       "tags": null,
       "images": [
         {
@@ -259,7 +259,7 @@
       "originalUrl": "https://manometcurrent.com/artificial-intelligence-and-machine-learning-market-is-booming-worldwide-googleinc-microsoft-corporation-amazon-web-services-inc/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 108,
+      "heat": 88,
       "tags": null,
       "images": [
         {
@@ -372,6 +372,57 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-09-magic-data-tech-announced-launch-of-annotator-50-an-ai-assisted-data-annotation-platform.md",
+      "title": "Magic Data Tech announced Launch of Annotator® 5.0, An AI-Assisted Data Annotation Platform",
+      "excerpt": "Annotator® 5.0, an independently developed data annotation system, was official launched by Magic Data Tech on July 8, 2021 on World Artificial Intelligence Conference (WAIC) 2021, which is a global gathering and exchange of AI innovation ideas,",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/magic-data-tech-announced-launch-of-annotator-5-0-an-ai-assisted-data-annotation-platform-1030591711",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/magic-data-tech-announced-launch-of-annotator-5-0-an-ai-assisted-data-annotation-platform-1030591711",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1560297/image.jpg",
+          "width": 400,
+          "height": 267,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-08T19:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -985,7 +1036,7 @@
       "originalUrl": "https://venturebeat.com/2021/07/08/openai-warns-ai-behind-githubs-copilot-may-be-susceptible-to-bias/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 109,
+      "heat": 99,
       "tags": null,
       "images": [
         {
@@ -1155,58 +1206,6 @@
       "topics": [
         "AI",
         "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-08-halo-launches-driverless-car-service-in-las-vegas.md",
-      "title": "Halo launches driverless car service in Las Vegas",
-      "excerpt": "Though driverless, Halo's cars aren't autonomous ... While drivers are piloting the cars from afar, an artificial intelligence is learning from them. \"Full autonomy is a massive challenge from both a technical and social trust perspective that won't ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/roadshow/news/halo-launches-driverless-car-service-in-las-vegas/",
-      "originalUrl": "https://www.cnet.com/roadshow/news/halo-launches-driverless-car-service-in-las-vegas/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 159,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cnet.com/a/img/7PfDIQhbe8G4m8BPAN0qAveVAX0=/1200x630/2021/07/08/db2ace0a-b08b-400f-a114-727dc373318e/nr-hero-halo-6-25-21-1250x615.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/halo-launches-driverless-car-service-in-las-vegas/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/halo-launches-driverless-car-service-in-las-vegas/",
-      "publishedDateTime": "2021-07-08T07:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

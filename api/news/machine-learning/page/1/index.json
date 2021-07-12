@@ -203,7 +203,7 @@
       "originalUrl": "https://manometcurrent.com/artificial-intelligence-and-machine-learning-market-is-booming-worldwide-googleinc-microsoft-corporation-amazon-web-services-inc/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 108,
+      "heat": 88,
       "tags": null,
       "images": [
         {
@@ -536,6 +536,58 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/mit.edu-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-07-ibm-rolls-out-codeflare-an-open-source-framework-for-machine-learning-apps.md",
+      "title": "IBM rolls out CodeFlare, an open-source framework for machine learning apps",
+      "excerpt": "CodeFlare is built on top of an emerging open-source distributed computing framework for machine learning applications known as Ray. IBM said CodeFlare extends the capabilities of Ray by adding specific elements to make scaling workflows easier.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/ibm-rolls-out-codeflare-an-open-source-framework-for-machine-learning-apps/",
+      "originalUrl": "https://www.techrepublic.com/article/ibm-rolls-out-codeflare-an-open-source-framework-for-machine-learning-apps/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techrepublic.com/a/hub/i/r/2020/08/04/38195eea-6673-4ba6-8fe7-a9babacef221/resize/1200x/b171876964c924dd448061d5d5d558b1/ibm-notebook.jpg",
+          "width": 1200,
+          "height": 797,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/ibm-rolls-out-codeflare-an-open-source-framework-for-machine-learning-apps/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ibm-rolls-out-codeflare-an-open-source-framework-for-machine-learning-apps/",
+      "publishedDateTime": "2021-07-07T09:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1112,8 +1164,8 @@
       "title": "Alluxio Brings Substantial Performance and Ease of Use Improvements to GPU-Centric AI/ML Workloads with v2.6 Release",
       "excerpt": "This new release features an enhanced system architecture enabling AI/ML platform teams using GPUs to accelerate their data pipelines for business intelligence, applied machine learning and model training.",
       "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/2021/07/01/9401759.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/2021/07/01/9401759.htm",
+      "webUrl": "https://www.tmcnet.com/usubmit/-alluxio-brings-substantial-performance-ease-use-improvements-gpu-/2021/07/01/9401759.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-alluxio-brings-substantial-performance-ease-use-improvements-gpu-/2021/07/01/9401759.htm",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -1408,49 +1460,6 @@
         "AI",
         "Machine Learning",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-06-30-machine-learning-aids-insights-into-cows-sleep.md",
-      "title": "Machine Learning Aids Insights Into Cows’ Sleep",
-      "excerpt": "Research into the sleep of cows is seen by researchers as one way of assessing their welfare, which is important to farmers and to respond to the growing expectations of global dairy consumers. Although little is known about the sleep needs of cows,",
-      "sourceUrl": null,
-      "webUrl": "https://www.scoop.co.nz/stories/SC2106/S00071/machine-learning-aids-insights-into-cows-sleep.htm",
-      "originalUrl": "https://www.scoop.co.nz/stories/SC2106/S00071/machine-learning-aids-insights-into-cows-sleep.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/466351406090186752/Zym_9Hv3_400x400.png",
-          "width": 400,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://m.scoop.co.nz/stories/SC2106/S00071/machine-learning-aids-insights-into-cows-sleep.htm",
-      "cdnAmpWebUrl": "https://m-scoop-co-nz.cdn.ampproject.org/c/s/m.scoop.co.nz/stories/SC2106/S00071/machine-learning-aids-insights-into-cows-sleep.htm",
-      "publishedDateTime": "2021-06-29T15:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Scoop",
-        "domain": "scoop.co.nz",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

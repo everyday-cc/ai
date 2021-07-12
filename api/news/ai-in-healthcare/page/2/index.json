@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-06-24-artificial-intelligence-in-healthcare-market-report-2021-size-share-growth-analysis-trends-and-forecast-to-2026.md",
+      "title": "Artificial Intelligence in Healthcare Market Report 2021, Size, Share, Growth, Analysis, Trends and Forecast to 2026",
+      "excerpt": "According to IMARC Group’s latest report, the global artificial intelligence in healthcare market exhibited strong growth during 2015-2020. Looking forward, the market is expected to grow at a CAGR of 42.",
+      "sourceUrl": null,
+      "webUrl": "https://ksusentinel.com/2021/06/24/artificial-intelligence-in-healthcare-market-report-2021-size-share-growth-analysis-trends-and-forecast-to-2026/",
+      "originalUrl": "https://ksusentinel.com/2021/06/24/artificial-intelligence-in-healthcare-market-report-2021-size-share-growth-analysis-trends-and-forecast-to-2026/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ksusentinel.com/wp-content/uploads/2021/06/Artificial-Intelligence-in-Healthcare-Market-Blog-Image-780x470.png",
+          "width": 780,
+          "height": 470,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-23T22:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Sentinel",
+        "domain": "ksusentinel.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-23-cognitivescale-and-ascendum-to-accelerate-trusted-ai-deployments-for-healthcare-fintech-and-ecommerce.md",
       "title": "CognitiveScale and Ascendum To Accelerate Trusted AI Deployments for Healthcare, Fintech and eCommerce",
       "excerpt": "CognitiveScale will provide its trusted AI software while Ascendum will provide the services and certified ... IBM Watson, M12 (Microsoft Ventures), and USAA. To learn more, visit ...",
@@ -1236,50 +1279,6 @@
       "topics": [
         "AI in Healthcare",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-10-meet-grace-the-healthcare-robot-covid-19-created.md",
-      "title": "Meet Grace, the healthcare robot COVID-19 created",
-      "excerpt": "The Hong Kong team behind celebrity humanoid robot Sophia is launching a new prototype, Grace, targeted at the healthcare market and designed to interact with the elderly and those isolated by the COVID-19 pandemic.",
-      "sourceUrl": null,
-      "webUrl": "https://www.metro.us/meet-grace-the-healthcare/",
-      "originalUrl": "https://www.metro.us/meet-grace-the-healthcare/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.metro.us/wp-content/uploads/Reuters_Direct_Media/HealthNewsOnlineReport/tagreuters.com2021binary_LYNXNPEH5805D-BASEIMAGE.jpg",
-          "width": 800,
-          "height": 533,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.metro.us/meet-grace-the-healthcare/amp/",
-      "cdnAmpWebUrl": "https://www-metro-us.cdn.ampproject.org/c/s/www.metro.us/meet-grace-the-healthcare/amp/",
-      "publishedDateTime": "2021-06-09T10:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Metro US",
-        "domain": "metro.us",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

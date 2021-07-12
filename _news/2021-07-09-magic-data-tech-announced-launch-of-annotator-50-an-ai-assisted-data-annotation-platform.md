@@ -7,8 +7,8 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/magic-data-tech-an
 webUrl: "https://markets.businessinsider.com/news/stocks/magic-data-tech-announced-launch-of-annotator-5-0-an-ai-assisted-data-annotation-platform-1030591711"
 type: article
 quality: 57
-heat: 67
-published: false
+heat: 77
+published: true
 
 provider:
   name: Business Insider
@@ -28,6 +28,20 @@ images:
     isCached: true
 
 related:
+  - title: "Eightfold AI Announces Cultivate 2021, a Virtual Conference for HR and AI Leaders"
+    excerpt: "Eightfold AI, the provider of the Talent Intelligence Platform™, today launched Cultivate 2021, an annual industry event on August 10-11, 2021, bringing together thought leaders, innovators and HR champions united in a mission to bring career opportunities for everyone in the world."
+    publishedDateTime: 2021-07-08T12:24:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/technology-9ed5b44e8a308981c7217b2582040af2"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 32
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "Visionary Trio Creates Next Gen Video and Image Annotation Platform for Machine Learning"
     excerpt: "The Innotescus co-founders spent years building custom software to collect and analyze complex image data to train machine learning algorithms. This development work required lots of annotated ..."
     publishedDateTime: 2021-07-07T19:36:00Z

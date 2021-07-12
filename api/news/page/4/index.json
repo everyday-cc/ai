@@ -2,6 +2,163 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-07-07-ibm-rolls-out-codeflare-an-open-source-framework-for-machine-learning-apps.md",
+      "title": "IBM rolls out CodeFlare, an open-source framework for machine learning apps",
+      "excerpt": "CodeFlare is built on top of an emerging open-source distributed computing framework for machine learning applications known as Ray. IBM said CodeFlare extends the capabilities of Ray by adding specific elements to make scaling workflows easier.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/ibm-rolls-out-codeflare-an-open-source-framework-for-machine-learning-apps/",
+      "originalUrl": "https://www.techrepublic.com/article/ibm-rolls-out-codeflare-an-open-source-framework-for-machine-learning-apps/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techrepublic.com/a/hub/i/r/2020/08/04/38195eea-6673-4ba6-8fe7-a9babacef221/resize/1200x/b171876964c924dd448061d5d5d558b1/ibm-notebook.jpg",
+          "width": 1200,
+          "height": 797,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/ibm-rolls-out-codeflare-an-open-source-framework-for-machine-learning-apps/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ibm-rolls-out-codeflare-an-open-source-framework-for-machine-learning-apps/",
+      "publishedDateTime": "2021-07-07T09:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-07-buzz-off-bees-pollination-robots-are-here.md",
+      "title": "Buzz Off, Bees. Pollination Robots Are Here.",
+      "excerpt": "Now, advances in artificial intelligence are helping some startups develop another way to pollinate plants: robots. Across the globe, startups are testing robots to pollinate everything from blueberries to almonds. And in Australia, one company is so ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/buzz-off-bees-pollination-robots-are-here-11625673660",
+      "originalUrl": "https://www.wsj.com/articles/buzz-off-bees-pollination-robots-are-here-11625673660",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-365072/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/buzz-off-bees-pollination-robots-are-here-11625673660",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/buzz-off-bees-pollination-robots-are-here-11625673660",
+      "publishedDateTime": "2021-07-07T09:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-07-ask-a-techspert-whats-a-neural-network.md",
+      "title": "Ask a Techspert: What’s a neural network?",
+      "excerpt": "Back in the day, there was a surefire way to tell humans and computers apart: You’d present a picture of a four-legged friend and ask if it was a cat or dog. A computer couldn’t identify felines from canines, but we humans could answer with doggone confidence. That all changed about a decade ago thanks",
+      "sourceUrl": null,
+      "webUrl": "https://blog.google/technology/ai/ask-a-techspert-whats-a-neural-network/",
+      "originalUrl": "https://blog.google/technology/ai/ask-a-techspert-whats-a-neural-network/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 111,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/neural_networks_hero.max-1300x1300.jpg",
+          "width": 1300,
+          "height": 541,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://blog.google/technology/ai/ask-a-techspert-whats-a-neural-network/amp/",
+      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/technology/ai/ask-a-techspert-whats-a-neural-network/amp/",
+      "publishedDateTime": "2021-07-07T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Google",
+        "domain": "blog.google",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-07-07-robots-can-make-music-but-can-they-sing.md",
       "title": "Robots Can Make Music, but Can They Sing?",
       "excerpt": "At an international competition called the A.I. Song Contest, tracks exploring the technology as a tool for music making revealed the potential — and the limitations.",
@@ -159,6 +316,49 @@
       ]
     },
     {
+      "path": "_news/2021-07-07-the-oneplus-nord-2-will-have-a-custom-dimensity-1200-ai-chipset-the-company-confirms.md",
+      "title": "The OnePlus Nord 2 will have a custom Dimensity 1200-AI chipset, the company confirms",
+      "excerpt": "OnePlus and MediaTek added additional AI features to the base Dimensity 1200 to help with the camera, media playback and other tasks.",
+      "sourceUrl": null,
+      "webUrl": "https://www.gsmarena.com/the_oneplus_nord_2_will_have_a_custom_dimensity_1200ai_chipset_the_company_confirms-news-49934.php",
+      "originalUrl": "https://www.gsmarena.com/the_oneplus_nord_2_will_have_a_custom_dimensity_1200ai_chipset_the_company_confirms-news-49934.php",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 177,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://fdn.gsmarena.com/imgroot/news/21/07/oneplus-nord2-dimensity1200ai-chipset/-1220x526/gsmarena_0000.jpg",
+          "width": 1220,
+          "height": 526,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://m.gsmarena.com/the_oneplus_nord_2_will_have_a_custom_dimensity_1200ai_chipset_the_company_confirms-amp-49934.php",
+      "cdnAmpWebUrl": "https://m-gsmarena-com.cdn.ampproject.org/c/s/m.gsmarena.com/the_oneplus_nord_2_will_have_a_custom_dimensity_1200ai_chipset_the_company_confirms-amp-49934.php",
+      "publishedDateTime": "2021-07-07T08:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GSM Arena",
+        "domain": "gsmarena.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-07-matterport-spac-merger-imminent.md",
       "title": "Matterport SPAC Merger Imminent",
       "excerpt": "Cortex accurately creates 3D digital twins by handling complex tasks like 2D to 3D reconstruction, advanced image processing, automatic color correction, object recognition, room labeling, and more. The camera, scanning services, and hosting are Matterport ...",
@@ -250,6 +450,59 @@
       ],
       "topics": [
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-07-ai-in-fintech-market-next-big-thing-major-giants-ibm-microsoft-samsung-intel.md",
+      "title": "AI in Fintech Market Next Big Thing : Major Giants IBM, Microsoft, Samsung, Intel",
+      "excerpt": "The MarketWatch News Department was not involved in the creation of this content. Jul 06, 2021 (Heraldkeepers) -- The latest research on \"Global AI in Fintech Report 2021\" offered by HTF MI provides a comprehensive investigation into the geographical ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/ai-in-fintech-market-next-big-thing-major-giants-ibm-microsoft-samsung-intel-2021-07-06",
+      "originalUrl": "https://www.marketwatch.com/press-release/ai-in-fintech-market-next-big-thing-major-giants-ibm-microsoft-samsung-intel-2021-07-06",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 151,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-07T07:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Microsoft AI"
       ]
     },
     {
@@ -352,48 +605,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-07-covid-19-artificial-intelligence-in-the-pandemic.md",
-      "title": "COVID-19: Artificial intelligence in the pandemic",
-      "excerpt": "Artificial intelligence is happening now, all around us — as the COVID-19 pandemic revealed. We tend to talk about artificial intelligence as if it were a thing of the future, but AI is already all around us — as the COVID-19 pandemic has demonstrated.",
-      "sourceUrl": null,
-      "webUrl": "https://frontline.thehindu.com/science-and-technology/covid-19-artificial-intelligence-in-the-pandemic/article35194206.ece",
-      "originalUrl": "https://frontline.thehindu.com/science-and-technology/covid-19-artificial-intelligence-in-the-pandemic/article35194206.ece",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://frontline.thehindu.com/incoming/pmq7nt/article35194554.ece/ALTERNATES/LANDSCAPE_615/57987220403jpg",
-          "width": 615,
-          "height": 384,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://frontline.thehindu.com/science-and-technology/covid-19-artificial-intelligence-in-the-pandemic/article35194206.ece/amp/",
-      "cdnAmpWebUrl": "https://frontline-thehindu-com.cdn.ampproject.org/c/s/frontline.thehindu.com/science-and-technology/covid-19-artificial-intelligence-in-the-pandemic/article35194206.ece/amp/",
-      "publishedDateTime": "2021-07-07T06:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hindu",
-        "domain": "thehindu.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     },
@@ -1027,196 +1238,6 @@
       ],
       "topics": [
         "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-07-europe-artificial-intelligence-chipsets-market-by-size-growth-opportunity-and-forecast-to-2026.md",
-      "title": "Europe Artificial Intelligence Chipsets Market by Size, Growth, Opportunity and Forecast to 2026",
-      "excerpt": "Selbyville, Delaware According to the research report titled 'Europe Artificial Intelligence Chipsets Market Size",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/europe-artificial-intelligence-chipsets-market-by-size-growth-opportunity-and-forecast-to-2026-2021-07-07",
-      "originalUrl": "https://www.marketwatch.com/press-release/europe-artificial-intelligence-chipsets-market-by-size-growth-opportunity-and-forecast-to-2026-2021-07-07",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-06T22:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-07-the-pentagon-scrubs-a-cloud-deal-and-looks-to-add-more-ai.md",
-      "title": "The Pentagon Scrubs a Cloud Deal and Looks to Add More AI",
-      "excerpt": "JEDI included support for AI projects, but the Pentagon’s acting chief information officer, John Sherman, said in a statement that the department’s need for algorithm-heavy infrastructure had grown still further. “Our landscape has advanced ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/pentagon-scrubs-cloud-deal-looks-add-ai/",
-      "originalUrl": "https://www.wired.com/story/pentagon-scrubs-cloud-deal-looks-add-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 187,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/60e4a8f33082cb0dcce32ba5/master/pass/Business-Pentagon-JEDI-Contract-1223814797.jpg",
-          "width": 2400,
-          "height": 1600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/pentagon-scrubs-cloud-deal-looks-add-ai/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/pentagon-scrubs-cloud-deal-looks-add-ai/amp",
-      "publishedDateTime": "2021-07-06T21:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-07-ethics-part-of-curriculum-as-singapore-inks-ai-training-partnership-with-google-cloud.md",
-      "title": "Ethics part of curriculum as Singapore inks AI training partnership with Google Cloud",
-      "excerpt": "Participants of Singapore's artificial intelligence (AI) apprenticeship scheme have to go through training that includes ethics and governance, so they are aware of potential issues involving data bias. AI Singapore (AISG), which manages the apprenticeship ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/ethics-part-of-curriculum-as-singapore-inks-ai-training-partnership-with-google-cloud/",
-      "originalUrl": "https://www.zdnet.com/article/ethics-part-of-curriculum-as-singapore-inks-ai-training-partnership-with-google-cloud/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ethics-part-of-curriculum-as-singapore-inks-ai-training-partnership-with-google-cloud/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ethics-part-of-curriculum-as-singapore-inks-ai-training-partnership-with-google-cloud/",
-      "publishedDateTime": "2021-07-06T19:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-07-australian-shares-rise-on-healthcare-tech-boost-challenger-shines.md",
-      "title": "Australian shares rise on healthcare, tech boost; Challenger shines",
-      "excerpt": "Australian shares rose on Wednesday, lifted by the healthcare and technology sectors, while Challenger Ltd jumped after two U.S. companies bought a stake in the investment manager.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/australia-stocks-midday-idUSL3N2OJ04L",
-      "originalUrl": "https://www.reuters.com/article/australia-stocks-midday-idUSL3N2OJ04L",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSL3N2OJ04L",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL3N2OJ04L",
-      "publishedDateTime": "2021-07-06T17:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }

@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/07/10/how-cybersecurity-is-getting-ai-w
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/10/how-cybersecurity-is-getting-ai-wrong/amp/"
 type: article
 quality: 87
-heat: 127
+heat: 117
 published: true
 
 provider:
@@ -30,20 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "The cybersecurity AI startup ZeroFox is buying competitor Vigilante to help it better scan the dark web to fight back against ransomware"
-    excerpt: "Threat intelligence firm ZeroFox announced Tuesdsay that it will acquire the competitor startup Vigilante."
-    publishedDateTime: 2021-07-07T13:00:00Z
-    webUrl: "https://www.businessinsider.com/zerofox-acquires-vigilante-to-build-out-security-ai-ceo-interview-2021-6"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 36
-    images:
-      - url: "https://i.insider.com/60d9da04e31c5f0019fdde6d?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Artificial Intelligence (AI) in Cyber Security Market Size Growing at 25.2% CAGR to hit USD 17630 million by 2024"
     excerpt: "and splits the Artificial Intelligence (AI) in Cyber Security market by product type and applications/end industries. BFSI Government IT & Telecom Healthcare Aerospace and Defense Other BFSI, government and ..."
     publishedDateTime: 2021-07-08T16:54:00Z

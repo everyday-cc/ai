@@ -36,20 +36,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "The cybersecurity AI startup ZeroFox is buying competitor Vigilante to help it better scan the dark web to fight back against ransomware"
-    excerpt: "Threat intelligence firm ZeroFox announced Tuesdsay that it will acquire the competitor startup Vigilante."
-    publishedDateTime: 2021-07-07T13:00:00Z
-    webUrl: "https://www.businessinsider.com/zerofox-acquires-vigilante-to-build-out-security-ai-ceo-interview-2021-6"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 36
-    images:
-      - url: "https://i.insider.com/60d9da04e31c5f0019fdde6d?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "How Predictive AI will Change Cybersecurity in 2021"
     excerpt: "In this contributed article, Dr. Igor Mezic, CTO of MixMod AI explains how you can identify and stop zero-day attacks like the SolarWinds attack with the invention of this Unsupervised, Predictive AI,"
     publishedDateTime: 2021-07-09T13:00:00Z

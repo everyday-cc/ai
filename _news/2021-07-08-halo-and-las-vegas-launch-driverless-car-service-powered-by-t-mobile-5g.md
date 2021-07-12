@@ -1,22 +1,28 @@
 ---
 category: news
 title: "Halo and Las Vegas Launch Driverless Car Service Powered by T-Mobile 5G"
-excerpt: "Driverless Halos solve transportation challenges ... safety hazard or system anomaly is detected. Using an advanced Artificial Intelligence algorithm, the car also learns in the background while ..."
-publishedDateTime: 2021-07-08T13:10:00Z
-originalUrl: "https://www.morningstar.com/news/business-wire/20210708005541/halo-and-las-vegas-launch-driverless-car-service-powered-by-t-mobile-5g"
-webUrl: "https://www.morningstar.com/news/business-wire/20210708005541/halo-and-las-vegas-launch-driverless-car-service-powered-by-t-mobile-5g"
+excerpt: "A driverless Halo then arrives at the pick ... safety hazard or system anomaly is detected. Using an advanced Artificial Intelligence algorithm, the car also learns in the background while humans ..."
+publishedDateTime: 2021-07-08T13:35:00Z
+originalUrl: "https://www.register-herald.com/region/halo-and-las-vegas-launch-driverless-car-service-powered-by-t-mobile-5g/article_c8b4a658-af42-5b51-bf52-f8cb79cfbb24.html"
+webUrl: "https://www.register-herald.com/region/halo-and-las-vegas-launch-driverless-car-service-powered-by-t-mobile-5g/article_c8b4a658-af42-5b51-bf52-f8cb79cfbb24.html"
 type: article
-quality: 19
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: Morningstar%2c Inc.
-  domain: morningstar.com
+  name: The Register-Herald
+  domain: register-herald.com
 
 topics:
   - AI in Autos
   - AI
+
+images:
+  - url: "https://bloximages.chicago2.vip.townnews.com/register-herald.com/content/tncms/assets/v3/editorial/3/50/3507b827-eab7-5aa7-9a74-200ce5f0f09e/60e6fac40a932.image.jpg?resize=992%2C630"
+    width: 992
+    height: 630
+    isCached: true
 
 related:
   - title: "Halo launches driverless car service in Las Vegas"
@@ -120,6 +126,6 @@ related:
         height: 600
         isCached: true
 
-secured: "IFUDXw8p0w3c7wBXc2FKQ1FrZRFRaevHywWXwZuCv6pPUpRPnnkMKbOz0gUKr8UnB8LCHA8CL4qCq2eoYwytk7EfanilXYFctPuLGAFgcqbwOBcRZmg2kifXtR5SLvIQGDUZmH8MkAjgy6ZlA8RVIX4fkdqquaXF44Su2FBH++oyr4rV7HYgTQHAOzGKl9G5brhUCAVniYbB07EsOHVRaq76jaDjKmkzfphHr8VsPrPl/USog7kocpVPqzi8NIQ0La6cvZHJVwu88HHV/jJDSMd37Le0Dr2gwIdAn3t9/GgUItyBA1YMe4SQs7x7w3+YQLOSbaPHUxvtDyeZI4DRl7P0XLrJFjAOqihv+Dj+E78=;FbUXnchwlZJOXSlk7PG+Ug=="
+secured: "ivpsn/ZGc+MM73MQtIo6p6tLgHbwK/fm2D69sKihUdx+hIYuW/K1LuT31QGIf0HTdUxLyb5ar1daf+cmXtwJRJiMBoll3LsJWcd/G3AB2WYfywzE6uv3ZN2qkkU/uo9ZLVX40zGpzr3aEOw5YarwQco6ehBerDmsK9X/tqU7HjwK6d5MMZ1GGLB4Zy5YJiufJ2VzaoIYkz1uuGe+ukH9Uz+GW8xfOtPd8uyAaJBcK3dV7cUh8hrADnvi0QpuD63NmzPS7SwuPO0nX2aDZ5Grz0HPTDUjiS0GhRGNir8M/1Lq3O4V0+1t8hjSmnMBR9zTliuknQ8V8BhhpzeOrn0rzGl/csoiVqIGkvyQy0NCkBE=;ALeASHLun9tAuhv4YC1EZA=="
 ---
 

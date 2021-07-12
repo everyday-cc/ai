@@ -9,7 +9,7 @@ ampWebUrl: "https://www.pymnts.com/news/investment-tracker/2021/anyvision-raises
 cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/investment-tracker/2021/anyvision-raises-235m-for-access-point-ai-based-physical-security/amp/"
 type: article
 quality: 76
-heat: 106
+heat: 96
 published: true
 
 provider:
@@ -28,22 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Facial recognition firm AnyVision raises $235 million from investors"
-    excerpt: "Investors include SoftBank Vision Fund 2 and Eldridge; company says personal data will be protected by new data privacy measures"
-    publishedDateTime: 2021-07-07T12:09:00Z
-    webUrl: "https://www.timesofisrael.com/facial-recognition-firm-anyvision-raises-235-million-from-investors/"
-    ampWebUrl: "https://www.timesofisrael.com/facial-recognition-firm-anyvision-raises-235-million-from-investors/amp/"
-    cdnAmpWebUrl: "https://www-timesofisrael-com.cdn.ampproject.org/c/s/www.timesofisrael.com/facial-recognition-firm-anyvision-raises-235-million-from-investors/amp/"
-    type: article
-    provider:
-      name: The Times of Israel
-      domain: timesofisrael.com
-    quality: 74
-    images:
-      - url: "https://static.timesofisrael.com/www/uploads/2021/07/AnyVision-pic111-e1625656980196-640x400.jpg"
-        width: 640
-        height: 400
-        isCached: true
   - title: "SoftBank leads $235M round in AnyVision's AI recognition tech"
     excerpt: "The Israeli company developing AI-driven facial recognition secures mega funding to help expand into new markets."
     publishedDateTime: 2021-07-08T08:58:00Z

@@ -2,6 +2,49 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2021-05-06-considerations-for-implementing-aiml-in-your-business.md",
+      "title": "Considerations for Implementing AI/ML in Your Business",
+      "excerpt": "Business technology changes constantly, and every solution we implement has a lifespan. You may have been a Microsoft shop for the past thirty years, but your company is not currently operating on Win",
+      "sourceUrl": null,
+      "webUrl": "https://www.natlawreview.com/article/considerations-implementing-aiml-your-business",
+      "originalUrl": "https://www.natlawreview.com/article/considerations-implementing-aiml-your-business",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.natlawreview.com/sites/all/themes/nationallaw/WBE_Seal_RGB.png",
+          "width": 1426,
+          "height": 808,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.natlawreview.com/article/considerations-implementing-aiml-your-business?amp",
+      "cdnAmpWebUrl": "https://www-natlawreview-com.cdn.ampproject.org/c/s/www.natlawreview.com/article/considerations-implementing-aiml-your-business?amp",
+      "publishedDateTime": "2021-05-05T14:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The National Law Review",
+        "domain": "natlawreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-05-06-machine-learning-text-adventure-ai-dungeon-is-now-being-censored-and-users-are-furious.md",
       "title": "Machine-learning text adventure AI Dungeon is now being censored and users are furious",
       "excerpt": "When Nick Walton created AI Dungeon 2 two years ago, he had no idea that it would take off as it did. Within days of launching",

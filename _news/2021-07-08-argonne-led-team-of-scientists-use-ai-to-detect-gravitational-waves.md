@@ -80,6 +80,15 @@ related:
         width: 1380
         height: 776
         isCached: true
+  - title: "Scientists develops AI model to detect gravitational waves"
+    excerpt: "A team of computational scientists and researchers has developed a new artificial intelligence (AI) framework that allows for accelerated, scalable and reproducible detection of gravitational waves."
+    publishedDateTime: 2021-07-12T05:10:00Z
+    webUrl: "https://www.sify.com/finance/scientists-develops-ai-model-to-detect-gravitational-waves-news-topnews-vhmfk8agggbcj.html"
+    type: article
+    provider:
+      name: Sify.com
+      domain: sify.com
+    quality: 19
   - title: "AI allows scientists to detect gravitational waves"
     excerpt: "Researchers at Department of Energy’s Argonne National Laboratory report that they have used artificial intelligence (AI) to dramatically reduce the time it takes to process data coming from the Laser Interferometer Gravitational-Wave Observatory (LIGO)."
     publishedDateTime: 2021-07-09T11:56:00Z

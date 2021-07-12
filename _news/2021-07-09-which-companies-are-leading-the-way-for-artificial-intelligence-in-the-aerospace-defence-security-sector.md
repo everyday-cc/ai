@@ -24,22 +24,6 @@ images:
     height: 563
     isCached: true
 
-related:
-  - title: "Which companies are leading the way for artificial intelligence in the consumer sector?"
-    excerpt: "Analysis of GlobalData's jobs, deals, patents and company filings databases identify top companies for artificial intelligence in the consumer sector."
-    publishedDateTime: 2021-07-07T11:23:00Z
-    webUrl: "https://www.just-food.com/features/which-companies-are-leading-way-for-artificial-intelligence-in-consumer-sector/"
-    type: article
-    provider:
-      name: Just-Food
-      domain: just-food.com
-    quality: 29
-    images:
-      - url: "https://www.just-food.com/wp-content/uploads/sites/35/2021/07/stephen-dawson-qwtCeJ5cLYs-unsplash-scaled.jpg"
-        width: 2560
-        height: 1842
-        isCached: true
-
 secured: "wxCbGkmHxdp82ujDOfYTmqqxZk9a2MsP59wBkN1CxqUVQp7fW/2Kv7LM7z34EXcd8/xCLcMiBn9GAAKJYqFDSYt/novHO4/nOEWzQ5AVZ5ISnibwGrd6NmI3fQVcfBYvKTRg+29ObqBAoCLVaTFUfNqQ1QmUxuHliCI28robBC85VWmQdAuyHbmqLvOdERQYgr6F36f2B2UjDDlO5Lehkz1KTJOnNEIQ51tXU2PBFxAHV4rL+QEbOYVUDK7Qmkr3P4zu2PuLEd96hBSiZyyw/V8uhPGrN6xUFZlv2jxwd2bm+JyorCFI6f9ceZwkCHW2QEs4T6DkxfugVDxC5r37g+Sw6ICKhcstScQzPTvvEDNZqQfDFHYDQq5zwdomTae1SJG4PztLTTKb8RF1T3KVAY2XAfFPqbIGthhv81dUWnD/I4fSo47E6m/dUIHznEzYCJIGe0Ys8NbN4NDKTZYVyOchupoNrR9NJ+o/3DBPVGPswEiNfELA99FftIR4bdmpmzykQVbNPl15tO0IT+R6/g==;rUPN/RUSUvPuTCdfdrZStg=="
 ---
 

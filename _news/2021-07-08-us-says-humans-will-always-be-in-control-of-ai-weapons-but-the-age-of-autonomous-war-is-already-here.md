@@ -20,22 +20,6 @@ topics:
   - AI
 
 related:
-  - title: "The U.S. says humans will always be in control of AI weapons. But the age of autonomous war is already here."
-    excerpt: "The Pentagon says a ban on autonomous weapons isn't necessary. But experts say that weapons that can make decisions for themselves are already here, and making a difference in conflicts from Libya to Armenia."
-    publishedDateTime: 2021-07-07T13:00:00Z
-    webUrl: "https://www.washingtonpost.com/technology/2021/07/07/ai-weapons-us-military/"
-    ampWebUrl: "https://www.washingtonpost.com/technology/2021/07/07/ai-weapons-us-military/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/technology/2021/07/07/ai-weapons-us-military/?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 42
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/J7CVFR5XPRCRJJ7OUGCJ3IGNW4.jpg&w=1440"
-        width: 1440
-        height: 922
-        isCached: true
   - title: "US says humans will always be in control of AI weapons. But the age of autonomous war is already here."
     excerpt: "Facts on the ground show that technological advancements, coupled with complex conflicts like the Syrian and Libyan civil wars, have created a reality where weapons that make their own decisions are already killing people."
     publishedDateTime: 2021-07-07T16:06:00Z

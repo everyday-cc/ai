@@ -24,37 +24,33 @@ images:
     isCached: true
 
 related:
-  - title: "How Finance Leaders Can Build An AI Culture"
-    excerpt: "Implementing AI across an organization requires a clear strategy, organizational flexibility, a data-driven environment and new forms of collaboration with cross-functional teams."
-    publishedDateTime: 2021-07-07T11:40:00Z
-    webUrl: "https://www.forbes.com/sites/forbesfinancecouncil/2021/07/07/how-finance-leaders-can-build-an-ai-culture/"
-    ampWebUrl: "https://www.forbes.com/sites/forbesfinancecouncil/2021/07/07/how-finance-leaders-can-build-an-ai-culture/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesfinancecouncil/2021/07/07/how-finance-leaders-can-build-an-ai-culture/amp/"
+  - title: "Magic Data Tech announced Launch of Annotator® 5.0, An AI-Assisted Data Annotation Platform"
+    excerpt: "Annotator® 5.0, an independently developed data annotation system, was official launched by Magic Data Tech on July 8, 2021 on World Artificial Intelligence Conference (WAIC) 2021, which is a global gathering and exchange of AI innovation ideas,"
+    publishedDateTime: 2021-07-09T02:55:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/magic-data-tech-announced-launch-of-annotator-5-0-an-ai-assisted-data-annotation-platform-1030591711"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 106
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 57
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f451b5f57dca16ebc6b6c73%2F0x0.jpg"
-        width: 1200
-        height: 800
+      - url: "https://mma.prnewswire.com/media/1560297/image.jpg"
+        width: 400
+        height: 267
         isCached: true
-  - title: "Huawei Engineers Build an Autonomous AI Bicycle That Can Ride on Its Own"
-    excerpt: "A team of Huawei engineers have recently developed an AI-powered bicycle that uses high-precision sensors and cameras to ride itself."
-    publishedDateTime: 2021-07-10T11:29:00Z
-    webUrl: "https://beebom.com/huawei-engineers-build-autonomous-ai-bicycle/"
-    ampWebUrl: "https://beebom.com/huawei-engineers-build-autonomous-ai-bicycle/amp/"
-    cdnAmpWebUrl: "https://beebom-com.cdn.ampproject.org/c/s/beebom.com/huawei-engineers-build-autonomous-ai-bicycle/amp/"
+  - title: "Visionary Trio Creates Next Gen Video and Image Annotation Platform for Machine Learning"
+    excerpt: "The Innotescus co-founders spent years building custom software to collect and analyze complex image data to train machine learning algorithms. This development work required lots of annotated ..."
+    publishedDateTime: 2021-07-07T19:36:00Z
+    webUrl: "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1195940&cat=PR News Wire"
     type: article
     provider:
-      name: Beebom
-      domain: beebom.com
-    quality: 56
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 30
     images:
-      - url: "https://beebom.com/wp-content/uploads/2021/07/Huawei-engineers-develop-AI-bicycle-2.jpg"
-        width: 750
-        height: 500
+      - url: "https://mma.prnewswire.com/media/1551990/Shashank_Chris_Rob.jpg"
+        width: 400
+        height: 267
         isCached: true
 
 secured: "CtpknmDVJleF1vVgtVo7cqnCXOMTCGtqXu32uqXvJrzb2XGkm7mHlJFGYfGgYYhosRffUjxjrsXWWYA7hSJDkKZf0mpObOnHOlDjHV6qm+o2FdddXI2hT1sGFkjgSljHjhHSdATV3BVDXGlpGS9HvVTnrAEhm+Rp1P4/E8xRKnsbCZgPzLtKCaEkE39fESLP84Tvq2G/PMrqhy96d7YeIQHDIUU1QM4U8+7H2QttwkJs9Wbq42Hc0UlePn86EKdG0CH/tb1H8h9qfJMgezr6GToH1KmQ9Kqok+kY4x8Mo7hwxvLuAEpQWvwZOhqBMeZ8sVCFp5pCIIzNmciLVm6nZgZi2YgL1zxu3uLmlntMgnU=;AJgIAEm2mU+PqcMgStRcUg=="

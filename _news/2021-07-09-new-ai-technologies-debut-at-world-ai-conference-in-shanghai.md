@@ -67,6 +67,17 @@ related:
         width: 630
         height: 420
         isCached: true
+  - title: "Moviebook Showcases Latest Intelligent Digital Products at World Artificial Intelligence Conference 2021 in Shanghai"
+    excerpt: "and simulation at the World Artificial Intelligence Conference 2021 (WAIC 2021) in the Shanghai World Expo Center from July 7 to 10, 2021. During the conference, Moviebook showcased its newly-devised system for the holographic simulation of the production ..."
+    publishedDateTime: 2021-07-12T04:39:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/21/07/n21929837/moviebook-showcases-latest-intelligent-digital-products-at-world-artificial-intelligence-conferenc"
+    ampWebUrl: "https://www.benzinga.com/amp/content/21929837"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/21929837"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 29
 
 secured: "Rwt5yLyfuZBPpMPCJizNotNbhJK91oElqb0lc6JMZom+bzj3+QEUbZWbbfNb0J8biel6tNLjVsIndsP58vcynSxxKBZiRbICcYxogVgjbvlXMXe+GvHJdVUbEhGimLkwKzzLsGvD0dDgNEcJQ94E7Z4TAgveluxnTYpoDviFgSd8V7lYpledcCog+0euNYBTaFJjCjfGNdSLS9XluZgueGsbatYsTSmUZIWKhn9WCk5JRSGbLjDM4yBJ8VGPrjVc/SQEpoELyhD1MJmS4S1AYUj8F3n1UsuNsO/EKUUZ3mtEHkoW7xgjdB03vEEaqEsgernrPu42DwOG4kwBiNzsauF54uOph1dZel4xqsmHx10=;SkFoqBhPic+LH6tvATxkow=="
 ---

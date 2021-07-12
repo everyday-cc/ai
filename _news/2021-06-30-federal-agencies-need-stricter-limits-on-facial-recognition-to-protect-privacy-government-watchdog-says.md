@@ -19,6 +19,7 @@ provider:
 topics:
   - Computer Vision
   - AI
+  - AWS AI
 
 related:
   - title: "US agencies must track which facial recognition systems they use, report says"

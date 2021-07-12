@@ -26,54 +26,43 @@ images:
     isCached: true
 
 related:
-  - title: "Xbox Series X games might look even better soon thanks to AI upscaling"
-    excerpt: "They teased the return of the Fable franchise from developer Playground Games, and now might have just revealed Microsoft’s answer to AI-based graphical upscaling like Nvidia's DLSS but for Xbox Series X."
-    publishedDateTime: 2021-07-07T11:04:00Z
-    webUrl: "https://www.techradar.com/nz/news/xbox-series-x-games-might-look-even-better-soon-thanks-to-ai-upscaling"
-    ampWebUrl: "https://www.techradar.com/nz/amp/news/xbox-series-x-games-might-look-even-better-soon-thanks-to-ai-upscaling"
-    cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/nz/amp/news/xbox-series-x-games-might-look-even-better-soon-thanks-to-ai-upscaling"
+  - title: "Artificial Intelligence and Machine Learning Market Is Booming Worldwide | GoogleInc., Microsoft Corporation, Amazon Web Services Inc."
+    excerpt: "Announced Artificial Intelligence and Machine Learning study with 200+ market data Tables and Figures spread through Pages and easy to understand detailed TOC on “Artificial Intelligence and Machine Learning."
+    publishedDateTime: 2021-07-09T06:33:00Z
+    webUrl: "https://manometcurrent.com/artificial-intelligence-and-machine-learning-market-is-booming-worldwide-googleinc-microsoft-corporation-amazon-web-services-inc/"
     type: article
     provider:
-      name: TechRadar
-      domain: techradar.com
-    quality: 89
+      name: manometcurrent.com
+      domain: manometcurrent.com
+    quality: 58
     images:
-      - url: "https://cdn.mos.cms.futurecdn.net/ttRhUwVgN4KdzEYbBaC6oW-480-80.jpg"
-        width: 480
-        height: 288
+      - url: "https://manometcurrent.com/wp-content/uploads/2021/07/Global-Artificial-Intelligence-and-Machine-Learning-Market.jpg"
+        width: 600
+        height: 400
         isCached: true
-  - title: "Xbox Series X games could get a big boost — thanks to AI upscaling"
-    excerpt: "The Xbox Series X is already a serious powerhouse of a console, but its graphical performance could be about to get even better thanks to the power of AI. AI upscaling is nothing new, but until now it’s been left to the likes of Nvidia and AMD to handle."
-    publishedDateTime: 2021-07-08T11:38:00Z
-    webUrl: "https://www.tomsguide.com/uk/news/xbox-series-x-games-could-get-a-big-boost-thanks-to-ai-upscaling"
-    ampWebUrl: "https://www.tomsguide.com/uk/amp/news/xbox-series-x-games-could-get-a-big-boost-thanks-to-ai-upscaling"
-    cdnAmpWebUrl: "https://www-tomsguide-com.cdn.ampproject.org/c/s/www.tomsguide.com/uk/amp/news/xbox-series-x-games-could-get-a-big-boost-thanks-to-ai-upscaling"
+  - title: "Artificial Intelligence Chips Market is Booming with Unstoppable Rate | AMD, Google, Intel Corporation, NVIDIA"
+    excerpt: "The latest study released on the Global Artificial Intelligence Chips Market by AMA Research evaluates market size, trend, and forecast to 2026. The Artificial Intelligence Chips market study covers significant research data and proofs to be a handy resource document for managers,"
+    publishedDateTime: 2021-07-08T17:50:00Z
+    webUrl: "https://manometcurrent.com/artificial-intelligence-chips-market-is-booming-with-unstoppable-rate-amd-google-intel-corporation-nvidia/"
     type: article
     provider:
-      name: Tom's Guide
-      domain: tomsguide.com
-    quality: 57
+      name: manometcurrent.com
+      domain: manometcurrent.com
+    quality: 34
     images:
-      - url: "https://cdn.mos.cms.futurecdn.net/Uy8Chuw8oY5jPoc7HyGMKd-480-80.jpg"
-        width: 480
-        height: 289
+      - url: "https://manometcurrent.com/wp-content/uploads/2021/07/Micro-segmentation-Solutions-Market-390x220.jpeg"
+        width: 390
+        height: 220
         isCached: true
-  - title: "Cheating In PS5 And Xbox Series X Games Might Get Worse, Thanks To This Machine-Learning Tool"
-    excerpt: "A new cheat engine that uses machine-learning can work on consoles, including Xbox Series X and PlayStation 5. The anti-cheat watch group ACPD posted its findings on the new tool on Twitter, explaining how it will be difficult for developers to detect."
-    publishedDateTime: 2021-07-07T19:07:00Z
-    webUrl: "https://www.gamespot.com/articles/cheating-in-ps5-and-xbox-series-x-games-might-get-worse-thanks-to-this-machine-learning-tool/1100-6493682/"
-    ampWebUrl: "https://www.gamespot.com/amp-articles/cheating-in-ps5-and-xbox-series-x-games-might-get-worse-thanks-to-this-machine-learning-tool/1100-6493682/"
-    cdnAmpWebUrl: "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/cheating-in-ps5-and-xbox-series-x-games-might-get-worse-thanks-to-this-machine-learning-tool/1100-6493682/"
+  - title: "Contact Center AI Software Market is Going to Boom With Google, Cisco, Oracle Corporation, Asterisk"
+    excerpt: "Growing Demand of New Call Centres and Incorporation of New Systems, Increasing Number of Queries and Increasing Demand of Quick Resolution on Call is driving the global Contact Center AI Software market."
+    publishedDateTime: 2021-07-10T18:08:00Z
+    webUrl: "https://manometcurrent.com/contact-center-ai-software-market-is-going-to-boom-with-google-cisco-oracle-corporation-asterisk/"
     type: article
     provider:
-      name: GameSpot
-      domain: gamespot.com
-    quality: 33
-    images:
-      - url: "https://www.gamespot.com/a/uploads/original/1585/15853545/3852955-0795579771-call-.jpg"
-        width: 1280
-        height: 720
-        isCached: true
+      name: manometcurrent.com
+      domain: manometcurrent.com
+    quality: 3
 
 secured: "pFrHzWRwBqfLLMwYTY3wN3MsoVx+lZNS7mnPB0b6c+Qou9SMP/ZSZDz0Kj2kEJgDdx9t7NeEWVBt9YpMKbbDgnbOgupG1Kan4CfxT6ciz5kv1pM6sXkMstkChz0W8fMyB+OXO/8T02X+bPeUrZ2PFlnIm57xDUyvM97LGMm4ole5rduesS7er+jxcb0XczYcC6IK/ROoDCPLTkcH70ZToD1Q7wYkbYhjfajtgfQqivqxk66ePxJjLgxudPGlZntOUulf7Iwb+vg+vy8BMHVqLU7Av5O11FBxvNBgHP+YH7x22heJ8Sd3M6J5gdehZmDlk3m5X/jmTaYb8hdbOmr3lbuDoA7w7jkiRApqbo6/Ce4OQ37ryq6nQE2uY2Xi0c0YNIsq2QVSf0/FpzoC9vlTg2AP4ynKROu5MG5v/YinxRrAZWIv8f76xjlta6bwWmfVpBlbmjeuOEo7YBMPuYMXU7Z5ezCC0D9dahODjHjzB7iOSbov92Dd1+K8SMxHUCbfzKniCmIVCg7qw0ZdgvaWhA==;+99qENPs0I23ibBIhqHiOQ=="
 ---

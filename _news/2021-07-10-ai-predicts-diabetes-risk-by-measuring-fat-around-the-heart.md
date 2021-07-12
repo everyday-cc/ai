@@ -38,22 +38,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "AI predicts diabetes risk by measuring fat around the heart"
-    excerpt: "A team led by researchers from Queen Mary University of London has developed a new artificial intelligence (AI) tool that is able to automatically measure the amount of fat around the heart from MRI scan images."
-    publishedDateTime: 2021-07-07T12:46:00Z
-    webUrl: "https://medicalxpress.com/news/2021-07-ai-diabetes-fat-heart.html"
-    ampWebUrl: "https://medicalxpress.com/news/2021-07-ai-diabetes-fat-heart.amp"
-    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-07-ai-diabetes-fat-heart.amp"
-    type: article
-    provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 57
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2021/ai-predicts-diabetes-r.jpg"
-        width: 640
-        height: 410
-        isCached: true
   - title: "AI tool measures fat around the heart to predict a patient's risk of diabetes"
     excerpt: "A team led by researchers from Queen Mary University of London has developed a new artificial intelligence (AI) tool that is able to automatically measure the amount of fat around the heart from MRI scan images."
     publishedDateTime: 2021-07-08T00:35:00Z

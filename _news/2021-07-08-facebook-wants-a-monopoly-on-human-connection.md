@@ -168,20 +168,6 @@ related:
       name: fintechzoom
       domain: fintechzoom.com
     quality: 34
-  - title: "Facebook AI Innovation Summit: Habitat 2.0, a simulator to help robots in domestic tasks"
-    excerpt: "On June 30th, the Facebook AI Innovation Summit, an annual event of Facebook AI Research (FAIR) in Europe, took place. It was an opportunity for Facebook’s research subsidiary to present its latest innovations around the following theme: “Building a ..."
-    publishedDateTime: 2021-07-07T12:14:00Z
-    webUrl: "https://www.actuia.com/english/facebook-ai-innovation-summit-habitat-2-0-a-simulator-to-help-robots-in-domestic-tasks/"
-    type: article
-    provider:
-      name: Actu IA
-      domain: actuia.com
-    quality: 30
-    images:
-      - url: "https://www.actuia.com/wp-content/uploads/2021/07/Habitat.jpg"
-        width: 800
-        height: 400
-        isCached: true
   - title: "Trump sues Facebook, Twitter, Google to get accounts back"
     excerpt: "Former President Donald Trump has sued Facebook, Twitter and Google, seeking to restore his online profile after he was suspended from most social-media platforms following the January 6 riots in the US Capitol."
     publishedDateTime: 2021-07-08T07:13:00Z

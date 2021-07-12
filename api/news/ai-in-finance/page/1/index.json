@@ -10,7 +10,7 @@
       "originalUrl": "https://manometcurrent.com/artificial-intelligence-and-machine-learning-market-is-booming-worldwide-googleinc-microsoft-corporation-amazon-web-services-inc/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 108,
+      "heat": 88,
       "tags": null,
       "images": [
         {
@@ -99,6 +99,59 @@
         "AI",
         "AWS AI",
         "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2021-07-07-ai-in-fintech-market-next-big-thing-major-giants-ibm-microsoft-samsung-intel.md",
+      "title": "AI in Fintech Market Next Big Thing : Major Giants IBM, Microsoft, Samsung, Intel",
+      "excerpt": "The MarketWatch News Department was not involved in the creation of this content. Jul 06, 2021 (Heraldkeepers) -- The latest research on \"Global AI in Fintech Report 2021\" offered by HTF MI provides a comprehensive investigation into the geographical ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/ai-in-fintech-market-next-big-thing-major-giants-ibm-microsoft-samsung-intel-2021-07-06",
+      "originalUrl": "https://www.marketwatch.com/press-release/ai-in-fintech-market-next-big-thing-major-giants-ibm-microsoft-samsung-intel-2021-07-06",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 151,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-07T07:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Microsoft AI"
       ]
     },
     {
@@ -1312,49 +1365,6 @@
         "AI in Finance",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-06-20-finclude-joins-growing-ecosystem-of-partners-supporting-the-ibm-cloud-for-financial-services.md",
-      "title": "Finclude Joins Growing Ecosystem of Partners Supporting the IBM Cloud for Financial Services",
-      "excerpt": "Finclude, an Ireland-based start-up that provides credit scoring and affordability profiles using machine learning technology, today announced it has joined IBM’s (NYSE: IBM) growing ecosystem of more than 100 Global Systems Integrators (GSIs),",
-      "sourceUrl": null,
-      "webUrl": "https://financialit.net/news/fintech-startups/finclude-joins-growing-ecosystem-partners-supporting-ibm-cloud-financial",
-      "originalUrl": "https://financialit.net/news/fintech-startups/finclude-joins-growing-ecosystem-partners-supporting-ibm-cloud-financial",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://financialit.net/sites/default/files/sbyufgcw67et92763etqiwu829.png",
-          "width": 776,
-          "height": 376,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-20T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Financial IT",
-        "domain": "financialit.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
       ]
     }
   ],

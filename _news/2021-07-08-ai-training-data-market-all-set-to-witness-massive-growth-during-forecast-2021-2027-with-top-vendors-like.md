@@ -7,7 +7,7 @@ originalUrl: "https://ksusentinel.com/2021/07/08/ai-training-data-market-all-set
 webUrl: "https://ksusentinel.com/2021/07/08/ai-training-data-market-all-set-to-witness-massive-growth-during-forecast-2021-2027-with-top-vendors-like/"
 type: article
 quality: 20
-heat: -1
+heat: 20
 published: false
 
 provider:
@@ -24,15 +24,34 @@ images:
     isCached: true
 
 related:
-  - title: "Global Smart Windows Market to 2027 - Smart Windows Seek Opportunities in Self-Driving Cars"
-    excerpt: "© 2021 Insider Inc. and finanzen.net GmbH (Imprint). All rights reserved. Registration on or use of this site constitutes acceptance of our Terms of Service and Privacy Policy. Disclaimer ..."
-    publishedDateTime: 2021-07-07T11:40:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/global-smart-windows-market-to-2027-smart-windows-seek-opportunities-in-self-driving-cars-1030585186"
+  - title: "Artificial Intelligence (AI) Software Market Analysis, Leading Players, Future Growth, Business Prospects Research Report Foresight To 2027"
+    excerpt: "Software market by RMoz gives all the essential information needed to comprehend the important developments in this market for the forecast period of 20AA to 20BB. Through this report, the readers gain 360-degree analysis of the market for Artificial Intelligence (AI) Software."
+    publishedDateTime: 2021-07-07T17:40:00Z
+    webUrl: "https://ksusentinel.com/2021/07/07/artificial-intelligence-ai-software-market-analysis-leading-players-future-growth-business-prospects-research-report-foresight-to-2027/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 24
+      name: The Sentinel
+      domain: ksusentinel.com
+    quality: 18
+    images:
+      - url: "https://i.ibb.co/9qThnqF/r66.png"
+        width: 640
+        height: 457
+        isCached: true
+  - title: "Facial Tracking Solutions Market witnessing market growth at a rate of 14.55% in the forecast period 2027"
+    excerpt: "Increasing demand for cloud based facial recognition technology is expected to enhance the market growth. Some of the other factors such as growth in surveillance industry, security reasons, technological advancement in facial tracking solutions,"
+    publishedDateTime: 2021-07-07T15:54:00Z
+    webUrl: "https://manometcurrent.com/facial-tracking-solutions-market-emerging-technologies-and-innovations-key-players-herta-security-facephi-sightcorp-beijing-kuangshi-technology-co-ltd-facefirst-animetrics-and-more-forecas/"
+    type: article
+    provider:
+      name: manometcurrent.com
+      domain: manometcurrent.com
+    quality: 7
+    images:
+      - url: "https://manometcurrent.com/wp-content/uploads/2021/06/Business-390x220.jpg"
+        width: 390
+        height: 220
+        isCached: true
 
 secured: "FUlMyaMllGe9jg0RCvqjmDc3xGNUeLQ4U0gZQdB2eUNhatCqCZQqKEGlWBQO9zJ5bCYAhws5+Wk0qiVfBM/ED0NGGL+c9Os1sMkuKpYgque8J1pWDq9y8UUktqlUAAwRv4LLTjx/iyVJjSFPfnOe7//yblityjkgjlnHO1TMB7H6DvG09ceHaSkObMowI3FPxFph7tKtcIJ0CqhrWnGnxMHYZbxr4ihbMNHRO1ukIBBVoW6ZTR1CArbXUpTnGLtRMMHoacw8bt6qbOVzNtlq2UNHC/BqKy0oYkoPkAd+tdq4WMtuE71bmnusV0cSqsIyKH/gKGoI6z9JT/Fb3PCv+urc7iGE1vysh9tv2dkJGLk=;bpIoOK/HfR29I407RJlskw=="
 ---
