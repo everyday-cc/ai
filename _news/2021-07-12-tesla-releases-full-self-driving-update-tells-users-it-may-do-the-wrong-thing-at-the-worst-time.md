@@ -1,22 +1,22 @@
 ---
 category: news
-title: "Elon Musk: Tesla will launch its ‘mind-blowing’ Full Self-Driving Beta v9 on Saturday"
-excerpt: "Tesla is currently testing the “feature complete” version of its Full Self-Driving (FSD) package in beta with a few thousand customers and employees through its early access program."
-publishedDateTime: 2021-07-08T09:59:00Z
-originalUrl: "https://electrek.co/2021/07/08/elon-musk-tesla-launch-mind-blowing-full-self-driving-beta-v9-saturday/"
-webUrl: "https://electrek.co/2021/07/08/elon-musk-tesla-launch-mind-blowing-full-self-driving-beta-v9-saturday/"
-ampWebUrl: "https://electrek.co/2021/07/08/elon-musk-tesla-launch-mind-blowing-full-self-driving-beta-v9-saturday/amp/"
-cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/07/08/elon-musk-tesla-launch-mind-blowing-full-self-driving-beta-v9-saturday/amp/"
+title: "Tesla Releases Full Self-Driving Update, Tells Users ‘It May Do the Wrong Thing at the Worst Time’"
+excerpt: "Years after its announced debut, Tesla has finally released beta version 9 of its Full Self-Driving system, albeit warning drivers that the software “may do the wrong thing at the worst time” and urging them not to become complacent at the wheel."
+publishedDateTime: 2021-07-12T01:32:00Z
+originalUrl: "https://gizmodo.com/tesla-releases-full-self-driving-update-tells-users-i-1847269917"
+webUrl: "https://gizmodo.com/tesla-releases-full-self-driving-update-tells-users-i-1847269917"
+ampWebUrl: "https://gizmodo.com/tesla-releases-full-self-driving-update-tells-users-i-1847269917/amp"
+cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/tesla-releases-full-self-driving-update-tells-users-i-1847269917/amp"
 type: article
-quality: 82
+quality: 75
 heat: -1
 published: false
 
 provider:
-  name: Electrek
-  domain: electrek.co
+  name: Gizmodo
+  domain: gizmodo.com
   images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg"
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - AI
 
 images:
-  - url: "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2019/04/Tesla-new-self-driving-demo-e1555984282698.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
-    width: 1200
-    height: 628
+  - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/7f61b722a12e3f877c06803fcc65093a.jpg"
+    width: 800
+    height: 450
     isCached: true
 
 related:
@@ -79,21 +79,21 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Tesla Releases Full Self-Driving Update, Tells Users ‘It May Do the Wrong Thing at the Worst Time’"
-    excerpt: "Years after its announced debut, Tesla has finally released beta version 9 of its Full Self-Driving system, albeit warning drivers that the software “may do the wrong thing at the worst time” and urging them not to become complacent at the wheel."
-    publishedDateTime: 2021-07-12T01:32:00Z
-    webUrl: "https://gizmodo.com/tesla-releases-full-self-driving-update-tells-users-i-1847269917"
-    ampWebUrl: "https://gizmodo.com/tesla-releases-full-self-driving-update-tells-users-i-1847269917/amp"
-    cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/tesla-releases-full-self-driving-update-tells-users-i-1847269917/amp"
+  - title: "Elon Musk: Tesla will launch its ‘mind-blowing’ Full Self-Driving Beta v9 on Saturday"
+    excerpt: "Tesla is currently testing the “feature complete” version of its Full Self-Driving (FSD) package in beta with a few thousand customers and employees through its early access program."
+    publishedDateTime: 2021-07-08T09:59:00Z
+    webUrl: "https://electrek.co/2021/07/08/elon-musk-tesla-launch-mind-blowing-full-self-driving-beta-v9-saturday/"
+    ampWebUrl: "https://electrek.co/2021/07/08/elon-musk-tesla-launch-mind-blowing-full-self-driving-beta-v9-saturday/amp/"
+    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/07/08/elon-musk-tesla-launch-mind-blowing-full-self-driving-beta-v9-saturday/amp/"
     type: article
     provider:
-      name: Gizmodo
-      domain: gizmodo.com
-    quality: 75
+      name: Electrek
+      domain: electrek.co
+    quality: 82
     images:
-      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/7f61b722a12e3f877c06803fcc65093a.jpg"
-        width: 800
-        height: 450
+      - url: "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2019/04/Tesla-new-self-driving-demo-e1555984282698.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+        width: 1200
+        height: 628
         isCached: true
   - title: "Tesla Releases Ninth 'Full Self-Driving' Beta Two Years After It Was Promised"
     excerpt: "Tesla has released the ninth beta of its Full Self-Driving (FSD) software to vehicle owners who have purchased the not-quite-autonomous driving feature. The Verge reported that the update was supposed to debut in August 2018,"
@@ -179,6 +179,6 @@ related:
       domain: tweaktown.com
     quality: 19
 
-secured: "w09N3DEKeR552ArJ6VaglVBulpGIO0ew9hc08MG5SPul3nZJd2ErYSekNQHpmtMVnj4SWskkCQwR9ae+QACK8XkCSUeDt/apB8O4BaogOMhX8BtZpJ8vIl49XsKY//5lwOq0kaXYEr38x22cKRHFPr/+hjO8hjU8QFfatNd7217j/W5/7N0HSX+H+lSrCydR0VLtiAslg6zIR8DuiI9AV9jXIDz8zFjdDEMM9G1UorAt9EN/Sz0ZK9hq8AGu3Z+UiI1UsucXHT8xJjgwpCpD6437JJCsDW5mcrFwwqska/e+rU4hr0DeHy6pP2EoaKzbXR11n/6WxWhLR1FPfvCr3ewX6wLdo5Pabt84CMf46chV4LX2NELD4toPZNFpUwyS91bxfdwFi9h/Hn8A0FPBUOM5Zb7OGgUjKB1rXpKjL6uXPNi2BygNcX9/8JFaAcaKPl8Yom1JyH2Udq9raHXgErckayJK5kEGd712d5NbbGKuQFRIHwZ0b1Ih8ekAA0z18xemxE5nbQgy0xCCo2Y+RA==;mWNNdDcVtF13drzgItakHw=="
+secured: "IWvdQ7FJUOXYhy5hluZ4SDZtaOuFQmxMB9xUTt2HqRvp3r0v4aYNrXzlj9Kzi4vdkDpzj2P0qlqTePbGzN+8kWtyZihNwbLgihsW8BW4uQu5/OHaT8YFMAZWMIwYN+isxmJprm59eAvOlskSumZB8ep2gjmnQOQQ+D1R3kPgtMnM5x2W1KA6UMfUO6wiFScscgAPkk4o/Ru7ohm9CHrdZzHxB9i/dtz6pH0DLY7V9VlBmpJYOcy0OtVLgda8+x+d4GnU3hh/6o6YX8PYo5yYc+0WLpC7TNrWZFskagkxUZrIZSr08eqFN8t50rTZw/bUR8eyDhAT3N232scMkm/dUVpGEpu5qrwAYd4qp+WfIGU=;ErtatAbwjZlW+DVr3OD+vA=="
 ---
 

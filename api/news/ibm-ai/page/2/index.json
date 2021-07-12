@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-06-04-international-business-machines-corporation-ibm-ceo-arvind-krishna-presents-at-annual-bernstein-strategic-decisions-conference-transcript.md",
+      "title": "International Business Machines Corporation (IBM) CEO Arvind Krishna Presents at Annual Bernstein Strategic Decisions Conference (Transcript)",
+      "excerpt": "Annual Bernstein Strategic Decisions Conference June 03, 2021 01:30 PM ET Company Participants Arvind Krishna - Chairman &",
+      "sourceUrl": null,
+      "webUrl": "https://seekingalpha.com/article/4432990-international-business-machines-corporation-ibm-ceo-arvind-krishna-presents-annual-bernstein",
+      "originalUrl": "https://seekingalpha.com/article/4432990-international-business-machines-corporation-ibm-ceo-arvind-krishna-presents-annual-bernstein",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
+          "width": 1200,
+          "height": 1200,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://seekingalpha.com/amp/article/4432990-international-business-machines-corporation-ibm-ceo-arvind-krishna-presents-annual-bernstein",
+      "cdnAmpWebUrl": "https://seekingalpha-com.cdn.ampproject.org/c/s/seekingalpha.com/amp/article/4432990-international-business-machines-corporation-ibm-ceo-arvind-krishna-presents-annual-bernstein",
+      "publishedDateTime": "2021-06-03T15:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Seeking Alpha",
+        "domain": "seekingalpha.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-03-foundations-of-trustworthy-ai-how-to-conduct-trustworthy-ai-assessment-and-mitigation.md",
       "title": "Foundations of trustworthy AI: How to conduct trustworthy AI assessment and mitigation",
       "excerpt": "The ability of artificial intelligence to perform important business tasks has grown by leaps and bounds in recent years. As AI has progressed from a proof of concept to powering critical enterprise workflows, it has become increasingly apparent that this general-purpose technology must be assessed in",
@@ -1390,58 +1433,6 @@
         "Natural Language Processing",
         "AI",
         "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-11-ibm-simplifies-automation-with-watson-orchestrate.md",
-      "title": "IBM simplifies automation with Watson Orchestrate",
-      "excerpt": "One of the interesting but also frustrating things about the world of enterprise software is that it either gets talked about in high-level generalities, or excruciating",
-      "sourceUrl": null,
-      "webUrl": "https://www.techspot.com/news/89631-ibm-simplifies-automation-watson-orchestrate.html",
-      "originalUrl": "https://www.techspot.com/news/89631-ibm-simplifies-automation-watson-orchestrate.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.techspot.com/images2/news/bigimage/2021/05/2021-05-11-image-10.jpg",
-          "width": 2560,
-          "height": 1600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techspot.com/amp/news/89631-ibm-simplifies-automation-watson-orchestrate.html",
-      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/89631-ibm-simplifies-automation-watson-orchestrate.html",
-      "publishedDateTime": "2021-05-11T07:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechSpot",
-        "domain": "techspot.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
       ]
     }
   ],

@@ -40,22 +40,6 @@ related:
         width: 3750
         height: 2500
         isCached: true
-  - title: "This AI project stalks politicians fixated on their phones, names and shames them on Twitter and Instagram too"
-    excerpt: "It looks like the days of politicians goofing around on their phones are over, especially as they can be named and shamed on Twitter and Instagram by this AI project started by artist Dries Depoorter."
-    publishedDateTime: 2021-07-07T09:00:00Z
-    webUrl: "https://tech.hindustantimes.com/tech/news/this-ai-project-stalks-politicians-fixated-on-their-phones-names-and-shames-them-on-twitter-and-instagram-too-71625646730326.html"
-    ampWebUrl: "https://tech.hindustantimes.com/amp/tech/news/this-ai-project-stalks-politicians-fixated-on-their-phones-names-and-shames-them-on-twitter-and-instagram-too-71625646730326.html"
-    cdnAmpWebUrl: "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/tech/news/this-ai-project-stalks-politicians-fixated-on-their-phones-names-and-shames-them-on-twitter-and-instagram-too-71625646730326.html"
-    type: article
-    provider:
-      name: Hindustan Times
-      domain: hindustantimes.com
-    quality: 37
-    images:
-      - url: "https://images.hindustantimes.com/tech/img/2021/07/07/1600x900/The-Flemish-Scrollers-Dries-Depoorter-01--1024x341_(1)_1625647558141_1625647592200.png"
-        width: 1600
-        height: 900
-        isCached: true
 
 secured: "hHRaURqoCpCIdaKBzdQpXxefyX1g6xKSQNb1lvp5docn0EMcLEoj/9r553aoyhzYLMKVHAAO1+yE8JZuxKo9/RN+wipHdwJne1rRVcCGFmKroUtldKU/XmWkALhB6WycZnqx3+L90IC2VlkcJdgH8iV5Nduw7bXya3tbH4Q3taNXA4nuN/mPE1zo7xeUrFL9JhwKjxNtE9xwlCa0D3LIK2CRtgr77wR87n6Mr+t7rJZ/8pceBCVhxyIF6RLlwtMVDe9bgAqEAKYZ6a3l4G7BDEoBnHkzidYeFIdA22D3qXpS18/OsksUWHcvErVfWZ4NziIVRqPBIIqCdieHpt0Shxs62MDVRtFsVMAuTVVFDDA+H29E2SZw6TwB3l4RVoJMyahDXrYsg5biGi0Mk476rxTyYqIj7IomtutZrjkpAX6+iGyCAW5ISOwwdu7Fbxrn8BKVvYnW2QESWHprE1aoKWv4ec/4bmUSZ0g6Prz/fGVhn40/h+ePECyDD6H3BAwgyd8k/Ksi7R8fGstUHEMCaA==;clgsbjAopFacHyR1i/orvw=="
 ---

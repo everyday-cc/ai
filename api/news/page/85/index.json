@@ -2,6 +2,59 @@
   "page": 85,
   "value": [
     {
+      "path": "_news/2021-05-10-the-station-einride-preps-for-a-us-expansion-argo-ai-reveals-its-lidar-specs-and-a-tesla-autopilot-reality-check.md",
+      "title": "The Station: Einride preps for a US expansion, Argo AI reveals its lidar specs and a Tesla Autopilot reality check",
+      "excerpt": "The Station is a weekly newsletter dedicated to all things transportation. Sign up here — just click The Station — to receive it every weekend in your inbox. Hello and welcome back to The Station, a weekly newsletter dedicated to all the ways people and packages move (today and in the future) from",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/05/10/the-station-einride-preps-for-a-us-expansion-argo-ai-reveals-its-lidar-specs-and-a-tesla-autopilot-reality-check/?tpcc=ECTW2020",
+      "originalUrl": "https://techcrunch.com/2021/05/10/the-station-einride-preps-for-a-us-expansion-argo-ai-reveals-its-lidar-specs-and-a-tesla-autopilot-reality-check/?tpcc=ECTW2020",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/05/Sunset-Pod.jpg?w=1024",
+          "width": 1024,
+          "height": 632,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/05/10/the-station-einride-preps-for-a-us-expansion-argo-ai-reveals-its-lidar-specs-and-a-tesla-autopilot-reality-check/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/05/10/the-station-einride-preps-for-a-us-expansion-argo-ai-reveals-its-lidar-specs-and-a-tesla-autopilot-reality-check/amp/",
+      "publishedDateTime": "2021-05-10T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2021-05-10-researchers-create-aifoam-for-robots-to-interact-intelligently-with-their-surroundings.md",
       "title": "Researchers create AiFoam for robots to interact intelligently with their surroundings",
       "excerpt": "Robots and machines are getting smarter with the advancement of artificial intelligence, but they still lack the ability to touch and feel their subtle and complex surroundings like human beings. Now,",
@@ -1120,49 +1173,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-08-ai-azure-and-second-chance-tech-highlights-from-microsofts-build-2018.md",
-      "title": "AI, Azure, and second chance tech: Highlights from Microsoft’s Build 2018",
-      "excerpt": "This gives developers the software and hardware needed to create camera-based IoT solutions, and it comes packed with Azure Machine Learning services. Microsoft CEO Satya Nadella also reiterated the company’s responsibility to trusted and responsible AI ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.itbusiness.ca/news/ai-azure-and-second-chance-tech-highlights-from-microsofts-build-2018/101635",
-      "originalUrl": "https://www.itbusiness.ca/news/ai-azure-and-second-chance-tech-highlights-from-microsofts-build-2018/101635",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.itbusiness.ca/wp-content/uploads/2018/05/Photo-Satya-Nadella-Microsoft-Build-2018.jpg",
-          "width": 620,
-          "height": 250,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.itbusiness.ca/news/ai-azure-and-second-chance-tech-highlights-from-microsofts-build-2018/101635?amp=1",
-      "cdnAmpWebUrl": "https://www-itbusiness-ca.cdn.ampproject.org/c/s/www.itbusiness.ca/news/ai-azure-and-second-chance-tech-highlights-from-microsofts-build-2018/101635?amp=1",
-      "publishedDateTime": "2021-05-07T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT Business",
-        "domain": "itbusiness.ca",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

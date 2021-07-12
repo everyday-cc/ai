@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-07-07-carrington-associates-weaves-new-hybrid-cloud-for-spintel.md",
+      "title": "Carrington Associates weaves new hybrid cloud for SpinTel",
+      "excerpt": "It recently played a key role in building an AI program for the Federal Court, whereby IBM Watson was trained to understand consent orders and court outcomes. “IBM is committed to providing the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.arnnet.com.au/article/689617/carrington-associates-weaves-new-hybrid-cloud-for-spintel/",
+      "originalUrl": "https://www.arnnet.com.au/article/689617/carrington-associates-weaves-new-hybrid-cloud-for-spintel/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/800x800/dimg/cwp_arn_influencerslunch_web-72.jpg",
+          "width": 800,
+          "height": 533,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-06T22:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ARN",
+        "domain": "arnnet.com.au",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-02-ai-strategies-what-is-natural-language-processing-and-how-can-it-help-businesses.md",
       "title": "AI Strategies: What Is Natural Language Processing and How Can It Help Businesses?",
       "excerpt": "Combining language with technology has driven innovation in artificial intelligence for decades. With the right strategy, it can help businesses today.",
@@ -1323,49 +1366,6 @@
       "provider": {
         "name": "City A.M.",
         "domain": "cityam.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-04-international-business-machines-corporation-ibm-ceo-arvind-krishna-presents-at-annual-bernstein-strategic-decisions-conference-transcript.md",
-      "title": "International Business Machines Corporation (IBM) CEO Arvind Krishna Presents at Annual Bernstein Strategic Decisions Conference (Transcript)",
-      "excerpt": "Annual Bernstein Strategic Decisions Conference June 03, 2021 01:30 PM ET Company Participants Arvind Krishna - Chairman &",
-      "sourceUrl": null,
-      "webUrl": "https://seekingalpha.com/article/4432990-international-business-machines-corporation-ibm-ceo-arvind-krishna-presents-annual-bernstein",
-      "originalUrl": "https://seekingalpha.com/article/4432990-international-business-machines-corporation-ibm-ceo-arvind-krishna-presents-annual-bernstein",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
-          "width": 1200,
-          "height": 1200,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://seekingalpha.com/amp/article/4432990-international-business-machines-corporation-ibm-ceo-arvind-krishna-presents-annual-bernstein",
-      "cdnAmpWebUrl": "https://seekingalpha-com.cdn.ampproject.org/c/s/seekingalpha.com/amp/article/4432990-international-business-machines-corporation-ibm-ceo-arvind-krishna-presents-annual-bernstein",
-      "publishedDateTime": "2021-06-03T15:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Seeking Alpha",
-        "domain": "seekingalpha.com",
         "images": null,
         "publishers": null,
         "authors": null

@@ -2,6 +2,58 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-05-11-ibm-simplifies-automation-with-watson-orchestrate.md",
+      "title": "IBM simplifies automation with Watson Orchestrate",
+      "excerpt": "One of the interesting but also frustrating things about the world of enterprise software is that it either gets talked about in high-level generalities, or excruciating",
+      "sourceUrl": null,
+      "webUrl": "https://www.techspot.com/news/89631-ibm-simplifies-automation-watson-orchestrate.html",
+      "originalUrl": "https://www.techspot.com/news/89631-ibm-simplifies-automation-watson-orchestrate.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.techspot.com/images2/news/bigimage/2021/05/2021-05-11-image-10.jpg",
+          "width": 2560,
+          "height": 1600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techspot.com/amp/news/89631-ibm-simplifies-automation-watson-orchestrate.html",
+      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/89631-ibm-simplifies-automation-watson-orchestrate.html",
+      "publishedDateTime": "2021-05-11T07:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechSpot",
+        "domain": "techspot.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-11-the-four-keys-to-trustworthy-ai.md",
       "title": "The four keys to trustworthy AI",
       "excerpt": "Artificial intelligence is a major factor in people’s lives. It influences who gets a loan, how companies hire and compensate employees, how customers are treated, even where infrastructure and aid are allocated. It is already deeply embedded in our businesses, organizations and governments, including",

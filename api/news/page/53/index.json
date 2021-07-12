@@ -2,6 +2,58 @@
   "page": 53,
   "value": [
     {
+      "path": "_news/2021-06-01-innovate-toward-health-experience-not-just-healthcare.md",
+      "title": "Innovate Toward Health Experience, Not Just Healthcare",
+      "excerpt": "Pamela Spence, EY Global Health Sciences and Wellness Industry Leader. Technological innovation has pushed the consumer experience forward in banking, retail, entertainment and hospitality (among other industries) but has not yet broken through with health interactions.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/06/01/innovate-toward-health-experience-not-just-healthcare/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/06/01/innovate-toward-health-experience-not-just-healthcare/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60b0f516da9fc3e34e99c61f%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/06/01/innovate-toward-health-experience-not-just-healthcare/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/06/01/innovate-toward-health-experience-not-just-healthcare/amp/",
+      "publishedDateTime": "2021-06-01T04:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-01-these-are-the-10-most-in-demand-ai-jobs-according-to-indeedand-they-all-pay-at-least-95000.md",
       "title": "These are the 10 most in-demand AI jobs according to Indeed—and they all pay at least $95,000",
       "excerpt": "But, one industry that has remained in high demand despite the pandemic is artificial intelligence, with hiring growth for these jobs increasing by 32% since 2019, according to LinkedIn. “AI covers a vast range of use cases,",
@@ -1082,49 +1134,6 @@
       "topics": [
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-05-31-waymo-may-be-disrupted-by-its-inability-to-scale.md",
-      "title": "Waymo May Be Disrupted By Its Inability To Scale",
-      "excerpt": "Much of the attention among the public goes to the performance and reliability of companies’ autonomous driving technology. However, an equally important issue is global scalability.",
-      "sourceUrl": null,
-      "webUrl": "https://seekingalpha.com/article/4432226-waymo-may-be-disrupted-by-its-inability-to-scale",
-      "originalUrl": "https://seekingalpha.com/article/4432226-waymo-may-be-disrupted-by-its-inability-to-scale",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1213118320/medium_image_1213118320.jpg",
-          "width": 768,
-          "height": 432,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://seekingalpha.com/amp/article/4432226-waymo-may-be-disrupted-by-its-inability-to-scale",
-      "cdnAmpWebUrl": "https://seekingalpha-com.cdn.ampproject.org/c/s/seekingalpha.com/amp/article/4432226-waymo-may-be-disrupted-by-its-inability-to-scale",
-      "publishedDateTime": "2021-05-31T05:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Seeking Alpha",
-        "domain": "seekingalpha.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

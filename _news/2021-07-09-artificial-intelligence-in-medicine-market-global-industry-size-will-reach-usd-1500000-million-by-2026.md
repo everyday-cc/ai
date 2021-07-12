@@ -7,7 +7,7 @@ originalUrl: "https://www.benzinga.com/pressreleases/21/07/ab21907737/artificial
 webUrl: "https://www.benzinga.com/pressreleases/21/07/ab21907737/artificial-intelligence-in-medicine-market-global-industry-size-will-reach-usd-15-000-00-million-"
 type: article
 quality: 22
-heat: -1
+heat: 22
 published: false
 
 provider:
@@ -23,17 +23,6 @@ images:
     width: 1200
     height: 630
     isCached: true
-
-related:
-  - title: "AI-based Surgical Robots Market Size To Reach $17.2 Billion By 2028: Grand View Research, Inc."
-    excerpt: "The globalAI-based surgical robots marketsize is expected to reach USD 17.2 billion by 2028, according to a new report by Grand View Re"
-    publishedDateTime: 2021-07-07T08:18:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-ai-based-surgical-robots-market-size-reach-172-/2021/07/07/9403932.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 22
 
 secured: "FtAZQCn5MCEoJnFP6FCVwzAhX0rWzO1BYI+U8hDlSl8fT1XLSGflC3vBTHJcO4Xg0PNKXPpwfP+08KxiIIIPYqMd8iewtu72wT7ijf4qmfkVw6CaNN/ZcTR4qvpmMf2j9N96syEv+Vbfw5Gdt0JG7/Go1/QSEcQIk0S2W+niOg4vlDjBoQ/YMTGix7i6k4GLBMpmbBZOSUarjn+XyBG9/XON2WGhVKqDDaUU7QAs921T5baKr2F5L/6N4+91khq/M0OxCMf6uQsAwxl43A858BUeesHBakGX1GT8NayeezoXjnBzGqziqR5XY6VPxOb556zeoyOPfimAOOW5BRXqvW8QxNn6YeJhPbRUh0dBH5s=;aKL2P0y0rHmBg4cZfsXsXg=="
 ---

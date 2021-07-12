@@ -1,22 +1,26 @@
 ---
 category: news
 title: "AISERA Transforms Customer Experience & Customer Service with AI & Automation"
-excerpt: "Aisera, the world's first AI Customer service that automates tasks, actions, and workflows for all organizations,"
+excerpt: "Aisera, the world's first AI Customer service that automates tasks, actions, and workflows for all organizations, announced today that it has significantly"
 publishedDateTime: 2021-06-29T14:14:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/21/06/n21767488/aisera-transforms-customer-experience-customer-service-with-ai-automation"
-webUrl: "https://www.benzinga.com/pressreleases/21/06/n21767488/aisera-transforms-customer-experience-customer-service-with-ai-automation"
-ampWebUrl: "https://www.benzinga.com/amp/content/21767488"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/21767488"
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/aisera-transforms-customer-experience-customer-service-with-ai-automation/article_cfc976a6-240b-5c27-bcaa-929546586bf8.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/aisera-transforms-customer-experience-customer-service-with-ai-automation/article_cfc976a6-240b-5c27-bcaa-929546586bf8.html"
 type: article
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - Microsoft AI
   - AI
 
-secured: "ehjGlygotYgo7d0K3GaDgTRGL1I7VleDgTWPg1TUlomSlsZEcSIT1HVL1pXQfnbs9u0mMyxiGDA0iks584Tb3Vf1Ods38ZXWSk7rk6C2dsv4NKLVg7xFsoKhe8McTD9CKEi3SM1MEXzjsEuOM/ldw1zvFtd2SDJaoFE3R7vbqBGVT7LLx7slwh9xJdjY91oJv6pkKMoPtwrGkLm4UQCiu3jQRlnlhBEylKWsAp5ycpgTCIbCwBD93vc3bGnpkaQ68KjedBihBSx7aeUsSda6bb+VNBQFmSKhhFlqaNFu72xe78TVpv40WTGXg81nVyfBU2BZTfhAt5NYXaNtFiRN/zbPmdzw7Ycrn0KsOfuIjz4=;796LV3oW1YN7opoOsVz3qg=="
+images:
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
+    width: 1280
+    height: 720
+    isCached: true
+
+secured: "C6rEVL3sV/xd3FHROR56YK89A5VNTYycVcWavH51V55YoqUiYoba0ynHjNRaL0kL8eXXOkj+c6WRLopZ4afY3hd5yGuyX1+mYb7Z6r9asNnogd5p8TXMCtDykmQOEQXuwDRSnPmKY9sNqNS90rwZc0HyOfD+pnJOQgyB2VoYbY/tE38IK//dJVfSX4M/U/hW1s8g/E9wh1oHTi3cTsS2erc7SwwBC9Vioi/THK1EDbtXxjW+udHMsE8fhEJ3haU8LL6TJX0HCemphFRPoJco1kpWOqP8/xU4WaBE6ZBTQaprI6mGo4gUV1laY+Dwrn84rMTdVlzq8HxTGy2CJTjoLIt6HmjK6aIaoPfevpNntzw=;Asovl8G1oHzBvvS7qcdyKg=="
 ---
 

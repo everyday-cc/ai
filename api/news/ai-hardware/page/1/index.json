@@ -662,19 +662,19 @@
     {
       "path": "_news/2021-07-01-ddn-boosts-ai-storage-leadership-with-exascaler-6-and-expanded-portfolio-for-enterprise-intelligent-infrastructure.md",
       "title": "DDN Boosts AI Storage Leadership with EXAScaler 6 and Expanded Portfolio for Enterprise Intelligent Infrastructure",
-      "excerpt": "Expanding on its global leadership in artificial intelligence (AI) and multi cloud data management solutions, DDN® is strengthening its commitment to enterprise AI",
+      "excerpt": "Expanding on its global leadership in artificial intelligence (AI) and multi cloud data management solutions, DDN® is strengthening its commitment to enterprise AI customers and channel partners with EXAScaler® 6 (EXA6) and expanding its portfolio of IntelliFlash ™ systems from Tintri,",
       "sourceUrl": null,
-      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/ddn-boosts-ai-storage-leadership-with-exascaler-6-and-expanded-portfolio-for-enterprise-intelligent-infrastructure/article_509526cc-fe93-53a7-ace4-b0d0f70a7319.html",
-      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/ddn-boosts-ai-storage-leadership-with-exascaler-6-and-expanded-portfolio-for-enterprise-intelligent-infrastructure/article_509526cc-fe93-53a7-ace4-b0d0f70a7319.html",
+      "webUrl": "https://markets.businessinsider.com/news/stocks/ddn-boosts-ai-storage-leadership-with-exascaler-6-and-expanded-portfolio-for-enterprise-intelligent-infrastructure-1030569585",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/ddn-boosts-ai-storage-leadership-with-exascaler-6-and-expanded-portfolio-for-enterprise-intelligent-infrastructure-1030569585",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/a/fc/afcd069f-109a-5e25-b5c1-2f230e1ec9d3/609a802dd1fff.image.jpg?resize=446%2C630",
-          "width": 446,
-          "height": 630,
+          "url": "https://mma.prnewswire.com/media/1191324/DDN_Logo.jpg",
+          "width": 283,
+          "height": 400,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -684,12 +684,21 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-30T18:58:00-07:00",
+      "publishedDateTime": "2021-06-30T19:12:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "WFMZ-TV",
-        "domain": "wfmz.com",
-        "images": null,
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -1138,10 +1147,10 @@
     {
       "path": "_news/2021-06-28-supermicro-boosts-performance-for-hpc-and-ai-applications-with-optimized-servers-featuring-new-nvidia-a100-80gb-pcie-gpus.md",
       "title": "Supermicro Boosts Performance for HPC and AI Applications with Optimized Servers Featuring New NVIDIA A100 80GB PCIe GPUs",
-      "excerpt": "Supermicro servers, designed with a Building Block Solutions ® approach, give Supermicro a first to market advantage when incorporating new technologies. State-of-the-art accelerated computing options can be quickly integrated and tested,",
+      "excerpt": "High Performance 200G Networking Accelerates HPC and AI ApplicationsSAN JOSE, Calif., June 28, 2021 /PRNewswire/ -- Super Micro Computer, Inc.",
       "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/-supermicro-boosts-performance-hpc-ai-applications-with-optimized-/2021/06/28/9398763.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/-supermicro-boosts-performance-hpc-ai-applications-with-optimized-/2021/06/28/9398763.htm",
+      "webUrl": "https://markets.businessinsider.com/news/stocks/supermicro-boosts-performance-for-hpc-and-ai-applications-with-optimized-servers-featuring-new-nvidia-a100-80gb-pcie-gpus-1030559105",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/supermicro-boosts-performance-for-hpc-and-ai-applications-with-optimized-servers-featuring-new-nvidia-a100-80gb-pcie-gpus-1030559105",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -1160,12 +1169,21 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-28T06:08:00-07:00",
+      "publishedDateTime": "2021-06-28T06:14:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },

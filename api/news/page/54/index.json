@@ -2,6 +2,49 @@
   "page": 54,
   "value": [
     {
+      "path": "_news/2021-05-31-waymo-may-be-disrupted-by-its-inability-to-scale.md",
+      "title": "Waymo May Be Disrupted By Its Inability To Scale",
+      "excerpt": "Much of the attention among the public goes to the performance and reliability of companies’ autonomous driving technology. However, an equally important issue is global scalability.",
+      "sourceUrl": null,
+      "webUrl": "https://seekingalpha.com/article/4432226-waymo-may-be-disrupted-by-its-inability-to-scale",
+      "originalUrl": "https://seekingalpha.com/article/4432226-waymo-may-be-disrupted-by-its-inability-to-scale",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1213118320/medium_image_1213118320.jpg",
+          "width": 768,
+          "height": 432,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://seekingalpha.com/amp/article/4432226-waymo-may-be-disrupted-by-its-inability-to-scale",
+      "cdnAmpWebUrl": "https://seekingalpha-com.cdn.ampproject.org/c/s/seekingalpha.com/amp/article/4432226-waymo-may-be-disrupted-by-its-inability-to-scale",
+      "publishedDateTime": "2021-05-31T05:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Seeking Alpha",
+        "domain": "seekingalpha.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-31-lets-not-trust-ai-to-profile-people-from-their-head-vibrations.md",
       "title": "Let’s not trust AI to profile people from their head vibrations",
       "excerpt": "AI' is being used to profile people from their head vibrations – but is there enough evidence to support it? For the most part, no.",
@@ -1065,49 +1108,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-29-why-natural-language-processing-is-ais-jewel-in-the-crown.md",
-      "title": "Why natural language processing is AI’s jewel in the crown",
-      "excerpt": "As we enter the intelligent era, smart devices and data volumes will skyrocket, as will the demand for human-computer interaction through speech and language - that's why it will be a US$16 billion market by 2021.",
-      "sourceUrl": null,
-      "webUrl": "https://www.huawei.com/it/technology-insights/publications/winwin/33/why-natural-language-processing-is-ais-jewel-in-the-crown",
-      "originalUrl": "https://www.huawei.com/it/technology-insights/publications/winwin/33/why-natural-language-processing-is-ais-jewel-in-the-crown",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www-file.huawei.com/-/media/corporate/images/magazine/winwin/33/liuqun-natural-language-process-l.jpg",
-          "width": 960,
-          "height": 540,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-29T09:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Huawei",
-        "domain": "huawei.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

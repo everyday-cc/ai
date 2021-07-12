@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Thales Supports Mobile Operators With Advanced Voice Biometric Authentication"
-    excerpt: "With strong performance in the 2019 NIST* Speaker Recognition Evaluation leading benchmark challenges, ID R&D’s technology is recognised as offering unprecedented accuracy, speed and reliability. Thales voice matching also supports seamless ..."
-    publishedDateTime: 2021-07-07T07:14:00Z
-    webUrl: "https://www.joplinglobe.com/region/national_business/thales-supports-mobile-operators-with-advanced-voice-biometric-authentication/article_768a667f-23b4-58a7-b338-8a98116cbb24.html"
-    type: article
-    provider:
-      name: Joplin Globe
-      domain: joplinglobe.com
-    quality: 21
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/joplinglobe.com/content/tncms/assets/v3/editorial/8/83/883ec971-0f72-55c6-bc03-0b4354c0346e/60e551f0c1284.image.jpg?resize=1135%2C473"
-        width: 1135
-        height: 473
-        isCached: true
   - title: "ID R&D voice biometrics boost Thales call center solutions with seamless fraud protection"
     excerpt: "The addition of voice biometrics enables call center operators to move away from ineffective and time-consuming knowledge-based authentication (KBA) questions."
     publishedDateTime: 2021-07-07T16:55:00Z

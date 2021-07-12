@@ -93,6 +93,22 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Tesla Releases Full Self-Driving Update, Tells Users ‘It May Do the Wrong Thing at the Worst Time’"
+    excerpt: "Years after its announced debut, Tesla has finally released beta version 9 of its Full Self-Driving system, albeit warning drivers that the software “may do the wrong thing at the worst time” and urging them not to become complacent at the wheel."
+    publishedDateTime: 2021-07-12T01:32:00Z
+    webUrl: "https://gizmodo.com/tesla-releases-full-self-driving-update-tells-users-i-1847269917"
+    ampWebUrl: "https://gizmodo.com/tesla-releases-full-self-driving-update-tells-users-i-1847269917/amp"
+    cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/tesla-releases-full-self-driving-update-tells-users-i-1847269917/amp"
+    type: article
+    provider:
+      name: Gizmodo
+      domain: gizmodo.com
+    quality: 75
+    images:
+      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/7f61b722a12e3f877c06803fcc65093a.jpg"
+        width: 800
+        height: 450
+        isCached: true
   - title: "Elon Musk Confirms Tesla’s Launch Date of Its Full Self-Driving Beta v9"
     excerpt: "Tesla fans may not have long to wait to get a taste of self-driving cars, as CEO Elon Musk has (finally) confirmed an official launch date of the Full Self-Driving Beta v9. In the early hours of Thursday,"
     publishedDateTime: 2021-07-08T16:35:00Z

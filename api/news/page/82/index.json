@@ -2,6 +2,49 @@
   "page": 82,
   "value": [
     {
+      "path": "_news/2021-05-12-modular-robotics-made-easier-with-ros.md",
+      "title": "Modular Robotics Made Easier With ROS",
+      "excerpt": "A robot is made up of many hardware components each of which requires its own software. Even a small robot arm with a handful of servo motors uses a servo motor library. Add that arm to a wheeled ...",
+      "sourceUrl": null,
+      "webUrl": "https://hackaday.com/2018/05/31/modular-robotics-made-easier-with-ros/",
+      "originalUrl": "https://hackaday.com/2018/05/31/modular-robotics-made-easier-with-ros/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://hackaday.com/wp-content/uploads/2018/05/ros.jpg",
+          "width": 3000,
+          "height": 1815,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-11T17:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hackaday",
+        "domain": "hackaday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-12-new-system-allows-self-driving-cars-to-make-more-human-decisions.md",
       "title": "New System Allows Self-Driving Cars to Make More Human Decisions",
       "excerpt": "(Image source: Chelsea Turner) A team of scientists at MIT have created a system using simple maps and visual data to enable driverless cars to navigate ... director of the Computer Science and Artificial Intelligence Laboratory (CSAIL) and a professor ...",
@@ -1130,48 +1173,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-11-kfin-technologies-announces-investment-in-insurtech-startup-artivaticai.md",
-      "title": "Kfin Technologies announces investment in InsurTech startup Artivatic.ai",
-      "excerpt": "KFin Technologies, a General Atlantic-backed and one of India’s largest registrars announced its investment in InsurTech startup, Artivatic.ai. They have bought 17% stake in Artivatic on a path to majority.",
-      "sourceUrl": null,
-      "webUrl": "https://www.moneycontrol.com/news/business/kfin-technologies-announces-investment-in-insurtech-startup-artivatic-ai-6881831.html",
-      "originalUrl": "https://www.moneycontrol.com/news/business/kfin-technologies-announces-investment-in-insurtech-startup-artivatic-ai-6881831.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.moneycontrol.com/static-mcnews/2020/07/partnership-770x433.jpg?impolicy=website&width=770&height=431",
-          "width": 770,
-          "height": 431,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.moneycontrol.com/news/business/kfin-technologies-announces-investment-in-insurtech-startup-artivatic-ai-6881831.html/amp",
-      "cdnAmpWebUrl": "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/business/kfin-technologies-announces-investment-in-insurtech-startup-artivatic-ai-6881831.html/amp",
-      "publishedDateTime": "2021-05-11T08:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "moneycontrol.com",
-        "domain": "moneycontrol.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

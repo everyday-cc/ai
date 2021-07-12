@@ -2,6 +2,58 @@
   "page": 95,
   "value": [
     {
+      "path": "_news/2021-05-03-baidu-launches-chinas-first-paid-robotaxi-service.md",
+      "title": "Baidu launches China's first paid robotaxi service",
+      "excerpt": "Chinese technology giant Baidu has launched what is says is the country's first commercial robotaxi service, which will see its Apollo self-driving vehicles shuttle paying customers around Beijing's Shougang Park without a safety driver onboard.",
+      "sourceUrl": null,
+      "webUrl": "https://newatlas.com/automotive/baidu-china-first-paid-robotaxi-autonomous-taxi/",
+      "originalUrl": "https://newatlas.com/automotive/baidu-china-first-paid-robotaxi-autonomous-taxi/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 189,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.newatlas.com/dims4/default/cb1afed/2147483647/strip/true/crop/1385x923+0+0/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F16%2F7a%2F31e38f5d418f813406035fa5f07a%2Fbaidu-apollo-s-fully-driverless-robotaxis-motion.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://newatlas.com/automotive/baidu-china-first-paid-robotaxi-autonomous-taxi/?amp=true",
+      "cdnAmpWebUrl": "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/automotive/baidu-china-first-paid-robotaxi-autonomous-taxi/?amp=true",
+      "publishedDateTime": "2021-05-03T00:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New Atlas",
+        "domain": "newatlas.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newatlas.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-03-intel-will-invest-35-billion-in-new-mexico-chip-factory.md",
       "title": "Intel will invest $3.5 billion in New Mexico chip factory",
       "excerpt": "Intel said on Sunday that it will spend $3.5 billion on an upgrade for its factory in New Mexico as part of a plan to expand manufacturing.",
@@ -1114,57 +1166,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-01-softbanks-newest-ai-unicorns-are-taking-on-more-than-just-amazon.md",
-      "title": "SoftBank’s Newest AI Unicorns Are Taking On More Than Just Amazon",
-      "excerpt": "SoftBank is on the hunt for its next billion dollar IPO, seeking promising AI startups to bet big on. Meet two of its newest portfolio companies, Standard Cognition and Forward, and how they're leveraging artificial intelligence for market dominance in the post-pandemic world.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/martineparis/2021/05/01/softbanks-newest-ai-unicorns-are-taking-on-more-than-just-amazon/",
-      "originalUrl": "https://www.forbes.com/sites/martineparis/2021/05/01/softbanks-newest-ai-unicorns-are-taking-on-more-than-just-amazon/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F608766c6e84ff10258227ace%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/martineparis/2021/05/01/softbanks-newest-ai-unicorns-are-taking-on-more-than-just-amazon/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/martineparis/2021/05/01/softbanks-newest-ai-unicorns-are-taking-on-more-than-just-amazon/amp/",
-      "publishedDateTime": "2021-05-01T01:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

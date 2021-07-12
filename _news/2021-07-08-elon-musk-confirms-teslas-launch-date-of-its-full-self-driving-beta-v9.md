@@ -91,6 +91,22 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Tesla Releases Full Self-Driving Update, Tells Users ‘It May Do the Wrong Thing at the Worst Time’"
+    excerpt: "Years after its announced debut, Tesla has finally released beta version 9 of its Full Self-Driving system, albeit warning drivers that the software “may do the wrong thing at the worst time” and urging them not to become complacent at the wheel."
+    publishedDateTime: 2021-07-12T01:32:00Z
+    webUrl: "https://gizmodo.com/tesla-releases-full-self-driving-update-tells-users-i-1847269917"
+    ampWebUrl: "https://gizmodo.com/tesla-releases-full-self-driving-update-tells-users-i-1847269917/amp"
+    cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/tesla-releases-full-self-driving-update-tells-users-i-1847269917/amp"
+    type: article
+    provider:
+      name: Gizmodo
+      domain: gizmodo.com
+    quality: 75
+    images:
+      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/7f61b722a12e3f877c06803fcc65093a.jpg"
+        width: 800
+        height: 450
+        isCached: true
   - title: "Tesla Releases Ninth 'Full Self-Driving' Beta Two Years After It Was Promised"
     excerpt: "Tesla has released the ninth beta of its Full Self-Driving (FSD) software to vehicle owners who have purchased the not-quite-autonomous driving feature. The Verge reported that the update was supposed to debut in August 2018,"
     publishedDateTime: 2021-07-10T19:09:00Z

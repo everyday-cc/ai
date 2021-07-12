@@ -33,6 +33,20 @@ related:
         width: 390
         height: 220
         isCached: true
+  - title: "Machine Learning Market Research Report with Size, Share, Value, CAGR, Outlook, Analysis, Latest Updates, Data, and News 2021-2028"
+    excerpt: "At the beginning of 2021, COVID-19 disease began to spread around the world, millions of people worldwide were infected"
+    publishedDateTime: 2021-07-11T22:42:00Z
+    webUrl: "https://www.marketwatch.com/press-release/machine-learning-market-research-report-with-size-share-value-cagr-outlook-analysis-latest-updates-data-and-news-2021-2028-2021-07-11"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 39
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Global Conversational AI Market 2021-2026: Competitive Analysis, Impact of COVID-19, Ansoff Analysis - ResearchAndMarkets.com"
     excerpt: "The “Global Conversational AI Market (2021-2026) by Type, Distribution Channel, Application and Geography - Competitive Analysis, Impact of COVID-19, Ansoff Analysis” report has been added to ResearchAndMarkets.com’s offering. The Global ..."
     publishedDateTime: 2021-07-09T09:07:00Z

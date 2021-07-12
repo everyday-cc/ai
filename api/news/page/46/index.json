@@ -2,6 +2,50 @@
   "page": 46,
   "value": [
     {
+      "path": "_news/2021-06-05-neuromorphic-chip-artificial-neurons-recognize-biosignals-in-real-time.md",
+      "title": "Neuromorphic Chip: Artificial Neurons Recognize Biosignals in Real Time",
+      "excerpt": "Researchers from Zurich have developed a compact, energy-efficient device made from artificial neurons that is capable of decoding brainwaves. The chip uses data recorded from the brainwaves of epilepsy patients to identify which regions of the brain cause epileptic seizures.",
+      "sourceUrl": null,
+      "webUrl": "https://scitechdaily.com/neuromorphic-chip-artificial-neurons-recognize-biosignals-in-real-time/",
+      "originalUrl": "https://scitechdaily.com/neuromorphic-chip-artificial-neurons-recognize-biosignals-in-real-time/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scitechdaily.com/images/Neuromorphic-Chip-777x437.jpg",
+          "width": 777,
+          "height": 437,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://scitechdaily.com/neuromorphic-chip-artificial-neurons-recognize-biosignals-in-real-time/amp/",
+      "cdnAmpWebUrl": "https://scitechdaily-com.cdn.ampproject.org/c/s/scitechdaily.com/neuromorphic-chip-artificial-neurons-recognize-biosignals-in-real-time/amp/",
+      "publishedDateTime": "2021-06-04T20:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SciTech Daily",
+        "domain": "scitechdaily.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-06-05-deepak-chopra-plans-to-live-forever-through-ai-heres-how.md",
       "title": "Deepak Chopra Plans To Live Forever Through AI, Here’s How",
       "excerpt": "Before the pandemic, meditation guru Deepak Chopra uploaded his \"consciousness\" to the AI Foundation to ensure he could talk to future generations. Virgin Galactic's Richard Branson, Twitter's Biz Stone and VC Cyan Bannister did the same.",
@@ -1140,57 +1184,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-04-how-ai-is-addressing-the-enterprise-email-overload-problem.md",
-      "title": "How AI Is Addressing The Enterprise Email Overload Problem",
-      "excerpt": "AI-powered technology is helping businesses deal with their cluttered inboxes and better manage customer expectations.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/06/04/how-ai-is-addressing-the-enterprise-email-overload-problem/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/06/04/how-ai-is-addressing-the-enterprise-email-overload-problem/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f8a0c158094e05a83b59beb%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/06/04/how-ai-is-addressing-the-enterprise-email-overload-problem/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/06/04/how-ai-is-addressing-the-enterprise-email-overload-problem/amp/",
-      "publishedDateTime": "2021-06-04T04:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

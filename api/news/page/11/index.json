@@ -2,6 +2,59 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2021-06-30-us-agencies-must-track-which-facial-recognition-systems-they-use-report-says.md",
+      "title": "US agencies must track which facial recognition systems they use, report says",
+      "excerpt": "Several federal agencies don't know which systems their employees use, according to the Government Accountability Office.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/tech/services-and-software/us-agencies-must-track-which-facial-recognition-systems-they-use-report-says/",
+      "originalUrl": "https://www.cnet.com/tech/services-and-software/us-agencies-must-track-which-facial-recognition-systems-they-use-report-says/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cnet.com/a/img/gwmoAi0S4eDXJo6Rbg_tTnsJSgc=/1200x630/2020/05/01/bff6e427-0240-4ffd-bfbb-40db6bab6b46/security-facial-recognition-contact-tracing.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/us-agencies-must-track-which-facial-recognition-systems-they-use-report-says/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/us-agencies-must-track-which-facial-recognition-systems-they-use-report-says/",
+      "publishedDateTime": "2021-06-30T07:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
       "path": "_news/2021-06-30-parrot-anafi-ai-is-a-4g-drone-with-striking-style-and-3d-vision.md",
       "title": "Parrot Anafi Ai is a 4G drone with striking style and 3D vision",
       "excerpt": "Parrot has a new drone, but the French company would really rather you think of the new Anafi Ai as a 4G-connected flying robot. Tapping cellular data for better, broader range, and a new 3D",
@@ -755,17 +808,17 @@
       "title": "China's Didi touts tech spending ahead of Wall St debut",
       "excerpt": "Early investors included Apple Inc., Japan’s Softbank, Alibaba and Chinese internet giants, Tencent Holding Ltd. and Baidu Inc. Didi ... into development of self-driving, electric vehicles ...",
       "sourceUrl": null,
-      "webUrl": "https://www.fox23.com/news/chinas-didi-touts/DBXXNMFWEYG4ZRLYZ7NRQERQJU/",
-      "originalUrl": "https://www.fox23.com/news/chinas-didi-touts/DBXXNMFWEYG4ZRLYZ7NRQERQJU/",
+      "webUrl": "https://www.baynews9.com/fl/tampa/ap-online/2021/06/30/chinas-didi-touts-tech-spending-ahead-of-wall-st-debut",
+      "originalUrl": "https://www.baynews9.com/fl/tampa/ap-online/2021/06/30/chinas-didi-touts-tech-spending-ahead-of-wall-st-debut",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://cloudfront-us-east-1.images.arcpublishing.com/cmg/XL7AELWQMP6C5P7XEBRG6NG5AA.jpg",
-          "width": 5349,
-          "height": 3487,
+          "url": "https://s7d2.scene7.com/is/image/TWCNews/China_Didi_IPO_76014",
+          "width": 1280,
+          "height": 835,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -773,13 +826,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.fox23.com/news/chinas-didi-touts/DBXXNMFWEYG4ZRLYZ7NRQERQJU/?outputType=amp",
-      "cdnAmpWebUrl": "https://www-fox23-com.cdn.ampproject.org/c/s/www.fox23.com/news/chinas-didi-touts/DBXXNMFWEYG4ZRLYZ7NRQERQJU/?outputType=amp",
-      "publishedDateTime": "2021-06-30T01:10:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-30T00:37:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Fox 23",
-        "domain": "fox23.com",
+        "name": "Bay News 9",
+        "domain": "baynews9.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1167,58 +1220,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-30-the-uneasy-alliance-between-business-leaders-and-artificial-intelligence.md",
-      "title": "The Uneasy Alliance Between Business Leaders And Artificial Intelligence",
-      "excerpt": "AI is seen by many inside and outside the corporate world as a mysterious, dark art that only data scientists and algorithm developers can love.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/joemckendrick/2021/06/29/the-uneasy-alliance-between-business-leaders-and-artificial-intelligence/",
-      "originalUrl": "https://www.forbes.com/sites/joemckendrick/2021/06/29/the-uneasy-alliance-between-business-leaders-and-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60dbcc890629828a88a61bcb%2F0x0.jpg",
-          "width": 1200,
-          "height": 799,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/joemckendrick/2021/06/29/the-uneasy-alliance-between-business-leaders-and-artificial-intelligence/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2021/06/29/the-uneasy-alliance-between-business-leaders-and-artificial-intelligence/amp/",
-      "publishedDateTime": "2021-06-29T18:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
       ]
     }
   ],
