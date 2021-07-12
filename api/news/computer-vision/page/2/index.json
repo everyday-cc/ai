@@ -2,6 +2,59 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-06-28-facial-recognition-tech-for-bears-aims-to-keep-humans-safe.md",
+      "title": "Facial recognition tech for bears aims to keep humans safe",
+      "excerpt": "A town in Japan is planning to use facial recognition on local brown bears as part of efforts to reduce the number of bear attacks.",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaltrends.com/news/facial-recognition-tech-for-bears-aims-to-keep-humans-safe/",
+      "originalUrl": "https://www.digitaltrends.com/news/facial-recognition-tech-for-bears-aims-to-keep-humans-safe/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 186,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://icdn.digitaltrends.com/image/digitaltrends/brown-bear-japan.jpg",
+          "width": 1130,
+          "height": 756,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.digitaltrends.com/news/facial-recognition-tech-for-bears-aims-to-keep-humans-safe/?amp",
+      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/news/facial-recognition-tech-for-bears-aims-to-keep-humans-safe/?amp",
+      "publishedDateTime": "2021-06-27T20:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Trends",
+        "domain": "digitaltrends.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2021-06-28-uk-watchdog-raises-alarm-over-live-face-recognition-tech.md",
       "title": "UK watchdog raises alarm over live face recognition tech",
       "excerpt": "Unlike CCTV, LFR and its algorithms can automatically identify who you are and infer sensitive details about you. The chief data protection regulator in the UK has expressed grave concerns over the inappropriate use of live facial recognition (LFR) technology in public places.",
@@ -1384,41 +1437,6 @@
       "topics": [
         "Computer Vision",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-17-tractable-becomes-worlds-first-computer-vision-unicorn-for-financial-services.md",
-      "title": "Tractable becomes world's first computer vision unicorn for financial services",
-      "excerpt": "The round doubles the total raised by Tractable from $55M to $115M and values the company at $1B – making it the world's first computer vision 'unicorn' for financial services. When drivers get into an accident,",
-      "sourceUrl": null,
-      "webUrl": "https://www.morningstar.com/news/pr-newswire/20210617ny13940/tractable-becomes-worlds-first-computer-vision-unicorn-for-financial-services",
-      "originalUrl": "https://www.morningstar.com/news/pr-newswire/20210617ny13940/tractable-becomes-worlds-first-computer-vision-unicorn-for-financial-services",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-16T22:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Morningstar, Inc.",
-        "domain": "morningstar.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Computer Vision"
       ]
     }
   ],

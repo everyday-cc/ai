@@ -1,10 +1,10 @@
 ---
 category: news
 title: "The revolutionary role of AI in identifying and extracting evidence to be explored in a webinar featuring Chris Pashos and Matt Michelson"
-excerpt: "\"Artificial intelligence and machine learning can effectively complement ... Matt and his team are building the largest database of therapy evidence in the world and continue to explore ways in which different data sources can be absorbed to answer complex ..."
-publishedDateTime: 2021-07-12T14:24:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/the-revolutionary-role-of-ai-in-identifying-and-extracting-evidence-to-be-explored-in-a/article_db1e1717-d60f-544d-ad29-0b690b94f10c.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/the-revolutionary-role-of-ai-in-identifying-and-extracting-evidence-to-be-explored-in-a/article_db1e1717-d60f-544d-ad29-0b690b94f10c.html"
+excerpt: "International HEOR and RWE research organization Genesis Research is presenting an interactive webinar and Q&A at 11am ET on Thursday 15 July on"
+publishedDateTime: 2021-07-12T14:00:00Z
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_new_jersey/the-revolutionary-role-of-ai-in-identifying-and-extracting-evidence-to-be-explored-in-a/article_db1e1717-d60f-544d-ad29-0b690b94f10c.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_new_jersey/the-revolutionary-role-of-ai-in-identifying-and-extracting-evidence-to-be-explored-in-a/article_db1e1717-d60f-544d-ad29-0b690b94f10c.html"
 type: article
 quality: 6
 heat: 6
@@ -24,6 +24,6 @@ images:
     height: 720
     isCached: true
 
-secured: "0tv0ZZHDJ2MvDObNbqdvC6aMdG06Gyh7J+jYAbNwID2Oc8bYKoiaAtr6LG0a7N9FYcqx+5TEe7Zpvqa6ArGCqydXTU05PtRLGwz23bsfB9TuBotEYao2rUUXB0nhNk4JnXOFlHgKVix9Vsm36MUdcFYqiYUi1UQm3nwn/CxpmLIkhz5v8g7HB06PYIzil55TiJzIb86UkPoZkFqqAh0Ijdl9Q7JbqHioBwjweiII46Z4nicfF7lcidLmSK/BAv8vLJfEiDBgaa63pMSphHgD4a2+5TeJpX6kZVTy01gFdGMQgqz7/Ib7BBsnkRNlQtXH9HGoojhZYC6DF2eq5wa5jAVh5nHQThF+qYdbarvQ1zk=;2e7Nw5MkIVupEElH3Zs5pA=="
+secured: "8GGIByOHgQ249k88K7r/uVZwQG6UqaH20W3iW2jb9p0p9t+qHmHkUdDNKuaXBRz/iy+nAyUY3DFdjc+waJ1uHuztvGpVfj9x0r5O8o2nqv+tJ6peuedm0WmUfkorzV7mth1EIYTZnzaam3kSsVUIrWKf78i7kxTVzbal+cefA66arQLntnIjtxHBI61ERlQqBsAiB6/IwygTuZwAL/yHlQGQPk5yku2UIux10M4ixi2aWzJJm+poseA+c6cLqbcsjPIUpQx+uBF/lYu2oyjwHeObC78VXABcCvScDAbrAtmoe87rdhax0lnoJCjBGktMROMj4FctTMRHAs2vG8C/v/Ed9S2djaBNOImw+BSa8iI=;KCmdeI2D/YTz7y8NzDjfWw=="
 ---
 

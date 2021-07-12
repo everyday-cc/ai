@@ -3,10 +3,10 @@ category: news
 title: "NetApp acquires Data Mechanics to accelerate spot roadmap and optimize data analytics and machine learning workloads in the cloud"
 excerpt: "NetApp® (NASDAQ: NTAP), a global, cloud-led, data-centric software company, today announced that it has acquired Data Mechanics, a managed platform provider for big data processing and cloud analytics with offices in Paris,"
 publishedDateTime: 2021-06-29T13:19:00Z
-originalUrl: "https://www.zawya.com/mena/en/press-releases/story/NetApp__acquires_Data_Mechanics8239to_accelerate_spot_roadmap_and_optimize_data_analytics_and_machine_learning_workloads_in_the_cloudnbsp-ZAWYA20210629131953/"
-webUrl: "https://www.zawya.com/mena/en/press-releases/story/NetApp__acquires_Data_Mechanics8239to_accelerate_spot_roadmap_and_optimize_data_analytics_and_machine_learning_workloads_in_the_cloudnbsp-ZAWYA20210629131953/"
-ampWebUrl: "https://www.zawya.com/mena/en/story/amp/ZAWYA20210629131953/"
-cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/ZAWYA20210629131953/"
+originalUrl: "https://www.zawya.com/saudi-arabia/en/press-releases/story/NetApp__acquires_Data_Mechanics8239to_accelerate_spot_roadmap_and_optimize_data_analytics_and_machine_learning_workloads_in_the_cloudnbsp-ZAWYA20210629131953/"
+webUrl: "https://www.zawya.com/saudi-arabia/en/press-releases/story/NetApp__acquires_Data_Mechanics8239to_accelerate_spot_roadmap_and_optimize_data_analytics_and_machine_learning_workloads_in_the_cloudnbsp-ZAWYA20210629131953/"
+ampWebUrl: "https://www.zawya.com/saudi-arabia/en/story/amp/ZAWYA20210629131953/"
+cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/saudi-arabia/en/story/amp/ZAWYA20210629131953/"
 type: article
 
 provider:
@@ -24,6 +24,6 @@ images:
     height: 615
     isCached: true
 
-secured: "FX2akLnzB4oIvmq85652vfxKHZ0Io55hfg6Os65IkZ9KuaRH7gpRgmQBxbRzcpA+y/zjIMb/Vwb5hd8eC9j78xPPOG4sVEeM2iVSIX4HqvxZ4DU4HrbCpHkNtSUjKcLdFgvNPfRgqYNYUyRiBh2ANq5OnrG8R+EOlp91qu+faEzvNbTwN5QoXzOGhJw9mC2p8ZrgaAvif1ni+HDUaD23l5v8RiEPixaEosyq65o7WA9oxVDoQFhFXvP0TjJLTn0CMEsB3A76B8QB2UIxG7nD5dgCP1/H4RI/JmjhIAAoLZNyAExH57DOEvrQqyfbggW57UE0P9eUg1MThzNx0MZVUG7sbHaHFLgEp+tHKN1Zh/swxnm/6KCZ9SWs6cXJh8z0/ybQEr6W5hnLsXzxp4XcDPNrDr2P7usI3dTbEU6SkPQygoNgiVl5QD0q+s1A57pzIERLLDq1OAyZI291YW8mUsV66cte/BAhXMIXx0/AeoUSRX+HS1U/JH1FtfkfwTEy0ZLLdoyZLq4mBxRWrC5Reg==;YHO6ogRm8NBbJ/wmXG4qQw=="
+secured: "dzUeAVUmXYNfjVD+opmGBLQSzuFcjpsFpvzgWq5nrWAVyUXa9cHWR3Gz6vkdu5WifULEphXK4jS/Oc4Wn5Jd38pQa0Hn/KIDrsoljq0JfxXMobTwOv/BLRV8F/avIjEqDk+oGUl6aAaJIUvrPWUFUcjMpmQwvoFDAoFXsJup5xG7Q8gJ/a4tjkbToQG2Nl+EMWowu48/gjZTY7QZ6F9sg+C2wWnvrOXIzRGKLzqDoo6jBhVyRNUiIIgiR8UBX/wOtMtphTwnrIgbK/qQHOVs/gF2XKq3z5Eq1Ahnj2963THXxb2GU6X3Su4aUEzjYaoCn1CIZlGkuYoSE4wYzQ/U8Vcu3L5JBQ3a4AkA6W7iusM=;QeiIsZke1/jFjexmFo3ldw=="
 ---
 

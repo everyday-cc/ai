@@ -1,30 +1,46 @@
 ---
 category: news
 title: "D2iQ Now Available in the Microsoft Azure Marketplace"
-excerpt: "D2iQ, a leading independent Kubernetes platform, today announced the availability of the D2iQ Kubernetes Platform (DKP), including"
-publishedDateTime: 2021-07-12T13:03:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/d2iq-now-available-in-the-microsoft-azure-marketplace-301331501.html"
-webUrl: "https://www.prnewswire.com/news-releases/d2iq-now-available-in-the-microsoft-azure-marketplace-301331501.html"
+excerpt: "D2iQ, a leading independent Kubernetes platform, today announced the availability of the D2iQ Kubernetes Platform (DKP), including D2iQ Kommander, D2iQ Konvoy, and D2iQ Kaptain, in the Microsoft Azure Marketplace,"
+publishedDateTime: 2021-07-12T13:07:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/2021/07/12/9406732.htm"
+webUrl: "https://www.tmcnet.com/usubmit/2021/07/12/9406732.htm"
 type: article
 quality: 69
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - Microsoft AI
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/1156495/D2IQ_Logo.jpg?p=facebook"
-    width: 2161
-    height: 1130
+  - url: "https://mma.prnewswire.com/media/1156495/D2IQ_Logo.jpg"
+    width: 400
+    height: 400
     isCached: true
 
 related:
+  - title: "CIBC chooses Microsoft Azure as its primary cloud platform"
+    excerpt: "Microsoft Azure technology will also continue to offer scalable computing power for CIBC’s enterprise data lake and its artificial intelligence (AI)/machine learning (ML) platform to help it provide innovative client solutions. “Leveraging cutting-edge ..."
+    publishedDateTime: 2021-07-12T16:56:00Z
+    webUrl: "https://www.itbusiness.ca/news/cibc-chooses-microsoft-azure-as-its-primary-cloud-platform/118826"
+    ampWebUrl: "https://www.itbusiness.ca/news/cibc-chooses-microsoft-azure-as-its-primary-cloud-platform/118826?amp=1"
+    cdnAmpWebUrl: "https://www-itbusiness-ca.cdn.ampproject.org/c/s/www.itbusiness.ca/news/cibc-chooses-microsoft-azure-as-its-primary-cloud-platform/118826?amp=1"
+    type: article
+    provider:
+      name: IT Business
+      domain: itbusiness.ca
+    quality: 74
+    images:
+      - url: "https://i.itbusiness.ca/wp-content/uploads/2021/07/GettyImages-1254895286-620x250.jpg"
+        width: 620
+        height: 250
+        isCached: true
   - title: "Microsoft Announces the General Availability of Azure Arc-Enabled SQL"
     excerpt: "Microsoft announced the general availability as per the end of July of Azure Arc-enabled SQL, which extends the Azure SQL instances to be hosted on an edge data center or in a multi-cloud environment."
     publishedDateTime: 2021-07-09T11:26:00Z
@@ -64,6 +80,15 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Microsoft (MSFT) Azure Cloud Leveraged by Canada-Based CIBC"
+    excerpt: "Microsoft’s MSFT Azure cloud platform is being leveraged by Canadian Imperial Bank of Commerce (“CIBC”) to revamp its business operations, boost operational efficiency and enhance client experiences."
+    publishedDateTime: 2021-07-12T14:40:00Z
+    webUrl: "https://www.nasdaq.com/articles/microsoft-msft-azure-cloud-leveraged-by-canada-based-cibc-2021-07-12"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 64
   - title: "Microsoft Launches Free Machine Learning Course For Beginners"
     excerpt: "Microsoft has launched a free MIT-approved learning course titled “Machine Learning For Beginners” to teach students the basics of machine learning. The course duration is 12 weeks. Azure Cloud advocates and Microsoft student ambassador authors,"
     publishedDateTime: 2021-07-08T12:30:00Z
@@ -101,20 +126,24 @@ related:
       name: Finextra
       domain: finextra.com
     quality: 34
-  - title: "Qlik Recognized as a Finalist of 2021 Microsoft Analytics Partner of the Year Award"
-    excerpt: "Qlik ® today announced it has been named a finalist of the 2021 Microsoft Analytics Partner of the Year Award. The company was honored among a global field of top Microsoft partners for demonstrating excellence in innovation and implementation of customer solutions based on Microsoft technology."
-    publishedDateTime: 2021-07-08T19:02:00Z
-    webUrl: "https://apnews.com/press-release/globe-newswire/technology-5f346a5576c5d4088d572d5c11cfe4ef"
+  - title: "Blue Prism & Lateetud, Inc. recognized as finalists of the 2021 Microsoft AI Partner of the Year"
+    excerpt: "LONDON and AUSTIN, Texas and WASHINGTON, July 8, 2021 /PRNewswire/ -- Blue Prism® and Lateetud today announced that their joint solution has been named a finalist for the Artificial Intelligence 2021 Microsoft Partner of the Year Award."
+    publishedDateTime: 2021-07-08T14:05:00Z
+    webUrl: "https://www.morningstar.com/news/pr-newswire/20210708da36675/blue-prism-lateetud-inc-recognized-as-finalists-of-the-2021-microsoft-ai-partner-of-the-year"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 33
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
+      name: Morningstar, Inc.
+      domain: morningstar.com
+    quality: 21
+  - title: "Blue Prism & Lateetud, Inc. recognized as finalists of the 2021 Microsoft AI Partner of the Year"
+    excerpt: "LONDON and AUSTIN, Texas and WASHINGTON, July 8, 2021 /PRNewswire/ -- Blue Prism® and Lateetud today announced that their joint solution has been named a finalist for the Artificial Intelligence"
+    publishedDateTime: 2021-07-08T19:05:00Z
+    webUrl: "https://tylerpaper.com/news/texas/blue-prism-lateetud-inc-recognized-as-finalists-of-the-2021-microsoft-ai-partner-of-the/article_0497dbe3-6656-5888-b541-2e776a6521ce.html"
+    type: article
+    provider:
+      name: Tyler Morning Telegraph
+      domain: tylerpaper.com
+    quality: 21
   - title: "Insight Wins 2021 Microsoft Worldwide Partner of the Year Awards for Azure Migration and Solution Assessments"
     excerpt: "Insight Enterprises (NASDAQ:NSIT), the global provider of Insight Intelligent Technology Solutions™ for organizations of all sizes, today announced it has won two 2021 Microsoft ( News - Alert) Worldwide Partner of the Year Awards as Migration to Azure Partner of the Year and Solution Assessments Partner of the Year."
     publishedDateTime: 2021-07-09T16:07:00Z
@@ -134,6 +163,6 @@ related:
       domain: tmcnet.com
     quality: 14
 
-secured: "j9Agf8eEJFr8K08UksdnLIzcI2vf2tDlDpEt/Gc+vQc7+XCwWje1uSPm4+SBTYpOC3IgzT45PvG4wc38KfdbODZk8ZXsfOanLEhmDB47IyKf/FuTP/gkbv/px+h1mrqvLvKaHBIK+LmgSo7VnROGO61LG5pGlLBBqByjrJ+Fxe6ffNQw39ofUgqqjz4Ap8Xi/ShmpeAWnyMSfFyVn7GWRB6wQ7LA1JivbzPOAOOUcrVN1yYrtJ5htHCi3O2F4F9Kp97XBo7ZJ6UcY7yWkPsYEvuffn3JJImmdhLaud7FdF8DBaiQhQbpT/WLxAkL9g5R84y4Xz+lzbz1usnsNyi2yK3omX5JX6aLpfsup/PG5lmNC7qEY1KFJ0wqyJ+h2Uh+pYO5pGujDqZj+kg7Lb4/bzZpwLRKc0mDLkZewj9aU7iXqGVSmHzmyKlmYdqtPwla0aRnOzOk+9/LZfFnN/WWcyR6Vm2z6MfCcUTFP16jMcTjKgO46CvFuJ4zYvdeZVS2k0FKxGStDiIybXNp7kI/qQ==;1OJy9/f3cDbrxEdFVZx4+Q=="
+secured: "AtU2jfDx60ta/T33qvzn90/mx16cX502C8ghsd8PS9BnMaeDHiU1YxGTIpcnO5F5zF48D9qo+AnrlTmM/bYRpWRqBTeO5BFrfTMqa/zQErvJVZGWZLcDCHP28HYMF/Wev+nKQ/wJDSTJzcbO4Jdd/NAhCBawAZc3hZQmtGfBfgWPbpOhys68xcLHa/GbbKKbf0XaXQ1TAsFf1S8WgqnsG8ptF7U8KVocQPBHGBWUn51CKbpseCqPNBCDjTltz8VU2KEUdsCr94b30gX+BILebmMtYmnLhvnGfKz3V5LUZQD16GtNctcyd8F1WaDDX7m7kdi4e3+mWiJETHEoFrTWYvYeqEGLgQ8UvNgiPxAJ1ms=;dUTChsvbLwKhK2qOWvLJSA=="
 ---
 

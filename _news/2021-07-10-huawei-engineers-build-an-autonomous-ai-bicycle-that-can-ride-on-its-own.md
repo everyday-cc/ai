@@ -40,6 +40,22 @@ related:
         width: 1004
         height: 563
         isCached: true
+  - title: "A Future of Self-Driving Cars"
+    excerpt: "When it comes to self-driving cars, the future is now! Recently, Halo launched one of the first commercial driverless car services in the United States, and it will begin to serve customers later this year."
+    publishedDateTime: 2021-07-12T14:36:00Z
+    webUrl: "https://www.tmj4.com/shows/the-morning-blend/a-future-of-self-driving-cars"
+    ampWebUrl: "https://www.tmj4.com/shows/the-morning-blend/a-future-of-self-driving-cars?_amp=true"
+    cdnAmpWebUrl: "https://www-tmj4-com.cdn.ampproject.org/c/s/www.tmj4.com/shows/the-morning-blend/a-future-of-self-driving-cars?_amp=true"
+    type: article
+    provider:
+      name: TMJ4
+      domain: tmj4.com
+    quality: 44
+    images:
+      - url: "https://x-default-stgec.uplynk.com/ausw/slices/cb2/44c3f81cadf84cf5a6f4e6d100388208/cb23917623f44a1e8c1101f6efc1dcf8/poster_76c72a0c85f8471185bad8074f629a85.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "BUi/3ASqU1QswACOtzEmY8tq6sJP9r+DhC6Xif92FH2XLD0GkngmJA4StAG3KD9yiTT+CUbO1V9UCREUROQoGhubOcXVW9LYSeySPZwS2X/Z1An2EXFByDyCZu94FzQHMfF0N6sZSk8hGRNeZTFG00j+9YtQKKwDplP4sr0DEUg1d/hjLVKc4FV+AyjOVTryChRl6ZN1D8Z/mTSj0dCzNk4OX7jA8EooFIhag9RqEcBHmiocOm4Kk6jhKFpzDTBX4QlvLonzDquwpWtqN5uPblWJ5Ol0dDmFyYBrT2QOsjUsjJrj7nYkGttMlCOkCj+8EcFzDfurVW2RdEPrExDukx1hKw09h/K78/Q6t5W9/tUA0lt+Gr5gBRJemoXQx2azZuGjHEfaDmyvepOjMMrLRi6Zxs543S1+0ONeMY+/xkm3tY8h6bNf40YTxoXgZeflw6V7u5rAAXR+mhoXWRbN0MNA+5LegPrSWb9gEQxfM8h8BLhc/ctxXsMU+rIYjlNLj1kyL2aKX9cMSCUb03qmjQ==;TQGESRHl4hO+BNu89yoAjQ=="
 ---

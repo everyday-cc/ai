@@ -2,6 +2,189 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2021-06-30-lip-reading-by-ai-self-driving-cars-is-either-alarming-or-ingenious.md",
+      "title": "Lip-Reading By AI Self-Driving Cars Is Either Alarming Or Ingenious",
+      "excerpt": "Advances in AI have enabled new apps for doing lip-reading, which could be a feature included into self-driving cars, alarmingly so or perhaps ingeniously.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/lanceeliot/2021/06/30/lip-reading-by-ai-self-driving-cars-is-either-alarming-or-ingenious/",
+      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2021/06/30/lip-reading-by-ai-self-driving-cars-is-either-alarming-or-ingenious/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 141,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F605c07cb6c32656bba197566%2F0x0.jpg%3FcropX1%3D29%26cropX2%3D2454%26cropY1%3D168%26cropY2%3D1532",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2021/06/30/lip-reading-by-ai-self-driving-cars-is-either-alarming-or-ingenious/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/06/30/lip-reading-by-ai-self-driving-cars-is-either-alarming-or-ingenious/amp/",
+      "publishedDateTime": "2021-06-30T08:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2021-06-30-att-to-run-its-mobility-network-on-microsofts-azure-for-operators-cloud-delivering-cost-efficient-5g-services-at-scale.md",
+      "title": "AT&T to run its mobility network on Microsoft's Azure for Operators cloud, delivering cost-efficient 5G services at scale",
+      "excerpt": "AT&T will move its 5G mobile network to the Microsoft cloud. This strategic alliance provides a path for all of AT&T's mobile network traffic to be managed using Microsoft Azure technologies. The companies will start with AT&T's 5G core,",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/-att-run-its-mobility-network-microsofts-azure-operators-/2021/06/30/9401145.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-att-run-its-mobility-network-microsofts-azure-operators-/2021/06/30/9401145.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1554604/ATT_mobility_network_Microsoft_Azure.jpg",
+          "width": 400,
+          "height": 267,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-30T07:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-30-matterport-and-facebook-ai-research-collaborate-to-release-the-worlds-largest-dataset-of-3d-spaces-for-academic-research.md",
+      "title": "Matterport and Facebook AI Research Collaborate to Release the World's Largest Dataset of 3D Spaces for Academic Research",
+      "excerpt": "Matterport, the spatial data company leading the digital transformation of the built world, which has entered into a definitive agreement to enter into a business combination with Gores Holdings VI, today announced a collaboration with Facebook AI Research through which it will make the largest-ever dataset of 3 D indoor spaces available exclusively",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/press-release/matterport-and-facebook-ai-research-collaborate-to-release-the-worlds-largest-dataset",
+      "originalUrl": "https://www.nasdaq.com/press-release/matterport-and-facebook-ai-research-collaborate-to-release-the-worlds-largest-dataset",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-30T07:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-30-us-agencies-must-track-which-facial-recognition-systems-they-use-report-says.md",
+      "title": "US agencies must track which facial recognition systems they use, report says",
+      "excerpt": "Several federal agencies don't know which systems their employees use, according to the Government Accountability Office.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/tech/services-and-software/us-agencies-must-track-which-facial-recognition-systems-they-use-report-says/",
+      "originalUrl": "https://www.cnet.com/tech/services-and-software/us-agencies-must-track-which-facial-recognition-systems-they-use-report-says/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cnet.com/a/img/gwmoAi0S4eDXJo6Rbg_tTnsJSgc=/1200x630/2020/05/01/bff6e427-0240-4ffd-bfbb-40db6bab6b46/security-facial-recognition-contact-tracing.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/us-agencies-must-track-which-facial-recognition-systems-they-use-report-says/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/us-agencies-must-track-which-facial-recognition-systems-they-use-report-says/",
+      "publishedDateTime": "2021-06-30T07:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
       "path": "_news/2021-06-30-parrot-anafi-ai-is-a-4g-drone-with-striking-style-and-3d-vision.md",
       "title": "Parrot Anafi Ai is a 4G drone with striking style and 3D vision",
       "excerpt": "Parrot has a new drone, but the French company would really rather you think of the new Anafi Ai as a 4G-connected flying robot. Tapping cellular data for better, broader range, and a new 3D",
@@ -260,40 +443,6 @@
       ]
     },
     {
-      "path": "_news/2021-06-30-crowdstrike-wins-2021-amazon-web-services-global-public-sector-partner-and-canada-aws-partner-awards.md",
-      "title": "CrowdStrike Wins 2021 Amazon Web Services Global Public Sector Partner and Canada AWS Partner Awards",
-      "excerpt": "CrowdStrike, a leader in cloud-delivered endpoint and workload protection, today announced it has been named the winner of two key Amazon Web Services ( News - Alert) (AWS) partner-focused awards - the 2021 AWS Global Public Sector Partner Award for best cybersecurity solution and 2021 Canada AWS Partner Award as the ISV Partner of the Year.",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/2021/06/30/9400745.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/2021/06/30/9400745.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-30T05:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-06-30-16-smart-marketing-approaches-to-build-brand-recognition.md",
       "title": "16 Smart Marketing Approaches To Build Brand Recognition",
       "excerpt": "With so many channels available to reach potential customers these days, it can be challenging to figure out the best way to build brand recognition.",
@@ -344,6 +493,58 @@
         "Natural Language Processing",
         "AI",
         "AI in Marketing"
+      ]
+    },
+    {
+      "path": "_news/2021-06-30-crowdstrike-wins-2021-amazon-web-services-global-public-sector-partner-and-canada-aws-partner-awards.md",
+      "title": "CrowdStrike Wins 2021 Amazon Web Services Global Public Sector Partner and Canada AWS Partner Awards",
+      "excerpt": "CrowdStrike, a leader in cloud-delivered endpoint and workload protection, today announced it has been named the winner of two key Amazon Web Services",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/crowdstrike-wins-2021-amazon-web-services-global-public-sector-partner-and-canada-aws-partner-awards-2021-06-30",
+      "originalUrl": "https://www.marketwatch.com/press-release/crowdstrike-wins-2021-amazon-web-services-global-public-sector-partner-and-canada-aws-partner-awards-2021-06-30",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-30T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
       ]
     },
     {
@@ -1022,194 +1223,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-30-techman-robot-to-provide-free-ai-courses-in-southeast-asia.md",
-      "title": "Techman Robot to Provide Free AI Courses in Southeast Asia",
-      "excerpt": "Artificial intelligence, AI is undoubtedly the key technology here. That is why the SEA (Southeast Asia) Taiwan AI College is turning the AI manufacturing experiences from leading ICT companies, Techman Robot,",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/techman-robot-to-provide-free-ai-courses-in-southeast-asia-1030565050",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/techman-robot-to-provide-free-ai-courses-in-southeast-asia-1030565050",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1552574/Techman_Robot_to_provide_free_AI_course_in_Southeast_Asia.jpg",
-          "width": 400,
-          "height": 257,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-29T20:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-30-ai-vs-skin-cancer.md",
-      "title": "AI vs. skin cancer",
-      "excerpt": "Early detection is key to surviving melanoma, a type of malignant tumor responsible for more than 70% of skin-cancer-related deaths worldwide, but “suspicious pigmented skin lesions” (SPLs) are so common it’s impractical for doctors to check them all out.",
-      "sourceUrl": null,
-      "webUrl": "https://www.technologyreview.com/2021/06/29/1025692/ai-vs-skin-cancer/",
-      "originalUrl": "https://www.technologyreview.com/2021/06/29/1025692/ai-vs-skin-cancer/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://wp.technologyreview.com/wp-content/uploads/2021/06/automated-melanoma-detection-small2.gif?w=800",
-          "width": 800,
-          "height": 532,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.technologyreview.com/2021/06/29/1025692/ai-vs-skin-cancer/amp/",
-      "cdnAmpWebUrl": "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2021/06/29/1025692/ai-vs-skin-cancer/amp/",
-      "publishedDateTime": "2021-06-29T19:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MIT Technology Review",
-        "domain": "technologyreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-30-vietnamese-e-wallet-momo-picks-up-local-ai-startup-in-first-acquisition-deal.md",
-      "title": "Vietnamese e-wallet MoMo picks up local AI startup in first acquisition deal",
-      "excerpt": "Vietnam’s top payment startup MoMo has made its first acquisition with the purchase of local AI startup Pique in a push to better capitalize the data of its 25 million registered users. The company, which is backed by global investors such as Warburg Pincus and Goodwater Capital,",
-      "sourceUrl": null,
-      "webUrl": "https://www.techinasia.com/vietnamese-e-wallet-momo-makes-first-acquisition-with-purchase-of-local-ai-startup-pique",
-      "originalUrl": "https://www.techinasia.com/vietnamese-e-wallet-momo-makes-first-acquisition-with-purchase-of-local-ai-startup-pique",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-29T19:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Techinasia",
-        "domain": "techinasia.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techinasia.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-30-the-uneasy-alliance-between-business-leaders-and-artificial-intelligence.md",
-      "title": "The Uneasy Alliance Between Business Leaders And Artificial Intelligence",
-      "excerpt": "AI is seen by many inside and outside the corporate world as a mysterious, dark art that only data scientists and algorithm developers can love.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/joemckendrick/2021/06/29/the-uneasy-alliance-between-business-leaders-and-artificial-intelligence/",
-      "originalUrl": "https://www.forbes.com/sites/joemckendrick/2021/06/29/the-uneasy-alliance-between-business-leaders-and-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60dbcc890629828a88a61bcb%2F0x0.jpg",
-          "width": 1200,
-          "height": 799,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/joemckendrick/2021/06/29/the-uneasy-alliance-between-business-leaders-and-artificial-intelligence/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2021/06/29/the-uneasy-alliance-between-business-leaders-and-artificial-intelligence/amp/",
-      "publishedDateTime": "2021-06-29T18:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
       ]
     }
   ],

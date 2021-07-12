@@ -2,6 +2,49 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2021-05-06-understanding-self-supervised-learning-in-machine-learning.md",
+      "title": "Understanding Self-Supervised Learning in Machine Learning",
+      "excerpt": "Teaching machines how to learn is the basis of self-supervised learning. Source: iStock/Design Circle Self-supervised learning (SSL) is gaining a larger foothold in the world of machine learning (ML).",
+      "sourceUrl": null,
+      "webUrl": "https://www.techopedia.com/understanding-self-supervised-learning-in-machine-learning/2/34480",
+      "originalUrl": "https://www.techopedia.com/understanding-self-supervised-learning-in-machine-learning/2/34480",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "http://images.techopedia.com/images/uploads/self-supervised-learning.jpg",
+          "width": 800,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-05T17:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Techopedia",
+        "domain": "techopedia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-06-machine-learning-crash-course-from-google.md",
       "title": "Machine Learning Crash Course From Google",
       "excerpt": "If you’ve yet to climb the learning curve, you might be interested in a new free class from Google using TensorFlow. Of course, we’ve covered tutorials for TensorFlow before, but this is ...",

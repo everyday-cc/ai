@@ -40,22 +40,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "AI tool measures fat around the heart to predict a patient's risk of diabetes"
-    excerpt: "A team led by researchers from Queen Mary University of London has developed a new artificial intelligence (AI) tool that is able to automatically measure the amount of fat around the heart from MRI scan images."
-    publishedDateTime: 2021-07-08T00:35:00Z
-    webUrl: "https://www.news-medical.net/news/20210707/AI-tool-measures-fat-around-the-heart-to-predict-a-patients-risk-of-diabetes.aspx"
-    ampWebUrl: "https://www.news-medical.net/amp/news/20210707/AI-tool-measures-fat-around-the-heart-to-predict-a-patients-risk-of-diabetes.aspx"
-    cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20210707/AI-tool-measures-fat-around-the-heart-to-predict-a-patients-risk-of-diabetes.aspx"
-    type: article
-    provider:
-      name: News Medical
-      domain: news-medical.net
-    quality: 54
-    images:
-      - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2014/7/Insulin-620x480.jpg"
-        width: 620
-        height: 480
-        isCached: true
   - title: "AI predicts diabetes risk by measuring fat around the heart"
     excerpt: "A team led by researchers from Queen Mary University of London has developed a new artificial intelligence (AI) tool that is able to automatically measure the amount of fat around the heart from MRI scan images."
     publishedDateTime: 2021-07-10T15:00:00Z
@@ -66,6 +50,6 @@ related:
       domain: sciencedaily.com
     quality: 47
 
-secured: "NIaRUMKXYP6jDvPmu16NVoXpL1P2DHer3cF2bdLmoR1IG/lqqeuW9nxH6YliEEdCBjxMnJLYkrhrPLsNUJPO73ZgWl97zZIk7528B7JuqwaMc1Mf9TjhTHo7m4KDcmUohlmCGKJ7VAlVbkflHnSNcFcysAFjz/WIGrNmKoUYKwFhBkcLeH/VfrgFsfvLkou4VA4aCzUsIQqBkBKfIDDYECdYjaKVaRhBoiXnzDNn0otp5yzJrdMluEHwdbsHQNc6xU/PJDan2w6v3JRRVS1JnLiYI264ZQQcm7xoBjf8eNnFTosfWQeDrxnLMYv48Gjl1F1xzKn6w2Yy+gqIHDKm93vaucas0tFrYHS1A1lZFXw=;YeVQ9OCD/Z2tKszetMQqdQ=="
+secured: "/f34vsqxqNSIvc7+5FNrEdm7sh5/I0BS4Tl3WdxVwK2iWbx368qoODYltp36NdP4is+pu1Xt/10WBtz0yB1SX6lHlWHjLCwHj2eyqmDDOE9B6gZSoWobTWp4Ks8Wiy4Qx9L8s6XvQY4oOv+xm4YgQX079FJHG8/pKxoDMRUxMkqZAWOdPYr8a2Eq28arnTcr5fE0dJqeIW7o/7rz6roxK4mPBC18jWhgfwwmbvGOCaj99K7+lA8tlUo2RZTFI9kWSX5KleD8NsofjrZCxoZ/3sP13Cf0/PZHkLMjy4OO8Op9qfJxph9CVQwHPxDJB6T8WkKJ6N/Q+6Hzd2tGV3zY65TNG+okJQkreMi3jOn3WMyb9r6z+FPSZOq1J/37zzggUHGieCnsvUYFz8jFely0rRIj5xY5ff/t47li0KiUaj/tzrXxSYzivKB9ufW472fvUb1Fg0/q+CgzLky+zzkDNxPjbnWFkZMk21PyxOtvGcftTHun5FO9Gs1aC647wl/x96zg2dKnx0uKumm7WztbfQ==;1ja/TndAY2XHL8amgluikQ=="
 ---
 

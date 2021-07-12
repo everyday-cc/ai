@@ -155,6 +155,22 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Watch Tesla 'Full Self-Driving' beta 9 in action after Musk warns drivers to stay 'paranoid'"
+    excerpt: "Video of the software's latest update in action shows it's very much still in beta. This weekend, Tesla owners' long-awaited update to the \"Full Self-Driving\" system landed, referred to by the company as beta 9."
+    publishedDateTime: 2021-07-12T16:15:00Z
+    webUrl: "https://www.cnet.com/roadshow/news/tesla-full-self-driving-beta-9-elon-musk-paranoid/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/tesla-full-self-driving-beta-9-elon-musk-paranoid/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/tesla-full-self-driving-beta-9-elon-musk-paranoid/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 78
+    images:
+      - url: "https://www.cnet.com/a/img/nMvuev24_7LHftSxIEiOh_ZvANo=/2020/10/22/5c6fc05c-509c-4f29-a9bd-4cad1b4aded2/ogi-autopilot.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Tesla Releases Full Self-Driving Update, Tells Users ‘It May Do the Wrong Thing at the Worst Time’"
     excerpt: "Years after its announced debut, Tesla has finally released beta version 9 of its Full Self-Driving system, albeit warning drivers that the software “may do the wrong thing at the worst time” and urging them not to become complacent at the wheel."
     publishedDateTime: 2021-07-12T01:32:00Z
@@ -267,6 +283,38 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Tesla full self-driving software 'may do the wrong thing at the worst time' company warns"
+    excerpt: "The company has been at pains to stress to drivers that they must remain attentive and behind the wheel even when in autopilot."
+    publishedDateTime: 2021-07-12T16:22:00Z
+    webUrl: "https://news.sky.com/story/tesla-full-self-driving-software-may-do-the-wrong-thing-at-the-worst-time-company-warns-12354412"
+    ampWebUrl: "https://news.sky.com/story/amp/tesla-full-self-driving-software-may-do-the-wrong-thing-at-the-worst-time-company-warns-12354412"
+    cdnAmpWebUrl: "https://news-sky-com.cdn.ampproject.org/c/s/news.sky.com/story/amp/tesla-full-self-driving-software-may-do-the-wrong-thing-at-the-worst-time-company-warns-12354412"
+    type: article
+    provider:
+      name: Sky
+      domain: sky.com
+    quality: 50
+    images:
+      - url: "https://e3.365dm.com/21/07/1600x900/skynews-tesla-car-logo_5445140.jpg?20210712154934"
+        width: 1600
+        height: 900
+        isCached: true
+  - title: "Tesla self-driving software update begins roll out though company says to use with caution"
+    excerpt: "Tesla owners with access to self driving technology have more options following a software update released on Saturday, reports say"
+    publishedDateTime: 2021-07-11T18:03:00Z
+    webUrl: "https://www.freep.com/story/money/2021/07/11/tesla-self-driving-gets-boost-software-update-reports-say/7930730002/"
+    ampWebUrl: "https://amp.freep.com/amp/7930730002"
+    cdnAmpWebUrl: "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/7930730002"
+    type: article
+    provider:
+      name: Detroit Free Press
+      domain: freep.com
+    quality: 49
+    images:
+      - url: "https://www.gannett-cdn.com/-mm-/48ca114c5a45a5268a80a24e4b23bd36f43a4651/c=0-0-1650-928/local/-/media/2021/07/10/USATODAY/usatsports/MotleyFool-TMOT-effc75eb-tsla-model-s.jpg?auto=webp&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Elon Musk says developing self-driving cars is proving difficult"
     excerpt: "The billionaire businessman - who is the CEO of Tesla Motors - has taken to Twitter to provide an update on the manufacturer's latest efforts, and confessed that self-driving cars are \"hard\" to make a success of."
     publishedDateTime: 2021-07-12T06:36:00Z
@@ -308,6 +356,20 @@ related:
       name: Phone Arena
       domain: phonearena.com
     quality: 39
+  - title: "Tesla’s Full Self-Driving Beta v9 Released, Here’s How It Looks"
+    excerpt: "Tesla's Full Self-Driving Beta v9 software has just been released for compatible vehicles. Here are all the details on this, including how it looks."
+    publishedDateTime: 2021-07-12T17:11:00Z
+    webUrl: "https://www.redmondpie.com/teslas-full-self-driving-beta-v9-released-heres-how-it-looks/"
+    type: article
+    provider:
+      name: Redmond Pie
+      domain: redmondpie.com
+    quality: 39
+    images:
+      - url: "https://cdn.redmondpie.com/wp-content/uploads/2021/01/model-s-plaid-interior.jpg"
+        width: 1200
+        height: 621
+        isCached: true
   - title: "Elon Musk Says Tesla’s ‘Mind-Blowing’ Full Self-Driving Beta v9 Will Arrive This Saturday"
     excerpt: "Elon Musk says that Tesla's 'mind blowing' Full Self-Driving beta v9 update will arrive this Saturday. Here are all the details on this."
     publishedDateTime: 2021-07-08T14:26:00Z
@@ -322,6 +384,17 @@ related:
         width: 1200
         height: 640
         isCached: true
+  - title: "Elon Musk Warns Drivers Not To Trust New “Full Self-Driving” Update"
+    excerpt: "Tesla has finally started to roll out the latest version of its “Full Self-Driving” beta, which is its long-awaited assisted driving update that gives Teslas the ability to automatically change lanes and obey traffic lights and stop signs."
+    publishedDateTime: 2021-07-12T16:58:00Z
+    webUrl: "https://futurism.com/the-byte/elon-musk-warns-drivers-full-self-driving"
+    ampWebUrl: "https://futurism.com/elon-musk-warns-drivers-full-self-driving/amp"
+    cdnAmpWebUrl: "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/elon-musk-warns-drivers-full-self-driving/amp"
+    type: article
+    provider:
+      name: Futurism
+      domain: futurism.com
+    quality: 24
   - title: "Tesla to debut 'mind-blowing' full self-driving beta this week"
     excerpt: "Tesla CEO Elon Musk has teased that some Tesla owners will be able to test out the 'mind-blowing' Full Self-Driving beta soon."
     publishedDateTime: 2021-07-09T09:04:00Z

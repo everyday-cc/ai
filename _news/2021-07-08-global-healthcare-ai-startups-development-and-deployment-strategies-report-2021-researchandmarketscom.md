@@ -7,7 +7,7 @@ originalUrl: "https://apnews.com/press-release/business-wire/e1e2076e603943459d6
 webUrl: "https://apnews.com/press-release/business-wire/e1e2076e603943459d6db2c8afbcbfbd"
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
@@ -25,33 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "Healthcare Artificial Intelligent Market Research Report with Size, Share, Value, CAGR, Outlook, Analysis, Latest Updates, Data, and News 2021-2028"
-    excerpt: "With increasing use of latest technology such as artificial intelligence, its implementation in different sectors has"
-    publishedDateTime: 2021-07-12T08:33:00Z
-    webUrl: "https://www.marketwatch.com/press-release/healthcare-artificial-intelligent-market-research-report-with-size-share-value-cagr-outlook-analysis-latest-updates-data-and-news-2021-2028-2021-07-12"
+  - title: "Toyota Will Establish New Artificial Intelligence Research and Development Company"
+    excerpt: "At a press conference today, Toyota Motor Corporation announced it will establish a new company, Toyota Research Institute Inc. (TRI), as an R&D enterprise with an initial focus on artificial intelligence and robotics."
+    publishedDateTime: 2021-07-12T17:31:00Z
+    webUrl: "https://www.infobae.com/aroundtherings/articles/2021/07/12/toyota-will-establish-new-artificial-intelligence-research-and-development-company/"
+    ampWebUrl: "https://www.infobae.com/aroundtherings/articles/2021/07/12/toyota-will-establish-new-artificial-intelligence-research-and-development-company/?outputType=amp-type"
+    cdnAmpWebUrl: "https://www-infobae-com.cdn.ampproject.org/c/s/www.infobae.com/aroundtherings/articles/2021/07/12/toyota-will-establish-new-artificial-intelligence-research-and-development-company/?outputType=amp-type"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 31
+      name: Infobae
+      domain: infobae.com
+    quality: 51
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Worldwide Surgical Robots Industry to 2026 - Featuring Accuray Incorporated, CMR Surgical and Medtronic Among Others - ResearchAndMarkets.com"
-    excerpt: "Global Industry Trends, Share, Size, Growth, Opportunity and Forecast 2021-2026” report has been added to ResearchAndMarkets.com’s offering. The global surgical robots market exhibited strong growth during 2015-2020."
-    publishedDateTime: 2021-07-09T17:06:00Z
-    webUrl: "https://apnews.com/press-release/BusinessWire/technology-health-coronavirus-pandemic-accuray-inc-41b6d405eecb4534b37ea13f0f67a0d2"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 4
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
+      - url: "https://www.infobae.com/pf/resources/images/fallback-promo-image.png?d=704"
+        width: 512
+        height: 512
         isCached: true
 
 secured: "rGegGVqNYe3o0ykIZUNHiqud/CPS0MTB+7XIDmnUrHkJQoojxOwtGUX95NADxy2MwY0X+zZiwcmZKj9YBD+yxOq3SBnSymX4tabb/+YPUoWF+vW0buvUTh1fPRVD8CAu5fFxjL1OChhwISlS4Pvci0WK7HsmU4373ORw1eSms34Q4L7C1N3mPYSFhEtjC8WN07mdBsMA+qWeNyIM4MxxH0iPDX/dE61IB15WepUa4yzzGzAKqAIJnK7xnamsjNEtzmfDRaNmnnZmMnfOg5gJYn6/CkdGfSlTkPmb8lCQePglkeJvd7Syq2kaGhFiMcDG41rU6BrsBIF/21k6zAfd0FhWYzdWy/UsjNhb/HPuZJk=;LKrOaiyuPnEl2nx4+xtRew=="

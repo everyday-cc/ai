@@ -2,6 +2,223 @@
   "page": 45,
   "value": [
     {
+      "path": "_news/2021-06-08-advanced-prosthetic-hands-are-closer-than-ever-to-the-real-thing.md",
+      "title": "Advanced Prosthetic Hands Are Closer Than Ever to the Real Thing",
+      "excerpt": "Image source: Guy Hotson) Earlier this year, researchers in Baltimore demonstrated a mind-controlled prosthetic hand. The robotic hand was wired to an electrode array containing 128 sensors, about the size of a credit card, which was attached to the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.designnews.com/medical/advanced-prosthetic-hands-are-closer-ever-real-thing",
+      "originalUrl": "https://www.designnews.com/medical/advanced-prosthetic-hands-are-closer-ever-real-thing",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.designnews.com/sites/designnews.com/files/HandOnBrain.png",
+          "width": 1318,
+          "height": 712,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-07T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Design News",
+        "domain": "designnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-08-meet-misty-ii-the-robot-as-a-platform-not-a-tool.md",
+      "title": "Meet Misty II: The Robot As a Platform, Not a Tool",
+      "excerpt": "At its core, Misty II is driven by a deep learning processor capable of a variety of machine learning tasks, such as facial and object recognition, distance detection, spatial mapping, and sound and touch sensing. Developers can also 3D print (or even ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.designnews.com/electronics-test/meet-misty-ii-robot-platform-not-tool",
+      "originalUrl": "https://www.designnews.com/electronics-test/meet-misty-ii-robot-platform-not-tool",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.designnews.com/sites/designnews.com/files/Design%20News/Misty%202_%20DevDeskMistyOnly.jpg",
+          "width": 6586,
+          "height": 4391,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-07T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Design News",
+        "domain": "designnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2021-06-08-the-nvidia-dgx-2-is-the-worlds-largest-gpu-and-its-made-for-ai.md",
+      "title": "The Nvidia DGX-2 Is the World's Largest GPU, and It's Made for AI",
+      "excerpt": "Now the chipmaker, known traditionally as a graphics processor company, has made a definitive statement into pivoting itself into an AI and enterprise hardware manufacturer with the announcement of the DGX-2, the “largest GPU ever created.” Prior to ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.designnews.com/electronics-test/nvidia-dgx-2-worlds-largest-gpu-and-its-made-ai",
+      "originalUrl": "https://www.designnews.com/electronics-test/nvidia-dgx-2-worlds-largest-gpu-and-its-made-ai",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.designnews.com/sites/designnews.com/files/Design%20News/NVIDIA_DGX-2_cropped_1522130618.jpg",
+          "width": 1314,
+          "height": 986,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-07T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Design News",
+        "domain": "designnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-08-using-watson-to-diagnose-skin-cancer-interview-with-ibm-computer-vision-scientist-noel-codella.md",
+      "title": "Using Watson to Diagnose Skin Cancer: Interview with IBM Computer Vision Scientist, Noel Codella",
+      "excerpt": "Thankfully, researchers at IBM have been studying how to take ... our own experimentation on using machine learning and artificial intelligence to see how well we can get this system to recognize ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.medgadget.com/2017/06/using-watson-diagnose-skin-cancer-interview-ibm-computer-vision-scientist-noel-codella.html",
+      "originalUrl": "https://www.medgadget.com/2017/06/using-watson-diagnose-skin-cancer-interview-ibm-computer-vision-scientist-noel-codella.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-07T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medgadget",
+        "domain": "medgadget.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2021-06-07-unlock-near-3x-performance-gains-with-xgboost-and-amazon-sagemaker-neo.md",
+      "title": "Unlock near 3x performance gains with XGBoost and Amazon SageMaker Neo",
+      "excerpt": "When a model gets deployed to a production environment, inference speed matters. Models with fast inference speeds require less resources to run, which translates to cost savings, and applications that consume the models’ predictions benefit from the improved performance. For example, let’s say your",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/unlock-performance-gains-with-xgboost-amazon-sagemaker-neo-and-serverless-artillery/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/unlock-performance-gains-with-xgboost-amazon-sagemaker-neo-and-serverless-artillery/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 144,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/05/26/1-2007-Arch.jpg",
+          "width": 800,
+          "height": 626,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-07T16:19:01-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-08-start-your-morning-with-ai-weiwei.md",
       "title": "Start Your Morning With Ai Weiwei",
       "excerpt": "The latest is the Chinese artist and activist Ai Weiwei, who has splashed the ceramic cups and saucers with color and gilding. The designs were inspired by the “Colored Vases” project he began in 2006.",
@@ -884,258 +1101,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-07-the-state-of-ai-decision-making.md",
-      "title": "The State Of AI Decision Making",
-      "excerpt": "Artificial intelligence (AI) is transforming the way we live and work, creating new opportunities in almost every industry and branch of government. Here is where it will go next.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/06/07/the-state-of-ai-decision-making/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/06/07/the-state-of-ai-decision-making/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 139,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ee3c90cac807a0006b5add4%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/06/07/the-state-of-ai-decision-making/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/06/07/the-state-of-ai-decision-making/amp/",
-      "publishedDateTime": "2021-06-07T04:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-06-07-3-ai-startups-revolutionizing-nlp.md",
-      "title": "3 AI startups revolutionizing NLP",
-      "excerpt": "Deep learning has yielded amazing advances in natural language processing. Tap into the latest innovations with Explosion, Huggingface, and John Snow Labs.",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/article/3621022/3-ai-startups-revolutionizing-nlp.html",
-      "originalUrl": "https://www.infoworld.com/article/3621022/3-ai-startups-revolutionizing-nlp.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2018/02/artificial_intelligence_ai_virtual_assistant_machine_learning_autonomous_automation_virtual_reality_vr_digital_mind_brain_thinkstock_892854798-100749920-large.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.infoworld.com/article/3621022/3-ai-startups-revolutionizing-nlp.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3621022/3-ai-startups-revolutionizing-nlp.amp.html",
-      "publishedDateTime": "2021-06-07T03:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2021-06-07-best-ai-based-cyber-security-tools-for-improved-safety.md",
-      "title": "Best AI-Based Cyber Security tools for Improved Safety",
-      "excerpt": "There are several tools in the market that are making use of artificial intelligence to improve cybersecurity. In this are, I’m going to mention some of the popular tools. 1. X Sophos Intercept Tool Intercept X uses deep learning neural networks which work like the human brain.",
-      "sourceUrl": null,
-      "webUrl": "https://www.technotification.com/2021/06/best-ai-based-cyber-security-tools.html",
-      "originalUrl": "https://www.technotification.com/2021/06/best-ai-based-cyber-security-tools.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 116,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.technotification.com/wp-content/uploads/2018/04/IBM-AI-security.jpg",
-          "width": 1200,
-          "height": 706,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.technotification.com/2021/06/best-ai-based-cyber-security-tools.html/amp",
-      "cdnAmpWebUrl": "https://www-technotification-com.cdn.ampproject.org/c/s/www.technotification.com/2021/06/best-ai-based-cyber-security-tools.html/amp",
-      "publishedDateTime": "2021-06-07T02:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "technotification.com",
-        "domain": "technotification.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2021-06-07-nsw-police-force-is-using-ai-to-analyse-cctv-footage.md",
-      "title": "NSW Police Force is using AI to analyse CCTV footage",
-      "excerpt": "Police Force is using artificial intelligence (AI) and machine learning to speed up investigations by automating manual tasks. The force's AI-infused platform, called Insights, gives police access to a wide array of critical information and automates many tasks such as transcribing recordings of audio interviews or poring through petabytes of CCTV footage.",
-      "sourceUrl": null,
-      "webUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/359780/nsw-police-implements-ai-and-ml-to-speed-up",
-      "originalUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/359780/nsw-police-implements-ai-and-ml-to-speed-up",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1623057900/NSW_Police_Insights_Microsoft.jpg",
-          "width": 1260,
-          "height": 710,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/359780/nsw-police-implements-ai-and-ml-to-speed-up?amp",
-      "cdnAmpWebUrl": "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/technology/artificial-intelligence-ai/359780/nsw-police-implements-ai-and-ml-to-speed-up?amp",
-      "publishedDateTime": "2021-06-07T02:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT Pro",
-        "domain": "itpro.co.uk",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/itpro.co.uk-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2021-06-07-agritech-startup-fyllo-secures-inr-3-cr-in-seed-round-from-ian.md",
-      "title": "Agritech Startup Fyllo Secures INR 3 Cr In Seed Round From IAN",
-      "excerpt": "The startup will use the capital raised to expand in new markets and towards research and development to support more crops",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/article/373822",
-      "originalUrl": "https://www.entrepreneur.com/article/373822",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/1623054985-Fyllo-FoundersSudhanshuSumit21.jpg?width=600&crop=16:9",
-          "width": 600,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.entrepreneur.com/amphtml/373822",
-      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/373822",
-      "publishedDateTime": "2021-06-07T01:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

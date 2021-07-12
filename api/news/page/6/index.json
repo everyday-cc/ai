@@ -2,6 +2,205 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2021-07-07-atos-launches-atos-computer-vision-platform-the-first-highly-scalable-end-to-end-artificial-intelligence-video-and-image-analytics-platform.md",
+      "title": "Atos launches Atos Computer Vision Platform, the first highly scalable end-to-end Artificial Intelligence video and image analytics platform",
+      "excerpt": "Atos Technology Days’ event, Atos today launches Atos Computer Vision Platform , its new highly scalable end-to-end AI video and image analytics platform. It is the most comprehensive video and image analytics solution on the market today and the only one which combines a full offering bringing together a set of pre-trained and customizable AI models,",
+      "sourceUrl": null,
+      "webUrl": "https://www.pressreleasepoint.com/atos-launches-atos-computer-vision-platform-first-highly-scalable-end-end-artificial-intelligence",
+      "originalUrl": "https://www.pressreleasepoint.com/atos-launches-atos-computer-vision-platform-first-highly-scalable-end-end-artificial-intelligence",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.pressreleasepoint.com/sites/all/modules/press_release/social-media-icons/fbpage.png",
+          "width": 256,
+          "height": 256,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-06T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KLAS Press Release",
+        "domain": "pressreleasepoint.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-07-what-you-need-to-know-about-darpa-the-pentagons-mad-science-division.md",
+      "title": "What you need to know about DARPA, the Pentagon's mad science division",
+      "excerpt": "Its earliest mind-controlled bionic arms have been serving ... They're not as widely known as their robotic counterparts, but DARPA's also funding several projects that deal with medical technology.",
+      "sourceUrl": null,
+      "webUrl": "https://www.engadget.com/2014-07-07-darpa-explainer.html",
+      "originalUrl": "https://www.engadget.com/2014-07-07-darpa-explainer.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.yimg.com/uu/api/res/1.2/4Uv12N7LaBbpQ6yGz0V49g--~B/aD01NTA7dz05NjA7YXBwaWQ9eXRhY2h5b24-/https://o.aolcdn.com/hss/storage/midas/db4bbb1293fdccc1e659620924713e40/200358751/darpa-big-dog-fullbleed.jpg",
+          "width": 960,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.engadget.com/amp/2014-07-07-darpa-explainer.html",
+      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2014-07-07-darpa-explainer.html",
+      "publishedDateTime": "2021-07-06T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-07-transforming-the-insurance-industry-with-big-data-machine-learning-and-ai.md",
+      "title": "Transforming The Insurance Industry With Big Data, Machine Learning, And AI",
+      "excerpt": "An emerging wave of “Insurtech” solutions companies are seeking to transform the business of insurance through the introduction of Big Data, Machine Learning, and AI capabilities.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/randybean/2021/07/06/transforming-the-insurance-industry-with-big-data-machine-learning-and-ai/",
+      "originalUrl": "https://www.forbes.com/sites/randybean/2021/07/06/transforming-the-insurance-industry-with-big-data-machine-learning-and-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 152,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60e4d5d325abdbff999bebbe%2F0x0.jpg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/randybean/2021/07/06/transforming-the-insurance-industry-with-big-data-machine-learning-and-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/randybean/2021/07/06/transforming-the-insurance-industry-with-big-data-machine-learning-and-ai/amp/",
+      "publishedDateTime": "2021-07-06T15:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-07-07-the-pizza-delivery-guy-will-be-a-robot-at-many-campuses-this-fall.md",
+      "title": "The Pizza Delivery Guy Will Be a Robot at Many Campuses This Fall",
+      "excerpt": "Russia’s Yandex will build the service’s rovers, as delivery companies turn to automation to cut costs in an industry boosted by the pandemic.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/grubhub-to-use-food-delivering-robots-on-college-campuses-11625591000",
+      "originalUrl": "https://www.wsj.com/articles/grubhub-to-use-food-delivering-robots-on-college-campuses-11625591000",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 189,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-364955/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/grubhub-to-use-food-delivering-robots-on-college-campuses-11625591000",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/grubhub-to-use-food-delivering-robots-on-college-campuses-11625591000",
+      "publishedDateTime": "2021-07-06T14:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2021-07-07-5-healthcare-ai-deals-made-in-2021.md",
       "title": "5 healthcare AI deals made in 2021",
       "excerpt": "Below are five of the biggest healthcare AI deals Becker's Hospital Review has reported on in 2021: Microsoft will buy speech recognition company Nuance Communications in an all-cash transaction valued at $19.",
@@ -978,186 +1177,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-06-conversational-ai-vs-chatbots-whats-the-difference.md",
-      "title": "Conversational AI Vs Chatbots: What's the Difference?",
-      "excerpt": "Both chatbots and conversational AI chatbots focus on offering the customer better assistance and helping the business reduce the cost",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/article/376480",
-      "originalUrl": "https://www.entrepreneur.com/article/376480",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/1625559744-artificial-intelligence-3382507-19205.jpg?width=600&crop=16:9",
-          "width": 600,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.entrepreneur.com/amphtml/376480",
-      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/376480",
-      "publishedDateTime": "2021-07-06T01:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-06-reply-shapes-the-future-of-autonomous-mobile-robots-with-the-power-of-microsoft-azure.md",
-      "title": "Reply Shapes the Future of Autonomous Mobile Robots with the Power of Microsoft Azure",
-      "excerpt": "The solution combines Microsoft Azure services ... Reply integrates Azure Cognitive Services, Machine Learning and DevOps as well as Power Apps and Power BI. Thanks to Azure's intelligent service ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.morningstar.com/news/business-wire/20210706005133/reply-shapes-the-future-of-autonomous-mobile-robots-with-the-power-of-microsoft-azure",
-      "originalUrl": "https://www.morningstar.com/news/business-wire/20210706005133/reply-shapes-the-future-of-autonomous-mobile-robots-with-the-power-of-microsoft-azure",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-06T00:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Morningstar%2c Inc.",
-        "domain": "morningstar.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-06-bytedance-selling-tiktok-ai-to-companies-including-in-india.md",
-      "title": "ByteDance selling TikTok AI to companies including in India",
-      "excerpt": "Beat Analytics Ibeat 1 Year HTTPS To track article's statistics China-based ByteDance which is the parent company of TikTok, has reportedly started selling the AI technology of the short video-making app to other companies,",
-      "sourceUrl": null,
-      "webUrl": "https://brandequity.economictimes.indiatimes.com/news/digital/bytedance-selling-tiktok-ai-to-companies-including-in-india/84165212",
-      "originalUrl": "https://brandequity.economictimes.indiatimes.com/news/digital/bytedance-selling-tiktok-ai-to-companies-including-in-india/84165212",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://etimg.etb2bimg.com/thumb/msid-84165212,imgsize-488272,width-800,height-434,overlay-etbrandequity/bytedance-selling-tiktok-ai-to-companies-including-in-india.jpg",
-          "width": 800,
-          "height": 434,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://brandequity.economictimes.indiatimes.com/amp/news/digital/bytedance-selling-tiktok-ai-to-companies-including-in-india/84165212",
-      "cdnAmpWebUrl": "https://brandequity-economictimes-indiatimes-com.cdn.ampproject.org/c/s/brandequity.economictimes.indiatimes.com/amp/news/digital/bytedance-selling-tiktok-ai-to-companies-including-in-india/84165212",
-      "publishedDateTime": "2021-07-06T00:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India Times",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-06-artificial-intelligence-in-healthcare-market-size-share-value-and-competitive-landscape-2021-2026.md",
-      "title": "Artificial Intelligence in Healthcare market Size, Share, Value, And Competitive Landscape 2021-2026",
-      "excerpt": "Artificial intelligence (AI) is the collection of computer programs or algorithms or software to make machines smarter",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-size-share-value-and-competitive-landscape-2021-2026-2021-07-06",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-size-share-value-and-competitive-landscape-2021-2026-2021-07-06",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-06T00:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }

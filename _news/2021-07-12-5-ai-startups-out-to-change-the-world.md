@@ -9,7 +9,7 @@ ampWebUrl: "https://www.infoworld.com/article/3624700/5-ai-startups-out-to-chang
 cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3624700/5-ai-startups-out-to-change-the-world.amp.html"
 type: article
 quality: 89
-heat: 139
+heat: 149
 published: true
 
 provider:
@@ -76,6 +76,20 @@ related:
       - url: "https://cdn.mos.cms.futurecdn.net/VKoGcvvnKZHGJZHKaB3X9F-480-80.jpeg"
         width: 480
         height: 480
+        isCached: true
+  - title: "Finance teams are now using AI to outperform peers"
+    excerpt: "Unit4 finds practical issues are holding back finance teams, with 45% of those surveyed citing difficulties in integrating AI tools with existing systems"
+    publishedDateTime: 2021-07-12T16:08:00Z
+    webUrl: "https://fintechmagazine.com/technology-and-ai/finance-teams-are-now-using-ai-outperform-peers"
+    type: article
+    provider:
+      name: fintechmagazine
+      domain: fintechmagazine.com
+    quality: 54
+    images:
+      - url: "https://fintechmagazine.com/sites/default/files/styles/ma/public/image/GettyImages-1255615171_0.jpg?itok=ebVnK-eP"
+        width: 2309
+        height: 1299
         isCached: true
   - title: "Health tech on display at the World Artificial Intelligence Conference in Shanghai"
     excerpt: "With strong support from the government, the Chinese AI health market has more than tripled in size in just three years."

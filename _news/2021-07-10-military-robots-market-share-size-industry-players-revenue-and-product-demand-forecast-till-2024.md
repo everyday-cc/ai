@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/military-robots-market-s
 webUrl: "https://www.marketwatch.com/press-release/military-robots-market-share-size-industry-players-revenue-and-product-demand-forecast-till-2024-2021-07-10"
 type: article
 quality: 55
-heat: 95
+heat: 105
 published: true
 
 provider:
@@ -70,6 +70,20 @@ related:
       name: ReportsnReports
       domain: reportsnreports.com
     quality: 14
+  - title: "Deep Neural Networks Market Trend, Growth, Size, Forecast, Key Players and Competitive Landscape Research Report by 2027"
+    excerpt: "The report talks about the production capacity, demand and supply trends, market dynamics, and impact of these and other key factors on the global Deep Neural Networks market. It also offers an extensive analysis of the competitive landscape along with an industry-wide analysis of the market share of each player along with their business profiles."
+    publishedDateTime: 2021-07-12T17:13:00Z
+    webUrl: "https://manometcurrent.com/deep-neural-networks-market-trend-growth-size-forecast-key-players-and-competitive-landscape-research-report-by-2027/"
+    type: article
+    provider:
+      name: manometcurrent.com
+      domain: manometcurrent.com
+    quality: 14
+    images:
+      - url: "https://manometcurrent.com/wp-content/uploads/2021/07/RD11-2-390x220.png"
+        width: 390
+        height: 220
+        isCached: true
 
 secured: "TLXsgEXK0HjMZjegTvXDNHcaR/QRP5Ys4IwEu3YM60nWktigZwSTiVhOlHIGgGQAaLnjPTi+LRwb3nbJsclOi8q58TlexBEqqguy62Xls7dlNI01FMIjVBXmzVTJ5u/gfq+bHchdUFxsIyF1W/+xMBiX3xQ8ovgnD1+vC+5dLwN+aTT7WDedYf14Nyns0aK3e9zB1VpL8neHn69zeMZPdgQl4JicrUKC+Vc8Qv5ZcHji4HbJ911XutZDW2UlM46n0TEwUk9pfQDRgkgAHOqwTL8cXJg2saepooZ1S9qNBSFcIGz54/9Ye+46/gqEIcjHw17m10/82eAYwwkaPusPgtTjHAtKAyT4iDfmQR/VFas=;aNsRr3K+MVgpJ9HHZNNQ6Q=="
 ---

@@ -1,26 +1,30 @@
 ---
 category: news
 title: "DDN Boosts AI Storage Leadership with EXAScaler 6 and Expanded Portfolio for Enterprise Intelligent Infrastructure"
-excerpt: "Expanding on its global leadership in artificial intelligence (AI) and multi cloud data management solutions, DDN® is strengthening its commitment to enterprise AI"
-publishedDateTime: 2021-07-01T01:58:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/ddn-boosts-ai-storage-leadership-with-exascaler-6-and-expanded-portfolio-for-enterprise-intelligent-infrastructure/article_509526cc-fe93-53a7-ace4-b0d0f70a7319.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/ddn-boosts-ai-storage-leadership-with-exascaler-6-and-expanded-portfolio-for-enterprise-intelligent-infrastructure/article_509526cc-fe93-53a7-ace4-b0d0f70a7319.html"
+excerpt: "DDN Unveils the Next Generation of EXAScaler, Simplifies the Procurement of AI Supercomputing Infrastructure by 200x1 and Expands IntelliFlash"
+publishedDateTime: 2021-07-01T02:12:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/ddn-boosts-ai-storage-leadership-with-exascaler-6-and-expanded-portfolio-for-enterprise-intelligent-infrastructure-1030569591"
+webUrl: "https://markets.businessinsider.com/news/stocks/ddn-boosts-ai-storage-leadership-with-exascaler-6-and-expanded-portfolio-for-enterprise-intelligent-infrastructure-1030569591"
 type: article
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI Hardware
   - AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/a/fc/afcd069f-109a-5e25-b5c1-2f230e1ec9d3/609a802dd1fff.image.jpg?resize=446%2C630"
-    width: 446
-    height: 630
+  - url: "https://mma.prnewswire.com/media/1191324/DDN_Logo.jpg"
+    width: 283
+    height: 400
     isCached: true
 
-secured: "LOapo5bkAK0TIuC09VXbMbeqHrY0L9jrtlYhPx9ZDSauymAxJbEhdoyL8nSbV0TeDFzcTFPsJ+ROzQvKVKGjR0fA07vr0wc1iSv0YBL2fh17KEzbsHtjpaTCubtlOtQW/++bm4GWUEKvObkwzu7AivoeV24AnYwfV9nm1f/+mDDcvqMyyOp4l54caaV7almNHBjksJB5cK6ovxqyCu4c0Wo6mX/osLMpEKjLNxaYMGqa+g7Wc95ah7PUYw/G2Jz1GEGDPxJf9fcxmSUk9oUxaNjPUOSZ5RgsoicC+SH8tqYFeZq/GTXmrKW30MyADu+COtlyYDxiCAF3dBLSFuNrE7VY8PWwZmz3VYBvXxslh4Y=;BNGVPqTqd655EXb48gArAQ=="
+secured: "nTOVCZRY/diQnDTTZ5/Thh1gRIAeUElUuGvQvUeasktOcqXM2u5RhmnDqL1vDXtjDDgolX5cOGKDJg/dehSy4aYwsQfsW96gL8JJT/94aQX/YBBv9Kyblt9VKruH6Ab8DUMzlvPELYVD7pKxZ6bD2SDTGQCE+KhohL07nqjBKLnBlzujUMFGPUOl+CFz16w0cYg56IItnaIwcrkXnhCmhxnsvoP/G5DRVB4jpnByN1ggWk9rjZseQW9X3e3JtUATkvqL7FxmATnfZWbSZ/OCMSkFHie6gMOsfgheLBbPlfo22IgOzFZUQMeZhIAfdjQCeWPfZNt/RgLLD79Y2MSPTCcz1DehGPCPhv35Q/7cxRw=;JPiUm7GMAR6v+MRFEFtfhQ=="
 ---
 

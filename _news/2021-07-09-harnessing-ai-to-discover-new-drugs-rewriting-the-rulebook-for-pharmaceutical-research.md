@@ -42,6 +42,15 @@ related:
         width: 1200
         height: 1000
         isCached: true
+  - title: "Artificial intelligence could be new blueprint for precision drug discovery"
+    excerpt: "Researchers have described a new approach that uses machine learning to hunt for disease targets and then predicts whether a drug is likely to receive FDA approval."
+    publishedDateTime: 2021-07-12T17:38:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2021/07/210712130142.htm"
+    type: article
+    provider:
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 45
   - title: "AI Discovers Holes in the Sun's Corona"
     excerpt: "Artificial intelligence has been used in a variety of places, but for the first time, a neural network has been employed to detect holes in the sun's corona, with magnificent results."
     publishedDateTime: 2021-07-10T00:48:00Z

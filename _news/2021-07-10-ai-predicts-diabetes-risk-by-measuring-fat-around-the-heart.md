@@ -38,22 +38,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "AI tool measures fat around the heart to predict a patient's risk of diabetes"
-    excerpt: "A team led by researchers from Queen Mary University of London has developed a new artificial intelligence (AI) tool that is able to automatically measure the amount of fat around the heart from MRI scan images."
-    publishedDateTime: 2021-07-08T00:35:00Z
-    webUrl: "https://www.news-medical.net/news/20210707/AI-tool-measures-fat-around-the-heart-to-predict-a-patients-risk-of-diabetes.aspx"
-    ampWebUrl: "https://www.news-medical.net/amp/news/20210707/AI-tool-measures-fat-around-the-heart-to-predict-a-patients-risk-of-diabetes.aspx"
-    cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20210707/AI-tool-measures-fat-around-the-heart-to-predict-a-patients-risk-of-diabetes.aspx"
-    type: article
-    provider:
-      name: News Medical
-      domain: news-medical.net
-    quality: 54
-    images:
-      - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2014/7/Insulin-620x480.jpg"
-        width: 620
-        height: 480
-        isCached: true
   - title: "AI Tool Measures Fat Around the Heart to Predict Diabetes Risk"
     excerpt: "Researchers from Queen Mary University found that the more fat found around the heart, the greater the diabetes risk."
     publishedDateTime: 2021-07-12T14:52:00Z

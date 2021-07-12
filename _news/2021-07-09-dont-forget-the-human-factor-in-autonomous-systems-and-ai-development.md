@@ -7,7 +7,7 @@ originalUrl: "https://www.datanami.com/2021/07/08/dont-forget-the-human-factor-i
 webUrl: "https://www.datanami.com/2021/07/08/dont-forget-the-human-factor-in-autonomous-systems-and-ai-development/"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,22 +25,17 @@ images:
     isCached: true
 
 related:
-  - title: "AI gives software development tools a boost"
-    excerpt: "AI-assisted development tools can best be thought of as a pair ... Simon Bisson has worked in academic and telecoms research, been the CTO of a startup, run the technical side of UK Online, and done consultancy and technology strategy."
-    publishedDateTime: 2021-07-07T23:33:00Z
-    webUrl: "https://www.infoworld.com/article/3623773/ai-gives-software-development-tools-a-boost.html"
-    ampWebUrl: "https://www.infoworld.com/article/3623773/ai-gives-software-development-tools-a-boost.amp.html"
-    cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3623773/ai-gives-software-development-tools-a-boost.amp.html"
+  - title: "U.S. says humans will always be in control of AI weapons. But the age of autonomous war is already here."
+    excerpt: "The Pentagon says a ban on autonomous weapons isn't necessary, but experts say that weapons that can make decisions for themselves are already making a difference in Libyan, Armenian and other conflicts."
+    publishedDateTime: 2021-07-08T08:17:00Z
+    webUrl: "https://www.seattletimes.com/business/technology/u-s-says-humans-will-always-be-in-control-of-ai-weapons-but-the-age-of-autonomous-war-is-already-here/"
+    ampWebUrl: "https://www.seattletimes.com/business/technology/u-s-says-humans-will-always-be-in-control-of-ai-weapons-but-the-age-of-autonomous-war-is-already-here/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/technology/u-s-says-humans-will-always-be-in-control-of-ai-weapons-but-the-age-of-autonomous-war-is-already-here/?amp=1"
     type: article
     provider:
-      name: InfoWorld
-      domain: infoworld.com
-    quality: 89
-    images:
-      - url: "https://images.idgesg.net/images/article/2021/06/artificial_intelligence_automation_digital_brain_thinkstock_875595818-100749926-orig-100893865-large.jpg"
-        width: 1200
-        height: 800
-        isCached: true
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 20
 
 secured: "/WAy/DJgncIIU6vf+PkdXW3PTwmll3KRJPuSwmDAHt8bSO0plas6gQ90uQsDho6LVQFNCGsTBwTobDm8vxL0OycCafvSMThZWgBVsepnAxVYYE4QY+AbSFP7mqcsCFD/YgOe7/HH5HP+vSerswH/QjTDdJrdTBItrCmQGeA6jbpsJQ/Um53vU2t/jU8oTsK3MhX0LaThAXjKjIoM9zq05DmnPu366bxCOhWjA8l2eGXE088Svcg8r3ojdXHMlAkEwN/0qEtZKRJ+rDaeXDoR18yw6qca+/7MulccPjSm0iAol1E7SWaAXruA4e0I8HahAxZwFcF6p1G3YLJ/S2tqswUNISEIslrYnWjdfJjFJyKp09JqGHoZvqDoMD9IUd4Nrc3yhKDDBVg+sZsFR8dr3/bVfxWp1gaM1A+/mhQk8gvSPp3Y+GurAa4O6+gXlKlsXEGQUkLjKy0MBHzYN6pZUDIH1Ye084Gaq5VPmLsGN5GNQrAyXzbpX4Cyidk2VwJmZcT4lDE6b7bcYQvQ9r6RoQ==;R8pAKE9eTyfgqqC1DjlGLw=="
 ---

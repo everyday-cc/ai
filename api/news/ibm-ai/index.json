@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-07-12-ibm-launches-first-ai-incubator-for-social-impact.md",
+      "title": "IBM launches first AI incubator for social impact",
+      "excerpt": "We are proud to announce the launch of IBM’s first AI incubator for social impact organizations, empowering nonprofit organizations to explore and use high-impact data science and AI projects to advance their mission. The incubator, which will run from September 20 through December 10 2021, offers selected",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blogs/watson/2021/07/ibm-ai-incubator-for-social-impact/",
+      "originalUrl": "https://www.ibm.com/blogs/watson/2021/07/ibm-ai-incubator-for-social-impact/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ibm.com/blogs/watson/wp-content/uploads/2021/07/IBM-AI-for-social-good-incubator.jpg",
+          "width": 2000,
+          "height": 1000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-12T09:33:03-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-07-heifer-international-and-ibm-work-with-coffee-and-cocoa-farmers-in-honduras-to-increase-access-to-data-and-global-markets.md",
       "title": "Heifer International and IBM Work with Coffee and Cocoa Farmers in Honduras to Increase Access to Data and Global Markets",
       "excerpt": "Heifer International and IBM, together with CATIE ... The experts aim to use Watson's artificial intelligence and machine learning capabilities to provide smallholder cocoa farmers with access ...",
@@ -1297,58 +1349,6 @@
         "IBM AI",
         "AI",
         "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2021-06-05-the-ibm-watson-ai-xprize-is-more-than-a-competition.md",
-      "title": "The IBM Watson AI XPRIZE is more than a competition",
-      "excerpt": "The $5M IBM Watson AI XPRIZE aims to accelerate adoption of artificial intelligence (AI) technologies and spark creative, innovative, and audacious demonstrations of the technology that are truly ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/sponsored/story/the-ibm-watson-ai-xprize-is-more-than-a-competition/",
-      "originalUrl": "https://www.wired.com/sponsored/story/the-ibm-watson-ai-xprize-is-more-than-a-competition/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/60ba81cdd9be3d937371d355/191:100/w_1280,c_limit/Untitled-1.png",
-          "width": 1280,
-          "height": 670,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-04T12:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
       ]
     }
   ],

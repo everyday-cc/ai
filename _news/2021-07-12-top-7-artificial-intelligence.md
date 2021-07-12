@@ -43,7 +43,21 @@ related:
         width: 1000
         height: 1000
         isCached: true
+  - title: "Preparing the world for artificial intelligence"
+    excerpt: "Ultimately, the move toward AI also needs a cultural paradigm shift, behavior change and setting ethical standards on the boundaries of its uses and what recourse victims of AI use or abuse have to justice."
+    publishedDateTime: 2021-07-12T16:46:00Z
+    webUrl: "https://news.cgtn.com/news/2021-07-12/Preparing-the-world-for-artificial-intelligence-11Qhsraij28/index.html"
+    type: article
+    provider:
+      name: CGTN
+      domain: cgtn.com
+    quality: 39
+    images:
+      - url: "https://news.cgtn.com/news/2021-07-12/Preparing-the-world-for-artificial-intelligence-11Qhsraij28/img/561861171b1740aba76a4b008d17f431/561861171b1740aba76a4b008d17f431-750.png"
+        width: 750
+        height: 422
+        isCached: true
 
-secured: "rhKxzM2dmT0sWM3ttiR8GKN9kMNpBQi31+Ds62V1v2a0YXa7lkNs/QBPKII+xdPYtsdo+qoaJvr4ZzluO+P+lLb3nP15ASeNakdg9SCx/PgIfyBdCMdZvE95Vfa5d3uU9RMu2JFjJk8wE6im78hqPO6A1a98wRxoqpsAKWe+eIYyQ9pa+sWuskoG+0Fz/37s+EwiyOeS4ZlNsRYiDYYrWS3EKsM9p1+cfo4SUfZ94nYFRPUo5znKHjxaGpZwkWC2XW5nIz3R4zEsBKKNuRGmt3eeK/+h6ZNP7hPEHL/5kVbkg53hGUSjEOCcNgStPO+f+5LjgoACvajKfKGyaSK9RS4iWJHFHzsGDJDINQ2aMw0=;lVoALS/OA5i0mm+KJZ5VTg=="
+secured: "6PlJazwdDVoPbEYa2dUPntiML1jgzqmWBs+0ngnxw/pJPvJ0auTjYlqOmh7h/gxi/2CixLqL75Ol2Wkn13HbU2SxEWSKqRcXkJuJrArQyuY9b1QcIvwh2waJdshwEQ5sPqfAsqIDrp6w2COkwkln5XWKiOs14VQJ031XXp+aLsDMqQQXSbn0MCVTFF5aeEjMsnJUUU8/I9z9ZJP+FIC3Dz9+jmxwotQk34pfqSqCWgQ0UnILaOFEfhlLWg+jygWbtx/h8VV8ltjUgYHDiCBtTcTPawUAnTsPUP+dBm/wnF+7u/siLEyFSjv1zwxq1Flq8+aob8AV6eVKb5yEONQhMKnanxtWNDsS4gyyWjXiQaREHZGtuukzpwhsLC5rm6mjOC/hFZIaMRrlp3W/AuoleEnoCk+3WqDfWc+1ASOy8UZ7EfzReoKwvmf54y0VxWdDLSJddAnMdXOJ7S0hXJXgqq+y22tzogS9WFVrTXeEjAGdRLgbAk+xZK3KsvZZHh30QOy42pHvy36IOT8D+NKlOw==;EUoUehQHbHT+reQLZJSexA=="
 ---
 

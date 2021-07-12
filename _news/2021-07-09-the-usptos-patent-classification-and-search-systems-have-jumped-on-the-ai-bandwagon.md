@@ -58,6 +58,29 @@ related:
         width: 1200
         height: 694
         isCached: true
+  - title: "What Kind of Sea Ice is That? Thanks to AI, There's an App for That"
+    excerpt: "If you’ve watched Netflix, shopped online, or run your robot vacuum cleaner, you’ve interacted with artificial intelligence, AI. AI is what allows computers to comb through an enormous amount ..."
+    publishedDateTime: 2021-07-12T17:05:00Z
+    webUrl: "https://maritime-executive.com/editorials/what-kind-of-sea-ice-is-that-thanks-to-ai-there-s-an-app-for-that?fb_ref=tFA8fzllQY-Twitter"
+    type: article
+    provider:
+      name: Maritime Executive
+      domain: maritime-executive.com
+    quality: 37
+    images:
+      - url: "https://maritime-executive.com/media/images/article/Photos/Navy_Govt_CoastGuard/antarctica-icebreaker-coast-guard-cimsec.e403a2.jpg"
+        width: 643
+        height: 361
+        isCached: true
+  - title: "NNSA leads national collaboration to drive next-generation in AI for nonproliferation"
+    excerpt: "Within NNSA, the Office of Defense Nuclear Nonproliferation Research and Development (DNN R&D) is spearheading collaborative efforts to drive advances in the science of artificial intelligence (AI), and accelerate the adoption of AI-enabled technologies to solve difficult and pressing nuclear nonproliferation and national security challenges."
+    publishedDateTime: 2021-07-09T00:00:00Z
+    webUrl: "https://www.energy.gov/nnsa/articles/nnsa-leads-national-collaboration-drive-next-generation-ai-nonproliferation"
+    type: article
+    provider:
+      name: Energy Department
+      domain: energy.gov
+    quality: 10
 
 secured: "DZMUnMatoDzlAdwZ3G6UKmY3JWYZLBq96P7DbriVjJG0C4SPcpl44T1xlYbhJ72xL+ul7jS9Pxv7ENGkMR6zbZLtY9Hr+gmaRRruP+LjlDWRn4YuIMoF6lez9UT2grSL13HEcoJB1lN8TUoRAyf1eKyVICK04vZNJV+Snc5EQiJp03+TgiAbmHZdJIL6hguUta3c5nbZKJwC4mTbsaPxj8dv9RMXt8uLKo4bBDWnJP9J/4s1YBF8hNcUA/0shjcsSKR3bQGIZCPTL74PSoPfqQwGv4tE3t3IvaqHhI+XtdCrDUVJ2uIZXf7MUDz0kVU7uQBsDSWezR8UlcyOuWbvW/UILo2XcgfJ8V0xHNgAqQk=;1GXhQ/MRbA+wsI8ekDPkFQ=="
 ---

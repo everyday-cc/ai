@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.scmp.com/business/companies/article/3140367/ceo-robin-li
 cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/business/companies/article/3140367/ceo-robin-li-fast-tracks-smart-ev-development-harness-baidus-ai"
 type: article
 quality: 88
-heat: 108
+heat: 98
 published: true
 
 provider:
@@ -31,20 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Baidu to Roll Out Smart Vehicle in Two to Three Years, Robin Li Says"
-    excerpt: "Chinese internet giant Baidu is speeding up development of its smart vehicles and will have one ready in the next two to three years, founder Robin Li said today at the World Artificial Intelligence Conference in Shanghai."
-    publishedDateTime: 2021-07-08T00:00:00Z
-    webUrl: "https://www.yicaiglobal.com/news/baidu-to-roll-out-smart-vehicle-in-two-to-three-years-robin-li-says"
-    type: article
-    provider:
-      name: Yicai Global
-      domain: yicaiglobal.com
-    quality: 39
-    images:
-      - url: "http://img.yicaiglobal.com/cdn/news/baidu-to-roll-out-smart-vehicle-in-two-to-three-years-robin-li-says/14642774720643072.jpg"
-        width: 720
-        height: 480
-        isCached: true
   - title: "AI is the Transformative Force Revolutionizing Future Human Development Over the Next 40 Years, Says Baidu CEO Robin Li at WAIC 2021"
     excerpt: "Baidu's chief says technological advancements can spur the gradual restoration of humanity to become a low-carbon societyThe importance of AI extends beyond economic growth, its true contribution towa"
     publishedDateTime: 2021-07-08T11:00:00Z

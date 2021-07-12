@@ -36,7 +36,21 @@ related:
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 35
+    quality: 37
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Healthcare Artificial Intelligent Market Research Report with Size, Share, Value, CAGR, Outlook, Analysis, Latest Updates, Data, and News 2021-2028"
+    excerpt: "With increasing use of latest technology such as artificial intelligence, its implementation in different sectors has"
+    publishedDateTime: 2021-07-12T08:33:00Z
+    webUrl: "https://www.marketwatch.com/press-release/healthcare-artificial-intelligent-market-research-report-with-size-share-value-cagr-outlook-analysis-latest-updates-data-and-news-2021-2028-2021-07-12"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 31
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

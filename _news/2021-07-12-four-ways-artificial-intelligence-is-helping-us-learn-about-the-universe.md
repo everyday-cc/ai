@@ -72,6 +72,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Finance teams are now using AI to outperform peers"
+    excerpt: "Unit4 finds practical issues are holding back finance teams, with 45% of those surveyed citing difficulties in integrating AI tools with existing systems"
+    publishedDateTime: 2021-07-12T16:08:00Z
+    webUrl: "https://fintechmagazine.com/technology-and-ai/finance-teams-are-now-using-ai-outperform-peers"
+    type: article
+    provider:
+      name: fintechmagazine
+      domain: fintechmagazine.com
+    quality: 54
+    images:
+      - url: "https://fintechmagazine.com/sites/default/files/styles/ma/public/image/GettyImages-1255615171_0.jpg?itok=ebVnK-eP"
+        width: 2309
+        height: 1299
+        isCached: true
   - title: "Health tech on display at the World Artificial Intelligence Conference in Shanghai"
     excerpt: "With strong support from the government, the Chinese AI health market has more than tripled in size in just three years."
     publishedDateTime: 2021-07-09T15:39:00Z
@@ -101,6 +115,6 @@ related:
         height: 1080
         isCached: true
 
-secured: "MDi1lnzFxjp+MJWtEHdgxGW6hfDeJUfwC+xOa2WAuxNUMc3rMzBnLs4OjlvNgnRg6fRfaDtQK4EUbekzJzF5ONlXCA4JbhZkO6ZoF478wKIffv2Sfxbq5PKqsEdvzZ61FEJy8c/jEOKxvbRZ71NGC6j65DXeBli5JubQXQtrG9G5/QHYHIo6Ulue2hlnBT+htRXFGB2rQE2dvq1teh39f9HLbzb1IBgRSA0whBsiEVb6grQFsCHOYnsPsGbIBvFX4x+4TuTxW0xokj71vopnq5GI6UgBMbBKxWM7mLNd7F531vPA38gOmnmBRAnsGSEi1iuPZITt0QqUtXnL84vjNZNX7z02EULklHOJJr7GpMQ=;lvB9B84KxVr7y/Zkfv8fQw=="
+secured: "n6J1j45OZrwnaND+H/rxF+39KPY6K3lvlpWWGZU3K+5rjOkNN0jqAGPTmkMF8f1dvZQ8VRr0wGrOtg6w8IZsmydxuq8ts4uKQpVMBeMiE4vWoJBy9E+d845MhuhouhCKZfv4WZl53vBeH6anU8a7bKKA7O5MfGEGsSNbYJtA5sCqTXatEL+dhmdfd7Un+4KcB5X3bHZ3jbiB9qi0QMtgijDgcFM9tTljcymExEpsE0Qh4CEoRrpQ4GsIjbDmPl813l11sfkPtaQ+mUw0r0D2/JnhLPq/1+OpJsLyG0Bqtq4PKI3EpIb3cvD6PzA2iDKqfBqlIIQQ1OePJpU7zA64JiQ9pnuEbVcxMQ2GAxNZOcBqRgXJjaVvxayzoKc1h/y1Mi7PDX3rafvsdooKNIiZwfP2AFdbCJ9m0hujGfG6KIKeQaCtQFy0OOPkexIa8ODjkPlg/NgrP3IsTsuU6UawqI2pTuHCVYqSFC+K2j15/yF6mO2ibXclOeAng990+kErCM25zuBZ8pklWtPYoA/9eQ==;D6TNwq2W6JPigzzNOj7neA=="
 ---
 

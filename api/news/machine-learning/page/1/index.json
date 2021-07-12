@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-07-13-3-in-4-indian-firms-feel-artificial-intelligencemachine-learning-skill-gap-hampering-innovation.md",
+      "title": "3 in 4 Indian firms feel artificial intelligence/machine learning skill gap hampering innovation",
+      "excerpt": "About 50 per cent of those surveyed find it significantly difficult to develop softer, non-technical skills in the next six months.",
+      "sourceUrl": null,
+      "webUrl": "https://www.timesnownews.com/technology-science/article/3-in-4-indian-firms-feel-artificial-intelligencemachine-learning-skill-gap-hampering-innovation/784046",
+      "originalUrl": "https://www.timesnownews.com/technology-science/article/3-in-4-indian-firms-feel-artificial-intelligencemachine-learning-skill-gap-hampering-innovation/784046",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imgk.timesnownews.com/story/0d1463233ae00c99cfc6a2a906df94e4_0.jpg?tr=w-400,h-300,fo-auto",
+          "width": 400,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.timesnownews.com/amp/technology-science/article/3-in-4-indian-firms-feel-artificial-intelligencemachine-learning-skill-gap-hampering-innovation/784046",
+      "cdnAmpWebUrl": "https://www-timesnownews-com.cdn.ampproject.org/c/s/www.timesnownews.com/amp/technology-science/article/3-in-4-indian-firms-feel-artificial-intelligencemachine-learning-skill-gap-hampering-innovation/784046",
+      "publishedDateTime": "2021-07-12T10:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "timesnownews.com",
+        "domain": "timesnownews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-12-how-google-used-machine-learning-to-dramatically-improve-chip-design.md",
       "title": "How Google used machine learning to dramatically improve chip design",
       "excerpt": "Commentary: To get the most out of machine learning, it pays to avoid overthinking AI. Find out how Google engineers' were able to make a ML process take less than six hours instead of weeks.",
@@ -1407,58 +1450,6 @@
         "name": "Medical Xpress",
         "domain": "medicalxpress.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-30-trellis-data-using-machine-learning-to-analyse-shipping-containers-entering-australia.md",
-      "title": "Trellis Data using machine learning to analyse shipping containers entering Australia",
-      "excerpt": "Working with the Department of Agriculture, Trellis Data is analysing shipping containers using its machine learning technology to determine any biosecurity risks to Australia.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/trellis-data-using-machine-learning-to-analyse-shipping-containers-entering-australia/",
-      "originalUrl": "https://www.zdnet.com/article/trellis-data-using-machine-learning-to-analyse-shipping-containers-entering-australia/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/hub/i/2021/06/30/59723d6d-16eb-4005-9f60-7cf438a4b645/gettyimages-586450294.jpg",
-          "width": 4928,
-          "height": 3280,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/trellis-data-using-machine-learning-to-analyse-shipping-containers-entering-australia/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/trellis-data-using-machine-learning-to-analyse-shipping-containers-entering-australia/",
-      "publishedDateTime": "2021-06-29T18:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

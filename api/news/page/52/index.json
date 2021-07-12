@@ -2,6 +2,230 @@
   "page": 52,
   "value": [
     {
+      "path": "_news/2021-06-02-uptake-fusion-cloud-datastore-for-ignition-by-inductive-automation-now-available-on-microsoft-azure-marketplace.md",
+      "title": "Uptake Fusion Cloud Datastore for Ignition by Inductive Automation Now Available on Microsoft Azure Marketplace",
+      "excerpt": "Uptake, the leader in Industrial AI and Analytics, announced today the availability of Uptake Fusion Cloud Datastore for Ignition",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/21/06/n21392407/uptake-fusion-cloud-datastore-for-ignition-by-inductive-automation-now-available-on-microsoft-azur",
+      "originalUrl": "https://www.benzinga.com/pressreleases/21/06/n21392407/uptake-fusion-cloud-datastore-for-ignition-by-inductive-automation-now-available-on-microsoft-azur",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/21392407",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/21392407",
+      "publishedDateTime": "2021-06-02T08:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-02-futurework-podcast-a-driverless-transport-future.md",
+      "title": "FutureWork podcast: A driverless transport future?",
+      "excerpt": "said the tens of thousands of people employed in driving jobs in Scotland shouldn't worry about being replaced by robots and artificial intelligence any time soon. \"There's still some way to go ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.scotsman.com/business/futurework-podcast-a-driverless-transport-future-3258804",
+      "originalUrl": "https://www.scotsman.com/business/futurework-podcast-a-driverless-transport-future-3258804",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.scotsman.com/webimg/b25lY21zOmEyY2ZmYzkzLWNiYjctNDBjYi1hM2Y4LWM5MjVjNTg2MTQ1ZTowN2E3OGUyOC04NjY3LTQ1MGMtOWUzOS0yMjMyNDBmNGE0OWY=.jpg?width=2048&enable=upscale",
+          "width": 2048,
+          "height": 1364,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-02T07:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Scotsman",
+        "domain": "scotsman.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-02-self-driving-shuttle-market-2021-global-business-developments-research-by-size-and-share-competitive-landscape-and-growth-till-2027.md",
+      "title": "Self-driving Shuttle Market 2021: Global Business Developments, Research by Size and Share, Competitive Landscape and Growth till 2027",
+      "excerpt": "Jun 02, 2021 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" Global “Self-driving Shuttle",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/self-driving-shuttle-market-2021-global-business-developments-research-by-size-and-share-competitive-landscape-and-growth-till-2027-2021-06-02",
+      "originalUrl": "https://www.marketwatch.com/press-release/self-driving-shuttle-market-2021-global-business-developments-research-by-size-and-share-competitive-landscape-and-growth-till-2027-2021-06-02",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-02T06:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-02-microsoft-azure-launches-new-nvidia-a100-powered-supercomputing-instances.md",
+      "title": "Microsoft Azure launches new Nvidia A100-powered supercomputing instances",
+      "excerpt": "Microsoft’s cloud computing service Azure has launched what it claims is the fastest public cloud supercomputer. The new service named Azure ND A100 v4 Cloud GPU instances is powered by Nvidia’s A100 Tensor Core GPUs and is targeted at users with high performance and demanding workloads.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techradar.com/news/microsoft-azure-launches-new-nvidia-a100-powered-supercomputing-instances",
+      "originalUrl": "https://www.techradar.com/news/microsoft-azure-launches-new-nvidia-a100-powered-supercomputing-instances",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/TTiZmapEoTEgNmiUGUdSUf-480-80.jpg",
+          "width": 480,
+          "height": 270,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techradar.com/amp/news/microsoft-azure-launches-new-nvidia-a100-powered-supercomputing-instances",
+      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/microsoft-azure-launches-new-nvidia-a100-powered-supercomputing-instances",
+      "publishedDateTime": "2021-06-02T06:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-02-amazon-sns-gains-message-archiving-and-analytics-via-amazon-kinesis-data-firehose.md",
+      "title": "Amazon SNS Gains Message Archiving and Analytics via Amazon Kinesis Data Firehose",
+      "excerpt": "Susie Xia discusses the video encoding system used by Netflix, and the tools and techniques used to analyze performance and to improve the system efficiency. Steve Cosenza discusses why Twitter's ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoq.com/news/2021/05/amazon-sns-kinesis-data-firehose/",
+      "originalUrl": "https://www.infoq.com/news/2021/05/amazon-sns-kinesis-data-firehose/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://res.infoq.com/news/2021/05/amazon-sns-kinesis-data-firehose/en/headerimage/amazon-sns-kinesis-data-firehose-header-1622511210642.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-02T06:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoQ",
+        "domain": "infoq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-02-realising-enterprise-scale-machine-learning-with-data-governance.md",
       "title": "Realising enterprise-scale machine learning with data governance",
       "excerpt": "Realising the promise of AI/ML calls for organisations to scale its use enterprise-wide and promote the culture of an insights-driven organisation. Additionally, data is the fuel that keeps machine learning (ML) going,",
@@ -902,259 +1126,6 @@
       "topics": [
         "Computer Vision",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-02-amazon-aws-machine-learning-summit-keynote-kicks-off-with-few-shot-learning.md",
-      "title": "Amazon AWS Machine Learning Summit keynote kicks off with ‘few-shot learning’",
-      "excerpt": "Amazon AWS's AI and machine learning executives Swami Sivasubramanian and Bratin Saha lead the morning keynote.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/index.php/article/amazon-aws-summit/",
-      "originalUrl": "https://www.zdnet.com/index.php/article/amazon-aws-summit/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 113,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/hub/i/2021/06/02/076bf4fd-f23e-4608-8b14-e3e9e21a0d4b/aws-ml-summit-sivasubramanian-2021.png",
-          "width": 1782,
-          "height": 939,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/index.php/google-amp/article/amazon-aws-summit/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/google-amp/article/amazon-aws-summit/",
-      "publishedDateTime": "2021-06-02T01:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-06-02-artificial-intelligence-ai-in-fintech-market-qualitative-insights-on-application-and-drivers-growth-opportunity-analysis-report.md",
-      "title": "Artificial Intelligence (AI) In Fintech Market Qualitative Insights on Application and Drivers & Growth Opportunity Analysis Report",
-      "excerpt": "In Fintech Market Estimation, Global Share, Industry Outlook, Price Trend, Growth Opportunity and Top Regional Forecast (Latin America, North America, Asia Specific, Europe, Middle East ) \" Market Overview: Global Artificial Intelligence (AI) in Fintech Market is valued approximately USD 2.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-fintech-market-qualitative-insights-on-application-and-drivers-growth-opportunity-analysis-report-2021-06-02",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-fintech-market-qualitative-insights-on-application-and-drivers-growth-opportunity-analysis-report-2021-06-02",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-02T00:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-06-02-artificial-intelligence-chipsets-market-size-share-global-industry-report-2027.md",
-      "title": "Artificial Intelligence (Chipsets) Market Size, Share | Global Industry Report, 2027",
-      "excerpt": "Market Opportunities, Size, Share, Emerging Trends, Technological Innovation, Forecasts & Regional Analysis (Latin America, North America, Asia Pacific, Europe, Middle East) \" Market Overview: Global Artificial Intelligence (Chipsets) Market is valued approximately at USD 5.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-chipsets-market-size-share-global-industry-report-2027-2021-06-02",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-chipsets-market-size-share-global-industry-report-2027-2021-06-02",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-02T00:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-06-02-microsoft-turns-attention-to-multi-cloud-and-ai-with-azure-updates.md",
-      "title": "Microsoft turns attention to multi-cloud and AI with Azure updates",
-      "excerpt": "Microsoft made over 100 product and service announcements last week. Those related to its Azure ecosystem were the most interesting.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/06/01/microsoft-turns-attention-to-multi-cloud-and-ai-with-azure-updates/",
-      "originalUrl": "https://venturebeat.com/2021/06/01/microsoft-turns-attention-to-multi-cloud-and-ai-with-azure-updates/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 239,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/12/microsoft-azure.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/06/01/microsoft-turns-attention-to-multi-cloud-and-ai-with-azure-updates/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/01/microsoft-turns-attention-to-multi-cloud-and-ai-with-azure-updates/amp/",
-      "publishedDateTime": "2021-06-01T23:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-02-ai-prompts-a-scramble-for-healthcare-data.md",
-      "title": "AI prompts a scramble for healthcare data",
-      "excerpt": "Covid-19 has opened the eyes of the healthcare world to the promise of artificial intelligence. Two years ago, AI applications were largely seen as demonstration projects and start-up dreams. There were “nice to have” experiments in triaging mammograms,",
-      "sourceUrl": null,
-      "webUrl": "https://www.ft.com/content/376a5494-7237-4ed6-a528-5e45712c148d",
-      "originalUrl": "https://www.ft.com/content/376a5494-7237-4ed6-a528-5e45712c148d",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fce9e9331-316e-4c4c-a6a1-a1d8f77ec840.jpg?source=google-amp&fit=scale-down&width=500",
-          "width": 500,
-          "height": 281,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.ft.com/content/376a5494-7237-4ed6-a528-5e45712c148d",
-      "cdnAmpWebUrl": "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/376a5494-7237-4ed6-a528-5e45712c148d",
-      "publishedDateTime": "2021-06-01T21:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Financial Times",
-        "domain": "ft.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

@@ -2,6 +2,249 @@
   "page": 50,
   "value": [
     {
+      "path": "_news/2021-06-03-deepgram-beefs-up-conversational-ai-engagement-with-new-apis.md",
+      "title": "Deepgram beefs up conversational AI engagement with new APIs",
+      "excerpt": "Deepgram adds real-time capabilties to conversational AI platform to extend the number of potential use cases.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/06/03/deepgram-beefs-up-conversational-ai-engagement-with-new-apis/",
+      "originalUrl": "https://venturebeat.com/2021/06/03/deepgram-beefs-up-conversational-ai-engagement-with-new-apis/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/06/Deepgram2.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/06/03/deepgram-beefs-up-conversational-ai-engagement-with-new-apis/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/03/deepgram-beefs-up-conversational-ai-engagement-with-new-apis/amp/",
+      "publishedDateTime": "2021-06-03T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-03-deepracer-womens-league-aws-announces-winners-of-ml-for-women-initiative.md",
+      "title": "DeepRacer Women’s League: AWS announces winners of ML for women initiative",
+      "excerpt": "The initiative introduces machine learning to women students, allowing them to explore and apply ML skills in a virtual racing league.",
+      "sourceUrl": null,
+      "webUrl": "https://www.dqindia.com/deepracer-womens-league-aws-announces-winners-ml-women-initiative/",
+      "originalUrl": "https://www.dqindia.com/deepracer-womens-league-aws-announces-winners-ml-women-initiative/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 126,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.dqindia.com/wp-content/uploads/2019/11/artificial-2970158_1280_opt.jpg",
+          "width": 625,
+          "height": 294,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.dqindia.com/deepracer-womens-league-aws-announces-winners-ml-women-initiative/amp/",
+      "cdnAmpWebUrl": "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/deepracer-womens-league-aws-announces-winners-ml-women-initiative/amp/",
+      "publishedDateTime": "2021-06-03T08:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Dataquest",
+        "domain": "dqindia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Machine Learning",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2021-06-03-that-california-woman-using-her-car-to-thwart-a-mountain-lion-and-save-her-beloved-dog-provides-valuable-lessons-for-ai-self-driving-cars.md",
+      "title": "That California Woman Using Her Car To Thwart A Mountain Lion And Save Her Beloved Dog Provides Valuable Lessons For AI Self-Driving Cars",
+      "excerpt": "A woman in California quickly jumped into her car to drive toward and scare off a mountain lion that was attacking her beloved canine. This provides interesting lessons for the advent of AI self-driving cars.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/lanceeliot/2021/06/03/that-california-woman-using-her-car-to-thwart-a-mountain-lion-and-save-her-beloved-dog-provides-valuable-lessons-for-ai-self-driving-cars/",
+      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2021/06/03/that-california-woman-using-her-car-to-thwart-a-mountain-lion-and-save-her-beloved-dog-provides-valuable-lessons-for-ai-self-driving-cars/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60b6aaafc9419076987167ca%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1706%26cropY1%3D41%26cropY2%3D1000",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2021/06/03/that-california-woman-using-her-car-to-thwart-a-mountain-lion-and-save-her-beloved-dog-provides-valuable-lessons-for-ai-self-driving-cars/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/06/03/that-california-woman-using-her-car-to-thwart-a-mountain-lion-and-save-her-beloved-dog-provides-valuable-lessons-for-ai-self-driving-cars/amp/",
+      "publishedDateTime": "2021-06-03T08:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-03-realtime-robotics-raises-a-31m-series-a.md",
+      "title": "Realtime Robotics raises a $31M Series A",
+      "excerpt": "Boston-based Realtime Robotics this morning announced a $31.4 million round The funding is part of the $11.7 million Series A the company announced all the way back in late 2019. Investors include HAHN Automation,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/06/03/realtime-robotics-raises-a-31m-series-a/",
+      "originalUrl": "https://techcrunch.com/2021/06/03/realtime-robotics-raises-a-31m-series-a/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/10/RTR_Siemens-Connected.jpg?w=1024",
+          "width": 1024,
+          "height": 516,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/06/03/realtime-robotics-raises-a-31m-series-a/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/06/03/realtime-robotics-raises-a-31m-series-a/amp/",
+      "publishedDateTime": "2021-06-03T08:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-03-ai-outperforms-humans-in-creating-cancer-treatments-but-do-doctors-trust-it.md",
+      "title": "AI outperforms humans in creating cancer treatments, but do doctors trust it?",
+      "excerpt": "(Toronto, June 3, 2021) -- The impact of deploying Artificial Intelligence (AI) for radiation cancer therapy in a real-world clinical setting has been tested by Princess Margaret researchers in a ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.eurekalert.org/pub_releases/2021-06/uhn-aoh060221.php",
+      "originalUrl": "https://www.eurekalert.org/pub_releases/2021-06/uhn-aoh060221.php",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.eurekalert.org/multimedia/pub/web/266747_web.jpg",
+          "width": 1440,
+          "height": 1800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-03T08:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "EurekAlert!",
+        "domain": "eurekalert.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-03-aws-announces-winners-of-first-deepracer-womens-league-in-india.md",
       "title": "AWS announces winners of first DeepRacer Women's League in India",
       "excerpt": "New Delhi, June 3 (IANS) Amazon Web Services (AWS) on Thursday announced winners of the first-ever DeepRacer Women's League in India, held to boost women students to learn machine learning (ML ...",
@@ -921,220 +1164,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-03-grimes-says-ai-will-give-us-communism-in-confusing-new-tiktok-video.md",
-      "title": "Grimes Says AI Will Give Us Communism in Confusing New TikTok Video",
-      "excerpt": "Grimes, the musician and romantic partner of billionaire Elon Musk, is a big believer in artificial intelligence, according to a new TikTok video she posted late Wednesday. What can AI do for humanity?",
-      "sourceUrl": null,
-      "webUrl": "https://gizmodo.com/grimes-says-ai-will-give-us-communism-in-confusing-new-1847022911",
-      "originalUrl": "https://gizmodo.com/grimes-says-ai-will-give-us-communism-in-confusing-new-1847022911",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/696acb23ff63a207eebfa85717e959fd.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://gizmodo.com/grimes-says-ai-will-give-us-communism-in-confusing-new-1847022911/amp",
-      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/grimes-says-ai-will-give-us-communism-in-confusing-new-1847022911/amp",
-      "publishedDateTime": "2021-06-03T03:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmodo",
-        "domain": "gizmodo.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-03-a-programmable-fiber-contains-memory-temperature-sensors-and-a-trained-neural-network-program.md",
-      "title": "A programmable fiber contains memory, temperature sensors, and a trained neural network program",
-      "excerpt": "MIT researchers have created the first fiber with digital capabilities, able to sense, store, analyze, and infer activity after being sewn into a shirt.",
-      "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2021-06-programmable-fiber-memory-temperature-sensors.html",
-      "originalUrl": "https://techxplore.com/news/2021-06-programmable-fiber-memory-temperature-sensors.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2021/engineers-create-a-pro.jpg",
-          "width": 2000,
-          "height": 1334,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2021-06-programmable-fiber-memory-temperature-sensors.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-06-programmable-fiber-memory-temperature-sensors.amp",
-      "publishedDateTime": "2021-06-03T02:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techxplore.com",
-        "domain": "techxplore.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-03-imanage-adopts-microsoft-azure-as-global-cloud-platform.md",
-      "title": "iManage Adopts Microsoft Azure as Global Cloud Platform",
-      "excerpt": "Manage, the company dedicated to Making Knowledge Work™, today announced its adoption of Microsoft Azure as the global platform for the iManage Cloud. iManage will also deepen and extend its integration with Microsoft 365,",
-      "sourceUrl": null,
-      "webUrl": "https://www.legalitprofessionals.com/global-news/12519-imanage-adopts-microsoft-azure-as-global-cloud-platform",
-      "originalUrl": "https://www.legalitprofessionals.com/global-news/12519-imanage-adopts-microsoft-azure-as-global-cloud-platform",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-03T01:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "legalitprofessionals.com",
-        "domain": "legalitprofessionals.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-03-arabic-lgbt-activists-in-a-losing-battle-with-facebook-over-conversion-therapy.md",
-      "title": "Arabic LGBT+ activists in a losing battle with Facebook over ‘conversion therapy’",
-      "excerpt": "she posted a Facebook video promoting her conversion therapy business, in which she says homosexuality is caused by childhood abuse. The video, which is still visible on her page, has racked up 1.7-million views. Facebook uses artificial intelligence (AI ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.businesslive.co.za/bd/world/2021-06-03-arabic-lgbt-activists-in-a-losing-battle-with-facebook-over-conversion-therapy/",
-      "originalUrl": "https://www.businesslive.co.za/bd/world/2021-06-03-arabic-lgbt-activists-in-a-losing-battle-with-facebook-over-conversion-therapy/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://lh3.googleusercontent.com/S-hvp0H7jg-KfmK3ev4-dfkZbb7VEJuWiSD32mHUmJqP_YkYRjXprBoQRubw4yTgitblt8ToIv8VhfFbcPzY3Q=s1000",
-          "width": 1000,
-          "height": 666,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businesslive.co.za/amp/bd/world/2021-06-03-arabic-lgbt-activists-in-a-losing-battle-with-facebook-over-conversion-therapy/",
-      "cdnAmpWebUrl": "https://www-businesslive-co-za.cdn.ampproject.org/c/s/www.businesslive.co.za/amp/bd/world/2021-06-03-arabic-lgbt-activists-in-a-losing-battle-with-facebook-over-conversion-therapy/",
-      "publishedDateTime": "2021-06-03T00:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "businesslive.co.za",
-        "domain": "businesslive.co.za",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-03-lgbt-conversion-therapy-banned-on-facebook-yet-posts-in-arabic-are-thriving.md",
-      "title": "LGBT+ conversion therapy banned on Facebook yet posts in Arabic are thriving",
-      "excerpt": "As a teenager, he stumbled on the Facebook page of Awsam Wasfy, who now has nearly 150,000 followers and still says his therapy sessions can “treat” homosexuality. Recommended",
-      "sourceUrl": null,
-      "webUrl": "https://www.independent.co.uk/news/world/middle-east/lgbt-conversion-therapy-arabic-facebook-b1858773.html",
-      "originalUrl": "https://www.independent.co.uk/news/world/middle-east/lgbt-conversion-therapy-arabic-facebook-b1858773.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.independent.co.uk/2021/06/03/09/SEI81480991.jpg?width=1200&auto=webp&quality=75",
-          "width": 1200,
-          "height": 799,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.independent.co.uk/news/world/middle-east/lgbt-conversion-therapy-arabic-facebook-b1858773.html",
-      "cdnAmpWebUrl": "https://www-independent-co-uk.cdn.ampproject.org/c/s/www.independent.co.uk/news/world/middle-east/lgbt-conversion-therapy-arabic-facebook-b1858773.html",
-      "publishedDateTime": "2021-06-03T00:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Independent",
-        "domain": "independent.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }

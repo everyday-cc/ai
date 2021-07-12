@@ -25,114 +25,40 @@ images:
     isCached: true
 
 related:
-  - title: "Microsoft Announces the General Availability of Azure Arc-Enabled SQL"
-    excerpt: "Microsoft announced the general availability as per the end of July of Azure Arc-enabled SQL, which extends the Azure SQL instances to be hosted on an edge data center or in a multi-cloud environment."
-    publishedDateTime: 2021-07-09T11:26:00Z
-    webUrl: "https://www.infoq.com/news/2021/07/azure-arc-enabled-sql/"
+  - title: "Text Analytics Market Top Vendors Analysis, Market Challenges and Geographical Analysis"
+    excerpt: "As per Global Market Insights, Inc. estimates, the global text analytics market size is expected to cross $20 billion by 2027. The global text analytics market share is slated to expand at an appreciable rate over the foreseeable future,"
+    publishedDateTime: 2021-07-09T12:07:00Z
+    webUrl: "https://www.marketwatch.com/press-release/text-analytics-market-top-vendors-analysis-market-challenges-and-geographical-analysis-2021-07-09"
     type: article
     provider:
-      name: InfoQ
-      domain: infoq.com
-    quality: 69
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 46
     images:
-      - url: "https://res.infoq.com/news/2021/07/azure-arc-enabled-sql/en/headerimage/header+%283%29-1625687685497.jpg"
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "D2iQ Now Available in the Microsoft Azure Marketplace"
-    excerpt: "D2iQ, a leading independent Kubernetes platform, today announced the availability of the D2iQ Kubernetes Platform (DKP), including"
-    publishedDateTime: 2021-07-12T13:03:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/d2iq-now-available-in-the-microsoft-azure-marketplace-301331501.html"
+  - title: "Scry Analytics Announces Its New Research and Development Center in Hyderabad, India"
+    excerpt: "Scry Analytics (\"Scry\") announced its new Research and Development (R&D) Center in Hyderabad, India that will begin operations by August 1, 2021. This will be the second"
+    publishedDateTime: 2021-07-09T07:00:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/21/07/p21910313/scry-analytics-announces-its-new-research-and-development-center-in-hyderabad-india"
+    ampWebUrl: "https://www.benzinga.com/amp/content/21910313"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/21910313"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 69
-    images:
-      - url: "https://mma.prnewswire.com/media/1156495/D2IQ_Logo.jpg?p=facebook"
-        width: 2161
-        height: 1130
-        isCached: true
-  - title: "CIBC Announces Multi-Year Agreement to Use Microsoft’s Cloud-Based Platform"
-    excerpt: "( MSFT) to use Microsoft Azure as its primary cloud platform. The agreement will accelerate the bank's digital transformation and cloud-first approach. The multi-year investment includes CIBC cloud technology,"
-    publishedDateTime: 2021-07-09T05:49:00Z
-    webUrl: "https://www.nasdaq.com/articles/cibc-announces-multi-year-agreement-to-use-microsofts-cloud-based-platform-2021-07-09"
-    ampWebUrl: "https://www.nasdaq.com/articles/cibc-announces-multi-year-agreement-to-use-microsofts-cloud-based-platform-2021-07-09?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/cibc-announces-multi-year-agreement-to-use-microsofts-cloud-based-platform-2021-07-09?amp"
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 17
+  - title: "Global Artificial Intelligence Platform Market Size, Share and Analysis To Grow At An Annual Rate Of 56.6% Through 2024"
+    excerpt: "The report Artificial Intelligence Platform Market Size and Analysis maintains enhanced dynamics and is overshadowed by a top player across the globe. The research report provides Artificial Intelligence Platform Market Growth and information corresponding to market segments such as geographies,"
+    publishedDateTime: 2021-07-09T10:33:00Z
+    webUrl: "https://www.arnnet.com.au/mediareleases/144023/global-artificial-intelligence-platform-market/"
     type: article
     provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 67
-  - title: "Microsoft aims to expedite new edge computing use cases with Azure Percept"
-    excerpt: "With the modern cloud landscape nearing a point of saturation in terms of bandwidth, 5G combined with edge computing and AI looks to further ... silicon and telecom, Azure edge devices, and ..."
-    publishedDateTime: 2021-07-08T21:36:00Z
-    webUrl: "https://siliconangle.com/2021/07/08/microsoft-aims-expedite-new-edge-computing-use-cases-azure-percept-mwc21/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 67
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/07/Pete-Bernard-Mobile-World-Congress-2021.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "Microsoft Launches Free Machine Learning Course For Beginners"
-    excerpt: "Microsoft has launched a free MIT-approved learning course titled “Machine Learning For Beginners” to teach students the basics of machine learning. The course duration is 12 weeks. Azure Cloud advocates and Microsoft student ambassador authors,"
-    publishedDateTime: 2021-07-08T12:30:00Z
-    webUrl: "https://analyticsindiamag.com/microsoft-launches-free-machine-learning-course-for-beginners/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 58
-    images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/07/maxresdefault.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "CIBC formalizes Microsoft Azure as its primary cloud platform"
-    excerpt: "Canadian Imperial Bank of Commerce and Microsoft announced a strategic relationship formalizing Microsoft Azure as CIBC’s primary cloud platform"
-    publishedDateTime: 2021-07-12T06:22:00Z
-    webUrl: "https://ibsintelligence.com/ibsi-news/cibc-formalizes-microsoft-azure-as-its-primary-cloud-platform/"
-    type: article
-    provider:
-      name: IBS
-      domain: ibsintelligence.com
-    quality: 54
-    images:
-      - url: "https://mk0ibsintelligek4gm6.kinstacdn.com/wp-content/uploads/2020/11/CIBC.jpg"
-        width: 300
-        height: 300
-        isCached: true
-  - title: "CIBC inks Microsoft Azure deal"
-    excerpt: "Azure will support the migration of hundreds of applications to the cloud, as well as offer scalable computing power for CIBC's enterprise data lake and AI platform. The bank will also get access to a suite of Microsoft training programmes and ..."
-    publishedDateTime: 2021-07-11T23:23:00Z
-    webUrl: "https://www.finextra.com/newsarticle/38434/cibc-inks-microsoft-azure-deal"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 34
-  - title: "Insight Wins 2021 Microsoft Worldwide Partner of the Year Awards for Azure Migration and Solution Assessments"
-    excerpt: "Insight Enterprises (NASDAQ:NSIT), the global provider of Insight Intelligent Technology Solutions™ for organizations of all sizes, today announced it has won two 2021 Microsoft ( News - Alert) Worldwide Partner of the Year Awards as Migration to Azure Partner of the Year and Solution Assessments Partner of the Year."
-    publishedDateTime: 2021-07-09T16:07:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2021/07/09/9406115.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 15
-  - title: "CIBC and Microsoft announce strategic relationship to accelerate the bank's transformation and cloud-first approach"
-    excerpt: "CNW/ - Today CIBC and Microsoft announced a strategic relationship through a multi-year agreement formalizing Microsoft Azure as CIBC's primary cloud platform. CIBC's cloud-first approach will be enabled by Microsoft Azure's vast on-demand computing power,"
-    publishedDateTime: 2021-07-08T17:15:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-cibc-microsoft-announce-strategic-relationship-accelerate-banks-transformation-/2021/07/08/9405628.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 14
+      name: ARN
+      domain: arnnet.com.au
+    quality: 0
 
 secured: "MJeo8zKqpSAy2xnWwGTsvTbIqMJ3mf0S5ElW58lQevFYn3JPpHdMyMZg19M4hT4wGIkILe0Puml3aYS1jkMJLaHE9nFZmwNlBNd1psEFZlOjydemKvs8Nkw8fz7GujdnzIOLEAkNDZ+VRLbNLQZsac/+uqK3Y2l6S4eYQL7soDGTXZbdCsnkyT00jtGdD96JWsssMWjI+IXUEu75jB41PlYbaD0NI6RaqGFHwJbJKtxIFI3STGt/tCoa9bAgdSgmy0d3rweE7u8EclSHXL3yqdhzyOMvmfIXEWfGN6sb1LgylwIDFdLOWLC5lJlTjupZwjZsxmVYgBdqfof+rBdqLVx4S04I3XCCive0TDa+lrU=;qE+4re99nNuyLihwLiZS0Q=="
 ---

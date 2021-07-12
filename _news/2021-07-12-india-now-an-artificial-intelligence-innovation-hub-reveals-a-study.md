@@ -9,7 +9,7 @@ ampWebUrl: "https://wap.business-standard.com/article-amp/technology/india-now-a
 cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/technology/india-now-an-artificial-intelligence-innovation-hub-reveals-a-study-121071100854_1.html"
 type: article
 quality: 57
-heat: 67
+heat: -1
 published: false
 
 provider:
@@ -26,19 +26,21 @@ images:
     isCached: true
 
 related:
-  - title: "AI Race: Why India is Lagging Behind the US and China in 2021?"
-    excerpt: "The US and China are determined to be the world leaders in Artificial Intelligence in the upcoming years. This article shows why India is lagging behind these two countries in the AI race."
-    publishedDateTime: 2021-07-12T11:01:00Z
-    webUrl: "https://www.analyticsinsight.net/ai-race-why-india-is-lagging-behind-the-us-and-china-in-2021/"
+  - title: "3 in 4 Indian firms feel artificial intelligence/machine learning skill gap hampering innovation"
+    excerpt: "About 50 per cent of those surveyed find it significantly difficult to develop softer, non-technical skills in the next six months."
+    publishedDateTime: 2021-07-12T17:30:00Z
+    webUrl: "https://www.timesnownews.com/technology-science/article/3-in-4-indian-firms-feel-artificial-intelligencemachine-learning-skill-gap-hampering-innovation/784046"
+    ampWebUrl: "https://www.timesnownews.com/amp/technology-science/article/3-in-4-indian-firms-feel-artificial-intelligencemachine-learning-skill-gap-hampering-innovation/784046"
+    cdnAmpWebUrl: "https://www-timesnownews-com.cdn.ampproject.org/c/s/www.timesnownews.com/amp/technology-science/article/3-in-4-indian-firms-feel-artificial-intelligencemachine-learning-skill-gap-hampering-innovation/784046"
     type: article
     provider:
-      name: Analytics Insight
-      domain: analyticsinsight.net
-    quality: 39
+      name: timesnownews.com
+      domain: timesnownews.com
+    quality: 61
     images:
-      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/07/AI-Race.jpg"
-        width: 900
-        height: 500
+      - url: "https://imgk.timesnownews.com/story/0d1463233ae00c99cfc6a2a906df94e4_0.jpg?tr=w-400,h-300,fo-auto"
+        width: 400
+        height: 300
         isCached: true
 
 secured: "yHFTnxLmGT226/XL8IzBMlm3hZtTg5jFXKCaqDBxp5g8eKV0tfrU9bmB9N5AFlObzWdZbtUgqd9oGz2CGngIwVRz3z0tzzSzBqsisZekuNyAS5gUsvT3lUwDorIJ4wGsjainscZiOnpLkS9pBX6R10+kg940OUVy0SD8dQ9RyYGG9pqLLRRhvIXMqU56sLJBHx8uRWS8K9jW7gFLFNDvYuBTGGfjlYUZ0WYyp76lts8i7CjQZv9QJLeZtPiutqCtesffydREKv2G3+QtVts/j644gPNuytJ6haILutE9HdClMHzalMAzGRzcboIe+3XQVtjtx0O8pLvHauK0U7E2gCFDrHSLTShDIcJ7reC5nLg=;UIVu6SBN0FQ9UROL3XQNFg=="

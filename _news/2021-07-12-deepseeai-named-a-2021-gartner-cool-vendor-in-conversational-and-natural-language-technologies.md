@@ -18,6 +18,17 @@ topics:
   - Natural Language Processing
   - AI
 
+related:
+  - title: "Sinequa Named a Leader in 2021 Analyst Report for Cognitive Search"
+    excerpt: "Intelligent search provider Sinequa announced today that it has been named a Leader in The Forrester Wave™: Cognitive Search, Q3 2021. Cognitive search employs AI technologies, such as natural language processing and machine learning to ingest,"
+    publishedDateTime: 2021-07-12T16:03:00Z
+    webUrl: "https://www.businesswire.com/news/home/20210712005394/en/Sinequa-Named-a-Leader-in-2021-Analyst-Report-for-Cognitive-Search"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 4
+
 secured: "9AF3sTptjFv42URm+sUmpWRErVSTudbqsEhDIDobaRvKSU8qoPC4t/AeRVALTDMz5+H3W9U9wJiuWeh5/mmSzFjEo0x//EIuVigAdLad2WTJJ3WMDZI3+NKqgBKnQL9I0xobWY3uGpTPK+UeJU/qawoS2iEurnON83igJIXXWqeVrEVoYjKvMNXQfdkCNupzw5Ej5T3n4zeAAb78UUWje94HLhdXHI51Tp/iYrABCug/8QS4Gu4QDh+PAs5JTibjMya5WSqX27k6CwGLOuNtA0Od4K4opqy4fHwAOHZXuR6/tt5fmAsvWJNm4DQeNEYTA4pt2z8U5IfBeIb+s7a5khQzskqdl/C3Nb1U4KTk7Rw=;IXpTua/UKMKTIT1/C6UknA=="
 ---
 

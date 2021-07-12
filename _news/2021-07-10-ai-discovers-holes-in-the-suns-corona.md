@@ -56,6 +56,15 @@ related:
         width: 777
         height: 622
         isCached: true
+  - title: "Artificial intelligence could be new blueprint for precision drug discovery"
+    excerpt: "Researchers have described a new approach that uses machine learning to hunt for disease targets and then predicts whether a drug is likely to receive FDA approval."
+    publishedDateTime: 2021-07-12T17:38:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2021/07/210712130142.htm"
+    type: article
+    provider:
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 45
 
 secured: "MN9wrW88lwlLCOY5E2+uYVhqZ+U+ehkOYCAXCAQIkt+szM8buI4LaRfUbgG8M2i16gR3oTLE/GxWHigN0qIGI1AQpkStHLhedPzI/alxfmrf1TJiZh1DHomvckBXMPNk9ao6TrDYBnsqVPCT2LtHjL+yEPbIFCZhs8Ob3RlXRsCC3Zz5qMgIBbRZHovGFH3QpsvDLjP60xXrfZpYVJoxvVpy5SqQoQl+VgBINwyk3YqmqgTRLpEeMfbGrFShPDYzFsZQoMeadMtD5SLWEWvLn9rz42c+aYfZqKpTunAMtxr9gSAFHvP6mj++0GZUHXciuiG8TUbAoEByvq7beWNz1gva2mguAX5e4KUclPRcTT8=;U6/dg06BbHvGj2TIjQHDXQ=="
 ---

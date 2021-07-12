@@ -87,6 +87,20 @@ related:
         width: 480
         height: 480
         isCached: true
+  - title: "Finance teams are now using AI to outperform peers"
+    excerpt: "Unit4 finds practical issues are holding back finance teams, with 45% of those surveyed citing difficulties in integrating AI tools with existing systems"
+    publishedDateTime: 2021-07-12T16:08:00Z
+    webUrl: "https://fintechmagazine.com/technology-and-ai/finance-teams-are-now-using-ai-outperform-peers"
+    type: article
+    provider:
+      name: fintechmagazine
+      domain: fintechmagazine.com
+    quality: 54
+    images:
+      - url: "https://fintechmagazine.com/sites/default/files/styles/ma/public/image/GettyImages-1255615171_0.jpg?itok=ebVnK-eP"
+        width: 2309
+        height: 1299
+        isCached: true
   - title: "New AI technologies debut at World AI Conference in Shanghai"
     excerpt: "Conference opened in Shanghai on Thursday. Since COVID-19 is well under control in China, hundreds of AI developers are able to attend the event offline, where many of them debut their latest products."
     publishedDateTime: 2021-07-08T18:20:00Z

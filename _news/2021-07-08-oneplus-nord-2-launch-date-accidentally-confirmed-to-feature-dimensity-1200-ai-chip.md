@@ -9,7 +9,7 @@ ampWebUrl: "https://www.moneycontrol.com/news/technology/oneplus-nord-2-launch-d
 cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/technology/oneplus-nord-2-launch-date-accidentally-confirmed-to-feature-dimensity-1200-ai-chip-7143481.html/amp"
 type: article
 quality: 67
-heat: 137
+heat: 127
 published: true
 
 provider:
@@ -90,20 +90,6 @@ related:
       - url: "https://st1.bgr.in/wp-content/uploads/2021/04/oneplus-nord.jpg"
         width: 1200
         height: 675
-        isCached: true
-  - title: "OnePlus Nord 2 (Dimensity 1200-AI) appears on AI benchmark site, scores higher than Realme GT Neo (Dimensity 1200)"
-    excerpt: "It has been officially confirmed that the OnePlus Nord 2 will be powered by a MediaTek processor. The chipset is the Dimensity 1200-AI, a custom version of the Dimensity 1200 built by MediaTek and OnePlus,"
-    publishedDateTime: 2021-07-07T23:10:00Z
-    webUrl: "https://www.gizmochina.com/2021/07/07/oneplus-nord-2-dimensity-1200-ai-appears-on-ai-benchmark-site-scores-higher-than-realme-gt-neo-dimensity-1200/"
-    type: article
-    provider:
-      name: Gizmochina
-      domain: gizmochina.com
-    quality: 47
-    images:
-      - url: "https://www.gizmochina.com/wp-content/uploads/2021/07/OnePlus-Nord-2-5G-Dimensity-1200-AI-vs-Realme-GT-Neo-Dimensity-1200-AI-Benchmark.jpg"
-        width: 1835
-        height: 943
         isCached: true
   - title: "OnePlus Nord 2 5G Confirmed To Come With MediaTek Dimensity 1200-AI SoC; First OnePlus Phone With MediaTek SoC"
     excerpt: "OnePlus Nord 2 5G will come with a MediaTek Dimensity 1200-AI chipset, the company has confirmed in an official teaser."
