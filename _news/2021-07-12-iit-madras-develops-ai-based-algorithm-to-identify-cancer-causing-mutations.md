@@ -9,7 +9,7 @@ ampWebUrl: "https://english.newstracklive.com/ampnews/iitmadras-develops-aibased
 cdnAmpWebUrl: "https://english-newstracklive-com.cdn.ampproject.org/c/s/english.newstracklive.com/ampnews/iitmadras-develops-aibased-algorithm-to-identify-cancercausing-mutations-sc53-nu318-ta318-1170281-1.html"
 type: article
 quality: 57
-heat: 77
+heat: 87
 published: true
 
 provider:
@@ -58,6 +58,20 @@ related:
       - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-539744,msid-84340761/ambala-farmers-harvest-potatoes-at-a-field-in-the-outskirts-of-ambala-district-.jpg"
         width: 600
         height: 450
+        isCached: true
+  - title: "Scientists develops AI model to detect gravitational waves"
+    excerpt: "A team of computational scientists and researchers has developed a new artificial intelligence (AI) framework that allows for"
+    publishedDateTime: 2021-07-12T07:26:00Z
+    webUrl: "https://menafn.com/1102431633/Scientists-develops-AI-model-to-detect-gravitational-waves"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 39
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?237830"
+        width: 375
+        height: 250
         isCached: true
 
 secured: "Bd43NlY4sAsiZywsTjzMnIfZr0O8DcGCHeSNSjQ9LaI44S3RFj0Ig7eS/X4/0rc0z6BZAuqVigx82G1gotzc7wGBttw9tA0VMqRz7eC9PdbVJcyGtnVP4Cd7WwvE0O3vmp84xCcJEw5MJs4Kr0U17iNKG2ZxMo++aoks50rA0uIE35e/8cqCSiuxDC/01iBmk/qkwQwftgjgO/D/d3QYTOvajEydPJ94X0+8T3oSUds2yWA0ME+DF2gktLyWh/AHzW7ehUyGlBqLahhVSOWdL2GD0248GbPMSHXmUpIIAmNboIcvZXACwKYnUn7JtgUhAPigar8I+XwFJtyOxj5AbnBuRWLDRNRlLjbgwnzdKzo=;nlmAmg9chp2xqs+1g5FGcA=="

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.tomsguide.com/uk/amp/news/xbox-series-x-games-could-get-
 cdnAmpWebUrl: "https://www-tomsguide-com.cdn.ampproject.org/c/s/www.tomsguide.com/uk/amp/news/xbox-series-x-games-could-get-a-big-boost-thanks-to-ai-upscaling"
 type: article
 quality: 57
-heat: 67
+heat: 57
 published: false
 
 provider:
@@ -24,24 +24,6 @@ images:
     width: 480
     height: 289
     isCached: true
-
-related:
-  - title: "Cheating In PS5 And Xbox Series X Games Might Get Worse, Thanks To This Machine-Learning Tool"
-    excerpt: "A new cheat engine that uses machine-learning can work on consoles, including Xbox Series X and PlayStation 5. The anti-cheat watch group ACPD posted its findings on the new tool on Twitter, explaining how it will be difficult for developers to detect."
-    publishedDateTime: 2021-07-07T19:07:00Z
-    webUrl: "https://www.gamespot.com/articles/cheating-in-ps5-and-xbox-series-x-games-might-get-worse-thanks-to-this-machine-learning-tool/1100-6493682/"
-    ampWebUrl: "https://www.gamespot.com/amp-articles/cheating-in-ps5-and-xbox-series-x-games-might-get-worse-thanks-to-this-machine-learning-tool/1100-6493682/"
-    cdnAmpWebUrl: "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/cheating-in-ps5-and-xbox-series-x-games-might-get-worse-thanks-to-this-machine-learning-tool/1100-6493682/"
-    type: article
-    provider:
-      name: GameSpot
-      domain: gamespot.com
-    quality: 33
-    images:
-      - url: "https://www.gamespot.com/a/uploads/original/1585/15853545/3852955-0795579771-call-.jpg"
-        width: 1280
-        height: 720
-        isCached: true
 
 secured: "X2wLeVYAiiNicGR4OUV0KoRzeArQGO7cqfcy1zHD3B37dUB0ukWYWkTQ8IHuJmXjsKHeCE5XzC9vpjjqQhUJhARxnzibc9GSDLHM00TV/FrbZ/CVLjDugD8x+3tC40tRnc/oIN0+E46ZF8jNp5vGqxBPwSoE2TxMjfpJauDbEACmW9AVuh99I4U3UMY2fu7LiC90tRQrr/foH9ppTfCWs0RILKoV6tJa6YrvjkHdkG9BWxoomMzDvYzYC2mNkRkfJgBcFcHJThtPLrVNcYdDkhWWpXz2p8JIy8Dosip4vcDSLKBxOk2dph9G6tu6J84UigljsjMe86rMkU5iP9Iofm0CGe5h9k7zQDZgA6Va9bA=;xEZxsaIzP4QmuhmgiPYfWQ=="
 ---

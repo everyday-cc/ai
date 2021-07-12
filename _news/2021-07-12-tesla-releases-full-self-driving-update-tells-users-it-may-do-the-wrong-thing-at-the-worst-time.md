@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "The self-driving race between Elon Musk's Tesla and Domino's pizza robots"
+    excerpt: "Elon Musk has talked up full self-driving for years, but missed many deadlines. Some are betting the big progress in autonomous vehicles: delivering pizza."
+    publishedDateTime: 2021-07-12T11:26:00Z
+    webUrl: "https://www.cnbc.com/2021/07/10/self-driving-looking-less-like-elon-musk-more-dominos-pizza-robots.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2021/07/10/self-driving-looking-less-like-elon-musk-more-dominos-pizza-robots.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/07/10/self-driving-looking-less-like-elon-musk-more-dominos-pizza-robots.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 105
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/106907169-1625602487443-rev1.jpg?v=1625667387"
+        width: 3000
+        height: 2000
+        isCached: true
   - title: "Tesla's new Full Self Driving beta 9.0 still looks a bit too exciting"
     excerpt: "Driving\" beta 9.0 software to selected early-access users, upgrading their Autopilot systems with new off-highway autonomous capabilities and better visualizations."
     publishedDateTime: 2021-07-12T08:05:00Z
@@ -95,6 +111,20 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Why you shouldn’t trust Tesla’s latest Full Self Driving beta update"
+    excerpt: "Elon Musk had initially promised the fabled Full Self-Driving Beta version 9 back in August 2018. And then again in 2019. Well, if you’re a Tesla fan, you already know that none of these commitments were fulfilled."
+    publishedDateTime: 2021-07-12T11:40:00Z
+    webUrl: "https://thenextweb.com/news/why-you-shouldnt-trust-tesla-full-self-driving-beta-9-update-release"
+    type: article
+    provider:
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 84
+    images:
+      - url: "https://img-cdn.tnwcdn.com/image/shift?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F07%2FBETA.jpg&signature=4ef20c5b9875014ecbd6cfae005b72d8"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Elon Musk: Tesla will launch its ‘mind-blowing’ Full Self-Driving Beta v9 on Saturday"
     excerpt: "Tesla is currently testing the “feature complete” version of its Full Self-Driving (FSD) package in beta with a few thousand customers and employees through its early access program."
     publishedDateTime: 2021-07-08T09:59:00Z
@@ -111,6 +141,22 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Elon Musk: Tesla Vision to soon detect turn signals, hazards, police lights & even hand gestures"
+    excerpt: "Elon Musk announced that Tesla Vision would soon detect turn signals on other vehicles, hazards lights, police and ambulance lights, and even hand gestures. The move comes as the automaker tries to cover every possible driving situation on the road to delivering a full self-driving system."
+    publishedDateTime: 2021-07-12T10:23:00Z
+    webUrl: "https://electrek.co/2021/07/12/elon-musk-tesla-vision-detect-turn-signals-hazards-police-lights-hand-gestures/"
+    ampWebUrl: "https://electrek.co/2021/07/12/elon-musk-tesla-vision-detect-turn-signals-hazards-police-lights-hand-gestures/amp/"
+    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/07/12/elon-musk-tesla-vision-detect-turn-signals-hazards-police-lights-hand-gestures/amp/"
+    type: article
+    provider:
+      name: Electrek
+      domain: electrek.co
+    quality: 78
+    images:
+      - url: "https://i2.wp.com/electrek.co/wp-content/uploads/sites/3/2021/07/Tesla-FSD-Beta-v9-driving-visuzalization.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Tesla Releases Ninth 'Full Self-Driving' Beta Two Years After It Was Promised"
     excerpt: "Tesla has released the ninth beta of its Full Self-Driving (FSD) software to vehicle owners who have purchased the not-quite-autonomous driving feature. The Verge reported that the update was supposed to debut in August 2018,"
     publishedDateTime: 2021-07-10T19:09:00Z
@@ -124,6 +170,22 @@ related:
       - url: "https://sm.pcmag.com/t/pcmag_in/news/t/tesla-rele/tesla-releases-ninth-full-self-driving-beta-two-years-after_9fhh.1200.jpg"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Elon Musk says Tesla Vision will soon detect turn signals, hand gestures"
+    excerpt: "Tesla's latest full self-driving Beta v9 software update is currently being tested on 2,000 vehicles via the early access program..CEO Elon Musk says the Tesla Vision system being used in the latest software update will also be able to listen to sirens and alarms."
+    publishedDateTime: 2021-07-12T12:39:00Z
+    webUrl: "https://auto.hindustantimes.com/auto/news/elon-musk-says-tesla-vision-will-soon-detect-turn-signals-hand-gestures-41626091993803.html"
+    ampWebUrl: "https://auto.hindustantimes.com/auto/news/elon-musk-says-tesla-vision-will-soon-detect-turn-signals-hand-gestures/amp-41626091993803.html"
+    cdnAmpWebUrl: "https://auto-hindustantimes-com.cdn.ampproject.org/c/s/auto.hindustantimes.com/auto/news/elon-musk-says-tesla-vision-will-soon-detect-turn-signals-hand-gestures/amp-41626091993803.html"
+    type: article
+    provider:
+      name: Hindustan Times
+      domain: hindustantimes.com
+    quality: 60
+    images:
+      - url: "https://images.hindustantimes.com/auto/img/2021/07/12/600x338/2021-06-02T110005Z_1133997531_RC2BSN92RQ28_RTRMADP_3_TESLA-AUTOPILOT-EXPLAINER_1622688642691_1626093263831.JPG"
+        width: 600
+        height: 338
         isCached: true
   - title: "Elon Musk Confirms Tesla’s Launch Date of Its Full Self-Driving Beta v9"
     excerpt: "Tesla fans may not have long to wait to get a taste of self-driving cars, as CEO Elon Musk has (finally) confirmed an official launch date of the Full Self-Driving Beta v9. In the early hours of Thursday,"
@@ -156,6 +218,38 @@ related:
       - url: "https://etimg.etb2bimg.com/thumb/msid-84305403,imgsize-714624,width-800,height-434,overlay-etauto/tesla-finally-releases-full-self-driving-beta-version.jpg"
         width: 800
         height: 434
+        isCached: true
+  - title: "Tesla’s newest ‘self-driving’ update comes with ominous warning"
+    excerpt: "The latest update includes a warning that drivers must remain awake and alert at the wheel because the car “may do the wrong thing at the worst time,” according to images shared by"
+    publishedDateTime: 2021-07-12T13:57:00Z
+    webUrl: "https://nypost.com/2021/07/12/teslas-newest-self-driving-update-comes-with-ominous-warning/"
+    ampWebUrl: "https://nypost.com/2021/07/12/teslas-newest-self-driving-update-comes-with-ominous-warning/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/07/12/teslas-newest-self-driving-update-comes-with-ominous-warning/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 59
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/07/tesla-self-driving-15.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Elon Musk says developing self-driving cars is proving difficult"
+    excerpt: "The billionaire businessman - who is the CEO of Tesla Motors - has taken to Twitter to provide an update on the manufacturer's latest efforts, and confessed that self-driving cars are \"hard\" to make a success of."
+    publishedDateTime: 2021-07-12T06:36:00Z
+    webUrl: "https://www.iol.co.za/technology/elon-musk-says-developing-self-driving-cars-is-proving-difficult-d1a5dce9-31ed-44a6-b83c-783bc95b29c6"
+    ampWebUrl: "https://www.iol.co.za/amp/technology/elon-musk-says-developing-self-driving-cars-is-proving-difficult-d1a5dce9-31ed-44a6-b83c-783bc95b29c6"
+    cdnAmpWebUrl: "https://www-iol-co-za.cdn.ampproject.org/c/s/www.iol.co.za/amp/technology/elon-musk-says-developing-self-driving-cars-is-proving-difficult-d1a5dce9-31ed-44a6-b83c-783bc95b29c6"
+    type: article
+    provider:
+      name: IOL News
+      domain: iol.co.za
+    quality: 44
+    images:
+      - url: "https://image-prod.iol.co.za/resize/650x366/Picture-Bloomberg-Tesla?source=https://xlibris.public.prod.oc.inl.infomaker.io:8443/opencontent/objects/7efa7f47-f09e-560a-a4dc-4819ee8e9931&operation=CROP&offset=0x44&resize=1400x788"
+        width: 650
+        height: 366
         isCached: true
   - title: "Tesla finally releases 'Full Self-Driving' Beta version"
     excerpt: "Elon Musk-run Tesla on Saturday started releasing over-the-air software updates for its much-awaited \"Full Self-Driving\" Beta"

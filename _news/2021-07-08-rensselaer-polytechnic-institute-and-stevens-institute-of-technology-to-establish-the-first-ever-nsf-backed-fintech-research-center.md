@@ -104,15 +104,6 @@ related:
         width: 314
         height: 314
         isCached: true
-  - title: "How to find funding in the fintech space and what the Government can do to support the UK’s position"
-    excerpt: "Over the last decade, the UK has been undergoing a fintech revolution seeing increased opportunities in global trade, jobs, and innovation to become the global hub that it is today. Yet for many, the image of fintech is stuck in Shoreditch,"
-    publishedDateTime: 2021-07-07T19:18:00Z
-    webUrl: "https://www.finextra.com/blogposting/20566/how-to-find-funding-in-the-fintech-space-and-what-the-government-can-do-to-support-the-uks-position"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 0
 
 secured: "pZ+Vb+4wio3Wu4SNjfsgegglqMqX2GgydTHLKyAVSwNUEB/aMgjJPM6H1lJmsydOfdUnIB5czAVFU4j6/QgVTnFLgm7LV0k1dEZPv/Z4Dhg+a4w6FfWK5RBir46hMitSp+5T9mt3S0p3KFYHe77OaQ2nU2OEYitLM3lkOBh293Eki8b/GVe95VitFVjCP6Z5mS7Tkh6rvUswfDHbUZTkPDN6KJB4QmLE6kk/8pPWpDlkcKWtPkvJfTWc94u1cHnNRzSH8bv7G3xkhmSiZogcq68ASHOu2yp4Sz56AIjPNugwJtSOr8mt04rt95mAOhOdkwA60Q5nKU7HZF+vgXQWhNahRmfqpX4HCj0ivBFO44yYK72eFsdWeX/dXzZSan0/I8S/pMUF70iITBPv7b5M6PTlQlDYdsZWT5q3tQZB8kcA2g0gKzUdN6EsPldc8GV5yioChln6s5uVDxzmZXpiZ6V8pKt4W5yRZ0nRY2m8bOY+PWR2FavwvQNafS2BvV+TnYD42/M1gzgIg1x6NV+OyQ==;QKkWndhtADHhKSk4LkwGFw=="
 ---

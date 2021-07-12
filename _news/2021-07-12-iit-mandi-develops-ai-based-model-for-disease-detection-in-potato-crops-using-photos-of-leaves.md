@@ -58,6 +58,20 @@ related:
         width: 1000
         height: 667
         isCached: true
+  - title: "Scientists develops AI model to detect gravitational waves"
+    excerpt: "A team of computational scientists and researchers has developed a new artificial intelligence (AI) framework that allows for"
+    publishedDateTime: 2021-07-12T07:26:00Z
+    webUrl: "https://menafn.com/1102431633/Scientists-develops-AI-model-to-detect-gravitational-waves"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 39
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?237830"
+        width: 375
+        height: 250
+        isCached: true
 
 secured: "6RdjESDdeZiyeLPogl/8/JPl59EKvFOc6tRqtAT8OTCDGpJTgZMsMR29mI9z1ooeXTfTAfnRTBRHDR1kUJsiOH7WkHPNeSIhICfO7rtc5duVMjjMuoBMD4fPYfLJbF/Y6I/S3X8pJomTUiGTa8uxkS/EkRjkS/IO4k6UMStC3ATJwZAO3KzUr9rjwSOiTtl8qAvy5xkfiuamzT6wIwwzf3TbEssgTtU3aJkKumF0jkqqgMHHiWhMuhvE2npDBTZLu5FOWLejuQszzBQ0jPLsJjFf2HR5aJPl3AO4jFcjstyFHBHEFzVB4Xx12HhTrksVxxs9pIfDfmV7S0KLNlh4vU3VGX85aD+L5u41wazU0Tg=;KKf+dSDQ6hL2BQthDWRTWA=="
 ---

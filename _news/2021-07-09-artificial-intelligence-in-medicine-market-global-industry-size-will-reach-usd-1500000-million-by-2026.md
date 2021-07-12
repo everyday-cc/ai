@@ -1,27 +1,27 @@
 ---
 category: news
 title: "Artificial Intelligence in Medicine Market: Global Industry Size Will Reach USD 15,000.00 Million By 2026"
-excerpt: "Pages Report] According to the Facts and Factors research report, the global artificial intelligence in medicine market in 2019 was around USD 800.00 Million. The market"
-publishedDateTime: 2021-07-08T21:50:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/21/07/ab21907737/artificial-intelligence-in-medicine-market-global-industry-size-will-reach-usd-15-000-00-million-"
-webUrl: "https://www.benzinga.com/pressreleases/21/07/ab21907737/artificial-intelligence-in-medicine-market-global-industry-size-will-reach-usd-15-000-00-million-"
+excerpt: "Pages Report] According to the Facts and Factors research report, the global artificial intelligence in medicine market in 2019 was around USD 800.00 Million. The market is expected to grow at a CAGR of 49% and is anticipated to reach around USD 15,"
+publishedDateTime: 2021-07-08T21:58:00Z
+originalUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-in-medicine-market-global-industry-size-will-reach-usd-15000-00-million-by-2026"
+webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-in-medicine-market-global-industry-size-will-reach-usd-15000-00-million-by-2026"
 type: article
 quality: 22
 heat: 22
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: Digital Journal
+  domain: digitaljournal.com
 
 topics:
-  - AI
   - AI in Healthcare
+  - AI
 
 images:
-  - url: "https://cdn.benzinga.com/files/imagecache/og_image_social_share_1200x630/sites/all/themes/bz2/images/bz-icon.png"
-    width: 1200
-    height: 630
+  - url: "https://www.abnewswire.com/uploads/1625746947.jpeg"
+    width: 800
+    height: 465
     isCached: true
 
 related:
@@ -35,6 +35,6 @@ related:
       domain: arnnet.com.au
     quality: 15
 
-secured: "FtAZQCn5MCEoJnFP6FCVwzAhX0rWzO1BYI+U8hDlSl8fT1XLSGflC3vBTHJcO4Xg0PNKXPpwfP+08KxiIIIPYqMd8iewtu72wT7ijf4qmfkVw6CaNN/ZcTR4qvpmMf2j9N96syEv+Vbfw5Gdt0JG7/Go1/QSEcQIk0S2W+niOg4vlDjBoQ/YMTGix7i6k4GLBMpmbBZOSUarjn+XyBG9/XON2WGhVKqDDaUU7QAs921T5baKr2F5L/6N4+91khq/M0OxCMf6uQsAwxl43A858BUeesHBakGX1GT8NayeezoXjnBzGqziqR5XY6VPxOb556zeoyOPfimAOOW5BRXqvW8QxNn6YeJhPbRUh0dBH5s=;aKL2P0y0rHmBg4cZfsXsXg=="
+secured: "lfMcIrUWsNr4Ra3r5LGWzYp+L7Nd8eWgsefzyUZAuHm2eY7k5G+Lf2497V9ebSz1HZx4LXMw7Wvj+B6wuvcDFPpFLKu6AOiuOm///uIX1zF30JG40imNtOHmjrPSDDWBBU2Dyxq70UK7PctAtB1VfSynl1NcaXLXdyJLiSxW9XRPEXzIwybofsc+Nz2DgDUShvb+qPYA5HTe5u820TpQccaJgfNnaNwPw9YDUZ1nq1ClQrpfTlIc3HMg3K4dh2UwbW1H4cSMoW/hxlpVWl4RtgaWAturukCQo9hrrYo8N8E/c6UGadXy/SPpi2wKJllMJ23P2frBFKNfhrEmzm2HhGN17VoWzbJueso7VfMNLuA=;lg8KfIxYsIzkbvs8DuhVsQ=="
 ---
 

@@ -151,22 +151,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Tencent is now using facial recognition to stop children in China from gaming all night"
-    excerpt: "Late-night gaming sessions for Chinese children are going to be much harder now that Tencent, China's largest tech company, is using facial recognition to stop kids from gaming after bedtime. Announced in a press release yesterday,"
-    publishedDateTime: 2021-07-07T19:36:00Z
-    webUrl: "https://www.pcgamer.com/tencent-is-now-using-facial-recognition-in-china-to-stop-children-from-gaming-all-night/"
-    ampWebUrl: "https://www.pcgamer.com/amp/tencent-is-now-using-facial-recognition-in-china-to-stop-children-from-gaming-all-night/"
-    cdnAmpWebUrl: "https://www-pcgamer-com.cdn.ampproject.org/c/s/www.pcgamer.com/amp/tencent-is-now-using-facial-recognition-in-china-to-stop-children-from-gaming-all-night/"
-    type: article
-    provider:
-      name: PC Gamer
-      domain: pcgamer.com
-    quality: 51
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/8aD3McZbF9H7bJzZpUHXoU-480-80.jpg"
-        width: 480
-        height: 270
-        isCached: true
   - title: "Tencent will use facial recognition to restrict children from playing games late at night"
     excerpt: "Online gaming giant Tencent this week moved to close those loopholes by implementing facial verification checks on anyone playing with an adult ID after the curfew. Tencent also s"
     publishedDateTime: 2021-07-08T10:05:00Z
@@ -363,6 +347,6 @@ related:
         height: 628
         isCached: true
 
-secured: "W/CRHuq3VrerlkLHTRVB5BwJ/eMRpWMJseemj73q/XKAxVfaMwRqyAglEXs92kiwub11a7cF2QLjUiHaiJX+yBQoGRUifyNfOX2w0C8IYoEUOBKu5eQIFYQEyEG3pRMrv+j12W6JGDn5E6CeL2/sKXn0lsXx7SoIXPEqfQxwZQ/nclcqXc7EA8JyEULBB7iS0nwlAVtVeNOPG1i/F3fMXk1qCdHd8VSL+JsRqrUuKfdSn7g6cQZKbXffhfAcbF86utRbPhmSQZspQ1gWVaUulKXLWoA5/DwfIAf/8BAgdkNxS+kbZ+iVzin+lK8nj4yT141V2A9chUVeAvf7Op81/RD1FKHaPoDNJWyoIDLFYvM=;QWvyH2T1Xta+w5C4cvD75w=="
+secured: "L/ovNyLNdGs7DtRa35VPOPUCnvwByRkLnaYnC/PSBmEPFFkt/yM5oMCOZwHars2CaL8UPzn0jlqwENL+ma3S0ZHZxVe2Dxs30Ngz4YFDsawGV47H6M7sXusnETkjlrxbopkzwKgww2bTLF40lCyyqn2G/6KZP6z0Apuqahy5RMPq6/MDP7+TZ4fK5tWxegKj24lQjLfbC9mdZH/TaWNufGAiDK2qZNtvt5/dXpKerOpCvKLaXNv1BnH4VsZNK9H65zJ7oPKY6uW4rZMzXhms6QGUpogSSQ1xibS6wflq8AcHcFMIZuo/6cyoCESTeppfOOgexg0GG4TqTiS5osL1XAhJII4H10RfT/LlKsA2xOnNOMH3uTf86KBUzXaqdse83Mo9Y/jHux6wrobwV0COOI50//Sn4bHwMCjTZtTRreywM4eX9jJPu4J2fTk8+QWfT//EnkiAdX4EXgaIvqgIbM2I543cnO2mAnbbAY34a1BI/Oj4e13pm1fciyo1k727JHz2LDpdXTnGYAt1E2iLwA==;w3eHP0zUcP0TZ+sIDcc4BQ=="
 ---
 

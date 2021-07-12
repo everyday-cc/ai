@@ -90,15 +90,6 @@ related:
         width: 314
         height: 314
         isCached: true
-  - title: "How to find funding in the fintech space and what the Government can do to support the UK’s position"
-    excerpt: "Over the last decade, the UK has been undergoing a fintech revolution seeing increased opportunities in global trade, jobs, and innovation to become the global hub that it is today. Yet for many, the image of fintech is stuck in Shoreditch,"
-    publishedDateTime: 2021-07-07T19:18:00Z
-    webUrl: "https://www.finextra.com/blogposting/20566/how-to-find-funding-in-the-fintech-space-and-what-the-government-can-do-to-support-the-uks-position"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 0
   - title: "Rensselaer Polytechnic Institute and Stevens Institute of Technology To Establish the First-Ever NSF-Backed Fintech Research Center"
     excerpt: "Rensselaer Polytechnic Institute and Stevens Institute of Technology announced today that they have been awarded the first-ever National Science Foundation (NSF) grant to create an industry-university cooperative research center devoted specifically to financial technology and science."
     publishedDateTime: 2021-07-08T15:22:00Z

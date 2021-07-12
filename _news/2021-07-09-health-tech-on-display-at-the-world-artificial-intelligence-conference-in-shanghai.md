@@ -35,11 +35,27 @@ related:
     provider:
       name: InfoWorld
       domain: infoworld.com
-    quality: 87
+    quality: 89
     images:
       - url: "https://images.idgesg.net/images/article/2020/04/abstract_network_connections_conceptually_layered_with_a_city_skyline_and_virtual_globe_by_cofotoisme_gettyimages-1155123985_2400x1600-100839690-large.jpg"
         width: 1200
         height: 800
+        isCached: true
+  - title: "The smart role of Artificial Intelligence in today’s world"
+    excerpt: "Artificial Intelligence (AI) has been redefining society in ways we have never anticipated. Technology is clinging to us in every walk of our lives, right from unlocking our smartphones to our day-to-day activities,"
+    publishedDateTime: 2021-07-12T05:38:00Z
+    webUrl: "https://bloncampus.thehindubusinessline.com/engineering/the-smart-role-of-artificial-intelligence-in-todays-world/article35273643.ece"
+    ampWebUrl: "https://bloncampus.thehindubusinessline.com/engineering/the-smart-role-of-artificial-intelligence-in-todays-world/article35273643.ece/amp/"
+    cdnAmpWebUrl: "https://bloncampus-thehindubusinessline-com.cdn.ampproject.org/c/s/bloncampus.thehindubusinessline.com/engineering/the-smart-role-of-artificial-intelligence-in-todays-world/article35273643.ece/amp/"
+    type: article
+    provider:
+      name: Business Line
+      domain: thehindubusinessline.com
+    quality: 61
+    images:
+      - url: "https://bloncampus.thehindubusinessline.com/engineering/article35273642.ece/ALTERNATES/LANDSCAPE_615/blocAImachine-learning"
+        width: 615
+        height: 384
         isCached: true
   - title: "Booz Allen backs AI, machine learning software startup"
     excerpt: "Booz Allen Hamilton puts its technology scouting function to work by investing in an emerging startup company focused on making software for artificial intelligence and machine learning functions."

@@ -38,20 +38,6 @@ related:
         width: 400
         height: 267
         isCached: true
-  - title: "Visionary Trio Creates Next Gen Video and Image Annotation Platform for Machine Learning"
-    excerpt: "The Innotescus co-founders spent years building custom software to collect and analyze complex image data to train machine learning algorithms. This development work required lots of annotated ..."
-    publishedDateTime: 2021-07-07T19:36:00Z
-    webUrl: "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1195940&cat=PR News Wire"
-    type: article
-    provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 30
-    images:
-      - url: "https://mma.prnewswire.com/media/1551990/Shashank_Chris_Rob.jpg"
-        width: 400
-        height: 267
-        isCached: true
 
 secured: "CtpknmDVJleF1vVgtVo7cqnCXOMTCGtqXu32uqXvJrzb2XGkm7mHlJFGYfGgYYhosRffUjxjrsXWWYA7hSJDkKZf0mpObOnHOlDjHV6qm+o2FdddXI2hT1sGFkjgSljHjhHSdATV3BVDXGlpGS9HvVTnrAEhm+Rp1P4/E8xRKnsbCZgPzLtKCaEkE39fESLP84Tvq2G/PMrqhy96d7YeIQHDIUU1QM4U8+7H2QttwkJs9Wbq42Hc0UlePn86EKdG0CH/tb1H8h9qfJMgezr6GToH1KmQ9Kqok+kY4x8Mo7hwxvLuAEpQWvwZOhqBMeZ8sVCFp5pCIIzNmciLVm6nZgZi2YgL1zxu3uLmlntMgnU=;AJgIAEm2mU+PqcMgStRcUg=="
 ---

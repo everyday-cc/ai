@@ -8,8 +8,8 @@ webUrl: "https://www.infoworld.com/article/3624700/5-ai-startups-out-to-change-t
 ampWebUrl: "https://www.infoworld.com/article/3624700/5-ai-startups-out-to-change-the-world.amp.html"
 cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3624700/5-ai-startups-out-to-change-the-world.amp.html"
 type: article
-quality: 87
-heat: 117
+quality: 89
+heat: 129
 published: true
 
 provider:
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://images.idgesg.net/images/article/2020/04/abstract_network_connections_conceptually_layered_with_a_city_skyline_and_virtual_globe_by_cofotoisme_gettyimages-1155123985_2400x1600-100839690-large.jpg"
@@ -30,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "The smart role of Artificial Intelligence in today’s world"
+    excerpt: "Artificial Intelligence (AI) has been redefining society in ways we have never anticipated. Technology is clinging to us in every walk of our lives, right from unlocking our smartphones to our day-to-day activities,"
+    publishedDateTime: 2021-07-12T05:38:00Z
+    webUrl: "https://bloncampus.thehindubusinessline.com/engineering/the-smart-role-of-artificial-intelligence-in-todays-world/article35273643.ece"
+    ampWebUrl: "https://bloncampus.thehindubusinessline.com/engineering/the-smart-role-of-artificial-intelligence-in-todays-world/article35273643.ece/amp/"
+    cdnAmpWebUrl: "https://bloncampus-thehindubusinessline-com.cdn.ampproject.org/c/s/bloncampus.thehindubusinessline.com/engineering/the-smart-role-of-artificial-intelligence-in-todays-world/article35273643.ece/amp/"
+    type: article
+    provider:
+      name: Business Line
+      domain: thehindubusinessline.com
+    quality: 61
+    images:
+      - url: "https://bloncampus.thehindubusinessline.com/engineering/article35273642.ece/ALTERNATES/LANDSCAPE_615/blocAImachine-learning"
+        width: 615
+        height: 384
+        isCached: true
   - title: "Booz Allen backs AI, machine learning software startup"
     excerpt: "Booz Allen Hamilton puts its technology scouting function to work by investing in an emerging startup company focused on making software for artificial intelligence and machine learning functions."
     publishedDateTime: 2021-07-12T10:21:00Z
@@ -73,6 +90,6 @@ related:
         height: 1080
         isCached: true
 
-secured: "p6xI/sRADWJhd5LX2VIWLbsMNi5/x8b7w9E0U00f4wXgA61XcJV1BE78m8BJ0ZL1ZSXgqWcTK6d7Si5BlxjYRiljwp4nzH3kzUrY02ZMPk57tPTachZD5PogaiiXfmA59kiGHJjmnKKuvwZ6zFnTI7CcE+dFeAnVsbpH/f8qaS9JXzsRWy7EnifcSkOnhC5QJvzhCjwSo2HmBbhFv5ATSedG8iczPKIuMCSF/mBBju60FPh1mvL54PHq6wvdR6Tf//yUc2ZH8+qxifxCRRftL+gO1tzubnT2JunNr+NKpFuQGE+yPFzXjR59U6lkVb49Ch2PawiL1fWy1BQSgYPHCqk+EE1XG840VeD2dazVObM=;kAybLq2IPioiEIu+hwQdcQ=="
+secured: "kkYhFtdw+Fb9UaOdwFwOvJHxDaoaTnFtyrTOPeCPKSedvt+pFjr27JJLGJaiPJdAxIiaRa4EMhbYFJ5eq2hVRANg9zXBf8hUxXfzNrEbwx9R3lySoBcgdWDPw3nOplP/b2VnZNpLwne9i8cWeKo2VHFz+DWnXsGO7LEtLOLjjcgGWnXXf25FyK5tBkuY1inDc/CtDLVDO8HAHzn2g5KDVPR3amfrBJkzfYvwNA2NxAX+OiBiHFmw9lg+kg/OBM2uA2iyJ+4SuiJ7JvjBT2kGsKZ+z4ttZqBTBHK138yOH+fjGCn4551XdzPMrxUmdXMWg8ewijXRnekWifbfXSeDA0/YZ7/1itzFAu4ghGEfNAaOopMHKS/AdhCCR/PVa0VwfuIq5ys4vROfwuGyTlDfWR8NjH2RXAEwjbk8ks3tN0T6Lpl/61mbH4JqkMbC3Obmfh32EfAEINPkeUs7Wrckf394tookQJwtNq03zrpV+US1BTxJN7Y3COmHJqTPurKnshnz0VuRy/9xgK4Q6Yx4+w==;S29jLLWOE+GUeh7TpAhgBg=="
 ---
 

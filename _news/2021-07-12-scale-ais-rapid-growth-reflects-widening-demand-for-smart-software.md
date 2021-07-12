@@ -8,8 +8,8 @@ webUrl: "https://www.wsj.com/articles/scale-ais-rapid-growth-reflects-widening-d
 ampWebUrl: "https://www.wsj.com/amp/articles/scale-ais-rapid-growth-reflects-widening-demand-for-smart-software-11626082201"
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/scale-ais-rapid-growth-reflects-widening-demand-for-smart-software-11626082201"
 type: article
-quality: 89
-heat: 89
+quality: 87
+heat: 97
 published: true
 
 provider:
@@ -21,7 +21,6 @@ provider:
       height: 50
 
 topics:
-  - AI in Robotics
   - AI
 
 images:
@@ -30,6 +29,19 @@ images:
     height: 640
     isCached: true
 
-secured: "y27iEnkddfnp3ZA+4MazG7XKk6w6nkPNx8DQoXYtfUevw4+ZMAmFuOfU/pAAL1Il0q5g628dC6lfleZNnWRSrYsCmzgdtN1hqq9yL9bp4LegMFnxri8JvuzKexh+3Y7I+6IXkXcC2B3qqXxWutyytA4oROJTHT2AUK6o9Mqh8iWe7dbDB8pRYcaJogMNNtbW4lLDaXfTu8igqdks+uozoUSr5sL5MYrvzUgahSkGHn+XajMQL9nki7puwsP+dMQjMSefwfbt5hwyzNGECHOQdjrijyXwViJ+8PhOWw72m1yECwcoiX4ij4jlBO4IzPFHvGaqWWOB/KSsF1fTtBkgk38YX/MMjUVtITi37NYF6DA=;gVIsUAH4jtX/2Idjr3S1jg=="
+related:
+  - title: "Artificial Intelligence in Gaming Market Analysis By Industry Size, Share, Revenue Growth and Demand Forecast To 2027"
+    excerpt: "The rise of artificial intelligence is an equally important stepping stone to developing smarter, more interactive, and as realistic as possible games. Whether it's racing car games, shooting games, or strategy games, most video games all have different ..."
+    publishedDateTime: 2021-07-12T12:06:00Z
+    webUrl: "https://www.openpr.com/news/2326368/artificial-intelligence-in-gaming-market-analysis-by-industry"
+    ampWebUrl: "https://www.openpr.com/amp/2326368/artificial-intelligence-in-gaming-market-analysis-by-industry"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2326368/artificial-intelligence-in-gaming-market-analysis-by-industry"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 14
+
+secured: "74s6E4NMXdXRHFkPuIlCRShARaMMmQw1VeFPKxtit4iq36y+1wHSlkBISgwwJdU8/rNUUCKS7ipDVnK/l31YASlIWBuBMLUEGaQmMdvZeLyA1CbfCnju0oS55xFm2B6NHHP0NxSGZ0mLUrTzTwLUumyR3P55ZYI5oFwCiAJGu2N9tn4tRWzsPLQjX8RQ6Ts2iNjoHANNvts2C0nwhqnhyDtWLub44BKR/fRYhIbXN+kNcNdEjhP6Ze4B/uk8+2MGbIjoAr5w/iQs5wTFznu8C5agiESfHnsjqmBVrx+pR2RRVWhoX3KHFRFZDvAEqE42eGRYfi9xp/074gAOeehslX9ZhCI6Mdas1ax1a22oKf8=;pA8XE5a1ElKM65RraJicBw=="
 ---
 

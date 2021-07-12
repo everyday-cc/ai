@@ -44,22 +44,6 @@ related:
         width: 1200
         height: 960
         isCached: true
-  - title: "The smart role of Artificial Intelligence in today’s world"
-    excerpt: "Artificial Intelligence (AI) has been redefining society in ways we have never anticipated. Technology is clinging to us in every walk of our lives, right from unlocking our smartphones to our day-to-day activities,"
-    publishedDateTime: 2021-07-12T05:38:00Z
-    webUrl: "https://bloncampus.thehindubusinessline.com/engineering/the-smart-role-of-artificial-intelligence-in-todays-world/article35273643.ece"
-    ampWebUrl: "https://bloncampus.thehindubusinessline.com/engineering/the-smart-role-of-artificial-intelligence-in-todays-world/article35273643.ece/amp/"
-    cdnAmpWebUrl: "https://bloncampus-thehindubusinessline-com.cdn.ampproject.org/c/s/bloncampus.thehindubusinessline.com/engineering/the-smart-role-of-artificial-intelligence-in-todays-world/article35273643.ece/amp/"
-    type: article
-    provider:
-      name: Business Line
-      domain: thehindubusinessline.com
-    quality: 61
-    images:
-      - url: "https://bloncampus.thehindubusinessline.com/engineering/article35273642.ece/ALTERNATES/LANDSCAPE_615/blocAImachine-learning"
-        width: 615
-        height: 384
-        isCached: true
   - title: "Advances in application of Artificial Intelligence"
     excerpt: "Scientists have recorded major breakthroughs in the application of Artificial Intelligence (AI) in health, weather forecasting and other areas of science."
     publishedDateTime: 2021-07-08T04:11:00Z

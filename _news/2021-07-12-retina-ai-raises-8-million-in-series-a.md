@@ -7,7 +7,7 @@ originalUrl: "https://labusinessjournal.com/news/2021/jul/12/retina-ai-raises-8m
 webUrl: "https://labusinessjournal.com/news/2021/jul/12/retina-ai-raises-8m-series-a/"
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
@@ -24,20 +24,31 @@ images:
     isCached: true
 
 related:
-  - title: "Chinese AI Platform Xiaoice Banks USD1 Billion in Series A Fundraiser, Led by Hillhouse Capital"
-    excerpt: "Chinese artificial intelligence platform Xiaoice has secured USD1 billion in a Series A fundraiser, led by Hillhouse Capital Group. Hedge fund manager Neumann Advisors, IDG Capital, 5Y Capital also joined pre-A-round investors Northern Light Venture and NetEase Capital in the Series A round,"
-    publishedDateTime: 2021-07-12T09:37:00Z
-    webUrl: "https://www.yicaiglobal.com/news/chinese-ai-platform-xiaoice-banks-usd1-billion-in-series-a-fundraiser-led-by-hillhouse-capital"
+  - title: "From One Of A Million To One In A Million: The Path To Customization Passes Through AI And Automation"
+    excerpt: "Consumers like to have an active role in shaping the products they want, and they are getting more comfortable buying online. Consequently, more and more manufacturers are joining the mass-customization bandwagon."
+    publishedDateTime: 2021-07-12T13:00:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/07/12/from-one-of-a-million-to-one-in-a-million-the-path-to-customization-passes-through-ai-and-automation/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/07/12/from-one-of-a-million-to-one-in-a-million-the-path-to-customization-passes-through-ai-and-automation/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/07/12/from-one-of-a-million-to-one-in-a-million-the-path-to-customization-passes-through-ai-and-automation/amp/"
     type: article
     provider:
-      name: Yicai Global
-      domain: yicaiglobal.com
-    quality: 25
+      name: Forbes
+      domain: forbes.com
+    quality: 72
     images:
-      - url: "http://img.yicaiglobal.com/cdn/news/chinese-ai-platform-xiaoice-banks-usd1-billion-in-series-a-fundraiser-led-by-hillhouse-capital/14731056473702400.jpg"
-        width: 720
-        height: 480
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60e8748bf489a7d3269b52bd%2F0x0.jpg"
+        width: 1200
+        height: 899
         isCached: true
+  - title: "NNSA leads national collaboration to drive next-generation in AI for nonproliferation"
+    excerpt: "Within NNSA, the Office of Defense Nuclear Nonproliferation Research and Development (DNN R&D) is spearheading collaborative efforts to drive advances in the science of artificial intelligence (AI), and accelerate the adoption of AI-enabled technologies to solve difficult and pressing nuclear nonproliferation and national security challenges."
+    publishedDateTime: 2021-07-09T00:00:00Z
+    webUrl: "https://www.energy.gov/nnsa/articles/nnsa-leads-national-collaboration-drive-next-generation-ai-nonproliferation"
+    type: article
+    provider:
+      name: Energy Department
+      domain: energy.gov
+    quality: 10
 
 secured: "jQe8do9OkPNRjSnvkYbso02+sixCj4Hd0MfIKNmKd6eBM8De/5pt3WANUipSP9/9pgF34ozFD50US6dDZRePs0q9GRLKHmiwDI6/8d/Tf7zS5PSfbx/m0dG1MLVU0qCLSFU7TII+gr4cZaTR5uLdT82cboqXPUaV6KcQMoJ0UIGZNcJrEzU3qPOnsWI2/uN88yPx/r6Csou63DMX818PFu9Hr1i//3cz/q1Fd6PJl/dDuxEkvrV7J5eZKsgCszjP0wZDf5l0mqyUzVT/m/rCxwkVBlXPN3m0u0Voh+ziZui0JJ0N7cbbyynjype6qWT0UbRJMviQpQtSLiihJrXThMOjy8UA1xjZYH2jJK30feGP6xrxie7u09F5UEUtV937OUS1AxKeP0ZmaUmFlabxK18/jWGu3/jQ5B1rn15vSpb+qcKjpbCJTLjAiutAKc25zPW/78sJpZ7i65cCrmD5rHoCNcUTt/ROvADqYpg1xdiG1aoG+7tFpSdUnOLeH52htyes3bWRkp+gjPPTGRA8Yg==;Bx6MZYAsZBiTgEoO6cntkw=="
 ---

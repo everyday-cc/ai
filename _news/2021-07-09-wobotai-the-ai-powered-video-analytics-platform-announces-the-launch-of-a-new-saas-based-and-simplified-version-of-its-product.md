@@ -38,6 +38,20 @@ related:
         width: 305
         height: 320
         isCached: true
+  - title: "The Role of AR, VR, AI and Robotics in Future Conflicts"
+    excerpt: "The increasing importance of information in military and warfare is making digital technology and its applications, such as analytics, AI, and augmented reality, indispensable to the future of war."
+    publishedDateTime: 2021-07-12T13:29:00Z
+    webUrl: "https://www.bbntimes.com/politics/the-role-of-ar-vr-ai-and-robotics-in-future-conflicts"
+    type: article
+    provider:
+      name: bbntimes
+      domain: bbntimes.com
+    quality: 69
+    images:
+      - url: "https://www.bbntimes.com/images/articles/global-economy/The_Role_of_AR_VR_AI_and_Robotics_in_Future_Conflicts.jpg"
+        width: 1625
+        height: 1080
+        isCached: true
   - title: "What We’re Getting Wrong About Efficient AI Training at Scale"
     excerpt: "Famed computer architecture author, professor, and Google distinguished engineer Google, David Patterson, wants to set the record straight on common"
     publishedDateTime: 2021-07-09T18:38:00Z

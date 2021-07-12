@@ -26,19 +26,21 @@ images:
     isCached: true
 
 related:
-  - title: "Infrared cameras and artificial intelligence provide insight into boiling"
-    excerpt: "But “artificial intelligence is not limited by the speed or ... or layers of silicon dioxide nanoparticles. They trained a neural network on 85 percent of the data from the first three surfaces, then tested it on 15 percent of the data of those ..."
-    publishedDateTime: 2021-07-07T20:36:00Z
-    webUrl: "https://news.mit.edu/2021/infrared-cameras-artificial-intelligence-provide-insight-into-boiling-0707"
+  - title: "AI-enabled cameras witness a growth in the pandemic"
+    excerpt: "The Threat Detection Cameras to help Businesses and markets reopen safely. With services in over 21 countries, a computer vision AI brands, Integration Wizards Solution, has left no stone unturned when it comes to AI-enabled innovation in the field ..."
+    publishedDateTime: 2021-07-12T05:43:00Z
+    webUrl: "https://www.dqindia.com/ai-enabled-cameras-witness-growth-pandemic/"
+    ampWebUrl: "https://www.dqindia.com/ai-enabled-cameras-witness-growth-pandemic/amp/"
+    cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/ai-enabled-cameras-witness-growth-pandemic/amp/"
     type: article
     provider:
-      name: news
-      domain: mit.edu
-    quality: 68
+      name: Dataquest
+      domain: dqindia.com
+    quality: 59
     images:
-      - url: "https://news.mit.edu/sites/default/files/images/202106/MIT-SEM-boiling-surfaces.jpg"
-        width: 3750
-        height: 2500
+      - url: "https://www.dqindia.com/wp-content/uploads/2020/12/security-5043368_640.jpg"
+        width: 640
+        height: 381
         isCached: true
 
 secured: "hHRaURqoCpCIdaKBzdQpXxefyX1g6xKSQNb1lvp5docn0EMcLEoj/9r553aoyhzYLMKVHAAO1+yE8JZuxKo9/RN+wipHdwJne1rRVcCGFmKroUtldKU/XmWkALhB6WycZnqx3+L90IC2VlkcJdgH8iV5Nduw7bXya3tbH4Q3taNXA4nuN/mPE1zo7xeUrFL9JhwKjxNtE9xwlCa0D3LIK2CRtgr77wR87n6Mr+t7rJZ/8pceBCVhxyIF6RLlwtMVDe9bgAqEAKYZ6a3l4G7BDEoBnHkzidYeFIdA22D3qXpS18/OsksUWHcvErVfWZ4NziIVRqPBIIqCdieHpt0Shxs62MDVRtFsVMAuTVVFDDA+H29E2SZw6TwB3l4RVoJMyahDXrYsg5biGi0Mk476rxTyYqIj7IomtutZrjkpAX6+iGyCAW5ISOwwdu7Fbxrn8BKVvYnW2QESWHprE1aoKWv4ec/4bmUSZ0g6Prz/fGVhn40/h+ePECyDD6H3BAwgyd8k/Ksi7R8fGstUHEMCaA==;clgsbjAopFacHyR1i/orvw=="

@@ -3,23 +3,22 @@ category: news
 title: "Artificial Intelligence (AI) Market in Industrial Machinery Industry to grow by $ 458.68 million|Technavio"
 excerpt: "The artificial intelligence (AI) market in the agriculture industry market is set to grow by USD 458.68 million, progressing at a CAGR of"
 publishedDateTime: 2021-07-09T22:00:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/artificial-intelligence-ai-market-in-industrial-machinery-industry-to-grow-by-458-68-million-technavio/article_917a31d7-b21a-51c1-9005-9e2c9f9d1fb0.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/artificial-intelligence-ai-market-in-industrial-machinery-industry-to-grow-by-458-68-million-technavio/article_917a31d7-b21a-51c1-9005-9e2c9f9d1fb0.html"
+originalUrl: "https://www.troyrecord.com/news/national/artificial-intelligence-ai-market-in-industrial-machinery-industry-to-grow-by-458-68-million-technavio/article_25c3bf4e-291e-581e-9d99-f30a8b0173aa.html"
+webUrl: "https://www.troyrecord.com/news/national/artificial-intelligence-ai-market-in-industrial-machinery-industry-to-grow-by-458-68-million-technavio/article_25c3bf4e-291e-581e-9d99-f30a8b0173aa.html"
 type: article
-quality: 36
+quality: 34
 heat: -1
 published: false
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: Troy Record
+  domain: troyrecord.com
 
 topics:
-  - AI in Robotics
   - AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/8/63/8635831d-c3ca-5a24-b643-300bca1379fc/60e8c777dd85b.image.jpg?resize=1200%2C585"
+  - url: "https://bloximages.chicago2.vip.townnews.com/troyrecord.com/content/tncms/assets/v3/editorial/0/b6/0b6e2b92-6456-5b6a-b26e-f092a993135e/60e8cab506590.image.jpg?resize=1200%2C585"
     width: 1200
     height: 585
     isCached: true
@@ -117,6 +116,17 @@ related:
         width: 635
         height: 357
         isCached: true
+  - title: "Artificial Intelligence in Machine Learning Market 2021: Global Industry Analysis Report to 2027"
+    excerpt: "healthcare, retail, finance and manufacturing. However, while technology has always been a staple of these industries, artificial intelligence (AI) has brought technology to the center of organizations. (Get 15% Discount on Buying this Report) A full ..."
+    publishedDateTime: 2021-07-12T12:14:00Z
+    webUrl: "https://www.openpr.com/news/2326383/artificial-intelligence-in-machine-learning-market-2021"
+    ampWebUrl: "https://www.openpr.com/amp/2326383/artificial-intelligence-in-machine-learning-market-2021"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2326383/artificial-intelligence-in-machine-learning-market-2021"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 43
   - title: "Voice Recognition Market 2021 Comprehensive Analysis, Future Estimations, Growth Drivers and Forecast to 2030"
     excerpt: "Jul 09, 2021 (AmericaNewsHour) -- In a recent published report, Kenneth Research has updated the market report for Voice Recognition Market for 2021 till 2030. Report further now discusses; the various strategies to be adopted or being adopted by the ..."
     publishedDateTime: 2021-07-09T05:44:00Z
@@ -212,6 +222,6 @@ related:
         height: 400
         isCached: true
 
-secured: "FYNXdEkfmcMcM6N+lQ4eTdBB2+svCylIQEXNFLKqRG4Kh9rsCrucSfkJmBJWZIs5Wt0x0AoOx07/7k/AJ3lFerKtCoCJozRk8zOg9FvfA04rAJwQIaNWKapyPqES/6OcduaKQvThniQ6Xd0A/85h0Zgx2dd7gZhDfBrM36zKjg/oAFZitxOwWPW6F7G0Z0G2TAe8AnB3vJm22QB2qIxD267eDGUahl/DmZd3jxcQ+0oHlcM2pDChLpdsIfyo027BRGPygW7NNjEpBxAAk6LIIJfWaglyCmW5moFjcDWM1qXb1h1grJvv5HTZBE2ixLvpkU4teip030N+Z48tzlAY0ooGlPNLD2As998dOSUgVFqMgYNwfkPE7gSxOxgJV0dCKGsJo0Pz0NWq7kqUfPpdQr3Sm++umN/1fG4Q45I9cE1MWqqa5hEHf+fN6NsZAMW223axS6zyPVinr5jqp5r9wXJCwx5FmTPB3+/m4lpLxVNZJy0UrsAUDcc9ZepNlTQO/pYPYru8Vt/xjxexhHhITg==;fyaSgkl5uxC4rAYAZe04Yw=="
+secured: "lbv5JLlH6L1RSGcV22+YilEeYbYFCWveDAC0/GYv+Eq6TowjToQtX6KUzUb/XsXJJQhlzPVoUbhOxzKCGQyaHlwbmBZ/dJ/8o5VjnuTiYPPcUaHvVZQ4dgGE3fMF5mwH6lZSRQan6ym4npVPqV6oeDAg+TlFCKUIyQj1S7jG9TrpnmOGusPjmY9mT3zTh7SYSzOhh0E5F6iUKbhMkG2xgJdjmlP29RQBgXgYtFbloku6Seblzl+qk1jzcEhrufpL8bKF9KrDQhmlnI1c9Kz22xF9jKz4qW1oGMicWrvwau/xy7NwUWsYGTvImuP2Yd8V9wVDe97LCvV6bIAaBIvuAGqsKnTNR1MWo9cdrw0YI88=;OLr0cxRgJnhKS1KM8EjWtg=="
 ---
 
