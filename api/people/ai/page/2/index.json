@@ -4,6 +4,42 @@
   "page": 2,
   "value": [
     {
+      "path": "_people/andrew-moore.md",
+      "title": "Andrew Moore",
+      "excerpt": "Vice President, Google and head of Google Cloud AI. I love Algorithms, Systems, Machine Learning, AI.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/andrew-moore/index.json",
+      "webUrl": "https://everyday.cc/ai/people/andrew-moore/",
+      "type": "profile",
+      "name": "Andrew Moore",
+      "bio": "Vice President, Google and head of Google Cloud AI. I love Algorithms, Systems, Machine Learning, AI.",
+      "location": "Pittsburgh, PA",
+      "website": "http://www.cs.cmu.edu/~awm/",
+      "twitter": {
+        "username": "awmcmu",
+        "url": "https://twitter.com/awmcmu",
+        "followers": 6064
+      },
+      "linkedin": {
+        "url": "https://www.linkedin.com/in/andrew-moore-016b751"
+      },
+      "topics": [
+        "AI",
+        "Google AI",
+        "Machine Learning"
+      ],
+      "heat": 64,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/626157691828875264/tDZ-TLBp_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Andrew Moore",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
       "path": "_people/mariya-yao.md",
       "title": "Mariya Yao",
       "excerpt": "Editor-In-Chief @TOPBOTS. Former CTO @MetamavenAI. #AI #ML @Forbes writer, speaker, author @AppliedAIBook, maker of lovable #UX & crappy #bots",
@@ -16,7 +52,7 @@
       "twitter": {
         "username": "thinkmariya",
         "url": "https://twitter.com/thinkmariya",
-        "followers": 27970
+        "followers": 27969
       },
       "topics": [
         "AI"
@@ -161,7 +197,7 @@
       "twitter": {
         "username": "madelinegannon",
         "url": "https://twitter.com/madelinegannon",
-        "followers": 3110
+        "followers": 3109
       },
       "topics": [
         "AI",
@@ -193,7 +229,7 @@
       "twitter": {
         "username": "kaliouby",
         "url": "https://twitter.com/kaliouby",
-        "followers": 24169
+        "followers": 24170
       },
       "linkedin": {
         "url": "https://www.linkedin.com/in/kaliouby/"
@@ -642,7 +678,7 @@
       "twitter": {
         "username": "jakesearcy",
         "url": "https://twitter.com/jakesearcy",
-        "followers": 76
+        "followers": 77
       },
       "linkedin": {
         "url": "https://www.linkedin.com/in/jacob-searcy-28819b51/"
@@ -1098,41 +1134,6 @@
           "width": 128,
           "height": 84,
           "title": "Luc Van Gool",
-          "isCached": false
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_people/lydia-e-kavraki.md",
-      "title": "Lydia E. Kavraki",
-      "excerpt": "DescriptionLydia E. Kavraki is a Greek-American computer scientist, the Noah Harding Professor of Computer Science, a professor of bioengineering, electrical and computer engineering, and mechanical engineering at Rice University. She is also the director of the Ken Kennedy Institute at Rice University.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/lydia-e-kavraki/index.json",
-      "webUrl": "https://everyday.cc/ai/people/lydia-e-kavraki/",
-      "type": "profile",
-      "name": "Lydia E. Kavraki",
-      "bio": "DescriptionLydia E. Kavraki is a Greek-American computer scientist, the Noah Harding Professor of Computer Science, a professor of bioengineering, electrical and computer engineering, and mechanical engineering at Rice University. She is also the director of the Ken Kennedy Institute at Rice University.",
-      "googleScholar": {
-        "url": "https://scholar.google.com/citations?user=Q6pxNZYAAAAJ",
-        "citations": 30580
-      },
-      "wikipedia": {
-        "url": "https://en.wikipedia.org/wiki/Lydia_Kavraki"
-      },
-      "affiliation": {
-        "path": "",
-        "name": "rice.edu",
-        "domain": "rice.edu"
-      },
-      "topics": [
-        "AI"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://scholar.google.com/citations?view_op=medium_photo&user=Q6pxNZYAAAAJ&citpid=2",
-          "width": 246,
-          "title": "Lydia E. Kavraki",
           "isCached": false
         }
       ],
