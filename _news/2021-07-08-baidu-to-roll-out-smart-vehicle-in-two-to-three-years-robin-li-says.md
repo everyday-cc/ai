@@ -41,20 +41,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Under pressure, Baidu and Tencent tout contributions to China"
-    excerpt: "Baidu CEO Robin Li said in a keynote speech ... announced that his company had begun developing 7-nm chips for self-driving technology. Cambricon produces chips that power AI vital to cloud ..."
-    publishedDateTime: 2021-07-08T18:10:00Z
-    webUrl: "https://asia.nikkei.com/Business/China-tech/Under-pressure-Baidu-and-Tencent-tout-contributions-to-China"
-    type: article
-    provider:
-      name: NIKKEI
-      domain: nikkei.com
-    quality: 39
-    images:
-      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%253A%252F%252Fs3-ap-northeast-1.amazonaws.com%252Fpsh-ex-ftnikkei-3937bb4%252Fimages%252F6%252F8%252F4%252F2%252F35212486-3-eng-GB%252FCropped-16257622402020-07-09T000000Z_168242707_RC2PPH9GMNYR_RTRMADP_3_CHINA-TECH.JPG?width=1024&height=512&fit=cover&gravity=faces&source=nar-cms"
-        width: 1024
-        height: 512
-        isCached: true
   - title: "AI is the Transformative Force Revolutionizing Future Human Development Over the Next 40 Years, Says Baidu CEO Robin Li at WAIC 2021"
     excerpt: "Baidu's chief says technological advancements can spur the gradual restoration of humanity to become a low-carbon societyThe importance of AI extends beyond economic growth, its true contribution towa"
     publishedDateTime: 2021-07-08T11:00:00Z

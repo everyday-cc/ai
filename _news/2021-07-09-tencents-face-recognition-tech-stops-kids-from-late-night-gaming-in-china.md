@@ -28,6 +28,22 @@ images:
     isCached: true
 
 related:
+  - title: "Tencent uses facial recognition to stop kids from gaming at night"
+    excerpt: "Chinese technology and media company Tencent has revealed that it is now using facial recognition technology to stop kids in China from spending their late night hours on mobile games. In a social media post on the Chinese platform QQ,"
+    publishedDateTime: 2021-07-12T08:55:00Z
+    webUrl: "https://sea.mashable.com/tech/16612/tencent-uses-facial-recognition-to-stop-kids-from-gaming-at-night"
+    ampWebUrl: "https://sea.mashable.com/tech/16612/tencent-uses-facial-recognition-to-stop-kids-from-gaming-at-night?amp=1"
+    cdnAmpWebUrl: "https://sea-mashable-com.cdn.ampproject.org/c/s/sea.mashable.com/tech/16612/tencent-uses-facial-recognition-to-stop-kids-from-gaming-at-night?amp=1"
+    type: article
+    provider:
+      name: Mashable
+      domain: mashable.com
+    quality: 89
+    images:
+      - url: "https://sm.mashable.com/t/mashable_sea/photo/default/tencent-china-kids-facial-recognition-gaming-header_9zph.620.png"
+        width: 620
+        height: 310
+        isCached: true
   - title: "Tencent Games uses facial recognition to restrict children’s screen time."
     excerpt: "The Chinese internet conglomerate Tencent said this week that it would deploy facial recognition technology in its video games in an attempt to close a loophole in restrictions aimed at limiting screen time."
     publishedDateTime: 2021-07-09T11:56:00Z
@@ -108,22 +124,6 @@ related:
         width: 1450
         height: 850
         isCached: true
-  - title: "Tencent uses facial recognition tool to stop kids playing video games at night"
-    excerpt: "Chinese publisher Tencent has started using its Midnight Patrol system to check for children playing video games when they shouldn’t."
-    publishedDateTime: 2021-07-07T16:44:00Z
-    webUrl: "https://metro.co.uk/2021/07/07/facial-recognition-tool-used-to-stop-kids-playing-video-games-at-night-14891074/"
-    ampWebUrl: "https://metro.co.uk/2021/07/07/facial-recognition-tool-used-to-stop-kids-playing-video-games-at-night-14891074/amp/"
-    cdnAmpWebUrl: "https://metro-co-uk.cdn.ampproject.org/c/s/metro.co.uk/2021/07/07/facial-recognition-tool-used-to-stop-kids-playing-video-games-at-night-14891074/amp/"
-    type: article
-    provider:
-      name: Metro
-      domain: metro.co.uk
-    quality: 55
-    images:
-      - url: "https://metro.co.uk/wp-content/uploads/2021/07/111768008_honor.kings_.g-821d.jpg?quality=90&strip=all&zoom=1&resize=600%2C337"
-        width: 600
-        height: 337
-        isCached: true
   - title: "Tencent will use facial recognition to restrict children from playing games late at night"
     excerpt: "Online gaming giant Tencent this week moved to close those loopholes by implementing facial verification checks on anyone playing with an adult ID after the curfew. Tencent also s"
     publishedDateTime: 2021-07-08T10:05:00Z
@@ -162,6 +162,20 @@ related:
       - url: "https://newsstatic.rthk.hk/images/mfile_1599790_1_L_20210708123159.jpg"
         width: 1280
         height: 960
+        isCached: true
+  - title: "Under pressure, Baidu and Tencent tout contributions to China"
+    excerpt: "Baidu CEO Robin Li said in a keynote speech ... announced that his company had begun developing 7-nm chips for self-driving technology. Cambricon produces chips that power AI vital to cloud ..."
+    publishedDateTime: 2021-07-08T18:10:00Z
+    webUrl: "https://asia.nikkei.com/Business/China-tech/Under-pressure-Baidu-and-Tencent-tout-contributions-to-China"
+    type: article
+    provider:
+      name: NIKKEI
+      domain: nikkei.com
+    quality: 39
+    images:
+      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%253A%252F%252Fs3-ap-northeast-1.amazonaws.com%252Fpsh-ex-ftnikkei-3937bb4%252Fimages%252F6%252F8%252F4%252F2%252F35212486-3-eng-GB%252FCropped-16257622402020-07-09T000000Z_168242707_RC2PPH9GMNYR_RTRMADP_3_CHINA-TECH.JPG?width=1024&height=512&fit=cover&gravity=faces&source=nar-cms"
+        width: 1024
+        height: 512
         isCached: true
   - title: "Tencent To Use Facial Recognition So Kids Don’t Play Past Curfew"
     excerpt: "For adults, playing games when they want, wherever they want isn’t an issue. But in China, to help curb addiction, the country has a law that puts a"
@@ -260,6 +274,20 @@ related:
       - url: "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2021%2F07%2FTencent-Is-Using-Facial-Recognition-To-Monitor-Kids-Screen-Time-tw.jpg?w=960&cbr=1&q=90&fit=max"
         width: 960
         height: 480
+        isCached: true
+  - title: "China has long used facial recognition as a means of state control – now gamers are being targeted"
+    excerpt: "Tencent Gaming is using facial recognition tech to stop Chinese kids gaming at night. But is it a helpful public health exercise, or a more sinister attempt to control human behaviour?"
+    publishedDateTime: 2021-07-09T11:12:00Z
+    webUrl: "https://www.pinknews.co.uk/2021/07/09/chinese-facial-recognition-gaming/"
+    type: article
+    provider:
+      name: PinkNews
+      domain: pinknews.co.uk
+    quality: 25
+    images:
+      - url: "https://s31242.pcdn.co/wp-content/uploads/2021/07/GettyImages-857382022.jpg"
+        width: 1024
+        height: 628
         isCached: true
 
 secured: "od8m14GL4u9u+8AerkQvj0g41vMeZc6LJnrZHFT3VF3wKNKKeai5QlTfpSm6cr2sTmcr5Hl1jK+yYoHxFIHQU5LZAF6KL2P6OTrtXWyiGrWm84s4OQOomYs+NuK8rNUJok2EF9UJmpDGl2zdiQuvEDrPkWDicRd67XIKZPhlhTL6/S+kxbeex+Pu0COPJwNgdlL1H7O0S8AS/Agjc4OrJfSz5IW2S+o8LacMXhSmREbu9nadkCZRy3H+cRWeEqFtDygpuUQrXD5kGrM09VJmKsxFoFVkQcAAE4M0zLPZgrRwyE737ci4B5nUQWHq9OdFEmQNRAEKwBwuX3aSfPTyOw7l2WyznjKmDqgz1BnQK5/W10+oonJeGvLbANNOKE9SiAMa4hxMv/XYpICFxEM1ItxwpaTWDPXaTrJXAHXT0XSuYENNUFMOaFT3qprg+SCSgeHo5iSW5t3VhKug0KZ8CV/2MlnDtjIsIBdgEDZu6il2XsPBYxM/eyq0nfq+TM3MDEDmGr6A9BRk/NvbPt1+NA==;wXgG8sWy4pti+uVmkj5+hg=="

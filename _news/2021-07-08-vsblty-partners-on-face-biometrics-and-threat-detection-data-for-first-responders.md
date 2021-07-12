@@ -7,7 +7,7 @@ originalUrl: "https://www.biometricupdate.com/202107/vsblty-partners-on-face-bio
 webUrl: "https://www.biometricupdate.com/202107/vsblty-partners-on-face-biometrics-and-threat-detection-data-for-first-responders"
 type: article
 quality: 19
-heat: -1
+heat: 19
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 1600
     height: 1035
     isCached: true
-
-related:
-  - title: "Voice biometrics spoof detection catching up, EAB speaker says"
-    excerpt: "Voice biometric systems, counter-measures against attacks against them, and our understanding of how well those counter-measures work have come a long way."
-    publishedDateTime: 2021-07-09T18:02:00Z
-    webUrl: "https://www.biometricupdate.com/202107/voice-biometrics-spoof-detection-catching-up-eab-speaker-says"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 24
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2018/01/09162857/voice-biometrics-large2.jpg"
-        width: 900
-        height: 499
-        isCached: true
 
 secured: "a82PCLWhflAKFbksfcf1QFICGFOD74xIJMnJQlBZcAOrpmxkLA8ydpwr8wJTH988qABZ4HOB7P+T+iK5W28OjbOh5TNPE/zl7t8/B9in5hbA2/w9SEkIuOallYEtxz+mmBPPSyHHA9VRbUW7twYhQw3FQ9jMOsn0Jcq4ckgIXMjGjw8wSPjzFlZR8+5rzlxYnLU234G5/G3nGyAQels0ADFTXbFdxpeNrCNuzMA4cgxFOhrjQhYAMMRqyapnfPdwahNbKTkXNuSnGYTrl4pTrTg/G6FtHKUtwlbwFrVebq20kLKvUElNJAIRrh+Zn1U5oOy9Iy9/YsONoSDofoJXS7LTIJF/xYll9ruIIl7+Gqw=;1yaH+eUPa8WcSb30SKvVhg=="
 ---

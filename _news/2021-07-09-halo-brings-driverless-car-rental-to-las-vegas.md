@@ -3,8 +3,8 @@ category: news
 title: "Halo Brings Driverless Car Rental to Las Vegas"
 excerpt: "All-electric rental car startup Halo this week announced plans for an autonomous vehicle service in Las Vegas, powered by T-Mobile 5G. Halo, which has been test driving on Las Vegas public streets for months,"
 publishedDateTime: 2021-07-09T12:47:00Z
-originalUrl: "https://uk.pcmag.com/cars-auto/134405/halo-brings-driverless-car-rental-to-las-vegas"
-webUrl: "https://uk.pcmag.com/cars-auto/134405/halo-brings-driverless-car-rental-to-las-vegas"
+originalUrl: "https://in.pcmag.com/cars-auto/143638/halo-brings-driverless-car-rental-to-las-vegas"
+webUrl: "https://in.pcmag.com/cars-auto/143638/halo-brings-driverless-car-rental-to-las-vegas"
 type: article
 quality: 69
 heat: -1
@@ -23,7 +23,7 @@ topics:
   - AI
 
 images:
-  - url: "https://sm.pcmag.com/t/pcmag_uk/news/h/halo-bring/halo-brings-driverless-car-rental-to-las-vegas_w7ty.1200.jpg"
+  - url: "https://sm.pcmag.com/t/pcmag_in/news/h/halo-bring/halo-brings-driverless-car-rental-to-las-vegas_81gc.1200.jpg"
     width: 1200
     height: 675
     isCached: true
@@ -73,6 +73,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Halo and Las Vegas Launch Driverless Car Service Powered by T-Mobile 5G"
+    excerpt: "A driverless Halo then arrives at the pick ... safety hazard or system anomaly is detected. Using an advanced Artificial Intelligence algorithm, the car also learns in the background while humans ..."
+    publishedDateTime: 2021-07-08T13:35:00Z
+    webUrl: "https://www.register-herald.com/region/halo-and-las-vegas-launch-driverless-car-service-powered-by-t-mobile-5g/article_c8b4a658-af42-5b51-bf52-f8cb79cfbb24.html"
+    type: article
+    provider:
+      name: The Register-Herald
+      domain: register-herald.com
+    quality: 39
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/register-herald.com/content/tncms/assets/v3/editorial/3/50/3507b827-eab7-5aa7-9a74-200ce5f0f09e/60e6fac40a932.image.jpg?resize=992%2C630"
+        width: 992
+        height: 630
+        isCached: true
   - title: "T-Mobile’s 5G powers Halo’s driverless car service in Las Vegas"
     excerpt: "T-Mobile is driving home the point that it’s got a 5G network good enough to power one of the first commercial driverless car services in the U.S., with Halo running on T-Mobile’s 5G network in Las Vegas."
     publishedDateTime: 2021-07-08T13:15:00Z
@@ -115,16 +129,7 @@ related:
         width: 600
         height: 600
         isCached: true
-  - title: "Halo and Las Vegas Launch Driverless Car Service Powered by T-Mobile 5G"
-    excerpt: "Driverless Halos solve transportation challenges ... safety hazard or system anomaly is detected. Using an advanced Artificial Intelligence algorithm, the car also learns in the background while ..."
-    publishedDateTime: 2021-07-08T13:10:00Z
-    webUrl: "https://www.morningstar.com/news/business-wire/20210708005541/halo-and-las-vegas-launch-driverless-car-service-powered-by-t-mobile-5g"
-    type: article
-    provider:
-      name: Morningstar%2c Inc.
-      domain: morningstar.com
-    quality: 19
 
-secured: "6dyjHdixPc00FPMKNHctw5Lfl7vAbSW+ieI+C4MDusJpzcX60vmSeflj/Zc/JKW98prHPuC+8zxUd1T/fYdD+I3mB7qAxkmkjDwKjvJT7uiIyQPEyIEXZTp4cQ3jhb3RjnO5raUHDu7qbRX+Mrzf+ic3Y7QgJ1pxYDcv+yIbBZcpn9Ksd2Y9m0JOyMwxrI3CYJXQUl77BzH3A0HXtd7zq2La8t4QrLDTarPbLbWe9n5ISz9FrlU/mfxL+G8woH7tTNmN61VqM8dTJqpIXE8RkPLNW5SaqKxkeweHDYpz9O/RFROggBfEP/SmbSaJW7V0NiXHybNvj7csu5as5INUhWszPG1SPaxdaTXryOEQLR2njVAYZdK/ACZ7brIfBc7RYjWrwhassbvuXPaxwbubUgs8rv/JJUkcl2VjFVaL0nqAcP+oFS9IBxKziIQ9T/Jae4z60UEg/9GM85tEdQ8w8VLRyvtSxBFE7HanmzkBoADiQhSvPEkdFvV0Za6cRLXsm9fqt2ggOPx0wFg95e7hLw==;eOmVokmkj0UakyC+MMIhEQ=="
+secured: "whWOfU17mBf9xAs1t0W4uSAB+3vfwuM7NM20cUh2naww5OW/nm1MRU2y/HmAQq0Xu1O0p7wC8dwKeuspgpRZaKUllvmhq0Vl0OKwWLGMsqDFKwPmtNbgXil/uwdWSPLNhpF4E/XwqxRxG1v1z/ejaG18ZyxQMb8XvjOSqtFOeteIok+uDhqhh+aJ8u0oDl/xPej0IjBPXUugLQ5xN+eDQbfc1ZVjAZdAn9Fh9P0GQQwE+6ek8FCJfiGpjuRL6Y2RXm9aDfo94WzbaLjK1/4fQIwtvSkItBokCfnqcaq/IgjNWq8TeFNEJSpoqAPszvuCpo84SR9fQZf2nEO35R4R8CNjOHON86VEvLBmKNbBlwY=;7Ey+dbygifjPtsq7HPbK2Q=="
 ---
 

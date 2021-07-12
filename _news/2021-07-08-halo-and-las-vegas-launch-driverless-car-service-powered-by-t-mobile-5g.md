@@ -1,22 +1,28 @@
 ---
 category: news
 title: "Halo and Las Vegas Launch Driverless Car Service Powered by T-Mobile 5G"
-excerpt: "Driverless Halos solve transportation challenges ... safety hazard or system anomaly is detected. Using an advanced Artificial Intelligence algorithm, the car also learns in the background while ..."
-publishedDateTime: 2021-07-08T13:10:00Z
-originalUrl: "https://www.morningstar.com/news/business-wire/20210708005541/halo-and-las-vegas-launch-driverless-car-service-powered-by-t-mobile-5g"
-webUrl: "https://www.morningstar.com/news/business-wire/20210708005541/halo-and-las-vegas-launch-driverless-car-service-powered-by-t-mobile-5g"
+excerpt: "A driverless Halo then arrives at the pick ... safety hazard or system anomaly is detected. Using an advanced Artificial Intelligence algorithm, the car also learns in the background while humans ..."
+publishedDateTime: 2021-07-08T13:35:00Z
+originalUrl: "https://www.register-herald.com/region/halo-and-las-vegas-launch-driverless-car-service-powered-by-t-mobile-5g/article_c8b4a658-af42-5b51-bf52-f8cb79cfbb24.html"
+webUrl: "https://www.register-herald.com/region/halo-and-las-vegas-launch-driverless-car-service-powered-by-t-mobile-5g/article_c8b4a658-af42-5b51-bf52-f8cb79cfbb24.html"
 type: article
-quality: 19
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: Morningstar%2c Inc.
-  domain: morningstar.com
+  name: The Register-Herald
+  domain: register-herald.com
 
 topics:
   - AI in Autos
   - AI
+
+images:
+  - url: "https://bloximages.chicago2.vip.townnews.com/register-herald.com/content/tncms/assets/v3/editorial/3/50/3507b827-eab7-5aa7-9a74-200ce5f0f09e/60e6fac40a932.image.jpg?resize=992%2C630"
+    width: 992
+    height: 630
+    isCached: true
 
 related:
   - title: "Halo launches driverless car service in Las Vegas"
@@ -38,14 +44,14 @@ related:
   - title: "Halo Brings Driverless Car Rental to Las Vegas"
     excerpt: "All-electric rental car startup Halo this week announced plans for an autonomous vehicle service in Las Vegas, powered by T-Mobile 5G. Halo, which has been test driving on Las Vegas public streets for months,"
     publishedDateTime: 2021-07-09T12:47:00Z
-    webUrl: "https://uk.pcmag.com/cars-auto/134405/halo-brings-driverless-car-rental-to-las-vegas"
+    webUrl: "https://in.pcmag.com/cars-auto/143638/halo-brings-driverless-car-rental-to-las-vegas"
     type: article
     provider:
       name: PC Magazine
       domain: pcmag.com
     quality: 69
     images:
-      - url: "https://sm.pcmag.com/t/pcmag_uk/news/h/halo-bring/halo-brings-driverless-car-rental-to-las-vegas_w7ty.1200.jpg"
+      - url: "https://sm.pcmag.com/t/pcmag_in/news/h/halo-bring/halo-brings-driverless-car-rental-to-las-vegas_81gc.1200.jpg"
         width: 1200
         height: 675
         isCached: true
@@ -120,6 +126,6 @@ related:
         height: 600
         isCached: true
 
-secured: "TwqNOKJJ/5HNX74ekzbQhA9Qul5ccYqDYjQwmpvrB6QmCbc89KDumQSRUD4PLFcd4Xghi/Be7fVwP7fTAtIf2Qy5pejDYAmyLjaf6xE5FYkzu2m3kXaXlA+9yZLszcHRgcUbboHNSkfKi8R4Joq90aLbtpVbkVtc8FqrZKoteve5qRhE8W7EIlrMml48oztDM7V4QuJebs7wUyYypmjuBMeLFqx2JPcHDLeISHyF5XTPgBe+EivqKltH2vffE1mJmSDzMRsMXZJUSQ2vWF0Bezj5h+WYZsV6zArSWPg/s13irIjT0NLifX3CSKdrLFk6UzoZ/vfdMr4LL91nMYgS4D/Gy0wSNGzmPP8l4z0ObTQ=;zaU60LiAl9+5kBGgbORVrg=="
+secured: "yDoT6WtOMSg1M5art0y6ZDlKYEDgvRwVxHqkHilv9tAQOUhUq7P3kdhkHXR+SlXZjpD37tSj+r0CkmLEneyPVjBc4wWZCz7YGbfSeGrf73WJyIFHopIQHxygDcTD/ANgQkdfaheKd9jj5dse7OwjZqzrPrruhyUKIziPViF+j0PtYFUgnfBpUsLO06s7uakrDQV2eZQnVERIHvCaqShjquPz/fZHuXoexTbyiWyGfksHzdbLWBMIcWgJpeUJpWkBW29JHnbOi/Tfuxx7QjRl4u1KKnOWEyaGU6AHCbJbo+osM48JlXGkDCVElggOR2eA0tQNp236bFyKIMMwdvA51aFSd+GKr/i/3mQa2Xi0EHw=;reP4EGWziWqj8DU69qd7+Q=="
 ---
 

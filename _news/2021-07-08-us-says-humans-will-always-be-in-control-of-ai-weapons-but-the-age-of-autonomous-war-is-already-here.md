@@ -9,7 +9,7 @@ ampWebUrl: "https://www.seattletimes.com/business/technology/u-s-says-humans-wil
 cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/technology/u-s-says-humans-will-always-be-in-control-of-ai-weapons-but-the-age-of-autonomous-war-is-already-here/?amp=1"
 type: article
 quality: 20
-heat: -1
+heat: 20
 published: false
 
 provider:
@@ -18,22 +18,6 @@ provider:
 
 topics:
   - AI
-
-related:
-  - title: "US says humans will always be in control of AI weapons. But the age of autonomous war is already here."
-    excerpt: "Facts on the ground show that technological advancements, coupled with complex conflicts like the Syrian and Libyan civil wars, have created a reality where weapons that make their own decisions are already killing people."
-    publishedDateTime: 2021-07-07T16:06:00Z
-    webUrl: "https://www.stripes.com/branches/2021-07-07/autonomous-war-ai-us-weapons-control-2078011.html"
-    type: article
-    provider:
-      name: Stars and Stripes
-      domain: stripes.com
-    quality: 21
-    images:
-      - url: "https://www.stripes.com/incoming/tqkdwh-Screen-Shot-2021-07-07-at-11.36.00-AM.png/alternates/LANDSCAPE_480/Screen%20Shot%202021-07-07%20at%2011.36.00%20AM.png"
-        width: 480
-        height: 299
-        isCached: true
 
 secured: "Kkbp+FUsKQZW+y6+s99VkDRrOu28S79dT0diQp0dSyE5q9YP9aHFCmU4pxCusRX+973wgE0Xnve7ejxOdAJGt1NTTB0DoUNXPGJZJkhALDQCVkqz1exwukt8sAadaTujD7hosl9TxhUsOEYWv8ABUTonwobDfJwJC99HiBybD0IJsiBtgq10fDSTYZ9hbRc3s9VsUIt36LRK29wAh0Hr+6ctSdwVffIckwe6ZCPajFMvrsnVEXeOn9SRYKm+3479/hCPZcIiCtWH0Cox2c7M+gpu+XZscd/7Dg1fEbISfysb7evFf+pbGIHmbOFC2xfwvmJRzmXqiG6zuLGOEoOzYQaCfpKCZyx7jcDgmnaKIBI=;oViDlg9b3XgtERqfL80g9w=="
 ---

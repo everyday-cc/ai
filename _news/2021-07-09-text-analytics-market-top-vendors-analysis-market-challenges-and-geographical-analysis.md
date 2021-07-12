@@ -40,6 +40,15 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 17
+  - title: "Global Artificial Intelligence Platform Market Size, Share and Analysis To Grow At An Annual Rate Of 56.6% Through 2024"
+    excerpt: "The report Artificial Intelligence Platform Market Size and Analysis maintains enhanced dynamics and is overshadowed by a top player across the globe. The research report provides Artificial Intelligence Platform Market Growth and information corresponding to market segments such as geographies,"
+    publishedDateTime: 2021-07-09T10:33:00Z
+    webUrl: "https://www.arnnet.com.au/mediareleases/144023/global-artificial-intelligence-platform-market/"
+    type: article
+    provider:
+      name: ARN
+      domain: arnnet.com.au
+    quality: 0
 
 secured: "q1LlwxYkXLAKpMRWEgYMzUOTPp7enYNiUrOqfADKavePqm5K/VOPGofE7hpJA+fqE3AX/Ncqs5vFbJlKRA5jiu6hiLFYFiRny/b1oleUYY3eeRpydN4kirh+wuUE7n8+lC00Em9Is45RUPesL5dGhGFv/0CMh98Eq33GjtITbOdAqpLMV9j4ndfJgkzJ4my7LG0eL9/BPe5reVuHzQx1YszZzQgHkEMke6eVvqCIKQRW6s5WYeuv5K5p6r6RU+/RJCddny3qc7ds5bJxgWdPGriEtJcdh7kcM0KoMj1HqEXaCDsDo53QQZUVEKEGEJJoSJHsgMI5jimcX8Hdh1Wf906Z0rbClufeykNYlHlih0U=;SUOwcOCn9ltc3di0IqLW8g=="
 ---

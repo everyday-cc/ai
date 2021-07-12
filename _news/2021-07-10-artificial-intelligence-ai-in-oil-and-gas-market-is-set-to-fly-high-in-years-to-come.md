@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "Artificial Intelligence (AI) in Retail Market – Industry Growth Analysis & Forecast By 2027"
+    excerpt: "Managed services to drive artificial intelligence in retail market trends Artificial intelligence (AI) in retail market will be significantly bolstered with the surging need for digitization and the consistent development of new business models across the ..."
+    publishedDateTime: 2021-07-12T08:50:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-retail-market-industry-growth-analysis-forecast-by-2027-2021-07-12"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 72
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence (AI) in Fintech Market: Ready To Fly on high Growth Trends"
     excerpt: "Latest Study on Industrial Growth of COVID 19 Outbreak Global Artificial Intelligence AI in Fintech Market 2021 2027 A detailed study accumulated to offer Latest insights about acute features of the COVID 19 Outbreak Artificial Intelligence AI in Fintech market"
     publishedDateTime: 2021-07-08T08:20:00Z
@@ -57,6 +71,66 @@ related:
         width: 504
         height: 336
         isCached: true
+  - title: "Artificial Intelligence In The Automotive Market Analysis & Forecast For Next 5 Years"
+    excerpt: "The latest independent research document on Artificial Intelligence In The Automotive examine investment in Market It describes how companies deploying these technologies across various industry verticals aim to explore its potential to become a major business disrupter The Artificial Intelligence"
+    publishedDateTime: 2021-07-10T16:57:00Z
+    webUrl: "https://www.openpr.com/news/2325774/artificial-intelligence-in-the-automotive-market-analysis"
+    ampWebUrl: "https://www.openpr.com/amp/2325774/artificial-intelligence-in-the-automotive-market-analysis"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2325774/artificial-intelligence-in-the-automotive-market-analysis"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 50
+    images:
+      - url: "https://cdn.openpr.com/U/7/U710733997_g.jpg"
+        width: 400
+        height: 300
+        isCached: true
+  - title: "Global Neural Network Software Market 2019 Size, Growth Analysis Report, Forecast to 2025"
+    excerpt: "The global neural network software market is expected to grow at a significant rate during the forecast period.The major factors that will contribute to the market growth include the increasing investment in AI (artificial intelligence) technologies and ..."
+    publishedDateTime: 2021-07-10T10:44:00Z
+    webUrl: "https://www.openpr.com/news/2325654/global-neural-network-software-market-2019-size-growth"
+    ampWebUrl: "https://www.openpr.com/amp/2325654/global-neural-network-software-market-2019-size-growth"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2325654/global-neural-network-software-market-2019-size-growth"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 50
+    images:
+      - url: "https://cdn.openpr.com/U/7/U710681949_g.jpg"
+        width: 635
+        height: 357
+        isCached: true
+  - title: "Artificial Intelligence (AI) Market in Industrial Machinery Industry to grow by $ 458.68 million|Technavio"
+    excerpt: "The artificial intelligence (AI) market in the agriculture industry market is set to grow by USD 458.68 million, progressing at a CAGR of"
+    publishedDateTime: 2021-07-09T22:00:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/artificial-intelligence-ai-market-in-industrial-machinery-industry-to-grow-by-458-68-million-technavio/article_917a31d7-b21a-51c1-9005-9e2c9f9d1fb0.html"
+    type: article
+    provider:
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 36
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/8/63/8635831d-c3ca-5a24-b643-300bca1379fc/60e8c777dd85b.image.jpg?resize=1200%2C585"
+        width: 1200
+        height: 585
+        isCached: true
+  - title: "Voice Recognition Market 2021 Comprehensive Analysis, Future Estimations, Growth Drivers and Forecast to 2030"
+    excerpt: "Jul 09, 2021 (AmericaNewsHour) -- In a recent published report, Kenneth Research has updated the market report for Voice Recognition Market for 2021 till 2030. Report further now discusses; the various strategies to be adopted or being adopted by the ..."
+    publishedDateTime: 2021-07-09T05:44:00Z
+    webUrl: "https://www.marketwatch.com/press-release/voice-recognition-market-2021-comprehensive-analysis-future-estimations-growth-drivers-and-forecast-to-2030-2021-07-09"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 35
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence (AI) in Automotive Market"
     excerpt: "Latest added Artificial Intelligence (AI) in Automotive Market research study by MarketDigits offers detailed product outlook and elaborates market review till 2027. The market Study is segmented by key regions that is accelerating the marketization."
     publishedDateTime: 2021-07-07T18:54:00Z
@@ -66,47 +140,100 @@ related:
       name: manometcurrent.com
       domain: manometcurrent.com
     quality: 34
-  - title: "If You Only Buy 1 Fintech Stock, Make It One of These 5"
-    excerpt: "Recent innovations by biotech and fintech stocks, for example, show how pandemic-era needs are shaping the market. Source: Shutterstock In 2021, fintech companies are harnessing advanced technologies to provide faster and more reliable financial service solutions for institutions and everyday users."
-    publishedDateTime: 2021-07-09T17:53:00Z
-    webUrl: "https://www.nasdaq.com/articles/if-you-only-buy-1-fintech-stock-make-it-one-of-these-5-2021-07-09"
+  - title: "Artificial Intelligence as a Service Market 2021 Segmentation and Analysis by Recent Trends, Development and Growth by Trending Regions by 2030"
+    excerpt: "Jul 09, 2021 (AmericaNewsHour) -- In a recent published report, Kenneth Research has updated the market report for Artificial Intelligence as a Service Market for 2021 till 2030. Report further now discusses; the various strategies to be adopted or being ..."
+    publishedDateTime: 2021-07-09T11:34:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-as-a-service-market-2021-segmentation-and-analysis-by-recent-trends-development-and-growth-by-trending-regions-by-2030-2021-07-09"
     type: article
     provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 34
-  - title: "The Future of Fintech 2021 on demand"
-    excerpt: "On the 17th of June, FStech's virtual conference returned for 2021, covering the biggest trends in financial services technology. Across a variety of keynote speeches, in-depth presentations and lively panel discussions this online event tackled how firms can deal with the challenges of the Coronavirus crisis one year on, as well as looking forward to what the 'new normal' will look like for an industry already in the grips of digital disruption. Among the topics on the agenda were: cyber security in the time of COVID-19, the RegTech solutions automating compliance, improving data literacy and governance, protecting customers from fraud, AI and machine learning, the rise of digital assets, upgrading legacy systems and ensuring data is safe and optimised in the cloud. For those of you who missed the event, or would like to watch specific sessions again, we have collected the day's content and put it all in one place for easy viewing:"
-    publishedDateTime: 2021-07-10T09:48:00Z
-    webUrl: "https://www.fstech.co.uk/future-fintech-digital-conference/ondemand.php"
-    type: article
-    provider:
-      name: fstech.co.uk
-      domain: fstech.co.uk
-    quality: 24
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 31
     images:
-      - url: "https://perspectivepublishing.co.uk/dev/cms/uploads/FStech%20Couchbase%208th%20December%202020/final_cb.jpg"
-        width: 314
-        height: 314
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "At 17.1% CAGR, AI in Fintech Market Size will reach 8984.9 million USD by 2025"
-    excerpt: "The global AI in Fintech market size is expected to gain market growth in the forecast period of 2020 to 2025, with a CAGR of 17.1% in the forecast period of 2020 to 2025 and will expected to reach USD 8984."
-    publishedDateTime: 2021-07-09T15:21:00Z
-    webUrl: "https://www.arnnet.com.au/mediareleases/144117/at-171-cagr-ai-in-fintech-market-size-will-reach/"
+  - title: "Global Machine Learning in Retail Market Size, Status and Forecast 2021-2027"
+    excerpt: "Pages Report] Check for Discount on Global Machine Learning in Retail Market Size, Status and Forecast 2021-2027 report by QYResearch Group. In the retail sector, top competitors like Amazon, Walmart,"
+    publishedDateTime: 2021-07-09T07:50:00Z
+    webUrl: "https://www.reportsnreports.com/reports/4655618-global-machine-learning-in-retail-market-size-status-and-forecast-2021-2027.html"
     type: article
     provider:
-      name: ARN
-      domain: arnnet.com.au
-    quality: 15
-  - title: "Top 10 Fintech Trends to Watchout For"
-    excerpt: "To make you aware of the revolutions FinTech has unleashed in the financial arena, we are outlining the following ten technology trends that are the forces behind the Fintech revolution: Welcome to Finextra."
-    publishedDateTime: 2021-07-09T15:21:00Z
-    webUrl: "https://www.finextra.com/blogposting/20576/top-10-fintech-trends-to-watchout-for"
+      name: ReportsnReports
+      domain: reportsnreports.com
+    quality: 31
+  - title: "AI in IoT Market Analysis By Technological Advancement, Regional Outlook And Forecast to 2027"
+    excerpt: "Latest released the research study on Global AI in IoT Market Report Forecast 2021 2027 offers a detailed overview of the factors influencing the global business scope AI in IoT Market research report shows the latest market insights current situation"
+    publishedDateTime: 2021-07-10T13:47:00Z
+    webUrl: "https://www.openpr.com/news/2325730/ai-in-iot-market-analysis-by-technological-advancement"
+    ampWebUrl: "https://www.openpr.com/amp/2325730/ai-in-iot-market-analysis-by-technological-advancement"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2325730/ai-in-iot-market-analysis-by-technological-advancement"
     type: article
     provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 4
+      name: openpr.com
+      domain: openpr.com
+    quality: 28
+  - title: "AI Training Data Market All Set to Witness Massive Growth during Forecast 2021-2027 With Top Vendors Like"
+    excerpt: "This AI Training Data Industry market report uncovers multiple growth opportunities that users can consider to capitalize on, along with insights on top industry trends to invest in. This section intends to facilitate the process of critical decision making for users."
+    publishedDateTime: 2021-07-08T06:39:00Z
+    webUrl: "https://ksusentinel.com/2021/07/08/ai-training-data-market-all-set-to-witness-massive-growth-during-forecast-2021-2027-with-top-vendors-like/"
+    type: article
+    provider:
+      name: The Sentinel
+      domain: ksusentinel.com
+    quality: 20
+    images:
+      - url: "https://i.ibb.co/4f2WLZz/n1-finalll.jpg"
+        width: 474
+        height: 237
+        isCached: true
+  - title: "Artificial Intelligence (AI) Software Market Analysis, Leading Players, Future Growth, Business Prospects Research Report Foresight To 2027"
+    excerpt: "Software market by RMoz gives all the essential information needed to comprehend the important developments in this market for the forecast period of 20AA to 20BB. Through this report, the readers gain 360-degree analysis of the market for Artificial Intelligence (AI) Software."
+    publishedDateTime: 2021-07-07T17:40:00Z
+    webUrl: "https://ksusentinel.com/2021/07/07/artificial-intelligence-ai-software-market-analysis-leading-players-future-growth-business-prospects-research-report-foresight-to-2027/"
+    type: article
+    provider:
+      name: The Sentinel
+      domain: ksusentinel.com
+    quality: 18
+    images:
+      - url: "https://i.ibb.co/9qThnqF/r66.png"
+        width: 640
+        height: 457
+        isCached: true
+  - title: "Artificial Intelligence (AI) in Construction Market SWOT Analysis by Size, Status and Forecast to 2021-2027"
+    excerpt: "Latest published market study on Global Artificial Intelligence (AI) in Construction Market provides an overview of the current market dynamics in the Artificial Intelligence (AI) in Construction space,"
+    publishedDateTime: 2021-07-11T01:39:00Z
+    webUrl: "https://manometcurrent.com/artificial-intelligence-ai-in-construction-market-swot-analysis-by-size-status-and-forecast-to-2021-2027/"
+    type: article
+    provider:
+      name: manometcurrent.com
+      domain: manometcurrent.com
+    quality: 14
+  - title: "Global Artificial intelligence (AI) in Supply Chain and Logistics Market Size, Status and Forecast 2021-2027"
+    excerpt: "Pages Report] Check for Discount on Global Artificial intelligence (AI) in Supply Chain and Logistics Market Size, Status and Forecast 2021-2027 report by QYResearch Group. Market Analysis and Insights: Global Artificial intelligence (AI) in"
+    publishedDateTime: 2021-07-09T08:01:00Z
+    webUrl: "https://www.reportsnreports.com/reports/4656198-global-artificial-intelligence-ai-in-supply-chain-and-logistics-market-size-status-and-forecast-2021-2027.html"
+    type: article
+    provider:
+      name: ReportsnReports
+      domain: reportsnreports.com
+    quality: 13
+  - title: "Artificial Intelligence Chipsets Market 2021 Strategic Analysis, Growth Drivers, Industry Trends, Demand And Future Opportunities Till 2027"
+    excerpt: "Outbreak-Global Artificial Intelligence Chipsets Industry Market Report-Development Trends, Threats, Opportunities And Competitive Landscape In 2021, Forecast to 2027” has recently published by ResearchMoz to its humongous database which helps to shape the future of the businesses by making well-informed business decisions."
+    publishedDateTime: 2021-07-08T15:22:00Z
+    webUrl: "https://manometcurrent.com/artificial-intelligence-chipsets-market-2021-strategic-analysis-growth-drivers-industry-trends-demand-and-future-opportunities-till-2027/"
+    type: article
+    provider:
+      name: manometcurrent.com
+      domain: manometcurrent.com
+    quality: 3
+    images:
+      - url: "https://jumbonews.co.uk/wp-content/uploads/2021/06/MARKET-RESEARCH-REPORT-2021.png"
+        width: 800
+        height: 400
+        isCached: true
 
 secured: "VJ8yw85EE2TLomEu65WhWY4dCLxoCWDTbDyynA685bxSbrGE0CR76z35kECib0mrgyYJa+FMsM5Sb0ESgGxRzEjdM9wqMeGD/TKqv/+WitS/q6a3IHBllQBNFRx8Ir4lxh/MdTO5gX6QiZ3jxdJy59XAVT1rNyhdilDtY5x9HSgOtAXd9okun3kQSuJ8zd0CaWS7kNBPnuzQhdH7u7j6st9srexSY2md6e41IIUoUdL7vxia5hLbNgAFteJ/MqDwzXOAxDdfgNd2HfVR7nXET4eGo8SFz6Fxb22BMiMM2rsrGimGWd/IdJ5PpVv7yGZTuo9n/3nV2xuIaxpJRPikRHUoiAkBojNiUR0nWrbqd6a2zzkqZoFdJ8aSXdRw4eW3XI97YuRjCVhtD3o4PbM4ZLaFVvWC/lYQf//Exf34KSvY9gD6/Va09FPtvx6msHZaWCEGQ3kfYTCBBGR1ga7enF+cw16fvvaFcSMSMjPUYYw7Dit6zGm1pBnMaIOdNrJeR1kK9K8Ec4i4CbdgRusHeg==;IMWrozoLfmvQA10E07oXmg=="
 ---

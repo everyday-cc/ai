@@ -33,15 +33,20 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Global Machine Learning in Retail Market Size, Status and Forecast 2021-2027"
-    excerpt: "Pages Report] Check for Discount on Global Machine Learning in Retail Market Size, Status and Forecast 2021-2027 report by QYResearch Group. In the retail sector, top competitors like Amazon, Walmart,"
-    publishedDateTime: 2021-07-09T07:50:00Z
-    webUrl: "https://www.reportsnreports.com/reports/4655618-global-machine-learning-in-retail-market-size-status-and-forecast-2021-2027.html"
+  - title: "Robot Operating System Market Size 2021 by Company, Product introduction, Products Sales Volume, Revenue, Price and Gross Margin to 2030"
+    excerpt: "In a recent published report, Kenneth Research has updated the market report for Robot Operating System Market for"
+    publishedDateTime: 2021-07-09T17:02:00Z
+    webUrl: "https://www.marketwatch.com/press-release/robot-operating-system-market-size-2021-by-company-product-introduction-products-sales-volume-revenue-price-and-gross-margin-to-2030-2021-07-09"
     type: article
     provider:
-      name: ReportsnReports
-      domain: reportsnreports.com
-    quality: 31
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 53
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Global Healthcare Artificial Intelligence Market Size, Status and Forecast 2021-2027"
     excerpt: "Pages Report] Check for Discount on Global Healthcare Artificial Intelligence Market Size, Status and Forecast 2021-2027 report by QYResearch Group. AI in healthcare has huge and wide reaching potential"
     publishedDateTime: 2021-07-09T07:53:00Z
@@ -60,20 +65,6 @@ related:
       name: ReportsnReports
       domain: reportsnreports.com
     quality: 15
-  - title: "Artificial Intelligence Chipsets Market 2021 Strategic Analysis, Growth Drivers, Industry Trends, Demand And Future Opportunities Till 2027"
-    excerpt: "Outbreak-Global Artificial Intelligence Chipsets Industry Market Report-Development Trends, Threats, Opportunities And Competitive Landscape In 2021, Forecast to 2027” has recently published by ResearchMoz to its humongous database which helps to shape the future of the businesses by making well-informed business decisions."
-    publishedDateTime: 2021-07-08T15:22:00Z
-    webUrl: "https://manometcurrent.com/artificial-intelligence-chipsets-market-2021-strategic-analysis-growth-drivers-industry-trends-demand-and-future-opportunities-till-2027/"
-    type: article
-    provider:
-      name: manometcurrent.com
-      domain: manometcurrent.com
-    quality: 3
-    images:
-      - url: "https://jumbonews.co.uk/wp-content/uploads/2021/06/MARKET-RESEARCH-REPORT-2021.png"
-        width: 800
-        height: 400
-        isCached: true
 
 secured: "34W7tPHVO0rRnrAnF0iH3FSxpushjJbYSr8kkXUCc4FeMcrRI2i80RS+XmR/7wN8N29sakzy8+WGwGHuTFCKrfe+xN8nQSKEj3/EK9BHwoC339NeVw5xGzIoexMwB9ynhnxg2TUdqhUSJYUcE7iqvJx3mVaUmMKrZMuVZLFngqFOVcDzTq31iTazt6c8wNxHvVBYI13yUr7v60BYcyD5Pz55qEC+SxyBGMsl4oNN0O1K5e2VItzpypeiRENLtb6Lz03XFy0xTK0rkjZyPo1VuFlOhqITJ9dFhZRFow8hVNehmjr5rSe363GURPQ6/xiesE3I3bsSRXs+LznxOSiYOC8I157W7PRpzanXH8DoaPw=;jyBhnyDiyvomkj7MN4JUjA=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://techxplore.com/news/2021-07-ai-sea-ice-identification.amp"
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-07-ai-sea-ice-identification.amp"
 type: article
 quality: 57
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -26,6 +26,22 @@ images:
     isCached: true
 
 related:
+  - title: "Can Artificial Intelligence Detect Sea-Ice And Enhance Safety?"
+    excerpt: "Does Artificial Intelligence have aid for the same? Let’s find out. Ice has different patterns in terms of size, and it sometimes becomes challenging to recognize its size and location as it may be under the deep sea in most cases."
+    publishedDateTime: 2021-07-12T09:44:00Z
+    webUrl: "https://fossbytes.com/can-artificial-intelligence-ai-detect-sea-ice/"
+    ampWebUrl: "https://fossbytes.com/can-artificial-intelligence-ai-detect-sea-ice/amp/"
+    cdnAmpWebUrl: "https://fossbytes-com.cdn.ampproject.org/c/s/fossbytes.com/can-artificial-intelligence-ai-detect-sea-ice/amp/"
+    type: article
+    provider:
+      name: Foss Bytes
+      domain: fossbytes.com
+    quality: 57
+    images:
+      - url: "https://fossbytes.com/wp-content/uploads/2021/07/10-07-2021-e1625904828984.jpeg"
+        width: 1200
+        height: 694
+        isCached: true
   - title: "The USPTO’s Patent Classification and Search Systems Have Jumped on the AI Bandwagon"
     excerpt: "It is no question that Artificial Intelligence (“AI”) technologies have popped up in all aspects of society such as online shopping, music streaming, and social networking. The U.S. Patent"
     publishedDateTime: 2021-07-08T23:24:00Z

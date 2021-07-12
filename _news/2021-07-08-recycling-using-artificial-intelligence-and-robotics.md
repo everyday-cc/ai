@@ -7,8 +7,8 @@ originalUrl: "https://www.worldofchemicals.com/media/recycling-using-artificial-
 webUrl: "https://www.worldofchemicals.com/media/recycling-using-artificial-intelligence-and-robotics/6261.html"
 type: article
 quality: 69
-heat: -1
-published: false
+heat: 89
+published: true
 
 provider:
   name: World Of Chemicals
@@ -25,35 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "Digital transformation fueling spending on cloud, AI, robotics, security and SaaS"
-    excerpt: "\"Emerging technologies like artificial intelligence, the Internet of Things ... are investing in key use cases like collaborative robotics, operational performance management, and 3D and digital product design and review for improved cost control and ..."
-    publishedDateTime: 2021-07-07T16:31:00Z
-    webUrl: "https://www.securitysystemsnews.com/article/digital-transformation-fueling-spending-on-cloud-ai-robotics-security-and-saas"
+  - title: "What We’re Getting Wrong About Efficient AI Training at Scale"
+    excerpt: "Famed computer architecture author, professor, and Google distinguished engineer Google, David Patterson, wants to set the record straight on common"
+    publishedDateTime: 2021-07-09T18:38:00Z
+    webUrl: "https://www.nextplatform.com/2021/07/09/what-were-getting-wrong-about-efficient-ai-training-at-scale/"
+    ampWebUrl: "https://www.nextplatform.com/2021/07/09/what-were-getting-wrong-about-efficient-ai-training-at-scale/amp/"
+    cdnAmpWebUrl: "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2021/07/09/what-were-getting-wrong-about-efficient-ai-training-at-scale/amp/"
     type: article
     provider:
-      name: Security Systems News
-      domain: securitysystemsnews.com
-    quality: 81
-    images:
-      - url: "https://www.securitysystemsnews.com/uploads/blog/6dfcbb88d032e82b4366850eb1aeb8ef.jpg"
-        width: 1000
-        height: 576
-        isCached: true
-  - title: "Emotion AI Is Transforming the Way We Game"
-    excerpt: "By: Ranjan Kumar, CEO of Entropik Tech Emotion AI is rapidly advancing as applications become more widespread, and the technology becomes more dynamic with 2021 positioned as a breakout year. But exactly how much Emotion AI surrounds people through their computers,"
-    publishedDateTime: 2021-07-08T09:20:00Z
-    webUrl: "https://techbullion.com/emotion-ai-is-transforming-the-way-we-game/"
-    ampWebUrl: "https://techbullion.com/emotion-ai-is-transforming-the-way-we-game/amp/"
-    cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/emotion-ai-is-transforming-the-way-we-game/amp/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
+      name: The Next Platform
+      domain: nextplatform.com
     quality: 57
     images:
-      - url: "https://techbullion.com/wp-content/uploads/2021/07/emotion-AI.jpg"
-        width: 838
-        height: 475
+      - url: "https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2021/03/ab_networks_sdkfskn.jpg"
+        width: 1300
+        height: 500
         isCached: true
   - title: "Wobot.ai, the AI-powered Video Analytics Platform, Announces the Launch of a New SaaS-based and Simplified Version of its Product"
     excerpt: "Wobot.ai, the AI-powered video analytics platform, today announced the launch of a new SaaS-based and simplified version of its product. Wobot.ai is now"

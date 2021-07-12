@@ -1,26 +1,26 @@
 ---
 category: news
-title: "China's Didi touts tech spending ahead of Wall St debut"
-excerpt: "Early investors included Apple Inc., Japan’s Softbank, Alibaba and Chinese internet giants, Tencent Holding Ltd. and Baidu Inc. Didi ... into development of self-driving, electric vehicles ..."
-publishedDateTime: 2021-06-30T07:37:00Z
-originalUrl: "https://www.baynews9.com/fl/tampa/ap-online/2021/06/30/chinas-didi-touts-tech-spending-ahead-of-wall-st-debut"
-webUrl: "https://www.baynews9.com/fl/tampa/ap-online/2021/06/30/chinas-didi-touts-tech-spending-ahead-of-wall-st-debut"
+title: "China’s Didi touts tech spending ahead of Wall St debut"
+excerpt: "Chinese ride-hailing service Didi says it lost $5.5 billion over the past three years ahead of its U.S. stock market debut Wednesday but it's highlighting its global reach and investments in developing electric and self-driving cars."
+publishedDateTime: 2021-06-30T07:04:00Z
+originalUrl: "https://apnews.com/892017a21181bc873a4e4599a6b30b0f"
+webUrl: "https://apnews.com/892017a21181bc873a4e4599a6b30b0f"
 type: article
 
 provider:
-  name: Bay News 9
-  domain: baynews9.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://s7d2.scene7.com/is/image/TWCNews/China_Didi_IPO_76014"
-    width: 1280
-    height: 835
+  - url: "https://storage.googleapis.com/afs-prod/media/f4881df4ea264a1cae6cbf329deecf07/3000.jpeg"
+    width: 3000
+    height: 1956
     isCached: true
 
-secured: "1fwlJf91hQshnzbilGwB5f2minu0fRxqScllDIWB0ui50fIueT7+zfPfrI+mFONmm85m1oiRus4kmVxL3q5ysh8LXjbhKgxIiah+eRWE70mWlgyp2Xh8aE8vj5kqsby6qC78r+QDkjscsk2ncM+WG9/MvwSpi4HIlcDEyjtbt5Xs7bV31W2MTzZxZmLX4zOuPlXdcF+QFWoV7/WM5seU2+OCPpV0k3UksiLIFrd0K0rtG0+Y2iB5vXcS82AFET5QGY2jmOdwCrfiGTIg0W4i/DZ1W1iIW+LKAztmBtwDqVhGZvuqsggFzEkEjdGEJRsv6RKlqkc+t+tyI27/a/ZY8DfsHxus/g+35R0qLB1e0pI=;evkLFf9EqiRmD8W4bwvT6w=="
+secured: "vcfU1pvXfwZGDCnNB6eAk/RUmUYLZ30GvyTGe7+tNVri5yKYKM9AiDsp2J27neVGCIZW6RYWkJuWqoaHqzm/T/hFvutlWKSV8BCSuq2CCk1P4yNDkMA6fB+ds8K1TZQHIA0M8XXxz432ZS+ObFBe9lM2QeNoxzeT7+X1pi2JCD+ZNwCEhYXnbDkOQAnW9VRYZF7hvhMOxGWrzeim2gbsJcMdNQbBqlt2yjJt3CqQ8Tg1owvvZXJ/wbEfKGhgkE8yWV2l1tXvdfA0+Gp1PDh0C1XgneIWOzy7WgoTE0CO0/8NV3nizuSjrvFkCDDV4mWtkLGudtan2Ykn9k7kDaiGxYtz5paqFtVnUHBMI8uzX7I=;iRFkM+78C0/mk43wDD2UrA=="
 ---
 

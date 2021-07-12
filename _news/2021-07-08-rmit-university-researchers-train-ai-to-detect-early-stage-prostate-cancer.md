@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/rmit-university-researchers
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/rmit-university-researchers-train-ai-to-detect-early-stage-prostate-cancer/"
 type: article
 quality: 85
-heat: 105
+heat: 95
 published: true
 
 provider:
@@ -30,22 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "New AI tech for early detection of prostate cancer"
-    excerpt: "Now an artificial intelligence (AI) program developed at RMIT University could catch the disease earlier, allowing for incidental detection through routine computed tomography (CT) scans."
-    publishedDateTime: 2021-07-07T16:27:00Z
-    webUrl: "https://medicalxpress.com/news/2021-07-ai-tech-early-prostate-cancer.html"
-    ampWebUrl: "https://medicalxpress.com/news/2021-07-ai-tech-early-prostate-cancer.amp"
-    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-07-ai-tech-early-prostate-cancer.amp"
-    type: article
-    provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 57
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/new-ai-tech-for-early.jpg"
-        width: 1440
-        height: 981
-        isCached: true
   - title: "Artificial intelligence program analyzes CT scans for tell-tale signs of prostate cancer"
     excerpt: "Now an artificial intelligence (AI) program developed at RMIT University could catch the disease earlier, allowing for incidental detection through routine computed tomography (CT) scans. The tech, developed in collaboration with clinicians at St Vincent's Hospital Melbourne,"
     publishedDateTime: 2021-07-07T23:18:00Z

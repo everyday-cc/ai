@@ -19,93 +19,20 @@ topics:
   - AI
 
 related:
-  - title: "Artificial Intelligence (AI) in Fintech Market: Ready To Fly on high Growth Trends"
-    excerpt: "Latest Study on Industrial Growth of COVID 19 Outbreak Global Artificial Intelligence AI in Fintech Market 2021 2027 A detailed study accumulated to offer Latest insights about acute features of the COVID 19 Outbreak Artificial Intelligence AI in Fintech market"
-    publishedDateTime: 2021-07-08T08:20:00Z
-    webUrl: "https://www.openpr.com/news/2323847/artificial-intelligence-ai-in-fintech-market-ready-to-fly"
-    ampWebUrl: "https://www.openpr.com/amp/2323847/artificial-intelligence-ai-in-fintech-market-ready-to-fly"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2323847/artificial-intelligence-ai-in-fintech-market-ready-to-fly"
+  - title: "Artificial Intelligence in Medicine Market: Global Industry Size Will Reach USD 15,000.00 Million By 2026"
+    excerpt: "Pages Report] According to the Facts and Factors research report, the global artificial intelligence in medicine market in 2019 was around USD 800.00 Million. The market"
+    publishedDateTime: 2021-07-08T21:50:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/21/07/ab21907737/artificial-intelligence-in-medicine-market-global-industry-size-will-reach-usd-15-000-00-million-"
     type: article
     provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 68
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 22
     images:
-      - url: "https://cdn.openpr.com/U/7/U708590558_g.jpg"
-        width: 750
-        height: 500
+      - url: "https://cdn.benzinga.com/files/imagecache/og_image_social_share_1200x630/sites/all/themes/bz2/images/bz-icon.png"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "Artificial Intelligence (AI) in Oil and Gas Market is Set To Fly High in Years to Come"
-    excerpt: "A new research document with title Artificial Intelligence AI in Oil and Gas Thematic Research covering detailed analysis Competitive landscape forecast and strategies The study covers geographic analysis that includes regions like North America U S Canada Mexico Europe Germany"
-    publishedDateTime: 2021-07-09T23:23:00Z
-    webUrl: "https://www.openpr.com/news/2325607/artificial-intelligence-ai-in-oil-and-gas-market-is-set-to-fly"
-    ampWebUrl: "https://www.openpr.com/amp/2325607/artificial-intelligence-ai-in-oil-and-gas-market-is-set-to-fly"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2325607/artificial-intelligence-ai-in-oil-and-gas-market-is-set-to-fly"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 66
-    images:
-      - url: "https://cdn.openpr.com/U/7/U710307690_g.jpg"
-        width: 400
-        height: 300
-        isCached: true
-  - title: "Artificial Intelligence (AI) in BFSI Market Shaping A New Growth Cycle"
-    excerpt: "HTF MI Published Latest Global  Study by in-depth analysis about current scenario, the Market size, demand, growth pattern, trends, and forecast. Revenue for  has grown substantially over the six years to 2020 as a result of strengthening macroeconomic conditions and healthier demand,"
-    publishedDateTime: 2021-07-10T17:50:00Z
-    webUrl: "https://manometcurrent.com/artificial-intelligence-ai-in-bfsi-market-shaping-a-new-growth-cycle/"
-    type: article
-    provider:
-      name: manometcurrent.com
-      domain: manometcurrent.com
-    quality: 52
-    images:
-      - url: "https://manometcurrent.com/wp-content/uploads/2021/07/Artificial-Intelligence-AI-in-BFSI-Market.jpeg"
-        width: 504
-        height: 336
-        isCached: true
-  - title: "Artificial Intelligence (AI) in Automotive Market"
-    excerpt: "Latest added Artificial Intelligence (AI) in Automotive Market research study by MarketDigits offers detailed product outlook and elaborates market review till 2027. The market Study is segmented by key regions that is accelerating the marketization."
-    publishedDateTime: 2021-07-07T18:54:00Z
-    webUrl: "https://manometcurrent.com/artificial-intelligence-ai-in-automotive-market-analysis-by-key-players-end-users-and-cagr-forecast-to-2027-harman-international-industries-inc-honda-motor-co-ltd-ibm-corporation-intel-co/"
-    type: article
-    provider:
-      name: manometcurrent.com
-      domain: manometcurrent.com
-    quality: 34
-  - title: "If You Only Buy 1 Fintech Stock, Make It One of These 5"
-    excerpt: "Recent innovations by biotech and fintech stocks, for example, show how pandemic-era needs are shaping the market. Source: Shutterstock In 2021, fintech companies are harnessing advanced technologies to provide faster and more reliable financial service solutions for institutions and everyday users."
-    publishedDateTime: 2021-07-09T17:53:00Z
-    webUrl: "https://www.nasdaq.com/articles/if-you-only-buy-1-fintech-stock-make-it-one-of-these-5-2021-07-09"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 34
-  - title: "The Future of Fintech 2021 on demand"
-    excerpt: "On the 17th of June, FStech's virtual conference returned for 2021, covering the biggest trends in financial services technology. Across a variety of keynote speeches, in-depth presentations and lively panel discussions this online event tackled how firms can deal with the challenges of the Coronavirus crisis one year on, as well as looking forward to what the 'new normal' will look like for an industry already in the grips of digital disruption. Among the topics on the agenda were: cyber security in the time of COVID-19, the RegTech solutions automating compliance, improving data literacy and governance, protecting customers from fraud, AI and machine learning, the rise of digital assets, upgrading legacy systems and ensuring data is safe and optimised in the cloud. For those of you who missed the event, or would like to watch specific sessions again, we have collected the day's content and put it all in one place for easy viewing:"
-    publishedDateTime: 2021-07-10T09:48:00Z
-    webUrl: "https://www.fstech.co.uk/future-fintech-digital-conference/ondemand.php"
-    type: article
-    provider:
-      name: fstech.co.uk
-      domain: fstech.co.uk
-    quality: 24
-    images:
-      - url: "https://perspectivepublishing.co.uk/dev/cms/uploads/FStech%20Couchbase%208th%20December%202020/final_cb.jpg"
-        width: 314
-        height: 314
-        isCached: true
-  - title: "Top 10 Fintech Trends to Watchout For"
-    excerpt: "To make you aware of the revolutions FinTech has unleashed in the financial arena, we are outlining the following ten technology trends that are the forces behind the Fintech revolution: Welcome to Finextra."
-    publishedDateTime: 2021-07-09T15:21:00Z
-    webUrl: "https://www.finextra.com/blogposting/20576/top-10-fintech-trends-to-watchout-for"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 4
 
 secured: "jR0OPdeqyV0mlCjvAhsNNeuLXhqQcuW799z4949yJv4S6HJfoz61J4/u81rIpSCKFHAFtaIDfi59HY0GEMSRYXmFAuyblNLFWhYHwouZn03BG3JJGA9RUjlkiBN9MzgCyiXuQfssx3D9h4BRFWNSz22L32kCgOVopQXTRPKUy/I1a3ZtTU6OShHPZmcHPOhP5pcUjNEYFncGCD9yiLSAaIRGGmkFCM1s4ffohYUZRUsDB0HPeUVwxLB4w1HXVft3YL0Znp0rD0C5yz4GdOMVIgjJwBOc4/7W++9KASftT3MF0Mck8CE5ddTcdW9MaO/76U719OeD2y3gKbrozxWWnSoL5F8McNT9WqZ9Y9v5nlI=;ipbbnrB47F6Iq1EgfZHerQ=="
 ---

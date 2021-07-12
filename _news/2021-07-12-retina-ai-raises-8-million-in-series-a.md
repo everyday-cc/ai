@@ -23,6 +23,22 @@ images:
     height: 446
     isCached: true
 
-secured: "INpdnV1nyrQyKDHy/k1ZI27HzGTg38RYUQ1rsAwnowC66gdz1Nzkv04zLRGISHDao7DQQSnXcbytd+4UJ260ibF6EYCz3+XTPqsKQ0BsWN4V/L5DCzipBnRja4v1lgIYCqMfnHcTbdMHtyPs+BL7RCSUHBDJuE259Mih3TA3jC8KNexc5x3Kh1ont3FiGshD9dMPn/KW0t5QzFYiTE63pwnQTbfAgaE0b61KllBlCeG2lefBf4ae16AjcFkVv2reCXPMPWFNlBTADNKAPCcE18lQCsvl9+OlrKQzsLkT1yr+uz5jPPqihnzO/g7SGF8zGJO/Rk69KiC+qyNLj7GdOGbLzyUjarC/FSsX2+Vz/jE=;3WrikdkZTBfNdd42ml1s6Q=="
+related:
+  - title: "Chinese AI Platform Xiaoice Banks USD1 Billion in Series A Fundraiser, Led by Hillhouse Capital"
+    excerpt: "Chinese artificial intelligence platform Xiaoice has secured USD1 billion in a Series A fundraiser, led by Hillhouse Capital Group. Hedge fund manager Neumann Advisors, IDG Capital, 5Y Capital also joined pre-A-round investors Northern Light Venture and NetEase Capital in the Series A round,"
+    publishedDateTime: 2021-07-12T09:37:00Z
+    webUrl: "https://www.yicaiglobal.com/news/chinese-ai-platform-xiaoice-banks-usd1-billion-in-series-a-fundraiser-led-by-hillhouse-capital"
+    type: article
+    provider:
+      name: Yicai Global
+      domain: yicaiglobal.com
+    quality: 25
+    images:
+      - url: "http://img.yicaiglobal.com/cdn/news/chinese-ai-platform-xiaoice-banks-usd1-billion-in-series-a-fundraiser-led-by-hillhouse-capital/14731056473702400.jpg"
+        width: 720
+        height: 480
+        isCached: true
+
+secured: "jQe8do9OkPNRjSnvkYbso02+sixCj4Hd0MfIKNmKd6eBM8De/5pt3WANUipSP9/9pgF34ozFD50US6dDZRePs0q9GRLKHmiwDI6/8d/Tf7zS5PSfbx/m0dG1MLVU0qCLSFU7TII+gr4cZaTR5uLdT82cboqXPUaV6KcQMoJ0UIGZNcJrEzU3qPOnsWI2/uN88yPx/r6Csou63DMX818PFu9Hr1i//3cz/q1Fd6PJl/dDuxEkvrV7J5eZKsgCszjP0wZDf5l0mqyUzVT/m/rCxwkVBlXPN3m0u0Voh+ziZui0JJ0N7cbbyynjype6qWT0UbRJMviQpQtSLiihJrXThMOjy8UA1xjZYH2jJK30feGP6xrxie7u09F5UEUtV937OUS1AxKeP0ZmaUmFlabxK18/jWGu3/jQ5B1rn15vSpb+qcKjpbCJTLjAiutAKc25zPW/78sJpZ7i65cCrmD5rHoCNcUTt/ROvADqYpg1xdiG1aoG+7tFpSdUnOLeH52htyes3bWRkp+gjPPTGRA8Yg==;Bx6MZYAsZBiTgEoO6cntkw=="
 ---
 

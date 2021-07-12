@@ -9,7 +9,7 @@ ampWebUrl: "https://www.sourcesecurity.com/amp/news/thales-announces-voice-biome
 cdnAmpWebUrl: "https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/news/thales-announces-voice-biometric-solution-mobile-co-11612-ga-co-1587980778-ga-npr.1625740179.html"
 type: article
 quality: 25
-heat: 25
+heat: -1
 published: false
 
 provider:
@@ -27,15 +27,31 @@ images:
     isCached: true
 
 related:
-  - title: "ID R&D voice biometrics boost Thales call center solutions with seamless fraud protection"
-    excerpt: "The addition of voice biometrics enables call center operators to move away from ineffective and time-consuming knowledge-based authentication (KBA) questions."
-    publishedDateTime: 2021-07-07T16:55:00Z
-    webUrl: "https://www.biometricupdate.com/202107/id-rd-voice-biometrics-boost-thales-call-center-solutions-with-seamless-fraud-protection"
+  - title: "Thales supports mobile operators with advanced voice biometric authentication"
+    excerpt: "Thales announces a new voice biometric solution which is part of Thales Trusted Digital Identity Service Platform for onboarding and authentication. It meets the growing demand from mobile operator call centres to fight identity fraud whilst providing a seamless customer experience."
+    publishedDateTime: 2021-07-12T08:42:00Z
+    webUrl: "https://www.telecomtv.com/content/security/thales-supports-mobile-operators-with-advanced-voice-biometric-authentication-41944/"
+    ampWebUrl: "https://www.telecomtv.com/content/security/thales-supports-mobile-operators-with-advanced-voice-biometric-authentication-41944/amp/"
+    cdnAmpWebUrl: "https://www-telecomtv-com.cdn.ampproject.org/c/s/www.telecomtv.com/content/security/thales-supports-mobile-operators-with-advanced-voice-biometric-authentication-41944/amp/"
+    type: article
+    provider:
+      name: TelecomTV
+      domain: telecomtv.com
+    quality: 41
+    images:
+      - url: "https://assets.telecomtv.com/assets/telecomtv/brand/ttv-splash.jpg?w=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Voice biometrics spoof detection catching up, EAB speaker says"
+    excerpt: "Voice biometric systems, counter-measures against attacks against them, and our understanding of how well those counter-measures work have come a long way."
+    publishedDateTime: 2021-07-09T18:02:00Z
+    webUrl: "https://www.biometricupdate.com/202107/voice-biometrics-spoof-detection-catching-up-eab-speaker-says"
     type: article
     provider:
       name: Biometric Companies
       domain: biometricupdate.com
-    quality: 15
+    quality: 24
     images:
       - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2018/01/09162857/voice-biometrics-large2.jpg"
         width: 900

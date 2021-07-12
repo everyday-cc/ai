@@ -32,6 +32,17 @@ related:
         width: 600
         height: 600
         isCached: true
+  - title: "AI Tool Help Predict COVID-related Death Risk"
+    excerpt: "Artificial intelligence is being extremely helpful in health care settings. Researchers have designed a new AI tool that can predict death risk from COVID-19 among patients in both inpatient and outpatient settings."
+    publishedDateTime: 2021-07-12T09:22:00Z
+    webUrl: "https://www.medindia.net/news/ai-tool-help-predict-covid-related-death-risk-202216-1.htm"
+    ampWebUrl: "https://www.medindia.net/amp/news/ai-tool-help-predict-covid-related-death-risk-202216-1.htm"
+    cdnAmpWebUrl: "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/ai-tool-help-predict-covid-related-death-risk-202216-1.htm"
+    type: article
+    provider:
+      name: Medindia
+      domain: medindia.net
+    quality: 39
   - title: "UW researchers find COVID-19 diagnoses made by artificial intelligence unreliable"
     excerpt: "A UW Allen School team recently published an article in Nature Machine Intelligence finding models predicting COVID-19 diagnosis from X-rays are relying on shortcuts."
     publishedDateTime: 2021-07-12T07:00:00Z

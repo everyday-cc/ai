@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Tesla's new Full Self Driving beta 9.0 still looks a bit too exciting"
+    excerpt: "Driving\" beta 9.0 software to selected early-access users, upgrading their Autopilot systems with new off-highway autonomous capabilities and better visualizations."
+    publishedDateTime: 2021-07-12T08:05:00Z
+    webUrl: "https://newatlas.com/automotive/tesla-full-self-driving-beta-9/"
+    ampWebUrl: "https://newatlas.com/automotive/tesla-full-self-driving-beta-9/?amp=true"
+    cdnAmpWebUrl: "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/automotive/tesla-full-self-driving-beta-9/?amp=true"
+    type: article
+    provider:
+      name: New Atlas
+      domain: newatlas.com
+    quality: 104
+    images:
+      - url: "https://assets.newatlas.com/dims4/default/1c28c35/2147483647/strip/true/crop/2160x1440+200+0/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F6b%2F41%2Feaa0d9a542708d5fd3d7bb6c8a5d%2Fscreen-shot-2021-07-12-at-5.07.48%20pm%20%282%29.png"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Tesla finally launches Full Self-Driving beta 9"
     excerpt: "Tesla's Full Self-Driving (FSD) beta 9 – or update 2021.4.18.12 – started rolling out at midnight on Friday, allowing users to activate some of Autopilot's advanced"
     publishedDateTime: 2021-07-10T20:08:00Z
@@ -46,22 +62,6 @@ related:
       - url: "https://static.techspot.com/images2/news/bigimage/2021/07/2021-07-10-image-8.jpg"
         width: 2032
         height: 1299
-        isCached: true
-  - title: "Hacker shows what Tesla Full Self-Driving’s vision depth perception neural net can see"
-    excerpt: "A hacker managed to pull Tesla’s vision depth perception neural net from his car with “Full Self-Driving” package. You can see how the vehicle detects depth with a point-cloud view powered ..."
-    publishedDateTime: 2021-07-07T16:12:00Z
-    webUrl: "https://electrek.co/2021/07/07/hacker-tesla-full-self-drivings-vision-depth-perception-neural-net-can-see/"
-    ampWebUrl: "https://electrek.co/2021/07/07/hacker-tesla-full-self-drivings-vision-depth-perception-neural-net-can-see/amp/"
-    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/07/07/hacker-tesla-full-self-drivings-vision-depth-perception-neural-net-can-see/amp/"
-    type: article
-    provider:
-      name: Electrek
-      domain: electrek.co
-    quality: 83
-    images:
-      - url: "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2021/07/Tesla-full-self-driving-neural-net-e1625673878181.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
-        width: 1200
-        height: 628
         isCached: true
   - title: "Elon Musk: Tesla will launch its ‘mind-blowing’ Full Self-Driving Beta v9 on Saturday"
     excerpt: "Tesla is currently testing the “feature complete” version of its Full Self-Driving (FSD) package in beta with a few thousand customers and employees through its early access program."

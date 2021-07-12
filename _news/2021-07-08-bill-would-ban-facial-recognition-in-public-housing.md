@@ -7,7 +7,7 @@ originalUrl: "https://www.nextgov.com/emerging-tech/2021/07/bill-would-ban-facia
 webUrl: "https://www.nextgov.com/emerging-tech/2021/07/bill-would-ban-facial-recognition-public-housing/183131/"
 type: article
 quality: 139
-heat: 209
+heat: 219
 published: true
 
 provider:
@@ -86,6 +86,22 @@ related:
       - url: "https://cdn.mos.cms.futurecdn.net/8aD3McZbF9H7bJzZpUHXoU-480-80.jpg"
         width: 480
         height: 270
+        isCached: true
+  - title: "SoftBank backs facial-recognition startup"
+    excerpt: "SoftBank Group is leading an investment in AnyVision Interactive Technologies that values the facial-recognition company at over $1bn"
+    publishedDateTime: 2021-07-12T08:55:00Z
+    webUrl: "https://www.penews.com/articles/softbank-backs-facial-recognition-startup-20210712"
+    ampWebUrl: "https://www.penews.com/amp/articles/softbank-backs-facial-recognition-startup-20210712"
+    cdnAmpWebUrl: "https://www-penews-com.cdn.ampproject.org/c/s/www.penews.com/amp/articles/softbank-backs-facial-recognition-startup-20210712"
+    type: article
+    provider:
+      name: Private Equity News
+      domain: penews.com
+    quality: 44
+    images:
+      - url: "https://images.penews.com/im-367160/?width=749&height=499"
+        width: 749
+        height: 499
         isCached: true
   - title: "Try-on facial recognition apps land cosmetics firms in court"
     excerpt: "Two proposed class actions charge Mary Kay Cosmetics and Ulta Beauty with violating Illinois' Biometric Information Privacy Act with their try-on apps."

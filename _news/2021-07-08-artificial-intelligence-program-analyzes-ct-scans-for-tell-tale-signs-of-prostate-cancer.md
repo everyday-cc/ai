@@ -42,22 +42,6 @@ related:
         width: 724
         height: 482
         isCached: true
-  - title: "New AI tech for early detection of prostate cancer"
-    excerpt: "Now an artificial intelligence (AI) program developed at RMIT University could catch the disease earlier, allowing for incidental detection through routine computed tomography (CT) scans."
-    publishedDateTime: 2021-07-07T16:27:00Z
-    webUrl: "https://medicalxpress.com/news/2021-07-ai-tech-early-prostate-cancer.html"
-    ampWebUrl: "https://medicalxpress.com/news/2021-07-ai-tech-early-prostate-cancer.amp"
-    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-07-ai-tech-early-prostate-cancer.amp"
-    type: article
-    provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 57
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/new-ai-tech-for-early.jpg"
-        width: 1440
-        height: 981
-        isCached: true
 
 secured: "8YjDTMyDNyR/PoE1WHZts6IwjBUnZzqTd5qDz+Mj+UK8UgDKTnOBzDFd9RpAhQxbJ/Qf31ix/xKwoYnKalZe68l/wBIANozG+2Ts5ENByAvMRPbYJPJiLVJvdYr4nDGPqWxr00e1iTyHvjvgn5OAGRpKXGRZD95PmO6ziVo0dKvbFg8Il4JLHwplEJtGxuy34EbbPAoKi+OSMB93/0ZU3ZUFmL+GMKsfdUK7o9fc8iGt6rsSNClh+Fbmpbmiy3J08K9n6pQMIrj4i4m57YCurWPfIWr+LtaE5Rt5CUWWbqYpRPc60Zk03loCAtvaQHdbS7ZCSz+YK96Aih+hD2TxsNtbElelbCbILqUGFJayuRAPYH3EOM6akBaoTx544Zl+C8wFLPLNWOS0UP0pzMpgb/Q8e73nDQcj/rWkiU024wCKXbQEQYGSQ1Rqfhg4Bej9vtXdOdfKq7LE1+vbK7ykXK08DHJP7rCUXzRo9973ttNlg31CKmm7pwpkSZ/fB1VEgjpBK6m+m7JMuZzeXkIpCA==;zcdiuYbCx949Et+qxwjwzA=="
 ---

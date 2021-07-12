@@ -9,8 +9,8 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/07/09/claims-that-highw
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/07/09/claims-that-highway-dollars-wont-boost-economic-growth-are-missing-something-vital-namely-ai-self-driving-cars/amp/"
 type: article
 quality: 68
-heat: -1
-published: false
+heat: 78
+published: true
 
 provider:
   name: Forbes
@@ -31,35 +31,21 @@ images:
     isCached: true
 
 related:
-  - title: "If McDonald’s Is Rolling Out A Customer Loyalty Program, So Should AI Self-Driving Cars"
-    excerpt: "Customer loyalty programs are pervasive, though surprisingly McDonald's is just now rolling out their nationwide program. This brings up the aspect that AI-based true self-driving cars ought to have loyalty programs for riders,"
-    publishedDateTime: 2021-07-07T15:30:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2021/07/07/if-mcdonalds-is-rolling-out-a-customer-loyalty-program-so-should-ai-self-driving-cars/"
-    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/07/07/if-mcdonalds-is-rolling-out-a-customer-loyalty-program-so-should-ai-self-driving-cars/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/07/07/if-mcdonalds-is-rolling-out-a-customer-loyalty-program-so-should-ai-self-driving-cars/amp/"
+  - title: "Tech companies are using Pennsylvania roads to test self-driving vehicles. Are they following the state’s guidelines?"
+    excerpt: "Tech companies are allowed to release experimental self-driving cars onto Pennsylvania roads with minimal government oversight. However, PennDOT believes all the businesses testing autonomous vehicles in the state are following voluntary guidelines."
+    publishedDateTime: 2021-07-09T13:00:00Z
+    webUrl: "https://www.mcall.com/business/transportation/mc-biz-pa-automated-vehicles-safety-20210709-mhsnj5vmjneyfkn6hpzkwhxomu-story.html"
+    ampWebUrl: "https://www.mcall.com/business/transportation/mc-biz-pa-automated-vehicles-safety-20210709-mhsnj5vmjneyfkn6hpzkwhxomu-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-mcall-com.cdn.ampproject.org/c/s/www.mcall.com/business/transportation/mc-biz-pa-automated-vehicles-safety-20210709-mhsnj5vmjneyfkn6hpzkwhxomu-story.html?outputType=amp"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 81
+      name: Morning Call PA
+      domain: mcall.com
+    quality: 21
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60e23f3e7dfe3a5ff4aa4e5b%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D4158%26cropY1%3D137%26cropY2%3D2909"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Companies like Hudson and McDonald’s are testing drive-thru AI, invisible checkout"
-    excerpt: "Shoppers have been interacting with technology like self-checkout machines and automated customer service hotlines for years. But there are new tools taking on tasks workers used to do, from the retail sales floor to the restaurant drive thru,"
-    publishedDateTime: 2021-07-09T13:30:00Z
-    webUrl: "https://www.chicagotribune.com/business/ct-viz-hudson-white-castle-technology-photos-20210709-6lca744vk5gqzk6lefvguqkcem-photogallery.html"
-    type: article
-    provider:
-      name: Chicago Tribune
-      domain: chicagotribune.com
-    quality: 31
-    images:
-      - url: "https://www.chicagotribune.com/resizer/tj6FN5-eZuDhR405PJFaLy79-TU=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/4GM6JQQI6RGAPIUJQF3Z4ZY7HE.jpg"
-        width: 1200
-        height: 800
+      - url: "https://www.mcall.com/resizer/0YLb42m7G8DB_LyFKIDwQBIaYPo=/800x533/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/MKDOC7XG3WV43HPFK4CMJ6XTKY.jpg"
+        width: 800
+        height: 533
         isCached: true
 
 secured: "Ln0884gVUjozVONAkhC+icYfyBvA+5C9yFB3GOXpUXyKnTG/KAa603dYNFcpOrR9ZT2+hVReo9o31lF7eXGtw2eK4eyjPtmM2i+V03ZqC29y6mzORK7+JKIsLrCd2KVO9szh0iaEXbArrw9xrsquwtpLYSaIZSmz573ittf5FcNjGfRit+aRFkIk7TvnWJUg+SXemyeSajaOb5lNh4w5t0LfTL0wBUN5WjPYmqayWzkuMXc2kjoGERhiOn/heHwXqbppHICDqtVwNBElqUIxABNIg+QjdK1jXGRJE6xNq/jYkxyG4Sf0I07PpWROE158GE/ihY4XkK7lPPPnRt+gR+eCSOBSArDUxRWdJsuQuYEoi/PfGp6FZGSsAyZMooCn0J9gabauTtrv97NsgMB0II+tojQiUEUcwudzdw8+ptAzFD9fcthTT3ewbFAV5EsoWlFAeBl0ebk2/Htj390aAq9tuGJOhzkSHDysFif3KzwvzkwsQdNgDggd6PXXZlb8O7wDLjyJEZ8vLrw/rZ70gg==;dsQfm4lFxZ+s9bPXV3x2pA=="

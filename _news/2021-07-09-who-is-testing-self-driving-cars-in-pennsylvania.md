@@ -26,24 +26,6 @@ images:
     height: 800
     isCached: true
 
-related:
-  - title: "Tech companies are using Pennsylvania roads to test self-driving vehicles. Are they following the state’s guidelines?"
-    excerpt: "Tech companies are allowed to release experimental self-driving cars onto Pennsylvania roads with minimal government oversight. However, PennDOT believes all the businesses testing autonomous vehicles in the state are following voluntary guidelines."
-    publishedDateTime: 2021-07-09T13:00:00Z
-    webUrl: "https://www.mcall.com/business/transportation/mc-biz-pa-automated-vehicles-safety-20210709-mhsnj5vmjneyfkn6hpzkwhxomu-story.html"
-    ampWebUrl: "https://www.mcall.com/business/transportation/mc-biz-pa-automated-vehicles-safety-20210709-mhsnj5vmjneyfkn6hpzkwhxomu-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-mcall-com.cdn.ampproject.org/c/s/www.mcall.com/business/transportation/mc-biz-pa-automated-vehicles-safety-20210709-mhsnj5vmjneyfkn6hpzkwhxomu-story.html?outputType=amp"
-    type: article
-    provider:
-      name: Morning Call PA
-      domain: mcall.com
-    quality: 21
-    images:
-      - url: "https://www.mcall.com/resizer/0YLb42m7G8DB_LyFKIDwQBIaYPo=/800x533/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/MKDOC7XG3WV43HPFK4CMJ6XTKY.jpg"
-        width: 800
-        height: 533
-        isCached: true
-
 secured: "DWFf0QNm+SKsXwUlWQbCi9PWK0agdhhtrkkwVE/yvVEs9tP7sFpziqa/2mAiqwhRAJWT97+yi7trBu2V5MAUmoo7zUHTIQSighUX1JP+LEehC8HTD6xcYqp7DOOgVjaKBLrE4JAHWcmKVq0umoK5XO7SnkVsYhsm9a68efHgAgWs9EJ76CqI3ugaer5GbSOGXg/31NSwMoUHVnJEnSXuFVrToJpELxKnySjmXCVmXCHum/s22wectF4PDuIkU2SvivqQ/jXiUM3cDSFXD51Mos/io0hHq0UtGh0HNYfZ/vdlGUxC7Dj9k4dQQ5lxQKPSYJuE8jLRZHFKYeqyyT82FqjbME6QI2f+kIpVZQhY2/XGaU9j7G7tNoWzlT1Durn7YnDWo347QJ6VXpF5twMVXq3Ot7pksib//L427v3EEVcd5eJ0C9WgXTdsRNDbR8JKT6WGkgQ5+N89a+XQvVnl60Gnt6nfKXy1JGxpp6RLWyaiL2qDG2PfBQvh2OOVyew627vETUpMWuLakyxo43ws3Q==;W6frOOD2rhQAYjtQAwxAXQ=="
 ---
 

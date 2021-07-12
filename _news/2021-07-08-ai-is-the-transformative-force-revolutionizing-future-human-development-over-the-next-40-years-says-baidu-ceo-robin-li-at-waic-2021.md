@@ -54,20 +54,6 @@ related:
         width: 720
         height: 480
         isCached: true
-  - title: "Under pressure, Baidu and Tencent tout contributions to China"
-    excerpt: "Baidu CEO Robin Li said in a keynote speech ... announced that his company had begun developing 7-nm chips for self-driving technology. Cambricon produces chips that power AI vital to cloud ..."
-    publishedDateTime: 2021-07-08T18:10:00Z
-    webUrl: "https://asia.nikkei.com/Business/China-tech/Under-pressure-Baidu-and-Tencent-tout-contributions-to-China"
-    type: article
-    provider:
-      name: NIKKEI
-      domain: nikkei.com
-    quality: 39
-    images:
-      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%253A%252F%252Fs3-ap-northeast-1.amazonaws.com%252Fpsh-ex-ftnikkei-3937bb4%252Fimages%252F6%252F8%252F4%252F2%252F35212486-3-eng-GB%252FCropped-16257622402020-07-09T000000Z_168242707_RC2PPH9GMNYR_RTRMADP_3_CHINA-TECH.JPG?width=1024&height=512&fit=cover&gravity=faces&source=nar-cms"
-        width: 1024
-        height: 512
-        isCached: true
 
 secured: "ENjeaGGaQ5e2UqKKMonZzXSXo5iUVLsWHrYjTmPEkElqf+/ZfzCNbsPaKy2569QDCSSF1nIK0yIKFuwqehDMIlb6R2hAIaRseXXVp94K+vJSVpGjy3UQPp3Zc5E8lboQPMgElP3vDjEXURfeM0jddKzov91MO9IiUkN3nyIAQ+Qs8N4kmMUJaU4IDgKc8I2WtjgQpV09PY60wusBC0xG4XJqJO8Cl2HZ12C6tHIF05JAcPMd7Dr7zMQAMAkiLG4M9niyX6pPfIPxs92fLC66eAtfs2J5L4BhxGaJuJMchLXVHVjeKfSUiK2DvdTGZ13UQJIwMwV55NmE0sSZcu4c5Oq8dkyyYDX9PkOoTAlVNe1dSrkddYMYGPdC45gfR3KiUsQqZj2syeGindfdtdKja8lXychlfwCBw0qm82T8I84zgUx3OHYl1hvgV6nCH10QgGjTcoTceI1sRg521BfFECayGCV8q2IVuYM6sj7cHVpHtsxM4/HF1ufVdvSYV9mU56s2Eipg3PisWhS95xkpHA==;/53KZKRvCDyoVrXqZ0HdvA=="
 ---

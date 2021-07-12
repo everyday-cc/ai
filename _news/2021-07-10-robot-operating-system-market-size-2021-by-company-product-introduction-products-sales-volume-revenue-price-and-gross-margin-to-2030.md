@@ -30,71 +30,47 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence in Education Market Report 2021 to 2030 Globally Exploring Sales Volume Revenue and Price by Types"
-    excerpt: "Jul 07, 2021 (AmericaNewsHour) -- In a recent published report, Kenneth Research has updated the market report for Artificial Intelligence in Education Market for 2021 till 2030. Report further now discusses; the various strategies to be adopted or being ..."
-    publishedDateTime: 2021-07-07T15:32:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-education-market-report-2021-to-2030-globally-exploring-sales-volume-revenue-and-price-by-types-2021-07-07"
+  - title: "Military Robots Market Share, Size, Industry Players, Revenue And Product Demand Forecast Till 2024"
+    excerpt: "The government of various nations is continuously investing in automation technology for surveillance services by"
+    publishedDateTime: 2021-07-10T16:56:00Z
+    webUrl: "https://www.marketwatch.com/press-release/military-robots-market-share-size-industry-players-revenue-and-product-demand-forecast-till-2024-2021-07-10"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 75
+    quality: 55
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence in Telecommunication Market Size Insight Report 2021 to 2030 by Types, End Users and Regions with Analysis"
-    excerpt: "Jul 09, 2021 (AmericaNewsHour) -- In a recent published report, Kenneth Research has updated the market report for Artificial Intelligence in Telecommunication Market for 2021 till 2030. Report further now discusses; the various strategies to be adopted or ..."
-    publishedDateTime: 2021-07-09T14:57:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-telecommunication-market-size-insight-report-2021-to-2030-by-types-end-users-and-regions-with-analysis-2021-07-09"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 37
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Voice Recognition Market 2021 Comprehensive Analysis, Future Estimations, Growth Drivers and Forecast to 2030"
-    excerpt: "Jul 09, 2021 (AmericaNewsHour) -- In a recent published report, Kenneth Research has updated the market report for Voice Recognition Market for 2021 till 2030. Report further now discusses; the various strategies to be adopted or being adopted by the ..."
-    publishedDateTime: 2021-07-09T05:44:00Z
-    webUrl: "https://www.marketwatch.com/press-release/voice-recognition-market-2021-comprehensive-analysis-future-estimations-growth-drivers-and-forecast-to-2030-2021-07-09"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 35
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence as a Service Market 2021 Segmentation and Analysis by Recent Trends, Development and Growth by Trending Regions by 2030"
-    excerpt: "Jul 09, 2021 (AmericaNewsHour) -- In a recent published report, Kenneth Research has updated the market report for Artificial Intelligence as a Service Market for 2021 till 2030. Report further now discusses; the various strategies to be adopted or being ..."
-    publishedDateTime: 2021-07-09T11:34:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-as-a-service-market-2021-segmentation-and-analysis-by-recent-trends-development-and-growth-by-trending-regions-by-2030-2021-07-09"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 31
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Global AI Translation Market Size, Status and Forecast 2021-2027"
-    excerpt: "Pages Report] Check for Discount on Global AI Translation Market Size, Status and Forecast 2021-2027 report by QYResearch Group. Market Analysis and Insights: Global AI Translation Market The"
-    publishedDateTime: 2021-07-10T07:26:00Z
-    webUrl: "https://www.reportsnreports.com/reports/4660415-global-ai-translation-market-size-status-and-forecast-2021-2027.html"
+  - title: "Global Healthcare Artificial Intelligence Market Size, Status and Forecast 2021-2027"
+    excerpt: "Pages Report] Check for Discount on Global Healthcare Artificial Intelligence Market Size, Status and Forecast 2021-2027 report by QYResearch Group. AI in healthcare has huge and wide reaching potential"
+    publishedDateTime: 2021-07-09T07:53:00Z
+    webUrl: "https://www.reportsnreports.com/reports/4655759-global-healthcare-artificial-intelligence-market-size-status-and-forecast-2021-2027.html"
     type: article
     provider:
       name: ReportsnReports
       domain: reportsnreports.com
-    quality: 17
+    quality: 27
+  - title: "Global Automatic Speech Recognition Market Size, Status and Forecast 2021-2027"
+    excerpt: "The global Automatic Speech Recognition market size is projected to reach US$ XX million by 2027, from US$ XX million in 2020, at a CAGR of XX% during 2021-2027. With industry-standard accuracy in analysis and high data integrity, the report makes a ..."
+    publishedDateTime: 2021-07-10T09:05:00Z
+    webUrl: "https://www.reportsnreports.com/reports/4660781-global-automatic-speech-recognition-market-size-status-and-forecast-2021-2027.html"
+    type: article
+    provider:
+      name: ReportsnReports
+      domain: reportsnreports.com
+    quality: 15
+  - title: "Global Machine Learning in Automobile Market Size, Status and Forecast 2021-2027"
+    excerpt: "Pages Report] Check for Discount on Global Machine Learning in Automobile Market Size, Status and Forecast 2021-2027 report by QYResearch Group. Machine learning in the automotive industry has a remarkable"
+    publishedDateTime: 2021-07-09T07:52:00Z
+    webUrl: "https://www.reportsnreports.com/reports/4655617-global-machine-learning-in-automobile-market-size-status-and-forecast-2021-2027.html"
+    type: article
+    provider:
+      name: ReportsnReports
+      domain: reportsnreports.com
+    quality: 14
 
 secured: "/056tpfnVePBvdhRei7KYi8z7F5NaFOziyvMqXHsbxF8q4VZdK3nTqs1OkzaWGV3mcG3qsJiBoq70Vh62iM6+2//hzKWPQ8g53NzOhVemWDafLGgfc7XQ+4ZXUziH7H15KW5lzlPA2kebKlvlQj5sSD8/V7nirott723dySqiRE5TTED+kBLcwGkgM3ZSZlWBJQcCvdcmJpKkCtVikbSlZ4zpReUg76qJLEh2l63EAh2gT2JocSZ1TD/G+iuqZDqvgAta0hAseZMWUU02CfHbBDtFiZOonH0pNfljPl0vq3vhKMahMEjLdDprRta4ujKqq4E/ZauoSnvBQBUD2McRzzSYXtSjyaVegyNwkHyFiI=;tFZ3luhImWZb30PmQ4trBA=="
 ---

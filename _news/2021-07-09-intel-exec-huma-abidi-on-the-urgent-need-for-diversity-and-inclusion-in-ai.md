@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/07/08/intels-huma-abidi-on-the-urgent-n
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/08/intels-huma-abidi-on-the-urgent-need-for-diversity-and-inclusion-initiatives-in-ai/amp/"
 type: article
 quality: 85
-heat: 95
+heat: 85
 published: true
 
 provider:
@@ -28,22 +28,6 @@ images:
     width: 1200
     height: 648
     isCached: true
-
-related:
-  - title: "Diversity key as AI increasingly integrated into automotive safety systems"
-    excerpt: "That is, female-figure dummies or those mirroring the size and physique of young children were often excluded from critical vehicle safety testing. \"What ended up happening is that these safety settings,"
-    publishedDateTime: 2021-07-07T16:19:00Z
-    webUrl: "https://www.rubbernews.com/automotive/diversity-key-ai-increasingly-integrated-automotive-safety-systems"
-    type: article
-    provider:
-      name: Rubber and Plastics News
-      domain: rubbernews.com
-    quality: 37
-    images:
-      - url: "https://s3-prod.rubbernews.com/s3fs-public/styles/800x600/public/Autonomous%20cars_i.jpg"
-        width: 800
-        height: 600
-        isCached: true
 
 secured: "V1qKq5Y6ip6h40pQHmkXU3342VE3/KJGJIwVYjiNDoe+dKQlkJ/lNXZHj5pjlvjQaTdnn9/LEYFTSkcuA2hvAPLPQzPKx5FJOlgYcOEI7P2u61SFDP4YwGpv5c6moUpY2MFT73ABemWVYoppSNq7bM5jOkhDMdYsEddVqXOQ2jMgKNhUGzymdP4n2kh63iMX7Ia93YsrffWD5jdFESmKlt5RXkLsYKTpX3bmCQ8dFWh0HVF8o0xaagRYp5O01M0XWV2ArHliwoPQ0gks4BmnJkzZsZzN1U5G+QBwYBJo4Kx5PEltQiqEOrkjobdbfK0M9pzYNx8AU4QZTc72tUbDIL8lHcaUistezosZjoVwvP4YezvDtJI5eUjf+Mhy1Onix3AGjyfrQGjXgjNqeVoPEMzHw1/fnbwZXjQBczMIFDw9Rku3JNCwZSEc5OO6bEa9B/XbRBtH4L43iWyIQAuE7T3BOw3p3aAbe3iXxr4JuaJ/yzwjeXrMNR50/4WRqpILqH4LdJ4hmyl0tkR0f+HyBQ==;vRq6mBRKvuJ6N3XTwTq0bA=="
 ---

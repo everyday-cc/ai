@@ -1,0 +1,87 @@
+---
+category: news
+title: "Can Artificial Intelligence Detect Sea-Ice And Enhance Safety?"
+excerpt: "Does Artificial Intelligence have aid for the same? Let’s find out. Ice has different patterns in terms of size, and it sometimes becomes challenging to recognize its size and location as it may be under the deep sea in most cases."
+publishedDateTime: 2021-07-12T09:44:00Z
+originalUrl: "https://fossbytes.com/can-artificial-intelligence-ai-detect-sea-ice/"
+webUrl: "https://fossbytes.com/can-artificial-intelligence-ai-detect-sea-ice/"
+ampWebUrl: "https://fossbytes.com/can-artificial-intelligence-ai-detect-sea-ice/amp/"
+cdnAmpWebUrl: "https://fossbytes-com.cdn.ampproject.org/c/s/fossbytes.com/can-artificial-intelligence-ai-detect-sea-ice/amp/"
+type: article
+quality: 57
+heat: -1
+published: false
+
+provider:
+  name: Foss Bytes
+  domain: fossbytes.com
+
+topics:
+  - AI
+
+images:
+  - url: "https://fossbytes.com/wp-content/uploads/2021/07/10-07-2021-e1625904828984.jpeg"
+    width: 1200
+    height: 694
+    isCached: true
+
+related:
+  - title: "An AI for sea ice identification"
+    excerpt: "If you've watched Netflix, shopped online, or run your robot vacuum cleaner, you've interacted with artificial intelligence, AI. AI is what allows computers to comb through an enormous amount of data to detect patterns or solve problems."
+    publishedDateTime: 2021-07-08T15:23:00Z
+    webUrl: "https://techxplore.com/news/2021-07-ai-sea-ice-identification.html"
+    ampWebUrl: "https://techxplore.com/news/2021-07-ai-sea-ice-identification.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-07-ai-sea-ice-identification.amp"
+    type: article
+    provider:
+      name: techxplore.com
+      domain: techxplore.com
+    quality: 57
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/2021/what-kind-of-sea-ice-i.jpg"
+        width: 1100
+        height: 554
+        isCached: true
+  - title: "The USPTO’s Patent Classification and Search Systems Have Jumped on the AI Bandwagon"
+    excerpt: "It is no question that Artificial Intelligence (“AI”) technologies have popped up in all aspects of society such as online shopping, music streaming, and social networking. The U.S. Patent"
+    publishedDateTime: 2021-07-08T23:24:00Z
+    webUrl: "https://www.natlawreview.com/article/uspto-s-patent-classification-and-search-systems-have-jumped-ai-bandwagon"
+    ampWebUrl: "https://www.natlawreview.com/article/uspto-s-patent-classification-and-search-systems-have-jumped-ai-bandwagon?amp"
+    cdnAmpWebUrl: "https://www-natlawreview-com.cdn.ampproject.org/c/s/www.natlawreview.com/article/uspto-s-patent-classification-and-search-systems-have-jumped-ai-bandwagon?amp"
+    type: article
+    provider:
+      name: The National Law Review
+      domain: natlawreview.com
+    quality: 50
+    images:
+      - url: "https://www.natlawreview.com/sites/all/themes/nationallaw/WBE_Seal_RGB.png"
+        width: 1426
+        height: 808
+        isCached: true
+  - title: "Advances in application of Artificial Intelligence"
+    excerpt: "Scientists have recorded major breakthroughs in the application of Artificial Intelligence (AI) in health, weather forecasting and other areas of science."
+    publishedDateTime: 2021-07-08T04:11:00Z
+    webUrl: "https://guardian.ng/features/advances-in-application-of-artificial-intelligence/"
+    type: article
+    provider:
+      name: The Guardian Nigeria
+      domain: guardian.ng
+    quality: 41
+    images:
+      - url: "https://guardian.ng/wp-content/uploads/2019/09/Artificial-Intelligence-is-revolutionizing-the-Healthcare-Industry.jpg"
+        width: 1280
+        height: 719
+        isCached: true
+  - title: "NNSA leads national collaboration to drive next-generation in AI for nonproliferation"
+    excerpt: "Within NNSA, the Office of Defense Nuclear Nonproliferation Research and Development (DNN R&D) is spearheading collaborative efforts to drive advances in the science of artificial intelligence (AI), and accelerate the adoption of AI-enabled technologies to solve difficult and pressing nuclear nonproliferation and national security challenges."
+    publishedDateTime: 2021-07-09T00:00:00Z
+    webUrl: "https://www.energy.gov/nnsa/articles/nnsa-leads-national-collaboration-drive-next-generation-ai-nonproliferation"
+    type: article
+    provider:
+      name: Energy Department
+      domain: energy.gov
+    quality: 10
+
+secured: "xe5LE4a/WCbh1Mqk0QIYhLL3GWzgyb7+7EFZKMzQJuy3ANHkNZi9CX4BXqo6s0s2OP2KMIVnkdIZvN/lJ810L3UcpBeOOCqxHs87aqnaXidVLgMR6Dv6jJK+qjKntg+gop17OEt20GPbf4/wuky6PxgxaBLGAXJNKPG72RsrYq7XVhy4Ze00UyVkhAO6TBPyBYl2fEpWWXogZV/Cq4XS/WKf/ca8zhdP+X72rlqOcnjl92z9z4NggFa8wlx07I/2vs/toM2ZOXJGbKrwfAILSzabmgxYM3BzIBUP0bvXHYood6FQMyR0uGoXZZplupD5HqokY5RFTOolNuK9pc/HK1VJrZmuLZh5YR3kZXNPrLg=;FbmqCe5vg8GLnmBEyT1kBQ=="
+---
+

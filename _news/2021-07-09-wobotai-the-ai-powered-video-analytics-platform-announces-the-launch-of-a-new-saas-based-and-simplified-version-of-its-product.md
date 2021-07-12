@@ -24,20 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "Digital transformation fueling spending on cloud, AI, robotics, security and SaaS"
-    excerpt: "\"Emerging technologies like artificial intelligence, the Internet of Things ... are investing in key use cases like collaborative robotics, operational performance management, and 3D and digital product design and review for improved cost control and ..."
-    publishedDateTime: 2021-07-07T16:31:00Z
-    webUrl: "https://www.securitysystemsnews.com/article/digital-transformation-fueling-spending-on-cloud-ai-robotics-security-and-saas"
-    type: article
-    provider:
-      name: Security Systems News
-      domain: securitysystemsnews.com
-    quality: 81
-    images:
-      - url: "https://www.securitysystemsnews.com/uploads/blog/6dfcbb88d032e82b4366850eb1aeb8ef.jpg"
-        width: 1000
-        height: 576
-        isCached: true
   - title: "Recycling using artificial intelligence and robotics"
     excerpt: "Abhijeet Ghosh, 6th Grade, Dodgen Middle School, Marietta, Georgia, student looks to recycle waste using artificial intelligence (AI) and robotics. Abhijeet is very keen on recycling. Recycling reduces waste,"
     publishedDateTime: 2021-07-08T09:21:00Z
@@ -52,21 +38,21 @@ related:
         width: 305
         height: 320
         isCached: true
-  - title: "Emotion AI Is Transforming the Way We Game"
-    excerpt: "By: Ranjan Kumar, CEO of Entropik Tech Emotion AI is rapidly advancing as applications become more widespread, and the technology becomes more dynamic with 2021 positioned as a breakout year. But exactly how much Emotion AI surrounds people through their computers,"
-    publishedDateTime: 2021-07-08T09:20:00Z
-    webUrl: "https://techbullion.com/emotion-ai-is-transforming-the-way-we-game/"
-    ampWebUrl: "https://techbullion.com/emotion-ai-is-transforming-the-way-we-game/amp/"
-    cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/emotion-ai-is-transforming-the-way-we-game/amp/"
+  - title: "What We’re Getting Wrong About Efficient AI Training at Scale"
+    excerpt: "Famed computer architecture author, professor, and Google distinguished engineer Google, David Patterson, wants to set the record straight on common"
+    publishedDateTime: 2021-07-09T18:38:00Z
+    webUrl: "https://www.nextplatform.com/2021/07/09/what-were-getting-wrong-about-efficient-ai-training-at-scale/"
+    ampWebUrl: "https://www.nextplatform.com/2021/07/09/what-were-getting-wrong-about-efficient-ai-training-at-scale/amp/"
+    cdnAmpWebUrl: "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2021/07/09/what-were-getting-wrong-about-efficient-ai-training-at-scale/amp/"
     type: article
     provider:
-      name: Impacts
-      domain: techbullion.com
+      name: The Next Platform
+      domain: nextplatform.com
     quality: 57
     images:
-      - url: "https://techbullion.com/wp-content/uploads/2021/07/emotion-AI.jpg"
-        width: 838
-        height: 475
+      - url: "https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2021/03/ab_networks_sdkfskn.jpg"
+        width: 1300
+        height: 500
         isCached: true
 
 secured: "ILRUo4n0hgPPGrqayk3j+ADZsl4CsvhjqJIoT+WQFiPHZa/MYDrgZHhl0os3mj6BPoRnhrxiZ+m0g8+6YK+BpI3NF7g5wdUV36pqvbWS6t2bdxC7dd+R/pInnqfWZMk4eGya+zqskgvp4iUYhsHWiRCSP09HwilbeoQxso3gSlxISELNx7m05tkkbuULKoEYh7exEFMXOpKeBg44GqiZBuvPjDWvqeRGLgErd0zTgH//z2jZm3UeB++ayz6ddx2hi5rXXvQtLVU4+dNL6JZEbzNx/PvKK1OGwbusxJHGxYJzmw8fKG+yt2Chrp4ywhLTYeru2YqVUyfMcYxjVfsifFw8mfBtiOn02I7kgiO2+9JGXBBzfsc7jAbhlRCzY3zTt3fWWl91D77W9mnm8NQCzv/pnNFIrow8VTj/PRpEnX+Df4QBvEsNWLTY/NrA3SOn7Vpm+aLS1ITU9Jduv/WxmhDN273uy7X7KDUUa+ZE2Kd6SYs4luCblcGTV3tN3+iOOSdiKA/1hDZcAm8CLVcMag==;EHEpPoh62+fbrxptMJRrrA=="

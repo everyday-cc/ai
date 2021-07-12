@@ -371,17 +371,17 @@
       "title": "Cognitive Space Selected to Participate in Inaugural AWS Space Accelerator for Startups",
       "excerpt": "Cognitive Space today announced it has been selected to participate in the Amazon Web Services (AWS) Space Accelerator, a business support program for startups seeking to use AWS to help solve the biggest challenges in the space industry.",
       "sourceUrl": null,
-      "webUrl": "https://www.register-herald.com/region/cognitive-space-selected-to-participate-in-inaugural-aws-space-accelerator-for-startups/article_507e16c7-aab8-50b5-bb22-82ce25e0ca3e.html",
-      "originalUrl": "https://www.register-herald.com/region/cognitive-space-selected-to-participate-in-inaugural-aws-space-accelerator-for-startups/article_507e16c7-aab8-50b5-bb22-82ce25e0ca3e.html",
+      "webUrl": "https://www.thedailytimes.com/business/cognitive-space-selected-to-participate-in-inaugural-aws-space-accelerator-for-startups/article_219c1112-214a-503a-b2c4-583570ef7376.html",
+      "originalUrl": "https://www.thedailytimes.com/business/cognitive-space-selected-to-participate-in-inaugural-aws-space-accelerator-for-startups/article_219c1112-214a-503a-b2c4-583570ef7376.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://bloximages.chicago2.vip.townnews.com/bdtonline.com/content/tncms/assets/v3/editorial/c/a1/ca16b5b6-d9aa-11eb-b8a3-f724006d23d4/60dc77d6ecd4b.image.jpg?resize=300%2C250",
-          "width": 300,
-          "height": 250,
+          "url": "https://bloximages.chicago2.vip.townnews.com/thedailytimes.com/content/tncms/assets/v3/editorial/e/d4/ed47d423-7397-5ccf-96bc-6d9338ac9ec1/60e457dbb4981.image.jpg?crop=731%2C411%2C264%2C0&resize=731%2C411&order=crop%2Cresize",
+          "width": 731,
+          "height": 411,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -394,8 +394,8 @@
       "publishedDateTime": "2021-07-06T06:02:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "The Register-Herald",
-        "domain": "register-herald.com",
+        "name": "thedailytimes.com",
+        "domain": "thedailytimes.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -616,43 +616,25 @@
     {
       "path": "_news/2021-06-30-crowdstrike-wins-2021-amazon-web-services-global-public-sector-partner-and-canada-aws-partner-awards.md",
       "title": "CrowdStrike Wins 2021 Amazon Web Services Global Public Sector Partner and Canada AWS Partner Awards",
-      "excerpt": "CrowdStrike, a leader in cloud-delivered endpoint and workload protection, today announced it has been named the winner of two key Amazon Web Services",
+      "excerpt": "CrowdStrike, a leader in cloud-delivered endpoint and workload protection, today announced it has been named the winner of two key Amazon Web Services ( News - Alert) (AWS) partner-focused awards - the 2021 AWS Global Public Sector Partner Award for best cybersecurity solution and 2021 Canada AWS Partner Award as the ISV Partner of the Year.",
       "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/crowdstrike-wins-2021-amazon-web-services-global-public-sector-partner-and-canada-aws-partner-awards-2021-06-30",
-      "originalUrl": "https://www.marketwatch.com/press-release/crowdstrike-wins-2021-amazon-web-services-global-public-sector-partner-and-canada-aws-partner-awards-2021-06-30",
+      "webUrl": "https://www.tmcnet.com/usubmit/2021/06/30/9400745.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/2021/06/30/9400745.htm",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-30T05:00:00-07:00",
+      "publishedDateTime": "2021-06-30T05:12:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },

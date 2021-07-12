@@ -42,6 +42,22 @@ related:
         width: 1100
         height: 554
         isCached: true
+  - title: "Can Artificial Intelligence Detect Sea-Ice And Enhance Safety?"
+    excerpt: "Does Artificial Intelligence have aid for the same? Let’s find out. Ice has different patterns in terms of size, and it sometimes becomes challenging to recognize its size and location as it may be under the deep sea in most cases."
+    publishedDateTime: 2021-07-12T09:44:00Z
+    webUrl: "https://fossbytes.com/can-artificial-intelligence-ai-detect-sea-ice/"
+    ampWebUrl: "https://fossbytes.com/can-artificial-intelligence-ai-detect-sea-ice/amp/"
+    cdnAmpWebUrl: "https://fossbytes-com.cdn.ampproject.org/c/s/fossbytes.com/can-artificial-intelligence-ai-detect-sea-ice/amp/"
+    type: article
+    provider:
+      name: Foss Bytes
+      domain: fossbytes.com
+    quality: 57
+    images:
+      - url: "https://fossbytes.com/wp-content/uploads/2021/07/10-07-2021-e1625904828984.jpeg"
+        width: 1200
+        height: 694
+        isCached: true
   - title: "Advances in application of Artificial Intelligence"
     excerpt: "Scientists have recorded major breakthroughs in the application of Artificial Intelligence (AI) in health, weather forecasting and other areas of science."
     publishedDateTime: 2021-07-08T04:11:00Z

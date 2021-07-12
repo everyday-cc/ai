@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Tencent uses facial recognition to stop kids from gaming at night"
+    excerpt: "Chinese technology and media company Tencent has revealed that it is now using facial recognition technology to stop kids in China from spending their late night hours on mobile games. In a social media post on the Chinese platform QQ,"
+    publishedDateTime: 2021-07-12T08:55:00Z
+    webUrl: "https://sea.mashable.com/tech/16612/tencent-uses-facial-recognition-to-stop-kids-from-gaming-at-night"
+    ampWebUrl: "https://sea.mashable.com/tech/16612/tencent-uses-facial-recognition-to-stop-kids-from-gaming-at-night?amp=1"
+    cdnAmpWebUrl: "https://sea-mashable-com.cdn.ampproject.org/c/s/sea.mashable.com/tech/16612/tencent-uses-facial-recognition-to-stop-kids-from-gaming-at-night?amp=1"
+    type: article
+    provider:
+      name: Mashable
+      domain: mashable.com
+    quality: 89
+    images:
+      - url: "https://sm.mashable.com/t/mashable_sea/photo/default/tencent-china-kids-facial-recognition-gaming-header_9zph.620.png"
+        width: 620
+        height: 310
+        isCached: true
   - title: "Tencent Games uses facial recognition to restrict children’s screen time."
     excerpt: "The Chinese internet conglomerate Tencent said this week that it would deploy facial recognition technology in its video games in an attempt to close a loophole in restrictions aimed at limiting screen time."
     publishedDateTime: 2021-07-09T11:56:00Z
@@ -121,22 +137,6 @@ related:
         width: 1450
         height: 850
         isCached: true
-  - title: "Tencent uses facial recognition tool to stop kids playing video games at night"
-    excerpt: "Chinese publisher Tencent has started using its Midnight Patrol system to check for children playing video games when they shouldn’t."
-    publishedDateTime: 2021-07-07T16:44:00Z
-    webUrl: "https://metro.co.uk/2021/07/07/facial-recognition-tool-used-to-stop-kids-playing-video-games-at-night-14891074/"
-    ampWebUrl: "https://metro.co.uk/2021/07/07/facial-recognition-tool-used-to-stop-kids-playing-video-games-at-night-14891074/amp/"
-    cdnAmpWebUrl: "https://metro-co-uk.cdn.ampproject.org/c/s/metro.co.uk/2021/07/07/facial-recognition-tool-used-to-stop-kids-playing-video-games-at-night-14891074/amp/"
-    type: article
-    provider:
-      name: Metro
-      domain: metro.co.uk
-    quality: 55
-    images:
-      - url: "https://metro.co.uk/wp-content/uploads/2021/07/111768008_honor.kings_.g-821d.jpg?quality=90&strip=all&zoom=1&resize=600%2C337"
-        width: 600
-        height: 337
-        isCached: true
   - title: "Tencent will use facial recognition to restrict children from playing games late at night"
     excerpt: "Online gaming giant Tencent this week moved to close those loopholes by implementing facial verification checks on anyone playing with an adult ID after the curfew. Tencent also s"
     publishedDateTime: 2021-07-08T10:05:00Z
@@ -175,6 +175,20 @@ related:
       - url: "https://newsstatic.rthk.hk/images/mfile_1599790_1_L_20210708123159.jpg"
         width: 1280
         height: 960
+        isCached: true
+  - title: "Under pressure, Baidu and Tencent tout contributions to China"
+    excerpt: "Baidu CEO Robin Li said in a keynote speech ... announced that his company had begun developing 7-nm chips for self-driving technology. Cambricon produces chips that power AI vital to cloud ..."
+    publishedDateTime: 2021-07-08T18:10:00Z
+    webUrl: "https://asia.nikkei.com/Business/China-tech/Under-pressure-Baidu-and-Tencent-tout-contributions-to-China"
+    type: article
+    provider:
+      name: NIKKEI
+      domain: nikkei.com
+    quality: 39
+    images:
+      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%253A%252F%252Fs3-ap-northeast-1.amazonaws.com%252Fpsh-ex-ftnikkei-3937bb4%252Fimages%252F6%252F8%252F4%252F2%252F35212486-3-eng-GB%252FCropped-16257622402020-07-09T000000Z_168242707_RC2PPH9GMNYR_RTRMADP_3_CHINA-TECH.JPG?width=1024&height=512&fit=cover&gravity=faces&source=nar-cms"
+        width: 1024
+        height: 512
         isCached: true
   - title: "China's Tencent Turns To Facial Recognition To Snag Late-night Child Gamers"
     excerpt: "Chinese tech giant Tencent has rolled out a facial recognition \"midnight patrol\" function to root out children masquerading as adults to get around a government curfew on underage gamers. China bans people under 18 from playing online games between 10pm and 8am,"
@@ -260,7 +274,21 @@ related:
         width: 960
         height: 480
         isCached: true
+  - title: "China has long used facial recognition as a means of state control – now gamers are being targeted"
+    excerpt: "Tencent Gaming is using facial recognition tech to stop Chinese kids gaming at night. But is it a helpful public health exercise, or a more sinister attempt to control human behaviour?"
+    publishedDateTime: 2021-07-09T11:12:00Z
+    webUrl: "https://www.pinknews.co.uk/2021/07/09/chinese-facial-recognition-gaming/"
+    type: article
+    provider:
+      name: PinkNews
+      domain: pinknews.co.uk
+    quality: 25
+    images:
+      - url: "https://s31242.pcdn.co/wp-content/uploads/2021/07/GettyImages-857382022.jpg"
+        width: 1024
+        height: 628
+        isCached: true
 
-secured: "Tbe4szR5VZWSFg/NAu17ngN9gK95H9SeWnUrG0Dtvc6xhZfYLUdMrN68pbXl5sS0JS11y8tecnIfJr5ptyov2stS1w5ISMcky5JcTyUoGUFEflb5ZMy1oReslZ+I24ZFi15j9EvvZ5dHQGUMIpZxPEq7yhBDOA/OmLbrbl5b863bOspMf/+4bEY9Wczr4vMiXooPzh/0w/LTGdMyLTg/LvH7riFjjOGKiJU5Nz6wzbzuEwIld7hH11KNa7R2pMXqZozZuiBrENgh02sgBsEPPyl/eYKEKK0WoE/0Xd155Kp7zd6d8TUvpytQrWMCHeqYV1VYlf/HOXI8aidxbclkA3rRTZMafskIACM6WS34QX0=;W9OxH1gpaRfI5deNGi3/iA=="
+secured: "VccLAzuctJW3NQ8elNUJENQzNUjd5K/vRRD8chgmXJwMVFymFYTGMvDSQkvG3MYnTJMzH4RW5CliHS/WZebaV1vqNi95QCoFgPoH3Auvcf+qJXbKFz098FLuszpcv8HSs31K2RpgaPaHax758hPt0IIkjS+4GDt53FpqgaFJjDOvnBdzpjlJdhCKMx2r+YlPZGYvV0Pg9s5fC0h1lmPLZojbgie1SAVV8R6olBqn+iX9nB06HVUU6DYkfSMNHecXLD9iZbjWBKfvQQp2BdS7w2ftw8NYhZQ7u/2/fQsYs6AZ4o0MupvJreLjeKr8THSJH6l+XDvG5ugcEBd0kdb1JNbvTieowu9RiD7OZO+4mAzypsuGKac88mGptMMTCPMno3dztwoHmhSkFZmvSENy5mcPsBC7WIhEzqUgaTvoaHZmcSI5PfRFMSeMFPzRsTeATDmilPKnsUSvmB1ho1OHcOdsPRD05mDp9RRGRPppnxQ0alwpjKNJyjmAlN9USWeG2Ys3G569QbRc9Ubsf2oYJQ==;lx7MjHABWjLvomysuBSbUQ=="
 ---
 

@@ -38,6 +38,17 @@ related:
         width: 600
         height: 600
         isCached: true
+  - title: "AI Tool Help Predict COVID-related Death Risk"
+    excerpt: "Artificial intelligence is being extremely helpful in health care settings. Researchers have designed a new AI tool that can predict death risk from COVID-19 among patients in both inpatient and outpatient settings."
+    publishedDateTime: 2021-07-12T09:22:00Z
+    webUrl: "https://www.medindia.net/news/ai-tool-help-predict-covid-related-death-risk-202216-1.htm"
+    ampWebUrl: "https://www.medindia.net/amp/news/ai-tool-help-predict-covid-related-death-risk-202216-1.htm"
+    cdnAmpWebUrl: "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/ai-tool-help-predict-covid-related-death-risk-202216-1.htm"
+    type: article
+    provider:
+      name: Medindia
+      domain: medindia.net
+    quality: 39
   - title: "AI-Driven ECG for COVID-19 Rule-Out Scores High in Tests, Has Mobile Potential"
     excerpt: "The negative predictive value was 99% for ECGs assembled from patients around the world with a COVID-19 prevalence of 5%. It was still 90% when the simulated prevalence was raised to pandemic levels."
     publishedDateTime: 2021-07-09T15:46:00Z
@@ -48,6 +59,6 @@ related:
       domain: medscape.com
     quality: 13
 
-secured: "mVlwS2LYEN0d7i3xhAx50xUXIleTUALALwFcetTl0soy1vUVMLZqiaVT//Dvh942Zl/FnqSunv+g29Fc8nRzfTK1JzDi3z/otLHHYQJartZiz/ROtZN4Fu+06RqD2ePB7kJZd/ltPVZVD+9ucEmTHdM8OUAc+c5MibaABlpLBlpKb2ojAmpcaLf7hUjS+YQtAFMu3HHF5bf1rqs9h/vw4tTwBjvuQdphDpUjDrQK7MSqgOZx7qqa7CVgjyO8/Zuel4Hy0gWiGj96Utu5gdA0oBc1oKc+pzkidfdO7VB83lSEMOs7gT9SWknlShEqvQNIV3mHyK94BViwqVHXVWtxHcLeecN7ouncDemkwNtxl2I=;rPXg1c061IVxWNaQEnThXQ=="
+secured: "2p9yPq0kUi2gYRni/2fJFkvs0tOvCTe5FNkjgn6Dymp7/w3U0bAjc21g9RzFIne0v9sTCWXtgH0CiycCWYBBIBzMPEe34/Z1JAKBmrMGwpH4cy9/myIJAqyZlw1Ju9tK1W6iBvqOAYrkGlrQmgL491zkDMm2rlGoehE61/JvIQTYQcKIWsimNfWpZkSEzO4DK8rjLihSlEbSkx96F1+NdEstt23+R+k4dalyG44W3QxYyD+ZsBc52lEhLBGHHf7WHIXtiX9K0oGD/qnuEGQGGGAdgnHdn75WI9QpjbYI5igijqbh8vcx3DpqSwD5iGxFsqTeQZ1rQMUzN4CPpcopdkQNLnG9UWJ8PtbjaZlHGiQyQAsRlLx1qUOvNcL/VAaCuphxbnFhj6Au9avjbCxFW+SbmRD7qt7Y/XnCLBB3GcKx90i+q251f85mw+sFudxHXA2KHl2O49hmki8h70bFoZW3J1ypaatwZfF1HEKm0Foz08y+wIJMwwlLfBYsi7DWoYZcdOBGTA+O71V/gXDfSw==;n3WlxlWYM8GW5OQuSH97XA=="
 ---
 
