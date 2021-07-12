@@ -18,68 +18,40 @@ topics:
   - AI
 
 related:
-  - title: "An AI for sea ice identification"
-    excerpt: "If you've watched Netflix, shopped online, or run your robot vacuum cleaner, you've interacted with artificial intelligence, AI. AI is what allows computers to comb through an enormous amount of data to detect patterns or solve problems."
-    publishedDateTime: 2021-07-08T15:23:00Z
-    webUrl: "https://techxplore.com/news/2021-07-ai-sea-ice-identification.html"
-    ampWebUrl: "https://techxplore.com/news/2021-07-ai-sea-ice-identification.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-07-ai-sea-ice-identification.amp"
+  - title: "Intelligent automation drives operational insurance improvements"
+    excerpt: "By using the advanced data and natural language processing (NLP) capabilities of AI to mine data from claim forms, fraudulent claims and patterns of fraud can be flagged. Furthermore, AI can identify patterns through the syntax of the descriptions of ..."
+    publishedDateTime: 2021-07-12T09:10:00Z
+    webUrl: "https://www.itweb.co.za/content/j5alr7QaV8e7pYQk"
+    ampWebUrl: "https://www.itweb.co.za/amp/content/j5alr7QaV8e7pYQk"
+    cdnAmpWebUrl: "https://www-itweb-co-za.cdn.ampproject.org/c/s/www.itweb.co.za/amp/content/j5alr7QaV8e7pYQk"
     type: article
     provider:
-      name: techxplore.com
-      domain: techxplore.com
-    quality: 57
+      name: ITWeb
+      domain: itweb.co.za
+    quality: 44
     images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2021/what-kind-of-sea-ice-i.jpg"
-        width: 1100
-        height: 554
+      - url: "https://lh3.googleusercontent.com/jBbFIuAhte50zeDVZG9GoRXg3uVym2HgX_lFzrBIk3OLNxgWyENN3244VRADAS4jn23FLd5OxDAHpcct2TvYEIvKT-H-n9zTvRw=w816-h428"
+        width: 692
+        height: 428
         isCached: true
-  - title: "Can Artificial Intelligence Detect Sea-Ice And Enhance Safety?"
-    excerpt: "Does Artificial Intelligence have aid for the same? Let’s find out. Ice has different patterns in terms of size, and it sometimes becomes challenging to recognize its size and location as it may be under the deep sea in most cases."
-    publishedDateTime: 2021-07-12T09:44:00Z
-    webUrl: "https://fossbytes.com/can-artificial-intelligence-ai-detect-sea-ice/"
-    ampWebUrl: "https://fossbytes.com/can-artificial-intelligence-ai-detect-sea-ice/amp/"
-    cdnAmpWebUrl: "https://fossbytes-com.cdn.ampproject.org/c/s/fossbytes.com/can-artificial-intelligence-ai-detect-sea-ice/amp/"
+  - title: "Global Machine Learning Operationalization Software Market Size, Status and Forecast 2021-2027"
+    excerpt: "Pages Report] Check for Discount on Global Machine Learning Operationalization Software Market Size, Status and Forecast 2021-2027 report by QYResearch Group. Market Analysis and Insights: Global Machine Learning Operationalization Software"
+    publishedDateTime: 2021-07-09T08:04:00Z
+    webUrl: "https://www.reportsnreports.com/reports/4656537-global-machine-learning-operationalization-software-market-size-status-and-forecast-2021-2027.html"
     type: article
     provider:
-      name: Foss Bytes
-      domain: fossbytes.com
-    quality: 57
-    images:
-      - url: "https://fossbytes.com/wp-content/uploads/2021/07/10-07-2021-e1625904828984.jpeg"
-        width: 1200
-        height: 694
-        isCached: true
-  - title: "The USPTO’s Patent Classification and Search Systems Have Jumped on the AI Bandwagon"
-    excerpt: "It is no question that Artificial Intelligence (“AI”) technologies have popped up in all aspects of society such as online shopping, music streaming, and social networking. The U.S. Patent"
-    publishedDateTime: 2021-07-08T23:24:00Z
-    webUrl: "https://www.natlawreview.com/article/uspto-s-patent-classification-and-search-systems-have-jumped-ai-bandwagon"
-    ampWebUrl: "https://www.natlawreview.com/article/uspto-s-patent-classification-and-search-systems-have-jumped-ai-bandwagon?amp"
-    cdnAmpWebUrl: "https://www-natlawreview-com.cdn.ampproject.org/c/s/www.natlawreview.com/article/uspto-s-patent-classification-and-search-systems-have-jumped-ai-bandwagon?amp"
+      name: ReportsnReports
+      domain: reportsnreports.com
+    quality: 7
+  - title: "RVH Solutions Inc. Secures Series B Funding from Vizient Inc., the Nation's Largest Member-Driven Health Care Performance Improvement Company"
+    excerpt: "RVH Solutions, Inc. (the \"Company\"), a leading healthcare technology solutions provider to hospitals, health systems, academic medical centers and skilled nursing facilities in the United States and the United Kingdom,"
+    publishedDateTime: 2021-07-12T13:08:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-rvh-solutions-inc-secures-series-b-funding-from-/2021/07/12/9406724.htm"
     type: article
     provider:
-      name: The National Law Review
-      domain: natlawreview.com
-    quality: 50
-    images:
-      - url: "https://www.natlawreview.com/sites/all/themes/nationallaw/WBE_Seal_RGB.png"
-        width: 1426
-        height: 808
-        isCached: true
-  - title: "What Kind of Sea Ice is That? Thanks to AI, There's an App for That"
-    excerpt: "If you’ve watched Netflix, shopped online, or run your robot vacuum cleaner, you’ve interacted with artificial intelligence, AI. AI is what allows computers to comb through an enormous amount ..."
-    publishedDateTime: 2021-07-12T17:05:00Z
-    webUrl: "https://maritime-executive.com/editorials/what-kind-of-sea-ice-is-that-thanks-to-ai-there-s-an-app-for-that?fb_ref=tFA8fzllQY-Twitter"
-    type: article
-    provider:
-      name: Maritime Executive
-      domain: maritime-executive.com
-    quality: 37
-    images:
-      - url: "https://maritime-executive.com/media/images/article/Photos/Navy_Govt_CoastGuard/antarctica-icebreaker-coast-guard-cimsec.e403a2.jpg"
-        width: 643
-        height: 361
-        isCached: true
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
 secured: "tVlYmon4y7molYmDZTF9pGSxYMEzt+ieExEsnXKFG4eH8ld4OpAJaMsrqJQVN5dEzaq6D8SW+Rwoz0ylAnJydLqBs/4obXq+gb5cZkpdC1Vt0WTezPCe6mW05zlk9XvVX3oYcx9z1MIS3bB1NK8Hm+8zYsYSPyflaRsy+KWGtnZWbqge+ePfyXw//GQFG2Ja0fh02TWq6+nUO0zqsmIpDqxbZFsK0u/MdrofFKJrYp4xGKpjhIrgvigr44/6wVgJjkCwhTeQa+0z7wpnyKYvih+M4QcrTH9pGhGwIziGXwZ9zEPUr/SaHnTKMX+OjrbrYbJJ+234oI3PqXcB+IK4qhnXe+ftGjWY4hj+rqJj6+k7bgtlaNe8SDV6pDmWAiSaRtNBkQDaK3vPMDVAOySmtYktRYCNerOSzLyt0za72RSSx9/mhan8+91lwI0/Z4tzBll9niXKdCoI8L6jyEyylxAmFyznCXhonZZWU/O2f4T5xAjcl70CF63Z9o8QFAS06E3AsTE8lroeOYC+3kWTYA==;k8r+4uUGFGMDqWxzf7O5xA=="
 ---

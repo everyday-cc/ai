@@ -413,6 +413,22 @@ related:
       name: Futurism
       domain: futurism.com
     quality: 24
+  - title: "Elon Musk warns Tesla drivers to 'be paranoid' about safety and not rely too much on the assisted driving tech when using new Full Self-Driving 9 beta software"
+    excerpt: "Driving' 9 beta, which lets cars automatically obey lights and change lanes. But Elon Musk is telling owners to avoid becoming over-reliant on the assisted driving tech."
+    publishedDateTime: 2021-07-12T21:02:00Z
+    webUrl: "https://www.dailymail.co.uk/sciencetech/article-9781459/Elon-Musk-warns-Tesla-drivers-paranoid-safety-using-new-Self-Driving-9-beta.html"
+    ampWebUrl: "https://www.dailymail.co.uk/sciencetech/article-9781459/amp/Elon-Musk-warns-Tesla-drivers-paranoid-safety-using-new-Self-Driving-9-beta.html"
+    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-9781459/amp/Elon-Musk-warns-Tesla-drivers-paranoid-safety-using-new-Self-Driving-9-beta.html"
+    type: article
+    provider:
+      name: Daily Mail
+      domain: dailymail.co.uk
+    quality: 15
+    images:
+      - url: "https://i.dailymail.co.uk/1s/2021/07/12/21/45364507-0-image-a-54_1626121782996.jpg"
+        width: 636
+        height: 382
+        isCached: true
 
 secured: "5YV0hVznkD+DZcUKCmvBK3NYh/hASzgYfow5YDnofJTv7QJosfTt/YarWblDt+x83JLmLjMaZYdz1OIMiP2PYOAMUW/ygDqWuzZYmeCI1ycJXsMTbetofpQABljwunnFGdxEYnGMbDvAPIEv9RZvx4oabQO7lOxZl4B6S8KQFIyollg/PNUI1ELyvMPFztTMU0V3yUZ9IjGhjKTGHFXsMvu2m+HNY3POyKmBpKz/NZVVe4uKGZ8roWLnIFwCCNkfeJJ3NMME1WkG2OcJnVNfuOCKp0T00IZw9H5OgmT7qLT5jkHpCvjtnnKs32zU/dylCK9pcKbg09CMbOauL0D2LFD16ntnfoNl5x3eIwl7RAY=;v7rk5LRbdkwi0TOdHCggfg=="
 ---

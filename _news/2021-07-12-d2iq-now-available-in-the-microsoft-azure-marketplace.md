@@ -1,27 +1,27 @@
 ---
 category: news
 title: "D2iQ Now Available in the Microsoft Azure Marketplace"
-excerpt: "D2iQ, a leading independent Kubernetes platform, today announced the availability of the D2iQ Kubernetes Platform (DKP), including D2iQ Kommander, D2iQ Konvoy, and D2iQ Kaptain, in the Microsoft Azure Marketplace,"
-publishedDateTime: 2021-07-12T13:07:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-d2iq-now-available-the-microsoft-azure-marketplace-/2021/07/12/9406732.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-d2iq-now-available-the-microsoft-azure-marketplace-/2021/07/12/9406732.htm"
+excerpt: "D2iQ, a leading independent Kubernetes platform, today announced the availability of the D2iQ Kubernetes Platform (DKP), including"
+publishedDateTime: 2021-07-12T13:03:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/d2iq-now-available-in-the-microsoft-azure-marketplace-301331501.html"
+webUrl: "https://www.prnewswire.com/news-releases/d2iq-now-available-in-the-microsoft-azure-marketplace-301331501.html"
 type: article
 quality: 69
 heat: -1
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - Microsoft AI
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/1156495/D2IQ_Logo.jpg"
-    width: 400
-    height: 400
+  - url: "https://mma.prnewswire.com/media/1156495/D2IQ_Logo.jpg?p=facebook"
+    width: 2161
+    height: 1130
     isCached: true
 
 related:
@@ -163,6 +163,6 @@ related:
       domain: tmcnet.com
     quality: 14
 
-secured: "YxkB8teTOnbCKN7NS1vbFXzal+Idv8o10HbnIR9wJ5tgV/NJThq0uBNJgG2oNNOIjUH0eHFzy6PNWwTjfn1owLNfwb3PTyj8r6cs0UNpVhc5ABJex01IH4bprivGIr4Bohp+RHvPF+CG5QTyBYg37RGcBfuCYPRmWI9ADkJrbSbt+VPLwOre08jA090og/gNApRgFCxRtOvndJTz0xpeReUF/b712aiTNJtWWtsVM+g+8X5bDqiEzNTiM9fivt0Kj9WxQ7gzI6BcQJMa2KMdwUxDX1cw5JSdiN5/DfCfFGBu+FoVNXcOlJZV6tKtEJXQc9GgTGg/6tPMKRoV7iNgrJTzSxaZCsKXAWuiqrqKs3Y=;Iudsn2V8ZDQYYnakixQRLA=="
+secured: "VEcNz9rQJkg4ZelU8wFU75qZBAwWBp3t4PLeBNS7gLQ5uM8/s55FvGeNWllUaaAkgwK6IbZ0PEai5/1V4sSRjUXcDHAWg2etSuoG5FbteBOZLXW2gPnZEeBqkpYzqJB+bzu8baSh5QSInyWkX0JKvJkqd8OiUM2g6uQw+jxAOUFIn51ObvJzUkkwBPzlq6Xj1tvra5lvTYcdx/Anq3XtYsADhHi8CDYx75VbLyVxck2cKM/FgVaM/lLk58jccCKEoOWHBLI0szGgSG99A/1bnE++Y819qkURx1uTrx/VwaggzJkKqVn56Dq0sJynHI5eJb/8UQ8+B+2at1LpN92CaWd0DstvU5MmdltrM5l1OOI=;NkzT7qL/q5Ek1EEKICJo1w=="
 ---
 

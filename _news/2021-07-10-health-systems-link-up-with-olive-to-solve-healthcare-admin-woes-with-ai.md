@@ -7,7 +7,7 @@ originalUrl: "https://www.emarketer.com/content/health-systems-link-up-with-oliv
 webUrl: "https://www.emarketer.com/content/health-systems-link-up-with-olive-solve-healthcare-admin-woes-with-ai"
 type: article
 quality: 53
-heat: 63
+heat: -1
 published: false
 
 provider:
@@ -25,15 +25,22 @@ images:
     isCached: true
 
 related:
-  - title: "Bayesian Health Launches with Research-Backed AI Platform Enabling Health Systems to Save Lives"
-    excerpt: "Bayesian Health, an AI-based clinical decision support platform enabling health systems to provide safer and higher quality care, today launched its solution to the commercial market. Serving health systems on leading electronic medical record (EMR) vendors,"
-    publishedDateTime: 2021-07-12T14:54:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2021/07/12/9406883.htm"
+  - title: "How AI can enable better health care outcomes"
+    excerpt: "AI in health care can reduce medical waste and over-testing, cut costs, and improve diagnostics and patient care, a Transform panel agreed."
+    publishedDateTime: 2021-07-12T21:40:00Z
+    webUrl: "https://venturebeat.com/2021/07/12/how-ai-can-enable-better-health-care-outcomes/"
+    ampWebUrl: "https://venturebeat.com/2021/07/12/how-ai-can-enable-better-health-care-outcomes/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/12/how-ai-can-enable-better-health-care-outcomes/amp/"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 5
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 89
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2018/08/haptics-e1626058454242.jpg?w=1200&strip=all"
+        width: 1200
+        height: 600
+        isCached: true
 
 secured: "uRyxMF6+ub7frAwXHIUSTTvQ4YQC1ZOIT0VaQAYtUfPQVBWvv2xvkWRpunLXQC5nQgWhY7tFJvx2SYAMegnR81R4CTmhQ/r54BWG7tT1WH5dT4EL8+Ff01r23VdoU2narfeTyROmXtFNo4R8FhQJCrieaamx7lSuMRtp8effCXNHEtxtgI+WnPytsyio9QvWYg809RIxAGwMm7rWi2FacK1vs+wEFmMONDKDFxlDcQ8diljikH41p4dYOi1wvM2FbVM5edZOdMAGWzJ6X6cc3I1VLv0is00pabjk+T4fzxhnv0eUmJ0tAuQ9W/mVzblj1GuFWIqVxNdse8cdsQZdBaSYlzZ+m1QMRVhW9fkK4nk=;uHR1XjiS/kTyB+X5mvHRcQ=="
 ---

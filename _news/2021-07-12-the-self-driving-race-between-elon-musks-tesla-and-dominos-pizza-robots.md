@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnbc.com/amp/2021/07/10/self-driving-looking-less-like-e
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/07/10/self-driving-looking-less-like-elon-musk-more-dominos-pizza-robots.html"
 type: article
 quality: 105
-heat: 365
+heat: 375
 published: true
 
 provider:
@@ -419,6 +419,22 @@ related:
       name: TweakTown
       domain: tweaktown.com
     quality: 19
+  - title: "Elon Musk warns Tesla drivers to 'be paranoid' about safety and not rely too much on the assisted driving tech when using new Full Self-Driving 9 beta software"
+    excerpt: "Driving' 9 beta, which lets cars automatically obey lights and change lanes. But Elon Musk is telling owners to avoid becoming over-reliant on the assisted driving tech."
+    publishedDateTime: 2021-07-12T21:02:00Z
+    webUrl: "https://www.dailymail.co.uk/sciencetech/article-9781459/Elon-Musk-warns-Tesla-drivers-paranoid-safety-using-new-Self-Driving-9-beta.html"
+    ampWebUrl: "https://www.dailymail.co.uk/sciencetech/article-9781459/amp/Elon-Musk-warns-Tesla-drivers-paranoid-safety-using-new-Self-Driving-9-beta.html"
+    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-9781459/amp/Elon-Musk-warns-Tesla-drivers-paranoid-safety-using-new-Self-Driving-9-beta.html"
+    type: article
+    provider:
+      name: Daily Mail
+      domain: dailymail.co.uk
+    quality: 15
+    images:
+      - url: "https://i.dailymail.co.uk/1s/2021/07/12/21/45364507-0-image-a-54_1626121782996.jpg"
+        width: 636
+        height: 382
+        isCached: true
 
 secured: "VQirUH3535vJM7xPDNhBwMHjtXKu9bKENtM7a/6ocTyikrPs8sq2tcdIhap8T2X0eUUYC6Z1NF+ZUvhIkivcbbWNlKamMw0mMrpy7R8WKfq6oDnYsFkec+LfSl9vq/5/yawlzKpxm4VeKC5SVoJyvvldlpPIpglQOBL0qyZPScHMFHCSM9+kghxdpm8DZFgIcLwEilUU06R/RNQ579qf1dnheSPZLHE/ThJ+Z0fKYN65Hy/8zyszESRS7RVx1MAZZ2LyB5KCSsz8vr4lYGDvdKmTOg5n+B8XaggAzyHFmwyI559TRO3myc2H6AikGMmqL3NSBeuHy9RSu/7IqEGxq6zgKGbaGO8lF+W7uo8iqpRImYISmBmPlbrSv8A+VpbGu78+a4M5SQGzyC60QaNSdSKBsihZnQVwE9jz53h0zWxs8PtFyJ4LthgrleVF5QF6+ueQm8LURdmPwdF/Wjy+7Klt9BOSWN45K/jTJcvi0MPmPwycwZK91l1QdCTJzd0gL1M67unxpzNmqhowg4LHlg==;nuzRQI/OluQpPZUXoMM7WQ=="
 ---

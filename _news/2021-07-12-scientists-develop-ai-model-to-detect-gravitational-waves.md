@@ -35,20 +35,6 @@ related:
         width: 1200
         height: 400
         isCached: true
-  - title: "Can AI be ethical?"
-    excerpt: "Following the world being wowed at AI-powered technologies winning Jeopardy! and beating Go and chess grandmasters, it appears the world is growing worried about the seemingly unlimited power and influence of AI in our lives."
-    publishedDateTime: 2021-07-08T04:33:00Z
-    webUrl: "https://www.kmworld.com/Articles/Columns/Ethical-innovation/Can-AI-be-ethical-147767.aspx"
-    type: article
-    provider:
-      name: KMWorld Magazine
-      domain: kmworld.com
-    quality: 54
-    images:
-      - url: "https://dzceab466r34n.cloudfront.net/Images/ArticleImage/130547-520APS.jpg-ORG.jpg"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "+RyIfPFlpAR9XKFuuUSOP191h32mkOaQ8zNc35iNWICjdevq95nVOfsOUD9PuYhGCuKJhYwWp+i7YyIAiBHRfGetekhKuTPEAucHS4NrDcUPLDL9EZDCUaf9XIiGi33PDQx07GSJIxItTh/7jo66pUMdFRcPOU2opKwwtBha5wA8hEd2nCuOc8CyueNXDmux9iRDGFbtHOPbYpPmAqj2dh9SZ/+bn3TY9uikejaCvcF0ncFen9a6p94jHWHBxBOqIyBO3S8srAqTea9AVzwLUcqU+98KIO4lF9B/5Q2mP5uhJtQ6piLpQON4uMqdzrjozmd7eqgOtIv7PXXU1C8s5YPT+NqWP3jrtIrCxujQ9Ss=;xnl/kH40eHB2C/1xROsZaw=="
 ---

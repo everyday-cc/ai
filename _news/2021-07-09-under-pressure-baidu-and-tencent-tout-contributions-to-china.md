@@ -192,20 +192,6 @@ related:
         width: 749
         height: 499
         isCached: true
-  - title: "Tencent uses facial recognition to snag child gamers"
-    excerpt: "Chinese tech giant Tencent has rolled out a facial recognition \"midnight patrol\" function to root out children masquerading as adults to get around"
-    publishedDateTime: 2021-07-08T04:34:00Z
-    webUrl: "https://news.rthk.hk/rthk/en/component/k2/1599790-20210708.htm"
-    type: article
-    provider:
-      name: rthk.hk
-      domain: rthk.hk
-    quality: 39
-    images:
-      - url: "https://newsstatic.rthk.hk/images/mfile_1599790_1_L_20210708123159.jpg"
-        width: 1280
-        height: 960
-        isCached: true
   - title: "NAB pilots facial recognition for identity verification"
     excerpt: "NAB has piloted the same facial recognition technology as Westpac to allow consumers to verify their identity via a smartphone. The bank revealed to iTnews that it tested the service supplied by Sydney-headquartered OCR Labs. iTnews revealed in April that ..."
     publishedDateTime: 2021-07-12T02:08:00Z
@@ -234,19 +220,19 @@ related:
         width: 700
         height: 409
         isCached: true
-  - title: "China's Tencent Turns To Facial Recognition To Snag Late-night Child Gamers"
-    excerpt: "Chinese tech giant Tencent has rolled out a facial recognition \"midnight patrol\" function to root out children masquerading as adults to get around a government curfew on underage gamers. China bans people under 18 from playing online games between 10pm and 8am,"
-    publishedDateTime: 2021-07-08T04:23:00Z
-    webUrl: "https://www.ibtimes.com/chinas-tencent-turns-facial-recognition-snag-late-night-child-gamers-3247006"
+  - title: "Tencent uses facial recognition to curb young late-night gamers"
+    excerpt: "For almost every video game restriction, children and teenagers will find a way around it.. Read more at straitstimes.com."
+    publishedDateTime: 2021-07-12T21:00:00Z
+    webUrl: "https://www.straitstimes.com/tech/tech-news/tencent-uses-facial-recognition-to-curb-young-late-night-gamers"
     type: article
     provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 37
+      name: The Straits Times
+      domain: straitstimes.com
+    quality: 39
     images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/07/08/chinese-regulators-have-scrambled-to-keep-up-with.jpg"
-        width: 1024
-        height: 682
+      - url: "https://static.straitstimes.com.sg/s3fs-public/styles/x_large/public/articles/2021/07/13/bttencent20210712.jpg?itok=McLVgRuk"
+        width: 763
+        height: 509
         isCached: true
   - title: "Tencent using facial recognition to crack down on kids playing games at night"
     excerpt: "Gaming monolith Tencent has launched facial recognition technology that will stop children in China logging into games after a certain time of day. The \"midnight-patrol\" feature -- as reported by the BBC -- will ban children from playing games between 10pm and 8am."

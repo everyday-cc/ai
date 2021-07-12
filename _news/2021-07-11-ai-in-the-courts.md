@@ -44,20 +44,6 @@ related:
         width: 1200
         height: 960
         isCached: true
-  - title: "Advances in application of Artificial Intelligence"
-    excerpt: "Scientists have recorded major breakthroughs in the application of Artificial Intelligence (AI) in health, weather forecasting and other areas of science."
-    publishedDateTime: 2021-07-08T04:11:00Z
-    webUrl: "https://guardian.ng/features/advances-in-application-of-artificial-intelligence/"
-    type: article
-    provider:
-      name: The Guardian Nigeria
-      domain: guardian.ng
-    quality: 41
-    images:
-      - url: "https://guardian.ng/wp-content/uploads/2019/09/Artificial-Intelligence-is-revolutionizing-the-Healthcare-Industry.jpg"
-        width: 1280
-        height: 719
-        isCached: true
 
 secured: "1/lKeeheY3Vg/Wz7O9/h0ODG8/0f+/9bRbPkVDuHmVrjQfOrU7xhEJnwWlHWKfrFAQ80jlctSRXhrbXNNyY994LllD4j3X52ZhP+KnMe2r4q4NMzsNSdeZ0mnKEoKPYJt+brbJU2HUxRgXUEjRg28XzxHQoi+9MqAJJ7wgQsz3iC6XRax3FALpaWtYWGOLJbJ+cfKxEt5907drdi04zX+FJ3rNBteJhuv2cKLdI57xXe7PAUPsIIJ5SAp+RKqifBoKyJs9Wdg8LTlJd7VrtAAe6h3Auc0+P6B3n5crltOurD/McxBg1iS6QI7Bs9cnMIB/F3S6w4ai9vFM09UqBIuWVux049BNEU55GJQIiYhrRPyLWvFCxD18e9DTjxjmwyRAtquQvg3NbZLAzP0TSl5oNZQZ2lR9UWMu/7X0Fg2GRI4VEdVkgKE8ugxUjHfE0ozI3DWO93VG2BAj5FXRRAITmSP9+izGj2T3TH/ahwvaD5lLyrCJp+x0Q/9EvvUQk2HhmTD4ZkmLhPKfSgxiv27w==;wZmw5AFA5cIK7J4nuZjLvQ=="
 ---

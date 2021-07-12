@@ -63,15 +63,6 @@ related:
       name: manometcurrent.com
       domain: manometcurrent.com
     quality: 34
-  - title: "Deep Learning Market Size, Trends and Forecast 2028 By Amazon Web Services (AWS), Google, IBM, Intel, Micron Technology, Microsoft, Nvidia, Qualcomm"
-    excerpt: "The report covers a very methodical quantitative and qualitative analysis of the Deep Learning market. The study evaluates many aspects of this industry by examining its historical and forecast data."
-    publishedDateTime: 2021-07-08T04:57:00Z
-    webUrl: "https://manometcurrent.com/deep-learning-market-size-trends-and-forecast-2028-by-amazon-web-services-aws-google-ibm-intel-micron-technology-microsoft-nvidia-qualcomm/"
-    type: article
-    provider:
-      name: manometcurrent.com
-      domain: manometcurrent.com
-    quality: 29
   - title: "Voice Recognition Systems Market Is Booming Worldwide | Nuance Communications, Microsoft, Agnitio"
     excerpt: "Announced Voice Recognition Systems study with 200+ market data Tables and Figures spread through Pages and easy to understand detailed TOC on “Voice Recognition Systems. Voice Recognition Systems industry Report allows you to get different methods for maximizing your profit."
     publishedDateTime: 2021-07-12T18:40:00Z

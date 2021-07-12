@@ -414,6 +414,22 @@ related:
       name: TweakTown
       domain: tweaktown.com
     quality: 19
+  - title: "Elon Musk warns Tesla drivers to 'be paranoid' about safety and not rely too much on the assisted driving tech when using new Full Self-Driving 9 beta software"
+    excerpt: "Driving' 9 beta, which lets cars automatically obey lights and change lanes. But Elon Musk is telling owners to avoid becoming over-reliant on the assisted driving tech."
+    publishedDateTime: 2021-07-12T21:02:00Z
+    webUrl: "https://www.dailymail.co.uk/sciencetech/article-9781459/Elon-Musk-warns-Tesla-drivers-paranoid-safety-using-new-Self-Driving-9-beta.html"
+    ampWebUrl: "https://www.dailymail.co.uk/sciencetech/article-9781459/amp/Elon-Musk-warns-Tesla-drivers-paranoid-safety-using-new-Self-Driving-9-beta.html"
+    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-9781459/amp/Elon-Musk-warns-Tesla-drivers-paranoid-safety-using-new-Self-Driving-9-beta.html"
+    type: article
+    provider:
+      name: Daily Mail
+      domain: dailymail.co.uk
+    quality: 15
+    images:
+      - url: "https://i.dailymail.co.uk/1s/2021/07/12/21/45364507-0-image-a-54_1626121782996.jpg"
+        width: 636
+        height: 382
+        isCached: true
 
 secured: "AZ8HWNgk/ed+ZSSfCmSCIljCN+FrOivhiEyhjvd5jZ6MbOgW7TNcmGCLF+WQ9U7n5/5c98W9llG50u32uo05ubYLirsPEReREAPUyGPQDSy6Q4hVpIjq/G7haoXvQzOmYfNsdANOuLWlYW6W5jqg36K0lXbd/xqUD5ZUaGqLC9ZNOXWJ0jZgS35t3fPcmr90HXnrV+kCTZ0GPqZXinsGuXx/0cvQXX++Nfyrn6mCKhN+gXccsFV2JT8RQBYSUacSMMekiGa/62C6gtgu8vdHMcsFS92tT4mqCm9ClqgOfZcPMxo596F4CVbvx6beslnGohXBaCQmV725cS9M7FDWDooTvkZU29sU8nXVpIKr4VxgVvCGSo6/l8JhwRQCXlgIP4bDqs15h72BQANAte/5C12Wn1lEkyLLHhBDYST6VGLJjqSM/ro5A+glRnPF879IX5svHjIqgoMT3+rpzY+MyWwaz7hrbr9bgEvZ1sUK0mxJCFS4vLdLpxEtsuAwZsmZklb9aMxNy1Eya2ZSjkhaoQ==;WWH9tM+tPqiSfEigDDvUUA=="
 ---

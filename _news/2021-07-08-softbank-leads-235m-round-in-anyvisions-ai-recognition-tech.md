@@ -9,7 +9,7 @@ ampWebUrl: "https://www.geektime.com/israeli-startup-anyvision-raises-235m-for-f
 cdnAmpWebUrl: "https://www-geektime-com.cdn.ampproject.org/c/s/www.geektime.com/israeli-startup-anyvision-raises-235m-for-facial-recognition/amp/"
 type: article
 quality: 61
-heat: 71
+heat: 81
 published: true
 
 provider:
@@ -28,6 +28,22 @@ images:
     isCached: true
 
 related:
+  - title: "GM Ventures Increases Funding In AI Vision Software Company Algolux"
+    excerpt: "Algolux, an AI software company based out of Quebec, has announced the closure of series B funding, raising $18.4 million to help accelerate market adoption of the company’s scalable computer vision and image optimization solutions."
+    publishedDateTime: 2021-07-12T21:05:00Z
+    webUrl: "https://gmauthority.com/blog/2021/07/gm-ventures-increases-funding-in-ai-vision-software-company-algolux/"
+    ampWebUrl: "https://gmauthority.com/blog/2021/07/gm-ventures-increases-funding-in-ai-vision-software-company-algolux/amp/"
+    cdnAmpWebUrl: "https://gmauthority-com.cdn.ampproject.org/c/s/gmauthority.com/blog/2021/07/gm-ventures-increases-funding-in-ai-vision-software-company-algolux/amp/"
+    type: article
+    provider:
+      name: GM Authority
+      domain: gmauthority.com
+    quality: 59
+    images:
+      - url: "https://gmauthority.com/blog/wp-content/uploads/2021/01/Cruise-Origin-Honda-Japan-autonomous-vehicle-mobility-service-MaaS-announcement-002-e1611168765981-1024x553.jpg"
+        width: 1024
+        height: 553
+        isCached: true
   - title: "AI facial recognition co AnyVision raises $235m"
     excerpt: "Israeli AI-driven facial recognition company AnyVision has announced the completion of a $235 million financing round from SoftBank Vision Fund 2 and Eldridge with participation from existing ..."
     publishedDateTime: 2021-07-08T06:40:00Z

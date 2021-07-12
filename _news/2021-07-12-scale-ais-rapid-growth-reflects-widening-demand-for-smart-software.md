@@ -8,8 +8,8 @@ webUrl: "https://www.wsj.com/articles/scale-ais-rapid-growth-reflects-widening-d
 ampWebUrl: "https://www.wsj.com/amp/articles/scale-ais-rapid-growth-reflects-widening-demand-for-smart-software-11626082201"
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/scale-ais-rapid-growth-reflects-widening-demand-for-smart-software-11626082201"
 type: article
-quality: 87
-heat: 97
+quality: 89
+heat: 99
 published: true
 
 provider:
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://images.wsj.net/im-366229/social"
@@ -42,6 +43,6 @@ related:
       domain: openpr.com
     quality: 14
 
-secured: "OBKr70rgKbWWutxb6k35nfTSx3O+05IxFg8dAhV82O4in8F0hiLd6F+oeav5YQFEZIqp6Awos24O3KOVZ5eUiuSXxPbDfsO3/lCw9JnG/G1CmNq2pn7G5WIJMYxVBLpB2r09Dsctt2d1r6BkkJnr3QbTYvEn5VuBi7OBOEUKQw3Q0PbUu43iWjQLW+9qyTf8zh+xqvaJp3kVKXMoyRol05VIv8MuFiIfZXatwtQfzIvLRiltV8v8WnmjRAKzcJtg3pp19/NeM5VcCKxpuBY7xjx1kltrxsBfw8osBvn49wkwHTPEt7NoVeRcqx9t2ZuY9y+4Y+/9MYB/a/gYeBiQLKFcog8Z3/8NapEzw9zA8OI=;mPXVyyvcslAUNG9m6o6x7w=="
+secured: "OwHGf2DMjQdreGL4/tpff1dTmRHhSFJV6f8lXTMKcEr2Plkccus1ViSSrRd9XUAs50FIpKPAmgN/izh/b5w0BM3LoqmOQVssifiIdpe2aYlsqOaj9AUXxTscn0yCcW9TWIZyDkqYLHPWH5KAxJr5fO095LghedIFAEJQOaKYLzQsZ0gcmSkHRUHFiVLQMhv5EQeRppToCRXN+p54kFf8pptYQ9fI5DSs2tYnliE5VVMNrIOmQskNCP7abTf2yzvSfMEy+xnIMTLjc4X/CSNr5EIhirofGGpFHawH4QajZpoQn7lojc5MPe+33V8J68EWkW/1rSGy/3hDkqX76wyAtEc2jbfz3crsu8tmBVk+QVgwzqPrpMBzg7Go0K4ydIPQT3ZRfSeLP7FwrJvnRII5Cbg5RX8FWZaPy99KM6sOVE8MgVNds+rW0rEFHFw7f8j16hTRgslW9UL+PobLD+tIGLFuTpk8DRxz1kSRXZXOZLTf8WXAyPMTZIqN/+1e/681G6vzuDiIkAMIBbBsj4Fy3g==;Au6BjQpKr9IG6SkCegR7pA=="
 ---
 

@@ -2,7 +2,7 @@
 category: news
 title: "Artificial Intelligence Is On The Side Of Apes? Tesla-Fame's AI-Based ETF Sells Facebook, Walmart And Buys AMC"
 excerpt: "The Qraft AI-Enhanced US Large Cap Momentum ETF (NYSE: AMOM), an exchange-traded fund driven by artificial intelligence, has sold a majority of its holdings in Facebook Inc. (NASDAQ: FB) and Walmart Inc."
-publishedDateTime: 2021-07-12T11:31:00Z
+publishedDateTime: 2021-07-12T13:13:00Z
 originalUrl: "https://markets.businessinsider.com/news/etf/artificial-intelligence-is-on-the-side-of-apes-tesla-fame-s-ai-based-etf-sells-facebook-walmart-and-buys-amc-1030596697"
 webUrl: "https://markets.businessinsider.com/news/etf/artificial-intelligence-is-on-the-side-of-apes-tesla-fame-s-ai-based-etf-sells-facebook-walmart-and-buys-amc-1030596697"
 type: article
@@ -182,6 +182,6 @@ related:
       domain: theaustralian.com.au
     quality: 4
 
-secured: "vRCLBb6YmtrCKHP7f8VtmtxoZqEPdZrN1rvQduv7nejQ3moiU4cwYCEdabAdakFj6vJh/LPaMlF9fkqB94Qh1yWQos4at2KSmJ59MITbZEEX/iLoOpEGzYrcQ/R5MuLU6M9krxVctWDj1d4grurRloo4Z0lHtmx6isCVhZOMygaCPynIYD1dPyhwldaUj5lOF/ee57HelLVRGBdYC6LRf7FiIpkA+gYjxyGKeOW8HEBGEW0my29+L5sALmEIy4VkCsp+bIFvv8LCbsJ+FQwjIco/FKjTaeGJZAi/ijK9ml0/fGnpTA2WTLaXIb+/XvHquylEEH6ZpzX7onPrHFaix8G/gciRCOkKQ16Jk0RkEhI=;svd376pOymqiS5jAJNkFlQ=="
+secured: "ZuPy35bPLwFxyonHjIPrCyn5TkK5icuwyY3rLpaEe806v7IL6yJI7e3O7Ly0cOL/Uqdw7tXf3Ta73hEdId2PGab+WZt2vBIIn+Qw3EYn/iER2od0a8KnvC2OssjIcUXGhnA65eQksM3cVGBs2tLqXkWxNjAAYm6WlixTF0EoFSU8J1PJt8M8VWW56yg+BUQAmX/h0ym5xQvN2avdtBaa5Xqev28pzdVlFeTeRwPmcKYHPpq0IwjSfdL8OhyVJ0qapABtGhs6JQ+tChWITUYORgtzGX4ebe8wBC1jkc6z6lkje+GD/om2MWA/xeAHVucOIzOsLtYdlamvzWB9estpFrSFT2QKmI4JLhUlXpqXoys=;x6GPOJpkQC0r713cO+CIFQ=="
 ---
 

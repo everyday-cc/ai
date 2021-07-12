@@ -36,6 +36,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "How Mastercard is using AI to address cyber risk"
+    excerpt: "Johan Gerber, executive VP for security and cyber innovation at Mastercard, discusses how it uses AI to understand and adapt to cyber risk."
+    publishedDateTime: 2021-07-12T19:50:00Z
+    webUrl: "https://venturebeat.com/2021/07/12/how-mastercard-is-using-ai-to-address-cyber-risk/"
+    ampWebUrl: "https://venturebeat.com/2021/07/12/how-mastercard-is-using-ai-to-address-cyber-risk/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/12/how-mastercard-is-using-ai-to-address-cyber-risk/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2021/07/GettyImages-1232533853.jpg?w=1200&strip=all"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "How Predictive AI will Change Cybersecurity in 2021"
     excerpt: "In this contributed article, Dr. Igor Mezic, CTO of MixMod AI explains how you can identify and stop zero-day attacks like the SolarWinds attack with the invention of this Unsupervised, Predictive AI,"
     publishedDateTime: 2021-07-09T13:00:00Z

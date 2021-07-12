@@ -10,7 +10,7 @@
       "originalUrl": "https://www.cnbc.com/2021/07/10/self-driving-looking-less-like-elon-musk-more-dominos-pizza-robots.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 365,
+      "heat": 375,
       "tags": null,
       "images": [
         {
@@ -910,20 +910,20 @@
     },
     {
       "path": "_news/2021-06-30-chinas-didi-touts-tech-spending-ahead-of-wall-st-debut.md",
-      "title": "China's Didi touts tech spending ahead of Wall St debut",
-      "excerpt": "Early investors included Apple Inc., Japan’s Softbank, Alibaba and Chinese internet giants, Tencent Holding Ltd. and Baidu Inc. Didi ... into development of self-driving, electric vehicles ...",
+      "title": "China’s Didi touts tech spending ahead of Wall St debut",
+      "excerpt": "Chinese ride-hailing service Didi says it lost $5.5 billion over the past three years ahead of its U.S. stock market debut Wednesday but it's highlighting its global reach and investments in developing electric and self-driving cars.",
       "sourceUrl": null,
-      "webUrl": "https://www.baynews9.com/fl/tampa/ap-online/2021/06/30/chinas-didi-touts-tech-spending-ahead-of-wall-st-debut",
-      "originalUrl": "https://www.baynews9.com/fl/tampa/ap-online/2021/06/30/chinas-didi-touts-tech-spending-ahead-of-wall-st-debut",
+      "webUrl": "https://apnews.com/892017a21181bc873a4e4599a6b30b0f",
+      "originalUrl": "https://apnews.com/892017a21181bc873a4e4599a6b30b0f",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://s7d2.scene7.com/is/image/TWCNews/China_Didi_IPO_76014",
-          "width": 1280,
-          "height": 835,
+          "url": "https://storage.googleapis.com/afs-prod/media/f4881df4ea264a1cae6cbf329deecf07/3000.jpeg",
+          "width": 3000,
+          "height": 1956,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -933,11 +933,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-30T00:37:00-07:00",
+      "publishedDateTime": "2021-06-30T00:04:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Bay News 9",
-        "domain": "baynews9.com",
+        "name": "Associated Press",
+        "domain": "apnews.com",
         "images": null,
         "publishers": null,
         "authors": null

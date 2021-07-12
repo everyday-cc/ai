@@ -9,7 +9,7 @@ ampWebUrl: "https://www.computerweekly.com/news/252503741/Developers-have-a-mora
 cdnAmpWebUrl: "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252503741/Developers-have-a-moral-duty-to-create-ethical-AI?amp=1"
 type: article
 quality: 74
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Can AI be ethical?"
-    excerpt: "Following the world being wowed at AI-powered technologies winning Jeopardy! and beating Go and chess grandmasters, it appears the world is growing worried about the seemingly unlimited power and influence of AI in our lives."
-    publishedDateTime: 2021-07-08T04:33:00Z
-    webUrl: "https://www.kmworld.com/Articles/Columns/Ethical-innovation/Can-AI-be-ethical-147767.aspx"
-    type: article
-    provider:
-      name: KMWorld Magazine
-      domain: kmworld.com
-    quality: 54
-    images:
-      - url: "https://dzceab466r34n.cloudfront.net/Images/ArticleImage/130547-520APS.jpg-ORG.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Scientists develop AI model to detect gravitational waves"
     excerpt: "A team of computational scientists and researchers has developed a new artificial intelligence (AI) framework that allows for accelerated, scalable and reproducible detection of gravitational waves. The production-scale framework indicates that AI models could be as sensitive as traditional template matching algorithms,"
     publishedDateTime: 2021-07-12T10:56:00Z

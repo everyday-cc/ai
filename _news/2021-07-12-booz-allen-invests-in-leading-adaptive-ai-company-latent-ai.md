@@ -19,6 +19,15 @@ topics:
   - AI
 
 related:
+  - title: "Booz Allen exec dishes on strategy behind investment in West Coast AI company"
+    excerpt: "Executives with the McLean management and IT consulting company said they bought a minority stake in Latent AI Inc., a Menlo Park, California, company that helps optimize AI and machine learning capabilities and to make them accessible through the reach of ..."
+    publishedDateTime: 2021-07-12T18:34:00Z
+    webUrl: "https://www.bizjournals.com/washington/news/2021/07/12/booz-allen-takes-a-strategic-stake-edge-computing.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 14
   - title: "Booz Allen exec dishes on strategy behind investment in 'best in breed' AI company"
     excerpt: "Executives with the McLean-based management and information technology consulting company said they made a strategic investment in Latent AI Inc., a Menlo Park, California, company that helps optimize AI and machine learning capabilities and to make them ..."
     publishedDateTime: 2021-07-12T18:34:00Z

@@ -40,6 +40,22 @@ related:
         width: 1200
         height: 1000
         isCached: true
+  - title: "Artificial intelligence could be new blueprint for precision drug discovery"
+    excerpt: "Writing in the July 12, 2021 online issue of Nature Communications, researchers at University of California San Diego School of Medicine describe a new approach that uses machine learning to hunt for disease targets and then predicts whether a drug is likely to receive FDA approval."
+    publishedDateTime: 2021-07-12T18:28:00Z
+    webUrl: "https://medicalxpress.com/news/2021-07-artificial-intelligence-blueprint-precision-drug.html"
+    ampWebUrl: "https://medicalxpress.com/news/2021-07-artificial-intelligence-blueprint-precision-drug.amp"
+    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-07-artificial-intelligence-blueprint-precision-drug.amp"
+    type: article
+    provider:
+      name: Medical Xpress
+      domain: medicalxpress.com
+    quality: 57
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2019/3-drug.jpg"
+        width: 1920
+        height: 1280
+        isCached: true
   - title: "Harnessing AI to Discover New Drugs: Rewriting the Rulebook for Pharmaceutical Research"
     excerpt: "Artificial intelligence (AI) is able to recognize the biological activity of natural products in a targeted manner, as researchers at ETH Zurich have demonstrated. Moreover, AI helps to find molecules that have the same effect as a natural substance but are easier to manufacture."
     publishedDateTime: 2021-07-09T10:07:00Z
@@ -56,15 +72,6 @@ related:
         width: 777
         height: 622
         isCached: true
-  - title: "Artificial intelligence could be new blueprint for precision drug discovery"
-    excerpt: "Researchers have described a new approach that uses machine learning to hunt for disease targets and then predicts whether a drug is likely to receive FDA approval."
-    publishedDateTime: 2021-07-12T17:38:00Z
-    webUrl: "https://www.sciencedaily.com/releases/2021/07/210712130142.htm"
-    type: article
-    provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 45
 
 secured: "MN9wrW88lwlLCOY5E2+uYVhqZ+U+ehkOYCAXCAQIkt+szM8buI4LaRfUbgG8M2i16gR3oTLE/GxWHigN0qIGI1AQpkStHLhedPzI/alxfmrf1TJiZh1DHomvckBXMPNk9ao6TrDYBnsqVPCT2LtHjL+yEPbIFCZhs8Ob3RlXRsCC3Zz5qMgIBbRZHovGFH3QpsvDLjP60xXrfZpYVJoxvVpy5SqQoQl+VgBINwyk3YqmqgTRLpEeMfbGrFShPDYzFsZQoMeadMtD5SLWEWvLn9rz42c+aYfZqKpTunAMtxr9gSAFHvP6mj++0GZUHXciuiG8TUbAoEByvq7beWNz1gva2mguAX5e4KUclPRcTT8=;U6/dg06BbHvGj2TIjQHDXQ=="
 ---

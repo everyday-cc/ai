@@ -414,7 +414,23 @@ related:
       name: TweakTown
       domain: tweaktown.com
     quality: 19
+  - title: "Elon Musk warns Tesla drivers to 'be paranoid' about safety and not rely too much on the assisted driving tech when using new Full Self-Driving 9 beta software"
+    excerpt: "Driving' 9 beta, which lets cars automatically obey lights and change lanes. But Elon Musk is telling owners to avoid becoming over-reliant on the assisted driving tech."
+    publishedDateTime: 2021-07-12T21:02:00Z
+    webUrl: "https://www.dailymail.co.uk/sciencetech/article-9781459/Elon-Musk-warns-Tesla-drivers-paranoid-safety-using-new-Self-Driving-9-beta.html"
+    ampWebUrl: "https://www.dailymail.co.uk/sciencetech/article-9781459/amp/Elon-Musk-warns-Tesla-drivers-paranoid-safety-using-new-Self-Driving-9-beta.html"
+    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-9781459/amp/Elon-Musk-warns-Tesla-drivers-paranoid-safety-using-new-Self-Driving-9-beta.html"
+    type: article
+    provider:
+      name: Daily Mail
+      domain: dailymail.co.uk
+    quality: 15
+    images:
+      - url: "https://i.dailymail.co.uk/1s/2021/07/12/21/45364507-0-image-a-54_1626121782996.jpg"
+        width: 636
+        height: 382
+        isCached: true
 
-secured: "gHdvXFBJGIGlLODAOxM0hQt3fArSB09VQfmQ+2K6v5N3qve79YCdpVyH0zwIjjEK0utLMZ8oHruHNOtld0/81lEOGl1SKCGTpHjnrrfI+uFbJ1/mwB/BiJRPsiKHg2qkin/8HfcrIa4sjPdzIqSWwIqL3OTxZ+6XYhLK6jte2bCCpbHjfg54XYzC2N9hELlH6wVFlknwqI3+JPwPLlRdYrumRZlc1bkR5Wx3GMGaPN3uAyS/PyjULc2wBXozqikTqgpz683+1KJH1ZbcYWTsauwKYNHuYcIleNVvpUoxEh4Ck3bUvuYFTwDWgPRuE2IJQb0XRhTjUDMWyZzc/OoCN2Rraj5/5GOQfZ0Z9gyPvWs=;y9bwwhLk78rhjEztrI9/eA=="
+secured: "Nt00g/oPR63XI8njeeO0X3uPJHjsiNT3B7tikfc8weB1sxedMmKt1Jh6b9KHwb9V2UH29cajHR2mpViuvS7lEGJfuxs3BQVsbvbffCC+sfO0L8B27K9TBNWE1DY6gzpExzrdc9z3cKWeT1c8usfD6rr8KBN6TKPbIxiSBChkxphC2Zw8TT/mL4M2zuYv3TgjiiT2cNpDhW5ygOsbclH81x8Gi6spZZY3tAqX2Hdkc9KiEGQcX8I7sTavhA1mN+x6amEeOdZ5c2nZzQq5Xzm9+5uCZqee69VF8aGTAxgWbJyFbPPzic3FSXBPrYJed8hW+jUzyy0KjEroml07PfMWYMe2gY1HUVMcXU1L0XubQbSk1fhE8tBIRBhmirRpv92f3DdSOOAWMZPNWpxww9PlLvnyo+6H6leaIGhGL98QnQeczU93CA4Uel7kvgknNJYFm2+jYBEYCrw+o+yQCiPRGlR0x/edtfHDhHWnqObiuBKGVQp0m9Q+SIbznE8kn6q4gUQBVImPrWkOZIrth8TwOw==;EnDTHTwRjYS2qF0Cger2hg=="
 ---
 

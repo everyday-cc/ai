@@ -26,22 +26,6 @@ images:
     height: 400
     isCached: true
 
-related:
-  - title: "Atos launches computer vision platform"
-    excerpt: "Consulting and systems integrator company Atos has launched Atos Computer Vision Platform, its new highly scalable end-to-end AI video and image analytics platform. The new platform is claimed by Atos as the most comprehensive video and image analytics solution on the market today - and the only"
-    publishedDateTime: 2021-07-08T04:45:00Z
-    webUrl: "https://itwire.com/enterprise-solutions/atos-launches-computer-vision-platform.html"
-    type: article
-    provider:
-      name: ITWire
-      domain: itwire.com
-    quality: 39
-    images:
-      - url: "https://itwire.com/media/k2/items/cache/4f190491cbc3eb67862bf4c8d22018ce_M.jpg"
-        width: 375
-        height: 375
-        isCached: true
-
 secured: "kn6eyz0VW6b5AK2Hkg00Djv0Ret/8dfoi0uQL5QUVN0/n9oNOGyy48PwU6atKY6Pqa4LoR9WKHtXlMCdY2F/x/enfw9Lh4WSL6Ovmw9JsDvtdQcufr0Cee7pbQPwGBKO9n6ywWDgpEaCiMHjU7+5rFlmEciEX1WBs+N5H07vLHJ4zWfGdrq5NFoh+kpype0sztWlxY6DfSyUNjC6NcosnoGLpd7JSCyr2onQx0XROMG7PLgyxqI/yrx37GrZEOHIPZkk6W3PS+h3Af+NeHT6DuwtjI3kfZtzQG4ILugyOsaR4Z/ZrbemMbSXYzOVO2Boszk4M5p9Z1AgYkzzn2vgZDHpVPD3IKJXpMoO+IREGkU=;LeIkrV/rNg4HH2p5idl6Rw=="
 ---
 

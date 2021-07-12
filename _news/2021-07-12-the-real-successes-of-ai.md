@@ -9,7 +9,7 @@ ampWebUrl: "https://www.infoworld.com/article/3624703/the-real-successes-of-ai.a
 cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3624703/the-real-successes-of-ai.amp.html"
 type: article
 quality: 89
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -46,20 +46,6 @@ related:
       - url: "https://images.indianexpress.com/2021/07/Gavel-4.jpg"
         width: 1200
         height: 667
-        isCached: true
-  - title: "Advances in application of Artificial Intelligence"
-    excerpt: "Scientists have recorded major breakthroughs in the application of Artificial Intelligence (AI) in health, weather forecasting and other areas of science."
-    publishedDateTime: 2021-07-08T04:11:00Z
-    webUrl: "https://guardian.ng/features/advances-in-application-of-artificial-intelligence/"
-    type: article
-    provider:
-      name: The Guardian Nigeria
-      domain: guardian.ng
-    quality: 41
-    images:
-      - url: "https://guardian.ng/wp-content/uploads/2019/09/Artificial-Intelligence-is-revolutionizing-the-Healthcare-Industry.jpg"
-        width: 1280
-        height: 719
         isCached: true
 
 secured: "i5EpqKvWfprjlVEnLXBdkvqzdrlXofm6W5qM7narX+XvapVjK7JaEeNl7Ysl+Hjv8MZXk1Xj4kxM1otd98xKTW3fsBNaABPzxUPO/pi5oK0Ngw+2Vfu/LSBw0AGw6AhaH1U45KAwCU6fYzGJN/LgDZQiQJpHCDWCz3QsXT6mfpGvW7EsxQD1+kv465CXdud64OSEACQ5EfPWbxAFsI3b99OW3yF1mWWm2uDIpfEQHi4vsrO2dTTk08jfb9Rj2gpK6pPtgOySlkh13pMbdLPafT3xU88oRypFT/Psfb5IV8XHoE4pLVoY10wvI52NISxcZ8OLrbd6O4J8KOWSS632IVtTIzSfcMg+EfcPWS/GX7M=;nbcKMAxbMIrxof5NzJF4xQ=="

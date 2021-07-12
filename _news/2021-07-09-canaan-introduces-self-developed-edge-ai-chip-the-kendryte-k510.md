@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/canaan-introduces-
 webUrl: "https://markets.businessinsider.com/news/stocks/canaan-introduces-self-developed-edge-ai-chip-the-kendryte-k510-1030591108"
 type: article
 quality: 84
-heat: 124
+heat: 114
 published: true
 
 provider:
@@ -43,15 +43,6 @@ related:
         width: 600
         height: 450
         isCached: true
-  - title: "Canaan Releases Self-developed Edge AI Chip, the Kendryte K510"
-    excerpt: "Canaan Inc. (NASDAQ: CAN) (\"Canaan\" or the \"Company\"), a leading high-performance computing solutions provider, today announced the release of the Kendryte K510 (the \"K510\"), an independently designed and developed RISC-V based edge AI chip,"
-    publishedDateTime: 2021-07-08T05:00:00Z
-    webUrl: "https://www.morningstar.com/news/pr-newswire/20210708cn36290/canaan-releases-self-developed-edge-ai-chip-the-kendryte-k510"
-    type: article
-    provider:
-      name: Morningstar, Inc.
-      domain: morningstar.com
-    quality: 34
   - title: "Meituan Unveils Self-Developed Drone Model, Plans for Drone Logistics Network at 2021 World Artificial Intelligence Conference"
     excerpt: "China’s leading e-commerce platform for services, today introduced a new, self-developed drone model and announced plans for a drone logistics network pilot program in Shanghai. The announcement was made at the 2021 World Artificial Intelligence Conference (WAIC) in Shanghai,"
     publishedDateTime: 2021-07-08T13:43:00Z

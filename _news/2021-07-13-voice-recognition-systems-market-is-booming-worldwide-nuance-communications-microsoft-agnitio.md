@@ -77,15 +77,6 @@ related:
       name: manometcurrent.com
       domain: manometcurrent.com
     quality: 34
-  - title: "Deep Learning Market Size, Trends and Forecast 2028 By Amazon Web Services (AWS), Google, IBM, Intel, Micron Technology, Microsoft, Nvidia, Qualcomm"
-    excerpt: "The report covers a very methodical quantitative and qualitative analysis of the Deep Learning market. The study evaluates many aspects of this industry by examining its historical and forecast data."
-    publishedDateTime: 2021-07-08T04:57:00Z
-    webUrl: "https://manometcurrent.com/deep-learning-market-size-trends-and-forecast-2028-by-amazon-web-services-aws-google-ibm-intel-micron-technology-microsoft-nvidia-qualcomm/"
-    type: article
-    provider:
-      name: manometcurrent.com
-      domain: manometcurrent.com
-    quality: 29
   - title: "AI in Telecommunication Market Booming Segments; Investors Seeking Growth | Google, Microsoft, IBM"
     excerpt: "Get Free Exclusive PDF Sample Copy of This Research @  Scope of the Report of AI in Telecommunication Artificial Intelligence with learning abilities is a revolutionary technology, which the communication industry is exploring,"
     publishedDateTime: 2021-07-08T16:59:00Z

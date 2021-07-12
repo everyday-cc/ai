@@ -1,20 +1,22 @@
 ---
 category: news
 title: "Google Cloud's Visual Inspection AI Reinvents Manufacturing Quality Control"
-excerpt: "Google Cloud has traditionally supported manufacturing quality control through its general purpose AI product, AutoML. Today, it is taking the next step by offering a purpose-built solution for ..."
-publishedDateTime: 2021-06-22T15:04:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/google-clouds-visual-inspection-ai-reinvents-manufacturing-quality-control-301317486.html"
-webUrl: "https://www.prnewswire.com/news-releases/google-clouds-visual-inspection-ai-reinvents-manufacturing-quality-control-301317486.html"
+excerpt: "SUNNYVALE, Calif., June 22, 2021 /PRNewswire/ -- Google Cloud today launched Visual Inspection AI, a new purpose-built solution to help manufacturers, consumer packaged goods companies, and other ..."
+publishedDateTime: 2021-06-22T15:06:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/21/06/n21668304/google-clouds-visual-inspection-ai-reinvents-manufacturing-quality-control"
+webUrl: "https://www.benzinga.com/pressreleases/21/06/n21668304/google-clouds-visual-inspection-ai-reinvents-manufacturing-quality-control"
+ampWebUrl: "https://www.benzinga.com/amp/content/21668304"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/21668304"
 type: article
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - Machine Learning
   - AI
 
-secured: "ZQrsKNOGE+kWeqOKXJGpeTTg1Nl8J1uRiqSbBUfJkybks65xP2hLgVvexkOTHC0n5ycEkI/HXTIU9QigH2TaRGN7BnlYUS2f90c1bo4mTi13fxFEeuMN7Hm1CRz0m5WueNeddFmchso3OYzxVH2J+SlC4qzRx4Qa6Mn7cTsW/5DTV2v2NBrppis+sfg1LXR7H8lvy6onFzN/rO4NL7ANX81y8YQhAGXjRYaDDJ1c7Ge1c+wHzfyFE4DAgIiCg0z3CIBf8nJNsZW1/jsMZM/df7uxGhfOIZ4VOWQyhH++ws0K0uElTAvgQtkecZ3en3Wq+i/ClvYoqg+rvJKAppgkAMad38YLx+JPXZr3xWoXByc=;A3z0S6+MlAhtXFDiO0ooqQ=="
+secured: "7gbUtqxi7nPqy8VRgN9guzlfQ5cIO/g2Z8jkBOb5LRB3rrswy8JvTXOZdvmjBUJR49WCws1T1LOTgg0PC8aosWHN1vDyOfwWzpM248H/9dlZ4sXLJaQhqgNo+XuOBVjVeMxoAQBNGgddjQdC/QzjYqEvx83/ZrhXV0xSKANOf3v+J0dnNMUCVXjDwoQooKZewR2lbW970/XEqq6vhfj0Mm7IEQpy+NLKsXzrBuLSFyjNhmEEgcDkrZgZcnJdXIsnSslv++KRon6xSxnZDduF16kD3mWxe1qRq+eKIWryCCUWgd6ASZUKFKS9R+Vh80k0/rPXFUZtth+hZLUqY2qCfSeO0eHhamvtZPVJ9k72te8=;R5VUHzyV5PCE4EiKFT6otQ=="
 ---
 
