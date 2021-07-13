@@ -2,6 +2,153 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-07-09-canaan-introduces-self-developed-edge-ai-chip-the-kendryte-k510.md",
+      "title": "Canaan Introduces Self-Developed Edge AI Chip, The Kendryte K510",
+      "excerpt": "Canaan Inc (NASDAQ:CAN) announced it is launching an independently designed and developed RISC-V-based edge AI chip Kendryte K510 at the 2021 World Artificial Intelligence Confere",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/canaan-introduces-self-developed-edge-ai-chip-the-kendryte-k510-1030591108",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/canaan-introduces-self-developed-edge-ai-chip-the-kendryte-k510-1030591108",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.benzinga.com/files/imagecache/1024x768xUP/images/story/2012/abtech_945.png",
+          "width": 1024,
+          "height": 768,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-08T11:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-09-buffalo-grove-sixth-grader-wins-national-math-ai-contest.md",
+      "title": "Buffalo Grove Sixth-Grader Wins National Math, AI Contest",
+      "excerpt": "Amritha Praveen was selected from a pool of talented middle school girls from over 20 states. (Photo submitted) BUFFALO GROVE, IL — A local sixth-grader beat out middle school girls from more ...",
+      "sourceUrl": null,
+      "webUrl": "https://patch.com/illinois/buffalogrove/buffalo-grove-sixth-grader-wins-national-math-ai-contest",
+      "originalUrl": "https://patch.com/illinois/buffalogrove/buffalo-grove-sixth-grader-wins-national-math-ai-contest",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://patch.com/img/cdn20/users/24142217/20210708/014353/styles/patch_image/public/amritha-1___08133856554.jpg?width=984",
+          "width": 800,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://patch.com/illinois/buffalogrove/amp/29670944/buffalo-grove-sixth-grader-wins-national-math-ai-contest",
+      "cdnAmpWebUrl": "https://patch-com.cdn.ampproject.org/c/s/patch.com/illinois/buffalogrove/amp/29670944/buffalo-grove-sixth-grader-wins-national-math-ai-contest",
+      "publishedDateTime": "2021-07-08T11:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Patch",
+        "domain": "patch.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Math for AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-08-new-machine-learning-based-cheating-may-threaten-competitive-play.md",
+      "title": "New machine learning-based cheating may threaten competitive play",
+      "excerpt": "Despite being illicit in games, and even illegal in some countries, the cheating industry has developed immensely, creating multi-million dollar businesses. You may think cheating is",
+      "sourceUrl": null,
+      "webUrl": "https://www.techspot.com/news/90350-new-machine-learning-based-cheating-may-threaten-competitive.html",
+      "originalUrl": "https://www.techspot.com/news/90350-new-machine-learning-based-cheating-may-threaten-competitive.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.techspot.com/images2/news/bigimage/2021/07/2021-07-08-image-11.jpg",
+          "width": 1498,
+          "height": 1001,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techspot.com/amp/news/90350-new-machine-learning-based-cheating-may-threaten-competitive.html",
+      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/90350-new-machine-learning-based-cheating-may-threaten-competitive.html",
+      "publishedDateTime": "2021-07-08T09:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechSpot",
+        "domain": "techspot.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-08-developers-have-a-moral-duty-to-create-ethical-ai.md",
       "title": "Developers have a moral duty to create ethical AI",
       "excerpt": "Developers of artificial intelligence (AI), machine learning (ML ... “Training, bias awareness, policies upon deployment, adherence to law, rules, regulations and ethics are key ingredients. “Developers must work with the human to create a product ...",
@@ -1027,152 +1174,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-08-ai-gives-software-development-tools-a-boost.md",
-      "title": "AI gives software development tools a boost",
-      "excerpt": "AI-assisted development tools can best be thought of as a pair ... Simon Bisson has worked in academic and telecoms research, been the CTO of a startup, run the technical side of UK Online, and done consultancy and technology strategy.",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/article/3623773/ai-gives-software-development-tools-a-boost.html",
-      "originalUrl": "https://www.infoworld.com/article/3623773/ai-gives-software-development-tools-a-boost.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2021/06/artificial_intelligence_automation_digital_brain_thinkstock_875595818-100749926-orig-100893865-large.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.infoworld.com/article/3623773/ai-gives-software-development-tools-a-boost.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3623773/ai-gives-software-development-tools-a-boost.amp.html",
-      "publishedDateTime": "2021-07-07T16:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-08-qualcomm-technologies-vp-talks-about-ai-edge-solutions-that-are-galvanizing-the-market.md",
-      "title": "Qualcomm Technologies VP talks about AI edge solutions that are galvanizing the market",
-      "excerpt": "Qualcomm VP Mike Vildibill talks about about the explosive demand for AI inferencing in the cloud and innovative cloud-to-edge AI solutions.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/07/07/qualcomm-technologies-vp-talks-about-the-ai-edge-solutions-that-are-galvanizing-the-market/",
-      "originalUrl": "https://venturebeat.com/2021/07/07/qualcomm-technologies-vp-talks-about-the-ai-edge-solutions-that-are-galvanizing-the-market/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/06/Mike-Vildibill-Headshot1-1.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 735,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/07/07/qualcomm-technologies-vp-talks-about-the-ai-edge-solutions-that-are-galvanizing-the-market/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/07/qualcomm-technologies-vp-talks-about-the-ai-edge-solutions-that-are-galvanizing-the-market/amp/",
-      "publishedDateTime": "2021-07-07T15:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-08-nist-proposal-aims-to-reduce-bias-in-artificial-intelligence.md",
-      "title": "NIST Proposal Aims to Reduce Bias in Artificial Intelligence",
-      "excerpt": "The National Institute of Standards and Technology recently released a proposal regarding the risk of bias in the use of artificial intelligence to help reduce it. The agency is seeking comments from the tech community.",
-      "sourceUrl": null,
-      "webUrl": "https://www.govtech.com/products/nist-proposal-aims-to-reduce-bias-in-artificial-intelligence",
-      "originalUrl": "https://www.govtech.com/products/nist-proposal-aims-to-reduce-bias-in-artificial-intelligence",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://erepublic.brightspotcdn.com/dims4/default/cc0ed60/2147483647/strip/true/crop/940x490+0+68/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2F36%2F15%2Fbb6e7321b66b3501007e72aa2c85%2Fshutterstock-6785833751.jpg",
-          "width": 840,
-          "height": 438,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.govtech.com/products/nist-proposal-aims-to-reduce-bias-in-artificial-intelligence?_amp=true",
-      "cdnAmpWebUrl": "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/products/nist-proposal-aims-to-reduce-bias-in-artificial-intelligence?_amp=true",
-      "publishedDateTime": "2021-07-07T14:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Government Technology",
-        "domain": "govtech.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

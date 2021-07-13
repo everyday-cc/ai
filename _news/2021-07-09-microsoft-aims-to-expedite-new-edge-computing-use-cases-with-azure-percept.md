@@ -91,6 +91,20 @@ related:
         width: 300
         height: 300
         isCached: true
+  - title: "Informatica Expands Cloud Footprint on Microsoft Azure Germany"
+    excerpt: "today announced it will make its Intelligent Data Management Cloud (IDMC), the industry's first end-to-end AI-powered data management platform, available on Microsoft Azure Germany in response to cloud customer growth across Europe. Over the past year ..."
+    publishedDateTime: 2021-07-13T07:02:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/informatica-expands-cloud-footprint-on-microsoft-azure-germany-889342108.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 54
+    images:
+      - url: "https://mma.prnewswire.com/media/692190/Informatica_Corp_Logo.jpg?p=facebook"
+        width: 2000
+        height: 1047
+        isCached: true
   - title: "CIBC inks Microsoft Azure deal"
     excerpt: "Azure will support the migration of hundreds of applications to the cloud, as well as offer scalable computing power for CIBC's enterprise data lake and AI platform. The bank will also get access to a suite of Microsoft training programmes and ..."
     publishedDateTime: 2021-07-11T23:23:00Z
@@ -100,24 +114,6 @@ related:
       name: Finextra
       domain: finextra.com
     quality: 34
-  - title: "Informatica Expands Cloud Footprint on Microsoft Azure Germany"
-    excerpt: "New Intelligent Data Management Cloud on Azure Bolsters Cloud Momentum in the European region FRANKFURT, Germany,  /PRNewswire/ -- Informatica, the enterprise cloud data management leader, today announced it will make its Intelligent Data Management Cloud (IDMC),"
-    publishedDateTime: 2021-07-13T07:13:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2021/07/13/9407196.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 34
-  - title: "CIBC and Microsoft announce strategic relationship to accelerate the bank's transformation and cloud-first approach"
-    excerpt: "CNW/ - Today CIBC and Microsoft announced a strategic relationship through a multi-year agreement formalizing Microsoft Azure as CIBC's primary cloud platform. CIBC's cloud-first approach will be enabled by Microsoft Azure's vast on-demand computing power,"
-    publishedDateTime: 2021-07-08T17:15:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-cibc-microsoft-announce-strategic-relationship-accelerate-banks-transformation-/2021/07/08/9405628.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 14
 
 secured: "ct1Q1FlfqNGigUVDoVMCSJAvz79WxpFPm4Ie6Y8c0EGePMIUuLF9CwbfLgxyYSFLgN+Wgh5vlYDSZQOZplIbZ6pCoxCtTIALsDE0r0YJkwNVXURQ3IXNwGks9CSAkZ4HsU6jsTHiE2sQjGSSeyrRyefc9qcRDa8MAa4CHI0TVRDJp/p86t44iBeqH3S3zEBL0gdtKJuiG7uUeA1co9zNqGDF31djIjfL6DAzitj/L8ZiuyRPrPBrdzBz0SiZjHqQ4f25Q8xxO5Y2abiIaqniNoPB7JkGpGF8yQL0TH9w4NZ6Vi/ArQMJw4G6lDq8DkmmxvdpHWH+bz+AWPmg6fV67rWXLlFXfB0kNHsxL5aiOu06rngnZD/ZJe+4HV30smczIcP+64F8B5PcE0hoA+jHLWXMmcGCP3dM/WyV6u0a3ZxLqnga0c4R2Um+ksDcY3Iq2kwUerO43s76pYuvXVBDGEEMVQiEwNreqcnyiKmjXcJM2K04gn2yyz/usGT+a7N4fyAKtIsuItKwC7jtz+v+QA==;Y0leenVYK/dDWLfWB0RdSQ=="
 ---

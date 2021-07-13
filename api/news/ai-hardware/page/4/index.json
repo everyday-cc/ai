@@ -2,6 +2,49 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-06-09-artificial-intelligence-ai-in-oil-and-gas-market-thematic-research.md",
+      "title": "Artificial Intelligence (AI) in Oil and Gas Market - Thematic Research",
+      "excerpt": "The oil and gas O G industry faces many severe challenges The shortage of easily accessible hydrocarbon reserves forces companies to use remote reserves that are hard to discover costly and risky Moreover sustainability concerns are shifting demand away from",
+      "sourceUrl": null,
+      "webUrl": "https://www.openpr.com/news/2301457/artificial-intelligence-ai-in-oil-and-gas-market-thematic",
+      "originalUrl": "https://www.openpr.com/news/2301457/artificial-intelligence-ai-in-oil-and-gas-market-thematic",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.openpr.com/U/6/U609148836_g.jpg",
+          "width": 800,
+          "height": 334,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.openpr.com/amp/2301457/artificial-intelligence-ai-in-oil-and-gas-market-thematic",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2301457/artificial-intelligence-ai-in-oil-and-gas-market-thematic",
+      "publishedDateTime": "2021-06-09T04:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2021-06-09-mythic-launches-power-sipping-ai-chip.md",
       "title": "Mythic launches power-sipping AI chip",
       "excerpt": "Semiconductor startup Mythic has launched an artificial intelligence (AI) processor that it says will deliver the computing capabilities of a GPU for a tenth of the power. The M1076 Mythic AMP chip targets edge computing AI applications with power and footprint limitations.",
@@ -1396,42 +1439,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-25-4-ai-healthcare-stocks-transforming-the-medical-industry.md",
-      "title": "4 AI Healthcare Stocks Transforming the Medical Industry",
-      "excerpt": "An article from the Brookings Institution suggests that “whoever leads in artificial intelligence in 2030 will rule the world until 2100.” This is a big statement and underscores the importance of AI in the coming decade.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/4-ai-healthcare-stocks-transforming-the-medical-industry-2021-05-25",
-      "originalUrl": "https://www.nasdaq.com/articles/4-ai-healthcare-stocks-transforming-the-medical-industry-2021-05-25",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 138,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/4-ai-healthcare-stocks-transforming-the-medical-industry-2021-05-25?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/4-ai-healthcare-stocks-transforming-the-medical-industry-2021-05-25?amp",
-      "publishedDateTime": "2021-05-25T08:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "AI in Healthcare",
-        "AI in Robotics"
       ]
     }
   ],

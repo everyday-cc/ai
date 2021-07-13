@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wsj.com/amp/articles/micron-technology-puts-its-cash-to-
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/micron-technology-puts-its-cash-to-work-using-artificial-intelligence-11625781002"
 type: article
 quality: 87
-heat: 137
+heat: 127
 published: true
 
 provider:
@@ -88,15 +88,6 @@ related:
         width: 1400
         height: 930
         isCached: true
-  - title: "Using AI to Drill Down in Physics"
-    excerpt: "Jesse Thaler, an associate professor of physics at the Massachusetts Institute of Technology (MIT), investigates the potential of artificial intelligence (AI) in particle physics. In 2020, Thaler also became the director of the National Science Foundation's AI Institute for Artificial Intelligence and Fundamental Interactions (IAIFI),"
-    publishedDateTime: 2021-07-08T17:34:00Z
-    webUrl: "https://cacm.acm.org/news/253847-using-ai-to-drill-down-in-physics"
-    type: article
-    provider:
-      name: acm.org
-      domain: acm.org
-    quality: 19
 
 secured: "45fdPa8eOsC0Btc270y+zWMOTeEk53JqX17gAXWM0RxwqIWNy07A7qLWo+ut1nN7c2xljD82hNODbGR3rkBH6nPQRlfZ8vw3TNJm/makn/QC5fOpeDe+ANAmFe/9ZSf3H7aKUb7xygglzmDWP8PA+ZvVNM3OWfU0RIE5s0ZX1ESRUfTDDwnBiUVpHuIfnsiaAhTa+8L51apTfnrDFLbrzXPhzbMwtcX35nqbSR0Cjq6mRNQPdsDo5z2qvamjaIxRvVFHWCReNCEcDr4CJmO3/AdE53mEwrhVEk96qev0wzFjflzfzlc02EB0u7Vdg2I4x/qu9z5nLBqQzEeu9xx0AAIRtxgZjicI4QoUGqq2qA9q6GBp0tfsNwK4MPFuEkAOkoyN1N4DD/GzLERsvUGTFVcIATEizIRE7h6BcHvoayLCYp05vZlnpB1V/aeRJQoITIRRWXe2s6ZRLv6OcKaro3AYulWbF4231hsyUCuyYrnff24PMswwxClLuipR6+C5skloZO5yfv9UQvDDhu22nw==;b5NYB13lVZN9W1lS/Y9vLg=="
 ---

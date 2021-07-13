@@ -85,15 +85,6 @@ related:
         width: 1400
         height: 930
         isCached: true
-  - title: "Using AI to Drill Down in Physics"
-    excerpt: "Jesse Thaler, an associate professor of physics at the Massachusetts Institute of Technology (MIT), investigates the potential of artificial intelligence (AI) in particle physics. In 2020, Thaler also became the director of the National Science Foundation's AI Institute for Artificial Intelligence and Fundamental Interactions (IAIFI),"
-    publishedDateTime: 2021-07-08T17:34:00Z
-    webUrl: "https://cacm.acm.org/news/253847-using-ai-to-drill-down-in-physics"
-    type: article
-    provider:
-      name: acm.org
-      domain: acm.org
-    quality: 19
 
 secured: "SAoGRshnSSAvKdj1iio5Roxr2SFDlUgP8fATVdliL0RFuxDsVuj/nh8JJxdZ0fcEhJdXOM5rRWEvjyU28bPXWXJjT5yBGSxdryRcCHAtsmLvjFFk/quhOJywjpyi7v/p4E06U0KixjFR7cqu+/qq4sp1pH7auZh0q+4/fB1Q39to9DKeHLDTtqpeRm3LlH4aew3950h/WtMJwFAkogquwq4+4IHhf0+nVX9fN5EY7VQxeh/E4FtLzOjvP9Rbi3M3ENVPO0yer7L4y6YLCaCNlt8IrfuL1PE7iVOVRzXS3TdtFG0qR4tZS63/c/oSTDnV8QfkDDuczvibCF8wBYyVNH+EC6qMKSe8/Kf2jlRKxz93uBVBZPvgN+1umHnBUlJT2f8h4rwoEPPJRSnGXXYHsMz/j33nyWGn2uUS6eUWqZbU4n7ov57qHwP0aQSMl2C4IRE/1/vT7WXT/YpNvaF8Zq67kwqBLUGENzPcA8QxyPJZkWnZ1eVU6DClV7WpVyvC2Fz24lbblj+J8XFOGIPbTw==;Q5qPqKZWjmUvvf45ZCeRNQ=="
 ---

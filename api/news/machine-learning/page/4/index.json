@@ -2,6 +2,40 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-06-16-machine-learning-can-reduce-worry-about-nanoparticles-in-food.md",
+      "title": "Machine learning can reduce worry about nanoparticles in food",
+      "excerpt": "Scientists can predict whether metallic nanoparticles in soil are likely to be absorbed by plants, which could cause toxicity.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nanowerk.com/nanotechnology-news2/newsid=58254.php",
+      "originalUrl": "https://www.nanowerk.com/nanotechnology-news2/newsid=58254.php",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-16T05:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nanowerk",
+        "domain": "nanowerk.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-16-datas-double-edges-how-to-use-machine-learning-to-solve-the-problem-of-unused-data-in-risk-management.md",
       "title": "Data’s Double Edges: How To Use Machine Learning To Solve The Problem Of Unused Data In Risk Management",
       "excerpt": "The world is awash in data, and data is there to be used — or not used — like at no other time. As a result, risk measurement systems today perform far better than the systems of even just three years ago.",
@@ -1335,50 +1369,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-05-neuromorphic-chip-artificial-neurons-recognize-biosignals-in-real-time.md",
-      "title": "Neuromorphic Chip: Artificial Neurons Recognize Biosignals in Real Time",
-      "excerpt": "Researchers from Zurich have developed a compact, energy-efficient device made from artificial neurons that is capable of decoding brainwaves. The chip uses data recorded from the brainwaves of epilepsy patients to identify which regions of the brain cause epileptic seizures.",
-      "sourceUrl": null,
-      "webUrl": "https://scitechdaily.com/neuromorphic-chip-artificial-neurons-recognize-biosignals-in-real-time/",
-      "originalUrl": "https://scitechdaily.com/neuromorphic-chip-artificial-neurons-recognize-biosignals-in-real-time/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scitechdaily.com/images/Neuromorphic-Chip-777x437.jpg",
-          "width": 777,
-          "height": 437,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://scitechdaily.com/neuromorphic-chip-artificial-neurons-recognize-biosignals-in-real-time/amp/",
-      "cdnAmpWebUrl": "https://scitechdaily-com.cdn.ampproject.org/c/s/scitechdaily.com/neuromorphic-chip-artificial-neurons-recognize-biosignals-in-real-time/amp/",
-      "publishedDateTime": "2021-06-04T20:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SciTech Daily",
-        "domain": "scitechdaily.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware",
-        "Machine Learning"
       ]
     }
   ],

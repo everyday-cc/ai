@@ -131,20 +131,6 @@ related:
         width: 1000
         height: 563
         isCached: true
-  - title: "New AI technologies debut at World AI Conference in Shanghai"
-    excerpt: "Conference opened in Shanghai on Thursday. Since COVID-19 is well under control in China, hundreds of AI developers are able to attend the event offline, where many of them debut their latest products."
-    publishedDateTime: 2021-07-08T18:20:00Z
-    webUrl: "https://news.cgtn.com/news/2021-07-08/New-AI-technologies-debut-at-World-AI-Conference-in-Shanghai-11JGHddW4Ao/index.html"
-    type: article
-    provider:
-      name: CGTN
-      domain: cgtn.com
-    quality: 39
-    images:
-      - url: "https://video.cgtn.com/news/2021-07-08/New-AI-technologies-debut-at-World-AI-Conference-in-Shanghai-11JGHddW4Ao/video/637b2250ea4846a6ad2337f6b4d9ea8d/637b2250ea4846a6ad2337f6b4d9ea8d-1920.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
 
 secured: "nMTKG+M3tp+eZ2a7W3gO1Kllb3zy3XRnvuRvHzE6kukCP1Qbyx3SOjAV5OW4chwCye/0xPHGbNT7vAStlRP6hIaAwLs2lsDZ3Pe0VwzL8fm9Mb3VowFjozpaFQ5RojF4Nog9DpNSgTUqYioCusfPTbRDSSxLjPOng3Euh7mjfMBu8mQ46kQYWhHGpy4SVqIAKW72Ii+udWsn5EAtV2ph9ISUyy9qvwmAKHH74fx0fbGCvjXcEaN5sx2oNpQ4ASMPG0ZXcBYowzc76Z0TYBfI30tvopEWrkt3r4kBwaQmgA/m8MNpjC2n/p4WpU4WOjKBnyWDPaCk3WRithDWXRAfJa4skmdHP2OEBp0swCLvd5k=;8xmK9tp1lCLxWWEubSPsdQ=="
 ---

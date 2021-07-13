@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Technion Ranked No. 1 in Europe in Field of Artificial Intelligence"
-    excerpt: "An innovation for its prowess is the Machine Learning and Intelligent Systems research center, which aggregates all AI-related activities."
-    publishedDateTime: 2021-07-08T18:29:00Z
-    webUrl: "https://www.jewishpress.com/news/breaking-news/technion-ranked-no-1-in-europe-in-field-of-artificial-intelligence/2021/07/08/"
-    type: article
-    provider:
-      name: Jewish Press
-      domain: jewishpress.com
-    quality: 39
-    images:
-      - url: "https://www.jewishpress.com/wp-content/uploads/Technion–Israeli-Institute-of-Technology-880x495.jpg"
-        width: 880
-        height: 495
-        isCached: true
   - title: "Technion Ranks Number 1 In Europe For Artificial Intelligence"
     excerpt: "The Technion – Israel Institute of Technology, Israel’s top university for science and technology, has been ranked number one in Europe, and number 15 worldwide, in the field of artificial intelligence by CSRankings. The rankings considered data from ..."
     publishedDateTime: 2021-07-12T11:06:00Z

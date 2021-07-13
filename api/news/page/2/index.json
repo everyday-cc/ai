@@ -2,6 +2,151 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-07-12-if-youve-ever-had-thoughts-of-becoming-a-real-estate-mogul-your-training-can-start-right-here.md",
+      "title": "If you’ve ever had thoughts of becoming a real estate mogul, your training can start right here",
+      "excerpt": "Sponsored Deals The training in The Fundamentals of Real Estate Investment Bundle can help students become an informed, savvy market watcher and investor.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/07/12/if-youve-ever-had-thoughts-of-becoming-a-real-estate-mogul-your-training-can-start-right-here/",
+      "originalUrl": "https://venturebeat.com/2021/07/12/if-youve-ever-had-thoughts-of-becoming-a-real-estate-mogul-your-training-can-start-right-here/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/06/sale_31347_article_image.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/07/12/if-youve-ever-had-thoughts-of-becoming-a-real-estate-mogul-your-training-can-start-right-here/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/12/if-youve-ever-had-thoughts-of-becoming-a-real-estate-mogul-your-training-can-start-right-here/amp/",
+      "publishedDateTime": "2021-07-12T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-12-the-role-of-ar-vr-ai-and-robotics-in-future-conflicts.md",
+      "title": "The Role of AR, VR, AI and Robotics in Future Conflicts",
+      "excerpt": "The increasing importance of information in military and warfare is making digital technology and its applications, such as analytics, AI, and augmented reality, indispensable to the future of war.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bbntimes.com/politics/the-role-of-ar-vr-ai-and-robotics-in-future-conflicts",
+      "originalUrl": "https://www.bbntimes.com/politics/the-role-of-ar-vr-ai-and-robotics-in-future-conflicts",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.bbntimes.com/images/articles/global-economy/The_Role_of_AR_VR_AI_and_Robotics_in_Future_Conflicts.jpg",
+          "width": 1625,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-12T06:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "bbntimes",
+        "domain": "bbntimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-12-this-ai-asks-questions-finds-answers-and-suggests-actions-all-at-scale.md",
+      "title": "This AI Asks Questions, Finds Answers And Suggests Actions, All At Scale",
+      "excerpt": "SparkBeyond has developed an AI-driven dynamic research and strategic action engine that can help you create a better future",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/gilpress/2021/07/12/this-ai-asks-questions-finds-answers-and-suggests-actions-all-at-scale/",
+      "originalUrl": "https://www.forbes.com/sites/gilpress/2021/07/12/this-ai-asks-questions-finds-answers-and-suggests-actions-all-at-scale/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60e9ea58078e5ea785ac75f1%2F0x0.jpg",
+          "width": 1200,
+          "height": 1354,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/gilpress/2021/07/12/this-ai-asks-questions-finds-answers-and-suggests-actions-all-at-scale/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/gilpress/2021/07/12/this-ai-asks-questions-finds-answers-and-suggests-actions-all-at-scale/amp/",
+      "publishedDateTime": "2021-07-12T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-12-the-self-driving-race-between-elon-musks-tesla-and-dominos-pizza-robots.md",
       "title": "The self-driving race between Elon Musk's Tesla and Domino's pizza robots",
       "excerpt": "Elon Musk has talked up full self-driving for years, but missed many deadlines. Some are betting the big progress in autonomous vehicles: delivering pizza.",
@@ -10,7 +155,7 @@
       "originalUrl": "https://www.cnbc.com/2021/07/10/self-driving-looking-less-like-elon-musk-more-dominos-pizza-robots.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 355,
+      "heat": 365,
       "tags": null,
       "images": [
         {
@@ -63,7 +208,7 @@
       "originalUrl": "https://www.infoworld.com/article/3624700/5-ai-startups-out-to-change-the-world.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 169,
+      "heat": 159,
       "tags": null,
       "images": [
         {
@@ -218,7 +363,7 @@
       "originalUrl": "https://sea.mashable.com/tech/16612/tencent-uses-facial-recognition-to-stop-kids-from-gaming-at-night",
       "featuredContent": null,
       "highlight": null,
-      "heat": 239,
+      "heat": 209,
       "tags": null,
       "images": [
         {
@@ -261,7 +406,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-retail-market-industry-growth-analysis-forecast-by-2027-2021-07-12",
       "featuredContent": null,
       "highlight": null,
-      "heat": 212,
+      "heat": 222,
       "tags": null,
       "images": [
         {
@@ -1086,161 +1231,6 @@
       "topics": [
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2021-07-10-is-the-us-labor-shortage-the-big-break-ai-needs.md",
-      "title": "Is the US labor shortage the big break AI needs?",
-      "excerpt": "Misconceptions about AI in the workplace have long been a barrier to widespread adoption — but companies experiencing labor shortages should consider where it can make their employees' lives better.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/07/09/is-the-us-labor-shortage-the-big-break-ai-needs/",
-      "originalUrl": "https://techcrunch.com/2021/07/09/is-the-us-labor-shortage-the-big-break-ai-needs/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/07/GettyImages-748338005-1.jpg?w=1024",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/07/09/is-the-us-labor-shortage-the-big-break-ai-needs/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/07/09/is-the-us-labor-shortage-the-big-break-ai-needs/amp/",
-      "publishedDateTime": "2021-07-09T13:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-10-ai-weekly-tiktoks-algorithm-licensing-signals-chinas-play-for-ai-dominance.md",
-      "title": "AI Weekly: TikTok’s algorithm licensing signals China’s play for AI dominance",
-      "excerpt": "Join AI & data leaders at Transform 2021 on July 12th for the AI/ML Automation Technology Summit. Register today. This week, TikTok parent company ByteDance began licensing parts of its AI technologies to third parties through a new division called BytePlus.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/07/09/ai-weekly-tiktoks-algorithm-licensing-signals-chinas-play-for-ai-dominance/",
-      "originalUrl": "https://venturebeat.com/2021/07/09/ai-weekly-tiktoks-algorithm-licensing-signals-chinas-play-for-ai-dominance/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/09/TikTok.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 698,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/07/09/ai-weekly-tiktoks-algorithm-licensing-signals-chinas-play-for-ai-dominance/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/09/ai-weekly-tiktoks-algorithm-licensing-signals-chinas-play-for-ai-dominance/amp/",
-      "publishedDateTime": "2021-07-09T13:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-09-dynamic-ab-testing-for-machine-learning-models-with-amazon-sagemaker-mlops-projects.md",
-      "title": "Dynamic A/B testing for machine learning models with Amazon SageMaker MLOps projects",
-      "excerpt": "In this post, you learn how to create a MLOps project to automate the deployment of an Amazon SageMaker endpoint with multiple production variants for A/B testing. You also deploy a general purpose API and testing infrastructure that includes a multi-armed bandit experiment framework. This testing infrastructure",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/dynamic-a-b-testing-for-machine-learning-models-with-amazon-sagemaker-mlops-projects/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/dynamic-a-b-testing-for-machine-learning-models-with-amazon-sagemaker-mlops-projects/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 134,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/06/23/14-3239-Architecture.jpg",
-          "width": 800,
-          "height": 440,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-09T11:07:35-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Machine Learning"
       ]
     }
   ],

@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/text-analytics-market-to
 webUrl: "https://www.marketwatch.com/press-release/text-analytics-market-top-vendors-analysis-market-challenges-and-geographical-analysis-2021-07-09"
 type: article
 quality: 46
-heat: 46
+heat: -1
 published: false
 
 provider:
@@ -29,26 +29,22 @@ images:
     isCached: true
 
 related:
-  - title: "Scry Analytics Announces Its New Research and Development Center in Hyderabad, India"
-    excerpt: "Scry Analytics (\"Scry\") announced its new Research and Development (R&D) Center in Hyderabad, India that will begin operations by August 1, 2021. This will be the second"
-    publishedDateTime: 2021-07-09T07:00:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/21/07/p21910313/scry-analytics-announces-its-new-research-and-development-center-in-hyderabad-india"
-    ampWebUrl: "https://www.benzinga.com/amp/content/21910313"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/21910313"
+  - title: "Hanwha Techwin unveils new 8 and 16 channel Wisenet X Series NVRs with Deep Learning AI video analytics"
+    excerpt: "The introduction of 8 and 16 channel Wisenet X Series NVRs makes it cost-effective, for even small businesses to take advantage of the licence-free Deep Learning AI video analytics, built into"
+    publishedDateTime: 2021-07-13T10:46:00Z
+    webUrl: "https://www.sourcesecurity.com/news/hanwha-techwin-wisenet-x-series-nvrs-deep-learning-ai-video-analytics-co-1437-ga-co-13220-ga-npr.1626162967.html"
+    ampWebUrl: "https://www.sourcesecurity.com/amp/news/hanwha-techwin-wisenet-x-series-nvrs-deep-learning-ai-video-analytics-co-1437-ga-co-13220-ga-npr.1626162967.html"
+    cdnAmpWebUrl: "https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/news/hanwha-techwin-wisenet-x-series-nvrs-deep-learning-ai-video-analytics-co-1437-ga-co-13220-ga-npr.1626162967.html"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 17
-  - title: "Global Artificial Intelligence Platform Market Size, Share and Analysis To Grow At An Annual Rate Of 56.6% Through 2024"
-    excerpt: "The report Artificial Intelligence Platform Market Size and Analysis maintains enhanced dynamics and is overshadowed by a top player across the globe. The research report provides Artificial Intelligence Platform Market Growth and information corresponding to market segments such as geographies,"
-    publishedDateTime: 2021-07-09T10:33:00Z
-    webUrl: "https://www.arnnet.com.au/mediareleases/144023/global-artificial-intelligence-platform-market/"
-    type: article
-    provider:
-      name: ARN
-      domain: arnnet.com.au
-    quality: 0
+      name: SourceSecurity
+      domain: sourcesecurity.com
+    quality: 60
+    images:
+      - url: "https://www.sourcesecurity.com/img/news/612/wisenet-cameras-helps-protect-mfg-s-electric-vehicle-ev-charging-hubs-920x533.jpg"
+        width: 612
+        height: 355
+        isCached: true
 
 secured: "q1LlwxYkXLAKpMRWEgYMzUOTPp7enYNiUrOqfADKavePqm5K/VOPGofE7hpJA+fqE3AX/Ncqs5vFbJlKRA5jiu6hiLFYFiRny/b1oleUYY3eeRpydN4kirh+wuUE7n8+lC00Em9Is45RUPesL5dGhGFv/0CMh98Eq33GjtITbOdAqpLMV9j4ndfJgkzJ4my7LG0eL9/BPe5reVuHzQx1YszZzQgHkEMke6eVvqCIKQRW6s5WYeuv5K5p6r6RU+/RJCddny3qc7ds5bJxgWdPGriEtJcdh7kcM0KoMj1HqEXaCDsDo53QQZUVEKEGEJJoSJHsgMI5jimcX8Hdh1Wf906Z0rbClufeykNYlHlih0U=;SUOwcOCn9ltc3di0IqLW8g=="
 ---

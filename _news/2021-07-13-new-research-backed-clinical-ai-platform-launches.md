@@ -7,7 +7,7 @@ originalUrl: "https://www.healthleadersmedia.com/technology/new-research-backed-
 webUrl: "https://www.healthleadersmedia.com/technology/new-research-backed-clinical-ai-platform-launches"
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
@@ -24,15 +24,22 @@ images:
     isCached: true
 
 related:
-  - title: "Bayesian Health Launches with Research-Backed AI Platform Enabling Health Systems to Save Lives"
-    excerpt: "Bayesian Health, an AI-based clinical decision support platform enabling health systems to provide safer and higher quality care, today launched its solution to the commercial market. Serving health systems on leading electronic medical record (EMR) vendors,"
-    publishedDateTime: 2021-07-12T14:54:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2021/07/12/9406883.htm"
+  - title: "Zoho launches business intelligence platform infused with AI"
+    excerpt: "Zoho launched the integrated Zoho Business Intelligence Platform as part of its effort to expand the total addressable market."
+    publishedDateTime: 2021-07-13T10:00:00Z
+    webUrl: "https://venturebeat.com/2021/07/13/zoho-launches-business-intelligence-platform-infused-with-ai/"
+    ampWebUrl: "https://venturebeat.com/2021/07/13/zoho-launches-business-intelligence-platform-infused-with-ai/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/13/zoho-launches-business-intelligence-platform-infused-with-ai/amp/"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 5
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2021/07/Zoho-DataPrep_Inside_Zoho_Analytics.png?w=1200&strip=all"
+        width: 1200
+        height: 600
+        isCached: true
 
 secured: "Mwg7s6WeIegzLMmqDwl4Purzev2VaL27tLlGxYFBzgbfoaiqUy7os8CnJKj320DX7Dto7oJ37S6f56lH4xzGNPWBzqOmq5SCuGd75JYiOFRFoWILVNtCjMov6DVLYFtrZl485cn3LZUXa0giyHAbykMjQ81G9gS0DLexbm6CDm5GymUqSSL0kHXbhY6eR6/m/rgph6zKHpcBllrUoBpA2o4P59c8XOQ2YDxHT8ZN1Uv78kop/iMaA1WiAurHSuES0pUnRAdHDC5ibZ/fRNM8YywfUBFvG9HokFYB+13sqBC0RioeZTf9HCS+cQ3zv+8ERO80CKDRSg3pV7GcmBzfldLN9928w0laPPIiOCRbk6M=;vkjTAneKMPskgRdjSdSzvg=="
 ---

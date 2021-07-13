@@ -7,7 +7,7 @@ originalUrl: "https://www.hackster.io/news/canaan-announces-kendryte-k510-edge-a
 webUrl: "https://www.hackster.io/news/canaan-announces-kendryte-k510-edge-ai-chip-as-a-triple-core-risc-v-part-with-3-tops-npu-748e95cc7f12"
 type: article
 quality: 45
-heat: -1
+heat: 45
 published: false
 
 provider:
@@ -23,36 +23,6 @@ images:
     width: 600
     height: 450
     isCached: true
-
-related:
-  - title: "Canaan Introduces Self-Developed Edge AI Chip, The Kendryte K510"
-    excerpt: "Canaan Inc (NASDAQ:CAN) announced it is launching an independently designed and developed RISC-V-based edge AI chip Kendryte K510 at the 2021 World Artificial Intelligence Confere"
-    publishedDateTime: 2021-07-08T18:37:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/canaan-introduces-self-developed-edge-ai-chip-the-kendryte-k510-1030591108"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 84
-    images:
-      - url: "https://cdn.benzinga.com/files/imagecache/1024x768xUP/images/story/2012/abtech_945.png"
-        width: 1024
-        height: 768
-        isCached: true
-  - title: "Meituan Unveils Self-Developed Drone Model, Plans for Drone Logistics Network at 2021 World Artificial Intelligence Conference"
-    excerpt: "China’s leading e-commerce platform for services, today introduced a new, self-developed drone model and announced plans for a drone logistics network pilot program in Shanghai. The announcement was made at the 2021 World Artificial Intelligence Conference (WAIC) in Shanghai,"
-    publishedDateTime: 2021-07-12T08:30:00Z
-    webUrl: "https://www.suasnews.com/2021/07/meituan-unveils-self-developed-drone-model-plans-for-drone-logistics-network-at-2021-world-artificial-intelligence-conference/"
-    type: article
-    provider:
-      name: SUAS News
-      domain: suasnews.com
-    quality: 9
-    images:
-      - url: "https://www.suasnews.com/wp-content/uploads/2021/07/meituan-696x464.jpg"
-        width: 696
-        height: 464
-        isCached: true
 
 secured: "igvCoUvuqdMTzoEHDKlyhIT3U03lNxarElzj3X80joyb38BA5iCVv3GIZpdig2RHaAd/XXLwPIDgF+2xbco6QgGk3IH+bublinwNTStTfA2i+ho8ZsJJBklQ4Z5cCAL7wRuWmwdDlgrspJVBemQiQnu7Z9De+yyzsskKfkBfMbK1auLB3/PNKjrnay/CyulbVneKp3kOeYuFeRIKtd+kJe520VT5aQL3DZQZzs/28CPepublbgsH0GvS+efkn74hdFZvL1o0D9up4KtlPlwmaP88+lXvVsaZy84Ru/IauTA9bRTc/bLeBSXVIf/bUF+40AtT6IQbA9dGV5NVWTZmWe9WlhyDWP9DaAIZZwEgbn6xj5J/ti940Vty78e4LgCE8cOScFYMlz4ZDOShstQ3aSdTdHbhK/O1q1R99cDsz//NC7pQda3T8rsC5ziKKe1hAaYr1yUPL+jCNOLfEa8wiMoB9SYmlR+543yLWefKIu5jI5mLUZtSSe6IEYdqc21MAh/uJBoHlTituot3iK2MhQ==;OHe3o6q2CLCYXBPVRoOOug=="
 ---

@@ -133,20 +133,6 @@ related:
         width: 749
         height: 499
         isCached: true
-  - title: "Under pressure, Baidu and Tencent tout contributions to China"
-    excerpt: "Baidu CEO Robin Li said in a keynote speech ... announced that his company had begun developing 7-nm chips for self-driving technology. Cambricon produces chips that power AI vital to cloud ..."
-    publishedDateTime: 2021-07-08T18:10:00Z
-    webUrl: "https://asia.nikkei.com/Business/China-tech/Under-pressure-Baidu-and-Tencent-tout-contributions-to-China"
-    type: article
-    provider:
-      name: NIKKEI
-      domain: nikkei.com
-    quality: 39
-    images:
-      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%253A%252F%252Fs3-ap-northeast-1.amazonaws.com%252Fpsh-ex-ftnikkei-3937bb4%252Fimages%252F6%252F8%252F4%252F2%252F35212486-3-eng-GB%252FCropped-16257622402020-07-09T000000Z_168242707_RC2PPH9GMNYR_RTRMADP_3_CHINA-TECH.JPG?width=1024&height=512&fit=cover&gravity=faces&source=nar-cms"
-        width: 1024
-        height: 512
-        isCached: true
   - title: "NAB pilots facial recognition for identity verification"
     excerpt: "NAB has piloted the same facial recognition technology as Westpac to allow consumers to verify their identity via a smartphone. The bank revealed to iTnews that it tested the service supplied by Sydney-headquartered OCR Labs. iTnews revealed in April that ..."
     publishedDateTime: 2021-07-12T02:08:00Z
@@ -188,34 +174,6 @@ related:
       - url: "https://static.straitstimes.com.sg/s3fs-public/styles/x_large/public/articles/2021/07/13/ST_20210713_TECH13_6682990.jpg?itok=5Y6ps2He"
         width: 763
         height: 509
-        isCached: true
-  - title: "Tencent low-light facial recognition to check night-time gaming among children"
-    excerpt: "Some stakeholders such as parents have praised the biometric checks as a step the company has taken in the right direction."
-    publishedDateTime: 2021-07-08T17:34:00Z
-    webUrl: "https://www.biometricupdate.com/202107/tencent-low-light-facial-recognition-to-check-night-time-gaming-among-children"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 35
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/07/08133124/tencent-gaming-facial-recognition-monitoring.png"
-        width: 1240
-        height: 510
-        isCached: true
-  - title: "Tencent rolls out facial recognition tech to enforce late-night gaming curfews"
-    excerpt: "Chinese publisher Tencent wants to enforce China’s gaming session restrictions for younger players with new technology: facial recognition."
-    publishedDateTime: 2021-07-08T18:14:00Z
-    webUrl: "https://gamasutra.com/view/news/384861/Tencent_rolls_out_facial_recognition_tech_to_enforce_latenight_gaming_curfews.php"
-    type: article
-    provider:
-      name: Gamasutra
-      domain: gamasutra.com
-    quality: 35
-    images:
-      - url: "https://d1506sp6x4e9z7.cloudfront.net/gamasutra/uploads/1038506.png"
-        width: 1066
-        height: 915
         isCached: true
   - title: "How Tencent’s Facial Recognition System Ensures Minor Gamers Stick To Curfew Regulations"
     excerpt: "China-based Tencent Games recently launched a facial recognition system to prevent minors from playing video games past their assigned time. The initiative, called the Midnight Patrol, will conduct a face screening for accounts registered with real names and played for a certain amount of time at night."

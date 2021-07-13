@@ -100,23 +100,19 @@ related:
         height: 300
         isCached: true
   - title: "Informatica Expands Cloud Footprint on Microsoft Azure Germany"
-    excerpt: "New Intelligent Data Management Cloud on Azure Bolsters Cloud Momentum in the European region FRANKFURT, Germany,  /PRNewswire/ -- Informatica, the enterprise cloud data management leader, today announced it will make its Intelligent Data Management Cloud (IDMC),"
-    publishedDateTime: 2021-07-13T07:13:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2021/07/13/9407196.htm"
+    excerpt: "today announced it will make its Intelligent Data Management Cloud (IDMC), the industry's first end-to-end AI-powered data management platform, available on Microsoft Azure Germany in response to cloud customer growth across Europe. Over the past year ..."
+    publishedDateTime: 2021-07-13T07:02:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/informatica-expands-cloud-footprint-on-microsoft-azure-germany-889342108.html"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 34
-  - title: "CIBC and Microsoft announce strategic relationship to accelerate the bank's transformation and cloud-first approach"
-    excerpt: "CNW/ - Today CIBC and Microsoft announced a strategic relationship through a multi-year agreement formalizing Microsoft Azure as CIBC's primary cloud platform. CIBC's cloud-first approach will be enabled by Microsoft Azure's vast on-demand computing power,"
-    publishedDateTime: 2021-07-08T17:15:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-cibc-microsoft-announce-strategic-relationship-accelerate-banks-transformation-/2021/07/08/9405628.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 14
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 54
+    images:
+      - url: "https://mma.prnewswire.com/media/692190/Informatica_Corp_Logo.jpg?p=facebook"
+        width: 2000
+        height: 1047
+        isCached: true
 
 secured: "R5uV9R2oADMcI0GgpJnVCPaK8NbATdTM9oOA+xAKg+VEnQyzPK8GycNUPXyCqNP6ftoXUynUhENCJOlw1WGg9xiN3WH2Q+oKtpTrnCyrASocVEzNt34RqBuR+wv/gePI8vXYd/fTbA2WneoXhmFxygySa0TnHH7RQLjqDNyw2Ejn1D0grknRrGBZ+qyLTZVHDY2obryeZcly3G+RdyYuy5nEjgWOLs/1Z0huPLpyK0d62t73iN6XTK7tg7LV7hv9oqcGIMywPfKk32ULX29lDcvbvt7zX429hWGgGGDBdK8P0T1lkFUfYvRPs5o9fmJ95aTFBtmqh3feh4k1ZFDyg8cTpC84LrkrgdgT0g+KP80=;YjvP6uvLfiY7RpTVlJ2a0g=="
 ---

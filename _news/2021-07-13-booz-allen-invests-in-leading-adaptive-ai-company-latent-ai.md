@@ -19,6 +19,20 @@ topics:
   - AI Hardware
 
 related:
+  - title: "Brian MacCarthy: Latent AI’s Capabilities Could Back Booz Allen’s Contract Work Around Machine Learning"
+    excerpt: "Brian MacCarthy, a vice president and founder of the San Francisco-based tech scouting group at Booz Allen Hamilton (NYSE: BAH), said the investment in Latent AI will enable Booz Allen to integrate the startup’s capabilities into its contracts to help meet the demand of warfighters for machine learning services at the tactical edge,"
+    publishedDateTime: 2021-07-13T10:02:00Z
+    webUrl: "https://www.govconwire.com/2021/07/brian-maccarthy-latent-ai-could-back-booz-allens-contract-work-around-ml/"
+    type: article
+    provider:
+      name: GovCon Wire
+      domain: govconwire.com
+    quality: 40
+    images:
+      - url: "https://www.govconwire.com/wp-content/uploads/2021/07/Brian-MacCarthy-Latent-AIs-Capabilities-Could-Back-Booz-Allens-Contract-Work-Around-Machine-Learning.png"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Booz Allen Invests in Leading Adaptive AI Company Latent AI"
     excerpt: "Booz Allen Hamilton (News - Alert) (NYSE: BAH) announced today that it has made a strategic investment in Latent AI, Inc., a rapidly growing company with an award-winning suite of software tools that enable adaptive artificial intelligence (AI) and machine learning (ML) at the edge."
     publishedDateTime: 2021-07-12T12:05:00Z

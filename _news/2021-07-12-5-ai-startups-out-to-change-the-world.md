@@ -9,7 +9,7 @@ ampWebUrl: "https://www.infoworld.com/article/3624700/5-ai-startups-out-to-chang
 cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3624700/5-ai-startups-out-to-change-the-world.amp.html"
 type: article
 quality: 89
-heat: 169
+heat: 159
 published: true
 
 provider:
@@ -120,20 +120,6 @@ related:
       - url: "https://static.euronews.com/articles/stories/05/85/84/48/1000x563_cmsv2_bf9bdf2a-31a7-518e-b05e-4a8faf466235-5858448.jpg"
         width: 1000
         height: 563
-        isCached: true
-  - title: "New AI technologies debut at World AI Conference in Shanghai"
-    excerpt: "Conference opened in Shanghai on Thursday. Since COVID-19 is well under control in China, hundreds of AI developers are able to attend the event offline, where many of them debut their latest products."
-    publishedDateTime: 2021-07-08T18:20:00Z
-    webUrl: "https://news.cgtn.com/news/2021-07-08/New-AI-technologies-debut-at-World-AI-Conference-in-Shanghai-11JGHddW4Ao/index.html"
-    type: article
-    provider:
-      name: CGTN
-      domain: cgtn.com
-    quality: 39
-    images:
-      - url: "https://video.cgtn.com/news/2021-07-08/New-AI-technologies-debut-at-World-AI-Conference-in-Shanghai-11JGHddW4Ao/video/637b2250ea4846a6ad2337f6b4d9ea8d/637b2250ea4846a6ad2337f6b4d9ea8d-1920.jpg"
-        width: 1920
-        height: 1080
         isCached: true
   - title: "Preparing the world for artificial intelligence"
     excerpt: "Ultimately, the move toward AI also needs a cultural paradigm shift, behavior change and setting ethical standards on the boundaries of its uses and what recourse victims of AI use or abuse have to justice."

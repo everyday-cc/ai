@@ -3,8 +3,8 @@ category: news
 title: "D2iQ Now Available in the Microsoft Azure Marketplace"
 excerpt: "D2iQ, a leading independent Kubernetes platform, today announced the availability of the D2iQ Kubernetes Platform (DKP), including D2iQ Kommander, D2iQ Konvoy, and D2iQ Kaptain, in the Microsoft Azure Marketplace,"
 publishedDateTime: 2021-07-12T13:07:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/2021/07/12/9406732.htm"
-webUrl: "https://www.tmcnet.com/usubmit/2021/07/12/9406732.htm"
+originalUrl: "https://www.tmcnet.com/usubmit/-d2iq-now-available-the-microsoft-azure-marketplace-/2021/07/12/9406732.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-d2iq-now-available-the-microsoft-azure-marketplace-/2021/07/12/9406732.htm"
 type: article
 quality: 69
 heat: -1
@@ -62,20 +62,6 @@ related:
       name: Telecompaper
       domain: telecompaper.com
     quality: 34
-  - title: "Qlik Recognized as a Finalist of 2021 Microsoft Analytics Partner of the Year Award"
-    excerpt: "Qlik ® today announced it has been named a finalist of the 2021 Microsoft Analytics Partner of the Year Award. The company was honored among a global field of top Microsoft partners for demonstrating excellence in innovation and implementation of customer solutions based on Microsoft technology."
-    publishedDateTime: 2021-07-08T19:02:00Z
-    webUrl: "https://apnews.com/press-release/globe-newswire/technology-5f346a5576c5d4088d572d5c11cfe4ef"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 33
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
   - title: "Kwik Lok adds Microsoft executive to board"
     excerpt: "Jeff’s addition to Kwik Lok’s board of directors brings many opportunities to expand our innovation, collaboration and technology initiatives,” Kimberly Paxton-Hagner, Kwik Lok board chairwoman, said in a news release."
     publishedDateTime: 2021-07-12T23:08:00Z
@@ -95,6 +81,6 @@ related:
       domain: tmcnet.com
     quality: 15
 
-secured: "APvNhYEUCLjJnfgBRuhs4cBtLjuSqMB/TteepctEEbcFj81DSojJnnxY7VT8ZhvOmQCgY/wSLwi7vLh9zX9x+z/P7tVYol8fkFD4gtxeMevjk65spVVgfs4Mb1Owus5qZVEWItBl6jXKhQ3wFUQw4kymmPkp33c2ABX+AhegrHio5CyGDopL2q0rYCF2FX7DD4x47lX/Z+vtS34uK1wPsjGd0sXviio7Dp9zSSZkVyPQqxvCx5rWHqSUjoMhhUUpZ4HVhCGMSW2LLBVDOEsILrLKtJwu9FwXUX1+v0UpzelkN+kR6UIKNYiNMjTr3BI8Rs0DSjcoX466TJdiZk0GW6bveQ4m3SVM8fe6rHNtEIw=;D/z4/8EaBMKRD/W14pVsMQ=="
+secured: "e5N7XguyQwCIo5Kb9P98nCf4OI1h909pQ+bHSoc23xUJQfvQQAW0XwETqQun/anZazFfm7ef8GY90TRxg20l8XrlioD9teNflaruOQLSIbIIlC+bN1ZyNTay+zj7r/Ycyq7J7zvR76wCb/zz98nI9fp18k0v/aRnU4IulP6A2y+2iqJvdgY9NuGalmTzEFFSSCX42i7BBQo/q7p8MdTCdTnxaEyGVwdMqhaRcRU5XJ4FAFD1QW4hUIE1EwbQ/E27+HDuSOOcIuQSmUm4L9jwjeqPEbmQhq9n0e8aLfbfIMMCl9FxdBaNGoS1Qz9YNaaviX09KijMpeZspE9uRSC+vDeeJqHe9RVvbVpbMWunnVU=;MWscTROnJ+sij7mkeYmkew=="
 ---
 

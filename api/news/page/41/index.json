@@ -2,6 +2,310 @@
   "page": 41,
   "value": [
     {
+      "path": "_news/2021-06-11-how-ai-could-radically-change-education-and-standardized-testing.md",
+      "title": "How AI could radically change education and standardized testing",
+      "excerpt": "Commentary: Find out how artificial intelligence could help shape new, game-changing forms of student assessment.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/how-ai-could-radically-change-education-and-standardized-testing/",
+      "originalUrl": "https://www.techrepublic.com/article/how-ai-could-radically-change-education-and-standardized-testing/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 116,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techrepublic.com/a/hub/i/r/2020/09/22/b6251c91-0aad-4704-ac28-978f08b1ebf5/resize/1200x/cb27a2c72afe520ecccde860b8b38bad/maksym-belchenko.jpg",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/how-ai-could-radically-change-education-and-standardized-testing/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/how-ai-could-radically-change-education-and-standardized-testing/",
+      "publishedDateTime": "2021-06-10T10:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "AI in Education"
+      ]
+    },
+    {
+      "path": "_news/2021-06-11-artificial-intelligence-in-supply-chain-market-evolving-technology-and-growth-outlook-2021-to-2027.md",
+      "title": "Artificial Intelligence in Supply Chain Market Evolving Technology and Growth Outlook 2021 to 2027",
+      "excerpt": "New Analysis Of Artificial Intelligence in Supply Chain Market overview, spend analysis, imports, segmentation,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-supply-chain-market-evolving-technology-and-growth-outlook-2021-to-2027-2021-06-10",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-supply-chain-market-evolving-technology-and-growth-outlook-2021-to-2027-2021-06-10",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 108,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-10T10:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-10-cognitive-analysis-market-is-slated-to-grow-rapidly-in-the-coming-years.md",
+      "title": "Cognitive Analysis Market is slated to grow rapidly in the coming years",
+      "excerpt": "This research service provides a strategic analysis of the Cognitive Analysis Market 2021-2027. This report also studies the global market competition landscape, market drivers and trends, opportunities and challenges,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/cognitive-analysis-market-is-slated-to-grow-rapidly-in-the-coming-years-2021-06-10?tesla=y",
+      "originalUrl": "https://www.marketwatch.com/press-release/cognitive-analysis-market-is-slated-to-grow-rapidly-in-the-coming-years-2021-06-10?tesla=y",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-10T09:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-10-rcmp-use-of-clearview-ai-facial-recognition-service-violated-privacy-act-says-report.md",
+      "title": "RCMP use of Clearview AI facial recognition service violated Privacy Act, says report",
+      "excerpt": "The RCMP’s use of facial recognition technology to conduct hundreds of searches of a database compiled illegally by facial recognition software provider Clearview AI violated the federal Privacy Act,",
+      "sourceUrl": null,
+      "webUrl": "https://www.itworldcanada.com/article/rcmp-use-of-clearview-ai-facial-recognition-service-violated-privacy-act-says-report/454542",
+      "originalUrl": "https://www.itworldcanada.com/article/rcmp-use-of-clearview-ai-facial-recognition-service-violated-privacy-act-says-report/454542",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.itworldcanada.com/wp-content/uploads/2020/06/GettyImages-1148006029.jpg",
+          "width": 2000,
+          "height": 1333,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.itworldcanada.com/article/rcmp-use-of-clearview-ai-facial-recognition-service-violated-privacy-act-says-report/454542?amp=1",
+      "cdnAmpWebUrl": "https://www-itworldcanada-com.cdn.ampproject.org/c/s/www.itworldcanada.com/article/rcmp-use-of-clearview-ai-facial-recognition-service-violated-privacy-act-says-report/454542?amp=1",
+      "publishedDateTime": "2021-06-10T09:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT World Canada",
+        "domain": "itworldcanada.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-10-how-to-run-an-ai-powered-musical-challenge-aws-deepcomposer-got-talent.md",
+      "title": "How to run an AI powered musical challenge: “AWS DeepComposer Got Talent”",
+      "excerpt": "To help you fast track your company’s adoption of machine learning (ML), AWS offers educational solutions for developers to get hands-on experience. We like to think of these programs as a fun way for developers to build their skills using ML technologies in real world scenarios. In this post, we walk",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/how-to-run-an-ai-powered-musical-challenge-aws-deepcomposer-got-talent/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/how-to-run-an-ai-powered-musical-challenge-aws-deepcomposer-got-talent/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 103,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/06/08/1-3230-Header.jpg",
+          "width": 800,
+          "height": 379,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-10T09:01:06-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-10-protecting-the-human-ethics-in-ai.md",
+      "title": "Protecting The Human: Ethics In AI",
+      "excerpt": "Advancements in AI and technology are meant to make our lives easier, yet they pose a threat to society when they are not perfect.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/deanstoecker/2021/06/10/protecting-the-human-ethics-in-ai/",
+      "originalUrl": "https://www.forbes.com/sites/deanstoecker/2021/06/10/protecting-the-human-ethics-in-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 126,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60c232b13b1cc34a5d1d53b8%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/deanstoecker/2021/06/10/protecting-the-human-ethics-in-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/deanstoecker/2021/06/10/protecting-the-human-ethics-in-ai/amp/",
+      "publishedDateTime": "2021-06-10T08:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2021-06-10-canada-police-broke-law-with-facial-recognition-software-regulator-finds.md",
       "title": "Canada Police Broke Law With Facial Recognition Software, Regulator Finds",
       "excerpt": "The Canadian federal police force broke the law when it used controversial facial recognition software, the country's top privacy regulator found in a report released on Thursday. The Royal Canadian Mounted Police (RCMP) initially denied that it used Clearview AI,",
@@ -889,281 +1193,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-10-vivaldis-launching-an-email-client-rss-reader-and-translation-tool.md",
-      "title": "Vivaldi’s launching an email client, RSS reader, and translation tool",
-      "excerpt": "Vivaldi is launching new tools, including an email client, a calander app, a feed reader, and a translation tool with its browser update.",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/news/vivladi-4-email-client-translation-tool-feed",
-      "originalUrl": "https://thenextweb.com/news/vivladi-4-email-client-translation-tool-feed",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-cdn.tnwcdn.com/image/plugged?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F06%2FVivaldi-4.0.jpg&signature=bd279527fe8dfcc5dbcafe44f09b2916",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-10T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-10-bbc-host-thrashes-calls-for-independent-scotland-to-rejoin-eu-deficit-is-8-times-higher.md",
-      "title": "BBC host thrashes calls for independent Scotland to rejoin EU 'Deficit is 8 times higher!'",
-      "excerpt": "BBC presenter Stephen Jardine dismantled Nicola Sturgeon's plan to rejoin the EU with an independent Scotland.",
-      "sourceUrl": null,
-      "webUrl": "https://www.ft.com/content/bb80e462-fbb9-49d1-8a87-b3ad511c1d4e",
-      "originalUrl": "https://www.express.co.uk/news/politics/1447993/scottish-independence-bbc-debate-night-Stephen-Jardine-snp-latest-vn",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 132,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F679fdf47-2ea8-43d9-91fc-bb7b6753c426.jpg?source=google-amp&fit=scale-down&width=500",
-          "width": 500,
-          "height": 281,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.ft.com/content/bb80e462-fbb9-49d1-8a87-b3ad511c1d4e",
-      "cdnAmpWebUrl": "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/bb80e462-fbb9-49d1-8a87-b3ad511c1d4e",
-      "publishedDateTime": "2021-06-10T02:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Daily Express",
-        "domain": "express.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-10-national-stock-exchange-offers-certification-course-in-ai-for-financial-markets.md",
-      "title": "National Stock Exchange Offers Certification Course in AI for Financial Markets",
-      "excerpt": "NSE Academy, the education arm of the National Stock Exchange of India along with TalentSprint have launched an Advanced Certification Program in AI for Financial Markets. The six-month programme is a unique opportunity for professionals working in hedge funds,",
-      "sourceUrl": null,
-      "webUrl": "https://www.news18.com/news/education-career/national-stock-exchange-offers-certification-course-in-ai-for-financial-markets-3830030.html",
-      "originalUrl": "https://www.news18.com/news/education-career/national-stock-exchange-offers-certification-course-in-ai-for-financial-markets-3830030.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.news18.com/ibnlive/uploads/2021/06/1623308843_online2.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.news18.com/amp/news/education-career/national-stock-exchange-offers-certification-course-in-ai-for-financial-markets-3830030.html",
-      "cdnAmpWebUrl": "https://www-news18-com.cdn.ampproject.org/c/s/www.news18.com/amp/news/education-career/national-stock-exchange-offers-certification-course-in-ai-for-financial-markets-3830030.html",
-      "publishedDateTime": "2021-06-10T00:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN-News18",
-        "domain": "news18.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-10-deepmind-says-reinforcement-learning-is-enough-to-reach-general-ai.md",
-      "title": "DeepMind says reinforcement learning is ‘enough’ to reach general AI",
-      "excerpt": "Disclaimer | Accessibility Statement | Commerce Policy | Made In NYC | Stock quotes by finanzen.net Scientists at U.K.-based AI lab DeepMind argue true artificial intelligence will emerge from ...",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/deepmind-says-reinforcement-learning-is-‘enough-to-reach-general-ai-10224799",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/deepmind-says-reinforcement-learning-is-‘enough-to-reach-general-ai-10224799",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-09T22:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-10-nanorobotics-market-size-to-accrue-1272-billion-by-2027.md",
-      "title": "Nanorobotics Market Size to accrue $ 12.72 billion by 2027",
-      "excerpt": "Global Nanorobotics Market to reach USD 12.72 billion by 2027. Global Nanorobotics Market is valued approximately USD 5.53 billion in 2019 and is anticipated to grow with a healthy growth rate of more than 10.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/nanorobotics-market-size-to-accrue-1272-billion-by-2027-2021-06-10",
-      "originalUrl": "https://www.marketwatch.com/press-release/nanorobotics-market-size-to-accrue-1272-billion-by-2027-2021-06-10",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-09T22:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-10-alibaba-to-develop-self-driving-trucks-with-logistics-unit-cainiao.md",
-      "title": "Alibaba to develop self-driving trucks with logistics unit Cainiao",
-      "excerpt": "Chinese e-commerce leader Alibaba Group Holding Ltd plans to develop self-driving trucks with logistics subsidiary Cainiao, Chief Technology Officer Cheng Li said on Thursday. Cheng Li, chief ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.channelnewsasia.com/news/business/alibaba-to-develop-self-driving-trucks-with-logistics-unit-cainiao-14985582",
-      "originalUrl": "https://www.channelnewsasia.com/news/business/alibaba-to-develop-self-driving-trucks-with-logistics-unit-cainiao-14985582",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cna-sg-res.cloudinary.com/image/upload/q_auto,f_auto/image/14985580/16x9/991/557/348d4a21b4c91d2ba3e7633fc6d2a77d/tM/alibaba-group-cto-cheng-li-attends-the-global-smart-logistics-summit-in-hangzhou-4.jpg",
-          "width": 991,
-          "height": 557,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-09T22:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Channel NewsAsia Singapore",
-        "domain": "channelnewsasia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

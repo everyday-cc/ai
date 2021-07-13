@@ -2,6 +2,152 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-07-13-zoominfo-to-acquire-chorusai-for-575m-in-cash.md",
+      "title": "ZoomInfo to Acquire Chorus.ai For $575M In Cash",
+      "excerpt": "By Dave Sebastian ZoomInfo Technologies Inc. said it has agreed to buy Chorus.ai, a conversation-intelligence platform, for about $575 million in cash.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/story/zoominfo-to-acquire-chorus-ai-for-575m-in-cash-271626176537",
+      "originalUrl": "https://www.marketwatch.com/story/zoominfo-to-acquire-chorus-ai-for-575m-in-cash-271626176537",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.marketwatch.com/amp/story/zoominfo-to-acquire-chorus-ai-for-575m-in-cash-271626176537",
+      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/zoominfo-to-acquire-chorus-ai-for-575m-in-cash-271626176537",
+      "publishedDateTime": "2021-07-13T04:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-13-hanwha-techwin-unveils-new-8-and-16-channel-wisenet-x-series-nvrs-with-deep-learning-ai-video-analytics.md",
+      "title": "Hanwha Techwin unveils new 8 and 16 channel Wisenet X Series NVRs with Deep Learning AI video analytics",
+      "excerpt": "The introduction of 8 and 16 channel Wisenet X Series NVRs makes it cost-effective, for even small businesses to take advantage of the licence-free Deep Learning AI video analytics, built into",
+      "sourceUrl": null,
+      "webUrl": "https://www.sourcesecurity.com/news/hanwha-techwin-wisenet-x-series-nvrs-deep-learning-ai-video-analytics-co-1437-ga-co-13220-ga-npr.1626162967.html",
+      "originalUrl": "https://www.sourcesecurity.com/news/hanwha-techwin-wisenet-x-series-nvrs-deep-learning-ai-video-analytics-co-1437-ga-co-13220-ga-npr.1626162967.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.sourcesecurity.com/img/news/612/wisenet-cameras-helps-protect-mfg-s-electric-vehicle-ev-charging-hubs-920x533.jpg",
+          "width": 612,
+          "height": 355,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.sourcesecurity.com/amp/news/hanwha-techwin-wisenet-x-series-nvrs-deep-learning-ai-video-analytics-co-1437-ga-co-13220-ga-npr.1626162967.html",
+      "cdnAmpWebUrl": "https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/news/hanwha-techwin-wisenet-x-series-nvrs-deep-learning-ai-video-analytics-co-1437-ga-co-13220-ga-npr.1626162967.html",
+      "publishedDateTime": "2021-07-13T03:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SourceSecurity",
+        "domain": "sourcesecurity.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-07-13-zoho-launches-business-intelligence-platform-infused-with-ai.md",
+      "title": "Zoho launches business intelligence platform infused with AI",
+      "excerpt": "Zoho launched the integrated Zoho Business Intelligence Platform as part of its effort to expand the total addressable market.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/07/13/zoho-launches-business-intelligence-platform-infused-with-ai/",
+      "originalUrl": "https://venturebeat.com/2021/07/13/zoho-launches-business-intelligence-platform-infused-with-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/07/Zoho-DataPrep_Inside_Zoho_Analytics.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/07/13/zoho-launches-business-intelligence-platform-infused-with-ai/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/13/zoho-launches-business-intelligence-platform-infused-with-ai/amp/",
+      "publishedDateTime": "2021-07-13T03:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-13-quantexa-raises-153m-to-build-out-ai-based-big-data-tools-to-track-risk-and-run-investigations.md",
       "title": "Quantexa raises $153M to build out AI-based big data tools to track risk and run investigations",
       "excerpt": "As financial crime has become significantly more sophisticated, so too have the tools that are used to combat it. Now, Quantexa — one of the more interesting startups that has been building AI-based solutions to help detect and stop money laundering,",
@@ -241,7 +387,7 @@
       "originalUrl": "https://www.crowdfundinsider.com/2021/07/177735-digital-transformation-microsoft-azure-cloud-platform-to-be-used-by-canadian-imperial-bank-of-commerce/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 155,
+      "heat": 145,
       "tags": null,
       "images": [
         {
@@ -578,7 +724,7 @@
       "originalUrl": "https://www.mybuckhannon.com/artificial-intelligence-leader-datarobot-to-host-morgantown-job-fair-tuesday/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 86,
+      "heat": 76,
       "tags": null,
       "images": [
         {
@@ -1065,151 +1211,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-12-if-youve-ever-had-thoughts-of-becoming-a-real-estate-mogul-your-training-can-start-right-here.md",
-      "title": "If you’ve ever had thoughts of becoming a real estate mogul, your training can start right here",
-      "excerpt": "Sponsored Deals The training in The Fundamentals of Real Estate Investment Bundle can help students become an informed, savvy market watcher and investor.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/07/12/if-youve-ever-had-thoughts-of-becoming-a-real-estate-mogul-your-training-can-start-right-here/",
-      "originalUrl": "https://venturebeat.com/2021/07/12/if-youve-ever-had-thoughts-of-becoming-a-real-estate-mogul-your-training-can-start-right-here/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/06/sale_31347_article_image.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/07/12/if-youve-ever-had-thoughts-of-becoming-a-real-estate-mogul-your-training-can-start-right-here/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/12/if-youve-ever-had-thoughts-of-becoming-a-real-estate-mogul-your-training-can-start-right-here/amp/",
-      "publishedDateTime": "2021-07-12T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-12-the-role-of-ar-vr-ai-and-robotics-in-future-conflicts.md",
-      "title": "The Role of AR, VR, AI and Robotics in Future Conflicts",
-      "excerpt": "The increasing importance of information in military and warfare is making digital technology and its applications, such as analytics, AI, and augmented reality, indispensable to the future of war.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bbntimes.com/politics/the-role-of-ar-vr-ai-and-robotics-in-future-conflicts",
-      "originalUrl": "https://www.bbntimes.com/politics/the-role-of-ar-vr-ai-and-robotics-in-future-conflicts",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.bbntimes.com/images/articles/global-economy/The_Role_of_AR_VR_AI_and_Robotics_in_Future_Conflicts.jpg",
-          "width": 1625,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-12T06:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "bbntimes",
-        "domain": "bbntimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-12-this-ai-asks-questions-finds-answers-and-suggests-actions-all-at-scale.md",
-      "title": "This AI Asks Questions, Finds Answers And Suggests Actions, All At Scale",
-      "excerpt": "SparkBeyond has developed an AI-driven dynamic research and strategic action engine that can help you create a better future",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/gilpress/2021/07/12/this-ai-asks-questions-finds-answers-and-suggests-actions-all-at-scale/",
-      "originalUrl": "https://www.forbes.com/sites/gilpress/2021/07/12/this-ai-asks-questions-finds-answers-and-suggests-actions-all-at-scale/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60e9ea58078e5ea785ac75f1%2F0x0.jpg",
-          "width": 1200,
-          "height": 1354,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/gilpress/2021/07/12/this-ai-asks-questions-finds-answers-and-suggests-actions-all-at-scale/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/gilpress/2021/07/12/this-ai-asks-questions-finds-answers-and-suggests-actions-all-at-scale/amp/",
-      "publishedDateTime": "2021-07-12T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

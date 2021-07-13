@@ -2,6 +2,50 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-07-13-hanwha-techwin-unveils-new-8-and-16-channel-wisenet-x-series-nvrs-with-deep-learning-ai-video-analytics.md",
+      "title": "Hanwha Techwin unveils new 8 and 16 channel Wisenet X Series NVRs with Deep Learning AI video analytics",
+      "excerpt": "The introduction of 8 and 16 channel Wisenet X Series NVRs makes it cost-effective, for even small businesses to take advantage of the licence-free Deep Learning AI video analytics, built into",
+      "sourceUrl": null,
+      "webUrl": "https://www.sourcesecurity.com/news/hanwha-techwin-wisenet-x-series-nvrs-deep-learning-ai-video-analytics-co-1437-ga-co-13220-ga-npr.1626162967.html",
+      "originalUrl": "https://www.sourcesecurity.com/news/hanwha-techwin-wisenet-x-series-nvrs-deep-learning-ai-video-analytics-co-1437-ga-co-13220-ga-npr.1626162967.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.sourcesecurity.com/img/news/612/wisenet-cameras-helps-protect-mfg-s-electric-vehicle-ev-charging-hubs-920x533.jpg",
+          "width": 612,
+          "height": 355,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.sourcesecurity.com/amp/news/hanwha-techwin-wisenet-x-series-nvrs-deep-learning-ai-video-analytics-co-1437-ga-co-13220-ga-npr.1626162967.html",
+      "cdnAmpWebUrl": "https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/news/hanwha-techwin-wisenet-x-series-nvrs-deep-learning-ai-video-analytics-co-1437-ga-co-13220-ga-npr.1626162967.html",
+      "publishedDateTime": "2021-07-13T03:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SourceSecurity",
+        "domain": "sourcesecurity.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-07-13-google-pixel-6-whitechapel-chip-rumor-just-spilled-key-details.md",
       "title": "Google Pixel 6 Whitechapel chip rumor just spilled key details",
       "excerpt": "As we get closer to the Pixel 6 's launch, we're bound to get more information on the in-house Whitechapel system-on-chip likely to power Google's phone. And thanks to some new Product Validation Test (PVT) units,",
@@ -1111,58 +1155,6 @@
       ]
     },
     {
-      "path": "_news/2021-06-30-what-investors-should-know-about-baidus-ai-chip-spin-off.md",
-      "title": "What Investors Should Know About Baidu's AI Chip Spin-Off",
-      "excerpt": "Baidu (NASDAQ:BIDU) unveiled Kunlun, its artificial intelligence (AI) chip optimized for cloud-to-edge computing tasks, three years ago. At the time, it claimed the 14nm chip provided 1.5 to three times more processing power than NVIDIA's comparable T4 GPU for AI tasks.",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2021/06/30/what-investors-know-about-baidu-ai-chip-spin-off/",
-      "originalUrl": "https://www.fool.com/investing/2021/06/30/what-investors-know-about-baidu-ai-chip-spin-off/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F632101%2F1600829035136803.jpg&w=1200&op=resize",
-          "width": 1200,
-          "height": 721,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.fool.com/amp/investing/2021/06/30/what-investors-know-about-baidu-ai-chip-spin-off/",
-      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/06/30/what-investors-know-about-baidu-ai-chip-spin-off/",
-      "publishedDateTime": "2021-06-30T08:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-06-30-parrot-anafi-ai-is-a-4g-drone-with-striking-style-and-3d-vision.md",
       "title": "Parrot Anafi Ai is a 4G drone with striking style and 3D vision",
       "excerpt": "Parrot has a new drone, but the French company would really rather you think of the new Anafi Ai as a 4G-connected flying robot. Tapping cellular data for better, broader range, and a new 3D",
@@ -1195,6 +1187,49 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/slashgear.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-30-what-investors-should-know-about-baidus-ai-chip-spin-off.md",
+      "title": "What Investors Should Know About Baidu's AI Chip Spin-Off",
+      "excerpt": "Baidu (NASDAQ: BIDU) unveiled Kunlun, its artificial intelligence (AI) chip optimized for cloud-to-edge computing tasks, three years ago. At the",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/what-investors-should-know-about-baidus-ai-chip-spin-off-10289234",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/what-investors-should-know-about-baidus-ai-chip-spin-off-10289234",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-30T06:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1392,50 +1427,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-29-microsoft-announces-the-general-availability-of-azure-nd-a100-v4-cloud-gpu-instances.md",
-      "title": "Microsoft Announces the General Availability of Azure ND A100 V4 Cloud GPU Instances",
-      "excerpt": "Microsoft announced the general availability of the Azure ND A100 v4 Cloud GPU instances—powered by NVIDIA A100 Tensor Core GPUs. These Virtual Machines (VMs) are targeted at customers with high performance and demanding workloads like Artificial Intelligence (AI) and Machine Learning (ML) workloads.",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoq.com/news/2021/06/azure-a100-gpu-nvidia-ga/",
-      "originalUrl": "https://www.infoq.com/news/2021/06/azure-a100-gpu-nvidia-ga/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://res.infoq.com/news/2021/06/azure-a100-gpu-nvidia-ga/en/headerimage/header+%281%29-1624710420680.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-29T04:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoQ",
-        "domain": "infoq.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

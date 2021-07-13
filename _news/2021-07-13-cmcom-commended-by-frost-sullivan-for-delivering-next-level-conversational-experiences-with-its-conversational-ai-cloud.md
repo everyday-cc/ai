@@ -3,8 +3,8 @@ category: news
 title: "CM.com Commended by Frost & Sullivan for Delivering Next-level Conversational Experiences with Its Conversational AI Cloud"
 excerpt: "By combining rule-based and AI technologies, DigitalCX provides highly effective services that enrich both the user and employee"
 publishedDateTime: 2021-07-13T06:11:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/cm-com-commended-by-frost-sullivan-for-delivering-next-level-conversational-experiences-with-its-conversational-ai-cloud-1030599962"
-webUrl: "https://markets.businessinsider.com/news/stocks/cm-com-commended-by-frost-sullivan-for-delivering-next-level-conversational-experiences-with-its-conversational-ai-cloud-1030599962"
+originalUrl: "https://markets.businessinsider.com/news/stocks/cm-com-commended-by-frost-sullivan-for-delivering-next-level-conversational-experiences-with-its-conversational-ai-cloud-1030599961"
+webUrl: "https://markets.businessinsider.com/news/stocks/cm-com-commended-by-frost-sullivan-for-delivering-next-level-conversational-experiences-with-its-conversational-ai-cloud-1030599961"
 type: article
 quality: 41
 heat: 41
@@ -27,6 +27,6 @@ images:
     height: 366
     isCached: true
 
-secured: "vXpbzcRPoiT4z1HOkebK1aTvcpiT6+YXu1dl/yjcx2DA9bmbofvDfSwb4s3x79dmDWkbLEYdwKPQhums4XZNlFNrhz5HGOW4QZxlESzwTuISKQbVXSeZ9m+ln5ux4QddDACxYqL+Wv28tT6KjD+wkdQcmCjfEV3EkLXodI31l2mZak3pxkmogP9xL4UaAVy/QuThikocEZFtJ+LzbvncE6nBkkoBvExVfHeWBPQCcXsDJ+zOz+Vocfex+TXKfjlOkLCMlxth2xwLYhQnaQpjBX2aPDjIFvi739YRGrpDi5BAay/cubNkcnNh3/zLsGuML1FVvG5iXODS21ijPHbLi+NX0ex42GV961G0AWH9X0M=;KGsOk795dYtdzKeVFIsoKw=="
+secured: "2qMdsbicG+Inz7ZesBw1d42jwOKgsOBpzN7S5gBlIJnZO8gsU2WdOPyABd72voVgSKzETZv3QULthgTSQjNG3L44tGTE085sQuTt9rPm7VSrBV+I/rndpzx3q1ZludFDawUABE5vs2batn082koh6USdMX9WlZhWnZhMXDfW4GG7A9NkOrPNXkJmVAHW1N4zSds3Reyea19mS5vrLgEbvs0RexUehN6VR+zl59pDsgLATVqMshHlbnsmDVIU4/+cTv+Kv94G6pBcxhd1A+i1J8fxVowTs+TxCP8eVxzrcOplhYdkQdioAwlMKY/TlNmpZey80aPgQrE3uX1ZcPcE+km9ldnCxSZa6xAk9enhWAE=;Ddtr99bfW23fv4pem5ZuVQ=="
 ---
 

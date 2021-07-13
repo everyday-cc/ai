@@ -109,14 +109,14 @@ related:
   - title: "Artificial Intelligence (AI) Market in Industrial Machinery Industry to grow by $ 458.68 million|Technavio"
     excerpt: "The artificial intelligence (AI) market in the agriculture industry market is set to grow by USD 458.68 million, progressing at a CAGR of"
     publishedDateTime: 2021-07-09T22:00:00Z
-    webUrl: "https://www.troyrecord.com/news/national/artificial-intelligence-ai-market-in-industrial-machinery-industry-to-grow-by-458-68-million-technavio/article_25c3bf4e-291e-581e-9d99-f30a8b0173aa.html"
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/artificial-intelligence-ai-market-in-industrial-machinery-industry-to-grow-by-458-68-million-technavio/article_917a31d7-b21a-51c1-9005-9e2c9f9d1fb0.html"
     type: article
     provider:
-      name: Troy Record
-      domain: troyrecord.com
+      name: WFMZ-TV
+      domain: wfmz.com
     quality: 36
     images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/troyrecord.com/content/tncms/assets/v3/editorial/0/b6/0b6e2b92-6456-5b6a-b26e-f092a993135e/60e8cab506590.image.jpg?resize=1200%2C585"
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/8/63/8635831d-c3ca-5a24-b643-300bca1379fc/60e8c777dd85b.image.jpg?resize=1200%2C585"
         width: 1200
         height: 585
         isCached: true
@@ -195,6 +195,15 @@ related:
       name: ReportsnReports
       domain: reportsnreports.com
     quality: 13
+  - title: "Artificial Intelligence in Agriculture Market Size - Detailed Analysis of Current Industry Figures with Forecasts Growth By 2025"
+    excerpt: "Market Study Report LLC adds new research on Artificial Intelligence in Agriculture market, which is a detailed analysis of this business space inclusive of the trends, competitive landscape, and the market size. Encompassing one or more parameters among ..."
+    publishedDateTime: 2021-07-13T11:46:00Z
+    webUrl: "https://www.reseller.co.nz/mediareleases/144374/artificial-intelligence-in-agriculture-market/"
+    type: article
+    provider:
+      name: Reseller News
+      domain: reseller.co.nz
+    quality: 3
 
 secured: "d7CqmeNPHEvLImzb6u+hqoek+H6KuNh+6xUUZ6/vLYdGBWuByA/VspZrz74nfcOq2zXgIenY7hLektJghrHyxvnbQkIJ3wrrQxknv2drGq26TsXSK/zaMMkTjQ2D1NnGMVqX3Ytp53Z2nMdYa84IzKmHQRMSv0KNGeWdW3RjWqen9+3JrJpBvj22i71uv52nODHndAb3rrwdzygDWrc7FqhsLdjUG5BIibMl3PfcsaUtbMry5pclz5/fA7lbUM+leh2uyhqcTdPtYkROwU8pFrr+klfNRrmkjC0Yo/fE2P+UdE5+zfxxogbLcnpzVwg1h990VAgdBV8ng+8/WrXNjBHsWKfC8Ro9Ho0MgaotHuY=;M0VkF4gck7kkaAvkJIEJwQ=="
 ---

@@ -2,6 +2,58 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2021-05-11-mythic-raises-70m-to-disrupt-ai-chips-with-analog-and-flash-components.md",
+      "title": "Mythic raises $70M to disrupt AI chips with analog and flash components",
+      "excerpt": "Mythic has raised $70 million to fund the analog-based AI processors it plans to launch later this year. Mythic has spent nine years coming up with a patented, potentially disruptive way to compete with other makers of artificial intelligence chips.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/05/11/mythic-raises-70m-to-disrupt-ai-chips-with-analog-and-flash-components/",
+      "originalUrl": "https://venturebeat.com/2021/05/11/mythic-raises-70m-to-disrupt-ai-chips-with-analog-and-flash-components/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 154,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/05/mythic-chip-4.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/05/11/mythic-raises-70m-to-disrupt-ai-chips-with-analog-and-flash-components/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/11/mythic-raises-70m-to-disrupt-ai-chips-with-analog-and-flash-components/amp/",
+      "publishedDateTime": "2021-05-11T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-11-full-interview-with-ibm-ceo-arvind-krishna-on-new-ai-innovations-chip-shortage-strategy-and-more.md",
       "title": "Full interview with IBM CEO Arvind Krishna on new AI innovations, chip shortage, strategy and more",
       "excerpt": "IBM will announce advancements in artificial intelligence and quantum computing at its global annual conference called \"Think.\" The technology is designed to help businesses push further into the 21st century.",

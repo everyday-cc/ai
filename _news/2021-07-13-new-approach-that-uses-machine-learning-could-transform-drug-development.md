@@ -30,7 +30,7 @@ related:
   - title: "Artificial Intelligence Could Be New Blueprint for Precision Drug Discovery"
     excerpt: "Writing in the July 12, 2021 online issue of Nature Communications, researchers at University of California San Diego School of Medicine describe a new approach that uses machine learning to hunt for disease targets and then predicts whether a drug is likely to receive FDA approval."
     publishedDateTime: 2021-07-12T17:10:00Z
-    webUrl: "https://health.ucsd.edu/news/releases/Pages/2021-07-12-artificial-intelligence-could-be-new-blueprint-for-precision-drug-discovery.aspx"
+    webUrl: "https://health.ucsd.edu/news/releases/Pages/2021-07-12-artificial-intelligence-could-be-new-blueprint-for-precision-drug-discovery.aspx?_ga=2.90697119.448482760.1626110850-963225343.1578613963"
     type: article
     provider:
       name: Scripps News
