@@ -57,6 +57,20 @@ related:
         width: 831
         height: 568
         isCached: true
+  - title: "Run image classification with Amazon SageMaker JumpStart"
+    excerpt: "Last year, AWS announced the general availability of Amazon SageMaker JumpStart, a capability of Amazon SageMaker that helps you quickly and easily get started with machine learning (ML). JumpStart hosts 196 computer vision models, 64 natural language processing (NLP) models, 18 pre-built end-to-end"
+    publishedDateTime: 2021-07-13T21:00:20Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/run-image-classification-with-amazon-sagemaker-jumpstart/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 89
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png"
+        width: 768
+        height: 385
+        isCached: true
 
 secured: "fEDsS9FbkC0Oma+npLWd/5PQdPB4a41tMrfsGSr+pLZWUqWRfLLi86x0hVK402T3gma6paVCW3yHNREgwQitoLnxgqLTAKV11pKCk4DttQ55J869PLTrnS3YiXdDBxUpW/Rw1AR+AFLYD0R7xQuytNFa92Kq54zKMyI1GZEnzl97dSr5EqXmBoPOkOkfKNnZQWVnhFjXapYRxG3G1hlcbzTIGZwbid90ibzxSfotPex/wAOPhNwyV7kEzaLrJkgA6AbPeTK18uktzeI23P6n3ELTXD4wDIWhP9sGQA8lGwqzBhWjTajMoBlXjl8JOUTUq/USb1PM2UK7ApI/dTuF276INA9Id21qch0wVWGF+gM=;A3lgXp1/oOF49ujfR+vacg=="
 ---

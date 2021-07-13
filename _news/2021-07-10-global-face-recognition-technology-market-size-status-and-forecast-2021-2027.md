@@ -19,102 +19,52 @@ topics:
   - AI
 
 related:
-  - title: "Military Robots Market Share, Size, Industry Players, Revenue And Product Demand Forecast Till 2024"
-    excerpt: "The government of various nations is continuously investing in automation technology for surveillance services by"
-    publishedDateTime: 2021-07-10T16:56:00Z
-    webUrl: "https://www.marketwatch.com/press-release/military-robots-market-share-size-industry-players-revenue-and-product-demand-forecast-till-2024-2021-07-10"
+  - title: "Republicans and Democrats concerned about facial recognition technology"
+    excerpt: "Law enforcement must be careful when using facial recognition technology. “We need to ensure that the adoption of this new technology that does not further erode trust between law enforcement and the communities they serve,"
+    publishedDateTime: 2021-07-13T21:24:00Z
+    webUrl: "https://www.wsav.com/news/national-news/republicans-and-democrats-concerned-about-facial-recognition-technology/"
+    ampWebUrl: "https://www.wsav.com/news/republicans-and-democrats-concerned-about-facial-recognition-technology/amp/"
+    cdnAmpWebUrl: "https://www-wsav-com.cdn.ampproject.org/c/s/www.wsav.com/news/republicans-and-democrats-concerned-about-facial-recognition-technology/amp/"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 55
+      name: WSAV-TV
+      domain: wsav.com
+    quality: 61
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://www.wsav.com/wp-content/uploads/sites/75/2021/07/CBD9E120D58140A1A6D82774464D865D_7.jpg?w=1280"
+        width: 1280
+        height: 720
         isCached: true
-  - title: "Robot Operating System Market Size 2021 by Company, Product introduction, Products Sales Volume, Revenue, Price and Gross Margin to 2030"
-    excerpt: "In a recent published report, Kenneth Research has updated the market report for Robot Operating System Market for"
-    publishedDateTime: 2021-07-09T17:02:00Z
-    webUrl: "https://www.marketwatch.com/press-release/robot-operating-system-market-size-2021-by-company-product-introduction-products-sales-volume-revenue-price-and-gross-margin-to-2030-2021-07-09"
+  - title: "Michigan man misidentified by facial recognition technology warns Congress of risks posed by police surveillance"
+    excerpt: "A Michigan man who was wrongly arrested after being misidentified by facial recognition technology joined expert witnesses who warned a congressional subcommittee about the pitfalls of police surveillance software used to find suspects."
+    publishedDateTime: 2021-07-13T17:44:00Z
+    webUrl: "https://www.mlive.com/public-interest/2021/07/michigan-man-misidentified-by-facial-recognition-technology-warns-congress-of-risks-posed-by-police-surveillance.html"
+    ampWebUrl: "https://www.mlive.com/public-interest/2021/07/michigan-man-misidentified-by-facial-recognition-technology-warns-congress-of-risks-posed-by-police-surveillance.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-mlive-com.cdn.ampproject.org/c/s/www.mlive.com/public-interest/2021/07/michigan-man-misidentified-by-facial-recognition-technology-warns-congress-of-risks-posed-by-police-surveillance.html?outputType=amp"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 53
+      name: MLive
+      domain: mlive.com
+    quality: 38
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/IWXH4NYTVRCQBC4MUGFDTP37GU.jpg"
+        width: 4904
+        height: 3678
         isCached: true
-  - title: "Global Healthcare Artificial Intelligence Market Size, Status and Forecast 2021-2027"
-    excerpt: "Pages Report] Check for Discount on Global Healthcare Artificial Intelligence Market Size, Status and Forecast 2021-2027 report by QYResearch Group. AI in healthcare has huge and wide reaching potential"
-    publishedDateTime: 2021-07-09T07:53:00Z
-    webUrl: "https://www.reportsnreports.com/reports/4655759-global-healthcare-artificial-intelligence-market-size-status-and-forecast-2021-2027.html"
+  - title: "New state laws require more police transparency, limit use of facial recognition technology"
+    excerpt: "One of the laws makes Maine the first state in the country to apply strict limits on facial recognition technology."
+    publishedDateTime: 2021-07-10T01:14:00Z
+    webUrl: "https://www.pressherald.com/2021/07/09/new-state-laws-require-more-police-transparency-limit-use-of-facial-recognition-technology/"
     type: article
     provider:
-      name: ReportsnReports
-      domain: reportsnreports.com
-    quality: 27
-  - title: "Global Automatic Speech Recognition Market Size, Status and Forecast 2021-2027"
-    excerpt: "The global Automatic Speech Recognition market size is projected to reach US$ XX million by 2027, from US$ XX million in 2020, at a CAGR of XX% during 2021-2027. With industry-standard accuracy in analysis and high data integrity, the report makes a ..."
-    publishedDateTime: 2021-07-10T09:05:00Z
-    webUrl: "https://www.reportsnreports.com/reports/4660781-global-automatic-speech-recognition-market-size-status-and-forecast-2021-2027.html"
-    type: article
-    provider:
-      name: ReportsnReports
-      domain: reportsnreports.com
-    quality: 15
-  - title: "Global Machine Learning in Automobile Market Size, Status and Forecast 2021-2027"
-    excerpt: "Pages Report] Check for Discount on Global Machine Learning in Automobile Market Size, Status and Forecast 2021-2027 report by QYResearch Group. Machine learning in the automotive industry has a remarkable"
-    publishedDateTime: 2021-07-09T07:52:00Z
-    webUrl: "https://www.reportsnreports.com/reports/4655617-global-machine-learning-in-automobile-market-size-status-and-forecast-2021-2027.html"
-    type: article
-    provider:
-      name: ReportsnReports
-      domain: reportsnreports.com
-    quality: 14
-  - title: "Deep Neural Networks Market Trend, Growth, Size, Forecast, Key Players and Competitive Landscape Research Report by 2027"
-    excerpt: "The report talks about the production capacity, demand and supply trends, market dynamics, and impact of these and other key factors on the global Deep Neural Networks market. It also offers an extensive analysis of the competitive landscape along with an industry-wide analysis of the market share of each player along with their business profiles."
-    publishedDateTime: 2021-07-12T17:13:00Z
-    webUrl: "https://manometcurrent.com/deep-neural-networks-market-trend-growth-size-forecast-key-players-and-competitive-landscape-research-report-by-2027/"
-    type: article
-    provider:
-      name: manometcurrent.com
-      domain: manometcurrent.com
-    quality: 14
+      name: Portland Press Herald
+      domain: pressherald.com
+    quality: 29
     images:
-      - url: "https://manometcurrent.com/wp-content/uploads/2021/07/RD11-2-390x220.png"
-        width: 390
-        height: 220
+      - url: "http://multifiles.pressherald.com/uploads/sites/4/2017/01/pph-icon-red-linkforFB.png"
+        width: 300
+        height: 300
         isCached: true
-  - title: "Global Artificial Intelligence in Construction Market Size, Status and Forecast 2021-2027"
-    excerpt: "Pages Report] Check for Discount on Global Artificial Intelligence in Construction Market Size, Status and Forecast 2021-2027 report by QYResearch Group. Market Analysis and Insights: Global Artificial Intelligence in Construction"
-    publishedDateTime: 2021-07-13T08:25:00Z
-    webUrl: "https://www.reportsnreports.com/reports/4662396-global-artificial-intelligence-in-construction-market-size-status-and-forecast-2021-2027.html"
-    type: article
-    provider:
-      name: ReportsnReports
-      domain: reportsnreports.com
-    quality: 8
-  - title: "Global Voice Recognition Software Market Size, Status and Forecast 2021-2027"
-    excerpt: "Pages Report] Check for Discount on Global Voice Recognition Software Market Size, Status and Forecast 2021-2027 report by QYResearch Group. Market Analysis and Insights: Global Voice Recognition Software Market"
-    publishedDateTime: 2021-07-13T08:24:00Z
-    webUrl: "https://www.reportsnreports.com/reports/4662311-global-voice-recognition-software-market-size-status-and-forecast-2021-2027.html"
-    type: article
-    provider:
-      name: ReportsnReports
-      domain: reportsnreports.com
-    quality: 1
-  - title: "Global Educational Robot Market (2021 to 2026) – Industry Trends, Share, Size, Growth, Opportunity and Forecasts – ResearchAndMarkets.com"
-    excerpt: "Global Industry Trends, Share, Size, Growth, Opportunity and Forecast 2021-2026” report has been added to ResearchAndMarkets.com’s offering. The global educational robot market exhibited strong growth during 2015-2020."
-    publishedDateTime: 2021-07-12T14:08:00Z
-    webUrl: "https://www.financialbuzz.com/global-educational-robot-market-2021-to-2026-industry-trends-share-size-growth-opportunity-and-forecasts-researchandmarkets-com/"
-    type: article
-    provider:
-      name: Financial Buzz
-      domain: financialbuzz.com
-    quality: 0
 
 secured: "QMqW1k5cr51gCbm/Tz6C2JJ5615Pc1aN4ZqGGmw/d/JYgOHhET+miT+YQNIk9lkE4TmjDthOqKRECKhdF6FjKRMJRU5EuNDLMjOLMBAZZYoJdwc01pF++aKTVQB9bC5Kgej7KAlpDEUF6luolyGOg4Y2IpWX2vz7M2XQw64yB74tmw1eLCXB91JOCJZh4es0yVJZJsaKFRl/3Le9dnVfS2KSjmS9PKK1CaMFMlQmHOYqIUVzIRU4Ca4BHmSuPan5JUSCLO48C7FVAw4QN1UvtLwouwHS1CN2w3Q9Nn7eeJMXPq9LpwynY8/SzbiKQ980WEGaw5NIV/rqqiAqQ0okGViGntg0LArexfVjzalYlGA=;HwHIE9SziveqPTMgIFzLgg=="
 ---

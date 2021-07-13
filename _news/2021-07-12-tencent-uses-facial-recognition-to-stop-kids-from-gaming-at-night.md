@@ -9,7 +9,7 @@ ampWebUrl: "https://sea.mashable.com/tech/16612/tencent-uses-facial-recognition-
 cdnAmpWebUrl: "https://sea-mashable-com.cdn.ampproject.org/c/s/sea.mashable.com/tech/16612/tencent-uses-facial-recognition-to-stop-kids-from-gaming-at-night?amp=1"
 type: article
 quality: 89
-heat: 209
+heat: 199
 published: true
 
 provider:
@@ -75,15 +75,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Tencent Uses Facial Recognition on Teenage Gamers"
-    excerpt: "Tencent Games says it has been using facial recognition to enforce China’s rules on how much time people under 18 can spend playing video"
-    publishedDateTime: 2021-07-09T03:09:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/tencent-uses-facial-recognition-on-teenage-gamers-10315991"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 49
   - title: "SoftBank backs facial-recognition startup"
     excerpt: "SoftBank Group is leading an investment in AnyVision Interactive Technologies that values the facial-recognition company at over $1bn"
     publishedDateTime: 2021-07-12T08:55:00Z

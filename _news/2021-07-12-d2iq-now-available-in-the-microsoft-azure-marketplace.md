@@ -1,27 +1,27 @@
 ---
 category: news
 title: "D2iQ Now Available in the Microsoft Azure Marketplace"
-excerpt: "D2iQ, a leading independent Kubernetes platform, today announced the availability of the D2iQ Kubernetes Platform (DKP), including"
-publishedDateTime: 2021-07-12T13:03:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/d2iq-now-available-in-the-microsoft-azure-marketplace-301331501.html"
-webUrl: "https://www.prnewswire.com/news-releases/d2iq-now-available-in-the-microsoft-azure-marketplace-301331501.html"
+excerpt: "D2iQ, a leading independent Kubernetes platform, today announced the availability of the D2iQ Kubernetes Platform (DKP), including D2iQ Kommander, D2iQ Konvoy, and D2iQ Kaptain, in the Microsoft Azure Marketplace,"
+publishedDateTime: 2021-07-12T00:00:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-d2iq-now-available-the-microsoft-azure-marketplace-/2021/07/12/9406732.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-d2iq-now-available-the-microsoft-azure-marketplace-/2021/07/12/9406732.htm"
 type: article
 quality: 69
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - Microsoft AI
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/1156495/D2IQ_Logo.jpg?p=facebook"
-    width: 2161
-    height: 1130
+  - url: "https://mma.prnewswire.com/media/1156495/D2IQ_Logo.jpg"
+    width: 400
+    height: 400
     isCached: true
 
 related:
@@ -53,19 +53,33 @@ related:
         width: 896
         height: 504
         isCached: true
-  - title: "Icertis Recognized as the Winner of 2021 Microsoft AI Partner of the Year"
-    excerpt: "Icertis, the contract intelligence company that pushes the boundaries of what's possible with contract lifecycle management (CLM),"
-    publishedDateTime: 2021-07-13T13:05:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/icertis-recognized-as-the-winner-of-2021-microsoft-ai-partner-of-the-year-301332517.html"
+  - title: "Microsoft Launches 'Inside Azure for IT' Learning Portal"
+    excerpt: "Microsoft on Monday announced the launch of Inside Azure for IT, a new learning site \"for cloud professionals of all skill levels.\" Inside Azure for IT contains links to so-called \"fireside chats ..."
+    publishedDateTime: 2021-07-13T19:38:00Z
+    webUrl: "https://redmondmag.com/articles/2021/07/13/inside-azure-for-it-learning-portal.aspx"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
+      name: Redmond Magazine
+      domain: redmondmag.com
+    quality: 54
+    images:
+      - url: "https://redmondmag.com/-/media/ECG/visualstudiomagazine/Images/introimages/0913vsm_randolph.jpg"
+        width: 647
+        height: 450
+        isCached: true
+  - title: "Icertis Recognized as the Winner of 2021 Microsoft AI Partner of the Year"
+    excerpt: "Icertis, the contract intelligence company that pushes the boundaries of what's possible with contract lifecycle management (CLM), announced today that it has won the Artificial Intelligence (AI) 2021 Microsoft Partner of the Year Award and been named a Finalist of the Global ISV Microsoft Partner of the Year Award for the fourth year in a row."
+    publishedDateTime: 2021-07-13T13:12:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2021/07/13/9407857.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
     quality: 53
     images:
-      - url: "https://mma.prnewswire.com/media/371539/Icertis_Logo.jpg?p=facebook"
-        width: 800
-        height: 419
+      - url: "https://mma.prnewswire.com/media/371539/Icertis_Logo.jpg"
+        width: 400
+        height: 260
         isCached: true
   - title: "Pensa Systems Now Available on Microsoft Azure"
     excerpt: "Pensa Systems, a leading innovator in the automated use of computer vision and artificial intelligence for retail in-store data and analytics, announced today that its advanced shelf intelligence data offering has become a Microsoft Preferred Solution and is now available on Microsoft Azure."
@@ -118,6 +132,6 @@ related:
       domain: tmcnet.com
     quality: 15
 
-secured: "pVN2MRzutooeCTBsWLSNNt2zcgxpqgfjKVpg+7GN1M47NIqTNHhcTBqlFmcPhVJNgprT7Ljbg/G3/BvVyW7WgcbJ6hoWWzJ+X3GKLg83tSy78Wsg39cQxJD7dWHO8vTmrMn8RNyE7pl/gOnsMwXcQPPfTUBSBsAdAyw9IuWzfhAeNWRjpDSBcoANMh0WBM2pqRoULbaVqs61LZqDqPLMbeKjvCxBAvJO6blm4vMWuye1EVQGagWPQDe60mvssPuuaaT1uipa8f9nOoqJWkpRDe3b+ipf2yIkRH3sCGD3jXeMC9H8E85uTnXxtxznwZNORN+bCOq9ktbx0tsnTAnI1K5x4eSX70EkGxx0POOmJ8E=;Iv5xdhp6Dh9MuC5AEpzTOA=="
+secured: "33crSBnPA78yv5JJksy4V4pZ29W/BN05N2R4VtMPzD+BXMTNl2h350IWSs9TD/3BSnMh1F4SoBcf9MxPEC7InZYQ2M0ydIlRMjNUzRslz0tHbo8QTv0ILAcpvxsgn9dRmu6dAL6Gf5pA30aFDyskB8wEoUnWD0LujxTpxfMIe0w/+hm/IcFn9mJDhr5SDVKCYk7yCZ8G3wQg1QGn2Hu2r5gwM2HlUQmB9Acgg+wQE9rn/JAMIDubsLvCvLl6E5E8d8R7ulxU6XS2Rtb/zXauCXsD1CDgDpeIksJK8YXePt/OzOMGuLKtchluRgg8DaSmd+XZBH2pRRHYmdhXRkGgOcCWgDfaqU4VfqlMBGHFyZU=;qBqoHcylbxMKQGyYdCYydw=="
 ---
 

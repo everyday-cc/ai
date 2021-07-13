@@ -9,7 +9,7 @@ ampWebUrl: "https://www.crowdfundinsider.com/2021/07/177735-digital-transformati
 cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/07/177735-digital-transformation-microsoft-azure-cloud-platform-to-be-used-by-canadian-imperial-bank-of-commerce/amp/"
 type: article
 quality: 75
-heat: 125
+heat: 135
 published: true
 
 provider:
@@ -77,6 +77,20 @@ related:
       - url: "https://mk0ibsintelligek4gm6.kinstacdn.com/wp-content/uploads/2020/11/CIBC.jpg"
         width: 300
         height: 300
+        isCached: true
+  - title: "Microsoft Opens Azure Learning Site for IT Pros"
+    excerpt: "Microsoft this week launched Inside Azure for IT, which contains links to \"fireside chats\" on various Azure topics, aiming \"to solve your real-world IT challenges.\" Erin Chapple, Microsoft's corporate vice president for the Azure core infrastructure ..."
+    publishedDateTime: 2021-07-13T19:43:00Z
+    webUrl: "https://mcpmag.com/articles/2021/07/13/microsoft-opens-azure-learning-site.aspx"
+    type: article
+    provider:
+      name: MCPmag
+      domain: mcpmag.com
+    quality: 54
+    images:
+      - url: "https://mcpmag.com/-/media/ECG/VirtualizationReview/Images/introimages2014/140813VRTCloudOrchestration.jpg"
+        width: 647
+        height: 450
         isCached: true
   - title: "CIBC inks Microsoft Azure deal"
     excerpt: "Azure will support the migration of hundreds of applications to the cloud, as well as offer scalable computing power for CIBC's enterprise data lake and AI platform. The bank will also get access to a suite of Microsoft training programmes and ..."

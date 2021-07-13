@@ -1,21 +1,27 @@
 ---
 category: news
 title: "1Strategy Achieves AWS Security Competency Status"
-excerpt: "1Strategy also helps customers get real value from their data using comprehensive machine learning models and artificial intelligence. 1Strategy holds the AWS DevOps, Migration, Data and Analytics and Machine Learning Operations Competencies, and is a ..."
-publishedDateTime: 2021-07-07T15:08:00Z
-originalUrl: "https://www.morningstar.com/news/business-wire/20210707005486/1strategy-achieves-aws-security-competency-status"
-webUrl: "https://www.morningstar.com/news/business-wire/20210707005486/1strategy-achieves-aws-security-competency-status"
+excerpt: "Validates experience and expertise in delivering secure solutions 1Strategy, a TEKsystems Global Services Company and Amazon Web Services (AWS) Premier Consulting"
+publishedDateTime: 2021-07-07T15:04:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/21/07/b21879197/1strategy-achieves-aws-security-competency-status"
+webUrl: "https://www.benzinga.com/pressreleases/21/07/b21879197/1strategy-achieves-aws-security-competency-status"
 type: article
 
 provider:
-  name: Morningstar%2c Inc.
-  domain: morningstar.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AWS AI
   - AI
   - AI in Security
 
-secured: "f2twLG7FYwZYj+ix3kqt60y7w2vF0PoMYZhUrCGB3Mzcg4gFHyhZjcJUXg6A9Xx47R04ueq1wPVEEbAUajVSoLCH3uMA2NNlPgyUO6IUaraVLOvOMStrK0J+mfKDAqIZoOPZf2/1psmw5kliG0Ew2yHUM0isj7+6zVyJ2kQLP5gpoNtIUiLx1ZfPbETWsRluL+RvKGqJvuhrGjiLHWmPNx8j9j+jvKGcyvIlBa9yuMcuXiS9NkfMsKerIaU84OxubVha0Ob/tTlBZSkJPgkV+UybHev4ptYHJo7Rwiu1p3b0+q1ECQfBsdnXsGzVqF8qV9ygilKhnfgIZwRUeNLBdQyPZBdYZblxegqaeWFQNI4=;wEmOGPQnHhGxX9oaMMHbMg=="
+images:
+  - url: "https://cdn.benzinga.com/files/imagecache/og_image_social_share_1200x630/sites/all/themes/bz2/images/bz-icon.png"
+    width: 1200
+    height: 630
+    isCached: true
+
+secured: "ExyEvkF3U0hpsHAOlI+DEd509i3JK+/OpOAT2LMKrxdMeF9lSz6msUFazvkwQuwhoNU695BYEDmAIQ/7uudEl0x2zIBljuif1Ow9kvABtcyB3hebW+iDYnXjjUK0yLLDtJ6cieiBH4uvi/Usak0Oql5NjEG6fny3y71XTngKPEXRvZtNkHwdkWb1alA5GWKT9JsV/i0Q4V38AlA8u0+nXfQtjSyPl3DjofpBHu2tTTe3WGfULoSQboE9NswSljgRPIQ0wM3Z1bqar0tU+n5xb+Xth5uVRafMCEtDBhutVD3FPHgpZwBoXiQy8cp3f74kH7fcL+7UwRHLUkJHwB+AFMmhQw33jZzWm1/7pwLtxOU=;NlkcQ6WsWcxhCKiwhWdWbg=="
 ---
 

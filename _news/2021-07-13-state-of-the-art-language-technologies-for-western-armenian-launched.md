@@ -7,7 +7,7 @@ originalUrl: "https://en.armradio.am/2021/07/13/state-of-the-art-language-techno
 webUrl: "https://en.armradio.am/2021/07/13/state-of-the-art-language-technologies-for-western-armenian-launched/"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -26,20 +26,18 @@ images:
 
 related:
   - title: "State of the Art Language Technologies in Western Armenian"
-    excerpt: "The Armenian Communities Department of the Calouste Gulbenkian Foundation has announced that the Western Armenian Universal Dependencies Treebank was"
-    publishedDateTime: 2021-07-13T18:41:00Z
-    webUrl: "https://massispost.com/2021/07/state-of-the-art-language-technologies-in-western-armenian/"
-    ampWebUrl: "https://massispost.com/2021/07/state-of-the-art-language-technologies-in-western-armenian/amp/"
-    cdnAmpWebUrl: "https://massispost-com.cdn.ampproject.org/c/s/massispost.com/2021/07/state-of-the-art-language-technologies-in-western-armenian/amp/"
+    excerpt: "The Armenian Communities Department of the Calouste Gulbenkian Foundation is delighted to announce that the Western Armenian Universal Dependencies Treebank"
+    publishedDateTime: 2021-07-13T19:29:00Z
+    webUrl: "https://asbarez.com/state-of-the-art-language-technologies-in-western-armenian/"
     type: article
     provider:
-      name: MassisPost
-      domain: massispost.com
-    quality: 44
+      name: Asbarez
+      domain: asbarez.com
+    quality: 24
     images:
-      - url: "https://massispost.com/wp-content/uploads/2021/07/Armenian-Treebank-1600.jpg"
-        width: 700
-        height: 438
+      - url: "https://asbarez-english-media-files.s3.amazonaws.com/wp-content/uploads/2021/07/13104843/download.jpg"
+        width: 576
+        height: 268
         isCached: true
   - title: "Gulbenkian Foundation Launches State of the Art Language Technologies in Western Armenian"
     excerpt: "The Armenian Communities Department of the Calouste Gulbenkian Foundation is delighted to announce that the Western Armenian Universal Dependencies Treebank was released on 15 May 2021, and is now available on the Universal Dependencies Consortium webpage."

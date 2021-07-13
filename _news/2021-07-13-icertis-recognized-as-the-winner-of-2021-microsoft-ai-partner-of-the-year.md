@@ -1,27 +1,27 @@
 ---
 category: news
 title: "Icertis Recognized as the Winner of 2021 Microsoft AI Partner of the Year"
-excerpt: "Icertis, the contract intelligence company that pushes the boundaries of what's possible with contract lifecycle management (CLM),"
-publishedDateTime: 2021-07-13T13:05:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/icertis-recognized-as-the-winner-of-2021-microsoft-ai-partner-of-the-year-301332517.html"
-webUrl: "https://www.prnewswire.com/news-releases/icertis-recognized-as-the-winner-of-2021-microsoft-ai-partner-of-the-year-301332517.html"
+excerpt: "Icertis, the contract intelligence company that pushes the boundaries of what's possible with contract lifecycle management (CLM), announced today that it has won the Artificial Intelligence (AI) 2021 Microsoft Partner of the Year Award and been named a Finalist of the Global ISV Microsoft Partner of the Year Award for the fourth year in a row."
+publishedDateTime: 2021-07-13T13:12:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/2021/07/13/9407857.htm"
+webUrl: "https://www.tmcnet.com/usubmit/2021/07/13/9407857.htm"
 type: article
 quality: 53
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - Microsoft AI
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/371539/Icertis_Logo.jpg?p=facebook"
-    width: 800
-    height: 419
+  - url: "https://mma.prnewswire.com/media/371539/Icertis_Logo.jpg"
+    width: 400
+    height: 260
     isCached: true
 
 related:
@@ -40,18 +40,18 @@ related:
         height: 630
         isCached: true
   - title: "D2iQ Now Available in the Microsoft Azure Marketplace"
-    excerpt: "D2iQ, a leading independent Kubernetes platform, today announced the availability of the D2iQ Kubernetes Platform (DKP), including"
-    publishedDateTime: 2021-07-12T13:03:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/d2iq-now-available-in-the-microsoft-azure-marketplace-301331501.html"
+    excerpt: "D2iQ, a leading independent Kubernetes platform, today announced the availability of the D2iQ Kubernetes Platform (DKP), including D2iQ Kommander, D2iQ Konvoy, and D2iQ Kaptain, in the Microsoft Azure Marketplace,"
+    publishedDateTime: 2021-07-12T00:00:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-d2iq-now-available-the-microsoft-azure-marketplace-/2021/07/12/9406732.htm"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
+      name: TMCnet
+      domain: tmcnet.com
     quality: 69
     images:
-      - url: "https://mma.prnewswire.com/media/1156495/D2IQ_Logo.jpg?p=facebook"
-        width: 2161
-        height: 1130
+      - url: "https://mma.prnewswire.com/media/1156495/D2IQ_Logo.jpg"
+        width: 400
+        height: 400
         isCached: true
   - title: "Reaching The $2 Tn Mark: Microsoft’s Top AI Projects"
     excerpt: "After Apple, Microsoft recently became the only publicly traded American company to hit the $2 trillion market cap."
@@ -66,6 +66,20 @@ related:
       - url: "https://analyticsindiamag.com/wp-content/uploads/2021/07/Microsoft_AIM.jpg"
         width: 896
         height: 504
+        isCached: true
+  - title: "Microsoft Launches 'Inside Azure for IT' Learning Portal"
+    excerpt: "Microsoft on Monday announced the launch of Inside Azure for IT, a new learning site \"for cloud professionals of all skill levels.\" Inside Azure for IT contains links to so-called \"fireside chats ..."
+    publishedDateTime: 2021-07-13T19:38:00Z
+    webUrl: "https://redmondmag.com/articles/2021/07/13/inside-azure-for-it-learning-portal.aspx"
+    type: article
+    provider:
+      name: Redmond Magazine
+      domain: redmondmag.com
+    quality: 54
+    images:
+      - url: "https://redmondmag.com/-/media/ECG/visualstudiomagazine/Images/introimages/0913vsm_randolph.jpg"
+        width: 647
+        height: 450
         isCached: true
   - title: "Pensa Systems Now Available on Microsoft Azure"
     excerpt: "Pensa Systems, a leading innovator in the automated use of computer vision and artificial intelligence for retail in-store data and analytics, announced today that its advanced shelf intelligence data offering has become a Microsoft Preferred Solution and is now available on Microsoft Azure."
@@ -118,6 +132,6 @@ related:
       domain: tmcnet.com
     quality: 15
 
-secured: "VRbjJ2iin0liiTfXv0+e+3g8BB9jHpmdnUOuFom1SRiDtpgsFlzxKlBLHsKqq+fFglZMY6PdP3JfcZzHCC1jQ6qDcGL3XeK9jTv1A+LkGY0kDBCQ2rKLUFcOpLh+on29FlDAzEtuMu7niPRxNH7Fua/FKeUb7yrtItiT5pM8+QUflH2xuOn3dzdBVVVZTfi3YmO6eKyqBOEqg4gD51lYfUUHQ2OAxe/oDBY8B9aYeGoSyj+FWmkEE/bl2jEeEGsfyZSBCQJGyWtK3U34di1AfQDukoF+fGvK4IMiz0DW5M7JoZh/1tiGzSoFCluqFHxJTy+s8ACC77IHaZozp5fZaIlRAGUWjEDC4hEUEEJMK0CTe6IBzz9bZbCVrsyKuObMf79nO1aBvX4E6VPYB+TsG3R5AL3SNWr7ev33hEdUG2INiVoTta1nly5dxbuHJ44OxAERYQsThEAa0/2cm4z1DcQ7z/GhM7N4T3n4he+YkUW2n0rV4MSwUfxZSBe6T7yLvK6/lAX4qOtoBj9zYgOBAw==;Il8hi5LnHvEVo1WintkabA=="
+secured: "Q/CS7zJGCW4QEDzNKstKhlRHlL/yxS1juLWdrTWGk2KadG5oQkITGBMi6GY9t2iXvqeNnA/cx6ovxBRw+QfAyTMrpcNJwKdIY3K3bYMKj0FMfuyr/k0DbcgcDCDY80pUxLBocthFtTQeNBR5rLXGy3SrmuOSjCRJNao094a5nFVPBO1O8KMTD3V4W2m13U8VSCGXRrQ0n6OZnvFJbk4G25GOUflG7qNLEacoS8dit4lN7UPZH0IJ5I2xlDaNtzYLNfUsu6TyGztVsx6+ot6GG+fepnOj21+xB5s0EGV4KurBw+ygYlXupL8gLwJUGt1j/mk1JAU05t8I1zrS7p+MLfKidRKDj35l756bAjrWtkg=;QYFZKmXjhUivRAoSAcdEcg=="
 ---
 

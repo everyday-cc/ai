@@ -56,15 +56,6 @@ related:
       name: ReportsnReports
       domain: reportsnreports.com
     quality: 27
-  - title: "Global Face Recognition Technology Market Size, Status and Forecast 2021-2027"
-    excerpt: "Pages Report] Check for Discount on Global Face Recognition Technology Market Size, Status and Forecast 2021-2027 report by QYResearch Group. Market Analysis and Insights: Global Face Recognition Technology Market"
-    publishedDateTime: 2021-07-10T09:01:00Z
-    webUrl: "https://www.reportsnreports.com/reports/4660488-global-face-recognition-technology-market-size-status-and-forecast-2021-2027.html"
-    type: article
-    provider:
-      name: ReportsnReports
-      domain: reportsnreports.com
-    quality: 16
   - title: "Global Machine Learning in Automobile Market Size, Status and Forecast 2021-2027"
     excerpt: "Pages Report] Check for Discount on Global Machine Learning in Automobile Market Size, Status and Forecast 2021-2027 report by QYResearch Group. Machine learning in the automotive industry has a remarkable"
     publishedDateTime: 2021-07-09T07:52:00Z

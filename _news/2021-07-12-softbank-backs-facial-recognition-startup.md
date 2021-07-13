@@ -91,15 +91,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Tencent Uses Facial Recognition on Teenage Gamers"
-    excerpt: "Tencent Games says it has been using facial recognition to enforce China’s rules on how much time people under 18 can spend playing video"
-    publishedDateTime: 2021-07-09T03:09:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/tencent-uses-facial-recognition-on-teenage-gamers-10315991"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 49
   - title: "NAB pilots facial recognition for identity verification"
     excerpt: "NAB has piloted the same facial recognition technology as Westpac to allow consumers to verify their identity via a smartphone. The bank revealed to iTnews that it tested the service supplied by Sydney-headquartered OCR Labs. iTnews revealed in April that ..."
     publishedDateTime: 2021-07-12T02:08:00Z

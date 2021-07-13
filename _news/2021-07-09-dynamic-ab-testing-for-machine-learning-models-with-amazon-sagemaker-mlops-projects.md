@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/dynamic-a-b-testing-
 webUrl: "https://aws.amazon.com/blogs/machine-learning/dynamic-a-b-testing-for-machine-learning-models-with-amazon-sagemaker-mlops-projects/"
 type: article
 quality: 114
-heat: 134
+heat: 144
 published: true
 
 provider:
@@ -57,6 +57,20 @@ related:
       - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/06/30/ML3314-image01.jpg"
         width: 800
         height: 450
+        isCached: true
+  - title: "Run image classification with Amazon SageMaker JumpStart"
+    excerpt: "Last year, AWS announced the general availability of Amazon SageMaker JumpStart, a capability of Amazon SageMaker that helps you quickly and easily get started with machine learning (ML). JumpStart hosts 196 computer vision models, 64 natural language processing (NLP) models, 18 pre-built end-to-end"
+    publishedDateTime: 2021-07-13T21:00:20Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/run-image-classification-with-amazon-sagemaker-jumpstart/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 89
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png"
+        width: 768
+        height: 385
         isCached: true
 
 secured: "Xt4frbtPvO8AQwQOMsrCyaKOaN6plOQw3kNUnVoZtvhBkWVgc35/NcD9Lw+M9WPg8hWfZdwbVKFeMj+MIhlWl7713DeCbzeAzKJVm7yVyt1TC0+uH6TAHLqsNXhn86fNWimomPmWM1m3ZXPw10Y+xhIwM0r/bYvp19VYRoaQ8JpSsZReg3DB3LuWAAQ1fWzvX/B4sDgt4qNornKXcatN5IYpanduBmgjPiCeLV0Yq2lM6hVz71rQlYZGvc4nCyUdM/Dzs+IfS3CscuMxXuSQAek/rpxsowQm8Wp/89UJBtHnWW4GNzhSEVJ3wlcsyH9cP2ajbJ0r8tb0c+Uclq2hJ8QSJaZm7V9T9nyEWsrNy8E=;lw9hnUqd9CTgMtLORIFiVw=="

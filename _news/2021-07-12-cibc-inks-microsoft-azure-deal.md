@@ -85,6 +85,20 @@ related:
         width: 300
         height: 300
         isCached: true
+  - title: "Microsoft Opens Azure Learning Site for IT Pros"
+    excerpt: "Microsoft this week launched Inside Azure for IT, which contains links to \"fireside chats\" on various Azure topics, aiming \"to solve your real-world IT challenges.\" Erin Chapple, Microsoft's corporate vice president for the Azure core infrastructure ..."
+    publishedDateTime: 2021-07-13T19:43:00Z
+    webUrl: "https://mcpmag.com/articles/2021/07/13/microsoft-opens-azure-learning-site.aspx"
+    type: article
+    provider:
+      name: MCPmag
+      domain: mcpmag.com
+    quality: 54
+    images:
+      - url: "https://mcpmag.com/-/media/ECG/VirtualizationReview/Images/introimages2014/140813VRTCloudOrchestration.jpg"
+        width: 647
+        height: 450
+        isCached: true
 
 secured: "R5uV9R2oADMcI0GgpJnVCPaK8NbATdTM9oOA+xAKg+VEnQyzPK8GycNUPXyCqNP6ftoXUynUhENCJOlw1WGg9xiN3WH2Q+oKtpTrnCyrASocVEzNt34RqBuR+wv/gePI8vXYd/fTbA2WneoXhmFxygySa0TnHH7RQLjqDNyw2Ejn1D0grknRrGBZ+qyLTZVHDY2obryeZcly3G+RdyYuy5nEjgWOLs/1Z0huPLpyK0d62t73iN6XTK7tg7LV7hv9oqcGIMywPfKk32ULX29lDcvbvt7zX429hWGgGGDBdK8P0T1lkFUfYvRPs5o9fmJ95aTFBtmqh3feh4k1ZFDyg8cTpC84LrkrgdgT0g+KP80=;YjvP6uvLfiY7RpTVlJ2a0g=="
 ---

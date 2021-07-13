@@ -24,6 +24,17 @@ images:
     height: 660
     isCached: true
 
+related:
+  - title: "CSPs Can Use AI to Simplify Operations"
+    excerpt: "Automated operations are table stakes for communications service providers (CSPs) looking to enhance operations, grow revenue and improve customer experience."
+    publishedDateTime: 2021-07-13T21:39:00Z
+    webUrl: "https://www.lightreading.com/partner-perspectives-(sponsored-content)/csps-can-use-ai-to-simplify-operations/a/d-id/770843"
+    type: article
+    provider:
+      name: Light Reading
+      domain: lightreading.com
+    quality: 19
+
 secured: "BytRNz8zMpMPALV+BR/Fn5HWX2+uTI71uYVR/mq+Gyf2rh7nr64PjgzJYpJ961JhxeYZpTgQ8TpmnF+p3BqAlBtbimeTBUsF/hGsnuVobfNAmGNk3sBFKuaiRl8ownCSY+X57xL+i64Lxzurt05/mvnM2DjxsqaLm6Fda3fKPD0IRtQ2+40aP67UugNTAvG8yW6zVqGWz4esuyRrVtuKp4y+1gm3GCmUmVzfoY+OXybKzJPwNGxI2N4LUafwUZhOOtLjxYroKgGs8VWMp9UKrZY26ho83gcy8s3KY9Z+Pbjy57T4CNutMPvUISNxJ/OlbFlbYiVfjJrgsPt2scd1akTYSbrJfXF1HpOayV33cmo=;ROSbWV96mFd6VzD0ag3fGQ=="
 ---
 

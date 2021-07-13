@@ -9,7 +9,7 @@ ampWebUrl: "https://www.medindia.net/amp/news/machine-learning-powered-imaging-h
 cdnAmpWebUrl: "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/machine-learning-powered-imaging-helps-diagnose-thyroid-cancer-202208-1.htm"
 type: article
 quality: 61
-heat: 81
+heat: 71
 published: true
 
 provider:
@@ -37,20 +37,6 @@ related:
       name: Science Daily
       domain: sciencedaily.com
     quality: 39
-  - title: "Thyroid cancer now diagnosed with machine learning-powered photoacoustic/ultrasound imaging"
-    excerpt: "POSTECH Professor Chulhong Kim's research team performs machine learning-powered photoacoustic/ultrasound imaging for thyroid cancer classification."
-    publishedDateTime: 2021-07-09T04:00:00Z
-    webUrl: "https://www.eurekalert.org/pub_releases/2021-07/puos-tcn070821.php"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 29
-    images:
-      - url: "https://www.eurekalert.org/multimedia/pub/web/270241_web.jpg"
-        width: 1440
-        height: 1234
-        isCached: true
 
 secured: "ANoEFEOI2A5C3bl315yjLdrPhHuDY3FjvE8UgfRUaNHK9LAxzWbuSTfbB6e+xNiGLC9GOWHPFyInZqOl+/WiTsWVxj3xx6F8xPMvlspCAXhtFYTBjF3LmnI+kt+p57b2HYLRziJa13c76hTWK7PL+4Ui/C64OfP70EYwJq4IaWQYoPJhZsNrZC0ZTVCtji+Zj43B8Li+wLPuYWfdvy3H2aHLZmW2f9JvYDRNcpT5hb//Iu42+IqPNk5Q94ssfjjihN41n3VMZksMbDfCIMi6MOKXWrsl23znvXQrVgToelIyO18pv7/HNKxkSUUBrJE+gaxoqOSj69T1nIH1rKwL6Z+Rrk3F1n0VP8v5jDzJlin/lVb6fj+2NWSB352Btt2/4VOtTZzbFHYIxbrWcqqM6u6fVr5tN2O7tPjle+uALGYXFUZwzdX/v5ONGfeWCKi1PdeFpP48HBMb9cU5w4iS2G6/dyGdrSYxlfLgHCA1zzYPUEI8Hd4VW5BHBWNaxD/oRSNNWCxVDqrHB/YgsW3z0Q==;zo2h9equ7zrorLPnZgW3ww=="
 ---
