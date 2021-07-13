@@ -2,6 +2,204 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-07-11-the-bathroom-break-gotta-go-conundrum-for-riders-inside-ai-self-driving-cars.md",
+      "title": "The Bathroom Break ‘Gotta Go’ Conundrum For Riders Inside AI Self-Driving Cars",
+      "excerpt": "Seeking a restroom while on a road trip is a common matter, so the question arises how self-driving cars will provide needed accommodations for human riders.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/lanceeliot/2021/07/11/the-bathroom-break-gotta-go-conundrum-for-riders-inside-ai-self-driving-cars/",
+      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2021/07/11/the-bathroom-break-gotta-go-conundrum-for-riders-inside-ai-self-driving-cars/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 95,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F604fe41fae09b91acf877631%2F0x0.jpg%3FcropX1%3D144%26cropX2%3D1195%26cropY1%3D310%26cropY2%3D803",
+          "width": 1051,
+          "height": 493,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2021/07/11/the-bathroom-break-gotta-go-conundrum-for-riders-inside-ai-self-driving-cars/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/07/11/the-bathroom-break-gotta-go-conundrum-for-riders-inside-ai-self-driving-cars/amp/",
+      "publishedDateTime": "2021-07-11T08:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2021-07-11-sonys-televisions-will-soon-be-100-robot-made-according-to-a-report.md",
+      "title": "Sony's televisions will soon be 100% robot-made, according to a report",
+      "excerpt": "He told the newspaper: \"I don't think automation alone using robots will bring enough merits. The key is to use digitalization to link both sales and manufacturing.\" Sales data would be studied using artificial intelligence to more effectively calculate ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/sony-robots-automation-tv-camera-smartphone-factory-2021-7",
+      "originalUrl": "https://www.businessinsider.com/sony-robots-automation-tv-camera-smartphone-factory-2021-7",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/609eb383f27b4c00194448b5?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/sony-robots-automation-tv-camera-smartphone-factory-2021-7?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/sony-robots-automation-tv-camera-smartphone-factory-2021-7?amp",
+      "publishedDateTime": "2021-07-11T08:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-11-ai-has-become-a-design-problem.md",
+      "title": "AI has become a design problem",
+      "excerpt": "The bulk of the discussion around making AI trustworthy centers on engineering. But it should really be focused on design.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/07/11/ai-has-become-a-design-problem/",
+      "originalUrl": "https://venturebeat.com/2021/07/11/ai-has-become-a-design-problem/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/06/GettyImages-12811727531.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/07/11/ai-has-become-a-design-problem/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/11/ai-has-become-a-design-problem/amp/",
+      "publishedDateTime": "2021-07-11T06:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-11-sidekicksai-is-a-holographic-ai-assistant-that-will-revolutionize-education.md",
+      "title": "Sidekicks.ai Is A Holographic AI Assistant That Will Revolutionize Education",
+      "excerpt": "The startup’s team of mentors and experts comes from SVA, MIT, Colombia, and other prestigious places. Last month, Sidekicks launched a Kickstarter campaign that reached the goal in just thirty minutes and exceeded $300K in 10 days. The AI characters ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.gizchina.com/2021/07/11/sidekicks-ai-is-a-holographic-ai-assistant-that-will-revolutionize-education/",
+      "originalUrl": "https://www.gizchina.com/2021/07/11/sidekicks-ai-is-a-holographic-ai-assistant-that-will-revolutionize-education/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gizchina.com/wp-content/uploads/images/2021/07/Sidekicks.ai_Teaser3-1024x683.jpg",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.gizchina.com/2021/07/11/sidekicks-ai-is-a-holographic-ai-assistant-that-will-revolutionize-education/amp/",
+      "cdnAmpWebUrl": "https://www-gizchina-com.cdn.ampproject.org/c/s/www.gizchina.com/2021/07/11/sidekicks-ai-is-a-holographic-ai-assistant-that-will-revolutionize-education/amp/",
+      "publishedDateTime": "2021-07-10T22:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GizChina",
+        "domain": "gizchina.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Education"
+      ]
+    },
+    {
       "path": "_news/2021-07-11-why-some-chip-companies-are-voicing-concern-and-others-support-for-nvidias-acquisition-of-arm.md",
       "title": "Why Some Chip Companies Are Voicing Concern and Others Support for NVIDIA's Acquisition of ARM",
       "excerpt": "NVIDIA acquiring ARM would shift the balance of power in the chip industry in a big way, and not just in favor of NVIDIA.",
@@ -507,7 +705,7 @@
       "originalUrl": "https://aws.amazon.com/blogs/machine-learning/dynamic-a-b-testing-for-machine-learning-models-with-amazon-sagemaker-mlops-projects/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 124,
+      "heat": 134,
       "tags": null,
       "images": [
         {
@@ -560,7 +758,7 @@
       "originalUrl": "https://www.msn.com/en-us/finance/other/us-sanctions-a-chinese-facial-recognition-company-with-silicon-valley-funding/ar-AALYjHH",
       "featuredContent": null,
       "highlight": null,
-      "heat": 196,
+      "heat": 206,
       "tags": null,
       "images": [
         {
@@ -941,6 +1139,58 @@
       ]
     },
     {
+      "path": "_news/2021-07-09-halo-brings-driverless-car-rental-to-las-vegas.md",
+      "title": "Halo Brings Driverless Car Rental to Las Vegas",
+      "excerpt": "All-electric rental car startup Halo this week announced plans for an autonomous vehicle service in Las Vegas, powered by T-Mobile 5G. Halo, which has been test driving on Las Vegas public streets for months,",
+      "sourceUrl": null,
+      "webUrl": "https://uk.pcmag.com/cars-auto/134405/halo-brings-driverless-car-rental-to-las-vegas",
+      "originalUrl": "https://uk.pcmag.com/cars-auto/134405/halo-brings-driverless-car-rental-to-las-vegas",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://sm.pcmag.com/t/pcmag_uk/news/h/halo-bring/halo-brings-driverless-car-rental-to-las-vegas_w7ty.1200.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-09T05:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC Magazine",
+        "domain": "pcmag.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-09-facebook-teaches-ai-powered-robot-to-adapt-while-walking.md",
       "title": "Facebook teaches AI-powered robot to adapt while walking",
       "excerpt": "The four-legged robot resembles a dog walking over sand, rocks and other difficult surfaces. As it moves forward, the black robot adjusts its stride and adapts without falling.  Teaming up with Carnegie Mellon University's School of Computer Science and the University of California,",
@@ -981,246 +1231,6 @@
       "topics": [
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-07-09-sensetime-joins-hands-with-global-innovators-to-build-a-sustainable-ai-ecosystem.md",
-      "title": "SenseTime Joins Hands with Global Innovators to Build a Sustainable AI Ecosystem",
-      "excerpt": "SenseTime, the leading global artificial intelligence (AI) company, hosted an industry forum themed \"AI+: Ecosystem\" at the 2021 World Artificial Intelligence Conference (WAIC) today. The forum gathered influential entrepreneurs,",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/sensetime-joins-hands-with-global-innovators-to-build-a-sustainable-ai-ecosystem-1030592716",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/sensetime-joins-hands-with-global-innovators-to-build-a-sustainable-ai-ecosystem-1030592716",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1560817/Xu_Li__Co_founder_and_CEO_of_SenseTime_introduced_SenseCore_AI_Infrastructure.jpg",
-          "width": 400,
-          "height": 267,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-09T04:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-09-microsoft-announces-the-general-availability-of-azure-arc-enabled-sql.md",
-      "title": "Microsoft Announces the General Availability of Azure Arc-Enabled SQL",
-      "excerpt": "Microsoft announced the general availability as per the end of July of Azure Arc-enabled SQL, which extends the Azure SQL instances to be hosted on an edge data center or in a multi-cloud environment.",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoq.com/news/2021/07/azure-arc-enabled-sql/",
-      "originalUrl": "https://www.infoq.com/news/2021/07/azure-arc-enabled-sql/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 149,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://res.infoq.com/news/2021/07/azure-arc-enabled-sql/en/headerimage/header+%283%29-1625687685497.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-09T04:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoQ",
-        "domain": "infoq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-09-how-manufacturers-can-get-the-most-out-of-ai-based-erps-for-auditing-and-forecasting.md",
-      "title": "How Manufacturers Can Get The Most Out Of AI-Based ERPs For Auditing And Forecasting",
-      "excerpt": "AI is advancing at a fast pace worldwide and will impact many areas of daily life including your current or future ERP system.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2021/07/09/how-manufacturers-can-get-the-most-out-of-ai-based-erps-for-auditing-and-forecasting/",
-      "originalUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2021/07/09/how-manufacturers-can-get-the-most-out-of-ai-based-erps-for-auditing-and-forecasting/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 90,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6064dbb8610333ea7f4c8408%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2021/07/09/how-manufacturers-can-get-the-most-out-of-ai-based-erps-for-auditing-and-forecasting/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesfinancecouncil/2021/07/09/how-manufacturers-can-get-the-most-out-of-ai-based-erps-for-auditing-and-forecasting/amp/",
-      "publishedDateTime": "2021-07-09T04:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-09-oneconnect-impresses-at-world-artificial-intelligence-conference-2021-in-shanghai.md",
-      "title": "OneConnect Impresses at World Artificial Intelligence Conference 2021 in Shanghai",
-      "excerpt": "Leading technology-as-a-service platform provider OneConnect Financial Technology Co., Ltd. (NYSE: OCFT) (\"OneConnect\" or \"the Company\"), an associate company of Ping An Group, recently displayed a lineup of impressive fintech solutions at the (WAIC 2021) held in Shanghai from July 8-10,",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/oneconnect-impresses-at-world-artificial-intelligence-conference-2021-in-shanghai-1030592354",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/oneconnect-impresses-at-world-artificial-intelligence-conference-2021-in-shanghai-1030592354",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1560742/OneConnect_at_World_Artificial_Intelligence_Conference_2021.jpg",
-          "width": 400,
-          "height": 266,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-09T02:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-09-cba-turns-focus-on-applying-responsible-ai-following-national-ethics-framework-pilot.md",
-      "title": "CBA turns focus on applying responsible AI following national ethics framework pilot",
-      "excerpt": "Commonwealth Bank of Australia (CBA) has revealed that testing the federal government's artificial intelligence (AI) ethics principles during the creation and design of its Commbank app feature Bill Sense gave insight into how the bank could apply ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/cba-turns-focus-on-applying-responsible-ai-following-national-ethics-framework-pilot/",
-      "originalUrl": "https://www.zdnet.com/article/cba-turns-focus-on-applying-responsible-ai-following-national-ethics-framework-pilot/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/cba-turns-focus-on-applying-responsible-ai-following-national-ethics-framework-pilot/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/cba-turns-focus-on-applying-responsible-ai-following-national-ethics-framework-pilot/",
-      "publishedDateTime": "2021-07-08T23:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
       ]
     }
   ],

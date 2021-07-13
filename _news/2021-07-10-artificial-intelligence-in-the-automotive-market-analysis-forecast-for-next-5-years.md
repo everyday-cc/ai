@@ -219,13 +219,13 @@ related:
         height: 225
         isCached: true
   - title: "Artificial Intelligence in Agriculture Market Size - Detailed Analysis of Current Industry Figures with Forecasts Growth By 2025"
-    excerpt: "Market Study Report LLC adds new research on Artificial Intelligence in Agriculture market, which is a detailed analysis of this business space inclusive of the trends, competitive landscape, and the market size. Encompassing one or more parameters among ..."
-    publishedDateTime: 2021-07-13T11:46:00Z
-    webUrl: "https://www.reseller.co.nz/mediareleases/144374/artificial-intelligence-in-agriculture-market/"
+    excerpt: "Global Artificial Intelligence in Agriculture Market industry valued approximately USD 432.2 million in 2016 is anticipated to grow with a healthy growth rate of more than 22.5% over the forecast period 2017-2025."
+    publishedDateTime: 2021-07-13T10:44:00Z
+    webUrl: "https://www.arnnet.com.au/mediareleases/144374/artificial-intelligence-in-agriculture-market/"
     type: article
     provider:
-      name: Reseller News
-      domain: reseller.co.nz
+      name: ARN
+      domain: arnnet.com.au
     quality: 5
 
 secured: "sCUBxLw62IEuDb1JPmxg5pK04RbVt/XxnWBBoffoM7sTEvX8hfif3o8W3ShMmhLjFtT9o9FIk2UEsn5S768Gf8z97crfkqpTaSMviVeCemo8Nh9wSGAN6s6t8YICpFWrMSiRW5hCphwoeJ3qXaa1YvVi+zBTYrnoVGG7nUrPo5cusFMV+brtapzdm4oRSGKiGDS6+PBrfeDpnpHZyqFR8hjK3vr2o7KN4HYrSGgfEQ1vPPCZz+nXe6F4C0esrnrUYxKDnbyF6st765hD4Sqc+TPMAXUtHszSktxzwsPJu1r7w5j41/ufbRQtOxxOF7V9ptmTfNABMM9dp/KEybgPbpVodBFo0Z5+7O3ka/k+ZqkmhdTMUlRbhvCl7BFztbvW2GIWx/3vmjqSwzN/xWDwD9MrqII5K5Zr3OvDahZUZWMiDZ2o1h/CkwTfsDYSY1qtzLUrDMsgZSAhVIcFV1l+PCfzk8c4sSO2LFp72W73XXVtTVIdX1CI7dERgUKCu1oBGQD7DgGhZz0oVN6f+HySLw==;DENQmd1AXTmOJmJlEJ3dTg=="

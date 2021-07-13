@@ -43,6 +43,20 @@ related:
         width: 640
         height: 355
         isCached: true
+  - title: "Defect detection and classification in manufacturing using Amazon Lookout for Vision and Amazon Rekognition Custom Labels"
+    excerpt: "Defect detection during manufacturing processes is a vital step to ensure product quality. The timely detection of faults or defects and taking appropriate actions are essential to reduce operational and quality-related costs. According to Aberdeen’s research, “Many organizations will have true quality-related"
+    publishedDateTime: 2021-07-13T16:01:33Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/defect-detection-and-classification-in-manufacturing-using-amazon-lookout-for-vision-and-amazon-rekognition-custom-labels/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 81
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/07/02/ml3795-image013.jpg"
+        width: 2019
+        height: 699
+        isCached: true
   - title: "COVID-19: Facial recognition tech fights coronavirus in Chinese city"
     excerpt: "BEIJING: Facial recognition tech linked to personal health codes has been rolled out in a Chinese city bordering Myanmar as authorities seek to squash a coronavirus outbreak. China is one of the world’s most surveilled countries,"
     publishedDateTime: 2021-07-13T10:01:00Z
@@ -90,6 +104,6 @@ related:
         height: 800
         isCached: true
 
-secured: "s97KvD8QaCSExxq2Kbh046IEiFtjk6rV3nEqDUtXo/ReDK2zRFVJF+U42g790E6qoPa4Mp51RBj9EN5FDDYtlUzQb6KDeBmlxdTEI5R3JjEoGfFhQ394vWGObawLUfG8SbeV02Kl4HQgAYe1Dqc7hNMQWz4Vp5Ds+Qzyhnq1XC6jN0KMn5JwNNgB8xcCuC+plYdcYDAoTvHYocURCFS/d1iWph3RdgLto1AxnP9dLdYY/ULTFchx3amgIlwk5bs1onSxUAEKeYWWj9qUqYVJvVNE8gMlA8HDwR2idsa6ldEDUbd9Go+vjQD7zJoaKmc7JWQiViKflwo0IyKpdJBifStZz5/PnLV3AZVNpllE7jA=;TEf1VWEtntOBqSy0nRp4ZQ=="
+secured: "4+FplWEA5j5ZL6ChIT6sAOIozR74JPo4Iz14zyp5JeTRi7ugovOk7h+8AtX2cqpecpbr/m5MzDfQ19jvvrVhYWKwxhyCNorm/yZfRCpUHM44FjxY+K7T8s9g4cyN8xdcTQxc8gwWF9HgHDznAIgr/I9JVE/S5w9IAhLvFPpbCsh1j+jHz2WhSFJ9kcd/DGMPNcXgtOCYt88jgdVfTeetMa+8IKeW/ZFp4abcRafEnBfpMH5WkvkTP5coBz/2rJnGFvzjSy8hw5P2Hg6BxR619dT0PpMQhkpPbFPqtJYSkmJ31dSw6BkTaeQm/32C2eUM2QmCz9FHzknwnWCyeFFyfELnSsLzhwFBvaCSh2MF0cqhJGJDudtjL0G/SBSeu73AlrmlIcD1LZpxJe4EjUySDfAUXuaGWTVl4Shz1ekxhRqbpiLtVwYCBaZowCawfgmLOp852bZNFMzf/U2x7bQ4dfPoy8SCFq//YRW/nAfrwMVz0zcz4pq5ApsgZJyz+szzH87Fc4EhU/ZW93pD8wbDCA==;CM56QaFqoda5WteeiYv8mg=="
 ---
 

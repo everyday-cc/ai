@@ -9,7 +9,7 @@ ampWebUrl: "https://www.theverge.com/platform/amp/2021/7/13/22573753/covid-data-
 cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2021/7/13/22573753/covid-data-health-records-machine-learning-disease"
 type: article
 quality: 82
-heat: 92
+heat: 93
 published: true
 
 provider:
@@ -41,6 +41,6 @@ related:
       domain: europepmc.org
     quality: 5
 
-secured: "7Bwy07HoF07yNHrBaxeu//BkxDeT1EfM+3DnsUeoXPVn0+1fVWsTju8n9L8R0hHpK1kCbLXN1T2ShTS9d+W8KhtZvWUcKogUA+4aWsWosWjwiqE7bUvGz9L8zIJZqgpZFasjVm9bLFJ6Gw4rQTgGiA4LWTAgFSI1FQlcAVB+0DW3XpRo1YDpQZXog+vxxcKY/o5CQBxLOE79FyRt5se/YZ1oBVq2zSI950idunVoTvBAx43CAm+rLiToyTTZzarM3VugyQDA2JiYTgKZx9V19i4z5R5tw3UG1YwnqefWTH4t+aJ+g0d1+Ya0JD+J/3+yYXbB1f3UW4LcZd0pfKOkcJg9YqH4LP8skDwTKk2gFL4=;ykqZk9ekA5kAMrAWnJmabw=="
+secured: "dODSOkmCbr6xBjemBL3TPhmMsrFEjOy9htS5tPBwLUPOeeoxWoSZIoYVG8uK1xaD+KL7OFPkqQbrjKUdkQGpfCQWLdEnbihXJptNZcOBnUx+F9/3E7N1sK4SUsURQAZjwwxE6J9ZL6E3gvmqfwh6h+UvZl12NoNAdEFzkw0oC6sjv7zV1lNDT1FwnLSBMLujxfXcbR8TIbaJnQ79lZ2wVv3kob+R9TU5XdmQ5FYUDg2R5fPC0hDzAXWmLOohzS7PnfuR8WYxu17Nh67SXJB82oRr6oGgS/LYOovYLTdxt/ekFcyIY/nFaMbyUUrx+F9L5KHCH1RKgp1U1bQ+/RMUlEb4wQ8Q8c2UNUpruxU3U4Orgt3iH+hn3Jg8yIi/+/EGnmhaC73Go4/hmlu9N+a0TByvLLPojrZRN1vsFyFc1F4G40X+18eMlqGCkWAmqTDXg5DJJskPAmifqC2oS3zyBV8RrKlByitimZPdrV4Wa5iJmV5K6fLRXHvldXPV90ck7LY3gjXUsqFzRxgVainSHw==;lN5oucWb5newGLLb++bXNw=="
 ---
 

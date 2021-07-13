@@ -1,22 +1,22 @@
 ---
 category: news
 title: "Artificial Intelligence in Agriculture Market Size - Detailed Analysis of Current Industry Figures with Forecasts Growth By 2025"
-excerpt: "Market Study Report LLC adds new research on Artificial Intelligence in Agriculture market, which is a detailed analysis of this business space inclusive of the trends, competitive landscape, and the market size. Encompassing one or more parameters among ..."
-publishedDateTime: 2021-07-13T11:46:00Z
-originalUrl: "https://www.reseller.co.nz/mediareleases/144374/artificial-intelligence-in-agriculture-market/"
-webUrl: "https://www.reseller.co.nz/mediareleases/144374/artificial-intelligence-in-agriculture-market/"
+excerpt: "Global Artificial Intelligence in Agriculture Market industry valued approximately USD 432.2 million in 2016 is anticipated to grow with a healthy growth rate of more than 22.5% over the forecast period 2017-2025."
+publishedDateTime: 2021-07-13T10:44:00Z
+originalUrl: "https://www.arnnet.com.au/mediareleases/144374/artificial-intelligence-in-agriculture-market/"
+webUrl: "https://www.arnnet.com.au/mediareleases/144374/artificial-intelligence-in-agriculture-market/"
 type: article
 quality: 5
 heat: -1
 published: false
 
 provider:
-  name: Reseller News
-  domain: reseller.co.nz
+  name: ARN
+  domain: arnnet.com.au
 
 topics:
-  - AI
   - AI in Robotics
+  - AI
 
 related:
   - title: "Artificial Intelligence (AI) in Retail Market – Industry Growth Analysis & Forecast By 2027"
@@ -228,6 +228,6 @@ related:
         height: 225
         isCached: true
 
-secured: "i3yXEFdI8keH4nKes70c4uq5KenlsZ6rC+0tqKd/5v/WghhJBOrnz8ZmmuBPsJhdxBcW1tc/v72QjMmv7lDbNjvGsm+v2ji4rTYjo5xBqO3jhLISJFFa3CHyA+S23crA0KSUqOFyL1hUwTfjRQtJ571gTJurAEyPtZIAL9zMyPQnXaQJlm7DlFx3r3y4DLk71eAhpJGVbg46uH9a8jjtXVMm4m/CcyFXy+LkRH56MvCykn1eWmPCvH2P8Z7Or8j8agGIMDQupPO/w0efT7UB7zuaIrKHbfGfPUegTKx7L4MfpiBTyewYLyd9Vdz8zZrqlxfGu+azvwz2AbKNWhRnDWXlNjx1bUhx0769q1XbRKM=;UM0Ha0DWrWZAwenyq2WtVQ=="
+secured: "ScP3JHoxWagc71yi57tReUU8KLyddldK4jogYGMpVXlvYWN1DX8a/WAiXIvUjVtelMFjrmTbZ1Jm6NFUssecV4xqtCzOCkC61v6zoamwZjuQsmm14FobGIExpheu2ems9eHE8ug/VQjAHJczlt6VZY9UfoZJuVWqZx1dxDlBa65QBHAii/L3WQ4/CN/iBo3QGoYDPHuXAaBTXP1+lhI39prnqlrUZBoc6SEx0x9IY+txix3fPMzyZ8OYemcP37vRapnkGrogFGziWS1vCu4zpys9ZN4fuRScSih9xjZY1az1k6X1OcdZMSnwZznZ78hh4QqP/kDmIYlwi0sWH2c3amSLJzvYY5srkPBLfDqQ9VE=;41hNaNza2lqYIV77sTGN6g=="
 ---
 

@@ -86,6 +86,15 @@ related:
         width: 720
         height: 360
         isCached: true
+  - title: "ZoomInfo buys San Francisco AI company for $575M"
+    excerpt: "The deal is a major milestone for ZoomInfo and will significantly broaden the company’s sales platform, said CEO Henry Schuck."
+    publishedDateTime: 2021-07-13T17:33:00Z
+    webUrl: "https://www.bizjournals.com/portland/news/2021/07/13/zoominfo-buys-sf-company-for-575m.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 17
 
 secured: "/iaYTpHqhytfPLWISbqWYgqdXtB1D4xNQ7M5+F32dgkw3+nuq9ezTklsV1vKygp22yftLKO3LBXv9m8tO/br9yT1wE4U9y2XVYaR2RH7fRYr3sZtrkCzcUVYr1eVx6urbx6J0afhYlKt3xzPH9rsCerTuEe103pNKukyicjrGAY6gjF9ycWrXXz77hhyRxRlOxcBV9/XUMx4XuuXjYzapRPxAjPhZC04tH6z28SyEuZS8JxV1sSuE3RZgtuoT/CnKp47RgY/IUT5moUpDuifeZzkCgTC7RVlz2fFxLPXvz/OsOn2aZnM/lPoysJO/ljI1r+tC7EjaaeVm6knL9ooK/eEsTNGGZshvd43rwH6vb14Ap/ZjaHPf67wcSYRe6FlM/8431yFPz01kmjmG8Qxye0rm8boHW83Ck4qBMGu9xuJFsIFYGWYHqxZi8Uopl9iIF3DY+0GcIzIWADbB0xWz09HUmKY8TybrN4X1jQErwf7ijZ8mHduVmDyhQ0O7bFsdbrwp3slZotOfJO9Rab7ng==;3g/poDCX5wQZqc6sDLHMTQ=="
 ---

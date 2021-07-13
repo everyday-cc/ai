@@ -220,15 +220,15 @@ related:
         height: 225
         isCached: true
   - title: "Artificial Intelligence in Agriculture Market Size - Detailed Analysis of Current Industry Figures with Forecasts Growth By 2025"
-    excerpt: "Market Study Report LLC adds new research on Artificial Intelligence in Agriculture market, which is a detailed analysis of this business space inclusive of the trends, competitive landscape, and the market size. Encompassing one or more parameters among ..."
-    publishedDateTime: 2021-07-13T11:46:00Z
-    webUrl: "https://www.reseller.co.nz/mediareleases/144374/artificial-intelligence-in-agriculture-market/"
+    excerpt: "Global Artificial Intelligence in Agriculture Market industry valued approximately USD 432.2 million in 2016 is anticipated to grow with a healthy growth rate of more than 22.5% over the forecast period 2017-2025."
+    publishedDateTime: 2021-07-13T10:44:00Z
+    webUrl: "https://www.arnnet.com.au/mediareleases/144374/artificial-intelligence-in-agriculture-market/"
     type: article
     provider:
-      name: Reseller News
-      domain: reseller.co.nz
+      name: ARN
+      domain: arnnet.com.au
     quality: 5
 
-secured: "RJ0qkpfxMre4/dXk2o9e21A9WkeqbzS7cSGMmCRfXcww7GGkBy7ljQVh8HSIHs2RI+yZ3HGKLv1mRLbJu0JU+pjAwNQxa6dBec71wcHyZ5+OA7I3htBGR/5KA+a7EmGItuvxsTEEPKD8Nm5EwFWj76EqIEtHi38jBC2TBOwLd1B/oBKh5jB22MIriZxqUN2AKD+brMgptRqDWdXUEMjMK/lXG9ZxzEdLY+XAXDxvT1WY2+DErz7kfztr2tT5eygPfrdRg+bmG8ipuWyIt7GCYGiV1T9N5aYuR3t6S2vEJTAQvHvBGZzCh1UAA0fyraT9+d9nD9rNbr9RKixugul+SXLUk1CHV9Wt5DDrSu2HS2I=;P5YuKV8ge0cYFaHwSr6IRg=="
+secured: "wvMMSkjNQ7EUGLSUKVybmhIDtq8MSUGYP/40imyRiulclYAvG9C/Q6m/1s4v0TwHFbh+qLaAUaWLt1JWrPer54vU+t7cl4kMwfZn3WQBcM2MjHVb/JPHiM8Pg5UwJpBmNXGa85YFg8ZGjelVfpGwLa+1Sq76m1QwFzTtB7iFm9w48KdHih5s5ElcIBNqbeaoNW3+mdHTpKYRv2nZcX3XiDy9dxgCkfwkGoVg5tNnN2THz67RB+xArJVq18FChr3JOixWQrziNZNObe1tQ2Aui3I6nJrwSZqVv6Z9pPxyZveTCsbIWFKX4hpjKTRO+xkMGzBs6NWpNp+w8AiAr7RHzGbXGoV/tJTV5ZS2h6iLadmUFFtSG1ci/6vJ246PLOvsq1dDNDIAdgyy3P5reBRshpoYriTK9tmXsfQIoouXL9AbTQkDNMsq2rD7hNoxtoyxeHv/v1TWqLMc+sGe8xHjjuG7+QsoEiMPhZ5KDU2dDB3ST6ChZVwuzhsGtsZrd/JF5VNtVQlCTeI3/x2tL5VbUA==;isqqB65rpZx7Al6Zsrcf+w=="
 ---
 

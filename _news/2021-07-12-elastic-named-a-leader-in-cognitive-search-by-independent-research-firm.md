@@ -19,6 +19,22 @@ topics:
   - AI
 
 related:
+  - title: "Elastic Named a Leader in Cognitive Search by Independent Research Firm"
+    excerpt: "Company Achieves the Highest Score in the Strategy Category Among All Vendors MOUNTAIN VIEW, Calif.--(BUSINESS WIRE)--Elastic (NYSE: ESTC) (“Elastic”),"
+    publishedDateTime: 2021-07-12T23:28:00Z
+    webUrl: "https://www.01net.it/elastic-named-a-leader-in-cognitive-search-by-independent-research-firm/"
+    ampWebUrl: "https://www.01net.it/elastic-named-a-leader-in-cognitive-search-by-independent-research-firm/amp/"
+    cdnAmpWebUrl: "https://www-01net-it.cdn.ampproject.org/c/s/www.01net.it/elastic-named-a-leader-in-cognitive-search-by-independent-research-firm/amp/"
+    type: article
+    provider:
+      name: 01Net
+      domain: 01net.it
+    quality: 44
+    images:
+      - url: "https://www.01net.it/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png"
+        width: 735
+        height: 552
+        isCached: true
   - title: "Sinequa Named a Leader in 2021 Analyst Report for Cognitive Search"
     excerpt: "According to report, “Sinequa makes search strategic” NEW YORK & PARIS--(BUSINESS WIRE)--#analyst--Intelligent search provider Sinequa announced today"
     publishedDateTime: 2021-07-13T02:38:00Z

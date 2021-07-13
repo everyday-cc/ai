@@ -30,14 +30,14 @@ related:
   - title: "Scale AI’s Rapid Growth Reflects Widening Demand for Smart Software"
     excerpt: "A surge in corporate demand for artificial intelligence is driving growth for startups that help companies prepare data for software tools designed to glean business insights like gauging demand or spotting supply chain inefficiencies."
     publishedDateTime: 2021-07-12T08:30:00Z
-    webUrl: "https://www.wsj.com/articles/scale-ais-rapid-growth-reflects-widening-demand-for-smart-software-11626082201?mod=latest_headlines"
+    webUrl: "https://www.wsj.com/articles/scale-ais-rapid-growth-reflects-widening-demand-for-smart-software-11626082201"
     ampWebUrl: "https://www.wsj.com/amp/articles/scale-ais-rapid-growth-reflects-widening-demand-for-smart-software-11626082201"
     cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/scale-ais-rapid-growth-reflects-widening-demand-for-smart-software-11626082201"
     type: article
     provider:
       name: Wall Street Journal
       domain: wsj.com
-    quality: 87
+    quality: 89
     images:
       - url: "https://images.wsj.net/im-366229/social"
         width: 1279

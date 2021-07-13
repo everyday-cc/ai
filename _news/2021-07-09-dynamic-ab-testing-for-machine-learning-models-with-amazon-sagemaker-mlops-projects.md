@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/dynamic-a-b-testing-
 webUrl: "https://aws.amazon.com/blogs/machine-learning/dynamic-a-b-testing-for-machine-learning-models-with-amazon-sagemaker-mlops-projects/"
 type: article
 quality: 114
-heat: 124
+heat: 134
 published: true
 
 provider:
@@ -43,6 +43,20 @@ related:
       - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/06/30/ML1688-image003.png"
         width: 831
         height: 568
+        isCached: true
+  - title: "Automate a centralized deployment of Amazon SageMaker Studio with AWS Service Catalog"
+    excerpt: "This post outlines the best practices for provisioning Amazon SageMaker Studio for data science teams and provides reference architectures and AWS CloudFormation templates to help you get started. We use AWS Service Catalog to provision a Studio domain and users. The AWS Service Catalog allows you to"
+    publishedDateTime: 2021-07-13T16:15:11Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/automate-a-centralized-deployment-of-amazon-sagemaker-studio-with-aws-service-catalog/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 97
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/06/30/ML3314-image01.jpg"
+        width: 800
+        height: 450
         isCached: true
 
 secured: "Xt4frbtPvO8AQwQOMsrCyaKOaN6plOQw3kNUnVoZtvhBkWVgc35/NcD9Lw+M9WPg8hWfZdwbVKFeMj+MIhlWl7713DeCbzeAzKJVm7yVyt1TC0+uH6TAHLqsNXhn86fNWimomPmWM1m3ZXPw10Y+xhIwM0r/bYvp19VYRoaQ8JpSsZReg3DB3LuWAAQ1fWzvX/B4sDgt4qNornKXcatN5IYpanduBmgjPiCeLV0Yq2lM6hVz71rQlYZGvc4nCyUdM/Dzs+IfS3CscuMxXuSQAek/rpxsowQm8Wp/89UJBtHnWW4GNzhSEVJ3wlcsyH9cP2ajbJ0r8tb0c+Uclq2hJ8QSJaZm7V9T9nyEWsrNy8E=;lw9hnUqd9CTgMtLORIFiVw=="

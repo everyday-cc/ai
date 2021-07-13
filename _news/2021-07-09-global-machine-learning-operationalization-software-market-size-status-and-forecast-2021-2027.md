@@ -35,15 +35,6 @@ related:
         width: 692
         height: 428
         isCached: true
-  - title: "NNSA leads national collaboration to drive next-generation in AI for nonproliferation"
-    excerpt: "Within NNSA, the Office of Defense Nuclear Nonproliferation Research and Development (DNN R&D) is spearheading collaborative efforts to drive advances in the science of artificial intelligence (AI), and accelerate the adoption of AI-enabled technologies to solve difficult and pressing nuclear nonproliferation and national security challenges."
-    publishedDateTime: 2021-07-09T00:00:00Z
-    webUrl: "https://www.energy.gov/nnsa/articles/nnsa-leads-national-collaboration-drive-next-generation-ai-nonproliferation"
-    type: article
-    provider:
-      name: Energy Department
-      domain: energy.gov
-    quality: 10
 
 secured: "90Yk8kRg3eN6frS4aCUzjdrOU0BEN3+ITv6c13pux9NYtz+dMtXeMsvCvwUX6TvBglQXhKiYZAXDzjtrQ0QmbDInecbDVMV1bkzsrQDqbYaRDD9Ud/esCHih8TfnV1Xhyzyf56P0hPZao+zPN1NXhqgi7sJWWAV1ALgeqcqdUKkV/pgapUAduPGjTzBcXAssqrshgR1C2ir6IwyTloUihTFuMuK6YQPCOnnskYnBDsu2AIwgYfChlGNMS3QbBVhrQi6qeoZC1wWwkmHnvCYcw37PhWrqxfSH2K/8lzwegzzOQ1IDKe5bwBrQuhSWzJruF4eqtu5nhMEwBuFtvl1pxkZ4633WwVK+UCmSwp4jAHc=;PQrHFtsrKoSppqs+QEO6Zw=="
 ---

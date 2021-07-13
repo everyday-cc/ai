@@ -2,6 +2,49 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-06-09-blue-prisms-contact-center-offering-integrated-into-aws.md",
+      "title": "Blue Prism's Contact Center Offering Integrated into AWS",
+      "excerpt": "When Blue Prism announced its new Service Assist solution in October of 2020, the company stated that it new offering would automate next-generation contact Centers with an artificial intelligence-powered digital workforce that it hoped would transform the customer experience.",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/channels/call-center-scheduling/articles/449175-blue-prisms-contact-center-offering-integrated-into-aws.htm",
+      "originalUrl": "https://www.tmcnet.com/channels/call-center-scheduling/articles/449175-blue-prisms-contact-center-offering-integrated-into-aws.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.tmcnet.com/tmc/misc/articles/image/2021-jun/9280523731-AdobeStock_cloud_contact_center_female_agent_SUPERSIZE.jpg",
+          "width": 1000,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-08T12:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-09-snowflake-announces-new-features-to-bring-together-the-worlds-data-in-the-data-cloud.md",
       "title": "Snowflake Announces New Features to Bring Together the World’s Data in the Data Cloud",
       "excerpt": "Snowflake (NYSE: SNOW), the Data Cloud company, today unveiled its latest product innovations that redefine what’s possible in the Data Cloud. At its",
@@ -1307,58 +1350,6 @@
       "topics": [
         "AWS AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-02-interact-with-an-amazon-lex-v2-bot-with-the-aws-cli-aws-sdk-for-python-boto3-and-aws-sdk-for-dotnet.md",
-      "title": "Interact with an Amazon Lex V2 bot with the AWS CLI, AWS SDK for Python (Boto3), and AWS SDK for DotNet",
-      "excerpt": "Amazon Lex is a service for building conversational interfaces into any application. The new Amazon Lex V2 console and APIs make it easier to build, deploy, and manage bots. The Amazon Lex V2 console and APIs provide a simple information architecture in which the bot intents and slot types are scoped",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/interact-with-an-amazon-lex2v2-bot-with-the-aws-cli-aws-sdk-for-python-and-aws-sdk-dotnet/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/interact-with-an-amazon-lex2v2-bot-with-the-aws-cli-aws-sdk-for-python-and-aws-sdk-dotnet/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/05/25/1-2920-Chat.jpg",
-          "width": 700,
-          "height": 394,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-02T13:32:18-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
       ]
     }
   ],

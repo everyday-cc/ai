@@ -24,20 +24,61 @@ images:
     isCached: true
 
 related:
-  - title: "Magic Data Tech announced Launch of Annotator® 5.0, An AI-Assisted Data Annotation Platform"
-    excerpt: "Annotator® 5.0, an independently developed data annotation system, was official launched by Magic Data Tech on July 8, 2021 on World Artificial Intelligence Conference (WAIC) 2021, which is a global gathering and exchange of AI innovation ideas,"
-    publishedDateTime: 2021-07-09T02:55:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/magic-data-tech-announced-launch-of-annotator-5-0-an-ai-assisted-data-annotation-platform-1030591711"
+  - title: "Nordstrom CTO on AI-powered analytics and consumer insights"
+    excerpt: "Reflecting on the start of this project ... is key to the platform architecture process. With more than 100 AI models leveraged daily at Nordstrom, an end user will indirectly see the benefit ..."
+    publishedDateTime: 2021-07-13T17:42:00Z
+    webUrl: "https://venturebeat.com/2021/07/13/nordstrom-cto-on-ai-powered-analytics-and-consumer-insights/"
+    ampWebUrl: "https://venturebeat.com/2021/07/13/nordstrom-cto-on-ai-powered-analytics-and-consumer-insights/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/13/nordstrom-cto-on-ai-powered-analytics-and-consumer-insights/amp/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 57
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
     images:
-      - url: "https://mma.prnewswire.com/media/1560297/image.jpg"
-        width: 400
-        height: 267
+      - url: "https://venturebeat.com/wp-content/uploads/2014/09/nordstrom-mike-kalasnik-flickr.jpg?w=1200&strip=all"
+        width: 1200
+        height: 900
         isCached: true
+  - title: "Text Analytics Market Top Vendors Analysis, Market Challenges and Geographical Analysis"
+    excerpt: "As per Global Market Insights, Inc. estimates, the global text analytics market size is expected to cross $20 billion by 2027. The global text analytics market share is slated to expand at an appreciable rate over the foreseeable future,"
+    publishedDateTime: 2021-07-09T12:07:00Z
+    webUrl: "https://www.marketwatch.com/press-release/text-analytics-market-top-vendors-analysis-market-challenges-and-geographical-analysis-2021-07-09"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 46
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "London data analytics firm raises $153m to accelerate expansion of AI tech"
+    excerpt: "A London data analytics firm has announced that it has achieved a $153m funding round as it aims to boost… | London | International | Technology | Technology | Investment | USA |"
+    publishedDateTime: 2021-07-13T11:23:00Z
+    webUrl: "https://bdaily.co.uk/articles/2021/07/13/london-data-analytics-firm-raises-153m-to-accelerate-expansion-of-ai-tech"
+    type: article
+    provider:
+      name: Bdaily Business Network
+      domain: bdaily.co.uk
+    quality: 37
+    images:
+      - url: "https://bdaily.co.uk/images/uploads/3LwTUeSRYaaGnI55LKckzQrbk1yp8aZiwCku0Brx.jpeg?w=940&h=430&fit=crop-48-58&s=b5f440fac7c57fca5ce1fe9103ab5ea0"
+        width: 940
+        height: 430
+        isCached: true
+  - title: "Scry Analytics Announces Its New Research and Development Center in Hyderabad, India"
+    excerpt: "Scry Analytics (\"Scry\") announced its new Research and Development (R&D) Center in Hyderabad, India that will begin operations by August 1, 2021. This will be the second"
+    publishedDateTime: 2021-07-09T07:00:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/21/07/p21910313/scry-analytics-announces-its-new-research-and-development-center-in-hyderabad-india"
+    ampWebUrl: "https://www.benzinga.com/amp/content/21910313"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/21910313"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 17
 
 secured: "ILRUo4n0hgPPGrqayk3j+ADZsl4CsvhjqJIoT+WQFiPHZa/MYDrgZHhl0os3mj6BPoRnhrxiZ+m0g8+6YK+BpI3NF7g5wdUV36pqvbWS6t2bdxC7dd+R/pInnqfWZMk4eGya+zqskgvp4iUYhsHWiRCSP09HwilbeoQxso3gSlxISELNx7m05tkkbuULKoEYh7exEFMXOpKeBg44GqiZBuvPjDWvqeRGLgErd0zTgH//z2jZm3UeB++ayz6ddx2hi5rXXvQtLVU4+dNL6JZEbzNx/PvKK1OGwbusxJHGxYJzmw8fKG+yt2Chrp4ywhLTYeru2YqVUyfMcYxjVfsifFw8mfBtiOn02I7kgiO2+9JGXBBzfsc7jAbhlRCzY3zTt3fWWl91D77W9mnm8NQCzv/pnNFIrow8VTj/PRpEnX+Df4QBvEsNWLTY/NrA3SOn7Vpm+aLS1ITU9Jduv/WxmhDN273uy7X7KDUUa+ZE2Kd6SYs4luCblcGTV3tN3+iOOSdiKA/1hDZcAm8CLVcMag==;EHEpPoh62+fbrxptMJRrrA=="
 ---

@@ -2,6 +2,290 @@
   "page": 72,
   "value": [
     {
+      "path": "_news/2021-05-20-jim-kellers-tenstorrent-secures-200-million-in-new-funding-looks-to-surpass-nvidias-ai.md",
+      "title": "Jim Keller's Tenstorrent secures $200 million in new funding, looks to surpass Nvidia's AI",
+      "excerpt": "Tenstorrent is currently working on the Grayskull AI processor, which has already been sampling with select early customers. The Grayskull architecture uses proprietary Tensix cores, with",
+      "sourceUrl": null,
+      "webUrl": "https://www.techspot.com/news/89763-jim-keller-tenstorrent-secures-200-million-new-funding.html",
+      "originalUrl": "https://www.techspot.com/news/89763-jim-keller-tenstorrent-secures-200-million-new-funding.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.techspot.com/images2/news/bigimage/2021/05/2021-05-20-image-16.jpg",
+          "width": 2560,
+          "height": 1707,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techspot.com/amp/news/89763-jim-keller-tenstorrent-secures-200-million-new-funding.html",
+      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/89763-jim-keller-tenstorrent-secures-200-million-new-funding.html",
+      "publishedDateTime": "2021-05-20T09:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechSpot",
+        "domain": "techspot.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-20-geospatial-startup-unfoldedai-acquired-by-foursquare.md",
+      "title": "Geospatial startup Unfolded.ai acquired by Foursquare",
+      "excerpt": "Well, that was fast. Just a few months after raising its seed round, Unfolded.ai announced today that it is being acquired by Foursquare. Terms of the deal were not disclosed. The startup had raised a total of about $6 million when we last checked in with them.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/05/20/geospatial-startup-unfolded-ai-acquired-by-foursquare/",
+      "originalUrl": "https://techcrunch.com/2021/05/20/geospatial-startup-unfolded-ai-acquired-by-foursquare/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/05/GaryLittle.jpg?w=600",
+          "width": 600,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/05/20/geospatial-startup-unfolded-ai-acquired-by-foursquare/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/05/20/geospatial-startup-unfolded-ai-acquired-by-foursquare/amp/",
+      "publishedDateTime": "2021-05-20T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-20-11-ways-were-innovating-with-ai.md",
+      "title": "11 ways we're innovating with AI",
+      "excerpt": "AI is integral to so much of the work we do at Google. Fundamental advances in computing are helping us confront some of the greatest challenges of this century, like climate change. Meanwhile, AI is also powering updates across our products, including Search, Maps and Photos — demonstrating how machine",
+      "sourceUrl": null,
+      "webUrl": "https://blog.google/technology/ai/innovating-with-ai/",
+      "originalUrl": "https://blog.google/technology/ai/innovating-with-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 149,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/IO_2021_heroes_3.max-1300x1300.jpg",
+          "width": 1300,
+          "height": 733,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://blog.google/technology/ai/innovating-with-ai/amp/",
+      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/technology/ai/innovating-with-ai/amp/",
+      "publishedDateTime": "2021-05-20T08:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Google",
+        "domain": "blog.google",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-20-deep-learning-enables-dual-screening-for-cancer-and-cardiovascular-disease.md",
+      "title": "Deep learning enables dual screening for cancer and cardiovascular disease",
+      "excerpt": "Heart disease and cancer are the leading causes of death in the United States, and it's increasingly understood that they share common risk factors, including tobacco use, diet, blood pressure, and obesity.",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/news/2021-05-deep-enables-dual-screening-cancer.html",
+      "originalUrl": "https://medicalxpress.com/news/2021-05-deep-enables-dual-screening-cancer.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2021/deep-learning-enables.jpg",
+          "width": 800,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://medicalxpress.com/news/2021-05-deep-enables-dual-screening-cancer.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-05-deep-enables-dual-screening-cancer.amp",
+      "publishedDateTime": "2021-05-20T08:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-20-slicing-up-pizza-robots.md",
+      "title": "Slicing up pizza robots",
+      "excerpt": "So, true story. Over the weekend I was talking to someone about restaurant robotics. It’s a concept people often have trouble visualizing — and understandably so. Among other things, there’s really no commonly accepted form factor in a category that sometimes is literally a robot arm",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/05/20/robotics-roundup-12/",
+      "originalUrl": "https://techcrunch.com/2021/05/20/robotics-roundup-12/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/Pj1j9cioj_w/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/05/20/robotics-roundup-12/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/05/20/robotics-roundup-12/amp/",
+      "publishedDateTime": "2021-05-20T08:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-20-industrywired-names-top-revolutionary-digital-transformation-companies-in-the-world.md",
+      "title": "IndustryWired Names 'Top Revolutionary Digital Transformation Companies in the World'",
+      "excerpt": "IndustryWired has announced 'Top Revolutionary Digital Transformation Companies in the World' in its May magazine issue. The issue recognizes ten disruptive companies leveraging leading-edge technologies to redefine customer experience,",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/-industrywired-names-top-revolutionary-digital-transformation-companies-the-/2021/05/20/9374601.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-industrywired-names-top-revolutionary-digital-transformation-companies-the-/2021/05/20/9374601.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-20T08:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-20-numenta-demonstrates-100x-performance-acceleration-in-deep-learning-networks-using-sparse-techniques.md",
       "title": "Numenta Demonstrates 100x Performance Acceleration in Deep Learning Networks Using Sparse Techniques",
       "excerpt": "announced it has achieved greater than 100x performance improvements on inference tasks in deep learning network",
@@ -857,274 +1141,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-20-equinix-uses-precision-robotics-in-healthcare-tech-quest.md",
-      "title": "Equinix uses Precision Robotics in healthcare tech quest",
-      "excerpt": "Digital infrastructure firm Equinix has announced that Precision Robotics, a surgical robotics startup from Imperial College London, has deployed an NVIDIA DGX A100 system in Equinix International Business Exchange HK4 in Hong Kong.",
-      "sourceUrl": null,
-      "webUrl": "https://www.theasset.com/article/43680/equinix-uses-precision-robotics-in-healthcare-tech-quest",
-      "originalUrl": "https://www.theasset.com/article/43680/equinix-uses-precision-robotics-in-healthcare-tech-quest",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.theasset.com/storage/Image/2021/May/1621487663robosurg4c.jpg",
-          "width": 2000,
-          "height": 1333,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-20T01:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Asset",
-        "domain": "theasset.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-05-20-artificial-intelligence-market-2021-trending-technologies-distributors-future-growth-and-geographical-regions-2025-says-kenneth-research.md",
-      "title": "Artificial Intelligence Market 2021 Trending Technologies, Distributors, Future Growth and Geographical Regions 2025 | Says Kenneth Research",
-      "excerpt": "Kenneth Research has published a detailed report on Artificial Intelligence Market, which has been categorized by",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-market-2021-trending-technologies-distributors-future-growth-and-geographical-regions-2025-says-kenneth-research-2021-05-20",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-market-2021-trending-technologies-distributors-future-growth-and-geographical-regions-2025-says-kenneth-research-2021-05-20",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-20T00:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-20-artificial-intelligence-in-iot-market-size-and-growth-2021-2027-top-companies-ibm-microsoft-google-ptc-aws-oracle-ge-salesforce.md",
-      "title": "Artificial Intelligence in IoT Market Size and Growth 2021-2027 | Top Companies – IBM, Microsoft, Google, PTC, AWS, Oracle, GE, Salesforce",
-      "excerpt": "Verified market reports recently published a research report on the Artificial Intelligence in IoT Market that provides an in-depth analysis of the key factors that can help well-known companies in the industry formulate appropriate future action plans.",
-      "sourceUrl": null,
-      "webUrl": "https://ksusentinel.com/2021/05/20/artificial-intelligence-in-iot-market-size-and-growth-2021-2027-top-companies-ibm-microsoft-google-ptc-aws-oracle-ge-salesforce/",
-      "originalUrl": "https://ksusentinel.com/2021/05/20/artificial-intelligence-in-iot-market-size-and-growth-2021-2027-top-companies-ibm-microsoft-google-ptc-aws-oracle-ge-salesforce/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-19T23:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Sentinel",
-        "domain": "ksusentinel.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-20-ai-and-data-science-jobs-are-hot-heres-what-employers-want.md",
-      "title": "AI and data science jobs are hot. Here's what employers want",
-      "excerpt": "Up to 10,000 jobs in AI and data science open each month, and the trend is only growing - but candidates often lack the right skills.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/there-are-hundreds-of-thousands-of-jobs-in-ai-those-are-the-skills-you-need-to-get-one/",
-      "originalUrl": "https://www.zdnet.com/article/there-are-hundreds-of-thousands-of-jobs-in-ai-those-are-the-skills-you-need-to-get-one/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/hub/i/2021/05/20/1542e485-4a71-4a41-adb6-6608a5b1f96a/gettyimages-1206260104.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/there-are-hundreds-of-thousands-of-jobs-in-ai-those-are-the-skills-you-need-to-get-one/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/there-are-hundreds-of-thousands-of-jobs-in-ai-those-are-the-skills-you-need-to-get-one/",
-      "publishedDateTime": "2021-05-19T23:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-20-ainnovation-named-a-cool-vendor-in-the-2021-gartner-cool-vendors-in-ai-for-computer-vision-report.md",
-      "title": "AInnovation Named a Cool Vendor in the 2021 Gartner 'Cool Vendors in AI for Computer Vision' Report",
-      "excerpt": "AInnovatoin has been recognized by Gartner as a 2021 Cool Vendor in its \"Cool Vendors in AI for Computer Vision\" report. The Gartner Cool Vendor report is \"designed to highlight interesting, new and innovative vendors,",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/2021/05/20/9373789.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/2021/05/20/9373789.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1514656/AInnovation_Named_a_Gartner_Cool_Vendor.jpg",
-          "width": 400,
-          "height": 301,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-19T23:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-20-how-ai-is-reimagining-the-customer-experience.md",
-      "title": "How AI Is Reimagining the Customer Experience",
-      "excerpt": "Customers know that AI-driven tools exist for personalizing the experience because they encounter the technology everywhere they go online: Amazon, Netflix, Spotify, etc. Fortunately, organizations of all sizes can use AI-driven tools to power their customer experience and compete in the big leagues.",
-      "sourceUrl": null,
-      "webUrl": "https://www.destinationcrm.com/Articles/ReadArticle.aspx?ArticleID=146990",
-      "originalUrl": "https://www.destinationcrm.com/Articles/ReadArticle.aspx?ArticleID=146990",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://dzceab466r34n.cloudfront.net/Images/ArticleImages/119731-viewpoints-digitalhandshake-ORG.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-19T21:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Destination CRM",
-        "domain": "destinationcrm.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
         "AI"
       ]
     }

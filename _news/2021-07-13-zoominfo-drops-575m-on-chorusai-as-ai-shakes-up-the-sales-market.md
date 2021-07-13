@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2021/07/13/zoominfo-drops-575m-on-chorus-ai-a
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/07/13/zoominfo-drops-575m-on-chorus-ai-as-ai-shakes-up-the-sales-market/amp/"
 type: article
 quality: 104
-heat: 144
+heat: 154
 published: true
 
 provider:
@@ -91,7 +91,16 @@ related:
         width: 720
         height: 360
         isCached: true
+  - title: "ZoomInfo buys San Francisco AI company for $575M"
+    excerpt: "The deal is a major milestone for ZoomInfo and will significantly broaden the company’s sales platform, said CEO Henry Schuck."
+    publishedDateTime: 2021-07-13T17:33:00Z
+    webUrl: "https://www.bizjournals.com/portland/news/2021/07/13/zoominfo-buys-sf-company-for-575m.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 17
 
-secured: "7HWLNrgEjt+Xrp1ioudmuH86lL5Sg1EavBSC9AbiYRCx/oA+VIuCtGMnUuiUvHl0moUlbJycAk1e25BePxsQ3ZSp49IYdNLzEpu77Cha8w0XWGKPa9ClOVde5Xb3P7smacGXwZzG1fnsWQ3zGUUyBRdvMeBiEfx0PVYyg0jB4wN5uk/m9MDohzwqZYAWsiGgNQxzENlMR0S0D6HuIxogpppB64936Rwkt4y1rTXL+IeZ8q7yNPKKRexH5LKCYwMBpHCC/7Whq3Gijtt0utJljbB+CIqMIyNLfBu+eiAEGl5n9+r/ypk24PghVlq98QDR9xt72+g7ujKc8WaCTzt632+C30lB8bv6lgLA8J8t4Ac=;eeejAMb/X5sLOv7eJNkCOg=="
+secured: "ouvqgNTITgsEInrOg7rYUsywMx0jhYQgLJ49yhzFmDgcKlkaLGyESuc3+kCSeKVb1Bsd3eG/0mFa1Io7q4Ch61a9mQqpOr7qi9AwYLv0XRwehbh6NhIHbFWYpNBPBF7rc0B9b+ddTgv/reWnKVufoi/XivuBQPeXu4/s9fbKwzAUQJ9/U5MBSmvHdIWx4mW/7d6gGwmS+sv+kfyhndM8gF7FNIdj5Sxk12PIOlRcaU3LCcgNNx0GQp20z+HHKjkXjs6X76oaPaWHHj/Lgz8AQShQ5/iAP1kZA2rS1alniMEWfmmQEze6f9btLMs+nA1lwKWag2wfaTkVqn7BMg4pGeORqXDPcMIqpKFIWNdNPjyzntbmp0SZKQEICXoFhZv84e3xXPaLsBM8n6G1/H+rx1YWQpOXvp355fMbHjiP5V71UdZF8B5PE3z1DhJ9kLHNvktVAslo2qnPaB7kBRXJesCnWvdxdD7AiGL2csILd/qU1IUaZ9kX56iog0zL5CKIeIK0kaENeXnUuOVD/1A6Gg==;ZNAc6yPnU4yfF9X77VAWww=="
 ---
 

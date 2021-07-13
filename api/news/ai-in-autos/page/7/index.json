@@ -2,6 +2,49 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2021-05-19-baidu-inc-bidu-ceo-robin-li-on-q1-2021-results-earnings-call-transcript.md",
+      "title": "Baidu, Inc. (BIDU) CEO Robin Li on Q1 2021 Results - Earnings Call Transcript",
+      "excerpt": "We welcome Yiping to the Baidu family and look forward to his contribution to innovate the smart EV sector. On Apollo Self Driving GAC Group joins Apollo's network of over 10 leading local and ...",
+      "sourceUrl": null,
+      "webUrl": "https://seekingalpha.com/article/4429780-baidu-inc-bidu-ceo-robin-li-on-q1-2021-results-earnings-call-transcript",
+      "originalUrl": "https://seekingalpha.com/article/4429780-baidu-inc-bidu-ceo-robin-li-on-q1-2021-results-earnings-call-transcript",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
+          "width": 1200,
+          "height": 1200,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://seekingalpha.com/amp/article/4429780-baidu-inc-bidu-ceo-robin-li-on-q1-2021-results-earnings-call-transcript",
+      "cdnAmpWebUrl": "https://seekingalpha-com.cdn.ampproject.org/c/s/seekingalpha.com/amp/article/4429780-baidu-inc-bidu-ceo-robin-li-on-q1-2021-results-earnings-call-transcript",
+      "publishedDateTime": "2021-05-18T12:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Seeking Alpha",
+        "domain": "seekingalpha.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-19-california-dmv-probes-tesla-over-self-driving-claims.md",
       "title": "California DMV Probes Tesla Over Self-Driving Claims",
       "excerpt": "The California Department of Motor Vehicles has launched an investigation to decide if Tesla (NASDAQ:TSLA) misleads buyers by offering its vehicles with \"full self-driving capabil",
@@ -1286,58 +1329,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-12-elon-musk-tesla-full-self-driving-v9-is-weeks-away-fsd-subscription-about-a-month.md",
-      "title": "Elon Musk: Tesla Full Self-Driving v9 is weeks away, FSD Subscription about a month",
-      "excerpt": "Elon Musk has updated us on the timelines for Tesla’s Full Self-Driving v9 update, which is apparently just weeks away, and the FSD Subscription, which is coming in “about a month.” Tesla Full Self-Driving beta Tesla is currently testing the “feature complete” version of its Full Self-Driving (FSD) package in beta with a few thousand",
-      "sourceUrl": null,
-      "webUrl": "https://electrek.co/2021/05/12/elon-musk-tesla-full-self-driving-v9-weeks-away-fsd-subscription-timeline/",
-      "originalUrl": "https://electrek.co/2021/05/12/elon-musk-tesla-full-self-driving-v9-weeks-away-fsd-subscription-timeline/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 133,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2019/04/Tesla-new-self-driving-demo-e1555984282698.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://electrek.co/2021/05/12/elon-musk-tesla-full-self-driving-v9-weeks-away-fsd-subscription-timeline/amp/",
-      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/05/12/elon-musk-tesla-full-self-driving-v9-weeks-away-fsd-subscription-timeline/amp/",
-      "publishedDateTime": "2021-05-12T06:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Electrek",
-        "domain": "electrek.co",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

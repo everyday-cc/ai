@@ -41,6 +41,20 @@ related:
         width: 640
         height: 355
         isCached: true
+  - title: "Defect detection and classification in manufacturing using Amazon Lookout for Vision and Amazon Rekognition Custom Labels"
+    excerpt: "Defect detection during manufacturing processes is a vital step to ensure product quality. The timely detection of faults or defects and taking appropriate actions are essential to reduce operational and quality-related costs. According to Aberdeen’s research, “Many organizations will have true quality-related"
+    publishedDateTime: 2021-07-13T16:01:33Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/defect-detection-and-classification-in-manufacturing-using-amazon-lookout-for-vision-and-amazon-rekognition-custom-labels/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 81
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/07/02/ml3795-image013.jpg"
+        width: 2019
+        height: 699
+        isCached: true
   - title: "Chinese City Using Facial Recognition Tech To Fight Coronavirus"
     excerpt: "Facial recognition tech linked to personal health codes has been rolled out in a Chinese city bordering Myanmar as authorities seek to squash a coronavirus outbreak."
     publishedDateTime: 2021-07-13T14:11:00Z

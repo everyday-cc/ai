@@ -2,6 +2,300 @@
   "page": 45,
   "value": [
     {
+      "path": "_news/2021-06-09-element-adds-aws-integration-for-industrial-sensor-data.md",
+      "title": "Element adds AWS integration for industrial sensor data",
+      "excerpt": "Element is launching an API integration between its Element Unify software and AWS IoT SiteWise to contextualize industrial sensor data.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/06/08/element-integrates-aws-to-contextualize-industrial-sensor-data/",
+      "originalUrl": "https://venturebeat.com/2021/06/08/element-integrates-aws-to-contextualize-industrial-sensor-data/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/02/GettyImages-1212287865.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/06/08/element-integrates-aws-to-contextualize-industrial-sensor-data/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/08/element-integrates-aws-to-contextualize-industrial-sensor-data/amp/",
+      "publishedDateTime": "2021-06-08T15:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-09-ai-powered-transcription-startup-verbit-raises-157m.md",
+      "title": "AI-powered transcription startup Verbit raises $157M",
+      "excerpt": "Verbit, a startup offering AI-powered transcription services, has raised $157 million in venture capital at an over $1 billion valuation.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/06/08/ai-powered-transcription-startup-verbit-raises-157m/",
+      "originalUrl": "https://venturebeat.com/2021/06/08/ai-powered-transcription-startup-verbit-raises-157m/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/01/VERBIT-TEAM-e1578858528453.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/06/08/ai-powered-transcription-startup-verbit-raises-157m/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/08/ai-powered-transcription-startup-verbit-raises-157m/amp/",
+      "publishedDateTime": "2021-06-08T14:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-09-blue-prisms-contact-center-offering-integrated-into-aws.md",
+      "title": "Blue Prism's Contact Center Offering Integrated into AWS",
+      "excerpt": "When Blue Prism announced its new Service Assist solution in October of 2020, the company stated that it new offering would automate next-generation contact Centers with an artificial intelligence-powered digital workforce that it hoped would transform the customer experience.",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/channels/call-center-scheduling/articles/449175-blue-prisms-contact-center-offering-integrated-into-aws.htm",
+      "originalUrl": "https://www.tmcnet.com/channels/call-center-scheduling/articles/449175-blue-prisms-contact-center-offering-integrated-into-aws.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.tmcnet.com/tmc/misc/articles/image/2021-jun/9280523731-AdobeStock_cloud_contact_center_female_agent_SUPERSIZE.jpg",
+          "width": 1000,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-08T12:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-09-artificial-intelligence-ai-in-cancer-market-will-give-you-proven-results-research-methods-with-ibm-microsoft-nvidia-intel-ge-healthcare.md",
+      "title": "Artificial Intelligence (Ai) In Cancer Market Will Give You Proven Results | Research Methods With IBM, Microsoft, NVIDIA, Intel, GE Healthcare",
+      "excerpt": "In Cancer Market is growing at a 41.57% CAGR during the forecast period 2021-2027. The increasing interest of the individuals in this industry is that the major reason for the expansion of this market”.",
+      "sourceUrl": null,
+      "webUrl": "https://ksusentinel.com/2021/06/08/artificial-intelligence-ai-in-cancer-market-will-give-you-proven-results-research-methods-with-ibm-microsoft-nvidia-intel-ge-healthcare/",
+      "originalUrl": "https://ksusentinel.com/2021/06/08/artificial-intelligence-ai-in-cancer-market-will-give-you-proven-results-research-methods-with-ibm-microsoft-nvidia-intel-ge-healthcare/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ksusentinel.com/wp-content/uploads/2021/06/A2Z-Common1-1-4.png",
+          "width": 639,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-08T12:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Sentinel",
+        "domain": "ksusentinel.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-09-how-worktango-solves-the-annual-employee-engagement-survey-facade.md",
+      "title": "How WorkTango Solves The Annual Employee Engagement Survey Facade",
+      "excerpt": "WorkTango disrupts the employee engagement landscape, enabling companies to give their employees a voice and collect authentic feedback for any purpose at any time.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/danpontefract/2021/06/08/how-worktango-solves-the-annual-employee-engagement-survey-facade/",
+      "originalUrl": "https://www.forbes.com/sites/danpontefract/2021/06/08/how-worktango-solves-the-annual-employee-engagement-survey-facade/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60bfba541572bd236dab4850%2F0x0.jpg",
+          "width": 1199,
+          "height": 810,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/danpontefract/2021/06/08/how-worktango-solves-the-annual-employee-engagement-survey-facade/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/danpontefract/2021/06/08/how-worktango-solves-the-annual-employee-engagement-survey-facade/amp/",
+      "publishedDateTime": "2021-06-08T11:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-09-mythic-launches-power-sipping-ai-chip.md",
+      "title": "Mythic launches power-sipping AI chip",
+      "excerpt": "Semiconductor startup Mythic has launched an artificial intelligence (AI) processor that it says will deliver the computing capabilities of a GPU for a tenth of the power. The M1076 Mythic AMP chip targets edge computing AI applications with power and footprint limitations.",
+      "sourceUrl": null,
+      "webUrl": "https://www.itpro.co.uk/hardware/359812/mythic-launches-power-sipping-ai-chip",
+      "originalUrl": "https://www.itpro.co.uk/hardware/359812/mythic-launches-power-sipping-ai-chip",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1623172737/itpro/M1076-v2.png",
+          "width": 1260,
+          "height": 710,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.itpro.co.uk/hardware/359812/mythic-launches-power-sipping-ai-chip?amp",
+      "cdnAmpWebUrl": "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/hardware/359812/mythic-launches-power-sipping-ai-chip?amp",
+      "publishedDateTime": "2021-06-08T10:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT Pro",
+        "domain": "itpro.co.uk",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/itpro.co.uk-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-09-six-of-the-smartest-applications-of-artificial-intelligence-in-business.md",
       "title": "Six Of The Smartest Applications Of Artificial Intelligence In Business",
       "excerpt": "Businesses that want to figure out how to best leverage artificial intelligence can experiment with unique ways of using it. Through trial and error, a company can track its results with AI initiatives and find out what works best for its specific needs.",
@@ -840,273 +1134,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-08-using-ai-to-block-unconscious-bias-widen-the-talent-pool-and-increase-diversity.md",
-      "title": "Using AI To Block Unconscious Bias, Widen The Talent Pool And Increase Diversity",
-      "excerpt": "DEI is the top talent management priority for CEOs. As more organizations prioritize diversity, the challenge is figuring out how to achieve it. For starters, how can we block unconscious bias in the hiring process?",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/06/08/using-ai-to-block-unconscious-bias-widen-the-talent-pool-and-increase-diversity/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/06/08/using-ai-to-block-unconscious-bias-widen-the-talent-pool-and-increase-diversity/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60be5936c3c83c5a7cf355c9%2F0x0.jpg",
-          "width": 1200,
-          "height": 796,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/06/08/using-ai-to-block-unconscious-bias-widen-the-talent-pool-and-increase-diversity/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/06/08/using-ai-to-block-unconscious-bias-widen-the-talent-pool-and-increase-diversity/amp/",
-      "publishedDateTime": "2021-06-08T06:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-08-snowflake-announces-new-features-to-bring-together-the-worlds-data-in-the-data-cloud.md",
-      "title": "Snowflake Announces New Features to Bring Together the World’s Data in the Data Cloud",
-      "excerpt": "Snowflake (NYSE: SNOW), the Data Cloud company, today unveiled its latest product innovations that redefine what’s possible in the Data Cloud. At its annual Snowflake Summit, the company announced innovations in data programmability,",
-      "sourceUrl": null,
-      "webUrl": "https://www.bakersfield.com/ap/news/snowflake-announces-new-features-to-bring-together-the-world-s-data-in-the-data-cloud/article_6081fdb3-d7a6-525b-ad48-011ce3021762.html",
-      "originalUrl": "https://www.bakersfield.com/ap/news/snowflake-announces-new-features-to-bring-together-the-world-s-data-in-the-data-cloud/article_6081fdb3-d7a6-525b-ad48-011ce3021762.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/bakersfield.com/content/tncms/custom/image/d09180fc-6bee-11e7-8b72-ff928e2e17d5.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-08T06:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Bakersfield Californian",
-        "domain": "bakersfield.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-08-apple-m1-chip-makes-adobe-apps-80-faster-and-some-gains-are-bigger-still.md",
-      "title": "Apple M1 chip makes Adobe apps 80% faster, and some gains are bigger still",
-      "excerpt": "Apple is rolling out its new M1 processor across its hardware range. It’s designed for better performance and lower power consumption, and uses unified memory and a Neural Engine for AI-driven tasks.",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitalcameraworld.com/news/apple-m1-chip-makes-adobe-apps-80-faster-and-some-gains-are-bigger-still",
-      "originalUrl": "https://www.digitalcameraworld.com/news/apple-m1-chip-makes-adobe-apps-80-faster-and-some-gains-are-bigger-still",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/Sm2WuGsTp4hBiyFbT3B42H-480-80.jpg",
-          "width": 480,
-          "height": 270,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.digitalcameraworld.com/amp/news/apple-m1-chip-makes-adobe-apps-80-faster-and-some-gains-are-bigger-still",
-      "cdnAmpWebUrl": "https://www-digitalcameraworld-com.cdn.ampproject.org/c/s/www.digitalcameraworld.com/amp/news/apple-m1-chip-makes-adobe-apps-80-faster-and-some-gains-are-bigger-still",
-      "publishedDateTime": "2021-06-08T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "digitalcameraworld.com",
-        "domain": "digitalcameraworld.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-08-ibm-releases-ai-model-toolkit-to-help-developers-measure-uncertainty.md",
-      "title": "IBM releases AI model toolkit to help developers measure uncertainty",
-      "excerpt": "IBM has released a toolkit designed to help developers measure uncertainty in an AI and machine learning model.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/06/08/ibm-releases-toolkit-to-help-developers-measure-ai-model-uncertainty/",
-      "originalUrl": "https://venturebeat.com/2021/06/08/ibm-releases-toolkit-to-help-developers-measure-ai-model-uncertainty/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/03/IBM-3-e1616161936977.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/06/08/ibm-releases-toolkit-to-help-developers-measure-ai-model-uncertainty/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/08/ibm-releases-toolkit-to-help-developers-measure-ai-model-uncertainty/amp/",
-      "publishedDateTime": "2021-06-08T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-08-study-shows-ai-generated-fake-reports-even-fool-experts.md",
-      "title": "Study shows AI-generated fake reports even fool experts",
-      "excerpt": "If you use such social media websites as Facebook and Twitter, you may have come across posts flagged with warnings about misinformation. So far, most misinformation—flagged and unflagged—has been aimed at the general public.",
-      "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2021-06-ai-generated-fake-experts.html",
-      "originalUrl": "https://techxplore.com/news/2021-06-ai-generated-fake-experts.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2020/5-ai.jpg",
-          "width": 1920,
-          "height": 1920,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2021-06-ai-generated-fake-experts.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-06-ai-generated-fake-experts.amp",
-      "publishedDateTime": "2021-06-08T05:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techxplore.com",
-        "domain": "techxplore.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-08-bitvore-announces-integration-with-microsoft-azure-synapse-analytics.md",
-      "title": "Bitvore Announces Integration With Microsoft Azure Synapse Analytics",
-      "excerpt": "Bitvore, a leading provider of AI-powered intelligence for financial institutions, today announced that it has completed its integration with Microsoft Azure Synapse Analytics. Via the integration, customers can quickly and easily consume continuously updated Bitvore Cellenus datasets in Azure and integrate them with new and existing data sources to enhance predictive models and build augmented intelligence into their applications.",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/-bitvore-announces-integration-with-microsoft-azure-synapse-analytics-/2021/06/08/9385938.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/-bitvore-announces-integration-with-microsoft-azure-synapse-analytics-/2021/06/08/9385938.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-08T05:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

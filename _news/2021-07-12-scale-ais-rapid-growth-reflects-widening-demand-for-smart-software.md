@@ -3,13 +3,13 @@ category: news
 title: "Scale AI’s Rapid Growth Reflects Widening Demand for Smart Software"
 excerpt: "A surge in corporate demand for artificial intelligence is driving growth for startups that help companies prepare data for software tools designed to glean business insights like gauging demand or spotting supply chain inefficiencies."
 publishedDateTime: 2021-07-12T08:30:00Z
-originalUrl: "https://www.wsj.com/articles/scale-ais-rapid-growth-reflects-widening-demand-for-smart-software-11626082201?mod=latest_headlines"
-webUrl: "https://www.wsj.com/articles/scale-ais-rapid-growth-reflects-widening-demand-for-smart-software-11626082201?mod=latest_headlines"
+originalUrl: "https://www.wsj.com/articles/scale-ais-rapid-growth-reflects-widening-demand-for-smart-software-11626082201"
+webUrl: "https://www.wsj.com/articles/scale-ais-rapid-growth-reflects-widening-demand-for-smart-software-11626082201"
 ampWebUrl: "https://www.wsj.com/amp/articles/scale-ais-rapid-growth-reflects-widening-demand-for-smart-software-11626082201"
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/scale-ais-rapid-growth-reflects-widening-demand-for-smart-software-11626082201"
 type: article
-quality: 87
-heat: 107
+quality: 89
+heat: 109
 published: true
 
 provider:
@@ -21,6 +21,7 @@ provider:
       height: 50
 
 topics:
+  - AI in Robotics
   - AI
 
 images:
@@ -58,6 +59,6 @@ related:
       domain: openpr.com
     quality: 14
 
-secured: "p9H1leICJ9It9ZORzv4u31EqSDbCrjPD461gghfQuW7D/IwJSKUFhvCPdHuCsOvuNr1T/UDpHfTx3tenAW+mn/GObAJqAh6hVmpt6dywi88O6NtCPT/NHOBu/RPBYOPcPTFpQ9MpvgA8ZJPkUZdaWCWhSWaY5GY1MVIUziGJiC1IaQTRNaLla71Ix/u4YHHivojV6PmnyNK4cagie6Z8PtD7Q2eqbNX4XZVtHQd8P/h+aZ/6Ig3HgPAZGNAnvSMjdnsLV60dQfkJakI4+Z2iKf7wz+8gHpKvR0ouT1hixdlPLzXqwu/8VbefhGEEi1mb8OfXZ06CZ2cD2//CJ0Nzh3c7XueVIVTUtFaAYa0+pg4=;o6+SnRMwGVKzEqBEkIbUpw=="
+secured: "GK9xZbUBCBel1nS3szXbxFjR0iax0VoYzftaR/JFEzFc4wRmIThjaEalRqMmntgHqb+yOYWfAzGySriJx0nHf5Hcc80IGsdArBd/CRG5pK7AesumcecP1TG1hLmoD31uHIsugn9b3mgLuk0nUJlKGrtnJVJA31sr+dDm2Fi2dlmh8KA6g3EwWb8B7uohDwzK4Q2euBg5EJi1UOFdGvNAgMRM0LfRVkSwpx5XRd1oh5pC/8+umVQtlKnQIG1zV8Y8lp0soJV8oo6mrXZTqOlkC0IOig6Hurchu2Vj+RIjvMFC/cV+Fpr7PxbKddAlIaAAtmhXpnxIx8zcUBerlIAS8H8IniUY+6SMPuCptSYyC30=;SOXXi0mGIu38AphkUYJ6jg=="
 ---
 
