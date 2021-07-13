@@ -2,6 +2,58 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-06-04-fintech-startup-s-ancial-technologies-raises-14-mn-in-pre-series-a-round-led-by-jito-angel-network.md",
+      "title": "Fintech Startup S-Ancial Technologies Raises $1.4 Mn In Pre-Series A Round Led By JITO Angel Network",
+      "excerpt": "The startup will use the freshly infused capital to expand its India and MENA footprint and strengthen its technology platform ExchangeConnect",
+      "sourceUrl": null,
+      "webUrl": "https://www.entrepreneur.com/article/373682",
+      "originalUrl": "https://www.entrepreneur.com/article/373682",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/1622787292-PradipSethPhoto-FinalPressRelease03June21-8am.jpg?width=600&crop=16:9",
+          "width": 600,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.entrepreneur.com/amphtml/373682",
+      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/373682",
+      "publishedDateTime": "2021-06-03T23:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-03-machine-learning-as-a-service-market-industry-a-latest-research-report-to-share-market-insights-and-dynamics-2021-2027.md",
       "title": "Machine Learning as a Service Market Industry: A Latest Research Report to Share Market Insights and Dynamics 2021-2027",
       "excerpt": "The Machine Learning as a Service Market is expected to exceed more than US$ 7500 Million by 2024 at a CAGR of 42% in the given forecast period. Browse Full Report Here:  The report covers detailed competitive outlook including the market share and company profiles of the key participants operating in the global market.",
@@ -1268,49 +1320,6 @@
         "AI in Finance",
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-19-ai-driving-game-changing-competitive-differentiation.md",
-      "title": "AI Driving Game-Changing Competitive Differentiation",
-      "excerpt": "Banks leveraging AI are poised to realize game changing differentiation. Over the past three years, AI in corporate banking has moved from",
-      "sourceUrl": null,
-      "webUrl": "https://www.celent.com/insights/563621451",
-      "originalUrl": "https://www.celent.com/insights/563621451",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.celent.com/system/insights/logos/563/621/451/large/379341462.jpg?1621459448",
-          "width": 600,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-19T00:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Celent",
-        "domain": "celent.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
       ]
     }
   ],

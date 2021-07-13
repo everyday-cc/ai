@@ -25,17 +25,6 @@ images:
     height: 504
     isCached: true
 
-related:
-  - title: "IoT Machine Learning and Artificial Intelligence Services to Reach US$3.6 Billion in Revenue in 2026"
-    excerpt: "The pandemic accelerated ML and AI in the IoT to manage and find insights into increasing volumes of data. LONDON,  /PRNewswire/ -- The next wave of Internet of Thing"
-    publishedDateTime: 2021-07-13T08:06:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-iot-machine-learning-artificial-intelligence-services-reach-us36-/2021/07/13/9407215.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 19
-
 secured: "fGj+chJMZhuIlde8vfy0znyfgzfpJ5Z7ITLaiuD6PRovgc775+8m4zk+Zor0WDl72+BMhVpHmVlI27XMyJn5bbvD30o9/TZ79C2tJrd+8oY6F9e6s5X7+YMRgdvLwDY+zPfFc9V/DNXSX6uqbeX4vXSV16xAVXFi1N85RKvHLtTB8/zok9/Bv8pZWf4ve3yBWSKzK7LJ8L0WOmUoRGex57uoye0m9OY6osrO+P5T6xGfU6/s6/OdetiCDNFHPmUahDuLri1xoCWqKbEV+YB8hrpCnaBLoDAv332cmGcKVwrXowDlJJ3e7/YfE4XPbGjw70XE9wTUCxakeUwYt3w2xZy8AezZMRjx63mCmFAhueP9uO6osMhciK7GM6nStF3sl4eczdYjb7unEiXjbRydMjp6vXakmx5pFJ8/m+fKmb1tPJfl6ri0k9L2L9KmFTn60bmmxsesKbCKd5uDhNvXVYJYLlnWZPYhgmsZ9V9DoBhaBDeB+7wcqcLGZdqWoPSBGwXdQA8af4t6ZF5j7RG2VA==;kYEMNFlTQ9rO2cHgiWVDog=="
 ---
 

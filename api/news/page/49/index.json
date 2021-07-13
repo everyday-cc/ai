@@ -2,6 +2,371 @@
   "page": 49,
   "value": [
     {
+      "path": "_news/2021-06-05-blaize-names-mark-glasgow-vp-of-worldwide-sales-to-pioneer-products-in-ai.md",
+      "title": "Blaize Names Mark Glasgow VP of Worldwide Sales to pioneer products in AI",
+      "excerpt": "Glasgow joins Blaize to lead and grow the Blaize sales organization seizing the substantial opportunity for Blaize pioneering products in the multi-billion-dollar market for AI in industrial edge, enterprise, and automotive/mobility segments. Blaize, the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.dqindia.com/blaize-names-mark-glasgow-vp-worldwide-sales-pioneer-products-ai/",
+      "originalUrl": "https://www.dqindia.com/blaize-names-mark-glasgow-vp-worldwide-sales-pioneer-products-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.dqindia.com/wp-content/uploads/2019/04/appointment.jpg",
+          "width": 600,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.dqindia.com/blaize-names-mark-glasgow-vp-worldwide-sales-pioneer-products-ai/amp/",
+      "cdnAmpWebUrl": "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/blaize-names-mark-glasgow-vp-worldwide-sales-pioneer-products-ai/amp/",
+      "publishedDateTime": "2021-06-04T22:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Dataquest",
+        "domain": "dqindia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "AI in Sales"
+      ]
+    },
+    {
+      "path": "_news/2021-06-05-chinese-ai-speech-recognition-chip-startup-secures-new-war-chest.md",
+      "title": "Chinese AI speech recognition chip startup secures new war chest",
+      "excerpt": "ChipIntelli, a maker of AI-based speech recognition chips, recently raised several tens of millions of yuan ($3 million to $5 million) in a new funding round led by Haolan Capital. ChipIntelli, founded in 2015,",
+      "sourceUrl": null,
+      "webUrl": "https://asia.nikkei.com/Business/36Kr-KrASIA/Chinese-AI-speech-recognition-chip-startup-secures-new-war-chest",
+      "originalUrl": "https://asia.nikkei.com/Business/36Kr-KrASIA/Chinese-AI-speech-recognition-chip-startup-secures-new-war-chest",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%253A%252F%252Fs3-ap-northeast-1.amazonaws.com%252Fpsh-ex-ftnikkei-3937bb4%252Fimages%252F7%252F0%252F9%252F0%252F34550907-3-eng-GB%252FCropped-1622689933%25E5%2590%258C%25E7%25A4%25BE%25E3%2581%25AEAI%25E3%2583%2581%25E3%2583%2583%25E3%2583%2595%25E3%2582%259A%25E3%2583%25A2%25E3%2582%25B7%25E3%2582%2599%25E3%2583%25A5%25E3%2583%25BC%25E3%2583%25AB.png?width=1024&height=512&fit=cover&gravity=faces&source=nar-cms",
+          "width": 1024,
+          "height": 512,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-04T21:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NIKKEI",
+        "domain": "nikkei.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2021-06-05-computer-science-course-listing.md",
+      "title": "Computer Science Course Listing",
+      "excerpt": "and object recognition. An advanced course in computer graphics for students familiar with basic issues in computer graphics. Details on hidden line and surface removal. 2D and 3D curve and surface generation, rendering, illumination, and color models ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.uml.edu/Catalog/Undergraduate/Sciences/Departments/Computer-Science/Course-Listing.aspx",
+      "originalUrl": "https://www.uml.edu/Catalog/Undergraduate/Sciences/Departments/Computer-Science/Course-Listing.aspx",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-04T21:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "UMass Lowell",
+        "domain": "uml.edu",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-05-neuromorphic-chip-artificial-neurons-recognize-biosignals-in-real-time.md",
+      "title": "Neuromorphic Chip: Artificial Neurons Recognize Biosignals in Real Time",
+      "excerpt": "Researchers from Zurich have developed a compact, energy-efficient device made from artificial neurons that is capable of decoding brainwaves. The chip uses data recorded from the brainwaves of epilepsy patients to identify which regions of the brain cause epileptic seizures.",
+      "sourceUrl": null,
+      "webUrl": "https://scitechdaily.com/neuromorphic-chip-artificial-neurons-recognize-biosignals-in-real-time/",
+      "originalUrl": "https://scitechdaily.com/neuromorphic-chip-artificial-neurons-recognize-biosignals-in-real-time/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scitechdaily.com/images/Neuromorphic-Chip-777x437.jpg",
+          "width": 777,
+          "height": 437,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://scitechdaily.com/neuromorphic-chip-artificial-neurons-recognize-biosignals-in-real-time/amp/",
+      "cdnAmpWebUrl": "https://scitechdaily-com.cdn.ampproject.org/c/s/scitechdaily.com/neuromorphic-chip-artificial-neurons-recognize-biosignals-in-real-time/amp/",
+      "publishedDateTime": "2021-06-04T20:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SciTech Daily",
+        "domain": "scitechdaily.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-06-05-deepak-chopra-plans-to-live-forever-through-ai-heres-how.md",
+      "title": "Deepak Chopra Plans To Live Forever Through AI, Here’s How",
+      "excerpt": "Before the pandemic, meditation guru Deepak Chopra uploaded his \"consciousness\" to the AI Foundation to ensure he could talk to future generations. Virgin Galactic's Richard Branson, Twitter's Biz Stone and VC Cyan Bannister did the same.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/martineparis/2021/06/04/deepak-chopra-plans-to-live-forever-through-ai-heres-how/",
+      "originalUrl": "https://www.forbes.com/sites/martineparis/2021/06/04/deepak-chopra-plans-to-live-forever-through-ai-heres-how/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60b6e6837ba5cf2396ba0f41%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D959%26cropY1%3D53%26cropY2%3D593",
+          "width": 959,
+          "height": 540,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/martineparis/2021/06/04/deepak-chopra-plans-to-live-forever-through-ai-heres-how/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/martineparis/2021/06/04/deepak-chopra-plans-to-live-forever-through-ai-heres-how/amp/",
+      "publishedDateTime": "2021-06-04T20:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-05-self-driving-cars-could-be-decades-away-no-matter-what-elon-musk-said.md",
+      "title": "Self-Driving Cars Could Be Decades Away, No Matter What Elon Musk Said",
+      "excerpt": "Experts aren’t sure when, if ever, we’ll have truly autonomous vehicles that can drive anywhere without help. First, AI will need to get a lot smarter.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/self-driving-cars-could-be-decades-away-no-matter-what-elon-musk-said-11622865615",
+      "originalUrl": "https://www.wsj.com/articles/self-driving-cars-could-be-decades-away-no-matter-what-elon-musk-said-11622865615",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-348105/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/self-driving-cars-could-be-decades-away-no-matter-what-elon-musk-said-11622865615",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/self-driving-cars-could-be-decades-away-no-matter-what-elon-musk-said-11622865615",
+      "publishedDateTime": "2021-06-04T20:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-05-baidus-plays-in-3-growing-industries-make-it-a-buy.md",
+      "title": "Baidu’s Plays in 3 Growing Industries Make It a Buy",
+      "excerpt": "The company would contract out manufacturing, but it has automotive experience from its first self-driving car project in 2013. Additionally, Baidu has made huge inroads in two areas that are ...",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/baidus-plays-in-3-growing-industries-make-it-a-buy-1030496269",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/baidus-plays-in-3-growing-industries-make-it-a-buy-1030496269",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-04T17:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-05-microsoft-wins-approval-from-us-antitrust-regulators-to-buy-ai-firm-nuance-as-it-looks-to-bolster-healthcare-business.md",
+      "title": "Microsoft wins approval from US antitrust regulators to buy AI firm Nuance as it looks to bolster healthcare business",
+      "excerpt": "Nuance said in an SEC filing Friday that the US government's deadline to object to the deal expired on June 1, clearing a major regulatory hurdle.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/microsoft-wins-antitrust-approval-buy-acquire-nuance-19-billion-2021-6",
+      "originalUrl": "https://www.businessinsider.com/microsoft-wins-antitrust-approval-buy-acquire-nuance-19-billion-2021-6",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/60baa79393c6fa00195e55a7?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-04T15:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-05-artificial-intelligence-powered-electronic-nose-can-accurately-sniff-out-cancers.md",
       "title": "Artificial Intelligence-Powered Electronic ‘Nose’ Can Accurately Sniff Out Cancers",
       "excerpt": "The sensor was able to detect ovarian and pancreatic cancers with greater than 90% accuracy in preliminary tests.",
@@ -821,367 +1186,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-04-20-times-that-ai-has-tried-to-make-it-in-the-music-business.md",
-      "title": "20 times that AI has tried to make it in the music business",
-      "excerpt": "Artificial intelligence (AI) has been trying to carve a name for itself in the music business as a collaborator, composer, artist and lyricist since 1951.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cityam.com/20-times-that-ai-has-tried-to-make-it-in-the-music-business/",
-      "originalUrl": "https://www.cityam.com/20-times-that-ai-has-tried-to-make-it-in-the-music-business/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cityam.com/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png",
-          "width": 735,
-          "height": 552,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cityam.com/20-times-that-ai-has-tried-to-make-it-in-the-music-business/amp/",
-      "cdnAmpWebUrl": "https://www-cityam-com.cdn.ampproject.org/c/s/www.cityam.com/20-times-that-ai-has-tried-to-make-it-in-the-music-business/amp/",
-      "publishedDateTime": "2021-06-04T05:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "City A.M.",
-        "domain": "cityam.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-04-global-light-therapy-market-2021-growth-statistics-top-trends-covid-19-impact-and-forecast-2031.md",
-      "title": "Global Light Therapy Market 2021 – Growth statistics, top trends, covid-19 impact and forecast 2031",
-      "excerpt": "ESOMAR-certified consulting firm Future Market Insights projects a positive growth outlook for the global light therapy market over the forecast period of 2021 and 2021. The market posted expansion at an impressive pace in the past,",
-      "sourceUrl": null,
-      "webUrl": "https://www.pharmiweb.com/press-release/2021-06-04/global-light-therapy-market-2021-growth-statistics-top-trends-covid-19-impact-and-forecast-2031",
-      "originalUrl": "https://www.pharmiweb.com/press-release/2021-06-04/global-light-therapy-market-2021-growth-statistics-top-trends-covid-19-impact-and-forecast-2031",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.pharmiweb.com/media/1024/1200x448-pwjobs.png",
-          "width": 1200,
-          "height": 448,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-04T05:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PharmiWeb",
-        "domain": "pharmiweb.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-04-microsoft-tasked-with-making-messi-and-hazard-even-better-than-they-already-are.md",
-      "title": "Microsoft tasked with making Messi and Hazard even better than they already are",
-      "excerpt": "Azure Machine learning will enable an enhanced OTT streaming platform that features personalised recommendations and enhanced experiences with relevant content, games and services. The Microsoft ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.itp.net/software/98051-microsoft-tasked-with-making-messi-and-hazard-even-better-than-they-are",
-      "originalUrl": "https://www.itp.net/software/98051-microsoft-tasked-with-making-messi-and-hazard-even-better-than-they-are",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.itp.net/software/98051-microsoft-tasked-with-making-messi-and-hazard-even-better-than-they-are?amp",
-      "cdnAmpWebUrl": "https://www-itp-net.cdn.ampproject.org/c/s/www.itp.net/software/98051-microsoft-tasked-with-making-messi-and-hazard-even-better-than-they-are?amp",
-      "publishedDateTime": "2021-06-04T04:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GDPR fines",
-        "domain": "itp.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-04-how-ai-is-addressing-the-enterprise-email-overload-problem.md",
-      "title": "How AI Is Addressing The Enterprise Email Overload Problem",
-      "excerpt": "AI-powered technology is helping businesses deal with their cluttered inboxes and better manage customer expectations.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/06/04/how-ai-is-addressing-the-enterprise-email-overload-problem/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/06/04/how-ai-is-addressing-the-enterprise-email-overload-problem/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f8a0c158094e05a83b59beb%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/06/04/how-ai-is-addressing-the-enterprise-email-overload-problem/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/06/04/how-ai-is-addressing-the-enterprise-email-overload-problem/amp/",
-      "publishedDateTime": "2021-06-04T04:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-04-beevision-a-dimensioner-provider-adds-exceptional-accuracy-and-reliability-with-microsofts-time-of-flight-technology-and-azure.md",
-      "title": "BeeVision, a dimensioner provider, adds exceptional accuracy and reliability with Microsoft's Time of Flight technology and Azure",
-      "excerpt": "D depth cameras have recently become the sought after technology for dimensioning systems and solutions that recognize parcels and pallets, yet accuracy remains a key challenge for these solutions. BeeVision,",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/beevision-a-dimensioner-provider-adds-exceptional-accuracy-and-reliability-with-microsoft-s-time-of-flight-technology-and-azure-1030494383",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/beevision-a-dimensioner-provider-adds-exceptional-accuracy-and-reliability-with-microsoft-s-time-of-flight-technology-and-azure-1030494383",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-04T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-04-indonesian-healthcare-startup-prixa-raises-3m-led-by-mdi-and-tptf.md",
-      "title": "Indonesian healthcare startup Prixa raises $3M led by MDI and TPTF",
-      "excerpt": "Indonesian healthcare startup Prixa has raised $3 million led by MDI Ventures and the Trans-Pacific Technology Fund (TPTF), with participation from returning investors including Siloam Hospitals Group.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/06/04/indonesian-healthcare-startup-prixa-raises-3m-led-by-mdi-and-tptf/",
-      "originalUrl": "https://techcrunch.com/2021/06/04/indonesian-healthcare-startup-prixa-raises-3m-led-by-mdi-and-tptf/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/06/GettyImages-1163656222.jpg?w=1024",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/06/04/indonesian-healthcare-startup-prixa-raises-3m-led-by-mdi-and-tptf/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/06/04/indonesian-healthcare-startup-prixa-raises-3m-led-by-mdi-and-tptf/amp/",
-      "publishedDateTime": "2021-06-04T03:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-06-04-local-governments-are-going-to-war-with-facial-recognition-technology.md",
-      "title": "Local governments are going to war with facial recognition technology",
-      "excerpt": "Local governments, including King county in Washington state, are passing laws to curb the use of facial recognition technology by law enforcement.",
-      "sourceUrl": null,
-      "webUrl": "https://qz.com/2016814/should-the-police-have-facial-recognition-tech/",
-      "originalUrl": "https://qz.com/2016814/should-the-police-have-facial-recognition-tech/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 189,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cms.qz.com/wp-content/uploads/2021/06/2021-01-20T153652Z_1_LYNXMPEH0J13Z_RTROPTP_4_CHINA-SECURITY-e1622773726474.jpg?quality=75&strip=all&w=1200&h=630&crop=1",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://qz.com/2016814/should-the-police-have-facial-recognition-tech/amp/",
-      "cdnAmpWebUrl": "https://qz-com.cdn.ampproject.org/c/s/qz.com/2016814/should-the-police-have-facial-recognition-tech/amp/",
-      "publishedDateTime": "2021-06-04T03:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Quartz",
-        "domain": "qz.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/qz.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-04-robotics-startup-addverb-technologies-in-advance-talks-to-raise-80-120-million.md",
-      "title": "Robotics startup Addverb Technologies in advance talks to raise $80-120 million",
-      "excerpt": "The Noida-based robotics startup plans to use the money to set up another manufacturing plant and also expand globally.",
-      "sourceUrl": null,
-      "webUrl": "https://www.moneycontrol.com/news/business/startup/robotics-startup-addverb-technologies-in-advance-talks-to-raise-80-120-million-6987951.html",
-      "originalUrl": "https://www.moneycontrol.com/news/business/startup/robotics-startup-addverb-technologies-in-advance-talks-to-raise-80-120-million-6987951.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.moneycontrol.com/static-mcnews/2019/07/Funding.jpg?impolicy=website&width=770&height=431",
-          "width": 770,
-          "height": 431,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.moneycontrol.com/news/business/startup/robotics-startup-addverb-technologies-in-advance-talks-to-raise-80-120-million-6987951.html/amp",
-      "cdnAmpWebUrl": "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/business/startup/robotics-startup-addverb-technologies-in-advance-talks-to-raise-80-120-million-6987951.html/amp",
-      "publishedDateTime": "2021-06-04T02:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "moneycontrol.com",
-        "domain": "moneycontrol.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

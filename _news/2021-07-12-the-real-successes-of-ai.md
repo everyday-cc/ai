@@ -9,7 +9,7 @@ ampWebUrl: "https://www.infoworld.com/article/3624703/the-real-successes-of-ai.a
 cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3624703/the-real-successes-of-ai.amp.html"
 type: article
 quality: 89
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "AI Success In The Supply Chain Depends On Human Augmentation"
+    excerpt: "It is only through human augmentation and understanding how everything works together that AI success in the supply chain will happen."
+    publishedDateTime: 2021-07-13T15:41:00Z
+    webUrl: "https://www.forbes.com/sites/paulnoble/2021/07/13/ai-success-in-the-supply-chain-depends-on-human-augmentation/"
+    ampWebUrl: "https://www.forbes.com/sites/paulnoble/2021/07/13/ai-success-in-the-supply-chain-depends-on-human-augmentation/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/paulnoble/2021/07/13/ai-success-in-the-supply-chain-depends-on-human-augmentation/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 89
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60edae973c02fcc76f59d7ab%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1271%26cropY1%3D1%26cropY2%3D716"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "AI in the courts"
     excerpt: "Artificial Intelligence can help reduce pendency of cases, increase efficiency of judiciary. But before its adoption in the legal system, challenges related to privacy, data protection and other ethical issues must be addressed."
     publishedDateTime: 2021-07-11T11:51:00Z

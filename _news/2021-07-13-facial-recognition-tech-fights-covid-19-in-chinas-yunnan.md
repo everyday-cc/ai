@@ -25,19 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "Try-on facial recognition apps land cosmetics firms in court"
-    excerpt: "Two proposed class actions charge Mary Kay Cosmetics and Ulta Beauty with violating Illinois' Biometric Information Privacy Act with their try-on apps."
-    publishedDateTime: 2021-07-09T15:09:00Z
-    webUrl: "https://www.biometricupdate.com/202107/try-on-facial-recognition-apps-land-cosmetics-firms-in-court"
+  - title: "Facial recognition tech rolled out to fight Covid-19 in China's Ruili city"
+    excerpt: "This is the first publicly reported instance of facial recognition being used to track a person's movements and health status as they enter and exit residential areas, supermarkets, transport hubs and other public places."
+    publishedDateTime: 2021-07-13T14:59:00Z
+    webUrl: "https://www.hindustantimes.com/world-news/facial-recognition-tech-rolled-out-to-fight-covid-19-in-china-s-ruili-city-101626187724353.html"
+    ampWebUrl: "https://www.hindustantimes.com/world-news/facial-recognition-tech-rolled-out-to-fight-covid-19-in-china-s-ruili-city-101626187724353-amp.html"
+    cdnAmpWebUrl: "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/world-news/facial-recognition-tech-rolled-out-to-fight-covid-19-in-china-s-ruili-city-101626187724353-amp.html"
     type: article
     provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 39
+      name: Hindustan Times
+      domain: hindustantimes.com
+    quality: 57
     images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/10/12124609/selfie-biometric-authentication.jpg"
-        width: 1200
-        height: 628
+      - url: "https://images.hindustantimes.com/img/2021/07/13/1600x900/AFP_9ED8HX_1626188131154_1626188149702.jpg"
+        width: 1600
+        height: 900
         isCached: true
 
 secured: "9iPwbjgubSd6kasr4vYY/wR7jhBhe6c2uApuZQHcEy+Pm1XWlK/CWpYpo6mlqdeVNUwzWf/l68wALr+2bV6nyEhKVNj1itmDPyYp9D09s8uzqKXTwU2Pz7UCWfHZoRC2tYxUwgoKOMXOmPZKvQigcrE3lpj2mcv2Gmrrep3RtgdPezZ1ywbXeINjbyxVsUpWE2ygdL7ZzJn5ZUegohVkz1COcAb0ZXtweflVpZIAK99EmdTAntwGVwGuZQbvK+QSf5xBOw5OR42d6E7r20ET/4B2+EPS5656vOoFhh9UWmRU8vkTSsz8gahF0CJoPb4P1HSjr994+GXkiA2kXcgiy8w///I6Q2f4YIIfrOLr9OY=;DcrMS8IgsoRORVrtWTMmiw=="

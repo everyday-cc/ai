@@ -7,7 +7,7 @@ originalUrl: "https://europepmc.org/article/MED/34221854"
 webUrl: "https://europepmc.org/article/MED/34221854"
 type: article
 quality: 5
-heat: 5
+heat: -1
 published: false
 
 provider:
@@ -17,6 +17,24 @@ provider:
 topics:
   - Machine Learning
   - AI
+
+related:
+  - title: "Machine learning model from the largest US COVID-19 dataset predicts disease severity"
+    excerpt: "The study, published in the journal JAMA Network Open, looked at risk factors for severe cases of COVID-19 and traced the progression of the disease over time. The authors built machine learning models to predict which hospitalized patients would develop severe disease based on information collected on their first day in a hospital."
+    publishedDateTime: 2021-07-13T15:00:00Z
+    webUrl: "https://www.theverge.com/2021/7/13/22573753/covid-data-health-records-machine-learning-disease"
+    ampWebUrl: "https://www.theverge.com/platform/amp/2021/7/13/22573753/covid-data-health-records-machine-learning-disease"
+    cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2021/7/13/22573753/covid-data-health-records-machine-learning-disease"
+    type: article
+    provider:
+      name: The Verge
+      domain: theverge.com
+    quality: 82
+    images:
+      - url: "https://cdn.vox-cdn.com/thumbor/wycNcUptzTs63ZG67FZ5p5ZJ0Ns=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/69575654/acastro_200428_1777_coronavirus_0002.0.0.jpg"
+        width: 1400
+        height: 933
+        isCached: true
 
 secured: "Q/dNKVSZxziSRotBlPetjqtM6Rx2dHC+w0q3Ru2ACEpftjvXevd10VsEIejl5+hyagmJXFnVcBnLNA88MLrzfz7c4GbrySkbvlJ2KUnRvTv3/IjUqm6ejN5VwI47xmMYkDYtTsO1jpIkNMQjF/tt+yVH7AB8Ciy4zeQwtAOwvESKeuoJKxBk3GTzkuhj8ENXb8jNFbVnRdriWXg5zJl4ZN8S4SMJZSSinQHNQ+4pM0nVDf6V/EQMMt+vdlIko/nSr5RXm1r3DF406tnCgv/NER9fJs52x52KKV7+FnUTSSuzElYIYzWEAoFKUQpO5D1AJ5kBTQ0RYPRCfYdNeUvarzeQSHbz0Nxi1ZcoIh25yMA=;7XonyjeCvUXN1T6kqPR3Lg=="
 ---

@@ -62,20 +62,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 67
-  - title: "Microsoft aims to expedite new edge computing use cases with Azure Percept"
-    excerpt: "With the modern cloud landscape nearing a point of saturation in terms of bandwidth, 5G combined with edge computing and AI looks to further ... silicon and telecom, Azure edge devices, and ..."
-    publishedDateTime: 2021-07-08T21:36:00Z
-    webUrl: "https://siliconangle.com/2021/07/08/microsoft-aims-expedite-new-edge-computing-use-cases-azure-percept-mwc21/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 67
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/07/Pete-Bernard-Mobile-World-Congress-2021.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "CIBC formalizes Microsoft Azure as its primary cloud platform"
     excerpt: "Canadian Imperial Bank of Commerce and Microsoft announced a strategic relationship formalizing Microsoft Azure as CIBC’s primary cloud platform"
     publishedDateTime: 2021-07-12T06:22:00Z

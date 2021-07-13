@@ -9,8 +9,8 @@ ampWebUrl: "https://techcrunch.com/2021/07/13/zoominfo-drops-575m-on-chrous-ai-a
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/07/13/zoominfo-drops-575m-on-chrous-ai-as-ai-shakes-up-the-sales-market/amp/"
 type: article
 quality: 104
-heat: 124
-published: true
+heat: -1
+published: false
 
 provider:
   name: TechCrunch
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "ZoomInfo drops $575M on Chorus.ai as AI shakes up the sales market"
+    excerpt: "ZoomInfo announced this morning it intends to acquire conversational sales intelligence tool Chorus.AI for $575 million. Shares of ZoomInfo are unchanged in pre-market trading following the news, per Yahoo Finance data."
+    publishedDateTime: 2021-07-13T12:42:00Z
+    webUrl: "https://techcrunch.com/2021/07/13/zoominfo-drops-575m-on-chorus-ai-as-ai-shakes-up-the-sales-market/"
+    ampWebUrl: "https://techcrunch.com/2021/07/13/zoominfo-drops-575m-on-chorus-ai-as-ai-shakes-up-the-sales-market/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/07/13/zoominfo-drops-575m-on-chorus-ai-as-ai-shakes-up-the-sales-market/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 104
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2021/07/GettyImages-1281590006.jpg?w=1024"
+        width: 1024
+        height: 766
+        isCached: true
   - title: "ZoomInfo to Acquire Chorus.ai For $575M In Cash"
     excerpt: "By Dave Sebastian ZoomInfo Technologies Inc. said it has agreed to buy Chorus.ai, a conversation-intelligence platform, for about $575 million in cash."
     publishedDateTime: 2021-07-13T11:42:00Z
@@ -61,7 +77,21 @@ related:
         width: 800
         height: 392
         isCached: true
+  - title: "ZoomInfo Buys Israeli Company Chorus.ai for $575 Million"
+    excerpt: "Employees of an Israeli startup company work at the company’s office in Tel Aviv, Israel, Feb. 7, 2018. Photo: Reuters"
+    publishedDateTime: 2021-07-13T14:18:00Z
+    webUrl: "https://www.algemeiner.com/2021/07/13/zoominfo-buys-israeli-company-chorus-ai-for-575-million/"
+    type: article
+    provider:
+      name: Algemeiner
+      domain: algemeiner.com
+    quality: 37
+    images:
+      - url: "https://www.algemeiner.com/wp-content/uploads/2018/02/STARTUP.jpg"
+        width: 720
+        height: 360
+        isCached: true
 
-secured: "Woq1S1OiKArNCjxhp8X1kqsoKEAQgP4MkkRn5AJQiwQ9U9tSLGZ1ytqCvdxDOEbodtsR+88ffWCpRpTQV2WGg6CjMSJV/StQrd/eWZDdqX2wBPjioQ50h/7OFe+nb5lFxUX1EvBIdDDzfbU68liFpDUlbzItdToQ5suaZ6g2VVOEqy+HuwVp6S2lC64ueeFvByu2vL30UKjiTV9VPHbOU4R+1C4TBCpkTKdTF+pS5yqCrw2s3y1mS//G0qS8s5yluhYSyZ6hF9k7U2i0dDUEhGitPAzREoVfWqDPwEyv8WamOLvrypBfK9DOD7Je0vtsAO6yXYeAd05lZzIm1vRMatua9ENApHfwzsDuhg3SMuI=;wp0NWYkhz+RPJVjID8Gagw=="
+secured: "XbZmb5lUKFKyNDWRwuahlV6AXrUx04SjQkaL0yqygZGNAIcDG8Y0bVvxfRAr8SC4vAiyFTELRy3qAa55rq4Ah3q1+4RCno3Zj1fjY+vn10/vx81f6+EU/luX5R2ndPtHbKgrR4oQntGk+cjSuv9dHM4VcXCk78Ikan53NEvqTKIhSwDgtfjmQNIcg4YpR6rBIlgpaNUtffpFrvpxrFVK6/sSihR/IGEt9I7VRx/qzf6d1qK4kpvThzcfK3brbW4NB8p+5rWsdYmjL5i56/ZTkGcvN3ZZTLDiJPeKEq6ZKKzdv3WLBIwRTcDeqbLLTp3hTdytCULuLbmVlx8wGBNTbG9fKMvGWnJPFZDTMLs0kIEEue7CzAa5sNUScXS5wtLNY0MEqH2uxj7oS2kL8pX8pHmUZ9ohL2wPe11tfGxO8Al+FmE3MhC2JgbI+wm/2KB7RXwDnL/7mhsGtS/04RQYHRgtoAhyVgGN3vuUoxKbc4MCSSJGkhlDLcV80eOUDs6pt2SEckHT3EkdCfG8FtKWIA==;ua9iDw5Rap/aPCtQxY54Kg=="
 ---
 

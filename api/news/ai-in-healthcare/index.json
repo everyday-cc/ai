@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-07-13-how-healthcare-providers-are-embracing-a-digital-future.md",
+      "title": "How Healthcare Providers Are Embracing A Digital Future",
+      "excerpt": "Jump-started by the pandemic, healthcare providers’ digital agenda is finally falling into place, says Euan Davis, a futurist in Cognizant’s Center for the Future of Work.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/cognizant/2021/07/13/how-providers-are-embracing-a-digital-future/",
+      "originalUrl": "https://www.forbes.com/sites/cognizant/2021/07/13/how-providers-are-embracing-a-digital-future/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60db31dd838bb4064aab3bf7%2F0x0.png",
+          "width": 592,
+          "height": 653,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/cognizant/2021/07/13/how-providers-are-embracing-a-digital-future/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognizant/2021/07/13/how-providers-are-embracing-a-digital-future/amp/",
+      "publishedDateTime": "2021-07-13T08:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-13-how-ai-can-enable-better-health-care-outcomes.md",
       "title": "How AI can enable better health care outcomes",
       "excerpt": "AI in health care can reduce medical waste and over-testing, cut costs, and improve diagnostics and patient care, a Transform panel agreed.",
@@ -1117,22 +1169,31 @@
       "title": "Global Artificial Intelligence in Healthcare: Deals and Agreements by Leading Players From 2010-2021 - ResearchAndMarkets.com",
       "excerpt": "and specific therapy focus. Each deal title links ... access to each contract document on demand. Chapter 6 lists artificial intelligence deals by technology type. Chapter 7 provides a ...",
       "sourceUrl": null,
-      "webUrl": "https://www.morningstar.com/news/business-wire/20210628005698/global-artificial-intelligence-in-healthcare-deals-and-agreements-by-leading-players-from-2010-2021-researchandmarketscom",
-      "originalUrl": "https://www.morningstar.com/news/business-wire/20210628005698/global-artificial-intelligence-in-healthcare-deals-and-agreements-by-leading-players-from-2010-2021-researchandmarketscom",
+      "webUrl": "https://www.register-herald.com/region/global-artificial-intelligence-in-healthcare-deals-and-agreements-by-leading-players-from-2010-2021-/article_24526b40-ba6d-54a0-91ac-3bb7b0ca1069.html",
+      "originalUrl": "https://www.register-herald.com/region/global-artificial-intelligence-in-healthcare-deals-and-agreements-by-leading-players-from-2010-2021-/article_24526b40-ba6d-54a0-91ac-3bb7b0ca1069.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://bloximages.chicago2.vip.townnews.com/register-herald.com/content/tncms/custom/image/b87268c4-7873-11e7-af9a-f3a04545878a.jpg?resize=600%2C600",
+          "width": 600,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-28T10:42:00-07:00",
+      "publishedDateTime": "2021-06-28T10:10:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Morningstar%2c Inc.",
-        "domain": "morningstar.com",
+        "name": "The Register-Herald",
+        "domain": "register-herald.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1253,49 +1314,6 @@
       "provider": {
         "name": "wallstreet online",
         "domain": "wallstreet-online.de",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-25-artificial-intelligence-positioned-to-be-a-game-changer.md",
-      "title": "Artificial intelligence positioned to be a game-changer",
-      "excerpt": "The search to improve and eventually perfect artificial intelligence is driving the ... So we found that we were deciding on therapy based on information that was always, in some cases, 12 ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/news/artificial-intelligence-positioned-to-be-a-game-changer/",
-      "originalUrl": "https://www.cbsnews.com/news/artificial-intelligence-positioned-to-be-a-game-changer/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cbsnews2.cbsistatic.com/hub/i/r/2016/10/07/4c200094-7e27-4334-8024-4d671b1d0625/thumbnail/1200x630/920095fe5576a423e4eb2cfdd3e5124e/ai-main.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cbsnews.com/amp/news/artificial-intelligence-positioned-to-be-a-game-changer/",
-      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/artificial-intelligence-positioned-to-be-a-game-changer/",
-      "publishedDateTime": "2021-06-24T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
         "images": null,
         "publishers": null,
         "authors": null

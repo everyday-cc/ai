@@ -9,8 +9,8 @@ ampWebUrl: "https://www.livemint.com/technology/tech-news/micron-technology-puts
 cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/tech-news/micron-technology-puts-its-cash-to-work-using-artificial-intelligence/amp-11625836801977.html"
 type: article
 quality: 57
-heat: -1
-published: false
+heat: 77
+published: true
 
 provider:
   name: Mint
@@ -26,22 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Micron Technology Puts Its Cash to Work Using Artificial Intelligence"
-    excerpt: "Micron Technology Inc.’s cash deposits are generating millions of dollars in additional returns for the memory-chip maker thanks to the help of an artificial-intelligence tool developed internally. The AI application allows Boise, Idaho-based Micron to ..."
-    publishedDateTime: 2021-07-08T22:01:00Z
-    webUrl: "https://www.wsj.com/articles/micron-technology-puts-its-cash-to-work-using-artificial-intelligence-11625781002"
-    ampWebUrl: "https://www.wsj.com/amp/articles/micron-technology-puts-its-cash-to-work-using-artificial-intelligence-11625781002"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/micron-technology-puts-its-cash-to-work-using-artificial-intelligence-11625781002"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 87
-    images:
-      - url: "https://images.wsj.net/im-366698/social"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "Space – Nurturing AI Technologies from Silicon Valley Tech Giants"
     excerpt: "Latest financial technology news, fintech news, fin tech news, open banking news​, banking news, blogs opinion, analysis on Fintech Zoom."
     publishedDateTime: 2021-07-11T09:11:00Z
@@ -69,20 +53,6 @@ related:
       - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/07/NASA-Nurturing-AI-Technologies-from-Silicon-Valley-Tech-Giants-Disha.jpg"
         width: 900
         height: 500
-        isCached: true
-  - title: "Biotech startup using AI to take guesswork out of cancer drug selection raises $70M"
-    excerpt: "Xilis is developing technology that creates a living model of a patient’s tumor, then applies artificial intelligence to determine the best drug or drug combinations to treat the cancer. Clinical trials are planned to test this precision medicine approach and the biotech startup has raised $70 million to fund its research."
-    publishedDateTime: 2021-07-09T00:46:00Z
-    webUrl: "https://medcitynews.com/2021/07/biotech-startup-using-ai-to-take-guesswork-out-of-cancer-drug-selection-raises-70m/"
-    type: article
-    provider:
-      name: MedCity News
-      domain: medcitynews.com
-    quality: 35
-    images:
-      - url: "https://medcitynews.com/uploads/2021/07/Xiling-Shen-and-David-Hsu-lab.jpg"
-        width: 1400
-        height: 930
         isCached: true
 
 secured: "R1t/XQjZGFKvhFBv8dpqGRlTsoYIjm3SigSJbZolSo7sFchkPPutkQLCbKuVvHsWCGKDi2WyHBts2jP1GXSW4K7hEFERtRA1ZefvpcEsUaGKAqyMCgZ3gbs4Q4ag+FToadDiS5qMDSjROmb5J0tQy9XWxZ+DDa301jEyoj5LhTrdCkyPE4YslRsHst3e0ERfQq0oK8N5u//fF0Uh7QWCpdmV2UAVcb9cGJP7SBSBQc+i3TPE7j+myzu1WHVPByl8hLK735n8eqwku/ARYMNONhWY5zdyaNUk/TmTxjICpTMTbO4zyTdTX5fB291SPyB4RHgqZoOFDXx5kn06GydkkvNQwkZCR0JDWJgsrVwty38=;29EKQlv+ev2aPIA9zcI0rw=="

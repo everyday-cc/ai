@@ -19,20 +19,40 @@ topics:
   - AI
 
 related:
-  - title: "Artificial Intelligence in Medicine Market: Global Industry Size Will Reach USD 15,000.00 Million By 2026"
-    excerpt: "Pages Report] According to the Facts and Factors research report, the global artificial intelligence in medicine market in 2019 was around USD 800.00 Million. The market"
-    publishedDateTime: 2021-07-08T21:50:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/21/07/ab21907737/artificial-intelligence-in-medicine-market-global-industry-size-will-reach-usd-15-000-00-million-"
+  - title: "How Fintech can harness the power of big data to redefine market forecasting"
+    excerpt: "Advances in predictive analytics using machine learning (ML) algorithms and blockchain technology demonstrate how innovations in financial services are challenging"
+    publishedDateTime: 2021-07-13T14:27:00Z
+    webUrl: "https://www.cityam.com/how-fintech-can-harness-the-power-of-big-data-to-redefine-market-forecasting/"
+    ampWebUrl: "https://www.cityam.com/how-fintech-can-harness-the-power-of-big-data-to-redefine-market-forecasting/amp/"
+    cdnAmpWebUrl: "https://www-cityam-com.cdn.ampproject.org/c/s/www.cityam.com/how-fintech-can-harness-the-power-of-big-data-to-redefine-market-forecasting/amp/"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 22
+      name: City A.M.
+      domain: cityam.com
+    quality: 41
     images:
-      - url: "https://cdn.benzinga.com/files/imagecache/og_image_social_share_1200x630/sites/all/themes/bz2/images/bz-icon.png"
-        width: 1200
-        height: 630
+      - url: "https://www.cityam.com/wp-content/uploads/2021/07/9298_PG_School_of_Accounting_and_Finance_WEB_IMAGES_06.21-1.jpg"
+        width: 1024
+        height: 640
         isCached: true
+  - title: "If You Only Buy 1 Fintech Stock, Make It One of These 5"
+    excerpt: "Recent innovations by biotech and fintech stocks, for example, show how pandemic-era needs are shaping the market. Source: Shutterstock In 2021, fintech companies are harnessing advanced technologies to provide faster and more reliable financial service solutions for institutions and everyday users."
+    publishedDateTime: 2021-07-09T17:53:00Z
+    webUrl: "https://www.nasdaq.com/articles/if-you-only-buy-1-fintech-stock-make-it-one-of-these-5-2021-07-09"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 34
+  - title: "Top 10 Fintech Trends to Watchout For"
+    excerpt: "To make you aware of the revolutions FinTech has unleashed in the financial arena, we are outlining the following ten technology trends that are the forces behind the Fintech revolution: Welcome to Finextra."
+    publishedDateTime: 2021-07-09T15:21:00Z
+    webUrl: "https://www.finextra.com/blogposting/20576/top-10-fintech-trends-to-watchout-for"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 4
 
 secured: "jR0OPdeqyV0mlCjvAhsNNeuLXhqQcuW799z4949yJv4S6HJfoz61J4/u81rIpSCKFHAFtaIDfi59HY0GEMSRYXmFAuyblNLFWhYHwouZn03BG3JJGA9RUjlkiBN9MzgCyiXuQfssx3D9h4BRFWNSz22L32kCgOVopQXTRPKUy/I1a3ZtTU6OShHPZmcHPOhP5pcUjNEYFncGCD9yiLSAaIRGGmkFCM1s4ffohYUZRUsDB0HPeUVwxLB4w1HXVft3YL0Znp0rD0C5yz4GdOMVIgjJwBOc4/7W++9KASftT3MF0Mck8CE5ddTcdW9MaO/76U719OeD2y3gKbrozxWWnSoL5F8McNT9WqZ9Y9v5nlI=;ipbbnrB47F6Iq1EgfZHerQ=="
 ---

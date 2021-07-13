@@ -2,6 +2,102 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2021-05-22-sofic-news-microsoft-socom-highlight-need-for-ethical-use-of-artificial-intelligence.md",
+      "title": "SOFIC NEWS: Microsoft, SOCOM Highlight Need for Ethical Use of Artificial Intelligence",
+      "excerpt": "Tech giant Microsoft is doing a “significant amount” of research and development work to ensure that its artificial intelligence products are in line with its ethical principles, according to the company's CEO.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nationaldefensemagazine.org/articles/2021/5/20/sofic-news-microsoft-investing-in-ai-ethics-rd",
+      "originalUrl": "https://www.nationaldefensemagazine.org/articles/2021/5/20/sofic-news-microsoft-investing-in-ai-ethics-rd",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.nationaldefensemagazine.org/-/media/sites/magazine/2021/05/istock-1150199386_resave.ashx?h=500&w=878&la=en&hash=279D049267A88C2C38978D40F816A53C",
+          "width": 878,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-22T02:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "National Defense Magazine",
+        "domain": "nationaldefensemagazine.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-22-youll-soon-be-able-to-use-your-apple-watch-without-touching-the-screen.md",
+      "title": "You’ll Soon be Able to Use Your Apple Watch Without Touching the Screen",
+      "excerpt": "Companies like Apple and Spotify are making it easier for people with disabilities to use their products. Accessibility advocates hope more follow suit.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/youll-soon-be-able-to-use-your-apple-watch-without-touching-the-screen-11621624080",
+      "originalUrl": "https://www.wsj.com/articles/youll-soon-be-able-to-use-your-apple-watch-without-touching-the-screen-11621624080",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-342069?width=620&size=custom_495x278",
+          "width": 495,
+          "height": 278,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/youll-soon-be-able-to-use-your-apple-watch-without-touching-the-screen-11621624080",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/youll-soon-be-able-to-use-your-apple-watch-without-touching-the-screen-11621624080",
+      "publishedDateTime": "2021-05-21T16:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-22-sinequa-third-party-marketplaces-boost-hyperscale-cloud-growth.md",
       "title": "Sinequa: Third-party marketplaces boost hyperscale cloud growth",
       "excerpt": "Enterprise IT leaders prefer Google Cloud, Amazon Web Services, and Microsoft Azure because of the strength of the third-party marketplaces.",
@@ -1262,94 +1358,6 @@
         "Microsoft AI",
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-14-infosys-collaborates-with-rxr-realty-to-develop-smart-office-platform-running-on-microsoft-azure-for-safe-return-to-work.md",
-      "title": "Infosys collaborates with RXR Realty to develop smart office platform running on Microsoft Azure for safe return to work",
-      "excerpt": "It major, Infosys said that company has collaborated with RXR Realty to build and deploy a comprehensive, award-winning smart building health and wellness solution running on Microsoft Azure.",
-      "sourceUrl": null,
-      "webUrl": "https://www.uniindia.com/~/infosys-collaborates-with-rxr-realty-to-develop-smart-office-platform-running-on-microsoft-azure-for-safe-return-to-work/Business Economy/news/2395131.html",
-      "originalUrl": "https://www.uniindia.com/~/infosys-collaborates-with-rxr-realty-to-develop-smart-office-platform-running-on-microsoft-azure-for-safe-return-to-work/Business Economy/news/2395131.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "http://www.uniindia.com/cms/gall_content/2021/5/2021_5$largeimg14_May_2021_120833073.jpg",
-          "width": 595,
-          "height": 350,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-13T23:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "United News of India",
-        "domain": "uniindia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-14-healthcare-natural-language-processing-nlp-market-research-2021-report-growth-forecast-to-2027-nec-apple-microsoft-dolbey-ibm.md",
-      "title": "Healthcare Natural Language Processing (NLP) Market Research 2021 Report | Growth Forecast to 2027 NEC, Apple, Microsoft, Dolbey, IBM",
-      "excerpt": "Market is growing at a 20.47% CAGR during the forecast period 2021-2027. The increasing interest of the individuals in this industry is that the major reason for the expansion of this market”. Healthcare Natural Language Processing (NLP) Market research report is the new statistical data source added by A2Z Market Research.",
-      "sourceUrl": null,
-      "webUrl": "https://ksusentinel.com/2021/05/14/healthcare-natural-language-processing-nlp-market-research-2021-report-growth-forecast-to-2027-nec-apple-microsoft-dolbey-ibm/",
-      "originalUrl": "https://ksusentinel.com/2021/05/14/healthcare-natural-language-processing-nlp-market-research-2021-report-growth-forecast-to-2027-nec-apple-microsoft-dolbey-ibm/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ksusentinel.com/wp-content/uploads/2021/05/A2Z-MARKET-RESEARCH-4-190-780x470.png",
-          "width": 780,
-          "height": 470,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-13T20:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Sentinel",
-        "domain": "ksusentinel.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI in Healthcare",
-        "Microsoft AI"
       ]
     }
   ],

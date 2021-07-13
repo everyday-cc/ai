@@ -24,6 +24,17 @@ images:
     height: 512
     isCached: true
 
+related:
+  - title: "Self-driving specialist Pony.ai sets course for mass production"
+    excerpt: "Pony.ai plans to mass-produce its Level 4 self-driving system by 2023 as the industry works toward commercialising the technology. That was the message Pony.ai gave during the World Artificial Intelligence Conference held from Wednesday to Saturday in Shanghai,"
+    publishedDateTime: 2021-07-13T15:20:00Z
+    webUrl: "https://www.freemalaysiatoday.com/category/business/2021/07/13/self-driving-specialist-pony-ai-sets-course-for-mass-production/"
+    type: article
+    provider:
+      name: Free Malaysia Today
+      domain: freemalaysiatoday.com
+    quality: 19
+
 secured: "bNoG72Aa+wrxK8RJQ8eByFy4qtLC/yX7UuEKVCqnxnkqWkY5suEBzmg811ubRDRjuWy86zooSrWLxCSwcXCfjCl6xoWrg9rII83h6p9m2vunXwdxEq7pGqpwQmMmGkfWufrPTNXFNAP7oToSEDS3+T+1QQgOX3icrbSNcvt1xDHaDgl2l20Uharx9uj3U5si0xZ+/DR/YB4DLFA76VHvsVrd4oR8Z7MG5jdpkr4s0HSZnu5Sdf0vi/pn9AqZtO2m+uT72ZqGNSO0/deUWBabV7wJLGd4WPicVc+DuI1Q44uvAJlnkrLnM5xIoEex9XLyOD7jcdlWMkhTZV09W+WBQWwGR8ZHuI1G8pulL6QLBaBQ12qlY1pBquEWXApmESOndAbXw1WOWfsDGRziAVOWecorIChlMicOOLXrRDyvP/D7l7L44MhGu0svnKKLgBzJkiUeBgF4rn/CvpGMQ4Ub558GMmCFn+taiAdL7SszFpaChAS/eJLYyoY3BbQT2Tj3MWwxx1ELlJ/Dw2FCUOUBbA==;E/dL/eElqRE4C9RWBRWn5Q=="
 ---
 

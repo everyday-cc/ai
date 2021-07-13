@@ -2,49 +2,6 @@
   "page": 6,
   "value": [
     {
-      "path": "_news/2021-05-27-south-korean-firm-to-develop-liability-insurance-for-ai-robots.md",
-      "title": "South Korean firm to develop liability insurance for AI robots",
-      "excerpt": "South Korean telecom giant KT is developing an insurance program covering artificial intelligence-based robotics services for the first time.",
-      "sourceUrl": null,
-      "webUrl": "https://www.upi.com/Top_News/World-News/2021/05/27/skorea-insurance-robots-ai-liability/7721622131092/",
-      "originalUrl": "https://www.upi.com/Top_News/World-News/2021/05/27/skorea-insurance-robots-ai-liability/7721622131092/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdnph.upi.com/sv/ph/og/upi/7721622131092/2021/1/480b8a849ed52a9029a02b5f29d835b9/v1.5/South-Korean-firm-to-develop-liability-insurance-for-AI-robots.jpg",
-          "width": 800,
-          "height": 534,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.upi.com/amp/Top_News/World-News/2021/05/27/skorea-insurance-robots-ai-liability/7721622131092/",
-      "cdnAmpWebUrl": "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/World-News/2021/05/27/skorea-insurance-robots-ai-liability/7721622131092/",
-      "publishedDateTime": "2021-05-27T09:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "UPI.com",
-        "domain": "upi.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-05-27-dream-bot-l10-pro-review-a-robot-vacuum-newcomer-that-cleans-well.md",
       "title": "Dream Bot L10 Pro Review: A robot vacuum newcomer that cleans well",
       "excerpt": "The Dreame Bot L10 Pro is one of the first bots from Dreame Technology, which is looking to make a name of itself in the always competitive robot vacuum space.",
@@ -1349,6 +1306,49 @@
       "provider": {
         "name": "News.com.au",
         "domain": "news.com.au",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-21-a-sense-of-touch-boosts-speed-accuracy-of-mind-controlled-robotic-arm.md",
+      "title": "A Sense Of Touch Boosts Speed, Accuracy Of Mind-Controlled Robotic Arm",
+      "excerpt": "A robotic arm with a sense of touch has allowed a man who is paralyzed to quickly perform tasks like pouring water from one cup into another. The robotic arm provides tactile feedback directly to ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wshu.org/post/sense-touch-boosts-speed-accuracy-mind-controlled-robotic-arm",
+      "originalUrl": "https://www.wshu.org/post/sense-touch-boosts-speed-accuracy-mind-controlled-robotic-arm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mediad.publicbroadcasting.net/p/shared/npr/styles/medium/nprshared/202105/998729746.jpg",
+          "width": 800,
+          "height": 498,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-20T14:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WSHU news",
+        "domain": "wshu.org",
         "images": null,
         "publishers": null,
         "authors": null

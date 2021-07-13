@@ -1,0 +1,95 @@
+---
+category: news
+title: "Chinese City Using Facial Recognition Tech To Fight Coronavirus"
+excerpt: "Facial recognition tech linked to personal health codes has been rolled out in a Chinese city bordering Myanmar as authorities seek to squash a coronavirus outbreak."
+publishedDateTime: 2021-07-13T14:11:00Z
+originalUrl: "https://www.ndtv.com/world-news/china-using-facial-recognition-tech-to-fight-coronavirus-2485824"
+webUrl: "https://www.ndtv.com/world-news/china-using-facial-recognition-tech-to-fight-coronavirus-2485824"
+ampWebUrl: "https://www.ndtv.com/world-news/china-using-facial-recognition-tech-to-fight-coronavirus-2485824?amp=1&akamai-rum=off"
+cdnAmpWebUrl: "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/world-news/china-using-facial-recognition-tech-to-fight-coronavirus-2485824?amp=1&akamai-rum=off"
+type: article
+quality: 59
+heat: -1
+published: false
+
+provider:
+  name: NDTV
+  domain: ndtv.com
+
+topics:
+  - Computer Vision
+  - AI
+
+images:
+  - url: "https://c.ndtvimg.com/2021-07/90pei86s_china-covid-ruili-afp-650_625x300_13_July_21.jpg"
+    width: 650
+    height: 400
+    isCached: true
+
+related:
+  - title: "US sanctions a Chinese facial recognition company with Silicon Valley funding"
+    excerpt: "DeepGlint, also known as Beijing Geling Shentong Information Technology Co., Ltd., is a facial recognition company with deep ties to Chinese police surveillance, and funding from US-based Sequoia Capital."
+    publishedDateTime: 2021-07-09T17:42:59Z
+    webUrl: "https://www.theverge.com/2021/7/9/22570225/us-sanctions-chinese-facial-recognition-silicon-valley-funding"
+    ampWebUrl: "https://www.theverge.com/platform/amp/2021/7/9/22570225/us-sanctions-chinese-facial-recognition-silicon-valley-funding"
+    cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2021/7/9/22570225/us-sanctions-chinese-facial-recognition-silicon-valley-funding"
+    type: article
+    provider:
+      name: theverge.com/2021/7/9/22570225/us-sanctions-chinese-facial-recognition-silicon-valley-funding
+      domain: theverge.com/2021/7/9/22570225/us-sanctions-chinese-facial-recognition-silicon-valley-funding
+    quality: 156
+    images:
+      - url: "https://cdn.vox-cdn.com/thumbor/eGtjTnlDLWadmcCPthwq1RA4u_o=/0x0:640x355/1400x933/filters:focal(269x127:371x229):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/69562258/Hitachi_Kokusai_Electric_surveillance_system_640.0.jpg"
+        width: 640
+        height: 355
+        isCached: true
+  - title: "COVID-19: Facial recognition tech fights coronavirus in Chinese city"
+    excerpt: "BEIJING: Facial recognition tech linked to personal health codes has been rolled out in a Chinese city bordering Myanmar as authorities seek to squash a coronavirus outbreak. China is one of the world’s most surveilled countries,"
+    publishedDateTime: 2021-07-13T10:01:00Z
+    webUrl: "https://gulfnews.com/world/asia/covid-19-facial-recognition-tech-fights-coronavirus-in-chinese-city-1.80626315"
+    ampWebUrl: "https://gulfnews.com/amp/world/asia/covid-19-facial-recognition-tech-fights-coronavirus-in-chinese-city-1.80626315"
+    cdnAmpWebUrl: "https://gulfnews-com.cdn.ampproject.org/c/s/gulfnews.com/amp/world/asia/covid-19-facial-recognition-tech-fights-coronavirus-in-chinese-city-1.80626315"
+    type: article
+    provider:
+      name: Gulf News
+      domain: gulfnews.com
+    quality: 59
+    images:
+      - url: "https://imagevars.gulfnews.com/2021/07/13/Ruili-1626170218791_17a9f4c592b_medium.jpg"
+        width: 540
+        height: 405
+        isCached: true
+  - title: "Farmington Hills man misidentified by facial recognition technology testifies at Congressional hearing"
+    excerpt: "The Farmington Hills man who has sued Detroit police after being wrongfully identified by the department's facial recognition technology in a shoplifting investigation is testifying in front of a congressional subcommittee Tuesday."
+    publishedDateTime: 2021-07-13T14:59:00Z
+    webUrl: "https://www.fox2detroit.com/news/farmington-hills-misidentified-by-detroit-police-facial-recognition-technology-testifies-in-congress"
+    ampWebUrl: "https://www.fox2detroit.com/news/farmington-hills-misidentified-by-detroit-police-facial-recognition-technology-testifies-in-congress.amp"
+    cdnAmpWebUrl: "https://www-fox2detroit-com.cdn.ampproject.org/c/s/www.fox2detroit.com/news/farmington-hills-misidentified-by-detroit-police-facial-recognition-technology-testifies-in-congress.amp"
+    type: article
+    provider:
+      name: WJBK
+      domain: fox2detroit.com
+    quality: 43
+    images:
+      - url: "https://images.foxtv.com/static.fox2detroit.com/www.fox2detroit.com/content/uploads/2021/04/932/470/wjbk-facial-recognition-aclu-lawsuit.jpg?ve=1&tl=1"
+        width: 932
+        height: 470
+        isCached: true
+  - title: "Most State Legislatures have rejected bans and severe restrictions on facial recognition"
+    excerpt: "Facial recognition technology and related legislation have been a hot topic in the media and in policy discussions around the country. The Security Industry Association (SIA) is advocating nationwide for policies ensuring responsible use and sensible ..."
+    publishedDateTime: 2021-07-12T22:00:00Z
+    webUrl: "https://www.securityinfowatch.com/access-identity/biometrics/facial-recognition-solutions/article/21230121/security-industry-association-sia-most-state-legislatures-have-rejected-bans-and-severe-restrictions-on-facial-recognition"
+    type: article
+    provider:
+      name: Security
+      domain: securityinfowatch.com
+    quality: 30
+    images:
+      - url: "https://img.securityinfowatch.com/files/base/cygnus/siw/image/2021/07/bigstock_Facial_Recognition_System_Iden_387020311.60ecba89a36b9.png?auto=format&fit=max&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
+
+secured: "s97KvD8QaCSExxq2Kbh046IEiFtjk6rV3nEqDUtXo/ReDK2zRFVJF+U42g790E6qoPa4Mp51RBj9EN5FDDYtlUzQb6KDeBmlxdTEI5R3JjEoGfFhQ394vWGObawLUfG8SbeV02Kl4HQgAYe1Dqc7hNMQWz4Vp5Ds+Qzyhnq1XC6jN0KMn5JwNNgB8xcCuC+plYdcYDAoTvHYocURCFS/d1iWph3RdgLto1AxnP9dLdYY/ULTFchx3amgIlwk5bs1onSxUAEKeYWWj9qUqYVJvVNE8gMlA8HDwR2idsa6ldEDUbd9Go+vjQD7zJoaKmc7JWQiViKflwo0IyKpdJBifStZz5/PnLV3AZVNpllE7jA=;TEf1VWEtntOBqSy0nRp4ZQ=="
+---
+

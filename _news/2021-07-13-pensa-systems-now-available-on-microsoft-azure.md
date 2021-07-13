@@ -62,18 +62,18 @@ related:
         height: 504
         isCached: true
   - title: "Icertis Recognized as the Winner of 2021 Microsoft AI Partner of the Year"
-    excerpt: "Icertis, the contract intelligence company that pushes the boundaries of what's possible with contract lifecycle management (CLM),"
-    publishedDateTime: 2021-07-13T13:05:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/icertis-recognized-as-the-winner-of-2021-microsoft-ai-partner-of-the-year-301332517.html"
+    excerpt: "Icertis, the contract intelligence company that pushes the boundaries of what’s possible with contract lifecycle management (CLM), announced today that it has won the Artificial Intelligence (AI) 2021 Microsoft Partner of the Year Award and been named a Finalist of the Global ISV Microsoft Partner of the Year Award for the fourth year in a row."
+    publishedDateTime: 2021-07-13T14:39:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/business-technology-7880c36a2b9c25fd0f7cfb1576df70b6"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
+      name: Associated Press
+      domain: apnews.com
     quality: 53
     images:
-      - url: "https://mma.prnewswire.com/media/371539/Icertis_Logo.jpg?p=facebook"
-        width: 800
-        height: 419
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
   - title: "Sierra Wireless Partners with Microsoft to Enable Advanced Asset Tracking Capabilities via Azure IoT Central"
     excerpt: "Sierra Wireless’ Acculink managed IoT solution integrated with Microsoft Azure IoT Central brings simplicity, extra functionality and capabilities for customersVANCOUVER, British Columbia--(BUSINESS WIRE)--Sierra Wireless (NASDAQ: SWIR) (TSX: SW),"

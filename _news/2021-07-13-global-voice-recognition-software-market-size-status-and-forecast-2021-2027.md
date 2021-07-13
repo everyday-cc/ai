@@ -97,6 +97,15 @@ related:
         width: 390
         height: 220
         isCached: true
+  - title: "Global Artificial Intelligence in Construction Market Size, Status and Forecast 2021-2027"
+    excerpt: "Pages Report] Check for Discount on Global Artificial Intelligence in Construction Market Size, Status and Forecast 2021-2027 report by QYResearch Group. Market Analysis and Insights: Global Artificial Intelligence in Construction"
+    publishedDateTime: 2021-07-13T08:25:00Z
+    webUrl: "https://www.reportsnreports.com/reports/4662396-global-artificial-intelligence-in-construction-market-size-status-and-forecast-2021-2027.html"
+    type: article
+    provider:
+      name: ReportsnReports
+      domain: reportsnreports.com
+    quality: 8
   - title: "Global Educational Robot Market (2021 to 2026) – Industry Trends, Share, Size, Growth, Opportunity and Forecasts – ResearchAndMarkets.com"
     excerpt: "Global Industry Trends, Share, Size, Growth, Opportunity and Forecast 2021-2026” report has been added to ResearchAndMarkets.com’s offering. The global educational robot market exhibited strong growth during 2015-2020."
     publishedDateTime: 2021-07-12T14:08:00Z

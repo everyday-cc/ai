@@ -53,7 +53,7 @@
       "originalUrl": "https://www.crowdfundinsider.com/2021/07/177735-digital-transformation-microsoft-azure-cloud-platform-to-be-used-by-canadian-imperial-bank-of-commerce/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 135,
+      "heat": 125,
       "tags": null,
       "images": [
         {
@@ -119,6 +119,49 @@
         "name": "InfoQ",
         "domain": "infoq.com",
         "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-09-blue-prism-lateetud-inc-recognized-as-finalists-of-the-2021-microsoft-ai-partner-of-the-year.md",
+      "title": "Blue Prism & Lateetud, Inc. recognized as finalists of the 2021 Microsoft AI Partner of the Year",
+      "excerpt": "LONDON and AUSTIN, Texas and WASHINGTON, July 8, 2021 /PRNewswire/ -- Blue Prism® and Lateetud today announced that their joint solution has been",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/blue-prism-lateetud-inc-recognized-as-finalists-of-the-2021-microsoft-ai-partner-of-the-year-1030591185",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/blue-prism-lateetud-inc-recognized-as-finalists-of-the-2021-microsoft-ai-partner-of-the-year-1030591185",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-08T14:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -1041,6 +1084,49 @@
       ]
     },
     {
+      "path": "_news/2021-06-30-microsoft-ses-and-grc-showcase-azure-cloud-for-remote-missions-via-secure-govsat-connectivity-service.md",
+      "title": "Microsoft, SES and GRC Showcase Azure Cloud for Remote Missions via Secure GovSat Connectivity Service",
+      "excerpt": "Microsoft and SES, in partnership with GovSat and UK-based solutions provider GRC, came together to demonstrate how Microsoft Azure Machine Learning (ML) and Artificial Intelligence (AI)",
+      "sourceUrl": null,
+      "webUrl": "https://www.sharewise.com/us/news_articles/Microsoft_SES_and_GRC_Showcase_Azure_Cloud_for_Remote_Missions_via_Secure_GovSat_Connectivity_Servic_SES_SA_BusinessWireEN_20210630_0900",
+      "originalUrl": "https://www.sharewise.com/us/news_articles/Microsoft_SES_and_GRC_Showcase_Azure_Cloud_for_Remote_Missions_via_Secure_GovSat_Connectivity_Servic_SES_SA_BusinessWireEN_20210630_0900",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.sharewise.com/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBN25DVmc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--c57666f6d66355b95246dc83e12d8fa62ae90b7e/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCam9MY21WemFYcGxTU0lNTnpJd2VEUXdOQVk2QmtWVSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--54ba8c4ff5f2fefc4c50498b8082735189b821c8/Press_release_SES_MST_Cloud_Demo_Govt_users_highres.jpg?locale=us",
+          "width": 606,
+          "height": 404,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.sharewise.com/us/news_articles/Microsoft_SES_and_GRC_Showcase_Azure_Cloud_for_Remote_Missions_via_Secure_GovSat_Connectivity_Servic_SES_SA_BusinessWireEN_20210630_0900/amp",
+      "cdnAmpWebUrl": "https://www-sharewise-com.cdn.ampproject.org/c/s/www.sharewise.com/us/news_articles/Microsoft_SES_and_GRC_Showcase_Azure_Cloud_for_Remote_Missions_via_Secure_GovSat_Connectivity_Servic_SES_SA_BusinessWireEN_20210630_0900/amp",
+      "publishedDateTime": "2021-06-30T00:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "sharewise.com",
+        "domain": "sharewise.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-29-aisera-transforms-customer-experience-customer-service-with-ai-automation.md",
       "title": "AISERA Transforms Customer Experience & Customer Service with AI & Automation",
       "excerpt": "Aisera, the world's first AI Customer service that automates tasks, actions, and workflows for all organizations,",
@@ -1333,110 +1419,6 @@
       "topics": [
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-29-microsoft-brings-ai-to-github-to-create-a-smart-programing-copilot-tool.md",
-      "title": "Microsoft brings AI to GitHub to create a smart programing Copilot tool",
-      "excerpt": "Microsoft is making available a technical preview of a new Visual Studio Code extension that is designed to help programmers write code smarter and faster using AI technology from OpenAI.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/index.php/publisher/6291689/index.php/article/microsoft-brings-ai-to-github-to-create-a-smart-programing-copilot-tool/",
-      "originalUrl": "https://www.zdnet.com/index.php/publisher/6291689/index.php/article/microsoft-brings-ai-to-github-to-create-a-smart-programing-copilot-tool/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/hub/i/r/2021/06/30/0286f74b-453c-4472-b5c1-321b18475c78/thumbnail/770x578/d2adcf607032c90dd9ef0b94eb9d0a34/technical-visual-studio-code-extension.jpg",
-          "width": 770,
-          "height": 578,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-29T04:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-29-microsoft-brings-ai-to-github-to-create-a-smart-programming-copilot-tool.md",
-      "title": "Microsoft brings AI to GitHub to create a smart programming Copilot tool",
-      "excerpt": "Microsoft is making a technical preview of a new Visual Studio Code extension available that is designed to help programmers write code smarter and faster using AI technology from OpenAI.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/microsoft-brings-ai-to-github-to-create-a-smart-programing-copilot-tool/",
-      "originalUrl": "https://www.zdnet.com/article/microsoft-brings-ai-to-github-to-create-a-smart-programing-copilot-tool/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/hub/i/2021/06/29/bd54eff3-c9c7-4cf0-b714-606d46cc4cc7/githubcopilot.jpg",
-          "width": 1199,
-          "height": 478,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/microsoft-brings-ai-to-github-to-create-a-smart-programing-copilot-tool/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-brings-ai-to-github-to-create-a-smart-programing-copilot-tool/",
-      "publishedDateTime": "2021-06-29T04:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],

@@ -1,27 +1,21 @@
 ---
 category: news
 title: "NetApp Acquires Data Mechanics to Accelerate Spot Roadmap and Optimize Data Analytics and Machine Learning Workloads in the Cloud"
-excerpt: "NetApp® (NASDAQ:NTAP), a global, cloud-led, data-centric software company, today announced that it has acquired Data Mechanics, a managed platform provider for big"
-publishedDateTime: 2021-06-22T09:00:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/21/06/b21659418/netapp-acquires-data-mechanics-to-accelerate-spot-roadmap-and-optimize-data-analytics-and-machine-"
-webUrl: "https://www.benzinga.com/pressreleases/21/06/b21659418/netapp-acquires-data-mechanics-to-accelerate-spot-roadmap-and-optimize-data-analytics-and-machine-"
+excerpt: "Financial details of the transaction were not disclosed. At a time when on-premises and cloud enterprise data and application growth is exploding, use of analytics and machine learning to identify ... NetApp’s Public Cloud Services business unit."
+publishedDateTime: 2021-06-22T12:57:00Z
+originalUrl: "https://www.01net.it/netapp-acquires-data-mechanics-to-accelerate-spot-roadmap-and-optimize-data-analytics-and-machine-learning-workloads-in-the-cloud/"
+webUrl: "https://www.01net.it/netapp-acquires-data-mechanics-to-accelerate-spot-roadmap-and-optimize-data-analytics-and-machine-learning-workloads-in-the-cloud/"
 type: article
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: 01Net
+  domain: 01net.it
 
 topics:
   - AI in Finance
   - AI
   - Machine Learning
 
-images:
-  - url: "https://cdn.benzinga.com/files/imagecache/og_image_social_share_1200x630/sites/all/themes/bz2/images/bz-icon.png"
-    width: 1200
-    height: 630
-    isCached: true
-
-secured: "DkDW6IdVgZpnQQlP2r8RWM/mFnhKPPVeqvdDu527PUMQWus7TppaQuAeu5pc088glyoTqqjUdNXo/lzZfawaRDeLxfqpFRtViD6QModVa1A/Xyu/Oidg1z0Szuat4j5+jgusPg1dwcCkCw0u7mdIcdWgPK8v7LYglRZ3wWuqo7rENmF9Z58ug3/Fg+CmjsyG95X+qhBo/GsTZwC5dd59KdxjCHcf7NH2A7OXbs/6IYk6n8pv4NbeE1xQSFVu60Tm7FJBaaiD0n6onYUaRd/AgIWg8fSzgwNybokfbl78P913qW20cntbbSJkJoD6hwl0Go5GzIRVfxp+rlFcSPkwag+f8kQm7oGDJyHpz5/7oK0=;xW/JB9gPx8VGHboeOFcU6Q=="
+secured: "xZ934BXFXGJoGQ9OTOPwoEbWN6RL2Kty4bmsmVwGux/2x0RusV/Zb9IKln0AdSiOufzqDsyNg8/Xkbixwl6j20FnzE6H1fE0B2NFgw6KTPlUP3KQVcBh5KLdn0/Yu6TAsrGHZ6SOdYIyTbMWXu9v5FqWFJaj9VH1k6bMPgvmX5FyWsCumNU46w8+xrqeBqGmxgyPLW7S/3l9K3wzrMwDExnxC6ctrAImhnZMvWqF+DChJgZfAK1eUgmeFrw2+84ejPQU9kFpb13oHssjyfX2/RoYQYQW6cE8wj2zqVoOk7LtslwmmnM2CavQ66DUslmu2udZT5HcLAiwSK/STDnh++2zQo+gfAMArRrM/fKpg8w=;G7zUIiLXKi9kKIttQSZrLw=="
 ---
 

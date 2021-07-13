@@ -3,8 +3,8 @@ category: news
 title: "Carrington Associates weaves new hybrid cloud for SpinTel"
 excerpt: "It recently played a key role in building an AI program for the Federal Court, whereby IBM Watson was trained to understand consent orders and court outcomes. “IBM is committed to providing the ..."
 publishedDateTime: 2021-07-07T05:13:00Z
-originalUrl: "https://www.arnnet.com.au/article/689617/carrington-associates-weaves-new-hybrid-cloud-for-spintel/"
-webUrl: "https://www.arnnet.com.au/article/689617/carrington-associates-weaves-new-hybrid-cloud-for-spintel/"
+originalUrl: "https://www.arnnet.com.au/article/689617/carrington-associates-weaves-new-hybrid-cloud-spintel/"
+webUrl: "https://www.arnnet.com.au/article/689617/carrington-associates-weaves-new-hybrid-cloud-spintel/"
 type: article
 
 provider:
@@ -21,6 +21,6 @@ images:
     height: 533
     isCached: true
 
-secured: "x2o1mAf1SotAyvqCYp96mq7ht9seto1hEilqfcIQj9tVHsrkJeEfJnZEkZVdft8eOCuGZQrTInrtS0wmJV+F0ipLfVcNNRXgYDkzCmRz2BCaKe0QsAJEMXkAVKu9+8E1LdbJ7ax+vlyOXgzVpIZO5ToAnDU5Sd3OQ45DgeA9EyYcZdWKYKFuF/zGKTPCEESM2MZLbGWalyR/iuzkGCOwT2iYy1KH9RuF6lAvfnF68CMUf4PW/2GPdub7FWpXA5utcWzKUd02CQcGQMS6U2kgYAsiQVSve8T1vwWvn/gz0TAgdZNo1SBj9+SadCcASVDQ2Mitc4YKP+8rCwZc356BXikMbnN8VLcIzXga4F3hL5U=;DhfYuqCM59kMHCPM3HIyog=="
+secured: "eThVZyycBbpxCiJrLosHrRkFyYwLI5pzDGVOjU3LZOm9pZn9WJDA8qpWm+n6rbMm5exIUX9W+24swQF8N7I08r81yO6GwcQJA3uBJJS0U+T2GQkrw09tgfE1O7TyNCRoJPfPnuLHbeMMOOL49W2lacjd25jttloadJnL5FKPRnyenH9UuxyXlVseII/lKJVD9b4r1lgZIATo6nGYXUYu1Sl3PjUEHS18s+WUlk13wLvuPbREN08ALxnRg376kGBjV8orFaWwAvBHGNaVdTLdfcaXPK8pw74qwOqT3hhiLfrRm8oIvvTEjP2DTTHFZ0Xvc8pKOGY/9haFZ7OhGx2f0qA1mdq3yrDO2kZsFoexMig=;DIGCMrh3ojyBtCTdMG4u1w=="
 ---
 

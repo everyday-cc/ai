@@ -44,6 +44,22 @@ related:
         width: 1200
         height: 960
         isCached: true
+  - title: "AI Success In The Supply Chain Depends On Human Augmentation"
+    excerpt: "It is only through human augmentation and understanding how everything works together that AI success in the supply chain will happen."
+    publishedDateTime: 2021-07-13T15:41:00Z
+    webUrl: "https://www.forbes.com/sites/paulnoble/2021/07/13/ai-success-in-the-supply-chain-depends-on-human-augmentation/"
+    ampWebUrl: "https://www.forbes.com/sites/paulnoble/2021/07/13/ai-success-in-the-supply-chain-depends-on-human-augmentation/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/paulnoble/2021/07/13/ai-success-in-the-supply-chain-depends-on-human-augmentation/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 89
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60edae973c02fcc76f59d7ab%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1271%26cropY1%3D1%26cropY2%3D716"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "1/lKeeheY3Vg/Wz7O9/h0ODG8/0f+/9bRbPkVDuHmVrjQfOrU7xhEJnwWlHWKfrFAQ80jlctSRXhrbXNNyY994LllD4j3X52ZhP+KnMe2r4q4NMzsNSdeZ0mnKEoKPYJt+brbJU2HUxRgXUEjRg28XzxHQoi+9MqAJJ7wgQsz3iC6XRax3FALpaWtYWGOLJbJ+cfKxEt5907drdi04zX+FJ3rNBteJhuv2cKLdI57xXe7PAUPsIIJ5SAp+RKqifBoKyJs9Wdg8LTlJd7VrtAAe6h3Auc0+P6B3n5crltOurD/McxBg1iS6QI7Bs9cnMIB/F3S6w4ai9vFM09UqBIuWVux049BNEU55GJQIiYhrRPyLWvFCxD18e9DTjxjmwyRAtquQvg3NbZLAzP0TSl5oNZQZ2lR9UWMu/7X0Fg2GRI4VEdVkgKE8ugxUjHfE0ozI3DWO93VG2BAj5FXRRAITmSP9+izGj2T3TH/ahwvaD5lLyrCJp+x0Q/9EvvUQk2HhmTD4ZkmLhPKfSgxiv27w==;wZmw5AFA5cIK7J4nuZjLvQ=="
 ---

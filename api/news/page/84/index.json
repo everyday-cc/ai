@@ -2,6 +2,378 @@
   "page": 84,
   "value": [
     {
+      "path": "_news/2021-05-12-accenture-receives-aws-canadian-partner-of-the-year-award-for-public-sector-innovation-and-services.md",
+      "title": "Accenture Receives AWS Canadian Partner of the Year Award for Public Sector Innovation and Services",
+      "excerpt": "Accenture (NYSE: ACN) has received a Public Sector Partner of the Year award from Amazon Web Services, Inc. (AWS),",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/accenture-receives-aws-canadian-partner-of-the-year-award-for-public-sector-innovation-and-services-1030421844",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/accenture-receives-aws-canadian-partner-of-the-year-award-for-public-sector-innovation-and-services-1030421844",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-12T09:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-12-klas-government-launches-markets-first-tactical-gpu-that-extends-aiml-to-network-edge.md",
+      "title": "Klas Government Launches Market's First Tactical GPU That Extends AI/ML To Network Edge",
+      "excerpt": "Klas Government, which makes the world's most powerful, low-SWaP technology for the extreme tactical edge, today announced the availability",
+      "sourceUrl": null,
+      "webUrl": "https://www.prnewswire.com/news-releases/klas-government-launches-markets-first-tactical-gpu-that-extends-aiml-to-network-edge-301290044.html",
+      "originalUrl": "https://www.prnewswire.com/news-releases/klas-government-launches-markets-first-tactical-gpu-that-extends-aiml-to-network-edge-301290044.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1508871/Voyager_GPU_video_v5_01.mp4?p=medium",
+          "width": 512,
+          "height": 288,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-12T09:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PR Newswire",
+        "domain": "prnewswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-05-12-ai-helps-predict-treatment-outcomes-for-patients-with-diseased-dental-implants.md",
+      "title": "AI helps predict treatment outcomes for patients with diseased dental implants",
+      "excerpt": "Peri-implantitis, a condition where tissue and bone around dental implants becomes infected, besets roughly one-quarter of dental implant patients, and currently there's no reliable way to assess how patients will respond to treatment of this condition.",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/news/2021-05-ai-treatment-outcomes-patients-diseased.html",
+      "originalUrl": "https://medicalxpress.com/news/2021-05-ai-treatment-outcomes-patients-diseased.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2019/dentalimplant.jpg",
+          "width": 1920,
+          "height": 1280,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://medicalxpress.com/news/2021-05-ai-treatment-outcomes-patients-diseased.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-05-ai-treatment-outcomes-patients-diseased.amp",
+      "publishedDateTime": "2021-05-12T09:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-12-prescryptive-health-welcomes-dr-luyuan-fang-as-chief-ai-and-data-officer.md",
+      "title": "Prescryptive Health Welcomes Dr. Luyuan Fang as Chief AI and Data Officer",
+      "excerpt": "Prescryptive Health, a healthcare technology company focused on empowering consumers by improving the way healthcare is delivered, announced today that Dr. Luyuan Fang",
+      "sourceUrl": null,
+      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/prescryptive-health-welcomes-dr-luyuan-fang-as-chief-ai-and-data-officer/article_790d98b9-9402-549b-b3bc-a47db8fea650.html",
+      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/prescryptive-health-welcomes-dr-luyuan-fang-as-chief-ai-and-data-officer/article_790d98b9-9402-549b-b3bc-a47db8fea650.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/d/89/d892fd77-7368-562a-be8d-1881c85f422d/609bfbc1d2689.image.jpg?resize=630%2C630",
+          "width": 630,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-12T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WFMZ-TV",
+        "domain": "wfmz.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-12-yelp-built-an-ai-system-to-identify-spam-and-inappropriate-photos.md",
+      "title": "Yelp built an AI system to identify spam and inappropriate photos",
+      "excerpt": "Yelp's engineers built a multi-part AI system to help identify spam and inappropriate photos across the company's platform.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/05/12/yelp-built-an-ai-system-to-identify-spam-and-inappropriate-photos/",
+      "originalUrl": "https://venturebeat.com/2021/05/12/yelp-built-an-ai-system-to-identify-spam-and-inappropriate-photos/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/03/Yelp-e1594622799259.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/05/12/yelp-built-an-ai-system-to-identify-spam-and-inappropriate-photos/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/12/yelp-built-an-ai-system-to-identify-spam-and-inappropriate-photos/amp/",
+      "publishedDateTime": "2021-05-12T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2021-05-12-sparkcognition-government-systems-and-intrinsic-awarded-united-states-air-force-contract-to-improve-training-program-using-ai.md",
+      "title": "SparkCognition Government Systems and Intrinsic Awarded United States Air Force Contract to Improve Training Program Using AI",
+      "excerpt": "SparkCognition Government Systems (SGS), the first full-spectrum artificial intelligence (AI) company devoted entirely to government and national defense, is pleased to announce that along with Intrinsic Enterprises Inc,",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/pr-newswire/united-states-business-technology-0693d6e15344b2660cfdcc8bc7082b2f",
+      "originalUrl": "https://apnews.com/press-release/pr-newswire/united-states-business-technology-0693d6e15344b2660cfdcc8bc7082b2f",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-12T08:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-12-deepmind-wants-to-use-ai-to-transform-soccer.md",
+      "title": "DeepMind Wants to Use AI to Transform Soccer",
+      "excerpt": "The Alphabet-owned company is working with Liverpool to bring computer vision and statistical learning to the high-stakes world of sports.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/deepmind-wants-to-use-ai-to-transform-soccer/",
+      "originalUrl": "https://www.wired.com/story/deepmind-wants-to-use-ai-to-transform-soccer/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 134,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/609b2c09f909f0e41019355b/191:100/w_1280,c_limit/business_liverpool_1232769694.jpg",
+          "width": 1280,
+          "height": 670,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-12T08:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-12-datarobots-zepl-acquisition-bridges-the-ai-divide.md",
+      "title": "DataRobot’s Zepl acquisition bridges the AI divide",
+      "excerpt": "DataRobot acquires Zepl to bridge the divide between end users, business analysts, and data science teams relying on open source toolkits.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/05/12/datarobots-zepl-acquisition-bridges-the-ai-divide/",
+      "originalUrl": "https://venturebeat.com/2021/05/12/datarobots-zepl-acquisition-bridges-the-ai-divide/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/05/DataRobot-Composable-AI.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/05/12/datarobots-zepl-acquisition-bridges-the-ai-divide/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/12/datarobots-zepl-acquisition-bridges-the-ai-divide/amp/",
+      "publishedDateTime": "2021-05-12T07:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-05-12-lasers-levitation-and-machine-learning-make-better-heat-resistant-materials.md",
       "title": "Lasers, levitation and machine learning make better heat-resistant materials",
       "excerpt": "Scientists across several disciplines have combined forces to create a new process for testing and predicting the effects of high temperatures on refractory oxides.",
@@ -784,359 +1156,6 @@
       "topics": [
         "Microsoft AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-12-grant-awarded-to-develop-artificial-intelligence-to-improve-stroke-screening-and-treatment.md",
-      "title": "Grant awarded to develop artificial intelligence to improve stroke screening and treatment",
-      "excerpt": "New artificial intelligence technology that uses a common CT angiography (CTA) as opposed to the more advanced imaging normally required to help identify patients who could benefit from endovascular stroke therapy (EST) is being developed at UTHealth.",
-      "sourceUrl": null,
-      "webUrl": "https://www.eurekalert.org/pub_releases/2021-05/uoth-gat051221.php",
-      "originalUrl": "https://www.eurekalert.org/pub_releases/2021-05/uoth-gat051221.php",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://eurekalert.org/multimedia/pub/web/264837_web.jpg",
-          "width": 600,
-          "height": 549,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-11T21:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "EurekAlert!",
-        "domain": "eurekalert.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-12-ai-analog-chip-startup-mythic-raises-70-million.md",
-      "title": "AI analog chip startup Mythic raises $70 Million",
-      "excerpt": "Mythic, a startup making artificial intelligence chips for use in gadgets such as smart home devices or security cameras, on Tuesday said it raised $7..",
-      "sourceUrl": null,
-      "webUrl": "https://cio.economictimes.indiatimes.com/news/next-gen-technologies/ai-analog-chip-startup-mythic-raises-70-million/82565981",
-      "originalUrl": "https://cio.economictimes.indiatimes.com/news/next-gen-technologies/ai-analog-chip-startup-mythic-raises-70-million/82565981",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://etimg.etb2bimg.com/thumb/msid-82565981,imgsize-35602,width-800,height-434,overlay-etcio/ai-analog-chip-startup-mythic-raises-70-million.jpg",
-          "width": 800,
-          "height": 434,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/ai-analog-chip-startup-mythic-raises-70-million/82565981",
-      "cdnAmpWebUrl": "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/ai-analog-chip-startup-mythic-raises-70-million/82565981",
-      "publishedDateTime": "2021-05-11T20:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India Times",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-12-jumping-robot-looks-like-a-product-of-doctor-wily.md",
-      "title": "Jumping Robot Looks Like A Product Of Doctor Wily",
-      "excerpt": "We love it when footage of a robot prompts a “holy crap” response from us. This little guy, a product of the Chiba Institute of Technology, uses four rods as a suspension system for jumping.",
-      "sourceUrl": null,
-      "webUrl": "https://hackaday.com/2010/06/25/jumping-robot-looks-like-a-product-of-doctor-wily/",
-      "originalUrl": "https://hackaday.com/2010/06/25/jumping-robot-looks-like-a-product-of-doctor-wily/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "http://img.youtube.com/vi/QBYT2PeLxUk/0.jpg",
-          "width": 480,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-11T17:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hackaday",
-        "domain": "hackaday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-12-modular-robotics-made-easier-with-ros.md",
-      "title": "Modular Robotics Made Easier With ROS",
-      "excerpt": "A robot is made up of many hardware components each of which requires its own software. Even a small robot arm with a handful of servo motors uses a servo motor library. Add that arm to a wheeled ...",
-      "sourceUrl": null,
-      "webUrl": "https://hackaday.com/2018/05/31/modular-robotics-made-easier-with-ros/",
-      "originalUrl": "https://hackaday.com/2018/05/31/modular-robotics-made-easier-with-ros/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://hackaday.com/wp-content/uploads/2018/05/ros.jpg",
-          "width": 3000,
-          "height": 1815,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-11T17:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hackaday",
-        "domain": "hackaday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-12-new-system-allows-self-driving-cars-to-make-more-human-decisions.md",
-      "title": "New System Allows Self-Driving Cars to Make More Human Decisions",
-      "excerpt": "(Image source: Chelsea Turner) A team of scientists at MIT have created a system using simple maps and visual data to enable driverless cars to navigate ... director of the Computer Science and Artificial Intelligence Laboratory (CSAIL) and a professor ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.designnews.com/automation-motion-control/new-system-allows-self-driving-cars-make-more-human-decisions",
-      "originalUrl": "https://www.designnews.com/automation-motion-control/new-system-allows-self-driving-cars-make-more-human-decisions",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.designnews.com/sites/designnews.com/files/humanreasondriving.jpg",
-          "width": 639,
-          "height": 426,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-11T17:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Design News",
-        "domain": "designnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-12-our-reactions-to-the-treatment-of-robots.md",
-      "title": "Our Reactions To The Treatment Of Robots",
-      "excerpt": "Most of us have seen employees of Boston Dynamics kicking their robots, and many of us instinctively react with horror. More recently I’ve watched my own robots being petted, applauded for ...",
-      "sourceUrl": null,
-      "webUrl": "https://hackaday.com/2017/10/09/our-reactions-to-the-treatment-of-robots/",
-      "originalUrl": "https://hackaday.com/2017/10/09/our-reactions-to-the-treatment-of-robots/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://hackaday.com/wp-content/uploads/2017/10/relating.jpg",
-          "width": 3519,
-          "height": 2039,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-11T17:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hackaday",
-        "domain": "hackaday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-12-softbanks-son-expects-mass-production-of-driverless-cars-in-two-years.md",
-      "title": "SoftBank’s Son expects mass production of driverless cars in two years",
-      "excerpt": "Son, who made his name for investing early in startups such as China's Alibaba Group had said he will continue to take stakes in public companies he thinks are frontrunners in the artificial ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.thestar.com.my/tech/tech-news/2021/02/01/softbank039s-son-expects-mass-production-of-driverless-cars-in-two-years",
-      "originalUrl": "https://www.thestar.com.my/tech/tech-news/2021/02/01/softbank039s-son-expects-mass-production-of-driverless-cars-in-two-years",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apicms.thestar.com.my/uploads/images/2021/01/31/1027826.jpg",
-          "width": 1240,
-          "height": 826,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-11T17:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Star",
-        "domain": "thestar.com.my",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-11-build-a-cognitive-search-and-a-health-knowledge-graph-using-aws-ai-services.md",
-      "title": "Build a cognitive search and a health knowledge graph using AWS AI services",
-      "excerpt": "Medical data is highly contextual and heavily multi-modal, in which each data silo is treated separately. To bridge different data, a knowledge graph-based approach integrates data across domains and helps represent the complex representation of scientific knowledge more naturally. For example, three",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/build-a-cognitive-search-and-a-health-knowledge-graph-using-amazon-healthlake-amazon-kendra-and-amazon-neptune/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/build-a-cognitive-search-and-a-health-knowledge-graph-using-amazon-healthlake-amazon-kendra-and-amazon-neptune/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 102,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/05/07/3-2590.jpg",
-          "width": 800,
-          "height": 471,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-11T16:39:28-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
       ]
     }
   ],

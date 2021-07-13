@@ -41,6 +41,22 @@ related:
         width: 640
         height: 355
         isCached: true
+  - title: "Chinese City Using Facial Recognition Tech To Fight Coronavirus"
+    excerpt: "Facial recognition tech linked to personal health codes has been rolled out in a Chinese city bordering Myanmar as authorities seek to squash a coronavirus outbreak."
+    publishedDateTime: 2021-07-13T14:11:00Z
+    webUrl: "https://www.ndtv.com/world-news/china-using-facial-recognition-tech-to-fight-coronavirus-2485824"
+    ampWebUrl: "https://www.ndtv.com/world-news/china-using-facial-recognition-tech-to-fight-coronavirus-2485824?amp=1&akamai-rum=off"
+    cdnAmpWebUrl: "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/world-news/china-using-facial-recognition-tech-to-fight-coronavirus-2485824?amp=1&akamai-rum=off"
+    type: article
+    provider:
+      name: NDTV
+      domain: ndtv.com
+    quality: 59
+    images:
+      - url: "https://c.ndtvimg.com/2021-07/90pei86s_china-covid-ruili-afp-650_625x300_13_July_21.jpg"
+        width: 650
+        height: 400
+        isCached: true
   - title: "COVID-19: Facial recognition tech fights coronavirus in Chinese city"
     excerpt: "BEIJING: Facial recognition tech linked to personal health codes has been rolled out in a Chinese city bordering Myanmar as authorities seek to squash a coronavirus outbreak. China is one of the world’s most surveilled countries,"
     publishedDateTime: 2021-07-13T10:01:00Z
@@ -56,6 +72,22 @@ related:
       - url: "https://imagevars.gulfnews.com/2021/07/13/Ruili-1626170218791_17a9f4c592b_medium.jpg"
         width: 540
         height: 405
+        isCached: true
+  - title: "Farmington Hills man misidentified by facial recognition technology testifies at Congressional hearing"
+    excerpt: "The Farmington Hills man who has sued Detroit police after being wrongfully identified by the department's facial recognition technology in a shoplifting investigation is testifying in front of a congressional subcommittee Tuesday."
+    publishedDateTime: 2021-07-13T14:59:00Z
+    webUrl: "https://www.fox2detroit.com/news/farmington-hills-misidentified-by-detroit-police-facial-recognition-technology-testifies-in-congress"
+    ampWebUrl: "https://www.fox2detroit.com/news/farmington-hills-misidentified-by-detroit-police-facial-recognition-technology-testifies-in-congress.amp"
+    cdnAmpWebUrl: "https://www-fox2detroit-com.cdn.ampproject.org/c/s/www.fox2detroit.com/news/farmington-hills-misidentified-by-detroit-police-facial-recognition-technology-testifies-in-congress.amp"
+    type: article
+    provider:
+      name: WJBK
+      domain: fox2detroit.com
+    quality: 43
+    images:
+      - url: "https://images.foxtv.com/static.fox2detroit.com/www.fox2detroit.com/content/uploads/2021/04/932/470/wjbk-facial-recognition-aclu-lawsuit.jpg?ve=1&tl=1"
+        width: 932
+        height: 470
         isCached: true
 
 secured: "nXarITmQgRnKaADGnsQxpft1kX3pyctHZDKhuESgsyUpxbePvOLJI9/JZDbFIC4vZfxsRmohSO79fz+WwFPpy39LxUMrkHbDsN1WGvcdN38ZzBf893qXy3ZEUzPWqTZYBXcRxb5K6NigGtlM3eTDhAMqi0P+QxYxH4i4xnas8ke41oSDCrbY1Ti3rrWJDs6T2pkob/eTWmauGqKL5HSEIM0ndHq/70N5dmxeHRyDaq3ak3GQnsCjdo3977oJkHpq8LbI9zmtgC0y2GoUU+MbNDQOFEbZl+AB8FHQRi8j9Vo5o5x+b5gaNsgH2PU9yWM5hVNCObIvq0MhZcixxLhs4RMewb5cPXbnRfa5aJWnzcyr6yfxFGlTFO4JSgBhhy6HWMSTNg3qpTENun5cRTl0VAjX47cz2JWD5R+5REzBv/9l+W79/kRUDuCLUaaitCEc/cV2a1rLuFUkNLQv7KrIxXf6mjuDaB6wUO7UxaFzKBili3AoEhdKmw+RIUdKwaoK0gynYj44z86bySnAye//kw==;ilSVqF1th0aWFhqEdokRlw=="

@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/dynamic-a-b-testing-
 webUrl: "https://aws.amazon.com/blogs/machine-learning/dynamic-a-b-testing-for-machine-learning-models-with-amazon-sagemaker-mlops-projects/"
 type: article
 quality: 114
-heat: 134
+heat: 124
 published: true
 
 provider:
@@ -43,20 +43,6 @@ related:
       - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/06/30/ML1688-image003.png"
         width: 831
         height: 568
-        isCached: true
-  - title: "Announcing managed inference for Hugging Face models in Amazon SageMaker"
-    excerpt: "Hugging Face is the technology startup, with an active open-source community, that drove the worldwide adoption of transformer-based models thanks to its eponymous Transformers library. Earlier this year, Hugging Face and AWS collaborated to enable you to train and deploy over 10,000 pre-trained models"
-    publishedDateTime: 2021-07-08T22:59:17Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/announcing-managed-inference-for-hugging-face-models-in-amazon-sagemaker/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 88
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png"
-        width: 768
-        height: 385
         isCached: true
 
 secured: "Xt4frbtPvO8AQwQOMsrCyaKOaN6plOQw3kNUnVoZtvhBkWVgc35/NcD9Lw+M9WPg8hWfZdwbVKFeMj+MIhlWl7713DeCbzeAzKJVm7yVyt1TC0+uH6TAHLqsNXhn86fNWimomPmWM1m3ZXPw10Y+xhIwM0r/bYvp19VYRoaQ8JpSsZReg3DB3LuWAAQ1fWzvX/B4sDgt4qNornKXcatN5IYpanduBmgjPiCeLV0Yq2lM6hVz71rQlYZGvc4nCyUdM/Dzs+IfS3CscuMxXuSQAek/rpxsowQm8Wp/89UJBtHnWW4GNzhSEVJ3wlcsyH9cP2ajbJ0r8tb0c+Uclq2hJ8QSJaZm7V9T9nyEWsrNy8E=;lw9hnUqd9CTgMtLORIFiVw=="

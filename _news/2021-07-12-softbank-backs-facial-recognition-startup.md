@@ -75,20 +75,6 @@ related:
         width: 1440
         height: 810
         isCached: true
-  - title: "Tencent Uses Facial Recognition to Ban Kids Gaming Past Bedtime"
-    excerpt: "In the latest bid to curb video-game addiction in China, tech giant Tencent Holdings Ltd. has launched a facial recognition system to stop minors gaming into the night. The initiative will prevent people under 18 from playing between 10 p.m. and 8 a.m. The ..."
-    publishedDateTime: 2021-07-08T22:41:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2021-07-08/tencent-uses-facial-recognition-to-ban-kids-gaming-past-bedtime"
-    type: article
-    provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 69
-    images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iy2UcpOVPA7k/v0/1200x800.jpg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Tencent’s face recognition tech stops kids from late-night gaming in China"
     excerpt: "Chinese tech company Tencent has announced that it is using facial recognition on mobile phones software to stop children from playing games late at night. According to The Register, Tencent sent out a press release stating that players will need to use facial recognition software that stops children playing between 10pm and 8am."
     publishedDateTime: 2021-07-09T01:10:00Z
@@ -199,6 +185,20 @@ related:
       - url: "https://s31242.pcdn.co/wp-content/uploads/2021/07/GettyImages-857382022.jpg"
         width: 1024
         height: 628
+        isCached: true
+  - title: "Facial Recognition Is Doing Harm Right Now. It’s Unacceptable for Lawmakers To Do Anything Other Than Ban It."
+    excerpt: "The House Judiciary Committee is holding a hearing today on facial recognition technology. They’re expected to discuss a wide range of issues including the recent GAO report on federal government use of facial recognition and the Facial Recognition and Biometric Technology Moratorium Act."
+    publishedDateTime: 2021-07-13T15:27:00Z
+    webUrl: "https://www.commondreams.org/newswire/2021/07/13/facial-recognition-doing-harm-right-now-its-unacceptable-lawmakers-do-anything"
+    type: article
+    provider:
+      name: Common Dreams
+      domain: commondreams.org
+    quality: 20
+    images:
+      - url: "https://www.commondreams.org/sites/default/files/styles/media_image_1x_xl/public/2021-07/merkel-white-house-3600x2367.jpg?h=5526124e&itok=T129sNw1"
+        width: 391
+        height: 221
         isCached: true
 
 secured: "b9vHE0Isr9+8SjpAbpyEJNawhv7KyCH2GL0Li36jIF2eayatJVAZZcj2xVbOnLrbaTfHgrv96p/9+rpmH8mDHOKkvvWxV+yDsL+Nv/yIpskmgada6h/QwIZNObPUO5Q7RM+7zvq2pTZJkraQoweQwLn72IIEgqjdgGK4hc64JqMZEQ2w/K3AtOE2pYrJfQTZYnZCKh8QAX0ExbjtCfKmNNRzJW6JFB8of0z3CgSKvO/fgSE3Bws/UIWCI4w33C4PCUg7aDz+cFSG9l5L1+fpxtCtzBCzkKBHrImvroYNpLcSpJ9AiIMaovVs/cKHs3ipFckHzVJpc0b05Fr1ujqf+YICyY+URABd8FIz9bA7mcCUETEF0EFBMLAYAmDGvgWyMUZtS3SKHfppAR1loCDPPlY5nrVd7MZ3RLpfB4Z2ug5jucFCz3EGmCUL597/yYNVT4qw1vpyFbOhTvfjpTEZfdN7SY+UgRAN1QQm2vg89Kb8/vWyopWL7xBCafivvh2G/TtdCbdQlRAPKhX+GEDanA==;rNTV7uMpOs2cpl83dyBtUA=="

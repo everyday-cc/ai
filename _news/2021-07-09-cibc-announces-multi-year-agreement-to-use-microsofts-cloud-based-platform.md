@@ -53,20 +53,6 @@ related:
         width: 620
         height: 250
         isCached: true
-  - title: "Microsoft aims to expedite new edge computing use cases with Azure Percept"
-    excerpt: "With the modern cloud landscape nearing a point of saturation in terms of bandwidth, 5G combined with edge computing and AI looks to further ... silicon and telecom, Azure edge devices, and ..."
-    publishedDateTime: 2021-07-08T21:36:00Z
-    webUrl: "https://siliconangle.com/2021/07/08/microsoft-aims-expedite-new-edge-computing-use-cases-azure-percept-mwc21/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 67
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/07/Pete-Bernard-Mobile-World-Congress-2021.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Microsoft (MSFT) Azure Cloud Leveraged by Canada-Based CIBC"
     excerpt: "Microsoft’s MSFT Azure cloud platform is being leveraged by Canadian Imperial Bank of Commerce (“CIBC”) to revamp its business operations, boost operational efficiency and enhance client experiences."
     publishedDateTime: 2021-07-12T14:40:00Z

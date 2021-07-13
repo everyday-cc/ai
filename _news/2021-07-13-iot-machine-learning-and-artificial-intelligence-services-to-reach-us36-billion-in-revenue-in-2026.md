@@ -1,39 +1,25 @@
 ---
 category: news
 title: "IoT Machine Learning and Artificial Intelligence Services to Reach US$3.6 Billion in Revenue in 2026"
-excerpt: "The pandemic accelerated ML and AI in the IoT to manage and find insights into increasing volumes of data. LONDON,  /PRNewswire/ -- The next wave of Internet of Thing"
-publishedDateTime: 2021-07-13T08:06:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-iot-machine-learning-artificial-intelligence-services-reach-us36-/2021/07/13/9407215.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-iot-machine-learning-artificial-intelligence-services-reach-us36-/2021/07/13/9407215.htm"
+excerpt: "The next wave of Internet of Things (IoT) analytics development will fully converge with the Big Data domain. Simultaneously, the value"
+publishedDateTime: 2021-07-13T08:00:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/21/07/n21949601/iot-machine-learning-and-artificial-intelligence-services-to-reach-us-3-6-billion-in-revenue-in-20"
+webUrl: "https://www.benzinga.com/pressreleases/21/07/n21949601/iot-machine-learning-and-artificial-intelligence-services-to-reach-us-3-6-billion-in-revenue-in-20"
+ampWebUrl: "https://www.benzinga.com/amp/content/21949601"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/21949601"
 type: article
-quality: 19
-heat: -1
+quality: 39
+heat: 39
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
-  - AI
   - Machine Learning
+  - AI
 
-related:
-  - title: "Edge AI Software Market Generated $600 Million Revenue in 2020: P&S Intelligence"
-    excerpt: "The surging number of applications being deployed on the cloud in several industries, rapid improvements being made in the internet of things (IoT)"
-    publishedDateTime: 2021-07-13T07:00:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/edge-ai-software-market-generated-600-million-revenue-in-2020-p-s-intelligence/article_a6f64fb4-bc14-5b69-b184-c25b39087d0a.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 36
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/0/ac/0acc1671-6fcd-5e01-8335-549b973f4ca4/60867deb6fe15.image.jpg?resize=1200%2C504"
-        width: 1200
-        height: 504
-        isCached: true
-
-secured: "INMTovGyMigkOf88BWvUlK5J8yJSa3V8+SgXnVfvvR6misWJrmCP7j8LXEWyHRGXfQsGQznZQoUefyFAA83nrUhZNdV7UVoPD1q6PwgpnwxOL6/VVjluXhvqHymowB4Cqb8Tto95PNHS5f2vxIO509WgUbuGr4OGVfByxf6TFWfuzzfQx7gF3/cBzf9o48h+pzUns1aG3kwQSc37G6GVlZgA9cgcpUE6+lvTL9FrC4F0lcESGW5KLBNKzSLS4wcuDdLAeC3fs+ps74w4txGcuFZsx8CEIJZqKoagIAclDnj5eg14E1FcPJlW5vvaWGLSpR9ew2Os/RuqwKShPRwQTXcqlC427hUb74fZQDjSi20=;5GhP56oxSOkmT606ACqvUw=="
+secured: "ASUvENosuJSNFiAXBFqaCgE7RwShifuQF2VVG+Wltt0AzuMli7ICsznYMJkaBGmEgvIvQxQudxH+n9huz/9qE3GoyYZfoevALieDUhgQflzx/qsBofbUtZeLKc1/STMYvWou/F6AhCmbZHW+iYAVb05GGXNV/tbNLYOQMWRcJ85nlTo1d46vDVQeSn16IKhvLoNZNsK8yKl7WPWuVLG9EuLK9Ig5qXTTjOol0rqNkBWFqBi34AMg1HvyLYHnkpzNNKtYJhmBVWas17PMyCUX11SjOJd5700Hvi3cZxti/aicsATmKpFBFLD3mjaL4v6iCsWFZr3VNJ8wTJi+EzWq/tW44GgA+1N7r7EtZimj9B4=;qPxCRpICQszuy0hoOP9gmw=="
 ---
 

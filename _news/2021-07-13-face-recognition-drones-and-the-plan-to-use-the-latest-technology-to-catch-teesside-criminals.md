@@ -41,6 +41,20 @@ related:
         width: 2400
         height: 1571
         isCached: true
+  - title: "Push to put Cleveland Police at 'forefront' of face recognition technology"
+    excerpt: "MAKING Cleveland a leader in face recognition software is in the sights of a new police boss. South Wales Police and the Metropolitan Police have piloted the use of cameras to find suspects. But there have been some problems since their launch – with concerns from civil liberties campaigners and devices used in Wales ruled unlawful in 2020."
+    publishedDateTime: 2021-07-13T14:25:00Z
+    webUrl: "https://www.thenorthernecho.co.uk/news/19439546.push-put-cleveland-police-forefront-face-recognition-technology/"
+    type: article
+    provider:
+      name: The Northern Echo
+      domain: thenorthernecho.co.uk
+    quality: 37
+    images:
+      - url: "https://www.thenorthernecho.co.uk/resources/images/12717885/"
+        width: 2400
+        height: 1600
+        isCached: true
 
 secured: "brSjxPUJ6i/mKWyOWOnM4RTMgQKK1MfqXFkWkroXVtSZ7zUhp6+VsCXQRB5q5XQ0qIwzZ9JazVTs5r2KpnCxX+fyk4A58kFqRXnGJWjjmt/KxPqkJKChqwCMe8habXREarl5dwJ0oJYqV7pZdJ6WplpImgkF1kIq8PDP/p39p2Lr/Nsn3WEpoCyq+WymkKGt769ABu0V9c2rcN7StMJX1boTLDUtXVVyoKEm5CnQ6x7sZ8iM8+zcJJxqoEfj9qOrIETzBUZEoh8FilLJaJy2o4O4nEocK8w8+ULvOW4o9xuIOjplKvCwZBCbXxf+7hmWDNTvnFWQvq+FYfiEVw1yif0qEK1cCUUYhjN7mulguePTL3JKkGNbmFcNHbM3MV9yag50vOPLWlKKj/dQMT0ZS5USxz1ZCqzVHXwamTwvfTaN6kfuRFigxpEOBXTeVWyAhTXJq0Gc0Ve1bEFbOip2DA5jP69qDk1RnE3HiY8F3O4CVIkO7ARHAYkwi4a6wulYiKKyPEd2+AeKan+3mH5zEQ==;9ekIZIjKUDr1yl0RRkBfmw=="
 ---

@@ -1,29 +1,29 @@
 ---
 category: news
 title: "AI giants can benefit other nations"
-excerpt: "In the race to become the leader in artificial intelligence, China and the United States are way ahead of the rest of the world."
-publishedDateTime: 2021-07-13T02:55:00Z
-originalUrl: "https://www.khmertimeskh.com/50892659/ai-giants-can-benefit-other-nations/"
-webUrl: "https://www.khmertimeskh.com/50892659/ai-giants-can-benefit-other-nations/"
+excerpt: "China and the US are way ahead of the rest of the world. What does that mean for the other countries? Will these two global technology giants soak up the AI economic dividend all for themselves?"
+publishedDateTime: 2021-07-13T15:12:00Z
+originalUrl: "https://www.phnompenhpost.com/opinion/ai-giants-can-benefit-other-nations"
+webUrl: "https://www.phnompenhpost.com/opinion/ai-giants-can-benefit-other-nations"
 type: article
 quality: 39
 heat: 39
 published: false
 
 provider:
-  name: Khmer Times
-  domain: khmertimeskh.com
+  name: The Phnom Penh Post
+  domain: phnompenhpost.com
 
 topics:
-  - AI
   - AI Hardware
+  - AI
 
 images:
-  - url: "https://www.khmertimeskh.com/wp-content/uploads/2021/07/23745.jpg"
-    width: 750
-    height: 440
+  - url: "https://www.phnompenhpost.com/sites/default/files/field/image/china_has_established_a_skills_base_to_not_only_develop_ai_solutions_but_integrate_them_into_industries_too._china_daily.jpg"
+    width: 990
+    height: 660
     isCached: true
 
-secured: "4wcphTxYLxs2mnj9+cBKbnNG2UZfjqRTbD1V7lOXdGOxvBykgxTqEa5s2ldZgJJEtbA5aNw9xz/wTYvP+8KWJ9hvvia2Gu0nPCpFvuddTNtcqMqBF6o17k3e7h/HZ7Ece3Jxy8W4Jl8qQ/+MBfxzm6XUNqAhNA154VxrPsEWHUGy9ROXsx0DoxE2e+YpJ8zRM5Na0Wp7Y/gBthiDzTv5x4FhFwrJaH3RNLtvmbeFXIgl5pStjeCPKAxJMA5eXAKwvo4wtikzlZlFSU5dBeyWuMy6rL0yIoUe4rlQtsUqst58mrgY7EI1Mp9Hs7xPGp9i3teGolCNmvgyKdfgR1NL9XJa4mJ0WePCyQRtlmTF/Ho=;w/NcaW4a83YD0Msf6w4RLA=="
+secured: "BytRNz8zMpMPALV+BR/Fn5HWX2+uTI71uYVR/mq+Gyf2rh7nr64PjgzJYpJ961JhxeYZpTgQ8TpmnF+p3BqAlBtbimeTBUsF/hGsnuVobfNAmGNk3sBFKuaiRl8ownCSY+X57xL+i64Lxzurt05/mvnM2DjxsqaLm6Fda3fKPD0IRtQ2+40aP67UugNTAvG8yW6zVqGWz4esuyRrVtuKp4y+1gm3GCmUmVzfoY+OXybKzJPwNGxI2N4LUafwUZhOOtLjxYroKgGs8VWMp9UKrZY26ho83gcy8s3KY9Z+Pbjy57T4CNutMPvUISNxJ/OlbFlbYiVfjJrgsPt2scd1akTYSbrJfXF1HpOayV33cmo=;ROSbWV96mFd6VzD0ag3fGQ=="
 ---
 

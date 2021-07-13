@@ -2,6 +2,360 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2021-07-01-dells-199-ultrasharp-4k-webcam-has-ai-on-boardbut-no-microphone.md",
+      "title": "Dell’s $199 UltraSharp 4K webcam has AI on board—but no microphone",
+      "excerpt": "Dell's new UltraSharp camera takes aim at Logitech's high-end Brio with the same $199 price along with 4K resolution and Windows Hello-compatible infrared sensor. But despite sharing a price tag and many of the same specifications,",
+      "sourceUrl": null,
+      "webUrl": "https://arstechnica.com/gadgets/2021/06/dells-199-ultrasharp-4k-webcam-has-ai-onboard-but-no-microphone/",
+      "originalUrl": "https://arstechnica.com/gadgets/2021/06/dells-199-ultrasharp-4k-webcam-has-ai-onboard-but-no-microphone/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.arstechnica.net/wp-content/uploads/2021/06/ultrasharp-on-monitor-760x380.png",
+          "width": 760,
+          "height": 380,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-30T11:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-01-gores-holdings-vi-up-12-as-matterport-to-collaborate-with-facebook-ai-research.md",
+      "title": "Gores Holdings VI Up 12% as Matterport to Collaborate With Facebook AI Research",
+      "excerpt": "By Josh Beckerman Shares of blank-check company Gores Holdings VI Inc., which is merging with spatial data company Matterport, rose 12% to $16",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/story/gores-holdings-vi-up-12-as-matterport-to-collaborate-with-facebook-ai-research-271625075865",
+      "originalUrl": "https://www.marketwatch.com/story/gores-holdings-vi-up-12-as-matterport-to-collaborate-with-facebook-ai-research-271625075865",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 95,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.marketwatch.com/amp/story/gores-holdings-vi-up-12-as-matterport-to-collaborate-with-facebook-ai-research-271625075865",
+      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/gores-holdings-vi-up-12-as-matterport-to-collaborate-with-facebook-ai-research-271625075865",
+      "publishedDateTime": "2021-06-30T10:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-01-machine-learning-helps-in-predicting-when-immunotherapy-will-be-effective.md",
+      "title": "Machine learning helps in predicting when immunotherapy will be effective",
+      "excerpt": "When it comes to defense, the body relies on attack thanks to the lymphatic and immune systems. The immune system is like the body's own personal police force as it hunts down and eliminates pathogenic villains.",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/news/2021-06-machine-immunotherapy-effective.html",
+      "originalUrl": "https://medicalxpress.com/news/2021-06-machine-immunotherapy-effective.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2019/1-tumor.jpg",
+          "width": 1920,
+          "height": 1920,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://medicalxpress.com/news/2021-06-machine-immunotherapy-effective.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-06-machine-immunotherapy-effective.amp",
+      "publishedDateTime": "2021-06-30T10:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-30-an-update-on-our-progress-in-responsible-ai-innovation.md",
+      "title": "An update on our progress in responsible AI innovation",
+      "excerpt": "Over the past year, responsibly developed AI has transformed health screenings, supportedfact-checking to battle misinformation and save lives, predicted Covid-19 cases to support public health, and protected wildlife after bushfires. Developing AI in a way that gets it right for everyone requires openness,",
+      "sourceUrl": null,
+      "webUrl": "https://blog.google/technology/ai/update-our-progress-responsible-ai-innovation/",
+      "originalUrl": "https://blog.google/technology/ai/update-our-progress-responsible-ai-innovation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/social_share_graphic_fallback_-_multicolor.max-1300x1300.png",
+          "width": 1300,
+          "height": 729,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://blog.google/technology/ai/update-our-progress-responsible-ai-innovation/amp/",
+      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/technology/ai/update-our-progress-responsible-ai-innovation/amp/",
+      "publishedDateTime": "2021-06-30T10:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Google",
+        "domain": "blog.google",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-01-news-flash-nvidia-remains-the-fastest-available-ai-accelerator.md",
+      "title": "News Flash: NVIDIA Remains The Fastest Available AI Accelerator",
+      "excerpt": "Ok, while that is hardly surprising news, given the comfortable lead NVIDIA enjoys, Google’s upcoming TPUv4 out-performed NVIDIA on three of eight benchmarks on a chip-to-chip basis, while Graphcore’s performance and price/performance is in the ball park.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/karlfreund/2021/06/30/news-flash-nvidia-remains-the-fastest-available-ai-accelerator/",
+      "originalUrl": "https://www.forbes.com/sites/karlfreund/2021/06/30/news-flash-nvidia-remains-the-fastest-available-ai-accelerator/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60db80214c087bb5c6c220d5%2F0x0.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/karlfreund/2021/06/30/news-flash-nvidia-remains-the-fastest-available-ai-accelerator/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2021/06/30/news-flash-nvidia-remains-the-fastest-available-ai-accelerator/amp/",
+      "publishedDateTime": "2021-06-30T10:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2021-06-30-salesforces-tableau-launches-new-data-analytics-suite-with-ai-enhancements.md",
+      "title": "Salesforce's Tableau launches new data analytics suite with AI enhancements",
+      "excerpt": "The new Tableau 2021.2 version promises to help users make better business decisions based on AI-powered analytics.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/salesforces-tableau-launches-new-data-analytics-suite-with-ai-enhancements/",
+      "originalUrl": "https://www.techrepublic.com/article/salesforces-tableau-launches-new-data-analytics-suite-with-ai-enhancements/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techrepublic.com/a/hub/i/r/2020/01/22/70bad262-9a0a-4f59-97b5-674a2f953176/resize/1200x/fd98d1898574cac91f03b02ac442e428/tableau-logo.png",
+          "width": 1200,
+          "height": 613,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/salesforces-tableau-launches-new-data-analytics-suite-with-ai-enhancements/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/salesforces-tableau-launches-new-data-analytics-suite-with-ai-enhancements/",
+      "publishedDateTime": "2021-06-30T09:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-30-who-outlines-principles-for-ethics-in-health-ai.md",
+      "title": "WHO outlines principles for ethics in health AI",
+      "excerpt": "The World Health Organization released a guidance document outlining six key principles for the ethical use of artificial intelligence in health. Twenty experts spent two years developing the guidance,",
+      "sourceUrl": null,
+      "webUrl": "https://www.theverge.com/2021/6/30/22557119/who-ethics-ai-healthcare",
+      "originalUrl": "https://www.theverge.com/2021/6/30/22557119/who-ethics-ai-healthcare",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 154,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.vox-cdn.com/thumbor/yVnYYGvgr7fmhLQ6Bq9zPC9Wq6g=/0x0:4000x2661/1400x933/filters:focal(1680x1011:2320x1651):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/69524862/1232766338.0.jpg",
+          "width": 1400,
+          "height": 933,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.theverge.com/platform/amp/2021/6/30/22557119/who-ethics-ai-healthcare",
+      "cdnAmpWebUrl": "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2021/6/30/22557119/who-ethics-ai-healthcare",
+      "publishedDateTime": "2021-06-30T09:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Verge",
+        "domain": "theverge.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theverge.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-30-medidata-acorn-ai-synthetic-control-arm-named-best-ai-based-solution-for-healthcare-by-2021-ai-breakthrough-awards.md",
       "title": "Medidata Acorn AI Synthetic Control Arm® Named “Best AI-based Solution for Healthcare” by 2021 AI Breakthrough Awards",
       "excerpt": "However, an SCA can improve patient recruitment and retention by allowing for a study design where all or at least more patients can be treated with the experimental therapy ... to honoring excellence in Artificial Intelligence technologies, services ...",
@@ -871,341 +1225,6 @@
       ],
       "topics": [
         "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-30-industrial-ai-enterprise-detect-technologies-raises-12-mn-funding.md",
-      "title": "Industrial AI Enterprise Detect Technologies Raises $12 Mn Funding",
-      "excerpt": "The company plans to further expand its global footprint to fulfil the accelerating demand for industrial automation",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/article/376146",
-      "originalUrl": "https://www.entrepreneur.com/article/376146",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/1625050931-DetectTechnologiesFounders11.jpg?width=600&crop=16:9",
-          "width": 600,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.entrepreneur.com/amphtml/376146",
-      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/376146",
-      "publishedDateTime": "2021-06-30T04:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-30-graphcore-brings-new-competition-to-nvidia-in-latest-mlperf-ai-benchmarks.md",
-      "title": "Graphcore brings new competition to Nvidia in latest MLPerf AI benchmarks",
-      "excerpt": "Graphcore’s score in BERT natural language training was the best score of any of the two-socket AMD systems submitted.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/index.php/article/graphcore-brings-new-competition-to-nvidia-in-latest-mlperf-ai-benchmarks/",
-      "originalUrl": "https://www.zdnet.com/index.php/article/graphcore-brings-new-competition-to-nvidia-in-latest-mlperf-ai-benchmarks/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/hub/i/2021/06/30/af021708-3cd7-4136-a6fb-48d2c0bb412c/graphcore-nvidia-comparison-crop-layout-for-twitter.jpg",
-          "width": 1600,
-          "height": 1069,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/index.php/google-amp/article/graphcore-brings-new-competition-to-nvidia-in-latest-mlperf-ai-benchmarks/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/google-amp/article/graphcore-brings-new-competition-to-nvidia-in-latest-mlperf-ai-benchmarks/",
-      "publishedDateTime": "2021-06-30T03:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-30-didi-shares-gain-1-after-early-jump-in-wall-street-debut.md",
-      "title": "Didi shares gain 1% after early jump in Wall Street debut",
-      "excerpt": "Early investors included Apple Inc., Japan’s Softbank, Alibaba and Chinese internet giants, Tencent Holding Ltd. and Baidu Inc. Didi ... into development of self-driving, electric vehicles ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.news4jax.com/business/2021/06/30/chinas-didi-touts-tech-spending-ahead-of-wall-st-debut/",
-      "originalUrl": "https://www.news4jax.com/business/2021/06/30/chinas-didi-touts-tech-spending-ahead-of-wall-st-debut/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cloudfront-us-east-1.images.arcpublishing.com/gmg/YZAVD7XODREBFFMDIAGRSEUVZ4.jpg",
-          "width": 5349,
-          "height": 3487,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.news4jax.com/business/2021/06/30/chinas-didi-touts-tech-spending-ahead-of-wall-st-debut/?outputType=amp",
-      "cdnAmpWebUrl": "https://www-news4jax-com.cdn.ampproject.org/c/s/www.news4jax.com/business/2021/06/30/chinas-didi-touts-tech-spending-ahead-of-wall-st-debut/?outputType=amp",
-      "publishedDateTime": "2021-06-30T02:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "News4Jax",
-        "domain": "news4jax.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-30-zoom-acquires-ai-translation-startup-kites.md",
-      "title": "Zoom acquires AI translation startup Kites",
-      "excerpt": "Zoom has announced the acquisition of Karlsruhe Information Technology Solutions (Kites) – a startup focused on the development of real-time AI-powered translation technologies.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cloudpro.co.uk/collaboration/9142/zoom-acquires-ai-translation-startup-kites",
-      "originalUrl": "https://www.cloudpro.co.uk/collaboration/9142/zoom-acquires-ai-translation-startup-kites",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn2.cloudpro.co.uk/sites/cloudprod7/files/2021/01/zoomlogo_shutterstock.jpg",
-          "width": 3500,
-          "height": 2500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-30T02:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Cloud Pro",
-        "domain": "cloudpro.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-30-advancing-safe-deployment-with-aiopsintroducing-gandalf.md",
-      "title": "Advancing safe deployment with AIOps—introducing Gandalf",
-      "excerpt": "The continuous monitoring of health metrics is a fundamental part of this process, and this is where AIOps plays a critical role. In the post that follows, we introduce how AI and machine learning are used to empower DevOps engineers, monitor the Azure deployment process at scale, detect issues early,",
-      "sourceUrl": null,
-      "webUrl": "https://azure.microsoft.com/blog/advancing-safe-deployment-with-aiops-introducing-gandalf/",
-      "originalUrl": "https://azure.microsoft.com/blog/advancing-safe-deployment-with-aiops-introducing-gandalf/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/bac9753f-e782-4ece-987b-214cb2b012c9.png",
-          "width": 841,
-          "height": 431,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-30T02:00:13-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-30-voiceitt-app-for-atypical-speech-a-triumph-in-disability-co-design.md",
-      "title": "Voiceitt App For Atypical Speech — A Triumph In Disability Co-Design",
-      "excerpt": "Voiceitt, a new app that can interpret the atypical speech of individuals with communication difficulties, represents a true victory for user-centered co-design. Working alongside disability organizations across the world,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/gusalexiou/2021/06/30/voiceitt-app-for-atypical-speech---a-triumph-in-disability-co-design/",
-      "originalUrl": "https://www.forbes.com/sites/gusalexiou/2021/06/30/voiceitt-app-for-atypical-speech---a-triumph-in-disability-co-design/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60dbdaee2b0833da1c7afcff%2F0x0.jpg",
-          "width": 1086,
-          "height": 1086,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/gusalexiou/2021/06/30/voiceitt-app-for-atypical-speech---a-triumph-in-disability-co-design/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/gusalexiou/2021/06/30/voiceitt-app-for-atypical-speech---a-triumph-in-disability-co-design/amp/",
-      "publishedDateTime": "2021-06-30T00:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-30-chinas-didi-touts-tech-spending-ahead-of-wall-st-debut.md",
-      "title": "China’s Didi touts tech spending ahead of Wall St debut",
-      "excerpt": "Chinese ride-hailing service Didi says it lost $5.5 billion over the past three years ahead of its U.S. stock market debut Wednesday but it's highlighting its global reach and investments in developing electric and self-driving cars.",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/892017a21181bc873a4e4599a6b30b0f",
-      "originalUrl": "https://apnews.com/892017a21181bc873a4e4599a6b30b0f",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/afs-prod/media/f4881df4ea264a1cae6cbf329deecf07/3000.jpeg",
-          "width": 3000,
-          "height": 1956,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-30T00:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

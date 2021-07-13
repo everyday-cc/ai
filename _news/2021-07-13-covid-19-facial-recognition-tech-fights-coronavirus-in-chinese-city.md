@@ -43,6 +43,38 @@ related:
         width: 640
         height: 355
         isCached: true
+  - title: "Chinese City Using Facial Recognition Tech To Fight Coronavirus"
+    excerpt: "Facial recognition tech linked to personal health codes has been rolled out in a Chinese city bordering Myanmar as authorities seek to squash a coronavirus outbreak."
+    publishedDateTime: 2021-07-13T14:11:00Z
+    webUrl: "https://www.ndtv.com/world-news/china-using-facial-recognition-tech-to-fight-coronavirus-2485824"
+    ampWebUrl: "https://www.ndtv.com/world-news/china-using-facial-recognition-tech-to-fight-coronavirus-2485824?amp=1&akamai-rum=off"
+    cdnAmpWebUrl: "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/world-news/china-using-facial-recognition-tech-to-fight-coronavirus-2485824?amp=1&akamai-rum=off"
+    type: article
+    provider:
+      name: NDTV
+      domain: ndtv.com
+    quality: 59
+    images:
+      - url: "https://c.ndtvimg.com/2021-07/90pei86s_china-covid-ruili-afp-650_625x300_13_July_21.jpg"
+        width: 650
+        height: 400
+        isCached: true
+  - title: "Farmington Hills man misidentified by facial recognition technology testifies at Congressional hearing"
+    excerpt: "The Farmington Hills man who has sued Detroit police after being wrongfully identified by the department's facial recognition technology in a shoplifting investigation is testifying in front of a congressional subcommittee Tuesday."
+    publishedDateTime: 2021-07-13T14:59:00Z
+    webUrl: "https://www.fox2detroit.com/news/farmington-hills-misidentified-by-detroit-police-facial-recognition-technology-testifies-in-congress"
+    ampWebUrl: "https://www.fox2detroit.com/news/farmington-hills-misidentified-by-detroit-police-facial-recognition-technology-testifies-in-congress.amp"
+    cdnAmpWebUrl: "https://www-fox2detroit-com.cdn.ampproject.org/c/s/www.fox2detroit.com/news/farmington-hills-misidentified-by-detroit-police-facial-recognition-technology-testifies-in-congress.amp"
+    type: article
+    provider:
+      name: WJBK
+      domain: fox2detroit.com
+    quality: 43
+    images:
+      - url: "https://images.foxtv.com/static.fox2detroit.com/www.fox2detroit.com/content/uploads/2021/04/932/470/wjbk-facial-recognition-aclu-lawsuit.jpg?ve=1&tl=1"
+        width: 932
+        height: 470
+        isCached: true
   - title: "Most State Legislatures have rejected bans and severe restrictions on facial recognition"
     excerpt: "Facial recognition technology and related legislation have been a hot topic in the media and in policy discussions around the country. The Security Industry Association (SIA) is advocating nationwide for policies ensuring responsible use and sensible ..."
     publishedDateTime: 2021-07-12T22:00:00Z

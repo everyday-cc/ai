@@ -44,20 +44,6 @@ related:
         width: 800
         height: 440
         isCached: true
-  - title: "Announcing managed inference for Hugging Face models in Amazon SageMaker"
-    excerpt: "Hugging Face is the technology startup, with an active open-source community, that drove the worldwide adoption of transformer-based models thanks to its eponymous Transformers library. Earlier this year, Hugging Face and AWS collaborated to enable you to train and deploy over 10,000 pre-trained models"
-    publishedDateTime: 2021-07-08T22:59:17Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/announcing-managed-inference-for-hugging-face-models-in-amazon-sagemaker/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 88
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png"
-        width: 768
-        height: 385
-        isCached: true
 
 secured: "VFYqjgxe/J77GdWIuvzVpKkNo5Jp6WPcQPoyZ8LOS1q2cfMrdPdiXf7+wCXk+g2nzSfamcyO159RrPdSOR4oEkTeJgGkX5SW1cq8UNelBgV2/bDVTkgLu37HXrGcy7agFg8K+FP8FbQ0SKCy9KhbD/tdRYK4SLc0XpOgzO7IPC2VflOI/87S01qNmO9npG0FcNdqYnarNs1betd9WYpCa4m/oOLS9dZF3nIYJqkzz7APb3q7XL+cGKyoJvWwn1x1Y0sfuqM/REpwxm9bFhC2/J1gtIG5W92J7rXEjt0vgIhxpGzeqHLoVmXRr40D3oh97BOgKfqeFvRL83FfcoboMIaxBTEFU7XlOKg/n1oFIIs=;wN9082grN9h+Xt5qoEGrNw=="
 ---

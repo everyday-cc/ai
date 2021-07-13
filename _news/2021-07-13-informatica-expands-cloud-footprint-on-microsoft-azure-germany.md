@@ -3,8 +3,8 @@ category: news
 title: "Informatica Expands Cloud Footprint on Microsoft Azure Germany"
 excerpt: "New Intelligent Data Management Cloud on Azure Bolsters Cloud Momentum in the European region FRANKFURT, Germany,  /PRNewswire/ -- Informatica, the enterprise cloud data management leader, today announced it will make its Intelligent Data Management Cloud (IDMC),"
 publishedDateTime: 2021-07-13T07:13:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/2021/07/13/9407196.htm"
-webUrl: "https://www.tmcnet.com/usubmit/2021/07/13/9407196.htm"
+originalUrl: "https://www.tmcnet.com/usubmit/-informatica-expands-cloud-footprint-microsoft-azure-germany-/2021/07/13/9407196.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-informatica-expands-cloud-footprint-microsoft-azure-germany-/2021/07/13/9407196.htm"
 type: article
 quality: 34
 heat: -1
@@ -59,6 +59,6 @@ related:
       domain: businessinsider.com
     quality: 24
 
-secured: "yff7kCs8EUuZjpDTT86tZ9EHr0CJhVUeuOv4cjwAVeF34LFtLizXBF/MgVRNZISQ7ReH88kj8lid3zwhqMGpUgsnzeQ4rNSIBtnsN8hbGaf837kxEwC6xha+dPIDwXIhDvpIKSwM/33Ot3nfO2sAo+HepaRhhd/jD421uBqfVE83HSchsEN9NsJ9taqtMTUm55q8Wd/4nfVGuvY+2Y+kBuNKR577Q1NI1wBR4tjdWSq1WnMl2Av1Wq5/7xv7PNPF1XnMbnOzTlOtH8qWnHoMVowhjleALhPRL9tG3lhecA2jEarRn8LUdfHt/U6WSqHO51NG00xp1f4r3Ls47Pdh6fBXSd9VUfAfhNyq/ceUk/GX/4KY9LpIUAEZfUKPGatYaPbI+dNMCFejTFmdkZRjBFBKzugpwCsqOcLbjqUXtzGMM7071RpToai/tWpweP97XL/AkpV7tErATzLIEBDbj3G2okFWtE/ULqNjk7jXGMYBvv0dBVRIrN9OUGBBJOrPqLTTUQ0p9CqnysOrjGLoXA==;m/ceMyg44Kzh8RS1PiAitw=="
+secured: "LNGSVgYfcW1FMJM3HO4oBdfVn9GquIsO+KZSqy5dfLAnWHiToAFUy7fGJn1BVV+U/VgcICRD87rG1WWRn2n/a1dhtUnPencTgUQbsMg74bGUE3a4Ez9EahkShta9OIgnkQ5DVBq9/cdM4QWnS6EZ2aeVSsev8GEdrqjt3UNc/0KOB7SrCMuNwSeU5nftGfiZO20Hwk4tmCZRTMsF8AkWjkeU56rOpnGn6wJwK75lNktZO9vhSuZroUfzMyRkA9yfTYTQxrXDlXA6JPl1YbG2qqTYNSqaN7iBtimDu7hEw9GB2ZFyKfkcKoHPwFhekSVVcRkbbskxaGkfOPS4e/a7aDyHWEqkNyrnuabYZr2m74xhuqK/ETHMIwp5WOG61MTDi+9AmlTVRgmVbLywdd1Gsm3p6WLK/ptQZyTgOtKL2xVurfhoSbYNFGAtPMjRW62+4/VXhoCM93yrsai1P1zgFPuBOgdGf5sGzjZgHAxg+1wRwR6/r4hZaYCCg4/YvdjgGzWJghCHm2+qwF8p/IaGnQ==;o04OKuXjA3xrLplGAW6fzw=="
 ---
 

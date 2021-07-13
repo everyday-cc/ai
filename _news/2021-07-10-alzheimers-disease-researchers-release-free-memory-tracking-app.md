@@ -19,6 +19,22 @@ topics:
   - AI
 
 related:
+  - title: "Machine learning can identify signs of Alzheimer's in patients recalling the story of Cinderella"
+    excerpt: "A new study by researchers from the Neurosciences Research Centre at St George's has identified the strengths and limitations of different tasks used to detect the early signs of Alzheimer's disease through speech analysis and machine learning."
+    publishedDateTime: 2021-07-13T14:07:00Z
+    webUrl: "https://medicalxpress.com/news/2021-07-machine-alzheimer-patients-recalling-story.html"
+    ampWebUrl: "https://medicalxpress.com/news/2021-07-machine-alzheimer-patients-recalling-story.amp"
+    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-07-machine-alzheimer-patients-recalling-story.amp"
+    type: article
+    provider:
+      name: Medical Xpress
+      domain: medicalxpress.com
+    quality: 46
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/2021/machine-learning-can-i.jpg"
+        width: 1200
+        height: 676
+        isCached: true
   - title: "Alzheimer's Disease Researchers Release Free Memory Tracking App"
     excerpt: "Today, Leucadia Therapeutics Inc, a California HealthTech Company, is launching 8 Apps that help exercise memory and cognition, including a personalized memory tracker"
     publishedDateTime: 2021-07-09T10:00:00Z

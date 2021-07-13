@@ -2,6 +2,83 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-06-08-bitvore-announces-integration-with-microsoft-azure-synapse-analytics.md",
+      "title": "Bitvore Announces Integration With Microsoft Azure Synapse Analytics",
+      "excerpt": "Bitvore, a leading provider of AI-powered intelligence for financial institutions, today announced that it has completed its integration with Microsoft Azure Synapse Analytics. Via the integration, customers can quickly and easily consume continuously updated Bitvore Cellenus datasets in Azure and integrate them with new and existing data sources to enhance predictive models and build augmented intelligence into their applications.",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/-bitvore-announces-integration-with-microsoft-azure-synapse-analytics-/2021/06/08/9385938.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-bitvore-announces-integration-with-microsoft-azure-synapse-analytics-/2021/06/08/9385938.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-08T05:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-08-expect-an-orwellian-future-if-ai-isnt-kept-in-check-microsoft-exec-says.md",
+      "title": "Expect an Orwellian future if AI isn't kept in check, Microsoft exec says",
+      "excerpt": "Artificial intelligence could lead to an Orwellian future if laws to protect the public aren't enacted soon, according to Microsoft President Brad Smith. Smith made the comments to the BBC news program \"Panorama\" on May 26,",
+      "sourceUrl": null,
+      "webUrl": "https://www.livescience.com/orwellian-artifical-intelligence-future.html",
+      "originalUrl": "https://www.livescience.com/orwellian-artifical-intelligence-future.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 103,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/XzcsabCGgMLoKQLgBzFk9E-480-80.jpg",
+          "width": 480,
+          "height": 270,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.livescience.com/amp/orwellian-artifical-intelligence-future.html",
+      "cdnAmpWebUrl": "https://www-livescience-com.cdn.ampproject.org/c/s/www.livescience.com/amp/orwellian-artifical-intelligence-future.html",
+      "publishedDateTime": "2021-06-07T13:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Live Science",
+        "domain": "livescience.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-08-intento-named-a-2021-cool-vendor-by-gartner.md",
       "title": "Intento Named a 2021 Cool Vendor by Gartner",
       "excerpt": "The Intento AI Hub connects AI models trained on multiple platforms (such as Amazon, Google AutoML, or Microsoft Cognitive Services) with many enterprise software systems. Launched in 2017 ...",
@@ -1250,92 +1327,6 @@
       "topics": [
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-28-expert-says-6-ghz-spectrum-is-the-biggest-wi-fi-advancement-in-20-years-for-canada.md",
-      "title": "Expert says 6 GHz spectrum is ‘the biggest Wi-Fi advancement in 20 years’ for Canada",
-      "excerpt": "“The new 6 GHz spectrum allocation for Wi-Fi 6E provides exactly what future Wi-Fi-based services need, and that is more bandwidth,” said Chris Beg, wireless systems architect at Cognitive ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.itworldcanada.com/article/expert-says-6-ghz-spectrum-is-the-biggest-wi-fi-advancement-in-20-years-for-canada/447813",
-      "originalUrl": "https://www.itworldcanada.com/article/expert-says-6-ghz-spectrum-is-the-biggest-wi-fi-advancement-in-20-years-for-canada/447813",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.itworldcanada.com/wp-content/uploads/2021/05/wi-fi-wifi-flat-featured-image.jpg",
-          "width": 699,
-          "height": 499,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.itworldcanada.com/article/expert-says-6-ghz-spectrum-is-the-biggest-wi-fi-advancement-in-20-years-for-canada/447813?amp=1",
-      "cdnAmpWebUrl": "https://www-itworldcanada-com.cdn.ampproject.org/c/s/www.itworldcanada.com/article/expert-says-6-ghz-spectrum-is-the-biggest-wi-fi-advancement-in-20-years-for-canada/447813?amp=1",
-      "publishedDateTime": "2021-05-27T11:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT World Canada",
-        "domain": "itworldcanada.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-27-senseye-pdm-now-available-in-the-microsoft-azure-marketplace.md",
-      "title": "Senseye PdM Now Available in the Microsoft Azure Marketplace",
-      "excerpt": "Microsoft Azure customers worldwide now gain access to Senseye PdM to take advantage of the scalability, reliability, and agility of Azure to drive Industry 4.0 development and reduce unplanned downtime.",
-      "sourceUrl": null,
-      "webUrl": "https://www.automation.com/en-us/articles/may-2021/senseye-pdm-now-microsoft-azure-marketplace",
-      "originalUrl": "https://www.automation.com/en-us/articles/may-2021/senseye-pdm-now-microsoft-azure-marketplace",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.automation.com/getmedia/022c7d46-c73c-46fa-996f-b301d9f8eb4c/Senseye-microsoft-May-27-2021-web.png?width=500&height=313&ext=.png",
-          "width": 500,
-          "height": 313,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-27T09:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Automation",
-        "domain": "automation.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],

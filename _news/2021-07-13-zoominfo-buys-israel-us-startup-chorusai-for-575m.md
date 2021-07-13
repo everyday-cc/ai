@@ -24,6 +24,22 @@ images:
     isCached: true
 
 related:
+  - title: "ZoomInfo drops $575M on Chorus.ai as AI shakes up the sales market"
+    excerpt: "ZoomInfo announced this morning it intends to acquire conversational sales intelligence tool Chorus.AI for $575 million. Shares of ZoomInfo are unchanged in pre-market trading following the news, per Yahoo Finance data."
+    publishedDateTime: 2021-07-13T12:42:00Z
+    webUrl: "https://techcrunch.com/2021/07/13/zoominfo-drops-575m-on-chorus-ai-as-ai-shakes-up-the-sales-market/"
+    ampWebUrl: "https://techcrunch.com/2021/07/13/zoominfo-drops-575m-on-chorus-ai-as-ai-shakes-up-the-sales-market/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/07/13/zoominfo-drops-575m-on-chorus-ai-as-ai-shakes-up-the-sales-market/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 104
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2021/07/GettyImages-1281590006.jpg?w=1024"
+        width: 1024
+        height: 766
+        isCached: true
   - title: "ZoomInfo drops $575M on Chrous.ai as AI shakes up the sales market"
     excerpt: "ZoomInfo announced this morning it intends to acquire conversational sales intelligence tool Chorus.AI for $575 million. Shares of ZoomInfo are unchanged in pre-market trading following the news, per Yahoo Finance data."
     publishedDateTime: 2021-07-13T12:42:00Z
@@ -56,7 +72,21 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "ZoomInfo Buys Israeli Company Chorus.ai for $575 Million"
+    excerpt: "Employees of an Israeli startup company work at the company’s office in Tel Aviv, Israel, Feb. 7, 2018. Photo: Reuters"
+    publishedDateTime: 2021-07-13T14:18:00Z
+    webUrl: "https://www.algemeiner.com/2021/07/13/zoominfo-buys-israeli-company-chorus-ai-for-575-million/"
+    type: article
+    provider:
+      name: Algemeiner
+      domain: algemeiner.com
+    quality: 37
+    images:
+      - url: "https://www.algemeiner.com/wp-content/uploads/2018/02/STARTUP.jpg"
+        width: 720
+        height: 360
+        isCached: true
 
-secured: "kza3LrL9uq8rrmnWNlsfvHJ9Sz4/3RTOlgvzGwhotX1nZjCAlYMiBXnTcuxqP3LOmP2B3GwAlb9/Q3lT3r3Kj2wDDKWkoKBOHB/FGIJYbGMNuLdQZuzb2oQ7t5CK0eojiMinkqtf3p7JHaw1pNHdb2NTlRAbjt5Ao1jZ+xmZ7GBokF3tbNqH5ltp+TGnfonuGNlz423kHFoOvtpp+yX4KQN8dFgn3pstQi0XJ7E4M4p8zDxp8p4cvg7vYeizfWxEiJx+SxXNKjv7lUyMiXkkGJt/05z7AOQyJh6KuRm711O/O2BBXDvHoTmPEu3xOQu6PFfGXDe4dTYDIzWGH/vrE1zFYsGcX+GDsMdjg2saudY=;yvEk7KQswCH/r+USv8uhpw=="
+secured: "/iaYTpHqhytfPLWISbqWYgqdXtB1D4xNQ7M5+F32dgkw3+nuq9ezTklsV1vKygp22yftLKO3LBXv9m8tO/br9yT1wE4U9y2XVYaR2RH7fRYr3sZtrkCzcUVYr1eVx6urbx6J0afhYlKt3xzPH9rsCerTuEe103pNKukyicjrGAY6gjF9ycWrXXz77hhyRxRlOxcBV9/XUMx4XuuXjYzapRPxAjPhZC04tH6z28SyEuZS8JxV1sSuE3RZgtuoT/CnKp47RgY/IUT5moUpDuifeZzkCgTC7RVlz2fFxLPXvz/OsOn2aZnM/lPoysJO/ljI1r+tC7EjaaeVm6knL9ooK/eEsTNGGZshvd43rwH6vb14Ap/ZjaHPf67wcSYRe6FlM/8431yFPz01kmjmG8Qxye0rm8boHW83Ck4qBMGu9xuJFsIFYGWYHqxZi8Uopl9iIF3DY+0GcIzIWADbB0xWz09HUmKY8TybrN4X1jQErwf7ijZ8mHduVmDyhQ0O7bFsdbrwp3slZotOfJO9Rab7ng==;3g/poDCX5wQZqc6sDLHMTQ=="
 ---
 

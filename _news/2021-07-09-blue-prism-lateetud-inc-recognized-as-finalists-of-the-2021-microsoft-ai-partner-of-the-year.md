@@ -1,34 +1,24 @@
 ---
 category: news
 title: "Blue Prism & Lateetud, Inc. recognized as finalists of the 2021 Microsoft AI Partner of the Year"
-excerpt: "LONDON and AUSTIN, Texas and WASHINGTON, July 8, 2021 /PRNewswire/ -- Blue Prism® and Lateetud today announced that their joint solution has been named a finalist for the Artificial Intelligence"
-publishedDateTime: 2021-07-08T19:05:00Z
-originalUrl: "https://tylerpaper.com/news/texas/blue-prism-lateetud-inc-recognized-as-finalists-of-the-2021-microsoft-ai-partner-of-the/article_0497dbe3-6656-5888-b541-2e776a6521ce.html"
-webUrl: "https://tylerpaper.com/news/texas/blue-prism-lateetud-inc-recognized-as-finalists-of-the-2021-microsoft-ai-partner-of-the/article_0497dbe3-6656-5888-b541-2e776a6521ce.html"
+excerpt: "LONDON and AUSTIN, Texas and WASHINGTON, July 8, 2021 /PRNewswire/ -- Blue Prism® and Lateetud today announced that their joint solution has been"
+publishedDateTime: 2021-07-08T21:05:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/blue-prism-lateetud-inc-recognized-as-finalists-of-the-2021-microsoft-ai-partner-of-the-year-1030591185"
+webUrl: "https://markets.businessinsider.com/news/stocks/blue-prism-lateetud-inc-recognized-as-finalists-of-the-2021-microsoft-ai-partner-of-the-year-1030591185"
 type: article
-quality: 21
-heat: -1
-published: false
 
 provider:
-  name: Tyler Morning Telegraph
-  domain: tylerpaper.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Microsoft AI
   - AI
 
-related:
-  - title: "Trainocate recognised as #1 Microsoft Learning Partner worldwide"
-    excerpt: "Trainocate Holdings, Sri Lanka’s largest IT and human capability development training provider, has been recognised as the 2021 Microsoft Learning Partner of the Year; the first Asian company ever to have earned the illustrious title."
-    publishedDateTime: 2021-07-11T18:30:00Z
-    webUrl: "https://www.ft.lk/it-telecom-tech/Trainocate-recognised-as-1-Microsoft-Learning-Partner-worldwide/50-720316"
-    type: article
-    provider:
-      name: FT
-      domain: www.ft.lk
-    quality: 34
-
-secured: "4dgSj6MnxezxKDep1Blbnd8HISlbYJ2Y8jp2GWzn/U8fRJ8hDoPXBVAVcGlS4AWwzRCx/dDlTq02nxEbnNuxHi9FLEuvorUFWeQ4Oz4z8cj4SIum+i+nIVm6woIFn+peo65DVPlt8ag2Fp8IRhPwIaVsoPVxRcswpjzZBw01EtF6H2o5Vt4syg1N/rhHGxldQF4INY4bo36v/9/o59aDndKqGKI0K9nLo+/ehTB48Wzmlo3unK3wNcVfRMNWMQiSweLLt9fwaL6P/TwGlcSd4EtnpywwXdSd9HrMkTk0yw4+7j3Y4x+BvNQe0DfYIhiVbzGbT1GogVp2CNdqYNiqtRVIpCl5+lGM5fOTrhWzVyE=;azpuGs3Zo1utOtugQMJk3Q=="
+secured: "XUcvCRJpNkBAnPVdZBXDM890NKLdiz5V0kVgLR6GhZ3S/9EwLhCJpqL9Tf/ItM2cDkcMPJ39wYX9l/M83h9VbdZoc7PbzvgNfIZirkjS4xbJaYQt55azXB61RHdpliinGzSiA5oMj7bfi9Q8bNTZH0I2rDTacaZ5ERkD8pTihy719XVEtoRs39/PRQssDRA34BRQV+oRDiHWFqV/jepFBaIT/YSwtXKIBANCh+lR9AB9ylZrf2UDytoieO5omAV1qs4A/eolXiMX6iGk+ru4wUhD8CkiH7gmdt/5e1xK2ERHc6YoBuA3S8Sz+YtEUmmfwm+0Iq371jnYI5Clc9FiGzvf00169DStM8Zj/j84Gls=;OyQ/ns0DvKqguMs0Ztx7OQ=="
 ---
 

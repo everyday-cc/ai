@@ -76,20 +76,6 @@ related:
         width: 1440
         height: 810
         isCached: true
-  - title: "Tencent Uses Facial Recognition to Ban Kids Gaming Past Bedtime"
-    excerpt: "In the latest bid to curb video-game addiction in China, tech giant Tencent Holdings Ltd. has launched a facial recognition system to stop minors gaming into the night. The initiative will prevent people under 18 from playing between 10 p.m. and 8 a.m. The ..."
-    publishedDateTime: 2021-07-08T22:41:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2021-07-08/tencent-uses-facial-recognition-to-ban-kids-gaming-past-bedtime"
-    type: article
-    provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 69
-    images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iy2UcpOVPA7k/v0/1200x800.jpg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Tencent Is Using Facial Recognition To Ban Kids From Gaming At Night"
     excerpt: "Chinese gaming giant Tencent has rolled out a facial recognition system that prevents minors from playing video games at night past their allotted time."
     publishedDateTime: 2021-07-09T17:26:00Z
@@ -200,6 +186,20 @@ related:
       - url: "https://s31242.pcdn.co/wp-content/uploads/2021/07/GettyImages-857382022.jpg"
         width: 1024
         height: 628
+        isCached: true
+  - title: "Facial Recognition Is Doing Harm Right Now. It’s Unacceptable for Lawmakers To Do Anything Other Than Ban It."
+    excerpt: "The House Judiciary Committee is holding a hearing today on facial recognition technology. They’re expected to discuss a wide range of issues including the recent GAO report on federal government use of facial recognition and the Facial Recognition and Biometric Technology Moratorium Act."
+    publishedDateTime: 2021-07-13T15:27:00Z
+    webUrl: "https://www.commondreams.org/newswire/2021/07/13/facial-recognition-doing-harm-right-now-its-unacceptable-lawmakers-do-anything"
+    type: article
+    provider:
+      name: Common Dreams
+      domain: commondreams.org
+    quality: 20
+    images:
+      - url: "https://www.commondreams.org/sites/default/files/styles/media_image_1x_xl/public/2021-07/merkel-white-house-3600x2367.jpg?h=5526124e&itok=T129sNw1"
+        width: 391
+        height: 221
         isCached: true
 
 secured: "od8m14GL4u9u+8AerkQvj0g41vMeZc6LJnrZHFT3VF3wKNKKeai5QlTfpSm6cr2sTmcr5Hl1jK+yYoHxFIHQU5LZAF6KL2P6OTrtXWyiGrWm84s4OQOomYs+NuK8rNUJok2EF9UJmpDGl2zdiQuvEDrPkWDicRd67XIKZPhlhTL6/S+kxbeex+Pu0COPJwNgdlL1H7O0S8AS/Agjc4OrJfSz5IW2S+o8LacMXhSmREbu9nadkCZRy3H+cRWeEqFtDygpuUQrXD5kGrM09VJmKsxFoFVkQcAAE4M0zLPZgrRwyE737ci4B5nUQWHq9OdFEmQNRAEKwBwuX3aSfPTyOw7l2WyznjKmDqgz1BnQK5/W10+oonJeGvLbANNOKE9SiAMa4hxMv/XYpICFxEM1ItxwpaTWDPXaTrJXAHXT0XSuYENNUFMOaFT3qprg+SCSgeHo5iSW5t3VhKug0KZ8CV/2MlnDtjIsIBdgEDZu6il2XsPBYxM/eyq0nfq+TM3MDEDmGr6A9BRk/NvbPt1+NA==;wXgG8sWy4pti+uVmkj5+hg=="

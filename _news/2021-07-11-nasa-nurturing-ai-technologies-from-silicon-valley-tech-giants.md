@@ -24,22 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "Micron Technology Puts Its Cash to Work Using Artificial Intelligence"
-    excerpt: "Micron Technology Inc.’s cash deposits are generating millions of dollars in additional returns for the memory-chip maker thanks to the help of an artificial-intelligence tool developed internally. The AI application allows Boise, Idaho-based Micron to ..."
-    publishedDateTime: 2021-07-08T22:01:00Z
-    webUrl: "https://www.wsj.com/articles/micron-technology-puts-its-cash-to-work-using-artificial-intelligence-11625781002"
-    ampWebUrl: "https://www.wsj.com/amp/articles/micron-technology-puts-its-cash-to-work-using-artificial-intelligence-11625781002"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/micron-technology-puts-its-cash-to-work-using-artificial-intelligence-11625781002"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 87
-    images:
-      - url: "https://images.wsj.net/im-366698/social"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "Micron technology puts its cash to work using artificial intelligence"
     excerpt: "The Boise, Idaho-based memory-chip maker says it is earning millions of dollars in extra returns on its deposits thanks to an AI tool developed in house"
     publishedDateTime: 2021-07-10T01:07:00Z
@@ -69,20 +53,6 @@ related:
       - url: "https://fintechzoom.com/wp-content/uploads/2021/07/NASA-Nurturing-AI-Technologies-from-Silicon-Valley-Tech-Giants-Disha.jpg"
         width: 900
         height: 500
-        isCached: true
-  - title: "Biotech startup using AI to take guesswork out of cancer drug selection raises $70M"
-    excerpt: "Xilis is developing technology that creates a living model of a patient’s tumor, then applies artificial intelligence to determine the best drug or drug combinations to treat the cancer. Clinical trials are planned to test this precision medicine approach and the biotech startup has raised $70 million to fund its research."
-    publishedDateTime: 2021-07-09T00:46:00Z
-    webUrl: "https://medcitynews.com/2021/07/biotech-startup-using-ai-to-take-guesswork-out-of-cancer-drug-selection-raises-70m/"
-    type: article
-    provider:
-      name: MedCity News
-      domain: medcitynews.com
-    quality: 35
-    images:
-      - url: "https://medcitynews.com/uploads/2021/07/Xiling-Shen-and-David-Hsu-lab.jpg"
-        width: 1400
-        height: 930
         isCached: true
 
 secured: "M2UGvjFJCopeviwtaGwgYqi4k6WIZ4tnKfs93pWxqm9YilzCrC9iS/7JwzqVPl50AXs6y+ZBhfd/b0UyJBSRm3dFNY3J9jjoz7JNjWs/q8Fkcx76mGyY/l7QQe1txzS+JUVb5zCUjUlzmDE12QjEeFu9CKVOcWd1n5ll7V6KzbCwFQrZxsLtSEihA7eSBjoHsZbTdvKbipNH+tF2BmnrvwsdqVBf/vjmqPOboGDOis2M/tbLWkbFRrf/lgzkM94hacKRl51QBqJZ8dv9RncF/dHZ0CyWAtuF7oyiA4sqnKZzYrX2Vq5MkGQx34hXwaRzMgNJptYp7GPL6jTOVSP8LrLaX0mTlOtShPZO6ZpyhUY=;oleMTTamamCLpxs/6vZxCg=="

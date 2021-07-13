@@ -3,23 +3,23 @@ category: news
 title: "Artificial Intelligence (AI) Market in Industrial Machinery Industry to grow by $ 458.68 million|Technavio"
 excerpt: "The artificial intelligence (AI) market in the agriculture industry market is set to grow by USD 458.68 million, progressing at a CAGR of"
 publishedDateTime: 2021-07-09T22:00:00Z
-originalUrl: "https://www.troyrecord.com/news/national/artificial-intelligence-ai-market-in-industrial-machinery-industry-to-grow-by-458-68-million-technavio/article_25c3bf4e-291e-581e-9d99-f30a8b0173aa.html"
-webUrl: "https://www.troyrecord.com/news/national/artificial-intelligence-ai-market-in-industrial-machinery-industry-to-grow-by-458-68-million-technavio/article_25c3bf4e-291e-581e-9d99-f30a8b0173aa.html"
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/artificial-intelligence-ai-market-in-industrial-machinery-industry-to-grow-by-458-68-million-technavio/article_917a31d7-b21a-51c1-9005-9e2c9f9d1fb0.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/artificial-intelligence-ai-market-in-industrial-machinery-industry-to-grow-by-458-68-million-technavio/article_917a31d7-b21a-51c1-9005-9e2c9f9d1fb0.html"
 type: article
 quality: 36
 heat: -1
 published: false
 
 provider:
-  name: Troy Record
-  domain: troyrecord.com
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - AI in Robotics
   - AI
 
 images:
-  - url: "https://bloximages.chicago2.vip.townnews.com/troyrecord.com/content/tncms/assets/v3/editorial/0/b6/0b6e2b92-6456-5b6a-b26e-f092a993135e/60e8cab506590.image.jpg?resize=1200%2C585"
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/8/63/8635831d-c3ca-5a24-b643-300bca1379fc/60e8c777dd85b.image.jpg?resize=1200%2C585"
     width: 1200
     height: 585
     isCached: true
@@ -101,6 +101,15 @@ related:
         width: 635
         height: 357
         isCached: true
+  - title: "Intel Stock – Artificial Intelligence (AI) Robots Market Size, Share 2021-2028"
+    excerpt: "Robots Market study provides details of market dynamics affecting the market, market size, and segmentation, and casts a shadow over the major market players by highlighting the favorable competitive landscape and successful trends over the years."
+    publishedDateTime: 2021-07-11T10:52:00Z
+    webUrl: "https://fintechzoom.com/fintech_news_intel/intel-stock-artificial-intelligence-ai-robots-market-size-share-2021-2028/"
+    type: article
+    provider:
+      name: fintechzoom
+      domain: fintechzoom.com
+    quality: 45
   - title: "Artificial Intelligence in Machine Learning Market 2021: Global Industry Analysis Report to 2027"
     excerpt: "healthcare, retail, finance and manufacturing. However, while technology has always been a staple of these industries, artificial intelligence (AI) has brought technology to the center of organizations. (Get 15% Discount on Buying this Report) A full ..."
     publishedDateTime: 2021-07-12T12:14:00Z
@@ -196,6 +205,20 @@ related:
       name: ReportsnReports
       domain: reportsnreports.com
     quality: 13
+  - title: "Global Speech Recognition Market 2021 Industry Research, Review, Growth, Segmentation, Key Players Analysis and Forecast to 2027"
+    excerpt: "The global Speech Recognition market size is projected to reach US$ 17490 million by 2027, from US$ 9461.8 million in 2020, at a CAGR of 9.1% during 2021-2027. This report studies the Global Speech Recognition market status and outlook of global and major regions,"
+    publishedDateTime: 2021-07-13T14:07:00Z
+    webUrl: "https://www.arnnet.com.au/mediareleases/144447/global-speech-recognition-market-2021-industry/"
+    type: article
+    provider:
+      name: ARN
+      domain: arnnet.com.au
+    quality: 10
+    images:
+      - url: "https://www.arnnet.com.au/dimg/300x300/dimg/win20_edu_remotelearning_026.jpg"
+        width: 300
+        height: 225
+        isCached: true
   - title: "Artificial Intelligence in Agriculture Market Size - Detailed Analysis of Current Industry Figures with Forecasts Growth By 2025"
     excerpt: "Market Study Report LLC adds new research on Artificial Intelligence in Agriculture market, which is a detailed analysis of this business space inclusive of the trends, competitive landscape, and the market size. Encompassing one or more parameters among ..."
     publishedDateTime: 2021-07-13T11:46:00Z
@@ -206,6 +229,6 @@ related:
       domain: reseller.co.nz
     quality: 5
 
-secured: "pPILZhf8TkrpgQsQvNvyaONrmX0wVNwjDMUVpedfZxdB+IBbCHLis/dF2jT2d24OAwr62pNUt9p/fyQvzey1oSShBbmZk84Ifz57lHUBxTqdXr8/7u5MZ4Abb4lvtBjBK2Cf2dctskXpGVQ6X+eOEiuMnlF0aJgTgs2dhIdbfEEBl1nmphqHT+AdNdUGVHjvPzybd4h0l+bwmaCa29CHypGKfZqtx2vaLOxnXTv3YJpFgAt4auzkbIfpMcn7TnHHHypJGQ7+49JQi6glMiTggd35QMv+B85SJhT5y1bWChRxQIE4oBUfQJBWiPzeno3M1Q5OvVq7bOxtNzC3ZsulD2gn5sEDWcYzpBSFpofvN8E=;hi94BI2/uj0v6HWZcRRNsA=="
+secured: "RJ0qkpfxMre4/dXk2o9e21A9WkeqbzS7cSGMmCRfXcww7GGkBy7ljQVh8HSIHs2RI+yZ3HGKLv1mRLbJu0JU+pjAwNQxa6dBec71wcHyZ5+OA7I3htBGR/5KA+a7EmGItuvxsTEEPKD8Nm5EwFWj76EqIEtHi38jBC2TBOwLd1B/oBKh5jB22MIriZxqUN2AKD+brMgptRqDWdXUEMjMK/lXG9ZxzEdLY+XAXDxvT1WY2+DErz7kfztr2tT5eygPfrdRg+bmG8ipuWyIt7GCYGiV1T9N5aYuR3t6S2vEJTAQvHvBGZzCh1UAA0fyraT9+d9nD9rNbr9RKixugul+SXLUk1CHV9Wt5DDrSu2HS2I=;P5YuKV8ge0cYFaHwSr6IRg=="
 ---
 
