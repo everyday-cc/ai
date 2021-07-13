@@ -1,10 +1,10 @@
 ---
 category: news
 title: "AWS IoT Core for LoRaWAN comes to Sydney cloud region"
-excerpt: "The move allows users to “leverage” Amazon SageMaker, a managed ML service, without moving data or learning a new skill, AWS claimed. Writing in a blog post during its general availability ..."
-publishedDateTime: 2021-07-09T00:58:00Z
-originalUrl: "https://www.arnnet.com.au/article/689680/aws-iot-core-for-lorawan-comes-to-sydney-cloud-region/"
-webUrl: "https://www.arnnet.com.au/article/689680/aws-iot-core-for-lorawan-comes-to-sydney-cloud-region/"
+excerpt: "AWS IoT Core for LoRaWAN is now available in the Asia Pacific (Sydney) and Asia Pacific (Tokyo) AWS regions, extending the footprint of the offering to five AWS regions globally."
+publishedDateTime: 2021-07-09T00:53:00Z
+originalUrl: "https://www.arnnet.com.au/article/689680/aws-iot-core-lorawan-comes-sydney-cloud-region/"
+webUrl: "https://www.arnnet.com.au/article/689680/aws-iot-core-lorawan-comes-sydney-cloud-region/"
 type: article
 quality: 39
 heat: 39
@@ -24,6 +24,6 @@ images:
     height: 500
     isCached: true
 
-secured: "+Pfe10enrj0LqDUYEdwGt/CFRhMfujGYzIOyDLejVkB3es5dfq3ip6/DB8fzEtWcMgWKdk7HXRceZLyGNMW/Fh9jVRlEHL4NaQYUaxqYgTSL7mmIUkwFsua75K06/HdLXm5A2RlDk+AYBGe6hlxYDEcplSLsPWCch3SR70i5nCCPuGukn69q7NJeaktQ16L6phShAO6QM8wb1AQDD3oa1/PB2/3tVwaV1xAwaE4+pCpIkTNyoxUNQp5ZJRtHgCDZQDmNSNSUYd6z5HFFsKg7m2u/VeJ/qZtOAPMifVKhqYZDaUY8f9kUvsZMkPapgqzmF2yjsBoeCw1QiCekoGa+UZ5zZBDbK4Hcqn8eM55FqU8=;tWDeRg267ajMKeFiUf8UsA=="
+secured: "QUCviUp48PNMT6dtFfIWTlyxU0i576hGEHNy984KZt5ewErYSwcVP2sDN+b9ZeBHJz7Fq4SH+gCqUJ0lQRw7zZNJmJ1b8Gt4AN8lELLuQgY36ryQ4eEmuxY36BmSxYhqjJlCgdXVUtjVWchm68r9ZktvOY55izKQIWqQYsbB25EzkmlCF7svdJcRqwTm0wJ75mmmg9Cpg/IPlHIm1xFcwhzOgZxu7adE8qF6tugVRFyasqbHZx6jt8b/fLORpYBRzMtYI6KbXxjPihD5SCmIyzS8utCSkpoTPSZ+bHFduY+e4D+EqNPVPz/ibhwULYiyUS0S59dZW/4dwXeylQKVPahfyJyP1qlpBRmuSqPAeMo=;zhef28R3CbboNkQQNV5UGA=="
 ---
 

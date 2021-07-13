@@ -183,20 +183,6 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 28
-  - title: "AI Training Data Market All Set to Witness Massive Growth during Forecast 2021-2027 With Top Vendors Like"
-    excerpt: "This AI Training Data Industry market report uncovers multiple growth opportunities that users can consider to capitalize on, along with insights on top industry trends to invest in. This section intends to facilitate the process of critical decision making for users."
-    publishedDateTime: 2021-07-08T06:39:00Z
-    webUrl: "https://ksusentinel.com/2021/07/08/ai-training-data-market-all-set-to-witness-massive-growth-during-forecast-2021-2027-with-top-vendors-like/"
-    type: article
-    provider:
-      name: The Sentinel
-      domain: ksusentinel.com
-    quality: 20
-    images:
-      - url: "https://i.ibb.co/4f2WLZz/n1-finalll.jpg"
-        width: 474
-        height: 237
-        isCached: true
   - title: "Global Artificial intelligence (AI) in Supply Chain and Logistics Market Size, Status and Forecast 2021-2027"
     excerpt: "Pages Report] Check for Discount on Global Artificial intelligence (AI) in Supply Chain and Logistics Market Size, Status and Forecast 2021-2027 report by QYResearch Group. Market Analysis and Insights: Global Artificial intelligence (AI) in"
     publishedDateTime: 2021-07-09T08:01:00Z

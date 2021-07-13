@@ -29,20 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Qlik Recognized as a Finalist of 2021 Microsoft Analytics Partner of the Year Award"
-    excerpt: "Qlik ® today announced it has been named a finalist of the 2021 Microsoft Analytics Partner of the Year Award. The company was honored among a global field of top Microsoft partners for demonstrating excellence in innovation and implementation of customer solutions based on Microsoft technology."
-    publishedDateTime: 2021-07-08T19:02:00Z
-    webUrl: "https://apnews.com/press-release/globe-newswire/technology-5f346a5576c5d4088d572d5c11cfe4ef"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 33
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
   - title: "Scry Analytics Announces Its New Research and Development Center in Hyderabad, India"
     excerpt: "Scry Analytics (\"Scry\") announced its new Research and Development (R&D) Center in Hyderabad, India that will begin operations by August 1, 2021. This will be the second"
     publishedDateTime: 2021-07-09T07:00:00Z

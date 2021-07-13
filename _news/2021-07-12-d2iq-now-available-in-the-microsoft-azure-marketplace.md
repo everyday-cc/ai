@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "CIBC chooses Microsoft Azure as its primary cloud platform"
-    excerpt: "Microsoft Azure technology will also continue to offer scalable computing power for CIBC’s enterprise data lake and its artificial intelligence (AI)/machine learning (ML) platform to help it provide innovative client solutions. “Leveraging cutting-edge ..."
-    publishedDateTime: 2021-07-12T16:56:00Z
-    webUrl: "https://www.itbusiness.ca/news/cibc-chooses-microsoft-azure-as-its-primary-cloud-platform/118826"
-    ampWebUrl: "https://www.itbusiness.ca/news/cibc-chooses-microsoft-azure-as-its-primary-cloud-platform/118826?amp=1"
-    cdnAmpWebUrl: "https://www-itbusiness-ca.cdn.ampproject.org/c/s/www.itbusiness.ca/news/cibc-chooses-microsoft-azure-as-its-primary-cloud-platform/118826?amp=1"
-    type: article
-    provider:
-      name: IT Business
-      domain: itbusiness.ca
-    quality: 74
-    images:
-      - url: "https://i.itbusiness.ca/wp-content/uploads/2021/07/GettyImages-1254895286-620x250.jpg"
-        width: 620
-        height: 250
-        isCached: true
   - title: "Microsoft Announces the General Availability of Azure Arc-Enabled SQL"
     excerpt: "Microsoft announced the general availability as per the end of July of Azure Arc-enabled SQL, which extends the Azure SQL instances to be hosted on an edge data center or in a multi-cloud environment."
     publishedDateTime: 2021-07-09T11:26:00Z
@@ -55,40 +39,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "CIBC Announces Multi-Year Agreement to Use Microsoft’s Cloud-Based Platform"
-    excerpt: "( MSFT) to use Microsoft Azure as its primary cloud platform. The agreement will accelerate the bank's digital transformation and cloud-first approach. The multi-year investment includes CIBC cloud technology,"
-    publishedDateTime: 2021-07-09T05:49:00Z
-    webUrl: "https://www.nasdaq.com/articles/cibc-announces-multi-year-agreement-to-use-microsofts-cloud-based-platform-2021-07-09"
-    ampWebUrl: "https://www.nasdaq.com/articles/cibc-announces-multi-year-agreement-to-use-microsofts-cloud-based-platform-2021-07-09?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/cibc-announces-multi-year-agreement-to-use-microsofts-cloud-based-platform-2021-07-09?amp"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 67
-  - title: "Microsoft aims to expedite new edge computing use cases with Azure Percept"
-    excerpt: "With the modern cloud landscape nearing a point of saturation in terms of bandwidth, 5G combined with edge computing and AI looks to further ... silicon and telecom, Azure edge devices, and ..."
-    publishedDateTime: 2021-07-08T21:36:00Z
-    webUrl: "https://siliconangle.com/2021/07/08/microsoft-aims-expedite-new-edge-computing-use-cases-azure-percept-mwc21/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 67
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/07/Pete-Bernard-Mobile-World-Congress-2021.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "Microsoft (MSFT) Azure Cloud Leveraged by Canada-Based CIBC"
-    excerpt: "Microsoft’s MSFT Azure cloud platform is being leveraged by Canadian Imperial Bank of Commerce (“CIBC”) to revamp its business operations, boost operational efficiency and enhance client experiences."
-    publishedDateTime: 2021-07-12T14:40:00Z
-    webUrl: "https://www.nasdaq.com/articles/microsoft-msft-azure-cloud-leveraged-by-canada-based-cibc-2021-07-12"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 64
   - title: "Microsoft Launches Free Machine Learning Course For Beginners"
     excerpt: "Microsoft has launched a free MIT-approved learning course titled “Machine Learning For Beginners” to teach students the basics of machine learning. The course duration is 12 weeks. Azure Cloud advocates and Microsoft student ambassador authors,"
     publishedDateTime: 2021-07-08T12:30:00Z
@@ -103,47 +53,29 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "CIBC formalizes Microsoft Azure as its primary cloud platform"
-    excerpt: "Canadian Imperial Bank of Commerce and Microsoft announced a strategic relationship formalizing Microsoft Azure as CIBC’s primary cloud platform"
-    publishedDateTime: 2021-07-12T06:22:00Z
-    webUrl: "https://ibsintelligence.com/ibsi-news/cibc-formalizes-microsoft-azure-as-its-primary-cloud-platform/"
+  - title: "Qlik Recognized as a Finalist of 2021 Microsoft Analytics Partner of the Year Award"
+    excerpt: "Qlik ® today announced it has been named a finalist of the 2021 Microsoft Analytics Partner of the Year Award. The company was honored among a global field of top Microsoft partners for demonstrating excellence in innovation and implementation of customer solutions based on Microsoft technology."
+    publishedDateTime: 2021-07-08T19:02:00Z
+    webUrl: "https://apnews.com/press-release/globe-newswire/technology-5f346a5576c5d4088d572d5c11cfe4ef"
     type: article
     provider:
-      name: IBS
-      domain: ibsintelligence.com
-    quality: 54
+      name: Associated Press
+      domain: apnews.com
+    quality: 33
     images:
-      - url: "https://mk0ibsintelligek4gm6.kinstacdn.com/wp-content/uploads/2020/11/CIBC.jpg"
-        width: 300
-        height: 300
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
-  - title: "Blue Prism & Lateetud, Inc. recognized as finalists of the 2021 Microsoft AI Partner of the Year"
-    excerpt: "LONDON and AUSTIN, Texas and WASHINGTON, July 8, 2021 /PRNewswire/ -- Blue Prism® and Lateetud today announced that their joint solution has been"
-    publishedDateTime: 2021-07-08T21:05:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/blue-prism-lateetud-inc-recognized-as-finalists-of-the-2021-microsoft-ai-partner-of-the-year-1030591185"
+  - title: "Kwik Lok adds Microsoft executive to board"
+    excerpt: "Jeff’s addition to Kwik Lok’s board of directors brings many opportunities to expand our innovation, collaboration and technology initiatives,” Kimberly Paxton-Hagner, Kwik Lok board chairwoman, said in a news release."
+    publishedDateTime: 2021-07-12T23:08:00Z
+    webUrl: "https://www.thepacker.com/news/people/kwik-lok-adds-microsoft-executive-board"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 51
-  - title: "CIBC inks Microsoft Azure deal"
-    excerpt: "Azure will support the migration of hundreds of applications to the cloud, as well as offer scalable computing power for CIBC's enterprise data lake and AI platform. The bank will also get access to a suite of Microsoft training programmes and ..."
-    publishedDateTime: 2021-07-11T23:23:00Z
-    webUrl: "https://www.finextra.com/newsarticle/38434/cibc-inks-microsoft-azure-deal"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 34
-  - title: "Blue Prism & Lateetud, Inc. recognized as finalists of the 2021 Microsoft AI Partner of the Year"
-    excerpt: "LONDON and AUSTIN, Texas and WASHINGTON, July 8, 2021 /PRNewswire/ -- Blue Prism® and Lateetud today announced that their joint solution has been named a finalist for the Artificial Intelligence 2021 Microsoft Partner of the Year Award."
-    publishedDateTime: 2021-07-08T14:05:00Z
-    webUrl: "https://www.morningstar.com/news/pr-newswire/20210708da36675/blue-prism-lateetud-inc-recognized-as-finalists-of-the-2021-microsoft-ai-partner-of-the-year"
-    type: article
-    provider:
-      name: Morningstar, Inc.
-      domain: morningstar.com
-    quality: 21
+      name: The Packer
+      domain: thepacker.com
+    quality: 19
   - title: "Insight Wins 2021 Microsoft Worldwide Partner of the Year Awards for Azure Migration and Solution Assessments"
     excerpt: "Insight Enterprises (NASDAQ:NSIT), the global provider of Insight Intelligent Technology Solutions™ for organizations of all sizes, today announced it has won two 2021 Microsoft ( News - Alert) Worldwide Partner of the Year Awards as Migration to Azure Partner of the Year and Solution Assessments Partner of the Year."
     publishedDateTime: 2021-07-09T16:07:00Z
@@ -153,16 +85,7 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 15
-  - title: "CIBC and Microsoft announce strategic relationship to accelerate the bank's transformation and cloud-first approach"
-    excerpt: "CNW/ - Today CIBC and Microsoft announced a strategic relationship through a multi-year agreement formalizing Microsoft Azure as CIBC's primary cloud platform. CIBC's cloud-first approach will be enabled by Microsoft Azure's vast on-demand computing power,"
-    publishedDateTime: 2021-07-08T17:15:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-cibc-microsoft-announce-strategic-relationship-accelerate-banks-transformation-/2021/07/08/9405628.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 14
 
-secured: "VEcNz9rQJkg4ZelU8wFU75qZBAwWBp3t4PLeBNS7gLQ5uM8/s55FvGeNWllUaaAkgwK6IbZ0PEai5/1V4sSRjUXcDHAWg2etSuoG5FbteBOZLXW2gPnZEeBqkpYzqJB+bzu8baSh5QSInyWkX0JKvJkqd8OiUM2g6uQw+jxAOUFIn51ObvJzUkkwBPzlq6Xj1tvra5lvTYcdx/Anq3XtYsADhHi8CDYx75VbLyVxck2cKM/FgVaM/lLk58jccCKEoOWHBLI0szGgSG99A/1bnE++Y819qkURx1uTrx/VwaggzJkKqVn56Dq0sJynHI5eJb/8UQ8+B+2at1LpN92CaWd0DstvU5MmdltrM5l1OOI=;NkzT7qL/q5Ek1EEKICJo1w=="
+secured: "fIHq2mp0mBxXbeEaCPwNs7yIp+Eo9qsY23dd9QzIV4mH7nuzK+NyXFebXGmsWti5rHeytUxh3lj7daSLq0lOvPZ4jxCg3XxV7EGqzjLI/jVeCUC9DFWK/17fw49M5ApHb0aDTgziMVGdYUW0cuC8dwjZTMc9j+SwG4cLCOKtJYgozZsmBgBiDqI2sUC8/gtdIGjksYtXQOPQzOL4cIHUXCBFmuVkousLw1t9OQ+8hhOamgaGoLoEbUah2pgvObkvLvNqWIJY6dhv04P/YjCmDHHDnXjw3AAu2niYxPZ6t9nxlisez8kx/AzUdXkuoN2JDMSVDzZ4rtSbIy/ymiAn3ixU/7hC4Y6GGANiN8I5ZOCXS5eoe08NeQj/6upi+mMscw+apEXqonq3W9PAeUygii5WXiKoBXRAl3DZAtufV7omSa9fXpgww08VzeQ1G808Ky4D8V52JTY+8KwuTrTHbti4iAQfWu8JL1nhE/V8nXbmR1Mkdvwihwmp9jh/TDPuJvzw1wV8REamarBg4cxBfw==;g9CkjiVzr6csd8X7R53sJQ=="
 ---
 

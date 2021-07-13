@@ -9,7 +9,7 @@ ampWebUrl: "https://sea.mashable.com/tech/16612/tencent-uses-facial-recognition-
 cdnAmpWebUrl: "https://sea-mashable-com.cdn.ampproject.org/c/s/sea.mashable.com/tech/16612/tencent-uses-facial-recognition-to-stop-kids-from-gaming-at-night?amp=1"
 type: article
 quality: 89
-heat: 289
+heat: 279
 published: true
 
 provider:
@@ -247,20 +247,6 @@ related:
       - url: "https://images.eurogamer.net/2021/articles/2021-07-08-11-10/tencent.jpg"
         width: 967
         height: 579
-        isCached: true
-  - title: "China's Tencent turns to facial recognition to root out late-night child gamers"
-    excerpt: "(File photo: AFP/Greg Baker) BEIJING: Chinese tech giant Tencent has rolled out a facial recognition \"midnight patrol\" function to snag children masquerading as adults to get around a government curfew on underage gamers. China bans people under 18 from ..."
-    publishedDateTime: 2021-07-08T05:12:00Z
-    webUrl: "https://www.channelnewsasia.com/news/asia/china-tencent-facial-recognition-late-night-child-gamers-15179336"
-    type: article
-    provider:
-      name: Channel NewsAsia Singapore
-      domain: channelnewsasia.com
-    quality: 35
-    images:
-      - url: "https://cna-sg-res.cloudinary.com/image/upload/q_auto,f_auto/image/15179334/16x9/991/557/50520d3f21dc2cdfb1c67dfd8f2f029a/DL/chinese-regulators-have-scrambled-to-keep-up-with-the-country-s-voracious-appetite-for-video-games-which-have-been-blamed-for-social-ills-including-online-addiction-1625718902357-4.jpg"
-        width: 991
-        height: 557
         isCached: true
   - title: "Tencent low-light facial recognition to check night-time gaming among children"
     excerpt: "Some stakeholders such as parents have praised the biometric checks as a step the company has taken in the right direction."

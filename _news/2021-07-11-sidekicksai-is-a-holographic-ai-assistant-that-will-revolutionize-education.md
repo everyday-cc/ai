@@ -9,7 +9,7 @@ ampWebUrl: "https://www.gizchina.com/2021/07/11/sidekicks-ai-is-a-holographic-ai
 cdnAmpWebUrl: "https://www-gizchina-com.cdn.ampproject.org/c/s/www.gizchina.com/2021/07/11/sidekicks-ai-is-a-holographic-ai-assistant-that-will-revolutionize-education/amp/"
 type: article
 quality: 71
-heat: 72
+heat: 71
 published: true
 
 provider:

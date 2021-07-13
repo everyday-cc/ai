@@ -9,7 +9,7 @@ ampWebUrl: "https://www.geekwire.com/2021/naveen-jains-microbiome-startup-viome-
 cdnAmpWebUrl: "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2021/naveen-jains-microbiome-startup-viome-splits-consumer-research-divisions/amp/"
 type: article
 quality: 83
-heat: 84
+heat: 83
 published: true
 
 provider:

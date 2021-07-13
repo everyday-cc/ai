@@ -248,20 +248,6 @@ related:
         width: 967
         height: 579
         isCached: true
-  - title: "China's Tencent turns to facial recognition to root out late-night child gamers"
-    excerpt: "(File photo: AFP/Greg Baker) BEIJING: Chinese tech giant Tencent has rolled out a facial recognition \"midnight patrol\" function to snag children masquerading as adults to get around a government curfew on underage gamers. China bans people under 18 from ..."
-    publishedDateTime: 2021-07-08T05:12:00Z
-    webUrl: "https://www.channelnewsasia.com/news/asia/china-tencent-facial-recognition-late-night-child-gamers-15179336"
-    type: article
-    provider:
-      name: Channel NewsAsia Singapore
-      domain: channelnewsasia.com
-    quality: 35
-    images:
-      - url: "https://cna-sg-res.cloudinary.com/image/upload/q_auto,f_auto/image/15179334/16x9/991/557/50520d3f21dc2cdfb1c67dfd8f2f029a/DL/chinese-regulators-have-scrambled-to-keep-up-with-the-country-s-voracious-appetite-for-video-games-which-have-been-blamed-for-social-ills-including-online-addiction-1625718902357-4.jpg"
-        width: 991
-        height: 557
-        isCached: true
   - title: "Tencent low-light facial recognition to check night-time gaming among children"
     excerpt: "Some stakeholders such as parents have praised the biometric checks as a step the company has taken in the right direction."
     publishedDateTime: 2021-07-08T17:34:00Z
@@ -319,6 +305,6 @@ related:
         height: 628
         isCached: true
 
-secured: "39vZgu3hvPfZjy0MsX8+xHneDHAkmlAwszqEUXF+AoiUMcjKCk8JowdTAmcewRjU0yZqdjLndc68jNgUR1ZJYTggzX2DlJu8JELcgfSxdSfZn8PF72Zpm8TgXp69hA7wVdg68YvDp+G3XeZXj9x2ZxOjzjVuMhbldMRfd0eLXsGiprUYZeeG5wbxjNa7UAQQ+MltlkAyVYAfIRtGaarYIEEjpl8Ads2NzjNlO+vtxp6CmFW+fv3vb48RoxIsM+ppn9H+GrrCuizPF0iiDLsijVfO4e2hhY1vKTZiZE5BEKwE9jnG35bjoCxM+NjcjbQu3OPRWHXOu3G1rMDIIQXVezckMj6vTllvytmtuIkjNE8=;FheuL9PDf24qnQDaMJi6Iw=="
+secured: "LDyihIxqCQ1+F+FPMJi5G3caLIfACeyVED8/31Uh0a0R0lr76WC3l/3bzR8RyJX+ShhQk5cJONnpYeWk4Yc+CVPHLDskU3TGWFDwsTsAoWkyORES9++SulbXuCnwaJUemk0D2W3DI94/OSQfJ3zPZcKxBDQI67buNrfuXUrj/X5reezNohxc/DLpTiVLxQSFH+jRvP56zam+6T8Ai1LlC3LTeo6UgUoOEnSDFYSwMd8IbIsgTH/3NjsGxtakWO3PNUm6dr3SfQIi2FnSO9qUj5p6Z0qSajj27kayNRN7QhIe0c66F2jL9vvyo7Zxrb0asJ+sCQzGqGXZS7J1ZGI7LohsVUMBoUkia8EaCHRD8Q/ps1kn/L4qP4FtpYmh52oKiMFO4Wk3YSb/RaU/V09gFcMhzfOaY8pbrDI5tGkoNE0oFtdnE+sm2ffLRm9h3jX0PgWf0jm1/lSs6gGl4sWWjPceidtwgekZ8rYyFWjwCk3glYONmG5zwJHDXh0jOSsrkgWoi05jMRDPOMpI+XS2LA==;lcmTqN8gnGCqEZVijso/CA=="
 ---
 

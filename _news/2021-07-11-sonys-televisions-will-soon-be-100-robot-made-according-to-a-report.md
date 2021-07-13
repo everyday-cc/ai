@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/sony-robots-automation-tv-camera-sma
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/sony-robots-automation-tv-camera-smartphone-factory-2021-7?amp"
 type: article
 quality: 89
-heat: 100
+heat: 99
 published: true
 
 provider:

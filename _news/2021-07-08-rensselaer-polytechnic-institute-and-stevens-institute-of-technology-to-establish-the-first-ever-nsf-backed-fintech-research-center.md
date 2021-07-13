@@ -48,20 +48,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 34
-  - title: "Here Are the Winners of the Swiss Fintech Awards 2021"
-    excerpt: "The Swiss Fintech Awards 2021 named FQX and Yokoy best fintech startups of the year. Cornelia Stengel named 'Fintech Influencer of the Year.'"
-    publishedDateTime: 2021-07-08T06:02:00Z
-    webUrl: "https://fintechnews.ch/partner-content/here-are-winners-of-the-swiss-fintech-awards-2021/47131/"
-    type: article
-    provider:
-      name: fintechnews.ch
-      domain: fintechnews.ch
-    quality: 24
-    images:
-      - url: "https://fintechnews.ch/wp-content/uploads/2021/07/The-Swiss-Fintech-Awards-2021-Winners-Are.jpg"
-        width: 2048
-        height: 1136
-        isCached: true
 
 secured: "pZ+Vb+4wio3Wu4SNjfsgegglqMqX2GgydTHLKyAVSwNUEB/aMgjJPM6H1lJmsydOfdUnIB5czAVFU4j6/QgVTnFLgm7LV0k1dEZPv/Z4Dhg+a4w6FfWK5RBir46hMitSp+5T9mt3S0p3KFYHe77OaQ2nU2OEYitLM3lkOBh293Eki8b/GVe95VitFVjCP6Z5mS7Tkh6rvUswfDHbUZTkPDN6KJB4QmLE6kk/8pPWpDlkcKWtPkvJfTWc94u1cHnNRzSH8bv7G3xkhmSiZogcq68ASHOu2yp4Sz56AIjPNugwJtSOr8mt04rt95mAOhOdkwA60Q5nKU7HZF+vgXQWhNahRmfqpX4HCj0ivBFO44yYK72eFsdWeX/dXzZSan0/I8S/pMUF70iITBPv7b5M6PTlQlDYdsZWT5q3tQZB8kcA2g0gKzUdN6EsPldc8GV5yioChln6s5uVDxzmZXpiZ6V8pKt4W5yRZ0nRY2m8bOY+PWR2FavwvQNafS2BvV+TnYD42/M1gzgIg1x6NV+OyQ==;QKkWndhtADHhKSk4LkwGFw=="
 ---

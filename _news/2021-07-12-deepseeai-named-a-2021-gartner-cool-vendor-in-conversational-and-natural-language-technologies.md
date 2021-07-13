@@ -3,8 +3,8 @@ category: news
 title: "DeepSee.ai Named a 2021 Gartner Cool Vendor in Conversational and Natural Language Technologies"
 excerpt: "DeepSee.ai, a provider of AI-powered automation that solves line-of-business problems in Capital Markets and Insurance industries, announced today that it has been named a 2021 \"Cool Vendor\" by Gartner ( News - Alert) in the latest industry report on Conversational and Natural Language Technologies."
 publishedDateTime: 2021-07-12T15:24:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/2021/07/12/9406890.htm"
-webUrl: "https://www.tmcnet.com/usubmit/2021/07/12/9406890.htm"
+originalUrl: "https://www.tmcnet.com/usubmit/-deepseeai-named-2021-gartner-cool-vendor-conversational-natural-/2021/07/12/9406890.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-deepseeai-named-2021-gartner-cool-vendor-conversational-natural-/2021/07/12/9406890.htm"
 type: article
 quality: 7
 heat: 7
@@ -29,6 +29,6 @@ related:
       domain: businesswire.com
     quality: 6
 
-secured: "KPjn1RJXNxlZ9ekQjp7oG9y4b+KMVr2ZAxLnMRICoYTRLkE4A1hOzT2klKVp09Ifc5h70uSxkTosJbNJVPjrAOG+H4Vlo37uGIdVsqtY06MJGzsvsqonBvf0qP5uQc1pXt9EC/sPewjNx3uJkq3jzIvI9fXbYozWjXLA6toEtHFO2chhbuTUgr7a8ai+xUX9bARjkd6WFKGuCh4z9n8E/Xta0m5UeyFGgHbZY9YQtmu8V5QXT/dBjdhFkpRGvp5h1kU+gJt+pDzSOKdiYlrAetqb07nrHx9vnJbTAZ2nfyf6vmjO6S9Pdm7ZwbGyQTchWtVKTd2Evar+mb+WFe4ZDL5mM76Nbdjq2CuJz8XKfo4=;4QLGIr5o9nMZUzcSi2DVDw=="
+secured: "wGCXNvhrM7iqZfHCtjJWmKXrUQmnfhXKSRaI/rzmmCx7z+E9Uag6fjuT2K7h+XDW0XkWoHxbwH7PayxHt6V5PSwgqWZ1zMUld7ErQmlIaesgN6teiL0u2m52h7LG5/mPjCfJpBPZRt7KHaUuJcrP6DnFyzpWTs/nTQttSAVUCQUH2tD7brubGLqhqIwxFSxEnCK0O53KkHwgy1eBHv4CxybpSvtOcHQydr4KBQj/tWVhSyEFeAETELHRKKiSisWi5K13lazUym9zfCotw2ib/Y8vgaPjhF0dO3oMR35MSIZIPFLxYA4r/4L2KggB1KhTM2CfFgHEXasaMYQRPj9D8MZ2Hmd8Js4e902ZgWdtQAA=;LfTF2vM5tm87tUBW5c4PXA=="
 ---
 

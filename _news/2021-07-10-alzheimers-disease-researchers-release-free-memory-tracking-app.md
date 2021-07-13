@@ -33,6 +33,17 @@ related:
         width: 1120
         height: 630
         isCached: true
+  - title: "Facing intense criticism, FDA narrows use of Alzheimer’s drug to patients with early-stage disease"
+    excerpt: "WASHINGTON — The Food and Drug Administration on Thursday limited the recommended use of a controversial new Alzheimer’s drug to patients with mild cognitive impairment or early dementia from ..."
+    publishedDateTime: 2021-07-08T19:51:00Z
+    webUrl: "https://www.seattletimes.com/nation-world/facing-intense-criticism-fda-narrows-use-of-alzheimers-drug-to-patients-with-early-stage-disease/"
+    ampWebUrl: "https://www.seattletimes.com/nation-world/facing-intense-criticism-fda-narrows-use-of-alzheimers-drug-to-patients-with-early-stage-disease/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/nation-world/facing-intense-criticism-fda-narrows-use-of-alzheimers-drug-to-patients-with-early-stage-disease/?amp=1"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 10
 
 secured: "k6MTTnKOMDwaMaGJQxIuDx4mrBoeEfB7W/YvNd/7Ylg1t06e8r4xJf8ZrpoDeBhmaXmuXeWQV72WiKrEmU3jTiLepmsOAeSZam6vyGJMtojUmwBXvHwalE9hYripm12YdxgH7Ef+3eQqEH/xuS0bRZXWr3RfEELwgQ8BckaLf5aMVfY1ZwcDwTIs9ol7NCUONrJEXMw1MdY0WfSS5INXq0oTuWxkTOkpPfwWkYFZ+aoinWXILolNTKi5Uy2+PFFjYlLrzgCQd051T3BJikfiW4tfWtm48cNWqO52zlizUkRvNpnKFl+ZAA1bGwwNCdY3eKLyofYFofzWjDAKp4cDFWk49sLAVXkonO5mruWrDzo=;c6KJ3EuAVg2sIMKdDgQ5/w=="
 ---

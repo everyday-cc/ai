@@ -33,6 +33,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Worldwide Educational Robot Industry to 2026 - Key Players Include Adele Robots, Aisoy Robotics and Idmind Among Others"
+    excerpt: "These robots can perform various functions ... along with the increasing utilization of artificial intelligence and machine learning (AI/ML) technologies in the education sector, is one of ..."
+    publishedDateTime: 2021-07-12T22:14:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/worldwide-educational-robot-industry-to-2026-key-players-include-adele-robots-aisoy-robotics-and-idmind-among-others-1030598888"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 55
   - title: "Robot Operating System Market Size 2021 by Company, Product introduction, Products Sales Volume, Revenue, Price and Gross Margin to 2030"
     excerpt: "In a recent published report, Kenneth Research has updated the market report for Robot Operating System Market for"
     publishedDateTime: 2021-07-09T17:02:00Z

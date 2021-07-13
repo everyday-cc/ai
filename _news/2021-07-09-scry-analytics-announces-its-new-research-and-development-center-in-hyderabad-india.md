@@ -35,20 +35,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Qlik Recognized as a Finalist of 2021 Microsoft Analytics Partner of the Year Award"
-    excerpt: "Qlik ® today announced it has been named a finalist of the 2021 Microsoft Analytics Partner of the Year Award. The company was honored among a global field of top Microsoft partners for demonstrating excellence in innovation and implementation of customer solutions based on Microsoft technology."
-    publishedDateTime: 2021-07-08T19:02:00Z
-    webUrl: "https://apnews.com/press-release/globe-newswire/technology-5f346a5576c5d4088d572d5c11cfe4ef"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 33
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
   - title: "Global Artificial Intelligence Platform Market Size, Share and Analysis To Grow At An Annual Rate Of 56.6% Through 2024"
     excerpt: "The report Artificial Intelligence Platform Market Size and Analysis maintains enhanced dynamics and is overshadowed by a top player across the globe. The research report provides Artificial Intelligence Platform Market Growth and information corresponding to market segments such as geographies,"
     publishedDateTime: 2021-07-09T10:33:00Z

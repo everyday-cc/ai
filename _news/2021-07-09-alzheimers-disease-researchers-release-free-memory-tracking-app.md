@@ -25,6 +25,17 @@ images:
     isCached: true
 
 related:
+  - title: "Facing intense criticism, FDA narrows use of Alzheimer’s drug to patients with early-stage disease"
+    excerpt: "WASHINGTON — The Food and Drug Administration on Thursday limited the recommended use of a controversial new Alzheimer’s drug to patients with mild cognitive impairment or early dementia from ..."
+    publishedDateTime: 2021-07-08T19:51:00Z
+    webUrl: "https://www.seattletimes.com/nation-world/facing-intense-criticism-fda-narrows-use-of-alzheimers-drug-to-patients-with-early-stage-disease/"
+    ampWebUrl: "https://www.seattletimes.com/nation-world/facing-intense-criticism-fda-narrows-use-of-alzheimers-drug-to-patients-with-early-stage-disease/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/nation-world/facing-intense-criticism-fda-narrows-use-of-alzheimers-drug-to-patients-with-early-stage-disease/?amp=1"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 10
   - title: "Alzheimer's Disease Researchers Release Free Memory Tracking App"
     excerpt: "Leucadia Therapeutics Inc, a California HealthTech Company, is launching 8 Apps that help exercise memory and cognition, including"
     publishedDateTime: 2021-07-09T19:30:00Z

@@ -25,40 +25,66 @@ images:
     isCached: true
 
 related:
-  - title: "Text Analytics Market Top Vendors Analysis, Market Challenges and Geographical Analysis"
-    excerpt: "As per Global Market Insights, Inc. estimates, the global text analytics market size is expected to cross $20 billion by 2027. The global text analytics market share is slated to expand at an appreciable rate over the foreseeable future,"
-    publishedDateTime: 2021-07-09T12:07:00Z
-    webUrl: "https://www.marketwatch.com/press-release/text-analytics-market-top-vendors-analysis-market-challenges-and-geographical-analysis-2021-07-09"
+  - title: "Microsoft Announces the General Availability of Azure Arc-Enabled SQL"
+    excerpt: "Microsoft announced the general availability as per the end of July of Azure Arc-enabled SQL, which extends the Azure SQL instances to be hosted on an edge data center or in a multi-cloud environment."
+    publishedDateTime: 2021-07-09T11:26:00Z
+    webUrl: "https://www.infoq.com/news/2021/07/azure-arc-enabled-sql/"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 46
+      name: InfoQ
+      domain: infoq.com
+    quality: 69
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+      - url: "https://res.infoq.com/news/2021/07/azure-arc-enabled-sql/en/headerimage/header+%283%29-1625687685497.jpg"
         width: 1200
         height: 630
         isCached: true
-  - title: "Scry Analytics Announces Its New Research and Development Center in Hyderabad, India"
-    excerpt: "Scry Analytics (\"Scry\") announced its new Research and Development (R&D) Center in Hyderabad, India that will begin operations by August 1, 2021. This will be the second"
-    publishedDateTime: 2021-07-09T07:00:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/21/07/p21910313/scry-analytics-announces-its-new-research-and-development-center-in-hyderabad-india"
-    ampWebUrl: "https://www.benzinga.com/amp/content/21910313"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/21910313"
+  - title: "D2iQ Now Available in the Microsoft Azure Marketplace"
+    excerpt: "D2iQ, a leading independent Kubernetes platform, today announced the availability of the D2iQ Kubernetes Platform (DKP), including"
+    publishedDateTime: 2021-07-12T13:03:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/d2iq-now-available-in-the-microsoft-azure-marketplace-301331501.html"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 17
-  - title: "Global Artificial Intelligence Platform Market Size, Share and Analysis To Grow At An Annual Rate Of 56.6% Through 2024"
-    excerpt: "The report Artificial Intelligence Platform Market Size and Analysis maintains enhanced dynamics and is overshadowed by a top player across the globe. The research report provides Artificial Intelligence Platform Market Growth and information corresponding to market segments such as geographies,"
-    publishedDateTime: 2021-07-09T10:33:00Z
-    webUrl: "https://www.arnnet.com.au/mediareleases/144023/global-artificial-intelligence-platform-market/"
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 69
+    images:
+      - url: "https://mma.prnewswire.com/media/1156495/D2IQ_Logo.jpg?p=facebook"
+        width: 2161
+        height: 1130
+        isCached: true
+  - title: "Microsoft Launches Free Machine Learning Course For Beginners"
+    excerpt: "Microsoft has launched a free MIT-approved learning course titled “Machine Learning For Beginners” to teach students the basics of machine learning. The course duration is 12 weeks. Azure Cloud advocates and Microsoft student ambassador authors,"
+    publishedDateTime: 2021-07-08T12:30:00Z
+    webUrl: "https://analyticsindiamag.com/microsoft-launches-free-machine-learning-course-for-beginners/"
     type: article
     provider:
-      name: ARN
-      domain: arnnet.com.au
-    quality: 0
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 58
+    images:
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/07/maxresdefault.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Kwik Lok adds Microsoft executive to board"
+    excerpt: "Jeff’s addition to Kwik Lok’s board of directors brings many opportunities to expand our innovation, collaboration and technology initiatives,” Kimberly Paxton-Hagner, Kwik Lok board chairwoman, said in a news release."
+    publishedDateTime: 2021-07-12T23:08:00Z
+    webUrl: "https://www.thepacker.com/news/people/kwik-lok-adds-microsoft-executive-board"
+    type: article
+    provider:
+      name: The Packer
+      domain: thepacker.com
+    quality: 19
+  - title: "Insight Wins 2021 Microsoft Worldwide Partner of the Year Awards for Azure Migration and Solution Assessments"
+    excerpt: "Insight Enterprises (NASDAQ:NSIT), the global provider of Insight Intelligent Technology Solutions™ for organizations of all sizes, today announced it has won two 2021 Microsoft ( News - Alert) Worldwide Partner of the Year Awards as Migration to Azure Partner of the Year and Solution Assessments Partner of the Year."
+    publishedDateTime: 2021-07-09T16:07:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2021/07/09/9406115.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 15
 
 secured: "MJeo8zKqpSAy2xnWwGTsvTbIqMJ3mf0S5ElW58lQevFYn3JPpHdMyMZg19M4hT4wGIkILe0Puml3aYS1jkMJLaHE9nFZmwNlBNd1psEFZlOjydemKvs8Nkw8fz7GujdnzIOLEAkNDZ+VRLbNLQZsac/+uqK3Y2l6S4eYQL7soDGTXZbdCsnkyT00jtGdD96JWsssMWjI+IXUEu75jB41PlYbaD0NI6RaqGFHwJbJKtxIFI3STGt/tCoa9bAgdSgmy0d3rweE7u8EclSHXL3yqdhzyOMvmfIXEWfGN6sb1LgylwIDFdLOWLC5lJlTjupZwjZsxmVYgBdqfof+rBdqLVx4S04I3XCCive0TDa+lrU=;qE+4re99nNuyLihwLiZS0Q=="
 ---

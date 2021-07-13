@@ -33,20 +33,6 @@ related:
         width: 3200
         height: 1800
         isCached: true
-  - title: "Here Are the Winners of the Swiss Fintech Awards 2021"
-    excerpt: "The Swiss Fintech Awards 2021 named FQX and Yokoy best fintech startups of the year. Cornelia Stengel named 'Fintech Influencer of the Year.'"
-    publishedDateTime: 2021-07-08T06:02:00Z
-    webUrl: "https://fintechnews.ch/partner-content/here-are-winners-of-the-swiss-fintech-awards-2021/47131/"
-    type: article
-    provider:
-      name: fintechnews.ch
-      domain: fintechnews.ch
-    quality: 24
-    images:
-      - url: "https://fintechnews.ch/wp-content/uploads/2021/07/The-Swiss-Fintech-Awards-2021-Winners-Are.jpg"
-        width: 2048
-        height: 1136
-        isCached: true
   - title: "Rensselaer Polytechnic Institute and Stevens Institute of Technology To Establish the First-Ever NSF-Backed Fintech Research Center"
     excerpt: "Rensselaer Polytechnic Institute and Stevens Institute of Technology announced today that they have been awarded the first-ever National Science Foundation (NSF) grant to create an industry-university cooperative research center devoted specifically to financial technology and science."
     publishedDateTime: 2021-07-08T15:22:00Z

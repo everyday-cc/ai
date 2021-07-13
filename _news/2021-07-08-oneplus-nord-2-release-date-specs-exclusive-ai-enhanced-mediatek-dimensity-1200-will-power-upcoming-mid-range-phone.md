@@ -41,22 +41,6 @@ related:
         width: 1000
         height: 563
         isCached: true
-  - title: "OnePlus Nord 2 confirmed with new MediaTek chip made for photo processing"
-    excerpt: "OnePlus recently confirmed the existence of the Nord 2 via a surprise press release. Officially named the “Nord 2 5G”, the phone will sport several enhancements over the original OnePlus Nord, including the MediaTek chipset and AI-based features."
-    publishedDateTime: 2021-07-08T07:00:00Z
-    webUrl: "https://www.tomsguide.com/uk/news/oneplus-nord-2-confirmed-with-new-mediatek-chip-made-for-photo-processing"
-    ampWebUrl: "https://www.tomsguide.com/uk/amp/news/oneplus-nord-2-confirmed-with-new-mediatek-chip-made-for-photo-processing"
-    cdnAmpWebUrl: "https://www-tomsguide-com.cdn.ampproject.org/c/s/www.tomsguide.com/uk/amp/news/oneplus-nord-2-confirmed-with-new-mediatek-chip-made-for-photo-processing"
-    type: article
-    provider:
-      name: Tom's Guide
-      domain: tomsguide.com
-    quality: 58
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/UU8k7B4KinXkzEnJEHxUUo-480-80.jpg"
-        width: 480
-        height: 270
-        isCached: true
 
 secured: "qo2Dv+1iBzE44qdLXE7JJUFTRL/0LInCI5Yaxk1B/EVMgflyLtEnpFV3yexUhhhTub8hAU7PYq996DyDXIOnCxPRtNxeBnfCJQ8eUuASmWbJPVPuMcK16ZzLE4MfX1RiouwpPUT3TzIIrUD5wndNphIvqctE34/t8520NB+SBDib3L33HOhICJwqhYsNZb7ZiKvuR+D6xJHgI2b7EkmbnFWylWgIyKACSWeGFd640+GoWT90sA2tc9ppvz05GfntBKCUmPsLtbxSBA2+JYg6t5jnoS5rIylVmMeJJXN7MKPg86eZdK5w58+bReZQMjETB64qY7UrhRAkqkaEJHEH5eKgj+BEU5mp4VOLHHaMZNf5ZA2gRJX6WEdxT22SN0fBXU+y0gdtnflJ4PAwmQUo5j2BpRrY3W0lTNW1hJqN94Bt/V6jelCPJxy/OrTIINmWOgaIguDyJ9Y14PBUbU0OB31rGXBtkFEtW9+HTnTuh7ZE36GvhseSwNEBPSspVARMsMyfTzqp342CD/monbbQdQ==;hSh4mJXnpuuCsRWeH7qSCg=="
 ---

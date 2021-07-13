@@ -83,20 +83,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Halo and Las Vegas Launch Driverless Car Service Powered by T-Mobile 5G"
-    excerpt: "A driverless Halo then arrives at the pick ... safety hazard or system anomaly is detected. Using an advanced Artificial Intelligence algorithm, the car also learns in the background while humans ..."
-    publishedDateTime: 2021-07-08T13:35:00Z
-    webUrl: "https://www.register-herald.com/region/halo-and-las-vegas-launch-driverless-car-service-powered-by-t-mobile-5g/article_c8b4a658-af42-5b51-bf52-f8cb79cfbb24.html"
-    type: article
-    provider:
-      name: The Register-Herald
-      domain: register-herald.com
-    quality: 39
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/register-herald.com/content/tncms/assets/v3/editorial/3/50/3507b827-eab7-5aa7-9a74-200ce5f0f09e/60e6fac40a932.image.jpg?resize=992%2C630"
-        width: 992
-        height: 630
-        isCached: true
   - title: "Las Vegas to Get 5G Driverless Car Service, Courtesy of Halo and T-Mobile"
     excerpt: "Las Vegas will soon ride in driverless cars powered by 5G, thanks to a partnership between T-Mobile and Halo. Autonomous driving represents an appealing and flourishing market in this day and age. And we’ve got all the tools to make that happen."
     publishedDateTime: 2021-07-09T07:12:00Z
@@ -110,6 +96,20 @@ related:
       - url: "https://s1.cdn.autoevolution.com/images/news/las-vegas-to-get-5g-driverless-car-service-courtesy-of-halo-and-t-mobile-164997-7.jpg"
         width: 728
         height: 300
+        isCached: true
+  - title: "Rideshare Service Halo Introduces Driverless Cars That Can Be Delivered Remotely"
+    excerpt: "“Driverless cars! Fueling this kind of ... come to a full stop upon detecting a hazard. The cars also use Artificial Intelligence to learn the driving patterns of humans over time."
+    publishedDateTime: 2021-07-12T23:10:00Z
+    webUrl: "https://hypebeast.com/2021/7/halo-driverless-vehicles-las-vegas"
+    type: article
+    provider:
+      name: Hypebeast
+      domain: hypebeast.com
+    quality: 34
+    images:
+      - url: "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2021%2F07%2FThis-Car-Rental-App-Uses-5G-To-Power-Driverless-Vehicles-tw.jpg?w=960&cbr=1&q=90&fit=max"
+        width: 960
+        height: 480
         isCached: true
   - title: "T-Mobile's 5G to connect drivers with remote-controlled cars in Vegas"
     excerpt: "Further, the company is using an artificial intelligence (AI) algorithm that \"learns in the ... To be clear though, there are plenty of obstacles facing both T-Mobile and Halo. The driverless car market remains in its infancy, and requires coordination ..."
@@ -125,6 +125,15 @@ related:
         width: 600
         height: 600
         isCached: true
+  - title: "Halo and Las Vegas Launch Driverless Car Service Powered by T-Mobile 5G"
+    excerpt: "Driverless Halos solve transportation challenges ... safety hazard or system anomaly is detected. Using an advanced Artificial Intelligence algorithm, the car also learns in the background while ..."
+    publishedDateTime: 2021-07-08T13:10:00Z
+    webUrl: "https://www.morningstar.com/news/business-wire/20210708005541/halo-and-las-vegas-launch-driverless-car-service-powered-by-t-mobile-5g"
+    type: article
+    provider:
+      name: Morningstar%2c Inc.
+      domain: morningstar.com
+    quality: 19
 
 secured: "AjPQRy3O2MaCpq39fPcky5JhCKcAbjG7eCFbDZjAqxDTgVPsNGejvq0ptOkrDzhgENVuRgYA791TRKT+Y3RtJPYCNw6g6vCP+ZNktsWSFeJCXy8tMU3Kx4ZLD2AIfaNeuo836EqDctYW4FX/B5dTJWnJlkTyZ5bTNIpbU9CnskRo+EiY+WajZbX1Wf9f1UaYpXEu753WbxXQ+CY6RBEcvEvoR/9FzpLrc5U6CG+Q+6uFpMNMLPAKVbW5/rc+dIXN9jXoHk4i5TGD9vt4x5NPTONp4n+XG6aimHUp0LJQdlBeYRb8VvD7etf/P6kpgFRrFGUlaQ+mHo3id5Rfd2JyC4v6lkKy7Jg9Lj4lI67hT/va8KQxOwtnBo21zBXKwbRbShe85V7WB2RRx/9kDC6ax3m2mJM1qKNBb+kj7kPntN4X0Rt1tlSeSJmRHSEB7K034xKnxDA7mseoujDqDqROMkb2QF8Q9SxDVmK5qFjI3SwVsKIR6z3vRMqNB5fi/zqp4AHw+QqeGbnrCsO49Hyukw==;g/XqBEwMdR3kbBp8czCKjQ=="
 ---
