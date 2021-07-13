@@ -72,6 +72,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "ZoomInfo acquires Chorus.ai for $575M to expand its sales intelligence platform"
+    excerpt: "Publicly-traded ZoomInfo Technologies Inc., which supplies enterprises with market intelligence they use to find new customers, today announced that it has inked a deal to buy sales analytics startup Chorus."
+    publishedDateTime: 2021-07-13T19:11:00Z
+    webUrl: "https://siliconangle.com/2021/07/13/zoominfo-acquires-chorus-ai-575m-expand-sales-intelligence-platform/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 50
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/07/zoominfo.jpg"
+        width: 900
+        height: 507
+        isCached: true
   - title: "ZoomInfo Buys Israeli Company Chorus.ai for $575 Million"
     excerpt: "Employees of an Israeli startup company work at the company’s office in Tel Aviv, Israel, Feb. 7, 2018. Photo: Reuters"
     publishedDateTime: 2021-07-13T14:18:00Z

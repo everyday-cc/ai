@@ -72,6 +72,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "ZoomInfo acquires Chorus.ai for $575M to expand its sales intelligence platform"
+    excerpt: "Publicly-traded ZoomInfo Technologies Inc., which supplies enterprises with market intelligence they use to find new customers, today announced that it has inked a deal to buy sales analytics startup Chorus."
+    publishedDateTime: 2021-07-13T19:11:00Z
+    webUrl: "https://siliconangle.com/2021/07/13/zoominfo-acquires-chorus-ai-575m-expand-sales-intelligence-platform/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 50
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/07/zoominfo.jpg"
+        width: 900
+        height: 507
+        isCached: true
   - title: "ZoomInfo buys Israel-US startup Chorus.ai for $575m"
     excerpt: "US business intelligence company ZoomInfo (Nasdaq: ZI) announced today that it is acquiring Israeli-US startup Chorus.ai for $575 million cash. Chorus.ai has developed a system that analyzes and provides insights on sales conversations and competes with Israeli startup Gong."
     publishedDateTime: 2021-07-13T12:22:00Z
@@ -96,6 +110,6 @@ related:
       domain: bizjournals.com
     quality: 17
 
-secured: "LqEqc1NZruT5TMm5TjE1yvwXlnAyCo+AD5GZuoCpsK4VDHGf+rx+Pe03cFK3oHIIZkpjfEeQzsLf4vkezk6dWvVQesYPFLORcGKIzwF8fVOvqwJFC1c3Q2FN9YkOb6aJmMjkuXf0dkAJemZPfzyobkiwS0u004X4tHxMXYowfmj6tvdXI1IFkVDqMmW0a2sf8f+/xPG28/v5+hU7KDSx/BsFZ1orX7AcEF5GAUJ75tCvrKjCnMf7tPHQySX5KU63BeHrYkGXJOKEM3xxwXhfyIAjS35XpkE8UQCGpqrlZper9ynGcI3H9qfERLhY0VN46xsYUvS5EU7r0ot5WRPDjkCxdZRLFBgQ74VLxIcsE6g=;0XGPiUuPgo7CiLDSRPzGeQ=="
+secured: "zTvC53AxsuwszrtB1lxtu5FSbA1G68wEIWqlDTfBKJg/GpIfcpEXPDYkMZ2R2znoJ4/+I34cskILhoObApp6iXZws9j5Rm1uKWtSLo/p2eVT7uuAE6iFqG6uQAHPu3aLFpQF0KP9ezWHE0+nAILeorkZoGNRxBcEkGWXu1bsuQuZuqjRkrJ+UNcR8yS0qFlbHpYHUpxyNLsK5zMyy/AY21xV4HmH4cQ/7XFQWU/bPxaAQwdV8zFvTu22yL/mvz2cY5O2rgROdbXIogrgXFBvUZPkCQ6jCSVzF11kOMePaMav5Z4XHyik6Q0O1qtY4yjO7V5V6+U5jGZQfa+z9UCMwtC1hp6lA8nZHagq/1CFZEfp0dZkaVLAoU88cRmF4TBEWRB49KDxQ/thmpWwNP6SIEDhU9/GlWZnWn5PRlANu871mR+3TH9fmxAeWrK8bhCp/PKnJLKIrlxDa146i0sZnvZuS4SBY00bwmZjuiIlLMEj0M5RliLE00QoiXYvveod/8BJVGvLNQllJ5DNyf5ufw==;yOgLPVsO37oVyMjkNeVlQQ=="
 ---
 

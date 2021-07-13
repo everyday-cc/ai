@@ -9,7 +9,7 @@ ampWebUrl: "https://www.theverge.com/platform/amp/2021/7/9/22570225/us-sanctions
 cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2021/7/9/22570225/us-sanctions-chinese-facial-recognition-silicon-valley-funding"
 type: article
 quality: 156
-heat: 206
+heat: 216
 published: true
 
 provider:
@@ -73,6 +73,20 @@ related:
         width: 540
         height: 405
         isCached: true
+  - title: "Facial-Recognition Tech Gets Bipartisan Call for More Regulation"
+    excerpt: "The use of facial-recognition software by law enforcement should be regulated, a bipartisan group of lawmakers said, amid concerns of misidentification and violations of constitutional rights and due process."
+    publishedDateTime: 2021-07-13T17:35:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2021-07-13/facial-recognition-tech-gets-bipartisan-call-for-more-regulation"
+    type: article
+    provider:
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 54
+    images:
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i35tDSsiJq1c/v1/1200x800.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Farmington Hills man misidentified by facial recognition technology testifies at Congressional hearing"
     excerpt: "The Farmington Hills man who has sued Detroit police after being wrongfully identified by the department's facial recognition technology in a shoplifting investigation is testifying in front of a congressional subcommittee Tuesday."
     publishedDateTime: 2021-07-13T14:59:00Z
@@ -104,6 +118,6 @@ related:
         height: 800
         isCached: true
 
-secured: "07JoEKcbisaOpYSiZipUJUNyd8I+bdKJR/R8l4FE9jC1+Q7xUV03TY1W9m5p0F5zkK5CzTJ/m9MsAeqauoee01jtuZ1OdogUA2qTOqRC/C7BrP0oB8yPQNvujjt/93mE8DWh+32zEcQDRBwXZ1NIGGjqyY/087/2l7uojp2/cLGQGQCwzaoEpdUdpbcVXf1JDE3PJIXjubYQiepulB+APnj+qQyPM/IxnpDMDAEh6Y8T9qm8LAOSZ+2tO+T9NAu6x79xy3gBQ0HskxdtHsfedBqblFAW/ee4Qt+uANpdIAK647osVWK1UkF0kO/tbrn0DmzXid8MpB7YqoZ8xTSTy2pgopsCMRaqqKJsCxZrKj0=;U9L8Dl74xRwRy15zauD9Jw=="
+secured: "K6E0OUdZI9s3+UGJJnUwNpQO5kByqfg7O1bakYsHL9bZLDHJh9zl3qITQBqefGAtblhnqD3iDAzW56D/FYy6D2b4U0M6hh8gEcfv3PU2v4cT1igfYq1W6wGsVJ4yZ+mwBGiwKFTCMbJnobwhIMx/A4r3u1YT+VxoYQK61NthVFVa++Vto0bhvrqDE5Qcsk17L+8p32s1sQkvkOqDw91jc/SmX9VxIQnncbXc7GICtSwlvZWvsZ7T5tEotgNYaVb4DkqEiYfAdwvOGHCgrWJkby2T6h/6kHJ+JpdqLmtZ8up/e31oZp/HivI4O4RHItfn6n0lj58vrq+WH2+ZrZ6AgXcj1VSiQk2RBcbu4Fqpnq6fNKomcq2TcrsK0yM+m/7TL2s9FFd1sS69CZrFcqQWeA1lPUXBXMHhdEMMwYDU2o1yGAoCtOiM13zOkNzm7kPLrDYsI3DNeUIUaSL649M+yhHzCpZc+j5fLgcJnVOqH7nQ9X9bUagYod5KDKansv+wVOjv9cE56A35Xw/uK+s/HXzBR3SxQZLyjcPGZbPNfI4=;WtmoCiz8eAGPN9aAhWVtbg=="
 ---
 

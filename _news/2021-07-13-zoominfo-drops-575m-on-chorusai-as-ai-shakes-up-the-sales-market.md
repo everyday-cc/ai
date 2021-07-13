@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2021/07/13/zoominfo-drops-575m-on-chorus-ai-a
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/07/13/zoominfo-drops-575m-on-chorus-ai-as-ai-shakes-up-the-sales-market/amp/"
 type: article
 quality: 104
-heat: 154
+heat: 164
 published: true
 
 provider:
@@ -62,6 +62,20 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+        isCached: true
+  - title: "ZoomInfo acquires Chorus.ai for $575M to expand its sales intelligence platform"
+    excerpt: "Publicly-traded ZoomInfo Technologies Inc., which supplies enterprises with market intelligence they use to find new customers, today announced that it has inked a deal to buy sales analytics startup Chorus."
+    publishedDateTime: 2021-07-13T19:11:00Z
+    webUrl: "https://siliconangle.com/2021/07/13/zoominfo-acquires-chorus-ai-575m-expand-sales-intelligence-platform/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 50
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/07/zoominfo.jpg"
+        width: 900
+        height: 507
         isCached: true
   - title: "ZoomInfo buys Israel-US startup Chorus.ai for $575m"
     excerpt: "US business intelligence company ZoomInfo (Nasdaq: ZI) announced today that it is acquiring Israeli-US startup Chorus.ai for $575 million cash. Chorus.ai has developed a system that analyzes and provides insights on sales conversations and competes with Israeli startup Gong."

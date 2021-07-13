@@ -9,8 +9,8 @@ ampWebUrl: "https://www.livemint.com/technology/tech-news/micron-technology-puts
 cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/tech-news/micron-technology-puts-its-cash-to-work-using-artificial-intelligence/amp-11625836801977.html"
 type: article
 quality: 57
-heat: 77
-published: true
+heat: 67
+published: false
 
 provider:
   name: Mint
@@ -26,20 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Space – Nurturing AI Technologies from Silicon Valley Tech Giants"
-    excerpt: "Latest financial technology news, fintech news, fin tech news, open banking news​, banking news, blogs opinion, analysis on Fintech Zoom."
-    publishedDateTime: 2021-07-11T09:11:00Z
-    webUrl: "https://fintechzoom.com/fintech_news_space/space-nurturing-ai-technologies-from-silicon-valley-tech-giants/"
-    type: article
-    provider:
-      name: fintechzoom
-      domain: fintechzoom.com
-    quality: 39
-    images:
-      - url: "https://fintechzoom.com/wp-content/uploads/2021/07/NASA-Nurturing-AI-Technologies-from-Silicon-Valley-Tech-Giants-Disha.jpg"
-        width: 900
-        height: 500
-        isCached: true
   - title: "NASA: Nurturing AI Technologies from Silicon Valley Tech Giants"
     excerpt: "NASA is leveraging AI technologies, with Silicon Valley tech giants who are known to pioneers in Artificial Intelligence. This article shows the innovations of NASA with AI to collect sufficient data for the Earth."
     publishedDateTime: 2021-07-11T06:30:00Z

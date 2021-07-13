@@ -7,7 +7,7 @@ originalUrl: "https://www.govconwire.com/2021/07/brian-maccarthy-latent-ai-could
 webUrl: "https://www.govconwire.com/2021/07/brian-maccarthy-latent-ai-could-back-booz-allens-contract-work-around-ml/"
 type: article
 quality: 40
-heat: 40
+heat: -1
 published: false
 
 provider:
@@ -26,6 +26,15 @@ images:
     isCached: true
 
 related:
+  - title: "Booz Allen Hamilton (BAH) Signs Deal to Invest in Latent AI"
+    excerpt: "Booz Allen Hamilton Holding Corporation BAH yesterday announced its strategic investment in Latent AI, a leading adaptive artificial intelligence (AI) company. Financial terms of the deal have been kept under wraps."
+    publishedDateTime: 2021-07-13T16:44:00Z
+    webUrl: "https://www.nasdaq.com/articles/booz-allen-hamilton-bah-signs-deal-to-invest-in-latent-ai-2021-07-13"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 49
   - title: "Booz Allen Invests in Leading Adaptive AI Company Latent AI"
     excerpt: "Booz Allen Hamilton (News - Alert) (NYSE: BAH) announced today that it has made a strategic investment in Latent AI, Inc., a rapidly growing company with an award-winning suite of software tools that enable adaptive artificial intelligence (AI) and machine learning (ML) at the edge."
     publishedDateTime: 2021-07-12T12:05:00Z

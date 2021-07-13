@@ -8,8 +8,8 @@ webUrl: "https://www.wsj.com/articles/scale-ais-rapid-growth-reflects-widening-d
 ampWebUrl: "https://www.wsj.com/amp/articles/scale-ais-rapid-growth-reflects-widening-demand-for-smart-software-11626082201"
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/scale-ais-rapid-growth-reflects-widening-demand-for-smart-software-11626082201"
 type: article
-quality: 89
-heat: 109
+quality: 189
+heat: 209
 published: true
 
 provider:
@@ -59,6 +59,6 @@ related:
       domain: openpr.com
     quality: 14
 
-secured: "GK9xZbUBCBel1nS3szXbxFjR0iax0VoYzftaR/JFEzFc4wRmIThjaEalRqMmntgHqb+yOYWfAzGySriJx0nHf5Hcc80IGsdArBd/CRG5pK7AesumcecP1TG1hLmoD31uHIsugn9b3mgLuk0nUJlKGrtnJVJA31sr+dDm2Fi2dlmh8KA6g3EwWb8B7uohDwzK4Q2euBg5EJi1UOFdGvNAgMRM0LfRVkSwpx5XRd1oh5pC/8+umVQtlKnQIG1zV8Y8lp0soJV8oo6mrXZTqOlkC0IOig6Hurchu2Vj+RIjvMFC/cV+Fpr7PxbKddAlIaAAtmhXpnxIx8zcUBerlIAS8H8IniUY+6SMPuCptSYyC30=;SOXXi0mGIu38AphkUYJ6jg=="
+secured: "RCJk8XSCjbQ4dVlYmnyq8DDv8gcg3AkBVr5pZJZKfV7ss4uYybveKdG7GyY8sDO9QsQ8yPccOphTV8152zsbY098kclDtiPlgDIUo7j6U0/KhLa3us76DbB0wJ2iissmSMhuYxFiWAL0Ynen4z1KxgUOpLXNhxaEH9Mc3zn+bc4POvbfbvFyEyXDq65FppynmuPlcP+RAEzuTle8opxFx+t7B+7VbhzTxY9q2VAgUrzYJWOKqCla+8vxXRJpvWYZogCJsOPN0rb/0Cl4XB0G3ZrWQr2fYEUL/2bCllg5fo2VsOrMTE9FHW+9ae5OadS5q8ffZwV7DLEX4sIcafJcaJYchz/g4UPM4KrDBGzUc4enYYdhZUSMO5Lx4asVXJCuHCx9BdSan+zdcyPEmfxIfQRpdPhdWt0/ugGCInvMPHCFZDD9p8gHuhFCJKGN0lC/QwEgzb3W5n1w9GGxfyuyDITCukS5xN1dRAZiYxinSisoviAfLkTWEt2ehtVyzrj8O3jYTUSkPyz/q+RYkagyQ2IoKa68k+TOklxYTlf3t8I=;E+Hk3hQCMH27MT4pjvMIAQ=="
 ---
 

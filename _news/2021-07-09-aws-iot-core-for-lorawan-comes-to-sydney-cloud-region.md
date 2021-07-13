@@ -3,12 +3,9 @@ category: news
 title: "AWS IoT Core for LoRaWAN comes to Sydney cloud region"
 excerpt: "AWS IoT Core for LoRaWAN is now available in the Asia Pacific (Sydney) and Asia Pacific (Tokyo) AWS regions, extending the footprint of the offering to five AWS regions globally."
 publishedDateTime: 2021-07-09T00:53:00Z
-originalUrl: "https://www.arnnet.com.au/article/689680/aws-iot-core-lorawan-comes-sydney-cloud-region/"
-webUrl: "https://www.arnnet.com.au/article/689680/aws-iot-core-lorawan-comes-sydney-cloud-region/"
+originalUrl: "https://www.arnnet.com.au/article/689680/aws-iot-core-for-lorawan-comes-to-sydney-cloud-region/"
+webUrl: "https://www.arnnet.com.au/article/689680/aws-iot-core-for-lorawan-comes-to-sydney-cloud-region/"
 type: article
-quality: 39
-heat: 39
-published: false
 
 provider:
   name: ARN
@@ -24,6 +21,6 @@ images:
     height: 500
     isCached: true
 
-secured: "fxgWMcxYn+KMQxRK6JGMdNZhl4duKU3V3UZCpgUw8CbEshNG7LS3cpmf3Fa20/JAO+etxOHoJUXyPs/8aolh1Ys8v4nusjRNcJ8+K0SLND0yXdiZ00BGJ9tefkAJ9QLpF3tw7wzjErQOiRWwlGxrgjK4PNtiUqGWsKFht3Zwug2N7bSh88wzinnquJS/0I1oFj9xqO/StsCTv8HZ2wAQ34ejZL9TvncW/d63P78930tSZIaSADZEBe+HVFG2anchMVpAMaaeX/DWBCi3455VwQFrmmRT2OMMTG565Mr4C5H7WwxdM+3TnhU+GkO3MF+9xs/8uE83J9uxLjIZDMQUK16f3x7WceWOWdaGFSutWureOBzqgJtr0XdvPgnvCpfcWDSjFLPTTZdvI92dqs8M4BYbS8mYtx7/iQ69gQQiSuTtMgZ92KY5yU0Gm2HLsY4f3Hq0CZvsrlzyxJ1r/lEC8kgIw4b4mktreV0mX9sLaPe1UK6bqc9Dg9yGzKB+PYSD3h/7J4AHrsXuW9TajEnidA==;s17VeQ0j2ibMI3nw3hyCGw=="
+secured: "ksDtxvwH5rV/rNyH7G9fOk0VTkfaSaN9pOyWZTrr2Haam+IypdCP9F0ulx91s6yCyvTjJxPBNN+eUPowdKhSBlZ3Bm6lbElmlQ8MTvixW2pBUqz0qptEpIz4wA/zlXq/j/9aZC58h93qFap7UA2YByJYgpMr6tk+tqTAuLiv7DuLqAEkZHMJRV5iWtzKFB6Md0hX9oWBrQn236V2n5CTC+k+fLdWchKc6Sb+347xp/AS2s4QA1pABa7UQ53hlgsmAKU+VpBUwlRDNqnQ+121G03M5E54pmCGoTlhLL/oGYqqbXA7IizN3CfpRDBYqtJwUbGkt6eI5J1fp4PWrJZRNAsm2ENVyTCSIyYrdK/R8FM=;oNcMbQOck5sEOFJDOZ+27Q=="
 ---
 

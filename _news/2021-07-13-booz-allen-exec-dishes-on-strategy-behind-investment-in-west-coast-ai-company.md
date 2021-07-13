@@ -18,6 +18,15 @@ topics:
   - AI
 
 related:
+  - title: "Booz Allen Hamilton (BAH) Signs Deal to Invest in Latent AI"
+    excerpt: "Booz Allen Hamilton Holding Corporation BAH yesterday announced its strategic investment in Latent AI, a leading adaptive artificial intelligence (AI) company. Financial terms of the deal have been kept under wraps."
+    publishedDateTime: 2021-07-13T16:44:00Z
+    webUrl: "https://www.nasdaq.com/articles/booz-allen-hamilton-bah-signs-deal-to-invest-in-latent-ai-2021-07-13"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 49
   - title: "Brian MacCarthy: Latent AI’s Capabilities Could Back Booz Allen’s Contract Work Around Machine Learning"
     excerpt: "Brian MacCarthy, a vice president and founder of the San Francisco-based tech scouting group at Booz Allen Hamilton (NYSE: BAH), said the investment in Latent AI will enable Booz Allen to integrate the startup’s capabilities into its contracts to help meet the demand of warfighters for machine learning services at the tactical edge,"
     publishedDateTime: 2021-07-13T10:02:00Z

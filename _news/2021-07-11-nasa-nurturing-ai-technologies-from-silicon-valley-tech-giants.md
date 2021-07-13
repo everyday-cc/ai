@@ -40,20 +40,6 @@ related:
         width: 600
         height: 338
         isCached: true
-  - title: "Space – Nurturing AI Technologies from Silicon Valley Tech Giants"
-    excerpt: "Latest financial technology news, fintech news, fin tech news, open banking news​, banking news, blogs opinion, analysis on Fintech Zoom."
-    publishedDateTime: 2021-07-11T09:11:00Z
-    webUrl: "https://fintechzoom.com/fintech_news_space/space-nurturing-ai-technologies-from-silicon-valley-tech-giants/"
-    type: article
-    provider:
-      name: fintechzoom
-      domain: fintechzoom.com
-    quality: 39
-    images:
-      - url: "https://fintechzoom.com/wp-content/uploads/2021/07/NASA-Nurturing-AI-Technologies-from-Silicon-Valley-Tech-Giants-Disha.jpg"
-        width: 900
-        height: 500
-        isCached: true
 
 secured: "M2UGvjFJCopeviwtaGwgYqi4k6WIZ4tnKfs93pWxqm9YilzCrC9iS/7JwzqVPl50AXs6y+ZBhfd/b0UyJBSRm3dFNY3J9jjoz7JNjWs/q8Fkcx76mGyY/l7QQe1txzS+JUVb5zCUjUlzmDE12QjEeFu9CKVOcWd1n5ll7V6KzbCwFQrZxsLtSEihA7eSBjoHsZbTdvKbipNH+tF2BmnrvwsdqVBf/vjmqPOboGDOis2M/tbLWkbFRrf/lgzkM94hacKRl51QBqJZ8dv9RncF/dHZ0CyWAtuF7oyiA4sqnKZzYrX2Vq5MkGQx34hXwaRzMgNJptYp7GPL6jTOVSP8LrLaX0mTlOtShPZO6ZpyhUY=;oleMTTamamCLpxs/6vZxCg=="
 ---

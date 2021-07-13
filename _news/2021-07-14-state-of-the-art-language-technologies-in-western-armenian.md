@@ -1,27 +1,29 @@
 ---
 category: news
 title: "State of the Art Language Technologies in Western Armenian"
-excerpt: "The Armenian Communities Department of the Calouste Gulbenkian Foundation is delighted to announce that the Western Armenian Universal Dependencies Treebank"
-publishedDateTime: 2021-07-13T17:46:00Z
-originalUrl: "https://asbarez.com/state-of-the-art-language-technologies-in-western-armenian/"
-webUrl: "https://asbarez.com/state-of-the-art-language-technologies-in-western-armenian/"
+excerpt: "The Armenian Communities Department of the Calouste Gulbenkian Foundation has announced that the Western Armenian Universal Dependencies Treebank was"
+publishedDateTime: 2021-07-13T18:41:00Z
+originalUrl: "https://massispost.com/2021/07/state-of-the-art-language-technologies-in-western-armenian/"
+webUrl: "https://massispost.com/2021/07/state-of-the-art-language-technologies-in-western-armenian/"
+ampWebUrl: "https://massispost.com/2021/07/state-of-the-art-language-technologies-in-western-armenian/amp/"
+cdnAmpWebUrl: "https://massispost-com.cdn.ampproject.org/c/s/massispost.com/2021/07/state-of-the-art-language-technologies-in-western-armenian/amp/"
 type: article
-quality: 24
-heat: -1
+quality: 44
+heat: 44
 published: false
 
 provider:
-  name: Asbarez
-  domain: asbarez.com
+  name: MassisPost
+  domain: massispost.com
 
 topics:
   - Natural Language Processing
   - AI
 
 images:
-  - url: "https://asbarez-english-media-files.s3.amazonaws.com/wp-content/uploads/2021/05/14153647/PD_App_Instagram_1080x1080.jpeg"
-    width: 437
-    height: 437
+  - url: "https://massispost.com/wp-content/uploads/2021/07/Armenian-Treebank-1600.jpg"
+    width: 700
+    height: 438
     isCached: true
 
 related:
@@ -49,6 +51,6 @@ related:
       domain: horizonweekly.ca
     quality: 0
 
-secured: "t5TNeXOaV05520SXdaufnL0MotNQBtPjGGMVSjhMnHLKDGwTGoyBU5VjvxTZt0dATmvuxgi/Tag0NyXhWtqwDIFCLJUFh3XEhaCpBGoMz6dWqbFMmP4jDVAXBDiKzzzjU8l0Yy86iDCP4C5ltjcnGCy38WPBRAjH7tEeqZAzPkjmsTXo0Hi1hwjK5NQ+IDD50eJPiJ59bCTXQD/ge+lqr346KG0zGdkdyYLCJKjzIv9adYUo1sOHqY/Zz0VauC4w1krtvl/t0mLZEakB8uFY7CsYHu+nE5tfhGF0MAX4ouovQAQrBjlVsAuKobAh1fpkpnQ/B4R1Nf8eDBPwhvTcx+AliGgK1VuVQ5go5yAFvg0=;Kr22L45zZGMYdhDdOpl8Ag=="
+secured: "3bE8IZm4MSDtPTY1wKLVQLzNSOBykxAQzzdA6v/XQAh8HohEXZBRfCV2WXh+xnxM0iJet0WQDf2IMqUbRi/2gME33fwZAumw6zyCSaI1uJuMRrVJm/Sdk+hxlNtZzZbnxwLOJBOskId6dBeE2L1IW2aDyY/1MW3x49G4wrkkCwLctK/vX8CVfd+omryIY51gRFnSG3ZFkwmdStwQuwLeoVisJPFNR4Rv1mFCWR0B8SbuIQBSXyFeei+4UrzP8LIPx/RqjhbZQC1vbSEG11ni54a6KAXwwfOJElEnLD0vKq2puYhFsCSQkyC27ybikIQqzTRK1Fgt2wUErXD+OHuHDXGonqXn9ZERo056jPOEK5I=;GruTe5rEyernQDAq0KG/lg=="
 ---
 

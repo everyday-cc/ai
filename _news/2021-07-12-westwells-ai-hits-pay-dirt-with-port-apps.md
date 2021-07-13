@@ -9,7 +9,7 @@ ampWebUrl: "https://www.hellenicshippingnews.com/westwells-ai-hits-pay-dirt-with
 cdnAmpWebUrl: "https://www-hellenicshippingnews-com.cdn.ampproject.org/c/s/www.hellenicshippingnews.com/westwells-ai-hits-pay-dirt-with-port-apps/amp/"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -19,22 +19,6 @@ provider:
 topics:
   - AI in Autos
   - AI
-
-related:
-  - title: "Westwell's AI hits pay dirt with port apps"
-    excerpt: "\"We've ridden the wave of explosive development of the driverless automobile industry ... said Zhang during the ongoing 2021 World Artificial Intelligence Conference in Shanghai on Wednesday."
-    publishedDateTime: 2021-07-09T03:03:00Z
-    webUrl: "https://www.chinadaily.com.cn/a/202107/09/WS60e7a44ea310efa1bd660ba0.html"
-    type: article
-    provider:
-      name: China Daily
-      domain: chinadaily.com.cn
-    quality: 39
-    images:
-      - url: "http://img2.chinadaily.com.cn/images/202107/09/60e7a44ea310efa1e3ad497d.jpeg"
-        width: 606
-        height: 404
-        isCached: true
 
 secured: "TKU+PgmPa0RsHKkG0fhQhXB8HaaPXEML/OJhsWyQK29ZfUAuylA1PNSjby8eBj88Z1sAywtnMxrnAajYQ3XQntDNz4ydZ4y34SI164WlTB5r1kXhrfgtb+h8ls340Njm83Nf7yKUnkw+Nm8m3vtgwFTH1z50MwVgoVHLnsoc/gmrcTwPK099xIjJuZE54eP/mpujLHsAht1lrf/ODQ2xXNG2wRK+PmM2Xwd9eBPPa5JweLVx1jwZ6c9K91jlbJfCcb0tZxZvj3FU9WBfwfpJAICFlEuu94LqO9YF1zgC2mSX8oc2sdXOH4/4ZO6rJeSM9JRDr+lF52xP7w/bwmRCzFzeOywzz9UJ6+9kovTyRvc=;kdyA+IuB9CdsvEQ8sREiDg=="
 ---

@@ -1,23 +1,23 @@
 ---
 category: news
 title: "Blue Ocean Smart System to Introduce Chiplet based, high-performance, low-power AI chips"
-excerpt: "Blue Ocean Smart System – the leading Chiplet based technology developer in the post-Moore's Law era for large-scale computing, energy efficient applications, today jointly launched as a founding member,"
-publishedDateTime: 2021-07-12T08:54:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-blue-ocean-smart-system-introduce-chiplet-based-high-/2021/07/12/9406356.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-blue-ocean-smart-system-introduce-chiplet-based-high-/2021/07/12/9406356.htm"
+excerpt: "Blue Ocean Smart System – the leading Chiplet based technology developer in the post-Moore's Law era for large-scale computing,"
+publishedDateTime: 2021-07-12T08:49:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/blue-ocean-smart-system-to-introduce-chiplet-based-high-performance-low-power-ai-chips-301331342.html"
+webUrl: "https://www.prnewswire.com/news-releases/blue-ocean-smart-system-to-introduce-chiplet-based-high-performance-low-power-ai-chips-301331342.html"
 type: article
 quality: 25
 heat: 25
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - AI Hardware
   - AI
 
-secured: "cYcVg1ffczVP0KGnf7JUMRu/mwkTEn/lpu6ooWMi+Ka+IfAlxUKM4H843NKLWXineZdiMHCVaESTeMZsDAQYI+W+O5bVCbuprM/uFD8DGKL8AW/Vo6nxzTvwyHC+r4EpqQF0N7kVOwGQZm7hOToRf/owixy+CbHWFXwQLEED/EkvzkDWq0i/BELwO5GyAOVStPlX6C55Uil8rk4Elbj5osvFqhZgx0kpXFX0koy0fGwFRlUCL/dmkd3PYX6dLZLcKzwXOLRbihlesqix8FbDDGG/R7a/htnFU0zm4NXc+rb9FBLRDg7O68OdJBIuvaXHX19CNM23icw1Gu1rolCYGVtBO4OJ5rnVifG+bNggU2g=;Nd2mkieODrapql7cyKvAvA=="
+secured: "2/x/ujJMWbHdAyRfNhlnPDjlmZscQMZbH7vt+40tgRFslXXIbBrBaJ/byIgGsWJcy8W2sibMcx63T3ZNOJEXRrNJ4h9ax53ZoKbGgLy4iKl6isoY0j6eJaHboXAUa362FwU/U7vDC6jdQguRvgOYaIpgBHRqI8wyRQKtk66y0Vu/ZsqPIJmH+Z7Q8WYwJGpgbBW0rN3kt69a6ObiLyhYODfSp1cSdTuQwkRb5KEzuW9SHGNej517ttjcMmFzHPByOm07hM1GpUiR+CMHfYrXRyUBycZtHbNvePx4Nw334Xa8IVSgrn2+Yx7FfmVKcVK7gXOsIPmOV6Mx9cSnJlm2LsIcdzqmSeCCSHo6KM2W5oE=;9xvgnntOGrhPJou7Jq1YMw=="
 ---
 

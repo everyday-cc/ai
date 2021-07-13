@@ -73,22 +73,6 @@ related:
         width: 1440
         height: 810
         isCached: true
-  - title: "Tencent’s face recognition tech stops kids from late-night gaming in China"
-    excerpt: "Chinese tech company Tencent has announced that it is using facial recognition on mobile phones software to stop children from playing games late at night. According to The Register, Tencent sent out a press release stating that players will need to use facial recognition software that stops children playing between 10pm and 8am."
-    publishedDateTime: 2021-07-09T01:10:00Z
-    webUrl: "https://www.nme.com/en_asia/news/gaming-news/tencents-face-recognition-tech-stops-kids-from-late-night-gaming-in-china-2989246"
-    ampWebUrl: "https://www.nme.com/en_asia/news/gaming-news/tencents-face-recognition-tech-stops-kids-from-late-night-gaming-in-china-2989246?amp"
-    cdnAmpWebUrl: "https://www-nme-com.cdn.ampproject.org/c/s/www.nme.com/en_asia/news/gaming-news/tencents-face-recognition-tech-stops-kids-from-late-night-gaming-in-china-2989246?amp"
-    type: article
-    provider:
-      name: NME
-      domain: nme.com
-    quality: 59
-    images:
-      - url: "https://www.nme.com/wp-content/uploads/2020/08/Google-Play-Music-app@2000x1270.jpg"
-        width: 2000
-        height: 1270
-        isCached: true
   - title: "Tencent Is Using Facial Recognition To Ban Kids From Gaming At Night"
     excerpt: "Chinese gaming giant Tencent has rolled out a facial recognition system that prevents minors from playing video games at night past their allotted time."
     publishedDateTime: 2021-07-09T17:26:00Z
@@ -171,6 +155,20 @@ related:
       - url: "https://static.straitstimes.com.sg/s3fs-public/styles/x_large/public/articles/2021/07/13/ST_20210713_TECH13_6682990.jpg?itok=5Y6ps2He"
         width: 763
         height: 509
+        isCached: true
+  - title: "Facial Recognition Technology: Examining Its Use by Law Enforcement"
+    excerpt: "Brett L. Tolman is the founder of the Tolman Group and the executive director for Right on Crime. If one considers this technology as creating the ability to find a needle in a haystack, it seems entirely reasonable to demand the police to first know which needle they are looking for,"
+    publishedDateTime: 2021-07-13T19:41:00Z
+    webUrl: "https://www.texaspolicy.com/facial-recognition-technology-examining-its-use-by-law-enforcement/"
+    type: article
+    provider:
+      name: Texas Public Policy Foundation
+      domain: texaspolicy.com
+    quality: 39
+    images:
+      - url: "https://files.texaspolicy.com/uploads/2021/06/23154309/Police-1350x759.jpg"
+        width: 1350
+        height: 759
         isCached: true
   - title: "How Tencent’s Facial Recognition System Ensures Minor Gamers Stick To Curfew Regulations"
     excerpt: "China-based Tencent Games recently launched a facial recognition system to prevent minors from playing video games past their assigned time. The initiative, called the Midnight Patrol, will conduct a face screening for accounts registered with real names and played for a certain amount of time at night."
