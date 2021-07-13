@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/07/08/openai-warns-ai-behind-githubs-co
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/08/openai-warns-ai-behind-githubs-copilot-may-be-susceptible-to-bias/amp/"
 type: article
 quality: 89
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -29,24 +29,6 @@ images:
     width: 1200
     height: 600
     isCached: true
-
-related:
-  - title: "GitHub's programming AI may be reusing code without permission"
-    excerpt: "A Microsoft-owned tool powered by artificial intelligence is designed to make life easier for programmers, but some developers say it may be repurposing some of the billions of lines of code it was tr"
-    publishedDateTime: 2021-07-08T13:55:00Z
-    webUrl: "https://www.newscientist.com/article/2283136-githubs-programming-ai-may-be-reusing-code-without-permission/"
-    ampWebUrl: "https://www.newscientist.com/article/2283136-githubs-programming-ai-may-be-reusing-code-without-permission/amp/"
-    cdnAmpWebUrl: "https://www-newscientist-com.cdn.ampproject.org/c/s/www.newscientist.com/article/2283136-githubs-programming-ai-may-be-reusing-code-without-permission/amp/"
-    type: article
-    provider:
-      name: New Scientist
-      domain: newscientist.com
-    quality: 57
-    images:
-      - url: "https://images.newscientist.com/wp-content/uploads/2021/07/06132848/07-july_github.jpg?width=600"
-        width: 600
-        height: 400
-        isCached: true
 
 secured: "f05VwP6dNQ2xzXrGYYecnHYbrAqd7n+t/DygL8i1pgtNku2ZF1h4E8rFz/qDX7JKGWx6New5Am36jqP+49Vc9UoLkUi5mKeYtgX1oXWRBt1ZGyiUFzFZB6wvDr5dObfgee0iMZHUBfKyLWjUoMnOxUM7UopBYO89Bf9GveMyNJGZHvzmfHKAXBCZ5QMDGV0O+ObPf7aYeRuuAodoA26M0qRcsMId9UIaSXMKeX6Y5hdp3d9ZQpmCfNFdJzVrKRCj24HSl7vl2WnfDz5efA584ydZCIQrt3/m1LhiheNXkcPC/GHMMG9VnUQlHVYYC8evdTSqhpr9k1yUZr218J9Sd3lcPffImoPkrBcOd5SpHxkA/rj8aLBoBQpCTc3JLBOPoTk4RwFPQpngJ5p6qYoN5dPdc8heuBVT2wRdCndF3K8fw6KeI9KkvTTqII67/s5KU6hHEDcphiozBgHL8Eo/Fcc5Of/uzlo1JE/tEykpFYG9GgLUCctbWIffkMmhcpQXNk0j4NDH2+KzUbgugS/35Q==;63G7xrOxN0bQK+WjI/shlQ=="
 ---

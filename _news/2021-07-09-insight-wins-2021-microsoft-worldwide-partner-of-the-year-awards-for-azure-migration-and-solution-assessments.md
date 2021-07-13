@@ -36,7 +36,7 @@ related:
   - title: "D2iQ Now Available in the Microsoft Azure Marketplace"
     excerpt: "D2iQ, a leading independent Kubernetes platform, today announced the availability of the D2iQ Kubernetes Platform (DKP), including D2iQ Kommander, D2iQ Konvoy, and D2iQ Kaptain, in the Microsoft Azure Marketplace,"
     publishedDateTime: 2021-07-12T13:07:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2021/07/12/9406732.htm"
+    webUrl: "https://www.tmcnet.com/usubmit/-d2iq-now-available-the-microsoft-azure-marketplace-/2021/07/12/9406732.htm"
     type: article
     provider:
       name: TMCnet

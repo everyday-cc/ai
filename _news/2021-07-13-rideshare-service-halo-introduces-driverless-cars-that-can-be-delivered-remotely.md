@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Halo launches driverless car service in Las Vegas"
-    excerpt: "Though driverless, Halo's cars aren't autonomous ... While drivers are piloting the cars from afar, an artificial intelligence is learning from them. \"Full autonomy is a massive challenge from both a technical and social trust perspective that won't ..."
-    publishedDateTime: 2021-07-08T14:20:00Z
-    webUrl: "https://www.cnet.com/roadshow/news/halo-launches-driverless-car-service-in-las-vegas/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/halo-launches-driverless-car-service-in-las-vegas/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/halo-launches-driverless-car-service-in-las-vegas/"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 89
-    images:
-      - url: "https://www.cnet.com/a/img/7PfDIQhbe8G4m8BPAN0qAveVAX0=/1200x630/2021/07/08/db2ace0a-b08b-400f-a114-727dc373318e/nr-hero-halo-6-25-21-1250x615.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Halo and Las Vegas Launch Driverless Car Service Powered by T-Mobile 5G"
     excerpt: "A driverless Halo then arrives at the pick ... safety hazard or system anomaly is detected. Using an advanced Artificial Intelligence algorithm, the car also learns in the background while humans ..."
     publishedDateTime: 2021-07-08T23:15:00Z
@@ -83,34 +67,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "This driverless car-sharing service uses remote human ‘pilots,’ not AI"
-    excerpt: "Launching later this year in Las Vegas, Halo’s electric vehicles get steered by a distant driver until you hop behind the wheel."
-    publishedDateTime: 2021-07-08T14:00:00Z
-    webUrl: "https://www.fastcompany.com/90653650/halo-driverless-car-sharing-service"
-    type: article
-    provider:
-      name: Fast Company
-      domain: fastcompany.com
-    quality: 54
-    images:
-      - url: "https://images.fastcompany.net/image/upload/w_1280,f_auto,q_auto,fl_lossy/wp-cms/uploads/2021/07/p-1-this-driverless-car-sharing-service-uses-remote-human-pilots-not-ai.png"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "T-Mobile’s 5G powers Halo’s driverless car service in Las Vegas"
-    excerpt: "T-Mobile is driving home the point that it’s got a 5G network good enough to power one of the first commercial driverless car services in the U.S., with Halo running on T-Mobile’s 5G network in Las Vegas."
-    publishedDateTime: 2021-07-08T13:15:00Z
-    webUrl: "https://www.fiercewireless.com/wireless/t-mobile-s-5g-powers-halo-s-driverless-car-service-las-vegas"
-    type: article
-    provider:
-      name: Fierce Wireless
-      domain: fiercewireless.com
-    quality: 39
-    images:
-      - url: "https://qtxasset.com/fiercewireless/1625748724/tmobilecar2.jpg/tmobilecar2.jpg?v83iURFXmkrBhzTiuS5FC.kl6SRH9uj1"
-        width: 800
-        height: 545
-        isCached: true
   - title: "Las Vegas to Get 5G Driverless Car Service, Courtesy of Halo and T-Mobile"
     excerpt: "Las Vegas will soon ride in driverless cars powered by 5G, thanks to a partnership between T-Mobile and Halo. Autonomous driving represents an appealing and flourishing market in this day and age. And we’ve got all the tools to make that happen."
     publishedDateTime: 2021-07-09T07:12:00Z
@@ -139,15 +95,6 @@ related:
         width: 600
         height: 600
         isCached: true
-  - title: "Halo and Las Vegas Launch Driverless Car Service Powered by T-Mobile 5G"
-    excerpt: "Driverless Halos solve transportation challenges ... safety hazard or system anomaly is detected. Using an advanced Artificial Intelligence algorithm, the car also learns in the background while ..."
-    publishedDateTime: 2021-07-08T13:10:00Z
-    webUrl: "https://www.morningstar.com/news/business-wire/20210708005541/halo-and-las-vegas-launch-driverless-car-service-powered-by-t-mobile-5g"
-    type: article
-    provider:
-      name: Morningstar%2c Inc.
-      domain: morningstar.com
-    quality: 19
 
 secured: "b6UC6pwGWEi4sKx3ZIlqeDaXhaPKpTabke5r+9mGPCyuqMdfR6p5anyXPNeC8AWZ3VpEWUJqg9on27CTF3wwuNr5kU1wZ4LO9DoMpMMqQn9/cfTHXMogANVEXDy4gzwcD2p8BSMSiFTszlRhPw5hpR+aV7zk9plR7QwVFkP1TRFp7jwTLlT+LJIvDcd8fQKqBms1zLxLbhPrcKBqw4E1YcbhFfagW0fHMEMcYovKmo7LBw0PxDEY3hnYznyaaym7/0y74A74brTcEj2K938popiRXOkB9h7u6U8FYoi7IwkBopTedNQ5R7cbvvGROXLrAEdN4nnjYAgQVtNdd9phyjRWIonluZe7OgFB32KPwbJ9w6mJGtN9S0y6s6dZvRw1y7ltETk9DQvXPNeCkHnNb0ecoCeGMEiRPONyiU3IrFzFuPuqqF76O5vNUYjykvn1aoTHA8TM2tYKDUy/eceUHvPq3doOkAuQeB6bMhOkYs1GbUdgf+aLOrzWZ/uDaiq/+zK3N48BPAXxHgVhNgVXcg==;ZUuKxwwgMGHKgeRmMVzBIA=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://www.analyticsinsight.net/the-future-of-deep-learning/"
 webUrl: "https://www.analyticsinsight.net/the-future-of-deep-learning/"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,21 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "Learn About Machine Learning Through The Lens Of A Hedge Fund"
-    excerpt: "Artificial intelligence is widely discussed in CIO conversations down to IT resourcing meetings in companies today. There is a range of topics that enterprises are involved in from research to novel applications and enterprise product usage."
-    publishedDateTime: 2021-07-08T14:00:00Z
-    webUrl: "https://www.forbes.com/sites/garydrenik/2021/07/08/learn-about-machine-learning-through-the-lens-of-a-hedge-fund/"
-    ampWebUrl: "https://www.forbes.com/sites/garydrenik/2021/07/08/learn-about-machine-learning-through-the-lens-of-a-hedge-fund/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/garydrenik/2021/07/08/learn-about-machine-learning-through-the-lens-of-a-hedge-fund/amp/"
+  - title: "Machine Learning and the End of Search"
+    excerpt: "Does the wider adoption of machine learning mean the end of search as we know it? Northern Light CEO David Seuss explains why he believes it does and how search must leverage smart taxonomies going forward in this clip from his presentation at Data Summit Connect 2021."
+    publishedDateTime: 2021-07-12T21:49:00Z
+    webUrl: "https://www.dbta.com/Editorial/News-Flashes/Machine-Learning-and-the-End-of-Search-147641.aspx"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 93
+      name: dbta.com
+      domain: dbta.com
+    quality: 39
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60e5c717408017304b049065%2F0x0.jpg"
-        width: 640
-        height: 251
+      - url: "https://www.dbta.com/images/social-logo-2019.png"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "apEUR958+BfnCMK39Q8uH8gwjFxF3RoyMmCWj6PZQWYPzKPJzd8RcO3x0e/tHb5l/xPmdhC8lKbgGzhfGmTFue68Ogu3Chww+tnSn6OBmRP4DBTEM1Eecd2VcvPZbBL4d8Rcp5s6VBwng3VJFQ1AdA6dIkU4yzOVu8wTSYy7kvpa+v0ce9ZBodYeliYfQtBya0QVtvXgsNZozZLD8LRkabDwnxpUB+b/PspoI8alnOt2nC46OfSLUumUGtBUQpKteClajkOS6/ueAyefnIl6KID2jcGdiUy9v77Ytkw0L/9kJpvnR0we/VlCM+QBwxROihun/+G3Y3xIVtrG7j/4PdcgPB+jItTOYSZo+rbZF6ID7DH3o3yktlwTbFfn28/8Ak5sDHFYG/OngwM7HMVmCGhKsqyXA4rzdrwTjbOdt/ulj29A92REKcGK/dPRqv7Bp2SMNc3jGWqIeE/BmoHT13iDODIhqhb758MIiE9tcDFDPRxXWS1p0PpKUJh8pa4kQnRCr/GcLRWP3gGa5ycdUA==;ttPG71Ub167jewOkzyo5Xg=="

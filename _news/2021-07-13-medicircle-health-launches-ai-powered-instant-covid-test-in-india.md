@@ -36,6 +36,20 @@ related:
       name: Medindia
       domain: medindia.net
     quality: 39
+  - title: "Mumbai-Base MediCircle Health Launches AI-Powered Instant Covid Test In India"
+    excerpt: "Mumbai-based diagnostic company MediCircle Health on Monday launched a portable Covid-19 testing platform that is powered by machine learning and artificial intelligence and delivers results in just one second."
+    publishedDateTime: 2021-07-13T07:32:00Z
+    webUrl: "https://swarajyamag.com/insta/mumbai-base-medicircle-health-launches-ai-powered-instant-covid-test-in-india"
+    type: article
+    provider:
+      name: Swarajya
+      domain: swarajyamag.com
+    quality: 36
+    images:
+      - url: "https://gumlet.assettype.com/swarajya%2F2021-07%2F83ec17cf-e336-4456-903b-d0a07f30e802%2Fbfca27349600af51e02170919c618ef0.jpg?w=1200&auto=format%2Ccompress&ogImage=true"
+        width: 599
+        height: 401
+        isCached: true
   - title: "UW researchers find COVID-19 diagnoses made by artificial intelligence unreliable"
     excerpt: "A UW Allen School team recently published an article in Nature Machine Intelligence finding models predicting COVID-19 diagnosis from X-rays are relying on shortcuts."
     publishedDateTime: 2021-07-12T07:00:00Z

@@ -384,20 +384,6 @@ related:
         width: 1200
         height: 621
         isCached: true
-  - title: "Elon Musk Says Tesla’s ‘Mind-Blowing’ Full Self-Driving Beta v9 Will Arrive This Saturday"
-    excerpt: "Elon Musk says that Tesla's 'mind blowing' Full Self-Driving beta v9 update will arrive this Saturday. Here are all the details on this."
-    publishedDateTime: 2021-07-08T14:26:00Z
-    webUrl: "https://www.redmondpie.com/elon-musk-says-teslas-mind-blowing-full-self-driving-beta-v9-will-arrive-this-saturday/"
-    type: article
-    provider:
-      name: Redmond Pie
-      domain: redmondpie.com
-    quality: 30
-    images:
-      - url: "https://cdn.redmondpie.com/wp-content/uploads/2021/02/tesla-model-s-pre-2018.jpg"
-        width: 1200
-        height: 640
-        isCached: true
   - title: "Elon Musk Warns Drivers Not To Trust New “Full Self-Driving” Update"
     excerpt: "Tesla has finally started to roll out the latest version of its “Full Self-Driving” beta, which is its long-awaited assisted driving update that gives Teslas the ability to automatically change lanes and obey traffic lights and stop signs."
     publishedDateTime: 2021-07-12T16:58:00Z
@@ -435,6 +421,6 @@ related:
         height: 382
         isCached: true
 
-secured: "FoirBtcxXy7m6ib3DGiGXuAeXMsHSxSjaTJ8wME1yG8NiFkskqtHrPP2cGm+Jqwe7L6dpgLBzBmGuUTmczEUHBojVDFMT+48DBqedIx6P8b3OeQSV8hijQuff9jymrBjE6LLwlqxZcRJ13+r9cfqbA++LD++VIczptfh+n53nEmqX0tLkM7c2W4sW78yULmXaUI/1jYnbodyOO/ljAufCOQq+sXQTA8bYhnsgl3yfNuXTlWgEdia2IgH0FLzdgtu8FdXDP8FmnCy80M7hz4h5uz41PFd9e+6JTsc8r+gdnf13YpvvCxEYbVJIP/bxdggLUC4QCCjZ+EtTUbH25reg2mYINIP/Jcizw5+hazvHhk=;/HhItSlJNOotDxbPv6qwzw=="
+secured: "3axtb5PRpt3dp2Gez0rLr2Fhvmz2fL0yFt8QWSUZy0TEapc5WznQD1+aLXtXCkNGUd61SpXKVWjxBk/dgeGfY86M3H6SI8mjWwHNO8Wts3UaxsecF0/9faFw8siBMt5lgUCXaewtPz+Vy6T32imGO6IPqAKC1Grf/RAw5JUhFgIks4LOo//TXh4xq6sLE6ai3zBtKLlDp+Wqx0UXifbdpwq2gXZvjsiFt16oFppXe/K3vLN6jcEsaiPSKtgXDVaD6VRDYxJf/P9O3xugF0lYNisDW6ioc8GDfKkk+BKaF5opvqx1qrBv175IBsGpKQaREgOeNvrN06x9ewCa4BMzMCrLpsKfMuMhbfbKIxxz0c/8EOWr/eG0qpyBoDSLAT6ws5V95eAqznxDP8v5bZB8ImEUl9m7gky/7z6x83a9D4CT1S9Xp966mblgL4eG9luLiYAtwC8L5kMXVQFoOZ5Oi20Zu0z8WlWjD8I+Tb+f8PVJx8nRcZT51BzrE+IAVReBtz/3TnXRo7hOdQwSFgrHZQ==;fkPROkWCbvD71SgQ/fF3xQ=="
 ---
 

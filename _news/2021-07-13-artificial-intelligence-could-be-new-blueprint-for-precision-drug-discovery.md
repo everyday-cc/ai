@@ -1,25 +1,30 @@
 ---
 category: news
 title: "Artificial intelligence could be new blueprint for precision drug discovery"
-excerpt: "Researchers have described a new approach that uses machine learning to hunt for disease targets and then predicts whether a drug is likely to receive FDA approval."
-publishedDateTime: 2021-07-12T17:38:00Z
-originalUrl: "https://www.sciencedaily.com/releases/2021/07/210712130142.htm"
-webUrl: "https://www.sciencedaily.com/releases/2021/07/210712130142.htm"
+excerpt: "Writing in the July 12, 2021 online issue of Nature Communications, researchers at University of California San Diego School of Medicine describe a new approach that uses machine learning to hunt for disease targets and then predicts whether a drug is likely to receive FDA approval."
+publishedDateTime: 2021-07-12T18:28:00Z
+originalUrl: "https://medicalxpress.com/news/2021-07-artificial-intelligence-blueprint-precision-drug.html"
+webUrl: "https://medicalxpress.com/news/2021-07-artificial-intelligence-blueprint-precision-drug.html"
+ampWebUrl: "https://medicalxpress.com/news/2021-07-artificial-intelligence-blueprint-precision-drug.amp"
+cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-07-artificial-intelligence-blueprint-precision-drug.amp"
 type: article
-quality: 45
+quality: 57
 heat: -1
 published: false
 
 provider:
-  name: Science Daily
-  domain: sciencedaily.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Medical Xpress
+  domain: medicalxpress.com
 
 topics:
+  - AI in Healthcare
   - AI
+
+images:
+  - url: "https://scx2.b-cdn.net/gfx/news/hires/2019/3-drug.jpg"
+    width: 1920
+    height: 1280
+    isCached: true
 
 related:
   - title: "New approach that uses machine learning could transform drug development"
@@ -39,6 +44,6 @@ related:
         height: 480
         isCached: true
 
-secured: "ocXvMOk/uYlCi5QaJU84jh0YhvQDA1rWLX6XIG80fDrmOb3fgTuFYpffBeFcjYIYyogBnWh9S7OE1xRVqxUAnHDerZcXtm52Oq86+KdN8L7/miEtkkt6nmiNfOCmzESt0OYQOWFceCtoBEnPKKQ+hMWce0pqBAISpQFycV6Dj7L6O2nIqOrAHnnPixpbKvejTfhO80aS5oPfAE9i+rXbKxa+wDXfCsulY4qKo1vaOJBloau+Wd65eIdpWBZidyHWTC7H/7LCnSDbCaR8NsiIX1gqCzOVih+nWLnfLPT20rcHh1NA5Y+DxJLj2+tQvRBCbsZauNo++9y16Z1b8ytVkCoHowq7YE7KP1ObDzSKw5I=;yEZaedLa6E36nN3EBUuV0w=="
+secured: "CufbQq4zT1T3YVZ4twSEgXyQy0DQwyHqjfanJLHMm5p5ghYL9j7vc1KYa30fq73yseh0S3i1WcopSz1fFzSWnwjEs54o7O/Ys8vHpjnKiP2biNzmldm1zsTgXH5OEpah7FktvuZSOELi4IGsLbAHJVSNh8V5fehTIp4q9Sju4zHY5rgnX3DjXqy8xoZI7NxSVQxj+vWqdqdG1jaDJsREwYB4CMIiretIhLStuL1ZYhPLOXZgA4lsOQpzoKPA1k47ox0NJ6qw9ZWDJNgHoRz0W+kv4vZJzoVi1jCWqz/OsFxLqOK6iMIkves66Vz5jKRMZXPt9Xm3KTN5nf8XSHX79NKokBzYVwWYGDEM+zjmBfU=;KFad6UntFnbNaR92E9PvRg=="
 ---
 

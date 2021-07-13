@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techspot.com/amp/news/90350-new-machine-learning-based-c
 cdnAmpWebUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/90350-new-machine-learning-based-cheating-may-threaten-competitive.html"
 type: article
 quality: 89
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -29,22 +29,6 @@ images:
     width: 1498
     height: 1001
     isCached: true
-
-related:
-  - title: "Machine Learning Is Now Being Used to Cheat in Multiplayer Games"
-    excerpt: "Twitter account has shared a video of Call of Duty gameplay (watch it below) demonstrating a new method of cheating being used that employs machine learning. The system relies on having a PC and a capture card to record footage of gameplay that is then learned from and reacted to."
-    publishedDateTime: 2021-07-08T13:13:00Z
-    webUrl: "https://in.pcmag.com/games/143616/machine-learning-is-now-being-used-to-cheat-in-multiplayer-games"
-    type: article
-    provider:
-      name: PC Magazine
-      domain: pcmag.com
-    quality: 69
-    images:
-      - url: "https://sm.pcmag.com/t/pcmag_in/news/m/machine-le/machine-learning-is-now-being-used-to-cheat-in-multiplayer-g_srpq.1200.jpg"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "2oDrVw/oFry3quhsKPnPZvalzx8z9+rc9YzH2ZyqaFQCWKMmqv7C7i7lcBqRExcSVTZEN6GyPXh8cCqPcC3BriF68QVtbhXUDiOE0I31BvVq3Ste0xglBOoyUCnE/H8eioNCFV1CqfeexUZzgpxPko0tb5pWNOkKOREE58z+PHwhdmWwdTK8niUq4zpHFebnYWDfnXplyVqDRbm1NZ4v0tY+9AAbvRvpHEdbDmkJxWjndqtj0CJj6zMnafkfHXl5IEaQT/e+sHNogD5E8CLDFesuxPsfGJWUDrL6gpZ1rpD0Xu0CEnIIeEPZjRc/kWBKSPSXJOlZZKoCVQym960mFjSmD4QUHRzs5SbKSP0DXMPXKNKDnIgd0NMfT5I5Ba8ZKuXnBtsLiUndU4SMUxrF63OQUCRreXbenMtnCNDrXgfnYj29cwGkxJ/pd3GJeNu74g5/HiPFrTasa/DEO7T+C81h6EB+z2ibWRuvgKdhQefWgL2QvEWTCVWk/HskqOvBvs+BI+yf0qtyLYrjNtdSTQ==;uujLJUqT2vQlMh0DJeTrLA=="
 ---

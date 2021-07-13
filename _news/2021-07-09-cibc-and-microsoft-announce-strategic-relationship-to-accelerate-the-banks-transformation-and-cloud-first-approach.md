@@ -109,6 +109,15 @@ related:
       name: Finextra
       domain: finextra.com
     quality: 34
+  - title: "Informatica Expands Cloud Footprint on Microsoft Azure Germany"
+    excerpt: "New Intelligent Data Management Cloud on Azure Bolsters Cloud Momentum in the European region FRANKFURT, Germany,  /PRNewswire/ -- Informatica, the enterprise cloud data management leader, today announced it will make its Intelligent Data Management Cloud (IDMC),"
+    publishedDateTime: 2021-07-13T07:13:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-informatica-expands-cloud-footprint-microsoft-azure-germany-/2021/07/13/9407196.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 34
 
 secured: "vq5PAr6ZCYnzb/P/gJjocIN1J6qozwK3xjuymSNY01pOL8CDmhH1tMKMYsxFPONyraCwCwy+lfj6x1bDkdDDZ9ehk/TOea4u7tjWbFDChKCcteuWDGUeVUbvpWJWfN/9y1ernzW4LnKAfUi+xQWamV3GSPzMGlUmG1EMs6nneuBmCx+BJty9HaZ62yzU+QAnVyY4FAZXR2cHdqZGEdd72oS0uPBIYcryICEs7uCXyak9tVjIOd3UT18Xn4VVbClCoiJBsoAfqGJ2rLNsIZ5Ye8s2to5eBWcF1hyxV/L9oSzasSfJCzKB05Al+DVaKIiqSrW8mnsAXzTuDieHo4o9aFWBlQvCTLNlNJfn4QR/9is=;nxjKpJQ5nM7eWqjuRINkog=="
 ---

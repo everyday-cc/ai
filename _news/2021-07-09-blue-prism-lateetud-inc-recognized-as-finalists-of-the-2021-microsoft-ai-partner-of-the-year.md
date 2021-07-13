@@ -28,15 +28,6 @@ related:
       name: FT
       domain: www.ft.lk
     quality: 34
-  - title: "Blue Prism & Lateetud, Inc. recognized as finalists of the 2021 Microsoft AI Partner of the Year"
-    excerpt: "LONDON and AUSTIN, Texas and WASHINGTON, July 8, 2021 /PRNewswire/ -- Blue Prism® and Lateetud today announced that their joint solution has been named a finalist for the Artificial Intelligence 2021 Microsoft Partner of the Year Award."
-    publishedDateTime: 2021-07-08T14:05:00Z
-    webUrl: "https://www.morningstar.com/news/pr-newswire/20210708da36675/blue-prism-lateetud-inc-recognized-as-finalists-of-the-2021-microsoft-ai-partner-of-the-year"
-    type: article
-    provider:
-      name: Morningstar, Inc.
-      domain: morningstar.com
-    quality: 21
 
 secured: "4dgSj6MnxezxKDep1Blbnd8HISlbYJ2Y8jp2GWzn/U8fRJ8hDoPXBVAVcGlS4AWwzRCx/dDlTq02nxEbnNuxHi9FLEuvorUFWeQ4Oz4z8cj4SIum+i+nIVm6woIFn+peo65DVPlt8ag2Fp8IRhPwIaVsoPVxRcswpjzZBw01EtF6H2o5Vt4syg1N/rhHGxldQF4INY4bo36v/9/o59aDndKqGKI0K9nLo+/ehTB48Wzmlo3unK3wNcVfRMNWMQiSweLLt9fwaL6P/TwGlcSd4EtnpywwXdSd9HrMkTk0yw4+7j3Y4x+BvNQe0DfYIhiVbzGbT1GogVp2CNdqYNiqtRVIpCl5+lGM5fOTrhWzVyE=;azpuGs3Zo1utOtugQMJk3Q=="
 ---

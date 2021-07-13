@@ -49,6 +49,20 @@ related:
         width: 400
         height: 428
         isCached: true
+  - title: "Mumbai-Base MediCircle Health Launches AI-Powered Instant Covid Test In India"
+    excerpt: "Mumbai-based diagnostic company MediCircle Health on Monday launched a portable Covid-19 testing platform that is powered by machine learning and artificial intelligence and delivers results in just one second."
+    publishedDateTime: 2021-07-13T07:32:00Z
+    webUrl: "https://swarajyamag.com/insta/mumbai-base-medicircle-health-launches-ai-powered-instant-covid-test-in-india"
+    type: article
+    provider:
+      name: Swarajya
+      domain: swarajyamag.com
+    quality: 36
+    images:
+      - url: "https://gumlet.assettype.com/swarajya%2F2021-07%2F83ec17cf-e336-4456-903b-d0a07f30e802%2Fbfca27349600af51e02170919c618ef0.jpg?w=1200&auto=format%2Ccompress&ogImage=true"
+        width: 599
+        height: 401
+        isCached: true
 
 secured: "2p9yPq0kUi2gYRni/2fJFkvs0tOvCTe5FNkjgn6Dymp7/w3U0bAjc21g9RzFIne0v9sTCWXtgH0CiycCWYBBIBzMPEe34/Z1JAKBmrMGwpH4cy9/myIJAqyZlw1Ju9tK1W6iBvqOAYrkGlrQmgL491zkDMm2rlGoehE61/JvIQTYQcKIWsimNfWpZkSEzO4DK8rjLihSlEbSkx96F1+NdEstt23+R+k4dalyG44W3QxYyD+ZsBc52lEhLBGHHf7WHIXtiX9K0oGD/qnuEGQGGGAdgnHdn75WI9QpjbYI5igijqbh8vcx3DpqSwD5iGxFsqTeQZ1rQMUzN4CPpcopdkQNLnG9UWJ8PtbjaZlHGiQyQAsRlLx1qUOvNcL/VAaCuphxbnFhj6Au9avjbCxFW+SbmRD7qt7Y/XnCLBB3GcKx90i+q251f85mw+sFudxHXA2KHl2O49hmki8h70bFoZW3J1ypaatwZfF1HEKm0Foz08y+wIJMwwlLfBYsi7DWoYZcdOBGTA+O71V/gXDfSw==;n3WlxlWYM8GW5OQuSH97XA=="
 ---

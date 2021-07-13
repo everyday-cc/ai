@@ -7,8 +7,8 @@ originalUrl: "https://www.marketwatch.com/press-release/best-artificial-intellig
 webUrl: "https://www.marketwatch.com/press-release/best-artificial-intelligence-stocks-to-buy-in-july-2021-3-names-to-know-2021-07-08"
 type: article
 quality: 68
-heat: -1
-published: false
+heat: 78
+published: true
 
 provider:
   name: MarketWatch
@@ -29,17 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Best Artificial Intelligence Stocks To Buy In July 2021? 3 Names To Know"
-    excerpt: "Artificial intelligence (AI ... Notably, the Cambridge-1 will serve to enable top scientists and healthcare experts via a combination of AI and simulation. In turn, this will ideally accelerate the digital biology revolution and bolster the country ..."
-    publishedDateTime: 2021-07-08T14:55:00Z
-    webUrl: "https://www.nasdaq.com/articles/best-artificial-intelligence-stocks-to-buy-in-july-2021-3-names-to-know-2021-07-08"
-    ampWebUrl: "https://www.nasdaq.com/articles/best-artificial-intelligence-stocks-to-buy-in-july-2021-3-names-to-know-2021-07-08?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/best-artificial-intelligence-stocks-to-buy-in-july-2021-3-names-to-know-2021-07-08?amp"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 70
   - title: "AMD Stock – Zoom – 3 Top Cloud Computing Stocks to Buy in July | Fintech Zoom"
     excerpt: "Complete Advanced Micro Devices Inc. stock news by FintechZoom. View real-time stock prices and stock quotes for a full financial overview."
     publishedDateTime: 2021-07-12T15:40:00Z
