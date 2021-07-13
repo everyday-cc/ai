@@ -18,7 +18,7 @@ crunchbase:
 twitter:
   username: "scale_ai"
   url: "https://twitter.com/scale_ai"
-  followers: 10305
+  followers: 10306
 
 size: 51-200 employees
 yearFounded: 2016
@@ -35,7 +35,7 @@ topics:
   - Computer Vision
 
 images:
-  - url: "https://pbs.twimg.com/profile_images/1272685852963901441/nrmsBoMo_400x400.jpg"
+  - url: "https://pbs.twimg.com/profile_images/1414735088621813760/3NZOfCUw_400x400.png"
     width: 400
     height: 400
     isCached: true

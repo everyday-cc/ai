@@ -23,7 +23,7 @@
       "twitter": {
         "username": "OpenAI",
         "url": "https://twitter.com/OpenAI",
-        "followers": 582602
+        "followers": 582593
       },
       "size": "51-200 employees",
       "yearFounded": 2015,
@@ -72,7 +72,7 @@
       "twitter": {
         "username": "NvidiaAI",
         "url": "https://twitter.com/NvidiaAI",
-        "followers": 73786
+        "followers": 73787
       },
       "size": "10,001+ employees",
       "yearFounded": 1993,
@@ -135,7 +135,7 @@
       "twitter": {
         "username": "scale_ai",
         "url": "https://twitter.com/scale_ai",
-        "followers": 10305
+        "followers": 10306
       },
       "size": "51-200 employees",
       "yearFounded": 2016,
@@ -154,7 +154,7 @@
       "heat": 180,
       "images": [
         {
-          "url": "https://pbs.twimg.com/profile_images/1272685852963901441/nrmsBoMo_400x400.jpg",
+          "url": "https://pbs.twimg.com/profile_images/1414735088621813760/3NZOfCUw_400x400.png",
           "width": 400,
           "height": 400,
           "title": "Scale",
@@ -197,7 +197,7 @@
       "twitter": {
         "username": "BaiduResearch",
         "url": "https://twitter.com/BaiduResearch",
-        "followers": 54919
+        "followers": 54921
       },
       "size": "10,001+ employees",
       "yearFounded": 2000,
@@ -1263,7 +1263,7 @@
       "twitter": {
         "username": "IntelAI",
         "url": "https://twitter.com/IntelAI",
-        "followers": 25914
+        "followers": 25913
       },
       "size": "10,001+ employees",
       "yearFounded": 1968,
