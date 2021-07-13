@@ -45,15 +45,6 @@ related:
       name: ReportsnReports
       domain: reportsnreports.com
     quality: 7
-  - title: "RVH Solutions Inc. Secures Series B Funding from Vizient Inc., the Nation's Largest Member-Driven Health Care Performance Improvement Company"
-    excerpt: "RVH Solutions, Inc. (the \"Company\"), a leading healthcare technology solutions provider to hospitals, health systems, academic medical centers and skilled nursing facilities in the United States and the United Kingdom,"
-    publishedDateTime: 2021-07-12T13:08:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-rvh-solutions-inc-secures-series-b-funding-from-/2021/07/12/9406724.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
 
 secured: "PFFdyARwf7eAk+fk5AZTLJilDNqJlPudMczlKxKt2mtM9nieHcQMS1Z9FjIQK1s+xDf8SH1Uw36sKOIFH033aHeL19ImMi57GrCYoqBgZl72cFrPYYEFid9MSlcy/UYIs5VzsoX2RBJN3V14/5i4zsYThy+7v4fAU1rHSYymbhkYFhMpFa24qGHW5ykxhbw+8Bq2da77uvYbjVO2FO0zsV+aRp0/oZTbwo56DahE2DXfoR87P34XfFmdo+UNrqsUNE+B0uzd5mP21TPi7n7fxf0w+hQ7yGUwplOvBjs4Hz2Q+Ca2Nbsbs4TeqZRkoNc6hhR5urNXzCobyiaEGuz5I8pHgtgn33bgMUoRR/RYDCE=;GX4+UPHuuOq/p871W2cwMw=="
 ---

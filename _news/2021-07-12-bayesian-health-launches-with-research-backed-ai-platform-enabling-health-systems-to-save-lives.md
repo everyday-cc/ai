@@ -32,20 +32,6 @@ related:
         width: 2732
         height: 1200
         isCached: true
-  - title: "AI-powered, crowdsourced market research platform Promos raises $1 million"
-    excerpt: "Madrid’s startup combining machine learning and crowdsourced market research data Promos has closed a $1 million financing round. The firm blends computer vision AI and crowdsourced shopping receipts to output real-time consumer purchasing behaviour reports."
-    publishedDateTime: 2021-07-08T08:00:00Z
-    webUrl: "https://tech.eu/brief/ai-powered-crowdsourced-market-research-platform-promos-raises-1-million/"
-    type: article
-    provider:
-      name: Tech.eu
-      domain: tech.eu
-    quality: 35
-    images:
-      - url: "https://tech.eu/wp-content/uploads/2021/07/promos-1-1.jpg"
-        width: 1600
-        height: 700
-        isCached: true
 
 secured: "J6BB6dp8mgEbJvnT+pN33RdU5nMRV4TpGDkrNO5BOzYhLZVysBDTsR6zJbGqPcuVMhHfw9/VLwjJ3u9OTYha/lbiVCcexpQE7Yk2K0GUdlHKyxLOZf2oSSzAqVQlAQPD21TZd2QBQi2iOD1zLT3mWQS401IV3JAqzepkM/hjieOv+ds/4IzlWX/MBwbuFAsi4tWsS8J4xwrq/V9gBSJix21qHYc+6XUwYTXhQnxMLXGzXuxj+IIjz0jqhYyHhjzFZ3Nuyx+OypxgvKl2UtG3SFl5G2GxgGIat9tEnK6RrCCGXHBs86Bo6H10mhMv9/OksXN+SHtyfeej/MXh/MoMYMRyLwCLc267Iizq+KVN100=;RqZqqBcC5eiNHhuXVpqyFg=="
 ---

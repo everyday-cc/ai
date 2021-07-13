@@ -25,35 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "Retina AI Raises $8 Million in Series A"
-    excerpt: "Santa Monica-based analytics company Retina AI Inc. has raised $8 million in Series A funding for its artificial intelligence platform for consumer insights. The funding round, announced by the company on June 29,"
-    publishedDateTime: 2021-07-12T07:07:00Z
-    webUrl: "https://labusinessjournal.com/news/2021/jul/12/retina-ai-raises-8m-series-a/"
+  - title: "Lagos fintech GetEquity announces GreenHouse Capital investment"
+    excerpt: "Lagos-based fintech startup GetEquity has announced the completion of an undisclosed six-figure funding round led by GreenHouse Capital (GHC)."
+    publishedDateTime: 2021-07-12T08:52:00Z
+    webUrl: "https://ventureburn.com/2021/07/lagos-fintech-getequity-announces-greenhouse-capital-investment/"
     type: article
     provider:
-      name: Los Angeles Business Journal
-      domain: labusinessjournal.com
-    quality: 37
+      name: Ventureburn
+      domain: ventureburn.com
+    quality: 24
     images:
-      - url: "https://ocbj.media.clients.ellingtoncms.com/img/photos/2021/07/09/PG15_TECH_RETINA_0712-staff_t670.jpeg?b3f6a5d7692ccc373d56e40cf708e3fa67d9af9d"
-        width: 670
-        height: 446
-        isCached: true
-  - title: "Chinese AI Platform Xiaoice Banks USD1 Billion in Series A Fundraiser, Led by Hillhouse Capital"
-    excerpt: "Chinese artificial intelligence platform Xiaoice has secured USD1 billion in a Series A fundraiser, led by Hillhouse Capital Group. Hedge fund manager Neumann Advisors, IDG Capital, 5Y Capital also joined pre-A-round investors Northern Light Venture and NetEase Capital in the Series A round,"
-    publishedDateTime: 2021-07-12T09:37:00Z
-    webUrl: "https://www.yicaiglobal.com/news/chinese-ai-platform-xiaoice-banks-usd1-billion-in-series-a-fundraiser-led-by-hillhouse-capital"
-    type: article
-    provider:
-      name: Yicai Global
-      domain: yicaiglobal.com
-    quality: 25
-    images:
-      - url: "http://img.yicaiglobal.com/cdn/news/chinese-ai-platform-xiaoice-banks-usd1-billion-in-series-a-fundraiser-led-by-hillhouse-capital/14731056473702400.jpg"
-        width: 720
-        height: 480
+      - url: "https://s5.cdn.ventureburn.com/wp-content/uploads/sites/2/2021/07/GetEquity-Team.jpeg"
+        width: 800
+        height: 401
         isCached: true
 
-secured: "8alN25YDNfaGaIE3JBRjwmWrmXynXuFCgVr7C9juMGmPWB1t1c719yyVniEh6BOL4hLElavyKUxKdP0enie0cTCLVAHTDii/ytaeX+gvIfx6Nlb8we/xN4ZsFxAlyWDj90YbvJpX0E4yWs7nfCNlB+zLPeiM99DqsUq6sreVpRfaVQ9LC5P34LuTZl3v1TJnTQPZXzY4DT+lA4bB2CU6DYjUG9GL5G7YPcxL7uTOxmBTRUBlJve6G1PJgLXLL9wge+WYyqQ0xrdzXwETC6Jx1Z7EjpSK1cZhgeyKJyogjKP8XTiqlmLRM2VION4qIHcKd6KYgRWeXpcGSLK3LI1f7GlkhmdvUrtQqn11H9gFZg0=;A5DWcw2ORdBsUjP8xBWSwg=="
+secured: "S4HW2T0PcL0uc8PvHOGpR/41ubH3azNJMcNpDpsueYgWEnjS7FMG6iLFDrO7lUJ4uG8r6KpItIPF753AuzOXsKl8eWIfI2ALR260MikbdCq+wPXO35kFw50CKl8XQ3qz3JMqpwEBtX4vSNO8U09eS7Mw4F4OmZsmyzxjHruMfLaz2/A8C6+jOp66XYBlymCQ2H0NPCRuxsGZVOzX7ubwg1MOu2SPsz5hRudG113oVXnKi40xe+q7hRk8+BEMpkMthAilG1XQu8hvZDtqd9GdvVLYqQCLOeNOtQwAONLmRQ/TEDhJ91JUo30bS1enmuG6GvjMEERQpPOIrCQMXx4D6fHivDSdPpjq9smPkVC5pmX5SYrLeR85QyFE40HB26xgAg2A8wIlxrNzt68UuMwD+wchb+WXGCIVZlA8jSKhlS03GjHL8kelx7PuZezfcRkaaNzLTifLnrxCP24TraqCSwR0SbSGwj0I9BX/+uLsGIB7TXQQOumTR/pzreipUXUFsHLktEkixERGjNadrwoTOw==;wbjX1j3mTcT9N2wn0a/IbQ=="
 ---
 

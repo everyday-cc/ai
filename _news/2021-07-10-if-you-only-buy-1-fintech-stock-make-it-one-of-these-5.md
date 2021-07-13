@@ -7,7 +7,7 @@ originalUrl: "https://www.nasdaq.com/articles/if-you-only-buy-1-fintech-stock-ma
 webUrl: "https://www.nasdaq.com/articles/if-you-only-buy-1-fintech-stock-make-it-one-of-these-5-2021-07-09"
 type: article
 quality: 34
-heat: -1
+heat: 34
 published: false
 
 provider:
@@ -19,20 +19,15 @@ topics:
   - AI
 
 related:
-  - title: "Rise by Barclays: Embedded finance and the future of fintech"
-    excerpt: "Mariquit Corcoran, Group CIO at Barclays, contextualises the benefits that embedded finance is bringing to customers and how it could shape fintech overall"
-    publishedDateTime: 2021-07-08T07:48:00Z
-    webUrl: "https://fintechmagazine.com/technology-and-ai/rise-barclays-embedded-finance-and-future-fintech"
+  - title: "Top 10 Fintech Trends to Watchout For"
+    excerpt: "To make you aware of the revolutions FinTech has unleashed in the financial arena, we are outlining the following ten technology trends that are the forces behind the Fintech revolution: Welcome to Finextra."
+    publishedDateTime: 2021-07-09T15:21:00Z
+    webUrl: "https://www.finextra.com/blogposting/20576/top-10-fintech-trends-to-watchout-for"
     type: article
     provider:
-      name: fintechmagazine
-      domain: fintechmagazine.com
-    quality: 39
-    images:
-      - url: "https://fintechmagazine.com/sites/default/files/styles/ma/public/image/Femle-founders2-16_9%20%281%29%20%281%29.jpg?itok=I3bMaq47"
-        width: 3200
-        height: 1800
-        isCached: true
+      name: Finextra
+      domain: finextra.com
+    quality: 4
   - title: "Rensselaer Polytechnic Institute and Stevens Institute of Technology To Establish the First-Ever NSF-Backed Fintech Research Center"
     excerpt: "Rensselaer Polytechnic Institute and Stevens Institute of Technology announced today that they have been awarded the first-ever National Science Foundation (NSF) grant to create an industry-university cooperative research center devoted specifically to financial technology and science."
     publishedDateTime: 2021-07-08T15:22:00Z

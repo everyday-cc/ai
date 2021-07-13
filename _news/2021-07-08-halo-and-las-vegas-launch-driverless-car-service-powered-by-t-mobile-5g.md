@@ -35,6 +35,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Halo and Las Vegas Launch Driverless Car Service Powered by T-Mobile 5G"
+    excerpt: "A driverless Halo then arrives at the pick ... safety hazard or system anomaly is detected. Using an advanced Artificial Intelligence algorithm, the car also learns in the background while humans ..."
+    publishedDateTime: 2021-07-08T23:15:00Z
+    webUrl: "https://www.marketwatch.com/press-release/halo-and-las-vegas-launch-driverless-car-service-powered-by-t-mobile-5g-2021-07-08"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 69
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Halo Brings Driverless Car Rental to Las Vegas"
     excerpt: "All-electric rental car startup Halo this week announced plans for an autonomous vehicle service in Las Vegas, powered by T-Mobile 5G. Halo, which has been test driving on Las Vegas public streets for months,"
     publishedDateTime: 2021-07-09T12:47:00Z
@@ -134,6 +148,6 @@ related:
         height: 600
         isCached: true
 
-secured: "Z55ozhNklQjgY3cbysGzyesMP+7WMsWyTFcoGgvLnU9pFF/2bjeAKF3VBpKI8BCM9Vt1rzr87De2xZSPGSdi1nhIDSRMeNhOP9PIC/TU2xWG+G46/vGUcuopsLvu+ZHKRhCodNv9P1azwzBIZv0WHY82gQ49KwJFX/+3EeAT+vEctjDPSOvNzntMBkj1PIUG15wlRSeBdXkfJ/KDPZ3kcF8/mDh5zanzhUOot1g0I0jXll5VrXf/aQyVNs5s8pne6dBuKHQhSuheUTBQ5RH20KD16DJSWttlPGKpCOqBJFzbu4rky/Haf3ogoUy8fcKzFZHLnNn871uZhyv0JhJXh/99TXwhBjgJB64tLYEYha0=;qtO4rcq+Tp2lY+z5bD4Qzw=="
+secured: "o8d5FObee5knSNu+PqJJzzhxnn0TCa5vmFGLN8pXxt1vD2BOLPdor6O05ikpPJWBxoJ8/mXhxc2EzlEuBlmxzjgaUNSVgHgpFkYHxcgRnIgBl5Oc0hw0WvZfpVJ227ynjJw6QNdE8MzENa7JdvcrBRk9+JA0oo+0DkCUSXRQkmu1hdaQHpBnpBi5d2lO/c7c3brzljUUUvXiHPLKlciZk3uxjrprKTntQ58eXRoJB6Am85AcwCONmjUOaQxU6GFyIUC/9ok3MWwYIjXcXRIf6tmY67+CCSej1BuKYp3nlT3gQvU2+Zaa7Y3N3u0CezhQh5sW/0BjHbC09eE8A23Wa+p7584y1nqAbEOshgQw/Z8=;pyM1NNEGlLTKZDRYj1YHDQ=="
 ---
 

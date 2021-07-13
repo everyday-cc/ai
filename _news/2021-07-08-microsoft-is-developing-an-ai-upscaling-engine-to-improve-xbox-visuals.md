@@ -26,75 +26,22 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence and Machine Learning Market Is Booming Worldwide | GoogleInc., Microsoft Corporation, Amazon Web Services Inc."
-    excerpt: "Announced Artificial Intelligence and Machine Learning study with 200+ market data Tables and Figures spread through Pages and easy to understand detailed TOC on “Artificial Intelligence and Machine Learning."
-    publishedDateTime: 2021-07-09T06:33:00Z
-    webUrl: "https://manometcurrent.com/artificial-intelligence-and-machine-learning-market-is-booming-worldwide-googleinc-microsoft-corporation-amazon-web-services-inc/"
+  - title: "Xbox Series X games could get a big boost — thanks to AI upscaling"
+    excerpt: "The Xbox Series X is already a serious powerhouse of a console, but its graphical performance could be about to get even better thanks to the power of AI. AI upscaling is nothing new, but until now it’s been left to the likes of Nvidia and AMD to handle."
+    publishedDateTime: 2021-07-08T11:38:00Z
+    webUrl: "https://www.tomsguide.com/uk/news/xbox-series-x-games-could-get-a-big-boost-thanks-to-ai-upscaling"
+    ampWebUrl: "https://www.tomsguide.com/uk/amp/news/xbox-series-x-games-could-get-a-big-boost-thanks-to-ai-upscaling"
+    cdnAmpWebUrl: "https://www-tomsguide-com.cdn.ampproject.org/c/s/www.tomsguide.com/uk/amp/news/xbox-series-x-games-could-get-a-big-boost-thanks-to-ai-upscaling"
     type: article
     provider:
-      name: manometcurrent.com
-      domain: manometcurrent.com
-    quality: 58
+      name: Tom's Guide
+      domain: tomsguide.com
+    quality: 57
     images:
-      - url: "https://manometcurrent.com/wp-content/uploads/2021/07/Global-Artificial-Intelligence-and-Machine-Learning-Market.jpg"
-        width: 600
-        height: 400
+      - url: "https://cdn.mos.cms.futurecdn.net/Uy8Chuw8oY5jPoc7HyGMKd-480-80.jpg"
+        width: 480
+        height: 289
         isCached: true
-  - title: "Artificial Intelligence Chips Market is Booming with Unstoppable Rate | AMD, Google, Intel Corporation, NVIDIA"
-    excerpt: "The latest study released on the Global Artificial Intelligence Chips Market by AMA Research evaluates market size, trend, and forecast to 2026. The Artificial Intelligence Chips market study covers significant research data and proofs to be a handy resource document for managers,"
-    publishedDateTime: 2021-07-08T17:50:00Z
-    webUrl: "https://manometcurrent.com/artificial-intelligence-chips-market-is-booming-with-unstoppable-rate-amd-google-intel-corporation-nvidia/"
-    type: article
-    provider:
-      name: manometcurrent.com
-      domain: manometcurrent.com
-    quality: 34
-    images:
-      - url: "https://manometcurrent.com/wp-content/uploads/2021/07/Micro-segmentation-Solutions-Market-390x220.jpeg"
-        width: 390
-        height: 220
-        isCached: true
-  - title: "Deep Learning Market Size, Share 2021-2028 | Top Key Vendors – Amazon Web Services (AWS), Google, IBM, Intel, Micron Technology, Microsoft"
-    excerpt: "The Deep Learning Market study provides details of market dynamics affecting the market, market size, and segmentation, and casts a shadow over the major market players by highlighting the favorable competitive landscape and successful trends over the years."
-    publishedDateTime: 2021-07-11T14:25:00Z
-    webUrl: "https://manometcurrent.com/deep-learning-market-size-share-2021-2028-top-key-vendors-amazon-web-services-aws-google-ibm-intel-micron-technology-microsoft/"
-    type: article
-    provider:
-      name: manometcurrent.com
-      domain: manometcurrent.com
-    quality: 34
-  - title: "Voice Recognition Systems Market Is Booming Worldwide | Nuance Communications, Microsoft, Agnitio"
-    excerpt: "Announced Voice Recognition Systems study with 200+ market data Tables and Figures spread through Pages and easy to understand detailed TOC on “Voice Recognition Systems. Voice Recognition Systems industry Report allows you to get different methods for maximizing your profit."
-    publishedDateTime: 2021-07-12T18:40:00Z
-    webUrl: "https://manometcurrent.com/voice-recognition-systems-market-is-booming-worldwide-nuance-communications-microsoft-agnitio/"
-    type: article
-    provider:
-      name: manometcurrent.com
-      domain: manometcurrent.com
-    quality: 28
-    images:
-      - url: "https://manometcurrent.com/wp-content/uploads/2021/07/chart-2021-07-13T001031.329-780x470.jpg"
-        width: 780
-        height: 470
-        isCached: true
-  - title: "AI in Telecommunication Market Booming Segments; Investors Seeking Growth | Google, Microsoft, IBM"
-    excerpt: "Get Free Exclusive PDF Sample Copy of This Research @  Scope of the Report of AI in Telecommunication Artificial Intelligence with learning abilities is a revolutionary technology, which the communication industry is exploring,"
-    publishedDateTime: 2021-07-08T16:59:00Z
-    webUrl: "https://manometcurrent.com/ai-in-telecommunication-market-booming-segments-investors-seeking-growth-google-microsoft-ibm/"
-    type: article
-    provider:
-      name: manometcurrent.com
-      domain: manometcurrent.com
-    quality: 20
-  - title: "Contact Center AI Software Market is Going to Boom With Google, Cisco, Oracle Corporation, Asterisk"
-    excerpt: "Growing Demand of New Call Centres and Incorporation of New Systems, Increasing Number of Queries and Increasing Demand of Quick Resolution on Call is driving the global Contact Center AI Software market."
-    publishedDateTime: 2021-07-10T18:08:00Z
-    webUrl: "https://manometcurrent.com/contact-center-ai-software-market-is-going-to-boom-with-google-cisco-oracle-corporation-asterisk/"
-    type: article
-    provider:
-      name: manometcurrent.com
-      domain: manometcurrent.com
-    quality: 3
 
 secured: "pFrHzWRwBqfLLMwYTY3wN3MsoVx+lZNS7mnPB0b6c+Qou9SMP/ZSZDz0Kj2kEJgDdx9t7NeEWVBt9YpMKbbDgnbOgupG1Kan4CfxT6ciz5kv1pM6sXkMstkChz0W8fMyB+OXO/8T02X+bPeUrZ2PFlnIm57xDUyvM97LGMm4ole5rduesS7er+jxcb0XczYcC6IK/ROoDCPLTkcH70ZToD1Q7wYkbYhjfajtgfQqivqxk66ePxJjLgxudPGlZntOUulf7Iwb+vg+vy8BMHVqLU7Av5O11FBxvNBgHP+YH7x22heJ8Sd3M6J5gdehZmDlk3m5X/jmTaYb8hdbOmr3lbuDoA7w7jkiRApqbo6/Ce4OQ37ryq6nQE2uY2Xi0c0YNIsq2QVSf0/FpzoC9vlTg2AP4ynKROu5MG5v/YinxRrAZWIv8f76xjlta6bwWmfVpBlbmjeuOEo7YBMPuYMXU7Z5ezCC0D9dahODjHjzB7iOSbov92Dd1+K8SMxHUCbfzKniCmIVCg7qw0ZdgvaWhA==;+99qENPs0I23ibBIhqHiOQ=="
 ---

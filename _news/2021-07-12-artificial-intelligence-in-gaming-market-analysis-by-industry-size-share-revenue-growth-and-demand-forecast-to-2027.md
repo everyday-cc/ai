@@ -36,6 +36,22 @@ related:
         width: 1279
         height: 640
         isCached: true
+  - title: "Scale AI’s rapid growth reflects widening demand for smart software"
+    excerpt: "Corporate demand for data to train artificial intelligence algorithms has propelled the San Francisco-based startup to a $7 billion valuation"
+    publishedDateTime: 2021-07-13T00:20:00Z
+    webUrl: "https://www.livemint.com/technology/tech-news/scale-ai-s-rapid-growth-reflects-widening-demand-for-smart-software-11626093355249.html"
+    ampWebUrl: "https://www.livemint.com/technology/tech-news/scale-ai-s-rapid-growth-reflects-widening-demand-for-smart-software/amp-11626093355249.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/tech-news/scale-ai-s-rapid-growth-reflects-widening-demand-for-smart-software/amp-11626093355249.html"
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
+    quality: 59
+    images:
+      - url: "https://images.livemint.com/img/2021/07/12/600x338/startup-kElG--621x414@LiveMint_1626094162015.jpg"
+        width: 600
+        height: 338
+        isCached: true
 
 secured: "n8A+oRjbq6HRCTeGcdOJGgQDG8uctRV9l3b1nsk526VjuVlwoKLeBVWr13uTUFWb94qUTwAkBZ/AfGDCBQWoiTWBpOLSO4X5lr5FdHV0LnLTWUkvN2Fn1z7Z9As+J3jKsLfAW1oxG2VYFDwhPpcsuQQm7PQ/xeU6gEWet3RWu6UzSqujj2CN5Su563E2/MQ2NjEhGKoEudxyD8ujxqIw1nJlfl80UnCp6igxD0Xp8kNd8palqeXvBBxKdlMiIAx9hJ4hyM797Is3Rnj5Vu2wOtmd0jcODXOCljR4od+fQkyxlIM6UtMb1fc7GnuMCnbhq4ywQ5EWwqI+mUPy10hc9L2mfSdzWGoba+QJT4B5ICk=;+9vNkTkdJZvxKdHOn+H6kA=="
 ---

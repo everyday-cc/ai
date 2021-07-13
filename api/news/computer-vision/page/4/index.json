@@ -2,6 +2,49 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-06-08-apple-brings-systemwide-visual-text-recognition-to-ios-15.md",
+      "title": "Apple Brings Systemwide Visual Text Recognition to iOS 15",
+      "excerpt": "Apple today announced Live Text, a new feature of iOS that provides intelligent text and object recognition for images. In iOS 15, photos (new and existing), screenshots, and images on the wen ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.phonescoop.com/articles/article.php?a=22535",
+      "originalUrl": "https://www.phonescoop.com/articles/article.php?a=22535",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.phonescoop.com/img/a/f/22535_600_a_1568355563e93bf28c1bd97ecad30b4b.jpg",
+          "width": 433,
+          "height": 831,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-07T11:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Phone Scoop",
+        "domain": "phonescoop.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-08-ban-facial-recognition-software-in-baltimore-and-beyond-reader-commentary.md",
       "title": "Ban facial recognition software in Baltimore and beyond | READER COMMENTARY",
       "excerpt": "Facial recognition technology is too prone, too much an invasion of privacy and too likely to misidentify Black individuals for any city to allow its routine use.",
@@ -1280,58 +1323,6 @@
         "name": "Security",
         "domain": "securityinfowatch.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-28-the-lidar-range-wars-mine-is-longer-than-yours.md",
-      "title": "The LiDAR Range Wars - Mine Is Longer Than Yours",
-      "excerpt": "Its not a surprise given that 6 companies have gone public in the past 6 months and become LUnicorns via SPAC (Special Purpose Acquisition Companies) mergers.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/sabbirrangwala/2021/05/27/the-lidar-range-wars-mine-is-longer-than-yours/",
-      "originalUrl": "https://www.forbes.com/sites/sabbirrangwala/2021/05/27/the-lidar-range-wars-mine-is-longer-than-yours/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60a04a594bb95cfc37bee15e%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/sabbirrangwala/2021/05/27/the-lidar-range-wars-mine-is-longer-than-yours/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/sabbirrangwala/2021/05/27/the-lidar-range-wars-mine-is-longer-than-yours/amp/",
-      "publishedDateTime": "2021-05-27T19:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

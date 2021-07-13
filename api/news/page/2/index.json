@@ -2,6 +2,203 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-07-12-10-things-in-tech-musk-visits-branson-ai-tiny-homes-gates-foundation-stress.md",
+      "title": "10 things in tech: Musk visits Branson — AI tiny homes — Gates Foundation stress",
+      "excerpt": "Musk visited Branson before his flight, AI powered tiny homes arrive in the UK, Gates Foundation staff stress out: 10 things in tech you need to know.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/10-things-in-tech-musk-branson-tiny-homes-gates-foundation-2021-7",
+      "originalUrl": "https://www.businessinsider.com/10-things-in-tech-musk-branson-tiny-homes-gates-foundation-2021-7",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/60e9a2b5ca74780018ae8bec?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/10-things-in-tech-musk-branson-tiny-homes-gates-foundation-2021-7?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/10-things-in-tech-musk-branson-tiny-homes-gates-foundation-2021-7?amp",
+      "publishedDateTime": "2021-07-12T02:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-12-tencent-uses-facial-recognition-to-stop-kids-from-gaming-at-night.md",
+      "title": "Tencent uses facial recognition to stop kids from gaming at night",
+      "excerpt": "Chinese technology and media company Tencent has revealed that it is now using facial recognition technology to stop kids in China from spending their late night hours on mobile games. In a social media post on the Chinese platform QQ,",
+      "sourceUrl": null,
+      "webUrl": "https://sea.mashable.com/tech/16612/tencent-uses-facial-recognition-to-stop-kids-from-gaming-at-night",
+      "originalUrl": "https://sea.mashable.com/tech/16612/tencent-uses-facial-recognition-to-stop-kids-from-gaming-at-night",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 279,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://sm.mashable.com/t/mashable_sea/photo/default/tencent-china-kids-facial-recognition-gaming-header_9zph.620.png",
+          "width": 620,
+          "height": 310,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://sea.mashable.com/tech/16612/tencent-uses-facial-recognition-to-stop-kids-from-gaming-at-night?amp=1",
+      "cdnAmpWebUrl": "https://sea-mashable-com.cdn.ampproject.org/c/s/sea.mashable.com/tech/16612/tencent-uses-facial-recognition-to-stop-kids-from-gaming-at-night?amp=1",
+      "publishedDateTime": "2021-07-12T01:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mashable",
+        "domain": "mashable.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-12-artificial-intelligence-ai-in-retail-market-industry-growth-analysis-forecast-by-2027.md",
+      "title": "Artificial Intelligence (AI) in Retail Market – Industry Growth Analysis & Forecast By 2027",
+      "excerpt": "Managed services to drive artificial intelligence in retail market trends Artificial intelligence (AI) in retail market will be significantly bolstered with the surging need for digitization and the consistent development of new business models across the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-retail-market-industry-growth-analysis-forecast-by-2027-2021-07-12",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-retail-market-industry-growth-analysis-forecast-by-2027-2021-07-12",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 202,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-12T01:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-12-huawei-engineers-are-working-on-a-new-self-driving-bicycle.md",
+      "title": "Huawei engineers are working on a new self driving bicycle",
+      "excerpt": "Furthermore, the self driving bicycle also arrives with a series of impressive features like the high precision sensors on its body, paired with image recognition cameras, and AI (Artificial Intelligence) technology as well, which enables it to run without ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.gizmochina.com/2021/07/12/huawei-engineers-working-on-self-driving-bicycle/",
+      "originalUrl": "https://www.gizmochina.com/2021/07/12/huawei-engineers-working-on-self-driving-bicycle/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gizmochina.com/wp-content/uploads/2021/07/Screenshot-333.png",
+          "width": 1004,
+          "height": 563,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-12T01:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmochina",
+        "domain": "gizmochina.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmochina.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-12-scale-ais-rapid-growth-reflects-widening-demand-for-smart-software.md",
       "title": "Scale AI’s Rapid Growth Reflects Widening Demand for Smart Software",
       "excerpt": "A surge in corporate demand for artificial intelligence is driving growth for startups that help companies prepare data for software tools designed to glean business insights like gauging demand or spotting supply chain inefficiencies.",
@@ -10,7 +207,7 @@
       "originalUrl": "https://www.wsj.com/articles/scale-ais-rapid-growth-reflects-widening-demand-for-smart-software-11626082201",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 109,
       "tags": null,
       "images": [
         {
@@ -379,58 +576,6 @@
       "topics": [
         "AI",
         "AI in Education"
-      ]
-    },
-    {
-      "path": "_news/2021-07-11-artificial-intelligence-ai-in-supply-chain-and-logistics-market-will-generate-massive-revenue-in-coming-years.md",
-      "title": "Artificial intelligence (AI) in Supply Chain and Logistics Market Will Generate Massive Revenue in Coming Years",
-      "excerpt": "Jul 10, 2021 (Heraldkeepers) -- The latest independent research document on Global Artificial intelligence (AI) in Supply Chain and Logistics examine investment in Market. It describes how companies deploying these technologies across various industry ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-supply-chain-and-logistics-market-will-generate-massive-revenue-in-coming-years-2021-07-10",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-supply-chain-and-logistics-market-will-generate-massive-revenue-in-coming-years-2021-07-10",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-10T18:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Facebook AI"
       ]
     },
     {
@@ -1096,143 +1241,6 @@
         "AI",
         "AWS AI",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2021-07-09-fact-sheet-executive-order-on-promoting-competition-in-the-american-economy.md",
-      "title": "Fact sheet: Executive order on promoting competition in the American economy",
-      "excerpt": "News Release The White House The economy is booming under President Biden’s leadership. The economy has gained more than three million jobs since the",
-      "sourceUrl": null,
-      "webUrl": "https://www.whitehouse.gov/briefing-room/statements-releases/2021/07/09/fact-sheet-executive-order-on-promoting-competition-in-the-american-economy/",
-      "originalUrl": "https://indiancountrytoday.com/the-press-pool/fact-sheet-executive-order-on-promoting-competition-in-the-american-economy",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.whitehouse.gov/wp-content/uploads/2021/01/wh_social-share-1100x740.png",
-          "width": 1100,
-          "height": 740,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-09T09:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Indian Country Today",
-        "domain": "indiancountrytoday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-09-claims-that-highway-dollars-wont-boost-economic-growth-are-missing-something-vital-namely-ai-self-driving-cars.md",
-      "title": "Claims That Highway Dollars Won’t Boost Economic Growth Are Missing Something Vital, Namely AI Self-Driving Cars",
-      "excerpt": "Some are contending that infrastructure investment into highway dollars will have a minimal payoff, but this is argued herein as a wholly myopic view that fails to include the advent of AI self-driving cars.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/lanceeliot/2021/07/09/claims-that-highway-dollars-wont-boost-economic-growth-are-missing-something-vital-namely-ai-self-driving-cars/",
-      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2021/07/09/claims-that-highway-dollars-wont-boost-economic-growth-are-missing-something-vital-namely-ai-self-driving-cars/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60e7efb356707072f917781b%2F0x0.jpg%3FcropX1%3D176%26cropX2%3D2103%26cropY1%3D0%26cropY2%3D1284",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2021/07/09/claims-that-highway-dollars-wont-boost-economic-growth-are-missing-something-vital-namely-ai-self-driving-cars/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/07/09/claims-that-highway-dollars-wont-boost-economic-growth-are-missing-something-vital-namely-ai-self-driving-cars/amp/",
-      "publishedDateTime": "2021-07-09T08:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2021-07-09-activision-taking-action-against-call-of-duty-warzone-cheat-that-uses-machine-learning.md",
-      "title": "Activision taking action against Call of Duty: Warzone cheat that uses machine learning",
-      "excerpt": "A new Call of Duty: Warzone and Black Ops Cold War cheat that uses machine learning is on the rise, but Activision might already be taking action against it. Earlier this week, Eurogamer first reported that a cheat using machine learning had made its way ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.gamesradar.com/activision-taking-action-against-call-of-duty-warzone-cheat-that-uses-machine-learning/",
-      "originalUrl": "https://www.gamesradar.com/activision-taking-action-against-call-of-duty-warzone-cheat-that-uses-machine-learning/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/U3nNDTXMTVRrdfff7fVNyk-480-80.jpg",
-          "width": 480,
-          "height": 270,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.gamesradar.com/amp/activision-taking-action-against-call-of-duty-warzone-cheat-that-uses-machine-learning/",
-      "cdnAmpWebUrl": "https://www-gamesradar-com.cdn.ampproject.org/c/s/www.gamesradar.com/amp/activision-taking-action-against-call-of-duty-warzone-cheat-that-uses-machine-learning/",
-      "publishedDateTime": "2021-07-09T08:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GamesRadar",
-        "domain": "gamesradar.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

@@ -54,6 +54,49 @@
       ]
     },
     {
+      "path": "_news/2021-07-13-gm-ventures-increases-funding-in-ai-vision-software-company-algolux.md",
+      "title": "GM Ventures Increases Funding In AI Vision Software Company Algolux",
+      "excerpt": "Algolux, an AI software company based out of Quebec, has announced the closure of series B funding, raising $18.4 million to help accelerate market adoption of the company’s scalable computer vision and image optimization solutions.",
+      "sourceUrl": null,
+      "webUrl": "https://gmauthority.com/blog/2021/07/gm-ventures-increases-funding-in-ai-vision-software-company-algolux/",
+      "originalUrl": "https://gmauthority.com/blog/2021/07/gm-ventures-increases-funding-in-ai-vision-software-company-algolux/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://gmauthority.com/blog/wp-content/uploads/2021/01/Cruise-Origin-Honda-Japan-autonomous-vehicle-mobility-service-MaaS-announcement-002-e1611168765981-1024x553.jpg",
+          "width": 1024,
+          "height": 553,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://gmauthority.com/blog/2021/07/gm-ventures-increases-funding-in-ai-vision-software-company-algolux/amp/",
+      "cdnAmpWebUrl": "https://gmauthority-com.cdn.ampproject.org/c/s/gmauthority.com/blog/2021/07/gm-ventures-increases-funding-in-ai-vision-software-company-algolux/amp/",
+      "publishedDateTime": "2021-07-12T14:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GM Authority",
+        "domain": "gmauthority.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-12-superannotate-raises-145-million-to-help-automate-the-computer-vision-pipeline.md",
       "title": "SuperAnnotate Raises $14.5 Million To Help Automate The Computer Vision Pipeline",
       "excerpt": "The company looks to democratize the budding machine learning field by offering automation software and experts companies can tap.",
@@ -1008,6 +1051,49 @@
       ]
     },
     {
+      "path": "_news/2021-07-01-facial-recognition-tech-has-been-widely-used-across-the-us-government-for-years-a-new-report-shows.md",
+      "title": "Facial recognition tech has been widely used across the US government for years, a new report shows",
+      "excerpt": "As George Floyd’s death sparked protests in cities across the country, six federal agencies turned to facial-recognition software in an effort to identify people in images",
+      "sourceUrl": null,
+      "webUrl": "https://whdh.com/news/facial-recognition-tech-has-been-widely-used-across-the-us-government-for-years-a-new-report-shows/",
+      "originalUrl": "https://whdh.com/news/facial-recognition-tech-has-been-widely-used-across-the-us-government-for-years-a-new-report-shows/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://whdh.com/wp-content/uploads/sites/3/2021/07/hypatia-h_23d667f55b4c015e1415b2e40186c54d-h_18bcfaf1b7723aeabe16bdb83b9561b0.jpg?quality=60&strip=color&w=1024",
+          "width": 1024,
+          "height": 662,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://whdh.com/news/facial-recognition-tech-has-been-widely-used-across-the-us-government-for-years-a-new-report-shows/amp/",
+      "cdnAmpWebUrl": "https://whdh-com.cdn.ampproject.org/c/s/whdh.com/news/facial-recognition-tech-has-been-widely-used-across-the-us-government-for-years-a-new-report-shows/amp/",
+      "publishedDateTime": "2021-07-01T05:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WHDH",
+        "domain": "whdh.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-01-maine-bans-facial-recognition-technology-from-schools-and-most-police-work.md",
       "title": "Maine bans facial recognition technology from schools and most police work",
       "excerpt": "Maine has passed the strongest statewide law regulating government use of facial recognition to date. The state’s House and Senate voted unanimously in favor of rules that prohibit law enforcement from using the technology unless they have probable cause that an unidentified person in an image committed a serious crime.",
@@ -1047,49 +1133,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-01-facial-recognition-tech-has-been-widely-used-across-the-us-government-for-years-a-new-report-shows.md",
-      "title": "Facial recognition tech has been widely used across the US government for years, a new report shows",
-      "excerpt": "As George Floyd's death sparked protests in cities across the country, six federal agencies turned to facial-recognition software in an effort to identify people in images of the civil unrest,",
-      "sourceUrl": null,
-      "webUrl": "https://www.gwinnettdailypost.com/news/facial-recognition-tech-has-been-widely-used-across-the-us-government-for-years-a-new/article_30cff4a5-33f7-51fb-aa61-01eba1407dfe.html",
-      "originalUrl": "https://www.gwinnettdailypost.com/news/facial-recognition-tech-has-been-widely-used-across-the-us-government-for-years-a-new/article_30cff4a5-33f7-51fb-aa61-01eba1407dfe.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/gwinnettdailypost.com/content/tncms/assets/v3/editorial/3/fb/3fb88124-d9cd-11eb-82d9-bb024750c37f/60dcb1908b220.image.jpg?resize=948%2C630",
-          "width": 948,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-30T10:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gwinnett Daily Post",
-        "domain": "gwinnettdailypost.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1355,49 +1398,6 @@
       "topics": [
         "AI",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2021-06-28-ai-and-computer-vision-remove-the-need-for-cell-biopsy-in-testing-embryos.md",
-      "title": "AI and computer vision remove the need for cell biopsy in testing embryos",
-      "excerpt": "Despite continuing controversies over its value in improving birth rates in IVF, testing embryos for their chromosomal content has become routine in many fertility clinics. Embryos with a normal complement of chromosomes (known as \"euploid\") are known to have a good chance of implanting in the uterus to become a pregnancy,",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2021-06-ai-vision-cell-biopsy-embryos.html",
-      "originalUrl": "https://medicalxpress.com/news/2021-06-ai-vision-cell-biopsy-embryos.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2021/1-embryo.jpg",
-          "width": 1920,
-          "height": 1542,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2021-06-ai-vision-cell-biopsy-embryos.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-06-ai-vision-cell-biopsy-embryos.amp",
-      "publishedDateTime": "2021-06-28T02:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],

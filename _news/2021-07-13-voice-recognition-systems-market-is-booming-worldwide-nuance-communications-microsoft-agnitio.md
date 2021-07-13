@@ -26,6 +26,22 @@ images:
     isCached: true
 
 related:
+  - title: "Artificial Intelligence as a Service Market May Set Epic Growth Story | Google, IBM, Microsoft"
+    excerpt: "Global Artificial Intelligence as a Service Market Research Report with Opportunities and Strategies to Boost Growth- COVID-19 Impact and Recovery is latest research study released by HTF MI evaluating the market risk side analysis, highlighting ..."
+    publishedDateTime: 2021-07-13T00:00:00Z
+    webUrl: "https://www.openpr.com/news/2326738/artificial-intelligence-as-a-service-market-may-set-epic-growth"
+    ampWebUrl: "https://www.openpr.com/amp/2326738/artificial-intelligence-as-a-service-market-may-set-epic-growth"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2326738/artificial-intelligence-as-a-service-market-may-set-epic-growth"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 62
+    images:
+      - url: "https://cdn.openpr.com/U/7/U713219379_g.jpg"
+        width: 450
+        height: 300
+        isCached: true
   - title: "Artificial Intelligence and Machine Learning Market Is Booming Worldwide | GoogleInc., Microsoft Corporation, Amazon Web Services Inc."
     excerpt: "Announced Artificial Intelligence and Machine Learning study with 200+ market data Tables and Figures spread through Pages and easy to understand detailed TOC on “Artificial Intelligence and Machine Learning."
     publishedDateTime: 2021-07-09T06:33:00Z
@@ -40,33 +56,19 @@ related:
         width: 600
         height: 400
         isCached: true
-  - title: "Microsoft Is Developing an AI Upscaling Engine to Improve Xbox Visuals"
-    excerpt: "Microsoft wants to implement its own machine learning solutions for Xbox, possibly in competition with AMD's FSR or Nvidia's DLSS."
-    publishedDateTime: 2021-07-08T13:31:00Z
-    webUrl: "https://www.extremetech.com/gaming/324429-microsoft-mulls-ai-upscaling-method-to-improve-xbox-visuals"
+  - title: "NEC, Microsoft to Collaborate on Cloud, Edge, AI, IoT and Private 5G"
+    excerpt: "Microsoft and NEC announced a new multi-year strategic partnership, where the companies will leverage Microsoft Azure"
+    publishedDateTime: 2021-07-13T01:04:00Z
+    webUrl: "https://www.thefastmode.com/technology-solutions/20223-nec-microsoft-to-collaborate-on-cloud-edge-ai-iot-and-private-5g"
     type: article
     provider:
-      name: ExtremeTech
-      domain: extremetech.com
-    quality: 56
+      name: Deep
+      domain: thefastmode.com
+    quality: 54
     images:
-      - url: "https://www.extremetech.com/wp-content/uploads/2020/10/Xbox-Die-Feature.jpg"
-        width: 1186
-        height: 655
-        isCached: true
-  - title: "Artificial Intelligence Chips Market is Booming with Unstoppable Rate | AMD, Google, Intel Corporation, NVIDIA"
-    excerpt: "The latest study released on the Global Artificial Intelligence Chips Market by AMA Research evaluates market size, trend, and forecast to 2026. The Artificial Intelligence Chips market study covers significant research data and proofs to be a handy resource document for managers,"
-    publishedDateTime: 2021-07-08T17:50:00Z
-    webUrl: "https://manometcurrent.com/artificial-intelligence-chips-market-is-booming-with-unstoppable-rate-amd-google-intel-corporation-nvidia/"
-    type: article
-    provider:
-      name: manometcurrent.com
-      domain: manometcurrent.com
-    quality: 34
-    images:
-      - url: "https://manometcurrent.com/wp-content/uploads/2021/07/Micro-segmentation-Solutions-Market-390x220.jpeg"
-        width: 390
-        height: 220
+      - url: "https://www.thefastmode.com/media/k2/items/src/884fc3b4d19d523516b14de7bdd9c372.jpg?t=20210713_010237"
+        width: 752
+        height: 408
         isCached: true
   - title: "Deep Learning Market Size, Share 2021-2028 | Top Key Vendors – Amazon Web Services (AWS), Google, IBM, Intel, Micron Technology, Microsoft"
     excerpt: "The Deep Learning Market study provides details of market dynamics affecting the market, market size, and segmentation, and casts a shadow over the major market players by highlighting the favorable competitive landscape and successful trends over the years."
@@ -86,15 +88,6 @@ related:
       name: manometcurrent.com
       domain: manometcurrent.com
     quality: 20
-  - title: "Contact Center AI Software Market is Going to Boom With Google, Cisco, Oracle Corporation, Asterisk"
-    excerpt: "Growing Demand of New Call Centres and Incorporation of New Systems, Increasing Number of Queries and Increasing Demand of Quick Resolution on Call is driving the global Contact Center AI Software market."
-    publishedDateTime: 2021-07-10T18:08:00Z
-    webUrl: "https://manometcurrent.com/contact-center-ai-software-market-is-going-to-boom-with-google-cisco-oracle-corporation-asterisk/"
-    type: article
-    provider:
-      name: manometcurrent.com
-      domain: manometcurrent.com
-    quality: 3
 
 secured: "DmtcUXmvMORloVwQhGT3xO2s9ek8dvHcNFWAQ5bMNNSxadV2nX+dL9GFcS9sgUgBlLlcSdwxdvo1DlMIqcC1yYRWU38t/tO4BM9mYLDCl/HMI70Vt5jLxR81yXbAJ/Zsp2IyuTUlctcQGv4TN89UAoU4FTZcP8CgAyCLOKuqk2UoUJ3JNmCmAAX3PC4B0kL8EHLj9v89H8n72GYFhoV+53n4nUVsYH5j8eSU5gj4b+Qs0yWPqaBGG0RyL/K08qTdkzW9Gc+9U8SmVxxhB8zOqaaPcIs1jQI9YL2I/lIDfhRzYikgZUvBVMnnXWY2kn/uOh3Pnc8f9SB8FcwqCuZl2TgNPiy+rSTm0U7G3mh8rCE=;8aS6ueXiYCgPLYfTB1iyug=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wsj.com/amp/articles/scale-ais-rapid-growth-reflects-wid
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/scale-ais-rapid-growth-reflects-widening-demand-for-smart-software-11626082201"
 type: article
 quality: 89
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Scale AI’s rapid growth reflects widening demand for smart software"
+    excerpt: "Corporate demand for data to train artificial intelligence algorithms has propelled the San Francisco-based startup to a $7 billion valuation"
+    publishedDateTime: 2021-07-13T00:20:00Z
+    webUrl: "https://www.livemint.com/technology/tech-news/scale-ai-s-rapid-growth-reflects-widening-demand-for-smart-software-11626093355249.html"
+    ampWebUrl: "https://www.livemint.com/technology/tech-news/scale-ai-s-rapid-growth-reflects-widening-demand-for-smart-software/amp-11626093355249.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/tech-news/scale-ai-s-rapid-growth-reflects-widening-demand-for-smart-software/amp-11626093355249.html"
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
+    quality: 59
+    images:
+      - url: "https://images.livemint.com/img/2021/07/12/600x338/startup-kElG--621x414@LiveMint_1626094162015.jpg"
+        width: 600
+        height: 338
+        isCached: true
   - title: "Artificial Intelligence in Gaming Market Analysis By Industry Size, Share, Revenue Growth and Demand Forecast To 2027"
     excerpt: "The rise of artificial intelligence is an equally important stepping stone to developing smarter, more interactive, and as realistic as possible games. Whether it's racing car games, shooting games, or strategy games, most video games all have different ..."
     publishedDateTime: 2021-07-12T12:06:00Z

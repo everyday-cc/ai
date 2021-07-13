@@ -9,8 +9,8 @@ ampWebUrl: "https://gmauthority.com/blog/2021/07/gm-ventures-increases-funding-i
 cdnAmpWebUrl: "https://gmauthority-com.cdn.ampproject.org/c/s/gmauthority.com/blog/2021/07/gm-ventures-increases-funding-in-ai-vision-software-company-algolux/amp/"
 type: article
 quality: 59
-heat: -1
-published: false
+heat: 99
+published: true
 
 provider:
   name: GM Authority
@@ -27,22 +27,57 @@ images:
     isCached: true
 
 related:
-  - title: "SoftBank leads $235M round in AnyVision's AI recognition tech"
-    excerpt: "The Israeli company developing AI-driven facial recognition secures mega funding to help expand into new markets."
-    publishedDateTime: 2021-07-08T08:58:00Z
-    webUrl: "https://www.geektime.com/israeli-startup-anyvision-raises-235m-for-facial-recognition/"
-    ampWebUrl: "https://www.geektime.com/israeli-startup-anyvision-raises-235m-for-facial-recognition/amp/"
-    cdnAmpWebUrl: "https://www-geektime-com.cdn.ampproject.org/c/s/www.geektime.com/israeli-startup-anyvision-raises-235m-for-facial-recognition/amp/"
+  - title: "Algolux Closes $18.4 Million Series B Round for Robust Computer Vision"
+    excerpt: "Algolux's computer vision and image optimization solutions address the mission-critical issue of safety for ADAS and autonomous vehicles. Algolux is the first company to use computational imaging to design algorithms that treat the camera as part of the ..."
+    publishedDateTime: 2021-07-12T13:05:00Z
+    webUrl: "https://www.prnewswire.co.uk/news-releases/algolux-closes-18-4-million-series-b-round-for-robust-computer-vision-813160058.html"
     type: article
     provider:
-      name: Geektime
-      domain: geektime.com
-    quality: 61
+      name: PR Newswire
+      domain: prnewswire.co.uk
+    quality: 39
     images:
-      - url: "https://www.geektime.com/content/images/2021/07/Screenshot_1-1560924163.jpg"
-        width: 878
-        height: 502
+      - url: "https://mma.prnewswire.com/media/1571390/Algolux_Algolux_Closes__18_4_Million_Series_B_Round_for_Robust_C.mp4?p=thumbnail"
+        width: 512
+        height: 288
         isCached: true
+  - title: "Computer vision startup Algolux secures $23 million CAD Series B round"
+    excerpt: "Montréal-based computer vision startup Algolux has raised $23 million CAD ($18.4 million USD) in a Series B funding round co-led by Forte Ventures and Drive Capital. Algolux is using the all-equity capital in an aim to increase the market adoption of its ..."
+    publishedDateTime: 2021-07-12T12:59:00Z
+    webUrl: "https://betakit.com/computer-vision-startup-algolux-secures-23-million-cad-series-b-round/"
+    type: article
+    provider:
+      name: BetaKit
+      domain: betakit.com
+    quality: 39
+    images:
+      - url: "https://cdn.betakit.com/wp-content/uploads/2021/07/Algolux_Test_Vehicle-1.jpeg"
+        width: 1050
+        height: 787
+        isCached: true
+  - title: "Retina AI Raises $8 Million in Series A"
+    excerpt: "Santa Monica-based analytics company Retina AI Inc. has raised $8 million in Series A funding for its artificial intelligence platform for consumer insights. The funding round, announced by the company on June 29,"
+    publishedDateTime: 2021-07-12T07:07:00Z
+    webUrl: "https://labusinessjournal.com/news/2021/jul/12/retina-ai-raises-8m-series-a/"
+    type: article
+    provider:
+      name: Los Angeles Business Journal
+      domain: labusinessjournal.com
+    quality: 37
+    images:
+      - url: "https://ocbj.media.clients.ellingtoncms.com/img/photos/2021/07/09/PG15_TECH_RETINA_0712-staff_t670.jpeg?b3f6a5d7692ccc373d56e40cf708e3fa67d9af9d"
+        width: 670
+        height: 446
+        isCached: true
+  - title: "RVH Solutions Inc. Secures Series B Funding from Vizient Inc., the Nation's Largest Member-Driven Health Care Performance Improvement Company"
+    excerpt: "RVH Solutions, Inc. (the \"Company\"), a leading healthcare technology solutions provider to hospitals, health systems, academic medical centers and skilled nursing facilities in the United States and the United Kingdom,"
+    publishedDateTime: 2021-07-12T13:08:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-rvh-solutions-inc-secures-series-b-funding-from-/2021/07/12/9406724.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
 secured: "ooFO4OtKJ3I2Ul72RqoO8WxgPm64hxL/IcLa42TpdjDpSP8qon7wlEnPHikSfmfnyAQoSCKfjKdh2bh73iYOfrTblyBchHa9I9mQiDK/U/toN1icO6hz08Fluflw/fpOt8Mk8LWq8ONBI4vAFTIq9nNUPIVsw1hcoRgH2LHXk9r8bV0TUum1kyXNaV+aw5cLOYR8b++sQw3FWn/xFhp4BAiWgllml9y6zMnC4BRY+0y7Q5Gi5Y8zQnlPayBSEXM2fM00Nn+6PN1ZjBhanLhOiRUJ0VeveASdgbtZpbgq4zmQil1+UZvTajVttgO1peGiZtMopeQ8vHAXUl+ZI1/REJIV0rS8Hgm9tExaG9YkQM91KAAs6XUF3e9vkpjiktu8MJpj91rFzGP7jVOqisxbXIPNqeAKzOujJ8Ml0nE85xVkOmxDEPavs5XxQUb7XQG5pr+6FcQ6Z8KMsc+NZ6GemE6H8kKC6ExDMKUCFvUNSX6ZiWnLat7/eZnhaNWf6+Cjeb3dMJm0RUpoCJNcILMaLg==;u9PqhsHiypc8S3nvuXND2w=="
 ---

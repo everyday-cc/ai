@@ -7,7 +7,7 @@ originalUrl: "https://www.finextra.com/blogposting/20576/top-10-fintech-trends-t
 webUrl: "https://www.finextra.com/blogposting/20576/top-10-fintech-trends-to-watchout-for"
 type: article
 quality: 4
-heat: 4
+heat: -1
 published: false
 
 provider:
@@ -17,6 +17,31 @@ provider:
 topics:
   - AI in Finance
   - AI
+
+related:
+  - title: "If You Only Buy 1 Fintech Stock, Make It One of These 5"
+    excerpt: "Recent innovations by biotech and fintech stocks, for example, show how pandemic-era needs are shaping the market. Source: Shutterstock In 2021, fintech companies are harnessing advanced technologies to provide faster and more reliable financial service solutions for institutions and everyday users."
+    publishedDateTime: 2021-07-09T17:53:00Z
+    webUrl: "https://www.nasdaq.com/articles/if-you-only-buy-1-fintech-stock-make-it-one-of-these-5-2021-07-09"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 34
+  - title: "Rensselaer Polytechnic Institute and Stevens Institute of Technology To Establish the First-Ever NSF-Backed Fintech Research Center"
+    excerpt: "Rensselaer Polytechnic Institute and Stevens Institute of Technology announced today that they have been awarded the first-ever National Science Foundation (NSF) grant to create an industry-university cooperative research center devoted specifically to financial technology and science."
+    publishedDateTime: 2021-07-08T15:22:00Z
+    webUrl: "https://news.rpi.edu/content/2021/07/08/rensselaer-polytechnic-institute-and-stevens-institute-technology-establish-first"
+    type: article
+    provider:
+      name: RPI News
+      domain: rpi.edu
+    quality: 0
+    images:
+      - url: "https://www.rpi.edu/dept/cct/apps/web-branding/v1/header/meganav/img/thearch.jpg"
+        width: 667
+        height: 446
+        isCached: true
 
 secured: "8EeByc4uvKzjopLzLPwW0qLYJOTr8GMr+kTRW36uFoIwK7l4S2+NkbIH0Zp34zkW76DG6hMBgd0SeoY+dL4GjAfhilCKKfkV7NrWFm5614HZog8nXy+cGJMf3b8rPTIGTlpnWKHoH5EzvJIz5pUxk1mwwIp5Z5JvLBpq2QFXWcEEDmLTV6/oHiu3lI0y42DnI8qmp6ju+oTZGnPykE44yLwDVjQNsPVTVS60mQ7anWajnYFlPKNzNg/kqYmL1jLE51VTtzK6YHWKbmIlr4MWzHAQ14dv3o969JqoCFkZl+BFS6a6tGMbfsYQwdLB5uTclRu1LkGcgsHjlfoxcdTBdEoFd6P5VGIvcmeCItWpZXk=;TYaGNXFag3KBeI0XZezT0w=="
 ---

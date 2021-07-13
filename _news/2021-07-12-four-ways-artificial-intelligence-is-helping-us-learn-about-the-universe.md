@@ -58,6 +58,22 @@ related:
         width: 615
         height: 384
         isCached: true
+  - title: "Top 7 Artificial Intelligence"
+    excerpt: "Top 7 Artificial Intelligence AI is now at the forefront of technological advancement in various industries and some industry leaders are le 18088292"
+    publishedDateTime: 2021-07-12T14:55:00Z
+    webUrl: "https://elclasificado.com/losangeles/telecom/venta-computadoras/top-7-artificial-intelligence-18088292"
+    ampWebUrl: "https://elclasificado.com/losangeles/telecom/venta-computadoras/top-7-artificial-intelligence-18088292-amp.html"
+    cdnAmpWebUrl: "https://elclasificado-com.cdn.ampproject.org/c/s/elclasificado.com/losangeles/telecom/venta-computadoras/top-7-artificial-intelligence-18088292-amp.html"
+    type: article
+    provider:
+      name: El Clasificado
+      domain: elclasificado.com
+    quality: 59
+    images:
+      - url: "https://elclasificado.com/photos/bc/c8/bcc82cd84cd144799b16f6188362b5c9/l.jpg?image=0"
+        width: 720
+        height: 480
+        isCached: true
   - title: "Booz Allen backs AI, machine learning software startup"
     excerpt: "Booz Allen Hamilton puts its technology scouting function to work by investing in an emerging startup company focused on making software for artificial intelligence and machine learning functions."
     publishedDateTime: 2021-07-12T10:21:00Z
@@ -113,6 +129,20 @@ related:
       - url: "https://video.cgtn.com/news/2021-07-08/New-AI-technologies-debut-at-World-AI-Conference-in-Shanghai-11JGHddW4Ao/video/637b2250ea4846a6ad2337f6b4d9ea8d/637b2250ea4846a6ad2337f6b4d9ea8d-1920.jpg"
         width: 1920
         height: 1080
+        isCached: true
+  - title: "Preparing the world for artificial intelligence"
+    excerpt: "Ultimately, the move toward AI also needs a cultural paradigm shift, behavior change and setting ethical standards on the boundaries of its uses and what recourse victims of AI use or abuse have to justice."
+    publishedDateTime: 2021-07-12T16:46:00Z
+    webUrl: "https://news.cgtn.com/news/2021-07-12/Preparing-the-world-for-artificial-intelligence-11Qhsraij28/index.html"
+    type: article
+    provider:
+      name: CGTN
+      domain: cgtn.com
+    quality: 39
+    images:
+      - url: "https://news.cgtn.com/news/2021-07-12/Preparing-the-world-for-artificial-intelligence-11Qhsraij28/img/561861171b1740aba76a4b008d17f431/561861171b1740aba76a4b008d17f431-750.png"
+        width: 750
+        height: 422
         isCached: true
 
 secured: "n6J1j45OZrwnaND+H/rxF+39KPY6K3lvlpWWGZU3K+5rjOkNN0jqAGPTmkMF8f1dvZQ8VRr0wGrOtg6w8IZsmydxuq8ts4uKQpVMBeMiE4vWoJBy9E+d845MhuhouhCKZfv4WZl53vBeH6anU8a7bKKA7O5MfGEGsSNbYJtA5sCqTXatEL+dhmdfd7Un+4KcB5X3bHZ3jbiB9qi0QMtgijDgcFM9tTljcymExEpsE0Qh4CEoRrpQ4GsIjbDmPl813l11sfkPtaQ+mUw0r0D2/JnhLPq/1+OpJsLyG0Bqtq4PKI3EpIb3cvD6PzA2iDKqfBqlIIQQ1OePJpU7zA64JiQ9pnuEbVcxMQ2GAxNZOcBqRgXJjaVvxayzoKc1h/y1Mi7PDX3rafvsdooKNIiZwfP2AFdbCJ9m0hujGfG6KIKeQaCtQFy0OOPkexIa8ODjkPlg/NgrP3IsTsuU6UawqI2pTuHCVYqSFC+K2j15/yF6mO2ibXclOeAng990+kErCM25zuBZ8pklWtPYoA/9eQ==;D6TNwq2W6JPigzzNOj7neA=="

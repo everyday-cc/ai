@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/facebook-teaches-ai-powered-rob
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/facebook-teaches-ai-powered-robot-to-adapt-while-walking/"
 type: article
 quality: 174
-heat: 284
+heat: 274
 published: true
 
 provider:
@@ -57,20 +57,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "Artificial Intelligence Is On The Side Of Apes? Tesla-Fame's AI-Based ETF Sells Facebook, Walmart And Buys AMC"
-    excerpt: "The Qraft AI-Enhanced US Large Cap Momentum ETF (NYSE: AMOM), an exchange-traded fund driven by artificial intelligence, has sold a majority of its holdings in Facebook Inc. (NASDAQ: FB) and Walmart Inc."
-    publishedDateTime: 2021-07-12T13:13:00Z
-    webUrl: "https://markets.businessinsider.com/news/etf/artificial-intelligence-is-on-the-side-of-apes-tesla-fame-s-ai-based-etf-sells-facebook-walmart-and-buys-amc-1030596697"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 79
-    images:
-      - url: "https://cdn.benzinga.com/files/imagecache/1024x768xUP/images/story/2012/3090841071_105297e728_o_6.jpg"
-        width: 1024
-        height: 768
-        isCached: true
   - title: "Facebook Robots Are Getting Smarter, Watch Them In The Wild (Video)"
     excerpt: "Facebook has been training robots to think for themselves. Its chief AI scientist Yann LeCun explains why with a video that shows what robots can do when left to their own devices."
     publishedDateTime: 2021-07-09T12:00:00Z
@@ -86,6 +72,22 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60e79dd602c7bff56bca0980%2F0x0.jpg%3FcropX1%3D202%26cropX2%3D958%26cropY1%3D0%26cropY2%3D426"
         width: 756
         height: 426
+        isCached: true
+  - title: "Artificial Intelligence Is On The Side Of Apes? Tesla-Fame's AI-Based ETF Sells Facebook, Walmart And Buys AMC"
+    excerpt: "The Qraft AI-Enhanced US Large Cap Momentum ETF (NYSE:AMOM), an exchange-traded fund driven by artificial intelligence, has sold a majority of its holdings in Facebook Inc. (NASDAQ:FB) and Walmart Inc."
+    publishedDateTime: 2021-07-12T15:13:00Z
+    webUrl: "https://www.benzinga.com/trading-ideas/long-ideas/21/07/21929742/artificial-intelligence-is-on-the-side-of-apes-tesla-fames-ai-based-etf-sells-facebook-w"
+    ampWebUrl: "https://www.benzinga.com/amp/content/21929742"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/21929742"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 71
+    images:
+      - url: "https://www.benzinga.com/files/images/story/2012/3090841071_105297e728_o_6.jpg"
+        width: 2048
+        height: 1536
         isCached: true
   - title: "Facebook’s AI researchers are teaching robots to walk like humans"
     excerpt: "Rapid Motor Adaptation — is a “breakthrough” in artificial intelligence (AI). It allows robots to walk on sand, in mud, hiking trails, tall grass and over a dirt pile “without a single failure” during"
@@ -168,15 +170,6 @@ related:
         width: 750
         height: 500
         isCached: true
-  - title: "Trump sues Facebook, Twitter, Google to get accounts back"
-    excerpt: "Former President Donald Trump has sued Facebook, Twitter and Google, seeking to restore his online profile after he was suspended from most social-media platforms following the January 6 riots in the US Capitol."
-    publishedDateTime: 2021-07-08T07:13:00Z
-    webUrl: "https://www.theaustralian.com.au/business/technology/trump-sues-facebook-twitter-google-to-get-accounts-back/live-coverage/baa22ffe5ac929afe2834367f6484376"
-    type: article
-    provider:
-      name: The Australian
-      domain: theaustralian.com.au
-    quality: 4
 
 secured: "cEHUo2DrxohXVJDQCkT7hI462pRvM9BOEEiyFrPDcHp2jC4UENG+32eMHtQ7uWEapf//rz4Q86Wc2jAQHLEFrcTOpax5er8Uc+320hl425yR1BqN6xUvSvxTj7GoN59gr3/ex0leXKqfF5gaDVai3KfQQk0g4FVZ9izsEpaVqQxuCkx7UGU2kgFXcci6q2T5KGXitWrdT7mdxCKxDJDsd5An68JJ9BbTVD6QY84yJiCRbBCEv/ViouDuay1B38WyCBmY8A3eOlSemMhQKJSrCy27XU0G/urd2NvWrw5aaItoQ9Mgdk3xRXDTrp7M0GBjvWqUVxMc5HcgJ4IkaxQIOcZwiWh/ujoEiEmiMd9cixjYLUfKFZkHmfdxEPOBOOhmjhI7aJbaWmsOi686ITKycVqnT3K7Fb516V8cxi1zW6HKKogwNzt1e2MbM/RLTsMfVuEbOTN5Pe+JSKbOjqRFc5JApzdjve0pRPhch5o1i0/KnWjAQSB6vgwaVD5m++SGZf7lv9ODWGGb90+DqZ+ewLAd1fx2ReBNG5pvzCbepbc=;P3yHx5rBRKSfWYP1mfWiLw=="
 ---

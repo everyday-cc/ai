@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Tencent uses facial recognition to curb young late-night gamers"
-excerpt: "For almost every video game restriction, children and teenagers will find a way around it.. Read more at straitstimes.com."
+excerpt: "SHENZHEN • For almost every video game restriction, children and teenagers will find a way around it.. Read more at straitstimes.com."
 publishedDateTime: 2021-07-12T21:00:00Z
-originalUrl: "https://www.straitstimes.com/tech/tech-news/tencent-uses-facial-recognition-to-curb-young-late-night-gamers"
-webUrl: "https://www.straitstimes.com/tech/tech-news/tencent-uses-facial-recognition-to-curb-young-late-night-gamers"
+originalUrl: "https://www.straitstimes.com/tech/tech-news/tencent-uses-facial-recognition-to-curb-young-late-night-gamers-0"
+webUrl: "https://www.straitstimes.com/tech/tech-news/tencent-uses-facial-recognition-to-curb-young-late-night-gamers-0"
 type: article
 quality: 39
 heat: -1
@@ -19,7 +19,7 @@ topics:
   - AI
 
 images:
-  - url: "https://static.straitstimes.com.sg/s3fs-public/styles/x_large/public/articles/2021/07/13/bttencent20210712.jpg?itok=McLVgRuk"
+  - url: "https://static.straitstimes.com.sg/s3fs-public/styles/x_large/public/articles/2021/07/13/ST_20210713_TECH13_6682990.jpg?itok=5Y6ps2He"
     width: 763
     height: 509
     isCached: true
@@ -305,6 +305,6 @@ related:
         height: 628
         isCached: true
 
-secured: "LDyihIxqCQ1+F+FPMJi5G3caLIfACeyVED8/31Uh0a0R0lr76WC3l/3bzR8RyJX+ShhQk5cJONnpYeWk4Yc+CVPHLDskU3TGWFDwsTsAoWkyORES9++SulbXuCnwaJUemk0D2W3DI94/OSQfJ3zPZcKxBDQI67buNrfuXUrj/X5reezNohxc/DLpTiVLxQSFH+jRvP56zam+6T8Ai1LlC3LTeo6UgUoOEnSDFYSwMd8IbIsgTH/3NjsGxtakWO3PNUm6dr3SfQIi2FnSO9qUj5p6Z0qSajj27kayNRN7QhIe0c66F2jL9vvyo7Zxrb0asJ+sCQzGqGXZS7J1ZGI7LohsVUMBoUkia8EaCHRD8Q/ps1kn/L4qP4FtpYmh52oKiMFO4Wk3YSb/RaU/V09gFcMhzfOaY8pbrDI5tGkoNE0oFtdnE+sm2ffLRm9h3jX0PgWf0jm1/lSs6gGl4sWWjPceidtwgekZ8rYyFWjwCk3glYONmG5zwJHDXh0jOSsrkgWoi05jMRDPOMpI+XS2LA==;lcmTqN8gnGCqEZVijso/CA=="
+secured: "M1xPR2ZNKRAY+wFm+Hwmc8NQko+JGn978rPs9KfPSteilQCbQ7rU0yEjQGKwlNmUv8zeDmYukHq5Bm9E8mF/WBl0LRsFEuKr7ERN4ApgwIdgasGgGPQ2Z9jN5tvDYPEz8pZXFfovSnCZJUpBLeqUOY5JQPvnzn0Yw/xEL7S27VM3mtYk/kW3i4ULtVSKCFQHp2f3W6EIPbWpAhaQDZxwj8Jj6dX93waYnEVbcTdu9kEzWwndTJdFwcuCq8s8t6Wr2Z+4YMw9q30SydaX2n90JOR62opO6ugk2UhJ5T7fEA1hGAr9fd9zYSTGjW/6d42TD1K1T6BnD5IhU3Kg6paWZWt8JFcNB/zt5NpgtXx7D0g=;H4zTwrt8BrivaEv+tbml1Q=="
 ---
 

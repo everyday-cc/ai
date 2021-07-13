@@ -26,6 +26,20 @@ images:
     isCached: true
 
 related:
+  - title: "Artificial Intelligence Chips Market is Booming with Unstoppable Rate | AMD, Google, Intel Corporation, NVIDIA"
+    excerpt: "The latest study released on the Global Artificial Intelligence Chips Market by AMA Research evaluates market size, trend, and forecast to 2026. The Artificial Intelligence Chips market study covers significant research data and proofs to be a handy resource document for managers,"
+    publishedDateTime: 2021-07-08T17:50:00Z
+    webUrl: "https://manometcurrent.com/artificial-intelligence-chips-market-is-booming-with-unstoppable-rate-amd-google-intel-corporation-nvidia/"
+    type: article
+    provider:
+      name: manometcurrent.com
+      domain: manometcurrent.com
+    quality: 34
+    images:
+      - url: "https://manometcurrent.com/wp-content/uploads/2021/07/Micro-segmentation-Solutions-Market-390x220.jpeg"
+        width: 390
+        height: 220
+        isCached: true
   - title: "AI in Medication Management Market Giants Spending Is Going To Boom | Intel, NVIDIA,Siemens Healthineers, Medtronic"
     excerpt: "The latest study released on the Global AI in Medication Management Market by AMA Research evaluates market size, trend, and forecast to 2026. The AI in Medication Management market study covers significant research data and proofs to be a handy resource document for managers,"
     publishedDateTime: 2021-07-08T19:26:00Z

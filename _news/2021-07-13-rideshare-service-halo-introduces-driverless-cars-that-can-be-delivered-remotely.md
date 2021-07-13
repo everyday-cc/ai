@@ -41,6 +41,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Halo and Las Vegas Launch Driverless Car Service Powered by T-Mobile 5G"
+    excerpt: "A driverless Halo then arrives at the pick ... safety hazard or system anomaly is detected. Using an advanced Artificial Intelligence algorithm, the car also learns in the background while humans ..."
+    publishedDateTime: 2021-07-08T23:15:00Z
+    webUrl: "https://www.marketwatch.com/press-release/halo-and-las-vegas-launch-driverless-car-service-powered-by-t-mobile-5g-2021-07-08"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 69
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Halo Brings Driverless Car Rental to Las Vegas"
     excerpt: "All-electric rental car startup Halo this week announced plans for an autonomous vehicle service in Las Vegas, powered by T-Mobile 5G. Halo, which has been test driving on Las Vegas public streets for months,"
     publishedDateTime: 2021-07-09T12:47:00Z
@@ -135,6 +149,6 @@ related:
       domain: morningstar.com
     quality: 19
 
-secured: "hLWMnWCC490TxBUxfHQ9r3wALnFiZQ9alFoG4LSyxdhKzADDev1lfrX+QkRda4BMG8wwLqY3yrEe4jkACHFFH+CXQhd5ODkz+NfqEPN3MRrQHuSAH97to0JqRYbTQIom3TNuWmEXl94TrQ8LdZHdc3SLBMT570MiswLuJwd9QcvvpoH9F8H2diuTqGL1RankVmeoJjXg9sP0KmC8We0SWvLJzlROnG8Sd2IiprGtrY5LulRTHvKMMFrYi8Ml50JmXxq92S0uytGcba8LPxX4/L5HpWFd1GNC2sRnzqjiqKjvFuU2wLXQK86lt2esAJm4aCw/Flh+FsJJIgOE0f8Nw236V2EuUzr3q/KeSi2KL1k=;hmoB+K+ZKyuqxfu5og+E/g=="
+secured: "b6UC6pwGWEi4sKx3ZIlqeDaXhaPKpTabke5r+9mGPCyuqMdfR6p5anyXPNeC8AWZ3VpEWUJqg9on27CTF3wwuNr5kU1wZ4LO9DoMpMMqQn9/cfTHXMogANVEXDy4gzwcD2p8BSMSiFTszlRhPw5hpR+aV7zk9plR7QwVFkP1TRFp7jwTLlT+LJIvDcd8fQKqBms1zLxLbhPrcKBqw4E1YcbhFfagW0fHMEMcYovKmo7LBw0PxDEY3hnYznyaaym7/0y74A74brTcEj2K938popiRXOkB9h7u6U8FYoi7IwkBopTedNQ5R7cbvvGROXLrAEdN4nnjYAgQVtNdd9phyjRWIonluZe7OgFB32KPwbJ9w6mJGtN9S0y6s6dZvRw1y7ltETk9DQvXPNeCkHnNb0ecoCeGMEiRPONyiU3IrFzFuPuqqF76O5vNUYjykvn1aoTHA8TM2tYKDUy/eceUHvPq3doOkAuQeB6bMhOkYs1GbUdgf+aLOrzWZ/uDaiq/+zK3N48BPAXxHgVhNgVXcg==;ZUuKxwwgMGHKgeRmMVzBIA=="
 ---
 

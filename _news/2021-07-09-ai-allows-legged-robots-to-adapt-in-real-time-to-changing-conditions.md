@@ -72,20 +72,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "Artificial Intelligence Is On The Side Of Apes? Tesla-Fame's AI-Based ETF Sells Facebook, Walmart And Buys AMC"
-    excerpt: "The Qraft AI-Enhanced US Large Cap Momentum ETF (NYSE: AMOM), an exchange-traded fund driven by artificial intelligence, has sold a majority of its holdings in Facebook Inc. (NASDAQ: FB) and Walmart Inc."
-    publishedDateTime: 2021-07-12T13:13:00Z
-    webUrl: "https://markets.businessinsider.com/news/etf/artificial-intelligence-is-on-the-side-of-apes-tesla-fame-s-ai-based-etf-sells-facebook-walmart-and-buys-amc-1030596697"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 79
-    images:
-      - url: "https://cdn.benzinga.com/files/imagecache/1024x768xUP/images/story/2012/3090841071_105297e728_o_6.jpg"
-        width: 1024
-        height: 768
-        isCached: true
   - title: "Facebook Robots Are Getting Smarter, Watch Them In The Wild (Video)"
     excerpt: "Facebook has been training robots to think for themselves. Its chief AI scientist Yann LeCun explains why with a video that shows what robots can do when left to their own devices."
     publishedDateTime: 2021-07-09T12:00:00Z
@@ -101,6 +87,22 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60e79dd602c7bff56bca0980%2F0x0.jpg%3FcropX1%3D202%26cropX2%3D958%26cropY1%3D0%26cropY2%3D426"
         width: 756
         height: 426
+        isCached: true
+  - title: "Artificial Intelligence Is On The Side Of Apes? Tesla-Fame's AI-Based ETF Sells Facebook, Walmart And Buys AMC"
+    excerpt: "The Qraft AI-Enhanced US Large Cap Momentum ETF (NYSE:AMOM), an exchange-traded fund driven by artificial intelligence, has sold a majority of its holdings in Facebook Inc. (NASDAQ:FB) and Walmart Inc."
+    publishedDateTime: 2021-07-12T15:13:00Z
+    webUrl: "https://www.benzinga.com/trading-ideas/long-ideas/21/07/21929742/artificial-intelligence-is-on-the-side-of-apes-tesla-fames-ai-based-etf-sells-facebook-w"
+    ampWebUrl: "https://www.benzinga.com/amp/content/21929742"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/21929742"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 71
+    images:
+      - url: "https://www.benzinga.com/files/images/story/2012/3090841071_105297e728_o_6.jpg"
+        width: 2048
+        height: 1536
         isCached: true
   - title: "Facebook’s AI researchers are teaching robots to walk like humans"
     excerpt: "Rapid Motor Adaptation — is a “breakthrough” in artificial intelligence (AI). It allows robots to walk on sand, in mud, hiking trails, tall grass and over a dirt pile “without a single failure” during"
@@ -169,15 +171,6 @@ related:
         width: 750
         height: 500
         isCached: true
-  - title: "Trump sues Facebook, Twitter, Google to get accounts back"
-    excerpt: "Former President Donald Trump has sued Facebook, Twitter and Google, seeking to restore his online profile after he was suspended from most social-media platforms following the January 6 riots in the US Capitol."
-    publishedDateTime: 2021-07-08T07:13:00Z
-    webUrl: "https://www.theaustralian.com.au/business/technology/trump-sues-facebook-twitter-google-to-get-accounts-back/live-coverage/baa22ffe5ac929afe2834367f6484376"
-    type: article
-    provider:
-      name: The Australian
-      domain: theaustralian.com.au
-    quality: 4
 
 secured: "LBFeu7K48BabmWi+L9ecxYlhtSfRH+wIaN/GL4WTA4q21vuvRO3GMZNnF+uoZ4Xjndc7CZdrrQeU7s0kJgSJOo9Uwv0ZVFNCONzorpo6MVYG/y97WhmdOXPxVlVjBin+gisC24hctnm/B1y2aPAX1jj+1JAg65lvruIYMWWMegvz1yiBFRQmTribxC3vR/xPDNZuGgcqe1fxqlnh65Yb/soHMrTBbL2GSOFDqOv0q4LZHCtAOvmNDtOuIt1AeNEe6vAKQg9ARyG1fhD6O/sbrTCoYlV19RJTWPGa6PWv/ulHS3ue6ACBXCmVNoe42bAAMqRft49xou+kzS52gik0QtNMioxo7nDn34/Yg0MFZExiXsEx4Eyc2iCyX+U/Uz5GTSsjlxDM4GXhIAGCyLh+SdSsVFpbHhYtvdOg8LpFBHo9ydj+O0ShYFCydxSHUe1yv8/ofFPOuOk2YDkNWiGBqwv7vXiIRBeBiHAbGvNBGT5Q7h+ophceG1L1+ne5hfmXR+g3hk++bBk+H1C6oHLyAQ==;UePdGIzhpBYvbsoDsfikGg=="
 ---

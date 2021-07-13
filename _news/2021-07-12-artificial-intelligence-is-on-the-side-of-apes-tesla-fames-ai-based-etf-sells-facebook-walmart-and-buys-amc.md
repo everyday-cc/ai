@@ -1,31 +1,30 @@
 ---
 category: news
 title: "Artificial Intelligence Is On The Side Of Apes? Tesla-Fame's AI-Based ETF Sells Facebook, Walmart And Buys AMC"
-excerpt: "The Qraft AI-Enhanced US Large Cap Momentum ETF (NYSE: AMOM), an exchange-traded fund driven by artificial intelligence, has sold a majority of its holdings in Facebook Inc. (NASDAQ: FB) and Walmart Inc."
-publishedDateTime: 2021-07-12T13:13:00Z
-originalUrl: "https://markets.businessinsider.com/news/etf/artificial-intelligence-is-on-the-side-of-apes-tesla-fame-s-ai-based-etf-sells-facebook-walmart-and-buys-amc-1030596697"
-webUrl: "https://markets.businessinsider.com/news/etf/artificial-intelligence-is-on-the-side-of-apes-tesla-fame-s-ai-based-etf-sells-facebook-walmart-and-buys-amc-1030596697"
+excerpt: "The Qraft AI-Enhanced US Large Cap Momentum ETF (NYSE:AMOM), an exchange-traded fund driven by artificial intelligence, has sold a majority of its holdings in Facebook Inc. (NASDAQ:FB) and Walmart Inc."
+publishedDateTime: 2021-07-12T15:13:00Z
+originalUrl: "https://www.benzinga.com/trading-ideas/long-ideas/21/07/21929742/artificial-intelligence-is-on-the-side-of-apes-tesla-fames-ai-based-etf-sells-facebook-w"
+webUrl: "https://www.benzinga.com/trading-ideas/long-ideas/21/07/21929742/artificial-intelligence-is-on-the-side-of-apes-tesla-fames-ai-based-etf-sells-facebook-w"
+ampWebUrl: "https://www.benzinga.com/amp/content/21929742"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/21929742"
 type: article
-quality: 79
+quality: 71
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
+  - AI in Finance
   - AI
   - AI in Autos
 
 images:
-  - url: "https://cdn.benzinga.com/files/imagecache/1024x768xUP/images/story/2012/3090841071_105297e728_o_6.jpg"
-    width: 1024
-    height: 768
+  - url: "https://www.benzinga.com/files/images/story/2012/3090841071_105297e728_o_6.jpg"
+    width: 2048
+    height: 1536
     isCached: true
 
 related:
@@ -172,16 +171,7 @@ related:
         width: 750
         height: 500
         isCached: true
-  - title: "Trump sues Facebook, Twitter, Google to get accounts back"
-    excerpt: "Former President Donald Trump has sued Facebook, Twitter and Google, seeking to restore his online profile after he was suspended from most social-media platforms following the January 6 riots in the US Capitol."
-    publishedDateTime: 2021-07-08T07:13:00Z
-    webUrl: "https://www.theaustralian.com.au/business/technology/trump-sues-facebook-twitter-google-to-get-accounts-back/live-coverage/baa22ffe5ac929afe2834367f6484376"
-    type: article
-    provider:
-      name: The Australian
-      domain: theaustralian.com.au
-    quality: 4
 
-secured: "o+Ag25YwuuWeiMld8Fjg5+4maZ8eJfvm/x6eEQ/QSG4TblYmtRTEQzRPcQA4HeUES5Lh3QlhSnrfvT4SkOGyimy1Kv2c0ZJ9NbtaR+Z39ddGXgrXFHNFoE+2f/eLOIGMuPbIWd6+HEXKkfA0JHsao2nAb9sYMl3EN1JFFvUBUoICQHL7B2uKVBVmbjel5z5OIvMCUOqHr1szMz2sRNAG9ceHfExxdmp64CQPWGtvSPxvrE5dXT+PaOaTnhxkF4jZ3hs0pdbQVDnBog6/H0M2505L7HXfBUTyw7pHFn0RkfiAcFdGtdtRT/ikCyqs18D8QhC2ALcse0WbgCvj+HW7OIEouNGXPmRcB88Av/PMu7o=;IVeRYaSoBntCrLzK+hwIfA=="
+secured: "e9FVK0nAoca+dprAB7Hz7/aZFtMad/m1613/58xLFNYTXJ240Edg6FmcJ3q8A6vSWudi/gPDHm7mHjjRJXIagcfNhOYOis/H8Q+34UafT62tKj/wUmUB/hIXG8oVjTuRfl8WgeaJ7/vIvxS7CEggwC/0HJyutcN7ZQISDlWMt507NZRu82XlibdQeh94LucGdD2MTb2lnsVmNgqAz8wvfhM62VCqVh+52V61ibn9uE85MU5Wy98YRx0QccWTGWFdzLMLey6RCHtidaxSsYD3ASO/NcuG7D72O022xsZYBvl9+nKaHhJNigFzkBuVnvPyN7wWU6iB5ttqcDgAD+TWlmWb1k5NEMqNVdNGV6L7wM0=;q6J1kFDBu8HtQEcEtW5QYw=="
 ---
 

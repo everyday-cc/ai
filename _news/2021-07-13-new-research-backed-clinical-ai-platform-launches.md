@@ -24,20 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI-powered, crowdsourced market research platform Promos raises $1 million"
-    excerpt: "Madrid’s startup combining machine learning and crowdsourced market research data Promos has closed a $1 million financing round. The firm blends computer vision AI and crowdsourced shopping receipts to output real-time consumer purchasing behaviour reports."
-    publishedDateTime: 2021-07-08T08:00:00Z
-    webUrl: "https://tech.eu/brief/ai-powered-crowdsourced-market-research-platform-promos-raises-1-million/"
-    type: article
-    provider:
-      name: Tech.eu
-      domain: tech.eu
-    quality: 35
-    images:
-      - url: "https://tech.eu/wp-content/uploads/2021/07/promos-1-1.jpg"
-        width: 1600
-        height: 700
-        isCached: true
   - title: "Bayesian Health Launches with Research-Backed AI Platform Enabling Health Systems to Save Lives"
     excerpt: "Bayesian Health, an AI-based clinical decision support platform enabling health systems to provide safer and higher quality care, today launched its solution to the commercial market. Serving health systems on leading electronic medical record (EMR) vendors,"
     publishedDateTime: 2021-07-12T14:54:00Z

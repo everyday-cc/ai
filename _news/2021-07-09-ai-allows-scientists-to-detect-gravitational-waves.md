@@ -34,6 +34,20 @@ related:
         width: 777
         height: 545
         isCached: true
+  - title: "Scientists use artificial intelligence to detect gravitational waves"
+    excerpt: "When gravitational waves were first detected in 2015 by the advanced Laser Interferometer Gravitational-Wave Observatory (LIGO), they sent a ripple through the scientific community, as they confirmed another of Einstein’s theories and marked the birth of gravitational wave astronomy."
+    publishedDateTime: 2021-07-08T21:27:00Z
+    webUrl: "https://news.uchicago.edu/story/scientists-use-artificial-intelligence-detect-gravitational-waves"
+    type: article
+    provider:
+      name: The University of Chicago Chronicle
+      domain: uchicago.edu
+    quality: 37
+    images:
+      - url: "https://news.uchicago.edu/sites/default/files/styles/full_width/public/images/2021-07/GW170814.png?itok=9Mev8c-F"
+        width: 1380
+        height: 776
+        isCached: true
 
 secured: "9TtXrrrVtdUBNh5Zk6499jkGc+IuEatC6Fl3qugxb4i35lCMBpLGEmiND0avL7yy/Ao4r06rQ3UrSLeHOichWVXwPqwc9g6VdoM3U3yAUXKDrdCDYakc/ai+O5OsL2IHiFl/wtx8yclAkz5zTjh6UhnZgbvnUkKYFML4t4EyenbmM0P1Jy0OjfcAebcYafXUxG98ikZYuqrrrGfIhCb5Q3FJDdhZu9vH4EFzfW1krTKRzfWNMatQA5iEezq58ZINID30NX7cqQeffcoq9Va6bFc86esJixzb19Auv8rruJRYMKrqHzV4lpsgXIGe3VMcnMfo9q/cPGBoWS+B5wcPX7OtDS07dznRmDML3JLdFptDtJ3q1qdzBzbI+XCO7y7jgFJ7Ec7MacQVZUWHDCkz+fWMkoEqfLJ8WxdmX5FifHKarPscqGtV6bqDZ79hUlU/2eaSYCHUxPv5JZC1UJquFZx+i9NlzZQVTytZZuoIf05ZWHVz2cHZ5snJagreHgiR8mFcbGaUpJi9al4C1r6yCA==;T8i0JqzDYMURtNCk0CzISg=="
 ---

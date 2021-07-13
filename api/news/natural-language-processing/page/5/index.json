@@ -2,6 +2,49 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-05-21-speech-recognition-comes-to-prompting.md",
+      "title": "Speech recognition comes to prompting",
+      "excerpt": "IP delivers real-time voice controlled prompting Teleprompting specialist Autoscript has announced the launch of Autoscript Voice that will give presenters “reliable and accurate real-time control of their prompted script simply by speaking the words,",
+      "sourceUrl": null,
+      "webUrl": "https://www.tvbeurope.com/production-post/speech-recognition-comes-to-prompting",
+      "originalUrl": "https://www.tvbeurope.com/production-post/speech-recognition-comes-to-prompting",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.tvbeurope.com/wp-content/uploads/2021/05/Autoscript-Main-Image-scaled.jpg",
+          "width": 2560,
+          "height": 1536,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.tvbeurope.com/production-post/speech-recognition-comes-to-prompting?amp",
+      "cdnAmpWebUrl": "https://www-tvbeurope-com.cdn.ampproject.org/c/s/www.tvbeurope.com/production-post/speech-recognition-comes-to-prompting?amp",
+      "publishedDateTime": "2021-05-21T04:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "tvbeurope.com",
+        "domain": "tvbeurope.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-21-facebook-ai-cuts-by-more-than-half-error-rate-of-unsupervised-speech-recognition.md",
       "title": "Facebook AI cuts by more than half error rate of unsupervised speech recognition",
       "excerpt": "The use of unlabeled data has big implications for work with languages that, in an AI context, are low-resource, such as Amharic, Swahili, Kyrgyz, and Tatar.",
@@ -1433,61 +1476,6 @@
         "AI",
         "AWS AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2021-05-12-ibms-ceo-says-its-leaving-consumer-ai-like-facial-recognition-to-other-companies-as-it-doubles-down-on-pitching-watson-to-businesses.md",
-      "title": "IBM's CEO says it's leaving consumer AI like facial recognition to other companies, as it doubles down on pitching Watson to businesses",
-      "excerpt": "Dialing back its consumer AI ambitions, CEO Arvind Krishna said IBM is solely focused on business use cases like automating IT and customer service.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/ibm-ceo-arvind-krishna-on-watson-ai-enterprise-future-plans-2021-5",
-      "originalUrl": "https://www.businessinsider.com/ibm-ceo-arvind-krishna-on-watson-ai-enterprise-future-plans-2021-5",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/609ae0ed342837001822cd17?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-11T14:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "IBM AI",
-        "Natural Language Processing",
-        "Facebook AI"
       ]
     }
   ],

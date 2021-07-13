@@ -41,22 +41,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence (AI) in Fintech Market: Ready To Fly on high Growth Trends"
-    excerpt: "Latest Study on Industrial Growth of COVID 19 Outbreak Global Artificial Intelligence AI in Fintech Market 2021 2027 A detailed study accumulated to offer Latest insights about acute features of the COVID 19 Outbreak Artificial Intelligence AI in Fintech market"
-    publishedDateTime: 2021-07-08T08:20:00Z
-    webUrl: "https://www.openpr.com/news/2323847/artificial-intelligence-ai-in-fintech-market-ready-to-fly"
-    ampWebUrl: "https://www.openpr.com/amp/2323847/artificial-intelligence-ai-in-fintech-market-ready-to-fly"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2323847/artificial-intelligence-ai-in-fintech-market-ready-to-fly"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 68
-    images:
-      - url: "https://cdn.openpr.com/U/7/U708590558_g.jpg"
-        width: 750
-        height: 500
-        isCached: true
   - title: "Artificial Intelligence (AI) in BFSI Market Shaping A New Growth Cycle"
     excerpt: "HTF MI Published Latest Global  Study by in-depth analysis about current scenario, the Market size, demand, growth pattern, trends, and forecast. Revenue for  has grown substantially over the six years to 2020 as a result of strengthening macroeconomic conditions and healthier demand,"
     publishedDateTime: 2021-07-10T17:50:00Z

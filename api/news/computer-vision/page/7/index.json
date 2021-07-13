@@ -2,6 +2,49 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2021-05-11-a-scientist-from-hse-university-has-developed-an-image-recognition-algorithm.md",
+      "title": "A scientist from HSE University has developed an image recognition algorithm",
+      "excerpt": "A scientist from HSE University has developed an image recognition algorithm that works 40% faster than analogues. It can speed up real-time processing of video-based image recognition systems. The results of the study have been published in the journal Information Sciences.",
+      "sourceUrl": null,
+      "webUrl": "https://www.eurekalert.org/pub_releases/2021-05/nruh-asf051121.php",
+      "originalUrl": "https://www.eurekalert.org/pub_releases/2021-05/nruh-asf051121.php",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.eurekalert.org/socialshare/EurekAlert-bluebg_Twitter_1200x675.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-10T21:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "EurekAlert!",
+        "domain": "eurekalert.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-11-face-recognition-systems-market-analysis-and-demand-with-forecast-overview-to-2025.md",
       "title": "Face Recognition Systems Market Analysis and Demand with Forecast Overview To 2025",
       "excerpt": "Selbyville, Delaware, Global Face Recognition Systems Report offers market size, share, overview, segmentation",
@@ -1370,58 +1413,6 @@
         "name": "ABC Kcrg  9",
         "domain": "kcrg.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-30-a-false-facial-recognition-match-sent-this-innocent-black-man-to-jail.md",
-      "title": "A false facial recognition match sent this innocent Black man to jail",
-      "excerpt": "Story & Video by John General and Jon Sarlin, CNN Business Updated 1623 GMT (0023 HKT) April 29, 2021 Paterson, NJIn February 2019, Nijeer Parks walked into the Woodbridge Police Department to ...",
-      "sourceUrl": null,
-      "webUrl": "https://edition.cnn.com/2021/04/29/tech/nijeer-parks-facial-recognition-police-arrest/index.html",
-      "originalUrl": "https://edition.cnn.com/2021/04/29/tech/nijeer-parks-facial-recognition-police-arrest/index.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210414200302-restricted-01-false-facial-recognition-match-nijeer-parks-story-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/04/29/tech/nijeer-parks-facial-recognition-police-arrest/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/29/tech/nijeer-parks-facial-recognition-police-arrest/index.html",
-      "publishedDateTime": "2021-04-29T11:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

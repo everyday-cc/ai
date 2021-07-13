@@ -7,7 +7,7 @@ originalUrl: "https://labusinessjournal.com/news/2021/jul/12/retina-ai-raises-8m
 webUrl: "https://labusinessjournal.com/news/2021/jul/12/retina-ai-raises-8m-series-a/"
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
@@ -24,34 +24,59 @@ images:
     isCached: true
 
 related:
-  - title: "Chinese AI Platform Xiaoice Banks USD1 Billion in Series A Fundraiser, Led by Hillhouse Capital"
-    excerpt: "Chinese artificial intelligence platform Xiaoice has secured USD1 billion in a Series A fundraiser, led by Hillhouse Capital Group. Hedge fund manager Neumann Advisors, IDG Capital, 5Y Capital also joined pre-A-round investors Northern Light Venture and NetEase Capital in the Series A round,"
-    publishedDateTime: 2021-07-12T09:37:00Z
-    webUrl: "https://www.yicaiglobal.com/news/chinese-ai-platform-xiaoice-banks-usd1-billion-in-series-a-fundraiser-led-by-hillhouse-capital"
+  - title: "GM Ventures Increases Funding In AI Vision Software Company Algolux"
+    excerpt: "Algolux, an AI software company based out of Quebec, has announced the closure of series B funding, raising $18.4 million to help accelerate market adoption of the company’s scalable computer vision and image optimization solutions."
+    publishedDateTime: 2021-07-12T21:05:00Z
+    webUrl: "https://gmauthority.com/blog/2021/07/gm-ventures-increases-funding-in-ai-vision-software-company-algolux/"
+    ampWebUrl: "https://gmauthority.com/blog/2021/07/gm-ventures-increases-funding-in-ai-vision-software-company-algolux/amp/"
+    cdnAmpWebUrl: "https://gmauthority-com.cdn.ampproject.org/c/s/gmauthority.com/blog/2021/07/gm-ventures-increases-funding-in-ai-vision-software-company-algolux/amp/"
     type: article
     provider:
-      name: Yicai Global
-      domain: yicaiglobal.com
-    quality: 25
+      name: GM Authority
+      domain: gmauthority.com
+    quality: 59
     images:
-      - url: "http://img.yicaiglobal.com/cdn/news/chinese-ai-platform-xiaoice-banks-usd1-billion-in-series-a-fundraiser-led-by-hillhouse-capital/14731056473702400.jpg"
-        width: 720
-        height: 480
+      - url: "https://gmauthority.com/blog/wp-content/uploads/2021/01/Cruise-Origin-Honda-Japan-autonomous-vehicle-mobility-service-MaaS-announcement-002-e1611168765981-1024x553.jpg"
+        width: 1024
+        height: 553
         isCached: true
-  - title: "Credit Fintech Jasper Card Raises $34 Million in Round Led by Benslie International Fund, OurCrowd Participates"
-    excerpt: "Jasper Card has raised $34 million in a Series A funding round led by Benslie International Fund. Leading global investment crowdfunding platform OurCrowd joined in the funding round along with 500 Startups,"
-    publishedDateTime: 2021-07-12T21:55:00Z
-    webUrl: "https://www.crowdfundinsider.com/2021/07/177768-credit-fintech-jasper-card-raises-34-million-in-round-led-by-benslie-international-fund-ourcrowd-participates/"
+  - title: "Algolux Closes $18.4 Million Series B Round for Robust Computer Vision"
+    excerpt: "Algolux's computer vision and image optimization solutions address the mission-critical issue of safety for ADAS and autonomous vehicles. Algolux is the first company to use computational imaging to design algorithms that treat the camera as part of the ..."
+    publishedDateTime: 2021-07-12T13:05:00Z
+    webUrl: "https://www.prnewswire.co.uk/news-releases/algolux-closes-18-4-million-series-b-round-for-robust-computer-vision-813160058.html"
     type: article
     provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 19
+      name: PR Newswire
+      domain: prnewswire.co.uk
+    quality: 39
     images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2021/07/Jasper-Card.jpg"
-        width: 462
-        height: 291
+      - url: "https://mma.prnewswire.com/media/1571390/Algolux_Algolux_Closes__18_4_Million_Series_B_Round_for_Robust_C.mp4?p=thumbnail"
+        width: 512
+        height: 288
         isCached: true
+  - title: "Computer vision startup Algolux secures $23 million CAD Series B round"
+    excerpt: "Montréal-based computer vision startup Algolux has raised $23 million CAD ($18.4 million USD) in a Series B funding round co-led by Forte Ventures and Drive Capital. Algolux is using the all-equity capital in an aim to increase the market adoption of its ..."
+    publishedDateTime: 2021-07-12T12:59:00Z
+    webUrl: "https://betakit.com/computer-vision-startup-algolux-secures-23-million-cad-series-b-round/"
+    type: article
+    provider:
+      name: BetaKit
+      domain: betakit.com
+    quality: 39
+    images:
+      - url: "https://cdn.betakit.com/wp-content/uploads/2021/07/Algolux_Test_Vehicle-1.jpeg"
+        width: 1050
+        height: 787
+        isCached: true
+  - title: "RVH Solutions Inc. Secures Series B Funding from Vizient Inc., the Nation's Largest Member-Driven Health Care Performance Improvement Company"
+    excerpt: "RVH Solutions, Inc. (the \"Company\"), a leading healthcare technology solutions provider to hospitals, health systems, academic medical centers and skilled nursing facilities in the United States and the United Kingdom,"
+    publishedDateTime: 2021-07-12T13:08:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-rvh-solutions-inc-secures-series-b-funding-from-/2021/07/12/9406724.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
 secured: "jQe8do9OkPNRjSnvkYbso02+sixCj4Hd0MfIKNmKd6eBM8De/5pt3WANUipSP9/9pgF34ozFD50US6dDZRePs0q9GRLKHmiwDI6/8d/Tf7zS5PSfbx/m0dG1MLVU0qCLSFU7TII+gr4cZaTR5uLdT82cboqXPUaV6KcQMoJ0UIGZNcJrEzU3qPOnsWI2/uN88yPx/r6Csou63DMX818PFu9Hr1i//3cz/q1Fd6PJl/dDuxEkvrV7J5eZKsgCszjP0wZDf5l0mqyUzVT/m/rCxwkVBlXPN3m0u0Voh+ziZui0JJ0N7cbbyynjype6qWT0UbRJMviQpQtSLiihJrXThMOjy8UA1xjZYH2jJK30feGP6xrxie7u09F5UEUtV937OUS1AxKeP0ZmaUmFlabxK18/jWGu3/jQ5B1rn15vSpb+qcKjpbCJTLjAiutAKc25zPW/78sJpZ7i65cCrmD5rHoCNcUTt/ROvADqYpg1xdiG1aoG+7tFpSdUnOLeH52htyes3bWRkp+gjPPTGRA8Yg==;Bx6MZYAsZBiTgEoO6cntkw=="
 ---

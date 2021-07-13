@@ -24,20 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "Exscientia Accelerates COVID-19 Drug Discovery Using AI"
-    excerpt: "Exscientia has received a grant from the Bill & Melinda Gates Foundation and Gates Philanthropy Partners, as part of the COVID-19 Therapeutics Accelerator. This is to expedite the optimisation of a new class of COVID-19 therapeutics created using its artificial intelligence (AI) drug design platform."
-    publishedDateTime: 2021-07-08T08:01:00Z
-    webUrl: "https://www.register-herald.com/region/exscientia-accelerates-covid-19-drug-discovery-using-ai/article_5f6534f0-034f-5aab-b0ad-09b91283d2d4.html"
-    type: article
-    provider:
-      name: The Register-Herald
-      domain: register-herald.com
-    quality: 39
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/register-herald.com/content/tncms/custom/image/b87268c4-7873-11e7-af9a-f3a04545878a.jpg?resize=600%2C600"
-        width: 600
-        height: 600
-        isCached: true
   - title: "AI Tool Help Predict COVID-related Death Risk"
     excerpt: "Artificial intelligence is being extremely helpful in health care settings. Researchers have designed a new AI tool that can predict death risk from COVID-19 among patients in both inpatient and outpatient settings."
     publishedDateTime: 2021-07-12T09:22:00Z
@@ -49,15 +35,15 @@ related:
       name: Medindia
       domain: medindia.net
     quality: 39
-  - title: "AI-Driven ECG for COVID-19 Rule-Out Scores High in Tests, Has Mobile Potential"
-    excerpt: "The negative predictive value was 99% for ECGs assembled from patients around the world with a COVID-19 prevalence of 5%. It was still 90% when the simulated prevalence was raised to pandemic levels."
-    publishedDateTime: 2021-07-09T15:46:00Z
-    webUrl: "https://www.medscape.com/viewarticle/954497"
+  - title: "MediCircle Health launches AI-powered instant Covid test in India"
+    excerpt: "Mumbai-based diagnostic company MediCircle Health on Monday launched a portable Covid-19 testing platform that is powered by machine learning and artificial intelligence and delivers results in just one second."
+    publishedDateTime: 2021-07-13T00:56:00Z
+    webUrl: "https://news.webindia123.com/news/Articles/Health/20210713/3786021.html"
     type: article
     provider:
-      name: Medscape
-      domain: medscape.com
-    quality: 13
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 19
 
 secured: "2p9yPq0kUi2gYRni/2fJFkvs0tOvCTe5FNkjgn6Dymp7/w3U0bAjc21g9RzFIne0v9sTCWXtgH0CiycCWYBBIBzMPEe34/Z1JAKBmrMGwpH4cy9/myIJAqyZlw1Ju9tK1W6iBvqOAYrkGlrQmgL491zkDMm2rlGoehE61/JvIQTYQcKIWsimNfWpZkSEzO4DK8rjLihSlEbSkx96F1+NdEstt23+R+k4dalyG44W3QxYyD+ZsBc52lEhLBGHHf7WHIXtiX9K0oGD/qnuEGQGGGAdgnHdn75WI9QpjbYI5igijqbh8vcx3DpqSwD5iGxFsqTeQZ1rQMUzN4CPpcopdkQNLnG9UWJ8PtbjaZlHGiQyQAsRlLx1qUOvNcL/VAaCuphxbnFhj6Au9avjbCxFW+SbmRD7qt7Y/XnCLBB3GcKx90i+q251f85mw+sFudxHXA2KHl2O49hmki8h70bFoZW3J1ypaatwZfF1HEKm0Foz08y+wIJMwwlLfBYsi7DWoYZcdOBGTA+O71V/gXDfSw==;n3WlxlWYM8GW5OQuSH97XA=="
 ---

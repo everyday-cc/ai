@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "German, Canadian researchers collaborating on AI for picking robots"
+    excerpt: "Festo announced that its partnering with researchers at the Karlsruhe Institute of Technology (KIT) and the University of Waterloo to make picking robots smarter using a distributed AI method called federated learning."
+    publishedDateTime: 2021-07-13T00:14:00Z
+    webUrl: "https://www.design-engineering.com/german-canadian-researchers-collaborating-on-ai-for-picking-robots-1004037129/"
+    type: article
+    provider:
+      name: design-engineering.com
+      domain: design-engineering.com
+    quality: 54
+    images:
+      - url: "https://www.design-engineering.com/wp-content/uploads/2021/07/21-july-Festo-FLAIROP-650.png"
+        width: 650
+        height: 285
+        isCached: true
   - title: "Researchers design a system for detecting floods from space using artificial intelligence"
     excerpt: "Researchers at the Image Processing Laboratory (IPL) of the University of Valencia, in collaboration with the University of Oxford and the Phi-Lab of the European Space Agency (ESA), have developed a model for flood detection based on neural networks."
     publishedDateTime: 2021-07-12T14:10:00Z
