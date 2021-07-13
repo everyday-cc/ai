@@ -85,20 +85,6 @@ related:
         width: 960
         height: 480
         isCached: true
-  - title: "T-Mobile's 5G to connect drivers with remote-controlled cars in Vegas"
-    excerpt: "Further, the company is using an artificial intelligence (AI) algorithm that \"learns in the ... To be clear though, there are plenty of obstacles facing both T-Mobile and Halo. The driverless car market remains in its infancy, and requires coordination ..."
-    publishedDateTime: 2021-07-08T19:26:00Z
-    webUrl: "https://www.lightreading.com/aiautomation/t-mobiles-5g-to-connect-drivers-with-remote-controlled-cars-in-vegas/d/d-id/770754"
-    type: article
-    provider:
-      name: Light Reading
-      domain: lightreading.com
-    quality: 24
-    images:
-      - url: "https://img.lightreading.com/lightreading/LR_fb_button.jpg"
-        width: 600
-        height: 600
-        isCached: true
 
 secured: "KQSL2SGSWsHysNP6iOM53wlBsIZSXVATw9YNS1fG2Ip/KBZ7/mP021uqL/7Pe5IZe5CKy6rozIRF61M6ZS82ppD32T3abmKgeah5D78ZjgCw76SD1KyEWxFOE//naWzYbUL1dHsBdEtfhWRweh7vqjo5h/nP8w7ZdIKNClGIRly0DGkfIiBnKqYsO17UPIAibSbinGwsZGW1MAcg6Nnn59kBrLmDGyNeB+35zOCXuDFGiF61rcNWLKxiwPF3Y/iWhY7TvDDe5/MFCKjpn0sjNXO3zUgSYVwDEcOE8aEtQqmGX3/EmhkT/XZjVzBzeHWlawJaS6eZEb1dTLS6ROElQiT9VwT4a5yma5Jrfu4HHOA=;A5iBbCRvnvv7Wdn3qB6pwA=="
 ---

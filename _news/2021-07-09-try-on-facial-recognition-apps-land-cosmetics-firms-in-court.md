@@ -25,19 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "Most State Legislatures have rejected bans and severe restrictions on facial recognition"
-    excerpt: "Facial recognition technology and related legislation have been a hot topic in the media and in policy discussions around the country. The Security Industry Association (SIA) is advocating nationwide for policies ensuring responsible use and sensible ..."
-    publishedDateTime: 2021-07-12T22:00:00Z
-    webUrl: "https://www.securityinfowatch.com/access-identity/biometrics/facial-recognition-solutions/article/21230121/security-industry-association-sia-most-state-legislatures-have-rejected-bans-and-severe-restrictions-on-facial-recognition"
+  - title: "Facial recognition tech fights COVID-19 in China's Yunnan"
+    excerpt: "Facial recognition tech linked to personal health codes has been rolled out in a Chinese city bordering Myanmar as authorities seek to squash a"
+    publishedDateTime: 2021-07-13T12:45:00Z
+    webUrl: "https://www.channelnewsasia.com/news/asia/facial-recognition-tech-fights-covid-19-china-yunnan-myanmar-15211714"
     type: article
     provider:
-      name: Security
-      domain: securityinfowatch.com
-    quality: 30
+      name: Channel NewsAsia Singapore
+      domain: channelnewsasia.com
+    quality: 39
     images:
-      - url: "https://img.securityinfowatch.com/files/base/cygnus/siw/image/2021/07/bigstock_Facial_Recognition_System_Iden_387020311.60ecba89a36b9.png?auto=format&fit=max&w=1200"
-        width: 1200
-        height: 800
+      - url: "https://cna-sg-res.cloudinary.com/image/upload/q_auto,f_auto/image/15211712/16x9/991/557/efd60e103f612f36f1164ff636fceff9/pE/china-was-the-first-country-to-adopt-a-qr-code-system-to-log-covid-test-results-and-track-contacts-1626169216543-2.jpg"
+        width: 991
+        height: 557
         isCached: true
 
 secured: "gaE/m9ey3sR1yt0vsUuHlb+vAJvoa8UZ8LY7sB9twIUv2T6rHMBgkdOYULZixHzyQnn94eueouZKZDrIh/1QN9lQP5jBA/zFXScB5M6mDB5++B0doFJFHCtNDNEOZBtHb/ky6Y7HJtpaJvZS0Ms1iZkeGBJI826KQDN43+M6zKpaR8LssSYeYePPtTqsR4b7r/VM/2a1vPPNdARg6dq/+1MYkRroT33ClLL3fDh7ffEaflBy4FdU0Iwn/uMSAme++wtMpdRpjbcR0BpET3j7VU50lwrVc6GVWVVwog/EECR8MqmO6g/FZAIh7i0u8Mo6DSTkdl6A902g0G1CLP+zwDQ8a+EE8fL0w7jmskXuQ7gErdX6mkssEAMzfK2LWpLYYLlcjWhZLo5+2GqNgersFSg/h+8gtXrZgnOZRUGC50j0i5PssfJumisfp1uefhvPYbY9bw98jWOKk7bxYoC66DLu/uOpgr/Tjot6fzz6IP+pZQHQCJCBwNjsiWCCN5mKJ15xftcgSAa7lKidum8hiQ==;rUjU1kSSMEBPY3+QI/z7FQ=="

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.openpr.com/amp/2326738/artificial-intelligence-as-a-serv
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2326738/artificial-intelligence-as-a-service-market-may-set-epic-growth"
 type: article
 quality: 62
-heat: 102
+heat: 103
 published: true
 
 provider:

@@ -2,6 +2,49 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2021-05-04-unisys-builds-leading-automatic-speech-recognition-technology-onto-its-inteliserve-voice-channel.md",
+      "title": "Unisys Builds Leading Automatic Speech Recognition Technology onto its InteliServe™ Voice Channel",
+      "excerpt": "BLUE BELL, Pa., May 4, 2021 /PRNewswire/ -- (NYSE: UIS) today announced it has embedded voice recognition technology from PerVoice within InteliServe,™ the Unisys digital workplace services platform",
+      "sourceUrl": null,
+      "webUrl": "https://www.tiogapublishing.com/news/state/unisys-builds-leading-automatic-speech-recognition-technology-onto-its-inteliserve-voice-channel/article_85bc2a3a-817f-5ea0-87df-d2bc9abc9150.html",
+      "originalUrl": "https://www.tiogapublishing.com/news/state/unisys-builds-leading-automatic-speech-recognition-technology-onto-its-inteliserve-voice-channel/article_85bc2a3a-817f-5ea0-87df-d2bc9abc9150.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.chicago2.vip.townnews.com/tiogapublishing.com/content/tncms/custom/image/d29c7e94-810a-11e6-9e0b-7f79a010bf0f.jpg",
+          "width": 1200,
+          "height": 684,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-04T04:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TiogaPublishing.com",
+        "domain": "tiogapublishing.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-03-why-most-ai-writing-cant-get-its-facts-straight.md",
       "title": "Why Most AI Writing Can’t Get Its Facts Straight",
       "excerpt": "The brute force approach to artificial intelligence writing still works better on fiction than on factual, data-based reporting.",

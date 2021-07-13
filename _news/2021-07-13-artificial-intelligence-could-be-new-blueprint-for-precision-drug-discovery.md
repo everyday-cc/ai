@@ -1,26 +1,29 @@
 ---
 category: news
-title: "Artificial Intelligence Could Be New Blueprint for Precision Drug Discovery"
+title: "Artificial intelligence could be new blueprint for precision drug discovery"
 excerpt: "Writing in the July 12, 2021 online issue of Nature Communications, researchers at University of California San Diego School of Medicine describe a new approach that uses machine learning to hunt for disease targets and then predicts whether a drug is likely to receive FDA approval."
-publishedDateTime: 2021-07-12T17:10:00Z
-originalUrl: "https://health.ucsd.edu/news/releases/Pages/2021-07-12-artificial-intelligence-could-be-new-blueprint-for-precision-drug-discovery.aspx?_ga=2.90697119.448482760.1626110850-963225343.1578613963"
-webUrl: "https://health.ucsd.edu/news/releases/Pages/2021-07-12-artificial-intelligence-could-be-new-blueprint-for-precision-drug-discovery.aspx?_ga=2.90697119.448482760.1626110850-963225343.1578613963"
+publishedDateTime: 2021-07-12T18:28:00Z
+originalUrl: "https://medicalxpress.com/news/2021-07-artificial-intelligence-blueprint-precision-drug.html"
+webUrl: "https://medicalxpress.com/news/2021-07-artificial-intelligence-blueprint-precision-drug.html"
+ampWebUrl: "https://medicalxpress.com/news/2021-07-artificial-intelligence-blueprint-precision-drug.amp"
+cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-07-artificial-intelligence-blueprint-precision-drug.amp"
 type: article
-quality: 35
+quality: 57
 heat: -1
 published: false
 
 provider:
-  name: Scripps News
-  domain: ucsd.edu
+  name: Medical Xpress
+  domain: medicalxpress.com
 
 topics:
+  - AI in Healthcare
   - AI
 
 images:
-  - url: "https://assets.ucsd.edu/img/logo/usnwr-uc-san-diego-top-ranked-in-10-specialties-2020.png"
-    width: 370
-    height: 406
+  - url: "https://scx2.b-cdn.net/gfx/news/hires/2019/3-drug.jpg"
+    width: 1920
+    height: 1280
     isCached: true
 
 related:
@@ -41,6 +44,6 @@ related:
         height: 480
         isCached: true
 
-secured: "AOS6acnlZTCfXHSRR1RN4/oqon51I7sG0BAOFi6ScbctRyD24p8inFnH1a/RVYEtkfAAEfuMJWkNu8t+Awv0y2n718WvVN86OMjPTvbwrA3gKYKHAnXeggpyo4s3f3QS25L8lQKWaeVF3x3dVP+0LFQOnUsN+4jNI2e2xe1tnn8bUGRDYF3/QKKtDLv2A+YLAtZmWPyBEhFF//3AxAOtZFuBs0moZmsUjJMtLr5vnK20aR/niUmhj6ThMky1OMM6dIYiqajxYSDdbFmzfBjJngXrhsdmnFwem/Cx7SFw0yAIzYiiQEHk5y2NVwYlsPfLwAV57LWSzlo5aKNfvSp/ylwjRTcEoaf13OT7X2hvoco=;JflvNhxbIaHDalJxbMMszA=="
+secured: "hMhhoPXzq/thxnDVJy0VxEuVihWbTvCrKBbMg6H6cqr0uKFsxkum7NT1/YZTEyUUOt6GUKd8iz0i7n3mrBrg/DEsbyNa4LGtEbzhWvDzKUxCovUCijIEXG4ET81KbtIzUgQV0g35y9pgYsBPBMex03Uhr98isPo5ixEV+TcvhtXubZby14JeVp64SxPSwSmy4BpOUq/4oAUIV+ROKU2HeD3z2CCgqKO8OXljzLdRHsJavdfJY6tObh+uJzBTbXIVxgpCG9za35gder+CkxeftgiYnICJD4cG8vcxt9U4w3TycWGm4xzFYbzSZ/f2q4cqsTnb7win7JFSAL95lB1sOil4LVh7QF01PdTLlRdQiKc=;hFpcqHKSnUyz9tic5CY2FA=="
 ---
 

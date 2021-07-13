@@ -27,13 +27,13 @@ related:
     provider:
       name: WFMZ-TV
       domain: wfmz.com
-    quality: 34
+    quality: 36
     images:
       - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/0/ac/0acc1671-6fcd-5e01-8335-549b973f4ca4/60867deb6fe15.image.jpg?resize=1200%2C504"
         width: 1200
         height: 504
         isCached: true
 
-secured: "JuEjkCTTIXZP4kgbyREIWsmWgQaW5si462hPLfpP0JBV6T089/Tce0pW89mvjk4aPwkdZacjEnYqwNbEwWY5TrqwRKp11jwwhfXAmVIKOrHYhhzEDyQCvWvlWHfdM0iQazsk3VLkW+PPP3bPlMCA4/PY15ZP0Gi29YGTz5PeIBsX/2hV7e7VE+6TN3y/nJZaLy8iK9DlWdtXC9jbPwQrjJp+5tvDtr4N8prIhCF6FW8z+eIvcnr9DkT9000em9FMRgmEm5rK105Y1uV7Gsa1Zjw8ILkJXp0NGRCxB1dDLE4GBzfX1F7s7xaIUaLOuPNr0rUprrKRZ2/AZsfV35fnUmlcSusYt5envA7tu/4AgZk=;zHDgsyzMnSrMGhU5loPy+g=="
+secured: "INMTovGyMigkOf88BWvUlK5J8yJSa3V8+SgXnVfvvR6misWJrmCP7j8LXEWyHRGXfQsGQznZQoUefyFAA83nrUhZNdV7UVoPD1q6PwgpnwxOL6/VVjluXhvqHymowB4Cqb8Tto95PNHS5f2vxIO509WgUbuGr4OGVfByxf6TFWfuzzfQx7gF3/cBzf9o48h+pzUns1aG3kwQSc37G6GVlZgA9cgcpUE6+lvTL9FrC4F0lcESGW5KLBNKzSLS4wcuDdLAeC3fs+ps74w4txGcuFZsx8CEIJZqKoagIAclDnj5eg14E1FcPJlW5vvaWGLSpR9ew2Os/RuqwKShPRwQTXcqlC427hUb74fZQDjSi20=;5GhP56oxSOkmT606ACqvUw=="
 ---
 

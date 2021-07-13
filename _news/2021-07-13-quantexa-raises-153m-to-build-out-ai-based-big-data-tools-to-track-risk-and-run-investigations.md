@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2021/07/12/quantexa-raises-153m/amp/"
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/07/12/quantexa-raises-153m/amp/"
 type: article
 quality: 75
-heat: 75
+heat: 76
 published: true
 
 provider:

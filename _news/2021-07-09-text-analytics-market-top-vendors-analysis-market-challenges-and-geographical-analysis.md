@@ -32,14 +32,14 @@ related:
   - title: "Hanwha Techwin unveils new 8 and 16 channel Wisenet X Series NVRs with Deep Learning AI video analytics"
     excerpt: "The introduction of 8 and 16 channel Wisenet X Series NVRs makes it cost-effective, for even small businesses to take advantage of the licence-free Deep Learning AI video analytics, built into"
     publishedDateTime: 2021-07-13T10:46:00Z
-    webUrl: "https://www.sourcesecurity.com/news/hanwha-techwin-wisenet-x-series-nvrs-deep-learning-ai-video-analytics-co-1437-ga-co-13220-ga-npr.1626162967.html"
+    webUrl: "https://www.sourcesecurity.com/tags/video-analytics/news/hanwha-techwin-wisenet-x-series-nvrs-deep-learning-ai-video-analytics-co-1437-ga-co-13220-ga-npr.1626162967.html"
     ampWebUrl: "https://www.sourcesecurity.com/amp/news/hanwha-techwin-wisenet-x-series-nvrs-deep-learning-ai-video-analytics-co-1437-ga-co-13220-ga-npr.1626162967.html"
     cdnAmpWebUrl: "https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/news/hanwha-techwin-wisenet-x-series-nvrs-deep-learning-ai-video-analytics-co-1437-ga-co-13220-ga-npr.1626162967.html"
     type: article
     provider:
       name: SourceSecurity
       domain: sourcesecurity.com
-    quality: 60
+    quality: 58
     images:
       - url: "https://www.sourcesecurity.com/img/news/612/wisenet-cameras-helps-protect-mfg-s-electric-vehicle-ev-charging-hubs-920x533.jpg"
         width: 612

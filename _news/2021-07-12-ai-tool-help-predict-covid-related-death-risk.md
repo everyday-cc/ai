@@ -21,6 +21,17 @@ topics:
   - AI
 
 related:
+  - title: "Detection of COVID-19 via Automatic Artificial Intelligence Cough Analysis"
+    excerpt: "A team of researchers has submitted the system to the Cough Sound Track of the Diagnosing COVID-19 using Acoustics (DiCOVA) Challenge. The covid-19 crisis has tested healthcare systems throughout the world."
+    publishedDateTime: 2021-07-12T17:56:00Z
+    webUrl: "https://scitechdaily.com/detection-of-covid-19-via-automatic-artificial-intelligence-cough-analysis/"
+    ampWebUrl: "https://scitechdaily.com/detection-of-covid-19-via-automatic-artificial-intelligence-cough-analysis/amp/"
+    cdnAmpWebUrl: "https://scitechdaily-com.cdn.ampproject.org/c/s/scitechdaily.com/detection-of-covid-19-via-automatic-artificial-intelligence-cough-analysis/amp/"
+    type: article
+    provider:
+      name: SciTech Daily
+      domain: scitechdaily.com
+    quality: 39
   - title: "MediCircle Health launches AI-powered instant Covid test in India"
     excerpt: "Mumbai-based diagnostic company MediCircle Health on Monday launched a portable Covid-19 testing platform that is powered by machine learning and artificial intelligence and delivers results in just one second."
     publishedDateTime: 2021-07-13T03:42:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/halo-and-las-vegas-launc
 webUrl: "https://www.marketwatch.com/press-release/halo-and-las-vegas-launch-driverless-car-service-powered-by-t-mobile-5g-2021-07-08"
 type: article
 quality: 69
-heat: 119
+heat: 109
 published: true
 
 provider:
@@ -84,20 +84,6 @@ related:
       - url: "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2021%2F07%2FThis-Car-Rental-App-Uses-5G-To-Power-Driverless-Vehicles-tw.jpg?w=960&cbr=1&q=90&fit=max"
         width: 960
         height: 480
-        isCached: true
-  - title: "T-Mobile's 5G to connect drivers with remote-controlled cars in Vegas"
-    excerpt: "Further, the company is using an artificial intelligence (AI) algorithm that \"learns in the ... To be clear though, there are plenty of obstacles facing both T-Mobile and Halo. The driverless car market remains in its infancy, and requires coordination ..."
-    publishedDateTime: 2021-07-08T19:26:00Z
-    webUrl: "https://www.lightreading.com/aiautomation/t-mobiles-5g-to-connect-drivers-with-remote-controlled-cars-in-vegas/d/d-id/770754"
-    type: article
-    provider:
-      name: Light Reading
-      domain: lightreading.com
-    quality: 24
-    images:
-      - url: "https://img.lightreading.com/lightreading/LR_fb_button.jpg"
-        width: 600
-        height: 600
         isCached: true
 
 secured: "hH0A3TZ82SHV4R2uiQmwaBe7tTO/8IKXkxD0PWstkBQIzrN/ju2K2Z1QeohXBrtXn2INqk+1NrDS41TB+okmQ9SFEwApCg802R5PxrjoI9Rr7VrMikfD2fl6o2Ny5/e5IE8cEVG/H4bVs6ybQOCJPK3F0CmmOepkiCXDLs9YcZw7iwQMPYv+3Mmnl7nzJdXr/kdNdc8FZLyItTQaLmBz2XTUegSvIKFLiiGS+cKRTiZCH06/0QdN/riJed9txOxVRqj0IjdlP9dlFU16kNn+purYT8j+1C7G1s8KXep35HSSu/Gmz1CJXVxQ++/rI1xAtreYNdwpcqs2smW3PltLqPnkgU3BRh9ntDnfin7lgmU=;N+n0xR5o/ozhQ8zVXdPZ4Q=="

@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-07-13-locomotive-system-makes-robots-multi-terrain.md",
+      "title": "Locomotive System Makes Robots Multi-Terrain",
+      "excerpt": "Called Rapid Motor Adaptation (RMA), the new locomotive system allows four-legged robots to traverse a variety of terrain types.",
+      "sourceUrl": null,
+      "webUrl": "https://worldindustrialreporter.com/locomotive-system-makes-robots-multi-terrain/",
+      "originalUrl": "https://worldindustrialreporter.com/locomotive-system-makes-robots-multi-terrain/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://wir-en.s3.amazonaws.com/wp-content/uploads/2021/07/rma-300x210.png",
+          "width": 300,
+          "height": 210,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://worldindustrialreporter.com/locomotive-system-makes-robots-multi-terrain/amp/",
+      "cdnAmpWebUrl": "https://worldindustrialreporter-com.cdn.ampproject.org/c/s/worldindustrialreporter.com/locomotive-system-makes-robots-multi-terrain/amp/",
+      "publishedDateTime": "2021-07-13T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "worldindustrialreporter.com",
+        "domain": "worldindustrialreporter.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-13-german-canadian-researchers-collaborating-on-ai-for-picking-robots.md",
       "title": "German, Canadian researchers collaborating on AI for picking robots",
       "excerpt": "Festo announced that its partnering with researchers at the Karlsruhe Institute of Technology (KIT) and the University of Waterloo to make picking robots smarter using a distributed AI method called federated learning.",
@@ -31,49 +74,6 @@
       "provider": {
         "name": "design-engineering.com",
         "domain": "design-engineering.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-13-artificial-intelligence-leader-datarobot-to-host-morgantown-job-fair-tuesday.md",
-      "title": "Artificial intelligence leader DataRobot to host Morgantown job fair Tuesday",
-      "excerpt": "DataRobot, the leader in Artificial Intelligence, will host a public job fair from 3-7 p.m. at Morgantown’s Erickson Alumni Center on Tuesday, July 13. In June, DataRobot announced the opening of a new office at Vantage Ventures Morgantown headquarters.",
-      "sourceUrl": null,
-      "webUrl": "https://www.mybuckhannon.com/artificial-intelligence-leader-datarobot-to-host-morgantown-job-fair-tuesday/",
-      "originalUrl": "https://www.mybuckhannon.com/artificial-intelligence-leader-datarobot-to-host-morgantown-job-fair-tuesday/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.mybuckhannon.com/wp-content/uploads/2021/07/Data-Robot.jpg",
-          "width": 1920,
-          "height": 1280,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-12T11:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "My Buckhannon",
-        "domain": "mybuckhannon.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -192,7 +192,7 @@
       "originalUrl": "https://www.wsj.com/articles/scale-ais-rapid-growth-reflects-widening-demand-for-smart-software-11626082201",
       "featuredContent": null,
       "highlight": null,
-      "heat": 109,
+      "heat": 209,
       "tags": null,
       "images": [
         {

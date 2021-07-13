@@ -2,6 +2,49 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-05-15-ibm-announces-breakthrough-hybrid-cloud-and-ai-capabilities.md",
+      "title": "IBM announces breakthrough hybrid cloud and AI capabilities",
+      "excerpt": "IBM announced advances in AI, hybrid cloud, and quantum computing at Think 2021, helping clients and partners accelerate their digital transformations.",
+      "sourceUrl": null,
+      "webUrl": "https://www.vir.com.vn/ibm-announces-breakthrough-hybrid-cloud-and-ai-capabilities-84217.html",
+      "originalUrl": "https://www.vir.com.vn/ibm-announces-breakthrough-hybrid-cloud-and-ai-capabilities-84217.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.vir.com.vn/stores/news_dataimages/dinhthuy/052021/14/14/in_article/croped/ibm-announces-breakthrough-hybrid-cloud-and-ai-capabilities.jpg?randTime=1622138429",
+          "width": 636,
+          "height": 408,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-14T22:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Vietnam Investment Reviev",
+        "domain": "vir.com.vn",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-14-ibm-think-2021-all-in-on-hybrid-cloud-and-ai.md",
       "title": "IBM Think 2021- All In On Hybrid Cloud And AI",
       "excerpt": "Ranked Industry Analyst Patrick Moorhead attended the IBM Think 2021 event last week, which is the premier hybrid cloud and AI event for IBM as well as the company’s annual flagship event for customers and partners.",

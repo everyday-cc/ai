@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-06-08-foundations-of-trustworthy-ai-how-mature-is-your-ai-governance.md",
+      "title": "Foundations of trustworthy AI: How mature is your AI governance?",
+      "excerpt": "As organizations scale their use of AI, they increasingly need to do so in a responsible and governed manner. This is driven by many complementary forces: brand reputation, anticipated regulations [1,2,3], AI complexity, and social justice. Each of these alone would merit the need for AI governance,",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blogs/watson/2021/06/ai-governance-maturity/",
+      "originalUrl": "https://www.ibm.com/blogs/watson/2021/06/ai-governance-maturity/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 139,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ibm.com/blogs/watson/wp-content/uploads/2021/06/blog_implement-governance_2000x1000.jpg",
+          "width": 2000,
+          "height": 1000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-08T08:30:49-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-08-using-watson-to-diagnose-skin-cancer-interview-with-ibm-computer-vision-scientist-noel-codella.md",
       "title": "Using Watson to Diagnose Skin Cancer: Interview with IBM Computer Vision Scientist, Noel Codella",
       "excerpt": "Thankfully, researchers at IBM have been studying how to take ... our own experimentation on using machine learning and artificial intelligence to see how well we can get this system to recognize ...",
@@ -1360,49 +1412,6 @@
         "Microsoft AI",
         "AI",
         "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-15-ibm-announces-breakthrough-hybrid-cloud-and-ai-capabilities.md",
-      "title": "IBM announces breakthrough hybrid cloud and AI capabilities",
-      "excerpt": "IBM announced advances in AI, hybrid cloud, and quantum computing at Think 2021, helping clients and partners accelerate their digital transformations.",
-      "sourceUrl": null,
-      "webUrl": "https://www.vir.com.vn/ibm-announces-breakthrough-hybrid-cloud-and-ai-capabilities-84217.html",
-      "originalUrl": "https://www.vir.com.vn/ibm-announces-breakthrough-hybrid-cloud-and-ai-capabilities-84217.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.vir.com.vn/stores/news_dataimages/dinhthuy/052021/14/14/in_article/croped/ibm-announces-breakthrough-hybrid-cloud-and-ai-capabilities.jpg?randTime=1622138429",
-          "width": 636,
-          "height": 408,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-14T22:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Vietnam Investment Reviev",
-        "domain": "vir.com.vn",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
       ]
     }
   ],

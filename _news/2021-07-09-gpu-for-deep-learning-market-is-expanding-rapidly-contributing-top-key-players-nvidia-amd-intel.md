@@ -25,17 +25,6 @@ images:
     height: 600
     isCached: true
 
-related:
-  - title: "AI in Medication Management Market Giants Spending Is Going To Boom | Intel, NVIDIA,Siemens Healthineers, Medtronic"
-    excerpt: "The latest study released on the Global AI in Medication Management Market by AMA Research evaluates market size, trend, and forecast to 2026. The AI in Medication Management market study covers significant research data and proofs to be a handy resource document for managers,"
-    publishedDateTime: 2021-07-08T19:26:00Z
-    webUrl: "https://manometcurrent.com/ai-in-medication-management-market-giants-spending-is-going-to-boom-intel-nvidiasiemens-healthineers-medtronic/"
-    type: article
-    provider:
-      name: manometcurrent.com
-      domain: manometcurrent.com
-    quality: 0
-
 secured: "ruKGs7eiqj0JLDfOauhgCnIKxB9fGxL03PJTVEeXZedAZqpexoheekbeYQOdhBSqE+jbzkL2kcGYLTlgmxXsdI0WhbYEYqgKelhYY6B7bhoeJQaAmokRgwJqFKQKnatuQeqvvYQvQ+jMrIDnXsZF4DRSl3rXBftVDcIpzhs1ZAbsDCna9ZGBh+8vV7Hxvyf6vp+IgFOS0Wcqz63wF9jULTODCCcXKJz+vHwCtezPYyDoS9ZnvJlKWpl/eHxHPVuqJe+9ichr4Nx7J93GEFF6UcEffzVe2Ca1pk5z8L3uwCgeL53wgCJVylEud8MeivAT/09LklmrIl3vWEItXOn07KIbxMCepRyhe0KE/0oXywqzJ7n/ua6uPdbvXdq0GXR8h3cxKBVddIbSK2bJ1lMsDX8qhlGhKrH+nwB8Fsl4whnZyQE6ijo6KQqwW+0BwxN9XuMh7hZg1z7/ycl/Jj/fg+uQffk2Qx6lMBlmaKWM6HQ7JO2UCSYUuCemtTOUOzidw8S0ucskORMtRIqr4PGneA==;8h+Vad6HoAVNx3HnCi63YQ=="
 ---
 

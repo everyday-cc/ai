@@ -9,7 +9,7 @@ ampWebUrl: "https://gulfnews.com/amp/world/asia/covid-19-facial-recognition-tech
 cdnAmpWebUrl: "https://gulfnews-com.cdn.ampproject.org/c/s/gulfnews.com/amp/world/asia/covid-19-facial-recognition-tech-fights-coronavirus-in-chinese-city-1.80626315"
 type: article
 quality: 59
-heat: 59
+heat: -1
 published: false
 
 provider:
@@ -26,6 +26,38 @@ images:
     height: 405
     isCached: true
 
-secured: "BW/9wKngQJ6ppkUVskvBk2zPawia/fGkm2RLO2swVkiffgGqs63cgbO3mB7NW6aAMepftzT3QAMTYTBSpSU7Xf/lmBQgR6RmxnkW4f14SG1bqCmbLT8MUDBltRcSYydpmXv3/7YSDI3t4S0Me7tYnWartGARaT9pyqa6RQ56j5hihoRMkBQez/su4DnEE+Y6obxpHOPiMWF9aqPqwATBb+FvCNaexDeLDfsSrmi/blqQOQG5gvgl5Viv0VGOpMx1Si74lHTWDCIuilgMTq4+c52lz6ctjz4sBN+1SuHG5aS3nKM0ysdj1z+46Tq5uscqTBAGnh6wlRklxX5qOiD2UgUkHsgRw6PClQXxNFKMKgI=;tAdQahzYU0HdJ+mkLzXJQA=="
+related:
+  - title: "US sanctions a Chinese facial recognition company with Silicon Valley funding"
+    excerpt: "DeepGlint, also known as Beijing Geling Shentong Information Technology Co., Ltd., is a facial recognition company with deep ties to Chinese police surveillance, and funding from US-based Sequoia Capital."
+    publishedDateTime: 2021-07-09T17:42:59Z
+    webUrl: "https://www.theverge.com/2021/7/9/22570225/us-sanctions-chinese-facial-recognition-silicon-valley-funding"
+    ampWebUrl: "https://www.theverge.com/platform/amp/2021/7/9/22570225/us-sanctions-chinese-facial-recognition-silicon-valley-funding"
+    cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2021/7/9/22570225/us-sanctions-chinese-facial-recognition-silicon-valley-funding"
+    type: article
+    provider:
+      name: theverge.com/2021/7/9/22570225/us-sanctions-chinese-facial-recognition-silicon-valley-funding
+      domain: theverge.com/2021/7/9/22570225/us-sanctions-chinese-facial-recognition-silicon-valley-funding
+    quality: 156
+    images:
+      - url: "https://cdn.vox-cdn.com/thumbor/eGtjTnlDLWadmcCPthwq1RA4u_o=/0x0:640x355/1400x933/filters:focal(269x127:371x229):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/69562258/Hitachi_Kokusai_Electric_surveillance_system_640.0.jpg"
+        width: 640
+        height: 355
+        isCached: true
+  - title: "Most State Legislatures have rejected bans and severe restrictions on facial recognition"
+    excerpt: "Facial recognition technology and related legislation have been a hot topic in the media and in policy discussions around the country. The Security Industry Association (SIA) is advocating nationwide for policies ensuring responsible use and sensible ..."
+    publishedDateTime: 2021-07-12T22:00:00Z
+    webUrl: "https://www.securityinfowatch.com/access-identity/biometrics/facial-recognition-solutions/article/21230121/security-industry-association-sia-most-state-legislatures-have-rejected-bans-and-severe-restrictions-on-facial-recognition"
+    type: article
+    provider:
+      name: Security
+      domain: securityinfowatch.com
+    quality: 30
+    images:
+      - url: "https://img.securityinfowatch.com/files/base/cygnus/siw/image/2021/07/bigstock_Facial_Recognition_System_Iden_387020311.60ecba89a36b9.png?auto=format&fit=max&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
+
+secured: "y7t07HNlwoDtVVtf+3nROYmeOa3dR5Lhf7YnNoXdzAdQqXp3Gx1PVnc4vREONFUc5VNc8ByzzDtxg7AJ62w/o77hIIEfGny/dExYVsPPcKeUcxqgjnxd3FSGg80VQnTExgSZePX78jj/Gry1H9Z6z1P5opXmv+wRFqLB77c1u5+LcHyplkpqt8ExxwizkK1gtuPGC4kW+36TLdKYl/lpMSPZV5iNiZQ9fMEGHqldg1ekHHsdEH66R+ddGjUBvLr/pcV/91J3e7P9zEho7RBnRZFSjYS+kkFouOkhabpcfW5mK94RkM8MpQpraqVHFY0/7EE1C3spH9dmCJTlzH9xW2CNk0uD6KhjmWHWPAebOX0uO5IzNHuVQExH7FeHvuH1fyINg7fes/NMwQ2Lek0Th9JN9t06ME+UUotkLPHna814LAFQBSXnlXZmzev8wP9/dY+t82DTAY3cpBsIZhV3Prlo0rp6qkOhiW33UInBc5zr/QNt4CWnFGRpErv30KUFfb9zkYnJXb8rpiqoXW3+Uw==;dXJtbI1XJycv+AXGOMvftg=="
 ---
 

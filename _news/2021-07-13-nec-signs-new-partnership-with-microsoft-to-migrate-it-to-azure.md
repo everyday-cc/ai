@@ -61,6 +61,43 @@ related:
         width: 896
         height: 504
         isCached: true
+  - title: "Icertis Recognized as the Winner of 2021 Microsoft AI Partner of the Year"
+    excerpt: "Icertis, the contract intelligence company that pushes the boundaries of what's possible with contract lifecycle management (CLM),"
+    publishedDateTime: 2021-07-13T13:05:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/icertis-recognized-as-the-winner-of-2021-microsoft-ai-partner-of-the-year-301332517.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 53
+    images:
+      - url: "https://mma.prnewswire.com/media/371539/Icertis_Logo.jpg?p=facebook"
+        width: 800
+        height: 419
+        isCached: true
+  - title: "Pensa Systems Now Available on Microsoft Azure"
+    excerpt: "Pensa Systems, a leading innovator in the automated use of computer vision and artificial intelligence for retail in-store data and analytics, announced today that its advanced shelf intelligence data offering has become a Microsoft Preferred Solution and is now available on Microsoft Azure."
+    publishedDateTime: 2021-07-13T11:38:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2021/07/13/9407404.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 49
+  - title: "Sierra Wireless Partners with Microsoft to Enable Advanced Asset Tracking Capabilities via Azure IoT Central"
+    excerpt: "Sierra Wireless’ Acculink managed IoT solution integrated with Microsoft Azure IoT Central brings simplicity, extra functionality and capabilities for customersVANCOUVER, British Columbia--(BUSINESS WIRE)--Sierra Wireless (NASDAQ: SWIR) (TSX: SW),"
+    publishedDateTime: 2021-07-13T13:00:00Z
+    webUrl: "https://us.acrofan.com/detail.php?number=498882"
+    type: article
+    provider:
+      name: 아크로팬
+      domain: acrofan.com
+    quality: 35
+    images:
+      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
+        width: 580
+        height: 339
+        isCached: true
   - title: "Kwik Lok adds Microsoft executive to board"
     excerpt: "Jeff’s addition to Kwik Lok’s board of directors brings many opportunities to expand our innovation, collaboration and technology initiatives,” Kimberly Paxton-Hagner, Kwik Lok board chairwoman, said in a news release."
     publishedDateTime: 2021-07-12T23:08:00Z

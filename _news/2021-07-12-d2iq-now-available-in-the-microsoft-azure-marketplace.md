@@ -53,6 +53,43 @@ related:
         width: 896
         height: 504
         isCached: true
+  - title: "Icertis Recognized as the Winner of 2021 Microsoft AI Partner of the Year"
+    excerpt: "Icertis, the contract intelligence company that pushes the boundaries of what's possible with contract lifecycle management (CLM),"
+    publishedDateTime: 2021-07-13T13:05:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/icertis-recognized-as-the-winner-of-2021-microsoft-ai-partner-of-the-year-301332517.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 53
+    images:
+      - url: "https://mma.prnewswire.com/media/371539/Icertis_Logo.jpg?p=facebook"
+        width: 800
+        height: 419
+        isCached: true
+  - title: "Pensa Systems Now Available on Microsoft Azure"
+    excerpt: "Pensa Systems, a leading innovator in the automated use of computer vision and artificial intelligence for retail in-store data and analytics, announced today that its advanced shelf intelligence data offering has become a Microsoft Preferred Solution and is now available on Microsoft Azure."
+    publishedDateTime: 2021-07-13T11:38:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2021/07/13/9407404.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 49
+  - title: "Sierra Wireless Partners with Microsoft to Enable Advanced Asset Tracking Capabilities via Azure IoT Central"
+    excerpt: "Sierra Wireless’ Acculink managed IoT solution integrated with Microsoft Azure IoT Central brings simplicity, extra functionality and capabilities for customersVANCOUVER, British Columbia--(BUSINESS WIRE)--Sierra Wireless (NASDAQ: SWIR) (TSX: SW),"
+    publishedDateTime: 2021-07-13T13:00:00Z
+    webUrl: "https://us.acrofan.com/detail.php?number=498882"
+    type: article
+    provider:
+      name: 아크로팬
+      domain: acrofan.com
+    quality: 35
+    images:
+      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
+        width: 580
+        height: 339
+        isCached: true
   - title: "NEC signs new partnership with Microsoft, to migrate IT to Azure"
     excerpt: "NEC said it expanded its decades-long collaboration with Microsoft. Through a new multi-year strategic partnership, the companies will leverage Microsoft Azure, Microsoft 365, NEC's network and IT expertise,"
     publishedDateTime: 2021-07-13T08:29:00Z
@@ -81,6 +118,6 @@ related:
       domain: tmcnet.com
     quality: 15
 
-secured: "e5N7XguyQwCIo5Kb9P98nCf4OI1h909pQ+bHSoc23xUJQfvQQAW0XwETqQun/anZazFfm7ef8GY90TRxg20l8XrlioD9teNflaruOQLSIbIIlC+bN1ZyNTay+zj7r/Ycyq7J7zvR76wCb/zz98nI9fp18k0v/aRnU4IulP6A2y+2iqJvdgY9NuGalmTzEFFSSCX42i7BBQo/q7p8MdTCdTnxaEyGVwdMqhaRcRU5XJ4FAFD1QW4hUIE1EwbQ/E27+HDuSOOcIuQSmUm4L9jwjeqPEbmQhq9n0e8aLfbfIMMCl9FxdBaNGoS1Qz9YNaaviX09KijMpeZspE9uRSC+vDeeJqHe9RVvbVpbMWunnVU=;MWscTROnJ+sij7mkeYmkew=="
+secured: "981+wCpdNqj2cuMcD+kTlJ/Bs6Nl+BbBNrup6p2BO8n59w3n2xB6QcIbprlokCJZNxGrD/0KjvHpUVdiQZtpZcwx1qUlekdxi5AN2jvicJN5CC8/EbVIlaT00tAj60Tm3RSzxrEfcQv36tUnhMS2DnP1ds8kn8WvvZXAOa+Mw84srcRuRSNluhtly8OtOCSX0AyfEk5xBJ6nNyv/05HsgaZjUksT8UM6+vxIQnWPtDAMyLVHS5Wv+iEoyWFDLqHjU9bWPfE1IkhcfXmrBm2BX/166IB8a7OjZNbWvyKa9xPAI22tpbQvWszjm1UeFjvCW7jXnZMbAKhpuVXRlM2jLqCH0qLP/bWCwxkV7Tvd/CTQJ1EaaJtMv0llAENXVXvdbt0K7gayqazXk2iBq+MDxHELXRr32OVyzJENdiRxqWZTlR5bkSK83i9CZpSAJkmdLAWAdi/qCE41Upvp4Mkn+AtcdW3dt6nH5FmPhxfLfOSwACfoiLc3p1xHHa99XyBtIzcp8fnLT3tZYE9opWBNfA==;whVkUlk+YOF3e17C/tIJnQ=="
 ---
 

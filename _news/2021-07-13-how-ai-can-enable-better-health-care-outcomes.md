@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/07/12/how-ai-can-enable-better-health-c
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/12/how-ai-can-enable-better-health-care-outcomes/amp/"
 type: article
 quality: 89
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "How AI can help create more caring company cultures"
+    excerpt: "There are already at least three areas where artificial intelligence can easily support a more empathetic workplace environment."
+    publishedDateTime: 2021-07-13T12:01:00Z
+    webUrl: "https://qz.com/work/2031109/how-ai-can-help-create-a-more-caring-company-culture/"
+    ampWebUrl: "https://qz.com/work/2031109/how-ai-can-help-create-a-more-caring-company-culture/amp/"
+    cdnAmpWebUrl: "https://qz-com.cdn.ampproject.org/c/s/qz.com/work/2031109/how-ai-can-help-create-a-more-caring-company-culture/amp/"
+    type: article
+    provider:
+      name: Quartz
+      domain: qz.com
+    quality: 87
+    images:
+      - url: "https://cms.qz.com/wp-content/uploads/2021/07/Robot.jpeg?quality=75&strip=all&w=1200&h=630&crop=1"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Health systems link up with Olive to solve healthcare admin woes with AI"
     excerpt: "An innovation institute run by six major health systems is teaming up with Olive to build AI-driven healthcare automation tools—here are the areas that they’ll prioritize to tighten up their finances."
     publishedDateTime: 2021-07-09T19:31:00Z

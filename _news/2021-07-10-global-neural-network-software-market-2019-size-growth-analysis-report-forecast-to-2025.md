@@ -101,14 +101,14 @@ related:
   - title: "Artificial Intelligence (AI) Market in Industrial Machinery Industry to grow by $ 458.68 million|Technavio"
     excerpt: "The artificial intelligence (AI) market in the agriculture industry market is set to grow by USD 458.68 million, progressing at a CAGR of"
     publishedDateTime: 2021-07-09T22:00:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/artificial-intelligence-ai-market-in-industrial-machinery-industry-to-grow-by-458-68-million-technavio/article_917a31d7-b21a-51c1-9005-9e2c9f9d1fb0.html"
+    webUrl: "https://www.troyrecord.com/news/national/artificial-intelligence-ai-market-in-industrial-machinery-industry-to-grow-by-458-68-million-technavio/article_25c3bf4e-291e-581e-9d99-f30a8b0173aa.html"
     type: article
     provider:
-      name: WFMZ-TV
-      domain: wfmz.com
+      name: Troy Record
+      domain: troyrecord.com
     quality: 36
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/8/63/8635831d-c3ca-5a24-b643-300bca1379fc/60e8c777dd85b.image.jpg?resize=1200%2C585"
+      - url: "https://bloximages.chicago2.vip.townnews.com/troyrecord.com/content/tncms/assets/v3/editorial/0/b6/0b6e2b92-6456-5b6a-b26e-f092a993135e/60e8cab506590.image.jpg?resize=1200%2C585"
         width: 1200
         height: 585
         isCached: true
@@ -204,7 +204,7 @@ related:
     provider:
       name: Reseller News
       domain: reseller.co.nz
-    quality: 3
+    quality: 5
 
 secured: "IY6IoKNAG6wW3XayyMvtyXY/YDWFX5b5RQ1avkCDeTRG+WT9DDcPkqGC1ThP5UaMIEDlb4DsbB9r20qDBZd6QsL2b/2A4GuGB2zpk1f3CEN3qg5NXcegYn46kXyo9J4+2WpelpSKe5xyY3I7eKSaJixDrIEwvQRJy6EryETUJCO6NkJIpggKfGHnPMMxAZUSTj+X4/bgKV6qI2ERz2HjpyGgPWYekyu00VQuyr8fC6gYngKMzL1rEHETArSc7EHemLE7GajNrGGpl+4SzyFv3RSvKG98FCw2pfsohiDcjoXZDP5ZChI9Qr/ZU8gFQ0QemKBAy5BqSB9LGLHTOHM3i2BEu2vSA5t7Nz8Ap7zMVRTDBD0idkTU4NXPCex9IawGE4FAbRermVDPsUtkcY8wcpXzi5oclVCvesj/s5MHz2j2/Cb9DDRFaLgIgHWdrl4BMldgKMiOj4L6q1u8TiaCUCrTbMcgaVXdJ7qYZqMOfOxV5Ohq6a3b1/Mi2+XSfyI0af7O/c237fJrZ3EZHPp/zQ==;bnXFca4muwJf5MEtJOK7qQ=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://nocamels.com/2021/07/technion-number-1-europe-artificial-i
 webUrl: "https://nocamels.com/2021/07/technion-number-1-europe-artificial-intelligence/"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -22,22 +22,6 @@ images:
     width: 1200
     height: 799
     isCached: true
-
-related:
-  - title: "Technion Ranked No. 1 in Europe in Artificial Intelligence"
-    excerpt: "Israel Institute of Technology on Mount Carmel, Haifa. Photo: Wikimedia Commons. CTech — The Technion’s efforts"
-    publishedDateTime: 2021-07-08T20:09:00Z
-    webUrl: "https://www.algemeiner.com/2021/07/08/technion-ranked-no-1-in-europe-in-artificial-intelligence/"
-    type: article
-    provider:
-      name: Algemeiner
-      domain: algemeiner.com
-    quality: 39
-    images:
-      - url: "https://www.algemeiner.com/wp-content/uploads/2019/09/Technion.jpg"
-        width: 720
-        height: 360
-        isCached: true
 
 secured: "tlxaprR8jiFY4etudqOv4/KzID212+SIbNSmRLpohvFDJqV1U3ZRBTMTBxg9xSnjAVq2bdBIsUCIXfxvL06E5aLMgQPI2j5373KK0v2vtaVq7zcuq/imH3udrwTSUowfryP1d+s0vGDKNw0H0pXGdzhnXhLuJD6UwbJ0Caes2GUCKGMyGfzeIv2G3bxJDF75WraIyl0algBkdAVXbmKldA4AO3jnkeB8rI0al7wPjLkHRPWP+4v/3EMvuq3FpnTCosD0U22H1mj9VV3nBw0MAn3f2PRNsVzxaFGM4vz+gKYYoNGnRKeXvL8T68m+qVYe3Yv/V/mB8s5jU/T1lmPCTZV0KHrPUZmGUKJdLlmMpXpxWucMNk3WZY0yVpRLdFAZ/o5IGSPR2o8AXzzJuG++rAVZ371Z2DqD/W566iE/3TRdNuRZw98oDH1TImK52x+1YPblDGQZ+hPqvMKgX1zuq9+WUfOl5uwSt11/maKAEwCT0zdwu7u526Q/MJzbSdQHBnfiZCj+lNfFXi6bzhEhTA==;nB6q9clxvRrL7JzG0U8P8A=="
 ---

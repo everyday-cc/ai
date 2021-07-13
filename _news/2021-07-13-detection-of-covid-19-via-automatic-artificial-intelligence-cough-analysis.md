@@ -22,70 +22,58 @@ topics:
   - AI in Healthcare
 
 related:
-  - title: "automotive self driving chip Industry Updates 2021: Global Market by COVID-19 Impact Analysis"
-    excerpt: "Global Market Research Report on automotive self driving chip Market 2021 is a professional and in-depth complete study on the current state of the automotive self driving chip worldwide. It estimates and forecasts the market,"
-    publishedDateTime: 2021-07-08T20:01:00Z
-    webUrl: "https://manometcurrent.com/automotive-self-driving-chip-industry-updates-2021-global-market-by-covid-19-impact-analysis/"
+  - title: "AI Tool Help Predict COVID-related Death Risk"
+    excerpt: "Artificial intelligence is being extremely helpful in health care settings. Researchers have designed a new AI tool that can predict death risk from COVID-19 among patients in both inpatient and outpatient settings."
+    publishedDateTime: 2021-07-12T09:22:00Z
+    webUrl: "https://www.medindia.net/news/ai-tool-help-predict-covid-related-death-risk-202216-1.htm"
+    ampWebUrl: "https://www.medindia.net/amp/news/ai-tool-help-predict-covid-related-death-risk-202216-1.htm"
+    cdnAmpWebUrl: "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/ai-tool-help-predict-covid-related-death-risk-202216-1.htm"
     type: article
     provider:
-      name: manometcurrent.com
-      domain: manometcurrent.com
-    quality: 45
-    images:
-      - url: "https://manometcurrent.com/wp-content/uploads/2021/07/Facial-Rejuvenation-Market-390x220.jpg"
-        width: 390
-        height: 220
-        isCached: true
-  - title: "Machine Learning Market Research Report with Size, Share, Value, CAGR, Outlook, Analysis, Latest Updates, Data, and News 2021-2028"
-    excerpt: "At the beginning of 2021, COVID-19 disease began to spread around the world, millions of people worldwide were infected"
-    publishedDateTime: 2021-07-11T22:42:00Z
-    webUrl: "https://www.marketwatch.com/press-release/machine-learning-market-research-report-with-size-share-value-cagr-outlook-analysis-latest-updates-data-and-news-2021-2028-2021-07-11"
+      name: Medindia
+      domain: medindia.net
+    quality: 39
+  - title: "MediCircle Health launches AI-powered instant Covid test in India"
+    excerpt: "Mumbai-based diagnostic company MediCircle Health on Monday launched a portable Covid-19 testing platform that is powered by machine learning and artificial intelligence and delivers results in just one second."
+    publishedDateTime: 2021-07-13T03:42:00Z
+    webUrl: "https://www.daijiworld.com/news/newsDisplay?newsID=852677"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
+      name: Daijiworld
+      domain: daijiworld.com
     quality: 39
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://www.daijiworld.in/images3/asha_13712_medicircle.jpg"
+        width: 400
+        height: 428
         isCached: true
-  - title: "Self-Driving Cars and Light Trucks Market Research Report with Size, Share, Value, CAGR, Outlook, Analysis, Latest Updates, Data, and News 2021-2028"
-    excerpt: "This report elaborates the market size, market characteristics, and market growth of the Self-Driving Cars and Light"
-    publishedDateTime: 2021-07-12T17:12:00Z
-    webUrl: "https://www.marketwatch.com/press-release/self-driving-cars-and-light-trucks-market-research-report-with-size-share-value-cagr-outlook-analysis-latest-updates-data-and-news-2021-2028-2021-07-12"
+  - title: "Mumbai-Base MediCircle Health Launches AI-Powered Instant Covid Test In India"
+    excerpt: "Mumbai-based diagnostic company MediCircle Health on Monday launched a portable Covid-19 testing platform that is powered by machine learning and artificial intelligence and delivers results in just one second."
+    publishedDateTime: 2021-07-13T07:32:00Z
+    webUrl: "https://swarajyamag.com/insta/mumbai-base-medicircle-health-launches-ai-powered-instant-covid-test-in-india"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 15
+      name: Swarajya
+      domain: swarajyamag.com
+    quality: 36
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://gumlet.assettype.com/swarajya%2F2021-07%2F83ec17cf-e336-4456-903b-d0a07f30e802%2Fbfca27349600af51e02170919c618ef0.jpg?w=1200&auto=format%2Ccompress&ogImage=true"
+        width: 599
+        height: 401
         isCached: true
-  - title: "Global Machine Learning in Medical Imaging Market Size, Status and Forecast 2021-2027"
-    excerpt: "Medical imaging analytics tools become more readily available, providers are likely to find strong incentives to investigate the best way to integrate artificial intelligence/machine learning into their imaging strategies. Machine Learning in Medical ..."
-    publishedDateTime: 2021-07-09T07:46:00Z
-    webUrl: "https://www.reportsnreports.com/reports/4655615-global-machine-learning-in-medical-imaging-market-size-status-and-forecast-2021-2027.html"
+  - title: "UW researchers find COVID-19 diagnoses made by artificial intelligence unreliable"
+    excerpt: "A UW Allen School team recently published an article in Nature Machine Intelligence finding models predicting COVID-19 diagnosis from X-rays are relying on shortcuts."
+    publishedDateTime: 2021-07-12T07:00:00Z
+    webUrl: "https://www.dailyuw.com/news/article_a9de3cbc-e2b3-11eb-89b2-8317006b58bc.html"
     type: article
     provider:
-      name: ReportsnReports
-      domain: reportsnreports.com
-    quality: 12
-  - title: "Global Conversational AI Market 2021-2026: Competitive Analysis, Impact of COVID-19, Ansoff Analysis - ResearchAndMarkets.com"
-    excerpt: "The “Global Conversational AI Market (2021-2026) by Type, Distribution Channel, Application and Geography - Competitive Analysis, Impact of COVID-19, Ansoff Analysis” report has been added to ResearchAndMarkets.com’s offering. The Global ..."
-    publishedDateTime: 2021-07-09T09:07:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/business-technology-0570205e10ea434e99a88642106e8f36"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 10
+      name: dailyUW.com
+      domain: dailyuw.com
+    quality: 32
     images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
+      - url: "https://bloximages.chicago2.vip.townnews.com/dailyuw.com/content/tncms/assets/v3/editorial/7/e6/7e66696c-e2d9-11eb-a343-0f1aab0d44e0/60ebdfaa0da7d.image.jpg?resize=1120%2C630"
+        width: 1120
+        height: 630
         isCached: true
 
 secured: "/MfTzmJ111Lu0BjzoFtSOwB2W4heZzCTR+OSLd4j+KIOR6T7lgRKmxFFakp0Efw3ELOBOJzk9RQoEOwJBumYPZaU9wbEr4omA7gOTVENfbtPj54N9eXGTZ/6R8zUp3I4xAJrOqnGMHCIqy9kB05ZVAeMTz0JmIdlsDYJIU/a55U7c1qPj/xoqAx2DDhO6PeUfQKwyusn20qhhaZ4g3wjuvjFnBieeO/ScwDAdv0cT+T9faRYME6y/kxcTSOgX6HswwQsL7+9U6kTS4vZZzewWwQsOBmF86nLIyuL2lwP3jwPeIkKexpzu7ywgG9sA7HU8Iq6N/4jsoTLJAk+bWLEVULUp2yWeifevOIjSdQRxUk=;FL6r1nkP8hsivj1gZv2Nyw=="

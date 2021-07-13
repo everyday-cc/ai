@@ -1,26 +1,30 @@
 ---
 category: news
 title: "DDN Boosts AI Storage Leadership with EXAScaler 6 and Expanded Portfolio for Enterprise Intelligent Infrastructure"
-excerpt: "Expanding on its global leadership in artificial intelligence (AI) and multi cloud data management solutions, DDN® is strengthening its commitment to enterprise AI"
-publishedDateTime: 2021-07-01T01:58:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/ddn-boosts-ai-storage-leadership-with-exascaler-6-and-expanded-portfolio-for-enterprise-intelligent-infrastructure/article_509526cc-fe93-53a7-ace4-b0d0f70a7319.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/ddn-boosts-ai-storage-leadership-with-exascaler-6-and-expanded-portfolio-for-enterprise-intelligent-infrastructure/article_509526cc-fe93-53a7-ace4-b0d0f70a7319.html"
+excerpt: "Expanding on its global leadership in artificial intelligence (AI) and multi cloud data management solutions, DDN® is strengthening its commitment to enterprise AI customers and channel partners with EXAScaler® 6 (EXA6) and expanding its portfolio of IntelliFlash ™ systems from Tintri,"
+publishedDateTime: 2021-07-01T02:12:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/ddn-boosts-ai-storage-leadership-with-exascaler-6-and-expanded-portfolio-for-enterprise-intelligent-infrastructure-1030569585"
+webUrl: "https://markets.businessinsider.com/news/stocks/ddn-boosts-ai-storage-leadership-with-exascaler-6-and-expanded-portfolio-for-enterprise-intelligent-infrastructure-1030569585"
 type: article
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI Hardware
   - AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/a/fc/afcd069f-109a-5e25-b5c1-2f230e1ec9d3/609a802dd1fff.image.jpg?resize=446%2C630"
-    width: 446
-    height: 630
+  - url: "https://mma.prnewswire.com/media/1191324/DDN_Logo.jpg"
+    width: 283
+    height: 400
     isCached: true
 
-secured: "iFsFBvqAT8aQbgJlDYYDiy4NyPnyaYJnHg+M4WdtfaTKs7EWT3RDw0uPZ7xBfehQf0lRBqy+0HqRBzk0WPMaDsRZnxNqGjCPjk21V7l3gZxlULcvQJugacnTGlZq7VqL1z/qSMPENkF6a+w94HqlC43REMNmZPxp/akVXQgVWUnvhX/Mc4Vb3S0OLCWimQgX22iNQR1znbNvDzCNdta2oM2fxewaZR86Yq08GkXsG+MxEs1zd7rkc7pyDPybF9feFhFBHlZ6RBbjKI3lObPHhj/iDzOsfkHk/2SdePtRbkS3wYsTGU2nGJIDoZcauKpBlCRERrmibiX7FXv9qTh+EOoNIquWjlAH9KnpJ3diu7PO0V48wxjJcXJrlOI2KURWb3997DvU0iptRUZ7TTKurCoaWEKkjbOqxErp57v6hVZIAOh9+GRHBNpp+yJ4G7NvLvh97oSyWGJXG2YKJls6k+H8uyO0K2jOFZxAgaARpdbuqFA29crL/kAPMJm9FyjRCo6rgp90eWoduC6dvKMLag==;9BiVgoqjOAuyQYn+mXW6/g=="
+secured: "PQPGmYHEYp7LZd1e9qb1wQPvKFhZDJUZAfGo7S78M30N7uUZDgstHfm1D53dibXm9NeclS+aH/VN0StTMD2VwZXNc32ZRlLtViPZGQu2V1YoQSvsmq2CT+O3pdHW4qB297yXwyojmckuGIL3ygJW5+N/UFj6K2Yn2d4Zr/0t75oJlbwJANX7+Iqyg7oIV78X0mTmPVPIIjCo+Wh+aM+jhXVphqQ/lAdoq41gwoTKlYuu4HCHgskaoCyBZV88OrmKBSbeLCmtSyJybPKaD0pFUV+RA/iAczmfdbh/wFMG3IcBQZA45mLde1pqs5JvZuSB/+H5pMkQvLtTxx5/QaEb1MZpy5Lo1iBcZyzPdAxRHn8=;oW+qql3OjmF0NEiBJFyOww=="
 ---
 

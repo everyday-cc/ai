@@ -101,14 +101,14 @@ related:
   - title: "Artificial Intelligence (AI) Market in Industrial Machinery Industry to grow by $ 458.68 million|Technavio"
     excerpt: "The artificial intelligence (AI) market in the agriculture industry market is set to grow by USD 458.68 million, progressing at a CAGR of"
     publishedDateTime: 2021-07-09T22:00:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/artificial-intelligence-ai-market-in-industrial-machinery-industry-to-grow-by-458-68-million-technavio/article_917a31d7-b21a-51c1-9005-9e2c9f9d1fb0.html"
+    webUrl: "https://www.troyrecord.com/news/national/artificial-intelligence-ai-market-in-industrial-machinery-industry-to-grow-by-458-68-million-technavio/article_25c3bf4e-291e-581e-9d99-f30a8b0173aa.html"
     type: article
     provider:
-      name: WFMZ-TV
-      domain: wfmz.com
+      name: Troy Record
+      domain: troyrecord.com
     quality: 36
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/8/63/8635831d-c3ca-5a24-b643-300bca1379fc/60e8c777dd85b.image.jpg?resize=1200%2C585"
+      - url: "https://bloximages.chicago2.vip.townnews.com/troyrecord.com/content/tncms/assets/v3/editorial/0/b6/0b6e2b92-6456-5b6a-b26e-f092a993135e/60e8cab506590.image.jpg?resize=1200%2C585"
         width: 1200
         height: 585
         isCached: true
@@ -204,7 +204,7 @@ related:
     provider:
       name: Reseller News
       domain: reseller.co.nz
-    quality: 3
+    quality: 5
 
 secured: "tASEGMtnGkEefej0fFSwFAGz/xTMRk7UeHR5vLpQCymcGAfK1ZrPI9K3dm02ZqkdrZwtGoHWHUa/Y95J4Yh4nJTgiE3WUaCmOceNEhO2fady2GaFZf/94pBP4Q5afapQw0Ierkqoxuwqb7UIv1NjQjR1V2Ek7itFWLBfYfuGXri2pf1oM97Ns8KADpzDZfNo9hP2pfeLoPm2st7FhuRfKUW8fnHz667gox5XhNmam3m71gCW0yKk5FZdfZJq6pIPIjIzgKNkoDC5SYa0iqqGi41EHw2r0uw2AKr/lHeZe+7W0Beh9MX7nL4kh73Hp/Be4QXASYMghSOnFuX402J5yiS/Wf/tbQsSykKgR2iZHSs=;Z/6myjME7GK3wnxra47azg=="
 ---

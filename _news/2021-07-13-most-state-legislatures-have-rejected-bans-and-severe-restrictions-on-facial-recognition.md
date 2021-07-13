@@ -25,19 +25,37 @@ images:
     isCached: true
 
 related:
-  - title: "Try-on facial recognition apps land cosmetics firms in court"
-    excerpt: "Two proposed class actions charge Mary Kay Cosmetics and Ulta Beauty with violating Illinois' Biometric Information Privacy Act with their try-on apps."
-    publishedDateTime: 2021-07-09T15:09:00Z
-    webUrl: "https://www.biometricupdate.com/202107/try-on-facial-recognition-apps-land-cosmetics-firms-in-court"
+  - title: "US sanctions a Chinese facial recognition company with Silicon Valley funding"
+    excerpt: "DeepGlint, also known as Beijing Geling Shentong Information Technology Co., Ltd., is a facial recognition company with deep ties to Chinese police surveillance, and funding from US-based Sequoia Capital."
+    publishedDateTime: 2021-07-09T17:42:59Z
+    webUrl: "https://www.theverge.com/2021/7/9/22570225/us-sanctions-chinese-facial-recognition-silicon-valley-funding"
+    ampWebUrl: "https://www.theverge.com/platform/amp/2021/7/9/22570225/us-sanctions-chinese-facial-recognition-silicon-valley-funding"
+    cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2021/7/9/22570225/us-sanctions-chinese-facial-recognition-silicon-valley-funding"
     type: article
     provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 39
+      name: theverge.com/2021/7/9/22570225/us-sanctions-chinese-facial-recognition-silicon-valley-funding
+      domain: theverge.com/2021/7/9/22570225/us-sanctions-chinese-facial-recognition-silicon-valley-funding
+    quality: 156
     images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/10/12124609/selfie-biometric-authentication.jpg"
-        width: 1200
-        height: 628
+      - url: "https://cdn.vox-cdn.com/thumbor/eGtjTnlDLWadmcCPthwq1RA4u_o=/0x0:640x355/1400x933/filters:focal(269x127:371x229):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/69562258/Hitachi_Kokusai_Electric_surveillance_system_640.0.jpg"
+        width: 640
+        height: 355
+        isCached: true
+  - title: "COVID-19: Facial recognition tech fights coronavirus in Chinese city"
+    excerpt: "BEIJING: Facial recognition tech linked to personal health codes has been rolled out in a Chinese city bordering Myanmar as authorities seek to squash a coronavirus outbreak. China is one of the world’s most surveilled countries,"
+    publishedDateTime: 2021-07-13T10:01:00Z
+    webUrl: "https://gulfnews.com/world/asia/covid-19-facial-recognition-tech-fights-coronavirus-in-chinese-city-1.80626315"
+    ampWebUrl: "https://gulfnews.com/amp/world/asia/covid-19-facial-recognition-tech-fights-coronavirus-in-chinese-city-1.80626315"
+    cdnAmpWebUrl: "https://gulfnews-com.cdn.ampproject.org/c/s/gulfnews.com/amp/world/asia/covid-19-facial-recognition-tech-fights-coronavirus-in-chinese-city-1.80626315"
+    type: article
+    provider:
+      name: Gulf News
+      domain: gulfnews.com
+    quality: 59
+    images:
+      - url: "https://imagevars.gulfnews.com/2021/07/13/Ruili-1626170218791_17a9f4c592b_medium.jpg"
+        width: 540
+        height: 405
         isCached: true
 
 secured: "nXarITmQgRnKaADGnsQxpft1kX3pyctHZDKhuESgsyUpxbePvOLJI9/JZDbFIC4vZfxsRmohSO79fz+WwFPpy39LxUMrkHbDsN1WGvcdN38ZzBf893qXy3ZEUzPWqTZYBXcRxb5K6NigGtlM3eTDhAMqi0P+QxYxH4i4xnas8ke41oSDCrbY1Ti3rrWJDs6T2pkob/eTWmauGqKL5HSEIM0ndHq/70N5dmxeHRyDaq3ak3GQnsCjdo3977oJkHpq8LbI9zmtgC0y2GoUU+MbNDQOFEbZl+AB8FHQRi8j9Vo5o5x+b5gaNsgH2PU9yWM5hVNCObIvq0MhZcixxLhs4RMewb5cPXbnRfa5aJWnzcyr6yfxFGlTFO4JSgBhhy6HWMSTNg3qpTENun5cRTl0VAjX47cz2JWD5R+5REzBv/9l+W79/kRUDuCLUaaitCEc/cV2a1rLuFUkNLQv7KrIxXf6mjuDaB6wUO7UxaFzKBili3AoEhdKmw+RIUdKwaoK0gynYj44z86bySnAye//kw==;ilSVqF1th0aWFhqEdokRlw=="

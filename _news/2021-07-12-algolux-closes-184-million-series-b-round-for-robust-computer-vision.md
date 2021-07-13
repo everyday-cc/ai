@@ -1,27 +1,27 @@
 ---
 category: news
 title: "Algolux Closes $18.4 Million Series B Round for Robust Computer Vision"
-excerpt: "Algolux's computer vision and image optimization solutions address the mission-critical issue of safety for ADAS and autonomous vehicles. Algolux is the first company to use computational imaging to design algorithms that treat the camera as part of the ..."
-publishedDateTime: 2021-07-12T13:05:00Z
-originalUrl: "https://www.prnewswire.co.uk/news-releases/algolux-closes-18-4-million-series-b-round-for-robust-computer-vision-813160058.html"
-webUrl: "https://www.prnewswire.co.uk/news-releases/algolux-closes-18-4-million-series-b-round-for-robust-computer-vision-813160058.html"
+excerpt: "New investment will serve to accelerate market adoption of Algolux's robust and scalable computer vision and image optimization solutions"
+publishedDateTime: 2021-07-12T13:00:00Z
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/algolux-closes-18-4-million-series-b-round-for-robust-computer-vision/article_2463f289-37fe-5f16-bcd4-e9afc907ccde.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/algolux-closes-18-4-million-series-b-round-for-robust-computer-vision/article_2463f289-37fe-5f16-bcd4-e9afc907ccde.html"
 type: article
 quality: 39
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.co.uk
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/1571390/Algolux_Algolux_Closes__18_4_Million_Series_B_Round_for_Robust_C.mp4?p=thumbnail"
-    width: 512
-    height: 288
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/9/4c/94c32bf1-ef68-536c-8c84-9af1c9d96a28/60ec3d841c887.image.jpg?resize=1120%2C630"
+    width: 1120
+    height: 630
     isCached: true
 
 related:
@@ -79,6 +79,6 @@ related:
       domain: tmcnet.com
     quality: 0
 
-secured: "0dDYR/9ez52+3V7KpMIqtBISshCXvmBIYYnPqyZk+kbb9oxyjEiddJDzJVua/mkb79LwbbE8z6rq/SBPpigCzJiHPa3l35suo3J1Hrt78Ol2TPGeDUfkL1yvLI5Lp4XIoVcTFKa0W9aGDifJsxj8+KBig95qMyHkI81tn0m+5XfcwTmy9oQrPHUva15ik4KnDNLb+7izVZkoHVewhDdbFVQK23sbUtp9S7aXInN5x6NsVqh66hRr3VqRmpRfb9Ng5IAZNBc0T9n4i53rtj/QY3k5BYmbFPxwpDF3O7mN0DR/xyFl99qRfgv17XmCV4zTMk8u6BoVi55qE7KCsnWVgJ0JVMhuHN27LRWtc6JL9SEFrMSe2NJujtDo4MhEYohUBcbmMWMqCGuTA4OPmyS8Xo79i2hGxXsgWi5Bz1yjN3hP+OXRJV/5mPGi3ZaZknZpPtowwcsG8IwvI8aCDT1gvi5uEjHFa1YO0wewgMFfZVO68nz6+UxI7T+2Y1EoGHx8NgVdxUjPPn+GxHpFVuPRPg==;AcL0/SCulXJqQoRhcAFVfA=="
+secured: "P2hruJ4Gy8yQb5eg66wd5cwz3c9BgMQzZ8D98drPlXYsFDKLVEfsLJRSz7jF8koKFMZEd2JhBII9vUN6d8Gm+iA6KSHwdxRwWpc2paV/NeEXKzZbb8CcwqBZ5cIAvI0ihE2rSLgqALaIW8XytfVPFUM+BK2e1ZTyjZsSaQori9AQbLTEUYNqRSUJP+U1nmjDstoWk8/gCs4566fQSo9QFHvsBwGymIy5YD5YbP4wuk3DZMHv4QE6bLsLDV3nrqOboMrOQzISqbkii8G0nDtrHGZn1c9Db9cvFL7N85G79mVAMf20b34KABAyOQMlwJ0MX80jDV1FhZPenHRPdfcYMjXgWgZfPh5dZr0VAYi6hgM=;3atW2vuh5zoD1azRU/LLoQ=="
 ---
 

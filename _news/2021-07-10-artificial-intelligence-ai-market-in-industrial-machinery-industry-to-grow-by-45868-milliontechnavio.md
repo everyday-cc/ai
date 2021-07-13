@@ -3,23 +3,23 @@ category: news
 title: "Artificial Intelligence (AI) Market in Industrial Machinery Industry to grow by $ 458.68 million|Technavio"
 excerpt: "The artificial intelligence (AI) market in the agriculture industry market is set to grow by USD 458.68 million, progressing at a CAGR of"
 publishedDateTime: 2021-07-09T22:00:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/artificial-intelligence-ai-market-in-industrial-machinery-industry-to-grow-by-458-68-million-technavio/article_917a31d7-b21a-51c1-9005-9e2c9f9d1fb0.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/artificial-intelligence-ai-market-in-industrial-machinery-industry-to-grow-by-458-68-million-technavio/article_917a31d7-b21a-51c1-9005-9e2c9f9d1fb0.html"
+originalUrl: "https://www.troyrecord.com/news/national/artificial-intelligence-ai-market-in-industrial-machinery-industry-to-grow-by-458-68-million-technavio/article_25c3bf4e-291e-581e-9d99-f30a8b0173aa.html"
+webUrl: "https://www.troyrecord.com/news/national/artificial-intelligence-ai-market-in-industrial-machinery-industry-to-grow-by-458-68-million-technavio/article_25c3bf4e-291e-581e-9d99-f30a8b0173aa.html"
 type: article
 quality: 36
 heat: -1
 published: false
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: Troy Record
+  domain: troyrecord.com
 
 topics:
   - AI in Robotics
   - AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/8/63/8635831d-c3ca-5a24-b643-300bca1379fc/60e8c777dd85b.image.jpg?resize=1200%2C585"
+  - url: "https://bloximages.chicago2.vip.townnews.com/troyrecord.com/content/tncms/assets/v3/editorial/0/b6/0b6e2b92-6456-5b6a-b26e-f092a993135e/60e8cab506590.image.jpg?resize=1200%2C585"
     width: 1200
     height: 585
     isCached: true
@@ -204,8 +204,8 @@ related:
     provider:
       name: Reseller News
       domain: reseller.co.nz
-    quality: 3
+    quality: 5
 
-secured: "xn4FqKViMrooxTMJFYnOOD5RLHSZMA/C2s8jI3/m/mXPH0V8hKtPfqCCHluCAiHxZn7sKeE5+SADpV2JKFWyjjaFYT1OeIYMJXFM9Is6fkgYS+nT4ivReLavqm7KqSacp2zYbhBG3J2RVQEHtsW9ifiULFA/q+57UWA2lP5UhSfQJRNfdx3WUmn/rOtASJN5lPAj9gbQxgVLnWaC38Oc0onS4V7rc696HRADn1FdloEnV6AyH/s/ABYbhXjZgYxikwqhoMv+zjcm+sHt2sESUc0roK0e1X6FOD55aa7Q8G2ED3JKVrGDxJZf4lHtTeLyBZMNg7Ebq5mt6RvRtbvaEDc+azKHOO9guFJKaxJvTnM=;ou39OchqB9wM4ILK8EBeyQ=="
+secured: "pPILZhf8TkrpgQsQvNvyaONrmX0wVNwjDMUVpedfZxdB+IBbCHLis/dF2jT2d24OAwr62pNUt9p/fyQvzey1oSShBbmZk84Ifz57lHUBxTqdXr8/7u5MZ4Abb4lvtBjBK2Cf2dctskXpGVQ6X+eOEiuMnlF0aJgTgs2dhIdbfEEBl1nmphqHT+AdNdUGVHjvPzybd4h0l+bwmaCa29CHypGKfZqtx2vaLOxnXTv3YJpFgAt4auzkbIfpMcn7TnHHHypJGQ7+49JQi6glMiTggd35QMv+B85SJhT5y1bWChRxQIE4oBUfQJBWiPzeno3M1Q5OvVq7bOxtNzC3ZsulD2gn5sEDWcYzpBSFpofvN8E=;hi94BI2/uj0v6HWZcRRNsA=="
 ---
 
