@@ -28,21 +28,14 @@ images:
 
 related:
   - title: "Artificial intelligence could be new blueprint for precision drug discovery"
-    excerpt: "Writing in the July 12, 2021 online issue of Nature Communications, researchers at University of California San Diego School of Medicine describe a new approach that uses machine learning to hunt for disease targets and then predicts whether a drug is likely to receive FDA approval."
-    publishedDateTime: 2021-07-12T18:28:00Z
-    webUrl: "https://medicalxpress.com/news/2021-07-artificial-intelligence-blueprint-precision-drug.html"
-    ampWebUrl: "https://medicalxpress.com/news/2021-07-artificial-intelligence-blueprint-precision-drug.amp"
-    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-07-artificial-intelligence-blueprint-precision-drug.amp"
+    excerpt: "Researchers have described a new approach that uses machine learning to hunt for disease targets and then predicts whether a drug is likely to receive FDA approval."
+    publishedDateTime: 2021-07-12T17:38:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2021/07/210712130142.htm"
     type: article
     provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 57
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2019/3-drug.jpg"
-        width: 1920
-        height: 1280
-        isCached: true
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 45
 
 secured: "Yt6cK2NoblOFovFchEmPGZTMLEBX4k0LsaSJeu1P6CqL7QmgFMv95E9aXKJMDpzJwAFjXC1rEmf0/C3YHyVUADucHDYnR6YpUSntFxdyvgw2OfbYtUAJet5ugKf9pZjJ13gpzloGkBTfgRjD5ZjLShrDJWFAJGF2TzWWuISKlJyL2l+Qi7o3r7lMULbswx+Sf1XQ8QI3Es3bmIebTp2WDVqaUwxVPEvx0Hr/ODSzLPdWDAgVZFTAHPgZ6eSXMdXoel9dtBjnRqvMfNTJ8Xww5Z1MClM2WYXI79c69NK7Gw0gttBpfvwF5yq21Y0od4UVYTEypK/op8VP1z9z0Oo0XyRGLHD0n+kWdSSrua56uxc=;Qee7raK8k/ecFeGaI8YvyQ=="
 ---

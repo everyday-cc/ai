@@ -2,58 +2,6 @@
   "page": 33,
   "value": [
     {
-      "path": "_news/2021-06-17-ibms-ai-mayflower-ship-is-crossing-the-atlantic-and-you-can-watch-it-live.md",
-      "title": "IBM’s A.I. Mayflower ship is crossing the Atlantic, and you can watch it live",
-      "excerpt": "IBM's autonomous, A.I.-powered ship is currently on its way across the Atlantic Ocean -- and thanks to some amazing tech, you can watch the journey live",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaltrends.com/features/ibm-ai-mayflower-autonomous-ship/",
-      "originalUrl": "https://www.digitaltrends.com/features/ibm-ai-mayflower-autonomous-ship/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://icdn.digitaltrends.com/image/digitaltrends/ibm-ai-mayflower-alone-3.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.digitaltrends.com/features/ibm-ai-mayflower-autonomous-ship/?amp",
-      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/features/ibm-ai-mayflower-autonomous-ship/?amp",
-      "publishedDateTime": "2021-06-16T14:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Trends",
-        "domain": "digitaltrends.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-06-17-andrew-ng-launches-a-campaign-for-data-centric-ai.md",
       "title": "Andrew Ng Launches A Campaign For Data-Centric AI",
       "excerpt": "Data is eating the world so Andrew Ng wants to make sure we radically improve its quality. “Data is food for AI,” says Ng, and he is launching a campaign to shift the focus of AI practitioners from model/algorithm development to the quality of the data they use to train the models.",
@@ -1171,6 +1119,58 @@
       "topics": [
         "AI in Autos",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-16-the-reality-behind-the-ai-illusion.md",
+      "title": "The Reality Behind The AI Illusion",
+      "excerpt": "Being actively involved in the global AI community, I've noticed that many people still associate AI with sci-fi Hollywood movies displaying the distant future powered by intelligent robots and machines.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/06/16/the-reality-behind-the-ai-illusion/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/06/16/the-reality-behind-the-ai-illusion/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F603e786d0bca97dcd24fb25a%2F0x0.jpg%3FcropX1%3D209%26cropX2%3D1404%26cropY1%3D0%26cropY2%3D672",
+          "width": 1195,
+          "height": 672,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/06/16/the-reality-behind-the-ai-illusion/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/06/16/the-reality-behind-the-ai-illusion/amp/",
+      "publishedDateTime": "2021-06-16T05:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
       ]
     }
   ],

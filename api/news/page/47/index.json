@@ -2,40 +2,6 @@
   "page": 47,
   "value": [
     {
-      "path": "_news/2021-06-07-apptek-selected-as-a-high-quality-automatic-speech-recognition-solution-provider-for-callminers-open-voice-transcription-standard.md",
-      "title": "AppTek Selected as a High-Quality Automatic Speech Recognition Solution Provider for CallMiner's Open Voice Transcription Standard",
-      "excerpt": "With AppTek's ASR technology as part of the CallMiner's OVTS ecosystem, businesses can now unlock the \"Voice of the Customer and Agent\" in over 30 languages and dialects while relying on the accuracy of AppTek's award-winning AI-enabled speech-to-text technology for the purpose of extracting actionable insights and business intelligence from 100% of voice interactions.",
-      "sourceUrl": null,
-      "webUrl": "https://www.morningstar.com/news/pr-newswire/20210607ph01040/apptek-selected-as-a-high-quality-automatic-speech-recognition-solution-provider-for-callminers-open-voice-transcription-standard",
-      "originalUrl": "https://www.morningstar.com/news/pr-newswire/20210607ph01040/apptek-selected-as-a-high-quality-automatic-speech-recognition-solution-provider-for-callminers-open-voice-transcription-standard",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-07T00:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Morningstar, Inc.",
-        "domain": "morningstar.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-06-07-machine-learning-at-the-edge-tinyml-is-getting-big.md",
       "title": "Machine learning at the edge: TinyML is getting big",
       "excerpt": "Being able to deploy machine learning applications at the edge is the key to unlocking a multi-billion dollar market. TinyML is the art and science of producing machine learning models frugal enough to work at the edge,",
@@ -1188,6 +1154,50 @@
       "topics": [
         "AI in Robotics",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-05-blaize-names-mark-glasgow-vp-of-worldwide-sales-to-pioneer-products-in-ai.md",
+      "title": "Blaize Names Mark Glasgow VP of Worldwide Sales to pioneer products in AI",
+      "excerpt": "Glasgow joins Blaize to lead and grow the Blaize sales organization seizing the substantial opportunity for Blaize pioneering products in the multi-billion-dollar market for AI in industrial edge, enterprise, and automotive/mobility segments. Blaize, the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.dqindia.com/blaize-names-mark-glasgow-vp-worldwide-sales-pioneer-products-ai/",
+      "originalUrl": "https://www.dqindia.com/blaize-names-mark-glasgow-vp-worldwide-sales-pioneer-products-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.dqindia.com/wp-content/uploads/2019/04/appointment.jpg",
+          "width": 600,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.dqindia.com/blaize-names-mark-glasgow-vp-worldwide-sales-pioneer-products-ai/amp/",
+      "cdnAmpWebUrl": "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/blaize-names-mark-glasgow-vp-worldwide-sales-pioneer-products-ai/amp/",
+      "publishedDateTime": "2021-06-04T22:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Dataquest",
+        "domain": "dqindia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "AI in Sales"
       ]
     }
   ],

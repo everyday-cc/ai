@@ -2,58 +2,6 @@
   "page": 38,
   "value": [
     {
-      "path": "_news/2021-06-13-what-waabis-launch-means-for-the-self-driving-car-industry.md",
-      "title": "What Waabi’s launch means for the self-driving car industry",
-      "excerpt": "Waabi claims its next-generation self-driving technology can scale autonomous driving technology research and make it commercially viable.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/06/12/what-waabis-launch-means-for-the-self-driving-car-industry/",
-      "originalUrl": "https://venturebeat.com/2021/06/12/what-waabis-launch-means-for-the-self-driving-car-industry/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/04/GettyImages-1291353648.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 601,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/06/12/what-waabis-launch-means-for-the-self-driving-car-industry/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/12/what-waabis-launch-means-for-the-self-driving-car-industry/amp/",
-      "publishedDateTime": "2021-06-12T16:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-06-13-ai-based-loan-apps-are-booming-in-india-but-some-borrowers-miss-out.md",
       "title": "AI-based loan apps are booming in India, but some borrowers miss out",
       "excerpt": "Mobile lending apps have mushroomed in India, but critics claim these apps misuse customer data and discriminate against marginalized groups.",
@@ -1242,6 +1190,51 @@
       "topics": [
         "AI Ethics",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-11-accelerating-deep-learning-on-the-jvm-with-apache-spark-and-nvidia-gpus.md",
+      "title": "Accelerating Deep Learning on the JVM with Apache Spark and NVIDIA GPUs",
+      "excerpt": "Accelerating Deep Learning on the JVM with Apache Spark and NVIDIA GPUs In this article, authors discuss how to use the combination of Deep Java Learning (DJL), Apache Spark v3, and NVIDIA GPU ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoq.com/articles/deep-learning-apache-spark-nvidia-gpu/",
+      "originalUrl": "https://www.infoq.com/articles/deep-learning-apache-spark-nvidia-gpu/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://res.infoq.com/articles/deep-learning-apache-spark-nvidia-gpu/en/headerimage/header+%2816%29-1623166971929.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-11T08:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoQ",
+        "domain": "infoq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Machine Learning",
+        "Google AI"
       ]
     }
   ],

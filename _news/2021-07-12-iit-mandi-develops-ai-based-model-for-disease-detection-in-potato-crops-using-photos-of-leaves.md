@@ -58,6 +58,22 @@ related:
         width: 1000
         height: 667
         isCached: true
+  - title: "AI Algorithm to Spot Cancer-causing Mutations Developed by IIT-Madras"
+    excerpt: "Madras have developed an Artificial Intelligence-based mathematical model to identify cancer-causing alterations in cells."
+    publishedDateTime: 2021-07-13T05:19:00Z
+    webUrl: "https://www.news18.com/news/buzz/iit-madras-develops-ai-algorithm-to-spot-cancer-causing-mutations-3957137.html"
+    ampWebUrl: "https://www.news18.com/amp/news/buzz/iit-madras-develops-ai-algorithm-to-spot-cancer-causing-mutations-3957137.html"
+    cdnAmpWebUrl: "https://www-news18-com.cdn.ampproject.org/c/s/www.news18.com/amp/news/buzz/iit-madras-develops-ai-algorithm-to-spot-cancer-causing-mutations-3957137.html"
+    type: article
+    provider:
+      name: CNN-News18
+      domain: news18.com
+    quality: 57
+    images:
+      - url: "https://images.news18.com/ibnlive/uploads/2021/07/1626153368_iit-madras-cancer-cells.png"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Scientists develops AI model to detect gravitational waves"
     excerpt: "A team of computational scientists and researchers has developed a new artificial intelligence (AI) framework that allows for"
     publishedDateTime: 2021-07-12T07:26:00Z

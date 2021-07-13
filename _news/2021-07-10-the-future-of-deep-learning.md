@@ -41,20 +41,6 @@ related:
         width: 640
         height: 251
         isCached: true
-  - title: "Deep Learning Offers the Potential to Improve the Video Streaming Experience"
-    excerpt: "In this contributed article, Christian Timmerer, Co-founder of Bitmovin, describes the findings of a recent paper that Timmerer and his team presented at IEEE’s International Conference on Communications and Image Processing which explores the use of Convoluted Neural Networks (CNNs) to improve video streaming."
-    publishedDateTime: 2021-07-08T13:00:00Z
-    webUrl: "https://insidebigdata.com/2021/07/08/deep-learning-offers-the-potential-to-improve-the-video-streaming-experience/"
-    type: article
-    provider:
-      name: insidebigdata.com
-      domain: insidebigdata.com
-    quality: 36
-    images:
-      - url: "https://insidebigdata.com/wp-content/uploads/2019/05/Deep_Learning_shutterstock_386816095.jpg"
-        width: 300
-        height: 240
-        isCached: true
 
 secured: "apEUR958+BfnCMK39Q8uH8gwjFxF3RoyMmCWj6PZQWYPzKPJzd8RcO3x0e/tHb5l/xPmdhC8lKbgGzhfGmTFue68Ogu3Chww+tnSn6OBmRP4DBTEM1Eecd2VcvPZbBL4d8Rcp5s6VBwng3VJFQ1AdA6dIkU4yzOVu8wTSYy7kvpa+v0ce9ZBodYeliYfQtBya0QVtvXgsNZozZLD8LRkabDwnxpUB+b/PspoI8alnOt2nC46OfSLUumUGtBUQpKteClajkOS6/ueAyefnIl6KID2jcGdiUy9v77Ytkw0L/9kJpvnR0we/VlCM+QBwxROihun/+G3Y3xIVtrG7j/4PdcgPB+jItTOYSZo+rbZF6ID7DH3o3yktlwTbFfn28/8Ak5sDHFYG/OngwM7HMVmCGhKsqyXA4rzdrwTjbOdt/ulj29A92REKcGK/dPRqv7Bp2SMNc3jGWqIeE/BmoHT13iDODIhqhb758MIiE9tcDFDPRxXWS1p0PpKUJh8pa4kQnRCr/GcLRWP3gGa5ycdUA==;ttPG71Ub167jewOkzyo5Xg=="
 ---

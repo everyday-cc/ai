@@ -1,27 +1,27 @@
 ---
 category: news
 title: "D2iQ Now Available in the Microsoft Azure Marketplace"
-excerpt: "D2iQ, a leading independent Kubernetes platform, today announced the availability of the D2iQ Kubernetes Platform (DKP), including"
-publishedDateTime: 2021-07-12T13:03:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/d2iq-now-available-in-the-microsoft-azure-marketplace-301331501.html"
-webUrl: "https://www.prnewswire.com/news-releases/d2iq-now-available-in-the-microsoft-azure-marketplace-301331501.html"
+excerpt: "D2iQ, a leading independent Kubernetes platform, today announced the availability of the D2iQ Kubernetes Platform (DKP), including D2iQ Kommander, D2iQ Konvoy, and D2iQ Kaptain, in the Microsoft Azure Marketplace,"
+publishedDateTime: 2021-07-12T13:07:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/2021/07/12/9406732.htm"
+webUrl: "https://www.tmcnet.com/usubmit/2021/07/12/9406732.htm"
 type: article
 quality: 69
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - Microsoft AI
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/1156495/D2IQ_Logo.jpg?p=facebook"
-    width: 2161
-    height: 1130
+  - url: "https://mma.prnewswire.com/media/1156495/D2IQ_Logo.jpg"
+    width: 400
+    height: 400
     isCached: true
 
 related:
@@ -39,19 +39,19 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Microsoft Launches Free Machine Learning Course For Beginners"
-    excerpt: "Microsoft has launched a free MIT-approved learning course titled “Machine Learning For Beginners” to teach students the basics of machine learning. The course duration is 12 weeks. Azure Cloud advocates and Microsoft student ambassador authors,"
-    publishedDateTime: 2021-07-08T12:30:00Z
-    webUrl: "https://analyticsindiamag.com/microsoft-launches-free-machine-learning-course-for-beginners/"
+  - title: "Reaching The $2 Tn Mark: Microsoft’s Top AI Projects"
+    excerpt: "After Apple, Microsoft recently became the only publicly traded American company to hit the $2 trillion market cap."
+    publishedDateTime: 2021-07-13T04:30:00Z
+    webUrl: "https://analyticsindiamag.com/reaching-the-2-tn-mark-microsofts-top-ai-projects/"
     type: article
     provider:
       name: Analytics India Magazine
       domain: analyticsindiamag.com
-    quality: 58
+    quality: 54
     images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/07/maxresdefault.jpg"
-        width: 1280
-        height: 720
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/07/Microsoft_AIM.jpg"
+        width: 896
+        height: 504
         isCached: true
   - title: "Qlik Recognized as a Finalist of 2021 Microsoft Analytics Partner of the Year Award"
     excerpt: "Qlik ® today announced it has been named a finalist of the 2021 Microsoft Analytics Partner of the Year Award. The company was honored among a global field of top Microsoft partners for demonstrating excellence in innovation and implementation of customer solutions based on Microsoft technology."
@@ -86,6 +86,6 @@ related:
       domain: tmcnet.com
     quality: 15
 
-secured: "fIHq2mp0mBxXbeEaCPwNs7yIp+Eo9qsY23dd9QzIV4mH7nuzK+NyXFebXGmsWti5rHeytUxh3lj7daSLq0lOvPZ4jxCg3XxV7EGqzjLI/jVeCUC9DFWK/17fw49M5ApHb0aDTgziMVGdYUW0cuC8dwjZTMc9j+SwG4cLCOKtJYgozZsmBgBiDqI2sUC8/gtdIGjksYtXQOPQzOL4cIHUXCBFmuVkousLw1t9OQ+8hhOamgaGoLoEbUah2pgvObkvLvNqWIJY6dhv04P/YjCmDHHDnXjw3AAu2niYxPZ6t9nxlisez8kx/AzUdXkuoN2JDMSVDzZ4rtSbIy/ymiAn3ixU/7hC4Y6GGANiN8I5ZOCXS5eoe08NeQj/6upi+mMscw+apEXqonq3W9PAeUygii5WXiKoBXRAl3DZAtufV7omSa9fXpgww08VzeQ1G808Ky4D8V52JTY+8KwuTrTHbti4iAQfWu8JL1nhE/V8nXbmR1Mkdvwihwmp9jh/TDPuJvzw1wV8REamarBg4cxBfw==;g9CkjiVzr6csd8X7R53sJQ=="
+secured: "26xXeK21047vM7hFt3Ot8ZSPh/TENLHQz1I+wVC9Q4GX5XaOdRGNl8gEnaSAkwwnkyQC2KzlahyV7BCe2NvINRixqNWfuP+xNoGgIW8u+yeX1pB0Nkmd4Vpz0TykPN+ULAEOq4ns9UU1wOyfquuLeh1fr8JTc5wePmJ7L/UIh4TS3NgyOec9yjDgKdWl0W1hsbudI/OsqpUQhr70X/GMbGbGJOG4bvIJl9zr/N83dPPWkOJGvFTM2CapLmcpPkctzubcjjvlCZezha1sQw4M5ojWzyc4oZi2wg/pmwGzWF4s9T6J1+o4/HpBUdvfZ0KHac2nR03kGG4vL3QJczV9u7VMfPUN5KqRSBidpYd5hoM=;io2vRm1NlyR8yTzPKnpYtA=="
 ---
 

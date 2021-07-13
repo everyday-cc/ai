@@ -77,22 +77,6 @@ related:
         width: 1440
         height: 810
         isCached: true
-  - title: "To Catch Teenage Gamers After Curfew, Chinese Company Deploys Facial Recognition"
-    excerpt: "Tencent Games says it has been using facial recognition to enforce China’s rules on how much time people under 18 can spend playing video games."
-    publishedDateTime: 2021-07-08T12:15:00Z
-    webUrl: "https://www.nytimes.com/2021/07/08/business/video-game-facial-recognition-tencent.html"
-    ampWebUrl: "https://www.nytimes.com/2021/07/08/business/video-game-facial-recognition-tencent.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/07/08/business/video-game-facial-recognition-tencent.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 84
-    images:
-      - url: "https://static01.nyt.com/images/2021/07/08/world/08china-videogame/08china-videogame-facebookJumbo.jpg"
-        width: 1050
-        height: 549
-        isCached: true
   - title: "Tencent’s face recognition tech stops kids from late-night gaming in China"
     excerpt: "Chinese tech company Tencent has announced that it is using facial recognition on mobile phones software to stop children from playing games late at night. According to The Register, Tencent sent out a press release stating that players will need to use facial recognition software that stops children playing between 10pm and 8am."
     publishedDateTime: 2021-07-09T01:10:00Z

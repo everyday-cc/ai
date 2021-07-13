@@ -2,57 +2,6 @@
   "page": 9,
   "value": [
     {
-      "path": "_news/2021-07-03-4-ways-ai-is-unlocking-the-mysteries-of-the-universe.md",
-      "title": "4 ways AI is unlocking the mysteries of the universe",
-      "excerpt": "Astronomers are turning to artificial intelligence and machine learning to build new tools to rapidly search for the next big breakthrough.",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/news/4-ways-ai-unlocking-astronomy-mysteries-universe-syndication",
-      "originalUrl": "https://thenextweb.com/news/4-ways-ai-unlocking-astronomy-mysteries-universe-syndication",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F07%2FTriangulum-Galaxy-hed-guillermo-ferla-kEEl9csCutg-unsplash-copy.jpg&signature=1e81bded5339458e45332f6121f52366",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-03T03:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-07-03-warming-trends-global-warming-means-happier-rattlesnakes-what-the-future-holds-for-yellowstone-and-fire-experts-plead-for-a-quieter-fourth.md",
       "title": "Warming Trends: Global Warming Means Happier Rattlesnakes, What the Future Holds for Yellowstone and Fire Experts Plead for a Quieter Fourth",
       "excerpt": "Science Good News for Rattlesnakes Contrary to a body of research showing that many plants and animals will suffer in a warming world, rising temperatures may actually help cold-blooded rattlesnakes thrive.",
@@ -1190,6 +1139,57 @@
         "Facebook AI",
         "AI",
         "AI in Marketing"
+      ]
+    },
+    {
+      "path": "_news/2021-07-02-india-covid-19-ai-shows-pakistani-twitter-prayed-for-neighbour.md",
+      "title": "India Covid-19: AI shows Pakistani Twitter prayed for neighbour",
+      "excerpt": "But an artificial intelligence (AI)-driven study which looked at thousands of tweets from Pakistan posted between 21 April and 4 May says an overwhelming number were indeed positive. Researchers, led by Ashiqur KhudaBukhsh of Carnegie Mellon University (CMU) in the US,",
+      "sourceUrl": null,
+      "webUrl": "https://www.bbc.com/news/world-asia-india-57683808.amp",
+      "originalUrl": "https://www.bbc.com/news/world-asia-india-57683808.amp",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/F36D/production/_119171326_gettyimages-1232570423-594x594.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.bbc.com/news/world-asia-india-57683808.amp",
+      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/world-asia-india-57683808.amp",
+      "publishedDateTime": "2021-07-01T16:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BBC",
+        "domain": "bbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
       ]
     }
   ],

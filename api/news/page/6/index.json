@@ -2,58 +2,6 @@
   "page": 6,
   "value": [
     {
-      "path": "_news/2021-07-07-ai-gives-development-tools-a-boost.md",
-      "title": "AI gives development tools a boost",
-      "excerpt": "Programming by example like this is another useful way of adding AI assistance to your development process. Microsoft Research’s PROSE (Program Synthesis using Examples) is already in use in Excel and in many Azure and Power Platform tools, as well as in ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/article/3623773/ai-gives-development-tools-a-boost.html",
-      "originalUrl": "https://www.infoworld.com/article/3623773/ai-gives-development-tools-a-boost.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2021/06/artificial_intelligence_automation_digital_brain_thinkstock_875595818-100749926-orig-100893865-large.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.infoworld.com/article/3623773/ai-gives-development-tools-a-boost.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3623773/ai-gives-development-tools-a-boost.amp.html",
-      "publishedDateTime": "2021-07-07T03:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-07-07-anyvision-the-controversial-facial-recognition-startup-has-raised-235m-led-by-softbank-and-eldridge.md",
       "title": "AnyVision, the controversial facial recognition startup, has raised $235M led by SoftBank and Eldridge",
       "excerpt": "AnyVision — an Israeli startup that has built AI-based techniques to identify people by their faces, but also related tech such as temperature checks to detect higher temperatures in a crowd ...",
@@ -247,8 +195,8 @@
       "title": "Carrington Associates weaves new hybrid cloud for SpinTel",
       "excerpt": "It recently played a key role in building an AI program for the Federal Court, whereby IBM Watson was trained to understand consent orders and court outcomes. “IBM is committed to providing the ...",
       "sourceUrl": null,
-      "webUrl": "https://www.arnnet.com.au/article/689617/carrington-associates-weaves-new-hybrid-cloud-spintel/",
-      "originalUrl": "https://www.arnnet.com.au/article/689617/carrington-associates-weaves-new-hybrid-cloud-spintel/",
+      "webUrl": "https://www.arnnet.com.au/article/689617/carrington-associates-weaves-new-hybrid-cloud-for-spintel/",
+      "originalUrl": "https://www.arnnet.com.au/article/689617/carrington-associates-weaves-new-hybrid-cloud-for-spintel/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -1186,6 +1134,40 @@
       ],
       "topics": [
         "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-06-cyberlinks-facial-recognition-technology-partners-with-asus-edge-computing-single-board-computers-to-create-smart-iotaiot-applications.md",
+      "title": "CyberLink's Facial Recognition Technology Partners with ASUS Edge Computing Single-board Computers to Create Smart IoT/AIoT Applications",
+      "excerpt": "CyberLink Corp. (5203.TW), a pioneer in AI and facial recognition technologies, today announced a partnership with ASUS, by integrating its FaceMe® AI",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesswire.com/news/home/20210706005212/en/CyberLinks-Facial-Recognition-Technology-Partners-with-ASUS-Edge-Computing-Single-board-Computers-to-Create-Smart-IoTAIoT-Applications",
+      "originalUrl": "https://www.businesswire.com/news/home/20210706005212/en/CyberLinks-Facial-Recognition-Technology-Partners-with-ASUS-Edge-Computing-Single-board-Computers-to-Create-Smart-IoTAIoT-Applications",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-06T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
         "AI"
       ]
     }

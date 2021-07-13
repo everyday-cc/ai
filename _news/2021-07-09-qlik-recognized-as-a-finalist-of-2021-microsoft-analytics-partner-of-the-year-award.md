@@ -40,32 +40,32 @@ related:
         height: 630
         isCached: true
   - title: "D2iQ Now Available in the Microsoft Azure Marketplace"
-    excerpt: "D2iQ, a leading independent Kubernetes platform, today announced the availability of the D2iQ Kubernetes Platform (DKP), including"
-    publishedDateTime: 2021-07-12T13:03:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/d2iq-now-available-in-the-microsoft-azure-marketplace-301331501.html"
+    excerpt: "D2iQ, a leading independent Kubernetes platform, today announced the availability of the D2iQ Kubernetes Platform (DKP), including D2iQ Kommander, D2iQ Konvoy, and D2iQ Kaptain, in the Microsoft Azure Marketplace,"
+    publishedDateTime: 2021-07-12T13:07:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2021/07/12/9406732.htm"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
+      name: TMCnet
+      domain: tmcnet.com
     quality: 69
     images:
-      - url: "https://mma.prnewswire.com/media/1156495/D2IQ_Logo.jpg?p=facebook"
-        width: 2161
-        height: 1130
+      - url: "https://mma.prnewswire.com/media/1156495/D2IQ_Logo.jpg"
+        width: 400
+        height: 400
         isCached: true
-  - title: "Microsoft Launches Free Machine Learning Course For Beginners"
-    excerpt: "Microsoft has launched a free MIT-approved learning course titled “Machine Learning For Beginners” to teach students the basics of machine learning. The course duration is 12 weeks. Azure Cloud advocates and Microsoft student ambassador authors,"
-    publishedDateTime: 2021-07-08T12:30:00Z
-    webUrl: "https://analyticsindiamag.com/microsoft-launches-free-machine-learning-course-for-beginners/"
+  - title: "Reaching The $2 Tn Mark: Microsoft’s Top AI Projects"
+    excerpt: "After Apple, Microsoft recently became the only publicly traded American company to hit the $2 trillion market cap."
+    publishedDateTime: 2021-07-13T04:30:00Z
+    webUrl: "https://analyticsindiamag.com/reaching-the-2-tn-mark-microsofts-top-ai-projects/"
     type: article
     provider:
       name: Analytics India Magazine
       domain: analyticsindiamag.com
-    quality: 58
+    quality: 54
     images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/07/maxresdefault.jpg"
-        width: 1280
-        height: 720
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/07/Microsoft_AIM.jpg"
+        width: 896
+        height: 504
         isCached: true
   - title: "Kwik Lok adds Microsoft executive to board"
     excerpt: "Jeff’s addition to Kwik Lok’s board of directors brings many opportunities to expand our innovation, collaboration and technology initiatives,” Kimberly Paxton-Hagner, Kwik Lok board chairwoman, said in a news release."

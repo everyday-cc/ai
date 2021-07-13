@@ -24,22 +24,6 @@ images:
     height: 1080
     isCached: true
 
-related:
-  - title: "The Really Useful Information Company Just Launched New AI Tools"
-    excerpt: "Artificial Intelligence has successfully permeated into daily life, yet most people are not even aware of how often they use it."
-    publishedDateTime: 2021-07-08T12:01:00Z
-    webUrl: "https://www.geeky-gadgets.com/the-really-useful-information-company-just-launched-new-ai-tools-08-07-2021/"
-    type: article
-    provider:
-      name: Geeky Gadgets
-      domain: geeky-gadgets.com
-    quality: 37
-    images:
-      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2021/07/new-AI-tools.jpg"
-        width: 700
-        height: 426
-        isCached: true
-
 secured: "AjOZcbO1n9tPhtX0XXsRRSxPJivikkWZ+qziaQtcGjhMpuzhnzinJFKIsoYFDPHMyjyPZsi8pDVDUy6u+Xsj66jQfLpQbYu8B2bvqK7eT5afNfoBd7O5tNdZulK2UQoCXp041RqfBMbYu1yRj9lY8KLZeFQyktOYbLqLlqrC1+4CX959viqnndDnFkQaVdnUMH7Zd86oeH39/KQSDOa9BiBbP8FrxFRKj0ndMAp6RanYbf73igDxAQU+ZvslLwzV5CEkXH29Yutvadxbszw0VwFA7FHl0Wu6nG1bUWksKIQB/gX/hU6he5ExQorvb70CXYPpCyDI9rLA87pUiepTwJKKKqoIYYLfTOz+rBsWFzuQ+NoC1acdyKrWh5mZQsfor+mnq35DVk5U6ako9B0JbRZhzhUmDV99LQlMOWSXezrePxRqskuBzxXY9ek7B1pbzZAaicWHKo0rv5FO5c9HZARdJQ28tJk1HHoYYW0kqf44gSs9aCIgTousMhLcbVl/lHCd0SmXl1tAMftMuzbBEw==;7rHVB84LkHLVf507MvsPLA=="
 ---
 

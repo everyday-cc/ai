@@ -42,6 +42,22 @@ related:
         width: 798
         height: 450
         isCached: true
+  - title: "AI Algorithm to Spot Cancer-causing Mutations Developed by IIT-Madras"
+    excerpt: "Madras have developed an Artificial Intelligence-based mathematical model to identify cancer-causing alterations in cells."
+    publishedDateTime: 2021-07-13T05:19:00Z
+    webUrl: "https://www.news18.com/news/buzz/iit-madras-develops-ai-algorithm-to-spot-cancer-causing-mutations-3957137.html"
+    ampWebUrl: "https://www.news18.com/amp/news/buzz/iit-madras-develops-ai-algorithm-to-spot-cancer-causing-mutations-3957137.html"
+    cdnAmpWebUrl: "https://www-news18-com.cdn.ampproject.org/c/s/www.news18.com/amp/news/buzz/iit-madras-develops-ai-algorithm-to-spot-cancer-causing-mutations-3957137.html"
+    type: article
+    provider:
+      name: CNN-News18
+      domain: news18.com
+    quality: 57
+    images:
+      - url: "https://images.news18.com/ibnlive/uploads/2021/07/1626153368_iit-madras-cancer-cells.png"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "IIT Mandi develops AI based model for disease detection in potato crops using photos of leaves"
     excerpt: "Researchers at the Indian Institute of Technology Mandi, have developed a computational model based on Artificial Intelligence (AI) for automated disease detection in potato crops"
     publishedDateTime: 2021-07-12T08:43:00Z

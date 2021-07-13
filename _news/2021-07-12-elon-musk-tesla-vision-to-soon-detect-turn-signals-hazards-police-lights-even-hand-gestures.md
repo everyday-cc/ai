@@ -96,6 +96,22 @@ related:
         width: 1440
         height: 810
         isCached: true
+  - title: "Tesla issues stark warning to drivers using its Full Self-Driving mode"
+    excerpt: "Tesla is warning drivers with the latest beta of its Full Self-Driving mode to use it with caution as it “may do the wrong thing at the worst time.”"
+    publishedDateTime: 2021-07-13T04:45:00Z
+    webUrl: "https://www.digitaltrends.com/news/tesla-issues-stark-warning-to-drivers-using-its-fsd-mode/"
+    ampWebUrl: "https://www.digitaltrends.com/news/tesla-issues-stark-warning-to-drivers-using-its-fsd-mode/?amp"
+    cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/news/tesla-issues-stark-warning-to-drivers-using-its-fsd-mode/?amp"
+    type: article
+    provider:
+      name: Digital Trends
+      domain: digitaltrends.com
+    quality: 89
+    images:
+      - url: "https://icdn.digitaltrends.com/image/digitaltrends/tesla-model-3-review-7563.jpg"
+        width: 1500
+        height: 1000
+        isCached: true
   - title: "Tesla finally releases Full Self-Driving Beta v9: here’s what it looks like"
     excerpt: "Tesla has finally released its highly-anticipated Full Self-Driving Beta v9 software update. Here’s what it looks like. It was a long time coming, but when CEO Elon Musk put an actual date on the release,"
     publishedDateTime: 2021-07-10T17:57:00Z

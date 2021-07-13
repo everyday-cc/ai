@@ -2,57 +2,6 @@
   "page": 58,
   "value": [
     {
-      "path": "_news/2021-05-28-how-to-master-googles-ai-phone-call-features.md",
-      "title": "How to Master Google's AI Phone Call Features",
-      "excerpt": "Your Android phone can do a lot of fancy tricks, from making reservations with Duplex or screening calls. Here's how to get the most out of them.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/how-google-ai-phone-features-work/",
-      "originalUrl": "https://www.wired.com/story/how-google-ai-phone-features-work/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.vanityfair.com/photos/576c493744d93e6e4482bb21/master/pass/placeholder_the_scene.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/how-google-ai-phone-features-work/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/how-google-ai-phone-features-work/amp",
-      "publishedDateTime": "2021-05-28T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-05-28-aws-makes-amazon-redshift-ml-generally-available.md",
       "title": "AWS makes Amazon Redshift ML generally available",
       "excerpt": "The move allows users to “leverage” Amazon SageMaker, a managed ML service, without moving data or learning a new skill, AWS claimed. Writing in a blog post, the cloud giant said Amazon ...",
@@ -1181,6 +1130,58 @@
         "Computer Vision",
         "AI",
         "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-28-ai-audio-and-video-chip-market-seeking-excellent-growth-amlogic-rockchip-allwinner-technology.md",
+      "title": "AI Audio and Video Chip Market Seeking Excellent Growth | Amlogic, Rockchip, Allwinner Technology",
+      "excerpt": "The latest released AI Audio and Video Chip market research of 91 pages suggests that the industry has made modest progress in tech-driven transformation since 2017. Many organizations have yet to scale their end use applications beyond pilots and proofs-of-concept.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/ai-audio-and-video-chip-market-seeking-excellent-growth-amlogic-rockchip-allwinner-technology-2021-05-27",
+      "originalUrl": "https://www.marketwatch.com/press-release/ai-audio-and-video-chip-market-seeking-excellent-growth-amlogic-rockchip-allwinner-technology-2021-05-27",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-27T12:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
       ]
     }
   ],

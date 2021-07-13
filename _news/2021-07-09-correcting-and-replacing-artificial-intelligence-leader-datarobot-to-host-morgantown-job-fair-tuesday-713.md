@@ -53,15 +53,6 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "Artificial Intelligence Leader DataRobot to Host Morgantown Job Fair Tuesday, 6/13"
-    excerpt: "DataRobot, the leader in Artificial Intelligence, will host a public job fair from 3-7 p.m. at Morgantown’s Erickson Alumni Center on Tuesday, July 13th. In June, DataRobot announced the opening of a new office at Vantage Ventures Morgantown headquarters."
-    publishedDateTime: 2021-07-08T12:30:00Z
-    webUrl: "https://www.morningstar.com/news/business-wire/20210708005816/artificial-intelligence-leader-datarobot-to-host-morgantown-job-fair-tuesday-613"
-    type: article
-    provider:
-      name: Morningstar, Inc.
-      domain: morningstar.com
-    quality: 43
 
 secured: "VtdbPlPcsriNKjsd8dbhmAccn512/7IIkpjqNcPABZB91S9GIbnnJA2cGSPZDyhYtD0UQRxOHsP8zxG3ilJyH+8KBUENsS9rcC1Ezmt2KJA0lZCUClR5sBibLsToDkSixaK66pHLtwSf4yVkJM89PSNiKE3m3I3eDjRxf3yco8K5akb8HhWIMVZqAK3m5lb+SMlprJNfT8CisGBQPXyM14iggERkwbC78BTMQaB++XTsRUAbXJnKpj1GiW6Ro0pFQdr6J7GHOPpreR1a5P7jqWJ1ERVLK3SBUZVnlqXV7S6UHMPXNq3ACmUhBaYwCMHaVPif7We51Vl/F6gVtGOried4PajRb8FNrck7XxTjW8w=;h5pWipIB38JX7+W0wwMEUw=="
 ---

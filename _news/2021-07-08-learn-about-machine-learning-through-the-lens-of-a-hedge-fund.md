@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/garydrenik/2021/07/08/learn-about-machi
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/garydrenik/2021/07/08/learn-about-machine-learning-through-the-lens-of-a-hedge-fund/amp/"
 type: article
 quality: 93
-heat: 113
+heat: 103
 published: true
 
 provider:
@@ -46,20 +46,6 @@ related:
       - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/07/Deep-Learning.jpeg"
         width: 1600
         height: 900
-        isCached: true
-  - title: "Deep Learning Offers the Potential to Improve the Video Streaming Experience"
-    excerpt: "In this contributed article, Christian Timmerer, Co-founder of Bitmovin, describes the findings of a recent paper that Timmerer and his team presented at IEEE’s International Conference on Communications and Image Processing which explores the use of Convoluted Neural Networks (CNNs) to improve video streaming."
-    publishedDateTime: 2021-07-08T13:00:00Z
-    webUrl: "https://insidebigdata.com/2021/07/08/deep-learning-offers-the-potential-to-improve-the-video-streaming-experience/"
-    type: article
-    provider:
-      name: insidebigdata.com
-      domain: insidebigdata.com
-    quality: 36
-    images:
-      - url: "https://insidebigdata.com/wp-content/uploads/2019/05/Deep_Learning_shutterstock_386816095.jpg"
-        width: 300
-        height: 240
         isCached: true
 
 secured: "FMTGPkwGWc07i7MI6C+smKhgYM6IkLE0Y8cooeQtsyyD6B3yi8Fi+NoIlm6/3eQRfUQoyIch9xrxq5yMHCv9fFBVsYeBUJjBEvKiPsyQyxVLqIobusTQhfASnihJIHJBWyrbMnyrXt2zR1boZqtcFb980G6D4kUpuQy71mUXLmbDcBEbM/ZpSrYg3grpbZ/r4MTyUisX2CdUsmqmSxu/KdNhbaKAYhrK9L+sWwCYxo/sZlcZABLXfCGuLMj77rSw6F19VWyauVbfS9k9y0CfJje6+tS/OckY/jIbL7mtwJvjAORzkSK4pIGADYygn4vMn0lG7tkZRLFUL8Y22T7m0MYZSAOCZPtglA4VFmqdozsr5BF2gtLQ4T6QVq5Qd3EAjtpN8I2hY6ZW9nW9spP6LlqWpNkG/JP+2Hb5SfOQ24OSNLxWFVKkDakqKmBHB0HfYcO/4aKDVJKCqV3biYoIqbRgjU9fawf44FWy0XjF3XDh/GGJnnhii32o9zxhfHuwKyWz47d3So0P8BMfhlWrVA==;/3CYluJjF8ALctn6dcQ5oA=="
