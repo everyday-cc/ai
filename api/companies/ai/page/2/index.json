@@ -61,7 +61,7 @@
       "twitter": {
         "username": "moveworks",
         "url": "https://twitter.com/moveworks",
-        "followers": 3631
+        "followers": 3632
       },
       "size": "51-200 employees",
       "yearFounded": 2016,
@@ -179,7 +179,7 @@
       "twitter": {
         "username": "anduriltech",
         "url": "https://twitter.com/anduriltech",
-        "followers": 9264
+        "followers": 9265
       },
       "size": "51-200 employees",
       "yearFounded": 2017,
@@ -228,7 +228,7 @@
       "twitter": {
         "username": "clearbit",
         "url": "https://twitter.com/clearbit",
-        "followers": 4174
+        "followers": 4175
       },
       "yearFounded": 0,
       "locations": [
@@ -270,7 +270,7 @@
       "twitter": {
         "username": "zoox",
         "url": "https://twitter.com/zoox",
-        "followers": 17982
+        "followers": 17986
       },
       "size": "1,001-5,000 employees",
       "yearFounded": 2014,
@@ -334,7 +334,7 @@
       "twitter": {
         "username": "DidiGlobal",
         "url": "https://twitter.com/DidiGlobal",
-        "followers": 3551
+        "followers": 3552
       },
       "size": "5,001-10,000 employees",
       "yearFounded": 2012,
@@ -378,7 +378,7 @@
       "twitter": {
         "username": "NAVYA_Group",
         "url": "https://twitter.com/NAVYA_Group",
-        "followers": 9178
+        "followers": 9179
       },
       "size": "201-500 employees",
       "yearFounded": 2014,
@@ -429,7 +429,7 @@
       "twitter": {
         "username": "argoai",
         "url": "https://twitter.com/argoai",
-        "followers": 6065
+        "followers": 6067
       },
       "size": "501-1,000 employees",
       "yearFounded": 2016,
@@ -535,7 +535,7 @@
       "twitter": {
         "username": "SkydioHQ",
         "url": "https://twitter.com/SkydioHQ",
-        "followers": 11584
+        "followers": 11585
       },
       "size": "51-200 employees",
       "yearFounded": 2014,
@@ -587,7 +587,7 @@
       "twitter": {
         "username": "Matterport",
         "url": "https://twitter.com/Matterport",
-        "followers": 13229
+        "followers": 13230
       },
       "size": "201-500 employees",
       "yearFounded": 2011,
@@ -613,6 +613,57 @@
           "height": 400,
           "title": "logo",
           "isCached": false
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_companies/q-ctrl.md",
+      "title": "Q-CTRL",
+      "excerpt": "The world is witnessing the dawn of a new industry.  We’ll help you take control of your quantum future.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/q-ctrl/index.json",
+      "webUrl": "https://everyday.cc/ai/company/q-ctrl/",
+      "type": "profile",
+      "name": "Q-CTRL",
+      "overview": "The world is witnessing the dawn of a new industry.  We’ll help you take control of your quantum future.",
+      "website": "https://q-ctrl.com/",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/q-ctrl/",
+        "followers": 1236
+      },
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/q-ctrl"
+      },
+      "twitter": {
+        "username": "qctrlHQ",
+        "url": "https://twitter.com/qctrlHQ",
+        "followers": 3339
+      },
+      "size": "11-50 employees",
+      "yearFounded": 2017,
+      "locations": [
+        "SYDNEY, NSW"
+      ],
+      "funding": {
+        "status": "Early Stage Venture"
+      },
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=Ez300fBAfY8"
+        }
+      ],
+      "heat": 103,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1067192828151754753/pJVi1G-6_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Q-CTRL",
+          "isCached": true
         }
       ],
       "content": "\r\n"
@@ -720,57 +771,6 @@
       "content": "\r\n"
     },
     {
-      "path": "_companies/q-ctrl.md",
-      "title": "Q-CTRL",
-      "excerpt": "The world is witnessing the dawn of a new industry.  We’ll help you take control of your quantum future.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/q-ctrl/index.json",
-      "webUrl": "https://everyday.cc/ai/company/q-ctrl/",
-      "type": "profile",
-      "name": "Q-CTRL",
-      "overview": "The world is witnessing the dawn of a new industry.  We’ll help you take control of your quantum future.",
-      "website": "https://q-ctrl.com/",
-      "linkedin": {
-        "url": "https://www.linkedin.com/company/q-ctrl/",
-        "followers": 1236
-      },
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/q-ctrl"
-      },
-      "twitter": {
-        "username": "qctrlHQ",
-        "url": "https://twitter.com/qctrlHQ",
-        "followers": 3338
-      },
-      "size": "11-50 employees",
-      "yearFounded": 2017,
-      "locations": [
-        "SYDNEY, NSW"
-      ],
-      "funding": {
-        "status": "Early Stage Venture"
-      },
-      "topics": [
-        "AI",
-        "AI Hardware"
-      ],
-      "videos": [
-        {
-          "url": "https://www.youtube.com/watch?v=Ez300fBAfY8"
-        }
-      ],
-      "heat": 102,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1067192828151754753/pJVi1G-6_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Q-CTRL",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
       "path": "_companies/affirm.md",
       "title": "Affirm",
       "excerpt": "At Affirm, we’re using today’s technology to bring significant disruptive innovation to the financial industry. We focus on improving the lives of consumers by delivering simple, honest and transparent financial products.",
@@ -849,7 +849,7 @@
       "twitter": {
         "username": "flatironhealth",
         "url": "https://twitter.com/flatironhealth",
-        "followers": 10469
+        "followers": 10468
       },
       "size": "501-1,000 employees",
       "yearFounded": 2012,
@@ -904,7 +904,7 @@
       "twitter": {
         "username": "deeplcom",
         "url": "https://twitter.com/deeplcom",
-        "followers": 10458
+        "followers": 10459
       },
       "yearFounded": 0,
       "locations": [
@@ -1071,7 +1071,7 @@
       "twitter": {
         "username": "zscaler",
         "url": "https://twitter.com/zscaler",
-        "followers": 10654
+        "followers": 10655
       },
       "yearFounded": 0,
       "locations": [
@@ -1275,7 +1275,7 @@
       "twitter": {
         "username": "rev",
         "url": "https://twitter.com/rev",
-        "followers": 9554
+        "followers": 9555
       },
       "size": "51-200 employees",
       "yearFounded": 2010,
@@ -1590,7 +1590,7 @@
       "twitter": {
         "username": "h2oai",
         "url": "https://twitter.com/h2oai",
-        "followers": 21953
+        "followers": 21954
       },
       "size": "51-200 employees",
       "yearFounded": 2012,

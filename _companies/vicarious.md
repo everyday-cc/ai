@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "vicariousinc"
   url: "https://twitter.com/vicariousinc"
-  followers: 45
+  followers: 44
 
 size: 51-200 employees
 locations:
