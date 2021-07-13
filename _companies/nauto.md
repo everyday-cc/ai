@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "NautoInc"
   url: "https://twitter.com/NautoInc"
-  followers: 3587
+  followers: 3588
 
 size: 51-200 employees
 yearFounded: 2015
@@ -45,6 +45,6 @@ images:
     height: 400
     title: "logo"
 
-secured: "WkD69JmKDaCeMd52xkXY6Z0VO70lwkK3gSQrWyUmg5zSGQc7HCx/QNhy0BsSx2pSQDnMTu+kQNabk2ElzJc6ytMIxFjV1DusNGfUpvl2t8ukYJr3Ndapu60DWyrGbZahE2t/nHKwM2HaDoEVYjIrCzTNWST+9ikrmf6Jz0HU2+1K88rWtxF0WQ+SxvfPdYt089j69mRcyUVvUG6KBVKbBOj5arulwENUnXc7PdGI0rSaeIgRmlqi080SzM3L71XSUlSjIEDdtP2BABzNA9W9QhZpu8Be/h4vWyvriMLQYK3Cd1SRRnUPxZM/1QQI7XPmwO8aSTqEd0n1J3dr9UuLwd2/ZT7HHT8sA2CBpLetYHZqps8RrZWfiapxEHunXQ7ydQK4L5d35INMI+67n3eVffNQIFcx8Pmp+YM9/cXA/cc=;7QCvJyKfcMcLJzol69XT5A=="
+secured: "FqjmxIPDEdZ384utXJVburx0r1pz0JklRD2maCSAlOrZmKP67njTzgq9V+syJzsw+sU32aTD6hmyGAqyDTt0Qq5NA6sFkWnI1dk/G4x2I2ANVvKIuEi0Nt1OXgPj1oNYDHQ+M3Yj1dPf4R1jecWFXkcWFbKt8eu+3eSEGxgM5fSW0EmZBoNbumLt/Y5VxpheBykkqhpUlybWaFyZB9Jo1IZNhGygGnugZwO7iAUaYEWORhQpcpcjJOwGZjhMCDw1/A3AEFvmJAMB7w3XLqIDCRoR601J4enhsdN8cCspxBoUyiBjHgxCeC9/E6khz8eszxj4sTo+Uxd00EP/92RnNacH02AmiItnOx4en1QPz2Z+KLFLtIx65LiNX8J6B1LkyC/r3dXk2U8ZCy/LMQXn5ttJb08dLZiffNmuuhk7MvU=;jXQYxabYq6eBRz9djj40hQ=="
 ---
 

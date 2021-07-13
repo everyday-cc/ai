@@ -2,7 +2,7 @@
 name: "Reply.ai"
 overview: "Reply.ai makes customer service faster and smarter by automating repetitive processes and delivering instant and personalized attention on messaging channels."
 type: "profile"
-heat: 50
+heat: 72
 
 website: https://www.reply.ai/
 
@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "replydotai"
   url: "https://twitter.com/replydotai"
-  followers: 1484
+  followers: 1485
 
 size: 11-50 employees
 yearFounded: 2016
@@ -41,6 +41,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=m4FgFkrL0wI"
 
-secured: "A7QyBqBOnPR+tPjziHOXmwK+aMkX886L9TkIYRMLdNHlv/8n6nEJ9LBndpRUWRtPJjZqzgP/yHqjxqglE08feVLODBt06XyOFRBSlAskENeFmnjPdafGcsC6Anh1mrpdCzJ+0+T6gbvhRA5qHGG6ZxnZS5YuJ0O0U4uDA4HVL02xFPnBdq5+DBb6wo7Cpe9zRYmsPtoFByn3Scf1cIsiU7ZziicDFoMuyVI0HFmbjGdrcs3oob7DrTvt4q3cLdaknjeWOsky9JkgdDsUdqecAniMccdOAAtZW3NP213stZojlTjI3VkgP+P9XEHwri32scGbdAiAYvi4D+YNrzcVKveQ2DTduoSe+ubzE0lfS0407C8eTblVdVA2MYzAdtIuJ704qrZd1VpoxXyk/dOKbv+LBmqWnInuErDf1RuRh4E=;fHTF1Rv4uEnhFgXHul0q4w=="
+secured: "Z+9LeWIGcIHEYFgR5WwKRyuNDOiDDejEtL1jTDCvvkgxRKFyZS4UxLetKkoghMsJGdMLYsq5woZ9VTAvZoC/jy1GyNkw+b2dzbOTNKGW6T78USF1mq+wYhtpRREdBHreyImRLcEs2QIXCFjBSFVI3qr/f7W2wLJ/D2hnI8tbKJ8yeU1quJNDrVN7vSqVgmEG8i++uNiBRSbQLDWSXGyaAUeOn9y+BR65rx69sOm+Ao3QTEPz4dDFrrpVxGfeYea2/XByIwKgVqLsg/PTyQ2C6M0HgM5E+bQMKp4x1YHFCRZw06BGkv6qtH5cH91ddjp1UdHFTNmEFfKsKL1F+Ln/NEY1qujgoqJKVs0HT68lCWXN6jdS2Jf4FurCtxW9Bp5Xwo96p+QsSRKkqvO1RiWZivlqvFmkkww6bOpSpoVHQ7E=;2+OuYfUxD926aN3H+SZp8Q=="
 ---
 
