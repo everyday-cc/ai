@@ -25,21 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "Emotion AI Is Transforming the Way We Game"
-    excerpt: "By: Ranjan Kumar, CEO of Entropik Tech Emotion AI is rapidly advancing as applications become more widespread, and the technology becomes more dynamic with 2021 positioned as a breakout year. But exactly how much Emotion AI surrounds people through their computers,"
-    publishedDateTime: 2021-07-08T09:20:00Z
-    webUrl: "https://techbullion.com/emotion-ai-is-transforming-the-way-we-game/"
-    ampWebUrl: "https://techbullion.com/emotion-ai-is-transforming-the-way-we-game/amp/"
-    cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/emotion-ai-is-transforming-the-way-we-game/amp/"
+  - title: "Promoting Trustworthy AI in Government"
+    excerpt: "Successful agencies will do more than just innovate and invest in technology; they will work to ensure that AI in government is safe, reliable, and ethical."
+    publishedDateTime: 2021-07-08T15:00:00Z
+    webUrl: "https://www.nextgov.com/ideas/2021/07/promoting-trustworthy-ai-government/183124/"
     type: article
     provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 57
+      name: Nextgov
+      domain: nextgov.com
+    quality: 39
     images:
-      - url: "https://techbullion.com/wp-content/uploads/2021/07/emotion-AI.jpg"
-        width: 838
-        height: 475
+      - url: "https://cdn.nextgov.com/media/img/cd/2021/07/07/NGai20210707/open-graph.jpg"
+        width: 400
+        height: 400
         isCached: true
 
 secured: "vjcERgH/OPKlxCdCRzff4YUybwaZKknawtLrGYycYoIhR2VrVoqqGrZcv17FkIlXfJArEoeAkMGYnNF/L0zNmaeN09EObhwW2AZ6skRDQZUXCcUZelVDybdfPpqcDiDXxyeyv5QGhlLge8Ia/XL4g3VwwYEKqM8ZSX1c3viaAIZcKNaKssT19n2RfkmOb+oXvL+PQqbE+ogqBrghyLSVAnXS/BXn6SVH2zFJUk3InMicrdBedXtUAx22F9pa8mOimhhHa4gD8zsSiXzLpRFse395dbiG/PJDHseM9X0pz/ZvWrVF2QrkpenlQfhxXJY49YsGiTGrVXDyQ6RL2mtezs8/fgSqGf2U0DhrYL/TGAcyDzwO015pYEpmhQBABEgW4vBl5SNZ2OrcfpEtjnztPssDOEi1Y1N7ggov9FKbs3ewSkr2gLIgUTOdE2dkWWzHqpwRb6oa7rkDpTHFBo+uMJBACnJ6xfajNZpDVHamkg2l9gV8lFzG3WD9Iw7VUWEAjIqI4XCVMGWLrCEVV3/F9w==;TbPHIwmQ5k1hA0AVJIYEEQ=="

@@ -1,18 +1,18 @@
 ---
 category: news
 title: "Halo and Las Vegas Launch Driverless Car Service Powered by T-Mobile 5G"
-excerpt: "Driverless Halos solve transportation challenges ... safety hazard or system anomaly is detected. Using an advanced Artificial Intelligence algorithm, the car also learns in the background while ..."
-publishedDateTime: 2021-07-08T13:10:00Z
-originalUrl: "https://www.morningstar.com/news/business-wire/20210708005541/halo-and-las-vegas-launch-driverless-car-service-powered-by-t-mobile-5g"
-webUrl: "https://www.morningstar.com/news/business-wire/20210708005541/halo-and-las-vegas-launch-driverless-car-service-powered-by-t-mobile-5g"
+excerpt: "G is beginning to power everything from connected farms to connected cars! Today, Halo launched one of the first commercial driverless car services in the U.S. running on the T-Mobile ( News - Alert) (NASDAQ: TMUS) 5G network in Las Vegas."
+publishedDateTime: 2021-07-08T13:14:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/2021/07/08/9405394.htm"
+webUrl: "https://www.tmcnet.com/usubmit/2021/07/08/9405394.htm"
 type: article
 quality: 19
 heat: -1
 published: false
 
 provider:
-  name: Morningstar%2c Inc.
-  domain: morningstar.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI in Autos
@@ -148,6 +148,6 @@ related:
         height: 600
         isCached: true
 
-secured: "o8d5FObee5knSNu+PqJJzzhxnn0TCa5vmFGLN8pXxt1vD2BOLPdor6O05ikpPJWBxoJ8/mXhxc2EzlEuBlmxzjgaUNSVgHgpFkYHxcgRnIgBl5Oc0hw0WvZfpVJ227ynjJw6QNdE8MzENa7JdvcrBRk9+JA0oo+0DkCUSXRQkmu1hdaQHpBnpBi5d2lO/c7c3brzljUUUvXiHPLKlciZk3uxjrprKTntQ58eXRoJB6Am85AcwCONmjUOaQxU6GFyIUC/9ok3MWwYIjXcXRIf6tmY67+CCSej1BuKYp3nlT3gQvU2+Zaa7Y3N3u0CezhQh5sW/0BjHbC09eE8A23Wa+p7584y1nqAbEOshgQw/Z8=;pyM1NNEGlLTKZDRYj1YHDQ=="
+secured: "YjR3fC/J9XmqeTSwZSrCn3zR0dI1iszy5CV5Y7FqCyvvlLCfnyAxQVCDH2PHGLAvJVAZV99GBrAKl5E9LCkSc/cFN9X0VgtCEJEE3Qw5H3z+fYjv/1IYMOHL0VXNvJbdlzKUCjIhF2mPp8zLAP7sLogeWoiyU7HQWRxEn4c9/qkTzmIsgOPLj5nKhUfzOoyCh53wgKvDz/bYPNQsegE5hf1HXe7VwbDvAl24WGsFTUG1wKaAzDsHhaUoAvHO8vpmqp6OmHo0ix2Fj+Uia0goanUrZH+MRSXG+y3DfO4KNXjZXTQPubUglUoclg5p3M91+BZI8Nvi+DGVut9WhRrsoTwoVMbR3qZZa5FFdaJuYsDZdUryDt8as2qJ6bMKR8amgnjIi2n9W+buelmbBu7DvLShdlx/DO2dFWFdAFYtNxSTvjuk7zs7G9WbulGcVLh+LOFf8jr5/QMtwx0w44w64CBEHX6yrIPYF6u3d4XrHV+iZ2qxAf/BUOBjxq0Pe8mM3OgRiIyJr4V5TjbZM93RyA==;wyg5+RlnOTfltR7Np93Sjg=="
 ---
 

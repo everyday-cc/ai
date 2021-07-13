@@ -73,6 +73,20 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Artificial Intelligence Is On The Side Of Apes? Tesla-Fame's AI-Based ETF Sells Facebook, Walmart And Buys AMC"
+    excerpt: "The Qraft AI-Enhanced US Large Cap Momentum ETF (NYSE: AMOM), an exchange-traded fund driven by artificial intelligence, has sold a majority of its holdings in Facebook Inc. (NASDAQ: FB) and Walmart Inc."
+    publishedDateTime: 2021-07-12T13:13:00Z
+    webUrl: "https://markets.businessinsider.com/news/etf/artificial-intelligence-is-on-the-side-of-apes-tesla-fame-s-ai-based-etf-sells-facebook-walmart-and-buys-amc-1030596697"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 79
+    images:
+      - url: "https://cdn.benzinga.com/files/imagecache/1024x768xUP/images/story/2012/3090841071_105297e728_o_6.jpg"
+        width: 1024
+        height: 768
+        isCached: true
   - title: "Facebook Robots Are Getting Smarter, Watch Them In The Wild (Video)"
     excerpt: "Facebook has been training robots to think for themselves. Its chief AI scientist Yann LeCun explains why with a video that shows what robots can do when left to their own devices."
     publishedDateTime: 2021-07-09T12:00:00Z
@@ -88,22 +102,6 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60e79dd602c7bff56bca0980%2F0x0.jpg%3FcropX1%3D202%26cropX2%3D958%26cropY1%3D0%26cropY2%3D426"
         width: 756
         height: 426
-        isCached: true
-  - title: "Artificial Intelligence Is On The Side Of Apes? Tesla-Fame's AI-Based ETF Sells Facebook, Walmart And Buys AMC"
-    excerpt: "The Qraft AI-Enhanced US Large Cap Momentum ETF (NYSE:AMOM), an exchange-traded fund driven by artificial intelligence, has sold a majority of its holdings in Facebook Inc. (NASDAQ:FB) and Walmart Inc."
-    publishedDateTime: 2021-07-12T15:13:00Z
-    webUrl: "https://www.benzinga.com/trading-ideas/long-ideas/21/07/21929742/artificial-intelligence-is-on-the-side-of-apes-tesla-fames-ai-based-etf-sells-facebook-w"
-    ampWebUrl: "https://www.benzinga.com/amp/content/21929742"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/21929742"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 71
-    images:
-      - url: "https://www.benzinga.com/files/images/story/2012/3090841071_105297e728_o_6.jpg"
-        width: 2048
-        height: 1536
         isCached: true
   - title: "AI Allows Legged Robots To Adapt in Real-Time to Changing Conditions"
     excerpt: "Researchers from Carnegie Mellon University, the University of California, Berkeley, and Facebook AI didn't just teach a robot to walk — they taught it how to learn to walk."

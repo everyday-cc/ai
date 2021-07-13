@@ -2,21 +2,27 @@
 category: news
 title: "MediCircle Health launches AI-powered instant Covid test in India"
 excerpt: "Mumbai-based diagnostic company MediCircle Health on Monday launched a portable Covid-19 testing platform that is powered by machine learning and artificial intelligence and delivers results in just one second."
-publishedDateTime: 2021-07-13T00:56:00Z
-originalUrl: "https://news.webindia123.com/news/Articles/Health/20210713/3786021.html"
-webUrl: "https://news.webindia123.com/news/Articles/Health/20210713/3786021.html"
+publishedDateTime: 2021-07-13T03:42:00Z
+originalUrl: "https://www.daijiworld.com/news/newsDisplay?newsID=852677"
+webUrl: "https://www.daijiworld.com/news/newsDisplay?newsID=852677"
 type: article
-quality: 19
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: Webindia 123
-  domain: webindia123.com
+  name: Daijiworld
+  domain: daijiworld.com
 
 topics:
   - AI Hardware
   - AI
+
+images:
+  - url: "https://www.daijiworld.in/images3/asha_13712_medicircle.jpg"
+    width: 400
+    height: 428
+    isCached: true
 
 related:
   - title: "AI Tool Help Predict COVID-related Death Risk"
@@ -45,6 +51,6 @@ related:
         height: 630
         isCached: true
 
-secured: "0JXxK0lrvvogtGTazXi+3/bCPW+k4DWKQ/fN8qQnM2/kVDEoBv01ZgvnX5qSbjkrtpBR9iMgc4PRdLo1fB/EiOzg8MRdnPf6Iy2VynTUBfa8o+R3rXAvpb3k6WsbUgkzzANKKPG9eslJDKzk/G/FZ5y0WalpUBW4/2YnmgOYjqk6e7fsXeviSn4sHD+mlUpp+B6zpLVBEmMQdkyBUlZkZxYNgpI92QUob2r0WQd7YyRQU19PVWjB8l1KiqOVvXNIM7/h/LppplTY+U70yRywL8DThGBmTMYm7RzfjYM1KBJM3zrMnb9keGnxTPuA2rfoPsZW5ml8JdHPzlMEUVsrKqcRnqIlPK7irh7n9d5RcPA=;yTUJFFB8uzTz2RHDOaOgDg=="
+secured: "UrAcGNks4u1vZJTeGO55qutRcgNO64BX3qKdkkoD1T7c53ov4OETA8BdbNgShjldMBfcN3LkmJK9Zp545R1BrJvMbBfR1RD/8V1q/F5H8/9bjIx8Zpnb50Hpc8+i3tdSDaQh7CN06lz9jxG43wCnYSBEbzmH5bBCc2AcPQRHwgKtQ6fAWfJIFv8AASsWRxxOi0r5VUDQ7QjLQeBWiT//Cc/uHWvcn+w2tFzD/8DJIBG4wY9jA6Vqpsd6XJLo6j/yqppOvpqGIeFIDpG5F9e3NvUPAMUi26C4VA0tEpWu1yDUrVqwqVlbAE0dWk6dKjNP6mGq9/7oAvnc6rH9l3z09aJ33ll306wMsXwXjVNpJ5A=;XsppkUinM4aXMca1Ng28Xg=="
 ---
 

@@ -37,20 +37,6 @@ related:
         width: 600
         height: 600
         isCached: true
-  - title: "The rise of the robots"
-    excerpt: "Many companies, including ING, have embraced the robotics revolution by introducing software robots that can automate monotonous, manual processes. And while we’re dispelling myths, here’s another one."
-    publishedDateTime: 2021-07-08T10:06:00Z
-    webUrl: "https://www.ing.com/Newsroom/News/The-rise-of-the-robots.htm"
-    type: article
-    provider:
-      name: ING
-      domain: ing.com
-    quality: 39
-    images:
-      - url: "https://www.ing.com/upload/c59fd409-942c-4ab5-b206-4c1e8c07adaa_robotpicker_1200x675.png"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "xzg59EPi85+ODuRtlX/M4Kk4ZXsaCqkNknDl4vYFkpr9LF94KNAQsNC3wsoskd6Xyn6reXAmUaKlbxxEKaU386JolOpPvJvDZlnnvHrsM6mm7qCg3MN13MIYaF1WI31OdMoTNsSewt9Q+52zVZIrgz/2UT0fAVTPqlujNbbzItcAsQCkTZDLl7U2iKjrEHH01bDtmqbScMBIO4kz45xFMsiGa7kZwJIMiZaNjeJBlofq2xsZqy80hBgMjHVbsyPZqqmWk4qphqaIg0078WSpJNCiz2g0nzP8VYJm2dZeBZo3jHxOR6+QzpZrFLuidf3PwmDOz2aAAVbh9GFRdGFy/jSqBoGjLZzabpNNowhiddo=;i94Mhs9aMNt9n11sT6Pnqg=="
 ---

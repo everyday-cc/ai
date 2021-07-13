@@ -57,15 +57,6 @@ related:
         width: 900
         height: 499
         isCached: true
-  - title: "Thales Supports Mobile Operators With Advanced Voice Biometric Authentication"
-    excerpt: "News reports, trends, analysis and Daily Updates on Business, New Emerging Technology, Startups, Funding, and Innovation in India and across the World"
-    publishedDateTime: 2021-07-08T10:24:00Z
-    webUrl: "https://www.indianweb2.com/2021/07/thales-supports-mobile-operators-with.html"
-    type: article
-    provider:
-      name: indianweb2.com
-      domain: indianweb2.com
-    quality: 1
 
 secured: "qPRS8rXHHj2AxyLScDeerDXQp8JXR5Z3kqDv4yCUtfvbV37lSU7DcHtkrH2OJDkRNWYkJYZyqsfTYPKRNXjcE9qKK6TeUBrtT5uMfao/8flVT9R8LoU9G+YF8v1o9gn7aNIr+XrfVphFMETDgsAXQRt8RhAroWfZk0I5u0rGYu/GNcMqjOpGXdo1QJkWGuAllLKc1CAgqwkBy7cP59kubSVMZ6FwwhkXqbEQY8OFtElHDVrKMqxbxRppHryXcGjufF4Xza/5koslzYJ+69lZdCsh4A3itcEIiDvVQ4O3GqPLH3+7Poxlrlwa6IMU7uiEs3cHsYS6arQBFuIiAhRKLWLz4ZLUTzh3HkGjr4rmrGk=;usWmpFWmZLCQne8LkYDM4g=="
 ---

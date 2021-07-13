@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnbc.com/amp/2021/07/10/self-driving-looking-less-like-e
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/07/10/self-driving-looking-less-like-elon-musk-more-dominos-pizza-robots.html"
 type: article
 quality: 105
-heat: 375
+heat: 365
 published: true
 
 provider:
@@ -109,22 +109,6 @@ related:
       - url: "https://img-cdn.tnwcdn.com/image/shift?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F07%2FBETA.jpg&signature=4ef20c5b9875014ecbd6cfae005b72d8"
         width: 1280
         height: 640
-        isCached: true
-  - title: "Elon Musk: Tesla will launch its ‘mind-blowing’ Full Self-Driving Beta v9 on Saturday"
-    excerpt: "Tesla is currently testing the “feature complete” version of its Full Self-Driving (FSD) package in beta with a few thousand customers and employees through its early access program."
-    publishedDateTime: 2021-07-08T09:59:00Z
-    webUrl: "https://electrek.co/2021/07/08/elon-musk-tesla-launch-mind-blowing-full-self-driving-beta-v9-saturday/"
-    ampWebUrl: "https://electrek.co/2021/07/08/elon-musk-tesla-launch-mind-blowing-full-self-driving-beta-v9-saturday/amp/"
-    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/07/08/elon-musk-tesla-launch-mind-blowing-full-self-driving-beta-v9-saturday/amp/"
-    type: article
-    provider:
-      name: Electrek
-      domain: electrek.co
-    quality: 82
-    images:
-      - url: "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2019/04/Tesla-new-self-driving-demo-e1555984282698.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
-        width: 1200
-        height: 628
         isCached: true
   - title: "Elon Musk: Tesla Vision to soon detect turn signals, hazards, police lights & even hand gestures"
     excerpt: "Elon Musk announced that Tesla Vision would soon detect turn signals on other vehicles, hazards lights, police and ambulance lights, and even hand gestures. The move comes as the automaker tries to cover every possible driving situation on the road to delivering a full self-driving system."

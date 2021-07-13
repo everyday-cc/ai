@@ -20,15 +20,31 @@ topics:
   - Microsoft AI
 
 related:
-  - title: "DeepSee.ai Named a 2021 Gartner Cool Vendor in Conversational and Natural Language Technologies"
-    excerpt: "DeepSee.ai, a provider of AI-powered automation that solves line-of-business problems in Capital Markets and Insurance industries, announced today that it has been named a 2021 \"Cool Vendor\" by Gartner ( News - Alert) in the latest industry report on Conversational and Natural Language Technologies."
-    publishedDateTime: 2021-07-12T15:24:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2021/07/12/9406890.htm"
+  - title: "Sinequa Named a Leader in 2021 Analyst Report for Cognitive Search"
+    excerpt: "According to report, “Sinequa makes search strategic” NEW YORK & PARIS--(BUSINESS WIRE)--#analyst--Intelligent search provider Sinequa announced today"
+    publishedDateTime: 2021-07-13T02:38:00Z
+    webUrl: "https://www.01net.it/sinequa-named-a-leader-in-2021-analyst-report-for-cognitive-search/"
+    ampWebUrl: "https://www.01net.it/sinequa-named-a-leader-in-2021-analyst-report-for-cognitive-search/amp/"
+    cdnAmpWebUrl: "https://www-01net-it.cdn.ampproject.org/c/s/www.01net.it/sinequa-named-a-leader-in-2021-analyst-report-for-cognitive-search/amp/"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 7
+      name: 01Net
+      domain: 01net.it
+    quality: 44
+    images:
+      - url: "https://www.01net.it/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png"
+        width: 735
+        height: 552
+        isCached: true
+  - title: "Elastic Named a Leader in Cognitive Search by Independent Research Firm"
+    excerpt: "Elastic (NYSE: ESTC) (“Elastic”), the company behind Elasticsearch and the Elastic Stack, today announced that it has been named a Leader by Forrester Research in The Forrester Wave™: Cognitive ... Goldman Sachs, Microsoft, The Mayo Clinic, NASA ..."
+    publishedDateTime: 2021-07-12T13:23:00Z
+    webUrl: "https://www.morningstar.com/news/business-wire/20210712005732/elastic-named-a-leader-in-cognitive-search-by-independent-research-firm"
+    type: article
+    provider:
+      name: Morningstar%2c Inc.
+      domain: morningstar.com
+    quality: 4
 
 secured: "hZWOTwlK/jsTKAnlh6djWAj0FZLSPMDJhm+JXDgREN/hk5ezSQInoCusMlUKBS3z94Jer4gLW1h3pXc324b2y7W32jG4rskoCYi03WqKSohvdlTlvOQcnrKoEvYGhO4XfL/wFih0+3FWIcdj45OS8hh4WMxk5TTjQs0oHg4YOVlzcPnJavsczb+0s63I4OkApQw6AuC8ftmbLLs/3RhjgL7qK8fKSqYIGM04+f2pUMjspUiyCO+7EeZNeil6jPe1em42gU8kVQ2HVf+13W3hkx0vheOCYBXezNssYXK225jj52M08Bl+910J+9twog6kmoGU0uGA6S0Xrz7/vFVadZ0IviSgsYgif4WunDKezfg=;uh3SuLhH1P50g+NSQt+nyg=="
 ---

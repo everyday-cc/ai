@@ -6,8 +6,8 @@ publishedDateTime: 2021-07-12T23:07:00Z
 originalUrl: "https://www.benzinga.com/pressreleases/21/07/ab21947369/holographic-ar-plus-human-computer-interaction-lead-the-way-wimi-holographic-ai-vision-creates-a-"
 webUrl: "https://www.benzinga.com/pressreleases/21/07/ab21947369/holographic-ar-plus-human-computer-interaction-lead-the-way-wimi-holographic-ai-vision-creates-a-"
 type: article
-quality: 32
-heat: 32
+quality: 34
+heat: 34
 published: false
 
 provider:
@@ -18,6 +18,7 @@ topics:
   - Computer Vision
   - AI
   - AI in Autos
+  - AI in Finance
 
 images:
   - url: "https://cdn.benzinga.com/files/imagecache/og_image_social_share_1200x630/sites/all/themes/bz2/images/bz-icon.png"

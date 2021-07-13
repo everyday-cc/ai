@@ -78,20 +78,18 @@ related:
         height: 640
         isCached: true
   - title: "Artificial Intelligence Is On The Side Of Apes? Tesla-Fame's AI-Based ETF Sells Facebook, Walmart And Buys AMC"
-    excerpt: "The Qraft AI-Enhanced US Large Cap Momentum ETF (NYSE:AMOM), an exchange-traded fund driven by artificial intelligence, has sold a majority of its holdings in Facebook Inc. (NASDAQ:FB) and Walmart Inc."
-    publishedDateTime: 2021-07-12T15:13:00Z
-    webUrl: "https://www.benzinga.com/trading-ideas/long-ideas/21/07/21929742/artificial-intelligence-is-on-the-side-of-apes-tesla-fames-ai-based-etf-sells-facebook-w"
-    ampWebUrl: "https://www.benzinga.com/amp/content/21929742"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/21929742"
+    excerpt: "The Qraft AI-Enhanced US Large Cap Momentum ETF (NYSE: AMOM), an exchange-traded fund driven by artificial intelligence, has sold a majority of its holdings in Facebook Inc. (NASDAQ: FB) and Walmart Inc."
+    publishedDateTime: 2021-07-12T13:13:00Z
+    webUrl: "https://markets.businessinsider.com/news/etf/artificial-intelligence-is-on-the-side-of-apes-tesla-fame-s-ai-based-etf-sells-facebook-walmart-and-buys-amc-1030596697"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 71
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 79
     images:
-      - url: "https://www.benzinga.com/files/images/story/2012/3090841071_105297e728_o_6.jpg"
-        width: 2048
-        height: 1536
+      - url: "https://cdn.benzinga.com/files/imagecache/1024x768xUP/images/story/2012/3090841071_105297e728_o_6.jpg"
+        width: 1024
+        height: 768
         isCached: true
   - title: "Facebook’s AI researchers are teaching robots to walk like humans"
     excerpt: "Rapid Motor Adaptation — is a “breakthrough” in artificial intelligence (AI). It allows robots to walk on sand, in mud, hiking trails, tall grass and over a dirt pile “without a single failure” during"

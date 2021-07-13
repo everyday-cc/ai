@@ -38,6 +38,20 @@ related:
         width: 400
         height: 267
         isCached: true
+  - title: "Wobot.ai, the AI-powered Video Analytics Platform, Announces the Launch of a New SaaS-based and Simplified Version of its Product"
+    excerpt: "Wobot.ai, the AI-powered video analytics platform, today announced the launch of a new SaaS-based and simplified version of its product. Wobot.ai is now"
+    publishedDateTime: 2021-07-09T14:06:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/wobot-ai-the-ai-powered-video-analytics-platform-announces-the-launch-of-a-new-saas/article_38004c71-1a5c-5e96-a893-a3588a74fb8a.html"
+    type: article
+    provider:
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 8
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/4/bd/4bd33132-c636-5544-9915-1b38568a0f7d/60e85a23e0b7a.image.jpg"
+        width: 1024
+        height: 878
+        isCached: true
 
 secured: "CtpknmDVJleF1vVgtVo7cqnCXOMTCGtqXu32uqXvJrzb2XGkm7mHlJFGYfGgYYhosRffUjxjrsXWWYA7hSJDkKZf0mpObOnHOlDjHV6qm+o2FdddXI2hT1sGFkjgSljHjhHSdATV3BVDXGlpGS9HvVTnrAEhm+Rp1P4/E8xRKnsbCZgPzLtKCaEkE39fESLP84Tvq2G/PMrqhy96d7YeIQHDIUU1QM4U8+7H2QttwkJs9Wbq42Hc0UlePn86EKdG0CH/tb1H8h9qfJMgezr6GToH1KmQ9Kqok+kY4x8Mo7hwxvLuAEpQWvwZOhqBMeZ8sVCFp5pCIIzNmciLVm6nZgZi2YgL1zxu3uLmlntMgnU=;AJgIAEm2mU+PqcMgStRcUg=="
 ---

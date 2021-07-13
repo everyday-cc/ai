@@ -26,20 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "The rise of the robots"
-    excerpt: "Many companies, including ING, have embraced the robotics revolution by introducing software robots that can automate monotonous, manual processes. And while we’re dispelling myths, here’s another one."
-    publishedDateTime: 2021-07-08T10:06:00Z
-    webUrl: "https://www.ing.com/Newsroom/News/The-rise-of-the-robots.htm"
-    type: article
-    provider:
-      name: ING
-      domain: ing.com
-    quality: 39
-    images:
-      - url: "https://www.ing.com/upload/c59fd409-942c-4ab5-b206-4c1e8c07adaa_robotpicker_1200x675.png"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Insights on the Surgical Robots Global Market to 2026 - by Product, Application, End-user and Region"
     excerpt: "The global surgical robots market exhibited strong growth during 2015-2020. Looking forward, the publisher expects the market to grow at a CAGR of 18.5% during 2021-2026. Keeping in mind the uncertainties of COVID-19,"
     publishedDateTime: 2021-07-09T21:09:00Z

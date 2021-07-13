@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techradar.com/amp/news/voice-biometrics-the-new-defense-
 cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/voice-biometrics-the-new-defense-against-deepfakes"
 type: article
 quality: 89
-heat: 119
+heat: 109
 published: true
 
 provider:
@@ -61,15 +61,6 @@ related:
         width: 900
         height: 499
         isCached: true
-  - title: "Thales Supports Mobile Operators With Advanced Voice Biometric Authentication"
-    excerpt: "News reports, trends, analysis and Daily Updates on Business, New Emerging Technology, Startups, Funding, and Innovation in India and across the World"
-    publishedDateTime: 2021-07-08T10:24:00Z
-    webUrl: "https://www.indianweb2.com/2021/07/thales-supports-mobile-operators-with.html"
-    type: article
-    provider:
-      name: indianweb2.com
-      domain: indianweb2.com
-    quality: 1
 
 secured: "ZjuUzrmd8W6K0AP4O7Qs+27sMLxv9teUjm2KYAzUse3AFEucmTEmulW5EYVZKKKAt6zVVZWgQVBlXAeNzKwuXwEh514djiEGYGoY1YGBswpeoPsix2+JYeW4meZcCNiA2V1dhB85SdHRhuBJviWZpY0qoYyHe0uatf1dRwUgiLrinhq7Djd6yAd3NJtczOpjB+oKuRIUZxptBw0pGqMJrbmivFihddV5A/Z+lDOH5TnhIKLxTWMUVRa8NqbC08Hll8EqGN1G4io3S6+FK9EIngfGwp6cwn5NmXRTgv5IAH9UotGwWigs2KY1b2VoDFTsmku4dd0IDsWmunqy0TrRpW+TTbLLl4Px4hvLMRZYKi0=;K5HoNP8jmogwqcyDKD+HNg=="
 ---
