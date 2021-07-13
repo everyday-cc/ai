@@ -2,6 +2,126 @@
   "page": 75,
   "value": [
     {
+      "path": "_news/2021-05-19-new-universal-object-recognition-technology-for-robots.md",
+      "title": "New Universal Object Recognition Technology for Robots",
+      "excerpt": "recently announced the availability of SentiSight 2.0 SDK universal object recognition technology for the development of robotics, artificial intelligence and computer-based vision applications. The SentiSight 2.0 algorithm provides enhanced 2D and 3D ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.industryweek.com/technology-and-iiot/automation/article/21944115/new-universal-object-recognition-technology-for-robots",
+      "originalUrl": "https://www.industryweek.com/technology-and-iiot/automation/article/21944115/new-universal-object-recognition-technology-for-robots",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-18T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IndustryWeek",
+        "domain": "industryweek.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-19-yes-ai-can-be-tricked-and-its-a-serious-problem.md",
+      "title": "Yes, AI Can Be Tricked, And it's a Serious Problem",
+      "excerpt": "By examining the areas of the brain that are damaged in cases of visual agnosia, researchers are able to determine what structures play a role in object recognition. While artificial intelligence hasn't reached the levels of sophistication of the human ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.designnews.com/electronics-test/yes-ai-can-be-tricked-and-its-serious-problem",
+      "originalUrl": "https://www.designnews.com/electronics-test/yes-ai-can-be-tricked-and-its-serious-problem",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-18T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Design News",
+        "domain": "designnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-19-robot-artist-ai-da-self-portraits-go-on-display.md",
+      "title": "Robot artist Ai-Da self-portraits go on display",
+      "excerpt": "The robot artist making selfies Up Next. Fabric fantastic: The chemist's made out of felt. Video, 00:03:18Fabric fantastic: The chemist's made out of felt Artists wanted for town's Banksy-style revamp.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bbc.com/news/entertainment-arts-57093887",
+      "originalUrl": "https://www.bbc.com/news/entertainment-arts-57093887",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ichef.bbci.co.uk/images/ic/400xn/p09hz0cy.jpg",
+          "width": 400,
+          "height": 224,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-18T16:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BBC",
+        "domain": "bbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2021-05-19-blue-prism-announces-comprehensive-new-enterprise-contact-center-offering-with-amazon-connect.md",
       "title": "Blue Prism Announces Comprehensive New Enterprise Contact Center Offering with Amazon Connect",
       "excerpt": "Blue Prism has a complete library of native integrations with Amazon Textract, Amazon Rekognition, and Amazon Comprehend for out-of-the box integrations. Organizations can quickly scale cognitive ...",
@@ -1043,162 +1163,6 @@
       "topics": [
         "Natural Language Processing",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-19-google-wants-to-help-you-learn-languages-athletics-and-more.md",
-      "title": "Google wants to help you learn languages, athletics and more",
-      "excerpt": "Google is currently experimenting with MUM, but has confirmed it's already trained across 75 languages and can learn not only from text, but also other assets including images and information in languages you don't speak.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techradar.com/nz/news/google-wants-to-help-you-learn-languages-athletics-and-more",
-      "originalUrl": "https://www.techradar.com/nz/news/google-wants-to-help-you-learn-languages-athletics-and-more",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/rERQRhw7xajcatmufxPXAM-480-80.jpg",
-          "width": 480,
-          "height": 270,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techradar.com/nz/amp/news/google-wants-to-help-you-learn-languages-athletics-and-more",
-      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/nz/amp/news/google-wants-to-help-you-learn-languages-athletics-and-more",
-      "publishedDateTime": "2021-05-18T11:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-18-a-smoother-ride-and-a-more-detailed-map-thanks-to-ai.md",
-      "title": "A smoother ride and a more detailed Map thanks to AI",
-      "excerpt": "AI is a critical part of what makes Google Maps so helpful. With it, we’re able to map roads over 10 times faster than we could five years ago, and we can bring maps filled with useful information to virtually every corner of the world. Today, we’re giving you a behind-the-scenes look at how AI makes two",
-      "sourceUrl": null,
-      "webUrl": "https://blog.google/products/maps/google-maps-101-ai-power-new-features-io-2021/",
-      "originalUrl": "https://blog.google/products/maps/google-maps-101-ai-power-new-features-io-2021/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 120,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Maps_Blog_hero_022x.max-1300x1300.png",
-          "width": 1300,
-          "height": 541,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://blog.google/products/maps/google-maps-101-ai-power-new-features-io-2021/amp/",
-      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/products/maps/google-maps-101-ai-power-new-features-io-2021/amp/",
-      "publishedDateTime": "2021-05-18T11:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Google",
-        "domain": "blog.google",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-18-unveiling-our-new-quantum-ai-campus.md",
-      "title": "Unveiling our new Quantum AI campus",
-      "excerpt": "Within the decade, Google aims to build a useful, error-corrected quantum computer. This will accelerate solutions for some of the world’s most pressing problems, like sustainable energy and reduced emissions to feed the world’s growing population, and unlocking new scientific discoveries, like more",
-      "sourceUrl": null,
-      "webUrl": "https://blog.google/technology/ai/unveiling-our-new-quantum-ai-campus/",
-      "originalUrl": "https://blog.google/technology/ai/unveiling-our-new-quantum-ai-campus/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 139,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/1_294_R01_1_1.max-1300x1300.jpg",
-          "width": 1300,
-          "height": 867,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://blog.google/technology/ai/unveiling-our-new-quantum-ai-campus/amp/",
-      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/technology/ai/unveiling-our-new-quantum-ai-campus/amp/",
-      "publishedDateTime": "2021-05-18T10:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Google",
-        "domain": "blog.google",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
       ]
     }
   ],

@@ -155,20 +155,6 @@ related:
         width: 1269
         height: 645
         isCached: true
-  - title: "Facebook Wants a Monopoly on Human Connection"
-    excerpt: "Facebook’s formal mission statement is to “give ... The company publishes much of its artificial intelligence research on a special blog. Much of the work concerns training machines to avoid bias. “Some common statistical notions of fairness may ..."
-    publishedDateTime: 2021-07-08T16:00:00Z
-    webUrl: "https://www.americamagazine.org/politics-society/2021/07/08/facebook-community-mark-zuckerberg-monopoly-pope-francis-240993"
-    type: article
-    provider:
-      name: America Magazine
-      domain: americamagazine.org
-    quality: 24
-    images:
-      - url: "https://www.americamagazine.org/sites/default/files/styles/article_image_750_x_503_/public/main_image/2021/07/08/FB.thumb%2Cred%20%281%29.png.png?itok=2ssixJh4"
-        width: 750
-        height: 500
-        isCached: true
 
 secured: "i4T53EhQVTnGyil7FHt/9r5SdPEC+5itTUUGpbzvjkltKT3BD6mIfjEh9nyXMOjT6FYlPemnJrxhKaQ108NEBcfX9hDNJwthdl7BthaP5nWvZ2DxKbARHJuA0Qhq9rdKcgQsE0NLvARacU+VGnWTTJc7QBvC1t+st3xiU6/ttrTNHIh0rtn7mIpcX9megRUV0EvlH82hY+tiyy55XnCtuVhS9NRCcr4BzqLEJcBlN2jNwUaiJLsaTJWdomKHIYz0uyGyEtJofLJ27QB6z1rmi4wHpggcPbZVllGh2Pb/PCewmKNIR4CIlF9aGzfgDS9USEknON22951L0CwoAciJrZAwjTc2G75HlJFz8ni/Au8=;KXqn4O4BI25EDuQFUQX/DA=="
 ---

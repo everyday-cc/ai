@@ -19,64 +19,93 @@ topics:
   - AI
 
 related:
-  - title: "Maine Becomes First State To Pass Broad Government Ban on Facial Recognition Technology"
-    excerpt: "Maine's new law is both the strongest and broadest in scope as of yet. The new bill bans the use of facial recognition technology across all levels of state government."
-    publishedDateTime: 2021-07-08T16:00:00Z
-    webUrl: "https://www.cpomagazine.com/data-privacy/maine-becomes-first-state-to-pass-broad-government-ban-on-facial-recognition-technology/"
-    ampWebUrl: "https://www.cpomagazine.com/data-privacy/maine-becomes-first-state-to-pass-broad-government-ban-on-facial-recognition-technology/amp/"
-    cdnAmpWebUrl: "https://www-cpomagazine-com.cdn.ampproject.org/c/s/www.cpomagazine.com/data-privacy/maine-becomes-first-state-to-pass-broad-government-ban-on-facial-recognition-technology/amp/"
+  - title: "Military Robots Market Share, Size, Industry Players, Revenue And Product Demand Forecast Till 2024"
+    excerpt: "The government of various nations is continuously investing in automation technology for surveillance services by"
+    publishedDateTime: 2021-07-10T16:56:00Z
+    webUrl: "https://www.marketwatch.com/press-release/military-robots-market-share-size-industry-players-revenue-and-product-demand-forecast-till-2024-2021-07-10"
     type: article
     provider:
-      name: CPO Magazine
-      domain: cpomagazine.com
-    quality: 66
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 55
     images:
-      - url: "https://www.cpomagazine.com/wp-content/uploads/2021/07/maine-becomes-first-state-to-pass-broad-government-ban-on-facial-recognition-technology_1500.jpg"
-        width: 1500
-        height: 860
-        isCached: true
-  - title: "Long-forgotten Maine veteran gets graveside recognition 207 years later"
-    excerpt: "His marble stone, worn by nearly 200 Maine winters, is now almost unreadable in Portland’s Eastern Cemetery. Over the years, Briggs, and his service to his young country, were forgotten. Now, 207 years after his heroic deeds — thanks to a loose-knit network of unpaid volunteer history sleuths in Maine,"
-    publishedDateTime: 2021-07-10T05:00:00Z
-    webUrl: "https://bangordailynews.com/2021/07/10/news/long-forgotten-maine-veteran-gets-graveside-recognition-207-years-later/"
-    type: article
-    provider:
-      name: Bangor Daily News
-      domain: bangordailynews.com
-    quality: 39
-    images:
-      - url: "https://i2.wp.com/bdn-data.s3.amazonaws.com/uploads/2021/07/battle-platsburg-1.jpg?fit=1024%2C672&#038;ssl=1"
-        width: 1024
-        height: 672
-        isCached: true
-  - title: "Most State Legislatures have rejected bans and severe restrictions on facial recognition"
-    excerpt: "Facial recognition technology and related legislation have been a hot topic in the media and in policy discussions around the country. The Security Industry Association (SIA) is advocating nationwide for policies ensuring responsible use and sensible ..."
-    publishedDateTime: 2021-07-12T22:00:00Z
-    webUrl: "https://www.securityinfowatch.com/access-identity/biometrics/facial-recognition-solutions/article/21230121/security-industry-association-sia-most-state-legislatures-have-rejected-bans-and-severe-restrictions-on-facial-recognition"
-    type: article
-    provider:
-      name: Security
-      domain: securityinfowatch.com
-    quality: 30
-    images:
-      - url: "https://img.securityinfowatch.com/files/base/cygnus/siw/image/2021/07/bigstock_Facial_Recognition_System_Iden_387020311.60ecba89a36b9.png?auto=format&fit=max&w=1200"
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
-        height: 800
+        height: 630
         isCached: true
-  - title: "New state laws require more police transparency, limit use of facial recognition technology"
-    excerpt: "One of the laws makes Maine the first state in the country to apply strict limits on facial recognition technology."
-    publishedDateTime: 2021-07-10T01:14:00Z
-    webUrl: "https://www.pressherald.com/2021/07/09/new-state-laws-require-more-police-transparency-limit-use-of-facial-recognition-technology/"
+  - title: "Robot Operating System Market Size 2021 by Company, Product introduction, Products Sales Volume, Revenue, Price and Gross Margin to 2030"
+    excerpt: "In a recent published report, Kenneth Research has updated the market report for Robot Operating System Market for"
+    publishedDateTime: 2021-07-09T17:02:00Z
+    webUrl: "https://www.marketwatch.com/press-release/robot-operating-system-market-size-2021-by-company-product-introduction-products-sales-volume-revenue-price-and-gross-margin-to-2030-2021-07-09"
     type: article
     provider:
-      name: Portland Press Herald
-      domain: pressherald.com
-    quality: 29
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 53
     images:
-      - url: "http://multifiles.pressherald.com/uploads/sites/4/2017/01/pph-icon-red-linkforFB.png"
-        width: 300
-        height: 300
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
+  - title: "Global Healthcare Artificial Intelligence Market Size, Status and Forecast 2021-2027"
+    excerpt: "Pages Report] Check for Discount on Global Healthcare Artificial Intelligence Market Size, Status and Forecast 2021-2027 report by QYResearch Group. AI in healthcare has huge and wide reaching potential"
+    publishedDateTime: 2021-07-09T07:53:00Z
+    webUrl: "https://www.reportsnreports.com/reports/4655759-global-healthcare-artificial-intelligence-market-size-status-and-forecast-2021-2027.html"
+    type: article
+    provider:
+      name: ReportsnReports
+      domain: reportsnreports.com
+    quality: 27
+  - title: "Global Automatic Speech Recognition Market Size, Status and Forecast 2021-2027"
+    excerpt: "The global Automatic Speech Recognition market size is projected to reach US$ XX million by 2027, from US$ XX million in 2020, at a CAGR of XX% during 2021-2027. With industry-standard accuracy in analysis and high data integrity, the report makes a ..."
+    publishedDateTime: 2021-07-10T09:05:00Z
+    webUrl: "https://www.reportsnreports.com/reports/4660781-global-automatic-speech-recognition-market-size-status-and-forecast-2021-2027.html"
+    type: article
+    provider:
+      name: ReportsnReports
+      domain: reportsnreports.com
+    quality: 15
+  - title: "Global Machine Learning in Automobile Market Size, Status and Forecast 2021-2027"
+    excerpt: "Pages Report] Check for Discount on Global Machine Learning in Automobile Market Size, Status and Forecast 2021-2027 report by QYResearch Group. Machine learning in the automotive industry has a remarkable"
+    publishedDateTime: 2021-07-09T07:52:00Z
+    webUrl: "https://www.reportsnreports.com/reports/4655617-global-machine-learning-in-automobile-market-size-status-and-forecast-2021-2027.html"
+    type: article
+    provider:
+      name: ReportsnReports
+      domain: reportsnreports.com
+    quality: 14
+  - title: "Deep Neural Networks Market Trend, Growth, Size, Forecast, Key Players and Competitive Landscape Research Report by 2027"
+    excerpt: "The report talks about the production capacity, demand and supply trends, market dynamics, and impact of these and other key factors on the global Deep Neural Networks market. It also offers an extensive analysis of the competitive landscape along with an industry-wide analysis of the market share of each player along with their business profiles."
+    publishedDateTime: 2021-07-12T17:13:00Z
+    webUrl: "https://manometcurrent.com/deep-neural-networks-market-trend-growth-size-forecast-key-players-and-competitive-landscape-research-report-by-2027/"
+    type: article
+    provider:
+      name: manometcurrent.com
+      domain: manometcurrent.com
+    quality: 14
+    images:
+      - url: "https://manometcurrent.com/wp-content/uploads/2021/07/RD11-2-390x220.png"
+        width: 390
+        height: 220
+        isCached: true
+  - title: "Global Voice Recognition Software Market Size, Status and Forecast 2021-2027"
+    excerpt: "Pages Report] Check for Discount on Global Voice Recognition Software Market Size, Status and Forecast 2021-2027 report by QYResearch Group. Market Analysis and Insights: Global Voice Recognition Software Market"
+    publishedDateTime: 2021-07-13T08:24:00Z
+    webUrl: "https://www.reportsnreports.com/reports/4662311-global-voice-recognition-software-market-size-status-and-forecast-2021-2027.html"
+    type: article
+    provider:
+      name: ReportsnReports
+      domain: reportsnreports.com
+    quality: 1
+  - title: "Global Educational Robot Market (2021 to 2026) – Industry Trends, Share, Size, Growth, Opportunity and Forecasts – ResearchAndMarkets.com"
+    excerpt: "Global Industry Trends, Share, Size, Growth, Opportunity and Forecast 2021-2026” report has been added to ResearchAndMarkets.com’s offering. The global educational robot market exhibited strong growth during 2015-2020."
+    publishedDateTime: 2021-07-12T14:08:00Z
+    webUrl: "https://www.financialbuzz.com/global-educational-robot-market-2021-to-2026-industry-trends-share-size-growth-opportunity-and-forecasts-researchandmarkets-com/"
+    type: article
+    provider:
+      name: Financial Buzz
+      domain: financialbuzz.com
+    quality: 0
 
 secured: "QMqW1k5cr51gCbm/Tz6C2JJ5615Pc1aN4ZqGGmw/d/JYgOHhET+miT+YQNIk9lkE4TmjDthOqKRECKhdF6FjKRMJRU5EuNDLMjOLMBAZZYoJdwc01pF++aKTVQB9bC5Kgej7KAlpDEUF6luolyGOg4Y2IpWX2vz7M2XQw64yB74tmw1eLCXB91JOCJZh4es0yVJZJsaKFRl/3Le9dnVfS2KSjmS9PKK1CaMFMlQmHOYqIUVzIRU4Ca4BHmSuPan5JUSCLO48C7FVAw4QN1UvtLwouwHS1CN2w3Q9Nn7eeJMXPq9LpwynY8/SzbiKQ980WEGaw5NIV/rqqiAqQ0okGViGntg0LArexfVjzalYlGA=;HwHIE9SziveqPTMgIFzLgg=="
 ---

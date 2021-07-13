@@ -58,6 +58,22 @@ related:
         width: 1000
         height: 667
         isCached: true
+  - title: "IIT Madras Researchers Develop AI Algorithm Model To Detect Cancerous Mutations"
+    excerpt: "Researchers from IIT Madras have developed an artificial intelligence-based mathematical model to detect cancerous mutations in the body."
+    publishedDateTime: 2021-07-13T09:43:00Z
+    webUrl: "https://www.republicworld.com/technology-news/science/iit-madras-researchers-develop-ai-algorithm-model-to-detect-cancerous-mutations.html"
+    ampWebUrl: "https://www.republicworld.com/amp/technology-news/science/iit-madras-researchers-develop-ai-algorithm-model-to-detect-cancerous-mutations.html"
+    cdnAmpWebUrl: "https://www-republicworld-com.cdn.ampproject.org/c/s/www.republicworld.com/amp/technology-news/science/iit-madras-researchers-develop-ai-algorithm-model-to-detect-cancerous-mutations.html"
+    type: article
+    provider:
+      name: RepublicWorld
+      domain: republicworld.com
+    quality: 53
+    images:
+      - url: "https://img.republicworld.com/republic-prod/stories/promolarge/xhdpi/ampinxyvxw2gjoxa_1626163738.jpeg"
+        width: 768
+        height: 438
+        isCached: true
   - title: "IIT Mandi develops AI based model for disease detection in potato crops using photos of leaves"
     excerpt: "Researchers at the Indian Institute of Technology Mandi, have developed a computational model based on Artificial Intelligence (AI) for automated disease detection in potato crops"
     publishedDateTime: 2021-07-12T08:43:00Z
@@ -88,6 +104,15 @@ related:
         width: 375
         height: 250
         isCached: true
+  - title: "Scientists develop AI model to detect gravitational waves"
+    excerpt: "A team of computational scientists and researchers has developed a new artificial intelligence (AI) framework that allows for accelerated, scalable and reproducible detection of gravitational waves. The production-scale framework indicates that AI models could be as sensitive as traditional template matching algorithms,"
+    publishedDateTime: 2021-07-12T10:56:00Z
+    webUrl: "https://news.webindia123.com/news/Articles/Science/20210712/3785687.html"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 19
 
 secured: "OnF3Y/Rlw6TUnvgQ3nJ546fst2EjrnGaaeY8DSt2ZY+QoH8pWx/5fITR7ZhV2XCXefRwNc/9bEbobseNgH9eR+DtTXehz1hXhZWdHzmUJDAl5eJ7bz7f9iPT5XRMXIpb344wS+/+bfgp2DhH2g4c0Q0qZJ0h/Wzf/71oRrypipelFOjMmjtLsk2HOhxmtW6EIRrcuf34bp1NOgVmpiH2AuAJ+anToJsjW126oB8/FLjKrCtxZHhfnHJfqty4gjjdEfbIYTW2VK6M/awi8AIRu+An+fqMXEtZh6Yay7gYDkD58n3jpY7d2UFSy7jwOr/IbbsKKWj3+ekY4CIDYmQaI80JQe/YIipzx1+EWqwOwMQ=;fZW4WNoUfNx4Ygqi9OiH8g=="
 ---

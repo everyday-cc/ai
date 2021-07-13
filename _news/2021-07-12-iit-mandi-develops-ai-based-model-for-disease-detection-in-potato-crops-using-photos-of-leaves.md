@@ -74,6 +74,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "IIT Madras Researchers Develop AI Algorithm Model To Detect Cancerous Mutations"
+    excerpt: "Researchers from IIT Madras have developed an artificial intelligence-based mathematical model to detect cancerous mutations in the body."
+    publishedDateTime: 2021-07-13T09:43:00Z
+    webUrl: "https://www.republicworld.com/technology-news/science/iit-madras-researchers-develop-ai-algorithm-model-to-detect-cancerous-mutations.html"
+    ampWebUrl: "https://www.republicworld.com/amp/technology-news/science/iit-madras-researchers-develop-ai-algorithm-model-to-detect-cancerous-mutations.html"
+    cdnAmpWebUrl: "https://www-republicworld-com.cdn.ampproject.org/c/s/www.republicworld.com/amp/technology-news/science/iit-madras-researchers-develop-ai-algorithm-model-to-detect-cancerous-mutations.html"
+    type: article
+    provider:
+      name: RepublicWorld
+      domain: republicworld.com
+    quality: 53
+    images:
+      - url: "https://img.republicworld.com/republic-prod/stories/promolarge/xhdpi/ampinxyvxw2gjoxa_1626163738.jpeg"
+        width: 768
+        height: 438
+        isCached: true
   - title: "Scientists develops AI model to detect gravitational waves"
     excerpt: "A team of computational scientists and researchers has developed a new artificial intelligence (AI) framework that allows for"
     publishedDateTime: 2021-07-12T07:26:00Z
@@ -88,6 +104,15 @@ related:
         width: 375
         height: 250
         isCached: true
+  - title: "Scientists develop AI model to detect gravitational waves"
+    excerpt: "A team of computational scientists and researchers has developed a new artificial intelligence (AI) framework that allows for accelerated, scalable and reproducible detection of gravitational waves. The production-scale framework indicates that AI models could be as sensitive as traditional template matching algorithms,"
+    publishedDateTime: 2021-07-12T10:56:00Z
+    webUrl: "https://news.webindia123.com/news/Articles/Science/20210712/3785687.html"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 19
 
 secured: "6RdjESDdeZiyeLPogl/8/JPl59EKvFOc6tRqtAT8OTCDGpJTgZMsMR29mI9z1ooeXTfTAfnRTBRHDR1kUJsiOH7WkHPNeSIhICfO7rtc5duVMjjMuoBMD4fPYfLJbF/Y6I/S3X8pJomTUiGTa8uxkS/EkRjkS/IO4k6UMStC3ATJwZAO3KzUr9rjwSOiTtl8qAvy5xkfiuamzT6wIwwzf3TbEssgTtU3aJkKumF0jkqqgMHHiWhMuhvE2npDBTZLu5FOWLejuQszzBQ0jPLsJjFf2HR5aJPl3AO4jFcjstyFHBHEFzVB4Xx12HhTrksVxxs9pIfDfmV7S0KLNlh4vU3VGX85aD+L5u41wazU0Tg=;KKf+dSDQ6hL2BQthDWRTWA=="
 ---

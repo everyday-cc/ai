@@ -28,20 +28,6 @@ related:
       name: Finextra
       domain: finextra.com
     quality: 4
-  - title: "Rensselaer Polytechnic Institute and Stevens Institute of Technology To Establish the First-Ever NSF-Backed Fintech Research Center"
-    excerpt: "Rensselaer Polytechnic Institute and Stevens Institute of Technology announced today that they have been awarded the first-ever National Science Foundation (NSF) grant to create an industry-university cooperative research center devoted specifically to financial technology and science."
-    publishedDateTime: 2021-07-08T15:22:00Z
-    webUrl: "https://news.rpi.edu/content/2021/07/08/rensselaer-polytechnic-institute-and-stevens-institute-technology-establish-first"
-    type: article
-    provider:
-      name: RPI News
-      domain: rpi.edu
-    quality: 0
-    images:
-      - url: "https://www.rpi.edu/dept/cct/apps/web-branding/v1/header/meganav/img/thearch.jpg"
-        width: 667
-        height: 446
-        isCached: true
 
 secured: "r3SPn0QcdNctMU2dYzt6C7yHG4ugov+2Ys5jeYZdQv/uuKfMZ4hhhBCkd845Rbmcoj6P2gM/yKgm0qi4Xt9OpZyvM8FBsHFBOp1a5dmH8WcQzFdc4NIpllJ1uoXE0XBQ9/DUc/sRC1SgiqO7SR+O4+ijH1+ndcdn56PI5hHlt8ZPykF9Z5+4bHTQUP5ACtas8xBBx8nAMfctJ0tNjy9V627UjIsvD+hN8nbtvNFjybwysk1czScUdJ+VK4LdwS6ZVkW1GSP8fHC/qfpKEKmaKmvZNz5C/UMbBAQWmyEL25UPormBLsee5mPuBK9VAtFm4/3rfHwXBrb67TtECHiVkx7eE/WbCFED1FvGrmM8y5g=;NzOSNVTrDi/StbIyxq6+fw=="
 ---

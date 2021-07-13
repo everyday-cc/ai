@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/07/10/how-cybersecurity-is-getting-ai-w
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/10/how-cybersecurity-is-getting-ai-wrong/amp/"
 type: article
 quality: 87
-heat: 117
+heat: 107
 published: true
 
 provider:
@@ -46,15 +46,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Artificial Intelligence (AI) in Cyber Security Market Size Growing at 25.2% CAGR to hit USD 17630 million by 2024"
-    excerpt: "and splits the Artificial Intelligence (AI) in Cyber Security market by product type and applications/end industries. BFSI Government IT & Telecom Healthcare Aerospace and Defense Other BFSI, government and ..."
-    publishedDateTime: 2021-07-08T16:54:00Z
-    webUrl: "https://www.arnnet.com.au/mediareleases/143963/artificial-intelligence-ai-in-cyber-security/"
-    type: article
-    provider:
-      name: ARN
-      domain: arnnet.com.au
-    quality: 30
   - title: "How Predictive AI will Change Cybersecurity in 2021"
     excerpt: "In this contributed article, Dr. Igor Mezic, CTO of MixMod AI explains how you can identify and stop zero-day attacks like the SolarWinds attack with the invention of this Unsupervised, Predictive AI,"
     publishedDateTime: 2021-07-09T13:00:00Z

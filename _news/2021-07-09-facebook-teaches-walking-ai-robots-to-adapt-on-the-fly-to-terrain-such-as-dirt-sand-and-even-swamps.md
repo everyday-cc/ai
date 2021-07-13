@@ -155,20 +155,6 @@ related:
       name: fintechzoom
       domain: fintechzoom.com
     quality: 34
-  - title: "Facebook Wants a Monopoly on Human Connection"
-    excerpt: "Facebook’s formal mission statement is to “give ... The company publishes much of its artificial intelligence research on a special blog. Much of the work concerns training machines to avoid bias. “Some common statistical notions of fairness may ..."
-    publishedDateTime: 2021-07-08T16:00:00Z
-    webUrl: "https://www.americamagazine.org/politics-society/2021/07/08/facebook-community-mark-zuckerberg-monopoly-pope-francis-240993"
-    type: article
-    provider:
-      name: America Magazine
-      domain: americamagazine.org
-    quality: 24
-    images:
-      - url: "https://www.americamagazine.org/sites/default/files/styles/article_image_750_x_503_/public/main_image/2021/07/08/FB.thumb%2Cred%20%281%29.png.png?itok=2ssixJh4"
-        width: 750
-        height: 500
-        isCached: true
 
 secured: "1rL/I0U2K2st1ECej/oDQ/BZCVT8Er1pM01eVm/anG0YdWXa0sOSE54cuuhBj7JhJKxbtMRfRbzEDGyf6eYaDO4TLBaaJH9PrbGyFlY3YY0skDJvdPbrZuz8aJv17lN4vskkDEYaEeNTqzxY/3hGoQtDCDx3YkyLB4XYqg8yXI4V7ZVeDKwuO+qkdHIN9jvzXb1A40AdRnnfT3tPhlPbOb9FLyOfP5FFVTvAdo/2FxSllJCE/ZDVNAUJqzbbEBPLQL1GLLI0Y/3up0GSOQunzXzll35bWqjfr9ddYLvmA44kaRRdLetd1lpQPbfkQ7InNFUkyN9qI/YUaRmxMFs7c4Bw6FIXQ+1Y35IRK4gPjd7lCndjqCWSFUGCtjs4VRFzyWzl/IOh/gJMjSrgrmF4Rpy5xcIBXQ6xHFw+bRFgd1/sYnHt5VGUipILFykVPvZ9WzLvVIp18me0n48re43w0I08eUfFKhfnp2/W6JUnv1Rq43id7vErsaVgTg38ILUGmz0fphxtZQ+kyNQIgVMTfA==;rIRLoSMTlPOqTSoXJajrEw=="
 ---

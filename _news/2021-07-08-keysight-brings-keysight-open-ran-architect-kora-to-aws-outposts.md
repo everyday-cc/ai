@@ -1,14 +1,11 @@
 ---
 category: news
 title: "Keysight Brings Keysight Open RAN Architect (KORA) to AWS Outposts"
-excerpt: "Keysight Technologies, Inc. (NYSE: KEYS), a leading technology company that delivers advanced design and validation solutions to help accelerate innovation to connect and secure the world, in collaboration with Amazon Web Services ( News - Alert),"
+excerpt: "AWS Outposts is a fully managed service that offers the ... RIC Test helps vendors and mobile operators validate RAN Intelligent Controllers (RIC) and RIC enabled artificial intelligence/machine learning xApps and rApps (intelligent applications hosted ..."
 publishedDateTime: 2021-07-08T15:06:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/2021/07/08/9405528.htm"
-webUrl: "https://www.tmcnet.com/usubmit/2021/07/08/9405528.htm"
+originalUrl: "https://www.tmcnet.com/usubmit/-keysight-brings-keysight-open-ran-architect-kora-aws-/2021/07/08/9405528.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-keysight-brings-keysight-open-ran-architect-kora-aws-/2021/07/08/9405528.htm"
 type: article
-quality: 19
-heat: 19
-published: false
 
 provider:
   name: TMCnet
@@ -18,6 +15,6 @@ topics:
   - AWS AI
   - AI
 
-secured: "hBJflQxnoYU3cLrj2G5jzsiQbTy8QGP9fuQcN8rGRAEYAPrAp19KbBFiSg94hS7Q42Qtz/0+mOu/+L45aWzsLziHNNJ8iGd87HjmoM3Jy0+hVkVjFoxOWXdzes0zjiwlZORwLZnDt/meASMkIQ/Cp8xDkaZy/X3FkypFIPuwT9rsaaTNMKpy88SZXzlnOTMg1i4gSt246VF5A+RpDE9R7xrVXGdCctzuQm1EhP5gOQgbKq4XP7oT2WGCM+k1Eo59evMm3mA98GVG8RW8uX9kFx4L66LeOHN7YHE8LK/HjclFlA3KqXFU+tv3jTIxe1+dKB8eXSqrj1ktpZZ32KSuP6ukXW31ZphvOBhRekMkCKI=;7kZmlv14GdVVnhu+EsywRA=="
+secured: "erjYJgE3vAz79NH27wYKtaKmpkyKjGKYKt0LDhYwnKUX7nbV1GpsbK+Bw6MQMfP2TSF2ZqZyE8a9Ruq5B67mee9DDCDQ6Hq73bmaXuKAvbZ3kViIWHfwowtqHr0RnT1FwnRASs3K7kOqSeBEeajY+h9nq6quTs/keN39YYlz+u12hxGsKneexuikAZp/nt3uuIWojZ8lrHNdWM1b6l7ZOJ3aFI1qJcCl48ndXkHvrh1PJXe0K+Cdo0dwqxt7bZsSfrbbUvl9rpHtAoUCvbmHtxLrY1j3l3MlAjqZ+atnN1MKikY8EukaQOOol8zK+HASgVCJNX5/4zHfMoOQjTtvOac/iipw6M6aePPzQ7Z0MU8=;cu9v7rxOvit0wTAGE8QE0Q=="
 ---
 

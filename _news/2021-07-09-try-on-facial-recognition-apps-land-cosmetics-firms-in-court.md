@@ -7,7 +7,7 @@ originalUrl: "https://www.biometricupdate.com/202107/try-on-facial-recognition-a
 webUrl: "https://www.biometricupdate.com/202107/try-on-facial-recognition-apps-land-cosmetics-firms-in-court"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,21 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "Democrats introduce bill to ban facial recognition in public housing"
-    excerpt: "A group of Democratic lawmakers has introduced a bill that would ban the use of facial recognition technology in public housing."
-    publishedDateTime: 2021-07-08T16:06:00Z
-    webUrl: "https://www.dailydot.com/debug/facial-recognition-public-housing-bill/"
-    ampWebUrl: "https://www.dailydot.com/debug/facial-recognition-public-housing-bill/?amp"
-    cdnAmpWebUrl: "https://www-dailydot-com.cdn.ampproject.org/c/s/www.dailydot.com/debug/facial-recognition-public-housing-bill/?amp"
+  - title: "Most State Legislatures have rejected bans and severe restrictions on facial recognition"
+    excerpt: "Facial recognition technology and related legislation have been a hot topic in the media and in policy discussions around the country. The Security Industry Association (SIA) is advocating nationwide for policies ensuring responsible use and sensible ..."
+    publishedDateTime: 2021-07-12T22:00:00Z
+    webUrl: "https://www.securityinfowatch.com/access-identity/biometrics/facial-recognition-solutions/article/21230121/security-industry-association-sia-most-state-legislatures-have-rejected-bans-and-severe-restrictions-on-facial-recognition"
     type: article
     provider:
-      name: The Daily Dot
-      domain: dailydot.com
-    quality: 59
+      name: Security
+      domain: securityinfowatch.com
+    quality: 30
     images:
-      - url: "https://uploads.dailydot.com/2021/07/Facial-Recognition-Public-Housing.jpg?auto=compress%2Cformat&ixlib=php-3.3.0"
-        width: 2000
-        height: 1000
+      - url: "https://img.securityinfowatch.com/files/base/cygnus/siw/image/2021/07/bigstock_Facial_Recognition_System_Iden_387020311.60ecba89a36b9.png?auto=format&fit=max&w=1200"
+        width: 1200
+        height: 800
         isCached: true
 
 secured: "gaE/m9ey3sR1yt0vsUuHlb+vAJvoa8UZ8LY7sB9twIUv2T6rHMBgkdOYULZixHzyQnn94eueouZKZDrIh/1QN9lQP5jBA/zFXScB5M6mDB5++B0doFJFHCtNDNEOZBtHb/ky6Y7HJtpaJvZS0Ms1iZkeGBJI826KQDN43+M6zKpaR8LssSYeYePPtTqsR4b7r/VM/2a1vPPNdARg6dq/+1MYkRroT33ClLL3fDh7ffEaflBy4FdU0Iwn/uMSAme++wtMpdRpjbcR0BpET3j7VU50lwrVc6GVWVVwog/EECR8MqmO6g/FZAIh7i0u8Mo6DSTkdl6A902g0G1CLP+zwDQ8a+EE8fL0w7jmskXuQ7gErdX6mkssEAMzfK2LWpLYYLlcjWhZLo5+2GqNgersFSg/h+8gtXrZgnOZRUGC50j0i5PssfJumisfp1uefhvPYbY9bw98jWOKk7bxYoC66DLu/uOpgr/Tjot6fzz6IP+pZQHQCJCBwNjsiWCCN5mKJ15xftcgSAa7lKidum8hiQ==;rUjU1kSSMEBPY3+QI/z7FQ=="

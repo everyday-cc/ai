@@ -79,15 +79,6 @@ related:
         width: 780
         height: 470
         isCached: true
-  - title: "AI in Telecommunication Market Booming Segments; Investors Seeking Growth | Google, Microsoft, IBM"
-    excerpt: "Get Free Exclusive PDF Sample Copy of This Research @  Scope of the Report of AI in Telecommunication Artificial Intelligence with learning abilities is a revolutionary technology, which the communication industry is exploring,"
-    publishedDateTime: 2021-07-08T16:59:00Z
-    webUrl: "https://manometcurrent.com/ai-in-telecommunication-market-booming-segments-investors-seeking-growth-google-microsoft-ibm/"
-    type: article
-    provider:
-      name: manometcurrent.com
-      domain: manometcurrent.com
-    quality: 20
 
 secured: "mwGSk++EFR3F5F817jY+MGLVzePciEDhr2aGcDdNYkZ+c99f01tY9r2kD3k1TGrlucWbHGv+F0Sb9KjTXoNfCb0MugJ+zEItM1AwDmnIgYsiQ/kV5A8CqJxmhbgg3mbDFoYdEKv1p67Rwhg5EYJQmxukJQBPeCiBEzOI2LsrqHXGlGVmCavgtXR+fUtjLTvKF2VOA9tVym28i3q/glK9L33s8n/sbuHh0s2UdJJwCi2Ib8eNyMj0CwLP6u5gqIjUYM3j8/JAFtnGUbhy9kqZMh+wjtSV3CYgoPp9ciBkb7zdXcXx4q2ZWNN0ezQC1xVjOJiwOSobqmdzcDvRFMJIec+RxKeLBMPIYunh1880jVJeWxCDOQyLmbb1AGbxMjqWWFozi63+z9lKwbtNXeI21orjsuNJ2IQ6qBPseFFWA76dghCPt0qYXdTiMeJfX87UderfYTH2rw9pPJaA9TiePdWfPtyMlWcNvDu15owH3YYDZBYy+deJiy6umz0EXPnBZmhXLxubgnW47tqUUgGjPg==;pvizDuQYSq+Lo1WJIGTMpg=="
 ---

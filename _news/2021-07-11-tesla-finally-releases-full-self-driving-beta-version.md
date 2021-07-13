@@ -231,22 +231,6 @@ related:
         width: 600
         height: 338
         isCached: true
-  - title: "Elon Musk Confirms Tesla’s Launch Date of Its Full Self-Driving Beta v9"
-    excerpt: "Tesla fans may not have long to wait to get a taste of self-driving cars, as CEO Elon Musk has (finally) confirmed an official launch date of the Full Self-Driving Beta v9. In the early hours of Thursday,"
-    publishedDateTime: 2021-07-08T16:35:00Z
-    webUrl: "https://observer.com/2021/07/elon-musk-confirms-teslas-launch-date-of-its-full-self-driving-beta-v9/"
-    ampWebUrl: "https://observer.com/2021/07/elon-musk-confirms-teslas-launch-date-of-its-full-self-driving-beta-v9/amp/"
-    cdnAmpWebUrl: "https://observer-com.cdn.ampproject.org/c/s/observer.com/2021/07/elon-musk-confirms-teslas-launch-date-of-its-full-self-driving-beta-v9/amp/"
-    type: article
-    provider:
-      name: Observer
-      domain: observer.com
-    quality: 59
-    images:
-      - url: "https://observer.com/wp-content/uploads/sites/2/2019/06/gettyimages-1130598318.jpg?quality=80&#038;strip"
-        width: 4800
-        height: 3006
-        isCached: true
   - title: "Musk Claims Full Self-Driving With Tesla Vision Will Detect Turn Signals, Listen For Emergency Sirens"
     excerpt: "Tesla finally released its FSD Beta v9 software to a limited number of owners. The software leverages Tesla Vision to analyze what's going on around the vehicle at all times and take necessary action for adjusting speed,"
     publishedDateTime: 2021-07-12T15:00:00Z

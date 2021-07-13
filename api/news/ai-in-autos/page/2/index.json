@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-06-25-tech-giants-make-push-into-autonomous-driving.md",
+      "title": "Tech Giants Make Push Into Autonomous Driving",
+      "excerpt": "Giants from Huawei Technologies Co. to Baidu Inc. have pledged to plow almost $19 billion into electric and self-driving vehicle ventures this year alone. Smartphone giant Xiaomi Corp. and even ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.ttnews.com/articles/tech-giants-make-push-autonomous-driving",
+      "originalUrl": "https://www.ttnews.com/articles/tech-giants-make-push-autonomous-driving",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://h7f7z2r7.stackpathcdn.com/sites/default/files/styles/470x246_with_tt_orange_bar_overlay/public/images/articles/zoox-bb-1200.jpg?itok=AFwdago2",
+          "width": 470,
+          "height": 246,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-25T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Transport Topics",
+        "domain": "ttnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-25-exclusive-toyota-backed-self-driving-startup-ponyai-considers-going-public.md",
       "title": "EXCLUSIVE Toyota-backed self-driving startup Pony.ai considers going public",
       "excerpt": "FREMONT, California, June 25 (Reuters) - Self-driving tech company Pony.ai ... Pony.ai, founded by former Google and Baidu Inc (9888.HK) engineers Peng and Lou Tiancheng in 2016, has so far ...",
@@ -1349,58 +1392,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/scmp.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-18-massive-record-breaking-heat-wave-reveals-how-ai-self-driving-cars-could-provide-some-cooling-relief.md",
-      "title": "Massive Record-Breaking Heat Wave Reveals How AI Self-Driving Cars Could Provide Some Cooling Relief",
-      "excerpt": "This mega-heat wave is getting worse, which if we had AI-based true self-driving cars might be somewhat mitigated, here's how.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/lanceeliot/2021/06/18/massive-record-breaking-heat-wave-reveals-how-ai-self-driving-cars-could-provide-some-cooling-relief/",
-      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2021/06/18/massive-record-breaking-heat-wave-reveals-how-ai-self-driving-cars-could-provide-some-cooling-relief/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60cbdadbe745fe5d4c133343%2F0x0.jpg%3FcropX1%3D93%26cropX2%3D1627%26cropY1%3D0%26cropY2%3D1150",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2021/06/18/massive-record-breaking-heat-wave-reveals-how-ai-self-driving-cars-could-provide-some-cooling-relief/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/06/18/massive-record-breaking-heat-wave-reveals-how-ai-self-driving-cars-could-provide-some-cooling-relief/amp/",
-      "publishedDateTime": "2021-06-18T08:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

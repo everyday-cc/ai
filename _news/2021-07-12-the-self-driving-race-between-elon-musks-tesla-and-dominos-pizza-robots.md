@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnbc.com/amp/2021/07/10/self-driving-looking-less-like-e
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/07/10/self-driving-looking-less-like-elon-musk-more-dominos-pizza-robots.html"
 type: article
 quality: 105
-heat: 365
+heat: 355
 published: true
 
 provider:
@@ -219,22 +219,6 @@ related:
       - url: "https://images.hindustantimes.com/auto/img/2021/07/12/600x338/2021-06-02T110005Z_1133997531_RC2BSN92RQ28_RTRMADP_3_TESLA-AUTOPILOT-EXPLAINER_1622688642691_1626093263831.JPG"
         width: 600
         height: 338
-        isCached: true
-  - title: "Elon Musk Confirms Tesla’s Launch Date of Its Full Self-Driving Beta v9"
-    excerpt: "Tesla fans may not have long to wait to get a taste of self-driving cars, as CEO Elon Musk has (finally) confirmed an official launch date of the Full Self-Driving Beta v9. In the early hours of Thursday,"
-    publishedDateTime: 2021-07-08T16:35:00Z
-    webUrl: "https://observer.com/2021/07/elon-musk-confirms-teslas-launch-date-of-its-full-self-driving-beta-v9/"
-    ampWebUrl: "https://observer.com/2021/07/elon-musk-confirms-teslas-launch-date-of-its-full-self-driving-beta-v9/amp/"
-    cdnAmpWebUrl: "https://observer-com.cdn.ampproject.org/c/s/observer.com/2021/07/elon-musk-confirms-teslas-launch-date-of-its-full-self-driving-beta-v9/amp/"
-    type: article
-    provider:
-      name: Observer
-      domain: observer.com
-    quality: 59
-    images:
-      - url: "https://observer.com/wp-content/uploads/sites/2/2019/06/gettyimages-1130598318.jpg?quality=80&#038;strip"
-        width: 4800
-        height: 3006
         isCached: true
   - title: "Tesla finally releases 'Full Self-Driving' Beta version"
     excerpt: "Elon Musk-run Tesla on Saturday started releasing over-the-air software updates for its much-awaited \"Full Self-Driving\" Beta version 9."

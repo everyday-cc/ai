@@ -2,58 +2,6 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2021-07-13-warburg-pincus-leads-153-mln-fundraising-for-uk-fintech-quantexa.md",
-      "title": "Warburg Pincus leads $153 mln fundraising for UK fintech Quantexa",
-      "excerpt": "\"Quantexa’s proprietary technology enables clients to create single views of individuals and entities, visualised through graph network analytics and scaled with the most advanced AI [artificial intelligence] technology,\" said Adarsh Sarma, Managing ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/technology/warburg-pincus-leads-153-mln-fundraising-uk-fintech-quantexa-2021-07-13/",
-      "originalUrl": "https://www.reuters.com/technology/warburg-pincus-leads-153-mln-fundraising-uk-fintech-quantexa-2021-07-13/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.reuters.com/pf/resources/images/reuters/reuters-default.png?d=44",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-13T00:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-07-13-quantexa-raises-153m-to-build-out-ai-based-big-data-tools-to-track-risk-and-run-investigations.md",
       "title": "Quantexa raises $153M to build out AI-based big data tools to track risk and run investigations",
       "excerpt": "As financial crime has become significantly more sophisticated, so too have the tools that are used to combat it. Now, Quantexa — one of the more interesting startups that has been building AI-based solutions to help detect and stop money laundering,",
@@ -250,7 +198,7 @@
       "originalUrl": "https://www.openpr.com/news/2326738/artificial-intelligence-as-a-service-market-may-set-epic-growth",
       "featuredContent": null,
       "highlight": null,
-      "heat": 112,
+      "heat": 102,
       "tags": null,
       "images": [
         {
@@ -1015,6 +963,57 @@
         "Machine Learning",
         "AI",
         "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2021-07-12-artificial-intelligence-is-improving-energy-companies-not-replacing-workers.md",
+      "title": "Artificial Intelligence Is Improving Energy Companies — Not Replacing Workers",
+      "excerpt": "A power plant that will run on “artificial intelligence” is about to get underway in West Africa. The joint venture between Swiss-based Xcell Security House and Finance and U.S.-based Beyond Limits will embed intelligence and awareness into the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/kensilverstein/2021/07/12/artificial-intelligence-is-improving-energy-companies---not-replacing-workers/",
+      "originalUrl": "https://www.forbes.com/sites/kensilverstein/2021/07/12/artificial-intelligence-is-improving-energy-companies---not-replacing-workers/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60e77cd540da575f48ca0980%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/kensilverstein/2021/07/12/artificial-intelligence-is-improving-energy-companies---not-replacing-workers/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/kensilverstein/2021/07/12/artificial-intelligence-is-improving-energy-companies---not-replacing-workers/amp/",
+      "publishedDateTime": "2021-07-12T07:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
       ]
     },
     {

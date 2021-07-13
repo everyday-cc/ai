@@ -3,8 +3,8 @@ category: news
 title: "Informatica Expands Cloud Footprint on Microsoft Azure Germany"
 excerpt: "New Intelligent Data Management Cloud on Azure Bolsters Cloud Momentum in the European region FRANKFURT, Germany,  /PRNewswire/ -- Informatica, the enterprise cloud data management leader, today announced it will make its Intelligent Data Management Cloud (IDMC),"
 publishedDateTime: 2021-07-13T07:13:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-informatica-expands-cloud-footprint-microsoft-azure-germany-/2021/07/13/9407196.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-informatica-expands-cloud-footprint-microsoft-azure-germany-/2021/07/13/9407196.htm"
+originalUrl: "https://www.tmcnet.com/usubmit/2021/07/13/9407196.htm"
+webUrl: "https://www.tmcnet.com/usubmit/2021/07/13/9407196.htm"
 type: article
 quality: 34
 heat: -1
@@ -118,6 +118,6 @@ related:
       domain: tmcnet.com
     quality: 14
 
-secured: "td4m6C/Z7wN4CTruBYVUH8jFBAD1m2ueIBr2D/qsqtwIhaKG31VvvLoEmn6w7fSDhQ6t3g6Ak1OwqgiyIsW1anP86cCPwHGRMj6PNMyX0e/7Fp3BgOdtqBpej5HN538sa21HGAkBhRzUb48aVNEUDlpsofjHNK6dn+TDbI7ltEk9p9c1MsmEeweWqYwLEqdjsiUwWxuCJS/b+3DDEFOWpA0m/d22vzY0r0d7CX21IgE9C8cEQgU5mY9oX+2nF4hNrXQbrdSXtfpbTtQfJDJKnGBspI+cAdrw0JW5w/gausKJwzEEXlt4hLhD5PsDfndzRE1SwBQKmRCm4Gf4v34nEX8l/AuLzFhq/omZpFzna2BxEAPEpvIGrD3QGev8ryxMuaBxqSFvmbsKC3k0M+mY1AF8m+MOzYPNhzlIkHi7CyIbi/LxhPZKXiKBv+v4m5qxz/aS7W4ySODqdF6MsQS2JuC3h2UZQ2WZNp6SUBUdw4I8d0LriOMgEGr/FU9fVuk1o8WjJgNIj9xyI/wqn2ylvA==;8/9aMREyhrLPs5ZfGxKoKg=="
+secured: "m6KdNi13+yPo7IVxlLNt/z2oqR4L9Knl1vLLp7LCOzRg953HraL9iLp0dooHsR1SgzkUlGGmkJbcnFp3w2fqSAUzini7V2GVMJJGSde3q5D4EY3ehXS2K5iC4cd79mzkpo0LhgLJFtz+acbphILN/XFZdbpugqqMF2lQMLaLq1baIGku1wtQ/lwVau+JfLonSV+cTCxP+PzDQcDTgIPov5Yxvu1N+2YKSig0Z7bSG0RM1a3wsO+HTD99iISG6fIj18lyBbJzEX3qoOCwrKh1DzMESXYvCawcSGS42MnN+wRVojs4SBTv915Zxiku+PmMk6XBP77VG8U8oh41pnnLRjGwHR1gdLpt9rooGPbi1ZjaDWtsdFvIY4L2izlJtmiNR9GRc1+KyTP6C9OjT8bsFm/i1zK2XnX2e2sSptx4qRfpuJGcIhVTQ6B/kKaGi57OvliBGbyY1d6LwIzwamR9QriV6R/h4SWQWu5OeSIughrc8T2qPt6BWbStYOsUkNEpFqGUUjB73r+VWprlWu49yw==;pc7P83npolCd4aaEw04yZQ=="
 ---
 

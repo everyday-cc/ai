@@ -2,58 +2,6 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2021-07-13-warburg-pincus-leads-153-mln-fundraising-for-uk-fintech-quantexa.md",
-      "title": "Warburg Pincus leads $153 mln fundraising for UK fintech Quantexa",
-      "excerpt": "\"Quantexa’s proprietary technology enables clients to create single views of individuals and entities, visualised through graph network analytics and scaled with the most advanced AI [artificial intelligence] technology,\" said Adarsh Sarma, Managing ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/technology/warburg-pincus-leads-153-mln-fundraising-uk-fintech-quantexa-2021-07-13/",
-      "originalUrl": "https://www.reuters.com/technology/warburg-pincus-leads-153-mln-fundraising-uk-fintech-quantexa-2021-07-13/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.reuters.com/pf/resources/images/reuters/reuters-default.png?d=44",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-13T00:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-07-13-digital-transformation-microsoft-azure-cloud-platform-to-be-used-by-canadian-imperial-bank-of-commerce.md",
       "title": "Digital Transformation: Microsoft Azure Cloud Platform to be Used by Canadian Imperial Bank of Commerce",
       "excerpt": "The Canadian Imperial Bank of Commerce (CIBC) (TSE: CM), a multinational banking and financial services corporation headquartered in Toronto, Ontario, has entered a multi-year deal to use Microsoft Azure as its main Cloud platform.",
@@ -435,6 +383,41 @@
       "provider": {
         "name": "Big News Network.com",
         "domain": "bignewsnetwork.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-07-05-aiml-innovations-inc-engages-volt-strategic-partners-and-tdm-financial-for-capital-market-communications-and-market-making-services.md",
+      "title": "AI/ML Innovations Inc. Engages Volt Strategic Partners and TDM Financial for Capital Market Communications and Market-Making Services",
+      "excerpt": "Volt Strategic is a market communications and business optimization firm working with senior business leaders and innovators to help grow organizational value, build business and accelerate market appreciation for emerging technology,",
+      "sourceUrl": null,
+      "webUrl": "https://www.morningstar.com/news/accesswire/654239msn/aiml-innovations-inc-engages-volt-strategic-partners-and-tdm-financial-for-capital-market-communications-and-market-making-services",
+      "originalUrl": "https://www.morningstar.com/news/accesswire/654239msn/aiml-innovations-inc-engages-volt-strategic-partners-and-tdm-financial-for-capital-market-communications-and-market-making-services",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-05T08:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Morningstar, Inc.",
+        "domain": "morningstar.com",
         "images": null,
         "publishers": null,
         "authors": null

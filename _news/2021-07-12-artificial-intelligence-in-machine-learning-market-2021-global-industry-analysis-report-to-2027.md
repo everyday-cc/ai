@@ -160,6 +160,24 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 28
+  - title: "Global Artificial Intelligence (AI) in BFSI Market Size, Status and Forecast 2021-2027"
+    excerpt: "Pages Report] Check for Discount on Global Artificial Intelligence (AI) in BFSI Market Size, Status and Forecast 2021-2027 report by QYResearch Group. Artificial Intelligence (AI) is fast evolving as the"
+    publishedDateTime: 2021-07-13T08:22:00Z
+    webUrl: "https://www.reportsnreports.com/reports/4662109-global-artificial-intelligence-ai-in-bfsi-market-size-status-and-forecast-2021-2027.html"
+    type: article
+    provider:
+      name: ReportsnReports
+      domain: reportsnreports.com
+    quality: 26
+  - title: "Global Artificial Intelligence in Retail Market Size, Status and Forecast 2021-2027"
+    excerpt: "Pages Report] Check for Discount on Global Artificial Intelligence in Retail Market Size, Status and Forecast 2021-2027 report by QYResearch Group. Market Analysis and Insights: Global Artificial Intelligence in Retail"
+    publishedDateTime: 2021-07-13T08:23:00Z
+    webUrl: "https://www.reportsnreports.com/reports/4662322-global-artificial-intelligence-in-retail-market-size-status-and-forecast-2021-2027.html"
+    type: article
+    provider:
+      name: ReportsnReports
+      domain: reportsnreports.com
+    quality: 26
   - title: "Artificial Intelligence (AI) in Construction Market SWOT Analysis by Size, Status and Forecast to 2021-2027"
     excerpt: "Latest published market study on Global Artificial Intelligence (AI) in Construction Market provides an overview of the current market dynamics in the Artificial Intelligence (AI) in Construction space,"
     publishedDateTime: 2021-07-11T01:39:00Z
@@ -178,20 +196,6 @@ related:
       name: ReportsnReports
       domain: reportsnreports.com
     quality: 13
-  - title: "Artificial Intelligence Chipsets Market 2021 Strategic Analysis, Growth Drivers, Industry Trends, Demand And Future Opportunities Till 2027"
-    excerpt: "Outbreak-Global Artificial Intelligence Chipsets Industry Market Report-Development Trends, Threats, Opportunities And Competitive Landscape In 2021, Forecast to 2027” has recently published by ResearchMoz to its humongous database which helps to shape the future of the businesses by making well-informed business decisions."
-    publishedDateTime: 2021-07-08T15:22:00Z
-    webUrl: "https://manometcurrent.com/artificial-intelligence-chipsets-market-2021-strategic-analysis-growth-drivers-industry-trends-demand-and-future-opportunities-till-2027/"
-    type: article
-    provider:
-      name: manometcurrent.com
-      domain: manometcurrent.com
-    quality: 3
-    images:
-      - url: "https://jumbonews.co.uk/wp-content/uploads/2021/06/MARKET-RESEARCH-REPORT-2021.png"
-        width: 800
-        height: 400
-        isCached: true
 
 secured: "tASEGMtnGkEefej0fFSwFAGz/xTMRk7UeHR5vLpQCymcGAfK1ZrPI9K3dm02ZqkdrZwtGoHWHUa/Y95J4Yh4nJTgiE3WUaCmOceNEhO2fady2GaFZf/94pBP4Q5afapQw0Ierkqoxuwqb7UIv1NjQjR1V2Ek7itFWLBfYfuGXri2pf1oM97Ns8KADpzDZfNo9hP2pfeLoPm2st7FhuRfKUW8fnHz667gox5XhNmam3m71gCW0yKk5FZdfZJq6pIPIjIzgKNkoDC5SYa0iqqGi41EHw2r0uw2AKr/lHeZe+7W0Beh9MX7nL4kh73Hp/Be4QXASYMghSOnFuX402J5yiS/Wf/tbQsSykKgR2iZHSs=;Z/6myjME7GK3wnxra47azg=="
 ---

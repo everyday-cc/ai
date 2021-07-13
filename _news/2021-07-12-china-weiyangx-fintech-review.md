@@ -55,20 +55,6 @@ related:
         width: 1620
         height: 1080
         isCached: true
-  - title: "The Future of Fintech 2021 on demand"
-    excerpt: "On the 17th of June, FStech's virtual conference returned for 2021, covering the biggest trends in financial services technology. Across a variety of keynote speeches, in-depth presentations and lively panel discussions this online event tackled how firms can deal with the challenges of the Coronavirus crisis one year on, as well as looking forward to what the 'new normal' will look like for an industry already in the grips of digital disruption. Among the topics on the agenda were: cyber security in the time of COVID-19, the RegTech solutions automating compliance, improving data literacy and governance, protecting customers from fraud, AI and machine learning, the rise of digital assets, upgrading legacy systems and ensuring data is safe and optimised in the cloud. For those of you who missed the event, or would like to watch specific sessions again, we have collected the day's content and put it all in one place for easy viewing:"
-    publishedDateTime: 2021-07-10T09:48:00Z
-    webUrl: "https://www.fstech.co.uk/future-fintech-digital-conference/ondemand.php"
-    type: article
-    provider:
-      name: fstech.co.uk
-      domain: fstech.co.uk
-    quality: 24
-    images:
-      - url: "https://perspectivepublishing.co.uk/dev/cms/uploads/FStech%20Couchbase%208th%20December%202020/final_cb.jpg"
-        width: 314
-        height: 314
-        isCached: true
 
 secured: "MyU8jBesEMEdsB3Kv4UGRmOGypTIqHg2/fjUY+b13p5Xduu8RL48d46HK0G2gFjH3d8aOYNKQN2RIHoijuzz0rJXw0v5rPTmjaFkvO6a1VdCMjaYu6Zb/NThrJYlo4+gic8m7MohjPqW2wv611V326Ng/HA+kDEHNlCp60GrnQEdwkv7aFPH74bJMLRo82mNe6UOyfVZmwYHHQPiB5Zy5g4ZmSnH+Y44MYfmSk9jaJl225O3A3wcxSBXV50/oZBTH8xkqvqHorYx7JI20AFfnG6FplLIN8KYllkoV4Pb9o1YTRX6vMs44I9KZlLhraI7PXPHd2jsbOBfrYbRJp9OKM+A7IskSufTKbwBTQe/aqsLNRVlBzxiowbkfDcavRuwm4gGpKTQFcj/xNNmvZ2yvvL9/zT82jml2xfFjTkZT0u9m/d1mzBr2zFhfGxHtQ7PZJCsLsJ6qJNouxBOdfkrVHItBb+ru78hrj7qR4+z7mDOlLrlyuTo1uRxdTV2bnrrp1od90b0n2J4etyLOwkVYw==;bF2YhbSL16cRYeIoPFA96Q=="
 ---

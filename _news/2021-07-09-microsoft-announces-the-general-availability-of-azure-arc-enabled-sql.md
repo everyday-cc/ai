@@ -7,7 +7,7 @@ originalUrl: "https://www.infoq.com/news/2021/07/azure-arc-enabled-sql/"
 webUrl: "https://www.infoq.com/news/2021/07/azure-arc-enabled-sql/"
 type: article
 quality: 69
-heat: 119
+heat: 129
 published: true
 
 provider:
@@ -28,7 +28,7 @@ related:
   - title: "D2iQ Now Available in the Microsoft Azure Marketplace"
     excerpt: "D2iQ, a leading independent Kubernetes platform, today announced the availability of the D2iQ Kubernetes Platform (DKP), including D2iQ Kommander, D2iQ Konvoy, and D2iQ Kaptain, in the Microsoft Azure Marketplace,"
     publishedDateTime: 2021-07-12T13:07:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-d2iq-now-available-the-microsoft-azure-marketplace-/2021/07/12/9406732.htm"
+    webUrl: "https://www.tmcnet.com/usubmit/2021/07/12/9406732.htm"
     type: article
     provider:
       name: TMCnet
@@ -53,6 +53,15 @@ related:
         width: 896
         height: 504
         isCached: true
+  - title: "NEC signs new partnership with Microsoft, to migrate IT to Azure"
+    excerpt: "NEC said it expanded its decades-long collaboration with Microsoft. Through a new multi-year strategic partnership, the companies will leverage Microsoft Azure, Microsoft 365, NEC's network and IT expertise,"
+    publishedDateTime: 2021-07-13T08:29:00Z
+    webUrl: "https://www.telecompaper.com/news/nec-signs-new-partnership-with-microsoft-to-migrate-it-to-azure--1389976"
+    type: article
+    provider:
+      name: Telecompaper
+      domain: telecompaper.com
+    quality: 34
   - title: "Qlik Recognized as a Finalist of 2021 Microsoft Analytics Partner of the Year Award"
     excerpt: "Qlik ® today announced it has been named a finalist of the 2021 Microsoft Analytics Partner of the Year Award. The company was honored among a global field of top Microsoft partners for demonstrating excellence in innovation and implementation of customer solutions based on Microsoft technology."
     publishedDateTime: 2021-07-08T19:02:00Z

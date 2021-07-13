@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/military-robots-market-s
 webUrl: "https://www.marketwatch.com/press-release/military-robots-market-share-size-industry-players-revenue-and-product-demand-forecast-till-2024-2021-07-10"
 type: article
 quality: 55
-heat: 105
+heat: 135
 published: true
 
 provider:
@@ -52,6 +52,15 @@ related:
       name: ReportsnReports
       domain: reportsnreports.com
     quality: 27
+  - title: "Global Face Recognition Technology Market Size, Status and Forecast 2021-2027"
+    excerpt: "Pages Report] Check for Discount on Global Face Recognition Technology Market Size, Status and Forecast 2021-2027 report by QYResearch Group. Market Analysis and Insights: Global Face Recognition Technology Market"
+    publishedDateTime: 2021-07-10T09:01:00Z
+    webUrl: "https://www.reportsnreports.com/reports/4660488-global-face-recognition-technology-market-size-status-and-forecast-2021-2027.html"
+    type: article
+    provider:
+      name: ReportsnReports
+      domain: reportsnreports.com
+    quality: 16
   - title: "Global Automatic Speech Recognition Market Size, Status and Forecast 2021-2027"
     excerpt: "The global Automatic Speech Recognition market size is projected to reach US$ XX million by 2027, from US$ XX million in 2020, at a CAGR of XX% during 2021-2027. With industry-standard accuracy in analysis and high data integrity, the report makes a ..."
     publishedDateTime: 2021-07-10T09:05:00Z
@@ -84,6 +93,24 @@ related:
         width: 390
         height: 220
         isCached: true
+  - title: "Global Voice Recognition Software Market Size, Status and Forecast 2021-2027"
+    excerpt: "Pages Report] Check for Discount on Global Voice Recognition Software Market Size, Status and Forecast 2021-2027 report by QYResearch Group. Market Analysis and Insights: Global Voice Recognition Software Market"
+    publishedDateTime: 2021-07-13T08:24:00Z
+    webUrl: "https://www.reportsnreports.com/reports/4662311-global-voice-recognition-software-market-size-status-and-forecast-2021-2027.html"
+    type: article
+    provider:
+      name: ReportsnReports
+      domain: reportsnreports.com
+    quality: 1
+  - title: "Global Educational Robot Market (2021 to 2026) – Industry Trends, Share, Size, Growth, Opportunity and Forecasts – ResearchAndMarkets.com"
+    excerpt: "Global Industry Trends, Share, Size, Growth, Opportunity and Forecast 2021-2026” report has been added to ResearchAndMarkets.com’s offering. The global educational robot market exhibited strong growth during 2015-2020."
+    publishedDateTime: 2021-07-12T14:08:00Z
+    webUrl: "https://www.financialbuzz.com/global-educational-robot-market-2021-to-2026-industry-trends-share-size-growth-opportunity-and-forecasts-researchandmarkets-com/"
+    type: article
+    provider:
+      name: Financial Buzz
+      domain: financialbuzz.com
+    quality: 0
 
 secured: "TLXsgEXK0HjMZjegTvXDNHcaR/QRP5Ys4IwEu3YM60nWktigZwSTiVhOlHIGgGQAaLnjPTi+LRwb3nbJsclOi8q58TlexBEqqguy62Xls7dlNI01FMIjVBXmzVTJ5u/gfq+bHchdUFxsIyF1W/+xMBiX3xQ8ovgnD1+vC+5dLwN+aTT7WDedYf14Nyns0aK3e9zB1VpL8neHn69zeMZPdgQl4JicrUKC+Vc8Qv5ZcHji4HbJ911XutZDW2UlM46n0TEwUk9pfQDRgkgAHOqwTL8cXJg2saepooZ1S9qNBSFcIGz54/9Ye+46/gqEIcjHw17m10/82eAYwwkaPusPgtTjHAtKAyT4iDfmQR/VFas=;aNsRr3K+MVgpJ9HHZNNQ6Q=="
 ---

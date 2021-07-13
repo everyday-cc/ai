@@ -2,6 +2,203 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2021-07-01-a-cio-weighs-in-on-how-ai-can-benefit-non-technical-roles-particularly-hr.md",
+      "title": "A CIO weighs in on how AI can benefit non-technical roles, particularly HR",
+      "excerpt": "Jeff Gregory, the Thirdera CIO, discussed how AI can impact non-technical roles in an organization, especially in the realm of human resources.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/06/30/a-cio-weighs-in-on-how-ai-can-benefit-non-technical-roles/",
+      "originalUrl": "https://venturebeat.com/2021/06/30/a-cio-weighs-in-on-how-ai-can-benefit-non-technical-roles/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2018/02/shutterstock_777026485-e1625048155126.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/06/30/a-cio-weighs-in-on-how-ai-can-benefit-non-technical-roles/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/30/a-cio-weighs-in-on-how-ai-can-benefit-non-technical-roles/amp/",
+      "publishedDateTime": "2021-06-30T14:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-01-cheers-to-the-heineken-bot-self-driving-beer-delivery-robot.md",
+      "title": "Cheers to the Heineken B.O.T. Self-Driving Beer Delivery Robot",
+      "excerpt": "You could train your dog to grab one for you, which would take effort, time, and commitment. Or you could turn to Heineken's new B.O.T., which is, yep, a beer-carrying robot that brings the beers to you.",
+      "sourceUrl": null,
+      "webUrl": "https://www.motortrend.com/news/heineken-bot-beer-robot-cooler/",
+      "originalUrl": "https://www.motortrend.com/news/heineken-bot-beer-robot-cooler/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://st.motortrend.com/uploads/sites/5/2021/06/Heineken-B.O.T.-1.jpg",
+          "width": 1360,
+          "height": 765,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.motortrend.com/news/heineken-bot-beer-robot-cooler/amp/",
+      "cdnAmpWebUrl": "https://www-motortrend-com.cdn.ampproject.org/c/s/www.motortrend.com/news/heineken-bot-beer-robot-cooler/amp/",
+      "publishedDateTime": "2021-06-30T14:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Motor Trend",
+        "domain": "motortrend.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2021-07-01-no-job-is-future-proof-how-to-adopt-ai-while-protecting-your-employees.md",
+      "title": "No Job Is Future-Proof. How To Adopt AI While Protecting Your Employees",
+      "excerpt": "No job is safe from what technology may have in store. Here are four ways leaders can embrace AI without compromising their commitment to employees.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/ganeskesari/2021/06/30/no-job-is-future-proof-how-to-adopt-ai-while-protecting-your-employees/",
+      "originalUrl": "https://www.forbes.com/sites/ganeskesari/2021/06/30/no-job-is-future-proof-how-to-adopt-ai-while-protecting-your-employees/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60dcb0a523046eafa0268ae3%2F0x0.jpg%3FcropX1%3D494%26cropX2%3D5537%26cropY1%3D0%26cropY2%3D3783",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/ganeskesari/2021/06/30/no-job-is-future-proof-how-to-adopt-ai-while-protecting-your-employees/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ganeskesari/2021/06/30/no-job-is-future-proof-how-to-adopt-ai-while-protecting-your-employees/amp/",
+      "publishedDateTime": "2021-06-30T13:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-01-parrots-4g-connected-anafi-ai-drone-is-the-google-maps-car-of-the-skies.md",
+      "title": "Parrot’s 4G-connected Anafi Ai drone is the Google Maps car of the skies",
+      "excerpt": "Parrot's new 4G-connected Anafi Ai drone has no range limits and a powerful camera for breathtaking photography.",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaltrends.com/cool-tech/anafi-ai-drone-google-maps-car-skies/",
+      "originalUrl": "https://www.digitaltrends.com/cool-tech/anafi-ai-drone-google-maps-car-skies/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://icdn.digitaltrends.com/image/digitaltrends/anafi-ai_lifestyle.jpg",
+          "width": 1223,
+          "height": 790,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.digitaltrends.com/cool-tech/anafi-ai-drone-google-maps-car-skies/?amp",
+      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/cool-tech/anafi-ai-drone-google-maps-car-skies/?amp",
+      "publishedDateTime": "2021-06-30T12:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Trends",
+        "domain": "digitaltrends.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-01-maine-bans-facial-recognition-technology-from-schools-and-most-police-work.md",
       "title": "Maine bans facial recognition technology from schools and most police work",
       "excerpt": "Maine has passed the strongest statewide law regulating government use of facial recognition to date. The state’s House and Senate voted unanimously in favor of rules that prohibit law enforcement from using the technology unless they have probable cause that an unidentified person in an image committed a serious crime.",
@@ -302,49 +499,6 @@
       ]
     },
     {
-      "path": "_news/2021-07-01-facial-recognition-tech-has-been-widely-used-across-the-us-government-for-years-a-new-report-shows.md",
-      "title": "Facial recognition tech has been widely used across the US government for years, a new report shows",
-      "excerpt": "As George Floyd's death sparked protests in cities across the country, six federal agencies turned to facial-recognition software in an effort to identify people in images of the civil unrest,",
-      "sourceUrl": null,
-      "webUrl": "https://www.gwinnettdailypost.com/news/facial-recognition-tech-has-been-widely-used-across-the-us-government-for-years-a-new/article_30cff4a5-33f7-51fb-aa61-01eba1407dfe.html",
-      "originalUrl": "https://www.gwinnettdailypost.com/news/facial-recognition-tech-has-been-widely-used-across-the-us-government-for-years-a-new/article_30cff4a5-33f7-51fb-aa61-01eba1407dfe.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/gwinnettdailypost.com/content/tncms/assets/v3/editorial/3/fb/3fb88124-d9cd-11eb-82d9-bb024750c37f/60dcb1908b220.image.jpg?resize=948%2C630",
-          "width": 948,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-30T10:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gwinnett Daily Post",
-        "domain": "gwinnettdailypost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-06-30-an-update-on-our-progress-in-responsible-ai-innovation.md",
       "title": "An update on our progress in responsible AI innovation",
       "excerpt": "Over the past year, responsibly developed AI has transformed health screenings, supportedfact-checking to battle misinformation and save lives, predicted Covid-19 cases to support public health, and protected wildlife after bushfires. Developing AI in a way that gets it right for everyone requires openness,",
@@ -635,6 +789,58 @@
       ],
       "topics": [
         "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-30-what-investors-should-know-about-baidus-ai-chip-spin-off.md",
+      "title": "What Investors Should Know About Baidu's AI Chip Spin-Off",
+      "excerpt": "Baidu (NASDAQ:BIDU) unveiled Kunlun, its artificial intelligence (AI) chip optimized for cloud-to-edge computing tasks, three years ago. At the time, it claimed the 14nm chip provided 1.5 to three times more processing power than NVIDIA's comparable T4 GPU for AI tasks.",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2021/06/30/what-investors-know-about-baidu-ai-chip-spin-off/",
+      "originalUrl": "https://www.fool.com/investing/2021/06/30/what-investors-know-about-baidu-ai-chip-spin-off/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F632101%2F1600829035136803.jpg&w=1200&op=resize",
+          "width": 1200,
+          "height": 721,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.fool.com/amp/investing/2021/06/30/what-investors-know-about-baidu-ai-chip-spin-off/",
+      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/06/30/what-investors-know-about-baidu-ai-chip-spin-off/",
+      "publishedDateTime": "2021-06-30T08:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
         "AI"
       ]
     },
@@ -978,49 +1184,6 @@
       ]
     },
     {
-      "path": "_news/2021-06-30-what-investors-should-know-about-baidus-ai-chip-spin-off.md",
-      "title": "What Investors Should Know About Baidu's AI Chip Spin-Off",
-      "excerpt": "Baidu (NASDAQ: BIDU) unveiled Kunlun, its artificial intelligence (AI) chip optimized for cloud-to-edge computing tasks, three years ago. At the",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/what-investors-should-know-about-baidus-ai-chip-spin-off-10289234",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/what-investors-should-know-about-baidus-ai-chip-spin-off-10289234",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-30T06:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-06-30-ai-is-starting-to-understand-us-but-how-well-do-we-understand-ai.md",
       "title": "AI Is Starting To Understand Us, But How Well Do We Understand AI?",
       "excerpt": "Artificial intelligence (AI) still often overpromises and underdelivers, but we are seeing AI begin to understand us and adoption has accelerated rapidly. Are we prepared for what is coming? Will AI Weed Out My Job?",
@@ -1069,162 +1232,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-30-this-ai-just-evolved-from-companion-robot-to-home-based-physician-helper.md",
-      "title": "This AI Just Evolved From Companion Robot To Home-Based Physician Helper",
-      "excerpt": "The Israeli startup has developed the AI-based, award-winning proactive social robot ElliQ which has spent over 30,000 days in older adults’ homes over the past two years. Now ElliQ will help increase patient engagement while offering primary care providers continuous actionable data and insights for early detection and intervention.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/gilpress/2021/06/30/this-ai-just-evolved-from-companion-robot-to-home-based-physician-helper/",
-      "originalUrl": "https://www.forbes.com/sites/gilpress/2021/06/30/this-ai-just-evolved-from-companion-robot-to-home-based-physician-helper/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 103,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60dbe5bce16dc1909fa61bcd%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D3292%26cropY1%3D171%26cropY2%3D2022",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/gilpress/2021/06/30/this-ai-just-evolved-from-companion-robot-to-home-based-physician-helper/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/gilpress/2021/06/30/this-ai-just-evolved-from-companion-robot-to-home-based-physician-helper/amp/",
-      "publishedDateTime": "2021-06-30T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-30-artificial-intelligence-in-insurtech-market-grows-owning-to-innovations-by-2027.md",
-      "title": "Artificial Intelligence In Insurtech Market Grows Owning To Innovations by 2027",
-      "excerpt": "Request a sample Report of Artificial Intelligence In Insurtech Market at:  The business intelligence report of Artificial Intelligence In Insurtech market provides conclusive data on the business dynamics over the forecast timeframe with respect to key growth drivers,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-insurtech-market-grows-owning-to-innovations-by-2027-2021-06-30",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-insurtech-market-grows-owning-to-innovations-by-2027-2021-06-30",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-30T05:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-30-16-smart-marketing-approaches-to-build-brand-recognition.md",
-      "title": "16 Smart Marketing Approaches To Build Brand Recognition",
-      "excerpt": "With so many channels available to reach potential customers these days, it can be challenging to figure out the best way to build brand recognition.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesagencycouncil/2021/06/30/16-smart-marketing-approaches-to-build-brand-recognition/",
-      "originalUrl": "https://www.forbes.com/sites/forbesagencycouncil/2021/06/30/16-smart-marketing-approaches-to-build-brand-recognition/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60da2672c3cce41a8d021650%2F0x0.jpg",
-          "width": 1200,
-          "height": 978,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesagencycouncil/2021/06/30/16-smart-marketing-approaches-to-build-brand-recognition/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesagencycouncil/2021/06/30/16-smart-marketing-approaches-to-build-brand-recognition/amp/",
-      "publishedDateTime": "2021-06-30T05:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI in Marketing"
       ]
     }
   ],

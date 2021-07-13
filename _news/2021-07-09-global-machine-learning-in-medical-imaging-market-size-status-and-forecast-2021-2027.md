@@ -58,6 +58,20 @@ related:
       name: SciTech Daily
       domain: scitechdaily.com
     quality: 39
+  - title: "Self-Driving Cars and Light Trucks Market Research Report with Size, Share, Value, CAGR, Outlook, Analysis, Latest Updates, Data, and News 2021-2028"
+    excerpt: "This report elaborates the market size, market characteristics, and market growth of the Self-Driving Cars and Light"
+    publishedDateTime: 2021-07-12T17:12:00Z
+    webUrl: "https://www.marketwatch.com/press-release/self-driving-cars-and-light-trucks-market-research-report-with-size-share-value-cagr-outlook-analysis-latest-updates-data-and-news-2021-2028-2021-07-12"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 15
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Global Conversational AI Market 2021-2026: Competitive Analysis, Impact of COVID-19, Ansoff Analysis - ResearchAndMarkets.com"
     excerpt: "The “Global Conversational AI Market (2021-2026) by Type, Distribution Channel, Application and Geography - Competitive Analysis, Impact of COVID-19, Ansoff Analysis” report has been added to ResearchAndMarkets.com’s offering. The Global ..."
     publishedDateTime: 2021-07-09T09:07:00Z

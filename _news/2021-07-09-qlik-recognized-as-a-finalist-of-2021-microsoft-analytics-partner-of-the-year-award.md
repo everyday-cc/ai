@@ -42,7 +42,7 @@ related:
   - title: "D2iQ Now Available in the Microsoft Azure Marketplace"
     excerpt: "D2iQ, a leading independent Kubernetes platform, today announced the availability of the D2iQ Kubernetes Platform (DKP), including D2iQ Kommander, D2iQ Konvoy, and D2iQ Kaptain, in the Microsoft Azure Marketplace,"
     publishedDateTime: 2021-07-12T13:07:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-d2iq-now-available-the-microsoft-azure-marketplace-/2021/07/12/9406732.htm"
+    webUrl: "https://www.tmcnet.com/usubmit/2021/07/12/9406732.htm"
     type: article
     provider:
       name: TMCnet
@@ -67,6 +67,15 @@ related:
         width: 896
         height: 504
         isCached: true
+  - title: "NEC signs new partnership with Microsoft, to migrate IT to Azure"
+    excerpt: "NEC said it expanded its decades-long collaboration with Microsoft. Through a new multi-year strategic partnership, the companies will leverage Microsoft Azure, Microsoft 365, NEC's network and IT expertise,"
+    publishedDateTime: 2021-07-13T08:29:00Z
+    webUrl: "https://www.telecompaper.com/news/nec-signs-new-partnership-with-microsoft-to-migrate-it-to-azure--1389976"
+    type: article
+    provider:
+      name: Telecompaper
+      domain: telecompaper.com
+    quality: 34
   - title: "Kwik Lok adds Microsoft executive to board"
     excerpt: "Jeff’s addition to Kwik Lok’s board of directors brings many opportunities to expand our innovation, collaboration and technology initiatives,” Kimberly Paxton-Hagner, Kwik Lok board chairwoman, said in a news release."
     publishedDateTime: 2021-07-12T23:08:00Z

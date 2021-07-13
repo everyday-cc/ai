@@ -140,6 +140,40 @@
       ]
     },
     {
+      "path": "_news/2021-07-08-keysight-brings-keysight-open-ran-architect-kora-to-aws-outposts.md",
+      "title": "Keysight Brings Keysight Open RAN Architect (KORA) to AWS Outposts",
+      "excerpt": "AWS Outposts is a fully managed service that offers the ... RIC Test helps vendors and mobile operators validate RAN Intelligent Controllers (RIC) and RIC enabled artificial intelligence/machine learning xApps and rApps (intelligent applications hosted ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/-keysight-brings-keysight-open-ran-architect-kora-aws-/2021/07/08/9405528.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-keysight-brings-keysight-open-ran-architect-kora-aws-/2021/07/08/9405528.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-08T08:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-08-best-artificial-intelligence-stocks-to-buy-in-july-2021-3-names-to-know.md",
       "title": "Best Artificial Intelligence Stocks To Buy In July 2021? 3 Names To Know",
       "excerpt": "Artificial intelligence (AI ... Notably, the Cambridge-1 will serve to enable top scientists and healthcare experts via a combination of AI and simulation. In turn, this will ideally accelerate the digital biology revolution and bolster the country ...",
@@ -381,6 +415,40 @@
       ],
       "topics": [
         "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-08-halo-and-las-vegas-launch-driverless-car-service-powered-by-t-mobile-5g.md",
+      "title": "Halo and Las Vegas Launch Driverless Car Service Powered by T-Mobile 5G",
+      "excerpt": "Driverless Halos solve transportation challenges ... safety hazard or system anomaly is detected. Using an advanced Artificial Intelligence algorithm, the car also learns in the background while ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.morningstar.com/news/business-wire/20210708005541/halo-and-las-vegas-launch-driverless-car-service-powered-by-t-mobile-5g",
+      "originalUrl": "https://www.morningstar.com/news/business-wire/20210708005541/halo-and-las-vegas-launch-driverless-car-service-powered-by-t-mobile-5g",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-08T06:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Morningstar%2c Inc.",
+        "domain": "morningstar.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
         "AI"
       ]
     },
@@ -1113,111 +1181,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-08-armorblox-and-intermedia-team-up-to-protect-email-from-cyberattacks-with-ai.md",
-      "title": "Armorblox and Intermedia team up to protect email from cyberattacks with AI",
-      "excerpt": "Cybersecurity company Armorblox and email provider Intermedia partnered to help enterprises combat the rise in cyberattacks with AI.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/07/07/armorblox-and-intermedia-team-up-to-protect-email-from-cyberattacks-with-ai/",
-      "originalUrl": "https://venturebeat.com/2021/07/07/armorblox-and-intermedia-team-up-to-protect-email-from-cyberattacks-with-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/07/maxresdefault-e1625690997914.jpeg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/07/07/armorblox-and-intermedia-team-up-to-protect-email-from-cyberattacks-with-ai/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/07/armorblox-and-intermedia-team-up-to-protect-email-from-cyberattacks-with-ai/amp/",
-      "publishedDateTime": "2021-07-07T14:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-08-infrared-cameras-and-artificial-intelligence-provide-insight-into-boiling.md",
-      "title": "Infrared cameras and artificial intelligence provide insight into boiling",
-      "excerpt": "But “artificial intelligence is not limited by the speed or ... or layers of silicon dioxide nanoparticles. They trained a neural network on 85 percent of the data from the first three surfaces, then tested it on 15 percent of the data of those ...",
-      "sourceUrl": null,
-      "webUrl": "https://news.mit.edu/2021/infrared-cameras-artificial-intelligence-provide-insight-into-boiling-0707",
-      "originalUrl": "https://news.mit.edu/2021/infrared-cameras-artificial-intelligence-provide-insight-into-boiling-0707",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://news.mit.edu/sites/default/files/images/202106/MIT-SEM-boiling-surfaces.jpg",
-          "width": 3750,
-          "height": 2500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-07T13:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "news",
-        "domain": "mit.edu",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/mit.edu-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

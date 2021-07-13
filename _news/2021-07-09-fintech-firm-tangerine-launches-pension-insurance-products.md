@@ -55,20 +55,6 @@ related:
         width: 800
         height: 450
         isCached: true
-  - title: "The Future of Fintech 2021 on demand"
-    excerpt: "On the 17th of June, FStech's virtual conference returned for 2021, covering the biggest trends in financial services technology. Across a variety of keynote speeches, in-depth presentations and lively panel discussions this online event tackled how firms can deal with the challenges of the Coronavirus crisis one year on, as well as looking forward to what the 'new normal' will look like for an industry already in the grips of digital disruption. Among the topics on the agenda were: cyber security in the time of COVID-19, the RegTech solutions automating compliance, improving data literacy and governance, protecting customers from fraud, AI and machine learning, the rise of digital assets, upgrading legacy systems and ensuring data is safe and optimised in the cloud. For those of you who missed the event, or would like to watch specific sessions again, we have collected the day's content and put it all in one place for easy viewing:"
-    publishedDateTime: 2021-07-10T09:48:00Z
-    webUrl: "https://www.fstech.co.uk/future-fintech-digital-conference/ondemand.php"
-    type: article
-    provider:
-      name: fstech.co.uk
-      domain: fstech.co.uk
-    quality: 24
-    images:
-      - url: "https://perspectivepublishing.co.uk/dev/cms/uploads/FStech%20Couchbase%208th%20December%202020/final_cb.jpg"
-        width: 314
-        height: 314
-        isCached: true
 
 secured: "/4HVcdUmwSQmPh0lWPxsF4IE+wueYXG8mSwWC1gL0wIyn5cZDrPweT+xOV+3mKi8JMIQ+2dxkWUOwWFqyPe60FOihiFdP4feKU4D2K4gnm/qpWnLNQwnkHEsFkClgVXSLDuGqGrK4RoLSIPRyO/Cfkqmxa5W9J1DuRjPRIMDvi7kJzNI04OojwyFZCOcylX8/PoRLUxXmLTbY6oaey92jiUSCOU5v1OlifJsd4Brk4MTx1GdG/C/ttsBkb/tcCOkEwg6I9c4CHpZweGm+Ih1qADBZFCaEOqplIO3JQUlbJEjZsjVRm8kZLvE01geJgsO3WWD52ND3wndLm+hge3llcB0w/sVJYHgtM90IIHtgRg=;+OlyE2STPEmqucN0OZOUTQ=="
 ---

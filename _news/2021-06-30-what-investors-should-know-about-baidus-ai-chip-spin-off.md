@@ -1,17 +1,19 @@
 ---
 category: news
 title: "What Investors Should Know About Baidu's AI Chip Spin-Off"
-excerpt: "Baidu (NASDAQ: BIDU) unveiled Kunlun, its artificial intelligence (AI) chip optimized for cloud-to-edge computing tasks, three years ago. At the"
-publishedDateTime: 2021-06-30T13:57:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/what-investors-should-know-about-baidus-ai-chip-spin-off-10289234"
-webUrl: "https://markets.businessinsider.com/news/stocks/what-investors-should-know-about-baidus-ai-chip-spin-off-10289234"
+excerpt: "Baidu (NASDAQ:BIDU) unveiled Kunlun, its artificial intelligence (AI) chip optimized for cloud-to-edge computing tasks, three years ago. At the time, it claimed the 14nm chip provided 1.5 to three times more processing power than NVIDIA's comparable T4 GPU for AI tasks."
+publishedDateTime: 2021-06-30T15:57:00Z
+originalUrl: "https://www.fool.com/investing/2021/06/30/what-investors-know-about-baidu-ai-chip-spin-off/"
+webUrl: "https://www.fool.com/investing/2021/06/30/what-investors-know-about-baidu-ai-chip-spin-off/"
+ampWebUrl: "https://www.fool.com/amp/investing/2021/06/30/what-investors-know-about-baidu-ai-chip-spin-off/"
+cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/06/30/what-investors-know-about-baidu-ai-chip-spin-off/"
 type: article
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
+  name: The Motley Fool
+  domain: fool.com
   images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -19,6 +21,12 @@ topics:
   - AI Hardware
   - AI
 
-secured: "fSTD5smDX7O5U8TWyMUMjacRinGBHXNLSt/xzEDn4zQaV9N3ZUs0PWZm1R9Mf9VKty9Z4aMlquPE54FJkB3Ty98VrwN6MOLlUK6RWsjSART1Qv04SlXEB0QMs93AYb41rQQCC6k61QtMIsA4SBAY173jFvdT9z9JWxnfJxaET8zNOkl4CQg05ZhEbcTkj9ptZ1FURL26Kal+VuOM1/IGSkYttRXsTs9cQ2O3Xz1PNxN4a0Ftr3srQLB2MSdhyJkF6SIsIdttaPclU9D8Ph6lMpDjEGwapnO5vbxj6YEV6nXjyD7ZZiyvzIgHgup3eZEucdbF9B5/wVTqD2VkQqczycyK1VhVM7aUjZ/kEUwEE9A=;UagUUU+d9BtEXm7COBVZjw=="
+images:
+  - url: "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F632101%2F1600829035136803.jpg&w=1200&op=resize"
+    width: 1200
+    height: 721
+    isCached: true
+
+secured: "7xZH2a9H/WpEhdLL8qZtXDIHHuY2H5piKwgpS8r9LZFfTS25N4Z0k3i4YNLsvgjpBgnSjzsW9wGzlkz6a17FujyYy2f2Y/DrwxlV6t/lgqovZsIfsd/tvyH+Wl3Duoq4Oluwkdj7d/x8RI8DFmJKiA5vza8eYy0gtTqxt55coaEGGWHP6D+AJsLQQW8LxJrgeZyhobjX3YvDK5iKkZSc2iTtteX0/7Cf9BIwFT4NjB1jAQIC1gHyHW+LyFTfARVwM385Ky6Xsj7q/s5Zxp8LQCU08GhaLRKpMUnJw4OX4GhVQtUHZHZbSJuy31MC5N35ITswmkLvIdYyPby5futreUmQ+nxZUWybzO8R4tNQXLc=;zO3AgEoJFshF5l62ON8/EQ=="
 ---
 

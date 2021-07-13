@@ -3,8 +3,8 @@ category: news
 title: "D2iQ Now Available in the Microsoft Azure Marketplace"
 excerpt: "D2iQ, a leading independent Kubernetes platform, today announced the availability of the D2iQ Kubernetes Platform (DKP), including D2iQ Kommander, D2iQ Konvoy, and D2iQ Kaptain, in the Microsoft Azure Marketplace,"
 publishedDateTime: 2021-07-12T13:07:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-d2iq-now-available-the-microsoft-azure-marketplace-/2021/07/12/9406732.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-d2iq-now-available-the-microsoft-azure-marketplace-/2021/07/12/9406732.htm"
+originalUrl: "https://www.tmcnet.com/usubmit/2021/07/12/9406732.htm"
+webUrl: "https://www.tmcnet.com/usubmit/2021/07/12/9406732.htm"
 type: article
 quality: 69
 heat: -1
@@ -53,6 +53,15 @@ related:
         width: 896
         height: 504
         isCached: true
+  - title: "NEC signs new partnership with Microsoft, to migrate IT to Azure"
+    excerpt: "NEC said it expanded its decades-long collaboration with Microsoft. Through a new multi-year strategic partnership, the companies will leverage Microsoft Azure, Microsoft 365, NEC's network and IT expertise,"
+    publishedDateTime: 2021-07-13T08:29:00Z
+    webUrl: "https://www.telecompaper.com/news/nec-signs-new-partnership-with-microsoft-to-migrate-it-to-azure--1389976"
+    type: article
+    provider:
+      name: Telecompaper
+      domain: telecompaper.com
+    quality: 34
   - title: "Qlik Recognized as a Finalist of 2021 Microsoft Analytics Partner of the Year Award"
     excerpt: "Qlik ® today announced it has been named a finalist of the 2021 Microsoft Analytics Partner of the Year Award. The company was honored among a global field of top Microsoft partners for demonstrating excellence in innovation and implementation of customer solutions based on Microsoft technology."
     publishedDateTime: 2021-07-08T19:02:00Z
@@ -86,6 +95,6 @@ related:
       domain: tmcnet.com
     quality: 15
 
-secured: "m0YxdvvG2AOaWI1lL/NibTpDq8EXB0x3UB9I9Tc4lpTOps9/OjWnDVuWX6Nw4Khj/+1yPGpFXmOyC4ZzGbqKGqPMGLJd0VwEZzCYvS52xpZHEn2HIDquvjZMmvxIq5EgnrAtRpqs4QsVPwNVCkN9QHQne+blNWn3Cv5hFRCju92nGVIqcXgWYk47+yA2VPmI7ZMtrD5My4BDtTXegRImEf0mnGu+yqCwc+s9WIPC0IorUX9EQCOz5D092zy7n3VxLk2ONgvvruo8OTPJXk0xmDGqCSQyWmXBb1BBfLhu3GMjS8qEPlRKwyasl9sgfgAhRsynHpD45yra+ZRtiJEzybh+GsnXNbmMjxXeKwYOq/U=;q1y2byvozUGvvXLXOTRT/Q=="
+secured: "APvNhYEUCLjJnfgBRuhs4cBtLjuSqMB/TteepctEEbcFj81DSojJnnxY7VT8ZhvOmQCgY/wSLwi7vLh9zX9x+z/P7tVYol8fkFD4gtxeMevjk65spVVgfs4Mb1Owus5qZVEWItBl6jXKhQ3wFUQw4kymmPkp33c2ABX+AhegrHio5CyGDopL2q0rYCF2FX7DD4x47lX/Z+vtS34uK1wPsjGd0sXviio7Dp9zSSZkVyPQqxvCx5rWHqSUjoMhhUUpZ4HVhCGMSW2LLBVDOEsILrLKtJwu9FwXUX1+v0UpzelkN+kR6UIKNYiNMjTr3BI8Rs0DSjcoX466TJdiZk0GW6bveQ4m3SVM8fe6rHNtEIw=;D/z4/8EaBMKRD/W14pVsMQ=="
 ---
 

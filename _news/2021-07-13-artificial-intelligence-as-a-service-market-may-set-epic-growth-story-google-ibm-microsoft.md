@@ -9,7 +9,7 @@ ampWebUrl: "https://www.openpr.com/amp/2326738/artificial-intelligence-as-a-serv
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2326738/artificial-intelligence-as-a-service-market-may-set-epic-growth"
 type: article
 quality: 62
-heat: 112
+heat: 102
 published: true
 
 provider:
@@ -78,15 +78,6 @@ related:
         width: 780
         height: 470
         isCached: true
-  - title: "AI in Telecommunication Market Booming Segments; Investors Seeking Growth | Google, Microsoft, IBM"
-    excerpt: "Get Free Exclusive PDF Sample Copy of This Research @  Scope of the Report of AI in Telecommunication Artificial Intelligence with learning abilities is a revolutionary technology, which the communication industry is exploring,"
-    publishedDateTime: 2021-07-08T16:59:00Z
-    webUrl: "https://manometcurrent.com/ai-in-telecommunication-market-booming-segments-investors-seeking-growth-google-microsoft-ibm/"
-    type: article
-    provider:
-      name: manometcurrent.com
-      domain: manometcurrent.com
-    quality: 20
 
 secured: "daJrFqswgFyJiDDKPvbfWW1hnB3RnHx7HpwMX0F/nqubqBysECX7VaHPubwSXak6588Chb+OzozBAB1najelIgR2+Qo5uNDr/mj9y0iTxmsZC9aEHtSSpARx5PpTflVY9XgtEznbWMgJfRABEumqf3eLB9iAFTm2L9vwzaNpspVqYMbp6J3gb2jS6tn1z+k7qZyuSQcqB+5K8Q84h8xNPsl0dREl7/snbY5inbNJcs6rIvu5WBGDYSpbeKaoJaWPjqUXE0lNbNbkOXoWPniyoqTr0ygtcUVSYvk+qrMURvK4Xgl7+Ov+YqwlttMPSAHWqRrTCAAdmb2w39AG0JHFkqSm5v0bbp4FqINhmY0KymmNhfJRcxngoOx1IWrh4+8gji9aFQoV2HuM+5bcoZXKs35TTfIxadbgXTao6uQunvwj2Q1DmCqXH/X+K3LnQsAibzhB1qQ8LVjuSvoQHtGKyXJkKGU5sd+4/likO3gzmIz8aToXS4IarPLhkmCiY2Lam7EvrtNXRIjR1lB6gvO63w==;bgUzKiceNgRs8LD52aOH4A=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/facebook-teaches-ai-powered-rob
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/facebook-teaches-ai-powered-robot-to-adapt-while-walking/"
 type: article
 quality: 174
-heat: 274
+heat: 264
 published: true
 
 provider:
@@ -154,20 +154,6 @@ related:
       name: fintechzoom
       domain: fintechzoom.com
     quality: 34
-  - title: "Facebook Wants a Monopoly on Human Connection"
-    excerpt: "Facebook’s formal mission statement is to “give ... The company publishes much of its artificial intelligence research on a special blog. Much of the work concerns training machines to avoid bias. “Some common statistical notions of fairness may ..."
-    publishedDateTime: 2021-07-08T16:00:00Z
-    webUrl: "https://www.americamagazine.org/politics-society/2021/07/08/facebook-community-mark-zuckerberg-monopoly-pope-francis-240993"
-    type: article
-    provider:
-      name: America Magazine
-      domain: americamagazine.org
-    quality: 24
-    images:
-      - url: "https://www.americamagazine.org/sites/default/files/styles/article_image_750_x_503_/public/main_image/2021/07/08/FB.thumb%2Cred%20%281%29.png.png?itok=2ssixJh4"
-        width: 750
-        height: 500
-        isCached: true
 
 secured: "cEHUo2DrxohXVJDQCkT7hI462pRvM9BOEEiyFrPDcHp2jC4UENG+32eMHtQ7uWEapf//rz4Q86Wc2jAQHLEFrcTOpax5er8Uc+320hl425yR1BqN6xUvSvxTj7GoN59gr3/ex0leXKqfF5gaDVai3KfQQk0g4FVZ9izsEpaVqQxuCkx7UGU2kgFXcci6q2T5KGXitWrdT7mdxCKxDJDsd5An68JJ9BbTVD6QY84yJiCRbBCEv/ViouDuay1B38WyCBmY8A3eOlSemMhQKJSrCy27XU0G/urd2NvWrw5aaItoQ9Mgdk3xRXDTrp7M0GBjvWqUVxMc5HcgJ4IkaxQIOcZwiWh/ujoEiEmiMd9cixjYLUfKFZkHmfdxEPOBOOhmjhI7aJbaWmsOi686ITKycVqnT3K7Fb516V8cxi1zW6HKKogwNzt1e2MbM/RLTsMfVuEbOTN5Pe+JSKbOjqRFc5JApzdjve0pRPhch5o1i0/KnWjAQSB6vgwaVD5m++SGZf7lv9ODWGGb90+DqZ+ewLAd1fx2ReBNG5pvzCbepbc=;P3yHx5rBRKSfWYP1mfWiLw=="
 ---

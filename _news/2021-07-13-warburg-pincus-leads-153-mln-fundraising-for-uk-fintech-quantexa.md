@@ -1,32 +1,22 @@
 ---
 category: news
 title: "Warburg Pincus leads $153 mln fundraising for UK fintech Quantexa"
-excerpt: "\"Quantexa’s proprietary technology enables clients to create single views of individuals and entities, visualised through graph network analytics and scaled with the most advanced AI [artificial intelligence] technology,\" said Adarsh Sarma, Managing ..."
-publishedDateTime: 2021-07-13T07:15:00Z
-originalUrl: "https://www.reuters.com/technology/warburg-pincus-leads-153-mln-fundraising-uk-fintech-quantexa-2021-07-13/"
-webUrl: "https://www.reuters.com/technology/warburg-pincus-leads-153-mln-fundraising-uk-fintech-quantexa-2021-07-13/"
+excerpt: "UK-based Quantexa has raised $153 million in a funding round led by Warburg Pincus, the financial technology start-up said on Tuesday, as it seeks to accelerate its regional expansion and develop new products in areas including banking and insurance."
+publishedDateTime: 2021-07-13T06:35:00Z
+originalUrl: "https://www.nasdaq.com/articles/warburg-pincus-leads-%24153-mln-fundraising-for-uk-fintech-quantexa-2021-07-13"
+webUrl: "https://www.nasdaq.com/articles/warburg-pincus-leads-%24153-mln-fundraising-for-uk-fintech-quantexa-2021-07-13"
 type: article
-quality: 69
-heat: 79
-published: true
+quality: 49
+heat: 49
+published: false
 
 provider:
-  name: Reuters
-  domain: reuters.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Nasdaq
+  domain: nasdaq.com
 
 topics:
   - AI in Finance
   - AI
-
-images:
-  - url: "https://www.reuters.com/pf/resources/images/reuters/reuters-default.png?d=44"
-    width: 1200
-    height: 628
-    isCached: true
 
 related:
   - title: "Warburg Pincus leads US$153 million fundraising for UK fintech Quantexa"
@@ -43,7 +33,35 @@ related:
         width: 991
         height: 557
         isCached: true
+  - title: "The Future of Fintech 2021 on demand"
+    excerpt: "On the 17th of June, FStech's virtual conference returned for 2021, covering the biggest trends in financial services technology. Across a variety of keynote speeches, in-depth presentations and lively panel discussions this online event tackled how firms can deal with the challenges of the Coronavirus crisis one year on, as well as looking forward to what the 'new normal' will look like for an industry already in the grips of digital disruption. Among the topics on the agenda were: cyber security in the time of COVID-19, the RegTech solutions automating compliance, improving data literacy and governance, protecting customers from fraud, AI and machine learning, the rise of digital assets, upgrading legacy systems and ensuring data is safe and optimised in the cloud. For those of you who missed the event, or would like to watch specific sessions again, we have collected the day's content and put it all in one place for easy viewing:"
+    publishedDateTime: 2021-07-10T09:48:00Z
+    webUrl: "https://www.fstech.co.uk/future-fintech-digital-conference/ondemand.php"
+    type: article
+    provider:
+      name: fstech.co.uk
+      domain: fstech.co.uk
+    quality: 24
+    images:
+      - url: "https://perspectivepublishing.co.uk/dev/cms/uploads/FStech%20Couchbase%208th%20December%202020/final_cb.jpg"
+        width: 314
+        height: 314
+        isCached: true
+  - title: "Credit Fintech Jasper Card Raises $34 Million in Round Led by Benslie International Fund, OurCrowd Participates"
+    excerpt: "Jasper Card has raised $34 million in a Series A funding round led by Benslie International Fund. Leading global investment crowdfunding platform OurCrowd joined in the funding round along with 500 Startups,"
+    publishedDateTime: 2021-07-12T21:55:00Z
+    webUrl: "https://www.crowdfundinsider.com/2021/07/177768-credit-fintech-jasper-card-raises-34-million-in-round-led-by-benslie-international-fund-ourcrowd-participates/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 19
+    images:
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2021/07/Jasper-Card.jpg"
+        width: 462
+        height: 291
+        isCached: true
 
-secured: "HyjRSvWZq0eRnSy6DpSI3I9GMn99IB6vX9yERfgOJK5rI6jpAh0k9RXgFls5bzgASR/NV/X4xH1aM9Q4cSCXIC8CwtoqBeshyAIY7Z7wCDPZdRm/TZfWorFoSDNRbhdkp7PYvQSqm5i3QsHgfn7mKuL8wiwq1ES8MUJO2bGeYooQJtrZbyYOcygACnacblB8Mx3G7yUOlZCbmwpEmtwJJm8DyUVgS2z56NahL+5g7Z09nugLBxaJoKBb6kJazyXaIHNQUB3YpMZMLk6qZGawrDj0F9q1HMhHiBeWnbcyvLZ/LZ5LQd/IPChM6wkvldzz33It+KyFPmjXTZ5iceccbF5tp11wth8Y+0yde+I9dxg=;4IgC3lNMrKIfxuO3x978IQ=="
+secured: "GP37xwTM9VAxrI4h3IFCsyUhsk4Wrg7bRCMr8ZmDz/Xvn8kdvIz2x4cc0aklWovB8iRPQWMEez/mUeFnotms4kEHTS0TMNubTJKcFFWOgwbCalyoyeGgiJ1O28kQ5/QT0V8JfkT6iCg/PR8wkjaES1/7Pee55iVWZIhIt2dWIREivSt4xTijyp5e3QgTBILGSuvqBMTsIjQedA9aAMMKiHliLXM0EfD9e9f6epn5ml5d8JDhKXFmfpMcoGahb1kDOF8E+TEmQpHo+DjDzhta1q/UFgPjnfDMdjWcv3srTD3cJY01tRZM3WuLkh0qFA4kaRbF7qwAQureRLb+VE1NKvqgZLraSqfyhJxOh4rVvkpl45VtM9yOAy/ZaNaDgi1MMptCRHh4+bK2Uz4ofkat+P86iiA+y6HGJi45khbgTFAnlXztw0akriZ/7VUZuNIRbp9LWd6yHgiXjSB+SjUXWv4THurc+1yvc+BVCLAQfRdfBhyErLdj3FjoOXQ26bj3N4O4+ZFpKUlygiHluKB72g==;24wft7RsggLmIgdtHmluYA=="
 ---
 
