@@ -396,15 +396,6 @@ related:
       name: Futurism
       domain: futurism.com
     quality: 24
-  - title: "Tesla to debut 'mind-blowing' full self-driving beta this week"
-    excerpt: "Tesla CEO Elon Musk has teased that some Tesla owners will be able to test out the 'mind-blowing' Full Self-Driving beta soon."
-    publishedDateTime: 2021-07-09T09:04:00Z
-    webUrl: "https://www.tweaktown.com/news/80484/tesla-to-debut-mind-blowing-full-self-driving-beta-this-week/index.html"
-    type: article
-    provider:
-      name: TweakTown
-      domain: tweaktown.com
-    quality: 19
   - title: "Elon Musk warns Tesla drivers to 'be paranoid' about safety and not rely too much on the assisted driving tech when using new Full Self-Driving 9 beta software"
     excerpt: "Driving' 9 beta, which lets cars automatically obey lights and change lanes. But Elon Musk is telling owners to avoid becoming over-reliant on the assisted driving tech."
     publishedDateTime: 2021-07-12T21:02:00Z

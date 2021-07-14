@@ -58,20 +58,6 @@ related:
         width: 1024
         height: 768
         isCached: true
-  - title: "AI Gives Robots More Room to Roam"
-    excerpt: "Researchers have come up with a two-tier set of AI techniques that allowed their four-legged machine to negotiate varying terrain like sand, stairs, slippery surfaces and more without falling."
-    publishedDateTime: 2021-07-09T11:00:00Z
-    webUrl: "https://www.wsj.com/articles/ai-gives-robots-more-room-to-roam-11625832001"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 84
-    images:
-      - url: "https://images.wsj.net/im-366611/social"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "Artificial Intelligence Is On The Side Of Apes? Tesla-Fame's AI-Based ETF Sells Facebook, Walmart And Buys AMC"
     excerpt: "The Qraft AI-Enhanced US Large Cap Momentum ETF (NYSE: AMOM), an exchange-traded fund driven by artificial intelligence, has sold a majority of its holdings in Facebook Inc. (NASDAQ: FB) and Walmart Inc."
     publishedDateTime: 2021-07-12T13:13:00Z

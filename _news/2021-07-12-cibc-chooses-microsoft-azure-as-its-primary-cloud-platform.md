@@ -27,31 +27,50 @@ images:
     isCached: true
 
 related:
-  - title: "Digital Transformation: Microsoft Azure Cloud Platform to be Used by Canadian Imperial Bank of Commerce"
-    excerpt: "The Canadian Imperial Bank of Commerce (CIBC) (TSE: CM), a multinational banking and financial services corporation headquartered in Toronto, Ontario, has entered a multi-year deal to use Microsoft Azure as its main Cloud platform."
-    publishedDateTime: 2021-07-12T23:22:00Z
-    webUrl: "https://www.crowdfundinsider.com/2021/07/177735-digital-transformation-microsoft-azure-cloud-platform-to-be-used-by-canadian-imperial-bank-of-commerce/"
-    ampWebUrl: "https://www.crowdfundinsider.com/2021/07/177735-digital-transformation-microsoft-azure-cloud-platform-to-be-used-by-canadian-imperial-bank-of-commerce/amp/"
-    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/07/177735-digital-transformation-microsoft-azure-cloud-platform-to-be-used-by-canadian-imperial-bank-of-commerce/amp/"
+  - title: "Icertis Recognized as the Winner of 2021 Microsoft AI Partner of the Year"
+    excerpt: "First and Only Contract Lifecycle Management Company Recognized by Microsoft  for AI Leadership and as a Global ISV Partner of the"
+    publishedDateTime: 2021-07-14T02:12:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/icertis-recognized-as-the-winner-of-2021-microsoft-ai-partner-of-the-year-1030603718"
     type: article
     provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 75
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 83
     images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2021/07/Christina-Kramer-284x300.jpg"
-        width: 284
+      - url: "https://mma.prnewswire.com/media/1515204/icertis_Logo.jpg"
+        width: 400
+        height: 400
+        isCached: true
+  - title: "Microsoft Announces the General Availability of Azure Arc-Enabled SQL"
+    excerpt: "Microsoft announced the general availability as per the end of July of Azure Arc-enabled SQL, which extends the Azure SQL instances to be hosted on an edge data center or in a multi-cloud environment."
+    publishedDateTime: 2021-07-09T11:26:00Z
+    webUrl: "https://www.infoq.com/news/2021/07/azure-arc-enabled-sql/"
+    type: article
+    provider:
+      name: InfoQ
+      domain: infoq.com
+    quality: 69
+    images:
+      - url: "https://res.infoq.com/news/2021/07/azure-arc-enabled-sql/en/headerimage/header+%283%29-1625687685497.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence as a Service Market May Set Epic Growth Story | Google, IBM, Microsoft"
+    excerpt: "Global Artificial Intelligence as a Service Market Research Report with Opportunities and Strategies to Boost Growth- COVID-19 Impact and Recovery is latest research study released by HTF MI evaluating the market risk side analysis, highlighting ..."
+    publishedDateTime: 2021-07-13T00:00:00Z
+    webUrl: "https://www.openpr.com/news/2326738/artificial-intelligence-as-a-service-market-may-set-epic-growth"
+    ampWebUrl: "https://www.openpr.com/amp/2326738/artificial-intelligence-as-a-service-market-may-set-epic-growth"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2326738/artificial-intelligence-as-a-service-market-may-set-epic-growth"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 62
+    images:
+      - url: "https://cdn.openpr.com/U/7/U713219379_g.jpg"
+        width: 450
         height: 300
         isCached: true
-  - title: "Microsoft (MSFT) Azure Cloud Leveraged by Canada-Based CIBC"
-    excerpt: "Microsoft’s MSFT Azure cloud platform is being leveraged by Canadian Imperial Bank of Commerce (“CIBC”) to revamp its business operations, boost operational efficiency and enhance client experiences."
-    publishedDateTime: 2021-07-12T14:40:00Z
-    webUrl: "https://www.nasdaq.com/articles/microsoft-msft-azure-cloud-leveraged-by-canada-based-cibc-2021-07-12"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 64
   - title: "CIBC formalizes Microsoft Azure as its primary cloud platform"
     excerpt: "Canadian Imperial Bank of Commerce and Microsoft announced a strategic relationship formalizing Microsoft Azure as CIBC’s primary cloud platform"
     publishedDateTime: 2021-07-12T06:22:00Z
@@ -65,6 +84,34 @@ related:
       - url: "https://mk0ibsintelligek4gm6.kinstacdn.com/wp-content/uploads/2020/11/CIBC.jpg"
         width: 300
         height: 300
+        isCached: true
+  - title: "NEC, Microsoft to Collaborate on Cloud, Edge, AI, IoT and Private 5G"
+    excerpt: "Microsoft and NEC announced a new multi-year strategic partnership, where the companies will leverage Microsoft Azure"
+    publishedDateTime: 2021-07-13T01:04:00Z
+    webUrl: "https://www.thefastmode.com/technology-solutions/20223-nec-microsoft-to-collaborate-on-cloud-edge-ai-iot-and-private-5g"
+    type: article
+    provider:
+      name: Deep
+      domain: thefastmode.com
+    quality: 54
+    images:
+      - url: "https://www.thefastmode.com/media/k2/items/src/884fc3b4d19d523516b14de7bdd9c372.jpg?t=20210713_010237"
+        width: 752
+        height: 408
+        isCached: true
+  - title: "Reaching The $2 Tn Mark: Microsoft’s Top AI Projects"
+    excerpt: "After Apple, Microsoft recently became the only publicly traded American company to hit the $2 trillion market cap."
+    publishedDateTime: 2021-07-13T04:30:00Z
+    webUrl: "https://analyticsindiamag.com/reaching-the-2-tn-mark-microsofts-top-ai-projects/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 54
+    images:
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/07/Microsoft_AIM.jpg"
+        width: 896
+        height: 504
         isCached: true
   - title: "Microsoft Opens Azure Learning Site for IT Pros"
     excerpt: "Microsoft this week launched Inside Azure for IT, which contains links to \"fireside chats\" on various Azure topics, aiming \"to solve your real-world IT challenges.\" Erin Chapple, Microsoft's corporate vice president for the Azure core infrastructure ..."
@@ -80,6 +127,52 @@ related:
         width: 647
         height: 450
         isCached: true
+  - title: "Icertis Recognized as the Winner of 2021 Microsoft AI Partner of the Year"
+    excerpt: "Icertis, the contract intelligence company that pushes the boundaries of what's possible with contract lifecycle management (CLM), announced today that it has won the Artificial Intelligence (AI) 2021 Microsoft Partner of the Year Award and been named a Finalist of the Global ISV Microsoft Partner of the Year Award for the fourth year in a row."
+    publishedDateTime: 2021-07-13T13:12:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2021/07/13/9407857.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 53
+    images:
+      - url: "https://mma.prnewswire.com/media/371539/Icertis_Logo.jpg"
+        width: 400
+        height: 260
+        isCached: true
+  - title: "D2iQ Now Available in the Microsoft Azure Marketplace"
+    excerpt: "D2iQ, a leading independent Kubernetes platform, today announced the availability of the D2iQ Kubernetes Platform (DKP), including"
+    publishedDateTime: 2021-07-12T13:03:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/d2iq-now-available-in-the-microsoft-azure-marketplace-301331501.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 49
+  - title: "Pensa Systems Now Available on Microsoft Azure"
+    excerpt: "Pensa Systems, a leading innovator in the automated use of computer vision and artificial intelligence for retail in-store data and analytics, announced today that its advanced shelf intelligence data offering has become a Microsoft Preferred Solution and is now available on Microsoft Azure."
+    publishedDateTime: 2021-07-13T11:38:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2021/07/13/9407404.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 49
+  - title: "Sierra Wireless Partners with Microsoft to Enable Advanced Asset Tracking Capabilities via Azure IoT Central"
+    excerpt: "Sierra Wireless’ Acculink managed IoT solution integrated with Microsoft Azure IoT Central brings simplicity, extra functionality and capabilities for customersVANCOUVER, British Columbia--(BUSINESS WIRE)--Sierra Wireless (NASDAQ: SWIR) (TSX: SW),"
+    publishedDateTime: 2021-07-13T13:00:00Z
+    webUrl: "https://us.acrofan.com/detail.php?number=498882"
+    type: article
+    provider:
+      name: 아크로팬
+      domain: acrofan.com
+    quality: 35
+    images:
+      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
+        width: 580
+        height: 339
+        isCached: true
   - title: "CIBC inks Microsoft Azure deal"
     excerpt: "Azure will support the migration of hundreds of applications to the cloud, as well as offer scalable computing power for CIBC's enterprise data lake and AI platform. The bank will also get access to a suite of Microsoft training programmes and ..."
     publishedDateTime: 2021-07-11T23:23:00Z
@@ -89,6 +182,33 @@ related:
       name: Finextra
       domain: finextra.com
     quality: 34
+  - title: "Trainocate recognised as #1 Microsoft Learning Partner worldwide"
+    excerpt: "Trainocate Holdings, Sri Lanka’s largest IT and human capability development training provider, has been recognised as the 2021 Microsoft Learning Partner of the Year; the first Asian company ever to have earned the illustrious title."
+    publishedDateTime: 2021-07-11T18:30:00Z
+    webUrl: "https://www.ft.lk/it-telecom-tech/Trainocate-recognised-as-1-Microsoft-Learning-Partner-worldwide/50-720316"
+    type: article
+    provider:
+      name: FT
+      domain: www.ft.lk
+    quality: 34
+  - title: "NEC signs new partnership with Microsoft, to migrate IT to Azure"
+    excerpt: "NEC said it expanded its decades-long collaboration with Microsoft. Through a new multi-year strategic partnership, the companies will leverage Microsoft Azure, Microsoft 365, NEC's network and IT expertise,"
+    publishedDateTime: 2021-07-13T08:29:00Z
+    webUrl: "https://www.telecompaper.com/news/nec-signs-new-partnership-with-microsoft-to-migrate-it-to-azure--1389976"
+    type: article
+    provider:
+      name: Telecompaper
+      domain: telecompaper.com
+    quality: 34
+  - title: "Insight Wins 2021 Microsoft Worldwide Partner of the Year Awards for Azure Migration and Solution Assessments"
+    excerpt: "Insight Enterprises (NASDAQ:NSIT), the global provider of Insight Intelligent Technology Solutions™ for organizations of all sizes, today announced it has won two 2021 Microsoft ( News - Alert) Worldwide Partner of the Year Awards as Migration to Azure Partner of the Year and Solution Assessments Partner of the Year."
+    publishedDateTime: 2021-07-09T16:07:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2021/07/09/9406115.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 15
 
 secured: "QAJPDnGSfXK6SIwL7Jzzw911On7Fh7OClsKBNiisTkNJdAwprkjtAz4XzFYX9E3/sKRL/i6swYJhU/Jb5NSUe+hGcsSEBn6CJKBZSrxGq/wPaGJjNGTOZIqJnPGbRN2DM3k7qarmqKIMFMwdDoRJNNz49hKbXhcG/mZLUOxrZref9kpEoVjXj81K26q8W9pnZE++THG9Zi7t3Re7rC4MXD/zsIS9n/l7hB8zA+bh9AkRwR6gCGzjeSVMnvBEdP5e6TTfieHnbyaWFetl/Nt8Dt36YCFIkeORofVlE5OBJ29SjjCnqUOe/I6tcwzb+pUyCovd5nLFCKpsKOkEgWwgro71x1+5My78f4wpaGUqf0319s3G5DtIQY7uCAHkb1EoUzrO3xBVIz1w9l+ZwmOJwCD1U/74sX/3cGdCOlxBlraxS+vXoPTw8yhHVtcBRlUN9wL6BqpAZPQzlAKfm+Y7Go9rnWCPckX6ctArIIFOZnoO7a1qi9TIDKggNc+4zn0fYdAlmCzqfke+Xqal6yoNFw==;g+Fbg1/PlFBsFLX88dPjPA=="
 ---

@@ -3,8 +3,8 @@ category: news
 title: "Informatica Expands Cloud Footprint on Microsoft Azure Germany"
 excerpt: "New Intelligent Data Management Cloud on Azure Bolsters Cloud Momentum in the European region FRANKFURT, Germany,  /PRNewswire/ -- Informatica, the enterprise cloud data management leader, today announced it will make its Intelligent Data Management Cloud (IDMC),"
 publishedDateTime: 2021-07-13T07:13:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-informatica-expands-cloud-footprint-microsoft-azure-germany-/2021/07/13/9407196.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-informatica-expands-cloud-footprint-microsoft-azure-germany-/2021/07/13/9407196.htm"
+originalUrl: "https://www.tmcnet.com/usubmit/2021/07/13/9407196.htm"
+webUrl: "https://www.tmcnet.com/usubmit/2021/07/13/9407196.htm"
 type: article
 quality: 34
 heat: -1
@@ -59,6 +59,6 @@ related:
       domain: businessinsider.com
     quality: 24
 
-secured: "ggbTqCopmY/lNWIOV94OJZevMIOf+TLN5eYheG5h6xhcXRVWmyxf9iRjBghSUuJD+ffbjIWO/Z3UvgGRmnK+2nhUZ1Knv1DZZ6QVYHIufmfO04M3bvjzkZMDirWNOTxL8Bfl2BeJ2h/DeXbqKyEijXOH1FuKSOemCPwd8HVFy7PiZFtRn9t6mE8AH/62nsymm6bChoeXrR+mSh1dKtFvGPaOvhwFYO2UUgd0fmNyddMe0hLkfvTinoWAeJN9TOpH54lai4Xdx82V7ZOG2i4869YMoIlcR2kx2JhbdV/AkqQFAFcVdQUa4yJ1SnEfhtVtjOBWJ0OE4nlsl59GPvcEABz6rLgB2idlEXWYTOBNBbLh5OQA2U4zKb43fc2E7NPizQDNI75yvplE3ePPgQ3czO/2gqjS9zrtz7EoRYOHl+2ScgSlA/3oDHnYm29AY5xEgFcjq/XwXfvp/Xr5dV4qQt/bTdB/MfEzqPSY3bfqwbtcr/1wFltTncVFijO51rWdZ3/BBOuuqeUgTv+5lJ0XaQ==;fW/sbxhi55u8cqBDnZcBVA=="
+secured: "7grvPHCLXz1303MFjmr+b59MJ+MFtCUEuWpICsTYRP/Ffd6kgQIrm1SAu8FXzeDGGzoxrXhM6Qyota9RNmhX+Wm1EWPIAv8qywQ2uhneyKQizhLt0njF88PPGfhAHbiOhnd8WELwiobcqsBs/bUCis3rdwx4qtIsxt8WHM/VKLxQsgBOxGDkJM6d84mQcwrt7r0A3kVSQo0blVY4cu3JnP3IfVKQqyNEtHF5MAcO3LZgoulmgsoOxLPPVWdsX6BOa3EO73WyZuivV3LfkGrhZeXDymLtHoDsaBKJ1Lmv/SnKk0UdpQlwnP/ZwcMbd8LtiEfZ1oVRYwgwmEsZYcQ8euKjz8lebqY9v8sVcpbIPjSWprqzWnGaokKdDKwChTU5I+T5woY0sXgxfuIfQhlfjp68a+Y3U6kuagW8yvtCE/DxmNKJN3iuvpizMc3YgWV+Ogz93TSwbSjwPUS4Y8Dtaf0P5Z2CwWBa4qHPIQirNbM9Z6HwENmA8fhfsV/t5C1ZXHJsZ+XVmenvNFxe2TEAVA==;9L5UbHaih2w8/pn20/omuw=="
 ---
 

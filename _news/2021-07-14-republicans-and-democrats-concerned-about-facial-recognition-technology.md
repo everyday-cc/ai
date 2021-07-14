@@ -2,26 +2,27 @@
 category: news
 title: "Republicans and Democrats concerned about facial recognition technology"
 excerpt: "Law enforcement must be careful when using facial recognition technology. “We need to ensure that the adoption of this new technology that does not further erode trust between law enforcement and the communities they serve,"
-publishedDateTime: 2021-07-13T21:23:00Z
-originalUrl: "https://fox8.com/news/republicans-and-democrats-concerned-about-facial-recognition-technology/"
-webUrl: "https://fox8.com/news/republicans-and-democrats-concerned-about-facial-recognition-technology/"
-ampWebUrl: "https://fox8.com/news/republicans-and-democrats-concerned-about-facial-recognition-technology/amp/"
-cdnAmpWebUrl: "https://fox8-com.cdn.ampproject.org/c/s/fox8.com/news/republicans-and-democrats-concerned-about-facial-recognition-technology/amp/"
+publishedDateTime: 2021-07-13T21:30:00Z
+originalUrl: "https://www.wsav.com/news/republicans-and-democrats-concerned-about-facial-recognition-technology/"
+webUrl: "https://www.wsav.com/news/republicans-and-democrats-concerned-about-facial-recognition-technology/"
+ampWebUrl: "https://www.wsav.com/news/republicans-and-democrats-concerned-about-facial-recognition-technology/amp/"
+cdnAmpWebUrl: "https://www-wsav-com.cdn.ampproject.org/c/s/www.wsav.com/news/republicans-and-democrats-concerned-about-facial-recognition-technology/amp/"
 type: article
-quality: 59
-heat: 109
+quality: 61
+heat: 111
 published: true
 
 provider:
-  name: FOX8 Cleveland
-  domain: fox8.com
+  name: WSAV-TV
+  domain: wsav.com
 
 topics:
-  - Computer Vision
+  - Natural Language Processing
   - AI
+  - Computer Vision
 
 images:
-  - url: "https://fox8.com/wp-content/uploads/sites/12/2021/07/CBD9E120D58140A1A6D82774464D865D_7.jpg?w=1280"
+  - url: "https://www.wsav.com/wp-content/uploads/sites/75/2021/07/CBD9E120D58140A1A6D82774464D865D_7.jpg?w=1280"
     width: 1280
     height: 720
     isCached: true
@@ -90,6 +91,6 @@ related:
       domain: reportsnreports.com
     quality: 16
 
-secured: "jT/Pf2PEK0nN141hk4iW6n4c/GdrsqtVtDsvkl//CBl3zHD/8ZA6LAavd6xGG5hkgxMmpFrUzAjpR2n9oKJgIylqBA+KxjiRIfib/bcGv9uar9h5lIJ76eYJtavFB/J7F8v76dePk37/jSdO0pq9GC+UlB90UsMqu16HSrLeoXEo7mIRhDLHHr3Cb+y3hL1gRsZZ+o2K4tc3vykViVpM/ScIJ2aMTcX0eohLMPPljU8pkCfJMdLPm1/MPaSf6NkfkrGULYO+e9PYbNeldSrAHx6s6BUkXHfpgmBzfaGVrVFG53vCk149Y/SKIRctXBf+/UtcIn2WRzJgIvdvUQaEo6YEOfCNuPVQiVtaHzrpJos=;yctHeqkas5N8XadVSomovg=="
+secured: "QBCiUf1eQpcGOOCoKuGR+tfSs0bhCnzm1ciybN3/o6TgefCQQ3ZTnNMQI8HPr+EsXnY6wIgrYGs7gPocY17I83RoSYU3/43elihUYC1i2cMaOiVO4O7iLlAd1oWed7i2+GDa6DxH2cDqB5yJEOwtDHu/3ZAZj4gektoQt9uAruD94riLlLQjNCAw0EBbmVTWB1/ZoQecQ9xulmHQV+iagpoxzcT1nnmo2UzDcmfatHg7vC44nd8ZlZQMWD55DqEYupxVlTM1MDKnyf10MtwPZB44Gh1Wee112Nzri+UYNDI4N9Edd82jGQKzQkmNFXIL9r1H7/8PwonC+D5szm1Fllv1MBnNJ8DJZjFvPOnrdUE=;pPqojRFhB6IVOUB+dyZvXw=="
 ---
 

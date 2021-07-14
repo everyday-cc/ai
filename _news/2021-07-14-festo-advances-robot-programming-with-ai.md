@@ -7,7 +7,7 @@ originalUrl: "https://www.therobotreport.com/festo-advances-robot-programming-wi
 webUrl: "https://www.therobotreport.com/festo-advances-robot-programming-with-ai/"
 type: article
 quality: 86
-heat: 86
+heat: 87
 published: true
 
 provider:

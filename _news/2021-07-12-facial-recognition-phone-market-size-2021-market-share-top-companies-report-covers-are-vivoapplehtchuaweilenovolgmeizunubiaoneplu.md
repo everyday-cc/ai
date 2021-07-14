@@ -57,20 +57,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Global Conversational AI Market 2021-2026: Competitive Analysis, Impact of COVID-19, Ansoff Analysis - ResearchAndMarkets.com"
-    excerpt: "The “Global Conversational AI Market (2021-2026) by Type, Distribution Channel, Application and Geography - Competitive Analysis, Impact of COVID-19, Ansoff Analysis” report has been added to ResearchAndMarkets.com’s offering. The Global ..."
-    publishedDateTime: 2021-07-09T09:07:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/business-technology-0570205e10ea434e99a88642106e8f36"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 10
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
 
 secured: "OwTyawjBAyuS8ncUQKLA3Ofkd8YAxuDOenKE9KZeVxWMCthdVJpz6d5Ds9beexC765qeFuHMJM84c2pPGQls8OlSykLwZGUimHig0+GPKtjZOUit0K+8AqvacFxG3C1qs2tns5BVYpdVq0OgEuRRf9hMB/oeRzL/W7clU7QclyZ+KgyjI8xpJFqWtfHRGOhRla1FmAwJXbaX+ru4tqSLekGimKWWvSpiO1Q7ByM6Gj4dj0KpqrtJCn6MCY10DOCTTZbSRsJD7BV2QBpMDRQtZVi4NW1Q7mVISVRMDfMy4yXoHe9dFhXr+STQpJjivA34hdcSojEWQ3yTHcvcCpSG0Y2v8RcGIiwv6PUSpqChb60=;nW7cvQxHM4tYZFgcxTd97w=="
 ---

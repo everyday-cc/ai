@@ -61,20 +61,6 @@ related:
         width: 1024
         height: 768
         isCached: true
-  - title: "AI Gives Robots More Room to Roam"
-    excerpt: "Researchers have come up with a two-tier set of AI techniques that allowed their four-legged machine to negotiate varying terrain like sand, stairs, slippery surfaces and more without falling."
-    publishedDateTime: 2021-07-09T11:00:00Z
-    webUrl: "https://www.wsj.com/articles/ai-gives-robots-more-room-to-roam-11625832001"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 84
-    images:
-      - url: "https://images.wsj.net/im-366611/social"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "Facebook Robots Are Getting Smarter, Watch Them In The Wild (Video)"
     excerpt: "Facebook has been training robots to think for themselves. Its chief AI scientist Yann LeCun explains why with a video that shows what robots can do when left to their own devices."
     publishedDateTime: 2021-07-09T12:00:00Z

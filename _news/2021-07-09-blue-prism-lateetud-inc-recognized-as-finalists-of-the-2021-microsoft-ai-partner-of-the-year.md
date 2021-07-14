@@ -1,24 +1,20 @@
 ---
 category: news
 title: "Blue Prism & Lateetud, Inc. recognized as finalists of the 2021 Microsoft AI Partner of the Year"
-excerpt: "LONDON and AUSTIN, Texas and WASHINGTON, July 8, 2021 /PRNewswire/ -- Blue Prism® and Lateetud today announced that their joint solution has been"
-publishedDateTime: 2021-07-08T21:05:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/blue-prism-lateetud-inc-recognized-as-finalists-of-the-2021-microsoft-ai-partner-of-the-year-1030591185"
-webUrl: "https://markets.businessinsider.com/news/stocks/blue-prism-lateetud-inc-recognized-as-finalists-of-the-2021-microsoft-ai-partner-of-the-year-1030591185"
+excerpt: "LONDON and AUSTIN, Texas and WASHINGTON, July 8, 2021 /PRNewswire/ -- Blue Prism® and Lateetud today announced that their joint solution has been named a finalist for the Artificial Intelligence"
+publishedDateTime: 2021-07-08T19:05:00Z
+originalUrl: "https://tylerpaper.com/news/texas/blue-prism-lateetud-inc-recognized-as-finalists-of-the-2021-microsoft-ai-partner-of-the/article_0497dbe3-6656-5888-b541-2e776a6521ce.html"
+webUrl: "https://tylerpaper.com/news/texas/blue-prism-lateetud-inc-recognized-as-finalists-of-the-2021-microsoft-ai-partner-of-the/article_0497dbe3-6656-5888-b541-2e776a6521ce.html"
 type: article
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Tyler Morning Telegraph
+  domain: tylerpaper.com
 
 topics:
   - Microsoft AI
   - AI
 
-secured: "/89D+60PyEJY4unSyB6C0Mp/NjAVU4xxQP6cbJPJob306nu68EjbYbT/2sWfgLdHETAGZ9X9PmczGYzjVPNvR0dQUmF23YXY9Cjksj3JJaOLVVrsCDXtclc68EqtIg8aDZg3Hv/AZu6xhD0RTHKmN8xFC6pI/H6UHQXqjG04qT00sK65YKyddd2GnNtHWYAbnkb1aGC6yDB3C3BQZEaC5DOvK0Pn4Moi69y1EdGo9xrRK4Oe7dxSB+ggBYsf3EtMIe5kL+K4IZz3W7nPnvvsMvhlfUb1/1D1xCronN8lUqHbKqc55BXoXDPIAl2vlNvzHYM4/iQoDcYNyrkwMyRoGSQeSSC/1frt5RIfEteyDjQ=;4/HJXvEKI19Qq6telcSPCg=="
+secured: "COPuSsKZkAP7QuyHTpFxJY6mYmrHGCAW5sBM9e1I9HFB0c69QAdpDLXsbomRCCpr2AKBwsiBOGUvaTsbTBskryr3gPfJODorsplwAejf/kFiMijZi88HABIqXROlcaqzXnXuNptUPTu1ZDfr1UDm7KDUJXpfiJlPUJorQC7d+auHfIF9EKCrBcOS5wcnYu0N+PZjmTCubTRFm95gmtWJ8VH5FdGbiFZ6PNEE1vMUk/YSuMYc4mgY/2mXSW9E5ADrtXVS9+3jXPjdG/M56TFIgy8oICkkeQ+APFpuhQS64L0IOK8QawNUpmB6aa63if3TycVU+7XlVPfUtpUKf5CQG527rkF2jmhm+sUter+NUhA=;dw7SXz9cghOEOc/62zf26A=="
 ---
 
