@@ -2,15 +2,15 @@
 category: news
 title: "Unity’s Danny Lange explains why synthetic data is better than the real thing at Transform 2021"
 excerpt: "Synthetic data is augmenting real-world data with special use cases, special situations, and improving the diversity of data at a lower cost."
-publishedDateTime: 2021-07-12T22:35:00Z
-originalUrl: "https://venturebeat.com/2021/07/12/unitys-danny-lange-explains-why-synthetic-data-is-better-than-the-real-thing-at-transform-2021/"
-webUrl: "https://venturebeat.com/2021/07/12/unitys-danny-lange-explains-why-synthetic-data-is-better-than-the-real-thing-at-transform-2021/"
-ampWebUrl: "https://venturebeat.com/2021/07/12/unitys-danny-lange-explains-why-synthetic-data-is-better-than-the-real-thing-at-transform-2021/amp/"
-cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/12/unitys-danny-lange-explains-why-synthetic-data-is-better-than-the-real-thing-at-transform-2021/amp/"
+publishedDateTime: 2021-07-13T05:35:00Z
+originalUrl: "https://venturebeat.com/2021/07/12/unitys-danny-lange-explains-why-synthetic-data-is-better-than-the-real-thing-at-transform-2021-2/"
+webUrl: "https://venturebeat.com/2021/07/12/unitys-danny-lange-explains-why-synthetic-data-is-better-than-the-real-thing-at-transform-2021-2/"
+ampWebUrl: "https://venturebeat.com/2021/07/12/unitys-danny-lange-explains-why-synthetic-data-is-better-than-the-real-thing-at-transform-2021-2/amp/"
+cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/12/unitys-danny-lange-explains-why-synthetic-data-is-better-than-the-real-thing-at-transform-2021-2/amp/"
 type: article
-quality: 77
-heat: 77
-published: true
+quality: 57
+heat: 57
+published: false
 
 provider:
   name: VentureBeat
@@ -24,12 +24,6 @@ topics:
   - Computer Vision
   - AI
 
-images:
-  - url: "https://venturebeat.com/wp-content/uploads/2021/07/Screen-Shot-2021-07-12-at-7.36.01-AM.png?fit=800%2C391&strip=all"
-    width: 800
-    height: 391
-    isCached: true
-
-secured: "6lAPrv1RyArawB0hONokxNsFLvk3gGfWyFeSlntNYpq0DwIl2rivjASPjUHwI+CAVgiq4dDTAmfTdKvLS5fFFDsdixZHPaXEkp1+6jONwiBeWLSGicdAw9Pemri+lYGggnXoDccC7OpulqFlIHKrojFouL9w1zYHFbbkNpfjpR7TlJTJH1xTM5ssMY9Bn/RSboQi5JJuWuGUKfcPF1tzAj0gTk/t6058hdYC23KMduvHz248tYhwvvGBd3InHT5zankCGWLo3afGVmmyVyF2sG6xcG3v2II6b9oyaIr1FcqARxrLzzJsHiZGDA3NUphIdY1W9+QYG+lOPoomVYcMxRk3WSkGkdURCa5uSqsSdaMyMpfFQ0jVKW5DATEnj9gBQ2269saPM2dqKyEjioX0YWGcH/0SnYuK/NUT/BJ+6ctMcl0/6txwdHncm4CaAHMZAgW9Y73VWSv5S95+2w5HjHv4RKddax6p2sLsBwMKo9A4NDLwswyWh7QMZxMnAKwhXjnRqq842CfmNWllhWUYfQ==;6tt9eXCmof7UWX1B31DzFQ=="
+secured: "o44z5+czorZ2yvw40v2kmkvZNW4nED8MoYOFUSHUT2KoJiW1FCI3So5gWtiNG+/s5/OcDQrhQ6h6O9ibm0eW7K1WyJhIzroakYJQe8ZlGtqHLCrCwABBrXDvXTyJCc17mprtNnXGvEiftdqWnba4PAD+u0hJ/0t7klGDV0lC4xfSyrmpE9lHVduGTwuKhpKjZ1TlDXapBndEuqyU+dcLIjgGUAjdw5Bmgi5KtO2+DtLcPQTIstCp1jviUOYNMua6CZfFMc9yEeHb9CyMOAiYCbTPAIhI+SpcaqgKsTb1y7z5i7wZy7aEVFSYvihml5pfBppQlUuL7+nB5ZHE4jmQ+vHIjRIOuuA+wUyHlUQLKnI=;RSlGtPNDVwHCyaRSl/RTsg=="
 ---
 

@@ -2,6 +2,58 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2021-05-07-the-autonomous-vehicle-world-is-shrinking-its-overdue.md",
+      "title": "The autonomous vehicle world is shrinking — it’s overdue",
+      "excerpt": "After years of positive vibes about the future of autonomous vehicles and nearly unrestricted access to cash from Kool-Aid-drunk venture capitalists, the AV industry is confronting some hard truths. The first is that autonomous vehicles are going to take a lot longer to reach mass scale than previously thought.",
+      "sourceUrl": null,
+      "webUrl": "https://www.theverge.com/22423489/autonomous-vehicle-consolidation-acquisition-lyft-uber",
+      "originalUrl": "https://www.theverge.com/22423489/autonomous-vehicle-consolidation-acquisition-lyft-uber",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.vox-cdn.com/thumbor/BMMB4bOI9j_C64T7j8N0AvUPBF8=/0x0:2050x1367/1400x933/filters:focal(836x956:1164x1284):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/69251325/VRG_ILLO_4576_Self_Shrinking_Car_site.0.jpg",
+          "width": 1400,
+          "height": 933,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.theverge.com/platform/amp/22423489/autonomous-vehicle-consolidation-acquisition-lyft-uber",
+      "cdnAmpWebUrl": "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/22423489/autonomous-vehicle-consolidation-acquisition-lyft-uber",
+      "publishedDateTime": "2021-05-07T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Verge",
+        "domain": "theverge.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theverge.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-07-can-federated-learning-save-the-world.md",
       "title": "Can federated learning save the world?",
       "excerpt": "Training the artificial intelligence models that underpin web search engines, power smart assistants and enable driverless cars, consumes megawatts of energy and generates worrying carbon dioxide emissions.",
@@ -1292,49 +1344,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-03-baidu-rolls-out-paid-driverless-taxi-service-in-beijing.md",
-      "title": "Baidu rolls out paid driverless taxi service in Beijing",
-      "excerpt": "Chinese tech giant Baidu rolled out its paid driverless taxi service on Sunday, making it the first company to commercialize autonomous driving operations in China.",
-      "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2021-05-baidu-paid-driverless-taxi-beijing.html",
-      "originalUrl": "https://techxplore.com/news/2021-05-baidu-paid-driverless-taxi-beijing.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2021/baidu-rolls-out-paid-d.jpg",
-          "width": 2880,
-          "height": 1920,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2021-05-baidu-paid-driverless-taxi-beijing.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-05-baidu-paid-driverless-taxi-beijing.amp",
-      "publishedDateTime": "2021-05-02T10:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techxplore.com",
-        "domain": "techxplore.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

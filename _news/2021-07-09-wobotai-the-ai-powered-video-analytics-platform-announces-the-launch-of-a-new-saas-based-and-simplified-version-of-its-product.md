@@ -40,20 +40,6 @@ related:
         width: 1200
         height: 900
         isCached: true
-  - title: "Text Analytics Market Top Vendors Analysis, Market Challenges and Geographical Analysis"
-    excerpt: "As per Global Market Insights, Inc. estimates, the global text analytics market size is expected to cross $20 billion by 2027. The global text analytics market share is slated to expand at an appreciable rate over the foreseeable future,"
-    publishedDateTime: 2021-07-09T12:07:00Z
-    webUrl: "https://www.marketwatch.com/press-release/text-analytics-market-top-vendors-analysis-market-challenges-and-geographical-analysis-2021-07-09"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 46
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "London data analytics firm raises $153m to accelerate expansion of AI tech"
     excerpt: "A London data analytics firm has announced that it has achieved a $153m funding round as it aims to boost… | London | International | Technology | Technology | Investment | USA |"
     publishedDateTime: 2021-07-13T11:23:00Z

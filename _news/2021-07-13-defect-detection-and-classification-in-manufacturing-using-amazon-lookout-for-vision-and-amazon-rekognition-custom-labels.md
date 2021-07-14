@@ -78,20 +78,6 @@ related:
         width: 540
         height: 405
         isCached: true
-  - title: "Facial-Recognition Tech Gets Bipartisan Call for More Regulation"
-    excerpt: "The use of facial-recognition software by law enforcement should be regulated, a bipartisan group of lawmakers said, amid concerns of misidentification and violations of constitutional rights and due process."
-    publishedDateTime: 2021-07-13T17:35:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2021-07-13/facial-recognition-tech-gets-bipartisan-call-for-more-regulation"
-    type: article
-    provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 54
-    images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i35tDSsiJq1c/v1/1200x800.jpg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "US Lawmakers Urge Regulation Of Facial-Recognition Use"
     excerpt: "Some lawmakers came out against the use of facial recognition, citing concerns about misidentification and violations of due process and constitutional rights."
     publishedDateTime: 2021-07-14T01:47:00Z
@@ -151,6 +137,20 @@ related:
       - url: "https://www.crikey.com.au/wp-content/uploads/2021/07/14-07-21-facialrecognition22.jpg"
         width: 740
         height: 400
+        isCached: true
+  - title: "Facial-Recognition Tech Gets Bipartisan Call for More Regulation"
+    excerpt: "The use of facial-recognition software by law enforcement should be regulated, a bipartisan group of lawmakers said, amid concerns of misidentification and violations of constitutional rights and due process."
+    publishedDateTime: 2021-07-14T05:35:00Z
+    webUrl: "https://www.bloombergquint.com/onweb/facial-recognition-tech-gets-bipartisan-call-for-more-regulation"
+    type: article
+    provider:
+      name: BloombergQuint
+      domain: bloombergquint.com
+    quality: 24
+    images:
+      - url: "https://gumlet.assettype.com/bloombergquint%2F2018-08%2F3a8e2237-2edb-4494-bcf2-231993fb6108%2FBLOOMBERG_LOGO.png?rect=0%2C56%2C1920%2C1008&w=1200&auto=format%2Ccompress&ogImage=true"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "+W+pfujPw9BMhjGFDs4x1DYjjRgGyTj2XKtq4ihN08DAx3F7mZFaQ1fejOAxlMgkdSdjn7+6qofHbe3GS6yWY4NH6seGvz0HCck5h2ms+PvTTorcBxPY5t9MNVrGh/QrL/yQC4XPqhwfk0swSdE/0m4D+TEqWVi3jtC8yj08xO9FWMne/rShl+S7daZ1f41JbSS8QLgg+HYt1lAiLu1UMBqQart/l4/K0Uda/KN8FI084CrHSGxO9Aa6b/9zpHZEAq2BSf3ayWo2x9taqs2Tc/erO7EASHLVVrQiF2ZviEx9CSFmYY/HTd8dmYhyPCG1JhqzZaGCJG3j6mwYfdS/6UcJhf7u7XQhBLOuDd66NYY=;Z8gWOZzArmuLO6HOUfBcLg=="

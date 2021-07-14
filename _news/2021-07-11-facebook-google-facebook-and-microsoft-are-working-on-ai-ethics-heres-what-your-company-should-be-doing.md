@@ -21,22 +21,6 @@ topics:
   - Microsoft AI
 
 related:
-  - title: "Facebook teaches AI-powered robot to adapt while walking"
-    excerpt: "The four-legged robot resembles a dog walking over sand, rocks and other difficult surfaces. As it moves forward, the black robot adjusts its stride and adapts without falling.  Teaming up with Carnegie Mellon University's School of Computer Science and the University of California,"
-    publishedDateTime: 2021-07-09T12:00:13Z
-    webUrl: "https://www.cnet.com/news/facebook-teaches-ai-powered-robot-to-adapt-while-walking/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/facebook-teaches-ai-powered-robot-to-adapt-while-walking/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/facebook-teaches-ai-powered-robot-to-adapt-while-walking/"
-    type: article
-    provider:
-      name: cnet.com/news/facebook-teaches-ai-powered-robot-to-adapt-while-walking/
-      domain: cnet.com/news/facebook-teaches-ai-powered-robot-to-adapt-while-walking/
-    quality: 174
-    images:
-      - url: "https://www.cnet.com/a/img/iAIGEalDuoiDn3gwEVgLxEHOMek=/1200x630/2021/07/08/7bb81b3f-e294-4989-bd8a-5c5d7b0fc7d5/gettyimages-1262875305.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Google, Facebook, And Microsoft Are Working On AI Ethics. Here’s What Your Company Should Be Doing"
     excerpt: "As AI is making its way into more companies, the board and senior executives need to mitigate the risk of their AI-based systems. One area of risk includes the reputational, regulatory, and legal risks of AI-led ethical decisions."
     publishedDateTime: 2021-07-11T10:00:00Z
@@ -53,35 +37,35 @@ related:
         width: 1024
         height: 768
         isCached: true
-  - title: "Artificial Intelligence Is On The Side Of Apes? Tesla-Fame's AI-Based ETF Sells Facebook, Walmart And Buys AMC"
-    excerpt: "The Qraft AI-Enhanced US Large Cap Momentum ETF (NYSE: AMOM), an exchange-traded fund driven by artificial intelligence, has sold a majority of its holdings in Facebook Inc. (NASDAQ: FB) and Walmart Inc."
-    publishedDateTime: 2021-07-12T13:13:00Z
-    webUrl: "https://markets.businessinsider.com/news/etf/artificial-intelligence-is-on-the-side-of-apes-tesla-fame-s-ai-based-etf-sells-facebook-walmart-and-buys-amc-1030596697"
+  - title: "D2iQ Now Available in the Microsoft Azure Marketplace"
+    excerpt: "D2iQ, a leading independent Kubernetes platform, today announced the availability of the D2iQ Kubernetes Platform (DKP), including D2iQ Kommander, D2iQ Konvoy, and D2iQ Kaptain, in the Microsoft Azure Marketplace,"
+    publishedDateTime: 2021-07-12T13:07:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-d2iq-now-available-the-microsoft-azure-marketplace-/2021/07/12/9406732.htm"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 79
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 69
     images:
-      - url: "https://cdn.benzinga.com/files/imagecache/1024x768xUP/images/story/2012/3090841071_105297e728_o_6.jpg"
-        width: 1024
-        height: 768
+      - url: "https://mma.prnewswire.com/media/1156495/D2IQ_Logo.jpg"
+        width: 400
+        height: 400
         isCached: true
-  - title: "Facebook Robots Are Getting Smarter, Watch Them In The Wild (Video)"
-    excerpt: "Facebook has been training robots to think for themselves. Its chief AI scientist Yann LeCun explains why with a video that shows what robots can do when left to their own devices."
-    publishedDateTime: 2021-07-09T12:00:00Z
-    webUrl: "https://www.forbes.com/sites/martineparis/2021/07/09/facebook-robots-are-getting-smarter-watch-them-in-the-wild-video/"
-    ampWebUrl: "https://www.forbes.com/sites/martineparis/2021/07/09/facebook-robots-are-getting-smarter-watch-them-in-the-wild-video/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/martineparis/2021/07/09/facebook-robots-are-getting-smarter-watch-them-in-the-wild-video/amp/"
+  - title: "Artificial Intelligence as a Service Market May Set Epic Growth Story | Google, IBM, Microsoft"
+    excerpt: "Global Artificial Intelligence as a Service Market Research Report with Opportunities and Strategies to Boost Growth- COVID-19 Impact and Recovery is latest research study released by HTF MI evaluating the market risk side analysis, highlighting ..."
+    publishedDateTime: 2021-07-13T00:00:00Z
+    webUrl: "https://www.openpr.com/news/2326738/artificial-intelligence-as-a-service-market-may-set-epic-growth"
+    ampWebUrl: "https://www.openpr.com/amp/2326738/artificial-intelligence-as-a-service-market-may-set-epic-growth"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2326738/artificial-intelligence-as-a-service-market-may-set-epic-growth"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 74
+      name: openpr.com
+      domain: openpr.com
+    quality: 62
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60e79dd602c7bff56bca0980%2F0x0.jpg%3FcropX1%3D202%26cropX2%3D958%26cropY1%3D0%26cropY2%3D426"
-        width: 756
-        height: 426
+      - url: "https://cdn.openpr.com/U/7/U713219379_g.jpg"
+        width: 450
+        height: 300
         isCached: true
   - title: "Facebook’s AI researchers are teaching robots to walk like humans"
     excerpt: "Rapid Motor Adaptation — is a “breakthrough” in artificial intelligence (AI). It allows robots to walk on sand, in mud, hiking trails, tall grass and over a dirt pile “without a single failure” during"
@@ -99,48 +83,66 @@ related:
         width: 600
         height: 337
         isCached: true
-  - title: "AI Allows Legged Robots To Adapt in Real-Time to Changing Conditions"
-    excerpt: "Researchers from Carnegie Mellon University, the University of California, Berkeley, and Facebook AI didn't just teach a robot to walk — they taught it how to learn to walk."
-    publishedDateTime: 2021-07-09T12:30:00Z
-    webUrl: "https://www.cs.cmu.edu/news/ai-allows-legged-robots-adapt-real-time-changing-conditions"
+  - title: "NEC, Microsoft to Collaborate on Cloud, Edge, AI, IoT and Private 5G"
+    excerpt: "Microsoft and NEC announced a new multi-year strategic partnership, where the companies will leverage Microsoft Azure"
+    publishedDateTime: 2021-07-13T01:04:00Z
+    webUrl: "https://www.thefastmode.com/technology-solutions/20223-nec-microsoft-to-collaborate-on-cloud-edge-ai-iot-and-private-5g"
     type: article
     provider:
-      name: cmu.edu
-      domain: cmu.edu
-    quality: 56
+      name: Deep
+      domain: thefastmode.com
+    quality: 54
     images:
-      - url: "https://www.cs.cmu.edu/sites/default/files/web_rma%20003.jpg"
-        width: 600
-        height: 423
+      - url: "https://www.thefastmode.com/media/k2/items/src/884fc3b4d19d523516b14de7bdd9c372.jpg?t=20210713_010237"
+        width: 752
+        height: 408
         isCached: true
-  - title: "Facebook teaches walking AI robots to adapt on the fly to terrain such as dirt, sand and even swamps"
-    excerpt: "Facebook teaches walking AI robots to adapt on the fly to terrain such as dirt, sand and even swamps - SiliconANGLE"
-    publishedDateTime: 2021-07-09T12:00:00Z
-    webUrl: "https://siliconangle.com/2021/07/09/facebook-teaches-walking-ai-robots-adapt-different-terrain-dirt-sand-even-swamps-fly/"
+  - title: "Reaching The $2 Tn Mark: Microsoft’s Top AI Projects"
+    excerpt: "After Apple, Microsoft recently became the only publicly traded American company to hit the $2 trillion market cap."
+    publishedDateTime: 2021-07-13T04:30:00Z
+    webUrl: "https://analyticsindiamag.com/reaching-the-2-tn-mark-microsofts-top-ai-projects/"
     type: article
     provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 41
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 54
     images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/07/RMA-walking-robots.png"
-        width: 1114
-        height: 561
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/07/Microsoft_AIM.jpg"
+        width: 896
+        height: 504
         isCached: true
-  - title: "Facebook Is Teaching Robots to Adapt to Any Environment in Real-Time"
-    excerpt: "We’ve seen robots that can dance, climb stairs, and even fetch beer, but they are usually programmed to do these tricks. Well, a team of researchers from Facebook (yes, you read that right) has developed a new model for robotic locomotion that allows legged robots to adapt to any environment in a matter of seconds,"
-    publishedDateTime: 2021-07-09T14:40:00Z
-    webUrl: "https://www.autoevolution.com/news/facebook-is-teaching-robots-to-adapt-to-any-environment-in-real-time-165041.html"
+  - title: "Microsoft Opens Azure Learning Site for IT Pros"
+    excerpt: "Microsoft this week launched Inside Azure for IT, which contains links to \"fireside chats\" on various Azure topics, aiming \"to solve your real-world IT challenges.\" Erin Chapple, Microsoft's corporate vice president for the Azure core infrastructure ..."
+    publishedDateTime: 2021-07-13T19:43:00Z
+    webUrl: "https://mcpmag.com/articles/2021/07/13/microsoft-opens-azure-learning-site.aspx"
     type: article
     provider:
-      name: autoevolution.com
-      domain: autoevolution.com
-    quality: 39
+      name: MCPmag
+      domain: mcpmag.com
+    quality: 54
     images:
-      - url: "https://s1.cdn.autoevolution.com/images/news/facebook-is-teaching-robots-to-adapt-in-real-time-to-any-environment-165041_1.jpg"
-        width: 1269
-        height: 645
+      - url: "https://mcpmag.com/-/media/ECG/VirtualizationReview/Images/introimages2014/140813VRTCloudOrchestration.jpg"
+        width: 647
+        height: 450
         isCached: true
+  - title: "Pensa Systems Now Available on Microsoft Azure"
+    excerpt: "Pensa Systems, a leading innovator in the automated use of computer vision and artificial intelligence for retail in-store data and analytics, announced today that its advanced shelf intelligence data offering has become a Microsoft Preferred Solution and is now available on Microsoft Azure."
+    publishedDateTime: 2021-07-13T11:38:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2021/07/13/9407404.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 49
+  - title: "CIBC inks Microsoft Azure deal"
+    excerpt: "Azure will support the migration of hundreds of applications to the cloud, as well as offer scalable computing power for CIBC's enterprise data lake and AI platform. The bank will also get access to a suite of Microsoft training programmes and ..."
+    publishedDateTime: 2021-07-11T23:23:00Z
+    webUrl: "https://www.finextra.com/newsarticle/38434/cibc-inks-microsoft-azure-deal"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 34
 
 secured: "i4T53EhQVTnGyil7FHt/9r5SdPEC+5itTUUGpbzvjkltKT3BD6mIfjEh9nyXMOjT6FYlPemnJrxhKaQ108NEBcfX9hDNJwthdl7BthaP5nWvZ2DxKbARHJuA0Qhq9rdKcgQsE0NLvARacU+VGnWTTJc7QBvC1t+st3xiU6/ttrTNHIh0rtn7mIpcX9megRUV0EvlH82hY+tiyy55XnCtuVhS9NRCcr4BzqLEJcBlN2jNwUaiJLsaTJWdomKHIYz0uyGyEtJofLJ27QB6z1rmi4wHpggcPbZVllGh2Pb/PCewmKNIR4CIlF9aGzfgDS9USEknON22951L0CwoAciJrZAwjTc2G75HlJFz8ni/Au8=;KXqn4O4BI25EDuQFUQX/DA=="
 ---

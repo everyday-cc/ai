@@ -2,30 +2,26 @@
 category: news
 title: "Facial-Recognition Tech Gets Bipartisan Call for More Regulation"
 excerpt: "The use of facial-recognition software by law enforcement should be regulated, a bipartisan group of lawmakers said, amid concerns of misidentification and violations of constitutional rights and due process."
-publishedDateTime: 2021-07-13T17:35:00Z
-originalUrl: "https://www.bloomberg.com/news/articles/2021-07-13/facial-recognition-tech-gets-bipartisan-call-for-more-regulation"
-webUrl: "https://www.bloomberg.com/news/articles/2021-07-13/facial-recognition-tech-gets-bipartisan-call-for-more-regulation"
+publishedDateTime: 2021-07-14T05:35:00Z
+originalUrl: "https://www.bloombergquint.com/onweb/facial-recognition-tech-gets-bipartisan-call-for-more-regulation"
+webUrl: "https://www.bloombergquint.com/onweb/facial-recognition-tech-gets-bipartisan-call-for-more-regulation"
 type: article
-quality: 54
+quality: 24
 heat: -1
 published: false
 
 provider:
-  name: Bloomberg
-  domain: bloomberg.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: BloombergQuint
+  domain: bloombergquint.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i35tDSsiJq1c/v1/1200x800.jpg"
+  - url: "https://gumlet.assettype.com/bloombergquint%2F2018-08%2F3a8e2237-2edb-4494-bcf2-231993fb6108%2FBLOOMBERG_LOGO.png?rect=0%2C56%2C1920%2C1008&w=1200&auto=format%2Ccompress&ogImage=true"
     width: 1200
-    height: 800
+    height: 630
     isCached: true
 
 related:
@@ -152,6 +148,6 @@ related:
         height: 400
         isCached: true
 
-secured: "jn5CrDGFaLR6sqXy4o+8Bk3z6Qt7Odpe8HDKk0zInvF/55guVroOzjg2Fl8FeBS+NuCKlGxRNjIzNXCAGuf33E6QWXqrJX+HIGHVo/jcx4rT/ZbAkAYOk0Jr6019JsuHN1y08MPptJITosw4i4V8GTe28kTDo9ffcHuEhFOrJEdlA2owgpuOu4ZvHcj56ogqs2rD8mgREQ1Tetn4RvBiXYsobvH/kYT3AvZNjznWQ364bVybQKkxhbplWue/Uk/KeXtIXsBwTjR15XCp7qIKyUE6vOuSv2rxr7/jbm2K3BSAqcgibMyVMdAEpN5n3DbEED8kHxoRs2Mdlf6zUCEGp6a0+l/vKyCTsm8Om/rpT/M=;x1zIkU3B3Vea2+89S1Ly5Q=="
+secured: "3m8kG7kmPGPU2AucTjkGAm154LQ7dpJ1cabDgEejvWHBWlrER25qlaqB/ed3sNQU7PXSaN5EGOJue4mpFNQY1w89zh3+EiL0cTnqtgDhSAfP1amkv5YrkmqTjARZF69XZAtIYddFsJfCWvBJntrKxiyaO5T4DM41xg7YOMG+phsC8uF2j6w4kO/0UQS1C3xSFi/b/iN0xwatF1GUVmu6iUuzN1uBx6YmXHIbVbSe0DnsOgKYW9qzLpyqohwGpJfGeNl43s6/XZkz2ZWzyav7XG/O2zYUovP8uTgiGW3z8izNMqkgpuSxqUNoM/mJXXADE5llwJmVU38RbmC0Ntqnvaepfjkk7EkhhjrbGnvMHIk=;OC7/+Q5wGQU7ats7iu4M9Q=="
 ---
 

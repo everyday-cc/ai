@@ -46,15 +46,22 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "How Predictive AI will Change Cybersecurity in 2021"
-    excerpt: "In this contributed article, Dr. Igor Mezic, CTO of MixMod AI explains how you can identify and stop zero-day attacks like the SolarWinds attack with the invention of this Unsupervised, Predictive AI,"
-    publishedDateTime: 2021-07-09T13:00:00Z
-    webUrl: "https://insidebigdata.com/2021/07/09/how-predictive-ai-will-change-cybersecurity-in-2021/"
+  - title: "Artificial Intelligence (AI) in Cybersecurity Market Worth Observing Massive Growth: Acalvio Technologies Inc., Check Point Software Technologies Ltd"
+    excerpt: "The recent report titled Global Artificial Intelligence AI in Cybersecurity Market and forecast to 2028 published by QY Reports is a focused study encompassing the market segmentation primarily based on type and application The report investigates the key drivers leading"
+    publishedDateTime: 2021-07-14T04:00:00Z
+    webUrl: "https://www.openpr.com/news/2327778/artificial-intelligence-ai-in-cybersecurity-market-worth"
+    ampWebUrl: "https://www.openpr.com/amp/2327778/artificial-intelligence-ai-in-cybersecurity-market-worth"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2327778/artificial-intelligence-ai-in-cybersecurity-market-worth"
     type: article
     provider:
-      name: insidebigdata.com
-      domain: insidebigdata.com
-    quality: 17
+      name: openpr.com
+      domain: openpr.com
+    quality: 33
+    images:
+      - url: "https://cdn.openpr.com/U/7/U714434827_g.jpg"
+        width: 720
+        height: 325
+        isCached: true
 
 secured: "3qRgrwrai49N9NJBO16dJXfrtUPWq5V8P6iAc29JYK0oU8EZSYDxWlnlToEb4z4s3XQvGOMBMFV8TbBNaXW/zVL4uzXP18jsMDM9iP2U0MMh8jChzQ0oOXn7IDbHFxI7VIEeUqpIYoG+1v/Aoxog+LqjUvA7A5F9oP3l+S0YzJG/TZxE0ox00+xiTmfxLAFuEEDBP64NYb14bknxD9AHVByPCvX4eo5bVAeUARibHQ9m2d0C+yEM+fncX9VUvO3DX2itAva0wUOnMrswLWdFDmxA6fzmxUzldl2khWo1aoOt3GH4GOEWbVsJGwt7YrKKLBRcBag/aG4f2sAZuOAmj3PbKG0LGEupg7gImZ4XTSm4xo8Q5xfItLeyRSuCxNZ8jPisHcV2DCpMUiBW0yUrMwz3hZvXHbGubrJ1zWWyGc2xpG4T786M27KmtTYzb6kPWxr35/cTwxk0+wxz3RY50EB0lNPBWxmEb6Bp4Myt1mSiGUZAp3LHq2Af1exNq/iwtbEyGThI/0RZnRKLRRRJjA==;rlQw9fn8jRLMMKs42Uoqag=="
 ---

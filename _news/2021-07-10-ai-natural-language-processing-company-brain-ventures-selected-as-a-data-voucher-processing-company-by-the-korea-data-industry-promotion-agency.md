@@ -1,31 +1,23 @@
 ---
 category: news
 title: "AI Natural Language Processing Company \"Brain Ventures\" Selected as a Data Voucher Processing Company by the Korea Data Industry Promotion Agency."
-excerpt: "Brain Ventures (CEO Won-hoe Kim), a resident company of ICT-Culture Convergence Center operated by the Ministry of Science and ICT and the National IT"
-publishedDateTime: 2021-07-10T04:00:00Z
-originalUrl: "https://www.asiaone.com/business/ai-natural-language-processing-company-brain-ventures-selected-data-voucher-processing"
-webUrl: "https://www.asiaone.com/business/ai-natural-language-processing-company-brain-ventures-selected-data-voucher-processing"
-ampWebUrl: "https://www.asiaone.com/business/ai-natural-language-processing-company-brain-ventures-selected-data-voucher-processing?amp"
-cdnAmpWebUrl: "https://www-asiaone-com.cdn.ampproject.org/c/s/www.asiaone.com/business/ai-natural-language-processing-company-brain-ventures-selected-data-voucher-processing?amp"
+excerpt: "The selection as the data voucher processing company is a feat accomplished by Brain Ventures, an AI-based natural language processing company, after 9 months of its establishment. It was evaluated highly for tangible research achievements such as the publication of research papers on AI natural language processing and the application of 5 patents and trademarks in a short period of time."
+publishedDateTime: 2021-07-09T18:07:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-ai-natural-language-processing-company-bra-ventures-selected-/2021/07/09/9406147.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-ai-natural-language-processing-company-bra-ventures-selected-/2021/07/09/9406147.htm"
 type: article
-quality: 36
-heat: 36
+quality: 0
+heat: 0
 published: false
 
 provider:
-  name: Asia One
-  domain: asiaone.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - Natural Language Processing
   - AI
 
-images:
-  - url: "https://www.asiaone.com/sites/default/files/styles/a1_og_image/public/original_images/Jul2021/pr-newswire_500_4_580.jpg?itok=YpqM4i8D"
-    width: 763
-    height: 509
-    isCached: true
-
-secured: "b3fmlOwc+3Go1rYKYmOFHMmwTVf2mQWiHy85LKQdoVzqXX2D8G8XOarpIVAX9acOl5OGyurwOeSsqPr/cSZ/PVQ8c5O8nTpy6WytO7fDLYS9Svu18DnCc4KOpHOuURgY+ODTtEnuKWI3OW/gMyKI2oZydi8W9/lSKwrSsvBEgVOL8VyTiJReZm//xihNQ8WQzSjV2Otl90yWLVgQWZENFreqRDWAFA1BH0WC3+H6ohCmMDR1tLb7UC0WPLJwJoo21X00VXaAIoRrV4Xv5I08dE9m40ykVNLtwsLC9DnBG8OEYsBYZT9+yCuWGRUnmZYJClKZ+UCcmBudw28jdmsJB81jcqeD+YCU6XrfvbE5LNs=;n4cFa4+PSEeSlOv/ytd+IA=="
+secured: "UBs16PIJLhEJuvs9ECfMJcZZevwYbwB+45c237Ia5YQ2GWu7z1fbvXMQwSI0ekUQ1E6tvG1c3Zdub+rgHJsKpS1FRflQ4VqZpRMnMvkDRMdJPZmLkd3/jS+JFKPeF0WVWShx9iN3pCf2DECDt+wEQTaDMQg/6sRviai3zybsHsUvphcFzgedxVowZfu8GyLqqMd4sUa3By3ep1M5DPRvlvw/PoxLln+P6NKES8OupRatkNZE/GYWQld84ZdRApghdtvhn6ECON0a851duzqF7ZHz1ZBg/ugtlRRru1hKwdSOKbi9FhBAundeBbAakSEYo5HCpsFOl3lXEutwOHZwlIRC68ym5kXb3eG6gRWfNBA=;7UHy4xYm8BRoaD5UTY+4zQ=="
 ---
 

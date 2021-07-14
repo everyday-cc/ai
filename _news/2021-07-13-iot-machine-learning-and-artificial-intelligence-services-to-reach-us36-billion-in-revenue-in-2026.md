@@ -1,30 +1,25 @@
 ---
 category: news
 title: "IoT Machine Learning and Artificial Intelligence Services to Reach US$3.6 Billion in Revenue in 2026"
-excerpt: "The next wave of Internet of Things (IoT) analytics development will fully converge with the Big Data domain. Simultaneously, the value in the technology stack is shifting beyond the hardware and middleware to analytics and value-added services,"
-publishedDateTime: 2021-07-13T08:11:00Z
-originalUrl: "https://www.lelezard.com/en/news-19898222.html"
-webUrl: "https://www.lelezard.com/en/news-19898222.html"
+excerpt: "The next wave of Internet of Things (IoT) analytics development will fully converge with the Big Data domain. Simultaneously, the value"
+publishedDateTime: 2021-07-13T08:00:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/21/07/n21949601/iot-machine-learning-and-artificial-intelligence-services-to-reach-us-3-6-billion-in-revenue-in-20"
+webUrl: "https://www.benzinga.com/pressreleases/21/07/n21949601/iot-machine-learning-and-artificial-intelligence-services-to-reach-us-3-6-billion-in-revenue-in-20"
+ampWebUrl: "https://www.benzinga.com/amp/content/21949601"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/21949601"
 type: article
-quality: 41
-heat: 41
+quality: 39
+heat: 39
 published: false
 
 provider:
-  name: Le Lézard
-  domain: lelezard.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
-  - AI in Healthcare
-  - AI
   - Machine Learning
+  - AI
 
-images:
-  - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
-    width: 640
-    height: 480
-    isCached: true
-
-secured: "aqUx+84McYH8yaAT8M1qokDqCHqWNkJjaybiR1YxDDP3eHP4hgxHEA7l5Lbvd5OPlj9hTkUyPvHnDmQkzuB+eeVPIO0TMttLyugbvqk/BqABCx1UzYMhZhYFfu8LOU4SFaw1Fc+m+G3RLeWa188OvHNWBj+c+mzxTCB05NgCxP4fiMNn3nS2JD0/2q+wKiQIl+U+hxJEPkyM4Asa1OeuNyXncVl8LoVb8/tVGbezDl+W5N/Kse/4/0gW9knSGXQVtfALOVvlRodP3eSrt0ien+UO2Pdc9uIVPQ8kjo075hq0sbu2KCPsgZUrtl6kPyZKizpM/rTRUxWyYFC1iz/DjyWyYK+j/fnE4L3j15RM0xc=;gH60OBoJTLXRNrkNFewHsQ=="
+secured: "/DBtyl0mV+MztEQj/OUYPwUDUnGoR44CBY9dwALR5zokzFnIqyKqF8R+IvuITC5Gy4ryLpOtk9ij80shpwBGXUuGXBfCd5DZK1GEMUs1WVLKdpmItlrsO4Q/6k0AvHThnjW9tlhQyGE0apZRVm6HF/GXTtqtGg9d5rRMgjGBFfAV1WUoj7LVKpmcCPMHyhZ4UZNAwsUVS3egfL8cQMXtHosKAet6rn6SppJ3++SeHF8wnlt0mv/zkY82zb+3V2LydvGfhW9BxtOsdmUVnu8TNIPiRSE1bIsCvfsAo8AsZsgFIiTsnXaxTaEi9ewhWHuUqxEYJVKgrw4cr9y8s80nBKAOY7piMSqCgsGkCKbO0a8=;NrdI89DSU1BfHmWzU9JvnA=="
 ---
 

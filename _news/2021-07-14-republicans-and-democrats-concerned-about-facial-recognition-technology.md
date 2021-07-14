@@ -2,27 +2,26 @@
 category: news
 title: "Republicans and Democrats concerned about facial recognition technology"
 excerpt: "Law enforcement must be careful when using facial recognition technology. “We need to ensure that the adoption of this new technology that does not further erode trust between law enforcement and the communities they serve,"
-publishedDateTime: 2021-07-13T21:30:00Z
-originalUrl: "https://www.wsav.com/news/republicans-and-democrats-concerned-about-facial-recognition-technology/"
-webUrl: "https://www.wsav.com/news/republicans-and-democrats-concerned-about-facial-recognition-technology/"
-ampWebUrl: "https://www.wsav.com/news/republicans-and-democrats-concerned-about-facial-recognition-technology/amp/"
-cdnAmpWebUrl: "https://www-wsav-com.cdn.ampproject.org/c/s/www.wsav.com/news/republicans-and-democrats-concerned-about-facial-recognition-technology/amp/"
+publishedDateTime: 2021-07-13T21:23:00Z
+originalUrl: "https://kfor.com/news/republicans-and-democrats-concerned-about-facial-recognition-technology/"
+webUrl: "https://kfor.com/news/republicans-and-democrats-concerned-about-facial-recognition-technology/"
+ampWebUrl: "https://kfor.com/news/republicans-and-democrats-concerned-about-facial-recognition-technology/amp/"
+cdnAmpWebUrl: "https://kfor-com.cdn.ampproject.org/c/s/kfor.com/news/republicans-and-democrats-concerned-about-facial-recognition-technology/amp/"
 type: article
-quality: 61
-heat: 111
+quality: 59
+heat: 109
 published: true
 
 provider:
-  name: WSAV-TV
-  domain: wsav.com
+  name: Oklahoma's News
+  domain: kfor.com
 
 topics:
-  - Natural Language Processing
-  - AI
   - Computer Vision
+  - AI
 
 images:
-  - url: "https://www.wsav.com/wp-content/uploads/sites/75/2021/07/CBD9E120D58140A1A6D82774464D865D_7.jpg?w=1280"
+  - url: "https://kfor.com/wp-content/uploads/sites/3/2021/07/CBD9E120D58140A1A6D82774464D865D_7.jpg?w=1280"
     width: 1280
     height: 720
     isCached: true
@@ -91,6 +90,6 @@ related:
       domain: reportsnreports.com
     quality: 16
 
-secured: "QBCiUf1eQpcGOOCoKuGR+tfSs0bhCnzm1ciybN3/o6TgefCQQ3ZTnNMQI8HPr+EsXnY6wIgrYGs7gPocY17I83RoSYU3/43elihUYC1i2cMaOiVO4O7iLlAd1oWed7i2+GDa6DxH2cDqB5yJEOwtDHu/3ZAZj4gektoQt9uAruD94riLlLQjNCAw0EBbmVTWB1/ZoQecQ9xulmHQV+iagpoxzcT1nnmo2UzDcmfatHg7vC44nd8ZlZQMWD55DqEYupxVlTM1MDKnyf10MtwPZB44Gh1Wee112Nzri+UYNDI4N9Edd82jGQKzQkmNFXIL9r1H7/8PwonC+D5szm1Fllv1MBnNJ8DJZjFvPOnrdUE=;pPqojRFhB6IVOUB+dyZvXw=="
+secured: "52Q7G43jvv12DCIxqv08teyb18Is2YmUSMdmgH/gO2GKnV/db42AwoqgnNDGrom+gH1+w+9CAAW5XNI63R+VGLl9snrH2fN+TNiwsszC3K0q6Imuv6pcADzPqmWT2nkqt+ZluGygk0zIrxvptS36uQH05Q71ZzcVCqRbiTJIs7bL82cHNNpI1gMCYo3d4zmqwB2n48d9xnUaK7muM50jckCPyu/Y6KFEixXnY5Ya1Vgoo1dFhwW9r5MRmqiY7m00UeDu6kMaU/aILelT6HIj29F45xfssRH4/R8oGB1ADn+t2ntLXXqPtO3GVVS5Cwhy9lXkASxXKdBOlFVcH8TaCKw37VebaKSa02WCygoFtck=;FdbPsKmOXNwpCJ5bm7DzsQ=="
 ---
 

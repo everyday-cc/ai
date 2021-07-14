@@ -24,19 +24,6 @@ images:
     height: 853
     isCached: true
 
-related:
-  - title: "Iveda Launches AI-Based IvedaMobile for Instant Face and License Plate Recognition"
-    excerpt: "Using the camera on the mobile device, IvedaMobile enables instant searches for faces and license plate numbers anytime, anywhere that surveillance cameras are not available or do"
-    publishedDateTime: 2021-07-09T12:30:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/21/07/g21913564/iveda-launches-ai-based-ivedamobile-for-instant-face-and-license-plate-recognition"
-    ampWebUrl: "https://www.benzinga.com/amp/content/21913564"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/21913564"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 33
-
 secured: "87qG43JhYMZzzAg5C3yxmp6+3tTApBB+WFSgHraK/C6baPcHSGm2krqOTsJ7bi+mJbIn5/VQttasvIMdNFZYB4DzAqaTuPCRFfWu6VrCPyLRdz1/JhusUVY3h/VGLQmH4c0J+PC+YteRgGiRF4LRXLyftwk25zJ+va4qQC1/sGBm4I6cpD/Bc5Q7SYhpIvMVOYQFMXIMdLf3ppaaSAHv+ZY31isAdU+9cRrO9OQ1oBpRCRJsHyhoweg7dLITs6vaU7DyPHIpqX9HsC2+tAkglz9oddDe4F+8HcYxEkdiQmW4y6L/N6hpoLqOMX1zmLh5F8uBcXbBqve9x8AVabcj+fHTsT9Qf8UXzA8mdTpZ8hrbUyEd7FYph9MXUsRYvrLS5y4u/npYuwvrd2P50HEZ8bKXmD4YHpRpX8QGeSYkkRliWjXmafuNP+SqW1k/tqizszIJU6xR7MZTH8bbub9O+8+UfA0OQx3Hn5OauDydSa6MTb3zdjGEbKF5UrntZHU++yIyeI9cuFrmCjO8XxCS3A==;CfJZ3ZZ9M1TtV2JtW8W2Hw=="
 ---
 

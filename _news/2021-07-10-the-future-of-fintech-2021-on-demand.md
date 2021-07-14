@@ -66,20 +66,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 34
-  - title: "Demystifying the role of the fintech CFO"
-    excerpt: "This series of articles looks to demystify the various C-level roles within fintech companies today – exploring the career paths taken by top managers, their critical skills, daily responsibilities and challenges,"
-    publishedDateTime: 2021-07-09T11:48:00Z
-    webUrl: "https://www.finextra.com/the-long-read/228/demystifying-the-role-of-the-fintech-cfo"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 24
-    images:
-      - url: "https://www.finextra.com/finextra-images/oped/228.jpg"
-        width: 800
-        height: 450
-        isCached: true
   - title: "AI to have biggest impact on fintech development over next five years"
     excerpt: "Artificial intelligence (AI) technology will have the biggest impact on fintech ... AT&T will move its 5G services to Microsoft's Azure cloud. The move provides Microsoft with a critical 5G customer while AT&T ... What's the difference between 802.11ac ..."
     publishedDateTime: 2021-07-13T22:50:00Z

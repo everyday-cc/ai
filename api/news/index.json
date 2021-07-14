@@ -10,7 +10,7 @@
       "originalUrl": "https://markets.businessinsider.com/news/stocks/icertis-recognized-as-the-winner-of-2021-microsoft-ai-partner-of-the-year-1030603718",
       "featuredContent": null,
       "highlight": null,
-      "heat": 233,
+      "heat": 153,
       "tags": null,
       "images": [
         {
@@ -102,15 +102,15 @@
       "title": "Republicans and Democrats concerned about facial recognition technology",
       "excerpt": "Law enforcement must be careful when using facial recognition technology. “We need to ensure that the adoption of this new technology that does not further erode trust between law enforcement and the communities they serve,",
       "sourceUrl": null,
-      "webUrl": "https://www.wsav.com/news/republicans-and-democrats-concerned-about-facial-recognition-technology/",
-      "originalUrl": "https://www.wsav.com/news/republicans-and-democrats-concerned-about-facial-recognition-technology/",
+      "webUrl": "https://kfor.com/news/republicans-and-democrats-concerned-about-facial-recognition-technology/",
+      "originalUrl": "https://kfor.com/news/republicans-and-democrats-concerned-about-facial-recognition-technology/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 111,
+      "heat": 109,
       "tags": null,
       "images": [
         {
-          "url": "https://www.wsav.com/wp-content/uploads/sites/75/2021/07/CBD9E120D58140A1A6D82774464D865D_7.jpg?w=1280",
+          "url": "https://kfor.com/wp-content/uploads/sites/3/2021/07/CBD9E120D58140A1A6D82774464D865D_7.jpg?w=1280",
           "width": 1280,
           "height": 720,
           "title": null,
@@ -120,13 +120,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.wsav.com/news/republicans-and-democrats-concerned-about-facial-recognition-technology/amp/",
-      "cdnAmpWebUrl": "https://www-wsav-com.cdn.ampproject.org/c/s/www.wsav.com/news/republicans-and-democrats-concerned-about-facial-recognition-technology/amp/",
-      "publishedDateTime": "2021-07-13T14:30:00-07:00",
+      "ampWebUrl": "https://kfor.com/news/republicans-and-democrats-concerned-about-facial-recognition-technology/amp/",
+      "cdnAmpWebUrl": "https://kfor-com.cdn.ampproject.org/c/s/kfor.com/news/republicans-and-democrats-concerned-about-facial-recognition-technology/amp/",
+      "publishedDateTime": "2021-07-13T14:23:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "WSAV-TV",
-        "domain": "wsav.com",
+        "name": "Oklahoma's News",
+        "domain": "kfor.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -136,9 +136,8 @@
         "news"
       ],
       "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Computer Vision"
+        "Computer Vision",
+        "AI"
       ]
     },
     {
@@ -306,7 +305,7 @@
       "originalUrl": "https://venturebeat.com/2021/07/13/nordstrom-cto-on-ai-powered-analytics-and-consumer-insights/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 117,
+      "heat": 107,
       "tags": null,
       "images": [
         {
@@ -920,7 +919,7 @@
       "originalUrl": "https://www.computerweekly.com/news/252503927/AI-to-have-biggest-impact-on-fintech-development-over-next-five-years",
       "featuredContent": null,
       "highlight": null,
-      "heat": 129,
+      "heat": 119,
       "tags": null,
       "images": [
         {

@@ -2,6 +2,143 @@
   "page": 90,
   "value": [
     {
+      "path": "_news/2021-05-08-googles-main-business-could-use-some-moonshots.md",
+      "title": "Google’s Main Business Could Use Some Moonshots",
+      "excerpt": "Time was when some investors valued Waymo above $100 billion ... DeepMind Technologies Ltd., the U.K.-based artificial intelligence company that is one of the “Other Bets,” has made ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/opinion/articles/2021-05-08/google-s-other-bets-should-focus-on-its-main-business",
+      "originalUrl": "https://www.bloomberg.com/opinion/articles/2021-05-08/google-s-other-bets-should-focus-on-its-main-business",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iZLIV5OSAj74/v1/1200x800.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-08T06:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-08-cloud-software-provider-billcom-to-acquire-expense-management-fintech-divvy-in-25b-deal.md",
+      "title": "Cloud Software Provider Bill.com to Acquire Expense Management Fintech Divvy in $2.5B Deal",
+      "excerpt": "Cloud software provider Bill.com to acquire expense management Fintech Divvy in $2.5B deal. The transaction should be finalized by Sept 2021.",
+      "sourceUrl": null,
+      "webUrl": "https://getdivvy.com/",
+      "originalUrl": "https://www.crowdfundinsider.com/2021/05/175065-cloud-software-provider-bill-com-to-acquire-expense-management-fintech-divvy-in-2-5b-deal/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 132,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://getdivvy.com/wp-content/uploads/2019/05/Divvy-Logo-19.png",
+          "width": 640,
+          "height": 254,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-07T18:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Crowdfund Insider",
+        "domain": "crowdfundinsider.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-08-ai-azure-and-second-chance-tech-highlights-from-microsofts-build-2018.md",
+      "title": "AI, Azure, and second chance tech: Highlights from Microsoft’s Build 2018",
+      "excerpt": "This gives developers the software and hardware needed to create camera-based IoT solutions, and it comes packed with Azure Machine Learning services. Microsoft CEO Satya Nadella also reiterated the company’s responsibility to trusted and responsible AI ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.itbusiness.ca/news/ai-azure-and-second-chance-tech-highlights-from-microsofts-build-2018/101635",
+      "originalUrl": "https://www.itbusiness.ca/news/ai-azure-and-second-chance-tech-highlights-from-microsofts-build-2018/101635",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.itbusiness.ca/wp-content/uploads/2018/05/Photo-Satya-Nadella-Microsoft-Build-2018.jpg",
+          "width": 620,
+          "height": 250,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.itbusiness.ca/news/ai-azure-and-second-chance-tech-highlights-from-microsofts-build-2018/101635?amp=1",
+      "cdnAmpWebUrl": "https://www-itbusiness-ca.cdn.ampproject.org/c/s/www.itbusiness.ca/news/ai-azure-and-second-chance-tech-highlights-from-microsofts-build-2018/101635?amp=1",
+      "publishedDateTime": "2021-05-07T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT Business",
+        "domain": "itbusiness.ca",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-08-tesla-refutes-elon-musks-timeline-on-full-self-driving.md",
       "title": "Tesla refutes Elon Musk’s timeline on ‘full self-driving’",
       "excerpt": "What Tesla CEO Elon Musk says publicly about the company’s progress on a fully autonomous driving system doesn’t match up with “engineering reality,” according to a memo that summarizes a meeting between California regulators and employees at the automaker.",
@@ -1065,142 +1202,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-07-video-more-certainty-for-deep-learning.md",
-      "title": "Video: More certainty for deep learning",
-      "excerpt": "Deep learning, machine learning and artificial intelligence offer significant opportunities to solve the challenges of different disciplines and make our lives easier in many ways.",
-      "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2021-05-video-certainty-deep.html",
-      "originalUrl": "https://techxplore.com/news/2021-05-video-certainty-deep.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2019/8-ai.jpg",
-          "width": 1920,
-          "height": 1285,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2021-05-video-certainty-deep.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-05-video-certainty-deep.amp",
-      "publishedDateTime": "2021-05-07T05:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techxplore.com",
-        "domain": "techxplore.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-07-artificial-intelligence-aids-radiologist-to-classify-masses-in-breast-ultrasound.md",
-      "title": "Artificial Intelligence Aids Radiologist to classify Masses in Breast Ultrasound",
-      "excerpt": "Artificial intelligence (AI) is gaining extensive attention for its excellent performance in image-recognition tasks and increasingly applied in breast ultrasound. In a recent study presented at",
-      "sourceUrl": null,
-      "webUrl": "https://medicaldialogues.in/radiology/news/artificial-intelligence-aids-radiologist-to-classify-masses-in-breast-ultrasound-77340",
-      "originalUrl": "https://medicaldialogues.in/radiology/news/artificial-intelligence-aids-radiologist-to-classify-masses-in-breast-ultrasound-77340",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://medicaldialogues.in/h-upload/2021/05/05/152210-koios.jpg",
-          "width": 1024,
-          "height": 519,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://medicaldialogues.in/amp/radiology/news/artificial-intelligence-aids-radiologist-to-classify-masses-in-breast-ultrasound-77340",
-      "cdnAmpWebUrl": "https://medicaldialogues-in.cdn.ampproject.org/c/s/medicaldialogues.in/amp/radiology/news/artificial-intelligence-aids-radiologist-to-classify-masses-in-breast-ultrasound-77340",
-      "publishedDateTime": "2021-05-07T04:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Daily",
-        "domain": "medicaldialogues.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-07-how-voice-ai-is-changing-the-way-people-order-food.md",
-      "title": "How Voice AI Is Changing The Way People Order Food",
-      "excerpt": "As consumers continue to leverage voice-to-order from restaurants and voice-enabled technology continues to thrive, it’s clear that voice AI solutions should be a priority for restaurant leaders across the country this year,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/05/07/how-voice-ai-is-changing-the-way-people-order-food/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/05/07/how-voice-ai-is-changing-the-way-people-order-food/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f5b7915a5d68b0459dfcbb7%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/05/07/how-voice-ai-is-changing-the-way-people-order-food/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/05/07/how-voice-ai-is-changing-the-way-people-order-food/amp/",
-      "publishedDateTime": "2021-05-07T04:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

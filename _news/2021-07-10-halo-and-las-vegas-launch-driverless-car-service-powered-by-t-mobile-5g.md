@@ -7,8 +7,8 @@ originalUrl: "https://www.marketwatch.com/press-release/halo-and-las-vegas-launc
 webUrl: "https://www.marketwatch.com/press-release/halo-and-las-vegas-launch-driverless-car-service-powered-by-t-mobile-5g-2021-07-09"
 type: article
 quality: 69
-heat: -1
-published: false
+heat: 89
+published: true
 
 provider:
   name: MarketWatch
@@ -29,20 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Halo Brings Driverless Car Rental to Las Vegas"
-    excerpt: "All-electric rental car startup Halo this week announced plans for an autonomous vehicle service in Las Vegas, powered by T-Mobile 5G. Halo, which has been test driving on Las Vegas public streets for months,"
-    publishedDateTime: 2021-07-09T12:47:00Z
-    webUrl: "https://uk.pcmag.com/cars-auto/134405/halo-brings-driverless-car-rental-to-las-vegas"
-    type: article
-    provider:
-      name: PC Magazine
-      domain: pcmag.com
-    quality: 69
-    images:
-      - url: "https://sm.pcmag.com/t/pcmag_uk/news/h/halo-bring/halo-brings-driverless-car-rental-to-las-vegas_w7ty.1200.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Rideshare Service Halo Introduces Driverless Cars That Can Be Delivered Remotely"
     excerpt: "“Driverless cars! Fueling this kind of ... come to a full stop upon detecting a hazard. The cars also use Artificial Intelligence to learn the driving patterns of humans over time."
     publishedDateTime: 2021-07-12T23:10:00Z

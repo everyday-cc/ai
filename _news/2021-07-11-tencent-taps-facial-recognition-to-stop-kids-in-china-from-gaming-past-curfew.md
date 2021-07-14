@@ -47,22 +47,6 @@ related:
         width: 620
         height: 310
         isCached: true
-  - title: "Tencent Games uses facial recognition to restrict children’s screen time."
-    excerpt: "The Chinese internet conglomerate Tencent said this week that it would deploy facial recognition technology in its video games in an attempt to close a loophole in restrictions aimed at limiting screen time."
-    publishedDateTime: 2021-07-09T11:56:00Z
-    webUrl: "https://www.nytimes.com/2021/07/09/business/tencent-games-uses-facial-recognition-to-restrict-childrens-screen-time.html"
-    ampWebUrl: "https://www.nytimes.com/2021/07/09/business/tencent-games-uses-facial-recognition-to-restrict-childrens-screen-time.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/07/09/business/tencent-games-uses-facial-recognition-to-restrict-childrens-screen-time.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 88
-    images:
-      - url: "https://static01.nyt.com/images/2021/07/09/world/09china-videogame-print1-copy/08china-videogame-facebookJumbo.jpg"
-        width: 1050
-        height: 549
-        isCached: true
   - title: "Tencent Is Using Facial Recognition To Ban Kids From Gaming At Night"
     excerpt: "Chinese gaming giant Tencent has rolled out a facial recognition system that prevents minors from playing video games at night past their allotted time."
     publishedDateTime: 2021-07-09T17:26:00Z
@@ -150,20 +134,6 @@ related:
       - url: "https://files.texaspolicy.com/uploads/2021/06/23154309/Police-1350x759.jpg"
         width: 1350
         height: 759
-        isCached: true
-  - title: "China has long used facial recognition as a means of state control – now gamers are being targeted"
-    excerpt: "Tencent Gaming is using facial recognition tech to stop Chinese kids gaming at night. But is it a helpful public health exercise, or a more sinister attempt to control human behaviour?"
-    publishedDateTime: 2021-07-09T11:12:00Z
-    webUrl: "https://www.pinknews.co.uk/2021/07/09/chinese-facial-recognition-gaming/"
-    type: article
-    provider:
-      name: PinkNews
-      domain: pinknews.co.uk
-    quality: 25
-    images:
-      - url: "https://s31242.pcdn.co/wp-content/uploads/2021/07/GettyImages-857382022.jpg"
-        width: 1024
-        height: 628
         isCached: true
   - title: "Facial Recognition Is Doing Harm Right Now. It’s Unacceptable for Lawmakers To Do Anything Other Than Ban It."
     excerpt: "The House Judiciary Committee is holding a hearing today on facial recognition technology. They’re expected to discuss a wide range of issues including the recent GAO report on federal government use of facial recognition and the Facial Recognition and Biometric Technology Moratorium Act."

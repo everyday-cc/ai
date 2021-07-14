@@ -7,7 +7,7 @@ originalUrl: "https://techcrunch.com/2021/07/09/5-fundraising-imperatives-for-ro
 webUrl: "https://techcrunch.com/2021/07/09/5-fundraising-imperatives-for-robotics-startups/"
 type: article
 quality: 99
-heat: 109
+heat: 119
 published: true
 
 provider:
@@ -45,6 +45,15 @@ related:
         width: 800
         height: 400
         isCached: true
+  - title: "Founder Institute, NASA Ames and MassRobotics Partner to Launch AI and Robotics Accelerator in Boston"
+    excerpt: "The Founder Institute, the world’s largest pre-seed startup accelerator, announces partnerships with NASA Ames Research Center and MassRobotics for the upcoming Founder Institute AI & Robotics Accelerator program in Boston."
+    publishedDateTime: 2021-07-13T13:00:00Z
+    webUrl: "https://insidehpc.com/2021/07/founder-institute-nasa-ames-and-massrobotics-partner-to-launch-ai-and-robotics-accelerator-in-boston/"
+    type: article
+    provider:
+      name: insideHPC
+      domain: insidehpc.com
+    quality: 34
 
 secured: "OX6GkdMAelTUSNtVCqdw9H8H5tTvdg7i4q5dYrH29P6bDULdw+uc1fouKyPy9UDd04NBN5gmQQALdcWZFLVG6EDmRmIWcGWQbkTyBZGlmrpkyTCvqgQDbkf/C+nom0Ai8cMqcjxb8pvZihajxKWnFVXwZk2kXTWiahEK1hT/PWAqPgjSvfGMH97LuAPzKJAAI0WPrzn45OWkPtEy60JFsHu65DFtpDdT46Yemt2AXh1BtJ2qOoYF03KOrdv+LHMmygo9zXZ0vFJK/aN6rBEwu0G/taMXfcOxdn6sGPkIa3RSs6nWhwfa5xfbrWxcPnaBvOIv3pdr9e3k8la1YEB3YQyTfjgKbqJIVlRr3ofx2+/Ayhhwwoi7W34wDzTlLjLl1N/LkoEKvqjhhv6ePfLuPQqoXAqS3oUCCgWZGPBEF009ouehLNE0iNck/hcsygnutDRf3EMttx0FNR2lLhIi3Sco5YItRO4L9PFk0PwYxIMGc896gNr+nOhQCI5Ajds1yK2cBI2F0TmDhSA29f1KXw==;49YNaRTaWq/2WiSZHBuqJw=="
 ---

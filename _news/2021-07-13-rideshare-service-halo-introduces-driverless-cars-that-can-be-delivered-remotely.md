@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Halo Brings Driverless Car Rental to Las Vegas"
-    excerpt: "All-electric rental car startup Halo this week announced plans for an autonomous vehicle service in Las Vegas, powered by T-Mobile 5G. Halo, which has been test driving on Las Vegas public streets for months,"
-    publishedDateTime: 2021-07-09T12:47:00Z
-    webUrl: "https://uk.pcmag.com/cars-auto/134405/halo-brings-driverless-car-rental-to-las-vegas"
-    type: article
-    provider:
-      name: PC Magazine
-      domain: pcmag.com
-    quality: 69
-    images:
-      - url: "https://sm.pcmag.com/t/pcmag_uk/news/h/halo-bring/halo-brings-driverless-car-rental-to-las-vegas_w7ty.1200.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Halo and Las Vegas Launch Driverless Car Service Powered by T-Mobile 5G"
     excerpt: "G is beginning to power everything from connected farms to connected cars! Recently, Halo launched one of the first commercial driverless car services in the U.S. running on the T-Mobile (NASDAQ: TMUS) 5G network in Las Vegas."
     publishedDateTime: 2021-07-09T18:57:00Z

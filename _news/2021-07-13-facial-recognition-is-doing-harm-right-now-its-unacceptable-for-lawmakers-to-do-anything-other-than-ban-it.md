@@ -41,22 +41,6 @@ related:
         width: 620
         height: 310
         isCached: true
-  - title: "Tencent Games uses facial recognition to restrict children’s screen time."
-    excerpt: "The Chinese internet conglomerate Tencent said this week that it would deploy facial recognition technology in its video games in an attempt to close a loophole in restrictions aimed at limiting screen time."
-    publishedDateTime: 2021-07-09T11:56:00Z
-    webUrl: "https://www.nytimes.com/2021/07/09/business/tencent-games-uses-facial-recognition-to-restrict-childrens-screen-time.html"
-    ampWebUrl: "https://www.nytimes.com/2021/07/09/business/tencent-games-uses-facial-recognition-to-restrict-childrens-screen-time.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/07/09/business/tencent-games-uses-facial-recognition-to-restrict-childrens-screen-time.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 88
-    images:
-      - url: "https://static01.nyt.com/images/2021/07/09/world/09china-videogame-print1-copy/08china-videogame-facebookJumbo.jpg"
-        width: 1050
-        height: 549
-        isCached: true
   - title: "Tencent taps facial recognition to stop kids in China from gaming past curfew"
     excerpt: "Tencent has announced that it is now using facial recognition to enforce China’s gaming curfew for minors, one that forces them to play games only during allotted hours during the day and to turn off their games by 10 PM. The law, which has proven ..."
     publishedDateTime: 2021-07-11T13:00:00Z
@@ -160,20 +144,6 @@ related:
       - url: "https://files.texaspolicy.com/uploads/2021/06/23154309/Police-1350x759.jpg"
         width: 1350
         height: 759
-        isCached: true
-  - title: "China has long used facial recognition as a means of state control – now gamers are being targeted"
-    excerpt: "Tencent Gaming is using facial recognition tech to stop Chinese kids gaming at night. But is it a helpful public health exercise, or a more sinister attempt to control human behaviour?"
-    publishedDateTime: 2021-07-09T11:12:00Z
-    webUrl: "https://www.pinknews.co.uk/2021/07/09/chinese-facial-recognition-gaming/"
-    type: article
-    provider:
-      name: PinkNews
-      domain: pinknews.co.uk
-    quality: 25
-    images:
-      - url: "https://s31242.pcdn.co/wp-content/uploads/2021/07/GettyImages-857382022.jpg"
-        width: 1024
-        height: 628
         isCached: true
 
 secured: "uvfIK5VbshdIZlrA1CN3uD8rIZkUHpsY5qQ0PYzmvo9WyGGjoaGD1rbHkqpSDTtc+XPMuzyGb/n1mhomwj0zaXCXR3j/w5HumnnGW1swzGx5S+Bm5V4Vwc4/fYY3g0TXVyEMxqc6f+2H4IQ3Lztfb1oD/6tZBW2CwJ5W5kQQH0Z9ezMefB4Xw+t1bqQE2yA60K30EgHjrA9goqxNil6NqlJ/tl0kwn6IvITrySva40WKJ9aVEMzUr5F5cayftCWv0Aefle8gql6m5TEcNEuwM9I+f48KZOKi48uUTzZmgCXq3pSZP/U1Y4Y8SuV08msbFIn4EDyIsFNovwvlkZHyVjRD2tME+QC1vjVxWwULdFQ=;XvPMgy4gjLT+uT5p2/XPwA=="

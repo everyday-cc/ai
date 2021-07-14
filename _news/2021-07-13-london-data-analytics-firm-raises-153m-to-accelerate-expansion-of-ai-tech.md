@@ -41,20 +41,6 @@ related:
         width: 1200
         height: 900
         isCached: true
-  - title: "Text Analytics Market Top Vendors Analysis, Market Challenges and Geographical Analysis"
-    excerpt: "As per Global Market Insights, Inc. estimates, the global text analytics market size is expected to cross $20 billion by 2027. The global text analytics market share is slated to expand at an appreciable rate over the foreseeable future,"
-    publishedDateTime: 2021-07-09T12:07:00Z
-    webUrl: "https://www.marketwatch.com/press-release/text-analytics-market-top-vendors-analysis-market-challenges-and-geographical-analysis-2021-07-09"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 46
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Wobot.ai, the AI-powered Video Analytics Platform, Announces the Launch of a New SaaS-based and Simplified Version of its Product"
     excerpt: "Wobot.ai, the AI-powered video analytics platform, today announced the launch of a new SaaS-based and simplified version of its product. Wobot.ai is now"
     publishedDateTime: 2021-07-09T14:06:00Z

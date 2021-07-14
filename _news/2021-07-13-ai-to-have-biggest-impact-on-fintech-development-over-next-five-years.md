@@ -9,7 +9,7 @@ ampWebUrl: "https://www.computerweekly.com/news/252503927/AI-to-have-biggest-imp
 cdnAmpWebUrl: "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252503927/AI-to-have-biggest-impact-on-fintech-development-over-next-five-years?amp=1"
 type: article
 quality: 59
-heat: 129
+heat: 119
 published: true
 
 provider:
@@ -52,20 +52,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 34
-  - title: "Demystifying the role of the fintech CFO"
-    excerpt: "This series of articles looks to demystify the various C-level roles within fintech companies today – exploring the career paths taken by top managers, their critical skills, daily responsibilities and challenges,"
-    publishedDateTime: 2021-07-09T11:48:00Z
-    webUrl: "https://www.finextra.com/the-long-read/228/demystifying-the-role-of-the-fintech-cfo"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 24
-    images:
-      - url: "https://www.finextra.com/finextra-images/oped/228.jpg"
-        width: 800
-        height: 450
-        isCached: true
   - title: "The Future of Fintech 2021 on demand"
     excerpt: "On the 17th of June, FStech's virtual conference returned for 2021, covering the biggest trends in financial services technology. Across a variety of keynote speeches, in-depth presentations and lively panel discussions this online event tackled how firms can deal with the challenges of the Coronavirus crisis one year on, as well as looking forward to what the 'new normal' will look like for an industry already in the grips of digital disruption. Among the topics on the agenda were: cyber security in the time of COVID-19, the RegTech solutions automating compliance, improving data literacy and governance, protecting customers from fraud, AI and machine learning, the rise of digital assets, upgrading legacy systems and ensuring data is safe and optimised in the cloud. For those of you who missed the event, or would like to watch specific sessions again, we have collected the day's content and put it all in one place for easy viewing:"
     publishedDateTime: 2021-07-10T09:48:00Z
@@ -108,6 +94,6 @@ related:
       domain: finextra.com
     quality: 4
 
-secured: "gUn88Fb8OxBqQ547gWW4b2f06iqD5Hlxb02O1+AT39KMmKX3D7DTARphjRm4kQ+ZFf9DYKI+zY2gNRsw07UPKrkcdJKZvFdoYB0jVYpZ42jmI3ulEGGuwrhmVF1mGhEzLWqnVkQxTfqOAbPMPQfuGtKylK5s0TrAxVKnTZB5EFzOS2+Ha/vNRdjC9BLskiCio28MURTEeP3ZD2FvSmZTBn4T7euqMzjDnARg/+ttf0edFnNQPug8gGs3RZy0ncaloMwQvqoOvf8BE/cNdUyp4OOSFkXOELIXkxKYWSaarUnAkjIqQFLoHzpyRX7AhedD5Fo48zDEd5YDomMbraL500w2fVkdTE/6yltnY/UUqZg=;1yM8CMTnGA9CLjusvDv+gw=="
+secured: "5KgzdawOtEXoA4XQnoF1NT0LEFXsC8lsvBloUOBmgb4eOhH5jufDGmxp59+QHASO+cO/8yeksG4PfioL+9F/jw6/SVi44g1p1SYg7RhNTPSkBezWWinudUwBuc68vzGhwW5W+9H2QWtdpIc9Vygh73qbU6kQG7culP8ty+7TOwL5HyMcW6TyO3Lt/b4f9u/AoHMZijE6d1IqpOTGEMiNjv3sG0qct7kmfdixZe0BPzkNrapWM3I5nfr0pfxoqcwoy1alkuF1/8iJmjA6ASMysZquq/ivpgDQsD024Hx9oOqtDEvcO+cRyKSvFpB/JmvXDQa6Whc4PJb7at7Q8tMHB6Bg43iMy82/LP9CNqw/VH8vxXxBZsFA9zC8CyyBay1xbUmEkW6nidkq3AOXV5Qj4FdLxTP3eH2GIZGxGGao8Ls2i5BNJgptWq1SFGpjhdK/5tCunV+RiyUGnEp8LHwxDmbuktATV8+NA6xTLsaDeyqCm82Kg30nt+g0wiPqF1bs0MjaMTr6brSvV3uoSxKdNw==;H2CEygzJ7IxGquSs+jbzbw=="
 ---
 

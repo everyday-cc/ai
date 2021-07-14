@@ -46,15 +46,22 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "How Predictive AI will Change Cybersecurity in 2021"
-    excerpt: "In this contributed article, Dr. Igor Mezic, CTO of MixMod AI explains how you can identify and stop zero-day attacks like the SolarWinds attack with the invention of this Unsupervised, Predictive AI,"
-    publishedDateTime: 2021-07-09T13:00:00Z
-    webUrl: "https://insidebigdata.com/2021/07/09/how-predictive-ai-will-change-cybersecurity-in-2021/"
+  - title: "Artificial Intelligence (AI) in Cybersecurity Market Worth Observing Massive Growth: Acalvio Technologies Inc., Check Point Software Technologies Ltd"
+    excerpt: "The recent report titled Global Artificial Intelligence AI in Cybersecurity Market and forecast to 2028 published by QY Reports is a focused study encompassing the market segmentation primarily based on type and application The report investigates the key drivers leading"
+    publishedDateTime: 2021-07-14T04:00:00Z
+    webUrl: "https://www.openpr.com/news/2327778/artificial-intelligence-ai-in-cybersecurity-market-worth"
+    ampWebUrl: "https://www.openpr.com/amp/2327778/artificial-intelligence-ai-in-cybersecurity-market-worth"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2327778/artificial-intelligence-ai-in-cybersecurity-market-worth"
     type: article
     provider:
-      name: insidebigdata.com
-      domain: insidebigdata.com
-    quality: 17
+      name: openpr.com
+      domain: openpr.com
+    quality: 33
+    images:
+      - url: "https://cdn.openpr.com/U/7/U714434827_g.jpg"
+        width: 720
+        height: 325
+        isCached: true
 
 secured: "VdSVRDXrA6dViHW7g6j2HjOOzePG+0onH9/ZvYFeIcmXYTW21Xc1uh1D6yr9YBnsO5q+OReFhNlBN9YiQDCbZf8lbqRRh8lIucKs8UeFR1F8AL68RcDsE+aF2MxD7rzzCNSQApLYCmi3JCVl+OesJzMGSzatgoo8NIHSKLxQpnn7dRck7LuI4pP/gZoFOvBeL0euTIJfi8h2hgfkwEk5zj7Dib7vvWjM/FbiI+s1quxght+oxMUoqoOTp3PC1DdlC4Wj+njP2hZ4D654r4mUbo/N+iBpQWQzewhTJGn+oPhkB0sWhx/N6iEmf37Hqwg8onOQiIYLfta51N59q9FCmZM2y/nqEh0UVqtvKzmsL+k9tGZI8TVnisiD8aH6JLqItHgOmiuuz/Ltu2qHXquVQgBiy0dDKNcH6s+RQLy1P+2qR2sBpm8E6l4M7vUSmw6GcUzYmvitRiSuEKBRo5UtcmUpKVWZemCfn2UszqUm2CET/lFDd7O2wHE+AUho9s69XgGuZsJaM1dT2qNXGQF7Jg==;ZyK+apgy9gvvnuqFK4+Y8A=="
 ---

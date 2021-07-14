@@ -1,23 +1,26 @@
 ---
 category: news
 title: "ARIA Exchange Announces Exclusive Fan Engagement NFT Partnership with the Major League Baseball Players Alumni Association"
-excerpt: "As part of its partnership with MLBPAA, ARIA Exchange will offer rare and unique NFTs to honor the significant contribution of baseball legends to the sport today through their game-changing moments and pivotal personal experiences."
-publishedDateTime: 2021-07-08T12:18:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-aria-exchange-announces-exclusive-fan-engagement-nft-partnership-/2021/07/08/9405218.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-aria-exchange-announces-exclusive-fan-engagement-nft-partnership-/2021/07/08/9405218.htm"
+excerpt: "The ARIA Exchange, part of The ARIA Network, which is an integrated media group bringing physical and digital assets to life through advanced recognition, augmented reality and 360° immersive experiences,"
+publishedDateTime: 2021-07-08T12:02:00Z
+originalUrl: "https://www.valdostadailytimes.com/news/business/aria-exchange-announces-exclusive-fan-engagement-nft-partnership-with-the-major-league-baseball-players-alumni/article_a7d2b518-9c6a-555e-8e76-fb9a1be0f1da.html"
+webUrl: "https://www.valdostadailytimes.com/news/business/aria-exchange-announces-exclusive-fan-engagement-nft-partnership-with-the-major-league-baseball-players-alumni/article_a7d2b518-9c6a-555e-8e76-fb9a1be0f1da.html"
 type: article
-quality: 0
-heat: 0
-published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: The Valdosta Daily Times
+  domain: valdostadailytimes.com
 
 topics:
   - Computer Vision
   - AI
 
-secured: "16pD1CBWf5avBA1A9VBClzO4cNaozWb28NpkzeDEj/w1hXD8NDUEJ/5jGJwzcoIMLwinrPO7gr8Fa7ykFUPvje4ND70hODP4bbDz7su3Z0AtxElbSelBg3ar0HRBnFAqGxQITfF6E+fIjJAuOQMn/5Byhg4WQ0okQkPLp+TmvvPOtarQFS3D3hRakJcjsBmTfPRAy05KIcejtG0AkH9Jpc69rrUA4IckQb+j7WEW3dvbnA7OtIOGQpDw7HMQLHN9nRj1vaZdCBFYKDLDcZZXj8rsoNUxydhS+5R/WLLg9M/Jj8E69Vxe9w8p40RafbiheVgwfh9PucPdLp/l6F7rjkVJX5o7XByYR4fzzzpul4A=;wGLXovsgvWTv+y4TDWNKCg=="
+images:
+  - url: "https://bloximages.chicago2.vip.townnews.com/valdostadailytimes.com/content/tncms/custom/image/7d368070-0339-11e6-b6b3-b7bc77615a64.jpg"
+    width: 640
+    height: 336
+    isCached: true
+
+secured: "n3Poa/ib7w4BkHOTWZfpG0Ez1isBIm8z44elpxvtj5rCxPsK2DjQfpTrIi0jmmBlXuuYyH7MXC9RxayWmEp7BYgsOD9QzbokHoXzc1mxfrK5/U6oKN4p5IeCeBgmintgv+cnnhgrA6tCP+WJT08DjPu45q7462WdV6CSOikZwujG1ZT3xeo+xzCt6hniVuGPDIjtkamK48b7PX9T8YcbbePOY1+sHLd95Yj42Nt4QhvlFLC+N85j8HIbwceft0azrIoPi8DTQJ5HvVs9Vsc5LLJ0NuksvLJViUkIun2C0MUfHwPT3IgpD7qpi1WYPFG0jzgOK2PrbCpjJWJoPcc3KIqrBsfkAQywZ/+feh0eVd8=;/8cNLuDZGHKrFXOtLeX9iA=="
 ---
 
