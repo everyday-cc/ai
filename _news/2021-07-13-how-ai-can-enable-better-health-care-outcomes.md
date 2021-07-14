@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/07/12/how-ai-can-enable-better-health-c
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/12/how-ai-can-enable-better-health-care-outcomes/amp/"
 type: article
 quality: 89
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -46,20 +46,6 @@ related:
       - url: "https://cms.qz.com/wp-content/uploads/2021/07/Robot.jpeg?quality=75&strip=all&w=1200&h=630&crop=1"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Health systems link up with Olive to solve healthcare admin woes with AI"
-    excerpt: "An innovation institute run by six major health systems is teaming up with Olive to build AI-driven healthcare automation tools—here are the areas that they’ll prioritize to tighten up their finances."
-    publishedDateTime: 2021-07-09T19:31:00Z
-    webUrl: "https://www.emarketer.com/content/health-systems-link-up-with-olive-solve-healthcare-admin-woes-with-ai"
-    type: article
-    provider:
-      name: eMarketer
-      domain: emarketer.com
-    quality: 53
-    images:
-      - url: "https://contentstorage-nax1.emarketer.com/8d867d6bd09671db44822811ba18af8d/default-image-share.png"
-        width: 1280
-        height: 720
         isCached: true
 
 secured: "L+57ATHGXBdRf3Z2lnWwSL1V8fMW8OPQB72/8LbKQbXsu84Myvbg2PHupnJ664s35wl0SipZVYajlJU11GFpC6bSAnCyUjkxkeA27E6lK7xUayy2XjFGcyyFzoKr8u5lFAgyoZWP7QcI+dG4RLdPZdEopazWD8OrQHseWhQ+Rtp9ilTKO3wxMx3XC9XaFm3P4tllgpEsnKdm0Ctp1om3Cgr3Xsibd7g7XtqkRufZFskRrj/pU7FnBty3nolJtkDKZ2vy35dvUKccYbxdIKre3KnpzYN6SuhvMLnmH400bGkkzDAo/h5KgAZZ6j8uaEMH1OETNUysKSfZKDh4702NYSaNE6GuT8DyWwYrgD5UO5rEx/NS/RW2mi8zg1Tk+A6B9w9650QigVNkJ++EpruNLfyIJR6mtNASO/fOP0/jgZsD9log99EpCyd1+3tawahx7eqL+pX72F9PxNQ2hNvgJxaXaMvIg4sVI6pQJDQAyDpLG8i0L2Dlq7WKBWt/QGhaJkzPzutmmCL5A8flv0TXRA==;3c5lsb9LfLPhXWvP69T6XA=="

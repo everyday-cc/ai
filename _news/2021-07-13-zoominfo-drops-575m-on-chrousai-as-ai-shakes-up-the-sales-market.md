@@ -31,6 +31,20 @@ images:
     isCached: true
 
 related:
+  - title: "ZoomInfo Buys Israeli Company Chorus.ai for $575 Million"
+    excerpt: "Employees of an Israeli startup company work at the company’s office in Tel Aviv, Israel, Feb. 7, 2018. Photo: Reuters"
+    publishedDateTime: 2021-07-13T14:18:00Z
+    webUrl: "https://www.calcalistech.com/ctech/articles/0,7340,L-3912362,00.html"
+    type: article
+    provider:
+      name: Algemeiner
+      domain: algemeiner.com
+    quality: 137
+    images:
+      - url: "https://images1.calcalist.co.il/PicServer3/2018/12/13/869065/Chorus_l.jpg"
+        width: 590
+        height: 320
+        isCached: true
   - title: "ZoomInfo drops $575M on Chorus.ai as AI shakes up the sales market"
     excerpt: "ZoomInfo announced this morning it intends to acquire conversational sales intelligence tool Chorus.AI for $575 million. Shares of ZoomInfo are unchanged in pre-market trading following the news, per Yahoo Finance data."
     publishedDateTime: 2021-07-13T12:42:00Z
@@ -124,20 +138,6 @@ related:
       - url: "https://res.cloudinary.com/globes/image/upload/t_desktop_article_content_header_800*392/v1626174086/one%20time%20use%20only/5U3A1240_w4mkrl.jpg"
         width: 800
         height: 392
-        isCached: true
-  - title: "ZoomInfo Buys Israeli Company Chorus.ai for $575 Million"
-    excerpt: "Employees of an Israeli startup company work at the company’s office in Tel Aviv, Israel, Feb. 7, 2018. Photo: Reuters"
-    publishedDateTime: 2021-07-13T14:18:00Z
-    webUrl: "https://www.algemeiner.com/2021/07/13/zoominfo-buys-israeli-company-chorus-ai-for-575-million/"
-    type: article
-    provider:
-      name: Algemeiner
-      domain: algemeiner.com
-    quality: 37
-    images:
-      - url: "https://www.algemeiner.com/wp-content/uploads/2018/02/STARTUP.jpg"
-        width: 720
-        height: 360
         isCached: true
   - title: "ZoomInfo buys San Francisco AI company for $575M"
     excerpt: "The deal is a major milestone for ZoomInfo and will significantly broaden the company’s sales platform, said CEO Henry Schuck."

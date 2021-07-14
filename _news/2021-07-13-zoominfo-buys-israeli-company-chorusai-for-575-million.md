@@ -4,11 +4,11 @@ title: "ZoomInfo Buys Israeli Company Chorus.ai for $575 Million"
 excerpt: "Employees of an Israeli startup company work at the company’s office in Tel Aviv, Israel, Feb. 7, 2018. Photo: Reuters"
 publishedDateTime: 2021-07-13T14:18:00Z
 originalUrl: "https://www.algemeiner.com/2021/07/13/zoominfo-buys-israeli-company-chorus-ai-for-575-million/"
-webUrl: "https://www.algemeiner.com/2021/07/13/zoominfo-buys-israeli-company-chorus-ai-for-575-million/"
+webUrl: "https://www.calcalistech.com/ctech/articles/0,7340,L-3912362,00.html"
 type: article
-quality: 37
-heat: -1
-published: false
+quality: 137
+heat: 227
+published: true
 
 provider:
   name: Algemeiner
@@ -18,9 +18,9 @@ topics:
   - AI
 
 images:
-  - url: "https://www.algemeiner.com/wp-content/uploads/2018/02/STARTUP.jpg"
-    width: 720
-    height: 360
+  - url: "https://images1.calcalist.co.il/PicServer3/2018/12/13/869065/Chorus_l.jpg"
+    width: 590
+    height: 320
     isCached: true
 
 related:
@@ -144,6 +144,6 @@ related:
       domain: bizjournals.com
     quality: 17
 
-secured: "zTvC53AxsuwszrtB1lxtu5FSbA1G68wEIWqlDTfBKJg/GpIfcpEXPDYkMZ2R2znoJ4/+I34cskILhoObApp6iXZws9j5Rm1uKWtSLo/p2eVT7uuAE6iFqG6uQAHPu3aLFpQF0KP9ezWHE0+nAILeorkZoGNRxBcEkGWXu1bsuQuZuqjRkrJ+UNcR8yS0qFlbHpYHUpxyNLsK5zMyy/AY21xV4HmH4cQ/7XFQWU/bPxaAQwdV8zFvTu22yL/mvz2cY5O2rgROdbXIogrgXFBvUZPkCQ6jCSVzF11kOMePaMav5Z4XHyik6Q0O1qtY4yjO7V5V6+U5jGZQfa+z9UCMwtC1hp6lA8nZHagq/1CFZEfp0dZkaVLAoU88cRmF4TBEWRB49KDxQ/thmpWwNP6SIEDhU9/GlWZnWn5PRlANu871mR+3TH9fmxAeWrK8bhCp/PKnJLKIrlxDa146i0sZnvZuS4SBY00bwmZjuiIlLMEj0M5RliLE00QoiXYvveod/8BJVGvLNQllJ5DNyf5ufw==;yOgLPVsO37oVyMjkNeVlQQ=="
+secured: "ji1cS/8xva2VVloKQQTZUuM25/WALj1r6nOi+BKyJs6Oll+HGKsnu7mJ1Yx8IN3/gstrbT+4fsaTFtW1Mpn9YJYUY188/j5Bli8MYFbtCTCqKNAaMxuMuqZ0GNIhaU1tsN2dpeZRq62V9JcE4UdTtcaup0bBu/rd4laHG8bCwi2K4QFSW7masvWGvzJn8QYqORGUMUkL9npNrDLmOFVyHY2LoZHv0exUp20S2YMSxVb6AmUmT1yNMewMCq5fZ/eTziGNuV2Iu7ltf3r1k5I+poYrvzMSjDe1p+xRT8sk8kqCxUMwFcLZP0BhpO3RZgjWSlCSkTcNcbZ0zQLDjKolXNswnWuw4bKkBPIXrroTE9Q=;210jsB+dBhUuywP9MbY3gw=="
 ---
 

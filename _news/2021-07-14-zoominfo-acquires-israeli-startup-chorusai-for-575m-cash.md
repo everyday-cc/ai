@@ -26,6 +26,20 @@ images:
     isCached: true
 
 related:
+  - title: "ZoomInfo Buys Israeli Company Chorus.ai for $575 Million"
+    excerpt: "Employees of an Israeli startup company work at the company’s office in Tel Aviv, Israel, Feb. 7, 2018. Photo: Reuters"
+    publishedDateTime: 2021-07-13T14:18:00Z
+    webUrl: "https://www.calcalistech.com/ctech/articles/0,7340,L-3912362,00.html"
+    type: article
+    provider:
+      name: Algemeiner
+      domain: algemeiner.com
+    quality: 137
+    images:
+      - url: "https://images1.calcalist.co.il/PicServer3/2018/12/13/869065/Chorus_l.jpg"
+        width: 590
+        height: 320
+        isCached: true
   - title: "ZoomInfo drops $575M on Chorus.ai as AI shakes up the sales market"
     excerpt: "ZoomInfo announced this morning it intends to acquire conversational sales intelligence tool Chorus.AI for $575 million. Shares of ZoomInfo are unchanged in pre-market trading following the news, per Yahoo Finance data."
     publishedDateTime: 2021-07-13T12:42:00Z
@@ -120,20 +134,6 @@ related:
         width: 800
         height: 392
         isCached: true
-  - title: "ZoomInfo Buys Israeli Company Chorus.ai for $575 Million"
-    excerpt: "Employees of an Israeli startup company work at the company’s office in Tel Aviv, Israel, Feb. 7, 2018. Photo: Reuters"
-    publishedDateTime: 2021-07-13T14:18:00Z
-    webUrl: "https://www.algemeiner.com/2021/07/13/zoominfo-buys-israeli-company-chorus-ai-for-575-million/"
-    type: article
-    provider:
-      name: Algemeiner
-      domain: algemeiner.com
-    quality: 37
-    images:
-      - url: "https://www.algemeiner.com/wp-content/uploads/2018/02/STARTUP.jpg"
-        width: 720
-        height: 360
-        isCached: true
   - title: "ZoomInfo buys San Francisco AI company for $575M"
     excerpt: "The deal is a major milestone for ZoomInfo and will significantly broaden the company’s sales platform, said CEO Henry Schuck."
     publishedDateTime: 2021-07-13T17:33:00Z
@@ -144,6 +144,6 @@ related:
       domain: bizjournals.com
     quality: 17
 
-secured: "VsfsBJYreAXwLRfPnGvTPvn0LaQHM562sQ/f5fV659Vxu1CFOC90GxVXZPmx+dfrUHQa44n+e/bZTGq04RDwhOPAvZHyjjseTPx0tM0yEls9ncMa3eXJhCXvNGa7F+EwZAFuFw1bgbTvle5Xi6b3PfT72pT78Rufj/xlbWbjC73tlxuNIiZks4yAisuZ19UAtDC6miUGtpVBEmMkj3LlNTwSUk4olCJPuCfEPXzcslz1l8Aj+W+782MZAIp+TtYg1VZo9nTh4lskfo4R/+/uE4Ibt3o08OpVbR88L5b7p6vhRQw7ueTMaeAUnd2q1787by7fig4Atm1eSip8UU5pk3DVFnIp7x897duxIx1hExk=;yRNtH8X8Empqv+fDq7lf+A=="
+secured: "mXWklhXUf/XksVbTiWDHVGHBfHaLxqB3d2iLBAmYlNXFVkTntrenLwdQ9G70fEul0TwUDK2GJ4rmUUGPRNBQstr7upzbVeRc+zKOZtJ6oFg53jG1/qyYKl0Kp+rX4vIih47+TsojrccRxYsYCOLNyhGAAQCM/StzHDyFtw/3am++cID81WYGbAgxEBvyMYlPMB0JGw/HhMBhpZZ4bqVbS5fZyJj5kGq5OEUqPsaVdc/hFzhnrkAo+Cdcx9AzZ4ISJEFUmtRlAk9mOJw4PHtuPXtJLFkmAJl66Siq9MqQzjlGCoZNIPLAc3bcznAopkktRhQ4ran+BM14qKGtpPdCMFtyKugPpEkuX9pFPR6mhfCwTT2nPj/MhAJfIhAUXFhGT3W0F9SOe1+j6MTqyNGzmRioXU5IFWzX/KMaM71lGhAuMuvkKz0tLD8/LadYt3Jra7Ckg251KyeRyfShaAtPXlokWcxBnAjWMcATLRggAOYMLARRjg/ycKzVnReO1Gw8jNxdqO0M/DnaIS7o7SOpxg==;qy8q3ScpLPbXersFJ4Xg/Q=="
 ---
 

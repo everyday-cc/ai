@@ -9,7 +9,7 @@ ampWebUrl: "https://www.infoworld.com/article/3624703/the-real-successes-of-ai.a
 cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3624703/the-real-successes-of-ai.amp.html"
 type: article
 quality: 89
-heat: 109
+heat: 119
 published: true
 
 provider:
@@ -62,6 +62,22 @@ related:
       - url: "https://images.indianexpress.com/2021/07/Gavel-4.jpg"
         width: 1200
         height: 667
+        isCached: true
+  - title: "Panasonic launches i-PRO multi-AI system to enhance the power of their AI cameras and applications"
+    excerpt: "Panasonic announces the i-PRO multi-AI system designed to harness the power of its latest AI cameras and applications by integrating them seamlessly into existing CCTV"
+    publishedDateTime: 2021-07-14T12:15:00Z
+    webUrl: "https://www.sourcesecurity.com/news/panasonic-launches-pro-multi-ai-system-co-2566-ga-co-6080-ga-npr.1626261504.html?ref=nav"
+    ampWebUrl: "https://www.sourcesecurity.com/amp/news/panasonic-launches-pro-multi-ai-system-co-2566-ga-co-6080-ga-npr.1626261504.html"
+    cdnAmpWebUrl: "https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/news/panasonic-launches-pro-multi-ai-system-co-2566-ga-co-6080-ga-npr.1626261504.html"
+    type: article
+    provider:
+      name: SourceSecurity
+      domain: sourcesecurity.com
+    quality: 45
+    images:
+      - url: "https://www.sourcesecurity.com/img/news/612/panasonic-updated-range-s-series-cameras-embedded-ai-capabilities-920x533.jpg"
+        width: 612
+        height: 355
         isCached: true
 
 secured: "i5EpqKvWfprjlVEnLXBdkvqzdrlXofm6W5qM7narX+XvapVjK7JaEeNl7Ysl+Hjv8MZXk1Xj4kxM1otd98xKTW3fsBNaABPzxUPO/pi5oK0Ngw+2Vfu/LSBw0AGw6AhaH1U45KAwCU6fYzGJN/LgDZQiQJpHCDWCz3QsXT6mfpGvW7EsxQD1+kv465CXdud64OSEACQ5EfPWbxAFsI3b99OW3yF1mWWm2uDIpfEQHi4vsrO2dTTk08jfb9Rj2gpK6pPtgOySlkh13pMbdLPafT3xU88oRypFT/Psfb5IV8XHoE4pLVoY10wvI52NISxcZ8OLrbd6O4J8KOWSS632IVtTIzSfcMg+EfcPWS/GX7M=;nbcKMAxbMIrxof5NzJF4xQ=="

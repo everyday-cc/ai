@@ -2,28 +2,28 @@
 category: news
 title: "QpiAI launches a global AI and quantum marketplace"
 excerpt: "With the Marketplace, highly skilled students and professionals will be able to participate and benefit in the commercialization of AI and Quantum solutions."
-publishedDateTime: 2021-07-14T11:31:00Z
-originalUrl: "https://www.livemint.com/brand-post/qpiai-launches-a-global-ai-and-quantum-marketplace-11626258600264.html"
-webUrl: "https://www.livemint.com/brand-post/qpiai-launches-a-global-ai-and-quantum-marketplace-11626258600264.html"
-ampWebUrl: "https://www.livemint.com/brand-post/qpiai-launches-a-global-ai-and-quantum-marketplace/amp-11626258600264.html"
-cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/brand-post/qpiai-launches-a-global-ai-and-quantum-marketplace/amp-11626258600264.html"
+publishedDateTime: 2021-07-14T12:26:00Z
+originalUrl: "https://www.hindustantimes.com/brand-post/qpiai-launches-a-global-ai-and-quantum-marketplace-101626264598314.html"
+webUrl: "https://www.hindustantimes.com/brand-post/qpiai-launches-a-global-ai-and-quantum-marketplace-101626264598314.html"
+ampWebUrl: "https://www.hindustantimes.com/brand-post/qpiai-launches-a-global-ai-and-quantum-marketplace-101626264598314-amp.html"
+cdnAmpWebUrl: "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/brand-post/qpiai-launches-a-global-ai-and-quantum-marketplace-101626264598314-amp.html"
 type: article
 quality: 59
 heat: 69
 published: false
 
 provider:
-  name: Mint
-  domain: livemint.com
+  name: Hindustan Times
+  domain: hindustantimes.com
 
 topics:
   - AI Hardware
   - AI
 
 images:
-  - url: "https://images.livemint.com/img/2021/07/14/600x338/8-2_1626261901600_1626261907885.jpg"
-    width: 600
-    height: 337
+  - url: "https://images.hindustantimes.com/img/2021/07/14/1600x900/8-2_1626265340161_1626265367688.jpg"
+    width: 1600
+    height: 899
     isCached: true
 
 related:
@@ -42,6 +42,6 @@ related:
         height: 675
         isCached: true
 
-secured: "Ezupi26oOs6ZcsEB+VwCkWXBg//wfkETQfAQW4KTvzBakBRsFpL37AB4RlVF8v6QrHsn04tEQBmu1lG/yLT2fm7cbXKofenUScE03Ggnp3WgF7G39QedBHG87QfJ+Iiz1g5ZZ//QkDVbh5FxHLefj4hDWZuAiz4SmR7EA0h6p6qGi9Sk5X9kAk0CSFUX2s89WmQ6XQzOh1Tc6eyaLX/eseMUz7iG/megLquR8E+MEDjNy6/wou/3EJ6AxkETMJA6mmw25fCKSI7X10vt4g/EQMopuBpxuI3YOFezYCOKL1jyLcwNxAJQEeKpPm3Dyf0X1Rz8NdLxfRYI6u8J/siQfi9kUrnVa88MzZtUbEWZ4Ds=;Oca0FeuTjHGqUJI81vNWnQ=="
+secured: "I92g6n6K3d1LQ3dctKKOaOWv2M+euX/lDYcqd230CE87ZABGouHo1GXVopVzvpi8Y4ysMxp7vnwGzVqWi9n17jeSc+laTZ/RymP5MNZ0dBDeHYv1+PfH4difj+w4QTdyLzdgkqeVGtCufGQpLyxMKl/Nk/pcdOKJzm/p4f7co1pI+QZ/ZWSDOPu7eUvBPlTXtUEp6wwnWs5ecX9av6YSJgtzv/+FJlVnE6Y8h9OYx1WZ+Z2Sdf+hYp6vZEF2rhzamI3QWaqXfBLfJC1Jt4NsKWaK/8Z9wbJD8Nh4CyyFS+XOPnXvd/LaCOhduQinavnqq0tOO8NzPkdUD6+kWYTGWlflxUEwDtUF6lT6TgN48b4=;8my0rvL/knAzOd1YINffDQ=="
 ---
 

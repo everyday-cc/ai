@@ -25,56 +25,48 @@ images:
     isCached: true
 
 related:
-  - title: "AI to have biggest impact on fintech development over next five years"
-    excerpt: "Artificial intelligence will become the most influential technology in the fintech sector over the next five years."
-    publishedDateTime: 2021-07-13T11:00:00Z
-    webUrl: "https://www.computerweekly.com/news/252503927/AI-to-have-biggest-impact-on-fintech-development-over-next-five-years"
-    ampWebUrl: "https://www.computerweekly.com/news/252503927/AI-to-have-biggest-impact-on-fintech-development-over-next-five-years?amp=1"
-    cdnAmpWebUrl: "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252503927/AI-to-have-biggest-impact-on-fintech-development-over-next-five-years?amp=1"
+  - title: "Warburg Pincus leads $153 mln fundraising for UK fintech Quantexa"
+    excerpt: "UK-based Quantexa has raised $153 million in a funding round led by Warburg Pincus, the financial technology start-up said on Tuesday, as it seeks to accelerate its regional expansion and develop new products in areas including banking and insurance."
+    publishedDateTime: 2021-07-13T06:35:00Z
+    webUrl: "https://kfgo.com/2021/07/13/warburg-pincus-leads-153-million-fundraising-for-uk-fintech-quantexa/"
     type: article
     provider:
-      name: Computer Weekly
-      domain: computerweekly.com
-    quality: 59
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 167
     images:
-      - url: "https://www.computerweekly.com/visuals/German/article/artificial-intelligence-adobe.jpg"
-        width: 1200
-        height: 400
+      - url: "https://media.socastsrm.com/uploads/station/2105/fbShare.png?r=57822"
+        width: 600
+        height: 315
         isCached: true
-  - title: "How Fintech can harness the power of big data to redefine market forecasting"
-    excerpt: "Advances in predictive analytics using machine learning (ML) algorithms and blockchain technology demonstrate how innovations in financial services are challenging"
-    publishedDateTime: 2021-07-13T14:27:00Z
-    webUrl: "https://www.cityam.com/how-fintech-can-harness-the-power-of-big-data-to-redefine-market-forecasting/"
-    ampWebUrl: "https://www.cityam.com/how-fintech-can-harness-the-power-of-big-data-to-redefine-market-forecasting/amp/"
-    cdnAmpWebUrl: "https://www-cityam-com.cdn.ampproject.org/c/s/www.cityam.com/how-fintech-can-harness-the-power-of-big-data-to-redefine-market-forecasting/amp/"
+  - title: "Warburg Pincus leads US$153 million fundraising for UK fintech Quantexa"
+    excerpt: "LONDON: UK-based Quantexa has raised US$153 million in a funding round led by Warburg Pincus, the financial technology start-up said on"
+    publishedDateTime: 2021-07-13T06:46:00Z
+    webUrl: "https://www.channelnewsasia.com/news/business/warburg-pincus-leads-us-153-million-fundraising-for-uk-fintech-quantexa-15211112"
     type: article
     provider:
-      name: City A.M.
-      domain: cityam.com
-    quality: 41
+      name: Channel NewsAsia Singapore
+      domain: channelnewsasia.com
+    quality: 39
     images:
-      - url: "https://www.cityam.com/wp-content/uploads/2021/07/9298_PG_School_of_Accounting_and_Finance_WEB_IMAGES_06.21-1.jpg"
-        width: 1024
-        height: 640
+      - url: "https://cna-sg-res.cloudinary.com/image/upload/q_auto,f_auto/image/8695368/16x9/991/557/e9615d3f8fac5a826ae3bfa657aec6ec/or/business.png"
+        width: 991
+        height: 557
         isCached: true
-  - title: "AI to have biggest impact on fintech development over next five years"
-    excerpt: "Artificial intelligence (AI) technology will have the biggest impact on fintech ... AT&T will move its 5G services to Microsoft's Azure cloud. The move provides Microsoft with a critical 5G customer while AT&T ... What's the difference between 802.11ac ..."
-    publishedDateTime: 2021-07-13T22:50:00Z
-    webUrl: "https://www.computerweekly.com/news/252503927/AI-to-have-biggest-impact-on-fintech-development-over-next-five-years?_hsenc=p2ANqtz-_wp0NEwtMwH9cxAS7D7FS1YQtX3q9SQZeMy8gQFoTm331RQW67b_05NSdYuu-LhOHbOHbE"
+  - title: "Credit Fintech Jasper Card Raises $34 Million in Round Led by Benslie International Fund, OurCrowd Participates"
+    excerpt: "Jasper Card has raised $34 million in a Series A funding round led by Benslie International Fund. Leading global investment crowdfunding platform OurCrowd joined in the funding round along with 500 Startups,"
+    publishedDateTime: 2021-07-12T21:55:00Z
+    webUrl: "https://www.crowdfundinsider.com/2021/07/177768-credit-fintech-jasper-card-raises-34-million-in-round-led-by-benslie-international-fund-ourcrowd-participates/"
     type: article
     provider:
-      name: Computer Weekly
-      domain: computerweekly.com
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
     quality: 19
-  - title: "67% of Fintechs Believe that AI will Have the Biggest Impact on Sector in the Next Five Years"
-    excerpt: "AI today, and the technology is predicted to dominate the market by 2025 90% of fintechs use APIs and they are currently the most widely used emerging technology “Fintech Five by Five” explores five core technologies that will have the biggest impact on the sector in the next five years Tribe Payments,"
-    publishedDateTime: 2021-07-13T09:30:00Z
-    webUrl: "https://financialit.net/news/artificial-intelligence/67-fintechs-believe-ai-will-have-biggest-impact-sector-next-five-years"
-    type: article
-    provider:
-      name: Financial IT
-      domain: financialit.net
-    quality: 8
+    images:
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2021/07/Jasper-Card.jpg"
+        width: 462
+        height: 291
+        isCached: true
 
 secured: "12V6X6M9OlkT4a5u7b/lzE1okPUJEJ6QS8ffjCNK5eOAF8a0BHuYBXBKdLpOn+bq17AwoHwzSToy6lyRH1ivVZj+9dh6xtz35AuBbk0Fy+btJbGPCqLtvbfz9TP0Bklw+WHyQP4R4NoEDHRrFBonUcQPM3/tt4I3RRAt22f4ia3rZd4Gu/VxH6kEshJzIYiOFuTl+OvuqlLQ+j+4b3+sFij6gjGU3GqLHauPL8qos6VKDf/ky8N8qj7Q3bAHLM0w4128R/NX8y3EZLx4ASdLRlLHtnNILou56LjZmpQYF/craRGO6NLPL0/ZC8ZbgDF2X/yWI8H0zIMfCgfAYtrJbuCugokba1Uepd1BoOs+nq8=;XmfPNheyH5X8Kh9SoFVZzg=="
 ---

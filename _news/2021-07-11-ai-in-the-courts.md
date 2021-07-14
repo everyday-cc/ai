@@ -60,6 +60,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Panasonic launches i-PRO multi-AI system to enhance the power of their AI cameras and applications"
+    excerpt: "Panasonic announces the i-PRO multi-AI system designed to harness the power of its latest AI cameras and applications by integrating them seamlessly into existing CCTV"
+    publishedDateTime: 2021-07-14T12:15:00Z
+    webUrl: "https://www.sourcesecurity.com/news/panasonic-launches-pro-multi-ai-system-co-2566-ga-co-6080-ga-npr.1626261504.html?ref=nav"
+    ampWebUrl: "https://www.sourcesecurity.com/amp/news/panasonic-launches-pro-multi-ai-system-co-2566-ga-co-6080-ga-npr.1626261504.html"
+    cdnAmpWebUrl: "https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/news/panasonic-launches-pro-multi-ai-system-co-2566-ga-co-6080-ga-npr.1626261504.html"
+    type: article
+    provider:
+      name: SourceSecurity
+      domain: sourcesecurity.com
+    quality: 45
+    images:
+      - url: "https://www.sourcesecurity.com/img/news/612/panasonic-updated-range-s-series-cameras-embedded-ai-capabilities-920x533.jpg"
+        width: 612
+        height: 355
+        isCached: true
 
 secured: "1/lKeeheY3Vg/Wz7O9/h0ODG8/0f+/9bRbPkVDuHmVrjQfOrU7xhEJnwWlHWKfrFAQ80jlctSRXhrbXNNyY994LllD4j3X52ZhP+KnMe2r4q4NMzsNSdeZ0mnKEoKPYJt+brbJU2HUxRgXUEjRg28XzxHQoi+9MqAJJ7wgQsz3iC6XRax3FALpaWtYWGOLJbJ+cfKxEt5907drdi04zX+FJ3rNBteJhuv2cKLdI57xXe7PAUPsIIJ5SAp+RKqifBoKyJs9Wdg8LTlJd7VrtAAe6h3Auc0+P6B3n5crltOurD/McxBg1iS6QI7Bs9cnMIB/F3S6w4ai9vFM09UqBIuWVux049BNEU55GJQIiYhrRPyLWvFCxD18e9DTjxjmwyRAtquQvg3NbZLAzP0TSl5oNZQZ2lR9UWMu/7X0Fg2GRI4VEdVkgKE8ugxUjHfE0ozI3DWO93VG2BAj5FXRRAITmSP9+izGj2T3TH/ahwvaD5lLyrCJp+x0Q/9EvvUQk2HhmTD4ZkmLhPKfSgxiv27w==;wZmw5AFA5cIK7J4nuZjLvQ=="
 ---

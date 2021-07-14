@@ -1,22 +1,22 @@
 ---
 category: news
 title: "Logistics startup Shyplite unveils AI service to help Indian sellers"
-excerpt: "Logistics startup Shyplite on Wednesday introduced AI-driven Shypmax, a cross-border logistics platform-as-a-service (LPaaS) that would help automate processes and increase shipping efficiency for ..."
-publishedDateTime: 2021-07-14T11:56:00Z
-originalUrl: "https://news.webindia123.com/news/Articles/Science/20210714/3786826.html"
-webUrl: "https://news.webindia123.com/news/Articles/Science/20210714/3786826.html"
+excerpt: "Logistics startup Shyplite on Wednesday introduced AI-driven Shypmax, a cross-border logistics platform-as-a-service (LPaaS) that would help automate processes and increase shipping efficiency for the Indian businesses and sellers in the pandemic times."
+publishedDateTime: 2021-07-14T06:10:00Z
+originalUrl: "https://www.sify.com/finance/logistics-startup-shyplite-unveils-ai-service-to-help-indian-sellers-news-topnews-vhogk9gfjdbgj.html"
+webUrl: "https://www.sify.com/finance/logistics-startup-shyplite-unveils-ai-service-to-help-indian-sellers-news-topnews-vhogk9gfjdbgj.html"
 type: article
 quality: 17
 heat: 17
 published: false
 
 provider:
-  name: Webindia 123
-  domain: webindia123.com
+  name: Sify.com
+  domain: sify.com
 
 topics:
   - AI
 
-secured: "QNP7rG3u8qLTyh19Z7HxOWEkaJEL958pZnMj7UUZRRSmVcqEVmbVzhteDVk081TegtCrmTsG94osW5kbljkJs9FCzdvf4BZpism+14rVyGm0CbaYgmwwE4BEoBrI7DQArPuwDQzDDPmpnmYmbHlFkBtpeCAXhnzqWt04Z7zuyFIIOQgx7oRdG5S4wTLt2GD2siTgcFKHwOwuZafQVUK3Fh/kVXqsxOe+dMtrLREcJLsiIsvyNhWiDPhD58xYKF+7P6QLBb8felwVyRO/LU0QBQlSYtpueEGovWlpvJSsUDwCqSu+ooCpsAYVWdtWdcjXV/vf4uPqUj+pjBZmtTHVa+d+oRpXnRMA8RtRJO/ZA9A=;nyNiJ0vXe3/bvSHRoDUj9g=="
+secured: "ySC36R0IagciZAcRb5ckYTU9BxaIZtOH+0zMRmjJadFwlgiN3D+JERzm6I+1ES0dGHecx33nxcdAcnLguaTBTp9kQRHlkjPYuYjCrkgLtOWXpGigOEOS+h7PzoQW/YG4tGV4ogo2WWAkecjXHB756dhSOxC1k+tesit5ZNKfgY7uCjoI5Rc839KXjxuB9n8dlGCkK93nOxqVZ/EOrXKiDilPG7dM6bmctr8367ddtBVlm8dXNdZSjCkVf5AhVg3I8/Xvr/3G8ftVrNUW65qM4xvLh7rH0IGTc/pxhBf0K8Fy/ByC4t8ehN0v37yYP+45cYpMmYaRAUJ/kSd8wnRDQxOVYOJOj9yo6gnB+y9QIq0=;X5YY1/2Io0UUZyZTmosQqA=="
 ---
 

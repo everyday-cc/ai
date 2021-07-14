@@ -4,19 +4,24 @@ title: "Warburg Pincus leads $153 mln fundraising for UK fintech Quantexa"
 excerpt: "UK-based Quantexa has raised $153 million in a funding round led by Warburg Pincus, the financial technology start-up said on Tuesday, as it seeks to accelerate its regional expansion and develop new products in areas including banking and insurance."
 publishedDateTime: 2021-07-13T06:35:00Z
 originalUrl: "https://www.nasdaq.com/articles/warburg-pincus-leads-%24153-mln-fundraising-for-uk-fintech-quantexa-2021-07-13"
-webUrl: "https://www.nasdaq.com/articles/warburg-pincus-leads-%24153-mln-fundraising-for-uk-fintech-quantexa-2021-07-13"
+webUrl: "https://kfgo.com/2021/07/13/warburg-pincus-leads-153-million-fundraising-for-uk-fintech-quantexa/"
 type: article
-quality: 49
-heat: 49
-published: false
+quality: 167
+heat: 197
+published: true
 
 provider:
   name: Nasdaq
   domain: nasdaq.com
 
 topics:
-  - AI in Finance
   - AI
+
+images:
+  - url: "https://media.socastsrm.com/uploads/station/2105/fbShare.png?r=57822"
+    width: 600
+    height: 315
+    isCached: true
 
 related:
   - title: "Warburg Pincus leads US$153 million fundraising for UK fintech Quantexa"
@@ -33,6 +38,20 @@ related:
         width: 991
         height: 557
         isCached: true
+  - title: "The Future of Fintech 2021 on demand"
+    excerpt: "On the 17th of June, FStech's virtual conference returned for 2021, covering the biggest trends in financial services technology. Across a variety of keynote speeches, in-depth presentations and lively panel discussions this online event tackled how firms can deal with the challenges of the Coronavirus crisis one year on, as well as looking forward to what the 'new normal' will look like for an industry already in the grips of digital disruption. Among the topics on the agenda were: cyber security in the time of COVID-19, the RegTech solutions automating compliance, improving data literacy and governance, protecting customers from fraud, AI and machine learning, the rise of digital assets, upgrading legacy systems and ensuring data is safe and optimised in the cloud. For those of you who missed the event, or would like to watch specific sessions again, we have collected the day's content and put it all in one place for easy viewing:"
+    publishedDateTime: 2021-07-10T09:48:00Z
+    webUrl: "https://www.fstech.co.uk/future-fintech-digital-conference/ondemand.php"
+    type: article
+    provider:
+      name: fstech.co.uk
+      domain: fstech.co.uk
+    quality: 24
+    images:
+      - url: "https://perspectivepublishing.co.uk/dev/cms/uploads/FStech%20Couchbase%208th%20December%202020/final_cb.jpg"
+        width: 314
+        height: 314
+        isCached: true
   - title: "Credit Fintech Jasper Card Raises $34 Million in Round Led by Benslie International Fund, OurCrowd Participates"
     excerpt: "Jasper Card has raised $34 million in a Series A funding round led by Benslie International Fund. Leading global investment crowdfunding platform OurCrowd joined in the funding round along with 500 Startups,"
     publishedDateTime: 2021-07-12T21:55:00Z
@@ -48,6 +67,6 @@ related:
         height: 291
         isCached: true
 
-secured: "GP37xwTM9VAxrI4h3IFCsyUhsk4Wrg7bRCMr8ZmDz/Xvn8kdvIz2x4cc0aklWovB8iRPQWMEez/mUeFnotms4kEHTS0TMNubTJKcFFWOgwbCalyoyeGgiJ1O28kQ5/QT0V8JfkT6iCg/PR8wkjaES1/7Pee55iVWZIhIt2dWIREivSt4xTijyp5e3QgTBILGSuvqBMTsIjQedA9aAMMKiHliLXM0EfD9e9f6epn5ml5d8JDhKXFmfpMcoGahb1kDOF8E+TEmQpHo+DjDzhta1q/UFgPjnfDMdjWcv3srTD3cJY01tRZM3WuLkh0qFA4kaRbF7qwAQureRLb+VE1NKvqgZLraSqfyhJxOh4rVvkpl45VtM9yOAy/ZaNaDgi1MMptCRHh4+bK2Uz4ofkat+P86iiA+y6HGJi45khbgTFAnlXztw0akriZ/7VUZuNIRbp9LWd6yHgiXjSB+SjUXWv4THurc+1yvc+BVCLAQfRdfBhyErLdj3FjoOXQ26bj3N4O4+ZFpKUlygiHluKB72g==;24wft7RsggLmIgdtHmluYA=="
+secured: "IWvHZiSGWxYDY+zIPn705Um3Htlz1HTzKT0mttUWMzevNrvzEejDp/MWyE9vXF9gJBldsQHlCwqsfbfeAkL0AOcVQXvhC/FSLgxqIswnnp7xFnKVVs+ejZQAOssKOmKtxW5vonRDUOZqyPI+OFRfLeAllLYWEa3KfBzVjyz/kwpKGoUgwn+oor7QGCd0nyB40W1i4OzThjYED/LxlScG39MwurKtRxZYfylOlRgDd4EPr1aX6vR9PlfowtzRyQTOzQF05YohDm9w7XTVzbN30Wcwvp+wdTXD+AbAJDiz9f5yCa2KxFWfn19rGAr6MIH1XNcOvkSvVrYhFUn7gok97U2x9o71hYftcwI+eumCyT4=;hD2o0Ub8yUICN6qK4zcwMQ=="
 ---
 

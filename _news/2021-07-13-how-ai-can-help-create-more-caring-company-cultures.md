@@ -46,20 +46,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Health systems link up with Olive to solve healthcare admin woes with AI"
-    excerpt: "An innovation institute run by six major health systems is teaming up with Olive to build AI-driven healthcare automation tools—here are the areas that they’ll prioritize to tighten up their finances."
-    publishedDateTime: 2021-07-09T19:31:00Z
-    webUrl: "https://www.emarketer.com/content/health-systems-link-up-with-olive-solve-healthcare-admin-woes-with-ai"
-    type: article
-    provider:
-      name: eMarketer
-      domain: emarketer.com
-    quality: 53
-    images:
-      - url: "https://contentstorage-nax1.emarketer.com/8d867d6bd09671db44822811ba18af8d/default-image-share.png"
-        width: 1280
-        height: 720
-        isCached: true
 
 secured: "tA8SgD8gRl1ACNn3MKe/msoGW37iI8jGdEq6ZDoFYARK3uUu9M7+F0aG+5ZndtfqIypmzo+KA4tovcnUsgZG/ecwFp9+T8YhO1s2Qp1Ez43uF6BVq/1c1H8J6ZWDUZqHazSDA+na7RGI+zuiejkoyOPx/mzvOF7daR7kQEPWGK1H/Yc7Zj2fELiGPc+NHsC+/VMTYxxM0pxlUvJuu45DIxTsAJoGiAa9ZLW1W3NIj5iwcPMp4s2O9CPZozi8E9R6ykr/re7qpIj3zLFfbXTxBSQaoGnHjxwNY3HQ3FnK8uFxgeB01X7xW9LEv4dcOWLWMGMuVHCptXMLt314mlL7Um+wMvF7U9K4pb/eHZY3Otob7RbuBdKuSCNX0g1Ywn4ZsRSoqUaUbqH+KBRGfOlhT2pKOrSlst5ICNuAm1OEnFojv2HubD7IytnNf3/oJLfegEyPKO1pYrqHKXMjVxb49vgtMWKcEIf/ijPJu2qJYYpvtlcDFSF6QkM2OV+nesssbDKgVd+0lGL83vQ9dRIq/g==;6Yh9SfAqLIGAY70f0Y6IcA=="
 ---

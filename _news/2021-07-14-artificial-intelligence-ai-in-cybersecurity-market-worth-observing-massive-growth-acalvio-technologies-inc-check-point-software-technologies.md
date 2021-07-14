@@ -26,6 +26,22 @@ images:
     isCached: true
 
 related:
+  - title: "Singapore is launching a $50 million program to advance research on AI and cybersecurity"
+    excerpt: "The city-state will set up new communications testbeds in 5G and beyond-5G, support technology development and training, and build up a talent pool."
+    publishedDateTime: 2021-07-14T00:57:00Z
+    webUrl: "https://www.cnbc.com/2021/07/13/singapore-to-launch-50-million-program-in-ai-cybersecurity-research-for-5g.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2021/07/13/singapore-to-launch-50-million-program-in-ai-cybersecurity-research-for-5g.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/07/13/singapore-to-launch-50-million-program-in-ai-cybersecurity-research-for-5g.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 178
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/106773377-1604299089782-gettyimages-1229319130-AFP_8TZ6T8.jpeg?v=1626150420"
+        width: 5570
+        height: 3713
+        isCached: true
   - title: "How cybersecurity is getting AI wrong"
     excerpt: "Organizations are introducing AI models into security practices across their business, but they're not properly managing the risk."
     publishedDateTime: 2021-07-10T13:21:00Z
@@ -39,22 +55,6 @@ related:
     quality: 87
     images:
       - url: "https://venturebeat.com/wp-content/uploads/2020/09/AI_security-e1602003587272.jpg?w=1200&strip=all"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "How Mastercard is using AI to address cyber risk"
-    excerpt: "Johan Gerber, executive VP for security and cyber innovation at Mastercard, discusses how it uses AI to understand and adapt to cyber risk."
-    publishedDateTime: 2021-07-12T19:50:00Z
-    webUrl: "https://venturebeat.com/2021/07/12/how-mastercard-is-using-ai-to-address-cyber-risk/"
-    ampWebUrl: "https://venturebeat.com/2021/07/12/how-mastercard-is-using-ai-to-address-cyber-risk/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/12/how-mastercard-is-using-ai-to-address-cyber-risk/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 87
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2021/07/GettyImages-1232533853.jpg?w=1200&strip=all"
         width: 1200
         height: 600
         isCached: true

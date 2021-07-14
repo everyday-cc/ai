@@ -1,22 +1,30 @@
 ---
 category: news
 title: "Qeexo and STMicroelectronics Speed Development of Next-Gen IoT Applications with Machine-Learning Capable Motion Sensors"
-excerpt: "Our one-click, fully-automated Qeexo AutoML platform allows customers to leverage sensor data to rapidly build machine learning solutions for highly constrained environments with applications in ..."
-publishedDateTime: 2021-07-07T15:00:00Z
-originalUrl: "https://www.wallstreet-online.de/nachricht/14127293-qeexo-and-stmicroelectronics-speed-development-of-next-gen-iot-applications-with-machine-learning-capable-motion-sensors"
-webUrl: "https://www.wallstreet-online.de/nachricht/14127293-qeexo-and-stmicroelectronics-speed-development-of-next-gen-iot-applications-with-machine-learning-capable-motion-sensors"
-ampWebUrl: "https://www.wallstreet-online.de/_amp/nachricht/14127293-qeexo-and-stmicroelectronics-speed-development-of-next-gen-iot-applications-with-machine-learning-capable-motion-sensors"
-cdnAmpWebUrl: "https://www-wallstreet--online-de.cdn.ampproject.org/c/s/www.wallstreet-online.de/_amp/nachricht/14127293-qeexo-and-stmicroelectronics-speed-development-of-next-gen-iot-applications-with-machine-learning-capable-motion-sensors"
+excerpt: "Our one-click, fully-automated Qeexo AutoML platform allows customers to leverage sensor data to rapidly build machine learning solutions for highly constrained environments with applications in industrial, IoT, wearables, automotive, mobile, and more."
+publishedDateTime: 2021-07-07T09:00:00Z
+originalUrl: "https://www.marketwatch.com/press-release/qeexo-and-stmicroelectronics-speed-development-of-next-gen-iot-applications-with-machine-learning-capable-motion-sensors-2021-07-07"
+webUrl: "https://www.marketwatch.com/press-release/qeexo-and-stmicroelectronics-speed-development-of-next-gen-iot-applications-with-machine-learning-capable-motion-sensors-2021-07-07"
 type: article
 
 provider:
-  name: wallstreet online
-  domain: wallstreet-online.de
+  name: MarketWatch
+  domain: marketwatch.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Machine Learning
   - AI
 
-secured: "3uABPpguLRZ0RYi7leg+tZkEz1/+1gkM2DUIwzGZB9p5t6Pj0cCBzV/gpZWHn7IGybVVgGlbrkVwn8S5YXAuV3j7FIPWBJG6eEFHYj96DCn5/jkhiQDvzxhABjVhYxKK/TKgeIoUvFU6kVsxbo3n45sjUaT8E+u/wTNczvHNlTyLPgUO9FuQjPgS+IkpMnbGU+F4LMrKJWmvEWY8b1n8uon8bdKhpzUcPtQleXIWcVZF+zcDc5t2ppWJtyNtWP89GjISsB2QxUA2F9xXT6FAXw3BmnMzOhYAJ50Q7Pf+6nwVf7+p0I3i3glJF2d5RNxvO/ubs6Etfptl92I5henf76aWui1DfM+SxqJoVBnJJQk=;1a61stqt+Ifxja0POIu3Tw=="
+images:
+  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+    width: 1200
+    height: 630
+    isCached: true
+
+secured: "jygSw2KjjK6ce4WBEqJuka/Tp3K2YdQ2BvGR5OGnT1KA/ZJsFDWz1hQrLW5oUe+fCRa8n/s/ljOtBwhAhZIwhldiLbmA3fb9gvT1d0Ha3n6D2aniwBbhpZkXGlXRuN0hmYAfrbnmrG9U8gXacuoMUq/tETFFRjvmplpFoO7wvgp5o3phowCZveBGhG9cHibKrf4y8jTDwK/ZL71BYURZ5JErYEGbm+MuHVh8TxtUg3IyA+u2mExQtdQHgAA3E/w7+8u5EBy7ddDGSsE/nMplzfptnqp7jle1KKfd/LnbZ6oTHPrwp2b8za9erubf5s4HDXSzVR3zFghkV67dEEYDaSvJrYQ9Uvw5qQQ3iLHEt3U=;iOhH5Eplz9Jbf8RNzfFW/A=="
 ---
 
