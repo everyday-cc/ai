@@ -30,21 +30,47 @@ images:
     isCached: true
 
 related:
-  - title: "Report: Computer vision adoption expected to grow significantly in the near future"
-    excerpt: "An overwhelming 96% of respondents believe that computer vision has the potential to boost revenue, while 97% said these technologies will save their organization time and money, according to a new IDG study commissioned by Insight. While only 10% of ..."
-    publishedDateTime: 2021-07-14T15:34:00Z
-    webUrl: "https://www.techrepublic.com/article/report-computer-vision-adoption-expected-to-grow-significantly-in-the-near-future/"
-    ampWebUrl: "https://www.techrepublic.com/google-amp/article/report-computer-vision-adoption-expected-to-grow-significantly-in-the-near-future/"
-    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/report-computer-vision-adoption-expected-to-grow-significantly-in-the-near-future/"
+  - title: "Deploy variational autoencoders for anomaly detection with TensorFlow Serving on Amazon SageMaker"
+    excerpt: "Anomaly detection is the process of identifying items, events, or occurrences that have different characteristics from the majority of the data. It has many applications in various fields, like fraud detection for credit cards, insurance, or healthcare; network intrusion detection for cybersecurity;"
+    publishedDateTime: 2021-07-14T17:28:56Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/deploying-variational-autoencoders-for-anomaly-detection-with-tensorflow-serving-on-amazon-sagemaker/"
     type: article
     provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 83
+      name: AWS
+      domain: aws.amazon.com
+    quality: 110
     images:
-      - url: "https://www.techrepublic.com/a/hub/i/r/2021/04/14/b386c617-f485-4ea6-a15a-15f8aa2df175/resize/1200x/2951e8519179825379ff08f6d3e1bc9f/metamorworks-2.jpg"
-        width: 1200
-        height: 900
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/07/01/ML1533-image003.jpg"
+        width: 1588
+        height: 934
+        isCached: true
+  - title: "Automate a centralized deployment of Amazon SageMaker Studio with AWS Service Catalog"
+    excerpt: "This post outlines the best practices for provisioning Amazon SageMaker Studio for data science teams and provides reference architectures and AWS CloudFormation templates to help you get started. We use AWS Service Catalog to provision a Studio domain and users. The AWS Service Catalog allows you to"
+    publishedDateTime: 2021-07-13T16:15:11Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/automate-a-centralized-deployment-of-amazon-sagemaker-studio-with-aws-service-catalog/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 97
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/06/30/ML3314-image01.jpg"
+        width: 800
+        height: 450
+        isCached: true
+  - title: "Run image classification with Amazon SageMaker JumpStart"
+    excerpt: "Last year, AWS announced the general availability of Amazon SageMaker JumpStart, a capability of Amazon SageMaker that helps you quickly and easily get started with machine learning (ML). JumpStart hosts 196 computer vision models, 64 natural language processing (NLP) models, 18 pre-built end-to-end"
+    publishedDateTime: 2021-07-13T21:00:20Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/run-image-classification-with-amazon-sagemaker-jumpstart/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 89
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png"
+        width: 768
+        height: 385
         isCached: true
 
 secured: "+W+pfujPw9BMhjGFDs4x1DYjjRgGyTj2XKtq4ihN08DAx3F7mZFaQ1fejOAxlMgkdSdjn7+6qofHbe3GS6yWY4NH6seGvz0HCck5h2ms+PvTTorcBxPY5t9MNVrGh/QrL/yQC4XPqhwfk0swSdE/0m4D+TEqWVi3jtC8yj08xO9FWMne/rShl+S7daZ1f41JbSS8QLgg+HYt1lAiLu1UMBqQart/l4/K0Uda/KN8FI084CrHSGxO9Aa6b/9zpHZEAq2BSf3ayWo2x9taqs2Tc/erO7EASHLVVrQiF2ZviEx9CSFmYY/HTd8dmYhyPCG1JhqzZaGCJG3j6mwYfdS/6UcJhf7u7XQhBLOuDd66NYY=;Z8gWOZzArmuLO6HOUfBcLg=="

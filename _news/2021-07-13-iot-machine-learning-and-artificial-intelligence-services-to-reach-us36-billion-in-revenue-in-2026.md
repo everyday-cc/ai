@@ -1,40 +1,49 @@
 ---
 category: news
 title: "IoT Machine Learning and Artificial Intelligence Services to Reach US$3.6 Billion in Revenue in 2026"
-excerpt: "The pandemic accelerated ML and AI in the IoT to manage and find insights into increasing volumes of data. LONDON, July 13, 2021 /PRNewswire/ -- The next wave of Internet of Thing"
-publishedDateTime: 2021-07-13T08:00:00Z
-originalUrl: "https://www.wallstreet-online.de/nachricht/14146706-iot-machine-learning-and-artificial-intelligence-services-to-reach-us-3-6-billion-revenue-2026/all"
-webUrl: "https://www.wallstreet-online.de/nachricht/14146706-iot-machine-learning-and-artificial-intelligence-services-to-reach-us-3-6-billion-revenue-2026/all"
+excerpt: "The next wave of Internet of Things (IoT) analytics development will fully converge with the Big Data domain. Simultaneously, the value in the technology stack is shifting beyond the hardware and middleware to analytics and value-added services,"
+publishedDateTime: 2021-07-13T08:11:00Z
+originalUrl: "https://www.lelezard.com/en/news-19898222.html"
+webUrl: "https://www.lelezard.com/en/news-19898222.html"
 type: article
-quality: 21
+quality: 43
 heat: -1
 published: false
 
 provider:
-  name: wallstreet online
-  domain: wallstreet-online.de
+  name: Le Lézard
+  domain: lelezard.com
 
 topics:
-  - AWS AI
+  - AI in Healthcare
   - AI
   - Machine Learning
+  - AI in Finance
+
+images:
+  - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
+    width: 640
+    height: 480
+    isCached: true
 
 related:
-  - title: "Edge AI Software Market Generated $600 Million Revenue in 2020: P&S Intelligence"
-    excerpt: "The surging number of applications being deployed on the cloud in several industries, rapid improvements being made in the internet of things (IoT)"
-    publishedDateTime: 2021-07-13T07:00:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/edge-ai-software-market-generated-600-million-revenue-in-2020-p-s-intelligence/article_a6f64fb4-bc14-5b69-b184-c25b39087d0a.html"
+  - title: "IoT Machine Learning and Artificial Intelligence Services to Reach US$3.6 Billion in Revenue in 2026"
+    excerpt: "IoT news - All the essential news and articles related to the Internet of Things (IoT), on a daily basis, and with a business perspective."
+    publishedDateTime: 2021-07-14T16:56:00Z
+    webUrl: "https://iotbusinessnews.com/2021/07/14/74034-iot-machine-learning-and-artificial-intelligence-services-to-reach-us3-6-billion-in-revenue-in-2026/"
+    ampWebUrl: "https://iotbusinessnews.com/2021/07/14/74034-iot-machine-learning-and-artificial-intelligence-services-to-reach-us3-6-billion-in-revenue-in-2026/amp/"
+    cdnAmpWebUrl: "https://iotbusinessnews-com.cdn.ampproject.org/c/s/iotbusinessnews.com/2021/07/14/74034-iot-machine-learning-and-artificial-intelligence-services-to-reach-us3-6-billion-in-revenue-in-2026/amp/"
     type: article
     provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 36
+      name: IOT Business News
+      domain: iotbusinessnews.com
+    quality: 61
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/0/ac/0acc1671-6fcd-5e01-8335-549b973f4ca4/60867deb6fe15.image.jpg?resize=1200%2C504"
-        width: 1200
-        height: 504
+      - url: "https://iotbusinessnews.com/WordPress/wp-content/uploads/artificial-intelligence-AI.jpg"
+        width: 800
+        height: 360
         isCached: true
 
-secured: "YQqE27J7TIuL8QszxA3qb7GaXuYG//6EnpOCHMbdaJ94BTB+xZmiDyTuNEA6I8X/wcFiMGjEt/p3OKsF/JfHFDDlQeV4ZDBzJ5B7O/OMLkxyAc/HVjhTEOW8SSJPkjdefgHL2r9twnewJeZCU0gIPtZjriduQc2aoF6fEFOJHC7Os78M/Se4AaC6ZJTPSLFmWNdXjnecCfluQf20qPTLrDVwYVADGaCWJWM7AwK9ALuN2oRERHM0Olyi14d9wBE3nYhIMa7mZlWdks+V+41S3l0OF5rU2DIOObAkOiU4xRNH/8B3FU7TQo1kF1SqAJaUkq/e9ShAMSifPLSGzKnOdcda3LHCur8+Fb0GC1K57Hs=;ygkwZw756c/TLUAoN5MsCQ=="
+secured: "ea5wQI/9d9MgjWj+RQJHRImK656JYSJmFDbhe+Rl7Gbntbb2+NjvUy8N+lly0s1iV9oggfioELRqV/l75Cp+T+H0nGdh3Ldg2aPuzz8UHcif9f8uKgiPM8UdLVpBWUNGAmKs8LkVdiZN0DBPIlLWq9UShq50dqm6sTkHrmy/gpLj/fjEgiv5dzEobg6kcyT7m8FPXXQGM17Mbfl3N1mfuFhLX2dTcxKQ3mUJph9C7cgYUIXXbOyl7+EkjnCEJRKve+ZtuN4gQP8A36uQiYJtJqCt+V9/dronSbxgxXHoLVcoXnF15hZV0I1d1h0OwlEzxjXTVXAfC4KAhsBAgeTcPmCJdQAM2TU7/qyObmIHBsA=;7LyRmXbDRzjkV7qNE0T8Og=="
 ---
 

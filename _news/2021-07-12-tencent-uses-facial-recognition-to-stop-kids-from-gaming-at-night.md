@@ -9,7 +9,7 @@ ampWebUrl: "https://sea.mashable.com/tech/16612/tencent-uses-facial-recognition-
 cdnAmpWebUrl: "https://sea-mashable-com.cdn.ampproject.org/c/s/sea.mashable.com/tech/16612/tencent-uses-facial-recognition-to-stop-kids-from-gaming-at-night?amp=1"
 type: article
 quality: 89
-heat: 179
+heat: 180
 published: true
 
 provider:

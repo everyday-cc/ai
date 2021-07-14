@@ -115,7 +115,7 @@
       "originalUrl": "https://www.forbes.com/sites/glenngow/2021/07/11/google-facebook-and-microsoft-are-working-on-ai-ethics-heres-what-your-company-should-be-doing/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 197,
+      "heat": 207,
       "tags": null,
       "images": [
         {
@@ -216,8 +216,8 @@
       "title": "SenseTime Joins Hands with Global Innovators to Build a Sustainable AI Ecosystem",
       "excerpt": "SenseTime, the leading global artificial intelligence (AI) company, hosted an industry forum themed \"AI+: Ecosystem\" at the 2021 World Artificial Intelligence Conference (WAIC) today. The forum gathered influential entrepreneurs,",
       "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/-sensetime-joins-hands-with-global-innovators-build-sustainable-/2021/07/09/9405899.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/-sensetime-joins-hands-with-global-innovators-build-sustainable-/2021/07/09/9405899.htm",
+      "webUrl": "https://markets.businessinsider.com/news/stocks/sensetime-joins-hands-with-global-innovators-to-build-a-sustainable-ai-ecosystem-1030592716",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/sensetime-joins-hands-with-global-innovators-to-build-a-sustainable-ai-ecosystem-1030592716",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -236,12 +236,21 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-09T04:32:00-07:00",
+      "publishedDateTime": "2021-07-09T06:24:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },

@@ -41,6 +41,22 @@ related:
         width: 1024
         height: 768
         isCached: true
+  - title: "Facebook AI researchers create a robot able to adapt to rapidly changing conditions"
+    excerpt: "Work is being performed all around the world to give robots more human-like abilities. One of the key human-like abilities that researchers want robots to have is the ability to react in real-time"
+    publishedDateTime: 2021-07-14T15:01:00Z
+    webUrl: "https://www.slashgear.com/facebook-ai-researchers-create-a-robot-able-to-adapt-to-rapidly-changing-conditions-14682330/"
+    ampWebUrl: "https://www.slashgear.com/facebook-ai-researchers-create-a-robot-able-to-adapt-to-rapidly-changing-conditions-14682330/amp/"
+    cdnAmpWebUrl: "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/facebook-ai-researchers-create-a-robot-able-to-adapt-to-rapidly-changing-conditions-14682330/amp/"
+    type: article
+    provider:
+      name: SlashGear
+      domain: slashgear.com
+    quality: 100
+    images:
+      - url: "https://cdn.slashgear.com/wp-content/uploads/2021/07/ai-robot.jpg"
+        width: 1440
+        height: 810
+        isCached: true
   - title: "Artificial Intelligence as a Service Market May Set Epic Growth Story | Google, IBM, Microsoft"
     excerpt: "Global Artificial Intelligence as a Service Market Research Report with Opportunities and Strategies to Boost Growth- COVID-19 Impact and Recovery is latest research study released by HTF MI evaluating the market risk side analysis, highlighting ..."
     publishedDateTime: 2021-07-13T00:00:00Z
@@ -143,6 +159,6 @@ related:
       domain: finextra.com
     quality: 34
 
-secured: "u1xl2cN/jo5Lm66pIQ5k/z+Q2mFv7w5BhDtsuLATsQP9zfGZjcVNSUpmo+vxeoJeut/H2QV4sX0KyfXrxeOZoYtDKOYxu7rOMBJ0T9df3AMDhihpi4BILlynESprmdh5zFdpG/BjjvEt3WUBw8QFzFxpRo7bCTaEoqtr9aKQbDKIAS8pcIodnIpZW+njynv3EBaELdPSwucy7TB97WNIKI6DjJV/SLDlAAhAlCNtG0au18Vtcy/o+zOGwqYX/UJoz2l68gOyLqx9nqNh3/04lVNYG0wwxmGcis0no96NRzK9C093L/B2qDNUBfFiljGiKH27x/Z8epks7R/sutMWismCnOWvBQQpNf8fzWy8oHs=;IAcdxNeK1FcEFQf12M4f+A=="
+secured: "+9ZNHBmyaVA+xMdCPrI4E9AauVz5H1XP/PzcgdmJAq/uBCjHoE4Wuf5Wzw6PMHzpgBynuVGqnb9X6jTqetB5dAEUXIpPmXVN+lxpAsZj8uIq8S0el3W/XhfGePEHRGjOCB6mlNCMNGIcrvEDY+7I5s8bOgwb/gZmzNiQjNxkcUHwQmGAhMJDH5utVqGzcP9xzKsdB/DOtR4VnwuO8k0w4NIKYwLDmoKdvJDTubiDXGWRCBdx1ztWvXo8VWbJ2yWTZ4iHAsNdFPDoD/1dXrhp1uJFvMsbI9D5u/ktziq3VJmhlcn5G32GfV/eBRdN5bzfzaMje+3IQgYT5M7Fq8d8bn4JgjwSz/0bIWR90Pf01szWzgoossSsf63gvEtkJFCVykcBRXR4nKFoqWVXk2RiQBZG0u7E0DShXNmtP2AOEGC6elhxXemZlo9AwYlooWicXKS7KQrm8QZyNlrOtz8TdGNfj0TGI5GNKTFH34LILtE8J7GMhpZOtukmZz62EcfPJL7lR1A+QsqKmzwM5AAShg==;KOqwXCXW1UbIhi04wI2HmA=="
 ---
 

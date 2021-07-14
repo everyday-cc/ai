@@ -38,22 +38,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence (AI) in Oil and Gas Market is Set To Fly High in Years to Come"
-    excerpt: "A new research document with title Artificial Intelligence AI in Oil and Gas Thematic Research covering detailed analysis Competitive landscape forecast and strategies The study covers geographic analysis that includes regions like North America U S Canada Mexico Europe Germany"
-    publishedDateTime: 2021-07-09T23:23:00Z
-    webUrl: "https://www.openpr.com/news/2325607/artificial-intelligence-ai-in-oil-and-gas-market-is-set-to-fly"
-    ampWebUrl: "https://www.openpr.com/amp/2325607/artificial-intelligence-ai-in-oil-and-gas-market-is-set-to-fly"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2325607/artificial-intelligence-ai-in-oil-and-gas-market-is-set-to-fly"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 66
-    images:
-      - url: "https://cdn.openpr.com/U/7/U710307690_g.jpg"
-        width: 400
-        height: 300
-        isCached: true
   - title: "Artificial Intelligence In The Automotive Market Analysis & Forecast For Next 5 Years"
     excerpt: "The latest independent research document on Artificial Intelligence In The Automotive examine investment in Market It describes how companies deploying these technologies across various industry verticals aim to explore its potential to become a major business disrupter The Artificial Intelligence"
     publishedDateTime: 2021-07-10T16:57:00Z
@@ -163,6 +147,20 @@ related:
       name: ReportsnReports
       domain: reportsnreports.com
     quality: 26
+  - title: "Global Natural Language Processing for Finance Market By Excellent Opportunities, Industry Growth, Size, And Statistics Forecasts Up To 2027"
+    excerpt: "Therefore, Researchmoz discusses all aspects of growth, including threats and barriers. As well as This report provides an deep analysis of the global Natural Language Processing for Finance market and serves as a guide to stakeholders searching for new investment opportunities."
+    publishedDateTime: 2021-07-14T17:17:00Z
+    webUrl: "https://manometcurrent.com/global-natural-language-processing-for-finance-market-by-excellent-opportunities-industry-growth-size-and-statistics-forecasts-up-to-2027/"
+    type: article
+    provider:
+      name: manometcurrent.com
+      domain: manometcurrent.com
+    quality: 21
+    images:
+      - url: "https://i.ibb.co/0s5CLpy/Rssearchmoz-us99.jpg"
+        width: 640
+        height: 360
+        isCached: true
   - title: "Artificial Intelligence (AI) in Construction Market SWOT Analysis by Size, Status and Forecast to 2021-2027"
     excerpt: "Latest published market study on Global Artificial Intelligence (AI) in Construction Market provides an overview of the current market dynamics in the Artificial Intelligence (AI) in Construction space,"
     publishedDateTime: 2021-07-11T01:39:00Z

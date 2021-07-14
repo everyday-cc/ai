@@ -1,20 +1,18 @@
 ---
 category: news
-title: "AI/ML Innovations' Strategic Partner, Tech2Health, Projects US$5M Revenue from Its First Commercial Contracts"
-excerpt: "TORONTO, ON / ACCESSWIRE / / AI/ML Innovations Inc. (CSE:AIML)(OTCQB:AIMLF) (\"AIML\" or the \"Company\"), a company committed to acquiring and advancing Artificial Intelligence/Machine Learning technologies that address urgent societal needs,"
-publishedDateTime: 2021-07-14T11:30:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/21/07/ac21974037/aiml-innovations-strategic-partner-tech2health-projects-us-5m-revenue-from-its-first-commercial-c"
-webUrl: "https://www.benzinga.com/pressreleases/21/07/ac21974037/aiml-innovations-strategic-partner-tech2health-projects-us-5m-revenue-from-its-first-commercial-c"
-ampWebUrl: "https://www.benzinga.com/amp/content/21974037"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/21974037"
+title: "AI/ML Innovations’ Strategic Partner, Tech2Health, Projects US$5M Revenue from Its First Commercial Contracts"
+excerpt: "Digital mental health services contracts provide access to 300,000 potential users TORONTO, ON / ACCESSWIRE / July 14, 2021 / AI/ML Innovations Inc. (CSE:AIML)(OTCQB:AIMLF) (“AIML” or the “Company”),"
+publishedDateTime: 2021-07-14T11:31:00Z
+originalUrl: "https://apnews.com/press-release/accesswire/europe-business-technology-health-498a14b1377db902fa2b61a3a2acabd3"
+webUrl: "https://apnews.com/press-release/accesswire/europe-business-technology-health-498a14b1377db902fa2b61a3a2acabd3"
 type: article
-quality: 57
-heat: 67
+quality: 37
+heat: -1
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI in Healthcare
@@ -22,9 +20,9 @@ topics:
   - Machine Learning
 
 images:
-  - url: "https://cdnwp-s3.benzinga.com/wp-content/uploads/2021/07/14104856/gkYkw3Z.png"
-    width: 1200
-    height: 600
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
 related:
@@ -43,6 +41,6 @@ related:
         height: 420
         isCached: true
 
-secured: "nV2VbcYgqlVZdVAUeN6t+soOmWN8qnCB5MQWws+Uj9i3aUlFLVfh41yxMhhKzaxmRr5N4Cine8BoWooDw3vbDHMOcM+t8MbS/fpe8RU26MYr+oECPsQqG97DSPHt9dGpsE9TJV8sYc0HmxN02WN3q4woV3Lpc13RosEbvs16h0zfwCl3BRXGf/x+sFemIQ3O4G4qlnM6UuPeg2DnPIIfl2INvlKbiEit/c2Fufe3BelAdJAwozjm+tRMtU+UNQ9DCE7uYahkI8ZsccEESka+5o1HGwq/FQE8kTg1TZnhjWeyZqJoevSBD9L9nLOcJpiFCK1qGpLSBm3lG6T+rVylVdvI0ivnQI1GANsHVTBuc2A=;1C7keY4gPNHwJGd5Zie5Ww=="
+secured: "jyjccmr4895cOcz9EI1rX/RShb7MDAzMZIXjJBVkd6UN+aheRIr/LNUtaZeR1aQ2sMX2ZT56myW1oejP05Azl2lkGd5v+FA1C3+pJloxJGXZOTZUnAJF8Hg6Ud0e9SZDfYn+Lkm5aYokRKEwZlqEg1eMeLTlw6OygiVq/HbuI0nhFPzRZwvzm1Q6lLIPD2RIHK8cVinT1LhtpGypPKglYTbaqwBiHkGc1HuOEvlaH+61sh+u/YgeViOgWaIqxVhrLOL4lpg5N5yTBFHSOyA4XWGcZYNkSW6O69ghKEq2PtcWcx58hnoJ8eU/WdhC+U4Rb3MaHFm5JhSCjHLLWV8EDO3Qtd/i31eNZCH1ei3xaqY=;YV1WR9kOJN8yls/3R8Lyqg=="
 ---
 

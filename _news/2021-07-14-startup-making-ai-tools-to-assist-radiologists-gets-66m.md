@@ -7,7 +7,7 @@ originalUrl: "https://medcitynews.com/2021/07/startup-making-ai-tools-to-assist-
 webUrl: "https://medcitynews.com/2021/07/startup-making-ai-tools-to-assist-radiologists-gets-66m/"
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,22 @@ images:
     isCached: true
 
 related:
+  - title: "Aidoc raises over $66M for AI radiology analysis technology"
+    excerpt: "The biggest question facing Aidoc, or any other startup in the field of artificial intelligence, though, is whether it can convince hospitals and clinics to adopt an AI strategy in the first place."
+    publishedDateTime: 2021-07-14T16:36:00Z
+    webUrl: "https://techcrunch.com/2021/07/14/aidoc-raises-over-66m-for-ai-radiology-analysis-technology/"
+    ampWebUrl: "https://techcrunch.com/2021/07/14/aidoc-raises-over-66m-for-ai-radiology-analysis-technology/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/07/14/aidoc-raises-over-66m-for-ai-radiology-analysis-technology/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 87
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2021/07/GettyImages-493216371.jpg?w=1024"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "Israeli Startup Aidoc Raises $65M for AI-Powered Medical Imaging Platform"
     excerpt: "Aidoc, a Tel Aviv-based provider of artificial intelligence (AI) solutions for medical imaging, announced it has raised $65M in Series C funding led by General Catalyst, bringing its total funding to $140M."
     publishedDateTime: 2021-07-13T22:33:00Z

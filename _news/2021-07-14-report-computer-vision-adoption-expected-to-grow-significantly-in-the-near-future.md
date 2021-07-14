@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techrepublic.com/google-amp/article/report-computer-visi
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/report-computer-vision-adoption-expected-to-grow-significantly-in-the-near-future/"
 type: article
 quality: 83
-heat: 93
+heat: 84
 published: true
 
 provider:
@@ -29,22 +29,6 @@ images:
     width: 1200
     height: 900
     isCached: true
-
-related:
-  - title: "Defect detection and classification in manufacturing using Amazon Lookout for Vision and Amazon Rekognition Custom Labels"
-    excerpt: "Defect detection during manufacturing processes is a vital step to ensure product quality. The timely detection of faults or defects and taking appropriate actions are essential to reduce operational and quality-related costs. According to Aberdeen’s research, “Many organizations will have true quality-related"
-    publishedDateTime: 2021-07-13T16:01:33Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/defect-detection-and-classification-in-manufacturing-using-amazon-lookout-for-vision-and-amazon-rekognition-custom-labels/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 81
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/07/02/ml3795-image013.jpg"
-        width: 2019
-        height: 699
-        isCached: true
 
 secured: "wTC+bh7YyGt3gwqXxz5o85khp8eVw3RImS/HrsjDuPB0RsIzCw4tuCO3kQlrkx31aSawGSnjxSLgP0WTg+ucsg1it2r9x4w/qJ4mXZnUmu3H53b7FI5FWU+eZROzoU6o6W/EgPTou4VbQbhc32NdnQUo7gcD8cTMfMojx+pYOkc+0miOE/Pt6pD8YZMw30msQNOh6PU7sxxvtZ57lgKul31Ab2UvU2In1/qcZafkq56U3caZd4+0fxp8CWP12A604yxUTvKL/8LUagDlM89UTGjwtiE2qAr1wIWSGyf5vL6+AcsQtTEX3AvuWoYIpNOGLifbC8Kmx5VZMrVO/xXDuf5s4mJlaPYuzPVMdcPvItk=;RLuJhLDykAn0Biz2fM/8vw=="
 ---

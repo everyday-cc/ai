@@ -46,6 +46,20 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "Learning Science: Artificial Intelligence in Courseware Can Enhance Student Learning"
+    excerpt: "Researchers from VitalSource Technologies, a leading education technology solutions provider, recently presented new insights into the ways that artificial intelligence (AI) can be deployed to enhance student learning through quality,"
+    publishedDateTime: 2021-07-14T17:06:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-science-artificial-intelligence-73f1b39d62604da1be5508e8867bbfa5"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 30
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
 secured: "QLjylyHTYiWbVbJlgEdz8OZm1+k6ebtuOCFG8/qnYxryWzfCf8zXTwHM+IuFo9ZwFuyMJHgRYiXGeIlsshnoWNaBMU/8Mfhq74izl1uWJ0sAZjTASIEbxIacnCC9etWi3QCBaQb/JQ3ye27/q42oKqG9E+AqBSEgESi55kTLhDvXStKdQcpuhLdZ6rX7na/KuUjSbjdvJ0dqy27I1E3Vudf9l+Y3yqilf1iQJfo+Y0LigT0GoywV7VUMc4et6DDMC6tEIxBhKbsG6l05lz2z4Q/MZdS6SKTTDp+x3dLkggfz3vcljB14OgEviQZ/PZykmom8cDnpMv0DSwk7NPZXbG/mIB+4Q0yda3hl9Kq0Xsw=;ZcV2pi2IcGp62hqFrL0bIA=="
 ---

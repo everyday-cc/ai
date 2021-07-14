@@ -97,6 +97,58 @@
       ]
     },
     {
+      "path": "_news/2021-07-11-artificial-intelligence-ai-in-supply-chain-and-logistics-market-will-generate-massive-revenue-in-coming-years.md",
+      "title": "Artificial intelligence (AI) in Supply Chain and Logistics Market Will Generate Massive Revenue in Coming Years",
+      "excerpt": "Jul 10, 2021 (Heraldkeepers) -- The latest independent research document on Global Artificial intelligence (AI) in Supply Chain and Logistics examine investment in Market. It describes how companies deploying these technologies across various industry ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-supply-chain-and-logistics-market-will-generate-massive-revenue-in-coming-years-2021-07-10",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-supply-chain-and-logistics-market-will-generate-massive-revenue-in-coming-years-2021-07-10",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-10T18:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-08-naveen-jains-microbiome-startup-viome-splits-into-consumer-and-research-divisions.md",
       "title": "Naveen Jain’s microbiome startup Viome splits into consumer and research divisions",
       "excerpt": "The startup, which has backing from Salesforce CEO Marc Benioff ... though a recent study found limitations in the evaluation of AI-based devices. In contrast, supplements are not regulated by the FDA. “With many of these platforms you really have ...",
@@ -1347,51 +1399,6 @@
         "Facebook AI",
         "AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2021-06-11-how-pytorch-is-challenging-tensorflow-lately.md",
-      "title": "How PyTorch Is Challenging TensorFlow Lately",
-      "excerpt": "PyTorch gives our researchers unprecedented flexibility in designing their models and running their experiments.",
-      "sourceUrl": null,
-      "webUrl": "https://analyticsindiamag.com/how-pytorch-is-challenging-tensorflow-lately/",
-      "originalUrl": "https://analyticsindiamag.com/how-pytorch-is-challenging-tensorflow-lately/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://analyticsindiamag.com/wp-content/uploads/2021/06/pytorch.jpg",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-10T22:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Analytics India Magazine",
-        "domain": "analyticsindiamag.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "TensorFlow",
-        "Google AI",
-        "AI",
-        "Facebook AI"
       ]
     }
   ],

@@ -18,6 +18,22 @@ topics:
   - AI
 
 related:
+  - title: "Aidoc raises over $66M for AI radiology analysis technology"
+    excerpt: "The biggest question facing Aidoc, or any other startup in the field of artificial intelligence, though, is whether it can convince hospitals and clinics to adopt an AI strategy in the first place."
+    publishedDateTime: 2021-07-14T16:36:00Z
+    webUrl: "https://techcrunch.com/2021/07/14/aidoc-raises-over-66m-for-ai-radiology-analysis-technology/"
+    ampWebUrl: "https://techcrunch.com/2021/07/14/aidoc-raises-over-66m-for-ai-radiology-analysis-technology/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/07/14/aidoc-raises-over-66m-for-ai-radiology-analysis-technology/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 87
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2021/07/GettyImages-493216371.jpg?w=1024"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "Startup making AI tools to assist radiologists gets $66M"
     excerpt: "Aidoc, a Tel Aviv-based startup building a suite of decision support tools for radiologists, raised $66 million in funding. The company plans to use the funds to build out and market its suite of radiology solutions."
     publishedDateTime: 2021-07-13T18:40:00Z

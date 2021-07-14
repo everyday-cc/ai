@@ -39,6 +39,20 @@ related:
         width: 640
         height: 480
         isCached: true
+  - title: "Learning Science: Artificial Intelligence in Courseware Can Enhance Student Learning"
+    excerpt: "Researchers from VitalSource Technologies, a leading education technology solutions provider, recently presented new insights into the ways that artificial intelligence (AI) can be deployed to enhance student learning through quality,"
+    publishedDateTime: 2021-07-14T17:06:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-science-artificial-intelligence-73f1b39d62604da1be5508e8867bbfa5"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 30
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "PanAmerican Seed Leverages Tavant's Artificial Intelligence Expertise to Optimize its Seed Production Process"
     excerpt: "Tavant, a digital products and solutions company, today announced it has partnered with PanAmerican Seed, which is a part of Ball Horticultural Company, a leader in all facets of horticulture. The partnership will help Ball Horticultural Company create its master data lake platform architecture and further allow them to reduce overall seed production costs."
     publishedDateTime: 2021-07-14T15:07:00Z

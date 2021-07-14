@@ -7,7 +7,7 @@ originalUrl: "https://www.bloomberg.com/news/articles/2021-07-14/india-ai-startu
 webUrl: "https://www.bloomberg.com/news/articles/2021-07-14/india-ai-startup-fractal-weighs-ipo-as-pandemic-fuels-growth"
 type: article
 quality: 67
-heat: 77
+heat: 78
 published: true
 
 provider:

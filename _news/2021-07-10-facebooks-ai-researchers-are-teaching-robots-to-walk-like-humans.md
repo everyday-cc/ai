@@ -43,6 +43,22 @@ related:
         width: 1024
         height: 768
         isCached: true
+  - title: "Facebook AI researchers create a robot able to adapt to rapidly changing conditions"
+    excerpt: "Work is being performed all around the world to give robots more human-like abilities. One of the key human-like abilities that researchers want robots to have is the ability to react in real-time"
+    publishedDateTime: 2021-07-14T15:01:00Z
+    webUrl: "https://www.slashgear.com/facebook-ai-researchers-create-a-robot-able-to-adapt-to-rapidly-changing-conditions-14682330/"
+    ampWebUrl: "https://www.slashgear.com/facebook-ai-researchers-create-a-robot-able-to-adapt-to-rapidly-changing-conditions-14682330/amp/"
+    cdnAmpWebUrl: "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/facebook-ai-researchers-create-a-robot-able-to-adapt-to-rapidly-changing-conditions-14682330/amp/"
+    type: article
+    provider:
+      name: SlashGear
+      domain: slashgear.com
+    quality: 100
+    images:
+      - url: "https://cdn.slashgear.com/wp-content/uploads/2021/07/ai-robot.jpg"
+        width: 1440
+        height: 810
+        isCached: true
   - title: "D2iQ Now Available in the Microsoft Azure Marketplace"
     excerpt: "D2iQ, a leading independent Kubernetes platform, today announced the availability of the D2iQ Kubernetes Platform (DKP), including D2iQ Kommander, D2iQ Konvoy, and D2iQ Kaptain, in the Microsoft Azure Marketplace,"
     publishedDateTime: 2021-07-12T13:07:00Z

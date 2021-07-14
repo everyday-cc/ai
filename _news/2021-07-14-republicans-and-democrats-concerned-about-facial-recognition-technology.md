@@ -3,26 +3,25 @@ category: news
 title: "Republicans and Democrats concerned about facial recognition technology"
 excerpt: "Law enforcement must be careful when using facial recognition technology. “We need to ensure that the adoption of this new technology that does not further erode trust between law enforcement and the communities they serve,"
 publishedDateTime: 2021-07-13T21:24:00Z
-originalUrl: "https://www.wsav.com/news/national-news/republicans-and-democrats-concerned-about-facial-recognition-technology/"
-webUrl: "https://www.wsav.com/news/national-news/republicans-and-democrats-concerned-about-facial-recognition-technology/"
-ampWebUrl: "https://www.wsav.com/news/republicans-and-democrats-concerned-about-facial-recognition-technology/amp/"
-cdnAmpWebUrl: "https://www-wsav-com.cdn.ampproject.org/c/s/www.wsav.com/news/republicans-and-democrats-concerned-about-facial-recognition-technology/amp/"
+originalUrl: "https://www.wfla.com/news/republicans-and-democrats-concerned-about-facial-recognition-technology/"
+webUrl: "https://www.wfla.com/news/republicans-and-democrats-concerned-about-facial-recognition-technology/"
+ampWebUrl: "https://www.wfla.com/news/republicans-and-democrats-concerned-about-facial-recognition-technology/amp/"
+cdnAmpWebUrl: "https://www-wfla-com.cdn.ampproject.org/c/s/www.wfla.com/news/republicans-and-democrats-concerned-about-facial-recognition-technology/amp/"
 type: article
-quality: 61
-heat: 121
+quality: 59
+heat: 129
 published: true
 
 provider:
-  name: WSAV-TV
-  domain: wsav.com
+  name: WFLA
+  domain: wfla.com
 
 topics:
-  - Natural Language Processing
-  - AI
   - Computer Vision
+  - AI
 
 images:
-  - url: "https://www.wsav.com/wp-content/uploads/sites/75/2021/07/CBD9E120D58140A1A6D82774464D865D_7.jpg?w=1280"
+  - url: "https://www.wfla.com/wp-content/uploads/sites/71/2021/07/CBD9E120D58140A1A6D82774464D865D_7.jpg?w=1280"
     width: 1280
     height: 720
     isCached: true
@@ -59,6 +58,20 @@ related:
       - url: "https://images.foxtv.com/static.fox2detroit.com/www.fox2detroit.com/content/uploads/2021/04/932/470/wjbk-facial-recognition-aclu-lawsuit.jpg?ve=1&tl=1"
         width: 932
         height: 470
+        isCached: true
+  - title: "Bipartisan Calls to Regulate Facial Recognition Tech Grow Louder"
+    excerpt: "Lawmakers on both sides of the political aisle have concerns about the government’s increased use of biometric technology."
+    publishedDateTime: 2021-07-14T17:47:00Z
+    webUrl: "https://www.nextgov.com/cio-briefing/2021/07/bipartisan-calls-regulate-facial-recognition-tech-grow-louder/183761/"
+    type: article
+    provider:
+      name: Nextgov
+      domain: nextgov.com
+    quality: 39
+    images:
+      - url: "https://cdn.nextgov.com/media/img/cd/2021/07/14/AP19347785904458/open-graph.jpg"
+        width: 400
+        height: 400
         isCached: true
   - title: "Michigan man misidentified by facial recognition technology warns Congress of risks posed by police surveillance"
     excerpt: "A Michigan man who was wrongly arrested after being misidentified by facial recognition technology joined expert witnesses who warned a congressional subcommittee about the pitfalls of police surveillance software used to find suspects."
@@ -119,6 +132,6 @@ related:
         height: 300
         isCached: true
 
-secured: "yy1RhcqWxtmsZIK6f1gUPvJjaMIBw8U2IvYqQYxpRofl4zi1ZfO9ACexZRhg/HCf/d+k58PBb7d1KzHz8UbGnoshwHUlR+DCp1K4IgX7/ZpQmMzGOz8D6EojFjU21It/3OWlRaVlQK6a4xeyQQS07M7SBJh8cKQqDffq6xu3PgTdXzWpb2pv0jV81qxcEEOpKZcT7BOhS1KlEvdwRJtTIhLOLNWRAG5Jp1NlHbycDXR00h172NVZGv43RZ1pRE9/48MEMSAGLwHnCtQUZuoMqolZdg4eIwqsncbO2Qm1EPz1jny8aF7Po2P42Qj89+aXLwx7NvjST+072ECy89ErNqhV0OZ71veFJPnnu2pZhpc=;ItnjtlPQa1mJnf8m083/GA=="
+secured: "8yVMJOpurwAzarugjUEcnBXz9uaUjUdD4MgMwn2gWHDZgZK7IcNiOX1ziQ2XkJZ2NMEo9tdfXE1zwO/QNKn2WCtgOkOq3ItEy8CgTlror8JELjHP6P+TgTQ2GGQcle6WeXQslRVctii3vO/xCNVkCe2WAbGh6PbIfSDVx/rkZoBaeh7Z7FfLsUvpCKQiUviYDp1CL5KBxFkQqsmHtjwPy6U2ugd7POCyF14mZvUilj0FoG2CzIcBjojahOtRxQFzbx+j/NSztjuazibSa4TcgHSiqLLZa0M+reLnPvdQyR1m+y4x4zKz1xyFXDLhuUiUFw7Qoq/cVjl9jhPGjScTUsVnjPhpPNg//kfGiqxRLZU=;w60PMZYAbq6GC4jHHto+gQ=="
 ---
 

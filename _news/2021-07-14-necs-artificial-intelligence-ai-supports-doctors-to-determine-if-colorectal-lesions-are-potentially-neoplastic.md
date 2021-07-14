@@ -17,6 +17,17 @@ provider:
 topics:
   - AI
 
+related:
+  - title: "NEC's Artificial Intelligence (AI) Supports Doctors to Determine if Colorectal Lesions Are Potentially Neoplastic"
+    excerpt: "Cx20 has already met the requirements for CE marking, a European safety, health and environmental protection standard, and will be integrated in the medical device AI diagnostic support software \"WISE VISION® Endoscopy\" (*1), with sales expected to start ..."
+    publishedDateTime: 2021-07-14T17:53:00Z
+    webUrl: "https://www.newswiretoday.com/news/175804/NECs-Artificial-Intelligence-AI-Supports-Doctors-to-Determine-if-Colorectal-Lesions-Are-Potentially-Neoplastic/"
+    type: article
+    provider:
+      name: Newswire Today
+      domain: newswiretoday.com
+    quality: 11
+
 secured: "9iP6c6C0yDrUb8WFdz5GAmaXNtUi1gC+BU44ihbUwmcoHCzCbyow07PKeLl6CmeHpZLcQyQWqZZMphP98qYwEWHTbMoq/lpi3CrmxH0Ii8kX9jZhhGHmHiS/lzZOib6U3Q3pqWTwUUgPAR67pSrp6dKsk6vKhxaMdPTIOb0eabtAMie0E/pvskhsN91k79qz9b33W9PNrnYXDHU5KCYhLCrtIFOvTRqexvd+iSrEJb1L3mf5Hf6cw9b7zeJnOp2ReXY8NcAWfC36sOibdUbTPc7D7/YWcaphi6/SLqik4yhSKiTcwfuHoBnty5uRYNMngifKZcBnGRpy9yoq6XJ7tHhef670PLRXYKdf32Fr7At/Er0CQ/+ByPdTqTMoBoKD2PpCEDxmk0SPUSAU4O2LHzUxvuCZa0/NFIxax25NGWPlCu+ODcdhXLKorWMjaUAOIIv6zX2ZRi307cOsgkmjS4tVzOF0GlbYFK+SU4vxKlOoQn3CHhQdIl1uoiWXWXFZ/ItvAUUMz0xkICZINRhXJw==;kOrxlLox+WgqatpFwfJgrQ=="
 ---
 

@@ -32,22 +32,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence (AI) in Oil and Gas Market is Set To Fly High in Years to Come"
-    excerpt: "A new research document with title Artificial Intelligence AI in Oil and Gas Thematic Research covering detailed analysis Competitive landscape forecast and strategies The study covers geographic analysis that includes regions like North America U S Canada Mexico Europe Germany"
-    publishedDateTime: 2021-07-09T23:23:00Z
-    webUrl: "https://www.openpr.com/news/2325607/artificial-intelligence-ai-in-oil-and-gas-market-is-set-to-fly"
-    ampWebUrl: "https://www.openpr.com/amp/2325607/artificial-intelligence-ai-in-oil-and-gas-market-is-set-to-fly"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2325607/artificial-intelligence-ai-in-oil-and-gas-market-is-set-to-fly"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 66
-    images:
-      - url: "https://cdn.openpr.com/U/7/U710307690_g.jpg"
-        width: 400
-        height: 300
-        isCached: true
   - title: "Artificial Intelligence (AI) in BFSI Market Shaping A New Growth Cycle"
     excerpt: "HTF MI Published Latest Global  Study by in-depth analysis about current scenario, the Market size, demand, growth pattern, trends, and forecast. Revenue for  has grown substantially over the six years to 2020 as a result of strengthening macroeconomic conditions and healthier demand,"
     publishedDateTime: 2021-07-10T17:50:00Z
@@ -171,6 +155,20 @@ related:
       name: ReportsnReports
       domain: reportsnreports.com
     quality: 26
+  - title: "Global Natural Language Processing for Finance Market By Excellent Opportunities, Industry Growth, Size, And Statistics Forecasts Up To 2027"
+    excerpt: "Therefore, Researchmoz discusses all aspects of growth, including threats and barriers. As well as This report provides an deep analysis of the global Natural Language Processing for Finance market and serves as a guide to stakeholders searching for new investment opportunities."
+    publishedDateTime: 2021-07-14T17:17:00Z
+    webUrl: "https://manometcurrent.com/global-natural-language-processing-for-finance-market-by-excellent-opportunities-industry-growth-size-and-statistics-forecasts-up-to-2027/"
+    type: article
+    provider:
+      name: manometcurrent.com
+      domain: manometcurrent.com
+    quality: 21
+    images:
+      - url: "https://i.ibb.co/0s5CLpy/Rssearchmoz-us99.jpg"
+        width: 640
+        height: 360
+        isCached: true
   - title: "Global Speech Recognition Market 2021 Industry Research, Review, Growth, Segmentation, Key Players Analysis and Forecast to 2027"
     excerpt: "The global Speech Recognition market size is projected to reach US$ 17490 million by 2027, from US$ 9461.8 million in 2020, at a CAGR of 9.1% during 2021-2027. This report studies the Global Speech Recognition market status and outlook of global and major regions,"
     publishedDateTime: 2021-07-13T14:07:00Z

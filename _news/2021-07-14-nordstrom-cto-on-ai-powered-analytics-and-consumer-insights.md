@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/07/13/nordstrom-cto-on-ai-powered-analy
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/13/nordstrom-cto-on-ai-powered-analytics-and-consumer-insights/amp/"
 type: article
 quality: 89
-heat: 119
+heat: 129
 published: true
 
 provider:
@@ -60,6 +60,20 @@ related:
       - url: "https://www.technologyrecord.com/Portals/0/EasyDNNnews/10401/img-iStock-923079848.jpg"
         width: 940
         height: 443
+        isCached: true
+  - title: "Deep Learning, Predictive Analytics Helps Identify Chronic Diseases"
+    excerpt: "Through deep learning and predictive analytics, researchers have developed an artificial intelligence program that can determine the likelihood of someone developing a chronic disease due to aging."
+    publishedDateTime: 2021-07-14T17:00:00Z
+    webUrl: "https://healthitanalytics.com/news/deep-learning-predictive-analytics-helps-identify-chronic-diseases"
+    type: article
+    provider:
+      name: Analytics
+      domain: healthitanalytics.com
+    quality: 39
+    images:
+      - url: "https://healthitanalytics.com/images/site/article_headers/_normal/ThinkstockPhotos-648272290.jpg"
+        width: 690
+        height: 400
         isCached: true
   - title: "London data analytics firm raises $153m to accelerate expansion of AI tech"
     excerpt: "A London data analytics firm has announced that it has achieved a $153m funding round as it aims to boost… | London | International | Technology | Technology | Investment | USA |"

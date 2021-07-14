@@ -57,6 +57,20 @@ related:
         width: 760
         height: 428
         isCached: true
+  - title: "Icertis Recognized as the Winner of 2021 Microsoft AI Partner of the Year"
+    excerpt: "First and Only Contract Lifecycle Management Company Recognized by Microsoft  for AI Leadership and as a Global ISV Partner of the"
+    publishedDateTime: 2021-07-14T04:00:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/icertis-recognized-as-the-winner-of-2021-microsoft-ai-partner-of-the-year-1030603718"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 83
+    images:
+      - url: "https://mma.prnewswire.com/media/1515204/icertis_Logo.jpg"
+        width: 400
+        height: 400
+        isCached: true
   - title: "Microsoft (MSFT) Azure Cloud Leveraged by Canada-Based CIBC"
     excerpt: "Microsoft’s MSFT Azure cloud platform is being leveraged by Canadian Imperial Bank of Commerce (“CIBC”) to revamp its business operations, boost operational efficiency and enhance client experiences."
     publishedDateTime: 2021-07-12T14:40:00Z
@@ -107,20 +121,6 @@ related:
       - url: "https://mma.prnewswire.com/media/371539/Icertis_Logo.jpg"
         width: 400
         height: 260
-        isCached: true
-  - title: "Icertis Recognized as the Winner of 2021 Microsoft AI Partner of the Year"
-    excerpt: "Icertis, the contract intelligence company that pushes the boundaries of what's possible with contract lifecycle management (CLM),"
-    publishedDateTime: 2021-07-14T11:00:00Z
-    webUrl: "https://www.prnewswire.com/il/news-releases/icertis-recognized-as-the-winner-of-2021-microsoft-ai-partner-of-the-year-301332309.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 53
-    images:
-      - url: "https://mma.prnewswire.com/media/1515204/icertis_Logo.jpg?p=facebook"
-        width: 600
-        height: 314
         isCached: true
   - title: "Sierra Wireless Partners with Microsoft to Enable Advanced Asset Tracking Capabilities via Azure IoT Central"
     excerpt: "Sierra Wireless’ Acculink managed IoT solution integrated with Microsoft Azure IoT Central brings simplicity, extra functionality and capabilities for customersVANCOUVER, British Columbia--(BUSINESS WIRE)--Sierra Wireless (NASDAQ: SWIR) (TSX: SW),"

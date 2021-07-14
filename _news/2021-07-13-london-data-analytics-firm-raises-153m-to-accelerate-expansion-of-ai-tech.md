@@ -71,6 +71,20 @@ related:
         width: 940
         height: 443
         isCached: true
+  - title: "Deep Learning, Predictive Analytics Helps Identify Chronic Diseases"
+    excerpt: "Through deep learning and predictive analytics, researchers have developed an artificial intelligence program that can determine the likelihood of someone developing a chronic disease due to aging."
+    publishedDateTime: 2021-07-14T17:00:00Z
+    webUrl: "https://healthitanalytics.com/news/deep-learning-predictive-analytics-helps-identify-chronic-diseases"
+    type: article
+    provider:
+      name: Analytics
+      domain: healthitanalytics.com
+    quality: 39
+    images:
+      - url: "https://healthitanalytics.com/images/site/article_headers/_normal/ThinkstockPhotos-648272290.jpg"
+        width: 690
+        height: 400
+        isCached: true
 
 secured: "2SeMQuVohGpGF5q3+v/Pd7QKAn6X3Z5YdmEbZg1REpxzR80MBjES9i3kDRuBKPLUIdW6GoOclGjo26UqYJgf0r6JfHIfttSsNVrLwQSuSkdVDj4vo22hnSEe1vDTFYw0/yDR7FXADExZCmlG6Q2CzhxTEvSeoqkPoeZOCTEZIHDdHbBgyTk+DGFm8vl8V4zSxthNQzuqez/lhGds/XtFqyTIryFPnlX7xQEfKihVTZpFMfAwd/gd6zvHhRRMA2tdNQt5RDP1QQ5rm7l85+lLLe+dqQ/OIOtOkUEeRAWizpGVjEzTsu4eTME98swR70/o9+fQjk0dqdVgtniKVC/FB2AXA0Mn0vW2QyL/uuBpCK4=;rQSpRDNSdSIlER+xuqwtYA=="
 ---
