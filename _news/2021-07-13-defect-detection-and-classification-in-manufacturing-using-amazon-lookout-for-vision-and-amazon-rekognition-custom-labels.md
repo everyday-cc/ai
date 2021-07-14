@@ -7,8 +7,8 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/defect-detection-and
 webUrl: "https://aws.amazon.com/blogs/machine-learning/defect-detection-and-classification-in-manufacturing-using-amazon-lookout-for-vision-and-amazon-rekognition-custom-labels/"
 type: article
 quality: 81
-heat: -1
-published: false
+heat: 141
+published: true
 
 provider:
   name: AWS
@@ -30,67 +30,21 @@ images:
     isCached: true
 
 related:
-  - title: "US sanctions a Chinese facial recognition company with Silicon Valley funding"
-    excerpt: "DeepGlint, also known as Beijing Geling Shentong Information Technology Co., Ltd., is a facial recognition company with deep ties to Chinese police surveillance, and funding from US-based Sequoia Capital."
-    publishedDateTime: 2021-07-09T17:42:59Z
-    webUrl: "https://www.theverge.com/2021/7/9/22570225/us-sanctions-chinese-facial-recognition-silicon-valley-funding"
-    ampWebUrl: "https://www.theverge.com/platform/amp/2021/7/9/22570225/us-sanctions-chinese-facial-recognition-silicon-valley-funding"
-    cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2021/7/9/22570225/us-sanctions-chinese-facial-recognition-silicon-valley-funding"
+  - title: "Compliance with Safety Regulations Becomes Key Proposition in Medical Robotics Market"
+    excerpt: "Robots have enormous potential in medical and healthcare applications, as is evident in the swift pace of penetration in the sector. Per a projection by the International Federation of Robots (IFR), the medical robotics spawn a multibillion dollars market."
+    publishedDateTime: 2021-07-14T10:11:00Z
+    webUrl: "https://techbullion.com/compliance-with-safety-regulations-becomes-key-proposition-in-medical-robotics-market-2/"
+    ampWebUrl: "https://techbullion.com/compliance-with-safety-regulations-becomes-key-proposition-in-medical-robotics-market-2/amp/"
+    cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/compliance-with-safety-regulations-becomes-key-proposition-in-medical-robotics-market-2/amp/"
     type: article
     provider:
-      name: theverge.com/2021/7/9/22570225/us-sanctions-chinese-facial-recognition-silicon-valley-funding
-      domain: theverge.com/2021/7/9/22570225/us-sanctions-chinese-facial-recognition-silicon-valley-funding
-    quality: 156
+      name: Impacts
+      domain: techbullion.com
+    quality: 67
     images:
-      - url: "https://cdn.vox-cdn.com/thumbor/eGtjTnlDLWadmcCPthwq1RA4u_o=/0x0:640x355/1400x933/filters:focal(269x127:371x229):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/69562258/Hitachi_Kokusai_Electric_surveillance_system_640.0.jpg"
-        width: 640
-        height: 355
-        isCached: true
-  - title: "Activist Groups Urge Retailers to Halt Facial Recognition Use"
-    excerpt: "A new coalition of civil rights organizations is calling on retailers to stop using facial recognition tools to screen shoppers, saying the technology can lead to abuses."
-    publishedDateTime: 2021-07-14T09:30:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2021-07-14/activist-groups-urge-retailers-to-halt-facial-recognition-use"
-    type: article
-    provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 84
-    images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/icrAaz7etyfo/v0/1200x793.jpg"
-        width: 1200
-        height: 793
-        isCached: true
-  - title: "Chinese City Using Facial Recognition Tech To Fight Coronavirus"
-    excerpt: "Facial recognition tech linked to personal health codes has been rolled out in a Chinese city bordering Myanmar as authorities seek to squash a coronavirus outbreak."
-    publishedDateTime: 2021-07-13T14:11:00Z
-    webUrl: "https://www.ndtv.com/world-news/china-using-facial-recognition-tech-to-fight-coronavirus-2485824"
-    ampWebUrl: "https://www.ndtv.com/world-news/china-using-facial-recognition-tech-to-fight-coronavirus-2485824?amp=1&akamai-rum=off"
-    cdnAmpWebUrl: "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/world-news/china-using-facial-recognition-tech-to-fight-coronavirus-2485824?amp=1&akamai-rum=off"
-    type: article
-    provider:
-      name: NDTV
-      domain: ndtv.com
-    quality: 59
-    images:
-      - url: "https://c.ndtvimg.com/2021-07/90pei86s_china-covid-ruili-afp-650_625x300_13_July_21.jpg"
-        width: 650
-        height: 400
-        isCached: true
-  - title: "COVID-19: Facial recognition tech fights coronavirus in Chinese city"
-    excerpt: "BEIJING: Facial recognition tech linked to personal health codes has been rolled out in a Chinese city bordering Myanmar as authorities seek to squash a coronavirus outbreak. China is one of the world’s most surveilled countries,"
-    publishedDateTime: 2021-07-13T10:01:00Z
-    webUrl: "https://gulfnews.com/world/asia/covid-19-facial-recognition-tech-fights-coronavirus-in-chinese-city-1.80626315"
-    ampWebUrl: "https://gulfnews.com/amp/world/asia/covid-19-facial-recognition-tech-fights-coronavirus-in-chinese-city-1.80626315"
-    cdnAmpWebUrl: "https://gulfnews-com.cdn.ampproject.org/c/s/gulfnews.com/amp/world/asia/covid-19-facial-recognition-tech-fights-coronavirus-in-chinese-city-1.80626315"
-    type: article
-    provider:
-      name: Gulf News
-      domain: gulfnews.com
-    quality: 59
-    images:
-      - url: "https://imagevars.gulfnews.com/2021/07/13/Ruili-1626170218791_17a9f4c592b_medium.jpg"
-        width: 540
-        height: 405
+      - url: "https://techbullion.com/wp-content/uploads/2021/07/ai-5899612_1920.jpg"
+        width: 1267
+        height: 912
         isCached: true
   - title: "Facial-Recognition Tech Gets Bipartisan Call for More Regulation"
     excerpt: "The use of facial-recognition software by law enforcement should be regulated, a bipartisan group of lawmakers said, amid concerns of misidentification and violations of constitutional rights and due process."
@@ -152,20 +106,15 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Beware facial recognition: Australia risks embracing mass surveillance, ‘broader protections’ needed"
-    excerpt: "Australia’s outgoing human rights commissioner has sounded the alarm about Australia “sliding into mass surveillance” if it continues to embrace the use of facial recognition technology. Commissioner Edward Santow also criticised governments using ..."
-    publishedDateTime: 2021-07-14T01:56:00Z
-    webUrl: "https://www.crikey.com.au/2021/07/14/beware-facial-recognition-risks-embracing-mass-surveillance/"
+  - title: "New Renesas Solution For Automotive Cameras Enables High-Definition Video Using Low-Cost Cables and Connectors"
+    excerpt: "Renesas Electronics Corporation (TSE:6723), a premier supplier of advanced semiconductor solutions, today introduced its new Automotive HD Link (AHL) technology that enables automotive manufacturers to deliver high-definition video over low-cost cables and connectors that currently support standard-definition video."
+    publishedDateTime: 2021-07-13T12:15:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2021/07/13/9407548.htm"
     type: article
     provider:
-      name: Crikey
-      domain: crikey.com.au
-    quality: 24
-    images:
-      - url: "https://www.crikey.com.au/wp-content/uploads/2021/07/14-07-21-facialrecognition22.jpg"
-        width: 740
-        height: 400
-        isCached: true
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
 secured: "+W+pfujPw9BMhjGFDs4x1DYjjRgGyTj2XKtq4ihN08DAx3F7mZFaQ1fejOAxlMgkdSdjn7+6qofHbe3GS6yWY4NH6seGvz0HCck5h2ms+PvTTorcBxPY5t9MNVrGh/QrL/yQC4XPqhwfk0swSdE/0m4D+TEqWVi3jtC8yj08xO9FWMne/rShl+S7daZ1f41JbSS8QLgg+HYt1lAiLu1UMBqQart/l4/K0Uda/KN8FI084CrHSGxO9Aa6b/9zpHZEAq2BSf3ayWo2x9taqs2Tc/erO7EASHLVVrQiF2ZviEx9CSFmYY/HTd8dmYhyPCG1JhqzZaGCJG3j6mwYfdS/6UcJhf7u7XQhBLOuDd66NYY=;Z8gWOZzArmuLO6HOUfBcLg=="
 ---

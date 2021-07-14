@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2021/07/13/zoominfo-drops-575m-on-chorus-ai-a
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/07/13/zoominfo-drops-575m-on-chorus-ai-as-ai-shakes-up-the-sales-market/amp/"
 type: article
 quality: 104
-heat: 184
+heat: 194
 published: true
 
 provider:
@@ -62,6 +62,22 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+        isCached: true
+  - title: "ZoomInfo acquires Israeli startup Chorus.ai for $575M cash"
+    excerpt: "Israeli startup Chorus.ai had only raised $100M in VC funding but was sold for much more than that... Among the trove of funding rounds, IPOs, and talk of establishing Israeli companies for the long run,"
+    publishedDateTime: 2021-07-14T11:32:00Z
+    webUrl: "https://www.geektime.com/zoominfo-acquires-israeli-startup-chorus-ai-for-575m-in-cash-money/"
+    ampWebUrl: "https://www.geektime.com/zoominfo-acquires-israeli-startup-chorus-ai-for-575m-in-cash-money/amp/"
+    cdnAmpWebUrl: "https://www-geektime-com.cdn.ampproject.org/c/s/www.geektime.com/zoominfo-acquires-israeli-startup-chorus-ai-for-575m-in-cash-money/amp/"
+    type: article
+    provider:
+      name: Geektime
+      domain: geektime.com
+    quality: 57
+    images:
+      - url: "https://www.geektime.com/content/images/2021/07/Screenshot-2021-07-13-at-14-16-43-Chorus-ai-Conversation-Intelligence-for-Sales-Teams-1626175017.png"
+        width: 900
+        height: 506
         isCached: true
   - title: "Daily Crunch: ZoomInfo announces plans to acquire sales intelligence tool Chorus.ai for $575M"
     excerpt: "Hello friends and welcome to Daily Crunch, bringing you the most important startup, tech and venture capital news in a single package."

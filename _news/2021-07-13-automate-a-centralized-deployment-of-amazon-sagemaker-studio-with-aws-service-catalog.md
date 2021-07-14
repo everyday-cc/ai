@@ -7,8 +7,8 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/automate-a-centraliz
 webUrl: "https://aws.amazon.com/blogs/machine-learning/automate-a-centralized-deployment-of-amazon-sagemaker-studio-with-aws-service-catalog/"
 type: article
 quality: 97
-heat: -1
-published: false
+heat: 107
+published: true
 
 provider:
   name: AWS
@@ -29,20 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Dynamic A/B testing for machine learning models with Amazon SageMaker MLOps projects"
-    excerpt: "In this post, you learn how to create a MLOps project to automate the deployment of an Amazon SageMaker endpoint with multiple production variants for A/B testing. You also deploy a general purpose API and testing infrastructure that includes a multi-armed bandit experiment framework. This testing infrastructure"
-    publishedDateTime: 2021-07-09T18:07:35Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/dynamic-a-b-testing-for-machine-learning-models-with-amazon-sagemaker-mlops-projects/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 114
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/06/23/14-3239-Architecture.jpg"
-        width: 800
-        height: 440
-        isCached: true
   - title: "Run image classification with Amazon SageMaker JumpStart"
     excerpt: "Last year, AWS announced the general availability of Amazon SageMaker JumpStart, a capability of Amazon SageMaker that helps you quickly and easily get started with machine learning (ML). JumpStart hosts 196 computer vision models, 64 natural language processing (NLP) models, 18 pre-built end-to-end"
     publishedDateTime: 2021-07-13T21:00:20Z

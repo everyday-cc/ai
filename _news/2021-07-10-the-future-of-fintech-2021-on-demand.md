@@ -57,15 +57,6 @@ related:
         width: 1024
         height: 640
         isCached: true
-  - title: "If You Only Buy 1 Fintech Stock, Make It One of These 5"
-    excerpt: "Recent innovations by biotech and fintech stocks, for example, show how pandemic-era needs are shaping the market. Source: Shutterstock In 2021, fintech companies are harnessing advanced technologies to provide faster and more reliable financial service solutions for institutions and everyday users."
-    publishedDateTime: 2021-07-09T17:53:00Z
-    webUrl: "https://www.nasdaq.com/articles/if-you-only-buy-1-fintech-stock-make-it-one-of-these-5-2021-07-09"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 34
   - title: "AI to have biggest impact on fintech development over next five years"
     excerpt: "Artificial intelligence (AI) technology will have the biggest impact on fintech ... AT&T will move its 5G services to Microsoft's Azure cloud. The move provides Microsoft with a critical 5G customer while AT&T ... What's the difference between 802.11ac ..."
     publishedDateTime: 2021-07-13T22:50:00Z

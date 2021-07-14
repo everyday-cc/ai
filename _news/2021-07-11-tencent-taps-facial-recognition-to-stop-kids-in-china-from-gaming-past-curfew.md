@@ -47,21 +47,19 @@ related:
         width: 620
         height: 310
         isCached: true
-  - title: "Tencent Is Using Facial Recognition To Ban Kids From Gaming At Night"
-    excerpt: "Chinese gaming giant Tencent has rolled out a facial recognition system that prevents minors from playing video games at night past their allotted time."
-    publishedDateTime: 2021-07-09T17:26:00Z
-    webUrl: "https://www.techworm.net/2021/07/tencent-facial-recognition-kids-night.html"
-    ampWebUrl: "https://www.techworm.net/2021/07/tencent-facial-recognition-kids-night.html/amp"
-    cdnAmpWebUrl: "https://www-techworm-net.cdn.ampproject.org/c/s/www.techworm.net/2021/07/tencent-facial-recognition-kids-night.html/amp"
+  - title: "Activist Groups Urge Retailers to Halt Facial Recognition Use"
+    excerpt: "A new coalition of civil rights organizations is calling on retailers to stop using facial recognition tools to screen shoppers, saying the technology can lead to abuses."
+    publishedDateTime: 2021-07-14T09:30:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2021-07-14/activist-groups-urge-retailers-to-halt-facial-recognition-use"
     type: article
     provider:
-      name: techworm.net
-      domain: techworm.net
-    quality: 59
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 84
     images:
-      - url: "https://www.techworm.net/wp-content/uploads/2021/07/tencent.jpg"
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/icrAaz7etyfo/v0/1200x793.jpg"
         width: 1200
-        height: 675
+        height: 793
         isCached: true
   - title: "SoftBank backs facial-recognition startup"
     excerpt: "SoftBank Group is leading an investment in AnyVision Interactive Technologies that values the facial-recognition company at over $1bn"

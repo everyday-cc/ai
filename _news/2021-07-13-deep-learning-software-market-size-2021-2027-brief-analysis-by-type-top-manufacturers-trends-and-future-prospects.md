@@ -29,6 +29,20 @@ images:
     isCached: true
 
 related:
+  - title: "Artificial Intelligence in Drug Discovery Market Share, Opportunities, Future Trends, Top Key Players and Analysis by Forecast to 2027"
+    excerpt: "Global Artificial Intelligence in Drug Discovery Market is expected to reach the market valuation of US$ 6,996.8 million"
+    publishedDateTime: 2021-07-14T07:42:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-drug-discovery-market-share-opportunities-future-trends-top-key-players-and-analysis-by-forecast-to-2027-2021-07-14"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 37
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Facial Recognition Phone Market Size 2021: Market Share, Top Companies report covers are Vivo,Apple,HTC,Huawei,Lenovo,LG,Meizu,Nubia,Oneplu"
     excerpt: "The MarketWatch News Department was not involved in the creation of this content. Jul 12, 2021 (The Expresswire) -- “ Facial Recognition Phone Market “ Size, Status and Market Insights 2021, ,Facial Recognition Phone Market By Type (Operating System ..."
     publishedDateTime: 2021-07-12T12:58:00Z

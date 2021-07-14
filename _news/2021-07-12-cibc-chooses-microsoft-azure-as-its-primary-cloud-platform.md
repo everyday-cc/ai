@@ -27,20 +27,31 @@ images:
     isCached: true
 
 related:
-  - title: "Icertis Recognized as the Winner of 2021 Microsoft AI Partner of the Year"
-    excerpt: "First and Only Contract Lifecycle Management Company Recognized by Microsoft  for AI Leadership and as a Global ISV Partner of the"
-    publishedDateTime: 2021-07-14T04:00:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/icertis-recognized-as-the-winner-of-2021-microsoft-ai-partner-of-the-year-1030603718"
+  - title: "Digital Transformation: Microsoft Azure Cloud Platform to be Used by Canadian Imperial Bank of Commerce"
+    excerpt: "The Canadian Imperial Bank of Commerce (CIBC) (TSE: CM), a multinational banking and financial services corporation headquartered in Toronto, Ontario, has entered a multi-year deal to use Microsoft Azure as its main Cloud platform."
+    publishedDateTime: 2021-07-12T23:22:00Z
+    webUrl: "https://www.crowdfundinsider.com/2021/07/177735-digital-transformation-microsoft-azure-cloud-platform-to-be-used-by-canadian-imperial-bank-of-commerce/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2021/07/177735-digital-transformation-microsoft-azure-cloud-platform-to-be-used-by-canadian-imperial-bank-of-commerce/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/07/177735-digital-transformation-microsoft-azure-cloud-platform-to-be-used-by-canadian-imperial-bank-of-commerce/amp/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 83
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 75
     images:
-      - url: "https://mma.prnewswire.com/media/1515204/icertis_Logo.jpg"
-        width: 400
-        height: 400
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2021/07/Christina-Kramer-284x300.jpg"
+        width: 284
+        height: 300
         isCached: true
+  - title: "Microsoft (MSFT) Azure Cloud Leveraged by Canada-Based CIBC"
+    excerpt: "Microsoft’s MSFT Azure cloud platform is being leveraged by Canadian Imperial Bank of Commerce (“CIBC”) to revamp its business operations, boost operational efficiency and enhance client experiences."
+    publishedDateTime: 2021-07-12T14:40:00Z
+    webUrl: "https://www.nasdaq.com/articles/microsoft-msft-azure-cloud-leveraged-by-canada-based-cibc-2021-07-12"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 64
   - title: "CIBC formalizes Microsoft Azure as its primary cloud platform"
     excerpt: "Canadian Imperial Bank of Commerce and Microsoft announced a strategic relationship formalizing Microsoft Azure as CIBC’s primary cloud platform"
     publishedDateTime: 2021-07-12T06:22:00Z
@@ -55,52 +66,6 @@ related:
         width: 300
         height: 300
         isCached: true
-  - title: "Icertis Recognized as the Winner of 2021 Microsoft AI Partner of the Year"
-    excerpt: "Icertis, the contract intelligence company that pushes the boundaries of what's possible with contract lifecycle management (CLM), announced today that it has won the Artificial Intelligence (AI) 2021 Microsoft Partner of the Year Award and been named a Finalist of the Global ISV Microsoft Partner of the Year Award for the fourth year in a row."
-    publishedDateTime: 2021-07-13T13:12:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2021/07/13/9407857.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 53
-    images:
-      - url: "https://mma.prnewswire.com/media/371539/Icertis_Logo.jpg"
-        width: 400
-        height: 260
-        isCached: true
-  - title: "Sierra Wireless Partners with Microsoft to Enable Advanced Asset Tracking Capabilities via Azure IoT Central"
-    excerpt: "Sierra Wireless’ Acculink managed IoT solution integrated with Microsoft Azure IoT Central brings simplicity, extra functionality and capabilities for customersVANCOUVER, British Columbia--(BUSINESS WIRE)--Sierra Wireless (NASDAQ: SWIR) (TSX: SW),"
-    publishedDateTime: 2021-07-13T13:00:00Z
-    webUrl: "https://us.acrofan.com/detail.php?number=498882"
-    type: article
-    provider:
-      name: 아크로팬
-      domain: acrofan.com
-    quality: 35
-    images:
-      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
-        width: 580
-        height: 339
-        isCached: true
-  - title: "Trainocate recognised as #1 Microsoft Learning Partner worldwide"
-    excerpt: "Trainocate Holdings, Sri Lanka’s largest IT and human capability development training provider, has been recognised as the 2021 Microsoft Learning Partner of the Year; the first Asian company ever to have earned the illustrious title."
-    publishedDateTime: 2021-07-11T18:30:00Z
-    webUrl: "https://www.ft.lk/it-telecom-tech/Trainocate-recognised-as-1-Microsoft-Learning-Partner-worldwide/50-720316"
-    type: article
-    provider:
-      name: FT
-      domain: www.ft.lk
-    quality: 34
-  - title: "NEC signs new partnership with Microsoft, to migrate IT to Azure"
-    excerpt: "NEC said it expanded its decades-long collaboration with Microsoft. Through a new multi-year strategic partnership, the companies will leverage Microsoft Azure, Microsoft 365, NEC's network and IT expertise,"
-    publishedDateTime: 2021-07-13T08:29:00Z
-    webUrl: "https://www.telecompaper.com/news/nec-signs-new-partnership-with-microsoft-to-migrate-it-to-azure--1389976"
-    type: article
-    provider:
-      name: Telecompaper
-      domain: telecompaper.com
-    quality: 34
 
 secured: "QAJPDnGSfXK6SIwL7Jzzw911On7Fh7OClsKBNiisTkNJdAwprkjtAz4XzFYX9E3/sKRL/i6swYJhU/Jb5NSUe+hGcsSEBn6CJKBZSrxGq/wPaGJjNGTOZIqJnPGbRN2DM3k7qarmqKIMFMwdDoRJNNz49hKbXhcG/mZLUOxrZref9kpEoVjXj81K26q8W9pnZE++THG9Zi7t3Re7rC4MXD/zsIS9n/l7hB8zA+bh9AkRwR6gCGzjeSVMnvBEdP5e6TTfieHnbyaWFetl/Nt8Dt36YCFIkeORofVlE5OBJ29SjjCnqUOe/I6tcwzb+pUyCovd5nLFCKpsKOkEgWwgro71x1+5My78f4wpaGUqf0319s3G5DtIQY7uCAHkb1EoUzrO3xBVIz1w9l+ZwmOJwCD1U/74sX/3cGdCOlxBlraxS+vXoPTw8yhHVtcBRlUN9wL6BqpAZPQzlAKfm+Y7Go9rnWCPckX6ctArIIFOZnoO7a1qi9TIDKggNc+4zn0fYdAlmCzqfke+Xqal6yoNFw==;g+Fbg1/PlFBsFLX88dPjPA=="
 ---

@@ -3,20 +3,26 @@ category: news
 title: "Global Speech Recognition Market 2021 Industry Research, Review, Growth, Segmentation, Key Players Analysis and Forecast to 2027"
 excerpt: "The global Speech Recognition market size is projected to reach US$ 17490 million by 2027, from US$ 9461.8 million in 2020, at a CAGR of 9.1% during 2021-2027. This report studies the Global Speech Recognition market status and outlook of global and major regions,"
 publishedDateTime: 2021-07-13T14:07:00Z
-originalUrl: "https://www.reseller.co.nz/mediareleases/144447/global-speech-recognition-market-2021-industry/"
-webUrl: "https://www.reseller.co.nz/mediareleases/144447/global-speech-recognition-market-2021-industry/"
+originalUrl: "https://www.arnnet.com.au/mediareleases/144447/global-speech-recognition-market-2021-industry/"
+webUrl: "https://www.arnnet.com.au/mediareleases/144447/global-speech-recognition-market-2021-industry/"
 type: article
-quality: 0
+quality: 10
 heat: -1
 published: false
 
 provider:
-  name: Reseller News
-  domain: reseller.co.nz
+  name: ARN
+  domain: arnnet.com.au
 
 topics:
   - Natural Language Processing
   - AI
+
+images:
+  - url: "https://www.arnnet.com.au/dimg/300x300/dimg/win20_edu_remotelearning_026.jpg"
+    width: 300
+    height: 225
+    isCached: true
 
 related:
   - title: "Artificial Intelligence (AI) in Retail Market – Industry Growth Analysis & Forecast By 2027"
@@ -177,6 +183,6 @@ related:
       domain: arnnet.com.au
     quality: 5
 
-secured: "M8wnB+n+P1Zn3V1CIIBVD37wydzJDPYdbNmHkL79gG7OA11ytw+E7o7VnCv1hXZER2Wk7SoaF49aBAFtrsjcNyvr1F6QwRq40Auzwu4TTGl6gwKsDner/rRNB4hA3rly6/DrZjMhkPgXoGsRL2y1M5BQD0KxsB/k4t2M6sr9K/A2mFM21aF2avJ2hQ0hIdO0AgEqbkLZiiweaDf+iM8M5GsN+1Dy3a3YesB/Os/ki+EazKuFT7qWNIsBTqwSTC+yO03NQ4NB/48HOjysIdNfFQFtDLbDvzZ3/XhLrzWjf5qggFtEjPZ2ydfYXxMmYgeamBwhbc62YadikrHUQQWIU2OMoNw4GgyhX+h1VohYz3E=;rCqt/XqC3pxtBehLk2DIEQ=="
+secured: "DN+kcte3XUixKQ1jelDtbxdzGqFkTtWmjaBKYPMrFh5WTsFqGjuOLc5n4tXw7ETKcZfQLl0Dn6Kpj8FDx/EkyySE2O9D0/6lMLYy/zYZgbTDn+ql3WvPfEgs13lk+GRodFpziyG8XhsLQevCpCcuL0c53FCZIDXKCUSqDN01X+QZnQegbTwNr2VRYzYW9xdugcQj7efpNfop4fo24Y8QXetCnj+OfEQtNycc83pVJFMiGMKBJBq6oSmP476lQ5wGOERk2BqUWMu/oVcm2AYnkCJwMZqPAwqJda5YXpbz79HM52CZeiPnykU31i4ei0C+UvqDFU1OLGa+AyVl+YiO1pXf7AKiRa4Yj6LDP/nCP84=;AF8C1DZqa2XtEpt2iYVaSw=="
 ---
 

@@ -43,15 +43,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Maine joins list of states to ban facial recognition technology"
-    excerpt: "Maine recently passed a bill into law creating one of the strictest statewide regulation on the use of facial recognition technology, as Maine joins several states to ban the technology"
-    publishedDateTime: 2021-07-09T17:15:00Z
-    webUrl: "https://www.securitysystemsnews.com/article/maine-joins-list-of-states-to-ban-facial-recognition-technology"
-    type: article
-    provider:
-      name: Security Systems News
-      domain: securitysystemsnews.com
-    quality: 34
   - title: "New state laws require more police transparency, limit use of facial recognition technology"
     excerpt: "One of the laws makes Maine the first state in the country to apply strict limits on facial recognition technology."
     publishedDateTime: 2021-07-10T01:14:00Z

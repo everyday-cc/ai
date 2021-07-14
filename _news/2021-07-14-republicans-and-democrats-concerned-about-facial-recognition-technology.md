@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wsav.com/news/republicans-and-democrats-concerned-about-
 cdnAmpWebUrl: "https://www-wsav-com.cdn.ampproject.org/c/s/www.wsav.com/news/republicans-and-democrats-concerned-about-facial-recognition-technology/amp/"
 type: article
 quality: 61
-heat: 91
+heat: 81
 published: true
 
 provider:
@@ -44,15 +44,6 @@ related:
         width: 4904
         height: 3678
         isCached: true
-  - title: "Maine joins list of states to ban facial recognition technology"
-    excerpt: "Maine recently passed a bill into law creating one of the strictest statewide regulation on the use of facial recognition technology, as Maine joins several states to ban the technology"
-    publishedDateTime: 2021-07-09T17:15:00Z
-    webUrl: "https://www.securitysystemsnews.com/article/maine-joins-list-of-states-to-ban-facial-recognition-technology"
-    type: article
-    provider:
-      name: Security Systems News
-      domain: securitysystemsnews.com
-    quality: 34
   - title: "New state laws require more police transparency, limit use of facial recognition technology"
     excerpt: "One of the laws makes Maine the first state in the country to apply strict limits on facial recognition technology."
     publishedDateTime: 2021-07-10T01:14:00Z
@@ -68,6 +59,6 @@ related:
         height: 300
         isCached: true
 
-secured: "5/gGjSSzShvATXxvRr28L87plUZeLpcSs/A/RTziVtz48WZwafOyEj0ZXbBpMhLaqwzSBavs5P9QnwQUT7NqhOI2zBeon0TSzNJ92I9fcI8YuQAGndNeht/Q+Btzn3C/pzEyFBlHGVo/VIu65DNhZxQYaIe30aRagRQ1tUoYqBl1isaSKama2eg83Ju0nvfQ5eLqurHNKYoG+09wHCACVU7iE2yabRm5986b+TTX6VRDbxQOS2nm+S2PjkA5wGuq5BN0S+yloKYH0qRRDnl+RrpLwA2ptxnRS3OEe8eooAyQcuFAhRoT3DanfTfgsFgzEkRH1u2xboz3OHWl1LByolUTOzP9UYXOLzFkGPyYvOA=;egfFi7NuuqrmogyFWErMdQ=="
+secured: "uiONRHfy5cNd0shxpRFhjAr63+y6HUbHaxqXPhBfYO4xhDoOpFD2Qmt3XwXwGUN/Xs9ikS5w98zyaeXZNgLTkYSuzJAneqhDN11HbEfcmuGvm/vtsKQQiBrKEkkoufDGpQMAFbJ3d/nJHQrs68Xyc9ku24vuYcVM0UamZizGjZslLgu8gwotGaQgf8z8Xi+JOkzy7rdfmEkjFioHrYlgLjupSofGCCh3yo0zQ82Wqs/2YeZlGMtx7UqwlrWoB3gzy8zjo0B3QJNNCvpJzqL6/CHyZGMKCj03e0wfPqQoQVZ7Zo8HvCyDGAepgPW04GV9fxtt9pzVStt0YQKMP39nMKUu/28vAZdEdgV/VWHz6dQ=;4J1/bEuNjXh2icx1iLODYA=="
 ---
 

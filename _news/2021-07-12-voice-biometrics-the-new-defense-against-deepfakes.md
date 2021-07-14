@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techradar.com/amp/news/voice-biometrics-the-new-defense-
 cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/voice-biometrics-the-new-defense-against-deepfakes"
 type: article
 quality: 89
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -46,20 +46,6 @@ related:
       - url: "https://assets.telecomtv.com/assets/telecomtv/brand/ttv-splash.jpg?w=1200"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Voice biometrics spoof detection catching up, EAB speaker says"
-    excerpt: "Voice biometric systems, counter-measures against attacks against them, and our understanding of how well those counter-measures work have come a long way."
-    publishedDateTime: 2021-07-09T18:02:00Z
-    webUrl: "https://www.biometricupdate.com/202107/voice-biometrics-spoof-detection-catching-up-eab-speaker-says"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 24
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2018/01/09162857/voice-biometrics-large2.jpg"
-        width: 900
-        height: 499
         isCached: true
 
 secured: "ZjuUzrmd8W6K0AP4O7Qs+27sMLxv9teUjm2KYAzUse3AFEucmTEmulW5EYVZKKKAt6zVVZWgQVBlXAeNzKwuXwEh514djiEGYGoY1YGBswpeoPsix2+JYeW4meZcCNiA2V1dhB85SdHRhuBJviWZpY0qoYyHe0uatf1dRwUgiLrinhq7Djd6yAd3NJtczOpjB+oKuRIUZxptBw0pGqMJrbmivFihddV5A/Z+lDOH5TnhIKLxTWMUVRa8NqbC08Hll8EqGN1G4io3S6+FK9EIngfGwp6cwn5NmXRTgv5IAH9UotGwWigs2KY1b2VoDFTsmku4dd0IDsWmunqy0TrRpW+TTbLLl4Px4hvLMRZYKi0=;K5HoNP8jmogwqcyDKD+HNg=="

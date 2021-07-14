@@ -29,20 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Dynamic A/B testing for machine learning models with Amazon SageMaker MLOps projects"
-    excerpt: "In this post, you learn how to create a MLOps project to automate the deployment of an Amazon SageMaker endpoint with multiple production variants for A/B testing. You also deploy a general purpose API and testing infrastructure that includes a multi-armed bandit experiment framework. This testing infrastructure"
-    publishedDateTime: 2021-07-09T18:07:35Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/dynamic-a-b-testing-for-machine-learning-models-with-amazon-sagemaker-mlops-projects/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 114
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/06/23/14-3239-Architecture.jpg"
-        width: 800
-        height: 440
-        isCached: true
   - title: "Automate a centralized deployment of Amazon SageMaker Studio with AWS Service Catalog"
     excerpt: "This post outlines the best practices for provisioning Amazon SageMaker Studio for data science teams and provides reference architectures and AWS CloudFormation templates to help you get started. We use AWS Service Catalog to provision a Studio domain and users. The AWS Service Catalog allows you to"
     publishedDateTime: 2021-07-13T16:15:11Z

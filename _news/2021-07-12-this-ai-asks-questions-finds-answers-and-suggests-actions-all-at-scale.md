@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/gilpress/2021/07/12/this-ai-asks-questi
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/gilpress/2021/07/12/this-ai-asks-questions-finds-answers-and-suggests-actions-all-at-scale/amp/"
 type: article
 quality: 86
-heat: 86
+heat: 96
 published: true
 
 provider:
@@ -28,6 +28,22 @@ images:
     width: 1200
     height: 1354
     isCached: true
+
+related:
+  - title: "Top 10 Artificial Intelligence Mergers and Acquisitions in 2021"
+    excerpt: "The coronavirus pandemic has exposed the operations and supply chain management of tech companies. This article has listed the top 10 Artificial Intelligence mergers and acquisitions from Microsoft, Google and so on to enhance cybersecurity efficiently."
+    publishedDateTime: 2021-07-14T11:00:00Z
+    webUrl: "https://www.analyticsinsight.net/top-10-artificial-intelligence-mergers-and-acquisitions-in-2021/"
+    type: article
+    provider:
+      name: Analytics Insight
+      domain: analyticsinsight.net
+    quality: 39
+    images:
+      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/07/AI-4.jpg"
+        width: 900
+        height: 500
+        isCached: true
 
 secured: "WQrH7ApXusrVC8nxkyTf1OuxLbMsLb5yc7/oEaRCljKapyAQF3CpMYTj29ckxSi2H2PFiTdnhkkOCurYnZFcpX9L6n9yES93dc+jX8vqOt0IrAIMLBrUMjUKWM4Vwu3fjF+O5kQUlgJfIZmwUHC+8dWistFtUIpkr/A9rsy4ms8uMEDE2xhGz2WIYtaqYc5fGc8zk5onQzdzbHVNxF9FespgkdEZQVcwuGA28k6+Rvohe6rJbxZM+eNxk427eV0XTgMOyFDfWVCPZn6eQehx8CSGt1MkLwgkzhDHNi/hEKrdzyIZ69NzmLJtdwg9FORNmkrJ2Ie0aftvKcEB3YPb2PhmxjSKFp3zYakYY5yQHsiK/TTIJXwkURqoFIqWljMuE7yG937qDw+QpJ7/2l0ItqTALr9XLhBoWUnxLdj4IxIXkM0tLBqsXJx2ZZB2WTuCoJQNKfLXQXp3XmVTui3MBHSJYD65EmXnFVeSpnkz2mofNsLuXalbYtK8w/r17Gu6KZ2O8djYaOszpemtiU9kkg==;8e55H0flZf2Dt+gMD5sGOA=="
 ---

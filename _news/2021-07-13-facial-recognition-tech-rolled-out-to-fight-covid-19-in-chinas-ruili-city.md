@@ -9,7 +9,7 @@ ampWebUrl: "https://www.hindustantimes.com/world-news/facial-recognition-tech-ro
 cdnAmpWebUrl: "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/world-news/facial-recognition-tech-rolled-out-to-fight-covid-19-in-china-s-ruili-city-101626187724353-amp.html"
 type: article
 quality: 57
-heat: 67
+heat: -1
 published: false
 
 provider:
@@ -27,6 +27,38 @@ images:
     isCached: true
 
 related:
+  - title: "Chinese City Using Facial Recognition Tech To Fight Coronavirus"
+    excerpt: "Facial recognition tech linked to personal health codes has been rolled out in a Chinese city bordering Myanmar as authorities seek to squash a coronavirus outbreak."
+    publishedDateTime: 2021-07-13T14:11:00Z
+    webUrl: "https://www.ndtv.com/world-news/china-using-facial-recognition-tech-to-fight-coronavirus-2485824"
+    ampWebUrl: "https://www.ndtv.com/world-news/china-using-facial-recognition-tech-to-fight-coronavirus-2485824?amp=1&akamai-rum=off"
+    cdnAmpWebUrl: "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/world-news/china-using-facial-recognition-tech-to-fight-coronavirus-2485824?amp=1&akamai-rum=off"
+    type: article
+    provider:
+      name: NDTV
+      domain: ndtv.com
+    quality: 59
+    images:
+      - url: "https://c.ndtvimg.com/2021-07/90pei86s_china-covid-ruili-afp-650_625x300_13_July_21.jpg"
+        width: 650
+        height: 400
+        isCached: true
+  - title: "COVID-19: Facial recognition tech fights coronavirus in Chinese city"
+    excerpt: "BEIJING: Facial recognition tech linked to personal health codes has been rolled out in a Chinese city bordering Myanmar as authorities seek to squash a coronavirus outbreak. China is one of the world’s most surveilled countries,"
+    publishedDateTime: 2021-07-13T10:01:00Z
+    webUrl: "https://gulfnews.com/world/asia/covid-19-facial-recognition-tech-fights-coronavirus-in-chinese-city-1.80626315"
+    ampWebUrl: "https://gulfnews.com/amp/world/asia/covid-19-facial-recognition-tech-fights-coronavirus-in-chinese-city-1.80626315"
+    cdnAmpWebUrl: "https://gulfnews-com.cdn.ampproject.org/c/s/gulfnews.com/amp/world/asia/covid-19-facial-recognition-tech-fights-coronavirus-in-chinese-city-1.80626315"
+    type: article
+    provider:
+      name: Gulf News
+      domain: gulfnews.com
+    quality: 59
+    images:
+      - url: "https://imagevars.gulfnews.com/2021/07/13/Ruili-1626170218791_17a9f4c592b_medium.jpg"
+        width: 540
+        height: 405
+        isCached: true
   - title: "Facial recognition tech fights COVID-19 in China's Yunnan"
     excerpt: "Facial recognition tech linked to personal health codes has been rolled out in a Chinese city bordering Myanmar as authorities seek to squash a"
     publishedDateTime: 2021-07-13T12:45:00Z

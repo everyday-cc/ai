@@ -53,6 +53,15 @@ related:
         width: 900
         height: 500
         isCached: true
+  - title: "AI and Machine Learning - just part of the furniture?"
+    excerpt: "AI and Machine learning is not going to take over the desk. It's a set of tools that hopefully provide traders and managers with more insight into their business, clients and markets. By embedding these models into the workflow process they have the potential to add value."
+    publishedDateTime: 2021-07-14T11:07:00Z
+    webUrl: "https://www.publicnow.com/view/7D24A8CED78129B34BEC3ABDEF73DF9E26C69381"
+    type: article
+    provider:
+      name: publicnow.com
+      domain: publicnow.com
+    quality: 34
 
 secured: "apEUR958+BfnCMK39Q8uH8gwjFxF3RoyMmCWj6PZQWYPzKPJzd8RcO3x0e/tHb5l/xPmdhC8lKbgGzhfGmTFue68Ogu3Chww+tnSn6OBmRP4DBTEM1Eecd2VcvPZbBL4d8Rcp5s6VBwng3VJFQ1AdA6dIkU4yzOVu8wTSYy7kvpa+v0ce9ZBodYeliYfQtBya0QVtvXgsNZozZLD8LRkabDwnxpUB+b/PspoI8alnOt2nC46OfSLUumUGtBUQpKteClajkOS6/ueAyefnIl6KID2jcGdiUy9v77Ytkw0L/9kJpvnR0we/VlCM+QBwxROihun/+G3Y3xIVtrG7j/4PdcgPB+jItTOYSZo+rbZF6ID7DH3o3yktlwTbFfn28/8Ak5sDHFYG/OngwM7HMVmCGhKsqyXA4rzdrwTjbOdt/ulj29A92REKcGK/dPRqv7Bp2SMNc3jGWqIeE/BmoHT13iDODIhqhb758MIiE9tcDFDPRxXWS1p0PpKUJh8pa4kQnRCr/GcLRWP3gGa5ycdUA==;ttPG71Ub167jewOkzyo5Xg=="
 ---

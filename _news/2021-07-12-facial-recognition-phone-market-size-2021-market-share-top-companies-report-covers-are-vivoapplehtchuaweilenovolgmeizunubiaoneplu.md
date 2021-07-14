@@ -43,6 +43,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence in Drug Discovery Market Share, Opportunities, Future Trends, Top Key Players and Analysis by Forecast to 2027"
+    excerpt: "Global Artificial Intelligence in Drug Discovery Market is expected to reach the market valuation of US$ 6,996.8 million"
+    publishedDateTime: 2021-07-14T07:42:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-drug-discovery-market-share-opportunities-future-trends-top-key-players-and-analysis-by-forecast-to-2027-2021-07-14"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 37
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "OwTyawjBAyuS8ncUQKLA3Ofkd8YAxuDOenKE9KZeVxWMCthdVJpz6d5Ds9beexC765qeFuHMJM84c2pPGQls8OlSykLwZGUimHig0+GPKtjZOUit0K+8AqvacFxG3C1qs2tns5BVYpdVq0OgEuRRf9hMB/oeRzL/W7clU7QclyZ+KgyjI8xpJFqWtfHRGOhRla1FmAwJXbaX+ru4tqSLekGimKWWvSpiO1Q7ByM6Gj4dj0KpqrtJCn6MCY10DOCTTZbSRsJD7BV2QBpMDRQtZVi4NW1Q7mVISVRMDfMy4yXoHe9dFhXr+STQpJjivA34hdcSojEWQ3yTHcvcCpSG0Y2v8RcGIiwv6PUSpqChb60=;nW7cvQxHM4tYZFgcxTd97w=="
 ---

@@ -1,64 +1,30 @@
 ---
 category: news
 title: "Icertis Recognized as the Winner of 2021 Microsoft AI Partner of the Year"
-excerpt: "First and Only Contract Lifecycle Management Company Recognized by Microsoft  for AI Leadership and as a Global ISV Partner of the"
-publishedDateTime: 2021-07-14T04:00:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/icertis-recognized-as-the-winner-of-2021-microsoft-ai-partner-of-the-year-1030603718"
-webUrl: "https://markets.businessinsider.com/news/stocks/icertis-recognized-as-the-winner-of-2021-microsoft-ai-partner-of-the-year-1030603718"
+excerpt: "Icertis, the contract intelligence company that pushes the boundaries of what's possible with contract lifecycle management (CLM),"
+publishedDateTime: 2021-07-14T11:00:00Z
+originalUrl: "https://www.prnewswire.com/il/news-releases/icertis-recognized-as-the-winner-of-2021-microsoft-ai-partner-of-the-year-301332309.html"
+webUrl: "https://www.prnewswire.com/il/news-releases/icertis-recognized-as-the-winner-of-2021-microsoft-ai-partner-of-the-year-301332309.html"
 type: article
-quality: 83
-heat: 143
-published: true
+quality: 53
+heat: -1
+published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
-  - AI
   - Microsoft AI
+  - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/1515204/icertis_Logo.jpg"
-    width: 400
-    height: 400
+  - url: "https://mma.prnewswire.com/media/1515204/icertis_Logo.jpg?p=facebook"
+    width: 600
+    height: 314
     isCached: true
 
 related:
-  - title: "CIBC chooses Microsoft Azure as its primary cloud platform"
-    excerpt: "Microsoft Azure technology will also continue to offer scalable computing power for CIBC’s enterprise data lake and its artificial intelligence (AI)/machine learning (ML) platform to help it provide innovative client solutions. “Leveraging cutting-edge ..."
-    publishedDateTime: 2021-07-12T16:56:00Z
-    webUrl: "https://www.itbusiness.ca/news/cibc-chooses-microsoft-azure-as-its-primary-cloud-platform/118826"
-    ampWebUrl: "https://www.itbusiness.ca/news/cibc-chooses-microsoft-azure-as-its-primary-cloud-platform/118826?amp=1"
-    cdnAmpWebUrl: "https://www-itbusiness-ca.cdn.ampproject.org/c/s/www.itbusiness.ca/news/cibc-chooses-microsoft-azure-as-its-primary-cloud-platform/118826?amp=1"
-    type: article
-    provider:
-      name: IT Business
-      domain: itbusiness.ca
-    quality: 74
-    images:
-      - url: "https://i.itbusiness.ca/wp-content/uploads/2021/07/GettyImages-1254895286-620x250.jpg"
-        width: 620
-        height: 250
-        isCached: true
-  - title: "CIBC formalizes Microsoft Azure as its primary cloud platform"
-    excerpt: "Canadian Imperial Bank of Commerce and Microsoft announced a strategic relationship formalizing Microsoft Azure as CIBC’s primary cloud platform"
-    publishedDateTime: 2021-07-12T06:22:00Z
-    webUrl: "https://ibsintelligence.com/ibsi-news/cibc-formalizes-microsoft-azure-as-its-primary-cloud-platform/"
-    type: article
-    provider:
-      name: IBS
-      domain: ibsintelligence.com
-    quality: 54
-    images:
-      - url: "https://mk0ibsintelligek4gm6.kinstacdn.com/wp-content/uploads/2020/11/CIBC.jpg"
-        width: 300
-        height: 300
-        isCached: true
   - title: "Icertis Recognized as the Winner of 2021 Microsoft AI Partner of the Year"
     excerpt: "Icertis, the contract intelligence company that pushes the boundaries of what's possible with contract lifecycle management (CLM), announced today that it has won the Artificial Intelligence (AI) 2021 Microsoft Partner of the Year Award and been named a Finalist of the Global ISV Microsoft Partner of the Year Award for the fourth year in a row."
     publishedDateTime: 2021-07-13T13:12:00Z
@@ -87,25 +53,7 @@ related:
         width: 580
         height: 339
         isCached: true
-  - title: "Trainocate recognised as #1 Microsoft Learning Partner worldwide"
-    excerpt: "Trainocate Holdings, Sri Lanka’s largest IT and human capability development training provider, has been recognised as the 2021 Microsoft Learning Partner of the Year; the first Asian company ever to have earned the illustrious title."
-    publishedDateTime: 2021-07-11T18:30:00Z
-    webUrl: "https://www.ft.lk/it-telecom-tech/Trainocate-recognised-as-1-Microsoft-Learning-Partner-worldwide/50-720316"
-    type: article
-    provider:
-      name: FT
-      domain: www.ft.lk
-    quality: 34
-  - title: "NEC signs new partnership with Microsoft, to migrate IT to Azure"
-    excerpt: "NEC said it expanded its decades-long collaboration with Microsoft. Through a new multi-year strategic partnership, the companies will leverage Microsoft Azure, Microsoft 365, NEC's network and IT expertise,"
-    publishedDateTime: 2021-07-13T08:29:00Z
-    webUrl: "https://www.telecompaper.com/news/nec-signs-new-partnership-with-microsoft-to-migrate-it-to-azure--1389976"
-    type: article
-    provider:
-      name: Telecompaper
-      domain: telecompaper.com
-    quality: 34
 
-secured: "h0Cw5pKGtAlc3piDW4py7NyJWObZfS2y0VVqQr0IvtCkuHmJ85OYmt9Pe/eYQVhL0GliGd19MGtphfqhwZfXb8AoNTBzyFCXdJrG0iwlnafQvBDsskASLHMabZZ3dbLuKD5rYxZWr77l24zU5Aa9cQoei7du/1hHUXg5J2YtQuyfcucasJKeJtUlTww7tN7DOJ6kaaNnjtYLRIDrMWP9fvuCacCTlgOa+rFEoCmO3VZ1vVtTbK0H023+AESWftN7oHyHCykqPMr1r5GC2zsBmKXs+DlWd9bG8d+pgxkZktTrT0TM6+wHF1FRdTmC+C7cG37Pmge7xURKc/vJ9Tf0Wwmy2fLJj/TRcgFdv7d2d7A=;8n+pC+hXzrlf3j5yoHUvxA=="
+secured: "Ve6ltYZ3Op9zxzHJH7agX7HZiGPhvERjbSHqo5t2llPrG7enOYLUMpnXTFKZF0CtP6xYQ4z9SYl1uNsw+EVwtUTuYOgVKhemQxZ9gyntujKIlLfgEuxW01/JpUXXupKUC/e1xBMaZt/RfZMVuWYDj5S2nVsarbpkoZbZsCGU6+gRPf/RSwxcA8e3PA5UTqcEfoKBkE2vorSMP5gq3O2pnIA67lKFe6gt89utgCksgNdiOtBRki0olD05QOv60EMAYJdvbM6KL0G6/gIQlwXW65Hu9/eKd+DKhFZ6twV6WsLc92VynMiZ8oXLvAewtxKT6PlnTLDurAiZoQEyC6CtIQ5rth0DV5notc3vsQS7GtU=;93bS65n+yzmJw8gN5rE5VA=="
 ---
 

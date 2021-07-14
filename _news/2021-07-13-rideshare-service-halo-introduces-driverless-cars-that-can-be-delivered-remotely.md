@@ -7,7 +7,7 @@ originalUrl: "https://hypebeast.com/2021/7/halo-driverless-vehicles-las-vegas"
 webUrl: "https://hypebeast.com/2021/7/halo-driverless-vehicles-las-vegas"
 type: article
 quality: 34
-heat: -1
+heat: 34
 published: false
 
 provider:
@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Halo and Las Vegas Launch Driverless Car Service Powered by T-Mobile 5G"
-    excerpt: "G is beginning to power everything from connected farms to connected cars! Recently, Halo launched one of the first commercial driverless car services in the U.S. running on the T-Mobile (NASDAQ: TMUS) 5G network in Las Vegas."
-    publishedDateTime: 2021-07-09T18:57:00Z
-    webUrl: "https://www.marketwatch.com/press-release/halo-and-las-vegas-launch-driverless-car-service-powered-by-t-mobile-5g-2021-07-09"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 69
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Halo and Las Vegas Launch Driverless Car Service Powered by T‑Mobile 5G"
     excerpt: "Driverless Halos solve transportation challenges with a people first approach to autonomous cars. Halo claims to have launched one of the first commercial driverless car services in the U.S. running on the T-Mobile 5G network in Las Vegas."
     publishedDateTime: 2021-07-13T22:23:00Z

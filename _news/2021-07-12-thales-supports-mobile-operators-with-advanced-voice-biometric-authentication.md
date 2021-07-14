@@ -43,20 +43,6 @@ related:
         width: 480
         height: 270
         isCached: true
-  - title: "Voice biometrics spoof detection catching up, EAB speaker says"
-    excerpt: "Voice biometric systems, counter-measures against attacks against them, and our understanding of how well those counter-measures work have come a long way."
-    publishedDateTime: 2021-07-09T18:02:00Z
-    webUrl: "https://www.biometricupdate.com/202107/voice-biometrics-spoof-detection-catching-up-eab-speaker-says"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 24
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2018/01/09162857/voice-biometrics-large2.jpg"
-        width: 900
-        height: 499
-        isCached: true
 
 secured: "qPRS8rXHHj2AxyLScDeerDXQp8JXR5Z3kqDv4yCUtfvbV37lSU7DcHtkrH2OJDkRNWYkJYZyqsfTYPKRNXjcE9qKK6TeUBrtT5uMfao/8flVT9R8LoU9G+YF8v1o9gn7aNIr+XrfVphFMETDgsAXQRt8RhAroWfZk0I5u0rGYu/GNcMqjOpGXdo1QJkWGuAllLKc1CAgqwkBy7cP59kubSVMZ6FwwhkXqbEQY8OFtElHDVrKMqxbxRppHryXcGjufF4Xza/5koslzYJ+69lZdCsh4A3itcEIiDvVQ4O3GqPLH3+7Poxlrlwa6IMU7uiEs3cHsYS6arQBFuIiAhRKLWLz4ZLUTzh3HkGjr4rmrGk=;usWmpFWmZLCQne8LkYDM4g=="
 ---
