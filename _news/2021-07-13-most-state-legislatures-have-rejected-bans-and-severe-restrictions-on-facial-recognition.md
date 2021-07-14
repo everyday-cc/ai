@@ -117,6 +117,20 @@ related:
         width: 932
         height: 470
         isCached: true
+  - title: "Beware facial recognition: Australia risks embracing mass surveillance, ‘broader protections’ needed"
+    excerpt: "Australia’s outgoing human rights commissioner has sounded the alarm about Australia “sliding into mass surveillance” if it continues to embrace the use of facial recognition technology. Commissioner Edward Santow also criticised governments using ..."
+    publishedDateTime: 2021-07-14T01:56:00Z
+    webUrl: "https://www.crikey.com.au/2021/07/14/beware-facial-recognition-risks-embracing-mass-surveillance/"
+    type: article
+    provider:
+      name: Crikey
+      domain: crikey.com.au
+    quality: 24
+    images:
+      - url: "https://www.crikey.com.au/wp-content/uploads/2021/07/14-07-21-facialrecognition22.jpg"
+        width: 740
+        height: 400
+        isCached: true
 
 secured: "nXarITmQgRnKaADGnsQxpft1kX3pyctHZDKhuESgsyUpxbePvOLJI9/JZDbFIC4vZfxsRmohSO79fz+WwFPpy39LxUMrkHbDsN1WGvcdN38ZzBf893qXy3ZEUzPWqTZYBXcRxb5K6NigGtlM3eTDhAMqi0P+QxYxH4i4xnas8ke41oSDCrbY1Ti3rrWJDs6T2pkob/eTWmauGqKL5HSEIM0ndHq/70N5dmxeHRyDaq3ak3GQnsCjdo3977oJkHpq8LbI9zmtgC0y2GoUU+MbNDQOFEbZl+AB8FHQRi8j9Vo5o5x+b5gaNsgH2PU9yWM5hVNCObIvq0MhZcixxLhs4RMewb5cPXbnRfa5aJWnzcyr6yfxFGlTFO4JSgBhhy6HWMSTNg3qpTENun5cRTl0VAjX47cz2JWD5R+5REzBv/9l+W79/kRUDuCLUaaitCEc/cV2a1rLuFUkNLQv7KrIxXf6mjuDaB6wUO7UxaFzKBili3AoEhdKmw+RIUdKwaoK0gynYj44z86bySnAye//kw==;ilSVqF1th0aWFhqEdokRlw=="
 ---

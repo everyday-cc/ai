@@ -6,6 +6,9 @@ publishedDateTime: 2021-07-13T21:13:00Z
 originalUrl: "https://www.marketwatch.com/press-release/product-transformation-market-outlook-world-approaching-demand-growth-prospect-2021-2026-2021-07-13"
 webUrl: "https://www.marketwatch.com/press-release/product-transformation-market-outlook-world-approaching-demand-growth-prospect-2021-2026-2021-07-13"
 type: article
+quality: 24
+heat: 24
+published: false
 
 provider:
   name: MarketWatch

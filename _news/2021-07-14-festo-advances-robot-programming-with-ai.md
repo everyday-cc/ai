@@ -6,8 +6,8 @@ publishedDateTime: 2021-07-13T21:47:00Z
 originalUrl: "https://www.therobotreport.com/festo-advances-robot-programming-with-ai/"
 webUrl: "https://www.therobotreport.com/festo-advances-robot-programming-with-ai/"
 type: article
-quality: 84
-heat: 84
+quality: 86
+heat: 86
 published: true
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI
   - AI in Robotics
+  - Computer Vision
 
 images:
   - url: "https://www.therobotreport.com/wp-content/uploads/2021/07/festo-featured-web.jpg"

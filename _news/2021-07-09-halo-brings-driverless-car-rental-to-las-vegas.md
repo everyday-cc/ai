@@ -43,20 +43,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Las Vegas to Get 5G Driverless Car Service, Courtesy of Halo and T-Mobile"
-    excerpt: "Las Vegas will soon ride in driverless cars powered by 5G, thanks to a partnership between T-Mobile and Halo. Autonomous driving represents an appealing and flourishing market in this day and age. And we’ve got all the tools to make that happen."
-    publishedDateTime: 2021-07-09T07:12:00Z
-    webUrl: "https://www.autoevolution.com/news/las-vegas-to-get-5g-driverless-car-service-courtesy-of-halo-and-t-mobile-164997.html"
-    type: article
-    provider:
-      name: autoevolution.com
-      domain: autoevolution.com
-    quality: 38
-    images:
-      - url: "https://s1.cdn.autoevolution.com/images/news/las-vegas-to-get-5g-driverless-car-service-courtesy-of-halo-and-t-mobile-164997-7.jpg"
-        width: 728
-        height: 300
-        isCached: true
   - title: "Rideshare Service Halo Introduces Driverless Cars That Can Be Delivered Remotely"
     excerpt: "“Driverless cars! Fueling this kind of ... come to a full stop upon detecting a hazard. The cars also use Artificial Intelligence to learn the driving patterns of humans over time."
     publishedDateTime: 2021-07-12T23:10:00Z
@@ -71,6 +57,15 @@ related:
         width: 960
         height: 480
         isCached: true
+  - title: "Halo and Las Vegas Launch Driverless Car Service Powered by T‑Mobile 5G"
+    excerpt: "Driverless Halos solve transportation challenges with a people first approach to autonomous cars. Halo claims to have launched one of the first commercial driverless car services in the U.S. running on the T-Mobile 5G network in Las Vegas."
+    publishedDateTime: 2021-07-13T22:23:00Z
+    webUrl: "https://itwire.com/automotive/halo-and-las-vegas-launch-driverless-car-service-powered-by-t‑mobile-5g.html"
+    type: article
+    provider:
+      name: ITWire
+      domain: itwire.com
+    quality: 19
 
 secured: "otwrV/THEnQQk8JWvcm4YeoHghSLF4CtxyViFa8xm+CjIlyS2LJnpfnk/rPaS4nnJE7j+cMYJwPfsUfcGhkGXq0P3ajeq61qidERJ3DCECRlgpoqErW+FVluLOW3MZ4z3/aQxBRKJM78IwwPrBTaoGECi1akGiCdrKFwFjLQlqoCxNRdadeTtx5VeegdkIoG4sjAzN9GuCehMZluJc98BIdQPs6MiqvlEERbEJ4zAe16NpPm23niU/i0hsAOtVXgtDHURJTavLREdtxZRKtun0PdN+gMzkOwbszAX6HmZHeqUrev27rIKABPCnfZQ07E9BuzeVn76FmvPQvXQD6JXrJWjALjbqs698EVXoBQg37slvU/0UM4l3Wf99E3u4y2K5OUv2e7a5qqeLATi0cHxwjkQUnj7DwQGR9q/j5JE3KSksqDqJ0C22KZDaA62LaRApNzCmuxqajpEiZUMPwGVshJflU+K92Iw7m3D/kkmS5sahcAP086jaczg2/4XGVykfhZ2Ldd+duQEyb1ZlksBQ==;pkCbT7aEkjeKM7R8jzmsRQ=="
 ---

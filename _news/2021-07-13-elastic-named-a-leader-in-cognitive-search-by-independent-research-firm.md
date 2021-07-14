@@ -61,6 +61,20 @@ related:
       name: Morningstar%2c Inc.
       domain: morningstar.com
     quality: 4
+  - title: "Grazitti Interactive's SearchUnify Cited as a Strong Performer Among Cognitive Search Platforms in Latest Evaluations by Independent Research Firm"
+    excerpt: "July 12, 2021 /PRNewswire/ -- SearchUnify, a recognized unified cognitive platform by Grazitti ... data from commonly used SaaS apps, including Microsoft Dynamics 365, Salesforce, Jira, WordPress ..."
+    publishedDateTime: 2021-07-12T18:37:00Z
+    webUrl: "https://www.prnewswire.co.uk/news-releases/grazitti-interactive-s-searchunify-cited-as-a-strong-performer-among-cognitive-search-platforms-in-latest-evaluations-by-independent-research-firm-827882187.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.co.uk
+    quality: 0
+    images:
+      - url: "https://mma.prnewswire.com/media/1535704/SearchUnify_Logo.jpg?p=facebook"
+        width: 852
+        height: 446
+        isCached: true
 
 secured: "/INx/24jrUf6M1nOaaBhbTJzwo/D6Cs/eAS0uiS50p/KpNdjFqL0z7ZcoIp/ET+uyuaCwzbtBsLODpKkg9ReQe7C6LuYuzrr7uF+WU/0PbxgzCNMygc3C77jVMAojFUktjRGO2xmmfttGaMFkatmUzecxhusi8S4hOsgMCWIN1xFuGWZI6K4sSMb28MzsBpmGs3tX+0k4ZrYE4Q1Y5lJisfdHjywkmjiDxd6v9V5enlliVsUDp5/72koyxq+pCh35Siu+mYMjtwbNyth5naO2Fflf6+fzaP4xPww0o5eOQdhX5ZuBJZUok+1VT5q6od3JeqMo9+9Tlyzqz6MPk1pAYn25A2je0RHkZPhCus6JoA=;W4dvXRUA4vcT9ghJI8sxjg=="
 ---

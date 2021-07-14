@@ -9,7 +9,7 @@ ampWebUrl: "https://www.crowdfundinsider.com/2021/07/177735-digital-transformati
 cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/07/177735-digital-transformation-microsoft-azure-cloud-platform-to-be-used-by-canadian-imperial-bank-of-commerce/amp/"
 type: article
 quality: 75
-heat: 135
+heat: 125
 published: true
 
 provider:
@@ -44,17 +44,6 @@ related:
         width: 620
         height: 250
         isCached: true
-  - title: "CIBC Announces Multi-Year Agreement to Use Microsoft’s Cloud-Based Platform"
-    excerpt: "( MSFT) to use Microsoft Azure as its primary cloud platform. The agreement will accelerate the bank's digital transformation and cloud-first approach. The multi-year investment includes CIBC cloud technology,"
-    publishedDateTime: 2021-07-09T05:49:00Z
-    webUrl: "https://www.nasdaq.com/articles/cibc-announces-multi-year-agreement-to-use-microsofts-cloud-based-platform-2021-07-09"
-    ampWebUrl: "https://www.nasdaq.com/articles/cibc-announces-multi-year-agreement-to-use-microsofts-cloud-based-platform-2021-07-09?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/cibc-announces-multi-year-agreement-to-use-microsofts-cloud-based-platform-2021-07-09?amp"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 67
   - title: "Microsoft (MSFT) Azure Cloud Leveraged by Canada-Based CIBC"
     excerpt: "Microsoft’s MSFT Azure cloud platform is being leveraged by Canadian Imperial Bank of Commerce (“CIBC”) to revamp its business operations, boost operational efficiency and enhance client experiences."
     publishedDateTime: 2021-07-12T14:40:00Z

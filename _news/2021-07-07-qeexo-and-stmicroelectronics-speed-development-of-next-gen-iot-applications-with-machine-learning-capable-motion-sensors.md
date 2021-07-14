@@ -5,6 +5,8 @@ excerpt: "Our one-click, fully-automated Qeexo AutoML platform allows customers 
 publishedDateTime: 2021-07-07T15:00:00Z
 originalUrl: "https://www.wallstreet-online.de/nachricht/14127293-qeexo-and-stmicroelectronics-speed-development-of-next-gen-iot-applications-with-machine-learning-capable-motion-sensors"
 webUrl: "https://www.wallstreet-online.de/nachricht/14127293-qeexo-and-stmicroelectronics-speed-development-of-next-gen-iot-applications-with-machine-learning-capable-motion-sensors"
+ampWebUrl: "https://www.wallstreet-online.de/_amp/nachricht/14127293-qeexo-and-stmicroelectronics-speed-development-of-next-gen-iot-applications-with-machine-learning-capable-motion-sensors"
+cdnAmpWebUrl: "https://www-wallstreet--online-de.cdn.ampproject.org/c/s/www.wallstreet-online.de/_amp/nachricht/14127293-qeexo-and-stmicroelectronics-speed-development-of-next-gen-iot-applications-with-machine-learning-capable-motion-sensors"
 type: article
 
 provider:
@@ -15,6 +17,6 @@ topics:
   - Machine Learning
   - AI
 
-secured: "/a2uOrQBjwEEUmuh6Kvr58Dp3CkWRBLh9NcE2y8v/NlSRUclZp4iHbgsKOSppwID56s4YA8aeKrVlwiR8CiJ/gPnQYc179z2cja8O3msCr/RWebvZsNPoAQPnZztvGSgzO27B3f5I0wpGpeRtsuA2Fd+hSlG3fdgahK8I3hqewAWysJtc8Utu9Fan6RlADV5MCpSdUDI8ynawVP96/5H6RU3L4B+WQgF4QUtHPJH1yA7wowjISELd1ssv0OV2IIgwGD2bgC4c2SpBYAPC5LOHFbqaOIzT6D8zqV5ph9uNqmJqh0U/x7OrLDcqZLFdpfUaXjP7tCbNYLwCbk3FFHDumnk+Op/lyj8NNllvLA2Zaw=;bkCnwZJPFM6xtyO5RPrBwQ=="
+secured: "9jN8i4f7EOFieVid5Jk31EvOlYzP5hwmNM4+kSQnOO4JkmPR7AVCtLBZJz83wsyVSG7+3KjZFjen+QJ4BmixKUmUCwgm/ixLR7750x4Z7B9BKHrpgcmCsKu//GrETcIkvK+RlKGnbYZ7KrVHu7b2w92cwaICrTgS0vdICk6740ql+6E16m+MQ/3+C5MHdBOmHCBeMe2hgx/VxY8/hbSBOiVD/W2dpx+JZrpOWNaHBeYDQp0ez/qRri1GyaLSJFhDgz5ZSmapjAMD1hBCLNq9F4NQv3/M4rfMAOc4vUdc0qnItZ86I+YBAQLP7S/jWtxMeAJuC+4lLLEIECxau/wO/sF+cb/rWt7rWyCRWm6Zlpg=;JXNxYdEIBpeOyWsCOyhXMA=="
 ---
 

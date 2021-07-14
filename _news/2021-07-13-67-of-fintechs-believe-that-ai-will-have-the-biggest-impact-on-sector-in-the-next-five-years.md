@@ -6,6 +6,9 @@ publishedDateTime: 2021-07-13T09:30:00Z
 originalUrl: "https://financialit.net/news/artificial-intelligence/67-fintechs-believe-ai-will-have-biggest-impact-sector-next-five-years"
 webUrl: "https://financialit.net/news/artificial-intelligence/67-fintechs-believe-ai-will-have-biggest-impact-sector-next-five-years"
 type: article
+quality: 8
+heat: 8
+published: false
 
 provider:
   name: Financial IT

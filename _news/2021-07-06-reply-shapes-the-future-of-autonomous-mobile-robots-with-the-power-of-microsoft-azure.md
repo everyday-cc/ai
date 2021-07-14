@@ -1,20 +1,20 @@
 ---
 category: news
 title: "Reply Shapes the Future of Autonomous Mobile Robots with the Power of Microsoft Azure"
-excerpt: "Reply announced today that it has developed an end-to-end solution architecture for autonomous mobile robots (AMR) on Microsoft Azure that enables new"
-publishedDateTime: 2021-07-06T11:30:00Z
-originalUrl: "https://www.businesswire.com/news/home/20210706005133/en/Reply-Shapes-the-Future-of-Autonomous-Mobile-Robots-with-the-Power-of-Microsoft-Azure"
-webUrl: "https://www.businesswire.com/news/home/20210706005133/en/Reply-Shapes-the-Future-of-Autonomous-Mobile-Robots-with-the-Power-of-Microsoft-Azure"
+excerpt: "The solution combines Microsoft Azure services ... Reply integrates Azure Cognitive Services, Machine Learning and DevOps as well as Power Apps and Power BI. Thanks to Azure's intelligent service ..."
+publishedDateTime: 2021-07-06T07:38:00Z
+originalUrl: "https://www.morningstar.com/news/business-wire/20210706005133/reply-shapes-the-future-of-autonomous-mobile-robots-with-the-power-of-microsoft-azure"
+webUrl: "https://www.morningstar.com/news/business-wire/20210706005133/reply-shapes-the-future-of-autonomous-mobile-robots-with-the-power-of-microsoft-azure"
 type: article
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: Morningstar%2c Inc.
+  domain: morningstar.com
 
 topics:
   - Microsoft AI
   - AI
 
-secured: "WM1oQ4dIwAVjf6RKCuWt/NrvmaZtXHulfymRvn9y0wLubMN9ypNeo9HZzea1Wkz7d/32xG8NieLiGmvlcYjq0jW2+53mqNrx2ruoNrRi8yw0p3wXDZ8koR10mwO2zLs8B8gziDopATHAxaXIbZ4S9lUS2u36+so6lmPuOM99KPlvtXoW9uKRdnwd8XeDkHWt1dwCmByYLksGU7dxWdohD0TJ7lpoS/OKq+N3yg/xOf61lOHsrRc079aQXm6NASyUV/1tfOLydgQ3cZq+5F0AmcAZph3eEAtEsi/fdzQdf2IyHCJqftyMyb5c+NcvWZEeLTGFKLXTLJhFh0YCs/YWx3G9IdvfHiDI9yrPCuqeYI5CR8kbpYc/6a5uooTXJplOivI6beAZ75wh9PyAWlrXahlwPZk0DpobyDHshhMUXrsg6uCSoQht8Dpl/dY5zFgWsBg2Ood9wKl+tRA8f1N6hxSWsBCHDiPJf/3iGWFcPtPu1G/TpXCEMKwf9zPMzAcnAe00D26TfT0YGU2ljw/UpQ==;Ukz6yAbLbeCIaDS5BHA+aA=="
+secured: "G0PUVMxk08Uw+1Zhd8n87+77PCdPL+y1lUJH9sInLZeOPZ9xIYTCX6l1ohWsuFzwW4hquS6cHtgnFGIJL7oxhjLR2EuMrlSM0qPK2U6JhQE6jyyjD/YefEtcYy4TMF65hfXmod5i0F42fj8PzIgvUPlLALFyzJ9Nm/+OvJvTMmfaMRZBtcLOAqtnUaO/EMfoInu2QiB+uV2Z9imsbfntE2YVeW5wFRQbh51h+ZXoFtQCeig/Zd7B8LefWKea44M2KueO68ojPBGIWlvUFrBkUCINa6XXj2Y5zzHOE8cNIYZC0r2g6rSiwrRmetSOCkwt9SGsbqsg995RA4L1hiFrymYb4mrLtkYDYIWZ4ZWKBX0=;rVsOZg7P841yigRMgxhzHg=="
 ---
 

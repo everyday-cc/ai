@@ -9,7 +9,7 @@ ampWebUrl: "https://sea.mashable.com/tech/16612/tencent-uses-facial-recognition-
 cdnAmpWebUrl: "https://sea-mashable-com.cdn.ampproject.org/c/s/sea.mashable.com/tech/16612/tencent-uses-facial-recognition-to-stop-kids-from-gaming-at-night?amp=1"
 type: article
 quality: 89
-heat: 199
+heat: 189
 published: true
 
 provider:
@@ -146,20 +146,6 @@ related:
       - url: "https://files.texaspolicy.com/uploads/2021/06/23154309/Police-1350x759.jpg"
         width: 1350
         height: 759
-        isCached: true
-  - title: "How Tencent’s Facial Recognition System Ensures Minor Gamers Stick To Curfew Regulations"
-    excerpt: "China-based Tencent Games recently launched a facial recognition system to prevent minors from playing video games past their assigned time. The initiative, called the Midnight Patrol, will conduct a face screening for accounts registered with real names and played for a certain amount of time at night."
-    publishedDateTime: 2021-07-09T06:30:00Z
-    webUrl: "https://analyticsindiamag.com/how-tencents-facial-recognition-system-ensures-minor-gamers-stick-to-curfew-regulations/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 30
-    images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/07/tencent.jpg"
-        width: 1600
-        height: 900
         isCached: true
   - title: "China has long used facial recognition as a means of state control – now gamers are being targeted"
     excerpt: "Tencent Gaming is using facial recognition tech to stop Chinese kids gaming at night. But is it a helpful public health exercise, or a more sinister attempt to control human behaviour?"

@@ -28,47 +28,47 @@ images:
     isCached: true
 
 related:
-  - title: "Machine Learning Market Research Report with Size, Share, Value, CAGR, Outlook, Analysis, Latest Updates, Data, and News 2021-2028"
-    excerpt: "At the beginning of 2021, COVID-19 disease began to spread around the world, millions of people worldwide were infected"
-    publishedDateTime: 2021-07-11T22:42:00Z
-    webUrl: "https://www.marketwatch.com/press-release/machine-learning-market-research-report-with-size-share-value-cagr-outlook-analysis-latest-updates-data-and-news-2021-2028-2021-07-11"
+  - title: "Deep Learning Software Market Size 2021-2027 | Brief Analysis by Type, Top Manufacturers, Trends and Future Prospects"
+    excerpt: "Jul (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry\" “Deep Learning Software Market” report"
+    publishedDateTime: 2021-07-13T06:21:00Z
+    webUrl: "https://www.marketwatch.com/press-release/deep-learning-software-market-size-2021-2027-brief-analysis-by-type-top-manufacturers-trends-and-future-prospects-2021-07-13"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 39
+    quality: 46
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Healthcare Artificial Intelligent Market Research Report with Size, Share, Value, CAGR, Outlook, Analysis, Latest Updates, Data, and News 2021-2028"
-    excerpt: "With increasing use of latest technology such as artificial intelligence, its implementation in different sectors has"
-    publishedDateTime: 2021-07-12T08:33:00Z
-    webUrl: "https://www.marketwatch.com/press-release/healthcare-artificial-intelligent-market-research-report-with-size-share-value-cagr-outlook-analysis-latest-updates-data-and-news-2021-2028-2021-07-12"
+  - title: "Facial Recognition Phone Market Size 2021: Market Share, Top Companies report covers are Vivo,Apple,HTC,Huawei,Lenovo,LG,Meizu,Nubia,Oneplu"
+    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Jul 12, 2021 (The Expresswire) -- “ Facial Recognition Phone Market “ Size, Status and Market Insights 2021, ,Facial Recognition Phone Market By Type (Operating System ..."
+    publishedDateTime: 2021-07-12T12:58:00Z
+    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-phone-market-size-2021-market-share-top-companies-report-covers-are-vivoapplehtchuaweilenovolgmeizunubiaoneplu-2021-07-12"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 31
+    quality: 35
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Self-Driving Cars and Light Trucks Market Research Report with Size, Share, Value, CAGR, Outlook, Analysis, Latest Updates, Data, and News 2021-2028"
-    excerpt: "This report elaborates the market size, market characteristics, and market growth of the Self-Driving Cars and Light"
-    publishedDateTime: 2021-07-12T17:12:00Z
-    webUrl: "https://www.marketwatch.com/press-release/self-driving-cars-and-light-trucks-market-research-report-with-size-share-value-cagr-outlook-analysis-latest-updates-data-and-news-2021-2028-2021-07-12"
+  - title: "Global Conversational AI Market 2021-2026: Competitive Analysis, Impact of COVID-19, Ansoff Analysis - ResearchAndMarkets.com"
+    excerpt: "The “Global Conversational AI Market (2021-2026) by Type, Distribution Channel, Application and Geography - Competitive Analysis, Impact of COVID-19, Ansoff Analysis” report has been added to ResearchAndMarkets.com’s offering. The Global ..."
+    publishedDateTime: 2021-07-09T09:07:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/business-technology-0570205e10ea434e99a88642106e8f36"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 15
+      name: Associated Press
+      domain: apnews.com
+    quality: 10
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
 
 secured: "Cg2pq1qn+Tf9q615p5h/3fXUai0cxW7Rz9moEgn3hLOvFshKUvSHgjJY0IZYt38EJuXUBiOmQNEEwP91b/O5OzV1x0OK39LPEG22OhG+SZKA8U/cLZQXHgJPu3MV63RaYe4/60Sx8gt9/TisTVplMoiBPkgEPAgiLi9raOgmUdsbU5dYWB0HYC48XGYulYHZryjtqI/rSsE7pmcx84JG/WRg+K0EPKIuafuujnly+udQxBo6DYSEWM4wdVWuqGhqUqXbElFYicdfiIPj1M6bwgXleOKNUWpB5D/glF1b89C2RT3bUWk7TBrok62Z4SMASENjvKLkkKph06gi5tu4uzKtRXfQWWNmlsa/KkI5p64=;eq7Gx9VzaBlHmb0HwRegJA=="

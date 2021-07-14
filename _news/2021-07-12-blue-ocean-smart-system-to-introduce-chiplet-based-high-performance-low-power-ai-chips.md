@@ -6,6 +6,9 @@ publishedDateTime: 2021-07-12T08:54:00Z
 originalUrl: "https://www.tmcnet.com/usubmit/-blue-ocean-smart-system-introduce-chiplet-based-high-/2021/07/12/9406356.htm"
 webUrl: "https://www.tmcnet.com/usubmit/-blue-ocean-smart-system-introduce-chiplet-based-high-/2021/07/12/9406356.htm"
 type: article
+quality: 25
+heat: 25
+published: false
 
 provider:
   name: TMCnet

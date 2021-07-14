@@ -23,6 +23,17 @@ images:
     height: 986
     isCached: true
 
+related:
+  - title: "Israeli Startup Aidoc Raises $65M for AI-Powered Medical Imaging Platform"
+    excerpt: "Aidoc, a Tel Aviv-based provider of artificial intelligence (AI) solutions for medical imaging, announced it has raised $65M in Series C funding led by General Catalyst, bringing its total funding to $140M."
+    publishedDateTime: 2021-07-13T22:33:00Z
+    webUrl: "https://hitconsultant.net/2021/07/13/israeli-startup-aidoc-raises-65m-for-ai-powered-medical-imaging-platform/"
+    type: article
+    provider:
+      name: HIT Consultant
+      domain: hitconsultant.net
+    quality: 16
+
 secured: "ARYmjp7j3xIQN7UoI2cQ0Hgj/uboEgjuxElboZlBOaTe8/aLnxaWxBPifcMIVbqJdK8U3yDMcXi/HuCgHFSE7dHfKLYA9URIzRHlM7FR0SLCgimmOgiMtBgMXEu6uJceAtxxXbttuAmasgS8n2L/tkUOho88d+1Jp+8ZA5wpTLWlgB+RQ6JAytKo3I+rEMQb2wNi7MTjYc2LK4Ns3hfHJBcqMxw6Mq5BG3DBF9yPnydWFbvFL5nix6JL6nExlmZFvBx/PFuGSGGzlFPLinxiOVF+3TMrv7AHSj0X5xPtuX6L5P7j14jpbvbl74TqUywcgrAPSCF08k3BAfSYn1ozp/3NXlq5pN75qugLs9LLK1A=;CSRiD3ezjpqM0/hhBExZXA=="
 ---
 

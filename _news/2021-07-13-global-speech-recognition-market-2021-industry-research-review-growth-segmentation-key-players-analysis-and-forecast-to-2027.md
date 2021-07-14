@@ -135,20 +135,6 @@ related:
         width: 1200
         height: 585
         isCached: true
-  - title: "Voice Recognition Market 2021 Comprehensive Analysis, Future Estimations, Growth Drivers and Forecast to 2030"
-    excerpt: "Jul 09, 2021 (AmericaNewsHour) -- In a recent published report, Kenneth Research has updated the market report for Voice Recognition Market for 2021 till 2030. Report further now discusses; the various strategies to be adopted or being adopted by the ..."
-    publishedDateTime: 2021-07-09T05:44:00Z
-    webUrl: "https://www.marketwatch.com/press-release/voice-recognition-market-2021-comprehensive-analysis-future-estimations-growth-drivers-and-forecast-to-2030-2021-07-09"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 35
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Artificial Intelligence as a Service Market 2021 Segmentation and Analysis by Recent Trends, Development and Growth by Trending Regions by 2030"
     excerpt: "Jul 09, 2021 (AmericaNewsHour) -- In a recent published report, Kenneth Research has updated the market report for Artificial Intelligence as a Service Market for 2021 till 2030. Report further now discusses; the various strategies to be adopted or being ..."
     publishedDateTime: 2021-07-09T11:34:00Z
@@ -163,15 +149,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Global Machine Learning in Retail Market Size, Status and Forecast 2021-2027"
-    excerpt: "Pages Report] Check for Discount on Global Machine Learning in Retail Market Size, Status and Forecast 2021-2027 report by QYResearch Group. In the retail sector, top competitors like Amazon, Walmart,"
-    publishedDateTime: 2021-07-09T07:50:00Z
-    webUrl: "https://www.reportsnreports.com/reports/4655618-global-machine-learning-in-retail-market-size-status-and-forecast-2021-2027.html"
-    type: article
-    provider:
-      name: ReportsnReports
-      domain: reportsnreports.com
-    quality: 31
   - title: "AI in IoT Market Analysis By Technological Advancement, Regional Outlook And Forecast to 2027"
     excerpt: "Latest released the research study on Global AI in IoT Market Report Forecast 2021 2027 offers a detailed overview of the factors influencing the global business scope AI in IoT Market research report shows the latest market insights current situation"
     publishedDateTime: 2021-07-10T13:47:00Z
@@ -210,15 +187,6 @@ related:
       name: manometcurrent.com
       domain: manometcurrent.com
     quality: 14
-  - title: "Global Artificial intelligence (AI) in Supply Chain and Logistics Market Size, Status and Forecast 2021-2027"
-    excerpt: "Pages Report] Check for Discount on Global Artificial intelligence (AI) in Supply Chain and Logistics Market Size, Status and Forecast 2021-2027 report by QYResearch Group. Market Analysis and Insights: Global Artificial intelligence (AI) in"
-    publishedDateTime: 2021-07-09T08:01:00Z
-    webUrl: "https://www.reportsnreports.com/reports/4656198-global-artificial-intelligence-ai-in-supply-chain-and-logistics-market-size-status-and-forecast-2021-2027.html"
-    type: article
-    provider:
-      name: ReportsnReports
-      domain: reportsnreports.com
-    quality: 13
   - title: "Artificial Intelligence in Agriculture Market Size - Detailed Analysis of Current Industry Figures with Forecasts Growth By 2025"
     excerpt: "Global Artificial Intelligence in Agriculture Market industry valued approximately USD 432.2 million in 2016 is anticipated to grow with a healthy growth rate of more than 22.5% over the forecast period 2017-2025."
     publishedDateTime: 2021-07-13T10:44:00Z

@@ -6,6 +6,9 @@ publishedDateTime: 2021-07-13T21:48:00Z
 originalUrl: "https://breakingdefense.com/2021/07/secdef-austin-commits-us-to-responsible-ai/"
 webUrl: "https://breakingdefense.com/2021/07/secdef-austin-commits-us-to-responsible-ai/"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: Breaking Defense

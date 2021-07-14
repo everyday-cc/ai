@@ -1,11 +1,14 @@
 ---
 category: news
 title: "Zepp Health Introduces Next Gen Smart Wearable Chip, Smartwatch OS and Blood Pressure Measurement at Annual Developers Conference"
-excerpt: "Third Gen Smart Device AI Chip Boosts Performance. Today, Zepp Health announced the company's new generation of smart wearable chip Huangshan 2s. It offers subs"
+excerpt: "Huangshan 2s is the first wearable AI processor that employs a dual-core RISC-V instruction set architecture. The company is excited to have developed a wearable chip that so well balances function, performance and power consumption. It will continue to be ..."
 publishedDateTime: 2021-07-13T11:54:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/2021/07/13/9407429.htm"
-webUrl: "https://www.tmcnet.com/usubmit/2021/07/13/9407429.htm"
+originalUrl: "https://www.tmcnet.com/usubmit/-zepp-health-introduces-next-gen-smart-wearable-chip-/2021/07/13/9407429.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-zepp-health-introduces-next-gen-smart-wearable-chip-/2021/07/13/9407429.htm"
 type: article
+quality: 10
+heat: 10
+published: false
 
 provider:
   name: TMCnet
@@ -15,6 +18,12 @@ topics:
   - AI Hardware
   - AI
 
-secured: "qKtHE0hYJJtA02MzYTFd8chm7fQPhbwxCIXKpgdxdoJdQFG73sD4Qpcle/5DuVevnxvuJbRNO2/yQc1Js2QZmRfUH6wWf12KEKKoZC5G2nZcXUWxNHvl1/obTxTL2r9xVrQAEOCJVR8LAiV+pBpjh5LdUaVitkEh+piMpTNnkXkYpATVHpIVoHNoOHR74rKs0j9dLWki2sK36pDg3kIiF+6ghT1XAE4iS/jwkfdgts+2qGtYCrIaxEY4V11TXg+XrzylSb5OMOPLwXjOhlJoWhR47k/GjfLekZoZjVcOqdt47fmLxaeJ1AGdceAFYRxCa6uIU8SyofovAxY2ae65eXwCPyubxXCyxHhe8AnbBP+jHF5EjhTptgFUkavbyqbvFMYBGumbmy5+0v+S0LPX0HVYTejqmcorzR/JQG1T7txINAiGYJsqlTuVQjEWkSSytrzw+yAWe+rY6Iy0aK6Q3z1dNV5Y5UrpCYaIZPU6Izj9w88iclE7AqthTbL1smL65m8W18jSpa0WLbax2PZCoQ==;jIfCQSRqQMhyl6P4kWpbhA=="
+images:
+  - url: "https://mma.prnewswire.com/media/1572879/3.jpg"
+    width: 400
+    height: 267
+    isCached: true
+
+secured: "XpK4GloOJA4WfTSCNUHvdG7dTyuDPltxsKFfmmHq6VYrOpMRak1cKdUpu2q3/14XpQmaf4bRpr6TVFj7R4N1tUv3KeckU/FYMNTasQ54uS23xqb5gdJlSkCqF29KIwHs+1L9NPu8Ut3PxRRdkmTF2oOsR6Ie9MkoW01ZOB9fbpMJUr2R7korFFs8PTiGTso9R1Ih86eKbJWfIFbUMpwfcQz8aaqrCilSi5RxV4zbHEGqwJSHs80FyeMnlN/zkR5i7HgTHr1aHkD71X1IlE8MQvC9jW3q4rjfhH1yIYU8qe5ZG+rpmFWoeH+B/+Fj/bbId8DA8ZMrFRHvM34CM1XGkAwRqmu6SGSnRg1nLtq8zJs=;iIv/Hccm8jw2KTHs8m0fpQ=="
 ---
 

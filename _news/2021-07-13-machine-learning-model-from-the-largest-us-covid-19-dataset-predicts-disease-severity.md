@@ -9,7 +9,7 @@ ampWebUrl: "https://www.theverge.com/platform/amp/2021/7/13/22573753/covid-data-
 cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2021/7/13/22573753/covid-data-health-records-machine-learning-disease"
 type: article
 quality: 82
-heat: 93
+heat: 103
 published: true
 
 provider:
@@ -40,6 +40,15 @@ related:
       name: Europe PMC
       domain: europepmc.org
     quality: 5
+  - title: "Johns Hopkins study of 1.9 million COVID-19 cases links severity with blood types + more"
+    excerpt: "Researchers from Johns Hopkins University School of Medicine and Tufts Medical Center conducted a study using artificial intelligence to do a deep dive into EHR notes of patients who tested positive for COVID-19 in a nationwide data lake,"
+    publishedDateTime: 2021-07-13T21:07:00Z
+    webUrl: "https://www.beckershospitalreview.com/data-analytics/what-a-johns-hopkins-study-of-1-9-million-covid-19-cases-revealed-about-links-with-blood-types-gender.html"
+    type: article
+    provider:
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 0
 
 secured: "dODSOkmCbr6xBjemBL3TPhmMsrFEjOy9htS5tPBwLUPOeeoxWoSZIoYVG8uK1xaD+KL7OFPkqQbrjKUdkQGpfCQWLdEnbihXJptNZcOBnUx+F9/3E7N1sK4SUsURQAZjwwxE6J9ZL6E3gvmqfwh6h+UvZl12NoNAdEFzkw0oC6sjv7zV1lNDT1FwnLSBMLujxfXcbR8TIbaJnQ79lZ2wVv3kob+R9TU5XdmQ5FYUDg2R5fPC0hDzAXWmLOohzS7PnfuR8WYxu17Nh67SXJB82oRr6oGgS/LYOovYLTdxt/ekFcyIY/nFaMbyUUrx+F9L5KHCH1RKgp1U1bQ+/RMUlEb4wQ8Q8c2UNUpruxU3U4Orgt3iH+hn3Jg8yIi/+/EGnmhaC73Go4/hmlu9N+a0TByvLLPojrZRN1vsFyFc1F4G40X+18eMlqGCkWAmqTDXg5DJJskPAmifqC2oS3zyBV8RrKlByitimZPdrV4Wa5iJmV5K6fLRXHvldXPV90ck7LY3gjXUsqFzRxgVainSHw==;lN5oucWb5newGLLb++bXNw=="
 ---

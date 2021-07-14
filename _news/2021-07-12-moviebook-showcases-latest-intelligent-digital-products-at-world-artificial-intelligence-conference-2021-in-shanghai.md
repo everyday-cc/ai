@@ -38,20 +38,6 @@ related:
         width: 400
         height: 266
         isCached: true
-  - title: "GLOBALink | Advanced AI technologies displayed at World AI Conference"
-    excerpt: "The 2021 World Artificial Intelligence Conference officially opened on Thursday with more than 300 leading AI companies demoing th"
-    publishedDateTime: 2021-07-09T07:32:00Z
-    webUrl: "https://www.bignewsnetwork.com/news/270227510/globalink--advanced-ai-technologies-displayed-at-world-ai-conference"
-    type: article
-    provider:
-      name: Big News Network.com
-      domain: bignewsnetwork.com
-    quality: 37
-    images:
-      - url: "https://static.bignewsnetwork.com/bnn/images/big-news-network-slogan.jpg"
-        width: 630
-        height: 420
-        isCached: true
 
 secured: "+DwhxPqtG7Bll4Wwo1R7HzQ0M+4F1EHZgnyYHkExQfkHbv0isFP5vKjxZP34eF+oJqWKqQLrD/OAOuHhpSHTTMsYSdb26YdPzbA40s49zdNvYhqccis7Pqdh2ufYBH8YyWc3KouDMA38dVPp2kGYhNqDA5yDzhjtGjsEgd9UNeE5WbbHY0t5v7cQ3whHcYclFNKbORY6GVODJiXCxEMgG/H6pQHl7tQmjYzT+vZXEy1PViOms1LqT64fv1bBFSG+ZfBRMd8ucXz7e/HT/SgZ3xpWQILoePJn6WFLGQlnVDLA+Bt8MnPSE7Pu4AaQkZLrbxIKaf/32JTLW0Dp8cXMMw98Mg+KenPqRNrxJn8Rz98=;+j8PDuX6IXqxm1COgXr58Q=="
 ---

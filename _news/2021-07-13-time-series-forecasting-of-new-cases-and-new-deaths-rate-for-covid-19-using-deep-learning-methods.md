@@ -35,6 +35,15 @@ related:
         width: 1400
         height: 933
         isCached: true
+  - title: "Johns Hopkins study of 1.9 million COVID-19 cases links severity with blood types + more"
+    excerpt: "Researchers from Johns Hopkins University School of Medicine and Tufts Medical Center conducted a study using artificial intelligence to do a deep dive into EHR notes of patients who tested positive for COVID-19 in a nationwide data lake,"
+    publishedDateTime: 2021-07-13T21:07:00Z
+    webUrl: "https://www.beckershospitalreview.com/data-analytics/what-a-johns-hopkins-study-of-1-9-million-covid-19-cases-revealed-about-links-with-blood-types-gender.html"
+    type: article
+    provider:
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 0
 
 secured: "Q/dNKVSZxziSRotBlPetjqtM6Rx2dHC+w0q3Ru2ACEpftjvXevd10VsEIejl5+hyagmJXFnVcBnLNA88MLrzfz7c4GbrySkbvlJ2KUnRvTv3/IjUqm6ejN5VwI47xmMYkDYtTsO1jpIkNMQjF/tt+yVH7AB8Ciy4zeQwtAOwvESKeuoJKxBk3GTzkuhj8ENXb8jNFbVnRdriWXg5zJl4ZN8S4SMJZSSinQHNQ+4pM0nVDf6V/EQMMt+vdlIko/nSr5RXm1r3DF406tnCgv/NER9fJs52x52KKV7+FnUTSSuzElYIYzWEAoFKUQpO5D1AJ5kBTQ0RYPRCfYdNeUvarzeQSHbz0Nxi1ZcoIh25yMA=;7XonyjeCvUXN1T6kqPR3Lg=="
 ---

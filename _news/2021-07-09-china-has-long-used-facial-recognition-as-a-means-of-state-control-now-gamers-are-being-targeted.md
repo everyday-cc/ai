@@ -161,20 +161,6 @@ related:
         width: 1350
         height: 759
         isCached: true
-  - title: "How Tencent’s Facial Recognition System Ensures Minor Gamers Stick To Curfew Regulations"
-    excerpt: "China-based Tencent Games recently launched a facial recognition system to prevent minors from playing video games past their assigned time. The initiative, called the Midnight Patrol, will conduct a face screening for accounts registered with real names and played for a certain amount of time at night."
-    publishedDateTime: 2021-07-09T06:30:00Z
-    webUrl: "https://analyticsindiamag.com/how-tencents-facial-recognition-system-ensures-minor-gamers-stick-to-curfew-regulations/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 30
-    images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/07/tencent.jpg"
-        width: 1600
-        height: 900
-        isCached: true
   - title: "Facial Recognition Is Doing Harm Right Now. It’s Unacceptable for Lawmakers To Do Anything Other Than Ban It."
     excerpt: "The House Judiciary Committee is holding a hearing today on facial recognition technology. They’re expected to discuss a wide range of issues including the recent GAO report on federal government use of facial recognition and the Facial Recognition and Biometric Technology Moratorium Act."
     publishedDateTime: 2021-07-13T15:27:00Z

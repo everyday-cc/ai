@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesfinancecouncil/2021/07/09/how-man
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesfinancecouncil/2021/07/09/how-manufacturers-can-get-the-most-out-of-ai-based-erps-for-auditing-and-forecasting/amp/"
 type: article
 quality: 80
-heat: 90
+heat: 80
 published: true
 
 provider:
@@ -28,17 +28,6 @@ images:
     width: 1200
     height: 800
     isCached: true
-
-related:
-  - title: "Global Artificial Intelligence (AI) in Manufacturing Market Size, Status and Forecast 2021-2027"
-    excerpt: "Pages Report] Check for Discount on Global Artificial Intelligence (AI) in Manufacturing Market Size, Status and Forecast 2021-2027 report by QYResearch Group. Artificial intelligence technology is now making its way into manufacturing,"
-    publishedDateTime: 2021-07-09T07:51:00Z
-    webUrl: "https://www.reportsnreports.com/reports/4655611-global-artificial-intelligence-ai-in-manufacturing-market-size-status-and-forecast-2021-2027.html"
-    type: article
-    provider:
-      name: ReportsnReports
-      domain: reportsnreports.com
-    quality: 20
 
 secured: "SQVcYtGB2SLhIVI7u+oG7cf3TqFOjwiK0L3bHDgDIhjDFJn5GGw878WyIQIXFC+ASX6OF/L6bEqlPX+e6VV4bAPi3yD/WdFhVHH8fhE8bcCmRo9ZKegVajDzJhq60xJ4SlD6R1jGP+5BeouWVZJ4zBRRIfWTpwJOSsooYVmvwGeRmyFOpCz1RPIZlobETSe4yO3Q7mGEL9JCVwCZwplSbmc95aKzSRxyZwx6SyxEjnztj37aP7vK6mKwitxNimlSAc9UHRbbXj2Wur+maj7W5iwj93m7Zjf7dB13bTI53yqRparmAkLnlIr9kzNux2+8a/l8hYbUVmX81gJnjoZj4L3BwoFcVt9zq4s2r7hg35wMSLQBAkWSpTWH+1ocWJQHoe4VWMoCUSywCoNvf5R0ZeZLUc8iKfkHPv3wwm0jFiwBkJqHwswK4HHncDnBmhaL+KyFYdIvz6sH63xV0nDwU/gHxorAZwxARGGN+rntiN7kBuEkLmhpm19JgiDogBwTINOnaJY07ez83RS/Lc3nhg==;vqJlqgQRz9m8w9IRdr/97A=="
 ---

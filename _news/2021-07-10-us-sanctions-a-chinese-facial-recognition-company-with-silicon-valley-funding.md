@@ -9,7 +9,7 @@ ampWebUrl: "https://www.theverge.com/platform/amp/2021/7/9/22570225/us-sanctions
 cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2021/7/9/22570225/us-sanctions-chinese-facial-recognition-silicon-valley-funding"
 type: article
 quality: 156
-heat: 216
+heat: 226
 published: true
 
 provider:
@@ -116,6 +116,20 @@ related:
       - url: "https://img.securityinfowatch.com/files/base/cygnus/siw/image/2021/07/bigstock_Facial_Recognition_System_Iden_387020311.60ecba89a36b9.png?auto=format&fit=max&w=1200"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Beware facial recognition: Australia risks embracing mass surveillance, ‘broader protections’ needed"
+    excerpt: "Australia’s outgoing human rights commissioner has sounded the alarm about Australia “sliding into mass surveillance” if it continues to embrace the use of facial recognition technology. Commissioner Edward Santow also criticised governments using ..."
+    publishedDateTime: 2021-07-14T01:56:00Z
+    webUrl: "https://www.crikey.com.au/2021/07/14/beware-facial-recognition-risks-embracing-mass-surveillance/"
+    type: article
+    provider:
+      name: Crikey
+      domain: crikey.com.au
+    quality: 24
+    images:
+      - url: "https://www.crikey.com.au/wp-content/uploads/2021/07/14-07-21-facialrecognition22.jpg"
+        width: 740
+        height: 400
         isCached: true
 
 secured: "K6E0OUdZI9s3+UGJJnUwNpQO5kByqfg7O1bakYsHL9bZLDHJh9zl3qITQBqefGAtblhnqD3iDAzW56D/FYy6D2b4U0M6hh8gEcfv3PU2v4cT1igfYq1W6wGsVJ4yZ+mwBGiwKFTCMbJnobwhIMx/A4r3u1YT+VxoYQK61NthVFVa++Vto0bhvrqDE5Qcsk17L+8p32s1sQkvkOqDw91jc/SmX9VxIQnncbXc7GICtSwlvZWvsZ7T5tEotgNYaVb4DkqEiYfAdwvOGHCgrWJkby2T6h/6kHJ+JpdqLmtZ8up/e31oZp/HivI4O4RHItfn6n0lj58vrq+WH2+ZrZ6AgXcj1VSiQk2RBcbu4Fqpnq6fNKomcq2TcrsK0yM+m/7TL2s9FFd1sS69CZrFcqQWeA1lPUXBXMHhdEMMwYDU2o1yGAoCtOiM13zOkNzm7kPLrDYsI3DNeUIUaSL649M+yhHzCpZc+j5fLgcJnVOqH7nQ9X9bUagYod5KDKansv+wVOjv9cE56A35Xw/uK+s/HXzBR3SxQZLyjcPGZbPNfI4=;WtmoCiz8eAGPN9aAhWVtbg=="

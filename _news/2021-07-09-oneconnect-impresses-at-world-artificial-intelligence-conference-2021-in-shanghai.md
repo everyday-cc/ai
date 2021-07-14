@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/oneconnect-impress
 webUrl: "https://markets.businessinsider.com/news/stocks/oneconnect-impresses-at-world-artificial-intelligence-conference-2021-in-shanghai-1030592354"
 type: article
 quality: 77
-heat: 97
+heat: 87
 published: true
 
 provider:
@@ -28,20 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "GLOBALink | Advanced AI technologies displayed at World AI Conference"
-    excerpt: "The 2021 World Artificial Intelligence Conference officially opened on Thursday with more than 300 leading AI companies demoing th"
-    publishedDateTime: 2021-07-09T07:32:00Z
-    webUrl: "https://www.bignewsnetwork.com/news/270227510/globalink--advanced-ai-technologies-displayed-at-world-ai-conference"
-    type: article
-    provider:
-      name: Big News Network.com
-      domain: bignewsnetwork.com
-    quality: 37
-    images:
-      - url: "https://static.bignewsnetwork.com/bnn/images/big-news-network-slogan.jpg"
-        width: 630
-        height: 420
-        isCached: true
   - title: "Moviebook Showcases Latest Intelligent Digital Products at World Artificial Intelligence Conference 2021 in Shanghai"
     excerpt: "During the conference, Moviebook showcased its newly-devised system for the holographic simulation of the production process of digitized products. The system features intelligent video production technologies such as simulation,"
     publishedDateTime: 2021-07-12T04:05:00Z

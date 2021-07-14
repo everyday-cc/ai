@@ -25,70 +25,22 @@ images:
     isCached: true
 
 related:
-  - title: "AI to have biggest impact on fintech development over next five years"
-    excerpt: "Artificial intelligence will become the most influential technology in the fintech sector over the next five years."
-    publishedDateTime: 2021-07-13T11:00:00Z
-    webUrl: "https://www.computerweekly.com/news/252503927/AI-to-have-biggest-impact-on-fintech-development-over-next-five-years"
-    ampWebUrl: "https://www.computerweekly.com/news/252503927/AI-to-have-biggest-impact-on-fintech-development-over-next-five-years?amp=1"
-    cdnAmpWebUrl: "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252503927/AI-to-have-biggest-impact-on-fintech-development-over-next-five-years?amp=1"
+  - title: "China: WeiyangX Fintech Review"
+    excerpt: "WeChat Pay Offers Special Call Center Service for Users Over 60 Years Old On February 3rd, CNNIC released “The 47th Statistical Report on China’s Internet Development”. Up to December 2020, the number of mobile payment users in China stood at 853 million,"
+    publishedDateTime: 2021-07-12T12:30:00Z
+    webUrl: "https://www.crowdfundinsider.com/2021/07/177757-china-weiyangx-fintech-review-207/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2021/07/177757-china-weiyangx-fintech-review-207/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/07/177757-china-weiyangx-fintech-review-207/amp/"
     type: article
     provider:
-      name: Computer Weekly
-      domain: computerweekly.com
-    quality: 59
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 44
     images:
-      - url: "https://www.computerweekly.com/visuals/German/article/artificial-intelligence-adobe.jpg"
-        width: 1200
-        height: 400
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2020/01/Beijing-China-Street-Scene-600x528.jpeg"
+        width: 600
+        height: 528
         isCached: true
-  - title: "How Fintech can harness the power of big data to redefine market forecasting"
-    excerpt: "Advances in predictive analytics using machine learning (ML) algorithms and blockchain technology demonstrate how innovations in financial services are challenging"
-    publishedDateTime: 2021-07-13T14:27:00Z
-    webUrl: "https://www.cityam.com/how-fintech-can-harness-the-power-of-big-data-to-redefine-market-forecasting/"
-    ampWebUrl: "https://www.cityam.com/how-fintech-can-harness-the-power-of-big-data-to-redefine-market-forecasting/amp/"
-    cdnAmpWebUrl: "https://www-cityam-com.cdn.ampproject.org/c/s/www.cityam.com/how-fintech-can-harness-the-power-of-big-data-to-redefine-market-forecasting/amp/"
-    type: article
-    provider:
-      name: City A.M.
-      domain: cityam.com
-    quality: 41
-    images:
-      - url: "https://www.cityam.com/wp-content/uploads/2021/07/9298_PG_School_of_Accounting_and_Finance_WEB_IMAGES_06.21-1.jpg"
-        width: 1024
-        height: 640
-        isCached: true
-  - title: "If You Only Buy 1 Fintech Stock, Make It One of These 5"
-    excerpt: "Recent innovations by biotech and fintech stocks, for example, show how pandemic-era needs are shaping the market. Source: Shutterstock In 2021, fintech companies are harnessing advanced technologies to provide faster and more reliable financial service solutions for institutions and everyday users."
-    publishedDateTime: 2021-07-09T17:53:00Z
-    webUrl: "https://www.nasdaq.com/articles/if-you-only-buy-1-fintech-stock-make-it-one-of-these-5-2021-07-09"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 34
-  - title: "The Future of Fintech 2021 on demand"
-    excerpt: "On the 17th of June, FStech's virtual conference returned for 2021, covering the biggest trends in financial services technology. Across a variety of keynote speeches, in-depth presentations and lively panel discussions this online event tackled how firms can deal with the challenges of the Coronavirus crisis one year on, as well as looking forward to what the 'new normal' will look like for an industry already in the grips of digital disruption. Among the topics on the agenda were: cyber security in the time of COVID-19, the RegTech solutions automating compliance, improving data literacy and governance, protecting customers from fraud, AI and machine learning, the rise of digital assets, upgrading legacy systems and ensuring data is safe and optimised in the cloud. For those of you who missed the event, or would like to watch specific sessions again, we have collected the day's content and put it all in one place for easy viewing:"
-    publishedDateTime: 2021-07-10T09:48:00Z
-    webUrl: "https://www.fstech.co.uk/future-fintech-digital-conference/ondemand.php"
-    type: article
-    provider:
-      name: fstech.co.uk
-      domain: fstech.co.uk
-    quality: 24
-    images:
-      - url: "https://perspectivepublishing.co.uk/dev/cms/uploads/FStech%20Couchbase%208th%20December%202020/final_cb.jpg"
-        width: 314
-        height: 314
-        isCached: true
-  - title: "Top 10 Fintech Trends to Watchout For"
-    excerpt: "To make you aware of the revolutions FinTech has unleashed in the financial arena, we are outlining the following ten technology trends that are the forces behind the Fintech revolution: Welcome to Finextra."
-    publishedDateTime: 2021-07-09T15:21:00Z
-    webUrl: "https://www.finextra.com/blogposting/20576/top-10-fintech-trends-to-watchout-for"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 4
 
 secured: "3g7odTHM+bBF4PgCqgGap3YXh6YFvm1EPe+2+z0sgwFIRhdVAnoZkpzV/ruKKtzRJVQzsDxh9WDULjHIEr3Tpy0xn/oknTdBBms/lD9B6cXzNv9rOc2X6oSM25/lcYCtOdwWNVGXSSnrqrLuOAm5IRr9Vr4pPs5SxyigQmvkEL7eg09S7hdrP6Y7PPEmK/FR0d7qfNs1krOV9iNvZP1I9I4GtPjT+D6P2OLO/OovP5TZWCmKJGJsn71jvPL0biHNHkQPrFyvrXJp6SjsLHu1r6xghdnNN50M5oCC0HjKGXQuOdkvHWDAIbnfi7/4x18X5sw0nYDHfPuUGnE7bUzX7zeDglZlKH1Wm1Bj2w9FQ8irjPAhXHz0SOo+q7JPZYNYlGeAk8yduZP9harTw3q7Sygr1Fz6QZ72QGD2hHlCKeehdp1t0+jEhWxLK30dAO9DO6HVQdhHKoLRo4SZw9PG4cnt0d8MskXgvtX0NRj2MMEkJbBSIFkGo+4RGs2st2cTfow706TMhM0ge50zfpPCfA==;2m6BzdkzdHadniBm6LFzzg=="
 ---

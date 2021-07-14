@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/07/09/ai-brings-promise-and-peril-to-cu
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/09/ai-brings-promise-and-peril-to-customer-relations-management/amp/"
 type: article
 quality: 89
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -29,6 +29,17 @@ images:
     width: 1200
     height: 600
     isCached: true
+
+related:
+  - title: "Ai In Medication Management Market"
+    excerpt: "The Global Ai In Medication Management Market Report is a study of prevailing drivers, trends, forecast, and restraints in the global landscape. The report is the latest addition to the vast data ..."
+    publishedDateTime: 2021-07-12T10:48:00Z
+    webUrl: "https://www.openpr.com/news/2326242/ai-in-medication-management-market-latest-industry-trends"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 19
 
 secured: "hFJmaZ5KLqDdtUYCqBQCzpACZQwyQsGJrFgkzFP6IMCb2E5YSKlL7/TWQNHc+FOaO23IIZ76mJSu66OVwj/p6CUiqUHY+64f1gNnB/SyQci0a1ciAE89QGzDK58B6+VfRCxWRNKHU6XWPS/omVwGD6LtjHLqHpHyFbyEoqN+N+ZKUXo7sOhNBK1aOoseP69SMHeCE8EvJPYQOhCGUx8HmQgGFYnIHRuKJF2h59wgxw4amaJhPNgcsDPENE7RjXqgzWr/g06E6BIHMANzl91l33AYxWiRR3MeBagVp3QjYiaH2+9/mTxg+RQ2zYdila+icgDP8gK3pjJVfaz2fzdCYt5yS/TO1vHCP62UWjdAUmh0iQkLD5rF75wVca10tzEOd7h7uFq4lbtRcdQSmTx+LN5RLz6X6dh7Nu1BRiLcTF21Lv+cZ4qGNEey1AZmzJ7DKcw7F8nbZYS77gMmWHWH6YeJEn9KYDHB0URknFSZBlAWzGTqu9arBs7tBjC+/MGBa1Ru9syVxKT+aRFUi/dwtQ==;JQ7DG2Pe3eezKtt/UPje0A=="
 ---

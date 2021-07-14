@@ -1,21 +1,25 @@
 ---
 category: news
 title: "IoT Machine Learning and Artificial Intelligence Services to Reach US$3.6 Billion in Revenue in 2026"
-excerpt: "The next wave of Internet of Things (IoT) analytics development will fully converge with the Big Data domain. Simultaneously, the value in the technology stack is shifting beyond the hardware and middleware to analytics and value-added services,"
-publishedDateTime: 2021-07-13T08:11:00Z
-originalUrl: "https://www.lelezard.com/en/news-19898222.html"
-webUrl: "https://www.lelezard.com/en/news-19898222.html"
+excerpt: "The next wave of Internet of Things (IoT) analytics development will fully converge with the Big Data domain. Simultaneously, the value"
+publishedDateTime: 2021-07-13T08:00:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/21/07/n21949601/iot-machine-learning-and-artificial-intelligence-services-to-reach-us-3-6-billion-in-revenue-in-20"
+webUrl: "https://www.benzinga.com/pressreleases/21/07/n21949601/iot-machine-learning-and-artificial-intelligence-services-to-reach-us-3-6-billion-in-revenue-in-20"
+ampWebUrl: "https://www.benzinga.com/amp/content/21949601"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/21949601"
 type: article
+quality: 39
+heat: 39
+published: false
 
 provider:
-  name: Le Lézard
-  domain: lelezard.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
-  - AI in Healthcare
-  - AI
   - Machine Learning
+  - AI
 
-secured: "4FKLA0yyFHA2Bi20rPWL457bt3pJOsBkzyILk+ujnGXRiFFGw10xiLJ/rgmDHq6JfkYsfugaXnAOVuaB7zZ74aRZsDYx2vDXPKtprfkP5Bhd//1vPFAwogGCUR2VEhIW3WWgmpM0upd8xNDm9lRtBOhmp4nJxQLUdSWLFu+Vny9zh8rRnUVuqEP/xoYTrDZ/WNDL3IwdibEu9+PV/Jd1GRAxXcaG8XdoiDyhmPnt6T9sJZmEvgmUQALhdLu0c2h23xcU7pM+PErpb0Zovbv3vDmxRxUEUGBvoG4gaJiP1NPa8ugr2vIrUTq0By7NBEpT4Is+bmXjz33bQn/KF2ErBGggkmqsdba3j/C8BQLIWkI=;O7fDV9HRsctTXJ8UbI6B7A=="
+secured: "rHFs4FB3EWWbN8HLm5iRJ4n0LRBWWPrupJ1gyiTchLCXsbk0Z58mDjauo/Ar+EzByIJnVKzOXXSSrxbkfYMLBGKgH3AUDB1c+2GTr5BtIGUG0ZdkVAGH4hWvt15WZb6+Vtx/1zsPnW5Hpd6UxQUNNV3Dw9pmop7dkK+SvAlLAmjOzsfWLBuJHx/FoVaxv6VVmxNysJm4iylqJxj2RXefhyMmRMTzbIBQFIf6wcu5BL1YsFUF2Rqo4/9MjZFm7tsK85n2XLpuck5LHoA73t/1O50uiCFK9tWEzA5afvuGRyEDodaersL+ub6k0Abj56K9Kc8YNo0g616JTKy2PP2A+cq9sDP+H8XXWzEPZKKxJAc=;SC6KYRt3mnnqUo7/ooJTdQ=="
 ---
 

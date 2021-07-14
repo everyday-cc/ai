@@ -60,6 +60,20 @@ related:
       name: Business Wire
       domain: businesswire.com
     quality: 6
+  - title: "Grazitti Interactive's SearchUnify Cited as a Strong Performer Among Cognitive Search Platforms in Latest Evaluations by Independent Research Firm"
+    excerpt: "July 12, 2021 /PRNewswire/ -- SearchUnify, a recognized unified cognitive platform by Grazitti ... data from commonly used SaaS apps, including Microsoft Dynamics 365, Salesforce, Jira, WordPress ..."
+    publishedDateTime: 2021-07-12T18:37:00Z
+    webUrl: "https://www.prnewswire.co.uk/news-releases/grazitti-interactive-s-searchunify-cited-as-a-strong-performer-among-cognitive-search-platforms-in-latest-evaluations-by-independent-research-firm-827882187.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.co.uk
+    quality: 0
+    images:
+      - url: "https://mma.prnewswire.com/media/1535704/SearchUnify_Logo.jpg?p=facebook"
+        width: 852
+        height: 446
+        isCached: true
 
 secured: "GYTfJk5f0UfMMNbkY4iaguE/RwZ1DdlZNE7573zadRgbjBmmQYpK1A3dmEOzXSvvJmCrBC/u/9rKcEgdQBhILSfK5ae2t+v3h4q1XHQ+9PJ3nKKsy7AQnsJhyHACm62EKHZkK53ApHfiWbSrAYxmS4LEnkURHaqBAM0qlZTXYih3aKfr3vfb1PoFaHxDgU6W7B7sAG0ZNqtahmwaHhqPva4myq52h3MIXFY3ZpIg5Pxl2YD/f++eObyghcZCIjOrgJk9418Rkq7ISlAC9GO6f4dTJghEiHZeQcKT6fGUkmwYw2apb48N+ZXJ7APE8OZ81mrw4tuZ6gXoK3sSSJInEazCm0/m9iIQzDXmA3S7C/8=;y75WrzvrgwLhTKqLCySMPQ=="
 ---

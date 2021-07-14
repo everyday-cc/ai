@@ -53,20 +53,15 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Las Vegas to Get 5G Driverless Car Service, Courtesy of Halo and T-Mobile"
-    excerpt: "Las Vegas will soon ride in driverless cars powered by 5G, thanks to a partnership between T-Mobile and Halo. Autonomous driving represents an appealing and flourishing market in this day and age. And we’ve got all the tools to make that happen."
-    publishedDateTime: 2021-07-09T07:12:00Z
-    webUrl: "https://www.autoevolution.com/news/las-vegas-to-get-5g-driverless-car-service-courtesy-of-halo-and-t-mobile-164997.html"
+  - title: "Halo and Las Vegas Launch Driverless Car Service Powered by T‑Mobile 5G"
+    excerpt: "Driverless Halos solve transportation challenges with a people first approach to autonomous cars. Halo claims to have launched one of the first commercial driverless car services in the U.S. running on the T-Mobile 5G network in Las Vegas."
+    publishedDateTime: 2021-07-13T22:23:00Z
+    webUrl: "https://itwire.com/automotive/halo-and-las-vegas-launch-driverless-car-service-powered-by-t‑mobile-5g.html"
     type: article
     provider:
-      name: autoevolution.com
-      domain: autoevolution.com
-    quality: 38
-    images:
-      - url: "https://s1.cdn.autoevolution.com/images/news/las-vegas-to-get-5g-driverless-car-service-courtesy-of-halo-and-t-mobile-164997-7.jpg"
-        width: 728
-        height: 300
-        isCached: true
+      name: ITWire
+      domain: itwire.com
+    quality: 19
 
 secured: "b6UC6pwGWEi4sKx3ZIlqeDaXhaPKpTabke5r+9mGPCyuqMdfR6p5anyXPNeC8AWZ3VpEWUJqg9on27CTF3wwuNr5kU1wZ4LO9DoMpMMqQn9/cfTHXMogANVEXDy4gzwcD2p8BSMSiFTszlRhPw5hpR+aV7zk9plR7QwVFkP1TRFp7jwTLlT+LJIvDcd8fQKqBms1zLxLbhPrcKBqw4E1YcbhFfagW0fHMEMcYovKmo7LBw0PxDEY3hnYznyaaym7/0y74A74brTcEj2K938popiRXOkB9h7u6U8FYoi7IwkBopTedNQ5R7cbvvGROXLrAEdN4nnjYAgQVtNdd9phyjRWIonluZe7OgFB32KPwbJ9w6mJGtN9S0y6s6dZvRw1y7ltETk9DQvXPNeCkHnNb0ecoCeGMEiRPONyiU3IrFzFuPuqqF76O5vNUYjykvn1aoTHA8TM2tYKDUy/eceUHvPq3doOkAuQeB6bMhOkYs1GbUdgf+aLOrzWZ/uDaiq/+zK3N48BPAXxHgVhNgVXcg==;ZUuKxwwgMGHKgeRmMVzBIA=="
 ---
