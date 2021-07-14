@@ -3,25 +3,26 @@ category: news
 title: "Republicans and Democrats concerned about facial recognition technology"
 excerpt: "Law enforcement must be careful when using facial recognition technology. “We need to ensure that the adoption of this new technology that does not further erode trust between law enforcement and the communities they serve,"
 publishedDateTime: 2021-07-13T21:24:00Z
-originalUrl: "https://www.wfla.com/news/republicans-and-democrats-concerned-about-facial-recognition-technology/"
-webUrl: "https://www.wfla.com/news/republicans-and-democrats-concerned-about-facial-recognition-technology/"
-ampWebUrl: "https://www.wfla.com/news/republicans-and-democrats-concerned-about-facial-recognition-technology/amp/"
-cdnAmpWebUrl: "https://www-wfla-com.cdn.ampproject.org/c/s/www.wfla.com/news/republicans-and-democrats-concerned-about-facial-recognition-technology/amp/"
+originalUrl: "https://www.wsav.com/news/national-news/republicans-and-democrats-concerned-about-facial-recognition-technology/"
+webUrl: "https://www.wsav.com/news/national-news/republicans-and-democrats-concerned-about-facial-recognition-technology/"
+ampWebUrl: "https://www.wsav.com/news/republicans-and-democrats-concerned-about-facial-recognition-technology/amp/"
+cdnAmpWebUrl: "https://www-wsav-com.cdn.ampproject.org/c/s/www.wsav.com/news/republicans-and-democrats-concerned-about-facial-recognition-technology/amp/"
 type: article
-quality: 59
-heat: 89
+quality: 61
+heat: 121
 published: true
 
 provider:
-  name: WFLA
-  domain: wfla.com
+  name: WSAV-TV
+  domain: wsav.com
 
 topics:
-  - Computer Vision
+  - Natural Language Processing
   - AI
+  - Computer Vision
 
 images:
-  - url: "https://www.wfla.com/wp-content/uploads/sites/71/2021/07/CBD9E120D58140A1A6D82774464D865D_7.jpg?w=1280"
+  - url: "https://www.wsav.com/wp-content/uploads/sites/75/2021/07/CBD9E120D58140A1A6D82774464D865D_7.jpg?w=1280"
     width: 1280
     height: 720
     isCached: true
@@ -43,6 +44,22 @@ related:
         width: 1440
         height: 1080
         isCached: true
+  - title: "Farmington Hills man misidentified by facial recognition technology testifies at Congressional hearing"
+    excerpt: "The Farmington Hills man who has sued Detroit police after being wrongfully identified by the department's facial recognition technology in a shoplifting investigation is testifying in front of a congressional subcommittee Tuesday."
+    publishedDateTime: 2021-07-13T14:59:00Z
+    webUrl: "https://www.fox2detroit.com/news/farmington-hills-misidentified-by-detroit-police-facial-recognition-technology-testifies-in-congress"
+    ampWebUrl: "https://www.fox2detroit.com/news/farmington-hills-misidentified-by-detroit-police-facial-recognition-technology-testifies-in-congress.amp"
+    cdnAmpWebUrl: "https://www-fox2detroit-com.cdn.ampproject.org/c/s/www.fox2detroit.com/news/farmington-hills-misidentified-by-detroit-police-facial-recognition-technology-testifies-in-congress.amp"
+    type: article
+    provider:
+      name: WJBK
+      domain: fox2detroit.com
+    quality: 43
+    images:
+      - url: "https://images.foxtv.com/static.fox2detroit.com/www.fox2detroit.com/content/uploads/2021/04/932/470/wjbk-facial-recognition-aclu-lawsuit.jpg?ve=1&tl=1"
+        width: 932
+        height: 470
+        isCached: true
   - title: "Michigan man misidentified by facial recognition technology warns Congress of risks posed by police surveillance"
     excerpt: "A Michigan man who was wrongly arrested after being misidentified by facial recognition technology joined expert witnesses who warned a congressional subcommittee about the pitfalls of police surveillance software used to find suspects."
     publishedDateTime: 2021-07-13T17:44:00Z
@@ -59,6 +76,34 @@ related:
         width: 4904
         height: 3678
         isCached: true
+  - title: "Is It Time to Regulate Facial Recognition and Other ‘Frontier’ Police Technology?"
+    excerpt: "As developments in law enforcement technology regarding DNA evidence matching and facial recognition software have begun \"pushing the frontiers of forensics,\" advocates warn that without oversight and proper understanding of the technology,"
+    publishedDateTime: 2021-07-14T15:06:00Z
+    webUrl: "https://thecrimereport.org/2021/07/14/is-it-time-to-regulate-facial-recognition-and-other-frontier-police-technology/"
+    type: article
+    provider:
+      name: thecrimereport.org
+      domain: thecrimereport.org
+    quality: 34
+    images:
+      - url: "https://thecrimereport.org/wp-content/uploads/2020/01/24198752177_b4a3ef561d_k-1170x878.jpg"
+        width: 1170
+        height: 878
+        isCached: true
+  - title: "Most State Legislatures have rejected bans and severe restrictions on facial recognition"
+    excerpt: "Facial recognition technology and related legislation have been a hot topic in the media and in policy discussions around the country. The Security Industry Association (SIA) is advocating nationwide for policies ensuring responsible use and sensible ..."
+    publishedDateTime: 2021-07-12T22:00:00Z
+    webUrl: "https://www.securityinfowatch.com/access-identity/biometrics/facial-recognition-solutions/article/21230121/security-industry-association-sia-most-state-legislatures-have-rejected-bans-and-severe-restrictions-on-facial-recognition"
+    type: article
+    provider:
+      name: Security
+      domain: securityinfowatch.com
+    quality: 30
+    images:
+      - url: "https://img.securityinfowatch.com/files/base/cygnus/siw/image/2021/07/bigstock_Facial_Recognition_System_Iden_387020311.60ecba89a36b9.png?auto=format&fit=max&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "New state laws require more police transparency, limit use of facial recognition technology"
     excerpt: "One of the laws makes Maine the first state in the country to apply strict limits on facial recognition technology."
     publishedDateTime: 2021-07-10T01:14:00Z
@@ -74,6 +119,6 @@ related:
         height: 300
         isCached: true
 
-secured: "rea5umN6TpVfwgSYNqaqbYtGStogqVgVLQ/TkGkHVAYWuiCvqhmF5NVP+AzzIqsyVQcx5OPvLrniVoTEmgLtPaZJ6Rr71fo95l28ykJbjGVlNqSXydoFUFY2tkyaK+9KZuTdqDmVT3WQL0t58qHxxEBXoH39/bw12TJBhUyk3xz1apJxegvmM3f0HsEXVUX1sztp3NdrVAEyEzxOmTqBHaGEDgU2nDzb7b9XX5x+1f1ls8g5DjI+3nUkEz2OqRqBmCDp3KUxcM4QxoH3MC5VnXZ7AmsGpF/4wnFFq+GI8rv7c6T61QRd6ZkNeR15AQ2PcNijq4EyZ2jBelnG4YzyYZS1xXF8n3oHBvby06bKqME=;crGjExJvFSl+kvrc4uVDww=="
+secured: "yy1RhcqWxtmsZIK6f1gUPvJjaMIBw8U2IvYqQYxpRofl4zi1ZfO9ACexZRhg/HCf/d+k58PBb7d1KzHz8UbGnoshwHUlR+DCp1K4IgX7/ZpQmMzGOz8D6EojFjU21It/3OWlRaVlQK6a4xeyQQS07M7SBJh8cKQqDffq6xu3PgTdXzWpb2pv0jV81qxcEEOpKZcT7BOhS1KlEvdwRJtTIhLOLNWRAG5Jp1NlHbycDXR00h172NVZGv43RZ1pRE9/48MEMSAGLwHnCtQUZuoMqolZdg4eIwqsncbO2Qm1EPz1jny8aF7Po2P42Qj89+aXLwx7NvjST+072ECy89ErNqhV0OZ71veFJPnnu2pZhpc=;ItnjtlPQa1mJnf8m083/GA=="
 ---
 

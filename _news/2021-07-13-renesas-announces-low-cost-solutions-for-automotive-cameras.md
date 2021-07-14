@@ -26,6 +26,17 @@ images:
     height: 1080
     isCached: true
 
+related:
+  - title: "New Renesas Solution For Automotive Cameras Enables High-Definition Video Using Low-Cost Cables and Connectors"
+    excerpt: "Renesas Electronics Corporation (TSE:6723), a premier supplier of advanced semiconductor solutions, today introduced its new Automotive HD Link (AHL) technology that enables automotive manufacturers to deliver high-definition video over low-cost cables and connectors that currently support standard-definition video."
+    publishedDateTime: 2021-07-13T12:15:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2021/07/13/9407548.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
+
 secured: "UdWz0vCMtWdPlhZn9s1W844YpYzF3oInXrZi4Lg5g4n4hgHhBcA363LRXNO4wzHK1C3FB5kATRSlRgzt8V4Efp12OCNjXpkaZPGv2/dsOM0Nw605VwvusmooozwZKDstIwXXDxay/5KVakhAAGM+kRh1K2Qcvs7Bv9mEMOKYGpnalj4lZggwp5M2xmjTawjEsSCaxuv14hmuN2JgST31gRSfeyUfEaXCqHg/idc29KVUcq9DLRKsjZ4LHD9Mh5qY1CkUfUP8FF5aid0/YKw1hXtybtL0kPZ0CUtpRlwJr0iaoq7pyQoLkP1k00v+OhyCm/Rzrb2vBxctlu0Rx7YATrV3WEIPT/PU0pyuX/QFLftt48IGZwGA5Jb6bAzRJkmS/YuyFnFFS3IQcraIDMCbuECIvJrbegfPGuJZR7XRKTep4gtjp5LstfRWJG3rGYuQwU02X4UVxviBxwR0nmuXTqNNRMhn5tpYfByL5UusxywVwvATgPQ4IwYAJUjEkj9giff4QS5Z5j6kiNlnJ4MMlg==;AQOACkXOUOXfAeMehf92/w=="
 ---
 

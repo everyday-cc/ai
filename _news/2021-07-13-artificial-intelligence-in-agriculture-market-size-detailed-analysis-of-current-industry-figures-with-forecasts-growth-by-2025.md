@@ -115,19 +115,33 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 43
-  - title: "Artificial Intelligence (AI) Market in Industrial Machinery Industry to grow by $ 458.68 million|Technavio"
-    excerpt: "The artificial intelligence (AI) market in the agriculture industry market is set to grow by USD 458.68 million, progressing at a CAGR of"
-    publishedDateTime: 2021-07-09T22:00:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/artificial-intelligence-ai-market-in-industrial-machinery-industry-to-grow-by-458-68-million-technavio/article_917a31d7-b21a-51c1-9005-9e2c9f9d1fb0.html"
+  - title: "Machine Translation Market in APAC with COVID-19 Impact by Growth Potential, Manufacturers, Production, Revenue and Forecast 2026"
+    excerpt: "APAC machine translation market is set to witness significant growth during the forecast period of 2020-2026, thanks to the consistent increase in the adoption of various artificial intelligence (AI) technologies and smart devices."
+    publishedDateTime: 2021-07-14T14:28:00Z
+    webUrl: "https://www.marketwatch.com/press-release/machine-translation-market-in-apac-with-covid-19-impact-by-growth-potential-manufacturers-production-revenue-and-forecast-2026-2021-07-14"
     type: article
     provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 36
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 42
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/8/63/8635831d-c3ca-5a24-b643-300bca1379fc/60e8c777dd85b.image.jpg?resize=1200%2C585"
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
-        height: 585
+        height: 630
+        isCached: true
+  - title: "Global CNC Machine Tools Market 2021 Growth Analysis, Industry Trends, Sales Revenue, Future Development Status and Forecast by 2026"
+    excerpt: "Global CNC Machine Tools Market 2021 by Manufacturers, Regions, Type and Application, Forecast to 2026 recently introduced by MarketsandResearch.biz offers a fundamental examination of the market covering the examination of subjective points that is prepared to display key market information of learning to the pursuers."
+    publishedDateTime: 2021-07-14T11:35:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-cnc-machine-tools-market-2021-growth-analysis-industry-trends-sales-revenue-future-development-status-and-forecast-by-2026-2021-07-13"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 40
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
   - title: "AI in IoT Market Analysis By Technological Advancement, Regional Outlook And Forecast to 2027"
     excerpt: "Latest released the research study on Global AI in IoT Market Report Forecast 2021 2027 offers a detailed overview of the factors influencing the global business scope AI in IoT Market research report shows the latest market insights current situation"

@@ -51,6 +51,20 @@ related:
         width: 1024
         height: 640
         isCached: true
+  - title: "AI to have biggest impact on fintech over next five years"
+    excerpt: "Tribe Payments, a payment technology company, has revealed that 67% of fintechs believe AI is the technology that will have the biggest impact on the sector over the next five years. This insight comes from their Fintech Five by Five report,"
+    publishedDateTime: 2021-07-14T14:55:00Z
+    webUrl: "https://fintechmagazine.com/technology-and-ai/ai-have-biggest-impact-fintech-over-next-five-years"
+    type: article
+    provider:
+      name: fintechmagazine
+      domain: fintechmagazine.com
+    quality: 39
+    images:
+      - url: "https://fintechmagazine.com/sites/default/files/styles/ma/public/image/GettyImages-1169711486.jpg?itok=qeifi7jK"
+        width: 3840
+        height: 2160
+        isCached: true
   - title: "AI to have biggest impact on fintech development over next five years"
     excerpt: "Artificial intelligence (AI) technology will have the biggest impact on fintech ... AT&T will move its 5G services to Microsoft's Azure cloud. The move provides Microsoft with a critical 5G customer while AT&T ... What's the difference between 802.11ac ..."
     publishedDateTime: 2021-07-13T22:50:00Z
@@ -60,6 +74,15 @@ related:
       name: Computer Weekly
       domain: computerweekly.com
     quality: 19
+  - title: "SFBT Wednesday Digest: Fintech scores big blockchain partner; Development needs water"
+    excerpt: "San Francisco-based blockchain lending startup Figure Technologies Inc. on a series of initiatives as the alternative asset manager sharpens its focus on innovation in financial technology. Apollo will work with Figure to apply its affiliated blockchain,"
+    publishedDateTime: 2021-07-14T15:16:00Z
+    webUrl: "https://www.bizjournals.com/sanfrancisco/news/2021/07/14/sfbt-digest-wednesday-figure.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 12
 
 secured: "9XyIVu0WoOcTYUQCaCq9BSWrbpvahBDcDsGlKvmGUKxAzy9ssoT0XZfhPhrBYoO2f1T/TeMkqxpLj03N2TRak7ED6lbTrR/3UwRuBVkbYAy9+ooeQDTP+54aK4VvmdyS++v3mMqX93JDs9F064kEHlx9RprlC5P0r36VNXnMyre0yASEvgKeJMxuBf1TrXBagVeX942EDQ8XFgKuAf3fNlgigJgVK+W20fIQawgVP5HgiV0ylD9ecjli4kDkDC4KejmPOmI+H5o2tK9f2o7XI6/LCtaDAvSV+UTzPuUiBlbRz0UsxeU84ohQs1vLt6oyaZnqBqiKGt6r7h94rz6UzF9e/A6lb5MNdL+/CHILNO4oXknSvmSDMu23yMpHPxdbIy2tK4390gyGUJ7GZw5jZKjb0Upgu54rlOxP6/wC7PT6vpjyZVvVVlNpO/ENGZFN50hRud86oI96o2KgqebTHAWWvXKPDIDgXLE5Rvud6TM44nyh4dMrB7f14N+pH/AbVm2bjhl4ljcxlwZ0iwhh0w==;bbuQXHEyhFssKUL/lSz3iw=="
 ---

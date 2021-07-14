@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/07/13/nordstrom-cto-on-ai-powered-analy
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/13/nordstrom-cto-on-ai-powered-analytics-and-consumer-insights/amp/"
 type: article
 quality: 89
-heat: 99
+heat: 119
 published: true
 
 provider:
@@ -31,6 +31,36 @@ images:
     isCached: true
 
 related:
+  - title: "Cape Analytics raises $44M to automate property inspections with AI"
+    excerpt: "Cape Analytics, a company meshing AI with aerial imagery to power property insurance inspections, has raised $44 million."
+    publishedDateTime: 2021-07-14T15:00:00Z
+    webUrl: "https://venturebeat.com/2021/07/14/cape-analytics-raises-44m-to-automate-property-inspections-with-ai/"
+    ampWebUrl: "https://venturebeat.com/2021/07/14/cape-analytics-raises-44m-to-automate-property-inspections-with-ai/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/14/cape-analytics-raises-44m-to-automate-property-inspections-with-ai/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2021/07/ddd-e1626271091314.jpg?w=1200&strip=all"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Driving customer loyalty with analytics and AI"
+    excerpt: "Winning and retaining customers has always been challenging for retailers. However, it has become increasingly difficult over the past few years with the explosion of online retail and multiple new brands entering the market,"
+    publishedDateTime: 2021-07-14T07:21:00Z
+    webUrl: "https://www.technologyrecord.com/Article/driving-customer-loyalty-with-analytics-and-ai-124849"
+    type: article
+    provider:
+      name: technologyrecord.com
+      domain: technologyrecord.com
+    quality: 39
+    images:
+      - url: "https://www.technologyrecord.com/Portals/0/EasyDNNnews/10401/img-iStock-923079848.jpg"
+        width: 940
+        height: 443
+        isCached: true
   - title: "London data analytics firm raises $153m to accelerate expansion of AI tech"
     excerpt: "A London data analytics firm has announced that it has achieved a $153m funding round as it aims to boost… | London | International | Technology | Technology | Investment | USA |"
     publishedDateTime: 2021-07-13T11:23:00Z

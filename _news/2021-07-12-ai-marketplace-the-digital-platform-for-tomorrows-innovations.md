@@ -40,6 +40,20 @@ related:
         width: 1600
         height: 899
         isCached: true
+  - title: "Fellows.Fund Launches To Fund AI Breakthroughs"
+    excerpt: "Ten AI leaders have formed Fellows.Fund, a Sunnyvale, California-based investment platform that want to help AI researchers and engineers launch companies"
+    publishedDateTime: 2021-07-14T12:54:00Z
+    webUrl: "https://www.finsmes.com/2021/07/fellows-fund-launches-to-fund-ai-breakthroughs.html"
+    type: article
+    provider:
+      name: finsmes.com
+      domain: finsmes.com
+    quality: 39
+    images:
+      - url: "https://www.finsmes.com/wp-content/uploads/2021/07/fellows-fund.jpg"
+        width: 1200
+        height: 627
+        isCached: true
 
 secured: "9QX+S++0XkWfianSvMK4b5lr9pzZUzUQTpSgHMISVAyATFXANSQZ3joa9PuVP03ODKmfHPO9PAWDLBqR9Vee2FcMH8cTDHnap9zSR0Zx1yD2nsEZE7JlOTeF1uKBbbGFlK0D9nj5Wxb4DIKxO7O01RyGmCh71IYqLgx8QI7PU1SDxnP6EBYbb7uMDeW7rElqDElUXcQsHBb6xwg+Zh0I13NzaOkDoP9AZRWCVf98XmlRHwM5CTLC45LQvc7kB67WR3S/mTmj+ZH3yVaW1BLdMs8IvRa+i5YKqtde2ZNHqU/ehQnx2yqpuh5sEntiqocu+t7+UwgP5+m9RObM7sPiXnjlSbofAiyfpDoX+w6DLKY=;8agJo+EVfQJzQEFqEblfjA=="
 ---

@@ -27,65 +27,67 @@ images:
     isCached: true
 
 related:
-  - title: "Defect detection and classification in manufacturing using Amazon Lookout for Vision and Amazon Rekognition Custom Labels"
-    excerpt: "Defect detection during manufacturing processes is a vital step to ensure product quality. The timely detection of faults or defects and taking appropriate actions are essential to reduce operational and quality-related costs. According to Aberdeen’s research, “Many organizations will have true quality-related"
-    publishedDateTime: 2021-07-13T16:01:33Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/defect-detection-and-classification-in-manufacturing-using-amazon-lookout-for-vision-and-amazon-rekognition-custom-labels/"
+  - title: "Republicans and Democrats concerned about facial recognition technology"
+    excerpt: "Law enforcement must be careful when using facial recognition technology. “We need to ensure that the adoption of this new technology that does not further erode trust between law enforcement and the communities they serve,"
+    publishedDateTime: 2021-07-13T21:24:00Z
+    webUrl: "https://www.wsav.com/news/national-news/republicans-and-democrats-concerned-about-facial-recognition-technology/"
+    ampWebUrl: "https://www.wsav.com/news/republicans-and-democrats-concerned-about-facial-recognition-technology/amp/"
+    cdnAmpWebUrl: "https://www-wsav-com.cdn.ampproject.org/c/s/www.wsav.com/news/republicans-and-democrats-concerned-about-facial-recognition-technology/amp/"
     type: article
     provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 81
+      name: WSAV-TV
+      domain: wsav.com
+    quality: 61
     images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/07/02/ml3795-image013.jpg"
-        width: 2019
-        height: 699
+      - url: "https://www.wsav.com/wp-content/uploads/sites/75/2021/07/CBD9E120D58140A1A6D82774464D865D_7.jpg?w=1280"
+        width: 1280
+        height: 720
         isCached: true
-  - title: "Compliance with Safety Regulations Becomes Key Proposition in Medical Robotics Market"
-    excerpt: "Robots have enormous potential in medical and healthcare applications, as is evident in the swift pace of penetration in the sector. Per a projection by the International Federation of Robots (IFR), the medical robotics spawn a multibillion dollars market."
-    publishedDateTime: 2021-07-14T10:11:00Z
-    webUrl: "https://techbullion.com/compliance-with-safety-regulations-becomes-key-proposition-in-medical-robotics-market-2/"
-    ampWebUrl: "https://techbullion.com/compliance-with-safety-regulations-becomes-key-proposition-in-medical-robotics-market-2/amp/"
-    cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/compliance-with-safety-regulations-becomes-key-proposition-in-medical-robotics-market-2/amp/"
+  - title: "The Technology 202: House hearing highlights the lack of oversight of facial recognition technology"
+    excerpt: "Williams later found out he was wrongfully arrested after he was falsely identified as a shoplifting suspect in January 2020 by Detroit police after they used facial recognition t"
+    publishedDateTime: 2021-07-14T08:22:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2021/07/14/technology-202-house-hearing-highlights-lack-oversight-facial-recognition-technology/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2021/07/14/technology-202-house-hearing-highlights-lack-oversight-facial-recognition-technology/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/07/14/technology-202-house-hearing-highlights-lack-oversight-facial-recognition-technology/?outputType=amp"
     type: article
     provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 67
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 45
     images:
-      - url: "https://techbullion.com/wp-content/uploads/2021/07/ai-5899612_1920.jpg"
-        width: 1267
-        height: 912
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ALRJF5VLQEI6VJB3X2PWJFFIPU.jpg&w=1440"
+        width: 1440
+        height: 1080
         isCached: true
-  - title: "Facial-Recognition Tech Gets Bipartisan Call for More Regulation"
-    excerpt: "The use of facial-recognition software by law enforcement should be regulated, a bipartisan group of lawmakers said, amid concerns of misidentification and violations of constitutional rights and due process."
-    publishedDateTime: 2021-07-13T17:35:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2021-07-13/facial-recognition-tech-gets-bipartisan-call-for-more-regulation"
+  - title: "Michigan man misidentified by facial recognition technology warns Congress of risks posed by police surveillance"
+    excerpt: "A Michigan man who was wrongly arrested after being misidentified by facial recognition technology joined expert witnesses who warned a congressional subcommittee about the pitfalls of police surveillance software used to find suspects."
+    publishedDateTime: 2021-07-13T17:44:00Z
+    webUrl: "https://www.mlive.com/public-interest/2021/07/michigan-man-misidentified-by-facial-recognition-technology-warns-congress-of-risks-posed-by-police-surveillance.html"
+    ampWebUrl: "https://www.mlive.com/public-interest/2021/07/michigan-man-misidentified-by-facial-recognition-technology-warns-congress-of-risks-posed-by-police-surveillance.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-mlive-com.cdn.ampproject.org/c/s/www.mlive.com/public-interest/2021/07/michigan-man-misidentified-by-facial-recognition-technology-warns-congress-of-risks-posed-by-police-surveillance.html?outputType=amp"
     type: article
     provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 54
+      name: MLive
+      domain: mlive.com
+    quality: 38
     images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i35tDSsiJq1c/v1/1200x800.jpg"
-        width: 1200
-        height: 800
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/IWXH4NYTVRCQBC4MUGFDTP37GU.jpg"
+        width: 4904
+        height: 3678
         isCached: true
-  - title: "US Lawmakers Urge Regulation Of Facial-Recognition Use"
-    excerpt: "Some lawmakers came out against the use of facial recognition, citing concerns about misidentification and violations of due process and constitutional rights."
-    publishedDateTime: 2021-07-14T01:47:00Z
-    webUrl: "https://www.pymnts.com/news/regulation/2021/united-states-lawmakers-urge-regulation-facial-recognition-use/"
-    ampWebUrl: "https://www.pymnts.com/news/regulation/2021/united-states-lawmakers-urge-regulation-facial-recognition-use/amp/"
-    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/regulation/2021/united-states-lawmakers-urge-regulation-facial-recognition-use/amp/"
+  - title: "Is It Time to Regulate Facial Recognition and Other ‘Frontier’ Police Technology?"
+    excerpt: "As developments in law enforcement technology regarding DNA evidence matching and facial recognition software have begun \"pushing the frontiers of forensics,\" advocates warn that without oversight and proper understanding of the technology,"
+    publishedDateTime: 2021-07-14T15:06:00Z
+    webUrl: "https://thecrimereport.org/2021/07/14/is-it-time-to-regulate-facial-recognition-and-other-frontier-police-technology/"
     type: article
     provider:
-      name: pymnts.com
-      domain: pymnts.com
-    quality: 44
+      name: thecrimereport.org
+      domain: thecrimereport.org
+    quality: 34
     images:
-      - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/07/Sheila-Jackson-Lee-facial-recognition-457x274.jpg"
-        width: 457
-        height: 274
+      - url: "https://thecrimereport.org/wp-content/uploads/2020/01/24198752177_b4a3ef561d_k-1170x878.jpg"
+        width: 1170
+        height: 878
         isCached: true
   - title: "Most State Legislatures have rejected bans and severe restrictions on facial recognition"
     excerpt: "Facial recognition technology and related legislation have been a hot topic in the media and in policy discussions around the country. The Security Industry Association (SIA) is advocating nationwide for policies ensuring responsible use and sensible ..."
@@ -101,15 +103,20 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "New Renesas Solution For Automotive Cameras Enables High-Definition Video Using Low-Cost Cables and Connectors"
-    excerpt: "Renesas Electronics Corporation (TSE:6723), a premier supplier of advanced semiconductor solutions, today introduced its new Automotive HD Link (AHL) technology that enables automotive manufacturers to deliver high-definition video over low-cost cables and connectors that currently support standard-definition video."
-    publishedDateTime: 2021-07-13T12:15:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2021/07/13/9407548.htm"
+  - title: "New state laws require more police transparency, limit use of facial recognition technology"
+    excerpt: "One of the laws makes Maine the first state in the country to apply strict limits on facial recognition technology."
+    publishedDateTime: 2021-07-10T01:14:00Z
+    webUrl: "https://www.pressherald.com/2021/07/09/new-state-laws-require-more-police-transparency-limit-use-of-facial-recognition-technology/"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
+      name: Portland Press Herald
+      domain: pressherald.com
+    quality: 29
+    images:
+      - url: "http://multifiles.pressherald.com/uploads/sites/4/2017/01/pph-icon-red-linkforFB.png"
+        width: 300
+        height: 300
+        isCached: true
 
 secured: "Q3aIzYOqcZX3vU22mqKALgog5TIvZIvGwAU/akHN9npUR9v3K1rD3hkbXTfvFZhcmrLDNKoXQ3k/mXomyyE6ie8KtKrFQkW+mexJPsAfTqJK7h1pWRIDhuQtdIA9IsqEQ9+EXSh4rorzqPw8Jsg3C+E9aZemY+qwV9bOpsWAjYUyqaX99JuCW4rm+jMZnPLf0KbSyh4zO/scpcJrIv9ITmq4PrvvORedsD1M0x7vtPq3M/e+5uU56Ywg7lC3h4STrygNfyGAfeMJRtKaQVViC3xn4SxphCY8ZszOSVA4zHDEyoo+tsv6PTglCotKg87PAJIYlxence4jU0x2SbHTMps2/hT7bqE6suKRcsGUj972v2zqrnxw7c1HGvHw+KwmCVUzc+jTa8PKeVNP/VXXN9Rvu/L8C0nOOG/4CPe65m8o0vrrn2nBOthzzI7k6ywXDWys94UxPq2eaaT0xLfdKVbiUncpu2g7b1T6mdweMtLbBQffNqPHZmJKP4eg5g59+8u2hdqWepp00beiNeZU6A==;CUmjFdW45Ysey9zGLFEtuQ=="
 ---

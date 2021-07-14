@@ -9,8 +9,8 @@ ampWebUrl: "https://www.hindustantimes.com/brand-post/qpiai-launches-a-global-ai
 cdnAmpWebUrl: "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/brand-post/qpiai-launches-a-global-ai-and-quantum-marketplace-101626264598314-amp.html"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: Hindustan Times
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "Fellows.Fund Launches To Fund AI Breakthroughs"
+    excerpt: "Ten AI leaders have formed Fellows.Fund, a Sunnyvale, California-based investment platform that want to help AI researchers and engineers launch companies"
+    publishedDateTime: 2021-07-14T12:54:00Z
+    webUrl: "https://www.finsmes.com/2021/07/fellows-fund-launches-to-fund-ai-breakthroughs.html"
+    type: article
+    provider:
+      name: finsmes.com
+      domain: finsmes.com
+    quality: 39
+    images:
+      - url: "https://www.finsmes.com/wp-content/uploads/2021/07/fellows-fund.jpg"
+        width: 1200
+        height: 627
+        isCached: true
   - title: "AI Marketplace: the digital platform for tomorrow’s innovations"
     excerpt: "For the past year, experts from science and industry have been working on a platform for AI in product development."
     publishedDateTime: 2021-07-12T07:29:00Z

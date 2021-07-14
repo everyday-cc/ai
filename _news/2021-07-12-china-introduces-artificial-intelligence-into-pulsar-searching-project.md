@@ -40,15 +40,6 @@ related:
         width: 642
         height: 362
         isCached: true
-  - title: "Informatica Expands Cloud Footprint on Microsoft Azure Germany"
-    excerpt: "New Intelligent Data Management Cloud on Azure Bolsters Cloud Momentum in the European region FRANKFURT, Germany,  /PRNewswire/ -- Informatica, the enterprise cloud data management leader, today announced it will make its Intelligent Data Management Cloud (IDMC),"
-    publishedDateTime: 2021-07-13T07:13:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-informatica-expands-cloud-footprint-microsoft-azure-germany-/2021/07/13/9407196.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 34
   - title: "Informatica Launches Intelligent Data Management Cloud on Azure for Asia Pacific, Bolstering Cloud Momentum in the Region"
     excerpt: "Informatica, the enterprise cloud data management leader, today announced it has launched its Intelligent Data Management Cloud (IDMC) the industry's first end-to-end AI-powered cloud platform service available on Microsoft Azure Southeast Asia region for Asia Pacific customers,"
     publishedDateTime: 2021-07-13T01:46:00Z

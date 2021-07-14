@@ -29,20 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Defect detection and classification in manufacturing using Amazon Lookout for Vision and Amazon Rekognition Custom Labels"
-    excerpt: "Defect detection during manufacturing processes is a vital step to ensure product quality. The timely detection of faults or defects and taking appropriate actions are essential to reduce operational and quality-related costs. According to Aberdeen’s research, “Many organizations will have true quality-related"
-    publishedDateTime: 2021-07-13T16:01:33Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/defect-detection-and-classification-in-manufacturing-using-amazon-lookout-for-vision-and-amazon-rekognition-custom-labels/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 81
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/07/02/ml3795-image013.jpg"
-        width: 2019
-        height: 699
-        isCached: true
   - title: "Compliance with Safety Regulations Becomes Key Proposition in Medical Robotics Market"
     excerpt: "Robots have enormous potential in medical and healthcare applications, as is evident in the swift pace of penetration in the sector. Per a projection by the International Federation of Robots (IFR), the medical robotics spawn a multibillion dollars market."
     publishedDateTime: 2021-07-14T10:11:00Z
@@ -75,45 +61,15 @@ related:
         width: 457
         height: 274
         isCached: true
-  - title: "Farmington Hills man misidentified by facial recognition technology testifies at Congressional hearing"
-    excerpt: "The Farmington Hills man who has sued Detroit police after being wrongfully identified by the department's facial recognition technology in a shoplifting investigation is testifying in front of a congressional subcommittee Tuesday."
-    publishedDateTime: 2021-07-13T14:59:00Z
-    webUrl: "https://www.fox2detroit.com/news/farmington-hills-misidentified-by-detroit-police-facial-recognition-technology-testifies-in-congress"
-    ampWebUrl: "https://www.fox2detroit.com/news/farmington-hills-misidentified-by-detroit-police-facial-recognition-technology-testifies-in-congress.amp"
-    cdnAmpWebUrl: "https://www-fox2detroit-com.cdn.ampproject.org/c/s/www.fox2detroit.com/news/farmington-hills-misidentified-by-detroit-police-facial-recognition-technology-testifies-in-congress.amp"
+  - title: "Ai In Medication Management Market"
+    excerpt: "The Global Ai In Medication Management Market Report is a study of prevailing drivers, trends, forecast, and restraints in the global landscape. The report is the latest addition to the vast data ..."
+    publishedDateTime: 2021-07-12T10:48:00Z
+    webUrl: "https://www.openpr.com/news/2326242/ai-in-medication-management-market-latest-industry-trends"
     type: article
     provider:
-      name: WJBK
-      domain: fox2detroit.com
-    quality: 43
-    images:
-      - url: "https://images.foxtv.com/static.fox2detroit.com/www.fox2detroit.com/content/uploads/2021/04/932/470/wjbk-facial-recognition-aclu-lawsuit.jpg?ve=1&tl=1"
-        width: 932
-        height: 470
-        isCached: true
-  - title: "Most State Legislatures have rejected bans and severe restrictions on facial recognition"
-    excerpt: "Facial recognition technology and related legislation have been a hot topic in the media and in policy discussions around the country. The Security Industry Association (SIA) is advocating nationwide for policies ensuring responsible use and sensible ..."
-    publishedDateTime: 2021-07-12T22:00:00Z
-    webUrl: "https://www.securityinfowatch.com/access-identity/biometrics/facial-recognition-solutions/article/21230121/security-industry-association-sia-most-state-legislatures-have-rejected-bans-and-severe-restrictions-on-facial-recognition"
-    type: article
-    provider:
-      name: Security
-      domain: securityinfowatch.com
-    quality: 30
-    images:
-      - url: "https://img.securityinfowatch.com/files/base/cygnus/siw/image/2021/07/bigstock_Facial_Recognition_System_Iden_387020311.60ecba89a36b9.png?auto=format&fit=max&w=1200"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "New Renesas Solution For Automotive Cameras Enables High-Definition Video Using Low-Cost Cables and Connectors"
-    excerpt: "Renesas Electronics Corporation (TSE:6723), a premier supplier of advanced semiconductor solutions, today introduced its new Automotive HD Link (AHL) technology that enables automotive manufacturers to deliver high-definition video over low-cost cables and connectors that currently support standard-definition video."
-    publishedDateTime: 2021-07-13T12:15:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2021/07/13/9407548.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
+      name: openpr.com
+      domain: openpr.com
+    quality: 19
 
 secured: "ZazrXch/FB/qXISqBHpzoT4GKsJ6xfGTvS1/kDdmaZrpoXH1/NLGyB4Bb8JHfYnjtj+OO6P6MccQEe7o1HV6099M6NAa2zSB1U9hiDxMs9+7jT7Oq5YFfkB0V0oxRPMurmM2c3VrDeeZtFir+xJJNLTvFh76eU/xMdeHkIBkeFPWECMF6NbLS8BvqynXJS73eED64wwsD2ZQzJLetJM0OObX2TFOkVIVGEuL0unNO0y0CCsPjSloYgwRR7WDyyrC/siIBXRbRV5PaNf/yFFWwgrP+6k0Heh/5mqxkmS+LIMpzgyqn4RUnc5r6x0tcilv+RYQcDf3eL71jY5CRb2D4bIsg/VHJ1jOyojOa7oXHBE=;tt8aewJz+Pr81Sm3AYIIkg=="
 ---

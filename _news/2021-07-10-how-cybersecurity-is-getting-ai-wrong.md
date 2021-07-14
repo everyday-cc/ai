@@ -46,6 +46,20 @@ related:
         width: 5570
         height: 3713
         isCached: true
+  - title: "Ensure AI brings social good and not inequity: Experts at Asia Tech x Singapore"
+    excerpt: "SINGAPORE - Artificial intelligence (AI) technologies can bring a wide range of opportunities and benefits, but they also come with the risk of perpetuating biases and inequitable distribution of those benefits."
+    publishedDateTime: 2021-07-14T14:37:00Z
+    webUrl: "https://www.straitstimes.com/tech/ensure-ai-brings-social-good-and-not-inequity-experts-at-asia-tech-x-singapore"
+    type: article
+    provider:
+      name: The Straits Times
+      domain: straitstimes.com
+    quality: 35
+    images:
+      - url: "https://static.straitstimes.com.sg/s3fs-public/styles/x_large/public/articles/2021/07/14/yq-aisg-14072025.jpg?itok=F0fWGAVC"
+        width: 763
+        height: 509
+        isCached: true
   - title: "Artificial Intelligence (AI) in Cybersecurity Market Worth Observing Massive Growth: Acalvio Technologies Inc., Check Point Software Technologies Ltd"
     excerpt: "The recent report titled Global Artificial Intelligence AI in Cybersecurity Market and forecast to 2028 published by QY Reports is a focused study encompassing the market segmentation primarily based on type and application The report investigates the key drivers leading"
     publishedDateTime: 2021-07-14T04:00:00Z

@@ -3,8 +3,8 @@ category: news
 title: "Fractal Announces Launch of Crux Intelligence, the Next-Generation Business Intelligence Company That Puts AI in the Hands of Every Business User"
 excerpt: "Fractal, ( fractal.ai ), a global provider of artificial intelligence and advanced analytics solutions to Fortune 500® companies, today announced the launch of Crux Intelligence, a new provider of comprehensive Augmented Analytics products."
 publishedDateTime: 2021-07-14T12:45:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-fractal-announces-launch-crux-intelligence-next-generation-business-/2021/07/14/9408846.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-fractal-announces-launch-crux-intelligence-next-generation-business-/2021/07/14/9408846.htm"
+originalUrl: "https://www.tmcnet.com/usubmit/2021/07/14/9408846.htm"
+webUrl: "https://www.tmcnet.com/usubmit/2021/07/14/9408846.htm"
 type: article
 quality: 0
 heat: -1
@@ -50,6 +50,6 @@ related:
         height: 1200
         isCached: true
 
-secured: "o0PX3Cj4yeHUUDD556e9Iirko0AQbyz/Bmc9qieTun1z/mvAW5P2AEmCOTSPrR8wHUt7+u/6Oz5mdHGEWH6CbmzjzjUhncB7RfR21XjX3BHLVp6O9mYKD7He8SkM7j7cZjJ1F7B5qdjbfMaA7GeFI30TsgnXaQCGSmdsNb4OtSScO5vDLQY6mQtWNp30MYu+3QwHRzZJ7RIlC4kDTX8Kb3h0SFgNqO6WRlG3KezxS7CwZM5bBHb4I77+UqTBZVOoKtzZUbBmlN4BKCeRnleOPGDrJuVVom+qO3pczHwZbYUvosclYIvIbfzLKa9mtRhYuFTCawG302Iya38v3qorF9vRjM3Qo83+x8tQp0jRrTU=;ARUAGDTt5db/d3os4JmIaA=="
+secured: "MoYBAn/VUUlKnXVbhSSgIBbyJyqWLPhqtMYXCR45MMDzQ2MIm/ZA9DlQOAL1i/Kej5gUrkLOhMZ/VqYn2uW7BKYxM3rKUkFxuJQ86o2cY026VvoslWGxLpjMtO9/niBn/ahZdzaDCBIJSVtZSa6a978aETNBKFT9ge+HihCaHW7Ct3ftCBq/hgUGsUGBVnWx2tmVgDJEui2C38FN1RX9kLgG2j96Fu9+4qd0ulpAM82iUo6Fn62y6Dqb4I3ESJpAI9yEzmMz+5zcm47PuH2v/rk5OHiGdcCmn4XoFpbY/v4LspFezbDGLxs/2JiWybwW5Zu6dTxs+b6gi/JQRrb0g+dNQa1hnVYr70sg/UGGtqM=;4ShqtThRFAtMCfe3NxmSrQ=="
 ---
 

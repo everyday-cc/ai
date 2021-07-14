@@ -1,27 +1,27 @@
 ---
 category: news
 title: "D2iQ Now Available in the Microsoft Azure Marketplace"
-excerpt: "D2iQ, a leading independent Kubernetes platform, today announced the availability of the D2iQ Kubernetes Platform (DKP), including"
-publishedDateTime: 2021-07-12T13:03:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/d2iq-now-available-in-the-microsoft-azure-marketplace-301331501.html"
-webUrl: "https://www.prnewswire.com/news-releases/d2iq-now-available-in-the-microsoft-azure-marketplace-301331501.html"
+excerpt: "D2iQ, a leading independent Kubernetes platform, today announced the availability of the D2iQ Kubernetes Platform (DKP), including D2iQ Kommander, D2iQ Konvoy, and D2iQ Kaptain, in the Microsoft Azure Marketplace,"
+publishedDateTime: 2021-07-12T13:07:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-d2iq-now-available-the-microsoft-azure-marketplace-/2021/07/12/9406732.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-d2iq-now-available-the-microsoft-azure-marketplace-/2021/07/12/9406732.htm"
 type: article
 quality: 69
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - Microsoft AI
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/1156495/D2IQ_Logo.jpg?p=facebook"
-    width: 2161
-    height: 1130
+  - url: "https://mma.prnewswire.com/media/1156495/D2IQ_Logo.jpg"
+    width: 400
+    height: 400
     isCached: true
 
 related:
@@ -143,6 +143,6 @@ related:
       domain: finextra.com
     quality: 34
 
-secured: "GDEpbGFBAklYh31dIzNk4B+vnTU6c0NrsUoRlpt5BIq8GfhHFH99lhsw17ZdFikxlloyK9GIcVOx3UuYrP2wXC7rowWuMlmyjf55SGJfDCORUY8RR5tPCFHmTw14NeFmfE8Gz9/HYCd54mRd7539j5ZkPm6FqG3bt1F4OlVxo1OYbv9+90aCVyHtAJ1aFERWiDtOYeqoTjIMZ45++zggh8mSCRtiO9xm7dfB7yuUinDesNwWew8v/VK6iMGN/YEjgSsejxo4npDBcUKJek2Lr7bgqcMSywE1ssZY0LkrWyRcFttC5ycMySXxaIYeMNX61RX5farkf0P5WMQGhcf7i5CSqvOxeva26jfMXgl7SRNTOPxXAhmppVGtYlCuo+jvRZhVBs1yFY7mtvUHByjFv5i2HXxEQFASYj7FejgTAIvJwygH9h+jNLxq4KCMkQkk7MRhE8uXLYJPS73QlC3Et86zbJt9mCxgs+2DjJZ5HT/lPaOWuy7ZixGU9fAtxt6eTtMrstH2uh33nwgugi/D0g==;8H4SS8tQoEeOHBAmgcuPYw=="
+secured: "u1xl2cN/jo5Lm66pIQ5k/z+Q2mFv7w5BhDtsuLATsQP9zfGZjcVNSUpmo+vxeoJeut/H2QV4sX0KyfXrxeOZoYtDKOYxu7rOMBJ0T9df3AMDhihpi4BILlynESprmdh5zFdpG/BjjvEt3WUBw8QFzFxpRo7bCTaEoqtr9aKQbDKIAS8pcIodnIpZW+njynv3EBaELdPSwucy7TB97WNIKI6DjJV/SLDlAAhAlCNtG0au18Vtcy/o+zOGwqYX/UJoz2l68gOyLqx9nqNh3/04lVNYG0wwxmGcis0no96NRzK9C093L/B2qDNUBfFiljGiKH27x/Z8epks7R/sutMWismCnOWvBQQpNf8fzWy8oHs=;IAcdxNeK1FcEFQf12M4f+A=="
 ---
 

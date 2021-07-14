@@ -25,21 +25,35 @@ images:
     isCached: true
 
 related:
-  - title: "Digital Transformation: Microsoft Azure Cloud Platform to be Used by Canadian Imperial Bank of Commerce"
-    excerpt: "The Canadian Imperial Bank of Commerce (CIBC) (TSE: CM), a multinational banking and financial services corporation headquartered in Toronto, Ontario, has entered a multi-year deal to use Microsoft Azure as its main Cloud platform."
-    publishedDateTime: 2021-07-12T23:22:00Z
-    webUrl: "https://www.crowdfundinsider.com/2021/07/177735-digital-transformation-microsoft-azure-cloud-platform-to-be-used-by-canadian-imperial-bank-of-commerce/"
-    ampWebUrl: "https://www.crowdfundinsider.com/2021/07/177735-digital-transformation-microsoft-azure-cloud-platform-to-be-used-by-canadian-imperial-bank-of-commerce/amp/"
-    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/07/177735-digital-transformation-microsoft-azure-cloud-platform-to-be-used-by-canadian-imperial-bank-of-commerce/amp/"
+  - title: "Microsoft Azure receives new features and enhanced migration services"
+    excerpt: "Microsoft announced a host of enhanced products across Azure, including the Azure Migration and Modernization Program."
+    publishedDateTime: 2021-07-14T15:00:00Z
+    webUrl: "https://venturebeat.com/2021/07/14/microsoft-azure-receives-new-features-and-enhanced-migration-services/"
+    ampWebUrl: "https://venturebeat.com/2021/07/14/microsoft-azure-receives-new-features-and-enhanced-migration-services/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/14/microsoft-azure-receives-new-features-and-enhanced-migration-services/amp/"
     type: article
     provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 75
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 104
     images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2021/07/Christina-Kramer-284x300.jpg"
-        width: 284
-        height: 300
+      - url: "https://venturebeat.com/wp-content/uploads/2020/12/microsoft-azure.png?w=1200&strip=all"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Microsoft announces free extended security updates for Windows Server 2012 on Azure"
+    excerpt: "John Chirapurath, Vice President, Azure Data & AI at Microsoft, emphasized the company's continued commitment to innovate its cloud-native Azure solutions, saying that: Our commitment to developers is to make Azure the best cloud for developing intelligent ..."
+    publishedDateTime: 2021-07-14T15:00:00Z
+    webUrl: "https://www.neowin.net/news/microsoft-announces-free-extended-security-updates-for-windows-server-2012-on-azure/"
+    type: article
+    provider:
+      name: Neowin
+      domain: neowin.net
+    quality: 95
+    images:
+      - url: "https://cdn.neow.in/news/images/uploaded/2021/05/1620422430_azure_logo_new_2_story.jpg"
+        width: 760
+        height: 428
         isCached: true
   - title: "CIBC chooses Microsoft Azure as its primary cloud platform"
     excerpt: "Microsoft Azure technology will also continue to offer scalable computing power for CIBC’s enterprise data lake and its artificial intelligence (AI)/machine learning (ML) platform to help it provide innovative client solutions. “Leveraging cutting-edge ..."
@@ -66,6 +80,103 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 64
+  - title: "Microsoft Launches 'Inside Azure for IT' Learning Portal"
+    excerpt: "Microsoft on Monday announced the launch of Inside Azure for IT, a new learning site \"for cloud professionals of all skill levels.\" Inside Azure for IT contains links to so-called \"fireside chats ..."
+    publishedDateTime: 2021-07-13T19:38:00Z
+    webUrl: "https://redmondmag.com/articles/2021/07/13/inside-azure-for-it-learning-portal.aspx"
+    type: article
+    provider:
+      name: Redmond Magazine
+      domain: redmondmag.com
+    quality: 54
+    images:
+      - url: "https://redmondmag.com/-/media/ECG/visualstudiomagazine/Images/introimages/0913vsm_randolph.jpg"
+        width: 647
+        height: 450
+        isCached: true
+  - title: "Icertis Recognized as the Winner of 2021 Microsoft AI Partner of the Year"
+    excerpt: "Icertis, the contract intelligence company that pushes the boundaries of what's possible with contract lifecycle management (CLM), announced today that it has won the Artificial Intelligence (AI) 2021 Microsoft Partner of the Year Award and been named a Finalist of the Global ISV Microsoft Partner of the Year Award for the fourth year in a row."
+    publishedDateTime: 2021-07-13T13:12:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2021/07/13/9407857.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 53
+    images:
+      - url: "https://mma.prnewswire.com/media/371539/Icertis_Logo.jpg"
+        width: 400
+        height: 260
+        isCached: true
+  - title: "Icertis Recognized as the Winner of 2021 Microsoft AI Partner of the Year"
+    excerpt: "Icertis, the contract intelligence company that pushes the boundaries of what's possible with contract lifecycle management (CLM),"
+    publishedDateTime: 2021-07-14T11:00:00Z
+    webUrl: "https://www.prnewswire.com/il/news-releases/icertis-recognized-as-the-winner-of-2021-microsoft-ai-partner-of-the-year-301332309.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 53
+    images:
+      - url: "https://mma.prnewswire.com/media/1515204/icertis_Logo.jpg?p=facebook"
+        width: 600
+        height: 314
+        isCached: true
+  - title: "Sierra Wireless Partners with Microsoft to Enable Advanced Asset Tracking Capabilities via Azure IoT Central"
+    excerpt: "Sierra Wireless’ Acculink managed IoT solution integrated with Microsoft Azure IoT Central brings simplicity, extra functionality and capabilities for customersVANCOUVER, British Columbia--(BUSINESS WIRE)--Sierra Wireless (NASDAQ: SWIR) (TSX: SW),"
+    publishedDateTime: 2021-07-13T13:00:00Z
+    webUrl: "https://us.acrofan.com/detail.php?number=498882"
+    type: article
+    provider:
+      name: 아크로팬
+      domain: acrofan.com
+    quality: 35
+    images:
+      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
+        width: 580
+        height: 339
+        isCached: true
+  - title: "Informatica Expands Cloud Footprint on Microsoft Azure Germany"
+    excerpt: "New Intelligent Data Management Cloud on Azure Bolsters Cloud Momentum in the European region FRANKFURT, Germany,  /PRNewswire/ -- Informatica, the enterprise cloud data management leader, today announced it will make its Intelligent Data Management Cloud (IDMC),"
+    publishedDateTime: 2021-07-13T07:13:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-informatica-expands-cloud-footprint-microsoft-azure-germany-/2021/07/13/9407196.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 34
+  - title: "NEC signs new partnership with Microsoft, to migrate IT to Azure"
+    excerpt: "NEC said it expanded its decades-long collaboration with Microsoft. Through a new multi-year strategic partnership, the companies will leverage Microsoft Azure, Microsoft 365, NEC's network and IT expertise,"
+    publishedDateTime: 2021-07-13T08:29:00Z
+    webUrl: "https://www.telecompaper.com/news/nec-signs-new-partnership-with-microsoft-to-migrate-it-to-azure--1389976"
+    type: article
+    provider:
+      name: Telecompaper
+      domain: telecompaper.com
+    quality: 34
+  - title: "Voice Recognition Systems Market Is Booming Worldwide | Nuance Communications, Microsoft, Agnitio"
+    excerpt: "Announced Voice Recognition Systems study with 200+ market data Tables and Figures spread through Pages and easy to understand detailed TOC on “Voice Recognition Systems. Voice Recognition Systems industry Report allows you to get different methods for maximizing your profit."
+    publishedDateTime: 2021-07-12T18:40:00Z
+    webUrl: "https://manometcurrent.com/voice-recognition-systems-market-is-booming-worldwide-nuance-communications-microsoft-agnitio/"
+    type: article
+    provider:
+      name: manometcurrent.com
+      domain: manometcurrent.com
+    quality: 28
+    images:
+      - url: "https://manometcurrent.com/wp-content/uploads/2021/07/chart-2021-07-13T001031.329-780x470.jpg"
+        width: 780
+        height: 470
+        isCached: true
+  - title: "Kwik Lok adds Microsoft executive to board"
+    excerpt: "Jeff’s addition to Kwik Lok’s board of directors brings many opportunities to expand our innovation, collaboration and technology initiatives,” Kimberly Paxton-Hagner, Kwik Lok board chairwoman, said in a news release."
+    publishedDateTime: 2021-07-12T23:08:00Z
+    webUrl: "https://www.thepacker.com/news/people/kwik-lok-adds-microsoft-executive-board"
+    type: article
+    provider:
+      name: The Packer
+      domain: thepacker.com
+    quality: 19
 
 secured: "4NZnNZTt11j7pZKt718FMXJ5ae20xpWIKBpK76ahUyzv4V5Uq8Cq9fxlpDThkNj/x/Y45h/sRtl8a4+lIW0/ijS4oZPvSep5tLm73njTiuqYLC7jAJ6ePqTT/h5i7zdKUeNBcVwjmypXSOf8w/dUWgMQyQZLPdiSwMMDMTF28nbWeZZCdVj+c6Og3eRLxzdmjaC+gAXYTn/qcLhDQEmHX882pkBpHbL+JRvrqxfVzG/+i6gQtPHtTp5SWYqmeNRw7L5BYMWs5yzPmmV2I6qBEoMsE1QwSNT/B0isv7S7MHsCOPhnvynM80Y95zTXUdI/ijthDLYm4QOGAZCrjS/QiIGoJ967MhJmi4ZdyrTlf2k3BWXRNaTYv8mRCWF5hjNDYLyn2I84pPJZuU3wiFE7xYNnYidh4IjSmWGvAzEZFvx5IbGZtof/8Mp70maSzXjBMKedK1UQNe20TKwa7b2DCHlw7KW7nm7S6bUJCnsFlgK5+zLj5UufkUFj1IJz2e12HiWYDs5XWeUr+ODYx+uY8g==;XP/9ZiCkszx9sMwOqXOdAQ=="
 ---

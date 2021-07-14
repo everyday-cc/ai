@@ -129,6 +129,17 @@ related:
         width: 1350
         height: 759
         isCached: true
+  - title: "Activists call out Ace Hardware, Apple stores for using facial recognition on customers"
+    excerpt: "A coalition of civil rights groups are urging retail stores to stop their use of facial recognition technology with a new campaign."
+    publishedDateTime: 2021-07-14T15:53:00Z
+    webUrl: "https://www.dailydot.com/debug/facial-recognition-retail-stores-scorecard/"
+    ampWebUrl: "https://www.dailydot.com/debug/facial-recognition-retail-stores-scorecard/?amp"
+    cdnAmpWebUrl: "https://www-dailydot-com.cdn.ampproject.org/c/s/www.dailydot.com/debug/facial-recognition-retail-stores-scorecard/?amp"
+    type: article
+    provider:
+      name: The Daily Dot
+      domain: dailydot.com
+    quality: 31
   - title: "Facial Recognition Is Doing Harm Right Now. It’s Unacceptable for Lawmakers To Do Anything Other Than Ban It."
     excerpt: "The House Judiciary Committee is holding a hearing today on facial recognition technology. They’re expected to discuss a wide range of issues including the recent GAO report on federal government use of facial recognition and the Facial Recognition and Biometric Technology Moratorium Act."
     publishedDateTime: 2021-07-13T15:27:00Z

@@ -58,6 +58,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Ensure AI brings social good and not inequity: Experts at Asia Tech x Singapore"
+    excerpt: "SINGAPORE - Artificial intelligence (AI) technologies can bring a wide range of opportunities and benefits, but they also come with the risk of perpetuating biases and inequitable distribution of those benefits."
+    publishedDateTime: 2021-07-14T14:37:00Z
+    webUrl: "https://www.straitstimes.com/tech/ensure-ai-brings-social-good-and-not-inequity-experts-at-asia-tech-x-singapore"
+    type: article
+    provider:
+      name: The Straits Times
+      domain: straitstimes.com
+    quality: 35
+    images:
+      - url: "https://static.straitstimes.com.sg/s3fs-public/styles/x_large/public/articles/2021/07/14/yq-aisg-14072025.jpg?itok=F0fWGAVC"
+        width: 763
+        height: 509
+        isCached: true
 
 secured: "0OlM5tY19rkQJm7fiK2gu4HrpD873ykTMGfnqBeHF6pmqfNLRRQXB7ufsd5qAPH6vMSjjlHg57bjAFit6L7hukALBbmi8W5uvjRhASprPzVEy8MR2cA+MTYSRVk7bl3ollCQXDotAdY/IEf879YG2RcPe4aAjA0mOTtP5oyqWhcxb3VB1ktuimUh4WgypRnUytHNUyKy5UA+QFfC/2J00Fxc6e2Ape9FAchPGpiVD7MKJpRZFT4WO2VEsIxBSaRAhIr7owmviC796PrH2YK2cSMrgGsGkWA+8vkaY/GaU9lSAV4x9vROZMUYLk+ocG6EEqehhKZ+d0MAPObkCvQd9juzvXjAxP0ouT4HCIrMnNaMA9lGK77EnJm1YJX9eS2GqjtvZt+Vg9xUnIWPbib2we2RQPh5hnL7WGg7teIsirVCvWBlXN4OdNT5xPHwjllADz/ryfG5n8W+rubXhSBJuTPCIVkSUnS6ngLrhAXoQ8GAzEbev/lbzMZuziAnJouyUQx3LEWtBXVmWFU/YZL5fg==;mWwNJ9TxoBE+/qeaoL4ZFw=="
 ---

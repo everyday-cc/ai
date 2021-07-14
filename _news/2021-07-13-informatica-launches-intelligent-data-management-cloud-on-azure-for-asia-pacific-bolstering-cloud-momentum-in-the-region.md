@@ -53,15 +53,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Informatica Expands Cloud Footprint on Microsoft Azure Germany"
-    excerpt: "New Intelligent Data Management Cloud on Azure Bolsters Cloud Momentum in the European region FRANKFURT, Germany,  /PRNewswire/ -- Informatica, the enterprise cloud data management leader, today announced it will make its Intelligent Data Management Cloud (IDMC),"
-    publishedDateTime: 2021-07-13T07:13:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-informatica-expands-cloud-footprint-microsoft-azure-germany-/2021/07/13/9407196.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 34
 
 secured: "T0tUb0rUZI0P6h7Y9vBHMLJNU0KvrtOW5FWVYgRTkivooumoQz5iSpW9sUkwW/gdb4qS/nfy0UhM2u4OJkB9ZmRlyCbmx9+WpayTJgsEHDx+ZFradxw0ql8jF/UmT3n43Z/RJmfCEC8wkfs71V5R1vHn1dXwqmeRB6KDkZWcMc3XFaX03OdW2k6YYN1wrmAf+dGL4IasmuB080/Hof/b+WxgrZ4iPsaAFZ8DYT/T/aa5fiB7Kbpwe5hOaL4r4F0d0mGE7v22LtDfKz+N1TJX4rEuVphE29rKsid0NoC/UBMEbLfwxUfLG3CTH5Lw2jzGuZngYc8ry0RGmWkd0N6LcABA+0Q+NGbNem4qQQUn3QzXvB39eolWG1FmIV6Gaw5FUD7QA3oDk3+v8Pq44daITGnYT/Ai62+ebf5gbLqYk/DQK/vrXCFOO+6zbtrPI1HuD0BfXAetio9ikFo6f5vPNZckKNQWdTk+SmDzVU7wiX3dl2t+ELOubry0bh2uXSCkXUntlw95lqQuBnWTrcMPhA==;jbG8zaSVLAwePVhQGriJ4A=="
 ---

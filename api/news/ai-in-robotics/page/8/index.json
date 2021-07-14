@@ -2,6 +2,58 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2021-05-13-the-fulfilling-world-of-warehouse-robotics.md",
+      "title": "The fulfilling world of warehouse robotics",
+      "excerpt": "With the pandemic finish line in sight — at least for some — now is a good time to start assessing which segments have been most impacted by the events of the past year and a half. In terms of robotics,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/05/13/robotics-roundup-11/",
+      "originalUrl": "https://techcrunch.com/2021/05/13/robotics-roundup-11/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/03/GettyImages-1124819781.jpg?w=1024",
+          "width": 1024,
+          "height": 677,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/05/13/robotics-roundup-11/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/05/13/robotics-roundup-11/amp/",
+      "publishedDateTime": "2021-05-13T08:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-13-the-myth-of-artificial-intelligence-academicinfluencecom-features-author-and-computer-scientist-erik-larson.md",
       "title": "The Myth of Artificial Intelligence--AcademicInfluence.com Features Author and Computer Scientist Erik Larson",
       "excerpt": "Not so fast, says author and computer scientist Erik Larson, Ph.D. In his latest book, The Myth of Artificial Intelligence: Why Computers Can't Think the Way We Do, he notes that perhaps the replacement of human beings with artificial intelligence and \"thinking machines\" is not as imminent as we fear.",
@@ -1325,40 +1377,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-04-path-robotics-raises-56m-for-aggressive-expansion-of-ai-powered-welding.md",
-      "title": "Path Robotics raises $56M for 'aggressive' expansion of AI-powered welding",
-      "excerpt": "Path Robotics Inc. has raised $56 million to perfect the engineering of its AI-driven autonomous welding robot and aggressively expand sales to manufacturers across the country. New York City VC firm Addition led the Series B round,",
-      "sourceUrl": null,
-      "webUrl": "https://www.bizjournals.com/cleveland/news/2021/05/03/path-robotics-raises-56m-to-add-65-jobs.html",
-      "originalUrl": "https://www.bizjournals.com/cleveland/news/2021/05/03/path-robotics-raises-56m-to-add-65-jobs.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-03T10:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Business Journals",
-        "domain": "bizjournals.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

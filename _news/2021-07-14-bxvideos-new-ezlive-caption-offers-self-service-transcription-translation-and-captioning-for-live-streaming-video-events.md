@@ -1,23 +1,23 @@
 ---
 category: news
-title: "BxVideo's New EZLive Caption Offers Self-Service Transcription, Translation and Captioning for Live-Streaming Video Events"
-excerpt: "BxVideo, a leader for live-stream video services and products, today announced EZLive Caption, a subscription-based web-service that automatically transcribes, translates and captions live streaming video."
-publishedDateTime: 2021-07-14T13:05:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-bxvideos-new-ezlive-caption-offers-self-service-transcription-/2021/07/14/9409013.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-bxvideos-new-ezlive-caption-offers-self-service-transcription-/2021/07/14/9409013.htm"
+title: "BxVideo’s New EZLive Caption Offers Self-service Transcription, Translation and Captioning for Live-Streaming Video Events"
+excerpt: "Adding high-quality captioning is now easy, fast and affordable for organizations who produce their own Live events"
+publishedDateTime: 2021-07-14T15:26:00Z
+originalUrl: "https://www.streamingmedia.com/Producer/Articles/News/Featured-News/BxVideos-New-EZLive-Caption-Offers-Self-service-Transcription-Translation-and-Captioning-for-Live-Streaming-Video-Events-147954.aspx"
+webUrl: "https://www.streamingmedia.com/Producer/Articles/News/Featured-News/BxVideos-New-EZLive-Caption-Offers-Self-service-Transcription-Translation-and-Captioning-for-Live-Streaming-Video-Events-147954.aspx"
 type: article
 quality: 0
 heat: 0
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Streaming Media Magazine
+  domain: streamingmedia.com
 
 topics:
   - Natural Language Processing
   - AI
 
-secured: "dCLPk+tcjIjtTF7u9s4vvhERJIjWKJAH4r2u8fxXxEsFNt9pHhFZplC+gaOjHi61P4MJk8zLcsp7/sDN9hxFh8ilgUo7TGKhMuikxp4en7eYjTBkUYkyFlhxjxU0VS4jNTIMUcNA+Kut/Gt8gtMWEoREBdoymZBTkbewo6EWPELwcFrwiA0avYCyNDXDGeOHtYXC4XE6AnCGtZBNVzRnx2drRNMFnXPVV4TmtzCYhxB/mTprEhoxWn0U0f78OHfi9sPtGTBEPGYghDFUt9bCONSi20iArvNvHV7/2ZmbTPkZWdCDT04pimEqvKhZBbsPbuBgbGoQHtJG+xQmyHYAqcrHvvmBMIIH6u53yXDx4gA=;780CZDyGMn17IEKui5ZcwQ=="
+secured: "AxXa/OFFPWkUF/48hcevN17bIpxEJfm94oLIhwTAm2V/veZRxt5Id/BlY/BIdbdLl+CORG5+HkVjd+zId+on5AkVZUV0MRRqKpTMDXq3nMupOliQYeGlv6Ixlf9TDsgHvOB9bcfM8EL7GwAtblN4fhBhPuPyVti/rrK4BYi7KoihkxPNctalmrjPWfmpdepQkPg767U6OmG/DoVo4THlqqUDzCfSccapbAZu3F7gxbMVeDh1AClE5amxk1pVC/zHC+vGAWXnlkGgJm4CAH9/7IhUNYmYLrxh+BNk+2S157AIf/YZb0Lf+06mE4wHTSqrysy4HHepWmd7o/sChIej4UN8cNc5XhvRP5YRuE78Uzw=;gRyuuIM3Bc50VFmPMJKbIA=="
 ---
 

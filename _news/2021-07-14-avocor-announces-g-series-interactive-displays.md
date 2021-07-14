@@ -7,7 +7,7 @@ originalUrl: "https://www.avnetwork.com/news/avocor-announces-g-series-interacti
 webUrl: "https://www.avnetwork.com/news/avocor-announces-g-series-interactive-displays"
 type: article
 quality: 24
-heat: 24
+heat: -1
 published: false
 
 provider:
@@ -26,20 +26,22 @@ images:
 
 related:
   - title: "Avocor Announces Powerful New Edge-to-Edge Interactive Displays"
-    excerpt: "Sized to fit a range of environments, the 65\", 75\", and 85\" screens are backlit by industrial-grade LED's and glass bonded with zero parallax and anti-glare to offer the most realistic writing experience available, with advanced object recognition that ..."
-    publishedDateTime: 2021-07-14T13:04:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/avocor-announces-powerful-new-edge-to-edge-interactive-displays-301333760.html"
+    excerpt: "Designed for the modern meeting space, the new G series displays deliver vast functionality and an intuitive UI within the company’s boldest and brightest form factor yet."
+    publishedDateTime: 2021-07-14T13:20:00Z
+    webUrl: "https://www.twice.com/the-wire/avocor-announces-powerful-new-edge-to-edge-interactive-displays"
+    ampWebUrl: "https://www.twice.com/the-wire/avocor-announces-powerful-new-edge-to-edge-interactive-displays?amp"
+    cdnAmpWebUrl: "https://www-twice-com.cdn.ampproject.org/c/s/www.twice.com/the-wire/avocor-announces-powerful-new-edge-to-edge-interactive-displays?amp"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 24
+      name: Twice
+      domain: twice.com
+    quality: 44
     images:
-      - url: "https://mma.prnewswire.com/media/1574054/Avocor1.jpg?p=facebook"
-        width: 1999
-        height: 1047
+      - url: "https://www.twice.com/wp-content/uploads/2021/07/Avocor_G_series_left_angled_UiQ.png"
+        width: 2000
+        height: 1250
         isCached: true
 
-secured: "H1u2AZY3NLfmI7cb9uVduCR93PDsO6NaXg3rIskrZxcvpseJ1XD8XpmzTzGi/bt1XpRcDB6sUhwZy0Trg6F7OSB9c9k0SJRimuFEfy5URt/IzofG4ko/6I7jE9A8pfVcA+6i7nZpK92PDvbXbEZIh6HXU2iU61PjPDkt6+Mb1eqOudOw0OlJ3Bi5oUhBSEyGegjkETVGpycjaQokv86bjI2pbMYSiWFNc+y3j7L4+GKBGHhDRxIeJ+E/z0CJfqf8E7oJCH+CJ2KSuEZUVTEAE9iJTZC/tXwuemTGJTvNyewKL6SsvDXH4kOaDpV0hQIL2s60RcHdbU16R3QlhRGFEbzdr05bcRtZDC8vjWPxrNA=;0riUBqA5k6JpNW9lS0Dzgg=="
+secured: "QQYEbGb53cym5LGBaVgAJ65VAeI5ify8lhbgSguU04k71a/kwrxdZe+68QJGucjXH9OrChHlC0XT1V5llFcRBuEw5uuINZ0EYrTkbA+WxZCbRNxkA7udLi1O70RB1QyQ/hf142S4IkJnUbk52VcW5KTvx2re4QrgB26s0MJ3QSseczGTsk7DgvboATod+aUcJaboq3YbB20C+RbUkJQj9HdTWWPLb8EOYWKPwcRkkZ+JZeU3eSnbw1pg0HlGXK+11pI4P0GhcOYnZ7DYPh9KNjqHRIeSkJXcWJ51QjIr74J91lQi5GJWRYeOkqiZ0cFBFrGybTsF2IFIFDEUunLug9HzIetBvAmIYx2do4g6/9rmCCsuhNr+E7cb0xViO/1tXOyJeP5uCLfshDNRQK0Nfj/lFHfkVOlu7TYfcnLhsfC7L7ropK6b+qMYFf4HV3hF4ty1A2utqSra8pSc9CJhBNfvT1Ee+kv3qtdFNs3vBGBMTXTTWVaTW3RFXsw4rzcavIbWK3NEg0SvwI84+NmnuA==;gZUwfqW9rCVBNEeJ8iS3Ow=="
 ---
 

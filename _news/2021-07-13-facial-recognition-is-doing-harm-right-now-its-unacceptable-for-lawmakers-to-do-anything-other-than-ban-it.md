@@ -143,6 +143,17 @@ related:
         width: 1350
         height: 759
         isCached: true
+  - title: "Activists call out Ace Hardware, Apple stores for using facial recognition on customers"
+    excerpt: "A coalition of civil rights groups are urging retail stores to stop their use of facial recognition technology with a new campaign."
+    publishedDateTime: 2021-07-14T15:53:00Z
+    webUrl: "https://www.dailydot.com/debug/facial-recognition-retail-stores-scorecard/"
+    ampWebUrl: "https://www.dailydot.com/debug/facial-recognition-retail-stores-scorecard/?amp"
+    cdnAmpWebUrl: "https://www-dailydot-com.cdn.ampproject.org/c/s/www.dailydot.com/debug/facial-recognition-retail-stores-scorecard/?amp"
+    type: article
+    provider:
+      name: The Daily Dot
+      domain: dailydot.com
+    quality: 31
 
 secured: "uvfIK5VbshdIZlrA1CN3uD8rIZkUHpsY5qQ0PYzmvo9WyGGjoaGD1rbHkqpSDTtc+XPMuzyGb/n1mhomwj0zaXCXR3j/w5HumnnGW1swzGx5S+Bm5V4Vwc4/fYY3g0TXVyEMxqc6f+2H4IQ3Lztfb1oD/6tZBW2CwJ5W5kQQH0Z9ezMefB4Xw+t1bqQE2yA60K30EgHjrA9goqxNil6NqlJ/tl0kwn6IvITrySva40WKJ9aVEMzUr5F5cayftCWv0Aefle8gql6m5TEcNEuwM9I+f48KZOKi48uUTzZmgCXq3pSZP/U1Y4Y8SuV08msbFIn4EDyIsFNovwvlkZHyVjRD2tME+QC1vjVxWwULdFQ=;XvPMgy4gjLT+uT5p2/XPwA=="
 ---

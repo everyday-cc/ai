@@ -8,8 +8,8 @@ webUrl: "https://techxplore.com/news/2021-07-enabling-artificial-intelligence.ht
 ampWebUrl: "https://techxplore.com/news/2021-07-enabling-artificial-intelligence.amp"
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-07-enabling-artificial-intelligence.amp"
 type: article
-quality: 57
-heat: 57
+quality: 59
+heat: 59
 published: false
 
 provider:
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - Machine Learning
 
 images:
   - url: "https://scx2.b-cdn.net/gfx/news/hires/2019/15-artificialin.jpg"
@@ -25,6 +26,6 @@ images:
     height: 1343
     isCached: true
 
-secured: "UNKPWWXnbmqXuNHLSrhylRRx4Dh67Hr7B3OjXIP954ea4V0uz586QIqljP3/8mZ3i5MOEfS7qW2IEzWD/np2o7HUbIqjmL2GLldkGVBBquVmLSYrxzgh13jWVS2t+/1aGvuhV5r71IUu3GG8dhrZ5R1ullWZIQ3L8OPhCTGW+bEceNvH/OHdfemp64ui0cSaivzuZL4FHfWUA8vYBgUkH7e+ECJ4iiPQwsk3JBXZ6iWUZ6fncxAw5GVsOp5z4GK8TEb0N/GpscfVI/EynhJ42Bh+YoXswvhniqOOxIivMC5T93F4IegBsuovD8a7S2tJCW3KY1nqTAJR4xWxby4a5H684pjlFIjaZxImzCUjLKo=;Y7Xd33ujezTYb4LY04DV+Q=="
+secured: "YPYl7h2TW2buL1AShDxkB5yMq8HAyJ05mTaM6JHtcxOXX+oIqecbh2WgFAn3H/beVj0ejybRgA/POQqgDJxUVZqQ2NYMdAi+Ln62yjQmro6YtklKOaMcMPQ3yeTjsBgwzuZV3HlW3Lk4u6C0rb5k85QKdW1pmHk6ue1x+9DK8FsavWpRu/VRXDl3pp7+pU30j7P8Etq+LjZucOzVgQHrkqpXgcrD2okgrUe4f4FsKUas8LBIsEcSmQGaCVEHDC304Zsij4tiYcigFOSnQIdrkQEbPsRmd6e6+1uaoI0rYLXdRG5PQHvc63chd9lp1JPq7nLMERwggmxWKpkGF1xal1sLzr3ivXIyrIigYKXONmSpxpXb5c2VVV5ng47B304pdGXInjPItbSRFfQQ/1PGhwX2NsIdhl4ckZ5+Yma0VvOTPm9agqRC5iuND273PGmQUGl/qY57d4sUjRYVyuwcV1427er4U6/REM/levM2cR9AtZfr1JZHof/k+u7B5bx9OvUf/64uOji5P5K7mG4hFw==;Z9HgWxxk1hrXOlvXmREF/Q=="
 ---
 

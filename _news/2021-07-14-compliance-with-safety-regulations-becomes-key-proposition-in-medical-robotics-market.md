@@ -9,8 +9,8 @@ ampWebUrl: "https://techbullion.com/compliance-with-safety-regulations-becomes-k
 cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/compliance-with-safety-regulations-becomes-key-proposition-in-medical-robotics-market-2/amp/"
 type: article
 quality: 67
-heat: -1
-published: false
+heat: 97
+published: true
 
 provider:
   name: Impacts
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Defect detection and classification in manufacturing using Amazon Lookout for Vision and Amazon Rekognition Custom Labels"
-    excerpt: "Defect detection during manufacturing processes is a vital step to ensure product quality. The timely detection of faults or defects and taking appropriate actions are essential to reduce operational and quality-related costs. According to Aberdeen’s research, “Many organizations will have true quality-related"
-    publishedDateTime: 2021-07-13T16:01:33Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/defect-detection-and-classification-in-manufacturing-using-amazon-lookout-for-vision-and-amazon-rekognition-custom-labels/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 81
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/07/02/ml3795-image013.jpg"
-        width: 2019
-        height: 699
-        isCached: true
   - title: "Facial-Recognition Tech Gets Bipartisan Call for More Regulation"
     excerpt: "The use of facial-recognition software by law enforcement should be regulated, a bipartisan group of lawmakers said, amid concerns of misidentification and violations of constitutional rights and due process."
     publishedDateTime: 2021-07-13T17:35:00Z
@@ -71,45 +57,15 @@ related:
         width: 457
         height: 274
         isCached: true
-  - title: "Farmington Hills man misidentified by facial recognition technology testifies at Congressional hearing"
-    excerpt: "The Farmington Hills man who has sued Detroit police after being wrongfully identified by the department's facial recognition technology in a shoplifting investigation is testifying in front of a congressional subcommittee Tuesday."
-    publishedDateTime: 2021-07-13T14:59:00Z
-    webUrl: "https://www.fox2detroit.com/news/farmington-hills-misidentified-by-detroit-police-facial-recognition-technology-testifies-in-congress"
-    ampWebUrl: "https://www.fox2detroit.com/news/farmington-hills-misidentified-by-detroit-police-facial-recognition-technology-testifies-in-congress.amp"
-    cdnAmpWebUrl: "https://www-fox2detroit-com.cdn.ampproject.org/c/s/www.fox2detroit.com/news/farmington-hills-misidentified-by-detroit-police-facial-recognition-technology-testifies-in-congress.amp"
+  - title: "Ai In Medication Management Market"
+    excerpt: "The Global Ai In Medication Management Market Report is a study of prevailing drivers, trends, forecast, and restraints in the global landscape. The report is the latest addition to the vast data ..."
+    publishedDateTime: 2021-07-12T10:48:00Z
+    webUrl: "https://www.openpr.com/news/2326242/ai-in-medication-management-market-latest-industry-trends"
     type: article
     provider:
-      name: WJBK
-      domain: fox2detroit.com
-    quality: 43
-    images:
-      - url: "https://images.foxtv.com/static.fox2detroit.com/www.fox2detroit.com/content/uploads/2021/04/932/470/wjbk-facial-recognition-aclu-lawsuit.jpg?ve=1&tl=1"
-        width: 932
-        height: 470
-        isCached: true
-  - title: "Most State Legislatures have rejected bans and severe restrictions on facial recognition"
-    excerpt: "Facial recognition technology and related legislation have been a hot topic in the media and in policy discussions around the country. The Security Industry Association (SIA) is advocating nationwide for policies ensuring responsible use and sensible ..."
-    publishedDateTime: 2021-07-12T22:00:00Z
-    webUrl: "https://www.securityinfowatch.com/access-identity/biometrics/facial-recognition-solutions/article/21230121/security-industry-association-sia-most-state-legislatures-have-rejected-bans-and-severe-restrictions-on-facial-recognition"
-    type: article
-    provider:
-      name: Security
-      domain: securityinfowatch.com
-    quality: 30
-    images:
-      - url: "https://img.securityinfowatch.com/files/base/cygnus/siw/image/2021/07/bigstock_Facial_Recognition_System_Iden_387020311.60ecba89a36b9.png?auto=format&fit=max&w=1200"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "New Renesas Solution For Automotive Cameras Enables High-Definition Video Using Low-Cost Cables and Connectors"
-    excerpt: "Renesas Electronics Corporation (TSE:6723), a premier supplier of advanced semiconductor solutions, today introduced its new Automotive HD Link (AHL) technology that enables automotive manufacturers to deliver high-definition video over low-cost cables and connectors that currently support standard-definition video."
-    publishedDateTime: 2021-07-13T12:15:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2021/07/13/9407548.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
+      name: openpr.com
+      domain: openpr.com
+    quality: 19
 
 secured: "2PeBxXm2PKNKn/FCGMBJZaIZn8UVC3a5SnNqVer1gj0BBeWRSap+vZsU4ad91+DhevE6yuz8Wa1Solunz/6RbqgTD4HMU4KSBwuYbT8RAsZ2JvCm9c9he3/7Zy3W5oq5fY/FRuWygDlUAgwHY6NfSFBzfHSOv10EziKcwVD3RfLMHj3iazZdhaIhOEwDu+TV5+aVEYBtZhKCr3dk5+7Lsl2nb7pCErzY+mo4nYtEFcUdlZrUmdUWAyiap8OOxlb2po1UU3OJa8JFxIufRlRNw09ncdLE4QIR+5j/5epY1DGbBS/53eS46ZcE2b9llP3Jr4sfjYWFWQl/HK3CXTrf3f7RdcH3ytkyEgkUaCYFCKnGcALiQmQTH5qLbA9bt9u663eOyHQAUVjgl9jiHjoXrUNFhtaWicvkBzkFpM+L3DmMeg+d7V1x4eFbIcTbpx469FkIsZCxcsinWer30Gy9C9zfPqCZnvxKRz1m2pVvsp8Yce8PCcp9jjJDUtd1v0YBJjWz6WzfjKYooA+0f2AGCQ==;YUjeVO5J3/5miVgUVuJ2ag=="
 ---

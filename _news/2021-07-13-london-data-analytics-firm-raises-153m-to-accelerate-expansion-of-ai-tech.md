@@ -41,6 +41,36 @@ related:
         width: 1200
         height: 900
         isCached: true
+  - title: "Cape Analytics raises $44M to automate property inspections with AI"
+    excerpt: "Cape Analytics, a company meshing AI with aerial imagery to power property insurance inspections, has raised $44 million."
+    publishedDateTime: 2021-07-14T15:00:00Z
+    webUrl: "https://venturebeat.com/2021/07/14/cape-analytics-raises-44m-to-automate-property-inspections-with-ai/"
+    ampWebUrl: "https://venturebeat.com/2021/07/14/cape-analytics-raises-44m-to-automate-property-inspections-with-ai/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/14/cape-analytics-raises-44m-to-automate-property-inspections-with-ai/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2021/07/ddd-e1626271091314.jpg?w=1200&strip=all"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Driving customer loyalty with analytics and AI"
+    excerpt: "Winning and retaining customers has always been challenging for retailers. However, it has become increasingly difficult over the past few years with the explosion of online retail and multiple new brands entering the market,"
+    publishedDateTime: 2021-07-14T07:21:00Z
+    webUrl: "https://www.technologyrecord.com/Article/driving-customer-loyalty-with-analytics-and-ai-124849"
+    type: article
+    provider:
+      name: technologyrecord.com
+      domain: technologyrecord.com
+    quality: 39
+    images:
+      - url: "https://www.technologyrecord.com/Portals/0/EasyDNNnews/10401/img-iStock-923079848.jpg"
+        width: 940
+        height: 443
+        isCached: true
 
 secured: "2SeMQuVohGpGF5q3+v/Pd7QKAn6X3Z5YdmEbZg1REpxzR80MBjES9i3kDRuBKPLUIdW6GoOclGjo26UqYJgf0r6JfHIfttSsNVrLwQSuSkdVDj4vo22hnSEe1vDTFYw0/yDR7FXADExZCmlG6Q2CzhxTEvSeoqkPoeZOCTEZIHDdHbBgyTk+DGFm8vl8V4zSxthNQzuqez/lhGds/XtFqyTIryFPnlX7xQEfKihVTZpFMfAwd/gd6zvHhRRMA2tdNQt5RDP1QQ5rm7l85+lLLe+dqQ/OIOtOkUEeRAWizpGVjEzTsu4eTME98swR70/o9+fQjk0dqdVgtniKVC/FB2AXA0Mn0vW2QyL/uuBpCK4=;rQSpRDNSdSIlER+xuqwtYA=="
 ---
