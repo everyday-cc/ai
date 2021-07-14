@@ -170,17 +170,12 @@ related:
   - title: "Global Speech Recognition Market 2021 Industry Research, Review, Growth, Segmentation, Key Players Analysis and Forecast to 2027"
     excerpt: "The global Speech Recognition market size is projected to reach US$ 17490 million by 2027, from US$ 9461.8 million in 2020, at a CAGR of 9.1% during 2021-2027. This report studies the Global Speech Recognition market status and outlook of global and major regions,"
     publishedDateTime: 2021-07-13T14:07:00Z
-    webUrl: "https://www.arnnet.com.au/mediareleases/144447/global-speech-recognition-market-2021-industry/"
+    webUrl: "https://www.reseller.co.nz/mediareleases/144447/global-speech-recognition-market-2021-industry/"
     type: article
     provider:
-      name: ARN
-      domain: arnnet.com.au
-    quality: 10
-    images:
-      - url: "https://www.arnnet.com.au/dimg/300x300/dimg/win20_edu_remotelearning_026.jpg"
-        width: 300
-        height: 225
-        isCached: true
+      name: Reseller News
+      domain: reseller.co.nz
+    quality: 0
 
 secured: "ScP3JHoxWagc71yi57tReUU8KLyddldK4jogYGMpVXlvYWN1DX8a/WAiXIvUjVtelMFjrmTbZ1Jm6NFUssecV4xqtCzOCkC61v6zoamwZjuQsmm14FobGIExpheu2ems9eHE8ug/VQjAHJczlt6VZY9UfoZJuVWqZx1dxDlBa65QBHAii/L3WQ4/CN/iBo3QGoYDPHuXAaBTXP1+lhI39prnqlrUZBoc6SEx0x9IY+txix3fPMzyZ8OYemcP37vRapnkGrogFGziWS1vCu4zpys9ZN4fuRScSih9xjZY1az1k6X1OcdZMSnwZznZ78hh4QqP/kDmIYlwi0sWH2c3amSLJzvYY5srkPBLfDqQ9VE=;41hNaNza2lqYIV77sTGN6g=="
 ---

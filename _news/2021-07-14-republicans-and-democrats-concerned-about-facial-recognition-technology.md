@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wsav.com/news/republicans-and-democrats-concerned-about-
 cdnAmpWebUrl: "https://www-wsav-com.cdn.ampproject.org/c/s/www.wsav.com/news/republicans-and-democrats-concerned-about-facial-recognition-technology/amp/"
 type: article
 quality: 61
-heat: 101
+heat: 91
 published: true
 
 provider:
@@ -28,20 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Port of Seattle bans facial recognition technology for certain uses"
-    excerpt: "The Port of Seattle Commission voted to permanently prohibit the use of biometric technology — including facial recognition — for law enforcement, security and mass surveillance purposes by the port and private-sector entities operating at its facilities."
-    publishedDateTime: 2021-07-14T00:52:00Z
-    webUrl: "https://www.seatrade-cruise.com/information-technology/port-seattle-bans-facial-recognition-technology-certain-uses"
-    type: article
-    provider:
-      name: Seatrade Cruise News
-      domain: seatrade-cruise.com
-    quality: 54
-    images:
-      - url: "https://www.seatrade-cruise.com/sites/seatrade-cruise.com/files/CRUISE_Norwegian_Bliss_Seattle_Pier_66.jpg"
-        width: 470
-        height: 290
-        isCached: true
   - title: "Michigan man misidentified by facial recognition technology warns Congress of risks posed by police surveillance"
     excerpt: "A Michigan man who was wrongly arrested after being misidentified by facial recognition technology joined expert witnesses who warned a congressional subcommittee about the pitfalls of police surveillance software used to find suspects."
     publishedDateTime: 2021-07-13T17:44:00Z
@@ -82,6 +68,6 @@ related:
         height: 300
         isCached: true
 
-secured: "Tlsl7gH33hWFRjL3p5YeBSQFuXxGUyCRBtFyCpqaagDxkrbOMQk7aKLNymDVVdTUHCbn9PAxOVunRE1QnRP6kxhSIWK/812qRcS/R04TuyEtNZ8lKiiRafDuOCFgGK18PCUdAMaYpxnDhnnjtGCAXdT0CEHOcqD/5b8dWbo6jDBiKYl94BvirfefplRHJnMUqSbKKAjoaH9+ejknI7TFu/FKq/DJveGniIJlAxkJaq3tSildydxlDJWW68rXnhZ/HIT9yeeVXM3+liI4w4ZR/3+8rN22pHko9/zgr89F2lPtABcGdcYQpFV75b15jd59xGydRK3f2S0+NjvqZSAhYmtCFITU6UKQiv/VzTYaWyo=;TPeRW7bdXlmiQKvvtNKnfQ=="
+secured: "5/gGjSSzShvATXxvRr28L87plUZeLpcSs/A/RTziVtz48WZwafOyEj0ZXbBpMhLaqwzSBavs5P9QnwQUT7NqhOI2zBeon0TSzNJ92I9fcI8YuQAGndNeht/Q+Btzn3C/pzEyFBlHGVo/VIu65DNhZxQYaIe30aRagRQ1tUoYqBl1isaSKama2eg83Ju0nvfQ5eLqurHNKYoG+09wHCACVU7iE2yabRm5986b+TTX6VRDbxQOS2nm+S2PjkA5wGuq5BN0S+yloKYH0qRRDnl+RrpLwA2ptxnRS3OEe8eooAyQcuFAhRoT3DanfTfgsFgzEkRH1u2xboz3OHWl1LByolUTOzP9UYXOLzFkGPyYvOA=;egfFi7NuuqrmogyFWErMdQ=="
 ---
 

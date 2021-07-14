@@ -9,7 +9,7 @@ ampWebUrl: "https://www.computerweekly.com/news/252503927/AI-to-have-biggest-imp
 cdnAmpWebUrl: "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252503927/AI-to-have-biggest-impact-on-fintech-development-over-next-five-years?amp=1"
 type: article
 quality: 59
-heat: 119
+heat: 109
 published: true
 
 provider:
@@ -84,15 +84,6 @@ related:
       name: Financial IT
       domain: financialit.net
     quality: 8
-  - title: "Top 10 Fintech Trends to Watchout For"
-    excerpt: "To make you aware of the revolutions FinTech has unleashed in the financial arena, we are outlining the following ten technology trends that are the forces behind the Fintech revolution: Welcome to Finextra."
-    publishedDateTime: 2021-07-09T15:21:00Z
-    webUrl: "https://www.finextra.com/blogposting/20576/top-10-fintech-trends-to-watchout-for"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 4
 
 secured: "5KgzdawOtEXoA4XQnoF1NT0LEFXsC8lsvBloUOBmgb4eOhH5jufDGmxp59+QHASO+cO/8yeksG4PfioL+9F/jw6/SVi44g1p1SYg7RhNTPSkBezWWinudUwBuc68vzGhwW5W+9H2QWtdpIc9Vygh73qbU6kQG7culP8ty+7TOwL5HyMcW6TyO3Lt/b4f9u/AoHMZijE6d1IqpOTGEMiNjv3sG0qct7kmfdixZe0BPzkNrapWM3I5nfr0pfxoqcwoy1alkuF1/8iJmjA6ASMysZquq/ivpgDQsD024Hx9oOqtDEvcO+cRyKSvFpB/JmvXDQa6Whc4PJb7at7Q8tMHB6Bg43iMy82/LP9CNqw/VH8vxXxBZsFA9zC8CyyBay1xbUmEkW6nidkq3AOXV5Qj4FdLxTP3eH2GIZGxGGao8Ls2i5BNJgptWq1SFGpjhdK/5tCunV+RiyUGnEp8LHwxDmbuktATV8+NA6xTLsaDeyqCm82Kg30nt+g0wiPqF1bs0MjaMTr6brSvV3uoSxKdNw==;H2CEygzJ7IxGquSs+jbzbw=="
 ---

@@ -84,15 +84,6 @@ related:
       name: Financial IT
       domain: financialit.net
     quality: 8
-  - title: "Top 10 Fintech Trends to Watchout For"
-    excerpt: "To make you aware of the revolutions FinTech has unleashed in the financial arena, we are outlining the following ten technology trends that are the forces behind the Fintech revolution: Welcome to Finextra."
-    publishedDateTime: 2021-07-09T15:21:00Z
-    webUrl: "https://www.finextra.com/blogposting/20576/top-10-fintech-trends-to-watchout-for"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 4
 
 secured: "12V6X6M9OlkT4a5u7b/lzE1okPUJEJ6QS8ffjCNK5eOAF8a0BHuYBXBKdLpOn+bq17AwoHwzSToy6lyRH1ivVZj+9dh6xtz35AuBbk0Fy+btJbGPCqLtvbfz9TP0Bklw+WHyQP4R4NoEDHRrFBonUcQPM3/tt4I3RRAt22f4ia3rZd4Gu/VxH6kEshJzIYiOFuTl+OvuqlLQ+j+4b3+sFij6gjGU3GqLHauPL8qos6VKDf/ky8N8qj7Q3bAHLM0w4128R/NX8y3EZLx4ASdLRlLHtnNILou56LjZmpQYF/craRGO6NLPL0/ZC8ZbgDF2X/yWI8H0zIMfCgfAYtrJbuCugokba1Uepd1BoOs+nq8=;XmfPNheyH5X8Kh9SoFVZzg=="
 ---

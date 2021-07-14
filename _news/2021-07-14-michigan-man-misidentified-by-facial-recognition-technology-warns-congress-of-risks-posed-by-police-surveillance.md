@@ -43,20 +43,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Port of Seattle bans facial recognition technology for certain uses"
-    excerpt: "The Port of Seattle Commission voted to permanently prohibit the use of biometric technology — including facial recognition — for law enforcement, security and mass surveillance purposes by the port and private-sector entities operating at its facilities."
-    publishedDateTime: 2021-07-14T00:52:00Z
-    webUrl: "https://www.seatrade-cruise.com/information-technology/port-seattle-bans-facial-recognition-technology-certain-uses"
-    type: article
-    provider:
-      name: Seatrade Cruise News
-      domain: seatrade-cruise.com
-    quality: 54
-    images:
-      - url: "https://www.seatrade-cruise.com/sites/seatrade-cruise.com/files/CRUISE_Norwegian_Bliss_Seattle_Pier_66.jpg"
-        width: 470
-        height: 290
-        isCached: true
   - title: "Maine joins list of states to ban facial recognition technology"
     excerpt: "Maine recently passed a bill into law creating one of the strictest statewide regulation on the use of facial recognition technology, as Maine joins several states to ban the technology"
     publishedDateTime: 2021-07-09T17:15:00Z

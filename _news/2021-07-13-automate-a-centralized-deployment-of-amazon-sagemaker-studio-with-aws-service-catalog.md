@@ -43,20 +43,6 @@ related:
         width: 800
         height: 440
         isCached: true
-  - title: "Deploy shadow ML models in Amazon SageMaker"
-    excerpt: "Amazon SageMaker helps data scientists and developers prepare, build, train, and deploy high-quality machine learning (ML) models quickly by bringing together a broad set of capabilities purpose-built for ML. SageMaker accelerates innovation within your organization by providing purpose-built tools for"
-    publishedDateTime: 2021-07-09T16:59:13Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/deploy-shadow-ml-models-in-amazon-sagemaker/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 106
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/06/30/ML1688-image003.png"
-        width: 831
-        height: 568
-        isCached: true
   - title: "Run image classification with Amazon SageMaker JumpStart"
     excerpt: "Last year, AWS announced the general availability of Amazon SageMaker JumpStart, a capability of Amazon SageMaker that helps you quickly and easily get started with machine learning (ML). JumpStart hosts 196 computer vision models, 64 natural language processing (NLP) models, 18 pre-built end-to-end"
     publishedDateTime: 2021-07-13T21:00:20Z

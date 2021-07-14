@@ -39,6 +39,20 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "Fake News Detection using Machine Learning – Present and Future Trends"
+    excerpt: "Since fake news is spreading rapidly on social media, it has become a concern due to its devastating effects. Let’s see how artificial intelligence and machine learning are helping to identify fake news."
+    publishedDateTime: 2021-07-14T07:48:00Z
+    webUrl: "https://www.analyticsinsight.net/fake-news-detection-using-machine-learning-present-and-future-trends/"
+    type: article
+    provider:
+      name: Analytics Insight
+      domain: analyticsinsight.net
+    quality: 39
+    images:
+      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/07/Fake-News-Detection-using-Machine-Learning.jpg"
+        width: 900
+        height: 500
+        isCached: true
 
 secured: "9Hf/THQTQZsFlo4ZZmlhqQzvcUWOUf/OTF37rEciJfPH4+G3jC2VmJwR72MuuZvdPni2u9tnOP7IKUvmrB2y9F1iQEBy1PuvJUyFM1DtpGTC9D00Nm3A4t9cZIrrxezW8rUE4oV+YPRoEfIEGYVaoTsqUZnF9tfgGsFgf59G5XcqFoKZGLrQXkJZxF1KACBCq8masoQQqutLr/Q/XpXQoBzgbnH/Lkg5DNPvgCPV+y3FO8NDB4B3lP+GndgCB/ww9C2yNqtGiMpN8YNUF+OsxFQjRWmTzwUWD70WSreA4T11dySMB0IrgMXVEK8dh1Q11No3G7OPxxIy3OIphLw8vHCmPUnyl0DyHspdMahiwS8=;aAqE6fSDpYQ+IjzxvOQOWA=="
 ---

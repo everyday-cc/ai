@@ -116,20 +116,6 @@ related:
         width: 2309
         height: 1299
         isCached: true
-  - title: "Health tech on display at the World Artificial Intelligence Conference in Shanghai"
-    excerpt: "With strong support from the government, the Chinese AI health market has more than tripled in size in just three years."
-    publishedDateTime: 2021-07-09T15:39:00Z
-    webUrl: "https://www.euronews.com/next/2021/07/09/health-tech-on-display-at-the-world-artificial-intelligence-conference-in-shanghai"
-    type: article
-    provider:
-      name: Euronews
-      domain: euronews.com
-    quality: 48
-    images:
-      - url: "https://static.euronews.com/articles/stories/05/85/84/48/1000x563_cmsv2_bf9bdf2a-31a7-518e-b05e-4a8faf466235-5858448.jpg"
-        width: 1000
-        height: 563
-        isCached: true
   - title: "Preparing the world for artificial intelligence"
     excerpt: "Ultimately, the move toward AI also needs a cultural paradigm shift, behavior change and setting ethical standards on the boundaries of its uses and what recourse victims of AI use or abuse have to justice."
     publishedDateTime: 2021-07-12T16:46:00Z
@@ -145,6 +131,6 @@ related:
         height: 422
         isCached: true
 
-secured: "oUfshZ7hS2NOJmIAATZYkD8p4w3t4UMyFePr6F8i+3sX2rMssNuFtLaTTqWbdhFYMECbsCjV85WGBCzoy7AyB0PVJOt+6r5YsL9dK6w/yi7l1tjPcQO0T9eguC0Si84gmFFh8DdbMDFmoo/T3SLr5UifKCnKDQkaL2VXLO8PF3Jcyk8jiQKISM9oatr+MaYD3WHzcIjxg9DWDT6YYLN69kuCVKKMhvaFPChHgdUN88tIqVuJl/4L5tuCbJQNJYBUZChdAlEU9c9T10YZc/9HQuaMV6njY2y7DbZR7haWkypdhu2sWsc3+c7tJSSDtOP1jHGeXhBm1RV5dSHQP2TalgNaSTWQk3a5m88Yo1iGkgk=;Fq215RQlH2/jCQoF7CL5eQ=="
+secured: "BzkF7ZskNpS481pxI4L7f5kWyYsPyObUhxbPQA9iUJGDTwdCPnffVNt+34u/CVvMsZztG90pBJC+dviANgtKGHLwlfPJZGJzMBP885eMx30Fso59MFsrIr5sSSqquPwspqkBrOQS9yWwP+5pYYZuYyPTZ9WJ91qJUhiVwOrghCON91GVKWnXOO6bMqZfOlnCYYqc9NZFR6t+Z2uk0uRLX7Di86bYn+Q0W0rE8mJ9njjUtF7whzBy4ksjrfzHPETBTPRW9r9ewMeBk2UPkWY9U8Nl0iry8s3AsRUAf1nqtpMKpR7YrdbXXSdeNveNkpjioywtukUe0t7nAckwCUTqKvTrqsq8Ozv43zgrhXV6Z4xOvOTbYbqV4iWstSwqLbdiNC9mlnilttj+p28GSt4AunDbcjiNecavlN/WALnbDSdesF+jd2/dvPS7Aa6bg/aC5wcsnref0hfP8jGt+QTcmpPjbP3876wgyIwECloVp9IcHkLYd02xXUiyDP2qlBb50U6gbeHVWAcjf8qjWlXTBw==;FEDVwqFtDEiKtOVAgRkjJg=="
 ---
 

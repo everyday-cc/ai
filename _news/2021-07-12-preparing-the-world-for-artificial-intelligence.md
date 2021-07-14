@@ -117,20 +117,6 @@ related:
         width: 2309
         height: 1299
         isCached: true
-  - title: "Health tech on display at the World Artificial Intelligence Conference in Shanghai"
-    excerpt: "With strong support from the government, the Chinese AI health market has more than tripled in size in just three years."
-    publishedDateTime: 2021-07-09T15:39:00Z
-    webUrl: "https://www.euronews.com/next/2021/07/09/health-tech-on-display-at-the-world-artificial-intelligence-conference-in-shanghai"
-    type: article
-    provider:
-      name: Euronews
-      domain: euronews.com
-    quality: 48
-    images:
-      - url: "https://static.euronews.com/articles/stories/05/85/84/48/1000x563_cmsv2_bf9bdf2a-31a7-518e-b05e-4a8faf466235-5858448.jpg"
-        width: 1000
-        height: 563
-        isCached: true
   - title: "Top AI Start-ups Bringing the Most Innovative Products"
     excerpt: "Start-ups are coming up with the most innovative products in the market. Here are the top AI start-ups that can change the world."
     publishedDateTime: 2021-07-14T07:15:00Z

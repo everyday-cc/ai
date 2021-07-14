@@ -42,18 +42,18 @@ related:
         height: 553
         isCached: true
   - title: "Algolux Closes $18.4 Million Series B Round for Robust Computer Vision"
-    excerpt: "New investment will serve to accelerate market adoption of Algolux's robust and scalable computer vision and image optimization solutions"
-    publishedDateTime: 2021-07-12T13:00:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/algolux-closes-18-4-million-series-b-round-for-robust-computer-vision/article_2463f289-37fe-5f16-bcd4-e9afc907ccde.html"
+    excerpt: "Algolux's computer vision and image optimization solutions address the mission-critical issue of safety for ADAS and autonomous vehicles. Algolux is the first company to use computational imaging to design algorithms that treat the camera as part of the ..."
+    publishedDateTime: 2021-07-12T13:05:00Z
+    webUrl: "https://www.prnewswire.co.uk/news-releases/algolux-closes-18-4-million-series-b-round-for-robust-computer-vision-813160058.html"
     type: article
     provider:
-      name: WFMZ-TV
-      domain: wfmz.com
+      name: PR Newswire
+      domain: prnewswire.co.uk
     quality: 39
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/9/4c/94c32bf1-ef68-536c-8c84-9af1c9d96a28/60ec3d841c887.image.jpg?resize=1120%2C630"
-        width: 1120
-        height: 630
+      - url: "https://mma.prnewswire.com/media/1571390/Algolux_Algolux_Closes__18_4_Million_Series_B_Round_for_Robust_C.mp4?p=thumbnail"
+        width: 512
+        height: 288
         isCached: true
   - title: "Retina AI Raises $8 Million in Series A"
     excerpt: "Santa Monica-based analytics company Retina AI Inc. has raised $8 million in Series A funding for its artificial intelligence platform for consumer insights. The funding round, announced by the company on June 29,"

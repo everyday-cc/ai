@@ -46,6 +46,20 @@ related:
         width: 640
         height: 355
         isCached: true
+  - title: "Activist Groups Urge Retailers to Halt Facial Recognition Use"
+    excerpt: "A new coalition of civil rights organizations is calling on retailers to stop using facial recognition tools to screen shoppers, saying the technology can lead to abuses."
+    publishedDateTime: 2021-07-14T09:30:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2021-07-14/activist-groups-urge-retailers-to-halt-facial-recognition-use"
+    type: article
+    provider:
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 84
+    images:
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/icrAaz7etyfo/v0/1200x793.jpg"
+        width: 1200
+        height: 793
+        isCached: true
   - title: "Chinese City Using Facial Recognition Tech To Fight Coronavirus"
     excerpt: "Facial recognition tech linked to personal health codes has been rolled out in a Chinese city bordering Myanmar as authorities seek to squash a coronavirus outbreak."
     publishedDateTime: 2021-07-13T14:11:00Z

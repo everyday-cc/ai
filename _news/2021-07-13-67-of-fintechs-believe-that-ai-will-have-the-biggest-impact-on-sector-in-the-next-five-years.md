@@ -83,15 +83,6 @@ related:
       name: Computer Weekly
       domain: computerweekly.com
     quality: 19
-  - title: "Top 10 Fintech Trends to Watchout For"
-    excerpt: "To make you aware of the revolutions FinTech has unleashed in the financial arena, we are outlining the following ten technology trends that are the forces behind the Fintech revolution: Welcome to Finextra."
-    publishedDateTime: 2021-07-09T15:21:00Z
-    webUrl: "https://www.finextra.com/blogposting/20576/top-10-fintech-trends-to-watchout-for"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 4
 
 secured: "9XyIVu0WoOcTYUQCaCq9BSWrbpvahBDcDsGlKvmGUKxAzy9ssoT0XZfhPhrBYoO2f1T/TeMkqxpLj03N2TRak7ED6lbTrR/3UwRuBVkbYAy9+ooeQDTP+54aK4VvmdyS++v3mMqX93JDs9F064kEHlx9RprlC5P0r36VNXnMyre0yASEvgKeJMxuBf1TrXBagVeX942EDQ8XFgKuAf3fNlgigJgVK+W20fIQawgVP5HgiV0ylD9ecjli4kDkDC4KejmPOmI+H5o2tK9f2o7XI6/LCtaDAvSV+UTzPuUiBlbRz0UsxeU84ohQs1vLt6oyaZnqBqiKGt6r7h94rz6UzF9e/A6lb5MNdL+/CHILNO4oXknSvmSDMu23yMpHPxdbIy2tK4390gyGUJ7GZw5jZKjb0Upgu54rlOxP6/wC7PT6vpjyZVvVVlNpO/ENGZFN50hRud86oI96o2KgqebTHAWWvXKPDIDgXLE5Rvud6TM44nyh4dMrB7f14N+pH/AbVm2bjhl4ljcxlwZ0iwhh0w==;bbuQXHEyhFssKUL/lSz3iw=="
 ---

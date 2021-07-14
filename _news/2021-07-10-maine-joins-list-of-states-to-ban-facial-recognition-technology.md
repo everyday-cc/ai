@@ -35,20 +35,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Port of Seattle bans facial recognition technology for certain uses"
-    excerpt: "The Port of Seattle Commission voted to permanently prohibit the use of biometric technology — including facial recognition — for law enforcement, security and mass surveillance purposes by the port and private-sector entities operating at its facilities."
-    publishedDateTime: 2021-07-14T00:52:00Z
-    webUrl: "https://www.seatrade-cruise.com/information-technology/port-seattle-bans-facial-recognition-technology-certain-uses"
-    type: article
-    provider:
-      name: Seatrade Cruise News
-      domain: seatrade-cruise.com
-    quality: 54
-    images:
-      - url: "https://www.seatrade-cruise.com/sites/seatrade-cruise.com/files/CRUISE_Norwegian_Bliss_Seattle_Pier_66.jpg"
-        width: 470
-        height: 290
-        isCached: true
   - title: "Michigan man misidentified by facial recognition technology warns Congress of risks posed by police surveillance"
     excerpt: "A Michigan man who was wrongly arrested after being misidentified by facial recognition technology joined expert witnesses who warned a congressional subcommittee about the pitfalls of police surveillance software used to find suspects."
     publishedDateTime: 2021-07-13T17:44:00Z

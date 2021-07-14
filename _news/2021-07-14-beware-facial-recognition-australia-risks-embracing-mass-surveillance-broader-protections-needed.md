@@ -41,6 +41,20 @@ related:
         width: 640
         height: 355
         isCached: true
+  - title: "Activist Groups Urge Retailers to Halt Facial Recognition Use"
+    excerpt: "A new coalition of civil rights organizations is calling on retailers to stop using facial recognition tools to screen shoppers, saying the technology can lead to abuses."
+    publishedDateTime: 2021-07-14T09:30:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2021-07-14/activist-groups-urge-retailers-to-halt-facial-recognition-use"
+    type: article
+    provider:
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 84
+    images:
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/icrAaz7etyfo/v0/1200x793.jpg"
+        width: 1200
+        height: 793
+        isCached: true
   - title: "Defect detection and classification in manufacturing using Amazon Lookout for Vision and Amazon Rekognition Custom Labels"
     excerpt: "Defect detection during manufacturing processes is a vital step to ensure product quality. The timely detection of faults or defects and taking appropriate actions are essential to reduce operational and quality-related costs. According to Aberdeen’s research, “Many organizations will have true quality-related"
     publishedDateTime: 2021-07-13T16:01:33Z

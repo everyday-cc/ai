@@ -1,40 +1,30 @@
 ---
 category: news
 title: "IoT Machine Learning and Artificial Intelligence Services to Reach US$3.6 Billion in Revenue in 2026"
-excerpt: "The pandemic accelerated ML and AI in the IoT to manage and find insights into increasing volumes of data. LONDON, July 13, 2021 /PRNewswire/ -- The next wave of Internet of Thing"
-publishedDateTime: 2021-07-13T08:00:00Z
-originalUrl: "https://www.wallstreet-online.de/nachricht/14146706-iot-machine-learning-and-artificial-intelligence-services-to-reach-us-3-6-billion-revenue-2026/all"
-webUrl: "https://www.wallstreet-online.de/nachricht/14146706-iot-machine-learning-and-artificial-intelligence-services-to-reach-us-3-6-billion-revenue-2026/all"
+excerpt: "The next wave of Internet of Things (IoT) analytics development will fully converge with the Big Data domain. Simultaneously, the value in the technology stack is shifting beyond the hardware and middleware to analytics and value-added services,"
+publishedDateTime: 2021-07-13T08:11:00Z
+originalUrl: "https://www.lelezard.com/en/news-19898222.html"
+webUrl: "https://www.lelezard.com/en/news-19898222.html"
 type: article
-quality: 21
-heat: -1
+quality: 41
+heat: 41
 published: false
 
 provider:
-  name: wallstreet online
-  domain: wallstreet-online.de
+  name: Le Lézard
+  domain: lelezard.com
 
 topics:
-  - AWS AI
+  - AI in Finance
   - AI
   - Machine Learning
 
-related:
-  - title: "Edge AI Software Market Generated $600 Million Revenue in 2020: P&S Intelligence"
-    excerpt: "The surging number of applications being deployed on the cloud in several industries, rapid improvements being made in the internet of things (IoT)"
-    publishedDateTime: 2021-07-13T07:00:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/edge-ai-software-market-generated-600-million-revenue-in-2020-p-s-intelligence/article_a6f64fb4-bc14-5b69-b184-c25b39087d0a.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 36
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/0/ac/0acc1671-6fcd-5e01-8335-549b973f4ca4/60867deb6fe15.image.jpg?resize=1200%2C504"
-        width: 1200
-        height: 504
-        isCached: true
+images:
+  - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
+    width: 640
+    height: 480
+    isCached: true
 
-secured: "QXt6kzFtqreoYYYrzxp9aOkKzHS3Xa+gjKAFQTItJvSF/R08r+4F8ZIPywY8fXCincYx2yd5nbg/djIpz98KqPewn46qf9iyXA3rtX0MeJBVcCTSt+0P48q5QR69IZcYwxB0Ht+Jh8dTyz8VlwXfLvw2zfLuyC9CUnPiTp5AhwO8K8in958wGU9VcIRPFw++xo85o4CFiIm2ZaEtimGo6tFB9FbWRtAOa1n5bWdnLVWvj6vvd2t5QqVxTVPr9GwbCfgH0gAJK6EKMpakpfY6OJYKx5Hr7t6sIxPbbK/oCsfPhUTXpjAm91c7FqMINYfhQQtIeWrs1E9irsBQIxq1N5Y/sdPRGm7vCIBTx1bk5b8=;7UFflRD/hYDXFxNFnO5Rlw=="
+secured: "qSFInzBTjveR9z94C5OVke0EzI4cfceF5PimSZ4Qu6AewAaTwCVan9vbjfI5KW45JAGWiOPrpJ79CgUk/2SFCQFc1DZv6qLqFvDik5F1ZG6oUPBFq6zlRUyLIcBPWA+Rxwygq6C/r6EyOUC6OvnNJceWJ8u3VM5d7oz7chV9UojhrvO0lvOE1safNaCabivjS7RyH3V1eeIj8jQGW+wsDIrcBRZQt+b+raxkTj0Tlz0WbhKS9KShoPt+lS5IZCJL5y9SLgTkV7mMXNBmQfqn6Y73LBo33IVFO9FjEkrEIUd51GUZsVhEMNfV+HhgqzEx/DLXaCMU/81Jq+4+8oUWe7/VNPIsNizXvIFGaezF4KQ=;f/7NOyA9rBrWt/9HOLAPPA=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.infoworld.com/article/3624700/5-ai-startups-out-to-chang
 cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3624700/5-ai-startups-out-to-change-the-world.amp.html"
 type: article
 quality: 89
-heat: 169
+heat: 159
 published: true
 
 provider:
@@ -106,20 +106,6 @@ related:
       - url: "https://fintechmagazine.com/sites/default/files/styles/ma/public/image/GettyImages-1255615171_0.jpg?itok=ebVnK-eP"
         width: 2309
         height: 1299
-        isCached: true
-  - title: "Health tech on display at the World Artificial Intelligence Conference in Shanghai"
-    excerpt: "With strong support from the government, the Chinese AI health market has more than tripled in size in just three years."
-    publishedDateTime: 2021-07-09T15:39:00Z
-    webUrl: "https://www.euronews.com/next/2021/07/09/health-tech-on-display-at-the-world-artificial-intelligence-conference-in-shanghai"
-    type: article
-    provider:
-      name: Euronews
-      domain: euronews.com
-    quality: 48
-    images:
-      - url: "https://static.euronews.com/articles/stories/05/85/84/48/1000x563_cmsv2_bf9bdf2a-31a7-518e-b05e-4a8faf466235-5858448.jpg"
-        width: 1000
-        height: 563
         isCached: true
   - title: "Preparing the world for artificial intelligence"
     excerpt: "Ultimately, the move toward AI also needs a cultural paradigm shift, behavior change and setting ethical standards on the boundaries of its uses and what recourse victims of AI use or abuse have to justice."

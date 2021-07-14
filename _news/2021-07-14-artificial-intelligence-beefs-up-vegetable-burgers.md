@@ -9,7 +9,7 @@ ampWebUrl: "https://www.samaa.tv/technology/2021/07/artificial-intelligence-beef
 cdnAmpWebUrl: "https://www-samaa-tv.cdn.ampproject.org/c/s/www.samaa.tv/technology/2021/07/artificial-intelligence-beefs-up-vegetable-burgers/amp/"
 type: article
 quality: 57
-heat: 67
+heat: -1
 published: false
 
 provider:
@@ -26,17 +26,19 @@ images:
     isCached: true
 
 related:
-  - title: "AI Beefs Up Veggie Burgers As Market Booms"
-    excerpt: "A burgeoning veggie burger industry is using artificial intelligence to propose alternatives. Swiss group Firmenich, one of the world's leading flavour manufacturers, says recreating the sensation of beef relies not only on flavour,"
-    publishedDateTime: 2021-07-14T03:42:00Z
-    webUrl: "https://www.ibtimes.com/ai-beefs-veggie-burgers-market-booms-3251253"
+  - title: "AI beefs up veggie burgers as market booms"
+    excerpt: "Have a beef with beef? A burgeoning veggie burger industry is using artificial intelligence to propose alternatives."
+    publishedDateTime: 2021-07-14T08:13:00Z
+    webUrl: "https://phys.org/news/2021-07-ai-beefs-veggie-burgers-booms.html"
+    ampWebUrl: "https://phys.org/news/2021-07-ai-beefs-veggie-burgers-booms.amp"
+    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-07-ai-beefs-veggie-burgers-booms.amp"
     type: article
     provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 37
+      name: Phys.org
+      domain: phys.org
+    quality: 57
     images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/07/13/recreating-the-sensation-of-beef-relies-not-only.jpg"
+      - url: "https://scx2.b-cdn.net/gfx/news/2021/recreating-the-sensati.jpg"
         width: 1024
         height: 682
         isCached: true
