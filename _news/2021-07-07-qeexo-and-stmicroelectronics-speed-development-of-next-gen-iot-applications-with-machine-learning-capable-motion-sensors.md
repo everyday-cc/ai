@@ -1,49 +1,20 @@
 ---
 category: news
 title: "Qeexo and STMicroelectronics Speed Development of Next-Gen IoT Applications with Machine-Learning Capable Motion Sensors"
-excerpt: "\"Delivering on the promise we made recently when we announced our collaboration with ST, Qeexo has added support for ST's family of machine-learning core sensors on QeexoAutoML,\" said Sang Won Lee, CEO of Qeexo. \"Our work with ST has now enabled ..."
-publishedDateTime: 2021-07-07T09:00:00Z
-originalUrl: "https://www.marketwatch.com/press-release/qeexo-and-stmicroelectronics-speed-development-of-next-gen-iot-applications-with-machine-learning-capable-motion-sensors-2021-07-07"
-webUrl: "https://www.marketwatch.com/press-release/qeexo-and-stmicroelectronics-speed-development-of-next-gen-iot-applications-with-machine-learning-capable-motion-sensors-2021-07-07"
+excerpt: "Our one-click, fully-automated Qeexo AutoML platform allows customers to leverage sensor data to rapidly build machine learning solutions for highly constrained environments with applications in ..."
+publishedDateTime: 2021-07-07T15:00:00Z
+originalUrl: "https://www.wallstreet-online.de/nachricht/14127293-qeexo-and-stmicroelectronics-speed-development-of-next-gen-iot-applications-with-machine-learning-capable-motion-sensors"
+webUrl: "https://www.wallstreet-online.de/nachricht/14127293-qeexo-and-stmicroelectronics-speed-development-of-next-gen-iot-applications-with-machine-learning-capable-motion-sensors"
 type: article
-quality: 29
-heat: 29
-published: false
 
 provider:
-  name: MarketWatch
-  domain: marketwatch.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: wallstreet online
+  domain: wallstreet-online.de
 
 topics:
   - Machine Learning
   - AI
 
-images:
-  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-    width: 1200
-    height: 630
-    isCached: true
-
-related:
-  - title: "Machine-learning capable motion sensors intended for IoT"
-    excerpt: "By using this sensor data, the Qeexo AutoML can automatically generate highly optimised machine-learning solutions for Edge devices. With ultra-low latency, ultra-low power consumption, and a very small memory footprint these algorithmic solutions are able ..."
-    publishedDateTime: 2021-07-07T23:59:00Z
-    webUrl: "https://www.newelectronics.co.uk/electronics-news/iot-machine-learning-capable-motion-sensors/238717/"
-    type: article
-    provider:
-      name: New Electronics
-      domain: newelectronics.co.uk
-    quality: 24
-    images:
-      - url: "https://www.newelectronics.co.uk/article-images/238717/qeezo.jpg?width=375&height=250&scale=canvas"
-        width: 375
-        height: 250
-        isCached: true
-
-secured: "X//2PItPP20eLZY9gn8D5VTMjNPON31Edl7lUr4w6TEUP5kk5CC6zeu12yHkyvliI/eoodnP5nD1Qde1bbnceioHfprfnyhnux73G4ZRm9Lqj1is7NbCJJM1EGkP4telhvm23IZM5LHc6Gz4zzvs1fe+74ie3C14mNnBK5Ymgqu3Iys5fVVJn1Jj73NWl68rezJShLa5wV9jccXldCjxINuNJCqQ+o8RxHYkZThfnOlsPL+R8ioY+3Cl/HIlvXy/W41EVT6Fz88UB3rZywrv72s64QPhWSRs02r0j5PPodg2HyRHqNJpKymK/OmOWKCR89YQRfzJ5A+JTrH5fThLAzu5B/744+wmZl0/fS421ks=;i4bTRUm7NbtVsZXItw9YQA=="
+secured: "/a2uOrQBjwEEUmuh6Kvr58Dp3CkWRBLh9NcE2y8v/NlSRUclZp4iHbgsKOSppwID56s4YA8aeKrVlwiR8CiJ/gPnQYc179z2cja8O3msCr/RWebvZsNPoAQPnZztvGSgzO27B3f5I0wpGpeRtsuA2Fd+hSlG3fdgahK8I3hqewAWysJtc8Utu9Fan6RlADV5MCpSdUDI8ynawVP96/5H6RU3L4B+WQgF4QUtHPJH1yA7wowjISELd1ssv0OV2IIgwGD2bgC4c2SpBYAPC5LOHFbqaOIzT6D8zqV5ph9uNqmJqh0U/x7OrLDcqZLFdpfUaXjP7tCbNYLwCbk3FFHDumnk+Op/lyj8NNllvLA2Zaw=;bkCnwZJPFM6xtyO5RPrBwQ=="
 ---
 

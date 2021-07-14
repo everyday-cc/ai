@@ -1,16 +1,11 @@
 ---
 category: news
 title: "AI to have biggest impact on fintech development over next five years"
-excerpt: "Artificial intelligence will become the most influential technology in the fintech sector over the next five years."
+excerpt: "Artificial intelligence (AI) technology will have the biggest impact on fintech development over the next five years, according to a survey of 80 fintechs by Tribe Payments, which analysed the use of five emerging technologies: application programming ..."
 publishedDateTime: 2021-07-13T11:00:00Z
-originalUrl: "https://www.computerweekly.com/news/252503927/AI-to-have-biggest-impact-on-fintech-development-over-next-five-years"
-webUrl: "https://www.computerweekly.com/news/252503927/AI-to-have-biggest-impact-on-fintech-development-over-next-five-years"
-ampWebUrl: "https://www.computerweekly.com/news/252503927/AI-to-have-biggest-impact-on-fintech-development-over-next-five-years?amp=1"
-cdnAmpWebUrl: "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252503927/AI-to-have-biggest-impact-on-fintech-development-over-next-five-years?amp=1"
+originalUrl: "https://www.computerweekly.com/news/252503927/AI-to-have-biggest-impact-on-fintech-development-over-next-five-years?_hsenc=p2ANqtz-_wp0NEwtMwH9cxAS7D7FS1YQtX3q9SQZeMy8gQFoTm331RQW67b_05NSdYuu-LhOHbOHbE"
+webUrl: "https://www.computerweekly.com/news/252503927/AI-to-have-biggest-impact-on-fintech-development-over-next-five-years?_hsenc=p2ANqtz-_wp0NEwtMwH9cxAS7D7FS1YQtX3q9SQZeMy8gQFoTm331RQW67b_05NSdYuu-LhOHbOHbE"
 type: article
-quality: 59
-heat: 109
-published: true
 
 provider:
   name: Computer Weekly
@@ -20,76 +15,6 @@ topics:
   - AI in Finance
   - AI
 
-images:
-  - url: "https://www.computerweekly.com/visuals/German/article/artificial-intelligence-adobe.jpg"
-    width: 1200
-    height: 400
-    isCached: true
-
-related:
-  - title: "How Fintech can harness the power of big data to redefine market forecasting"
-    excerpt: "Advances in predictive analytics using machine learning (ML) algorithms and blockchain technology demonstrate how innovations in financial services are challenging"
-    publishedDateTime: 2021-07-13T14:27:00Z
-    webUrl: "https://www.cityam.com/how-fintech-can-harness-the-power-of-big-data-to-redefine-market-forecasting/"
-    ampWebUrl: "https://www.cityam.com/how-fintech-can-harness-the-power-of-big-data-to-redefine-market-forecasting/amp/"
-    cdnAmpWebUrl: "https://www-cityam-com.cdn.ampproject.org/c/s/www.cityam.com/how-fintech-can-harness-the-power-of-big-data-to-redefine-market-forecasting/amp/"
-    type: article
-    provider:
-      name: City A.M.
-      domain: cityam.com
-    quality: 41
-    images:
-      - url: "https://www.cityam.com/wp-content/uploads/2021/07/9298_PG_School_of_Accounting_and_Finance_WEB_IMAGES_06.21-1.jpg"
-        width: 1024
-        height: 640
-        isCached: true
-  - title: "If You Only Buy 1 Fintech Stock, Make It One of These 5"
-    excerpt: "Recent innovations by biotech and fintech stocks, for example, show how pandemic-era needs are shaping the market. Source: Shutterstock In 2021, fintech companies are harnessing advanced technologies to provide faster and more reliable financial service solutions for institutions and everyday users."
-    publishedDateTime: 2021-07-09T17:53:00Z
-    webUrl: "https://www.nasdaq.com/articles/if-you-only-buy-1-fintech-stock-make-it-one-of-these-5-2021-07-09"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 34
-  - title: "Demystifying the role of the fintech CFO"
-    excerpt: "This series of articles looks to demystify the various C-level roles within fintech companies today – exploring the career paths taken by top managers, their critical skills, daily responsibilities and challenges,"
-    publishedDateTime: 2021-07-09T11:48:00Z
-    webUrl: "https://www.finextra.com/the-long-read/228/demystifying-the-role-of-the-fintech-cfo"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 24
-    images:
-      - url: "https://www.finextra.com/finextra-images/oped/228.jpg"
-        width: 800
-        height: 450
-        isCached: true
-  - title: "The Future of Fintech 2021 on demand"
-    excerpt: "On the 17th of June, FStech's virtual conference returned for 2021, covering the biggest trends in financial services technology. Across a variety of keynote speeches, in-depth presentations and lively panel discussions this online event tackled how firms can deal with the challenges of the Coronavirus crisis one year on, as well as looking forward to what the 'new normal' will look like for an industry already in the grips of digital disruption. Among the topics on the agenda were: cyber security in the time of COVID-19, the RegTech solutions automating compliance, improving data literacy and governance, protecting customers from fraud, AI and machine learning, the rise of digital assets, upgrading legacy systems and ensuring data is safe and optimised in the cloud. For those of you who missed the event, or would like to watch specific sessions again, we have collected the day's content and put it all in one place for easy viewing:"
-    publishedDateTime: 2021-07-10T09:48:00Z
-    webUrl: "https://www.fstech.co.uk/future-fintech-digital-conference/ondemand.php"
-    type: article
-    provider:
-      name: fstech.co.uk
-      domain: fstech.co.uk
-    quality: 24
-    images:
-      - url: "https://perspectivepublishing.co.uk/dev/cms/uploads/FStech%20Couchbase%208th%20December%202020/final_cb.jpg"
-        width: 314
-        height: 314
-        isCached: true
-  - title: "Top 10 Fintech Trends to Watchout For"
-    excerpt: "To make you aware of the revolutions FinTech has unleashed in the financial arena, we are outlining the following ten technology trends that are the forces behind the Fintech revolution: Welcome to Finextra."
-    publishedDateTime: 2021-07-09T15:21:00Z
-    webUrl: "https://www.finextra.com/blogposting/20576/top-10-fintech-trends-to-watchout-for"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 4
-
-secured: "TuafL5M9sThLaWU0RAaBGZpbG7yQRZHeh+dmhn096IaGDMt7gLktvhkF47CxuTm+h78lIVKFUlTmmDCY4pIJDd0N+gDNxa1RSI6cggaseh4nomfeeNDygC/haX6XWc5sUxxWmtpgoLQ618krTBgUHaYi3PyWcFapvKzso4LXpCKWmOhbC52mO3veyeiQZVl75v5O1MStwjSG3qKY8IKmkSWZ3KzuOSEpwMAQGCnUbKFEXQ7jNpaYh7PWj8iHDYuEuFi7BzexQ2T1UkZxG5saBGRdEUI5BhStQ5woTaPRo9HvbS64aIgGM9xFsgou4tMIwrkxrQiec6G+yC+5HGSzYNSruN1tKnfkq6DccWsmiidTUPEgoSrbcl61fHNjezJBXpRo/ezGD9ertRyGdZp9sUEwVGa8KJbt9nzPaY2tVlgYAoxWO9LVyt1Z6H7bbvLolU7l6iwGqtW9/zlhz1SyY98Y0FOKPdbwdd+vqaAqHm58hI2qZP8sMJC/oksDC3vvY8EPRY4wArPNyOTkrcRZtw==;hw1miIczsxfPxxadbA0NuQ=="
+secured: "6XV6qz3lgvYfKwW45NwIHZgL4K8sU/Xue1yjfxHVxeYexf1PsAxhZ/wOFVxgErzOPV/Wimf6KqDvBgszfLFNBXpGch+1yNuzw2qs3FaNRUV030tlf+UqgU+wlsJTiCatIrOVlpLZjqENeaj3SWVA+AyhjP+zjT6aXeKvY1Nr2Q2od1kdziqzCkPQwohaN5w/IhPOW0PUTPFu78Es12Vn21gnth+i4lMKvncJ69IdRIJWuQ/fzgCy4bnjkuiyN+jFAc9Smt6q4FlcIdOhSLWW5y4QCsiqI8FCxcAshpYC0MdBzCSH/hxoam3OfPL1OX52+vgvHARFfdj7AV7EuFtbPE5DOYuy0PMncHxK76iQzMxM/G9/hsCzheuNRB4PYsjcFEBwXYZzXUHd7kThEeQkgUmHN/4Q0yqG8HscWzBJw/PKWVeu0l6IbSh8caY0zMCQGyWoY8rpVWJYNM2cpjhgUH9qRcmtRki8uWekbqqENm9r8IOpaYVdYYWt5OZKX5lmKkJFj15uir2jsxRX8FDdKw==;2cDwXzQiLTVPcqim4wJtSQ=="
 ---
 

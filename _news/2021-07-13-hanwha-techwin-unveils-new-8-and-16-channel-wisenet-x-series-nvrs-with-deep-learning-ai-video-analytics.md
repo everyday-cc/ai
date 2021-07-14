@@ -3,14 +3,9 @@ category: news
 title: "Hanwha Techwin unveils new 8 and 16 channel Wisenet X Series NVRs with Deep Learning AI video analytics"
 excerpt: "The introduction of 8 and 16 channel Wisenet X Series NVRs makes it cost-effective, for even small businesses to take advantage of the licence-free Deep Learning AI video analytics, built into"
 publishedDateTime: 2021-07-13T10:46:00Z
-originalUrl: "https://www.sourcesecurity.com/tags/video-analytics/news/hanwha-techwin-wisenet-x-series-nvrs-deep-learning-ai-video-analytics-co-1437-ga-co-13220-ga-npr.1626162967.html"
-webUrl: "https://www.sourcesecurity.com/tags/video-analytics/news/hanwha-techwin-wisenet-x-series-nvrs-deep-learning-ai-video-analytics-co-1437-ga-co-13220-ga-npr.1626162967.html"
-ampWebUrl: "https://www.sourcesecurity.com/amp/news/hanwha-techwin-wisenet-x-series-nvrs-deep-learning-ai-video-analytics-co-1437-ga-co-13220-ga-npr.1626162967.html"
-cdnAmpWebUrl: "https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/news/hanwha-techwin-wisenet-x-series-nvrs-deep-learning-ai-video-analytics-co-1437-ga-co-13220-ga-npr.1626162967.html"
+originalUrl: "https://www.sourcesecurity.com/news/hanwha-techwin-wisenet-x-series-nvrs-deep-learning-ai-video-analytics-co-1437-ga-co-13220-ga-npr.1626162967.html"
+webUrl: "https://www.sourcesecurity.com/news/hanwha-techwin-wisenet-x-series-nvrs-deep-learning-ai-video-analytics-co-1437-ga-co-13220-ga-npr.1626162967.html"
 type: article
-quality: 58
-heat: 58
-published: false
 
 provider:
   name: SourceSecurity
@@ -20,12 +15,6 @@ topics:
   - Machine Learning
   - AI
 
-images:
-  - url: "https://www.sourcesecurity.com/img/news/612/wisenet-cameras-helps-protect-mfg-s-electric-vehicle-ev-charging-hubs-920x533.jpg"
-    width: 612
-    height: 355
-    isCached: true
-
-secured: "pnEq3g6E3Gjir3YipTvh0oTZkihN4CbKHQtwqbM6tVYAvuHtozcpx7QQtlZrZ/UqLrzAiVjrV8PZnXNiSvbRJeFk4kzakOxaY/Md94S6TZa3/YKaFKNKlUSOCaFhcgUbXFVbNLa2Rgq8Nf4/hAX1AhUVCVV76OgJ+G+zRf+6l257zY7u01wnienrhwSEsrzNlNe3SaZhDBpOI1nB9fgYvnLSm5eC/Ff5/ao5x/fQJBvcJXGr96Cb/DkeecdYBqnABNnx3zU0KdBt0hL1C2nQMAWWY1ozqqemNT658GJEP18LUnxuYkoCfVpnKKIeKs0oFWooLOa8hobWGWP+TrkJYlVqsioIP+j1DDIVJGlmN5W+NdTzwQs82uQeJbQvpfW0gDBAewHNHBsVe4y2UHeVyd+pqLB0nhAJZV6ENn1YlJ4dICQFg/qxjMpQCWhHun01RYj4js4xBnKwvcftCPcdJfntbGqLF0sRTVq0DDsFiHLK/56VXpxrIe/qXd6xBq+HrYzSxFcuqpgAWTlc+LAaPg==;qgRwKWIBxLvXU4a2FCT0FQ=="
+secured: "TGFqcZH49/xWPj/8hpyEC8iM+V2jyXb7bGfHX40X1UU1yUDBHGkvfhRpK/6GPzR83xqiKgoO88NVRI0y43tmXujWJRRdl34zKhStawTrtA9yQ9GFOq2a1MPqjbBmEM42luCbE9gNZz0Xd948SiTbX82Nw3b+w5/b0bnX39vdg0FNWgDfWANm/sV25jn0zz15Oaxuz8Wl84j4S1Uqpg67fmSW6/8NnT8H1Ft5B4wnMXozVSr6R7Ux/pNc86dDrC0dbTvqDxyWqpB1dRZORPCmrQNuPsVhIY6mQ5iuhNw6IYIGy8U1oDjXsoAe0X6BSo7nLIIiYBBbq2AVbcme77N7j9SkVOeF1TkBjGhUW2se9SSFfyYNnlA40+GAY5+Q/547cvVIG30YuDeV955kS/IjaTN0MTZE6E6zlOMXt/wPqNf6Ysf2jOrBHpJg/12b8n44KeCb33vilwlcDz3xZwI+834OdWHebky4lDLLgVhMUTrYFRoEHoIACh5PvOARVzlZzST/dxYW8i3WxSuNwZOQ6Q==;jzYU2HmSg+nhvBCOvdiDvw=="
 ---
 

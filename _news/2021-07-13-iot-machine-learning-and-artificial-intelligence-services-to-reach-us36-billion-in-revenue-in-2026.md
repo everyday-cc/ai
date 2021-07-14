@@ -6,26 +6,16 @@ publishedDateTime: 2021-07-13T08:11:00Z
 originalUrl: "https://www.lelezard.com/en/news-19898222.html"
 webUrl: "https://www.lelezard.com/en/news-19898222.html"
 type: article
-quality: 43
-heat: 43
-published: false
 
 provider:
   name: Le Lézard
   domain: lelezard.com
 
 topics:
-  - AI in Finance
+  - AI in Healthcare
   - AI
   - Machine Learning
-  - AI in Healthcare
 
-images:
-  - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
-    width: 640
-    height: 480
-    isCached: true
-
-secured: "FHnOg7hdev4n0RwY9I6/GPgyBMLH9jddpgNlQbPkw2f13h22RqoQkjpgcdyg2stFPLfT3glBwxsMtytSOiS1VEyq9Io6dzLRqFvbNv7mK6onM3UtfWfHxG6L2O6AwjiwAFRIh4azSD4xJ1Eo3dKeRRNZPock/eJ+rIcd8PY497PeBY0YTC0nr4LiTddiFtsdjkWKuUqymSLOkUU6vIX0JHSnhUPcA6FVh2Oc9Od68rI0L+AVf7s6sScq6puRFYNJZdHjXcdr2O4Bi2TwbWblitSuZ9h5sU6vbeiOIrCZMOAyKrzruIouKavsI/RdDNBnk03XED7rsIQWaSQMcYSwCoodHMcTOJq7QUjhbCADApU=;BbAKvYAD4AfYPL7ahmZX7A=="
+secured: "4FKLA0yyFHA2Bi20rPWL457bt3pJOsBkzyILk+ujnGXRiFFGw10xiLJ/rgmDHq6JfkYsfugaXnAOVuaB7zZ74aRZsDYx2vDXPKtprfkP5Bhd//1vPFAwogGCUR2VEhIW3WWgmpM0upd8xNDm9lRtBOhmp4nJxQLUdSWLFu+Vny9zh8rRnUVuqEP/xoYTrDZ/WNDL3IwdibEu9+PV/Jd1GRAxXcaG8XdoiDyhmPnt6T9sJZmEvgmUQALhdLu0c2h23xcU7pM+PErpb0Zovbv3vDmxRxUEUGBvoG4gaJiP1NPa8ugr2vIrUTq0By7NBEpT4Is+bmXjz33bQn/KF2ErBGggkmqsdba3j/C8BQLIWkI=;O7fDV9HRsctTXJ8UbI6B7A=="
 ---
 

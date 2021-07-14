@@ -1,26 +1,20 @@
 ---
 category: news
-title: "China’s Didi touts tech spending ahead of Wall St debut"
-excerpt: "Chinese ride-hailing service Didi says it lost $5.5 billion over the past three years ahead of its U.S. stock market debut Wednesday but it's highlighting its global reach and investments in developing electric and self-driving cars."
-publishedDateTime: 2021-06-30T07:04:00Z
-originalUrl: "https://apnews.com/892017a21181bc873a4e4599a6b30b0f"
-webUrl: "https://apnews.com/892017a21181bc873a4e4599a6b30b0f"
+title: "China's Didi touts tech spending ahead of Wall St debut"
+excerpt: "Early investors included Apple Inc., Japan’s Softbank, Alibaba and Chinese internet giants, Tencent Holding Ltd. and Baidu Inc. Didi ... into development of self-driving, electric vehicles ..."
+publishedDateTime: 2021-06-30T08:10:00Z
+originalUrl: "https://www.fox23.com/news/chinas-didi-touts/DBXXNMFWEYG4ZRLYZ7NRQERQJU/"
+webUrl: "https://www.fox23.com/news/chinas-didi-touts/DBXXNMFWEYG4ZRLYZ7NRQERQJU/"
 type: article
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Fox 23
+  domain: fox23.com
 
 topics:
   - AI in Autos
   - AI
 
-images:
-  - url: "https://storage.googleapis.com/afs-prod/media/f4881df4ea264a1cae6cbf329deecf07/3000.jpeg"
-    width: 3000
-    height: 1956
-    isCached: true
-
-secured: "0yUDSTvANjYHLOFlMEpo8kAXq2vMZuXE3a4N0CIHvdC+99zq/Y2vZaIu67sVnlT8tosRjJC37M7HZsruBk/4zimF1CZoqnXD/poxecQJlTaqUydSgGPZ4q5I9uI1YCS/YQpxITx3EfcDOJqzMLAuviKMz0Q6GOQV7cCxQ9phrkXkX6KlWjVvKM4sgMteWZKrmCvf7M5df8uaQalFh1I9a4C5g4OF2QpnRX1/pJKzIVveW0TDcPx24yZ482M82YWRgRJMnPNeuTaPdVVqZ6PsycJTA1pVWBnaWirg0104BZZ6B+o2JhGHQUAPgsuS+n4Ls+3+WDDIcD4QetapdkBUKJ1fu+m3FXixJ99kxSxh0h0uD0LWXwnZKRdAAWCDE0bfbIPQkBcOVcQqZm63dOdCtJtq0sb8aFgH06/+HJqqxzsdbuT+pITv+4s1Vi3x2eAkTRRKpjqEdIU08ikrROK1zNKZW/pX2cneao32wikcljWn7ReatIBLu1FzR9eIUS2xqS9cZRRDeM01HZ5Ih6liyQ==;FUMwkVnffNss/nKhcY2cQw=="
+secured: "gx1ljhTMHheSfpDxu94PRCd6M+jgDUILquaQV2b7Ttcai3yV30Wyjib3YtmO+eDK1rokbowfoSM0wP3hGyjfknNIZ3Jauo+cq517bgSHiONnNPC9icVTLS8PL0YgRaLe4quguJ73hNuDiNhbblUptMtXsNoKX9u/CIb07jJjwe5wZyoOJAq86jb0nM76cxVvND09kzSvUg2MwqhwEn6SRr7HQoD2cqNRHihDU723rbFKQKslyIrYWbRUmDL9csJ5Kyt5PJ1tetgamMZbchxW/caziMh/zo6SA/E7JWQJWeZSHjhkXtLE/je5IF7jk1ZiAPJD/73n85X9YXCSLJJuULLULpHL7vKpAqYTSrxGTRg=;sia0CGncsgFd25P9BC+fMw=="
 ---
 
