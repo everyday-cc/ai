@@ -9,7 +9,7 @@ ampWebUrl: "https://gizmodo.com/google-ceo-still-insists-ai-revolution-bigger-th
 cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/google-ceo-still-insists-ai-revolution-bigger-than-inve-1847288454/amp"
 type: article
 quality: 87
-heat: 98
+heat: 108
 published: true
 
 provider:
@@ -30,6 +30,22 @@ images:
     isCached: true
 
 related:
+  - title: "Google CEO Says Artificial Intelligence Will Be Mankind's Greatest Discovery"
+    excerpt: "Sundar Pichai compared artificial intelligence to the discovery of fire and electricity in an interview with the BBC."
+    publishedDateTime: 2021-07-14T21:14:00Z
+    webUrl: "https://www.entrepreneur.com/article/377330"
+    ampWebUrl: "https://www.entrepreneur.com/amphtml/377330"
+    cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/377330"
+    type: article
+    provider:
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 84
+    images:
+      - url: "https://assets.entrepreneur.com/content/3x2/2000/1626297217-sundar-pichai-4542.jpeg?width=600&crop=16:9"
+        width: 600
+        height: 338
+        isCached: true
   - title: "AI will have a bigger impact than fire, says Google boss Sundar Pichai"
     excerpt: "Artificial intelligence will have a more profound impact on humanity than fire, electricity and the internet, the head of Google has declared.Sundar Pichai, chief executive of the tech company"
     publishedDateTime: 2021-07-12T23:01:00Z

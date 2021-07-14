@@ -27,35 +27,37 @@ images:
     isCached: true
 
 related:
-  - title: "Huawei engineers are working on a new self driving bicycle"
-    excerpt: "Furthermore, the self driving bicycle also arrives with a series of impressive features like the high precision sensors on its body, paired with image recognition cameras, and AI (Artificial Intelligence) technology as well, which enables it to run without ..."
-    publishedDateTime: 2021-07-12T08:42:00Z
-    webUrl: "https://www.gizmochina.com/2021/07/12/huawei-engineers-working-on-self-driving-bicycle/"
+  - title: "Toyota Self-Driving Car Unit Agrees to Buy Map-Maker Carmera"
+    excerpt: "Toyota Motor Corporation is strengthening its foothold in the autonomous car driving industry, agreeing to acquire an artificial intelligence map-making startup just months after buying Lyft Inc.'s self-driving division for $550 million. (www.wsj.com ..."
+    publishedDateTime: 2021-07-14T21:29:00Z
+    webUrl: "https://www.marketwatch.com/story/toyota-self-driving-car-unit-agrees-to-buy-map-maker-carmera-271626296406"
+    ampWebUrl: "https://www.marketwatch.com/amp/story/toyota-self-driving-car-unit-agrees-to-buy-map-maker-carmera-271626296406"
+    cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/toyota-self-driving-car-unit-agrees-to-buy-map-maker-carmera-271626296406"
     type: article
     provider:
-      name: Gizmochina
-      domain: gizmochina.com
-    quality: 69
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 74
     images:
-      - url: "https://www.gizmochina.com/wp-content/uploads/2021/07/Screenshot-333.png"
-        width: 1004
-        height: 563
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "Huawei Engineers Build an Autonomous AI Bicycle That Can Ride on Its Own"
-    excerpt: "A team of Huawei engineers have recently developed an AI-powered bicycle that uses high-precision sensors and cameras to ride itself."
-    publishedDateTime: 2021-07-10T11:29:00Z
-    webUrl: "https://beebom.com/huawei-engineers-build-autonomous-ai-bicycle/"
-    ampWebUrl: "https://beebom.com/huawei-engineers-build-autonomous-ai-bicycle/amp/"
-    cdnAmpWebUrl: "https://beebom-com.cdn.ampproject.org/c/s/beebom.com/huawei-engineers-build-autonomous-ai-bicycle/amp/"
+  - title: "Toyota’s self-driving unit buys US mapping start-up in software push"
+    excerpt: "Toyota’s self-driving unit has acquired US mapping start-up Carmera as the Japanese group embarks on a software buying spree in an attempt to quadruple its global engineering headcount over the next few years."
+    publishedDateTime: 2021-07-14T21:01:00Z
+    webUrl: "https://www.ft.com/content/814a11fe-de45-4ca5-be29-7f0993f43afe"
+    ampWebUrl: "https://amp.ft.com/content/814a11fe-de45-4ca5-be29-7f0993f43afe"
+    cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/814a11fe-de45-4ca5-be29-7f0993f43afe"
     type: article
     provider:
-      name: Beebom
-      domain: beebom.com
-    quality: 56
+      name: The Financial Times
+      domain: ft.com
+    quality: 44
     images:
-      - url: "https://beebom.com/wp-content/uploads/2021/07/Huawei-engineers-develop-AI-bicycle-2.jpg"
-        width: 750
-        height: 500
+      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fdb76abab-edd2-4a11-abb9-fd67b076d31c.jpg?source=google-amp&fit=scale-down&width=500"
+        width: 500
+        height: 281
         isCached: true
 
 secured: "2f7oOqAswZ05wi3Zd0JWuXlQjUOOkBjnDntwmhhEzoruJkS4c+D1ryxeow2kZVRET/Nh4bCJhK44JWsZGOnV3PofwDbE6cgqFE6Jjw8lqKSQ9A7iDiBCfWowDRcEh4EUQ06YfnVBe140HTGThJwTengbzEMpDp6osQ2kyyhb1vjrN+OBDdYVSATscxzKY5/inlAdOyG4nGETXq+MA2rTm3HN33lk/x3khwcuFqBbW1/Rwq63CNdo0pKdEfQCg/Nd33meQe/OK5BJsG6q2qtZC62z7QaSixPbdWyylBt5aLY8iXsc4a+P6BKQZv2WtHmnl4DV28fb9ftuER7Ev3cuItRmUYX1/JZkdCAdqsr7BK8aQ2UrZuq3Gz+1x4A2fGbC8Hdy0/RU47xTg+ns4iftBYpDX4WFxqW7NsGKk7pTywpnpoJ91Xj8miGwfCmJBrnqsW5vHJA76gxWskeJJ/02QsgthZj6tPR8xdDorHRcFDaQ6+UV9xNskI8Pe4TDTWF3sWcvNlyTsezZA2kZ5bOeHQ==;IJ6GnEH+4K+/xNj4QycRwQ=="

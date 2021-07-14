@@ -1,21 +1,27 @@
 ---
 category: news
 title: "NEC’s Artificial Intelligence (AI) Supports Doctors to Determine If Colorectal Lesions Are Potentially Neoplastic"
-excerpt: "NEC’s artificial intelligence (AI) supports doctors to determine if colorectal lesions are potentially neoplastic"
-publishedDateTime: 2021-07-14T08:00:00Z
-originalUrl: "https://www.businesswire.com/news/home/20210714005377/en/NEC’s-Artificial-Intelligence-AI-Supports-Doctors-to-Determine-If-Colorectal-Lesions-Are-Potentially-Neoplastic"
-webUrl: "https://www.businesswire.com/news/home/20210714005377/en/NEC’s-Artificial-Intelligence-AI-Supports-Doctors-to-Determine-If-Colorectal-Lesions-Are-Potentially-Neoplastic"
+excerpt: "NEC Corporation (NEC; TOKYO: 6701) announced today the development of an AI technology for supporting doctors in determining if colorectal lesions are neoplastic or non-neoplastic. NEC developed a new technology,"
+publishedDateTime: 2021-07-14T08:02:00Z
+originalUrl: "https://apnews.com/press-release/business-wire/europe-technology-health-artificial-intelligence-a2e9d02f0caf41e3b9a24061d9f71636"
+webUrl: "https://apnews.com/press-release/business-wire/europe-technology-health-artificial-intelligence-a2e9d02f0caf41e3b9a24061d9f71636"
 type: article
-quality: 11
-heat: 11
+quality: 31
+heat: 31
 published: false
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI
+
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
 
 related:
   - title: "NEC's Artificial Intelligence (AI) Supports Doctors to Determine if Colorectal Lesions Are Potentially Neoplastic"
@@ -28,6 +34,6 @@ related:
       domain: newswiretoday.com
     quality: 11
 
-secured: "9iP6c6C0yDrUb8WFdz5GAmaXNtUi1gC+BU44ihbUwmcoHCzCbyow07PKeLl6CmeHpZLcQyQWqZZMphP98qYwEWHTbMoq/lpi3CrmxH0Ii8kX9jZhhGHmHiS/lzZOib6U3Q3pqWTwUUgPAR67pSrp6dKsk6vKhxaMdPTIOb0eabtAMie0E/pvskhsN91k79qz9b33W9PNrnYXDHU5KCYhLCrtIFOvTRqexvd+iSrEJb1L3mf5Hf6cw9b7zeJnOp2ReXY8NcAWfC36sOibdUbTPc7D7/YWcaphi6/SLqik4yhSKiTcwfuHoBnty5uRYNMngifKZcBnGRpy9yoq6XJ7tHhef670PLRXYKdf32Fr7At/Er0CQ/+ByPdTqTMoBoKD2PpCEDxmk0SPUSAU4O2LHzUxvuCZa0/NFIxax25NGWPlCu+ODcdhXLKorWMjaUAOIIv6zX2ZRi307cOsgkmjS4tVzOF0GlbYFK+SU4vxKlOoQn3CHhQdIl1uoiWXWXFZ/ItvAUUMz0xkICZINRhXJw==;kOrxlLox+WgqatpFwfJgrQ=="
+secured: "Tep4ZzPGpLAdNhhix5NKLf7U6BMucuDjO+AlrTSuycf2Oq3sGMrooColPb91QCn4gB6WE+0JwjYizY3ZeDu4CkpzoOji1lCGfGCAN/1wp6+4Kc1O08+LX7Jao22AFhnrrTFO25iDwldwWhkry1DQwsHrqjmO7bl5J3XppVzutHeMnhMR6jEsBBAgtvB6r+B85m06vfHAxbXCD0Huy5Yb0352MUm/SpgZ+em6bdtkcRdMavO7NoYR8wmghoaHvX5BTewsgKvdYpJzrIh2LdVNMhhPheI64Z6ZXMx2a13r+uBNr4J6rdEeYN7nPgRQPcf92c5bY+v13OzXMgvErFWoclRSIeaAYtdiwnEyXY2PE70=;GstQD661e6sYD5GUdaIeTw=="
 ---
 

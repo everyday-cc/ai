@@ -1,15 +1,15 @@
 ---
 category: news
 title: "To Spur Growth in AI, We Need a New Approach to Legal Liability"
-excerpt: "AI may improve the lives of millions ... Parikh, MD, is an assistant professor in the Department of Medical Ethics and Health Policy and Medicine and a senior fellow at the Healthcare ..."
-publishedDateTime: 2021-07-13T14:01:00Z
-originalUrl: "https://hbr.org/2021/07/to-spur-growth-in-ai-we-need-a-new-approach-to-legal-liability?ab=hero-subleft-2"
-webUrl: "https://hbr.org/2021/07/to-spur-growth-in-ai-we-need-a-new-approach-to-legal-liability?ab=hero-subleft-2"
+excerpt: "The existing liability system in the United States and other countries can’t handle the risks relation to AI. That’s a problem because it will slow AI innovation and adoption. The answer is to revamp the system,"
+publishedDateTime: 2021-07-13T12:25:00Z
+originalUrl: "https://hbr.org/2021/07/to-spur-growth-in-ai-we-need-a-new-approach-to-legal-liability"
+webUrl: "https://hbr.org/2021/07/to-spur-growth-in-ai-we-need-a-new-approach-to-legal-liability"
 ampWebUrl: "https://hbr.org/amp/2021/07/to-spur-growth-in-ai-we-need-a-new-approach-to-legal-liability"
 cdnAmpWebUrl: "https://hbr-org.cdn.ampproject.org/c/s/hbr.org/amp/2021/07/to-spur-growth-in-ai-we-need-a-new-approach-to-legal-liability"
 type: article
-quality: 59
-heat: 59
+quality: 57
+heat: -1
 published: false
 
 provider:
@@ -17,7 +17,6 @@ provider:
   domain: hbr.org
 
 topics:
-  - AI Ethics
   - AI
 
 images:
@@ -26,6 +25,24 @@ images:
     height: 675
     isCached: true
 
-secured: "x1tqOXg5RdTyJLptwkbYhjNUntbn/7loAPuEZOyPmYD88p9x3d8XNvj4IQoAfpMSQT31eYXzAslh5IZs47buVWD+25oUY8DVyvkDw9Fgff9oi9hJn5mOz/NY7O26kihWL4XxjE+DnxDLWQuwNofgpEh7Z/jR03GiArMsoEado2JyluBs1c7gWzyJb29k65d8NVbFpDsEzFLrjBvwNHqL6YWYLcaVStjd4ji7KwEHmOinrA9tuY1L0tlvinsbh9IbuyAOpgN4bwACuh+5wB6qrsvQumC8ilBQD0i50mD9fKbQNlIoSOCs6QrHrAz11DHgyzsqEbq4bcUoCFgY+w2Ubsub+JHo80tBYQrz16uRK765YukDMWqlmo/DmIsik04m8DgC6fJp6cqGH9w+0x745rV3+OlOx241UtTJs5ib9TKrk5/MqDFFgHmIiVLFSfRSxlmgDWRNQDJakYi8CF030w2Un5OHXTaHQmJhhi19g7tS2NnJJQRy2ccEwqlu/QGKRG4RGuNhxHfo8tTKvWjCfQ==;/F793WlD2jtBRxGQtGTmlw=="
+related:
+  - title: "AI-enabled cameras witness a growth in the pandemic"
+    excerpt: "The Threat Detection Cameras to help Businesses and markets reopen safely. With services in over 21 countries, a computer vision AI brands, Integration Wizards Solution, has left no stone unturned when it comes to AI-enabled innovation in the field ..."
+    publishedDateTime: 2021-07-12T05:43:00Z
+    webUrl: "https://www.dqindia.com/ai-enabled-cameras-witness-growth-pandemic/"
+    ampWebUrl: "https://www.dqindia.com/ai-enabled-cameras-witness-growth-pandemic/amp/"
+    cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/ai-enabled-cameras-witness-growth-pandemic/amp/"
+    type: article
+    provider:
+      name: Dataquest
+      domain: dqindia.com
+    quality: 59
+    images:
+      - url: "https://www.dqindia.com/wp-content/uploads/2020/12/security-5043368_640.jpg"
+        width: 640
+        height: 381
+        isCached: true
+
+secured: "iLV4WRXrVwNwnWf3Aog/VYkbg8TRVO1ZHsc5aTDp35kJdJaqrDC/vl6vGFV60zKYtF5g5d4Fqdaz0834UqX62vjgyG95+G4vJ1c5Gp/xseb7rTNf3jAeNh67eGjbvAR59pUHF3m5eNZjbmWOM2lq/PdRmVyvDziYNzF03iuZidWvt+Li7fKnZVI4HmANvlr+/iW8RG7TlCvfI5lkfSwV9AfAp6dJVkjftMNY7g66AXezDZgtZF5qNAtnwUPXvRpXBdnaODthhobB6hb9groULlsGSucBS1miFiOZkUDphTnk3P8fLMs+r3tapTth6MdMWo2zleSyeT7nnGgnsegnUguD91e/2HjvHXjt+a1wLCE=;gS7LaBcBowCkhsghUVEa8w=="
 ---
 

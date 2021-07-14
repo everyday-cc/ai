@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnbc.com/amp/2021/07/10/self-driving-looking-less-like-e
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/07/10/self-driving-looking-less-like-elon-musk-more-dominos-pizza-robots.html"
 type: article
 quality: 105
-heat: 355
+heat: 365
 published: true
 
 provider:
@@ -411,6 +411,20 @@ related:
       - url: "https://i.dailymail.co.uk/1s/2021/07/12/21/45364507-0-image-a-54_1626121782996.jpg"
         width: 636
         height: 382
+        isCached: true
+  - title: "From swerving into a median to narrowly missing poles, videos of Tesla’s latest Full Self-Driving update don’t inspire much confidence"
+    excerpt: "Tesla interior Reuters Tesla launched the latest version of its Full Self-Driving beta after a long delay this month. Beta testers immediately started"
+    publishedDateTime: 2021-07-14T20:01:00Z
+    webUrl: "https://www.businessinsider.nl/from-swerving-into-a-median-to-narrowly-missing-poles-videos-of-teslas-latest-full-self-driving-update-dont-inspire-much-confidence/"
+    type: article
+    provider:
+      name: Businessinsider.nl
+      domain: businessinsider.nl
+    quality: 7
+    images:
+      - url: "https://cdn.businessinsider.nl/wp-content/uploads/2021/07/60ef4a6661b8600019f17258.jpg"
+        width: 2500
+        height: 1751
         isCached: true
 
 secured: "VQirUH3535vJM7xPDNhBwMHjtXKu9bKENtM7a/6ocTyikrPs8sq2tcdIhap8T2X0eUUYC6Z1NF+ZUvhIkivcbbWNlKamMw0mMrpy7R8WKfq6oDnYsFkec+LfSl9vq/5/yawlzKpxm4VeKC5SVoJyvvldlpPIpglQOBL0qyZPScHMFHCSM9+kghxdpm8DZFgIcLwEilUU06R/RNQ579qf1dnheSPZLHE/ThJ+Z0fKYN65Hy/8zyszESRS7RVx1MAZZ2LyB5KCSsz8vr4lYGDvdKmTOg5n+B8XaggAzyHFmwyI559TRO3myc2H6AikGMmqL3NSBeuHy9RSu/7IqEGxq6zgKGbaGO8lF+W7uo8iqpRImYISmBmPlbrSv8A+VpbGu78+a4M5SQGzyC60QaNSdSKBsihZnQVwE9jz53h0zWxs8PtFyJ4LthgrleVF5QF6+ueQm8LURdmPwdF/Wjy+7Klt9BOSWN45K/jTJcvi0MPmPwycwZK91l1QdCTJzd0gL1M67unxpzNmqhowg4LHlg==;nuzRQI/OluQpPZUXoMM7WQ=="

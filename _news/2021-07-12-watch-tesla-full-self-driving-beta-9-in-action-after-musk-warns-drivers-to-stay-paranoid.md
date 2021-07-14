@@ -411,6 +411,20 @@ related:
         width: 636
         height: 382
         isCached: true
+  - title: "From swerving into a median to narrowly missing poles, videos of Tesla’s latest Full Self-Driving update don’t inspire much confidence"
+    excerpt: "Tesla interior Reuters Tesla launched the latest version of its Full Self-Driving beta after a long delay this month. Beta testers immediately started"
+    publishedDateTime: 2021-07-14T20:01:00Z
+    webUrl: "https://www.businessinsider.nl/from-swerving-into-a-median-to-narrowly-missing-poles-videos-of-teslas-latest-full-self-driving-update-dont-inspire-much-confidence/"
+    type: article
+    provider:
+      name: Businessinsider.nl
+      domain: businessinsider.nl
+    quality: 7
+    images:
+      - url: "https://cdn.businessinsider.nl/wp-content/uploads/2021/07/60ef4a6661b8600019f17258.jpg"
+        width: 2500
+        height: 1751
+        isCached: true
 
 secured: "DmEEkMTh8wjslilsOjr1ZeMHKkT1P6uvT7Pe1/5OkrIQICezdWr2kRGD6kmaQQ5adUnYx+kMKaThIbvB2emsJJyBhnIWlaSMBxRSGy6OzHaiLmZs/WRXqXv+qY/SQKKR3qlaAbBcQfHD20+B+vu8WxdAVuDvhbvj8/hE4w+UFYQZYNqFxjsCb3OCySQqm3oz2Rvjt1zq6FkiJU5Wf8SMNC6gF5eWE9BVHOfbGYnRmwd0i/LZWAwMjXOj28W//2xvUlcY27IZOwpmZ7Sxy5wxWMPE2w4qC3DYnBr0Z7GeSv6uPx3eXAw55HTVsPgsudWz5j2d1UGI3lQW1Bp7G7OLnrSTdkh1ImzI8sUM5sc+GRiOcS6e5HfierXFfgaIdW6h4f1ufjWqrLlMsIoBs8qHLZTHXNmodmoOM8fNYoK7oRdKmj7zOaTKpH71jU0g6Xs3wClkst0yK5tsNzS1jSOAVfHdGSxZEYk4MvLwZs62NcxnP2vePO6cK3Y+hUbDzKb1nVA0YAw+HPKhsy66LwreqA==;Y4/AsjM+rZSjJ0iy3+jsfg=="
 ---

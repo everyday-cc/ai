@@ -7,7 +7,7 @@ originalUrl: "https://www.defense.gov/Explore/News/Article/Article/2692297/ethic
 webUrl: "https://www.defense.gov/Explore/News/Article/Article/2692297/ethics-key-to-ai-development-austin-says/"
 type: article
 quality: 54
-heat: 64
+heat: -1
 published: false
 
 provider:
@@ -25,15 +25,22 @@ images:
     isCached: true
 
 related:
-  - title: "SecDef Austin Commits US To ‘Responsible AI’"
-    excerpt: "\"AI is going to change many things about military operations, but nothing is going to change America’s commitment to the laws of war and the principles of our democracy,\" the Defense Secretary said."
-    publishedDateTime: 2021-07-13T21:48:00Z
-    webUrl: "https://breakingdefense.com/2021/07/secdef-austin-commits-us-to-responsible-ai/"
+  - title: "Defense Secretary Austin calls for ethical AI development"
+    excerpt: "The U.S. military will develop artificial intelligence ethically and responsibly, Defense Secretary Lloyd Austin said in remarks on Wednesday."
+    publishedDateTime: 2021-07-14T21:20:00Z
+    webUrl: "https://www.upi.com/Defense-News/2021/07/14/austin-ethics-ai/6571626285709/"
+    ampWebUrl: "https://www.upi.com/amp/Defense-News/2021/07/14/austin-ethics-ai/6571626285709/"
+    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Defense-News/2021/07/14/austin-ethics-ai/6571626285709/"
     type: article
     provider:
-      name: Breaking Defense
-      domain: breakingdefense.com
-    quality: 19
+      name: UPI.com
+      domain: upi.com
+    quality: 74
+    images:
+      - url: "https://cdnph.upi.com/sv/ph/og/i/6571626285709/2021/1/16262864692568/v1.5/Defense-Secretary-Austin-calls-for-ethical-AI-development.jpg"
+        width: 382
+        height: 255
+        isCached: true
 
 secured: "lS2OXq9Ki/qO3+LJZw9bUOqB7nle0D6kwVePXwTGCap7Fja1ztb4ZCRAUIKN0VrsQE3kdRuSI5LHbed01HXxGL26DkYEavxeEiahEdDaqqxenfxaT7QNrvep+wY0wug9sJ5na3+k5GZtA6a4kormMOdlGsKtyGtO6VpLZ3uxoecYD6uiZTyG9eMWcqEiX/Q0710gMXwKJHtG7JhMk1oImjJU2orbNSV5JUX8JOMRBtmGo+DPg+HLyxEyEQ0ppMp2FXFAO7iEBv2FRIkEZCVeuqnfzVGrMNzaREZHV6g9AIp83ZdfmVZzqtjnHNQZwniP2mtIH/rfkj+/HmfoySR2WH9BBQ7/E521olk2552BJTCKsqWCMyqXtv9H7GlgvdG2l8uqoQQwcvdRsQ2UC0wd9TpxpsIzjElHTZoPVmkLYDuYrn8KKC9W6hlurRESxBs3/ot6NP0g7zFfKI3rPityWUYt6Zd8+dDzp9rNCCEQ7jeXPKRH5Lqa8WE842NPPJx2Bl+Pvqx7mmHCY7JuHjLgDw==;N5+/sI4uEoV/owv9lzM/TQ=="
 ---

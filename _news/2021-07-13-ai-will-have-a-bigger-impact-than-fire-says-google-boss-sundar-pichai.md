@@ -40,6 +40,22 @@ related:
         width: 800
         height: 449
         isCached: true
+  - title: "Google CEO Says Artificial Intelligence Will Be Mankind's Greatest Discovery"
+    excerpt: "Sundar Pichai compared artificial intelligence to the discovery of fire and electricity in an interview with the BBC."
+    publishedDateTime: 2021-07-14T21:14:00Z
+    webUrl: "https://www.entrepreneur.com/article/377330"
+    ampWebUrl: "https://www.entrepreneur.com/amphtml/377330"
+    cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/377330"
+    type: article
+    provider:
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 84
+    images:
+      - url: "https://assets.entrepreneur.com/content/3x2/2000/1626297217-sundar-pichai-4542.jpeg?width=600&crop=16:9"
+        width: 600
+        height: 338
+        isCached: true
 
 secured: "BdvIVHQgB+1PXqtIo7yDoVlzIxz21OOi4yi1YcB/UHJuhEZmg/Psp6eHon2rhNXDvq11eJWtu7VWfGzdbJV7h6nBH8iK672U7rbsIHLgSTeq3dcKpMUEafJSGlB+h/wj9l2rHYzMFDf2DrEvGDTKFMjY6K1M+NwWslPWWmuQK84bj+1pQdmxICSSJ1LkDDDpOv6rN7mY/4amOnQq4WtjAH+wdWnmV5LE9s8Ua2RrvLA7l4TplaW7yB5DEEKZqleanI+etTNWb2JX5rA09iDg0zRY/cqaYI0KMpI4Pf3lfwGIswuRD1OkBqJVmPvJ8U3zSDaJTT54om25o0xyqK7DgRzOkL2/tiddq/9UnUX5UsU=;/I6B8g9GHpuvDWEmWxxstw=="
 ---

@@ -19,14 +19,19 @@ topics:
 
 related:
   - title: "NEC’s Artificial Intelligence (AI) Supports Doctors to Determine If Colorectal Lesions Are Potentially Neoplastic"
-    excerpt: "NEC’s artificial intelligence (AI) supports doctors to determine if colorectal lesions are potentially neoplastic"
-    publishedDateTime: 2021-07-14T08:00:00Z
-    webUrl: "https://www.businesswire.com/news/home/20210714005377/en/NEC’s-Artificial-Intelligence-AI-Supports-Doctors-to-Determine-If-Colorectal-Lesions-Are-Potentially-Neoplastic"
+    excerpt: "NEC Corporation (NEC; TOKYO: 6701) announced today the development of an AI technology for supporting doctors in determining if colorectal lesions are neoplastic or non-neoplastic. NEC developed a new technology,"
+    publishedDateTime: 2021-07-14T08:02:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/europe-technology-health-artificial-intelligence-a2e9d02f0caf41e3b9a24061d9f71636"
     type: article
     provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 11
+      name: Associated Press
+      domain: apnews.com
+    quality: 31
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
 secured: "qCAuh+EyNLPHLy+m4Ps6Anj4VUu3K7h9avt5AvqHVlRlhCI83EReaQ7oIsgc/rtVN7q0qLtIeMxGX74zDwh1qNXp5mbnQg47dciIhVtZXW/vkRjT3AWBXQAFhKGw8BSxFygEuNtS7jgdgKZ8+a8b7e7XNR5ukUff9JwHz8FRUYftlIaH7mSBkl6jHcy2JIdaN00u3dGeSwYeM7m+vtYJZxIjv6IGHkj2yS3LndG3ctF6c2bUojFkiuu9a/fd9EL2tih4KoygS/Ggmj+ijPGhX+G9jMWsMJ6LyltAIS+bSPYoDSVtjsSDIZ30lsR+OVeEUojjRdxa1JLULDmhUJxM+qqrj76wzoYADKH8vzR9AnVhE6hOjWch3oHToTcpnQloCMTjeAHieCIq1Rpec+nSfJa3FPS/2qZVB0+qgx9Xc1CL+QVK2m1E+kSOU5MnUd+49wkM/FJ1YNWmOHWFru3dEIRQ0TCdA3wvOD1H6tLRtVG5OcVj8JwlgrfucfZnsoh31Y9E67McGXuwUnqMlWsRDQ==;pa43BlNl4AAAhMVL9s45Ng=="
 ---

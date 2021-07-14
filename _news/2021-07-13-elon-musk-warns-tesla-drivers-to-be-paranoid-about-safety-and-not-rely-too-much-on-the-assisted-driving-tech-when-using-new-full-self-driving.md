@@ -407,6 +407,20 @@ related:
       name: Futurism
       domain: futurism.com
     quality: 24
+  - title: "From swerving into a median to narrowly missing poles, videos of Tesla’s latest Full Self-Driving update don’t inspire much confidence"
+    excerpt: "Tesla interior Reuters Tesla launched the latest version of its Full Self-Driving beta after a long delay this month. Beta testers immediately started"
+    publishedDateTime: 2021-07-14T20:01:00Z
+    webUrl: "https://www.businessinsider.nl/from-swerving-into-a-median-to-narrowly-missing-poles-videos-of-teslas-latest-full-self-driving-update-dont-inspire-much-confidence/"
+    type: article
+    provider:
+      name: Businessinsider.nl
+      domain: businessinsider.nl
+    quality: 7
+    images:
+      - url: "https://cdn.businessinsider.nl/wp-content/uploads/2021/07/60ef4a6661b8600019f17258.jpg"
+        width: 2500
+        height: 1751
+        isCached: true
 
 secured: "n0krIIEz0seqpwi/wJXAU+ae/K26MV+ALd0UCzLiJ0X1QJRs0yU7G/4bPkvBR6frPnJOj4kifsxD/Eo2mgbrQabMCM6lJjvxmShte1xTrXE2RWDCnP4DZC1pVmKjxIcW2Uqkz8qR9tPDBqNxTjp+TOpxaYbAP+ETYauvOukvspdxIxIfYKZNaGW1bZJn6W1TQGLp/J4hv26paNbJIhrU4gdPaSKc0VPPMXu9KECg7/uL9lzp9xNqlY/QeAns0dzRCuuhMM0lyKmx/1ROA6tdLTh+OSRIo8nIuoxJsQpLHEYlT9hW8svNbu8shmzQhhPUkpDBNZHpsj2r3UsDeFVzwFX4oDd3bHLDl0x0sHR/OsQ=;8Mpip9beA9uqUTwLwDGaUQ=="
 ---

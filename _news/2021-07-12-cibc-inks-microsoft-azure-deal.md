@@ -81,22 +81,6 @@ related:
         width: 450
         height: 300
         isCached: true
-  - title: "Facebook’s AI researchers are teaching robots to walk like humans"
-    excerpt: "Rapid Motor Adaptation — is a “breakthrough” in artificial intelligence (AI). It allows robots to walk on sand, in mud, hiking trails, tall grass and over a dirt pile “without a single failure” during"
-    publishedDateTime: 2021-07-10T04:30:00Z
-    webUrl: "https://www.livemint.com/companies/news/facebooks-ai-researchers-are-teaching-robots-to-walk-like-humans-11625890467616.html"
-    ampWebUrl: "https://www.livemint.com/companies/news/facebooks-ai-researchers-are-teaching-robots-to-walk-like-humans/amp-11625890467616.html"
-    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/companies/news/facebooks-ai-researchers-are-teaching-robots-to-walk-like-humans/amp-11625890467616.html"
-    type: article
-    provider:
-      name: Mint
-      domain: livemint.com
-    quality: 59
-    images:
-      - url: "https://images.livemint.com/img/2021/07/10/600x338/ai2-kr9--621x414@LiveMint_1625891049034.jpg"
-        width: 600
-        height: 337
-        isCached: true
   - title: "NEC, Microsoft to Collaborate on Cloud, Edge, AI, IoT and Private 5G"
     excerpt: "Microsoft and NEC announced a new multi-year strategic partnership, where the companies will leverage Microsoft Azure"
     publishedDateTime: 2021-07-13T01:04:00Z
@@ -156,7 +140,7 @@ related:
     provider:
       name: fintechzoom
       domain: fintechzoom.com
-    quality: 34
+    quality: 36
 
 secured: "R5uV9R2oADMcI0GgpJnVCPaK8NbATdTM9oOA+xAKg+VEnQyzPK8GycNUPXyCqNP6ftoXUynUhENCJOlw1WGg9xiN3WH2Q+oKtpTrnCyrASocVEzNt34RqBuR+wv/gePI8vXYd/fTbA2WneoXhmFxygySa0TnHH7RQLjqDNyw2Ejn1D0grknRrGBZ+qyLTZVHDY2obryeZcly3G+RdyYuy5nEjgWOLs/1Z0huPLpyK0d62t73iN6XTK7tg7LV7hv9oqcGIMywPfKk32ULX29lDcvbvt7zX429hWGgGGDBdK8P0T1lkFUfYvRPs5o9fmJ95aTFBtmqh3feh4k1ZFDyg8cTpC84LrkrgdgT0g+KP80=;YjvP6uvLfiY7RpTVlJ2a0g=="
 ---

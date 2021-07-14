@@ -87,22 +87,6 @@ related:
         width: 450
         height: 300
         isCached: true
-  - title: "Facebook’s AI researchers are teaching robots to walk like humans"
-    excerpt: "Rapid Motor Adaptation — is a “breakthrough” in artificial intelligence (AI). It allows robots to walk on sand, in mud, hiking trails, tall grass and over a dirt pile “without a single failure” during"
-    publishedDateTime: 2021-07-10T04:30:00Z
-    webUrl: "https://www.livemint.com/companies/news/facebooks-ai-researchers-are-teaching-robots-to-walk-like-humans-11625890467616.html"
-    ampWebUrl: "https://www.livemint.com/companies/news/facebooks-ai-researchers-are-teaching-robots-to-walk-like-humans/amp-11625890467616.html"
-    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/companies/news/facebooks-ai-researchers-are-teaching-robots-to-walk-like-humans/amp-11625890467616.html"
-    type: article
-    provider:
-      name: Mint
-      domain: livemint.com
-    quality: 59
-    images:
-      - url: "https://images.livemint.com/img/2021/07/10/600x338/ai2-kr9--621x414@LiveMint_1625891049034.jpg"
-        width: 600
-        height: 337
-        isCached: true
   - title: "NEC, Microsoft to Collaborate on Cloud, Edge, AI, IoT and Private 5G"
     excerpt: "Microsoft and NEC announced a new multi-year strategic partnership, where the companies will leverage Microsoft Azure"
     publishedDateTime: 2021-07-13T01:04:00Z
@@ -148,7 +132,7 @@ related:
     provider:
       name: fintechzoom
       domain: fintechzoom.com
-    quality: 34
+    quality: 36
   - title: "CIBC inks Microsoft Azure deal"
     excerpt: "Azure will support the migration of hundreds of applications to the cloud, as well as offer scalable computing power for CIBC's enterprise data lake and AI platform. The bank will also get access to a suite of Microsoft training programmes and ..."
     publishedDateTime: 2021-07-11T23:23:00Z

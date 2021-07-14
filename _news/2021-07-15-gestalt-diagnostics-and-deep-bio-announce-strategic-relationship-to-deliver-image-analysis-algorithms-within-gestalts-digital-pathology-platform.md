@@ -1,27 +1,29 @@
 ---
 category: news
-title: "Gestalt Diagnostics and Deep Bio Announce Strategic Relationship to Deliver Image Analysis Algorithms within Gestalt's Digital Pathology Platform"
-excerpt: "SPOKANE, Wash. and SEOUL, South Korea, July 14, 2021 /PRNewswire/ -- Gestalt Diagnostics and Deep Bio today announced their strategic"
-publishedDateTime: 2021-07-14T17:17:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/gestalt-diagnostics-and-deep-bio-announce-strategic-relationship-to-deliver-image-analysis-algorithms-within-gestalt-s-digital-pathology-platform-1030607823"
-webUrl: "https://markets.businessinsider.com/news/stocks/gestalt-diagnostics-and-deep-bio-announce-strategic-relationship-to-deliver-image-analysis-algorithms-within-gestalt-s-digital-pathology-platform-1030607823"
+title: "Gestalt Diagnostics and Deep Bio Announce Strategic Relationship to Deliver Image Analysis Algorithms within Gestalt’s Digital Pathology Platform"
+excerpt: "Gestalt Diagnostics and Deep Bio today announced their strategic relationship on the development of an integrated workflow for pathologists to use Artificial Intelligence algorithms directly within Gestalt’s PathFlow® platform."
+publishedDateTime: 2021-07-14T17:00:00Z
+originalUrl: "https://apnews.com/press-release/pr-newswire/technology-health-7de474c504aa4af99299f9f840e0b640"
+webUrl: "https://apnews.com/press-release/pr-newswire/technology-health-7de474c504aa4af99299f9f840e0b640"
 type: article
 quality: 0
 heat: 0
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - Machine Learning
   - AI
 
-secured: "qu2WXw6la+YL7lTzouYXEhF43XhSBTy2GN48vrJvAoQcWWj+nS8L8jdJiEGP5O7A1JU4iyMgXjY31G7FY1nN0lnzu0AbtDZKDCi//MkIES4DD1GljZ4pmfVyzQXOqVlQzgjMyHUPpCs7whWFz0KwewBJMXlJ+FvmM0hah+7BPYMdqZ+IZCtbFANcsF7eDk1po9W4453QELW0OMMGEeflptQ7zgrE4BCBTwIhh1NlM61nupL764vHDWEGKggMKB3BwdPgjH+0Efrr6EyQ4TPxbG3z+erJhr4i+8V3A1lS8qbqNDv1QfBtWH9Cz5MZ9M9ZrhtKafrAcETCb9mkJAndIEzf+A6WhdTrRUebNDZKPZ8=;XMPLcSUmJN2czUVVAQ1vNQ=="
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
+
+secured: "4exh16nNuNCv1XGp71c5x+M9KVZKyXhNjLZIQdF15wpLIbBUQpAZsCv+V5UcCEa7A7hxei4CmczkdRW7xWZgGmmCPF/33IX2uidlaw8JUXlaWMoci8tmA6G8nPzg3V+Ahub4pbRqtQPPmuqu6NxHWEQ9Mz9oVbDatfNJF6blBiMqYKItNQ/LVParCCpiKrXk2xvZSwERZJD/g46aH4fxedqKZ8T237TNTzyxFMpWvsFEghXppyo0L/Uh95oJudenzrVOYkdqZ9sAhuTvEMh7VI9/SLFuYeNJO5yRVd113DhZiAUPDhODALNCFbFTl5oun5Z7IDF9XjLulOux0i6FKQMalprihnByqrbj4/nDrvM=;HOETElATJYVjBq1mTaiO4w=="
 ---
 
