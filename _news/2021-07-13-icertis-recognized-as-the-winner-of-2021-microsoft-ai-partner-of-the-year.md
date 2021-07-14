@@ -7,8 +7,8 @@ originalUrl: "https://www.tmcnet.com/usubmit/2021/07/13/9407857.htm"
 webUrl: "https://www.tmcnet.com/usubmit/2021/07/13/9407857.htm"
 type: article
 quality: 53
-heat: -1
-published: false
+heat: 73
+published: true
 
 provider:
   name: TMCnet
@@ -26,48 +26,18 @@ images:
 
 related:
   - title: "Icertis Recognized as the Winner of 2021 Microsoft AI Partner of the Year"
-    excerpt: "First and Only Contract Lifecycle Management Company Recognized by Microsoft  for AI Leadership and as a Global ISV Partner of the"
-    publishedDateTime: 2021-07-14T02:12:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/icertis-recognized-as-the-winner-of-2021-microsoft-ai-partner-of-the-year-1030603718"
+    excerpt: "Icertis, the contract intelligence company that pushes the boundaries of what's possible with contract lifecycle management (CLM),"
+    publishedDateTime: 2021-07-14T06:00:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/icertis-recognized-as-the-winner-of-2021-microsoft-ai-partner-of-the-year-301332309.html"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 83
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 53
     images:
-      - url: "https://mma.prnewswire.com/media/1515204/icertis_Logo.jpg"
-        width: 400
-        height: 400
-        isCached: true
-  - title: "CIBC chooses Microsoft Azure as its primary cloud platform"
-    excerpt: "Microsoft Azure technology will also continue to offer scalable computing power for CIBC’s enterprise data lake and its artificial intelligence (AI)/machine learning (ML) platform to help it provide innovative client solutions. “Leveraging cutting-edge ..."
-    publishedDateTime: 2021-07-12T16:56:00Z
-    webUrl: "https://www.itbusiness.ca/news/cibc-chooses-microsoft-azure-as-its-primary-cloud-platform/118826"
-    ampWebUrl: "https://www.itbusiness.ca/news/cibc-chooses-microsoft-azure-as-its-primary-cloud-platform/118826?amp=1"
-    cdnAmpWebUrl: "https://www-itbusiness-ca.cdn.ampproject.org/c/s/www.itbusiness.ca/news/cibc-chooses-microsoft-azure-as-its-primary-cloud-platform/118826?amp=1"
-    type: article
-    provider:
-      name: IT Business
-      domain: itbusiness.ca
-    quality: 74
-    images:
-      - url: "https://i.itbusiness.ca/wp-content/uploads/2021/07/GettyImages-1254895286-620x250.jpg"
-        width: 620
-        height: 250
-        isCached: true
-  - title: "CIBC formalizes Microsoft Azure as its primary cloud platform"
-    excerpt: "Canadian Imperial Bank of Commerce and Microsoft announced a strategic relationship formalizing Microsoft Azure as CIBC’s primary cloud platform"
-    publishedDateTime: 2021-07-12T06:22:00Z
-    webUrl: "https://ibsintelligence.com/ibsi-news/cibc-formalizes-microsoft-azure-as-its-primary-cloud-platform/"
-    type: article
-    provider:
-      name: IBS
-      domain: ibsintelligence.com
-    quality: 54
-    images:
-      - url: "https://mk0ibsintelligek4gm6.kinstacdn.com/wp-content/uploads/2020/11/CIBC.jpg"
-        width: 300
-        height: 300
+      - url: "https://mma.prnewswire.com/media/1515204/icertis_Logo.jpg?p=facebook"
+        width: 600
+        height: 314
         isCached: true
   - title: "Sierra Wireless Partners with Microsoft to Enable Advanced Asset Tracking Capabilities via Azure IoT Central"
     excerpt: "Sierra Wireless’ Acculink managed IoT solution integrated with Microsoft Azure IoT Central brings simplicity, extra functionality and capabilities for customersVANCOUVER, British Columbia--(BUSINESS WIRE)--Sierra Wireless (NASDAQ: SWIR) (TSX: SW),"
@@ -83,33 +53,6 @@ related:
         width: 580
         height: 339
         isCached: true
-  - title: "Trainocate recognised as #1 Microsoft Learning Partner worldwide"
-    excerpt: "Trainocate Holdings, Sri Lanka’s largest IT and human capability development training provider, has been recognised as the 2021 Microsoft Learning Partner of the Year; the first Asian company ever to have earned the illustrious title."
-    publishedDateTime: 2021-07-11T18:30:00Z
-    webUrl: "https://www.ft.lk/it-telecom-tech/Trainocate-recognised-as-1-Microsoft-Learning-Partner-worldwide/50-720316"
-    type: article
-    provider:
-      name: FT
-      domain: www.ft.lk
-    quality: 34
-  - title: "NEC signs new partnership with Microsoft, to migrate IT to Azure"
-    excerpt: "NEC said it expanded its decades-long collaboration with Microsoft. Through a new multi-year strategic partnership, the companies will leverage Microsoft Azure, Microsoft 365, NEC's network and IT expertise,"
-    publishedDateTime: 2021-07-13T08:29:00Z
-    webUrl: "https://www.telecompaper.com/news/nec-signs-new-partnership-with-microsoft-to-migrate-it-to-azure--1389976"
-    type: article
-    provider:
-      name: Telecompaper
-      domain: telecompaper.com
-    quality: 34
-  - title: "Insight Wins 2021 Microsoft Worldwide Partner of the Year Awards for Azure Migration and Solution Assessments"
-    excerpt: "Insight Enterprises (NASDAQ:NSIT), the global provider of Insight Intelligent Technology Solutions™ for organizations of all sizes, today announced it has won two 2021 Microsoft ( News - Alert) Worldwide Partner of the Year Awards as Migration to Azure Partner of the Year and Solution Assessments Partner of the Year."
-    publishedDateTime: 2021-07-09T16:07:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2021/07/09/9406115.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 15
 
 secured: "hKugWOGrCYwIGJDKKuHOOTyGcXSDTzH6/h0GUF8Y4bcKgOC+Qzn9glNn/U/GiMmPAlqCsbBO6wbas3oFMlH/nWXgRg05O8mTDfTT4YUBmxH2uqzT00Rpyy2FcXmfe2ZxNiC+2MV4va55kP7CBE8b0Boc9XcQzdSU7N8Wf9hSExhZReuA4to6ZLrXR8SNCV3kMUMi0UlQL1lK5ik2NPC3AOHEpUGI5jP9gbS3jkQUQ7bRk6frUnEn484jc7ZlieJ4Gm2lIKQvIDd3YJsDQmVpMR7oI2AKanoIhbvLRT17aHxh8l7wHyJqo5GjCSWZd4gOJYWHC9cErSa1w/Vhjmk1TdFCdt+LlHz/bPyM7q3j94+sar0XXJBQfKeOpgS5EewSJTEbWpz4+sjzUlHIDYmyzCpDS/TUCnHyGao2QSdaI4S0oYGa28gGhDLDLj5PoHlrx92GVtGXiogjWiMo1SU75FBNUrUIvbvu6k8k4JvjTVEZ4t1YVaHxDhQMqvxnWLAv1PssgVUO6+KGJYgkuNmFPw==;wmKD0Hu3kvbgwj8FFxny8g=="
 ---

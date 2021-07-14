@@ -2,58 +2,6 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2021-07-14-icertis-recognized-as-the-winner-of-2021-microsoft-ai-partner-of-the-year.md",
-      "title": "Icertis Recognized as the Winner of 2021 Microsoft AI Partner of the Year",
-      "excerpt": "First and Only Contract Lifecycle Management Company Recognized by Microsoft  for AI Leadership and as a Global ISV Partner of the",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/icertis-recognized-as-the-winner-of-2021-microsoft-ai-partner-of-the-year-1030603718",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/icertis-recognized-as-the-winner-of-2021-microsoft-ai-partner-of-the-year-1030603718",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 153,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1515204/icertis_Logo.jpg",
-          "width": 400,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-13T19:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
       "path": "_news/2021-07-14-festo-advances-robot-programming-with-ai.md",
       "title": "Festo advances robot programming with AI",
       "excerpt": "Festo partners with several international companies and universities to develop FLAIROP - Federated Learning for Robot Picking",
@@ -102,15 +50,15 @@
       "title": "Republicans and Democrats concerned about facial recognition technology",
       "excerpt": "Law enforcement must be careful when using facial recognition technology. “We need to ensure that the adoption of this new technology that does not further erode trust between law enforcement and the communities they serve,",
       "sourceUrl": null,
-      "webUrl": "https://kfor.com/news/republicans-and-democrats-concerned-about-facial-recognition-technology/",
-      "originalUrl": "https://kfor.com/news/republicans-and-democrats-concerned-about-facial-recognition-technology/",
+      "webUrl": "https://www.wsav.com/news/national-news/republicans-and-democrats-concerned-about-facial-recognition-technology/",
+      "originalUrl": "https://www.wsav.com/news/national-news/republicans-and-democrats-concerned-about-facial-recognition-technology/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 109,
+      "heat": 101,
       "tags": null,
       "images": [
         {
-          "url": "https://kfor.com/wp-content/uploads/sites/3/2021/07/CBD9E120D58140A1A6D82774464D865D_7.jpg?w=1280",
+          "url": "https://www.wsav.com/wp-content/uploads/sites/75/2021/07/CBD9E120D58140A1A6D82774464D865D_7.jpg?w=1280",
           "width": 1280,
           "height": 720,
           "title": null,
@@ -120,13 +68,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://kfor.com/news/republicans-and-democrats-concerned-about-facial-recognition-technology/amp/",
-      "cdnAmpWebUrl": "https://kfor-com.cdn.ampproject.org/c/s/kfor.com/news/republicans-and-democrats-concerned-about-facial-recognition-technology/amp/",
-      "publishedDateTime": "2021-07-13T14:23:00-07:00",
+      "ampWebUrl": "https://www.wsav.com/news/republicans-and-democrats-concerned-about-facial-recognition-technology/amp/",
+      "cdnAmpWebUrl": "https://www-wsav-com.cdn.ampproject.org/c/s/www.wsav.com/news/republicans-and-democrats-concerned-about-facial-recognition-technology/amp/",
+      "publishedDateTime": "2021-07-13T14:24:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Oklahoma's News",
-        "domain": "kfor.com",
+        "name": "WSAV-TV",
+        "domain": "wsav.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -136,8 +84,9 @@
         "news"
       ],
       "topics": [
-        "Computer Vision",
-        "AI"
+        "Natural Language Processing",
+        "AI",
+        "Computer Vision"
       ]
     },
     {
@@ -189,6 +138,101 @@
       ],
       "topics": [
         "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-14-artificial-intelligence-market-size-predicts-favorable-growth-and-forecast-2020-2026.md",
+      "title": "Artificial Intelligence Market Size predicts favorable growth and forecast 2020 - 2026",
+      "excerpt": "Market Research Engine has published a new report titled as \"Artificial Intelligence Market Size By Offering (",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-market-size-predicts-favorable-growth-and-forecast-2020---2026-2021-07-13",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-market-size-predicts-favorable-growth-and-forecast-2020---2026-2021-07-13",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 151,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-13T13:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-14-microsoft-launches-inside-azure-for-it-learning-portal.md",
+      "title": "Microsoft Launches 'Inside Azure for IT' Learning Portal",
+      "excerpt": "Microsoft on Monday announced the launch of Inside Azure for IT, a new learning site \"for cloud professionals of all skill levels.\" Inside Azure for IT contains links to so-called \"fireside chats ...",
+      "sourceUrl": null,
+      "webUrl": "https://redmondmag.com/articles/2021/07/13/inside-azure-for-it-learning-portal.aspx",
+      "originalUrl": "https://redmondmag.com/articles/2021/07/13/inside-azure-for-it-learning-portal.aspx",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://redmondmag.com/-/media/ECG/visualstudiomagazine/Images/introimages/0913vsm_randolph.jpg",
+          "width": 647,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-13T12:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Redmond Magazine",
+        "domain": "redmondmag.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
         "AI"
       ]
     },
@@ -305,7 +349,7 @@
       "originalUrl": "https://venturebeat.com/2021/07/13/nordstrom-cto-on-ai-powered-analytics-and-consumer-insights/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 107,
+      "heat": 99,
       "tags": null,
       "images": [
         {
@@ -344,7 +388,8 @@
         "news"
       ],
       "topics": [
-        "AI"
+        "AI",
+        "Natural Language Processing"
       ]
     },
     {
@@ -398,6 +443,49 @@
         "Machine Learning",
         "AI",
         "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2021-07-13-founder-institute-joins-forces-with-nasa-ames-massrobotics-to-launch-ai-robotics-accelerator-program-in-boston.md",
+      "title": "Founder Institute joins forces with NASA Ames, MassRobotics to launch AI, robotics accelerator program in Boston",
+      "excerpt": "The Founder Institute, the world’s largest pre-seed startup accelerator, has announced the launch of a new program where early-stage entrepreneurs in Boston can leverage NASA technology to build artificial intelligence and robotics startups.",
+      "sourceUrl": null,
+      "webUrl": "https://sociable.co/technology/founder-institute-joins-forces-with-nasa-ames-massrobotics-to-launch-ai-robotics-accelerator-program-in-boston/",
+      "originalUrl": "https://sociable.co/technology/founder-institute-joins-forces-with-nasa-ames-massrobotics-to-launch-ai-robotics-accelerator-program-in-boston/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://sociable.co/wp-content/uploads/2021/07/AI_Robotics._Partnership.Banners.png",
+          "width": 800,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://sociable.co/technology/founder-institute-joins-forces-with-nasa-ames-massrobotics-to-launch-ai-robotics-accelerator-program-in-boston/amp/",
+      "cdnAmpWebUrl": "https://sociable-co.cdn.ampproject.org/c/s/sociable.co/technology/founder-institute-joins-forces-with-nasa-ames-massrobotics-to-launch-ai-robotics-accelerator-program-in-boston/amp/",
+      "publishedDateTime": "2021-07-13T08:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Sociable",
+        "domain": "sociable.co",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
       ]
     },
     {
@@ -662,6 +750,49 @@
       ]
     },
     {
+      "path": "_news/2021-07-13-icertis-recognized-as-the-winner-of-2021-microsoft-ai-partner-of-the-year.md",
+      "title": "Icertis Recognized as the Winner of 2021 Microsoft AI Partner of the Year",
+      "excerpt": "Icertis, the contract intelligence company that pushes the boundaries of what's possible with contract lifecycle management (CLM), announced today that it has won the Artificial Intelligence (AI) 2021 Microsoft Partner of the Year Award and been named a Finalist of the Global ISV Microsoft Partner of the Year Award for the fourth year in a row.",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/2021/07/13/9407857.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/2021/07/13/9407857.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/371539/Icertis_Logo.jpg",
+          "width": 400,
+          "height": 260,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-13T06:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-13-locomotive-system-makes-robots-multi-terrain.md",
       "title": "Locomotive System Makes Robots Multi-Terrain",
       "excerpt": "Called Rapid Motor Adaptation (RMA), the new locomotive system allows four-legged robots to traverse a variety of terrain types.",
@@ -765,7 +896,7 @@
       "originalUrl": "https://venturebeat.com/2021/07/13/getting-to-production-ai-faster-with-a-data-centric-approach/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 97,
+      "heat": 87,
       "tags": null,
       "images": [
         {
@@ -1095,151 +1226,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-13-informatica-introduces-ai-model-governance.md",
-      "title": "Informatica Introduces AI Model Governance",
-      "excerpt": "Along with Informatica's announcement of its Cloud Data Governance and Catalog today, comes a suite of features aimed at extending data governance to the world of AI and machine learning models.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/informatica-introduces-ai-model-governance/",
-      "originalUrl": "https://www.zdnet.com/article/informatica-introduces-ai-model-governance/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/hub/i/2021/07/13/53635a5c-c8da-4a81-9db0-965fa5ead503/informatica-aimg-screenshot.png",
-          "width": 642,
-          "height": 362,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/informatica-introduces-ai-model-governance/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/informatica-introduces-ai-model-governance/",
-      "publishedDateTime": "2021-07-12T22:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-13-artificial-intelligence-in-automotive-market-shaping-from-growth-to-value.md",
-      "title": "Artificial Intelligence in Automotive Market Shaping From Growth To Value",
-      "excerpt": "Latest survey on COVID-19 Outbreak-Global Artificial Intelligence in Automotive Market is conducted to provide hidden gems performance analysis to better demonstrate competitive environment of COVID-19 Outbreak- Artificial Intelligence in Automotive.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-automotive-market-shaping-from-growth-to-value-2021-07-12",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-automotive-market-shaping-from-growth-to-value-2021-07-12",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-12T17:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-13-german-canadian-researchers-collaborating-on-ai-for-picking-robots.md",
-      "title": "German, Canadian researchers collaborating on AI for picking robots",
-      "excerpt": "Festo announced that its partnering with researchers at the Karlsruhe Institute of Technology (KIT) and the University of Waterloo to make picking robots smarter using a distributed AI method called federated learning.",
-      "sourceUrl": null,
-      "webUrl": "https://www.design-engineering.com/german-canadian-researchers-collaborating-on-ai-for-picking-robots-1004037129/",
-      "originalUrl": "https://www.design-engineering.com/german-canadian-researchers-collaborating-on-ai-for-picking-robots-1004037129/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.design-engineering.com/wp-content/uploads/2021/07/21-july-Festo-FLAIROP-650.png",
-          "width": 650,
-          "height": 285,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-12T17:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "design-engineering.com",
-        "domain": "design-engineering.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

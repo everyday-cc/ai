@@ -25,19 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "Icertis Recognized as the Winner of 2021 Microsoft AI Partner of the Year"
-    excerpt: "First and Only Contract Lifecycle Management Company Recognized by Microsoft  for AI Leadership and as a Global ISV Partner of the"
-    publishedDateTime: 2021-07-14T02:12:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/icertis-recognized-as-the-winner-of-2021-microsoft-ai-partner-of-the-year-1030603718"
+  - title: "Digital Transformation: Microsoft Azure Cloud Platform to be Used by Canadian Imperial Bank of Commerce"
+    excerpt: "The Canadian Imperial Bank of Commerce (CIBC) (TSE: CM), a multinational banking and financial services corporation headquartered in Toronto, Ontario, has entered a multi-year deal to use Microsoft Azure as its main Cloud platform."
+    publishedDateTime: 2021-07-12T23:22:00Z
+    webUrl: "https://www.crowdfundinsider.com/2021/07/177735-digital-transformation-microsoft-azure-cloud-platform-to-be-used-by-canadian-imperial-bank-of-commerce/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2021/07/177735-digital-transformation-microsoft-azure-cloud-platform-to-be-used-by-canadian-imperial-bank-of-commerce/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/07/177735-digital-transformation-microsoft-azure-cloud-platform-to-be-used-by-canadian-imperial-bank-of-commerce/amp/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 83
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 75
     images:
-      - url: "https://mma.prnewswire.com/media/1515204/icertis_Logo.jpg"
-        width: 400
-        height: 400
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2021/07/Christina-Kramer-284x300.jpg"
+        width: 284
+        height: 300
         isCached: true
   - title: "CIBC chooses Microsoft Azure as its primary cloud platform"
     excerpt: "Microsoft Azure technology will also continue to offer scalable computing power for CIBC’s enterprise data lake and its artificial intelligence (AI)/machine learning (ML) platform to help it provide innovative client solutions. “Leveraging cutting-edge ..."
@@ -55,61 +57,15 @@ related:
         width: 620
         height: 250
         isCached: true
-  - title: "Icertis Recognized as the Winner of 2021 Microsoft AI Partner of the Year"
-    excerpt: "Icertis, the contract intelligence company that pushes the boundaries of what's possible with contract lifecycle management (CLM), announced today that it has won the Artificial Intelligence (AI) 2021 Microsoft Partner of the Year Award and been named a Finalist of the Global ISV Microsoft Partner of the Year Award for the fourth year in a row."
-    publishedDateTime: 2021-07-13T13:12:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2021/07/13/9407857.htm"
+  - title: "Microsoft (MSFT) Azure Cloud Leveraged by Canada-Based CIBC"
+    excerpt: "Microsoft’s MSFT Azure cloud platform is being leveraged by Canadian Imperial Bank of Commerce (“CIBC”) to revamp its business operations, boost operational efficiency and enhance client experiences."
+    publishedDateTime: 2021-07-12T14:40:00Z
+    webUrl: "https://www.nasdaq.com/articles/microsoft-msft-azure-cloud-leveraged-by-canada-based-cibc-2021-07-12"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 53
-    images:
-      - url: "https://mma.prnewswire.com/media/371539/Icertis_Logo.jpg"
-        width: 400
-        height: 260
-        isCached: true
-  - title: "Sierra Wireless Partners with Microsoft to Enable Advanced Asset Tracking Capabilities via Azure IoT Central"
-    excerpt: "Sierra Wireless’ Acculink managed IoT solution integrated with Microsoft Azure IoT Central brings simplicity, extra functionality and capabilities for customersVANCOUVER, British Columbia--(BUSINESS WIRE)--Sierra Wireless (NASDAQ: SWIR) (TSX: SW),"
-    publishedDateTime: 2021-07-13T13:00:00Z
-    webUrl: "https://us.acrofan.com/detail.php?number=498882"
-    type: article
-    provider:
-      name: 아크로팬
-      domain: acrofan.com
-    quality: 35
-    images:
-      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
-        width: 580
-        height: 339
-        isCached: true
-  - title: "Trainocate recognised as #1 Microsoft Learning Partner worldwide"
-    excerpt: "Trainocate Holdings, Sri Lanka’s largest IT and human capability development training provider, has been recognised as the 2021 Microsoft Learning Partner of the Year; the first Asian company ever to have earned the illustrious title."
-    publishedDateTime: 2021-07-11T18:30:00Z
-    webUrl: "https://www.ft.lk/it-telecom-tech/Trainocate-recognised-as-1-Microsoft-Learning-Partner-worldwide/50-720316"
-    type: article
-    provider:
-      name: FT
-      domain: www.ft.lk
-    quality: 34
-  - title: "NEC signs new partnership with Microsoft, to migrate IT to Azure"
-    excerpt: "NEC said it expanded its decades-long collaboration with Microsoft. Through a new multi-year strategic partnership, the companies will leverage Microsoft Azure, Microsoft 365, NEC's network and IT expertise,"
-    publishedDateTime: 2021-07-13T08:29:00Z
-    webUrl: "https://www.telecompaper.com/news/nec-signs-new-partnership-with-microsoft-to-migrate-it-to-azure--1389976"
-    type: article
-    provider:
-      name: Telecompaper
-      domain: telecompaper.com
-    quality: 34
-  - title: "Insight Wins 2021 Microsoft Worldwide Partner of the Year Awards for Azure Migration and Solution Assessments"
-    excerpt: "Insight Enterprises (NASDAQ:NSIT), the global provider of Insight Intelligent Technology Solutions™ for organizations of all sizes, today announced it has won two 2021 Microsoft ( News - Alert) Worldwide Partner of the Year Awards as Migration to Azure Partner of the Year and Solution Assessments Partner of the Year."
-    publishedDateTime: 2021-07-09T16:07:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2021/07/09/9406115.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 15
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 64
 
 secured: "4NZnNZTt11j7pZKt718FMXJ5ae20xpWIKBpK76ahUyzv4V5Uq8Cq9fxlpDThkNj/x/Y45h/sRtl8a4+lIW0/ijS4oZPvSep5tLm73njTiuqYLC7jAJ6ePqTT/h5i7zdKUeNBcVwjmypXSOf8w/dUWgMQyQZLPdiSwMMDMTF28nbWeZZCdVj+c6Og3eRLxzdmjaC+gAXYTn/qcLhDQEmHX882pkBpHbL+JRvrqxfVzG/+i6gQtPHtTp5SWYqmeNRw7L5BYMWs5yzPmmV2I6qBEoMsE1QwSNT/B0isv7S7MHsCOPhnvynM80Y95zTXUdI/ijthDLYm4QOGAZCrjS/QiIGoJ967MhJmi4ZdyrTlf2k3BWXRNaTYv8mRCWF5hjNDYLyn2I84pPJZuU3wiFE7xYNnYidh4IjSmWGvAzEZFvx5IbGZtof/8Mp70maSzXjBMKedK1UQNe20TKwa7b2DCHlw7KW7nm7S6bUJCnsFlgK5+zLj5UufkUFj1IJz2e12HiWYDs5XWeUr+ODYx+uY8g==;XP/9ZiCkszx9sMwOqXOdAQ=="
 ---

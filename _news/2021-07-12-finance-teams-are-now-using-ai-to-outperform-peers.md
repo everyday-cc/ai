@@ -131,6 +131,20 @@ related:
         width: 750
         height: 422
         isCached: true
+  - title: "Top AI Start-ups Bringing the Most Innovative Products"
+    excerpt: "Start-ups are coming up with the most innovative products in the market. Here are the top AI start-ups that can change the world."
+    publishedDateTime: 2021-07-14T07:15:00Z
+    webUrl: "https://www.analyticsinsight.net/top-ai-start-ups-bringing-the-most-innovative-products/"
+    type: article
+    provider:
+      name: Analytics Insight
+      domain: analyticsinsight.net
+    quality: 37
+    images:
+      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/07/AI-Startups.jpg"
+        width: 900
+        height: 500
+        isCached: true
 
 secured: "xtPdgrFDur6Vs+tTVh5l61J9tCs241PD1ApExnEdnDu6g/ptsKP0zJOT7ZJrY6A22agPFAYDzxNZrNAYirjKwSUuUuetCh/T/F6CsO6PCD6tTZ65uzgfZElz6DCdcNmd5mSiNoept7LwaOUbhjLSbEdFuX3hUySjudcrnhkrYOuHkqQf/uUPW80FwyO3MZDtRwd9Oo+ujOqD2VI1jrpu1iyvuq8Svhvj8xRpO4t1ZVN7uDmC11FynputsE2/juYNV369GB3OiC8737x/ZFUDftbxDXxU2Wt9wFnvxM5CmA4BC4JmxquvG5DqwQKpp0QR0zgBjs2JtvkRSK9JkEHKabCI3yYY5J9cDhKy4M2IqolKG7cwnZDdoAm0euQ0xUSlWTEdgKS6RkggmbrfnVVHTYk/WdQN84aWHwoJ9e+rqPlicbT0U+nihY3kxxwCzSIoifXA14s9LzWkqIvKcDJwOHydo/gTefo0Lbsxx5mbNbjrsANxGXybNHBoc4ydLM29uScu32f2RZQOgI+RSL/Xrg==;or3cON9ecYoC6Wkgl/N5kQ=="
 ---

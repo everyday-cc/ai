@@ -19,75 +19,102 @@ topics:
   - AI
 
 related:
-  - title: "Republicans and Democrats concerned about facial recognition technology"
-    excerpt: "Law enforcement must be careful when using facial recognition technology. “We need to ensure that the adoption of this new technology that does not further erode trust between law enforcement and the communities they serve,"
-    publishedDateTime: 2021-07-13T21:23:00Z
-    webUrl: "https://kfor.com/news/republicans-and-democrats-concerned-about-facial-recognition-technology/"
-    ampWebUrl: "https://kfor.com/news/republicans-and-democrats-concerned-about-facial-recognition-technology/amp/"
-    cdnAmpWebUrl: "https://kfor-com.cdn.ampproject.org/c/s/kfor.com/news/republicans-and-democrats-concerned-about-facial-recognition-technology/amp/"
+  - title: "Artificial Intelligence Market Size predicts favorable growth and forecast 2020 - 2026"
+    excerpt: "Market Research Engine has published a new report titled as \"Artificial Intelligence Market Size By Offering ("
+    publishedDateTime: 2021-07-13T20:14:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-size-predicts-favorable-growth-and-forecast-2020---2026-2021-07-13"
     type: article
     provider:
-      name: Oklahoma's News
-      domain: kfor.com
-    quality: 59
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 61
     images:
-      - url: "https://kfor.com/wp-content/uploads/sites/3/2021/07/CBD9E120D58140A1A6D82774464D865D_7.jpg?w=1280"
-        width: 1280
-        height: 720
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "Port of Seattle bans facial recognition technology for certain uses"
-    excerpt: "The Port of Seattle Commission voted to permanently prohibit the use of biometric technology — including facial recognition — for law enforcement, security and mass surveillance purposes by the port and private-sector entities operating at its facilities."
-    publishedDateTime: 2021-07-14T00:52:00Z
-    webUrl: "https://www.seatrade-cruise.com/information-technology/port-seattle-bans-facial-recognition-technology-certain-uses"
+  - title: "Military Robots Market Share, Size, Industry Players, Revenue And Product Demand Forecast Till 2024"
+    excerpt: "The government of various nations is continuously investing in automation technology for surveillance services by"
+    publishedDateTime: 2021-07-10T16:56:00Z
+    webUrl: "https://www.marketwatch.com/press-release/military-robots-market-share-size-industry-players-revenue-and-product-demand-forecast-till-2024-2021-07-10"
     type: article
     provider:
-      name: Seatrade Cruise News
-      domain: seatrade-cruise.com
-    quality: 54
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 55
     images:
-      - url: "https://www.seatrade-cruise.com/sites/seatrade-cruise.com/files/CRUISE_Norwegian_Bliss_Seattle_Pier_66.jpg"
-        width: 470
-        height: 290
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "Michigan man misidentified by facial recognition technology warns Congress of risks posed by police surveillance"
-    excerpt: "A Michigan man who was wrongly arrested after being misidentified by facial recognition technology joined expert witnesses who warned a congressional subcommittee about the pitfalls of police surveillance software used to find suspects."
-    publishedDateTime: 2021-07-13T17:44:00Z
-    webUrl: "https://www.mlive.com/public-interest/2021/07/michigan-man-misidentified-by-facial-recognition-technology-warns-congress-of-risks-posed-by-police-surveillance.html"
-    ampWebUrl: "https://www.mlive.com/public-interest/2021/07/michigan-man-misidentified-by-facial-recognition-technology-warns-congress-of-risks-posed-by-police-surveillance.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-mlive-com.cdn.ampproject.org/c/s/www.mlive.com/public-interest/2021/07/michigan-man-misidentified-by-facial-recognition-technology-warns-congress-of-risks-posed-by-police-surveillance.html?outputType=amp"
+  - title: "Global AI Translation Market Size, Status and Forecast 2021-2027"
+    excerpt: "Pages Report] Check for Discount on Global AI Translation Market Size, Status and Forecast 2021-2027 report by QYResearch Group. Market Analysis and Insights: Global AI Translation Market The"
+    publishedDateTime: 2021-07-10T07:26:00Z
+    webUrl: "https://www.reportsnreports.com/reports/4660415-global-ai-translation-market-size-status-and-forecast-2021-2027.html"
     type: article
     provider:
-      name: MLive
-      domain: mlive.com
-    quality: 38
+      name: ReportsnReports
+      domain: reportsnreports.com
+    quality: 17
+  - title: "Global Automatic Speech Recognition Market Size, Status and Forecast 2021-2027"
+    excerpt: "The global Automatic Speech Recognition market size is projected to reach US$ XX million by 2027, from US$ XX million in 2020, at a CAGR of XX% during 2021-2027. With industry-standard accuracy in analysis and high data integrity, the report makes a ..."
+    publishedDateTime: 2021-07-10T09:05:00Z
+    webUrl: "https://www.reportsnreports.com/reports/4660781-global-automatic-speech-recognition-market-size-status-and-forecast-2021-2027.html"
+    type: article
+    provider:
+      name: ReportsnReports
+      domain: reportsnreports.com
+    quality: 15
+  - title: "Deep Neural Networks Market Trend, Growth, Size, Forecast, Key Players and Competitive Landscape Research Report by 2027"
+    excerpt: "The report talks about the production capacity, demand and supply trends, market dynamics, and impact of these and other key factors on the global Deep Neural Networks market. It also offers an extensive analysis of the competitive landscape along with an industry-wide analysis of the market share of each player along with their business profiles."
+    publishedDateTime: 2021-07-12T17:13:00Z
+    webUrl: "https://manometcurrent.com/deep-neural-networks-market-trend-growth-size-forecast-key-players-and-competitive-landscape-research-report-by-2027/"
+    type: article
+    provider:
+      name: manometcurrent.com
+      domain: manometcurrent.com
+    quality: 14
     images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/IWXH4NYTVRCQBC4MUGFDTP37GU.jpg"
-        width: 4904
-        height: 3678
+      - url: "https://manometcurrent.com/wp-content/uploads/2021/07/RD11-2-390x220.png"
+        width: 390
+        height: 220
         isCached: true
-  - title: "Maine joins list of states to ban facial recognition technology"
-    excerpt: "Maine recently passed a bill into law creating one of the strictest statewide regulation on the use of facial recognition technology, as Maine joins several states to ban the technology"
-    publishedDateTime: 2021-07-09T17:15:00Z
-    webUrl: "https://www.securitysystemsnews.com/article/maine-joins-list-of-states-to-ban-facial-recognition-technology"
+  - title: "Global Artificial Intelligence in Construction Market Size, Status and Forecast 2021-2027"
+    excerpt: "Pages Report] Check for Discount on Global Artificial Intelligence in Construction Market Size, Status and Forecast 2021-2027 report by QYResearch Group. Market Analysis and Insights: Global Artificial Intelligence in Construction"
+    publishedDateTime: 2021-07-13T08:25:00Z
+    webUrl: "https://www.reportsnreports.com/reports/4662396-global-artificial-intelligence-in-construction-market-size-status-and-forecast-2021-2027.html"
     type: article
     provider:
-      name: Security Systems News
-      domain: securitysystemsnews.com
-    quality: 34
-  - title: "New state laws require more police transparency, limit use of facial recognition technology"
-    excerpt: "One of the laws makes Maine the first state in the country to apply strict limits on facial recognition technology."
-    publishedDateTime: 2021-07-10T01:14:00Z
-    webUrl: "https://www.pressherald.com/2021/07/09/new-state-laws-require-more-police-transparency-limit-use-of-facial-recognition-technology/"
+      name: ReportsnReports
+      domain: reportsnreports.com
+    quality: 8
+  - title: "Global Voice Recognition Software Market Size, Status and Forecast 2021-2027"
+    excerpt: "Pages Report] Check for Discount on Global Voice Recognition Software Market Size, Status and Forecast 2021-2027 report by QYResearch Group. Market Analysis and Insights: Global Voice Recognition Software Market"
+    publishedDateTime: 2021-07-13T08:24:00Z
+    webUrl: "https://www.reportsnreports.com/reports/4662311-global-voice-recognition-software-market-size-status-and-forecast-2021-2027.html"
     type: article
     provider:
-      name: Portland Press Herald
-      domain: pressherald.com
-    quality: 29
-    images:
-      - url: "http://multifiles.pressherald.com/uploads/sites/4/2017/01/pph-icon-red-linkforFB.png"
-        width: 300
-        height: 300
-        isCached: true
+      name: ReportsnReports
+      domain: reportsnreports.com
+    quality: 1
+  - title: "Global Educational Robot Market (2021 to 2026) – Industry Trends, Share, Size, Growth, Opportunity and Forecasts – ResearchAndMarkets.com"
+    excerpt: "Global Industry Trends, Share, Size, Growth, Opportunity and Forecast 2021-2026” report has been added to ResearchAndMarkets.com’s offering. The global educational robot market exhibited strong growth during 2015-2020."
+    publishedDateTime: 2021-07-12T14:08:00Z
+    webUrl: "https://www.financialbuzz.com/global-educational-robot-market-2021-to-2026-industry-trends-share-size-growth-opportunity-and-forecasts-researchandmarkets-com/"
+    type: article
+    provider:
+      name: Financial Buzz
+      domain: financialbuzz.com
+    quality: 0
+  - title: "Global Speech and Voice Recognition Market Size, Status and Forecast 2021-2027"
+    excerpt: "Pages Report] Check for Discount on Global Speech and Voice Recognition Market Size, Status and Forecast 2021-2027 report by QYResearch Group. Market Analysis and Insights: Global Speech and Voice Recognition"
+    publishedDateTime: 2021-07-13T08:23:00Z
+    webUrl: "https://www.reportsnreports.com/reports/4662277-global-speech-and-voice-recognition-market-size-status-and-forecast-2021-2027.html"
+    type: article
+    provider:
+      name: ReportsnReports
+      domain: reportsnreports.com
+    quality: 0
 
 secured: "QMqW1k5cr51gCbm/Tz6C2JJ5615Pc1aN4ZqGGmw/d/JYgOHhET+miT+YQNIk9lkE4TmjDthOqKRECKhdF6FjKRMJRU5EuNDLMjOLMBAZZYoJdwc01pF++aKTVQB9bC5Kgej7KAlpDEUF6luolyGOg4Y2IpWX2vz7M2XQw64yB74tmw1eLCXB91JOCJZh4es0yVJZJsaKFRl/3Le9dnVfS2KSjmS9PKK1CaMFMlQmHOYqIUVzIRU4Ca4BHmSuPan5JUSCLO48C7FVAw4QN1UvtLwouwHS1CN2w3Q9Nn7eeJMXPq9LpwynY8/SzbiKQ980WEGaw5NIV/rqqiAqQ0okGViGntg0LArexfVjzalYlGA=;HwHIE9SziveqPTMgIFzLgg=="
 ---

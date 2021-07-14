@@ -87,6 +87,20 @@ related:
         width: 540
         height: 405
         isCached: true
+  - title: "Facial-Recognition Tech Gets Bipartisan Call for More Regulation"
+    excerpt: "The use of facial-recognition software by law enforcement should be regulated, a bipartisan group of lawmakers said, amid concerns of misidentification and violations of constitutional rights and due process."
+    publishedDateTime: 2021-07-13T17:35:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2021-07-13/facial-recognition-tech-gets-bipartisan-call-for-more-regulation"
+    type: article
+    provider:
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 54
+    images:
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i35tDSsiJq1c/v1/1200x800.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "US Lawmakers Urge Regulation Of Facial-Recognition Use"
     excerpt: "Some lawmakers came out against the use of facial recognition, citing concerns about misidentification and violations of due process and constitutional rights."
     publishedDateTime: 2021-07-14T01:47:00Z
@@ -132,20 +146,6 @@ related:
       - url: "https://img.securityinfowatch.com/files/base/cygnus/siw/image/2021/07/bigstock_Facial_Recognition_System_Iden_387020311.60ecba89a36b9.png?auto=format&fit=max&w=1200"
         width: 1200
         height: 800
-        isCached: true
-  - title: "Facial-Recognition Tech Gets Bipartisan Call for More Regulation"
-    excerpt: "The use of facial-recognition software by law enforcement should be regulated, a bipartisan group of lawmakers said, amid concerns of misidentification and violations of constitutional rights and due process."
-    publishedDateTime: 2021-07-14T05:35:00Z
-    webUrl: "https://www.bloombergquint.com/onweb/facial-recognition-tech-gets-bipartisan-call-for-more-regulation"
-    type: article
-    provider:
-      name: BloombergQuint
-      domain: bloombergquint.com
-    quality: 24
-    images:
-      - url: "https://gumlet.assettype.com/bloombergquint%2F2018-08%2F3a8e2237-2edb-4494-bcf2-231993fb6108%2FBLOOMBERG_LOGO.png?rect=0%2C56%2C1920%2C1008&w=1200&auto=format%2Ccompress&ogImage=true"
-        width: 1200
-        height: 630
         isCached: true
 
 secured: "vjDOzyr0Rpb9FODAou5u5BXuOAdgi97WAZaToTgJ/M9Ty/TEic0deZCFFru5a3oy1Xc4dXioWmO4M04xckIurS1XHhjFitLgzcfbrczPWaA2SR3I2jXVSQ9aVZTAWIYZKJLVJ4aCeidz79dRRUyXqOG+F1Yl1ftzs9LMS4+Wk89aYrqHWzHCR+/gptJo7oSHV8uVAGBTX+NnKT/kMhDlCTVLpZvSm21PQgzBztvbxoAAXPhiSNwAfOH20e2IydTM7QUFUx4tQtheYfVMbbdlwekZZydB1AeQSelaCibnQlLQwfKX4KIMGKUd6A5bJ1RJDLl+rQQ5SbHaCSfjXeCFxZE6GhzSLXwrvq9RkccKmZw=;QS8lzAsmX1OtRBJK5YzOHQ=="

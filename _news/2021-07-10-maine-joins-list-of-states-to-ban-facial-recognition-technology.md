@@ -21,17 +21,17 @@ topics:
 related:
   - title: "Republicans and Democrats concerned about facial recognition technology"
     excerpt: "Law enforcement must be careful when using facial recognition technology. “We need to ensure that the adoption of this new technology that does not further erode trust between law enforcement and the communities they serve,"
-    publishedDateTime: 2021-07-13T21:23:00Z
-    webUrl: "https://kfor.com/news/republicans-and-democrats-concerned-about-facial-recognition-technology/"
-    ampWebUrl: "https://kfor.com/news/republicans-and-democrats-concerned-about-facial-recognition-technology/amp/"
-    cdnAmpWebUrl: "https://kfor-com.cdn.ampproject.org/c/s/kfor.com/news/republicans-and-democrats-concerned-about-facial-recognition-technology/amp/"
+    publishedDateTime: 2021-07-13T21:24:00Z
+    webUrl: "https://www.wsav.com/news/national-news/republicans-and-democrats-concerned-about-facial-recognition-technology/"
+    ampWebUrl: "https://www.wsav.com/news/republicans-and-democrats-concerned-about-facial-recognition-technology/amp/"
+    cdnAmpWebUrl: "https://www-wsav-com.cdn.ampproject.org/c/s/www.wsav.com/news/republicans-and-democrats-concerned-about-facial-recognition-technology/amp/"
     type: article
     provider:
-      name: Oklahoma's News
-      domain: kfor.com
-    quality: 59
+      name: WSAV-TV
+      domain: wsav.com
+    quality: 61
     images:
-      - url: "https://kfor.com/wp-content/uploads/sites/3/2021/07/CBD9E120D58140A1A6D82774464D865D_7.jpg?w=1280"
+      - url: "https://www.wsav.com/wp-content/uploads/sites/75/2021/07/CBD9E120D58140A1A6D82774464D865D_7.jpg?w=1280"
         width: 1280
         height: 720
         isCached: true
@@ -79,15 +79,6 @@ related:
         width: 300
         height: 300
         isCached: true
-  - title: "Global Face Recognition Technology Market Size, Status and Forecast 2021-2027"
-    excerpt: "Pages Report] Check for Discount on Global Face Recognition Technology Market Size, Status and Forecast 2021-2027 report by QYResearch Group. Market Analysis and Insights: Global Face Recognition Technology Market"
-    publishedDateTime: 2021-07-10T09:01:00Z
-    webUrl: "https://www.reportsnreports.com/reports/4660488-global-face-recognition-technology-market-size-status-and-forecast-2021-2027.html"
-    type: article
-    provider:
-      name: ReportsnReports
-      domain: reportsnreports.com
-    quality: 16
 
 secured: "9uNlVBtDu0gyZW/xGSctcv4DX7qo96ZPxR7Mzd9ITkxgr1komZmfKFFKLjnqi4k64RPa26AvaEjV/AnpiDkA5KPa5OTKREpwXUQG5RJVCC007HRKAKWUTi/utvJ2XMAuQkvqJYyuCdzsjEYUFZDQ71/lIdFAH+ikcHSFA5BWyYjzyV45/IeS/kC0XOW+E000d9+TTcMofOnWM68yPZ3Af+KfC2yWVYpnD9lpGCLf07PDgotiZvUL8CFZsHeGvn1h2wLLKPiFT+T9ki+rg3f9kdawoID+mYc1GgqATy/EV75Zb1vql+6g8w80wbbxl9DL/6iQ2XsvJTLUgkpEz0AC//nTo516BP43K802TRDNVas=;eYToFPa3ZVSaCpu026Z/PA=="
 ---

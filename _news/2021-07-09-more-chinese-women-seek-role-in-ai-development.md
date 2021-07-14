@@ -24,19 +24,21 @@ images:
     isCached: true
 
 related:
-  - title: "China Focus: Forum highlights AI's role in industry, development"
-    excerpt: "With both hands off the steering wheel a man sits in the driving seat as the car moves steadily along a 28 km section of road pa"
-    publishedDateTime: 2021-07-09T13:57:00Z
-    webUrl: "https://www.bignewsnetwork.com/news/270230552/china-focus-forum-highlights-ais-role-in-industry-development"
+  - title: "Saudi Aramco VC arm invests in Chinese medical robot startup"
+    excerpt: "RIYADH: Prosperity7 Ventures, the venture capital arm of Saudi Aramco, has invested in Chinese medical rehabilitation robot firm Fourier Intelligence as part of the startup’s Series C+ funding round."
+    publishedDateTime: 2021-07-14T06:47:00Z
+    webUrl: "https://www.zawya.com/mena/en/wealth/story/Saudi_Aramco_VC_arm_invests_in_Chinese_medical_robot_startup-SNG_224670152/"
+    ampWebUrl: "https://www.zawya.com/mena/en/story/amp/SNG_224670152/"
+    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/SNG_224670152/"
     type: article
     provider:
-      name: Big News Network.com
-      domain: bignewsnetwork.com
-    quality: 39
+      name: Zawya
+      domain: zawya.com
+    quality: 59
     images:
-      - url: "https://static.bignewsnetwork.com/bnn/images/big-news-network-slogan.jpg"
-        width: 630
-        height: 420
+      - url: "https://images.zawya.com/images/cia/zAmp/191013041106SXGO.jpg"
+        width: 1200
+        height: 800
         isCached: true
 
 secured: "aQIPINmcZNoYUKlDEeTsH2BDbXvj/XoBX5PbGfQT7Oylas0jWVvizp2WgPJiULZX3PYGUK0aVgC5pUryiSfWZRnI+2ijUC6mjoQNh1NIaBzX8hLWhQ6KEL1r96ezz8djyLzSZtn1IloQcV0h2EyLMW11tfTsOLZfILe2xkIa/J5UFzWp3F8JZIR5JQLm/TeP09zKM3KBn+4PTDwgDlX/Ysy7oAxmdWaKWf/l8qKZJfYqDyOqQzNA31NTc15DiftbRzFcjYcEfP30gEbhm5BAWhaeDCu2DHArduVW4VJIlUEv3oPfaAlHkm+q997s58HlCtuhKfU5GLZAO9yRy23eoDzA8z75FSofUCdDuKbJHaexY8F6rT/rMfwl+w2jqVrRb9HneG9l1PwvlGk/ltXsWvz2Plo+2rLFX9LjC7SZsOsYO7b3x7MDXeHPV8nOcqt5B873xHvzZnyBLlDinB3BEkD3tvCfwrUFJUAkknMoFgmvTc3eyen4yA+HA9+VrbZLBvSkYzW1g/mI8nLXDmy+zQ==;aSyM9l5B097Vl0fuiP4f2A=="

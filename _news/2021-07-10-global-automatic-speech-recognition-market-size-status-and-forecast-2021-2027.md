@@ -19,6 +19,20 @@ topics:
   - AI
 
 related:
+  - title: "Artificial Intelligence Market Size predicts favorable growth and forecast 2020 - 2026"
+    excerpt: "Market Research Engine has published a new report titled as \"Artificial Intelligence Market Size By Offering ("
+    publishedDateTime: 2021-07-13T20:14:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-size-predicts-favorable-growth-and-forecast-2020---2026-2021-07-13"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 61
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Military Robots Market Share, Size, Industry Players, Revenue And Product Demand Forecast Till 2024"
     excerpt: "The government of various nations is continuously investing in automation technology for surveillance services by"
     publishedDateTime: 2021-07-10T16:56:00Z
@@ -33,20 +47,24 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Robot Operating System Market Size 2021 by Company, Product introduction, Products Sales Volume, Revenue, Price and Gross Margin to 2030"
-    excerpt: "In a recent published report, Kenneth Research has updated the market report for Robot Operating System Market for"
-    publishedDateTime: 2021-07-09T17:02:00Z
-    webUrl: "https://www.marketwatch.com/press-release/robot-operating-system-market-size-2021-by-company-product-introduction-products-sales-volume-revenue-price-and-gross-margin-to-2030-2021-07-09"
+  - title: "Global AI Translation Market Size, Status and Forecast 2021-2027"
+    excerpt: "Pages Report] Check for Discount on Global AI Translation Market Size, Status and Forecast 2021-2027 report by QYResearch Group. Market Analysis and Insights: Global AI Translation Market The"
+    publishedDateTime: 2021-07-10T07:26:00Z
+    webUrl: "https://www.reportsnreports.com/reports/4660415-global-ai-translation-market-size-status-and-forecast-2021-2027.html"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 53
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
+      name: ReportsnReports
+      domain: reportsnreports.com
+    quality: 17
+  - title: "Global Face Recognition Technology Market Size, Status and Forecast 2021-2027"
+    excerpt: "Pages Report] Check for Discount on Global Face Recognition Technology Market Size, Status and Forecast 2021-2027 report by QYResearch Group. Market Analysis and Insights: Global Face Recognition Technology Market"
+    publishedDateTime: 2021-07-10T09:01:00Z
+    webUrl: "https://www.reportsnreports.com/reports/4660488-global-face-recognition-technology-market-size-status-and-forecast-2021-2027.html"
+    type: article
+    provider:
+      name: ReportsnReports
+      domain: reportsnreports.com
+    quality: 16
   - title: "Deep Neural Networks Market Trend, Growth, Size, Forecast, Key Players and Competitive Landscape Research Report by 2027"
     excerpt: "The report talks about the production capacity, demand and supply trends, market dynamics, and impact of these and other key factors on the global Deep Neural Networks market. It also offers an extensive analysis of the competitive landscape along with an industry-wide analysis of the market share of each player along with their business profiles."
     publishedDateTime: 2021-07-12T17:13:00Z
@@ -87,6 +105,15 @@ related:
     provider:
       name: Financial Buzz
       domain: financialbuzz.com
+    quality: 0
+  - title: "Global Speech and Voice Recognition Market Size, Status and Forecast 2021-2027"
+    excerpt: "Pages Report] Check for Discount on Global Speech and Voice Recognition Market Size, Status and Forecast 2021-2027 report by QYResearch Group. Market Analysis and Insights: Global Speech and Voice Recognition"
+    publishedDateTime: 2021-07-13T08:23:00Z
+    webUrl: "https://www.reportsnreports.com/reports/4662277-global-speech-and-voice-recognition-market-size-status-and-forecast-2021-2027.html"
+    type: article
+    provider:
+      name: ReportsnReports
+      domain: reportsnreports.com
     quality: 0
 
 secured: "efyngxQIJzTDEGdViKsPn89l3FsnWMTNwStFpjn97Qw7tqZ/i6gXj4XxcTkk66rMEz7Lp81z5zQWrwxFDkd+ndpuGuCOH3oBuLYM0xg102ixG2o/1LITeMNx6XPGeofidZy4i67rwv//XYPzI/JIEL7zNg2dZJ6OCNxClG/jkhcuAlFx2K+dlNd5Z+kOgck8qEq9a3Vd+L9ELS2dq9JZh8+X5AelDrsEFTQ4VnIdG0iYYq2QSmOUjW+Vdl3l90jBQz03DdpBUVpT5OV6atgHRjM4t65BeFax4XYtcz7QKgAgtbbZ+JzeISBBNlGEWo/YgA+dLHTZl4E796Lh13d+AVSfQAbtLE7m15qxEu1CMDE=;CTGUyAo39lVtjZaF0gUKYg=="

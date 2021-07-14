@@ -2,6 +2,110 @@
   "page": 68,
   "value": [
     {
+      "path": "_news/2021-05-24-the-missing-vaccine-in-the-pandemic-how-the-shortage-of-emotional-intelligence-is-driving-everyone-crazy.md",
+      "title": "The Missing Vaccine in the Pandemic: How the Shortage of Emotional Intelligence is Driving Everyone Crazy",
+      "excerpt": "Learn to develop self-leadership and to govern your emotions in the face of situations that are happening at full speed.",
+      "sourceUrl": null,
+      "webUrl": "https://www.entrepreneur.com/article/372732",
+      "originalUrl": "https://www.entrepreneur.com/article/372732",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/1621869982-Depositphotos-160926830-l-2015.jpg?width=600&crop=16:9",
+          "width": 600,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.entrepreneur.com/amphtml/372732",
+      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/372732",
+      "publishedDateTime": "2021-05-24T08:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-24-bridging-the-stem-divide-ai-hackathon-helps-young-women-excel-in-computer-science.md",
+      "title": "Bridging the STEM divide: AI hackathon helps young women excel in computer science",
+      "excerpt": "The post Bridging the STEM divide: AI hackathon helps young women excel in computer science appeared first on The AI Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://news.microsoft.com/europe/features/bridging-the-stem-divide-ai-hackathon-helps-young-women-excel-in-computer-science/",
+      "originalUrl": "https://news.microsoft.com/europe/features/bridging-the-stem-divide-ai-hackathon-helps-young-women-excel-in-computer-science/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://3er1viui9wo30pkxh1v2nh4w-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/93/2021/05/SUR21_LaptopGo_Contextual_0501_RGB-1-scaled.jpg",
+          "width": 2560,
+          "height": 1920,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-24T08:15:27-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-24-new-ai-tool-predicts-the-extent-of-chronic-damage-in-the-kidney.md",
       "title": "New AI tool predicts the extent of chronic damage in the kidney",
       "excerpt": "Chronic kidney disease (CKD) is caused by diabetes and hypertension. In 2017, the global prevalence of CKD was 9.1 percent, which is approximately 700 million cases.",
@@ -1090,92 +1194,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-24-the-new-global-ai-arms-race-how-nations-must-compete-on-artificial-intelligence.md",
-      "title": "The New Global AI Arms Race: How Nations Must Compete On Artificial Intelligence",
-      "excerpt": "As governments race to unlock AI’s potential within their countries, who is leading the pack, and who is falling behind? Get the latest research and advice about what it takes to get an advantage in the global AI arms race.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/bernardmarr/2021/05/24/the-new-global-ai-arms-race-how-nations-must-compete-on-artificial-intelligence/",
-      "originalUrl": "https://www.forbes.com/sites/bernardmarr/2021/05/24/the-new-global-ai-arms-race-how-nations-must-compete-on-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60ab281ca1b0ba2e75b5b640%2F0x0.jpg",
-          "width": 1200,
-          "height": 649,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2021/05/24/the-new-global-ai-arms-race-how-nations-must-compete-on-artificial-intelligence/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2021/05/24/the-new-global-ai-arms-race-how-nations-must-compete-on-artificial-intelligence/amp/",
-      "publishedDateTime": "2021-05-23T21:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-24-american-robotics-appoints-tech-industry-veteran-kevin-willis-as-vice-president-of-sales.md",
-      "title": "American Robotics Appoints Tech Industry Veteran, Kevin Willis, as Vice President of Sales",
-      "excerpt": "American Robotics, a leading commercial developer of fully-automated drone systems, today announced the appointment of Kevin Willis, former VP",
-      "sourceUrl": null,
-      "webUrl": "https://www.businesswire.com/news/home/20210524005528/en/",
-      "originalUrl": "https://www.businesswire.com/news/home/20210524005528/en/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-23T21:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Sales"
       ]
     }
   ],

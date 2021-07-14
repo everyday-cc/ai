@@ -2,6 +2,40 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-06-15-artificial-intelligence-market-analysis-growth-challenges-opportunities-and-future-developments-to-2028.md",
+      "title": "Artificial Intelligence Market Analysis Growth Challenges, Opportunities and Future Developments to 2028",
+      "excerpt": "The report discusses the key players in the market who have provided a huge contribution in the growth of the Artificial Intelligence Market and dominate the market share. The report also provides information on the market revenue of the key players.",
+      "sourceUrl": null,
+      "webUrl": "https://manometcurrent.com/artificial-intelligence-market-analysis-growth-challenges-opportunities-and-future-developments-to-2028/",
+      "originalUrl": "https://manometcurrent.com/artificial-intelligence-market-analysis-growth-challenges-opportunities-and-future-developments-to-2028/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-14T11:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "manometcurrent.com",
+        "domain": "manometcurrent.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-14-using-artificial-intelligence-to-personalize-therapy-and-individual-level-of-outcome-prediction.md",
       "title": "Using Artificial Intelligence to Personalize Therapy and Individual Level of Outcome Prediction",
       "excerpt": "The MSKCC model was reported on risk stratification of 670 patients treated there with interferon therapy. The IMDC model is based on data from a real-world patient population from multiple ...",
@@ -1306,58 +1340,6 @@
       ],
       "topics": [
         "AI in Finance",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-06-02-artificial-intelligence-chipsets-market-size-share-global-industry-report-2027.md",
-      "title": "Artificial Intelligence (Chipsets) Market Size, Share | Global Industry Report, 2027",
-      "excerpt": "Market Opportunities, Size, Share, Emerging Trends, Technological Innovation, Forecasts & Regional Analysis (Latin America, North America, Asia Pacific, Europe, Middle East) \" Market Overview: Global Artificial Intelligence (Chipsets) Market is valued approximately at USD 5.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-chipsets-market-size-share-global-industry-report-2027-2021-06-02",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-chipsets-market-size-share-global-industry-report-2027-2021-06-02",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-02T00:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI",
         "AI in Healthcare"
       ]

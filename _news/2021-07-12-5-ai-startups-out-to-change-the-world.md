@@ -9,7 +9,7 @@ ampWebUrl: "https://www.infoworld.com/article/3624700/5-ai-startups-out-to-chang
 cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3624700/5-ai-startups-out-to-change-the-world.amp.html"
 type: article
 quality: 89
-heat: 159
+heat: 169
 published: true
 
 provider:
@@ -134,6 +134,20 @@ related:
       - url: "https://news.cgtn.com/news/2021-07-12/Preparing-the-world-for-artificial-intelligence-11Qhsraij28/img/561861171b1740aba76a4b008d17f431/561861171b1740aba76a4b008d17f431-750.png"
         width: 750
         height: 422
+        isCached: true
+  - title: "Top AI Start-ups Bringing the Most Innovative Products"
+    excerpt: "Start-ups are coming up with the most innovative products in the market. Here are the top AI start-ups that can change the world."
+    publishedDateTime: 2021-07-14T07:15:00Z
+    webUrl: "https://www.analyticsinsight.net/top-ai-start-ups-bringing-the-most-innovative-products/"
+    type: article
+    provider:
+      name: Analytics Insight
+      domain: analyticsinsight.net
+    quality: 37
+    images:
+      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/07/AI-Startups.jpg"
+        width: 900
+        height: 500
         isCached: true
 
 secured: "kkYhFtdw+Fb9UaOdwFwOvJHxDaoaTnFtyrTOPeCPKSedvt+pFjr27JJLGJaiPJdAxIiaRa4EMhbYFJ5eq2hVRANg9zXBf8hUxXfzNrEbwx9R3lySoBcgdWDPw3nOplP/b2VnZNpLwne9i8cWeKo2VHFz+DWnXsGO7LEtLOLjjcgGWnXXf25FyK5tBkuY1inDc/CtDLVDO8HAHzn2g5KDVPR3amfrBJkzfYvwNA2NxAX+OiBiHFmw9lg+kg/OBM2uA2iyJ+4SuiJ7JvjBT2kGsKZ+z4ttZqBTBHK138yOH+fjGCn4551XdzPMrxUmdXMWg8ewijXRnekWifbfXSeDA0/YZ7/1itzFAu4ghGEfNAaOopMHKS/AdhCCR/PVa0VwfuIq5ys4vROfwuGyTlDfWR8NjH2RXAEwjbk8ks3tN0T6Lpl/61mbH4JqkMbC3Obmfh32EfAEINPkeUs7Wrckf394tookQJwtNq03zrpV+US1BTxJN7Y3COmHJqTPurKnshnz0VuRy/9xgK4Q6Yx4+w==;S29jLLWOE+GUeh7TpAhgBg=="

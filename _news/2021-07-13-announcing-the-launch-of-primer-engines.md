@@ -1,29 +1,23 @@
 ---
 category: news
 title: "Announcing the Launch of Primer Engines"
-excerpt: "Primer, the leading natural language processing (NLP) company, today announced the launch of Primer Engines, an integrated suite of industrial-grade NLP models that bring the power of machine learning (ML) to mission-critical operations at any organization."
-publishedDateTime: 2021-07-13T13:40:00Z
-originalUrl: "https://apnews.com/press-release/pr-newswire/technology-3e3e74653ab0cf7ae205a6d99e2df32e"
-webUrl: "https://apnews.com/press-release/pr-newswire/technology-3e3e74653ab0cf7ae205a6d99e2df32e"
+excerpt: "Engines can be retrained in Primer Automate, the company's recently released no-code platform, to build and deploy custom deep learning models. With Automate, teams can rapidly cu"
+publishedDateTime: 2021-07-13T13:07:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-announcing-launch-primer-engines-/2021/07/13/9407758.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-announcing-launch-primer-engines-/2021/07/13/9407758.htm"
 type: article
-quality: 24
-heat: 24
+quality: 4
+heat: 4
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - Natural Language Processing
   - AI
 
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
-
-secured: "iScoWPw0KTyGnYe6LUkcytkuAJqxJ/fWG99BBRJ7Jdt/oFu0yK9M1SzJZa0Ip9NV9vcWzQbp5hxwhexcGHSjtu2bF9ZyqOlL409LVcWq4bzGqydMQHTRZaOWEo4Lq5pLhuxx6ZId0tigP3tHHN1jwGWGg4KyGrtNFGf3e3AM6d42EAETPdMzBna2PFrxgrAyj+YmFM0XKxhp/E4HHKkDWT26SZxRZsvTqyWQc04QZjyUu93lqvtVhHm0qc998qkhZZ5H0j0qdaCXvvyL98HkzTVhBo8OapwPNMcASfPnVPwlYfIfPXIMQyMcMy9o9GUJnp+i0PxI9gYUqs3UD3At15aSpGhwFgugPMbA9rpH9A8=;h1uMAyGS271PWybT6dRf4w=="
+secured: "s0pEmKm9idYvIPoE0I0NJow5BCd2D/W9kigSv3xYmKWT3SKebmmgSE1XWxmq2D7JYLnbvHDUsUxp0aeS18i7v7KHayySxwrOxptb/xQcHNwOb6553idqgnG5oVXtGcCBoj8snFpqH5tTkDlTNonuMH66eaii6Eeo4RYSLY78BXUL6V+K3+FzgRP/V7n6QmmJODAX6aMnk7STJ1jJW2jBWRU+y/6tufSLxrKiqhvmOhomIbwPF13USKSOWXlwD40c/aSxagO463uIzz75gJ+KAkf7pJeHRNFHei7MvLLSuOWdtdOsEfVMu/3EkmjsloTUs1q+FfzGe2EsJJEz1pI1ESOK0zgTrYcDhU+ilyBuxGo=;g0n9cqaPjUSdpBy5B/FxWw=="
 ---
 

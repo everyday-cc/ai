@@ -7,8 +7,8 @@ originalUrl: "https://www.marketwatch.com/press-release/military-robots-market-s
 webUrl: "https://www.marketwatch.com/press-release/military-robots-market-share-size-industry-players-revenue-and-product-demand-forecast-till-2024-2021-07-10"
 type: article
 quality: 55
-heat: 115
-published: true
+heat: -1
+published: false
 
 provider:
   name: MarketWatch
@@ -29,20 +29,38 @@ images:
     isCached: true
 
 related:
-  - title: "Robot Operating System Market Size 2021 by Company, Product introduction, Products Sales Volume, Revenue, Price and Gross Margin to 2030"
-    excerpt: "In a recent published report, Kenneth Research has updated the market report for Robot Operating System Market for"
-    publishedDateTime: 2021-07-09T17:02:00Z
-    webUrl: "https://www.marketwatch.com/press-release/robot-operating-system-market-size-2021-by-company-product-introduction-products-sales-volume-revenue-price-and-gross-margin-to-2030-2021-07-09"
+  - title: "Artificial Intelligence Market Size predicts favorable growth and forecast 2020 - 2026"
+    excerpt: "Market Research Engine has published a new report titled as \"Artificial Intelligence Market Size By Offering ("
+    publishedDateTime: 2021-07-13T20:14:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-size-predicts-favorable-growth-and-forecast-2020---2026-2021-07-13"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 53
+    quality: 61
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
+  - title: "Global AI Translation Market Size, Status and Forecast 2021-2027"
+    excerpt: "Pages Report] Check for Discount on Global AI Translation Market Size, Status and Forecast 2021-2027 report by QYResearch Group. Market Analysis and Insights: Global AI Translation Market The"
+    publishedDateTime: 2021-07-10T07:26:00Z
+    webUrl: "https://www.reportsnreports.com/reports/4660415-global-ai-translation-market-size-status-and-forecast-2021-2027.html"
+    type: article
+    provider:
+      name: ReportsnReports
+      domain: reportsnreports.com
+    quality: 17
+  - title: "Global Face Recognition Technology Market Size, Status and Forecast 2021-2027"
+    excerpt: "Pages Report] Check for Discount on Global Face Recognition Technology Market Size, Status and Forecast 2021-2027 report by QYResearch Group. Market Analysis and Insights: Global Face Recognition Technology Market"
+    publishedDateTime: 2021-07-10T09:01:00Z
+    webUrl: "https://www.reportsnreports.com/reports/4660488-global-face-recognition-technology-market-size-status-and-forecast-2021-2027.html"
+    type: article
+    provider:
+      name: ReportsnReports
+      domain: reportsnreports.com
+    quality: 16
   - title: "Global Automatic Speech Recognition Market Size, Status and Forecast 2021-2027"
     excerpt: "The global Automatic Speech Recognition market size is projected to reach US$ XX million by 2027, from US$ XX million in 2020, at a CAGR of XX% during 2021-2027. With industry-standard accuracy in analysis and high data integrity, the report makes a ..."
     publishedDateTime: 2021-07-10T09:05:00Z
@@ -92,6 +110,15 @@ related:
     provider:
       name: Financial Buzz
       domain: financialbuzz.com
+    quality: 0
+  - title: "Global Speech and Voice Recognition Market Size, Status and Forecast 2021-2027"
+    excerpt: "Pages Report] Check for Discount on Global Speech and Voice Recognition Market Size, Status and Forecast 2021-2027 report by QYResearch Group. Market Analysis and Insights: Global Speech and Voice Recognition"
+    publishedDateTime: 2021-07-13T08:23:00Z
+    webUrl: "https://www.reportsnreports.com/reports/4662277-global-speech-and-voice-recognition-market-size-status-and-forecast-2021-2027.html"
+    type: article
+    provider:
+      name: ReportsnReports
+      domain: reportsnreports.com
     quality: 0
 
 secured: "TLXsgEXK0HjMZjegTvXDNHcaR/QRP5Ys4IwEu3YM60nWktigZwSTiVhOlHIGgGQAaLnjPTi+LRwb3nbJsclOi8q58TlexBEqqguy62Xls7dlNI01FMIjVBXmzVTJ5u/gfq+bHchdUFxsIyF1W/+xMBiX3xQ8ovgnD1+vC+5dLwN+aTT7WDedYf14Nyns0aK3e9zB1VpL8neHn69zeMZPdgQl4JicrUKC+Vc8Qv5ZcHji4HbJ911XutZDW2UlM46n0TEwUk9pfQDRgkgAHOqwTL8cXJg2saepooZ1S9qNBSFcIGz54/9Ye+46/gqEIcjHw17m10/82eAYwwkaPusPgtTjHAtKAyT4iDfmQR/VFas=;aNsRr3K+MVgpJ9HHZNNQ6Q=="

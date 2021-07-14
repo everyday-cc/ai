@@ -3,8 +3,8 @@ category: news
 title: "Informatica Expands Cloud Footprint on Microsoft Azure Germany"
 excerpt: "New Intelligent Data Management Cloud on Azure Bolsters Cloud Momentum in the European region FRANKFURT, Germany,  /PRNewswire/ -- Informatica, the enterprise cloud data management leader, today announced it will make its Intelligent Data Management Cloud (IDMC),"
 publishedDateTime: 2021-07-13T07:13:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/2021/07/13/9407196.htm"
-webUrl: "https://www.tmcnet.com/usubmit/2021/07/13/9407196.htm"
+originalUrl: "https://www.tmcnet.com/usubmit/-informatica-expands-cloud-footprint-microsoft-azure-germany-/2021/07/13/9407196.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-informatica-expands-cloud-footprint-microsoft-azure-germany-/2021/07/13/9407196.htm"
 type: article
 quality: 34
 heat: -1
@@ -59,6 +59,6 @@ related:
       domain: businessinsider.com
     quality: 24
 
-secured: "7grvPHCLXz1303MFjmr+b59MJ+MFtCUEuWpICsTYRP/Ffd6kgQIrm1SAu8FXzeDGGzoxrXhM6Qyota9RNmhX+Wm1EWPIAv8qywQ2uhneyKQizhLt0njF88PPGfhAHbiOhnd8WELwiobcqsBs/bUCis3rdwx4qtIsxt8WHM/VKLxQsgBOxGDkJM6d84mQcwrt7r0A3kVSQo0blVY4cu3JnP3IfVKQqyNEtHF5MAcO3LZgoulmgsoOxLPPVWdsX6BOa3EO73WyZuivV3LfkGrhZeXDymLtHoDsaBKJ1Lmv/SnKk0UdpQlwnP/ZwcMbd8LtiEfZ1oVRYwgwmEsZYcQ8euKjz8lebqY9v8sVcpbIPjSWprqzWnGaokKdDKwChTU5I+T5woY0sXgxfuIfQhlfjp68a+Y3U6kuagW8yvtCE/DxmNKJN3iuvpizMc3YgWV+Ogz93TSwbSjwPUS4Y8Dtaf0P5Z2CwWBa4qHPIQirNbM9Z6HwENmA8fhfsV/t5C1ZXHJsZ+XVmenvNFxe2TEAVA==;9L5UbHaih2w8/pn20/omuw=="
+secured: "/SaQOaAjd5HrIy9k3/ddtsYH7kfg9k9e4ham4FnonmJ47GMXdMt1GkpuqFBM2I3rPSIR0dOxsV0/W28/tJVM02t3jls9KzZiSjQIp2bYID2SrVqSb5xEVmHWBL8MRrbBrXG+zul6Pa9JQ/V0nKzhZWBWS+tWM/FhsWXMI6T6cqkpL9ql+uJD4SqzIbXN1Rb7hBdLObrDnQjuj/CKmVT9ckt9ZMAW2ez7gIcEUFlX/fp+O1/8/zyhB2AD85Pq3d4J5uKuydJlgcaSMPZiux9Ju4J80zKXVMtTxJhyOVHmnTyey6okTglOTE/kSNgp6TVtClc9PrNKjNPuU23rZ+n91+njj8jjgP9ZojuXkHsV54GiM1xVnCr6Rh9vIVPPDJzv0teKDSLRuhVPbJ1E5mQ9xXp62m+VeLh5+31qGAq3zfs1vsjOqgZtYbrk9eGjT6TvcVMY7yB7FpF01dmU7T/xM+o/FxbEurRCQt9lCEyKbwWfQU3gPCZ2G5ffxoMXuZXa6prnVe+2PrYxCLd6QsNzHQ==;ik8HkP9xkHztitcbB0SbEQ=="
 ---
 

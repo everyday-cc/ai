@@ -23,20 +23,43 @@ topics:
   - AI
 
 related:
-  - title: "Whether to Save a Robot or a Human: On the Ethical and Legal Limits of Protections for Robots"
-    excerpt: "Proponents of welcoming robots into the moral circle have presented various approaches to moral patiency under which determining the moral status of robots seems possible. However, even if we recognize robots as having moral standing,"
-    publishedDateTime: 2021-07-10T06:50:00Z
-    webUrl: "https://www.frontiersin.org/articles/10.3389/frobt.2021.712427/full"
+  - title: "Robot Operating System Market Size 2021 by Company, Product introduction, Products Sales Volume, Revenue, Price and Gross Margin to 2030"
+    excerpt: "In a recent published report, Kenneth Research has updated the market report for Robot Operating System Market for"
+    publishedDateTime: 2021-07-09T17:02:00Z
+    webUrl: "https://www.marketwatch.com/press-release/robot-operating-system-market-size-2021-by-company-product-introduction-products-sales-volume-revenue-price-and-gross-margin-to-2030-2021-07-09"
     type: article
     provider:
-      name: Frontiers
-      domain: frontiersin.org
-    quality: 45
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 53
     images:
-      - url: "https://3718aeafc638f96f5bd6-d4a9ca15fc46ba40e71f94dec0aad28c.ssl.cf1.rackcdn.com/article-marketing-message-79982763-254d-4bb6-96b8-126758de1166.png"
-        width: 600
-        height: 600
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
+  - title: "Conversational Artificial Intelligence Market Size 2021 Report Includes Raw Materials Sources, Major Players, Export and Import by Regions"
+    excerpt: "In a recent published report, Kenneth Research has updated the market report for Conversational Artificial Intelligence Market for 2021 till 2030. Report further now discusses; the various strategies to be adopted or being adopted by the business players across the globe at various levels in the value chain."
+    publishedDateTime: 2021-07-12T13:39:00Z
+    webUrl: "https://www.marketwatch.com/press-release/conversational-artificial-intelligence-market-size-2021-report-includes-raw-materials-sources-major-players-export-and-import-by-regions-2021-07-12"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 37
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Product Transformation Market Outlook: World Approaching Demand & Growth Prospect 2021-2026"
+    excerpt: "The latest study released on the Global Product Transformation Market by AMA Research evaluates market size, trend,"
+    publishedDateTime: 2021-07-13T21:13:00Z
+    webUrl: "https://www.marketwatch.com/press-release/product-transformation-market-outlook-world-approaching-demand-growth-prospect-2021-2026-2021-07-13"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 24
 
 secured: "xzg59EPi85+ODuRtlX/M4Kk4ZXsaCqkNknDl4vYFkpr9LF94KNAQsNC3wsoskd6Xyn6reXAmUaKlbxxEKaU386JolOpPvJvDZlnnvHrsM6mm7qCg3MN13MIYaF1WI31OdMoTNsSewt9Q+52zVZIrgz/2UT0fAVTPqlujNbbzItcAsQCkTZDLl7U2iKjrEHH01bDtmqbScMBIO4kz45xFMsiGa7kZwJIMiZaNjeJBlofq2xsZqy80hBgMjHVbsyPZqqmWk4qphqaIg0078WSpJNCiz2g0nzP8VYJm2dZeBZo3jHxOR6+QzpZrFLuidf3PwmDOz2aAAVbh9GFRdGFy/jSqBoGjLZzabpNNowhiddo=;i94Mhs9aMNt9n11sT6Pnqg=="
 ---

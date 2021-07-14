@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/07/13/getting-to-production-ai-faster-w
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/13/getting-to-production-ai-faster-with-a-data-centric-approach/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 87
 published: true
 
 provider:
@@ -28,17 +28,6 @@ images:
     width: 1200
     height: 600
     isCached: true
-
-related:
-  - title: "AI bolsters human-centric disaster risk reduction"
-    excerpt: "The impact of natural hazards could worsen in the years ahead, with more frequent, intense events. AI is a tool for countries to manage, respond to disaster risks."
-    publishedDateTime: 2021-07-09T14:26:00Z
-    webUrl: "https://www.preventionweb.net/news/view/78891"
-    type: article
-    provider:
-      name: Prevention Web
-      domain: preventionweb.net
-    quality: 19
 
 secured: "UJPVnTo1WYv70lhLUnayey1yvPjHqiR38Kn+kwv4sEjP7MrDHdfu5JveChXuED5j/1DUHdyUBe8umxZRICG0n39Vx17g90y4fwreoBgKurFQSlhxYbBFBmqySJW/v1jIUCY569DOsIGCGfFyU+HND711f78W6gY8rUIV9H3U3qM/IVGt1nTRBA1VMIT0f1ldpoHfC7Rssl1UeyjBceLPrmiHEZgUIae9e9NzvA+D3aQJaZWX4Mlxwv2aGRrDrCMQaOjPfQP75+CX43SYCokdDm6AhSFEL1MBVhZP4Sw93rACFomqCR29cfOlzfGCQPvxwt4XS9O6+EuCxzxiLyHNTgiejrqYOPtBrNXCBia6R/CSjx04CrQ2sUhH16DuR+X/AqdegdVOl1tgUbE+Ez9m6fw3qFvVftxi5fFFb7m78mFg+SQ53Os0jN+IzUCELZZx4XYvKtMoGGMkTu8y64BQ50DuwBkzyoD3+mC6KRFtHnscJbpSm0JrBfrAusa/Ft6NS1tu7aomiqtb2F5OiLts+A==;/V1iAmJ4VWbESbWhzrIgTw=="
 ---

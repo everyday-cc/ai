@@ -29,20 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence in Telecommunication Market Size Insight Report 2021 to 2030 by Types, End Users and Regions with Analysis"
-    excerpt: "Jul 09, 2021 (AmericaNewsHour) -- In a recent published report, Kenneth Research has updated the market report for Artificial Intelligence in Telecommunication Market for 2021 till 2030. Report further now discusses; the various strategies to be adopted or ..."
-    publishedDateTime: 2021-07-09T14:57:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-telecommunication-market-size-insight-report-2021-to-2030-by-types-end-users-and-regions-with-analysis-2021-07-09"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 37
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Facial Recognition Phone Market Size 2021: Market Share, Top Companies report covers are Vivo,Apple,HTC,Huawei,Lenovo,LG,Meizu,Nubia,Oneplu"
     excerpt: "The MarketWatch News Department was not involved in the creation of this content. Jul 12, 2021 (The Expresswire) -- “ Facial Recognition Phone Market “ Size, Status and Market Insights 2021, ,Facial Recognition Phone Market By Type (Operating System ..."
     publishedDateTime: 2021-07-12T12:58:00Z

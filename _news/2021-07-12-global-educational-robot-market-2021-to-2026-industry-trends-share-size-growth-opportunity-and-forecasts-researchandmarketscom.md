@@ -19,6 +19,20 @@ topics:
   - AI
 
 related:
+  - title: "Artificial Intelligence Market Size predicts favorable growth and forecast 2020 - 2026"
+    excerpt: "Market Research Engine has published a new report titled as \"Artificial Intelligence Market Size By Offering ("
+    publishedDateTime: 2021-07-13T20:14:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-size-predicts-favorable-growth-and-forecast-2020---2026-2021-07-13"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 61
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Military Robots Market Share, Size, Industry Players, Revenue And Product Demand Forecast Till 2024"
     excerpt: "The government of various nations is continuously investing in automation technology for surveillance services by"
     publishedDateTime: 2021-07-10T16:56:00Z
@@ -33,20 +47,24 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Robot Operating System Market Size 2021 by Company, Product introduction, Products Sales Volume, Revenue, Price and Gross Margin to 2030"
-    excerpt: "In a recent published report, Kenneth Research has updated the market report for Robot Operating System Market for"
-    publishedDateTime: 2021-07-09T17:02:00Z
-    webUrl: "https://www.marketwatch.com/press-release/robot-operating-system-market-size-2021-by-company-product-introduction-products-sales-volume-revenue-price-and-gross-margin-to-2030-2021-07-09"
+  - title: "Global AI Translation Market Size, Status and Forecast 2021-2027"
+    excerpt: "Pages Report] Check for Discount on Global AI Translation Market Size, Status and Forecast 2021-2027 report by QYResearch Group. Market Analysis and Insights: Global AI Translation Market The"
+    publishedDateTime: 2021-07-10T07:26:00Z
+    webUrl: "https://www.reportsnreports.com/reports/4660415-global-ai-translation-market-size-status-and-forecast-2021-2027.html"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 53
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
+      name: ReportsnReports
+      domain: reportsnreports.com
+    quality: 17
+  - title: "Global Face Recognition Technology Market Size, Status and Forecast 2021-2027"
+    excerpt: "Pages Report] Check for Discount on Global Face Recognition Technology Market Size, Status and Forecast 2021-2027 report by QYResearch Group. Market Analysis and Insights: Global Face Recognition Technology Market"
+    publishedDateTime: 2021-07-10T09:01:00Z
+    webUrl: "https://www.reportsnreports.com/reports/4660488-global-face-recognition-technology-market-size-status-and-forecast-2021-2027.html"
+    type: article
+    provider:
+      name: ReportsnReports
+      domain: reportsnreports.com
+    quality: 16
   - title: "Global Automatic Speech Recognition Market Size, Status and Forecast 2021-2027"
     excerpt: "The global Automatic Speech Recognition market size is projected to reach US$ XX million by 2027, from US$ XX million in 2020, at a CAGR of XX% during 2021-2027. With industry-standard accuracy in analysis and high data integrity, the report makes a ..."
     publishedDateTime: 2021-07-10T09:05:00Z
@@ -88,6 +106,15 @@ related:
       name: ReportsnReports
       domain: reportsnreports.com
     quality: 1
+  - title: "Global Speech and Voice Recognition Market Size, Status and Forecast 2021-2027"
+    excerpt: "Pages Report] Check for Discount on Global Speech and Voice Recognition Market Size, Status and Forecast 2021-2027 report by QYResearch Group. Market Analysis and Insights: Global Speech and Voice Recognition"
+    publishedDateTime: 2021-07-13T08:23:00Z
+    webUrl: "https://www.reportsnreports.com/reports/4662277-global-speech-and-voice-recognition-market-size-status-and-forecast-2021-2027.html"
+    type: article
+    provider:
+      name: ReportsnReports
+      domain: reportsnreports.com
+    quality: 0
 
 secured: "ycpuoYleRHBftByK+gn41LSOwfdxfZ/Vl7CBgbDr3o97juv2pfR3vUoXk/eNKId9Ork8ThG+/FKvkxQrWox6Z9U6cu6D0PaVmJFmAqDJ/PW7i7ezreHlR2GuG+kDuajOESrbJVPHqhJL9pEJkwf+lFyLLyw9auBE7xo73kmf2iH0gSop9PLW4obZdVkkWtM0Y65ceOfAhppUTpQIUAD3AIZ3Ae7VLxNHnw0ocSW1L4rlu/bfakuADlX0VkLfGC8JSHSJvZToBhCAXyezqwZWMeASEQBBlv4CwC3hUZfDho+5FVemsHo1gVo0FdASbbW6UsOM5k8JOjyHJjInwm/sBw7Ww1ZmvaZDUiYN7Yemcrw=;p0HndfPmwFh9azS+/OwPXw=="
 ---
