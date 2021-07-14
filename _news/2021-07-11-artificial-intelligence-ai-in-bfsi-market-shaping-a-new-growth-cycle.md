@@ -38,6 +38,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence (AI) in Automotive Market Pricing Strategy, Industry Latest Trends, Top Company Analysis by 2026"
+    excerpt: "Selbyville, Delaware, MarketStudyReport.com offers report on Global Artificial Intelligence (AI) in Automotive Market that evaluates industry growth trends through historical data and estimates prospects based on comprehensive research."
+    publishedDateTime: 2021-07-14T18:24:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-automotive-market-pricing-strategy-industry-latest-trends-top-company-analysis-by-2026-2021-07-14"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 57
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence In The Automotive Market Analysis & Forecast For Next 5 Years"
     excerpt: "The latest independent research document on Artificial Intelligence In The Automotive examine investment in Market It describes how companies deploying these technologies across various industry verticals aim to explore its potential to become a major business disrupter The Artificial Intelligence"
     publishedDateTime: 2021-07-10T16:57:00Z

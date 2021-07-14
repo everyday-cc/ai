@@ -76,6 +76,15 @@ related:
         width: 612
         height: 355
         isCached: true
+  - title: "WHO Releases AI Guidelines for Health"
+    excerpt: "A new report from the World Health Organization offers guidance for the ethical use of artificial intelligence in the health sector."
+    publishedDateTime: 2021-07-14T18:34:00Z
+    webUrl: "https://cacm.acm.org/news/253984-who-releases-ai-guidelines-for-health/fulltext"
+    type: article
+    provider:
+      name: acm.org
+      domain: acm.org
+    quality: 19
 
 secured: "1/lKeeheY3Vg/Wz7O9/h0ODG8/0f+/9bRbPkVDuHmVrjQfOrU7xhEJnwWlHWKfrFAQ80jlctSRXhrbXNNyY994LllD4j3X52ZhP+KnMe2r4q4NMzsNSdeZ0mnKEoKPYJt+brbJU2HUxRgXUEjRg28XzxHQoi+9MqAJJ7wgQsz3iC6XRax3FALpaWtYWGOLJbJ+cfKxEt5907drdi04zX+FJ3rNBteJhuv2cKLdI57xXe7PAUPsIIJ5SAp+RKqifBoKyJs9Wdg8LTlJd7VrtAAe6h3Auc0+P6B3n5crltOurD/McxBg1iS6QI7Bs9cnMIB/F3S6w4ai9vFM09UqBIuWVux049BNEU55GJQIiYhrRPyLWvFCxD18e9DTjxjmwyRAtquQvg3NbZLAzP0TSl5oNZQZ2lR9UWMu/7X0Fg2GRI4VEdVkgKE8ugxUjHfE0ozI3DWO93VG2BAj5FXRRAITmSP9+izGj2T3TH/ahwvaD5lLyrCJp+x0Q/9EvvUQk2HhmTD4ZkmLhPKfSgxiv27w==;wZmw5AFA5cIK7J4nuZjLvQ=="
 ---

@@ -40,6 +40,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence (AI) in Automotive Market Pricing Strategy, Industry Latest Trends, Top Company Analysis by 2026"
+    excerpt: "Selbyville, Delaware, MarketStudyReport.com offers report on Global Artificial Intelligence (AI) in Automotive Market that evaluates industry growth trends through historical data and estimates prospects based on comprehensive research."
+    publishedDateTime: 2021-07-14T18:24:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-automotive-market-pricing-strategy-industry-latest-trends-top-company-analysis-by-2026-2021-07-14"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 57
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence (AI) in BFSI Market Shaping A New Growth Cycle"
     excerpt: "HTF MI Published Latest Global  Study by in-depth analysis about current scenario, the Market size, demand, growth pattern, trends, and forecast. Revenue for  has grown substantially over the six years to 2020 as a result of strengthening macroeconomic conditions and healthier demand,"
     publishedDateTime: 2021-07-10T17:50:00Z
@@ -196,6 +210,6 @@ related:
       domain: arnnet.com.au
     quality: 5
 
-secured: "MkGEOYsR6cfZr+fCRJ8atkYjeHuXGgQSfsYM5h8sslnOstTXnCtQQYeepspeFtSPketQu9COjRtyakGweYoOWcwICyrM3+K5R/iuwuRhh5kAaWD6FLDPjkQmq3BEHsEgtO1ey3PoD+AFKcQomB8jFoDn1v+GLVs6KX91hrqWyuO7+gkojO81EsblA7UE/Ueia/UEaMDW27mP9y9l0E/tUtfEbutm6XcaM98kgQYAyVO1X/TcYCIdIIUBsOVVDad5QLCJvPijpHRPXzOXVUjj2R/r2dQ9NiRMh/zcTmui+ni1ngeUYh3r+eHNcQFZGpbbWhY2OdppDUwjz07rslK9NZit6zFkKNkB2RrYQVoWvVk=;gEizP2WU6p9V1tv44uNK3w=="
+secured: "qQVKPik4FAIfXjMyQEsUY3TRHYkgCV+gQGsOwogb+gk1jICuudQDHVa3l+tI9lxFMDiAxueM0Jf5tTCt6Rurc2P1nUW/yuGcr3cRdbQqn2B2EbhNAHJpZlljus9ARlgYhY7DyE+7hM7ARZ3+/dog/EfuDQPZZVbxcnskkifRBUCcSJu+wLfWHq6d4RPaRnsMYUbGQVqw7SqjyAr1A7soVB72rZI9tMLIYfBXECUiE3QWmiRUaXS4Duz3daU3qjzKcB75Yud1Kxd4UT+MsDMfXY5vE7vDp0mT39HWwvsR4hPsld36SQZNEchmqOlq/M10Y3KcYybzkpNgaGiTe+JsAjY8k2mx0h2OBlyk8xOhkc8jMZMxzVJhl0tq79i4YsctrOtKLE4BIcoWf9IZ/oeLJ81nTO1PYLlvFVQDUl1JgI0NTqecCX7NontdYBat41ojpcLhoYiolE5U9xMc3RPmBq7mIwUvo0jg6cVtCWuoncZ17d3p/yvTfywr+tpRpYoEF6ZHn2UWE2GSgnbG+Kgf7w==;/7QJUx3ztmI/9BTbQFDEiQ=="
 ---
 

@@ -28,16 +28,16 @@ related:
   - title: "Republicans and Democrats concerned about facial recognition technology"
     excerpt: "Law enforcement must be careful when using facial recognition technology. “We need to ensure that the adoption of this new technology that does not further erode trust between law enforcement and the communities they serve,"
     publishedDateTime: 2021-07-13T21:24:00Z
-    webUrl: "https://www.wfla.com/news/republicans-and-democrats-concerned-about-facial-recognition-technology/"
-    ampWebUrl: "https://www.wfla.com/news/republicans-and-democrats-concerned-about-facial-recognition-technology/amp/"
-    cdnAmpWebUrl: "https://www-wfla-com.cdn.ampproject.org/c/s/www.wfla.com/news/republicans-and-democrats-concerned-about-facial-recognition-technology/amp/"
+    webUrl: "https://www.wsav.com/news/national-news/republicans-and-democrats-concerned-about-facial-recognition-technology/"
+    ampWebUrl: "https://www.wsav.com/news/republicans-and-democrats-concerned-about-facial-recognition-technology/amp/"
+    cdnAmpWebUrl: "https://www-wsav-com.cdn.ampproject.org/c/s/www.wsav.com/news/republicans-and-democrats-concerned-about-facial-recognition-technology/amp/"
     type: article
     provider:
-      name: WFLA
-      domain: wfla.com
-    quality: 59
+      name: WSAV-TV
+      domain: wsav.com
+    quality: 61
     images:
-      - url: "https://www.wfla.com/wp-content/uploads/sites/71/2021/07/CBD9E120D58140A1A6D82774464D865D_7.jpg?w=1280"
+      - url: "https://www.wsav.com/wp-content/uploads/sites/75/2021/07/CBD9E120D58140A1A6D82774464D865D_7.jpg?w=1280"
         width: 1280
         height: 720
         isCached: true
@@ -116,20 +116,6 @@ related:
       - url: "https://img.securityinfowatch.com/files/base/cygnus/siw/image/2021/07/bigstock_Facial_Recognition_System_Iden_387020311.60ecba89a36b9.png?auto=format&fit=max&w=1200"
         width: 1200
         height: 800
-        isCached: true
-  - title: "New state laws require more police transparency, limit use of facial recognition technology"
-    excerpt: "One of the laws makes Maine the first state in the country to apply strict limits on facial recognition technology."
-    publishedDateTime: 2021-07-10T01:14:00Z
-    webUrl: "https://www.pressherald.com/2021/07/09/new-state-laws-require-more-police-transparency-limit-use-of-facial-recognition-technology/"
-    type: article
-    provider:
-      name: Portland Press Herald
-      domain: pressherald.com
-    quality: 29
-    images:
-      - url: "http://multifiles.pressherald.com/uploads/sites/4/2017/01/pph-icon-red-linkforFB.png"
-        width: 300
-        height: 300
         isCached: true
 
 secured: "O/ti3qqa/gPDY7IXXUKLQDJgPTCbWNf5SQySKMVluKpD/uBvZkFTvO5p2tT1CDmTYWD4B22f/sI/UutCUZ0c2vLzpi2JuYtRLh+xANuhtihzMHSkkv8A1jdXyfOq4xSnK+ENabhwJGcEw8rFqHn8i9kYDYuErFumpBvyEifFARVZJbmkAi9tCYc78mpFww6muGBYCgHzAC5GpWKiQZuL7ZeXmHvISuROgS5/YoDFyA5IbReo6f1725joMRZOQ8eM7E0dkNKwCnvz88FZfptHFM0Vq6eiwgSLntTiDGFD48L9Hw+hnuCzVQR1dBdkvutliSAiNKqlhWFnArEdypkLzAByNbsYuuxzKGUvCp5hYz0=;MKbWhCR8Su4ALPfOr2CtVQ=="

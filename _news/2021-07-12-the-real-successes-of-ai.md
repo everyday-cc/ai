@@ -9,7 +9,7 @@ ampWebUrl: "https://www.infoworld.com/article/3624703/the-real-successes-of-ai.a
 cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3624703/the-real-successes-of-ai.amp.html"
 type: article
 quality: 89
-heat: 119
+heat: 129
 published: true
 
 provider:
@@ -79,6 +79,15 @@ related:
         width: 612
         height: 355
         isCached: true
+  - title: "WHO Releases AI Guidelines for Health"
+    excerpt: "A new report from the World Health Organization offers guidance for the ethical use of artificial intelligence in the health sector."
+    publishedDateTime: 2021-07-14T18:34:00Z
+    webUrl: "https://cacm.acm.org/news/253984-who-releases-ai-guidelines-for-health/fulltext"
+    type: article
+    provider:
+      name: acm.org
+      domain: acm.org
+    quality: 19
 
 secured: "i5EpqKvWfprjlVEnLXBdkvqzdrlXofm6W5qM7narX+XvapVjK7JaEeNl7Ysl+Hjv8MZXk1Xj4kxM1otd98xKTW3fsBNaABPzxUPO/pi5oK0Ngw+2Vfu/LSBw0AGw6AhaH1U45KAwCU6fYzGJN/LgDZQiQJpHCDWCz3QsXT6mfpGvW7EsxQD1+kv465CXdud64OSEACQ5EfPWbxAFsI3b99OW3yF1mWWm2uDIpfEQHi4vsrO2dTTk08jfb9Rj2gpK6pPtgOySlkh13pMbdLPafT3xU88oRypFT/Psfb5IV8XHoE4pLVoY10wvI52NISxcZ8OLrbd6O4J8KOWSS632IVtTIzSfcMg+EfcPWS/GX7M=;nbcKMAxbMIrxof5NzJF4xQ=="
 ---

@@ -33,7 +33,7 @@ related:
     provider:
       name: Insider Monkey
       domain: insidermonkey.com
-    quality: 39
+    quality: 41
     images:
       - url: "https://d2gr5kl7dt2z3t.cloudfront.net/blog/wp-content/uploads/2021/03/31223117/robot-2301646_1280.jpg"
         width: 1280

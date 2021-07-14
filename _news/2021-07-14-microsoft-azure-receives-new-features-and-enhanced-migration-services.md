@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/07/14/microsoft-azure-receives-new-feat
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/14/microsoft-azure-receives-new-features-and-enhanced-migration-services/amp/"
 type: article
 quality: 104
-heat: 224
+heat: 234
 published: true
 
 provider:
@@ -158,6 +158,20 @@ related:
       name: Telecompaper
       domain: telecompaper.com
     quality: 34
+  - title: "USF-developed AI system unites global agencies to identify emerging infectious diseases, receives support from Microsoft"
+    excerpt: "Leadership in providing with the public consistent projections of COVID-19 infections and hospitalizations has prompted the"
+    publishedDateTime: 2021-07-14T18:46:00Z
+    webUrl: "https://www.miragenews.com/usf-developed-ai-system-unites-global-agencies-595926/"
+    type: article
+    provider:
+      name: Armed robbery in Revesby
+      domain: miragenews.com
+    quality: 29
+    images:
+      - url: "https://www.usf.edu/images/news/2021/usf-developed-ai-system-unites-global-agencies-to-identify-emerging-infectious-diseases-receives-support-from-microsoft/microsoft-snippet-2.jpg"
+        width: 320
+        height: 325
+        isCached: true
   - title: "Voice Recognition Systems Market Is Booming Worldwide | Nuance Communications, Microsoft, Agnitio"
     excerpt: "Announced Voice Recognition Systems study with 200+ market data Tables and Figures spread through Pages and easy to understand detailed TOC on “Voice Recognition Systems. Voice Recognition Systems industry Report allows you to get different methods for maximizing your profit."
     publishedDateTime: 2021-07-12T18:40:00Z
@@ -182,6 +196,6 @@ related:
       domain: thepacker.com
     quality: 19
 
-secured: "9zUjf5HP3BYfVkb5SW2GnFNaZsDB9HjLSMs/XG1MJBqN+P8D/Gbu3rNFimpjJDJFuKLtwq3A6dH8+vOSDnjE7cyA4SsAJktT0+OLzcdZ0wrnPPPubKx1g49acBzIToKJRW2HaktUO7QeycyO8UrdF8ns9rApyiJq7O2IufDHsmW6I04TqVDPE5k+7D63ODDt/vbhYfwreBKpXqYStvkwSsVG2/KLFVDx/qZeVO3qPn6IiKn/yPWoQbijiud6kbbNhIwR4MHa5ycGfBkDxJdE0tLhkFSruQJZrHSrfVsX4i8QuvmsFJo9HE1lzQVLY7Vh5pV7Td1Yz1xfBTOHTAwoDFwrOZTzHkbyMzIoqdt0zBs=;cc2qTZuimuvTosq4jo23fw=="
+secured: "W5c24OnjwYjbjrNAkCtKmV86/3DZTPP615sdS8b2SUpKosr1qaUqlpGPWyGPxbJnpfutTgFAV1RbMJZbtwJwVL7RWAO9EbMel2PLRG0SfVW71xSFbL137nhwpa7LzCBrQxzmQOdZdXLhIZ9NGvjLkmnzru5Kh78UnkkgNa6D86P+rB9sqPgr2M76y/ywsLM3q0+zqkW/+oo6EwLz+gkdC6Xzv0G3U+pmpF/su953s9wlr0jd3QwB8Qw/BWouMkb2fJOU3N/2v2F8HRIVNUmyaUHFwtYlBpzlB09h0Dwz4lKWWPMkI5SgG6HeWaWZnntQ7RmeTk5kklnmleNiknxoEZAcQ7XMhyK/hnYaDIQ7HzIkK+8ZThPlvQHO3LFMUae8aBolTAXmeOCXUtNBJs/fYIjKkUms7p1vSqkeXRzcsV3nRQm+Up+7ug+AMQOkrV8RSZ+9x/SVSuYzc8FlmLKv3sHtCM99zxchp6zh05UuSX6PhUZMWDPIwaoxDAdHs0nGN2oFtjBks/lMmCe6d+D09A==;yHZQhr3SppH57dE3RxcaRQ=="
 ---
 

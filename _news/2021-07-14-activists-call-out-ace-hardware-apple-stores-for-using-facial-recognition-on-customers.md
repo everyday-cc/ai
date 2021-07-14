@@ -67,6 +67,20 @@ related:
         width: 1200
         height: 793
         isCached: true
+  - title: "Rights Coalition Demands US Retailers Reject Use of Facial Recognition"
+    excerpt: "On the heels of a congressional hearing that highlighted concerns about facial recognition, more than 35 civil rights groups on Wednesday collectively called for retailers to reject the technology in their stores \"to protect the privacy and rights of shoppers and staff."
+    publishedDateTime: 2021-07-14T18:47:00Z
+    webUrl: "https://www.commondreams.org/news/2021/07/14/rights-coalition-demands-us-retailers-reject-use-facial-recognition"
+    type: article
+    provider:
+      name: Common Dreams
+      domain: commondreams.org
+    quality: 54
+    images:
+      - url: "https://www.commondreams.org/sites/default/files/styles/social_share_image/public/2021-07/FacialRecognition-Russia-Store-2600x1361.jpg?h=d3fce584&itok=4suLjali"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "SoftBank backs facial-recognition startup"
     excerpt: "SoftBank Group is leading an investment in AnyVision Interactive Technologies that values the facial-recognition company at over $1bn"
     publishedDateTime: 2021-07-12T08:55:00Z

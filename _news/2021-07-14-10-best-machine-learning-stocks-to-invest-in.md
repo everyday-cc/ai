@@ -6,8 +6,8 @@ publishedDateTime: 2021-07-14T16:58:00Z
 originalUrl: "https://www.insidermonkey.com/blog/10-best-machine-learning-stocks-to-invest-in-960815/"
 webUrl: "https://www.insidermonkey.com/blog/10-best-machine-learning-stocks-to-invest-in-960815/"
 type: article
-quality: 39
-heat: 39
+quality: 41
+heat: 41
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - AI in Finance
 
 images:
   - url: "https://d2gr5kl7dt2z3t.cloudfront.net/blog/wp-content/uploads/2021/03/31223117/robot-2301646_1280.jpg"
@@ -54,6 +55,6 @@ related:
         height: 533
         isCached: true
 
-secured: "OXWNgRgp4xq27mLXQEaDsiCKThpwZdndX0qdbdxMilN7l00axXKvhsvcU6NBVjGkcLr71VxcZXosLN7DRZFzg53cv+n8GyIaKsYSHCBeBdqs7uKhw+oMDhvu2lB6dxm2lb6FfT4D5pjRCZLBC62trMXOtWwJv6HDF7aVNXSH5KKSOXJ4YjxXtQJYbggps4tGI0CcAQdE24wH8us3W5/5xhhHIZNwwDAxhM9ovXAHxFiFkB1WG3bu/xlowYYvhKti6tb2fqb3lISdZj526jtvh5iEoOGKSvpigk5GmNiUkZmX8y8wwABxu6Wc7YQTDOmzxGowhns4UJ9tP55MXvr3K/gZxIPFpoEYgTYlQJgl2cA=;lBPi8u0AHIc+O7Ry6f03kg=="
+secured: "hB+invustgQ8dam/Jf0n2FAxGAamGRI8b+1SPXjv62BOmQj6UFDoSjP1lnlup7C5K6tz9U635DFefhGRVGFHeuRVJ4+uBHYk5AMgXwqhTFPXhLgYTjMUtrISaYcT/Hr0FrVzQo9VuWl9QhevdoVtevbS2KUx8mqKM2Oh1DpT2/Tm1zgRz4hPvL0FxUNYNkUGLOm9ox/1Eb7AaBKsTVqCdj4m4HrjpvBY8v/gcffcrwEb8z4ehGkLk4lPnfYbLM5J0jLW2LdLICxVD9OlYGpz30TJE3wrC7AcnYVRT6So+g8WqLht4ppXNqKTurtoyaf5IA7/vhRXFbaIXfXpv8BUC1IrSBOWyhK96tqnj+tN6gT864P3ywknnzVDKLcIvRUleP1mLeXRJ8b3T9V73VFCvuajVVvJqy61ktY9w1dvnoyUoHkUT2pZ85Omv1jcQzmGx2K43uYVBUa82rlEa7xVAzmWrrdCPWZnv7GfiaP7OaE/5fF0BQohFFtHZqzikf979n73jL+v883szgtnEZUtTA==;bRaB5fmzAOIUBrcZv0AkFA=="
 ---
 

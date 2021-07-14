@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/07/11/ai-has-become-a-design-problem/am
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/11/ai-has-become-a-design-problem/amp/"
 type: article
 quality: 87
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -28,6 +28,22 @@ images:
     width: 1200
     height: 675
     isCached: true
+
+related:
+  - title: "Will artificial intelligence ever out-design designers?"
+    excerpt: "There’s a concept in artificial intelligence called “the singularity.” It refers to the idea that AI will one day be able to reproduce and improve upon"
+    publishedDateTime: 2021-07-14T17:00:00Z
+    webUrl: "https://businessofhome.com/articles/will-artificial-intelligence-ever-out-design-designers.html"
+    type: article
+    provider:
+      name: Business of Home
+      domain: businessofhome.com
+    quality: 39
+    images:
+      - url: "https://s3.amazonaws.com/editoratlarge-production/images/10806/large169/BOHO_BEDROOM_%281%29.jpg?1626284280"
+        width: 1220
+        height: 686
+        isCached: true
 
 secured: "l53G0Tw1RreCE+K1RksgLqvt4KhEbOHY/YR3WJAlAWLbccPnaNPwmtD5Mz9nNkemlibCuo8sKhJQM52sqqueqO/0KAK/huwt6IusBSY6ptcX4V1U2CSzcEeKfSrmjUkLfPGrgP+KFCuvGKlqVKB2P/CmwqGatH1h0bCgZ2VwWptjfsr0sbU/GjlpNKn0+5OBiEG3XRxduwRnR0jeFlLz6utEvKiTm0G+4uvMqo1zqWzpZuOdxIcOG6TYJftE1G6AdI4pgXzCu6rJ600fjUSfHpf0zfpbhbfl19yl7XdY4ENon6L7iNXSo8od0+px6HB5kO3IVwx4zSey5uu73DoLqgCmNw8bMwpWVcKNlw12BdWs3NX4IeUCmjCRE1OppJ0Sa8yPSOjhM41N1y1ShJLY5QxJHWBhhOGT/nMszD2K9Z0AiLziq4ew89MVsVNtsaA7fUuXBjETph4bEAJbuPl73VnWkmcfvQ8u9g2MRK5Xs/lxEQhidJP/jL+BQfMTfLXQW810g5hbmyDUzNCpdfvb1g==;vXZ1c9F2Ef+82bR/IfBSrg=="
 ---

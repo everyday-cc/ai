@@ -158,6 +158,20 @@ related:
       name: Telecompaper
       domain: telecompaper.com
     quality: 34
+  - title: "USF-developed AI system unites global agencies to identify emerging infectious diseases, receives support from Microsoft"
+    excerpt: "Leadership in providing with the public consistent projections of COVID-19 infections and hospitalizations has prompted the"
+    publishedDateTime: 2021-07-14T18:46:00Z
+    webUrl: "https://www.miragenews.com/usf-developed-ai-system-unites-global-agencies-595926/"
+    type: article
+    provider:
+      name: Armed robbery in Revesby
+      domain: miragenews.com
+    quality: 29
+    images:
+      - url: "https://www.usf.edu/images/news/2021/usf-developed-ai-system-unites-global-agencies-to-identify-emerging-infectious-diseases-receives-support-from-microsoft/microsoft-snippet-2.jpg"
+        width: 320
+        height: 325
+        isCached: true
   - title: "Voice Recognition Systems Market Is Booming Worldwide | Nuance Communications, Microsoft, Agnitio"
     excerpt: "Announced Voice Recognition Systems study with 200+ market data Tables and Figures spread through Pages and easy to understand detailed TOC on “Voice Recognition Systems. Voice Recognition Systems industry Report allows you to get different methods for maximizing your profit."
     publishedDateTime: 2021-07-12T18:40:00Z
@@ -182,6 +196,6 @@ related:
       domain: thepacker.com
     quality: 19
 
-secured: "JqaRZKxBMCIciB9NHx23j+woUXZt2wmXXpdcxV5pFvNuUQK0UrwgOlVv4I/rwfty93/lx7SWMjOVADLxMfBfVGTwX7SQSGuckD2577RiFCebUH97YVsCK/6J+GvvixdHnKLM0d/gPxeQiGoBy1FKTP2Vq9jvqXJNJDLegmSyO4vLrF1z9FDXUgdGDo9g3lUbJLice5KLGEQsOO3FUlXrKnhLwIWwtzBHFEZMe5XCAwg/3cf9NimqIG+by/kRw+LlFDCaatSe+1YmROdzELotAGzEqnX4yPyj3arD7cbKHv1KmuaPK5ZMEN11V4xMrA9K5f1xeEzeAOmYS5at4IRREy+iUT00cLgq/7HJoHVZFLE=;TtFRsAaqN3GLt51AncIEtA=="
+secured: "nQxsQd2xnXgaTZm0nJM2JgEKmAEAsKSyhSjdEUM98woxObO/zmR4TrXyZRI3HWEdNF5ziMxaRSx0to2P5ZiHMqtMVC5YT0HQCnvmBz9sU9Zh57tAudI/aV3WJnST8jBdzH/ydQIHBDCR7vwpBfxhwd1e5786KhmlPeOy24Bv6Jrvp6t7YY7yyabEZOZU418ItulgAHwjf7Y4JJk9F7Y0iKOXTPLGMwVlpFk87ND3P3xXwUSoO+HhCaXZIqDzli+Nq8W4KwmA9gj4FQODY8twV0+3biEUqNmpnQcLlm2aBiRrYdqlbYhi0EMvp8LsmFi+ppidgXXchE+1XZar1pmSMDa0Q0XWLKEJcKZMMNGTzbBPpqdQCNRHUoMS5vTOeYOV7cDFmPFdDjFRaANZ0TlVr7jQK4/JeS33xgpJKWnSlySyuM9ruWD6uU97QtWGllPAZYkIOkZyxRby8JYmVCryCnxhXKNBCQ43Rf5jC4QvRYsckG/zxWzFgDDRmL2a4RONEmtMqwa+mHHvdp/3taIXeA==;beg1eyTjjoZe1KBRMox8sw=="
 ---
 

@@ -10,7 +10,7 @@
       "originalUrl": "https://www.techrepublic.com/article/report-computer-vision-adoption-expected-to-grow-significantly-in-the-near-future/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 85,
       "tags": null,
       "images": [
         {
@@ -145,15 +145,15 @@
       "title": "Republicans and Democrats concerned about facial recognition technology",
       "excerpt": "Law enforcement must be careful when using facial recognition technology. “We need to ensure that the adoption of this new technology that does not further erode trust between law enforcement and the communities they serve,",
       "sourceUrl": null,
-      "webUrl": "https://www.wfla.com/news/republicans-and-democrats-concerned-about-facial-recognition-technology/",
-      "originalUrl": "https://www.wfla.com/news/republicans-and-democrats-concerned-about-facial-recognition-technology/",
+      "webUrl": "https://www.wsav.com/news/national-news/republicans-and-democrats-concerned-about-facial-recognition-technology/",
+      "originalUrl": "https://www.wsav.com/news/national-news/republicans-and-democrats-concerned-about-facial-recognition-technology/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 129,
+      "heat": 121,
       "tags": null,
       "images": [
         {
-          "url": "https://www.wfla.com/wp-content/uploads/sites/71/2021/07/CBD9E120D58140A1A6D82774464D865D_7.jpg?w=1280",
+          "url": "https://www.wsav.com/wp-content/uploads/sites/75/2021/07/CBD9E120D58140A1A6D82774464D865D_7.jpg?w=1280",
           "width": 1280,
           "height": 720,
           "title": null,
@@ -163,13 +163,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.wfla.com/news/republicans-and-democrats-concerned-about-facial-recognition-technology/amp/",
-      "cdnAmpWebUrl": "https://www-wfla-com.cdn.ampproject.org/c/s/www.wfla.com/news/republicans-and-democrats-concerned-about-facial-recognition-technology/amp/",
+      "ampWebUrl": "https://www.wsav.com/news/republicans-and-democrats-concerned-about-facial-recognition-technology/amp/",
+      "cdnAmpWebUrl": "https://www-wsav-com.cdn.ampproject.org/c/s/www.wsav.com/news/republicans-and-democrats-concerned-about-facial-recognition-technology/amp/",
       "publishedDateTime": "2021-07-13T14:24:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "WFLA",
-        "domain": "wfla.com",
+        "name": "WSAV-TV",
+        "domain": "wsav.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -179,8 +179,9 @@
         "news"
       ],
       "topics": [
-        "Computer Vision",
-        "AI"
+        "Natural Language Processing",
+        "AI",
+        "Computer Vision"
       ]
     },
     {
@@ -330,7 +331,7 @@
       "originalUrl": "https://sea.mashable.com/tech/16612/tencent-uses-facial-recognition-to-stop-kids-from-gaming-at-night",
       "featuredContent": null,
       "highlight": null,
-      "heat": 180,
+      "heat": 190,
       "tags": null,
       "images": [
         {
