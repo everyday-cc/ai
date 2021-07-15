@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/07/13/nordstrom-cto-on-ai-powered-analy
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/13/nordstrom-cto-on-ai-powered-analytics-and-consumer-insights/amp/"
 type: article
 quality: 89
-heat: 139
+heat: 149
 published: true
 
 provider:
@@ -98,6 +98,20 @@ related:
       name: CIOL
       domain: ciol.com
     quality: 21
+  - title: "Five9 Extends its Practical AI Solutions for Low-Code Development, Voice Biometrics, Real-Time Analytics and Agent Coaching"
+    excerpt: "New features streamline the development of Intelligent Virtual Agents and help organizations easily deploy solutions to augment their contact centers with an AI-powered digital workforce. SAN RAMON, Calif."
+    publishedDateTime: 2021-07-14T17:43:00Z
+    webUrl: "https://customerthink.com/five9-extends-its-practical-ai-solutions-for-low-code-development-voice-biometrics-real-time-analytics-and-agent-coaching/"
+    type: article
+    provider:
+      name: CustomerThink
+      domain: customerthink.com
+    quality: 13
+    images:
+      - url: "https://customerthink.com/wp-content/uploads/newspaper-154444_1280-pixabay-news.png"
+        width: 1280
+        height: 1280
+        isCached: true
 
 secured: "4FVFz6rw3u//62f8v2z0zSQT+6MVTKieXsLgIJRPrOkwrvI7xUhY8SfJbfwv4a8AgCd+7a0eqoKWHIgir5g2s0jd0CjYKLkIBplA0NPgqgyctm7IogFChDurZ3eCtHMqQcRx5ANnyZo4YU1EReZAECGjQ/DyO1twdKydgS9SMl6KzMgfnWMo8GDwM2cwxh42Ja/Z52UgaNd0YleMVJUl5up1DMkQ0U6I8/ys7X4bhTnvnZ899YZqzmYfczKH59mYKQ9bwdJbkvVeuoJmXBpX3BrxZwI0+3lnFL4KlnNgr1Ga9PR8GNYMJ7z1tbhdT3v8htPG7mr9wzHB0XyZP8i5eSTo9FNG5nyDRjlfZKkEHrnvPifaR7LuSaQwLUfNNOwnHHCNstFTYpFb6D0a3Rhv7TIcuIteKfGesV2mFUhpwakUjkEjY+R2DFaM8x8D9yj3pBEXVqzeT8gvLtmUlX+VeqINge7F4DnatxVmUltK/+AEbIdhpDUrSnWY9yNHpWntipP3sidBP33dMGl+KE4U9g==;4U67aPfLCiV5rZHw0PrKoA=="
 ---

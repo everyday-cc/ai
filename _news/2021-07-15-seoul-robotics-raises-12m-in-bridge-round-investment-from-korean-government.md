@@ -33,6 +33,20 @@ related:
         width: 291
         height: 400
         isCached: true
+  - title: "Netradyne Raises $150 Million in Series C Funding Led by SoftBank Vision Fund 2"
+    excerpt: "Netradyne, a leader in artificial intelligence (AI) and edge computing focusing on driver and fleet safety, today announced a $150 million, Series C funding led by SoftBank Vision Fund 2*, with participation from existing investors Point72 Ventures and M12."
+    publishedDateTime: 2021-07-15T16:00:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/technology-ecb234a136fadbe5025439bf6ee2b61e"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 35
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
 secured: "mwYxPYa5htdZxFsRTxJ9Oi6Z+C7H69Z4nthtZeeX4x+jsjMouO6++vuIvtn/0ePVLEDA3j7Kz2vj+KSd3YG91tO9gUuzKyCFzhzgfZ6IDV5xd66oZjjMh2LtwEhuPACbqHVrrZDGfx9C8cS7O2pRdtaQYTJXVThodhsjjguwypkeUOp5fXg6lhO/eer+SDMv0THRLsvdoEPVblMLaWSO5yQ26b7sKGpkF6oCSI5HmeiQRgdyPEstr1P3q8gKQ66SsIX3WJusA3vq6qTu9aLqT68tzkonfBQ/s4ZWBzUbyrYJ8wlHHIhnwrAFQiQSQsfZtlbSAv0n1GWl14H5BbpJ6z0zGgjsXujHcqWojROVFbM=;vCiZlehr1tB2kVewXNF4mA=="
 ---

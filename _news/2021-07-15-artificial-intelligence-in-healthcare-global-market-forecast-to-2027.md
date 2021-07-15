@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-global-market---forecast-to-2027-2021-07-15"
 type: article
 quality: 84
-heat: 264
+heat: 254
 published: true
 
 provider:
@@ -152,15 +152,6 @@ related:
       name: ReportsnReports
       domain: reportsnreports.com
     quality: 26
-  - title: "Artificial Intelligence (AI) in Construction Market SWOT Analysis by Size, Status and Forecast to 2021-2027"
-    excerpt: "Latest published market study on Global Artificial Intelligence (AI) in Construction Market provides an overview of the current market dynamics in the Artificial Intelligence (AI) in Construction space,"
-    publishedDateTime: 2021-07-11T01:39:00Z
-    webUrl: "https://manometcurrent.com/artificial-intelligence-ai-in-construction-market-swot-analysis-by-size-status-and-forecast-to-2021-2027/"
-    type: article
-    provider:
-      name: manometcurrent.com
-      domain: manometcurrent.com
-    quality: 14
   - title: "Global Artificial Intelligence as a Service Market Size, Status and Forecast 2021-2027"
     excerpt: "Pages Report] Check for Discount on Global Artificial Intelligence as a Service Market Size, Status and Forecast 2021-2027 report by QYResearch Group. Market Analysis and Insights: Global Artificial Intelligence as a"
     publishedDateTime: 2021-07-15T09:05:00Z

@@ -2,6 +2,239 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-07-15-civil-rights-groups-take-aim-at-facial-recognition-tech-in-stores.md",
+      "title": "Civil Rights Groups Take Aim at Facial Recognition Tech in Stores",
+      "excerpt": "Three dozen civil rights organizations have called on retailers to stop using the tech, saying “prioritizing profit over privacy is wrong.”",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/01/14/fight-for-the-future-launches-campaign-to-keep-facial-recognition-off-u-s-college-campuses/",
+      "originalUrl": "https://wwd.com/business-news/technology/civil-rights-groups-protest-facial-recognition-tech-stores-1234882271/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 344,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/08/deepfake-e1576010828444.jpg?fit=800%2C400&strip=all",
+          "width": 800,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/01/14/fight-for-the-future-launches-campaign-to-keep-facial-recognition-off-u-s-college-campuses/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/14/fight-for-the-future-launches-campaign-to-keep-facial-recognition-off-u-s-college-campuses/amp/",
+      "publishedDateTime": "2021-07-14T15:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Women's Wear Daily",
+        "domain": "wwd.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2021-07-15-global-self-driving-wheelchair-market-2021-emerging-technologies-opportunity-assessment-projections-and-future-opportunities-by-2026.md",
+      "title": "Global Self Driving Wheelchair Market 2021 Emerging Technologies, Opportunity Assessment, Projections and Future Opportunities by 2026",
+      "excerpt": "MarketQuest.biz has published another latest research report on Global Self Driving Wheelchair Market 2021 by Manufacturers, Regions, Type and Application, Forecast to 2026 that encapsulates vital details about the market current as well as future status during the mentioned forecast period of 2026.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/global-self-driving-wheelchair-market-2021-emerging-technologies-opportunity-assessment-projections-and-future-opportunities-by-2026-2021-07-14",
+      "originalUrl": "https://www.marketwatch.com/press-release/global-self-driving-wheelchair-market-2021-emerging-technologies-opportunity-assessment-projections-and-future-opportunities-by-2026-2021-07-14",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-14T15:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-15-facebook-drops-funding-for-interface-that-reads-the-brain.md",
+      "title": "Facebook drops funding for interface that reads the brain",
+      "excerpt": "The reason for the craze around brain-computer interfaces is that companies see mind-controlled software as a huge breakthrough ... Paralyzed patients with such “implants” can deftly move robotic arms and play video games or type via mind control.",
+      "sourceUrl": null,
+      "webUrl": "https://www.technologyreview.com/2021/07/14/1028447/facebook-brain-reading-interface-stops-funding/",
+      "originalUrl": "https://www.technologyreview.com/2021/07/14/1028447/facebook-brain-reading-interface-stops-funding/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://wp.technologyreview.com/wp-content/uploads/2021/07/FRLR-head-mounted-BCI-research-prototype.jpg?w=3000",
+          "width": 3000,
+          "height": 1688,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.technologyreview.com/2021/07/14/1028447/facebook-brain-reading-interface-stops-funding/amp/",
+      "cdnAmpWebUrl": "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2021/07/14/1028447/facebook-brain-reading-interface-stops-funding/amp/",
+      "publishedDateTime": "2021-07-14T14:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MIT Technology Review",
+        "domain": "technologyreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-15-toyota-self-driving-car-unit-agrees-to-buy-map-maker-carmera.md",
+      "title": "Toyota Self-Driving Car Unit Agrees to Buy Map-Maker Carmera",
+      "excerpt": "Toyota Motor Corporation is strengthening its foothold in the autonomous car driving industry, agreeing to acquire an artificial intelligence map-making startup just months after buying Lyft Inc.'s self-driving division for $550 million. (www.wsj.com ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/story/toyota-self-driving-car-unit-agrees-to-buy-map-maker-carmera-271626296406",
+      "originalUrl": "https://www.marketwatch.com/story/toyota-self-driving-car-unit-agrees-to-buy-map-maker-carmera-271626296406",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 144,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.marketwatch.com/amp/story/toyota-self-driving-car-unit-agrees-to-buy-map-maker-carmera-271626296406",
+      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/toyota-self-driving-car-unit-agrees-to-buy-map-maker-carmera-271626296406",
+      "publishedDateTime": "2021-07-14T14:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-15-defense-secretary-austin-calls-for-ethical-ai-development.md",
+      "title": "Defense Secretary Austin calls for ethical AI development",
+      "excerpt": "The U.S. military will develop artificial intelligence ethically and responsibly, Defense Secretary Lloyd Austin said in remarks on Wednesday.",
+      "sourceUrl": null,
+      "webUrl": "https://www.upi.com/Defense-News/2021/07/14/austin-ethics-ai/6571626285709/",
+      "originalUrl": "https://www.upi.com/Defense-News/2021/07/14/austin-ethics-ai/6571626285709/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdnph.upi.com/sv/ph/og/i/6571626285709/2021/1/16262864692568/v1.5/Defense-Secretary-Austin-calls-for-ethical-AI-development.jpg",
+          "width": 382,
+          "height": 255,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.upi.com/amp/Defense-News/2021/07/14/austin-ethics-ai/6571626285709/",
+      "cdnAmpWebUrl": "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Defense-News/2021/07/14/austin-ethics-ai/6571626285709/",
+      "publishedDateTime": "2021-07-14T14:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "UPI.com",
+        "domain": "upi.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-15-researchers-use-machine-learning-to-translate-brain-signals-from-a-paralyzed-patient-into-text.md",
       "title": "Researchers use machine learning to translate brain signals from a paralyzed patient into text",
       "excerpt": "In a study published Wednesday in the New England Journal of Medicine, researchers at the University of California, San Francisco, describe an approach that combines a brain-computer interface and machine learning models that allowed them to generate text ...",
@@ -968,238 +1201,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-14-bridgeweave-launches-ai-powered-investment-analyst-investorai.md",
-      "title": "Bridgeweave launches AI-powered investment analyst InvestorAi",
-      "excerpt": "DIY app covers over 4500 global stocks and 1500 ETFs in 15 markets performing over 800 million calculations every day.",
-      "sourceUrl": null,
-      "webUrl": "https://www.dqindia.com/bridgeweave-launches-ai-powered-investorai/",
-      "originalUrl": "https://www.dqindia.com/bridgeweave-launches-ai-powered-investorai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.dqindia.com/wp-content/uploads/2021/02/Advanced-analytics.png",
-          "width": 850,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.dqindia.com/bridgeweave-launches-ai-powered-investorai/amp/",
-      "cdnAmpWebUrl": "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/bridgeweave-launches-ai-powered-investorai/amp/",
-      "publishedDateTime": "2021-07-14T04:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Dataquest",
-        "domain": "dqindia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-14-call-of-duty-warzone-machine-learning-cheat-shut-down-by-activision.md",
-      "title": "Call of Duty: Warzone machine learning cheat shut down by Activision",
-      "excerpt": "Warzone cheat that uses machine learning has shut down. As first reported by Vice earlier this week, the maker of a cheat that used machine learning to give players an unfair advantage in PvP shooters has shut down.",
-      "sourceUrl": null,
-      "webUrl": "https://www.gamesradar.com/call-of-duty-warzone-machine-learning-cheat-shut-down-by-activision/",
-      "originalUrl": "https://www.gamesradar.com/call-of-duty-warzone-machine-learning-cheat-shut-down-by-activision/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/CbobY9877pNMABdRnpf3Xj-480-80.jpg",
-          "width": 480,
-          "height": 270,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.gamesradar.com/amp/call-of-duty-warzone-machine-learning-cheat-shut-down-by-activision/",
-      "cdnAmpWebUrl": "https://www-gamesradar-com.cdn.ampproject.org/c/s/www.gamesradar.com/amp/call-of-duty-warzone-machine-learning-cheat-shut-down-by-activision/",
-      "publishedDateTime": "2021-07-14T04:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GamesRadar",
-        "domain": "gamesradar.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-14-the-rise-of-the-robot-expert.md",
-      "title": "The rise of the robot expert",
-      "excerpt": "But where do decision makers, who often see a need but don't have technical expertise in automation, start ... of the Robot Expert will change as AMRs become smarter through newer sensors, faster computer processing power and more sophisticated AI algorithms.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/the-rise-of-the-robot-expert/",
-      "originalUrl": "https://www.zdnet.com/article/the-rise-of-the-robot-expert/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/hub/i/2021/07/12/a4ea2755-e8e1-4611-b737-34395a6ec0c9/robot-expert.jpg",
-          "width": 1280,
-          "height": 702,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/the-rise-of-the-robot-expert/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/the-rise-of-the-robot-expert/",
-      "publishedDateTime": "2021-07-14T04:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-14-compliance-with-safety-regulations-becomes-key-proposition-in-medical-robotics-market.md",
-      "title": "Compliance with Safety Regulations Becomes Key Proposition in Medical Robotics Market",
-      "excerpt": "Robots have enormous potential in medical and healthcare applications, as is evident in the swift pace of penetration in the sector. Per a projection by the International Federation of Robots (IFR), the medical robotics spawn a multibillion dollars market.",
-      "sourceUrl": null,
-      "webUrl": "https://techbullion.com/compliance-with-safety-regulations-becomes-key-proposition-in-medical-robotics-market-2/",
-      "originalUrl": "https://techbullion.com/compliance-with-safety-regulations-becomes-key-proposition-in-medical-robotics-market-2/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techbullion.com/wp-content/uploads/2021/07/ai-5899612_1920.jpg",
-          "width": 1267,
-          "height": 912,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techbullion.com/compliance-with-safety-regulations-becomes-key-proposition-in-medical-robotics-market-2/amp/",
-      "cdnAmpWebUrl": "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/compliance-with-safety-regulations-becomes-key-proposition-in-medical-robotics-market-2/amp/",
-      "publishedDateTime": "2021-07-14T03:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Impacts",
-        "domain": "techbullion.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-14-google-ceo-still-insists-ai-revolution-bigger-than-invention-of-fire.md",
-      "title": "Google CEO Still Insists AI Revolution Bigger Than Invention of Fire",
-      "excerpt": "The artificial intelligence revolution is poised to be more “profound” than the invention of electricity, the internet, and even fire, according to Google CEO Sundar Pichai, who made the comments to BBC media editor Amol Rajan in a podcast interview that first went live on Sunday.",
-      "sourceUrl": null,
-      "webUrl": "https://gizmodo.com/google-ceo-still-insists-ai-revolution-bigger-than-inve-1847288454",
-      "originalUrl": "https://gizmodo.com/google-ceo-still-insists-ai-revolution-bigger-than-inve-1847288454",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 108,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/94963788f099515ddbb3ce8fcc35ad7b.jpg",
-          "width": 800,
-          "height": 449,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://gizmodo.com/google-ceo-still-insists-ai-revolution-bigger-than-inve-1847288454/amp",
-      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/google-ceo-still-insists-ai-revolution-bigger-than-inve-1847288454/amp",
-      "publishedDateTime": "2021-07-14T03:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmodo",
-        "domain": "gizmodo.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

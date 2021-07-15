@@ -9,7 +9,7 @@ ampWebUrl: "https://www.computerweekly.com/news/252503927/AI-to-have-biggest-imp
 cdnAmpWebUrl: "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252503927/AI-to-have-biggest-impact-on-fintech-development-over-next-five-years?amp=1"
 type: article
 quality: 59
-heat: 109
+heat: 119
 published: true
 
 provider:
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Revolut becomes UK’s biggest fintech firm with £24bn valuation"
+    excerpt: "Surge comes after banking app raised $800m from new investors Tiger Global Management and SoftBank"
+    publishedDateTime: 2021-07-15T17:57:00Z
+    webUrl: "https://www.theguardian.com/business/2021/jul/15/revolut-becomes-uk-biggest-fintech-firm"
+    ampWebUrl: "https://amp.theguardian.com/business/2021/jul/15/revolut-becomes-uk-biggest-fintech-firm"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/business/2021/jul/15/revolut-becomes-uk-biggest-fintech-firm"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 44
+    images:
+      - url: "https://i.guim.co.uk/img/media/cd378bca5045dc5a205b5675d19c98c1ea52765f/1569_2306_2515_1509/master/2515.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=2ea757871e72629b7d2bb4db44c011f6"
+        width: 600
+        height: 360
+        isCached: true
   - title: "How Fintech can harness the power of big data to redefine market forecasting"
     excerpt: "Advances in predictive analytics using machine learning (ML) algorithms and blockchain technology demonstrate how innovations in financial services are challenging"
     publishedDateTime: 2021-07-13T14:27:00Z

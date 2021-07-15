@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/alanohnsman/2021/07/15/self-driving-tec
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/alanohnsman/2021/07/15/self-driving-tech-developer-aurora-raising-2-billion-in-spac-listing-that-values-it-at-11-billion/amp/"
 type: article
 quality: 75
-heat: 135
+heat: 155
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Self-Driving Startup Aurora to Go Public Through SPAC"
+    excerpt: "The special-purpose acquisition company behind the deal is backed by the founders of LinkedIn and Zynga Inc."
+    publishedDateTime: 2021-07-15T16:53:00Z
+    webUrl: "https://www.wsj.com/articles/self-driving-startup-aurora-to-go-public-through-spac-11626371629"
+    ampWebUrl: "https://www.wsj.com/amp/articles/self-driving-startup-aurora-to-go-public-through-spac-11626371629"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/self-driving-startup-aurora-to-go-public-through-spac-11626371629"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 74
+    images:
+      - url: "https://images.wsj.net/im-370052/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Self-Driving Startup Aurora in Agreement With Reinvent SPAC"
     excerpt: "Driverless technology startup Aurora Innovation Inc. has agreed to go public via a merger with Reinvent Technology Partners Y, a blank-check firm led by executives including LinkedIn co-founder Reid Hoffman and Zynga Inc."
     publishedDateTime: 2021-07-14T23:31:00Z
@@ -91,6 +107,22 @@ related:
         width: 750
         height: 419
         isCached: true
+  - title: "PACCAR, Volvo invest in self-driving tech company Aurora’s $10.6B SPAC"
+    excerpt: "Aurora Innovation gets a $10.6 billion enterprise value, the second highest of four autonomous driving software developers seeking to go public."
+    publishedDateTime: 2021-07-15T19:00:00Z
+    webUrl: "https://www.freightwaves.com/news/paccar-volvo-invest-in-self-driving-tech-company-auroras-106b-spac"
+    ampWebUrl: "https://www.freightwaves.com/news/paccar-volvo-invest-in-self-driving-tech-company-auroras-106b-spac/amp"
+    cdnAmpWebUrl: "https://www-freightwaves-com.cdn.ampproject.org/c/s/www.freightwaves.com/news/paccar-volvo-invest-in-self-driving-tech-company-auroras-106b-spac/amp"
+    type: article
+    provider:
+      name: freightwaves.com
+      domain: freightwaves.com
+    quality: 44
+    images:
+      - url: "https://s29755.pcdn.co/wp-content/uploads/2021/07/060621-Aurora-Tractor-Trailer.jpg"
+        width: 2449
+        height: 1632
+        isCached: true
   - title: "Self-driving startup Aurora plans to go public with valuation of $11 billion"
     excerpt: "The company anticipates a total valuation of $11 billion. In a statement, Aurora said it expects to have $2.5 billion in cash at closing, raising nearly $2 billion from the transaction. Aurora is led by CEO Chris Urmson,"
     publishedDateTime: 2021-07-15T14:34:00Z
@@ -120,6 +152,6 @@ related:
         height: 630
         isCached: true
 
-secured: "4I6wGnHR7zGoVnp5WstfubJ7Wr/8Sw+9yZsFwnHZ/cGGfN5D2GMa4NkDk1QBz/czNW2XVaYF/PW2kgTlRR004vvNqMJI3+gQZdYU04YzPYcbcsyqCdzpERk2MW2usZs0t0g9NS4Vzk3YvWstS3sVAOeGq+7I33wd4Y/O98wFDnVP5rOOt6fS2tMFQFznzrWAXsfozi/7dUb4FIAzIkfKjwreYl2Ze+kHC5IjFgVSv1kLy84OvN5phlg++TnZ1iGMNdJdLREJ1xbTb5zqquOISQowYKQtzusw/hdTT+KB6F9WLTR4BdVC7flLUyw3tl9Pfi5T9Zem4bAa2TzuoRA514QcKWX4E1XB4gIi0Z7ygW4=;pmcLDRIsVlFCPiLKkn+MtQ=="
+secured: "WZ+m5lGySGvbAERojhvtbDQ96USUJ3o3nUeJFL0vhNSuVQ08vYfZKwFaJKvzC0RnHy7UT0JJE5T80SnofOsWc1VBl8h/NeVnWkPL2Tfjm/Ci6xoE8Y4B+plTDw80xWoEN9bV98r466UapyaGnzxYilacKb799H0TfoEvJCh4fS8hhDXTgIv7ehiMMJTiaMTxcM3sfYk4up1TC4UJEhe5Q5pzfT2hVnJ6+rpQ8j5ohRtcKQOF0PiWrcDH5JgxZXb967sYPMLbaACcqzs3O4EaOUnDjICHSE5kiHyQnVgL0877uCk5SZhOsNxJD72xfnZSaspxeO1oaVGOFxQGcgmxDHXok1muyDDxwr+25BXLPnZ/rcF/vRWx4xvSuT4hrjkJZBhNiQ6PDk7F9Ee69BOozq1SK0qHAPyNF2mOpOyBsEhtjXZN010D9B34x+iyj/soepCDK3tePcI9+4NsgCfVZzl8RaQVFiETAJamw8EvpMcYEv+poit1IRqK27TcN9HalbaCILQjTTd+BaTYTtbBCw==;gCiemck+riBBFpVZSbAv0Q=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnbc.com/amp/2021/07/13/singapore-to-launch-50-million-p
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/07/13/singapore-to-launch-50-million-program-in-ai-cybersecurity-research-for-5g.html"
 type: article
 quality: 178
-heat: 219
+heat: 229
 published: true
 
 provider:
@@ -83,6 +83,15 @@ related:
         width: 500
         height: 313
         isCached: true
+  - title: "ABB to Deliver Artificial Intelligence Modelling for Data Center Energy Optimization in Singapore"
+    excerpt: "NewswireToday - /newswire/ - Singapore, Singapore, 2021/07/15 - Pilot project with ST Telemedia Global Data Centres to map the potential of artificial intelligence, machine learning and advanced analytics,"
+    publishedDateTime: 2021-07-15T18:01:00Z
+    webUrl: "https://www.newswiretoday.com/news/175815/"
+    type: article
+    provider:
+      name: Newswire Today
+      domain: newswiretoday.com
+    quality: 4
 
 secured: "JAk9hMqmCf3OnAf97b28ZtjVMwFqouHaCOU7d3E7seUggPnd/yPpRkbQUa56h3H9W03FmDBAe3mP7bcbwj2k4vRk2t+6eQAT3NQwUMlSB8XqdqMk9efhYJDbQPB1V4GbCNs9qe4rOJJrilXYDF+ahDwt90NjqV5eDV621k0ayUwRAre//t7aXJvzEWHxEZLMWnaHMktYADSbH3Gtff0Ce01AI4bNjiQaMYXazf75zS40QyEagegI/snF9JYqXkR566wXKyFQp/xqoToFyLgtY+qicuZr2MLzkXnIC4BxmfKlbsRhfsSBr56WFEahF5F6ZlSdLmLEkZ6DO9IYBrWXym9/W4D/HLVUjmLBpYpHuXk=;8jqdL6S0HjOkaTekS8QwkQ=="
 ---

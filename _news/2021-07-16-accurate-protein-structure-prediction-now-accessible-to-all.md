@@ -1,0 +1,59 @@
+---
+category: news
+title: "Accurate protein structure prediction now accessible to all"
+excerpt: "Scientists have waited months for access to highly accurate protein structure prediction since DeepMind presented remarkable progress in this area at the 2020 Critical Assessment of Structure Prediction, or CASP14, conference. The wait is now over."
+publishedDateTime: 2021-07-15T18:03:00Z
+originalUrl: "https://www.eurekalert.org/pub_releases/2021-07/uows-aps070921.php"
+webUrl: "https://www.eurekalert.org/pub_releases/2021-07/uows-aps070921.php"
+type: article
+quality: 24
+heat: -1
+published: false
+
+provider:
+  name: EurekAlert!
+  domain: eurekalert.org
+
+topics:
+  - Google AI
+  - AI
+
+images:
+  - url: "https://www.eurekalert.org/multimedia/pub/web/270310_web.jpg"
+    width: 720
+    height: 480
+    isCached: true
+
+related:
+  - title: "New, neural network offers accurate prediction of protein folding"
+    excerpt: "Researchers present RoseTTAFold - a neural network approach for protein modeling with accuracies near those of what DeepMind's AlphaFold2 has achieved, according to a new study."
+    publishedDateTime: 2021-07-15T04:00:00Z
+    webUrl: "https://www.eurekalert.org/pub_releases/2021-07/aaft-nnn071221.php"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 41
+    images:
+      - url: "https://www.eurekalert.org/socialshare/EurekAlert-bluebg_Twitter_1200x675.jpg"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "The Protein Folding Break-Through"
+    excerpt: "Researchers at DeepMind have proudly announced a major break-through in predicting static folded protein structures with a new program known as AlphaFold 2. Protein folding has been an ongoing ..."
+    publishedDateTime: 2021-07-14T00:00:00Z
+    webUrl: "https://hackaday.com/2020/12/04/the-protein-folding-break-through/"
+    type: article
+    provider:
+      name: Hackaday
+      domain: hackaday.com
+    quality: 24
+    images:
+      - url: "https://hackaday.com/wp-content/uploads/2020/11/alphafold2_results.gif"
+        width: 1280
+        height: 720
+        isCached: true
+
+secured: "pYW3EbEatNVcAIjXEL3DRlTRWA4MoMl5q7+qg19RmXjtPaW5+eFydSQTVIvQQ9rGzw26KInhPcXSjZ3vr39beYstI66gLVAF3I9HwLK8odRIuzYTR4aCcn+KoV90M5JL7kY6Wpt6haC85gf46vRlJ4P8mLeW62tM8j4laAkPTsPXFw8ZU0+ZEDhMI/WOMJa6Y1p7AtAsTF7oPGXqpGQQr3+z9FrnPMliaUzyAUx1u1p+l2YtDdH/bROimFVBneT2iN8zFlXxgHap5rua8BKe9UhyWYi3GWGpSIZqfq6NF5KOlPpLQVkMFWIRQcJhhEVnsvr3MK7ZYuI65n5M5rQ0VqUs6QaWJXCuyitTGxYyRe4=;LLijRN0Cd4aYnk4GpRG/eQ=="
+---
+

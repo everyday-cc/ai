@@ -9,7 +9,7 @@ ampWebUrl: "https://gmauthority.com/blog/2021/07/gm-ventures-increases-funding-i
 cdnAmpWebUrl: "https://gmauthority-com.cdn.ampproject.org/c/s/gmauthority.com/blog/2021/07/gm-ventures-increases-funding-in-ai-vision-software-company-algolux/amp/"
 type: article
 quality: 59
-heat: 109
+heat: 119
 published: true
 
 provider:
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "New artificial intelligence software can compute protein structures in 10 minutes"
+    excerpt: "Scientists have waited months for access to highly accurate protein structure prediction since DeepMind presented remarkable progress in this area at the 2020 Critical Assessment of Structure Prediction,"
+    publishedDateTime: 2021-07-15T18:00:00Z
+    webUrl: "https://phys.org/news/2021-07-artificial-intelligence-software-protein-minutes.html"
+    ampWebUrl: "https://phys.org/news/2021-07-artificial-intelligence-software-protein-minutes.amp"
+    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-07-artificial-intelligence-software-protein-minutes.amp"
+    type: article
+    provider:
+      name: Phys.org
+      domain: phys.org
+    quality: 54
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/2021/accurate-protein-struc.jpg"
+        width: 1000
+        height: 667
+        isCached: true
   - title: "Algolux Closes $18.4 Million Series B Round for Robust Computer Vision"
     excerpt: "New investment will serve to accelerate market adoption of Algolux's robust and scalable computer vision and image optimization solutions"
     publishedDateTime: 2021-07-12T13:00:00Z

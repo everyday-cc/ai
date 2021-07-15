@@ -41,6 +41,22 @@ related:
         width: 1024
         height: 553
         isCached: true
+  - title: "New artificial intelligence software can compute protein structures in 10 minutes"
+    excerpt: "Scientists have waited months for access to highly accurate protein structure prediction since DeepMind presented remarkable progress in this area at the 2020 Critical Assessment of Structure Prediction,"
+    publishedDateTime: 2021-07-15T18:00:00Z
+    webUrl: "https://phys.org/news/2021-07-artificial-intelligence-software-protein-minutes.html"
+    ampWebUrl: "https://phys.org/news/2021-07-artificial-intelligence-software-protein-minutes.amp"
+    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-07-artificial-intelligence-software-protein-minutes.amp"
+    type: article
+    provider:
+      name: Phys.org
+      domain: phys.org
+    quality: 54
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/2021/accurate-protein-struc.jpg"
+        width: 1000
+        height: 667
+        isCached: true
   - title: "Computer vision startup Algolux secures $23 million CAD Series B round"
     excerpt: "Montréal-based computer vision startup Algolux has raised $23 million CAD ($18.4 million USD) in a Series B funding round co-led by Forte Ventures and Drive Capital. Algolux is using the all-equity capital in an aim to increase the market adoption of its ..."
     publishedDateTime: 2021-07-12T12:59:00Z

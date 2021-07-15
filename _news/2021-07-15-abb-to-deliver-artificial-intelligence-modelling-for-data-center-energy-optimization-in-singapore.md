@@ -79,6 +79,15 @@ related:
         width: 720
         height: 325
         isCached: true
+  - title: "ABB to Deliver Artificial Intelligence Modelling for Data Center Energy Optimization in Singapore"
+    excerpt: "NewswireToday - /newswire/ - Singapore, Singapore, 2021/07/15 - Pilot project with ST Telemedia Global Data Centres to map the potential of artificial intelligence, machine learning and advanced analytics,"
+    publishedDateTime: 2021-07-15T18:01:00Z
+    webUrl: "https://www.newswiretoday.com/news/175815/"
+    type: article
+    provider:
+      name: Newswire Today
+      domain: newswiretoday.com
+    quality: 4
 
 secured: "ebeefMIVN68mEqSIpU3v9fgEziJHFDeaCuNfrYJmizzGQPH/Us/b61u2AIqpbZOB58W5RPGo4pXWTclL0al5UTd3ZZnQKrmv8tAqL3B/+HlMGqvuNOptpRYzXuoP7wGJE6qCPhHJvHnBVKyNWJrVtFlI4Pl+OA3p/rlfFDT3EJg7+6d3cYe9suJPeGXWjmi8LZcKBjmj0mvdHa760V8b24mvQbvTRk4+Xfse1dhayDfdzGybLLuNqTZ3bA+gEBqEBJEUCAd76btKS3GWLRh/XhUgpRWKH0q/TPrEbRlxazLK+MEfwEWehU7r9sCsCRqpKhq9ElksyJo9+gd5FAa5d6zHsp6+BIBl3COwvhSefok=;eIn0HMNjLOQAd4MTLMb43Q=="
 ---

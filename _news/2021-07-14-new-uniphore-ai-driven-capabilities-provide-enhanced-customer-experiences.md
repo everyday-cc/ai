@@ -26,18 +26,18 @@ images:
 
 related:
   - title: "Contentsquare Accelerates Machine and Deep Learning Capabilities with Acquisition of Leading AI company Upstride"
-    excerpt: "Contentsquare, the global leader in digital experience analytics, announces its acquisition of Upstride today, a Paris-based deep-tech company specialized in improving machine learning performance. Upstride’s highly skilled deep learning engineers will join Contentsquare’s Data Science development team in the Paris product hub to accelerate the company’s ambitious AI innovation roadmap."
-    publishedDateTime: 2021-07-13T07:02:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/europe-business-technology-8bc7d13de46049bdaa77c8a19218cde9"
+    excerpt: "Contentsquare, the global leader in digital experience analytics, announces its acquisition of Upstride today, a Paris-based deep-tech company specialized in improving machine learning performance."
+    publishedDateTime: 2021-07-13T07:49:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/21/07/b21949201/contentsquare-accelerates-machine-and-deep-learning-capabilities-with-acquisition-of-leading-ai-co"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
+      name: Benzinga.com
+      domain: benzinga.com
     quality: 33
     images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
+      - url: "https://cdn.benzinga.com/files/imagecache/og_image_social_share_1200x630/sites/all/themes/bz2/images/bz-icon.png"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Learning Science: Artificial Intelligence in Courseware Can Enhance Student Learning"
     excerpt: "Researchers from VitalSource Technologies, a leading education technology solutions provider, recently presented new insights into the ways that artificial intelligence (AI) can be deployed to enhance student learning through quality,"

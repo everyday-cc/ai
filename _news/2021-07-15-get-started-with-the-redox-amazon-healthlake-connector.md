@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/get-started-with-the
 webUrl: "https://aws.amazon.com/blogs/machine-learning/get-started-with-the-redox-amazon-healthlake-connector/"
 type: article
 quality: 74
-heat: 104
+heat: 124
 published: true
 
 provider:
@@ -44,18 +44,32 @@ related:
         height: 294
         isCached: true
   - title: "AWS Announces General Availability of Amazon HealthLake"
-    excerpt: "Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced the general availability of Amazon HealthLake, a HIPAA-eligible service for healthcare and life sciences organizations to ingest,"
-    publishedDateTime: 2021-07-15T14:57:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-business-science-health-coronavirus-pandemic-a6577a90cb304bcf90fa8b9af7a85b90"
+    excerpt: "Amazon HealthLake enables healthcare organizations to store, transform, and query health data in the cloud using machine learning for a complete picture of patient and population healthThe new service is part of AWS for Health,"
+    publishedDateTime: 2021-07-15T16:00:00Z
+    webUrl: "https://www.pharmiweb.com/press-release/2021-07-15/aws-announces-general-availability-of-amazon-healthlake"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 56
+      name: PharmiWeb
+      domain: pharmiweb.com
+    quality: 54
     images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
+      - url: "https://cdn.pharmiweb.com/media/1024/1200x448-pwjobs.png"
+        width: 1200
+        height: 448
+        isCached: true
+  - title: "AWS launches Amazon HealthLake into general availability"
+    excerpt: "“In their daily practice, doctors need a complete chronological view of patient history to identify the best course of action,“ AWS artificial intelligence and machine learning evangelist Juli ..."
+    publishedDateTime: 2021-07-15T19:20:00Z
+    webUrl: "https://siliconangle.com/2021/07/15/aws-launches-amazon-healthlake-general-availability/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 54
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/07/AWS.png"
+        width: 1024
+        height: 598
         isCached: true
   - title: "Diameter Health Selected as Amazon HealthLake Connector Partner"
     excerpt: "Diameter Health, a fast-growing leader in health data interoperability and optimization, today announced that it has been selected by"
@@ -70,6 +84,20 @@ related:
       - url: "https://mma.prnewswire.com/media/1177382/dIAMETER_hEALTH_Logo.jpg?p=facebook"
         width: 2207
         height: 1158
+        isCached: true
+  - title: "Diameter Health Selected as Amazon HealthLake Connector Partner"
+    excerpt: "Diameter Health, a fast-growing leader in health data interoperability and optimization, today announced that it has been selected by Amazon Web Services, Inc. as a Connector Partner for Amazon HealthLake,"
+    publishedDateTime: 2021-07-15T19:59:00Z
+    webUrl: "https://insurancenewsnet.com/oarticle/diameter-health-selected-as-amazon-healthlake-connector-partner"
+    type: article
+    provider:
+      name: Insurancenewsnet.com
+      domain: insurancenewsnet.com
+    quality: 24
+    images:
+      - url: "https://insurancenewsnet.com/wp-content/uploads/2021/06/Columbus-Life_300x600_2021-06-1.jpg"
+        width: 300
+        height: 600
         isCached: true
 
 secured: "S7XVxpz0Lgnn0bYBO+FLDhOibCynE+mphkP+5FPG9h93sAifBKTgia9Hx1a9A84szvqf7KqXS7J5dldp1swQnnzc16oBYoiaw7vdaURDU+rBgUW9qcC5aL0MzhzaQ59EW3jc9bo40sx9VHWK1maMZlmy5qV6YlYtGrWhUJuF1yLVcCGOJzZ3Z7jUtM8el92BqAm1tMtci6tLS5AGHqR7Rt7MXPHHjFwBQw6k1uRIgaU02lnaZj/a8sWvbyOxSKIzcC2WGNO1Pwn/DYgCBsvjDd9GjOwUupWbf9AUIL3XR5diWauIILXSppf3H2UZizmbrbE6hZFYmztja0GSOmn2IOX1GuOymvyejOxfzOKqC8U=;yvlTNpGF3B1sf5/bLpaLLw=="

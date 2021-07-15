@@ -9,7 +9,7 @@ ampWebUrl: "https://www.dailydot.com/debug/facial-recognition-misidentified-blac
 cdnAmpWebUrl: "https://www-dailydot-com.cdn.ampproject.org/c/s/www.dailydot.com/debug/facial-recognition-misidentified-black-girl-skating-rink/?amp"
 type: article
 quality: 50
-heat: 50
+heat: 60
 published: false
 
 provider:
@@ -26,6 +26,24 @@ images:
     height: 1000
     isCached: true
 
-secured: "buF6E4GyBtq05VXotaTP3kW/gJ9ZnmR91xCnubuZytMxnFFHubXk+pGtWQbad6tyC6FTexIDDA+jFiYb+oytxqN9k5bFQGvxKG7U8X7UxKo6mYfiaK/5ldTVRtVUBEBnCCdOgcl8msPECIQc0OVVZ6dmyx/0ZqiaTsCe6jD7A2z7unkXJpWJAUw00sbWX4dKBVP/eZ2+ck/mb28j9gkCkJ7htBLsRQgzmMVDPfekxsBdp/PTL0zBKTSt3P1YTi6fla6nAN4oUtvlVHQ6w+C+85sidA8H9G8vTCy8GQrQIOuB1rN+BNRXYAPDfB3y/fK+nod4qQRyCCMunkt/fmNvRi+mj/ZYL0Z4YqY+5e1j7X8=;baEQMLBUZPw2ddA+r/6KeA=="
+related:
+  - title: "Black Teen Barred From Skating Rink After Being Misidentified By Facial Recognition System"
+    excerpt: "Lamya Robinson was ready to enjoy a Saturday night with friends at the local skating rink, only to be rejected after facial recognition software misidentified her, Fox2 Detroit reported .  \"To me, it's basically racial profiling,"
+    publishedDateTime: 2021-07-15T18:38:00Z
+    webUrl: "https://blavity.com/black-teen-barred-from-skating-rink-after-being-misidentified-by-facial-recognition-system"
+    ampWebUrl: "https://blavity.com/amp/black-teen-barred-from-skating-rink-after-being-misidentified-by-facial-recognition-system"
+    cdnAmpWebUrl: "https://blavity-com.cdn.ampproject.org/c/s/blavity.com/amp/black-teen-barred-from-skating-rink-after-being-misidentified-by-facial-recognition-system"
+    type: article
+    provider:
+      name: Blavity
+      domain: blavity.com
+    quality: 49
+    images:
+      - url: "https://res.cloudinary.com/blavity/image/upload/g_center,w_auto,q_auto:best,g_south_east,x_0/v1626370147/ldeu3kcxsqghwxlynw1w"
+        width: 800
+        height: 450
+        isCached: true
+
+secured: "lt8r9fDlXsMaSMRHB7pPeNJXydSK/eWejhnjKxLxePiL9kYlwUD7jzGUOQZKlkp+Xz8gZxRQ6AMyQhx/3c0spXVvp3/wZT+Ke5rJSqDj3bMIpcwV/6RGwijEmjSU5fr6j2a0+Iee5/NK1XOI44mq75cJRe/mE35nSr+u+/gcBKFEdrtkfyTyAImK7wK8i54cbT59JqMLsfilBewLiipyIRI6P4b6cXshs0U+Kzt3SKSu0SE6s2Syl3vU0t+IagcpAOziVqW8VafG6nZBcWvaJZSheVQmoqFWqjKnyjg30Xtbk/+dLE5YyRNAdfVYkwLiWrSm7IhL3fxdFYuAe3FlVYTV1u8kerBMOAzEBT5hgZjSihWFWyhg7P4i2bes5V4ACla8FD7SKrgL47dqo7GFvaY7i3OmQ68ItEaoBTxFvb44x6R+CciZPcK6O/HcOLHs7Yq7Nuna27vk0yQLO4x5HjhMNbRvjoIwww0730JLOy/j/sYg+pAd/9xKRlEBD7Y4cuOptMx7JhnR6t9ZbdbSZA==;hF5s90fC0a15vySeck9jSA=="
 ---
 

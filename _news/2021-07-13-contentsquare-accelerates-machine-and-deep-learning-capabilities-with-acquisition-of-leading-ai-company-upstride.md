@@ -1,27 +1,27 @@
 ---
 category: news
 title: "Contentsquare Accelerates Machine and Deep Learning Capabilities with Acquisition of Leading AI company Upstride"
-excerpt: "Contentsquare, the global leader in digital experience analytics, announces its acquisition of Upstride today, a Paris-based deep-tech company specialized in improving machine learning performance. Upstride’s highly skilled deep learning engineers will join Contentsquare’s Data Science development team in the Paris product hub to accelerate the company’s ambitious AI innovation roadmap."
-publishedDateTime: 2021-07-13T07:02:00Z
-originalUrl: "https://apnews.com/press-release/business-wire/europe-business-technology-8bc7d13de46049bdaa77c8a19218cde9"
-webUrl: "https://apnews.com/press-release/business-wire/europe-business-technology-8bc7d13de46049bdaa77c8a19218cde9"
+excerpt: "Contentsquare, the global leader in digital experience analytics, announces its acquisition of Upstride today, a Paris-based deep-tech company specialized in improving machine learning performance."
+publishedDateTime: 2021-07-13T07:49:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/21/07/b21949201/contentsquare-accelerates-machine-and-deep-learning-capabilities-with-acquisition-of-leading-ai-co"
+webUrl: "https://www.benzinga.com/pressreleases/21/07/b21949201/contentsquare-accelerates-machine-and-deep-learning-capabilities-with-acquisition-of-leading-ai-co"
 type: article
 quality: 33
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - Machine Learning
   - AI
 
 images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
+  - url: "https://cdn.benzinga.com/files/imagecache/og_image_social_share_1200x630/sites/all/themes/bz2/images/bz-icon.png"
+    width: 1200
+    height: 630
     isCached: true
 
 related:
@@ -63,6 +63,6 @@ related:
       domain: tmcnet.com
     quality: 0
 
-secured: "VdVtKGETccGZJg99h7DeelzJ2lMcBtXKR+wbEBZam0KDRPp6b0GGE+m6kFdgWtvZJA2KghLzOyYOYqBA2kKb/BnKEXA06XP/fDyV1KkNJD9Nh82edd8X+utpSU109c+1a6Q0J4tgsu6H3zPaF8ZFo7UxV8sAiOdptBBttS8p9rlK4IvmN3ysvuNGVOkJrthpfvaGrGeFgdDP+TUwdzuorD6jmZCVL32lyFtcSjBy2obBZYqfCit04Jq56m7irxagfA8seM77JxK7US6V84ivrVLakvt+9BpBmEOR/smznqQS6wAdGQS8DK7ifUOq6inGqwvZQD3hee76iEEIIEKn/s85vc8Obt2EgtTw7xJkU6Y=;qdWIuEcaR3O8vBwuIzY4aQ=="
+secured: "DJOWCr+cPJzkrijObMPCS5lkxpLLh+WgKydnYbBVgWAydcOBLQ3jj4OC0F5x2+U8TMQgC6FYgNxKYGw1S8xOzPt7rvLYv0fwbPKt54ss9Y9uVtrYWudxR7qco7MWrv7GGlWvbzbRqqiYvB9oegEkxhkvGGiWZIjTOlX7GOJpVatGOy/9APPqNoXebtu4s5sfDJ3OtW8KAJdX0pLkOSlKymmvkP+Cra6cTunbucidy8J68/9a3yS1sRyn8iGbqzARbYVsn3nM3rv9f+34IzRSaLvYltk6KRc9xQcvuTmBWWmkzTfWch4T/LIMfTupMcyeoTy6HejR6LJ6mohTth/Iarf6JkTkgf4Q2RrBw9plpsc=;dR0GxdGdKy6lifb/IdkY/Q=="
 ---
 

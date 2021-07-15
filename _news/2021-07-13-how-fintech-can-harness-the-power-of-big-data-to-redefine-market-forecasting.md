@@ -43,6 +43,22 @@ related:
         width: 1200
         height: 400
         isCached: true
+  - title: "Revolut becomes UK’s biggest fintech firm with £24bn valuation"
+    excerpt: "Surge comes after banking app raised $800m from new investors Tiger Global Management and SoftBank"
+    publishedDateTime: 2021-07-15T17:57:00Z
+    webUrl: "https://www.theguardian.com/business/2021/jul/15/revolut-becomes-uk-biggest-fintech-firm"
+    ampWebUrl: "https://amp.theguardian.com/business/2021/jul/15/revolut-becomes-uk-biggest-fintech-firm"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/business/2021/jul/15/revolut-becomes-uk-biggest-fintech-firm"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 44
+    images:
+      - url: "https://i.guim.co.uk/img/media/cd378bca5045dc5a205b5675d19c98c1ea52765f/1569_2306_2515_1509/master/2515.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=2ea757871e72629b7d2bb4db44c011f6"
+        width: 600
+        height: 360
+        isCached: true
   - title: "AI to have biggest impact on fintech over next five years"
     excerpt: "Tribe Payments, a payment technology company, has revealed that 67% of fintechs believe AI is the technology that will have the biggest impact on the sector over the next five years. This insight comes from their Fintech Five by Five report,"
     publishedDateTime: 2021-07-14T14:55:00Z
