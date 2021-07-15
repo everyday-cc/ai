@@ -59,6 +59,22 @@ related:
         width: 760
         height: 428
         isCached: true
+  - title: "IN-D Identity Verification now available in the Microsoft Azure marketplace"
+    excerpt: "D.ai, a leading provider of intelligent document and image-processing solutions, today announced the availability of Identity Verification, a suite of"
+    publishedDateTime: 2021-07-15T06:20:00Z
+    webUrl: "https://theprint.in/ani-press-releases/in-d-identity-verification-now-available-in-the-microsoft-azure-marketplace/696630/"
+    ampWebUrl: "https://theprint.in/ani-press-releases/in-d-identity-verification-now-available-in-the-microsoft-azure-marketplace/696630/?amp"
+    cdnAmpWebUrl: "https://theprint-in.cdn.ampproject.org/c/s/theprint.in/ani-press-releases/in-d-identity-verification-now-available-in-the-microsoft-azure-marketplace/696630/?amp"
+    type: article
+    provider:
+      name: ThePrint
+      domain: theprint.in
+    quality: 87
+    images:
+      - url: "https://static.theprint.in/wp-content/uploads/2021/07/in-d-identity-verification-now-available-in-the-microsoft-azure-marketplace.gif"
+        width: 600
+        height: 450
+        isCached: true
   - title: "CIBC chooses Microsoft Azure as its primary cloud platform"
     excerpt: "Microsoft Azure technology will also continue to offer scalable computing power for CIBC’s enterprise data lake and its artificial intelligence (AI)/machine learning (ML) platform to help it provide innovative client solutions. “Leveraging cutting-edge ..."
     publishedDateTime: 2021-07-12T16:56:00Z

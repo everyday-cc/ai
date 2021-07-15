@@ -2,6 +2,212 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-07-15-agritech-startup-aqgromalin-secures-seed-funding-led-by-zephyr-peacock.md",
+      "title": "Agritech Startup Aqgromalin Secures Seed Funding Led By Zephyr Peacock",
+      "excerpt": "The round also includes participation from IndigramLabs Foundation and other noted angels from the agri startup ecosystem ... solutions for animal husbandry and aquaculture with AI deep learning inference. It is also building a blockchain-based ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.entrepreneur.com/article/377388",
+      "originalUrl": "https://www.entrepreneur.com/article/377388",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/1626349517-MrPrasannaandMrBharani.jpg?width=600&crop=16:9",
+          "width": 600,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.entrepreneur.com/amphtml/377388",
+      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/377388",
+      "publishedDateTime": "2021-07-15T04:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-15-how-ai-can-create-meaningful-change-in-traditional-industries.md",
+      "title": "How AI Can Create Meaningful Change In Traditional Industries",
+      "excerpt": "Yet currently, multiple multitrillion-dollar industries such as retail, supply chain, food and energy have critical workflows and decision-making processes that rely on Excel spreadsheets or literal pen and paper.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/07/15/how-ai-can-create-meaningful-change-in-traditional-industries/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/07/15/how-ai-can-create-meaningful-change-in-traditional-industries/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ee3c90cac807a0006b5add4%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/07/15/how-ai-can-create-meaningful-change-in-traditional-industries/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/07/15/how-ai-can-create-meaningful-change-in-traditional-industries/amp/",
+      "publishedDateTime": "2021-07-15T04:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-15-kenyas-aifluence-closes-1m-for-its-ai-powered-influencer-marketing-platform.md",
+      "title": "Kenya’s AIfluence closes $1M for its AI-powered influencer marketing platform",
+      "excerpt": "Influencer marketing is one of the fastest-growing and one of the most impactful media channels today. There’s a growing ad-blocking movement and key demographics are spending less time in front of TVs.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/07/15/kenyas-aifluence-closes-1m-for-its-ai-powered-influencer-marketing-platform/",
+      "originalUrl": "https://techcrunch.com/2021/07/15/kenyas-aifluence-closes-1m-for-its-ai-powered-influencer-marketing-platform/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 111,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2014/12/influencer.jpg?w=1024",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/07/15/kenyas-aifluence-closes-1m-for-its-ai-powered-influencer-marketing-platform/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/07/15/kenyas-aifluence-closes-1m-for-its-ai-powered-influencer-marketing-platform/amp/",
+      "publishedDateTime": "2021-07-15T04:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Marketing"
+      ]
+    },
+    {
+      "path": "_news/2021-07-15-tecno-camon-17-17-pro-launched-in-india-with-90hz-displays-and-mediatek-chips.md",
+      "title": "TECNO CAMON 17, 17 Pro launched in India with 90Hz displays and MediaTek chips",
+      "excerpt": "TECNO has officially debuted the TECNO CAMON 17 series in India. The brand has introduced two models for the country, namely TECNO CAMON 17 and TECNO CAMON 17 Pro. These phones offer high refresh rate displays,",
+      "sourceUrl": null,
+      "webUrl": "https://www.gizmochina.com/2021/07/15/tecno-camon-17-pro-india-launch-price-specs-features/",
+      "originalUrl": "https://www.gizmochina.com/2021/07/15/tecno-camon-17-pro-india-launch-price-specs-features/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gizmochina.com/wp-content/uploads/2021/06/Tecno-Camon-17-Pro-Review-05.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-15T03:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmochina",
+        "domain": "gizmochina.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmochina.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-15-artificial-intelligence-in-healthcare-global-market-forecast-to-2027.md",
       "title": "Artificial Intelligence in Healthcare Global Market - Forecast to 2027",
       "excerpt": "The rapidly evolving vast and complex healthcare industry is slowly deploying AI solutions into its mainstream workflows to increase the productivity of various healthcare. Artificial intelligence (AI) is the collection of computer programs or algorithms or software to make machines smarter and enable them to simulate human intelligence and perform various higher-order value-based tasks like visual perception,",
@@ -10,7 +216,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-global-market---forecast-to-2027-2021-07-15",
       "featuredContent": null,
       "highlight": null,
-      "heat": 254,
+      "heat": 264,
       "tags": null,
       "images": [
         {
@@ -113,7 +319,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chipsets-market-industry-analysis-size-share-trends-demand-growth-opportunities-and-forecast-2027-2021-07-14",
       "featuredContent": null,
       "highlight": null,
-      "heat": 204,
+      "heat": 194,
       "tags": null,
       "images": [
         {
@@ -914,7 +1120,7 @@
       "originalUrl": "https://venturebeat.com/2021/07/14/microsoft-azure-receives-new-features-and-enhanced-migration-services/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 234,
+      "heat": 244,
       "tags": null,
       "images": [
         {
@@ -1050,194 +1256,6 @@
       ],
       "topics": [
         "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-14-replica-studios-goes-early-acces-with-ai-voice-actors-for-unreals-metahuman-creator.md",
-      "title": "Replica Studios goes early acces with AI voice actors for Unreal’s MetaHuman Creator",
-      "excerpt": "Replica Studios has launched early access to integrate its voice actor service into Unreal Engine's MetaHuman Creator.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/07/14/replica-studios-goes-early-acces-with-ai-voice-actors-for-unreals-metahuman-creator/",
-      "originalUrl": "https://venturebeat.com/2021/07/14/replica-studios-goes-early-acces-with-ai-voice-actors-for-unreals-metahuman-creator/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/07/replica-2.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 777,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/07/14/replica-studios-goes-early-acces-with-ai-voice-actors-for-unreals-metahuman-creator/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/14/replica-studios-goes-early-acces-with-ai-voice-actors-for-unreals-metahuman-creator/amp/",
-      "publishedDateTime": "2021-07-14T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-14-zillow-utilizes-explainer-ai-data-to-revolutionize-how-people-sell-houses.md",
-      "title": "Zillow utilizes explainer AI, data, to revolutionize how people sell houses",
-      "excerpt": "Zillow's Stan Humphries discusses how the company uses AI such as computer vision and NLP to change how people sell houses at Transform 2021.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/07/14/zillow-utilizes-ai-data-to-revolutionize-how-people-sell-houses/",
-      "originalUrl": "https://venturebeat.com/2021/07/14/zillow-utilizes-ai-data-to-revolutionize-how-people-sell-houses/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2012/08/real-estate-zillow.jpg?w=1200&strip=all",
-          "width": 1000,
-          "height": 750,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/07/14/zillow-utilizes-ai-data-to-revolutionize-how-people-sell-houses/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/14/zillow-utilizes-ai-data-to-revolutionize-how-people-sell-houses/amp/",
-      "publishedDateTime": "2021-07-14T05:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-14-bridgeweave-launches-ai-powered-investment-analyst-investorai.md",
-      "title": "Bridgeweave launches AI-powered investment analyst InvestorAi",
-      "excerpt": "DIY app covers over 4500 global stocks and 1500 ETFs in 15 markets performing over 800 million calculations every day.",
-      "sourceUrl": null,
-      "webUrl": "https://www.dqindia.com/bridgeweave-launches-ai-powered-investorai/",
-      "originalUrl": "https://www.dqindia.com/bridgeweave-launches-ai-powered-investorai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.dqindia.com/wp-content/uploads/2021/02/Advanced-analytics.png",
-          "width": 850,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.dqindia.com/bridgeweave-launches-ai-powered-investorai/amp/",
-      "cdnAmpWebUrl": "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/bridgeweave-launches-ai-powered-investorai/amp/",
-      "publishedDateTime": "2021-07-14T04:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Dataquest",
-        "domain": "dqindia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-14-call-of-duty-warzone-machine-learning-cheat-shut-down-by-activision.md",
-      "title": "Call of Duty: Warzone machine learning cheat shut down by Activision",
-      "excerpt": "Warzone cheat that uses machine learning has shut down. As first reported by Vice earlier this week, the maker of a cheat that used machine learning to give players an unfair advantage in PvP shooters has shut down.",
-      "sourceUrl": null,
-      "webUrl": "https://www.gamesradar.com/call-of-duty-warzone-machine-learning-cheat-shut-down-by-activision/",
-      "originalUrl": "https://www.gamesradar.com/call-of-duty-warzone-machine-learning-cheat-shut-down-by-activision/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/CbobY9877pNMABdRnpf3Xj-480-80.jpg",
-          "width": 480,
-          "height": 270,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.gamesradar.com/amp/call-of-duty-warzone-machine-learning-cheat-shut-down-by-activision/",
-      "cdnAmpWebUrl": "https://www-gamesradar-com.cdn.ampproject.org/c/s/www.gamesradar.com/amp/call-of-duty-warzone-machine-learning-cheat-shut-down-by-activision/",
-      "publishedDateTime": "2021-07-14T04:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GamesRadar",
-        "domain": "gamesradar.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

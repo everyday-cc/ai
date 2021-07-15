@@ -1,22 +1,32 @@
 ---
 category: news
 title: "Toyota buys U.S. mapping, road data firm to bulk up driverless tech"
-excerpt: "Toyota Motor Corp's research arm said on Thursday it acquired U.S.-based Carmera, a provider of maps and data for driverless vehicles, marking the Japanese car maker's latest investment in autonomous technology."
-publishedDateTime: 2021-07-14T23:38:00Z
-originalUrl: "https://www.nasdaq.com/articles/toyota-buys-u.s.-mapping-road-data-firm-to-bulk-up-driverless-tech-2021-07-14"
-webUrl: "https://www.nasdaq.com/articles/toyota-buys-u.s.-mapping-road-data-firm-to-bulk-up-driverless-tech-2021-07-14"
+excerpt: "Toyota Motor Corp's (7203.T) research arm said on Thursday it acquired U.S.-based Carmera, a provider of maps and data for driverless vehicles, marking the Japanese car maker's latest investment in autonomous technology."
+publishedDateTime: 2021-07-14T23:45:00Z
+originalUrl: "https://www.reuters.com/business/autos-transportation/toyota-buys-us-mapping-road-data-firm-bulk-up-driverless-tech-2021-07-14/"
+webUrl: "https://www.reuters.com/business/autos-transportation/toyota-buys-us-mapping-road-data-firm-bulk-up-driverless-tech-2021-07-14/"
 type: article
-quality: 49
+quality: 69
 heat: -1
 published: false
 
 provider:
-  name: Nasdaq
-  domain: nasdaq.com
+  name: Reuters
+  domain: reuters.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Autos
   - AI
+
+images:
+  - url: "https://www.reuters.com/resizer/xPGUCumVUqQYv5QVMbKEmMU-4Ss=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/HPQGDJ4HBZOIBIW32UPIKHAYZI.jpg"
+    width: 1200
+    height: 628
+    isCached: true
 
 related:
   - title: "Toyota Self-Driving Car Unit Agrees to Buy Map-Maker Carmera"
@@ -112,6 +122,6 @@ related:
         height: 512
         isCached: true
 
-secured: "PxTlH4OuYDRx3eNldz9FPeOJaH5Ab0R/eXdFCuWJ2hMXJ1V2MywC0pTKJY0Ja93fqVty0O5WRNWRxUOdaDbCjIlDcEFLWFS77Pr//d3fmdrSoE3giLnQY8y/Z/hLkxBAyyFzADvF5lkMqDmgQf1k0XqZh38HcnALus35D8Bn+/2Pm4koqb31HKweODSaSz+doGkopYjNBiM26WBZ6vXY/L366ImsPZ3jVBnwz9+ebzp+YMD4R9B2N06BVGS8LDhx63gmI6VvxTKUgk6qtjtpoyIaAUGvX3Pg67dCBON0s1OPT9RtIFhpOm+NqXDdD8OPO8iZ6Qygp+dgYidi2Vlwx6Yo3xcWC8m0mRZZnnp6FEt2ZCV390XSF8AGaVgpE+ZHfxKrXPeqq0hiDKud45cDlH8/vlCuxBubzH+sS4OQbnI/BkXFV92kqYLi+21G9U5Mpbki6aN848pZO85+Md8p5hx+bOpK5AvIOmu7M9Fa/KeXi8D25BXGLSGnRiCfBtU57udH6U6suDs+Vqr1tB0TCA==;wvdFg772fuFn5bBfQbQrEw=="
+secured: "ewN67KSn+U9nJW7zcVRAQIgLVd8AjPs/+V2x2sPf4/U5FoMumlREEvJAJHCtoU20DEWEvm0gihYiLmDt0jGyKLTjU1ddF4i66IlAhj1BQxy+H2ARyNLt7HbHLlsi1JCULyb7c9bd/M2v2PhBk3a4wKylPMd3bf0DccZLgHglE/9iGeDsEOaeqMqnvtP6jegN18/RiAyGshIH7u/1BAOAeb6IghirzAj7VBST0FRVzr4qEMk7EBrl9W4N68e6JJ9eV2CzL0mzVSwAbwhpgEuaUF6I3lyVKnZ2C5MNEJQryXhP8YTWoVtGvgFNYf0NdDQR4lkihv8pI9bihbGuxSRFTpIYB1RhyQBt2Pyom2DR2Pc=;5/h0GdQNW1gbXFqvf60rlw=="
 ---
 

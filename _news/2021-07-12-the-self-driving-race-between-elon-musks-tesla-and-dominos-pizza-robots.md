@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnbc.com/amp/2021/07/10/self-driving-looking-less-like-e
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/07/10/self-driving-looking-less-like-elon-musk-more-dominos-pizza-robots.html"
 type: article
 quality: 105
-heat: 365
+heat: 355
 published: true
 
 provider:
@@ -95,22 +95,6 @@ related:
       - url: "https://icdn.digitaltrends.com/image/digitaltrends/tesla-model-3-review-7563.jpg"
         width: 1500
         height: 1000
-        isCached: true
-  - title: "Tesla finally releases Full Self-Driving Beta v9: here’s what it looks like"
-    excerpt: "Tesla has finally released its highly-anticipated Full Self-Driving Beta v9 software update. Here’s what it looks like. It was a long time coming, but when CEO Elon Musk put an actual date on the release,"
-    publishedDateTime: 2021-07-10T17:57:00Z
-    webUrl: "https://electrek.co/2021/07/10/tesla-full-self-driving-beta-v9-first-videos-release-notes/"
-    ampWebUrl: "https://electrek.co/2021/07/10/tesla-full-self-driving-beta-v9-first-videos-release-notes/amp/"
-    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/07/10/tesla-full-self-driving-beta-v9-first-videos-release-notes/amp/"
-    type: article
-    provider:
-      name: Electrek
-      domain: electrek.co
-    quality: 87
-    images:
-      - url: "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2021/07/Tesla-full-self-driving-beta-v9.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
-        width: 1200
-        height: 628
         isCached: true
   - title: "Why you shouldn’t trust Tesla’s latest Full Self Driving beta update"
     excerpt: "Elon Musk had initially promised the fabled Full Self-Driving Beta version 9 back in August 2018. And then again in 2019. Well, if you’re a Tesla fan, you already know that none of these commitments were fulfilled."

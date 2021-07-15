@@ -100,20 +100,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence (AI) in BFSI Market Shaping A New Growth Cycle"
-    excerpt: "HTF MI Published Latest Global  Study by in-depth analysis about current scenario, the Market size, demand, growth pattern, trends, and forecast. Revenue for  has grown substantially over the six years to 2020 as a result of strengthening macroeconomic conditions and healthier demand,"
-    publishedDateTime: 2021-07-10T17:50:00Z
-    webUrl: "https://manometcurrent.com/artificial-intelligence-ai-in-bfsi-market-shaping-a-new-growth-cycle/"
-    type: article
-    provider:
-      name: manometcurrent.com
-      domain: manometcurrent.com
-    quality: 52
-    images:
-      - url: "https://manometcurrent.com/wp-content/uploads/2021/07/Artificial-Intelligence-AI-in-BFSI-Market.jpeg"
-        width: 504
-        height: 336
-        isCached: true
   - title: "Deep Learning Software Market Size 2021-2027 | Brief Analysis by Type, Top Manufacturers, Trends and Future Prospects"
     excerpt: "Jul (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry\" “Deep Learning Software Market” report"
     publishedDateTime: 2021-07-13T06:21:00Z

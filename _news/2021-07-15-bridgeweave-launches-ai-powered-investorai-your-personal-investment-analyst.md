@@ -1,18 +1,18 @@
 ---
 category: news
 title: "Bridgeweave launches AI-powered InvestorAi - Your Personal Investment Analyst"
-excerpt: "Bridgeweave launches AI-powered InvestorAi - Your Personal Investment Analyst - Bridgeweave, a UK based fintech founded by Akshaya Bhargava, founding CEO of Progeon (now Infosys BPO)"
-publishedDateTime: 2021-07-15T07:39:00Z
-originalUrl: "https://news.siliconindia.com/technology/bridgeweave-launches-aipowered-investorai--your-personal-investment-analyst-nid-216525-cid-2.html"
-webUrl: "https://news.siliconindia.com/technology/bridgeweave-launches-aipowered-investorai--your-personal-investment-analyst-nid-216525-cid-2.html"
+excerpt: "Bridgeweave, a UK based fintech founded by Akshaya Bhargava, founding CEO of Progeon (now Infosys BPO) and erstwhile Global CEO of Barclays PLC Wealth and Investment Management, today announced the launch of its mobile app InvestorAi,"
+publishedDateTime: 2021-07-15T10:48:00Z
+originalUrl: "https://www.equitybulls.com/admin/news2006/news_det.asp?id=293492"
+webUrl: "https://www.equitybulls.com/admin/news2006/news_det.asp?id=293492"
 type: article
 quality: 16
 heat: -1
 published: false
 
 provider:
-  name: SiliconIndia
-  domain: siliconindia.com
+  name: Equity Bulls
+  domain: equitybulls.com
 
 topics:
   - AI in Finance
@@ -45,6 +45,6 @@ related:
       domain: businessinsider.com
     quality: 35
 
-secured: "IpfYEOzw2LGtsRr6hBmziBa6Bt4XQWV+MWt4MunlIkIthvy7bJPuomZeoERWXiHlnGUuQIt6QR7osLEuf3Y7lA9JEQAFh7bTKtz5TO+tD/tXYYdjPidvnoAnUQN5M0QJrFTm5gcWSlc8CsKz0e2+aYOq35I2nWYHGoKvqvAhW/C3YkUbIUhJAV2IzH8EDTlcooXz6Tx6km1JVwDi5pat7lC4M3VoJHi4gz/SxwB1uYScEmILiQV8g21rA60bi/ACVliRCRPbdmbPg4eJLoiauVLdIUloF0h3IRfbfuLHNAUyxWQyMcxPPRZ7NWMtTCzrNB6Za3wssEltPR803N7rwz2q3L7F1Bv8DEGftRpm+49k7rQ/A375KDdfdovAyb5PrykhclXTDtb0oYqtnfsGFC3VUrofMP0gVm+2O9V/nsqiX5OgzsXKttiw0X6jT+LFc0ctb11swGEXinWue45HlWvh02D++o8c4MCpEhuGMpdQ6KjlaukhmJTZGQMcc9q8qJH2uvkU0yIFLoo9AE2L5w==;+RZTZECqzB6/B/XSQBxdUg=="
+secured: "7ahXYnU/qey3m5tLHrRemT3smXF/KJ8fiFCvfouyzzWL49i/hUBP3xWKN090K9RCfamiCnGB11C0E7DnlJjBFEkEr7aeOQOSZ2tiAseXYuCJUDsYlTuLQDelt/nmDuJEW5etjuGajeTDfAbFvvCTcz/tH/scw6yfHkbUd13hR9hrNUc1noWV0ZhQoSsd6GvvZpjJjfu5Y5OwntVI/fFxk0HMQxLGOeUZMjKV5qx9iFJmtQ08fOlo24FL9Iz57j+u0R5l+zEDgUWY6e8T7kJRzjb4Chk5q6ziSknT1xSMocuFj/+jUVgSN3ZRzdpbEZkb9ln6i4fRqpv4cFuISsYUYACC5ZHD8t2zpItSp8fvipY=;nz0pLZQNKh+gv1r3cbykog=="
 ---
 

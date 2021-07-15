@@ -109,22 +109,6 @@ related:
         width: 1500
         height: 1000
         isCached: true
-  - title: "Tesla finally releases Full Self-Driving Beta v9: here’s what it looks like"
-    excerpt: "Tesla has finally released its highly-anticipated Full Self-Driving Beta v9 software update. Here’s what it looks like. It was a long time coming, but when CEO Elon Musk put an actual date on the release,"
-    publishedDateTime: 2021-07-10T17:57:00Z
-    webUrl: "https://electrek.co/2021/07/10/tesla-full-self-driving-beta-v9-first-videos-release-notes/"
-    ampWebUrl: "https://electrek.co/2021/07/10/tesla-full-self-driving-beta-v9-first-videos-release-notes/amp/"
-    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/07/10/tesla-full-self-driving-beta-v9-first-videos-release-notes/amp/"
-    type: article
-    provider:
-      name: Electrek
-      domain: electrek.co
-    quality: 87
-    images:
-      - url: "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2021/07/Tesla-full-self-driving-beta-v9.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "Videos of Tesla's latest Full Self-Driving software update don't inspire much confidence"
     excerpt: "Videos show some improvements, but lots of dangerous glitches for a software called \"full self-driving.\""
     publishedDateTime: 2021-07-14T20:03:00Z

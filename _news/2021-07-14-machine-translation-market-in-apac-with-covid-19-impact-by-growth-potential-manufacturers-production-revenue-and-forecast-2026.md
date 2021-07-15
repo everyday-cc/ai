@@ -39,6 +39,17 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 24
+  - title: "Automatic Speech Recognition Applications Market to 2027, Future Outlook, COVID-19 Impact Analysis, Forecast - 2027"
+    excerpt: "The Global Automatic Speech Recognition Applications Market is valued at USD million in 2019 The market size will reach USD million by the end of 2027 growing at a CAGR of 1 during 2021 2027 Automatic Speech Recognition Application is"
+    publishedDateTime: 2021-07-15T10:08:00Z
+    webUrl: "https://www.openpr.com/news/2329195/automatic-speech-recognition-applications-market-to-2027"
+    ampWebUrl: "https://www.openpr.com/amp/2329195/automatic-speech-recognition-applications-market-to-2027"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2329195/automatic-speech-recognition-applications-market-to-2027"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 17
 
 secured: "PJ4XrNLux3c7dNdfo4JfAiSqZRf3xexbwUqwOJ8RNoUSinRzuQEhdK9Zh+IU6RHfGf8cs4UWb8u8hzFi1BoqbBWHHxPhsn2eni3NYnRO+vHsloBqsd4TJquLpbQGMAkXwmKiQS1D/5CE5aOb43ZZtShnIZAQLSUv/AGhoJUqHDY99KuG1r3wS8Fgq1hc08y84OD49baSLwNyMoldsAAxwV97Ek8E792iQn47g7pFNFyi19TPPgVPdjPZwkomZb3pQAS+KzGdiTH4UXgdzvIwCk11yamCxU6ImhwuYoQro0LFVIbzN0HxL99VT3wc1g8VMGCiwcRBPGIThFdYcMcpN0z1jMQ1OUOBL5CYarHCr8k=;GmtqEvWStoNtWg0CstiI9A=="
 ---

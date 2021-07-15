@@ -123,6 +123,20 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 34
+  - title: "Global Self-Driving Truck Technology Market 2021 Growth, Trend, Analysis, Future Opportunities and Industry Forecast to 2026"
+    excerpt: "The global research report titled Global Self-Driving Truck Technology Market 2021 by Company, Regions, Type and Application, Forecast to 2026, recently published by MarketsandResearch.biz is prepared with a nice combination of industry insight,"
+    publishedDateTime: 2021-07-14T02:45:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-self-driving-truck-technology-market-2021-growth-trend-analysis-future-opportunities-and-industry-forecast-to-2026-2021-07-13"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 27
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Global Artificial Intelligence (AI) in BFSI Market Size, Status and Forecast 2021-2027"
     excerpt: "Pages Report] Check for Discount on Global Artificial Intelligence (AI) in BFSI Market Size, Status and Forecast 2021-2027 report by QYResearch Group. Artificial Intelligence (AI) is fast evolving as the"
     publishedDateTime: 2021-07-13T08:22:00Z

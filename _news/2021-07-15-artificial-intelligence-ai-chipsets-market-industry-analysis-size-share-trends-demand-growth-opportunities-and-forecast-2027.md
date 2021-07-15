@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chipsets-market-industry-analysis-size-share-trends-demand-growth-opportunities-and-forecast-2027-2021-07-14"
 type: article
 quality: 74
-heat: 204
+heat: 194
 published: true
 
 provider:
@@ -87,20 +87,6 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Artificial Intelligence (AI) in BFSI Market Shaping A New Growth Cycle"
-    excerpt: "HTF MI Published Latest Global  Study by in-depth analysis about current scenario, the Market size, demand, growth pattern, trends, and forecast. Revenue for  has grown substantially over the six years to 2020 as a result of strengthening macroeconomic conditions and healthier demand,"
-    publishedDateTime: 2021-07-10T17:50:00Z
-    webUrl: "https://manometcurrent.com/artificial-intelligence-ai-in-bfsi-market-shaping-a-new-growth-cycle/"
-    type: article
-    provider:
-      name: manometcurrent.com
-      domain: manometcurrent.com
-    quality: 52
-    images:
-      - url: "https://manometcurrent.com/wp-content/uploads/2021/07/Artificial-Intelligence-AI-in-BFSI-Market.jpeg"
-        width: 504
-        height: 336
         isCached: true
   - title: "Healthcare Natural Language Processing Market 2021 Analysis of Key Trends, Industry Dynamics and Future Growth 2025 with Top Countries Data"
     excerpt: "Jul 15, 2021 (Market Insight Reports) -- Overview for \"Healthcare Natural Language Processing Market\" Helps in providing scope and definitions, Key Findings, Growth Drivers, and Various Dynamics. The study of Healthcare Natural Language Processing market ..."
