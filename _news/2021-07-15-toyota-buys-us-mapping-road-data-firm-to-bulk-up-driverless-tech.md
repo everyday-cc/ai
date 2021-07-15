@@ -1,30 +1,22 @@
 ---
 category: news
 title: "Toyota buys U.S. mapping, road data firm to bulk up driverless tech"
-excerpt: "Toyota Motor Corp’s research arm said on Thursday it acquired U.S.-based Carmera, a provider of maps and data for driverless vehicles, marking the Japanese car maker’s latest investment in autonomous technology."
-publishedDateTime: 2021-07-14T23:43:00Z
-originalUrl: "https://www.metro.us/toyota-buys-u-s-mapping/"
-webUrl: "https://www.metro.us/toyota-buys-u-s-mapping/"
-ampWebUrl: "https://www.metro.us/toyota-buys-u-s-mapping/amp/"
-cdnAmpWebUrl: "https://www-metro-us.cdn.ampproject.org/c/s/www.metro.us/toyota-buys-u-s-mapping/amp/"
+excerpt: "Toyota Motor Corp's research arm said on Thursday it acquired U.S.-based Carmera, a provider of maps and data for driverless vehicles, marking the Japanese car maker's latest investment in autonomous technology."
+publishedDateTime: 2021-07-14T23:38:00Z
+originalUrl: "https://www.nasdaq.com/articles/toyota-buys-u.s.-mapping-road-data-firm-to-bulk-up-driverless-tech-2021-07-14"
+webUrl: "https://www.nasdaq.com/articles/toyota-buys-u.s.-mapping-road-data-firm-to-bulk-up-driverless-tech-2021-07-14"
 type: article
-quality: 59
+quality: 49
 heat: -1
 published: false
 
 provider:
-  name: Metro US
-  domain: metro.us
+  name: Nasdaq
+  domain: nasdaq.com
 
 topics:
   - AI in Autos
   - AI
-
-images:
-  - url: "https://www.metro.us/wp-content/uploads/Reuters_Direct_Media/USOnlineReportBusinessNews/tagreuters.com2021binary_LYNXMPEH6D1AY-BASEIMAGE.jpg"
-    width: 800
-    height: 544
-    isCached: true
 
 related:
   - title: "Toyota Self-Driving Car Unit Agrees to Buy Map-Maker Carmera"
@@ -59,6 +51,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Toyota's Self-Driving Unit Acquires US Mapping Firm Carmera"
+    excerpt: "Toyota’s self-driving unit, Woven Planet, will now have the benefit of more software mapping through its acquisition of U.S. mapping startup Carmera."
+    publishedDateTime: 2021-07-15T02:42:00Z
+    webUrl: "https://www.pymnts.com/news/partnerships-acquisitions/2021/toyota-self-driving-unit-acquires-united-states-mapping-firm-carmera/"
+    ampWebUrl: "https://www.pymnts.com/news/partnerships-acquisitions/2021/toyota-self-driving-unit-acquires-united-states-mapping-firm-carmera/amp/"
+    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/partnerships-acquisitions/2021/toyota-self-driving-unit-acquires-united-states-mapping-firm-carmera/amp/"
+    type: article
+    provider:
+      name: pymnts.com
+      domain: pymnts.com
+    quality: 44
+    images:
+      - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/07/Toyota-Woven-Planet-Carmera-acquisition-457x274.jpg"
+        width: 457
+        height: 274
+        isCached: true
   - title: "Toyota’s self-driving unit buys US mapping start-up in software push"
     excerpt: "Toyota’s self-driving unit has acquired US mapping start-up Carmera as the Japanese group embarks on a software buying spree in an attempt to quadruple its global engineering headcount over the next few years."
     publishedDateTime: 2021-07-14T21:01:00Z
@@ -90,6 +98,6 @@ related:
         height: 246
         isCached: true
 
-secured: "F5KWJ2JbXhVQ2YH009FcjGb8w4tqlVzpuc3zrogRMDfHea2s5wCBsqqX7sceiLRjDcPboy83sPsa1YLZKzTwRqDHl+sfW521J6kC4o1Jkl0KgnALIquPXVGETd3Bkr3CnURsFZQ+Sb11HEtlOUeITLClrtTiUx5ag4Tk5e/mGkFqaACyKwjNvvKF0B0LvbneTiVze033sSTYXTZ8IOV0frmiFjWI9hBJfV1h5hgHa/HphtPmmEgnsATiYYNrIf4P0lgngA8ssoktuZPjgq1KQUYsNW5LQkcPXmtIYVoPinf5Xa/ECpWwY+2/wNh6klUZ4KuiDjdvV7s+gM/rnrbCl8seWCiK/FOst11at4dQS6M=;kjvMj4tglA5wfuuYKmdeqQ=="
+secured: "PxTlH4OuYDRx3eNldz9FPeOJaH5Ab0R/eXdFCuWJ2hMXJ1V2MywC0pTKJY0Ja93fqVty0O5WRNWRxUOdaDbCjIlDcEFLWFS77Pr//d3fmdrSoE3giLnQY8y/Z/hLkxBAyyFzADvF5lkMqDmgQf1k0XqZh38HcnALus35D8Bn+/2Pm4koqb31HKweODSaSz+doGkopYjNBiM26WBZ6vXY/L366ImsPZ3jVBnwz9+ebzp+YMD4R9B2N06BVGS8LDhx63gmI6VvxTKUgk6qtjtpoyIaAUGvX3Pg67dCBON0s1OPT9RtIFhpOm+NqXDdD8OPO8iZ6Qygp+dgYidi2Vlwx6Yo3xcWC8m0mRZZnnp6FEt2ZCV390XSF8AGaVgpE+ZHfxKrXPeqq0hiDKud45cDlH8/vlCuxBubzH+sS4OQbnI/BkXFV92kqYLi+21G9U5Mpbki6aN848pZO85+Md8p5hx+bOpK5AvIOmu7M9Fa/KeXi8D25BXGLSGnRiCfBtU57udH6U6suDs+Vqr1tB0TCA==;wvdFg772fuFn5bBfQbQrEw=="
 ---
 

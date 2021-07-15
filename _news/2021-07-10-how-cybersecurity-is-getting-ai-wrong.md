@@ -46,6 +46,15 @@ related:
         width: 5570
         height: 3713
         isCached: true
+  - title: "Singapore fintech start-up ADVANCE.AI named in global Fintech Power 50 list in 2021"
+    excerpt: "In the past 12 months, ADVANCE.AI was also named in LinkedIn's Top 10 Start-ups in Singapore, awarded \"Best International Fintech\" at India's Fintech Awards and listed in the \"Next Global Tech 50 ..."
+    publishedDateTime: 2021-07-15T02:09:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/singapore-fintech-start-up-advance-ai-named-in-global-fintech-power-50-list-in-2021-1030608664"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 41
   - title: "Ensure AI brings social good and not inequity: Experts at Asia Tech x Singapore"
     excerpt: "SINGAPORE - Artificial intelligence (AI) technologies can bring a wide range of opportunities and benefits, but they also come with the risk of perpetuating biases and inequitable distribution of those benefits."
     publishedDateTime: 2021-07-14T14:37:00Z

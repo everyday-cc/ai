@@ -150,15 +150,6 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 19
-  - title: "Global Automatic Speech Recognition Market Size, Status and Forecast 2021-2027"
-    excerpt: "The global Automatic Speech Recognition market size is projected to reach US$ XX million by 2027, from US$ XX million in 2020, at a CAGR of XX% during 2021-2027. With industry-standard accuracy in analysis and high data integrity, the report makes a ..."
-    publishedDateTime: 2021-07-10T09:05:00Z
-    webUrl: "https://www.reportsnreports.com/reports/4660781-global-automatic-speech-recognition-market-size-status-and-forecast-2021-2027.html"
-    type: article
-    provider:
-      name: ReportsnReports
-      domain: reportsnreports.com
-    quality: 15
   - title: "Global Artificial Intelligence in Construction Market Size, Status and Forecast 2021-2027"
     excerpt: "Pages Report] Check for Discount on Global Artificial Intelligence in Construction Market Size, Status and Forecast 2021-2027 report by QYResearch Group. Market Analysis and Insights: Global Artificial Intelligence in Construction"
     publishedDateTime: 2021-07-13T08:25:00Z

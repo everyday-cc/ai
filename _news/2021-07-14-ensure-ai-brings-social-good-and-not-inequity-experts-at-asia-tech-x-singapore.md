@@ -57,6 +57,15 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Singapore fintech start-up ADVANCE.AI named in global Fintech Power 50 list in 2021"
+    excerpt: "In the past 12 months, ADVANCE.AI was also named in LinkedIn's Top 10 Start-ups in Singapore, awarded \"Best International Fintech\" at India's Fintech Awards and listed in the \"Next Global Tech 50 ..."
+    publishedDateTime: 2021-07-15T02:09:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/singapore-fintech-start-up-advance-ai-named-in-global-fintech-power-50-list-in-2021-1030608664"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 41
   - title: "Artificial Intelligence (AI) in Cybersecurity Market Worth Observing Massive Growth: Acalvio Technologies Inc., Check Point Software Technologies Ltd"
     excerpt: "The recent report titled Global Artificial Intelligence AI in Cybersecurity Market and forecast to 2028 published by QY Reports is a focused study encompassing the market segmentation primarily based on type and application The report investigates the key drivers leading"
     publishedDateTime: 2021-07-14T04:00:00Z

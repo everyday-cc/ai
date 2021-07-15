@@ -2,6 +2,49 @@
   "page": 68,
   "value": [
     {
+      "path": "_news/2021-05-25-ai-knows-when-youre-being-sarcastic-on-twitter.md",
+      "title": "AI knows when you're being sarcastic on Twitter",
+      "excerpt": "The future is hurtling toward us, and with each passing day AI is getting smarter. We've seen AI that will play your games for you, and if you're using a 30-series Nvidia GPU, you've probably utilised the company's DLSS supersampling AI tech to upscale your game resolutions.",
+      "sourceUrl": null,
+      "webUrl": "https://www.pcgamer.com/au/ai-raps-and-detects-sarcasm/",
+      "originalUrl": "https://www.pcgamer.com/au/ai-raps-and-detects-sarcasm/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/x8mqnto4oFGqCtNG5wBrGU-480-80.jpg",
+          "width": 480,
+          "height": 270,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.pcgamer.com/au/amp/ai-raps-and-detects-sarcasm/",
+      "cdnAmpWebUrl": "https://www-pcgamer-com.cdn.ampproject.org/c/s/www.pcgamer.com/au/amp/ai-raps-and-detects-sarcasm/",
+      "publishedDateTime": "2021-05-25T07:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC Gamer",
+        "domain": "pcgamer.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-25-gns-to-develop-the-worlds-first-in-silico-patient-for-prostate-cancer.md",
       "title": "GNS to Develop the World's First in silico Patient For Prostate Cancer",
       "excerpt": "GNS Healthcare, an artificial intelligence company creating in silico patients that simulate drug treatment at the individual patient level, today announced plans to",
@@ -1119,57 +1162,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-25-tiktok-viral-uberduckai-text-to-celebrity-speech-bot-is-quite-quacking-good.md",
-      "title": "TikTok Viral ‘Uberduck.AI’ Text To Celebrity Speech Bot Is Quite Quacking Good",
-      "excerpt": "Uberduck.AI is a text to speech tool that allows you to turn any text into a celebrity, rapper, or famous politician's voice. TikTok's new voice change and the internet's love for innovation have combined into the next AI internet spectacle.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/jacksonweimer/2021/05/24/tiktok-viral-uberduckai-text-to-celebrity-speech-bot-is-quite-quacking-good/",
-      "originalUrl": "https://www.forbes.com/sites/jacksonweimer/2021/05/24/tiktok-viral-uberduckai-text-to-celebrity-speech-bot-is-quite-quacking-good/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60ac60fe8714a2b9c17f4a3f%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1920%26cropY1%3D0%26cropY2%3D1080",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/jacksonweimer/2021/05/24/tiktok-viral-uberduckai-text-to-celebrity-speech-bot-is-quite-quacking-good/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jacksonweimer/2021/05/24/tiktok-viral-uberduckai-text-to-celebrity-speech-bot-is-quite-quacking-good/amp/",
-      "publishedDateTime": "2021-05-24T20:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

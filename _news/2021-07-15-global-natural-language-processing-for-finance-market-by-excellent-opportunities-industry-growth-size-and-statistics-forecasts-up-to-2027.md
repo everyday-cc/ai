@@ -84,22 +84,6 @@ related:
         width: 400
         height: 300
         isCached: true
-  - title: "Global Neural Network Software Market 2019 Size, Growth Analysis Report, Forecast to 2025"
-    excerpt: "The global neural network software market is expected to grow at a significant rate during the forecast period.The major factors that will contribute to the market growth include the increasing investment in AI (artificial intelligence) technologies and ..."
-    publishedDateTime: 2021-07-10T10:44:00Z
-    webUrl: "https://www.openpr.com/news/2325654/global-neural-network-software-market-2019-size-growth"
-    ampWebUrl: "https://www.openpr.com/amp/2325654/global-neural-network-software-market-2019-size-growth"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2325654/global-neural-network-software-market-2019-size-growth"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 50
-    images:
-      - url: "https://cdn.openpr.com/U/7/U710681949_g.jpg"
-        width: 635
-        height: 357
-        isCached: true
   - title: "Intel Stock – Artificial Intelligence (AI) Robots Market Size, Share 2021-2028"
     excerpt: "Robots Market study provides details of market dynamics affecting the market, market size, and segmentation, and casts a shadow over the major market players by highlighting the favorable competitive landscape and successful trends over the years."
     publishedDateTime: 2021-07-11T10:52:00Z
@@ -198,11 +182,11 @@ related:
   - title: "Global Speech Recognition Market 2021 Industry Research, Review, Growth, Segmentation, Key Players Analysis and Forecast to 2027"
     excerpt: "The global Speech Recognition market size is projected to reach US$ 17490 million by 2027, from US$ 9461.8 million in 2020, at a CAGR of 9.1% during 2021-2027. This report studies the Global Speech Recognition market status and outlook of global and major regions,"
     publishedDateTime: 2021-07-13T14:07:00Z
-    webUrl: "https://www.reseller.co.nz/mediareleases/144447/global-speech-recognition-market-2021-industry/"
+    webUrl: "https://www.arnnet.com.au/mediareleases/144447/global-speech-recognition-market-2021-industry/"
     type: article
     provider:
-      name: Reseller News
-      domain: reseller.co.nz
+      name: ARN
+      domain: arnnet.com.au
     quality: 0
 
 secured: "qQVKPik4FAIfXjMyQEsUY3TRHYkgCV+gQGsOwogb+gk1jICuudQDHVa3l+tI9lxFMDiAxueM0Jf5tTCt6Rurc2P1nUW/yuGcr3cRdbQqn2B2EbhNAHJpZlljus9ARlgYhY7DyE+7hM7ARZ3+/dog/EfuDQPZZVbxcnskkifRBUCcSJu+wLfWHq6d4RPaRnsMYUbGQVqw7SqjyAr1A7soVB72rZI9tMLIYfBXECUiE3QWmiRUaXS4Duz3daU3qjzKcB75Yud1Kxd4UT+MsDMfXY5vE7vDp0mT39HWwvsR4hPsld36SQZNEchmqOlq/M10Y3KcYybzkpNgaGiTe+JsAjY8k2mx0h2OBlyk8xOhkc8jMZMxzVJhl0tq79i4YsctrOtKLE4BIcoWf9IZ/oeLJ81nTO1PYLlvFVQDUl1JgI0NTqecCX7NontdYBat41ojpcLhoYiolE5U9xMc3RPmBq7mIwUvo0jg6cVtCWuoncZ17d3p/yvTfywr+tpRpYoEF6ZHn2UWE2GSgnbG+Kgf7w==;/7QJUx3ztmI/9BTbQFDEiQ=="

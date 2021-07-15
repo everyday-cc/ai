@@ -3,16 +3,16 @@ category: news
 title: "Global Speech Recognition Market 2021 Industry Research, Review, Growth, Segmentation, Key Players Analysis and Forecast to 2027"
 excerpt: "The global Speech Recognition market size is projected to reach US$ 17490 million by 2027, from US$ 9461.8 million in 2020, at a CAGR of 9.1% during 2021-2027. This report studies the Global Speech Recognition market status and outlook of global and major regions,"
 publishedDateTime: 2021-07-13T14:07:00Z
-originalUrl: "https://www.reseller.co.nz/mediareleases/144447/global-speech-recognition-market-2021-industry/"
-webUrl: "https://www.reseller.co.nz/mediareleases/144447/global-speech-recognition-market-2021-industry/"
+originalUrl: "https://www.arnnet.com.au/mediareleases/144447/global-speech-recognition-market-2021-industry/"
+webUrl: "https://www.arnnet.com.au/mediareleases/144447/global-speech-recognition-market-2021-industry/"
 type: article
 quality: 0
 heat: -1
 published: false
 
 provider:
-  name: Reseller News
-  domain: reseller.co.nz
+  name: ARN
+  domain: arnnet.com.au
 
 topics:
   - Natural Language Processing
@@ -76,22 +76,6 @@ related:
       - url: "https://cdn.openpr.com/U/7/U710733997_g.jpg"
         width: 400
         height: 300
-        isCached: true
-  - title: "Global Neural Network Software Market 2019 Size, Growth Analysis Report, Forecast to 2025"
-    excerpt: "The global neural network software market is expected to grow at a significant rate during the forecast period.The major factors that will contribute to the market growth include the increasing investment in AI (artificial intelligence) technologies and ..."
-    publishedDateTime: 2021-07-10T10:44:00Z
-    webUrl: "https://www.openpr.com/news/2325654/global-neural-network-software-market-2019-size-growth"
-    ampWebUrl: "https://www.openpr.com/amp/2325654/global-neural-network-software-market-2019-size-growth"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2325654/global-neural-network-software-market-2019-size-growth"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 50
-    images:
-      - url: "https://cdn.openpr.com/U/7/U710681949_g.jpg"
-        width: 635
-        height: 357
         isCached: true
   - title: "Intel Stock – Artificial Intelligence (AI) Robots Market Size, Share 2021-2028"
     excerpt: "Robots Market study provides details of market dynamics affecting the market, market size, and segmentation, and casts a shadow over the major market players by highlighting the favorable competitive landscape and successful trends over the years."
@@ -203,6 +187,6 @@ related:
       domain: arnnet.com.au
     quality: 5
 
-secured: "A/cqJ1iLAxWxc1cBG9GRJKKsHkuRbN0x+OLC7Pq6yD6l6IWLGmiSD4/E5aK0uvxqdYwhycrh/MsE299NT7G+vX6tNxRTLqtxT8BIFUEvs3WkQOW6UWKfL9SNyqVHkQspECkWmWVnYXcLFn7zDu7YiqMfRy6IUEIC3hNj9g9bRvYpddBe76gP/kpXl9e86evP4DZxa3D123DgT/2dfAyidB/PznQfVp6/gsmhSHvHoM3wPui1RrFeof0sSaE+q9K9EorGqoVsrIpvdSPyWMn7IRK2HaZQy3J4+Dz0yVl5FRfQTpl5hPXWf+F0iIVOJ9tE1a0rtwXhl/+bk25leI+WSzmDkNXdE5DAO+7Ssu7WEQ0=;wy2RZoA/CYDHdnLecA9rxw=="
+secured: "H0TSPqlujQaRADU4/fJx1pdrZXG0G9oRwGVuoyOwAz6I0LEdSH6E9nTLnaX3InPvQhK2XeRIGJb9qlj+8lCW6OCZz4N1bH2OU7dtVZ52gqu7//aMh9FYkTfGYG9LglN7U/WmxcSKRAGpePhCRYyfoemjBG+CH/pSycEfBlEgNghlDaaQLzKyhSyW35b8URD0DhO1GcN8M+VIW03mquLF72ZiHjgcvFv97Ye497CROuJi9V6JSMrluljqhMz9VCdiGGiqinI3gknZgshzxtQ+nVFONKQBBbiiNGBtwP7Ht2F6EpqiHABUtKZoVstwdYndZmc8g4+TABuM9tiTDyBuozQX0gj8WbnIjgwr/8AhZHQ=;TwCtS2IKbAsz4j6gR6d13w=="
 ---
 
