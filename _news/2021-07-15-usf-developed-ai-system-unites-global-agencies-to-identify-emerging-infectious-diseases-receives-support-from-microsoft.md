@@ -1,27 +1,27 @@
 ---
 category: news
 title: "USF-developed AI system unites global agencies to identify emerging infectious diseases, receives support from Microsoft"
-excerpt: "Leadership in providing with the public consistent projections of COVID-19 infections and hospitalizations has prompted the"
-publishedDateTime: 2021-07-14T18:46:00Z
-originalUrl: "https://www.miragenews.com/usf-developed-ai-system-unites-global-agencies-595926/"
-webUrl: "https://www.miragenews.com/usf-developed-ai-system-unites-global-agencies-595926/"
+excerpt: "Leadership in providing with the public consistent projections of COVID-19 infections and hospitalizations has prompted the launch of a USF-led global modeling project sponsored by Microsoft that can ultimately help scientists more swiftly identify and respond to the threat of emerging infectious diseases."
+publishedDateTime: 2021-07-14T19:52:00Z
+originalUrl: "https://www.usf.edu/news/2021/usf-developed-ai-system-unites-global-agencies-to-identify-emerging-infectious-diseases-receives-support-from-microsoft.aspx"
+webUrl: "https://www.usf.edu/news/2021/usf-developed-ai-system-unites-global-agencies-to-identify-emerging-infectious-diseases-receives-support-from-microsoft.aspx"
 type: article
 quality: 29
 heat: -1
 published: false
 
 provider:
-  name: Armed robbery in Revesby
-  domain: miragenews.com
+  name: Health News Florida
+  domain: usf.edu
 
 topics:
   - Microsoft AI
   - AI
 
 images:
-  - url: "https://www.usf.edu/images/news/2021/usf-developed-ai-system-unites-global-agencies-to-identify-emerging-infectious-diseases-receives-support-from-microsoft/microsoft-snippet-2.jpg"
-    width: 320
-    height: 325
+  - url: "https://www.usf.edu/images/news/2021/usf-developed-ai-system-unites-global-agencies-to-identify-emerging-infectious-diseases-receives-support-from-microsoft/microsoft-article.jpg"
+    width: 733
+    height: 504
     isCached: true
 
 related:
@@ -192,6 +192,6 @@ related:
       domain: thepacker.com
     quality: 19
 
-secured: "5UToHAeCUbDg09nOaM/1+ck/1tz/EjGA8Ui9TbinHV05w+5OO03ELGXrP4F5WKGpD0K2iB8rlXtEKcd7DkX5Ss8UtRC3dVhXNa5IGbImcjpF9kKt/lgyXOH30RBsm/XyX12AZEBWYp3dIOEFwcunq/AYvQE3S0rB211Jm0eTjLg30DBGEQsrkLzFIeNpN0AKmmkThmTVUQ00kX8UYMmfi7OL+0L85nKDeZo3TVWo8SL2PyzPywuC/EfJfk35xSA/bWIKXDK5m4xwk9w2QJeTnksNrRQxG3bfbtlqUWnpZzS2J/+uNbsT/92GVeEwTH6RGCXb8zFxeXg475wauvC2pKAQ3/4MIm9V53+gKKeySuE=;RdmvRCupqgUR7JWWMyv3tA=="
+secured: "o5LXmaccahhWdm+L94KaJTV0KK48ksO6pJeuNeZF2eyc4AOVhIoWesZuQXD5QgUY98iaJCq+uABhVrY/RJJd8EvuKi3ml3PwJXKwMihjgnO/zl7D0lNrqiApjsMq3v3kxebbZTpNiVLE6z2rgyzL16K7OkBLylcAupQZaIJM3GiVSm1SVbzHBCYBI6kQLktlMiQ9NTh0vD7IXflhjcLiaqhp3oxrYtvbaYtaznNg4WZwOl/CdF+810LBV9ynQloxOKInznpnbgV5/JR7UE6z7+ZuZiT8Bpifu59l5KtZbxNVVRzIhGvEpLx1qhQVPR3DjMsrQEFU9v17Cq7OUKi4Cg4X2khp4jdc4bmoyMLMwHo=;QlKCUdl/TE3sgTK20vVkaw=="
 ---
 

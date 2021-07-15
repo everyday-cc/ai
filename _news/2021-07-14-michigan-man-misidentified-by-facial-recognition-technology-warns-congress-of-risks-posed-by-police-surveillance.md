@@ -43,6 +43,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Congress Asks Experts for Guidance on Facial Recognition"
+    excerpt: "Law enforcement uses facial recognition systems with little oversight and, at times, disastrous impact. During a congressional hearing this week, members and experts talked through how new laws could head off greater harm."
+    publishedDateTime: 2021-07-14T23:15:00Z
+    webUrl: "https://www.govtech.com/security/congress-asks-experts-for-guidance-on-facial-recognition"
+    ampWebUrl: "https://www.govtech.com/security/congress-asks-experts-for-guidance-on-facial-recognition?_amp=true"
+    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/security/congress-asks-experts-for-guidance-on-facial-recognition?_amp=true"
+    type: article
+    provider:
+      name: Government Technology
+      domain: govtech.com
+    quality: 61
+    images:
+      - url: "https://erepublic.brightspotcdn.com/dims4/default/9451d55/2147483647/strip/true/crop/1095x571+18+0/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2F67%2F8b%2Fbf2467764012829abc8b9b917271%2Frw-better.png"
+        width: 840
+        height: 438
+        isCached: true
   - title: "The Technology 202: House hearing highlights the lack of oversight of facial recognition technology"
     excerpt: "Williams later found out he was wrongfully arrested after he was falsely identified as a shoplifting suspect in January 2020 by Detroit police after they used facial recognition t"
     publishedDateTime: 2021-07-14T08:22:00Z
@@ -74,6 +90,20 @@ related:
       - url: "https://images.foxtv.com/static.fox2detroit.com/www.fox2detroit.com/content/uploads/2021/04/932/470/wjbk-facial-recognition-aclu-lawsuit.jpg?ve=1&tl=1"
         width: 932
         height: 470
+        isCached: true
+  - title: "How facial recognition technology and interactive kiosks improve security to keep your identity safe"
+    excerpt: "Facial recognition technology has been sci-fi movie fodder for decades, from Face/Off’s famous face-swapping plot to Minority Report’s take on Digital Out of Home (DOOH) marketing, where citizens walk through the world constantly recognized."
+    publishedDateTime: 2021-07-13T11:14:00Z
+    webUrl: "https://www.kioskmarketplace.com/blogs/how-facial-recognition-technology-and-interactive-kiosks-improve-security-to-keep-your-identity-safe/"
+    type: article
+    provider:
+      name: KIOSK marketplace
+      domain: kioskmarketplace.com
+    quality: 41
+    images:
+      - url: "https://nmgprod.s3.amazonaws.com/media/files/ef/77/ef7728e4459665bb1601bfc9eb075ce0/cover_image_1626268261.jpg.760x400_q85_crop_upscale.jpg"
+        width: 760
+        height: 400
         isCached: true
   - title: "Bipartisan Calls to Regulate Facial Recognition Tech Grow Louder"
     excerpt: "Lawmakers on both sides of the political aisle have concerns about the government’s increased use of biometric technology."

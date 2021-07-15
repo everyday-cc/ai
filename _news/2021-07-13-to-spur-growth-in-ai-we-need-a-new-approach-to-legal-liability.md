@@ -8,7 +8,7 @@ webUrl: "https://hbr.org/2021/07/to-spur-growth-in-ai-we-need-a-new-approach-to-
 ampWebUrl: "https://hbr.org/amp/2021/07/to-spur-growth-in-ai-we-need-a-new-approach-to-legal-liability"
 cdnAmpWebUrl: "https://hbr-org.cdn.ampproject.org/c/s/hbr.org/amp/2021/07/to-spur-growth-in-ai-we-need-a-new-approach-to-legal-liability"
 type: article
-quality: 57
+quality: 59
 heat: -1
 published: false
 
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI Ethics
 
 images:
   - url: "https://hbr.org/resources/images/article_assets/2021/07/Jul21_13_1319915614.jpg"
@@ -43,6 +44,6 @@ related:
         height: 381
         isCached: true
 
-secured: "iLV4WRXrVwNwnWf3Aog/VYkbg8TRVO1ZHsc5aTDp35kJdJaqrDC/vl6vGFV60zKYtF5g5d4Fqdaz0834UqX62vjgyG95+G4vJ1c5Gp/xseb7rTNf3jAeNh67eGjbvAR59pUHF3m5eNZjbmWOM2lq/PdRmVyvDziYNzF03iuZidWvt+Li7fKnZVI4HmANvlr+/iW8RG7TlCvfI5lkfSwV9AfAp6dJVkjftMNY7g66AXezDZgtZF5qNAtnwUPXvRpXBdnaODthhobB6hb9groULlsGSucBS1miFiOZkUDphTnk3P8fLMs+r3tapTth6MdMWo2zleSyeT7nnGgnsegnUguD91e/2HjvHXjt+a1wLCE=;gS7LaBcBowCkhsghUVEa8w=="
+secured: "5bUz2iZayYURypdBuFXrxKe+YyIkMZxKmVmHJUaaFozAeC5Xd+oDCP1kkhyb6kbepVAlLsLTlFE184+4ajO5rw27JqWSux2AmnsHCZXVPPqTJ2+lHqc8cnx5def1/rPFwZfGhacKKegxhLWgS2Sxs16XidF+8YOT51dNyUDERDBZJKWDIbqyQQDskQBNEBuubmrsdXrmw+davfvg6u8ZyFoc76UoFCr1/1BCw3AF+7ljUpSIEiAWwFrVTgnEavtcf+zCS/AtOUDzjFy8zB5X4dxqiRIfUJueOCSQakPiPkpYSp2Fl5rfDvqTU0Fd52/i5UndCo6mZTth8zPTRYhhyeLdcy0igHTAHExtkn4zBJ1fsLpOEoitl/5BPynLE/l6R6gMOFQdP/dmOp0z3umu+98mOH14v3UKa4FGtSbFpdw6KDj4l45jD0xGufSC84ghKyE8QtIHpevamZTv1lTN6J1RSK7jawv82fOyDa4Lzyu/CUcP6a8HrhNdt7B5DgWlwcUfYTq4MOuw9TyhNH1vzA==;tNfLeG+539Nn+9c9o6EGCQ=="
 ---
 

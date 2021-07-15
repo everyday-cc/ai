@@ -135,6 +135,22 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Videos of Tesla's latest Full Self-Driving software update don't inspire much confidence"
+    excerpt: "Videos show some improvements, but lots of dangerous glitches for a software called \"full self-driving.\""
+    publishedDateTime: 2021-07-14T20:03:00Z
+    webUrl: "https://www.businessinsider.com/tesla-fsd-full-self-driving-videos-flaws-glitches-2021-7"
+    ampWebUrl: "https://www.businessinsider.com/tesla-fsd-full-self-driving-videos-flaws-glitches-2021-7?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/tesla-fsd-full-self-driving-videos-flaws-glitches-2021-7?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 80
+    images:
+      - url: "https://i.insider.com/60ef4a7d61b8600019f17259?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Elon Musk: Tesla Vision to soon detect turn signals, hazards, police lights & even hand gestures"
     excerpt: "Elon Musk announced that Tesla Vision would soon detect turn signals on other vehicles, hazards lights, police and ambulance lights, and even hand gestures. The move comes as the automaker tries to cover every possible driving situation on the road to delivering a full self-driving system."
     publishedDateTime: 2021-07-12T10:23:00Z

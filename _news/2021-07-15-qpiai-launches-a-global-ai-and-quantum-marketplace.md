@@ -1,22 +1,30 @@
 ---
 category: news
-title: "QpiAI launches a Global AI and Quantum marketplace"
-excerpt: "Dr Nagendra Nagaraja, CEO and Founder of QpiAI announces QpiAI Global AI and Quantum marketplace ( to increase adoption of AI and quantum technologies among enterprises and communities. Registration is now open for enterprise users (mainly buyers) and for the first batch of students who score distinction in the QpiAI-IISc certification program which ends in November as the solutions providers."
-publishedDateTime: 2021-07-14T17:45:00Z
-originalUrl: "https://news.webindia123.com/news/Articles/Business/20210714/3786665.html"
-webUrl: "https://news.webindia123.com/news/Articles/Business/20210714/3786665.html"
+title: "QpiAI launches a global AI and quantum marketplace"
+excerpt: "With the Marketplace, highly skilled students and professionals will be able to participate and benefit in the commercialization of AI and Quantum solutions."
+publishedDateTime: 2021-07-14T23:01:00Z
+originalUrl: "https://www.livemint.com/brand-post/qpiai-launches-a-global-ai-and-quantum-marketplace-11626258600264.html"
+webUrl: "https://www.livemint.com/brand-post/qpiai-launches-a-global-ai-and-quantum-marketplace-11626258600264.html"
+ampWebUrl: "https://www.livemint.com/brand-post/qpiai-launches-a-global-ai-and-quantum-marketplace/amp-11626258600264.html"
+cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/brand-post/qpiai-launches-a-global-ai-and-quantum-marketplace/amp-11626258600264.html"
 type: article
-quality: 19
+quality: 59
 heat: -1
 published: false
 
 provider:
-  name: Webindia 123
-  domain: webindia123.com
+  name: Mint
+  domain: livemint.com
 
 topics:
   - AI Hardware
   - AI
+
+images:
+  - url: "https://images.livemint.com/img/2021/07/14/600x338/8-2_1626261901600_1626261907885.jpg"
+    width: 600
+    height: 337
+    isCached: true
 
 related:
   - title: "Automotive Artificial Intelligence Market Trends and Forecast 2028"
@@ -206,6 +214,6 @@ related:
       domain: reportsnreports.com
     quality: 0
 
-secured: "2rXKhk3XU4No08udYsOyQWg7yfDi+fvJycmhUVPOheekePYhudzALNpJPV71bGIOQILPzyY76P9vJ1AsEMp97VuFZcZIMFdAQTrtOUdHy4/ycxnPfWPri4qh408RDnqQBYSijdzsoe0lb1vMdN4i+t9nu0fAGjh7XGbKZtjGEV+++0Qkw4Vd8xdD1raLBrVKyjwcUVSjCoSccAfxMN3dpcOlfRFrVFB9riHZfh3aSx4HhKQ71vOw7xAv9Xdn4mQYP55gtaf665vybBg93WJU6C2MgO655uWd277xjOcMyqldD3FIDa/QT0E+SrSWKM5IJSRR8gUB/mUkOkP7lGIpAeC+cbbOF4PvJfVvdNk9smg=;HvgB23kirrYdjj/Jdwtzzw=="
+secured: "+yf+skHtCZ3T7U9J1G17DrTVEWV005q8aO45n8/4WU6oJdSnvylxbAkz/ctkpwn1j7kJBKENGMblxxN+0YCBhbK0uyxxFOz60A89rwZ2zVJNNP/osuNUyd5oDuKpUe9u6yhzSHMIDTUSkJMejDmEdwOdCzjI/pn4VZPliZIYAAEPWCxdYA7+nAZayW6FurV/EfE9WI0aNtVP8LLil8vkV3qgFEGKQpZhsviScqOjt7Kz17DT/nAsG7Xd+gege1bYA9urFOUM23IpWeH7moxnbkzQ8weZR7z4EaZmSgsZcHgpBMNGb2af75SS80Y99JK0hOGKXrJ7PW/e3FVRC8qjwOi/Lg1KhV9FO5pFulouKTE=;i/2QWcdGy1SSWJUzTq88UQ=="
 ---
 

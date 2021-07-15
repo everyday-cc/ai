@@ -43,6 +43,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Toyota buys U.S. mapping, road data firm to bulk up driverless tech"
+    excerpt: "Toyota Motor Corp's research arm said on Thursday it acquired U.S.-based Carmera, a provider of maps and data for driverless vehicles, marking the Japanese car maker's latest investment in autonomous technology."
+    publishedDateTime: 2021-07-14T23:38:00Z
+    webUrl: "https://www.nasdaq.com/articles/toyota-buys-u.s.-mapping-road-data-firm-to-bulk-up-driverless-tech-2021-07-14"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 49
   - title: "A Future of Self-Driving Cars"
     excerpt: "When it comes to self-driving cars, the future is now! Recently, Halo launched one of the first commercial driverless car services in the United States, and it will begin to serve customers later this year."
     publishedDateTime: 2021-07-12T14:36:00Z
@@ -59,7 +68,21 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Toyota Tech Arm Plans Self-Driving Acquisition Spree"
+    excerpt: "Toyota Motor Corp.’s software and technology arm plans to embark on an ambitious hiring and acquisition spree as automakers globally jostle for pole position in the race to develop smart cars that will one day drive themselves."
+    publishedDateTime: 2021-07-14T22:00:00Z
+    webUrl: "https://www.ttnews.com/articles/toyota-tech-arm-plans-self-driving-acquisition-spree"
+    type: article
+    provider:
+      name: Transport Topics
+      domain: ttnews.com
+    quality: 24
+    images:
+      - url: "https://h7f7z2r7.stackpathcdn.com/sites/default/files/styles/470x246_with_tt_orange_bar_overlay/public/images/articles/toyota-shuttles1200.jpg?itok=49OnvMZW"
+        width: 470
+        height: 246
+        isCached: true
 
-secured: "jKXODmR6+V4yPqJyc9nt9GQPHira1GSX5ThLa1rvS0wkYoYHoVWuTXxdd62A6qZXJzMymlFWCIAKbh3ZomENBzam75YC76dtQli6lESZAxQci82Tdw1jL68O8Wq+7M3YWWbYVWE6r7wlEY9YFVotkbkrLJmybLs+36B+Jl2J91hm625m2/yAQMS1WkaUlxl9ECcSukukr/IHdU0l44SuBsgNI/xDrFN78NBaFlGIhBqdkSHabqb6k7VNJNVrnZvxh7Zai+PUUdHf2hyJzjG6RcOBkL7iVXzX13vAHzBfwkaoNbc0uLWGr1WZ4EvUYQ8B5pQ6x5SDbEaahKXAJh2S23DUwbavM0dMc58fJ1ogiK4=;7jTQD0qlTa7/Wu+QMr+Q1A=="
+secured: "e8BO8sG8wtjAnh9p4h1GOIb2RMZoh5GwmzhyhLTndCxE6kJ2NQSp8qGPYS2k7IWxkUUbK7oAOdPGAxxw/ewFcZYxFd1FQvR9UiD9xY+kpJrdqS8DflbzU2XBuYqI/b9+qPbNMeqwAPd53glyqg7418VWFbYyjfBhgBCdChvBsa0y65RTYUyyFJwJZ/5tGXrhlg7SPp1b1rEzvLn1O7PyQc1aOLHL7dL2AQOuTlGKck/OpTjJqlZMtie93HQxN8SMYqhkRUHKHZUoy075whU4nFOkLvgAgsuhZhu7m9k3k/6xNx7o6dRatC37PZMNlXxzz8T/+slOmnFPTslTLScOuU6aNrbTrWvQPm2/S5h8229r7irFYXZtwGcyKaPr8qrV032qE81F+SS16MYuUYZgbcAYNKqeqxs/2v/NQMnBVedtrlKyOpUo6442WJLmQt2yUwfUFdqQUJLynH3T7O0c19rYzTfOEC0IkXV0AFksPYNRhIIKmsWohiLMKoMyNW2/+Gaz7uJo6mFTrz12LJXKfg==;isLxkP7YoyU6fRFs4Z+aDA=="
 ---
 

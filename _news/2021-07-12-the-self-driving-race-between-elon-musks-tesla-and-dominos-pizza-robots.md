@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnbc.com/amp/2021/07/10/self-driving-looking-less-like-e
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/07/10/self-driving-looking-less-like-elon-musk-more-dominos-pizza-robots.html"
 type: article
 quality: 105
-heat: 365
+heat: 375
 published: true
 
 provider:
@@ -125,6 +125,22 @@ related:
       - url: "https://img-cdn.tnwcdn.com/image/shift?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F07%2FBETA.jpg&signature=4ef20c5b9875014ecbd6cfae005b72d8"
         width: 1280
         height: 640
+        isCached: true
+  - title: "Videos of Tesla's latest Full Self-Driving software update don't inspire much confidence"
+    excerpt: "Videos show some improvements, but lots of dangerous glitches for a software called \"full self-driving.\""
+    publishedDateTime: 2021-07-14T20:03:00Z
+    webUrl: "https://www.businessinsider.com/tesla-fsd-full-self-driving-videos-flaws-glitches-2021-7"
+    ampWebUrl: "https://www.businessinsider.com/tesla-fsd-full-self-driving-videos-flaws-glitches-2021-7?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/tesla-fsd-full-self-driving-videos-flaws-glitches-2021-7?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 80
+    images:
+      - url: "https://i.insider.com/60ef4a7d61b8600019f17259?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "Elon Musk: Tesla Vision to soon detect turn signals, hazards, police lights & even hand gestures"
     excerpt: "Elon Musk announced that Tesla Vision would soon detect turn signals on other vehicles, hazards lights, police and ambulance lights, and even hand gestures. The move comes as the automaker tries to cover every possible driving situation on the road to delivering a full self-driving system."

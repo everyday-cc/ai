@@ -73,6 +73,22 @@ related:
         width: 1600
         height: 899
         isCached: true
+  - title: "QpiAI launches a global AI and quantum marketplace"
+    excerpt: "With the Marketplace, highly skilled students and professionals will be able to participate and benefit in the commercialization of AI and Quantum solutions."
+    publishedDateTime: 2021-07-14T23:01:00Z
+    webUrl: "https://www.livemint.com/brand-post/qpiai-launches-a-global-ai-and-quantum-marketplace-11626258600264.html"
+    ampWebUrl: "https://www.livemint.com/brand-post/qpiai-launches-a-global-ai-and-quantum-marketplace/amp-11626258600264.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/brand-post/qpiai-launches-a-global-ai-and-quantum-marketplace/amp-11626258600264.html"
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
+    quality: 59
+    images:
+      - url: "https://images.livemint.com/img/2021/07/14/600x338/8-2_1626261901600_1626261907885.jpg"
+        width: 600
+        height: 337
+        isCached: true
   - title: "5 Trends to Watch in Embedded Vision and Edge AI"
     excerpt: "Presented as a virtual event in May, the Embedded Vision Summit examined the latest developments in practical computer vision and AI edge processing. In my role as the summit’s general chair, I reviewed more than 300 great session proposals for the conference."
     publishedDateTime: 2021-07-12T01:39:00Z
@@ -123,15 +139,6 @@ related:
     provider:
       name: openpr.com
       domain: openpr.com
-    quality: 19
-  - title: "QpiAI launches a Global AI and Quantum marketplace"
-    excerpt: "Dr Nagendra Nagaraja, CEO and Founder of QpiAI announces QpiAI Global AI and Quantum marketplace ( to increase adoption of AI and quantum technologies among enterprises and communities. Registration is now open for enterprise users (mainly buyers) and for the first batch of students who score distinction in the QpiAI-IISc certification program which ends in November as the solutions providers."
-    publishedDateTime: 2021-07-14T17:45:00Z
-    webUrl: "https://news.webindia123.com/news/Articles/Business/20210714/3786665.html"
-    type: article
-    provider:
-      name: Webindia 123
-      domain: webindia123.com
     quality: 19
   - title: "Global AI Translation Market Size, Status and Forecast 2021-2027"
     excerpt: "Pages Report] Check for Discount on Global AI Translation Market Size, Status and Forecast 2021-2027 report by QYResearch Group. Market Analysis and Insights: Global AI Translation Market The"

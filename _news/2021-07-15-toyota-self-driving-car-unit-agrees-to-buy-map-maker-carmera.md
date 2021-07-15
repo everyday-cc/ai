@@ -9,7 +9,7 @@ ampWebUrl: "https://www.marketwatch.com/amp/story/toyota-self-driving-car-unit-a
 cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/toyota-self-driving-car-unit-agrees-to-buy-map-maker-carmera-271626296406"
 type: article
 quality: 74
-heat: 94
+heat: 114
 published: true
 
 provider:
@@ -31,6 +31,15 @@ images:
     isCached: true
 
 related:
+  - title: "Toyota buys U.S. mapping, road data firm to bulk up driverless tech"
+    excerpt: "Toyota Motor Corp's research arm said on Thursday it acquired U.S.-based Carmera, a provider of maps and data for driverless vehicles, marking the Japanese car maker's latest investment in autonomous technology."
+    publishedDateTime: 2021-07-14T23:38:00Z
+    webUrl: "https://www.nasdaq.com/articles/toyota-buys-u.s.-mapping-road-data-firm-to-bulk-up-driverless-tech-2021-07-14"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 49
   - title: "A Future of Self-Driving Cars"
     excerpt: "When it comes to self-driving cars, the future is now! Recently, Halo launched one of the first commercial driverless car services in the United States, and it will begin to serve customers later this year."
     publishedDateTime: 2021-07-12T14:36:00Z
@@ -62,6 +71,20 @@ related:
       - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fdb76abab-edd2-4a11-abb9-fd67b076d31c.jpg?source=google-amp&fit=scale-down&width=500"
         width: 500
         height: 281
+        isCached: true
+  - title: "Toyota Tech Arm Plans Self-Driving Acquisition Spree"
+    excerpt: "Toyota Motor Corp.’s software and technology arm plans to embark on an ambitious hiring and acquisition spree as automakers globally jostle for pole position in the race to develop smart cars that will one day drive themselves."
+    publishedDateTime: 2021-07-14T22:00:00Z
+    webUrl: "https://www.ttnews.com/articles/toyota-tech-arm-plans-self-driving-acquisition-spree"
+    type: article
+    provider:
+      name: Transport Topics
+      domain: ttnews.com
+    quality: 24
+    images:
+      - url: "https://h7f7z2r7.stackpathcdn.com/sites/default/files/styles/470x246_with_tt_orange_bar_overlay/public/images/articles/toyota-shuttles1200.jpg?itok=49OnvMZW"
+        width: 470
+        height: 246
         isCached: true
 
 secured: "Rbh1Tg1HCbcF/WhRil080FtWKp81ceL8LhzBnkYW84glagfR1Cb0N3aR6d1cz0ZLKIPTUyMJUSXeqiDzj98+0uaBYxqhGUpjQQdFLNe9ho++tOVo0vLEWHRXocSnd3vAI4m0MmTHgsE9NAKMZpSMBjDbl6Pvs/M69WysNw/FXKW3J8BH+YCfCTz/qoX+JdNGmWfp7Am8+5NVe5Hfjss9EcU22sHwB5ztDzzQR2h0fagXi6JeA5hqjT1Gus0MjLTrrPtFwNXJhsM6REV5PX0mQmCdKAjl2mTKxQ8jb2uCDyq/SmTQbIrU36aUdjJCYVidGeyyUySS9zphpN9cG/qJJIlrNg+NoP2ow4kNK4lvzMI=;jMbReTrwd/czajHXHNfYdw=="

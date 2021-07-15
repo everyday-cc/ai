@@ -8,8 +8,8 @@ webUrl: "https://venturebeat.com/2021/07/14/lambda-labs-raises-15m-for-ai-optimi
 ampWebUrl: "https://venturebeat.com/2021/07/14/lambda-labs-raises-15m-for-ai-optimized-hardware-infrastructure/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/14/lambda-labs-raises-15m-for-ai-optimized-hardware-infrastructure/amp/"
 type: article
-quality: 89
-heat: 89
+quality: 91
+heat: 91
 published: true
 
 provider:
@@ -23,6 +23,7 @@ provider:
 topics:
   - AI Hardware
   - AI
+  - Facebook AI
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2020/06/AI-e1621941163863.jpg?w=1200&strip=all"
@@ -30,6 +31,6 @@ images:
     height: 600
     isCached: true
 
-secured: "tgRx5w55hfp751FAWCUUw7nH0gPXcFybZZtMuBnwr9xyqeHa9C5uZ8DZcf+idkM/Evc+qZgmUSHStLZ+uNOuBGylKOVwH/7wCyNbVy0bLLqAQF5hXjqR/CX/HyI5mThhKghIKVhacz+Kk0Xkz/6Mj89Ty3CfqeAMzZDJAQMB+/Rno+y9JhrY9RCP6gYJMlGqvIHY8Fymd1lbtnLLBcegfCBPmn41Opmf5jdLqaaxBKWqwmTT4KiUg52IHJYY6ktlKo2d1qzbgM7vJSHXPL6rUMcmap/aqeMfQJWxa1vkHn0vGrbpRg7Wn0rEG7j2ULKohFAZDUBPQd5FGnWmKg3MxfwoHpJwj/yzMycghCGZKqY=;AHuwt7Wqh/uVu6kdBdDpqQ=="
+secured: "qjVxXPddGFWYTW1R7QM+gUBxfGE0TdY6YWNdh2VFO4qXsKJU0AYzoXjEgcwE1XOfzxJG4kpuOwc4FLef6c8h0iNQOxxozNZVovTEpbLCEDjoa/NqqsPwK1U/7z4R3I3Xf5noNT2mRJgsuNZ2AV7Tkqd1TY35K7OL7uRrWYQji50auMl1bm8/0OnMYwgI2Nt0ohUXuJMFyIhJnhdOspW0tOW3KlPNMCD0eOmdHVjx9Fz4V/wFw1WfN88OXondDPoqWElaw36yyvGIsc/4JzB5/MZlPIdnjZFhNmKqDP4HhNVotw48LrGJrO5bHmQxIzzBpX4wE2iWVbZ8LXAHgtnnI4lthuv8MFdvBSab1pGG8Z+ukbM5gGz4TdJyLvzqUh/tMwliEMq/hk5ZrlaafSA/7HhXpx/v/FgvEoAoUrDsqz3+ORx6davOfvU5n6WoMMwVt0gA1GTOHPJMlrHqHbReIKg0kIMH4MisyRLjbOdTFWI/EXGQ+09ODNrs/6QFxE9kupuAEd5tXlLYNmbyYreGEg==;ntSyRqdTr2GsIGvzJB5Z/Q=="
 ---
 

@@ -142,6 +142,22 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Videos of Tesla's latest Full Self-Driving software update don't inspire much confidence"
+    excerpt: "Videos show some improvements, but lots of dangerous glitches for a software called \"full self-driving.\""
+    publishedDateTime: 2021-07-14T20:03:00Z
+    webUrl: "https://www.businessinsider.com/tesla-fsd-full-self-driving-videos-flaws-glitches-2021-7"
+    ampWebUrl: "https://www.businessinsider.com/tesla-fsd-full-self-driving-videos-flaws-glitches-2021-7?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/tesla-fsd-full-self-driving-videos-flaws-glitches-2021-7?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 80
+    images:
+      - url: "https://i.insider.com/60ef4a7d61b8600019f17259?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Watch Tesla 'Full Self-Driving' beta 9 in action after Musk warns drivers to stay 'paranoid'"
     excerpt: "Video of the software's latest update in action shows it's very much still in beta. This weekend, Tesla owners' long-awaited update to the \"Full Self-Driving\" system landed, referred to by the company as beta 9."
     publishedDateTime: 2021-07-12T16:15:00Z

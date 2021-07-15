@@ -170,18 +170,18 @@ related:
       domain: telecompaper.com
     quality: 34
   - title: "USF-developed AI system unites global agencies to identify emerging infectious diseases, receives support from Microsoft"
-    excerpt: "Leadership in providing with the public consistent projections of COVID-19 infections and hospitalizations has prompted the"
-    publishedDateTime: 2021-07-14T18:46:00Z
-    webUrl: "https://www.miragenews.com/usf-developed-ai-system-unites-global-agencies-595926/"
+    excerpt: "Leadership in providing with the public consistent projections of COVID-19 infections and hospitalizations has prompted the launch of a USF-led global modeling project sponsored by Microsoft that can ultimately help scientists more swiftly identify and respond to the threat of emerging infectious diseases."
+    publishedDateTime: 2021-07-14T19:52:00Z
+    webUrl: "https://www.usf.edu/news/2021/usf-developed-ai-system-unites-global-agencies-to-identify-emerging-infectious-diseases-receives-support-from-microsoft.aspx"
     type: article
     provider:
-      name: Armed robbery in Revesby
-      domain: miragenews.com
+      name: Health News Florida
+      domain: usf.edu
     quality: 29
     images:
-      - url: "https://www.usf.edu/images/news/2021/usf-developed-ai-system-unites-global-agencies-to-identify-emerging-infectious-diseases-receives-support-from-microsoft/microsoft-snippet-2.jpg"
-        width: 320
-        height: 325
+      - url: "https://www.usf.edu/images/news/2021/usf-developed-ai-system-unites-global-agencies-to-identify-emerging-infectious-diseases-receives-support-from-microsoft/microsoft-article.jpg"
+        width: 733
+        height: 504
         isCached: true
   - title: "Kwik Lok adds Microsoft executive to board"
     excerpt: "Jeff’s addition to Kwik Lok’s board of directors brings many opportunities to expand our innovation, collaboration and technology initiatives,” Kimberly Paxton-Hagner, Kwik Lok board chairwoman, said in a news release."
