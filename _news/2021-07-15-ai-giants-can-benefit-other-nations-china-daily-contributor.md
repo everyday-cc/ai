@@ -1,14 +1,11 @@
 ---
 category: news
 title: "AI giants can benefit other nations: China Daily contributor"
-excerpt: "The openness to AI across the wider economy is indirectly fuelling Chinese innovation in high-tech computer chip manufacturing and software development. Other Asian countries can benefit from China’s recent experience in AI, in pursuing their own ..."
-publishedDateTime: 2021-07-15T05:45:00Z
-originalUrl: "https://www.entornointeligente.com/15/07/2021/ai-giants-can-benefit-other-nations-china-daily-contributor/"
-webUrl: "https://www.entornointeligente.com/15/07/2021/ai-giants-can-benefit-other-nations-china-daily-contributor/"
+excerpt: "In the race to become the leader in artificial intelligence (AI), China and the United States are way ahead of the rest of the world. What does that mean for the other countries? Will these two global technology giants soak up the AI economic dividend all for"
+publishedDateTime: 2021-07-15T07:15:00Z
+originalUrl: "https://www.entornointeligente.com/15/07/2021/ai-giants-can-benefit-other-nations-china-daily-contributor-7/"
+webUrl: "https://www.entornointeligente.com/15/07/2021/ai-giants-can-benefit-other-nations-china-daily-contributor-7/"
 type: article
-quality: 39
-heat: -1
-published: false
 
 provider:
   name: Entorno Inteligente
@@ -18,37 +15,6 @@ topics:
   - AI Hardware
   - AI
 
-images:
-  - url: "https://www.entornointeligente.com/wp-content/uploads/2021/07/ai_giants_can_benefit_other_nations_china_daily_contributor.jpg"
-    width: 763
-    height: 509
-    isCached: true
-
-related:
-  - title: "AI giants can benefit other nations"
-    excerpt: "China and the US are way ahead of the rest of the world. What does that mean for the other countries? Will these two global technology giants soak up the AI economic dividend all for themselves?"
-    publishedDateTime: 2021-07-13T15:12:00Z
-    webUrl: "https://www.phnompenhpost.com/opinion/ai-giants-can-benefit-other-nations"
-    type: article
-    provider:
-      name: The Phnom Penh Post
-      domain: phnompenhpost.com
-    quality: 39
-    images:
-      - url: "https://www.phnompenhpost.com/sites/default/files/field/image/china_has_established_a_skills_base_to_not_only_develop_ai_solutions_but_integrate_them_into_industries_too._china_daily.jpg"
-        width: 990
-        height: 660
-        isCached: true
-  - title: "CSPs Can Use AI to Simplify Operations"
-    excerpt: "Automated operations are table stakes for communications service providers (CSPs) looking to enhance operations, grow revenue and improve customer experience."
-    publishedDateTime: 2021-07-13T21:39:00Z
-    webUrl: "https://www.lightreading.com/partner-perspectives-(sponsored-content)/csps-can-use-ai-to-simplify-operations/a/d-id/770843"
-    type: article
-    provider:
-      name: Light Reading
-      domain: lightreading.com
-    quality: 19
-
-secured: "iKptlqf2uiSb62orUUt9+1cIyS79ZnuRguHAtIeP5sXtNsUsyrmt247t6hVIBh6yCsD8G9biqMi/vEtc8nTKkqzb/mVOg8/DKrygUbuxh2t20s4juwXqhhLb0NK+xoi6Cif7MU9VLmpcM4o/Q3QJ1Hv7U9kUBCEIUSwo2wXdOZk3veI/Ncg+BGfPLJTMtrXirXgPwhHoukOLh9inlGt1gG8I+jCet1lo6Gw2rwp8Th2NTOZikp1ayZ/fJ1NlxVp75lXQbiNrHy8ghTyGdds/pHEVoMQmBn8w1n9i1FQVdqhWsJ0r335RDfmUVAITR/88i6FnE+KT0O/x6nRWru9lL7fzI7NoKL4TApz7PC5drOM=;xe/Fa7v+QqZhO09RL6oE5w=="
+secured: "QasNIFD7+Z90CdtzUrznggrGeloytXbzBZ7/28nt5l+MVwpyAL2SIMyW8OUNTM06f6MlytCrw05HDKYBVbHx6Wl7nnBKTiqOQmqGB+LJ03rCdVgsgyKJ88yWldVtWvqj86ZuR/nWY595yqW1JutZEJt9BBUkOEPCl9CFpzSB5KhU8DE4kPN1MYFExHPw0UtpGBb/x90JnC+njtkLJ5XcGIQC4U9rz44/EyHETlq9d1B4dT0I1jjO9vuGFbdyZvvanvf6oWd0YkUlI5krA/sxxf3HtmCYKkcqi9Gu7fA3YpNFdXRE9GTpetfCPeSZhM1UTNXk/k0e6/prbhJb3qjraRhuoqHjqI2Bs+C1WXLJz7yIjPmfXD1M9YiCL9kRzVUl7l31M0xLRSbdtNvAbJRU0yM7IZ5rH4UAfFtOfb9mNDhzQ1UBXH/s656oDb4KFQ8l2FDO15CMNXoMbvuP+uqaFETNg+O0lwRZ4BSh5KTDU1wqh9ve1bhslaz2pRnsYyl5wa0VURvH01rEtkZxSUsE8w==;Ox2DLVdNhcB7/TTkchpYJA=="
 ---
 
